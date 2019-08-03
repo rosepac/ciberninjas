@@ -28,7 +28,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /:categorias/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -58,22 +58,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Pablo Álvarez Corredera"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Documentalista Digital. Adicto a la tecnología."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/rosepac"
+    - label: "ASTURIAS, SEO & POSICIONAMIENTO WEB"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.pabloalvarezcorredera.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ciberaprendiz"
+    - label: "Cibercursos"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/cibercursos"
 
 footer:
   links:
@@ -109,7 +109,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /categorias/
 tag_archive:
   type: liquid
   path: /tags/
