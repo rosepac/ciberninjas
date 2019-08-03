@@ -1,7 +1,7 @@
 ---
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
-categorias:
+categories:
   - Blog
 tags:
   - Post Formats

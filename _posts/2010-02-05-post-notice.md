@@ -1,6 +1,6 @@
 ---
 title: "Post: Notice"
-categorias:
+categories:
   - Blog
 tags:
   - Post Formats
