@@ -1,4 +1,11 @@
-# Funcionamiento del tema remoto: Minimal Mistakes
+## Comandos de Ruby
+
+Control de "gemas" [Bundler.io](https://bundler.io/v2.0/man/bundle.1.html)
+
+- Ejecutar `bundle update` para actualizar los paquetes de gemas.
+- Ejecutar `bundle clean` para limpiar las gemas en desuso.
+
+## Funcionamiento del tema remoto: Minimal Mistakes
 
 Bifurca este repositorio para el método más rápido de comenzar con el tema [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
