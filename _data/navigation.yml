@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Categorías"
     url: /categorias/
-  - title: "Tags"
+  - title: "Etiquetas"
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Conóceme"
+    url: /acerca-de/
