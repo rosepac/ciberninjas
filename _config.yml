@@ -51,7 +51,6 @@ include:
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
-  - jekyll-admin
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
