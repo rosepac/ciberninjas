@@ -16,10 +16,5 @@ fields:
 - type: list
   name: tags
   label: tags
-- name: link
-  type: text
-  config:
-    required: false
-  label: link
 pages:
 - _posts/2019-08-05-puebra-de-enlace-del-titulo.md
