@@ -9,7 +9,7 @@ sections:
   label: Páginas
   create: all
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: '20190806235432'
 - type: jekyll-posts
   label: Posts
   create: all
@@ -18,6 +18,7 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
+instant_preview: true
 build:
   preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
   publish_command: bundle exec jekyll build -d _site
