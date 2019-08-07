@@ -2,3 +2,5 @@
 label: Cómo Generar Contenido
 hide_body: false
 fields: []
+pages:
+- _posts/titulo de pruebas.md
