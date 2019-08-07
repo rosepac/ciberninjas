@@ -9,5 +9,3 @@ fields:
   label: title
   hidden: true
   description: Título de la Entrada
-pages:
-- _posts/titulo de pruebas.md
