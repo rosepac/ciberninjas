@@ -1,7 +1,6 @@
 ---
 permalink: "/glosario/"
 title: Glosario
-published: false
 
 ---
 # Glosario
