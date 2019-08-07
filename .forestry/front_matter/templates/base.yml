@@ -21,3 +21,5 @@ fields:
   config:
     required: false
   label: link
+pages:
+- _posts/puebra-de-enlace-del-titulo.md
