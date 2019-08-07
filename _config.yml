@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ciberninjas
+title: Ciberninjas ▷ Aprender Programación Desde Cero & Mucho Más
 email: rosepac21@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  La Biblia de la Programación y los Framework de las Nuevas Tecnologías. Biblioteca de libros, cursos, frameworks, librerías, aplicaciones, recursos y herramientas.
 twitter_username: ciberaprendiz
 github_username: rosepac
 minimal_mistakes_skin: default
@@ -28,10 +26,10 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Madrid
 
 include:
   - _pages
@@ -60,12 +58,12 @@ plugins:
 author:
   name   : "Pablo Álvarez Corredera"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Documentalista Digital. Adicto a la tecnología."
+  bio    : "Documentalista Digital. Adicto a la tecnología; la Programación & el Diseño, el Testing, la Ciberseguridad, la Inteligencia Artificial y las Criptomonedas."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rosepac"
-    - label: "ASTURIAS, SEO & POSICIONAMIENTO WEB"
+    - label: "Asturias & SEO"
       icon: "fas fa-fw fa-link"
       url: "https://www.pabloalvarezcorredera.com"
     - label: "Twitter"
