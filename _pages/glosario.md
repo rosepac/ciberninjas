@@ -6,7 +6,7 @@ published: false
 ---
 # Glosario
 
-Glosario para el módulo de Gestión de Bases de Datos de 1º ASIR.
+Glosariio para el módulo de Gestión de Bases de Datos de 1º ASIR.
 
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
@@ -32,7 +32,7 @@ Las bases de datos NoSQL utilizan una variedad de modelos de datos para acceder 
 
 ### Bases de datos orientadas a objetos
 
-En una base de datos orientada a objetos la información se representa en forma de objetos como los que son utilizados en la programación orientada a objetos. Las bases de datos orientadas a objetos son diseñadas para que trabjar bien en conjunción con lenguajes de programación orientados a objetos como Java, C# o C++. 
+En una base de datos orientada a objetos la información se representa en forma de objetos como los que son utilizados en la programación orientada a objetos. Las bases de datos orientadas a objetos son diseñadas para que trabjar bien en conjunción con lenguajes de programación orientados a objetos como Java, C# o C++.
 
 Un **sistema gestor de base de datos orientada a objetos** (ODBMS, object database management system) integra las características de una base de datos con las de un lenguaje de programación orientado a objetos. Un ODBMS hace que los objetos de la base de datos aparezcan como objetos de en los lenguajes de programación a los que dé soporte. Un ODBMS extiende los lenguajes con datos persistentes de forma transparente, control de concurrencia, recuperación de datos, consultas asociativas y otras capacidades.
 
@@ -76,7 +76,7 @@ Un Blockchain, traducido al castellano como cadena de bloques o cadena articulad
 
 ## N
 
-## O 
+## O
 
 ### Organización secuencial en archivos
 
@@ -90,7 +90,7 @@ Son archivos organizados  de manera secuencial encadenada mediante punteros , so
 
 Un archivo esta organizado en modo directo cuando el orden físico no se corresponde con el orden lógico. Los datos se sitúan en el archivo y se accede a ellos directa, aleatoriamente, mediante su posición, es decir, el lugar relativo que ocupan. Esta organización tiene la ventaja de que se pueden leer y escribir registros en cualquier orden y posición. Son muy rápidos de acceso a la información que contienen.
 
-***La organización directa*** tiene el inconveniente de que se necesita programarla relación existente entre el contenido de un registro y la posición que ocupa. El acceso a los registros en modo directo implica la posible existencia de huecos libres dentro del soporte y por consecuencia pueden existir huecos libres entre los registros.
+**_La organización directa_** tiene el inconveniente de que se necesita programarla relación existente entre el contenido de un registro y la posición que ocupa. El acceso a los registros en modo directo implica la posible existencia de huecos libres dentro del soporte y por consecuencia pueden existir huecos libres entre los registros.
 
 ## P
 
@@ -102,11 +102,11 @@ Un archivo esta organizado en modo directo cuando el orden físico no se corresp
 
 ### Sistema Gestor de Base de Datos
 
-Un Sistema Gestor de Base de Datos (SGBD) es un conjunto de programas no visibles que administran y gestionan la información que contiene una base de datos. A través de él se maneja todo acceso a la base de datos con el objetivo de servir de interfaz entre ésta, el usuario y las aplicaciones. Proporciona herramientas que permiten el almacenamiento, la extracción y modificación en una base de datos, además de proporcionar herramientas para añadir, borrar o modificar los datos entre otras. 
+Un Sistema Gestor de Base de Datos (SGBD) es un conjunto de programas no visibles que administran y gestionan la información que contiene una base de datos. A través de él se maneja todo acceso a la base de datos con el objetivo de servir de interfaz entre ésta, el usuario y las aplicaciones. Proporciona herramientas que permiten el almacenamiento, la extracción y modificación en una base de datos, además de proporcionar herramientas para añadir, borrar o modificar los datos entre otras.
 
 ### SQL
 
-Es un lenguaje utilizado en programación diseñado para administrar sistemas gestor de bases de datos relacionales. Utiliza principalmente algebra y calculo racional para realizar consultas para obtener información de bases de datos y modificarlos. 
+Es un lenguaje utilizado en programación diseñado para administrar sistemas gestor de bases de datos relacionales. Utiliza principalmente algebra y calculo racional para realizar consultas para obtener información de bases de datos y modificarlos.
 
 ### Sistema de Base de datos en red
 
