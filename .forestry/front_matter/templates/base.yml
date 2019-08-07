@@ -26,5 +26,5 @@ fields:
   name: tags
   label: tags
 pages:
-- _posts/wikipedia/prueba-uno.md
+- _posts/wikipedia/2019-08-07-prueba-uno.md
 - _posts/2019-04-18-welcome-to-jekyll.md
