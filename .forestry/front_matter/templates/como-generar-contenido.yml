@@ -1,6 +1,13 @@
 ---
 label: Cómo Generar Contenido
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: title
+  hidden: true
+  description: Título de la Entrada
 pages:
 - _posts/titulo de pruebas.md
