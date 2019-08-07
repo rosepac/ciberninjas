@@ -1,8 +1,8 @@
 ---
-permalink: /acerca-de/
-title: "Acerca De.."
----
+permalink: "/glosario/"
+title: Glosario
 
+---
 # Glosario
 
 Glosario para el módulo de Gestión de Bases de Datos de 1º ASIR.
@@ -132,19 +132,3 @@ Así, la estructura de árbol se puede considerar como un caso especial de la es
 ## Y
 
 ## Z
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
