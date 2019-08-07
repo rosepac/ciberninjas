@@ -1,13 +1,13 @@
 ---
-title: Cómo publicar en Jekyll!
+title: Cómo publicar con Jekyll!
 date: 2019-04-18T19:34:30.000+00:00
 categories:
-- blog
+- Blog
 tags:
 - Jekyll
-- update
 - publicar
-description: ''
+description: La entrada que desarrolla los diferentes apartados de cómo editar de
+  formas diferentes una publicación de Jekyll.
 
 ---
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
