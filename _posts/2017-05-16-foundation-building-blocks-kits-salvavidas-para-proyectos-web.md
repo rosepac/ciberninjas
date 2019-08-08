@@ -13,7 +13,7 @@ categories:
     - codigo-abierto
     - framework-css
 permalink:
-    /foundation-building-blocks-kits-salvavidas-para-proyectos-web
+    foundation-building-blocks-kits-salvavidas-para-proyectos-web
 image:
     ../assets/images/feature: foundation_1.jpg
 ---
