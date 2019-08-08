@@ -18,15 +18,12 @@ permalink:
 image:
     ../assets/images/feature: foundation_1.jpg
 ---
-> Montar páginas web´s, ahora es mucho más sencillo con el **Framework Foundation**. 
 
-
+Montar páginas web´s, ahora es mucho más sencillo con el **Framework Foundation**. 
 
 Desde el **Framework Foundation**, y desde Abril nos presentan un importante repositorio de elementos ya pre-diseñados denominado [_Foundation Building Blocks_][1], lo cual servirá de gran ayuda para las personas que se inicien con dicho **Framework** e incluso para ahorrar mucho tiempo en el desarrollo de personas ya experimentadas.
 
 El equipo de **Foundation** se ha propuesto reducir el tiempo del desarrollo de un proyecto, lanzando [_Foundation Building Blocks_][1] — una completa biblioteca de componentes UI (interfaces de usuario) de código abierto, formado por elementos que pueden ser utilizados casi por norma en cualquier proyecto dentro del **Framework Foundation**.
-
-[toc]
 
 ## Cientos de códigos para tus proyectos
 
@@ -50,7 +47,7 @@ A diferencia de una plantilla, estos _kits_ no dictaminan la estructura de la p�
 
 ## Componentes creados por la Comunidad
 
-Probado por los diseñadores y desarrolladores a lo largo de todo el mundo y revisado por el equipo de **ZURB**. [_Building Blocks_][1] seguirá creciendo con componentes creados por la Comunidad. ¿Ves componentes o patrones que falten? Puedes agregar estos, siguiendo [estos pasos][3] y será revisado por **ZURB **y liberado a la comunidad posteriormente.
+Probado por los diseñadores y desarrolladores a lo largo de todo el mundo y revisado por el equipo de **ZURB**. [_Building Blocks_][1] seguirá creciendo con componentes creados por la Comunidad. ¿Ves componentes o patrones que falten? Puedes agregar estos, siguiendo [_estos pasos_][3] y será revisado por **ZURB **y liberado a la comunidad posteriormente.
 
 ## Código que reducirá el tiempo de desarrollo
 
@@ -66,19 +63,19 @@ Su instalación directa se puede ejecutar tras la previa instalación de la últ
 
 A continuación, para cualquier proyecto del _kit_:
 
-`foundation kits install `
+`foundation kits install`
 
 Con el siguiente comando, para cualquier bloque específico:
 
-`foundation blocks install `
+`foundation blocks install`
 
 Desde **ZURB** afirman que han logrado reducir el tiempo de desarrollo y están muy contentos con la acogida del proyecto.
 
-* * *
+---
 
 > **Proyecto:** [Blog Oficial del Framework Foundation][1]
     
-> **Repositorio:** [Github][4]
+> **Repositorio:** [_Github_][4]
 
  [1]: https://kutt.it/foundationblocks
  [2]: https://kutt.it/foundationkits
