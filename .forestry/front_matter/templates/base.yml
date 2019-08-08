@@ -10,6 +10,15 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: last_modified_at
+  type: datetime
+  label: last_modified_at
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - type: list
   name: categories
   label: categories
