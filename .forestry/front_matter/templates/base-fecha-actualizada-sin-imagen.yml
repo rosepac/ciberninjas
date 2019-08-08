@@ -26,22 +26,6 @@ fields:
 - type: text
   name: description
   label: description
-- type: field_group
-  name: header
-  label: header
-  fields:
-  - type: text
-    name: overlay_image
-    label: overlay_image
-  - type: text
-    name: image_description
-    label: image_description
-  - type: text
-    name: caption
-    label: caption
-  - type: text
-    name: overlay_filter
-    label: overlay_filter
 - type: text
   name: image
   label: image
