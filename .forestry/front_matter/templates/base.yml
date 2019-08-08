@@ -30,5 +30,25 @@ fields:
   config:
     required: false
   label: permalink
+- name: header
+  type: field_group
+  config: {}
+  fields:
+  - name: overlay_image
+    type: text
+    config:
+      required: false
+    label: overlay_image
+  - name: image_description
+    type: text
+    config:
+      required: false
+    label: image_description
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: caption
+  label: header
 pages:
 - _posts/2019-04-18-welcome-to-jekyll.md
