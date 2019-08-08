@@ -32,6 +32,8 @@ fields:
   - type: text
     name: overlay_image
     label: overlay_image
+    config:
+      required: true
   - type: text
     name: image_description
     label: image_description
