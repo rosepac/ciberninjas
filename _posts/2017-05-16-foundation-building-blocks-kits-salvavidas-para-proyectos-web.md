@@ -1,4 +1,5 @@
 ---
+layout: blog
 title: 'Foundation Building Blocks: kits salvavidas para proyectos web'
 published: true
 author: rosepac
