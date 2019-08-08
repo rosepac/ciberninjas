@@ -23,6 +23,15 @@ header:
 
 {:.toc}
 
+## 🕵️‍♂️ Enlaces por Investigar (-_pendientes-_)
+
+* [FULL Contenido de Publicación](https://mmistakes.github.io/minimal-mistakes/year-archive/ "Los trucos necesarios para generar una plantilla bien implementada sobre Jekyll"), de mi Plantilla Minimal Mistake
+* [Documentación Plantilla Minimal Mistake](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide "Documentación de la plantilla Minimal Mistake para Jekyll, paso a paso todas las pautas para su funcionamiento")
+* [Cómo crear Colecciones con Jekyll](https://jekyllrb.com/docs/collections "Crear colecciones con Jekyll") (jekyllrb.com)
+  * [Cómo crear Colecciones con Jekyll](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Jekyll con la plantilla Minimal Mistake") (..en Plantilla Minimal Mistake)
+* [Kramdown](https://kramdown.gettalong.org/converter/html.html "Kramdown, la librería de código de Ruby que implementa acciones desde el código a través de Markdown") (librería de Ruby, que permite implementar índices entre otras muchas cosas)
+* [Foro de Jekyll](https://talk.jekyllrb.com/ "El foro más grande que he encontrado sobre Jekyll")
+
 ## Cómo Publicar Con Jekyll
 
 ### Publicar un Enlace
@@ -128,14 +137,6 @@ En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Jekyll](htt
 ## Enlaces Externos
 
 Colección de enlaces que he ido guardando con los que poder aprender el uso lo más correcto posible de Jekyll, Ruby, Github Pages y Forestry.
-
-### 🕵️‍♂️ Enlaces por Investigar (_pendientes o en uso actualmente_)
-
-* [FULL Contenido de Publicación](https://mmistakes.github.io/minimal-mistakes/year-archive/ "Los trucos necesarios para generar una plantilla bien implementada sobre Jekyll"), de mi Plantilla Minimal Mistake
-* [Documentación Plantilla Minimal Mistake](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide "Documentación de la plantilla Minimal Mistake para Jekyll, paso a paso todas las pautas para su funcionamiento")
-* [Cómo crear Colecciones con Jekyll](https://jekyllrb.com/docs/collections "Crear colecciones con Jekyll") (jekyllrb.com)
-  * [Cómo crear Colecciones con Jekyll](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Jekyll con la plantilla Minimal Mistake") (..en Plantilla Minimal Mistake)
-* [Kramdown](https://kramdown.gettalong.org/converter/html.html "Kramdown, la librería de código de Ruby que implementa acciones desde el código a través de Markdown") (librería de Ruby, que permite implementar índices entre otras muchas cosas)
 
 ### Enlaces de Chuletas
 
