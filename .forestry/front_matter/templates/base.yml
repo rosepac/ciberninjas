@@ -51,9 +51,9 @@ fields:
   config: {}
   fields:
   - name: overlay_image
-    type: text
+    type: file
     config:
-      required: false
+      maxSize: 250
     label: overlay_image
   - name: image_description
     type: text
@@ -71,10 +71,5 @@ fields:
       required: false
     label: overlay_filter
   label: header
-- name: image
-  type: file
-  config:
-    maxSize: 250
-  label: image
 pages:
 - _posts/2017-05-16-foundation-building-blocks-kits-salvavidas-para-proyectos-web.md
