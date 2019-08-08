@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 'Foundation Building Blocks: kits salvavidas para proyectos web'
 author: rosepac
 comments: true
