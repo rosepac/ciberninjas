@@ -1,11 +1,21 @@
-## Comandos de Ruby
+# Página Web: Ciberninjas
+
+Esta página web ha sido creada desde un Fork de la [Plantilla de Jekyll]("Plantilla de Jekyll de Minimal Mistakes") enfocada en generar un amplio repositorio en post y servicio de recursos y herramientas de la información y el aprendizaje de la programación, la informática y las nuevas tecnologías web.
+
+## Tabla de contenido
+
+- [Comandos de Ruby](#comandos-de-ruby).
+- [Funcionamiento del tema remoto: Minimal Mistakes](#funcionamiento-del-tema-remoto-Minimal-Mistakes)
+- [Solución de Problemas](#solucion-de-problemas)
+
+### Comandos de Ruby
 
 Control de "gemas" [Bundler.io](https://bundler.io/v2.0/man/bundle.1.html)
 
 - Ejecutar `bundle update` para actualizar los paquetes de gemas.
 - Ejecutar `bundle clean` para limpiar las gemas en desuso.
 
-## Funcionamiento del tema remoto: Minimal Mistakes
+### Funcionamiento del tema remoto: Minimal Mistakes
 
 Bifurca este repositorio para el método más rápido de comenzar con el tema [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
@@ -25,7 +35,7 @@ Reemplace el contenido de muestra con el suyo y [configúrelo según sea necesar
 
 ---
 
-## Solución de Problemas
+### Solución de Problemas
 
 Si tiene alguna pregunta sobre el uso de Jekyll, comience una discusión en el [Foro de Jekyll](https://talk.jekyllrb.com/) o [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Otros Recursos:
 
