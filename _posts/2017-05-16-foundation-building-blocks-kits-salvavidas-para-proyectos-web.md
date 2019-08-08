@@ -14,8 +14,10 @@ categories:
     - framework-css
 permalink:
     foundation-building-blocks-kits-salvavidas-para-proyectos-web
-image-feature:
-    ../assets/images/foundation_1.jpg
+header:
+  image: /assets/images/foundation_1.jpg
+  image_description: "Descripción de la imagen"
+  caption: "Créditos: [**Unsplash**](https://unsplash.com)"
 ---
 
 Montar páginas web´s, ahora es mucho más sencillo con el **Framework Foundation**. 
