@@ -1,7 +1,6 @@
 ---
-layout: blog
+layout: default
 title: 'Foundation Building Blocks: kits salvavidas para proyectos web'
-published: true
 author: rosepac
 comments: true
 date: 2017-05-16 03:05:35
@@ -15,9 +14,9 @@ categories:
     - codigo-abierto
     - framework-css
 permalink:
-    foundation-building-blocks-kits-salvavidas-para-proyectos-web
+    /foundation-building-blocks-kits-salvavidas-para-proyectos-web
 image:
-    feature: foundation_1.jpg
+    ../assets/images/feature: foundation_1.jpg
 ---
 > Montar páginas web´s, ahora es mucho más sencillo con el **Framework Foundation**. 
 
