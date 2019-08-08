@@ -10,6 +10,8 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    required: true
 - name: last_modified_at
   type: text
   config:
