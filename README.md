@@ -1,6 +1,6 @@
 # Página Web: Ciberninjas
 
-Esta página web ha sido creada desde un Fork de la [Plantilla de Jekyll]("Plantilla de Jekyll de Minimal Mistakes") enfocada en generar un amplio repositorio en post y servicio de recursos y herramientas de la información y el aprendizaje de la programación, la informática y las nuevas tecnologías web.
+Esta página web ha sido creada desde un Fork de la [Plantilla de Jekyll](https://github.com/mmistakes/minimal-mistakes "Plantilla de Jekyll de Minimal Mistakes") enfocada en generar un amplio repositorio en post y servicio de recursos y herramientas de la información y el aprendizaje de la programación, la informática y las nuevas tecnologías web.
 
 ## Tabla de contenido
 
