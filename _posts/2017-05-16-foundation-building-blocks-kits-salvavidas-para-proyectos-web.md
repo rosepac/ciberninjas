@@ -14,8 +14,8 @@ tags:
 categories:
     - codigo-abierto
     - framework-css
-permalink: >
-    /foundation-building-blocks-kits-salvavidas-para-proyectos-web
+permalink:
+    foundation-building-blocks-kits-salvavidas-para-proyectos-web
 image:
     feature: foundation_1.jpg
 ---
