@@ -25,6 +25,9 @@ header:
 
 ## 🕵️‍♂️ Enlaces por Investigar (-_pendientes-_)
 
+* [Jekyll Comenzando](https://terminaladdict.com/linux/jekyll/bash/development/2018/10/17/Jekyll-Getting-Started.html "Jekyll comenzando, publicación creada en el blog Terminal Adicto") (terminaladdict.com)
+  * [Usando Jekyll 2017](https://mademistakes.com/articles/using-jekyll-2017 "Usando Jekyl 2017. Cómo ir creando una plantilla por completo, paso a paso")
+    * [Menú de Navegación](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/ "Cómo crear un menú de navegación en un blog estático con Jekyll") - Jekyll Plugins con los que generar una plantilla.. ([jekyll-picture-tag](https://github.com/robwierzbowski/jekyll-picture-tag), [sort_name](https://github.com/mmistakes/made-mistakes-jekyll/blob/master/src/_plugins/sort_name.rb), [jekyll-archives](https://github.com/jekyll/jekyll-archives), [jekyll-assets](https://github.com/jekyll/jekyll-assets), [jekyll/tagging](https://github.com/pattex/jekyll-tagging), [jekyll-tagging-related_posts](https://github.com/toshimaru/jekyll-tagging-related_posts), [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap), [jemoji](https://github.com/jekyll/jemoji), [jekyll-category-post-navigation](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/), and [jekyll-typogrify](https://github.com/myles/jekyll-typogrify).)
 * [FULL Contenido de Publicación](https://mmistakes.github.io/minimal-mistakes/year-archive/ "Los trucos necesarios para generar una plantilla bien implementada sobre Jekyll"), de mi Plantilla Minimal Mistake
 * [Documentación Plantilla Minimal Mistake](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide "Documentación de la plantilla Minimal Mistake para Jekyll, paso a paso todas las pautas para su funcionamiento")
 * [Cómo crear Colecciones con Jekyll](https://jekyllrb.com/docs/collections "Crear colecciones con Jekyll") (jekyllrb.com)
