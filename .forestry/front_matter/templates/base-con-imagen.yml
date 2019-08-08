@@ -12,9 +12,6 @@ fields:
   name: tags
   label: tags
 - type: datetime
-  name: last_modified_at
-  label: last_modified_at
-- type: datetime
   name: date
   label: date
 - type: text
