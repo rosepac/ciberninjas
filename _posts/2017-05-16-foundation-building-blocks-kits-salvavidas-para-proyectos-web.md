@@ -72,11 +72,9 @@ Con el siguiente comando, para cualquier bloque específico:
 
 Desde **ZURB** afirman que han logrado reducir el tiempo de desarrollo y están muy contentos con la acogida del proyecto.
 
-
-
-> **Proyecto:** [Blog Oficial del Framework Foundation][1]
+**Proyecto:** [Blog Oficial del Framework Foundation][1]
     
-> **Repositorio:** [_Github_][4]
+**Repositorio:** [_Github_][4]
 
  [1]: https://kutt.it/foundationblocks
  [2]: https://kutt.it/foundationkits
