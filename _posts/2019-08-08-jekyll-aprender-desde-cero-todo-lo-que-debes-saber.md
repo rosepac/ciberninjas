@@ -1,5 +1,5 @@
 ---
-title: Jekyll, aprender desde cero todo lo que debes saber
+title: Jekyll, aprender desde cero
 categories:
 - SSG
 tags:
@@ -14,7 +14,7 @@ description: "\U0001F6E0 Jekyll, el mejor generador de contenidos estático. Apr
   desde cero todo lo que debes saber"
 header:
   overlay_image: "/assets/images/jekyll-blog.jpg"
-  overlay_filter: "0.3"
+  overlay_filter: "0.2"
   image_description: Jekyll, generador de sitios estáticos | Ciberninjas
   caption: "**Créditos**: [WikiMedia](https://es.wikipedia.org/wiki/Archivo:Jekyll_(software)_Logo.png)"
 
