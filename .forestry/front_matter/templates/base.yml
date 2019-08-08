@@ -11,14 +11,10 @@ fields:
   name: date
   label: date
 - name: last_modified_at
-  type: datetime
-  label: last_modified_at
-  description: ''
+  type: text
   config:
     required: false
-    date_format: 
-    time_format: 
-    display_utc: false
+  label: last_modified_at
 - type: list
   name: categories
   label: categories
