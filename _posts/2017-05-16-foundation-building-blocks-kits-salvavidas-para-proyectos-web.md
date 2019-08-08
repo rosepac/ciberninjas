@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: splash
 title: 'Foundation Building Blocks: kits salvavidas para proyectos web'
-comments: true
+comments: false
 date: 2017-05-16 03:05:35
 tags:
     - componentes
