@@ -7,15 +7,6 @@ fields:
   label: title
   config:
     required: true
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: description
 - type: datetime
   name: date
   label: date
@@ -30,6 +21,24 @@ fields:
   config:
     required: false
   label: permalink
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: excerpt
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
 - name: header
   type: field_group
   config: {}
@@ -49,6 +58,16 @@ fields:
     config:
       required: false
     label: caption
+  - name: overlay_filter
+    type: text
+    config:
+      required: false
+    label: overlay_filter
   label: header
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: image
 pages:
 - _posts/2019-04-18-welcome-to-jekyll.md
