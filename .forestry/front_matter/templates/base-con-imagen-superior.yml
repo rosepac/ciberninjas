@@ -43,3 +43,5 @@ fields:
   - type: text
     name: caption
     label: caption
+pages:
+- _posts/jekyll-aprender-desde-cero-todo-lo-que-debes-saber.md
