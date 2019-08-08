@@ -133,6 +133,12 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 * [Forestry: Campos/Fields](https://forestry.io/docs/settings/fields/#text "Campos/Fields, utilizados en las plantillas de Forestry "), utilizados en las plantillas
 * [Forestry: Snippets](https://forestry.io/docs/settings/snippets "Forestry: Snippets") similar a los "shortcodes" de Wordpress
 
+### Comercio Electrónico
+* [Snipcart + Jekyll](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll "Snipcart, es un pequeño sistema de getión de comercios electrónicos que permite generar una tienda online estática")
+
+POR INVESTIGAR
+{:notice-info}
+
 ### Lenguaje de Uso: Liquid
 * [¿Qué es Liquid?](https://shopify.github.io/liquid "Lenguaje generador de plantillas; seguro y orientado al cliente para aplicaciones web flexibles.")
 
