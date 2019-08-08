@@ -40,5 +40,11 @@ fields:
   - type: text
     name: caption
     label: caption
+  - name: image_description
+    type: text
+    config:
+      required: false
+    label: image_description
+    description: Descripción de la imagen, !IMPORTANTE SEO¡
 pages:
 - _posts/2019-08-08-jekyll-aprender-desde-cero-todo-lo-que-debes-saber.md
