@@ -38,9 +38,6 @@ fields:
     name: overlay_filter
     label: overlay_filter
   - type: text
-    name: image_description
-    label: image_description
-  - type: text
     name: caption
     label: caption
 pages:
