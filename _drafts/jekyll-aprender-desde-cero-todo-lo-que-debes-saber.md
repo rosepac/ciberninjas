@@ -121,6 +121,12 @@ En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Jekyll](htt
 
 Colección de enlaces que he ido guardando con los que poder aprender el uso lo más correcto posible de Jekyll, Ruby, Github Pages y Forestry.
 
+### 🕵️‍♂️ Enlaces por Investigar (_pendientes o en uso actualmente_)
+
+* [Documentación Plantilla Minimal Mistake](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide "Documentación de la plantilla Minimal Mistake para Jekyll, paso a paso todas las pautas para su funcionamiento")
+* [Cómo crear Colecciones con Jekyll](https://jekyllrb.com/docs/collections "Crear colecciones con Jekyll") (jekyllrb.com)
+	* [Cómo crear Colecciones con Jekyll](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Jekyll con la plantilla Minimal Mistake") (..en Plantilla Minimal Mistake)
+
 ### Enlaces de Chuletas
 
 * [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/ "Chuleta de todos los emoticonos suportados dentro de la Gema de Ruby Gemoji "): Lista de Emojis / Emoticonos que pueden ser usados al estilo de los emoticones de Github :+1:
@@ -134,12 +140,14 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 * [Forestry: Snippets](https://forestry.io/docs/settings/snippets "Forestry: Snippets") similar a los "shortcodes" de Wordpress
 
 ### Comercio Electrónico
+
 * [Snipcart + Jekyll](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll "Snipcart, es un pequeño sistema de getión de comercios electrónicos que permite generar una tienda online estática")
 
 POR INVESTIGAR
 {:notice-info}
 
 ### Lenguaje de Uso: Liquid
+
 * [¿Qué es Liquid?](https://shopify.github.io/liquid "Lenguaje generador de plantillas; seguro y orientado al cliente para aplicaciones web flexibles.")
 
 ### Plugins de Jekyll
@@ -148,5 +156,10 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 
 * [Github: Jekyll - Twitter](https://github.com/rob-murray/jekyll-twitter-plugin "Plugin que permite trabajar a la API de Twitter desde Jekyll")
 
+### Temas de Jekyll
+
+* [Agregar un tema Jekyll](https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser "Agregar un tema o plantilla a tu página web creada con Jekyll y las Páginas de Github") en Github Pages, con el Selector de temas de Jekyll
+
 ### Videotutoriales
+
 * [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso")
