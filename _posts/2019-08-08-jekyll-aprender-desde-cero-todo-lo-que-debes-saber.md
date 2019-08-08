@@ -163,6 +163,7 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 ### Temas de Jekyll
 
 * [Agregar un tema Jekyll](https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser "Agregar un tema o plantilla a tu página web creada con Jekyll y las Páginas de Github") en Github Pages, con el Selector de temas de Jekyll
+* [Plantilla de Documentación Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/index.html "Plantilla de Documentación de Jekyll con diferentes Layouts")
 
 ### Videotutoriales
 
