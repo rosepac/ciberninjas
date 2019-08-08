@@ -14,8 +14,9 @@ categories:
     - framework-css
 permalink:
     foundation-building-blocks-kits-salvavidas-para-proyectos-web
+excerpt: "Esta publicacion es una prueba de insertar una foto con titulo xd"
 header:
-  image: /assets/images/foundation_1.jpg
+  overlay_image: /assets/images/foundation_1.jpg
   image_description: "Descripción de la imagen"
   caption: "Créditos: [**Unsplash**](https://unsplash.com)"
 ---
