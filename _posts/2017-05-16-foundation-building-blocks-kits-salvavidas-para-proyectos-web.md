@@ -16,9 +16,9 @@ permalink: foundation-building-blocks-kits-salvavidas-para-proyectos-web
 excerpt: Esta publicacion es una prueba de insertar una foto con titulo xd
 header:
   overlay_image: "/assets/images/foundation_1.jpg"
-  image_description: Descripción de la imagen
+  image_description: 'descripcion de la puta imagen xd '
   caption: 'Créditos: [**Unsplash**](https://unsplash.com)'
-  overlay_filter: "0.9"
+  overlay_filter: "0.7"
 description: Esta publicacion es una prueba de insertar una foto con titulo xd
 image: ''
 
