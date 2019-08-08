@@ -2,7 +2,7 @@
 title: prueba blog sin imagen
 categories: []
 tags: []
-date: 
+date: 2019-08-08 00:00:00 +0200
 excerpt: prueba blog sin imagen
 description: prueba blog sin imagen
 
