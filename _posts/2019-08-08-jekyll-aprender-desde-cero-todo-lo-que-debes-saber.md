@@ -6,7 +6,7 @@ tags:
 - Estático
 - Contenidos
 - Gestor
-date: 2019-08-08 00:00:00 +0200
+date: 2019-08-07T22:00:00.000+00:00
 permalink: jekyll
 excerpt: "\U0001F6E0 Jekyll, el mejor generador de contenidos estático. Aprende desde
   cero todo lo que debes saber"
@@ -51,16 +51,20 @@ Como en los ejemplos siguientes:
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes. {: .notice}
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. {: .notice--primary}
+**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.  
+{: .notice--primary}
 
 **Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.  
 {: .notice--info}
 
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. {: .notice--warning}
+**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.  
+{: .notice--warning}
 
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. {: .notice--danger}
+**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.  
+{: .notice--danger}
 
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet. {: .notice--success}
+**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.  
+{: .notice--success}
 
 Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
 
@@ -125,7 +129,7 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 
 * [Documentación Plantilla Minimal Mistake](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide "Documentación de la plantilla Minimal Mistake para Jekyll, paso a paso todas las pautas para su funcionamiento")
 * [Cómo crear Colecciones con Jekyll](https://jekyllrb.com/docs/collections "Crear colecciones con Jekyll") (jekyllrb.com)
-	* [Cómo crear Colecciones con Jekyll](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Jekyll con la plantilla Minimal Mistake") (..en Plantilla Minimal Mistake)
+  * [Cómo crear Colecciones con Jekyll](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Jekyll con la plantilla Minimal Mistake") (..en Plantilla Minimal Mistake)
 
 ### Enlaces de Chuletas
 
