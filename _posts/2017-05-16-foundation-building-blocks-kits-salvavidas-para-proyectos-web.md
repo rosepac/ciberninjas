@@ -18,7 +18,7 @@ header:
   overlay_image: "/assets/images/foundation_1.jpg"
   image_description: 'descripcion de la puta imagen xd '
   caption: 'Créditos: [**Unsplash**](https://unsplash.com)'
-  overlay_filter: "0.7"
+  overlay_filter: "0.6"
 description: Esta publicacion es una prueba de insertar una foto con titulo xd
 image: ''
 
