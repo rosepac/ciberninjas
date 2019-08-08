@@ -19,8 +19,7 @@ header:
   caption: "**Créditos**: [WikiMedia](https://es.wikipedia.org/wiki/Archivo:Jekyll_(software)_Logo.png)"
 
 ---
-{:toc}
-
+{% include toc.html %}
 ## Cómo Publicar Con Jekyll
 
 ### Publicar un Enlace
