@@ -25,5 +25,3 @@ fields:
 - type: text
   name: description
   label: description
-pages:
-- _posts/prueba-blog-sin-imagen.md
