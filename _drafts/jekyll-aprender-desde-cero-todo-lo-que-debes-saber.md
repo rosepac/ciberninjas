@@ -29,11 +29,19 @@ Añadir a la cabecera YAML:
 
 ### Publicar una Cita
 
+Seguir el siguiente ejemplo, con el uso de >
+
     > Cita o frase a incluir.
     
     > <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
 
-### Agregar Cajas de Avisos o Nota Informativa
+### Actualizar la Fecha de Publicación
+
+Agregar en la cabecera YAML:
+
+    last_modified_at: 2016-03-09T16:20:02-05:00
+
+### Agregar Cajas de Avisos o Notas Informativas
 
 Un aviso o nota informativa muestra un contenido de importancia o que deseas mostrar como relevante llamando la atención al usuario.
 
@@ -41,72 +49,49 @@ Al utilizar Kramdown, se puede añadir `{: .notice}` después de una sentencia, 
 
 Como en los ejemplos siguientes:
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
-{: .notice}
+**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes. {: .notice}
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
+**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. {: .notice--primary}
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.   
+**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.  
 {: .notice--info}
 
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--warning}
+**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. {: .notice--warning}
 
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--danger}
+**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. {: .notice--danger}
 
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
-{: .notice--success}
+**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet. {: .notice--success}
 
 Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
 
-```html
-{% raw %}{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}{% endraw %}
-
-<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
-```
+    {% raw %}{% capture notice-2 %}
+    #### New Site Features
+    
+    * You can now have cover images on blog pages
+    * Drafts will now auto-save while writing
+    {% endcapture %}{% endraw %}
+    
+    <div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
 
 {% capture notice-2 %}
+
 #### New Site Features
 
 * You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}
+* Drafts will now auto-save while writing {% endcapture %}
 
-<div class="notice">
-  {{ notice-2 | markdownify }}
-</div>
+<div class="notice"> {{ notice-2 | markdownify }} </div>
 
 O bien, podría saltar la captura y seguir con HTML puro.
 
-```html
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
-```
+    <div class="notice">
+      <h4>Message</h4>
+      <p>A basic message.</p>
+    </div>
 
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
+<div class="notice"> <h4>Message</h4> <p>A basic message.</p> </div>
 
-<div class="notice--success">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
-
-### Actualizar la Fecha de Publicación
-
-Agregar en la cabecera YAML:
-
-    last_modified_at: 2016-03-09T16:20:02-05:00
+<div class="notice--success"> <h4>Message</h4> <p>A basic message.</p> </div>
 
 ### Agregar Etiqueta: more
 
@@ -118,7 +103,7 @@ Situándolo luego del primer o segundo párrafo, además debes aplicar en tu cab
 
     excerpt_separator: "<!--more-->"
 
-### CMS o Gestor de Contenidos de Jekyll
+## CMS o Gestor de Contenidos de Jekyll
 
 Un CMS o Gestor de Contenidos es un software creado para poder ayudarte a la hora de la utilización de un blog, página o web en la que deseas agregar tus contenidos.
 
@@ -130,4 +115,29 @@ En mi caso, decidí utilizar [Forestry](https://www.forestry.io) puesto qu es gr
 
 Si deseas transportar tus datos de Wordpress a Jekyll, es posible que puedas terminar por volverte loco, puesto que a pesar de que existe un método que debería de ser sencillo desde la propia página de documentación de Jekyll; yo no he logrado hacerlo funcionar; por tanto decidí buscar alguna fórmula alternativa.
 
-En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Jekyll](https://github.com/FablabLannion/wordpress2jekyll). Es bastante viejo, más es lo único que me ha ayudado a guardar mi antiguo contenido hasta que pueda ir realojandolo dentro de mi nuevo blog.
+En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Jekyll](https://github.com/FablabLannion/wordpress2jekyll). Es bastante viejo, pero es lo único que me ha ayudado a guardar mi antiguo contenido hasta que pueda ir realojandolo dentro de mi nuevo blog.
+
+## Enlaces Externos
+
+Colección de enlaces que he ido guardando con los que poder aprender el uso lo más correcto posible de Jekyll, Ruby, Github Pages y Forestry.
+
+### Enlaces de Chuletas
+
+* [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/ "Chuleta de todos los emoticonos suportados dentro de la Gema de Ruby Gemoji "): Lista de Emojis / Emoticonos que pueden ser usados al estilo de los emoticones de Github :+1:
+
+### CMS: Forestry, Enlaces Directos
+
+* [Forestry: Documentación Completa](https://forestry.io/docs/welcome "Forestry: Documentación Completa")
+* [Forestry: Edición](https://forestry.io/docs/editing "Forestry: Edición")
+* [Forestry: Plantillas](https://forestry.io/docs/settings/front-matter-templates "Forestry: Plantillas")
+* [Forestry: Campos/Fields](https://forestry.io/docs/settings/fields/#text "Campos/Fields, utilizados en las plantillas de Forestry "), utilizados en las plantillas
+* [Forestry: Snippets](https://forestry.io/docs/settings/snippets "Forestry: Snippets") similar a los "shortcodes" de Wordpress
+
+### Lenguaje de Uso: Liquid
+* [¿Qué es Liquid?](https://shopify.github.io/liquid "Lenguaje generador de plantillas; seguro y orientado al cliente para aplicaciones web flexibles.")
+
+### Plugins de Jekyll
+
+Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir añadiéndole diferentes acciones o pedazos de código que vayan ejecutando diferentes opciones.
+
+* [Github: Jekyll - Twitter](https://github.com/rob-murray/jekyll-twitter-plugin "Plugin que permite trabajar a la API de Twitter desde Jekyll")
