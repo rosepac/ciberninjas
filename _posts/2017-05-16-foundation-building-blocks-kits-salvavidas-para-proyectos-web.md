@@ -2,30 +2,32 @@
 layout: posts
 title: 'Foundation Building Blocks: kits salvavidas para proyectos web'
 comments: false
-date: 2017-05-16 03:05:35
+date: 2017-05-16T03:05:35.000+00:00
 tags:
-    - componentes
-    - elementos
-    - foundation
-    - interfaces
-    - kit
+- componentes
+- elementos
+- foundation
+- interfaces
+- kit
 categories:
-    - codigo-abierto
-    - framework-css
-permalink:
-    foundation-building-blocks-kits-salvavidas-para-proyectos-web
-excerpt: "Esta publicacion es una prueba de insertar una foto con titulo xd"
+- codigo-abierto
+- framework-css
+permalink: foundation-building-blocks-kits-salvavidas-para-proyectos-web
+excerpt: Esta publicacion es una prueba de insertar una foto con titulo xd
 header:
-  overlay_image: /assets/images/foundation_1.jpg
-  image_description: "Descripción de la imagen"
-  caption: "Créditos: [**Unsplash**](https://unsplash.com)"
+  overlay_image: "/assets/images/foundation_1.jpg"
+  image_description: Descripción de la imagen
+  caption: 'Créditos: [**Unsplash**](https://unsplash.com)'
+  overlay_filter: "0.5"
+description: Esta publicacion es una prueba de insertar una foto con titulo xd
+image: ''
+
 ---
+Montar páginas web´s, ahora es mucho más sencillo con el **Framework Foundation**.
 
-Montar páginas web´s, ahora es mucho más sencillo con el **Framework Foundation**. 
+Desde el **Framework Foundation**, y desde Abril nos presentan un importante repositorio de elementos ya pre-diseñados denominado [_Foundation Building Blocks_](https://kutt.it/foundationblocks), lo cual servirá de gran ayuda para las personas que se inicien con dicho **Framework** e incluso para ahorrar mucho tiempo en el desarrollo de personas ya experimentadas.
 
-Desde el **Framework Foundation**, y desde Abril nos presentan un importante repositorio de elementos ya pre-diseñados denominado [_Foundation Building Blocks_][1], lo cual servirá de gran ayuda para las personas que se inicien con dicho **Framework** e incluso para ahorrar mucho tiempo en el desarrollo de personas ya experimentadas.
-
-El equipo de **Foundation** se ha propuesto reducir el tiempo del desarrollo de un proyecto, lanzando [_Foundation Building Blocks_][1] — una completa biblioteca de componentes UI (interfaces de usuario) de código abierto, formado por elementos que pueden ser utilizados casi por norma en cualquier proyecto dentro del **Framework Foundation**.
+El equipo de **Foundation** se ha propuesto reducir el tiempo del desarrollo de un proyecto, lanzando [_Foundation Building Blocks_](https://kutt.it/foundationblocks) — una completa biblioteca de componentes UI (interfaces de usuario) de código abierto, formado por elementos que pueden ser utilizados casi por norma en cualquier proyecto dentro del **Framework Foundation**.
 
 ## Cientos de códigos para tus proyectos
 
@@ -39,7 +41,7 @@ Solo se debe buscar la librería, seleccionar el bloque que se necesite y copiar
 
 ## Kit salvavidas para crear una variedad de sitios
 
-Descarga de bloques de construcción o [_Kits de construcción_][2] que están organizados por tipos de proyectos pre-determinados y pre-diseñados, con lo que necesitas para diseñar un determinado tipo de sitio web o aplicación.
+Descarga de bloques de construcción o [_Kits de construcción_](https://kutt.it/foundationkits) que están organizados por tipos de proyectos pre-determinados y pre-diseñados, con lo que necesitas para diseñar un determinado tipo de sitio web o aplicación.
 
 Múltiples conjuntos de bloques existentes en el Kit de Foundation | Ciberninjas
 
@@ -49,7 +51,7 @@ A diferencia de una plantilla, estos _kits_ no dictaminan la estructura de la p�
 
 ## Componentes creados por la Comunidad
 
-Probado por los diseñadores y desarrolladores a lo largo de todo el mundo y revisado por el equipo de **ZURB**. [_Building Blocks_][1] seguirá creciendo con componentes creados por la Comunidad. ¿Ves componentes o patrones que falten? Puedes agregar estos, siguiendo [_estos pasos_][3] y será revisado por **ZURB **y liberado a la comunidad posteriormente.
+Probado por los diseñadores y desarrolladores a lo largo de todo el mundo y revisado por el equipo de **ZURB**. [_Building Blocks_](https://kutt.it/foundationblocks) seguirá creciendo con componentes creados por la Comunidad. ¿Ves componentes o patrones que falten? Puedes agregar estos, siguiendo [_estos pasos_](https://kutt.it/foundationuso) y será revisado por **ZURB **y liberado a la comunidad posteriormente.
 
 ## Código que reducirá el tiempo de desarrollo
 
@@ -73,11 +75,6 @@ Con el siguiente comando, para cualquier bloque específico:
 
 Desde **ZURB** afirman que han logrado reducir el tiempo de desarrollo y están muy contentos con la acogida del proyecto.
 
-**Proyecto:** [Blog Oficial del Framework Foundation][1]
-    
-**Repositorio:** [_Github_][4]
+**Proyecto:** [Blog Oficial del Framework Foundation](https://kutt.it/foundationblocks)
 
- [1]: https://kutt.it/foundationblocks
- [2]: https://kutt.it/foundationkits
- [3]: https://kutt.it/foundationuso
- [4]: https://kutt.it/foundationgithub
+**Repositorio:** [_Github_](https://kutt.it/foundationgithub)
