@@ -16,7 +16,7 @@ header:
   overlay_image: "/assets/images/jekyll-blog.jpg"
   overlay_filter: "0.5"
   image_description: Jekyll, generador de sitios estáticos | Ciberninjas
-  caption: "**Créditos**: [WikiMedial](https://es.wikipedia.org/wiki/Archivo:Jekyll_(software)_Logo.png)"
+  caption: "**Créditos**: [WikiMedia](https://es.wikipedia.org/wiki/Archivo:Jekyll_(software)_Logo.png)"
 
 ---
 ## Cómo Publicar Con Jekyll
