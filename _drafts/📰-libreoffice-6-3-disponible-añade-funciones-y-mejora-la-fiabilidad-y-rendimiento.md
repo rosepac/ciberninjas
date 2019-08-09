@@ -1,20 +1,18 @@
 ---
-title: "\U0001F4F0 LibreOffice 6.3 disponible, añade funciones y mejora la fiabilidad
-  y rendimiento"
-description: LibreOffice 6.3 disponible, añade funciones y mejora la fiabilidad y
-  rendimiento
+title: "\U0001F4F2 DahliaOS, un fork del Sistema Operativo: FuchsiaOS"
+description: 'DahliaOS, un fork del Sistema Operativo: FuchsiaOS que permite incluri
+  tus aplicaciones creadas en Flutter'
 categories:
-- Actualidad
 - Software
 tags:
-- Actualización
-- Suite Ofimática
-link: https://ubunlog.com/libreoffice-6-3-ya-disponible-anade-funciones-y-mejora-la-fiabilidad-y-rendimiento
+- Sistemas Operativos
+- Móviles
+link: https://www.reddit.com/r/DahliaOS/comments/avarjr/we_need_you/
 
 ---
-> Nueva versión de la Suite de Ofimática Libre Office.
+> DahliaOS, un fork del Sistema Operativo: FuchsiaOS.
 
-![Nueva versión de LibreOffice](https://wiki.documentfoundation.org/images/1/1b/Sifr_icons.png)
+![Dahlia OS es un sistema operativo alternativo a Fuchsia OS](/assets/images/DAHLIASO.png "Dahlia OS es un sistema operativo alternativo a Fuchsia OS")
 
-> Fuente: [Wiki LibreOffice](https://wiki.documentfoundation.org/ReleaseNotes/6.3 "Wiki de la Fundación de LibreOffice: Ciberninjas")  
-> Licencia:  [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/ "Licencia del contenido de las imágenes de LibreOffice: Ciberninjas")
+> Fuente: [Reddit](https://www.reddit.com/r/DahliaOS/comments/chgqus/dahliaos_milestone_1/ "Reddit del sistema operativo de móviles DahliaOS")  
+> Github:  [Repositorio](https://github.com/dahlia-os "Repositorio de DahliaOS, sistema alternativo a FuchsiaOS")
