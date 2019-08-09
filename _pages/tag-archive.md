@@ -1,6 +1,6 @@
 ---
-title: "Publicaciones por Etiquetas"
-permalink: /tags/
+title: "Publicaciones por Etiqueta"
+permalink: /etiqueta/
 layout: tags
 author_profile: true
 ---

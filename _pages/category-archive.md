@@ -1,6 +1,6 @@
 ---
 title: "Publicaciones por Categoría"
 layout: categories
-permalink: /categorias/
+permalink: /categoria/
 author_profile: true
 ---
