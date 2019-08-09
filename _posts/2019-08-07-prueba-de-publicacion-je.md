@@ -1,7 +1,7 @@
 ---
 toc: true
 toc_label: Índice
-toc_sticky: true
+toc_sticky: false
 title: prueba de publicacion je.
 categories: []
 tags: []
