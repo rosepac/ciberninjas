@@ -1,8 +1,8 @@
 ---
 layout: single
-title: 'Foundation Building Blocks: kits salvavidas para proyectos web'
-description: Montar páginas web ahora es mucho más sencillo con el **Framework Foundation**.
-excerpt: Montar páginas web ahora es mucho más sencillo con el **Framework Foundation**.
+title: '▷ Foundation Building Blocks: kits salvavidas para proyectos web'
+description: "✅ Foundation Building Blocks ⚡️ Una completa biblioteca de componentes con la que generar interfaces de usuario de código abierto con el Framework Foundation:"
+excerpt: "✅ Foundation Building Blocks ⚡️ Una completa biblioteca de componentes con la que generar interfaces de usuario de código abierto con el Framework Foundation:"
 date: 2017-05-16T03:05:35.000+00:00
 permalink: foundation-building-blocks-kits-salvavidas-para-proyectos-web
 header:
@@ -24,13 +24,16 @@ categories:
 
 Desde el **Framework Foundation**, y desde Abril nos presentan un importante repositorio de elementos ya pre-diseñados denominado [Foundation Building Blocks](https://kutt.it/foundationuso), lo cual servirá de gran ayuda para las personas que se inicien con dicho **Framework** e incluso para ahorrar mucho tiempo en el desarrollo de personas ya experimentadas.
 
-El equipo de **Foundation** se ha propuesto reducir el tiempo del desarrollo de un proyecto, lanzando [_Foundation Building Blocks_](   https://kutt.it/foundationblocks) — una completa biblioteca de componentes UI (interfaces de usuario) de código abierto, formado por elementos que pueden ser utilizados casi por norma en cualquier proyecto dentro del **Framework Foundation**.
+El equipo de **Foundation** se ha propuesto reducir el tiempo del desarrollo de un proyecto, lanzando [Foundation Building Blocks](   https://kutt.it/foundationblocks)  — una completa biblioteca de componentes UI (interfaces de usuario) de código abierto, formado por elementos que pueden ser utilizados casi por norma en cualquier proyecto dentro del **Framework Foundation**.
 
 ## Cientos de códigos para tus proyectos
 
 La biblioteca ha sido creada a partir de 0 con más de cientos de _snippets_ o fragmentos de código. Distribuidos en 6 categorías: navegación, estado, media, contenedores, formularios y control o botones.
 
-Framework Foundation, separación de elementos en el kit | Ciberninjas
+<figure>
+    <a href="/assets/images/foundation-separacion-elementos.png" class="image-popup"><img src="/assets/images/foundation-separacion-elementos.png"></a>
+    <figcaption>Framework Foundation, separación de elementos en el kit | Ciberninjas</figcaption>
+</figure>
 
 Generando así, plantillas y patrones de todos los elementos más importantes y comunes utilizados dentro de una interfaz de usuario web.
 
@@ -40,7 +43,10 @@ Solo se debe buscar la librería, seleccionar el bloque que se necesite y copiar
 
 Descarga de bloques de construcción o [_Kits de construcción_](https://kutt.it/foundationkits) que están organizados por tipos de proyectos pre-determinados y pre-diseñados, con lo que necesitas para diseñar un determinado tipo de sitio web o aplicación.
 
-Múltiples conjuntos de bloques existentes en el Kit de Foundation | Ciberninjas
+<figure>
+    <a href="/assets/images/multiples-bloques.png" class="image-popup"><img src="/assets/images/multiples-bloques.png"></a>
+    <figcaption>Múltiples conjuntos de bloques existentes en el Kit de Foundation | Ciberninjas</figcaption>
+</figure>
 
 Existen 8 kits temáticos diferenciados: blog, dashboard, ecommerce, marketing, app móvil, magazine, portfolio y viajes.
 
