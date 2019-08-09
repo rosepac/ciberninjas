@@ -3,8 +3,8 @@ toc: true
 toc_label: Contenidos
 toc_sticky: false
 title: prueba de publicacion je.
-categories: []
-tags: []
+categories: [Jekyll]
+tags: [Plantillas]
 date: 2019-08-07 00:00:00 +0200
 excerpt: ''
 description: ''
