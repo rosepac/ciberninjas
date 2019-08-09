@@ -5,24 +5,21 @@ fields:
 - type: text
   name: title
   label: title
-- type: list
-  name: categories
-  label: categories
-- type: list
-  name: tags
-  label: tags
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: permalink
-  label: permalink
 - type: text
   name: excerpt
   label: excerpt
 - type: text
   name: description
   label: description
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: permalink
+  label: permalink
 - type: field_group
   name: header
   label: header
@@ -39,6 +36,9 @@ fields:
   - type: text
     name: image_description
     label: image_description
+- type: datetime
+  name: date
+  label: date
 - name: toc
   type: boolean
   label: toc
