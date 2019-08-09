@@ -89,7 +89,7 @@ footer:
 collections:
   glosario:
     output: true
-    permalink: /:collection/:path/
+    permalink: /glosario/:path/
 
 defaults:
   # _posts

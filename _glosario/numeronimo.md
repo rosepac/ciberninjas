@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: glosario
 title: '⇨ Numerónimo | Definición del Término'
 excerpt: "Un numerónimo es una palabra basada en números. Generalmente, en la combinacion entre las letras incial y final y el número de letras intermedias."
 ---
