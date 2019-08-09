@@ -94,7 +94,7 @@ collections:
       path: "_glosario"
       type: glosario
     values:
-      layout: single
+      layout: numeronimo
       author_profile: false
       share: true
 
