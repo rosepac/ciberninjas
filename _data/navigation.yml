@@ -2,8 +2,8 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Categorías"
-    url: /categories/
+    url: /categorias/
   - title: "Etiquetas"
     url: /tags/
-  - title: "Conóceme"
-    url: /acerca-de/
+  - title: "Quién Soy"
+    url: /quien-soy/
