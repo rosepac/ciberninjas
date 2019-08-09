@@ -47,4 +47,5 @@ fields:
     label: image_description
     description: Descripción de la imagen, !IMPORTANTE SEO¡
 pages:
+- _posts/plantilla-con-imagen-superior.md
 - _posts/2019-08-08-jekyll-aprender-desde-cero-todo-lo-que-debes-saber.md
