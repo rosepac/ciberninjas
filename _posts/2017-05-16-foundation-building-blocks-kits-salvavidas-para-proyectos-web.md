@@ -1,29 +1,24 @@
 ---
-layout: posts
 title: 'Foundation Building Blocks: kits salvavidas para proyectos web'
-comments: false
+description: Montar páginas web ahora es mucho más sencillo con el **Framework Foundation**.
+excerpt: Montar páginas web ahora es mucho más sencillo con el **Framework Foundation**.
 date: 2017-05-16T03:05:35.000+00:00
-tags:
-- componentes
-- elementos
-- foundation
-- interfaces
-- kit
-categories:
-- codigo-abierto
-- framework-css
 permalink: foundation-building-blocks-kits-salvavidas-para-proyectos-web
-excerpt: Esta publicacion es una prueba de insertar una foto con titulo xd
 header:
   overlay_image: "/assets/images/foundation_1.jpg"
   image_description: 'descripcion de la puta imagen xd '
   caption: 'Créditos: [**Unsplash**](https://unsplash.com)'
   overlay_filter: "0.3"
-description: Esta publicacion es una prueba de insertar una foto con titulo xd
-image: ''
-
+tags:
+- Componentes
+- Elementos
+- Foundation
+- Interfaces
+- Kit
+categories:
+- Código-Abierto
+- Framework-CSS
 ---
-Montar páginas web´s, ahora es mucho más sencillo con el **Framework Foundation**.
 
 Desde el **Framework Foundation**, y desde Abril nos presentan un importante repositorio de elementos ya pre-diseñados denominado [_Foundation Building Blocks_](https://kutt.it/foundationblocks), lo cual servirá de gran ayuda para las personas que se inicien con dicho **Framework** e incluso para ahorrar mucho tiempo en el desarrollo de personas ya experimentadas.
 
