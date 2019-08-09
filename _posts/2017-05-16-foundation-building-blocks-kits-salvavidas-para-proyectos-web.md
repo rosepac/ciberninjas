@@ -1,4 +1,5 @@
 ---
+layout: single
 title: 'Foundation Building Blocks: kits salvavidas para proyectos web'
 description: Montar páginas web ahora es mucho más sencillo con el **Framework Foundation**.
 excerpt: Montar páginas web ahora es mucho más sencillo con el **Framework Foundation**.
@@ -20,9 +21,9 @@ categories:
 - Framework-CSS
 ---
 
-Desde el **Framework Foundation**, y desde Abril nos presentan un importante repositorio de elementos ya pre-diseñados denominado [_Foundation Building Blocks_](https://kutt.it/foundationblocks), lo cual servirá de gran ayuda para las personas que se inicien con dicho **Framework** e incluso para ahorrar mucho tiempo en el desarrollo de personas ya experimentadas.
+Desde el **Framework Foundation**, y desde Abril nos presentan un importante repositorio de elementos ya pre-diseñados denominado [Foundation Building Blocks](https://kutt.it/foundationuso), lo cual servirá de gran ayuda para las personas que se inicien con dicho **Framework** e incluso para ahorrar mucho tiempo en el desarrollo de personas ya experimentadas.
 
-El equipo de **Foundation** se ha propuesto reducir el tiempo del desarrollo de un proyecto, lanzando [_Foundation Building Blocks_](https://kutt.it/foundationblocks) — una completa biblioteca de componentes UI (interfaces de usuario) de código abierto, formado por elementos que pueden ser utilizados casi por norma en cualquier proyecto dentro del **Framework Foundation**.
+El equipo de **Foundation** se ha propuesto reducir el tiempo del desarrollo de un proyecto, lanzando [_Foundation Building Blocks_](   https://kutt.it/foundationblocks) — una completa biblioteca de componentes UI (interfaces de usuario) de código abierto, formado por elementos que pueden ser utilizados casi por norma en cualquier proyecto dentro del **Framework Foundation**.
 
 ## Cientos de códigos para tus proyectos
 
