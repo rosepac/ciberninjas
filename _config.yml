@@ -112,7 +112,7 @@ defaults:
       author_profile: true
   # _glosario
   - scope:
-      path: ""
+      path: "_glosario"
       type: glosario
     values:
       layout: single
