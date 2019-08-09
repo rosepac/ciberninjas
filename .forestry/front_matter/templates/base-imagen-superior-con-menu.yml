@@ -2,6 +2,29 @@
 label: Base Imagen Superior con Menú
 hide_body: false
 fields:
+- name: toc
+  type: boolean
+  label: toc
+  description: Agregar Tabla de Contenidos
+  default: true
+- name: toc_sticky
+  type: boolean
+  label: toc_sticky
+  description: Activado el menú se queda pegajoso.
+  default: true
+- name: toc_icon
+  type: text
+  config:
+    required: false
+  label: toc_icon
+  description: 'Modificar el Icono de Contenidos: Fontawesome'
+- name: toc_label
+  type: text
+  config:
+    required: false
+  label: toc_label
+  description: Palabras del título de Contenidos
+  default: Contenidos
 - type: text
   name: title
   label: title
@@ -39,11 +62,5 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: toc
-  type: boolean
-  label: toc
-  description: Activar Menú
-  hidden: false
-  default: true
 pages:
 - _posts/2019-08-07-prueba-de-publicacion-je.md
