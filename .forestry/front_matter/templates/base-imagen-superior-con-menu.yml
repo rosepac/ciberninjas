@@ -1,0 +1,41 @@
+---
+label: Base Imagen Superior con Menú
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: description
+  label: description
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: text
+    name: overlay_image
+    label: overlay_image
+  - type: text
+    name: overlay_filter
+    label: overlay_filter
+  - type: text
+    name: caption
+    label: caption
+  - type: text
+    name: image_description
+    label: image_description
