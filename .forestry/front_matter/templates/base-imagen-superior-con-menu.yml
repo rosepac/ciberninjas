@@ -39,3 +39,9 @@ fields:
   - type: text
     name: image_description
     label: image_description
+- name: toc
+  type: boolean
+  label: toc
+  description: Activar Menú
+  hidden: false
+  default: true
