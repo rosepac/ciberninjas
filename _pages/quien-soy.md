@@ -1,6 +1,6 @@
 ---
 title: Quién Soy..
-permalink: "/quien-soy"
+permalink: "/quien-soy/"
 description: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
 excerpt: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
 last_modified_at: 2019-08-09T12:42:42-05:00
