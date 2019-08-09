@@ -45,3 +45,5 @@ fields:
   description: Activar Menú
   hidden: false
   default: true
+pages:
+- _posts/prueba-de-publicacion-je.md
