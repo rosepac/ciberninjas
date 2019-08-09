@@ -1,6 +1,7 @@
 ---
-permalink: "/glosario/"
-title: Glosario
+permalink: "/glosario-test"
+title: Glosario Pruebas
+published: false
 
 ---
 # Glosario
