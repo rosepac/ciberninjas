@@ -1,5 +1,5 @@
 ---
-title: 🗞 LibreOffice 6.3 disponible, añade funciones y mejora la fiabilidad y rendimiento
+title: 📰 LibreOffice 6.3 disponible, añade funciones y mejora la fiabilidad y rendimiento
 description: LibreOffice 6.3 disponible, añade funciones y mejora la fiabilidad y
   rendimiento
 categories:
