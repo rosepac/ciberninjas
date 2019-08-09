@@ -20,6 +20,7 @@ categories:
 - Código-Abierto
 - Framework-CSS
 ---
+## Construye bloque a bloque
 
 Desde el **Framework Foundation**, y desde Abril nos presentan un importante repositorio de elementos ya pre-diseñados denominado [Foundation Building Blocks](https://kutt.it/foundationuso), lo cual servirá de gran ayuda para las personas que se inicien con dicho **Framework** e incluso para ahorrar mucho tiempo en el desarrollo de personas ya experimentadas.
 
@@ -67,10 +68,12 @@ A continuación, para cualquier proyecto del _kit_:
 
 Con el siguiente comando, para cualquier bloque específico:
 
-`foundation blocks install`
+```
+foundation blocks install
+```
 
 Desde **ZURB** afirman que han logrado reducir el tiempo de desarrollo y están muy contentos con la acogida del proyecto.
 
-**Proyecto:** [Blog Oficial del Framework Foundation](https://kutt.it/foundationblocks)
+**Proyecto:** [Blog Oficial del Framework Foundation](https://kutt.it/foundationblocks "Enlace a la Blog Oficial del Framework Foundation")
 
-**Repositorio:** [_Github_](https://kutt.it/foundationgithub)
+**Repositorio:** [Github](https://kutt.it/foundationgithub "Enlace a la Página Web Oficial del Repositorio de Github del Framework Foundation")

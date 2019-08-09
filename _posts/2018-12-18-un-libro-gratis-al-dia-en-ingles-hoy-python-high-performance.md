@@ -9,7 +9,7 @@ categories:
     - Otros
 permalink: /un-libro-gratis-al-dia-en-ingles-hoy-python-high-performance
 ---
-## Aprender a programar Python!
+## Aprender a programar en Python
 
   * Identifique los cuellos de botella en sus aplicaciones y resuélvalos utilizando las mejores técnicas de creación de perfiles.
   * Escribir código numérico eficiente en NumPy, Cython y Pandas.
@@ -17,7 +17,7 @@ permalink: /un-libro-gratis-al-dia-en-ingles-hoy-python-high-performance
 
 Libro de programación: Python High Performance en PacktPub 
 
-## Los capítulos de este libro son..
+## Capítulos del Libro
 
   1. Benchmarking and profiling
   2. Pure Python optimizations
@@ -29,22 +29,7 @@ Libro de programación: Python High Performance en PacktPub
   8. Distributed processing
   9. Designing for High Performance
 
-* * *
-
-Este libro es gratis por hoy, previo registro en la web de **[PacktPub][1]**.
+## Gratis por un día, previo registro en PacktPub.
   
-**URL de adquisición**: 
-  
-**URL de registro**: 
-
-* * *
-
-
-   
-
-
-* * *
-
-
- [1]: https://www.packtpub.com
- [2]: https://image.ibb.co/iTckvT/mundo-framework-1350x167-steemit.png
+[Registro](https://kutt.it/packtregistro "Enlace al Registro Web de Packtpub desde donde descargar varios libros de programación en inglés")
+[Página Web](https://kutt.it/packt "Enlace a la Página Web Oficial de PacktPub")
