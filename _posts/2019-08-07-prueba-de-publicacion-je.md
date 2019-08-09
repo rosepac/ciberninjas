@@ -2,11 +2,11 @@
 toc: true
 toc_label: Contenidos
 toc_sticky: false
-title: prueba de publicacion je.
+title: Plantilla Base
 categories: []
 tags: []
-date: 2019-08-07 00:00:00 +0200
-excerpt: ''
+date: 2019-08-06T22:00:00.000+00:00
+excerpt: Creación de una plantilla base para mis publicaciones.
 description: ''
 header:
   overlay_image: ''
@@ -15,7 +15,6 @@ header:
   image_description: ''
 
 ---
-
 ## Titulos
 
 ### Titulos
