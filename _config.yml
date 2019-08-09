@@ -63,27 +63,33 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rosepac"
-    - label: "Asturias & SEO"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.pabloalvarezcorredera.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ciberaprendiz"
     - label: "Cibercursos"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/cibercursos"
+    - label: "Asturias & SEO"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.pabloalvarezcorredera.com"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ciberninjas"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rosepac"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ciberninjas"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ciberninjas"
+
+# Colecciones
+collections:
+  glosario:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
