@@ -1,5 +1,5 @@
 ---
-title: ▷ 👨‍💻 Jekyll, Aprender desde Cero
+title: 👨‍💻 ▷ Jekyll, Aprender desde Cero
 categories:
 - SSG
 tags:
