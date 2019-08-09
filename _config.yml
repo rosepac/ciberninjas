@@ -110,6 +110,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _glosario
+  - scope:
+      path: "_glosario"
+      type: glosario
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
