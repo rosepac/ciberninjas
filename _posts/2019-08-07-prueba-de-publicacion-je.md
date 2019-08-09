@@ -1,7 +1,7 @@
 ---
 toc: true
 toc_label: Contenidos
-toc_sticky: false
+toc_sticky: true
 title: Plantilla Base
 categories: [Jekyll]
 tags: [Plantillas]
