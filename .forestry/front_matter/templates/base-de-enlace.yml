@@ -23,5 +23,3 @@ fields:
 - type: text
   name: link
   label: link
-pages:
-- _posts/libreoffice-6-3-disponible-añade-funciones-y-mejora-la-fiabilidad-y-rendimiento.md
