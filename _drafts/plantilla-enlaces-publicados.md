@@ -1,6 +1,14 @@
+## DAHLIAOS MOVILES
+title: 📲 DahliaOS, un fork del Sistema Operativo: FuchsiaOS
+> DahliaOS, un fork del Sistema Operativo: FuchsiaOS.
 
+![Dahlia OS es un sistema operativo alternativo a Fuchsia OS](/assets/images/DAHLIASO.png "Dahlia OS es un sistema operativo alternativo a Fuchsia OS")
+
+> Fuente: [Reddit](https://www.reddit.com/r/DahliaOS/comments/chgqus/dahliaos_milestone_1/ "Reddit del sistema operativo de móviles DahliaOS")  
+> Github:  [Repositorio](https://github.com/dahlia-os "Repositorio de DahliaOS, sistema alternativo a FuchsiaOS")
 
 # LIBREOFFICE VERSIÓN
+title: 📰 LibreOffice 6.3 disponible, añade funciones y mejora la fiabilidad y rendimiento
 > Nueva versión de la Suite de Ofimática Libre Office.
 
 ![Nueva versión de LibreOffice](https://wiki.documentfoundation.org/images/1/1b/Sifr_icons.png)
