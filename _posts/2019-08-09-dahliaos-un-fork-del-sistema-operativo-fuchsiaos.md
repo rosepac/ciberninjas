@@ -1,5 +1,5 @@
 ---
-title: "\U0001F4F2 DahliaOS, un fork del Sistema Operativo: FuchsiaOS"
+title: "📲 DahliaOS, un fork del Sistema Operativo: FuchsiaOS"
 description: 'DahliaOS, un fork del Sistema Operativo: FuchsiaOS que permite incluri
   tus aplicaciones creadas en Flutter'
 categories:
@@ -7,6 +7,7 @@ categories:
 tags:
 - Sistemas Operativos
 - Móviles
+permalink: /dahliaos-un-fork-del-sistema-operativo-fuchsiaos
 link: https://www.reddit.com/r/DahliaOS/comments/avarjr/we_need_you/
 
 ---
