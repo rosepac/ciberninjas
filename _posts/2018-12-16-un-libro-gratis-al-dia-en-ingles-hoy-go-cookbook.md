@@ -1,5 +1,5 @@
 ---
-title: 'Un libro gratis al día, en inglés. Hoy: Go Cookbook'
+title: '📖 Un libro gratis al día, en inglés. Hoy: Go Cookbook'
 comments: false
 date: 2018-12-16 08:12:54
 tags:

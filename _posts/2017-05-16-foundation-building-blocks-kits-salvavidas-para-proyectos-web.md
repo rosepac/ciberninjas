@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '▷ Foundation Building Blocks: kits salvavidas para proyectos web'
+title: '👨‍💻 ▷ Foundation Building Blocks: kits salvavidas para proyectos web'
 description: "✅ Foundation Building Blocks ⚡️ Una completa biblioteca de componentes con la que generar interfaces de usuario de código abierto con el Framework Foundation:"
 excerpt: "✅ Foundation Building Blocks ⚡️ Una completa biblioteca de componentes con la que generar interfaces de usuario de código abierto con el Framework Foundation:"
 date: 2017-05-16T03:05:35.000+00:00
