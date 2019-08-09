@@ -11,7 +11,7 @@ tags:
 link: https://ubunlog.com/libreoffice-6-3-ya-disponible-anade-funciones-y-mejora-la-fiabilidad-y-rendimiento
 
 ---
-![Nueva versión de LibreOffice 6.3 | Ciberninjas](https://wiki.documentfoundation.org/images/1/1b/Sifr_icons.png "Nueva versión de LibreOffice 6.3: Ciberninjas")
+![Nueva versión de LibreOffice 6.3 | Ciberninjas](https://wiki.documentfoundation.org/images/1/1b/Sifr_icons.png)
 
 Nueva versión de LibreOffice 6.3.
 
