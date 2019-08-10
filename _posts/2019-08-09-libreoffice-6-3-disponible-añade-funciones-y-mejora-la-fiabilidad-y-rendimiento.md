@@ -9,6 +9,9 @@ tags:
 - Actualización
 - Suite Ofimática
 link: https://ubunlog.com/libreoffice-6-3-ya-disponible-anade-funciones-y-mejora-la-fiabilidad-y-rendimiento
+header:
+  image: /assets/images/libre-officex636.jpg
+  image_description: "Nueva versión de LibreOffice | Ciberninjas"
 
 ---
 > Nueva versión de la Suite de Ofimática Libre Office.
