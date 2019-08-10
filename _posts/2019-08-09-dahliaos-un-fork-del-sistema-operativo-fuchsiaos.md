@@ -9,6 +9,11 @@ tags:
 - Móviles
 permalink: /dahliaos-un-fork-del-sistema-operativo-fuchsiaos
 link: https://www.reddit.com/r/DahliaOS/comments/avarjr/we_need_you/
+header:
+  overlay_image: "/assets/images/dahlia-so.jpg"
+  overlay_filter: "0.2"
+  image_description: "Dahlia OS sistema operativo forkeado de Fuchsia OS | Ciberninjas"
+  caption: "**Créditos**: Captura. Creada por rosepac"
 
 ---
 > DahliaOS, un fork del Sistema Operativo: FuchsiaOS.

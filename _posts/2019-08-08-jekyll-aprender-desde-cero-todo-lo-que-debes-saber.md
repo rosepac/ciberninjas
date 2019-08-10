@@ -14,10 +14,9 @@ excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende d
 description: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende
   desde cero todo lo que debes saber"
 header:
-  overlay_image: "/assets/images/jekyll-blog.jpg"
-  overlay_filter: "0.2"
+  image: "/assets/images/jekyll-blog.jpg"
   image_description: Jekyll, generador de sitios estáticos | Ciberninjas
-  caption: "**Créditos**: [WikiMedia](https://es.wikipedia.org/wiki/Archivo:Jekyll_(software)_Logo.png)"
+  caption: "**Créditos**: [Repositorio de Marketing de Jekyll](https://github.com/jekyll/brand)"
 toc: true
 toc_label: "Contenidos"
 toc_sticky: true
