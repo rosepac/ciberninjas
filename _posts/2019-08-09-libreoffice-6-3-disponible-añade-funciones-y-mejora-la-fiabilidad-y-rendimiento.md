@@ -1,5 +1,5 @@
 ---
-title: 📰 LibreOffice 6.3 disponible, añade funciones y mejora la fiabilidad y rendimiento
+title: 📰 LibreOffice 6.3 Ya Disponible: Añade Funciones y Mejoras de Fiabilidad y Rendimiento
 description: LibreOffice 6.3 disponible, añade funciones y mejora la fiabilidad y
   rendimiento
 categories:
@@ -13,7 +13,7 @@ header:
   overlay_image: "/assets/images/libre-office.jpg"
   overlay_filter: "0.2"
   image_description: "Nueva versión de LibreOffice | Ciberninjas"
-  caption: "**Créditos**: Captura. Creada por rosepac"
+  caption: "**Créditos**: Captura creada por ROSEPAC"
 
 ---
 > Nueva versión de la Suite de Ofimática Libre Office.

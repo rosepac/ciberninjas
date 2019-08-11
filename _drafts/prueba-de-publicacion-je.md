@@ -3,6 +3,7 @@ toc: true
 toc_label: Contenidos
 toc_sticky: true
 title: Plantilla Base
+published: draft
 categories: []
 tags:
 - Plantillas

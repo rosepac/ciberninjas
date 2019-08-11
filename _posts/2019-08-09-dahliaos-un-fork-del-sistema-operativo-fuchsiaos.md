@@ -1,5 +1,5 @@
 ---
-title: "📲 DahliaOS, un fork del Sistema Operativo: FuchsiaOS"
+title: "📲 DahliaOS, un Fork del Sistema Operativo: FuchsiaOS"
 description: 'DahliaOS, un fork del Sistema Operativo: FuchsiaOS que permite incluri
   tus aplicaciones creadas en Flutter'
 categories:
@@ -13,13 +13,14 @@ header:
   overlay_image: "/assets/images/dahlia-so.jpg"
   overlay_filter: "0.2"
   image_description: "Dahlia OS sistema operativo forkeado de Fuchsia OS | Ciberninjas"
-  caption: "**Créditos**: Captura. Creada por rosepac"
+  caption: "**Créditos**: Captura creada por ROSEPAC"
 
 ---
 > DahliaOS, un fork del Sistema Operativo: FuchsiaOS.
 
 <figure>
-    <a href="/assets/images/dahlia-so.jpg" class="image-popup"><img src="/assets/images/dahlia-sox636.jpg"></a>
+    <!-- <a href="/assets/images/dahlia-so.jpg" class="image-popup"><img src="/assets/images/dahlia-sox636.jpg"></a> -->
+    <a href="/assets/images/dahlia-so.jpg" class="image-popup"><img src="/assets/images/dahlia-so.jpg"></a>
     <figcaption>Dahlia OS sistema operativo forkeado de Fuchsia OS | Ciberninjas</figcaption>
 </figure>
 
