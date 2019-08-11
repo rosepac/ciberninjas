@@ -14,6 +14,9 @@ header:
   overlay_filter: "0.2"
   image_description: "Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones | Ciberninjas"
   caption: "**Créditos**: Captura creada por ROSEPAC"
+toc: true
+toc_label: "Contenidos"
+toc_sticky: true
 
 ---
 > Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones
@@ -22,13 +25,12 @@ Desde el siguiente Twitter:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">HarmonyOS has just been announced at <a href="https://twitter.com/hashtag/HDC2019?src=hash&amp;ref_src=twsrc%5Etfw">#HDC2019</a>! How are we going to build an all-scenario smart ecosystem and experience? How will we overcome the challenges of future OS for connected things? Stayed tuned with us to find out. <a href="https://t.co/x7ZbgcEy2d">pic.twitter.com/x7ZbgcEy2d</a></p>&mdash; Huawei Mobile (@HuaweiMobile) <a href="https://twitter.com/HuaweiMobile/status/1159720783855460352?ref_src=twsrc%5Etfw">August 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> > Cómo vamos a construir un ecosistema inteligente y experiencia para todo escenario? ¿Cómo superaremos los desafíos del sistema operativo futuro para las cosas conectadas? Estate atento a nosotros para averiguarlo.
+> Cómo vamos a construir un ecosistema inteligente y experiencia para todo escenario? ¿Cómo superaremos los desafíos del sistema operativo futuro para las cosas conectadas? Estate atento a nosotros para averiguarlo.
 
 <figure>
     <a href="/assets/images/harmony-os.jpg" class="image-popup"><img src="/assets/images/harmony-os.jpg"></a>
     <figcaption>Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones | Ciberninjas</figcaption>
 </figure>
-
 ## Harmony de Huawei será de código abierto y tendrá su propio compilador ARK
 
 Huawei reveló más detalles sobre su sistema operativo desarrollado internamente, **Harmony**, junto a su nueva interfaz de usuario, **EMUI** 10, en un evento realizado en China en un intento por reducir su dependencia de las compañías tecnológicas estadounidenses, especialmente el Android de Google.
