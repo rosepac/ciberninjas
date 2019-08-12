@@ -16,6 +16,7 @@ description: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hacker
 excerpt: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
 header:
   overlay_image: /assets/images/catalogo/Web-Hacking-101-en-Espanol-600x769.jpg
+  image_description: "Web Hacking 100: Cómo hacer dinero Hackeando Eticámente en Español: Los mejores libros de seguridad informática y ciberseguridad | Ciberninjas"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **LeanPub**"
   actions:
@@ -25,16 +26,14 @@ toc: true
 toc_label: "Contenidos"
 toc_sticky: true
 sidebar:
-  - title: "Title"
+  - title: "Autores"
     image: /assets/images/catalogo/Web-Hacking-101x250.jpg
     image_alt: "image"
-    text: "Some text here."
+    text: "Peter Yaworski, Gamliel Hernández"
   - title: "Another Title"
-    text: "More text here."
+    text: "Precio"
     nav: sidebar-sample
 ---
-## Descripción Completa
-
 Con un Prefacio escrito por los Co-fundadores de HackerOne Michiel Prins y Jobert Abma, Web Hacking 101 en Español trata sobre la exploración ética del software en busca de fallos de seguridad, pero aprender a hackear no siempre es fácil.
 
 A pesar de unas cuantas excepciones, los libros existentes son demasiado técnicos y solamente dedican un solo capítulo a las vulnerabilidades de sitios web o no incluyen ni un solo ejemplo del mundo real. Este libro es totalmente diferente.

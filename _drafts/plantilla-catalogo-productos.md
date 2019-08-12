@@ -1,6 +1,8 @@
 ---
 author_profile: false
 title: '🔐 Web Hacking 101: Cómo hacer Dinero Hackeando Éticamente'
+description: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
+excerpt: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
 comments: false
 date: 2018-12-16 08:12:54
 tags:
@@ -12,8 +14,6 @@ categories:
     - Catálogo
     - Seguridad Informática
 permalink: /catalogo/web-hacking-101-como-hacer-dinero-hackeando-eticamente/
-description: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
-excerpt: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
 header:
   overlay_image: /assets/images/catalogo/Web-Hacking-101-en-Espanolx250.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
