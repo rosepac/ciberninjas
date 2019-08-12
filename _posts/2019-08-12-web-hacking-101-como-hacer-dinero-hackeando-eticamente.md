@@ -30,10 +30,16 @@ sidebar:
     image: /assets/images/catalogo/Web-Hacking-101x250.jpg
     image_alt: "image"
     text: "Peter Yaworski, Gamliel Hernández"
-  - title: "Another Title"
-    text: "Precio"
+  - title: "Precio Sugerido"
+    text: "18, 07 €"
+  - title: "Precio Mínimo"
+    text: "9,03 €"
     nav: sidebar-sample
 ---
+Hasta Febrero 2017, Twitter ha pagado más de $640,000 USD a hackers éticos por reportar vulnerabilidades en su plataforma. Google, Facebook, Shopify, Dropbox, y muchos más, solicitan hackers éticos que busquen fallos de seguridad en sus sitios y pagarles por sus hallazgos. Este libro te enseñará cómo iniciarte en el hacking ético.
+
+## Descripción Completa
+
 Con un Prefacio escrito por los Co-fundadores de HackerOne Michiel Prins y Jobert Abma, Web Hacking 101 en Español trata sobre la exploración ética del software en busca de fallos de seguridad, pero aprender a hackear no siempre es fácil.
 
 A pesar de unas cuantas excepciones, los libros existentes son demasiado técnicos y solamente dedican un solo capítulo a las vulnerabilidades de sitios web o no incluyen ni un solo ejemplo del mundo real. Este libro es totalmente diferente.

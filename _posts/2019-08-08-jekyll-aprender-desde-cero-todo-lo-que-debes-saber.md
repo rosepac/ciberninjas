@@ -21,6 +21,14 @@ toc: true
 toc_label: "Contenidos"
 toc_sticky: true
 ---
+Existe un gran cambio al modificar tus hábitos y desear cambiar desde un Sistema de Gestión de Contenidos como puede ser Wordpress hacía un Sistema de Contenidos de Generación Estática como puede ser Jekyll, por ello.
+
+Creo este repositorio con todos los enlaces que me han ido ayudando a lo largo de la última semana, tanto con la importación de mi antiguo blog, como con la configuración de la nueva página estática.
+
+Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un Sistema ni tan desarrollado ni con una comunidad tan grande como la de Wordpress; puedan serme de ayuda en la implementación y me ofrezcan mejoras en mi nuevo página.
+
+**¡A la almendrilla!**
+
 ## 🕵️‍♂️ Enlaces por Investigar (-_pendientes-_)
 
 * [Configurar plantilla, buscador.. Y otros Ajustes del Tema](https://mmistakes.github.io/minimal-mistakes/docs/configuration "Configuración de la Plantilla") (- por revisar la implementación de un mejor buscador ¿Algabia? y ajustar algunos otros distintos parámetros -)
@@ -35,7 +43,7 @@ toc_sticky: true
 * [Kramdown](https://kramdown.gettalong.org/converter/html.html "Kramdown, la librería de código de Ruby que implementa acciones desde el código a través de Markdown") (librería de Ruby, que permite implementar índices entre otras muchas cosas)
 * [Foro de Jekyll](https://talk.jekyllrb.com/ "El foro más grande que he encontrado sobre Jekyll")
 
-## Cómo Publicar Con Jekyll
+## ✍ Cómo Publicar Con Jekyll
 
 ### Publicar un Enlace
 
@@ -123,7 +131,7 @@ Situándolo luego del primer o segundo párrafo, además debes aplicar en tu cab
 
     excerpt_separator: "<!--more-->"
 
-## CMS o Gestor de Contenidos de Jekyll
+## 👷‍♀️ CMS de Jekyll
 
 Un CMS o Gestor de Contenidos es un software creado para poder ayudarte a la hora de la utilización de un blog, página o web en la que deseas agregar tus contenidos.
 
@@ -131,13 +139,21 @@ En el caso de Jekyll, no es que existan grandes CMS, más si existen variopintas
 
 En mi caso, decidí utilizar [Forestry](https://www.forestry.io) puesto qu es gratuito y permite gestionar el contenido desde una interfaz totalmente minimalista; además de ofrecer la posibilidad de generar plantillas para las diferentes entradas futuras que se deseen ir realizando; a lo que denominan _front matter._
 
-## Plugins de Importación
+### Forestry, Enlaces Directos
+
+* [Documentación Completa](https://forestry.io/docs/welcome "Forestry: Documentación Completa")
+* [Edición](https://forestry.io/docs/editing "Forestry: Edición")
+* [Plantillas](https://forestry.io/docs/settings/front-matter-templates "Forestry: Plantillas")
+* [Campos/Fields](https://forestry.io/docs/settings/fields/#text "Campos/Fields, utilizados en las plantillas de Forestry "), utilizados en las plantillas
+* [Snippets](https://forestry.io/docs/settings/snippets "Forestry: Snippets") similar a los "shortcodes" de Wordpress
+
+## 🔄 Plugins de Importación
 
 Si deseas transportar tus datos de Wordpress a Jekyll, es posible que puedas terminar por volverte loco, puesto que a pesar de que existe un método que debería de ser sencillo desde la propia página de documentación de Jekyll; yo no he logrado hacerlo funcionar; por tanto decidí buscar alguna fórmula alternativa.
 
 En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Jekyll](https://github.com/FablabLannion/wordpress2jekyll). Es bastante viejo, pero es lo único que me ha ayudado a guardar mi antiguo contenido hasta que pueda ir realojandolo dentro de mi nuevo blog.
 
-## Enlaces Externos
+## 🔗 Enlaces Externos
 
 Colección de enlaces que he ido guardando con los que poder aprender el uso lo más correcto posible de Jekyll, Ruby, Github Pages y Forestry.
 
@@ -145,15 +161,7 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 
 * [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/ "Chuleta de todos los emoticonos suportados dentro de la Gema de Ruby Gemoji "): Lista de Emojis / Emoticonos que pueden ser usados al estilo de los emoticones de Github :+1:
 
-### CMS: Forestry, Enlaces Directos
-
-* [Forestry: Documentación Completa](https://forestry.io/docs/welcome "Forestry: Documentación Completa")
-* [Forestry: Edición](https://forestry.io/docs/editing "Forestry: Edición")
-* [Forestry: Plantillas](https://forestry.io/docs/settings/front-matter-templates "Forestry: Plantillas")
-* [Forestry: Campos/Fields](https://forestry.io/docs/settings/fields/#text "Campos/Fields, utilizados en las plantillas de Forestry "), utilizados en las plantillas
-* [Forestry: Snippets](https://forestry.io/docs/settings/snippets "Forestry: Snippets") similar a los "shortcodes" de Wordpress
-
-### Comercio Electrónico
+### 🛒 Comercio Electrónico
 
 * [Snipcart + Jekyll](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll "Snipcart, es un pequeño sistema de getión de comercios electrónicos que permite generar una tienda online estática")
 
@@ -170,11 +178,11 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 
 * [Github: Jekyll - Twitter](https://github.com/rob-murray/jekyll-twitter-plugin "Plugin que permite trabajar a la API de Twitter desde Jekyll")
 
-### Temas de Jekyll
+### 🎨 Temas de Jekyll
 
 * [Agregar un tema Jekyll](https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser "Agregar un tema o plantilla a tu página web creada con Jekyll y las Páginas de Github") en Github Pages, con el Selector de temas de Jekyll
 * [Plantilla de Documentación Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/index.html "Plantilla de Documentación de Jekyll con diferentes Layouts")
 
-### Videotutoriales
+### 📹 Videotutoriales
 
 * [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso")
