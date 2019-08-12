@@ -2,7 +2,7 @@
 author_profile: false
 title: '🔐 Web Hacking 101: Cómo hacer Dinero Hackeando Éticamente'
 comments: false
-date: 2018-12-16 08:12:54
+date: 2019-08-12 09:34:54
 tags:
     - Libro
     - LeanPub

@@ -1,6 +1,7 @@
 ---
 title: "📲 Huawei presenta ArmonyOS: su Sistema Operativo para Smartphones"
 description: 'Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones'
+excerpt: 'Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones'
 categories:
 - Actualidad
 - Software

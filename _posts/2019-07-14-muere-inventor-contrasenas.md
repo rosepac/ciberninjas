@@ -1,6 +1,7 @@
 ---
 title: "🏛 Muere el Inventor de las Contraseñas de Computadora a los 93 años"
 description: 'Muere el inventor de las contraseñas de computadora a los 93 años'
+excerpt: 'Muere el inventor de las contraseñas de computadora a los 93 años'
 categories:
 - Seguridad
 - Historia Informática

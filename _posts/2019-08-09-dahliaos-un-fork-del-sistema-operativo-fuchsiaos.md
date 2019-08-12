@@ -1,7 +1,7 @@
 ---
 title: "📲 DahliaOS, un Fork del Sistema Operativo: FuchsiaOS"
-description: 'DahliaOS, un fork del Sistema Operativo: FuchsiaOS que permite incluri
-  tus aplicaciones creadas en Flutter'
+description: 'DahliaOS, un fork del Sistema Operativo: FuchsiaOS que permite incluir tus aplicaciones creadas en Flutter'
+excerpt: 'DahliaOS, un fork del Sistema Operativo: FuchsiaOS que permite incluir tus aplicaciones creadas en Flutter'
 categories:
 - Software
 tags:

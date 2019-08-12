@@ -1,6 +1,7 @@
 ---
 title: "💰 Facebook No Descarta el Lanzamiento de Libra sin la Aprobación de EE. UU."
-description: Facebook No Descarta el Lanzamiento de Libra sin la Aprobación de EE. UU.
+description: "Facebook No Descarta el Lanzamiento de Libra sin la Aprobación de EE. UU."
+excerpt: "Facebook No Descarta el Lanzamiento de Libra sin la Aprobación de EE. UU."
 categories:
 - Actualidad
 - Criptomonedas
@@ -14,9 +15,9 @@ header:
   caption: "**Créditos**: PxHere"
 
 ---
+> Facebook No Descarta el Lanzamiento de Libra sin la Aprobación de EE. UU.
+
 <figure>
-    <a href="/assets/images/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg" class="image-popup"><img src="/assets/images/libre-officex636.jpg"></a>
+    <a href="/assets/images/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg" class="image-popup"><img src="/assets/images/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"></a>
     <figcaption>Facebook mantiene un pulso contra la posible legislación americana de las criptomonedas | Ciberninjas</figcaption>
 </figure>
-
-> Facebook No Descarta el Lanzamiento de Libra sin la Aprobación de EE. UU.
