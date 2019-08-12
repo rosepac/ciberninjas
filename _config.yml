@@ -124,7 +124,7 @@ tag_archive:
   path: /etiqueta/
   
 # Jekyll Archive Configuracion: https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md, https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md  
-category_archive:
+#category_archive:
 #   type: jekyll-archives
 #   path: /categoria/
 # tag_archive:
