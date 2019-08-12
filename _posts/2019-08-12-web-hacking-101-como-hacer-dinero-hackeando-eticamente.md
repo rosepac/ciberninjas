@@ -44,6 +44,14 @@ actions:
 ---
 Hasta Febrero 2017, Twitter ha pagado más de $640,000 USD a hackers éticos por reportar vulnerabilidades en su plataforma. Google, Facebook, Shopify, Dropbox, y muchos más, solicitan hackers éticos que busquen fallos de seguridad en sus sitios y pagarles por sus hallazgos. Este libro te enseñará cómo iniciarte en el hacking ético.
 
+## Biografía del Autor
+
+Peter Yaworski, es un desarrollador autodidacta que comenzó a "desarrollar" sitios web con Drupal. A medida que lentamente comenzó a aprender cosas, publicó videos tutoriales en YouTube para retribuir a los demás.
+
+Desde entonces se mudó a Rails y Android antes de desarrollar un gran interés en la seguridad del software. En este momento, está enfocado en desarrollar Dailylearns.com , donde es el desarrollador principal, y continuar aprendiendo sobre las mejores prácticas de desarrollo de software.
+
+Gamliel Hernández, investigador de seguridad de la información. Jugador de pirateo web. Bug Bounty Hunter. Me gusta romper cosas y ver cómo funciona.
+
 ## Descripción Completa
 
 Con un Prefacio escrito por los Co-fundadores de HackerOne Michiel Prins y Jobert Abma, Web Hacking 101 en Español trata sobre la exploración ética del software en busca de fallos de seguridad, pero aprender a hackear no siempre es fácil.
@@ -211,14 +219,6 @@ Después de leer el libro, tus ojos serán abiertos al amplio margen de vulnerab
 - Vulnerabilidades en la lógica de la Aplicación
 - Apéndice B - Registro de cambios en Web Hacking 101
 
-## Biografía del Autor
-
-Peter Yaworski, es un desarrollador autodidacta que comenzó a "desarrollar" sitios web con Drupal. A medida que lentamente comenzó a aprender cosas, publicó videos tutoriales en YouTube para retribuir a los demás.
-
-Desde entonces se mudó a Rails y Android antes de desarrollar un gran interés en la seguridad del software. En este momento, está enfocado en desarrollar Dailylearns.com , donde es el desarrollador principal, y continuar aprendiendo sobre las mejores prácticas de desarrollo de software.
-
-Gamliel Hernández, investigador de seguridad de la información. Jugador de pirateo web. Bug Bounty Hunter. Me gusta romper cosas y ver cómo funciona.
-
-## Detalles del Producto
+## Producto
 
 Libro de aprendizaje en PDF. Formatos disponibles: Epub, Ebook o Movi. LOS PRECIOS NO INCLUYEN EL IVA.
