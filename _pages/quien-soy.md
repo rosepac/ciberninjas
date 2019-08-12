@@ -13,6 +13,7 @@ last_modified_at: 2019-08-09T12:42:42-05:00
 #   card: summary_large_image
 toc: true
 toc_label: "Contenidos"
+toc_icon: user-ninja
 toc_sticky: true
 ---
 ## Quién es _**rosepac**_

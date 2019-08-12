@@ -1,6 +1,7 @@
 ---
 toc: true
 toc_label: Contenidos
+toc_icon: user-ninja
 toc_sticky: true
 title: Plantilla Base
 published: draft

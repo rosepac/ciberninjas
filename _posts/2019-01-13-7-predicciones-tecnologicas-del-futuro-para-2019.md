@@ -16,13 +16,14 @@ categories:
 permalink: /7-predicciones-tecnologicas-del-futuro-para-2019
 toc: true
 toc_label: "Contenidos"
+toc_icon: user-ninja
 toc_sticky: true
 ---
 Aunque es un año más dentro de una gran década, 2019 parece ser uno de los años **más emocionantes e importantes** para la industria de la tecnología en mucho tiempo. Gracias al próximo lanzamiento de algunas nuevas tecnologías críticas, incluidas **las pantallas 5G y plegables**, así como las mejoras críticas en la **inteligencia artificial** en el dispositivo, la **robótica personal** y otras **áreas emocionantes**; hay una gran expectativa palpable para el nuevo año que recién entra.
 
 Además, 2018 terminó siendo un año bastante difícil para varias grandes compañías de tecnología por lo que hay muchas personas que querrán redimirse y sumergirse de cabeza en un nuevo futuro. Con ese espíritu en mente, veamos mi opinión sobre algunas de las tendencias que espero sean las más grandes e importantes en 2019.
 
-## Predicción 1: Los Móviles Plegables superarán a los Smartphones 5G
+## 1️⃣ Predicción 1: Los Móviles Plegables superarán a los Smartphones 5G
 
 <figure>
     <a href="/assets/images/presentan-moviles-flexibles.jpg" class="image-popup"><img src="/assets/images/presentan-moviles-flexiblesx636.jpg"></a>
@@ -37,7 +38,7 @@ Eventualmente, lo haremos, pero los desafíos para llevar cada una de estas tecn
 
 En el corto plazo, predigo que los **teléfonos plegables basados en pantalla** serán los ganadores en comparación con los **teléfonos equipados con 5G**, porque el impacto que estas pantallas plegables tendrán en la facilidad de uso del dispositivo y el factor de forma son tan convincentes que creo que **los consumidores estarán dispuestos a renunciar al potencial de la velocidad 5G**. Además, dada la preocupación por los precios de los planes de datos 5G, la cobertura inicial limitada de 5G y las confusas (y, francamente, confusas) afirmaciones de algunos operadores de EE. UU. Sobre sus &#171;versiones&#187; en 5G, creo que los consumidores limitarán su adopción de 5G hasta que se aclaren más de estas cuestiones. Por otro lado, los teléfonos plegables, aunque **probablemente sean caros**, ofrecerán un beneficio de valor muy claro que creo que los consumidores encontrarán aún más convincente.
 
-## Predicción 2: Los Servicios de Transmisión de Videojuegos
+## 2️⃣ Predicción 2: Los Servicios de Transmisión de Videojuegos
 
 <figure>
     <a href="/assets/images/control-mando-videojuegos.jpg" class="image-popup"><img src="/assets/images/control-mando-videojuegosx636.jpg"></a>
@@ -48,11 +49,11 @@ En un año en el que se prestará mucha atención a los nuevos participantes en 
 
 La idea de la transmisión de juegos es permitir que las personas jueguen juegos de primer nivel en una amplia gama de PCs, teléfonos inteligentes y otros dispositivos tanto antiguos como nuevos. Dado el enorme crecimiento en juegos para PC y móviles, junto con el aumento en la popularidad de los deportes electrónicos, el mercado de consumo está preparado para un servicio (o dos) que permitiría a los jugadores jugar títulos populares de juegos de alta calidad en una amplia gama de dispositivos y plataformas diferentes.
 
-Afortunadamente, una serie de importantes avances tecnológicos se están juntando para hacer esto ahora posible, incluidas las mejoras en la conectividad general a través de WiFi (como con WiFi6) y las redes celulares de área amplia (y 5G debería mejorar aún más las cosas). Además, ha habido una adopción y optimización generalizadas de GPU en servidores basados ​​en la nube. Sin embargo, lo más importante son los avances de software que pueden habilitar tecnologías como la representación dividida o colaborativa (donde se realiza algún trabajo en la nube y otro en el dispositivo local), así como predicciones de acciones que se deben realizar basadas en la inteligencia artificial o contenido. que necesita ser precargado En conjunto, estas y otras tecnologías relacionadas parecen estar preparadas para habilitar un conjunto convincente de servicios de juego que podrían generar impresionantes niveles de ingresos para las empresas que pueden implementarlos con éxito.
+Afortunadamente, una serie de importantes avances tecnológicos se están juntando para hacer esto ahora posible, incluidas las mejoras en la conectividad general a través de WiFi (como con WiFi6) y las redes celulares de área amplia (y 5G debería mejorar aún más las cosas). Además, ha habido una adopción y optimización generalizadas de GPU en servidores basados en la nube. Sin embargo, lo más importante son los avances de software que pueden habilitar tecnologías como la representación dividida o colaborativa (donde se realiza algún trabajo en la nube y otro en el dispositivo local), así como predicciones de acciones que se deben realizar basadas en la inteligencia artificial o contenido. que necesita ser precargado En conjunto, estas y otras tecnologías relacionadas parecen estar preparadas para habilitar un conjunto convincente de servicios de juego que podrían generar impresionantes niveles de ingresos para las empresas que pueden implementarlos con éxito.
 
 También es importante agregar que aunque un fuerte crecimiento en los servicios de transmisión de juegos que dependen menos del hardware puede implicar un impacto negativo en las PC específicas del juego, las GPU y otro hardware centrado en el juego (porque la gente podría usar dispositivos más antiguos y menos potentes para correr juegos modernos); de hecho, lo contrario es probable que sea cierto. Los servicios de transmisión de juegos probablemente expondrán a una audiencia aún más amplia a los juegos más atractivos y eso, a su vez, probablemente inspirará a más personas a comprar PCs, teléfonos inteligentes y otros dispositivos optimizados para juegos. El servicio de juegos les dará la oportunidad de jugar (o seguir jugando) esos juegos en situaciones o lugares donde no tienen acceso a sus dispositivos de juego principales.
 
-## Predicción 3: Multi-Cloud se Convertirá en el Estándar de la Informática Empresarial
+## 3️⃣ Predicción 3: Multi-Cloud se Convertirá en el Estándar de la Informática Empresarial
 
 <figure>
     <a href="/assets/images/cloud-computing.jpg" class="image-popup"><img src="/assets/images/cloud-computingx636.jpg"></a>
@@ -65,7 +66,7 @@ Resulta que, como ocurre con muchos desarrollos tecnológicos modernos, no exist
 
 El verdadero ganador es el modelo de computación en la nube, independientemente de dónde o por quién esté siendo alojado. La computación en la nube no solo ha cambiado las expectativas sobre el rendimiento, la confiabilidad y la seguridad, el entorno de desarrollo de software DevOps que inspiró y la arquitectura de aplicaciones centradas en contenedores que ha habilitado han cambiado radicalmente la forma en que se escribe, actualiza y despliega el software. Es por eso que ve que las empresas están desviando su enfoque de los aspectos de la computación en la nube basados en infraestructura pública y hacia los entornos de software flexibles que habilita. Esto, a su vez, es la razón por la que las empresas han reconocido que aprovechar múltiples tipos de nube y proveedores de nube no es una estrategia débil o desarticulada, sino que en realidad es una fortaleza que puede aprovecharse para futuros esfuerzos.
 
-## Predicción 4: La Inteligencia Artificial en los Dispositivos comenzará a cambiar la Conversación sobre la Privacidad de los Datos
+## 4️⃣ Predicción 4: La Inteligencia Artificial en los Dispositivos comenzará a cambiar la Conversación sobre la Privacidad de los Datos
 
 <figure>
     <a href="/assets/images/inteligencia-artificial-campo-crecimiento-tecnologico.jpg" class="image-popup"><img src="/assets/images/inteligencia-artificial-campo-crecimiento-tecnologicox636.jpg"></a>
@@ -84,11 +85,11 @@ Lo que esto significa es que, si los proveedores de servicios de nube y aplicaci
 
 Apple, para su crédito, comenzó a hablar sobre este concepto hace varios años (¿recuerdas la privacidad diferencial?) Y ya almacena cosas como los exámenes de reconocimiento facial y otra información de identificación personal solo en dispositivos individuales. Durante el próximo año, espero ver a muchos más fabricantes de hardware y componentes llevar esto al siguiente nivel hablando no solo de sus características de seguridad de datos en el dispositivo, sino también de cómo la inteligencia artificial integrada puede mejorar la privacidad. Esperemos que más proveedores de software y servicios en la nube también lo habiliten.
 
-## Predicción 5: La Regulación de la Industria Tecnológica en los EE. UU. será Real
+## 5️⃣ Predicción 5: La Regulación de la Industria Tecnológica en los EE. UU. será Real
 
 <figure>
-    <a href="/assets/images/presentan-moviles-flexibles.jpg" class="image-popup"><img src="/assets/images/presentan-moviles-flexiblesx636.jpg"></a>
-    <figcaption> | Ciberninjas</figcaption>
+    <a href="/assets/images/agentes-ley-contra-internet.jpg" class="image-popup"><img src="/assets/images/agentes-ley-contra-internetx636.jpg"></a>
+    <figcaption>Los agentes y leyes en contra de Internet cada vez censuran más los contenidos | Ciberninjas</figcaption>
 </figure>
 Los agentes y leyes en contra de Internet cada vez censuran más los contenidos. Mundo Framework por @rosepac 
 
@@ -98,7 +99,12 @@ De la reacción se desprende claramente que las empresas como Facebook han estad
 
 Ya sea que EE. UU. Se base en las regulaciones GDPR de Europa, las leyes de privacidad establecidas en California el año pasado, o que se vea algo completamente diferente, pero ahora que el valor y el impacto potencial de los datos personales se han aclarado, no hay duda de que veremos leyes Que controlan el bien valorado que es.
 
-## Predicción 6: La Robótica Personal se convertirá en una Nueva Categoría Importante
+## 6️⃣ Predicción 6: La Robótica Personal se convertirá en una Nueva Categoría Importante
+
+<figure>
+    <a href="/assets/images/humanoide-robotico-metal.jpg" class="image-popup"><img src="/assets/images/humanoide-robotico-metalx636.jpg"></a>
+    <figcaption>La tecnología amenaza con generar robots que sustituyan a los humanos | Ciberninjas</figcaption>
+</figure>
 
 La tecnología amenaza con generar robots que sustituyan a los humanos. Mundo Framework por @rosepac 
 
@@ -110,11 +116,11 @@ Si bien varias compañías han intentado y no han logrado llevar la robótica pe
 
 Finalmente , las plataformas de desarrollo de hardware y software centradas en la robótica, como la última placa Jetson AGX Xavier de Nvidia y el kit de desarrollo de software de Isaac, los avances clave en visión computacional, así como el creciente ecosistema en torno al ROS (sistema operativo de robot) de código abierto, subrayan la Se está haciendo un gran volumen de trabajo para permitir aplicaciones comerciales y de consumo de robots en 2019.
 
-## Predicción 7: Los Servicios Basados en la Nube harán que los Sistemas Operativos sean Irrelevantes
+## 7️⃣ Predicción 7: Los Servicios Basados en la Nube harán que los Sistemas Operativos sean Irrelevantes
 
 <figure>
-    <a href="/assets/images/presentan-moviles-flexibles.jpg" class="image-popup"><img src="/assets/images/presentan-moviles-flexiblesx636.jpg"></a>
-    <figcaption> | Ciberninjas</figcaption>
+    <a href="/assets/images/internet-de-las-cosas.jpg" class="image-popup"><img src="/assets/images/internet-de-las-cosas.jpg"></a>
+    <figcaption>El Internet de las Cosas hace que con apps y servicos en la nube nos sea suficiente | Ciberninjas</figcaption>
 </figure>
 El Internet de las Cosas hace que con apps y servicos en la nube nos sea suficiente. Mundo Framework por @rosepac 
 

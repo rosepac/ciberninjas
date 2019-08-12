@@ -22,8 +22,11 @@ header:
   actions:
     - label: "COMPRAR EBOOK"
       url: "https://leanpub.com/web-hacking-101-es"
+    - label: "COMPRAR EBOOK"
+      url: "https://leanpub.com"
 toc: true
 toc_label: "Contenidos"
+toc_icon: user-ninja
 toc_sticky: true
 sidebar:
   - title: "Autores"

@@ -19,6 +19,7 @@ header:
   caption: "**Créditos**: [Repositorio de Marketing de Jekyll](https://github.com/jekyll/brand)"
 toc: true
 toc_label: "Contenidos"
+toc_icon: user-ninja
 toc_sticky: true
 ---
 Existe un gran cambio al modificar tus hábitos y desear cambiar desde un Sistema de Gestión de Contenidos como puede ser Wordpress hacía un Sistema de Contenidos de Generación Estática como puede ser Jekyll, por ello.
