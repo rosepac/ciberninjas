@@ -21,7 +21,6 @@ toc: true
 toc_label: "Contenidos"
 toc_sticky: true
 ---
-
 ## 🕵️‍♂️ Enlaces por Investigar (-_pendientes-_)
 
 * [Configurar plantilla, buscador.. Y otros Ajustes del Tema](https://mmistakes.github.io/minimal-mistakes/docs/configuration "Configuración de la Plantilla") (- por revisar la implementación de un mejor buscador ¿Algabia? y ajustar algunos otros distintos parámetros -)

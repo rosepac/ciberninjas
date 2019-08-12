@@ -14,7 +14,6 @@ header:
   caption: "**Créditos**: PxHere"
 
 ---
-
 <figure>
     <a href="/assets/images/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg" class="image-popup"><img src="/assets/images/libre-officex636.jpg"></a>
     <figcaption>Facebook mantiene un pulso contra la posible legislación americana de las criptomonedas | Ciberninjas</figcaption>

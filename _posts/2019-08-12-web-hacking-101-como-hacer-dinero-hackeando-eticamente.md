@@ -33,7 +33,6 @@ sidebar:
     text: "More text here."
     nav: sidebar-sample
 ---
-
 ## Descripción Completa
 
 Con un Prefacio escrito por los Co-fundadores de HackerOne Michiel Prins y Jobert Abma, Web Hacking 101 en Español trata sobre la exploración ética del software en busca de fallos de seguridad, pero aprender a hackear no siempre es fácil.
