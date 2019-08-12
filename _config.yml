@@ -60,6 +60,7 @@ exclude: [vendor]
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
+  - jekyll-archives
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -116,9 +117,44 @@ defaults:
       layout: single
       author_profile: true
 
+# category_archive:
+#   type: liquid
+#   path: /categoria/
+# tag_archive:
+#   type: liquid
+#   path: /etiqueta/
+  
+# Jekyll Archive Configuracion: https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md, https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md  
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categoria/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /etiqueta/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categoria/:name/
+    tag: /etiqueta/:name/
+    
+# category_archive:
+#   type: jekyll-archives
+#   path: /categories/
+# tag_archive:
+#   type: jekyll-archives
+#   path: /tags/
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
