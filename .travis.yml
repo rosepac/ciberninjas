@@ -3,6 +3,19 @@
 language: ruby
 cache: bundler
 before_install:
+  - gem install jekyll-archives
+script:
+  - bundle exec jekyll
+branches:
+  only:
+    # Change this to gh-pages if you're deploying using the gh-pages branch
+    - master
+rvm:
+ - 2.4
+
+language: ruby
+cache: bundler
+before_install:
   - gem install bundler
 script:
   - bundle exec jekyll algolia
@@ -13,7 +26,7 @@ branches:
 rvm:
  - 2.4
  
- language: ruby
+
 cache: bundler
 before_install:
   - gem install bundler
