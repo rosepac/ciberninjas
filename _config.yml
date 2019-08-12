@@ -22,6 +22,12 @@ twitter_username: ciberaprendiz
 github_username: rosepac
 minimal_mistakes_skin: sunrise # default
 search: true
+search_provider: algolia
+algolia:
+  application_id: XV7A2DHT2U # YOUR_APPLICATION_ID
+  index_name: ciberninjas # YOUR_INDEX_NAME
+  search_only_api_key: 5e5cf6a882e0e96a52942bbd15eb7fe2 # YOUR_SEARCH_ONLY_API_KEY
+  powered_by: true # true (default), false
 
 # Build settings
 markdown: kramdown
@@ -46,6 +52,7 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude: [vendor]
 
 # Plugins (previously gems:)
 plugins:
