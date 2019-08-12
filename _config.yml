@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   La Biblia de la Programación y los Framework de las Nuevas Tecnologías. Biblioteca de libros, cursos, frameworks, librerías, aplicaciones, recursos y herramientas.
 twitter_username: ciberaprendiz
 github_username: rosepac
-minimal_mistakes_skin: contrast # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise, 
+minimal_mistakes_skin: mint # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise, 
 search: true
 search_full_content: true
 search_provider: algolia
