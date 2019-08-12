@@ -1,12 +1,12 @@
 ---
 ---
 @import "{{ site.theme }}";
-*::selection {
-    background-color: #00ACB4;
-    color: #FFFFFF;
+::selection {
+    background: #00ACB4;
+    color: #FFFFFF; !important
 }
  
-*::-moz-selection {
-    background-color:#00ACB4;
-    color: #FFFFFF;
+::-moz-selection {
+    background:#00ACB4;
+    color: #FFFFFF; !important
 }
