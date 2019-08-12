@@ -20,8 +20,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **LeanPub**"
   actions:
-    - label: "COMPRAR"
-      url: "https://unsplash.com"
+    - label: "COMPRAR EBOOK"
+      url: "https://leanpub.com/web-hacking-101-es"
 toc: true
 toc_label: "Contenidos"
 toc_sticky: true
@@ -34,6 +34,9 @@ sidebar:
     text: "18, 07 €"
   - title: "Precio Mínimo"
     text: "9,03 €"
+actions:  
+  - label: "COMPRAR EBOOK"
+    url: "https://leanpub.com/web-hacking-101-es"
     nav: sidebar-sample
 ---
 Hasta Febrero 2017, Twitter ha pagado más de $640,000 USD a hackers éticos por reportar vulnerabilidades en su plataforma. Google, Facebook, Shopify, Dropbox, y muchos más, solicitan hackers éticos que busquen fallos de seguridad en sus sitios y pagarles por sus hallazgos. Este libro te enseñará cómo iniciarte en el hacking ético.
