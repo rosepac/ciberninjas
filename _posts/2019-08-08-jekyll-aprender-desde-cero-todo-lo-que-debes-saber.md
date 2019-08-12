@@ -178,6 +178,8 @@ POR INVESTIGAR
 Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir añadiéndole diferentes acciones o pedazos de código que vayan ejecutando diferentes opciones.
 
 * [Github: Jekyll - Twitter](https://github.com/rob-murray/jekyll-twitter-plugin "Plugin que permite trabajar a la API de Twitter desde Jekyll")
+* [Algoria: Paso a Paso](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#algolia)
+* [Instalar Buscador Algoria + Travis CI](https://community.algolia.com/jekyll-algolia/github-pages.html)
 
 ### 🎨 Temas de Jekyll
 
