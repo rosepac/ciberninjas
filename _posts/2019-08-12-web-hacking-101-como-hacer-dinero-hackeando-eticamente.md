@@ -15,7 +15,7 @@ permalink: /catalogo/web-hacking-101-como-hacer-dinero-hackeando-eticamente/
 description: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
 excerpt: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
 header:
-  overlay_image: /assets/images/catalogo/Web-Hacking-101-en-Espanolx250.jpg
+  overlay_image: /assets/images/catalogo/Web-Hacking-101-en-Espanol-600x769.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **LeanPub**"
   actions:
@@ -26,7 +26,7 @@ toc_label: "Contenidos"
 toc_sticky: true
 sidebar:
   - title: "Title"
-    image: http://placehold.it/350x250
+    image: /assets/images/catalogo/Web-Hacking-101x250.jpg
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
