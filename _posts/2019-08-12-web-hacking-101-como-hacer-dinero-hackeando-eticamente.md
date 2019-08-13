@@ -37,9 +37,6 @@ sidebar:
     text: "18, 07 €"
   - title: "Precio Mínimo"
     text: "9,03 €"
-  actions:
-    - label: "COMPRAR EBOOK"
-      url: "https://leanpub.com/web-hacking-101-es"
     nav: sidebar-sample
 # actions:  
 #  - label: "COMPRAR EBOOK"
