@@ -2,6 +2,7 @@
 title: "📰 WPS Office 2019, la Alternativa Perfecta de Office"
 description: "WPS Office 2019, la suite ofimática que aspira a suplantar a Microsoft Office"
 excerpt: "WPS Office 2019, la suite ofimática que aspira a suplantar a Microsoft Office"
+date: 2019-08-14 11:00:01
 categories:
 - Actualidad
 - Software
