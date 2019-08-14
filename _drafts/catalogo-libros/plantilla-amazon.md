@@ -33,9 +33,9 @@ sidebar:
     image: /assets/images/catalogo/Web-Hacking-101x250.jpg
     image_alt: "image"
     text: "Peter Yaworski, Gamliel Hernández"
-  - title: "Precio Sugerido"
+  - title: "Precio Papel / Tapa Dura"
     text: "18, 07 €"
-  - title: "Precio Mínimo"
+  - title: "Precio Digital / Kindle"
     text: "9,03 €"
     nav: sidebar-sample
     
@@ -73,7 +73,7 @@ Desde entonces se mudó a Rails y Android antes de desarrollar un gran interés 
 
 Gamliel Hernández, investigador de seguridad de la información. Jugador de pirateo web. Bug Bounty Hunter. Me gusta romper cosas y ver cómo funciona.
 
-## 🕵️‍♂️ Índice del Libro
+## Índice del Libro
 
 - Prefacio
 - Introducción
@@ -217,16 +217,15 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 - Vulnerabilidades en la lógica de la Aplicación
 - Apéndice B - Registro de cambios en Web Hacking 101
 
-## Otros Detalles
+## 💖 Comprar Producto
 
 - Libro de aprendizaje en PDF
 - Formatos disponibles: Epub, Ebook o Movi
 - LOS PRECIOS NO INCLUYEN EL IVA (se incluyen a la hora de realizar la compra)
 
-## 💖 Comprar Libro o Ebook
-
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
-<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--warning btn--large">🛒 COMPRAR</a>
+<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--warning btn--large">📓 COMPRAR LIBRO</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--warning btn--large">💻 VERSIÓN KINDLE</a>
+
 
 ## 📚 Catálogo de Libros
 <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->

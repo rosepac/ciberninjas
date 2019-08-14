@@ -17,7 +17,7 @@ tags:
 - Interfaces
 - Kit
 categories:
-- Código-Abierto
+- Código Abierto
 - Framework-CSS
 ---
 ## Construye bloque a bloque

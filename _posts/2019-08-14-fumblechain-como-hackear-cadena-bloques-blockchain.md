@@ -1,0 +1,46 @@
+---
+title: "💰 Cómo Hackear las Cadenas de Bloques: Fumblechain"
+description: 'FumbleChain, la Cadena de Bloque defectuosa a propósito'
+excerpt: 'FumbleChain, la Cadena de Bloque defectuosa a propósito'
+date: 2019-08-14 22:50:59
+categories:
+- Blockchain
+- Seguridad
+tags:
+- Hacking
+- CTF
+link: https://resources.kudelskisecurity.com/fumblechain
+header:
+  overlay_image: "/assets/images/cadena-bloques-fumblechain.jpg"
+  overlay_filter: "0.2"
+  image_description: "Fumblechain, hackea la Cadena de Bloques. Aprender seguridad de Blockchain | Ciberninjas"
+  caption: "**Créditos**: Captura creada por ROSEPAC"
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
+
+---
+> Aprender a hackear la cadena de bloques o blockchain ahora es un poco más fácil
+
+_Fumblechain_ te va a enseñar como hacerlo con cuatro sencillos pasos, desde dentro de una cadena de bloques creada llena de defectos y errores a propósito para posibilitar la practica de las personas interesadas sobre la seguridad alrededor del mundo del blockchain.
+
+## Aprende Sobre la Seguridad de Blockchain
+
+FumbleChain es una cadena de bloques deliberadamente insegura. Lea las guías, completa los CTF (capture de flag), aprende cuáles son los escollos de desarrollo comunes y cómo evitarlos.
+
+## De Sencilla Implementación
+
+FumbleChain está escrito en Python, por lo que es fácil de leer y participar; también puedes ejecutar una instancia en tu propia máquina con Docker: [Demostración en Vivo de Fumblechain](https://demo.fumblechain.io/ "Demo de la cadena de bloques preparada para generar errores Fumblechain en vivo | Ciberninjas")
+
+## Objetivos del Proyecto
+
+Este proyecto busca crear conciencia sobre la seguridad de Blockchain. Los ecosistemas de Blockchain no son inherentemente seguros y FumbleChain es una plataforma donde puede explorar conceptos y probar sus habilidades.
+
+## Contribuir
+
+Lo que hemos creado es solo el comienzo. Úsalo. Agrega nuevos desafíos. Ayúdanos a crecer y corre la voz sobre la seguridad del blockchain.
+
+> Fuente: [CoinDesk](https://www.coindesk.com/meet-fumblechain-the-deliberately-flawed-blockchain "Conoce a FumbleChain, la cadena de bloques deliberadamente defectuosa")  
+> Web del Proyecto:  [Funblechain, Kudelski Security](https://resources.kudelskisecurity.com/fumblechain "Página web de Funblechain el lugar perfecto con el que aprender seguridad dentro del mundo Blockchain o cadena de bloques")
+> Código Github: [Github](https://github.com/kudelskisecurity/fumblechain "Enlace del repositorio del código de Fumblechain en la plataforma de Github")
