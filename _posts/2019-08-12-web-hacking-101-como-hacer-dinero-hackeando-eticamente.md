@@ -20,7 +20,9 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **LeanPub**"
   actions:
-    - label: "MÁS en SEGURIDAD INFORMÁTICA"
+    - label: "🛒"
+      url: "https://leanpub.com/web-hacking-101-es"
+    - label: "+ SEGURIDAD INFORMÁTICA"
       url: "https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica"
 toc: true
 toc_label: "Contenidos"
