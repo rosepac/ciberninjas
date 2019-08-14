@@ -23,7 +23,7 @@ header:
     - label: "COMPRAR EBOOK"
       url: "https://leanpub.com/web-hacking-101-es"
     - label: "+ SEGURIDAD INFORMÁTICA"
-      url: "https://leanpub.com"
+      url: "https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -38,9 +38,6 @@ sidebar:
   - title: "Precio Mínimo"
     text: "9,03 €"
     nav: sidebar-sample
-# actions:  
-#  - label: "COMPRAR EBOOK"
-#     url: "https://leanpub.com/web-hacking-101-es"
 ---
 Hasta Febrero 2017, Twitter ha pagado más de $640,000 USD a hackers éticos por reportar vulnerabilidades en su plataforma. Google, Facebook, Shopify, Dropbox, y muchos más, solicitan hackers éticos que busquen fallos de seguridad en sus sitios y pagarles por sus hallazgos. Este libro te enseñará cómo iniciarte en el hacking ético.
 
@@ -219,6 +216,8 @@ Después de leer el libro, tus ojos serán abiertos al amplio margen de vulnerab
 - Vulnerabilidades en la lógica de la Aplicación
 - Apéndice B - Registro de cambios en Web Hacking 101
 
-## Producto
+## Comprar Producto
 
 Libro de aprendizaje en PDF. Formatos disponibles: Epub, Ebook o Movi. LOS PRECIOS NO INCLUYEN EL IVA.
+
+<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">🛒 COMPRAR</a>
