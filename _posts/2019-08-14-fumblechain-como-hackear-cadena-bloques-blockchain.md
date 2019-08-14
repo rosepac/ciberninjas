@@ -31,7 +31,7 @@ FumbleChain es una cadena de bloques deliberadamente insegura. Lea las guías, c
 
 ## De Sencilla Implementación
 
-FumbleChain está escrito en Python, por lo que es fácil de leer y participar; también puedes ejecutar una instancia en tu propia máquina con Docker: [Demostración en Vivo de Fumblechain](https://demo.fumblechain.io/ "Demo de la cadena de bloques preparada para generar errores Fumblechain en vivo | Ciberninjas")
+FumbleChain está escrito en Python, por lo que es fácil de leer y participar; también puedes ejecutar una instancia en tu propia máquina con Docker: [Demostración en Vivo de Fumblechain](https://demo.fumblechain.io/ "Demo de la cadena de bloques preparada para generar errores Fumblechain en vivo: Ciberninjas")
 
 ## Objetivos del Proyecto
 
