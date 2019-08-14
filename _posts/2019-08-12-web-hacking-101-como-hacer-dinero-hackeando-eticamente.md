@@ -22,7 +22,7 @@ header:
   actions:
     - label: "+ SEGURIDAD INFORMÁTICA"
       url: "https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica"
-    - label: "🛒"
+    - label: "COMPRAR 🛒"
       url: "https://leanpub.com/web-hacking-101-es"
 toc: true
 toc_label: "Contenidos"
@@ -225,9 +225,9 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 
 ## 🎁 Muestra Gratis
 
-<center><a href="https://leanpub.com/web-hacking-101-es" target="_blank" class="btn btn--success btn--large" title="Leer muestra totalmente gratis del libro Web Hacking 101 como hacer dinero hackeando eticamente en pdf online virtual">👓 LEE TOTALMENTE GRATIS LAS PRIMERAS 28 HOJAS</a></center>
+<center><a href="https://leanpub.com/web-hacking-101-es/read_sample" target="_blank" class="btn btn--danger btn--large" title="Leer muestra totalmente gratis del libro Web Hacking 101 como hacer dinero hackeando eticamente en pdf online virtual">👓 LEE EXTRACTO GRATIS</a></center>
 
-## 🎁 Comprar Libro 💖
+## 💖 Comprar Libro
 
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
 <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--warning btn--large">🛒 COMPRAR</a>
