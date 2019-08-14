@@ -1,5 +1,5 @@
 ---
-author_profile: false
+author_profile: true
 title: "💰 Cómo Hackear las Cadenas de Bloques: Fumblechain"
 description: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
 excerpt: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
