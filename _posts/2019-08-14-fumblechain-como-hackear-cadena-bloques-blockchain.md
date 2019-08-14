@@ -44,5 +44,5 @@ Este proyecto busca crear conciencia sobre la seguridad de Blockchain. Los ecosi
 Lo que hemos creado es solo el comienzo. Úsalo. Agrega nuevos desafíos. Ayúdanos a crecer y corre la voz sobre la seguridad del blockchain.
 
 > Fuente: [CoinDesk](https://www.coindesk.com/meet-fumblechain-the-deliberately-flawed-blockchain "Conoce a FumbleChain, la cadena de bloques deliberadamente defectuosa")  
-> Web del Proyecto:  [Kudelski Security](https://kudelskisecurity.com/ "Página web de la Empresa que creo el proyecto, el lugar perfecto con el que aprender seguridad dentro del mundo Blockchain o cadena de bloques")
+> Web del Proyecto: [Kudelski Security](https://kudelskisecurity.com/ "Página web de la Empresa que creo el proyecto, el lugar perfecto con el que aprender seguridad dentro del mundo Blockchain o cadena de bloques")
 > Código Github: [Github](https://github.com/kudelskisecurity/fumblechain "Enlace del repositorio del código de Fumblechain en la plataforma de Github")
