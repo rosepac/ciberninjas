@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: '🔐 Web Hacking 101: Cómo hacer Dinero Hackeando Éticamente'
+title: "🔐 Web Hacking 101: Cómo hacer Dinero Hackeando Éticamente"
 comments: false
 date: 2019-08-12 09:34:54
 tags:
@@ -38,16 +38,9 @@ sidebar:
   - title: "Precio Mínimo"
     text: "9,03 €"
     nav: sidebar-sample
+    
 ---
 Hasta Febrero 2017, Twitter ha pagado más de $640,000 USD a hackers éticos por reportar vulnerabilidades en su plataforma. Google, Facebook, Shopify, Dropbox, y muchos más, solicitan hackers éticos que busquen fallos de seguridad en sus sitios y pagarles por sus hallazgos. Este libro te enseñará cómo iniciarte en el hacking ético.
-
-## Biografía del Autor
-
-Peter Yaworski, es un desarrollador autodidacta que comenzó a "desarrollar" sitios web con Drupal. A medida que lentamente comenzó a aprender cosas, publicó videos tutoriales en YouTube para retribuir a los demás.
-
-Desde entonces se mudó a Rails y Android antes de desarrollar un gran interés en la seguridad del software. En este momento, está enfocado en desarrollar Dailylearns.com , donde es el desarrollador principal, y continuar aprendiendo sobre las mejores prácticas de desarrollo de software.
-
-Gamliel Hernández, investigador de seguridad de la información. Jugador de pirateo web. Bug Bounty Hunter. Me gusta romper cosas y ver cómo funciona.
 
 ## Descripción Completa
 
@@ -71,6 +64,21 @@ Este libro cubre temas como:
 Cada ejemplo incluye una clasificación del ataque, un enlace del informe, una descripción de fácil entendimiento sobre la falla, la recompensa obtenida (la mayoría de veces es una recompensa monetaria, otras son menciones en los salones de la fama de los hackers éticos en los sitios donde la vulnerabilidad fue encontrada, y otras veces la recompensa puede ser una camiseta o sudadera), y al final, se encuentran recomendaciones importantes para búsquedas futuras de ese mismo fallo.
 
 Después de leer el libro, tus ojos serán abiertos al amplio margen de vulnerabilidades web que existen y probablemente nunca volverás a ver un sitio web o una API de la misma manera.
+
+## Biografía del Autor
+
+Peter Yaworski, es un desarrollador autodidacta que comenzó a "desarrollar" sitios web con Drupal. A medida que lentamente comenzó a aprender cosas, publicó videos tutoriales en YouTube para retribuir a los demás.
+
+Desde entonces se mudó a Rails y Android antes de desarrollar un gran interés en la seguridad del software. En este momento, está enfocado en desarrollar Dailylearns.com , donde es el desarrollador principal, y continuar aprendiendo sobre las mejores prácticas de desarrollo de software.
+
+Gamliel Hernández, investigador de seguridad de la información. Jugador de pirateo web. Bug Bounty Hunter. Me gusta romper cosas y ver cómo funciona.
+
+## 💖 Comprar Producto
+
+Libro de aprendizaje en PDF. Formatos disponibles: Epub, Ebook o Movi. LOS PRECIOS NO INCLUYEN EL IVA.
+
+<!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
+<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--warning btn--large">COMPRAR 🛒</a>
 
 ## Índice del Libro
 
@@ -215,10 +223,3 @@ Después de leer el libro, tus ojos serán abiertos al amplio margen de vulnerab
 - OAuth
 - Vulnerabilidades en la lógica de la Aplicación
 - Apéndice B - Registro de cambios en Web Hacking 101
-
-## Comprar Producto
-
-Libro de aprendizaje en PDF. Formatos disponibles: Epub, Ebook o Movi. LOS PRECIOS NO INCLUYEN EL IVA.
-
-<!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
-<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--warning btn--large">COMPRAR 🛒</a>
