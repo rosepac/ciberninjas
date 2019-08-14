@@ -225,7 +225,7 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 
 ## 🎁 Muestra Gratis
 
-<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--success btn--large">👓 LEE TOTALMENTE GRATIS LAS PRIMERAS 28 HOJAS</a>
+<center><a href="https://leanpub.com/web-hacking-101-es" target="_blank" class="btn btn--success btn--large" title="Leer muestra totalmente gratis del libro Web Hacking 101 como hacer dinero hackeando eticamente en pdf online virtual">👓 LEE TOTALMENTE GRATIS LAS PRIMERAS 28 HOJAS</a></center>
 
 ## 🎁 Comprar Libro 💖
 
