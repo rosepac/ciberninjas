@@ -20,9 +20,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **LeanPub**"
   actions:
-    - label: "COMPRAR EBOOK"
-      url: "https://leanpub.com/web-hacking-101-es"
-    - label: "+ SEGURIDAD INFORMÁTICA"
+    - label: "MÁS en SEGURIDAD INFORMÁTICA"
       url: "https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica"
 toc: true
 toc_label: "Contenidos"
@@ -220,4 +218,5 @@ Después de leer el libro, tus ojos serán abiertos al amplio margen de vulnerab
 
 Libro de aprendizaje en PDF. Formatos disponibles: Epub, Ebook o Movi. LOS PRECIOS NO INCLUYEN EL IVA.
 
-<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">🛒 COMPRAR</a>
+<!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
+<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--warning btn--large">COMPRAR 🛒</a>
