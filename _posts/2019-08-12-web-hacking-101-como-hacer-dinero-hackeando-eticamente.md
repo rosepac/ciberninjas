@@ -223,6 +223,10 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 - Formatos disponibles: Epub, Ebook o Movi
 - LOS PRECIOS NO INCLUYEN EL IVA (se incluyen a la hora de realizar la compra)
 
+## 🎁 Muestra Gratis
+
+<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--success btn--large">👓 LEE TOTALMENTE GRATIS LAS PRIMERAS 28 HOJAS</a>
+
 ## 🎁 Comprar Libro 💖
 
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
