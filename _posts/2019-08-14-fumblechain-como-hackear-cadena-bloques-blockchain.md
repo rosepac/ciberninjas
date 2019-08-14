@@ -9,12 +9,14 @@ categories:
 tags:
 - Hacking
 - CTF
-link: https://resources.kudelskisecurity.com/fumblechain
 header:
   overlay_image: "/assets/images/cadena-bloques-fumblechain.jpg"
   overlay_filter: "0.2"
   image_description: "Fumblechain, hackea la Cadena de Bloques. Aprender seguridad de Blockchain | Ciberninjas"
   caption: "**Créditos**: Captura creada por ROSEPAC"
+actions:
+    - label: "VISITAR FUMBLECHAIN"
+      url: "https://resources.kudelskisecurity.com/fumblechain"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -42,5 +44,5 @@ Este proyecto busca crear conciencia sobre la seguridad de Blockchain. Los ecosi
 Lo que hemos creado es solo el comienzo. Úsalo. Agrega nuevos desafíos. Ayúdanos a crecer y corre la voz sobre la seguridad del blockchain.
 
 > Fuente: [CoinDesk](https://www.coindesk.com/meet-fumblechain-the-deliberately-flawed-blockchain "Conoce a FumbleChain, la cadena de bloques deliberadamente defectuosa")  
-> Web del Proyecto:  [Funblechain, Kudelski Security](https://resources.kudelskisecurity.com/fumblechain "Página web de Funblechain el lugar perfecto con el que aprender seguridad dentro del mundo Blockchain o cadena de bloques")
+> Web del Proyecto:  [Kudelski Security](https://kudelskisecurity.com/ "Página web de la Empresa que creo el proyecto, el lugar perfecto con el que aprender seguridad dentro del mundo Blockchain o cadena de bloques")
 > Código Github: [Github](https://github.com/kudelskisecurity/fumblechain "Enlace del repositorio del código de Fumblechain en la plataforma de Github")
