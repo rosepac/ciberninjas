@@ -225,12 +225,12 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 
 ## 🎁 Muestra Gratis
 
-<center><a href="https://leanpub.com/web-hacking-101-es/read_sample" target="_blank" class="btn btn--danger btn--large" title="Leer muestra totalmente gratis del libro Web Hacking 101 como hacer dinero hackeando eticamente en pdf online virtual">👓 LEE EXTRACTO GRATIS</a></center>
+<center><a href="https://leanpub.com/web-hacking-101-es/read_sample" target="_blank" class="btn btn--danger btn--large" title="Leer una extensa muestra totalmente gratis del libro Web Hacking 101 como hacer dinero hackeando eticamente en pdf online virtual">👓 LEE EXTRACTO GRATIS</a></center>
 
 ## 💖 Comprar Libro
 
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
-<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--warning btn--large">🛒 COMPRAR</a>
+<a href="https://leanpub.com/web-hacking-101-es" title="title="Compra Web Hacking 101 como hacer dinero hackeando eticamente de Nuestra Categoría de los Libros de Seguridad Informática dentro del Catálogo de Productos de Nuestra Tienda de Ciberninjas class="btn btn--warning btn--large">🛒 COMPRAR</a>
 
 ## 📚 Catálogo Completo
-<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--success btn--large">🔐 Seguridad Informática</a> <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->
+<a href="https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica" title="Categoría de los Libros de Seguridad Informática dentro del Catálogo de Productos de Nuestra Tienda de Ciberninjas" class="btn btn--success btn--large">🔐 Seguridad Informática</a> <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->

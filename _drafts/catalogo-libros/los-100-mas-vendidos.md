@@ -10,7 +10,6 @@ Desarrollo Personal, Autoayuda
 
 El poder del ahora: una guía para la iluminación espiritual (Perenne) Tapa blanda – 2013
 https://amzn.to/31FTcfb
-
 9,50
 Espiritual, Mente y Cuerpo
 
@@ -40,19 +39,16 @@ Educación
 
 Sapiens. De animales a dioses: Breve historia de la humanidad Tapa blanda – 15 oct 2015
 https://amzn.to/2KQfjZs
-
 18,90
 Historia, Antropología
 
 Agenda Hecha para Brillar
 https://amzn.to/31OgpMv
-
 18
 Regalos y Papelería, Agenda
 
 De mayor quiero ser... feliz: 6 cuentos para potenciar la positividad y autoestima de los niños (Emociones, valores y hábitos) Tapa dura – 5 jun 2018
 https://amzn.to/31EKs92
-
 17,05
 Educación
 
@@ -65,4 +61,9 @@ En los zapatos de Valeria (Saga Valeria 1) Libro de bolsillo – 17 sep 2015
 https://amzn.to/2N5dQRO
 9,45
 Novela, Erótica
+
+El Enemigo Conoce el Sistema
+https://amzn.to/2Z46eBx
+17,00 €
+Seguridad Informática
 
