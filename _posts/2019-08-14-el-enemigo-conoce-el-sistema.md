@@ -14,8 +14,8 @@ categories:
 - Redes y Administración
 - Red e Internet
 permalink: /catalogo/el-enemigo-conoce-el-sistema/
-description: "El enemigo conoce el sistema: Manipulación de ideas, personas e influencias después de la economía de la atención"
-excerpt: "El enemigo conoce el sistema: Manipulación de ideas, personas e influencias después de la economía de la atención"
+description: "Comprar: El enemigo conoce el sistema: Manipulación de ideas, personas e influencias después de la economía de la atención de Marta Peirano"
+excerpt: "Comprar: El enemigo conoce el sistema: Manipulación de ideas, personas e influencias después de la economía de la atención de Marta Peirano"
 header:
   overlay_image: /assets/catalogo/el-enemigo-conoce-el-sistemaxgrande.jpg
   image_description: "El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención | Ciberninjas"
@@ -24,7 +24,7 @@ header:
   actions:
     - label: "+ SEGURIDAD INFORMÁTICA"
       url: "https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica"
-    - label: "🛒"
+    - label: "COMPRAR 🛒"
       url: "https://amzn.to/2Z46eBx"
 toc: true
 toc_label: "Contenidos"
@@ -70,11 +70,11 @@ Solo así podremos convertirla en lo que más falta nos hace: una herramienta pa
 
 Marta Peirano es periodista. Fundó las secciones de Cultura de ADN y eldiario.es, donde ha sido jefa de Cultura y Tecnología y adjunta al director, además de haber sido codirectora de Copyfight y cofundadora de Hack Hackers Berlin y de Cryptoparty Berlin.
 
-Ha escrito libros sobre autómatas, sistemas de notación y un ensayo sobre vigilancia y criptografía llamado: El Pequeño Libro Rojo del Activista en la Red, con un prólogo escrito por el mismo: Edward Snowden.
+Ha escrito libros sobre autómatas, sistemas de notación y un ensayo sobre vigilancia y criptografía llamado: [El Pequeño Libro Rojo del Activista en la Red](https://ciberninjas.com/catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/), con un prólogo escrito por el mismo: Edward Snowden.
 
-Su charla TED, «Por qué me vigilan si no soy nadie», supera ya los dos millones de visitas. Se la puede ver en los debates de radio y televisión hablando de vigilancia, infraestructuras, soberanía tecnológica, propaganda computacional y cambio climático.
+Su charla TED, «[Por qué me vigilan si no soy nadie]()», supera ya los dos millones de visitas. Se la puede ver en los debates de radio y televisión hablando de vigilancia, infraestructuras, soberanía tecnológica, propaganda computacional y cambio climático.
 
-## Índice del Libro
+## 🕵️‍♂️ Índice del Libro
 
 - Adicción
     - Cuando haces pop, ya no hay STOP
@@ -131,15 +131,29 @@ Su charla TED, «Por qué me vigilan si no soy nadie», supera ya los dos millon
 - Sobre la autora
 - Créditos
     
-## 💖 Comprar Producto
+## 📝 Otros Detalles
 
-- Libro de aprendizaje en PDF
 - Formatos disponibles: Kindle y Tapa Blanda
-- Los precios NO INCLUYEN gastos de envío ([¡Hazte PRIME gratis!](http://www.amazon.es/prime?tag=ciberninjas07-21 "Enlace de Afiliados Amazon Prime Gratuito por Un Mes"), el primer mes y serán gratuitos)
+- Los precios NO INCLUYEN gastos de envío.
+
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=premium&banner=1E7ZEBFW3E0G3W1WXZ82&f=ifr&linkID=36c6741f8667c2eb2286cb8ca0062ecb&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+## 🎁 Muestra Gratis
+
+<center><a href="https://leer.amazon.es/?asin=B07QMB2W7G" target="_blank" class="btn btn--danger btn--large" title="Leer muestra totalmente gratis del libro El enemigo conoce el sistema en pdf online virtual">👓 LEE EXTRACTO GRATIS</a></center>
+Requiere <a href="https://amzn.to/33BY1rO" target="_blank" title="Aplicaciones gratis para cualquier tipo de dispositivo que permiten leer los documentos de Kindle">Aplicación Kindle Gratis</a> o <a href="https://read.amazon.com">Kindle Cloud Reader</a>
+
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=kindle_unlimited&banner=1YF0NHWPNFA3WWZ0C102&f=ifr&linkID=cfd96503f94b44a4201e1326283d4c60&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+## 💖 Comprar Libro
 
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
-<a href="https://amzn.to/2Z46eBx" class="btn btn--warning btn--large">📓 COMPRAR LIBRO</a> <a href="https://amzn.to/2Z1YfEV" class="btn btn--warning btn--large">💻 VERSIÓN KINDLE</a>
+<a href="https://amzn.to/2Z46eBx" class="btn btn--warning btn--large" title="El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención | Ciberninjas">📓 COMPRAR LIBRO</a> <a href="https://amzn.to/2Z1YfEV" class="btn btn--warning btn--large" title="El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención | Ciberninjas">💻 VERSIÓN KINDLE</a>
 
 
-## 📚 Catálogo de Libros
-<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->
+## 📚 Catálogo Completo
+<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=libros&banner=1F6P458J3MCNTVSNX9R2&f=ifr&linkID=cb0d979fa4bd2dd10f7456a553616d26&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+<!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->
