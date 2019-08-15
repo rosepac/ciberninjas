@@ -3,7 +3,7 @@ header:
   video:
     id: NPE7i8wuupk
     provider: youtube
-title: "🔐 ¿Por qué me vigilan, si no soy nadie?"
+title: "📹 ¿Por qué me vigilan, si no soy nadie?"
 description: "¿Por qué alguien me estaría mirando? No soy nadie". Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano.."
 excerpt: "¿Por qué alguien me estaría mirando? No soy nadie". Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano.."
 comments: false
