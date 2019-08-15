@@ -8,7 +8,7 @@ categories:
 - Seguridad Informática
 tags:
 - Actualización
-- Identificación de Rostro
+- Reconocimiento Facial
 - Exploits
 - 4G
 - Cifrado de Whatshapp
