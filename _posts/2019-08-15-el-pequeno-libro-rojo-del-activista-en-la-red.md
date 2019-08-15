@@ -13,11 +13,11 @@ categories:
 - Libertad y Seguridad Política
 - Red e Internet
 permalink: /catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/
-description: "Comprar El Pequeño Libro Rojo del Activista en la Red de Marta Peirano"
-excerpt: "Comprar El Pequeño Libro Rojo del Activista en la Red de Marta Peirano"
+description: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano"
+excerpt: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano"
 header:
   overlay_image: /assets/catalogo/el-enemigo-conoce-el-sistemaxgrande.jpg
-  image_description: "El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención | Ciberninjas"
+  image_description: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano | Ciberninjas"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Amazon**"
   actions:
