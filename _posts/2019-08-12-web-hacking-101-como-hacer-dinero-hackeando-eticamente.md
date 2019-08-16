@@ -76,81 +76,81 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 ## 🕵️‍♂️ Índice del Libro
 
 - Prefacio
-- Introducción
-- Trasfondo
-- Vulnerabilidades de Redirección Abierta
-- Descripción
-- Ejemplos
-- Resumen
+    - Introducción
+    - Trasfondo
+    - Vulnerabilidades de Redirección Abierta
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Contaminación de parámetros HTTP
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Falsificación de solicitud de sitio cruzado
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Inyección HTML
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Inyeción de CRLF
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Script de Sitio Cruzado
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Inyección de plantilla
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Inyección SQL
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Falsificación de solicitud del lado del servidor
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Entidades Externas de XML
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Ejecución remota de código
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - La Memoria
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Toma de control de un sub dominio
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Condiciones de carrera
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Referencias inseguras a objetos directos
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - OAuth
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Vulnerabilidades en la lógica de la Aplicación
-- Descripción
-- Ejemplos
-- Resumen
+    - Descripción
+    - Ejemplos
+    - Resumen
 - Empezando
 - Recopilación de información
 - Pruebas de aplicaciones
 - Cavar más profundo
-- Resumen
+    - Resumen
 - Informes de vulnerabilidad
 - Lee las directrices de divulgación.
 - Incluye detalles. Luego, incluye más.
@@ -230,7 +230,7 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 ## 💖 Comprar Libro
 
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
-<a href="https://leanpub.com/web-hacking-101-es" title="title="Compra Web Hacking 101 como hacer dinero hackeando eticamente de Nuestra Categoría de los Libros de Seguridad Informática dentro del Catálogo de Productos de Nuestra Tienda de Ciberninjas class="btn btn--warning btn--large">🛒 COMPRAR</a>
+<a href="https://leanpub.com/web-hacking-101-es" title=Compra Web Hacking 101 como hacer dinero hackeando eticamente de Nuestra Categoría de los Libros de Seguridad Informática dentro del Catálogo de Productos de Nuestra Tienda de Ciberninjas class="btn btn--warning btn--large">🛒 COMPRAR</a>
 
 ## 📚 Catálogo Completo
 <a href="https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica" title="Categoría de los Libros de Seguridad Informática dentro del Catálogo de Productos de Nuestra Tienda de Ciberninjas" class="btn btn--success btn--large">🔐 Seguridad Informática</a> <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->

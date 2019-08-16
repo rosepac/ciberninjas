@@ -70,9 +70,9 @@ Solo así podremos convertirla en lo que más falta nos hace: una herramienta pa
 
 Marta Peirano es periodista. Fundó las secciones de Cultura de ADN y eldiario.es, donde ha sido jefa de Cultura y Tecnología y adjunta al director, además de haber sido codirectora de Copyfight y cofundadora de Hack Hackers Berlin y de Cryptoparty Berlin.
 
-Ha escrito libros sobre autómatas, sistemas de notación y un ensayo sobre vigilancia y criptografía llamado: [El Pequeño Libro Rojo del Activista en la Red](https://ciberninjas.com/catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/), con un prólogo escrito por el mismo: Edward Snowden.
+Ha escrito libros sobre autómatas, sistemas de notación y un ensayo sobre vigilancia y criptografía llamado: [El Pequeño Libro Rojo del Activista en la Red](https://ciberninjas.com/catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/ "El pequeño libro rojo del activista en la red: todo lo que no quieres pero necesitas saber sobre el poder, la economía, la sociedad y las telecomunicaciones en la era de la información."), con un prólogo escrito por el mismo: Edward Snowden.
 
-Su charla TED, «[Por qué me vigilan si no soy nadie]()», supera ya los dos millones de visitas. Se la puede ver en los debates de radio y televisión hablando de vigilancia, infraestructuras, soberanía tecnológica, propaganda computacional y cambio climático.
+Su charla TED, «[Por qué me vigilan si no soy nadie](https://ciberninjas.com/charla-por-que-me-vigilan-si-no-soy-nadie/ "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano..")», supera ya los dos millones de visitas. Se la puede ver en los debates de radio y televisión hablando de vigilancia, infraestructuras, soberanía tecnológica, propaganda computacional y cambio climático.
 
 ## 🕵️‍♂️ Índice del Libro
 
@@ -149,7 +149,7 @@ Su charla TED, «[Por qué me vigilan si no soy nadie]()», supera ya los dos mi
 ## 💖 Comprar Libro
 
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
-<center><a href="https://amzn.to/2Z46eBx" class="btn btn--warning btn--large" title="El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención | Ciberninjas">📓 COMPRAR LIBRO</a></center>
+<center><a href="https://amzn.to/2Z46eBx" class="btn btn--warning btn--large" title="Comprar El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención | Ciberninjas">📓 COMPRAR LIBRO</a></center>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=gift_certificates&banner=0YM2726C1ESR66Q7QG02&f=ifr&linkID=b74ea8b6b0434619f53785a367d3de3d&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
@@ -162,6 +162,6 @@ Su charla TED, «[Por qué me vigilan si no soy nadie]()», supera ya los dos mi
 ## 📚 Catálogo Completo
 <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=libros&banner=16R3XS8RQ89N3YJR4B02&f=ifr&linkID=56cd664728c9a7de32cbacd0aafc13ca&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=libros&banner=16R3XS8RQ89N3YJR4B02&f=ifr&linkID=56cd664728c9a7de32cbacd0aafc13ca&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->

@@ -95,6 +95,11 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ciberninjas"
+      
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "ciberninjas"
 
 defaults:
   # _posts
