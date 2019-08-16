@@ -8,3 +8,34 @@ main:
   - title: "Quién Soy"
     url: /quien-soy/
     
+documentales:
+  - title: 👩‍🏫 Educación
+  children:
+    - title: ""
+    url: ///
+    - title: 
+    url: ///
+    - title:
+    url:
+    - title:
+    url: 
+  - title: 🔐 Seguridad
+    children:
+    - title: "Seguridad Informática"
+    url: /categoria/#seguridad-informática
+    - title: 
+    url: ///
+    - title:
+    url:
+    - title:
+    url: 
+  - title="👨‍👩‍👧‍👦 Sociedad"    
+    children:
+    - title: "Conciencia Ciudadana"
+    url: /categoria/#conciencia-ciudadana
+    - title: 
+    url: ///
+    - title:
+    url:
+    - title:
+    url:
