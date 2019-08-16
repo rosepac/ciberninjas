@@ -1,12 +1,14 @@
 ---
 
-title: "Sobre la Política de Comentarios en Ciberninjas"
+date: 2018-12-01T12:42:42-05:00
 description: "Respecto y Pautas a seguir respecto al uso de los comentarios dentro de la página web: Ciberninjas, siendo un buen Internauta"
 excerpt: "Respecto y Pautas a seguir respecto al uso de los comentarios dentro de la página web: Ciberninjas, siendo un buen Internauta"
+last_modified_at: 2019-08-09T12:42:42-05:00
+permalink: /politica-comentarios/
+title: "Sobre la Política de Comentarios"
 
 ---
 
-# Sobre los Comentarios
 1. Respeto. Política de tolerancia cero con todo aquello que se pueda considerar como “discurso del odio”.
     - Se bloqueará al usuario y se eliminarán las publicaciones que contengan: Lenguaje vulgar, obsceno u ofensivo; ataques personales de cualquier forma – incluyendo imágenes/memes- ; comentarios inadecuados de índole religiosa, sexual, política o racial; acusaciones sin fundamento o calumnias.
 2. [Netiqueta](https://kutt.it/netiqueta_virtual "La Netiqueta es una serie de normas y reglas no escritas que se suelen mantener siempre que se escribe o utiliza un chat o foro a través de Internet"). Comportamiento general y respetuosa de normas y reglas que se debe mantener a través de Internet.  Desde el momento en el que comienzas a ser un usuario del cibermundo o ciberusuario de cualquier dispositivo digital.bien sea en los comentarios de una web, un foro o una red social; indiferentemente de si te conectas desde un ordenador, un smarthpone, una tablet o cualquier otro dispositivo.
@@ -17,6 +19,4 @@ excerpt: "Respecto y Pautas a seguir respecto al uso de los comentarios dentro d
 
 Atentamente, el CiberAprendiz;
 
-[@rosepac](https://kutt.it/tciberaprendiz "Perfil personal de la Red Social de Twitter de Pablo Álvarez Corredera")
-
-> Última Actualización: 2019/08/16
+[@rosepac](https://kutt.it/tciberaprendiz "Perfil Personal de Twitter del Autor: Pablo Álvarez Corredera")

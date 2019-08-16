@@ -47,9 +47,9 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+   - Gemfile
+   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
@@ -101,6 +101,11 @@ comments:
   disqus:
     shortname: "ciberninjas"
 
+collections:
+  glosario:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -120,6 +125,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _glosario
+  - scope:
+      path: ""
+      type: glosario
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      # sidebar:
+        # nav: "docs"
 
 category_archive:
   type: liquid
