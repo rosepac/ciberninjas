@@ -1,6 +1,6 @@
 ---
 
-title: Blockchain
+title: "Blockchain"
 layout: category
 permalink: /categoria/blockchain/
 taxonomy: blockchain
