@@ -104,7 +104,7 @@ comments:
 collections:
   glosario:
     output: true
-    permalink: /:collection/:glosario/
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -127,11 +127,11 @@ defaults:
       author_profile: true
   # _glosario
   - scope:
-      path: "_glosario"
+      path: ""
       type: glosario
     values:
       layout: single
-      read_time: false
+      # read_time: false
       author_profile: false
       share: false
       comments: false
