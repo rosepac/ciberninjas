@@ -101,11 +101,6 @@ comments:
   disqus:
     shortname: "ciberninjas"
 
-collections:
-  glosario:
-    output: true
-    permalink: /:collection/:path/
-
 defaults:
   # _posts
   - scope:
@@ -137,7 +132,11 @@ defaults:
       comments: false
       # sidebar:
         # nav: "docs"
-
+collections:
+  glosario:
+    output: true
+    permalink: /:collection/:path/
+    
 category_archive:
   type: liquid
   path: /categoria/
