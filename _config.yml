@@ -43,6 +43,7 @@ timezone: Europe/Madrid
 
 include:
   - _pages
+  - _glosario
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -128,11 +129,11 @@ defaults:
   # _glosario
   - scope:
       path: "_glosario"
-      type: collections
+      type: glosario
     values:
       layout: single
       # read_time: false
-      author_profile: false
+      author_profile: true
       share: false
       comments: false
       # sidebar:
