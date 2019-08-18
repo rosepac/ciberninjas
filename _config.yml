@@ -136,8 +136,8 @@ defaults:
       red_time: true
   # _staff-miembros
   - scope:
-      path: "../_staff-miembros"
-      type: collections
+      path: ""
+      type: staff-miembros
     values:
       layout: single
       author_profile: true
