@@ -122,8 +122,8 @@ defaults:
       author_profile: true
   # _glosario
   - scope:
-      path: ""
-      type: glosario
+      path: "_glosario"
+      type: collections
     values:
       layout: single
       # read_time: false
