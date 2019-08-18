@@ -18,9 +18,10 @@ main:
 # 
 vteca:
   - title: 👩‍🏫 Educación
-   children:
-     - title: ""
-     url: /categoria/vídeo-educación
+  url: /categoria/vídeo-educación
+#  children:
+#    - title: ""
+#    url: /categoria/vídeo-educación
 #     - title: 
 #     url: ///
 #     - title:
