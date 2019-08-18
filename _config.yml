@@ -28,7 +28,7 @@ algolia:
   application_id: XV7A2DHT2U # YOUR_APPLICATION_ID
   index_name: ciberninjas # YOUR_INDEX_NAME
   search_only_api_key: 5e5cf6a882e0e96a52942bbd15eb7fe2 # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: true # true (default), false
+  powered_by: false # true (default), false
   files_to_exclude:
     # - _posts/2017-11-28-post-exclude-search.md
 
@@ -43,19 +43,20 @@ timezone: Europe/Madrid
 
 include:
   - _pages
-  - _glosario
+#  - _glosario
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-   - Gemfile
-   - Gemfile.lock
+#   - Gemfile
+#   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# Excluido por peticion del buscador algoria
 exclude: [vendor]
 
 # Plugins (previously gems:)
@@ -127,15 +128,15 @@ defaults:
       layout: single
       author_profile: true
   # _glosario
-  - scope:
-      path: "_glosario"
-      type: glosario
-    values:
-      layout: single
+#  - scope:
+#      path: "_glosario"
+#      type: glosario
+#    values:
+#      layout: single
       # read_time: false
-      author_profile: true
-      share: false
-      comments: false
+#      author_profile: true
+#      share: false
+#      comments: false
       # sidebar:
         # nav: "docs"
     
@@ -145,38 +146,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /etiqueta/
-  
-# Jekyll Archive Configuracion: https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md, https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md  
-#   category_archive:
-#   type: jekyll-archives
-#   path: /categoria/
-# tag_archive:
-#   type: jekyll-archives
-#   path: /etiqueta/
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categoria/:name/
-#     tag: /etiqueta/:name/
-    
-# category_archive:
-#   type: jekyll-archives
-#   path: /categories/
-# tag_archive:
-#   type: jekyll-archives
-#   path: /tags/
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
