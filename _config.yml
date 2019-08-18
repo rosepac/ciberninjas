@@ -103,10 +103,10 @@ comments:
   disqus:
     shortname: "ciberninjas"
 
-collections:
-  glosario:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   glosario:
+#     output: true
+#     permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -127,13 +127,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+      red_time: true
   # _glosario
 #  - scope:
 #      path: "_glosario"
 #      type: glosario
 #    values:
 #      layout: single
-      # read_time: false
 #      author_profile: true
 #      share: false
 #      comments: false
