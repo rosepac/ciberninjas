@@ -16,7 +16,7 @@ main:
 # catalogo:
 #   - title: 🔐 Seguridad
 # 
-# videoteca:
+# vteca:
 #   - title: 👩‍🏫 Educación
 #   children:
 #     - title: ""
@@ -50,7 +50,7 @@ main:
 #    - title="Videojuegos"
 #      url: 
 #     
-# vt:
+# vtuto:
 #   - title: 👩‍🏫 Educación
 #   children:
 #     - title: ""

@@ -1,8 +1,8 @@
 ---
-autor_profile: false
-title: "🎮Trailer del nuevo videojuego basado en la película de John Wick."
-description: "🎮Trailer del nuevo videojuego basado en la película de John Wick."
-excerpt: "🎮Trailer del nuevo videojuego basado en la película de John Wick."
+author_profile: false
+title: "🎮Trailer del nuevo videojuego basado en la película de John Wick"
+description: "🎮Trailer del nuevo videojuego basado en la película de John Wick"
+excerpt: "🎮Trailer del nuevo videojuego basado en la película de John Wick"
 header:
   video:
     id: LAaTtGXlGrE
@@ -15,5 +15,5 @@ tags:
 categories:
 - Videojuegos
 sidebar:
-  nav: videoteca
+  nav: vteca
 ---

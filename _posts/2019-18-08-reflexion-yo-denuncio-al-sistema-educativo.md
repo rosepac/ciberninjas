@@ -1,5 +1,5 @@
 ---
-autor_profile: false
+author_profile: false
 title: "📹 Yo Denuncio al Sistema Educativo 🎓"
 description: "Yo denuncio al Sistema Educativo, mensaje protesta contra la actual situación de los sistemas educativos y sus metodologías"
 excerpt: "Yo denuncio al Sistema Educativo, mensaje protesta contra la actual situación de los sistemas educativos y sus metodologías"
@@ -16,7 +16,7 @@ tags:
 categories:
 - Vídeo Educación
 sidebar:
-  nav: videoteca
+  nav: vteca
 ---
 
 ## Redacción
