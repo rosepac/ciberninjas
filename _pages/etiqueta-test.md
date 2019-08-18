@@ -1,6 +1,6 @@
 ---
 title: Foundation
-layout: tag
+layout: tags
 permalink: /etiqueta/Foundation/
 taxonomy: Foundation
 ---
