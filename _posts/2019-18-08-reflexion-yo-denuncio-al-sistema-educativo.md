@@ -21,9 +21,7 @@ sidebar:
 
 ## Redacción
 
-Albert Einstein una vez dijo que todos somos genios
-Pero si juzgas a un pez por su habilidad para escalar un árbol
-vivirá toda su vida pensando que es estúpido.
+Albert Einstein una vez dijo que todos somos genios, pero si juzgas a un pez por su habilidad para escalar un árbol vivirá toda su vida pensando que es estúpido.
  
 Señoras y señores del jurado
 Hoy en juicio tenemos al sistema escolar moderno

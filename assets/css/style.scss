@@ -2,11 +2,11 @@
 ---
 @import "{{ site.theme }}";
 ::selection {
-    background: #00ACB4;
-    color: #FFFFFF;
+    background: #00ACB4 !important;
+    color: #FFFFFF !important;
 }
  
 ::-moz-selection {
-    background:#00ACB4;
-    color: #FFFFFF;
+    background:#00ACB4 !important;
+    color: #FFFFFF !important;
 }
