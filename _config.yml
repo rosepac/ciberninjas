@@ -110,7 +110,9 @@ comments:
 
 # Prueba de crear una coleccion de mierda xD
 collections:
-    - staff-miembros
+    staff-miembros:
+        output: true
+        permalink: /:collection/:path/
 
 defaults:
   # _posts
