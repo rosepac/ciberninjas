@@ -1,12 +1,17 @@
 main:
-  - title: "Blog"
-    url: /blog/
+  - title: "Archivo"
+    url: /archivo/
   - title: "Categorías"
     url: /categoria/
   - title: "Etiquetas"
     url: /etiqueta/
   - title: "Quién Soy"
     url: /quien-soy/
+  - title: "Aviso Legal"
+    url: /aviso-legal/
+    children:
+    - title: "test supmenú"
+    url: "/politica-comentarios/"
 
 catalogo:
   - title: 🔐 Seguridad

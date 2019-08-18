@@ -6,6 +6,10 @@ excerpt: "Aviso Legal y Políticas de Privacidad · Política de Comentarios · 
 last_modified_at: 2019-08-16T12:42:42-05:00
 permalink: "/aviso-legal/"
 title: "Política de Privacidad"
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
 
 ---
 
@@ -27,7 +31,7 @@ Esta página web no recoge dato personal alguno de sus usuarios.
 
 La web utilizada el servicio de comentarios Disqus, por tanto se usan las 'cookies' que el servicio requiere; si deseas informarte más concretamente sobre su funcionamiento puedes leer aquí las políticas de privacidad completas del servicio.
 
-En cuanto a las políticas de respecto y NEtiqueta respecto a los comentarios se muestra en: política de comentarios y en la parte superior de cada 'caja' de comentarios insertada sobre cada página.
+En cuanto a las políticas de respecto y NEtiqueta respecto a los comentarios se muestra en: [política de comentarios](https://ciberninjas.com/politica-comentarios "Política de Comentarios establecida dentro de Ciberninjas") y en la parte superior de cada 'caja' de comentarios insertada sobre cada página.
 
 ## Cookies
 
