@@ -13,7 +13,7 @@ tags:
 - Acción
 - Trailer
 categories:
-- Videojuegos
+- Vídeo Videojuegos
 sidebar:
   nav: vteca
 ---
