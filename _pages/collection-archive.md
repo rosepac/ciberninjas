@@ -3,7 +3,6 @@ layout: archive
 title: "Colecciones"
 permalink: /collection-archive/
 author_profile: true
----
 
 {% capture written_label %}'None'{% endcapture %}
 
@@ -19,3 +18,4 @@ author_profile: true
     {% endunless %}
   {% endfor %}
 {% endfor %}
+---
