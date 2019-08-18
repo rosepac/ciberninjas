@@ -108,6 +108,10 @@ comments:
 #     output: true
 #     permalink: /:collection/:path/
 
+# Prueba de crear una coleccion de mierda xD
+collections:
+    - staff-miembros
+
 defaults:
   # _posts
   - scope:
