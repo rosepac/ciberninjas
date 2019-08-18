@@ -134,6 +134,17 @@ defaults:
       layout: single
       author_profile: true
       red_time: true
+  # _staff-miembros
+  - scope:
+      path: "_staff-miembros"
+      type: collections
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _glosario
 #  - scope:
 #      path: "_glosario"
