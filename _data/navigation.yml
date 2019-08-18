@@ -11,15 +11,15 @@ main:
     url: /aviso-legal/
     children:
     - title: "test supmenú"
-    url: "/politica-comentarios/"
+    url: /politica-comentarios/
 
 # catalogo:
 #   - title: 🔐 Seguridad
 # 
 vteca:
   - title: 👩‍🏫 Educación
-  url: /categoria/vídeo-educación
-#  children:
+  url: /categoria/#vídeo-educación
+#  children
 #    - title: ""
 #    url: /categoria/vídeo-educación
 #     - title: 
