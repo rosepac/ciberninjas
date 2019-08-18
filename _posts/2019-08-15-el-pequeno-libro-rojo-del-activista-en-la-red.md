@@ -12,6 +12,7 @@ categories:
 - Derechos Civiles
 - Libertad y Seguridad Política
 - Red e Internet
+- Seguridad Informática
 permalink: /catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/
 description: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano"
 excerpt: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano"
@@ -21,8 +22,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Amazon**"
   actions:
-    - label: "+ LIBERTAD Y SEGURIDAD POLÍTICA"
-      url: "https://ciberninjas.com/categoria/#libertad-y-seguridad-pol%C3%ADtica"
+    - label: "+ SEGURIDAD INFORMÁTICA"
+      url: "https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica"
     - label: "COMPRAR 🛒"
       url: "https://amzn.to/2YQharj"
 toc: true
@@ -38,7 +39,7 @@ sidebar:
     text: "9,40 €"
   - title: "Precio Digital / Kindle"
     text: "2,37 €"
-    nav: sidebar-sample
+    nav: catalogo
     
 ---
 En tiempos de fascismo, todos somos disidentes. Y nuestras trincheras están en la Red. El pequeño Libro Rojo del activista en la Red que ha escrito la periodista Marta Peirano es un interesante libro que tras una adecuada información sobre el tema.
@@ -113,7 +114,7 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](https://ciberninjas.com/c
 
 
 ## 📚 Catálogo Completo
-<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+<a href="https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=libros&banner=16R3XS8RQ89N3YJR4B02&f=ifr&linkID=56cd664728c9a7de32cbacd0aafc13ca&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->

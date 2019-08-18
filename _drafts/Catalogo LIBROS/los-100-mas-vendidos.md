@@ -62,8 +62,8 @@ https://amzn.to/2N5dQRO
 9,45
 Novela, Erótica
 
-El Enemigo Conoce el Sistema
-https://amzn.to/2Z46eBx
-17,00 €
-Seguridad Informática
+# El Enemigo Conoce el Sistema
+# https://amzn.to/2Z46eBx
+# 17,00 €
+# Seguridad Informática
 

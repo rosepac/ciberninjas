@@ -39,7 +39,7 @@ sidebar:
     text: "17,00 €"
   - title: "Precio Digital / Kindle"
     text: "9,49 €"
-    nav: sidebar-sample
+    nav: catalogo
     
 ---
 Todo lo que no quieres pero necesitas saber sobre el poder, la economía, la sociedad y las telecomunicaciones en la era de la información.
@@ -160,7 +160,7 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](https://ciberninjas.com/c
 
 
 ## 📚 Catálogo Completo
-<a href="https://leanpub.com/web-hacking-101-es" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+<a href="https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=libros&banner=16R3XS8RQ89N3YJR4B02&f=ifr&linkID=56cd664728c9a7de32cbacd0aafc13ca&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 

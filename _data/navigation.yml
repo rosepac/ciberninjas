@@ -7,7 +7,10 @@ main:
     url: /etiqueta/
   - title: "Quién Soy"
     url: /quien-soy/
-    
+
+catalogo:
+  - title: 🔐 Seguridad
+
 documentales:
   - title: 👩‍🏫 Educación
   children:

@@ -37,7 +37,7 @@ sidebar:
     text: "18, 07 €"
   - title: "Precio Mínimo"
     text: "9,03 €"
-    nav: sidebar-sample
+    nav: catalogo
     
 ---
 Hasta Febrero 2017, Twitter ha pagado más de $640,000 USD a hackers éticos por reportar vulnerabilidades en su plataforma. Google, Facebook, Shopify, Dropbox, y muchos más, solicitan hackers éticos que busquen fallos de seguridad en sus sitios y pagarles por sus hallazgos. Este libro te enseñará cómo iniciarte en el hacking ético.
