@@ -43,6 +43,8 @@ Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un 
   * [Cómo crear Colecciones con Jekyll](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Jekyll con la plantilla Minimal Mistake") (..en Plantilla Minimal Mistake)
 * [Kramdown](https://kramdown.gettalong.org/converter/html.html "Kramdown, la librería de código de Ruby que implementa acciones desde el código a través de Markdown") (librería de Ruby, que permite implementar índices entre otras muchas cosas)
 * [Foro de Jekyll](https://talk.jekyllrb.com/ "El foro más grande que he encontrado sobre Jekyll")
+* [Buscador con Entradas sobre Jekyll](https://codeday.me/es/)
+* [WebJeda](https://blog.webjeda.com/optimize-jekyll-seo/) Muchos contenidos y entradas en relación a Jekyll.
 
 ## ✍ Cómo Publicar Con Jekyll
 
@@ -172,6 +174,7 @@ POR INVESTIGAR
 ### Lenguaje de Uso: Liquid
 
 * [¿Qué es Liquid?](https://shopify.github.io/liquid "Lenguaje generador de plantillas; seguro y orientado al cliente para aplicaciones web flexibles.")
+* [Versión de Liquid, usada por Github Pages](https://www.rubydoc.info/gems/liquid/2.2.2/Liquid/StandardFilters "Versión 2.2 la que utilizan desde Github Páginas en la actualidad")
 
 ### Plugins de Jekyll
 
