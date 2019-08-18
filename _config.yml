@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "es-ES"
-title: Ciberninjas ▷ Aprender Programación e Informática
+title: Escuela Ciberninjas
 email: rosepac21@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   La Biblia de la Programación y los Framework de las Nuevas Tecnologías. Biblioteca de libros, cursos, frameworks, librerías, aplicaciones, recursos y herramientas.

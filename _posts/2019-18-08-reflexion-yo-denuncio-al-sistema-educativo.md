@@ -179,4 +179,4 @@ Este es un mundo en el que yo creo
 Un mundo en el que los peces no son forzado a escalar arboles
 A las pruebas me remito, no hay mas preguntas.
 
-> Fuente [Lyrics Translate](https://lyricstranslate.com) "Transcripción realizada gracias a [lolaeocho](https://lyricstranslate.com/es/translator/lolaeocho)
+> Fuente [Lyrics Translate](https://lyricstranslate.com) Transcripción por [lolaeocho](https://lyricstranslate.com/es/translator/lolaeocho)
