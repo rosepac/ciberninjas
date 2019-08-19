@@ -15,5 +15,6 @@ tags:
 categories:
 - Vídeo Videojuegos
 sidebar:
+  title="Menú de Vídeos"
   nav: vteca
 ---
