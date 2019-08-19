@@ -1,6 +1,6 @@
 ---
-title: "palabra: Definición del Término"
-description: "palabra"
+title: "Cíborg: Definición del Término"
+description: "Cíborg"
 excerpt: "df"
 ---
 
