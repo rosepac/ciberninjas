@@ -1,8 +1,7 @@
 ---
 title: "🔠 palabra | Definición del Término"
-description: "palabra "
-excerpt: "palabra "
-comments: false
+description: "palabra"
+excerpt: "palabra"
 # tags:
 # # - Glosario SEO
 # # - Glosario Accesibilidad Web
