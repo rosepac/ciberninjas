@@ -112,10 +112,13 @@ comments:
 collections:
     staff-miembros:
         output: true
-        permalink: /:collection/:path/
+        permalink: /:collection/:path
     glosario:
         output: true
-        permalink: /:collection/:path/
+        permalink: /:collection/:path
+    wiki:
+        output: true
+        permalink: /:collection/:path
 
 defaults:
   # _posts
@@ -156,14 +159,24 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: false
+      comments: true
       share: true
-      related: true
-      sidebar:
-      nav: main
+      related: false
+      # sidebar:
+      # nav: main
       # sidebar:
         # nav: "docs"
-    
+  # _wiki
+  - scope:
+      path: ""
+      type: wiki
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: false
 category_archive:
   type: liquid
   path: /categoria/
