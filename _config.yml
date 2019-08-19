@@ -146,14 +146,15 @@ defaults:
       share: true
       related: true
   # _glosario
-#  - scope:
-#      path: "_glosario"
-#      type: glosario
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: false
-#      comments: false
+  - scope:
+      path: ""
+      type: glosario
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+      related: true
       # sidebar:
         # nav: "docs"
     
