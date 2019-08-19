@@ -21,7 +21,7 @@ header:
   actions:
     - label: "+ SEGURIDAD INFORMÁTICA"
       url: "https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica"
-    - label: "COMPRAR 🛒"
+    - label: "🛒 COMPRAR"
       url: "https://amzn.to/2N5EkCS"
 toc: true
 toc_label: "Contenidos"
@@ -41,7 +41,9 @@ Guía práctica de las técnicas de un hacker profesional que te hará descubrir
 
 ## 🙋‍♀️ Descripción Completa
 
-De forma totalmente práctica, este libro te guiará, desde los cimientos hasta las técnicas más modernas que usa un Hacker Profesional, para poder comprometer la seguridad de un sistema. De esta forma descubrirás cómo puedes tú también convertirte en Hacker profesional. Una de las profesiones más demandadas del mundo.
+De forma totalmente práctica, este libro te guiará, desde los cimientos hasta las técnicas más modernas que usa un Hacker Profesional, para poder comprometer la seguridad de un sistema.
+
+De esta forma descubrirás cómo puedes tú también convertirte en Hacker profesional. Una de las profesiones más demandadas del mundo.
 
 Este libro contiene las técnicas de seguridad ofensivas necesarias para que puedas llegar a auditar (por medio de pruebas de penetración) y defender una organización en temas de ciberseguridad, basándote en metodologías y estándares internacionales, tales como: PTES, OWASP, NIST, etc.
 
@@ -209,7 +211,7 @@ Pablo Gutiérrez Salazar, Hacker Ético Certificado por la International Council
 
 ## 💖 Comprar Libro
 
-<!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
+<!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">🛒 COMPRAR</a>-->
 <center><a href="https://amzn.to/2N5EkCS" class="btn btn--warning btn--large" title="Comprar El Libro Blanco del Hacker de Pablo Gutiérrez Salazar | Ciberninjas">📓 COMPRAR LIBRO</a></center>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=gift_certificates&banner=0YM2726C1ESR66Q7QG02&f=ifr&linkID=b74ea8b6b0434619f53785a367d3de3d&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>

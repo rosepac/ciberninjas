@@ -1,10 +1,10 @@
 ---
-title: Filtrado del Glosario
+title: Filtrado del staff-miembros
 layout: collection
-permalink: /glosario-input/
-
-{% for glosario in site.glosario %}
-  <h2>{{ glosario.name }} - {{ glosario.position }}</h2>
-  <p>{{ glosario.content | markdownify }}</p>
-{% endfor %}
+permalink: /staff-miembros-input/
 ---
+
+{% for staff-miembros in site.staff-miembros %}
+  <h2>{{ staff-miembros.name }} - {{ staff-miembros.position }}</h2>
+  <p>{{ staff-miembros.content | markdownify }}</p>
+{% endfor %}

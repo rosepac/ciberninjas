@@ -19,21 +19,21 @@ categories:
 - Vídeo Seguridad Informática
 - Vídeo Conciencia Ciudadana
 sidebar:
-- title: "Menú de Vídeos"
- vteca:
-     - title: "👩‍🏫 Educación"
-   children:
-     - title: "Vídeo Educación"
-     url: /aviso-legal/
+#- title: "Menú de Vídeos"
+# vteca:
+#     - title: "👩‍🏫 Educación"
+#   children:
+#     - title: "Vídeo Educación"
+#     url: /aviso-legal/
 #     - title: 
 #     url: ///
 #     - title:
 #     url:
 #     - title:
 #     url: 
-   - title: "🔐 Seguridad"
+#   - title: "🔐 Seguridad"
 #    children:
-     - title: "Seguridad Informática"
+#    - title: "Seguridad Informática"
 #    url: /aviso-legal/
 #     - title: 
 #     url: ///
@@ -41,18 +41,18 @@ sidebar:
 #     url:
 #     - title:
 #     url: 
-   - title="👨‍👩‍👧‍👦 Sociedad"    
-     children:
-     - title: "Conciencia Ciudadana"
-     url: /categoria/#vídeo-conciencia-ciudadana
+#   - title="👨‍👩‍👧‍👦 Sociedad"    
+#     children:
+#     - title: "Conciencia Ciudadana"
+#     url: /categoria/#vídeo-conciencia-ciudadana
 #     - title: 
 #     url: ///
 #     - title:
 #     url:
 #     - title:
 #     url:
-   - title="Videojuegos"
-      url: /categoria/#vídeo-videojuegos
+#   - title="Videojuegos"
+#      url: /categoria/#vídeo-videojuegos
 ---
 ## ✍ Redacción
 

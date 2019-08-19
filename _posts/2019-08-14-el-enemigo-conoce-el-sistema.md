@@ -24,7 +24,7 @@ header:
   actions:
     - label: "+ SEGURIDAD INFORMÁTICA"
       url: "https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica"
-    - label: "COMPRAR 🛒"
+    - label: "🛒 COMPRAR"
       url: "https://amzn.to/2Z46eBx"
 toc: true
 toc_label: "Contenidos"
@@ -148,7 +148,7 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](https://ciberninjas.com/c
 
 ## 💖 Comprar Libro
 
-<!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">COMPRAR 🛒</a>-->
+<!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">🛒 COMPRAR</a>-->
 <center><a href="https://amzn.to/2Z46eBx" class="btn btn--warning btn--large" title="Comprar El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención | Ciberninjas">📓 COMPRAR LIBRO</a></center>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=gift_certificates&banner=0YM2726C1ESR66Q7QG02&f=ifr&linkID=b74ea8b6b0434619f53785a367d3de3d&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
