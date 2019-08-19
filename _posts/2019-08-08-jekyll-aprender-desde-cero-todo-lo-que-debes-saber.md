@@ -30,7 +30,7 @@ Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un 
 
 **¡A la almendrilla!**
 
-## 🕵️‍♂️ Enlaces por Investigar (-_pendientes-_)
+## 🕵️‍♂️ Enlaces por Investigar
 
 * [Configurar plantilla, buscador.. Y otros Ajustes del Tema](https://mmistakes.github.io/minimal-mistakes/docs/configuration "Configuración de la Plantilla") (- por revisar la implementación de un mejor buscador ¿Algabia? y ajustar algunos otros distintos parámetros -)
 
