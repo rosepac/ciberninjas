@@ -1,5 +1,7 @@
 ---
 title: Filtrado del Glosario
+layout: collection
+permalink: /glosario-input/
 ---
 
 {% for glosario in site.glosario %}
