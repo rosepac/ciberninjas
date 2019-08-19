@@ -21,7 +21,7 @@ main:
    - title: "👩‍🏫 Educación"
   children:
     - title: "Vídeo Educación"
-    url: "/categoria/#vídeo-educación"
+    url: /categoria/#vídeo-educación
 #     - title: 
 #     url: ///
 #     - title:
@@ -31,7 +31,7 @@ main:
    - title: "🔐 Seguridad"
      children:
      - title: "Seguridad Informática"
-     url: "/categoria/#vídeo-seguridad-informática"
+     url: /categoria/#vídeo-seguridad-informática
 #     - title: 
 #     url: ///
 #     - title:
@@ -41,7 +41,7 @@ main:
    - title="👨‍👩‍👧‍👦 Sociedad"    
      children:
      - title: "Conciencia Ciudadana"
-     url: "/categoria/#vídeo-conciencia-ciudadana"
+     url: /categoria/#vídeo-conciencia-ciudadana
 #     - title: 
 #     url: ///
 #     - title:
