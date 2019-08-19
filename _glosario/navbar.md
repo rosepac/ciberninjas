@@ -8,4 +8,4 @@ Una **barra de navegación** (o sistema de navegación) es una sección de una i
 
 Las **barras de navegación** se implementan en navegadores de archivos , navegadores web y como elemento de diseño de algunos sitios web.
 
-<< [Regresar al Glosario](https://ciberninjas.com/glosario/)
+<< [Regresar al Glosario](https://ciberninjas.com/glosario/ "Regresar a la Página Principal del Glosario")

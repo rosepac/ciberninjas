@@ -8,4 +8,4 @@ Cada solicitud de petición de cualquier tipo de archivo  realizada sobre el se
 
 Anglicismo del inglés, golpear. Comúnmente usado en el mundo del tráfico web y SEO; en el interior de los análisis de control y reconocimiento de cifras de visitantes y uso de las páginas web.
 
-<< [Regresar al Glosario](https://ciberninjas.com/glosario/)
+<< [Regresar al Glosario](https://ciberninjas.com/glosario/ "Regresar a la Página Principal del Glosario")
