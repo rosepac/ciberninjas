@@ -1,7 +1,8 @@
 ---
+title: Filtrado del Glosario
 ---
 
-{% for staff_member in site.staff_members %}
-  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
-  <p>{{ staff_member.content | markdownify }}</p>
+{% for glosario in site.glosario %}
+  <h2>{{ glosario.name }} - {{ glosario.position }}</h2>
+  <p>{{ glosario.content | markdownify }}</p>
 {% endfor %}
