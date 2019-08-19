@@ -1,6 +1,7 @@
 ---
 title: "contador de etiquetas"
 ---
+
 {% assign alldocs = site.COLLECTIONNAME | <additional filtering and sorting> %} 
 {% assign grouptag =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 {%- for tag in grouptag -%}
