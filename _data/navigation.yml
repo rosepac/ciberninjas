@@ -17,21 +17,21 @@ main:
 #   - title: 🔐 Seguridad
 
 # Menú de Vídeos de Documentales, Reflexiones de Temas Sociales y Trailers de Videojuegos
-vteca:
-    - title: "👩‍🏫 Educación"
-  children:
-    - title: "Vídeo Educación"
-    url: /aviso-legal/
+# vteca:
+#     - title: "👩‍🏫 Educación"
+#   children:
+#     - title: "Vídeo Educación"
+#     url: /aviso-legal/
 #     - title: 
 #     url: ///
 #     - title:
 #     url:
 #     - title:
 #     url: 
-   - title: "🔐 Seguridad"
-     children:
-     - title: "Seguridad Informática"
-     url: /aviso-legal/
+#   - title: "🔐 Seguridad"
+#     children:
+#     - title: "Seguridad Informática"
+#     url: /aviso-legal/
 #     - title: 
 #     url: ///
 #     - title:
