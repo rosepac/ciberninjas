@@ -12,10 +12,12 @@ main:
   - title: "Política Comentarios"
     url: /politica-comentarios/
 
+# Menú del Catálogo de Productos en Venta
 # catalogo:
 #   - title: 🔐 Seguridad
 # 
-# vteca:
+# Menú de Vídeos de Documentales, Reflexiones de Temas Sociales y Trailers de Videojuegos
+ vteca:
    - title: "👩‍🏫 Educación"
   children:
     - title: "Vídeo Educación"
