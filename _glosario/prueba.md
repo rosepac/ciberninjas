@@ -7,8 +7,8 @@ excerpt: "palabra"
 # # - Glosario Accesibilidad Web
 # # - Glosario Programación
 # - Glosario Cibernética
-# categories:
-# - Glosario
+categories:
+- Glosario Cibernética
 sidebar:
 - title: Menú
 nav: main
