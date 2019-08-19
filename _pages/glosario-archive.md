@@ -1,6 +1,8 @@
 ---
 layout: collection
-title: "🔠 Glosario"
+title: "🔠 Glosario Tecnológico"
+description:
+excerpt: "🔠 Glosario Tecnológico de los Ciberninjas"
 collection: glosario
 permalink: /glosario/
 author_profile: true
