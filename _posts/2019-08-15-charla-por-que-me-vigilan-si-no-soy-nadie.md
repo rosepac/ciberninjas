@@ -19,6 +19,7 @@ categories:
 - Vídeo Seguridad Informática
 - Vídeo Conciencia Ciudadana
 sidebar:
+- title: "Menú de Vídeos"
   nav: vteca
 ---
 
