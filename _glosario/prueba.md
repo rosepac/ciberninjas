@@ -1,5 +1,5 @@
 ---
-title: "🔠 palabra: Definición del Término"
+title: "🔠 palabra: Definición - prueba- Término"
 description: "palabra"
 excerpt: "palabra"
 # tags:
