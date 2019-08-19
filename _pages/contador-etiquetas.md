@@ -1,8 +1,8 @@
 ---
-title: "contador de etiquetas"
+title: "Contador Etiquetas"
 ---
 
-{% assign alldocs = site.COLLECTIONNAME | <additional filtering and sorting> %} 
+{% assign alldocs = site.glosario | <additional filtering and sorting> %} 
 {% assign grouptag =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 {%- for tag in grouptag -%}
     <h1>{{- tag.name -}} - {{tag.size}}</h1>
