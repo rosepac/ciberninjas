@@ -1,5 +1,5 @@
 ---
-title: "🔠 palabra | Definición del Término"
+title: "🔠 palabra: Definición del Término"
 description: "palabra"
 excerpt: "palabra"
 # tags:
@@ -9,6 +9,9 @@ excerpt: "palabra"
 # - Glosario Cibernética
 # categories:
 # - Glosario
+sidebar:
+- title: Menú
+nav: main
 ---
 
 Definición de la palabra.
