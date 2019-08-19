@@ -152,6 +152,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
       share: true
       comments: false
       related: true
