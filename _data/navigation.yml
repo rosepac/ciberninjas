@@ -15,13 +15,13 @@ main:
 # Menú del Catálogo de Productos en Venta
 # catalogo:
 #   - title: 🔐 Seguridad
-# 
+
 # Menú de Vídeos de Documentales, Reflexiones de Temas Sociales y Trailers de Videojuegos
- vteca:
-   - title: "👩‍🏫 Educación"
+vteca:
+    - title: "👩‍🏫 Educación"
   children:
     - title: "Vídeo Educación"
-    url: /categoria/#vídeo-educación
+    url: /aviso-legal/
 #     - title: 
 #     url: ///
 #     - title:
@@ -31,17 +31,17 @@ main:
    - title: "🔐 Seguridad"
      children:
      - title: "Seguridad Informática"
-     url: /categoria/#vídeo-seguridad-informática
+     url: /aviso-legal/
 #     - title: 
 #     url: ///
 #     - title:
 #     url:
 #     - title:
 #     url: 
-   - title="👨‍👩‍👧‍👦 Sociedad"    
-     children:
-     - title: "Conciencia Ciudadana"
-     url: /categoria/#vídeo-conciencia-ciudadana
+#   - title="👨‍👩‍👧‍👦 Sociedad"    
+#     children:
+#     - title: "Conciencia Ciudadana"
+#     url: /categoria/#vídeo-conciencia-ciudadana
 #     - title: 
 #     url: ///
 #     - title:
