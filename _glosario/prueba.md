@@ -1,7 +1,8 @@
 ---
-title: "🔠 palabra | Definición del Término"
-description: "palabra"
-excerpt: "palabra"
+title: Prueba
+# title: "🔠 palabra | Definición del Término"
+# description: "palabra"
+# excerpt: "palabra"
 # tags:
 # # - Glosario SEO
 # # - Glosario Accesibilidad Web
@@ -9,7 +10,6 @@ excerpt: "palabra"
 # - Glosario Cibernética
 # categories:
 # - Glosario
-
 ---
 
 Definición de la palabra.
