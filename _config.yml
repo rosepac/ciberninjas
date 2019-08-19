@@ -113,6 +113,9 @@ collections:
     staff-miembros:
         output: true
         permalink: /:collection/:path/
+    glosario:
+        output: true
+        permalink: /:collection/:path/
 
 defaults:
   # _posts
