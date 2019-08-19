@@ -1,5 +1,5 @@
 ---
-title: "🔠 palabra: Definición del Término"
+title: "palabra: Definición del Término"
 description: "palabra"
 excerpt: "df"
 ---

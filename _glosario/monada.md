@@ -1,5 +1,5 @@
 ---
-title: "🔠 Mónada: Definición del Término"
+title: "Mónada: Definición del Término"
 description: "Mónada"
 excerpt: "Construcciones de programación funcional que capturan varias nociones diferentes de computación. * Término Avanzado."
 ---

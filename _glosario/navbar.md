@@ -1,5 +1,5 @@
 ---
-title: "🔠 Navbar: Definición del Término"
+title: "Navbar: Definición del Término"
 description: "Navbar"
 excerpt: "Barra de Navegación"
 ---

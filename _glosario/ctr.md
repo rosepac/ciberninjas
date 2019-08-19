@@ -1,5 +1,5 @@
 ---
-title: "🔠 CTR: Definición del Término"
+title: "CTR: Definición del Término"
 description: "CTR"
 excerpt: "Es el ratio o tasa de clics logrados."
 ---

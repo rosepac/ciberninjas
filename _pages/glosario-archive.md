@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Glosario"
+title: "🔠 Glosario"
 collection: glosario
 permalink: /glosario/
 author_profile: true
