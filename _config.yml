@@ -156,8 +156,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      share: true
       comments: false
+      share: true
       related: true
       # sidebar:
         # nav: "docs"

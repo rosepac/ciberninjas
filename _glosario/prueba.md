@@ -1,8 +1,7 @@
 ---
-title: Prueba
-# title: "🔠 palabra | Definición del Término"
-# description: "palabra"
-# excerpt: "palabra"
+title: "🔠 palabra | Definición del Término"
+description: "palabra"
+excerpt: "palabra"
 # tags:
 # # - Glosario SEO
 # # - Glosario Accesibilidad Web
@@ -13,10 +12,3 @@ title: Prueba
 ---
 
 Definición de la palabra.
-
-# ---
-# title: "🔠 palabra | Definición del Término"
-# 
-# ---
-# 
-# Definición de la palabra.
