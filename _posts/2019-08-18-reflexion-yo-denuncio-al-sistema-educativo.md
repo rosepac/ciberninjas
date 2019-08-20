@@ -16,7 +16,7 @@ tags:
 categories:
 - Vídeo Educación
 sidebar:
-- title: "Menú de Vídeos"
+- title: "Menú Videoteca"
   nav: vteca
 ---
 
