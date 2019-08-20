@@ -33,8 +33,6 @@ vteca:
     
 # Menú Principal Para las Páginas Principales
 general:
-  - title: Principales
-  children:
   - title: "Glosario"
     utl: /glosario/
   - title: "Categorías"
