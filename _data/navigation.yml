@@ -21,17 +21,19 @@ main:
 # Menú de Vídeos de Documentales, Reflexiones de Temas Sociales y Trailers de Videojuegos
 vteca:
   - title: "👩‍🏫 Educación"
-    children:
-    - title: "Vídeos Educación"
     url: https://ciberninjas.com/categoria/#v%C3%ADdeo-educaci%C3%B3n
+#    children:
+#    - title: "Vídeos Educación"
+#    url: https://ciberninjas.com/categoria/#v%C3%ADdeo-educaci%C3%B3n
 #     - title: 
 #     url: ///
 #     - title:
 #     url:
 #     - title:
 #     url: 
-#   - title: "🔐 Seguridad"
-#     children:
+  - title: "🔐 Seguridad informática"
+    url: https://ciberninjas.com/categoria/#v%C3%ADdeo-seguridad-inform%C3%A1tica
+# children:
 #     - title: "Seguridad Informática"
 #     url: /aviso-legal/
 #     - title: 
@@ -40,9 +42,7 @@ vteca:
 #     url:
 #     - title:
 #     url: 
-  - title: "👨‍👩‍👧‍👦 Sociedad"    
-    children:
-    - title: "Conciencia Ciudadana"
+  - title: "👥 Conciencia Ciudadana"    
     url: https://ciberninjas.com/categoria/#v%C3%ADdeo-conciencia-ciudadana
 #     - title: 
 #     url: ///
