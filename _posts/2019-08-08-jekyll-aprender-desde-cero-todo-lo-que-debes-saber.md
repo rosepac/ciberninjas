@@ -46,6 +46,7 @@ Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un 
 * [Foro de Jekyll](https://talk.jekyllrb.com/ "El foro más grande que he encontrado sobre Jekyll")
 * [Buscador con Entradas sobre Jekyll](https://codeday.me/es/)
 * [WebJeda](https://blog.webjeda.com/optimize-jekyll-seo/) Muchos contenidos y entradas en relación a Jekyll.
+* [Enlaces nofollo en Jekyll - SEO](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/)
 
 ## ✍ Cómo Publicar Con Jekyll
 
