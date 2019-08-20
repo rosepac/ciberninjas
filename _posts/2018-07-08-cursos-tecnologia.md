@@ -5,7 +5,7 @@ description: "🚀 Biblia de Cursos Online: Programación Web 👩‍💻 Seguri
 excerpt: "🚀 Biblia de Cursos Online: Programación Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 💰 Ofimática 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 date: 2018-02-13T22:00:00.000+00:00
 last_modified_at: 2018-08-07T12:42:42-05:00
-permalink: /cursos-tecnologia
+permalink: /cursos-tecnologia/
 categories:
 - Biblia
 tags:
@@ -23,9 +23,11 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-He aquí un listado completo de todos los diferentes cursos existentes alrededor de las distintas plataformas Online de Cursos Web en Internet y en el idioma de español. En la actualidad son más de 800 cursos, organizados por diferentes temáticas. Impartidos a través de las Universidades de **educación digital**; como por ejemplo: Miriadax, Udemy, EDX, o cursos de formación abierta dentro de los repositorios universitarios de las universidades más importantes del mundo de habla hispana.
+He aquí un listado completo de todos los diferentes cursos existentes alrededor de las distintas plataformas Online de Cursos Web en Internet y en el idioma de español.
 
-## Android 📲
+En la actualidad son más de 800 cursos, organizados por diferentes temáticas. Impartidos a través de las Universidades de **educación digital: como Miriadax, Udemy, EDX**, o **cursos de formación abierta/MOOC** dentro de los repositorios universitarios de las universidades más importantes del mundo de habla hispana.
+
+## <i class="fab fa-android"></i> Android
 
 - [Android: Fundamentos para crear tus primeras apps de calidad](https://www.udemy.com/fundamentos-de-android-para-crear-apps-de-calidad) (Udemy)
 - [Android Studio: Instalación, emuladores, git, plugins y tips](https://www.udemy.com/android-studio-instalacion-emuladores-git-plugins-y-tips) (Udemy)
@@ -67,7 +69,7 @@ He aquí un listado completo de todos los diferentes cursos existentes alrededor
 
 [REGRESAR AL MENÚ](#mi-ancla)
 
-## Bases de Datos 📚 📃 📚
+## <i class="fab fa-database"></i> Bases de Datos 📚 📃 📚
 
 - [Acceso a base de datos (2017)](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/acceso-a-bases-de-datos-en-java) (OCW)
 - [Administración de base de datos](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/administracion-de-bases-de-datos) (OCW)
