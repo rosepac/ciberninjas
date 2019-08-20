@@ -19,7 +19,7 @@ main:
 #   - title: 🔐 Seguridad
 
 # Menú de Vídeos de Documentales, Reflexiones de Temas Sociales y Trailers de Videojuegos
-sidebar-sample:
+vteca:
   - title: "👩‍🏫 Educación"
     children:
     - title: "Vídeos Educación"
