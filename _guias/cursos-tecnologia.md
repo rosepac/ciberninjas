@@ -56,8 +56,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130) (OCW)
 - [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) (Jesús Conde, Youtube)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
 ## Arduino 🔦 ⏰ 🚦
 
 - [Arduino desde Cero - Primer Módulo](https://www.udemy.com/innova-arduino-desde-cero) (Udemy)
@@ -67,9 +65,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Introducción a Arduino con Elegoo UNO Super Starter Kit](https://www.udemy.com/introduccion-a-arduino-con-elegoo-uno-super-starter-kit) (Udemy)
 - [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed) (MiriadaX)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
-## <i class="fab fa-database"></i> Bases de Datos 📚 📃 📚
+## <i class="fas fa-database"></i> Bases de Datos
 
 - [Acceso a base de datos (2017)](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/acceso-a-bases-de-datos-en-java) (OCW)
 - [Administración de base de datos](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/administracion-de-bases-de-datos) (OCW)
@@ -98,9 +94,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion) (OCW)
 - [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134) (OCW)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
-## Big Data 🕵️‍♀️
+## <i class="fas fa-database"></i> Big Data
 
 - [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos) (OCW)
 - [Análisis de datos con Power BI](https://mva.microsoft.com/es-es/training-courses/anlisis-de-datos-con-power-bi-17093) (Microsoft Virtual Academy)
@@ -115,9 +109,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Power BI en ambientes empresariales](https://mva.microsoft.com/es-es/training-courses/power-bi-en-ambientes-empresariales-17802) (Microsoft Virtual Academy)
 - [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau) (Alberto Prieto Espinosa, YouTube)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
-## Ciencias de la Computación 👩‍🔬👨‍🔬
+## <i class="fas fa-microscope"></i> Ciencias de la Computación
 
 - [Algoritmo Avanzado (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/algoritmia-avanzada-2006.html) (OCW)
 - [Algoritmos y estructuras de datos](https://www.youtube.com/playlist?list=PLeWI3XlFEVOXMwSCkvJinRVEnLksnBOPr) (CodeJobs, YouTube)
@@ -214,9 +206,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [UML. Fundamentos, diagramas. Caso de estudio](https://www.udemy.com/uml-fundamentos-5-diagramas-caso-de-estudio) (Udemy)
 - [Variable compleja para métodos matemáticos. Parte 1](https://www.udemy.com/variable-compleja-para-metodos-matematicos-parte-1) (Udemy)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
-## Comercio Online 👜🕴
+## <i class="fas fa-store"></i> Comercio Online
 
 - [¿Cómo vender cualquier producto en Internet?](https://www.udemy.com/como-vender-cualquier-producto-en-internet) (Udemy)
 - [Aprende a crear tu propia tienda Online](https://www.udemy.com/aprende-a-crear-tu-tienda-online) (Udemy)
@@ -235,9 +225,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://www.udemy.com/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa) (Udemy)
 - [Tienda Online con WooCommerce desde cero](https://www.udemy.com/tienda-online-con-woocommerce-desde-cero) (Udemy)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
-## Criptomonedas 💸 💰 🤑
+## <i class="fab fa-bitcoin"></i> Criptomonedas
 
 - [Bitcoin: Qué es y como comprarlo](https://www.udemy.com/bitcoin-) (Udemy)
 - [Bitcoin Construye un imperio minando en la nube](https://www.udemy.com/bitcoin-construye-un-imperio-minando-en-la-nube) (Udemy)
@@ -246,9 +234,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://www.udemy.com/curso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx) (Udemy)
 - [Trading Forex para principiantes - Estrategias Clave](https://www.udemy.com/estrategias-trading-forex-y-operaciones-bursatiles) (Udemy)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
-## Flujos de Trabajo 👩‍🏭👨‍🏭
+## <i class="fas fa-screwdriver"></i> Flujos de Trabajo
 
 - [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil) (Udemy)
 - [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-) (MiriadaX)
@@ -337,8 +323,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Software Libre y Conocimiento en Abierto](https://miriadax.net/web/soft_libre_y_conocimiento/inicio) (MiriadaX)
 - [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-) (MiriadaX)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
 ## Procesadores de lenguaje 🛠
 
 - [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949) (OCW)
@@ -348,8 +332,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Procesadores de lenguajes -enfocado en Perl- ](https://campusvirtual.ull.es/ocw/course/view.php?id=45) (OCW)
 - [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56) (OCW)
 - [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes) (OCW)
-
-[REGRESAR AL MENÚ](#mi-ancla)
 
 ## Programación 👩‍💻 📄 ⌨ 📄 👨‍💻
 
@@ -445,8 +427,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Software aplicado a la ingieniería (2009)](https://ocw.ehu.eus/pluginfile.php/9339/mod_resource/content/1/software_mate/guia-docente/index.html) (OCW)
 - [Tecnologías de la Programación (2009)](http://ocw.um.es/ingenierias/tecnologia-de-la-programacion) (OCW)
 - [Test Driven Development con Java y Junit5](https://www.udemy.com/testdrivendevelopment) (Udemy)
-
-[REGRESAR AL MENÚ](#mi-ancla)
 
 ## Programación Web & Móvil 👩‍💻 📳 👨‍💻
 
@@ -657,8 +637,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Yo puedo programar mi propia web](https://mva.microsoft.com/es-es/training-courses/yopuedoprogramar-mi-pgina-web-18162) (Microsoft Virtual Academy)
 - [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC) (César Cancino, YouTube)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
 ## Redes 🕸 🕷 🕸
 
 - [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=32) (OCW)
@@ -705,8 +683,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Windows Server 2012: Licenciamiento de la nube privada](https://mva.microsoft.com/es-es/training-courses/windows-server-2012-licenciamiento-de-la-nube-privada-11643) (Microsoft Virtual Academy)
 - [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://www.udemy.com/windows-server-y-linux-para-principiantes) (Udemy)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
 ## Redes de telefonía 🕸 📞
 
 - [Antenas y telescopios: control de seguimiento (2012)](https://ocw.ehu.eus/course/view.php?id=45) (OCW)
@@ -725,8 +701,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Sistemas y redes eléctricos avanzado](https://www.youtube.com/playlist?list=PLF68AFC9D513894FE) (Escuela Superior Politécnica del Litoral, YouTube)
 - [Técnico en instalaciones eléctricas](https://www.youtube.com/playlist?list=PLB020119D3152A1FC) (Óscar Delgado, YouTube)
 - [Transmisión de datos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=4533&p_caca=2010) (OCW)
-
-[REGRESAR AL MENÚ](#mi-ancla)
 
 ## Robótica 🤖
 
@@ -765,8 +739,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Termómetro digital con Raspberry Pi(2017)](https://www.udemy.com/termometro-digital-con-raspberry-pi) (Udemy)
 - [Tu primer Robot con Arduino](https://mva.microsoft.com/es-es/training-courses/tu-primer-robot-con-arduino-8618) (Microsoft Virtual Academy)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
 ## Seguridad 🔑 🚔 🔐
 
 - [Aprende seguridad Cisco desde 0](https://www.udemy.com/aprende-seguridad-cisco-desde-0) (Udemy)
@@ -791,8 +763,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Seguridad informática y competencias profesionales](https://ocw.uca.es/course/view.php?id=55) (OCW)
 - [Seguridad, privacidad y protección de datos I (2012)](http://ocw.uv.es/ciencias-sociales-y-juridicas/seguridad-privacidad-y-proteccion-de-datos-i/Course_listing) (OCW)
 - [Wireless penetration con Kali Linux](https://www.youtube.com/playlist?list=PL-G03HRCQgdFKAaW718J14tKDM63mGirL) (Hacking y Más, YouTube)
-
-[REGRESAR AL MENÚ](#mi-ancla)
 
 ## Servidores y Servicios en nube 🏩 ⚙ 🌤
 
@@ -882,8 +852,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Windows Server 2012 - Gestión y Automatización](https://mva.microsoft.com/es-es/training-courses/windows-server-2012-gestin-y-automatizacin-9120) (Microsoft Virtual Academy)
 - [Windows Server 2016](https://www.youtube.com/playlist?list=PLn5IkU1Zhgibnm35AkK0OADKx9KacjbxW) (JGAITPro, YouTube)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
 ## Sistemas de Gestión de Contenidos y ERP 📖 ✍
 
 - [Ajax en Wordpress para desarrolladores web. Avanzado](https://www.udemy.com/ajax-para-wordpress) (Udemy)
@@ -922,8 +890,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido) (Udemy)
 - [Wordpress. Curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress) (Udemy)
 - [Wordpress. Introducción práctica a Gutenberg el nuevo editor](https://www.udemy.com/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor) (Udemy)
-
-[REGRESAR AL MENÚ](#mi-ancla)
 
 ## Técnico de Software & Hardware 🖥 🖨 🖱
 
@@ -976,8 +942,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Windows 10 para educación](https://mva.microsoft.com/es-es/training-courses/windows-10-para-educacin-15705) (Microsoft Virtual Academy)
 - [Windows 8.1 To Go](https://mva.microsoft.com/es-es/training-courses/windows-81-to-go-8272) (Microsoft Virtual Academy)
 
-[REGRESAR AL MENÚ](#mi-ancla)
-
 ## Videojuegos 🕹 🎮
 
 - [Aprende a crear plugins Bukkit y Spigot usando Skript](https://www.udemy.com/aprende-a-crear-plugins-bukkit-y-spigot-usando-skript) (Udemy)
@@ -1010,8 +974,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Tu primer videojuego 2D multiplataforma con Unity 5](https://www.udemy.com/unity-5-primer-videojuego-2d-multiplataforma) (Udemy)
 - [Unity 5: Creando un juego para PC](https://www.udemy.com/curso-unity-5-creando-un-juego-para-pc) (Udemy)
 - [Unreal Engine para principiantes](https://www.udemy.com/unreal-engine-principiantes) (Udemy)
-
-[REGRESAR AL MENÚ](#mi-ancla)
 
 ## Web & Webmaster 🌐🕸
 
@@ -1072,5 +1034,3 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Zoho CRM Admin: aprende a gestionar tus ventas exitosamente](https://www.udemy.com/zoho-crm-admin-aprende-a-gestionar-tus-ventas-exitosamente) (Udemy)
 - [Zoho CRM App: gestiona tus clientes desde tu móvil](https://www.udemy.com/zoho-crm-mobile-app-gestiona-tus-clientes-desde-tu-movil) (Udemy)
 - [Zoho CRM Usuario: gestiona tus procesos en ventas con éxito](https://www.udemy.com/zoho-crm-usuario-gestiona-tus-procesos-de-ventas-con-exito) (Udemy)
-
-[REGRESAR AL MENÚ](#mi-ancla)

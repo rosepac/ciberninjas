@@ -9,7 +9,7 @@ tags:
 - Gestor
 date: 2019-08-07T22:00:00.000+00:00
 last_modified_at: 2019-08-20T16:20:02-05:00
-permalink: jekyll
+permalink: /jekyll
 excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde
   cero todo lo que debes saber"
 description: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende
