@@ -1,6 +1,6 @@
 main:
-  - title: "Biblias"
-    url: https://ciberninjas.com/categoria/#biblia
+#  - title: "Biblias"
+#    url: https://ciberninjas.com/categoria/#biblia
   - title: "Glosario"
     url: /glosario/
   - title: "Categorías"
@@ -32,32 +32,32 @@ vteca:
     url: https://ciberninjas.com/categoria/#v%C3%ADdeo-videojuegos
     
 # Menú Principal Para las Páginas Principales
-general:
-  - title: "Glosario"
-    utl: /glosario/
-  - title: "Categorías"
-    url: /categoria/
-  - title: "Etiquetas"
-    url: /etiqueta/
-  - title: "Archivo"
-    url: /archivo/
-  - title: "Quién Soy"
-    url: /quien-soy/
-  - title: "Aviso Legal"
-    url: /aviso-legal/
-  - title: "Política Comentarios"
-    url: /politica-comentarios/
-  - title: Vídeoteca
-    url: #
-  children:
-  - title: "👨‍👧 Conciencia Ciudadana"    
-    url: https://ciberninjas.com/categoria/#v%C3%ADdeo-conciencia-ciudadana
-  - title: "👩‍🏫 Educación"
-    url: https://ciberninjas.com/categoria/#v%C3%ADdeo-educaci%C3%B3n
-  - title: "🔐 Seguridad informática"
-    url: https://ciberninjas.com/categoria/#v%C3%ADdeo-seguridad-inform%C3%A1tica
-  - title: "🎮 Videojuegos Trailers"
-    url: https://ciberninjas.com/categoria/#v%C3%ADdeo-videojuegos
+# general:
+#   - title: "Glosario"
+#     utl: /glosario/
+#   - title: "Categorías"
+#     url: /categoria/
+#   - title: "Etiquetas"
+#     url: /etiqueta/
+#   - title: "Archivo"
+#     url: /archivo/
+#   - title: "Quién Soy"
+#     url: /quien-soy/
+#   - title: "Aviso Legal"
+#     url: /aviso-legal/
+#   - title: "Política Comentarios"
+#     url: /politica-comentarios/
+#   - title: Vídeoteca
+#     url: #
+#   children:
+#   - title: "👨‍👧 Conciencia Ciudadana"    
+#     url: https://ciberninjas.com/categoria/#v%C3%ADdeo-conciencia-ciudadana
+#   - title: "👩‍🏫 Educación"
+#     url: https://ciberninjas.com/categoria/#v%C3%ADdeo-educaci%C3%B3n
+#   - title: "🔐 Seguridad informática"
+#     url: https://ciberninjas.com/categoria/#v%C3%ADdeo-seguridad-inform%C3%A1tica
+#   - title: "🎮 Videojuegos Trailers"
+#     url: https://ciberninjas.com/categoria/#v%C3%ADdeo-videojuegos
 
 # vtuto:
 #   - title: 👩‍🏫 Educación
