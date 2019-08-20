@@ -20,10 +20,10 @@ main:
 
 # Menú de Vídeos de Documentales, Reflexiones de Temas Sociales y Trailers de Videojuegos
 vteca:
-  - title: "👩‍🏫 Educación"
-  children:
-    - title: "Vídeos Educación"
-    url: https://ciberninjas.com/categoria/#v%C3%ADdeo-educaci%C3%B3n
+- title: "👩‍🏫 Educación"
+educacion:
+- page: "Vídeos Educación"
+url: https://ciberninjas.com/categoria/#v%C3%ADdeo-educaci%C3%B3n
 #     - title: 
 #     url: ///
 #     - title:
@@ -40,10 +40,10 @@ vteca:
 #     url:
 #     - title:
 #     url: 
-  - title: "👨‍👩‍👧‍👦 Sociedad"    
-  children:
-     - title: "Conciencia Ciudadana"
-    url: https://ciberninjas.com/categoria/#v%C3%ADdeo-conciencia-ciudadana
+- title: "👨‍👩‍👧‍👦 Sociedad"    
+educacion:
+- page: "Conciencia Ciudadana"
+url: https://ciberninjas.com/categoria/#v%C3%ADdeo-conciencia-ciudadana
 #     - title: 
 #     url: ///
 #     - title:
