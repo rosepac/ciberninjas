@@ -20,10 +20,10 @@ sidebar:
   nav: vteca
 ---
 
-<!-- ## Redacción -->
-
 > Este es el mensaje que realmente necesitaba escuchar en la escuela secundaria y la universidad; ya eres suficiente.
 
 ¡Esta es la segunda parte! Si TIENES dificultades con la confianza: -vídeo en inglés- [10 trucos / hacks](https://10confidencehacks.com/video-training "10 trucos con los que fortalecer tu confianza personal") con los que fortalecer tu confianza personal y reparar tu particular visión sobre la vida.
+
+<!-- ## Redacción -->
 
 <!-- Fuente [Lyrics Translate](https://lyricstranslate.com) Transcripción por [lolaeocho](https://lyricstranslate.com/es/translator/lolaeocho) -->
