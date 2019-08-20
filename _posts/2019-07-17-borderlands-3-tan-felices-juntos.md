@@ -1,8 +1,8 @@
 ---
 author_profile: false
-title: "🎮 Borderlands 3: "Tan Felices Juntos", Nueva Entrega de Uno de los Mejores FPS"
-description: "🎮 Borderlands 3: "Tan Felices Juntos", Nueva Entrega de Uno de los Mejores FPS"
-excerpt: "🎮 Borderlands 3: "Tan Felices Juntos", Nueva Entrega de Uno de los Mejores FPS"
+title: "🎮 Borderlands 3: Tan Felices Juntos. Nueva Entrega de Uno de los Mejores FPS"
+description: "🎮 Borderlands 3: Tan Felices Juntos. Nueva Entrega de Uno de los Mejores FPS"
+excerpt: "🎮 Borderlands 3: Tan Felices Juntos. Nueva Entrega de Uno de los Mejores FPS"
 header:
   video:
     id: hdImDagjNGQ
