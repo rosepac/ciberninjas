@@ -17,7 +17,7 @@ locale: "es-ES"
 title: Escuela ▷ Ciberninjas
 email: rosepac21@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  La Biblia de la Programación y los Framework de las Nuevas Tecnologías. Biblioteca de libros, cursos, frameworks, librerías, aplicaciones, recursos y herramientas.
+  La Biblia de las Guías de la Programación y los Framework de las Nuevas Tecnologías. Biblioteca de libros, cursos, frameworks, librerías, aplicaciones, recursos y herramientas.
 twitter_username: ciberaprendiz
 github_username: rosepac
 minimal_mistakes_skin: default # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise, 
@@ -103,16 +103,14 @@ comments:
   disqus:
     shortname: "ciberninjas"
 
-# collections:
-#   glosario:
-#     output: true
-#     permalink: /:collection/:path/
-
-# Prueba de crear una coleccion de mierda xD
+# Colecciones / Secciones Creadas
 collections:
-    staff-miembros:
+    guias:
         output: true
         permalink: /:collection/:path
+#    staff-miembros:
+#        output: true
+#        permalink: /:collection/:path
     glosario:
         output: true
         permalink: /:collection/:path
@@ -151,6 +149,17 @@ defaults:
       comments: true
       share: true
       related: true
+  # _guias
+  - scope:
+      path: ""
+      type: guias
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: false
   # _glosario
   - scope:
       path: ""
