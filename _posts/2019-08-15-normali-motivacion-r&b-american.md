@@ -1,8 +1,8 @@
 ---
 author_profile: false
-title: "🎧 Normani - Motivación | R & B Americano"
-description: "🎧 Normani - Motivación | R & B Americano"
-excerpt: "🎧 Normani - Motivación | R & B Americano"
+title: "🎧 Normani - Motivación: R & B Americano"
+description: "🎧 Normani - Motivación: R & B Americano"
+excerpt: "🎧 Normani - Motivación: R & B Americano"
 header:
   video:
     id: FKXSh14svlQ
