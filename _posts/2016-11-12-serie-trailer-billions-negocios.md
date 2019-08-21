@@ -16,6 +16,6 @@ tags:
 categories:
 - Vídeo Series
 sidebar:
-- title: "Menú de Vídeos"
+- title: "Videoteca"
   nav: vteca
 ---

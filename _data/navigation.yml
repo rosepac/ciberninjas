@@ -20,7 +20,7 @@ main:
 # catalogo:
 #   - title: 🔐 Seguridad
 
-# Menú de Vídeos de Documentales, Reflexiones de Temas Sociales y Trailers de Videojuegos
+# Videoteca de Documentales, Reflexiones de Temas Sociales y Trailers de Videojuegos
 vteca:
   - title: "👨‍👧 Conciencia Ciudadana"    
     url: /categoria/#v%C3%ADdeo-conciencia-ciudadana
@@ -29,11 +29,16 @@ vteca:
   - title: "🔐 Seguridad informática"
     url: /categoria/#v%C3%ADdeo-seguridad-inform%C3%A1tica
   - title: "🎬 Películas Trailers"
-    url: /categoria/#
+    url: /categoria/#v%C3%ADdeo-pel%C3%ADculas
   - title: "🎥 Series Trailers"
     url: /categoria/#v%C3%ADdeo-series
   - title: "🎮 Videojuegos Trailers"
     url: /categoria/#v%C3%ADdeo-videojuegos
+
+# Radio es el Menú de toda mi música dividida en Apartados :D
+radio:
+  - title: "R & B Americano"
+    url: /categoria/#R-&-B-Americano
     
 # Menú Principal Para las Páginas Principales
 # general:
