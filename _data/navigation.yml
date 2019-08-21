@@ -38,7 +38,9 @@ vteca:
 # Radio es el Menú de toda mi música dividida en Apartados :D
 radio:
   - title: "R & B Americano"
-    url: /categoria/#R-&-B-Americano
+    url: /etiqueta/#RAmericano
+  - title: "Playlist Programar"
+    url: /etiqueta/#playlist-programar
     
 # Menú Principal Para las Páginas Principales
 # general:

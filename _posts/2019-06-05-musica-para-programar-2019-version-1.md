@@ -1,8 +1,8 @@
 ---
 author_profile: false
-title: "🎧 Música para programar 2019. Versión 1"
-description: "🎧 Las mejores canciones 🎶 con las que enfocarte únicamente en programar 👨‍💻 Desde la música más actual a canciones de los🕹 más clásicos"
-excerpt: "🎧 Las mejores canciones 🎶 con las que enfocarte únicamente en programar 👨‍💻 Desde la música más actual a canciones de los🕹 más clásicos"
+title: "🎧 Música para programar 2019: Versión 1"
+description: "🎧 Las mejores canciones 🎶 con las que centrarte en programar 👨‍💻 Desde la música más actual a canciones de los🕹 más clásicos"
+excerpt: "🎧 Las mejores canciones 🎶 con las que centrarte en programar 👨‍💻 Desde la música más actual a canciones de los🕹 más clásicos"
 header:
   image: "/assets/images/musica/music_radio.jpg"
   image_description: La mejor música para programar en 2019: Gramola Ciberninjas
@@ -12,7 +12,7 @@ header:
 #     id: FKXSh14svlQ
 #     provider: youtube
 comments: true
-date: 2019-08-15 23:11:12
+date: 2019-06-05 23:11:12
 tags:
 - Playlist Programar
 categories:
