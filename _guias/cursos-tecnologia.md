@@ -23,6 +23,8 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
+Cursos sobre.. android, arduino, bases de datos, ciencias de la computación, comercio online, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster
+
 He aquí un listado completo de todos los diferentes cursos existentes alrededor de las distintas plataformas Online de Cursos Web en Internet y en el idioma de español.
 
 En la actualidad son más de 800 cursos, organizados por diferentes temáticas. Impartidos a través de las Universidades de **educación digital: como Miriadax, Udemy, EDX**, o **cursos de formación abierta/MOOC** dentro de los repositorios universitarios de las universidades más importantes del mundo de habla hispana.

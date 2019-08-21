@@ -19,6 +19,11 @@ categories:
 #   nav: radio
 ---
 
-https://www.youtube.com/playlist?list=PL8M1frRRqO_o-LwsdDejTLuq3t-jZ0hKU
+Las mejores canciones 🎶 para programar del planeta. La playlist ha sido extraido de [Spotify](https://spoti.fi/2JJk1dk) compartido por zeroidentidad, en el Chat [Ciberninjas Discord](/discord/) e importada por [Pablo Álvarez Corredera](/quien-soy/) bajo el nickname de: **ROSEPAC**.
+
+La lista está conformada por 377 canciones donde podrás encontrar desde el mejor Rock de la actualidad hasta las canciones más épicas de siempre; toda una banda sonora en una misma lista musical preparada para gozarlo, como nunca antes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8M1frRRqO_o-LwsdDejTLuq3t-jZ0hKU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**Playlist Completa**: [Youtube](https://www.youtube.com/playlist?list=PL8M1frRRqO_o-LwsdDejTLuq3t-jZ0hKU)
+{: .notice--info}
