@@ -8,4 +8,4 @@ La accesibilidad web es la práctica inclusiva de garantizar que no existan barr
 
 Cuando los sitios se diseñan, desarrollan y editan correctamente, generalmente todos los usuarios tienen igual acceso a la información y funcionalidad.
 
-<< [Regresar al Glosario](https://ciberninjas.com/glosario/ "Regresar a la Página Principal del Glosario")
+<< [Regresar al Glosario](/glosario/ "Regresar a la Página Principal del Glosario")

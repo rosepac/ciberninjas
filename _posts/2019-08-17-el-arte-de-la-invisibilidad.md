@@ -20,7 +20,7 @@ header:
   caption: "Créditos: **Amazon**"
   actions:
     - label: "+ SEGURIDAD INFORMÁTICA"
-      url: "https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica"
+      url: "/categoria/#seguridad-inform%C3%A1tica"
     - label: "🛒 COMPRAR"
       url: "https://amzn.to/2KOZuCA"
 toc: true
@@ -92,7 +92,7 @@ Como un orador público único y famoso, las apariciones de Kevin a menudo inclu
 ## 💖 Comprar Libro
 
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">🛒 COMPRAR</a>-->
-<center><a href="https://amzn.to/2KOZuCA" class="btn btn--warning btn--large" title="Comprar El Pequeño Libro Rojo del Activista en la Red de Marta Peirano | Ciberninjas">📓 COMPRAR LIBRO</a></center>
+<center><a href="https://amzn.to/2KOZuCA" class="btn btn--warning btn--large" title="Comprar El Arte de la Invisibilidad | Ciberninjas">📓 COMPRAR LIBRO</a></center>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=gift_certificates&banner=0YM2726C1ESR66Q7QG02&f=ifr&linkID=b74ea8b6b0434619f53785a367d3de3d&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
@@ -101,7 +101,7 @@ Como un orador público único y famoso, las apariciones de Kevin a menudo inclu
 
 
 ## 📚 Catálogo Completo
-<a href="https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+<a href="/categoria/#seguridad-inform%C3%A1tica" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=libros&banner=16R3XS8RQ89N3YJR4B02&f=ifr&linkID=56cd664728c9a7de32cbacd0aafc13ca&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->

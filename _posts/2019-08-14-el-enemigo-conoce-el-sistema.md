@@ -23,7 +23,7 @@ header:
   caption: "Créditos: **Amazon**"
   actions:
     - label: "+ SEGURIDAD INFORMÁTICA"
-      url: "https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica"
+      url: "/categoria/#seguridad-inform%C3%A1tica"
     - label: "🛒 COMPRAR"
       url: "https://amzn.to/2Z46eBx"
 toc: true
@@ -70,9 +70,9 @@ Solo así podremos convertirla en lo que más falta nos hace: una herramienta pa
 
 Marta Peirano es periodista. Fundó las secciones de Cultura de ADN y eldiario.es, donde ha sido jefa de Cultura y Tecnología y adjunta al director, además de haber sido codirectora de Copyfight y cofundadora de Hack Hackers Berlin y de Cryptoparty Berlin.
 
-Ha escrito libros sobre autómatas, sistemas de notación y un ensayo sobre vigilancia y criptografía llamado: [El Pequeño Libro Rojo del Activista en la Red](https://ciberninjas.com/catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/ "El pequeño libro rojo del activista en la red: todo lo que no quieres pero necesitas saber sobre el poder, la economía, la sociedad y las telecomunicaciones en la era de la información."), con un prólogo escrito por el mismo: Edward Snowden.
+Ha escrito libros sobre autómatas, sistemas de notación y un ensayo sobre vigilancia y criptografía llamado: [El Pequeño Libro Rojo del Activista en la Red](/catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/ "El pequeño libro rojo del activista en la red: todo lo que no quieres pero necesitas saber sobre el poder, la economía, la sociedad y las telecomunicaciones en la era de la información."), con un prólogo escrito por el mismo: Edward Snowden.
 
-Su charla TED, «[Por qué me vigilan si no soy nadie](https://ciberninjas.com/charla-por-que-me-vigilan-si-no-soy-nadie/ "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano..")», supera ya los dos millones de visitas. Se la puede ver en los debates de radio y televisión hablando de vigilancia, infraestructuras, soberanía tecnológica, propaganda computacional y cambio climático.
+Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigilan-si-no-soy-nadie/ "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano..")», supera ya los dos millones de visitas. Se la puede ver en los debates de radio y televisión hablando de vigilancia, infraestructuras, soberanía tecnológica, propaganda computacional y cambio climático.
 
 ## 🕵️‍♂️ Índice del Libro
 
@@ -160,7 +160,7 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](https://ciberninjas.com/c
 
 
 ## 📚 Catálogo Completo
-<a href="https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+<a href="/categoria/#seguridad-inform%C3%A1tica" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=libros&banner=16R3XS8RQ89N3YJR4B02&f=ifr&linkID=56cd664728c9a7de32cbacd0aafc13ca&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 

@@ -20,7 +20,7 @@ header:
   caption: "Créditos: **Amazon**"
   actions:
     - label: "+ SEGURIDAD INFORMÁTICA"
-      url: "https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica"
+      url: "/categoria/#seguridad-inform%C3%A1tica"
     - label: "🛒 COMPRAR"
       url: "https://amzn.to/2N5EkCS"
 toc: true
@@ -221,7 +221,7 @@ Pablo Gutiérrez Salazar, Hacker Ético Certificado por la International Council
 
 
 ## 📚 Catálogo Completo
-<a href="https://ciberninjas.com/categoria/#seguridad-inform%C3%A1tica" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+<a href="/categoria/#seguridad-inform%C3%A1tica" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=libros&banner=16R3XS8RQ89N3YJR4B02&f=ifr&linkID=56cd664728c9a7de32cbacd0aafc13ca&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 

@@ -6,4 +6,4 @@ excerpt: "El tráfico web es la cantidad de datos enviados y recibidos por los v
 
 El tráfico web es la cantidad de datos enviados y recibidos por los visitantes a un sitio web.
 
-<< [Regresar al Glosario](https://ciberninjas.com/glosario/ "Regresar a la Página Principal del Glosario")
+<< [Regresar al Glosario](/glosario/ "Regresar a la Página Principal del Glosario")

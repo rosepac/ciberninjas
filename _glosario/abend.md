@@ -6,4 +6,4 @@ excerpt: "Es un término usado para describir la finalización anormal de un pro
 
 Es un término usado para describir la finalización anormal de un programa.
 
-<< [Regresar al Glosario](https://ciberninjas.com/glosario/ "Regresar a la Página Principal del Glosario")
+<< [Regresar al Glosario](/glosario/ "Regresar a la Página Principal del Glosario")

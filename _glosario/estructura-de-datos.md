@@ -10,4 +10,4 @@ Se utilizan diferentes estructuras de datos dependiendo de qué operaciones (com
 
 Algunos ejemplos comunes de estructuras de datos son: las pilas, las colas y los árboles.
 
-<< [Regresar al Glosario](https://ciberninjas.com/glosario/ "Regresar a la Página Principal del Glosario")
+<< [Regresar al Glosario](/glosario/ "Regresar a la Página Principal del Glosario")

@@ -2,7 +2,7 @@
 layout: collection
 title: "Enciclopedia Tecnológico"
 description:
-excerpt: "Enciclopedia de tecnológica actualizada creada por ciberninjas"
+excerpt: "Enciclopedia de la tecnológia actualizada creada por ciberninjas"
 collection: wiki
 permalink: /wiki/
 published: false
@@ -12,7 +12,7 @@ author_profile: false
 Menú de los artículos de la Wikipedia faltos de traducción en español o de una traducción correcta.
 
 ## Cibernética
-- [Ciborg](#https://ciberninjas.com/wiki/ciborg)
+- [Ciborg](/wiki/ciborg)
 
 ## Licencia
 

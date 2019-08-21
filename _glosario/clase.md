@@ -10,4 +10,4 @@ En POO: Hace referencia a un conjunto de objetos relacionados que comparten cara
 En CSS: Es un selector que se usa para especificar un estilo en un elemento HTML.
 Palabra reservada en los lenguajes C# y Java.
 
-<< [Regresar al Glosario](https://ciberninjas.com/glosario/ "Regresar a la Página Principal del Glosario")
+<< [Regresar al Glosario](/glosario/ "Regresar a la Página Principal del Glosario")

@@ -6,4 +6,4 @@ excerpt: "Un sistema de gestión de contenido o CMS es un sistema que proporcion
 
 Un **sistema de gestión de contenido o CMS** es un sistema que proporciona una colección de procedimientos utilizados para gestionar el flujo de trabajo en un entorno de colaboración.
 
-<< [Regresar al Glosario](https://ciberninjas.com/glosario/ "Regresar a la Página Principal del Glosario")
+<< [Regresar al Glosario](/glosario/ "Regresar a la Página Principal del Glosario")
