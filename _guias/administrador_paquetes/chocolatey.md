@@ -5,16 +5,17 @@ excerpt: "📌 Chocolatey es el mejor instalador múltiple 👨‍💻 administr
 published: true
 comments: true
 date: 2018-03-01 07:03:36
+last_modified_at: 2019-08-21T18:29:02-05:00
 permalink: /chocolatey/
-image:
-    feature: /assets/images/chocolatey-ciberninjas.jpg
+header:
+  image: "/assets/images/chocolatey-ciberninjas.jpg"
+  image_description: Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows: Ciberninjas
+  caption: "**Créditos**: Creación Personal
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 ---
-[toc]
-
 ## 📌 Introducción
 
 Si eres un auténtico **ciberninja** seguro que eres un amante de probar todo software que encuentras, te parece interesante o te aconsejan.
@@ -81,33 +82,33 @@ El software, ha sido ya, descargado más de 113 millones de veces. Lo que habla 
  
 👉 Lista de Comandos:
 
-- list: lista de paquetes remotos o locales
-- search: busca paquetes remotos o locales (alias para la lista)
-- info: recupera información del paquete &#171;choco search pkgname &#8211;exact &#8211;verbose&#171;
-- install: instala paquetes de varias fuentes
-- pin: suprimir las actualizaciones de un paquete
-- outdated: recupera los paquetes desactualizados. Similar a actualizar todo &#171;\`upgrade all &#8211;noop&#171;\`
-- upgrade: actualiza paquetes de varias fuentes
-- uninstall: desinstala un paquete
-- pack: empaqueta un &#171;nuspec&#187; a un &#171;nupkg&#187; compilado
-- push: empuja un &#171;nupkg&#187; compilado
-- new: genera archivos necesarios para un paquete de Chocolatey a partir de una plantilla
-- sources: vea y configure las fuentes predeterminadas (alias para la fuente)
-- source: vea y configure las fuentes predeterminadas
-- config: recuperar y configurar los ajustes del archivo de configuración
-- feature: ver y configurar las características de choco
-- setapikey: vea y configure las características de choco (alias para la característica)
-- apikey: recupera o guarda una apikey para una fuente particular (alias para apikey)
-- unpackself: hacer que el chocolate se instale
-- version: [DEPRECATED] se elimino en la versión 1 &#8211; usa &#171;choco outdated&#171;
-- update: [DEPRECATED] RESERVADO para uso futuro
-- support: proporciona información de soporte
-- download: descargar paquetes &#8211; opcionalmente internalizar todos los recursos remotos
-- synchronize: sincroniza con el software instalado en el sistema &#8211; genera paquetes faltantes
-- sync: sincroniza con el software instalado en el sistema &#8211; genera paquetes faltantes
-- optimize: optimiza la instalación, reduciendo el uso de espacio
+- _**list**_: lista de paquetes remotos o locales
+- _**search**_: busca paquetes remotos o locales (alias para la lista)
+- _**info**_: recupera información del paquete &#171;choco search pkgname &#8211;exact &#8211;verbose&#171;
+- _**install**_: instala paquetes de varias fuentes
+- _**pin**_: suprimir las actualizaciones de un paquete
+- _**outdated**_: recupera los paquetes desactualizados. Similar a actualizar todo &#171;\`upgrade all &#8211;noop&#171;\`
+- _**upgrade**_: actualiza paquetes de varias fuentes
+- _**uninstall**_: desinstala un paquete
+- _**pack**_: empaqueta un &#171;nuspec&#187; a un &#171;nupkg&#187; compilado
+- _**push**_: empuja un &#171;nupkg&#187; compilado
+- _**new**_: genera archivos necesarios para un paquete de Chocolatey a partir de una plantilla
+- _**sources**_: vea y configure las fuentes predeterminadas (alias para la fuente)
+- _**source**_: vea y configure las fuentes predeterminadas
+- _**config**_: recuperar y configurar los ajustes del archivo de configuración
+- _**feature**_: ver y configurar las características de choco
+- _**setapikey**_: vea y configure las características de choco (alias para la característica)
+- _**apikey**_: recupera o guarda una apikey para una fuente particular (alias para apikey)
+- _**unpackself**_: hacer que el chocolate se instale
+- _**version**_: [DEPRECATED] se elimino en la versión 1 &#8211; usa &#171;choco outdated&#171;
+- _**update**_: [DEPRECATED] RESERVADO para uso futuro
+- _**support**_: proporciona información de soporte
+- _**download**_: descargar paquetes &#8211; opcionalmente internalizar todos los recursos remotos
+- _**synchronize**_: sincroniza con el software instalado en el sistema &#8211; genera paquetes faltantes
+- _**sync**_: sincroniza con el software instalado en el sistema &#8211; genera paquetes faltantes
+- _**optimize**_: optimiza la instalación, reduciendo el uso de espacio
 
-Por favor, ejecute chocolate con &#171;choco command -help&#171; para mostrar la ayuda específica de cada comando
+Por favor, se debe ejecutar chocolate con ```choco command -help``` para mostrar la ayuda específica de cada comando.
  
 ## 🛠 Instalación de Chocolatey
 
@@ -120,107 +121,60 @@ Para la instalación existen dos opciones, podemos abrir el **Cmd.exe** o bien e
 ```
 
 - En el Powershell.exe, el código siguiente:
+
 ```
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```    
 
 En ambos casos debemos de tener en cuenta que deben ser ejecutadas como administrador, para ello buscaremos o bien, el CMD; o bien, el Powershell; en el buscador de inicio de **Windows** y allí, sobre el programa a abrir, pulsaremos con el botón derecho para elegir la opción de **ejecutar como administrador**.
    
-![Abriendo powershell como Administrador | Ciberninjas
-][2]
+![Abriendo powershell como Administrador | Ciberninjas]
+
+Luego simplemente pegar el código y pulsar **ENTER**. Finalmente solo deberemos entrar [aquí][3]:
     
-    Luego simplemente pegar el código y pulsar **ENTER**.
-   
-    Finalmente solo deberemos entrar [aquí][3]:
+![Página del Software a disposición en Chocolatey | Ciberninjas][4]
     
-    ![Página del Software a disposición en Chocolatey | Ciberninjas
-][4]
+Desde está página debemos ir buscando el Software o ‘Package’ que deseamos utilizar para poder copiar la línea de código adecuada o bien podríamos probar suerte, puesto que la línea de código es siempre la misma y bien sencilla, simplemente los comandos siguientes:
     
-    Desde está página debemos ir buscando el Software o ‘Package’ que deseamos utilizar para poder copiar la línea de código adecuada o bien podríamos probar suerte, puesto que la línea de código es siempre la misma y bien sencilla, simplemente los comandos siguientes:
-    
-        choco install nombre_del_programa
+```choco install nombre_del_programa```
         
     
-    **💛 Pegándolo en el CMD o PowerShell 💛**
+**💛 Pegándolo en el CMD o PowerShell 💛**
     
-    En mi caso actualizare el muy interesante programa Zeal. Ejecutando la siguiente línea:
+En mi caso actualizare el muy interesante programa Zeal.
+{: .notice--success}
+
+Ejecutando la siguiente línea:
     
-        choco install zeal
+```choco install zeal```
         
     
-    > Enter!!! 💻 
+> Enter!!! 💻 
     
-    ![Ejecución del comando de instalación de Zeal sobre PowerShell | Ciberninjas
-][5]
+![Ejecución del comando de instalación de Zeal sobre PowerShell | Ciberninjas](https://cdn-images-1.medium.com/max/800/1*74B-D0hgTuaH1eFExwkqFg.png)
     
-    Luego de ver los diferentes procesos que **Chocolatey** va realizando sobre la consola, tendremos el Software instalado y preparado para funcionar!
+Luego de ver los diferentes procesos que **Chocolatey** va realizando sobre la consola, tendremos el Software instalado y preparado para funcionar!
     
-    ## 🎁 Off-topic: Zeal
+## 🎁 Off-topic: Zeal
     
-    El programa que hemos aprendido a instalar, se denomina Zeal.
+El programa que hemos aprendido a instalar, se denomina Zeal.
     
-    ![Zeal Software Instalado | Ciberninjas][6]
+![Zeal Software Instalado | Ciberninjas](https://cdn-images-1.medium.com/max/1600/1*vUPK_nw-5qOxugcaBaRAhg.png)
     
-    Zeal es un programa muy interesante para todas las personas del mundo de la programación, que se basa en la creación de un navegador de documentación fuera de línea para desarrolladores de software.
+Zeal es un programa muy interesante para todas las personas del mundo de la programación, que se basa en la creación de un navegador de documentación fuera de línea para desarrolladores de software.
     
-    Espero presentarlo en una entrada más completa, próximamente 💘
+Espero presentarlo en una entrada más completa, próximamente 💘
     
     
       
         
-           Sitio Oficial
-        
-        
-        
-          Página Web
-        
-      
-    
-    
-    
-      
-        
-           Github
-        
-        
-        
-          Código Fuente
-        
-      
-    
-    
-    
-      
-        
-           Guía
-        
-        
-        
-          Documentación Oficial en Inglés
-        
-      
-    
-    
-    
-      
-        
-           API
-        
-        
-        
-          Interfaz de Programación de Aplicaciones
-        
-      
-    
-    
-    
-      
-        
-           Paquetes
-        
-        
-        
-          Listado Completo de los Paquetes que Existen
+         Sitio Oficial**:	[Página Web](https://chocolatey.org/)
+
+**Github**: [Código Fuente](https://github.com/chocolatey/choco#chocolatey---like-yum-or-apt-get-but-for-windows)
+**Guía**: [Documentación Oficial en Inglés](https://chocolatey.org/docs)
+**API**: [Interfaz de Programación de Aplicaciones](https://chocolatey.org/docs/commandsapikey)
+**Paquetes**: [Listado Completo del Software a Instalar](https://kutt.it/chocolatey_paquetes)
+{: .notice--info}
         
       
     
@@ -229,5 +183,5 @@ En ambos casos debemos de tener en cuenta que deben ser ejecutadas como administ
  [2]: https://cdn-images-1.medium.com/max/800/1*c_Zwtu7DvFddUnHspVKl1Q.png
  [3]: https://kutt.it/chocolatey_paquetes
  [4]: https://cdn-images-1.medium.com/max/800/1*tkVouRrDr0_fVNJUILJTVw.png
- [5]: https://cdn-images-1.medium.com/max/800/1*74B-D0hgTuaH1eFExwkqFg.png
- [6]: https://cdn-images-1.medium.com/max/1600/1*vUPK_nw-5qOxugcaBaRAhg.png
+ [5]: 
+ [6]: 
