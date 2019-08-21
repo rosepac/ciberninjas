@@ -9,7 +9,7 @@ last_modified_at: 2019-08-21T18:29:02-05:00
 permalink: /chocolatey/
 header:
   image: "/assets/images/chocolatey-ciberninjas.jpg"
-  image_description: Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows: Ciberninjas
+  image_description: Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows
   caption: "**Créditos**: Creación Personal
 toc: true
 toc_label: "Contenidos"
@@ -56,7 +56,7 @@ Para los clientes de Chocolatey, necesitarás lo siguiente:
 - La CLI de Chocolatey tiene un impacto de 15 MB en la instalación predeterminada más el espacio que utilizan los paquetes instalados.
 - Chocolatey GUI ocupa otros 50–100 MB de espacio en la instalación predeterminada.
 - Recomendación de Espacio a la Hora de realizar instalaciones de programas grandes&#187: 
-    - Recomendamos suficiente espacio libre para las aplicaciones que instalará más 1 GB adicional para permitir que Chocolatey procese eso. Deseará activar el Reductor de paquetes (ediciones comerciales) si lo tiene para reducir realmente el impacto de los paquetes integrados, lo que brinda confiabilidad pero también aumenta la huella (a menos que tenga el Reductor de paquetes). Si no tiene Package Reducer y está incrustando binarios en nupkgs, necesitará 3 veces el espacio de lo que está instalando a menos que limpie explícitamente los instaladores / zips extraídos en sus scripts automatizados, entonces necesitará 2 veces más espacio cuando se considera que nupkg seguirá conteniendo binarios incrustados (y el nupkg debe permanecer). Desafortunadamente, esto será un cálculo para comprender los requisitos de espacio exactos y realmente depende de lo que instalará.
+- Recomendamos suficiente espacio libre para las aplicaciones que instalará más 1 GB adicional para permitir que Chocolatey procese eso. Deseará activar el Reductor de paquetes (ediciones comerciales) si lo tiene para reducir realmente el impacto de los paquetes integrados, lo que brinda confiabilidad pero también aumenta la huella (a menos que tenga el Reductor de paquetes). Si no tiene Package Reducer y está incrustando binarios en nupkgs, necesitará 3 veces el espacio de lo que está instalando a menos que limpie explícitamente los instaladores / zips extraídos en sus scripts automatizados, entonces necesitará 2 veces más espacio cuando se considera que nupkg seguirá conteniendo binarios incrustados (y el nupkg debe permanecer). Desafortunadamente, esto será un cálculo para comprender los requisitos de espacio exactos y realmente depende de lo que instalará.
     
 ### Requisitos de Memoria Ram
     
