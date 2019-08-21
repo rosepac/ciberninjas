@@ -19,4 +19,6 @@ categories:
 #   nav: radio
 ---
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/pXRviuL6vMY?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/playlist?list=PL8M1frRRqO_o-LwsdDejTLuq3t-jZ0hKU
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8M1frRRqO_o-LwsdDejTLuq3t-jZ0hKU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
