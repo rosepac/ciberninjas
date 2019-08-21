@@ -1,9 +1,10 @@
 ---
 author_profile: true
-title: "💰 Cómo Hackear las Cadenas de Bloques: Fumblechain"
+title: "👑 Los Libros Recomendados por Obama en 2019"
 description: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
 excerpt: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
-date: 2019-08-14 22:50:59
+date: 2019-08-21 23:45:59
+published: false
 categories:
 - Recomendaciones
 tags:
