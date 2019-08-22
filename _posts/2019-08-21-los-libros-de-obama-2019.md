@@ -4,7 +4,8 @@ title: "📖 Los Libros Recomendados por Barack Obama en 2019"
 description: 'Los libros favoritos / preferidos leídos y recomendados por el ex-presidente de EE.UU: Barack Obama'
 excerpt: 'Los libros favoritos / preferidos leídos y recomendados por el ex-presidente de EE.UU: Barack Obama'
 date: 2019-08-21 23:45:59
-published: false
+last_modified_at: 2019-08-23T01:29:02-05:00
+published: true
 categories:
 - Recomendaciones
 tags:
