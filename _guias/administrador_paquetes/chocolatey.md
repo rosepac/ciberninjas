@@ -165,11 +165,8 @@ Zeal es un programa muy interesante para todas las personas del mundo de la prog
     
 Espero presentarlo en una entrada más completa, próximamente 💘
     
-    
-      
-        
-         Sitio Oficial**:	[Página Web](https://chocolatey.org/)
 
+**Sitio Oficial**:	[Página Web](https://chocolatey.org/)
 **Github**: [Código Fuente](https://github.com/chocolatey/choco#chocolatey---like-yum-or-apt-get-but-for-windows)
 **Guía**: [Documentación Oficial en Inglés](https://chocolatey.org/docs)
 **API**: [Interfaz de Programación de Aplicaciones](https://chocolatey.org/docs/commandsapikey)
@@ -183,5 +180,3 @@ Espero presentarlo en una entrada más completa, próximamente 💘
  [2]: https://cdn-images-1.medium.com/max/800/1*c_Zwtu7DvFddUnHspVKl1Q.png
  [3]: https://kutt.it/chocolatey_paquetes
  [4]: https://cdn-images-1.medium.com/max/800/1*tkVouRrDr0_fVNJUILJTVw.png
- [5]: 
- [6]: 
