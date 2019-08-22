@@ -1,8 +1,8 @@
 ---
 author_profile: true
-title: "👑 Los Libros Recomendados por Obama en 2019"
-description: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
-excerpt: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
+title: "📖 Los Libros Recomendados por Barack Obama en 2019"
+description: 'Los libros favoritos / preferidos leídos y recomendados por el ex-presidente de EE.UU: Barack Obama'
+excerpt: 'Los libros favoritos / preferidos leídos y recomendados por el ex-presidente de EE.UU: Barack Obama'
 date: 2019-08-21 23:45:59
 published: false
 categories:
@@ -10,9 +10,9 @@ categories:
 tags:
 - Libro
 header:
-  overlay_image: /assets/images/barack-obama-caricatura_1280x720.jpg
+  overlay_image: /assets/images/barack-obama-compra-libros.jpg
   overlay_filter: "0.2"
-  image_description: "Fumblechain, hackea la Cadena de Bloques. Aprender seguridad de Blockchain | Ciberninjas"
+  image_description: "Barack Obama"
   caption: "**Créditos**: [Caricatura de Barack Obama](https://commons.wikimedia.org/wiki/File:Barack_Obama_-_Caricature_(32125530305).jpg) por [DonkeyHotey](https://www.flickr.com/photos/donkeyhotey) bajo licencia [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)"
 toc: true
 toc_label: "Contenidos"
