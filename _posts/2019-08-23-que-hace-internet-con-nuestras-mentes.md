@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: "🧠 Superficiales: ¿Qué está haciendo Internet con nuestras mentes?"
+title: "🧠 Superficiales: Qué está haciendo Internet con nuestras mentes"
 comments: true
 date: 2019-08-23 02:08:55
 tags:
@@ -15,7 +15,7 @@ permalink: /catalogo/que-hace-internet-con-nuestras-mentes/
 description: "Superficiales, ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
 excerpt: "Superficiales, ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
 header:
-  overlay_image: /assets/images/catalogo/que-hace-internet-nuestras-mentes.jpg/
+  overlay_image: /assets/images/catalogo/que-hace-internet-nuestras-mentes.jpg
   image_description: "Qué hace internet con nuestras mentes, en inglés: The Shallows. Libro recomendado por el presidente Barack Obama"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Amazon**"
