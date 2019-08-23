@@ -15,7 +15,7 @@ header:
   overlay_image: /assets/images/obama-leyendo.jpg
   overlay_filter: "0.2"
   image_description: "Barack Obama"
-  caption: "**Créditos**: [Caricatura de Barack Obama](https://commons.wikimedia.org/wiki/File:Barack_Obama_-_Caricature_(32125530305).jpg) por [DonkeyHotey](https://www.flickr.com/photos/donkeyhotey) bajo licencia [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)"
+  caption: "**Créditos**: [Obama White House](https://www.flickr.com/photos/obamawhitehouse/8109908571) es una [Obra del Gobierno de Estados Unidos](https://www.usa.gov/government-works) bajo sus propidas condiciones de [licencia](https://www.usa.gov/government-works)"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -33,7 +33,7 @@ Además, el ex presidente cita múltiples libros y cuentos más; recomendandosel
 
 ## Recomendaciones Culturales de Obama 2019
 
-## [Obras Completas de Toni Morrison](https://amzn.to/2MziuIA)
+### [Obras Completas de Toni Morrison](https://amzn.to/2MziuIA)
 Por desgracia en español, no podemos encontrar estas Obras Completas como tal; en su defecto, tenemos la posibilidad de lograr varios de sus [títulos más importantes](/libreria#toni-morrison).
 
 Por ejemplo: [Beloved/ Amado](https://amzn.to/2L38unG), [La Canción de Salomón](https://amzn.to/2Mw2WFt), [Ojos Azules](https://amzn.to/2L0ITeT), [Sula](https://amzn.to/2NpiH0v) o [Paraíso](https://amzn.to/2MxjInE)
@@ -46,7 +46,7 @@ Sus novelas son conocidas por sus temas épicos, diálogos vívidos y personajes
 
 > Barack Obama
 
-## [The Nickel Boys de Colson Whitehead](https://amzn.to/2Nr7Q6i)
+### [The Nickel Boys de Colson Whitehead](https://amzn.to/2Nr7Q6i)
 En inglés, no se ha realizado traducción aún.
 
 Colson Whitehead dramatiza brillantemente otro aspecto de la historia estadounidense a través de la historia de dos niños condenados a una escuela de reforma infernal en la Florida de la era Jim Crow.
@@ -63,7 +63,7 @@ Basado en la historia real de una escuela de reforma en Florida que funcionó du
 
 > Barack Obama
 
-## [Exhalation, cuento de Ted Chiang](https://amzn.to/2KQKJ3n)
+### [Exhalation, cuento de Ted Chiang](https://amzn.to/2KQKJ3n)
 En inglés, no se ha realizado traducción aún.
 
 Esta esperada segunda colección de historias es la firma de Ted Chiang, llena de ideas reveladoras y personajes profundamente comprensivos. En "The Merchant and the Alchemist's Gate", un portal a través del tiempo obliga a un vendedor de telas en la antigua Bagdad a lidiar con errores pasados y la tentación de segundas oportunidades. En la epistolar "Exhalación", un científico alienígena hace un descubrimiento sorprendente con ramificaciones no solo para su propia gente, sino para toda la realidad. Y en "El ciclo de vida de los objetos de software", una mujer se preocupa por una inteligencia artificial durante veinte años, elevando a una mascota digital caprichosa a lo que podría ser un verdadero ser vivo. También se incluyen dos historias completamente nuevas: "Omphalos" y "La ansiedad es el mareo de la libertad".
@@ -74,7 +74,7 @@ En esta colección fantástica y elegante, Ted Chiang lucha con las preguntas m�
 
 > Barack Obama
 
-## [Wolf Hall de Hilary Mantel](https://amzn.to/2Npz25l)
+### [Wolf Hall de Hilary Mantel](https://amzn.to/2Npz25l)
 Existe una versión en español de Wolf Hall denominada "[En la Corte del Lobo](https://amzn.to/2MwBgQM)" más, por sus criticas; parece ser que la traducción no es muy correcta.
 
 Inglaterra en la década de 1520 es un latido del desastre. Si el rey muere sin un heredero, el país podría ser destruido por la guerra civil. Enrique VIII quiere anular su matrimonio de veinte años y casarse con Anne Boleyn. El papa y la mayor parte de Europa se le oponen. En este callejón sin salida entra Thomas Cromwell: un hombre totalmente original, encantador y acosador, idealista y oportunista, astuto al leer a las personas e implacable en su ambición. Pero Henry es volátil: un día tierno, un día asesino. Cromwell lo ayuda a romper la oposición, pero ¿cuál será el precio de su triunfo?
@@ -83,7 +83,7 @@ Inglaterra en la década de 1520 es un latido del desastre. Si el rey muere sin 
 
 > Barack Obama
 
-## [Men without women, cuentos de Haruki Murakami](https://amzn.to/2L2mhuK)
+### [Men without women, cuentos de Haruki Murakami](https://amzn.to/2L2mhuK)
 
 "Men without women" ha sido traducido como Hombres sin mujeres.
 
@@ -97,7 +97,7 @@ Inspirada en hechos reales, Thomas Sankara es conocido como el "Che Guevara de �
 
 > Barack Obama
 
-## [American Spy por Lauren Wilkinson](https://amzn.to/2NriXfA)
+### [American Spy por Lauren Wilkinson](https://amzn.to/2NriXfA)
 
 Es 1986, el corazón de la Guerra Fría, y Marie Mitchell es una agente de inteligencia del FBI. Ella es brillante, pero también es una joven negra que trabaja en un antiguo club de niños, y su carrera se ha estancado; ella es ignorada por cada escuadrón de alto perfil y sus días están llenos de papeleo monótono. Entonces, cuando se le da la oportunidad de unirse a un grupo de trabajo sombrío destinado a socavar a Thomas Sankara, el carismático y revolucionario presidente de Burkina Faso, cuya ideología comunista lo ha convertido en un objetivo para la intervención estadounidense, ella dice que sí. Sí, a pesar de que ella admira en secreto el trabajo que Thomas está haciendo para su país. Sí, a pesar de que todavía está llorando la misteriosa muerte de su hermana, cuyo ejemplo llevó a Marie a esta carrera en primer lugar. Sí, aunque una parte furiosa de sus sospechosos ella '
 
@@ -109,7 +109,7 @@ Inspirada en hechos reales, Thomas Sankara es conocido como el "Che Guevara de �
 
 > Barack Obama
 
-## [The Shallows de Nicholas Carr](https://amzn.to/2ZiH6ao)
+### [The Shallows de Nicholas Carr](https://amzn.to/2ZiH6ao)
 
 The Shallows ha sido traducido al español, como: Superficiales: ¿Qué está haciendo Internet con nuestras mentes?
 
@@ -123,7 +123,7 @@ Shallows no es un manifiesto para eruditos, ni busca hacer retroceder el reloj. 
 
 > Barack Obama
 
-## [Lab Girl de Hope Jahren](https://amzn.to/2KOk5I6)
+### [Lab Girl de Hope Jahren](https://amzn.to/2KOk5I6)
 
 Lab Girl ha sido traducido al español, como: La memoria secreta de las hojas: Una historia de árboles, ciencia y amor; cosas de edición, supongo.
 
@@ -137,7 +137,7 @@ Sin embargo, en el centro de este libro está la historia de una relación que J
 
 > Barack Obama
 
-## [Inland: A Novel de Téa Obreht](https://amzn.to/2NpysVe)
+### [Inland: A Novel de Téa Obreht](https://amzn.to/2NpysVe)
 
 El autor más vendido del New York Times de The Tiger's Wife regresa con una impresionante historia de perseverancia: un viaje épico a través de un paisaje inolvidable de magia y mito. En las tierras sin ley y devastadas por la sequía del territorio de Arizona en 1893, dos vidas extraordinarias chocan. Nora es una mujer fronteriza inquebrantable que espera el regreso de los hombres en su vida: su esposo, que ha ido en busca de agua para la casa reseca, y sus hijos mayores, que han desaparecido después de una discusión explosiva. Nora está pasando el tiempo con su hijo menor, quien está convencido de que una bestia misteriosa está acechando la tierra alrededor de su hogar.
 
@@ -149,7 +149,7 @@ Mítico, lírico y de amplio alcance, Inland se basa en la historia verdadera pe
 
 > Barack Obama
 
-## [El Lugar del Aire por Dinaw Mengestu](https://amzn.to/2KNSRRW)
+### [El Lugar del Aire por Dinaw Mengestu](https://amzn.to/2KNSRRW)
 
 How to read the air, ha sido traducido al español, como: El lugar del aire.
 
@@ -165,7 +165,7 @@ Treinta años después, Yosef ha muerto y Jonas necesita dar sentido a los volá
 
 > Barack Obama
 
-## [Maid de Stephanie Land](https://amzn.to/2ZmRuxR)
+### [Maid de Stephanie Land](https://amzn.to/2ZmRuxR)
 
 Evicted conoce a Nickel y Dimed en las memorias de Stephanie Land sobre trabajar como empleada doméstica, una exploración hermosa y arenosa de la pobreza en Estados Unidos. Incluye un prólogo de Barbara Ehrenreich. 
 
