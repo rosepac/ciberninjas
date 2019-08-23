@@ -17,7 +17,7 @@ excerpt: "Superficiales, ¿Qué está haciendo Internet con Nuestras Mentes? The
 header:
   overlay_image: /assets/images/catalogo/que-hace-internet.jpg
   image_description: "Qué hace internet con nuestras mentes, en inglés: The Shallows. Libro recomendado por el presidente Barack Obama"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Amazon**"
   actions:
     - label: "+ NEUROPSICOLOGÍA"
