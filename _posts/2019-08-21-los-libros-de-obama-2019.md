@@ -111,7 +111,7 @@ Inspirada en hechos reales, Thomas Sankara es conocido como el "Che Guevara de �
 
 ### [The Shallows de Nicholas Carr](https://amzn.to/2ZiH6ao)
 
-The Shallows ha sido traducido al español, como: Superficiales: ¿Qué está haciendo Internet con nuestras mentes?
+The Shallows ha sido traducido al español, como: Superficiales: ¿Qué está haciendo Internet con nuestras mentes? Un gran libro relacionado con la tecnología que es lo que a los Ciberninjas nos encanta; por ello, puedes leer más en nuestra [nueva publicación 📒](/catalogo/que-hace-internet-con-nuestras-mentes/)
 
 En este libro innovador y convincente, Nicholas Carr argumenta que no desde que Gutenberg inventó la impresión, la humanidad ha estado expuesta a una tecnología tan alucinante. The Shallows se basa en las últimas investigaciones para demostrar que la Red literalmente está reconectando nuestros cerebros induciendo solo una comprensión superficial.
 
