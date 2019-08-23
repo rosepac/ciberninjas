@@ -22,7 +22,7 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-Si buscas lecturas recomendables para tus últimos día de playa o para los últimos meses de final de año, Barack Obama te ofrece varias sugerencias.
+Si buscas lecturas recomendables para tus últimos días de playa o para los últimos meses de final de año, Barack Obama te ofrece varias sugerencias.
 
 El ex-presidente publicó una lista de los libros que ha estado leyendo a lo largo del año 2019 a través de sus redes sociales el miércoles, destacando sobre todo a los trabajos del recientemente fallecido autor del Premio Nobel: Toni Morrison.
 
@@ -31,14 +31,14 @@ Morrison, quien murió el 5 de agosto a la edad de 88 años, escribió varias no
 
 ## Recomendaciones Culturales de Obama 2019
 
-Además del citado autor, el ex presidente cita múltiples libros y cuentos más; recomendandoselos así, a sus decenas de millones de seguidores en sus redes sociales y acto seguido te muestro la lista completa de las recomendaciones de Obama para lo que queda de verano y del año 2019.
+Además del citado autor, el ex presidente cita múltiples libros y cuentos más; recomendándoselos así, a sus decenas de millones de seguidores en sus redes sociales y acto seguido te muestro la lista completa de las recomendaciones de Obama para lo que queda de verano y del año 2019.
 
 ### [Obras Completas de Toni Morrison](https://amzn.to/2MziuIA)
 Por desgracia en español, no podemos encontrar estas Obras Completas como tal; en su defecto, tenemos la posibilidad de lograr varios de sus [títulos más importantes](/libreria#toni-morrison).
 
 Por ejemplo: [Beloved/ Amado](https://amzn.to/2L38unG), [La Canción de Salomón](https://amzn.to/2Mw2WFt), [Ojos Azules](https://amzn.to/2L0ITeT), [Sula](https://amzn.to/2NpiH0v) o [Paraíso](https://amzn.to/2MxjInE)
 
-Toni Morrison (nacido Chloe Ardelia Wofford) fue un autor, editor y profesor estadounidense que ganó el Premio Nobel de Literatura de 1993 por ser un autor "que en las novelas caracterizadas por la fuerza visionaria y la importancia poética, da vida a un aspecto esencial de la realidad estadounidense ". 
+Toni Morrison (nacido Chloe Ardelia Wofford) fue un autor, editor y profesor estadounidense que ganó el Premio Nobel de Literatura de 1993 por ser un autor "que en las novelas caracterizadas por la fuerza visionaria y la importancia poética, da vida a un aspecto esencial de la realidad estadounidense".
 
 Sus novelas son conocidas por sus temas épicos, diálogos vívidos y personajes afroamericanos ricamente detallados; Entre las más conocidas se encuentran sus novelas The Bluest Eye , Song of Solomon y Beloved , que ganó el Premio Pulitzer de Ficción en 1988. En 2001 fue nombrada una de "Las 30 mujeres más poderosas de América" en "Ladies Home Journal". 
 
@@ -157,9 +157,9 @@ Una obra maestra literaria desgarradora sobre el amor, la familia y el poder de 
 
 La primera novela de Dinaw Mengestu, The Beautiful Things That Heaven Bears, le valió a la joven escritora comparaciones con Bellow, Fitzgerald y Naipaul, y obtuvo elogios y premios críticos extáticos en todo el mundo por su inquietante descripción de la experiencia de los inmigrantes. Ahora Mengestu enriquece los temas que definieron su debut con una obra maestra literaria desgarradora sobre el amor, la familia y el poder de la imaginación, lo que confirma su reputación como uno de los talentos más brillantes de su generación.
 
-Una tarde de principios de septiembre, Yosef y Mariam, jóvenes inmigrantes etíopes que han pasado aparte de su primer año de matrimonio, partieron en un viaje por carretera desde su nuevo hogar en Peoria, Illinois, a Nashville, Tennessee, en busca de una nueva identidad. como una pareja estadounidense Pronto, su hijo, Jonas, nacerá en Illinois.
+Una tarde de principios de septiembre, Yosef y Mariam, jóvenes inmigrantes etíopes que han pasado aparte de su primer año de matrimonio, partieron en un viaje por carretera desde su nuevo hogar en Peoria, Illinois, a Nashville, Tennessee, en busca de una nueva identidad como una pareja estadounidense; pronto, su hijo, Jonas, nacerá en Illinois.
 
-Treinta años después, Yosef ha muerto y Jonas necesita dar sentido a los volátiles lazos generacionales y culturales que lo han forjado. ¿Cómo puede imaginar su futuro sin saber lo que ha sucedido antes? Dejando atrás su matrimonio y su trabajo en Nueva York, Jonas se propone volver sobre el viaje de su madre y su padre y tejer juntos una historia familiar que lo llevará desde la Etiopía devastada por la guerra de la juventud de sus padres hasta su vida en la América de hoy. una historia, real o inventada, que ofrece la posibilidad de reconciliación y redención.
+Treinta años después, Yosef ha muerto y Jonas necesita dar sentido a los volátiles lazos generacionales y culturales que lo han forjado. ¿Cómo puede imaginar su futuro sin saber lo que ha sucedido antes? Dejando atrás su matrimonio y su trabajo en Nueva York, Jonas se propone volver sobre el viaje de su madre y su padre y tejer juntos una historia familiar que lo llevará desde la Etiopía devastada por la guerra de la juventud de sus padres hasta su vida en la América de hoy. Una impactante historia, real o inventada, que ofrece la posibilidad de reconciliación y redención.
 
 > "podrás obtener una mejor idea de la complejidad y la redención dentro de la historia de los inmigrantes estadounidenses"
 
@@ -181,5 +181,5 @@ Escrito en una prosa honesta, desgarradora y con gran perspicacia, Maid explora 
 
 > Barack Obama
 
-Obama tiene la costumbre de publicar listas de lectura desde que ocupola Casa Blanca, y mantiene esa tradición desde que ceso de su cargo en 2017. Incluso, en 2018, se atrevió con una lista de libros, películas y música en fin de año.
+Obama tiene la costumbre de publicar listas de lectura desde que ocupo la Casa Blanca, y mantiene esa tradición desde que ceso de su cargo en 2017. Incluso, en 2018, se atrevió con una lista de libros, películas y música en fin de año.
 {: .notice--primary}
