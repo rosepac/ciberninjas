@@ -16,5 +16,5 @@ Quizás mis deseos de ser documentalista digital y mi diógenes de marcadores ju
 
 Más, mi ilusión era poder vivir de esto; pero ya he comprobado que es imposible. Por lo que me conformo con alguna pequeña ayuda de vez en cuando, puedes ayudarme a través de mis [enlaces referidos](/libreria/).
 
-**Las entradas pueden NO contener imágenes por un tiempo, puesto que aún estoy en el proceso de acomodar todo desde mi antiguo hosting y CMS de Wordpress.**
+**Las entradas pueden NO contener imágenes por un tiempo, puesto que aún estoy en el proceso de acomodar todo desde mi antiguo hosting y CMS.**
 {: .notice--warning}

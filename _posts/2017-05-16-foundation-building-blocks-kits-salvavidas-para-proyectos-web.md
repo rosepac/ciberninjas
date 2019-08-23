@@ -18,7 +18,7 @@ tags:
 - Kit
 categories:
 - Código Abierto
-- Framework-CSS
+- Framework CSS
 ---
 ## Construye bloque a bloque
 

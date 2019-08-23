@@ -75,7 +75,7 @@ Nicholas Carr es el autor del finalista del Premio Pulitzer: The Shallows, el é
     - Capítulo 10. Algo como yo
 - Epílogo: Los elementos humanos
 
-**Digresión**: Ver Glosario
+**Digresión**: [Ver Glosario](/glosario/digresion/)
 {: .notice--info}
 
 ## 📝 Otros Detalles

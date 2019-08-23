@@ -20,7 +20,7 @@ toc_sticky: true
 
 Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas conocer un poco más sobre ello; hace algún tiempo escribí la historia del [origen de mi nombre en Internet](https://steemit.com/mysteemitname/@rosepac/el-origen-de-mi-nombre-rosepac "El Origen de mi Nombre/Nickname: ROSEPAC") además, en la misma publicación puedes comenzar a conocer en profundidad una pequeña parte de mi y de mis pensamientos.
 
-Mi nombre real, es Pablo Álvarez Corredera y soy asturiano; en mi [página web](https://www.pabloalvarezcorredera.com "Asturias, SEO y Posicionamiento. La Biblia del Seo y Posicionamiento en Español") he creado un pequeño proyecto de prueba sobre el SEO.
+Mi nombre real, es Pablo Álvarez Corredera, abreviado PAC. Soy asturiano; en mi [página web](https://www.pabloalvarezcorredera.com "Asturias, SEO y Posicionamiento. La Biblia del Seo y Posicionamiento en Español") he creado un pequeño proyecto de prueba sobre el SEO, que va en camino del fracaso..
 
 Nunca he encontrado la fortuna alrededor de la web. Años intentando darle sentido a la creación de un blog, sin encontrar el lugar más idonio; una y otra vez. Siempre pensando en crear proyectos demasiado grandes para lo que uno podía hacer. Por dinero y tiempo.
 
@@ -52,4 +52,6 @@ No descarto que la culpa sea mía por no saber centrarme en una temática concre
 
 ### Lee mis artículos antiguos en Steemit
 
-(👷‍♀️ _en construcción.._)
+(👷‍♀️ _..en Construcción.. y por Revisar.._)
+
+## De vez en cuando, hago fotografías..

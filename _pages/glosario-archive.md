@@ -8,4 +8,4 @@ permalink: /glosario/
 author_profile: false
 ---
 
-Lista de todas las palabras añadidas a nuestro `glosario`.
+Lista de todas las palabras añadidas a mi `glosario`.
