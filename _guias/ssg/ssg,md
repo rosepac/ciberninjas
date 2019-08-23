@@ -5,6 +5,7 @@ excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende d
 date: 2019-08-21T22:00:00.000+00:00
 last_modified_at: 2019-08-21T16:20:02-05:00
 permalink: /ssg/
+published: false
 categories:
 - Biblia
 - SSG

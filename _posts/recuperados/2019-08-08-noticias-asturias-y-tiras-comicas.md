@@ -1,0 +1,117 @@
+---
+layout: post
+title: 'Noticias, Tiras Cómicas & Noticias de Asturias'
+published: false
+author: rosepac
+comments: false
+date: 2018-12-19 01:12:57
+tags: [ ]
+categories: [ ]
+permalink: /articulos/noticias-asturias-y-tiras-comicas
+---
+## Tiras Cómicas de los Períodicos Más Importantes
+
+Tiras Cómicas:
+
+  * [_LNE_][1]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL2xuZWh1bW9yIiwiaW1hZ2VfaWQiOi0xLCJpbWFnZV91cmwiOiJodHRwczovL3d3dy5sbmUuZXMvZWxlbWVudG9zV2ViL21lZGlhd2ViL2ltYWdlczEwMjQvY2FiZWNlcmEvY2FiZWNlcmEucG5nIiwidGl0bGUiOiJIdW1vci0gTGEgTnVldmEgRXNwYcOxYSIsInN1bW1hcnkiOiJOb3RpY2lhcyBkZSBIdW1vciAtIExhIE51ZXZhIEVzcGHDsWEiLCJ0ZW1wbGF0ZSI6ImRlZmF1bHQifQ==&#187;]
+
+  * [_ABC &#8211; _Fe de Ratas__][2]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL2ZlZGVyYXRhcyIsImltYWdlX2lkIjotMSwiaW1hZ2VfdXJsIjoiaHR0cDovL2VzcGVjaWFsZXN3cC5hYmMuZXMvZmUtZGUtcmF0YXMvd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDEvMTkwMTAyLVNNUy1jb2RpZ28uanBnIiwidGl0bGUiOiJTaWdsbyBYWEkiLCJzdW1tYXJ5IjoiTGEgdmnDsWV0YSBkZSBob3kgZW4gRmUgZGUgcmF0YXMsIHBvciBKTSBOaWV0byIsInRlbXBsYXRlIjoiZGVmYXVsdCJ9&#8243;]
+
+  * [_ABC &#8211; _El Sacapunt__][3]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL2Vsc2FjYXB1bnRhcyIsImltYWdlX2lkIjotMSwiaW1hZ2VfdXJsIjoiaHR0cDovL3d3dy5hYmMuZXMvZWwtc2FjYXB1bnRhcy93cC1jb250ZW50L3RoZW1lcy9lbC1zYWNhcHVudGFzL2ltYWdlcy9lbC1zYWNhcHVudGFzLWZhY2Vib29rLmpwZyIsInRpdGxlIjoiQcOxbyBudWV2bywgZXN0w6EgcG9yIHZlciIsInN1bW1hcnkiOiJBQkMuZXMgfCBFbCBzYWNhcHVudGFzIC0gTGFzIHZpw7FldGFzIGRlIFB1ZWJsYSIsInRlbXBsYXRlIjoiZGVmYXVsdCJ9&#8243;]
+
+  * [_El Diario &#8211; _Manel Fdevila__][4]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL2ZvbnRkZXZpbGEiLCJpbWFnZV9pZCI6LTEsImltYWdlX3VybCI6Imh0dHBzOi8vd3d3LmVsZGlhcmlvLmVzL2JidGZpbGUvMzAwNl8yMDEyMDkxNmU3aERtby5qcGciLCJ0aXRsZSI6Ik1hbmVsIEZvbnRkZXZpbGEiLCJzdW1tYXJ5IjoiVGlyYSBjw7NtaWNhIGRpYXJpYSBjcmVhZGEgcG9yIE1hbmVsIEZvbnRkZXZpbGEgZW4gZWwgRWwgRGlhcmlvLmVzLiIsInRlbXBsYXRlIjoiZGVmYXVsdCJ9&#8243;]
+
+  * [_El Diario &#8211; _Bernardo Vergar_][5]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL3ZlcmdhcmEiLCJpbWFnZV9pZCI6LTEsImltYWdlX3VybCI6Imh0dHBzOi8vd3d3LmVsZGlhcmlvLmVzL2JidGZpbGUvMzAwNl8yMDEyMDkxNmF0RDN6My5qcGciLCJ0aXRsZSI6IkJlcm5hcmRvIFZlcmdhcmEiLCJzdW1tYXJ5IjoiVGlyYSBjw7NtaWNhIGRpYXJpYSBjcmVhZGEgcG9yIEJlcm5hcmRvIFZlcmdhcmEgZW4gRWwgRGlhcmlvLmVzLiIsInRlbXBsYXRlIjoiZGVmYXVsdCJ9&#8243;]
+
+  * [_El Jueves_][6]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL2VsanVldmVzIiwiaW1hZ2VfaWQiOi0xLCJpbWFnZV91cmwiOiJodHRwczovL3d3dy5lbGp1ZXZlcy5lcy9tZWRpby8yMDE4LzA1LzE0L3ZhbHRvbnljLWFuX2NiOWY4MTQyXzgyMXg1MjkuanBnIiwidGl0bGUiOiJWacOxZXRhIGRlbCBkw61hIiwic3VtbWFyeSI6IlZpc3RvIHkgbm8gdmlzdG8hIiwidGVtcGxhdGUiOiJkZWZhdWx0In0=&#187;]
+
+  * [_El País_][7]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL2VscGFpc3ZpbmV0YXMiLCJpbWFnZV9pZCI6LTEsImltYWdlX3VybCI6Imh0dHBzOi8vZWxwYWlzLmNvbS9lbHBhaXMvaW1hZ2VuZXMvMjAxMi8wMi8wNy92aW5ldGFzLzEzMjg2NDUzNjBfMDg1MjYwXzEzMjg2NDU0NzJfbWluaWF0dXJhX25vcm1hbC5qcGciLCJ0aXRsZSI6IkxhcyBWacOxZXRhcyBkZSBFTCBQQcONUyIsInN1bW1hcnkiOiJMYXMgdmnDsWV0YXMgZGlhcmlhcyBkZSBGb3JnZXMsIFBlcmlkaXMsIEVsIFJvdG8sIFJhbcOzbiB5IEVybGljaCBlbiBFTCBQQcONUy4iLCJ0ZW1wbGF0ZSI6ImRlZmF1bHQifQ==&#187;]
+
+  * [_20 Minut_ &#8211; _Eneko_][8]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL2VuZWtvIiwiaW1hZ2VfaWQiOi0xLCJpbWFnZV91cmwiOiJodHRwczovL2NkbmIuMjBtLmVzL3NpdGVzLzUxLzIwMTcvMTAvc2FuY2hvLTA1My03Mi1iYW5kZXJhLmpwZyIsInRpdGxlIjoiRW4gMjAgbWludXRvcyBwb3IgRW5la28iLCJzdW1tYXJ5IjoiVmnDsWV0YSBjw7NtaWNhIGRpYXJpYSBwdWJsaWNhZGEgZW4gZWwgZGlhcmlvIDIwIG1pbnV0b3MgY3JlYWRhIHBvciBFbmVrbyIsInRlbXBsYXRlIjoiZGVmYXVsdCJ9&#8243;]
+
+  * [_Diario de Navarra_ &#8211; _Oroz_][9]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL29yb3oiLCJpbWFnZV9pZCI6LTEsImltYWdlX3VybCI6Imh0dHBzOi8vd3d3LmxhdGlyYWRlb3Jvei5lcy8iLCJ0aXRsZSI6IkJpZW52ZW5pZG9zIGEgbGEgd2ViIGRlIENlc2FyIE9yb3ouIERpYnVqYW50ZSIsInN1bW1hcnkiOiJUaXJhIGRlIGFjdHVhbGlkYWQgcGFyYSBEaWFyaW8gZGUgTmF2YXJyYSwgcGVyacOzZGljbyBlZGl0YWRvIGVuIFBhbXBsb25hIHkgZGVjYW5vIGRlIGxhIHByZW5zYSBuYXZhcnJhIiwidGVtcGxhdGUiOiJkZWZhdWx0In0=&#187;]
+
+## Blog´s sobre Asturias
+
+
+
+  * [Gijón en el Recuerdo][10]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL0dpam9uUmVjdWVyZGEiLCJpbWFnZV9pZCI6LTEsImltYWdlX3VybCI6Imh0dHA6Ly9naWpvbmVuZWxyZWN1ZXJkby5lbGNvbWVyY2lvLmVzL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzEyL2ZlbGljaXRhY2klQzMlQjNuLTIwMTktNjAweDQyNy5qcGciLCJ0aXRsZSI6IkdpasOzbiBlbiBlbCByZWN1ZXJkbyIsInN1bW1hcnkiOiJHaWrDs24gZW4gZWwgUmVjdWVyZG8uIEVsIEdpasOzbiBkZSBudWVzdHJvcyBhbnRlcGFzYWRvcy4gRWwgR2lqw7NuIGRlIG51ZXN0cmEgdmlkYSwgcXVlIGVsIHRpZW1wbywgcGVybyBubyBlbCBvbHZpZG8sIHNlIGxsZXbDsy4iLCJ0ZW1wbGF0ZSI6ImRlZmF1bHQifQ==&#187;]
+
+## Noticias Asturias
+
+  * [RTPA][11]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL3JhZGlvdGVsZXZpc2lvbmFzdHVyaWFzIiwiaW1hZ2VfaWQiOi0xLCJpbWFnZV91cmwiOiJodHRwczovL3d3dy5ydHBhLmVzL3YzX2Fzc2V0cy9sb2dvLXJ0cGEtdG9wLTA2MC5zdmciLCJ0aXRsZSI6IlJUUEEgUmFkaW90ZWxldmlzacOzbiBkZWwgUHJpbmNpcGFkbyBkZSBBc3R1cmlhcyIsInN1bW1hcnkiOiIiLCJ0ZW1wbGF0ZSI6ImRlZmF1bHQifQ==&#187;]
+
+## Libros sobre Asturias
+
+  * [La Balada del Norte 1][12] de [Alfonso Zapico][13]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL0xhQmFsYWRhRGVsTm9ydGUxIiwiaW1hZ2VfaWQiOi0xLCJpbWFnZV91cmwiOiJodHRwczovL3d3dy5hc3RpYmVycmkuY29tL3NwcmVlL3Byb2R1Y3RzLzUxMC9wcm9kdWN0L2xhYmFsYWRhZGVsbm9ydGUuanBnPzE0MzI3Mjc3NjIiLCJ0aXRsZSI6IkFsZm9uc28gWmFwaWNvIHByZXNlbnRhIExhIGJhbGFkYSBkZWwgbm9ydGUgZW4gQmFyY2Vsb25hLCBaYXJhZ296YSwgTWFkcmlkIHkgQmlsYmFvIFZlciBub3RpY2lhIE5vdmVkYWRlcyBkZSBBc3RpYmVycmkgwrcgTWFyem8gMjAxNSBWZXIgbm90aWNpYSIsInN1bW1hcnkiOiJNYWRyaWQsIDE5MzMuIFRyaXN0w6FuIFZhbGRpdmlhLCBwZXJpb2Rpc3RhIHNpbiBwZXJpw7NkaWNvLCBlZGl0b3Igc2luIMOpeGl0byB5IGFtYW50ZSBzaW4gaWx1c2nDs24sIGFiYW5kb25hIGxhIGNhcGl0YWwgcGFyYSB2b2x2ZXIgYWwgbm9ydGUuIEFsbMOtIGxlIGVzcGVyYSBzdSBwYWRyZSwgZWwgbWFycXXDqXMgZGUgTW9udGVjb3J2by4gU29uIHRpZW1wb3MgZGlmw61jaWxlcyBwYXJhIGVsIHBhw61zLCBpbm1lcnNvIGVuIGxhcyBjb252dWxzaW9uZXMgZGUgbGEgSUkgUmVww7pibGljYSwgeSBlbCB2aWVqbyBhcmlzdMOzY3JhdGEgLi4uIiwidGVtcGxhdGUiOiJkZWZhdWx0In0=&#187;]
+
+  * [La Balada del Norte 2][14]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL0xhQmFsYWRhRGVsTm9ydGUyIiwiaW1hZ2VfaWQiOi0xLCJpbWFnZV91cmwiOiJodHRwczovL3d3dy5hc3RpYmVycmkuY29tL3NwcmVlL3Byb2R1Y3RzLzI2NDEvcHJvZHVjdC9sYWJhbGFkYWRlbG5vcnRlMi5qcGc/MTQ4OTEzNjE3OCIsInRpdGxlIjoiTGEgYmFsYWRhIGRlbCBub3J0ZS4gVG9tbyAyIiwic3VtbWFyeSI6Ik92aWVkbywgMTkzNC4gVW5hIGh1ZWxnYSBnZW5lcmFsIHJldm9sdWNpb25hcmlhIGVzdGFsbGEgbGEgbm9jaGUgZGVsIDUgZGUgb2N0dWJyZSB5IHN1bWUgYSB0b2RvIGVsIHBhw61zIGVuIHVuIHByb2Z1bmRvIGNhb3MuIFRyaXN0w6FuIFZhbGRpdmlhLCBxdWUgaGFiw61hIHZ1ZWx0byBlbmZlcm1vIGRlc2RlIE1hZHJpZCBhIGxhIGNhc2EgcGF0ZXJuYSwgYnVzY2EgcmVmdWdpbyBlbiBsYSBjYXBpdGFsLCBtaWVudHJhcyBsb3Mgc3VibGV2YWRvcyBhdmFuemFuIGFycmFzYW5kbyB0b2RvIGEgc3UgcGFzby4gTGEgY2l1ZGFkIC4uLiIsInRlbXBsYXRlIjoiZGVmYXVsdCJ9&#8243;]
+
+## Servicios del Principado de Asturias
+
+  * [Biblioteca del Principado de Asturias][15]
+
+[visual-link-preview encoded=&#187;eyJ0eXBlIjoiZXh0ZXJuYWwiLCJwb3N0IjowLCJwb3N0X2xhYmVsIjoiIiwidXJsIjoiaHR0cHM6Ly9lbGJvLmluL2JpYmxpb3RlY2Fhc3R1cmlhcyIsImltYWdlX2lkIjotMSwiaW1hZ2VfdXJsIjoiaHR0cHM6Ly9hYnN5cy5hc3R1cmlhcy5lcy9hYm5ldGJwL2ltYWcvbG9nb19sb2dpbjEucG5nIiwidGl0bGUiOiJCdXNjYWRvciBkZSBsYSBCaWJsaW90ZWNhIGRlIEFzdHVyaWFzIiwic3VtbWFyeSI6IiIsInRlbXBsYXRlIjoiZGVmYXVsdCJ9&#8243;]
+
+* * *
+
+### Última Actualización a 02/01/2019.
+
+* * *
+
+
+   
+&#8212;
+
+
+  
+
+
+![Web de Mundo Framework. Noticias de programacion gratis y criptomonedas desde Asturias para el mundo con amor, por @rosepac][16]
+
+
+  @rosepac & @twitter & facebook & adobe stock & donativo & pixabay
+
+
+ [1]: https://elbo.in/lnehumor
+ [2]: https://elbo.in/federatas
+ [3]: https://elbo.in/elsacapuntas
+ [4]: https://elbo.in/fontdevila
+ [5]: https://elbo.in/vergara
+ [6]: https://elbo.in/eljueves
+ [7]: https://elpais.com/tag/c/ec7a643a2efd84d02c5948f7a9c86aa7
+ [8]: https://elbo.in/eneko
+ [9]: https://elbo.in/oroz
+ [10]: https://elbo.in/GijonRecuerda
+ [11]: https://elbo.in/radiotelevisionasturias
+ [12]: https://elbo.in/LaBaladaDelNorte1
+ [13]: https://elbo.in/AlfonsoZapico
+ [14]: https://elbo.in/LaBaladaDelNorte2
+ [15]: https://elbo.in/bibliotecaasturias
+ [16]: https://image.ibb.co/iTckvT/mundo-framework-1350x167-steemit.png

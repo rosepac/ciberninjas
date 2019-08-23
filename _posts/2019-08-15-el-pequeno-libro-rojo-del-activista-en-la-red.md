@@ -1,7 +1,7 @@
 ---
 author_profile: false
 title: "🔐 El Pequeño Libro Rojo del Activista en la Red"
-comments: false
+comments: true
 date: 2019-08-15 07:55:54
 tags:
 - Libro

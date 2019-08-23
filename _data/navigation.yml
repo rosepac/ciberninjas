@@ -1,6 +1,6 @@
 main:
-#  - title: "Biblias"
-#    url: /categoria/#biblia
+  - title: "Guías"
+    url: /guias/
   - title: "Glosario"
     url: /glosario/
   - title: "Categorías"

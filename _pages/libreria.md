@@ -5,13 +5,14 @@ excerpt: "📚 La Librería de Libros Recomendados Más Completa de Tecnología 
 permalink: /libreria/
 ---
 
-
-La Librería de Ciberninjas
-
 Todos los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la página web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos más recursos
 {: .notice--warning}
 
 ## Librería de Tecnología
+
+### Redes y Administración
+- Superficiales: ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) [Ebook](https://amzn.to/2KORsur)
+
 ### Seguridad Informática
 - El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA) [Saber Más](/el-arte-de-la-invisibilidad/)
 - El enemigo conoce el sistema [Tapa Blanda](https://amzn.to/2Z46eBx) [Ebook](https://amzn.to/2Z1YfEV)
