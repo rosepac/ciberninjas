@@ -15,7 +15,7 @@ permalink: /catalogo/que-hace-internet-con-nuestras-mentes/
 description: "Superficiales, ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
 excerpt: "Superficiales, ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
 header:
-  overlay_image: /assets/images/catalogo/que-hace-internet-nuestras-mentes.jpg
+  overlay_image: /assets/images/catalogo/que-hace-internet.jpg
   image_description: "Qué hace internet con nuestras mentes, en inglés: The Shallows. Libro recomendado por el presidente Barack Obama"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Amazon**"
@@ -30,8 +30,8 @@ toc_icon: user-ninja
 toc_sticky: true
 sidebar:
   - title: "Autor"
-    image: /assets/images/catalogo/que-hace-internet-nuestras-mentesx250.jpg
-    image_alt: "Qué hace internet con nuestras mentes, en inglés The Shallows; Libro recomendado por el presidente Barack Obama"
+    image: /assets/images/catalogo/que-hace-internet-250x360.jpg
+    image_alt: "Qué hace internet con nuestras mentes, en inglés The Shallows. Libro recomendado por el presidente Barack Obama"
     text: "Nicholas Carr"
   - title: "Precio Papel"
     text: "18,52 €"
