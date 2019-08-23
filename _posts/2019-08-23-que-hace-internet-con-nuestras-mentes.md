@@ -12,15 +12,15 @@ categories:
 - Neuropsicología
 - Redes y Administración
 permalink: /catalogo/que-hace-internet-con-nuestras-mentes/
-description: "Superficiales: ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
-excerpt: "Superficiales: ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
+description: "Superficiales, ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
+excerpt: "Superficiales, ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
 header:
   overlay_image: /assets/images/catalogo/que-hace-internet-nuestras-mentes.jpg/
-  image_description: "Qué hace internet con nuestras mentes, en inglés The Shallows; Libro recomendado por el presidente Barack Obama"
+  image_description: "Qué hace internet con nuestras mentes, en inglés The Shallows. Libro recomendado por el presidente Barack Obama"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Amazon**"
   actions:
-    - label: "+ SEGURIDAD INFORMÁTICA"
+    - label: "+ NEUROPSICOLOGÍA"
       url: "/categoria/#seguridad-inform%C3%A1tica"
     - label: "🛒 COMPRAR"
       url: "https://amzn.to/2ZiH6ao"
@@ -84,6 +84,14 @@ Nicholas Carr es el autor del finalista del Premio Pulitzer: The Shallows, el é
 - Los precios NO INCLUYEN gastos de envío.
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=premium&banner=1E7ZEBFW3E0G3W1WXZ82&f=ifr&linkID=36c6741f8667c2eb2286cb8ca0062ecb&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
+
+## 🎁 Muestra Gratis
+
+- Requiere <a href="https://amzn.to/33BY1rO" target="_blank" title="Aplicaciones gratis para cualquier tipo de dispositivo que permiten leer los documentos de Kindle">App Gratis</a> o <a href="https://read.amazon.com">Registro Kindle Cloud Reader</a>
+
+<center><a href="https://leer.amazon.es/?asin=B00634EWG0" target="_blank" class="btn btn--danger btn--large" title="Leer muestra totalmente gratis del libro: Que hace Internet con nuestras mentes">👓 LEE EXTRACTO GRATIS</a></center>
+
+<center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=kindle_unlimited&banner=0PYAB72K9B5NAJAM0H82&f=ifr&linkID=caea859e44b57ca1e1ab932433cdda90&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
 ## 💖 Comprar Libro
 
