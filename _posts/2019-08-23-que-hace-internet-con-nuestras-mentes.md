@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: "Superficiales: ¿Qué está haciendo Internet con nuestras mentes?"
+title: "🧠 Superficiales: ¿Qué está haciendo Internet con nuestras mentes?"
 comments: true
 date: 2019-08-23 02:08:55
 tags:
@@ -36,7 +36,7 @@ sidebar:
   - title: "Precio Papel"
     text: "18,52 €"
   - title: "Precio Ebook"
-    text_ "9,49"
+    text: "9,49"
     nav: catalogo
     
 ---
