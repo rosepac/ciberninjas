@@ -15,7 +15,7 @@ header:
   overlay_image: /assets/images/obama-leyendo.jpg
   overlay_filter: "0.2"
   image_description: "Barack Obama"
-  caption: "**Créditos**: [Obama White House](https://www.flickr.com/photos/obamawhitehouse/8109908571) es una [Obra del Gobierno de Estados Unidos](https://www.usa.gov/government-works) bajo sus propidas condiciones de [licencia](https://www.usa.gov/government-works)"
+  caption: "**Créditos**: [Obama White House](https://www.flickr.com/photos/obamawhitehouse/8109908571), es una [Obra del Gobierno de Estados Unidos](https://www.usa.gov/government-works) bajo sus propidas condiciones de [licencia](https://www.usa.gov/government-works)"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -29,9 +29,9 @@ El ex-presidente publicó una lista de los libros que ha estado leyendo a lo lar
 
 Morrison, quien murió el 5 de agosto a la edad de 88 años, escribió varias novelas reconocidas, que incluyen entre otros títulos: “The Bluest Eye”, “Song of Solomon” y “Beloved”. El propio Obama, no duda en recalcar que no te arrepentirás de leer las escrituras de Morrison, en 2012, aún siendo presidente de los EE.UU. Le otorgó a Morrison la Medalla Presidencial de la Libertad.
 
-Además, el ex presidente cita múltiples libros y cuentos más; recomendandoselos así, a sus decenas de millones de seguidores en sus redes sociales y acto seguido te muestro la lista completa de las recomendaciones de Obama para lo que queda de verano y del año 2019.
-
 ## Recomendaciones Culturales de Obama 2019
+
+Además del citado autor, el ex presidente cita múltiples libros y cuentos más; recomendandoselos así, a sus decenas de millones de seguidores en sus redes sociales y acto seguido te muestro la lista completa de las recomendaciones de Obama para lo que queda de verano y del año 2019.
 
 ### [Obras Completas de Toni Morrison](https://amzn.to/2MziuIA)
 Por desgracia en español, no podemos encontrar estas Obras Completas como tal; en su defecto, tenemos la posibilidad de lograr varios de sus [títulos más importantes](/libreria#toni-morrison).
