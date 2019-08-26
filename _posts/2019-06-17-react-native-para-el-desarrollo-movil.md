@@ -1,24 +1,25 @@
 ---
 author_profile: false
-title: "🔐 El Enemigo Conoce el Sistema"
+title: "👩‍💻 React Native para el Desarrollo Móvil"
 comments: true
-date: 2019-08-14 20:24:54
+date: 2019-06-17 20:24:54
 tags:
 - Libro
-- Debate (Editorial)
-- Marta Peirano
+- LeanPub
+- Abhishek Nalwaya
+- Akshat Paul
+- Apress
 categories:
 - Catálogo
-- Seguridad Informática
-- Ciencias Informáticas
-- Redes y Administración
-- Red e Internet
-permalink: /catalogo/el-enemigo-conoce-el-sistema/
-description: "El enemigo conoce el sistema: Manipulación de ideas, personas e influencias después de la economía de la atención de Marta Peirano"
-excerpt: "El enemigo conoce el sistema: Manipulación de ideas, personas e influencias después de la economía de la atención de Marta Peirano"
+- Framework Apps
+- React Native
+permalink: /catalogo/react-native-para-el-desarrollo-movil/
+published: false
+description: "🚀 React Native para el Desarrollo Móvil de Abhishek Nalwaya y Akshat Paul"
+excerpt: "🚀 React Native para el Desarrollo Móvil de Abhishek Nalwaya y Akshat Paul"
 header:
   overlay_image: /assets/images/catalogo/el-enemigo-conoce-el-sistemaxgrande.jpg
-  image_description: "El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención | Ciberninjas"
+  image_description: "React Native para el Desarrollo Móvil | Ciberninjas"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Amazon**"
   actions:
@@ -33,8 +34,8 @@ toc_sticky: true
 sidebar:
   - title: "Autora"
     image: /assets/images/catalogo/el-enemigo-conoce-el-sistemax250.jpg
-    image_alt: "El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención: Ciberninjas"
-    text: "Marta Peirano"
+    image_alt: "React Native para el Desarrollo Móvil: Ciberninjas"
+    text: "Abhishek Nalwaya y Akshat Paul"
   - title: "Precio Papel"
     text: "17,00 €"
   - title: "Precio Digital / Kindle"
@@ -68,11 +69,11 @@ Solo así podremos convertirla en lo que más falta nos hace: una herramienta pa
 
 ## ✍ Biografía del Autor
 
-Marta Peirano es periodista. Fundó las secciones de Cultura de ADN y eldiario.es, donde ha sido jefa de Cultura y Tecnología y adjunta al director, además de haber sido codirectora de Copyfight y cofundadora de Hack Hackers Berlin y de Cryptoparty Berlin.
+Abhishek Nalwaya y Akshat Paul es periodista. Fundó las secciones de Cultura de ADN y eldiario.es, donde ha sido jefa de Cultura y Tecnología y adjunta al director, además de haber sido codirectora de Copyfight y cofundadora de Hack Hackers Berlin y de Cryptoparty Berlin.
 
 Ha escrito libros sobre autómatas, sistemas de notación y un ensayo sobre vigilancia y criptografía llamado: [El Pequeño Libro Rojo del Activista en la Red](/catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/ "El pequeño libro rojo del activista en la red: todo lo que no quieres pero necesitas saber sobre el poder, la economía, la sociedad y las telecomunicaciones en la era de la información."), con un prólogo escrito por el mismo: Edward Snowden.
 
-Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigilan-si-no-soy-nadie/ "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano..")», supera ya los dos millones de visitas. Se la puede ver en los debates de radio y televisión hablando de vigilancia, infraestructuras, soberanía tecnológica, propaganda computacional y cambio climático.
+Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigilan-si-no-soy-nadie/ "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Abhishek Nalwaya y Akshat Paul..")», supera ya los dos millones de visitas. Se la puede ver en los debates de radio y televisión hablando de vigilancia, infraestructuras, soberanía tecnológica, propaganda computacional y cambio climático.
 
 ## 🕵️‍♂️ Índice del Libro
 
@@ -149,11 +150,11 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigila
 ## 💖 Comprar Libro
 
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">🛒 COMPRAR</a>-->
-<center><a href="https://amzn.to/2Z46eBx" class="btn btn--warning btn--large" title="Comprar El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención | Ciberninjas">📓 COMPRAR LIBRO</a></center>
+<center><a href="https://amzn.to/2Z46eBx" class="btn btn--warning btn--large" title="Comprar React Native para el Desarrollo Móvil | Ciberninjas">📓 COMPRAR LIBRO</a></center>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=gift_certificates&banner=0YM2726C1ESR66Q7QG02&f=ifr&linkID=b74ea8b6b0434619f53785a367d3de3d&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-<center><a href="https://amzn.to/2Z1YfEV" class="btn btn--warning btn--large" title="El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención | Ciberninjas">💻 VERSIÓN KINDLE</a></center>
+<center><a href="https://amzn.to/2Z1YfEV" class="btn btn--warning btn--large" title="React Native para el Desarrollo Móvil | Ciberninjas">💻 VERSIÓN KINDLE</a></center>
 
 <p><center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=0K8KMRM0NM2Y5A191Z02&f=ifr&linkID=211f5ada1acf9b558138a9115015fccc&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=1MY6V4BGBKF24MPVQ382&f=ifr&linkID=bc72cdf8c85667d9cf8d99ac40b234cf&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=fire_tablets&banner=09F0X29YE5A28P2Z02G2&f=ifr&linkID=99987810c2d699e6b1a4becf63ee659b&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle_oasis&banner=0NJNYNMJ9TB937AZFHG2&f=ifr&linkID=a42c1c2fd452f496c7105f18b28d8c61&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center></p>
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=kindlestore&banner=0P95N768FCV2P0732CG2&f=ifr&linkID=75656190f347ab8c55ea09e0b6f57418&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>

@@ -1,24 +1,23 @@
 ---
-layout: post
-title: >
-    Ninite, instalar o actualizar múltiples aplicaciones a la
-    vez
-published: false
+title: ⚒ Ninite, instalar o actualizar múltiples aplicaciones a la vez
+description: "¿Qué es Ninite? Ninite es un sistema de gestión de paquetes que ofrece la instalación automática de aplicaciones populares en el SO: Windows"
+excerpt: "¿Qué es Ninite? Ninite es un sistema de gestión de paquetes que ofrece la instalación automática de aplicaciones populares en el SO: Windows"
+published: true
 author: rosepac
 comments: true
 date: 2019-06-20 11:06:39
-tags:
-    - Instalador
-    - Múltiple
-categories:
-    - sistemas-de-gestion-de-paquetes
-    - software
-    - software-de-instalacion
-permalink: /ninite
-image:
-    feature: ninite-ciberninjas.jpg
+last_modified_at: 2019-08-26
+permalink: /ninite/
+header:
+  image: "/assets/images/ninite-ciberninjas.jpg"
+  image_description: "Ninite: Sistema de Gestión o Instalador Múltiple 👨‍💻 de Paquetes, Programas y Aplicaciones en Windows | Ciberninjas"
+  caption: "**Créditos**: Logo Ninite + Edición Propia"
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true    
 ---
-[toc]
+
 
 ## 👨‍💻 ¿Qué es Ninite?
 
@@ -54,30 +53,30 @@ Ninite comprueba las versiones de la aplicación antes de descargar e instalar e
 
 La página de descarga del instalador que se muestra (después de hacer clic en &#171;Obtener Instalador&#187;) es una URL permanente o enlace permanente; puedes copiarlo y enviarlo para compartir fácilmente un instalador Ninite.
 
-Por ejemplo para instalar el siempre socorrido, Bloc de Notas Notepad++: [Instalador del Bloc de Notas: Notepad++][1]
+Por ejemplo para instalar el siempre socorrido, Bloc de Notas Notepad++: [Instalador del Bloc de Notas: Notepad++](https://ninite.com/notepadplusplus)
 
 Podríamos usar este tipo de enlaces para comprobar y mantener actualizados los software más comunes, por ejemplo algunos paquetes de software interesantes posibles podrían ser.
 
 Para un usuario de ofimática principiante o no habitual de la PC:
   
-+ Chrome, Malwarebytes, Spybot, Skype, Glary, VLC, Codecs K-Lite, Spotify, .NET 4.8, Dropbox, XnView, WinRAR, Foxit Reader: [Instalador de los Software Anteriormente Citado][2]
+- Chrome, Malwarebytes, Spybot, Skype, Glary, VLC, Codecs K-Lite, Spotify, .NET 4.8, Dropbox, XnView, WinRAR, Foxit Reader: [Instalador de los Software Anteriormente Citado](https://ninite.com/.net4.8-chrome-dropbox-foxit-glary-klitecodecs-malwarebytes-skype-spotify-spybot2-vlc-winrar-xnview)
 
 Para los amantes del Software y Código Libre:
   
-+ Firefox, Pidgin, Thunderbird, Notepad++, Filezilla, VLC, ShareX, 7-Zip, LibreOffice, SumatraPDF, Everything: [Instalador del Listado Anterior][3]
+- Firefox, Pidgin, Thunderbird, Notepad++, Filezilla, VLC, ShareX, 7-Zip, LibreOffice, SumatraPDF, Everything: [Instalador del Listado Anterior](https://ninite.com/7zip-everything-filezilla-firefox-gimp-libreoffice-notepadplusplus-pidgin-sharex-sumatrapdf-thunderbird-vlc)
 
 Estos tipo de enlaces son excelentes para hacer soporte técnico remoto en ordenadores de amigos y familiares.
 
 ## 🏳 Selección de Idioma
 
 De forma predeterminada, los instaladores Ninite instalan las aplicaciones en el idioma actual del sistema operativo del usuario. Esto se puede anular con el comando modificador /locale; por ejemplo (para francés) ejecuta desde la consola o CMD:
-
+```
     [your ninite .exe] /locale fr-FR
-    
+```  
 
 Esto descarga e instala las aplicaciones en el idioma especificado. Para algunas aplicaciones, el idioma de la interfaz de usuario todavía tendrá que cambiarse manualmente en la configuración de la aplicación después de que se complete la instalación.
 
-Especifique el idioma y el código de país, por ejemplo, &#171;en-US&#187;, si deseas el idioma inglés. Las siglas usadas son las dos letras extraídas de la norma [ISO 639-1][4] equivalente al país correspondiente más las dos letras que correspondan al mismo país respecto a la norma [ISO 3166-1, Código Alfa 2][5] o lo que es lo mismo, al Código ISO de 2 letras asignado a ese país o territorio.
+Especifique el idioma y el código de país, por ejemplo, &#171;en-US&#187;, si deseas el idioma inglés. Las siglas usadas son las dos letras extraídas de la norma [ISO 639-1](https://es.wikipedia.org/wiki/ISO_639-1) equivalente al país correspondiente más las dos letras que correspondan al mismo país respecto a la norma [ISO 3166-1, Código Alfa 2](https://es.wikipedia.org/wiki/ISO_3166-1) o lo que es lo mismo, al Código ISO de 2 letras asignado a ese país o territorio.
 
 ## 🔐 Detalles de Seguridad
 
@@ -105,83 +104,66 @@ Diferenciados en las áreas de funcionamiento y trabajo siguientes:
 
 ### ⚒ Herramientas de Desarrollo
 
-  * Python, FileZilla, Notepad ++, JDK (AdoptOpenJDK) x64 8 y 11, JDK (AdoptOpenJDK) 8, JDK (Amazon Corretto) x64 8 y 11, JDK (Amazon Corretto) 8, WinSCP, PuTTY, WinMerge, Eclipse, Visual Studio Code
+- Python, FileZilla, Notepad ++, JDK (AdoptOpenJDK) x64 8 y 11, JDK (AdoptOpenJDK) 8, JDK (Amazon Corretto) x64 8 y 11, JDK (Amazon Corretto) 8, WinSCP, PuTTY, WinMerge, Eclipse, Visual Studio Code
 
 ### 🌐 Navegadores Web
 
-  * Chrome, Opera, Firefox
+- Chrome, Opera, Firefox
 
 ### 📞 Mensajería
 
-  * Discordia, Skype, Pidgin, Thunderbird, Trillian
+- Discordia, Skype, Pidgin, Thunderbird, Trillian
 
 ### 📻 Multimedia
 
-iTunes, VLC, AIMP, foobar2000, Winamp, MusicBee, Audacity, K-Lite Codec Pack, GOM, Spotify, CCCP, MediaMonkey, HandBrake
+- iTunes, VLC, AIMP, foobar2000, Winamp, MusicBee, Audacity, K-Lite Codec Pack, GOM, Spotify, CCCP, MediaMonkey, HandBrake
 
 ### 🔩 Tiempos de Ejecución
 
-Java (AdoptOpenJDK) x64 Versión 8 y 11, Java (AdoptOpenJDK) 8, .NET framework 4.8, Silverlight , Adobe Air
+- Java (AdoptOpenJDK) x64 Versión 8 y 11, Java (AdoptOpenJDK) 8, .NET framework 4.8, Silverlight , Adobe Air
 
 ### 📸 Diseño e Imágenes
 
-Krita, Blender, Paint.NET, GIMP, IrfanView, XnView, Inkscape, FastStone, Greenshot, ShareX
+- Krita, Blender, Paint.NET, GIMP, IrfanView, XnView, Inkscape, FastStone, Greenshot, ShareX
 
 ### 📃 Documentos
 
-Foxit Reader , LibreOffice , SumatraPDF , CutePDF , PDFCreator , OpenOffice
+- Foxit Reader, LibreOffice, SumatraPDF, CutePDF, PDFCreator, OpenOffice
 
 ### 🔓 Seguridad
 
-MS Essentials , Malwarebytes , Avast , AVG , Spybot 2, Avira , SUPERAntiSpyware
+- MS Essentials, Malwarebytes, Avast, AVG, Spybot 2, Avira, SUPERAntiSpyware
 
 ### 💞 Compartir Archivos
 
-qBittorrent
+- qBittorrent
 
 ### ☁ Almacenamiento en Línea
 
-Dropbox , Google Backup y Sync , OneDrive , SugarSync
+- Dropbox, Google Backup y Sync, OneDrive, SugarSync
 
 ### 🍬 Otros
 
-Evernote , Google Earth , Steam , KeePass 2, Todo , Acceso NV
+- Evernote, Google Earth, Steam, KeePass 2, Todo, Acceso NV
 
 ### 🛠 Utilidades
 
-TeamViewer 14, ImgBurn , RealVNC , TeraCopy , CDBurnerXP , Revo , Launchy , WinDirStat , Glary, InfraRecorder , Classic Start
+- TeamViewer 14, ImgBurn, RealVNC, TeraCopy, CDBurnerXP, Revo, Launchy, WinDirStat, Glary, InfraRecorder, Classic Start
 
 ### 💊 Compresión
 
-7-Zip , PeaZip , WinRAR
+- 7-Zip, PeaZip, WinRAR
 
 ## 👣 Ninite, Paso a Paso
 
 Por si algunos despistados aún no conocíais esta interesante aplicación, la veremos de forma breve y paso a paso.
 
-El uso de Ninite es sumamente sencillo, nada más debemos entrar en [su web][6] y allí podremos seleccionar los diferentes Software que deseamos de una amplia selección, para posteriormente; instalarlos todos desde un único **.EXE**.
+El uso de Ninite es sumamente sencillo, nada más debemos entrar en [su web](https://kutt.it/ninite_instalador_multiple) y allí podremos seleccionar los diferentes Software que deseamos de una amplia selección, para posteriormente; instalarlos todos desde un único **.EXE**.
 
 ![Selección de programas que deseamos instalar, en Ninite | Ciberninjas
-][7]
+](/assets/images/ninite-seleccion-programas.png)
 
 El **.EXE** descargado será el encargado de instalar los programas, tras un par de Click´s incluso podremos mantener esos mismos software actualizados utilizando ese mismo **.EXE** descargado pasado el tiempo.
 
-
-  
-    
-       Sitio Oficial
-    
-    
-    
-      Página Web
-    
-  
-
-
- [1]: https://ninite.com/notepadplusplus
- [2]: https://ninite.com/.net4.8-chrome-dropbox-foxit-glary-klitecodecs-malwarebytes-skype-spotify-spybot2-vlc-winrar-xnview
- [3]: https://ninite.com/7zip-everything-filezilla-firefox-gimp-libreoffice-notepadplusplus-pidgin-sharex-sumatrapdf-thunderbird-vlc
- [4]: https://es.wikipedia.org/wiki/ISO_639-1
- [5]: https://es.wikipedia.org/wiki/ISO_3166-1
- [6]: https://kutt.it/ninite_instalador_multiple
- [7]: https://cdn-images-1.medium.com/max/1200/1*7Ku-Ug4A86CtudRsgZ9XIw.png
+Sitio Web Oficial: [Página web oficial de Ninite dentro del instalador múltiple de programas dentro de Windows](https://kutt.it/ninite_instalador_multiple)
+{: .notice--info}
