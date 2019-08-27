@@ -71,8 +71,8 @@ radio:
 #     url: /categoria/#v%C3%ADdeo-videojuegos
 # Menu de lo seccion de los videotutoriales
 vtuto:
-  - title: "Seo"
-    url: /categoria/#v%C3%ADdeo-educaci%C3%B3n
+  - title: "Seo & Posicionamiento"
+    url: /categoria/#videotutorial-seo-y-posicionamiento
 #  - title: ""
 #  url: ///
 #  - title: 

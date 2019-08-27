@@ -1,7 +1,7 @@
 ---
-title: "📰 ¿Somos Cyborgs? Según Elom Musk, ya lo somos"
-description: '📰 ¿Somos Cyborgs? Según Elom Musk, ya lo somos'
-excerpt: '📰 ¿Somos Cyborgs? Según Elom Musk, ya lo somos'
+title: "📰 ¿Somos Cyborgs? Según Elon Musk, ya lo somos"
+description: '📰 ¿Somos Cyborgs? Según Elon Musk, ya lo somos'
+excerpt: '📰 ¿Somos Cyborgs? Según Elon Musk, ya lo somos'
 date: 2019-08-27
 published: true
 categories:
@@ -13,7 +13,7 @@ tags:
 - Cyborgs
 
 ---
-> 🤖 📰 ¿Somos Cyborgs? Según Elom Musk, ya lo somos
+> 🤖 📰 ¿Somos Cyborgs? Según Elon Musk, ya lo somos
 
 Uno de los temas que se discuten en esta entrevista en la que participa: Elon Musk; es si nos convertiremos en  cyborgs en el futuro; y al parecer Elon ya tiene claro que ¡Ya Somos Cyborgs!
 
