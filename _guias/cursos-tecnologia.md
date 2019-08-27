@@ -903,7 +903,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Compatibilidad y migración de aplicaciones en Windows](https://mva.microsoft.com/es-es/training-courses/compatibilidad-y-migracin-de-aplicaciones-en-windows-8811) (Microsoft Virtual Academy)
 - [Compresión de Active Directory](https://mva.microsoft.com/es-es/training-courses/comprensin-de-active-directory-8233) (Microsoft Virtual Academy)
 - [Compresión de vídeo (2017)](https://ocw.unican.es/course/view.php?id=13) (OCW)
-- [Conectando el futuro con fibra óptica](https://miriadax.net/web/conectando-el-futuro-con-fibra-optica-5-edicion-_prueba) (MiriadaX)
+- [Conectando el futuro con fibra óptica](https://miriadax.net/web/conectando-el-futuro-con-fibra-optica-11-edicion-/inicio) (MiriadaX)
 - [Desarrollo de sistemas de información (2013)](https://ocw.unican.es/course/view.php?id=99) (OCW)
 - [Desarrollo de sistemas de información corporativos (2008)](http://ocw.uc3m.es/ingenieria-informatica/desarrollo-de-sistemas-de-informacion-corporativos) (OCW)
 - [Desarrollo de sistemas de información corporativos (2012)](http://ocw.uc3m.es/ingenieria-informatica/desarrollo-de-sistemas-de-informacion-corporativos-1) (OCW)
