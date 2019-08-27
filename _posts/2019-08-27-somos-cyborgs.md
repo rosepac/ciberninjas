@@ -1,7 +1,7 @@
 ---
 title: "📰 ¿Somos Cyborgs? Según Elom Musk, ya lo somos"
-description: '🤖 📰 ¿Somos Cyborgs? Según Elom Musk, ya lo somos'
-excerpt: '🤖 📰 ¿Somos Cyborgs? Según Elom Musk, ya lo somos'
+description: '📰 ¿Somos Cyborgs? Según Elom Musk, ya lo somos'
+excerpt: '📰 ¿Somos Cyborgs? Según Elom Musk, ya lo somos'
 date: 2019-08-27
 published: true
 categories:
