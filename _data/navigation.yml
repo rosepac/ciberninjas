@@ -69,9 +69,9 @@ radio:
 #     url: /categoria/#v%C3%ADdeo-seguridad-inform%C3%A1tica
 #   - title: "🎮 Videojuegos Trailers"
 #     url: /categoria/#v%C3%ADdeo-videojuegos
-
+# Menu de lo seccion de los videotutoriales
 vtuto:
-  - title: "SEO"
+  - title: "Seo"
   url: /categoria/#v%C3%ADdeo-educaci%C3%B3n
 #  - title: ""
 #  url: ///

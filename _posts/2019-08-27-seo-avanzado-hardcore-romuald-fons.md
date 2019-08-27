@@ -20,13 +20,13 @@ sidebar:
 ---
 
 ## Índice
-Truco para posicionar sin enlaces y sin contenido
-Los secretos SEO de las Metas noindex y nofollow
-Cómo aumentar el tráfico de tu blog con las Meta Description
-Aumenta tu CTR a saco con los fragmentos destacados o featured snippets
-El CTR que si funciona
-Los enlaces NoFollow gastan PageRank
-Cómo aumentar en 15k. visitas al día con marketing de contenidos
-Enlaces EDU, GOV y medios con y sin fuerza
-¿Las notas de prensa penalizan?
-¿Cuál es el mejor enlace?
+- Truco para posicionar sin enlaces y sin contenido
+- Los secretos SEO de las Metas noindex y nofollow
+- Cómo aumentar el tráfico de tu blog con las Meta Description
+- Aumenta tu CTR a saco con los fragmentos destacados o featured snippets
+- El CTR que si funciona
+- Los enlaces NoFollow gastan PageRank
+- Cómo aumentar en 15k. visitas al día con marketing de contenidos
+- Enlaces EDU, GOV y medios con y sin fuerza
+- ¿Las notas de prensa penalizan?
+- ¿Cuál es el mejor enlace?
