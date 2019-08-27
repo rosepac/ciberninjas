@@ -1028,11 +1028,13 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Publicidad en Google - Ads, Youtube, Waze, Adwords Express](https://www.udemy.com/andresbrachetta-ecosistema-publicitario-google) (Udemy)
 - [Publicidad en línea. Campañas en Facebook y Adwords](https://miriadax.net/web/publicidad-en-linea-campanas-en-facebook-y-adwords-2-edicion-) (MiriadaX)
 - [Redacción en Internet](https://miriadax.net/web/redaccion-en-internet-2-edicion-) (MiriadaX)
-- [SEO. Posicionamiento natural en buscadores](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-2-edicion-) (MiriadaX)
 - [Super Networking: Networking personal para principiantes](https://www.udemy.com/networking-personal-y-habilidades-sociales-para-tener-exito) (Udemy)
 - [Vídeo Marketing para emprendedores](https://www.youtube.com/playlist?list=PL694C136868F3BABD) (Carla Delgado, YouTube)
-- [Youtube Premium: youtubeSEO tips más crear vídeos profesionales](https://www.udemy.com/como-ganar-dinero-en-youtube-seo-bonos-como-hacer-videos) (Udemy)
 - [Zoho Campañas: crea tus propias campañas de Marketing](https://www.udemy.com/zoho-campaigns-crea-tus-propias-campanas-de-marketing) (Udemy)
 - [Zoho CRM Admin: aprende a gestionar tus ventas exitosamente](https://www.udemy.com/zoho-crm-admin-aprende-a-gestionar-tus-ventas-exitosamente) (Udemy)
 - [Zoho CRM App: gestiona tus clientes desde tu móvil](https://www.udemy.com/zoho-crm-mobile-app-gestiona-tus-clientes-desde-tu-movil) (Udemy)
 - [Zoho CRM Usuario: gestiona tus procesos en ventas con éxito](https://www.udemy.com/zoho-crm-usuario-gestiona-tus-procesos-de-ventas-con-exito) (Udemy)
+
+### SEO y Posicionamiento
+- [Curso de SEO (fácil e intermedio)](https://www.youtube.com/playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW) (Youtube)
+- [SEO. Posicionamiento natural en buscadores](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-2-edicion-) (MiriadaX)
