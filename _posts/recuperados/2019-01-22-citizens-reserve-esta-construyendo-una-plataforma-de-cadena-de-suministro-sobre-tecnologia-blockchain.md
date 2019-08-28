@@ -1,28 +1,19 @@
 ---
-layout: post
-title: >
-    Citizens Reserve, está construyendo una plataforma de
-    cadena de suministro sobre tecnología blockchain
-published: false
+title: "📰 Citizens Reserve: Construye una plataforma de cadena de suministro sobre tecnología blockchain"
+excerpt: "🏗 Citizens Reserve: Construye una plataforma de cadena de suministro sobre tecnología blockchain"
+description: "🏗  Citizens Reserve: Construye una plataforma de cadena de suministro sobre tecnología blockchain"
+published: true
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-22 05:01:30
 tags:
-    - blockchain
-    - bloques
-    - cadena
-    - fábrica
-    - fabricación
-    - industria
-    - nuevas
-    - tecnología
+- Actualidad
+- Industria
 categories:
-    - blockchain
-    - blog
-permalink: >
-    /citizens-reserve-esta-construyendo-una-plataforma-de-cadena-de-suministro-sobre-tecnologia-blockchain
+- Blockchain
+permalink: /citizens-reserve-esta-construyendo-una-plataforma-de-cadena-de-suministro-sobre-tecnologia-blockchain
 ---
-[Citizens Reserve][1] , una empresa nueva del Área de la Bahía, tiene como objetivo principal el digitalizar la cadena de suministro. El otoño pasado, la compañía lanzó la versión Alpha de [Suku][2] , una cadena de suministro como plataforma de servicio basada en una cadena de bloques. Hoy, anunció una asociación con Smartrac, un fabricante de etiquetas RFID, con sede en Ámsterdam, como pieza clave de identidad para la plataforma.
+[Citizens Reserve](https://www.citizensreserve.com), una empresa nueva del Área de la Bahía, tiene como objetivo principal el digitalizar la cadena de suministro. El otoño pasado, la compañía lanzó la versión Alpha de [Suku](https://www.suku.world), una cadena de suministro como plataforma de servicio basada en una cadena de bloques. Hoy, anunció una asociación con Smartrac, un fabricante de etiquetas RFID, con sede en Ámsterdam, como pieza clave de identidad para la plataforma.
 
 Las empresas utilizan RFID para rastrear los productos desde el campo o la fábrica hasta el mercado. Eric Piscini, CEO de Citizens dice que esta asociación ayuda a resolver un apartado crucial de digitalización de la cadena de suministro. Proporciona una forma de rastrear los productos en su viaje al mercado y garantizar su procedencia, ya sea para asegurarse de que no se explotó la mano de obra en la producción o bien, para asegurarse de que se mantuvieron los estándares ambientales o de que los productos se almacenaron en las condiciones adecuadas para garantizar su frescura.
 
@@ -36,12 +27,5 @@ La compañía también está trabajando en otras asociaciones para ayudar a reso
 
 La compañía cuenta actualmente con 11 empleados en Los Gatos, California; y ha recaudado 11 millones de dólares, según Piscini.
 
-* * *
-
-**Fuente**: _[Techcrunch][3]_
-
-* * *
-
- [1]: https://www.citizensreserve.com/
- [2]: https://www.suku.world/
- [3]: https://techcrunch.com/2019/01/22/citizens-reserve-is-building-a-supply-chain-platform-on-the-blockchain/
+**Fuente**: [Techcrunch](https://techcrunch.com/2019/01/22/citizens-reserve-is-building-a-supply-chain-platform-on-the-blockchain)
+{: .notice--info}

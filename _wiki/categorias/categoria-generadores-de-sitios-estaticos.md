@@ -8,6 +8,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: false
 author_profile: false
+permalink: /categoria/generadores-de-sitios-web-estaticos
 
 ---
 Páginas pertenecientes a esta categoría: 3

@@ -1,4 +1,5 @@
 ---
+
 title: "Generador de Sitios Estáticos"
 description: "Generador de Sitios Estáticos (SSG)"
 excerpt: "Generador de Sitios Estáticos (SSG)"

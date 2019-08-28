@@ -37,7 +37,9 @@ Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un 
 * [Foro de Jekyll](https://talk.jekyllrb.com/ "El foro más grande que he encontrado sobre Jekyll")
 * [Buscador con Entradas sobre Jekyll](https://codeday.me/es/)
 * [WebJeda](https://blog.webjeda.com/optimize-jekyll-seo/) Muchos contenidos y entradas en relación a Jekyll.
-* [Enlaces nofollo en Jekyll - SEO](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/)
+* [Enlaces nofollow en Jekyll - SEO](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/)
+* [Crear desplegables](https://github.com/deepchar/deepchar.github.io) [1](https://github.community/t5/GitHub-Pages/Collapsible-markdown-inside-lt-details-gt-lt-summary-gt-lt/m-p/13838#M1090)
+* [Crear desplegables](https://github.com/deepchar/deepchar.github.io) [1](https://github.community/t5/GitHub-Pages/Collapsible-markdown-inside-lt-details-gt-lt-summary-gt-lt/m-p/13838#M1090)
 
 ## ✍ Cómo Publicar Con Jekyll
 
@@ -134,6 +136,12 @@ Un CMS o Gestor de Contenidos es un software creado para poder ayudarte a la hor
 En el caso de Jekyll, no es que existan grandes CMS, más si existen variopintas posibilidades de gestionarlo si es que no deseas introducirte demasiado a crear absolutamente todo desde cero.
 
 En mi caso, decidí utilizar [Forestry](https://www.forestry.io) puesto qu es gratuito y permite gestionar el contenido desde una interfaz totalmente minimalista; además de ofrecer la posibilidad de generar plantillas para las diferentes entradas futuras que se deseen ir realizando; a lo que denominan _front matter._
+
+
+[Soluciones de CMS para Jekyll](https://jekyllthemes.io/resources/jekyll-hosting-and-cms-solutions) en esta publicación puedes encontrar el mejor lugar para alojar tu sitio Jekyll o hacer que tu sitio web estático sea editable con estos excelentes servicios de administración de contenido.
+
+### CloudCannon
+* [El CMS en la Nube para Jekyll](https://cloudcannon.com/)
 
 ### Forestry, Enlaces Directos
 

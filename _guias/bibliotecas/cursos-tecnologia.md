@@ -6,10 +6,6 @@ excerpt: "🚀 Biblia de Cursos Online: Programación Web 👩‍💻 Seguridad 
 date: 2018-02-13T22:00:00.000+00:00
 last_modified_at: 2018-08-07T12:42:42-05:00
 permalink: /cursos-tecnologia/
-categories:
-- Biblia
-tags:
-- Cursos
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
 #   width: 1024
@@ -23,7 +19,7 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-Cursos sobre.. android, arduino, bases de datos, ciencias de la computación, comercio online, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster
+Cursos sobre: Android, arduino, bases de datos, ciencias de la computación, comercio online, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster
 
 He aquí un listado completo de todos los diferentes cursos existentes alrededor de las distintas plataformas Online de Cursos Web en Internet y en el idioma de español.
 

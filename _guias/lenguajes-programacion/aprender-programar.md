@@ -25,7 +25,7 @@ En esta lista encontramos los lenguajes que están más al alza entre los puesto
 
 Javascript - Python - Java - C # - Swift - Kotlin
 
-(imágenes con enlaces a las páginas de formación de cada lenguaje)
+<!-- (imágenes con enlaces a las páginas de formación de cada lenguaje) -->
 
 [expand title="Saber Más 🧐"]
 
