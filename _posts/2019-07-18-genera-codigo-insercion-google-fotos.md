@@ -8,7 +8,8 @@ author: rosepac
 comments: true
 date: 2019-07-18 05:07:26
 header:
-  image: '/assets/images/generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg'
+  overlay_image: /assets/images/generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg
+  overlay_filter: 0.2
   image_description: 'Generar código para insertar una imagen o fotografía de Google Photos | ROSEPAC'
   caption: "**Créditos**: Creación propia / ROSEPAC"
 tags:
@@ -29,7 +30,7 @@ Esta aplicación te ayudará de forma simple y sencilla. Abre cualquier imagen e
     <figcaption>Código generado en HTML para la inserción de las fotografías de Google Photos deseadas | ROSEPAC</figcaption>
 </figure>
 
-El resultado son, dos enlaces; uno directo a la imagen que podrás usar donde desees.
+El resultado son dos enlaces; uno directo a la imagen que podrás usar donde desees.
 
 ```
 https://lh3.googleusercontent.com/IvcnOZMASwgaXioLmAEU-mjkvKe9nYvrmEHRafUeMfr5PM5PBx5y3WL8gxxUvtFXZ7tSL18v8AhxJUh8FYZ8GjSLO3UEqjAilE1G5AlyGvIHHtAbhYDkmL5uvrIU0RJOT8IygUnqdA=w2400
