@@ -9,7 +9,7 @@ published: true
 author_profile: false
 ---
 
-Menú de los artículos de la Wikipedia faltos de traducción en español o de una traducción correcta.
+Índice de los artículos de la Wikipedia faltos de traducción en español o de una traducción correcta.
 
 ## Cibernética
 - [Ciborg](/wiki/ciborg)

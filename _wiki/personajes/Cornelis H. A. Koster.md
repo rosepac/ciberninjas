@@ -16,6 +16,8 @@ permalink: /wiki/cornelis-h-a-koster
 
 **Cornelis Hermanus Antonius " Kees " Koster** (nacido el 13 de julio de 1943 - 21 de marzo de 2013) era un informático holandés que era profesor en el Departamento de Informática de la Universidad Radboud Nijmegen en los Países Bajos.
 
+## Biografía
+
 Nacido en Haarlem , su familia se mudó a Yakarta después de la guerra. A los 11 años regresó a los Países Bajos por su cuenta. Después de estudiar en la Universidad de Amsterdam , trabajó en el Mathematisch Centrum (MC) en Amsterdam con Adriaan van Wijngaarden.
 
 Allí fue uno de los editores del Informe original sobre el lenguaje algorítmico ALGOL 68, siendo responsable del diseño de la transferencia de ALGOL 68, y fue el creador del lenguaje original de descripción del compilador (CDL). También es el creador de las gramáticas Affix, que son una variante de las gramáticas Van Wijngaarden. En cierto sentido, CDL es una gramática de afijo ejecutable determinista, mientras que Prolog es una gramática de afijo ejecutable no determinista (un enlace reconocido por los implementadores del intérprete original de Prolog).
@@ -56,13 +58,17 @@ El sistema LCS difiere de otros en que puede hacer uso de términos lingüístic
 
 
 ## Enlaces Externos
-Cornelis HA Koster
 
 Sitio Web: [http://phasar.nl/](http://phasar.nl/ "Página web de los estudios e intereses de investigación de Cornelis HA Koster")
 {: .notice--primary}
 
-**Categorías**: Informáticos Holandeses | Lenguajes de Programación Educativos
-{:.notice--primary}
+## Categorías
+
+Informáticos Holandeses
+{:.notice--success}
+
+Lenguajes de Programación Educativos
+{:.notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Cornelis HA Koster](https://en.wikipedia.org/wiki/Cornelis_H._A._Koster) de la Wikipedia en inglés, versión del  1 de julio de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Cornelis_H._A._Koster&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
 {: .notice--info}
