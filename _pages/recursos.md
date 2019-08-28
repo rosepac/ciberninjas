@@ -1,7 +1,7 @@
 ---
 title: 🛠 Recursos Recomendados
-description: 👷‍♂️ 🔨 Miles de Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La mejor caja de herramientas para desarrollador web y webmaster de todo Internet.
-excerpt: 👷‍♂️ 🔨 Miles de Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La mejor caja de herramientas para desarrollador web y webmaster de todo Internet.
+description: "👷‍♂️ 🔨 Cientos de Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La mejor caja de herramientas para desarrollador web y webmaster de todo Internet"
+excerpt: "👷‍♂️ 🔨 Cientos de Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La mejor caja de herramientas para desarrollador web y webmaster de todo Internet"
 published: false
 author: rosepac
 comments: true

@@ -52,12 +52,12 @@ exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
 # Excluido por peticion del buscador algoria
-exclude: [vendor]
+# exclude: [vendor]
 
 # Plugins (previously gems:)
 plugins:
