@@ -10,7 +10,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: true
 author_profile: false
-permalink: /cornelis-h-a-koster
+permalink: /wiki/cornelis-h-a-koster
 
 ---
 
