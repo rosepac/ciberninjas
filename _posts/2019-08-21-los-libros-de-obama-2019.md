@@ -38,16 +38,16 @@ Por desgracia en español, no podemos encontrar estas Obras Completas como tal; 
 
 Por ejemplo: [Beloved/ Amado](https://amzn.to/2L38unG), [La Canción de Salomón](https://amzn.to/2Mw2WFt), [Ojos Azules](https://amzn.to/2L0ITeT), [Sula](https://amzn.to/2NpiH0v) o [Paraíso](https://amzn.to/2MxjInE)
 
-<details>
-    <summary>Saber Más</summary>
-Toni Morrison (nacido Chloe Ardelia Wofford) fue un autor, editor y profesor estadounidense que ganó el Premio Nobel de Literatura de 1993 por ser un autor "que en las novelas caracterizadas por la fuerza visionaria y la importancia poética, da vida a un aspecto esencial de la realidad estadounidense".
-
-Sus novelas son conocidas por sus temas épicos, diálogos vívidos y personajes afroamericanos ricamente detallados; Entre las más conocidas se encuentran sus novelas The Bluest Eye , Song of Solomon y Beloved , que ganó el Premio Pulitzer de Ficción en 1988. En 2001 fue nombrada una de "Las 30 mujeres más poderosas de América" en "Ladies Home Journal".
-</details> 
-
 > "no puedes equivocarte leyendo o releyendo los trabajos recopilados de Toni Morrison"
 
 > Barack Obama
+
+<details>
+    <summary>Saber Más</summary>
+<p>Toni Morrison (nacido Chloe Ardelia Wofford) fue un autor, editor y profesor estadounidense que ganó el Premio Nobel de Literatura de 1993 por ser un autor "que en las novelas caracterizadas por la fuerza visionaria y la importancia poética, da vida a un aspecto esencial de la realidad estadounidense".</p>
+
+<p>Sus novelas son conocidas por sus temas épicos, diálogos vívidos y personajes afroamericanos ricamente detallados; Entre las más conocidas se encuentran sus novelas The Bluest Eye , Song of Solomon y Beloved , que ganó el Premio Pulitzer de Ficción en 1988. En 2001 fue nombrada una de "Las 30 mujeres más poderosas de América" en "Ladies Home Journal".</p>
+</details> 
 
 ### [The Nickel Boys de Colson Whitehead](https://amzn.to/2Nr7Q6i)
 En inglés, no se ha realizado traducción aún.
