@@ -44,6 +44,7 @@ Por ejemplo: [Beloved/ Amado](https://amzn.to/2L38unG), [La Canción de Salomón
 
 <details>
     <summary>Saber Más</summary>
+<br/>    
 <p>Toni Morrison (nacido Chloe Ardelia Wofford) fue un autor, editor y profesor estadounidense que ganó el Premio Nobel de Literatura de 1993 por ser un autor "que en las novelas caracterizadas por la fuerza visionaria y la importancia poética, da vida a un aspecto esencial de la realidad estadounidense".</p>
 
 <p>Sus novelas son conocidas por sus temas épicos, diálogos vívidos y personajes afroamericanos ricamente detallados; Entre las más conocidas se encuentran sus novelas The Bluest Eye , Song of Solomon y Beloved , que ganó el Premio Pulitzer de Ficción en 1988. En 2001 fue nombrada una de "Las 30 mujeres más poderosas de América" en "Ladies Home Journal".</p>
