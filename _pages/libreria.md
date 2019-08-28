@@ -1,17 +1,12 @@
 ---
-title: 📚 La Librería de Libros Recomendados Más Completa de Tecnología & Mucho Más
-description: "📚 La Librería de Libros Recomendados Más Completa de Tecnología & Mucho Más"
-excerpt: "📚 La Librería de Libros Recomendados Más Completa de Tecnología & Mucho Más"
+title: 📚 La Librería de Libros Recomendados
+description: "📚 La Librería de Libros Recomendados Más Completa & Mucho Más"
+excerpt: "📚 La Librería de Libros Recomendados Más Completa & Mucho Más"
 permalink: /libreria/
 ---
 
-Todos los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la página web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos más recursos
+Los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la página web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos más recursos
 {: .notice--warning}
-
-## Librería de Tecnología
-
-### Redes y Administración
-- Superficiales: ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) [Ebook](https://amzn.to/2KORsur)
 
 ### Seguridad Informática
 - El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA) [Saber Más](/el-arte-de-la-invisibilidad/)
@@ -20,7 +15,7 @@ Todos los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y ha
 - El pequeño libro rojo del activista en la red [Tapa Blanda](https://amzn.to/2YQharj) [Ebook](https://amzn.to/33uIgmt)
 - Web hacking 101: Cómo hacer dinero hackeando éticamente [Varios Formatos](https://leanpub.com/web-hacking-101-es)
 
-## Otros Autores y Bibliografías Completas
+## Autores de Novelas y Bibliografías Completas
 ### [Toni Morrison](#toni-morrison)
 - Bibliografía del Autor en Español [Obras Completas](https://amzn.to/2MziuIA)
 - El Origen de los Otros (ENSAYO) [Tapa Dura](https://amzn.to/2ZgN2kd)

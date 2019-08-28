@@ -13,7 +13,7 @@ header:
   overlay_filter: "0.2"
   image_description: "DS | Ciberninjas"
   caption: "**Créditos**: "
-
+permalink: /upsss/
 ---
 > RS
 
