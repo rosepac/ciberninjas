@@ -5,7 +5,7 @@ description:
 excerpt: "Enciclopedia de la tecnológia actualizada creada por ciberninjas"
 collection: wiki
 permalink: /wiki/
-published: false
+published: true
 author_profile: false
 ---
 

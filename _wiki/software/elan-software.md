@@ -1,14 +1,16 @@
 ---
 
 title: "Elan"
-description: "ELAN, lenguaje de programación educativo para aprender y enseñar programación sistemática"
-excerpt: "ELAN, lenguaje de programación educativo para aprender y enseñar programación sistemática"
+description: "ELAN, Lenguaje de programación educativo para aprender y enseñar programación sistemática"
+excerpt: "ELAN, Lenguaje de programación educativo para aprender y enseñar programación sistemática"
+date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: true
 author_profile: false
+permalink: /elan-software
 
 ---
 

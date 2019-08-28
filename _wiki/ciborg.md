@@ -1,10 +1,12 @@
 ---
+
 title: "Cíborg"
 description: "Cíborg"
 excerpt: "Cíborg"
-canonical_url: "https://en.wikipedia.org/wiki/Cyborg"
+date: 2019-08-28 09:07:07
 published: false
 author_profile: false
+
 ---
 
 

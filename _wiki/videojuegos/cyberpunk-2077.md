@@ -1,7 +1,16 @@
 ---
+
 title: "Cyberpunk 2077"
 description: "Cyberpunk 2077. De Ciberninjas, la Wikipedia Tecnológica"
 excerpt: "Cyberpunk 2077. De Ciberninjas, la Wikipedia Tecnológica"
+date: 2019-08-28 09:07:07
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
+published: false
+author_profile: false
+permalink: /cyberpunk-2077
 ---
 Cyberpunk 2077 es un próximo videojuego de rol desarrollado y publicado por CD Projekt , lanzado para Google Stadia , Microsoft Windows , PlayStation 4 y Xbox One el 16 de abril de 2020. Adaptado del juego de mesa de 1988 Cyberpunk 2020 , se establece cincuenta- siete años más tarde en la distópica Night City, un mundo abierto con seis regiones distintas. En unaperspectiva en primera persona , los jugadores asumen el papel del mercenario V personalizable, que puede alcanzar prominencia en piratería , maquinaria y combate. V tiene un arsenal de armas a distancia y opciones para el combate cuerpo a cuerpo.
 

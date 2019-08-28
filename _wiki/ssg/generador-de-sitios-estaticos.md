@@ -3,12 +3,14 @@
 title: "Generador de Sitios Estáticos"
 description: "Generador de Sitios Estáticos (SSG)"
 excerpt: "Generador de Sitios Estáticos (SSG)"
+date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: false
 author_profile: false
+permalink: /generador-de-sitios-estaticos
 
 ---
 Un generador de sitio estático o SSG - abreviatura del significado inglés: Static Site Generator - es un programa que genera un sitio web HTML como salida. Este sitio web HTML se sirve a través de su servidor web, igual que antiguamente. Esto generalmente se logra utilizando lenguajes de plantilla y código que separa el diseño del sitio web de su contenido y estilos.

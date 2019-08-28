@@ -7,10 +7,10 @@ author: rosepac
 comments: true
 date: 2019-01-22 05:01:30
 tags:
-- Actualidad
 - Industria
 categories:
 - Blockchain
+- Actualidad
 permalink: /citizens-reserve-esta-construyendo-una-plataforma-de-cadena-de-suministro-sobre-tecnologia-blockchain
 ---
 [Citizens Reserve](https://www.citizensreserve.com), una empresa nueva del Área de la Bahía, tiene como objetivo principal el digitalizar la cadena de suministro. El otoño pasado, la compañía lanzó la versión Alpha de [Suku](https://www.suku.world), una cadena de suministro como plataforma de servicio basada en una cadena de bloques. Hoy, anunció una asociación con Smartrac, un fabricante de etiquetas RFID, con sede en Ámsterdam, como pieza clave de identidad para la plataforma.

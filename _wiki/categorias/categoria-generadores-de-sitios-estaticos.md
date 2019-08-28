@@ -2,6 +2,7 @@
 title: "Generadores de Sitios Estáticos"
 description: "Categoría: Generadores de Sitios Estáticos (SSG)"
 excerpt: "Categoría: Generadores de Sitios Estáticos (SSG)"
+date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
