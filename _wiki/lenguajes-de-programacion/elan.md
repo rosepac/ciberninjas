@@ -24,11 +24,10 @@ El diseño del lenguaje se enfoca fuertemente en la programación estructurada y
 
 <details>
     <summary>CLICK ME</summary>
-<p>    
 ## yes, even hidden code blocks!
     
 Texto de Mierda xD
-</p></details>
+</details>
 
 Diseñador: CHA Koster (et al.)
 Desarrollador: Universidad Técnica de Berlín
