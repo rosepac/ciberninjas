@@ -1,7 +1,7 @@
 ---
-title: "🛒 Catálogo Completo de la Tienda Ciberninja"
-description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos Geeks"
-excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos Geeks"
+title: "🛒 Catálogo Completo de Nuestra Tienda Ciberninjas"
+description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
+excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 published: true
 author_profile: false
 toc: true
