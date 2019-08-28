@@ -14,10 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "es-ES"
-title: Escuela ▷ Ciberninjas
+title: Ciberninjas ▷ Escuela
 email: rosepac21@gmail.com
+url: "https://ciberninjas.com"
 description: >- # this means to ignore newlines until "baseurl:"
   La Biblia de las Guías de la Programación y los Framework de las Nuevas Tecnologías. Biblioteca de libros, cursos, frameworks, librerías, aplicaciones, recursos y herramientas.
+# baseurl: 
+repository: "rosepac/ciberninjas"
+logo: "/assets/images/logos/ciberninjas_avatar_88x88.png"
+masthead_title: "Ciberninjas"
 twitter_username: ciberaprendiz
 github_username: rosepac
 minimal_mistakes_skin: default # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise, 
