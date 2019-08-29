@@ -38,7 +38,7 @@ algolia:
     # - _posts/2017-11-28-post-exclude-search.md
 
 # Build settings
-markdown: kramdown
+markdown: CommonMarkGhPages
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:title/
