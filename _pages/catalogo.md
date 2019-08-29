@@ -22,27 +22,27 @@ Los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen re
 
 ### <i class="fab fa-apple"></i> Swift
 
-Aprende a Programar Swift - Programación iOS(https://amzn.to/2PjhGJV)
-Introducción a Swift: Aprende Swift desde cero de forma totalmente práctica(https://amzn.to/2L2v9l4) (Kindle)
-SWIFT 4. Aprende a crear Apps para iPhone y iPad(https://amzn.to/2PD5UdJ)
+- Aprende a Programar Swift - Programación iOS(https://amzn.to/2PjhGJV)
+- Introducción a Swift: Aprende Swift desde cero de forma totalmente práctica(https://amzn.to/2L2v9l4) (Kindle)
+- SWIFT 4. Aprende a crear Apps para iPhone y iPad(https://amzn.to/2PD5UdJ)
 
 INGLÉS
 
-Aprende la programación de iOS 11 con Swift 4 [Tapa Blanda](https://amzn.to/2LtC06n) [Ebook](https://amzn.to/2L38bKA)
-Aprendiendo Swift 3 [Tapa Blanda](https://amzn.to/348eLah) [Ebook](https://amzn.to/2PjiMFx)
-Aprendizaje automático con Swift [Tapa Blanda](https://amzn.to/2ZvUqxb) [Ebook](https://amzn.to/2Px5x3Y)
-[Desarrollo de aplicaciones iOS accesibles](https://amzn.to/2Px2B7s)
-Dominar Swift 5 [Tapa Blanda](https://amzn.to/2L5SxOQ) [Ebook](https://amzn.to/2L2Mri7)
-Fundamentos de programación de iOS 12 con Swift(https://amzn.to/2L3UnPZ)
-Inteligencia artificial práctica con Swift(https://amzn.to/2ZlYi3v)
+- Aprende la programación de iOS 11 con Swift 4 [Tapa Blanda](https://amzn.to/2LtC06n) [Ebook](https://amzn.to/2L38bKA)
+- Aprendiendo Swift 3 [Tapa Blanda](https://amzn.to/348eLah) [Ebook](https://amzn.to/2PjiMFx)
+- Aprendizaje automático con Swift [Tapa Blanda](https://amzn.to/2ZvUqxb) [Ebook](https://amzn.to/2Px5x3Y)
+- [Desarrollo de aplicaciones iOS accesibles](https://amzn.to/2Px2B7s)
+- Dominar Swift 5 [Tapa Blanda](https://amzn.to/2L5SxOQ) [Ebook](https://amzn.to/2L2Mri7)
+- Fundamentos de programación de iOS 12 con Swift(https://amzn.to/2L3UnPZ)
+- Inteligencia artificial práctica con Swift(https://amzn.to/2ZlYi3v)
     - De la teoría fundamental al desarrollo de aplicaciones impulsadas por Ai 
-IOS 13 Fundamentos de programación con Swift(https://amzn.to/2Zvu5KJ)
-Patrones de diseño en Swift 5 [Tapa Blanda](https://amzn.to/2L3PGWn) [Ebook](https://amzn.to/2L6chS8)
-Programación reactiva con Swift 4 [Tapa Blanda](https://amzn.to/2Pm8vbP) [Ebook](https://amzn.to/2L3rCmt)
-Programando iOS 12(https://amzn.to/2NG0oEu) [Ebook](https://amzn.to/2NDxNiY)
+- IOS 13 Fundamentos de programación con Swift(https://amzn.to/2Zvu5KJ)
+- Patrones de diseño en Swift 5 [Tapa Blanda](https://amzn.to/2L3PGWn) [Ebook](https://amzn.to/2L6chS8)
+- Programación reactiva con Swift 4 [Tapa Blanda](https://amzn.to/2Pm8vbP) [Ebook](https://amzn.to/2L3rCmt)
+- Programando iOS 12(https://amzn.to/2NG0oEu) [Ebook](https://amzn.to/2NDxNiY)
     - Sumérgete profundamente en las vistas, los controladores de vista y los marcos
-Recetario Swift de desarrollo de juegos en iOS [Tapa Blanda](https://amzn.to/2PjP7Mh) [Ebook](https://amzn.to/2HAjZSG)
-Simulaciones en Swift 5(https://amzn.to/2LldaVU)
+- Recetario Swift de desarrollo de juegos en iOS [Tapa Blanda](https://amzn.to/2PjP7Mh) [Ebook](https://amzn.to/2HAjZSG)
+- Simulaciones en Swift 5(https://amzn.to/2LldaVU)
     - Diseño e implementación con Swift Playgrounds
 
 
