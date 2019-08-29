@@ -5,7 +5,7 @@ description: 'RS'
 excerpt: 'RS'
 date: 2019-08-29
 published: true
-permalink: /personajes-historicos/james-gosling
+permalink: /personajes-historicos/dov-frohman-bentchkowsky
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/james-gosling/
 
 ---

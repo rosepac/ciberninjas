@@ -5,7 +5,7 @@ description: 'RS'
 excerpt: 'RS'
 date: 2019-08-29
 published: true
-permalink: /personajes-historicos/james-gosling
+permalink: /personajes-historicos/dame-stephanie-shirley
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/james-gosling/
 
 ---
