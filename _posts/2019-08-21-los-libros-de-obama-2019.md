@@ -20,6 +20,7 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
+
 ---
 
 Si buscas lecturas recomendables para tus últimos días de playa o para los últimos meses de final de año, Barack Obama te ofrece varias sugerencias.

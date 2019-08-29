@@ -37,8 +37,7 @@ sidebar:
     text: "18,52 €"
   - title: "Precio Ebook"
     text: "9,49"
-    nav: catalogo
-    
+    nav: catalogo 
 ---
 
 
