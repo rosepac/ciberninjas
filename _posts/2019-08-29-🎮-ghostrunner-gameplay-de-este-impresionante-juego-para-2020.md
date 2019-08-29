@@ -5,7 +5,7 @@ description: "\U0001F47B Ghostrunner, gameplay de este impresionante juego para 
 excerpt: "\U0001F47B  Ghostrunner, gameplay de este impresionante juego para 2020"
 header:
   video:
-    id: Fwmb5kvkOs
+    id: _Fwmb5kvkOs
     provider: youtube
 comments: true
 date: 2019-08-29 00:00:00 +0200
