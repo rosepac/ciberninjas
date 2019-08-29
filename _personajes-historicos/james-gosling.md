@@ -26,10 +26,5 @@ Oak era un tour de force técnico, pero había poco interés en el mercado. Poco
 
 Java se ha convertido en el lenguaje de programación más popular utilizado hoy en día, con aplicaciones tan diversas como la informática de escritorio, estudios científicos, aplicaciones empresariales, servidores web, sistemas integrados y dispositivos móviles. Es ampliamente utilizado en la educación en informática. Gosling dejó Sun justo después de que Oracle adquirió la compañía en 2010, trabajando brevemente en Google y luego en Liquid Robotics, una compañía que fabrica robots autónomos oceánicos utilizados en investigación oceanográfica y atmosférica. Se unió a Amazon Web Services como ingeniero distinguido en mayo de 2017.
 
-<figure>
-    <a href="https://images.computerhistory.org/fellows/jgosling.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/jgosling.jpg"></a>
-    <figcaption>James Gosling | Visto en Ciberninjas</figcaption>
-</figure>
-
 **Fuente**: Bajo permiso de utilización y reconocimiento cortesía del [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}
