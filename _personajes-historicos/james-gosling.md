@@ -10,14 +10,14 @@ canonical_url: 'https://www.computerhistory.org/fellowawards/hall/james-gosling/
 
 ---
 
-> Por la concepción, diseño e implementación del lenguaje de programación Java.
-
-## All-Star Informático 2019
-
 <figure>
     <a href="https://images.computerhistory.org/fellows/jgosling.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/jgosling.jpg"></a>
     <figcaption>James Gosling | Visto en Ciberninjas</figcaption>
 </figure>
+
+## All-Star Informático 2019
+
+> Por la concepción, diseño e implementación del lenguaje de programación Java.
 
 ### ✍ Biografía
 
