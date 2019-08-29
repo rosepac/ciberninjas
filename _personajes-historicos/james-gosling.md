@@ -6,9 +6,10 @@ excerpt: 'RS'
 date: 2019-08-29
 published: true
 permalink: /personajes-historicos/james-gosling
-canonical_URL: https://www.computerhistory.org/fellowawards/hall/james-gosling/
+canonical_url: 'https://www.computerhistory.org/fellowawards/hall/james-gosling/'
 
 ---
+
 > Por la concepción, diseño e implementación del lenguaje de programación Java.
 
 ## All-Star Informático 2019
