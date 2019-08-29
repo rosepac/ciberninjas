@@ -61,7 +61,7 @@ Colson Whitehead dramatiza brillantemente otro aspecto de la historia estadounid
 > Barack Obama
 
 <details>
-<sumary>Saber Más</sumary>
+<summary>Saber Más</summary>
     <br/>
 <p>A medida que el movimiento de Derechos Civiles comienza a llegar al enclave negro de Frenchtown en Tallahassee segregado, Elwood Curtis toma en serio las palabras del Dr. Martin Luther King: es "tan bueno como cualquiera". Abandonado por sus padres, pero su abuela siguió el camino recto y estrecho, Elwood está a punto de inscribirse en la universidad negra local. Pero para un niño negro en el sur de Jim Crow a principios de la década de 1960, un error inocente es suficiente para destruir el futuro. Elwood es sentenciado a un reformatorio juvenil llamado The Nickel Academy, cuya declaración de misión dice que proporciona "entrenamiento físico, intelectual y moral" para que los niños delincuentes a su cargo puedan convertirse en "hombres honorables y honestos".</p>
 

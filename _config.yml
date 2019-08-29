@@ -122,6 +122,12 @@ collections:
     wiki:
         output: true
         permalink: /:collection/:path
+    historia-computadora:
+        output: true
+        permalink: /:collection/:path
+    personajes-historicos:
+        output: true
+        permalink: /:collection/:path
 
 defaults:
   # _posts
@@ -184,6 +190,28 @@ defaults:
   - scope:
       path: ""
       type: wiki
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: false
+  # _historia-computadora
+  - scope:
+      path: ""
+      type: historia-computadora
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: false
+  # _personajes-historicos
+  - scope:
+      path: ""
+      type: personajes-historicos
     values:
       layout: single
       author_profile: false
