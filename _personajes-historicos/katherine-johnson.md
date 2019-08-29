@@ -1,17 +1,23 @@
 ---
 author: rosepac
-title: "James Gosling"
-description: 'RS'
-excerpt: 'RS'
-date: 2019-08-29
+title: "Katherine Johnson, matemática encargada de cálculos espaciales del primer viaje de la humanidad a la Luna"
+description: 'Katherine Johnson, premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.'
+excerpt: 'Katherine Johnson, premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.'
+date: 2019-04-05
 published: true
-permalink: /personajes-historicos/katherine-johnson
+permalink: /personajes-historicos/katherine-johnson/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/katherine-johnson/
 
 ---
-> Por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.
+
+<figure>
+    <a href="https://images.computerhistory.org/fellows/kjohnson.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/kjohnson.jpg"></a>
+    <figcaption>Katherine Johnson | Visto en Ciberninjas</figcaption>
+</figure>
 
 ## All-Star Informático 2019
+
+> Premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.
 
 ### ✍ Biografía
 
@@ -28,11 +34,6 @@ En 1962, Johnson calculó la trayectoria del vuelo orbital Friendship 7 de John 
 Johnson ayudó a calcular la trayectoria de la misión Apolo 11 que llevó a los primeros humanos a la superficie lunar. También proporcionó ecuaciones que resultaron ser esenciales para la supervivencia de la misión Apolo 13 después de que se vio obligada a abortar. Permaneció con la NASA hasta 1986, trabajando en el transbordador espacial y los programas de Satélite de Recursos Terrestres.
 
 Katherine Johnson es vista a menudo como una de las figuras más importantes para representar a las mujeres en ciencia y tecnología y fue una de las mujeres descritas en el libro Hidden Figures de Margot Lee Shetterly. El libro inspiró una película nominada al Oscar del mismo nombre lanzada en 2016. Ha recibido muchos honores por su trabajo con la NASA, incluida la Medalla Nacional de la Libertad, otorgada por el presidente Barack Obama, en 2015.
-
-<figure>
-    <a href="https://images.computerhistory.org/fellows/kjohnson.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/kjohnson.jpg"></a>
-    <figcaption>Katherine Johnson | Visto en Ciberninjas</figcaption>
-</figure>
 
 **Fuente**: Bajo permiso de utilización y reconocimiento cortesía del [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}
