@@ -1,8 +1,8 @@
 ---
 author: rosepac
 title: "James Gosling"
-description: 'RS'
-excerpt: 'RS'
+description: 'James Gosling'
+excerpt: 'James Gosling'
 date: 2019-08-29
 published: true
 permalink: /personajes-historicos/james-gosling
@@ -12,9 +12,9 @@ canonical_url: 'https://www.computerhistory.org/fellowawards/hall/james-gosling/
 
 > Por la concepción, diseño e implementación del lenguaje de programación Java.
 
-## All-Star Informático 2019
+### All-Star Informático 2019
 
-### ✍ Biografía
+## ✍ Biografía
 
 James Arthur Gosling nació en 1956 cerca de Calgary, Alberta. Recibió su licenciatura en ciencias de la computación de la Universidad de Calgary en 1977. Para el trabajo de posgrado, dejó Canadá para ir a la Universidad Carnegie Mellon (CMU), donde completó un doctorado en 1983. En CMU, Gosling desarrolló una variante en el popular editor de pantallas Emacs y escribió una versión del sistema operativo UNIX para sistemas informáticos multiprocesador. Uno de sus esfuerzos más importantes en CMU fue portar el código p Pascal de UCSD desde una estación de trabajo PERQ para ejecutarlo en un sistema informático DEC VAX escribiendo un emulador VAX. Cuando más tarde trabajó en el proyecto Sun Java, Gosling citó este trabajo inicial como inspiración para el concepto de una máquina virtual Java, que permitiría que el código escrito una vez se ejecute en múltiples plataformas al permitir que los programadores siempre codifiquen para la misma máquina virtual.
 
