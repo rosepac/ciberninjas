@@ -95,10 +95,9 @@ Nicholas Carr es el autor del finalista del Premio Pulitzer: The Shallows, el é
 
 ## 💖 Comprar Libro
 
-<!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">🛒 COMPRAR</a>-->
-<center><a href="https://amzn.to/2ZiH6ao" class="btn btn--warning btn--large" title="Comprar El Libro Superficiales: ¿Qué está haciendo Internet con nuestras mentes? de Nicholas Carr | Ciberninjas">📓 COMPRAR LIBRO</a></center>
-
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=gift_certificates&banner=0YM2726C1ESR66Q7QG02&f=ifr&linkID=b74ea8b6b0434619f53785a367d3de3d&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
+
+<center><a href="https://amzn.to/2ZiH6ao" class="btn btn--warning btn--large" title="Comprar El Libro Superficiales: ¿Qué está haciendo Internet con nuestras mentes? de Nicholas Carr | Ciberninjas">📓 COMPRAR LIBRO</a></center>
 
 <center><a href="https://amzn.to/2KORsur" class="btn btn--warning btn--large" title="Comprar El Libro Superficiales: ¿Qué está haciendo Internet con nuestras mentes? de Nicholas Carr">💻 VERSIÓN KINDLE</a></center>
 

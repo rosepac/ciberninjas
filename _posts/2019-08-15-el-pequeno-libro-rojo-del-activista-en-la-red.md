@@ -102,10 +102,9 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigila
 
 ## 💖 Comprar Libro
 
-<!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">🛒 COMPRAR</a>-->
-<center><a href="https://amzn.to/2YQharj" class="btn btn--warning btn--large" title="Comprar El Pequeño Libro Rojo del Activista en la Red de Marta Peirano | Ciberninjas">📓 COMPRAR LIBRO</a></center>
-
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=gift_certificates&banner=0YM2726C1ESR66Q7QG02&f=ifr&linkID=b74ea8b6b0434619f53785a367d3de3d&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
+
+<center><a href="https://amzn.to/2YQharj" class="btn btn--warning btn--large" title="Comprar El Pequeño Libro Rojo del Activista en la Red de Marta Peirano | Ciberninjas">📓 COMPRAR LIBRO</a></center>
 
 <center><a href="https://amzn.to/33uIgmt" class="btn btn--warning btn--large" title="Comprar El Pequeño Libro Rojo del Activista en la Red de Marta Peirano | Ciberninjas">💻 VERSIÓN KINDLE</a></center>
 
