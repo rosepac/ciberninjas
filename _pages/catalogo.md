@@ -18,32 +18,40 @@ Los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen re
 
 ## 📚 Libros
 
-## Programación Web & Móvil 👩‍💻 📳 👨‍💻
+## 👩‍💻 Programación Web & Móvil
 
-### <i class="fab fa-apple"></i> Swift
+### Swift <i class="fab fa-apple"></i>
 
-- Aprende a Programar Swift - Programación iOS(https://amzn.to/2PjhGJV)
-- Introducción a Swift: Aprende Swift desde cero de forma totalmente práctica(https://amzn.to/2L2v9l4) (Ebook)
-- SWIFT 4. Aprende a crear Apps para iPhone y iPad(https://amzn.to/2PD5UdJ)
+1. Aprende a Programar Swift - Programación iOS(https://amzn.to/2PjhGJV)
+2. Introducción a Swift: Aprende Swift desde cero de forma totalmente práctica(https://amzn.to/2L2v9l4) (Ebook)
+3. SWIFT 4. Aprende a crear Apps para iPhone y iPad(https://amzn.to/2PD5UdJ)
 
 INGLÉS
 
-- Aprende la programación de iOS 11 con Swift 4 [Tapa Blanda](https://amzn.to/2LtC06n) [Ebook](https://amzn.to/2L38bKA)
-- Aprendiendo Swift 3 [Tapa Blanda](https://amzn.to/348eLah) [Ebook](https://amzn.to/2PjiMFx)
-- Aprendizaje automático con Swift [Tapa Blanda](https://amzn.to/2ZvUqxb) [Ebook](https://amzn.to/2Px5x3Y)
-- [Desarrollo de aplicaciones iOS accesibles](https://amzn.to/2Px2B7s)
-- Dominar Swift 5 [Tapa Blanda](https://amzn.to/2L5SxOQ) [Ebook](https://amzn.to/2L2Mri7)
-- Fundamentos de programación de iOS 12 con Swift(https://amzn.to/2L3UnPZ)
-- Inteligencia artificial práctica con Swift(https://amzn.to/2ZlYi3v)
-    - De la teoría fundamental al desarrollo de aplicaciones impulsadas por Ai 
-- IOS 13 Fundamentos de programación con Swift(https://amzn.to/2Zvu5KJ)
-- Patrones de diseño en Swift 5 [Tapa Blanda](https://amzn.to/2L3PGWn) [Ebook](https://amzn.to/2L6chS8)
-- Programación reactiva con Swift 4 [Tapa Blanda](https://amzn.to/2Pm8vbP) [Ebook](https://amzn.to/2L3rCmt)
-- Programando iOS 12(https://amzn.to/2NG0oEu) [Ebook](https://amzn.to/2NDxNiY)
-    - Sumérgete profundamente en las vistas, los controladores de vista y los marcos
-- Recetario Swift de desarrollo de juegos en iOS [Tapa Blanda](https://amzn.to/2PjP7Mh) [Ebook](https://amzn.to/2HAjZSG)
-- Simulaciones en Swift 5(https://amzn.to/2LldaVU)
-    - Diseño e implementación con Swift Playgrounds
+4. Aprende la programación de iOS 11 con Swift 4 [Tapa Blanda](https://amzn.to/2LtC06n) - [Ebook](https://amzn.to/2L38bKA)
+5. Aprendiendo Swift 3 [Tapa Blanda](https://amzn.to/348eLah) - [Ebook](https://amzn.to/2PjiMFx)
+6. Aprendizaje automático con Swift [Tapa Blanda](https://amzn.to/2ZvUqxb) - [Ebook](https://amzn.to/2Px5x3Y)
+7. [Desarrollo de aplicaciones iOS accesibles](https://amzn.to/2Px2B7s)
+8. Dominar Swift 5 [Tapa Blanda](https://amzn.to/2L5SxOQ) - [Ebook](https://amzn.to/2L2Mri7)
+9. Fundamentos de programación de iOS 12 con Swift(https://amzn.to/2L3UnPZ)
+
+10. Inteligencia artificial práctica con Swift(https://amzn.to/2ZlYi3v)
+
+    De la teoría fundamental al desarrollo de aplicaciones impulsadas por Ai
+
+11. IOS 13 Fundamentos de programación con Swift(https://amzn.to/2Zvu5KJ)
+
+12. Patrones de diseño en Swift 5 [Tapa Blanda](https://amzn.to/2L3PGWn) - [Ebook](https://amzn.to/2L6chS8)
+
+13. Programación reactiva con Swift 4 [Tapa Blanda](https://amzn.to/2Pm8vbP) - [Ebook](https://amzn.to/2L3rCmt)
+
+14. Programando iOS 12(https://amzn.to/2NG0oEu) [Ebook](https://amzn.to/2NDxNiY)
+    Sumérgete profundamente en las vistas, los controladores de vista y los marcos
+
+15. Recetario Swift de desarrollo de juegos en iOS [Tapa Blanda](https://amzn.to/2PjP7Mh) - [Ebook](https://amzn.to/2HAjZSG)
+
+16. Simulaciones en Swift 5(https://amzn.to/2LldaVU)
+    Diseño e implementación con Swift Playgrounds
 
 
 ## 📚 🎮 Libros de Videojuegos
@@ -114,7 +122,7 @@ INGLÉS
 
 ### Redes y Administración
 
-- Superficiales: ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) [Ebook](https://amzn.to/2KORsur)
+- Superficiales: ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) - [Ebook](https://amzn.to/2KORsur)
 
 
 ## ☕ Tazas
