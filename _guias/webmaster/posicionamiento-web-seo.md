@@ -289,6 +289,7 @@ Las empresas locales querrán destacar por posicionar con palabras claves del ti
 - KWFinder
 - answerthepublic.com
 - Google Search Console (Rendimientos / Consultas)
+- [Generador de Backlinks Automático](https://netgrows.com/es/backlinks-automaticos)
 
 ## Los Mejores Canales SEO de Youtube en Español
 

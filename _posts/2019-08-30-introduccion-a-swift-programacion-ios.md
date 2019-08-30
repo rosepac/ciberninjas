@@ -14,7 +14,7 @@ permalink: /catalogo/introduccion-a-swift-programacion-ios/
 description: "🍏 Introducción a Swift: Aprende Swift desde Cero de forma Práctica"
 excerpt: "🍏 Introducción a Swift: Aprende Swift desde Cero de forma Práctica"
 header:
-  overlay_image: /assets/images/catalogo/introduccion-swift-apple-grande.jpg
+  overlay_image: /assets/images/catalogo/introduccion-a-swift-apple-grande.jpg
   image_description: "Introducción al lenguaje de programación de apple Swift desde cero | Visto en ciberninjas"
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Amazon**"
@@ -29,7 +29,7 @@ toc_icon: user-ninja
 toc_sticky: true
 sidebar:
   - title: "Autor"
-    image: /assets/images/catalogo/introduccion-swift-apple-peque.jpg
+    image: /assets/images/catalogo/introduccion-a-swift-apple-peque.jpg
     image_alt: "Introducción al lenguaje de programación de apple Swift desde cero | Visto en ciberninjas"
     text: "Luis Rollón"
   - title: "Precio Ebook"
