@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "es-ES"
-title: Ciberninjas ▷ Escuela
+title: Ciberninjas ▷ Escuela Digital
 email: rosepac21@gmail.com
 url: "https://ciberninjas.com"
 description: >- # this means to ignore newlines until "baseurl:"

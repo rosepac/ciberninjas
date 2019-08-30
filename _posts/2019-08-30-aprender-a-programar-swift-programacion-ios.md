@@ -2,10 +2,10 @@
 author_profile: false
 title: "👨‍💻 Aprende a Programar Swift - Programación iOS"
 comments: true
-date: 2019-08-23 09:40:55
+date: 2019-08-30 09:40:55
 tags:
 - Libro
-- Createspace Independent
+- Createspace (Editorial)
 - Enrique Flores
 categories:
 - Catálogo
