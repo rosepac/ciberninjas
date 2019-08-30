@@ -635,7 +635,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Yo puedo programar mi propia web](https://mva.microsoft.com/es-es/training-courses/yopuedoprogramar-mi-pgina-web-18162) (Microsoft Virtual Academy)
 - [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC) (César Cancino, YouTube)
 
-### <i class="fab fa-apple"></i> Swift
+### Swift <i class="fab fa-apple"></i>
 
 - [Entendiendo Swift](https://campusiosonline.com/courses/entendiendo-swift)
 - [Soy iOS Dev. El mundo del desarrollo iOS](https://campusiosonline.com/courses/soy-ios-dev-el-mundo-del-desarrollo-ios)
