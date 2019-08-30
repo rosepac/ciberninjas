@@ -20,7 +20,7 @@ header:
   caption: "Créditos: **Amazon**"
   actions:
     - label: "+ PROGRAMACIÓN MÓVIL"
-      url: "/categoria/#seguridad-inform%C3%A1tica"
+      url: "/categoria/#programación-móvil"
     - label: "🛒 COMPRAR"
       url: "https://amzn.to/2L2v9l4"
 toc: true
@@ -45,7 +45,8 @@ Swift es el último lenguaje de programación creado por Apple. Se trata de uno 
 
 ## ✍ Biografía del Autor
 
-UX/UI Designer || iOS Software Engineer 
+- UX/UI Designer
+- iOS Software Engineer 
 
 ## 📝 Otros Detalles
 

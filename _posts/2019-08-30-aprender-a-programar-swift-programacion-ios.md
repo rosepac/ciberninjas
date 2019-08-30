@@ -20,7 +20,7 @@ header:
   caption: "Créditos: **Amazon**"
   actions:
     - label: "+ PROGRAMACIÓN MÓVIL"
-      url: "/categoria/#seguridad-inform%C3%A1tica"
+      url: "/categoria/#programación-móvil"
     - label: "🛒 COMPRAR"
       url: "https://amzn.to/2PjhGJV"
 toc: true
