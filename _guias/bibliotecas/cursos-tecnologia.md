@@ -426,7 +426,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Tecnologías de la Programación (2009)](http://ocw.um.es/ingenierias/tecnologia-de-la-programacion) (OCW)
 - [Test Driven Development con Java y Junit5](https://www.udemy.com/testdrivendevelopment) (Udemy)
 
-## Programación Web & Móvil 👩‍💻 📳 👨‍💻
+## Programación Web & Móvil 👩‍💻
 
 - [¿Por dónde empezar con el desarrollo web? Empieza aquí](https://www.udemy.com/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html) (Udemy)
 - [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
@@ -635,7 +635,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Yo puedo programar mi propia web](https://mva.microsoft.com/es-es/training-courses/yopuedoprogramar-mi-pgina-web-18162) (Microsoft Virtual Academy)
 - [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC) (César Cancino, YouTube)
 
-### Swift
+### <i class="fab fa-apple"></i> Swift
 
 - [Entendiendo Swift](https://campusiosonline.com/courses/entendiendo-swift)
 - [Soy iOS Dev. El mundo del desarrollo iOS](https://campusiosonline.com/courses/soy-ios-dev-el-mundo-del-desarrollo-ios)
