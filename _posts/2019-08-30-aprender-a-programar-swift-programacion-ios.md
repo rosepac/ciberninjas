@@ -11,8 +11,8 @@ categories:
 - Catálogo
 - Programación Móvil
 permalink: /catalogo/aprende-a-programar-swift-programacion-ios/
-description: "🍏 Aprende a programar con el Sistema Operativo de Apple y su lenguaje de programación específico:de Apple: Swift"
-excerpt: "🍏 Aprende a programar con el Sistema Operativo de Apple y su lenguaje de programación específico:de Apple: Swift"
+description: "🍏 Aprende a programar con el Sistema Operativo de Apple y su lenguaje de programación específico: Swift"
+excerpt: "🍏 Aprende a programar con el Sistema Operativo de Apple y su lenguaje de programación específico: Swift"
 header:
   overlay_image: /assets/images/catalogo/aprende-a-programar-swift-grande.jpg
   image_description: "Aprender a programar Swift, el lenguaje de programación de Apple e iOS | Visto en ciberninjas"
