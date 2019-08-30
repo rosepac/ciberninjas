@@ -23,7 +23,7 @@ Los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen re
 ### <i class="fab fa-apple"></i> Swift
 
 - Aprende a Programar Swift - Programación iOS(https://amzn.to/2PjhGJV)
-- Introducción a Swift: Aprende Swift desde cero de forma totalmente práctica(https://amzn.to/2L2v9l4) (Kindle)
+- Introducción a Swift: Aprende Swift desde cero de forma totalmente práctica(https://amzn.to/2L2v9l4) (Ebook)
 - SWIFT 4. Aprende a crear Apps para iPhone y iPad(https://amzn.to/2PD5UdJ)
 
 INGLÉS

@@ -4,7 +4,7 @@ title: "📚 ▷ Más de 340 Libros 🔥 Aprender Programación, Redes, Robótic
 description: "🚀 Biblia de Libros PDF Online: Programación Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 💰 Ofimática 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Biblia de Libros PDF Online: Programación Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 💰 Ofimática 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 date: 2018-02-13T22:00:00.000+00:00
-last_modified_at: 2018-08-07T12:42:42-05:00
+last_modified_at: 2019-08-30T12:42:42-05:00
 permalink: /biblioteca-de-programacion-y-tecnologia/
 published: true
 # image: 
@@ -240,10 +240,19 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Sistemas Operativos](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) - Dr. David Luis la Red (PDF)
 * [Sistemas operativos en las netbooks: GNU/Linux y Microsoft Windows.](http://bibliotecadigital.educ.ar/uploads/contents/M-SistemasoperataivosVF10.pdf) (PDF)
 
+### iOS
+
+
+
+
+### iPhone
+
+- [Cómo Copiar el Código Fuente de Ejemplo del iBook a Xcode](https://applecoding.com/pdf/copiar-codigo-fuente-ibook.pdf) (PDF)
+
 
 ## Software
 
-* [Introducción a ELAN](http://idiom.ucsd.edu/~jfernand/Papers/ELAN.pdf)
+* [Introducción a ELAN](http://idiom.ucsd.edu/~jfernand/Papers/ELAN.pdf) (PDF)
 * [Manual de Procesamiento de Archivos ELAN](http://pyersqr.org/minimal/Manual_Procesamiento%20de%20archivos%20ELAN.pdf)
 
 ## Revistas
@@ -584,6 +593,11 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 ## SVG
 
 * [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (Descarga PDF)
+
+
+##Swift
+
+* [Aprendiendo Swift](https://applecoding.com/pdf/Aprendiendo-Swift-Extracto.pdf) (PDF) (2015)
 
 
 ## Tex & LaTeX
