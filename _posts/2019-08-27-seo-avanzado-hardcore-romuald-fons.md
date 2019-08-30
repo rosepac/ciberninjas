@@ -12,6 +12,7 @@ date: 2019-08-27 10:17:12
 tags:
 # Autor, Editorial, Temática, Tipo de Música
 - Romuald Fons
+- SEO Avanzado
 categories:
 - Videotutorial SEO y Posicionamiento
 sidebar:

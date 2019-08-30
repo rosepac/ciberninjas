@@ -114,7 +114,7 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigila
 
 
 ## 📚 Catálogo Completo
-<a href="/categoria/#seguridad-inform%C3%A1tica" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+<a href="/categoria/#framework-apps" title="Libros de Frameworks de Creación de Aplicaciones Multiplataforma" class="btn btn--success btn--large">👨‍💻 Framework Apps</a> <a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#redes-y-administraci%C3%B3n" title="Libros de Redes y Administración" class="btn btn--success btn--large">🕸 Redes y Administración</a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=libros&banner=16R3XS8RQ89N3YJR4B02&f=ifr&linkID=56cd664728c9a7de32cbacd0aafc13ca&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->

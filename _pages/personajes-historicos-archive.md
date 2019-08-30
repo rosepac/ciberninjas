@@ -7,7 +7,7 @@ entries_layout: default
 collection: personajes-historicos
 permalink: /personajes-historicos/
 sort_by: date # (default) title
-sort_order: forward # (default), reverse
+sort_order: reverse
 classes: wide
 published: true
 author_profile: false
@@ -18,7 +18,9 @@ author_profile: false
 
 Esta es una galería de personajes, podríamos definirlo como un Hall of Fame o Salón de la Fama de la Computación y la Informática, formada por todos los premiados como miembros del Museo Histórico de la Computadora.
 
-Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas capaces de cambiar el mundo. Lo que les convierte en auténticos personajes históricos entre los más importantes por sus acontecimientos en el campo de la computación; los premios son parte de la visión del Museo de explorar la revolución informática y su impacto en la experiencia humana. La tradición comenzó en 1987 con la primera premiada; la pionera en programación: Grace Murray Hopper. En la actualidad, ya se ha convertido en un distinguido grupo de 60 miembros.
+Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas capaces de cambiar el mundo. Lo que les convierte en auténticos personajes históricos entre los más importantes por sus acontecimientos en el campo de la computación.
+
+Los premios son parte de la visión del Museo de explorar la revolución informática y su impacto en la experiencia humana. La tradición comenzó en 1987 con la primera premiada; la pionera en programación: Grace Murray Hopper. En la actualidad, ya se ha convertido en un distinguido grupo de 60 miembros.
 
 Entre ellos poseen en común una misma herramienta, la computadora; y sus logros, van desde la computación de la propia computadora en sí misma hasta la creación de las redes, el hardware, el software, el almacenamiento, los lenguajes de programación, u otras tecnologías que hoy en día; afectan a casi todos los humanos vivos.
 

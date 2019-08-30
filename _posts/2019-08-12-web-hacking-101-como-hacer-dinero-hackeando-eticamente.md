@@ -230,7 +230,7 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 ## 💖 Comprar Libro
 
 <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--light-outline btn--large">🛒 COMPRAR</a>-->
-<a href="https://leanpub.com/web-hacking-101-es" title=Compra Web Hacking 101 como hacer dinero hackeando eticamente de Nuestra Categoría de los Libros de Seguridad Informática dentro del Catálogo de Productos de Nuestra Tienda de Ciberninjas class="btn btn--warning btn--large">🛒 COMPRAR</a>
+<a href="https://leanpub.com/web-hacking-101-es" title="Compra Web Hacking 101 como hacer dinero hackeando eticamente de Nuestra Categoría de los Libros de Seguridad Informática dentro del Catálogo de Productos de Nuestra Tienda de Ciberninjas" class="btn btn--warning btn--large">🛒 COMPRAR</a>
 
 ## 📚 Catálogo Completo
 <a href="/categoria/#seguridad-inform%C3%A1tica" title="Categoría de los Libros de Seguridad Informática dentro del Catálogo de Productos de Nuestra Tienda de Ciberninjas" class="btn btn--success btn--large">🔐 Seguridad Informática</a> <!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->

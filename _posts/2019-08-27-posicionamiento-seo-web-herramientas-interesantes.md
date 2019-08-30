@@ -12,6 +12,7 @@ date: 2019-08-27 10:11:12
 tags:
 # Autor, Editorial, Temática, Tipo de Música
 - Varios
+- SEO
 categories:
 - Videotutorial SEO y Posicionamiento
 sidebar:
