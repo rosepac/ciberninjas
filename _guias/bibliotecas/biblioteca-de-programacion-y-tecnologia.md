@@ -145,6 +145,12 @@ toc_sticky: true
 * [Trampa en el Cyberespacio](https://fortinux.com/wp-content/uploads/2010/12/trampacyberespacio.pdf) (PDF)
 
 
+## Marketing y Negocios Digitales
+
+### Instagram <i class="fab fa-instagram"></i>
+* [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf)
+
+
 ## Metodologías de Desarrollo de Software
 
 * [Código Sólido](https://leanpub.com/codigosolido?) (Descarga PDF)
@@ -240,10 +246,6 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Sistemas Operativos](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF) - Dr. David Luis la Red (PDF)
 * [Sistemas operativos en las netbooks: GNU/Linux y Microsoft Windows.](http://bibliotecadigital.educ.ar/uploads/contents/M-SistemasoperataivosVF10.pdf) (PDF)
 
-### iOS
-
-
-
 
 ### iPhone
 
@@ -280,6 +282,12 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Propuesta para grupo de investigación Autonomía Situada (2003)](http://www.sindominio.net/~xabier/old/textos/propuesta/propuesta.html) (HTML)
 * [Topos: Reconocimiento de patrones temporales en sonidos reales con redes neuronales de pulsos](http://lsi.vc.ehu.es/pablogn/investig/ficheros/albaTopos.pdf) (PDF)
 * [Utilizando Arduino Due en la docencia de la entrada/salida](http://bioinfo.uib.es/~joemiro/aenui/procJenui/Jen2015/ba_util.pdf) (PDF)
+
+
+## Webmaster 👷🏻‍♂️
+
+[50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf)
+[SEO en Amazon](https://netgrows.com/wp-content/uploads/2018/11/ebook-amazon-netgrows.pdf)
 
 
 ## Android 📲
@@ -595,7 +603,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (Descarga PDF)
 
 
-##Swift
+## Swift
 
 * [Aprendiendo Swift](https://applecoding.com/pdf/Aprendiendo-Swift-Extracto.pdf) (PDF) (2015)
 

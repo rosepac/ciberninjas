@@ -280,9 +280,26 @@ Las empresas locales querrán destacar por posicionar con palabras claves del ti
 - [¿Cómo establecer objetivos de SEO inteligentes para su equipo / agencia / proyecto?](https://moz.com/blog/smart-seo-goals)
 - [¿Qué es la optimización SEO / Search Engine?](https://searchengineland.com/guide/what-is-seo)
 
-<!-- ## Los Mejores Blogs de SEO en Inglés -->
 
-<!-- - [The Moz](https://moz.com/blog) -->
+## Los Mejores Blogs de SEO
+
+1. [NetGrows](https://netgrows.com/)
+
+
+## Los Mejores Blogs de SEO en Inglés
+
+1. MOZ
+2. Search Engine Journal
+3. Search Engine Land
+4. Backlinko
+5. Neil Patel
+6. First Page Sage https://firstpagesage.com/seo-blog/
+
+## Páginas Prácticas
+
+- [Días Internacionales, Día a Día](https://www.diainternacionalde.com)
+- [Días Internacionales: Unesco](http://www.unesco.org/new/es/unesco/events/prizes-and-celebrations/celebrations/international-days/)
+
 
 ## Las Mejores Herramientas de SEO y Posicionamiento
 
@@ -302,7 +319,7 @@ Las empresas locales querrán destacar por posicionar con palabras claves del ti
 - [Miguel Cidre](https://www.youtube.com/user/cidrex/videos)
 - [Jordi Cor](https://www.youtube.com/channel/UC5dEPIeQC29MZRAGcjy-aAQ/videos)
 - [Maurice Szyslak](https://www.youtube.com/channel/UCBq3F30xCad0KvIK2HFV61Q/videos)
-- [Rebelde sin Pausa
+
 
 👷‍♂️ 🚧 EN CONSTANTE CONSTRUCCIÓN 🚧 👷‍♂️
 {: .notice--info}
