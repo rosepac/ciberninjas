@@ -4,6 +4,7 @@ description: "👷‍♂️ 🔨 Cientos de Recursos: Mis Programas y Aplicacion
 excerpt: "👷‍♂️ 🔨 Cientos de Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La mejor caja de herramientas para desarrollador web y webmaster de todo Internet"
 published: false
 author: rosepac
+classes: wide
 comments: true
 date: 2019-07-17 08:07:47
 permalink: /recursos/
@@ -19,23 +20,29 @@ En esta página, encontrarás una descripción general de todos los recursos que
     
     El mayor problema es que esta limitado a solo 1.000 noticias; entre algunas otras limitaciones más.
 
-Otros software´s de visualización de noticias, que se ven muy bien a pesar de que no los tengo testeados en los últimos meses, son:
+El otro software de control de noticias que he estado usando durante los últimos meses es QuiteRSS.
 
-- [FeedBro](https://nodetics.com/feedbro/ "Extensión para Chrome, Opera o Firefox") esta extensión te permite realizar todo lo que un buen software de RSS debe tener, y facilita de forma increíble la inclusión de las fuentes incluso directamente desde los marcadores del navegador.
+- [QuiteRSS](https://quiterss.org/) Es un lector sencillo que su mayor desventaja puede ser precisamente eso; su sencillez. Quizás le falten algunas opciones necesarias si deseas explotar al máximo un lector de noticias. En cambio, ofrece amplias ventajas que Inoreader no posee; por el hecho de ser de código abierto. NO existe limitación en la cantidad de archivos acumulados. Ofrece opciones de etiquetado y un amplio sistema de filtros, además de permitir la limpieza de las fuentes RSS en períodos de tiempos personalizados o por la cantidad de noticias acumuladas que tu desees. Es capaz de gestioanr miles de noticias sin problemas y sin recurrir a demasiados recursos de tu ordenador. Igualmente, ofrece múltiples opciones de personalización, tanto en la interfaz del software en sí; como de la forma en la que te muestra los artículos e incluso ofrece un útil botón con el que ocultar todas las imágenes de las RSS.
 
-- [QuiteRSS](https://quiterss.org/) Es un lector sencillo que peca de ello, le faltan algunas opciones necesarias si eres un ávido lector de noticas; en cambio sí, tu cantidad de lecturas no es muy amplica puede ser una solución sencilla y minimalista que responderá sin recurrir a demasiados recursos de tu ordenador.
+Gestor y Lector de Correos Electrónicos (también se le pueden agregar las fuentes de noticias RSS)
+- [Thunderbird](https://support.mozilla.org/en-US/kb/how-subscribe-news-feeds-and-blogs) si bien, desde hace unos meses he dejado de usarlo, puesto que requería demasiado consumo de memoria (8 Gb o más, si deseas mantenerlo siempre abierto junto a más programas) este software de la Fundación Mozilla, es un software que me encanta; ofrece un espectacular diseño de interfaz de usuario y permite gestionar de la mejor forma posible todos tus correos; listarlos, ordenarlos, etiquetarlos, separarlos por carpetas; permite sincronizacióm POP o IMAP, personalización del diseño. Por si fuese poco, te permite incluir un calendario (Lightning) incluso junto a una lista de tareas.
+    - Si lo que deseas es controlar tu correo electrónico o unas fuentes de RSS muy concretas de forma continua e instantanea, seguramente es la mejor opción.
 
-El mayor problema de Feedbro, y su contra es que al estar en el navegador no dejará de ser una distracción constante.
-
-- [Thunderbird](https://support.mozilla.org/en-US/kb/how-subscribe-news-feeds-and-blogs) es la última opción, si te gusta controlar constantemente tanto las noticias de forma automatizada como tu correo electrónico; seguramente Thunderbird es la mejor opción puesto que te permite controlar ambos parámetros de forma instántanea y continuada.
-
-## Noticias Diarias
+## Aplicaciones de Móvil
 
 - [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic&hl=en)
-    La mejor aplicación cliente que existe para visualizar lo mejor de Hacker News, día a día, y sobre todo lo que tenga que ver con el mundo de la programación, el desarrollo web y el diseño; además, de los mejores artículos de ciencia y otras varias curiosidades tecnológicas.
-    
-    Infaltable si eres un geek o desarrollador de los de verdad.
+    La mejor aplicación cliente que existe para visualizar lo mejor de Hacker News, las noticias diarias del día a día, y sobre todo lo que tenga que ver con el mundo de la programación, el desarrollo web y el diseño; además, de los mejores artículos de ciencia y otras varias curiosidades tecnológicas.
+    - Infaltable si eres un geek o desarrollador de los de verdad.
 
+
+## Software de Trabajo
+### Editores de Texto
+
+- [Brackets] + [Brackets Markdown Preview](https://bitbucket.org/begue/brackets-markdown-preview/src/master) + [Beautify](https://github.com/brackets-beautify/brackets-beautify#brackets-beautify) + [Emmet](https://emmet.io) + [Brackt Color Picker](https://github.com/mikailcolak/brackets-color-picker) + [Custom Work](https://github.com/alessandrio/custom-work-for-brackets) + [Atajos de Teclado](https://lisacatalano.github.io/brackets_course/pc.html)
+
+Notepad ++
+
+Simplenote. La aplicación más sencilla de poder gestionar tus pequeñas notas y poder gestionarlas desde tu móvil, escritorio del ordenador o desde la propia web online de la misma.
 
 ## Meditando
 
@@ -46,16 +53,4 @@ El mayor problema de Feedbro, y su contra es que al estar en el navegador no dej
 ## Extensiones de Chrome
 
 ## Mis Aplicaciones Realmente Favoritas
-
-## Mi Software Favorito
-
-### Editores de Texto
-
-Brackets
-
-Notepad ++
-
-Simplenote. La aplicación más sencilla de poder gestionar tus pequeñas notas y poder gestionarlas desde tu móvil, escritorio del ordenador o desde la propia web online de la misma.
-
-## Sistemas de Gestión de Contenidos. CMS Favoritos
 
