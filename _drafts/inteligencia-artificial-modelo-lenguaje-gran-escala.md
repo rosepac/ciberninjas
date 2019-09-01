@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: CodeScene
+title: Modelo de Lenguaje a Gran Escala
 description: CodeScene
 excerpt: CodeScene
 comments: true
@@ -12,7 +12,3 @@ categories:
   - Conociendo
 ---
 
-[https://empear.com/how-it-works/](https://empear.com/how-it-works/)
-
-[https://empear.com/](https://empear.com/)
-<!-- https://cd.foundation/ -->
