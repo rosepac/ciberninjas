@@ -91,8 +91,8 @@ Aunque Jenkins es una herramienta muy poderosa, tiene sus defectos.
 ## Recursos
 
 * [Jenkins X](https://jenkins-x.io/){: target="_blank"}&nbsp;: una soluci&oacute;n guiada de integraci&oacute;n continua / entrega continua para aplicaciones nativas de la nube modernas con Jenkins en Kubernetes. Obtenga m&aacute;s informaci&oacute;n sobre&nbsp;[Jenkins X en las publicaciones de blog de James Strachan](https://jenkins.io/blog/2018/03/19/introducing-jenkins-x/){: target="_blank"}&nbsp;, l&iacute;der del proyecto, y Kohsuke Kawaguchi, fundador del proyecto Jenkins.
-
-  * Sitio web del proyecto&nbsp;[Jenkins X](https://jenkins-x.io/){: target="_blank"}&nbsp;
+Sitio web del proyecto&nbsp;[Jenkins X](https://jenkins-x.io/){: target="_blank"}&nbsp;
+{: .notice--info}
 * [Jenkins Essentials](https://github.com/jenkinsci/jep/blob/master/jep/301/README.adoc){: target="_blank"}&nbsp;: un desaf&iacute;o de Kohsuke a la comunidad para hacer que Jenkins se pueda descargar, instalar y usar en cinco minutos.
   * [Visi&oacute;n general](https://jenkins.io/blog/2018/04/06/jenkins-essentials/){: target="_blank"}
   * [Presentando Jenkins Essentials](https://jenkins.io/blog/2018/03/20/evolving-mission-of-jenkins/){: target="_blank"}&nbsp;
