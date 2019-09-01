@@ -32,4 +32,4 @@ Kohsuke Kawaguchi - Creador de Jenkins y CTO en CloudBess
 
 James Strachan - Cofundador de Jenkins X
 
-&nbsp;
+<!-- https://cd.foundation/ -->
