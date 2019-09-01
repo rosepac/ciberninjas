@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: "\U0001F916 Modelo de Lenguaje a Gran Escala"
+title: "\U0001F916 Generador de Texto a través de IA: Modelado de Lenguaje a Gran Escala"
 description: >-
   Actualización dentro del proyecto de Inteligencia Artificial capaz de predecir
   y generar texto de forma correcta simulando ser un humano.
