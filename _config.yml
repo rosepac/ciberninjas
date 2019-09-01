@@ -74,20 +74,20 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "rosepac"
+  name   : "ROSEPAC"
   avatar : "/assets/images/bio-photo.png"
   bio    : "Bibliotecario de Google. Documentalista Digital."
   links:
     - label: "Café"
-      icon: "fab fa-fw fa-mug-hot"
+      icon: "fas fa-fw fa-mug-hot"
       url: "https://paypal.me/ciberninjas"
     - label: "rosepac"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rosepac"
-    - label: "@ciberaprendiz"
+    - label: "CiberAprendiz"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ciberaprendiz"
-    - label: "Cibercursos"
+    - label: "CiberCursos"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/cibercursos"
 
@@ -100,7 +100,7 @@ footer:
       icon: "fab fa-fw fa-facebook"
       url: "https://instagram.com/ciberninjas"
     - label: "Donativo"
-      icon: "fab fa-fw fa-cc-paypal"
+      icon: "fab fa-fw fa-paypal"
       url: "https://paypal.me/ciberninjas"
     - label: "Bitcoin"
       icon: "fab fa-fw fa-bitcoin"
@@ -109,7 +109,7 @@ footer:
       icon: "fab fa-fw fa-ethereum"
       url: "0x9b039b7F5c7eE7D56C0C5cDB8E7E3720F126F4B7"
     - label: "Criptomonedas"
-      icon: "fab fa-fw fa-donate"
+      icon: "fas fa-fw fa-donate"
       url: "https://gist.github.com/rosepac/df7d4fc0abcf6030c32907b9aa19c401#paypal"
       
 comments:

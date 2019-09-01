@@ -5,7 +5,7 @@ excerpt: "📌 Posicionamiento Web y SEO, aprender desde cero todo lo que debes 
 published: true
 comments: true
 date: 2018-04-25
-last_modified_at: 2019-08-27
+last_modified_at: 2019-09-01
 permalink: /posicionamiento-web-seo/
 header:
   image: "/assets/images/chocolatey-ciberninjas.jpg"

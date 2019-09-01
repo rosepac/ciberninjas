@@ -44,25 +44,31 @@ Otros, son aún más utilizados a través de los navegadores por su masificació
 
 Una lista de algunos de estos lenguajes podría ser:
 
-- C
-- C #
-- C ++
-- Visual Basic .NET
-- Sql
-- PHP
-- Objective C
-- Delphi / Pascal
-- Matlab
-- Visual Basic
+<details>
+<summary>Mostrar Lista</summary>
+<br/>
+<ol>
+    <li>C</li>
+    <li>C #</li>
+    <li>C ++</li>
+    <li>Visual Basic .NET</li>
+    <li>Sql</li>
+    <li>PHP</li>
+    <li>Objective C</li>
+    <li>Delphi / Pascal</li>
+    <li>Matlab</li>
+    <li>Visual Basic</li>
+</ol>
+</details>
+
 
 ## Otros Lenguajes Populares en la Actualidad
 
 Existen además de los lenguajes que ya hemos visto con anterioridad otros muchos que están al alza o siguen siendo utilizados por diferentes y variopintas razones.
 
 <details>
-<summary>Desplegar Lista</summary>
-<br/>
-<ul>
+<summary>Mostrar Lista</summary>
+<ol>
     <li>Elixir</li>
     <li>Erlang</li>
     <li>Go</li>
@@ -74,7 +80,7 @@ Existen además de los lenguajes que ya hemos visto con anterioridad otros mucho
     <li>Schema</li>
     <li>Haskell</li>
     <li>TypeScript *</li>
-</ul>
+</ol>
 </details> 
 
 ## Lenguajes Estándar de los Navegadores
