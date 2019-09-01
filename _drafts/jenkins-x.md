@@ -12,6 +12,16 @@ categories:
   - Conociendo
 ---
 
+## &nbsp;
+
+ENLACES EXTERNOS
+
+[https://jenkins-x.io/](https://jenkins-x.io/)
+
+## &nbsp;
+
+## \-----------------------
+
 ## &iquest;Qu&eacute; es Jenkins?
 
 **Jenkins**&nbsp;es un servidor de integraci&oacute;n continua de c&oacute;digo abierto capaz de organizar una cadena de acciones que ayudan a lograr el proceso de integraci&oacute;n continua (y no solo) de manera automatizada.
