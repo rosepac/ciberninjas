@@ -47,6 +47,14 @@ Los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen re
 
 ## 👩‍💻 Programación Web & Móvil
 
+### Android
+
+1. [EL GRAN LIBRO DE ANDROID 7ª ED](https://amzn.to/2Pz5cOu)
+2. [Plataformas Android: Wear, TV, Auto y Google Play Games](https://amzn.to/2LbZUUM)
+3. [Aprende a programar con KOTLIN](https://amzn.to/2Lgibk1)
+4. [ANDROID STUDIO. Aprende a desarrollar aplicaciones](https://amzn.to/2LgDjFu)
+
+
 ### Swift <i class="fab fa-apple"></i>
 
 1. [Aprende a Programar Swift - Programación iOS](https://amzn.to/2PjhGJV)
@@ -131,6 +139,7 @@ INGLÉS
 
 ### Otros Videojuegos
 - [APEX LEGENDS. Guía no oficial de combate](https://amzn.to/2LiqAC6)
+- [Atrapados en Battle Royale (Atrapados en Battle Royale 1)](https://amzn.to/2Lq3uJM)
 
 
 ## 📚 🎥 Libros de Blogguers y Youtubers
