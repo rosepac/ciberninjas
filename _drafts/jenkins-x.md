@@ -16,11 +16,11 @@ categories:
 
 ENLACES EXTERNOS
 
-[https://jenkins-x.io/](https://jenkins-x.io/)
+[https://jenkins-x.io/](https://jenkins-x.io/)<br><br>Info. HerE:&nbsp;[https://jenkins-x.io/about/](https://jenkins-x.io/about/)
 
 ## &nbsp;
 
-## \-----------------------
+## \-———————-
 
 HASTA ABAJO POR BORRAR..
 
