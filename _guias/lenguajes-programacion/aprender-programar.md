@@ -1,16 +1,16 @@
 ---
 title: 👨‍💻 ▷ Aprender a Programar desde Cero & Más
-description: "📌 Aprende a programar con varios lenguajes y frameworks diferentes. Los mejores libros PDF y ebooks gratis en nuestra ciberlibrería, ojea nuestro catálogo."
-excerpt: "📌 Aprende a programar con varios lenguajes y frameworks diferentes. Los mejores libros PDF y ebooks gratis en nuestra ciberlibrería, ojea nuestro catálogo."
-published: false
+description: "📌 Aprende a programar con varios lenguajes y frameworks diferentes. Los mejores libros PDF y ebooks gratis en nuestra biblioteca y ojea nuestro catálogo."
+excerpt: "📌 Aprende a programar con varios lenguajes y frameworks diferentes. Los mejores libros PDF y ebooks gratis en nuestra biblioteca y ojea nuestro catálogo."
+published: true
 comments: true
 date: 2018-03-01
-last_modified_at: 2019-08-23
+last_modified_at: 2019-09-01
 permalink: /programar/
-header:
-  image: "/assets/images/chocolatey-ciberninjas.jpg"
-  image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
-  caption: "**Créditos**: Creación Propia"
+# header:
+#   image: "/assets/images/chocolatey-ciberninjas.jpg"
+#   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
+#   caption: "**Créditos**: Creación Propia"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -27,19 +27,16 @@ Javascript - Python - Java - C # - Swift - Kotlin
 
 <!-- (imágenes con enlaces a las páginas de formación de cada lenguaje) -->
 
-[expand title="Saber Más 🧐"]
+### Sobre Javascript
 
 Si nos encontramos a JavaScript en la parte alta de todas las listas actuales de los lenguajes de programación más populares, no debería de ser una sorpresa para nadie. Gracias a su integración continua en los últimos proyectos de código abierto, JavaScript ha experimentado un crecimiento masivo que hace años era imposible de imaginar.
 
 Hay más de un factor determinante detrás de esta última tendencia de usar JavaScript en proyectos de código abierto. Desde la aparición de NodeJS los desarrolladores pueden emplear el lenguaje de JS tanto en el Back-End como en el Front-End indistintamente, además se calcula que en la actualidad casi el 95% de los sitios web creados a día de hoy usan JavaScript.
 
-[/expand]
-
- 
 
 ## Los Lenguajes de Programación más Clásicos
 
-Hay numerosos lenguajes de programación que por una u otra razón, siguen usándose de forma máxima como pueden ser el caso de los lenguajes más "antiguos" que siguen en uso dentro de las empresas más importantes, puesto que o bien se considera que su uso favorece la seguridad o por que bien se considera que es demasiado complicado transformar toda la arquitectura ya existente a nuevos lenguajes.
+Hay numerosos lenguajes de programación que por una u otra razón, siguen usándose de forma máxima como pueden ser el caso de los lenguajes más "antiguos" que siguen en uso dentro de las empresas más importantes, puesto que o bien se considera que su uso favorece la seguridad o porque bien se considera que es demasiado complicado transformar toda la arquitectura ya existente a nuevos lenguajes.
 
 Además, hay otros lenguajes como por ejemplo C ++, C, Basic, Delphi, Objective C que siempre han sido utilizados en la creación de los Sistemas Operativos más importantes; como son Windows o Linux y por tanto su implementación es sumamente alta dentro de todos los software programados hasta la actualidad y por ello, siguen y seguirán durante un tiempo siendo utilizados a nivel empresarial.
 
@@ -60,34 +57,33 @@ Una lista de algunos de estos lenguajes podría ser:
 
 ## Otros Lenguajes Populares en la Actualidad
 
-Existen además de los lenguajes que ya hemos visto con anterioridad otros muchos que están al alza o siguen siendo de utilizada por diferentes y variopintas razones; como por ejemplo:
+Existen además de los lenguajes que ya hemos visto con anterioridad otros muchos que están al alza o siguen siendo utilizados por diferentes y variopintas razones.
 
-[expand title="Mostrar Listado"]
-
-- Elixir
-- Erlang
-- Go
-- Perl
-- Ruby
-- R
-- Rust
-- Scala
-- Schema
-- Haskell
-- TypeScript *
-
-[/expand]
- 
+<details>
+<summary>Desplegar Lista</summary>
+<br/>
+<ul>
+    <li>Elixir</li>
+    <li>Erlang</li>
+    <li>Go</li>
+    <li>Perl</li>
+    <li>Ruby</li>
+    <li>R</li>
+    <li>Rust</li>
+    <li>Scala</li>
+    <li>Schema</li>
+    <li>Haskell</li>
+    <li>TypeScript *</li>
+</ul>
+</details> 
 
 ## Lenguajes Estándar de los Navegadores
 
-Los navegadores web así como Internet, sin lugar a dudas han cambiado por completo el paradigma informático. Pasando a ser sin competencia alguna el navegador, el software más usado en todo el mundo. Por ello, los lenguajes creados bajo estandares que son capaces de ser reconocidos por los visualizadores de páginas de contenidos web; navegadores. Son de vital importancia, aunque su aprendizaje no es de especial dificultad; son necesarios, y además, su utilización puede complicarse tanto como uno lo desee.
+Los navegadores web así como Internet, sin lugar a dudas han cambiado por completo el paradigma informático. Pasando a ser sin competencia alguna el navegador, el software más usado en todo el mundo. Por ello, los lenguajes creados bajo estándares que son capaces de ser reconocidos por los visualizadores de páginas de contenidos web; navegadores. Son de vital importancia, aunque su aprendizaje no es de especial dificultad; son necesarios, y además, su utilización puede complicarse tanto como uno lo desee.
 
 Entre estos "lenguajes" destacan HTML y CSS, que forman una de las partes más importantes de todo Internet. Incluso podríamos incluir la tecnología AJAX.
 
-## Qué es Programar
-
-
+<!-- ## Qué es Programar -->
 
 ## Cómo aprender a programar código
 
@@ -98,21 +94,19 @@ En esta sección, vamos a intentar realizar un resumen de los pasos que podemos 
 3. Limita tus recursos de aprendizaje.
 4. Procura esforzarte en lograr una base de álgebra y la lógica de los algoritmos; así como, una base de informática básica y un conocimiento de la amplia gama de tecnologías que existen en la actualidad. Siempre puedes usar la propia Wikipedia o incluso: [Kiwix](https://kutt.it/wiki_kiwi)desde donde poder lo que ir familiarizarte con la terminología.
 5. Aprende y comienza a acostumbrarte a trabajar a través de comandos, empieza a manejar la consola -sea bajo linux o no- si es utilizando un SO bajo Linux, mucho mejor. Si no, puedes similar la [consola en Windows](https://kutt.it/terminal_windows); incluso practicar levemente con un software como [Chocolatey](https://ciberninjas.com/chocolatey-ninite).
-6. Documentación Oficial, puedes acceder desde el programa [Zeal](https://kutt.it/zeal_docs) con el que podrás tener toda los archivos que necesites al alcance de tu mano, incluso de forma Offline. Así despejarte de cualquier medio que te pueda hacer procastinar 😜
-7. Intenta realizar prácticas con las explicaciones de la documentacion; o bien representando los mismos ejemplos o bien puedes buscar ejercicios similares por Interne /o ir siguiendo una plataforma digital en la que se realizen ejercicios pracitcos; es importante, que seas capaz de compaginar los tiempos, de la lectura del a documentacion junto al tempo en el que vas realizando las posibles tareas.
-8. Imprime chuletas. Intenta adaptarte al software y tecnologías que se adapten mejor al lenguaje elegidos. Imprime chuletas de los atajos de teclado del software que vas a utilizar; procura leer la documentación -aunque solo sea a partes- del mismo; ahorraras y ganaras cantidades indigentes de tiempo, más del que te puedes llegar a imaginar.
+6. Documentación Oficial, puedes acceder desde el programa [Zeal](https://kutt.it/zeal_docs) con el que podrás tener todos los archivos que necesites al alcance de tu mano, incluso de forma Offline. Así despejarte de cualquier medio que te pueda hacer procrastinar 😜
+7. Intenta realizar prácticas con las explicaciones de la documentación; o bien representando los mismos ejemplos o bien puedes buscar ejercicios similares por Interne /o ir siguiendo una plataforma digital en la que se realicen ejercicios prácticos; es importante, que seas capaz de compaginar los tiempos, de la lectura del a documentación junto al tempo en el que vas realizando las posibles tareas.
+8. Imprime chuletas. Intenta adaptarte al software y tecnologías que se adapte mejor a tu lenguaje elegido. Imprime chuletas de los atajos de teclado del software que vas a utilizar; procura leer la documentación -aunque solo sea a partes- del mismo; ahorraras y ganaras cantidades indigentes de tiempo, más del que te puedes llegar a imaginar.
 9. Sé calmado y mantente calmado! Existen plazas de trabajo en cada lenguaje diferente, no tengas ninguna duda de que si realmente deseas dedicarte, tarde o temprano va aparecer algo que se adapte a ti.
 10. Lo más importante es ser persistente, conservar la motivación
 
 ## Cómo Sentarse
 
-Ey? Sí, estas leyendo lo que piensas. Quizás pienses que es un poco ridículo pero para nada, este es un apartado muy importante para cualquier persona que trabaje delante de un ordenador de forma continua. Como mínimo, recordar unos pequeños consejos que jamás debemos pasar por alto.
+Ey? Sí, estás leyendo lo que piensas. Quizás pienses que es un poco ridículo pero para nada, este es un apartado muy importante para cualquier persona que trabaje delante de un ordenador de forma continua. Como mínimo, recordar unos pequeños consejos que jamás debemos pasar por alto.
 
 Es altamente dañino sentarse por largos periodos de tiempo. Debes procurar me levantarte y tomar un "kit kat" cada 30 minutos (existen aplicaciones para esto, la famosa técnica "pomodoro" o simplemente utiliza una alarma) Sin embargo, ten en cuenta que incluso con los descansos, se sabe que los largos períodos de inactividad harán que tu cuerpo se sienta entumecido y tendrás que caminar o trotar un tiempo a lo largo del día para mantener un metabolismo saludable.
 
 Cuida tu postura de espalda y cuello; y ya sabes, lleva a la realidad los famosos consejos de ergonomía que casi todos conocemos, pero muy pocas personas aplicamos.
-
-
 
 ## ¿En qué campo de la informática trabajar?
 
@@ -144,7 +138,7 @@ Un buen plan de estudio, podría ser Javascript, React, Ruby y Ruby and Rails; p
 
 ## ¿Qué lenguaje aprender?
 
-Si algo esta claro, es que es el tiempo del código. No existen dudas de que es el mejor campo de formación y trabajo en el involucrarse y dedicar todo tu tiempo.
+Si algo está claro, es que es el tiempo del código. No existen dudas de que es el mejor campo de formación y trabajo en el involucrarse y dedicar todo tu tiempo.
 Al decidir qué lenguaje de programación aprender, es importante no quedar atrapado en tendencias llamativas y concursos de popularidad. Los mejores lenguajes de programación para aprender en 2019 son probablemente los mismos que fueron los mejores para aprender en 2017 y 2018, y eso seguirá siendo cierto durante los próximos años.
 Aunque el campo de la programación de computadoras cambia rápidamente, todos los lenguajes que en esta página citamos tienen mucho poder de permanencia. Al aprender uno o más de estos idiomas, estarás en una posición excelente no solo para este año, sino en los próximos años.
 Al comenzar su viaje hacia la programación, solo tú puedes responder la pregunta de cual es el mejor lenguaje de programación para aprender. Realiza tu selección en función de tus intereses y el tipo de desarrollo de software que deseas. Aquí tienes un breve resumen de diferentes posibilidades:
@@ -166,20 +160,16 @@ Si descubres que un idioma determinado no es una buena opción, no es una causa 
 Existen muchos más lenguajes de programación, entre los más populares ahora se encuentran Rust, Go, Scala, Typescript o C ++. No obstante, si estas comenzando a desenvolverte en la creación de software has de considerar que muchos idiomas son avanzados, complejos, conllevan una curva de aprendizaje muy elevada o están enfocados en un solo dominio de aplicación; por lo que requieren un consumo de horas de capacitación, lectura y práctica altísimo, siendo sus ofertas laborales más reducidas. Claro esta, todas sus desventajas, tienen sus ventajas; es posible que sean las plazas laborables más y mejor remuneradas.
 
 
-
-### Aprender a programar, es la clave de la era digital
-
- 
+> Aprender a programar, es la clave de la era digital
 
 ## Declaración Ciberninjas
 
-[expand title="Conoce Más del Proyecto"]Amamos, casi hasta el punto de la adicción, los lenguajes de programación más modernos en conjunto a sus técnicas más creativas y novedosas de implementarlos en la sociedad actual.
+Amamos y casi hasta el punto de la adicción, los lenguajes de programación más modernos en conjunto a sus técnicas más creativas y novedosas de implementarlos en la sociedad actual.
 
 Indiferentemente de si deseas introducirte en ser un desarrollador *full stack, back-end* o *front-end*, de si eres un estudiante de informática o ingeniería de telecomunicaciones, de si deseas convertirte en el mejor administrador de sistemas y redes, introducirte en el campo del *big data* o arrancar en tus conocimientos de hacker ético, de si te gustaría refrescar tus metodologías de trabajo, de si quieres introducirte en el criptomundo y las cadenas de bloques o la robótica, de si solamente quieres comenzar a monetizar tu blog con criptomonedas, de si únicamente buscas fundamentos de ciberseguridad primarios o de si simplemente eres un curioso adicto tecnológico.
 
-Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer más, sobre nuestra "filosofía" puedes indagar en..[/expand]
-
- 
+Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer más, sobre nuestra "filosofía" puedes indagar en..
+🚧 EN CONSTRUCCIÓN 🚧
 
 Si aún te surgen dudas o te gustaría realizar alguna consulta, ***¿Qué es Ciberninjas?*** o ***Nuestro Proyecto***  y además, no temas en unirte a [nuestra conversación (Discord)](https://kutt.it/ciberninjas_discord).
 

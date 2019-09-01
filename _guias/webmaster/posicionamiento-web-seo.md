@@ -297,6 +297,7 @@ Las empresas locales querrán destacar por posicionar con palabras claves del ti
 
 ## Páginas Prácticas
 
+- [Contador de Palabras](https://www.palabrasque.com/contador-de-palabras)
 - [Días Internacionales, Día a Día](https://www.diainternacionalde.com)
 - [Días Internacionales: Unesco](http://www.unesco.org/new/es/unesco/events/prizes-and-celebrations/celebrations/international-days/)
 
