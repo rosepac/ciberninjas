@@ -4,7 +4,7 @@ title: "🖼 INFOGRAFÍA TÍTULO"
 description: "ICONO TEMÁTICA - DESCRIPCIÓN INFOGRAFIA"
 excerpt: "ICONO TEMÁTICA - DESCRIPCIÓN INFOGRAFIA"
 comments: true
-date: 2019-08-31 03:50:00
+date: 
 # vocablos específicos relacionados a la Info.
 tags:
   - Colores
