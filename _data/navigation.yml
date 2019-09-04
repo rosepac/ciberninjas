@@ -41,7 +41,13 @@ radio:
     url: /etiqueta/#r-b-americano
   - title: "Playlist Programar"
     url: /etiqueta/#playlist-programar
-    
+
+# Menú de Imágenes e Infografías
+# Radio es el Menú de toda mi música dividida en Apartados :D
+infog:
+  - title: "R & B Americano"
+    url: /etiqueta/#r-b-americano
+
 # Menú Principal Para las Páginas Principales
 # general:
 #   - title: "Glosario"
