@@ -18,7 +18,7 @@ header:
   image_description: Descripción Imagen
   caption: "**Créditos**: [Fuente]()"
 sidebar:
-  - title: "🖼 Infografías"
+  - title: "👨‍🎨 Infografías"
     nav: infog
 ---
 
