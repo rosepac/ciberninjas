@@ -20,7 +20,7 @@ header:
   caption: "Créditos: **Ten Tu Logo**"
   actions:
     - label: "📸 VER A TAMAÑO COMPLETO"
-      url: "https://ciberninjas.com/assets/images/infografias/psicologia-de-los-colores.jpg"
+      url: "https://tentulogo.com/wp-content/uploads/2017/11/Psicologia-de-los-colores.jpg"
 sidebar:
   - title: "👨‍🎨 Infografías"
     nav: infog
