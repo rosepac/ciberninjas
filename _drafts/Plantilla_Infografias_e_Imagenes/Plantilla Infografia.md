@@ -15,9 +15,9 @@ categories:
   - Psicología
 header:
   overlay_image: /.jpg
-  image_description: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar | Ciberninjas"
+  image_description: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar | Visto en Ciberninjas"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Amazon**"
+  caption: "Créditos: ****"
   actions:
     - label: "📸 VER A TAMAÑO COMPLETO"
       url: "/assets/images/infografias/psicologia-de-los-colores.jpg"
