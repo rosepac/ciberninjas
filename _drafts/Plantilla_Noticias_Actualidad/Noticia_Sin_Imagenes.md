@@ -5,7 +5,7 @@ excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 date: FECHA
 published: false
 link: ENLACE A LA NOTICIA
-# Categoría de la temáticade la noticia: Redes Sociales, Robótica Personal,Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
+# Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
 - Actualidad
 # Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
