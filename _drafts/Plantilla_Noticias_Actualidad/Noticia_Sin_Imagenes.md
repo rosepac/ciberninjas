@@ -3,7 +3,7 @@ title: "📰 TITULO"
 description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 date: 2019-08-27 23:04:50
-published: true
+published: false
 categories:
 - Genética
 - Actualidad
