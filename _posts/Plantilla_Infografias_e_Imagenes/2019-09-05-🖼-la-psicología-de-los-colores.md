@@ -20,7 +20,7 @@ header:
   caption: "Créditos: **Ten Tu Logo**"
   actions:
     - label: "🔍 VER ÁLBUM 📸"
-      url: "https://i.ibb.co/S0n9BqD/psicologia-de-los-colores.jpg"
+      url: "https://ibb.co/album/deUOov"
 sidebar:
   - title: "👨‍🎨 Infografías"
     nav: infog
@@ -33,6 +33,7 @@ Descubre las percepciones y mejor utilizaci&oacute;n para cada determinado color
 <img src="https://i.ibb.co/S0n9BqD/psicologia-de-los-colores.jpg" alt="psicologia-de-los-colores" border="0" />
 
 <a href="https://ibb.co/xGjR6VK"><img src="https://i.ibb.co/TR8FtzD/psicologia-de-los-colores.jpg" alt="psicologia-de-los-colores" border="0" /></a>
+
 <!-- Fuente -->
 **Fuente**: [Blog TentTuLogo](https://tentulogo.com/blog)
 {: .notice--info}
