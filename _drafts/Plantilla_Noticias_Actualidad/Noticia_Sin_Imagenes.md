@@ -5,7 +5,6 @@ excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 date: 2019-08-27 23:04:50
 published: false
 categories:
-- Genética
 - Actualidad
 link: ps://www.vox.com/future-perfect/2019/8/13/20802059/california-crispr-biohacking-illegal-josiah-zayner
 tags:
