@@ -4,6 +4,7 @@ description: '🎓 Se plantea un plan de digitalización de la educación con un
 excerpt: '🎓 Se plantea un plan de digitalización de la educación con una inversión de 226 millones de euros, por Agencia EFE'
 date: 2019/09/04 15:00:00
 link: https://www.efe.com/efe/espana/sociedad/celaa-avanza-un-plan-para-digitalizar-la-educacion-que-requerira-226-millones/10004-4055529
+published: true
 # Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
 - Actualidad
