@@ -14,9 +14,13 @@ categories:
   - Marketing
   - Psicología
 header:
-  image: "/.jpg"
-  image_description: Descripción Imagen
-  caption: "**Créditos**: [Fuente]()"
+  overlay_image: /.jpg
+  image_description: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar | Ciberninjas"
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Créditos: **Amazon**"
+  actions:
+    - label: "📸 VER A TAMAÑO COMPLETO"
+      url: "/assets/images/infografias/psicologia-de-los-colores.jpg"
 sidebar:
   - title: "👨‍🎨 Infografías"
     nav: infog
