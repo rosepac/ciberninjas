@@ -19,3 +19,6 @@ header:
 > 📰 ICONO-TEMATICA RESUMEN, por [AUTOR](ENLACE AL ESCRITOR)
 
 <!-- CONTENIDO -->
+
+**Fuente**: [TITULO](ENLACE A LA NOTICIA "TITLE")
+{: .notice--info}
