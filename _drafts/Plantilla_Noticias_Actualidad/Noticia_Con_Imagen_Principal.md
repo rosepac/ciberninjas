@@ -1,48 +1,21 @@
 ---
-title: "📰 💊 La Máquina Siempre Gana: Lo que impulsa nuestra adicción a las redes sociales"
-description: '📰 💊 La Máquina Siempre Gana: Lo que impulsa nuestra adicción a las redes sociales, por Richard Seymour'
-excerpt: '📰 💊 La Máquina Siempre Gana: Lo que impulsa nuestra adicción a las redes sociales, por Richard Seymour'
+title: "📰 ICONO-TEMATICA TITULO"
+description: '📰 ICONO-TEMATICA RESUMEN, por AUTOR'
+excerpt: '📰 ICONO-TEMATICA RESUMEN, por AUTOR'
 date: 2019-08-26
 published: true
 categories:
-- Actualidad
-- Redes Sociales
-link: https://www.theguardian.com/technology/2019/aug/23/social-media-addiction-gambling
+- CATEGORIA
+link: ENLACE A LA NOTICIA
 tags:
-- Adicción
-- Datos
-- Reflexión
+- ETIQUETAS
 header:
-  overlay_image: "/assets/images/facebook-pastillas.jpg"
+  overlay_image: "/assets/images/.jpg"
   overlay_filter: "0.2"
-  image_description: "La adicción a las pastillas que son las redes sociales, está en crecimiento en la actualidad del día a día | Ciberninjas"
+  image_description: "DESCRIPCION IMAGEN | Ciberninjas"
   caption: "**Créditos**: Foto de [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/collections/8502157/news?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 
 ---
-> 📰 💊 La Máquina Siempre Gana: Lo que impulsa nuestra adicción a las redes sociales, por [Richard Seymour](https://twitter.com/leninology)
+> 📰 ICONO-TEMATICA RESUMEN, por [AUTOR](ENLACE AL ESCRITOR)
 
-Este artículo destripa una visión poco considerada de las redes sociales, a través de una extensa comparativa entre las redes y las máquinas recreativas y de apuestas.
-
-Recordándonos que estas aplicaciones que se apoderan de nuestras vidas, no dejan de ser un negocio; podemos encontrar en su interior una variada reflexión comparativa entre las acciones que nos ofrece una red y las acciones de una apuesta.
-
-A continuación cito algunos de los extractos que me han parecido más destacables:
-
-> "..los usuarios terminan constantemente distraídos, improductivos, ansiosos, necesitados y deprimidos.."
-
-> "El problema es que el conocimiento generalizado de los peligros de la adicción no impide que ocurra; del mismo modo; sabemos, que si las plataformas de redes sociales nos vuelven adictos, están funcionando bien. Cuanto más destruyen nuestras vidas, mejor funcionan."
-
-> "Las plataformas como las máquinas de juegos, son expertas en disfrazar las pérdidas como ganancias. Si el hábito amenaza con aplastarnos, podemos fantasear con que un día una gran victoria nos salvará."
-
-> "Las plataformas nos tratan mal y nos mantienen interesados"
-
-> "En Twitter se tiene, como parte de su repertorio adictivo, el castigo democratizado."
-
-> "..una máquina(twitter) que nos engancha por el desagrado.."
-
-> "(las redes sociales, nos ofrecen) ..una variedad de posibles experiencias que incluyen el voyeurismo, la aprobación y desaprobación, los juegos, las noticias, la nostalgia, la socialización y comparaciones sociales regulares.."
-
-> "..manipulan los fines en beneficio de sus clientes reales, otras empresas.."
-
-> "Nos bombardean con estímulos, aprendiendo de nuestras respuestas.."
-
-Espero que lean el artículo completo, ¡Y nunca dejen de reflexionar!
+<!-- CONTENIDO -->
