@@ -1,21 +1,25 @@
 ---
-title: "📰 TITULO"
-description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
-excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
-date: FECHA
+title: "📰 Educación diseña 80 nuevas ofertas de FP la mayoría centrados en la tecnología"
+description: '🎓 Se plantea un plan de digitalización de la educación con una inversión de 226 millones de euros, por Agencia EFE'
+excerpt: '🎓 Se plantea un plan de digitalización de la educación con una inversión de 226 millones de euros, por Agencia EFE'
+date: 2019/09/04 15:00:00
 published: false
-link: ENLACE A LA NOTICIA
-# Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
+link: https://www.efe.com/efe/espana/sociedad/celaa-avanza-un-plan-para-digitalizar-la-educacion-que-requerira-226-millones/10004-4055529
+# Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
 - Actualidad
+- Educación
 # Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
 tags:
-- 
+- Ministra
+- Celaá
+- Competencias
+- FP
 
 ---
-> 📰 ICONO-TEMATICA RESUMEN, por [AUTOR](ENLACE AL ESCRITOR)
+> 📰 🎓 Se plantea un plan de digitalización de la educación con una inversión de 226 millones de euros, por [Agencia EFE](https://www.efe.com)
 
-CONTENIDO
+_"Se han empezado a diseñar 80 nuevas ofertas de FP asociadas, entre otras, a la fabricación inteligente, ciberseguridad, inteligencia artificial, conducción de drones, 5G o diseño de videojuegos, entre otras, de manera que se ofrezcan cada año "no menos de 15 nuevas ofertas formativas" en forma de títulos de técnico, técnico superior y de cursos de especialización"_
 
-**Fuente**: [TITULO](ENLACE A NOTICIA "TITLE")
+**Fuente**: [Educación diseña 80 nuevas ofertas de FP la mayoría centrados en la tecnología](https://www.efe.com/efe/espana/sociedad/celaa-avanza-un-plan-para-digitalizar-la-educacion-que-requerira-226-millones/10004-4055529 "Educación diseña 80 nuevas ofertas de FP la mayoría centrados en la tecnología")
 {: .notice--info}
