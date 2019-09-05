@@ -31,3 +31,6 @@ Descubre las percepciones y mejor utilizaci&oacute;n para cada determinado color
 
 <figure><a class="image-popup" href="/assets/images/infografias/psicologia-de-los-colores.jpg"><img src="/assets/images/infografias/psicologia-de-los-colores.jpg" /></a><figcaption>Infografía asociativa de los colores respecto a sus sentimientos y temáticas más reflejadas respecto a la visión social; blanco, gris, fucsia, negro, morado, marrón, azul, naranja, verde, rojo | Visto en Ciberninjas</figcaption></figure>
 
+<!-- Fuente -->
+**Fuente**: [Blog TentTuLogo](https://tentulogo.com)
+{: .notice--info}
