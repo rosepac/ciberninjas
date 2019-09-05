@@ -1,7 +1,7 @@
 ---
-title: "📰 Primera Ley con Regulación del Hacking Genético"
-description: '⚗ Primera Ley con Regulación del Hacking Genético'
-excerpt: '⚗ Primera Ley con Regulación del Hacking Genético'
+title: "📰 TITULO"
+description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
+excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 date: 2019-08-27 23:04:50
 published: true
 categories:
