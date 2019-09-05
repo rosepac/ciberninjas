@@ -2,11 +2,12 @@
 title: "📰 TITULO"
 description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
-date: 2019-08-27 23:04:50
+date: FECHA
 published: false
+link: ENLACE A LA NOTICIA
 categories:
 - Actualidad
-link: ps://www.vox.com/future-perfect/2019/8/13/20802059/california-crispr-biohacking-illegal-josiah-zayner
+# Nombre de institución protagonista o temática secundaria.
 tags:
 - Jennifer Doudna
 - Bioquímica
