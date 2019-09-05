@@ -13,7 +13,7 @@ tags:
 - Cyborgs
 
 ---
-> 🤖 ¿Somos Cyborgs? Según Elon Musk, ya lo somos
+> 📰 🤖 ¿Somos Cyborgs? Según Elon Musk, ya lo somos
 
 Uno de los temas que se discuten en esta entrevista en la que participa: Elon Musk; es si nos convertiremos en  cyborgs en el futuro; y al parecer Elon ya tiene claro que ¡Ya Somos Cyborgs!
 
