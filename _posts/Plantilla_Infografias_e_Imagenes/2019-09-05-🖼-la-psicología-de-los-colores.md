@@ -30,6 +30,9 @@ Infograf&iacute;a asociativa de los colores respecto a los sentimientos y tem&aa
 
 Descubre las percepciones y mejor utilizaci&oacute;n para cada determinado color; entre los colores blanco, gris claro, gris medio o gris oscuro, negro, morado, fucsia, marr&oacute;n, rojo, magenta, naranja, verde, oro, amarillo, y los distintos tonos de azul.
 
+<img src="https://i.ibb.co/S0n9BqD/psicologia-de-los-colores.jpg" alt="psicologia-de-los-colores" border="0" />
+
+<a href="https://ibb.co/xGjR6VK"><img src="https://i.ibb.co/TR8FtzD/psicologia-de-los-colores.jpg" alt="psicologia-de-los-colores" border="0" /></a>
 <!-- Fuente -->
 **Fuente**: [Blog TentTuLogo](https://tentulogo.com/blog)
 {: .notice--info}
