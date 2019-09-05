@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: "\U0001F5BC La Psicología de los Colores"
+title: "👨‍🎨 La Psicología de los Colores"
 description: "\U0001F3A8 Infografía que asocia cada color junto a los sentimientos y temáticas que mejor refleja dentro de la sociedad."
 excerpt: "\U0001F3A8 Infografía que asocia cada color junto a los sentimientos y temáticas que mejor refleja dentro de la sociedad."
 comments: true
@@ -21,7 +21,7 @@ header:
     morado, marrón, azul, naranja, verde, rojo | Visto en Ciberninjas
   caption: '**Créditos**: [tentulogo.com](https://tentulogo.com)'
 sidebar:
-  - title: "\U0001F5BC Infografías"
+  - title: "👨‍🎨 Infografías"
     nav: infog
 ---
 
