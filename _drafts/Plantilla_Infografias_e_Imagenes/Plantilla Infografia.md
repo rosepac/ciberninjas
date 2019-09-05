@@ -24,8 +24,6 @@ sidebar:
 
 <!-- Breve Resumen o Aclaración de lo que se Trata -->
 
-<figure><a class="image-popup" href="/assets/images/infografias/*.jpg"><img src="/assets/images/infografias/*.jpg" /></a><figcaption>DESCRIPCION | Visto en Ciberninjas</figcaption></figure>
-
 <!-- Fuente -->
-
+**Fuente**: []()
 {: .notice--info}
