@@ -19,8 +19,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Ten Tu Logo**"
   actions:
-    - label: "📸 VER A TAMAÑO COMPLETO"
-      url: "https://tentulogo.com/wp-content/uploads/2017/11/Psicologia-de-los-colores.jpg"
+    - label: "📸 MOSTRAR EN GRANDE 🔍"
+      url: "https://i.ibb.co/S0n9BqD/psicologia-de-los-colores.jpg"
 sidebar:
   - title: "👨‍🎨 Infografías"
     nav: infog
