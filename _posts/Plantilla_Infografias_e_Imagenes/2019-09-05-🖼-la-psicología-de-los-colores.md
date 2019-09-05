@@ -29,4 +29,5 @@ Infograf&iacute;a asociativa de los colores respecto a los sentimientos y tem&aa
 
 Descubre las percepciones y mejor utilizaci&oacute;n para cada determinado color; entre los colores blanco, gris claro, gris medio o gris oscuro, negro, morado, fucsia, marr&oacute;n, rojo, magenta, naranja, verde, oro, amarillo, y los distintos tonos de azul.
 
-&nbsp;
+<figure><a class="image-popup" href="/assets/images/infografias/psicologia-de-los-colores.jpg"><img src="/assets/images/infografias/psicologia-de-los-colores.jpg" /></a><figcaption>Infografía asociativa de los colores respecto a sus sentimientos y temáticas más reflejadas respecto a la visión social; blanco, gris, fucsia, negro, morado, marrón, azul, naranja, verde, rojo | Visto en Ciberninjas</figcaption></figure>
+
