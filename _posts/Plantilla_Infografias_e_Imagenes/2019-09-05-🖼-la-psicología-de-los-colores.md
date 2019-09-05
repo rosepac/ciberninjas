@@ -14,7 +14,7 @@ categories:
   - Marketing
   - Psicología
 header:
-  overlay_image: https://ciberninjas.com/assets/images/infografias/psicologia-de-los-colores.jpg
+  overlay_image: https://tentulogo.com/wp-content/uploads/2017/11/Psicologia-de-los-colores.jpg
   image_description: "Infografía asociativa de los colores respecto a sus sentimientos y temáticas más reflejadas respecto a la visión social; blanco, gris, fucsia, negro, morado, marrón, azul, naranja, verde, rojo | Visto en Ciberninjas"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Ten Tu Logo**"
@@ -31,5 +31,5 @@ Infograf&iacute;a asociativa de los colores respecto a los sentimientos y tem&aa
 Descubre las percepciones y mejor utilizaci&oacute;n para cada determinado color; entre los colores blanco, gris claro, gris medio o gris oscuro, negro, morado, fucsia, marr&oacute;n, rojo, magenta, naranja, verde, oro, amarillo, y los distintos tonos de azul.
 
 <!-- Fuente -->
-**Fuente**: [Blog TentTuLogo](https://tentulogo.com/wp-content/uploads/2017/11/Psicologia-de-los-colores.jpg)
+**Fuente**: [Blog TentTuLogo](https://tentulogo.com/blog)
 {: .notice--info}
