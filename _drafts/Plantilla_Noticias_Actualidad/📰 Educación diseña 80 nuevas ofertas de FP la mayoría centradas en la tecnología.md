@@ -1,5 +1,5 @@
 ---
-title: "📰 Educación diseña 80 nuevas ofertas de FP la mayoría centrados en la tecnología"
+title: "📰 Educación diseña 80 nuevas ofertas de FP la mayoría centradas en la tecnología"
 description: '🎓 Se plantea un plan de digitalización de la educación con una inversión de 226 millones de euros, por Agencia EFE'
 excerpt: '🎓 Se plantea un plan de digitalización de la educación con una inversión de 226 millones de euros, por Agencia EFE'
 date: 2019/09/04 15:00:00
