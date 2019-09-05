@@ -5,7 +5,7 @@ excerpt: '🤖 ¿Somos Cyborgs? Según Elon Musk, ya lo somos'
 date: 2019-08-27 23:00:09
 published: true
 categories:
-- Robótica Personal
+- Robótica
 - Actualidad
 link: https://www.youtube.com/watch?v=ycPr5-27vSI
 tags:
