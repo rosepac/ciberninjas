@@ -28,7 +28,7 @@ sidebar:
 
 <p><a href="https://ibb.co/xGjR6VK"><img src="https://i.ibb.co/TR8FtzD/psicologia-de-los-colores.jpg" alt="psicologia-de-los-colores" border="0" /></a></p>
 
-<a href="" title="" class="btn btn--light">MOSTRAR TAMAÑO COMPLETO</a>
+<center><a href="" title="" class="btn btn--light">MOSTRAR TAMAÑO COMPLETO</a></center>
 
 Infograf&iacute;a asociativa de los colores respecto a los sentimientos y tem&aacute;ticas que m&aacute;s simbolizan dentro de la sociedad, y pueden representar enfocado a un posible proyecto.
 
