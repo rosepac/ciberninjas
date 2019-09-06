@@ -19,7 +19,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Ten Tu Logo**"
   actions:
-    - label: "🔎 VER ÁLBUM 📸"
+    - label: "VER ÁLBUM 📸"
       url: "https://ibb.co/album/deUOov"
 sidebar:
   - title: "👨‍🎨 Infografías"
@@ -28,7 +28,7 @@ sidebar:
 
 <p><a href="https://ibb.co/xGjR6VK"><img src="https://i.ibb.co/TR8FtzD/psicologia-de-los-colores.jpg" alt="psicologia-de-los-colores" border="0" /></a></p>
 
-<center><a href="" title="" class="btn btn--light">MOSTRAR TAMAÑO COMPLETO</a></center>
+<center><a href="https://ibb.co/xGjR6VK" class="btn btn--success btn--large" title="La psicología de los colores dentro del marketing | Visto en Ciberninjas">🔎 TAMAÑO COMPLETO 🔍</a></center>
 
 Infograf&iacute;a asociativa de los colores respecto a los sentimientos y tem&aacute;ticas que m&aacute;s simbolizan dentro de la sociedad, y pueden representar enfocado a un posible proyecto.
 
