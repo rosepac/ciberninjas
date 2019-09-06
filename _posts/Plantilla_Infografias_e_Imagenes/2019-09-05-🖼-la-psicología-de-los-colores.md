@@ -26,13 +26,13 @@ sidebar:
     nav: infog
 ---
 
-<p><a href="https://ibb.co/xGjR6VK"><img src="https://i.ibb.co/TR8FtzD/psicologia-de-los-colores.jpg" alt="psicologia-de-los-colores" border="0" /></a></p>
-
-<center><a href="https://ibb.co/xGjR6VK" class="btn btn--success btn--large" title="La psicología de los colores dentro del marketing | Visto en Ciberninjas">🔎 TAMAÑO COMPLETO 🔍</a></center>
-
 Infograf&iacute;a asociativa de los colores respecto a los sentimientos y tem&aacute;ticas que m&aacute;s simbolizan dentro de la sociedad, y pueden representar enfocado a un posible proyecto.
 
 Descubre las percepciones y mejor utilizaci&oacute;n para cada determinado color; entre los colores blanco, gris claro, gris medio o gris oscuro, negro, morado, fucsia, marr&oacute;n, rojo, magenta, naranja, verde, oro, amarillo, y los distintos tonos de azul.
+
+<center><a href="https://ibb.co/xGjR6VK" class="btn btn--success btn--large" title="La psicología de los colores dentro del marketing | Visto en Ciberninjas">🕵️‍♀️ TAMAÑO COMPLETO 🔍</a></center>
+
+<a href="https://ibb.co/xGjR6VK"><img src="https://i.ibb.co/TR8FtzD/psicologia-de-los-colores.jpg" alt="psicologia-de-los-colores" border="0" /></a>
 
 <!-- Fuente -->
 **Fuente**: [Blog TentTuLogo](https://tentulogo.com/blog)
