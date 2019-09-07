@@ -76,7 +76,7 @@ plugins:
 author:
   name   : "ROSEPAC"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Bibliotecario de Google. Documentalista Digital."
+  bio    : "Bibliotecario de Internet. Documentalista Digital."
   links:
     - label: "Café"
       icon: "fas fa-fw fa-mug-hot"

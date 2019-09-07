@@ -37,12 +37,28 @@ Sus características incluyen:
 
 ELAN es desarrollado por el Instituto Max Planck de Psicolingüística en Nijmegen . La primera versión fue lanzada alrededor del año 2000 bajo el nombre EAT, Eudico Annotation Tool. Fue renombrado a ELAN en 2002. Desde entonces, se lanzan dos o tres versiones nuevas cada año. Está desarrollado en el lenguaje de programación Java con interfaces para plataformas de medios nativos desarrollados en C , C ++ y Objective-C .
 
-Sitio Web: [https://tla.mpi.nl/tools/tla-tools/elan/](https://tla.mpi.nl/tools/tla-tools/elan/ "Página web oficial del software ELAN")
+## Enlaces Externos
+
+- Official website](http://tla.mpi.nl/tools/tla-tools/elan)
+- [ELAN recursos de terceros (Templates, Scripts, Tools, Flujos de Trabajo de Descripciones, HowTos)](https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/)
+- Manuals:
+	- [Hellwig, B. (2017): ELAN - Anotador Lingüístico (Manual)](http://www.mpi.nl/corpus/manuals/manual-elan.pdf)
+	- [RedHenLab (2016). Cómo anotar con ELAN (Tutorial)](http://www.redhenlab.org/home/tutorials-and-educational-resources/-how-to-annotate-with-elan)
+	- [Rosenfelder, I. (2011): Una breve introducción a la transcripción con ELAN](http://fave.ling.upenn.edu/downloads/ELAN_Introduction.pdf)
+	- [Colletta J.M. (2009): Manual de Codificación – Transcripción y Anotación de Datos Multimodales con ELAN](http://lidilem.u-grenoble3.fr/IMG/pdf/anrmultimodalityresearch-codingmanual.pdf)
+
+**Desarrollador**: [The Language Archive](https://tla.mpi.nl/ "Página web oficial del software ELAN")
+{: .notice--primary}
+
+**Licencia**: [GPLv3](https://es.wikipedia.org/wiki/GNU_General_Public_License#Versi%C3%B3n_3)
+{: .notice--primary}
+
+**Sitio Web**: [https://tla.mpi.nl/tools/tla-tools/elan/](https://tla.mpi.nl/tools/tla-tools/elan/ "Página web oficial del software ELAN")
 {: .notice--primary}
 
 <!-- POR TRADUCIR: https://en.wikipedia.org/wiki/ALGOL_68 -->
 **Categorías**: Software de Investigación Lingüistica
-{:.notice--primary}
+{:.notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Elan - Software](https://en.wikipedia.org/wiki/ELAN_software) de la Wikipedia en inglés, versión del 22 de enero de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=ELAN_software&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
 {: .notice--info}

@@ -3,18 +3,10 @@ main:
     url: /guias/
   - title: "Glosario"
     url: /glosario/
-  - title: "Categorías"
-    url: /categoria/
-  - title: "Etiquetas"
-    url: /etiqueta/
-  - title: "Archivo"
-    url: /archivo/
   - title: "Quién Soy"
     url: /quien-soy/
   - title: "Aviso Legal"
     url: /aviso-legal/
-  - title: "Política Comentarios"
-    url: /politica-comentarios/
 
 # Menú del Catálogo de Productos en Venta
 # catalogo:
@@ -49,21 +41,25 @@ infog:
     url: /categoria/#imagen-dise%C3%B1o
 
 # Menú Principal Para las Páginas Principales
-# general:
+general:
 #   - title: "Glosario"
 #     utl: /glosario/
-#   - title: "Categorías"
-#     url: /categoria/
-#   - title: "Etiquetas"
-#     url: /etiqueta/
-#   - title: "Archivo"
-#     url: /archivo/
+  - title: "Guías"
+    url: /guias/
+  - title: "Glosario"
+    url: /glosario/
+  - title: "Categorías"
+    url: /categoria/
+  - title: "Etiquetas"
+    url: /etiqueta/
+  - title: "Archivo"
+    url: /archivo/
 #   - title: "Quién Soy"
 #     url: /quien-soy/
 #   - title: "Aviso Legal"
 #     url: /aviso-legal/
-#   - title: "Política Comentarios"
-#     url: /politica-comentarios/
+  - title: "Política Comentarios"
+    url: /politica-comentarios/
 #   - title: Vídeoteca
 #     url: #
 #   children:

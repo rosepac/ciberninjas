@@ -6,6 +6,10 @@ excerpt: "Respecto y Pautas a seguir respecto al uso de los comentarios dentro d
 last_modified_at: 2019-08-09T12:42:42-05:00
 permalink: /politica-comentarios/
 title: "Sobre la Política de Comentarios"
+author_profile: false
+sidebar:
+- title: "Menú Principal"
+  nav: general
 
 ---
 

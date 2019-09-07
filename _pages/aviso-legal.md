@@ -10,6 +10,9 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
+sidebar:
+- title: "Menú Principal"
+  nav: general
 
 ---
 

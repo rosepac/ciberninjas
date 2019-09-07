@@ -12,6 +12,11 @@ author_profile: false
 permalink: /wiki/categoria/generadores-de-sitios-web-estaticos
 
 ---
+
+🚧 EN CONSTRUCCIÓN 🚧
+{: .notice--warning}
+
+<!-- EN CONSTRUCCIÓN -->
 Páginas pertenecientes a esta categoría: 3
 
 ## H
@@ -24,6 +29,5 @@ Páginas pertenecientes a esta categoría: 3
 - Nanoc
 
 ## Enlaces Externos
-
 
 <!-- https://en.wikipedia.org/wiki/Category:Free_static_website_generators -->

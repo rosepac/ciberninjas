@@ -20,26 +20,27 @@ Fue desarrollado en 1974 por CHA Koster y un grupo de la Universidad Técnica de
 
 El diseño del lenguaje se enfoca fuertemente en la programación estructurada y tiene una construcción especial para el refinamiento gradual, permitiendo a los estudiantes enfocarse en el diseño de arriba hacia abajo y la codificación de abajo hacia arriba.
 
-## collapsible markdown?
+**Creador**: CHA Koster (et al.)
+{: .notice--primary}
 
-<details>
-    <summary>CLICK ME</summary>
-## yes, even hidden code blocks!
-    
-Texto de Mierda xD
-</details>
+**Desarrollador**: Universidad Técnica de Berlín
+{: .notice--primary}
 
-Diseñador: CHA Koster (et al.)
-Desarrollador: Universidad Técnica de Berlín
-Apareció en: 1974
-Sistema Operativo: [Eumel](/wiki/eumel "Eumel, sistema operativo descontinuado inventado en Alemania en los años 70)
-Sitio Web: [http://www.cs.ru.nl/elan/](http://www.cs.ru.nl/elan/ "Página web oficial del lenguaje de programación de Elan")
-Influencias: [ALGOL 68]()
+**Apareció en**: 1974
+{: .notice--primary}
+
+**Influencias**: [ALGOL 68]()
+{: .notice--primary}
+
+**Sistema Operativo**: [Eumel](/wiki/eumel "Eumel, sistema operativo descontinuado inventado en Alemania en los años 70)
+{: .notice--primary}
+
+**Sitio Web**: [http://www.cs.ru.nl/elan/](http://www.cs.ru.nl/elan/ "Página web oficial del lenguaje de programación de Elan")
 {: .notice--primary}
 
 <!-- POR TRADUCIR: https://en.wikipedia.org/wiki/ALGOL_68 -->
 **Categorías**: Lenguaje de Programación | Lenguajes de Programación Educativos
-{:.notice--primary}
+{:.notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Elan - Lenguaje de Programación](https://en.wikipedia.org/wiki/ELAN_(programming_language)) de la Wikipedia en inglés, versión del 14 de Abril de 2014, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=ELAN_(programming_language)&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
 {: .notice--info}
