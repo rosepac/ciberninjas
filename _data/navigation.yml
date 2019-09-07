@@ -45,8 +45,8 @@ radio:
 # Menú de Imágenes e Infografías
 # Radio es el Menú de toda mi música dividida en Apartados :D
 infog:
-  - title: "👷‍♂️"
-    url: /etiqueta/
+  - title: "🎨️ Diseño"
+    url: /categoria/#imagen-dise%C3%B1o
 
 # Menú Principal Para las Páginas Principales
 # general:
