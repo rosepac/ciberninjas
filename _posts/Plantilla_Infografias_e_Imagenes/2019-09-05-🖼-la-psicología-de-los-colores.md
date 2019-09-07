@@ -19,7 +19,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Ten Tu Logo**"
   actions:
-    - label: "VER ÁLBUM 📸"
+    - label: "📸 VER ÁLBUM"
       url: "https://ibb.co/album/deUOov"
 sidebar:
   - title: "👨‍🎨 Infografías"
