@@ -5,16 +5,10 @@ excerpt: "\U0001F4DA La Librería de Libros Recomendados Más Completa & Mucho M
 permalink: /libreria/
 ---
 
+Aquí se encuentran libros, que estan fuera de lo relacionado a la temática de la tecnología; en general novelas y novelas en inglés; que aparence dentro de los distintos listados de las publicaciones de recomendaciones de libros de personajes reconocidos.
+
 Los enlaces aqu&iacute; expuestos, trabajan a trav&eacute;s de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la p&aacute;gina web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos m&aacute;s recursos
 {: .notice--warning}
-
-### Seguridad Inform&aacute;tica
-
-* El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA) [Saber M&aacute;s](/el-arte-de-la-invisibilidad/)
-* El enemigo conoce el sistema [Tapa Blanda](https://amzn.to/2Z46eBx) [Ebook](https://amzn.to/2Z1YfEV)
-* El libro blanco del hacker [Tapa Blanca](https://amzn.to/2N5EkCS)
-* El peque&ntilde;o libro rojo del activista en la red [Tapa Blanda](https://amzn.to/2YQharj) [Ebook](https://amzn.to/33uIgmt)
-* Web hacking 101: C&oacute;mo hacer dinero hackeando &eacute;ticamente [Varios Formatos](https://leanpub.com/web-hacking-101-es)
 
 ## Autores de Novelas y Bibliograf&iacute;as Completas
 

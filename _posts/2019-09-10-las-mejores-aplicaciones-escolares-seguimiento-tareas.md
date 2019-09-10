@@ -15,7 +15,6 @@ tags:
 - Universidad
 - Tareas
 - Exámenes
-class: wide
 header:
   overlay_image: /assets/images/escuela-aplicaciones-calendario-peque.jpg
   image_description: "El mejor listado de las mejores aplicaciones escolares de seguimiento de tareas para el curso de 2019 | Ciberninjas"
