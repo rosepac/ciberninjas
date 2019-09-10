@@ -53,13 +53,14 @@ En la actualidad. La web se ejecuta en una versión AMP a tiempo completo buscan
 
 En principio, los servicios que volverían a funcionar si la web pasase de nuevo a funcionar a formato completo serían: Facebook y Twitter. Si deseas tener más conocimiento de la política de cookies que seguiría Facebook dentro de mi web, puedes informarte aquí. Si deseas tener más conocimiento de la política de cookies que seguiría Twitter  dentro de mi web, puedes informarte aquí.
 
+### ¿Cómo eliminar las Cookies?
+Sigue paso a paso la guía de [este enlace](https://www.cookiesandyou.com/disable-cookies) si deseas desactivar o eliminar por completo las cookies que este sitio web ha guardado sobre tu navegador.
+
+Si fueses usuario de algún otro navegador la metodología suele ser similar o también puedes dar uso de un Software Gratuito que limpie 'cookies' mi recomendación es: [BleachBit](https://www.bleachbit.org/)
+
 ## Venta de Productos
 
 Respecto al apartado de la tienda, desde esta página web no se realizan ventas directas. Utilizamos enlaces de afiliados de Amazon y otras múltiples empresas, desde las que se realizan las distintas compras; y se usarán las COOKIES necesarias para el funcionamiento correcto de los productos mostrados y expuestos a la venta.
-
-## Eliminación de Cookies
-
-Si desees suprimir cedidas a esta página web. Solamente debes seguir los pasos indicados: lee aquí si eres usuario de Chrome, lee aquí si eres usuario de Firefox, lee aquí si eres usuario de Mac o Safari, lee aquí si eres usuario de Opera, si eres usuario de otro navegador la metodología suele ser similar o también puedes dar uso de un Software Gratuito que limpie 'cookies' del estilo de los citados en infospyware.
 
 ## Formularios de Contacto
 

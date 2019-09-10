@@ -15,6 +15,7 @@ tags:
 - Universidad
 - Tareas
 - Exámenes
+class: wide
 header:
   overlay_image: /assets/images/escuela-aplicaciones-calendario-peque.jpg
   image_description: "El mejor listado de las mejores aplicaciones escolares de seguimiento de tareas para el curso de 2019 | Ciberninjas"
@@ -57,7 +58,7 @@ Uno de los detalles más importantes de esta app es que permite configurar los d
 
 **My Homework** se ofrece como el mejor planificador para estudiantes que existe. Visualmente se muestra como una app bella y simple con un diseño moderno y una interfaz sencilla que facilita el uso a cualquier persona, funcionando perfectamente sin necesidad de conexión a la red.
 
-Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.myhomeowork&hl=en) o [para Apple](https://apps.apple.com/es/app/myhomework-student-planner/id303490844) si tu dispositivo es iOS.
+Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.myhomeowork&hl=en) o [para Apple](https://apps.apple.com/es/app/myhomework-student-planner/id303490844) en iOS.
 
 ## Horario de Clases
 
@@ -72,7 +73,7 @@ La pantalla principal te muestra una lista simple de las clases de cada día mie
 
 **Class Timetable** plantea una interfaz donde destaca principalmente su diseño centrado en un cronograma generado por colores.
 
-Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.icemediacreative.timetable) o [para Apple](https://apps.apple.com/es/app/horario-de-clases/id425121147) si tu dispositivo es iOS.
+Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.icemediacreative.timetable) o [para Apple](https://apps.apple.com/es/app/horario-de-clases/id425121147) en iOS.
 
 ## Mi Vida de Estudiante
 
@@ -83,9 +84,9 @@ Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id
 
 Mi vida de estudiante, ofrece un diseño simple y fácil de navegar y posiblemente es la que más opciones gratuitas ofrece. Agrega una interesante opción de "Mañana" o "Tomorrow" que te indica las clases y tareas a realizar para el día siguiente o si tienes un examen; incluso ofrece agregar fechas de recuperación sobre los días de los exámenes.
 
-**My Study Life^^ a diferencia de un planificador en papel o un diario escolar integra todas las áreas de su vida académica: ve las tareas vencidas y atrasadas para tus clases, clases que coincidan con tus exámenes e incluso agrega tareas de revisión para un examen específico, todo de forma gratuita y fácil de leer. Sincroniza todo entre tus dispositivos.
+**My Study Life** a diferencia de un planificador en papel o un diario escolar integra todas las áreas de su vida académica: ve las tareas vencidas y atrasadas para tus clases, clases que coincidan con tus exámenes e incluso agrega tareas de revisión para un examen específico, todo de forma gratuita y fácil de leer. Sincroniza todo entre tus dispositivos.
 
-Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.virblue.mystudylife&hl=en) o [para Apple](https://apps.apple.com/es/app/my-study-life-school-planner/id910639339) si tu dispositivo es iOS.
+Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.virblue.mystudylife&hl=en) o [para Apple](https://apps.apple.com/es/app/my-study-life-school-planner/id910639339) en iOS.
 
 
 ## Más Aplicaciones
@@ -95,16 +96,18 @@ Si ninguna de estas aplicaciones te convencen, siempre puedes intentar usar una 
 Mis favoritas son: 
 
 1. SimpleNote
-2. Microsoft TO DO -la antigua aplicación de Wunderlist- se sincroniza a la perfección junto al Sistema Operativo de Windows 10.
+2. Microsoft TO DO -la antigua aplicación de Wunderlist- que se sincroniza a la perfección junto al Sistema Operativo de Windows 10.
 3. Google Keep
 
-Otras aplicaciones entre las más conocidas:
-- Habitica; una opción diferente centrada en la gamificación.
-- Remember the Milk.
+Otras aplicaciones de entre las más conocidas:
+- Habitica. Opción diferente centrada en la gamificación.
+- Remember the Milk
 - Any.DO
 - TodoIST
 - Clear Tasks
 
-Definitivamente estas son algunas de las mejores aplicaciones que te van a facilitar increíblemente tu organización a lo largo de tus horas de estudio a través del seguimiento de tus clases, tareas y exámenes; cada una de ellas gestionada por una distinta metodología y no dejes de recordar siempre que la mejor solamente será la que más se adapte a tus necesidades reales y que es mucho mejor gestionarse a través de 1 o como mucho 2 aplicaciones y exprimir todas sus opciones al máximo que instalar decenas de aplicaciones y encontrarse envuelto en una locura de apps.
+Definitivamente estas son algunas de las mejores aplicaciones que te van a facilitar increíblemente tu organización a lo largo de tus horas de estudio a través del seguimiento de tus clases, tareas y exámenes.
+
+Cada una de ellas gestionada por una distinta metodología y no dejes de recordar siempre que la mejor solamente será la que más se adapte a tus necesidades reales y que es mucho mejor gestionarse a través de 1 o como mucho 2 aplicaciones y exprimir todas sus opciones al máximo que instalar decenas de aplicaciones y encontrarse envuelto en una locura de apps.
 
 ¡Espero que os sea un gran año de clases y estudio!
