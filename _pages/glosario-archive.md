@@ -6,6 +6,9 @@ excerpt: "🔠 Glosario Tecnológico de los Ciberninjas"
 collection: glosario
 permalink: /glosario/
 author_profile: false
+sidebar:
+- title: "Menú Principal"
+  nav: general
 ---
 
 Lista de todas las palabras añadidas a mi `glosario`.

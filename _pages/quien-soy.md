@@ -15,6 +15,10 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
+author_profile: false
+sidebar:
+- title: "Menú Principal"
+  nav: general
 ---
 ## Quién es _**rosepac**_
 

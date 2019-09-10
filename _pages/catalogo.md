@@ -11,14 +11,18 @@ toc_sticky: true
 permalink: /catalogo/
 ---
 
-Los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la página web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos más recursos
-{: .notice--warning}
-
 👷‍♀️ ¡EN CONSTANTE CREACIÓN!
+
+<details>
+<summary>Saber Más</summary>
+<br/>
+<p>Poco a poco, vamos a crear un largo catálogo de los mejores productos frikis con los que realizar los más impresionantes regalos a las personas que les encanta el mundo de la tecnología, los gadgets tecnológicos, la música y las series indies, los comics, el manga.</p>
+<p></p>
+</details>
 
 ## 📚 Libros
 
-## 🏪 Marketing en Redes Sociales
+## Marketing en Redes Sociales 🏪 
 
 - [101 Consejos y Estrategias de Facebook Marketing](https://amzn.to/2ZqWeqT)
 - [Community manager. La guía definitiva](https://amzn.to/2ZGKn3c)
@@ -28,14 +32,14 @@ Los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen re
 - [Facebook Marketing: Utilice Facebook para una mercadotecnia rentable](https://amzn.to/2PpxcnG)
 - [La Biblia del Community Manager](https://amzn.to/2UhJb5r)
 - [Marketing Digital 360º. Implementación práctica](https://amzn.to/2ZGh3tJ)
-- [Marketing digital para Dummies](https://amzn.to/2LcPILW)
+- [Marketing Digital para Dummies](https://amzn.to/2LcPILW)
 - [Marketing Digital para Startups y Autónomos: Cómo ganar la partida](https://amzn.to/2ZuqW2s)
 - [Marketing en Instagram: Cómo dominar su nicho en 2019](https://amzn.to/2NIFKmY)
 - [Marketing en Instagram: ¡Una Forma Perfecta de Hacerse Rico!](https://amzn.to/2L8RvBu)
 - [Marketing en Redes Sociales](https://amzn.to/2LcNagw)
 - [Secretos de Mercadeo de Instagram](https://amzn.to/2L90BhD)
 
-## Webmaster
+## Webmaster 👷‍♂️
 
 - [Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente](https://amzn.to/2Ll5N0K)
 - [CRO. Diseño y desarrollo de negocios digitales](https://amzn.to/2ZnFdOu)
@@ -45,15 +49,14 @@ Los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen re
 - [Visibilidad Online - Marketing Digital 2019](https://amzn.to/2L9jZuU)
 
 
-## 👩‍💻 Programación Web & Móvil
+## Programación Web & Móvil 👩‍💻
 
-### Android
+### Android <i class="fab fa-android"></i>
 
-1. [EL GRAN LIBRO DE ANDROID 7ª ED](https://amzn.to/2Pz5cOu)
-2. [Plataformas Android: Wear, TV, Auto y Google Play Games](https://amzn.to/2LbZUUM)
-3. [Aprende a programar con KOTLIN](https://amzn.to/2Lgibk1)
-4. [ANDROID STUDIO. Aprende a desarrollar aplicaciones](https://amzn.to/2LgDjFu)
-
+1. [ANDROID STUDIO. Aprende a desarrollar aplicaciones](https://amzn.to/2LgDjFu)
+2. [Aprende a programar con KOTLIN](https://amzn.to/2Lgibk1)
+3. [EL GRAN LIBRO DE ANDROID 7ª ED](https://amzn.to/2Pz5cOu)
+4. [Plataformas Android: Wear, TV, Auto y Google Play Games](https://amzn.to/2LbZUUM)
 
 ### Swift <i class="fab fa-apple"></i>
 
@@ -74,14 +77,14 @@ INGLÉS
 8. [IOS 13 Fundamentos de programación con Swift](https://amzn.to/2Zvu5KJ)
 9. Patrones de diseño en Swift 5 [Tapa Blanda](https://amzn.to/2L3PGWn) - [Ebook](https://amzn.to/2L6chS8)
 10. Programación reactiva con Swift 4 [Tapa Blanda](https://amzn.to/2Pm8vbP) - [Ebook](https://amzn.to/2L3rCmt)
-11. Programando iOS 12(https://amzn.to/2NG0oEu) [Ebook](https://amzn.to/2NDxNiY)
+11. Programando iOS 12 [Tapa Blanda](https://amzn.to/2NG0oEu) [Ebook](https://amzn.to/2NDxNiY)
     Sumérgete profundamente en las vistas, los controladores de vista y los marcos
 12. Recetario Swift de desarrollo de juegos en iOS [Tapa Blanda](https://amzn.to/2PjP7Mh) - [Ebook](https://amzn.to/2HAjZSG)
 13. [Simulaciones en Swift 5](https://amzn.to/2LldaVU)
     Diseño e implementación con Swift Playgrounds
 
 
-## 📚 🎮 Libros de Videojuegos
+## Libros de Videojuegos 📚 🎮
 
 ### Clash Royal
 
@@ -136,19 +139,25 @@ INGLÉS
 - [Guía de juegos de aventuras: Con más de 40 juegos alucinantes](https://amzn.to/2ZqYqPl)
 - [Guía del universo Roblox](https://amzn.to/2HvYC4E)
 
+<details>
+<summary>Saber Más Sobre Roblox</summary>
+<br/>
+<p>Roblox se anuncia como una <<strong>'Plataforma de imaginación'</strong> que permite a sus usuarios desarrollar o jugar millones de juegos 3D en línea. Fue lanzado en 2007 y tiene 64 millones de jugadores cada mes, con un total estimado de 178 millones de cuentas en la plataforma. Está disponible para descargar como una aplicación tanto en Android como en iOS y aparece como 12+ con el asesoramiento de los padres recomendado. Los usuarios también pueden jugar en tabletas, PC, XBox One o dispositivos Amazon.</p>
+<p></p>
+</details>
 
 ### Otros Videojuegos
 - [APEX LEGENDS. Guía no oficial de combate](https://amzn.to/2LiqAC6)
 - [Atrapados en Battle Royale (Atrapados en Battle Royale 1)](https://amzn.to/2Lq3uJM)
 
 
-## 📚 🎥 Libros de Blogguers y Youtubers
+## Libros de Blogguers y Youtubers 📚 🎥
 
-- Pino. ¡Empieza la batalla!(https://amzn.to/2HxZbLw)
-- Yo también puedo ser blogger y vlogger (Libro de actividades)(https://amzn.to/2ZvKWgh)
+- [Pino. ¡Empieza la batalla!](https://amzn.to/2HxZbLw)
+- [Yo también puedo ser blogger y vlogger](https://amzn.to/2ZvKWgh) (Libro de actividades)
 
 
-### Redes y Administración
+### Redes y Administración <i class="fas fa-network-wired"></i>
 
 - Superficiales: ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) - [Ebook](https://amzn.to/2KORsur)
 
@@ -157,7 +166,7 @@ INGLÉS
 
 ## 🎁 Regalos Frikis
 
-### Agendas Escolares
+### Agendas Escolares <i class="fas fa-calendar-week"></i>
 
 - [Agenda escolar 2019-2020 Croqueta y Empanadilla](https://amzn.to/2L2YZ94)
 - [Agenda escolar 2019-2020 Defreds](https://amzn.to/2L6SRNb)
@@ -166,6 +175,5 @@ INGLÉS
 - [Agenda escolar 2019-2020 Moderna de Pueblo](https://amzn.to/2Pn6R9B)
 - [Agenda escolar 2019-2020 Mónica Morán](https://amzn.to/2ZBSvly)
 
-
-Poco a poco, vamos a crear un largo catálogo de los mejores productos frikis con los que realizar los más impresionantes regalos a las personas que les encanta el mundo de la tecnología, los gadgets tecnológicos, la música y las series indies, los comics, el manga.
-
+Los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la página web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos más recursos
+{: .notice--warning}

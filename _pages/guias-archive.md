@@ -6,6 +6,9 @@ excerpt: "Guías Desde Cero a Profesional de Programación, Software y Otros Con
 collection: guias
 permalink: /guias/
 author_profile: false
+sidebar:
+- title: "Menú Principal"
+  nav: general
 ---
 
 Mis guías, bibliotecas, biblias o biblioguías, como me gusta llamarlos. Son artículos generados a través de un largo estudio documentado a través de la web y centrado en transmitir el máximo conocimiento posible sobre un único tema concreto.
