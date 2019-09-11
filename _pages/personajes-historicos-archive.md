@@ -12,6 +12,10 @@ sort_by: date # (default) title
 sort_order: reverse
 published: true
 author_profile: false
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
 sidebar:
 - title: "Historia Computadora"
   nav: historia
@@ -20,7 +24,7 @@ sidebar:
 **IMPORTANTE**: El contenido en esta página incluido y traducido además de las páginas adyacentes sobre el directorio de ```/personajes-historicos/``` así como las fotografías incluidas se encuentran bajo los derechos de autoría y Copyright © 2019 de Computer History Museum. NO COPIAR, NI REPRODUCIR sin su consentimiento previo.
 {: .notice--warning}
 
-Esta es una galería de personajes, podríamos definirlo como un Hall of Fame o Salón de la Fama de la Computación y la Informática, formada por todos los premiados como miembros del Museo Histórico de la Computadora.
+Esta es una galería de personajes, que podríamos definir como un Hall of Fame o Salón de la Fama de la Computación y la Informática, formada por todos los premiados como miembros del Museo Histórico de la Computadora.
 
 ## Personajes Históricos
 
