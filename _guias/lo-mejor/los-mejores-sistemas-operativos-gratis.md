@@ -3,7 +3,7 @@ title: "\U0001F468‍\U0001F4BB ▷ Los Mejores Sistemas Operativos Gratis de C�
 description: "\U0001F528 Lista de Sistemas Operativos Gratuitos de Código Abierto sustitutos de Windows"
 excerpt: "\U0001F528 Lista de Sistemas Operativos Gratuitos de Código Abierto sustitutos de Windows"
 date: 2019-08-29 00:00:00 +0200
-last_modified_at: 2019-08-29 00:00:00 +0200
+last_modified_at: 2019-09-11 00:00:00 +0200
 permalink: /los-mejores-sistemas-operativos-gratis/
 published: true
 # header:
@@ -19,7 +19,7 @@ toc_sticky: true
 
 ## Los Mejores Sistemas Operativos Gratis de C&oacute;digo Abierto
 
-1. [Linux](https://en.wikipedia.org/wiki/Linux)
+1. [Linux](https://es.wikipedia.org/wiki/GNU/Linux)
     - [Debian OS](https://www.debian.org/)
     - [Manjaro OS](https://manjaro.org/)
     - [Ubuntu OS](https://ubuntu.com/)
