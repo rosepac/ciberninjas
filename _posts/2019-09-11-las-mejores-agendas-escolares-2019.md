@@ -210,7 +210,7 @@ De regalo una regla que te servirá de marca páginas y 5 fundas de plástico pa
 
 Divertida agenda con la que podrás llevarte tu juego favorito a la escuela, que incluye numerosos apartados: horario, calendario de vacaciones, plannings mensuales, espacio para redes sociales, viajes, listas de objetivos,tareas y notas; 2 páginas de pegatinas, 254 páginas con esquinas cuadradas y microperforadas y un sobre de papel para guardar cosas pequeñas.
 
-<center><a href="https://amzn.to/34EykHq" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 | Ciberninjas">📖 COMPRAR AGENDA</a></center>
+<center><a href="https://amzn.to/34EykHq" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 /| Ciberninjas">📖 COMPRAR AGENDA</a></center>
 
 ## Agenda Escolar de la Ilustradora Ana Oncina 2019/2020
 
