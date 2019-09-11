@@ -4,6 +4,7 @@ description: '🗓 Las Agendas Más Originales Creadas para el Año 2019 - Segun
 excerpt: '🗓 Las Agendas Más Originales Creadas para el Año 2019 - Segunda Parte'
 date: 2019/09/11 22:02:00
 published: true
+permalink: /las-mejores-agendas-escolares-2019-2/
 # Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
 - Educación

@@ -4,7 +4,7 @@ title: "📚 ▷ Más de 340 Libros 🔥 Aprender Programación, Redes, Robótic
 description: "🚀 Biblia de Libros PDF Online: Programación Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 💰 Ofimática 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Biblia de Libros PDF Online: Programación Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 💰 Ofimática 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 date: 2018-02-13T22:00:00.000+00:00
-last_modified_at: 2019-00-11T12:42:42-05:00
+last_modified_at: 2019-10-11T12:42:42-05:00
 permalink: /biblioteca-de-programacion-y-tecnologia/
 published: true
 # image: 
