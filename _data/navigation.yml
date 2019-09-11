@@ -46,10 +46,10 @@ portada:
 #     utl: /glosario/
   - title: "Guías"
     url: /guias/
-  - title: "Historia Computadora"
-    url: /historia-computadora/
-  - title: "Wikipedia"
-    url: /wiki/
+#  - title: "Historia Computadora"
+#    url: /historia-computadora/
+#  - title: "Wikipedia"
+#    url: /wiki/
   - title: "Glosario"
     url: /glosario/
 
