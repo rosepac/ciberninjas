@@ -219,3 +219,15 @@ En la década de 1930, el escritor británico HG Wells y el científico estadoun
 Al igual que el Volkswagen Beetle y los modernos sistemas de autopistas, la red de mensajería Telex proviene del período inicial del Tercer Reich de Alemania. Telex comienza como una forma de distribuir mensajes militares, pero pronto se convierte en una red mundial de mensajes de texto oficiales y comerciales que persistirá en algunos países hasta la década de 2000.
 
 Telex utiliza teleimpresoras, que datan de la década de 1910 para su uso en telegrafía. Pero en lugar de utilizar costosas líneas telegráficas dedicadas, el sistema télex conecta esas teleimpresoras entre sí a través de líneas telefónicas de voz, enrutadas por interruptores telefónicos modificados. Las versiones inalámbricas de Telex pronto conectan regiones remotas del mundo en desarrollo.
+
+## 🗺 Simbología
+
+Los iconos usados a lo largo de la línea de tiempo, poseen una simbología enfocada a indicar la temática relacionada a la acción histórica descrita. Las asociaciones entre iconos y temática reflejadas son las siguientes:
+
+💻 Notas históricas relacionadas al ámbito de la evolución de los ordenadores.
+📞 Notas históricas relacionadas al campo de las comunicaciones, tanto de la historia de la creación de las líneas de teléfono como de la historia de la creación de la red de Internet.
+🤖 Notas históricas en relación al ámbito de los principios de la robótica, que a largo plazo se junta alrededor del ámbito de la inteligencia artificial.
+🕹 Gráficos & Videojuegos
+🧠 Memoria & Almacenamiento
+👨‍❤️‍💋‍👨 Cultura Popular
+Software & Lenguajes de Programación
