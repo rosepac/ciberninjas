@@ -83,7 +83,7 @@ general:
 
 # Menú de Historia de Computadoras
 historia:
-  - title: "Historia Computadora"
+  - title: "General"
     url: /historia-computadora/
   - title: "Personajes Históricos"
     url: /personajes-historicos/

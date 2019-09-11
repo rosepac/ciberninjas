@@ -1,15 +1,15 @@
 ---
 layout: collection
 author_profile: false
-title: "Personajes Históricos Más Importantes en la Historia de la Creación de las Computadoras"
-description: 'Los personajes históricos más importantes en la historia de la creación de las computadoras'
-excerpt: 'Los personajes históricos más importantes en la historia de la creación de las computadoras'
+title: "Personajes Históricos Más Importantes en la Historia de las Computadoras"
+description: '🏛 Los personajes históricos más importantes en la historia de la creación de las computadoras'
+excerpt: '🏛 Los personajes históricos más importantes en la historia de la creación de las computadoras'
 entries_layout: default
+last_modified_at: 2019-09-11T16:20:02-05:00
 collection: personajes-historicos
 permalink: /personajes-historicos/
 sort_by: date # (default) title
 sort_order: reverse
-classes: wide
 published: true
 author_profile: false
 sidebar:
@@ -22,75 +22,111 @@ sidebar:
 
 Esta es una galería de personajes, podríamos definirlo como un Hall of Fame o Salón de la Fama de la Computación y la Informática, formada por todos los premiados como miembros del Museo Histórico de la Computadora.
 
-Los personajes ordenados cronológicamente son:
+## Personajes Históricos
 
-- 2019
+Los personajes incluidos cronológicamente son:
 
-James Gosling, Katherine Johnson, Leslie Lamport, Louis Pouzin
+### 2019
 
-- 2018
+[James Gosling](/personajes-historicos/james-gosling/), [Katherine Johnson](/personajes-historicos/katherine-johnson/), [Leslie Lamport](/personajes-historicos/leslie-lamport/), [Louis Pouzin](/personajes-historicos/louis-pouzin/)
 
-Dov Frohman-Bentchkowsky, Dame Stephanie Shirley, Guido Van Rossum
+### 2018
 
-- 2017
+[Dame Stephanie Shirley](/personajes-historicos/dame-stephanie-shirley/), [Dov Frohman-Bentchkowsky](/personajes-historicos/dov-frohman-bentchkowsky/) , [Guido Van Rossum](/personajes-historicos/guido-van-rossum/)
 
-Alan Cooper, Margaret Hamilton, Cleve Moler, Larry Roberts
+### 2017
 
-- 2016
+Alan Cooper, Cleve Moler, Larry Roberts, Margaret Hamilton
+
+### 2016
 
 David Cutler, Lee Felsentein, Philip Moorby, 
 
-- 2015
+### 2015
 
-Charles W. Bachman, Evelyn Berezin, Bjarne Stroustrup
+Bjarne Stroustrup, Charles W. Bachman, Evelyn Berezin
 
-- 2014
+### 2014
 
-Lynn Conway, John Crawford, Irwin Jacobs
+Irwin Jacobs, John Crawford, Lynn Conway
 
-- 2013
+### 2013
 
 Edwin Catmull, Harry D. Huskey, Robert W. Taylor
 
-- 2012
+### 2012
 
-Fernando Corbató, 
+Edward Feigenbaum, Fernando Corbató, Sophie Wilson, Steve Furber
 
-- 2011
+### 2011
 
-- 2010
+Bill Joy, Martin Hellman, Raph Merkle, Whitfield Diffie
 
-- 2009
+### 2009
 
-- 2008
+Donald Chamberlin, Federico Faggin, Marcian Hoff, Msatoshi Shima, Robert Everett, Stan Mazor
 
-- 2007
+### 2008
 
-- 2006
+Bob Metcalfe, Jean Bartik, Linus Torvalds
 
-- 2005
+### 2007
 
-- 2004
+Charles (Chuck) Tracker, David Patterson, John Hennessy, Morris Chang
 
-- 2003
+### 2006
 
-- 2002
+Butler Lampson, Marvin Minsky, Robert Khan, Sir Antony Hoare
 
-- 2001
+### 2005
 
-- 2000
+Alan F. Shugart, Douglas C. Engelbart, Ivan E. Sutherland, Paul Baran
 
-- 1999
+### 2004
 
-- 1998
+Bob Evans, Bob Frankston, Dan Bricklin, Erich Bloch, Niklaus Wirth
 
-- 1997
+### 2003
 
-- 1996
+David Wheeler, Gordon Bell, Sir Tim Berners-Lee
 
-- 1995
+### 2002
 
-- 1985
+Carver Mead, Charles Geschke, John Cocke, John Warnock
+
+### 2001
+
+Frederick P. Brooks, Jean Sammet, Sir Maurice V. Wilkes
+
+### 2000
+
+Frances Allen, Tom Kilburn, Vinton Cerf
+
+### 1999
+
+Alan Kay, John McCarthy, Konrad Zuse
+
+### 1998
+
+Donald Knuth, Gene Amdahl, Gordon Moore, Steve Wozniak
+
+### 1997
+
+Dennis Ritchie, John Backus, Ken Thompson
+
+### 1996
+
+Ken Olsen, Mitch Kapor
+
+### 1995
+
+Jay W. Forrester
+
+### 1985
+
+Grace Murray Hopper
+
+## Historia
 
 Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas capaces de cambiar el mundo. Lo que les convierte en auténticos personajes históricos entre los más importantes por sus acontecimientos en el campo de la computación.
 
@@ -99,3 +135,5 @@ Los premios son parte de la visión del Museo de explorar la revolución inform�
 Entre ellos poseen en común una misma herramienta, la computadora; y sus logros, van desde la computación de la propia computadora en sí misma hasta la creación de las redes, el hardware, el software, el almacenamiento, los lenguajes de programación, u otras tecnologías que hoy en día; afectan a casi todos los seres vivos.
 
 <!-- Saber Más -->
+
+## Biografías Más Recientes..
