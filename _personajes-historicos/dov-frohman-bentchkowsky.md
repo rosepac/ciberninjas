@@ -15,7 +15,7 @@ canonical_URL: https://www.computerhistory.org/fellowawards/hall/dov-frohman-ben
     <figcaption>Dov Frohman-Bentchkowsky | Visto en Ciberninjas</figcaption>
 </figure>
 
-## All-Star Informático 2019
+## All-Star Informático 2018
 
 > Premiado por la invención de la primera memoria comercial de solo lectura programable y borrable (EPROM), que permitió el rápido desarrollo de sistemas basados en microprocesador.
 

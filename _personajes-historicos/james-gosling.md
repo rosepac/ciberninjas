@@ -1,6 +1,6 @@
 ---
 author: rosepac
-title: "James Gosling, Inventor del Lenguaje de Programación Java"
+title: "James Gosling, inventor del lenguaje de programación Java"
 description: 'James Gosling, premiado por la concepción, diseño e implementación del lenguaje de programación Java.'
 excerpt: 'James Gosling, premiado por la concepción, diseño e implementación del lenguaje de programación Java.'
 date: 2019-04-05

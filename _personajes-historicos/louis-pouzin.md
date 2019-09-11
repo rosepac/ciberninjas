@@ -4,7 +4,6 @@ title: "Louis Pouzin, pionero en las creación de redes de comunicación por paq
 description: 'Louis Pouzin, por el diseño y la implementación pionera de las redes de comunicación por paquetes que abrieron el camino hacia Internet.'
 excerpt: 'Louis Pouzin, por el diseño y la implementación pionera de las redes de comunicación por paquetes que abrieron el camino hacia Internet.'
 date: 2019-04-05
-classes: wide
 published: true
 permalink: /personajes-historicos/louis-pouzin/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/louis-pouzin/

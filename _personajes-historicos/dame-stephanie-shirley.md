@@ -15,7 +15,7 @@ canonical_URL: https://www.computerhistory.org/fellowawards/hall/dame-stephanie-
     <figcaption>Dame Stephanie Shirley | Visto en Ciberninjas</figcaption>
 </figure>
 
-## All-Star Informático 2019
+## All-Star Informático 2018
 
 > Premiada por toda una vida de emprendimiento promoviendo el crecimiento de la industria de software del Reino Unido y el avance de las mujeres en la informática.
 
