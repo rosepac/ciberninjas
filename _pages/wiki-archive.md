@@ -7,6 +7,9 @@ collection: wiki
 permalink: /wiki/
 published: true
 author_profile: false
+sidebar:
+- title: "Menú Principal"
+  nav: general
 ---
 
 Índice de los artículos de la Wikipedia faltos de traducción en español o de una traducción correcta.

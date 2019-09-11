@@ -9,6 +9,9 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 permalink: /catalogo/
+sidebar:
+- title: "Menú Principal"
+  nav: general
 ---
 
 👷‍♀️ ¡EN CONSTANTE CREACIÓN!

@@ -11,6 +11,7 @@ sort_order: reverse
 classes: wide
 published: true
 author_profile: false
+sidebar:
 - title: "Historia Computadora"
   nav: historia
 ---

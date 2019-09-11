@@ -8,6 +8,9 @@ classes: wide
 comments: true
 date: 2019-07-17 08:07:47
 permalink: /recursos/
+sidebar:
+- title: "Menú Principal"
+  nav: general
 ---
 En esta página, encontrarás una descripción general de todos los recursos que uso o he usado regularmente o durante un período de tiempo considerable como para tomarme la molestia de recomendarlos por variadas razones; teniendo como razón primordial la de que me han ayudado a realizar mi trabajo o optimizar con mayor sensatez mi vida.
 

@@ -1,5 +1,6 @@
 ---
 layout: collection
+author_profile: false
 title: "Personajes Históricos Más Importantes en la Historia de la Creación de las Computadoras"
 description: 'Los personajes históricos más importantes en la historia de la creación de las computadoras'
 excerpt: 'Los personajes históricos más importantes en la historia de la creación de las computadoras'
@@ -11,6 +12,7 @@ sort_order: reverse
 classes: wide
 published: true
 author_profile: false
+sidebar:
 - title: "Historia Computadora"
   nav: historia
 ---
@@ -24,19 +26,35 @@ Los personajes ordenados cronológicamente son:
 
 - 2019
 
+James Gosling, Katherine Johnson, Leslie Lamport, Louis Pouzin
+
 - 2018
+
+Dov Frohman-Bentchkowsky, Dame Stephanie Shirley, Guido Van Rossum
 
 - 2017
 
+Alan Cooper, Margaret Hamilton, Cleve Moler, Larry Roberts
+
 - 2016
+
+David Cutler, Lee Felsentein, Philip Moorby, 
 
 - 2015
 
+Charles W. Bachman, Evelyn Berezin, Bjarne Stroustrup
+
 - 2014
+
+Lynn Conway, John Crawford, Irwin Jacobs
 
 - 2013
 
+Edwin Catmull, Harry D. Huskey, Robert W. Taylor
+
 - 2012
+
+Fernando Corbató, 
 
 - 2011
 

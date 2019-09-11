@@ -14,6 +14,9 @@ header:
   image_description: "DS | Ciberninjas"
   caption: "**Créditos**: "
 permalink: /gracias/
+sidebar:
+- title: "Menú Principal"
+  nav: general
 ---
 > RS
 

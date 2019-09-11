@@ -3,6 +3,9 @@ title: "\U0001F4DA La Librería de Libros Recomendados"
 description: "\U0001F3EA La Librería de Libros Recomendados Más Completa & Mucho Más"
 excerpt: "\U0001F4DA La Librería de Libros Recomendados Más Completa & Mucho Más"
 permalink: /libreria/
+sidebar:
+- title: "Menú Principal"
+  nav: general
 ---
 
 Aquí se encuentran libros, que estan fuera de lo relacionado a la temática de la tecnología; en general novelas y novelas en inglés; que aparence dentro de los distintos listados de las publicaciones de recomendaciones de libros de personajes reconocidos.
