@@ -3,11 +3,7 @@
 title: "Elan"
 description: "ELAN, lenguaje de programación educativo para aprender y enseñar programación sistemática"
 excerpt: "ELAN, lenguaje de programación educativo para aprender y enseñar programación sistemática"
-date: 2019-08-28 09:07:07
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+date: 2019-09-11 09:07:07
 published: true
 author_profile: false
 permalink: /wiki/elan
@@ -32,7 +28,7 @@ El diseño del lenguaje se enfoca fuertemente en la programación estructurada y
 **Influencias**: [ALGOL 68]()
 {: .notice--primary}
 
-**Sistema Operativo**: [Eumel](/wiki/eumel "Eumel, sistema operativo descontinuado inventado en Alemania en los años 70)
+**Sistema Operativo**: [Eumel](/wiki/eumel "Eumel, sistema operativo descontinuado inventado en Alemania en los años 70")
 {: .notice--primary}
 
 **Sitio Web**: [http://www.cs.ru.nl/elan/](http://www.cs.ru.nl/elan/ "Página web oficial del lenguaje de programación de Elan")

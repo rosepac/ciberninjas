@@ -222,7 +222,7 @@ Telex utiliza teleimpresoras, que datan de la década de 1910 para su uso en tel
 
 ## 🗺 Simbología
 
-Los iconos usados a lo largo de la línea de tiempo, poseen una simbología enfocada a indicar la temática relacionada a la acción histórica descrita. Las asociaciones entre iconos y temática reflejadas son las siguientes:
+Los iconos usados a lo largo de la línea de tiempo, poseen una [simbología](/glosario/simbologia) enfocada a indicar la temática relacionada a la acción histórica descrita. Las asociaciones entre iconos y temática reflejadas son las siguientes:
 
 💻 Notas históricas relacionadas al ámbito de la evolución de los ordenadores.
 📞 Notas históricas relacionadas al campo de las comunicaciones, tanto de la historia de la creación de las líneas de teléfono como de la historia de la creación de la red de Internet.

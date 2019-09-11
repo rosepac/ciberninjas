@@ -6,6 +6,10 @@ excerpt: "Enciclopedia de la tecnológia actualizada creada por ciberninjas"
 collection: wiki
 permalink: /wiki/
 published: true
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
 author_profile: false
 sidebar:
 - title: "Menú Principal"
@@ -14,8 +18,12 @@ sidebar:
 
 Índice de los artículos de la Wikipedia faltos de traducción en español o de una traducción correcta.
 
-## Cibernética
+## Artículos
 - [Ciborg](/wiki/ciborg)
+
+## Artículos Por Desarrollar
+- Ciborg
+<!-- - [Ciborg](/wiki/ciborg) -->
 
 ## Licencia
 
@@ -28,3 +36,5 @@ Las fuentes, pueden encontrarse al pie de cada uno de los artículos o secciones
 ## Aclaración
 
 Notando una gran falta de trabajo alrededor del mundo del apartado tecnológico en la actualidad, he decidido comenzar a generar los artículos que vaya encontrando y considere de relevancia o importancia para poder entender la informática en la actualidad actual.
+
+## Actualizaciones Más Recientes..
