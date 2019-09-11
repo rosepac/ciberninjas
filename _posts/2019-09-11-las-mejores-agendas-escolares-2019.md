@@ -84,7 +84,7 @@ Hoy, me gustaría mostrarte algunas de las Agendas más divertidas que he encont
 
 ## Agenda Escolar Retro Gamer PacMan 2019/2020 (Modelo 1)
 
-{% include gallery id="agenda-gamer-1" layout="half" caption="Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas" %}
+{% include gallery id="agenda-gamer-1" layout="half" caption="Agenda Escolar del videojuego Fortnite 2019/2020. Visto en Ciberninjas" %}
 
 Agenda escolar de 10 meses de un curso 2019/2020 - desde septiembre 2019 hasta junio 2020 – que organiza tu día a día con espacio suficiente, tapa blanda de gran calidad, banda elástica para mantenerla cerrada, con medidas de 11,4 x 16 cm, encuadernación tipo wire-o que aporta un diseño gamer para los que no pueden vivir sin sus videojuegos preferidos.
 

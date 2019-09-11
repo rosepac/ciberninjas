@@ -2,7 +2,7 @@
 title: '🎓🗓 Las Mejores & Más Actuales Agendas Escolares del Año 2019 - Segunda Parte'
 description: '🗓 Las Agendas Más Originales Creadas para el Año 2019 - Segunda Parte'
 excerpt: '🗓 Las Agendas Más Originales Creadas para el Año 2019 - Segunda Parte'
-date: 2019/09/11 14:05:00
+date: 2019/09/11 22:02:00
 published: true
 # Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
