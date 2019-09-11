@@ -60,67 +60,67 @@ agenda-defreds-1:
 agenda-lucia-1:
   - url: /assets/images/catalogo/agenda-lucia-1.jpg
     image_path: /assets/images/catalogo/agenda-lucia-1.jpg
-    alt: "Parte de Delante de la Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Delante de la Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-lucia-2.jpg
     image_path: /assets/images/catalogo/agenda-lucia-2.jpg
-    alt: "Interior de la Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
-    title: "Interior de la Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-lucia-3.jpg
     image_path: /assets/images/catalogo/agenda-lucia-3.jpg
-    alt: "Parte de Atrás de la Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Atrás de la Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-lucia-4.jpg
     image_path: /assets/images/catalogo/agenda-lucia-4.jpg
-    alt: "Parte de Atrás de la Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Atrás de la Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
 agenda-lyona-1:
   - url: /assets/images/catalogo/agenda-lyona-1.jpg
     image_path: /assets/images/catalogo/agenda-lyona-1.jpg
-    alt: "Parte de Delante de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Delante de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-lyona-2.jpg
     image_path: /assets/images/catalogo/agenda-lyona-2.jpg
-    alt: "Interior de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
-    title: "Interior de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-lyona-3.jpg
     image_path: /assets/images/catalogo/agenda-lyona-3.jpg
-    alt: "Parte de Atrás de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Atrás de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-lyona-4.jpg
     image_path: /assets/images/catalogo/agenda-lyona-4.jpg
-    alt: "Parte de Atrás de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Atrás de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-lyona-5.jpg
     image_path: /assets/images/catalogo/agenda-lyona-5.jpg
-    alt: "Parte de Atrás de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Atrás de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-lyona-6.jpg
     image_path: /assets/images/catalogo/agenda-lyona-6.jpg
-    alt: "Parte de Atrás de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Atrás de la Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
 agenda-moderna-1:
   - url: /assets/images/catalogo/agenda-moderna-1.jpg
     image_path: /assets/images/catalogo/agenda-moderna-1.jpg
-    alt: "Parte de Delante de la Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Delante de la Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-moderna-2.jpg
     image_path: /assets/images/catalogo/agenda-moderna-2.jpg
-    alt: "Interior de la Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
-    title: "Interior de la Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-moderna-3.jpg
     image_path: /assets/images/catalogo/agenda-moderna-3.jpg
-    alt: "Parte de Atrás de la Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Atrás de la Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-moderna-4.jpg
     image_path: /assets/images/catalogo/agenda-moderna-4.jpg
-    alt: "Parte de Atrás de la Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Atrás de la Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
 agenda-monica-1:
   - url: /assets/images/catalogo/agenda-monica-1.jpg
     image_path: /assets/images/catalogo/agenda-monica-1.jpg
-    alt: "Parte de Delante de la Agenda Escolar de la reina de Musically y TikTok, Mónica Morán 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Delante de la Agenda Escolar de la reina de Musically y TikTok, Mónica Morán 2019/2020 | Visto en Ciberninjas"
+    alt: "Agenda Escolar de la reina de Musically y TikTok, Mónica Morán 2019/2020 | Visto en Ciberninjas"
+    title: "Agenda Escolar de la reina de Musically y TikTok, Mónica Morán 2019/2020 | Visto en Ciberninjas"
 ---
 
 Con el comienzo del nuevo año escolar y a pesar de la nueva era de la tecnología. Los esstudiantes no dejan de usar sus agendas escolares. A pesar de las primeras emociones del inicio del curso, este implica además toda una tormenta de responsabilidades, deberes, carga de trabajos, cambios de horarios de las clases y un sin fin de fechas que recordar.
