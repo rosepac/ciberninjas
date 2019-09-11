@@ -176,10 +176,12 @@ INGLÉS
 
 ## ☕ Tazas
 
-## 🎁 Regalos Frikis
+## 🎁 Regalos Geeks
 
 ### Agendas Escolares <i class="fas fa-calendar-week"></i>
 
+Agenda Escolar Retro Gamer PacMan M. 1 2019/2020 (https://amzn.to/2I2bwrx)
+Agenda Escolar Retro Gamer PacMan M.2 2019/2020 (https://amzn.to/2NaSKSQ)
 - [Agenda escolar 2019-2020 Fortnite](https://amzn.to/34EykHq)
 - [Agenda escolar 2019-2020 Croqueta y Empanadilla](https://amzn.to/2L2YZ94)
 - [Agenda escolar 2019-2020 Defreds](https://amzn.to/2L6SRNb)
@@ -187,6 +189,21 @@ INGLÉS
 - [Agenda escolar 2019-2020 Lyona](https://amzn.to/2UdNUoC)
 - [Agenda escolar 2019-2020 Moderna de Pueblo](https://amzn.to/2Pn6R9B)
 - [Agenda escolar 2019-2020 Mónica Morán](https://amzn.to/2ZBSvly)
+
+### Cuadernos de Escritura 📓
+
+#### Cuadernos Moleskine
+
+- [Los Cuadernos de Moleskine -todos-](https://amzn.to/2ZRGWMn)
+
+## Marvel
+
+Figuras de Marvel (https://amzn.to/3008NKp)
+Comics en Español en Tapa Dura (https://amzn.to/2ZXW0bm)
+Comics en Español en Tapa Blanda (https://amzn.to/2I0zUtG)
+Comics en Español en Ebook (https://amzn.to/2I3j510)
+Las Mejores Camisetas de Marvel (https://amzn.to/2HYcMM7)
+Las Mejores Tazas de Marvel (https://amzn.to/2Q3Tw6E)
 
 Los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la página web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos más recursos
 {: .notice--warning}
