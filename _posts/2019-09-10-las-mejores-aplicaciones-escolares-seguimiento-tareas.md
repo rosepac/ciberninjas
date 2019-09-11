@@ -1,7 +1,7 @@
 ---
 title: '🎓📱 Las Mejores Aplicaciones Escolares de Seguimiento de Tareas para 2019'
-description: 'La mejor lista de las mejores aplicaciones escolares de tareas para 2019'
-excerpt: 'La mejor lista de las mejores aplicaciones escolares de tareas para 2019'
+description: '📱 La mejor lista de las mejores aplicaciones escolares de tareas para 2019'
+excerpt: '📱 La mejor lista de las mejores aplicaciones escolares de tareas para 2019'
 date: 2019/09/10 19:00:00
 published: true
 # Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
