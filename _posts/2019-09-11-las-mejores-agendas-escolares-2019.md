@@ -25,7 +25,19 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-
+gallery:
+  - url: /assets/images/catalogo/agenda-fortnite-1.jpg
+    image_path: /assets/images/catalogo/agenda-fortnite-1.jpg
+    alt: "Parte de Delante de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
+    title: "Parte de Delante de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
+  - url: /assets/images/catalogo/agenda-fortnite-2.jpg
+    image_path: /assets/images/catalogo/agenda-fortnite-2.jpg
+    alt: "Parte de Atrás de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
+    title: "Parte de Atrás de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
+  - url: /assets/images/catalogo/agenda-fortnite-3.jpg
+    image_path: /assets/images/catalogo/agenda-fortnite-3.jpg
+    alt: "Interior de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
+    title: "Interior de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
 ---
 
 Con el comienzo del nuevo año escolar y a pesar de la nueva era de la tecnología. Los esstudiantes no dejan de usar sus agendas escolares. A pesar de las primeras emociones del inicio del curso, este implica además toda una tormenta de responsabilidades, deberes, carga de trabajos, cambios de horarios de las clases y un sin fin de fechas que recordar.
@@ -38,6 +50,6 @@ Estas agendas a pesar de estar centradas en el ciclo de vida del Año Escolar o 
 
 ## Agenda Escolar de Fortnite 2019/2020
 
-{% include galeria-fortnite-1 caption="Agenda Escolar del videojuego más de moda: Fortnite 2019/2020 | Visto en Ciberninjas" %}
+{% include gallery caption="Agenda Escolar del videojuego más de moda: Fortnite 2019/2020 | Visto en Ciberninjas" %}
 
 Divertida agenda con la que podrás llevarte tu juego favorito a la escuela, que incluye numerosos apartados: horario, calendario de vacaciones, plannings mensuales, espacio para redes sociales, viajes, listas de objetivos,tareas y notas; 2 páginas de pegatinas, 254 páginas con esquinas cuadradas y microperforadas y un sobre de papel para guardar cosas pequeñas.
