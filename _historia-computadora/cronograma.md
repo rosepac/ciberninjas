@@ -220,7 +220,7 @@ Al igual que el Volkswagen Beetle y los modernos sistemas de autopistas, la red 
 
 Telex utiliza teleimpresoras, que datan de la década de 1910 para su uso en telegrafía. Pero en lugar de utilizar costosas líneas telegráficas dedicadas, el sistema télex conecta esas teleimpresoras entre sí a través de líneas telefónicas de voz, enrutadas por interruptores telefónicos modificados. Las versiones inalámbricas de Telex pronto conectan regiones remotas del mundo en desarrollo.
 
-## 🗺 Simbología
+## Simbología 🗺
 
 Los iconos usados a lo largo de la línea de tiempo, poseen una [simbología](/glosario/simbologia) enfocada a indicar la temática relacionada a la acción histórica descrita. Las asociaciones entre iconos y temática reflejadas son las siguientes:
 
@@ -231,3 +231,6 @@ Los iconos usados a lo largo de la línea de tiempo, poseen una [simbología](/g
 🧠 Memoria & Almacenamiento
 👨‍❤️‍💋‍👨 Cultura Popular
 Software & Lenguajes de Programación
+
+**Fuente**: Bajo permiso de utilización y reconocimiento cortesía del [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") línea de tiempo [original en inglés](https://www.computerhistory.org/timeline/)
+{: .notice--info}
