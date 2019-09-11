@@ -4,7 +4,7 @@ title: 'Cronograma de la Historia de la Computación'
 description: 'Cronograma o Línea de Tiempo de la Historia de la Computación'
 excerpt: 'Cronograma o Línea de Tiempo de la Historia de la Computación'
 date: 2018-09-11
-published: false
+published: true
 permalink: /historia-computadora/cronograma/
 canonical_URL: https://www.computerhistory.org/timeline/
 toc: true
