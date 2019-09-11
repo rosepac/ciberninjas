@@ -1,7 +1,7 @@
 ---
 title: '🎓🗓 Las Mejores & Más Actuales Agendas Escolares del Año 2019'
-description: '🗓 Las Mejores & Más Actuales Agendas Escolares del Año 2019'
-excerpt: '🗓 Las Mejores & Más Actuales Agendas Escolares del Año 2019'
+description: '🗓 Las Mejores & Más Actuales Agendas del Año 2019'
+excerpt: '🗓 Las Mejores & Más Actuales Agendas del Año 2019'
 date: 2019/09/11 14:05:00
 published: true
 # Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
