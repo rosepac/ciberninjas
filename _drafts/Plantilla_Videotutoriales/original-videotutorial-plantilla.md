@@ -1,8 +1,8 @@
 ---
 author_profile: false
 title: "👨‍🏫 Curso de TITULO con AUTOR"
-description: "🚀 Curso de TITULO e Intermedio con AUTOR"
-excerpt: "🚀 Curso de TITULO e Intermedio con AUTOR"
+description: "🚀 Curso de TITULO con AUTOR"
+excerpt: "🚀 Curso de TITULO con AUTOR"
 permalink: 
 header:
   video:
