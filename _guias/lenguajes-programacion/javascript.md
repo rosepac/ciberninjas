@@ -1,5 +1,5 @@
 ---
-title: Javascript, Aprender Desde Cero Todo Lo Que Debes Saber
+title: 👨‍🚀 ▷ Javascript, Aprender Desde Cero Todo Lo Que Debes Saber
 description: 
 excerpt: 
 published: true
