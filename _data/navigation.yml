@@ -1,8 +1,8 @@
 main:
-  - title: "📚 Guías"
-    url: /guias/
   - title: "🛒 Tienda"
     url: /catalogo/
+  - title: "📚 Guías"
+    url: /guias/
   - title: "🎓 Cursos"
     url: /cursos-tecnologia/
   - title: "📖 Libros"
