@@ -9,7 +9,7 @@ header:
     id: playlist?list=PLEtcGQaT56chEhBYGzWJo8V5mmQABmRJe
     provider: youtube
 comments: true
-date: 2019/07/25
+date: 2019/07/25 13:00:00
 tags:
 # Jesús Conde, Editorial, Temática, Tipo de Música: SEO, 
 - Jesús Conde

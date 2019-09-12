@@ -9,7 +9,7 @@ header:
     id: playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P
     provider: youtube
 comments: true
-date: 2019/07/25
+date: 2019/07/25 13:00:15
 tags:
 # Píldoras Informáticas, Editorial, Temática, Tipo de Música: SEO, 
 - Píldoras Informáticas
