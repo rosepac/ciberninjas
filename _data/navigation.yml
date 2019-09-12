@@ -48,10 +48,12 @@ portada:
 #    url: /historia-computadora/
 #  - title: "Wikipedia"
 #    url: /wiki/
-  - title: "Guías"
-    url: /guias/
-  - title: "Glosario"
-    url: /glosario/
+  - title: "Videotutoriales"
+    url: /videotutoriales/
+- title: "Videoteca"
+    url: /videoteca/
+#  - title: "Infografías"
+#    url: /infografias/
 
 # Menú Principal Para las Páginas Principales
 general:
