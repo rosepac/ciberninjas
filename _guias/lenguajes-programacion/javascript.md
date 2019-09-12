@@ -1,5 +1,7 @@
 ---
-title: Javascript, aprender desde cero todo lo que debes saber
+title: Javascript, Aprender Desde Cero Todo Lo Que Debes Saber
+description: 
+excerpt: 
 published: true
 author: rosepac
 comments: true

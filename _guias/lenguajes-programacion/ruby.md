@@ -4,6 +4,7 @@ published: false
 author: rosepac
 comments: false
 date: 2019-06-30 12:06:18
+last_modified_at: 
 permalink: /ruby/
 ---
 Sobre Ruby
