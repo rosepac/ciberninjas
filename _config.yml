@@ -75,7 +75,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "ROSEPAC"
+  name   : "Pablo Álvarez Corredera"
   avatar : "/assets/images/bio-photo.png"
   bio    : "Bibliotecario de Internet. Documentalista Digital."
   links:
