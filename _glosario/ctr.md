@@ -2,6 +2,8 @@
 title: "CTR: Definición del Término"
 description: "CTR"
 excerpt: "Es el ratio o tasa de clics logrados."
+permalink: /glosario/ctr/
+
 ---
 
 En inglés, click through rate. Es el ratio o tasa de clics logrados. Concretamente, el porcentaje de personas que acceden a un hipervínculo (generalmente un anuncio) en línea.

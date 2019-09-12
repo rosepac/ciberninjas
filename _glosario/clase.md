@@ -2,6 +2,8 @@
 title: "Clase: Definición del Término"
 description: "Clase"
 excerpt: "Palabra múltiples lenguajes de programación; por ejemplo, C# y Java."
+permalink: /glosario/clase/
+
 ---
 
 Del inglés: Class.

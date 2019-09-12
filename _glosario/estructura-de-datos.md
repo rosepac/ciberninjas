@@ -2,6 +2,8 @@
 title: "Estructura de Datos: Definición del Término"
 description: "Estructura de Datos"
 excerpt: "Forma de organizar los datos para que puedan ser utilizados de manera eficiente."
+permalink: /glosario/estructura-de-datos/
+
 ---
 
 Forma de organizar los datos para que puedan ser utilizados de manera eficiente.

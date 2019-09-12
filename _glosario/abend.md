@@ -2,6 +2,8 @@
 title: "Abend: Definición del Término"
 description: "Abend"
 excerpt: "Es un término usado para describir la finalización anormal de un programa."
+permalink: /glosario/abend/
+
 ---
 
 Es un término usado para describir la finalización anormal de un programa.

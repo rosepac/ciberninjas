@@ -2,6 +2,8 @@
 title: "Tráfico Web: Definición del Término"
 description: "Tráfico Web"
 excerpt: "El tráfico web es la cantidad de datos enviados y recibidos por los visitantes a un sitio web."
+permalink: /glosario/trafico-web/
+
 ---
 
 El tráfico web es la cantidad de datos enviados y recibidos por los visitantes a un sitio web.

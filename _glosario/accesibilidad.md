@@ -2,6 +2,8 @@
 title: "Accesibilidad: Definición del Término"
 description: "Accesibilidad"
 excerpt: "La accesibilidad web es la práctica inclusiva de garantizar que no existan barreras que impidan la interacción."
+permalink: /glosario/accesibilidad/
+
 ---
 
 La accesibilidad web es la práctica inclusiva de garantizar que no existan barreras que impidan la interacción o el acceso a sitios web en la World Wide Web para personas con discapacidades.
