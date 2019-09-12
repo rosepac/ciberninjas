@@ -24,7 +24,7 @@ repository: "rosepac/ciberninjas"
 logo: "/assets/images/logos/ciberninjas_avatar_88x88.png"
 masthead_title: "Ciberninjas"
 twitter_username: ciberaprendiz
-github_username: rosepac
+github_username: Pablo Álvarez Corredera
 minimal_mistakes_skin: default # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise, 
 search: true
 search_full_content: true
@@ -43,7 +43,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:title/
-paginate: 25 # amount of posts to show
+paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Madrid
 
