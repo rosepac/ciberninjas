@@ -42,20 +42,20 @@ agenda-croqueta-1:
     alt: "Interior de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
     title: "Interior de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
 agenda-defreds-1:
-  - url: /assets/images/catalogo/agenda-croqueta-1.jpg
-    image_path: /assets/images/catalogo/agenda-croqueta-1.jpg
+  - url: /assets/images/catalogo/agenda-defreuds-1.jpg
+    image_path: /assets/images/catalogo/agenda-defreuds-1.jpg
     alt: "Parte de Delante de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Delante de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-croqueta-2.jpg
-    image_path: /assets/images/catalogo/agenda-croqueta-2.jpg
+  - url: /assets/images/catalogo/agenda-defreuds-2.jpg
+    image_path: /assets/images/catalogo/agenda-defreuds-2.jpg
     alt: "Interior de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Interior de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-croqueta-3.jpg
-    image_path: /assets/images/catalogo/agenda-croqueta-3.jpg
+  - url: /assets/images/catalogo/agenda-defreuds-3.jpg
+    image_path: /assets/images/catalogo/agenda-defreuds-3.jpg
     alt: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-croqueta-4.jpg
-    image_path: /assets/images/catalogo/agenda-croqueta-4.jpg
+  - url: /assets/images/catalogo/agenda-defreuds-4.jpg
+    image_path: /assets/images/catalogo/agenda-defreuds-4.jpg
     alt: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
 agenda-lucia-1:
@@ -124,49 +124,9 @@ agenda-monica-1:
     title: "Agenda Escolar de la reina de Musically y TikTok, Mónica Morán 2019/2020 | Visto en Ciberninjas"
 ---
 
-Con el comienzo del nuevo año escolar y a pesar de la nueva era de la tecnología. Los esstudiantes no dejan de usar sus agendas escolares. A pesar de las primeras emociones del inicio del curso, este implica además toda una tormenta de responsabilidades, deberes, carga de trabajos, cambios de horarios de las clases y un sin fin de fechas que recordar.
+## Agenda de la Ilustradora Ana Oncina 2019/2020
 
-Si has iniciado el año escolar, bien seas **estudiante** (escolar, universitario o de formación profesional) o **educador** (profesor, maestro, instructor, pedagogo o catedrático) con toda seguridad vas a necesitar una agenda con la que mantener tu día a día ordenado.
-
-Dentro de las agendas escolares existen una amplia gama de opciones desde más sencillas hasta diarios de lujo que incluyen mucho más que simples hojas para notas; adjuntando a la Agenda simpáticas pegatinas y separadores o marcadores divertidos en relación a una temática concreta.
-
-Estas agendas a pesar de estar centradas en el ciclo de vida del Año Escolar o Universitario; perfectamente pueden ser usadas en tu vida diaria, el trabajo o cualquier otra actividad que desees controlar a diario.
-
-Hoy, me gustaría mostrarte algunas de las Agendas más divertidas que he encontrado.
-
-## Agenda Escolar Retro Gamer PacMan 2019/2020 (Modelo 1)
-
-{% include gallery id="agenda-gamer-1" layout="half" caption="Agenda Escolar del videojuego Fortnite 2019/2020. Visto en Ciberninjas" %}
-
-Agenda escolar de 10 meses de un curso 2019/2020 - desde septiembre 2019 hasta junio 2020 – que organiza tu día a día con espacio suficiente, tapa blanda de gran calidad, banda elástica para mantenerla cerrada, con medidas de 11,4 x 16 cm, encuadernación tipo wire-o que aporta un diseño gamer para los que no pueden vivir sin sus videojuegos preferidos.
-
-La agenda es multilenguaje por lo que te permite aprender los días de la semana en otros idiomas - Inglés, castellano, francés, italiano y portugués- e incluye 16 láminas separadoras con ilustraciones acorde al diseño y 2 hojas llenas de pegatinas con las que personalizar tus días.
-
-De regalo una regla que te servirá de marca páginas y 5 fundas de plástico para que nunca pierdas nada y mucho más.
-
-<center><a href="https://amzn.to/2I2bwrx" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 | Ciberninjas">📖 COMPRAR AGENDA</a></center>
-
-## Agenda Escolar Retro Gamer PacMan 2019/2020 (Modelo 2)
-
-{% include gallery id="agenda-gamer-2" layout="half" caption="Agenda Escolar Retro Gamer PacMan -modelo 1- 2019/2020. Visto en Ciberninjas" %}
-
-Agenda escolar de 10 meses de un curso 2019/2020 - desde septiembre 2019 hasta junio 2020 – que organiza tu día a día con espacio suficiente, tapa blanda de gran calidad, banda elástica para mantenerla cerrada, con medidas de 11,4 x 16 cm, encuadernación tipo wire-o que aporta un diseño gamer para los que no pueden vivir sin sus videojuegos preferidos.
-
-La agenda es multilenguaje por lo que te permite aprender los días de la semana en otros idiomas - Inglés, castellano, francés, italiano y portugués- e incluye 16 láminas separadoras con ilustraciones acorde al diseño y 2 hojas llenas de pegatinas con las que personalizar tus días.
-
-De regalo una regla que te servirá de marca páginas y 5 fundas de plástico para que nunca pierdas nada y mucho más.
-
-<center><a href="https://amzn.to/2NaSKSQ" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 | Ciberninjas">📖 COMPRAR AGENDA</a></center>
-
-## Agenda Escolar de Fortnite 2019/2020
-
-{% include gallery id="agenda-fortnite-1" caption="Agenda Escolar Retro Gamer PacMan -modelo 2- 2019/2020. Visto en Ciberninjas" %}
-
-Divertida agenda con la que podrás llevarte tu juego favorito a la escuela, que incluye numerosos apartados: horario, calendario de vacaciones, plannings mensuales, espacio para redes sociales, viajes, listas de objetivos,tareas y notas; 2 páginas de pegatinas, 254 páginas con esquinas cuadradas y microperforadas y un sobre de papel para guardar cosas pequeñas.
-
-<center><a href="https://amzn.to/34EykHq" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 /| Ciberninjas">📖 COMPRAR AGENDA</a></center>
-
-## Agenda Escolar de la Ilustradora Ana Oncina 2019/2020
+> "Para Dejar de Hacer la Croqueta"
 
 {% include gallery id="agenda-croqueta-1" layout="half" caption="Agenda Escolar del videojuego Fortnite 2019/2020. Visto en Ciberninjas" %}
 
@@ -188,7 +148,7 @@ Geniales agendas que nos ofrecen desde TanTanFan de un tamaño de A5. En este ca
 
 <center><a href="https://amzn.to/2L6SRNb" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 | Ciberninjas">📖 COMPRAR AGENDA</a></center>
 
-## Agenda Escolar de la Muser Lucía Bellido 2019/2020
+## Agenda de la Muser Lucía Bellido 2019/2020
 
 {% include gallery id="agenda-lucia-1" layout="half" caption="Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020. Visto en Ciberninjas" %}
 
@@ -198,9 +158,9 @@ Esta agenda incluye tapa dura con cantos redondos de color menta, una vista de d
 
 <center><a href="https://amzn.to/2ZtWmpW" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 | Ciberninjas">📖 COMPRAR AGENDA</a></center>
 
-## Agenda Escolar de la Ilustradora Lyona 2019/2020
+## Agenda de la Ilustradora Lyona 2019/2020
 
-> Yo organizaré los días por ti
+> "Yo Organizaré los Días por Ti"
 
 {% include gallery id="agenda-lyona-1" layout="half" caption="Agenda Escolar del videojuego Fortnite 2019/2020. Visto en Ciberninjas" %}
 
