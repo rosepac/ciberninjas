@@ -1,36 +1,40 @@
 ---
 author_profile: false
-title: "👩‍🏫 Curso de Javascript con Píldoras Informáticas"
-description: "▷ Aprender a programar Javascript desde cero a experto con Juan Díaz el creador del Canal Píldoras Informáticas dedicado a la enseñanza informática."
-excerpt: "▷ Aprender a programar Javascript desde cero a experto con Juan Díaz el creador del Canal Píldoras Informáticas dedicado a la enseñanza informática."
-permalink: /javascript-con-pildoras-informaticas
+title: "\U0001F469‍\U0001F3EB Curso de Javascript con Píldoras Informáticas"
+description: >-
+  ▷ Aprender a programar Javascript desde cero a experto con Juan Díaz el
+  creador del Canal Píldoras Informáticas dedicado a la enseñanza informática.
+excerpt: >-
+  ▷ Aprender a programar Javascript desde cero a experto con Juan Díaz el
+  creador del Canal Píldoras Informáticas dedicado a la enseñanza informática.
+permalink: /javascript-con-pildoras-informaticas/
 header:
   video:
     id: playlist?list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID
     provider: youtube
 comments: true
-date: 2019/06/04 13:30:10
+date: 2019-06-04 15:30:00 +0200
 tags:
-# Píldoras Informáticas, Editorial, Temática, Tipo de Música: SEO, 
-- Píldoras Informáticas
-- Javascript
+  - Píldoras Informáticas
+  - Javascript
 categories:
-- Videotutorial Javascript
+  - Videotutorial Javascript
 sidebar:
-- title: "Menú Videotutoriales"
-  nav: vtuto
+  - title: Menú Videotutoriales
+    nav: vtuto
 ---
 
-## Índice
-1. Presentación. Vídeo 1
-2. Introducción. Vídeo 2
-3. Sintaxis Básica I. Ubicación del código. Vídeo 3
-4. Sintaxis Básica II. Estructuras Básicas. Vídeo 4
-5. Sintaxis Básica III. Operadores Básicos. Vídeo 5
-6. Sintaxis Básica IV. Operadores y prompt. Vídeo 6
-7. Sintaxis Básica V Arrays, Matrices, Arreglos. Vídeo 7
-8. Sintaxis Básica V. Arrays, Matrices, Arreglos II. Vídeo 8
-9. POO I. Vídeo 9
+## &Iacute;ndice
+
+1. Presentaci&oacute;n. V&iacute;deo 1
+2. Introducci&oacute;n. V&iacute;deo 2
+3. Sintaxis B&aacute;sica I. Ubicaci&oacute;n del c&oacute;digo. V&iacute;deo 3
+4. Sintaxis B&aacute;sica II. Estructuras B&aacute;sicas. V&iacute;deo 4
+5. Sintaxis B&aacute;sica III. Operadores B&aacute;sicos. V&iacute;deo 5
+6. Sintaxis B&aacute;sica IV. Operadores y prompt. V&iacute;deo 6
+7. Sintaxis B&aacute;sica V Arrays, Matrices, Arreglos. V&iacute;deo 7
+8. Sintaxis B&aacute;sica V. Arrays, Matrices, Arreglos II. V&iacute;deo 8
+9. POO I. V&iacute;deo 9
 10. POO II
 11. Control flujo Condicional If I
 12. Control flujo. Condicional If II
@@ -43,13 +47,13 @@ sidebar:
 19. Control flujo Bucle For I
 20. Control flujo Bucle For II
 21. Funciones I
-22. Funciones II. Paso de parámetros
+22. Funciones II. Paso de par&aacute;metros
 23. Funciones III. Calculadora arcaica
-24. Funciones y eventos. Introducción a evento
-25. Funciones. Práctica guiada I
-26. Funciones. Práctica guiada II
-27. Funciones Práctica guiada III
-28. Funciones Práctica guiada IV
+24. Funciones y eventos. Introducci&oacute;n a evento
+25. Funciones. Pr&aacute;ctica guiada I
+26. Funciones. Pr&aacute;ctica guiada II
+27. Funciones Pr&aacute;ctica guiada III
+28. Funciones Pr&aacute;ctica guiada IV
 29. JQuery I
 30. JQuery II
 31. JQuery III
@@ -62,44 +66,45 @@ sidebar:
 38. JQuery X. Leyendo y cambiando atributos CSS I
 39. JQuery XI Leyendo y cambiando atributos HTML I
 40. JQuery XII Leyendo y cambiando atributos HTML II
-41. JQuery XIII. Función each y funciones anónimas
+41. JQuery XIII. Funci&oacute;n each y funciones an&oacute;nimas
 42. JQuery XIV Eventos con JQuery I
 43. JQuery XV. Eventos con JQuery II
 44. JQuery XVI. Eventos con JQuery III
-45. JQuery XVII Eventos con JQuery IV. Función next
-46. JQuery XVIII. Eventos con JQuery V. Función bind
+45. JQuery XVII Eventos con JQuery IV. Funci&oacute;n next
+46. JQuery XVIII. Eventos con JQuery V. Funci&oacute;n bind
 47. Efectos y animaciones I
 48. JQuery XX. Efectos y animaciones II
 49. JQuery XXI. Animate y funciones anidadas
 50. JQuery XXII Plugins JQuery
-51. JQuery XXIII. Preloader imágenes rollover
-52. JQuery XXIV. Imágenes con FancyBox
+51. JQuery XXIII. Preloader im&aacute;genes rollover
+52. JQuery XXIV. Im&aacute;genes con FancyBox
 53. Ventanas emergentes e Iframes I
 54. Ventanas emergentes e Iframes II
 55. Ventanas emergentes e Iframes III
-56. Menús animados
+56. Men&uacute;s animados
 57. Formularios I
 58. Formularios II Eventos I
 59. Formularios III Eventos II
 60. Formularios IV Eventos III
 61. Formularios V Mostrando Ocultando elementos
 62. Mostrando & Ocultando elementos II
-63. Formularios VII Validación I
-64. Formularios VIII Validación II
-65. Formularios IX Validación III
-66. Formularios X Validación IV
-67. Formularios XI Validación V
+63. Formularios VII Validaci&oacute;n I
+64. Formularios VIII Validaci&oacute;n II
+65. Formularios IX Validaci&oacute;n III
+66. Formularios X Validaci&oacute;n IV
+67. Formularios XI Validaci&oacute;n V
 68. Ajax I
 69. Ajax II
 70. Ajax III. Get() y Post()
-71. Ajax IV. Vídeo 71
-72. Ajax V. Vídeo 72
+71. Ajax IV. V&iacute;deo 71
+72. Ajax V. V&iacute;deo 72
 73. Ajax VI. Objetos JSON I
 74. Ajax VII. Objetos JSON II
 75. Trabajando con Google Maps
-76. Errores y Depuración I
-77. Errores y Depuración II
+76. Errores y Depuraci&oacute;n I
+77. Errores y Depuraci&oacute;n II
 78. FINAL CURSO
 
 ## Creador
-Aprender a programar Javascript desde cero a experto, con Juan Díaz el creador del Canal Píldoras Informáticas dedicado a la enseñanza informática.
+
+Aprender a programar Javascript desde cero a experto, con Juan D&iacute;az el creador del Canal P&iacute;ldoras Inform&aacute;ticas dedicado a la ense&ntilde;anza inform&aacute;tica.
