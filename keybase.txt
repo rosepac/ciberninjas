@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/depadac
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ciberninjas.com
+  * I am depadac (https://keybase.io/depadac) on keybase.
+  * I have a public key with fingerprint 1AB4 8E12 4B39 8396 320F  7057 13FA 0955 125D 8BF7
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ddac6e4f286ab3a56af953d0eae69ae7a7fee2e029ec0d2935e9d28b9ecdbebf0a",
+      "fingerprint": "1ab48e124b398396320f705713fa0955125d8bf7",
+      "host": "keybase.io",
+      "key_id": "13fa0955125d8bf7",
+      "kid": "010136afc2cc1112147921e6dddbc0148a2e7866e31a599a54648e348303c561be190a",
+      "uid": "c018b656ee09f27f36e751c6dededb19",
+      "username": "depadac"
+    },
+    "merkle_root": {
+      "ctime": 1568316408,
+      "hash_meta": "efcf5a615da8f34db50a1a14f4976ca9adb35e36e8b3b2ea5b98ff5f6f93cd10",
+      "seqno": 7030504
+    },
+    "revoke": {
+      "sig_ids": [
+        "938dbb6f521474ca72b945a4123b77485cd3954b9e62c2cb4d321b19292e8dd70f"
+      ]
+    },
+    "service": {
+      "hostname": "ciberninjas.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568316407,
+  "expire_in": 157680000,
+  "prev": "efd9cad687ece259f839478da964ef21c8c54e309f3e83ed7623dfb7502a7a36",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMQCAnicbZNrbBRVFMdboBupIlARETSYSeQhLM6dO3dm7pamHwqIWKTyECiU5b6m
+HbrdaXdnS0tbrBAeRWmF8KhA5P0UKRY+NBGBAmIA2yYIFQwqksZQRMRKgwIB7zYQ
+E+PMh8m98z/n/M/v3HuqV/eE5MTn7vWclpLzwd3EcydKYgk5CzbeLVOoy0uVQJmS
+L7o+IsRF1AvmO1wJKCrQVM4JM4Rua5ZBKCTIIDZGkKuCCAMTYRLTFkITqoYFU7mG
+IRKYaxaVS04FtVWijFRsJ5wrIoURJ+zJtIBQ3RJA0ynEFsQG1FTbVJEJoE1UjBDQ
+ELeobcrAPDcaj5DmKImKUY4r9+Qi2GXvf/RPfKsASqNMYwwAoAHdxBoQBuecMhXo
+FtGEaRmGgIAgjAnSDWkI6hZUIUMGoALgLt+xrnQyxKIGMoRQsa2ZNjSEiQAzuJAv
+BTgujIpImBQIqeaikEhmSsVIpUBE8kMiGHFdL86WeU5cAZBhQWDoqiX7I9G8YIHw
+iAwUNrMRMQDixLKhzilSCSBAt3VsGoxgwqmEK4tbFFJNEESxZdvINmwMGQeqtBEV
+RWFXCZgqVJGqSwcRUezmi3jxqJMrqUWVwCwFQ4tTatgoDkZnxNQo1hHRgQapaeoW
+YhxipMsRGppESHUONSD71LAmLM5N1VZyKuLFIsUO60oeH9Pj9plDJQonPI9ERzG3
+QJoqjLiey9yQ/JnneYXRQByNV1oYV88XNPg4T5A6YS7PiYwoFpGo44YlKqn8LzVz
+pCJKCp2ICDpxBTINS5VPvI4o7sLIMSPcsEzBhIawLY+YblqcYEMXtgaYxZAuoBwl
+FBYU3DQ0yG1qIlUjJoHGvxgBlj5Jrswp4YWJF4sIpeJE4+weCYnJCb6kbvELlJDc
+s8+Ta9V0vvej0Pf6N5Mz09b/BL7e8fL6jN63/KkTUstWVPav++vIwHNvfFrUvuz4
+kkeP2uqj125uWF9ae6Z7t4a+6Uc8cbhuzp2sjNIa/8WplTWxQbv6Thw+ZHn2xUx/
++6bpSr/ffp0baj2YX1LO7h0n1elr929YdSplZnZdXeWSdqdtXMrZqUnfDcjqseja
+jLadHbGWavjjm+9s2XP6lu9Gc1JjQ+e62vGXMsdMX545qNuucRmHXj18bGulr2OS
++VJ99qqqsZsPbTk5YfFbc3ydnWcKjr5/m906ltT4zLiG1T8Uo1Ujmpqnd5y8u6O+
+dPj4NcuqtrUcee/vS7U3/OW1sUUza2qntC6tvP/s7+7z92vO+hbubam4U5KUk9pO
+r65csDiQ1DI6r6k6OMRHr/fDH2WFNh3AN9smxTr37kxf/GBzbE3ayqPJvtd2b6/f
+Cv7IFlnraK+g8nb62txzMwIfr509MLjnQsVOX/91G5eKD4MhcMxKufzUtRFfjJ3c
+/kory/q8+yeDB5V0NFkzd6wmoT+vNk24UDRxdFbG7a96jnUVsHpMSmvRi9MW4sQ+
+Vaw0PHfw+Tuvb08rnzZrypTPGpqHJQ+7553aku0fVn29KritI/W29vTQ8u0XDrDd
+C5rTrjTm2NTY93DPQ79Xv2/ez+8GqvbP7xewhu6uHnDQ7zW8MPiyeeXBSvNbsaG4
+d/Kl2l++9G/sf3pRWXHszD+OxAN7
+=CW3T
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/depadac
+
+==================================================================
