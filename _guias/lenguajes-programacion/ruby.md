@@ -1,5 +1,5 @@
 ---
-title: Ruby, aprender desde cero todo lo que debes saber
+title: Ruby, Aprender Desde Cero
 published: false
 author: rosepac
 comments: false

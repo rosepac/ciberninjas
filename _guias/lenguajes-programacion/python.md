@@ -1,5 +1,5 @@
 ---
-title: Python, aprender desde cero todo lo que debes saber
+title: Python, Aprender Desde Cero
 description:
 excerpt: 
 published: false

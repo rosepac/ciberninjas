@@ -1,5 +1,5 @@
 ---
-title: Swift, aprender desde cero todo lo que debes saber
+title: Swift, Aprender Desde Cero
 published: false
 author: rosepac
 comments: false
