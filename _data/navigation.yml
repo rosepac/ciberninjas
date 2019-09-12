@@ -1,11 +1,19 @@
 main:
-  - title: "Guías"
+  - title: "📚 Guías"
     url: /guias/
-  - title: "Glosario"
-    url: /glosario/
-  - title: "Quién Soy"
+  - title: "🛒 Tienda"
+    url: /catalogo/
+  - title: "🎓 Cursos"
+    url: /cursos-tecnologia/
+  - title: "📖 Libros"
+    url: /biblioteca-de-programacion-y-tecnologia/
+  - title: "👨‍🏫 Tutoriales"
+    url: /videotutoriales/
+  - title: "📽 Videoteca"
+    url: /videoteca/
+  - title: "❔ Quién Soy"
     url: /quien-soy/
-  - title: "Aviso Legal"
+  - title: "ℹ Aviso Legal"
     url: /aviso-legal/
 
 # Menú del Catálogo de Productos en Venta
@@ -57,6 +65,8 @@ portada:
 
 # Menú Principal Para las Páginas Principales
 general:
+  - title: "🛒 Tienda"
+    url: /catalogo/
   - title: "Guías"
     url: /guias/
   - title: "Glosario"

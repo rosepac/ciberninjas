@@ -1,5 +1,5 @@
 ---
-title: "🛒 Catálogo Completo de Nuestra Tienda Ciberninjas"
+title: "🛒 Catálogo Completo de la Tienda Ciberninjas"
 description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 published: true
@@ -15,6 +15,7 @@ sidebar:
 ---
 
 🛠 ¡EN CONSTANTE CREACIÓN! 👷‍♀️ 
+{: .notice--warning}
 
 <details>
 <summary>Saber Más</summary>
@@ -42,7 +43,7 @@ sidebar:
 - [Marketing en Redes Sociales](https://amzn.to/2LcNagw)
 - [Secretos de Mercadeo de Instagram](https://amzn.to/2L90BhD)
 
-## Seguridad Inform&aacute;tica
+## Seguridad Inform&aacute;tica 🔐
 
 * El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA) [Saber M&aacute;s](/el-arte-de-la-invisibilidad/)
 * El enemigo conoce el sistema [Tapa Blanda](https://amzn.to/2Z46eBx) [Ebook](https://amzn.to/2Z1YfEV)
@@ -93,7 +94,7 @@ INGLÉS
     Sumérgete profundamente en las vistas, los controladores de vista y los marcos
 12. Recetario Swift de desarrollo de juegos en iOS [Tapa Blanda](https://amzn.to/2PjP7Mh) - [Ebook](https://amzn.to/2HAjZSG)
 13. [Simulaciones en Swift 5](https://amzn.to/2LldaVU)
-    Diseño e implementación con Swift Playgrounds
+14. Diseño e implementación con Swift Playgrounds
 
 
 ## Libros de Videojuegos 📚 🎮
@@ -154,7 +155,7 @@ INGLÉS
 <details>
 <summary>Saber Más Sobre Roblox</summary>
 <br/>
-<p>Roblox se anuncia como una <<strong>'Plataforma de imaginación'</strong> que permite a sus usuarios desarrollar o jugar millones de juegos 3D en línea. Fue lanzado en 2007 y tiene 64 millones de jugadores cada mes, con un total estimado de 178 millones de cuentas en la plataforma. Está disponible para descargar como una aplicación tanto en Android como en iOS y aparece como 12+ con el asesoramiento de los padres recomendado. Los usuarios también pueden jugar en tabletas, PC, XBox One o dispositivos Amazon.</p>
+<p>Roblox se anuncia como una <strong>'Plataforma de imaginación'</strong> que permite a sus usuarios desarrollar o jugar millones de juegos 3D en línea. Fue lanzado en 2007 y tiene 64 millones de jugadores cada mes, con un total estimado de 178 millones de cuentas en la plataforma. Está disponible para descargar como una aplicación tanto en Android como en iOS y aparece como 12+ con el asesoramiento de los padres recomendado. Los usuarios también pueden jugar en tabletas, PC, XBox One o dispositivos Amazon.</p>
 <p></p>
 </details>
 
@@ -180,8 +181,8 @@ INGLÉS
 
 ### Agendas Escolares <i class="fas fa-calendar-week"></i>
 
-Agenda Escolar Retro Gamer PacMan M. 1 2019/2020 (https://amzn.to/2I2bwrx)
-Agenda Escolar Retro Gamer PacMan M.2 2019/2020 (https://amzn.to/2NaSKSQ)
+- [Agenda Escolar Retro Gamer PacMan M. 1 2019/2020](https://amzn.to/2I2bwrx)
+- [Agenda Escolar Retro Gamer PacMan M.2 2019/2020](https://amzn.to/2NaSKSQ)
 - [Agenda escolar 2019-2020 Fortnite](https://amzn.to/34EykHq)
 - [Agenda escolar 2019-2020 Croqueta y Empanadilla](https://amzn.to/2L2YZ94)
 - [Agenda escolar 2019-2020 Defreds](https://amzn.to/2L6SRNb)
