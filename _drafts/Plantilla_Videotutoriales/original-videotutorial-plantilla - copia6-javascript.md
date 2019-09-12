@@ -3,7 +3,7 @@ author_profile: false
 title: "👨‍🏫 Curso de Javascript, Nuevos Consejos y Trucos para 2019 por Jesús Conde"
 description: "✅ Aprender nuevas técnicas de Javascript 2019 ✌️ Con los videotutoriales impartidos por Jesús Conde 🥇 PWA, Git, Linternas, TensorFlow, Service Workers."
 excerpt: "✅ Aprender nuevas técnicas de Javascript 2019 ✌️ Con los videotutoriales impartidos por Jesús Conde 🥇 PWA, Git, Linternas, TensorFlow, Service Workers."
-permalink: /javascript-con-jesus-conde
+permalink: /javascript-nuevos-consejos-y-trucos-para-2019-por-jesus-conde
 header:
   video:
     id: playlist?list=PLEtcGQaT56cgEO8xbV_A7Ux3kpZxRQksb
