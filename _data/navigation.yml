@@ -50,7 +50,7 @@ portada:
 #    url: /wiki/
   - title: "Videotutoriales"
     url: /videotutoriales/
-- title: "Videoteca"
+  - title: "Videoteca"
     url: /videoteca/
 #  - title: "Infografías"
 #    url: /infografias/
