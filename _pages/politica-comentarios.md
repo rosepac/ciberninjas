@@ -1,8 +1,8 @@
 ---
 
-date: 2018-12-01T12:42:42-05:00
 description: "Respecto y Pautas a seguir respecto al uso de los comentarios dentro de la página web: Ciberninjas, siendo un buen Internauta"
 excerpt: "Respecto y Pautas a seguir respecto al uso de los comentarios dentro de la página web: Ciberninjas, siendo un buen Internauta"
+date: 2018-12-01T12:42:42-05:00
 last_modified_at: 2019-08-09T12:42:42-05:00
 permalink: /politica-comentarios/
 title: "Sobre la Política de Comentarios"
