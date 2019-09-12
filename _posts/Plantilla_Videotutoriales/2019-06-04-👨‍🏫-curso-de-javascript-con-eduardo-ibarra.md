@@ -9,7 +9,7 @@ excerpt: >-
   ▷ Aprender a programar Javascript, tutorial desde cero por Eduardo Ibarra:
   formador de frontend developers, arquitecto de software, entusiasta del
   hardware.
-permalink: /javascript-con-eduardo-ibarra
+permalink: /javascript-con-eduardo-ibarra/
 header:
   video:
     id: playlist?list=PLYPjmy5IVxT8ohy6P2k4hNU2PtstqP8Zh
