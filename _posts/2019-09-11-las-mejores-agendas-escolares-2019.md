@@ -103,7 +103,7 @@ Hoy, me gustaría mostrarte algunas de las Agendas más divertidas que he encont
 
 ## Agenda Escolar de Star Wars 2019/2020
 
-{% include gallery id="agenda-wars-1" caption="Agenda Escolar Star Wars 2019/2020. Visto en Ciberninjas" %}
+{% include gallery id="agenda-wars-1" layout="half" caption="Agenda Escolar Star Wars 2019/2020. Visto en Ciberninjas" %}
 
 La agenda de nuestras películas de ciencia ficción favoritas: Star Wars. Ofrece 10 meses de uso, y graciosas pegatinas.
 
@@ -117,7 +117,7 @@ Divertida agenda con la que podrás llevarte tu juego favorito a la escuela, que
 
 <center><a href="https://amzn.to/34EykHq" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 /| Ciberninjas">📖 COMPRAR AGENDA</a></center>
 
-## Agenda Escolar Retro PacMan 2019/2020 (Modelo 1)
+## Agenda Escolar PacMan 2019/2020 (M. 1)
 
 {% include gallery id="agenda-gamer-1" layout="half" caption="Agenda Escolar del videojuego retro PACMAN 2019/2020. Visto en Ciberninjas" %}
 
@@ -129,7 +129,7 @@ De regalo incluye una regla que te servirá de marca páginas y 5 fundas de plá
 
 <center><a href="https://amzn.to/2I2bwrx" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 | Ciberninjas">📖 COMPRAR AGENDA</a></center>
 
-## Agenda Escolar Retro Gamer 2019/2020 (Modelo 2)
+## Agenda Escolar Retro Gamer 2019/2020 (M. 2)
 
 {% include gallery id="agenda-gamer-2" layout="half" caption="Agenda Escolar Retro Gamer PacMan -modelo 1- 2019/2020. Visto en Ciberninjas" %}
 
@@ -140,3 +140,7 @@ La misma agenda que la anterior, que se diferencia en los diseños de portada y 
 ## Más Agendas Escolares 2019/2020
 
 <center><a href="/las-mejores-agendas-escolares-2019-2/" class="btn btn--success btn--large" title="Ver La Segunda Parte de la Publicación de Las Mejores Agendas Escolares Exclusivas del Curso Escolar 2019/2020 | Ciberninjas">📖 AGENDAS ESCOLARES PARTE 2</a></center>
+
+## Visita Nuestro Catálogo
+
+<center><a href="/catalogo/" class="btn btn--success btn--large" title="Catálogo Completo de la Tienda de Ciberninjas | Ciberninjas">📖🛒Catálogo</a></center>
