@@ -16,6 +16,7 @@ toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
 toc_sticky: true
+
 ---
 
 ## Los Mejores 📰 Artículos y 🔗 Enlaces del Mundo Sobre..
@@ -63,6 +64,13 @@ Este artículo en el futuro, estará en constante actualización. Más, en la ac
 ## Programación
 #### 📰 Artículos
 #### 🔗 Enlaces Externos
+- [Hacker News](https://news.ycombinator.com)
+- [StackOverflow](https://stackoverflow.com)
+- [Reddit Programación](https://www.reddit.com/r/programming)
+- [SlashDot](https://slashdot.org)
+- [Lobsters](https://lobste.rs)
+- [Wikipedia](https://en.wikipedia.org/wiki/Comp.*_hierarchy)
+
 ## Desarrollo Web
 #### 📰 Artículos
 #### 🔗 Enlaces Externos

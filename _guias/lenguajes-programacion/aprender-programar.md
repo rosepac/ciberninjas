@@ -106,18 +106,6 @@ En esta sección, vamos a intentar realizar un resumen de los pasos que podemos 
 9. Sé calmado y mantente calmado! Existen plazas de trabajo en cada lenguaje diferente, no tengas ninguna duda de que si realmente deseas dedicarte, tarde o temprano va aparecer algo que se adapte a ti.
 10. Lo más importante es ser persistente, conservar la motivación
 
-## Cómo Sentarse
-
-Ey? Sí, estás leyendo lo que piensas. Quizás pienses que es un poco ridículo pero para nada, este es un apartado muy importante para cualquier persona que trabaje delante de un ordenador de forma continua. Como mínimo, recordar unos pequeños consejos que jamás debemos pasar por alto.
-
-Es altamente dañino sentarse por largos periodos de tiempo. Debes procurar me levantarte y tomar un "kit kat" cada 30 minutos (existen aplicaciones para esto, la famosa técnica "pomodoro" o simplemente utiliza una alarma) Sin embargo, ten en cuenta que incluso con los descansos, se sabe que los largos períodos de inactividad harán que tu cuerpo se sienta entumecido y tendrás que caminar o trotar un tiempo a lo largo del día para mantener un metabolismo saludable.
-
-Cuida tu postura de espalda y cuello; y ya sabes, lleva a la realidad los famosos consejos de ergonomía que casi todos conocemos, pero muy pocas personas aplicamos.
-
-## ¿En qué campo de la informática trabajar?
-
-Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, en la era tecnológica los campos disciplinarios existentes son tan múltiples como diferentes, dos de las temáticas principales y más buscadas que ofrecen puestos de trabajo en el mundo: son el tan citado "machine learning" o aprendizaje automático y el desarrollo móvil.
-
 ### Aprendizaje Automático o Machine Learning
 
 Según uno de los últimos [informes publicados por Github](https://github.blog/2019-01-24-the-state-of-the-octoverse-machine-learning/). Python es el lenguaje más utilizado para el aprendizaje automático combinado junto a la biblioteca TensorFlow, si eres capaz de aprender ambos junto al dominio del idioma del inglés; muy probablemente te vas a encontrar en una posición muy favorable con la que poder lograr un trabajo importante en el futuro.
