@@ -14,11 +14,22 @@ sidebar:
   nav: general
 ---
 
+<!-- IMPORTANTE: RECORDAR NO CAMBIAR TITULOS POR SI HAN SIDO COMPARTIDOS EN OTRO LUGAR, COLOCAR ICONO AL FINAL DE ENLACES DE CATEGORIAS. SOLO AL PRINCIPIO DENTRO DE LAS CATEGORIAS GLOBALES. TITULOS DE NIVEL 3, ICONOS DE FONT AWESOME -->
 ## 📂 Categorías
 
-<a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#redes-y-administraci%C3%B3n" title="Libros de Redes y Administración" class="btn btn--success btn--large">🕸 Redes y Administración</a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+<a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#redes-y-administraci%C3%B3n" title="Libros de Redes y Administración" class="btn btn--success btn--large">Administración y Redes 🕸</a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
 ## 📚 Libros
+
+## Administración y Redes 🕸
+
+- Administración y Gestión de Bases de Datos Relacionales en LINUX. MySQL (https://amzn.to/2NcspnD)
+- Administre una red en Windows o Linux. Ejercicios y soluciones (https://amzn.to/2Ahed4f)
+- Guía Completa Para Principiantes Conoce La Certificación CompTia Network + De A-Z (https://amzn.to/2AiS2ul)
+- [Linux: Preparación para la certificación LPIC-1 y LPIC-2](https://amzn.to/2NfxpYC)
+- Servicios de Red en Linux [Tapa Blanda](https://amzn.to/2Ajn7OO) [Ebook](https://amzn.to/2Ne9zfI)
+- Superficiales: ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) - [Ebook](https://amzn.to/2KORsur)
+
 
 ## Marketing en Redes Sociales 🏪 
 
@@ -39,21 +50,27 @@ sidebar:
 
 ## Seguridad Inform&aacute;tica 🔐
 
+* Bacula: El Software Libre de Respaldo [Tapa Blanda](https://amzn.to/2Ndt5t0) [Ebook](https://amzn.to/2AfI78T)
+* Back Track 5 [Ebook](https://amzn.to/2Lw1q4s) Hacking de Redes Inálambricas 
 * El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA) [Saber M&aacute;s](/el-arte-de-la-invisibilidad/)
 * El enemigo conoce el sistema [Tapa Blanda](https://amzn.to/2Z46eBx) [Ebook](https://amzn.to/2Z1YfEV)
 * El libro blanco del hacker [Tapa Blanca](https://amzn.to/2N5EkCS)
+* El libro del hacker. Edición 2018 [Tapa Blanda](https://amzn.to/34ISSPb)
 * El peque&ntilde;o libro rojo del activista en la red [Tapa Blanda](https://amzn.to/2YQharj) [Ebook](https://amzn.to/33uIgmt)
+* [Experto En Hacking Linux Y Windows Seguridad Ofensiva](https://amzn.to/2Lt7Wsw)
+* [Kali Linux](https://amzn.to/2LsHbV4)
+* [Pentesting con Kali](https://amzn.to/2NdO2DQ)
+* [Hacker WhiteBook](https://amzn.to/2NcGLEx)
+* [Hacking Ético](https://amzn.to/2Q8eeSG)
+* [Hacking ético con herramientas Phyton](https://amzn.to/2LtNXtG)
+* [Hacking para dummies 2019](https://amzn.to/2Q8xD5W)
+* [Herramientas para hacking ético](https://amzn.to/31lBTjQ)
+* [Seguridad informática. Hacking ético - 2ª edición](https://amzn.to/2Nbl9bG)
 * Web hacking 101: C&oacute;mo hacer dinero hackeando &eacute;ticamente [Varios Formatos](https://leanpub.com/web-hacking-101-es)
 
+INGLÉS
 
-## Webmaster 👷‍♂️
-
-- [Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente](https://amzn.to/2Ll5N0K)
-- [CRO. Diseño y desarrollo de negocios digitales](https://amzn.to/2ZnFdOu)
-- [El Arte de Medir](https://amzn.to/34nO2H0)
-- [Google Analytics. Mide y Vencerás](https://amzn.to/2Pq0xhG)
-- [Posicionamiento y Google Analytics. Pack de 2 libros](https://amzn.to/2La9UOu)
-- [Visibilidad Online - Marketing Digital 2019](https://amzn.to/2L9jZuU)
+- Permanent Record - Edward Snowden [Tapa Blanda](https://amzn.to/2AdKOrL) [Tapa Dura](https://amzn.to/34M3JHZ) [Ebook](https://amzn.to/2AinE3u)
 
 
 ## Programación Web & Móvil 👩‍💻
@@ -71,7 +88,7 @@ sidebar:
 2. [Introducción a Swift: Aprende Swift desde cero de forma totalmente práctica](https://amzn.to/2L2v9l4) (Ebook)
 3. [SWIFT 4. Aprende a crear Apps para iPhone y iPad](https://amzn.to/2PD5UdJ)
 
-INGLÉS
+> INGLÉS
 
 1. Aprende la programación de iOS 11 con Swift 4 [Tapa Blanda](https://amzn.to/2LtC06n) - [Ebook](https://amzn.to/2L38bKA)
 2. Aprendiendo Swift 3 [Tapa Blanda](https://amzn.to/348eLah) - [Ebook](https://amzn.to/2PjiMFx)
@@ -89,6 +106,16 @@ INGLÉS
 12. Recetario Swift de desarrollo de juegos en iOS [Tapa Blanda](https://amzn.to/2PjP7Mh) - [Ebook](https://amzn.to/2HAjZSG)
 13. [Simulaciones en Swift 5](https://amzn.to/2LldaVU)
 14. Diseño e implementación con Swift Playgrounds
+
+
+## Webmaster 👷‍♂️
+
+- [Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente](https://amzn.to/2Ll5N0K)
+- [CRO. Diseño y desarrollo de negocios digitales](https://amzn.to/2ZnFdOu)
+- [El Arte de Medir](https://amzn.to/34nO2H0)
+- [Google Analytics. Mide y Vencerás](https://amzn.to/2Pq0xhG)
+- [Posicionamiento y Google Analytics. Pack de 2 libros](https://amzn.to/2La9UOu)
+- [Visibilidad Online - Marketing Digital 2019](https://amzn.to/2L9jZuU)
 
 
 ## Libros de Videojuegos 📚 🎮
@@ -162,11 +189,6 @@ INGLÉS
 
 - [Pino. ¡Empieza la batalla!](https://amzn.to/2HxZbLw)
 - [Yo también puedo ser blogger y vlogger](https://amzn.to/2ZvKWgh) (Libro de actividades)
-
-
-### Redes y Administración <i class="fas fa-network-wired"></i>
-
-- Superficiales: ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) - [Ebook](https://amzn.to/2KORsur)
 
 
 ## ☕ Tazas
