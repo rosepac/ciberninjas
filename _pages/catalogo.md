@@ -190,7 +190,7 @@ INGLÉS
 
 #### Cuadernos Moleskine
 
-- [Los Cuadernos de Moleskine -todos-](https://amzn.to/2ZRGWMn)
+- [Los Cuadernos de Moleskine](https://amzn.to/2ZRGWMn)
 
 ## Marvel
 
