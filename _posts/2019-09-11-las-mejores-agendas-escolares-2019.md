@@ -143,4 +143,4 @@ La misma agenda que la anterior, que se diferencia en los diseños de portada y 
 
 ## Visita Nuestro Catálogo
 
-<center><a href="/catalogo/" class="btn btn--success btn--large" title="Catálogo Completo de la Tienda de Ciberninjas | Ciberninjas">📖🛒Catálogo</a></center>
+<center><a href="/catalogo/" class="btn btn--success btn--large" title="Catálogo Completo de la Tienda de Ciberninjas | Ciberninjas">🛒 Catálogo</a></center>
