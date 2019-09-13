@@ -98,6 +98,7 @@ Con el comienzo del nuevo año escolar y a pesar de la nueva era de la tecnolog�
 <p>Dentro de las agendas escolares existen una amplia gama de opciones desde más sencillas hasta diarios de lujo que incluyen mucho más que simples hojas para notas; adjuntando a la Agenda simpáticas pegatinas y separadores o marcadores divertidos en relación a una temática concreta.</p>
 <p>Estas agendas a pesar de estar centradas en el ciclo de vida del Año Escolar o Universitario; perfectamente pueden ser usadas en tu vida diaria, el trabajo o cualquier otra actividad que desees controlar a diario.</p>
 </details>
+<br>
 
 Hoy, me gustaría mostrarte algunas de las Agendas más divertidas que he encontrado.
 
