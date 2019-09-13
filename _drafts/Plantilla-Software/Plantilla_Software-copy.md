@@ -30,7 +30,7 @@ Mumble está **destinado principalmente a los jugadores** , y fue el primero en 
 
 Escuchamos a usuarios que graban podcasts con nuestra grabadora de audio multicanal, jugadores que buscan realismo con nuestro audio posicional en los juegos, jugadores de Eve Online con enormes comunidades de más de 100 participantes de voz simultáneos (apuesto a que hacen un buen uso de nuestro extenso sistema de permisos 😄 ), la comunidad competitiva de Team Fortress 2 nos convierte en su plataforma de comunicación de voz requerida, usuarios de transmisión de radio hobby y una variedad de lugares de trabajo que adaptan Mumble para satisfacer sus necesidades, ya sean dispositivos móviles en la cabeza o se comunican a través de países o en aviones.
 
-Los administradores aprecian a Mumble por poder **poseer sus datos y los de sus usuarios** . Algunos hacen uso del extenso sistema de permisos para escenarios complejos (por ejemplo, separando dos grupos pero los líderes pueden hablar con ambos). A algunos les encanta proporcionar a sus usuarios funcionalidades adicionales con scripts que hacen uso de las API del servidor u host bots de música y similares que se conectan al servidor. Aquellos que tienen una base de datos de usuarios existente a menudo utilizan autenticadores para permitir la autenticación con los datos de inicio de sesión de la cuenta existente.
+Los administradores aprecian a Mumble por poder **poseer sus datos y los de sus usuarios** . Algunos hacen uso del extenso sistema de permisos para escenarios complejos (por ejemplo, separando dos grupos pero los líderes pueden hablar con ambos). A algunos les encanta proporcionar a sus usuarios funcionalidades adicionales con scripts que hacen uso de las API del servidor u host bots de música y similares que se conectan al servidor. Aquellos que tienen una base de datos de usuarios existente a menudo utilizan autenticadores para permitir la autentdesicación con los datos de inicio de sesión de la cuenta existente.
 
 ## Caracteristicas
 
@@ -38,11 +38,20 @@ Diferentes grupos de usuarios están interesados en diferentes capacidades y, po
 
 ### Para usuarios finales
 
-![img](https://www.mumble.info/client-screenshots/empty.png)Mumble Client
+<center>
+![img](https://www.mumble.info/client-screenshots/empty.png)
 
-![img](https://www.mumble.info/client-screenshots/connected.png)Conectado a un servidor
+Mumble Client
 
-![img](https://www.mumble.info/client-screenshots/public-server-list.png)Lista de servidores públicos
+![img](https://www.mumble.info/client-screenshots/connected.png)
+
+Conectado a un servidor
+
+![img](https://www.mumble.info/client-screenshots/public-server-list.png)
+
+Lista de servidores públicos
+</center>
+
 
 - Baja latencia: ideal para hablar y jugar
 - Mantente privado y seguro
@@ -54,7 +63,7 @@ Diferentes grupos de usuarios están interesados en diferentes capacidades y, po
 	- Audio posicional: escucha a los jugadores desde donde se encuentran en el juego
 - Asistentes para guiarlo a través de la configuración, como configurar su micrófono
 
-Para comenzar, simplemente [descargue](https://www.mumble.info/downloads) , instale e inicie Mumble y conéctese a un servidor público, o uno específico que conozca.
+Para comenzar, simplemente [descargue](https://kutt.it/mumbledescargar) , instale e inicie Mumble y conéctese a un servidor público, o uno específico que conozca.
 
 ### Para administradores
 
