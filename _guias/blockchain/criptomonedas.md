@@ -1,17 +1,15 @@
 ---
-author: rosepac
 title: "ICONO+TITULO"
 description: 'RS'
 excerpt: 'RS'
-date: 
+date: 2019-09-13T22:00:00.000+00:00
 published: false
-header:
-  overlay_image: "/assets/images/F.jpg"
-  overlay_filter: "0.2"
-  image_description: "DS | Ciberninjas"
-  caption: "**Créditos**: "
+# header:
+#   overlay_image: ""
+#   overlay_filter: "0.2"
+#   image_description: "DS | Ciberninjas"
+#   caption: "**Créditos**: "
 permalink: /criptomonedas/
-canonical_URL: 
 
 ---
 
