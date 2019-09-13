@@ -94,11 +94,11 @@ Con el comienzo del nuevo año escolar y a pesar de la nueva era de la tecnolog�
 <details>
 <summary>Leer Más..</summary>
 <br/>
-<p>Si has iniciado el año escolar, bien seas **estudiante** (escolar, universitario o de formación profesional) o **educador** (profesor, maestro, instructor, pedagogo o catedrático) con toda seguridad vas a necesitar una agenda con la que mantener tu día a día ordenado.</p>
+<p>Si has iniciado el año escolar, bien seas <strong>estudiante</strong> (escolar, universitario o de formación profesional) o <strong>educador</strong> (profesor, maestro, instructor, pedagogo o catedrático) con toda seguridad vas a necesitar una agenda con la que mantener tu día a día ordenado.</p>
 <p>Dentro de las agendas escolares existen una amplia gama de opciones desde más sencillas hasta diarios de lujo que incluyen mucho más que simples hojas para notas; adjuntando a la Agenda simpáticas pegatinas y separadores o marcadores divertidos en relación a una temática concreta.</p>
 <p>Estas agendas a pesar de estar centradas en el ciclo de vida del Año Escolar o Universitario; perfectamente pueden ser usadas en tu vida diaria, el trabajo o cualquier otra actividad que desees controlar a diario.</p>
 </details>
-<br>
+<br/>
 
 Hoy, me gustaría mostrarte algunas de las Agendas más divertidas que he encontrado.
 
