@@ -17,7 +17,7 @@ sidebar:
 <!-- IMPORTANTE: RECORDAR NO CAMBIAR TITULOS POR SI HAN SIDO COMPARTIDOS EN OTRO LUGAR, COLOCAR ICONO AL FINAL DE ENLACES DE CATEGORIAS. SOLO AL PRINCIPIO DENTRO DE LAS CATEGORIAS GLOBALES. TITULOS DE NIVEL 3, ICONOS DE FONT AWESOME -->
 ## 📂 Categorías
 
-<a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#redes-y-administraci%C3%B3n" title="Libros de Redes y Administración" class="btn btn--success btn--large">Administración y Redes 🕸</a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+<a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#redes-y-administraci%C3%B3n" title="Libros de Redes y Administración" class="btn btn--success btn--large">🕸 Administración y Redes</a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
 ## 📚 Libros
 
@@ -73,7 +73,7 @@ INGLÉS
 - Permanent Record - Edward Snowden [Tapa Blanda](https://amzn.to/2AdKOrL) [Tapa Dura](https://amzn.to/34M3JHZ) [Ebook](https://amzn.to/2AinE3u)
 
 
-## Programación Web & Móvil 👩‍💻
+## Programación Móvil & Web 👩‍💻
 
 ### Android <i class="fab fa-android"></i>
 

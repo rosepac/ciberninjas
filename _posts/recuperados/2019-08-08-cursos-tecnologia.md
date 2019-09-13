@@ -756,7 +756,7 @@ He aquí un listado completo de todos los diferentes cursos existentes alrededor
 
 [REGRESAR AL MENÚ][26]
 
-## Programación Web & Móvil 👩‍💻 📳 👨‍💻
+## Programación Móvil & Web 👨‍💻
 
   * [¿Por dónde empezar con el desarrollo web? Empieza aquí][369] (Udemy)
   * [Adobe XD: Aprende a crear prototipos profesionales desde 0][370] (Udemy)
@@ -965,7 +965,7 @@ He aquí un listado completo de todos los diferentes cursos existentes alrededor
   * [Yo puedo programar mi propia web][562] (Microsoft Virtual Academy)
   * [Zend Framework 2 Avanzado][563] (César Cancino, YouTube)
 
-[REGRESAR AL MENÚ][26]
+[VOLVER ARRIBA](/#page-title) <i class="fas fa-arrow-up">
 
 ## Redes 🕸 🕷 🕸
 
