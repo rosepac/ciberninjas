@@ -23,6 +23,36 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
+agenda-wars-1:
+  - url: /assets/images/catalogo/agenda-wars-1.jpg
+    image_path: /assets/images/catalogo/agenda-wars-1.jpg
+    alt: "Parte de Delante de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
+    title: "Parte de Delante de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
+  - url: /assets/images/catalogo/agenda-wars-2.jpg
+    image_path: /assets/images/catalogo/agenda-wars-2.jpg
+    alt: "Interior de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
+    title: "Interior de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
+  - url: /assets/images/catalogo/agenda-wars-3.jpg
+    image_path: /assets/images/catalogo/agenda-wars-3.jpg
+    alt: "Parte de Atrás de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
+    title: "Parte de Atrás de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
+  - url: /assets/images/catalogo/agenda-wars-4.jpg
+    image_path: /assets/images/catalogo/agenda-wars-4.jpg
+    alt: "Parte de Atrás de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
+    title: "Parte de Atrás de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
+agenda-fortnite-1:
+  - url: /assets/images/catalogo/agenda-fortnite-1.jpg
+    image_path: /assets/images/catalogo/agenda-fortnite-1.jpg
+    alt: "Parte de Delante de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
+    title: "Parte de Delante de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
+  - url: /assets/images/catalogo/agenda-fortnite-3.jpg
+    image_path: /assets/images/catalogo/agenda-fortnite-3.jpg
+    alt: "Interior de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
+    title: "Interior de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
+  - url: /assets/images/catalogo/agenda-fortnite-2.jpg
+    image_path: /assets/images/catalogo/agenda-fortnite-2.jpg
+    alt: "Parte de Atrás de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
+    title: "Parte de Atrás de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
 agenda-gamer-1:
   - url: /assets/images/catalogo/agenda-gamer-1.jpg
     image_path: /assets/images/catalogo/agenda-gamer-1.jpg
@@ -57,19 +87,6 @@ agenda-gamer-2:
     image_path: /assets/images/catalogo/agenda-gamer2-4.jpg
     alt: "Parte de Atrás de la Agenda Escolar Retro Gamer 2019/2020 - Modelo 2 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar Retro Gamer 2019/2020 - Modelo 2 | Visto en Ciberninjas"
-agenda-fortnite-1:
-  - url: /assets/images/catalogo/agenda-fortnite-1.jpg
-    image_path: /assets/images/catalogo/agenda-fortnite-1.jpg
-    alt: "Parte de Delante de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Delante de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-fortnite-3.jpg
-    image_path: /assets/images/catalogo/agenda-fortnite-3.jpg
-    alt: "Interior de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
-    title: "Interior de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-fortnite-2.jpg
-    image_path: /assets/images/catalogo/agenda-fortnite-2.jpg
-    alt: "Parte de Atrás de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Atrás de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
 ---
 
 Con el comienzo del nuevo año escolar y a pesar de la nueva era de la tecnología. Los esstudiantes no dejan de usar sus agendas escolares. A pesar de las primeras emociones del inicio del curso, este implica además toda una tormenta de responsabilidades, deberes, carga de trabajos, cambios de horarios de las clases y un sin fin de fechas que recordar.
@@ -83,6 +100,22 @@ Con el comienzo del nuevo año escolar y a pesar de la nueva era de la tecnolog�
 </details>
 
 Hoy, me gustaría mostrarte algunas de las Agendas más divertidas que he encontrado.
+
+## Agenda Escolar de Star Wars 2019/2020
+
+{% include gallery id="agenda-wars-1" caption="Agenda Escolar Star Wars 2019/2020. Visto en Ciberninjas" %}
+
+La agenda de nuestras películas de ciencia ficción favoritas: Star Wars. Ofrece 10 meses de uso, y graciosas pegatinas.
+
+<center><a href="https://amzn.to/2URK30R" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 /| Ciberninjas">📖 COMPRAR AGENDA</a></center>
+
+## Agenda Escolar de Fortnite 2019/2020
+
+{% include gallery id="agenda-fortnite-1" caption="Agenda Escolar Retro Gamer -modelo 2- 2019/2020. Visto en Ciberninjas" %}
+
+Divertida agenda con la que podrás llevarte tu juego favorito a la escuela, que incluye numerosos apartados: horario, calendario de vacaciones, plannings mensuales, espacio para redes sociales, viajes, listas de objetivos,tareas y notas; 2 páginas de pegatinas, 254 páginas con esquinas cuadradas y microperforadas y un sobre de papel para guardar cosas pequeñas.
+
+<center><a href="https://amzn.to/34EykHq" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 /| Ciberninjas">📖 COMPRAR AGENDA</a></center>
 
 ## Agenda Escolar Retro PacMan 2019/2020 (Modelo 1)
 
@@ -103,14 +136,6 @@ De regalo incluye una regla que te servirá de marca páginas y 5 fundas de plá
 La misma agenda que la anterior, que se diferencia en los diseños de portada y tapa trasera; incluyendo las mismas pegatinas, y otros.
 
 <center><a href="https://amzn.to/2NaSKSQ" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 | Ciberninjas">📖 COMPRAR AGENDA</a></center>
-
-## Agenda Escolar de Fortnite 2019/2020
-
-{% include gallery id="agenda-fortnite-1" caption="Agenda Escolar Retro Gamer -modelo 2- 2019/2020. Visto en Ciberninjas" %}
-
-Divertida agenda con la que podrás llevarte tu juego favorito a la escuela, que incluye numerosos apartados: horario, calendario de vacaciones, plannings mensuales, espacio para redes sociales, viajes, listas de objetivos,tareas y notas; 2 páginas de pegatinas, 254 páginas con esquinas cuadradas y microperforadas y un sobre de papel para guardar cosas pequeñas.
-
-<center><a href="https://amzn.to/34EykHq" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 /| Ciberninjas">📖 COMPRAR AGENDA</a></center>
 
 ## Más Agendas Escolares 2019/2020
 

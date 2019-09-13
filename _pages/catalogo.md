@@ -177,12 +177,13 @@ INGLÉS
 
 ## ☕ Tazas
 
-## 🎁 Regalos Geeks
+## 🎁 Regalos Geeks / Nerds 🙀
 
 ### Agendas Escolares <i class="fas fa-calendar-week"></i>
 
 - [Agenda Escolar Retro Gamer PacMan M. 1 2019/2020](https://amzn.to/2I2bwrx)
 - [Agenda Escolar Retro Gamer PacMan M.2 2019/2020](https://amzn.to/2NaSKSQ)
+- [Agenda Escoalar Star Wars 2019/2020](https://amzn.to/2URK30R)
 - [Agenda escolar 2019-2020 Fortnite](https://amzn.to/34EykHq)
 - [Agenda escolar 2019-2020 Croqueta y Empanadilla](https://amzn.to/2L2YZ94)
 - [Agenda escolar 2019-2020 Defreds](https://amzn.to/2L6SRNb)
