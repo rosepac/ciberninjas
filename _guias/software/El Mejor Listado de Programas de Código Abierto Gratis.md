@@ -23,6 +23,7 @@ toc_sticky: true
 ## Comunicaciones
 
 ### Clientes de Voz IP
-- Mumble [Web](https://www.mumble.info/) [Descargar](https://www.mumble.info/downloads/) [Saber Más](/mumble)
+- Mumble [Web](https://kutt.it/mumble) [Descargar](https://kutt.it/mumbledescargar) - [Saber Más](/mumble/)
+- 
 Cliente de Voz IP destinado principalmente a los jugadores , y que fue el primero en establecer una verdadera comunicación de voz de baja latencia hace más de una década, pero también encuentra un buen uso en muchos entornos diferentes.
 
