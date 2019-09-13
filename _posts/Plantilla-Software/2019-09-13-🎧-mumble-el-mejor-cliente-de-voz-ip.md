@@ -38,10 +38,15 @@ Diferentes grupos de usuarios est&aacute;n interesados en diferentes capacidades
 ### Para usuarios finales
 
 ![img](https://www.mumble.info/client-screenshots/empty.png)
+
 _Mumble Client_
+
 ![img](https://www.mumble.info/client-screenshots/connected.png)
+
 _Conectado a un servidor_
+
 ![img](https://www.mumble.info/client-screenshots/public-server-list.png)
+
 _Lista de servidores p&uacute;blicos_
 
 * Baja latencia: ideal para hablar y jugar
