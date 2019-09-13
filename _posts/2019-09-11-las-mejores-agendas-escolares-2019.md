@@ -34,8 +34,8 @@ agenda-wars-1:
     title: "Interior de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-wars-3.jpg
     image_path: /assets/images/catalogo/agenda-wars-3.jpg
-    alt: "Parte de Atrás de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
-    title: "Parte de Atrás de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
+    alt: "Parte Central de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
+    title: "Parte Central de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
   - url: /assets/images/catalogo/agenda-wars-4.jpg
     image_path: /assets/images/catalogo/agenda-wars-4.jpg
     alt: "Parte de Atrás de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
@@ -106,9 +106,9 @@ Hoy, me gustaría mostrarte algunas de las Agendas más divertidas que he encont
 
 {% include gallery id="agenda-wars-1" layout="half" caption="Agenda Escolar Star Wars 2019/2020. Visto en Ciberninjas" %}
 
-La agenda de nuestras películas de ciencia ficción favoritas: Star Wars. Ofrece 10 meses de uso, y graciosas pegatinas.
+La agenda de nuestras películas de ciencia ficción favoritas: Star Wars. Ofrece 10 meses de uso, y galáxicas pegatinas.
 
-<center><a href="https://amzn.to/2URK30R" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Fortnite del Curso Escolar 2019/2020 /| Ciberninjas">📖 COMPRAR AGENDA</a></center>
+<center><a href="https://amzn.to/2URK30R" class="btn btn--warning btn--large" title="Comprar La Agenda Exclusiva de Star Wars del Curso Escolar 2019/2020 /| Ciberninjas">📖 COMPRAR AGENDA</a></center>
 
 ## Agenda Escolar de Fortnite 2019/2020
 
