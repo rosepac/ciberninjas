@@ -31,7 +31,7 @@ Empieza el nuevo curso, por tanto empiezan los come cabezas escolares de siempre
 
 Algunas de estas aplicaciones están creadas desde el enfoque específico de la educación y otras se basan en un punto de vista más global; sea  como sea, con toda seguridad nos van a ofrecer los suficiente beneficios en estudiantes, profesores y educadores como para pensar en su utilización a lo largo del período escolar.
 
-Si eres de los estudiantes más clásicos y prefieres tener una original y hermosa agenda física en papel, puedes visitar [nuestro catálogo](https://ciberninjas.com/catalogo/#agendas-escolares) que de seguro te van a encantar.
+Si eres de los estudiantes más clásicos y prefieres tener una original y hermosa agenda física en papel, puedes visitar [nuestro catálogo](/catalogo/#agendas-escolares-) que de seguro te van a encantar.
 
 ## Agenda Escolar
 
