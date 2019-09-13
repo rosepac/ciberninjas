@@ -6,7 +6,6 @@ categories:
 - Software
 tags:
 - 
-published: false
 permalink: /
 header:
   overlay_image: ''
