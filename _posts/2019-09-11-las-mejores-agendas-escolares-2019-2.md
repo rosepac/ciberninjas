@@ -193,3 +193,7 @@ Esta es una agenda escolar de Mónica Morán con trucos, frases inspiradoras y
 ## Más Agendas Escolares 2019/2020
 
 <center><a href="/las-mejores-agendas-escolares-2019/" class="btn btn--success btn--large" title="Ver La Primera Parte de la Publicación de Las Mejores Agendas Escolares Exclusivas del Curso Escolar 2019/2020 | Ciberninjas">📖 AGENDAS ESCOLARES PARTE 1</a></center>
+
+## Visita Nuestro Catálogo
+
+<center><a href="/catalogo/" class="btn btn--success btn--large" title="Catálogo Completo de la Tienda de Ciberninjas | Ciberninjas">📖🛒Catálogo</a></center>
