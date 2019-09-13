@@ -1,23 +1,22 @@
 ---
-title: '🎧 Mumble, El Mejor Cliente de Voz IP'
-description: '🎧 Mumble, El Mejor Cliente de Voz IP'
-excerpt: '🎧 Mumble, El Mejor Cliente de Voz IP'
+title: "\U0001F3A7 Mumble, El Mejor Cliente de Voz IP"
+description: "\U0001F3A7 Mumble, El Mejor Cliente de Voz IP"
+excerpt: "\U0001F3A7 Mumble, El Mejor Cliente de Voz IP"
 categories:
-- Software
+  - Software
 tags:
-- Cliente IP
-- Comunicaciones
+  - Cliente IP
+  - Comunicaciones
 permalink: /mumble/
 header:
-  overlay_image: ''
-  overlay_filter: "0.2"
-  image_description: '| Ciberninjas'
-  caption: "**Créditos**: Captura creada por ROSEPAC"
+  overlay_image: /uploads/captura-mumbre-pagina-web.jpg
+  overlay_filter: '0.2'
+  image_description: Página Web Oficial del Cliente de Voz IP Mumble | Ciberninjas
+  caption: '**Créditos**: Captura creada por ROSEPAC'
 toc: true
-toc_label: "Contenidos"
+toc_label: Contenidos
 toc_icon: user-ninja
 toc_sticky: true
-
 ---
 
 > Mumble es una aplicaci&oacute;n de chat de voz gratuita, de c&oacute;digo abierto, de baja latencia y de alta calidad.
