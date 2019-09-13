@@ -459,10 +459,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 
 ## Vuejs
 
-* []
-
-
-## Linux
+## Linux <i class="fab fa-linux"></i>
 
 * [Administración avanzada de GNU/Linux](http://softlibre.unizar.es/manuales/linux/871.pdf) (PDF)
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
@@ -481,6 +478,9 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Libro Iniciación a Ubuntu 16.04](https://drive.google.com/file/d/0B-cIaMA_u7JRRC1TaTRRMUd0NUk/view) (PDF)
 * [Linux Fácil](https://fortinux.com/wp-content/uploads/2010/12/linux-facil-scribus-FINAL-baja.pdf) (PDF)
 * [Sistema Operativo Huayra Gnu/Linux](http://bibliotecadigital.educ.ar/articles/read/366) (HTML)
+
+### Ubuntu <i class="fab fa-ubuntu"></i>
+
 
 
 ## .NET (C# / Visual Studio)

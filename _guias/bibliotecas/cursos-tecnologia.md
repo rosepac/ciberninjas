@@ -25,36 +25,7 @@ He aquí un listado completo de todos los diferentes cursos existentes alrededor
 
 En la actualidad son más de 800 cursos, organizados por diferentes temáticas. Impartidos a través de las Universidades de **educación digital: como Miriadax, Udemy, EDX**, o **cursos de formación abierta/MOOC** dentro de los repositorios universitarios de las universidades más importantes del mundo de habla hispana.
 
-## <i class="fab fa-android"></i> Android
-
-- [Android: Fundamentos para crear tus primeras apps de calidad](https://www.udemy.com/fundamentos-de-android-para-crear-apps-de-calidad) (Udemy)
-- [Android Studio: Instalación, emuladores, git, plugins y tips](https://www.udemy.com/android-studio-instalacion-emuladores-git-plugins-y-tips) (Udemy)
-- [Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56chEhBYGzWJo8V5mmQABmRJe) (Jesús Conde, Youtube)
-- [App Inventor: Como usar el componente Sound](https://www.udemy.com/como-usar-el-componente-sound-sin-morir-en-el-intento) (Udemy)
-- [App Inventor: Componente Contact Picker](https://www.udemy.com/app-inventor-2-componente-contact-picker) (Udemy)
-- [App Inventor: Dragged y Flung](https://www.udemy.com/app-inventor-a) (Udemy)
-- [App Inventor: Videoplayer](https://www.udemy.com/app-inventor-2-videoplayer) (Udemy)
-- [App Inventor: Componente Yandex. Translate](https://www.udemy.com/app-inventor-2-componente-yandextranslate) (Udemy)
-- [App Inventor: Componente SoundRecorder](https://www.udemy.com/curso-del-componente-soundrecorder-de-app-inventor) (Udemy)
-- [App Inventor: Componente HorizontalArrangement](https://www.udemy.com/app-inventor-y-su-componente-horizontalarrangement) (Udemy)
-- [App Inventor: Componente Polygon](https://www.udemy.com/app-inventor-2-componente-polygon) (Udemy)
-- [App Inventor: Descubre Rectangle](https://www.udemy.com/componente-rectangle-maps-app-inventor) (Udemy)
-- [App Inventor: Ev3 Commands y App Inventor](https://www.udemy.com/ev3-commands) (Udemy)
-- [App Inventor: ImagePicker](https://www.udemy.com/appinvento2-imagepicker) (Udemy)
-- [App Inventor: ListView](https://www.udemy.com/app-inventor-listview) (Udemy)
-- [App Inventor: NxtLightSensor](https://www.udemy.com/app-inventor-2-nxtlightsensor) (Udemy)
-- [App Inventor: Slider e Introducción](https://www.udemy.com/slider-introduccion-a-appinventor) (Udemy)
-- [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4) (edx)
-- [Curso básico de Android](https://devcode.la/cursos/curso-basico-de-android) (DevCode)
-- [Curso de Android con Android Studio](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P) (Pildoras Informáticas, Youtube)
-- [Curso de Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA) (Jesús Conde, Youtube)
-- [Curso de Aplicaciones Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA) (Jesús Conde, Youtube)
-- [Introducción a fundamentos Android, ¡Desarrolla una app completa!](https://plataforma.keepcoding.io/p/introduccion-fundamentos-android-online) (Keep Coding)
-- [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1) (edx)
-- [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130) (OCW)
-- [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) (Jesús Conde, Youtube)
-
-## Arduino 🔦 ⏰ 🚦
+## 🔦 Arduino
 
 - [Arduino desde Cero - Primer Módulo](https://www.udemy.com/innova-arduino-desde-cero) (Udemy)
 - [Arduino, creando aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones) (Coursera)
@@ -63,7 +34,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Introducción a Arduino con Elegoo UNO Super Starter Kit](https://www.udemy.com/introduccion-a-arduino-con-elegoo-uno-super-starter-kit) (Udemy)
 - [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed) (MiriadaX)
 
-## <i class="fas fa-database"></i> Bases de Datos
+## 📁 Bases de Datos
 
 - [Acceso a base de datos (2017)](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/acceso-a-bases-de-datos-en-java) (OCW)
 - [Administración de base de datos](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/administracion-de-bases-de-datos) (OCW)
@@ -92,7 +63,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion) (OCW)
 - [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134) (OCW)
 
-## <i class="fas fa-database"></i> Big Data
+## 👨‍👩‍👦 Big Data
 
 - [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos) (OCW)
 - [Análisis de datos con Power BI](https://mva.microsoft.com/es-es/training-courses/anlisis-de-datos-con-power-bi-17093) (Microsoft Virtual Academy)
@@ -107,7 +78,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Power BI en ambientes empresariales](https://mva.microsoft.com/es-es/training-courses/power-bi-en-ambientes-empresariales-17802) (Microsoft Virtual Academy)
 - [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau) (Alberto Prieto Espinosa, YouTube)
 
-## <i class="fas fa-microscope"></i> Ciencias de la Computación
+## 🔬 Ciencias de la Computación
 
 - [Algoritmo Avanzado (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/algoritmia-avanzada-2006.html) (OCW)
 - [Algoritmos y estructuras de datos](https://www.youtube.com/playlist?list=PLeWI3XlFEVOXMwSCkvJinRVEnLksnBOPr) (CodeJobs, YouTube)
@@ -204,7 +175,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [UML. Fundamentos, diagramas. Caso de estudio](https://www.udemy.com/uml-fundamentos-5-diagramas-caso-de-estudio) (Udemy)
 - [Variable compleja para métodos matemáticos. Parte 1](https://www.udemy.com/variable-compleja-para-metodos-matematicos-parte-1) (Udemy)
 
-## <i class="fas fa-store"></i> Comercio Online
+## 🛒 Comercio Online
 
 - [¿Cómo vender cualquier producto en Internet?](https://www.udemy.com/como-vender-cualquier-producto-en-internet) (Udemy)
 - [Aprende a crear tu propia tienda Online](https://www.udemy.com/aprende-a-crear-tu-tienda-online) (Udemy)
@@ -223,16 +194,23 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://www.udemy.com/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa) (Udemy)
 - [Tienda Online con WooCommerce desde cero](https://www.udemy.com/tienda-online-con-woocommerce-desde-cero) (Udemy)
 
-## <i class="fab fa-bitcoin"></i> Criptomonedas
+## ⛓ Blockchain
 
+### 💰 Criptomonedas
+
+#### Bitcoin <i class="fab fa-bitcoin"></i>
 - [Bitcoin: Qué es y como comprarlo](https://www.udemy.com/bitcoin-) (Udemy)
 - [Bitcoin Construye un imperio minando en la nube](https://www.udemy.com/bitcoin-construye-un-imperio-minando-en-la-nube) (Udemy)
+
+
+### Trading <i class="fas fa-chart-line"></i>
 - [Curso básico de trading](https://www.udemy.com/wisetradingacademy) (Udemy)
 - [Curso de trading y bolsa desde cero](https://www.udemy.com/curso-de-trading-y-bolsa-desde-cero) (Udemy)
 - [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://www.udemy.com/curso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx) (Udemy)
 - [Trading Forex para principiantes - Estrategias Clave](https://www.udemy.com/estrategias-trading-forex-y-operaciones-bursatiles) (Udemy)
 
-## <i class="fas fa-screwdriver"></i> Flujos de Trabajo
+
+## 💼 Flujos de Trabajo
 
 - [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil) (Udemy)
 - [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-) (MiriadaX)
@@ -265,7 +243,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158) (OCW)
 - [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119) (OCW)
 
-## Ofimática 👨‍💼 ✒ 👩‍💼
+## 💻 Ofimática
 
 - [Análisis de datos con Excel](https://mva.microsoft.com/es-es/training-courses/anlisis-de-datos-con-excel-17479) (Microsoft Virtual Academy)
 - [Aprende a usar Google Drive de una manera fácil y sencilla](https://www.udemy.com/aprende-a-usar-google-drive-de-una-manera-facil-y-sencilla) (Udemy)
@@ -321,7 +299,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Software Libre y Conocimiento en Abierto](https://miriadax.net/web/soft_libre_y_conocimiento/inicio) (MiriadaX)
 - [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-) (MiriadaX)
 
-## Procesadores de lenguaje 🛠
+## 🔨 Procesadores de Lenguaje
 
 - [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949) (OCW)
 - [Microprocesadores (2006)](http://ocw.upm.es/tecnologia-electronica/microprocesadores) (OCW)
@@ -331,7 +309,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56) (OCW)
 - [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes) (OCW)
 
-## Programación 👩‍💻 📄 ⌨ 📄 👨‍💻
+## 👨🏼‍💻 Programación
 
 - [Actualización PHP 7](https://www.udemy.com/actualizacion-php-7) (Udemy)
 - [Análisis, validación y depuración de software (2015)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=11566&p_caca=2015) (OCW)
@@ -426,10 +404,39 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Tecnologías de la Programación (2009)](http://ocw.um.es/ingenierias/tecnologia-de-la-programacion) (OCW)
 - [Test Driven Development con Java y Junit5](https://www.udemy.com/testdrivendevelopment) (Udemy)
 
-## Programación Web & Móvil 👩‍💻
+## 👩‍💻 Programación Móvil & Web
 
-- [¿Por dónde empezar con el desarrollo web? Empieza aquí](https://www.udemy.com/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html) (Udemy)
-- [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
+### Android <i class="fab fa-android"></i>
+
+- [Android: Fundamentos para crear tus primeras apps de calidad](https://www.udemy.com/fundamentos-de-android-para-crear-apps-de-calidad) (Udemy)
+- [Android Studio: Instalación, emuladores, git, plugins y tips](https://www.udemy.com/android-studio-instalacion-emuladores-git-plugins-y-tips) (Udemy)
+- [Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56chEhBYGzWJo8V5mmQABmRJe) (Jesús Conde, Youtube)
+- [App Inventor: Como usar el componente Sound](https://www.udemy.com/como-usar-el-componente-sound-sin-morir-en-el-intento) (Udemy)
+- [App Inventor: Componente Contact Picker](https://www.udemy.com/app-inventor-2-componente-contact-picker) (Udemy)
+- [App Inventor: Dragged y Flung](https://www.udemy.com/app-inventor-a) (Udemy)
+- [App Inventor: Videoplayer](https://www.udemy.com/app-inventor-2-videoplayer) (Udemy)
+- [App Inventor: Componente Yandex. Translate](https://www.udemy.com/app-inventor-2-componente-yandextranslate) (Udemy)
+- [App Inventor: Componente SoundRecorder](https://www.udemy.com/curso-del-componente-soundrecorder-de-app-inventor) (Udemy)
+- [App Inventor: Componente HorizontalArrangement](https://www.udemy.com/app-inventor-y-su-componente-horizontalarrangement) (Udemy)
+- [App Inventor: Componente Polygon](https://www.udemy.com/app-inventor-2-componente-polygon) (Udemy)
+- [App Inventor: Descubre Rectangle](https://www.udemy.com/componente-rectangle-maps-app-inventor) (Udemy)
+- [App Inventor: Ev3 Commands y App Inventor](https://www.udemy.com/ev3-commands) (Udemy)
+- [App Inventor: ImagePicker](https://www.udemy.com/appinvento2-imagepicker) (Udemy)
+- [App Inventor: ListView](https://www.udemy.com/app-inventor-listview) (Udemy)
+- [App Inventor: NxtLightSensor](https://www.udemy.com/app-inventor-2-nxtlightsensor) (Udemy)
+- [App Inventor: Slider e Introducción](https://www.udemy.com/slider-introduccion-a-appinventor) (Udemy)
+- [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4) (edx)
+- [Curso básico de Android](https://devcode.la/cursos/curso-basico-de-android) (DevCode)
+- [Curso de Android con Android Studio](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P) (Pildoras Informáticas, Youtube)
+- [Curso de Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA) (Jesús Conde, Youtube)
+- [Curso de Aplicaciones Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA) (Jesús Conde, Youtube)
+- [Introducción a fundamentos Android, ¡Desarrolla una app completa!](https://plataforma.keepcoding.io/p/introduccion-fundamentos-android-online) (Keep Coding)
+- [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1) (edx)
+- [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130) (OCW)
+- [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) (Jesús Conde, Youtube)
+
+### Angular <i class="fab fa-angular"></i>
+
 - [Angular: Convierte cualquier template HTML en una WebAPP](https://www.udemy.com/html-hacia-angular) (Udemy)
 - [Angular: Fundamentos desde cero](https://www.udemy.com/curso-angular) (Udemy)
 - [Angular 2 básico](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd) (Jesús Conde, YouTube)
@@ -437,6 +444,25 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Angular 4: convertir un template HTML en una aplicación web](https://www.udemy.com/html-hacia-angular) (Udemy)
 - [Angular 4: instalación y componentes](https://www.udemy.com/introduccion-a-angular-4) (Udemy)
 - [Angular 5 y TypeScript; Introducción (2.017)](https://www.udemy.com/angular-5-y-typescript-curso-de-introduccion-paso-a-paso) (Udemy)
+- [Curso de Angular 2](https://www.youtube.com/playlist?list=PLIcuwIrm4rKfkfJjKZ45oIskF9pI9p9n6) (Desarrolloweb.com, Youtube)
+- [Curso de Angular 2](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd) (Jesús Conde, Youtube)
+- [Curso de Angular 4](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8-9vxaY4BHRB9wlzUgPzD1) (Eduardo Ibarra, Youtube)
+- [Curso de Angular 4](https://www.youtube.com/playlist?list=PLEtcGQaT56chhi-qsqxIrUG_n9pXYCZ8z) (Jesús Conde, Youtube)
+- [Curso de Angular JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgHfdvGguisToK90z321pRl) (Jesús Conde, Youtube)
+
+
+### Bootstrap <i class="fab fa-bootstrap"></i>
+
+
+
+### PHP <i class="fab fa-php"></i>
+
+
+
+### Código Global <i class="fas fa-code"></i>
+
+- [¿Por dónde empezar con el desarrollo web? Empieza aquí](https://www.udemy.com/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html) (Udemy)
+- [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
 - [Aplicaciones móviles (2011)](http://ocw.uc3m.es/ingenieria-telematica/aplicaciones-moviles) (OCW)
 - [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing) (OCW)
 - [Aprende a crear Landing Pages con Bootstrap 3 o Instapage](https://www.udemy.com/crea-una-landing-page-que-enamore-sin-saber-programar/) (Udemy)
@@ -474,11 +500,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Curso básico de Responsive Web Design](https://devcode.la/cursos/curso-basico-de-responsive-web-design) (DevCode)
 - [Curso completo de Boostrap 4! 2017 desde cero](https://www.youtube.com/playlist?list=PLPl81lqbj-4IcaAluUlCTmbYz0h9XQ8U1) (Bluuweb!, Youtube)
 - [Curso CSS Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpUDdnWSglIIHfIosElaVN) (Pildoras Informáticas, Youtube)
-- [Curso de Angular 2](https://www.youtube.com/playlist?list=PLIcuwIrm4rKfkfJjKZ45oIskF9pI9p9n6) (Desarrolloweb.com, Youtube)
-- [Curso de Angular 2](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd) (Jesús Conde, Youtube)
-- [Curso de Angular 4](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8-9vxaY4BHRB9wlzUgPzD1) (Eduardo Ibarra, Youtube)
-- [Curso de Angular 4](https://www.youtube.com/playlist?list=PLEtcGQaT56chhi-qsqxIrUG_n9pXYCZ8z) (Jesús Conde, Youtube)
-- [Curso de Angular JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgHfdvGguisToK90z321pRl) (Jesús Conde, Youtube)
 - [Curso de Bootstrap 3](https://devcode.la/cursos/bootstrap3) (DevCode)
 - [Curso de Bootstrap 3](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWTKvu1Aq3xUhzIJNBZ3MFW) (Falcon Masters, Youtube)
 - [Curso de CSS3 y Flexbox, 2017](https://www.youtube.com/playlist?list=PLPl81lqbj-4LGQgD3f0WPIol1RT8fML3u) (Bluuweb!, Youtube)

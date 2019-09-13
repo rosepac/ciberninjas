@@ -194,12 +194,12 @@ INGLÉS
 
 ## Marvel
 
-Figuras de Marvel (https://amzn.to/3008NKp)
-Comics en Español en Tapa Dura (https://amzn.to/2ZXW0bm)
-Comics en Español en Tapa Blanda (https://amzn.to/2I0zUtG)
-Comics en Español en Ebook (https://amzn.to/2I3j510)
-Las Mejores Camisetas de Marvel (https://amzn.to/2HYcMM7)
-Las Mejores Tazas de Marvel (https://amzn.to/2Q3Tw6E)
+- [Figuras de Marvel](https://amzn.to/3008NKp)
+- [Comics en Español en Tapa Dura](https://amzn.to/2ZXW0bm)
+- [Comics en Español en Tapa Blanda](https://amzn.to/2I0zUtG)
+- [Comics en Español en Ebook](https://amzn.to/2I3j510)
+- [Las Mejores Camisetas de Marvel](https://amzn.to/2HYcMM7)
+- [Las Mejores Tazas de Marvel](https://amzn.to/2Q3Tw6E)
 
 ## ❔Saber Más
 <details>
