@@ -1,5 +1,5 @@
 ---
-title: "🛒 Catálogo Completo de la Tienda Ciberninjas"
+title: "🛒 Catálogo de la Tienda Ciberninjas"
 description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 published: true
@@ -13,16 +13,6 @@ sidebar:
 - title: "Menú Principal"
   nav: general
 ---
-
-🛠 ¡EN CONSTANTE CREACIÓN! 👷‍♀️ 
-{: .notice--warning}
-
-<details>
-<summary>Saber Más</summary>
-<br/>
-<p>Poco a poco, vamos a crear un largo catálogo de los mejores productos frikis con los que realizar los más impresionantes regalos a las personas que les encanta el mundo de la tecnología, los gadgets tecnológicos, la música y las series indies, los comics, el manga.</p>
-<p></p>
-</details>
 
 ## 📚 Libros
 
@@ -206,6 +196,14 @@ Comics en Español en Tapa Blanda (https://amzn.to/2I0zUtG)
 Comics en Español en Ebook (https://amzn.to/2I3j510)
 Las Mejores Camisetas de Marvel (https://amzn.to/2HYcMM7)
 Las Mejores Tazas de Marvel (https://amzn.to/2Q3Tw6E)
+
+## ❔Saber Más
+<details>
+<summary>Saber Más</summary>
+<br/>
+<p>Poco a poco, vamos a crear un largo catálogo de los mejores productos frikis con los que realizar los más impresionantes regalos a las personas que les encanta el mundo de la tecnología, los gadgets tecnológicos, la música y las series indies, los comics, el manga.</p>
+<p></p>
+</details>
 
 Los enlaces aquí expuestos, trabajan a través de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la página web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos más recursos
 {: .notice--warning}
