@@ -196,4 +196,4 @@ Esta es una agenda escolar de Mónica Morán con trucos, frases inspiradoras y
 
 ## Visita Nuestro Catálogo
 
-<center><a href="/catalogo/" class="btn btn--success btn--large" title="Catálogo Completo de la Tienda de Ciberninjas | Ciberninjas">📖🛒Catálogo</a></center>
+<center><a href="/catalogo/" class="btn btn--success btn--large" title="Catálogo Completo de la Tienda de Ciberninjas | Ciberninjas">🛒 Catálogo</a></center>
