@@ -42,20 +42,20 @@ agenda-croqueta-1:
     alt: "Interior de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
     title: "Interior de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
 agenda-defreds-1:
-  - url: /assets/images/catalogo/agenda-defreuds-1.jpg
-    image_path: /assets/images/catalogo/agenda-defreuds-1.jpg
+  - url: /assets/images/catalogo/agenda-defreds-1.jpg
+    image_path: /assets/images/catalogo/agenda-defreds-1.jpg
     alt: "Parte de Delante de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Delante de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-defreuds-2.jpg
-    image_path: /assets/images/catalogo/agenda-defreuds-2.jpg
+  - url: /assets/images/catalogo/agenda-defreds-2.jpg
+    image_path: /assets/images/catalogo/agenda-defreds-2.jpg
     alt: "Interior de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Interior de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-defreuds-3.jpg
-    image_path: /assets/images/catalogo/agenda-defreuds-3.jpg
+  - url: /assets/images/catalogo/agenda-defreds-3.jpg
+    image_path: /assets/images/catalogo/agenda-defreds-3.jpg
     alt: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-defreuds-4.jpg
-    image_path: /assets/images/catalogo/agenda-defreuds-4.jpg
+  - url: /assets/images/catalogo/agenda-defreds-4.jpg
+    image_path: /assets/images/catalogo/agenda-defreds-4.jpg
     alt: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
 agenda-lucia-1:
