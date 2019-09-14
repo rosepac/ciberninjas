@@ -3,10 +3,10 @@ main:
     url: /catalogo/
   - title: "📚 Guías"
     url: /guias/
-  - title: "🎓 Cursos"
-    url: /cursos-tecnologia/
   - title: "📖 Libros"
     url: /biblioteca-de-programacion-y-tecnologia/
+  - title: "🎓 Cursos"
+    url: /cursos-tecnologia/
   - title: "👨‍🏫 Tutoriales"
     url: /videotutoriales/
   - title: "📽 Videoteca"
