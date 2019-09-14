@@ -22,15 +22,15 @@ sidebar:
 
 ## &Iacute;ndice
 
-1. React Native Curso en espa&ntilde;ol 2019
-1. Instalaci&oacute;n y Expo
-1. Componentes, Estilos y Flexbox. Parte 1
-1. Componentes, Estilos y Flexbox. Parte 2
-1. Componentes, Estilos y Flexbox. Parte 3
-1. Platform, Estilos en Android y IOS
-1. State
-1. Props
-1. Estructura y Orden
-1. FlatList
-1. Native Base + react native - Libreria UI
-1. enoent no such file or directory solucion - native base react native
+1. React Native Curso en español 2019
+2. Instalación y Expo
+3. Componentes, Estilos y Flexbox. Parte 1
+4. Componentes, Estilos y Flexbox. Parte 2
+5. Componentes, Estilos y Flexbox. Parte 3
+6. Platform, Estilos en Android y IOS
+7. State
+8. Props
+9. Estructura y Orden
+10. FlatList
+11. Native Base + react native - Libreria UI
+12. enoent no such file or directory solucion - native base react native
