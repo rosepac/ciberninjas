@@ -1,46 +1,48 @@
 ---
 # 🕸 Administración y Redes, 🧠 Neuropsicología, ⭐ ecomendaciones, 🔐 Seguridad Informática
-author_profile: false
-title: "🔐 Web Hacking 101: Cómo hacer Dinero Hackeando Éticamente"
-comments: true
-date: 2019-08-12 09:34:54
+title: "🔐 TITULO"
+categories:
+- Catálogo
+# MODIFICAR CATEGORÍA
+- Seguridad Informática
 tags:
 - Libro
 - LeanPub
-- Gamliel Hernández
-- Peter Yaworski
-categories:
-- Catálogo
-- 
+- AUTOR
+comments: true
+date: 2019-09-14 09:34:54
 permalink: /catalogo/*
-description: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
-excerpt: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
+description: '.'
+excerpt: '.'
 header:
-  overlay_image: /assets/images/catalogo/Web-Hacking-101-en-Espanol-600x769.jpg
-  image_description: "Web Hacking 100: Cómo hacer dinero Hackeando Eticámente en Español: Los mejores libros de seguridad informática y ciberseguridad | Ciberninjas"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: 
+  image_description: "TITULO en Español: Los mejores libros de seguridad informática y ciberseguridad | Ciberninjas"
+  overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **LeanPub**"
   actions:
     - label: "+ SEGURIDAD INFORMÁTICA"
       url: "/categoria/#seguridad-inform%C3%A1tica"
     - label: "🛒 COMPRAR"
-      url: "https://leanpub.com/web-hacking-101-es"
+      url: "ENLACE LEANPUB"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
+author_profile: false
+# IMAGEN DE TAMAÑO REDUCIDO X250 DE ANCHO MÁXIMO
 sidebar:
   - title: "Autores"
     image: /assets/images/catalogo/Web-Hacking-101x250.jpg
-    image_alt: "image"
-    text: "Peter Yaworski, Gamliel Hernández"
+    image_alt: "DESCRIPCION"
+    text: "AUTOR"
   - title: "Precio Sugerido"
-    text: "18, 07 €"
+    text: " €"
   - title: "Precio Mínimo"
-    text: "9,03 €"
+    text: " €"
     nav: catalogo
     
 ---
+
 Hasta Febrero 2017, Twitter ha pagado más de $640,000 USD a hackers éticos por reportar vulnerabilidades en su plataforma. Google, Facebook, Shopify, Dropbox, y muchos más, solicitan hackers éticos que busquen fallos de seguridad en sus sitios y pagarles por sus hallazgos. Este libro te enseñará cómo iniciarte en el hacking ético.
 
 ## 🙋‍♀️ Descripción Completa
@@ -76,147 +78,7 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 
 ## 🕵️‍♂️ Índice del Libro
 
-- Prefacio
-    - Introducción
-    - Trasfondo
-    - Vulnerabilidades de Redirección Abierta
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Contaminación de parámetros HTTP
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Falsificación de solicitud de sitio cruzado
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Inyección HTML
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Inyeción de CRLF
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Script de Sitio Cruzado
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Inyección de plantilla
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Inyección SQL
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Falsificación de solicitud del lado del servidor
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Entidades Externas de XML
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Ejecución remota de código
-    - Descripción
-    - Ejemplos
-    - Resumen
-- La Memoria
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Toma de control de un sub dominio
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Condiciones de carrera
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Referencias inseguras a objetos directos
-    - Descripción
-    - Ejemplos
-    - Resumen
-- OAuth
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Vulnerabilidades en la lógica de la Aplicación
-    - Descripción
-    - Ejemplos
-    - Resumen
-- Empezando
-- Recopilación de información
-- Pruebas de aplicaciones
-- Cavar más profundo
-    - Resumen
-- Informes de vulnerabilidad
-- Lee las directrices de divulgación.
-- Incluye detalles. Luego, incluye más.
-- Confirmar la vulnerabilidad
-- Muestra respeto por la Compañía
-- Recompensas
-- No grite Hola antes de cruzar el charco
-- Palabras de despedida
-- Herramientas
-- Burp Suite
-- ZAP Proxy
-- Knockpy
-- HostileSubBruteforcer
-- Sublist3r
-- crt.sh
-- IPV4info.com
-- SecLists
-- XSSHunter
-- sqlmap
-- Nmap
-- EyeWitness
-- Shodan
-- Censys
-- WhatCMS
-- BuiltWith
-- Nikto
-- Recon-ng
-- GitRob
-- CyberChef
-- OnlineHashCrack.com
-- idb
-- Wireshark
-- Bucket Finder
-- Race the Web
-- Google Dorks
-- JD GUI
-- Framework de Seguridad Móvil (Mobile Security Framework)
-- Ysoserial
-- Plugins de Firefox
-- Recursos
-- Entrenamiento en linea
-- Plataformas de recompensas de errores
-- Otras lecturas
-- Blogs recomendados
-- Hojas de trucos
-- Glosario
-- Apéndice A - Recomendaciones
-- Redirecciones Abiertas
-- Contaminación de Parámetros HTTP
-- Falsificación de solicitud de sitio cruzado
-- Inyección HTML
-- Inyecciones de CRLF
-- Script de Sitio Cruzado
-- SSTI / Inyección de Plantillas del Lado del Servidor
-- Inyección de SQL
-- Falsificación de solicitud del lado del servidor
-- Entidades Externas de XML
-- Ejecución remota de código
-- La Memoria
-- Toma de control de un sub dominio
-- Condiciones de carrera
-- Referencias inseguras a objetos directos
-- OAuth
-- Vulnerabilidades en la lógica de la Aplicación
-- Apéndice B - Registro de cambios en Web Hacking 101
+- LISTA-INDICE
 
 ## 📝 Otros Detalles
 
@@ -240,6 +102,6 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=kindlestore&banner=0P95N768FCV2P0732CG2&f=ifr&linkID=75656190f347ab8c55ea09e0b6f57418&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
 ## 📚 Catálogo Completo
-<a href="/categoria/#framework-apps" title="Libros de Frameworks de Creación de Aplicaciones Multiplataforma" class="btn btn--success btn--large">👨‍💻 Framework Apps</a> <a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#redes-y-administraci%C3%B3n" title="Libros de Redes y Administración" class="btn btn--success btn--large">Administración y Redes 🕸</a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+<a href="/categoria/#framework-apps" title="Libros de Frameworks de Creación de Aplicaciones Multiplataforma" class="btn btn--success btn--large">👨‍💻 Framework Apps</a> <a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#redes-y-administraci%C3%B3n" title="Libros de Redes y Administración" class="btn btn--success btn--large">🕸 Administración y Redes </a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=libros&banner=16R3XS8RQ89N3YJR4B02&f=ifr&linkID=56cd664728c9a7de32cbacd0aafc13ca&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
