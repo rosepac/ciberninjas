@@ -1,24 +1,34 @@
 ---
 author_profile: false
-title: "👨‍🏫 Curso de TITULO con AUTOR"
-description: "🚀 Curso de TITULO con AUTOR"
-excerpt: "🚀 Curso de TITULO con AUTOR"
-permalink: 
+title: "🥇 Curso de React Native con Iván B. Trujillo"
+description: "👨‍💻 ▷ Aprender a crear aplicaciones 📲 con React Native ✌️ con Iván B. Trujillo. Conoce uno de los frameworks más importantes creador de apps móviles nativas ⭐️"
+excerpt: "👨‍💻 ▷ Aprender a crear aplicaciones 📲 con React Native ✌️ con Iván B. Trujillo. Conoce uno de los frameworks más importantes creador de apps móviles nativas ⭐️"
+permalink: /react-native-con-ivan-b-trujillo/
 header:
   video:
-    id: playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW
+    id: playlist?list=PLuzQ5Ac_9_cI-ukaElfIFKXyhLsADBiJe
     provider: youtube
 comments: true
-date: FECHA
+date: 2019-09-14 04:35:00 +0200
 tags:
-# Autor, Editorial, Temática, Tipo de Música: SEO, 
-- AUTOR
-- TEMA
+  - Iván Trujillo
+  - React Native
 categories:
-- Videotutorial TEMATICA
+  - Videotutorial React Native
 sidebar:
-- title: "Menú Videotutoriales"
-  nav: vtuto
+  - title: Menú Videotutoriales
+    nav: vtuto
 ---
 
-## Índice
+## &Iacute;ndice
+
+1. Primeros Pasos
+2. Componentes, Botones y Alertas
+3. Pantalla de Login, Navegador y Vistas
+4. Navegación por Pestañas
+5. Peticiones a API y ListView
+6. Vista Detalles y Paso de Propiedades a Componente Hijo
+
+## Creador
+
+Editor del blog de Medium: Canarias JS
