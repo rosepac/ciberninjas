@@ -43,8 +43,6 @@ sidebar:
     nav: catalogo
 ---
 
-INTRODUCCION
-
 ## 🙋‍♀️ Descripci&oacute;n Completa
 
 Edward Snowden, el hombre que arriesg&oacute; todo para exponer el sistema de vigilancia masiva del gobierno de EE. UU., Revela por primera vez la historia de su vida, incluida la forma en que ayud&oacute; a construir ese sistema y lo que lo motiv&oacute; a intentar derribarlo.
