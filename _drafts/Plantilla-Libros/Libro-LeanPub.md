@@ -1,5 +1,5 @@
 ---
-# 🕸 Administración y Redes, 🧠 Neuropsicología, ⭐ ecomendaciones, 🔐e  geuridad Informática
+# 🕸 Administración y Redes, 🧠 Neuropsicología, ⭐ ecomendaciones, 🔐 Seguridad Informática
 author_profile: false
 title: "🔐 Web Hacking 101: Cómo hacer Dinero Hackeando Éticamente"
 comments: true
