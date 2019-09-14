@@ -9,7 +9,7 @@ tags:
   - Edward Snowden
 comments: true
 date: 2019-09-14 06:20:00 +0200
-permalink: /catalogo/vigilancia-permanente/*
+permalink: /catalogo/vigilancia-permanente/
 description: >-
   El mayor escándalo diplomático de la historia. Una vida al servicio de la
   verdad. Las memorias que agitarán la geopolítica mundial.
