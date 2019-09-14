@@ -1,8 +1,8 @@
 ---
 author_profile: false
-title: "\U0001F468‍\U0001F3EB Curso de React Native desde Ciencia del Aprendizaje Fácil"
-description: "\U0001F680 Curso de React Native desde Ciencia del Aprendizaje Fácil"
-excerpt: "\U0001F680 Curso de React Native desde Ciencia del Aprendizaje Fácil"
+title: "🥇 Curso de React Native por Ciencia del Aprendizaje Fácil"
+description: "👨‍💻 ▷ Aprender a crear aplicaciones 📲con React Native ✌️ Uno de los frameworks más importantes de creación de aplicaciones móviles nativas ⭐️"
+excerpt: "👨‍💻 ▷ Aprender a crear aplicaciones 📲con React Native ✌️ Uno de los frameworks más importantes de creación de aplicaciones móviles nativas ⭐️"
 permalink: /react-native-desde-ciencia-del-aprendizaje-facil/
 header:
   video:
