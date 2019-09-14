@@ -59,7 +59,7 @@ Edward Joseph "Ed" Snowden es un profesional inform&aacute;tico estadounidense q
 
 ## 🔗 Enlaces Externos
 
-* Edward Snowden escribi&oacute; un libro para ayudar a los lectores a comprender 'su mentalidad' cuando filtr&oacute; documentos del gobierno [CNN](https://edition.cnn.com/2019/08/01/politics/edward-snowden-memoir-permanent-record-trnd/index.html)
+* Edward Snowden escribi&oacute; un libro para ayudar a los lectores a comprender 'su mentalidad' cuando filtr&oacute; documentos del gobierno.&nbsp;[CNN](https://edition.cnn.com/2019/08/01/politics/edward-snowden-memoir-permanent-record-trnd/index.html)
 * En la nueva memoria de Edward Snowden, las revelaciones esta vez son personales. [New York Times](https://www.nytimes.com/2019/09/13/books/review-permanent-record-edward-snowden-memoir.html)
 * Siete cosas que aprendimos del nuevo libro de Edward Snowden. [Wired](https://www.wired.co.uk/article/edward-snowden-book-permanent-record-review)
 * Las memorias de Edward Snowden, Vigilancia Permanente, saldr&aacute;n el pr&oacute;ximo mes [TheVerge](https://www.theverge.com/2019/8/1/20750383/edward-snowden-memoir-permanent-record-nsa-whistleblower)
