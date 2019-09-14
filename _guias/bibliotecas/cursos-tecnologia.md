@@ -63,7 +63,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion) (OCW)
 - [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134) (OCW)
 
-[VOLVER ARRIBA](/#page-title) <i class="fas fa-arrow-up">
+[VOLVER ARRIBA](/cursos-tecnologia/#page-title) <i class="fas fa-arrow-up">
 
 ## 👨‍👩‍👦 Big Data
 
