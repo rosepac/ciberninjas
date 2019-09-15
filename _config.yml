@@ -74,6 +74,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-142542230-1"
+    anonymize_ip: true # default
+
 author:
   name   : "Pablo Álvarez Corredera"
   avatar : "/assets/images/bio-photo.png"
@@ -235,3 +241,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /etiqueta/
+  
+# Final de la Configuración 💋💋💋
