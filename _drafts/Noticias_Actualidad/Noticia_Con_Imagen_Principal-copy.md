@@ -18,7 +18,6 @@ header:
   caption: "**Créditos**: Foto de [FossBytes](https://fossbytes.com)"
 
 ---
-> 📰 💻 RESUMEN, por [AUTOR](ENLACE AL ESCRITOR)
 
 El ingeniero de Intel Feng Tang habló en la Conferencia de Plomeros de Linux de esta semana en Lisboa, Portugal, sobre cómo el equipo de Clear Linux logró arrancar su kernel más rápido. Comenzaron con un tiempo de arranque de kernel de aproximadamente tres segundos, pero lo redujeron a solo 300 ms.
 
