@@ -18,7 +18,7 @@ header:
   image_description: "Aplicación de doble autentificación en Android AndOTP | Montaje creado por Ciberninjas"
   caption: "**Créditos**: Portada Creada por Ciberninjas"
   actions:
-        - label: "DESCARGAR ANDOTP"
+    - label: "DESCARGAR ANDOTP"
       url: "https://kutt.it/andotp-android"
 toc: true
 toc_label: "Contenidos"
