@@ -16,7 +16,7 @@ header:
   image_description: "DESCRIPCION IMAGEN | Ciberninjas"
   caption: "**Créditos**: Captura creada por ROSEPAC"
   actions:
-    - label: "VISITAR NOMBRE-PROYECTO"
+    - label: "DESCARGAR NOMBRE-PROYECTO"
       url: "ENLACE-PROYECTO"
 toc: true
 toc_label: "Contenidos"
