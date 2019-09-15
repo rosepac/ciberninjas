@@ -1,23 +1,22 @@
 ---
-title: "📰 TITULO"
-description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
-excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
+title: "📰 Alemania y Francia acuerdan bloquear Libra de Facebook"
+description: '💰 Francia y Alemania acordaron bloquear la criptomoneda Libra de Facebook, dijo el viernes el ministerio de finanzas francés, por Laurence Frost; edición por Richard Lough'
+excerpt: '💰 Francia y Alemania acordaron bloquear la criptomoneda Libra de Facebook, dijo el viernes el ministerio de finanzas francés, por Laurence Frost; edición por Richard Lough'
 date: 
 categories:
-- CATEGORIA
-link: ENLACE A LA NOTICIA
+- Actualidad
+- Criptomonedas
+link: https://www.reuters.com/article/us-facebook-cryptocurrency-france-german/france-and-germany-agree-to-block-facebooks-libra-idUSKCN1VY1XU
 tags:
-- ETIQUETAS
+- Libra
 header:
-  overlay_image: "/assets/images/.jpg"
+  overlay_image: 
   overlay_filter: "0.2"
-  image_description: "DESCRIPCION IMAGEN | Ciberninjas"
-  caption: "**Créditos**: Foto de [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/collections/8502157/news?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  image_description: "Libra, la criptomoneda de Facebook que desea apoderarse del poder económico mundial | Ciberninjas"
+  caption: "**Créditos**: Foto de Pixabay
 
 ---
-> 📰 ICONO-TEMATICA RESUMEN, por [AUTOR](ENLACE AL ESCRITOR)
+> 📰 💰 Alemania y Francia acordaron bloquear la criptomoneda Libra de Facebook, dijo el viernes el ministerio de finanzas francés, reporte de Laurence Frost; edición por Richard Lough
 
-<!-- CONTENIDO -->
-
-**Fuente**: [TITULO](ENLACE A LA NOTICIA "TITLE")
+**Fuente**: [Alemania y Francia acuerdan bloquear Libra de Facebook](https://www.reuters.com/article/us-facebook-cryptocurrency-france-german/france-and-germany-agree-to-block-facebooks-libra-idUSKCN1VY1XU "Francia y Alemania acordaron bloquear la criptomoneda Libra de Facebook, dijo el viernes el ministerio de finanzas francés, por Laurence Frost; edición por Richard Lough")
 {: .notice--info}
