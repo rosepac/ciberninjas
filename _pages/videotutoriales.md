@@ -5,9 +5,7 @@ excerpt: '🎓 ▷ Videoteca de Documentales Más Interesantes dentro de Múltip
 permalink: /videotutoriales/
 date: 2018-09-12T13:20:42
 last_modified_at:
-sidebar:
-- title: "Menú Principal"
-  nav: vtuto
+
 ---
 
 <a href="/categoria/#videotutorial-seo-y-posicionamiento" title="Mejores Videotutoriales y Más Actuales sobre el SEO y el Posicionamiento Web" class="btn btn--success btn--large"><i class="fas fa-arrow-circle-up"></i> Seo</a> <a href="/categoria/#videotutorial-android-studio" title="Mejores Videotutoriales y Más Actuales sobre el SEO y el Posicionamiento Web" class="btn btn--success btn--large"><i class="fab fa-android"></i> Android Studio</a> <a href="/categoria/#videotutorial-javascript" title="Mejores Videotutoriales y Más Actuales sobre Javascript" class="btn btn--success btn--large"><i class="fab fa-js-square"></i> Javascript</a> <a href="/categoria/#videotutorial-wordpress" title="Mejores Videotutoriales de Wordpress y diseño de plantillas Wordpress" class="btn btn--success btn--large"><i class="fab fa-wordpress"></i> Wordpress</a> <a href="/categoria/#videotutorial-seguridad" title="Mejores Videotutoriales de Seguridad Informática Sobre Frameworks y CMS" class="btn btn--success btn--large"><i class="fas fa-lock"></i> Seguridad</a> <a href="/categoria/#videotutorial-material-design" title="Mejores Videotutoriales de Diseño sobre Material Design" class="btn btn--success btn--large"><i class="fas fa-pencil-ruler"></i> Material Design</a>
