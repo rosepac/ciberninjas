@@ -1,7 +1,7 @@
 ---
 title: "📱andOTP Aplicación de Doble Factor de Código Abierto"
-description: '🔐 La Mejor Aplicación de Doble Factor de Código Abierto para Android'
-excerpt: '🔐 La Mejor Aplicación de Doble Factor de Código Abierto para Android'
+description: '🔐 La Mejor Aplicación 📱 de Doble Factor de Código Abierto para Android'
+excerpt: '🔐 La Mejor Aplicación 📱 de Doble Factor de Código Abierto para Android'
 date: 2019/09/15 18:47:02
 # Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
@@ -10,13 +10,12 @@ categories:
 - Seguridad
 # Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
 tags:
-- andOTP
 - Autentificación
 - Doble Factor
 header:
   overlay_image: /asets/images/aplicacion-andotp.jpg
   overlay_filter: "0.2"
-  image_description: "Aplicación de doble autentificación en Android AndOTP | Captura creada por Ciberninjas"
+  image_description: "Aplicación de doble autentificación en Android AndOTP | Montaje creado por Ciberninjas"
   caption: "**Créditos**: Portada Creada por Ciberninjas"
   actions:
         - label: "DESCARGAR ANDOTP"
