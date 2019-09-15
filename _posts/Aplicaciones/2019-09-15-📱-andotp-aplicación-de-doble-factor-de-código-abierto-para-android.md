@@ -1,5 +1,5 @@
 ---
-title: "\U0001F4F1andOTP Aplicación de Doble Factor de Código Abierto para Android"
+title: "\U0001F4F1 andOTP Aplicación de Doble Factor de Código Abierto para Android"
 description: "\U0001F510 La Mejor Aplicación \U0001F4F1 de Doble Factor de Código Abierto para Android"
 excerpt: "\U0001F510 La Mejor Aplicación \U0001F4F1 de Doble Factor de Código Abierto para Android"
 date: 2019-09-15 18:47:00 +0200
