@@ -62,6 +62,8 @@ exclude:
 - vendor/cache/
 - vendor/gems/
 - vendor/ruby/
+- editorial
+- _staff-miembros
 # Excluido por peticion del buscador algoria
 # exclude: [vendor]
 
