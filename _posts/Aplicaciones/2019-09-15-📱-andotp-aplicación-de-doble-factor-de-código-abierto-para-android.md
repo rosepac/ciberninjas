@@ -11,7 +11,7 @@ tags:
   - Autentificación
   - Doble Factor
 header:
-  overlay_image: /assets/images/aplicacion-andotp.jpg
+  overlay_image: /assets/images/aplicacion-andotp .jpg
   overlay_filter: '0.2'
   image_description: >-
     Aplicación de doble autentificación en Android AndOTP | Montaje creado por
