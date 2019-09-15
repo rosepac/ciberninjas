@@ -17,7 +17,8 @@ published: true
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
-toc_sticky: true
+toc_sticky: false
+
 ---
 
 ## 0 - Meta-Listas 📚
