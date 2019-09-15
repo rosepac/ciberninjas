@@ -13,7 +13,7 @@ header:
   overlay_image: 
   overlay_filter: "0.2"
   image_description: "Libra, la criptomoneda de Facebook que desea apoderarse del poder económico mundial | Ciberninjas"
-  caption: **Créditos**: Foto de Pixabay
+  caption: '**Créditos**: Foto de Pixabay'
 
 ---
 
