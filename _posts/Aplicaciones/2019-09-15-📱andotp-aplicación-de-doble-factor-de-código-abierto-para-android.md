@@ -2,7 +2,7 @@
 title: "\U0001F4F1andOTP Aplicación de Doble Factor de Código Abierto para Android"
 description: "\U0001F510 La Mejor Aplicación \U0001F4F1 de Doble Factor de Código Abierto para Android"
 excerpt: "\U0001F510 La Mejor Aplicación \U0001F4F1 de Doble Factor de Código Abierto para Android"
-date: 2019-09-15 20:47:00 +0200
+date: 2019-09-15 18:47:00 +0200
 categories:
   - Actualidad
   - Aplicaciones
@@ -11,7 +11,7 @@ tags:
   - Autentificación
   - Doble Factor
 header:
-  overlay_image: /asets/images/aplicacion-andotp.jpg
+  overlay_image: /assets/images/aplicacion-andotp.jpg
   overlay_filter: '0.2'
   image_description: >-
     Aplicación de doble autentificación en Android AndOTP | Montaje creado por
@@ -32,7 +32,7 @@ Implementa contrase&ntilde;as de un solo uso basadas en el tiempo (TOTP) y contr
 
 Este proyecto comenz&oacute; como una bifurcaci&oacute;n de la gran aplicaci&oacute;n [OTP Authenticator](https://github.com/0xbb/otp-authenticator) escrita por [Bruno Bierbaumer](https://github.com/0xbb) , que lamentablemente ha estado inactiva desde 2015. Hasta ahora, casi todos los aspectos de la aplicaci&oacute;n se han cambiado / reescrito, por lo que el estado de la bifurcaci&oacute;n del repositorio de Github se ha vuelto separado a [petici&oacute;n del usuario](https://github.com/andOTP/andOTP/issues/145) . &iexcl;Pero todo el cr&eacute;dito por la versi&oacute;n original y por comenzar este proyecto sigue en manos de Bruno\!
 
-## Se Busca Ayudante *
+## Se Busca Ayudante \*
 
 Actualmente no tengo mucho tiempo para dedicarme al desarrollo y al PTP, por lo que cualquier contribuci&oacute;n siempre es bienvenida. No se preocupe, a&uacute;n continuar&eacute; desarroll&aacute;ndome y el TOT solo disminuir&aacute; la velocidad incre&iacute;ble que ten&iacute;a al principio.
 
