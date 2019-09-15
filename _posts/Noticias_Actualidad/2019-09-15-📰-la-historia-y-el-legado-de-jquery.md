@@ -2,7 +2,7 @@
 title: "\U0001F4F0 La historia y el legado de jQuery"
 description: "\U0001F680 La historia y el legado de jQuery: Breve Historia. Cambios. NuevosFrameworks. ¿Cuándo debemos usar JQuery?, por Danny Guo"
 excerpt: "\U0001F680 La historia y el legado de jQuery: Breve Historia. Cambios. NuevosFrameworks. ¿Cuándo debemos usar JQuery?, por Danny Guo"
-date: 2019-09-15 19:56:00 +0200
+date: 2019-09-15 19:40:00 +0200
 categories:
   - Actualidad
   - Librerías Javascript
