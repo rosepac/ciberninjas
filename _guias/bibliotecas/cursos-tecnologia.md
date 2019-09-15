@@ -16,7 +16,8 @@ permalink: /cursos-tecnologia/
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
-toc_sticky: true
+toc_sticky: false
+
 ---
 
 Cursos sobre: Android, arduino, bases de datos, ciencias de la computación, comercio online, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster
