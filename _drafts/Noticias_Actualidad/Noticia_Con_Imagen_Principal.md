@@ -2,8 +2,7 @@
 title: "📰 TITULO"
 description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
-date: 2019-08-26
-published: false
+date: 
 categories:
 - CATEGORIA
 link: ENLACE A LA NOTICIA
