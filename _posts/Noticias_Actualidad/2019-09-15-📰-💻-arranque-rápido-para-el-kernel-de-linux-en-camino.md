@@ -1,22 +1,22 @@
 ---
-title: "📰 💻 Arranque Rápido para el Kernel de Linux en Camino"
-description: '💻 Cómo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms, por Feng Tang'
-excerpt: '💻 Cómo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms, por Feng Tang'
-date: 2019-09-15 17:25:00
-published: false
+title: "\U0001F4F0 \U0001F4BB Arranque Rápido para el Kernel de Linux en Camino"
+description: "\U0001F4BB Cómo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms, por Feng Tang"
+excerpt: "\U0001F4BB Cómo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms, por Feng Tang"
+date: 2019-09-15 17:25:00 +0200
+published: true
 categories:
-- Actualidad
-- Software
-link: https://www.phoronix.com/scan.php?page=news_item&px=Clear-Linux-Kernel-3s-to-300ms 
+  - Actualidad
+  - Software
+link: >-
+  https://www.phoronix.com/scan.php?page=news_item&px=Clear-Linux-Kernel-3s-to-300ms
 tags:
-- Sistemas Operativos
-- Linux
+  - Sistemas Operativos
+  - Linux
 header:
-  overlay_image: "https://fossbytes.com/wp-content/uploads/2017/01/clear-linux-steam.jpg"
-  overlay_filter: "0.2"
-  image_description: "Captura de Pantalla realizada por FossBytes.com | Ciberninjas"
-  caption: "**Créditos**: Foto de [FossBytes](https://fossbytes.com)"
-
+  overlay_image: 'https://fossbytes.com/wp-content/uploads/2017/01/clear-linux-steam.jpg'
+  overlay_filter: '0.2'
+  image_description: Captura de Pantalla realizada por FossBytes.com | Ciberninjas
+  caption: '**Créditos**: Foto de [FossBytes](https://fossbytes.com)'
 ---
 
 El ingeniero de Intel Feng Tang habl&oacute; en la Conferencia de Plomeros de Linux de esta semana en Lisboa, Portugal, sobre c&oacute;mo el equipo de Clear Linux logr&oacute; arrancar su kernel m&aacute;s r&aacute;pido. Comenzaron con un tiempo de arranque de kernel de aproximadamente tres segundos, pero lo redujeron a solo 300 ms.
