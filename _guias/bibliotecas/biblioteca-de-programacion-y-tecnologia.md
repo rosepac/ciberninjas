@@ -21,36 +21,20 @@ toc_sticky: false
 
 ---
 
-## 0 - Meta-Listas 📚
+## 📚 Meta-Listas
 
-* [Aprender Python](http://python.org.ar/wiki/AprendiendoPython) - Python Argentina
-* [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
-* [Desarrollo de Aplicaciones Web - Temario Completo](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (Github)
-* [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
-* [Gitbook - Libros útiles en español](https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--) (Github)
-* [Múltiples Cursos y Enlaces de Tecnología Informática](http://elvex.ugr.es) - Fernando Berzal
-* [OpenLibra - Biblioteca recopilatorio de libros libres](https://openlibra.com/es/collection)
+* [Aprender Python](https://kutt.it/meta-aprendiendo-python) - Python Argentina
+* [Apuntes Completos de Desarrollo Web](https://kutt.it/apuntes-desarrollo-web-jorge) - Jorge Sánchez
+* [Desarrollo de Aplicaciones Web - Temario Completo](https://kutt.it/apuntes-aplicaciones-web-comesana) - José Luis Comesaña (Github)
+* [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://kutt.it/web-javier-escobedo) - Javier García Escobedo
+* [Gitbook - Libros útiles en español](https://kutt.it/gitbook-libros-espanol) (Github)
+* [Múltiples Cursos y Enlaces de Tecnología Informática](https://kutt.it/web-fernando-berzal) - Fernando Berzal
+* [OpenLibra - Biblioteca recopilatorio de libros libres](https://kutt.it/open-libra-espanol)
 * [TLDP: servicios editoriales para la documentación libre en español (2007)](http://es.tldp.org/index.html) (CICA)
-* [Universidad Autónoma de Mexico - Plan (2016)](http://fcasua.contad.unam.mx/apuntes/interiores/plan2016_1.php)
+* [Universidad Autónoma de Mexico - Plan (2016)](https://kutt.it/apuntes-pdf-universidad-mexico)
 
 
-## 1 - Agnósticos 👨‍🔬
-
-## Algoritmos 🔡
-
-* [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
-* [Aprenda a programar como si estuviera en primero](https://openlibra.com/es/book/download/aprenda-a-programar-como-si-estuviera-en-primero) (PDF)
-* [Apuntes de Algoritmos y Estructuras de Datos](https://146fd953-a-62cb3a1a-s-sites.googlegroups.com/site/prog3unlp/home/exp_algoritmos.pdf?attachauth=ANoY7cpP-tS9_7vAio7Zm7sr3kuK_rfKNFRjLCLT99k8BTxN1ZNUtYwkeTHPmCXHGmk3ruFmw6gXJxFI7eUElxP-6__Z28cUtYQDYg0HzZ104WMkc1i3TbQ2NMyQejkUvw1Xj5jY4tig4ghNyQhesMV2yogm33JkaNyVIQsKFu7J6mn__taPYsCcgzb5GwdhQECVJYrA3RBakA9jTXXWx6gA9p7i8hb_je8g9W3r35eN9AE0I9uGb8U%3D&attredirects=0) (PDF)
-* [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
-* [DevOps: La Perspectiva de las Operaciones](https://leanpub.com/devops-the-ops-perspective-spanish?) (PDF)
-* [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html) (HTML)
-* [Fundamentos de la Programación](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf) (PDF)
-* [Introducción al desarrollo del software](http://softlibre.unizar.es/manuales/linux/reference.es.pdf) (PDF)
-* [Temas selectos de estructuras de datos](http://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
-* [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos) (Bubok)
-
-
-## Base de Datos 📚 📃 📚
+## 📁 Bases de Datos
 
 * [Apuntes Básicas de SQL](https://openlibra.com/es/book/download/apuntes-basicos-de-sql) - Unai Estébanez (PDF)
 * [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) - Univ. Alicante (PDF)
@@ -67,7 +51,7 @@ toc_sticky: false
 * [Usando Oracle SQL y PL/SQL](https://issuu.com/aulacero21/docs/gesti_n_de_bases_de_datos_-_jorge_s_nchez___oracle/61) (HTML)
 
 
-## Ciencia Computacional 👩‍🔬👨‍🔬
+## 🔬 Ciencias de la Computación
 
 * [Análisis de la Aplicación de la Especificación de Despliegue y Configuración del OMG a Sistemas de Tiempo Real Basados en Componentes](https://www.ctr.unican.es/publications/plm-jlm-jmd-2006a.pdf) (PDF)
 * [Breves Notas sobre Autómatas y Lenguajes](http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
@@ -79,13 +63,18 @@ toc_sticky: false
 * [Middleware de distribución y modelo transaccional en sistemas de tiempo real](https://www.ctr.unican.es/publications/jjg-mgh-jlc-2005a.pdf) (PDF)
 * [Una aproximación dirigida por modelos para diseñar y construir esquemas XML: Un caso de estudio.](http://www.redalyc.org/pdf/1331/133115019007.pdf) (PDF)
 
+## Algoritmos 🔡
 
-## Consola y Editores de Texto
-
-* [¿Por qué Powershell?](https://leanpub.com/big-book-of-powershell-error-handling-spanish?)
-* [El Gran Libro de Manejo de Errores en Powershell](https://leanpub.com/big-book-of-powershell-error-handling-spanish?)
-* [El Gran Libro de Trucos de Powershell](https://leanpub.com/big-book-of-powershell-gotchas-spanish?)
-* [Secretos de Powershell Remoting](https://leanpub.com/secrets-of-powershell-remoting-spanish?)
+* [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
+* [Aprenda a programar como si estuviera en primero](https://openlibra.com/es/book/download/aprenda-a-programar-como-si-estuviera-en-primero) (PDF)
+* [Apuntes de Algoritmos y Estructuras de Datos](https://146fd953-a-62cb3a1a-s-sites.googlegroups.com/site/prog3unlp/home/exp_algoritmos.pdf?attachauth=ANoY7cpP-tS9_7vAio7Zm7sr3kuK_rfKNFRjLCLT99k8BTxN1ZNUtYwkeTHPmCXHGmk3ruFmw6gXJxFI7eUElxP-6__Z28cUtYQDYg0HzZ104WMkc1i3TbQ2NMyQejkUvw1Xj5jY4tig4ghNyQhesMV2yogm33JkaNyVIQsKFu7J6mn__taPYsCcgzb5GwdhQECVJYrA3RBakA9jTXXWx6gA9p7i8hb_je8g9W3r35eN9AE0I9uGb8U%3D&attredirects=0) (PDF)
+* [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) (PDF)
+* [DevOps: La Perspectiva de las Operaciones](https://leanpub.com/devops-the-ops-perspective-spanish?) (PDF)
+* [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html) (HTML)
+* [Fundamentos de la Programación](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf) (PDF)
+* [Introducción al desarrollo del software](http://softlibre.unizar.es/manuales/linux/reference.es.pdf) (PDF)
+* [Temas selectos de estructuras de datos](http://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) (PDF)
+* [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos) (Bubok)
 
 
 ## CMS o Sistemas de Gestión de Conteidos
@@ -249,6 +238,15 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 
 ## Software
 
+## Consola y Editores de Texto
+
+* [¿Por qué Powershell?](https://leanpub.com/big-book-of-powershell-error-handling-spanish?)
+* [El Gran Libro de Manejo de Errores en Powershell](https://leanpub.com/big-book-of-powershell-error-handling-spanish?)
+* [El Gran Libro de Trucos de Powershell](https://leanpub.com/big-book-of-powershell-gotchas-spanish?)
+* [Secretos de Powershell Remoting](https://leanpub.com/secrets-of-powershell-remoting-spanish?)
+
+
+## 
 * [Introducción a ELAN](http://idiom.ucsd.edu/~jfernand/Papers/ELAN.pdf) (PDF)
 * [Manual de Procesamiento de Archivos ELAN](http://pyersqr.org/minimal/Manual_Procesamiento%20de%20archivos%20ELAN.pdf)
 

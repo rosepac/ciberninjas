@@ -191,14 +191,14 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 
 ## ⛓ Blockchain
 
-### 💰 Criptomonedas
+## Criptomonedas 💰
 
-#### Bitcoin <i class="fab fa-bitcoin"></i>
+### Bitcoin <i class="fab fa-bitcoin"></i>
 - [Bitcoin: Qué es y como comprarlo](https://www.udemy.com/bitcoin-) (Udemy)
 - [Bitcoin Construye un imperio minando en la nube](https://www.udemy.com/bitcoin-construye-un-imperio-minando-en-la-nube) (Udemy)
 
 
-### Trading <i class="fas fa-chart-line"></i>
+## Trading <i class="fas fa-chart-line"></i>
 - [Curso básico de trading](https://www.udemy.com/wisetradingacademy) (Udemy)
 - [Curso de trading y bolsa desde cero](https://www.udemy.com/curso-de-trading-y-bolsa-desde-cero) (Udemy)
 - [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://www.udemy.com/curso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx) (Udemy)
@@ -739,19 +739,11 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Diseña, fabrica y programa tu propio robot](https://www.edx.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x) (edx)
 - [Diseño y fabricación de un robot móvil](https://www.youtube.com/playlist?list=PL9A2AEC3E2F1BD975) (entivoo, YouTube)
 - [Empleo del ordenador personal en la instrumentación de panel (2012)](https://ocw.ehu.eus/course/view.php?id=54) (OCW)
-- [Herramientas de la Inteligencia Artificial (2010)](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial) (OCW)
 - [Iniciación al mundo de los aeronaves tripulados en remoto (drones)](https://miriadax.net/web/iniciacion-al-mundo-de-las-aeronaves-tripuladas-en-remoto-drones-) (MiriadaX)
-- [Iniciando con Machine Learning](https://mva.microsoft.com/es-es/training-courses/iniciando-con-machine-learning-16915) (Microsoft Virtual Academy)
-- [Inteligencia artificial: Clips (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=112) (OCW)
-- [Inteligencia artificial: Prolog (2011)](https://campusvirtual.ull.es/ocw/course/view.php?id=104) (OCW)
 - [Internet de las Cosas. Desarrollar soluciones en 'FIWARE'](https://miriadax.net/web/internet-de-las-cosas-como-desarrollar-soluciones-en-fiware) (MiriadaX)
 - [Introducción a Bots](https://mva.microsoft.com/es-es/training-courses/introduccin-a-bots-18179) (Microsoft Virtual Academy)
-- [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-2-edicion-) (MiriadaX)
-- [Machine Learning: Nivel Intermedio](https://mva.microsoft.com/es-es/training-courses/machine-learning-nivel-intermedio-17804) (Microsoft Virtual Academy)
 - [Modelos y técnicas para el diseño de comportamientos de robots autónomos (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/modelos-y-tecnicas-para-el-diseno-de-comportamientos-de-robots-autonomos-2008.html) (OCW)
 - [Ondas Electromagnéticas (2014)](http://ocw.bib.upct.es/course/view.php?id=136) (OCW)
-- [Raspberry Pi 3](https://www.youtube.com/playlist?list=PLNipMBg3MF-aD-LQuyfj7z5Oqb3TqHjFa) (Editronikx, YouTube)
-- [Raspberry Pi Workshop 2018](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor): Conviértete en un Codificador / Creador / Inventor (Udemy | Subtítulos en Inglés)
 - [Redes de Neuronas Artificiales (2017)](http://ocw.uc3m.es/ingenieria-informatica/redes-de-neuronas) (OCW)
 - [Redes Neuronales Artificiales y sus Aplicaciones (2012)](https://ocw.ehu.eus/pluginfile.php/9047/mod_resource/content/1/redes_neuro/Course_listing.html) (OCW)
 - [Robótica (2016)](https://ocw.ehu.eus/course/view.php?id=393) (OCW) [(2017)](https://ocw.ehu.eus/course/view.php?id=442)
@@ -759,10 +751,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Robótica para construir un seguidor de luz](https://www.youtube.com/playlist?list=PL04D5D8A70C1D8DC2) (Curso de Robótica, YouTube)
 - [Robots autónomos (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/robots-autonomos-2006.html) (OCW)
 - [Taller de Prototipos]
-- [Técnicas de inteligencia artificial (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-de-inteligencia-artificial-2010.html) (OCW)
 - [Técnicas de Reconocimiento y Síntesis del Habla (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-de-reconocimiento-y-sintesis-del-habla-2006.html) (OCW)
-- [Termómetro digital con Raspberry Pi(2017)](https://www.udemy.com/termometro-digital-con-raspberry-pi) (Udemy)
-- [Tu primer Robot con Arduino](https://mva.microsoft.com/es-es/training-courses/tu-primer-robot-con-arduino-8618) (Microsoft Virtual Academy)
 
 
 ## Arduino 🔦
@@ -773,6 +762,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Curso gratuito de Arduino](https://www.youtube.com/watch?v=Fl2uQXn7MCg&list=PLpOqH6AE0tNjRWhQms3T8l-4b9oUyr_xB) (Código Facilito, Youtube)
 - [Introducción a Arduino con Elegoo UNO Super Starter Kit](https://www.udemy.com/introduccion-a-arduino-con-elegoo-uno-super-starter-kit) (Udemy)
 - [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed) (MiriadaX)
+- [Tu primer Robot con Arduino](https://mva.microsoft.com/es-es/training-courses/tu-primer-robot-con-arduino-8618) (Microsoft Virtual Academy)
 
 
 ## Casas Inteligentes 🏡
@@ -782,12 +772,24 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 
 ## Inteligencia Artificial
 
+- [Herramientas de la Inteligencia Artificial (2010)](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial) (OCW)
+- [Inteligencia artificial: Clips (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=112) (OCW)
+- [Inteligencia artificial: Prolog (2011)](https://campusvirtual.ull.es/ocw/course/view.php?id=104) (OCW)
+- [Técnicas de inteligencia artificial (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-de-inteligencia-artificial-2010.html) (OCW)
 
+
+## Machine Learning
+
+- [Iniciando con Machine Learning](https://mva.microsoft.com/es-es/training-courses/iniciando-con-machine-learning-16915) (Microsoft Virtual Academy)
+- [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-2-edicion-) (MiriadaX)
+- [Machine Learning: Nivel Intermedio](https://mva.microsoft.com/es-es/training-courses/machine-learning-nivel-intermedio-17804) (Microsoft Virtual Academy)
 
 
 ## Raspberry Pi 
 
-
+- [Raspberry Pi 3](https://www.youtube.com/playlist?list=PLNipMBg3MF-aD-LQuyfj7z5Oqb3TqHjFa) (Editronikx, YouTube)
+- [Raspberry Pi Workshop 2018](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor): Conviértete en un Codificador / Creador / Inventor (Udemy | Subtítulos en Inglés)
+- [Termómetro digital con Raspberry Pi(2017)](https://www.udemy.com/termometro-digital-con-raspberry-pi) (Udemy)
 
 
 ## Seguridad 🔑 🚔 🔐

@@ -13,19 +13,44 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Configuración de la Web
 locale: "es-ES"
 title: Ciberninjas ▷ Escuela Digital
+subtitle: Escuela Digital
 email: rosepac21@gmail.com
-url: "https://ciberninjas.com"
+name: "Pablo Álvarez Corredera"
 description: >- # this means to ignore newlines until "baseurl:"
-  La Biblia de las Guías de la Programación y los Framework de las Nuevas Tecnologías. Biblioteca de libros, cursos, frameworks, librerías, aplicaciones, recursos y herramientas.
-# baseurl: 
+  La Biblioteca Más Impresionante de Libros, Cursos, Tutoriales y Documentales en Español de Internet. Guías de Aplicaciones, Frameworks, Programación y Software. Venta de Productos Educativos y Tecnológicos del Siglo XXI.
+url: "https://ciberninjas.com"
+# baseurl:
 repository: "rosepac/ciberninjas"
+teaser: "/assets/images/cursos_estudiar_ideas560x.jpg"
 logo: "/assets/images/logos/ciberninjas_avatar_88x88.png"
 masthead_title: "Ciberninjas"
 twitter_username: ciberaprendiz
 github_username: Pablo Álvarez Corredera
-minimal_mistakes_skin: default # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise, 
+minimal_mistakes_skin: default # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+# Configuración del Autor
+author:
+  name   : "Pablo Álvarez Corredera"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Bibliotecario de Internet. Documentalista Digital."
+  links:
+    - label: "Café"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://paypal.me/ciberninjas"
+    - label: "rosepac"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rosepac"
+    - label: "CiberAprendiz"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ciberaprendiz"
+    - label: "CiberCursos"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/cibercursos"
+
 search: true
 search_full_content: true
 search_provider: algolia
@@ -81,25 +106,10 @@ analytics:
   google:
     tracking_id: "UA-142542230-1"
     anonymize_ip: true # default
+    
+naver_site_verification: "6c9e3c9861eb717f29638c631ff91d7de609f9d4"
 
-author:
-  name   : "Pablo Álvarez Corredera"
-  avatar : "/assets/images/bio-photo.png"
-  bio    : "Bibliotecario de Internet. Documentalista Digital."
-  links:
-    - label: "Café"
-      icon: "fas fa-fw fa-mug-hot"
-      url: "https://paypal.me/ciberninjas"
-    - label: "rosepac"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/rosepac"
-    - label: "CiberAprendiz"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ciberaprendiz"
-    - label: "CiberCursos"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/cibercursos"
-
+# Configuración Pie de Página
 footer:
   links:
     - label: "Twitter"

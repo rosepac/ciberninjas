@@ -1,8 +1,8 @@
 ---
 
-title: "Elan"
-description: "ELAN, Lenguaje de programación educativo para aprender y enseñar programación sistemática"
-excerpt: "ELAN, Lenguaje de programación educativo para aprender y enseñar programación sistemática"
+title: "Elan (Software)"
+description: "Wikipedia: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
+excerpt: "Wikipedia: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
@@ -24,13 +24,13 @@ Se han desarrollado varias herramientas de terceros para enriquecer y analizar d
 
 Sus características incluyen:
 
-- Segmentación y anotación manual y semiautomática
+- Segmentación y anotación manual y semiautomática.
 - Transcripción y traducción del discurso.
-- Jerarquías de niveles
+- Jerarquías de niveles.
 - Soporte para múltiples fuentes de medios.
 - Uso de vocabularios controlados.
-- Búsqueda compleja
-- Formato de datos basado en XML
+- Búsqueda compleja.
+- Formato de datos basado en XML.
 
 
 ## Historia
@@ -39,8 +39,8 @@ ELAN es desarrollado por el Instituto Max Planck de Psicolingüística en Nijmeg
 
 ## Enlaces Externos
 
-- Official website](http://tla.mpi.nl/tools/tla-tools/elan)
-- [ELAN recursos de terceros (Templates, Scripts, Tools, Flujos de Trabajo de Descripciones, HowTos)](https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/)
+- [Official website](https://kutt.it/software-elan-web)
+- [ELAN recursos de terceros](https://kutt.it/software-elan-recursos-terceros) (Templates, Scripts, Tools, Flujos de Trabajo de Descripciones, HowTos)
 - Manuals:
 	- [Hellwig, B. (2017): ELAN - Anotador Lingüístico (Manual)](http://www.mpi.nl/corpus/manuals/manual-elan.pdf)
 	- [RedHenLab (2016). Cómo anotar con ELAN (Tutorial)](http://www.redhenlab.org/home/tutorials-and-educational-resources/-how-to-annotate-with-elan)
