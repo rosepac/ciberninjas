@@ -146,12 +146,6 @@ toc_sticky: false
 * [Trampa en el Cyberespacio](https://fortinux.com/wp-content/uploads/2010/12/trampacyberespacio.pdf) (PDF)
 
 
-## Marketing y Negocios Digitales
-
-### Instagram <i class="fab fa-instagram"></i>
-* [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf)
-
-
 ## Metodologías de Desarrollo de Software
 
 * [Código Sólido](https://leanpub.com/codigosolido?) (Descarga PDF)
@@ -273,8 +267,9 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Revista Española de Innovación, Calidad e Ingeniería del Software](http://www.redalyc.org/revista.oa?id=922) (HTML)
 
 
-## Robótica
+## 🤖 Robótica
 
+## Arduino 🔦
 * [Arduino. Guía Completa](http://arduinobot.pbworks.com/w/page/10175775/FrontPage) (HTML)
 * [Arduino. Libro de Proyectos](https://es.slideshare.net/TinoFernndez/libro-de-proyectos-del-kit-oficial-de-arduino-en-castellano-completo-arduino-starter-kit-arduino-projects-book) (HTML)
 * [Arduino. Manual de Programación](http://arduinobot.pbworks.com/f/Manual%2BProgramacion%2BArduino.pdf) (PDF)
@@ -285,10 +280,17 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Utilizando Arduino Due en la docencia de la entrada/salida](http://bioinfo.uib.es/~joemiro/aenui/procJenui/Jen2015/ba_util.pdf) (PDF)
 
 
-## Webmaster 👷🏻‍♂️
+## 👷🏻‍♂️ Webmaster
 
-[50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf)
-[SEO en Amazon](https://netgrows.com/wp-content/uploads/2018/11/ebook-amazon-netgrows.pdf)
+## Marketing en Redes Sociales 🏪
+### Instagram <i class="fab fa-instagram"></i>
+* [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf)
+
+
+## Seo y Posicionamiento 🔍
+
+* [50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf)
+* [SEO en Amazon](https://netgrows.com/wp-content/uploads/2018/11/ebook-amazon-netgrows.pdf)
 
 
 ## Android 📲

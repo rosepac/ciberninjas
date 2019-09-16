@@ -31,23 +31,6 @@ sidebar:
 - Superficiales: ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) - [Ebook](https://amzn.to/2KORsur)
 
 
-## Marketing en Redes Sociales 🏪 
-
-- [101 Consejos y Estrategias de Facebook Marketing](https://amzn.to/2ZqWeqT)
-- [Community manager. La guía definitiva](https://amzn.to/2ZGKn3c)
-- [Convierte a tus seguidores en clientes: Monetiza tu reputación de influencer](https://amzn.to/2LaZmhT)
-- [Estrategias de marketing digital](https://amzn.to/2HAim7r)
-- [Estrategias y Marketing de contenidos](https://amzn.to/2Zw8YwM)
-- [Facebook Marketing: Utilice Facebook para una mercadotecnia rentable](https://amzn.to/2PpxcnG)
-- [La Biblia del Community Manager](https://amzn.to/2UhJb5r)
-- [Marketing Digital 360º. Implementación práctica](https://amzn.to/2ZGh3tJ)
-- [Marketing Digital para Dummies](https://amzn.to/2LcPILW)
-- [Marketing Digital para Startups y Autónomos: Cómo ganar la partida](https://amzn.to/2ZuqW2s)
-- [Marketing en Instagram: Cómo dominar su nicho en 2019](https://amzn.to/2NIFKmY)
-- [Marketing en Instagram: ¡Una Forma Perfecta de Hacerse Rico!](https://amzn.to/2L8RvBu)
-- [Marketing en Redes Sociales](https://amzn.to/2LcNagw)
-- [Secretos de Mercadeo de Instagram](https://amzn.to/2L90BhD)
-
 ## Seguridad Inform&aacute;tica 🔐
 
 * Análisis de Malware para Sistemas Windows [Tapa Blanda](https://amzn.to/2AjuvcK)
@@ -117,7 +100,7 @@ INGLÉS
 14. Diseño e implementación con Swift Playgrounds
 
 
-## Webmaster 👷‍♂️
+## 👷‍♂️ Webmaster
 
 - [Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente](https://amzn.to/2Ll5N0K)
 - [CRO. Diseño y desarrollo de negocios digitales](https://amzn.to/2ZnFdOu)
@@ -125,6 +108,24 @@ INGLÉS
 - [Google Analytics. Mide y Vencerás](https://amzn.to/2Pq0xhG)
 - [Posicionamiento y Google Analytics. Pack de 2 libros](https://amzn.to/2La9UOu)
 - [Visibilidad Online - Marketing Digital 2019](https://amzn.to/2L9jZuU)
+
+
+## Marketing en Redes Sociales 🏪 
+
+- [101 Consejos y Estrategias de Facebook Marketing](https://amzn.to/2ZqWeqT)
+- [Community manager. La guía definitiva](https://amzn.to/2ZGKn3c)
+- [Convierte a tus seguidores en clientes: Monetiza tu reputación de influencer](https://amzn.to/2LaZmhT)
+- [Estrategias de marketing digital](https://amzn.to/2HAim7r)
+- [Estrategias y Marketing de contenidos](https://amzn.to/2Zw8YwM)
+- [Facebook Marketing: Utilice Facebook para una mercadotecnia rentable](https://amzn.to/2PpxcnG)
+- [La Biblia del Community Manager](https://amzn.to/2UhJb5r)
+- [Marketing Digital 360º. Implementación práctica](https://amzn.to/2ZGh3tJ)
+- [Marketing Digital para Dummies](https://amzn.to/2LcPILW)
+- [Marketing Digital para Startups y Autónomos: Cómo ganar la partida](https://amzn.to/2ZuqW2s)
+- [Marketing en Instagram: Cómo dominar su nicho en 2019](https://amzn.to/2NIFKmY)
+- [Marketing en Instagram: ¡Una Forma Perfecta de Hacerse Rico!](https://amzn.to/2L8RvBu)
+- [Marketing en Redes Sociales](https://amzn.to/2LcNagw)
+- [Secretos de Mercadeo de Instagram](https://amzn.to/2L90BhD)
 
 
 ## Libros de Videojuegos 📚 🎮
