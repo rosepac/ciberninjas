@@ -1,7 +1,7 @@
 ---
-title: 👨‍💻 ▷ Aprender a Programar desde Cero & Más
-description: "📌 Aprende a programar con varios lenguajes y frameworks diferentes. Los mejores libros PDF y ebooks gratis en nuestra biblioteca y ojea nuestro catálogo."
-excerpt: "📌 Aprende a programar con varios lenguajes y frameworks diferentes. Los mejores libros PDF y ebooks gratis en nuestra biblioteca y ojea nuestro catálogo."
+title: 👨‍💻 ▷ Cómo Aprender a Programar desde Cero & Más
+description: "📌 Aprende a programar con múltiples lenguajes y frameworks. Los mejores libros PDF y ebook en nuestro catálogo e incluso gratis 😜."
+excerpt: "📌 Aprende a programar con múltiples lenguajes y frameworks. Los mejores libros PDF y ebooks en nuestro catálogo e incluso gratis 😜."
 published: true
 comments: true
 date: 2018-03-01
@@ -112,7 +112,7 @@ Según uno de los últimos [informes publicados por Github](https://github.blog/
 
 Además, siempre que hablemos de machine learning no podemos dejar olvidado al eficaz lenguaje de R. Sin lugar a dudas el más importante en el cometido de generar estadísticas; este lenguaje capaz de analizar y manipular datos de forma masiva sin ningún tipo de problemas, ofrece varios paquetes que simplifican la implementación de algoritmos alrededor del flujo de trabajo del aprendizaje automático.
 
-### Desarrollo Móvil
+### Desarrollador Web
 
 Si tu interés, es el de desarrollar aplicaciones móviles. Lo ideal sería que te decidieses si deseas desarrollar apps centrándote en los dispositivos Android o los de Apple.
 

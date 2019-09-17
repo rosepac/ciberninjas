@@ -277,13 +277,15 @@ Las empresas locales querrán destacar por posicionar con palabras claves del ti
 
 ## Los Mejores Artículos de SEO en Inglés
 
+- [Cómo crear en 20 segundos un mapa de sitio XML que mejore tu SEO](Cómo Crear en 20 Segundos un Mapa de Sitio XML que Mejore tu SEO)
 - [¿Cómo establecer objetivos de SEO inteligentes para su equipo / agencia / proyecto?](https://moz.com/blog/smart-seo-goals)
 - [¿Qué es la optimización SEO / Search Engine?](https://searchengineland.com/guide/what-is-seo)
 
 
 ## Los Mejores Blogs de SEO
 
-1. [NetGrows](https://netgrows.com/)
+1. [Neil Patel](https://neilpatel.com/es/blog)
+2. [NetGrows](https://netgrows.com/)
 
 
 ## Los Mejores Blogs de SEO en Inglés
