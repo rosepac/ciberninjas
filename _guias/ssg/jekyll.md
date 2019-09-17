@@ -41,6 +41,7 @@ Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un 
 * [WebJeda](https://blog.webjeda.com/optimize-jekyll-seo/) Muchos contenidos y entradas en relación a Jekyll.
 * [Enlaces nofollow en Jekyll - SEO](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/)
 * [Crear desplegables](https://github.com/deepchar/deepchar.github.io) [1](https://github.community/t5/GitHub-Pages/Collapsible-markdown-inside-lt-details-gt-lt-summary-gt-lt/m-p/13838#M1090)
+* [Ordenar Páginas en Jekyll](https://stackoverflow.com/questions/41087699/jekyll-how-to-change-the-default-ordering-of-collections)
 
 ## ✍ Cómo Publicar Con Jekyll
 

@@ -1,8 +1,8 @@
 ---
 # Página Base
-title: "🎓 ▷ Más de 800 Cursos 🔥 Aprender Programación, Redes, Robótica, Seguridad"
-description: "🚀 Biblia de Cursos Online: Programación Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 💰 Ofimática 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
-excerpt: "🚀 Biblia de Cursos Online: Programación Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 💰 Ofimática 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
+title: "🎓 ▷ Más de 800 Cursos 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica"
+description: "🚀 Biblia de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
+excerpt: "🚀 Biblia de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 date: 2018-02-13T22:00:00.000+00:00
 last_modified_at: 2018-08-07T12:42:42-05:00
 permalink: /cursos-tecnologia/
@@ -26,8 +26,9 @@ He aquí un listado completo de todos los diferentes cursos existentes alrededor
 
 En la actualidad son más de 800 cursos, organizados por diferentes temáticas. Impartidos a través de las Universidades de **educación digital: como Miriadax, Udemy, EDX**, o **cursos de formación abierta/MOOC** dentro de los repositorios universitarios de las universidades más importantes del mundo de habla hispana.
 
+## 🗃 Ciencia de Datos
 
-## 📁 Bases de Datos
+## Bases de Datos 📁
 
 - [Acceso a base de datos (2017)](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/acceso-a-bases-de-datos-en-java) (OCW)
 - [Administración de base de datos](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/administracion-de-bases-de-datos) (OCW)
@@ -56,11 +57,12 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion) (OCW)
 - [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134) (OCW)
 
-[VOLVER ARRIBA](/cursos-tecnologia/#page-title) <i class="fas fa-arrow-up">
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
-## 👨‍👩‍👦 Big Data
+## Big Data 👨‍👩‍👦
 
 - [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos) (OCW)
+- [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos) (UniPython)
 - [Análisis de datos con Power BI](https://mva.microsoft.com/es-es/training-courses/anlisis-de-datos-con-power-bi-17093) (Microsoft Virtual Academy)
 - [Aprendizaje Automático para el Análisis de Datos (2013)](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico-para-el-analisis-de-datos-2013) (OCW)
 - [Big Data, el valor añadido de los datos de un negocio](https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio) (MiriadaX)
@@ -72,6 +74,8 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-) (MiriadaX)
 - [Power BI en ambientes empresariales](https://mva.microsoft.com/es-es/training-courses/power-bi-en-ambientes-empresariales-17802) (Microsoft Virtual Academy)
 - [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau) (Alberto Prieto Espinosa, YouTube)
+
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
 ## 🔬 Ciencias de la Computación
 
@@ -170,6 +174,8 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [UML. Fundamentos, diagramas. Caso de estudio](https://www.udemy.com/uml-fundamentos-5-diagramas-caso-de-estudio) (Udemy)
 - [Variable compleja para métodos matemáticos. Parte 1](https://www.udemy.com/variable-compleja-para-metodos-matematicos-parte-1) (Udemy)
 
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
 ## 🛒 Comercio Electrónico
 
 - [¿Cómo vender cualquier producto en Internet?](https://www.udemy.com/como-vender-cualquier-producto-en-internet) (Udemy)
@@ -189,7 +195,14 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://www.udemy.com/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa) (Udemy)
 - [Tienda Online con WooCommerce desde cero](https://www.udemy.com/tienda-online-con-woocommerce-desde-cero) (Udemy)
 
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
 ## ⛓ Blockchain
+
+## Cadena de Bloques 🔗
+
+- [Curso de Blockchain en Python](https://unipython.com/curso-de-blockchain) (UniPython)
+
 
 ## Criptomonedas 💰
 
@@ -197,6 +210,8 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Bitcoin: Qué es y como comprarlo](https://www.udemy.com/bitcoin-) (Udemy)
 - [Bitcoin Construye un imperio minando en la nube](https://www.udemy.com/bitcoin-construye-un-imperio-minando-en-la-nube) (Udemy)
 
+### Dash
+- [Dash en Python](https://unipython.com/curso-de-dash) (UniPython)
 
 ## Trading <i class="fas fa-chart-line"></i>
 - [Curso básico de trading](https://www.udemy.com/wisetradingacademy) (Udemy)
@@ -204,6 +219,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://www.udemy.com/curso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx) (Udemy)
 - [Trading Forex para principiantes - Estrategias Clave](https://www.udemy.com/estrategias-trading-forex-y-operaciones-bursatiles) (Udemy)
 
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
 ## 💼 Flujos de Trabajo
 
@@ -237,6 +253,8 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Organización y gestión del proyecto (2009)](https://ocw.unican.es/course/view.php?id=207) (OCW)
 - [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158) (OCW)
 - [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119) (OCW)
+
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
 ## 💻 Ofimática
 
@@ -294,6 +312,8 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Software Libre y Conocimiento en Abierto](https://miriadax.net/web/soft_libre_y_conocimiento/inicio) (MiriadaX)
 - [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-) (MiriadaX)
 
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
 ## 🔨 Procesadores de Lenguaje
 
 - [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949) (OCW)
@@ -304,7 +324,9 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56) (OCW)
 - [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes) (OCW)
 
-## 👨🏼‍💻 Programación
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
+## 😜 Lenguajes de Programación
 
 - [Actualización PHP 7](https://www.udemy.com/actualizacion-php-7) (Udemy)
 - [Análisis, validación y depuración de software (2015)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=11566&p_caca=2015) (OCW)
@@ -399,7 +421,15 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Tecnologías de la Programación (2009)](http://ocw.um.es/ingenierias/tecnologia-de-la-programacion) (OCW)
 - [Test Driven Development con Java y Junit5](https://www.udemy.com/testdrivendevelopment) (Udemy)
 
-## 👩‍💻 Programación Móvil & Web
+### Python <i class="fab fa-python"></i>
+
+- [Aprende a programar en Python desde 0](https://unipython.com/curso-python-nivel-principiante) (Unipython)
+- [Procesamiento de Imágenes: OpenCV y Python](https://unipython.com/curso-procesamiento-imagenes-opencv-python)
+
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
+
+## 👩‍💻 Desarrollo Web
 
 ### Android <i class="fab fa-android"></i>
 
@@ -662,6 +692,8 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Soy iOS Dev. El mundo del desarrollo iOS](https://campusiosonline.com/courses/soy-ios-dev-el-mundo-del-desarrollo-ios)
 - [Swift 5 y Xcode 10 - Crea una App Calculadora desde 0 en iOS](https://www.udemy.com/course/curso-swift-5-xcode-10-crea-una-app-desde-cero-en-ios)
 
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
 
 ## Redes 🕸 🕷 🕸
 
@@ -709,6 +741,9 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Windows Server 2012: Licenciamiento de la nube privada](https://mva.microsoft.com/es-es/training-courses/windows-server-2012-licenciamiento-de-la-nube-privada-11643) (Microsoft Virtual Academy)
 - [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://www.udemy.com/windows-server-y-linux-para-principiantes) (Udemy)
 
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
+
 ## Redes de telefonía 🕸 📞
 
 - [Antenas y telescopios: control de seguimiento (2012)](https://ocw.ehu.eus/course/view.php?id=45) (OCW)
@@ -727,6 +762,9 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Sistemas y redes eléctricos avanzado](https://www.youtube.com/playlist?list=PLF68AFC9D513894FE) (Escuela Superior Politécnica del Litoral, YouTube)
 - [Técnico en instalaciones eléctricas](https://www.youtube.com/playlist?list=PLB020119D3152A1FC) (Óscar Delgado, YouTube)
 - [Transmisión de datos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=4533&p_caca=2010) (OCW)
+
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
 
 ## 🤖 Robótica
 
@@ -753,6 +791,8 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Taller de Prototipos]
 - [Técnicas de Reconocimiento y Síntesis del Habla (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-de-reconocimiento-y-sintesis-del-habla-2006.html) (OCW)
 
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
 
 ## Arduino 🔦
 
@@ -763,6 +803,8 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Introducción a Arduino con Elegoo UNO Super Starter Kit](https://www.udemy.com/introduccion-a-arduino-con-elegoo-uno-super-starter-kit) (Udemy)
 - [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed) (MiriadaX)
 - [Tu primer Robot con Arduino](https://mva.microsoft.com/es-es/training-courses/tu-primer-robot-con-arduino-8618) (Microsoft Virtual Academy)
+
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
 
 ## Casas Inteligentes 🏡
@@ -787,9 +829,12 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 
 ## Raspberry Pi 
 
+- [Aprende a manejar Raspberry Pi con Python](https://unipython.com/curso-raspberry-pi) (UniPython)
 - [Raspberry Pi 3](https://www.youtube.com/playlist?list=PLNipMBg3MF-aD-LQuyfj7z5Oqb3TqHjFa) (Editronikx, YouTube)
 - [Raspberry Pi Workshop 2018](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor): Conviértete en un Codificador / Creador / Inventor (Udemy | Subtítulos en Inglés)
 - [Termómetro digital con Raspberry Pi(2017)](https://www.udemy.com/termometro-digital-con-raspberry-pi) (Udemy)
+
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
 
 ## Seguridad 🔑 🚔 🔐
@@ -816,6 +861,9 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Seguridad informática y competencias profesionales](https://ocw.uca.es/course/view.php?id=55) (OCW)
 - [Seguridad, privacidad y protección de datos I (2012)](http://ocw.uv.es/ciencias-sociales-y-juridicas/seguridad-privacidad-y-proteccion-de-datos-i/Course_listing) (OCW)
 - [Wireless penetration con Kali Linux](https://www.youtube.com/playlist?list=PL-G03HRCQgdFKAaW718J14tKDM63mGirL) (Hacking y Más, YouTube)
+
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
 
 ## Servidores y Servicios en nube 🏩 ⚙ 🌤
 
@@ -905,6 +953,9 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Windows Server 2012 - Gestión y Automatización](https://mva.microsoft.com/es-es/training-courses/windows-server-2012-gestin-y-automatizacin-9120) (Microsoft Virtual Academy)
 - [Windows Server 2016](https://www.youtube.com/playlist?list=PLn5IkU1Zhgibnm35AkK0OADKx9KacjbxW) (JGAITPro, YouTube)
 
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
+
 ## Sistemas de Gestión de Contenidos y ERP 📖 ✍
 
 - [Ajax en Wordpress para desarrolladores web. Avanzado](https://www.udemy.com/ajax-para-wordpress) (Udemy)
@@ -943,6 +994,9 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido) (Udemy)
 - [Wordpress. Curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress) (Udemy)
 - [Wordpress. Introducción práctica a Gutenberg el nuevo editor](https://www.udemy.com/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor) (Udemy)
+
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
 
 ## Técnico de Software & Hardware 🖥 🖨 🖱
 
@@ -994,6 +1048,9 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Tecnologías Multimedia](https://campusvirtual.ull.es/ocw/course/view.php?id=5) (OCW)
 - [Windows 10 para educación](https://mva.microsoft.com/es-es/training-courses/windows-10-para-educacin-15705) (Microsoft Virtual Academy)
 - [Windows 8.1 To Go](https://mva.microsoft.com/es-es/training-courses/windows-81-to-go-8272) (Microsoft Virtual Academy)
+
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
 
 ## Videojuegos 🕹 🎮
 
@@ -1102,3 +1159,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 ## Seo y Posicionamiento 🔍
 - [Curso de SEO (fácil e intermedio)](https://www.youtube.com/playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW) (Youtube)
 - [SEO. Posicionamiento natural en buscadores](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-2-edicion-) (MiriadaX)
+
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
+- []() (UniPython)

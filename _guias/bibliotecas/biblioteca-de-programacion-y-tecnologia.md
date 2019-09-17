@@ -1,8 +1,8 @@
 ---
 # Página Base
-title: "📚 ▷ Más de 340 Libros 🔥 Aprender Programación, Redes, Robótica, Seguridad"
-description: "🚀 Biblia de Libros PDF Online: Programación Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 💰 Ofimática 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
-excerpt: "🚀 Biblia de Libros PDF Online: Programación Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 💰 Ofimática 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
+title: "📚 ▷ Más de 340 Libros 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica"
+description: "🚀 Biblia de Libros PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
+excerpt: "🚀 Biblia de Libros PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 date: 2018-02-13T22:00:00.000+00:00
 last_modified_at: 2019-10-11T12:42:42-05:00
 permalink: /biblioteca-de-programacion-y-tecnologia/
@@ -281,6 +281,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 ## 👷🏻‍♂️ Webmaster
 
 ## Marketing en Redes Sociales 🏪
+
 ### Instagram <i class="fab fa-instagram"></i>
 * [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf)
 

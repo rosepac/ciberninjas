@@ -21,7 +21,7 @@ subtitle: Escuela Digital
 email: rosepac21@gmail.com
 name: "Pablo Álvarez Corredera"
 description: >- # this means to ignore newlines until "baseurl:"
-  La Biblioteca Más Impresionante de Libros, Cursos, Tutoriales y Documentales en Español de Internet. Guías de Aplicaciones, Frameworks, Programación y Software. Venta de Productos Educativos y Tecnológicos del Siglo XXI.
+  El Repositorio Más Impresionante de Libros, Cursos, Tutoriales y Documentales en Español para Aprender a ser Desarrollador Web y Muchísimo Más.
 url: "https://ciberninjas.com"
 # baseurl:
 repository: "rosepac/ciberninjas"
@@ -109,33 +109,6 @@ analytics:
     
 naver_site_verification: "6c9e3c9861eb717f29638c631ff91d7de609f9d4"
 
-# Configuración Pie de Página
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ciberninjas"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://instagram.com/ciberninjas"
-    - label: "Donativo"
-      icon: "fab fa-fw fa-paypal"
-      url: "https://paypal.me/ciberninjas"
-    - label: "Bitcoin"
-      icon: "fab fa-fw fa-bitcoin"
-      url: "14GGQUBou7EWvutCmgP8yajsWbrngk3DqT"
-    - label: "Ethereum"
-      icon: "fab fa-fw fa-ethereum"
-      url: "0x9b039b7F5c7eE7D56C0C5cDB8E7E3720F126F4B7"
-    - label: "Criptomonedas"
-      icon: "fas fa-fw fa-donate"
-      url: "https://gist.github.com/rosepac/df7d4fc0abcf6030c32907b9aa19c401#paypal"
-      
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "ciberninjas"
-
 # Colecciones / Secciones Creadas
 collections:
     guias:
@@ -158,6 +131,14 @@ collections:
         permalink: /:collection/:path
 
 defaults:
+    # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      red_time: true
   # _posts
   - scope:
       path: "_posts"
@@ -169,14 +150,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      red_time: true
   # _staff-miembros
   - scope:
       path: ""
@@ -247,11 +220,39 @@ defaults:
       comments: true
       share: true
       related: false
+
 category_archive:
   type: liquid
   path: /categoria/
 tag_archive:
   type: liquid
   path: /etiqueta/
-  
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "ciberninjas"
+
+# Pie de Página
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ciberninjas"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://instagram.com/ciberninjas"
+    - label: "Donativo"
+      icon: "fab fa-fw fa-paypal"
+      url: "https://paypal.me/ciberninjas"
+    - label: "Bitcoin"
+      icon: "fab fa-fw fa-bitcoin"
+      url: "14GGQUBou7EWvutCmgP8yajsWbrngk3DqT"
+    - label: "Ethereum"
+      icon: "fab fa-fw fa-ethereum"
+      url: "0x9b039b7F5c7eE7D56C0C5cDB8E7E3720F126F4B7"
+    - label: "Criptomonedas"
+      icon: "fas fa-fw fa-donate"
+      url: "https://gist.github.com/rosepac/df7d4fc0abcf6030c32907b9aa19c401#paypal"
+      
 # Final de la Configuración 💋💋💋

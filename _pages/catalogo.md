@@ -65,7 +65,7 @@ INGLÉS
 - Permanent Record - Edward Snowden [Tapa Blanda](https://amzn.to/2AdKOrL) [Tapa Dura](https://amzn.to/34M3JHZ) [Ebook](https://amzn.to/2AinE3u)
 
 
-## Programación Móvil & Web 👩‍💻
+## 👩‍💻 Desarrollo Web
 
 ### Android <i class="fab fa-android"></i>
 
