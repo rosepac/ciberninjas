@@ -37,11 +37,12 @@ Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un 
   * [Cómo crear Colecciones con Jekyll](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Jekyll con la plantilla Minimal Mistake") (..en Plantilla Minimal Mistake)
 * [Kramdown](https://kramdown.gettalong.org/converter/html.html "Kramdown, la librería de código de Ruby que implementa acciones desde el código a través de Markdown") (librería de Ruby, que permite implementar índices entre otras muchas cosas)
 * [Foro de Jekyll](https://talk.jekyllrb.com/ "El foro más grande que he encontrado sobre Jekyll")
-* [Buscador con Entradas sobre Jekyll](https://codeday.me/es/)
-* [WebJeda](https://blog.webjeda.com/optimize-jekyll-seo/) Muchos contenidos y entradas en relación a Jekyll.
+* [Buscador con Entradas sobre Jekyll](https://codeday.me/es)
+* [WebJeda](https://blog.webjeda.com/optimize-jekyll-seo) Muchos contenidos y entradas en relación a Jekyll.
 * [Enlaces nofollow en Jekyll - SEO](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/)
 * [Crear desplegables](https://github.com/deepchar/deepchar.github.io) [1](https://github.community/t5/GitHub-Pages/Collapsible-markdown-inside-lt-details-gt-lt-summary-gt-lt/m-p/13838#M1090)
 * [Ordenar Páginas en Jekyll](https://stackoverflow.com/questions/41087699/jekyll-how-to-change-the-default-ordering-of-collections)
+* [Crear listado con las publicaciones de una categoría .yml](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category)
 
 ## ✍ Cómo Publicar Con Jekyll
 

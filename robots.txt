@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
 Sitemap: https://ciberninjas.com/sitemap.xml
+Disallow: /archivo/
+Disallow: /categoria/
+Disallow: /etiqueta/
+Disallow: /page*/
