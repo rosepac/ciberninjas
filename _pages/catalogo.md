@@ -30,39 +30,9 @@ sidebar:
 - Servicios de Red en Linux [Tapa Blanda](https://amzn.to/2Ajn7OO) [Ebook](https://amzn.to/2Ne9zfI)
 - Superficiales: ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) - [Ebook](https://amzn.to/2KORsur)
 
+## 🕴 Empresa y Estrategia
 
-## Seguridad Inform&aacute;tica 🔐
-
-* Análisis de Malware para Sistemas Windows [Tapa Blanda](https://amzn.to/2AjuvcK)
-* Bacula: El Software Libre de Respaldo [Tapa Blanda](https://amzn.to/2Ndt5t0) [Ebook](https://amzn.to/2AfI78T)
-* Back Track 5 [Ebook](https://amzn.to/2Lw1q4s) Hacking de Redes Inálambricas 
-* El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA) [Saber M&aacute;s](/el-arte-de-la-invisibilidad/)
-* El enemigo conoce el sistema [Tapa Blanda](https://amzn.to/2Z46eBx) [Ebook](https://amzn.to/2Z1YfEV)
-* El libro blanco del hacker [Tapa Blanca](https://amzn.to/2N5EkCS)
-* El libro del hacker. Edición 2018 [Tapa Blanda](https://amzn.to/34ISSPb)
-* El peque&ntilde;o libro rojo del activista en la red [Tapa Blanda](https://amzn.to/2YQharj) [Ebook](https://amzn.to/33uIgmt)
-* [Experto En Hacking Linux Y Windows Seguridad Ofensiva](https://amzn.to/2Lt7Wsw)
-* [Ingeniería social. El arte del hacking personal](https://amzn.to/34MkmTV)
-* [Kali Linux](https://amzn.to/2LsHbV4)
-* [Pentesting con Kali](https://amzn.to/2NdO2DQ)
-* [Hacker WhiteBook](https://amzn.to/2NcGLEx)
-* [Hacking Ético](https://amzn.to/2Q8eeSG)
-* Hacking Etico 101 - Cómo hackear profesionalmente en 21 días o menos! [Tapa Blanda](https://amzn.to/2Nes43Y) [Ebook](https://amzn.to/2NbE3PG)
-* Hacking Wireless 101: ¡Cómo hackear redes inalámbricas fácilmente! V.2 [Tapa Blanda](https://amzn.to/2NdQlai)
-* [Hacking ético con herramientas Phyton](https://amzn.to/2LtNXtG)
-* [Hacking para dummies 2019](https://amzn.to/2Q8xD5W)
-* Haz clic aquí para matarlos a todos: Un manual de supervivencia [Tapa Blanda](https://amzn.to/2LvNasw) [Ebook](https://amzn.to/2AfhaSQ)
-* [Herramientas para hacking ético](https://amzn.to/31lBTjQ)
-* ISO27001/ISO27002: Una guía de bolsillo [Tapa Blanda](https://amzn.to/32KzTSD) [Ebook](https://amzn.to/2Q92T4M)
-* Los hombres que susurran a las máquinas [Tapa Blanda](https://amzn.to/2NdD6X1) [Ebook](https://amzn.to/2NdCS27)
-* Reglamento General de Protección de Datos (RGPD) de la UE [Tapa Blanda](https://amzn.to/2AelrpL) [Ebook](https://amzn.to/2Q4nK9l)
-* [Seguridad informática. Hacking ético - 2ª edición](https://amzn.to/2Nbl9bG)
-* Vigilancia permanente (No Ficción) [Tapa Blanda](https://amzn.to/2Lxt9Sd) [Ebook](https://amzn.to/2Alu55y)
-* Web hacking 101: C&oacute;mo hacer dinero hackeando &eacute;ticamente [Varios Formatos](https://leanpub.com/web-hacking-101-es)
-<!-- [Tapa Blanda]() [Ebook]() -->
-INGLÉS
-
-- Permanent Record - Edward Snowden [Tapa Blanda](https://amzn.to/2AdKOrL) [Tapa Dura](https://amzn.to/34M3JHZ) [Ebook](https://amzn.to/2AinE3u)
+- [Más Allá del Cambio: Dominando el Futuro, Hoy]( https://amzn.to/2Qf4zd7) 
 
 
 ## 👩‍💻 Desarrollo Web
@@ -100,6 +70,42 @@ INGLÉS
 14. Diseño e implementación con Swift Playgrounds
 
 
+## 👮‍♀️ Seguridad
+
+## Seguridad Inform&aacute;tica 🔐
+
+* Análisis de Malware para Sistemas Windows [Tapa Blanda](https://amzn.to/2AjuvcK)
+* Bacula: El Software Libre de Respaldo [Tapa Blanda](https://amzn.to/2Ndt5t0) [Ebook](https://amzn.to/2AfI78T)
+* Back Track 5 [Ebook](https://amzn.to/2Lw1q4s) Hacking de Redes Inálambricas 
+* El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA) [Saber M&aacute;s](/el-arte-de-la-invisibilidad/)
+* El enemigo conoce el sistema [Tapa Blanda](https://amzn.to/2Z46eBx) [Ebook](https://amzn.to/2Z1YfEV)
+* El libro blanco del hacker [Tapa Blanca](https://amzn.to/2N5EkCS)
+* El libro del hacker. Edición 2018 [Tapa Blanda](https://amzn.to/34ISSPb)
+* El peque&ntilde;o libro rojo del activista en la red [Tapa Blanda](https://amzn.to/2YQharj) [Ebook](https://amzn.to/33uIgmt)
+* [Experto En Hacking Linux Y Windows Seguridad Ofensiva](https://amzn.to/2Lt7Wsw)
+* [Ingeniería social. El arte del hacking personal](https://amzn.to/34MkmTV)
+* [Kali Linux](https://amzn.to/2LsHbV4)
+* [Pentesting con Kali](https://amzn.to/2NdO2DQ)
+* [Hacker WhiteBook](https://amzn.to/2NcGLEx)
+* [Hacking Ético](https://amzn.to/2Q8eeSG)
+* Hacking Etico 101 - Cómo hackear profesionalmente en 21 días o menos! [Tapa Blanda](https://amzn.to/2Nes43Y) [Ebook](https://amzn.to/2NbE3PG)
+* Hacking Wireless 101: ¡Cómo hackear redes inalámbricas fácilmente! V.2 [Tapa Blanda](https://amzn.to/2NdQlai)
+* [Hacking ético con herramientas Phyton](https://amzn.to/2LtNXtG)
+* [Hacking para dummies 2019](https://amzn.to/2Q8xD5W)
+* Haz clic aquí para matarlos a todos: Un manual de supervivencia [Tapa Blanda](https://amzn.to/2LvNasw) [Ebook](https://amzn.to/2AfhaSQ)
+* [Herramientas para hacking ético](https://amzn.to/31lBTjQ)
+* ISO27001/ISO27002: Una guía de bolsillo [Tapa Blanda](https://amzn.to/32KzTSD) [Ebook](https://amzn.to/2Q92T4M)
+* Los hombres que susurran a las máquinas [Tapa Blanda](https://amzn.to/2NdD6X1) [Ebook](https://amzn.to/2NdCS27)
+* Reglamento General de Protección de Datos (RGPD) de la UE [Tapa Blanda](https://amzn.to/2AelrpL) [Ebook](https://amzn.to/2Q4nK9l)
+* [Seguridad informática. Hacking ético - 2ª edición](https://amzn.to/2Nbl9bG)
+* Vigilancia permanente (No Ficción) [Tapa Blanda](https://amzn.to/2Lxt9Sd) [Ebook](https://amzn.to/2Alu55y)
+* Web hacking 101: C&oacute;mo hacer dinero hackeando &eacute;ticamente [Varios Formatos](https://leanpub.com/web-hacking-101-es)
+<!-- [Tapa Blanda]() [Ebook]() -->
+INGLÉS
+
+- Permanent Record - Edward Snowden [Tapa Blanda](https://amzn.to/2AdKOrL) [Tapa Dura](https://amzn.to/34M3JHZ) [Ebook](https://amzn.to/2AinE3u)
+
+
 ## 👷‍♂️ Webmaster
 
 - [Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente](https://amzn.to/2Ll5N0K)
@@ -110,6 +116,7 @@ INGLÉS
 - [Visibilidad Online - Marketing Digital 2019](https://amzn.to/2L9jZuU)
 
 
+## Analítica Web
 ## Marketing en Redes Sociales 🏪 
 
 - [101 Consejos y Estrategias de Facebook Marketing](https://amzn.to/2ZqWeqT)
