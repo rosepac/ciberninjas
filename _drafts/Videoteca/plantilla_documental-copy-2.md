@@ -1,175 +1,168 @@
 ---
 author_profile: false
-title: "📹 ▷ Cambiar los Paradigmas de la Educación 🎓"
-description: "🎓 ▷ Sir Ken Robinson trata el tema del estancamiento de la educación del Siglo XIX, y el pensamiento divergente"
-excerpt: "🎓 ▷ Sir Ken Robinson trata el tema del estancamiento de la educación del Siglo XIX, y el pensamiento divergente"
+title: "\U0001F4F9 ▷ Cambiar los Paradigmas de la Educación \U0001F393"
+description: "\U0001F393 Sir Ken Robinson \U0001F468‍\U0001F3EB trata el tema del estancamiento de la educación del Siglo XIX, y el pensamiento divergente"
+excerpt: "\U0001F393 Sir Ken Robinson \U0001F468‍\U0001F3EB trata el tema del estancamiento de la educación del Siglo XIX, y el pensamiento divergente"
 header:
   video:
     id: Z78aaeJR8no
     provider: youtube
 comments: true
-date: 2019-09-18 09:50:12
-# Etiquetas Más Posibles: #Reflexión #Sistema Educativo
+date: 2019-09-18 00:00:00 +0200
 tags:
-- Ken Robinson
-- Paradigmas
-- Sistema Educativo
-# Vídeo Educación. Vídeo Seguridad Informática. Vídeo Conciencia Ciudadana. Vídeo Películas. Vídeo Series. Vídeo Videojuegos
+  - Ken Robinson
+  - Paradigmas
+  - Sistema Educativo
 categories:
-- Vídeo Educación
+  - Vídeo Educación
 sidebar:
-- title: "Menú Videoteca"
-  nav: vteca
-
+  - title: Menú Videoteca
+    nav: vteca
 ---
 
-Este RSA Animate fue adaptado de una charla dada en la RSA por Sir Ken Robinson, experto en educación y creatividad de renombre mundial y ganador del premio Benjamín Franklin de la RSA.
+Este RSA Animate fue adaptado de una charla dada en la RSA por Sir Ken Robinson, experto en educaci&oacute;n y creatividad de renombre mundial y ganador del premio Benjam&iacute;n Franklin de la RSA.
 
-La RSA es una organización benéfica de 258 años dedicada a impulsar el progreso social y difundir ideas que cambian el mundo.
+La RSA es una organizaci&oacute;n ben&eacute;fica de 258 a&ntilde;os dedicada a impulsar el progreso social y difundir ideas que cambian el mundo.
 
 Este audio ha sido editado del evento original por Becca Pyne. Serie producida por Abi Stephenson, RSA.
 
-La animación es creada por: Andrew Park, el autor intelectual de la serie "Animate" y la mano peluda favorita de todos, que nos habla sobre su atractivo y su éxito en su publicación de blog, <a href="http://www.thersa.org/talk-to-the-hand/" title="Talk to the hand">'Talk to the hand / Hablando con la mano'</a>.
+La animaci&oacute;n es creada por: Andrew Park, el autor intelectual de la serie "Animate" y la mano peluda favorita de todos, que nos habla sobre su atractivo y su &eacute;xito en su publicaci&oacute;n de blog, ['Talk to the hand / Hablando con la mano'](http://www.thersa.org/talk-to-the-hand/ "Talk to the hand").
 
-## ✍ Redacción
+## ✍ Redacci&oacute;n
 
-Actualmente, todos los países del mundo están reformando su educación pública. Y hay dos razones para esto: 
+Actualmente, todos los pa&iacute;ses del mundo est&aacute;n reformando su educaci&oacute;n p&uacute;blica. Y hay dos razones para esto:
 
-- La primera es económica, la gente trata de resolver cómo educamos a los niños para que encuentren su lugar en la economía del Siglo XXI. ¿Cómo hacemos eso? Considerando que no podemos anticipar como lucirá la economía al final de la próxima semana, tal como lo demostró la reciente crisis.
+* La primera es econ&oacute;mica, la gente trata de resolver c&oacute;mo educamos a los ni&ntilde;os para que encuentren su lugar en la econom&iacute;a del Siglo XXI. &iquest;C&oacute;mo hacemos eso? Considerando que no podemos anticipar como lucir&aacute; la econom&iacute;a al final de la pr&oacute;xima semana, tal como lo demostr&oacute; la reciente crisis.
 
-La segunda razón es cultural, cada país está tratando de entender como educamos a nuestros niños para que tengan un sentido de identidad cultural, y de esa manera pasar nuestros genes culturales a la comunidad mientras se es parte del proceso de la globalización.
+La segunda raz&oacute;n es cultural, cada pa&iacute;s est&aacute; tratando de entender como educamos a nuestros ni&ntilde;os para que tengan un sentido de identidad cultural, y de esa manera pasar nuestros genes culturales a la comunidad mientras se es parte del proceso de la globalizaci&oacute;n.
 
-¿Cómo cuadrar ese círculo?
+&iquest;C&oacute;mo cuadrar ese c&iacute;rculo?
 
-El problema es que tratan de llegar al futuro haciendo lo que hicieron en el pasado, y alienando de esa manera a millones de niños que no le ven el propósito de ir a la escuela.
+El problema es que tratan de llegar al futuro haciendo lo que hicieron en el pasado, y alienando de esa manera a millones de ni&ntilde;os que no le ven el prop&oacute;sito de ir a la escuela.
 
-Cuando nosotros íbamos a la escuela la historia nos enseñaba que si trabajamos duro y nos iba bien obteníamos un Cambiando los Paradigmas de la Educación universitario y luego un trabajo.
+Cuando nosotros &iacute;bamos a la escuela la historia nos ense&ntilde;aba que si trabajamos duro y nos iba bien obten&iacute;amos un Cambiando los Paradigmas de la Educaci&oacute;n universitario y luego un trabajo.
 
-Nuestros niños no creen en eso, y por cierto no están muy equivocados.
+Nuestros ni&ntilde;os no creen en eso, y por cierto no est&aacute;n muy equivocados.
 
-Es mejor tener un Cambiando los Paradigmas de la Educación antes que nada pero ya no es una garantía y particularmente si esto te lleva a dejar de lado lo que para ti es importante. 
+Es mejor tener un Cambiando los Paradigmas de la Educaci&oacute;n antes que nada pero ya no es una garant&iacute;a y particularmente si esto te lleva a dejar de lado lo que para ti es importante.
 
-Algunas personas dicen que tenemos que elevar los estándares, como si se trata de un avance.
+Algunas personas dicen que tenemos que elevar los est&aacute;ndares, como si se trata de un avance.
 
-Sí, realmente deberíamos.
+S&iacute;, realmente deber&iacute;amos.
 
-¿Por qué los bajarías?
+&iquest;Por qu&eacute; los bajar&iacute;as?
 
 Me he encontrado con un argumento que los persuade de bajarlos. Pero elevarlos, por supuesto que hay que elevarlos.
 
-El problema es que el actual sistema educativo fue diseñado y concebido y estructurado para una época diferente.
+El problema es que el actual sistema educativo fue dise&ntilde;ado y concebido y estructurado para una &eacute;poca diferente.
 
-Fue concebido en la cultura intelectual de la ilustración, y en las circunstancias económicas de la Revolución Industrial.
+Fue concebido en la cultura intelectual de la ilustraci&oacute;n, y en las circunstancias econ&oacute;micas de la Revoluci&oacute;n Industrial.
 
-Antes de mediados del siglo XIX no había sistema educativo público, realmente no, podías ser educado por los jesuitas, es decir, si tenías el dinero.
+Antes de mediados del siglo XIX no hab&iacute;a sistema educativo p&uacute;blico, realmente no, pod&iacute;as ser educado por los jesuitas, es decir, si ten&iacute;as el dinero.
 
-Pero la educación pública pagada por los impuestos obligatoria para todos y de distribución gratuita era una idea revolucionaria.
+Pero la educaci&oacute;n p&uacute;blica pagada por los impuestos obligatoria para todos y de distribuci&oacute;n gratuita era una idea revolucionaria.
 
-Y muchas personas también lo objetaban, decían:
-“No es posible que muchos niños en la calle, y de clase obrera se beneficien de la educación pública; no son capaces de aprender a leer y escribir. ¿Por qué estamos malgastando el tiempo en esto?"
+Y muchas personas tambi&eacute;n lo objetaban, dec&iacute;an: “No es posible que muchos ni&ntilde;os en la calle, y de clase obrera se beneficien de la educaci&oacute;n p&uacute;blica; no son capaces de aprender a leer y escribir. &iquest;Por qu&eacute; estamos malgastando el tiempo en esto?"
 
-Así que esto también fue desarrollado sobre una completa serie de impuestos sobre la estructura y capacidad social.
+As&iacute; que esto tambi&eacute;n fue desarrollado sobre una completa serie de impuestos sobre la estructura y capacidad social.
 
-Dirigido por un imperativo económico de la época manejado directamente a través de  un modelo intelectual de la mente que esencialmente es la visión de inteligencia de la Ilustración.
+Dirigido por un imperativo econ&oacute;mico de la &eacute;poca manejado directamente a trav&eacute;s de un modelo intelectual de la mente que esencialmente es la visi&oacute;n de inteligencia de la Ilustraci&oacute;n.
 
-La verdadera inteligencia consiste en nuestras capacidades de razonamiento deductivo y el conocimiento de los clásicos y sus nombres, lo que vinimos a pensarlo como habilidad académica.
+La verdadera inteligencia consiste en nuestras capacidades de razonamiento deductivo y el conocimiento de los cl&aacute;sicos y sus nombres, lo que vinimos a pensarlo como habilidad acad&eacute;mica.
 
-Y esto está en los profundo de los genes de la educación pública que realmente hay 2 clases de personas: académicas y no académicas, gente inteligente y no inteligente.
+Y esto est&aacute; en los profundo de los genes de la educaci&oacute;n p&uacute;blica que realmente hay 2 clases de personas: acad&eacute;micas y no acad&eacute;micas, gente inteligente y no inteligente.
 
 Y la consecuencia de esto es que muchas personas brillantes piensan que no lo son.
 
-Porque han sido juzgados por esta particular visión de la mente. Así que tenemos una doble columna. Económica e intelectual.
+Porque han sido juzgados por esta particular visi&oacute;n de la mente. As&iacute; que tenemos una doble columna. Econ&oacute;mica e intelectual.
 
-Y mi visión es que, este modelo, ha causado un caos en la vida de muchas personas,  ha sido fantástico para algunos que se han beneficiado mucho de esto, pero la mayoría de la gente no. En cambios ellos sufren de esto.
+Y mi visi&oacute;n es que, este modelo, ha causado un caos en la vida de muchas personas, ha sido fant&aacute;stico para algunos que se han beneficiado mucho de esto, pero la mayor&iacute;a de la gente no. En cambios ellos sufren de esto.
 
 Esta es la epidemia moderna y es tan inapropiada como ficticia.
 
-Este es el juego del TDAH. Ahora, este es un mapa de TDAH en EEUU o de medicación para TDAH.
+Este es el juego del TDAH. Ahora, este es un mapa de TDAH en EEUU o de medicaci&oacute;n para TDAH.
 
-No me malinterpreten, no quiero decir que no existe el Trastorno por Déficit de Atención e Hiperactividad, no estoy calificado para afirmar tal cosa.
+No me malinterpreten, no quiero decir que no existe el Trastorno por D&eacute;ficit de Atenci&oacute;n e Hiperactividad, no estoy calificado para afirmar tal cosa.
 
-No soy del a mayoría de los psicólogos y pediatras que si creen que esto existe. Pero es aún algo por debatir. Lo que si sé como un hecho es que NO es una epidemia.
+No soy del a mayor&iacute;a de los psic&oacute;logos y pediatras que si creen que esto existe. Pero es a&uacute;n algo por debatir. Lo que si s&eacute; como un hecho es que NO es una epidemia.
 
-Estos niños están siendo medicados, tan rutinariamente como nosotros nos sacábamos las amígdalas.
+Estos ni&ntilde;os est&aacute;n siendo medicados, tan rutinariamente como nosotros nos sac&aacute;bamos las am&iacute;gdalas.
 
-Basado en los mismos caprichos y en las mismas razones médicas de moda.
+Basado en los mismos caprichos y en las mismas razones m&eacute;dicas de moda.
 
-Nuestros niños están viviendo el período de estímulos más intenso de la historia de la Tierra.
+Nuestros ni&ntilde;os est&aacute;n viviendo el per&iacute;odo de est&iacute;mulos m&aacute;s intenso de la historia de la Tierra.
 
-Están siendo asediados por información que llama su atención, de cada plataforma, computadoras, de los Iphones, de avisos publicitarios, de cientos de canales de televisión.
+Est&aacute;n siendo asediados por informaci&oacute;n que llama su atenci&oacute;n, de cada plataforma, computadoras, de los Iphones, de avisos publicitarios, de cientos de canales de televisi&oacute;n.
 
-Y por eso penalizados, porque se distraen. ¿De qué? De cosas aburridas, la mayor parte de la escuela. ME parece que no es total coincidencia que el incremente de TDAH fue paralelo al incremento de los exámenes estandarizados.
+Y por eso penalizados, porque se distraen. &iquest;De qu&eacute;? De cosas aburridas, la mayor parte de la escuela. ME parece que no es total coincidencia que el incremente de TDAH fue paralelo al incremento de los ex&aacute;menes estandarizados.
 
-A estos chicos se les da Ritalin, y todo tipo de cosas con frecuencia, drogas bastante peligrosas, para que se enfoquen y se calmen. Pero de acuerdo a este mapa el déficit de atención se incremente a medida que viajas al Este del país.
+A estos chicos se les da Ritalin, y todo tipo de cosas con frecuencia, drogas bastante peligrosas, para que se enfoquen y se calmen. Pero de acuerdo a este mapa el d&eacute;ficit de atenci&oacute;n se incremente a medida que viajas al Este del pa&iacute;s.
 
-EN Oklahoma la gente comienza a perder interés. En Arkanas apenas pueden pensar correctamente. Y para cuando llegan a Washington ya están totalmente perdidos. Y creo que para eso hay una razón aparte.
+EN Oklahoma la gente comienza a perder inter&eacute;s. En Arkanas apenas pueden pensar correctamente. Y para cuando llegan a Washington ya est&aacute;n totalmente perdidos. Y creo que para eso hay una raz&oacute;n aparte.
 
 Es una epidemia ficticia.
 
-Si piensan en esto, el arte y no creo que sea exclusivo del arte, creo que también incluye las matemáticas y las ciencias. Pero digo las artes particularmente porque son las víctimas de la mentalidad actual. Particularmente.
+Si piensan en esto, el arte y no creo que sea exclusivo del arte, creo que tambi&eacute;n incluye las matem&aacute;ticas y las ciencias. Pero digo las artes particularmente porque son las v&iacute;ctimas de la mentalidad actual. Particularmente.
 
-Las artes se dirigen especialmente a la idea de experiencia estética. Y la experiencia estética es cuando nuestros sentidos operan en su máxima expresión, cuando estás presente en un momento en el auto, cuando estás impactado de entusiasmo por lo que estás viviendo, cuando estás totalmente vivo.
+Las artes se dirigen especialmente a la idea de experiencia est&eacute;tica. Y la experiencia est&eacute;tica es cuando nuestros sentidos operan en su m&aacute;xima expresi&oacute;n, cuando est&aacute;s presente en un momento en el auto, cuando est&aacute;s impactado de entusiasmo por lo que est&aacute;s viviendo, cuando est&aacute;s totalmente vivo.
 
-Y lo anestésico es cuando cierras tus sentidos insensibilizándote a lo que está pasando, y muchas de estas drogas son eso.
+Y lo anest&eacute;sico es cuando cierras tus sentidos insensibiliz&aacute;ndote a lo que est&aacute; pasando, y muchas de estas drogas son eso.
 
-Estamos haciendo transitar a nuestros niños por la educación, anestesiándolos; y creo que debemos hacer exactamente lo opuesto.
+Estamos haciendo transitar a nuestros ni&ntilde;os por la educaci&oacute;n, anestesi&aacute;ndolos; y creo que debemos hacer exactamente lo opuesto.
 
-No debemos encerrarlos, debemos despertarlos a lo que está dentro de ellos. Pero el modelo que tenemos es este.
+No debemos encerrarlos, debemos despertarlos a lo que est&aacute; dentro de ellos. Pero el modelo que tenemos es este.
 
-Creo que tenemos una educación que es modelada en interés del industrialismo y a semejanza de este.
+Creo que tenemos una educaci&oacute;n que es modelada en inter&eacute;s del industrialismo y a semejanza de este.
 
-Les daré un par de ejemplos. Las escuelas están aún organizadas con bastantes semejanzas a las fábricas: toque de timbres, instalaciones separadas, materia separada especializada. Todavía educamos a los niños en grupos, los ingresamos al sistema por grupos de edad. 
-<!-- La separación en las escuelas por grupos de edad, es probable que haga que seamos más despegados respecto a personas de otras edades? :O  -->
+Les dar&eacute; un par de ejemplos. Las escuelas est&aacute;n a&uacute;n organizadas con bastantes semejanzas a las f&aacute;bricas: toque de timbres, instalaciones separadas, materia separada especializada. Todav&iacute;a educamos a los ni&ntilde;os en grupos, los ingresamos al sistema por grupos de edad. <!-- La separación en las escuelas por grupos de edad, es probable que haga que seamos más despegados respecto a personas de otras edades? :O  -->
 
-¿Por qué hacemos eso? ¿Por qué ese supuesto de que lo más importante que tienen en común es la edad?
+&iquest;Por qu&eacute; hacemos eso? &iquest;Por qu&eacute; ese supuesto de que lo m&aacute;s importante que tienen en com&uacute;n es la edad?
 
-Es como si lo más importante fuera la fecha de fabricación.
+Es como si lo m&aacute;s importante fuera la fecha de fabricaci&oacute;n.
 
-Conozco niños que son mucho mejor que otros niños de su misma edad en diferentes disciplinas, o en diferentes momentos del día, o mejores en pequeños grupos que en grandes grupos, o aún por su propia cuenta.
+Conozco ni&ntilde;os que son mucho mejor que otros ni&ntilde;os de su misma edad en diferentes disciplinas, o en diferentes momentos del d&iacute;a, o mejores en peque&ntilde;os grupos que en grandes grupos, o a&uacute;n por su propia cuenta.
 
-Si están interesados en el modelo de aprendizaje no se comienza desde una mentalidad de línea de producción. Es esencialmente una mala conformidad, que va en aumento si miramos el incremente de la estandarización de las pruebas planes de estudios estandarizados. Y se trata de la estandarización.
+Si est&aacute;n interesados en el modelo de aprendizaje no se comienza desde una mentalidad de l&iacute;nea de producci&oacute;n. Es esencialmente una mala conformidad, que va en aumento si miramos el incremente de la estandarizaci&oacute;n de las pruebas planes de estudios estandarizados. Y se trata de la estandarizaci&oacute;n.
 
-Creo que necesitamos ir en la dirección exactamente opuesta. Eso es lo que quiero decir cuando hablo de Cambiar el Paradigma.
+Creo que necesitamos ir en la direcci&oacute;n exactamente opuesta. Eso es lo que quiero decir cuando hablo de Cambiar el Paradigma.
 
-Hay un gran estudio reciente (2008) sobre el Pensamiento Divergente publicado hace un par de años. El pensamiento divergente no es lo mismo que la creatividad.
+Hay un gran estudio reciente (2008) sobre el Pensamiento Divergente publicado hace un par de a&ntilde;os. El pensamiento divergente no es lo mismo que la creatividad.
 
-He definido la creatividad como el proceso de tener ideas originales que tienen valor. El pensamiento divergente no es un sinónimo, pero ayuda.
+He definido la creatividad como el proceso de tener ideas originales que tienen valor. El pensamiento divergente no es un sin&oacute;nimo, pero ayuda.
 
-Es una capacidad esencial para la creatividad, es la habilidad de ver muchas posibles respuestas a una pregunta, muchas formas de interpretar una pregunta, de pensar en lo que Ed Bono llamó "Pensamiento Lateral", de pensar, no sólo de forma lineal o convergente, de ver múltiples respuestas y no sólo una.
+Es una capacidad esencial para la creatividad, es la habilidad de ver muchas posibles respuestas a una pregunta, muchas formas de interpretar una pregunta, de pensar en lo que Ed Bono llam&oacute; "Pensamiento Lateral", de pensar, no s&oacute;lo de forma lineal o convergente, de ver m&uacute;ltiples respuestas y no s&oacute;lo una.
 
-Es decir, vamos a probar esto, el "ejemplo del bacalao", a la gente se le puede preguntar que diga: ¿Cuántos usos se te ocurren para un sujetapapeles? Una pregunta de rutina.
+Es decir, vamos a probar esto, el "ejemplo del bacalao", a la gente se le puede preguntar que diga: &iquest;Cu&aacute;ntos usos se te ocurren para un sujetapapeles? Una pregunta de rutina.
 
-La mayoría de la gente puede dar de 10 a 15, la gente buena en esto puede dar 200,  y lo hacen diciendo: "¿Puede ser de 61 metros de alto y de goma espuma? Como si un sujetapapeles tuviera que ser Jim, como lo conocemos."
+La mayor&iacute;a de la gente puede dar de 10 a 15, la gente buena en esto puede dar 200, y lo hacen diciendo: "&iquest;Puede ser de 61 metros de alto y de goma espuma? Como si un sujetapapeles tuviera que ser Jim, como lo conocemos."
 
-El test fue dado a 1.500 personas. Está en un libro llamado "Break Point & Beyond" traducido como [Más Allá del Cambio: Dominando el Futuro, hoy]( https://amzn.to/2Qf4zd7) de George Land y Beth Jarman.
-En lo práctico del test, si superaba un cierto nivel eras considerado un genio en el Pensamiento Divergente.
+El test fue dado a 1.500 personas. Est&aacute; en un libro llamado "Break Point & Beyond" traducido como [M&aacute;s All&aacute; del Cambio: Dominando el Futuro, hoy](https://amzn.to/2Qf4zd7) de George Land y Beth Jarman. En lo pr&aacute;ctico del test, si superaba un cierto nivel eras considerado un genio en el Pensamiento Divergente.
 
 Mi pregunta a esto es:
 
-¿Qué porcentaje de la gente encuestada, de los 1500, tuvo un resultado de nivel genio para el pensamiento divergente? Necesito saber algo más sobre ellos: eran niños de jardín.
+&iquest;Qu&eacute; porcentaje de la gente encuestada, de los 1500, tuvo un resultado de nivel genio para el pensamiento divergente? Necesito saber algo m&aacute;s sobre ellos: eran ni&ntilde;os de jard&iacute;n.
 
-¿Qué piensan? ¿Qué porcentaje de nivel genio? ¿80? Ok. 90%.
+&iquest;Qu&eacute; piensan? &iquest;Qu&eacute; porcentaje de nivel genio? &iquest;80? Ok. 90%.
 
-Ahora piensen que fue un estudio longitudinal, así que volvieron a testear a los mismos niños 5 años después de 8 a 10 años.
+Ahora piensen que fue un estudio longitudinal, as&iacute; que volvieron a testear a los mismos ni&ntilde;os 5 a&ntilde;os despu&eacute;s de 8 a 10 a&ntilde;os.
 
-¿Qué piensan? ¿50? Nuevamente lo volvieron a testear 5 años más tarde de 13 a 15 años de edad.
+&iquest;Qu&eacute; piensan? &iquest;50? Nuevamente lo volvieron a testear 5 a&ntilde;os m&aacute;s tarde de 13 a 15 a&ntilde;os de edad.
 
-Pueden ver una tendencia. Esto nos cuenta una historia interesante. Porque pueden imaginar que va al revés ¿O no?
+Pueden ver una tendencia. Esto nos cuenta una historia interesante. Porque pueden imaginar que va al rev&eacute;s &iquest;O no?
 
 Comienza no muy bien pero te vuelves mejor a medida que creces. Pero esto nos muestra 2 cosas. Uno: es que todos tenemos esta capacidad, y dos: en su mayor parte se deteriora.
 
-Ahora, ¿Qué pasa con estos chicos cuando crecen?
+Ahora, &iquest;Qu&eacute; pasa con estos chicos cuando crecen?
 
-Una de las cosas que más convencido estoy es que para entonces, se vuelven educados.
-Pasan 10 años en la escuela donde le dicen que hay una respuesta y está al final. ¡Y no miren! ¡Y no copien! Porque eso es engañar, fuera de la escuela a eso se le llama colaboración pero estamos adentro.
+Una de las cosas que m&aacute;s convencido estoy es que para entonces, se vuelven educados. Pasan 10 a&ntilde;os en la escuela donde le dicen que hay una respuesta y est&aacute; al final. &iexcl;Y no miren\! &iexcl;Y no copien\! Porque eso es enga&ntilde;ar, fuera de la escuela a eso se le llama colaboraci&oacute;n pero estamos adentro.
 
-Esto no es porque los maestros lo quieran así, sino porque simplemente pasa así.
+Esto no es porque los maestros lo quieran as&iacute;, sino porque simplemente pasa as&iacute;.
 
-Es porque está en la reserva genética de la educación. Debemos pensar diferente sobre la capacidad humana, tenemos que superar esta vieja concepción, sobre lo académico y lo no académico, abstracto, teórico, vocacional, y ver lo que es: un Mito.
+Es porque est&aacute; en la reserva gen&eacute;tica de la educaci&oacute;n. Debemos pensar diferente sobre la capacidad humana, tenemos que superar esta vieja concepci&oacute;n, sobre lo acad&eacute;mico y lo no acad&eacute;mico, abstracto, te&oacute;rico, vocacional, y ver lo que es: un Mito.
 
-Y en segundo lugar tenemos que ver que la mayoría del gran aprendizaje sucede en grupos donde la colaboración es la fuente de crecimiento, si atomizamos a la gente, si los separamos, que trabajen separados; creamos una especie de disyunción, entre ellos y su ambiente natural de aprendizaje.
+Y en segundo lugar tenemos que ver que la mayor&iacute;a del gran aprendizaje sucede en grupos donde la colaboraci&oacute;n es la fuente de crecimiento, si atomizamos a la gente, si los separamos, que trabajen separados; creamos una especie de disyunci&oacute;n, entre ellos y su ambiente natural de aprendizaje.
 
-Y en tercer lugar, es crucial por la cultura de nuestras instituciones los hábitats de nuestras instituciones y los hábitats que ellos ocupan.
+Y en tercer lugar, es crucial por la cultura de nuestras instituciones los h&aacute;bitats de nuestras instituciones y los h&aacute;bitats que ellos ocupan.
 
-**Fuente**: [Traducción y Subtítulos](https://www.youtube.com/watch?v=Z78aaeJR8no) transcripción por [Verónica Vera](https://www.youtube.com/channel/UCYeMO7u_Jo2DiwajG964JJw)
+**Fuente**\: [Traducci&oacute;n y Subt&iacute;tulos](https://www.youtube.com/watch?v=Z78aaeJR8no) transcripci&oacute;n por [Ver&oacute;nica Vera](https://www.youtube.com/channel/UCYeMO7u_Jo2DiwajG964JJw)
 {: .notice--info}
