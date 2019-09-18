@@ -62,6 +62,7 @@ algolia:
   files_to_exclude:
     # - _posts/2019-09-11-las-mejores-agendas-escolares-2019.md 
     # - _posts/2017-11-28-post-exclude-search.md
+    - _pages/mapa-web.md
 
 # Build settings
 markdown: kramdown
