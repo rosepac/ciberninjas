@@ -9,14 +9,14 @@ header:
     provider: youtube
 comments: true
 date: 2019-08-18 22:11:12
-# Etiquetas Más Posibles: #Reflexión #Sistema Educativo
+# Etiquetas Más Posibles: # Reflexión # Sistema Educativo # Paradigmas
 tags:
 - AUTOR
 - Reflexión
 - Sistema Educativo
-# Vídeo Educación, 
+# Vídeo Educación. Vídeo Seguridad Informática. Vídeo Conciencia Ciudadana. Vídeo Películas. Vídeo Series. Vídeo Videojuegos
 categories:
-- Vídeo Educación. Vídeo Seguridad Informática. Vídeo Conciencia Ciudadana. Vídeo Películas. Vídeo Series. Vídeo Videojuegos
+- 
 sidebar:
 - title: "Menú Videoteca"
   nav: vteca
@@ -26,4 +26,5 @@ sidebar:
 
 TRANSCRIPCION 
 
-> Fuente [Lyrics Translate](https://lyricstranslate.com) Transcripción por [lolaeocho](https://lyricstranslate.com/es/translator/lolaeocho)
+**Fuente**: [PAGINA]() transcripción por [AUTOR]()
+{: .notice--info}
