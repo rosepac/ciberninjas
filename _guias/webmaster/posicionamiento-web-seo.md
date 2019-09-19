@@ -1,7 +1,7 @@
 ---
 title: 🔝 ▷ Posicionamiento Web y SEO, aprender desde cero todo lo que debes saber
-description: "📌 Posicionamiento Web y SEO, aprender desde cero todo lo que debes saber"
-excerpt: "📌 Posicionamiento Web y SEO, aprender desde cero todo lo que debes saber"
+description: "📌 Posicionamiento Web y SEO 🔍 Aprender desde cero a experto todo lo que debes saber"
+excerpt: "📌 Posicionamiento Web y SEO 🔍 Aprender desde cero a experto todo lo que debes saber"
 published: true
 comments: true
 date: 2018-04-25
@@ -167,7 +167,7 @@ La mayoría de las personas piensa en asegurarse de que Google puede encontrar s
 Si deseas alejar a GoogleBot de ciertas páginas o secciones completas, solo debes utilizar el archivo: robots.txt.
 
 ### Robots.txt
-El archivo robots.txt debe localizarse en el directorio raíz (por ejemplo: tudominio.com/robots.txt) y sugiere a los rastreadores qué partes permites rastrear o no, así como a la velocidad de rastreo que deseas que visiten tu sitio; estas pautas se logran por unas [directivas específicas] incluidas dentro de: robots.txt.
+El archivo robots.txt debe localizarse en el directorio raíz (por ejemplo: tudominio.com/robots.txt) y sugiere a los rastreadores qué partes permites rastrear o no, así como a la velocidad de rastreo que deseas que visiten tu sitio; estas pautas se logran por unas [directivas específicas] incluidas dentro de: [robots.txt](/robots-txt/).
 
 ### Cómo trata Googlebot los archivos robots.txt
 Si Googlebot no puede encontrar un archivo robots.txt en tu sitio, procede a rastrear el sitio.
@@ -281,6 +281,7 @@ Las empresas locales querrán destacar por posicionar con palabras claves del ti
 - [Cómo crear en 20 segundos un mapa de sitio XML que mejore tu SEO](Cómo Crear en 20 Segundos un Mapa de Sitio XML que Mejore tu SEO)
 - [¿Cómo establecer objetivos de SEO inteligentes para su equipo / agencia / proyecto?](https://moz.com/blog/smart-seo-goals)
 - [¿Qué es la optimización SEO / Search Engine?](https://searchengineland.com/guide/what-is-seo)
+- [Raspado de Contenido: Análisis](https://neilpatel.com/blog/content-scrapers)
 
 
 ## Los Mejores Blogs de SEO
@@ -311,6 +312,7 @@ Las empresas locales querrán destacar por posicionar con palabras claves del ti
 - answerthepublic.com
 - Google Search Console (Rendimientos / Consultas)
 - [Generador de Backlinks Automático](https://netgrows.com/es/backlinks-automaticos)
+- Siteline [explora tu sitio web](http://www.siteliner.com)
 
 ## Los Mejores Canales SEO de Youtube en Español
 
