@@ -5,12 +5,13 @@ excerpt: "📌 Posicionamiento Web y SEO, aprender desde cero todo lo que debes 
 published: true
 comments: true
 date: 2018-04-25
-last_modified_at: 2019-09-01
+last_modified_at: 2019-09-19
 permalink: /posicionamiento-web-seo/
+canonical_URL: https://ciberninjas.com/posicionamiento-web-seo/
 header:
-  image: "/assets/images/chocolatey-ciberninjas.jpg"
-  image_description: Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows
-  caption: "**Créditos**: Creación Propia"
+  image: "/assets/images/seo-posicionamiento-ciberninjas.webp"
+  image_description: El SEO y el Posicionamiento, vamos a aprender desde cero todo lo que debemos saber | Ciberninjas
+  caption: "**Créditos**: Edición Personal Sobre Foto de Merakist en Unsplash"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
