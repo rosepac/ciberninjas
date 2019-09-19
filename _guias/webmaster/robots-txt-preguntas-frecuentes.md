@@ -1,3 +1,23 @@
+---
+title: 🤖 ▷ Preguntas Frecuentes Sobre robots.txt
+description: "🕷 Preguntas Frecuentes Sobre robots.txt"
+excerpt: "🕷 Preguntas Frecuentes Sobre robots.txt"
+published: true
+comments: true
+date: 2019-09-19
+last_modified_at: 2019-09-19 10:40:10
+permalink: /robots-txt-preguntas-frecuentes/
+canonical_URL: https://ciberninjas.com/robots-txt/
+# header:
+#   image: "/assets/images/robots-txt-lupa-ciberninjas.webp"
+#   image_description: Robots txt, la configuración de tu página para los rastreadores de los buscadores más importantes | Ciberninjas
+#   caption: "**Créditos**: Edición Personal Sobre Foto de Emiliano Vittoriosi en Unsplash"
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
+---
+
 Esta es una lista con preguntas frecuentes sobre robots web. Seleccione la pregunta para ir a la página de respuestas, o seleccione en el icono del ojo después de la pregunta para mostrar la respuesta en esta página.
 
 1. Acerca de los robots WWW
