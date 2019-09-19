@@ -44,6 +44,15 @@ Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un 
 * [Ordenar Páginas en Jekyll](https://stackoverflow.com/questions/41087699/jekyll-how-to-change-the-default-ordering-of-collections)
 * [Crear listado con las publicaciones de una categoría .yml](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category)
 
+
+## Montaje y Pruebas
+
+- [Supercarga las páginas de GitHub con Jekyll y Travis CI](https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075)
+
+
+## SEO
+- [Cómo usar Jekyll como un profesional: Mejorar el SEO](https://codeburst.io/use-jekyll-like-a-pro-improving-seo-c8cfb81781b7)
+
 ## ✍ Cómo Publicar Con Jekyll
 
 ### Publicar un Enlace
