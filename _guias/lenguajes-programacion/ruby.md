@@ -7,7 +7,8 @@ date: 2019-06-30 12:06:18
 last_modified_at: 
 permalink: /ruby/
 ---
-Sobre Ruby
+
+## Sobre Ruby
 
 Ruby es otro lenguaje de scripting que se usa comúnmente para el desarrollo web. En particular, se utiliza como base para el popular marco de aplicaciones web de Ruby on Rails.
 

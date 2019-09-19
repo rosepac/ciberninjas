@@ -280,6 +280,7 @@ Las empresas locales querrán destacar por posicionar con palabras claves del ti
 
 - [Cómo crear en 20 segundos un mapa de sitio XML que mejore tu SEO](Cómo Crear en 20 Segundos un Mapa de Sitio XML que Mejore tu SEO)
 - [¿Cómo establecer objetivos de SEO inteligentes para su equipo / agencia / proyecto?](https://moz.com/blog/smart-seo-goals)
+- [Cómo puedo subir mi página a el buscador Duck Duck Go](https://kutt.it/duckduckgo-subir-pagina)
 - [¿Qué es la optimización SEO / Search Engine?](https://searchengineland.com/guide/what-is-seo)
 - [Raspado de Contenido: Análisis](https://neilpatel.com/blog/content-scrapers)
 
@@ -308,6 +309,9 @@ Las empresas locales querrán destacar por posicionar con palabras claves del ti
 
 ## Las Mejores Herramientas de SEO y Posicionamiento
 
+- [Google Herramientas Webmaster](https://kutt.it/webmaster-google "Herramientas de Webmaster Gratis ofrecidas por el buscador Google")
+- [Bing Herramientas Webmaster](https://kutt.it/webmaster-bing "Herramientas de Webmaster Gratis ofrecidas por el buscador Bing")
+- [Yahoo Herramientas Webmaster](https://kutt.it/webmaster-yahoo "Herramientas de Webmaster Gratis ofrecidas por el buscador Yahoo")
 - KWFinder
 - answerthepublic.com
 - Google Search Console (Rendimientos / Consultas)

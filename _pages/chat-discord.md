@@ -6,7 +6,7 @@ date: 2019-05-15T22:00:00.000+00:00
 last_modified_at: 2019-08-21T16:20:02-05:00
 permalink: /chat-discord/
 header:
-  image: "/assets/images/ciberninjas-chat-disboard.jpg"
+  image: "/assets/images/ciberninjas-chat-disboard.webp"
   image_description: El mejor chat de programación y tecnología en español que existe en toda la red de Internet, invitación a través de Disboard| Comunicación Ciberninjas
   caption: "**Créditos**: [Captura Personal, por [ROSEPAC](/quien-soy/)"
 toc: true

@@ -9,15 +9,12 @@ date: 2019-06-30 12:06:18
 last_modified_at: 
 permalink: /python/
 ---
+
 ## ¿Qué es Python?
 
 Python es un lenguaje de programación de propósito general creado por Guido Van Rossum. Python es muy elogiado por su elegante sintaxis y código legible, si recién está comenzando su carrera de programación, Python se adapta a sus necesidades.
 
- 
-
 Python es una herramienta en la categoría de **Idiomas** de una pila tecnológica.
-
- 
 
 Python es una herramienta de código abierto con **25.2K** estrellas GitHub y **10.4K** horquillas GitHub. Aquí hay un enlace al repositorio de código abierto de Python en [GitHub](https://github.com/python/cpython).
 
@@ -41,19 +38,13 @@ Incluso cuando se escribieron otros scripts para Google en Perl o Bash, estos a 
 
 Python es ahora uno de los lenguajes oficiales del servidor de Google (C ++, Java y Go son los otros tres) que pueden implementarse en producción. Y en caso de que no esté realmente seguro de cuán importante es Python para Google, el propio BDFL de Python, [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) , trabajó en Google desde 2005 hasta 2012.
 
-Facebook
-
-Instagram
-
-Spotify
-
-Quora
-
-Netflix
-
-Dropbox
-
-Reddit
+- Facebook
+- Instagram
+- Spotify
+- Quora
+- Netflix
+- Dropbox
+- Reddit
 
 ### ILM
 
