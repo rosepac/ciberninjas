@@ -1,5 +1,5 @@
 ---
-title: Python, Aprender Desde Cero
+title: 👨‍🚀 ▷ Cómo Aprender Python
 description:
 excerpt: 
 published: false

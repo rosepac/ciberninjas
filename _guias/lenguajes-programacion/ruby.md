@@ -1,5 +1,5 @@
 ---
-title: Ruby, Aprender Desde Cero
+title: 👨‍🚀 ▷ Cómo Aprender Ruby
 published: false
 author: rosepac
 comments: false
