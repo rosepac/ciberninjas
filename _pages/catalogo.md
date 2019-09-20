@@ -240,6 +240,12 @@ INGLÉS
 - [Las Mejores Camisetas de Marvel](https://amzn.to/2HYcMM7)
 - [Las Mejores Tazas de Marvel](https://amzn.to/2Q3Tw6E)
 
+## 🧸 Juguetes
+
+### Robots
+- [SGILE Robot Recargable](https://amzn.to/2LF4zPh)
+
+
 ## ❔Saber Más
 <details>
 <summary>Saber Más</summary>

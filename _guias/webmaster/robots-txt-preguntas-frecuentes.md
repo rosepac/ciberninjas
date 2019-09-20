@@ -336,7 +336,7 @@ Si se refiere a poder comprobar como un robot está trabajando sobre su sitio we
 
 
 ### ¿Dónde puedo conseguir un robot?
-Bueno, hoy en día desde Amazon podrás comprar algo parecido a los 🤖 de las películas.
+Bueno, hoy en día desde Amazon podrás comprar [algún 🤖 de los de película](https://amzn.to/2LF4zPh). No, fuera bromas.. 
 
 
 ### ¿Dónde puedo obtener el código fuente de un robot?
