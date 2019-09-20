@@ -1,8 +1,8 @@
 ---
 
 title: "Cornelis H. A. Koster"
-description: "Cornelis H. A. Koster, Informático Holandés"
-excerpt: "Cornelis H. A. Koster, Informático Holandés"
+description: "📖 👨‍💻  Wikipedia Informática: Cornelis H. A. Koster, Informático Holandés"
+excerpt: "📖 👨‍💻  Wikipedia Informática: Cornelis H. A. Koster, Informático Holandés"
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
@@ -10,7 +10,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: true
 author_profile: false
-permalink: /wiki/cornelis-h-a-koster
+permalink: /wiki-ninjas/cornelis-h-a-koster
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 
 title: "Elan (Software)"
-description: "Wikipedia: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
-excerpt: "Wikipedia: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
+description: "📖 👨‍💻  Wikipedia Informática: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
+excerpt: "📖 👨‍💻  Wikipedia Informática: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
@@ -10,7 +10,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: true
 author_profile: false
-permalink: /wiki/elan-software
+permalink: /wiki-ninjas/elan-software
 
 ---
 

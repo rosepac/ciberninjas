@@ -1,8 +1,8 @@
 ---
 
 title: "Eumel, Sistema Operativo"
-description: "Eumel, Sistema Operativo"
-excerpt: "Eumel, Sistema Operativo"
+description: "📖 👨‍💻  Wikipedia Informática: Eumel, Sistema Operativo"
+excerpt: "📖 👨‍💻  Wikipedia Informática: Eumel, Sistema Operativo"
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
@@ -10,7 +10,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: true
 author_profile: false
-permalink: /wiki/eumel
+permalink: /wiki-ninjas/eumel
 
 ---
 

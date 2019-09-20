@@ -7,7 +7,7 @@ comments: true
 date: 2019-09-19
 last_modified_at: 2019-09-19 10:40:10
 permalink: /robots-txt-preguntas-frecuentes/
-canonical_URL: https://ciberninjas.com/robots-txt/
+canonical_URL: https://ciberninjas.com/robots-txt-preguntas-frecuentes/
 # header:
 #   image: "/assets/images/robots-txt-lupa-ciberninjas.webp"
 #   image_description: Robots txt, la configuración de tu página para los rastreadores de los buscadores más importantes | Ciberninjas
@@ -15,7 +15,7 @@ canonical_URL: https://ciberninjas.com/robots-txt/
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
-toc_sticky: true
+toc_sticky: false
 ---
 
 Esta es una lista con preguntas frecuentes sobre robots web. Seleccione la pregunta para ir a la página de respuestas, o seleccione en el icono del ojo después de la pregunta para mostrar la respuesta en esta página.
@@ -246,22 +246,102 @@ Si comparte un host con otras personas y tiene una URL como: http://www.ejemplo.
 Si desea más control, cambie de proveedor a un host virtual.
 
 
-### ¿Qué pasa con un mayor desarrollo de /robots.txt?
+### ¿Qué pasa si no puedo crear un archivo robots.txt?
+A veces no puedes crear un archivo robots.txt porque no administra todo el servidor. No todo está perdido: hay un nuevo estándar para usar etiquetas META HTML para mantener a los robots fuera de sus documentos.
+
+La idea básica es que si incluye la etiqueta -noindex- siguiente en su documento HTML, ese documento no será indexado:
+```
+<meta name="robots" content="noindex"= />
+```
+En cambio si le incluyes -nofollow- los enlaces en ese documento no serán analizados por el robot.:
+```
+<meta name="robots" content="nofollow" />
+```
 
 
+### ¿Se puede bloquear solo a los robots malos?
+En teoría sí, en la práctica, no. Si el robot defectuoso obedece a /robots.txt y conoce el nombre que busca en el campo Agente de usuario. entonces puede crear una sección en su /robotst.txt para excluirlo específicamente. Pero casi todos los robots malos ignoran /robots.txt, por lo que no tiene sentido.
 
-### ¿Qué pasa si no puedo hacer un /robots.txt?
-### ¿Puedo bloquear solo robots malos?
+Si el robot defectuoso opera desde una sola dirección IP, puede bloquear su acceso a su servidor web a través de la configuración del servidor o con un firewall de red.
+
+Si las copias del robot funcionan en muchas direcciones IP diferentes, como las PC secuestradas que forman parte de una gran Botnet , entonces se vuelve más difícil. La mejor opción es utilizar la configuración avanzada de reglas de firewall que bloquea automáticamente el acceso a las direcciones IP que realizan muchas conexiones; pero eso puede golpear a los robots buenos también a los robots malos.
+
+
 ### ¿Por qué este robot ignoró mi /robots.txt?
-### ¿Se puede usar un /robots.txt en un tribunal de justicia?
+
+Podría ser que estuviese escrito por un redactor / desarrollador de software sin experiencia. Ocasionalmente, se asigna a personas inexpertas la tarea de "escribir un robot web". Más, es más probable que el robot esté escrito explícitamente para escanear su sitio en busca de información con la que realizar spam posteriormente: podría estar recopilando direcciones de correo electrónico para enviar correo no deseado, buscar formularios para publicar enlaces ["spamdexing"](/glosario/spamdexing/) o buscando agujeros de seguridad que explotar.
+
+
+### ¿Se puede usar un documento /robots.txt ante un juicio?
+
+No existe una ley que establezca que /robots.txt debe obedecerse, ni constituye un contrato vinculante entre el propietario del sitio y el usuario, pero tener un /robots.txt puede ser relevante en casos legales.
+
+Me declaro [IANAL](/glosario/ianal/), si requiere asesoramiento legal, obtenga servicios profesionales de un abogado calificado.
+
+Algunos casos jurídicos en relación a /robots.txt:
+- Defensores de la salud contra el archivo de Internet
+	- [El uso del archivo web no constituye piratería, dice un tribunal de los EE. UU.](http://www.out-law.com/page-8337)
+	- [Juez federal aprueba firma de abogados acusada de piratear archivos web de opositores](http://www.law.com/jsp/article.jsp?id=1185181604443)
+	- [Despacho de abogados de EE. UU. Libre de cargos de hackeo de robots.txt DMCA](http://www.theregister.co.uk/2007/07/26/wayback_firm_suit/)
+	- [Defensores de la salud: el increíble caso de "Abogados como hackers"](http://www.groklaw.net/article.php?story=20070819090725314)
+	- [Más sobre pleitos tontos - Internet Archive y la BBC Flap](http://www.groklaw.net/article.php?story=20050713142107477)
+- Copiepresse (Bélgica) vs Google
+	- [Actualización en Copiepresse v. Google](http://www.groklaw.net/article.php?story=20070726152837334)
+	- [¿Por qué el tribunal belga falló contra Google?](http://www.out-law.com/page-7759)
+- AFP vs Google
+	- [AFP demanda a Google en lugar de escribir Robots.Txt File](http://mooreslore.corante.com/archives/2005/03/19/afp_sues_google_rather_than_write_robotstxt_file.php)
+- eBay vs Edge del postor
+	- [¿Cuándo 'spidering' equivale a traspaso?](http://www.computerworld.com/printthis/2001/0,4814,58605,00.html)
+	- [ORDEN DE OTORGAMIENTO DE PRENSA PRELIMINAR](http://pub.bna.com/lw/21200.htm)
+	- [Caso de búsqueda de subasta espera decisión](http://searchenginewatch.com/showPage.html?page=2162561)
+
+Podrás encontrar muchos otros casos en [Groklaw](http://www.groklaw.net/search.php?query=robots.txt&keyType=phrase&datestart=&dateend=&topic=0&type=all&author=0&mode=search) .
+
+
 ### ¿Seguramente enumerar archivos confidenciales es un problema?
+A algunas personas les preocupa que la inclusión de páginas o directorios en el archivo /robots.txt pueda invitar a un acceso no deseado. Hay dos respuestas a esto.
+
+La primera respuesta es una solución alternativa: puede poner todos los archivos que no desea que los robots visiten en un subdirectorio separado, hacer que ese directorio no se pueda enumerar en la web (configurando su servidor), luego coloque sus archivos allí, y enumere solo el nombre del directorio en /robots.txt. Ahora, un robot mal intencionado no atravesará ese directorio a menos que usted u otra persona coloque un enlace directo en la web a uno de sus archivos, y luego no sea culpa de /robots.txt.
+
+En lugar de utilizar:
+```
+User-Agent: *
+Disallow: /foo.html
+Disallow: /bar.html
+```
+Usa:
+```
+User-Agent: *
+Disallow: /norobots/
+```
+Posteriormente crea un directorio "norobots", colocando foo.html y bar.html en él, y configure su servidor para que no genere una lista de directorios para ese directorio. Ahora todo lo que un atacante aprendería es que tienes un directorio "norobots", pero no podrá enumerar los archivos incluidos; necesitaría adivinar sus nombres.
+
+Sin embargo, en la práctica esta es una mala idea, es demasiado frágil. Alguien puede publicar un enlace a sus archivos en su sitio. O puede aparecer en un archivo de registro de acceso público, digamos del servidor proxy de su usuario, o tal vez aparezca en el registro del servidor web de alguien como Referer. O alguien puede configurar mal su servidor en una fecha futura, "arreglarlo" para mostrar una lista de directorio. Lo que me lleva a la respuesta real:
+
+La verdadera respuesta es que /robots.txt no está diseñado para el control de acceso, así que no intentes usarlo como tal. Piense en ello como una señal de "No entrar", no como una puerta cerrada. Si tiene archivos en su sitio web a los que no desea que accedan personas no autorizadas, configure su servidor para realizar la autenticación y configure la autorización adecuada. La autenticación básica ha existido desde los primeros días de la web (y, por ejemplo, Apache en UNIX es trivial de configurar). Los sistemas modernos de gestión de contenido admiten controles de acceso en páginas individuales y colecciones de recursos.
 
 ## Acerca de las etiquetas META
-    - ¿Qué es el atributo de enlace rel = "nofollow"?
+### ¿Qué es el atributo de enlace rel="nofollow"?
+Es un atributo que se puede establecer en una etiqueta de enlace HTML, inventada por Google y adoptada por otros. Esos enlaces no obtendrán ningún crédito cuando Google clasifique los sitios web en los resultados de búsqueda, eliminando así el incentivo principal detrás de los robots de spammers de comentarios de blogs.
+<!-- https://www.searchenginewatch.com/ -->
+<!-- http://googleblog.blogspot.com/2005/01/preventing-comment-spam.html -->
+
+Puedes consultar, [¿Cómo prevenir comentarios con spam?](https://googleblog.blogspot.com/2005/01/preventing-comment-spam.html "Cómo previnir comentarios con spam"), redactado por Google.
+
+Según esa descripción, parece que solo afecta la clasificación, y el robot de Google aún puede seguir los enlaces e indexarlos. Si es así, es diferente de la semántica NOFOLLOW <!-- /webmaster/robots-txt#meta -->de la metaetiqueta de robots.
 
 ## Disponibilidad
-    - ¿Dónde puedo usar un robot?
-    - ¿Dónde puedo conseguir un robot?
-    - ¿Dónde puedo obtener el código fuente de un robot?
-    - Estoy escribiendo un robot, ¿de qué debo tener cuidado?
-    - He escrito un robot, ¿cómo lo enumero?
+### ¿Dónde puedo usar un robot?
+Si se refiere a poder comprobar como un robot está trabajando sobre su sitio web, puedes comprobarlo desde las herramientas de indexación de páginas web que ya hemos indicado en el apartado de [¿Cómo registro mi página con un robot?](/robots-txt-preguntas-frecuentes/#como-registro-mi-pagina-con-un-robot)
+
+
+### ¿Dónde puedo conseguir un robot?
+Bueno, hoy en día desde Amazon podrás comprar algo parecido a los 🤖 de las películas.
+
+
+### ¿Dónde puedo obtener el código fuente de un robot?
+
+
+
+### Estoy escribiendo un robot, ¿de qué debo tener cuidado?
+### He escrito un robot, ¿cómo lo enumero?

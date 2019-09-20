@@ -4,7 +4,7 @@ title: "Enciclopedia Tecnológico"
 description:
 excerpt: "Enciclopedia de la tecnológia actualizada creada por ciberninjas"
 collection: wiki
-permalink: /wiki/
+permalink: /wiki-ninjas/
 published: true
 toc: true
 toc_label: "Contenidos"
@@ -19,7 +19,8 @@ sidebar:
 Índice de los artículos de la Wikipedia faltos de traducción en español o de una traducción correcta.
 
 ## Artículos
-- [Ciborg](/wiki/ciborg)
+👷‍♂️
+<!-- [Ciborg](/wiki/ciborg) -->
 
 ## Artículos Por Desarrollar
 - Ciborg
