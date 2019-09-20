@@ -6,6 +6,7 @@ excerpt: "Guías Desde Cero a Profesional de Programación, Software y Otros Con
 collection: guias
 permalink: /guias/
 author_profile: false
+sort_order: reverse
 sidebar:
 - title: "Menú Principal"
   nav: general
