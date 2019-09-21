@@ -336,12 +336,26 @@ Si se refiere a poder comprobar como un robot está trabajando sobre su sitio we
 
 
 ### ¿Dónde puedo conseguir un robot?
-Bueno, hoy en día desde Amazon podrás comprar [algún 🤖 de los de película](https://amzn.to/2LF4zPh). No, fuera bromas.. 
+Bueno, hoy en día desde Amazon podrás comprar [algún 🤖 de los de película](https://amzn.to/2LF4zPh). No, fuera bromas.. Si a lo que te refieres es al robot / bot rastreador; en la pregunta siguiente encontrarás la respuesta.
+
+Si por lo contrario, te refieres a un archivo [robots.txt](/robots.txt) 
 
 
 ### ¿Dónde puedo obtener el código fuente de un robot?
-
+Existen múltiples formas de implementar un software similar al de un buscador a través de compilar código o implementar diferentes librerías; en el artículo de los [motores de búsqueda de código abierto](/los-mejores-motores-busqueda-codigo-abierto) vas a tener la oportunidad de conocer más sobre cómo hacerlo y sobre todo algunas diferentes opciones.
 
 
 ### Estoy escribiendo un robot, ¿de qué debo tener cuidado?
-### He escrito un robot, ¿cómo lo enumero?
+Primero lee por completo la página [robots.txt](/robots-txt/) junto a las guías de indexación y rastreo creadas por Google que en la actualidad existen en español:
+- [Especificaciones de robots.txt](https://kutt.it/google-desarrollador-robots-txt)
+- [Especificaciones de metaetiquetas](https://kutt.it/google-desarrollador-meta-robots) ..de robots y del encabezado HTTP X-Robots-Tag
+
+Por último, puedes leer las actas de conferencias WWW y las especificaciones completas de HTML y HTTP. Algunos enlaces:
+- [Estándar HTML - Última actualización 20 de septiembre de 2019](https://kutt.it/estandar-html-actualizado-2019) 
+- Palabras clave para su uso en RFC para indicar el estado de los niveles de requisitos de este Memo [RFC2119](https://www.ietf.org/rfc/rfc2119.txt) por S. Bradner.
+En muchos documentos de seguimiento de estándares se utilizan varias palabras para indicar los requisitos en la especificación.
+
+- URL: Localizadores uniformes de recursos [RFC1738](https://www.ietf.org/rfc/rfc1738.txt) por T. Berners-Lee
+Este documento especifica un Localizador Uniforme de Recursos (URL), la sintaxis y semántica de información formalizada para ubicación y acceso de recursos a través de Internet.
+
+### He escrito un robot, ¿Cómo lo enumero?

@@ -1,6 +1,6 @@
 ---
 author: rosepac
-title: "Louis Pouzin, pionero en las creación de redes de comunicación por paquetes"
+title: "Louis Pouzin"
 description: 'Louis Pouzin, por el diseño y la implementación pionera de las redes de comunicación por paquetes que abrieron el camino hacia Internet.'
 excerpt: 'Louis Pouzin, por el diseño y la implementación pionera de las redes de comunicación por paquetes que abrieron el camino hacia Internet.'
 date: 2019-04-05
@@ -20,7 +20,9 @@ sidebar:
 
 ## All-Star Informático 2019
 
-> Premiado por el diseño y la implementación pioneros de las redes de comunicación por paquetes que abrieron el camino hacia Internet.
+Premiado por el diseño y la implementación pioneros de las redes de comunicación por paquetes que abrieron el camino hacia Internet.
+
+> Pionero en las creación de redes de comunicación por paquetes
 
 ### ✍ Biografía
 
@@ -46,5 +48,5 @@ Ese compromiso no significaba que ARPA había hecho las paces con Pouzin y los o
 
 El TCP / IP de ARPA no ganaría como Internet hasta finales de la década de 1980. Louis Pouzin continúa desarrollando protocolos de red, incluidas alternativas radicales a TCP / IP y el Sistema de nombres de dominio (.com, .org, .edu, etc.). Ha recibido muchos honores principales por su trabajo en el datagrama.
 
-**Fuente**: Bajo permiso de utilización y reconocimiento cortesía del [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
+**Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

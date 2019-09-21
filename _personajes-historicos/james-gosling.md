@@ -1,6 +1,6 @@
 ---
 author: rosepac
-title: "James Gosling, inventor del lenguaje de programación Java"
+title: "James Gosling"
 description: 'James Gosling, premiado por la concepción, diseño e implementación del lenguaje de programación Java.'
 excerpt: 'James Gosling, premiado por la concepción, diseño e implementación del lenguaje de programación Java.'
 date: 2019-04-05
@@ -20,7 +20,9 @@ sidebar:
 
 ## All-Star Informático 2019
 
-> Premiado por la concepción, diseño e implementación del lenguaje de programación Java.
+Premiado por la concepción, diseño e implementación del lenguaje de programación Java.
+
+> Inventor del lenguaje de programación Java
 
 ### ✍ Biografía
 
@@ -42,5 +44,5 @@ Java se ha convertido en el lenguaje de programación más popular utilizado hoy
 
 Es ampliamente utilizado en la educación en informática. Gosling dejó Sun justo después de que Oracle adquirió la compañía en 2010, trabajando brevemente en Google y luego en Liquid Robotics, una compañía que fabrica robots autónomos oceánicos utilizados en investigación oceanográfica y atmosférica. Se unió a Amazon Web Services como ingeniero distinguido en mayo de 2017.
 
-**Fuente**: Bajo permiso de utilización y reconocimiento cortesía del [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
+**Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

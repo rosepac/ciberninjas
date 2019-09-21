@@ -1,6 +1,6 @@
 ---
 author: rosepac
-title: "Katherine Johnson, matemática encargada de cálculos espaciales del primer viaje de la humanidad a la Luna"
+title: "Katherine Johnson"
 description: 'Katherine Johnson, premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.'
 excerpt: 'Katherine Johnson, premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.'
 date: 2019-04-05
@@ -20,7 +20,9 @@ sidebar:
 
 ## All-Star Informático 2019
 
-> Premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.
+Premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.
+
+> Matemática encargada de cálculos espaciales del primer viaje de la humanidad a la Luna
 
 ### ✍ Biografía
 
@@ -38,5 +40,5 @@ Johnson ayudó a calcular la trayectoria de la misión Apolo 11 que llevó a los
 
 Katherine Johnson es vista a menudo como una de las figuras más importantes para representar a las mujeres en ciencia y tecnología y fue una de las mujeres descritas en el libro Hidden Figures de Margot Lee Shetterly. El libro inspiró una película nominada al Oscar del mismo nombre lanzada en 2016. Ha recibido muchos honores por su trabajo con la NASA, incluida la Medalla Nacional de la Libertad, otorgada por el presidente Barack Obama, en 2015.
 
-**Fuente**: Bajo permiso de utilización y reconocimiento cortesía del [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
+**Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

@@ -1,6 +1,6 @@
 ---
 author: rosepac
-title: "Dame Stephanie Shirley, promotora de la industria del software y la inserción de la mujer en la informática"
+title: "Dame Stephanie Shirley"
 description: 'Dame Stephanie Shirley, por toda una vida de emprendimiento promoviendo el crecimiento de la industria del software y el avance de las mujeres en la informática.'
 excerpt: 'Dame Stephanie Shirley, por toda una vida de emprendimiento promoviendo el crecimiento de la industria del software y el avance de las mujeres en la informática.'
 date: 2018-04-05
@@ -20,7 +20,9 @@ sidebar:
 
 ## All-Star Informático 2018
 
-> Premiada por toda una vida de emprendimiento promoviendo el crecimiento de la industria de software del Reino Unido y el avance de las mujeres en la informática.
+Premiada por toda una vida de emprendimiento promoviendo el crecimiento de la industria de software del Reino Unido y el avance de las mujeres en la informática.
+
+> Promotora de la industria del software y la inserción de la mujer en la informática
 
 ### ✍ Biografía
 
@@ -36,5 +38,5 @@ La compañía, que se había convertido en F International, entró a bolsa en la
 
 Además de recibir docenas de honores, Shirley es ex presidente de la British Computer Society y miembro de la Royal Academy of Engineering. Ella ha regalado la mayor parte de su riqueza a causas filantrópicas, incluido un donativo de £ 10 millones para fundar el Oxford Internet Institute.
 
-**Fuente**: Bajo permiso de utilización y reconocimiento cortesía del [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
+**Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

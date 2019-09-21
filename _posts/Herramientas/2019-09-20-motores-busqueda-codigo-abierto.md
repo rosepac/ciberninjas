@@ -8,13 +8,13 @@ author: rosepac
 comments: true
 date: 2019-07-18 05:07:26
 header:
-  overlay_image: /assets/images/generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg
+  overlay_image: '/assets/images/generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg'
   overlay_filter: 0.2
   image_description: 'Generar código para insertar una imagen o fotografía de Google Photos | ROSEPAC'
   caption: "**Créditos**: Creación propia / ROSEPAC"
 tags:
-- Imágenes
-- Google Photos
+- Motores
+- Búsqueda
 categories:
 - Herramientas
 permalink: /los-mejores-motores-busqueda-codigo-abierto

@@ -1,6 +1,6 @@
 ---
 author: rosepac
-title: "Leslie Lamport, inventor del sistema de producción de documentos LaTeX"
+title: "Leslie Lamport"
 description: 'Leslie Lamport, premiado por sus contribuciones al análisis y diseño de sistemas informáticos distribuidos, y por la creación inicial del sistema de producción de documentos LaTeX.'
 excerpt: 'Leslie Lamport, premiado por sus contribuciones al análisis y diseño de sistemas informáticos distribuidos, y por la creación inicial del sistema de producción de documentos LaTeX.'
 date: 2019-04-05
@@ -20,7 +20,9 @@ sidebar:
 
 ## All-Star Informático 2019
 
-> Premiado por sus contribuciones al análisis y diseño de sistemas informáticos distribuidos, y por la creación inicial del sistema de producción de documentos LaTeX.
+Premiado por sus contribuciones al análisis y diseño de sistemas informáticos distribuidos, y por la creación inicial del sistema de producción de documentos LaTeX.
+
+> Inventor del sistema de producción de documentos LaTeX
 
 ### ✍ Biografía
 
@@ -42,5 +44,5 @@ Otra área en la que realizó importantes contribuciones fue con la noción de t
 
 Las otras contribuciones de Lamport son igualmente profundas y fundamentales para la informática. Si usa una computadora hoy, se beneficia del pensamiento profundo de Lamport y de sus algoritmos fundamentales.
 
-**Fuente**: Bajo permiso de utilización y reconocimiento cortesía del [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
+**Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

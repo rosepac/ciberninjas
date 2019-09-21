@@ -1,6 +1,6 @@
 ---
 author: rosepac
-title: "Guido Van Rossum, inventor del lenguaje de programación Python"
+title: "Guido Van Rossum"
 description: 'Guido Van Rossum, creación y evolución del lenguaje de programación Python y para el liderazgo de su comunidad.'
 excerpt: 'Guido Van Rossum, creación y evolución del lenguaje de programación Python y para el liderazgo de su comunidad.'
 date: 2018-08-29
@@ -20,7 +20,9 @@ sidebar:
 
 ## All-Star Informático 2018
 
-> Premiada por la creación y evolución del lenguaje de programación Python y para el liderazgo de su comunidad.
+Premiada por la creación y evolución del lenguaje de programación Python y para el liderazgo de su comunidad.
+
+> Inventor del lenguaje de programación Python
 
 ### ✍ Biografía
 
@@ -37,5 +39,5 @@ Desde que creó Python en código abierto, Van Rossum ha aceptado el título de 
 
 Desde su graduación en 1982 con una maestría en matemáticas y ciencias de la computación de la Universidad de Amsterdam, Van Rossum ha pasado su vida como programador, primero en los Países Bajos, luego en los Estados Unidos en el NIST y CNRI, Google y, desde enero 2013, en Dropbox. En 2006, la ACM lo reconoció como ingeniero distinguido.
 
-**Fuente**: Bajo permiso de utilización y reconocimiento cortesía del [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
+**Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

@@ -232,5 +232,5 @@ Los iconos usados a lo largo de la línea de tiempo, poseen una [simbología](/g
 👨‍❤️‍💋‍👨 Cultura Popular
 Software & Lenguajes de Programación
 
-**Fuente**: Bajo permiso de utilización y reconocimiento cortesía del [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") línea de tiempo [original en inglés](https://www.computerhistory.org/timeline/)
+**Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") línea de tiempo [original en inglés](https://www.computerhistory.org/timeline/)
 {: .notice--info}
