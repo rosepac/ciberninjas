@@ -35,6 +35,13 @@ vteca:
   - title: "🎮 Videojuegos Trailers"
     url: /categoria/#v%C3%ADdeo-videojuegos
 
+# Páginas relacionadas a la sección del catálogo o tienda :D
+tienda:
+  - title: "Libros de Texto"
+    url: /catalogo/libros-educativos/
+  - title: "Playlist Programar"
+    url: /catalogo/libreria/
+
 # Radio es el Menú de toda mi música dividida en Apartados :D
 radio:
   - title: "R & B Americano"

@@ -2,7 +2,8 @@
 title: "\U0001F4DA La Librería de Libros Recomendados"
 description: "\U0001F3EA La Librería de Libros Recomendados Más Completa & Mucho Más"
 excerpt: "\U0001F4DA La Librería de Libros Recomendados Más Completa & Mucho Más"
-permalink: /libreria/
+permalink: /catalogo/libreria/
+canonical_URL: https://ciberninjas.com/catalogo/libreria/
 sidebar:
 - title: "Menú Principal"
   nav: general

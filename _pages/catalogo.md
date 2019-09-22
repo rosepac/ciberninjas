@@ -7,11 +7,11 @@ author_profile: false
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
-toc_sticky: true
+toc_sticky: false
 permalink: /catalogo/
 sidebar:
-- title: "Menú Principal"
-  nav: general
+- title: "Otros"
+  nav: tienda
 ---
 
 <!-- IMPORTANTE: RECORDAR NO CAMBIAR TITULOS POR SI HAN SIDO COMPARTIDOS EN OTRO LUGAR, COLOCAR ICONO AL FINAL DE ENLACES DE CATEGORIAS. SOLO AL PRINCIPIO DENTRO DE LAS CATEGORIAS GLOBALES. TITULOS DE NIVEL 3, ICONOS DE FONT AWESOME -->
@@ -70,6 +70,22 @@ sidebar:
 14. Diseño e implementación con Swift Playgrounds
 
 
+## 👩‍🏫 Educación y Programación
+
+## Scratch
+
+Super Scratch: ¡El método más fácil y divertido para aprender a programar! (https://amzn.to/2OowjK3)
+Scratch. Aprende a programar jugando (https://amzn.to/2Ma07aa)
+Scratch para niños... Y no tan niños (https://amzn.to/30BjRJ6)
+Piensa y programa con Scratch... en casa y en clase (https://amzn.to/2OcFGfC)
+Programación con Scratch. Cuaderno (https://amzn.to/2Nsxqss)
+Diseño de videojuegos con Scratch. Cuaderno (https://amzn.to/2OdWrXN)
+Programar con Scratch ¡Mola! (https://amzn.to/2NtbpJU)
+Star Wars Proyectos de programación (https://amzn.to/2ObM9Y2)
+
+
+
+
 ## 👮‍♀️ Seguridad
 
 ## Seguridad Inform&aacute;tica 🔐
@@ -108,15 +124,18 @@ INGLÉS
 
 ## 👷‍♂️ Webmaster
 
-- [Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente](https://amzn.to/2Ll5N0K)
 - [CRO. Diseño y desarrollo de negocios digitales](https://amzn.to/2ZnFdOu)
-- [El Arte de Medir](https://amzn.to/34nO2H0)
-- [Google Analytics. Mide y Vencerás](https://amzn.to/2Pq0xhG)
-- [Posicionamiento y Google Analytics. Pack de 2 libros](https://amzn.to/2La9UOu)
 - [Visibilidad Online - Marketing Digital 2019](https://amzn.to/2L9jZuU)
 
 
 ## Analítica Web
+
+- [Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente](https://amzn.to/2Ll5N0K)
+- [El Arte de Medir](https://amzn.to/34nO2H0)
+- [Google Analytics. Mide y Vencerás](https://amzn.to/2Pq0xhG)
+- [Posicionamiento y Google Analytics. Pack de 2 libros](https://amzn.to/2La9UOu)
+
+
 ## Marketing en Redes Sociales 🏪 
 
 - [101 Consejos y Estrategias de Facebook Marketing](https://amzn.to/2ZqWeqT)

@@ -16,12 +16,12 @@
 
 # Configuración de la Web
 locale: "es-ES"
-title: Ciberninjas ▷ Escuela Digital
+title: Ciberninjas ▷ Escuela de Tecnología
 subtitle: Escuela Digital
 email: rosepac21@gmail.com
 name: "Pablo Álvarez Corredera"
 description: >- # this means to ignore newlines until "baseurl:"
-  'Educación del Siglo XXI. Aprender Desarrollo Web, Blockchain, AI, Diseño Gráfico y Seguridad. Guías y Tutoriales de Programación y Frameworks. Cursos, Libros, PDF, Vídeos & Más.'
+  'Escuela de Tecnología y el Saber. Programación, Diseño e Innovación. Aprender Desarrollo Web, Blockchain, AI, Diseño Gráfico, 3D, Seguridad, Etc.'
 url: "https://ciberninjas.com"
 # baseurl:
 repository: "rosepac/ciberninjas"
@@ -36,20 +36,23 @@ minimal_mistakes_skin: default # default, air, aqua, contrast, dark, dirt, neon,
 author:
   name   : "Pablo Álvarez Corredera"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Bibliotecario de Internet. Documentalista Digital."
+  bio    : "Documentalista Digital. Educación Siglo XXI. Bibliotecario de Internet."
   links:
     - label: "Café"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://paypal.me/ciberninjas"
-    - label: "rosepac"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/rosepac"
+    - label: "CiberCursos"
+      icon: "fas fa-fw fa-tools"
+      url: "https://kutt.it/recursos-globales"
     - label: "CiberAprendiz"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ciberaprendiz"
     - label: "CiberCursos"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/cibercursos"
+    - label: "rosepac"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rosepac"
 
 search: true
 search_full_content: true
