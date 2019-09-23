@@ -1,25 +1,23 @@
 ---
 author_profile: false
-title: "👨‍🏫 Curso de TITULO con AUTOR"
-description: "🚀 Curso de TITULO con AUTOR"
-excerpt: "🚀 Curso de TITULO con AUTOR"
-permalink: /curso-
-canonical_URL: https://ciberninjas.com/curso-
+title: "👨‍🏫 Curso de Scratch con Javier Fernández"
+description: "😼 Curso de Scratch con Javier Fernández, programación para niñas / niños."
+excerpt: "😼 Curso de Scratch con Javier Fernández, programación para niñas / niños."
+permalink: /curso-scratch-javier-fernandez
+canonical_URL: https://ciberninjas.com/curso-scratch-javier-fernandez
 header:
   video:
-    id: playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW
+    id: playlist?list=PLC1DF2992C6235307
     provider: youtube
 comments: true
-date: FECHA
+date: 2019-06-29
 tags:
-# Creador, Editorial, Temática, Tipo de Música
-- AUTOR
-- TEMA
+# Javier Fernández, Editorial, Temática, Tipo de Música: SEO, 
+- Javier Fernández
+- Scratch
 categories:
-- Videotutorial TEMATICA
+- Videotutorial Android Studio
 sidebar:
 - title: "Menú Videotutoriales"
   nav: vtuto
 ---
-
-## Índice
