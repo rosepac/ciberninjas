@@ -13,7 +13,7 @@ comments: true
 date: 2017-10-20
 tags:
 # Autor, Editorial, Temática, Tipo de Música: SEO, 
-- 
+- CursoTutorial
 - Scratch
 categories:
 - Videotutorial Scratch
