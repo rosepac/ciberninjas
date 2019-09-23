@@ -16,7 +16,7 @@ tags:
 - Javier Fernández
 - Scratch
 categories:
-- Videotutorial Android Studio
+- Videotutorial Scratch
 sidebar:
 - title: "Menú Videotutoriales"
   nav: vtuto
