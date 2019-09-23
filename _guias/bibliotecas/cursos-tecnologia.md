@@ -26,7 +26,7 @@ He aquí un listado completo de todos los diferentes cursos existentes alrededor
 
 En la actualidad son más de 800 cursos, organizados por diferentes temáticas. Impartidos a través de las Universidades de **educación digital: como Miriadax, Udemy, EDX**, o **cursos de formación abierta/MOOC** dentro de los repositorios universitarios de las universidades más importantes del mundo de habla hispana.
 
-## 👨‍🏫 Aprendizaje de Programación
+## 👦 Programación Infantil
 
 - [Curso de Scratch](/curso-scratch-javier-fernandez) (2014. Javier Fernández, Youtube)
 - [Introducción a la programación con Scratch](https://www.udemy.com/introduccion-a-la-programacion-con-scratch) (Udemy)

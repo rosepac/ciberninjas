@@ -34,7 +34,7 @@ toc_sticky: false
 * [Universidad Autónoma de Mexico - Plan (2016)](https://kutt.it/apuntes-pdf-universidad-mexico)
 
 
-## 👨‍🏫 Aprendizaje de Programación
+## 👦 Programación Infantil
 ## Scratch
 
 * [Animar un Nombre](https://resources.scratch.mit.edu/www/cards/es/name-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/NameGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=name)
