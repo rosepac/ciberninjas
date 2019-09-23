@@ -2,7 +2,7 @@
 title: "🛒 👩‍🏫 Catálogo de Libros Educativos"
 description: "Catálogo Completo: Listado de Libros Educativos de Formación Profesional sobre Programación, Informática, Tecnología y Artes Gráficas."
 excerpt: "Catálogo Completo: Listado de Libros Educativos de Programación, Informática, Tecnología y Artes Gráficas."
-published: false
+published: true
 author_profile: false
 last_modified_at: 2019-09-22
 toc: true

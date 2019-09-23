@@ -589,10 +589,16 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 
 ## Scratch
 
+* [Animar un Nombre](https://resources.scratch.mit.edu/www/cards/es/name-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/NameGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=name)
+* [Animar un Personaje](https://resources.scratch.mit.edu/www/cards/es/animation-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/AnimateGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=animate-a-character)
 * [Cartas de Aprendizaje de Pasos Sencillos en Scratch](https://resources.scratch.mit.edu/www/cards/es/scratch-cards-all.pdf) (PDF)
+* [Crear Historia](https://resources.scratch.mit.edu/www/cards/es/story-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/StoryGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=tell-a-story)
+* [Crear Juego de Persecución](https://resources.scratch.mit.edu/www/cards/es/chase-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/ChaseGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=chase-game)
+* [Crear Música](https://resources.scratch.mit.edu/www/cards/es/music-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/MusicGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=music)
 * [Guía de Referencia de Scratch 2.0](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/ScratchGuiaReferencia.pdf) (PDF)
 * [Manual de Scratch](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/manual%20scratch.pdf) (PDF)
 * [Manual de Scratch 2](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf)  (PDF)
+* [Sensor de Vídeo](https://resources.scratch.mit.edu/www/cards/es/video-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/VideoGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=video-sensing)
 
 
 ## SQL
