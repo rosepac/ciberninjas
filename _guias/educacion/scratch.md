@@ -1,7 +1,7 @@
 ---
 title: 👨‍💻 ▷ Cómo Aprender Scratch desde Cero
-description: "📌  Cómo Aprender Scratch desde Cero."
-excerpt: "📌 Cómo Aprender Scratch desde Cero."
+description: "😼  Cómo Aprender Scratch desde Cero."
+excerpt: "😼 Cómo Aprender Scratch desde Cero."
 published: false
 comments: true
 date: 2018-03-01
