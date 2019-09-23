@@ -8,8 +8,10 @@ entries_layout: default
 last_modified_at: 2019-09-11T16:20:02-05:00
 collection: personajes-historicos
 permalink: /personajes-historicos/
+canonical_URL: https://ciberninjas.com/personajes-historicos/
 sort_by: date # (default) title
 sort_order: reverse
+classes: wide
 published: true
 author_profile: false
 toc: true

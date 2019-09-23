@@ -6,6 +6,7 @@ excerpt: '🗄 La Historia de la Computadora y Todo lo que Debes Saber Sobre la 
 entries_layout: default
 collection: historia-computadora
 permalink: /historia-computadora/
+canonical_URL: https://ciberninjas.com/historia-computadora/
 sort_by: date # (default) title
 sort_order: reverse
 classes: wide
