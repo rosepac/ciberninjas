@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://ciberninjas.com"
 # baseurl:
 repository: "rosepac/ciberninjas"
-teaser: "/assets/images/cursos_estudiar_ideas560x.jpg"
+# teaser: "/assets/images/cursos_estudiar_ideas560x.jpg"
 logo: "/assets/images/logos/ciberninjas_avatar_88x88.png"
 masthead_title: "Ciberninjas"
 twitter_username: ciberaprendiz
