@@ -589,6 +589,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 
 ## Scratch
 
+* [Cartas de Aprendizaje de Pasos Sencillos en Scratch](https://resources.scratch.mit.edu/www/cards/es/scratch-cards-all.pdf) (PDF)
 * [Guía de Referencia de Scratch 2.0](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/ScratchGuiaReferencia.pdf) (PDF)
 * [Manual de Scratch](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/manual%20scratch.pdf) (PDF)
 * [Manual de Scratch 2](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf)  (PDF)

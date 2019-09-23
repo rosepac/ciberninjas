@@ -484,7 +484,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 
 
 
-### Código Global <i class="fas fa-code"></i>
+### Código y Programación Global <i class="fas fa-code"></i>
 
 - [¿Por dónde empezar con el desarrollo web? Empieza aquí](https://www.udemy.com/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html) (Udemy)
 - [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
@@ -744,8 +744,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 <a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
 
-## Redes de telefonía 🕸 📞
-
+## 📞 Redes de Telefonía
 - [Antenas y telescopios: control de seguimiento (2012)](https://ocw.ehu.eus/course/view.php?id=45) (OCW)
 - [Comunicaciones Digitales (2012)](http://ocw.uma.es/ingenierias/Comunicacion-digital) (OCW)
 - [Comunicaciones en audio y vídeo (2010)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/comunicaciones-en-audio-y-video) (OCW)
@@ -865,7 +864,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 <a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
 
-## Servidores y Servicios en nube 🏩 ⚙ 🌤
+## ⛅ Servidores y Servicios en nube
 
 - [Acceso y protección de información en Windows Server 2012 R2](https://mva.microsoft.com/es-es/training-courses/acceso-y-proteccin-de-informacin-en-windows-server-2012-r2-8266) (Microsoft Virtual Academy)
 - [Administración de cargas de trabajo de Linux en Windows Server y System Center](https://mva.microsoft.com/es-es/training-courses/administracin-de-cargas-de-trabajo-de-linux-en-windows-server-y-system-center-8764) (Microsoft Virtual Academy)
@@ -956,7 +955,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 <a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
 
-## Sistemas de Gestión de Contenidos y ERP 📖 ✍
+## ✍ Sistemas de Gestión de Contenidos y ERP
 
 - [Ajax en Wordpress para desarrolladores web. Avanzado](https://www.udemy.com/ajax-para-wordpress) (Udemy)
 - [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4) (Udemy)
@@ -998,7 +997,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 <a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
 
-## Técnico de Software & Hardware 🖥 🖨 🖱
+## 👨‍🔧 Técnico de Software & Hardware
 
 - [Active Directory: habilidades básicas](https://mva.microsoft.com/es-es/training-courses/active-directory-habilidades-bsicas-14772) (Microsoft Virtual Academy)
 - [Administración de sistemas operativos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6842&p_caca=2010) (OCW)
@@ -1052,7 +1051,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 <a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
 
-## Videojuegos 🕹 🎮
+## 🎮 Videojuegos
 
 - [Aprende a crear plugins Bukkit y Spigot usando Skript](https://www.udemy.com/aprende-a-crear-plugins-bukkit-y-spigot-usando-skript) (Udemy)
 - [Crea juegos en línea usando Windows Azure Mobile Services](https://mva.microsoft.com/es-es/training-courses/crea-juegos-en-lnea-usando-windows-azure-mobile-services-11020) (Microsoft Virtual Academy)
