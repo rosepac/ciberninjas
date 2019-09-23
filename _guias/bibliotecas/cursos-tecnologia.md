@@ -26,6 +26,15 @@ He aquí un listado completo de todos los diferentes cursos existentes alrededor
 
 En la actualidad son más de 800 cursos, organizados por diferentes temáticas. Impartidos a través de las Universidades de **educación digital: como Miriadax, Udemy, EDX**, o **cursos de formación abierta/MOOC** dentro de los repositorios universitarios de las universidades más importantes del mundo de habla hispana.
 
+## 👨‍🏫 Aprendizaje de Programación
+
+- [Curso de Scratch](/curso-scratch-javier-fernandez) (2014. Javier Fernández, Youtube)
+- [Introducción a la programación con Scratch](https://www.udemy.com/introduccion-a-la-programacion-con-scratch) (Udemy)
+- [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed) (MiriadaX)
+- [Scratch, su Historia y Cómo usarlo junto a Arduino](/scratch-historia-como-usarlo-junto-a-arduino)
+- [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar) (Coursera)
+
+
 ## 🗃 Ciencia de Datos
 
 ## Bases de Datos 📁
@@ -1057,13 +1066,11 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Crea juegos en línea usando Windows Azure Mobile Services](https://mva.microsoft.com/es-es/training-courses/crea-juegos-en-lnea-usando-windows-azure-mobile-services-11020) (Microsoft Virtual Academy)
 - [Crea tu primer videojuego](https://www.udemy.com/crea-tu-primer-videojuego) (Udemy)
 - [Creación de videojuegos para Windows 8.1 usando Gamer Marker](https://mva.microsoft.com/es-es/training-courses/creacin-de-videojuegos-para-windows-81-usando-game-maker-studio-8589) (Microsoft Virtual Academy)
-- [Curso de Scratch, Javier Fernandez](https://www.youtube.com/playlist?list=PLC1DF2992C6235307) (Javier Fernández, Youtube)
 - [Desarrolla tu primera aplicación para Kinect V2 con Visual Studio](https://mva.microsoft.com/es-es/training-courses/desarrolla-tu-primera-aplicacin-para-kinect-v2-con-visual-studio-11226) (Microsoft Virtual Academy)
 - [Desarrollo de Apps sin saber programación](https://campusvirtual.ull.es/ocw/course/view.php?id=128) (OCW)
 - [Diseño, organización y evaluación de videojuegos y gamificación](https://miriadax.net/web/diseno-organizacion-y-evaluacion-de-videojuegos-y-gamificacion-3-edicion-_201604220800) (MiriadaX)
 - [Hora del Código con TouchDevelop](https://mva.microsoft.com/es-es/training-courses/hora-del-cdigo-con-touchdevelop-8401) (Microsoft Virtual Academy)
 - [Introducción a la gamificación sobre casos prácticos](https://miriadax.net/web/introduccion-a-la-gamificacion-a-traves-de-casos-practicos) (MiriadaX)
-- [Introducción a la programación con Scratch](https://www.udemy.com/introduccion-a-la-programacion-con-scratch) (Udemy)
 - [Introducción al desarrollo de videojuegos con Unity](https://www.edx.org/course/introduccion-al-desarrollo-de-upvalenciax-uny201-x-1) (edx)
 - [Introducción al desarrollo de videojuegos con Unity3D (2016)](http://ocw.uji.es/curso/1434149) (OCW)
 - [Introducción al diseño de videojuegos](https://miriadax.net/web/introduccion-al-diseno-de-videojuegos-2-edicion-) (MiriadaX)
@@ -1079,7 +1086,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Programación Unity [2\]: Clases time y vector3](https://www.udemy.com/libreria-unity-engine-2-clases-time-y-vector3) (Udemy)
 - [Programación Unity [3\]: Clase input](https://www.udemy.com/libreria-unity-engine-3-clase-input) (Udemy)
 - [Programación Unity [4\]: Clase transform](https://www.udemy.com/libreria-unity-engine-4-clase-transform) (Udemy)
-- [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar) (Coursera)
 - [Tu primer videojuego 2D multiplataforma con Unity 5](https://www.udemy.com/unity-5-primer-videojuego-2d-multiplataforma) (Udemy)
 - [Unity 5: Creando un juego para PC](https://www.udemy.com/curso-unity-5-creando-un-juego-para-pc) (Udemy)
 - [Unreal Engine para principiantes](https://www.udemy.com/unreal-engine-principiantes) (Udemy)
