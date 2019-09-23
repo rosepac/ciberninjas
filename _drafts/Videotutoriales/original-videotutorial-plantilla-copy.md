@@ -1,8 +1,8 @@
 ---
 author_profile: false
 title: "👨‍🏫 Curso de App Inventor y Android con Programamos"
-description: "🚀 Crea Tu Primera Aplicación Web: Curso de App Inventor / Android con Programamos"
-excerpt: "🚀 Crea Tu Primera Aplicación Web: Curso de App Inventor / Android con Programamos"
+description: "📲 Crea Tu Primera Aplicación Web: Curso de App Inventor / Android con Programamos"
+excerpt: "📲 Crea Tu Primera Aplicación Web: Curso de App Inventor / Android con Programamos"
 permalink: /curso-app-inventor-android-con-programamos
 canonical_URL: https://ciberninjas.com/curso-app-inventor-android-con-programamos
 header:
