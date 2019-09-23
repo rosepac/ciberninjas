@@ -12,7 +12,7 @@ header:
 comments: true
 date: FECHA
 tags:
-# Autor, Editorial, Temática, Tipo de Música: SEO, 
+# Creador, Editorial, Temática, Tipo de Música
 - AUTOR
 - TEMA
 categories:
