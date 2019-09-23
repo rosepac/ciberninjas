@@ -1,5 +1,5 @@
 ---
-title: 🤖 ▷ La Guía Web de robots.txt
+title: 🤖 ▷ La Guía Web de robots y robots.txt
 description: "🔍 🕷 Buscadores, vamos a aprender todo lo necesario sobre las arañas de robots.txt "
 excerpt: "🔍 🕷 Buscadores, vamos a aprender todo lo necesario sobre las arañas de robots.txt "
 published: true

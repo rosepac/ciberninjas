@@ -13,7 +13,7 @@ permalink: /catalogo/libros-texto/
 canonical_URL: https://ciberninjas.com/catalogo/libros-texto/
 sidebar:
 - title: "Menú Principal"
-  nav: general
+  nav: tienda
 ---
 
 ## Informática y Comunicaciones
