@@ -70,7 +70,7 @@ sidebar:
 14. Diseño e implementación con Swift Playgrounds
 
 
-## 👩‍🏫 Educación y Programación
+## 👦 Programación Infantil
 
 ## Scratch
 
@@ -82,8 +82,6 @@ Programación con Scratch. Cuaderno (https://amzn.to/2Nsxqss)
 Diseño de videojuegos con Scratch. Cuaderno (https://amzn.to/2OdWrXN)
 Programar con Scratch ¡Mola! (https://amzn.to/2NtbpJU)
 Star Wars Proyectos de programación (https://amzn.to/2ObM9Y2)
-
-
 
 
 ## 👮‍♀️ Seguridad
