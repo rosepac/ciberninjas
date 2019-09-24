@@ -20,9 +20,10 @@ sidebar:
 - title: "Menú Principal"
   nav: general
 ---
-## Quién es _**rosepac**_
 
 Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas conocer un poco más sobre ello; hace algún tiempo escribí la historia del [origen de mi nombre en Internet](https://steemit.com/mysteemitname/@rosepac/el-origen-de-mi-nombre-rosepac "El Origen de mi Nombre/Nickname: ROSEPAC") además, en la misma publicación puedes comenzar a conocer en profundidad una pequeña parte de mi y de mis pensamientos.
+
+## Quién es _**rosepac**_
 
 Mi nombre real, es Pablo Álvarez Corredera, abreviado PAC. Soy asturiano; en mi [página web](https://www.pabloalvarezcorredera.com "Asturias, SEO y Posicionamiento. La Biblia del Seo y Posicionamiento en Español") he creado un pequeño proyecto de prueba sobre el SEO, que va en camino del fracaso..
 
