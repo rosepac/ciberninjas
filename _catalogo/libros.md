@@ -28,9 +28,28 @@ sidebar:
 - Servicios de Red en Linux [Tapa Blanda](https://amzn.to/2Ajn7OO) [Ebook](https://amzn.to/2Ne9zfI)
 - Superficiales: ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) - [Ebook](https://amzn.to/2KORsur)
 
+## 📁 Bases de Datos
+## Big Data 👨‍👩‍👦
+
+Big Data: Hacía la Cuarta Revolución Industrial (https://amzn.to/2mnv69y) [Ebook](https://amzn.to/2mmRJLC)
+
+
 ## 🕴 Empresa y Estrategia
 
 - [Más Allá del Cambio: Dominando el Futuro, Hoy]( https://amzn.to/2Qf4zd7) 
+
+
+## 🔬 Ciencias de la Computación
+
+- * [Hackear la política](https://amzn.to/2mqf26X) [Ebook](https://amzn.to/2kLxd6J)
+- Industria 4.0. La transformación digital en la industria (https://amzn.to/2mhtoGY)
+- La Carrera Contra la Máquina (https://amzn.to/2mpLS7Z)
+- La Cuarta Revolución Industrial (https://amzn.to/2mhoauQ) [Ebook](https://amzn.to/2mncuXe)
+- La Cuarta Revolución Industrial en España (https://amzn.to/2mov5Cc)
+- Las 20 tecnologías clave de La Industria 4.0 (https://amzn.to/2kIyjQE)
+- Las claves para afrontar la cuarta revolución industrial (https://amzn.to/2mLnTAp)
+- Hacia una Ingenieria 4.0: El rol de la ingeniería mexicana (https://amzn.to/2lhnZ2q)
+- La Transformación Digital Centrada en la Persona (https://amzn.to/2l6lgZL) [Ebook](https://amzn.to/2l6mc0d)
 
 
 ## 👩‍💻 Desarrollo Web
@@ -66,6 +85,11 @@ sidebar:
 12. Recetario Swift de desarrollo de juegos en iOS [Tapa Blanda](https://amzn.to/2PjP7Mh) - [Ebook](https://amzn.to/2HAjZSG)
 13. [Simulaciones en Swift 5](https://amzn.to/2LldaVU)
 14. Diseño e implementación con Swift Playgrounds
+
+
+## 📺 Marketing
+
+Marketing y la cuarta revolución industrial (https://amzn.to/2mmHmra) [Ebook](https://amzn.to/2liK8gF)
 
 
 ## 👦 Programación Infantil

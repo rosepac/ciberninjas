@@ -35,9 +35,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar) (Coursera)
 <!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
 
-## 🗃 Ciencia de Datos
-
-## Bases de Datos 📁
+## 📁 Bases de Datos
 
 - [Acceso a base de datos (2017)](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/acceso-a-bases-de-datos-en-java) (OCW)
 - [Administración de base de datos](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/administracion-de-bases-de-datos) (OCW)

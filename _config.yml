@@ -16,12 +16,12 @@
 
 # Configuración de la Web
 locale: "es-ES"
-title: Ciberninjas ▷ Escuela de Tecnología
-subtitle: Escuela Digital
+title: Ciberninjas ▷ Escuela Laboratorio
+subtitle: Escuela Laboratorio
 email: rosepac21@gmail.com
 name: "Pablo Álvarez Corredera"
 description: >- # this means to ignore newlines until "baseurl:"
-  'Escuela de Tecnología y el Saber. Programación, Diseño e Innovación. Aprender Desarrollo Web, Blockchain, AI, Diseño Gráfico, 3D, Seguridad, Etc.'
+  'Escuela Laboratorio de Tecnología Digital. Lab School. Programación, Diseño e Innovación. Desarrollo Web, Blockchain, AI, Diseño Gráfico, 3D, Seguridad, Etc.'
 url: "https://ciberninjas.com"
 # baseurl:
 repository: "rosepac/ciberninjas"

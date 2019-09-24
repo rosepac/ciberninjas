@@ -25,29 +25,22 @@ toc_sticky: false
 
 * [Aprender Python](https://kutt.it/meta-aprendiendo-python) - Python Argentina
 * [Apuntes Completos de Desarrollo Web](https://kutt.it/apuntes-desarrollo-web-jorge) - Jorge Sánchez
+* [Bibliotecas de Libros Digitales en Abierto](/libros-educación)
+* [Biblioteca Virtual: Miguel de Cervantes](http://www.cervantesvirtual.com)
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://kutt.it/apuntes-aplicaciones-web-comesana) - José Luis Comesaña (Github)
 * [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://kutt.it/web-javier-escobedo) - Javier García Escobedo
 * [Gitbook - Libros útiles en español](https://kutt.it/gitbook-libros-espanol) (Github)
 * [Múltiples Cursos y Enlaces de Tecnología Informática](https://kutt.it/web-fernando-berzal) - Fernando Berzal
 * [OpenLibra - Biblioteca recopilatorio de libros libres](https://kutt.it/open-libra-espanol)
+* [Revistas Científicas de Iberoamérica](https://www.latindex.unam.mx/latindex/inicio) [9700 Revistas](https://www.latindex.unam.mx/latindex/bAvanzada)
 * [TLDP: servicios editoriales para la documentación libre en español (2007)](http://es.tldp.org/index.html) (CICA)
 * [Universidad Autónoma de Mexico - Plan (2016)](https://kutt.it/apuntes-pdf-universidad-mexico)
+<!-- http://biblioweb.tic.unam.mx/ , https://www.julianmarquina.es/22-grandes-bibliotecas-digitales-en-espana-aunque-hay-muchas-mas/ http://portal.uned.es/portal/page?_pageid=93,511995&_dad=portal&_schema=PORTAL -->
 
+## Meta-Listas Cursos Masivos en Línea
 
-## 👦 Programación Infantil
-## Scratch
-
-* [Animar un Nombre](https://resources.scratch.mit.edu/www/cards/es/name-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/NameGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=name)
-* [Animar un Personaje](https://resources.scratch.mit.edu/www/cards/es/animation-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/AnimateGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=animate-a-character)
-* [Cartas de Aprendizaje de Pasos Sencillos en Scratch](https://resources.scratch.mit.edu/www/cards/es/scratch-cards-all.pdf) (PDF)
-* [Crear Historia](https://resources.scratch.mit.edu/www/cards/es/story-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/StoryGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=tell-a-story)
-* [Crear Juego de Persecución](https://resources.scratch.mit.edu/www/cards/es/chase-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/ChaseGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=chase-game)
-* [Crear Música](https://resources.scratch.mit.edu/www/cards/es/music-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/MusicGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=music)
-* [Guía de Referencia de Scratch 2.0](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/ScratchGuiaReferencia.pdf) (PDF)
-* [Manual de Scratch](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/manual%20scratch.pdf) (PDF)
-* [Manual de Scratch 2](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf)  (PDF)
-* [Sensor de Vídeo](https://resources.scratch.mit.edu/www/cards/es/video-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/VideoGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=video-sensing)
-
+* [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice) (Github)
+* [Miriadax](https://miriadax.net/cursos)
 
 
 ## 📁 Bases de Datos
@@ -74,10 +67,29 @@ toc_sticky: false
 * [Breves Notas sobre Teoría de la Computación](http://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) (PDF)
 * [Conceptos elementales de computadores](http://lorca.act.uji.es/libro/conceptos_elementales_de_computadores.pdf) (PDF)
 * [Control de efectos del retraso en sistemas de tiempo real planificados con EDF](https://www.ctr.unican.es/publications/jll-jcp-2005a.pdf) (PDF)
+* [Industria 4.0: Tendencias de la literatura académica reciente](http://revistaespacios.com/a19v40n30/a19v40n30p27.pdf) (2019) (PDF)
+* [La Cuarta Revolución Industrial Está Aquí - ¿Está usted preparado?](https://www2.deloitte.com/content/dam/Deloitte/co/Documents/about-deloitte/Revoluci%C3%B3n%204.0%20142201.pdf)
+* [La Cuarta Revolución Industrial, Un relato desde el materialismo cultural](http://repositorio.ual.es/bitstream/handle/10835/4809/LA%20CUARTA%20REVOLUCION%20INDUSTRIAL.pdf) (2016) (PDF)
 * [Metamodelo UML para el modelado de tiempo real de aplicaciones distribuidas basadas en componentes](https://www.ctr.unican.es/publications/plm-jmd-jlm-2006a.pdf) (PDF)
 * [Metodología de modelado de sistemas de tiempo real orientada a la componibilidad](https://www.ctr.unican.es/publications/jlm-plm-jmd-2005a.pdf) (PDF)
 * [Middleware de distribución y modelo transaccional en sistemas de tiempo real](https://www.ctr.unican.es/publications/jjg-mgh-jlc-2005a.pdf) (PDF)
 * [Una aproximación dirigida por modelos para diseñar y construir esquemas XML: Un caso de estudio.](http://www.redalyc.org/pdf/1331/133115019007.pdf) (PDF)
+
+
+## 👦 Programación Infantil
+## Scratch
+
+* [Animar un Nombre](https://resources.scratch.mit.edu/www/cards/es/name-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/NameGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=name)
+* [Animar un Personaje](https://resources.scratch.mit.edu/www/cards/es/animation-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/AnimateGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=animate-a-character)
+* [Cartas de Aprendizaje de Pasos Sencillos en Scratch](https://resources.scratch.mit.edu/www/cards/es/scratch-cards-all.pdf) (PDF)
+* [Crear Historia](https://resources.scratch.mit.edu/www/cards/es/story-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/StoryGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=tell-a-story)
+* [Crear Juego de Persecución](https://resources.scratch.mit.edu/www/cards/es/chase-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/ChaseGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=chase-game)
+* [Crear Música](https://resources.scratch.mit.edu/www/cards/es/music-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/MusicGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=music)
+* [Guía de Referencia de Scratch 2.0](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/ScratchGuiaReferencia.pdf) (PDF)
+* [Manual de Scratch](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/manual%20scratch.pdf) (PDF)
+* [Manual de Scratch 2](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf)  (PDF)
+* [Sensor de Vídeo](https://resources.scratch.mit.edu/www/cards/es/video-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/VideoGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=video-sensing)
+
 
 ## Algoritmos 🔡
 
@@ -93,7 +105,7 @@ toc_sticky: false
 * [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos) (Bubok)
 
 
-## CMS o Sistemas de Gestión de Conteidos
+## CMS o Sistemas de Gestión de Contenidos
 
 * [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?)
 
@@ -113,12 +125,6 @@ toc_sticky: false
 * [Mastering Bitcoin en Español](https://bitcoinbook.info/wp-content/translations/es/book.pdf)
 * [Riesgos y beneficios de las criptomonedas en la Economía Global (2017)](http://munesen.org/wp-content/uploads/2016/02/BANCO-MUNDIAL.pdf) (PDF)
 * [Tecnología Blockchain. Caso de estudio: el Bitcoin](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/04.pdf) (PDF)
-
-
-## Cursos Masivos en Línea
-
-* [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice) (Github)
-* [Miriadax](https://miriadax.net/cursos)
 
 
 ## Ecosistema de Código Abierto
@@ -200,11 +206,13 @@ toc_sticky: false
 ## Seguridad
 
 * [Activismo digital y telemático. Poder y contrapoder en el ciberespacio (2003)](http://www.seaceptanideas.com/wp-content/uploads/2016/07/Activismo_digital_y_telemC3A1tico.pdf) (PDF)
+* [Algunas consideraciones sobre seguridad de la Información en el Proyecto Europe de Historia Clínica Digital - Proyecto epSOS](https://dialnet.unirioja.es/servlet/articulo?codigo=3016235) (2009, Dialnet) (PDF)
 * [Análisis y modelado de amenazas](https://fortinux.com/wp-content/uploads/2010/12/Analisis-y-Modelado-de-Amenazas.pdf) (PDF)
 * [Ciber-Resiliencia: Aproximación a un marco de medición](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_ciber_resiliencia_marco_medicion.pdf) (PDF)
 * [Ciberseguridad en las Comunicaciones Inalámbricas en Entornos Industriales](https://www.certsi.es/sites/default/files/contenidos/guias/doc/certsi_ciberseguridad_comunicaciones_inalambricas_entornos_industriales.pdf) (PDF)
 * [Creando Reportes HTML en Powershell](https://leanpub.com/why-powershell-spanish?) (PDF)
 * [Detección de ATPs](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/deteccion_apt.pdf) (PDF)
+* [Determinación de aspectos clave de la seguridad de la información, procesos informáticos y recursos tecnológicos](http://revistaespacios.com/a19v40n30/a19v40n30p22.pdf)
 * [Diseño y configuración de IPS, IDS y SIEM en Sistemas de Control Industrial](https://www.certsi.es/sites/default/files/contenidos/guias/doc/certsi_diseno_configuracion_ips_ids_siem_en_sci.pdf) (PDF)
 * [Estudio de viabilidad, oportunidad y diseño de una red de centros de excelencia en I+D+I en ciberseguridad](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/informe_resumen_estudio_red_centros_excelencia.pdf) (PDF)
 * [Guía básica de protección de Infraestructuras Críticas: el puesto de operador](https://www.certsi.es/sites/default/files/contenidos/guias/doc/int_cnpic_proteccion_puesto_operador.pdf) (PDF)
@@ -262,7 +270,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Secretos de Powershell Remoting](https://leanpub.com/secrets-of-powershell-remoting-spanish?)
 
 
-## Anotaciones y TRanscripciones
+## Anotaciones y Transcripciones
 * [Introducción a ELAN](http://idiom.ucsd.edu/~jfernand/Papers/ELAN.pdf) (PDF)
 * [Manual de Procesamiento de Archivos ELAN](http://pyersqr.org/minimal/Manual_Procesamiento%20de%20archivos%20ELAN.pdf)
 
@@ -273,13 +281,14 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Ciencia y Tecnología](https://dialnet.unirioja.es/servlet/revista?codigo=22392)
 * [Ciencias de la Información (8 revistas)](http://www.redalyc.org/area.oa?id=23&tipo=coleccion&bJats=1)
 * [Computación y Sistemas](http://www.redalyc.org/revista.oa?id=615) (HTML)
+* [Espacios](http://www.revistaespacios.com/indice.html) (PDF) (HTML)
+* [Estudios Urbanos y Ciencias Sociales](http://www2.ual.es/urbs/index.php/urbs/issue/archive) (PDF)
 * [Gerencia Tecnológica Informática (2015)](https://dialnet.unirioja.es/servlet/revista?codigo=11969)
 * [Iberoaméricana de las Ciencias Computacionales e Informática](http://www.reci.org.mx/index.php/reci/issue/archive) (HTML)
 * [Información, Tecnología y Conocimiento: "Enlace"](https://dialnet.unirioja.es/servlet/revista?codigo=7671) (HTML)
+* [Innovación, Calidad e Ingeniería del Software](http://www.redalyc.org/revista.oa?id=922) (HTML)
 * [InterFases](https://dialnet.unirioja.es/servlet/revista?codigo=25214)
 * [Procesamiento del Lenguaje Natural](http://www.redalyc.org/revista.oa?id=5157) (HTML)
-* [Revista Española de Innovación, Calidad e Ingeniería del Software](http://www.redalyc.org/revista.oa?id=922) (HTML)
-* [Revista Espacios](http://www.revistaespacios.com/indice.html) (PDF) (HTML)
 
 
 ## 🤖 Robótica
@@ -581,6 +590,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf) (PDF)
 * [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf) (PDF)
 * [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) (PDF)
+* [Programación en R del método de las palabras asociadas](http://www.docentes.unal.edu.co/cepardot/docs/TrabajosGrado/TrabajoGrado_Daniel.pdf) (PDF)
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf) (PDF)
 
 
