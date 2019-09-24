@@ -25,7 +25,7 @@ sidebar:
 ## 🎁 Regalos Geeks / Nerds 🙀
 
 ## Marvel
-
+<!-- Estrenos Marvel 2019: http://www.sensacine.com/noticias/cine/noticia-18569552/ -->
 - [Figuras de Marvel](https://amzn.to/3008NKp)
 - [Comics en Español en Tapa Dura](https://amzn.to/2ZXW0bm)
 - [Comics en Español en Tapa Blanda](https://amzn.to/2I0zUtG)

@@ -1,5 +1,5 @@
 ---
-title: '👨‍🏫 Videotutoriales <i class="fas fa-user-ninja"></i>'
+title: '👨‍🏫 Videotutoriales'
 description: '👩‍🎓 ▷ Videoteca de Documentales Más Interesantes dentro de Múltiples Temáticas que Puedes Encontrar en Internet.'
 excerpt: '👩‍🎓 ▷ Videoteca de Documentales Más Interesantes dentro de Múltiples Temáticas que Puedes Encontrar en Internet.'
 permalink: /videotutoriales/
