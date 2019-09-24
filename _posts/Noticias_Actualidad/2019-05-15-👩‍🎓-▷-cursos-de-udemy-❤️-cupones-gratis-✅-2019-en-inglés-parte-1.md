@@ -47,7 +47,7 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-¡¡¡*CUPONES CADUCADOS*!!!
+**¡¡¡LOS CUPONES DE ESTOS CURSOS YA HAN CADUCADO!!!**
 {: .notice--warning}
 
 > 📰 🥇 Los mejores cursos 🔥🔥🔥 con los que aprender 👌 a ganar dinero 🤑 aprender programaci&oacute;n 🤖 & dise&ntilde;o 🚀 montar tu negocio 💼 y conocer las criptos ❤️
