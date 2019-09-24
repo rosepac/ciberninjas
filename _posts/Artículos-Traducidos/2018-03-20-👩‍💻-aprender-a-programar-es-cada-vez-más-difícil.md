@@ -3,6 +3,7 @@ title: "\U0001F469‍\U0001F4BB Aprender a Programar es Cada Vez Más Difícil"
 description: "\U0001F9E0 Reflexión sobre la dificultad del aprendizaje de la programación en la era actual de los servicios en red y la nube, por Allen Downey."
 excerpt: "\U0001F9E0 Reflexión sobre la dificultad del aprendizaje de la programación en la era actual de los servicios en red y la nube, por Allen Downey."
 date: 2018-03-20 01:00:00 +0100
+canonical_URL: https://ciberninjas.com/aprender-a-programar-es-cada-vez-m%C3%A1s-dif%C3%ADcil/
 categories:
   - Actualidad
   - Código Abierto
