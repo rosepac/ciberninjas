@@ -295,20 +295,6 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Utilizando Arduino Due en la docencia de la entrada/salida](http://bioinfo.uib.es/~joemiro/aenui/procJenui/Jen2015/ba_util.pdf) (PDF)
 
 
-## 👷🏻‍♂️ Webmaster
-
-## Marketing en Redes Sociales 🏪
-
-### Instagram <i class="fab fa-instagram"></i>
-* [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf)
-
-
-## Seo y Posicionamiento 🔍
-
-* [50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf)
-* [SEO en Amazon](https://netgrows.com/wp-content/uploads/2018/11/ebook-amazon-netgrows.pdf)
-
-
 ## Android 📲
 
 * [Android 100%](https://drive.google.com/file/d/0BwVU1KZh_7htTmxPdmRmTVpaYjg/view) (PDF)
@@ -657,7 +643,13 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 
 ## Análitica Web 📈
 ## Marketing en Redes Sociales 🏪
+
+### Instagram <i class="fab fa-instagram"></i>
+* [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf)
+
 ## Seo y Posicionamiento 🔍
+* [50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf)
+* [SEO en Amazon](https://netgrows.com/wp-content/uploads/2018/11/ebook-amazon-netgrows.pdf)
 
 ---
 
