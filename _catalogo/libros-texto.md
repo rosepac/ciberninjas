@@ -4,6 +4,7 @@ description: "Catálogo Completo: Listado de Libros Educativos de Formación Pro
 excerpt: "Catálogo Completo: Listado de Libros Educativos de Formación Profesional o Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
 published: true
 author_profile: false
+date: 2019-09-22 11:11:05
 last_modified_at: 2019-09-24
 toc: true
 toc_label: "Contenidos"
