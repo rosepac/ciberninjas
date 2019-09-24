@@ -41,6 +41,10 @@ header:
     Cursos de inglés con cupones gratuitos a través de Udemy - Parte 1 |
     Ciberninjas
   caption: '**Créditos**: Creación Propia Ciberninjas'
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
 ---
 
 ¡¡¡*CUPONES CADUCADOS*!!!
@@ -158,7 +162,7 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 
 Los cursos vienen con un cup&oacute;n que los hace gratuitos de forma peri&oacute;dica; no se puede asegurar que sigan siendo gratuitos con el paso del tiempo. Publicaci&oacute;n con los 420 cursos..
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcibercursos%2Fposts%2F836869853362223&amp;width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<center><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcibercursos%2Fposts%2F836869853362223&amp;width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
 Entre ma&ntilde;ana y pasado estar&eacute; publicando otro listado, **&iexcl;Saludos ciberninjas\!**
 
