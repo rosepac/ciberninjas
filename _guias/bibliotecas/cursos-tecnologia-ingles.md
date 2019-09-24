@@ -20,3 +20,9 @@ toc_icon: user-ninja
 toc_sticky: false
 
 ---
+
+<!-- 
+Libros gratis: https://github.com/EbookFoundation/free-programming-books 
+Cursos en inglés: https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md
+
+-->

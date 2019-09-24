@@ -37,9 +37,13 @@ vteca:
 
 # Páginas relacionadas a la sección del catálogo o tienda :D
 tienda:
-  - title: "Libros de Texto"
-    url: /catalogo/libros-educativos/
-  - title: "Playlist Programar"
+  - title: "👨‍💻 Libros"
+    url: /catalogo/libros/
+  - title: "👨‍🎓 Libros Educativos"
+    url: /catalogo/libros-texto/
+  - title: "🎁 Regalos Geeks"
+    url: /catalogo/regalos/
+  - title: "✒ Novelas"
     url: /catalogo/libreria/
 
 # Radio es el Menú de toda mi música dividida en Apartados :D

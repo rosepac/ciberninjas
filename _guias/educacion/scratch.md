@@ -43,4 +43,9 @@ Estos tutoriales adjuntan sus correspondientes guías didácticas.
 * [Aplicación de Scratch](https://play.google.com/store/apps/details?id=org.scratchjr.android&fbclid=IwAR3YPXalsArQTmCDnDy9YMp9TSHtHqNzwodSuCrqEvhstlY-6YHOKdVhswk)
 * [Listado de recursos de Scratch](http://scratched.gse.harvard.edu/resources.html), en diferentes idiomas
 
-<!--  -->
+## Las Mejores Aplicaciones
+* [Scratch JR] [Descargar](https://play.google.com/store/apps/details?id=org.scratchjr.android) [Manual](https://www.scratchjr.org/learn/interface)
+<!--  https://www.youtube.com/playlist?list=PLYC6Kwamb2vfCmpnuYWb-xLbZe49KGYU7 
+https://www.youtube.com/user/UOC/playlists
+https://www.uoc.edu/portal/es/play/canals-tematics/informatica/mooc/index.html
+-->

@@ -6,7 +6,7 @@ excerpt: "📖 👨‍💻 Wikipedia Informática: IANAL, yo no soy un abogado"
 date: 2019-09-20 09:07:07
 published: true
 author_profile: false
-permalink: /wiki-ninjas/ianal
+permalink: /wiki/ianal
 
 ---
 

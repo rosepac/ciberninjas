@@ -33,7 +33,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed) (MiriadaX)
 - [Scratch, su Historia y Cómo usarlo junto a Arduino](/scratch-historia-como-usarlo-junto-a-arduino)
 - [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar) (Coursera)
-
+<!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
 
 ## 🗃 Ciencia de Datos
 

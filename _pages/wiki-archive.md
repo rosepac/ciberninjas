@@ -4,7 +4,7 @@ title: "Enciclopedia Tecnológico"
 description:
 excerpt: "Enciclopedia de la tecnológia actualizada creada por ciberninjas"
 collection: wiki
-permalink: /wiki-ninjas/
+permalink: /wiki/
 published: true
 toc: true
 toc_label: "Contenidos"

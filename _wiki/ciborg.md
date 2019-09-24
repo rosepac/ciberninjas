@@ -6,7 +6,7 @@ excerpt: "📖 👨‍💻  Wikipedia Informática: Cíborg"
 date: 2019-08-28 09:07:07
 published: false
 author_profile: false
-permalink: /wiki-ninjas/ciborg
+permalink: /wiki/ciborg
 
 ---
 

@@ -121,6 +121,9 @@ collections:
     guias:
         output: true
         permalink: /:collection/:path
+    catalogo:
+        output: true
+        permalink: /:collection/:path
 #    staff-miembros:
 #        output: true
 #        permalink: /:collection/:path
@@ -158,20 +161,31 @@ defaults:
       share: true
       related: true
   # _staff-miembros
-  - scope:
-      path: ""
-      type: staff-miembros
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#  - scope:
+#      path: ""
+#      type: staff-miembros
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
   # _guias
   - scope:
       path: ""
       type: guias
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: false
+  # _catalogo
+  - scope:
+      path: ""
+      type: catalogo
     values:
       layout: single
       author_profile: false

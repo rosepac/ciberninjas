@@ -10,7 +10,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: true
 author_profile: false
-permalink: /wiki-ninjas/eumel
+permalink: /wiki/eumel
 
 ---
 

@@ -10,7 +10,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: false
 author_profile: false
-permalink: /wiki-ninjas/generador-de-sitios-estaticos
+permalink: /wiki/generador-de-sitios-estaticos
 
 ---
 Un generador de sitio estático o SSG - abreviatura del significado inglés: Static Site Generator - es un programa que genera un sitio web HTML como salida. Este sitio web HTML se sirve a través de su servidor web, igual que antiguamente. Esto generalmente se logra utilizando lenguajes de plantilla y código que separa el diseño del sitio web de su contenido y estilos.

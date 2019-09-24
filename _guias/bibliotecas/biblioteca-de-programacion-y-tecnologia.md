@@ -279,6 +279,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [InterFases](https://dialnet.unirioja.es/servlet/revista?codigo=25214)
 * [Procesamiento del Lenguaje Natural](http://www.redalyc.org/revista.oa?id=5157) (HTML)
 * [Revista Española de Innovación, Calidad e Ingeniería del Software](http://www.redalyc.org/revista.oa?id=922) (HTML)
+* [Revista Espacios](http://www.revistaespacios.com/indice.html) (PDF) (HTML)
 
 
 ## 🤖 Robótica
@@ -633,6 +634,30 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Todo sobre LaTeX (2016)](http://minisconlatex.blogspot.com.es) (HTML)
 * [Una descripción de LaTeX2(1998)](http://www.profesores.frc.utn.edu.ar/electronica/teoriadeloscircuitosi/material/ldesc2e.pdf) (PDF)
 
+
+## 👷‍♂️ Webmaster
+
+## Accesibilidad Web ♿
+
+* [Accesibilidad web en el SID](https://sid.usal.es/idocs/F8/FDO20873/InformeAccesibilidad.pdf) (2008)
+* [Guía de Accesibilidad de Aplicaciones Móviles](https://drive.google.com/file/d/10MHIwij-bfliVYQnFX5FTXeyg5dqNS5N/view?usp=sharing) (2017) [Código Android](https://github.com/ctt-gob-es/Ejemplo-App-Accesible-Android#ejemplo-de-correcci%C3%B3n-de-errores-de-accesibilidad-en-una-app-para-android) [Código iOS](https://github.com/ctt-gob-es/Ejemplo-App-Accesible-iOS#todo-manager)
+* [Guía de Accesibilidad en Documentos PDF con Adobe Acrobat 9.0](https://drive.google.com/file/d/1FhPza_vy39oGO6f61NRjK53kV3MtCEvt/view?usp=sharing) (2014)
+* [Guía de Accesibilidad en Sedes Electrónicas](https://drive.google.com/file/d/1luB8F9ctvqfB3fUuQXGnLh3FRo7qEWAK/view?usp=sharing) (2019, Observatorio de Accesibilidad)
+* [Guía de Accesibilidad para Editores Finales de Contenidos](https://drive.google.com/file/d/1MdXO6jpT70WiJgM6iuo0vd-QgPRV2pHH/view?usp=sharing) (2019)
+* [Guía de Accesibilidad para la Gestión de la Accesibilidad en Gestores de Contenidos](https://drive.google.com/file/d/1gSuZe0koJmiNb1Oixcr-ckuJLE0T6A1a/view?usp=sharing) (2019, Observatorio de Accesibilidad)
+* [Guía de Adaptación a WCAG 2.1 desde WCAG 2.0](https://drive.google.com/file/d/1GFjEX_k_FvIqP7QK3ka6uxWucNThP7rL/view?usp=sharing) (2018, Observatorio de Accesibilidad)
+* [Guía de Validación de Accesibilidad Web](https://drive.google.com/file/d/1oxeZ92hEynCBxcrLmQcMukbLEkBlB5-u/view?usp=sharing) (2014, Observatorio de Accesibilidad)
+* [Guía para la inserción de subtítulos en YouTube](https://drive.google.com/file/d/1Ajxnrof6Z5MmnmSbJiC5mnLRDxcB6Iw9/view?usp=sharing) (2018)
+* [Guía de Recomendaciones de Accesibilidad y Calidad Web](https://drive.google.com/file/d/1QHD90j9eIzK8jvlXJz0lEearEK0wrngP/view?usp=sharing) (2009, Inteco)
+* [Guía de Referencia: Accesibilidad de páginas web](https://drive.google.com/file/d/1sasun1WchSEIxDd7qe_JBILldnMNqgz3/view?usp=sharing) (2013, Once)
+* [Informe de Accesibilidad Web Defensa.Gob.Es](http://www.defensa.gob.es/rapfas/Galerias/ficheros/Informe_de_accesibilidad_enero_2018.pdf) (2018)
+* [Metodología del Observatorio de Accesbilidad Web UNE](http://www.defensa.gob.es/rapfas/Galerias/ficheros/Metodologia_Observatorio_Accesibilidad_Web-UNE2012-v1_0.pdf) (2012)
+* [Proceso de validación nivel de accesibilidad web en sitios del Gobierno en línea del estado Colombiano](http://www.revistaespacios.com/a18v39n48/a18v39n48p08.pdf)
+
+
+## Análitica Web 📈
+## Marketing en Redes Sociales 🏪
+## Seo y Posicionamiento 🔍
 
 ---
 
