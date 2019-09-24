@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Enciclopedia Informática Tecnológica"
-description:
+description: "Enciclopedia informáticade tecnológica actualizada creada por Ciberninjas"
 excerpt: "Enciclopedia informáticade tecnológica actualizada creada por Ciberninjas"
 collection: wiki
 permalink: /wiki/
@@ -11,9 +11,9 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 author_profile: false
-sidebar:
-- title: "Menú Principal"
-  nav: general
+# sidebar:
+# - title: "Menú Principal"
+#   nav: general
 ---
 
 Índice de los artículos de la Wikipedia faltos de traducción en español o de una traducción correcta.

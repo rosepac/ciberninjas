@@ -5,8 +5,8 @@ excerpt: "\U0001F4DA La Librería de Libros Recomendados Más Completa & Mucho M
 permalink: /catalogo/libreria/
 canonical_URL: https://ciberninjas.com/catalogo/libreria/
 sidebar:
-- title: "Menú Principal"
-  nav: general
+- title: "Catálogo"
+  nav: tienda
 ---
 
 Aquí se encuentran libros, que estan fuera de lo relacionado a la temática de la tecnología; en general novelas y novelas en inglés; que aparence dentro de los distintos listados de las publicaciones de recomendaciones de libros de personajes reconocidos.

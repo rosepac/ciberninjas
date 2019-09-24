@@ -12,7 +12,7 @@ toc_sticky: false
 permalink: /catalogo/libros/
 canonical_URL: https://ciberninjas.com/catalogo/libros/
 sidebar:
-- title: "Otros"
+- title: "Catálogo"
   nav: tienda
 ---
 

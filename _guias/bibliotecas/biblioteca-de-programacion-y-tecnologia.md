@@ -262,7 +262,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Secretos de Powershell Remoting](https://leanpub.com/secrets-of-powershell-remoting-spanish?)
 
 
-## 
+## Tra
 * [Introducción a ELAN](http://idiom.ucsd.edu/~jfernand/Papers/ELAN.pdf) (PDF)
 * [Manual de Procesamiento de Archivos ELAN](http://pyersqr.org/minimal/Manual_Procesamiento%20de%20archivos%20ELAN.pdf)
 

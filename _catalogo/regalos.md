@@ -12,7 +12,7 @@ toc_sticky: false
 permalink: /catalogo/regalos/
 canonical_URL: https://ciberninjas.com/catalogo/regalos/
 sidebar:
-- title: "Otros"
+- title: "Catálogo"
   nav: tienda
 ---
 

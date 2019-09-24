@@ -12,7 +12,7 @@ toc_sticky: false
 permalink: /catalogo/libros-texto/
 canonical_URL: https://ciberninjas.com/catalogo/libros-texto/
 sidebar:
-- title: "Menú Principal"
+- title: "Catálogo"
   nav: tienda
 ---
 

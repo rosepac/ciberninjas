@@ -1,4 +1,5 @@
 ---
+layout: collection
 title: "🛒 Catálogo Ciberninjas"
 description: "Catálogo Completo de Los Productos Más Recomendados en Tecnología, Programación, Merchandising y Geeks"
 excerpt: "Catálogo Completo de Los Productos Más Recomendados en Tecnología, Programación, Merchandising y Geeks"
@@ -12,7 +13,7 @@ toc_sticky: false
 permalink: /catalogo/
 canonical_URL: https://ciberninjas.com/catalogo/
 sidebar:
-- title: "Otros"
+- title: "Catálogo"
   nav: tienda
 ---
 
