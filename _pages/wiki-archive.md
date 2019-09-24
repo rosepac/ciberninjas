@@ -1,8 +1,8 @@
 ---
 layout: collection
-title: "Enciclopedia Tecnológico"
+title: "Enciclopedia Informática Tecnológica"
 description:
-excerpt: "Enciclopedia de la tecnológia actualizada creada por ciberninjas"
+excerpt: "Enciclopedia informáticade tecnológica actualizada creada por Ciberninjas"
 collection: wiki
 permalink: /wiki/
 published: true
