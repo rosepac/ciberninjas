@@ -8,8 +8,11 @@ categories:
 - Redes Sociales
 permalink: /alternativas-reales-a-facebook-twitter-aparte-de-steemit-claro-esta
 tags:
-- Actualidad
 - Redes Alternativas
+- Facebook
+- Twitter
+- Diaspora
+- Mastodon
 header:
   overlay_image: "/assets/images/amigos-redes-sociales.jpg"
   overlay_filter: "0.2"
