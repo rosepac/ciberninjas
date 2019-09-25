@@ -10,7 +10,7 @@ link: >-
   https://developers-latam.googleblog.com/2019/01/el-complemento-oficial-de-amp-para.html
 categories:
   - Actualidad
-  - Google
+  - Desarrollador Google
 tags:
   - Amp
   - Plugin
