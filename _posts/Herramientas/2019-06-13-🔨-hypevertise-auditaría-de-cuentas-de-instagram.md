@@ -37,11 +37,7 @@ La herramienta nos ofrece numerosos an&aacute;lisis diferentes, hasta 15, encarg
 
 Estas son im&aacute;genes de un ejemplo realizado sobre una cuenta de una cantante de relevancia a nivel mundial. En concreto, de la exitosa cantante de R & B: Rihanna.
 
-| \!\[Resultados de auditor&iacute;a creada sobre una cuenta de relevancia | Ciberninjas\](/assets/images/auditoria\_1\_marca-1024x576.jpg)&lt;figcaption&gt;Resultados de auditor&iacute;a creada sobre una cuenta de relevancia | Ciberninjas&lt;/figcaption&gt; |
 
-| \!\[Resultados gr&aacute;ficos generados de una auditor&iacute;a en una cuenta de millones de usuarios | Ciberninjas\](/assets/images/auditoria\_2\_marca-1024x576.jpg)&lt;figcaption&gt;Resultados gr&aacute;ficos generados de una auditor&iacute;a en una cuenta de millones de usuarios | Ciberninjas&lt;/figcaption&gt; |
-
-| \!\[Auditor&iacute;a ejecutada en una importante cuenta de Instagram | Ciberninjas\](/assets/images/auditoria\_3\_marca-1024x576.jpg)&lt;figcaption &gt;Auditor&iacute;a ejecutada en una importante cuenta de Instagram | Ciberninjas&lt;/figcaption&gt; |
 
 ## &iquest;C&oacute;mo funciona?
 
