@@ -1,5 +1,6 @@
 ---
 title: "📱 TITULO"
+author: true
 description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 date: FECHA
