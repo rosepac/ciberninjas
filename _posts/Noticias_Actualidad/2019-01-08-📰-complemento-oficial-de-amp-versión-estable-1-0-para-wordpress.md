@@ -2,12 +2,10 @@
 title: "\U0001F4F0 Complemento Oficial de AMP Versión Estable 1.0 para Wordpress"
 description: "\U0001F4F1 Lanzan la versión estable del plugin para Wordpress AMP enfocado en los dispositivos móviles, por Google Desarrolladores"
 excerpt: "\U0001F4F1 Lanzan la versión estable del plugin para Wordpress AMP enfocado en los dispositivos móviles, por Google Desarrolladores"
-date: 2019-01-08 13:01:00 +0100
-permalink: >
-    /complemento-oficial-de-amp-version-estable-1-0-para-wordpress
+date: 2019-01-08 01:01:00 +0100
+permalink: /complemento-oficial-de-amp-version-estable-1-0-para-wordpress
 canonical_URL: https://ciberninjas.com/complemento-oficial-de-amp-version-estable-1-0-para-wordpress
-link: >-
-  https://developers-latam.googleblog.com/2019/01/el-complemento-oficial-de-amp-para.html
+link: https://developers-latam.googleblog.com/2019/01/el-complemento-oficial-de-amp-para.html
 categories:
   - Actualidad
   - Desarrollador Google
