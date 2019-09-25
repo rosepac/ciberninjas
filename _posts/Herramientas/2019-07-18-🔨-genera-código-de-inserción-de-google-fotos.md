@@ -3,8 +3,7 @@ title: "\U0001F528 Genera Código de Inserción de Google Fotos"
 description: "\U0001F39E Inserta tus imágenes favoritas de Google Fotos en tu página web o sitio Online favorito a través de un código de inserción en HTML generado automáticamente."
 excerpt: "\U0001F39E Inserta tus imágenes favoritas de Google Fotos en tu página web o sitio Online favorito a través de un código de inserción en HTML generado automáticamente."
 published: true
-author:
-  - name
+author_profile: true
 comments: true
 date: 2019-07-18 07:07:00 +0200
 header:
