@@ -1,5 +1,6 @@
 ---
 title: 🔝 ▷ Posicionamiento Web y SEO, aprender desde cero todo lo que debes saber
+author_profile: true
 description: "📌 Posicionamiento Web y SEO 🔍 Aprender desde cero a experto todo lo que debes saber"
 excerpt: "📌 Posicionamiento Web y SEO 🔍 Aprender desde cero a experto todo lo que debes saber"
 published: true
@@ -15,7 +16,7 @@ header:
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
-toc_sticky: true
+toc_sticky: false
 url: https://www.pabloalvarezcorredera.com/
 ---
 

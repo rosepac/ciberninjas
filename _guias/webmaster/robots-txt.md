@@ -44,6 +44,7 @@ Existen dos consideraciones importantes que debes tener en cuenta a la hora de u
 
 Por tanto, no intentes usar /robots.txt para ocultar información.
 
+🚧🚧🚧🚧🚧👷‍♂️🚧🚧🚧🚧🚧
 <!-- ver tambien: contenido faltante -->
 
 Los detalles
