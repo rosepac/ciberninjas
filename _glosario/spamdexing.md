@@ -3,7 +3,7 @@ title: "Spamdexing"
 description: "Uno de los varios métodos de manipular la relevancia o prominencia de los recursos indexados por un motor de búsqueda"
 excerpt: "Uno de los varios métodos de manipular la relevancia o prominencia de los recursos indexados por un motor de búsqueda"
 permalink: /glosario/spamdexing/
-canonical_URL: https://es.wikipedia.org/wiki/Spamdexing
+canonical_URL: https://es.wikipedia.org/wiki/spamdexing
 ---
 
 Spamdexing es uno de los varios métodos de manipular la relevancia o prominencia de los recursos indexados por un motor de búsqueda, usualmente en una forma inconsistente con el propósito del sistema de indexado.

@@ -274,13 +274,17 @@ Las empresas locales querrán destacar por posicionar con palabras claves del ti
 ## Los Mejores Artículos de SEO en Español
 
 - [7 Consejos para Convertir tu Twitter en un imán SEO](http://www.ticweb.es/7-consejos-para-convertir-su-twitter-en-un-iman-seo)
+- [Buscar Contenido Duplicado](https://blog.alexa.com/duplicate-content-checker)
 - [Datos estructurados – Microformatos y microdatos para SEO](https://www.initcoms.com/datos-estructurados-microformatos-microdatos-para-seo/#Microformatos_RDFa_microdatos_schemaorg8230Que_utilizar)
+- [Google introduce dos nuevos atributos de enlace: “ugc” y “sponsored”](https://useo.es/ugc-sponsored-nofollow)
+- [Guía de Robots.txt de Ciberninjas](/robots-txt/)
 
 ## Los Mejores Artículos de SEO en Inglés
 
 - [Cómo crear en 20 segundos un mapa de sitio XML que mejore tu SEO](Cómo Crear en 20 Segundos un Mapa de Sitio XML que Mejore tu SEO)
 - [¿Cómo establecer objetivos de SEO inteligentes para su equipo / agencia / proyecto?](https://moz.com/blog/smart-seo-goals)
 - [Cómo puedo subir mi página a el buscador Duck Duck Go](https://kutt.it/duckduckgo-subir-pagina)
+- [Guía Robots del Blog Moz.com](https://moz.com/learn/seo/robotstxt)
 - [¿Qué es la optimización SEO / Search Engine?](https://searchengineland.com/guide/what-is-seo)
 - [Raspado de Contenido: Análisis](https://neilpatel.com/blog/content-scrapers)
 

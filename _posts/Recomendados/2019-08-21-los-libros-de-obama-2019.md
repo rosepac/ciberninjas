@@ -1,6 +1,6 @@
 ---
 author_profile: true
-title: "📖 Los Libros Anuales Recomendados por Barack Obama este 2019"
+title: "📖 Los Libros Recomendados por Barack Obama este 2019"
 description: 'Los libros recomendados por Obama en 2019. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
 excerpt: 'Los libros recomendados por Obama en 2019. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
 date: 2019-08-21 23:45:59

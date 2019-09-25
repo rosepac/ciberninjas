@@ -289,6 +289,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Innovación, Calidad e Ingeniería del Software](http://www.redalyc.org/revista.oa?id=922) (HTML)
 * [InterFases](https://dialnet.unirioja.es/servlet/revista?codigo=25214)
 * [Procesamiento del Lenguaje Natural](http://www.redalyc.org/revista.oa?id=5157) (HTML)
+* [Revistas de Computación](http://www.bibliotic.unam.mx/revista.html) (HTML)
 
 
 ## 🤖 Robótica

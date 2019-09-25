@@ -1,5 +1,5 @@
 ---
-title: "🛒 Catálogo de la Tienda Ciberninjas"
+title: "🎈 Regalos Ciberninjas"
 description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 date: 2019-09-22 11:11:05
@@ -17,10 +17,7 @@ sidebar:
   nav: tienda
 ---
 
-🚧 **PARCIALMENTE EN CONSTRUCCIÓN** 🚧
-{: .notice--warning}
-
-💡 Contenido totalmente funcional, pudiendo existir temporalmente secciones vacías
+💡 Contenido Funcional. Pueden Existir Secciones Incompletas 💡
 {: .notice--info}
 
 ## 🎁 Regalos Geeks / Nerds 🙀

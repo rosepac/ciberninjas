@@ -27,6 +27,7 @@ toc_sticky: true
 ## Revistas
 
 * [Emprendedores: México](http://emprendedores.unam.mx/buscar.php?tipo=2)
+http://www.bibliotic.unam.mx/revista.html
 
 
 ## Los Mejores Artículos de Educación

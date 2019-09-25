@@ -1,7 +1,7 @@
 ---
-title: "🛒 👩‍🏫 Catálogo de Libros Educativos de Texto de Formación Profesional"
-description: "Catálogo Completo: Listado de Libros Educativos de Formación Profesional o Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
-excerpt: "Catálogo Completo: Listado de Libros Educativos de Formación Profesional o Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
+title: "👩‍🏫 Catálogo de Libros Educativos"
+description: "🛒 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
+excerpt: "🛒 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
 published: true
 author_profile: false
 date: 2019-09-22 11:11:05
@@ -17,10 +17,7 @@ sidebar:
   nav: tienda
 ---
 
-🚧 **PARCIALMENTE EN CONSTRUCCIÓN** 🚧
-{: .notice--warning}
-
-💡 Contenido totalmente funcional, pudiendo existir temporalmente secciones vacías
+💡 Contenido Funcional. Pueden Existir Secciones Incompletas 💡
 {: .notice--info}
 
 ## Informática y Comunicaciones

@@ -1,5 +1,5 @@
 ---
-title: "\U0001F4DA La Librería de Libros Recomendados"
+title: "\U0001F4DA La Librería de Novelas Recomendadas"
 description: "\U0001F3EA La Librería de Libros Recomendados Más Completa & Mucho Más"
 excerpt: "\U0001F4DA La Librería de Libros Recomendados Más Completa & Mucho Más"
 permalink: /catalogo/libreria/
@@ -14,7 +14,16 @@ Aquí se encuentran libros, que estan fuera de lo relacionado a la temática de 
 Los enlaces aqu&iacute; expuestos, trabajan a trav&eacute;s de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la p&aacute;gina web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos m&aacute;s recursos
 {: .notice--warning}
 
+💡 Contenido Funcional. Pueden Existir Secciones Incompletas 💡
+{: .notice--info}
+
+## Artículos de Recomendaciones
+
+* [Los Libros Anuales Recomendados por Obama, 2019](/los-libros-de-obama-2019/)
+
 ## Autores de Novelas y Bibliograf&iacute;as Completas
+
+Novelas de autores que han aparecido o se han citado a lo largo de las publicaciones internas del blog o bien he conocido a través de alguna otra noticia sobre tecnología o interés.
 
 ### [Toni Morrison](#toni-morrison)
 
