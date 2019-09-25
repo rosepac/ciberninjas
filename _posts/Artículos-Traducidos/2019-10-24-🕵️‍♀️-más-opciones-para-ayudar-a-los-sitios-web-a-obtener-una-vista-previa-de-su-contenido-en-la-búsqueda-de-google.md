@@ -18,7 +18,7 @@ tags:
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
-toc_sticky: false
+toc_sticky: true
 ---
 
 > 📰 📱🔍 Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a trav&eacute;s de su buscador, por [John Mueller](https://twitter.com/johnmu?rel=rel)\: analista de tendencias para webmasters
