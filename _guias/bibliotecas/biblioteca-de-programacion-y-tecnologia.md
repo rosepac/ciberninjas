@@ -37,7 +37,7 @@ toc_sticky: false
 * [Universidad Autónoma de Mexico - Plan (2016)](https://kutt.it/apuntes-pdf-universidad-mexico)
 <!-- http://biblioweb.tic.unam.mx/ , https://www.julianmarquina.es/22-grandes-bibliotecas-digitales-en-espana-aunque-hay-muchas-mas/ http://portal.uned.es/portal/page?_pageid=93,511995&_dad=portal&_schema=PORTAL -->
 
-## Meta-Listas Cursos Masivos en Línea
+## Cursos Masivos en Línea <i class="fas fa-user-graduate"></i>
 
 * [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice) (Github)
 * [Miriadax](https://miriadax.net/cursos)
@@ -92,12 +92,19 @@ toc_sticky: false
 
 ## CMS o Sistemas de Gestión de Contenidos
 
-* [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?)
+* [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?) (PDF)
 
+## ⛓ Blockchain
 
-## Criptomonedas  💸 💰 🤑
+## Cadena de Bloques <i class="fas fa-link"></i>
 
 * [Análisis y Comparación de Monedas Criptográficas Basadas en la Tecnología Blockchain (2016)](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/56344/8/mmedinareyTFM0616memoria.pdf) (PDF)
+
+
+## Criptomonedas 
+
+### Bitcoin <i class="fab fa-bitcoin"></i>
+
 * [Bitcoin: Un Sistema de Efectivo Electrónico Usuario-a-Usuario](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf) (PDF)
 * [Bitcoin: Una moneda criptográfica](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_bitcoin.pdf) (PDF)
 * [Bitcoin: Una visión general](http://www.revista.unam.mx/vol.18/num1/art11/art11.pdf) (PDF)
@@ -111,6 +118,7 @@ toc_sticky: false
 * [Riesgos y beneficios de las criptomonedas en la Economía Global (2017)](http://munesen.org/wp-content/uploads/2016/02/BANCO-MUNDIAL.pdf) (PDF)
 * [Tecnología Blockchain. Caso de estudio: el Bitcoin](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/04.pdf) (PDF)
 
+### Ethereum 
 
 ## Ecosistema de Código Abierto
 
