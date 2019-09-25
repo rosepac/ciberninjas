@@ -26,14 +26,6 @@ He aquí un listado completo de todos los diferentes cursos existentes alrededor
 
 En la actualidad son más de 800 cursos, organizados por diferentes temáticas. Impartidos a través de las Universidades de **educación digital: como Miriadax, Udemy, EDX**, o **cursos de formación abierta/MOOC** dentro de los repositorios universitarios de las universidades más importantes del mundo de habla hispana.
 
-## 👦 Programación Infantil
-
-- [Curso de Scratch](/curso-scratch-javier-fernandez) (2014. Javier Fernández, Youtube)
-- [Introducción a la programación con Scratch](https://www.udemy.com/introduccion-a-la-programacion-con-scratch) (Udemy)
-- [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed) (MiriadaX)
-- [Scratch, su Historia y Cómo usarlo junto a Arduino](/scratch-historia-como-usarlo-junto-a-arduino)
-- [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar) (Coursera)
-<!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
 
 ## 📁 Bases de Datos
 
@@ -321,6 +313,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 
 <a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
 
+
 ## 🔨 Procesadores de Lenguaje
 
 - [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949) (OCW)
@@ -332,6 +325,17 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 - [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes) (OCW)
 
 <a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar <i class="fas fa-arrow-up"></a>
+
+
+## 👦 Programación Infantil
+
+- [Curso de Scratch](/curso-scratch-javier-fernandez) (2014. Javier Fernández, Youtube)
+- [Introducción a la programación con Scratch](https://www.udemy.com/introduccion-a-la-programacion-con-scratch) (Udemy)
+- [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed) (MiriadaX)
+- [Scratch, su Historia y Cómo usarlo junto a Arduino](/scratch-historia-como-usarlo-junto-a-arduino)
+- [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar) (Coursera)
+<!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
+
 
 ## 😜 Lenguajes de Programación
 
@@ -484,6 +488,9 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 
 
 ### Bootstrap <i class="fab fa-bootstrap"></i>
+
+
+### Docker <i class="fab fa-docker"></i>
 
 
 

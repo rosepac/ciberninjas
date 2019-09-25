@@ -76,21 +76,6 @@ toc_sticky: false
 * [Una aproximación dirigida por modelos para diseñar y construir esquemas XML: Un caso de estudio.](http://www.redalyc.org/pdf/1331/133115019007.pdf) (PDF)
 
 
-## 👦 Programación Infantil
-## Scratch
-
-* [Animar un Nombre](https://resources.scratch.mit.edu/www/cards/es/name-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/NameGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=name)
-* [Animar un Personaje](https://resources.scratch.mit.edu/www/cards/es/animation-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/AnimateGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=animate-a-character)
-* [Cartas de Aprendizaje de Pasos Sencillos en Scratch](https://resources.scratch.mit.edu/www/cards/es/scratch-cards-all.pdf) (PDF)
-* [Crear Historia](https://resources.scratch.mit.edu/www/cards/es/story-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/StoryGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=tell-a-story)
-* [Crear Juego de Persecución](https://resources.scratch.mit.edu/www/cards/es/chase-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/ChaseGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=chase-game)
-* [Crear Música](https://resources.scratch.mit.edu/www/cards/es/music-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/MusicGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=music)
-* [Guía de Referencia de Scratch 2.0](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/ScratchGuiaReferencia.pdf) (PDF)
-* [Manual de Scratch](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/manual%20scratch.pdf) (PDF)
-* [Manual de Scratch 2](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf)  (PDF)
-* [Sensor de Vídeo](https://resources.scratch.mit.edu/www/cards/es/video-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/VideoGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=video-sensing)
-
-
 ## Algoritmos 🔡
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
@@ -182,9 +167,7 @@ toc_sticky: false
 
 ## Misceláneos
 
-* [97 cosas que todo programador debería saber](http://97cosas.com/programador/) (HTML)
 * [Desarrollo de juegos en 2D usando Java y Microsoft XNA](https://openlibra.com/es/book/download/desarrollo-de-juegos-en-2d-usando-java-y-microsoft-xna) (PDF  )
-* [Docker](https://github.com/brunocascio/docker-espanol#docker) (Github)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
 * [Godot. Motor de Videojuegos - Documentación](https://media.readthedocs.org/pdf/godot-doc-en-espanol/latest/godot-doc-en-espanol.pdf) (PDF)
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf) (PDF)
@@ -192,15 +175,31 @@ toc_sticky: false
 * [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) (PDF)
 
 
-## Montaje & Mantenimiento
+## 👨‍🔧 Montaje & Mantenimiento
 
 * [Armado y reparación de PC](http://nksistemas.com/curso-de-armado-y-reparacion-de-pc) (HTML)
 
 
-## Paradigmas de Programación
+## 👨‍💻 Paradigmas de Programación
 
+* [97 cosas que todo programador debería saber](http://97cosas.com/programador/) (HTML)
 * [El Manifiesto Mónada (Anotado)](https://leanpub.com/monad-manifesto-annotated-spanish?) (PDF)
 * [Programación Funcional (1996)](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
+
+
+## 👦 Programación Infantil
+### Scratch <i class="fas fa-paw"></i>
+
+* [Animar un Nombre](https://resources.scratch.mit.edu/www/cards/es/name-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/NameGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=name)
+* [Animar un Personaje](https://resources.scratch.mit.edu/www/cards/es/animation-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/AnimateGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=animate-a-character)
+* [Cartas de Aprendizaje de Pasos Sencillos en Scratch](https://resources.scratch.mit.edu/www/cards/es/scratch-cards-all.pdf) (PDF)
+* [Crear Historia](https://resources.scratch.mit.edu/www/cards/es/story-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/StoryGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=tell-a-story)
+* [Crear Juego de Persecución](https://resources.scratch.mit.edu/www/cards/es/chase-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/ChaseGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=chase-game)
+* [Crear Música](https://resources.scratch.mit.edu/www/cards/es/music-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/MusicGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=music)
+* [Guía de Referencia de Scratch 2.0](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/ScratchGuiaReferencia.pdf) (PDF)
+* [Manual de Scratch](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/manual%20scratch.pdf) (PDF)
+* [Manual de Scratch 2](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf)  (PDF)
+* [Sensor de Vídeo](https://resources.scratch.mit.edu/www/cards/es/video-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/VideoGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=video-sensing)
 
 
 ## Seguridad
@@ -305,7 +304,8 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Utilizando Arduino Due en la docencia de la entrada/salida](http://bioinfo.uib.es/~joemiro/aenui/procJenui/Jen2015/ba_util.pdf) (PDF)
 
 
-## Android 📲
+## 👩‍💻 Desarrollo Web
+## Android <i class="fab fa-android"></i>
 
 * [Android 100%](https://drive.google.com/file/d/0BwVU1KZh_7htTmxPdmRmTVpaYjg/view) (PDF)
 * [Curso Android](http://www.hermosaprogramacion.com/android) (HTML)
@@ -324,6 +324,11 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 ## Aplicaciones Multiplataforma
 
 * [Desarrollo de Apps con IONIC](https://leanpub.com/desarrollodeappsconionic?) (Descarga PDF)
+
+
+## Bootstrap <i class="fab fa-bootstrap"></i>
+
+* [Bootstrap 3, el manual oficial](http://librosweb.es/libro/bootstrap_3) (HTML)
 
 
 ## C
@@ -347,6 +352,11 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript) - Javi Jiménez (Descarga PDF)
 
 
+### Docker <i class="fab fa-docker"></i>
+
+* [Docker](https://github.com/brunocascio/docker-espanol#docker) (Github)
+
+
 ## Emacs
 
 * [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es) (HTML)
@@ -357,7 +367,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A.Carter (PDF)
 
 
-## Erlang
+## Erlang <i class="fab fa-erlang"></i>
 
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) (WikiLibros)
 
@@ -367,7 +377,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Elixir School. Lecciones acerca del lenguaje de programación Elixir](https://elixirschool.com/es)
 
 
-## Git
+## Git <i class="fab fa-git"></i>
 
 * [Git Immersion en Español](https://esparta.github.io/gitimmersion-spanish)
 * [Git Magic (2007)](https://openlibra.com/es/book/download/git-magic)
@@ -377,7 +387,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Pro Git](http://git-scm.com/book/es/)
 
 
-## Github
+## Github <i class="fab fa-github"></i>
 
 * [Conociendo Github Documentación](https://media.readthedocs.org/pdf/conociendogithub/latest/conociendogithub.pdf) (PDF)
 * [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple) (Github)
@@ -395,9 +405,8 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf) (PDF)
 
 
-## HTML / CSS
+## HTML / CSS <i class="fab fa-html5"></i> <i class="fab fa-css3-alt"></i> <i class="fab fa-sass"></i>
 
-* [Bootstrap 3, el manual oficial](http://librosweb.es/libro/bootstrap_3) (HTML)
 * [CSS avanzado](http://librosweb.es/libro/css_avanzado) Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
 * [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado) (PDF)
 * [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) (HTML)
@@ -409,7 +418,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Sass, el manual oficial](http://librosweb.es/libro/sass/) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-xhtml)
 
 
-## Java
+## Java <i class="fab fa-java"></i>
 
 * [Aprenda Java como si estuviera en primero](https://fiwiki.org/images/9/9c/Aprenda_Java_como_si_estuviera_en_primero.pdf) (PDF)
 * [Aprendiendo Java y POO (2008)](http://www.decom-uv.cl/~roberto/apuntes/java/AprendiendoJava.pdf) (PDF)
@@ -426,7 +435,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Tutorial introducción a Maven 3](http://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) - Erick Camacho (PDF)
 
 
-## JavaScript
+## <i class="fab fa-js"></i> JavaScript
 
 * [Guía de Javascript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
@@ -437,7 +446,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20) (HTML)
 
 
-### AngularJS
+### Angular <i class="fab fa-angular"></i>
 
 * [Cómo aprender AngularJS](http://raulexposito.com/documentos/como-aprender-angularjs) (HTML)
 
@@ -453,13 +462,13 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Manual de jQuery](http://mundosica.github.io/tutorial_hispano_jQuery/) (HTML)
 
 
-### Node.js
+### Node <i class="fab fa-node-js"></i>
 
 * [Introducción a Node.js a través de Koans](http://nodejskoans.com)
 * [Tutorial para Principiantes en Node.js](http://www.nodebeginner.org/index-es.html)
 
 
-## React
+## React <i class="fab fa-react"></i>
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux?) (Descarga PDF)
 * [Descubre React](https://leanpub.com/descubre-react?) (Descarga PDF)
@@ -472,7 +481,9 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [El Lenguaje de Programación de Rust](https://goyox86.gitbooks.io/el-libro-de-rust/content/intrinsics.html) (HTML) [PDF](https://legacy.gitbook.com/download/pdf/book/goyox86/el-libro-de-rust)
 
 
-## Vuejs
+## Vue <i class="fab fa-vuejs"></i>
+
+
 
 ## Linux <i class="fab fa-linux"></i>
 
@@ -517,9 +528,8 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Redis: Un pequeño libro](http://raulexposito.com/documentos/redis/redis.pdf) (PDF)
 
 
-## PHP
+## PHP <i class="fab fa-php"></i> <i class="fab fa-symfony"></i>
 
-* [Laravel 5](https://richos.gitbooks.io/laravel-5/content/) [PDF](https://legacy.gitbook.com/download/pdf/book/richos/laravel-5)
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) (PDF)
 * [Patrones de diseño: Zend Framework, Sympfony2, Doctrine2](https://media.readthedocs.org/pdf/designpatternsphp-es-mx/latest/designpatternsphp-es-mx.pdf) (PDF)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) (HTML)
@@ -530,6 +540,10 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
 * [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
 
+### Laravel <i class="fab fa-laravel"></i>
+
+* [Laravel 5](https://richos.gitbooks.io/laravel-5/content/) [PDF](https://legacy.gitbook.com/download/pdf/book/richos/laravel-5)
+
 
 ## Perl
 
@@ -539,7 +553,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/) (HTML)
 
 
-### Python
+### Python <i class="fab fa-python"></i>
 
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/) (HTML)
@@ -612,7 +626,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (Descarga PDF)
 
 
-## Swift
+## Swift <i class="fab fa-swift"></i>
 
 * [Aprendiendo Swift](https://applecoding.com/pdf/Aprendiendo-Swift-Extracto.pdf) (PDF) (2015)
 
