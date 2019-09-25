@@ -2,7 +2,7 @@
 title: "\U0001F575️‍♀️ Más Opciones para Ayudar a los Sitios Web a Obtener una Vista Previa de su Contenido en la Búsqueda de Google"
 description: "\U0001F4F1\U0001F50D Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a través de su buscador, por John Mueller"
 excerpt: "\U0001F4F1\U0001F50D Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a través de su buscador, por John Mueller"
-date: 2019-10-24 15:00:00 +0200
+date: 2019-09-24 15:00:00 +0200
 permalink: /opciones-ayudar-sitios-web-vista-previa
 canonical_URL: 'https://ciberninjas.com/opciones-ayudar-sitios-web-vista-previa'
 categories:
