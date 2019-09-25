@@ -16,6 +16,10 @@ tags:
 - Búsqueda
 - Vista Previa
 - Rastreo
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: false
 
 ---
 > 📰 📱🔍 Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a través de su buscador, por [John Mueller](https://twitter.com/johnmu?rel=rel): analista de tendencias para webmasters
