@@ -5,7 +5,6 @@ excerpt: "\U0001F4F1 Lanzan la versión estable del plugin para Wordpress AMP en
 date: 2019-01-08 01:01:00 +0100
 permalink: /complemento-oficial-de-amp-version-estable-1-0-para-wordpress
 canonical_URL: https://ciberninjas.com/complemento-oficial-de-amp-version-estable-1-0-para-wordpress
-link: https://developers-latam.googleblog.com/2019/01/el-complemento-oficial-de-amp-para.html
 categories:
   - Actualidad
   - Google Webmaster
@@ -22,3 +21,6 @@ Desde el blog de **Google Developers** latinoam&eacute;rica informan sobre el la
 La versi&oacute;n estable 1.0 para WordPress se integra a la perfecci&oacute;n con el flujo de trabajo normal sobre el **CMS**, las novedades se centran en nuevas herramientas de compatibilidad, eliminaci&oacute;n de c&oacute;digo **CSS** obsoleto, integraci&oacute;n con el nuevo editor de WordPress **Gutenberg**, entre otras.
 
 Por &uacute;ltimo, se informa sobre de que en un futuro se buscar&aacute; una mayor sencillez de implementaci&oacute;n. Creando temas **WordPress** que por defecto, est&eacute;n integrados con el c&oacute;digo que genera el propio *plugin*.
+
+**Fuente**: [Complemento Oficial Amp para Wordpress](https://developers-latam.googleblog.com/2019/01/el-complemento-oficial-de-amp-para.html "Lanzamiento del Plguin de AMP enfocado en la visualización correcta de las búsquedas de Google a través del Móvil")
+{: .notice--info}
