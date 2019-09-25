@@ -37,7 +37,9 @@ La herramienta nos ofrece numerosos an&aacute;lisis diferentes, hasta 15, encarg
 
 Estas son im&aacute;genes de un ejemplo realizado sobre una cuenta de una cantante de relevancia a nivel mundial. En concreto, de la exitosa cantante de R & B: Rihanna.
 
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}
 
+Resultados de auditor&iacute;a creada sobre una cuenta de relevancia
 
 ## &iquest;C&oacute;mo funciona?
 
