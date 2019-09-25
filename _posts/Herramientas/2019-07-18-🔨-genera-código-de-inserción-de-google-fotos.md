@@ -1,25 +1,26 @@
 ---
-
-title:  '🔨 Genera Código de Inserción de Google Fotos'
-description: '🎞 Inserta tus imágenes favoritas de Google Fotos en tu página web o sitio Online favorito a través de un código de inserción en HTML generado automáticamente.'
-excerpt: '🎞 Inserta tus imágenes favoritas de Google Fotos en tu página web o sitio Online favorito a través de un código de inserción en HTML generado automáticamente.'
+title: "\U0001F528 Genera Código de Inserción de Google Fotos"
+description: "\U0001F39E Inserta tus imágenes favoritas de Google Fotos en tu página web o sitio Online favorito a través de un código de inserción en HTML generado automáticamente."
+excerpt: "\U0001F39E Inserta tus imágenes favoritas de Google Fotos en tu página web o sitio Online favorito a través de un código de inserción en HTML generado automáticamente."
 published: true
-author: rosepac
+author:
 comments: true
-date: 2019-07-18 05:07:26
+date: 2019-07-18 07:07:00 +0200
 header:
-  overlay_image: '/assets/images/generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg'
+  overlay_image: /assets/images/Generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg
   overlay_filter: 0.2
-  image_description: 'Generar código para insertar una imagen o fotografía de Google Photos | ROSEPAC'
-  caption: "**Créditos**: Creación propia / ROSEPAC"
+  image_description: >-
+    Generar código para insertar una imagen o fotografía de Google Photos |
+    ROSEPAC
+  caption: '**Créditos**: Creación propia / ROSEPAC'
 tags:
-- Imágenes
-- Google Photos
+  - Imágenes
+  - Google Photos
 categories:
-- Herramientas
+  - Herramientas
 permalink: /genera-codigo-insercion-google-fotos
-
 ---
+
 Si has estado utilizando Google Photos para hacer una copia de seguridad de tus fotos en la nube, pero Google no ofrece ninguna opción para que incrustes tus imágenes subidas dentro de tu sitio web.
 
 Esta aplicación te ayudará de forma simple y sencilla. Abre cualquier imagen en el sitio web de Google Fotos, haz clic en el botón de Compartir y luego haz clic en Obtener enlace, con ese de la imagen generado. Pegalo en el cuadro dentro de [la página CtrlQ](https://ctrlq.org/google/photos) y autmáticamente se generará el código HTML necesario de inserción, todo con un solo clic.
