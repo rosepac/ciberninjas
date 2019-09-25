@@ -19,6 +19,6 @@ tags:
 
 Desde el blog de **Google Developers** latinoamérica informan sobre el lanzamiento oficial de la versión estable del complemento oficial creador de **AMP para WordPress**, si aún no conoces lo que es **AMP**. Deberías. En resumen, es una nueva tecnología que permite acomodar tu página web a los nuevos dispositivos móviles de una forma rápida y sencilla ofreciendo una experiencia mucho más agradable al usuario a la hora de navegar.
 
-La [versión estable 1.0 para WordPress][1] se integra a la perfección con el flujo de trabajo normal sobre el **CMS**, las novedades se centran en nuevas herramientas de compatibilidad, eliminación de código **CSS** obsoleto, integración con el nuevo editor de WordPress **Gutenberg**, entre otras.
+La versión estable 1.0 para WordPress se integra a la perfección con el flujo de trabajo normal sobre el **CMS**, las novedades se centran en nuevas herramientas de compatibilidad, eliminación de código **CSS** obsoleto, integración con el nuevo editor de WordPress **Gutenberg**, entre otras.
 
 Por último, se informa sobre de que en un futuro se buscará una mayor sencillez de implementación. Creando temas **WordPress** que por defecto, estén integrados con el código que genera el propio _plugin_.
