@@ -1,7 +1,7 @@
 ---
 title: "📰 Más Opciones para Ayudar a los Sitios Web a Obtener una Vista Previa de su Contenido en la Búsqueda de Google"
-description: '📱🔍 RESUMEN, por John Mueller'
-excerpt: '📱🔍 RESUMEN, por John Mueller'
+description: '📱🔍 Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a través de su buscador, por John Mueller'
+excerpt: '📱🔍 Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a través de su buscador, por John Mueller'
 date: 2019-10-24 13:00:13
 permalink: /opciones-ayudar-sitios-web-vista-previa
 canonical_URL: https://ciberninjas.com/opciones-ayudar-sitios-web-vista-previa
@@ -18,7 +18,7 @@ tags:
 - Rastreo
 
 ---
-> 📰 📱🔍 RESUMEN, por [John Mueller](https://twitter.com/johnmu?rel=rel): analista de tendencias para webmasters
+> 📰 📱🔍 Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a través de su buscador, por [John Mueller](https://twitter.com/johnmu?rel=rel): analista de tendencias para webmasters
 
 Google usa vistas previas de contenido, incluidos [fragmentos de texto](https://support.google.com/webmasters/answer/35624) y otros medios, para ayudar a las personas a decidir si un resultado es relevante para su consulta. El tipo de vista previa que se muestra depende de muchos factores, incluido el tipo de contenido que busca una persona y el tipo de dispositivo en el que lo está viendo.
 
