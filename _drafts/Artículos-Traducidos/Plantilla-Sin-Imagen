@@ -3,10 +3,12 @@ title: "📰 TITULO"
 description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 date: FECHA
-# Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
+permalink: /
+canonical_URL: https://ciberninjas.com/
+# Google Webmaster, Google Desarrollador | Actualidad, Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
 - Actualidad
-# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
+# Amp, Plugin, Wordpress, Search Console, Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
 tags:
 - 
 
@@ -15,5 +17,5 @@ tags:
 
 CONTENIDO
 
-**Fuente**: [TITULO](ENLACE A NOTICIA "TITLE")
+**Fuente**: [TITULO](ENLACE "TITLE")
 {: .notice--info}
