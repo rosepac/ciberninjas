@@ -8,7 +8,7 @@ canonical_URL: https://ciberninjas.com/complemento-oficial-de-amp-version-establ
 link: https://developers-latam.googleblog.com/2019/01/el-complemento-oficial-de-amp-para.html
 categories:
   - Actualidad
-  - Desarrollador Google
+  - Google Webmaster
 tags:
   - Amp
   - Plugin
