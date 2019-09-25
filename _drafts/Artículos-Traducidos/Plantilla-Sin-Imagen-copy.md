@@ -16,6 +16,7 @@ tags:
 - Búsqueda
 - Vista Previa
 - Rastreo
+- Indexación
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
