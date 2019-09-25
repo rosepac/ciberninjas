@@ -4,6 +4,7 @@ description: "\U0001F39E Inserta tus imágenes favoritas de Google Fotos en tu p
 excerpt: "\U0001F39E Inserta tus imágenes favoritas de Google Fotos en tu página web o sitio Online favorito a través de un código de inserción en HTML generado automáticamente."
 published: true
 author:
+  - name
 comments: true
 date: 2019-07-18 07:07:00 +0200
 header:
@@ -25,7 +26,7 @@ Si has estado utilizando Google Photos para hacer una copia de seguridad de tus 
 
 Esta aplicaci&oacute;n te ayudar&aacute; de forma simple y sencilla. Abre cualquier imagen en el sitio web de Google Fotos, haz clic en el bot&oacute;n de Compartir y luego haz clic en Obtener enlace, con ese de la imagen generado. Pegalo en el cuadro dentro de [la p&aacute;gina CtrlQ](https://ctrlq.org/google/photos) y autm&aacute;ticamente se generar&aacute; el c&oacute;digo HTML necesario de inserci&oacute;n, todo con un solo clic.
 
-![Código generado en HTML para la inserción de las fotografías de Google Photos deseadas | Ciberninjas](/assets/images/Codigo-generado-en-HTML-para-la-insercion-de-la-fotografia-de-Google-Photos-deseada.jpg "Código generado en HTML para la inserción de las fotografías de Google Photos deseadas | Ciberninjas"){: width="1280" height="720"}
+![Código generado en HTML para la inserción de las fotografías de Google Photos deseadas, visto en Ciberninjas](/assets/images/Codigo-generado-en-HTML-para-la-insercion-de-la-fotografia-de-Google-Photos-deseada.jpg "Código generado en HTML para la inserción de las fotografías de Google Photos deseadas, visto en Ciberninjas"){: width="1280" height="720"}
 
 El resultado son dos enlaces; uno directo a la imagen que podr&aacute;s usar donde desees.
 
