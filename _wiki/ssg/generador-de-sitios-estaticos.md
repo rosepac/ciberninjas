@@ -1,8 +1,8 @@
 ---
 
 title: "Generador de Sitios Estáticos"
-description: "📖 👨‍💻  Wikipedia Informática: Generador de Sitios Estáticos (SSG)"
-excerpt: "📖 👨‍💻  Wikipedia Informática: Generador de Sitios Estáticos (SSG)"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Generador de Sitios Estáticos (SSG)"
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Generador de Sitios Estáticos (SSG)"
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
@@ -35,7 +35,7 @@ Un generador de sitio estático o SSG - abreviatura del significado inglés: Sta
 - [Introducción a los generadores de sitios estáticos] (http://www.mickgardner.com/2012/12/an-introduction-to-static-site.html)
 
 **Categorías**: [Generadores de Sitios Estáticos](/generadores-de-sitios-estaticos)
-{:.notice--primary}
+{: .notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Gist](https://gist.github.com/dypsilon/4552696) de Wikipedia en inglés, versión del 17 de enero de 2013, publicada por [dypsilon](https://gist.github.com/dypsilon) bajo la licencia de los Gists Abiertos al Público.
 {: .notice--info}

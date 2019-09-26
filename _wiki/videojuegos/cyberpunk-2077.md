@@ -1,8 +1,8 @@
 ---
 
 title: "Cyberpunk 2077"
-description: "📖 👨‍💻  Wikipedia Informática: Cyberpunk 2077. De Ciberninjas, la Wikipedia Tecnológica"
-excerpt: "📖 👨‍💻  Wikipedia Informática: Cyberpunk 2077. De Ciberninjas, la Wikipedia Tecnológica"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Cyberpunk 2077. De Ciberninjas, la Wikipedia Tecnológica"
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Cyberpunk 2077. De Ciberninjas, la Wikipedia Tecnológica"
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"

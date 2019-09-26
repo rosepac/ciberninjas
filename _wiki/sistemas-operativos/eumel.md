@@ -1,8 +1,8 @@
 ---
 
 title: "Eumel, Sistema Operativo"
-description: "📖 👨‍💻  Wikipedia Informática: Eumel, Sistema Operativo"
-excerpt: "📖 👨‍💻  Wikipedia Informática: Eumel, Sistema Operativo"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Eumel, Sistema Operativo"
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Eumel, Sistema Operativo"
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
@@ -23,7 +23,7 @@ Una de las características principales de EUMEL es que es persistente y utiliza
 EUMEL fue seguido por L3 y luego L4.
 
 **Categorías**: Sistemas Operativos Descontinuados
-{:.notice--primary}
+{: .notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Eumel - Sistema Operativo](https://en.wikipedia.org/wiki/Eumel) de la Wikipedia en inglés, versión del 14 de Abril de 2014, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Eumel&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
 {: .notice--info}

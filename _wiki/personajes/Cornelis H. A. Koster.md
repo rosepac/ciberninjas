@@ -1,8 +1,8 @@
 ---
 
 title: "Cornelis H. A. Koster"
-description: "📖 👨‍💻  Wikipedia Informática: Cornelis H. A. Koster, Informático Holandés"
-excerpt: "📖 👨‍💻  Wikipedia Informática: Cornelis H. A. Koster, Informático Holandés"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Cornelis H. A. Koster, Informático Holandés"
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Cornelis H. A. Koster, Informático Holandés"
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
@@ -62,13 +62,8 @@ El sistema LCS difiere de otros en que puede hacer uso de términos lingüístic
 Sitio Web: [http://phasar.nl/](http://phasar.nl/ "Página web de los estudios e intereses de investigación de Cornelis HA Koster")
 {: .notice--primary}
 
-## Categorías
-
-Informáticos Holandeses
-{:.notice--success}
-
-Lenguajes de Programación Educativos
-{:.notice--success}
+**Categorías**: Informáticos Holandeses | Lenguajes de Programación Educativos
+{: .notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Cornelis HA Koster](https://en.wikipedia.org/wiki/Cornelis_H._A._Koster) de la Wikipedia en inglés, versión del  1 de julio de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Cornelis_H._A._Koster&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
 {: .notice--info}

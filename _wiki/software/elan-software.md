@@ -1,8 +1,8 @@
 ---
 
 title: "Elan (Software)"
-description: "📖 👨‍💻  Wikipedia Informática: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
-excerpt: "📖 👨‍💻  Wikipedia Informática: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
@@ -11,6 +11,7 @@ toc_sticky: true
 published: true
 author_profile: false
 permalink: /wiki/elan-software
+canonical_URL: https://ciberninjas.com/wiki/elan-software
 
 ---
 
@@ -58,7 +59,7 @@ ELAN es desarrollado por el Instituto Max Planck de Psicolingüística en Nijmeg
 
 <!-- POR TRADUCIR: https://en.wikipedia.org/wiki/ALGOL_68 -->
 **Categorías**: Software de Investigación Lingüistica
-{:.notice--success}
+{: .notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Elan - Software](https://en.wikipedia.org/wiki/ELAN_software) de la Wikipedia en inglés, versión del 22 de enero de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=ELAN_software&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
 {: .notice--info}

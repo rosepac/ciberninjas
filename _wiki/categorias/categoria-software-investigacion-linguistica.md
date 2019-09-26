@@ -1,7 +1,7 @@
 ---
 title: "Software de Investigación Lingüistica"
-description: "Categoría: Software de Investigación Lingüistica"
-excerpt: "Categoría: Software de Investigación Lingüistica"
+description: "Categoría: Software de Investigación Lingüistica de WikiNinjas, la Enciclopedia Informática Tecnológica"
+excerpt: "Categoría: Software de Investigación Lingüistica de WikiNinjas, la Enciclopedia Informática Tecnológica"
 date: 2019-09-07 11:50:07
 toc: true
 toc_label: "Contenidos"

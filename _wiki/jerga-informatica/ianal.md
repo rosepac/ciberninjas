@@ -1,8 +1,8 @@
 ---
 
 title: "IANAL"
-description: "📖 👨‍💻  Wikipedia Informática: IANAL, yo no soy un abogado"
-excerpt: "📖 👨‍💻 Wikipedia Informática: IANAL, yo no soy un abogado"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: IANAL, yo no soy un abogado"
+excerpt: "📖 👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica: IANAL, yo no soy un abogado"
 date: 2019-09-20 09:07:07
 published: true
 author_profile: false
@@ -31,7 +31,7 @@ El estándar de jurisprudencia para determinar qué comentarios cruzan la línea
 Las variaciones de IANAL se pueden aplicar a diferentes campos, como IANAMD para "No soy médico" o IANAP para "No soy físico". Estas expresiones tienen el mismo propósito general que IANAL: desalentar el uso de La información como asesoramiento profesional.
 
 **Categorías**: Jerga Informática | Ética Legal
-{:.notice--primary}
+{: .notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [IANAL](https://en.wikipedia.org/wiki/IANAL) de la Wikipedia en inglés, versión del 24 de agosto de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=IANAL&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
 {: .notice--info}
