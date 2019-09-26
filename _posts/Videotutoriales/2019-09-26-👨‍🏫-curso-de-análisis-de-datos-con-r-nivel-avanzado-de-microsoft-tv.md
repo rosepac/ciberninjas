@@ -19,6 +19,7 @@ tags:
   - Gráfico
 categories:
   - Videotutorial Aprendizaje Automático
+  - Videotutorial R
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
