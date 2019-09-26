@@ -20,19 +20,16 @@ author_profile: false
 ---
 
 Índice de diferentes artículos de la Wikipedia en español aún sin traducción.
-<!--
-## Artículos
-👷‍♂️ -->
+
+<!-- ## Artículos -->
 <!-- [Ciborg](/wiki/ciborg) -->
-<!--
-## Artículos Por Desarrollar
-- Ciborg -->
+<!-- ## Artículos Por Desarrollar - Ciborg -->
 <!-- - [Ciborg](/wiki/ciborg) -->
 
 ## Licencia
 
 <details>
-<summary>👉 Saber Más</summary>
+<summary> Saber Más 👈</summary>
 <br/>
 <p>El contenido aquí creado está bajo Licencia Creative Commons 4.0, siendo sus propietarios intelectuales los autores de los artículos en la versión inglesa de la Wikipedia; y los propietarios de las imágenes los autores de las mismas.</p>
 <p>Al tratarse este caso de una traducción, el contenido pasa a quedar bajo la misma licencia; teniendo que reconocer por lo tanto, a los autores de la versión inglesa como al autor de la versión en español: Pablo Álvarez Corredera a excepción de que en las entradas se específique lo contrario.</p>
@@ -42,9 +39,9 @@ author_profile: false
 ## Aclaración
 
 <details>
-<summary>👉 Saber Más</summary>
+<summary> Saber Más 👈</summary>
 <br/>
-<p>Notando una gran falta de trabajo alrededor del mundo del apartado tecnológico en la actualidad, he decidido comenzar a generar los artículos que vaya encontrando y considere de relevancia o importancia para poder entender la informática en la actualidad actual.</p>
+<p>Habiendo notado una gran falta de trabajo alrededor del mundo del apartado tecnológico en la actualidad, he decidido comenzar a generar los artículos que vaya encontrando y considere de relevancia o importancia para poder entender la informática en la actualidad actual.</p>
 </details>
 
 ⬇ Actualizaciones Más Recientes ⬇

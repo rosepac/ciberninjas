@@ -97,17 +97,23 @@ Personalización e incorporación de características avanzadas en aplicaciones 
 
 
 <!-- cursos de NOTEPAD: PUBLICACIONES FACEBOOK -->
-Análisis de datos con Power BI - Inicio (https://ciberninjas.com/curso-iniciando-power-bi-microsoft-tv) (Microsoft Channel 9)
-Análisis de datos con Power BI - Intermedio (https://ciberninjas.com/curso-analisis-datos-power-bi-intermedio-microsoft-tv) (Microsoft Channel 9)
-Aprendizaje guiado de Microsoft Power BI(https://docs.microsoft.com/es-es/power-bi/guided-learning) (Microsoft Learn)
-Componentes avanzados de una solución de Big Data (https://ciberninjas.com/curso-componentes-avanzados-solucion-big-data-microsoft-tv)
-Componentes básicos de una solución de Big Data (https://ciberninjas.com/curso-componentes-basicos-solucion-big-data-microsoft-tv)
-Power BI en ambientes empresariales (https://ciberninjas.com/curso-power-bi-ambientes-empresariales-microsoft-tv)
-Análisis de datos con R: Avanzado (https://ciberninjas.com/curso-analisis-datos-r-avanzado-microsoft-tv)
-Análisis de datos con R: Intermedio (https://ciberninjas.com/curso-analisis-datos-r-intermedio-microsoft-tv)
-Análisis de Datos con R (https://ciberninjas.com/curso-analisis-datos-r-microsoft-tv)
+* [Análisis de Datos con Power BI - Inicio](https://ciberninjas.com/curso-iniciando-power-bi-microsoft-tv) (Microsoft Channel 9)
+* [Análisis de Datos con Power BI - Intermedio](https://ciberninjas.com/curso-analisis-datos-power-bi-intermedio-microsoft-tv) (Microsoft Channel 9)
+* [Análisis de Datos con R](https://ciberninjas.com/curso-analisis-datos-r-microsoft-tv) (Microsoft Channel 9)
+* [Análisis de Datos con R: Intermedio](https://ciberninjas.com/curso-analisis-datos-r-intermedio-microsoft-tv) (Microsoft Channel 9)
+* [Análisis de Datos con R: Avanzado](https://ciberninjas.com/curso-analisis-datos-r-avanzado-microsoft-tv) (Microsoft Channel 9)
+* [Aprendizaje Guiado de Microsoft Power BI](https://docs.microsoft.com/es-es/power-bi/guided-learning) (Microsoft Learn)
+* [Componentes avanzados de una solución de Big Data](https://ciberninjas.com/curso-componentes-avanzados-solucion-big-data-microsoft-tv) (Microsoft Channel 9)
+* [Componentes básicos de una solución de Big Data](https://ciberninjas.com/curso-componentes-basicos-solucion-big-data-microsoft-tv) (Microsoft Channel 9)
+* [Power BI en ambientes empresariales](https://ciberninjas.com/curso-power-bi-ambientes-empresariales-microsoft-tv) (Microsoft Channel 9)
+
+
+
 <!-- VOY POR AQUI. FALTA DESDE AQUI HASTA ABAJO 👇👇👇👇👇👇 -->
 <!-- SEGUIR BUSCANDO LOS VIDEOS AQUI: https://channel9.msdn.com -->
+
+
+
 Fundamentos de ALM (https://channel9.msdn.com/Series/Fundamentos-ALM)
 Conociendo Lync Server 2013 (https://channel9.msdn.com/series/Conociendo-Lync-Server-2013)
 Introducción a Windows 10 para profesionales de tecnología (https://channel9.msdn.com/Series/Iniciando-con-Windows-10-para-profesionales-IT)
