@@ -1,30 +1,25 @@
 ---
 author_profile: false
-title: "👨‍🏫 Curso de Análisis de Datos con R de Microsoft TV"
-description: "📂 Curso de Análisis de Datos con R de Microsoft TV"
-excerpt: "📂 Curso de Análisis de Datos con R de Microsoft TV"
+title: "\U0001F468‍\U0001F3EB Curso de Análisis de Datos con R de Microsoft TV"
+description: "\U0001F9E0 Curso de Análisis de Datos con R de Microsoft TV"
+excerpt: "\U0001F9E0 Curso de Análisis de Datos con R de Microsoft TV"
 permalink: /curso-analisis-datos-r-microsoft-tv
-canonical_URL: https://ciberninjas.com/curso-analisis-datos-r-microsoft-tv
-# header:
-#   video:
-#     id: playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW
-#     provider: youtube
+canonical_URL: 'https://ciberninjas.com/curso-analisis-datos-r-microsoft-tv'
 comments: true
-date: 2019-09-26
+date: 2019-09-26 02:00:00 +0200
 tags:
-# Creador, Editorial, Temática, Tipo de Música
-- Microsoft
-- Análisis
-- R
-- Datos
-- Estadística
-- Gráfico
-- Datos Ordenados
+  - Microsoft
+  - Análisis
+  - R
+  - Datos
+  - Estadística
+  - Gráfico
+  - Datos Ordenados
 categories:
-- Videotutorial R
+  - Videotutorial R
 sidebar:
-- title: "Menú Videotutoriales"
-  nav: vtuto
+  - title: Menú Videotutoriales
+    nav: vtuto
 ---
 
 ## Introducci&oacute;n a R
