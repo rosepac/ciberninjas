@@ -19,7 +19,7 @@ sidebar:
 
 ## M&oacute;dulo I - An&aacute;lisis de Informaci&oacute;n
 
-<iframe src="https://channel9.msdn.com/Series/Power-BI/Anlisis-de-Informacin/player" width="960" height="540" allowfullscreen="" frameborder="0" title="Módulo I - Análisis de Información - Microsoft Channel 9 Video"></iframe>
+<iframe src="https://channel9.msdn.com/Series/Power-BI/Anlisis-de-Informacin/player?format=html5" width="960" height="540" allowFullScreen frameBorder="0" title="Módulo I - Análisis de Información - Microsoft Channel 9 Video"></iframe>
 
 ## M&oacute;dulo II - Evoluci&oacute;n de los Power
 
@@ -27,8 +27,8 @@ sidebar:
 
 ## M&oacute;dulo III - Introducci&oacute;n a Power BI
 
-<iframe src="https://channel9.msdn.com/Series/Power-BI/Introduccin-a-Power-BI/player?format=progressive" width="960" height="540" allowFullScreen frameBorder="0" title="Módulo III - Introducción a Power BI - Microsoft Channel 9 Video"></iframe>
+<iframe src="https://channel9.msdn.com/Series/Power-BI/Introduccin-a-Power-BI/player?format=html5" width="960" height="540" allowFullScreen frameBorder="0" title="Módulo III - Introducción a Power BI - Microsoft Channel 9 Video"></iframe>
 
 ## M&oacute;dulo IV - Power BI de extremo a extremo
 
-<iframe src="https://channel9.msdn.com/Series/Power-BI/Power-BI-de-extremo-a-extremo/player" width="960" height="540" allowfullscreen="" frameborder="0" title="Módulo IV - Power BI de extremo a extremo - Microsoft Channel 9 Video"></iframe>
+<iframe src="https://channel9.msdn.com/Series/Power-BI/Power-BI-de-extremo-a-extremo/player?format=html5" width="960" height="540" allowFullScreen frameBorder="0" title="Módulo IV - Power BI de extremo a extremo - Microsoft Channel 9 Video"></iframe>
