@@ -23,7 +23,7 @@ sidebar:
 
 ## M&oacute;dulo II - Evoluci&oacute;n de los Power
 
-<iframe src="https://channel9.msdn.com/Series/Power-BI/Evolucin-de-los-Power/player?format=progressive" width="960" height="540" allowFullScreen frameBorder="0" title="Módulo II - Evolución de los Power - Microsoft Channel 9 Video"></iframe>
+<iframe src="https://channel9.msdn.com/Series/Power-BI/Evolucin-de-los-Power/player?format=smooth" width="960" height="540" allowFullScreen frameBorder="0" title="Módulo II - Evolución de los Power - Microsoft Channel 9 Video"></iframe>
 
 ## M&oacute;dulo III - Introducci&oacute;n a Power BI
 
