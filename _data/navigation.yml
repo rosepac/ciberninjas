@@ -117,20 +117,34 @@ historia:
 vtuto:
   - title: "Seo & Posicionamiento"
     url: /categoria/#videotutorial-seo-y-posicionamiento
+  - title: "Android Studio"
+    url: /categoria/#videotutorial-android-studio
+  - title: "Material Design"
+    url: /categoria/#videotutorial-material-design
+  - title: "Javascript"
+    url: /categoria/#videotutorial-javascript
+  - title: "Scratch"
+    url: /categoria/#videotutorial-scratch
+  - title: "Arduino"
+    url: /categoria/#videotutorial-arduino
+  - title: "Excel"
+    url: /categoria/#videotutorial-excel
+  - title: "Azure"
+    url: /categoria/#videotutorial-azure
+  - title: "Big Data"
+    url: /categoria/#videotutorial-big-data
+  - title: "SQL Server"
+    url: /categoria/#videotutorial-sql-server
+  - title: "R"
+    url: /categoria/#videotutorial-r
 #  - title: ""
-#  url: ///
-#  - title: 
-#  url: ///
-#  - title:
-#  url:
-#  - title:
-#  url: 
+#    url: /categoria/#videotutorial-
+#  - title: ""
+#    url: /categoria/#videotutorial-
 #  title: 🔐 Seguridad
 #  children:
 #  - title: "Seguridad Informática"
 #  url: /categoria/#seguridad-informática
-#  - title: 
-#  url: ///
 #  - title:
 #  url: 
 #   - title="👨‍👩‍👧‍👦 Sociedad"    

@@ -4,7 +4,7 @@ title: "📚 ▷ Más de 400 Libros PDF 🔥 Aprender Desarrollo Web, Seguridad,
 description: "🚀 Biblioteca de PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Biblia de Libros PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 date: 2018-02-13T22:00:00.000+00:00
-last_modified_at: 2019-09-24T12:42:42-05:00
+last_modified_at: 2019-09-25T12:42:42-05:00
 permalink: /biblioteca-de-programacion-y-tecnologia/
 published: true
 # image: 
@@ -68,8 +68,8 @@ toc_sticky: false
 * [Conceptos elementales de computadores](http://lorca.act.uji.es/libro/conceptos_elementales_de_computadores.pdf) (PDF)
 * [Control de efectos del retraso en sistemas de tiempo real planificados con EDF](https://www.ctr.unican.es/publications/jll-jcp-2005a.pdf) (PDF)
 * [Industria 4.0: Tendencias de la literatura académica reciente](http://revistaespacios.com/a19v40n30/a19v40n30p27.pdf) (2019) (PDF)
-* [La Cuarta Revolución Industrial Está Aquí - ¿Está usted preparado?](https://www2.deloitte.com/content/dam/Deloitte/co/Documents/about-deloitte/Revoluci%C3%B3n%204.0%20142201.pdf)
-* [La Cuarta Revolución Industrial, Un relato desde el materialismo cultural](http://repositorio.ual.es/bitstream/handle/10835/4809/LA%20CUARTA%20REVOLUCION%20INDUSTRIAL.pdf) (2016) (PDF)
+* [La Cuarta Revolución Industrial Está Aquí - ¿Está usted preparado?](https://www2.deloitte.com/content/dam/Deloitte/co/Documents/about-deloitte/Revoluci%C3%B3n%204.0%20142201.pdf) (PDF)
+* [La Cuarta Revolución Industrial: Un relato desde el materialismo cultural](http://repositorio.ual.es/bitstream/handle/10835/4809/LA%20CUARTA%20REVOLUCION%20INDUSTRIAL.pdf) (2016) (PDF)
 * [Metamodelo UML para el modelado de tiempo real de aplicaciones distribuidas basadas en componentes](https://www.ctr.unican.es/publications/plm-jmd-jlm-2006a.pdf) (PDF)
 * [Metodología de modelado de sistemas de tiempo real orientada a la componibilidad](https://www.ctr.unican.es/publications/jlm-plm-jmd-2005a.pdf) (PDF)
 * [Middleware de distribución y modelo transaccional en sistemas de tiempo real](https://www.ctr.unican.es/publications/jjg-mgh-jlc-2005a.pdf) (PDF)
