@@ -1,15 +1,18 @@
 ---
 layout: collection
-title: "Enciclopedia Informática Tecnológica"
-description: "Enciclopedia informáticade tecnológica actualizada creada por Ciberninjas"
-excerpt: "Enciclopedia informáticade tecnológica actualizada creada por Ciberninjas"
+title: "WikiNinjas: La Enciclopedia Informática Tecnológica"
+description: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica actualizada creada por Ciberninjas"
+excerpt: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica actualizada creada por Ciberninjas"
 collection: wiki
 permalink: /wiki/
+canonical_URL: https://ciberninjas.com/wiki/
 published: true
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
+sort_by: title
+sort_order: reverse
 author_profile: false
 # sidebar:
 # - title: "Menú Principal"
