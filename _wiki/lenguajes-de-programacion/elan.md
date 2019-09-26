@@ -7,6 +7,7 @@ date: 2019-09-11 09:07:07
 published: true
 author_profile: false
 permalink: /wiki/elan
+canonical_URL: https://ciberninjas.com/wiki/elan
 
 ---
 

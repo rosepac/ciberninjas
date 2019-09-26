@@ -58,7 +58,7 @@ Storm no es más que una de las docenas de motores de procesamiento de flujo. Pa
 **Sitio Web**: [https://storm.apache.org](https://storm.apache.org "Página web oficial del proyecto Apache Storm")
 {: .notice--primary}
 
-**Categorías**: Aplicaciones Nube | Computación Paralela | Infraestructuras Nube
+**Categorías**: Aplicaciones Nube \| Computación Paralela \| Infraestructuras Nube
 {: .notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Elan - Software](https://en.wikipedia.org/wiki/ELAN_software) de la Wikipedia en inglés, versión del 22 de enero de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=ELAN_software&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
