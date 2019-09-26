@@ -11,7 +11,7 @@ tags:
   - Microsoft
   - Power BI
 categories:
-  - Videotutorial Power BI
+  - Videotutorial Excel
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
