@@ -1,25 +1,20 @@
 ---
 author_profile: false
-title: "👨‍🏫 Curso de Iniciando con Power BI de Microsoft TV"
-description: "📊 Curso de Iniciando con Power BI de Microsoft TV"
-excerpt: "📊 Curso de Iniciando con Power BI de Microsoft TV"
+title: "\U0001F468‍\U0001F3EB Curso: Iniciando con Power BI de Microsoft TV"
+description: "\U0001F4CA Curso: Iniciando con Power BI de Microsoft TV"
+excerpt: "\U0001F4CA Curso: Iniciando con Power BI de Microsoft TV"
 permalink: /curso-iniciando-power-bi-microsoft-tv
-canonical_URL: https://ciberninjas.com/curso-iniciando-power-bi-microsoft-tv
-# header:
-#   video:
-#     id: playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW
-#     provider: youtube
+canonical_URL: 'https://ciberninjas.com/curso-iniciando-power-bi-microsoft-tv'
 comments: true
-date: 2019-09-26
+date: 2019-09-26 02:00:00 +0200
 tags:
-# Creador, Editorial, Temática, Tipo de Música
-- Microsoft
-- Power BI
+  - Microsoft
+  - Power BI
 categories:
-- Videotutorial Power BI
+  - Videotutorial Power BI
 sidebar:
-- title: "Menú Videotutoriales"
-  nav: vtuto
+  - title: Menú Videotutoriales
+    nav: vtuto
 ---
 
 ## M&oacute;dulo I - An&aacute;lisis de Informaci&oacute;n
