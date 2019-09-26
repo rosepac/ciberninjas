@@ -8,6 +8,7 @@ comments: true
 date: 2019-06-20 11:06:39
 last_modified_at: 2019-08-26
 permalink: /ninite/
+canonical_URL: https://ciberninjas.com/ninite/
 header:
   image: "/assets/images/ninite-ciberninjas.jpg"
   image_description: "👷‍♂️ Ninite: Sistema de Gestión o Instalador Múltiple 👨‍💻 de Paquetes, Programas y Aplicaciones en Windows | Ciberninjas"
@@ -16,8 +17,8 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true    
----
 
+---
 
 ## 👨‍💻 ¿Qué es Ninite?
 

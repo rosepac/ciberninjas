@@ -7,6 +7,7 @@ comments: true
 date: 2018-03-01 07:03:36
 last_modified_at: 2019-08-21T18:29:02-05:00
 permalink: /chocolatey/
+canonical_URL: https://ciberninjas.com/chocolatey/
 header:
   image: "/assets/images/chocolatey-ciberninjas.jpg"
   image_description: Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows
