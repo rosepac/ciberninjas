@@ -16,7 +16,7 @@ tags:
 - Microsoft
 - Azure
 - Power Bi
-- Dashboards
+- Dashboard
 - Auditoría
 - Datos
 categories:
