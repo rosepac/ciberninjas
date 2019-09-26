@@ -1,39 +1,33 @@
 ---
 author_profile: false
-title: "👨‍🏫 Curso de Análisis de Datos con R Nivel avanzado de Microsoft TV"
-description: "🧠 Curso de Análisis de Datos con R Nivel avanzado de Microsoft TV"
-excerpt: "🧠 Curso de Análisis de Datos con R Nivel avanzado de Microsoft TV"
+title: "\U0001F468‍\U0001F3EB Curso de Análisis de Datos con R Nivel avanzado de Microsoft TV"
+description: "\U0001F9E0 Curso de Análisis de Datos con R Nivel avanzado de Microsoft TV"
+excerpt: "\U0001F9E0 Curso de Análisis de Datos con R Nivel avanzado de Microsoft TV"
 permalink: /curso-analisis-datos-r-avanzado-microsoft-tv
-canonical_URL: https://ciberninjas.com/curso-analisis-datos-r-avanzado-microsoft-tv
-# header:
-#   video:
-#     id: playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW
-#     provider: youtube
+canonical_URL: 'https://ciberninjas.com/curso-analisis-datos-r-avanzado-microsoft-tv'
 comments: true
-date: 2019-09-26
+date: 2019-09-26 02:00:00 +0200
 tags:
-# Creador, Editorial, Temática, Tipo de Música
-- Microsoft
-- Aprendizaje
-- Automático
-- Análisis
-- R
-- Datos
-- Agrupamiento
-- Análisis
-- Estadística
-- Gráfico
+  - Microsoft
+  - Aprendizaje
+  - Automático
+  - Análisis
+  - R
+  - Datos
+  - Agrupamiento
+  - Estadística
+  - Gráfico
 categories:
-- Videotutorial Aprendizaje Automático
+  - Videotutorial Aprendizaje Automático
 sidebar:
-- title: "Menú Videotutoriales"
-  nav: vtuto
+  - title: Menú Videotutoriales
+    nav: vtuto
 ---
 
-## Módulo I - Machine Learning
+## M&oacute;dulo I - Machine Learning
 
-<iframe src="https://channel9.msdn.com/Shows/Anlisis-de-Datos-con-R-Nivel-avanzado/Mdulo-I-Machine-Learning/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Módulo I - Machine Learning - Microsoft Channel 9 Video"></iframe>
+<iframe src="https://channel9.msdn.com/Shows/Anlisis-de-Datos-con-R-Nivel-avanzado/Mdulo-I-Machine-Learning/player?format=html5" width="640" height="360" allowfullscreen="" frameborder="0" title="Módulo I - Machine Learning - Microsoft Channel 9 Video"></iframe>
 
-## Módulo II - Predictive Analytics
+## M&oacute;dulo II - Predictive Analytics
 
-<iframe src="https://channel9.msdn.com/Shows/Anlisis-de-Datos-con-R-Nivel-avanzado/Mdulo-II-Predictive-Analytics/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Módulo II - Predictive Analytics - Microsoft Channel 9 Video"></iframe>
+<iframe src="https://channel9.msdn.com/Shows/Anlisis-de-Datos-con-R-Nivel-avanzado/Mdulo-II-Predictive-Analytics/player?format=html5" width="640" height="360" allowfullscreen="" frameborder="0" title="Módulo II - Predictive Analytics - Microsoft Channel 9 Video"></iframe>
