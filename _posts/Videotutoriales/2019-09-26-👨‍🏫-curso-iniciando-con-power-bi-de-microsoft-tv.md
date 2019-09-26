@@ -19,7 +19,7 @@ sidebar:
 
 ## M&oacute;dulo I - An&aacute;lisis de Informaci&oacute;n
 
-<iframe src="https://channel9.msdn.com/Series/Power-BI/Anlisis-de-Informacin/player?format=progressive" width="960" height="540" allowFullScreen frameBorder="0" title="Módulo I - Análisis de Información - Microsoft Channel 9 Video"></iframe>
+<iframe src="https://channel9.msdn.com/Series/Power-BI/Anlisis-de-Informacin/player?format=progressive" width="960" height="540" frameBorder="0" title="Módulo I - Análisis de Información - Microsoft Channel 9 Video"></iframe>
 
 ## M&oacute;dulo II - Evoluci&oacute;n de los Power
 
