@@ -60,6 +60,3 @@ toc_sticky: true
 
 
 ## 🎁 Off-topic / Regalo Extra
-
-
-
