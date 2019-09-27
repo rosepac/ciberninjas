@@ -15,10 +15,10 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-author_profile: false
-sidebar:
-- title: "Menú Principal"
-  nav: general
+author_profile: true
+# sidebar:
+# - title: "Menú Principal"
+#   nav: general
 ---
 
 Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas conocer un poco más sobre ello; hace algún tiempo escribí la historia del [origen de mi nombre en Internet](https://steemit.com/mysteemitname/@rosepac/el-origen-de-mi-nombre-rosepac "El Origen de mi Nombre/Nickname: ROSEPAC") además, en la misma publicación puedes comenzar a conocer en profundidad una pequeña parte de mi y de mis pensamientos.
