@@ -13,26 +13,33 @@ tags:
   - Información
   - Consulta
   - Offline
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
 ---
 
 > 📚 Kiwix te permite acceder al conocimiento universal - incluso desconectado
 
 ![1200px-Kiwix_logo.svg.png](https://steemitimages.com/DQmXas5sn8FPxTajG3MqvDTHKU38hb9btFpPwmnzN32rzYd/1200px-Kiwix_logo.svg.png)
 
-> **Kiwix** es un software libre, tan sencillo como impresionante y tan desconocido como pr&aacute;ctico y eficaz. Sobre todo, **Kiwix**, es un gran recurso educativo **Offline** para todas aquellas zonas y personas que no poseen los recursos necesarios.
+**Kiwix** es un software libre, tan sencillo como impresionante y tan desconocido como pr&aacute;ctico y eficaz. Sobre todo, **Kiwix**, es un gran recurso educativo **Offline** para todas aquellas zonas y personas que no poseen los recursos necesarios.
 
-Cito literal de [Kiwix.ORG](http://wiki.kiwix.org/wiki/Main_Page/es)
+## ❔Introducción a [Kiwix.ORG](https://kutt.it/wiki-offline-kiwix)
 
-> **Kiwix** es un lector de contenido web sin conexión, un software especialmente creado para disponer de **Wikipedia** sin internet, sin embargo es idóneo para visualizar cualquier contenido HTML Offline.
+Kiwix, es un software gratuito que lleva el conocimiento a millones de personas en todo el mundo, incluso a lugares remotos. Esto puede ser una escuela alejada de la ciudad. Un pais con poca accesibilidad a las redes. Puede servir para ahorrar datos cuando usted este de viaje por concepto de roaming. Donde quiera que vaya: Kiwix le da acceso a Wikipedia, Project Gutenberg, las charlas TED y mucho más, incluso si no tiene una conexión a Internet.
 
-¿Alguna vez quisiste descargar un pedazo de internet?
-¡Hoy es exactamente lo que te propongo!
-
-## Introducción de la [Web Oficial, Kiwix.ORG](https://kutt.it/wiki-offline-kiwix)
 En muchos lugares, Internet puede ser lento, poco confiable o incluso censurado. **Kiwix** es una solución fuera de línea que le permite acceder a contenidos educativos como [Wikipedia, Wiktionary, TED y muchos otros](https://kutt.it/kiwix-descarga "Enlace de descarga de Kiwix, la Wikipedia Offline") en cualquier computadora o teléfono inteligente, sin la necesidad de una conexión a Internet en vivo.
 
+## 🏛 Historia de Kiwix
 
-## Kiwix. Paso a Paso
+
+
+## 👨‍🔧 Kiwix. Paso a Paso
+
+> ¿Alguna vez quisiste descargar un pedazo de internet?
+> ¡Hoy es exactamente lo que te propongo!
+
 Kiwix es un oftware altamente sencillo de utilizar; incluye su buscador interno y unos botones para poder imprimir en PDF o maximizar y minimizar los contenidos. Además, una opción con la que generar y guardar marcadores.
 
 ![Captura de pantalla del frontal del software kiwix](https://image.ibb.co/nN3rAd/image.png)
