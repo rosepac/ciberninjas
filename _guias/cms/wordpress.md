@@ -2,9 +2,10 @@
 title: 👨‍💻 ▷ Jekyll, Aprender desde Cero
 description: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
 excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
-date: 2019-08-07T22:00:00.000+00:00
+date: 2019-09-27T22:00:00.000+00:00
 last_modified_at: 2019-08-20T16:20:02-05:00
 permalink: /wordpress/
+canonical_URL: https://ciberninjas.com/wordpress/
 published: false
 header:
   image: "/assets/images/jekyll-blog.jpg"
@@ -22,6 +23,11 @@ toc_sticky: true
 - [Cómo desactivar la REST API](https://ayudawp.com/como-desactivar-la-rest-api)
 - [Cómo editar su archivo php.ini](https://documentation.cpanel.net/display/CKB/How+to+Edit+Your+php.ini+File)
 - [Cómo proteger Wordpress con .htaccess](https://www.hostingroup.com/como-proteger-wordpress-con-htaccess)
+
+## Los Mejores Artículos de Wordpress en Inglés
+
+- [Cómo agregar fragmentos enriquecidos de preguntas frecuentes a WordPress (2019)](https://onlinemediamasters.com/faq-rich-snippets-wordpress)
+- [Cómo agregar una política de privacidad adecuada en WordPress](https://www.wpbeginner.com/beginners-guide/how-to-add-a-privacy-policy-in-wordpress)
 
 ## Plugins Wordpress
 
