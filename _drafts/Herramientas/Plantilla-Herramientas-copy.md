@@ -1,5 +1,5 @@
 ---
-title: "\U0001F528 Tutorial Kiwix: La Wikipedia y sus Repositorios Offline"
+title: "\U0001F528 Kiwix: La Wikipedia y sus Repositorios Offline"
 author_profile: true
 description: "\U0001F4DA Kiwix te permite acceder al conocimiento universal - incluso desconectado"
 excerpt: "\U0001F4DA Kiwix te permite acceder al conocimiento universal - incluso desconectado"
@@ -12,6 +12,7 @@ tags:
   - Enciclopedia
   - Información
   - Consulta
+  - Offline
 ---
 
 > 📚 Kiwix te permite acceder al conocimiento universal - incluso desconectado
@@ -20,4 +21,33 @@ tags:
 
 > **Kiwix** es un software libre, tan sencillo como impresionante y tan desconocido como pr&aacute;ctico y eficaz. Sobre todo, **Kiwix**, es un gran recurso educativo **Offline** para todas aquellas zonas y personas que no poseen los recursos necesarios.
 
-<div class="text-justify"><p>Hoy, intentar&eacute; ser lo m&aacute;s breve posible. Solamente deseo que conozcan este impresionante software documental enciclop&eacute;dico, y me ir&eacute; corriendo.. <strong><em>fiu, fiu, como el gato..</em></strong></p><div class="text-left"><p><em>Cito literal de <a href="http://wiki.kiwix.org/wiki/Main_Page/es">Wiki Kiwix.ORG</a></em></p><p>&lt;/div&gt; &gt; <strong>Kiwix</strong> es un lector de contenido web sin conexi&oacute;n, un software especialmente creado para disponer de <strong>Wikipedia</strong> sin internet, sin embargo es id&oacute;neo para visualizar cualquier contenido HTML Offline.</p><center><strong><em>&iquest;Alguna vez quisiste descargar un pedazo de internet? &iexcl;Hoy es exactamente lo que te propongo!</em></strong></center>___<div class="text-justify"><p>&nbsp;</p><p>## Informaci&oacute;n traducida de la [Web Oficial, Kiwix.ORG](https://kutt.it/wiki-offline-kiwix) En muchos lugares, Internet puede ser lento, poco confiable o incluso censurado. <strong>Kiwix</strong> es una soluci&oacute;n fuera de l&iacute;nea que le permite acceder a contenidos educativos como [Wikipedia, Wiktionary, TED y muchos otros](https://kutt.it/kiwix-descarga) en cualquier computadora o tel&eacute;fono inteligente, sin la necesidad de una conexi&oacute;n a Internet en vivo. ## Traemos contenido de internet a personas sin acceso a internet En escuelas, universidades, prisiones y, por supuesto, en casa. El contenido almacenado localmente ahorra ancho de banda y tiempo de descarga. <strong>Kiwix</strong> es peque&ntilde;o y eficiente, funciona en computadoras de baja potencia o viejas. Tambi&eacute;n se ejecuta en una amplia gama de sistemas operativos, desde Android e iOS hasta Microsoft Windows, macOS y distribuciones GNU / Linux. ## Ahora mi a&ntilde;adido, ech&eacute;mosle un vistazo r&aacute;pido a Kiwix Un software que m&aacute;s sencillo es imposible; incluye su buscador interno y unos botones para poder imprimir en PDF o maximizar y minimizar los contenidos. Adem&aacute;s, una opci&oacute;n con la que generar y guardar marcadores. ![Captura de pantalla del frontal del software kiwix](https://image.ibb.co/nN3rAd/image.png) Existen diferentes opciones de descarga de contenidos, en espa&ntilde;ol. Est&aacute;n disponibles las siguientes librer&iacute;as <em>(Ecured, Enciclopedia de Venezuela, Project Gutenberg, Vikidia, Wikcionario, Wikilibros, Wikinoticias, Wikipedia, Wikipedia M&eacute;dica, Wikiquote, Wikisource, Wikiversidad, Wikiviajes)</em>. ![Diferentes librerias de kiwix offline en espa&ntilde;ol](https://image.ibb.co/ivGNGJ/diferentes_estilos.gif) En algunas enciclopedias, sobre todo con la Wikipedia, necesitar&aacute;s m&aacute;s de 20 Gb de espacio. Puedes descargar totalmente gratis el software [desde aqu&iacute;](https://kutt.it/wiki-kiwix-lector), existe su aplicaci&oacute;n m&oacute;vil y la versi&oacute;n portable; entre otros. Una vez instalado, los paquetes (enciclopedias/repositorios) pueden ser descargados desde el propio programa. Simplemente debes descargarlo y copiarlo en un USB o en tu propia PC y a funcionar.</p><div><img alt="barra_separacion_si" border="0" src="https://image.ibb.co/i7qnPH/barra_separacion_si.png" /></div><center>![gatito leyendose un librito, tan ancho el jodio](https://media.giphy.com/media/p4qWWYF5dMM9y/giphy.gif)</center>**Fuente**: [Kiwix: La Wikipedia y sus Repositorios Offline](https://kutt.it/wiki-offline-kiwix "P&aacute;gina Web de Kiwix") {: .notice--info}</div><p>&nbsp;</p><p>&nbsp;</p></div></div>
+Cito literal de [Kiwix.ORG](http://wiki.kiwix.org/wiki/Main_Page/es)
+
+> **Kiwix** es un lector de contenido web sin conexión, un software especialmente creado para disponer de **Wikipedia** sin internet, sin embargo es idóneo para visualizar cualquier contenido HTML Offline.
+
+¿Alguna vez quisiste descargar un pedazo de internet?
+¡Hoy es exactamente lo que te propongo!
+
+## Introducción de la [Web Oficial, Kiwix.ORG](https://kutt.it/wiki-offline-kiwix)
+En muchos lugares, Internet puede ser lento, poco confiable o incluso censurado. **Kiwix** es una solución fuera de línea que le permite acceder a contenidos educativos como [Wikipedia, Wiktionary, TED y muchos otros](https://kutt.it/kiwix-descarga "Enlace de descarga de Kiwix, la Wikipedia Offline") en cualquier computadora o teléfono inteligente, sin la necesidad de una conexión a Internet en vivo.
+
+
+## Kiwix. Paso a Paso
+Kiwix es un oftware altamente sencillo de utilizar; incluye su buscador interno y unos botones para poder imprimir en PDF o maximizar y minimizar los contenidos. Además, una opción con la que generar y guardar marcadores.
+
+![Captura de pantalla del frontal del software kiwix](https://image.ibb.co/nN3rAd/image.png)
+
+Existen diferentes opciones de descarga de contenidos, en español. Están disponibles las siguientes librerías *(Ecured, Enciclopedia de Venezuela, Project Gutenberg, Vikidia, Wikcionario, Wikilibros, Wikinoticias, Wikipedia, Wikipedia Médica, Wikiquote, Wikisource, Wikiversidad, Wikiviajes)*.
+
+![Diferentes librerias de kiwix offline en español](https://image.ibb.co/ivGNGJ/diferentes_estilos.gif)
+
+En algunas enciclopedias, sobre todo con la Wikipedia, necesitarás más de 20 Gb de espacio.
+
+Puedes descargar totalmente gratis el software [desde aquí](https://kutt.it/wiki-kiwix-lector), existe su aplicación móvil y la versión portable; entre otros. Una vez instalado, los paquetes (enciclopedias/repositorios) pueden ser descargados desde el propio programa.
+
+Simplemente debes descargarlo y copiarlo en un USB o en tu propia PC y a funcionar.
+
+![gatito leyendose un librito, tan ancho el jodio](https://media.giphy.com/media/p4qWWYF5dMM9y/giphy.gif)
+
+**Fuente**: [Kiwix: La Wikipedia y sus Repositorios Offline](https://kutt.it/wiki-offline-kiwix "Página Web de Kiwix")
+{: .notice--info}
