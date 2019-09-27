@@ -3,7 +3,7 @@ title: "\U0001F528 Tutorial Kiwix: La Wikipedia y sus Repositorios Offline"
 author_profile: true
 description: "\U0001F4DA Kiwix te permite acceder al conocimiento universal - incluso desconectado"
 excerpt: "\U0001F4DA Kiwix te permite acceder al conocimiento universal - incluso desconectado"
-date:
+date: 2019-09-27 00:00:00 +0200
 categories:
   - Herramientas
 permalink:
