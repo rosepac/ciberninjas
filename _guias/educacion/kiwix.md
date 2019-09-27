@@ -3,18 +3,10 @@ title: "\U0001F528 Guía Kiwix: La Wikipedia y sus Repositorios Offline"
 author_profile: true
 description: "\U0001F4DA Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado"
 excerpt: "\U0001F4DA Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado"
+published: false
 date: 2019-09-27 00:00:00 +0200
-categories:
-  - Herramientas
-permalink:
-canonical_URL:
-tags:
-  - Enciclopedia
-  - Información
-  - Consulta
-  - Offline
-  - Wikipedia
-  - Conocimiento
+permalink: /kiwix/
+canonical_URL: https://ciberninjas.com/kiwix/
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -27,7 +19,7 @@ toc_sticky: true
 
 **Kiwix** es un software libre, tan sencillo como impresionante y tan desconocido como pr&aacute;ctico y eficaz. Sobre todo, **Kiwix**, es un gran recurso educativo **Offline** para todas aquellas zonas y personas que no poseen los recursos necesarios.
 
-## ❔Introducción a [Kiwix.ORG](https://kutt.it/wiki-offline-kiwix)
+## 📌 Introducción
 
 Kiwix, es un software gratuito que lleva el conocimiento a millones de personas en todo el mundo, incluso a lugares remotos. Esto puede ser una escuela alejada de la ciudad. Un pais con poca accesibilidad a las redes. Puede servir para ahorrar datos cuando usted este de viaje por concepto de roaming. Donde quiera que vaya: Kiwix le da acceso a Wikipedia, Project Gutenberg, las charlas TED y mucho más, incluso si no tiene una conexión a Internet.
 
