@@ -16,11 +16,49 @@ toc_sticky: true
 
 > ICONO DESCRIPCION
 
-## ❔Introducción a  NOMBRE
+## 📌 Introducción
+
+
+
+## 👨‍💻 ¿Qué es NOMBRE?
+
 
 
 ## 🏛 Historia de NOMBRE
 
 
+<!-- ## 🎈 Mantener las Aplicaciones Actualizadas -->
+
+
+<!-- ## 💞 Cómo compartir un instalador con un amigo -->
+
+
+<!-- ## 🏳 Selección de Idioma -->
 ## ⏩ Descargar KNOMBRE
+
+
+
+## 📋 Requisitos
+
+
+
+## 💭 Hablemos de NOMBRE
+
+
+
+## ⚙ Comandos
+
+
+
+### 👉 Lista de Comandos:
+
+
+
+## 🛠 Instalación de NOMBRE
+
+
+
+## 🎁 Off-topic / Regalo Extra
+
+
 
