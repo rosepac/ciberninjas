@@ -496,6 +496,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Crear temas para Wordpress utilizando Bootstrap 4](/👨‍🏫-curso-creacion-tema-wordpress-bootstrap-bluuweb) (Bluuweb!, YouTube)
 * [Curso de Bootstrap 3](https://devcode.la/cursos/bootstrap3) (DevCode)
 * [Curso de Bootstrap 3](/👨‍🏫-curso-bootstrap-3-falcon-masters) (Falcon Masters, Youtube)
+* [Curso de Bootstrap 4](/👨‍🏫-curso-bootstrap-4-bluuweb) (2019) (Bluuweb!, YouTube)
 * [Curso de Bootstrap 4](/👨‍🏫-curso-bootstrap-4-falcon-masters) (Falcon Masters, YouTube)
 * [La biblia perdida de Bootstrap 4](https://www.udemy.com/curso-la-biblia-perdida-de-bootstrap-4) (Udemy)
 * [PSD a HTML con Bootstrap 4!](https://www.udemy.com/curso-de-psd-a-html-con-bootstrap-4) (Udemy)
