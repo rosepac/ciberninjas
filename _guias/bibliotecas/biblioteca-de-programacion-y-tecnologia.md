@@ -90,10 +90,6 @@ toc_sticky: false
 * [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos) (Bubok)
 
 
-## CMS o Sistemas de Gestión de Contenidos
-
-* [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?) (PDF)
-
 ## ⛓ Blockchain
 
 ## Cadena de Bloques <i class="fas fa-link"></i>
@@ -195,7 +191,13 @@ toc_sticky: false
 * [Programación Funcional (1996)](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
 
 
-## 👦 Programación Infantil
+## 👦 Programación Niñ@s / Inicial
+
+### App Inventor
+
+* [Desarrollo de aplicaciones para Android usando MIT App Inventor 2 -2016](https://openlibra.com/en/book/download/desarrollo-de-aplicaciones-para-android-usando-mit-app-inventor-2) [2013](https://tecnoarboleda.files.wordpress.com/2014/02/desarrollo-para-android-usando-mit-appinventor.pdf)
+
+
 ### Scratch <i class="fas fa-paw"></i>
 
 * [Animar un Nombre](https://resources.scratch.mit.edu/www/cards/es/name-cards.pdf) [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/NameGuide.pdf) [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=name)
@@ -317,7 +319,6 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 
 * [Android 100%](https://drive.google.com/file/d/0BwVU1KZh_7htTmxPdmRmTVpaYjg/view) (PDF)
 * [Curso Android](http://www.hermosaprogramacion.com/android) (HTML)
-* [Desarrollo de aplicaciones para Android usando MIT App Inventor 2 -2016](https://openlibra.com/en/book/download/desarrollo-de-aplicaciones-para-android-usando-mit-app-inventor-2) [2013](https://tecnoarboleda.files.wordpress.com/2014/02/desarrollo-para-android-usando-mit-appinventor.pdf)
 * [Desarrollo de una aplicación móvil Android para control remoto de un servicio web (2012)](https://e-archivo.uc3m.es/bitstream/handle/10016/16913/TFG_Maria_Lozano_Perez.pdf) (PDF)
 * [EasyManet for Android (2013)](https://riunet.upv.es/bitstream/handle/10251/32786/Memoria.pdf) (PDF)
 * [Guía para la realización de aplicaciones móviles en los sistemas operativos Android e iOS](http://repository.udistrital.edu.co/bitstream/11349/6274/1/AvilaCruzHelmanCamilo2017.pdf) (PDF)
@@ -328,6 +329,13 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf) (PDF)
 * [Oficial: Introducción a Android](https://developer.android.com/guide/) (HTML)
 * [Programación en Android para principiantes](https://openlibra.com/es/book/download/curso-de-programacion-en-android-para-principiantes) (PDF)
 * [Seguridad en dispositivos Android](https://lsi.vc.ehu.eus/pablogn/investig/JornadasSeguridad141112.pdf) (PDF)
+
+
+## ✍ Sistemas de Gestión de Contenidos y ERP
+
+### Wordpress <i class="fab fa-wordpress"></i>
+* [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?) (PDF)
+
 
 ## Aplicaciones Multiplataforma
 
