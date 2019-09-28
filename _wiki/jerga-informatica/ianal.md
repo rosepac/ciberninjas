@@ -10,7 +10,7 @@ permalink: /wiki/ianal
 
 ---
 
-IANAL es una expresión en jerga informática que significa: No soy un abogado. Derivado de formar un acrónimo de las iniciales de la frase en inglés: I am not a lawyer.
+t-IANAL es una expresión en jerga informática que significa: No soy un abogado. Derivado de formar un acrónimo de las iniciales de la frase en inglés: I am not a lawyer.
 
 La expresión puede ser utilizada por personas que no sean abogados que busquen evitar acusaciones de práctica legal no autorizada y no hagan ninguna recomendación al destinatario particular de sus comentarios.
 

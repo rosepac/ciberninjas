@@ -10,7 +10,6 @@ permalink: /wiki/ciborg
 
 ---
 
-
 <!-- 
 #### NOTAS EXTRAÍDAS DE LIBRO
 -->
