@@ -16,8 +16,8 @@
 
 # Configuración de la Web
 locale: "es-ES"
-timezone: "Europe/Madrid"
-github: [metadata]
+# timezone: "Europe/Madrid"
+# github: [metadata]
 title: Ciberninjas ▷ Escuela Laboratorio
 subtitle: Escuela Laboratorio
 email: rosepac21@gmail.com
