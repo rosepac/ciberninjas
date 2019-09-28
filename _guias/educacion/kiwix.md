@@ -4,7 +4,7 @@ author_profile: true
 description: "\U0001F4DA Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado"
 excerpt: "\U0001F4DA Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado"
 published: false
-date: 2019-09-27 00:00:00 +0200
+date: 2019-09-27 01:10:23
 permalink: /kiwix/
 canonical_URL: https://ciberninjas.com/kiwix/
 toc: true
