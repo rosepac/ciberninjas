@@ -43,9 +43,6 @@ author:
     - label: "Café"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://paypal.me/ciberninjas"
-    - label: "Recursos Globales"
-      icon: "fas fa-fw fa-tools"
-      url: "https://kutt.it/recursos-globales"
     - label: "CiberAprendiz"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ciberaprendiz"
@@ -55,6 +52,9 @@ author:
     - label: "rosepac"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rosepac"
+    - label: "Recursos Globales"
+      icon: "fas fa-fw fa-tools"
+      url: "https://kutt.it/recursos-globales"
 
 search: true
 search_full_content: true
