@@ -10,7 +10,11 @@ main:
   - title: "👨‍🏫 Tutoriales"
     url: /videotutoriales/
   - title: "📽 Videoteca"
-    url: /videoteca/
+    url: /categoria/
+  - title: "🌈 Categorías"
+    url: /categoria/
+  - title: "Etiquetas"
+    url: /etiqueta/
   - title: "❔ Quién Soy"
     url: /quien-soy/
   - title: "ℹ Aviso Legal"
