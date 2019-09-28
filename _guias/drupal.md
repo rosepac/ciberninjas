@@ -1,13 +1,11 @@
 ---
-layout: post
 title: Drupal
 published: false
 author: rosepac
 comments: false
 date: 2019-07-17 09:07:07
-tags: [ ]
-categories: [ ]
-permalink: /drupal
+permalink: /drupal/
+
 ---
 ## ¿Qué es Drupal?
 
