@@ -1,5 +1,4 @@
 ---
-
 description: "Respecto y Pautas a seguir respecto al uso de los comentarios dentro de la página web: Ciberninjas, siendo un buen Internauta"
 excerpt: "Respecto y Pautas a seguir respecto al uso de los comentarios dentro de la página web: Ciberninjas, siendo un buen Internauta"
 date: 2018-12-01T12:42:42-05:00
@@ -10,7 +9,6 @@ author_profile: false
 sidebar:
 - title: "Menú Principal"
   nav: general
-
 ---
 
 1. Respeto. Política de tolerancia cero con todo aquello que se pueda considerar como “discurso del odio”.
