@@ -65,7 +65,15 @@ Big Data: Hacía la Cuarta Revolución Industrial (https://amzn.to/2mnv69y) [Ebo
 ## PHP Framework <i class="fab fa-php"></i>
 
 ### CodeIgniter
+* [CodeIgniter 3: Programación fácil en PHP con Patrón MVC](https://amzn.to/2mqv8OC) (Ebook)
+* [MVC CodeIgniter para simpáticos newbies](https://amzn.to/2mz96cg)(Ebook)
 
+
+## Docker <i class="fab fa-docker"></i>
+
+* [DOCKER. Seguridad y monitorización en contenedores e imágenes](https://amzn.to/2o6YlhL)
+* [Docker. Primeros pasos y puesta en práctica de una arquitectura basada en micro-servicios](https://amzn.to/2odnl7h)
+* [DOCKER. Guía práctica](https://amzn.to/2nyCrnC)
 
 
 ## Swift <i class="fab fa-apple"></i>

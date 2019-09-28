@@ -514,13 +514,15 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 
 * [Curso de Docker](https://www.youtube.com/playlist?list=PLEtcGQaT56chIpnSavOSvaU2ZGAW7d1vE) (Jesús Conde, Youtube)
 * [Docker](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS) (JGAITPro, YouTube)
-* [Docker para entornos de desarrollo](https://www.udemy.com/docker-para-entorno-de-desarrollo-web) (Udemy)
 * [Iniciando con Containers en Dockers](https://www.udemy.com/iniciando-con-containers-en-docker) (Udemy)
+* Introduccion a CodeIgniter(https://www.udemy.com/course/introduccion-codeigniter)
+* [Introducción al backend en PHP y MySQL (+ Docker)](https://www.udemy.com/course/introduccion-al-backend-en-php-y-mysql-docker)
 
 
 ## PHP Framework <i class="fab fa-php"></i>
 
 ### CodeIgniter
+* [Framework CodeIgniter para principiantes: Primeros pasos](https://www.udemy.com/course/codeigniter-para-principiantes-primeros-pasos) (Udemy)
 * [Introducción a CodeIgniter](https://www.udemy.com/introduccion-codeigniter) (Udemy)
 
 
