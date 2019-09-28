@@ -4,11 +4,10 @@
 language: ruby
 cache: bundler
 before_install:
+  - gem update --system
   - gem install bundler
 script:
   - bundle exec jekyll build
-  - bundle check
-  - bundle update
 branches:
   only:
     # Change this to gh-pages if you're deploying using the gh-pages branch
