@@ -489,14 +489,14 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 
 ## Bootstrap <i class="fab fa-bootstrap"></i>
 
-* [Aprende a crear Landing Pages con Bootstrap 3 o Instapage](https://www.udemy.com/crea-una-landing-page-que-enamore-sin-saber-programar/) (Udemy)
+* [Aprende a crear Landing Pages con Bootstrap 3 o Instapage](https://www.udemy.com/crea-una-landing-page-que-enamore-sin-saber-programar) (Udemy)
 * [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4) (Udemy)
 * [Bootstrap 4! Desde Cero](https://www.udemy.com/bootstrap-4-curso-desde-cero-2017-espanol) (Udemy)
 * [Bootstrap 4. Fundamentos: crea tu primer sitio responsive](https://www.udemy.com/curso-fundamentos-de-bootstrap-4) (Udemy)
-* [Crear temas para Wordpress utilizando Bootstrap 4](https://www.youtube.com/playlist?list=PLPl81lqbj-4KuiW_p8OejglqTEHmfeEto) (Bluuweb!, YouTube)
+* [Crear temas para Wordpress utilizando Bootstrap 4](/👨‍🏫-curso-creacion-tema-wordpress-bootstrap-bluuweb) (Bluuweb!, YouTube)
 * [Curso de Bootstrap 3](https://devcode.la/cursos/bootstrap3) (DevCode)
-* [Curso de Bootstrap 3](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWTKvu1Aq3xUhzIJNBZ3MFW) (Falcon Masters, Youtube)
-* [Diseño web con Bootstrap 3](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWTKvu1Aq3xUhzIJNBZ3MFW) (Falcon Masters, YouTube)
+* [Curso de Bootstrap 3](/👨‍🏫-curso-bootstrap-3-falcon-masters) (Falcon Masters, Youtube)
+* [Diseño web con Bootstrap 3](/👨‍🏫-curso-diseno-web-bootstrap-3-falcon-masters) (Falcon Masters, YouTube)
 * [La biblia perdida de Bootstrap 4](https://www.udemy.com/curso-la-biblia-perdida-de-bootstrap-4) (Udemy)
 * [PSD a HTML con Bootstrap 4!](https://www.udemy.com/curso-de-psd-a-html-con-bootstrap-4) (Udemy)
 
