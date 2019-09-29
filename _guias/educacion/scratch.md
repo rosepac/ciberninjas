@@ -1,5 +1,5 @@
 ---
-title: 👨‍💻 ▷ Cómo Aprender Scratch desde Cero
+title: "👨‍💻 ▷ Cómo Aprender Scratch desde Cero"
 description: "😼  Cómo Aprender Scratch desde Cero."
 excerpt: "😼 Cómo Aprender Scratch desde Cero."
 published: false

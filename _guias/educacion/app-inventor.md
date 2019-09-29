@@ -1,5 +1,5 @@
 ---
-title: 👨‍💻 ▷ Cómo Aprender Programación en Android con App Inventor
+title: "👨‍💻 ▷ Cómo Aprender Programación en Android con App Inventor"
 description: "📱 App Inventor: Cómo Aprender a Programar Aplicaciones para Anndroid siendo un niño."
 excerpt: "📱 App Inventor: Cómo Aprender a Programar Aplicaciones para Anndroid siendo un niño."
 published: false

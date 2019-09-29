@@ -1,5 +1,5 @@
 ---
-title: 👨‍💻 ▷ Recursos Educativos DAW, Ciclo de Formación Profesional de Desarrollo de Aplicaciones Web
+title: "👨‍💻 ▷ Recursos Educativos DAW, Ciclo de Formación Profesional de Desarrollo de Aplicaciones Web"
 description: "👨‍🎓 Los mejores recursos complementarios para estudiar el Ciclo Formación Profesional de Desarrollo de Aplicaciones Web."
 excerpt: "👨‍🎓 Los mejores recursos complementarios para estudiar el Ciclo Formación Profesional de Desarrollo de Aplicaciones Web."
 published: true
@@ -22,20 +22,18 @@ toc_sticky: true
 > Recopilación de apuntes, cursos y libros relacionados por asignaturas del FP de Desarrollo de Aplicaciones Web: DAW
 
 Con lo primero que se encuentra una persona al comenzar los estudios de formación profesional a distancia, es con el serio problema de no poseer los apuntes tomados personalmente; con los que lograr centrarse únicamente en estudiar mediante una dinámica organizada. 
+
 Por eso, lo primero que tiende a hacer uno, es ir a buscar información complementaria.
 
 Al dar este paso, uno se sumerge en el mundo de la información infinita; la documentación masificada a lo largo de miles de plataformas y en distintos soportes. Con lo que puedes llegar a volverte ‘loco’.
 
 Pues he aquí, los documentos que mayor validez han tenido para mi hasta el momento durante un largo año y medio peleando contra el código 😎
 
-***
-
 ## Temario Completo
 
 Existe un repositorio Online de apuntes referentes al temario de DAW, todos los apuntes están en documentos PDF y pueden encontrarse en la página web [www.sitiolibre.com](http://www.sitiolibre.com) de José Luis Comesaña.
 
-[**José Luis Comesaña. Técnico informático. Página web personal. www.sitiolibre.com**
-*sitio libre; sitiolibre; Página personal de José Luis Comesaña, técnico informático y diseñador web de Sevilla*www.sitiolibre.com](http://www.sitiolibre.com/)
+[José Luis Comesaña. Técnico informático. Página web personal](http://www.sitiolibre.com/)
 
 Estos mismos apuntes, están disponibles en [Github](https://github.com) vía repositorio creado por [Statickidz](https://github.com/statickidz/TemarioDAW#temario-daw).
 
@@ -56,23 +54,27 @@ Los recursos se centran en:
 
 - Diseño Conceptual de Bases de Datos (2.004)
 
-[**OpenLibra | Diseño Conceptual de Bases de Datos**
-*Todas las empresas requieren almacenar información, desde siempre lo han hecho. La información puede ser de todo tipo…*openlibra.com](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos)
+[**OpenLibra | Diseño Conceptual de Bases de Datos**](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos)
+
+Todas las empresas requieren almacenar información, desde siempre lo han hecho. La información puede ser de todo tipo
 
 - Apuntes Básicos de SQL (2.008)
 
-[**OpenLibra | Apuntes Básicos de SQL**
-*Estos apuntes son una introducción muy básica al SQL, en ningún caso sustituyen a un buen manual. Simplemente pueden…*openlibra.com](https://openlibra.com/es/book/download/apuntes-basicos-de-sql)
+[**OpenLibra | Apuntes Básicos de SQL**](https://openlibra.com/es/book/download/apuntes-basicos-de-sql)
+
+Estos apuntes son una introducción muy básica al SQL, en ningún caso sustituyen a un buen manual.
 
 - Bases de Datos (2.010)
 
-[**OpenLibra | Bases de Datos**
-*Este texto se ha elaborado para dar soporte a un curso sobre Bases de Datos orientado a las Ingenierías Informáticas…*openlibra.com](https://openlibra.com/es/book/download/bases-de-datos-2)
+[**OpenLibra | Bases de Datos**](https://openlibra.com/es/book/download/bases-de-datos-2)
+
+Este texto se ha elaborado para dar soporte a un curso sobre Bases de Datos orientado a las Ingenierías Informáticas
 
 - Bases de Datos Avanzadas (2.013)
 
-[**OpenLibra | Bases de datos avanzadas**
-*Esta publicación incluye los apuntes de teoría de una asignatura de cuyo nombre adopta el título de bases de datos…*openlibra.com](https://openlibra.com/es/book/download/bases-de-datos-avanzadas)
+[**OpenLibra | Bases de datos avanzadas**](https://openlibra.com/es/book/download/bases-de-datos-avanzadas)
+
+Esta publicación incluye los apuntes de teoría de una asignatura de cuyo nombre adopta el título de bases de datos
 
 ------
 
@@ -80,43 +82,41 @@ Los recursos se centran en:
 
 - Programación en Lenguaje JAVA (2.015) OpenCourse
 
-[**Curso: Programación en Lenguaje Java (2015)**
-*"Programación en Lenguaje Java" en el que se ven los fundamentos de la programación de computadores y del razonamiento…*ocw.unican.es](https://ocw.unican.es/course/view.php?id=26)
+[**Curso: Programación en Lenguaje Java (2015)**](https://ocw.unican.es/course/view.php?id=26)
+
+"Programación en Lenguaje Java" en el que se ven los fundamentos de la programación de computadores y del razonamiento
 
 - Programación en JAVA (2.012)
 
-[**Programación en Java - Sitio Web de Javier García Escobedo (javiergarciaescobedo.es)**
-*Edit description*javiergarciaescobedo.es](https://javiergarciaescobedo.es/programacion-en-java)
+[**Programación en Java - Sitio Web de Javier García Escobedo (javiergarciaescobedo.es)**](https://javiergarciaescobedo.es/programacion-en-java)
 
 - Programación en JAVA (2.008) OpenCourse
 
-[**Programación en Lenguaje Java - OCW - UC3M**
-*Curso básico de programación orientada a objetos en Java*ocw.uc3m.es](http://ocw.uc3m.es/historico/programacion-java)
+[**Programación en Lenguaje Java - OCW - UC3M**](http://ocw.uc3m.es/historico/programacion-java)
+
+Curso básico de programación orientada a objetos en Java*ocw.uc3m.es
 
 - Fundamentos de programación C y JAVA (2.007)
 
-[**OpenLibra | Fundamentos de Programación (C y Java)**
-*En este trabajo se recogen los Apuntes de Fundamentos de Programación Primer Curso del Ciclo de Grado Superior de ASI…*openlibra.com](https://openlibra.com/es/book/download/fundamentos-de-programacion-c-y-java)
+[**OpenLibra | Fundamentos de Programación (C y Java)**](https://openlibra.com/es/book/download/fundamentos-de-programacion-c-y-java)
 
 - Apuntes de programación orientada a objetos en Java: Fundamentos de programación y principios de diseño (2.008)
 
-[**Programacin en Java: Fundamentos de programacin y principios de diseo**
-*Introduccin al uso de Internet*elvex.ugr.es](http://elvex.ugr.es/decsai/java/)
+[**Programacin en Java: Fundamentos de programacin y principios de diseño**](http://elvex.ugr.es/decsai/java/)
 
 - JAVA. ArkaitzGarro
 
-[**Java**
-*No comercial: no puedes utilizar esta obra con fines comerciales de ningún tipo. Entre otros, no puedes vender esta…*www.arkaitzgarro.com](https://www.arkaitzgarro.com/java/)
+[**Java**](https://www.arkaitzgarro.com/java/)
 
 - JQuery. ArkaitzGarro
 
-[**jQuery**
-*Compartir igual: si alteras o transformas esta obra o si realizas una obra derivada, debes compartir tu trabajo…*www.arkaitzgarro.com](https://www.arkaitzgarro.com/jquery/)
+[**jQuery**](https://www.arkaitzgarro.com/jquery/)
 
 - Programación Básica en JAVA (2.009)
 
-[**OpenLibra | Programación Básica en Java**
-*Java es un lenguaje de programación que se desarrolló para satisfacer las nuevas necesidades que requería la creación…*openlibra.com](https://openlibra.com/es/book/download/programacion-basica-en-java)
+[**OpenLibra | Programación Básica en Java**](https://openlibra.com/es/book/download/programacion-basica-en-java)
+
+Java es un lenguaje de programación que se desarrolló para satisfacer las nuevas necesidades que requería la creación
 
 - Ejercicios de Programación en JAVA (2.011)
 
@@ -125,8 +125,9 @@ Los recursos se centran en:
 
 - Desarrollo de Proyectos Informáticos con Tecnología JAVA (2.012)
 
-[**OpenLibra | Desarrollo de Proyectos Informáticos con Tecnología Java**
-*La escritura de un libro es una tarea ingente. La motivación para abordarla debe ser, al menos, tan grande como la…*openlibra.com](https://openlibra.com/es/book/download/desarrollo-de-proyectos-informaticos-con-tecnologia-java)
+[**OpenLibra | Desarrollo de Proyectos Informáticos con Tecnología Java**](https://openlibra.com/es/book/download/desarrollo-de-proyectos-informaticos-con-tecnologia-java)
+
+La escritura de un libro es una tarea ingente. La motivación para abordarla debe ser, al menos, tan grande como la
 
 - Programación Orientada a Objetos en JAVA (2.006)
 
