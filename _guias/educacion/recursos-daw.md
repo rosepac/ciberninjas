@@ -7,6 +7,7 @@ comments: true
 date: 2017-09-17
 last_modified_at: 2019-09-29
 permalink: /recursos-daw/
+canonical_URL: https://ciberninjas.com/recursos-daw/
 # header:
 #   image: "/assets/images/chocolatey-ciberninjas.jpg"
 #   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
