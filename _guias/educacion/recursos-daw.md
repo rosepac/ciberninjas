@@ -146,7 +146,8 @@ Prácticas de JAVA (2.006)
 
 * [**OpenLibra: Prácticas de Java**](https://openlibra.com/es/book/download/practicas-de-java)
 
-> Con las siguientes prácticas se pretende afianzar los conceptos de programación orientada a objetos (POO)
+Con las siguientes prácticas se pretende afianzar los conceptos de programación orientada a objetos (POO)
+{: notice--info}
 
 Piensa en JAVA. Edición Española (2.002)
 
@@ -162,7 +163,8 @@ Guía Completa de CSS3. Antonio Navajas
 
 * [**OpenLibra: Guía Completa de CSS3**](https://openlibra.com/es/book/download/guia-completa-de-css3)
 
-> CSS u hojas de estilo en cascada (en inglés Cascading Style Sheets) es un lenguaje usado para definir la presentación
+CSS u hojas de estilo en cascada (en inglés Cascading Style Sheets) es un lenguaje usado para definir la presentación
+{: .notice--info}
 
 CSS3 y JavaScript Avanzado (2.013)
 
