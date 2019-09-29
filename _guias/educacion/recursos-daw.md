@@ -1,5 +1,5 @@
 ---
-title: 👨‍💻 ▷ Recursos Educativos para el Ciclo Formativo de Desarrollo de Aplicaciones Web: DAW
+title: 👨‍💻 ▷ Recursos Educativos DAW, Ciclo de Formación Profesional de Desarrollo de Aplicaciones Web
 description: "👨‍🎓 Los mejores recursos complementarios para estudiar el Ciclo Formación Profesional de Desarrollo de Aplicaciones Web."
 excerpt: "👨‍🎓 Los mejores recursos complementarios para estudiar el Ciclo Formación Profesional de Desarrollo de Aplicaciones Web."
 published: true
