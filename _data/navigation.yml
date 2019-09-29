@@ -13,9 +13,9 @@ main:
     url: /categoria/
   - title: "🌈 Categorías"
     url: /categoria/
-  - title: "Etiquetas"
+  - title: "🏷 Etiquetas"
     url: /etiqueta/
-  - title: "❔ Quién Soy"
+  - title: "😽 Quién Soy"
     url: /quien-soy/
   - title: "ℹ Aviso Legal"
     url: /aviso-legal/

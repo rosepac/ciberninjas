@@ -155,7 +155,7 @@ toc_sticky: false
 * [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf) (PDF)
 * [El Control de Versiones en el aprendizaje de la Ingeniería Informática: Un enfoque práctico](http://bioinfo.uib.es/~joemiro/aenui/procJenui/Jen2007/ruelco.pdf) (PDF)
 * [Entorno CASE para el desarrollo de sistemas de tiempo real (2003)](https://www.ctr.unican.es/publications/jlm-plm-jmd-2003.pdf) (PDF)
-* [Git y GitHub. Guía de Supervivencia](http://localhost/wordpress/producto/git-y-github-guia-de-supervivencia) (Descarga PDF)
+* [Git y GitHub. Guía de Supervivencia](https://leanpub.com/gitygithub) (Descarga PDF)
 * [Guía a la galaxía de aplicaciones móviles](https://openlibra.com/es/book/download/guia-para-la-galaxia-de-aplicaciones-moviles) (PDF)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Más allá de Google (2008)](http://www.infonomia.com/wp-content/uploads/2014/11/40.-Mas-alla-de-Google.pdf) (PDF)

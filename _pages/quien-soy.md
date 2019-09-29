@@ -33,7 +33,7 @@ No descarto que la culpa sea mía por no saber centrarme en una temática concre
 
 ### Lee mis artículos antiguos en Medium
 
-- [Chocolatey, instalador múltiple y práctico](https://medium.com/mundo-framework/chocolatey-instalador-m%C3%BAltiple-y-pr%C3%A1ctico-ea573d7b8d12)
+- [Chocolatey, instalador múltiple y práctico](/chocolatey/)
 - [Facebook comienza a lanzar puestos de trabajo, luchando contra Linkedin](https://medium.com/mundo-framework/facebook-comienza-a-lanzar-puestos-de-trabajo-luchando-contra-linkedin-d69f579a50a6)
 - [¿Cómo aprender React, Angular o Vue?](https://medium.com/mundo-framework/c%C3%B3mo-aprender-react-angular-o-vue-569f9234d105)
 - [Herramientas para crear impresionantes animaciones avanzadas en HTML5](https://medium.com/mundo-framework/herramientas-animaciones-avanzadas-html5-777cf2782df7)
