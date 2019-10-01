@@ -60,7 +60,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion) (OCW)
 * [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134) (OCW)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a>
 
 ## Big Data 👨‍👩‍👦
 
@@ -77,7 +77,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Power BI en ambientes empresariales](https://mva.microsoft.com/es-es/training-courses/power-bi-en-ambientes-empresariales-17802) (Microsoft Channel 9)
 * [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau) (Alberto Prieto Espinosa, YouTube)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--danger btn--large"> Regresar 🔝</a>
 
 ## 🔬 Ciencias de la Computación
 
@@ -177,7 +177,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [UML. Fundamentos, diagramas. Caso de estudio](https://www.udemy.com/uml-fundamentos-5-diagramas-caso-de-estudio) (Udemy)
 * [Variable compleja para métodos matemáticos. Parte 1](https://www.udemy.com/variable-compleja-para-metodos-matematicos-parte-1) (Udemy)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--info btn--large"> Regresar 🔝</a>
 
 ## 🛒 Comercio Electrónico
 
@@ -198,7 +198,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://www.udemy.com/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa) (Udemy)
 * [Tienda Online con WooCommerce desde cero](https://www.udemy.com/tienda-online-con-woocommerce-desde-cero) (Udemy)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--light btn--large"> Regresar 🔝</a>
 
 ## ⛓ Blockchain
 
@@ -222,7 +222,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://www.udemy.com/curso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx) (Udemy)
 * [Trading Forex para principiantes - Estrategias Clave](https://www.udemy.com/estrategias-trading-forex-y-operaciones-bursatiles) (Udemy)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--dark btn--large"> Regresar 🔝</a>
 
 ## 💼 Flujos de Trabajo
 
