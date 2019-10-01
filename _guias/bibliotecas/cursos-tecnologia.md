@@ -542,8 +542,9 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Laravel 5.6](https://www.youtube.com/playlist?list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt) (Raul Palacios, YouTube)
 
 
-## Código y Programación Global <i class="fas fa-code"></i>
+## 👩‍💻 Programación <i class="fas fa-code"></i>
 
+* [Aprende a programar en Python desde 0 con este Curso para principiantes](https://unipython.com/curso-python-nivel-principiante) (HTML)
 * [¿Por dónde empezar con el desarrollo web? Empieza aquí](https://www.udemy.com/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html) (Udemy)
 * [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
 * [Aplicaciones móviles (2011)](http://ocw.uc3m.es/ingenieria-telematica/aplicaciones-moviles) (OCW)
@@ -560,7 +561,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Aprende las bases del CSS](https://www.udemy.com/curso-basico-de-css) (Udemy)
 * [Aprende PHP y MySQlLi, conceptos básicos](https://www.udemy.com/php-para-principiantes) (Udemy)
 * [Aprende VUE2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso) (WMedia)
-
 * [CakePHP 2](https://www.youtube.com/playlist?list=PL-9WnOL7eRJYmdqHWCKigyl_tRHjNkrlF) (Edson Mollericona Marin, YouTube)
 * [CakePHP 3 Básico](https://www.youtube.com/playlist?list=PL-9WnOL7eRJZFoTXKm7EvR_p38rtF87YH) (Edson Mollericona Marin, YouTube)
 * [Cómo crear una página web](https://devcode.la/cursos/como-crear-una-pagina-web) (DevCode)
