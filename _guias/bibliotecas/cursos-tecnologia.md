@@ -359,7 +359,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 <!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
 
 
-## 👨‍💻 😜 Lenguajes de Programación
+## 👨‍💻 Lenguajes de Programación
 
 ## Python 🐍
 
