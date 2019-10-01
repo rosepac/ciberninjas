@@ -21,11 +21,24 @@ toc_sticky: false
 
 ---
 
-En la actualidad son más de 800 cursos, organizados por diferentes temáticas. Impartidos a través de las Universidades de **educación digital: como Miriadax, Udemy, EDX**, o **cursos de formación abierta/MOOC** dentro de los repositorios universitarios de las universidades más importantes del mundo de habla hispana.
+En la actualidad son más de 800 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
 
 <details>
 <summary>Saber Más</summary>
 <br/>
+<p>Entre otras universidades, las siguientes:</p>
+<ol>
+<li>Universidad Politécnica de Madrid</li>
+<li>Universidad de Cantabria</li>
+<li>Universidad Jaime I de Castellón</li>
+<li>Universidad Carlos III de Madrid</li>
+<li>Universidad de La Laguna de Tenerife</li>
+<li>Universidad Politécnica de Valencia</li>
+<li>Universidad de Alicante</li>
+<li>Universidad Nacional de Rosario \ Argentina</li>
+<li>Universidad de Málaga</li>
+<li>...</li>
+</ol>
 <p>Cursos sobre: Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.</p>
 <p>En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada tecnología concreta.</p>
 </details>
@@ -60,7 +73,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion) (OCW)
 * [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134) (OCW)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a>
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## Big Data 👨‍👩‍👦
 
@@ -77,7 +90,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Power BI en ambientes empresariales](https://mva.microsoft.com/es-es/training-courses/power-bi-en-ambientes-empresariales-17802) (Microsoft Channel 9)
 * [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau) (Alberto Prieto Espinosa, YouTube)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--danger btn--large"> Regresar 🔝</a>
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 🔬 Ciencias de la Computación
 
@@ -177,7 +190,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [UML. Fundamentos, diagramas. Caso de estudio](https://www.udemy.com/uml-fundamentos-5-diagramas-caso-de-estudio) (Udemy)
 * [Variable compleja para métodos matemáticos. Parte 1](https://www.udemy.com/variable-compleja-para-metodos-matematicos-parte-1) (Udemy)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--info btn--large"> Regresar 🔝</a>
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 🛒 Comercio Electrónico
 
@@ -198,7 +211,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://www.udemy.com/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa) (Udemy)
 * [Tienda Online con WooCommerce desde cero](https://www.udemy.com/tienda-online-con-woocommerce-desde-cero) (Udemy)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--light btn--large"> Regresar 🔝</a>
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## ⛓ Blockchain
 
@@ -222,7 +235,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://www.udemy.com/curso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx) (Udemy)
 * [Trading Forex para principiantes - Estrategias Clave](https://www.udemy.com/estrategias-trading-forex-y-operaciones-bursatiles) (Udemy)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--dark btn--large"> Regresar 🔝</a>
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 💼 Flujos de Trabajo
 
@@ -256,7 +269,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158) (OCW)
 * [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119) (OCW)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 💻 Ofimática
 
@@ -313,8 +326,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Software Libre y Conocimiento en Abierto](https://miriadax.net/web/soft_libre_y_conocimiento/inicio) (MiriadaX)
 * [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-) (MiriadaX)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 🔨 Procesadores de Lenguaje
 
@@ -326,8 +338,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56) (OCW)
 * [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes) (OCW)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 👦 Programación Niñ@s / Inicial
 
@@ -358,12 +369,13 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar) (Coursera)
 <!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
 
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 👨‍💻 Lenguajes de Programación
 
 ## Python 🐍
 
-Analista de Datos con Python (https://unipython.com/curso-analisis-datos) (Unipython)
+* [Analista de Datos con Python](https://unipython.com/curso-analisis-datos) (Unipython)
 * [Aprende programación en Python desde cero](https://www.udemy.com/course/aprende-programacion-en-python-desde-cero)
 * [Aprende a programar en Python desde 0](https://unipython.com/curso-python-nivel-principiante) (Unipython)
 * [Aprende Python desde cero](https://www.udemy.com/aprende-python-desde-cero-b) (Udemy)
@@ -380,7 +392,8 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Introducción a la Programación con Python](https://www.udemy.com/course/introduccion-a-la-programacion-con-python-juan-de-la-torre)
 * [Web Scraping](https://unipython.com/curso-web-scraping)
 
-## Todo
+Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación" 🚧
+{: .notice--warning}
 
 * [Actualización PHP 7](https://www.udemy.com/actualizacion-php-7) (Udemy)
 * [Análisis, validación y depuración de software (2015)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=11566&p_caca=2015) (OCW)
@@ -469,9 +482,10 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Tecnologías de la Programación (2009)](http://ocw.um.es/ingenierias/tecnologia-de-la-programacion) (OCW)
 * [Test Driven Development con Java y Junit5](https://www.udemy.com/testdrivendevelopment) (Udemy)
 
+Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación" 🚧
+{: .notice--warning}
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--warning btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 👩‍💻 Desarrollo Web
 
@@ -560,7 +574,9 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Laravel 5.4: crear tu primer sitio web](https://www.udemy.com/primeros-pasos-con-laravel) (Udemy)
 * [Laravel 5.6](https://www.youtube.com/playlist?list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt) (Raul Palacios, YouTube)
 
-## TODO 🚧 Por Reordenar 🚧
+👇👇👇 🚧 "Cursos Pendientes de ReOrganizar" 🚧 Hasta la siguiente señalización 👇👇👇
+{: .notice--warning}
+
 * [Aprende a programar en Python desde 0 con este Curso para principiantes](https://unipython.com/curso-python-nivel-principiante) (HTML)
 * [¿Por dónde empezar con el desarrollo web? Empieza aquí](https://www.udemy.com/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html) (Udemy)
 * [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
@@ -691,7 +707,6 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Jump Start para el desarrollo en HTML5 con Javascript y CSS3](https://mva.microsoft.com/es-es/training-courses/jump-start-para-el-desarrollo-en-html5-con-javascript-y-css3-14446) (Microsoft Channel 9)
 * [Jump Start Pila MEAN](https://mva.microsoft.com/es-es/training-courses/jump-start-pila-mean-8442) (Microsoft Channel 9)
 * [JUnit](https://www.makigas.es/series/junit) (makigas)
-
 * [LESS de cero a experto](https://www.udemy.com/less-de-cero-a-experto) (Udemy)
 * [Los cimientos de un desarrollador web: HTML](https://www.udemy.com/los-cimientos-de-un-desarrollador-web-html) (Udemy)
 * [Menus responsive](http://jotajotavm.com/Menus-Responsive-00-Introduccion.html) (jotajotavm)
@@ -738,7 +753,10 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Yo puedo programar mi propia web](https://mva.microsoft.com/es-es/training-courses/yopuedoprogramar-mi-pgina-web-18162) (Microsoft Channel 9)
 * [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC) (César Cancino, YouTube)
 
+👆👆👆 🚧 "Cursos Pendientes de ReOrganizar" 🚧 ☝☝☝
+{: .notice--warning}
 
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## Swift <i class="fab fa-apple"></i>
 
@@ -748,8 +766,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Soy iOS Dev. El mundo del desarrollo iOS](https://campusiosonline.com/courses/soy-ios-dev-el-mundo-del-desarrollo-ios)
 * [Swift 5 y Xcode 10 - Crea una App Calculadora desde 0 en iOS](https://www.udemy.com/course/curso-swift-5-xcode-10-crea-una-app-desde-cero-en-ios)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## Redes 🕸 🕷 🕸
 
@@ -797,8 +814,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Windows Server 2012: Licenciamiento de la nube privada](https://mva.microsoft.com/es-es/training-courses/windows-server-2012-licenciamiento-de-la-nube-privada-11643) (Microsoft Channel 9)
 * [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://www.udemy.com/windows-server-y-linux-para-principiantes) (Udemy)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 📞 Redes de Telefonía
 * [Antenas y telescopios: control de seguimiento (2012)](https://ocw.ehu.eus/course/view.php?id=45) (OCW)
@@ -818,8 +834,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Técnico en instalaciones eléctricas](https://www.youtube.com/playlist?list=PLB020119D3152A1FC) (Óscar Delgado, YouTube)
 * [Transmisión de datos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=4533&p_caca=2010) (OCW)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 🤖 Robótica
 
@@ -846,8 +861,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Taller de Prototipos]
 * [Técnicas de Reconocimiento y Síntesis del Habla (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-de-reconocimiento-y-sintesis-del-habla-2006.html) (OCW)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## Arduino 🔦
 
@@ -859,8 +873,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed) (MiriadaX)
 * [Tu primer Robot con Arduino](https://mva.microsoft.com/es-es/training-courses/tu-primer-robot-con-arduino-8618) (Microsoft Channel 9)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## Casas Inteligentes 🏡
 
@@ -882,6 +895,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Machine Learning: Nivel Intermedio](https://mva.microsoft.com/es-es/training-courses/machine-learning-nivel-intermedio-17804) (Microsoft Channel 9)
 * [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://www.udemy.com/course/curso-machine-learning)
 
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## Raspberry Pi 
 
@@ -890,8 +904,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Raspberry Pi Workshop 2018](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor): Conviértete en un Codificador / Creador / Inventor (Udemy | Subtítulos en Inglés)
 * [Termómetro digital con Raspberry Pi(2017)](https://www.udemy.com/termometro-digital-con-raspberry-pi) (Udemy)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## Seguridad 🔑 🚔 🔐
 
@@ -918,8 +931,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Seguridad, privacidad y protección de datos I (2012)](http://ocw.uv.es/ciencias-sociales-y-juridicas/seguridad-privacidad-y-proteccion-de-datos-i/Course_listing) (OCW)
 * [Wireless penetration con Kali Linux](https://www.youtube.com/playlist?list=PL-G03HRCQgdFKAaW718J14tKDM63mGirL) (Hacking y Más, YouTube)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## ⛅ Servidores y Servicios en nube
 
@@ -1009,8 +1021,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Windows Server 2012 - Gestión y Automatización](https://mva.microsoft.com/es-es/training-courses/windows-server-2012-gestin-y-automatizacin-9120) (Microsoft Channel 9)
 * [Windows Server 2016](https://www.youtube.com/playlist?list=PLn5IkU1Zhgibnm35AkK0OADKx9KacjbxW) (JGAITPro, YouTube)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## ✍ Sistemas de Gestión de Contenidos y ERP
 
@@ -1053,10 +1064,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 
 ### Wordpress <i class="fab fa-wordpress"></i>
 
-
-
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 👨‍🔧 Técnico de Software & Hardware
 
@@ -1142,6 +1150,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Unity 5: Creando un juego para PC](https://www.udemy.com/curso-unity-5-creando-un-juego-para-pc) (Udemy)
 * [Unreal Engine para principiantes](https://www.udemy.com/unreal-engine-principiantes) (Udemy)
 
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 👷‍♂️ Webmaster
 
@@ -1180,6 +1189,7 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Zoho CRM App: gestiona tus clientes desde tu móvil](https://www.udemy.com/zoho-crm-mobile-app-gestiona-tus-clientes-desde-tu-movil) (Udemy)
 * [Zoho CRM Usuario: gestiona tus procesos en ventas con éxito](https://www.udemy.com/zoho-crm-usuario-gestiona-tus-procesos-de-ventas-con-exito) (Udemy)
 
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## Accesibilidad Web ♿
 
@@ -1233,6 +1243,4 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [Curso de SEO (fácil e intermedio)](https://www.youtube.com/playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW) (Youtube)
 * [SEO. Posicionamiento natural en buscadores](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-2-edicion-) (MiriadaX)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
-<!-- - []() (UniPython) -->
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
