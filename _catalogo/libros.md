@@ -107,6 +107,32 @@ Big Data: Hacía la Cuarta Revolución Industrial (https://amzn.to/2mnv69y) [Ebo
 Marketing y la cuarta revolución industrial (https://amzn.to/2mmHmra) [Ebook](https://amzn.to/2liK8gF)
 
 
+## 👩‍💻 Programación
+
+## Python
+
+Analítica de Datos: Guía Definitiva Big Data (https://amzn.to/2n1ofUg) (https://amzn.to/2n1ofUg)
+Aprende A programar con Python (https://amzn.to/2oDRL2x)
+Aprende Python en un fin de semana (https://amzn.to/2nTc8IN) (https://amzn.to/2oIvYXG)
+Aprendizaje Automático: La Guía Definitiva para Principiantes (https://amzn.to/2oGHOS1)
+Aplicaciones Gráficas con Python 3 (https://amzn.to/2mZcspr)
+Curso de Programación Python (Manuales Imprescindibles) (https://amzn.to/2oIqPyQ)
+Criptografía sin secretos con Python (https://amzn.to/2oKnHmd)
+Desarrollo de Videojuegos 2D con Python (https://amzn.to/2oIzNft)
+Domótica con Raspberry, Google y Python (https://amzn.to/2oKdMNv)
+Electrónica, python y discapacidad visual (https://amzn.to/2msagqa)
+INTELIGENCIA ARTIFICIAL. Fundamentos, práctica y aplicaciones (https://amzn.to/2nXlAuH)
+Matemática y sus aplicaciones en enfermería y educación física (https://amzn.to/2mZ2vZ7)
+Minería de Datos: Guía de Minería de Datos para Principiantes (https://amzn.to/2mZ4gWd) (https://amzn.to/2mZ4gWd)
+Programación Python para Ingenieros Civiles (https://amzn.to/2nZFULQ)
+Plataforma de Control de Acceso y Gestión Remota basado en RaspberryPi (https://amzn.to/2n1rfju)
+Python 3 - Pack de 2 libros: de la algoritmia al dominio del lenguaje (https://amzn.to/2oBgZi3)
+Python machine learning 2'ed (https://amzn.to/2mnmjVz)
+Python para principiantes: Aprende Python en 5 días (https://amzn.to/2o0b2Le)
+RASPBERRY PI: Guía paso a paso para principiantes de Raspberry Pi (https://amzn.to/2o0rviQ)
+Sistema de Ayuda a la Decisión: Sistema de Ayuda a la Decisión con Python (https://amzn.to/2n1ofUg)
+
+
 ## 👦 Programación Infantil
 
 ## Scratch
