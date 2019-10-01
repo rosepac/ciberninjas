@@ -21,11 +21,14 @@ toc_sticky: false
 
 ---
 
-Cursos sobre: Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster
-
-He aquí un listado completo de todos los diferentes cursos existentes alrededor de las distintas plataformas Online de Cursos Web en Internet y en el idioma de español.
-
 En la actualidad son más de 800 cursos, organizados por diferentes temáticas. Impartidos a través de las Universidades de **educación digital: como Miriadax, Udemy, EDX**, o **cursos de formación abierta/MOOC** dentro de los repositorios universitarios de las universidades más importantes del mundo de habla hispana.
+
+<details>
+<summary>Saber Más</summary>
+<br/>
+<p>Cursos sobre: Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.</p>
+<p>En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada tecnología concreta.</p>
+</details>
 
 
 ## 📁 Bases de Datos
@@ -356,7 +359,28 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 <!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
 
 
-## 😜 Lenguajes de Programación
+## 👨‍💻 😜 Lenguajes de Programación
+
+## Python 🐍
+
+Analista de Datos con Python (https://unipython.com/curso-analisis-datos) (Unipython)
+* [Aprende programación en Python desde cero](https://www.udemy.com/course/aprende-programacion-en-python-desde-cero)
+* [Aprende a programar en Python desde 0](https://unipython.com/curso-python-nivel-principiante) (Unipython)
+* [Aprende Python desde cero](https://www.udemy.com/aprende-python-desde-cero-b) (Udemy)
+* [Creación de APIs RESTful con Flask – Python](https://unipython.com/curso-de-creacion-de-api-restful-en-flask-python)
+Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-django-python)
+* [Interfaz Gráfica con Tkinter](https://unipython.com/curso-de-tkinter)
+* [Master en Python3. Aprende de 0 a EXPERTO Practicando](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando)
+* [Procesamiento de Imágenes: OpenCV y Python](https://unipython.com/curso-procesamiento-imagenes-opencv-python)
+* [Python Avanzado con Dlib & OpenCV](https://unipython.com/curso-de-python-avanzado-con-dlib-opencv)
+* [Python 3. Curso completo de Python 3. Aprende desde cero](https://www.udemy.com/course/curso-python)
+* [Selenium con Python](https://unipython.com/curso-selenium)
+* [Taller de creación de Backdoors con Python - Parte 1](https://www.udemy.com/course/backdoors-with-python)
+* [TensorFlow para Deep Learning y Python](https://www.udemy.com/course/curso-de-tensorflow-para-deep-learning-y-python)
+* [Introducción a la Programación con Python](https://www.udemy.com/course/introduccion-a-la-programacion-con-python-juan-de-la-torre)
+* [Web Scraping](https://unipython.com/curso-web-scraping)
+
+## Todo
 
 * [Actualización PHP 7](https://www.udemy.com/actualizacion-php-7) (Udemy)
 * [Análisis, validación y depuración de software (2015)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=11566&p_caca=2015) (OCW)
@@ -364,7 +388,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Aprende programación con diagramas de flujo](https://www.udemy.com/programacion-desde-cero-con-diagramas-de-flujo) (Udemy)
 * [Aprende programación desde 0 con Javascript](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8ohy6P2k4hNU2PtstqP8Zh) (Eduardo Ibarra, Youtube)
 * [Aprende programación en C desde cero](https://www.udemy.com/fundamentos-de-programacion-en-c-basico-avanzado) (Udemy)
-* [Aprende Python desde cero](https://www.udemy.com/aprende-python-desde-cero-b) (Udemy)
 * [Bash, intérprete de comandos de Linux. Desde cero](https://www.udemy.com/shell-interprete-de-comandos-de-linux-aprende-desde-cero) (Udemy)
 * [C# básico de programación](https://www.udemy.com/-programacion) (Udemy)
 * [C++: Básico a Avanzado](https://www.udemy.com/curso-de-cpp-basico-a-avanzado) (Udemy)
@@ -446,12 +469,8 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Tecnologías de la Programación (2009)](http://ocw.um.es/ingenierias/tecnologia-de-la-programacion) (OCW)
 * [Test Driven Development con Java y Junit5](https://www.udemy.com/testdrivendevelopment) (Udemy)
 
-### Python <i class="fab fa-python"></i>
 
-* [Aprende a programar en Python desde 0](https://unipython.com/curso-python-nivel-principiante) (Unipython)
-* [Procesamiento de Imágenes: OpenCV y Python](https://unipython.com/curso-procesamiento-imagenes-opencv-python)
-
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
+<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--warning btn--large"> Regresar 🔝</a>
 
 
 ## 👩‍💻 Desarrollo Web
@@ -541,9 +560,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Laravel 5.4: crear tu primer sitio web](https://www.udemy.com/primeros-pasos-con-laravel) (Udemy)
 * [Laravel 5.6](https://www.youtube.com/playlist?list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt) (Raul Palacios, YouTube)
 
-
-## 👩‍💻 Programación <i class="fas fa-code"></i>
-
+## TODO 🚧 Por Reordenar 🚧
 * [Aprende a programar en Python desde 0 con este Curso para principiantes](https://unipython.com/curso-python-nivel-principiante) (HTML)
 * [¿Por dónde empezar con el desarrollo web? Empieza aquí](https://www.udemy.com/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html) (Udemy)
 * [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
@@ -863,6 +880,7 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas. 
 * [Iniciando con Machine Learning](https://mva.microsoft.com/es-es/training-courses/iniciando-con-machine-learning-16915) (Microsoft Channel 9)
 * [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-2-edicion-) (MiriadaX)
 * [Machine Learning: Nivel Intermedio](https://mva.microsoft.com/es-es/training-courses/machine-learning-nivel-intermedio-17804) (Microsoft Channel 9)
+* [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://www.udemy.com/course/curso-machine-learning)
 
 
 ## Raspberry Pi 
