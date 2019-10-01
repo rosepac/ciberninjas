@@ -1,7 +1,7 @@
 ---
 title: "👩‍🏫 Catálogo de Libros Educativos"
-description: "🛒 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
-excerpt: "🛒 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
+description: "👩‍🎓 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
+excerpt: "👩‍🎓 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
 published: true
 author_profile: false
 date: 2019-09-22 11:11:05
@@ -26,7 +26,13 @@ sidebar:
 
 ## Ciclos Formativos de Grado Medio
 ### Sistemas Microinformáticos y Redes
-- Montaje y mantenimiento de equipo. [Paraninfo](https://amzn.to/2AhVN3m) [2014](https://amzn.to/2Nfmtu2) \ [Editex](https://amzn.to/2NdYRGm) \ [Mcgraw Hill](https://amzn.to/2Q7KZ2A) \ [MacMillan](https://amzn.to/2Afqwhr)
+- Montaje y mantenimiento de equipo.
+[Paraninfo](https://amzn.to/2AhVN3m) [2014](https://amzn.to/2Nfmtu2) \ [Editex](https://amzn.to/2NdYRGm) \ [Mcgraw Hill](https://amzn.to/2Q7KZ2A) \ [MacMillan](https://amzn.to/2Afqwhr)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428335133&linkId=b2c4167a9bb210837ee1a9956233355d"></iframe>
+sin borde
+<br/>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428335133&linkId=b2c4167a9bb210837ee1a9956233355d"></iframe>
+con borde
 - Sistemas operativos monopuesto. [Paraninfo](https://amzn.to/2Q7fPZf) \ [Sintesis](https://amzn.to/2AcKXM3) \ [Mcgraw Hill - 2012](https://amzn.to/34LTdAv) \ [MacMillan- 2012](https://amzn.to/2AkuIwc) \ [Editex - 2011](https://amzn.to/2AiPQTC)
 - Aplicaciones ofimáticas. [Paraninfo](https://amzn.to/2LH2gLL) \ [Mcgraw Hill](https://amzn.to/2LH2pPj) \ [MacMillan](https://amzn.to/2Az7Edz) \ [Editex](https://amzn.to/2AB9VEO)
 - Sistemas operativos en red. [Sintesis](https://amzn.to/2Nu2XKq) \ [MacMillan](https://amzn.to/2LJthOo) \ [Mcgraw Hill](https://amzn.to/2Oeo0jD) \ [RaMa](https://amzn.to/2ACACcr)
