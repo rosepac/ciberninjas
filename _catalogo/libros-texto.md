@@ -38,8 +38,8 @@ sidebar:
 - Empresa e iniciativa empresarial. [Paraninfo]() \ [Editex]() \ [Santillana]() \ [Anaya]() \ [Donostiarra]() \ [Vértice]() \ [Sintesis]() \ [Rodio]() \ [IC]()
 - Formación en centros de trabajo. *
 
+## Formación Profesional Básica
 
-## Ciclos Formativos de Formación Profesional Básica
 ### Informática de Oficina
 - Montaje y mantenimiento de sistemas y componentes informáticos. [Paraninfo](https://amzn.to/2QbpRIP) [2014](https://amzn.to/2QbqXnM) \ [Editex](https://amzn.to/2Qaw085) [2014](https://amzn.to/2LSGvHt)\ [Vértice](https://amzn.to/31mdr1B) \ [Sintesis](https://amzn.to/2LO4Ez8) \ [Rodio](https://amzn.to/2Q9p6zY) \ [IC](https://amzn.to/31lwJ7n)
 
