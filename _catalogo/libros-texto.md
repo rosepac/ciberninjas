@@ -42,6 +42,11 @@ sidebar:
 ## Ciclos Formativos de Formación Profesional Básica
 ### Informática de Oficina
 - Montaje y mantenimiento de sistemas y componentes informáticos. [Paraninfo](https://amzn.to/2QbpRIP) [2014](https://amzn.to/2QbqXnM) \ [Editex](https://amzn.to/2Qaw085) [2014](https://amzn.to/2LSGvHt)\ [Vértice](https://amzn.to/31mdr1B) \ [Sintesis](https://amzn.to/2LO4Ez8) \ [Rodio](https://amzn.to/2Q9p6zY) \ [IC](https://amzn.to/31lwJ7n)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417449817&linkId=3b7b77d40d463102a761f7ca43935b40"></iframe>
+
+<center><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417449817&linkId=3b7b77d40d463102a761f7ca43935b40"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417449817&linkId=3b7b77d40d463102a761f7ca43935b40"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417449817&linkId=3b7b77d40d463102a761f7ca43935b40"></iframe></center>
+
 - Operaciones auxiliares para la configuración y la explotación. [Paraninfo](https://amzn.to/2LuMkMx) \ [Editex](https://amzn.to/32KLu3N) [2014](https://amzn.to/2Q3H7iP) \ [Sintesis](https://amzn.to/2QbA9sc)
 - Ofimática y archivo de documentos. [Editex](https://amzn.to/2NdOIsZ)
 - Instalación y mantenimiento de redes para transmisión de datos. [Paraninfo](https://amzn.to/2LR147g) \ [Editex](https://amzn.to/2UWlK1N) [2015](https://amzn.to/32PKn3d)
