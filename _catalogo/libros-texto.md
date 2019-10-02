@@ -12,10 +12,12 @@ toc_icon: user-ninja
 toc_sticky: false
 permalink: /catalogo/libros-texto/
 canonical_URL: https://ciberninjas.com/catalogo/libros-texto/
-sidebar:
-- title: "Catálogo"
-  nav: tienda
-- title: "Tienda"
+sidebar-sample:
+- title: "Categorias"
+  children:
+    - title: "Informática y Comunicaciones"
+    url: /catalogo/libros/
+- title: "Catálogos"
   - title: "👨‍💻 Libros"
     url: /catalogo/libros/
   - title: "👨‍🎓 Libros Educativos"
