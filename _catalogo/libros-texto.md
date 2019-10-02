@@ -17,7 +17,7 @@ sidebar:
   nav: tienda
 ---
 
-## 👉 Saber Más
+## 🕵️‍♂️ Saber Más
 <details>
 <summary>Saber Más</summary>
 <br/>
@@ -36,11 +36,9 @@ En este catálogo se pueden encontrar los librode texto referentes a la educaci�
 
 ## Informática y Comunicaciones
 
-- Grado Superior
+## 👉 Grado Superior
 
-- Grado Medio
-
-> Grado Medio
+## 👉 Grado Medio
 
 ## Sistemas Microinformáticos y Redes
 
@@ -69,17 +67,25 @@ En este catálogo se pueden encontrar los librode texto referentes a la educaci�
 
 [Paraninfo](https://amzn.to/34XMS5c) \ [MacMillan](https://amzn.to/30GQMvX) \ [Mcgraw Hill](https://amzn.to/2AESFPf) \ [Editex](https://amzn.to/30B5dS5)
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8428335303&linkId=ecb80dc10db6f6b95533226c97989fae"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=841542647X&linkId=eca2a8523863f96efe617684fdc3de6d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448180828&linkId=af189c2ac17ed1c5c5703dca75dd4f1d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497719727&linkId=2d38b36c84adb8561da55b77c9c9cdd0"></iframe>
+
 ### Seguridad informática.
 
 [Sintesis](https://amzn.to/2NsDcdE) \ [Heinemann](https://amzn.to/2LHFovx) \ [McGraw Hill](https://amzn.to/2Qn3eks) \ [Paraninfo](https://amzn.to/2AAC66P)
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491712933&linkId=309a952f646238bc29d05ea9160e8cdc"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415656645&linkId=46e56f7d164e06e2ff8c98b2244b833b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448183967&linkId=37920a56c70fe82a0aa13fcbf5360c6f"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497328124&linkId=aff35a7e2505a6d21b97faaf6fba7d73"></iframe>
+
 ### Servicios en red.
 
-[Heinemann](https://amzn.to/2NqNzhX) \ [McGraw Hill](https://amzn.to/2AADDK7) \ [Ra.Ma](https://amzn.to/2LFMTmA) \ [Paraninfo](https://amzn.to/2QxotR0)
+[Heinemann](https://amzn.to/2NqNzhX) \ [MacMillan](https://amzn.to/2oyZZZU) \ [McGraw Hill](https://amzn.to/2AADDK7) \ [Ra.Ma](https://amzn.to/2LFMTmA) \ [Paraninfo](https://amzn.to/2QxotR0)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415656637&linkId=c6ed6730efcae1231b6b21e848088367"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415656637&linkId=087c434d7ed04836a6c5faf5ee5f6595"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448171330&linkId=002615c0ce30b886148257246399d21b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8478979832&linkId=94c6512e29bd16f92ca082e90e7ac165"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497327659&linkId=36f119ba78569c2b1bfa19433888dffa"></iframe>
 
 ### Aplicaciones web.
 
-[CreateSpace](https://amzn.to/2LKy7LD) \ [Paraninfo](https://amzn.to/2NtnQ8I) \ [McGraw Hill](https://amzn.to/2NqNJWB)
+[CreateSpace](https://amzn.to/2LKy7LD) \ [Paraninfo](https://amzn.to/2NtnQ8I) \ [McGraw Hill - 2013](https://amzn.to/2NqNJWB) [2010](https://amzn.to/2nK22KJ) \ [RaMa](https://amzn.to/2plvTt8)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1500397458&linkId=d5ed35d5390557b40274ba349e3184a8"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448183924&linkId=5ab4e483b67cba967e107a58a8596d85"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448171357&linkId=80fb2da27c4ab1777dc98b1929106d46"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641679&linkId=1fc271619284c50f4697147f11d68989"></iframe>
 
 ### Formación y orientación laboral.
 
