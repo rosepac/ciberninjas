@@ -9,7 +9,7 @@ sidebar:
   nav: tienda
 ---
 
-Aquí se encuentran libros, que están fuera de lo relacionado a la temática de la tecnología; en general novelas y novelas en inglés; que en la mayoría de casos aparecen dentro de los distintos listados de las publicaciones de recomendaciones de libros de personajes reconocidos.
+Aquí se encuentran los libros que están fuera de lo relacionado a la temática de la tecnología; en general novelas y novelas en inglés; que en la mayoría de casos aparecen dentro de los distintos listados de las publicaciones de recomendaciones de libros de personajes reconocidos.
 
 Los enlaces aqu&iacute; expuestos, trabajan a trav&eacute;s de Coockies de Amazon y hacen referencia a direcciones de afiliados; con las que puedes apoyar y ayudar a financiar el tiempo dedicado a la p&aacute;gina web; para que se pueda seguir construyendo, y yo dedicandole mi tiempo a escribir, recopilar y transmitir muchos m&aacute;s recursos
 {: .notice--warning}
