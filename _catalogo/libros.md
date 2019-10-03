@@ -75,6 +75,28 @@ sidebar:
 - [Docker. Primeros pasos y puesta en práctica de una arquitectura basada en micro-servicios](https://amzn.to/2odnl7h)
 - [DOCKER. Guía práctica](https://amzn.to/2nyCrnC)
 
+## Lenguaje de Estilos y Preprocesadores 🎨
+<!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
+
+## Lenguajes de Marcado ✍
+<!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml  -->
+- Aprende HTML efectivo [Ebook](https://amzn.to/31I5OCR)
+- El gran libro de HTML5, CSS3 y JavaScript [Tapa Blanda](https://amzn.to/2pImfkF) \ [Ebook](https://amzn.to/2Iks12u)
+- [HTML5 y CSS3. Domine los estándares de la creación de sitios Web](https://amzn.to/339Wmc3)
+- [HTML5 Y CSS3 - Revolucione El Diseño De Sus Sitios Web](https://amzn.to/2Of3L5l)
+- [HTML, CSS y JavaScript. Edición 2018](https://amzn.to/356GCrN)
+- [HTML5, CSS3 y JQUERY. Curso práctico](https://amzn.to/2oU1rWL)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00DL6V9ZU&linkId=5d5cbed5d9bb6dab9918f721726f39a3"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426724639&linkId=23bdcad0d3b627975d82f47fd405b272"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=2409007023&linkId=b136cf7c9026eaec9d51ddb87d20129c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=2409006655&linkId=4504acf83d0e8b38b3180a4e62511bca"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441539391&linkId=100eb4b5a125a0f36eb558327742fbd0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499646239&linkId=fbbb35cfa84972d357865ef7d76437fa"></iframe>
+
+## PhoneGap (Apache Cordoba)
+
+- Aplicaciones Hibridas - Apache Cordova (https://amzn.to/32X6vZl)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=6139439094&linkId=913fe5bb5235b4f568500cd57fd2f270"></iframe>
+
+## Sistemas de Plantillas 🌱
+<!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
 
 ## Swift <i class="fab fa-apple"></i>
 
@@ -100,6 +122,7 @@ sidebar:
 12. Recetario Swift de desarrollo de juegos en iOS [Tapa Blanda](https://amzn.to/2PjP7Mh) - [Ebook](https://amzn.to/2HAjZSG)
 13. [Simulaciones en Swift 5](https://amzn.to/2LldaVU)
 14. Diseño e implementación con Swift Playgrounds
+
 
 
 ## 📺 Marketing
