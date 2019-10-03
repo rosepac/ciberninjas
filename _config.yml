@@ -126,6 +126,9 @@ collections:
     catalogo:
         output: true
         permalink: /:collection/:path
+    biblioteca:
+        output: true
+        permalink: /:collection/:path
 #    staff-miembros:
 #        output: true
 #        permalink: /:collection/:path
@@ -195,6 +198,17 @@ defaults:
       comments: true
       share: true
       related: false
+    # _biblioteca
+  - scope:
+      path: ""
+      type: biblioteca
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _glosario
   - scope:
       path: ""
