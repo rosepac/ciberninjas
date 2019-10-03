@@ -373,6 +373,33 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas; 
 
 ## 👨‍💻 Lenguajes de Programación
 
+## Javascript
+
+* [JavaScript Desde Cero (2018)](https://ed.team/cursos/javascript)
+
+## PHP
+
+## PHP Framework <i class="fab fa-php"></i>
+
+### CodeIgniter
+* [Framework CodeIgniter para principiantes: Primeros pasos](https://www.udemy.com/course/codeigniter-para-principiantes-primeros-pasos) (Udemy)
+* [Introducción a CodeIgniter](https://www.udemy.com/introduccion-codeigniter) (Udemy)
+
+### Laravel <i class="fab fa-laravel"></i>
+
+* [Aprende Laravel - Modelos, migraciones, rutas, vistas, etc](https://www.udemy.com/aprende-laravel-modelos-migraciones-rutas-vistas-etc) (Udemy)
+* [Configurar Laravel en Windows y MySql Server](https://www.udemy.com/laravel-y-sql-server) (Udemy)
+* [Curso de Laravel](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bk-qkvjER90g2c_jVmpAHBh) (Pildoras Informáticas, Youtube)
+* [Introducción a PHP 7 y Laravel](https://plataforma.keepcoding.io/p/introduccion-php-7-online-desde-cero) (Keep Coding)
+* [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He) (Eduardo Ibarra, Youtube)
+* [Curso Laravel](https://www.youtube.com/playlist?list=PLEtcGQaT56cigZVUvRpPBnoLGO0KcX5MO) (Jesús Conde, Youtube)
+* [Empezando con Laravel 5 y Vuejs 2](https://www.udemy.com/empezando-con-laravel-5-y-vuejs-2) (Udemy)
+* [Introducción a Laravel 5: primeros pasos con este framework](https://www.udemy.com/introduccion-a-laravel-5-primeros-pasos-framework-php) (Udemy)
+* [Laravel 5](https://www.youtube.com/playlist?list=PLIddmSRJEJ0u-5Nv2k6W8Vhe0wUP_7H5W) (Raul Palacios, YouTube)
+* [Laravel 5.4](https://www.youtube.com/playlist?list=PLS3ZgoVufwTkqmF0oAnfeus9ZklMqjFhS) (iTech School, YouTube)
+* [Laravel 5.4: crear tu primer sitio web](https://www.udemy.com/primeros-pasos-con-laravel) (Udemy)
+* [Laravel 5.6](https://www.youtube.com/playlist?list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt) (Raul Palacios, YouTube)
+
 ## Python 🐍
 
 * [Analista de Datos con Python](https://unipython.com/curso-analisis-datos) (Unipython)
@@ -380,7 +407,6 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas; 
 * [Aprende a programar en Python desde 0](https://unipython.com/curso-python-nivel-principiante) (Unipython)
 * [Aprende Python desde cero](https://www.udemy.com/aprende-python-desde-cero-b) (Udemy)
 * [Creación de APIs RESTful con Flask – Python](https://unipython.com/curso-de-creacion-de-api-restful-en-flask-python)
-Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-django-python)
 * [Interfaz Gráfica con Tkinter](https://unipython.com/curso-de-tkinter)
 * [Master en Python3. Aprende de 0 a EXPERTO Practicando](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando)
 * [Procesamiento de Imágenes: OpenCV y Python](https://unipython.com/curso-procesamiento-imagenes-opencv-python)
@@ -391,6 +417,14 @@ Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-
 * [TensorFlow para Deep Learning y Python](https://www.udemy.com/course/curso-de-tensorflow-para-deep-learning-y-python)
 * [Introducción a la Programación con Python](https://www.udemy.com/course/introduccion-a-la-programacion-con-python-juan-de-la-torre)
 * [Web Scraping](https://unipython.com/curso-web-scraping)
+
+## Python Framework
+
+* [Curso básico de Django - Páginas web con Python](https://www.udemy.com/curso-basico-de-django-paginas-web-con-python) (Udemy)
+* Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-django-python)
+* [Introducción a Django + Python & REST](https://plataforma.keepcoding.io/p/introduccion-python-django-y-rest) (Keep Coding)
+* [Probar Django: Crear una Aplicación Web en Python](https://www.udemy.com/probar-django-construir-una-aplicacion-web-en-python) (Udemy)
+
 
 Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación" 🚧
 {: .notice--warning}
@@ -425,7 +459,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Fundamentos de Programación Web para principiantes](https://www.udemy.com/fundamentos-de-programacion-web-para-principiantes) (Udemy)
 * [Fundamentos de Programación, PseInt, PHP y JavaScript](https://www.udemy.com/fundamentos-de-programacion-aprende-con-pseudocodigo-pseint) (Udemy)
 * [Fundamentos de Programación. Algoritmos en Java y Javascript](https://www.udemy.com/fundamentos-de-programacion-algoritmos-en-java-y-javascript) (Udemy)
-* [Introducción a Django + Python & REST](https://plataforma.keepcoding.io/p/introduccion-python-django-y-rest) (Keep Coding)
 * [Introducción a Java desde cero](https://www.udemy.com/introduccion-a-java-desde-cero-gratis) (Udemy)
 * [Introducción a JavaScript desde cero](https://plataforma.keepcoding.io/p/introduccion-a-la-programacion-de-javascript-desde-cero-gratis) (Keep Coding)
 * [Introducción a JavaScript y Node.js](https://plataforma.keepcoding.io/p/intruduccion-javascript-node-js-express-mongodb-gratis) (Keep Coding)
@@ -455,6 +488,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Programación CNC - Fresadoras](https://www.udemy.com/programacioncnc) (Udemy)
 * [Programación con Java Standard](https://miriadax.net/web/programacion-con-java-standard-3-edicion-) (MiriadaX)
 * [Programación concurrente en Linux (2016)](https://ocw.ehu.eus/course/view.php?id=399) (OCW)
+* [Programación desde Cero](https://ed.team/cursos/programacion) (EdTeam)
 * [Programación en C](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6) (ProgramacionATS, YouTube)
 * [Programación en C/C++ y Aplicaciones Matemáticas (2011)](http://ocw.um.es/ciencias/programacion-en-c-c-y-aplicaciones-matematicas) (OCW)
 * [Programación en C#](https://www.youtube.com/playlist?list=PLM-p96nOrGcakia6TWllPW9lkQmB2g-yX) (Nicosio, YouTube)
@@ -551,28 +585,19 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * Introduccion a CodeIgniter(https://www.udemy.com/course/introduccion-codeigniter)
 * [Introducción al backend en PHP y MySQL (+ Docker)](https://www.udemy.com/course/introduccion-al-backend-en-php-y-mysql-docker)
 
+## Lenguaje de Estilos y Preprocesadores 🎨
+<!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
+* [CSS desde Cero](https://ed.team/cursos/css) (EdTeam)
+* [CSS Variables](https://ed.team/cursos/variables-css) (EdTeam)
 
-## PHP Framework <i class="fab fa-php"></i>
+## Lenguajes de Marcado ✍
+<!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml  -->
+* [HTML desde Cero](https://ed.team/cursos/html) (EdTeam)
+* [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
 
-### CodeIgniter
-* [Framework CodeIgniter para principiantes: Primeros pasos](https://www.udemy.com/course/codeigniter-para-principiantes-primeros-pasos) (Udemy)
-* [Introducción a CodeIgniter](https://www.udemy.com/introduccion-codeigniter) (Udemy)
-
-
-### Laravel <i class="fab fa-laravel"></i>
-
-* [Aprende Laravel - Modelos, migraciones, rutas, vistas, etc](https://www.udemy.com/aprende-laravel-modelos-migraciones-rutas-vistas-etc) (Udemy)
-* [Configurar Laravel en Windows y MySql Server](https://www.udemy.com/laravel-y-sql-server) (Udemy)
-* [Curso de Laravel](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bk-qkvjER90g2c_jVmpAHBh) (Pildoras Informáticas, Youtube)
-* [Introducción a PHP 7 y Laravel](https://plataforma.keepcoding.io/p/introduccion-php-7-online-desde-cero) (Keep Coding)
-* [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He) (Eduardo Ibarra, Youtube)
-* [Curso Laravel](https://www.youtube.com/playlist?list=PLEtcGQaT56cigZVUvRpPBnoLGO0KcX5MO) (Jesús Conde, Youtube)
-* [Empezando con Laravel 5 y Vuejs 2](https://www.udemy.com/empezando-con-laravel-5-y-vuejs-2) (Udemy)
-* [Introducción a Laravel 5: primeros pasos con este framework](https://www.udemy.com/introduccion-a-laravel-5-primeros-pasos-framework-php) (Udemy)
-* [Laravel 5](https://www.youtube.com/playlist?list=PLIddmSRJEJ0u-5Nv2k6W8Vhe0wUP_7H5W) (Raul Palacios, YouTube)
-* [Laravel 5.4](https://www.youtube.com/playlist?list=PLS3ZgoVufwTkqmF0oAnfeus9ZklMqjFhS) (iTech School, YouTube)
-* [Laravel 5.4: crear tu primer sitio web](https://www.udemy.com/primeros-pasos-con-laravel) (Udemy)
-* [Laravel 5.6](https://www.youtube.com/playlist?list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt) (Raul Palacios, YouTube)
+## Sistemas de Plantillas 🌱
+<!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
+ * [Pug desde Cero](https://ed.team/cursos/pug)
 
 👇👇👇 🚧 "Cursos Pendientes de ReOrganizar" 🚧 Hasta la siguiente señalización 👇👇👇
 {: .notice--warning}
@@ -607,7 +632,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Curso básico de Backbone.js](https://devcode.la/cursos/curso-basico-de-backbonejs) (DevCode)
 * [Curso básico de CSS desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR) (Falcon Masters, Youtube)
 * [Curso básico de Dart](https://www.youtube.com/watch?v=dDZ-NOTjXiA&list=PLl_hIu4u7P65q3qDQfwoGF6sK9upzi3Jf) (Gyga Code, Youtube)
-* [curso básico de Django - Páginas web con Python](https://www.udemy.com/curso-basico-de-django-paginas-web-con-python) (Udemy)
 * [Curso básico de HTML desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVHt2DgHky_MzzRC58UHE4z) (Falcon Masters, Youtube)
 * [Curso básico de Javascript desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G) (Falcon Masters, Youtube)
 * [Curso básico de Responsive Web Design](https://devcode.la/cursos/curso-basico-de-responsive-web-design) (DevCode)
@@ -720,7 +744,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Primefaces Avanzado](https://www.youtube.com/watch?v=-7mEXB6rEjg&list=PLvimn1Ins-41Dn6vhYzB0Kv90_2eFIdXG) (Mito Code, Youtube)
 * [Primera aplicación con Vuejs 2, Vuez y SocketIO](https://www.udemy.com/primera-aplicacion-con-vuejs-2-vuex-y-socketio) (Udemy)
 * [Principios de diseño para windows Phone 8.1](https://mva.microsoft.com/es-es/training-courses/principios-de-diseo-para-windows-phone-81-11281) (Microsoft Channel 9)
-* [Probar Django: Crear una Aplicación Web en Python](https://www.udemy.com/probar-django-construir-una-aplicacion-web-en-python) (Udemy)
 * [Programación con Qt](https://www.youtube.com/playlist?list=PL54fdmMKYUJvn4dAvziRopztp47tBRNum) (Duarte Corporation, YouTube)
 * [Programación en Internet (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-internet-2006.html) (OWC)
 * [Programación en Internet (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-internet-2008.html) (OWC)
