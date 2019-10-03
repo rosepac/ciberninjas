@@ -42,6 +42,7 @@ Hoy me gustaría ojear y listar los frameworks más importantes, que sin lugar a
  En la actualidad, apenas se ve la influencia directa de este SDK. Más todos los desarrolladores que deseen enfocarse en Android o trabajar en las oficionas de Google en un futuro. Deben seguir el día a día de su evolución y si son capaces; ponerse al más alto nivel de aprendizaje al respecto.
 
  A lo largo del año 2020, sin lugar a dudas, será el año de un reformulado Android, gracias en gran medida; tanto a Dart como a Flutter, los dos nuevos "juguetes mimados" de Android/Google.
+
 2. Ionic Framework SDK de Código Abierto
  Ionic es bastante popular entre los framework de desarrollo de aplicaciones, probablemente el que más. Ionic es básicamente una red front-end que ayuda a construir aplicaciones móviles nativas con HTML, CSS3 y Javascript.
 
@@ -52,15 +53,26 @@ Hoy me gustaría ojear y listar los frameworks más importantes, que sin lugar a
  Si manejas con desenvoltura HTML5, JavaScript y CS serás capaz de controlar con eficiencia Ionic, además; trabaja a la perfección conjunto a Angular; y en su última actualización han favorecido la implementación junto otras librerías como React y Vue.
 
  Debido a su capacidad para construir aplicaciones tanto nativas como multiplataforma, Ionic es un gran marco para el desarrollo de las Progressive Web Apps; y permite combinarse junto a los proyectos de PhoneGap, Trigger o Cordova, lo que ofrece una mayor accesibilidad a los gadgets de la arquitectura física de los dispositivos móviles, como pueden ser la Cámara, el GPS, la linterna u otros.
+
 3. React Native
-   React Native, es sin duda una de las plataformas favoritas entre muchas de las grandes empresas y StartUps, tanto utilizado para construir aplicaciones Android como iOS, el desarrollo React Native permite a los desarrolladores de aplicaciones móviles crear aplicaciones de alto rendimiento en ciclos de desarrollo más cortos y tiempos de implementación más rápidos.
+ React Native, es sin duda una de las plataformas favoritas entre muchas de las grandes empresas y StartUps, tanto utilizado para construir aplicaciones Android como iOS, el desarrollo React Native permite a los desarrolladores de aplicaciones móviles crear aplicaciones de alto rendimiento en ciclos de desarrollo más cortos y tiempos de implementación más rápidos.
 
-   React Native integra los beneficios de JavaScript y ReactJS proporciona a los desarrolladores la posibilidad de escribir módulos en lenguajes Objective-C, Swift o Java. Otro gran detalle es que proporciona animaciones extremadamente suaves ya que el código se convierte en vistas nativas antes de ser renderizado.
+ React Native integra los beneficios de JavaScript y ReactJS proporciona a los desarrolladores la posibilidad de escribir módulos en lenguajes Objective-C, Swift o Java. Otro gran detalle es que proporciona animaciones extremadamente suaves ya que el código se convierte en vistas nativas antes de ser renderizado.
 
-   Además, React Native es altamente compatible con complementos de terceros, como Google Maps.
+ Además, React Native es altamente compatible con complementos de terceros, como Google Maps.
+
 4. Xamarin
+ Xamarin es un Framework propiedad de Microsoft que facilita el desarrollo de las aplicaciones multiplataforma, pudiendo poder aprovechar casi en su totalidad el código de una aplicación a otra. Xamarin favorece especialmente a los expertos en C# y .NET, siendo estos los lenguajes en los que se centra; siendo esta una gran particularidad, puesto que la mayoría de frameworks en la actualidad se centran en Javascript y HTML.
+
+ A través de su API te permite generar apps esteticamente similares a las nativas y permite incluir las bibliotecas de Objective-C, Java y C++ sin ningun problema y presenta una adaptación total al editor Visual Studio de la propia Microsoft.
+
 5. PhoneGap
+ El Framework de PhoneGap, en la actualidad comprado por Adobe; con anterioridad conocido por Apache Cordoba por formar parte del universo de desarrollo de la Fundación Apache. Ofrece como su mayor diferenciación el desarrollo de aplicaciones móviles mediante la visualización de sus cambios de forma instantanea.
+
+ Además, es totalmente compatible con las funciones integradas del dispositivo, como GPS, cámara, agenda telefónica, almacenamiento, etc facilitando así, en gran medida, la creación de código que se ejecute sin problemas a la hora de acceder a los diferentes apartados de hardware del dispositivo; siendo esté, su gran punto fuerte.
+
 6. Native Script
+ 
 7. Appcelerator Titanium
 8. Corona SDK
 9.  jQuery Móvil
