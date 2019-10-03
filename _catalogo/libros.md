@@ -27,7 +27,7 @@ sidebar:
 - [Guía Completa Para Principiantes Conoce La Certificación CompTia Network + De A-Z](https://amzn.to/2AiS2ul)
 - [Linux: Preparación para la certificación LPIC-1 y LPIC-2](https://amzn.to/2NfxpYC)
 - Servicios de Red en Linux [Tapa Blanda](https://amzn.to/2Ajn7OO) \ [Ebook](https://amzn.to/2Ne9zfI)
-- Superficiales, ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) \ [Ebook](https://amzn.to/2KORsur) \ [Saber Más](/catalogo/que-hace-internet-con-nuestras-mentes/)
+- Superficiales, ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) \ [Ebook](https://amzn.to/2KORsur) \ [👉 Saber Más](/catalogo/que-hace-internet-con-nuestras-mentes/)
 
 ## 📁 Bases de Datos
 ## Big Data 👨‍👩‍👦
@@ -155,10 +155,10 @@ sidebar:
 - Bacula: El Software Libre de Respaldo [Tapa Blanda](https://amzn.to/2Ndt5t0) \ [Ebook](https://amzn.to/2AfI78T)
 - Back Track 5 [Ebook](https://amzn.to/2Lw1q4s) Hacking de Redes Inálambricas 
 - El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA) \ [Saber M&aacute;s](/catalogo/el-arte-de-la-invisibilidad/)
-- El enemigo conoce el sistema [Tapa Blanda](https://amzn.to/2Z46eBx) \ [Ebook](https://amzn.to/2Z1YfEV)
+- El enemigo conoce el sistema [Tapa Blanda](https://amzn.to/2Z46eBx) \ [Ebook](https://amzn.to/2Z1YfEV) \ [👉 Saber Más](/catalogo/el-enemigo-conoce-el-sistema/)
 - El libro blanco del hacker [Tapa Blanca](https://amzn.to/2N5EkCS)
 - El libro del hacker. Edición 2018 [Tapa Blanda](https://amzn.to/34ISSPb)
-- El peque&ntilde;o libro rojo del activista en la red [Tapa Blanda](https://amzn.to/2YQharj) \ [Ebook](https://amzn.to/33uIgmt)
+- El peque&ntilde;o libro rojo del activista en la red [Tapa Blanda](https://amzn.to/2YQharj) \ [Ebook](https://amzn.to/33uIgmt) \ [👉 Saber Más](/catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/)
 - [Experto En Hacking Linux Y Windows Seguridad Ofensiva](https://amzn.to/2Lt7Wsw)
 - [Ingeniería social. El arte del hacking personal](https://amzn.to/34MkmTV)
 - [Kali Linux](https://amzn.to/2LsHbV4)
@@ -175,7 +175,7 @@ sidebar:
 - Los hombres que susurran a las máquinas [Tapa Blanda](https://amzn.to/2NdD6X1) \ [Ebook](https://amzn.to/2NdCS27)
 - Reglamento General de Protección de Datos (RGPD) de la UE [Tapa Blanda](https://amzn.to/2AelrpL) \ [Ebook](https://amzn.to/2Q4nK9l)
 - [Seguridad informática. Hacking ético - 2ª edición](https://amzn.to/2Nbl9bG)
-- Vigilancia permanente (No Ficción) [Tapa Blanda](https://amzn.to/2Lxt9Sd) \ [Ebook](https://amzn.to/2Alu55y)
+- Vigilancia permanente (No Ficción) [Tapa Blanda](https://amzn.to/2Lxt9Sd) \ [Ebook](https://amzn.to/2Alu55y) \ [👉 Saber Más](/catalogo/vigilancia-permanente/)
 - Web hacking 101: C&oacute;mo hacer dinero hackeando &eacute;ticamente [Varios Formatos](https://leanpub.com/web-hacking-101-es)
 <!-- [Tapa Blanda]() [Ebook]() -->
 INGLÉS
@@ -271,7 +271,7 @@ INGLÉS
 - [Guía del universo Roblox](https://amzn.to/2HvYC4E)
 
 <details>
-<summary>Saber Más Sobre Roblox</summary>
+<summary>👉 Saber Más Sobre Roblox</summary>
 <br/>
 <p>Roblox se anuncia como una <strong>'Plataforma de imaginación'</strong> que permite a sus usuarios desarrollar o jugar millones de juegos 3D en línea. Fue lanzado en 2007 y tiene 64 millones de jugadores cada mes, con un total estimado de 178 millones de cuentas en la plataforma. Está disponible para descargar como una aplicación tanto en Android como en iOS y aparece como 12+ con el asesoramiento de los padres recomendado. Los usuarios también pueden jugar en tabletas, PC, XBox One o dispositivos Amazon.</p>
 <p></p>
@@ -321,9 +321,9 @@ INGLÉS
 <a href="/catalogo/regalos/" title="Página del Catálogo de Los Mejores Regalos Perfectos para Geeks o Ninjas de la Programación y la Tecnología" class="btn btn--success btn--large">🎁 Regalos</a> <a href="/catalogo/libros-texto/" title="Página del Catálogo de Los Libros Educativos o de Texto de los Ciclos Formativos de Informática y Comunicaciones" class="btn btn--success btn--large">👨‍🎓 Libros Educativos</a> <a href="/catalogo/libreria/" title="Las Mejores Novelas de Lectura sobre Tecnología que Regalar a Geeks o Ninjas de la Programación y la Tecnología" class="btn btn--success btn--large">✒ Novelas</a>
 
 
-## ❔Saber Más
+## ❔👉 Saber Más
 <details>
-<summary>Saber Más</summary>
+<summary>👉 Saber Más</summary>
 <br/>
 <p>Poco a poco, vamos a crear un largo catálogo de los mejores productos geeks con los que realizar los más impresionantes regalos a las personas que les encanta el mundo de la tecnología, los gadgets tecnológicos, la música y las series indies, los comics, el manga.</p>
 <p></p>
