@@ -22,17 +22,17 @@ sidebar:
 
 ## 🕸 Administración y Redes
 
-- Administración y Gestión de Bases de Datos Relacionales en LINUX. MySQL (https://amzn.to/2NcspnD)
-- Administre una red en Windows o Linux. Ejercicios y soluciones (https://amzn.to/2Ahed4f)
-- Guía Completa Para Principiantes Conoce La Certificación CompTia Network + De A-Z (https://amzn.to/2AiS2ul)
+- [Administración y Gestión de Bases de Datos Relacionales en LINUX. MySQL](https://amzn.to/2NcspnD)
+- [Administre una red en Windows o Linux. Ejercicios y soluciones](https://amzn.to/2Ahed4f)
+- [Guía Completa Para Principiantes Conoce La Certificación CompTia Network + De A-Z](https://amzn.to/2AiS2ul)
 - [Linux: Preparación para la certificación LPIC-1 y LPIC-2](https://amzn.to/2NfxpYC)
-- Servicios de Red en Linux [Tapa Blanda](https://amzn.to/2Ajn7OO) [Ebook](https://amzn.to/2Ne9zfI)
-- Superficiales: ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) - [Ebook](https://amzn.to/2KORsur)
+- Servicios de Red en Linux [Tapa Blanda](https://amzn.to/2Ajn7OO) \ [Ebook](https://amzn.to/2Ne9zfI)
+- Superficiales, ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) \ [Ebook](https://amzn.to/2KORsur) \ [Saber Más](/catalogo/que-hace-internet-con-nuestras-mentes/)
 
 ## 📁 Bases de Datos
 ## Big Data 👨‍👩‍👦
 
-Big Data: Hacía la Cuarta Revolución Industrial (https://amzn.to/2mnv69y) [Ebook](https://amzn.to/2mmRJLC)
+[Big Data: Hacía la Cuarta Revolución Industrial](https://amzn.to/2mnv69y) \ [Ebook](https://amzn.to/2mmRJLC)
 
 
 ## 🕴 Empresa y Estrategia
@@ -42,15 +42,15 @@ Big Data: Hacía la Cuarta Revolución Industrial (https://amzn.to/2mnv69y) [Ebo
 
 ## 🔬 Ciencias de la Computación
 
-- * [Hackear la política](https://amzn.to/2mqf26X) [Ebook](https://amzn.to/2kLxd6J)
-- Industria 4.0. La transformación digital en la industria (https://amzn.to/2mhtoGY)
-- La Carrera Contra la Máquina (https://amzn.to/2mpLS7Z)
-- La Cuarta Revolución Industrial (https://amzn.to/2mhoauQ) [Ebook](https://amzn.to/2mncuXe)
-- La Cuarta Revolución Industrial en España (https://amzn.to/2mov5Cc)
-- Las 20 tecnologías clave de La Industria 4.0 (https://amzn.to/2kIyjQE)
-- Las claves para afrontar la cuarta revolución industrial (https://amzn.to/2mLnTAp)
-- Hacia una Ingenieria 4.0: El rol de la ingeniería mexicana (https://amzn.to/2lhnZ2q)
-- La Transformación Digital Centrada en la Persona (https://amzn.to/2l6lgZL) [Ebook](https://amzn.to/2l6mc0d)
+- Hackear la política [Tapa Blanda](https://amzn.to/2mqf26X) \ [Ebook](https://amzn.to/2kLxd6J)
+- [Industria 4.0. La transformación digital en la industria](https://amzn.to/2mhtoGY)
+- [La Carrera Contra la Máquina](https://amzn.to/2mpLS7Z)
+- La Cuarta Revolución Industrial [Tapa Blanda](https://amzn.to/2mhoauQ) \ [Ebook](https://amzn.to/2mncuXe)
+- [La Cuarta Revolución Industrial en España](https://amzn.to/2mov5Cc)
+- [Las 20 tecnologías clave de La Industria 4.0](https://amzn.to/2kIyjQE)
+- [Las claves para afrontar la cuarta revolución industrial](https://amzn.to/2mLnTAp)
+- [Hacia una Ingenieria 4.0: El rol de la ingeniería mexicana](https://amzn.to/2lhnZ2q)
+- La Transformación Digital Centrada en la Persona [Tapa Blanda](https://amzn.to/2l6lgZL) \ [Ebook](https://amzn.to/2l6mc0d)
 
 
 ## 👩‍💻 Desarrollo Web
@@ -65,15 +65,15 @@ Big Data: Hacía la Cuarta Revolución Industrial (https://amzn.to/2mnv69y) [Ebo
 ## PHP Framework <i class="fab fa-php"></i>
 
 ### CodeIgniter
-* [CodeIgniter 3: Programación fácil en PHP con Patrón MVC](https://amzn.to/2mqv8OC) (Ebook)
-* [MVC CodeIgniter para simpáticos newbies](https://amzn.to/2mz96cg)(Ebook)
+- [CodeIgniter 3: Programación fácil en PHP con Patrón MVC](https://amzn.to/2mqv8OC) (Ebook)
+- [MVC CodeIgniter para simpáticos newbies](https://amzn.to/2mz96cg)(Ebook)
 
 
 ## Docker <i class="fab fa-docker"></i>
 
-* [DOCKER. Seguridad y monitorización en contenedores e imágenes](https://amzn.to/2o6YlhL)
-* [Docker. Primeros pasos y puesta en práctica de una arquitectura basada en micro-servicios](https://amzn.to/2odnl7h)
-* [DOCKER. Guía práctica](https://amzn.to/2nyCrnC)
+- [DOCKER. Seguridad y monitorización en contenedores e imágenes](https://amzn.to/2o6YlhL)
+- [Docker. Primeros pasos y puesta en práctica de una arquitectura basada en micro-servicios](https://amzn.to/2odnl7h)
+- [DOCKER. Guía práctica](https://amzn.to/2nyCrnC)
 
 
 ## Swift <i class="fab fa-apple"></i>
@@ -104,83 +104,83 @@ Big Data: Hacía la Cuarta Revolución Industrial (https://amzn.to/2mnv69y) [Ebo
 
 ## 📺 Marketing
 
-Marketing y la cuarta revolución industrial (https://amzn.to/2mmHmra) [Ebook](https://amzn.to/2liK8gF)
+- Marketing y la cuarta revolución industrial [Tapa Blanda](https://amzn.to/2mmHmra) [Ebook](https://amzn.to/2liK8gF)
 
 
 ## 👩‍💻 Programación
 
 ## Python
 
-Analítica de Datos: Guía Definitiva Big Data (https://amzn.to/2n1ofUg) (https://amzn.to/2n1ofUg)
-Aprende A programar con Python (https://amzn.to/2oDRL2x)
-Aprende Python en un fin de semana (https://amzn.to/2nTc8IN) (https://amzn.to/2oIvYXG)
-Aprendizaje Automático: La Guía Definitiva para Principiantes (https://amzn.to/2oGHOS1)
-Aplicaciones Gráficas con Python 3 (https://amzn.to/2mZcspr)
-Curso de Programación Python (Manuales Imprescindibles) (https://amzn.to/2oIqPyQ)
-Criptografía sin secretos con Python (https://amzn.to/2oKnHmd)
-Desarrollo de Videojuegos 2D con Python (https://amzn.to/2oIzNft)
-Domótica con Raspberry, Google y Python (https://amzn.to/2oKdMNv)
-Electrónica, python y discapacidad visual (https://amzn.to/2msagqa)
-INTELIGENCIA ARTIFICIAL. Fundamentos, práctica y aplicaciones (https://amzn.to/2nXlAuH)
-Matemática y sus aplicaciones en enfermería y educación física (https://amzn.to/2mZ2vZ7)
-Minería de Datos: Guía de Minería de Datos para Principiantes (https://amzn.to/2mZ4gWd) (https://amzn.to/2mZ4gWd)
-Programación Python para Ingenieros Civiles (https://amzn.to/2nZFULQ)
-Plataforma de Control de Acceso y Gestión Remota basado en RaspberryPi (https://amzn.to/2n1rfju)
-Python 3 - Pack de 2 libros: de la algoritmia al dominio del lenguaje (https://amzn.to/2oBgZi3)
-Python machine learning 2'ed (https://amzn.to/2mnmjVz)
-Python para principiantes: Aprende Python en 5 días (https://amzn.to/2o0b2Le)
-RASPBERRY PI: Guía paso a paso para principiantes de Raspberry Pi (https://amzn.to/2o0rviQ)
-Sistema de Ayuda a la Decisión: Sistema de Ayuda a la Decisión con Python (https://amzn.to/2n1ofUg)
+- Analítica de Datos: Guía Definitiva Big Data [Tapa Blanda](https://amzn.to/2n1ofUg) \ [Ebook](https://amzn.to/- 2n1ofUg)
+- [Aprende A programar con Python](https://amzn.to/2oDRL2x)
+- Aprende Python en un fin de semana [Tapa Blanda](https://amzn.to/2nTc8IN) [Ebook](https://amzn.to/2oIvYXG)
+- [Aprendizaje Automático: La Guía Definitiva para Principiantes](https://amzn.to/2oGHOS1)
+- [Aplicaciones Gráficas con Python 3](https://amzn.to/2mZcspr)
+- [Curso de Programación Python](https://amzn.to/2oIqPyQ) (Manuales Imprescindibles)
+- [Criptografía sin secretos con Python](https://amzn.to/2oKnHmd)
+- [Desarrollo de Videojuegos 2D con Python](https://amzn.to/2oIzNft)
+- [Domótica con Raspberry, Google y Python](https://amzn.to/2oKdMNv)
+- [Electrónica, python y discapacidad visual](https://amzn.to/2msagqa)
+- [INTELIGENCIA ARTIFICIAL. Fundamentos, práctica y aplicaciones](https://amzn.to/2nXlAuH)
+- [Matemática y sus aplicaciones en enfermería y educación física](https://amzn.to/2mZ2vZ7)
+- Minería de Datos: Guía de Minería de Datos para Principiantes [Tapa Blanda](https://amzn.to/2mZ4gWd) [Ebook](https://amzn.to/2mZ4gWd)
+- [Programación Python para Ingenieros Civiles](https://amzn.to/2nZFULQ)
+- [Plataforma de Control de Acceso y Gestión Remota basado en RaspberryPi](https://amzn.to/2n1rfju)
+- [Python 3 - Pack de 2 libros: de la algoritmia al dominio del lenguaje](https://amzn.to/2oBgZi3)
+- [Python machine learning 2'ed](https://amzn.to/2mnmjVz)
+- [Python para principiantes: Aprende Python en 5 días](https://amzn.to/2o0b2Le)
+- [RASPBERRY PI: Guía paso a paso para principiantes de Raspberry Pi](https://amzn.to/2o0rviQ)
+- [Sistema de Ayuda a la Decisión: Sistema de Ayuda a la Decisión con Python](https://amzn.to/2n1ofUg)
 
 
 ## 👦 Programación Infantil
 
 ## Scratch
 
-Super Scratch: ¡El método más fácil y divertido para aprender a programar! (https://amzn.to/2OowjK3)
-Scratch. Aprende a programar jugando (https://amzn.to/2Ma07aa)
-Scratch para niños... Y no tan niños (https://amzn.to/30BjRJ6)
-Piensa y programa con Scratch... en casa y en clase (https://amzn.to/2OcFGfC)
-Programación con Scratch. Cuaderno (https://amzn.to/2Nsxqss)
-Diseño de videojuegos con Scratch. Cuaderno (https://amzn.to/2OdWrXN)
-Programar con Scratch ¡Mola! (https://amzn.to/2NtbpJU)
-Star Wars Proyectos de programación (https://amzn.to/2ObM9Y2)
+[Diseño de videojuegos con Scratch. Cuaderno](https://amzn.to/2OdWrXN)
+[Super Scratch: ¡El método más fácil y divertido para aprender a programar!](https://amzn.to/2OowjK3)
+[Scratch. Aprende a programar jugando](https://amzn.to/2Ma07aa)
+[Scratch para niños... Y no tan niños](https://amzn.to/30BjRJ6)
+[Piensa y programa con Scratch... en casa y en clase](https://amzn.to/2OcFGfC)
+[Programación con Scratch. Cuaderno](https://amzn.to/2Nsxqss)
+[Programar con Scratch ¡Mola!](https://amzn.to/2NtbpJU)
+[Star Wars Proyectos de programación](https://amzn.to/2ObM9Y2)
 
 
 ## 👮‍♀️ Seguridad
 
 ## Seguridad Inform&aacute;tica 🔐
 
-* Análisis de Malware para Sistemas Windows [Tapa Blanda](https://amzn.to/2AjuvcK)
-* Bacula: El Software Libre de Respaldo [Tapa Blanda](https://amzn.to/2Ndt5t0) [Ebook](https://amzn.to/2AfI78T)
-* Back Track 5 [Ebook](https://amzn.to/2Lw1q4s) Hacking de Redes Inálambricas 
-* El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA) [Saber M&aacute;s](/el-arte-de-la-invisibilidad/)
-* El enemigo conoce el sistema [Tapa Blanda](https://amzn.to/2Z46eBx) [Ebook](https://amzn.to/2Z1YfEV)
-* El libro blanco del hacker [Tapa Blanca](https://amzn.to/2N5EkCS)
-* El libro del hacker. Edición 2018 [Tapa Blanda](https://amzn.to/34ISSPb)
-* El peque&ntilde;o libro rojo del activista en la red [Tapa Blanda](https://amzn.to/2YQharj) [Ebook](https://amzn.to/33uIgmt)
-* [Experto En Hacking Linux Y Windows Seguridad Ofensiva](https://amzn.to/2Lt7Wsw)
-* [Ingeniería social. El arte del hacking personal](https://amzn.to/34MkmTV)
-* [Kali Linux](https://amzn.to/2LsHbV4)
-* [Pentesting con Kali](https://amzn.to/2NdO2DQ)
-* [Hacker WhiteBook](https://amzn.to/2NcGLEx)
-* [Hacking Ético](https://amzn.to/2Q8eeSG)
-* Hacking Etico 101 - Cómo hackear profesionalmente en 21 días o menos! [Tapa Blanda](https://amzn.to/2Nes43Y) [Ebook](https://amzn.to/2NbE3PG)
-* Hacking Wireless 101: ¡Cómo hackear redes inalámbricas fácilmente! V.2 [Tapa Blanda](https://amzn.to/2NdQlai)
-* [Hacking ético con herramientas Phyton](https://amzn.to/2LtNXtG)
-* [Hacking para dummies 2019](https://amzn.to/2Q8xD5W)
-* Haz clic aquí para matarlos a todos: Un manual de supervivencia [Tapa Blanda](https://amzn.to/2LvNasw) [Ebook](https://amzn.to/2AfhaSQ)
-* [Herramientas para hacking ético](https://amzn.to/31lBTjQ)
-* ISO27001/ISO27002: Una guía de bolsillo [Tapa Blanda](https://amzn.to/32KzTSD) [Ebook](https://amzn.to/2Q92T4M)
-* Los hombres que susurran a las máquinas [Tapa Blanda](https://amzn.to/2NdD6X1) [Ebook](https://amzn.to/2NdCS27)
-* Reglamento General de Protección de Datos (RGPD) de la UE [Tapa Blanda](https://amzn.to/2AelrpL) [Ebook](https://amzn.to/2Q4nK9l)
-* [Seguridad informática. Hacking ético - 2ª edición](https://amzn.to/2Nbl9bG)
-* Vigilancia permanente (No Ficción) [Tapa Blanda](https://amzn.to/2Lxt9Sd) [Ebook](https://amzn.to/2Alu55y)
-* Web hacking 101: C&oacute;mo hacer dinero hackeando &eacute;ticamente [Varios Formatos](https://leanpub.com/web-hacking-101-es)
+- Análisis de Malware para Sistemas Windows [Tapa Blanda](https://amzn.to/2AjuvcK)
+- Bacula: El Software Libre de Respaldo [Tapa Blanda](https://amzn.to/2Ndt5t0) \ [Ebook](https://amzn.to/2AfI78T)
+- Back Track 5 [Ebook](https://amzn.to/2Lw1q4s) Hacking de Redes Inálambricas 
+- El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA) \ [Saber M&aacute;s](/catalogo/el-arte-de-la-invisibilidad/)
+- El enemigo conoce el sistema [Tapa Blanda](https://amzn.to/2Z46eBx) \ [Ebook](https://amzn.to/2Z1YfEV)
+- El libro blanco del hacker [Tapa Blanca](https://amzn.to/2N5EkCS)
+- El libro del hacker. Edición 2018 [Tapa Blanda](https://amzn.to/34ISSPb)
+- El peque&ntilde;o libro rojo del activista en la red [Tapa Blanda](https://amzn.to/2YQharj) \ [Ebook](https://amzn.to/33uIgmt)
+- [Experto En Hacking Linux Y Windows Seguridad Ofensiva](https://amzn.to/2Lt7Wsw)
+- [Ingeniería social. El arte del hacking personal](https://amzn.to/34MkmTV)
+- [Kali Linux](https://amzn.to/2LsHbV4)
+- [Pentesting con Kali](https://amzn.to/2NdO2DQ)
+- [Hacker WhiteBook](https://amzn.to/2NcGLEx)
+- [Hacking Ético](https://amzn.to/2Q8eeSG)
+- Hacking Etico 101 - Cómo hackear profesionalmente en 21 días o menos! [Tapa Blanda](https://amzn.to/2Nes43Y) \ [Ebook](https://amzn.to/2NbE3PG)
+- Hacking Wireless 101: ¡Cómo hackear redes inalámbricas fácilmente! V.2 [Tapa Blanda](https://amzn.to/2NdQlai)
+- [Hacking ético con herramientas Phyton](https://amzn.to/2LtNXtG)
+- [Hacking para dummies 2019](https://amzn.to/2Q8xD5W)
+- Haz clic aquí para matarlos a todos: Un manual de supervivencia [Tapa Blanda](https://amzn.to/2LvNasw) \ [Ebook](https://amzn.to/2AfhaSQ)
+- [Herramientas para hacking ético](https://amzn.to/31lBTjQ)
+- ISO27001/ISO27002: Una guía de bolsillo [Tapa Blanda](https://amzn.to/32KzTSD) \ [Ebook](https://amzn.to/2Q92T4M)
+- Los hombres que susurran a las máquinas [Tapa Blanda](https://amzn.to/2NdD6X1) \ [Ebook](https://amzn.to/2NdCS27)
+- Reglamento General de Protección de Datos (RGPD) de la UE [Tapa Blanda](https://amzn.to/2AelrpL) \ [Ebook](https://amzn.to/2Q4nK9l)
+- [Seguridad informática. Hacking ético - 2ª edición](https://amzn.to/2Nbl9bG)
+- Vigilancia permanente (No Ficción) [Tapa Blanda](https://amzn.to/2Lxt9Sd) \ [Ebook](https://amzn.to/2Alu55y)
+- Web hacking 101: C&oacute;mo hacer dinero hackeando &eacute;ticamente [Varios Formatos](https://leanpub.com/web-hacking-101-es)
 <!-- [Tapa Blanda]() [Ebook]() -->
 INGLÉS
 
-- Permanent Record - Edward Snowden [Tapa Blanda](https://amzn.to/2AdKOrL) [Tapa Dura](https://amzn.to/34M3JHZ) [Ebook](https://amzn.to/2AinE3u)
+- Permanent Record - Edward Snowden [Tapa Blanda](https://amzn.to/2AdKOrL) \ [Tapa Dura](https://amzn.to/34M3JHZ) \ [Ebook](https://amzn.to/2AinE3u)
 
 
 ## 👷‍♂️ Webmaster
@@ -332,5 +332,5 @@ INGLÉS
 Los enlaces aquí expuestos funcionan a través de [Coockies](https://kutt.it/cookies) de Amazon y redirigen a páginas de afiliados. Si desea conocer más sobre esto: [Sigue Leyendo](/aviso-legal/)
 {: .notice--warning}
 
-Con la compra a través de estos enlaces se apoya y ayudaa a financiar el tiempo dedicado a la página web, **¡Muchas Gracias!**
+Con la compra a través de estos enlaces se apoya y ayudaa a financiar el tiempo dedicado a la página web, --¡Muchas Gracias!--
 {: .notice--info}
