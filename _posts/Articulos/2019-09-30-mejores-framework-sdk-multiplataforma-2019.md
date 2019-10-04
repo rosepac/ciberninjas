@@ -39,6 +39,8 @@ permalink: /mejores-sdk-multiplataforma-2019-20
 
 > ✍ Framework~s 🚀 de desarrollo más impresionantes de aplicaciones móviles más populares que serán tu mejor herramienta para el resto del 2019 y todo el año nuevo 2020.
 
+## Introducción
+
 Ha pasado ya algún tiempo desde que ha explotado el mercado de la telefonía móvil y han ido evolucionando las diferentes tecnologías con las que se crean las Apps. En algunos casos más, en otros menos. 
 
 En lo que todos podemos estar de acuerdo, es en que ha existido un gigante cambio a la hora de programar aplicaciones web.
@@ -252,6 +254,8 @@ Repositorio: [Código Unity](https://kutt.it/unitydescarga "Código fuente del S
 
 Repositorio: [Código Qt](https://kutt.it/repositorioqt "Código fuente del framework Qt en Github")
 {: .notice--info}
+
+## Final
 
 Si se me ha olvidado algo, puedes dejarme un comentario. Espero que os halla gustado esta publicación y espero seguir publicando en esta misma línea.
 
