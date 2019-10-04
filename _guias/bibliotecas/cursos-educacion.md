@@ -3,7 +3,7 @@
 title: "👨‍🏫 ▷ Cursos 🔥 de Educación y Específicos para Docentes y Profesorado"
 description: "👨‍🏫 ▷ MCursos 🔥 de Educación y Específicos para Docentes y Profesorado"
 excerpt: "👨‍🏫 ▷ MCursos 🔥 de Educación y Específicos para Docentes y Profesorado"
-published: false
+published: true
 date: 2019-10-04T22:00:00.000+00:00
 last_modified_at: 2019-10-04T12:42:42-05:00
 permalink: /cursos-educacion/
@@ -83,7 +83,7 @@ toc_sticky: false
 * [Trascendencia del educador durante la primera infancia](https://edutin.com/curso-de-trascendencia-del-educador-durante-la-primera-infancia-3854)
 
 
-### Educación Especial
+## Educación Especial
 
 * [Atención al alumnado con necesidades educativas especiales (2011)](http://ocw.umh.es/ciencias-de-la-salud/Atencion-al-alumnado-con-necesidades-educativas-especiales-459)
 * [Educación Especial (2008)](http://ocw.um.es/cc.-sociales/educacion-especial)

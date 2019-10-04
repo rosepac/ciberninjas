@@ -1,9 +1,9 @@
 ---
-title: "📰 TITULO"
+title: "👨‍💻 Los 14 Mejores Framework / SDK de Desarrollo de Aplicaciones Móviles en 2019 / 2020"
 author_profile: true
-description: 'ICONO-TEMATICA RESUMEN'
-excerpt: 'ICONO-TEMATICA RESUMEN'
-published: false
+description: '🚀 Ojeamos los frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2019 / 2020.'
+excerpt: '🚀 Ojeamos los frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2019 / 2020.'
+published: true
 date: 2019-10-04 17:45:02
 # Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
@@ -33,7 +33,7 @@ permalink: /mejores-sdk-multiplataforma-2019-20
 
 ---
 
-> ✍ Framework 🚀 de desarrollo de aplicaciones móviles más populares que serán tu mejor herramienta para el resto del 2019 y el nuevo año 2020.
+> ✍ Framework 🚀 de desarrollo más impresionantes de aplicaciones móviles más populares que serán tu mejor herramienta para el resto del 2019 y todo el año nuevo 2020.
 
 Ha pasado ya algún tiempo desde que ha explotado el mercado de la telefonía móvil y han ido evolucionando las diferentes tecnologías con las que se crean las Apps. En algunos casos más, en otros menos. 
 
