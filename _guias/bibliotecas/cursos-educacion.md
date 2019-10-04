@@ -1,11 +1,11 @@
 ---
 # Página Base
-title: "👨‍🏫 ▷ Cursos 🔥 de Educación y Específicos para Docentes y Profesorado"
-description: "👨‍🏫 ▷ MCursos 🔥 de Educación y Específicos para Docentes y Profesorado"
-excerpt: "👨‍🏫 ▷ MCursos 🔥 de Educación y Específicos para Docentes y Profesorado"
+title: "👨‍🏫 ▷ Cursos de Educación Específicos para Docentes y Profesorado"
+description: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
+excerpt: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
 published: true
-date: 2019-10-04T22:00:00.000+00:00
-last_modified_at: 2019-10-04T12:42:42-05:00
+date: 2019-10-04T17:00:00.000+00:00
+last_modified_at: 2019-10-04T17:59:42-05:00
 permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
 # image: 
