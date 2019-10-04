@@ -5,9 +5,13 @@ description: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre a
 excerpt: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
 published: true
 date: 2019-10-04T17:00:00.000+00:00
-last_modified_at: 2019-10-04T17:59:42-05:00
+last_modified_at: 2019-10-04T19:10:42-05:00
 permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
+header:
+  image: "/assets/image/cursos_educacion_pensar.jpg"
+  image_description: "Los Mejores Cursos para Profesores, Educadores, Pegagogos y Profesionales de la Educación \ Visto en Ciberninjas"
+  caption: "**Créditos**: ROSEPAC."
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
 #   width: 1024
