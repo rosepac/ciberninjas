@@ -22,7 +22,7 @@ toc_sticky: false
 
 ---
 
-## Cursos de Educacion
+## Cursos de Educación
 ### Educación
 
 * [¿Qué es el Aprendizaje y Servicio? Curso introductorio a la metodología](https://miriadax.net/web/que-es-el-aprendizaje-y-servicio-curso-introductorio-a-la-metodologia-a-s/inicio) (MiriadaX)
