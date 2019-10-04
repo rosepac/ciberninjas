@@ -18,6 +18,7 @@ permalink: /wiki/categoria/generadores-de-sitios-web-estaticos
 
 <!-- EN CONSTRUCCIÓN -->
 Páginas pertenecientes a esta categoría: 3
+{: .notice--primary}
 
 ## H
 - Hugo

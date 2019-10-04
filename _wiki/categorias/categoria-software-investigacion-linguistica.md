@@ -18,6 +18,7 @@ permalink: /wiki/categoria/software-de-investigacion-linguistica
 
 <!-- EN CONSTRUCCIÓN -->
 Páginas pertenecientes a esta categoría: 3
+{: .notice--primary}
 
 ## A
 
