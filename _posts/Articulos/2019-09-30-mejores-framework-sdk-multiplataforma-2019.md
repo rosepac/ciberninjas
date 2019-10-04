@@ -65,7 +65,7 @@ Hoy me gustaría ojear y listar los frameworks más importantes, que sin lugar a
 Repositorio: [Código Flutter](https://kutt.it/repositorioflutter "Código fuente del framework Flutter en Github")
 {: .notice--info}
  
-## Ionic Framework SDK de Código Abierto
+## Ionic
 <figure>
     <a href="/assets/images/sdk_paginas/ionic_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/ionic_1.jpg"></a>
     <figcaption>Ionic, visto en Ciberninjas</figcaption>
