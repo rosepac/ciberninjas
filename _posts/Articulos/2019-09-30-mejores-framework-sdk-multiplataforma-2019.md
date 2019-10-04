@@ -253,4 +253,6 @@ Repositorio: [Código Unity](https://kutt.it/unitydescarga "Código fuente del S
 Repositorio: [Código Qt](https://kutt.it/repositorioqt "Código fuente del framework Qt en Github")
 {: .notice--info}
 
-Espero que os halla gustado esta publicación y espero seguir publicando en esta misma línea, ¡Qué lo disfrutéis Ciberninjas! 😹 
+Si se me ha olvidado algo, puedes dejarme un comentario. Espero que os halla gustado esta publicación y espero seguir publicando en esta misma línea.
+
+¡Qué lo aprovechéis y disfrutéis mucho mis Ciberninjas! 😹 👨‍💻
