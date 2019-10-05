@@ -167,18 +167,34 @@ Repositorio: [Código Appcelerator](https://kutt.it/repositorioappcelerator "Có
 Repositorio: [Código jQuery Móvil](https://kutt.it/repositoriojquerymovil "Código fuente del framework jQuery Móvil en Github")
 {: .notice--info}
 
-## Intel XDK
+## Intel System Studio
 <figure>
     <a href="/assets/images/sdk_paginas/intel_sdk_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/intel_sdk_1.jpg"></a>
     <figcaption>Intel XDK, visto en Ciberninjas</figcaption>
 </figure>
- Intel XDK permite a los desarrolladores crear aplicaciones móviles para iOS, Windows, Android, Amazon y Nook. La razón principal por la que los desarrolladores usan Intel XDK es que ofrece una interfaz de creación basada en coger, arrastrar y soltar.
+ Intel XDK ha sido descontinuado, y tras el cierre del proyecto Intel ha decidido dejar lo aprovechable reorientado en herramientas de desarrollo de IoT principalmente, a lo que han llamado: Intel System Studio.
+ 
+ Además, han creado [varios proyectos y SDK](https://kutt.it/intelsdks) enfocadas en las "Tecnologías Inteligentes".
 
- Lo que posibilita generar interfaces fácilmente; también nos ofrece opciones de depuración de perfiles y aplicaciones, acortando así; el tiempo necesario a la hora de realizar numerosas pruebas de la aplicación en diferentes configuraciones de un dispositivo.
+ - [Sistema Innovador de Aplicaciones IoT](https://kutt.it/intelstudiodescarga)
 
- Ofrece un software que facilita la creación de aplicaciones IoT y apps sobre Node.JS, además nos permite visualizar agradables vistas previas en vivo de los cambios que estamos realizando durante el desarrollo de la aplicación.
+ Aumenta el rendimiento, la eficiencia energética y la confiabilidad de las aplicaciones de sistemas y dispositivos IoT con un extenso conjunto de herramientas de desarrollo.
 
- Repositorio: [Código Intel XDK](https://kutt.it/intelxdkdescarga "Código fuente del framework Intel XDK en Github")
+ - [Desarrollo de Soluciones de Visión por Computadora Multiplataforma](https://software.intel.com/en-us/openvino-toolkit)
+
+ Crea aplicaciones de visión artificial desde plataformas Intel®, desde cámaras inteligentes o videovigilancia hasta robótica, cámaras en transportes y más.
+
+ - [Conducción Automatizada](https://software.intel.com/en-us/automated-driving-sdk)
+
+ Rendimiento acelerado, diseño de algoritmos, aprendizaje profundo y más con este rico conjunto de herramientas de desarrollo para construir sistemas de centros de datos y vehículos.
+
+ - [Arduino Create](https://kutt.it/intelarduino)
+
+ Solución de desarrollo integrada basada en la nube para el desarrollo en C++ que nos permite la creación de prototipos optimizados de aplicaciones comerciales basadas en la arquitectura Intel®.
+ 
+ Entre otros..
+
+ Repositorio: [Intel System Studio](https://kutt.it/intelstudiodescarga "Implementa mejoras en las aplicaciones IoT")
 {: .notice--info}
 
 ## Móvil Angular UI
@@ -246,11 +262,13 @@ Repositorio: [Código Unity](https://kutt.it/unitydescarga "Código fuente del S
 </figure>
  Como última opción, he elegido dejar a Qt.
 
- Qt es una herramienta de desarrollo completa que nos permite trabajar con múltiples lenguajes de programación; Python, C++, Qt QML, R o GO; y es soportador por todos los Sistemas Operativos.
+ Qt es un framework de desarrollo multiplataforma que nos permite la creación de aplicaciones con múltiples lenguajes de programación; Python, C++, Qt QML, R o GO a través de su herramienta propia: Qt Creator.
+ 
+ Los lenguajes de programación más usados a la hora de desarrollar sobre Qt son: C++ y [QML](/glosario/qml/).
 
- Los más habituales son con los que diseñar las interfaces de usuario son C ++ o Qt QML su propio lenguaje declarativo de interfaz de usuario CSS y JavaScript.
-
- Qt ofrece amplias librerías con facilidad de implementar; entre otras.. Una consolidada API de ubicación, acceso a los sensores a través de hardware, conectividad Bluetooth o un bloque de código enfocado a las compras.
+ Una de las mayores ventajas que ofrece Qt, es la capacidad de generar código soportada por todos los Sistemas Operativos, y además; nos ofrece una amplio lista de librerías de fácil implementación.
+ 
+ Entre otras: Una consolidada API de ubicación, acceso a sensores a través de hardware, conectividad Bluetooth o bloques de código enfocados en el desarrollo de sistemas e-commerce.
 
 Repositorio: [Código Qt](https://kutt.it/repositorioqt "Código fuente del framework Qt en Github")
 {: .notice--info}
