@@ -10,6 +10,8 @@ permalink: /wiki/ciborg
 
 ---
 
+<!-- http://laaventuradeaprender.intef.es/-/ciborg-fernando-broncano -->
+<!-- http://laaventuradeaprender.intef.es/glosario -->
 <!-- 
 #### NOTAS EXTRAÍDAS DE LIBRO
 -->
