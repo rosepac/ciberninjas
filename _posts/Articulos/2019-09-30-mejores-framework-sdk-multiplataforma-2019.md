@@ -5,6 +5,7 @@ description: '🚀 Ojeamos los frameworks más impresionantes y populares de des
 excerpt: '🚀 Ojeamos los frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2019 / 2020.'
 published: true
 date: 2019-10-04 17:45:02
+last_modified_at: 2019-10-05 18:18:10
 # Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
 - SDK Multiplataforma
