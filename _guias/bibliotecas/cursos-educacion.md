@@ -9,7 +9,7 @@ last_modified_at: 2019-10-04T19:10:42-05:00
 permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
 header:
-  image: "/assets/image/cursos_educacion_pensar.jpg"
+  image: "/assets/images/cursos_educacion_pensar.jpg"
   image_description: "Los Mejores Cursos para Profesores, Educadores, Pegagogos y Profesionales de la Educación \ Visto en Ciberninjas"
   caption: "**Créditos**: ROSEPAC."
 # image: 
