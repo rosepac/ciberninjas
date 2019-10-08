@@ -1,7 +1,7 @@
 ---
 title: "🚨 Conoce la Fundación Frontera Electrónica"
-description: "🚨 Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctales."
-excerpt: "🚨 Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctales."
+description: "🚨 Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctarles."
+excerpt: "🚨 Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctarles."
 permalink: /eff/fundacion-frontera-electronica/
 canonical_URL: https://ciberninjas.com/eff/fundacion-frontera-electronica/
 published: true
@@ -14,15 +14,18 @@ header:
 # sidebar:
 # - title: "Catálogo"
 #   nav: tienda
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
+
 ---
 
-## Sobre Nosotros
-
-### ¿Qué es EFF?
+## ¿Qué es la EFF?
 
 La Electronic Frontier Foundation es la principal organización sin fines de lucro que defiende las libertades civiles en el mundo digital. Fundada en 1990, EFF defiende la privacidad del usuario, la libertad de expresión y la innovación a través de litigios de impacto, análisis de políticas, activismo de base y desarrollo de tecnología. Trabajamos para garantizar que los derechos y libertades se mejoren y protejan a medida que crece nuestro uso de la tecnología.
 
-Incluso en los días incipientes de Internet, EFF entendió que proteger el acceso a la tecnología en desarrollo era fundamental para promover la libertad para todos. En los años que siguieron, EFF utilizó nuestra voz ferozmente independiente para abrir el camino para el software de código abierto, el cifrado, la investigación de seguridad, las herramientas para compartir archivos y un mundo de tecnologías emergentes.
+Incluso en los días del principio de Internet, la EFF entendió que proteger el acceso a la tecnología en desarrollo era fundamental para promover la libertad para todos. En los años que siguieron, EFF utilizó nuestra voz ferozmente independiente para abrir el camino para el software de código abierto, el cifrado, la investigación de seguridad, las herramientas para compartir archivos y un mundo de tecnologías emergentes.
 
 Hoy, EFF utiliza la experiencia única de los principales tecnólogos, activistas y abogados en nuestros esfuerzos para defender la libertad de expresión en línea, luchar contra la vigilancia ilegal, abogar por los usuarios e innovadores y apoyar las tecnologías que mejoran la libertad.
 
@@ -30,7 +33,7 @@ Juntos, forjamos una vasta red de miembros preocupados y organizaciones asociada
 
 EFF es una organización sin fines de lucro US 501 (c) (3) financiada por donantes que depende de su apoyo para continuar luchando por los usuarios.
 
-### EFF Historia
+## EFF Historia
 
 > Una historia de protección de la libertad donde la ley y la tecnología chocan
 
@@ -57,7 +60,7 @@ El Departamento de Estado no simpatizaba con la situación de Bernstein y le dij
 
 La Electronic Frontier Foundation reunió a un equipo legal de primer nivel y demandó al gobierno de los Estados Unidos en nombre de Dan Bernstein. El tribunal dictaminó, por primera vez, que el código de software escrito está protegido por voz en la Primera Enmienda. El tribunal dictaminó además que las leyes de control de exportaciones sobre encriptación violaban los derechos de la Primera Enmienda de Bernstein al prohibir su discurso constitucionalmente protegido. Como resultado, el gobierno cambió sus regulaciones de exportación. Ahora todos tienen el derecho de "exportar" software de encriptación, publicándolo en Internet, sin el permiso previo del gobierno de los Estados Unidos. Una vez más, la Electronic Frontier Foundation lideró la tarea de establecer importantes derechos en el ciberespacio.
 
-#### Problemas de Hoy
+### Problemas de Hoy
 
 Si bien muchas de las primeras batallas por el derecho a comunicarse de forma libre y privada se derivaron de la censura gubernamental, hoy EFF también lucha por los usuarios en muchos otros frentes.
 
@@ -68,13 +71,13 @@ Además, EFF está involucrado en importantes luchas legislativas, rechazando pr
 
 Estamos trabajando con defensores de todo el mundo para crear un entorno digital global que defienda los derechos humanos y los derechos constitucionales, y continuamos asumiendo casos legales de vanguardia para ganar victorias para los derechos de los usuarios.
 
-### EFF Victorias
+## EFF Victorias
 
 Desde su fundación en 1990, EFF ha tomado consistentemente casos críticos, desafió a oponentes difíciles y logró victorias históricas. EFF ha prevalecido en demandas contra el gobierno federal, la FCC, las compañías de entretenimiento más grandes del mundo y las principales compañías de electrónica, entre otras. EFF también superó los proyectos de ley en el Congreso y presionó a las empresas para que respeten sus derechos.
 
 Obtenga más información sobre algunas de las victorias clave de EFF a continuación. Para apoyar nuestro éxito continuo, considere [**convertirse en miembro y donar a EFF**.](https://www.eff.org/support)
 
-### Informes y Finanzas
+## Informes y Finanzas
 
 La Electronic Frontier Foundation es una organización sin fines de lucro US 501 (c) (3) financiada por donantes. Nuestro número de identificación fiscal es 04-3091431. Para una mirada en profundidad, consulte nuestro informe anual más reciente y el Formulario 990 . EFF tiene una calificación de cuatro estrellas (la más alta posible) del perro guardián Charity Navigator.
 
@@ -195,7 +198,7 @@ Este logotipo fue creado por la principal agencia de marca [Pentagram](https://w
 
 Los gráficos EFF adicionales, todos disponibles en una licencia Creative Commons [Attribution](https://creativecommons.org/licenses/by/4.0/) , se pueden descargar libremente desde [nuestra página de Flickr](https://www.flickr.com/photos/electronicfrontierfoundation) . (Para otras preguntas sobre gráficos EFF, comuníquese con [design@eff.org](mailto:design@eff.org) .)
 
-## Pautas del logotipo
+### Pautas del logotipo
 
 Hay dos versiones básicas de este logotipo: el monograma y el bloqueo. El monograma son las tres letras del acrónimo de nuestra organización en negrita. El bloqueo es las mismas tres letras con el nombre de la organización deslizado dentro.
 
