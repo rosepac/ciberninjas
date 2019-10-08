@@ -1,8 +1,8 @@
 ---
 layout: collection
-title: "EFF: La principal organización sin fines de lucro que defiende la privacidad digital, la libertad de expresión y la innovación, traducción por Pablo Álvarez Corredera: Ciberninjas"
-description: "🤯 EFF: La principal organización sin fines de lucro que defiende la privacidad digital, la libertad de expresión y la innovación, traducción por Pablo Álvarez Corredera: Ciberninjas"
-excerpt: "🤯 EFF: La principal organización sin fines de lucro que defiende la privacidad digital, la libertad de expresión y la innovación, traducción por Pablo Álvarez Corredera: Ciberninjas"
+title: "EFF: Fundación Frontera Electrónica, traducción por Pablo Álvarez Corredera: Ciberninjas"
+description: "EFF: Fundación Frontera Electrónica, traducción por Pablo Álvarez Corredera: Ciberninjas"
+excerpt: "EFF: Fundación Frontera Electrónica, traducción por Pablo Álvarez Corredera: Ciberninjas"
 collection: eff
 permalink: /eff/
 canonical_URL: https://ciberninjas.com/eff/
@@ -20,34 +20,14 @@ author_profile: false
 
 ---
 
-Las diferentes aspectos que protege la EEF (Electronic Frontier Foundation) son la libertad de expresión, 
+La EFF es la principal organización sin fines de lucro que defiende la privacidad digital, la libertad de expresión y la innovación. En el artículo de [presentación](/eff/fundacion-frontera-electronica/) podrás conocer toda sus ideologías y pensamiento.
 
-<figure>
-    <a href="https://ibb.co/tpkcSrw" class="image-popup" alt="La Libertad de Expresión"><img src="https://ibb.co/tpkcSrw"></a>
-    <figcaption>La importancia de la libertad de expresión | Visto en Ciberninjas</figcaption>
-</figure>
+Las diferentes aspectos que protege e intenta dar visibilidad la EEF (Electronic Frontier Foundation) son la libertad de expresión, la privacidad, la creación e innovación, la transparencia, la internacionalidad y la seguridad.
 
-## Libertad de Expresión
-La nueva tecnología ofrece la promesa de hablar con mínimas barreras y sin fronteras. Internet ha mejorado radicalmente nuestra capacidad de expresarnos y nuestra capacidad de acceder, archivar y compartir información. Todos deberían poder aprovechar esta promesa.
+Además de todo esto, la EFF difunde y promueve diferentes proyectos y herramientas; entre otras: el badge de privacidad, HTTPS para todos, Autodefensa de la Vigilancia, Certbot y Panopticlick.
 
-Las personas de todo el mundo deberían poder utilizar las nuevas tecnologías para publicar sus ideas; criticar a los que están en el poder; reunir y reportar las noticias; y hacer, adaptar y compartir trabajos creativos. Las comunidades vulnerables deberían poder reunirse y crecer con seguridad, haciéndose escuchar sin ser ahogadas por los poderosos. La capacidad de intercambiar ideas libremente también beneficia a los innovadores, que pueden usar todas sus capacidades para construir herramientas aún mejores para sus comunidades y el mundo.
+**Fuente**: El contenido siguiente son traducciones realizadas bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es) sin derivados, propiedad original de la [EFF](https://kutt.it/eff) tanto la redacción como las imágenes. En todo momento este contenido debe estar bajo la misma licencia.
+{: .notice--info}
 
-<figure>
-    <a href="https://i.ibb.co/v4gmbnC/icon-free-speech-1.png" class="image-popup" alt="La Privacidad"><img src="https://i.ibb.co/v4gmbnC/icon-free-speech-1.png"></a>
-    <figcaption>La importancia de la privacidad | Visto en Ciberninjas</figcaption>
-</figure>
-
-## Privacidad
-
-<figure>
-    <a href="https://i.ibb.co/McrB0m8/icon-privacy-1-0.png" class="image-popup"><img src="https://i.ibb.co/McrB0m8/icon-privacy-1-0.png"></a>
-    <figcaption>Dame Stephanie Shirley | Visto en Ciberninjas</figcaption>
-</figure>
-
-## Creatividad e Innovación
-
-## Transparencia
-
-## Internacional
-
-## Seguridad
+**Info. Legal**: Si desea reutilizar este contenido debe dar reconocimiento, tanto a la EFF como creador orginal y además a [Pablo Álvarez Corredera o Ciberninjas](https://kutt.it/ciberninjas) como creador del contenido en español.
+{: .notice--info}
