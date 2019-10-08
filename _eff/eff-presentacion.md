@@ -1,7 +1,7 @@
 ---
 title: "🚨 Fundación Frontera Electrónica"
-description: "🚨 Conoce todo lo que debes saber sobre la EFF."
-excerpt: "🚨 Conoce todo lo que debes saber sobre la EFF."
+description: "👮‍♀️ Conoce todo lo que debes saber sobre la EFF."
+excerpt: "👮‍♀️ Conoce todo lo que debes saber sobre la EFF."
 date: 2019-10-08 18:40:10
 last_modified_at: 
 permalink: /eff/fundacion-frontera-electronica/
