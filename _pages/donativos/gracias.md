@@ -10,6 +10,7 @@ published: true
 #   image_description: "DS | Ciberninjas"
 #   caption: "**Créditos**: "
 permalink: /gracias/
+canonical_URL: https://ciberninjas.com/gracias/
 sidebar:
 - title: "Menú Principal"
   nav: general

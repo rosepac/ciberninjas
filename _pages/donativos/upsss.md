@@ -10,6 +10,7 @@ published: true
 #   image_description: "DS | Ciberninjas"
 #   caption: "**Créditos**: "
 permalink: /upsss/
+canonical_URL: https://ciberninjas.com/upsss/
 sidebar:
 - title: "Menú Principal"
   nav: general
