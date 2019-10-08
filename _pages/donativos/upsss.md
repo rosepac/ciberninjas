@@ -2,12 +2,8 @@
 title: "😿 Siento que no haya sido de tu agrado"
 description: '😿 Siento que no haya sido de tu agrado.'
 excerpt: '😿 Siento que no haya sido de tu agrado.'
-date: 
+date: 2019-10-08 12:00:56
 published: true
-categories:
-
-tags:
-
 # header:
 #   overlay_image: "/assets/images/F.jpg"
 #   overlay_filter: "0.2"

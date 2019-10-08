@@ -1,29 +1,22 @@
----
-title: "ICONO+TITULO"
-description: 'RS'
-excerpt: 'RS'
-date: 
-published: false
-categories:
-
-tags:
-
-header:
-  overlay_image: "/assets/images/F.jpg"
-  overlay_filter: "0.2"
-  image_description: "DS | Ciberninjas"
-  caption: "**Créditos**: "
+# ---
+title: "😻 Mil Gracias, ¡Los Ciberninjas Te Queremos!"
+description: '😻 Mil Gracias, ¡Los Ciberninjas Te Queremos!'
+excerpt: '😻 Mil Gracias, ¡Los Ciberninjas Te Queremos!'
+date: 2019-10-08 12:00:10
+published: true
+# header:
+#   overlay_image: "/assets/images/F.jpg"
+#   overlay_filter: "0.2"
+#   image_description: "DS | Ciberninjas"
+#   caption: "**Créditos**: "
 permalink: /gracias/
 sidebar:
 - title: "Menú Principal"
   nav: general
 ---
-> RS
+
+**😻 Mil Gracias, ¡Los Ciberninjas Te Queremos!**
 
 <figure>
-    <a href="/assets/images/Fx636.jpg" class="image-popup"><img src="/assets/images/F.jpg"></a>
-    <figcaption>DS | Ciberninjas</figcaption>
+    <img src="https://i.ibb.co/rm7KzLL/giphy.gif">
 </figure>
-
-**Fuente**: [](URL "")
-{: .notice--info}
