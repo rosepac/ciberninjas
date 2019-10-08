@@ -1,5 +1,5 @@
 ---
-title: "🚨 Introducción a la Fundación Frontera Electrónica"
+title: "🚨 Conoce la Fundación Frontera Electrónica"
 description: "🚨 Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctales."
 excerpt: "🚨 Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctales."
 permalink: /eff/fundacion-frontera-electronica/
