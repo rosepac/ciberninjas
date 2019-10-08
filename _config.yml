@@ -287,12 +287,6 @@ comments:
 # Pie de Página
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ciberninjas"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/ciberninjas"
     - label: "Donativo"
       icon: "fab fa-fw fa-paypal"
       url: "https://paypal.me/ciberninjas"
@@ -305,5 +299,11 @@ footer:
     - label: "Criptomonedas"
       icon: "fas fa-fw fa-donate"
       url: "https://gist.github.com/rosepac/df7d4fc0abcf6030c32907b9aa19c401#paypal"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ciberninjas"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/ciberninjas"
       
 # Final de la Configuración 💋💋💋
