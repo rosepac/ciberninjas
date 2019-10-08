@@ -2,11 +2,13 @@
 title: "🚨 Conoce la Fundación Frontera Electrónica"
 description: "🚨 Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctarles."
 excerpt: "🚨 Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctarles."
+date: 2019-10-08 17:00:10
+last_modified_at: 
 permalink: /eff/fundacion-frontera-electronica/
 canonical_URL: https://ciberninjas.com/eff/fundacion-frontera-electronica/
 published: true
 header:
-   overlay_image: "https://i.ibb.co/PM59NRf/eff-work-icons-3-COLOR-fix.png"
+   overlay_image: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
    overlay_filter: "0.2"
    image_description: "Conoce todo lo que debes saber sobre la Fundación Frontera Electrónica \ Visto en Ciberninjas"
    image_alt: "Conoce todo lo que debes saber sobre la Fundación Frontera Electrónica \ Visto en Ciberninjas \ Visto en Ciberninjas"
@@ -20,6 +22,14 @@ toc_icon: user-ninja
 toc_sticky: true
 
 ---
+
+
+<figure>
+    <a href="https://i.ibb.co/PM59NRf/eff-work-icons-3-COLOR-fix.png" class="image-popup"><img src="https://i.ibb.co/PM59NRf/eff-work-icons-3-COLOR-fix.png" alt="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas" title="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas"></a>
+    <figcaption>Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas</figcaption>
+</figure>
+
+> Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctarles.
 
 ## ¿Qué es la EFF?
 
@@ -198,13 +208,13 @@ Este logotipo fue creado por la principal agencia de marca [Pentagram](https://w
 
 Los gráficos EFF adicionales, todos disponibles en una licencia Creative Commons [Attribution](https://creativecommons.org/licenses/by/4.0/) , se pueden descargar libremente desde [nuestra página de Flickr](https://www.flickr.com/photos/electronicfrontierfoundation) . (Para otras preguntas sobre gráficos EFF, comuníquese con [design@eff.org](mailto:design@eff.org) .)
 
-### Pautas del logotipo
+**Pautas del logotipo**
 
 Hay dos versiones básicas de este logotipo: el monograma y el bloqueo. El monograma son las tres letras del acrónimo de nuestra organización en negrita. El bloqueo es las mismas tres letras con el nombre de la organización deslizado dentro.
 
 Este logotipo está diseñado para ser modular, y puede orientarse y apilarse de varias maneras. Si desea una orientación diferente de este logotipo, póngase en contacto con [design@eff.org](mailto:design@eff.org) con una solicitud, y estaremos encantados de proporcionarle una versión que se adapte a sus necesidades. No haga sus propios ajustes, cambie los colores, agregue contornos o efectos, ni distorsione el logotipo.
 
-### Logotipo EFF (monograma)
+**Logotipo EFF (monograma)**
 
 El monograma es solo tres letras en negrita. Debe usarse en rojo o negro. Aquí está sobre un fondo blanco.
 
@@ -218,7 +228,7 @@ Aquí está el monograma sobre un fondo negro.
 
 ![img](https://www.eff.org/files/2018/06/14/eff_monogram-red-reverse.png)
 
-### Logotipo de EFF (bloqueo)
+**Logotipo de EFF (bloqueo)**
 
 El bloqueo consta de nuestras tres letras con el nombre de nuestra organización dentro. Debe usarse en rojo o negro.
 
@@ -234,21 +244,21 @@ Aquí está el bloqueo invertido contra un fondo negro:
 
 ![img](https://www.eff.org/files/2018/06/14/eff-logo-lockup-reverse.png)
 
-### Tipografía
+**Tipografía**
 
 El logotipo utiliza un hermoso tipo de letra de código abierto, del tipo League of Moveable, llamado [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic) .
 
-### Colores
+**Colores**
 
 Limite los colores a negro (hexadecimal # 000000, blanco (hexadecimal #FFFFFF) y rojo (hexadecimal # EC1E1E).
 
-### No hacer
+**No hacer**
 
 Evite cometer estos errores de diseño comunes. 😄
 
 ![img](https://www.eff.org/files/2018/06/18/eff-logo-dont.png)
 
-### Descargar
+**Descargar**
 
 Puede descargar una carpeta comprimida de varias versiones de logotipos [aquí](https://www.eff.org/files/2018/06/18/eff-logo-download.zip).
 
