@@ -1,8 +1,8 @@
 ---
-title: "🚨 Conoce la Fundación Frontera Electrónica"
-description: "🚨 Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctarles."
-excerpt: "🚨 Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctarles."
-date: 2019-10-08 17:00:10
+title: "🚨 Fundación Frontera Electrónica"
+description: "🚨 Conoce todo lo que debes saber sobre la EFF."
+excerpt: "🚨 Conoce todo lo que debes saber sobre la EFF."
+date: 2019-10-08 18:40:10
 last_modified_at: 
 permalink: /eff/fundacion-frontera-electronica/
 canonical_URL: https://ciberninjas.com/eff/fundacion-frontera-electronica/
@@ -23,9 +23,10 @@ toc_sticky: true
 
 ---
 
-
+> 🚨 Vamos a aprender todo lo que debemos saber sobre la EFF, quiénes son, que hacen, su historia y cómo podemos ayudar a promocionar su proyecto e incluso contáctarles.
+> 
 <figure>
-    <a href="https://i.ibb.co/PM59NRf/eff-work-icons-3-COLOR-fix.png" class="image-popup"><img src="https://i.ibb.co/PM59NRf/eff-work-icons-3-COLOR-fix.png" alt="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas" title="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas"></a>
+    <img src="https://i.ibb.co/PM59NRf/eff-work-icons-3-COLOR-fix.png" alt="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas" title="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas"></a>
     <figcaption>Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -264,4 +265,4 @@ Puede descargar una carpeta comprimida de varias versiones de logotipos [aquí](
 
 ## Quiénes Somos
 
-- ¿Quién es Quién? Sobre la Fundación Frontera Electrónica
+- ¿Quién es Quién? Dentro de la Fundación Frontera Electrónica
