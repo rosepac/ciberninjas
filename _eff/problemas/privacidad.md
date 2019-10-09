@@ -1,7 +1,7 @@
 ---
-title: "🚨 La Privacidad según la EFF \ Visto en Ciberninjas"
-description: "🚨 La Privacidad según la EFF \ Visto en Ciberninjas"
-excerpt: "🚨 La Privacidad según la EFF \ Visto en Ciberninjas"
+title: "🚨 La Privacidad según la EFF"
+description: "🚨 La Privacidad según la EFF. Visto en Ciberninjas"
+excerpt: "🚨 La Privacidad según la EFF. Visto en Ciberninjas"
 permalink: /eff/privacidad/
 canonical_URL: https://ciberninjas.com/eff/privacidad/
 date: 2019-10-08
@@ -31,4 +31,4 @@ A medida que las necesidades de privacidad evolucionan, también deberían hacer
 
 Lea nuestro trabajo sobre cuestiones de privacidad a continuación y únase a la EFF para ayudar a respaldar nuestros esfuerzos.
 
-Para obtener información sobre la ley y la tecnología de la vigilancia gubernamental, consulte el proyecto de [autodefensa de vigilancia de EFF](https://ssd.eff.org/es).
+Para obtener información sobre la ley y la tecnología de la vigilancia gubernamental, consulte el proyecto de [autodefensa de la vigilancia](/eff/autodefensa-vigilancia/).

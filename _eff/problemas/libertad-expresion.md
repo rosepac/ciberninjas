@@ -1,7 +1,7 @@
 ---
 title: "🚨 La Libertad de Expresión según la EFF"
-description: "🚨 La Libertad de Expresión según la EFF \ Visto en Ciberninjas"
-excerpt: "🚨 La Libertad de Expresión según la EFF \ Visto en Ciberninjas"
+description: "🚨 La Libertad de Expresión según la EFF. Visto en Ciberninjas"
+excerpt: "🚨 La Libertad de Expresión según la EFF. Visto en Ciberninjas"
 permalink: /eff/libertad-expresion/
 canonical_URL: https://ciberninjas.com/eff/libertad-expresion/
 date: 2019-10-08

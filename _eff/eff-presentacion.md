@@ -1,6 +1,6 @@
 ---
-title: "🚨 Fundación Frontera Electrónica"
-description: "👮‍♀️ Conoce todo lo que debes saber sobre la EFF."
+title: "🚨 Conoce la Fundación Frontera Electrónica"
+description: "👮‍♀️ Lee todo lo que debes saber sobre el proyecto de la EFF."
 excerpt: "👮‍♀️ Conoce todo lo que debes saber sobre la EFF."
 date: 2019-10-08 18:40:10
 last_modified_at: 
@@ -23,14 +23,12 @@ toc_sticky: true
 
 ---
 
-> 🚨 Vamos a aprender todo lo que debemos saber sobre la EFF, quiénes son, que hacen, su historia y cómo podemos ayudar a promocionar su proyecto e incluso contáctarles.
-> 
 <figure>
     <img src="https://i.ibb.co/PM59NRf/eff-work-icons-3-COLOR-fix.png" alt="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas" title="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas"></a>
     <figcaption>Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas</figcaption>
 </figure>
 
-> Conoce todo lo que debes saber sobre la EFF, quiénes son, que hacen, su historia y ayuda a promocionar su proyecto e incluso contáctarles.
+> 🚨 Vamos a aprender todo lo que debemos saber sobre la EFF, quiénes son, que hacen, su historia y cómo podemos ayudar a promocionar su proyecto e incluso como podemos contáctarles.
 
 ## ¿Qué es la EFF?
 
@@ -78,6 +76,7 @@ Si bien muchas de las primeras batallas por el derecho a comunicarse de forma li
 Hoy, ciertas corporaciones poderosas están tratando de cerrar el discurso en línea, evitar que las nuevas innovaciones lleguen a los consumidores y facilitar la vigilancia del gobierno. Desafiamos la extralimitación corporativa al igual que desafiamos los abusos de poder del gobierno.
 
 También desarrollamos tecnologías que pueden ayudar a las personas a proteger su privacidad y seguridad en línea, que nuestros tecnólogos construyen y lanzan libremente al público para que cualquiera pueda usarlas.
+
 Además, EFF está involucrado en importantes luchas legislativas, rechazando proyectos de censura digital disfrazados de propuestas de propiedad intelectual, oponiéndose a los intentos de obligar a las empresas a espiar a los usuarios, defendiendo proyectos de reforma que refuerzan la vigilancia del gobierno y mucho más.
 
 Estamos trabajando con defensores de todo el mundo para crear un entorno digital global que defienda los derechos humanos y los derechos constitucionales, y continuamos asumiendo casos legales de vanguardia para ganar victorias para los derechos de los usuarios.
