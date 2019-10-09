@@ -85,13 +85,13 @@ Estamos trabajando con defensores de todo el mundo para crear un entorno digital
 
 Desde su fundación en 1990, EFF ha tomado consistentemente casos críticos, desafió a oponentes difíciles y logró victorias históricas. EFF ha prevalecido en demandas contra el gobierno federal, la FCC, las compañías de entretenimiento más grandes del mundo y las principales compañías de electrónica, entre otras. EFF también superó los proyectos de ley en el Congreso y presionó a las empresas para que respeten sus derechos.
 
-Obtenga más información sobre algunas de las victorias clave de EFF a continuación. Para apoyar nuestro éxito continuo, considere [**convertirse en miembro y donar a EFF**.](https://www.eff.org/support)
+Obtenga más información sobre algunas de las victorias clave de EFF a continuación. Para apoyar nuestro éxito continuo, considere [**convertirse en miembro y donar a EFF**.](https://www.eff.org/support){:target="_blank"}
 
 ## Informes y Finanzas
 
 La Electronic Frontier Foundation es una organización sin fines de lucro US 501 (c) (3) financiada por donantes. Nuestro número de identificación fiscal es 04-3091431. Para una mirada en profundidad, consulte nuestro informe anual más reciente y el Formulario 990 . EFF tiene una calificación de cuatro estrellas (la más alta posible) del perro guardián Charity Navigator.
 
-Si deseas ver destripadas todas nuestras cuentas desglosadas unicámente debes [entrar aquí](https://www.eff.org/es/about/annual-reports-and-financials).
+Si deseas ver destripadas todas nuestras cuentas desglosadas unicámente debes [entrar aquí](https://www.eff.org/es/about/annual-reports-and-financials){:target="_blank"}.
 
 ## Contacto
 
@@ -99,11 +99,11 @@ Si necesitas o crees que podemos ayudarte en algo no dudes en ponerte en contact
 
 *¿Puede la EFF representarme?*
 
-Tal vez. Obtenga información sobre los Servicios de asistencia legal de EFF [aquí](https://www.eff.org/pages/legal-assistance) .
+Tal vez. Obtenga información sobre los Servicios de asistencia legal de EFF [aquí](https://www.eff.org/pages/legal-assistance){:target="_blank"}.
 
 *¿Puede EFF abordar un evento en mi comunidad?*
 
-Tal vez. Envíe una solicitud para un orador [aquí](https://www.eff.org/request-EFF-speaker-details) y nos pondremos en contacto con usted pronto.
+Tal vez. Envíe una solicitud para un orador [aquí](https://www.eff.org/request-EFF-speaker-details){:target="_blank"} y nos pondremos en contacto con usted pronto.
 
 Para cualquier otra consulta, contáctenos a través de la dirección de correo electrónico correspondiente a continuación, o por correo, fax o teléfono.
 
@@ -119,7 +119,7 @@ Para consultas de los medios de comunicación (escriba "Petición de medios" en 
 Tanto el correo electrónico como los mensajes de voz se reenvían a todo el equipo de medios
 
 **Asistencia**
-legal Para preguntas legales (consulte nuestras [Pautas de asistencia legal](https://www.eff.org/pages/legal-assistance) antes de contactarnos):
+legal Para preguntas legales (consulte nuestras [Pautas de asistencia legal](https://www.eff.org/pages/legal-assistance){:target="_blank"} antes de contactarnos):
 [legal@eff.org](mailto:legal@eff.org)
 
 **Membresía**
@@ -130,7 +130,7 @@ Para asuntos o problemas relacionados con el Centro de acción o Alertas de acci
 [action@eff.org](mailto:action@eff.org)
 
 **Vulnerabilidades de seguridad**
-Para informar vulnerabilidades de seguridad SOLAMENTE en el software o sistemas EFF (para obtener más información, consulte  [el Programa de divulgación de vulnerabilidad de seguridad de EFF](https://www.eff.org/security) ):
+Para informar vulnerabilidades de seguridad SOLAMENTE en el software o sistemas EFF (para obtener más información, consulte  [el Programa de divulgación de vulnerabilidad de seguridad de EFF](https://www.eff.org/security){:target="_blank"} ):
 [vulnerabilities@eff.org](mailto:vulnerabilities@eff.org)
 GPG Key Fingerprint: 40C8 6122 D859 F8C0 A6D0 8619 798D 4A0A BFED F64F
 
@@ -148,7 +148,7 @@ San Francisco, CA 94109 EE. UU.
 Teléfono: + 1-415-436-9333
 Fax: + 1-415-436-9993
 
-**Envíe una donación**a EFF en  [línea](https://supporters.eff.org/donate)  o por correo postal. Haga cheques o giros postales a nombre de "EFF" y envíelos a Electronic Frontier Foundation en 815 Eddy Street, San Francisco, CA 94109 EE. UU.
+**Envíe una donación**a EFF en  [línea](https://supporters.eff.org/donate){:target="_blank"}  o por correo postal. Haga cheques o giros postales a nombre de "EFF" y envíelos a Electronic Frontier Foundation en 815 Eddy Street, San Francisco, CA 94109 EE. UU.
 
 ### Asistencia Legal
 
@@ -202,11 +202,11 @@ Si no podemos ofrecerle una referencia, trataremos de ayudarlo a encontrar otro 
 
 ## EFF Logos & Gráficos
 
-En esta página puede ver y descargar varias versiones del logotipo de EFF para cualquier propósito legal. Consulte las pautas simples a continuación para asegurarse de que utiliza nuestra marca correctamente. Además, lea nuestra [Política de](https://www.eff.org/pages/trademark-and-brand-usage-policy) uso de marcas [comerciales y marcas](https://www.eff.org/pages/trademark-and-brand-usage-policy) antes de usar una de nuestras marcas. Puede descargar nuestro [archivo zip de logotipo](https://www.eff.org/files/2018/06/18/eff-logo-download.zip) , o hacer clic con el botón derecho o presionar Control y hacer clic en una de las imágenes a continuación, y guardar localmente.
+En esta página puede ver y descargar varias versiones del logotipo de EFF para cualquier propósito legal. Consulte las pautas simples a continuación para asegurarse de que utiliza nuestra marca correctamente. Además, lea nuestra [Política de](https://www.eff.org/pages/trademark-and-brand-usage-policy){:target="_blank"} uso de marcas [comerciales y marcas](https://www.eff.org/pages/trademark-and-brand-usage-policy){:target="_blank"} antes de usar una de nuestras marcas. Puede descargar nuestro [archivo zip de logotipo](https://www.eff.org/files/2018/06/18/eff-logo-download.zip){:target="_blank"}, o hacer clic con el botón derecho o presionar Control y hacer clic en una de las imágenes a continuación, y guardar localmente.
 
-Este logotipo fue creado por la principal agencia de marca [Pentagram](https://www.pentagram.com/) , en julio de 2018. Para obtener más información sobre la creación y las ideas detrás de este logotipo, consulte nuestro [anuncio de publicación de blog](https://www.eff.org/deeplinks/2018/07/effs-new-logo-member-shirt) .
+Este logotipo fue creado por la principal agencia de marca [Pentagram](https://www.pentagram.com/){:target="_blank"}, en julio de 2018. Para obtener más información sobre la creación y las ideas detrás de este logotipo, consulte nuestro [anuncio de publicación de blog](https://www.eff.org/deeplinks/2018/07/effs-new-logo-member-shirt){:target="_blank"}.
 
-Los gráficos EFF adicionales, todos disponibles en una licencia Creative Commons [Attribution](https://creativecommons.org/licenses/by/4.0/) , se pueden descargar libremente desde [nuestra página de Flickr](https://www.flickr.com/photos/electronicfrontierfoundation) . (Para otras preguntas sobre gráficos EFF, comuníquese con [design@eff.org](mailto:design@eff.org) .)
+Los gráficos EFF adicionales, todos disponibles en una licencia Creative Commons [Attribution](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}, se pueden descargar libremente desde [nuestra página de Flickr](https://www.flickr.com/photos/electronicfrontierfoundation){:target="_blank"}. (Para otras preguntas sobre gráficos EFF, comuníquese con [design@eff.org](mailto:design@eff.org) .)
 
 **Pautas del logotipo**
 
@@ -246,7 +246,7 @@ Aquí está el bloqueo invertido contra un fondo negro:
 
 **Tipografía**
 
-El logotipo utiliza un hermoso tipo de letra de código abierto, del tipo League of Moveable, llamado [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic) .
+El logotipo utiliza un hermoso tipo de letra de código abierto, del tipo League of Moveable, llamado [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic){:target="_blank"}.
 
 **Colores**
 
@@ -260,14 +260,14 @@ Evite cometer estos errores de diseño comunes. 😄
 
 **Descargar**
 
-Puede descargar una carpeta comprimida de varias versiones de logotipos [aquí](https://www.eff.org/files/2018/06/18/eff-logo-download.zip).
+Puede descargar una carpeta comprimida de varias versiones de logotipos [aquí](https://www.eff.org/files/2018/06/18/eff-logo-download.zip){:target="_blank"}.
 
 ## Quiénes Somos
 
 * ¿Quién es Quién? Dentro de la Fundación Frontera Electrónica
 
-**Licencia**: El contenido siguiente se encuentra bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es) propiedad original en inglés de la [EFF](https://kutt.it/eff) tanto texto como las imágenes. Si desea utilizarlo, en todo momento el contenido debe estar bajo la misma licencia.
+**Licencia**: El contenido siguiente se encuentra bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank"} propiedad original en inglés de la [EFF](https://kutt.it/eff){:target="_blank"} tanto texto como las imágenes. Si desea utilizarlo, en todo momento el contenido debe estar bajo la misma licencia.
 {: .notice--info}
 
-**Info. Legal**: Este contenido debe dar reconocimientos a [Pablo Álvarez Corredera o Ciberninjas](https://kutt.it/ciberninjas) como creador primario del contenido en español; además de a la [EFF](https://kutt.it/eff) como creador original de mismo.
+**Info. Legal**: Este contenido debe dar reconocimientos a [Pablo Álvarez Corredera o Ciberninjas](https://kutt.it/ciberninjas) como creador primario del contenido en español; además de a la [EFF](https://kutt.it/eff){:target="_blank"} como creador original de mismo.
 {: .notice--info}
