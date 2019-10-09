@@ -583,73 +583,75 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 
 ## Scala
 
-* [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
-* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es#traducción-del-libro-scala-by-example-al-español) (Github) (:construction: *en proceso*)
+* [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf){:target="_blank"} (PDF)
+* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es#traducción-del-libro-scala-by-example-al-español){:target="_blank"} (Github) (:construction: *en proceso*)
 
 
 ## SQL
 
-* [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html) (HTML)
-* [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/) (HTML)
+* [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html){:target="_blank"} (HTML)
+* [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/){:target="_blank"} (HTML)
 
 
 ## SVG
 
-* [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (Descarga PDF)
+* [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/){:target="_blank"} (Descarga PDF)
 
 
 ## Swift <i class="fab fa-swift"></i>
 
-* [Aprendiendo Swift](https://applecoding.com/pdf/Aprendiendo-Swift-Extracto.pdf) (PDF) (2015)
+* [Aprendiendo Swift](https://applecoding.com/pdf/Aprendiendo-Swift-Extracto.pdf){:target="_blank"} (PDF) (2015)
 
 
 ## Tex & LaTeX
 
-* [¿Alergia al LaTeX? (2000)](http://www.sindominio.net/ayuda/latex/sdlatex.pdf) (PDF)
-* [¿Qué es TeX?](http://www.cervantex.es/queestex)
-* [Creación de ficheros LaTeX con GNU Emacs (2004)](ftp://ftp.dante.de/tex-archive/info/spanish/guia-atx/guia-atx.pdf) (PDF)
-* [Guía rápida de LaTeX (2014)](http://nokyotsu.com/latex/guia.html)
-* [Introducción a LaTeX (2004)](http://www.sindominio.net/~xabier/old/curso_latex) (HTML)
-* [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf) (PDF)
-* [LaTeX para las humanidades](http://rt0016xp.eresmas.net/lplh/latex-humanidades.pdf) (PDF)
+* [¿Alergia al LaTeX? (2000)](http://www.sindominio.net/ayuda/latex/sdlatex.pdf){:target="_blank"} (PDF)
+* [¿Qué es TeX?](http://www.cervantex.es/queestex){:target="_blank"}
+* [Creación de ficheros LaTeX con GNU Emacs (2004)](ftp://ftp.dante.de/tex-archive/info/spanish/guia-atx/guia-atx.pdf){:target="_blank"} (PDF)
+* [Guía rápida de LaTeX (2014)](http://nokyotsu.com/latex/guia.html){:target="_blank"}
+* [Introducción a LaTeX (2004)](http://www.sindominio.net/~xabier/old/curso_latex){:target="_blank"} (HTML)
+* [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf){:target="_blank"} (PDF)
+* [LaTeX para las humanidades](http://rt0016xp.eresmas.net/lplh/latex-humanidades.pdf){:target="_blank"} (PDF)
 * [LaTeX: Procesamiento de textos científicos en alta calidad (2011)](HTML)
-* [TeXemplares: Boletín de CervanTEX](http://www.cervantex.es/files/cervantex/texemplares9.pdf) (PDF)
-* [Todo sobre LaTeX (2016)](http://minisconlatex.blogspot.com.es) (HTML)
-* [Una descripción de LaTeX2(1998)](http://www.profesores.frc.utn.edu.ar/electronica/teoriadeloscircuitosi/material/ldesc2e.pdf) (PDF)
+* [TeXemplares: Boletín de CervanTEX](http://www.cervantex.es/files/cervantex/texemplares9.pdf){:target="_blank"} (PDF)
+* [Todo sobre LaTeX (2016)](http://minisconlatex.blogspot.com.es){:target="_blank"} (HTML)
+* [Una descripción de LaTeX2(1998)](http://www.profesores.frc.utn.edu.ar/electronica/teoriadeloscircuitosi/material/ldesc2e.pdf){:target="_blank"} (PDF)
 
 
 ## 👷‍♂️ Webmaster
 
 ## Accesibilidad Web ♿
 
-* [Accesibilidad web en el SID](https://sid.usal.es/idocs/F8/FDO20873/InformeAccesibilidad.pdf) (2008)
-* [Guía de Accesibilidad de Aplicaciones Móviles](https://drive.google.com/file/d/10MHIwij-bfliVYQnFX5FTXeyg5dqNS5N/view?usp=sharing) (2017) [Código Android](https://github.com/ctt-gob-es/Ejemplo-App-Accesible-Android#ejemplo-de-correcci%C3%B3n-de-errores-de-accesibilidad-en-una-app-para-android) [Código iOS](https://github.com/ctt-gob-es/Ejemplo-App-Accesible-iOS#todo-manager)
-* [Guía de Accesibilidad en Documentos PDF con Adobe Acrobat 9.0](https://drive.google.com/file/d/1FhPza_vy39oGO6f61NRjK53kV3MtCEvt/view?usp=sharing) (2014)
-* [Guía de Accesibilidad en Sedes Electrónicas](https://drive.google.com/file/d/1luB8F9ctvqfB3fUuQXGnLh3FRo7qEWAK/view?usp=sharing) (2019, Observatorio de Accesibilidad)
-* [Guía de Accesibilidad para Editores Finales de Contenidos](https://drive.google.com/file/d/1MdXO6jpT70WiJgM6iuo0vd-QgPRV2pHH/view?usp=sharing) (2019)
-* [Guía de Accesibilidad para la Gestión de la Accesibilidad en Gestores de Contenidos](https://drive.google.com/file/d/1gSuZe0koJmiNb1Oixcr-ckuJLE0T6A1a/view?usp=sharing) (2019, Observatorio de Accesibilidad)
-* [Guía de Adaptación a WCAG 2.1 desde WCAG 2.0](https://drive.google.com/file/d/1GFjEX_k_FvIqP7QK3ka6uxWucNThP7rL/view?usp=sharing) (2018, Observatorio de Accesibilidad)
-* [Guía de Validación de Accesibilidad Web](https://drive.google.com/file/d/1oxeZ92hEynCBxcrLmQcMukbLEkBlB5-u/view?usp=sharing) (2014, Observatorio de Accesibilidad)
-* [Guía para la inserción de subtítulos en YouTube](https://drive.google.com/file/d/1Ajxnrof6Z5MmnmSbJiC5mnLRDxcB6Iw9/view?usp=sharing) (2018)
-* [Guía de Recomendaciones de Accesibilidad y Calidad Web](https://drive.google.com/file/d/1QHD90j9eIzK8jvlXJz0lEearEK0wrngP/view?usp=sharing) (2009, Inteco)
-* [Guía de Referencia: Accesibilidad de páginas web](https://drive.google.com/file/d/1sasun1WchSEIxDd7qe_JBILldnMNqgz3/view?usp=sharing) (2013, Once)
-* [Informe de Accesibilidad Web Defensa.Gob.Es](http://www.defensa.gob.es/rapfas/Galerias/ficheros/Informe_de_accesibilidad_enero_2018.pdf) (2018)
-* [Metodología del Observatorio de Accesbilidad Web UNE](http://www.defensa.gob.es/rapfas/Galerias/ficheros/Metodologia_Observatorio_Accesibilidad_Web-UNE2012-v1_0.pdf) (2012)
-* [Proceso de validación nivel de accesibilidad web en sitios del Gobierno en línea del estado Colombiano](http://www.revistaespacios.com/a18v39n48/a18v39n48p08.pdf)
-
+* [Accesibilidad web en el SID](https://sid.usal.es/idocs/F8/FDO20873/InformeAccesibilidad.pdf){:target="_blank"} (2008)
+* [Guía de Accesibilidad de Aplicaciones Móviles](https://drive.google.com/file/d/10MHIwij-bfliVYQnFX5FTXeyg5dqNS5N/view?usp=sharing){:target="_blank"} (2017) [Código Android](https://github.com/ctt-gob-es/Ejemplo-App-Accesible-Android#ejemplo-de-correcci%C3%B3n-de-errores-de-accesibilidad-en-una-app-para-android){:target="_blank"} [Código iOS](https://github.com/ctt-gob-es/Ejemplo-App-Accesible-iOS#todo-manager){:target="_blank"}
+* [Guía de Accesibilidad en Documentos PDF con Adobe Acrobat 9.0](https://drive.google.com/file/d/1FhPza_vy39oGO6f61NRjK53kV3MtCEvt/view?usp=sharing){:target="_blank"} (2014)
+* [Guía de Accesibilidad en Sedes Electrónicas](https://drive.google.com/file/d/1luB8F9ctvqfB3fUuQXGnLh3FRo7qEWAK/view?usp=sharing){:target="_blank"} (2019, Observatorio de Accesibilidad)
+* [Guía de Accesibilidad para Editores Finales de Contenidos](https://drive.google.com/file/d/1MdXO6jpT70WiJgM6iuo0vd-QgPRV2pHH/view?usp=sharing){:target="_blank"} (2019)
+* [Guía de Accesibilidad para la Gestión de la Accesibilidad en Gestores de Contenidos](https://drive.google.com/file/d/1gSuZe0koJmiNb1Oixcr-ckuJLE0T6A1a/view?usp=sharing){:target="_blank"} (2019, Observatorio de Accesibilidad)
+* [Guía de Adaptación a WCAG 2.1 desde WCAG 2.0](https://drive.google.com/file/d/1GFjEX_k_FvIqP7QK3ka6uxWucNThP7rL/view?usp=sharing){:target="_blank"} (2018, Observatorio de Accesibilidad)
+* [Guía de Validación de Accesibilidad Web](https://drive.google.com/file/d/1oxeZ92hEynCBxcrLmQcMukbLEkBlB5-u/view?usp=sharing){:target="_blank"} (2014, Observatorio de Accesibilidad)
+* [Guía para la inserción de subtítulos en YouTube](https://drive.google.com/file/d/1Ajxnrof6Z5MmnmSbJiC5mnLRDxcB6Iw9/view?usp=sharing){:target="_blank"} (2018)
+* [Guía de Recomendaciones de Accesibilidad y Calidad Web](https://drive.google.com/file/d/1QHD90j9eIzK8jvlXJz0lEearEK0wrngP/view?usp=sharing){:target="_blank"} (2009, Inteco)
+* [Guía de Referencia: Accesibilidad de páginas web](https://drive.google.com/file/d/1sasun1WchSEIxDd7qe_JBILldnMNqgz3/view?usp=sharing){:target="_blank"} (2013, Once)
+* [Informe de Accesibilidad Web Defensa.Gob.Es](http://www.defensa.gob.es/rapfas/Galerias/ficheros/Informe_de_accesibilidad_enero_2018.pdf){:target="_blank"} (2018)
+* [Metodología del Observatorio de Accesbilidad Web UNE](http://www.defensa.gob.es/rapfas/Galerias/ficheros/Metodologia_Observatorio_Accesibilidad_Web-UNE2012-v1_0.pdf){:target="_blank"} (2012)
+* [Proceso de validación nivel de accesibilidad web en sitios del Gobierno en línea del estado Colombiano](http://www.revistaespacios.com/a18v39n48/a18v39n48p08.pdf){:target="_blank"}
 
 ## Análitica Web 📈
+
 ## Marketing en Redes Sociales 🏪
 
 ### Instagram <i class="fab fa-instagram"></i>
-* [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf)
+
+* [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf){:target="_blank"}
 
 ## Seo y Posicionamiento 🔍
-* [50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf)
-* [SEO en Amazon](https://netgrows.com/wp-content/uploads/2018/11/ebook-amazon-netgrows.pdf)
+
+* [50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf){:target="_blank"}
+* [SEO en Amazon](https://netgrows.com/wp-content/uploads/2018/11/ebook-amazon-netgrows.pdf){:target="_blank"}
 
 ---
 
 ## Licencia
 
-Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](http://ciberninjas.com/quien-soy), los contribuidores de [Free Programming Books en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) especialmente, sobre una [Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES).
+Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](http://ciberninjas.com/quien-soy){:target="_blank"}, los contribuidores de [Free Programming Books en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md){:target="_blank"} especialmente, sobre una [Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES){:target="_blank"}.

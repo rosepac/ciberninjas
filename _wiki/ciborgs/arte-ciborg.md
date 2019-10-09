@@ -24,13 +24,14 @@ Otros artistas cíborg incluyen a:
 * Kai Landre, un músico que desarrolla dos implantes para escuchar el sonido de las partículas afectadas por la colusión de los rayos cósmicos.
 
 ## Ver También
+
 - Fundación Cíborg
+- Manel Muñoz
 - Moon Ribas (TedX)
 - Neil Harbisson
-- Manel Muñoz
 
 **Categorías**: [Cambio Tecnológico](/wiki/categoria/cambio-tecnologico)
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Arte Cíborg](https://en.wikipedia.org/wiki/Cyborg_art) de la Wikipedia en inglés, versión del 12 de Julio de 2018, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Cyborg_art&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
+**INF.**: Esta obra contiene una traducción total derivada de [Arte Cíborg](https://en.wikipedia.org/wiki/Cyborg_art){:target="_blank"} de la Wikipedia en inglés, versión del 12 de Julio de 2018, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Cyborg_art&action=history){:target="_blank"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank"}.
 {: .notice--info}

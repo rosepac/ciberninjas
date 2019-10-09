@@ -25,5 +25,5 @@ EUMEL fue seguido por L3 y luego L4.
 **Categorías**: Sistemas Operativos Descontinuados
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Eumel - Sistema Operativo](https://en.wikipedia.org/wiki/Eumel) de la Wikipedia en inglés, versión del 14 de Abril de 2014, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Eumel&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
+**INF.**: Esta obra contiene una traducción total derivada de [Eumel - Sistema Operativo](https://en.wikipedia.org/wiki/Eumel){:target="_blank"} de la Wikipedia en inglés, versión del 14 de Abril de 2014, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Eumel&action=history){:target="_blank"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank"}.
 {: .notice--info}

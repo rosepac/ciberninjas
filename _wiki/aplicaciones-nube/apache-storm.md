@@ -1,9 +1,9 @@
 ---
 
 title: "Storm (Procesador de Eventos)"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Apache Storm es un marco de cálculo distribuido y tolerante a fallas en tiempo real."
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Apache Storm es un marco de cálculo distribuido y tolerante a fallas en tiempo real."
-date: 2019-09-26 14:48:07
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Apache Storm es un Framework de cálculo distribuido y tolerante a fallas en tiempo real."
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Apache Storm es un Framework de cálculo distribuido y tolerante a fallas en tiempo real."
+date: 2019-10-09 23:28:07
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -15,7 +15,7 @@ canonical_URL: https://ciberninjas.com/wiki/apache-storm
 
 ---
 
-Apache Storm es un marco de cálculo de procesamiento de flujo distribuido escrito principalmente en el lenguaje de programación Clojure. Originalmente creado por Nathan Marz y el equipo de BackType, el proyecto fue de código abierto después de ser adquirido por Twitter. 
+Apache Storm es un marco de cálculo de procesamiento de flujo distribuido escrito principalmente en el lenguaje de programación Clojure. Originalmente creado por Nathan Marz y el equipo de BackType, el proyecto fue de código abierto después de ser adquirido por Twitter.
 
 Utiliza "spouts" y "bolts" creados a medida para definir las fuentes de información y las manipulaciones para permitir el procesamiento por lotes y distribuido de datos de transmisión. El lanzamiento inicial fue el 17 de septiembre de 2011.
 
@@ -44,22 +44,22 @@ Storm no es más que una de las docenas de motores de procesamiento de flujo. Pa
 
 ## Enlaces Externos
 
-* [Página Web Oficial del Proyecto](https://kutt.it/apache-storm "Página web oficial del proyecto Apache Storm")
+* [Página Web Oficial del Proyecto](https://kutt.it/apache-storm "Página web oficial del proyecto Apache Storm"){:target="_blank"}
 
 **Desarrollador**: Backtype, Twitter
 {: .notice--primary}
 
-**Licencia**: [Apache 2.0](https://es.wikipedia.org/wiki/Apache_License "Licencia de Apache 2.0")
+**Licencia**: [Apache 2.0](https://es.wikipedia.org/wiki/Apache_License "Licencia de Apache 2.0"){:target="_blank"}
 {: .notice--primary}
 
 **Escrito en**: Clojure y Java
 {: .notice--primary}
 
-**Sitio Web**: [https://storm.apache.org](https://storm.apache.org "Página web oficial del proyecto Apache Storm")
+**Sitio Web**: [https://storm.apache.org](https://storm.apache.org "Página web oficial del proyecto Apache Storm"){:target="_blank"}
 {: .notice--primary}
 
-**Categorías**: Aplicaciones Nube \| Computación Paralela \| Infraestructuras Nube
+**Categorías**: Aplicaciones Nube \ Computación Paralela \ Infraestructuras Nube
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Storm - Procesador de Eventos](https://en.wikipedia.org/wiki/Storm_(event_processor)) de la Wikipedia en inglés, versión del 12 de Septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Storm_(event_processor)&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
+**INF.**: Esta obra contiene una traducción total derivada de [Storm - Procesador de Eventos](https://en.wikipedia.org/wiki/Storm_(event_processor)){:target="_blank"} de la Wikipedia en inglés, versión del 12 de Septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Storm_(event_processor)&action=history){:target="_blank"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank"}.
 {: .notice--info}

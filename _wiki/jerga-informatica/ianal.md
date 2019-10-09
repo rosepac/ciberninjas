@@ -3,7 +3,7 @@
 title: "IANAL"
 description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: IANAL, yo no soy un abogado"
 excerpt: "📖 👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica: IANAL, yo no soy un abogado"
-date: 2019-09-20 09:07:07
+date: 2019-10-09 23:40:07
 published: true
 author_profile: false
 permalink: /wiki/ianal
@@ -20,6 +20,7 @@ Muchas jurisdicciones tienen restricciones legales para ofrecer consejos legales
 
 <!-- [Jargon File](https://en.wikipedia.org/wiki/Jargon_File) , un glosario de jerga de programadores -->
 ## Origen y Uso
+
 El término parece estar inspirado en un comercial de la década de 1980 para el jarabe para la tos Vicks Formula 44, en el que dos portavoces lanzaron sucesivamente el medicamento de venta libre con la frase: "No soy médico, pero juego a serlo en la televisión". Los autores fueron los actores de telenovelas Chris Robinson (quien interpretó al Dr. Rick Webber en el Hospital General) y Peter Bergman (quien interpretó al Dr. Cliff Warner en All My Children). La transferencia de médico a abogado es un ejemplo de una plantilla de cliché. 
 
 Se informa que el término IANAL era común en Usenet a fines de los años ochenta y principios de los noventa.
@@ -30,8 +31,8 @@ El estándar de jurisprudencia para determinar qué comentarios cruzan la línea
 
 Las variaciones de IANAL se pueden aplicar a diferentes campos, como IANAMD para "No soy médico" o IANAP para "No soy físico". Estas expresiones tienen el mismo propósito general que IANAL: desalentar el uso de La información como asesoramiento profesional.
 
-**Categorías**: Jerga Informática | Ética Legal
+**Categorías**: Ética Legal \ Jerga Informática
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [IANAL](https://en.wikipedia.org/wiki/IANAL) de la Wikipedia en inglés, versión del 24 de agosto de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=IANAL&action=history) bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL) [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU) y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es).
+**INF.**: Esta obra contiene una traducción total derivada de [IANAL](https://en.wikipedia.org/wiki/IANAL){:target="_blank"} de la Wikipedia en inglés, versión del 24 de agosto de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=IANAL&action=history){:target="_blank"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank"}.
 {: .notice--info}
