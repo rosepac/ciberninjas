@@ -36,6 +36,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 </figure>
 
 👉 ¿Por qué son importantes los metadatos? [Entrar](https://kutt.it/eff-ImportanteMetadatos "Por qué los metadatos son importantes"){:target="_blank"}
+
 👉 ¿Cómo crear una contraseña super mega segura? [Entrar](https://kutt.it/eff-ContrasenaSuperSegura "Cómo crear una contraseña super mega segura"){:target="_blank"}
 
 <center><iframe src="https://archive.org/embed/how-to-make-a-super-secure-password" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></center>
