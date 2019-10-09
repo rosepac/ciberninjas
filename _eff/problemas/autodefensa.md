@@ -30,11 +30,10 @@ No dudes en sumergirte en las siguientes GUÍAS DE HERRAMIENTAS si deseas obtene
 Además, podrás obtener información más detallada en otras secciones como las de APRENDIZAJE ADICIONAL o si deseas una visita guiada paso a paso, puedes comenzar desde uno de nuestros ESCENARIOS DE SEGURIDAD que consideramos más comunes.
 
 ## Guías Básicas
-<center>
+
 <figure>
     <img src="/assets/images/eff/eff-guias-basicas.jpg" alt="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas" title="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas">
 </figure>
-</center>
 
 * ¿Por qué son importantes los metadatos? [👉 Entrar](https://kutt.it/eff-ImportanteMetadatos "Por qué los metadatos son importantes"){:target="_blank"}
 * ¿Cómo crear una contraseña super mega segura? [👉 Entrar](https://kutt.it/eff-ContrasenaSuperSegura "Cómo crear una contraseña super mega segura"){:target="_blank"}
