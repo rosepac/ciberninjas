@@ -32,7 +32,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 ## Guías Básicas
 <center>
 <figure>
-    <img src="https://i.ibb.co/s1m0HyJ/ssd-icon-new-0.png" alt="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas" title="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas">
+    <img src="/assets/images/eff/eff-guias-basicas.jpg" alt="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas" title="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas">
 </figure>
 </center>
 
