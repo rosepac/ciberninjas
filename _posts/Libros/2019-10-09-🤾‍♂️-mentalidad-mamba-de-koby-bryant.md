@@ -1,33 +1,34 @@
 ---
-title: "\U0001F510 Vigilancia Permanente de Edward Snowden"
+title: "🤾‍♂️ La Mentalidad Mamba de Koby Bryant"
 categories:
   - Catálogo
-  - Seguridad Informática
+  - Desarrollo Personal
 tags:
   - Libro
-  - Planeta (Editorial)
-  - Edward Snowden
+  - Alienta (Editorial)
+  - Koby Bryant
+  - Phil Jackson
+  - Pau Gasol
 comments: true
-date: 2019-09-14 06:20:00 +0200
-permalink: /catalogo/vigilancia-permanente/
+date: 2019-10-09 12:10:00 +0200
+permalink: /catalogo/mentalidad-mamba/
 description: >-
-  El mayor escándalo diplomático de la historia. Una vida al servicio de la
-  verdad. Las memorias que agitarán la geopolítica mundial.
+  La mentalidad mamba de Koby Bryant, ¿Cómo juego? Con introducción de Phil Jackson y prólogo de Pau Gasol.
 excerpt: >-
   El mayor escándalo diplomático de la historia. Una vida al servicio de la
   verdad. Las memorias que agitarán la geopolítica mundial.
 header:
-  overlay_image: /assets/images/catalogo/edward-snowden-vigilancia-permanente.jpg
+  overlay_image: https://i.ibb.co/18jHPqY/kobe-the-mamba-mentality.jpg
   image_description: >-
-    Vigilancia Permanente en Español: Una biografía de Edward Snowden que
+    Mentalidad Mamba en Español: Una biografía de Koby Bryant que
     agitará el mundo de la política | Ciberninjas
   overlay_filter: 0.3
   caption: 'Créditos: **LeanPub**'
   actions:
-    - label: + SEGURIDAD INFORMÁTICA
-      url: '/categoria/#seguridad-inform%C3%A1tica'
+    - label: + DESARROLLO PERSONAL
+      url: '/categoria/#desarrollo-personal'
     - label: "\U0001F6D2 COMPRAR"
-      url: 'https://amzn.to/2Lxt9Sd'
+      url: ENLACE-AMAZON
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
@@ -37,17 +38,17 @@ sidebar:
   - title: Autor
     image: /assets/images/catalogo/edward-snowden-vigilancia-permanentex250.jpg
     image_alt: >-
-      Vigilancia Permanente en Español: Una biografía de Edward Snowden que
+      Mentalidad Mamba en Español: Una biografía de Koby Bryant que
       agitará el mundo de la política | Ciberninjas
-    text: Edward Snowden
+    text: Koby Bryant
     nav: catalogo
 ---
 
 ## 🙋‍♀️ Descripci&oacute;n Completa
 
-Edward Snowden, el hombre que arriesg&oacute; todo para exponer el sistema de vigilancia masiva del gobierno de EE. UU., Revela por primera vez la historia de su vida, incluida la forma en que ayud&oacute; a construir ese sistema y lo que lo motiv&oacute; a intentar derribarlo.
+Koby Bryant, el hombre que arriesg&oacute; todo para exponer el sistema de vigilancia masiva del gobierno de EE. UU., Revela por primera vez la historia de su vida, incluida la forma en que ayud&oacute; a construir ese sistema y lo que lo motiv&oacute; a intentar derribarlo.
 
-En 2013, Edward Snowden, de veintinueve a&ntilde;os, conmocion&oacute; al mundo cuando rompi&oacute; con el establecimiento de inteligencia estadounidense y revel&oacute; que el gobierno de los Estados Unidos estaba buscando secretamente los medios para recoger cada llamada telef&oacute;nica, mensaje de texto y correo electr&oacute;nico. El resultado ser&iacute;a un sistema de vigilancia masiva sin precedentes con la capacidad de entrometerse en la vida privada de cada persona en la tierra. Seis a&ntilde;os m&aacute;s tarde, Snowden revela por primera vez c&oacute;mo ayud&oacute; a construir este sistema y por qu&eacute; se movi&oacute; para exponerlo.
+En 2013, Koby Bryant, de veintinueve a&ntilde;os, conmocion&oacute; al mundo cuando rompi&oacute; con el establecimiento de inteligencia estadounidense y revel&oacute; que el gobierno de los Estados Unidos estaba buscando secretamente los medios para recoger cada llamada telef&oacute;nica, mensaje de texto y correo electr&oacute;nico. El resultado ser&iacute;a un sistema de vigilancia masiva sin precedentes con la capacidad de entrometerse en la vida privada de cada persona en la tierra. Seis a&ntilde;os m&aacute;s tarde, Snowden revela por primera vez c&oacute;mo ayud&oacute; a construir este sistema y por qu&eacute; se movi&oacute; para exponerlo.
 
 Abarcando los suburbios buc&oacute;licos de Beltway de su infancia y las publicaciones clandestinas de la CIA y la NSA de su edad adulta, Registro Permanentees el relato extraordinario de un joven brillante que creci&oacute; en l&iacute;nea: un hombre que se convirti&oacute; en esp&iacute;a, en denunciante y, en el exilio, en la conciencia de Internet. Escrito con ingenio, gracia, pasi&oacute;n y una franqueza inquebrantable, el Registro permanente es una memoria crucial de nuestra era digital y est&aacute; destinado a ser un cl&aacute;sico.
 
@@ -57,10 +58,10 @@ Edward Joseph "Ed" Snowden es un profesional inform&aacute;tico estadounidense q
 
 ## 🔗 Enlaces Externos
 
-* Edward Snowden escribi&oacute; un libro para ayudar a los lectores a comprender 'su mentalidad' cuando filtr&oacute; documentos del gobierno.&nbsp;[CNN](https://edition.cnn.com/2019/08/01/politics/edward-snowden-memoir-permanent-record-trnd/index.html)
-* En la nueva memoria de Edward Snowden, las revelaciones esta vez son personales. [New York Times](https://www.nytimes.com/2019/09/13/books/review-permanent-record-edward-snowden-memoir.html)
-* Siete cosas que aprendimos del nuevo libro de Edward Snowden. [Wired](https://www.wired.co.uk/article/edward-snowden-book-permanent-record-review)
-* Las memorias de Edward Snowden, Vigilancia Permanente, saldr&aacute;n el pr&oacute;ximo mes [TheVerge](https://www.theverge.com/2019/8/1/20750383/edward-snowden-memoir-permanent-record-nsa-whistleblower)
+* Koby Bryant escribi&oacute; un libro para ayudar a los lectores a comprender 'su mentalidad' cuando filtr&oacute; documentos del gobierno.&nbsp;[CNN](https://edition.cnn.com/2019/08/01/politics/edward-snowden-memoir-permanent-record-trnd/index.html)
+* En la nueva memoria de Koby Bryant, las revelaciones esta vez son personales. [New York Times](https://www.nytimes.com/2019/09/13/books/review-permanent-record-edward-snowden-memoir.html)
+* Siete cosas que aprendimos del nuevo libro de Koby Bryant. [Wired](https://www.wired.co.uk/article/edward-snowden-book-permanent-record-review)
+* Las memorias de Koby Bryant, Mentalidad Mamba, saldr&aacute;n el pr&oacute;ximo mes [TheVerge](https://www.theverge.com/2019/8/1/20750383/edward-snowden-memoir-permanent-record-nsa-whistleblower)
 
 ## 📝 Otros Detalles
 
@@ -73,9 +74,9 @@ Edward Joseph "Ed" Snowden es un profesional inform&aacute;tico estadounidense q
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=13&amp;l=ur1&amp;category=gift_certificates&amp;banner=0YM2726C1ESR66Q7QG02&amp;f=ifr&amp;linkID=b74ea8b6b0434619f53785a367d3de3d&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-<center><a class="btn btn--warning btn--large" title="Vigilancia Permanente de Edward Snowden, memorias que agitarán la política | Ciberninjas" href="https://amzn.to/2Lxt9Sd">📓 COMPRAR LIBRO</a></center>
+<center><a class="btn btn--warning btn--large" title="Mentalidad Mamba de Koby Bryant, memorias que agitarán la política | Ciberninjas" href="https://amzn.to/2Lxt9Sd">📓 COMPRAR LIBRO</a></center>
 
-<center><a class="btn btn--warning btn--large" title="Vigilancia Permanente de Edward Snowden, memorias que agitarán la política | Ciberninjas" href="https://amzn.to/2Alu55y">💻 VERSI&Oacute;N EBOOK</a></center>
+<center><a class="btn btn--warning btn--large" title="Mentalidad Mamba de Koby Bryant, memorias que agitarán la política | Ciberninjas" href="https://amzn.to/2Alu55y">💻 VERSI&Oacute;N EBOOK</a></center>
 
 &nbsp;
 
