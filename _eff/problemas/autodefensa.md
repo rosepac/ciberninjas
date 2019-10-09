@@ -118,3 +118,9 @@ U aprendizaje adiciononal o aprendizaje extra de seguridad digital sobre la vigi
 Significado variado sobre palabras en relación con la seguridad en Internet, la vigilancia y los métodos de protección que existen ante la perdida de privacidad a lo largo de la red.
 
 * Glosario [👉 Entrar](https://ssd.eff.org/es/glossary){:target="_blank"}
+
+**Licencia**: El contenido siguiente se encuentra bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es) propiedad original en inglés de la [EFF](https://kutt.it/eff) tanto texto como las imágenes. Si desea utilizarlo, en todo momento el contenido debe estar bajo la misma licencia.
+{: .notice--info}
+
+**Info. Legal**: Este contenido debe dar reconocimientos a [Pablo Álvarez Corredera o Ciberninjas](https://kutt.it/ciberninjas) como creador primario del contenido en español; además de a la [EFF](https://kutt.it/eff) como creador original de mismo.
+{: .notice--info}

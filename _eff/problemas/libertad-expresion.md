@@ -47,3 +47,9 @@ Los proyectos de EFF incluyen extensiones de navegador como Privacy Badger, que 
 Debido a que las herramientas solo son útiles si las personas saben cómo usarlas, nuestros expertos también crean guías y materiales de capacitación para ayudar a sus propias comunidades a aprender sobre seguridad. EFF también investiga cómo los gobiernos y los actores privados crean, compran y usan malware, captadores IMSI y otras tecnologías de espionaje.
 
 A medida que la tecnología crece y cambia, es importante que no refuerce los obstáculos a la libertad de expresión, sino que permita que todos compartan ideas y experiencias de manera segura.
+
+**Licencia**: El contenido siguiente se encuentra bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es) propiedad original en inglés de la [EFF](https://kutt.it/eff) tanto texto como las imágenes. Si desea utilizarlo, en todo momento el contenido debe estar bajo la misma licencia.
+{: .notice--info}
+
+**Info. Legal**: Este contenido debe dar reconocimientos a [Pablo Álvarez Corredera o Ciberninjas](https://kutt.it/ciberninjas) como creador primario del contenido en español; además de a la [EFF](https://kutt.it/eff) como creador original de mismo.
+{: .notice--info}
