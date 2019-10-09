@@ -553,7 +553,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Curso de Angular 4](https://www.youtube.com/playlist?list=PLEtcGQaT56chhi-qsqxIrUG_n9pXYCZ8z) (Jesús Conde, Youtube)
 * [Curso de Angular JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgHfdvGguisToK90z321pRl) (Jesús Conde, Youtube)
 
-
 ## Bootstrap <i class="fab fa-bootstrap"></i>
 
 * [Aprende a crear Landing Pages con Bootstrap 3 o Instapage](https://www.udemy.com/crea-una-landing-page-que-enamore-sin-saber-programar) (Udemy)
@@ -571,11 +570,9 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [La biblia perdida de Bootstrap 4](https://www.udemy.com/curso-la-biblia-perdida-de-bootstrap-4) (Udemy)
 * [PSD a HTML con Bootstrap 4!](https://www.udemy.com/curso-de-psd-a-html-con-bootstrap-4) (Udemy)
 
-
 ## Ionic
 
 * [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He) (Eduardo Ibarra, Youtube)
-
 
 ## Docker <i class="fab fa-docker"></i>
 
@@ -1229,6 +1226,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Curso fundamentos de Google Analitycs 2018](https://www.udemy.com/curso-de-fundamentos-de-google-analytics-2018) (Udemy)
 * [Fundamentos de Analítica Digital, Analitycs +GTM](https://www.udemy.com/intro-administrador-etiquetas-tag-manager-y-analisis-web) (Udemy)
 * [Fundamentos de Google Analitycs 2018](https://www.udemy.com/curso-de-fundamentos-de-google-analytics-2018) (Udemy)
+* [Google Search Console: Curso Online de Google Search Console](https://www.udemy.com/share/101z34AkoaeF5RTXw=)
 
 
 ## Marketing en Redes Sociales 🏪
@@ -1241,6 +1239,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 ### Facebook <i class="fab fa-facebook-square"></i>
 
 * [Marketing digital en Facebook: haz crecer tu negocio](https://www.crehana.com/cursos/all/marketing-digital-en-facebook-haz-crecer-tu-negocio) (Crehana)
+* [Utilizar Facebook para aumentar Clientes y generar Ventas](https://www.udemy.com/share/101taqAkoaeF5RTXw=) (Udemy)
 
 
 ### Instagram <i class="fab fa-instagram"></i>
@@ -1249,6 +1248,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Curso publicidad en Instagram, ¡crea ya tus anuncios!](https://www.udemy.com/curso-publicidad-en-instagram-gratis-desde-0) (Udemy)
 * [Instagram 2018: paso a paso hasta los 10.000 seguidores](https://www.udemy.com/instagram-2018-paso-a-paso-hasta-los-10000-seguidores) (Udemy)
 * [Instagram para negocios locales](https://www.udemy.com/instagram-para-negocios-locales) (Udemy)
+* [Introducción al Marketing en Instagram para tu empresa](https://www.udemy.com/share/101tpEAkoaeF5RTXw=) (Udemy)
 
 
 ### Pinterest <i class="fab fa-pinterest"></i>

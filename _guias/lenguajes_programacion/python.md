@@ -1,12 +1,12 @@
 ---
 title: 👨‍🚀 ▷ Cómo Aprender Python
-description:
-excerpt: 
-published: false
+description: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
+excerpt: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
+published: true
 author: rosepac
 comments: false
 date: 2019-06-30 12:06:18
-last_modified_at: 
+last_modified_at: 2019-10-08
 permalink: /python/
 ---
 
@@ -28,7 +28,7 @@ Python también tiene paquetes como NumPy y SciPy que se usan comúnmente en los
 
 ## ¿Quién esta usando Python?
 
-https://realpython.com/world-class-companies-using-python/ Es utilizado por la NASA y Reddit, y su marco web, Django, alimenta las aplicaciones web de Instagram y Pinterest.
+<!-- https://realpython.com/world-class-companies-using-python/ --> Es utilizado por la NASA y Reddit, y su marco web, Django, alimenta las aplicaciones web de Instagram y Pinterest.
 
 ### Google
 
@@ -38,6 +38,7 @@ Incluso cuando se escribieron otros scripts para Google en Perl o Bash, estos a 
 
 Python es ahora uno de los lenguajes oficiales del servidor de Google (C ++, Java y Go son los otros tres) que pueden implementarse en producción. Y en caso de que no esté realmente seguro de cuán importante es Python para Google, el propio BDFL de Python, [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) , trabajó en Google desde 2005 hasta 2012.
 
+<!--
 - Facebook
 - Instagram
 - Spotify
@@ -45,6 +46,7 @@ Python es ahora uno de los lenguajes oficiales del servidor de Google (C ++, Jav
 - Netflix
 - Dropbox
 - Reddit
+-->
 
 ### ILM
 

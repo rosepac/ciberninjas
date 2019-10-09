@@ -22,7 +22,7 @@ toc_sticky: false
 
 ---
 <!-- CURSOS AGREGADOS DESDE AQUI: https://docs.microsoft.com/es-es/learn/browse/?resource_type=learning%20path&page=2 
-mME HE QUEDADO A PARTIR DE CREACIÓN DE UNA APLICACIÓN CONTROLADA POR MODELOS EN POWERAPPS -->
+<!-- ME HE QUEDADO A PARTIR DE CREACIÓN DE UNA APLICACIÓN CONTROLADA POR MODELOS EN POWERAPPS -->
 **Simbología**: Los cursos que indicados con una (❌) significa que aún no han sido traducidos al español; a pesar de que pueden ser traducidos en cualquier momento. 
 {: .notice--info}
 
@@ -59,6 +59,7 @@ Introducción a la solución Machine Learning con Python y Azure Notebooks (http
 Introducción a Machine Learning con Azure Data Science Virtual Machine (https://docs.microsoft.com/es-es/learn/paths/get-started-with-azure-dsvm)
 Procesamiento y traducción de voz con Azure Cognitive Speech Services (https://docs.microsoft.com/es-es/learn/paths/translate-speech-with-speech-services)
 Publicación de un experimento de Machine Learning con Microsoft Azure Machine Learning Studio (https://docs.microsoft.com/es-es/learn/paths/publish-experiment-with-ml-studio)
+
 
 ## Servicio de Bots
 
