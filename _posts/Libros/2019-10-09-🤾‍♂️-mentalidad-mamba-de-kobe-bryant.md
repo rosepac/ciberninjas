@@ -63,13 +63,6 @@ Por último, los relatos detallados de Bryant se combinan con impresionantes fot
 
 Kobe Bryant es un narrador y creador de contenido galardonado con un Premio de la Academia. Pasa sus días construyendo historias para inspirar a la próxima generación de atletas a dar las mejores versiones de sí mismos. Anteriormente, Kobe fue cinco veces campeón de la NBA, dos veces MVP de las Finales de la NBA, MVP de la NBA y dos veces medallista de oro olímpico. Espera compartir todo lo que aprendió con jóvenes atletas de todo el mundo.
 
-## 🔗 Enlaces Externos
-
-* Kobe Bryant escribi&oacute; un libro para ayudar a los lectores a comprender 'su mentalidad' cuando filtr&oacute; documentos del gobierno.&nbsp;[CNN](https://edition.cnn.com/2019/08/01/politics/edward-snowden-memoir-permanent-record-trnd/index.html)
-* En la nueva memoria de Kobe Bryant, las revelaciones esta vez son personales. [New York Times](https://www.nytimes.com/2019/09/13/books/review-permanent-record-edward-snowden-memoir.html)
-* Siete cosas que aprendimos del nuevo libro de Kobe Bryant. [Wired](https://www.wired.co.uk/article/edward-snowden-book-permanent-record-review)
-* Las memorias de Kobe Bryant, Mentalidad Mamba, saldr&aacute;n el pr&oacute;ximo mes [TheVerge](https://www.theverge.com/2019/8/1/20750383/edward-snowden-memoir-permanent-record-nsa-whistleblower)
-
 ## 📝 Otros Detalles
 
 * Formatos disponibles: Kindle y Tapa Blanda

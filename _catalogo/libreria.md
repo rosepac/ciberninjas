@@ -25,6 +25,10 @@ Los enlaces aqu&iacute; expuestos, trabajan a trav&eacute;s de Coockies de Amazo
 
 Novelas de autores que han aparecido o se han citado a lo largo de las publicaciones internas del blog o bien he conocido a través de alguna otra noticia sobre tecnología o interés.
 
+## Desarrollo Personal
+
+* Mentalidad Mamba [Tapa Dura](https://amzn.to/2pQYs1R) \ [Ebook](https://amzn.to/2M0QGv9)
+
 ### [Toni Morrison](#toni-morrison)
 
 * Bibliograf&iacute;a del Autor en Espa&ntilde;ol [Obras Completas](https://amzn.to/2MziuIA)
