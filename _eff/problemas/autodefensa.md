@@ -35,13 +35,13 @@ Además, podrás obtener información más detallada en otras secciones como las
     <img src="/assets/images/eff/eff-guias-basicas.jpg" alt="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas" title="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas">
 </figure>
 
-👉 ¿Por qué son importantes los metadatos? [Entrar](https://kutt.it/eff-ImportanteMetadatos "Por qué los metadatos son importantes"){:target="_blank"}
+👉 ¿Por qué son importantes los metadatos? ▷ [Entrar](https://kutt.it/eff-ImportanteMetadatos "Por qué los metadatos son importantes"){:target="_blank"}
 
-👉 ¿Cómo crear una contraseña super mega segura? [Entrar](https://kutt.it/eff-ContrasenaSuperSegura "Cómo crear una contraseña super mega segura"){:target="_blank"}
+👉 ¿Cómo crear una contraseña super mega segura? ▷ [Entrar](https://kutt.it/eff-ContrasenaSuperSegura "Cómo crear una contraseña super mega segura"){:target="_blank"}
 
 <center><iframe src="https://archive.org/embed/how-to-make-a-super-secure-password" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></center>
 
-👉 Protegiendo tus dispositivos de Hackers [Entrar](https://kutt.it/eff-ProtegerDispositivoHackers "Proteger tus dispositivos de los Hackers"){:target="_blank"}
+👉 Protegiendo tus dispositivos de Hackers ▷ [Entrar](https://kutt.it/eff-ProtegerDispositivoHackers "Proteger tus dispositivos de los Hackers"){:target="_blank"}
   
 <center><iframe src="https://archive.org/embed/protect-your-devices-from-hackers" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></center>
 
