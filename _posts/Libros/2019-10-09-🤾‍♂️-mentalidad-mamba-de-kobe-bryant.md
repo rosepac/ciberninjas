@@ -41,6 +41,8 @@ sidebar:
     nav: catalogo
 ---
 
+La mentalidad mamba de Kobe Bryant, ¿Cómo juego? Reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto. Con introducción de Phil Jackson y prólogo de Pau Gasol.
+
 ## 🙋‍♀️ Descripci&oacute;n Completa
 
 A raíz de su retiro del baloncesto profesional, Kobe "The Black Mamba" Bryant ha decidido compartir su vasto conocimiento y comprensión del juego para llevar a los lectores a un viaje sin precedentes al núcleo de la legendaria "Mentalidad de la Mamba". Pensando que es una gran oportunidad para enseñar a los jugadores jóvenes, fanáticos incondicionales y estudiantes devotos de su juego e intenta transmitir ¿Cómo jugarlo "de la manera correcta"?.
