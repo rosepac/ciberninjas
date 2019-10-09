@@ -66,7 +66,7 @@ Swift es el último lenguaje de programación creado por Apple. Se trata de uno 
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=gift_certificates&banner=0YM2726C1ESR66Q7QG02&f=ifr&linkID=b74ea8b6b0434619f53785a367d3de3d&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-<center><a href="https://amzn.to/2L2v9l4" class="btn btn--warning btn--large" title="Comprar El Libro 🍏 Introducción a Swift: Aprende Swift desde Cero de forma Práctica">💻 VERSIÓN EBOOK</a></center>
+<center><a href="https://amzn.to/2L2v9l4" target="_blank" class="btn btn--warning btn--large" title="Comprar El Libro 🍏 Introducción a Swift: Aprende Swift desde Cero de forma Práctica">💻 VERSIÓN EBOOK</a></center>
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=kindlestore&banner=0P95N768FCV2P0732CG2&f=ifr&linkID=75656190f347ab8c55ea09e0b6f57418&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 

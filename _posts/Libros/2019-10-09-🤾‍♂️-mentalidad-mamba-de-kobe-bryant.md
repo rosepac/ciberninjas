@@ -76,9 +76,9 @@ Kobe Bryant es un narrador y creador de contenido galardonado con un Premio de l
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=13&amp;l=ur1&amp;category=gift_certificates&amp;banner=0YM2726C1ESR66Q7QG02&amp;f=ifr&amp;linkID=b74ea8b6b0434619f53785a367d3de3d&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-<center><a class="btn btn--warning btn--large" title="Mentalidad Mamba de Kobe Bryant, reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto | Ciberninjas" href="https://amzn.to/2pQYs1R">📓 COMPRAR LIBRO</a></center>
+<center><a class="btn btn--warning btn--large" title="Mentalidad Mamba de Kobe Bryant, reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto | Ciberninjas" href="https://amzn.to/2pQYs1R" target="_blank">📓 COMPRAR LIBRO</a></center>
 
-<center><a class="btn btn--warning btn--large" title="Mentalidad Mamba de Kobe Bryant, reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto | Ciberninjas" href="https://amzn.to/2M0QGv9">💻 VERSI&Oacute;N EBOOK</a></center>
+<center><a class="btn btn--warning btn--large" title="Mentalidad Mamba de Kobe Bryant, reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto | Ciberninjas" href="https://amzn.to/2M0QGv9" target="_blank">💻 VERSI&Oacute;N EBOOK</a></center>
 
 &nbsp;
 

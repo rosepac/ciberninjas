@@ -100,10 +100,10 @@ Además, podrás obtener información más detallada en otras secciones como las
 * ¿Cómo utilizar Signal en iOS? [👉 Entrar](https://kutt.it/eff-UsarSignaliOS "Cómo utilizar Signal en iOS"){:target="_blank"}
 * ¿Cómo utilizar Whatsapp en iOS? [👉 Entrar](https://kutt.it/eff-UsarWhatshappiOS "Cómo Utilizar Whatsapp en iOS"){:target="_blank"}
 
+## 👨‍🏫 Aprendizaje Adicional
+
 👇👇👇 🚧 EN CONSTRUCCIÓN 🚧 👇👇👇
 {: .notice--warning}
-
-## 👨‍🏫 Aprendizaje Adicional
 
 U aprendizaje adiciononal o aprendizaje extra de seguridad digital sobre la vigilancia.
 

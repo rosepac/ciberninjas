@@ -73,9 +73,9 @@ Edward Joseph "Ed" Snowden es un profesional inform&aacute;tico estadounidense q
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=13&amp;l=ur1&amp;category=gift_certificates&amp;banner=0YM2726C1ESR66Q7QG02&amp;f=ifr&amp;linkID=b74ea8b6b0434619f53785a367d3de3d&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-<center><a class="btn btn--warning btn--large" title="Vigilancia Permanente de Edward Snowden, memorias que agitarán la política | Ciberninjas" href="https://amzn.to/2Lxt9Sd">📓 COMPRAR LIBRO</a></center>
+<center><a class="btn btn--warning btn--large" title="Vigilancia Permanente de Edward Snowden, memorias que agitarán la política | Ciberninjas" href="https://amzn.to/2Lxt9Sd" target="_blank">📓 COMPRAR LIBRO</a></center>
 
-<center><a class="btn btn--warning btn--large" title="Vigilancia Permanente de Edward Snowden, memorias que agitarán la política | Ciberninjas" href="https://amzn.to/2Alu55y">💻 VERSI&Oacute;N EBOOK</a></center>
+<center><a class="btn btn--warning btn--large" title="Vigilancia Permanente de Edward Snowden, memorias que agitarán la política | Ciberninjas" href="https://amzn.to/2Alu55y" target="_blank">💻 VERSI&Oacute;N EBOOK</a></center>
 
 &nbsp;
 
