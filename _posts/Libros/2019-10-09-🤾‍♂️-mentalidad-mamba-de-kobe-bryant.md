@@ -13,9 +13,9 @@ comments: true
 date: 2019-10-09 12:10:00 +0200
 permalink: /catalogo/mentalidad-mamba/
 description: >-
-  La mentalidad mamba de Kobe Bryant, ¿Cómo juego? Reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto. Con introducción de Phil Jackson y prólogo de Pau Gasol.
+  🏀 La mentalidad mamba de Kobe Bryant, ¿Cómo juego? Reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto. Con introducción de Phil Jackson y prólogo de Pau Gasol.
 excerpt: >-
-  La mentalidad mamba de Kobe Bryant, ¿Cómo juego? Reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto. Con introducción de Phil Jackson y prólogo de Pau Gasol.
+  🏀 La mentalidad mamba de Kobe Bryant, ¿Cómo juego? Reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto. Con introducción de Phil Jackson y prólogo de Pau Gasol.
 header:
   overlay_image: https://i.ibb.co/18jHPqY/kobe-the-mamba-mentality.jpg
   image_description: >-
