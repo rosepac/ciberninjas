@@ -60,7 +60,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 * ¿Cómo mantener tus datos seguros? [👉 Entrar](https://kutt.it/eff-MantenerDatosSeguros "Cómo mantener tus datos seguros"){:target="_blank"}
 * ¿Cómo crear contraseñas seguras? [👉 Entrar](https://kutt.it/eff-CrearContrasenasSeguras "Cómo poder crear contraseñas suficientemente seguras"){:target="_blank"}
 
-## 🛠 Guías de Herramientas
+## 🔧 Guías de Herramientas
 
 <figure>
     <img src="/assets/images/eff/eff-guias-herramientas.jpg" alt="Aprende a manejar las herramientas más útiles y necesarias para tu autodefensa personal digital \ Visto en Ciberninjas" title="Aprende a manejar las herramientas más útiles y necesarias para tu autodefensa personal digital \ Visto en Ciberninjas">

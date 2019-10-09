@@ -33,7 +33,7 @@ header:
 <p>Además de todo esto, la EFF difunde y promueve diferentes proyectos y herramientas; entre otras: el badge de privacidad, HTTPS para todos, Autodefensa de la Vigilancia, Certbot y Panopticlick.</p>
 </details>
 
-**Fuente**: El contenido siguiente son traducciones realizadas bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es) sin derivados, propiedad original de la [EFF](https://kutt.it/eff) tanto la redacción como las imágenes. En todo momento este contenido debe estar bajo la misma licencia.
+**Licencia**: El contenido siguiente son traducciones realizadas bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es) sin derivados, propiedad original de la [EFF](https://kutt.it/eff) tanto la redacción como las imágenes. En todo momento este contenido debe estar bajo la misma licencia.
 {: .notice--info}
 
 **Info. Legal**: Si desea reutilizar este contenido debe dar reconocimiento, tanto a la EFF como creador orginal y además a [Pablo Álvarez Corredera o Ciberninjas](https://kutt.it/ciberninjas) como creador del contenido en español.
