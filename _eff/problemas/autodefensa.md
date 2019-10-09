@@ -23,7 +23,7 @@ toc_sticky: true
 
 ---
 <!-- autodenfesa digital personal, buscar mas contenidos con los que complementar xd -->
-Desde la Fundación Frontera Electrónica se nos presenta una amplia colección de [guías y consejos más básicos](/eff/autodefensa/#guias-basicas) con las que podemos descubrir cómo funciona la vigilancia en línea y aprender a defendernos, protegernos y preservarnos de ella.
+Desde la Fundación Frontera Electrónica se nos presenta una amplia colección de [guías y consejos más básicos](/#guías-básicas) con las que podemos descubrir cómo funciona la vigilancia en línea y aprender a defendernos, protegernos y preservarnos de ella.
 
 No dudes en sumergirte en las siguientes GUÍAS DE HERRAMIENTAS si deseas obtener instrucciones sobre cómo instalar la mejor selección de las más seguras aplicaciones.
 
@@ -37,13 +37,21 @@ Además, podrás obtener información más detallada en otras secciones como las
 
 * ¿Por qué son importantes los metadatos? [👉 Entrar](https://kutt.it/eff-ImportanteMetadatos "Por qué los metadatos son importantes"){:target="_blank"}
 * ¿Cómo crear una contraseña super mega segura? [👉 Entrar](https://kutt.it/eff-ContrasenaSuperSegura "Cómo crear una contraseña super mega segura"){:target="_blank"}
+
 <center><iframe src="https://archive.org/embed/how-to-make-a-super-secure-password" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></center>
+
 * Protegiendo tus dispositivos de Hackers [👉 Entrar](https://kutt.it/eff-ProtegerDispositivoHackers "Proteger tus dispositivos de los Hackers"){:target="_blank"}
+  
 <center><iframe src="https://archive.org/embed/protect-your-devices-from-hackers" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></center>
+
 * Gestores de contraseñas para estar seguro en línea [👉 Entrar](https://kutt.it/eff-GestoresContrasenas){:target="_blank"}
+
 <center><iframe src="https://archive.org/embed/using-password-managers-to-stay-safe-online" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></center>
+
 * ¿Cómo el cifrado ayuda a evitar la vigilancia? [👉 Entrar](https://kutt.it/eff-CifradoEvitarVigilancia){:target="_blank"}
+
 <center><iframe src="https://archive.org/embed/tips-to-help-avoid-online-surveillance" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></center>
+
 * Siete pasos para la seguridad digital [👉 Entrar](https://kutt.it/eff-SietePasosSeguridadDigital "Siete pasos para la seguridad digital"){:target="_blank"}
 * ¿Cómo elegir bien tus herramientas? [👉 Entrar](https://kutt.it/eff-ElegirHerramientas "Cómo elegir bien tus herramientas"){:target="_blank"}
 * ¿Cómo comunicarse con otros? [👉 Entrar](https://kutt.it/eff-ComunicarseOtros "Cómo comunicarse seguramente con otras personas"){:target="_blank"}
@@ -59,6 +67,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 </figure>
 
 * ¿Cómo evitar los ataques de phishing o suplantación de identidad? [👉 Entrar](https://kutt.it/eff-EvitarAtaquesPhising "Cómo evitar los ataques de phishing o suplantación de identidad"){:target="_blank"}
+* ¿Cómo evitar la censura en línea? [👉 Entrar](https://kutt.it/eff-EvitarCensura "Cómo evitar la censura en línea"){:target="_blank"}
 * ¿Cómo habilitar la autenticación de dos factores? [👉 Entrar](https://kutt.it/eff-HabilitarDobleFactor "Cómo habilitar la autenticación de dos factores"){:target="_blank"}
 
 ### Herramientas Android <i class="fab fa-android"></i>
@@ -77,15 +86,15 @@ Además, podrás obtener información más detallada en otras secciones como las
 ### Herramientas Linux <i class="fab fa-linux"></i>
 
 * ¿Cómo eliminar tu información privada de forma segura en Linux? [👉 Entrar](https://kutt.it/eff-EliminarDatosLinux "Cómo eliminar tu información privada de forma segura en Linux"){:target="_blank"}
+* ¿Cómo usar OTR en Linux? [👉 Entrar](https://kutt.it/eff-UsarOTRLinux "Cómo: utilizar a OTR en Linux"){:target="_blank"}
 * ¿Cómo usar PGP en Linux? [👉 Entrar](https://kutt.it/eff-PGPLinux "Cómo usar PGP en Linux"){:target="_blank"}
 * ¿Cómo usar Tor en Linux? [👉 Entrar](https://kutt.it/eff-UsarTorLinux "Cómo usar Tor en Linux"){:target="_blank"}
-* ¿Cómo utilizar a OTR en Linux? [👉 Entrar](https://kutt.it/eff-UsarOTRLinux "Cómo: utilizar a OTR en Linux
-"){:target="_blank"}
 
 ### Herramientas MacOS e iOS <i class="fas fa-apple-alt"></i>
 
 * ¿Cómo cifrar tu iPhone? [👉 Entrar](https://kutt.it/eff-CifrarIphone "Cómo cifrar tu iPhone"){:target="_blank"}
 * ¿Cómo eliminar tu información privada de forma segura en macOS? [👉 Entrar](https://kutt.it/eff-EliminarDatosMacOS "Cómo eliminar tu información privada de forma segura en macOS"){:target="_blank"}
+* ¿Cómo usar OTR en MacOS? [👉 Entrar](https://kutt.it/eff-UsarOTRMacOS "Cómo: usar OTR en MacOS"){:target="_blank"}
 * ¿Cómo usar PGP en MacOS? [👉 Entrar](https://kutt.it/eff-PGPmacOS "Cómo usar PGP en MacOS"){:target="_blank"}
 * ¿Cómo usar Tor en macOS? [👉 Entrar](https://kutt.it/eff-TorMacOS "Cómo usar Tor en macOS"){:target="_blank"}
 * ¿Cómo utilizar Signal en iOS? [👉 Entrar](https://kutt.it/eff-UsarSignaliOS "Cómo utilizar Signal en iOS"){:target="_blank"}
@@ -94,7 +103,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 👇👇👇 🚧 EN CONSTRUCCIÓN 🚧 👇👇👇
 {: .notice--warning}
 
-## 👨‍🏫 Aprendizaje Avanzado
+## 👨‍🏫 Aprendizaje Adicional
 
 U aprendizaje adiciononal o aprendizaje extra de seguridad digital sobre la vigilancia.
 
