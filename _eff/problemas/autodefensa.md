@@ -3,7 +3,7 @@ title: "🛡 Guía Autodefensa Digital de la Vigilancia"
 description: "✊ La Autodefensa de la Vigilancia por la Fundación Frontera Electrónica. Visto en Ciberninjas."
 excerpt: "✊ La Autodefensa de la Vigilancia por la Fundación Frontera Electrónica. Visto en Ciberninjas."
 date: 2019-10-08 18:00:10
-last_modified_at: 2019-10-09 02:10:10
+last_modified_at: 2019-10-09 11:50:10
 permalink: /eff/autodefensa/
 canonical_URL: https://ciberninjas.com/eff/autodefensa/
 published: true
@@ -23,7 +23,7 @@ toc_sticky: true
 
 ---
 <!-- autodenfesa digital personal, buscar mas contenidos con los que complementar xd -->
-Desde la Fundación Frontera Electrónica se nos presenta una amplia colección de [guías y consejos más básicos](/#guías-básicas) con las que podemos descubrir cómo funciona la vigilancia en línea y aprender a defendernos, protegernos y preservarnos de ella.
+Desde la Fundación Frontera Electrónica se nos presenta una amplia colección de [guías y consejos más básicos](/eff/autodefensa/#-guías-básicas) con las que podemos descubrir cómo funciona la vigilancia en línea y aprender a defendernos, protegernos y preservarnos de ella.
 
 No dudes en sumergirte en las siguientes GUÍAS DE HERRAMIENTAS si deseas obtener instrucciones sobre cómo instalar la mejor selección de las más seguras aplicaciones.
 
