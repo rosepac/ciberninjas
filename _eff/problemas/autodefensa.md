@@ -35,8 +35,8 @@ Además, podrás obtener información más detallada en otras secciones como las
     <img src="/assets/images/eff/eff-guias-basicas.jpg" alt="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas" title="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas">
 </figure>
 
-* ¿Por qué son importantes los metadatos? [👉 Entrar](https://kutt.it/eff-ImportanteMetadatos "Por qué los metadatos son importantes"){:target="_blank"}
-* ¿Cómo crear una contraseña super mega segura? [👉 Entrar](https://kutt.it/eff-ContrasenaSuperSegura "Cómo crear una contraseña super mega segura"){:target="_blank"}
+👉 ¿Por qué son importantes los metadatos? [Entrar](https://kutt.it/eff-ImportanteMetadatos "Por qué los metadatos son importantes"){:target="_blank"}
+👉 ¿Cómo crear una contraseña super mega segura? [Entrar](https://kutt.it/eff-ContrasenaSuperSegura "Cómo crear una contraseña super mega segura"){:target="_blank"}
 
 <center><iframe src="https://archive.org/embed/how-to-make-a-super-secure-password" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></center>
 
@@ -102,12 +102,24 @@ Además, podrás obtener información más detallada en otras secciones como las
 
 ## 👨‍🏫 Aprendizaje Adicional
 
-👇👇👇 🚧 EN CONSTRUCCIÓN 🚧 👇👇👇
-{: .notice--warning}
+Aprendizajes adicionales que te pueden interesar si deseas lograr un extra mayor de privacidad sobre tus datos e información digital.
 
-U aprendizaje adiciononal o aprendizaje extra de seguridad digital sobre la vigilancia.
+* [¿Cómo funcionan los sistemas cifrados de claves públicas?](https://kutt.it/eff-CifradoClavePublica "Cómo funcionan los sistemas de cifrado de clave pública"){:target="_blank"}
+* [¿Cómo protegerme contra el malware?](https://kutt.it/eff-ProtegerMalware "Cómo protegerme contra el malware"){:target="_blank"}
+* [¿Cómo protegerte en las redes sociales?](https://kutt.it/efff-ProtegerteRedesSociales "Cómo protegerte en las redes sociales"){:target="_blank"}
+* [Conceptos claves del cifrado](https://kutt.it/eff-ConceptosClaveCifrado "Conceptos clave de los sistemas de cifrado"){:target="_blank"}
+* [Problemas con Teléfonos Móviles](https://kutt.it/eff-ProblemasSmarthphones "Problemas con Teléfonos Móviles"){:target="_blank"}
+* [¿Qué es y Cómo elegir una VPN adecuada?](https://kutt.it/eff-VPN-Elegir "Qué es y Cómo elegir una VPN adecuada"){:target="_blank"}
+* [Reduce Riesgos en los Grupos de Facebook](https://kutt.it/eff-ReduceRiesgosGruposFacebook "Reduce Riesgos en los Grupos de Facebook"){:target="_blank"}
+* [¿Qué debes considerar si vas a cruzar la Frontera de Estados Unidos?](){:target="_blank"}
+* Asistiendo a Las Protestas (Estados Unidos){:target="_blank"}
+* Verificando las Llaves{:target="_blank"}
+
+Una mirada en profundidad al cifrado de extremo a extremo.
 
 <!-- https://ssd.eff.org/module-categories/further-learning -->
+👇👇👇 🚧 EN CONSTRUCCIÓN 🚧 👇👇👇
+{: .notice--warning}
 
 ## 🔐 Escenarios de Seguridad
 
