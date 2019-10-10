@@ -1,8 +1,8 @@
 ---
 
 title: "Eclipse Theia"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Eclipse Theia, es un entornos de desarrollo integrado o IDE."
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Eclipse Theia, es un entornos de desarrollo integrado o IDE."
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Eclipse Theia, es un entorno de desarrollo integrado o IDE."
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Eclipse Theia, es un entorno de desarrollo integrado o IDE."
 date: 2019-10-07 09:07:07
 toc: true
 toc_label: "Contenidos"
@@ -10,8 +10,8 @@ toc_icon: user-ninja
 toc_sticky: true
 published: true
 author_profile: false
-permalink: /wiki/elan-software
-canonical_URL: https://ciberninjas.com/wiki/elan-software
+permalink: /wiki/eclipse-theia
+canonical_URL: https://ciberninjas.com/wiki/eclipse-theia
 
 ---
 
@@ -33,4 +33,7 @@ Eclipse Theia es usado por Eclipse Che como su IDE predeterminado a partir de la
 
 ## Uso por la Comunidad
 
-En enero de 2019, JAXenter clasificó a Theia como el tercer entorno de desarrollo integrado de JavaScript más popular de 2018 según las métricas de GitHub , detrás de Visual Studio Code y Atom .
+En enero de 2019, JAXenter clasificó a Theia como el tercer entorno de desarrollo integrado de JavaScript más popular de 2018 según las métricas de GitHub , detrás de Visual Studio Code y Atom.
+
+**Categorías**: Entornos de Desarrollo Integrado
+{: .notice--success}
