@@ -1,7 +1,5 @@
 ---
-title: >
-    Librerías Front-End para el Desarrollador Web: Crea tu
-    mejor diseño
+title: Librerías Front-End para el Desarrollador Web: Crea tu mejor diseño
 published: true
 author: rosepac
 comments: true
@@ -9,13 +7,11 @@ date: 2019-01-27 07:01:02
 tags:
     - 3D
     - Animación
-    - Librerías
     - JS
     - Diseño
 categories:
     - Librerías Javascript
-permalink: >
-    /librerias-front-end-para-el-desarrollador-web-crea-tu-mejor-diseno
+permalink: /librerias-front-end-para-el-desarrollador-web-crea-tu-mejor-diseno
 ---
 
 Desde Github nos encontramos este interminable listado de librerías que deberían facilitarnos la vida a la hora de dar vida a nuestros proyectos. Efectos de animación, transiciones, fuentes y crear efectos con las potentes librerías de JavaScript.
