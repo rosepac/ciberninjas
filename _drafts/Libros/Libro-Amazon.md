@@ -1,5 +1,5 @@
 ---
-# 🕸 Administración y Redes, 🧠 Neuropsicología, ⭐ Recomendaciones, 🔐 Seguridad Informática, 🔬 Ciencias Informáticas, 🌐 Red e Internet
+# 🕸 Administración y Redes, 🔬 Ciencias Informáticas, 💪 Desarrollo Personal, 🧠 Neuropsicología, 👨‍💻 Programación Móvil, ⭐ Recomendaciones,🌐 Red e Internet, 🔐 Seguridad Informática, 🤼 Sociología
 title: "🔐 TITULO"
 categories:
 - Catálogo
