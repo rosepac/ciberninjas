@@ -4,7 +4,7 @@ title: "Eclipse Theia"
 description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Eclipse Theia, Entorno de desarrollo integrado o IDE."
 excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Eclipse Theia, Entorno de desarrollo integrado o IDE."
 date: 2019-10-07 09:07:07
-last_modified_at: 2019-10-10 19:38:30
+last_modified_at: 2019-10-10 19:53:59
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
