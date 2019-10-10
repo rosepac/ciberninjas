@@ -36,7 +36,7 @@ Páginas pertenecientes a esta categoría: 3
 ## D
 
 - [Destrucción Creativa] <!-- https://en.wikipedia.org/wiki/Creative_destruction -->
-- [Dilema de Collingridge]() <!-- https://en.wikipedia.org/wiki/Collingridge_dilemma -->
+- [Dilema de Collingridge] <!-- https://en.wikipedia.org/wiki/Collingridge_dilemma -->
 
 ## E
 
@@ -51,7 +51,6 @@ Páginas pertenecientes a esta categoría: 3
 
 - [Tecnología de Borde Sangrante](https://es.wikipedia.org/wiki/Bleeding_edge_technology)
 - [Teoría de la Red de Actores](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_Actor-Red)
-
 
 <!-- TODOS LOS CONTENIDOS DE LA CATEGORIA DE LOS CAMBIOS DE TECNOLOGIA ME HE QUEDADO POR LA D, AHORA VOY A TRADUCIR XD XD XD -->
 <!-- https://en.wikipedia.org/wiki/Category:Technological_change -->

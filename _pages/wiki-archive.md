@@ -19,7 +19,7 @@ author_profile: false
 #   nav: general
 ---
 
-Índice de diferentes artículos de la Wikipedia en español aún sin traducción.
+Índice de diferentes artículos de la Wikipedia de la tecnología en español aún sin traducción hasta ahora..
 
 <!-- ## Artículos -->
 <!-- [Ciborg](/wiki/ciborg) -->
