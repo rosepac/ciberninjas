@@ -6,20 +6,18 @@ author: rosepac
 comments: true
 date: 2019-01-27 07:01:02
 tags:
-    - 3D
-    - Animación
-    - JS
-    - Diseño
+  - 3D
+  - Animación
+  - JS
+  - Diseño
 categories:
-    - Librerías Javascript
+  - Librerías Javascript
 permalink: /librerias-front-end-para-el-desarrollador-web-crea-tu-mejor-diseno
 ---
 
 Desde Github nos encontramos este interminable listado de librerías que deberían facilitarnos la vida a la hora de dar vida a nuestros proyectos. Efectos de animación, transiciones, fuentes y crear efectos con las potentes librerías de JavaScript.
 
 Sin más preámbulo, vamos al lío.
-
----
 
 ## **Animación**
 
@@ -60,8 +58,6 @@ Recursos que nos ayudan a generar creaciones con movimiento y cambios de formas.
 - [**WAAPI Browser Support Test (+ Polyfill)**](http://codepen.io/danwilson/pen/XmWraY) : Este ‘codepen’ muestra qué extensión de su navegador admite la API de animaciones web. La prueba se ejecuta después de incluir Polyfill.
 - [**Animaciones Web Polyfill**](https://github.com/web-animations/web-animations-js) : Implementación de JavaScript de la API de Animaciones Web.
 
----
-
 ## **Tipografía**
 
 El estilo, disposición o apariencia de la fuente tipográfica.
@@ -87,8 +83,6 @@ El estilo, disposición o apariencia de la fuente tipográfica.
 - [**Bacon**](http://baconforme.com/) : Bacon es un plugin de jQuery que te permite envolver texto alrededor de una curva de bezier o una línea.
 - [**SlabText**](https://github.com/freqDec/slabText/) : Un plugin jQuery para producir títulos grandes, audaces y receptivos.
 - [**trunk8**](http://jrvis.com/trunk8/) : trunk8 es un complemento de acortamiento de texto inteligente para jQuery. Cuando se aplica a un gran bloque de texto, cortará el texto suficiente para evitar que se derrame; misma función al típico “Leer Más”.
-
----
 
 ## **Visualización**
 
@@ -122,8 +116,6 @@ Colocación de datos en un contexto visual.
 - [**mxgraph**](http://jgraph.github.io/mxgraph/) : mxGraph es una biblioteca de diagramación de JavaScript que permite la creación rápida de gráficos interactivos y aplicaciones de gráficos que se ejecutan de forma nativa en cualquier navegador principal, HTML5 capaz e Internet Explorer v7 +.
 - [**three.js**](http://threejs.org/) : Three.js es una biblioteca que hace que WebGL — 3D en el navegador — sea fácil de usar. Mientras que un simple cubo en WebGL sin procesar resultaría cientos de líneas de código de Javascript y shader, un equivalente de Three.js es sólo una fracción de eso.
 - [**vis.js**](http://visjs.org/) : Vis.js es una biblioteca de visualización dinámica basada en navegador. La biblioteca está diseñada para ser fácil de usar, manejar grandes cantidades de datos dinámicos y permitir la manipulación de los datos.
-
----
 
 **Fuente** : [_Recopilatorio de Herramientas Online Total_](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/TOTALLY-GIGANTIC-FILE.md)
 {: .notice--info}
