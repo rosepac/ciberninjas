@@ -4,6 +4,11 @@ published: false
 
 ---
 
+En Eclipse theia: https://en.wikipedia.org/wiki/Language_Server_Protocol
+Protocolos de Comunicaciones https://en.wikipedia.org/wiki/Category:Communications_protocols
+
+LPS y Github: https://microsoft.github.io/language-server-protocol/ -
+
 ## Pendientes Interesantes de Traducción
 * Un bucle de lanzamiento https://en.wikipedia.org/wiki/Launch_loop funcionaría.
 * torres inflables para el lanzamiento ayudan https://en.wikipedia.org/wiki/ThothX_Tower

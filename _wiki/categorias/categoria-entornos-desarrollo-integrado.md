@@ -13,5 +13,9 @@ permalink: /wiki/categoria/entornos-desarrollo-integrado
 
 ---
 
-Entornos de Desarrollo Integrado o IDE´s
+Páginas pertenecientes a esta categoría: 1
+{: .notice--primary}
 
+## E
+
+* [Eclipse Theia](/wiki/eclipse-theia)
