@@ -1,4 +1,5 @@
 ---
+
 published: false
 
 ---
@@ -20,7 +21,6 @@ published: false
 * Fundación Apache Proyectos: https://en.wikipedia.org/wiki/Category:Apache_Software_Foundation_projects
 * Fundación Apache: https://en.wikipedia.org/wiki/Category:Apache_Software_Foundation
 
-https://en.wikipedia.org/wiki/Halcyon_(console)
+* Halcyon, vieja consola clásica: https://en.wikipedia.org/wiki/Halcyon_(console)
 
-
-
+* tipos de datos complejos y categoría tipo de datos. datos compuestos: https://en.wikipedia.org/wiki/Composite_data_type
