@@ -19,5 +19,5 @@ Páginas pertenecientes a esta categoría: 1
 
 ## T
 
-- [Tipos de Datos Complejos](/wiki/tipos-de-datos-compuestos "Tipos de Datos Complejos. Visto en WikiNinjas, la Enciclopedia Informática Tecnológica del Siglo 21")
+- [Tipos de Datos Complejos](/wiki/tipos-de-datos-complejos "Tipos de Datos Complejos. Visto en WikiNinjas, la Enciclopedia Informática Tecnológica del Siglo 21")
 <!-- https://en.wikipedia.org/wiki/Category:Data_types -->

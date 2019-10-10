@@ -8,6 +8,9 @@ published: true
 author_profile: false
 permalink: /wiki/tipos-de-datos-complejos
 canonical_URL: https://ciberninjas.com/wiki/tipos-de-datos-complejos
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
 
 ---
 
