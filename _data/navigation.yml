@@ -9,8 +9,8 @@ main:
     url: /cursos-tecnologia/
   - title: "👨‍🏫 Tutoriales"
     url: /videotutoriales/
-  - title: "📽 Videoteca"
-    url: /categoria/
+  - title: "🎥 Videoteca"
+    url: /videoteca/
   - title: "🌈 Categorías"
     url: /categoria/
   - title: "🏷 Etiquetas"
