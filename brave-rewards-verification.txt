@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ciberninjas.com
+Token: d091ec46ae04076f2ccb26ede68ad92b0de3df03e30c95e9da624b50b47ed2ea
