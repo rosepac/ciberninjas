@@ -41,3 +41,5 @@ El derecho a hablar anónimamente también está protegido mucho más allá de l
 
 **Info. Legal**: Este contenido debe dar reconocimientos a [Pablo Álvarez Corredera o Ciberninjas](https://kutt.it/ciberninjas) como creador primario del contenido en español; además de a la [EFF](https://kutt.it/eff) como creador original de mismo.
 {: .notice--info}
+
+<!-- https://www.eff.org/issues/anonymity -->

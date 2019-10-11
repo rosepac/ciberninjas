@@ -37,6 +37,10 @@ toc_sticky: false
 * [Universidad Autónoma de Mexico - Plan (2016)](https://kutt.it/apuntes-pdf-universidad-mexico){:target="_blank"}
 <!-- http://biblioweb.tic.unam.mx/ , https://www.julianmarquina.es/22-grandes-bibliotecas-digitales-en-espana-aunque-hay-muchas-mas/ http://portal.uned.es/portal/page?_pageid=93,511995&_dad=portal&_schema=PORTAL -->
 
+### 🧰 Repositorios de Herramientas de Programación
+
+* [Style Guides](http://styleguides.io){:target="_blank"} (+572 entre Artículos, Libros y Herramientas)
+
 ## Cursos Masivos en Línea <i class="fas fa-user-graduate"></i>
 
 * [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice){:target="_blank"} (Github)

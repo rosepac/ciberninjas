@@ -40,6 +40,9 @@ Gestor y Lector de Correos Electrónicos (también se le pueden agregar las fuen
 
 
 ## Software de Trabajo
+
+* Lightshot y 🛠 ShareX, es con casi toda la seguridad, la mejor herramienta de captura de pantallas que existe: https://getsharex.com/ #Herramienta #Capturas #Pantalla #Diseñador #Webmaster
+
 ### Editores de Texto
 
 * [Brackets] + [Brackets Markdown Preview](https://bitbucket.org/begue/brackets-markdown-preview/src/master) + [Beautify](https://github.com/brackets-beautify/brackets-beautify#brackets-beautify) + [Emmet](https://emmet.io) + [Brackt Color Picker](https://github.com/mikailcolak/brackets-color-picker) + [Custom Work](https://github.com/alessandrio/custom-work-for-brackets) + [Atajos de Teclado](https://lisacatalano.github.io/brackets_course/pc.html)
