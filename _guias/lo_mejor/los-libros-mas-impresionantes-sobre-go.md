@@ -2,8 +2,8 @@
 title: "🎁 📚 ▷ Los Libros Más Impresionantes Sobre Go"
 description: "📖 👩‍💻 Los Libros Más Impresionantes Sobre Go."
 excerpt: "📖 👩‍💻 Los Libros Más Impresionantes Sobre Go."
-date: 2019-10-11 02:30:00 +0200
-last_modified_at: 2019-09-11 00:00:00 +0200
+date: 2019-10-11 02:20:00 +0200
+last_modified_at: 2019-10-11 02:25:10 +0200
 permalink: /los-libros-mas-impresionantes-sobre-go/
 canonical_URL: https://ciberninjas.com/los-libros-mas-impresionantes-sobre-go/
 published: true
