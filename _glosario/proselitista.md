@@ -7,3 +7,5 @@ permalink: /glosario/proselitista/
 ---
 
 Proselitista, aquel que intenta convencer y ganar seguidores o partidarios para una causa o una doctrina.
+
+<< [Regresar al Glosario](/glosario/ "Regresar a la Página Principal del Glosario")

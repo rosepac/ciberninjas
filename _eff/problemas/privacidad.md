@@ -16,7 +16,11 @@ header:
 
 ---
 
-Las nuevas tecnologías están abriendo radicalmente nuestras nuestras posibilidades de libertad, pero también están permitiendo invasiones de privacidad sin igual. Las leyes nacionales e internacionales aún tienen que ponerse al día con la creciente necesidad de privacidad que requieren las nuevas tecnologías digitales. El respeto a la autonomía de las personas, el discurso anónimo y el derecho a la libre asociación deben equilibrarse con las preocupaciones legítimas como la aplicación de la ley.
+Las nuevas tecnologías están abriendo radicalmente nuestras nuestras posibilidades de libertad, pero también están permitiendo invasiones de privacidad sin igual.
+
+Las leyes nacionales e internacionales aún tienen que ponerse al día con la creciente necesidad de privacidad que requieren las nuevas tecnologías digitales.
+
+El respeto a la autonomía de las personas, el discurso anónimo y el derecho a la libre asociación deben equilibrarse con las preocupaciones legítimas como la aplicación de la ley.
 
 La EFF lucha en los tribunales y el Congreso para mantener sus derechos de privacidad en el mundo digital y trabaja con socios de todo el mundo en búsqueda de generar conexiones capaces de desarrollar tecnologías a favor de la protección de la privacidad.
 
@@ -30,9 +34,7 @@ Varios gobiernos también han optado por utilizar malware para participar en un 
 
 A medida que las necesidades de privacidad evolucionan, también deberían hacerlo nuestros regímenes regulatorios. Los gobiernos nacionales deben establecer controles legales para evitar el abuso de los poderes del Estado, y los organismos internacionales deben  mejorar las prácticas de las agencias de seguridad teniendo en cuenta la constante transformación del entorno tecnológico. Sobre todo, debemos respetar los derechos a la autonomía, el anonimato, la asociación y la libre expresión que la privacidad hace posible, al mismo tiempo que se tienen en cuenta las preocupaciones legítimas y la aplicación de la ley.
 
-Lea nuestro trabajo sobre cuestiones de privacidad a continuación y únase a la EFF para ayudar a respaldar nuestros esfuerzos.
-
-Para obtener información sobre la ley y la tecnología de la vigilancia gubernamental, consulte el proyecto de [autodefensa de la vigilancia](/eff/autodefensa-vigilancia/).
+Lea nuestro trabajo sobre cuestiones de privacidad a continuación y únase a la EFF para ayudar a respaldar nuestros esfuerzos. Para obtener información sobre la ley y la tecnología de la vigilancia gubernamental, consulte el proyecto de [autodefensa de la vigilancia](/eff/autodefensa-vigilancia/).
 
 **Licencia**: El contenido siguiente se encuentra bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es) propiedad original en inglés de la [EFF](https://kutt.it/eff) tanto texto como las imágenes. Si desea utilizarlo, en todo momento el contenido debe estar bajo la misma licencia.
 {: .notice--info}

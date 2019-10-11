@@ -57,6 +57,8 @@ Debido a que las herramientas solo son útiles si las personas saben cómo usarl
 
 A medida que la tecnología crece y cambia, es importante que no refuerce los obstáculos a la libertad de expresión, sino que permita que todos compartan experiencias e ideas de forma segura.
 
+## Relacionados
+
 **Licencia**: El contenido siguiente se encuentra bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es) propiedad original en inglés de la [EFF](https://kutt.it/eff) tanto texto como las imágenes. Si desea utilizarlo, en todo momento el contenido debe estar bajo la misma licencia.
 {: .notice--info}
 
