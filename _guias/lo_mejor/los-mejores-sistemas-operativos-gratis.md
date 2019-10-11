@@ -5,6 +5,7 @@ excerpt: "\U0001F528 Lista de Sistemas Operativos Gratuitos de Código Abierto s
 date: 2019-08-29 00:00:00 +0200
 last_modified_at: 2019-09-11 00:00:00 +0200
 permalink: /los-mejores-sistemas-operativos-gratis/
+canonical_URL: https://ciberninjas.com/los-mejores-sistemas-operativos-gratis/
 published: true
 # header:
 #   image: /assets/images/jekyll-blog.jpg
@@ -15,6 +16,7 @@ toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
 toc_sticky: true
+
 ---
 
 ## Los Mejores Sistemas Operativos Gratis de C&oacute;digo Abierto
