@@ -1,7 +1,7 @@
 ---
 title: "🚨 La Privacidad según la EFF"
-description: "🚨 La Privacidad según la EFF. Visto en Ciberninjas"
-excerpt: "🚨 La Privacidad según la EFF. Visto en Ciberninjas"
+description: "🛡 La Privacidad según la EFF."
+excerpt: "🛡 La Privacidad según la EFF."
 permalink: /eff/privacidad/
 canonical_URL: https://ciberninjas.com/eff/privacidad/
 date: 2019-10-08

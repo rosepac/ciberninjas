@@ -1,7 +1,7 @@
 ---
-title: "🚨 La Libertad de Expresión según la EFF"
-description: "🚨 La Libertad de Expresión según la EFF. Visto en Ciberninjas"
-excerpt: "🚨 La Libertad de Expresión según la EFF. Visto en Ciberninjas"
+title: "📢 La Libertad de Expresión según la EFF"
+description: "🗣 La Libertad de Expresión según la EFF."
+excerpt: "🗣 La Libertad de Expresión según la EFF."
 permalink: /eff/libertad-expresion/
 canonical_URL: https://ciberninjas.com/eff/libertad-expresion/
 date: 2019-10-08
@@ -47,7 +47,7 @@ EFF también crea herramientas que permiten a las personas acceder y expresarse 
 
 Los proyectos de EFF incluyen extensiones de navegador como **Privacy Badger**, que evita que las cookies y otros dispositivos de rastreo te rastreen a través de los sitios web, recopilando tus datos y tu actividad que luego venden o comparten esos con terceros. **HTTPS Everywhere**, creado junto al Proyecto Tor, que redirige a los usuarios a versiones cifradas de sitios web para que los agentes externos no puedan interceptar y espiar tu tránsito.
 
-Debido a que las herramientas solo son útiles si las personas saben cómo usarlas, nuestros expertos también crean guías y materiales de capacitación para ayudar a sus propias comunidades a aprender sobre seguridad. EFF también investiga cómo los gobiernos y los agentes privados crean, compran y usan malware, captadores de [IMSI]() y otras tecnologías de espionaje.
+Debido a que las herramientas solo son útiles si las personas saben cómo usarlas, nuestros expertos también crean guías y materiales de capacitación para ayudar a sus propias comunidades a aprender sobre seguridad. EFF también investiga cómo los gobiernos y los agentes privados crean, compran y usan malware, captadores de [IMSI](/wiki/imsi) y otras tecnologías de espionaje.
 <!-- traducir en la wikipedia https://en.wikipedia.org/wiki/International_mobile_subscriber_identity -->
 
 A medida que la tecnología crece y cambia, es importante que no refuerce los obstáculos a la libertad de expresión, sino que permita que todos compartan experiencias e ideas de forma segura.

@@ -12,6 +12,7 @@ header:
   image: "/assets/images/robots-txt-lupa-ciberninjas.webp"
   image_description: Robots txt, la configuración de tu página para los rastreadores de los buscadores más importantes | Ciberninjas
   caption: "**Créditos**: Edición Personal Sobre Foto de Emiliano Vittoriosi en Unsplash"
+  teaser: "/assets/images/robots-txt-lupa-ciberninjas.webp"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

@@ -1,5 +1,5 @@
 ---
-title: "🚨 Conoce la Fundación Frontera Electrónica"
+title: "🚨 Fundación Frontera Electrónica"
 description: "👮‍♀️ Lee todo lo que debes saber sobre el proyecto de la EFF."
 excerpt: "👮‍♀️ Conoce todo lo que debes saber sobre la EFF."
 date: 2019-10-08 18:40:10
@@ -11,7 +11,7 @@ header:
    overlay_image: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
    overlay_filter: "0.2"
    image_description: "Conoce todo lo que debes saber sobre la Fundación Frontera Electrónica \ Visto en Ciberninjas"
-   image_alt: "Conoce todo lo que debes saber sobre la Fundación Frontera Electrónica \ Visto en Ciberninjas \ Visto en Ciberninjas"
+   image_alt: "Conoce todo lo que debes saber sobre la Fundación Frontera Electrónica \ Visto en Ciberninjas"
    caption: "**Créditos**: EFF Creative Commons 3.0"
    teaser: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
 # sidebar:
