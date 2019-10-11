@@ -8,11 +8,12 @@ permalink: /guias/
 canonical_URL: https://ciberninjas.com/guias/
 author_profile: false
 entries_layout: grid
+classes: wide
 sort_by: date
 sort_order: reverse
-sidebar:
-- title: "Menú Principal"
-  nav: general
+# sidebar:
+# - title: "Menú Principal"
+#   nav: general
 ---
 
 Mis guías, bibliotecas, biblias o biblioguías, como me gusta llamarlos. Son artículos generados a través de un largo estudio documentado a través de la web y centrado en transmitir el máximo conocimiento posible sobre un único tema concreto.
