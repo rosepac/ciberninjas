@@ -3,6 +3,7 @@
 title: "📚 ▷ Más de 400 Libros PDF 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica"
 description: "🚀 Biblioteca de PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Biblia de Libros PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
+author_profile: true
 date: 2018-02-13T22:00:00.000+00:00
 last_modified_at: 2019-09-25T12:42:42-05:00
 permalink: /biblioteca-de-programacion-y-tecnologia/

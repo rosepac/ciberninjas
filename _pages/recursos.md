@@ -7,6 +7,7 @@ author: rosepac
 classes: wide
 comments: true
 date: 2019-07-17 08:07:47
+last_modified_at: 2019-10-11T19:10:42-05:00
 permalink: /recursos/
 sidebar:
 - title: "Menú Principal"
@@ -38,10 +39,9 @@ Gestor y Lector de Correos Electrónicos (también se le pueden agregar las fuen
     La mejor aplicación cliente que existe para visualizar lo mejor de Hacker News, las noticias diarias del día a día, y sobre todo lo que tenga que ver con el mundo de la programación, el desarrollo web y el diseño; además, de los mejores artículos de ciencia y otras varias curiosidades tecnológicas.
     - Infaltable si eres un geek o desarrollador de los de verdad.
 
-
 ## Software de Trabajo
 
-* Lightshot y 🛠 ShareX, es con casi toda la seguridad, la mejor herramienta de captura de pantallas que existe: https://getsharex.com/ #Herramienta #Capturas #Pantalla #Diseñador #Webmaster
+* Lightshot y 🛠 ShareX, son con casi toda la seguridad, la mejor herramienta de captura de pantallas que existe: https://getsharex.com/ #Herramienta #Capturas #Pantalla #Diseñador #Webmaster
 
 ### Editores de Texto
 
@@ -56,6 +56,9 @@ Simplenote. La aplicación más sencilla de poder gestionar tus pequeñas notas 
 * [Microsoft TO-DO]() La sustituta de Wunderlist, que siempre ha sido mi aplicación TO DO favorita, hasta ahora que sé, que dejará de estar continuada. Si lo que requieres es un control semana de las tareas del día a día, la aplicación perfecta es TodoIST. 
 
 Personalmente no le he dado uso, puesto que mis tareas no son tan metódicas ni planificadas en el tiempo. Por ello, no se ha llegado ha adaptar a mi día a día; aunque su diseño me ha encantado. 
+
+🚨 🚧 ⬇⬇⬇ CONTENIDO EN CONSTRUCCIÓN ⬇⬇⬇ 🚧 🚨
+{: .notice--warning}
 
 ## Meditando
 

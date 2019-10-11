@@ -3,6 +3,7 @@
 title: "👨‍🏫 ▷ Cursos de Educación Específicos para Docentes y Profesorado"
 description: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
 excerpt: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
+author_profile: true
 published: true
 date: 2019-10-04T17:00:00.000+00:00
 last_modified_at: 2019-10-04T19:10:42-05:00
