@@ -5,7 +5,9 @@ description: Guías de tecnología, de Programación, Software y Otros Contenido
 excerpt: "Guías Desde Cero a Profesional de Programación, Software y Otros Contenidos Tecnológicos"
 collection: guias
 permalink: /guias/
+canonical_URL: https://ciberninjas.com/guias/
 author_profile: false
+entries_layout: grid
 sort_by: date
 sort_order: reverse
 sidebar:
