@@ -7,38 +7,21 @@ published: true
 date: 2019-10-04 17:45:02
 last_modified_at: 2019-10-11 03:38:10
 # Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
-categories:
-- SDK Multiplataforma
-# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
-tags:
-- Ionic
-- Phonegap
-- Xamarin
-- Corona SDK
-- jQuery Mobile
-- Intel XDK
-- Flutter
-- Angular UI
-- Appcelerator
-- React
-- Native
-- Native Script
-- Weex
-- Unity
-- Qt
 header:
   image: "/assets/images/final_sdk_varios.jpg"
   image_description: "Los Mejores SDK Multiplaforma que existen para el año 2020 \ Visto en Ciberninjas"
   caption: "**Créditos**: Montaje Propio. Cada logotipo es propiedad de su correspondiente empresa."
+  teaser: "/assets/images/final_sdk_varios.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 permalink: /mejores-sdk-multiplataforma-2019-20
+canonical_URL: https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20
 
 ---
 
-> ✍ Framework~s 🚀 de desarrollo más impresionantes de aplicaciones móviles más populares que serán tu mejor herramienta para el resto del 2019 y todo el año nuevo 2020.
+✍ Framework~s 🚀 de desarrollo más impresionantes de aplicaciones móviles más populares que serán tu mejor herramienta para el resto del 2019 y todo el año nuevo 2020.
 
 ## Introducción
 
