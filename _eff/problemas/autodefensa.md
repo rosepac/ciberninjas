@@ -3,7 +3,7 @@ title: "🛡 Guía Autodefensa Digital de la Vigilancia"
 description: "✊ La Autodefensa de la Vigilancia por la Fundación Frontera Electrónica. Visto en Ciberninjas."
 excerpt: "✊ La Autodefensa de la Vigilancia por la Fundación Frontera Electrónica. Visto en Ciberninjas."
 date: 2019-10-08 18:00:10
-last_modified_at: 2019-10-09 11:50:10
+last_modified_at: 2019-10-11 10:18:10
 permalink: /eff/autodefensa/
 canonical_URL: https://ciberninjas.com/eff/autodefensa/
 published: true
@@ -16,7 +16,8 @@ published: true
 #    teaser: "https://i.ibb.co/yh0r3V9/logo.png"
 header:
   image: "https://i.ibb.co/yh0r3V9/logo.png"
-  image_description: "Defiéndete de la Vigilancia Tecnológica por la Fundación Frontera Electrónica \ Visto en Ciberninjas"  caption: "**Créditos**: Edición Personal Sobre Foto de Emiliano Vittoriosi en Unsplash"
+  image_description: "Defiéndete de la Vigilancia Tecnológica por la Fundación Frontera Electrónica \ Visto en Ciberninjas"
+  caption: "**Créditos**: Edición Personal Sobre Foto de Emiliano Vittoriosi en Unsplash"
   image_alt: "Defiéndete de la Vigilancia Tecnológica por la Fundación Frontera Electrónica \ Visto en Ciberninjas"
   caption: " Créditos: EFF Creative Commons 3.0"
   teaser: "https://i.ibb.co/yh0r3V9/logo.png"

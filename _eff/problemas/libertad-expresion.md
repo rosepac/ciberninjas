@@ -12,6 +12,7 @@ header:
    image_description: "La libertad de expresión es uno de los principales focos de preocupación dentro de la Fundación Frontera Electrónica \ Visto en Ciberninjas"
    image_alt: "La libertad de expresión es uno de los principales focos de preocupación dentro de la Fundación Frontera Electrónica \ Visto en Ciberninjas"
    caption: "**Créditos**: EFF Creative Commons 3.0"
+   teaser: "https://i.ibb.co/v4gmbnC/icon-free-speech-1.png"
 # sidebar:
 # - title: "Catálogo"
 #   nav: tienda
