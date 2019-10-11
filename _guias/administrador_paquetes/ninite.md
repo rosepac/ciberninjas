@@ -6,7 +6,7 @@ published: true
 author: rosepac
 comments: true
 date: 2019-06-20 11:06:39
-last_modified_at: 2019-08-26
+last_modified_at: 2019-10-11
 permalink: /ninite/
 canonical_URL: https://ciberninjas.com/ninite/
 header:

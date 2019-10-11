@@ -5,7 +5,7 @@ excerpt: "📌 Chocolatey es el mejor instalador múltiple 👨‍💻 administr
 published: true
 comments: true
 date: 2018-03-01 07:03:36
-last_modified_at: 2019-08-21T18:29:02-05:00
+last_modified_at: 2019-10-11T18:29:02-05:00
 permalink: /chocolatey/
 canonical_URL: https://ciberninjas.com/chocolatey/
 header:
