@@ -11,7 +11,7 @@ tags:
 - Suite Ofimática
 link: https://blog.desdelinux.net/wps-office-2019-excelente-moderna-alternativa-libreoffice/
 header:
-  overlay_image: "/assets/images/wps"
+  overlay_image: "/assets/images/wps-office-2019-full.jpg"
   overlay_filter: "0.2"
   image_description: "Nueva versión de la Suite Ofimática WPS Office 2019, la alternativa real de Office | Ciberninjas"
   caption: "**Créditos**: Captura creada por ROSEPAC"
