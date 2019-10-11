@@ -1,6 +1,6 @@
 ---
 
-title: Nuestro problema con las dependencias del software, por Russ Cox
+title: 📰 Nuestro problema con las dependencias del software, por Russ Cox
 published: true
 author: rosepac
 comments: true

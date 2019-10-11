@@ -8,15 +8,13 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-<!-- # Programación -->
-
-## 👩‍💻 Artículos Programación
+## 👩‍💻 Artículos de Programación
 
 * [👨‍💻 ▷ Cómo Aprender a Programar desde Cero](/programar/)
 * [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/)
 * [Nuestro problema con las dependencias del software, por Russ Cox](/nuestro-problema-con-las-dependencias-del-software-por-russ-cox)
 
-## 🔧 Artículos Framework´s
+## 🔧 Artículos de Framework´s
 
 * [👨‍💻 Los 14 Mejores Framework / SDK de Desarrollo de Aplicaciones 2019 / 2020](/mejores-sdk-multiplataforma-2019-20)
 * [📰 Ionic 4.0: Introducción Ionic para todos](/ionic-4-0-introduccion-ionic-para-todos)
@@ -37,12 +35,12 @@ toc_sticky: true
 * [🤖 ▷ La Guía Web de robots y robots.txt](/robots-txt/)
 * [🤖 ▷ Preguntas Frecuentes Sobre robots.txt](/robots-txt-preguntas-frecuentes/)
 
-## 🦾 Artículos Tecnología
+## 🦾 Artículos de Tecnología
 
 * [📰 7 Predicciones Tecnológicas del Futuro para 2019](/7-predicciones-tecnologicas-del-futuro-para-2019)
 * [🤖 Generador de Texto a través de IA: Modelado de Lenguaje a Gran Escala](/generador-de-texto-a-través-de-ia-modelado-de-lenguaje-a-gran-escala/)
 
-## 🔍 Artículos SEO y Posicionamiento Web
+## 🔍 Artículos de SEO y Posicionamiento Web
 
 * [🕵️‍♀️ Más Opciones para Ayudar a los Sitios Web a Obtener una Vista Previa de su Contenido en la Búsqueda de Google](/opciones-ayudar-sitios-web-vista-previa)
 * [📰 Complemento Oficial de AMP Versión Estable 1.0 para Wordpress](/complemento-oficial-de-amp-version-estable-1-0-para-wordpress)
@@ -51,7 +49,7 @@ toc_sticky: true
 
 * [🎧 Música para programar 2019: Versión 1](/musica-para-programar-2019-version-1)
 
-## 🛒 Biblioteca Libros Recomendados
+## 🛒 Biblioteca de Libros Recomendados
 
 * [👨‍💻 Aprende a Programar Swift - Programación iOS](/catalogo/aprende-a-programar-swift-programacion-ios/)
 * [🔐 El Arte de la Invisibilidad](/catalogo/el-arte-de-la-invisibilidad/)
@@ -71,12 +69,12 @@ toc_sticky: true
 * [🎓🗓 Las Mejores & Más Actuales Agendas Escolares del Año 2019](/las-mejores-agendas-escolares-2019/)
 * [🎓🗓 Las Mejores & Más Actuales Agendas Escolares del Año 2019 - Segunda Parte](/las-mejores-agendas-escolares-2019-2/)
 
-## Secciones 👨‍💻
+## ✂ Secciones
 
-### Videotutoriales
+### 👨‍🏫 Videotutoriales
 
 * [👨‍🏫 Videotutoriales](/videotutoriales/)
 
-### Videoteca
+### 🎥 Videoteca 
 
 * [🎥 Videoteca](/videoteca/)
