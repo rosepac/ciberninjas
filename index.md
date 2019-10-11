@@ -6,12 +6,12 @@ author_profile: true
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
-toc_sticky: true
+toc_sticky: false
 ---
 
 ## 🐱‍🏍 Qué es Ciberninjas
 
-* [💡 Descubre la filosofía Ciberninjas](/que-es-ciberninjas/)
+* 💡 Descubre la filosofía Ciberninjas
 
 ## 👩‍💻 Artículos de Programación
 
@@ -89,13 +89,13 @@ toc_sticky: true
 
 ## 🔥 Proyectos
 
-## 🛡 Fundación Frontera Electrónica
+## ⚔ Fundación Frontera Electrónica
 
 * [🚨 Qué es la Fundación Frontera Electrónica](/eff/fundacion-frontera-electronica/)
 * [📢 La Libertad de Expresión según la EFF](/eff/libertad-expresion/)
 * [🚨 La Privacidad según la EFF](/eff/privacidad/)
 * [🥊 Guía de Autodefensa Digital](/eff/autodefensa/)
-* [📖 EFF](/eff/)
+* [📖 Índice EFF](/eff/)
 
 ## 🏛 Historia de la Computadora
 

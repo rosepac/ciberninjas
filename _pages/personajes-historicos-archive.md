@@ -14,14 +14,14 @@ sort_order: reverse
 classes: wide
 entries_layout: grid
 published: true
-author_profile: false
+author_profile: true
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
+# sidebar:
+# - title: "Historia Computadora"
+#   nav: historia
 ---
 
 **IMPORTANTE**: El contenido en esta página incluido y traducido además de las páginas adyacentes sobre el directorio de ```/personajes-historicos/``` así como las fotografías incluidas se encuentran bajo los derechos de autoría y Copyright © 2019 de Computer History Museum. NO COPIAR, NI REPRODUCIR sin su consentimiento previo.
