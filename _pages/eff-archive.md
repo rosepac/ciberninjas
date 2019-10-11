@@ -13,7 +13,9 @@ toc_icon: user-ninja
 toc_sticky: true
 sort_by: title
 sort_order: reverse
-author_profile: false
+author_profile: true
+entries_layout: grid
+classes: wide
 # sidebar:
 # - title: "Menú Principal"
 #   nav: general

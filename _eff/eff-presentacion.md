@@ -13,6 +13,7 @@ header:
    image_description: "Conoce todo lo que debes saber sobre la Fundación Frontera Electrónica \ Visto en Ciberninjas"
    image_alt: "Conoce todo lo que debes saber sobre la Fundación Frontera Electrónica \ Visto en Ciberninjas \ Visto en Ciberninjas"
    caption: "**Créditos**: EFF Creative Commons 3.0"
+   teaser: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
 # sidebar:
 # - title: "Catálogo"
 #   nav: tienda
@@ -24,7 +25,7 @@ toc_sticky: true
 ---
 
 <figure>
-    <img src="https://i.ibb.co/PM59NRf/eff-work-icons-3-COLOR-fix.png" alt="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas" title="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas"></a>
+    <img src="https://i.ibb.co/PM59NRf/eff-work-icons-3-COLOR-fix.png" alt="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas" title="Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas">
     <figcaption>Imagen que representa los diferentes valores de la EFF \ Visto en Ciberninjas</figcaption>
 </figure>
 
