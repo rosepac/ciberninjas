@@ -12,6 +12,7 @@ header:
   image: "/assets/images/chocolatey-ciberninjas.jpg"
   image_description: Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows
   caption: "**Créditos**: Creación Propia"
+  teaser: image: "/assets/images/chocolatey-ciberninjas.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
