@@ -2,6 +2,12 @@
 
 layout: home
 author_profile: true
+date: 2019-10-11 17:20:30
+last_modified_at:
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
 ---
 
 ## Artículos Programación 👩‍💻
@@ -22,7 +28,6 @@ author_profile: true
 * [📚 ▷ Más de 400 Libros PDF 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica](/biblioteca-de-programacion-y-tecnologia/)
 * [👨‍💻 ▷ Recursos Educativos DAW, Ciclo de Formación Profesional de Desarrollo de Aplicaciones Web](/recursos-daw/)
 * [👨‍🏫 ▷ Cursos de Educación Específicos para Docentes y Profesorado](/cursos-educacion/)
-{: .notice--primary}
 
 ## Guías 📖
 
