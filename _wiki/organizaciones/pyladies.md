@@ -17,7 +17,7 @@ agenda-wars-1:
   - url: https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg
     image_path: https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg
     alt: "Dennis Rex bajo [Licencia Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)"
-    title: Author: Dennis Rex bajo "[Licencia Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)"
+    title: "Dennis Rex bajo [Licencia Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)"
 
 ---
 
