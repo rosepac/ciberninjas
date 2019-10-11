@@ -5,7 +5,7 @@ description: '🚀 Ojeamos los frameworks más impresionantes y populares de des
 excerpt: '🚀 Ojeamos los frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2019 / 2020.'
 published: true
 date: 2019-10-04 17:45:02
-last_modified_at: 2019-10-05 18:18:10
+last_modified_at: 2019-10-11 03:38:10
 # Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
 - SDK Multiplataforma
@@ -140,7 +140,7 @@ Repositorio: [Código Native Script](https://kutt.it/repositorionativescript "C�
 
 ## Appcelerator Titanium
 <figure>
-    <a href="/assets/images/sdk_paginas/jquery_movil_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/jquery_movil_1.jpg"></a>
+    <a href="/assets/images/sdk_paginas/appcelerator_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/appcelerator_1.jpg"></a>
     <figcaption>Appcelerator Titanium, visto en Ciberninjas</figcaption>
 </figure>
  Appcelerator Titanium utiliza una combinación de PhoneGap y Xamarin. Este marco utiliza JavaScript para escribir el código y es compatible con plataformas Android e iOS. Sin embargo, no viene con framework de CSS y HTML ni nada que lo implemente de forma directa.
