@@ -1,14 +1,13 @@
 ---
 
-layout: home
+layout: single
+title: Ciberninjas
 author_profile: true
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 ---
-
-# 👩‍💻 Artículos de Programación
 
 * [👨‍💻 ▷ Cómo Aprender a Programar desde Cero](/programar/)
 * [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/)
