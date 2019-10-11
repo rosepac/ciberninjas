@@ -12,6 +12,7 @@ canonical_URL: https://ciberninjas.com/personajes-historicos/
 sort_by: date # (default) title
 sort_order: reverse
 classes: wide
+entries_layout: grid
 published: true
 author_profile: false
 toc: true
@@ -142,4 +143,4 @@ Entre ellos poseen en común una misma herramienta, la computadora; y sus logros
 
 <!-- Saber Más -->
 
-## Biografías Más Recientes..
+## 🔥 Biografías Más Recientes.. 👇
