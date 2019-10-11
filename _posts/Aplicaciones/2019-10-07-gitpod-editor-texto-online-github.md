@@ -3,7 +3,7 @@ title: "👩‍💻 Gitpod: Editor de Código Online, ¡Vamos a Programar Desde 
 author_profile: true
 description: '👩‍💻 Gitpod: Editor de Código Online, ¡Vamos a Programar Desde el Navegador!'
 excerpt: '👩‍💻 Gitpod: Editor de Código Online, ¡Vamos a Programar Desde el Navegador!'
-published: true
+published: false
 date: 2019-10-07 16:30:02
 # Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:

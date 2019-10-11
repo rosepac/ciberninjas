@@ -13,6 +13,7 @@ header:
   image: "/assets/images/seo-posicionamiento-ciberninjas.webp"
   image_description: El SEO y el Posicionamiento, vamos a aprender desde cero todo lo que debemos saber | Ciberninjas
   caption: "**Créditos**: Edición Personal Sobre Foto de Merakist en Unsplash"
+  teaser: "/assets/images/seo-posicionamiento-ciberninjas.webp"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

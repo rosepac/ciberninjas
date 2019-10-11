@@ -11,8 +11,10 @@ permalink: /ninite/
 canonical_URL: https://ciberninjas.com/ninite/
 header:
   image: "/assets/images/ninite-ciberninjas.jpg"
+  teaser: "/assets/images/ninite-ciberninjas.jpg"
   image_description: "👷‍♂️ Ninite: Sistema de Gestión o Instalador Múltiple 👨‍💻 de Paquetes, Programas y Aplicaciones en Windows | Ciberninjas"
   caption: "**Créditos**: Logo Ninite + Edición Propia"
+  teaser: "/assets/images/ninite-ciberninjas.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -71,8 +73,9 @@ Estos tipo de enlaces son excelentes para hacer soporte técnico remoto en orden
 ## 🏳 Selección de Idioma
 
 De forma predeterminada, los instaladores Ninite instalan las aplicaciones en el idioma actual del sistema operativo del usuario. Esto se puede anular con el comando modificador /locale; por ejemplo (para francés) ejecuta desde la consola o CMD:
+
 ```
-    [your ninite .exe] /locale fr-FR
+[your ninite .exe] /locale fr-FR
 ```  
 
 Esto descarga e instala las aplicaciones en el idioma especificado. Para algunas aplicaciones, el idioma de la interfaz de usuario todavía tendrá que cambiarse manualmente en la configuración de la aplicación después de que se complete la instalación.

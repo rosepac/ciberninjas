@@ -1,5 +1,5 @@
 ---
-title: '🎨 Librerías Front-End para el Desarrollador Web'
+title: '🎨 Genera tus Mejores Diseños con Estas Librerías Front-End Impresionantes'
 description: '👨‍🎨 Las mejores librerías Js que podrás aprovechar para dar el mejor aspecto a todos tus proyectos volviéndolos mucho más espectaculares.' 
 excerpt: '👨‍🎨 Las mejores librerías Js que podrás aprovechar para dar el mejor aspecto a todos tus proyectos volviéndolos mucho más espectaculares.' 
 published: true

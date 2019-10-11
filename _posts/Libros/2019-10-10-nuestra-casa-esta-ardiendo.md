@@ -40,7 +40,7 @@ sidebar:
   - title: "Precio Mínimo"
     text: " €"
     nav: catalogo
-    
+published: false
 ---
 
 INTRODUCCION

@@ -42,7 +42,44 @@ Hackr.IO Python > https://hackr.io/tutorials/learn-python?sort=upvotes&type_tags
 
 Encuentra los 30 mejores blogs de Python en nuestro índice. Consulta también la lista de canales principales de YouTube de Python para ver los mejores videos relacionados Python.
 
- [Planeta Scipy](https://planet.scipy.org/#)
+1. Planeta Scipy
+
+👉 [Leer Artículos 📰](https://planet.scipy.org/# ""){:target="_blank"}
+
+2. s
+
+👉 [Leer Artículos 📰]( ""){:target="_blank"}
+
+3. s
+
+👉 [Leer Artículos 📰]( ""){:target="_blank"}
+
+4. s
+
+👉 [Leer Artículos 📰]( ""){:target="_blank"}
+
+5. s
+
+👉 [Leer Artículos 📰]( ""){:target="_blank"}
+
+6. s
+
+👉 [Leer Artículos 📰]( ""){:target="_blank"}
+
+7. s
+
+👉 [Leer Artículos 📰]( ""){:target="_blank"}
+
+8. s
+
+👉 [Leer Artículos 📰]( ""){:target="_blank"}
+
+9.  ss
+10. s
+11. s
+12. s
+13. 
+👉 [Leer Artículos 📰]( ""){:target="_blank"}
 
 ## Los Mejores 23 Canales de Youtube sobre Programación con Python en Inglés
 

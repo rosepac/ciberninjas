@@ -79,8 +79,10 @@ Además, **Chocolatey** nos ofrece actualmente hasta nada más y nada menos que 
 El software, ha sido ya, descargado más de 113 millones de veces. Lo que habla muy bien del alcance que ha logrado y de la comodidad que es capaz de aportarnos.
 
 ## ⚙ Comando
- Si quieres conocer todos los comandos existentes dentro de Chocolatey, solo debes ejecutar `choco comand -help` luego de la instalación del propio programa
-### 👉 Lista de Comandos:
+
+Si quieres conocer todos los comandos existentes dentro de Chocolatey, solo debes ejecutar `choco comand -help` luego de la instalación del propio programa
+
+### 👉 Lista de Comandos
 
 - _**list**_: lista de paquetes remotos o locales
 - _**search**_: busca paquetes remotos o locales (alias para la lista)

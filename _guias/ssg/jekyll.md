@@ -10,6 +10,7 @@ header:
   image: "/assets/images/jekyll-blog.jpg"
   image_description: Jekyll, generador de sitios estáticos | Ciberninjas
   caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"
+  teaser: "/assets/images/jekyll-blog.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
