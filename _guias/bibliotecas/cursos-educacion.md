@@ -169,3 +169,4 @@ toc_sticky: false
 
 <!-- BUSCAR RECURSOS A LO LARGO DE MIS MARCADORES XD XD XD -->
 
+<div class="hackr-widget" data-tutorial="photoshop-expert-course" data-type="1"></div><script src="https://hackr.io/widget.js?v=1.0"></script>

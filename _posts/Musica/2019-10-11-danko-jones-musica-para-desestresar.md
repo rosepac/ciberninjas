@@ -5,7 +5,7 @@ description: "🎧 Danko Jones. El Mejor Rock Roll Star Vivo"
 excerpt: "🎧 Danko Jones. El Mejor Rock Roll Star Vivo  "
 header:
   video:
-    id: PLKMVpZCIGhq1kyrlyzHvehrqy4k0QlX4h
+    id: playlist?list=PLKMVpZCIGhq1kyrlyzHvehrqy4k0QlX4h
     provider: youtube
 comments: true
 date: 2019-10-10 23:11:12
