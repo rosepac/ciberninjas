@@ -8,7 +8,7 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-## 👩‍💻 Artículos de Programación
+# 👩‍💻 Artículos de Programación
 
 * [👨‍💻 ▷ Cómo Aprender a Programar desde Cero](/programar/)
 * [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/)
@@ -73,8 +73,17 @@ toc_sticky: true
 
 ### 👨‍🏫 Videotutoriales
 
+<a href="/categoria/#videotutorial-scratch" title="Mejores Videotutoriales y Más Actuales sobre Programación para Niños / Niñas con Scratch" class="btn btn--success btn--large"><i class="fas fa-cat"></i> Programación Infantil</a> <a href="/categoria/#videotutorial-seo-y-posicionamiento" title="Mejores Videotutoriales y Más Actuales sobre el SEO y el Posicionamiento Web" class="btn btn--success btn--large"><i class="fas fa-arrow-circle-up"></i> Seo & Posicionamiento</a> <a href="/categoria/#videotutorial-android-studio" title="Mejores Videotutoriales y Más Actuales sobre el SEO y el Posicionamiento Web" class="btn btn--success btn--large"><i class="fab fa-android"></i> Android Studio</a> <a href="/categoria/#videotutorial-javascript" title="Mejores Videotutoriales y Más Actuales sobre Javascript" class="btn btn--success btn--large"><i class="fab fa-js-square"></i> Javascript</a> <a href="/categoria/#videotutorial-wordpress" title="Mejores Videotutoriales de Wordpress y diseño de plantillas Wordpress" class="btn btn--success btn--large"><i class="fab fa-wordpress"></i> Wordpress</a> <a href="/categoria/#videotutorial-seguridad" title="Mejores Videotutoriales de Seguridad Informática Sobre Frameworks y CMS" class="btn btn--success btn--large"><i class="fas fa-lock"></i> Seguridad</a>
+
+## Framework CSS & HTML / Front-End / Diseño 
+
+<a href="/categoria/#videotutorial-bootstrap" title="Mejores Videotutoriales de Diseño sobre Bootstrap" class="btn btn--success btn--large"><i class="fab fa-bootstrap"></i> Bootstrap</a> <a href="/categoria/#videotutorial-material-design" title="Mejores Videotutoriales de Diseño sobre Material Design" class="btn btn--success btn--large"><i class="fas fa-pencil-ruler"></i> Material Design</a>
+
 * [👨‍🏫 Videotutoriales](/videotutoriales/)
 
 ### 🎥 Videoteca 
+
+[👨‍👧 Conciencia](/categoria/#v%C3%ADdeo-conciencia-ciudadana "Documentales relacionados con el pensamiento y la conciencia de remordimiento de la Sociedad Actual"){: .btn .btn--success .btn--large"} [👩‍🏫 Educación](/categoria/#v%C3%ADdeo-educaci%C3%B3n "Documentales relacionados con la educación y los nuevos pensamientos de paradigmas y metodologías alternativas"){: .btn .btn--success .btn--large} [🔐 Seguridad](/categoria/#v%C3%ADdeo-seguridad-inform%C3%A1tica "Documentales de Seguridad Informática"){: .btn .btn--success .btn--large} [🎬 Películas](/categoria/#v%C3%ADdeo-pel%C3%ADculas "Trailers y Extractos de las Películas Nuevas y Antiguas Más Impresionantes que Conozco o He Visto"){: .btn .btn--success .btn--large}
+ [🎥 Series](/categoria/#vídeo-series "Trailers y Extractos de las Series Nuevas y Antiguas Más Impresionantes que Conozco o He Visto"){: .btn .btn--success .btn--large} [🎮 Videojuegos](/categoria/#vídeo-videojuegos "Trailers y Extractos de los Videojuegos Nuevas Más Impresionantes y Esperados del 2019"){: .btn .btn--success .btn--large}
 
 * [🎥 Videoteca](/videoteca/)
