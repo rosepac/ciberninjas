@@ -30,7 +30,7 @@ La EFF es la principal organización sin fines de lucro que defiende la privacid
 
 En el artículo de <a href="/eff/fundacion-frontera-electronica/" title="Publicación sobre la EFF">presentación</a> podrás conocer toda sus ideologías y pensamiento.
 
-Las diferentes aspectos que protege e intenta dar visibilidad la EEF (Electronic Frontier Foundation) son la libertad de expresión, la privacidad, la creación e innovación, la transparencia, la internacionalidad y la seguridad.</p>
+Las diferentes aspectos que protege e intenta dar visibilidad la EEF (Electronic Frontier Foundation) son la libertad de expresión, la privacidad, la creación e innovación, la transparencia, la internacionalidad y la seguridad.
 
 Además de todo esto, la EFF difunde y promueve diferentes proyectos y herramientas; entre otras: el badge de privacidad, HTTPS para todos, Autodefensa de la Vigilancia, Certbot y Panopticlick.
 
