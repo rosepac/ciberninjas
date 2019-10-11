@@ -7,6 +7,8 @@ date: 2003-04-05
 published: true
 permalink: /personajes-historicos/tim-berners-lee/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/sir-tim-berners-lee/
+header:
+  teaser:
 sidebar:
 - title: "Historia Computadora"
   nav: historia

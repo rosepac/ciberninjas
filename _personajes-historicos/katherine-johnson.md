@@ -7,6 +7,8 @@ date: 2019-04-05
 published: true
 permalink: /personajes-historicos/katherine-johnson/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/katherine-johnson/
+header:
+  teaser:
 sidebar:
 - title: "Historia Computadora"
   nav: historia

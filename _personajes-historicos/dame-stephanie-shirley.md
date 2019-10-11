@@ -7,6 +7,8 @@ date: 2018-04-05
 published: true
 permalink: /personajes-historicos/dame-stephanie-shirley/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/dame-stephanie-shirley/
+header:
+  teaser: https://images.computerhistory.org/fellows/dsshirley.jpg
 sidebar:
 - title: "Historia Computadora"
   nav: historia
