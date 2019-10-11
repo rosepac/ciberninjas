@@ -6,7 +6,7 @@ permalink: /eff/anonimato/
 canonical_URL: https://ciberninjas.com/eff/anonimato/
 date: 2019-10-11
 last_modified_at: 2019-10-11
-published: true
+published: false
 header:
    overlay_image: "https://i.ibb.co/L6FfrxY/secret-identity-2-0.png"
    overlay_filter: "0.2"
