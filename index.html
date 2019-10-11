@@ -1,10 +1,14 @@
 ---
 
-layout: home
+layout: splash
 author_profile: true
 portada: portada.md 
 
 ---
+
+{% if page.portada %}
+  {% include {{ page.portada }} %}
+{% endif %}
 
 {% if page.portada %}
   {% include {{ page.portada }} %}
