@@ -1,22 +1,22 @@
 main:
-  - title: "🛒 Tienda"
+  - title: "🐱‍🏍 Quién Soy"
+    url: /quien-soy/
+  - title: "🛒 Catálogo"
     url: /catalogo/
-  - title: "📚 Guías"
-    url: /guias/
-  - title: "📖 Libros"
-    url: /biblioteca-de-programacion-y-tecnologia/
-  - title: "🎓 Cursos"
-    url: /cursos-tecnologia/
-  - title: "👨‍🏫 Tutoriales"
-    url: /videotutoriales/
-  - title: "🎥 Videoteca"
-    url: /videoteca/
+#  -  title: "📚 Guías"
+#    url: /guias/
+#  - title: "📖 Libros"
+#    url: /biblioteca-de-programacion-y-tecnologia/
+#  - title: "🎓 Cursos"
+#    url: /cursos-tecnologia/
+#  - title: "👨‍🏫 Tutoriales"
+#    url: /videotutoriales/
+#  - title: "🎥 Videoteca"
+#    url: /videoteca/
   - title: "🌈 Categorías"
     url: /categoria/
   - title: "🏷 Etiquetas"
     url: /etiqueta/
-  - title: "😽 Quién Soy"
-    url: /quien-soy/
   - title: "ℹ Aviso Legal"
     url: /aviso-legal/
 
