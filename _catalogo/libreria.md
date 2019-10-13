@@ -21,13 +21,21 @@ Los enlaces aqu&iacute; expuestos, trabajan a trav&eacute;s de Coockies de Amazo
 
 * [Los Libros Anuales Recomendados por Obama, 2019](/los-libros-de-obama-2019/)
 
-## Autores de Novelas y Bibliograf&iacute;as Completas
-
-Novelas de autores que han aparecido o se han citado a lo largo de las publicaciones internas del blog o bien he conocido a través de alguna otra noticia sobre tecnología o interés.
-
 ## Desarrollo Personal
 
 * Mentalidad Mamba [Tapa Dura](https://amzn.to/2pQYs1R) \ [Ebook](https://amzn.to/2M0QGv9)
+
+<center><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07VPRRYPY&linkId=8e1682c9541cb9f986c4f46ef9b03c54"></iframe></center>
+
+## Sociología
+
+* Nuestra Casa Está Ardiendo [TAPA BLANDA](https://amzn.to/2MenQqY) \ [EBOOK](https://amzn.to/2qb7mHN)
+
+<center><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07YGXHY6L&linkId=5bb79cfd2b05f3971e7522b7040a4df0"></iframe></center>
+
+## Autores de Novelas y Bibliograf&iacute;as Completas
+
+Novelas de autores que han aparecido o se han citado a lo largo de las publicaciones internas del blog o bien he conocido a través de alguna otra noticia sobre tecnología o interés.
 
 ### [Toni Morrison](#toni-morrison)
 
