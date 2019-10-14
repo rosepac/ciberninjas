@@ -6,16 +6,14 @@ excerpt: "🎓 ▷ Módulos Catalogados por Diferentes Rutas de Aprendizaje e In
 author_profile: true
 date: 2018-10-14TT18:03:00
 last_modified_at:
+header:
+  image: "/assets/images/academia-microsoft-ciberninjas.jpg"
+  image_description: Cursos Múltiples de Microsoft. Catalogados por Diferentes Rutas de Aprendizaje e Intereses | Ciberninjas
+  caption: "**Créditos**: Photo by [Ashkan Forouzani](https://unsplash.com/@ashkfor121?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/microsoft?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) editado por Ciberninjas"
+  teaser: "/assets/images/academia-microsoft-ciberninjas.jpg"
 published: true
 permalink: /cursos-tecnologia-microsoft/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia-microsoft/
-# image: 
-#   path: &image /assets/images/imac-glitch-feature.jpg
-#   width: 1024
-#   height: 512
-#   feature: *image
-# twitter:
-#   card: summary_large_image
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
