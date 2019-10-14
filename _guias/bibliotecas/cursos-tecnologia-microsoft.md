@@ -1,6 +1,6 @@
 ---
 # Página Base
-title: "👩‍🎓 ▷ Cursos Múltiples de Microsoft. Catalogados por Diferentes Rutas de Aprendizaje e Intereses"
+title: "👩‍🎓 ▷ Cursos Múltiples de Microsoft, por Diferentes Rutas de Aprendizaje"
 description: "🎓 ▷ Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
 excerpt: "🎓 ▷ Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
 author_profile: true
