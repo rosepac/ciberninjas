@@ -3,8 +3,10 @@ main:
     url: /quien-soy/
   - title: "🛒 Catálogo"
     url: /catalogo/
-#  -  title: "📚 Guías"
-#    url: /guias/
+  -  title: "📚 Guías"
+    url: /guias/
+  - title: "🧰 Recursos"
+    url: https://kutt.it/recursos-globales"
 #  - title: "📖 Libros"
 #    url: /biblioteca-de-programacion-y-tecnologia/
 #  - title: "🎓 Cursos"
@@ -19,8 +21,6 @@ main:
     url: /etiqueta/
   - title: "ℹ Aviso Legal"
     url: /aviso-legal/
-  - title: "🧰 Recursos"
-    url: https://kutt.it/recursos-globales"
 # Cambiar enlace de recursos por el enlace de recursos de mi página de programas y dentro de ella añadir este enlace de Notion
 # Menú del Catálogo de Productos en Venta
 # catalogo:
