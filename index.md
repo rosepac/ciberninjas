@@ -89,7 +89,7 @@ toc_sticky: false
 
 ## 🔥 Proyectos
 
-## ⚔ Fundación Frontera Electrónica
+## 🛡 Fundación Frontera Electrónica
 
 * [🚨 Qué es la Fundación Frontera Electrónica](/eff/fundacion-frontera-electronica/)
 * [📢 La Libertad de Expresión según la EFF](/eff/libertad-expresion/)
