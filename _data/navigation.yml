@@ -3,7 +3,7 @@ main:
     url: /quien-soy/
   - title: "🛒 Catálogo"
     url: /catalogo/
-  -  title: "📚 Guías"
+  - title: "📚 Guías"
     url: /guias/
   - title: "🧰 Recursos"
     url: https://kutt.it/recursos-globales"
