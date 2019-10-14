@@ -32,7 +32,7 @@ A tener en cuenta, que se debe iniciar sesión a través de una [cuenta de Outlo
 
 * [Desarrollo de aplicaciones de Windows 10](https://docs.microsoft.com/es-es/learn/paths/develop-windows10-apps){:target="_blank"}
 
-## Aprendizaje Profundo / Machine Learning
+## Aprendizaje Profundo
 
 * [Compilación de soluciones de IA con Azure Machine Learning Service](https://docs.microsoft.com/es-es/learn/paths/build-ai-solutions-with-azure-ml-service){:target="_blank"}{:target="_blank"}
 * [Desarrollo de soluciones de IA con los servicios de ciencia de datos en Azure](https://docs.microsoft.com/es-es/learn/paths/explore-data-science-tools-in-azure){:target="_blank"}{:target="_blank"}
@@ -127,7 +127,9 @@ A tener en cuenta, que se debe iniciar sesión a través de una [cuenta de Outlo
 * [Compilación de aplicaciones móviles con Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/build-mobile-apps-with-xamarin-forms){:target="_blank"}
 * [Personalización e incorporación de características avanzadas en aplicaciones de Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/customize-your-xamarin-forms-apps){:target="_blank"}
 
-## 📹 Videotutoriales del Canal 9 de Microsoft
+## 📹 Videotutoriales de Microsoft
+
+Vídeos existentes en español dentro del Canal de tutorial Channel 9 que es mantenido por Microsoft. Proximamente, más y catalogados por temáticas 😉
 
 <!-- cursos de NOTEPAD: PUBLICACIONES FACEBOOK -->
 * [Análisis de Datos con Power BI - Inicio](/curso-iniciando-power-bi-microsoft-tv) (Microsoft Channel 9)
