@@ -1,14 +1,14 @@
 ---
 # Página Base
-title: "🎓 ▷ Más de 800 Cursos 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica"
-description: "🚀 Biblia de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
-excerpt: "🚀 Biblia de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
+title: "👩‍🎓 ▷ Cursos Múltiples de Microsoft. Catalogados por Diferentes Rutas de Aprendizaje e Intereses"
+description: "🎓 ▷ Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
+excerpt: "🎓 ▷ Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
 author_profile: true
-date: 2018-02-13T22:00:00.000+00:00
-last_modified_at: 2018-10-14T12:42:42-05:00
-published: false
+date: 2018-10-14TT18:03:00
+last_modified_at:
+published: true
 permalink: /cursos-tecnologia-microsoft/
-canonical_URL: /cursos-tecnologia-microsoft/
+canonical_URL: https://ciberninjas.com/cursos-tecnologia-microsoft/
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
 #   width: 1024
@@ -22,10 +22,7 @@ toc_icon: user-ninja
 toc_sticky: false
 
 ---
-<!-- CURSOS AGREGADOS DESDE AQUI: https://docs.microsoft.com/es-es/learn/browse/?resource_type=learning%20path&page=2 
-<!-- ME HE QUEDADO A PARTIR DE CREACIÓN DE UNA APLICACIÓN CONTROLADA POR MODELOS EN POWERAPPS -->
-
-Estos son las diferentes rutas de aprendizaje formadas por varios módulos cada una de ellas que existen en el lenguaje de español dentro de la nueva plataforma de aprendizaje de Microsoft.
+Estos son las diferentes rutas de aprendizaje formadas por varios de los infinitos módulos que existen dentro de la "Academia" de Microsoft. Si no me equivoco, dentro de estas "rutas" se incluyen todos los módulos en español existentes; por lo tanto, podremos tomarnos esto como un resumen más concreto de los 817 módulos que os [compartir por la mañana](https://www.facebook.com/cibercursos/posts/936589840056890){:target="_blank"}.
 
 Se debe iniciar sesión a través de una [cuenta de Outlook](https://kutt.it/cuentaoutlook){:target="_blank"} si se desea guardar el registro del avanza de los módulos.
 
@@ -86,26 +83,6 @@ Se debe iniciar sesión a través de una [cuenta de Outlook](https://kutt.it/cue
 * [Uso de datos NoSQL en Azure Cosmos DB](https://docs.microsoft.com/es-es/learn/paths/work-with-nosql-data-in-azure-cosmos-db){:target="_blank"}
 * [Uso de datos relacionales en Azure](https://docs.microsoft.com/es-es/learn/paths/work-with-relational-data-in-azure){:target="_blank"}
 
-## PowerApps
-
-* [Creación de una aplicación controlada por modelos en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-app-models-business-processes){:target="_blank"}
-* [Creación de una aplicación de lienzo en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-powerapps){:target="_blank"}
-* [Dominio de técnicas avanzadas para aplicaciones de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/understand-advanced-topics){:target="_blank"}
-* [Trabajo con datos en una aplicación de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/work-with-data-in-a-canvas-app){:target="_blank"}
-* [Uso de conectores y opciones de datos avanzados en PowerApps](https://docs.microsoft.com/es-es/learn/paths/advanced-data-options-and-connectors){:target="_blank"}
-* [Uso de fórmulas básicas para conseguir mejores aplicaciones de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/use-basic-formulas-powerapps-canvas-app){:target="_blank"}
-* [Uso de la interfaz de usuario y controles en una aplicación de lienzo en PowerApps](https://docs.microsoft.com/es-es/learn/paths/ui-controls-canvas-app-powerapps){:target="_blank"}
-
-## Power BI
-
-* [Consumo de datos con Power BI](https://docs.microsoft.com/es-es/learn/paths/consume-data-with-power-bi){:target="_blank"}
-* [Creación y uso de informes de análisis con Power BI](https://docs.microsoft.com/es-es/learn/paths/create-use-analytics-reports-power-bi){:target="_blank"}
-
-## SQL Server
-
-Actualizaciones de SQL Server (https://docs.microsoft.com/es-es/learn/paths/sql-server-2017-upgrades){:target="_blank"}
-SQL en Linux (https://docs.microsoft.com/es-es/learn/paths/sql-server-2017-on-linux){:target="_blank"}
-
 ## Inteligencia Artificial
 
 * [Definición de una estrategia de inteligencia artificial para crear valor empresarial](https://docs.microsoft.com/es-es/learn/paths/ai-strategy-for-business-value){:target="_blank"}
@@ -121,15 +98,24 @@ SQL en Linux (https://docs.microsoft.com/es-es/learn/paths/sql-server-2017-on-li
 * [Introducción a la tecnología de inteligencia artificial para los líderes empresariales](https://docs.microsoft.com/es-es/learn/paths/ai-technology-for-business-leaders){:target="_blank"}
 * [Procesamiento y clasificación de imágenes con los servicios de Azure Cognitive Vision](https://docs.microsoft.com/es-es/learn/paths/classify-images-with-vision-services){:target="_blank"}
 
+## Power Apps
+
+* [Creación de una aplicación controlada por modelos en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-app-models-business-processes){:target="_blank"}
+* [Creación de una aplicación de lienzo en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-powerapps){:target="_blank"}
+* [Dominio de técnicas avanzadas para aplicaciones de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/understand-advanced-topics){:target="_blank"}
+* [Trabajo con datos en una aplicación de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/work-with-data-in-a-canvas-app){:target="_blank"}
+* [Uso de conectores y opciones de datos avanzados en PowerApps](https://docs.microsoft.com/es-es/learn/paths/advanced-data-options-and-connectors){:target="_blank"}
+* [Uso de fórmulas básicas para conseguir mejores aplicaciones de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/use-basic-formulas-powerapps-canvas-app){:target="_blank"}
+* [Uso de la interfaz de usuario y controles en una aplicación de lienzo en PowerApps](https://docs.microsoft.com/es-es/learn/paths/ui-controls-canvas-app-powerapps){:target="_blank"}
+
 ## Power BI
 
- [Creación y uso de informes de análisis con Power BI](https://docs.microsoft.com/es-es/learn/paths/create-use-analytics-reports-power-bi){:target="_blank"}
-
- [Consumo de datos con Power BI](https://docs.microsoft.com/es-es/learn/paths/consume-data-with-power-bi){:target="_blank"}
+* [Creación y uso de informes de análisis con Power BI](https://docs.microsoft.com/es-es/learn/paths/create-use-analytics-reports-power-bi){:target="_blank"}
+* [Consumo de datos con Power BI](https://docs.microsoft.com/es-es/learn/paths/consume-data-with-power-bi){:target="_blank"}
 
 ## Productividad Microsoft
 
- [Automatización de un proceso de negocio mediante Microsoft Flow](https://docs.microsoft.com/es-es/learn/paths/automate-process-using-flow){:target="_blank"}
+* [Automatización de un proceso de negocio mediante Microsoft Flow](https://docs.microsoft.com/es-es/learn/paths/automate-process-using-flow){:target="_blank"}
 
 ## SQL
 
@@ -154,6 +140,8 @@ SQL en Linux (https://docs.microsoft.com/es-es/learn/paths/sql-server-2017-on-li
 * [Componentes básicos de una solución de Big Data](/curso-componentes-basicos-solucion-big-data-microsoft-tv) (Microsoft Channel 9)
 * [Power BI en ambientes empresariales](/curso-power-bi-ambientes-empresariales-microsoft-tv) (Microsoft Channel 9)
 
+🚧 Quedan Otros Videotutoriales Pendientes 😻 🚧
+{: .notice--warning}
 <!-- VOY POR AQUI. FALTA DESDE AQUI HASTA ABAJO 👇👇👇👇👇👇 -->
 <!-- SEGUIR BUSCANDO LOS VIDEOS AQUI: https://channel9.msdn.com -->
 
