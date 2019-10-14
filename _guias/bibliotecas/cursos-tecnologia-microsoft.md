@@ -4,8 +4,8 @@ title: "👩‍🎓 ▷ Cursos Múltiples de Microsoft. Catalogados por Diferent
 description: "🎓 ▷ Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
 excerpt: "🎓 ▷ Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
 author_profile: true
-date: 2018-10-14TT18:03:00
-last_modified_at:
+date: 2018-10-14T15:03:00
+last_modified_at: 2018-10-14T22:05:10
 header:
   image: "/assets/images/academia-microsoft-ciberninjas.jpg"
   image_description: Cursos Múltiples de Microsoft. Catalogados por Diferentes Rutas de Aprendizaje e Intereses | Ciberninjas

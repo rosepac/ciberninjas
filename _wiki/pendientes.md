@@ -10,6 +10,9 @@ Protocolos de Comunicaciones https://en.wikipedia.org/wiki/Category:Communicatio
 LPS y Github: https://microsoft.github.io/language-server-protocol/ -
 
 ## Pendientes Interesantes de Traducción
+
+* Citrix Virtual APPS: https://en.wikipedia.org/wiki/Citrix_Virtual_Apps
+
 * Un bucle de lanzamiento https://en.wikipedia.org/wiki/Launch_loop funcionaría.
 * torres inflables para el lanzamiento ayudan https://en.wikipedia.org/wiki/ThothX_Tower
 * láseres espaciales! https://en.wikipedia.org/wiki/Laser_propulsion https://en.wikipedia.org/wiki/Beam-powered_propulsion
