@@ -19,12 +19,14 @@ canonical_URL: https://ciberninjas.com/cursos-tecnologia-microsoft/
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
-toc_sticky: false
+toc_sticky: true
 
 ---
-Estos son las diferentes rutas de aprendizaje formadas por varios de los infinitos módulos que existen dentro de la "Academia" de Microsoft. Si no me equivoco, dentro de estas "rutas" se incluyen todos los módulos en español existentes; por lo tanto, podremos tomarnos esto como un resumen más concreto de los 817 módulos que os [compartir por la mañana](https://www.facebook.com/cibercursos/posts/936589840056890){:target="_blank"}.
+Estos son las diferentes rutas de aprendizaje formadas por varios de los infinitos módulos que existen dentro de la "Academia" de Microsoft.
 
-Se debe iniciar sesión a través de una [cuenta de Outlook](https://kutt.it/cuentaoutlook){:target="_blank"} si se desea guardar el registro del avanza de los módulos.
+Si no me equivoco, dentro de estas "rutas" se incluyen todos los módulos en español existentes; por lo tanto, podremos tomarnos esto como un resumen más concreto de los 817 módulos que os he [compartido por la mañana](https://www.facebook.com/cibercursos/posts/936589840056890){:target="_blank"} a través de [Facebook](https://kutt.it/cibercursos).
+
+A tener en cuenta, que se debe iniciar sesión a través de una [cuenta de Outlook](https://kutt.it/cuentaoutlook){:target="_blank"} si se desea guardar el registro del avanza de los módulos.
 
 ## 👨‍🏫 Cursos de Aprendizaje Academia Microsoft
 
