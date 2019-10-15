@@ -29,7 +29,7 @@ The Little Go es una introducción gratuita al lenguaje de programación Go de G
 
 ### [Una introducción a la programación en Go ](http://www.golang-book.com/){:target="_blank"} *Gratis*
 
-<center>[![img](https://i.ibb.co/FBYHFxQ/una-introduccion-a-programar-con-go.jpg)](https://i.ibb.co/dryf1Lc/687474703a2f2f7777772e676f6c616e672d626f6f6b2e636f6d2f7075626c69632f696d672f696e74726f2f636f7665722e343139343034353233342e706e67.png)</center>
+[![img](https://i.ibb.co/FBYHFxQ/una-introduccion-a-programar-con-go.jpg)](https://i.ibb.co/dryf1Lc/687474703a2f2f7777772e676f6c616e672d626f6f6b2e636f6d2f7075626c69632f696d672f696e74726f2f636f7665722e343139343034353233342e706e67.png){: .align-center}
 
 Este libro es una introducción breve y concisa a la programación de computadoras usando el lenguaje Go. Diseñado por Google, Go es un lenguaje de programación de propósito general con características modernas, sintaxis limpia y una biblioteca común robusta y bien documentada, lo que lo convierte en un lenguaje ideal para aprender como su primer lenguaje de programación.
 
@@ -37,7 +37,7 @@ Este libro es de [lectura](http://www.golang-book.com/) gratuita en [línea](htt
 
 ### [Go Bootcamp ](http://www.golangbootcamp.com/){:target="_blank"} *Gratis*
 
-<center>[![img](https://i.ibb.co/PN9rK39/vamos-go-campo-de-batalla.png)](https://i.ibb.co/PN9rK39/vamos-go-campo-de-batalla.png)</center>
+[![img](https://i.ibb.co/PN9rK39/vamos-go-campo-de-batalla.png)](https://i.ibb.co/PN9rK39/vamos-go-campo-de-batalla.png)
 
 Este libro complementario contiene material inicialmente escrito específicamente para el evento de BootCamp, así como también contenido del equipo de Google & de Go bajo Creative Commons Attribution 3.0 License y código bajo licencia BSD.
 
