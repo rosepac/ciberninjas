@@ -133,9 +133,38 @@ sidebar:
 
 ## 👩‍💻 Programación
 
+> INGLÉS
+
+## Go
+
+### Principiantes
+
+* Go en Acción [Tapa Blanda](https://amzn.to/2MgPVxV)
+* Go Programación Blueprints - 2da ed. [Tapa Blanda](https://amzn.to/31g4WVb) \ [Ebook](https://amzn.to/2oMUzLl)
+* Programación con Go: Creación de Aplicaciones del Siglo 21 [Tapa Blanda](https://amzn.to/32jA874) \ [Ebook](https://amzn.to/2BeMq4W)
+* El Lenguaje de Programación Go [Tapa Blanda](https://amzn.to/2MV9qvp) \ [Ebook](https://amzn.to/2VKTRug)
+* Introducción a Go [Tapa Blanda](https://amzn.to/32hSrK3) \ [Ebook](https://amzn.to/2oIsJzO)
+* Vamos a Programar con Go [Tapa Blanda](https://amzn.to/2MGmyEw)
+* Recetas de Go [Tapa Blanda](https://amzn.to/2IUfpiF) \ [Ebook](https://amzn.to/2OPlctv)
+* Aprendiendo a Programar en Go [Tapa Blanda](https://amzn.to/2nLALY8) \ [Ebook](https://amzn.to/2Bg4awF)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1617291781&linkId=d678c660399463f889c0bdb457eb30ff"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01GQCQ8OW&linkId=6041587d32a9f17720a7b7b39acecdd5"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=0321774639&linkId=b65693a796ee3f8506eb0093424728ec"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=0134190440&linkId=fc276984255d2b6ef2b23ab94c1a1be6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01AB3G496&linkId=2b1d2001876df3beaf9d353b693c115d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1617293091&linkId=9237a3ddebbda9088c126a2bd6616b54"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1484211898&linkId=4655686766db63c595b7fee42a03dd81"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1784395439&linkId=cb6255a8b892962311fe2a8eed26db12"></iframe>
+
+### Avanzado
+
+* Dominar Go [Tapa Blanda](https://amzn.to/35DHDrw) \ [Ebook](https://amzn.to/2Mfxx8P)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1838559337&linkId=883657efad7d4e6a5771ca36cad8ce97"></iframe>
+
+### Desarrollo de Aplicaciones
+
+* Desarrollo Práctico de Aplicaciones GUI en Go [Tapa Blanda](https://amzn.to/32jvpCt) \ [Ebook](https://amzn.to/31iYRHv)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1789138418&linkId=63524125fc2e2229f7456b87fdc82812"></iframe>
+
 ## Python
 
-- Analítica de Datos: Guía Definitiva Big Data [Tapa Blanda](https://amzn.to/2n1ofUg) \ [Ebook](https://amzn.to/- 2n1ofUg)
+* Analítica de Datos: Guía Definitiva Big Data [Tapa Blanda](https://amzn.to/2n1ofUg) \ [Ebook](https://amzn.to/- 2n1ofUg)
 * [Aprende A programar con Python](https://amzn.to/2oDRL2x)
 * Aprende Python en un fin de semana [Tapa Blanda](https://amzn.to/2nTc8IN) [Ebook](https://amzn.to/2oIvYXG)
 * [Aprendizaje Automático: La Guía Definitiva para Principiantes](https://amzn.to/2oGHOS1)
