@@ -521,14 +521,12 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 
 * [Laravel 5](https://richos.gitbooks.io/laravel-5/content/){:target="_blank"} [PDF](https://legacy.gitbook.com/download/pdf/book/richos/laravel-5){:target="_blank"}
 
-
 ## Perl
 
 * [La programación de Perl para Unix (1997)](http://www.el.bqto.unexpo.edu.ve/~jaguero/docs/varios/perlMexico.pdf){:target="_blank"} (PDF)
 * [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf){:target="_blank"} (PDF)
 * [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf){:target="_blank"} (PDF)
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/){:target="_blank"} (HTML)
-
 
 ### Python <i class="fab fa-python"></i>
 
@@ -541,6 +539,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Machine Learning, Python](https://jarroba.com/machine-learning-python-ejemplos){:target="_blank"} (HTML) (en proceso)
 * [Notas sobre el lenguaje Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/at_download/file){:target="_blank"} (PDF) (descarga directa)
 * [Plone: Gestor de Contenidos](http://plone-spanish-docs.readthedocs.io/es/3.3.6/){:target="_blank"} (HTML)
+* [Prácticas de Programación con Python](https://drive.google.com/file/d/148Zocb3X5OxGahn8gWxJ967_9MjHpgeP/view){:target="_blank"} (PDF)
 * [Python instantáneo (1999)](http://www.arrakis.es/~rapto/AprendaPython.html){:target="_blank"} (HTML)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías){:target="_blank"} (Github)
 * [Python para principiantes](http://librosweb.es/libro/python){:target="_blank"} (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf){:target="_blank"}
