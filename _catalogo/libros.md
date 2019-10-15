@@ -30,15 +30,14 @@ sidebar:
 * Superficiales, ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) \ [Ebook](https://amzn.to/2KORsur) \ [👉 Saber Más](/catalogo/que-hace-internet-con-nuestras-mentes/)
 
 ## 📁 Bases de Datos
+
 ## Big Data 👨‍👩‍👦
 
 [Big Data: Hacía la Cuarta Revolución Industrial](https://amzn.to/2mnv69y) \ [Ebook](https://amzn.to/2mmRJLC)
 
-
 ## 🕴 Empresa y Estrategia
 
-* [Más Allá del Cambio: Dominando el Futuro, Hoy]( https://amzn.to/2Qf4zd7) 
-
+* [Más Allá del Cambio: Dominando el Futuro, Hoy]( https://amzn.to/2Qf4zd7)
 
 ## 🔬 Ciencias de la Computación
 
@@ -52,7 +51,6 @@ sidebar:
 * [Hacia una Ingenieria 4.0: El rol de la ingeniería mexicana](https://amzn.to/2lhnZ2q)
 * La Transformación Digital Centrada en la Persona [Tapa Blanda](https://amzn.to/2l6lgZL) \ [Ebook](https://amzn.to/2l6mc0d)
 
-
 ## 👩‍💻 Desarrollo Web
 
 ## Android <i class="fab fa-android"></i>
@@ -65,6 +63,7 @@ sidebar:
 ## PHP Framework <i class="fab fa-php"></i>
 
 ### CodeIgniter
+
 * [CodeIgniter 3: Programación fácil en PHP con Patrón MVC](https://amzn.to/2mqv8OC) (Ebook)
 * [MVC CodeIgniter para simpáticos newbies](https://amzn.to/2mz96cg)(Ebook)
 
@@ -124,12 +123,9 @@ sidebar:
 * [Simulaciones en Swift 5](https://amzn.to/2LldaVU)
 * Diseño e implementación con Swift Playgrounds
 
-
-
 ## 📺 Marketing
 
 * Marketing y la cuarta revolución industrial [Tapa Blanda](https://amzn.to/2mmHmra) [Ebook](https://amzn.to/2liK8gF)
-
 
 ## 👩‍💻 Programación
 
@@ -185,7 +181,6 @@ sidebar:
 * [RASPBERRY PI: Guía paso a paso para principiantes de Raspberry Pi](https://amzn.to/2o0rviQ)
 * [Sistema de Ayuda a la Decisión: Sistema de Ayuda a la Decisión con Python](https://amzn.to/2n1ofUg)
 
-
 ## 👦 Programación Infantil
 
 ## App Inventor
@@ -202,7 +197,6 @@ Programación de aplicaciones Android con App Inventor 2 (https://amzn.to/35qdwU
 * [Programación con Scratch. Cuaderno](https://amzn.to/2Nsxqss)
 * [Programar con Scratch ¡Mola!](https://amzn.to/2NtbpJU)
 * [Star Wars Proyectos de programación](https://amzn.to/2ObM9Y2)
-
 
 ## 👮‍♀️ Seguridad
 
@@ -237,14 +231,12 @@ Programación de aplicaciones Android con App Inventor 2 (https://amzn.to/35qdwU
 <!-- [Tapa Blanda]() [Ebook]() -->
 INGLÉS
 
-- Permanent Record - Edward Snowden [Tapa Blanda](https://amzn.to/2AdKOrL) \ [Tapa Dura](https://amzn.to/34M3JHZ) \ [Ebook](https://amzn.to/2AinE3u)
-
+* Permanent Record - Edward Snowden [Tapa Blanda](https://amzn.to/2AdKOrL) \ [Tapa Dura](https://amzn.to/34M3JHZ) \ [Ebook](https://amzn.to/2AinE3u)
 
 ## 👷‍♂️ Webmaster
 
-- [CRO. Diseño y desarrollo de negocios digitales](https://amzn.to/2ZnFdOu)
-- [Visibilidad Online - Marketing Digital 2019](https://amzn.to/2L9jZuU)
-
+* [CRO. Diseño y desarrollo de negocios digitales](https://amzn.to/2ZnFdOu)
+* [Visibilidad Online - Marketing Digital 2019](https://amzn.to/2L9jZuU)
 
 ## Analítica Web
 
@@ -254,8 +246,6 @@ INGLÉS
 * [Posicionamiento y Google Analytics. Pack de 2 libros](https://amzn.to/2La9UOu)
 
 ## CMS
-
-
 
 ## Marketing en Redes Sociales 🏪 
 
@@ -274,20 +264,17 @@ INGLÉS
 * [Marketing en Redes Sociales](https://amzn.to/2LcNagw)
 * [Secretos de Mercadeo de Instagram](https://amzn.to/2L90BhD)
 
-
 ## 🎮 Videojuegos
 
 ### Clash Royal
 
 * [Misión Clash. Un esqueleto en Arena Real](https://amzn.to/2ZptA9J)
 
-
 ### Fortnite
 
 * [Enciclopedia de estrategia para fortniters: Guía no oficial para Battle Royal](https://amzn.to/2PmszL5)
 * [Fortnite. La mejor guía para ganar: Trucos esenciales de supervivencia](https://amzn.to/2NG1Si6)
 * [Fortnite Battle Royale: Trucos y guía de juego](https://amzn.to/2LgugEt)
-
 
 ### Minecraft
 
@@ -308,11 +295,9 @@ INGLÉS
 * [Trucos para minecrafters. Especial combate](https://amzn.to/2L4R0bS)
 * [Trucos Para Minecrafters. Especial Construccion](https://amzn.to/2LeoPG9)
 
-
 ### League of Legends
 
 * [Yellowstar: Conviértete en un campeón de League of Legends](https://amzn.to/2LjLOzL)
-
 
 ### Pokemon
 
@@ -322,7 +307,6 @@ INGLÉS
 * [Pikachu. Guía esencial definitiva](https://amzn.to/2ZmMRZr)
 * [Pokémon GO. A la caza del ladrón de Jigglypuffs](https://amzn.to/2PDgXDJ)
 * [La guía esencial definitiva (Colección Pokémon)](https://amzn.to/2HvjHMU)
-
 
 ### Roblox
 
