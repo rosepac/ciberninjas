@@ -6,6 +6,7 @@ date: 2019-10-11 02:20:00 +0200
 last_modified_at: 2019-10-11 02:25:10 +0200
 permalink: /los-libros-mas-impresionantes-sobre-go/
 canonical_URL: https://ciberninjas.com/los-libros-mas-impresionantes-sobre-go/
+author_profile: true
 published: true
 # header:
 #   image: /assets/images/jekyll-blog.jpg
@@ -23,13 +24,13 @@ toc_sticky: false
 
 ### [El Pequeño Libro de Go](http://openmymind.net/The-Little-Go-Book/){:target="_blank"} *Gratis*
 
-<center>[![img](https://i.ibb.co/WgF3BsH/687474703a2f2f6f70656e6d796d696e642e6e65742f6173736574732f676f2f7469746c652e706e67.png)](https://i.ibb.co/WgF3BsH/687474703a2f2f6f70656e6d796d696e642e6e65742f6173736574732f676f2f7469746c652e706e67.png)</center>
+[![img](https://i.ibb.co/WgF3BsH/687474703a2f2f6f70656e6d796d696e642e6e65742f6173736574732f676f2f7469746c652e706e67.png)](https://i.ibb.co/WgF3BsH/687474703a2f2f6f70656e6d796d696e642e6e65742f6173736574732f676f2f7469746c652e706e67.png){:.align-center}
 
 The Little Go es una introducción gratuita al lenguaje de programación Go de Google. Está dirigido a desarrolladores que tal vez no se sientan cómodos con la idea de punteros y tipeo estático. Es más largo que los otros libros gratis, pero aún así será de tu agrado.
 
 ### [Una introducción a la programación en Go ](http://www.golang-book.com/){:target="_blank"} *Gratis*
 
-[![img](https://i.ibb.co/FBYHFxQ/una-introduccion-a-programar-con-go.jpg)](https://i.ibb.co/dryf1Lc/687474703a2f2f7777772e676f6c616e672d626f6f6b2e636f6d2f7075626c69632f696d672f696e74726f2f636f7665722e343139343034353233342e706e67.png){: .align-center}
+[![img](https://i.ibb.co/FBYHFxQ/una-introduccion-a-programar-con-go.jpg)](https://i.ibb.co/dryf1Lc/687474703a2f2f7777772e676f6c616e672d626f6f6b2e636f6d2f7075626c69632f696d672f696e74726f2f636f7665722e343139343034353233342e706e67.png "Una introducción a la programación en Go"){:.align-center}
 
 Este libro es una introducción breve y concisa a la programación de computadoras usando el lenguaje Go. Diseñado por Google, Go es un lenguaje de programación de propósito general con características modernas, sintaxis limpia y una biblioteca común robusta y bien documentada, lo que lo convierte en un lenguaje ideal para aprender como su primer lenguaje de programación.
 
