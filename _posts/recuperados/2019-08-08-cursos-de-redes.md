@@ -3,7 +3,7 @@ layout: post
 title: Cursos de Redes gratis y en Español
 published: false
 author: rosepac
-comments: true
+comments: false
 date: 2019-02-07 03:02:22
 tags:
     - "2008"

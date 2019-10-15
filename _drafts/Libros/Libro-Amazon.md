@@ -11,7 +11,7 @@ tags:
 - Libro
 - NOMBRE (Editorial)
 - AUTOR
-comments: true
+comments: false
 date: 2019-09-14 09:34:54
 permalink: /catalogo/
 canonical_URL: https://ciberninjas.com/

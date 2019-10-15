@@ -7,7 +7,7 @@ header:
   video:
     id: jT11OEiA9x4
     provider: youtube
-comments: true
+comments: false
 date: 2019-04-25 22:06:12
 tags:
 - Arcade

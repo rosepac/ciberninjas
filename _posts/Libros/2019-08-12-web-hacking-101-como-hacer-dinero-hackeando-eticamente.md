@@ -1,7 +1,7 @@
 ---
 author_profile: false
 title: "🔐 Web Hacking 101: Cómo hacer Dinero Hackeando Éticamente"
-comments: true
+comments: false
 date: 2019-08-12 09:34:54
 tags:
 - Libro

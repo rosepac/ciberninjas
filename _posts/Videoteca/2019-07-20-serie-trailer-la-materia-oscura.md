@@ -7,7 +7,7 @@ header:
   video:
     id: 1yuIE1OYnVI
     provider: youtube
-comments: true
+comments: false
 date: 2019-07-20 22:06:12
 tags:
 - Fantasía

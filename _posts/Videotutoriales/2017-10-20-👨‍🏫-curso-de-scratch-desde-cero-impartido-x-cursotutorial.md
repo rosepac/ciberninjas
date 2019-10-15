@@ -9,7 +9,7 @@ header:
   video:
     id: playlist?list=PLTlBeKQnFKtIU7Ap4jNX513lI1bC9m01X
     provider: youtube
-comments: true
+comments: false
 date: 2017-10-20
 tags:
 # Autor, Editorial, Temática, Tipo de Música: SEO, 

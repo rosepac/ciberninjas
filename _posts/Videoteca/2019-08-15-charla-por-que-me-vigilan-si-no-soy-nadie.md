@@ -7,7 +7,7 @@ header:
   video:
     id: NPE7i8wuupk
     provider: youtube
-comments: true
+comments: false
 date: 2019-08-15 08:10:02
 tags:
 - Marta Peirano

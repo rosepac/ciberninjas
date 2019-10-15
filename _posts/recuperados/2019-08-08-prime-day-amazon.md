@@ -3,7 +3,7 @@ layout: post
 title: 'Prime Day Amazon: Las ofertas más espectaculares de 2019'
 published: false
 author: rosepac
-comments: true
+comments: false
 date: 2019-07-16 02:07:16
 tags:
     - amazon

@@ -162,7 +162,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _staff-miembros
@@ -173,7 +173,7 @@ defaults:
 #      layout: single
 #      author_profile: true
 #      read_time: true
-#      comments: true
+#      comments: false
 #      share: true
 #      related: true
   # _guias
@@ -184,7 +184,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
   # _catalogo
@@ -195,7 +195,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
     # _biblioteca
@@ -206,7 +206,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _glosario
@@ -217,7 +217,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
       # sidebar:
@@ -232,7 +232,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
   # _historia-computadora
@@ -243,7 +243,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
   # _personajes-historicos
@@ -254,7 +254,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
     # _electronic-frontier-foundation
@@ -265,7 +265,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
 

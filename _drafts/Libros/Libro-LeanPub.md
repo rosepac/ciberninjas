@@ -9,7 +9,7 @@ tags:
 - Libro
 - LeanPub
 - AUTOR
-comments: true
+comments: false
 date: 2019-09-14 09:34:54
 permalink: /catalogo/*
 description: '.'

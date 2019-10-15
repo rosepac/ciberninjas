@@ -7,7 +7,7 @@ header:
   video:
     id: hdImDagjNGQ
     provider: youtube
-comments: true
+comments: false
 date: 2019-07-17 22:06:12
 tags:
 - Acción

@@ -3,7 +3,7 @@ layout: post
 title: Curso de Programación de Videojuegos con PyGame
 published: false
 author: rosepac
-comments: true
+comments: false
 date: 2019-02-02 03:02:10
 tags:
     - 2D

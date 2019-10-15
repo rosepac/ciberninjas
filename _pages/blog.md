@@ -6,7 +6,7 @@ excerpt: "Últimas Entradas"
 published: true
 author: rosepac
 classes: wide
-comments: true
+comments: false
 date: 2019-10-13
 permalink: /blog/
 canonical_URL: https://ciberninjas.com/blog/

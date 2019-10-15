@@ -4,7 +4,7 @@ description: 👨‍💻 ▷ Cómo Aprender Javascript desde cero a experto, tod
 excerpt: 👨‍💻 ▷ Cómo Aprender Javascript desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional
 published: true
 author: rosepac
-comments: true
+comments: false
 date: 2019-03-20 12:00:03
 last_modified_at: 2019-09-12 12:00:03
 permalink: /javascript/

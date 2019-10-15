@@ -3,7 +3,7 @@ layout: post
 title: 'Libro o vídeo gratis al día, en inglés. Hoy: videotutorial sobre Python'
 published: false
 author: rosepac
-comments: true
+comments: false
 date: 2019-02-27 04:02:28
 tags:
     - packtpub

@@ -2,7 +2,7 @@
 title: '📰 7 Predicciones Tecnológicas del Futuro para 2019'
 description: "▷ Las novedades tecnológicas 👩‍💻 más impresionantes del Año 2019, desde los móviles 📴 flexibles hasta la Inteligencia Artificial 🤖 pasando por los servicios de Videojuegos 🎮 en la Nube ☁"
 excerpt: "▷ Las novedades tecnológicas 👩‍💻 más impresionantes del Año 2019, desde los móviles 📴 flexibles hasta la Inteligencia Artificial 🤖 pasando por los servicios de Videojuegos 🎮 en la Nube ☁"
-comments: true
+comments: false
 date: 2019-01-13 07:01:10
 tags:
     - Almacenamiento Nube

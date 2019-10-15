@@ -3,7 +3,7 @@ title: 🤖 ▷ La Guía Web de robots y robots.txt
 description: "🔍 🕷 Buscadores, vamos a aprender todo lo necesario sobre las arañas de robots.txt "
 excerpt: "🔍 🕷 Buscadores, vamos a aprender todo lo necesario sobre las arañas de robots.txt "
 published: true
-comments: true
+comments: false
 date: 2019-09-19
 last_modified_at: 2019-09-19 10:10:10
 permalink: /robots-txt/

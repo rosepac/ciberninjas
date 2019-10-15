@@ -3,7 +3,7 @@ title: 👨‍💻 ▷ Cómo Aprender a Programar desde Cero
 description: "📌 Aprende a programar con múltiples lenguajes y frameworks. Los mejores libros PDF y ebook en nuestro catálogo e incluso gratis 😜."
 excerpt: "📌 Aprende a programar con múltiples lenguajes y frameworks. Los mejores libros PDF y ebooks en nuestro catálogo e incluso gratis 😜."
 published: true
-comments: true
+comments: false
 date: 2018-03-01
 last_modified_at: 2019-09-01
 permalink: /programar/

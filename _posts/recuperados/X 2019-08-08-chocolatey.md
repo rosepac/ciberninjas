@@ -5,7 +5,7 @@ title: >
     aplicaciones
 published: false
 author: rosepac
-comments: true
+comments: false
 date: 2018-03-01 07:03:36
 tags:
     - Consola

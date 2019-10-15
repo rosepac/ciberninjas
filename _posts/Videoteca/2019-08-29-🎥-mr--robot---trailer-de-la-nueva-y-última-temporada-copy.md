@@ -7,7 +7,7 @@ header:
   video:
     id: 9Hmb33a7ATM
     provider: youtube
-comments: true
+comments: false
 date: 2019-08-29 00:00:00 +0200
 tags:
   - Trailer

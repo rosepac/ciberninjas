@@ -1,6 +1,6 @@
 ---
 title: '📹 Libro o vídeo gratis al día, en inglés. Hoy: videotutorial sobre Python'
-comments: true
+comments: false
 date: 2019-02-27 04:02:28
 tags:
     - Packtpub

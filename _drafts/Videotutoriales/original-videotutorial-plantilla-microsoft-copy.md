@@ -9,7 +9,7 @@ canonical_URL: https://ciberninjas.com/curso-TITULO-microsoft-tv
 #   video:
 #     id: playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW
 #     provider: youtube
-comments: true
+comments: false
 date: 2019-09-26
 tags:
 # Creador, Editorial, Temática, Tipo de Música

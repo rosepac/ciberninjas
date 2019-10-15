@@ -4,7 +4,7 @@ description: "👷‍♂️ ¿Qué es Ninite? Ninite es un sistema de gestión d
 excerpt: "👷‍♂️ ¿Qué es Ninite? Ninite es un sistema de gestión de paquetes que ofrece la instalación automática de aplicaciones populares en el SO: Windows"
 published: true
 author: rosepac
-comments: true
+comments: false
 date: 2019-06-20 11:06:39
 last_modified_at: 2019-10-11
 permalink: /ninite/

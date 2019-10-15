@@ -9,7 +9,7 @@ header:
   video:
     id: playlist?list=PL_nprC45Ob5vYvR4wc8YoK16fLpCTyxm2
     provider: youtube
-comments: true
+comments: false
 date: 2019-05-26
 tags:
 # Programamos, Editorial, Temática, Tipo de Música: SEO, 

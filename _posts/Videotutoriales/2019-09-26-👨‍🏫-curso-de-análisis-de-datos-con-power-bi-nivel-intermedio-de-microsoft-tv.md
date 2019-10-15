@@ -5,7 +5,7 @@ description: "\U0001F4CA Curso de Análisis de datos con Power BI Nivel Intermed
 excerpt: "\U0001F4CA Curso de Análisis de datos con Power BI Nivel Intermedio de Microsoft TV"
 permalink: /curso-analisis-datos-power-bi-intermedio-microsoft-tv
 canonical_URL: 'https://ciberninjas.com/curso-analisis-datos-power-bi-intermedio-microsoft-tv'
-comments: true
+comments: false
 date: 2019-09-26 02:00:00 +0200
 tags:
   - Microsoft

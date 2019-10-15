@@ -8,7 +8,7 @@ permalink: /creador-de-musica-retro-inspirado-en-amiga-protracker-bassontracker
 #   image: "/assets/images/musica/music_radio.jpg"
 #   image_description: La mejor música para programar en 2019: Gramola Ciberninjas
 #   caption: "**Créditos**: Chica descansa escuchando la Radio de la Gramola Ciberninjas / Creación propia."
-comments: true
+comments: false
 date: 2019-06-05 23:11:12
 tags:
 - Reproductor

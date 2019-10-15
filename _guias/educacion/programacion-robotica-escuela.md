@@ -3,7 +3,7 @@ title: 👨‍💻 ▷ Cómo Aprender Programación y Robótica a las Niñas y N
 description: "😼  Cómo Aprender Programación y Robótica a las Niñas y Niños."
 excerpt: "😼 Cómo Aprender Programación y Robótica a las Niñas y Niños."
 published: false
-comments: true
+comments: false
 date: 2018-03-01
 last_modified_at: 2019-09-01
 permalink: /programacion-robotica-para-niños/

@@ -3,7 +3,7 @@ layout: post
 title: React Native desde Ciencia del Aprendizaje Fácil
 published: false
 author: rosepac
-comments: true
+comments: false
 date: 2019-06-23 06:06:37
 tags:
     - react native

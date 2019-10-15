@@ -7,7 +7,7 @@ excerpt: >-
   Las mejores ofertas que existen alrededor de Internet.
 permalink: /
 canonical_URL: https://ciberninjas.com/
-comments: true
+comments: false
 date: 2019-09-01 10:30:00 +0200
 tags:
   - Ofertas

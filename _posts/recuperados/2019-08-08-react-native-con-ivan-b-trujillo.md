@@ -3,7 +3,7 @@ layout: post
 title: React Native con Iván B. Trujillo
 published: false
 author: rosepac
-comments: true
+comments: false
 date: 2019-06-23 06:06:50
 tags:
     - iván trujillo

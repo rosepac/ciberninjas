@@ -5,7 +5,7 @@ title: >
     en el Prime Day de Amazon
 published: false
 author: rosepac
-comments: true
+comments: false
 date: 2019-07-15 12:07:44
 tags:
     - amazon

@@ -9,7 +9,7 @@ tags:
   - Kobe Bryant
   - Phil Jackson
   - Pau Gasol
-comments: true
+comments: false
 date: 2019-10-09 12:10:00 +0200
 permalink: /catalogo/mentalidad-mamba/
 description: >-

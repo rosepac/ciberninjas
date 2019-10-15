@@ -3,7 +3,7 @@ author_profile: false
 title: "👨‍🎨 TÍTULO"
 description: "ICONO TEMÁTICA - DESCRIPCIÓN"
 excerpt: "ICONO TEMÁTICA - DESCRIPCIÓN"
-comments: true
+comments: false
 date: 
 # vocablos específicos relacionados a la Info.
 tags:

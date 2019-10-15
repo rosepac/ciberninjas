@@ -3,7 +3,7 @@ layout: post
 title: 'Framework MAVO: Creando aplicaciones exclusivamente con HTML'
 published: false
 author: rosepac
-comments: true
+comments: false
 date: 2017-06-03 03:06:40
 tags:
     - aplicaciones

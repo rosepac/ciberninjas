@@ -3,7 +3,7 @@ title: 👨‍💻 ▷ ¿Cómo ser desarrollador web?
 description: "📌  Cómo ser el mejor desarrollador web exitoso."
 excerpt: "📌 Aprende a programar con varios lenguajes y frameworks diferentes. Los mejores libros PDF y ebooks gratis en nuestra biblioteca y ojea nuestro catálogo."
 published: false
-comments: true
+comments: false
 date: 2018-03-01
 last_modified_at: 2019-09-01
 permalink: /desarrollador-web/

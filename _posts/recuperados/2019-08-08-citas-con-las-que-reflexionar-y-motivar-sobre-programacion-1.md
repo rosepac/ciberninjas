@@ -3,7 +3,7 @@ layout: post
 title: 'Citas con las que reflexionar y motivar sobre programación #1'
 published: false
 author: rosepac
-comments: true
+comments: false
 date: 2019-01-29 12:01:25
 tags:
     - animar
