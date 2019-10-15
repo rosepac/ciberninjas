@@ -528,7 +528,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf){:target="_blank"} (PDF)
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/){:target="_blank"} (HTML)
 
-### Python <i class="fab fa-python"></i>
+## Python <i class="fab fa-python"></i>
 
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf){:target="_blank"} (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/){:target="_blank"} (HTML)

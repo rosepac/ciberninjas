@@ -1,6 +1,8 @@
 ---
 title: 'Quién es ROSEPAC'
 permalink: "/quien-soy/"
+date: 2018-02-13T22:00:00.000+00:00
+last_modified_at: 2018-10-14T12:42:42-05:00
 canonical_URL: htpps://ciberninjas.com/quien-soy/
 description: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
 excerpt: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
@@ -51,8 +53,8 @@ No descarto que la culpa sea mía por no saber centrarme en una temática concre
 
 ### Lee Mis Antiguas Recopilaciones de Noticias
 
-- [Enlaces Semanales #ciberninjas #2](https://medium.com/ciberninjas/enlaces-semanales-mundoframework-2-e3dd85db1cb1)
-- [Enlaces Semanales #ciberninjas #1](https://medium.com/ciberninjas/enlaces-semanales-mundoframework-1-241e918714df)
+* [Enlaces Semanales #ciberninjas #2](https://medium.com/ciberninjas/enlaces-semanales-mundoframework-2-e3dd85db1cb1)
+* [Enlaces Semanales #ciberninjas #1](https://medium.com/ciberninjas/enlaces-semanales-mundoframework-1-241e918714df)
 
 ---
 
@@ -60,4 +62,24 @@ No descarto que la culpa sea mía por no saber centrarme en una temática concre
 
 (👷‍♀️ _..en Construcción.. y por Revisar.._)
 
-## De vez en cuando, hago fotografías..
+## A veces, hacía fotografías..
+
+![img](https://qph.fs.quoracdn.net/main-qimg-fad324da296a657fd1206aa584d9d664)
+
+[Butterfly resting in middle of the field](https://steemit.com/spanish/@rosepac/butterfly-resting-in-middle-of-the-field)
+
+![img](https://qph.fs.quoracdn.net/main-qimg-71c5e7c38f1f540d370e321fefd74311){: .align-center}
+
+[Heló a principios de verano.. Y te lo cuento! ✿](https://steemit.com/spanish/@rosepac/helo-a-principios-de-verano-y-te-lo-cuento)
+
+![img](https://qph.fs.quoracdn.net/main-qimg-b654e474cde50637fd919cf3ddb1baae)
+
+[Sábado de.. Big Baby (+ sorpresa)](https://steemit.com/spanish/@rosepac/sabado-de-big-baby-sorpresa)
+
+![img](https://qph.fs.quoracdn.net/main-qimg-b4a63bf91b27ec8cdbbd512b9c269f44)
+
+[Small plane flying around (shot 1)](https://steemit.com/vehiclephotography/@rosepac/small-plane-flying-around-shot-1)
+
+![img](https://qph.fs.quoracdn.net/main-qimg-6029706a74b2027a35f670219b8c9298)
+
+[Dawn in front of my house](https://steemit.com/cityscapephotography/@rosepac/dawn-in-front-of-my-house)
