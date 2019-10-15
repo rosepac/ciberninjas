@@ -1,6 +1,6 @@
 ---
 title: "Publicaciones por Fecha"
-permalink: /archivo/
+permalink: /blog/
 layout: posts
 author_profile: false
 sidebar:
