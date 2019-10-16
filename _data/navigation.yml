@@ -2,7 +2,7 @@ main:
   - title: "🐱‍🏍 Quién Soy"
     url: /quien-soy/
   - title: "🖋 Blog"
-    url: /aviso-legal/
+    url: /blog/
   - title: "📚 Guías"
     url: /guias/
   - title: "🛒 Catálogo"
