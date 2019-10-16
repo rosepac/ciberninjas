@@ -32,10 +32,10 @@ toc_sticky: true
 author_profile: false
 # IMAGEN DE TAMAÑO REDUCIDO X250 DE ANCHO MÁXIMO
 sidebar:
-  - title: "Greta Thunberg | Nuestra Casa Está Ardiendo: Historia de una familia y de un planeta en crisis"
+  - title: "Autor"
     image: /assets/images/catalogo/greta-nuestra-casa-esta-ardiendox225.jpg
     image_alt: "🌼 La historia de Greta Thunberg y su familia enfrentada a una crisis que nunca habían previsto. Su hija menor ha dejado de comer y hablar por ver su futuro en peligro en un planeta que se calienta demasiado."
-    text: "Greta Thunberg | Nuestra Casa Está Ardiendo: Historia de una familia y de un planeta en crisis"
+    text: "Greta Thunberg"
     nav: catalogo
 published: true
 
