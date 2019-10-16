@@ -3,7 +3,7 @@ title: "🎁 📚 ▷ Los Libros Más Impresionantes Sobre Go"
 description: "📖 👩‍💻 Los Libros Más Impresionantes Sobre Go."
 excerpt: "📖 👩‍💻 Los Libros Más Impresionantes Sobre Go."
 date: 2019-10-11 02:20:00 +0200
-last_modified_at: 2019-10-16 02:25:10 +0200
+last_modified_at: 2019-10-16 20:25:10 +0200
 permalink: /los-libros-mas-impresionantes-sobre-go/
 canonical_URL: https://ciberninjas.com/los-libros-mas-impresionantes-sobre-go/
 author_profile: true
@@ -16,7 +16,7 @@ published: true
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
-toc_sticky: false
+toc_sticky: true
 
 ---
 
@@ -24,17 +24,15 @@ Esto son los libros de programación en Go que existen. Separados en tres catego
 
 ## Libros Principiantes de Go
 
-### Libros Principiantes 2019 ⏳
-
-* [Vamos a Programar con Go](https://amzn.to/2MGmyEw){:target="_blank"}
+### [Vamos a Programar con Go](https://amzn.to/2MGmyEw){:target="_blank"} (2019)
 
 [![img](https://i.ibb.co/PNwfd2v/vamos-programar-gox350.jpg)](https://i.ibb.co/PNwfd2v/vamos-programar-gox350.jpg "Vamos a Programar con Go")
 
 **Vamos a Programar con Go** te presenta el poderoso lenguaje Go sin confundir la jerga o la teoría de alto nivel. Al trabajar a través de 32 lecciones rápidas, aprenderá rápidamente los conceptos básicos del innovador lenguaje de programación Go.
 
-### Libros Principiantes 2018 ⏳
+ Libros Principiantes 2018 ⏳
 
-* [Go para Desarrolladores de Javascript](https://github.com/pazams/go-for-javascript-developers){:target="_blank"}*GRATIS*
+### [Go para Desarrolladores de Javascript](https://github.com/pazams/go-for-javascript-developers){:target="_blank"} (2018) (**GRATIS**)
 
 [![img](https://i.ibb.co/TrN6BZp/go-para-desarrolladores-javascriptx350.jpg)](https://i.ibb.co/TrN6BZp/go-para-desarrolladores-javascriptx350.jpg "Go para los desarrolladores de Javascript")
 
@@ -168,7 +166,7 @@ En Black Hat Go, aprenderas a escribir herramientas de prueba de penetración po
 
 * [Dominar Go](https://amzn.to/35DHDrw)
 
-[![img](https://i.ibb.co/0hyJM5S/dominar-gox350.jpg)](https://i.ibb.co/0hyJM5S/dominar-gox350.jpg)
+[![img](https://i.ibb.co/0hyJM5S/dominar-gox350.jpg)](https://i.ibb.co/0hyJM5S/dominar-gox350.jpg "Dominar GO")
 
 A menudo referido (incorrectamente) como Golang, Go es el lenguaje de sistemas de alto rendimiento del futuro. Mastering Go, Second Edition te ayuda a convertirte en un programador experto y productivo de Go, construyendo y mejorando la innovadora primera edición.
 
@@ -192,7 +190,7 @@ Se le enseñará cómo navegar a través de un sitio web, utilizando una búsque
 
 Finalmente, el libro cubrirá el modelo de concurrencia Go y cómo ejecutar raspadores en paralelo, junto con el raspado web distribuido a gran escala.
 
-* Recetario de Programación con Go (https://amzn.to/2IVCgui)
+* [Recetario de Programación con Go](https://amzn.to/2IVCgui)
 
 [![img](https://i.ibb.co/hDyXZCn/recetario-programacion-go.jpg)](https://i.ibb.co/hDyXZCn/recetario-programacion-go.jpg "Recetario de Programación con Go")
 
