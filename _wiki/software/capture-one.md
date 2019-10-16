@@ -28,6 +28,15 @@ Las versiones del software que funcionan solo con las imágenes en bruto de las 
 
 Las características incluyen edición del grano de película, capas de reparación, ajustes locales, corrección trapezoidal, conversión en blanco y negro, capacidad de imprimir directamente desde Capture One, plug-in Profoto Studio, integración de captura e iluminación Profoto, extensión para iPad y iPhone con Capture Pilot, reducción de ruido, corrección de color, eliminación de manchas, herramientas HDR, herramientas para lentes y herramientas para afilar.
 
+**Desarrollador**: Phase One
+{: .notice--primary}
+
+**Licencia**: Propietario
+{: .notice--primary}
+
+**Sitio Web**: [http://www.captureone.com/](http://www.captureone.com/ "Página Web Oficial del Programa Capture One"){:target="_blank"}
+{: .notice--primary}
+
 **Categorías**: Software de Fotografía
 {: .notice--success}
 
