@@ -1,11 +1,11 @@
 ---
-title: 👨‍💻 ▷ Cómo Aprender Scratch desde Cero
-description: "😼  Cómo Aprender Scratch desde Cero."
-excerpt: "😼 Cómo Aprender Scratch desde Cero."
+title: 👩‍🏫 ▷ Libros sobre Educación
+description: "👩‍🏫 ▷ Para docentes, maestros y profesores: Los Mejores Libros sobre Educación."
+excerpt: "👩‍🏫 ▷ Para docentes, maestros y profesores: Los Mejores Libros sobre Educación."
 published: false
 comments: false
-date: 2018-03-01
-last_modified_at: 2019-09-01
+date: 2019-10-17
+last_modified_at: 
 permalink: /libros-educacion/
 # header:
 #   image: "/assets/images/chocolatey-ciberninjas.jpg"
@@ -18,11 +18,9 @@ toc_sticky: true
 
 ---
 
-## Bibliotecas Abiertas
+👉 Bibliotecas
 
-* [Biblioteca Digital del Ilce](http://bibliotecadigital.ilce.edu.mx/)
-* [Biblioteca Virtual: Miguel de Cervantes](http://www.cervantesvirtual.com)
-
+👉 Poesía Española
 
 ## Revistas
 

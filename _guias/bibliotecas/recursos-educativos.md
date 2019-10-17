@@ -29,6 +29,9 @@ toc_sticky: false
 ## Metalistas
 - [Cursos de Programación](https://kutt.it/Cursos)
 - [Libros de Programación](http://kutt.it/biblioteca)
+- [Obras Pedagógicas de ILCE](http://bibliotecadigital.ilce.edu.mx/Colecciones/Pedagogicas/)
+- [Libros de Educación]
+- [Poesía Española]
 
 ## Aprender Español
 

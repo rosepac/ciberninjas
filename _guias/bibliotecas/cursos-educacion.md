@@ -41,6 +41,7 @@ toc_sticky: false
 
 <!-- cursos solo en ingles: https://iversity.org/en/courses?course_of_study_code=&type=&language_code=it&search= -->
 ## Cursos de Educación
+
 ### Educación
 
 * [¿Qué es el Aprendizaje y Servicio? Curso introductorio a la metodología](https://miriadax.net/web/que-es-el-aprendizaje-y-servicio-curso-introductorio-a-la-metodologia-a-s/inicio){:target="_blank"} (MiriadaX)
@@ -168,5 +169,3 @@ toc_sticky: false
 	- [![exelearning](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_exelearning.png)exelearning](http://exelearning.net/){:target="_blank"}
 
 <!-- BUSCAR RECURSOS A LO LARGO DE MIS MARCADORES XD XD XD -->
-
-<div class="hackr-widget" data-tutorial="photoshop-expert-course" data-type="1"></div><script src="https://hackr.io/widget.js?v=1.0"></script>
