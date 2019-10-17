@@ -40,12 +40,13 @@ toc_sticky: true
 
 ## Autores Destacados Personalmente *
 
-* Miguel Hernández
+* [OMEGALFA](https://omegalfa.es/buscador.php)
+
+Búsquedas Sugeridas: Poesía Crítica, Miguel Hernández, Poesía Social
 
 ## Artes y Bellas Artes
 
-* [Calcografía Nacional](http://www.realacademiabellasartessanfernando.com/es/calcografia-nacional){:target="_blank"}
-* [La Academia de Goya](http://www.realacademiabellasartessanfernando.com/es/goya/la-academia-y-goya){:target="_blank"}
+* [Real Academia de Bellas Artes de San Fernando](http://www.realacademiabellasartessanfernando.com/es) [Calcografía Nacional](http://www.realacademiabellasartessanfernando.com/es/calcografia-nacional){:target="_blank"} [La Academia de Goya](http://www.realacademiabellasartessanfernando.com/es/goya/la-academia-y-goya){:target="_blank"}
 
 ## SIGLAS
 
