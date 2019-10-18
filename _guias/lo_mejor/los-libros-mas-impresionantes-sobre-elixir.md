@@ -3,10 +3,10 @@ title: "🎁 📚 ▷ Los Libros Más Impresionantes Sobre Elixir"
 description: "📖 👨‍💻 Los Libros Más Impresionantes Sobre Elixir."
 excerpt: "📖 👨‍💻 Los Libros Más Impresionantes Sobre Elixir."
 date: 2019-10-11 02:30:00 +0200
-last_modified_at: 2019-09-11 00:00:00 +0200
+last_modified_at: 2019-10-18 00:00:00 +0200
 permalink: /los-libros-mas-impresionantes-sobre-elixir/
 canonical_URL: https://ciberninjas.com/los-libros-mas-impresionantes-sobre-elixir/
-published: true
+published: false
 # header:
 #   image: /assets/images/jekyll-blog.jpg
 #   image_description: 'Jekyll, generador de sitios estáticos | Ciberninjas'

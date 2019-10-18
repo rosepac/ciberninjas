@@ -27,6 +27,8 @@ toc_sticky: false
 
 ---
 
+[📚 Libros](/libros-educacion/) [🧰 Recursos](/recursos-educacion/)
+
 ## Metalistas
 
 - [Aprende Intef](https://enlinea.intef.es){:target="_blank"}

@@ -1,13 +1,13 @@
 ---
-title: 🗞 ▷ Revistas Alternativas y Panfletos de España
-description: "🗞 ▷ Revistas Alternativas y Panfletos de España."
-excerpt: "🗞 ▷ Revistas Alternativas y Panfletos de España."
+title: 🗞 ▷ Prensa y Revistas Alternativas de España
+description: "🗞 ▷ Prensa y Revistas Alternativas de España."
+excerpt: "🗞 ▷ Prensa y Revistas Alternativas de España."
 published: true
 comments: false
 date: 2019-10-17
 last_modified_at: 
-permalink: /revistas-alternativas/
-canonical_URL: https://ciberninjas.com/revistas-alternativas/
+permalink: /prensa-alternativa/
+canonical_URL: https://ciberninjas.com/prensa-alternativa/
 # header:
 #   image: "/assets/images/chocolatey-ciberninjas.jpg"
 #   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
@@ -27,17 +27,15 @@ toc_sticky: true
 
 ## [Cuadernos Políticos](http://cuadernospoliticos.unam.mx/cuadernos/num01.html){:target="_blank"}
 
-![img](https://omegalfa.es/images/trans.gif)![img](https://omegalfa.es/images/trans.gif)[![img](https://omegalfa.es/images.php?file=miniviews&img=cuarto-poder.jpg&width=500&height=85)
+[![img](https://omegalfa.es/images.php?file=miniviews&img=cuarto-poder.jpg&width=500&height=85)
 
 ## [Cuarto Poder](https://www.cuartopoder.es/){:target="_blank"}
 
 ## [Democracy Now! (en español)Noticias Internacionales Independientes](https://www.democracynow.org/es){:target="_blank"}
 
-## [MARXISMO CRÍTICOPraxis, Conciencia y Libertad](https://marxismocritico.com/){:target="_blank"}
+## [InfoLibre](https://www.infolibre.es/){:target="_blank"}
 
 ## [Mientras tanto](http://www.mientrastanto.org/){:target="_blank"}
-
-## [Monthly ReviewSelecciones en castellano](https://www.monthlyreviewencastellano.com/){:target="_blank"}
 
 ## [Mujeres en RedEl periódico feminista](http://www.mujeresenred.net/spip.php?page=autoras){:target="_blank"}
 

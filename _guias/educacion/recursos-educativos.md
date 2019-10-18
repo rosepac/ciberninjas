@@ -6,8 +6,8 @@ excerpt: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre apren
 published: false
 date: 2019-10-04T17:00:00.000+00:00
 last_modified_at: 2019-10-04T19:10:42-05:00
-permalink: /cursos-educacion/
-canonical_URL: https://ciberninjas.com/cursos-educacion/
+permalink: /recursos-educacion/
+canonical_URL: https://ciberninjas.com/recursos-educacion/
 header:
   image: "/assets/image/cursos_educacion_pensar.jpg"
   image_description: "Los Mejores Cursos para Profesores, Educadores, Pegagogos y Profesionales de la Educación \ Visto en Ciberninjas"
