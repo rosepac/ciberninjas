@@ -126,3 +126,7 @@ RECOMENDACIONES
 ![img](https://qph.fs.quoracdn.net/main-qimg-6029706a74b2027a35f670219b8c9298)
 
 [Dawn in front of my house](https://steemit.com/cityscapephotography/@rosepac/dawn-in-front-of-my-house)
+
+## Frases ¿
+
+* "Twitter es el bar del siglo XXI" 🍻

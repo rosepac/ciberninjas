@@ -15,3 +15,5 @@ permalink: /javascript-recursos/
 * [is.js](https://is.js.org/)
 
 Verifique tipos, expresiones regulares, presencia, tiempo y más...
+
+* [JS Ilustrado: Promise](https://medium.com/front-end-weekly/js-illustrated-promises-c87efb8d27a9) (2019) (Medium) (Inglés)
