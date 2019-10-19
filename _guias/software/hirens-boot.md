@@ -2,8 +2,8 @@
 title: 👩‍🔧 ▷ Hiren´s BootCD PE, Aprender desde Cero
 description: "🔨 Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
 excerpt: "🔨 Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
-date: 2019-08-07T22:00:00.000+00:00
-last_modified_at: 2019-09-11T16:20:02-05:00
+date: 2019-10-19T18:20:00.000+00:00
+last_modified_at:
 permalink: /hirens-bootcd-pe/
 canonical_URL: https://ciberninjas.com/hirens-bootcd-pe/
 header:
