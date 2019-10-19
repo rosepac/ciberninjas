@@ -107,6 +107,7 @@ El Centro de complementos incorporado obtiene automáticamente la lista de compl
 {: .notice--primary}
 
 **Código**: Ver [Github](https://github.com/gephi/gephi#gephi---the-open-graph-viz-platform "Ver el código fuente dentro del proyecto de Github")
+{: .notice--primary}
 
 **Fuente**: Ver la [Página Web Oficial de Gephi]("Página web oficial de Gephi")
 {: .notice--info}
