@@ -41,7 +41,7 @@ En la actualidad **Hiren's BootCD PE** está siendo desarrollado por los fanáti
 
 Hiren's BootCD PE se está desarrollando para las computadoras de la nueva era.
 
-Sabemos que hay toneladas de software útil para propósitos de uso diario. Pero Hiren's BootCD PE es un disco de emergencia. Por lo tanto, incluir todos los programas que son buenos pero que no ayudarán a las personas en los casos de emergencia no mejorará el BootCD. 
+Sabemos que hay toneladas de software útil para propósitos de uso diario. Pero Hiren's BootCD PE es un disco de emergencia. Por lo tanto, incluir todos los programas que son buenos pero que no ayudarán a las personas en los casos de emergencia no mejorará el BootCD.
 
 Hiren's BootCD PE debe incluir las herramientas gratuitas más pequeñas y mejores solo para los casos de emergencia.
 
@@ -173,9 +173,9 @@ No hay bitcoin ni ningún otro minero infectado en nuestros archivos ISO o en nu
 * ¿Es legal usar Windows PE?
 “Windows PE no es un sistema operativo de propósito general. No puede usarse para ningún otro propósito que no sea la implementación y la recuperación. No debe usarse como un cliente ligero o un sistema operativo integrado. Existen otros productos de Microsoft, como Windows Embedded CE, que pueden usarse para estos fines.
 
-Para evitar su uso como sistema operativo de producción, Windows PE detiene automáticamente la ejecución del shell y se reinicia después de 72 horas de uso continuo. Este período no es configurable ".
+Para evitar su uso como sistema operativo de producción, Windows PE detiene automáticamente la ejecución del shell y se reinicia después de 72 horas de uso continuo. Este período no es configurable.
 
-Fuente: https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-intro
+Fuente: Ver [Microsoft WinPE Introducción](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-intro){:target="_blank"}
 
 Windows PE no incluye ninguna clave de licencia de Windows. Además, Hiren's BootCD PE no viola los propósitos de Windows PE y no cambia la limitación de "72 horas de uso continuo". Por lo tanto, el uso de Windows PE en Hiren's BootCD PE es legal en términos de los propósitos de uso de Microsoft.
 
@@ -188,12 +188,8 @@ Tenga en cuenta que, recomendamos el arranque USB para las ediciones de Windows 
 * ¿Por qué recibo una advertencia de virus para un archivo descargado de su sitio web?
 Los archivos que descarga de nuestro sitio web  NO contienen virus.  Si recibe una advertencia de virus, eso es un  falso positivo . Informe el archivo como un falso positivo a través de su software antivirus.
 
-* *Pueden enviar una copia física del CD a mi dirección?
+*Pueden enviar una copia física del CD a mi dirección?
 Lamentablemente, no podemos ofrecer ese tipo de ayuda con o sin precio.
 
-https://i.ibb.co/BNcB3fq/Hirens-Boot-CD-PE-1200x675.png
-
-[](https://i.ibb.co/bHw4Z6h/image.png "Página web oficial de Hiren´s BootCD PE")
-
-**Fuente**: [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren")
+**Fuente**: Ver [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren")
 {: .notice--info}

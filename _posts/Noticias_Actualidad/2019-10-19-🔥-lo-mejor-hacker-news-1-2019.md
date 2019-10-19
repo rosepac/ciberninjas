@@ -48,9 +48,11 @@ A través de un commit de Github nos muestran, como definitivamente, el lenguaje
 
 Casi hace un año, ya se hablaba sobre esto. De hecho, ya [existían documentos](https://marketing.perl6.org/id/1541379592/pdf_digital){:target="_blank"} donde aparecen juntos ambos denominaciones, como bien quedo registrado [a través de Reddit](https://www.reddit.com/r/perl/comments/9u9ywm/announce_raku_perl_6_diwali_6d_language/){:target="_blank"} hace 11 meses. Más, parece que ahora se realiza el cambio definitivamente a Raku.
 
-## []()
+## [Nueva Versión del Reconocido Hiren´s Boot](https://www.hirensbootcd.org/){:target="_blank"}
 
-Basado en el [entorno de preinstalación de Windows o Windows PE](/wiki/windows-pe) [Hiren´s Boot CD]() regresa como una de las grandes herramientas psoteriores a la instalación de un ordenador.
+
+
+Basado en el [entorno de preinstalación de Windows o Windows PE](/wiki/windows-pe): [Hiren´s Boot CD](/hirens-bootcd-pe/) regresa como una de las grandes herramientas posteriores a la instalación de un ordenador; junto a [Ninite](/ninite/) y [Chocolatey](/chocolatey/) pueden ser las herramientas perfectas que te faciliten por completo la pre instalación completa tras un formateo.
 
 ## [Twitter, Facebook, WhatsApp e Instagram están restringidos en el sur de Turquía](https://netblocks.org/reports/twitter-facebook-whatsapp-and-instagram-restricted-in-southern-turkey-oy9RzE83 "Twitter, Facebook, WhatsApp e Instagram están restringidos en el sur de Turquía"){:target="_blank"}
 

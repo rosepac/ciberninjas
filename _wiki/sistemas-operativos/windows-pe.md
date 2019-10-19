@@ -11,6 +11,7 @@ toc_sticky: true
 published: true
 author_profile: false
 permalink: /wiki/windows-pe
+canonical_URL: https://ciberninjas.com/wiki/windows-pe
 
 ---
 
