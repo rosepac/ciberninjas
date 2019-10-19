@@ -3,7 +3,7 @@ title: 🐤 ▷ Twitter, Aprender desde Cero
 description: "Aprende a Manejar y Los Mejores Trucos sobre Twitter. Desde cero todo lo que debes saber"
 excerpt: "Aprende a Manejar y Los Mejores Trucos sobre Twitter. Desde cero todo lo que debes saber"
 date: 2019-10-16T21:00:00.000+00:00
-last_modified_at: 
+last_modified_at: 2019-10-19
 permalink: /twitter/
 canonical_URL: https://ciberninjas.com/twitter/
 #header:
@@ -17,9 +17,17 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
+## Análisis
+
+* [Guía: Análisis de redes de Twitter con Gephi 0.9.1](Guía: Análisis de redes de Twitter con Gephi 0.9.1)
+
 ## Desarrollo
 
 * [Cómo incrustar cualquier contenido de Twitter en tu Página Web](https://publish.twitter.com/#){:target="_blank"}
 * [Cómo incrustar una línea de tiempo](https://help.twitter.com/en/using-twitter/embed-twitter-feed){:target="_blank"}
 * [Guías de Incrustación](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview){:target="_blank"}
 
+## Herramientas
+
+* [Gephi - Análisis de Twitter](https://gephi.org/)
+* [Recopilación de Tweets](https://guides.libraries.psu.edu/c.php?g=796631&p=5698003)
