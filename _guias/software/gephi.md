@@ -1,5 +1,5 @@
 ---
-title: "👩‍🔧 ▷ Gephi\: La plataforma de Gráficos Abierta, Aprender desde Cero"
+title: "👩‍🔧 ▷ Gephi: La plataforma de Gráficos Abierta, Aprender desde Cero"
 description: "📊 Gephi: La plataforma de Gráficos Abierta."
 excerpt: "📊 Gephi: La plataforma de Gráficos Abierta."
 date: 2019-10-19T19:06:00.000+00:00
