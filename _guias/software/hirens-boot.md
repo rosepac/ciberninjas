@@ -4,6 +4,7 @@ description: "🔨 Hiren´s BootCD PE, ISO con todas las herramientas necesarias
 excerpt: "🔨 Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
 date: 2019-10-19T18:20:00.000+00:00
 last_modified_at:
+author_profile: true
 permalink: /hirens-bootcd-pe/
 canonical_URL: https://ciberninjas.com/hirens-bootcd-pe/
 header:
@@ -47,12 +48,12 @@ Hiren's BootCD PE debe incluir las herramientas gratuitas más pequeñas y mejor
 
 ## 🔧 Herramientas Incluidas
 
-Herramientas BCD-MBR**
+### Herramientas BCD-MBR
 
 * BootIce v1.3.3
 * EasyBCD v2.3
 
-### **Herramientas de disco duro - Recuperación de datos**
+### Recuperación de Datos
 
 * CheckDisk GUI v1.2.0
 * Lazesoft Data Recovery v4.0.0.1
@@ -66,46 +67,42 @@ Herramientas BCD-MBR**
 * Runtime RAID Reconstructor v4.4.0
 * Runtime RAID Recovery para Windows v4.0.0
 
-### **Herramientas de disco duro - Desfragmentar**
+### Herramientas de Disco Duro
 
-* Desfragmentador v2.22.33.995
+* Desfragmentar
+  * Desfragmentador v2.22.33.995
 
-### **Herramientas de disco duro - Diagnóstico**
+* Diagnóstico
+  * GSmartControl v1.1.3
+  * HDDScan v4.0
+  * HDTune v2.55
+  * WD Data Lifeguard Diagnostics v1.31
 
-* GSmartControl v1.1.3
-* HDDScan v4.0
-* HDTune v2.55
-* WD Data Lifeguard Diagnostics v1.31
+* Exploración de Disco
+  * Runtime Captain Nemo v7.0.0
+  * Runtime DiskExplorer para FAT v4.3.2
+  * Runtime DiskExplorer para Linux v4.3.6
+  * Runtime DiskExplorer para NTFS v4.3.2
 
-### **Herramientas de disco duro - Disk Explorer**
+* ISO o Imágenes de Disco
+  * Acronis TrueImage 2018 build 11530
+  * AOMEI Backupper v4.1.0
+  * Lazesoft Disk Image & Clone v4.0.0.1
+  * Macrium Reflect PE v7.1.3196
+  * Runtime DriveImage XML v2.6.0
 
-* Runtime Captain Nemo v7.0.0
-* Runtime DiskExplorer para FAT v4.3.2
-* Runtime DiskExplorer para Linux v4.3.6
-* Runtime DiskExplorer para NTFS v4.3.2
+* Herramientas de Partición
+  * AOMEI Partition Assistant v7.0.1
+  * Macrorit Partition Extender v4.9.3
 
-### **Herramientas de disco duro - Imágenes**
+* Seguridad
+  * HDD Low Level Format Tool v4.40
 
-* Acronis TrueImage 2018 build 11530
-* AOMEI Backupper v4.1.0
-* Lazesoft Disk Image & Clone v4.0.0.1
-* Macrium Reflect PE v7.1.3196
-* Runtime DriveImage XML v2.6.0
-
-### **Herramientas de disco duro - Herramientas de partición**
-
-* AOMEI Partition Assistant v7.0.1
-* Macrorit Partition Extender v4.9.3
-
-### **Herramientas de disco duro - Seguridad**
-
-* HDD Low Level Format Tool v4.40
-
-### **Recuperación de Windows**
+### Recuperación de Windows
 
 * Lazesoft Windows Recovery v4.0.0.1
 
-### **Otras herramientas**
+### Otras herramientas
 
 * FSViewer v6.5.0
 * Oficina libre rev 703
@@ -116,27 +113,26 @@ Herramientas BCD-MBR**
 * Notepad ++ v7.5.6
 * WinMerge v2.14
 
-### **Herramientas de accionamiento extraíbles**
+### Herramientas de Extraíbles
 
 * CDBurnerXP v4.5.8.6795
 * Rufus v3.0.1304
 
-### **Seguridad - Antivirus**
+### Seguridad
 
-* ESET Online Scanner v2.0.22
-* Malwarebytes Anti-Malware v2.2.1.1043
+* Antivirus
+  * ESET Online Scanner v2.0.22
+  * Malwarebytes Anti-Malware v2.2.1.1043
 
-### **Seguridad - KeyFinders**
+* KeyFinders
+  * ProduKey v1.92
+  * ShowKeyPlus v1.0.6610
 
-* ProduKey v1.92
-* ShowKeyPlus v1.0.6610
+* Contraseñas
+  * Lazesoft Password Recovery v4.0.0.1
+  * NT Password Edit v0.7
 
-### **Seguridad - Contraseñas**
-
-* Lazesoft Password Recovery v4.0.0.1
-* NT Password Edit v0.7
-
-### **Herramientas de sistema**
+### Herramientas de Sistema
 
 * CPU-Z v1.85.0
 * GPU-Z v2.9.0
@@ -153,7 +149,7 @@ Herramientas BCD-MBR**
 * SysInternals Suite
 * Windows PowerShell v1.0
 
-### **Red**
+### Red
 
 * Aero Admin v4.5
 * Teamviewer v6.0.10511
@@ -168,9 +164,12 @@ Herramientas BCD-MBR**
 
 ## ❔ Preguntas Frecuentes
 
-* ¿Hay algún minero de bitcoin o software malicioso infectado en su ISO?
+👉 ¿Hay algún minero de bitcoin o software malicioso infectado en su ISO?
+
 No hay bitcoin ni ningún otro minero infectado en nuestros archivos ISO o en nuestra herramienta ISO2USB. No hay software malicioso, el código está incluido en los archivos alojados en nuestro sitio web. Todo esta limpio.
-* ¿Es legal usar Windows PE?
+
+👉 ¿Es legal usar Windows PE?
+
 “Windows PE no es un sistema operativo de propósito general. No puede usarse para ningún otro propósito que no sea la implementación y la recuperación. No debe usarse como un cliente ligero o un sistema operativo integrado. Existen otros productos de Microsoft, como Windows Embedded CE, que pueden usarse para estos fines.
 
 Para evitar su uso como sistema operativo de producción, Windows PE detiene automáticamente la ejecución del shell y se reinicia después de 72 horas de uso continuo. Este período no es configurable.
@@ -179,16 +178,20 @@ Fuente: Ver [Microsoft WinPE Introducción](https://docs.microsoft.com/en-us/win
 
 Windows PE no incluye ninguna clave de licencia de Windows. Además, Hiren's BootCD PE no viola los propósitos de Windows PE y no cambia la limitación de "72 horas de uso continuo". Por lo tanto, el uso de Windows PE en Hiren's BootCD PE es legal en términos de los propósitos de uso de Microsoft.
 
-* HBCD PE incluye software como Acronis, ¿es legal?
+👉 HBCD PE incluye software como Acronis, ¿Es legal?
+
 Acronis True Image 2018 en HBCD PE es la versión gratuita, de prueba y limitada. No permite realizar copias de seguridad, pero permite restaurar en modo de prueba. No hay software crackeado o pirateado en la ISO.
 
-* ¿Por qué el arranque de DVD se cuelga en la pantalla del logotipo de Windows?
+👉 ¿Por qué el arranque de DVD se cuelga en la pantalla del logotipo de Windows?
+
 Tenga en cuenta que, recomendamos el arranque USB para las ediciones de Windows PE. Arrancar desde DVD puede hacer que espere mucho tiempo en la pantalla del logotipo de Windows en algunas computadoras. Si el arranque tarda entre 8 y 10 minutos, intente arrancar desde USB.
 
-* ¿Por qué recibo una advertencia de virus para un archivo descargado de su sitio web?
+👉 ¿Por qué recibo una advertencia de virus para un archivo descargado de su sitio web?
+
 Los archivos que descarga de nuestro sitio web  NO contienen virus.  Si recibe una advertencia de virus, eso es un  falso positivo . Informe el archivo como un falso positivo a través de su software antivirus.
 
-*Pueden enviar una copia física del CD a mi dirección?
+👉 ¿Pueden enviarme una copia física del CD a mi dirección?
+
 Lamentablemente, no podemos ofrecer ese tipo de ayuda con o sin precio.
 
 **Fuente**: Ver [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren")
