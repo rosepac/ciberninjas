@@ -103,11 +103,14 @@ El Centro de complementos incorporado obtiene automáticamente la lista de compl
 
 [⬇ WEB DE DESCARGA OFICIAL](https://gephi.org/users/download/ "Página de Descarga de las Varias Versiones de Gephi desde la Web Oficial"){: .btn .btn--danger .btn--large .align-center}
 
-**Blog**: Blog Oficial de [Gephi](https://gephi.wordpress.com/ "Blog oficial de las noticias y actualizaciones de Gephi")
+**Recursos**: Manejar Datos de [Twitter](/twitter/)
 {: .notice--primary}
 
-**Código**: Ver [Github](https://github.com/gephi/gephi#gephi---the-open-graph-viz-platform "Ver el código fuente dentro del proyecto de Github")
+**Blog**: Blog Oficial de [Gephi](https://gephi.wordpress.com/ "Blog oficial de las noticias y actualizaciones de Gephi"){:target="_blank"}
 {: .notice--primary}
 
-**Fuente**: Ver la [Página Web Oficial de Gephi]("Página web oficial de Gephi")
+**Código**: Ver [Github](https://github.com/gephi/gephi#gephi---the-open-graph-viz-platform "Ver el código fuente dentro del proyecto de Github"){:target="_blank"}
+{: .notice--primary}
+
+**Fuente**: Ver la [Página Web Oficial de Gephi]("Página web oficial de Gephi"){:target="_blank"}
 {: .notice--info}
