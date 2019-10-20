@@ -17,3 +17,4 @@ sidebar:
 
 [](https://news.ycombinator.com/item?id=21230418) https://fs.blog/2019/10/the-best-of-goethes-aphorisms/
 
+(Kim Peek)[https://es.wikipedia.org/wiki/Kim_Peek]
