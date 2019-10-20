@@ -3,6 +3,7 @@ title: "\U0001F4F0 Lo mejor de Hacker News! Semana #1 2019"
 description: "🔥 Las Mejores Noticias de la Semana de Hacker News. La Mejor Página Web de Programación del Mundo."
 excerpt: "🔥 Las Mejores Noticias de la Semana de Hacker News. La Mejor Página Web de Programación del Mundo."
 date: 2019-10-19 14:25:00 +0200
+permalink: /mejor-hacker-news-1-2019
 categories:
   - Actualidad
 tags:
@@ -19,7 +20,7 @@ header:
 
 Vuelvo a una vieja serie de artículos especializada en recopilar los artículos más interesantes de toda la semana dentro de uno de los mejores agregadores de noticias referentes a la programación del mundo, Hacker News.
 
-Espero poder ser más serio y realizar esta nueva publicación: todos los Viernes.
+Del 11 al 13 de Octubre, hoy..
 
 Si deseas ver una muestra de mis ediciones de la misma serie del año pasado, te dejo [por aquí](/quien-soy/#recopilaciones-de-hacker-news "Recopilaciones de artículas y noticias de Hacker News") el enlace correspondiente.
 
@@ -27,6 +28,10 @@ Las noticias están en inglés. Si las deseas en español debes mantener el trad
 {: .notice--info}
 
 ¡Al lío!
+
+## [La Palabra "Hacker por Paul Graham"](http://www.paulgraham.com/gba.html){:target="_blank"}
+
+Ensayo sobre la palabra Hacker escrito por Paul Graham.
 
 ## [Guía de Estilo de Código Go de Uber](https://github.com/uber-go/guide/blob/master/style.md#uber-go-style-guide "Guía de Buen Uso de Go mantenida por Uber"){:target="_blank"}
 
@@ -64,6 +69,14 @@ Basado en el [entorno de preinstalación de Windows o Windows PE](/wiki/windows-
 
 SandDance, la querida herramienta de visualización de datos de Microsoft Research, ha sido relanzada como un proyecto de [código abierto en GitHub](https://github.com/Microsoft/SandDance#sanddance){:target="_blank"}. Esta nueva versión de SandDance ha sido reescrita desde cero como un componente integrable que funciona con cadenas de herramientas JavaScript modernas.
 
+## [BodyPix - Segmentación de personas en el navegador](https://github.com/tensorflow/tfjs-models/tree/master/body-pix#bodypix---person-segmentation-in-the-browser "Segmentación de personas desde tu propio navegador a través de la Inteligencia Artificial"){:target="_blank"}
+
+![https://i.ibb.co/RS5TyWH/tensorflow-libreria-bodyprix.gif](https://i.ibb.co/RS5TyWH/tensorflow-libreria-bodyprix.gif "Funcionamiento de la librería de TensorFlow BodyPrix en vivo"){: .align-center}
+
+Librería de TensorFlow: Este paquete contiene un modelo independiente llamado BodyPix, así como algunas demostraciones, para ejecutar la segmentación de personas y partes del cuerpo en tiempo real en el navegador usando TensorFlow.js.
+
+Este modelo se puede usar para segmentar una imagen en píxeles que son y no son parte de una persona, y en píxeles que pertenecen a cada una de las veinticuatro partes del cuerpo. Funciona para varias personas en una imagen de entrada o video. Puedes probar una [DEMO EN VIVO](https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html "Demostración en vivo del funcionamiento de la librería de Tensorflow BodyPix"){:target="_blank"}.
+
 ## [Twitter, Facebook, WhatsApp e Instagram están restringidos en el sur de Turquía](https://netblocks.org/reports/twitter-facebook-whatsapp-and-instagram-restricted-in-southern-turkey-oy9RzE83 "Twitter, Facebook, WhatsApp e Instagram están restringidos en el sur de Turquía"){:target="_blank"}
 
 ![https://i.ibb.co/09hRsPt/image.png](https://i.ibb.co/09hRsPt/image.png "Las conexiones cortadas sobre todas las redes sociales desde parte de Turquía")
@@ -72,5 +85,16 @@ Los amigos de NetBlocks han comprobado como el proveedor de Internet de Turquía
 
 Complementación al artículo de la noticia de NetBlocks. [Internet, interrumpido](https://www.middleeasteye.net/news/internet-interrupted-how-middle-east-countries-use-network-restrictions-clamp-down-dissent "Cómo usan los cortes de red sobre las redes en Oriente Medio"){:target="_blank"} :cómo se usan los cortes de red para sofocar la disidencia en el Medio Oriente
 
-**Fuente**: 
-{: .notice--info}
+## [Los archivos de la computadora se están extinguiendo](https://onezero.medium.com/the-death-of-the-computer-file-doc-43cb028c0506){:target="_blank"}
+
+![https://i.ibb.co/KVWrh60/0-Mw2-Lc-LV8y1-x-IMe4.png](https://i.ibb.co/KVWrh60/0-Mw2-Lc-LV8y1-x-IMe4.png "Los archivos de la computadora se están extinguiendo")
+
+Un pensamiento y una mirada diferente hacía los archivos de las computadoras.
+
+## [](){:target="_blank"}
+
+![]( "")
+
+## [](){:target="_blank"}
+
+![]( "")

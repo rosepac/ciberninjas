@@ -144,6 +144,9 @@ collections:
     eff:
         output: true
         permalink: /:collection/:path
+    pac:
+        output: true
+        permalink: /:collection/:path
 
 defaults:
     # _pages
@@ -256,7 +259,7 @@ defaults:
       read_time: true
       comments: false
       share: true
-      related: false
+      related: true
     # _electronic-frontier-foundation
   - scope:
       path: ""
@@ -268,6 +271,16 @@ defaults:
       comments: false
       share: true
       related: false
+  - scope:
+      path: ""
+      type: pac
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
 
 category_archive:
   type: liquid

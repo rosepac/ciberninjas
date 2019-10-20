@@ -10,6 +10,10 @@ last_modified_at:
 permalink: /python-recursos/
 ---
 
+## Artículos de Python 
+
+Vídeo APRENDIZAJE PROFUNDO CON PYTORCH: UN BOMBARDEO DE 60 MINUTOS https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
 ## Chuletas  de Consulta
 
 
