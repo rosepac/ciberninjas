@@ -13,7 +13,12 @@ header:
   overlay_image: https://i.ibb.co/9vwpm3k/hackernews-logo.png
   overlay_filter: '0.2'
   image_description: Logotipo de Hacker News
-  caption: '**Créditos**: Propiedad de la propia web.'
+  caption: '**Créditos**\: Propiedad de la propia web.'
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
+
 ---
 
 > [Hacker News](https://news.ycombinator.com/){:target="_blank"} es un sitio web de noticias que se centra en la programación, la ciencia y la sociedad.
