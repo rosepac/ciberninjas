@@ -12,8 +12,8 @@ tags:
 header:
   overlay_image: https://i.ibb.co/9vwpm3k/hackernews-logo.png
   overlay_filter: '0.2'
-  image_description: Logotipo de Hacker News
-  caption: '**Créditos**\: Propiedad de la propia web.'
+  image_description: "Logotipo de Hacker News"
+  caption: "**Créditos**\: Propiedad de la propia web."
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
