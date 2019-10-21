@@ -1,7 +1,7 @@
 ---
-title: "\U0001F4F0 Lo mejor de Hacker News! Semana #1 2019"
-description: "🔥 Las Mejores Noticias de la Semana de Hacker News. La Mejor Página Web de Programación del Mundo."
-excerpt: "🔥 Las Mejores Noticias de la Semana de Hacker News. La Mejor Página Web de Programación del Mundo."
+title: "🔥 Lo mejor de Hacker News! Semana #1 2019"
+description: "📰 Las Mejores Noticias de la Semana de Hacker News. La Mejor Página Web de Programación del Mundo."
+excerpt: "📰 Las Mejores Noticias de la Semana de Hacker News. La Mejor Página Web de Programación del Mundo."
 date: 2019-10-19 14:25:00 +0200
 last_modified_at: 2019-10-20 22:20:00 +0200
 permalink: /mejor-hacker-news-1-2019
