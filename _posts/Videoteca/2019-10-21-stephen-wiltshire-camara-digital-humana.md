@@ -1,8 +1,8 @@
 ---
 author_profile: false
-title: "🧠 🧠 Stephen Wiltshire: La cámara humana"
-description: "🧠 🧠 Stephen Wiltshire: La cámara humana"
-excerpt: "🧠 🧠 Stephen Wiltshire: La cámara humana"
+title: "🧠 Stephen Wiltshire: La cámara humana"
+description: "🧠 Stephen Wiltshire: La cámara humana"
+excerpt: "🧠 Stephen Wiltshire: La cámara humana"
 header:
   video:
     id: JrhLWoMl7_Y
