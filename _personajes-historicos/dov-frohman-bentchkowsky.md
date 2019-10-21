@@ -8,7 +8,7 @@ published: true
 permalink: /personajes-historicos/dov-frohman-bentchkowsky/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/dov-frohman-bentchkowsky/
 header:
-  teaser:
+  teaser: https://images.computerhistory.org/fellows/dfrohmanbentchkowsky.jpg
 sidebar:
 - title: "Historia Computadora"
   nav: historia

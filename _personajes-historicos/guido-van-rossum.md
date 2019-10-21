@@ -8,7 +8,7 @@ published: true
 permalink: /personajes-historicos/guido-van-rossum/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/guido-van-rossum/
 header:
-  teaser:
+  teaser: https://images.computerhistory.org/fellows/gvanrossum.jpg
 sidebar:
 - title: "Historia Computadora"
   nav: historia

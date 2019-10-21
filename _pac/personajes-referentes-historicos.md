@@ -17,4 +17,9 @@ sidebar:
 
 [](https://news.ycombinator.com/item?id=21230418) https://fs.blog/2019/10/the-best-of-goethes-aphorisms/
 
-(Kim Peek)[https://es.wikipedia.org/wiki/Kim_Peek]
+El síndrome de Savant?.. Buscar personas y vídeos colocar en Sociología, Savant. Categoría..
+[Kim Peek](https://es.wikipedia.org/wiki/Kim_Peek)
+https://www.youtube.com/watch?v=-zt0sWrLIUg
+Stephen Wiltshire https://www.youtube.com/watch?v=JrhLWoMl7_Y
+
+https://www.storypick.com/kim-ung-yong/

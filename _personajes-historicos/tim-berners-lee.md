@@ -8,7 +8,7 @@ published: true
 permalink: /personajes-historicos/tim-berners-lee/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/sir-tim-berners-lee/
 header:
-  teaser:
+  teaser: https://images.computerhistory.org/fellows/2003_tim_berners-lee.jpg
 sidebar:
 - title: "Historia Computadora"
   nav: historia
@@ -22,7 +22,7 @@ sidebar:
 
 ## All-Star Informático 2003
 
-Sus contribuciones fundamentales al desarrollo de la World Wide Web.
+Premiado por sus contribuciones fundamentales al desarrollo de la World Wide Web.
 
 > Por ser el padre de la World Wide Web
 

@@ -8,7 +8,7 @@ published: true
 permalink: /personajes-historicos/katherine-johnson/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/katherine-johnson/
 header:
-  teaser:
+  teaser: https://images.computerhistory.org/fellows/kjohnson.jpg
 sidebar:
 - title: "Historia Computadora"
   nav: historia

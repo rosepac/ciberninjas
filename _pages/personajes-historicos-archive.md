@@ -1,10 +1,11 @@
 ---
 layout: collection
 author_profile: false
-title: "Personajes Históricos Más Importantes en la Historia de las Computadoras"
+title: "Personajes Históricos en la Historia de las Computadoras"
 description: '🏛 Los personajes históricos más importantes en la historia de la creación de las computadoras'
 excerpt: '🏛 Los personajes históricos más importantes en la historia de la creación de las computadoras'
 entries_layout: default
+date: 2019-09-11T16:18:02-05:00
 last_modified_at: 2019-09-11T16:20:02-05:00
 collection: personajes-historicos
 permalink: /personajes-historicos/
