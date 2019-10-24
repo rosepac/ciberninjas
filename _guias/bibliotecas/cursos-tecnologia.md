@@ -44,6 +44,10 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas; 
 <p>En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada tecnología concreta.</p>
 </details>
 
+## 👨‍🏫 Meta-Listas
+
+* [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/)
+* [Cursos en Inglés]() (Hackr io)
 
 ## 📁 Bases de Datos
 
