@@ -216,13 +216,13 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas; 
 * [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://www.udemy.com/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa){:target="_blank"} (Udemy)
 * [Tienda Online con WooCommerce desde cero](https://www.udemy.com/tienda-online-con-woocommerce-desde-cero){:target="_blank"} (Udemy)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--warning .btn--large}
 
 ## ⛓ Blockchain
 
 ## Cadena de Bloques 🔗
 
-- [Curso de Blockchain en Python](https://unipython.com/curso-de-blockchain){:target="_blank"} (UniPython)
+* [Curso de Blockchain en Python](https://unipython.com/curso-de-blockchain){:target="_blank"} (UniPython)
 
 
 ## Criptomonedas 💰
