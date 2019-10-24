@@ -11,74 +11,94 @@ author_profile: true
 
 ---
 
-[A](/glosario/completo-interfaces-programacion/#a)  \ [C](/glosario/completo-interfaces-programacion/#c) \ [D](/glosario/completo-interfaces-programacion/#d) \ [E](/glosario/completo-interfaces-programacion/#e) \ G \ H \ I \ J \ L \ M \ O \ P \ R \ S \ T \ X
+🔠 [A](/glosario/completo-interfaces-programacion/#a) ➡ [C](/glosario/completo-interfaces-programacion/#c) ➡ [D](/glosario/completo-interfaces-programacion/#d) ➡ [E](/glosario/completo-interfaces-programacion/#e) ➡ [G](/glosario/completo-interfaces-programacion/#g) ➡ [H](/glosario/completo-interfaces-programacion/#h) ➡ [I](/glosario/completo-interfaces-programacion/#i) ➡ [J](/glosario/completo-interfaces-programacion/#j) ➡ [L](/glosario/completo-interfaces-programacion/#l) ➡ [M](/glosario/completo-interfaces-programacion/#m) ➡ [O](/glosario/completo-interfaces-programacion/#o) ➡ [P](/glosario/completo-interfaces-programacion/#p) ➡ [R](/glosario/completo-interfaces-programacion/#r) ➡ [S](/glosario/completo-interfaces-programacion/#s) ➡ [T](/glosario/completo-interfaces-programacion/#t) ➡ [X](/glosario/completo-interfaces-programacion/#x)
 
 ## A
 
 **Agente de usuario o  'User-agent'**
+
 Encabezado que le permite al servidor saber qué tipo de software está haciendo la solicitud. Contiene información sobre el agente de usuario que origina la solicitud. Este encabezado se debe utilizar con fines estadísticos o reconocimiento automático de agente de usuario para manejar las limitaciones particulares del software.
 
 **Ajax**
+
 Es originalmente un acrónimo, Asynchronous JavaScript and XML, permite al cliente enviar y recuperar datos del servidor sin volver a cargar la página.
 
 **Apoderado**
+
 Un intermediario para solicitudes de clientes y servidores que proporcionan recursos.
 
 **Anfitrión o Host**
+
 Encabezado que contiene el nombre de dominio de la URL de solicitud.
 
 **API**
+
 API son las interfaces de programación que permiten al software interactuar con otro software a través de la funcionalidad expuesta.
 
 **Autenticación**
+
 Identificar al usuario de la API. Las técnicas comunes para la autenticación incluyen API Keys y OAuth.
 
 ## C
 
 **Cache**
+
 Es una colección de respuestas que el software cliente reutiliza para mejorar el rendimiento.
 
 **Cliente**
+
 El cliente es la parte iniciadora que envía una solicitud de API. Muchas veces habrá muchos clientes consumiendo la misma API.
 
 **Código de Estado o 'Status Code'**
+
 HTTP status codes are what the server sends in the response back to the client with regards to the status of the request.
 
 **Colección**
+
 Un recurso de una API que agrupa otros recursos agrupados.
 
 **Colección + JSON**
+
 Un tipo hipermedia para la gestión y consulta de colecciones simples.
 
-Contenido semántico
+**Contenido semántico**
+
 Agregar significado a los recursos web mediante el uso de etiquetas especializadas.
 
 **CORS**
+
 Las solicitudes de origen cruzado permiten que JavaScript en sitios web realice solicitudes AJAX a dominios más allá del que inicia la solicitud.
 
 **cURL**
+
 Interfaz de línea de comando a HTTP. Extremadamente popular para probar las API y el componente básico para muchas bibliotecas de clientes.
 
 ## D
 
 **DOM**
+
 El Modelo de objetos de documento define una forma estándar de representar e interactuar con objetos dentro de documentos HTML y XML.
 
 ## E
 
 **Eliminar o Delete**
+
 El método HTTP para eliminar recursos con una API RESTful.
 
 **Encabezamiento o Header**
+
 El encabezado es lo que se envía antes del cuerpo de una solicitud o respuesta HTTP.
 
 **Enlazar**
+
 Una dirección HTTP totalmente calificada para un recurso en particular (por ejemplo, "http://my.api.com/v1/resources/resource-name"). Las API RESTful, por definición, deben proporcionar enlaces desde un recurso a todos los recursos y colecciones relacionadas que proporcionan acciones posteriores utilizando el recurso. Esto permite que una API se atraviese orgánicamente y que un desarrollador de aplicaciones se asegure de que su Cliente API no esté en (tanto) peligro si la ubicación de un recurso cambia.
 
 **Etiqueta de entidad**
+
 Encabezado que designa una versión de una representación. Útil para el almacenamiento en caché y / o solicitudes condicionales.
 
 **Expirar**
+
 Un encabezado que le dice al cliente que puede almacenar en caché una respuesta hasta cierto tiempo.
 
 ## G
