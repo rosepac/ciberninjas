@@ -13,6 +13,8 @@ author_profile: true
 
 🔠 [A](/glosario/completo-interfaces-programacion/#a) ➡ [C](/glosario/completo-interfaces-programacion/#c) ➡ [D](/glosario/completo-interfaces-programacion/#d) ➡ [E](/glosario/completo-interfaces-programacion/#e) ➡ [G](/glosario/completo-interfaces-programacion/#g) ➡ [H](/glosario/completo-interfaces-programacion/#h) ➡ [I](/glosario/completo-interfaces-programacion/#i) ➡ [J](/glosario/completo-interfaces-programacion/#j) ➡ [L](/glosario/completo-interfaces-programacion/#l) ➡ [M](/glosario/completo-interfaces-programacion/#m) ➡ [O](/glosario/completo-interfaces-programacion/#o) ➡ [P](/glosario/completo-interfaces-programacion/#p) ➡ [R](/glosario/completo-interfaces-programacion/#r) ➡ [S](/glosario/completo-interfaces-programacion/#s) ➡ [T](/glosario/completo-interfaces-programacion/#t) ➡ [X](/glosario/completo-interfaces-programacion/#x)
 
+*****
+
 ## A
 
 **Agente de usuario o  'User-agent'**
@@ -262,7 +264,7 @@ Combinando múltiples API para crear una nueva aplicación web.
 **Tubería o Pipeling**
 El cliente envía varias solicitudes HTTP a la vez y el servidor responde en el orden en que las recibe.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--warning}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--success}
 
 ## U
 
