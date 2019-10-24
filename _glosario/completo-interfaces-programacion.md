@@ -262,7 +262,7 @@ Combinando múltiples API para crear una nueva aplicación web.
 **Tubería o Pipeling**
 El cliente envía varias solicitudes HTTP a la vez y el servidor responde en el orden en que las recibe.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--warning}
 
 ## U
 
