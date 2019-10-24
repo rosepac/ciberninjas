@@ -7,15 +7,11 @@ published: true
 date: 2019-10-24
 last_modified_at:
 classes: wide
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 author_profile: true
 
 ---
 
-A(/glosario/completo-interfaces-programacion/#A)  B(/glosario/completo-interfaces-programacion/#B)  C(/glosario/completo-interfaces-programacion/#C)  D(/glosario/completo-interfaces-programacion/#D)  E(/glosario/completo-interfaces-programacion/#E)  F  G  H  I  J  K  L  M  N  O  P  Q  R  T  U  V  W  Y  Z
+[A](/glosario/completo-interfaces-programacion/#A)  [B](/glosario/completo-interfaces-programacion/#B)  [C](/glosario/completo-interfaces-programacion/#C)  [D](/glosario/completo-interfaces-programacion/#D)  E(/glosario/completo-interfaces-programacion/#E)  F  G  H  I  J  K  L  M  N  O  P  Q  R  T  U  V  W  Y  Z
 
 ## A
 
