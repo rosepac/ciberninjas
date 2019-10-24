@@ -1,7 +1,7 @@
 ---
-title: "Glosario Completo de Interfaces de Programación: Definiciones de Términos"
-description: "Glosario Completo de Interfaces de Programación"
-excerpt: "Glosario Completo de Interfaces de Programación"
+title: "Glosario de Interfaces de Programación: Definiciones de Términos"
+description: "Glosario de Interfaces de Programación"
+excerpt: "Glosariode de Interfaces de Programación"
 permalink: /glosario/completo-interfaces-programacion/
 published: true
 date: 2019-10-24
@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-🔠 [A](/glosario/completo-interfaces-programacion/#a) ➡ [C](/glosario/completo-interfaces-programacion/#c) ➡ [D](/glosario/completo-interfaces-programacion/#d) ➡ [E](/glosario/completo-interfaces-programacion/#e) ➡ [G](/glosario/completo-interfaces-programacion/#g) ➡ [H](/glosario/completo-interfaces-programacion/#h) ➡ [I](/glosario/completo-interfaces-programacion/#i) ➡ [J](/glosario/completo-interfaces-programacion/#j) ➡ [L](/glosario/completo-interfaces-programacion/#l) ➡ [M](/glosario/completo-interfaces-programacion/#m) ➡ [O](/glosario/completo-interfaces-programacion/#o) ➡ [P](/glosario/completo-interfaces-programacion/#p) ➡ [R](/glosario/completo-interfaces-programacion/#r) ➡ [S](/glosario/completo-interfaces-programacion/#s) ➡ [T](/glosario/completo-interfaces-programacion/#t) ➡ [X](/glosario/completo-interfaces-programacion/#x)
+🔠 [A](/glosario/completo-interfaces-programacion/#a) ➡ [C](/glosario/completo-interfaces-programacion/#c) ➡ [D](/glosario/completo-interfaces-programacion/#d) ➡ [E](/glosario/completo-interfaces-programacion/#e) ➡ [G](/glosario/completo-interfaces-programacion/#g) ➡ [H](/glosario/completo-interfaces-programacion/#h) ➡ [I](/glosario/completo-interfaces-programacion/#i) ➡ [J](/glosario/completo-interfaces-programacion/#j) ➡ [L](/glosario/completo-interfaces-programacion/#l) ➡ [M](/glosario/completo-interfaces-programacion/#m) ➡ [O](/glosario/completo-interfaces-programacion/#o) ➡ [P](/glosario/completo-interfaces-programacion/#p) ➡ [R](/glosario/completo-interfaces-programacion/#r) ➡ [S](/glosario/completo-interfaces-programacion/#s) ➡ [T](/glosario/completo-interfaces-programacion/#t) ➡ [U](/glosario/completo-interfaces-programacion/#u) ➡ [V](/glosario/completo-interfaces-programacion/#v) ➡ [X](/glosario/completo-interfaces-programacion/#x)
 
 *****
 
