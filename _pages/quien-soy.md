@@ -2,7 +2,7 @@
 title: 'Quién es ROSEPAC'
 permalink: "/quien-soy/"
 date: 2018-02-13T22:00:00.000+00:00
-last_modified_at: 2018-10-14T12:42:42-05:00
+last_modified_at: 2019-10-21T12:42:42-05:00
 canonical_URL: htpps://ciberninjas.com/quien-soy/
 description: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
 excerpt: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
