@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-[A](/glosario/completo-interfaces-programacion/#A)  [B](/glosario/completo-interfaces-programacion/#B)  [C](/glosario/completo-interfaces-programacion/#C)  [D](/glosario/completo-interfaces-programacion/#D)  E(/glosario/completo-interfaces-programacion/#E)  F  G  H  I  J  K  L  M  N  O  P  Q  R  T  U  V  W  Y  Z
+[A](/glosario/completo-interfaces-programacion/#a)  \ [C](/glosario/completo-interfaces-programacion/#c) \ [D](/glosario/completo-interfaces-programacion/#d) \ [E](/glosario/completo-interfaces-programacion/#e) \ G \ H \ I \ J \ L \ M \ O \ P \ R \ S \ T \ X
 
 ## A
 
@@ -58,6 +58,8 @@ Las solicitudes de origen cruzado permiten que JavaScript en sitios web realice 
 
 **cURL**
 Interfaz de línea de comando a HTTP. Extremadamente popular para probar las API y el componente básico para muchas bibliotecas de clientes.
+
+## D
 
 **DOM**
 El Modelo de objetos de documento define una forma estándar de representar e interactuar con objetos dentro de documentos HTML y XML.
