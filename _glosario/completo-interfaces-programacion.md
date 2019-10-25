@@ -1,7 +1,7 @@
 ---
-title: "Glosario de Interfaces de Programación: Definiciones de Términos"
-description: "Glosario de Interfaces de Programación"
-excerpt: "Glosariode de Interfaces de Programación"
+title: "🤠 Glosario API o Interfaz de Programación de Aplicaciones: Definiciones de Términos"
+description: "Glosario API o Interfaz de Programación de Aplicaciones"
+excerpt: "Glosario API o Interfaz de Programación de Aplicaciones"
 permalink: /glosario/completo-interfaces-programacion/
 published: true
 date: 2019-10-24
@@ -41,7 +41,7 @@ API son las interfaces de programación que permiten al software interactuar con
 
 Identificar al usuario de la API. Las técnicas comunes para la autenticación incluyen API Keys y OAuth.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## C
 
@@ -51,7 +51,7 @@ Es una colección de respuestas que el software cliente reutiliza para mejorar e
 
 **Cliente**
 
-El cliente es la parte iniciadora que envía una solicitud de API. Muchas veces habrá muchos clientes consumiendo la misma API.
+El cliente es la parte iniciadora que envía una solicitud API. Muchas veces habrá muchos clientes consumiendo la misma API.
 
 **Código de Estado o 'Status Code'**
 
@@ -77,7 +77,7 @@ Las solicitudes de origen cruzado permiten que JavaScript en sitios web realice 
 
 Interfaz de línea de comando a HTTP. Extremadamente popular para probar las API y el componente básico para muchas bibliotecas de clientes.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## D
 
@@ -85,7 +85,7 @@ Interfaz de línea de comando a HTTP. Extremadamente popular para probar las API
 
 El Modelo de objetos de documento define una forma estándar de representar e interactuar con objetos dentro de documentos HTML y XML.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## E
 
@@ -109,7 +109,7 @@ Encabezado que designa una versión de una representación. Útil para el almace
 
 Un encabezado que le dice al cliente que puede almacenar en caché una respuesta hasta cierto tiempo.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## G
 
@@ -119,7 +119,7 @@ Un proxy que se traduce entre protocolos.
 **Get / Obtener**
 Es el método HTTP para recuperar recursos de una API RESTful.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## H
 
@@ -141,7 +141,7 @@ La parte de una solicitud HTTP que le dice al servidor lo que el cliente quiere 
 **HTTPS**
 El Protocolo seguro de transferencia de hipertexto es la forma en que los sitios web y las API se comunican de forma segura a través de Internet.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## I
 
@@ -151,12 +151,12 @@ Cuando los efectos secundarios de múltiples solicitudes son iguales a una sola 
 **If-Modified-Since**
 Encabezado que solicita obtener una representación solo si la representación ha cambiado desde la última solicitud. Se utiliza para solicitudes GET condicionales.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## J
 
 **JSON**
-La notación de objetos Javascript es un formato de datos comúnmente utilizado para los parámetros de solicitudes de API y el cuerpo de respuesta.
+La notación de objetos Javascript es un formato de datos comúnmente utilizado para los parámetros de solicitudes API y el cuerpo de respuesta.
 
 **JSON + HAL**
 Un tipo hipermedia que normaliza el hipervínculo y la incorporación de recursos.
@@ -164,31 +164,31 @@ Un tipo hipermedia que normaliza el hipervínculo y la incorporación de recurso
 **JSONP**
 JSON con relleno es una técnica utilizada para superar las restricciones de dominio cruzado impuestas por los navegadores para permitir que los datos se recuperen de sistemas distintos al que sirve la página.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## L
 
 **Latencia**
-El tiempo que tarda la solicitud de API en pasar de la solicitud a la respuesta.
+El tiempo que tarda la solicitud API en pasar de la solicitud a la respuesta.
 
 **Limitación de velocidad**
 Limitar el consumo de una API a un cierto número de solicitudes por período de tiempo.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## M
 
 **Microformato**
 Un estándar industrial de marcado semántico utilizado para describir el contenido de un documento.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## O
 
 **OAuth**
 Marco de autorización estándar abierto. Otorga acceso en nombre de un usuario final sin compartir directamente las credenciales.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## P
 
@@ -207,7 +207,7 @@ El URI que va después de la URL base y apunta hacia la funcionalidad API solici
 **PUT o Poner**
 El método HTTP para actualizar recursos con una API RESTful.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## R
 
@@ -223,7 +223,7 @@ La transferencia de estado representativo es un patrón arquitectónico para int
 **RDF**
 Marco de descripción de recursos. Marco enfocado en contenido semántico.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## S
 
@@ -251,7 +251,7 @@ Un protocolo criptográfico que asegura el tráfico en Internet.
 **Stateless**
 El servidor no almacena el contexto del cliente entre solicitudes.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## T
 
@@ -264,7 +264,7 @@ Combinando múltiples API para crear una nueva aplicación web.
 **Tubería o Pipeling**
 El cliente envía varias solicitudes HTTP a la vez y el servidor responde en el orden en que las recibe.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--success}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--info}
 
 ## U
 
@@ -274,7 +274,7 @@ Encabezado que proporciona información sobre la ubicación de un recurso recié
 **Última modificación**
 Encabezado que le dice al cliente la última vez que cambió la representación. Importante para las solicitudes condicionales If-Modified-Since.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
 
 ## V
 
@@ -286,4 +286,4 @@ Asignar un identificador único para realizar un seguimiento del estado de la AP
 **XML**
 El lenguaje de marcado extensible es un formato que se utiliza para describir documentos y datos.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
