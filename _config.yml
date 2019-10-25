@@ -32,7 +32,7 @@ repository: "rosepac/ciberninjas"
 masthead_title: "Ciberninjas"
 twitter_username: ciberaprendiz
 github_username: Pablo Álvarez Corredera
-minimal_mistakes_skin: default # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+minimal_mistakes_skin: mint # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
 # Configuración del Autor
 author:
