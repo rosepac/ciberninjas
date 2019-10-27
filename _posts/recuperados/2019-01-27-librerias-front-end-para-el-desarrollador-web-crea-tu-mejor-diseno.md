@@ -3,9 +3,11 @@ title: '🎨 Genera tus Mejores Diseños con Estas Librerías Front-End Impresio
 description: '👨‍🎨 Las mejores librerías Js que podrás aprovechar para dar el mejor aspecto a todos tus proyectos volviéndolos mucho más espectaculares.' 
 excerpt: '👨‍🎨 Las mejores librerías Js que podrás aprovechar para dar el mejor aspecto a todos tus proyectos volviéndolos mucho más espectaculares.' 
 published: true
-author: rosepac
+author_profile: true
+author: true
 comments: false
 date: 2019-01-27 07:01:02
+last_modified_at: 2019-10-27
 tags:
   - 3D
   - Animación
@@ -63,6 +65,7 @@ Recursos que nos ayudan a generar creaciones con movimiento y cambios de formas.
 - [**¿Estamos animados todavía?**](https://birtles.github.io/areweanimatedyet/){:target="_blank"}: Esta página registra el progreso de la implementación de la API de Animaciones Web en Firefox.
 - [**WAAPI Browser Support Test (+ Polyfill)**](http://codepen.io/danwilson/pen/XmWraY){:target="_blank"}: Este ‘codepen’ muestra qué extensión de su navegador admite la API de animaciones web. La prueba se ejecuta después de incluir Polyfill.
 - [**Animaciones Web Polyfill**](https://github.com/web-animations/web-animations-js){:target="_blank"}: Implementación de JavaScript de la API de Animaciones Web.
+- [🆕 **Zim JS**](https://zimjs.com/ "Librería de Creación de Animaciones Zim"){:target="_blank"} (2019)
 
 ## **Tipografía**
 
