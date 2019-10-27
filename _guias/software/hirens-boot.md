@@ -7,6 +7,7 @@ last_modified_at:
 author_profile: true
 permalink: /hirens-bootcd-pe/
 canonical_URL: https://ciberninjas.com/hirens-bootcd-pe/
+comments: true
 header:
   image: "https://i.ibb.co/BNcB3fq/Hirens-Boot-CD-PE-1200x675.png"
   image_description: Hiren´s BootCD PE, generador de sitios estáticos | Ciberninjas
