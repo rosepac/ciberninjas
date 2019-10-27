@@ -18,7 +18,7 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-Hiren's BootCD PE (entorno de preinstalación) es una edición restaurada de Hiren's BootCD basada en Windows 10 PE x64. Como no hay actualizaciones oficiales después de noviembre de 2012, los fanáticos de Hiren's BootCD están desarrollando la versión PE que incluye herramientas gratuitas, mejoras y actualizadas utilizadas en Hiren's BootCD. Se está desarrollando para las computadoras de la nueva era, admite el arranque UEFI y requiere un mínimo de 2 GB de RAM.
+Hiren's BootCD PE (entorno de preinstalación) es una edición restaurada del reconocido Hiren's BootCD basada en Windows 10 PE x64. Como no hay actualizaciones oficiales después de noviembre de 2012, los fanáticos de Hiren's BootCD están desarrollando la versión PE que incluye herramientas gratuitas, mejoras y actualizadas utilizadas en Hiren's BootCD. Se está desarrollando para las computadoras de la nueva era, admite el arranque UEFI y requiere un mínimo de 2 GB de RAM.
 
 ## 👉 Introducción
 
