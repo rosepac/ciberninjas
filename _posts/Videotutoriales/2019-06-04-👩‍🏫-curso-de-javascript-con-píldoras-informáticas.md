@@ -12,7 +12,7 @@ header:
   video:
     id: playlist?list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID
     provider: youtube
-comments: false
+comments: true
 date: 2019-06-04 15:30:00 +0200
 tags:
   - Píldoras Informáticas

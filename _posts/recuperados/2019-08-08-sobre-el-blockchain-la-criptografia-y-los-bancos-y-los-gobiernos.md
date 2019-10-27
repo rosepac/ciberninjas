@@ -5,7 +5,7 @@ title: >
     gobiernos?
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-02-02 05:02:54
 tags:
     - activismo

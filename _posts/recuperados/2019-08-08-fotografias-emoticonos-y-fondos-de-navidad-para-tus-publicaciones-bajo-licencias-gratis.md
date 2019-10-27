@@ -5,7 +5,7 @@ title: >
     publicaciones bajo licencias gratis
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-24 09:12:57
 tags:
     - árbol

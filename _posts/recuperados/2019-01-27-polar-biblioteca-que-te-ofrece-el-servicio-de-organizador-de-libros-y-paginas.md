@@ -3,7 +3,7 @@
 title: Polar, biblioteca que te ofrece el servicio de organizador de libros y páginas
 published: true
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-27 10:01:33
 tags:
     - Ofimática

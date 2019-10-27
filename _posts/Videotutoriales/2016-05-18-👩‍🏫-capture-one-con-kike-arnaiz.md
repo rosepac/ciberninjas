@@ -7,7 +7,7 @@ header:
   video:
     id: playlist?list=PLyNvsloSbd7OBs4jXRV7OJBl2aYwgvRdE
     provider: youtube
-comments: false
+comments: true
 date: 2016-05-18 12:08:02
 tags:
 - Kike Arnaiz

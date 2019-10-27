@@ -5,7 +5,7 @@ title: >
     editor de Wordpress
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-19 12:12:45
 tags:
     - edición

@@ -5,7 +5,7 @@ title: >
     igual!
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-03 07:12:32
 tags:
     - blogs

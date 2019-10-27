@@ -14,7 +14,7 @@ header:
   video:
     id: playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G
     provider: youtube
-comments: false
+comments: true
 date: 2019-06-04 15:20:00 +0200
 tags:
   - Falcon Masters

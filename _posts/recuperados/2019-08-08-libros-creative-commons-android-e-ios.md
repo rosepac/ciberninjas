@@ -3,7 +3,7 @@ layout: post
 title: Libros Creative Commons de Android e iOS
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-10 09:12:22
 tags:
     - android

@@ -3,7 +3,7 @@ layout: post
 title: 'Harry Potter: Wizards Unite, trailer de nuevo videojuego'
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-07-13 01:07:32
 tags:
     - realidad virtual

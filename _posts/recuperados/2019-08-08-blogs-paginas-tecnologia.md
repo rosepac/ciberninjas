@@ -3,7 +3,7 @@ layout: post
 title: 'Blog´s & Páginas de Tecnología'
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-19 01:12:00
 tags: [ ]
 categories: [ ]

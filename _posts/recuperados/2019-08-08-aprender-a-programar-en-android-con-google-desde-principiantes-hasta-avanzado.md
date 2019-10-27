@@ -5,7 +5,7 @@ title: >
     principiantes hasta avanzado
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-12 02:12:49
 tags:
     - android

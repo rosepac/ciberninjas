@@ -3,7 +3,7 @@ title: 🤖 ▷ Preguntas Frecuentes Sobre robots.txt
 description: "🕷 Preguntas Frecuentes Sobre robots.txt"
 excerpt: "🕷 Preguntas Frecuentes Sobre robots.txt"
 published: true
-comments: false
+comments: true
 date: 2019-09-19
 last_modified_at: 2019-09-19 10:40:10
 permalink: /robots-txt-preguntas-frecuentes/

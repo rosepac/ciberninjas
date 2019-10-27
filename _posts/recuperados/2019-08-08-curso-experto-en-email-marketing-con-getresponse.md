@@ -3,7 +3,7 @@ layout: post
 title: Curso Experto en Email Marketing con GetResponse
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-19 11:12:29
 tags:
     - email

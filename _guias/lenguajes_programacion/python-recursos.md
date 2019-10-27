@@ -4,7 +4,7 @@ description: '🔨 🐍 Los Mejores Recursos con los que Aprender Python'
 excerpt: '🔨 🐍 Los Mejores Recursos con los que Aprender Python'
 published: true
 author: rosepac
-comments: false
+comments: true
 date: 2019-10-08 12:06:18
 last_modified_at: 
 permalink: /python-recursos/

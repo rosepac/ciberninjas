@@ -5,7 +5,7 @@ title: >
     contenido.. Y sobre el contenido de Internet
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-19 07:01:02
 tags:
     - adsense

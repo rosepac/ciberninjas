@@ -3,7 +3,7 @@
 title: Libros Pendientes de Publicación
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-10-10 09:03:22
 tags: 
 categories: 

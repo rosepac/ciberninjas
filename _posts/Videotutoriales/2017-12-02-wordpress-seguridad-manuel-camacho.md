@@ -7,7 +7,7 @@ header:
   video:
     id: LcquoWC_HY4
     provider: youtube
-comments: false
+comments: true
 date: 2017-12-02 18:20:12
 tags:
 # Autor, Editorial, Temática, Tipo de Música

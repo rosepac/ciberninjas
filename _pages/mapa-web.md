@@ -5,7 +5,7 @@ excerpt: "👷‍♂️ 🔨 Cientos de Recursos: Mis Programas y Aplicaciones O
 published: false
 author: rosepac
 classes: wide
-comments: false
+comments: true
 date: 2019-07-17 08:07:47
 permalink: /recursos/
 sidebar:

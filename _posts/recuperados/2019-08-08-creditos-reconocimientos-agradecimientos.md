@@ -3,7 +3,7 @@ layout: post
 title: 'Créditos & Reconocimientos'
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-06-20 06:06:37
 tags: [ ]
 categories: [ ]

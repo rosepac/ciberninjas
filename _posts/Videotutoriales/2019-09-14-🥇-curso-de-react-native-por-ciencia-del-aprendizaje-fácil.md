@@ -8,7 +8,7 @@ header:
   video:
     id: playlist?list=PLTwG_kX1X-qFUA8KyDnzLCmD9ja6pFocb
     provider: youtube
-comments: false
+comments: true
 date: 2019-09-14 04:20:00 +0200
 tags:
   - Ciencia del Aprendizaje Fácil

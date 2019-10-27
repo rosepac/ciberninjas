@@ -5,7 +5,7 @@ title: >
     Ver
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-02-02 10:02:59
 tags: [ ]
 categories: [ ]

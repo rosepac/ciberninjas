@@ -7,7 +7,7 @@ header:
   video:
     id: VsN7E35LpJE
     provider: youtube
-comments: false
+comments: true
 date: 2019-08-31 03:50:00 +0200
 tags:
   - Crossover Clásica

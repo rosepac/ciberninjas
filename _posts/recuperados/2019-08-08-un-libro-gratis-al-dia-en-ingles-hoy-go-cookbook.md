@@ -3,7 +3,7 @@ layout: post
 title: 'Un libro gratis al día, en inglés. Hoy: Go Cookbook'
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-16 08:12:54
 tags:
     - book

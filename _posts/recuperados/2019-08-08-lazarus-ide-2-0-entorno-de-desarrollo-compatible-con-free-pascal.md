@@ -5,7 +5,7 @@ title: >
     Pascal
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-02-07 05:02:39
 tags:
     - ide

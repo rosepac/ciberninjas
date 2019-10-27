@@ -4,7 +4,7 @@ description: "\U0001F39E Inserta tus imágenes favoritas de Google Fotos en tu p
 excerpt: "\U0001F39E Inserta tus imágenes favoritas de Google Fotos en tu página web o sitio Online favorito a través de un código de inserción en HTML generado automáticamente."
 published: true
 author_profile: true
-comments: false
+comments: true
 date: 2019-07-18 07:07:00 +0200
 header:
   overlay_image: /assets/images/Generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg

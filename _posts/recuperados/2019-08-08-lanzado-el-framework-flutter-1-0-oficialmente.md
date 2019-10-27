@@ -3,7 +3,7 @@ layout: post
 title: Lanzado el Framework Flutter 1.0 oficialmente
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-05 09:12:08
 tags:
     - android

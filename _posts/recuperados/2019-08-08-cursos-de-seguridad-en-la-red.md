@@ -3,7 +3,7 @@ layout: post
 title: Cursos de Seguridad en la Red, Gratis y en Español
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-02-07 01:02:43
 tags:
     - aprender

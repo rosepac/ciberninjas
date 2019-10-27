@@ -3,7 +3,7 @@ layout: post
 title: 'Blog´s & Páginas de Música'
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-19 12:12:22
 tags: [ ]
 categories: [ ]

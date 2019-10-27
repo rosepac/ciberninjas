@@ -3,7 +3,7 @@ layout: post
 title: ¿Cómo aprender a programar para Fuchsia?
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-03-25 01:03:02
 tags: [ ]
 categories: [ ]

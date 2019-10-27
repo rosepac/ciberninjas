@@ -5,7 +5,7 @@ title: >
     Bitcoin
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-20 08:01:57
 tags:
     - actualidad

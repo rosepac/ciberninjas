@@ -1,7 +1,7 @@
 ---
 author_profile: false
 title: "👨‍💻 Aprende a Programar Swift - Programación iOS"
-comments: false
+comments: true
 date: 2019-08-30 09:40:55
 tags:
 - Libro

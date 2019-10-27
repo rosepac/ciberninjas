@@ -9,7 +9,7 @@ header:
   video:
     id: playlist?list=PLPl81lqbj-4IcaAluUlCTmbYz0h9XQ8U1
     provider: youtube
-comments: false
+comments: true
 date: 2019-09-28
 tags:
 # Creador, Editorial, Temática, Tipo de Música

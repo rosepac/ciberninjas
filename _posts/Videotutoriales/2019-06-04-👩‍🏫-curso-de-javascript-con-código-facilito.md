@@ -8,7 +8,7 @@ header:
   video:
     id: playlist?list=PLpOqH6AE0tNhQ3KW1DPc18xZfLfjX5Xuz
     provider: youtube
-comments: false
+comments: true
 date: 2019-06-04 15:35:00 +0200
 tags:
   - Código Facilito

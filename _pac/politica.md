@@ -17,11 +17,14 @@ header:
 
 ## Anotaciones
 
-
+283 primera línea..
+https://www.boe.es/publicaciones/biblioteca_juridica/abrir_pdf.php?id=PUB-PB-2018-91
 
 ## Blogs
 
 https://www.pensamientocritico.info/index.php
+http://www.rebelion.org/apartado.php?id=501
+https://conversacionsobrehistoria.info
 
 ## Documentales
 
@@ -63,3 +66,6 @@ Slavoj Zizek. En Defensa de la Intolerancia
 ](https://www.elconfidencial.com/cultura/2018-01-02/marx-espana-nacionalismo-revolucion_1498999/)
 
 [1] Esta idea viene a enlazarse con la idea de Gustavo Bueno. En tanto en cuanto él, le gusta diferenciar entre nación política o nación cultural. Esa cultura es a la que se reducen los problemas reales, en vez de dejarlos en la ¿"sección"? en la que deberían de estar para poder ser afrontados.
+
+http://mastor.cl/blog/wp-content/uploads/2017/05/ZIZEK-Slavo-Sobre-la-violencia.pdf
+Sobre la violencia seis reflexiones marginales

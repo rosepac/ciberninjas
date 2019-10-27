@@ -8,7 +8,7 @@ header:
   video:
     id: playlist?list=PLuzQ5Ac_9_cI-ukaElfIFKXyhLsADBiJe
     provider: youtube
-comments: false
+comments: true
 date: 2019-09-14 06:35:00 +0200
 tags:
   - Mario Díez

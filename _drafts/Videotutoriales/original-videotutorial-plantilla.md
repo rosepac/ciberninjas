@@ -9,7 +9,7 @@ header:
   video:
     id: playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW
     provider: youtube
-comments: false
+comments: true
 date: FECHA
 tags:
 # Creador, Editorial, Temática, Tipo de Música

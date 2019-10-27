@@ -7,7 +7,7 @@ header:
   video:
     id: 9ewiJJe_nYI
     provider: youtube
-comments: false
+comments: true
 date: 2019-08-14 22:06:12
 tags:
 - Carreras de Coches

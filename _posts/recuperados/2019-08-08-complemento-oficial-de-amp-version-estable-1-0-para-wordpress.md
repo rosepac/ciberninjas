@@ -5,7 +5,7 @@ title: >
     Wordpress
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-08 12:01:01
 tags:
     - amp

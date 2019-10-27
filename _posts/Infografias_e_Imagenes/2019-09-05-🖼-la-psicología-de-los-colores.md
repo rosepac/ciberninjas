@@ -3,7 +3,7 @@ author_profile: false
 title: "👨‍🎨 La Psicología de los Colores"
 description: "\U0001F3A8 Infografía que asocia cada color junto a los sentimientos y temáticas que mejor reflejan dentro de la sociedad"
 excerpt: "\U0001F3A8 Infografía que asocia cada color junto a los sentimientos y temáticas que mejor reflejan dentro de la sociedad"
-comments: false
+comments: true
 date: 2019-09-05 00:00:00 +0200
 tags:
   - Colores

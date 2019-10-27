@@ -7,7 +7,7 @@ excerpt: >-
   😻 🎁 🏪 Prime Day Amazon 2019 🔥 todas las mejores ofertas y descuentos para estos dos grandes días de ofertas de productos electrónicos, informáticos, tecnológicos.
 permalink: /prime-day-amazon/
 canonical_URL: https://ciberninjas.com/prime-day-amazon/
-comments: false
+comments: true
 date: 2019-09-01 10:30:00 +0200
 tags:
   - Ofertas Especiales

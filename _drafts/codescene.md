@@ -3,7 +3,7 @@ author_profile: false
 title: CodeScene
 description: CodeScene
 excerpt: CodeScene
-comments: false
+comments: true
 date: 2019-09-01 07:50:00 +0200
 tags:
   - Integración

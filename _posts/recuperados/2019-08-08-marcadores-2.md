@@ -3,7 +3,7 @@ layout: post
 title: Marcadores
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-15 06:12:03
 tags: [ ]
 categories: [ ]

@@ -4,7 +4,7 @@ excerpt: '🚀 Ayer fue lanzada la versión del Framework basado en la creación
 description: '🚀 Ayer fue lanzada la versión del Framework basado en la creación de aplicaciones híbridas: Ionic 4. Enfocado en la creación de componentes web, y las PWA.'
 published: true
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-24 07:01:33
 tags:
 - Ionic

@@ -3,7 +3,7 @@ layout: post
 title: Horticultura
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-03-30 02:03:31
 tags: [ ]
 categories: [ ]

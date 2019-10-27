@@ -3,7 +3,7 @@ layout: post
 title: Mis Favoritos
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-05-23 06:05:53
 tags: [ ]
 categories: [ ]

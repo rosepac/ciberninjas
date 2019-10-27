@@ -3,7 +3,7 @@ layout: post
 title: John Wick Hex, trailer de nuevo videojuego
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-07-12 03:07:43
 tags:
     - acción

@@ -5,7 +5,7 @@ title: >
     protegerse contra los ataques de hardware
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-13 12:01:20
 tags:
     - autentificación

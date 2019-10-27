@@ -3,7 +3,7 @@ layout: post
 title: ¿Qué es la educación 4.0?
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-03-21 04:03:39
 tags: [ ]
 categories: [ ]

@@ -3,7 +3,7 @@ layout: post
 title: 'Ciberseguridad y Hacking Ético: Páginas Web y Blog´s de Interés'
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-07-17 08:07:25
 tags: [ ]
 categories: [ ]

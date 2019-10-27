@@ -3,7 +3,7 @@ layout: post
 title: 'Diario #2: Más perdidos que aguja en un pajar.. Y todo, ¿Por 20 céntimos?'
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-04 01:12:02
 tags:
     - diario

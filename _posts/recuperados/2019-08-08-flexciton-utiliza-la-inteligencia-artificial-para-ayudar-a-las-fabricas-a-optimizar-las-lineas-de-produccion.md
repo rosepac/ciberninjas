@@ -5,7 +5,7 @@ title: >
     las fábricas a optimizar las líneas de producción
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-21 06:01:35
 tags:
     - artificial

@@ -9,7 +9,7 @@ header:
   video:
     id: playlist?list=PLC1DF2992C6235307
     provider: youtube
-comments: false
+comments: true
 date: 2019-06-29
 tags:
 # Javier Fernández, Editorial, Temática, Tipo de Música: SEO, 

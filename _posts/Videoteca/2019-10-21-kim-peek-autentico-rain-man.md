@@ -7,7 +7,7 @@ header:
   video:
     id: -zt0sWrLIUg
     provider: youtube
-comments: false
+comments: true
 date: 2019-10-21 00:16:12
 tags:
 - Kim Peek

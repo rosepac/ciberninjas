@@ -3,7 +3,7 @@ layout: post
 title: Hypevertise, auditoría de cuentas de Instagram
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-06-13 03:06:33
 tags: [ ]
 categories:

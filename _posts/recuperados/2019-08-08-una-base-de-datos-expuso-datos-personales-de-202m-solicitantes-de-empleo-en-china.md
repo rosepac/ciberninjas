@@ -5,7 +5,7 @@ title: >
     solicitantes de empleo en China
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-11 08:01:57
 tags:
     - alterada

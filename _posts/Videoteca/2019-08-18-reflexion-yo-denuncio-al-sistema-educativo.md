@@ -7,7 +7,7 @@ header:
   video:
     id: G0Ece11tlvU
     provider: youtube
-comments: false
+comments: true
 date: 2019-08-18 22:11:12
 tags:
 - Prince Ea

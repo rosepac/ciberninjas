@@ -3,7 +3,7 @@ layout: post
 title: Previa de productos de woocommerce
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-06-10 05:06:21
 tags: [ ]
 categories: [ ]

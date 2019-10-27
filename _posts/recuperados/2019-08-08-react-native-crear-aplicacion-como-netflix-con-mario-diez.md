@@ -3,7 +3,7 @@ layout: post
 title: React Native, crear aplicación como Netflix con Mario Díez
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-06-23 07:06:06
 tags:
     - mario díez

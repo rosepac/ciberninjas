@@ -3,7 +3,7 @@ layout: post
 title: Política de Comentarios
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-03 11:12:03
 tags: [ ]
 categories: [ ]

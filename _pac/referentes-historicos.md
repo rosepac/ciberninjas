@@ -33,6 +33,7 @@ Sarte y su relación con la revolución cubana > http://www.sinpermiso.info/text
 
 Heidegger * (escritor peculiar - investigar :D  )
 
+Søren Kierkegaard..
 
 [](https://news.ycombinator.com/item?id=21230418) https://fs.blog/2019/10/the-best-of-goethes-aphorisms/
 

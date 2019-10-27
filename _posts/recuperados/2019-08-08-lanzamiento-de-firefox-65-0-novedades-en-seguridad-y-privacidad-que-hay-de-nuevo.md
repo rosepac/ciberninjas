@@ -5,7 +5,7 @@ title: >
     privacidad
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-29 06:01:30
 tags:
     - cambios

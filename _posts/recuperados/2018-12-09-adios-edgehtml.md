@@ -3,7 +3,7 @@ layout: post
 title: Adiós, EdgeHTML
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-09 12:12:14
 tags:
     - blog

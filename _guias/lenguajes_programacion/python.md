@@ -4,7 +4,7 @@ description: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo l
 excerpt: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
 published: true
 author: rosepac
-comments: false
+comments: true
 date: 2019-06-30 12:06:18
 last_modified_at: 2019-10-08
 permalink: /python/

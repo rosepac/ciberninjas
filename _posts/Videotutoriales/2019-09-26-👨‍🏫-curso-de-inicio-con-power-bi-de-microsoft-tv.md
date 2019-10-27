@@ -5,7 +5,7 @@ description: "\U0001F4CA Curso de Inicio con Power BI de Microsoft TV"
 excerpt: "\U0001F4CA Curso de Inicio con Power BI de Microsoft TV"
 permalink: /curso-iniciando-power-bi-microsoft-tv
 canonical_URL: 'https://ciberninjas.com/curso-iniciando-power-bi-microsoft-tv'
-comments: false
+comments: true
 date: 2019-09-26 02:00:00 +0200
 tags:
   - Microsoft

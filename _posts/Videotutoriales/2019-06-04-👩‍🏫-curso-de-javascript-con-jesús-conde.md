@@ -12,7 +12,7 @@ header:
   video:
     id: playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx
     provider: youtube
-comments: false
+comments: true
 date: 2019-06-04 15:35:00 +0200
 tags:
   - Jesús Conde

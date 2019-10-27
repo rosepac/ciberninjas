@@ -3,7 +3,7 @@ layout: post
 title: 'Cómo publicar en Instagram 📸 desde el ordenador 🖥 extensión de Chrome: Mobile Browser Emulator'
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-21 06:01:35
 tags:
     - agregar

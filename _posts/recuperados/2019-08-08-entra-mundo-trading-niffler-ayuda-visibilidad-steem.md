@@ -5,7 +5,7 @@ title: >
     visibilidad a Steem
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2018-12-19 05:12:31
 tags:
     - aprender

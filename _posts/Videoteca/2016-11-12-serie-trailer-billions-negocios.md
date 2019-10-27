@@ -7,7 +7,7 @@ header:
   video:
     id: 8u51ZY2a3Sc
     provider: youtube
-comments: false
+comments: true
 date: 2016-11-12 22:06:12
 tags:
 - Negocios

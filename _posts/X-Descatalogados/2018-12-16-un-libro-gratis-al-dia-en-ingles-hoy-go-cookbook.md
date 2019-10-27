@@ -1,6 +1,6 @@
 ---
 title: '📖 Un libro gratis al día, en inglés. Hoy: Go Cookbook'
-comments: false
+comments: true
 date: 2018-12-16 08:12:54
 tags:
     - Libro

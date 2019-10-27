@@ -7,7 +7,7 @@ header:
   video:
     id: DHyUYg8X31c
     provider: youtube
-comments: false
+comments: true
 date: 2017-02-20 08:10:02
 tags:
 - Kurzgesagt

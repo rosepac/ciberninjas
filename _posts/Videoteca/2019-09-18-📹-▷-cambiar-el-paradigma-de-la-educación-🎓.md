@@ -7,7 +7,7 @@ header:
   video:
     id: Z78aaeJR8no
     provider: youtube
-comments: false
+comments: true
 date: 2019-09-18 00:00:00 +0200
 tags:
   - Ken Robinson

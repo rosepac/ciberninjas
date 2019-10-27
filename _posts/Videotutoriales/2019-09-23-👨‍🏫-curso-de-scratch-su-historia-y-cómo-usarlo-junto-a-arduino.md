@@ -9,7 +9,7 @@ header:
   video:
     id: playlist?list=PL5tA44GpyFntFHtHd6Zxb2xQZpxwOfeu3
     provider: youtube
-comments: false
+comments: true
 date: 2019-09-23 11:09:00 +0200
 tags:
   - Arduino

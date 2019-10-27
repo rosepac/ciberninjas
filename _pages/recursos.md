@@ -5,7 +5,7 @@ excerpt: "👷‍♂️ 🔨 Cientos de Recursos: Mis Programas y Aplicaciones O
 published: false
 author: rosepac
 classes: wide
-comments: false
+comments: true
 date: 2019-07-17 08:07:47
 last_modified_at: 2019-10-11T19:10:42-05:00
 permalink: /recursos/
@@ -32,6 +32,10 @@ El otro software de control de noticias que he estado usando durante los último
 Gestor y Lector de Correos Electrónicos (también se le pueden agregar las fuentes de noticias RSS)
 * [Thunderbird](https://support.mozilla.org/en-US/kb/how-subscribe-news-feeds-and-blogs) si bien, desde hace unos meses he dejado de usarlo, puesto que requería demasiado consumo de memoria (8 Gb o más, si deseas mantenerlo siempre abierto junto a más programas) este software de la Fundación Mozilla, es un software que me encanta; ofrece un espectacular diseño de interfaz de usuario y permite gestionar de la mejor forma posible todos tus correos; listarlos, ordenarlos, etiquetarlos, separarlos por carpetas; permite sincronizacióm POP o IMAP, personalización del diseño. Por si fuese poco, te permite incluir un calendario (Lightning) incluso junto a una lista de tareas.
     - Si lo que deseas es controlar tu correo electrónico o unas fuentes de RSS muy concretas de forma continua e instantanea, seguramente es la mejor opción.
+
+### Léxico
+
+DiRae o [One Look](https://www.onelook.com/index.php), varios dicciones en un solo lugar.
 
 ## Aplicaciones de Móvil
 
@@ -67,6 +71,12 @@ Personalmente no le he dado uso, puesto que mis tareas no son tan metódicas ni 
 ## Bloqueo de Sitios Web y Aplicaciones
 
 ## Extensiones de Chrome
+
+* Mobile Browser Emulator (http://tools.diorama.ch/mbe_en.html)
+
+* LinkClump (https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj){:target="_blank"}
+
+Abrir varios enlaces a la vez, de una sola selección.
 
 ## Mis Aplicaciones Realmente Favoritas
 

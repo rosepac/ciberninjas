@@ -5,7 +5,7 @@ title: >
     bajo el seudónimo rosepac
 published: false
 author: rosepac
-comments: false
+comments: true
 date: 2019-01-15 07:01:20
 tags:
     - blog

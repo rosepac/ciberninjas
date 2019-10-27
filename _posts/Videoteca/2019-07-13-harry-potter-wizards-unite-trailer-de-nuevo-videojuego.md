@@ -7,7 +7,7 @@ header:
   video:
     id: MyZpNZbuEF8
     provider: youtube
-comments: false
+comments: true
 date: 2019-07-13 22:06:12
 tags:
 - Realidad Virtual
