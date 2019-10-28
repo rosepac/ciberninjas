@@ -12,4 +12,8 @@ permalink: /diseño-recursos/
 
 ## Logotipos
 
-http://openlogos.org/
+* [Open Logos](http://openlogos.org/){:target="_blank"} Logos gratis para proyectos de código libre.
+
+## Librerías Animaciones
+
+* [Zim JS](https://zimjs.com/uiux.html){:target="_blank"} Ejemplos de UI/UX a través de Javascript.
