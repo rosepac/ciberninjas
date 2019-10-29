@@ -1,13 +1,13 @@
 ---
 title: 🛠 Recursos Recomendados
-description: "👷‍♂️ 🔨 Cientos de Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
-excerpt: "👷‍♂️ 🔨 Cientos de Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
+description: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
+excerpt: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
 published: false
 author: rosepac
 classes: wide
 comments: true
 date: 2019-07-17 08:07:47
-last_modified_at: 2019-10-11T19:10:42-05:00
+last_modified_at: 2019-10-29T18:10:42-05:00
 permalink: /recursos/
 sidebar:
 - title: "Menú Principal"
@@ -16,9 +16,9 @@ sidebar:
 <!-- AGREGAR CAPTURAS DE PANTALLA A LOS DIFERENTES SOFTWARE -->
 En esta página, encontrarás una descripción general de todos los recursos que uso o he usado regularmente o durante un período de tiempo considerable como para tomarme la molestia de recomendarlos por variadas razones; teniendo como razón primordial la de que me han ayudado a realizar mi trabajo o optimizar con mayor sensatez mi vida.
 
-¡Espero que los disfrutéis! 
+¡Espero que los disfrutéis!
 
-## Leyendo
+## Lectura
 
 * [Inoreader](https://www.inoreader.com "Mejor Aplicación Lectora de Fuentes de RSS")
     - En los últimos años han existido muchos altibajos en cuanto a los lectores de RSS. La opción de software privativo que mejor resultado me ha ofrecido ha sido Inoreader, puesto que ofrece la opción de añadir etiquetas o guardar para más tarde sobre las noticias.
@@ -80,3 +80,8 @@ Abrir varios enlaces a la vez, de una sola selección.
 
 ## Mis Aplicaciones Realmente Favoritas
 
+<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/169533?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+<a href="https://www.producthunt.com/posts/ink-1c962f43-e6e2-4291-942f-6090712bf2b6?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-ink-1c962f43-e6e2-4291-942f-6090712bf2b6" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=169533&theme=light&period=daily" alt="INK - AI web content optimization platform just for writers | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
+<a href="https://www.producthunt.com/posts/ink-1c962f43-e6e2-4291-942f-6090712bf2b6?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-ink-1c962f43-e6e2-4291-942f-6090712bf2b6" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=169533&theme=light&period=weekly" alt="INK - AI web content optimization platform just for writers | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
