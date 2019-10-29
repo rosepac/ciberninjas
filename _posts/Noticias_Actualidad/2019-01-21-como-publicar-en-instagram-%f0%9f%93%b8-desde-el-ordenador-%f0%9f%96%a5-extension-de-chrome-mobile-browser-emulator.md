@@ -1,7 +1,7 @@
 ---
 
-title: 'Cómo publicar en Instagram 📸 desde el ordenador 🖥 extensión de Chrome: Mobile Browser Emulator'
-published: false
+title: '📸 Cómo publicar en Instagram desde el Ordenador. Extensión de Chrome: Mobile Browser Emulator'
+published: true
 author: rosepac
 comments: true
 date: 2019-01-21 06:01:35
@@ -32,7 +32,7 @@ Solamente necesitas utilizar el navegador **[Brave](https://kutt.it/rosepacbrave
 
 * [Mobile Browser Emulator][1]
 
-[![](https://i.ibb.co/gPzLkwj/image.png)](https://i.ibb.co/gPzLkwj/image.png "Extensión para la Simulación Móvil en Brave y Chrome")
+[![Extensión para la Simulación Móvil](https://i.ibb.co/gPzLkwj/image.png)](https://i.ibb.co/gPzLkwj/image.png "Extensión para la Simulación Móvil en Brave y Chrome")
 
 Luego debes ir a la página de **_instagram.com_** y apretar sobre el botón de la extensión; arriba a la derecha del todo de tu navegador y allí elegir la opción **portrait** que te se te ofrece.
 
@@ -40,9 +40,13 @@ Botón de la aplicación Mobile Browser Emulator en el navegador de Chrome.
 
 Una vez elegida la opción de tamaño **PORTRAIT 414&#215;736** se te abrirá una pequeña ventana donde deberás loguearte con tu cuenta de **Instagram**.
 
-Ventana de Instagram vista desde el Emulador Móvil generado por la extensión de Chrome.
+[![Vista de la herramienta de la extensión abierta](https://i.ibb.co/2t5K56H/image.png
+)](https://i.ibb.co/2t5K56H/image.png
+ "Ventana de Instagram vista desde el Emulador Móvil generado por la extensión de Chrome")
 
-Desde está misma ventana, ya veerás el botón de + desde el que publicar al igual que si publicases desde un _smartphone_ normal, incluidos los filtros.
+Desde está misma ventana, ya veerás el botón de + desde el que publicar al igual que si publicases desde un _smartphone_ normal, incluidote aparecen los filtros.
+
+Creo que no es necesario decir, que al igual que te permite simular el uso de la aplicación de Instagram la herramienta es altamente útil para poder probar cualquier otra página web en su versión móvil.
 
 Espero les sea útil y practico este pequeño truco &#x1f63b;&#x1f63b;&#x1f63b;
 
