@@ -41,7 +41,7 @@ sidebar:
 
 ## 🔬 Ciencias de la Computación
 
-* Hackear la política [Tapa Blanda](https://amzn.to/2mqf26X) \ [Ebook](https://amzn.to/2kLxd6J)
+* Hackear la Política [Tapa Blanda](https://amzn.to/2mqf26X) \ [Ebook](https://amzn.to/2kLxd6J)
 * [Industria 4.0. La transformación digital en la industria](https://amzn.to/2mhtoGY)
 * [La Carrera Contra la Máquina](https://amzn.to/2mpLS7Z)
 * La Cuarta Revolución Industrial [Tapa Blanda](https://amzn.to/2mhoauQ) \ [Ebook](https://amzn.to/2mncuXe)
@@ -167,6 +167,12 @@ sidebar:
 * Desarrollo Práctico de Aplicaciones GUI en Go [Tapa Blanda](https://amzn.to/32jvpCt) \ [Ebook](https://amzn.to/31iYRHv)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1789138418&linkId=63524125fc2e2229f7456b87fdc82812"></iframe>
+
+## Diseño Web
+
+* Web móvil de alto rendimiento [Tapa Blanda](https://amzn.to/2NqoNMk) \ [Ebook](https://amzn.to/34dHytj) (2016)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1491912553&linkId=44d12c5de9bbd827e4e11bd0ce709b71"></iframe>
 
 ## Python
 
