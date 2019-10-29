@@ -7,13 +7,13 @@ comments: true
 date: 2019-01-21 06:01:35
 last_modified_at: 2019-10-29 14:10:00 +0200
 tags:
-    - Instagram
-    - Publicar
-    - Extensión
-    - Chrome
+ - Instagram
+ - Publicar
+ - Extensión
+ - Chrome
 categories:
-    - Redes Sociales
-    - Navegadores
+ - Redes Sociales
+ - Navegadores
 permalink: '/como-publicar-en-instagram-%f0%9f%93%b8-desde-el-ordenador-%f0%9f%96%a5-extension-de-chrome-mobile-browser-emulator/'
 
 ---
@@ -44,7 +44,7 @@ Una vez elegida la opción de tamaño **PORTRAIT 414&#215;736** se te abrirá un
 )](https://i.ibb.co/2t5K56H/image.png
  "Ventana de Instagram vista desde el Emulador Móvil generado por la extensión de Chrome")
 
-Desde está misma ventana, ya veerás el botón de + desde el que publicar al igual que si publicases desde un _smartphone_ normal, incluidote aparecen los filtros.
+Desde está misma ventana, ya podrás ver el botón de + desde el que publicar al igual que si publicases desde un _smartphone_ normal, incluidote aparecen los filtros.
 
 Creo que no es necesario decir, que al igual que te permite simular el uso de la aplicación de Instagram la herramienta es altamente útil para poder probar cualquier otra página web en su versión móvil.
 
