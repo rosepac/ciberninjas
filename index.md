@@ -13,6 +13,14 @@ toc_sticky: false
 
 * 💡 Descubre la filosofía Ciberninjas
 
+## 📚 Biblioteca de Programación
+
+* [📚 ▷ Más de 400 Libros PDF 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica](/biblioteca-de-programacion-y-tecnologia/)
+
+## 👩‍🏫 Cursos de Programación
+
+* [🎓 ▷ Más de 800 Cursos 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica](/cursos-tecnologia/)
+
 ## 👩‍💻 Artículos de Programación
 
 * [👨‍💻 ▷ Cómo Aprender a Programar desde Cero](/programar/)
@@ -27,8 +35,6 @@ toc_sticky: false
 
 ## 🔨 Recursos y Herramientas
 
-* [🎓 ▷ Más de 800 Cursos 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica](/cursos-tecnologia/)
-* [📚 ▷ Más de 400 Libros PDF 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica](/biblioteca-de-programacion-y-tecnologia/)
 * [👨‍💻 ▷ Recursos Educativos DAW, Ciclo de Formación Profesional de Desarrollo de Aplicaciones Web](/recursos-daw/)
 * [👨‍🏫 ▷ Cursos de Educación Específicos para Docentes y Profesorado](/cursos-educacion/)
 
