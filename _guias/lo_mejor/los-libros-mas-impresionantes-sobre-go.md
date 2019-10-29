@@ -20,9 +20,15 @@ toc_sticky: false
 
 ---
 
-Esto son los libros de programación en Go que existen. Separados en tres categorías diferentes, según su dificultad; para principiantes o para profesionales / expertos y según su de publicación; aportando así, el valor añadido de la importancia del tiempo dentro del mundo de la tecnología.
+Esto son los libros de programación en Go en **idioma inglés** que existen. Separados en tres categorías diferentes, según su dificultad; para principiantes o para profesionales / expertos y según su fecha de edición / publicación; aportando así, el valor añadido de la importancia del tiempo dentro del mundo de la tecnología.
+
+👉 Si lo que buscas son [libros en español sobre Go](/biblioteca-de-programacion-y-tecnologia/#go)
+
+👉 Si lo que buscas son [cursos en español sobre Go](/cursos-tecnologia/)
 
 ## Libros Principiantes de Go
+
+### ⏳ Libros Principiantes 2019
 
 ### [Vamos a Programar con Go](https://amzn.to/2MGmyEw){:target="_blank"} (2019)
 
@@ -30,7 +36,7 @@ Esto son los libros de programación en Go que existen. Separados en tres catego
 
 **Vamos a Programar con Go** te presenta el poderoso lenguaje Go sin confundir la jerga o la teoría de alto nivel. Al trabajar a través de 32 lecciones rápidas, aprenderá rápidamente los conceptos básicos del innovador lenguaje de programación Go.
 
- Libros Principiantes 2018 ⏳
+### ⏳ Libros Principiantes 2018
 
 ### [Go para Desarrolladores de Javascript](https://github.com/pazams/go-for-javascript-developers){:target="_blank"} (2018) (**GRATIS**)
 
@@ -92,7 +98,7 @@ Resuelva tus problemas de Go desde el enfoque de soluciones de problemas. Cada r
 
 El libro proporciona una guía profunda para construir un API backend altamente escalables en Go para tus aplicaciones de clientes  móviles o aplicaciones web.
 
-### Libros Principiantes 2015 ⏳
+### ⏳ Libros Principiantes 2015
 
 ### [El Lenguaje de Programación Go](https://amzn.to/2MV9qvp){:target="_blank"} (2015)
 
@@ -126,6 +132,8 @@ Summerfield presenta múltiples comparaciones idiomáticas que muestran exactame
 
 En el camino, explica todo, desde los conceptos básicos absolutos hasta la concurrencia basada en canales sin bloqueo de Go y su enfoque flexible e inusual de tipo de pato seguro para la orientación a objetos.
 
+### ⏳ Libros Principiantes 2012
+
 ### [Una introducción a la Programación en Go](https://www.golang-book.com/){:target="_blank"} (2012) (**GRATIS**)
 
 [![img](https://i.ibb.co/FBYHFxQ/una-introduccion-a-programar-con-go.jpg)](https://i.ibb.co/dryf1Lc/687474703a2f2f7777772e676f6c616e672d626f6f6b2e636f6d2f7075626c69632f696d672f696e74726f2f636f7665722e343139343034353233342e706e67.png "Una introducción a la programación en Go")
@@ -136,13 +144,13 @@ Go es un lenguaje de programación de propósito general con características mo
 
 Este libro es de lectura gratuita en [línea](https://www.golang-book.com/books/intro) o en [formato pdf](https://www.golang-book.com/public/pdf/gobook.pdf).
 
-## Libros Avanzados Pro de Go
+## Libros Avanzados de Go
 
 Los mejores libres avanzados sobre la programación en Go.
 
 ### [Black Hat Go](https://amzn.to/2prktUG){:target="_blank"} (2020)
 
-[![img](https://i.ibb.co/8Ppnyb5/go-black-hatx350.jpg)](https://i.ibb.co/8Ppnyb5/go-black-hatx350.jpg)
+[![img](https://i.ibb.co/8Ppnyb5/go-black-hatx350.jpg "Programación en Go para Hackers & Pentesters")](https://i.ibb.co/8Ppnyb5/go-black-hatx350.jpg)
 
 En Black Hat Go, aprenderas a escribir herramientas de prueba de penetración poderosas y efectivas en Go, un lenguaje venerado por su velocidad y escalabilidad. Comience con una introducción a los fundamentos de Go, como los tipos de datos, las estructuras de control y el manejo de errores; luego, sumérgete en el extremo profundo de las capacidades ofensivas de Go mientras aprendes cómo:
 
