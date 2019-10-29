@@ -1,8 +1,9 @@
 ---
-title: 🛠 Recursos Recomendados
+
+title: "🌟 Recursos 🛠 Mis Aplicaciones & Programas Favoritos"
 description: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
 excerpt: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
-published: false
+published: true
 author: rosepac
 classes: wide
 comments: true
@@ -12,6 +13,7 @@ permalink: /recursos/
 sidebar:
 - title: "Menú Principal"
   nav: general
+
 ---
 <!-- AGREGAR CAPTURAS DE PANTALLA A LOS DIFERENTES SOFTWARE -->
 En esta página, encontrarás una descripción general de todos los recursos que uso o he usado regularmente o durante un período de tiempo considerable como para tomarme la molestia de recomendarlos por variadas razones; teniendo como razón primordial la de que me han ayudado a realizar mi trabajo o optimizar con mayor sensatez mi vida.
