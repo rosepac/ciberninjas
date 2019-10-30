@@ -1,14 +1,15 @@
 ---
 author: rosepac
-title: "Sobre Política"
-description: 'Política, influencias y abridores de mente.'
-excerpt: 'Política, influencias y abridores de mente.'
+title: "Lecturas"
+description: 'Lecturas Pendientes o En Proceso.'
+excerpt: 'Lecturas Pendientes o En Proceso.'
 date: 2018-10-21
-published: false
-permalink: /politica/
-canonical_URL: https://ciberninjas.com/politica/
+last_modified_at: 2019-10-30 10:14:20
+published: true
+permalink: /lecturas/
+canonical_URL: https://ciberninjas.com/lecturas/
 header:
-  teaser: 
+  teaser: https://i.ibb.co/yqymDJj/photo-1505489304219-85ce17010209-ixlib-rb-1-2.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia
@@ -17,7 +18,7 @@ header:
 
 ## Leyendo
 
-El de la seguridad loco este, descargado en descargas xD
+* Edward Snowden: Vigilancia Permanente
 
 ## Pendientes
 
@@ -46,7 +47,7 @@ La lección de Jordan Peterson a quienes viven culpando a los demás por sus pro
 
 #### Recomendaciones
 
-Dostoyevsky: "Memorias del Subsuelo"
+Dostoyevsky - Libro: "Memorias del Subsuelo"
 
 ### FREDIC JAMESON
 
@@ -54,4 +55,4 @@ Adaptarse al cambio cultural: https://www.march.es/videos/?p0=5751
 
 ## Otros Libros
 
-Shakespear: "El tirano"
+Shakespeare: "El tirano"
