@@ -116,8 +116,10 @@ general:
 
 # Menú de Historia de Computadoras
 historia:
-  - title: "General"
+  - title: "Sección"
     url: /historia-computadora/
+  - title: "Cronograma"
+    url: /historia-computadora/cronograma/
   - title: "Personajes Históricos"
     url: /personajes-historicos/
 
