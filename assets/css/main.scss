@@ -11,7 +11,7 @@
 // html
 
 .page__content {
-    font-size: 12px; // originally 16px
+    font-size: 14px; // originally 16px
     @include breakpoint($medium) {
         font-size: 14px; // originally 18px
     }
