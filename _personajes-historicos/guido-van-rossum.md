@@ -42,5 +42,7 @@ Desde que creó Python en código abierto, Van Rossum ha aceptado el título de 
 
 Desde su graduación en 1982 con una maestría en matemáticas y ciencias de la computación de la Universidad de Amsterdam, Van Rossum ha pasado su vida como programador, primero en los Países Bajos, luego en los Estados Unidos en el NIST y CNRI, Google y, desde enero 2013, en Dropbox. En 2006, la ACM lo reconoció como ingeniero distinguido.
 
+👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
+
 **Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

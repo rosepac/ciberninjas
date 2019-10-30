@@ -6,7 +6,7 @@ description: '🏛 Los personajes históricos más importantes en la historia de
 excerpt: '🏛 Los personajes históricos más importantes en la historia de la creación de las computadoras'
 entries_layout: default
 date: 2019-09-11T16:18:02-05:00
-last_modified_at: 2019-09-11T16:20:02-05:00
+last_modified_at: 2019-10-30T15:40:02-05:00
 collection: personajes-historicos
 permalink: /personajes-historicos/
 canonical_URL: https://ciberninjas.com/personajes-historicos/
@@ -74,6 +74,6 @@ Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas c
 <p>Entre ellos poseen en común una misma herramienta, la computadora; y sus logros, van desde la computación de la propia computadora en sí misma hasta la creación de las redes, el hardware, el software, el almacenamiento, los lenguajes de programación, u otras tecnologías que hoy en día; afectan a casi todos los seres vivos.</p>
 </details>
 
-<!-- Saber Más -->
+<!-- Saber Más: https://www.computerhistory.org/fellowawards/hall/ -->
 
 ## 🔥 Biografías Agregadas Más Recientes.. 👇

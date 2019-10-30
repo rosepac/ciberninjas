@@ -47,5 +47,7 @@ Otra área en la que realizó importantes contribuciones fue con la noción de t
 
 Las otras contribuciones de Lamport son igualmente profundas y fundamentales para la informática. Si usa una computadora hoy, se beneficia del pensamiento profundo de Lamport y de sus algoritmos fundamentales.
 
+👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
+
 **Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

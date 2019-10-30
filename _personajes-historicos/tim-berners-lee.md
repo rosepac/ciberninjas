@@ -47,5 +47,7 @@ Ese mismo año, el CERN anunció que la World Wide Web sería gratuita para todo
 
 En 1994, Berners-Lee dejó el CERN y fundó el Consorcio de la World Wide Web en el MIT, un grupo de organizaciones miembros, incluidos proveedores, dispuestos a crear estándares para la Web. En 2004, fue nombrado caballero por su trabajo pionero.
 
+👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
+
 **Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

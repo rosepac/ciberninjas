@@ -43,5 +43,7 @@ Johnson ayudó a calcular la trayectoria de la misión Apolo 11 que llevó a los
 
 Katherine Johnson es vista a menudo como una de las figuras más importantes para representar a las mujeres en ciencia y tecnología y fue una de las mujeres descritas en el libro Hidden Figures de Margot Lee Shetterly. El libro inspiró una película nominada al Oscar del mismo nombre lanzada en 2016. Ha recibido muchos honores por su trabajo con la NASA, incluida la Medalla Nacional de la Libertad, otorgada por el presidente Barack Obama, en 2015.
 
+👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
+
 **Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

@@ -47,5 +47,7 @@ Java se ha convertido en el lenguaje de programación más popular utilizado hoy
 
 Es ampliamente utilizado en la educación en informática. Gosling dejó Sun justo después de que Oracle adquirió la compañía en 2010, trabajando brevemente en Google y luego en Liquid Robotics, una compañía que fabrica robots autónomos oceánicos utilizados en investigación oceanográfica y atmosférica. Se unió a Amazon Web Services como ingeniero distinguido en mayo de 2017.
 
+👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
+
 **Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

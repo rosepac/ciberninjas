@@ -51,5 +51,7 @@ Ese compromiso no significaba que ARPA había hecho las paces con Pouzin y los o
 
 El TCP / IP de ARPA no ganaría como Internet hasta finales de la década de 1980. Louis Pouzin continúa desarrollando protocolos de red, incluidas alternativas radicales a TCP / IP y el Sistema de nombres de dominio (.com, .org, .edu, etc.). Ha recibido muchos honores principales por su trabajo en el datagrama.
 
+👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
+
 **Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

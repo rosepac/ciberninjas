@@ -43,5 +43,7 @@ Frohman pasó la mayor parte de su carrera convirtiendo a Intel Israel en un buq
 
 Frohman posee numerosas patentes y premios por su trabajo, incluidos reconocimientos del IEEE, el Salón de la Fama de Inventores Nacionales y el Estado de Israel. Hoy, Frohman divide su tiempo entre sus dos hogares, uno en Jerusalén y otro en Selva di Cadore en la región Dolomita de Italia.
 
+👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
+
 **Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}
