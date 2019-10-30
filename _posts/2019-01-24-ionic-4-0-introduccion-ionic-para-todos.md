@@ -6,6 +6,7 @@ published: true
 author: rosepac
 comments: true
 date: 2019-01-24 07:01:33
+last_modified_at: 2019-10-30T09:36:00
 tags:
 - Ionic
 - Componentes
@@ -16,6 +17,8 @@ categories:
 permalink: /ionic-4-0-introduccion-ionic-para-todos
 ---
 Ayer fue lanzada la nueva versión del _framework_ basado en la creación de aplicaciones híbridas: Ionic 4.0.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ionic Framework 4.0 is here! 🎉<br><br>⚙️ Web Components = Stability + Compatibility<br>⚡️ Better performance &amp; startup times<br>👨🏻‍💻 Made for developers &amp; their preferred tooling<br>🌌 Powerful theming &amp; CSS variables<br>🔭 Future-proof development, built in<br>📄 New 4.0 docs<a href="https://t.co/Pp1h0dR9nf">https://t.co/Pp1h0dR9nf</a></p>&mdash; ionic (@Ionicframework) <a href="https://twitter.com/Ionicframework/status/1088133903305531394?ref_src=twsrc%5Etfw">January 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 En la noticia original, se nos informa del paso de un proyecto enfocado principalmente hacía **Angular** hacía un proyecto basado en los componentes web.
 
