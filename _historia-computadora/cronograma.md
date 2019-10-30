@@ -74,28 +74,41 @@ sidebar:
 
 ## 1940s 🕘
 
-## 💻 1946 - 
+
+
+## 💻 1947 - Crean el tubo Manchester Mark I Williams-Kilburn
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_memorystorage_1947.williamskilburntube.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_memorystorage_1947.williamskilburntube.jpg" alt="Tubo Manchester Mark I Williams-Kilburn" title="Tubo Manchester Mark I Williams-Kilburn"></a>
+    <figcaption>Tubo Manchester Mark I Williams-Kilburn | Visto en Ciberninjas</figcaption>
+</figure>
+
+## 💻 1946 - Presentación pública de ENIAC
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1946.eniac.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1946.eniac.jpg" alt="El ordenador ENIAC en una imagen de archivo"></a>
+    <figcaption>El ordenador ENIAC en una imagen de archivo | Visto en Ciberninjas</figcaption>
+</figure>
+
+## 💻 1946 - Comienza el Proyecto Whirlwind
+
+<figure>
+    <a href="https://www.computerhistory.org/timeline/computers/#169ebbe2ad45559efbc6eb35720dd5ad" class="image-popup"><img src="https://www.computerhistory.org/timeline/computers/#169ebbe2ad45559efbc6eb35720dd5ad" alt="Instalación de torbellino en el MIT"></a>
+    <figcaption>Instalación de torbellino en el MIT | Visto en Ciberninjas</figcaption>
+</figure>
+
+Durante la Segunda Guerra Mundial, la Marina de los EE. UU. Se acerca al Instituto de Tecnología de Massachusetts (MIT) para construir un simulador de vuelo para entrenar a los equipos de bombarderos. Bajo el liderazgo de Gordon Brown y Jay Forrester del MIT, el equipo primero construyó un pequeño simulador analógico, pero lo encontró inexacto e inflexible. Las noticias de la innovadora computadora electrónica ENIAC ese mismo año inspiraron al grupo a cambiar de rumbo e intentar una solución digital, mediante la cual las variables de vuelo podrían programarse rápidamente en el software. Terminado en 1951, Whirlwind sigue siendo uno de los proyectos informáticos más importantes en la historia de la informática. El principal de sus desarrollos fue la perfección de Forrester de la memoria de núcleo magnético, que se convirtió en la forma dominante de memoria de acceso aleatorio de alta velocidad para computadoras hasta mediados de los años setenta.
+
+## 💻 1946 - Conferencias de la escuela Moore
 
 <figure>
     <a href="" class="image-popup"><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
-## 💻 1946 - 
+Se crea la escuela de verano inspirada en informática en la Escuela de Ingeniería Eléctrica Moore de la Universidad de Pensilvania que estimula la construcción de computadoras con programas almacenados en universidades e instituciones de investigación en los Estados Unidos, Francia, el Reino Unido y Alemania. Entre los conferenciantes se encontraban los primeros diseñadores de computadoras como John von Neumann, Howard Aiken, J. Presper Eckert y John Mauchly, así como matemáticos como Derrick Lehmer, George Stibitz y Douglas Hartree. Los estudiantes incluyeron futuros pioneros en computación como Maurice Wilkes, Claude Shannon, David Rees y Jay Forrester. Este conjunto público y gratuito de conferencias inspiró a los clones de máquinas EDSAC, BINAC y, más tarde, IAS como AVIDAC.
 
-<figure>
-    <a href="" class="image-popup"><img src="" alt=""></a>
-    <figcaption> | Visto en Ciberninjas</figcaption>
-</figure>
-
-## 💻 1946 - 
-
-<figure>
-    <a href="" class="image-popup"><img src="" alt=""></a>
-    <figcaption> | Visto en Ciberninjas</figcaption>
-</figure>
-
-## 👨‍❤️‍💋‍👨 1946 - 
+## 👨‍❤️‍💋‍👨 1946 - Se publica una lógica llamada Joe
 
 <figure>
     <a href="https://images.computerhistory.org/timeline/timeline_popularculture_1946.logicnamedjoe.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_popularculture_1946.logicnamedjoe.jpg" alt="Portada de marzo de 1949: Ciencia ficción asombrosa"></a>
@@ -131,7 +144,7 @@ Konrad Zuse comienza a trabajar en Plankalkül (Plan Calculus), el primer lengua
 
 Con pantallas de lado a lado, el escritorio imaginario de Memex está destinado a permitir que un usuario compare y cree enlaces entre documentos de microfilm, algo así como los enlaces web y marcadores de hoy en los que se puede hacer clic. La idea es que las personas construyan continuamente sobre los caminos asociativos de los demás a través del conocimiento del mundo, ayudando a abordar el problema creciente de la sobrecarga de información. El Memex es una creación del científico estadounidense Vannevar Bush, un pionero de la computación analógica que ayudó a supervisar el desarrollo de la bomba atómica. El mecanismo básico que sugiere es un selector automático de microfilm similar a los construidos por el pionero de la óptica Emmanuel Goldberg a principios de la década de 1930. Bush publica el concepto Memex en artículos de 1945 en The Atlantic Monthly y Life .
 
-## 👨‍❤️‍💋‍👨 1945 - Primer caso real de ERROR encontrado
+## 👨‍❤️‍💋‍👨 1945 - Primer caso de ERROR real encontrado
 
 <figure>
     <a href="https://images.computerhistory.org/timeline/timeline_popularculture_1945.hopper.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_popularculture_1945.hopper.jpg" alt="Grace Hopper hablando en el Museo de la Computación en Boston"></a>
