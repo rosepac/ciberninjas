@@ -7,6 +7,7 @@ date: 2019-04-05
 published: true
 permalink: /personajes-historicos/leslie-lamport/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/leslie-lamport/
+classes: wide
 header:
   teaser: https://images.computerhistory.org/fellows/leslie-lamport.jpg
 sidebar:

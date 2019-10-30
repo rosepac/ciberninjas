@@ -7,6 +7,7 @@ date: 2019-04-05
 published: true
 permalink: /personajes-historicos/james-gosling/
 canonical_url: 'https://www.computerhistory.org/fellowawards/hall/james-gosling/'
+classes: wide
 header:
   teaser: https://images.computerhistory.org/fellows/jgosling.jpg
 sidebar:
