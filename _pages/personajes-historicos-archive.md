@@ -32,38 +32,35 @@ Esta es una galería de personajes, que podríamos definir como un Hall of Fame 
 
 ## Personajes Históricos
 
-Los personajes incluidos cronológicamente son:
-
-* 2019 \ [James Gosling](/personajes-historicos/james-gosling/), [Katherine Johnson](/personajes-historicos/katherine-johnson/), [Leslie Lamport](/personajes-historicos/leslie-lamport/), [Louis Pouzin](/personajes-historicos/louis-pouzin/)
-* 2018 \ [Dame Stephanie Shirley](/personajes-historicos/dame-stephanie-shirley/), [Dov Frohman-Bentchkowsky](/personajes-historicos/dov-frohman-bentchkowsky/), [Guido Van Rossum](/personajes-historicos/guido-van-rossum/)
-* 2017 \ Alan Cooper, Cleve Moler, Larry Roberts, Margaret Hamilton
-* 2016 \ David Cutler, Lee Felsentein, Philip Moorby, 
-* 2015 \ Bjarne Stroustrup, Charles W. Bachman, Evelyn Berezin
-* 2014 \ Irwin Jacobs, John Crawford, Lynn Conway
-* 2013 \ Edwin Catmull, Harry D. Huskey, Robert W. Taylor
-* 2012 \ Edward Feigenbaum, Fernando Corbató, Sophie Wilson, Steve Furber
-* 2011 \ Bill Joy, Martin Hellman, Raph Merkle, Whitfield Diffie
-* 2009 \ Donald Chamberlin, Federico Faggin, Marcian Hoff, Msatoshi Shima, Robert Everett, Stan Mazor
-* 2008 \ Bob Metcalfe, Jean Bartik, Linus Torvalds
-* 2007 \ Charles (Chuck) Tracker, David Patterson, John Hennessy, Morris Chang
-* 2006 \ Butler Lampson, Marvin Minsky, Robert Khan, Sir Antony Hoare
-* 2005 \ Alan F. Shugart, Douglas C. Engelbart, Ivan E. Sutherland, Paul Baran
-* 2004 \ Bob Evans, Bob Frankston, Dan Bricklin, Erich Bloch, Niklaus Wirth
-* 2003 \ David Wheeler, Gordon Bell, [Sir Tim Berners-Lee](/personajes-historicos/tim-berners-lee/)
-* 2002 \ Carver Mead, Charles Geschke, John Cocke, John Warnock
-* 2001 \ Frederick P. Brooks, Jean Sammet, Sir Maurice V. Wilkes
-* 2000 \ Frances Allen, Tom Kilburn, Vinton Cerf
-* 1999 \ Alan Kay, John McCarthy, Konrad Zuse
-* 1998 \ Donald Knuth, Gene Amdahl, Gordon Moore, Steve Wozniak
-* 1997 \ Dennis Ritchie, John Backus, Ken Thompson
-* 1996 \ Ken Olsen, Mitch Kapor
-* 1995 \ Jay W. Forrester
-* 1985 \ Grace Murray Hopper
-
 <details>
-<summary>1985</summary>
-<br/>
-<p>Grace Murray Hopper</p>
+<summary>👉 Ver Listado de Personas Cronologicamente 👈</summary>
+<ul>
+<li>2019 \ <a href="/personajes-historicos/james-gosling/">James Gosling</a>, <a href="/personajes-historicos/katherine-johnson/">Katherine Johnson</a>, <a href="/personajes-historicos/leslie-lamport/">Leslie Lamport</a>, <a href="/personajes-historicos/louis-pouzin/">Louis Pouzin</a></li>
+<li>2018 \ <a href="/personajes-historicos/dame-stephanie-shirley/">Dame Stephanie Shirley</a>, <a href="/personajes-historicos/dov-frohman-bentchkowsky/">Dov Frohman-Bentchkowsky</a>, <a href="/personajes-historicos/guido-van-rossum/">Guido Van Rossum</a></li>
+<li>2017 \ Alan Cooper, Cleve Moler, Larry Roberts, Margaret Hamilton</li>
+<li>2016 \ David Cutler, Lee Felsentein, Philip Moorby, </li>
+<li>2015 \ Bjarne Stroustrup, Charles W. Bachman, Evelyn Berezin</li>
+<li>2014 \ Irwin Jacobs, John Crawford, Lynn Conway</li>
+<li>2013 \ Edwin Catmull, Harry D. Huskey, Robert W. Taylor</li>
+<li>2012 \ Edward Feigenbaum, Fernando Corbató, Sophie Wilson, Steve Furber</li>
+<li>2011 \ Bill Joy, Martin Hellman, Raph Merkle, Whitfield Diffie</li>
+<li>2009 \ Donald Chamberlin, Federico Faggin, Marcian Hoff, Msatoshi Shima, Robert Everett, Stan Mazor</li>
+<li>2008 \ Bob Metcalfe, Jean Bartik, Linus Torvalds</li>
+<li>2007 \ Charles (Chuck) Tracker, David Patterson, John Hennessy, Morris Chang</li>
+<li>2006 \ Butler Lampson, Marvin Minsky, Robert Khan, Sir Antony Hoare</li>
+<li>2005 \ Alan F. Shugart, Douglas C. Engelbart, Ivan E. Sutherland, Paul Baran</li>
+<li>2004 \ Bob Evans, Bob Frankston, Dan Bricklin, Erich Bloch, Niklaus Wirth</li>
+<li>2003 \ David Wheeler, Gordon Bell, <a href="/personajes-historicos/tim-berners-lee/">Sir Tim Berners-Lee</a></li>
+<li>2002 \ Carver Mead, Charles Geschke, John Cocke, John Warnock</li>
+<li>2001 \ Frederick P. Brooks, Jean Sammet, Sir Maurice V. Wilkes</li>
+<li>2000 \ Frances Allen, Tom Kilburn, Vinton Cerf</li>
+<li>1999 \ Alan Kay, John McCarthy, Konrad Zuse</li>
+<li>1998 \ Donald Knuth, Gene Amdahl, Gordon Moore, Steve Wozniak</li>
+<li>1997 \ Dennis Ritchie, John Backus, Ken Thompson</li>
+<li>1996 \ Ken Olsen, Mitch Kapor</li>
+<li>1995 \ Jay W. Forrester</li>
+<li>1985 \ Grace Murray Hopper</li>
+</ul>
 </details>
 
 ## Historia
