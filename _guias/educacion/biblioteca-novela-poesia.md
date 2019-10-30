@@ -8,8 +8,8 @@ date: 2019-10-17
 last_modified_at: 
 permalink: /biblioteca-novela-poesia/
 canonical_URL: https://ciberninjas.com/biblioteca-novela-poesia/
-# header:
-#   image: "/assets/images/chocolatey-ciberninjas.jpg"
+header:
+  image: "https://i.ibb.co/L8qwgDj/photo-1447069387593-a5de0862481e-ixlib-rb-1-2.jpg"
 #   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
 #   caption: "**Créditos**: Creación Propia"
 toc: true
