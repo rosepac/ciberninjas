@@ -41,7 +41,7 @@ La compañía, que se había convertido en F International, entró a bolsa en la
 
 Además de recibir docenas de honores, Shirley es ex presidente de la British Computer Society y miembro de la Royal Academy of Engineering. Ella ha regalado la mayor parte de su riqueza a causas filantrópicas, incluido un donativo de £ 10 millones para fundar el Oxford Internet Institute.
 
-👈 [Regresar a Biografías Recientes](/personajes-historicos/#biografias-mas-recientes)
+👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 
 **Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") 
 {: .notice--info}

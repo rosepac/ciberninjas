@@ -76,4 +76,4 @@ Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas c
 
 <!-- Saber Más -->
 
-## [🔥 Biografías Agregadas Más Recientes.. 👇](#biografias-mas-recientes)
+## 🔥 Biografías Agregadas Más Recientes.. 👇
