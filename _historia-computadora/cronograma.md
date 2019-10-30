@@ -323,8 +323,8 @@ Construido por Westinghouse, el robot Elektro basado en relés responde al ritmo
 ## 💻 1937 - El científico de Bell Laboratories, George Stibitz, utiliza relés para un crear un sumador de demostración
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1937.modelk.jpg" title="Sumador "Modelo K"" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1937.modelk.jpg" alt="Sumador "Modelo K""></a>
-    <figcaption>Sumador "Modelo K" | Visto en Ciberninjas</figcaption>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1937.modelk.jpg" title="Sumador Modelo K" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1937.modelk.jpg" alt="Sumador Modelo K"></a>
+    <figcaption>Sumador Modelo K | Visto en Ciberninjas</figcaption>
 </figure>
 
 Llamado el sumador "Modelo K" porque lo construyó en su mesa "Cocina", este simple circuito de demostración proporciona una prueba de concepto para aplicar la lógica booleana al diseño de las computadoras, lo que resulta en la construcción de la calculadora compleja modelo I basada en relés en 1939 Ese mismo año en Alemania, el ingeniero Konrad Zuse construyó su computadora Z2, también utilizando relés de la compañía telefónica.
