@@ -18,8 +18,10 @@ sidebar:
 ---
 
 ⏳ Línea de Tiempo ⏳
-<!-- [1950 🕙](/historia-computadora/cronograma/#1950- ""){: .btn .btn--success .btn--large} -->
-[1940 🕙](/historia-computadora/cronograma/#1940- ""){: .btn .btn--success .btn--large} [1930 🕙](/historia-computadora/cronograma/#1930- ""){: .btn .btn--success .btn--large}
+
+<!-- [1950s 🕙](/historia-computadora/cronograma/#1950s- ""){: .btn .btn--success .btn--large} -->
+[1940s 🕙](/historia-computadora/cronograma/#1940s- ""){: .btn .btn--success .btn--large} [1930s 🕙](/historia-computadora/cronograma/#1930s- ""){: .btn .btn--success .btn--large}
+
 <!--
 ## 2010s 🕕
 
@@ -39,21 +41,21 @@ sidebar:
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
-## 1980 🕔
+## 1980s 🕔
 
 <figure>
     <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
-## 1970 🕕
+## 1970s 🕕
 
 <figure>
     <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
-## 1960 🕖
+## 1960s 🕖
 
 <figure>
     <a href="" class="image-popup" title=""><img src="" alt=""></a>
@@ -69,30 +71,35 @@ sidebar:
 
 ☝ 👷‍♂️ **EN CONSTRUCCIÓN** 🚧 ☝
 -->
+
 ## 1940s 🕘
 
-## 💻 1948 - 
+## 💻 1948 - Se exhibe SSEC
 
 <figure>
     <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
-## 💻 1948 - 
+El proyecto de Calculadora Electrónica de Secuencia Selectiva (SSEC), dirigido por el ingeniero de IBM Wallace Eckert, utiliza relés y tubos de vacío para procesar datos científicos a una velocidad de 50 multiplicaciones de 14 x 14 dígitos por segundo. Antes de su desmantelamiento en 1952, el SSEC produjo las tablas de posición de la luna utilizadas en la planificación inicial del alunizaje del Apolo XII de 1969. Estas tablas se confirmaron luego utilizando computadoras más modernas para los vuelos reales. El SSEC fue una de las últimas de la generación de 'súper calculadoras' que se construyó utilizando tecnología electromecánica.
+
+## 💻 1948 - Es ejecutado el Primer Programa sobre una Computadora
 
 <figure>
-    <a href="" class="image-popup" title=""><img src="" alt=""></a>
-    <figcaption> | Visto en Ciberninjas</figcaption>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1948.manchesterbaby.jpg" class="image-popup" title="Kilburn (izquierda) y Williams frente a 'Baby'"><img src="https://images.computerhistory.org/timeline/timeline_computers_1948.manchesterbaby.jpg" alt="Kilburn (izquierda) y Williams frente a 'Baby'"></a>
+    <figcaption>Kilburn (izquierda) y Williams frente a 'Baby' | Visto en Ciberninjas</figcaption>
 </figure>
 
-## 👩‍💻 1948 - 
+Los investigadores de la Universidad de Manchester: Frederic Williams, Tom Kilburn y Geoff Toothill. Desarrollan la Máquina Experimental a Pequeña Escala (SSEM), más conocida como el "Bebé o Baby" de Manchester. El Baby fue construido para probar una nueva tecnología de memoria desarrollada por Williams y Kilburn, pronto conocida como Williams Tube, que fue la primera memoria electrónica de acceso aleatorio de alta velocidad para computadoras. Su primer programa, que consta de diecisiete instrucciones y escrito por Kilburn, se ejecutó el 21 de junio de 1948. Este fue el primer programa en la historia que se ejecutó en una computadora digital, electrónica y de programa almacenado.
+
+## 👩‍💻 1948 - La teoría matemática de la comunicación
 
 <figure>
     <a href="https://images.computerhistory.org/timeline/timeline_sw.languages_1948.shannon.jpg" title="Claude Shannon, en una imagen de archivo" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_sw.languages_1948.shannon.jpg" alt="Claude Shannon, en una imagen de archivo"></a>
     <figcaption>Claude Shannon, en una imagen de archivo | Visto en Ciberninjas</figcaption>
 </figure>
 
-El matemático estadounidense Claude Shannon escribe "La teoría matemática de la comunicación", sentando las bases para comprender los límites teóricos de la comunicación entre personas y máquinas. Como parte de este trabajo, Shannon identificó el bit como una unidad fundamental de información y, por coincidencia, la unidad básica de cálculo.
+El matemático estadounidense Claude Shannon escribe "La teoría matemática de la comunicación", sentando las bases para comprender los límites teóricos de la comunicación entre personas y máquinas. Como parte de este trabajo, Shannon identificó el bit como una unidad fundamental de información y, por tanto, como la unidad básica de cálculo.
 
 ## 🤖 1948 - Cibérnetica
 
@@ -120,6 +127,8 @@ En la Universidad de Manchester, Freddie Williams y Tom Kilburn desarrollan el t
     <a href="https://images.computerhistory.org/timeline/timeline_computers_1946.eniac.jpg" title="El ordenador ENIAC en una imagen de archivo" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1946.eniac.jpg" alt="El ordenador ENIAC en una imagen de archivo"></a>
     <figcaption>El ordenador ENIAC en una imagen de archivo | Visto en Ciberninjas</figcaption>
 </figure>
+
+Comenzado en 1943, el sistema informático ENIAC fue construido por John Mauchly y J. Presper Eckert en la Escuela de Ingeniería Eléctrica Moore de la Universidad de Pensilvania. Debido a su tecnología electrónica, a diferencia de la electromecánica, es más de 1,000 veces más rápido que cualquier otra computadora anterior. ENIAC usó cableado e interruptores de panel a panel para la programación, ocupó más de 1,000 pies cuadrados, usó aproximadamente 18,000 tubos de vacío y pesó 30 toneladas. Se creía que ENIAC había hecho más cálculos durante los diez años que estuvo en funcionamiento que toda la humanidad hasta ese momento.
 
 ## 💻 1946 - Comienza el Proyecto Whirlwind
 
@@ -300,7 +309,7 @@ En 1939, Bell Telephone Laboratories completa esta calculadora, diseñada por el
 
 [⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
 
-## 1930 🕙
+## 1930s 🕙
 
 ## 🤖 1939 - Elektro en la Feria Mundial
 
