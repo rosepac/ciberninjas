@@ -21,67 +21,92 @@ sidebar:
 
 ## 2010s 🕕
 
-👷‍♂️ **EN CONSTRUCCIÓN** 🚧
+👇 👷‍♂️ **EN CONSTRUCCIÓN** 🚧 👇
 
 ## 2000s 🕑
 
-👷‍♂️ **EN CONSTRUCCIÓN** 🚧
+<figure>
+    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <figcaption> | Visto en Ciberninjas</figcaption>
+</figure>
 
 ## 1990s 🕓
 
-👷‍♂️ **EN CONSTRUCCIÓN** 🚧
-
 <figure>
-    <a href="" class="image-popup"><img src="" alt=""></a>
+    <a href="" class="image-popup"><img src="" alt="" title=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 1980 🕔
 
-👷‍♂️ **EN CONSTRUCCIÓN** 🚧
-
 <figure>
-    <a href="" class="image-popup"><img src="" alt=""></a>
+    <a href="" class="image-popup"><img src="" alt="" title=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 1970 🕕
 
-👷‍♂️ **EN CONSTRUCCIÓN** 🚧
-
 <figure>
-    <a href="" class="image-popup"><img src="" alt=""></a>
+    <a href="" class="image-popup"><img src="" alt="" title=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 1960 🕖
 
-👷‍♂️ **EN CONSTRUCCIÓN** 🚧
-
 <figure>
-    <a href="" class="image-popup"><img src="" alt=""></a>
+    <a href="" class="image-popup"><img src="" alt="" title=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 1950s 🕗
 
-👷‍♂️ **EN CONSTRUCCIÓN** 🚧
-
 <figure>
-    <a href="" class="image-popup"><img src="" alt=""></a>
+    <a href="" class="image-popup"><img src="" alt="" title=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
+☝ 👷‍♂️ **EN CONSTRUCCIÓN** 🚧 ☝
+
 ## 1940s 🕘
 
-
-
-## 💻 1947 - Crean el tubo Manchester Mark I Williams-Kilburn
+## 💻 1948 - 
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_memorystorage_1947.williamskilburntube.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_memorystorage_1947.williamskilburntube.jpg" alt="Tubo Manchester Mark I Williams-Kilburn" title="Tubo Manchester Mark I Williams-Kilburn"></a>
+    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <figcaption> | Visto en Ciberninjas</figcaption>
+</figure>
+
+## 💻 1948 - 
+
+<figure>
+    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <figcaption> | Visto en Ciberninjas</figcaption>
+</figure>
+
+## 👩‍💻 1948 - 
+
+<figure>
+    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <figcaption> | Visto en Ciberninjas</figcaption>
+</figure>
+
+## 🤖 1948 - Cibérnetica
+
+<figure>
+    <a href="https://www.computerhistory.org/timeline/ai-robotics/#169ebbe2ad45559efbc6eb35720a1690" class="image-popup"><img src="https://www.computerhistory.org/timeline/ai-robotics/#169ebbe2ad45559efbc6eb35720a1690" alt="Norbert Wiener, publica el libro Cibérnetica" title="Norbert Wiener, publica el libro Cibérnetica"></a>
+    <figcaption>Norbert Wiener, publica el libro Cibérnetica | Visto en Ciberninjas</figcaption>
+</figure>
+
+Norbert Wiener publica el libro Cybernetics , que tiene una gran influencia en la investigación sobre inteligencia artificial y sistemas de control. Wiener recurrió a sus experimentos de la Segunda Guerra Mundial con sistemas antiaéreos que anticipaban el curso de los aviones enemigos interpretando imágenes de radar. Wiener acuñó el término "cibernética" de la palabra griega para "steersman".
+
+## 🧠 1947 - Crean el tubo Manchester Mark I Williams-Kilburn
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_memorystorage_1947.williamskilburntube.jpg" title="-Tubo Manchester Mark I Williams-Kilburn" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_memorystorage_1947.williamskilburntube.jpg" alt="Tubo Manchester Mark I Williams-Kilburn" title="-Tubo Manchester Mark I Williams-Kilburn"></a>
     <figcaption>Tubo Manchester Mark I Williams-Kilburn | Visto en Ciberninjas</figcaption>
 </figure>
+
+En la Universidad de Manchester, Freddie Williams y Tom Kilburn desarrollan el tubo Williams-Kilburn. El tubo, probado en 1947, fue la primera memoria completamente electrónica de alta velocidad. Usó un tubo de rayos catódicos (similar a un tubo de imagen de TV analógica) para almacenar bits como puntos en la superficie de la pantalla. Cada punto duró una fracción de segundo antes de desvanecerse, por lo que la información se actualizaba constantemente. La información fue leída por una placa de recogida de metal que detectaría un cambio en la carga eléctrica.
 
 ## 💻 1946 - Presentación pública de ENIAC
 
