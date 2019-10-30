@@ -33,7 +33,7 @@ Esta es una galería de personajes, que podríamos definir como un Hall of Fame 
 ## Personajes Históricos
 
 <details>
-<summary>👉 Ver Listado de Personas Cronologicamente 👈</summary>
+<summary> Listado de Premiados Cronológicamente 👈</summary>
 <ul>
 <li>2019 \ <a href="/personajes-historicos/james-gosling/">James Gosling</a>, <a href="/personajes-historicos/katherine-johnson/">Katherine Johnson</a>, <a href="/personajes-historicos/leslie-lamport/">Leslie Lamport</a>, <a href="/personajes-historicos/louis-pouzin/">Louis Pouzin</a></li>
 <li>2018 \ <a href="/personajes-historicos/dame-stephanie-shirley/">Dame Stephanie Shirley</a>, <a href="/personajes-historicos/dov-frohman-bentchkowsky/">Dov Frohman-Bentchkowsky</a>, <a href="/personajes-historicos/guido-van-rossum/">Guido Van Rossum</a></li>
@@ -63,7 +63,7 @@ Esta es una galería de personajes, que podríamos definir como un Hall of Fame 
 </ul>
 </details>
 
-## Historia
+## Historia de los Premios
 
 Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas capaces de cambiar el mundo. Lo que les convierte en auténticos personajes históricos entre los más importantes por sus acontecimientos en el campo de la computación.
 
@@ -76,4 +76,4 @@ Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas c
 
 <!-- Saber Más -->
 
-## 🔥 Biografías Más Recientes.. 👇
+## [🔥 Biografías Agregadas Más Recientes.. 👇](#biografias-mas-recientes)
