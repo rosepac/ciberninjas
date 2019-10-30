@@ -22,7 +22,10 @@ toc_sticky: true
 
 ## Bibliotecas Web
 
-* [OMEGALFA](https://omegalfa.es/){:target="_blank"} [Autores - 1.264](https://omegalfa.es/autores.php){:target="_blank"} [Títulos - 3.675](https://omegalfa.es/titulos.php){:target="_blank"} [Temáticas - 72](https://omegalfa.es/temas.php){:target="_blank"}
+* [OMEGALFA](https://omegalfa.es/){:target="_blank"}
+  * [Autores - 1.264](https://omegalfa.es/autores.php){:target="_blank"}
+  * [Títulos - 3.675](https://omegalfa.es/titulos.php){:target="_blank"}
+  * [Temáticas - 72](https://omegalfa.es/temas.php){:target="_blank"}
 
 ## Bibliotecas Abiertas España
 
