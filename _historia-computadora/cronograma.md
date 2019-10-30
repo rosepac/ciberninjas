@@ -17,8 +17,8 @@ sidebar:
   nav: historia
 ---
 
-<!-- [1950s 🕙](/historia-computadora/cronograma/#1950s- ""){: .btn .btn--success .btn--large} -->
-[1940s 🕗](/historia-computadora/cronograma/#1940s- "La Década de los 40"){: .btn .btn--success .btn--large} [1930s 🕕](/historia-computadora/cronograma/#1930s- "La Década de los 30"){: .btn .btn--success .btn--large}
+<!-- [1950s 🕙](/historia-computadora/cronograma/#1950s- ""){: .btn .btn--inverses .btn--large} -->
+[1940s 🕗](/historia-computadora/cronograma/#1940s- "La Década de los 40"){: .btn .btn--inverses .btn--large} [1930s 🕕](/historia-computadora/cronograma/#1930s- "La Década de los 30"){: .btn .btn--inverses .btn--large}
 
 <!--
 ## 2010s 🕕
@@ -117,7 +117,7 @@ Norbert Wiener publica el libro Cybernetics , que tiene una gran influencia en l
 
 En la Universidad de Manchester, Freddie Williams y Tom Kilburn desarrollan el tubo Williams-Kilburn. El tubo, probado en 1947, fue la primera memoria completamente electrónica de alta velocidad. Usó un tubo de rayos catódicos (similar a un tubo de imagen de TV analógica) para almacenar bits como puntos en la superficie de la pantalla. Cada punto duró una fracción de segundo antes de desvanecerse, por lo que la información se actualizaba constantemente. La información fue leída por una placa de recogida de metal que detectaría un cambio en la carga eléctrica.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large   }
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1946 - Presentación pública de ENIAC
 
@@ -155,7 +155,7 @@ Se crea la escuela de verano inspirada en informática en la Escuela de Ingenier
 
 Bajo una serie de seudónimos, la ciencia ficción de Will F. Jenkins había aparecido regularmente desde la década de 1920. En la edición de marzo de 1946 de Astounding Science Fiction , Jenkins publica A Logic Named Joe , una historia corta que detalla un mundo donde las computadoras, llamadas Lógicas, estaban interconectadas en una red mundial masiva. Una de estas lógicas comienza a funcionar mal, dando información secreta sobre temas no permitidos. Casi cincuenta años antes de la invención de Internet, A Logic Named Joe contiene una de las opiniones más proféticas sobre las capacidades de las computadoras en una red.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1945 - John von Neumann escribe el primer borrador de un informe sobre el EDVAC
 
@@ -195,7 +195,7 @@ La palabra 'error', cuando se aplica a las computadoras, significa alguna forma 
 
 Hopper ayudó a programar el Mark II y la computadora anterior Harvard Mark I, mientras trabajaba para el profesor Howard Aiken. Trabajó incansablemente en desarrollar estas computadoras al máximo a través de una programación ingeniosa. Después de Harvard, trabajó para el fabricante de computadoras Remington-Rand, donde desarrolló lo que a menudo se considera el primer compilador, A-0. También formó parte del comité para desarrollar COBOL, un lenguaje de programación estándar y ampliamente adoptado que transformó la forma en que se desarrolló el software para aplicaciones comerciales. COBOL todavía está en uso hoy. Hopper fue nombrado miembro del Museo de Historia de la Computación en 1987.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1944 - Primer coloso operativo en Bletchley Park
 
@@ -217,7 +217,7 @@ Coloso redujo el tiempo para romper los mensajes de Lorenz de semanas a horas. L
 
 Concebido por el profesor de física de Harvard Howard Aiken, y diseñado y construido por IBM, el Harvard Mark 1 es una calculadora basada en relés del tamaño de una habitación. La máquina tenía un árbol de levas de cincuenta pies de largo que corría a lo largo de la máquina que sincronizaba los miles de componentes de la máquina y usaba 3.500 relés. El Mark 1 produjo tablas matemáticas, pero pronto fue reemplazado por computadoras electrónicas de programas almacenados.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 🤖 1943 - * Un cálculo lógico de las ideas inmanentes en la actividad nerviosa *
 
@@ -246,7 +246,7 @@ El ejército de los Estados Unidos le pidió a Bell Laboratories que diseñara u
 
 Curt Herzstark era un ingeniero austriaco que trabajó en el negocio de fabricación de su familia hasta que fue arrestado por los nazis en 1943. Mientras estaba encarcelado en el campo de concentración de Buchenwald por el resto de la Segunda Guerra Mundial, refina su diseño de una calculadora antes de la guerra que presentaba una calculadora modificada versión del diseño de "tambor escalonado" de Leibniz. Después de la guerra, la Curta de Herzstark hizo historia como la calculadora de cuatro funciones y mecánica más pequeña
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1942 - Se completa la computadora Atanasoff-Berry (ABC)
 
@@ -259,7 +259,7 @@ Después de demostrar con éxito un prototipo de prueba de concepto en 1939, el 
 
 El resultado legal fue un hito: Atanasoff fue declarado el creador de varias ideas básicas de computadora, pero la computadora como concepto fue declarada no patentable y, por lo tanto, abierta a todos. Una réplica de trabajo a gran escala del ABC se completó en 1997, lo que demuestra que la máquina ABC funcionaba como Atanasoff había afirmado. La réplica se encuentra actualmente en exhibición en el Computer History Museum.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1941 - Konrad Zuse termina la computadora Z3
 
@@ -294,7 +294,7 @@ Se cree que este es el primer uso conocido del término "robótica".
 
 Construido como un medio electromecánico para descifrar las comunicaciones militares nazis basadas en ENIGMA durante la Segunda Guerra Mundial, el Bombe británico está concebido por el pionero informático Alan Turing y Harold Keen de la British Tabulating Machine Company. Se construyeron cientos de bombas aliadas para determinar las posiciones diarias de arranque del rotor de las máquinas de cifrado Enigma, lo que a su vez permitió a los Aliados descifrar mensajes alemanes. La idea básica de las bombas surgió de la "Bomba" de 1938 de Marian Rejewski, que rompió el código.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1940 - La Calculadora de Números Complejos (CNC) es completada
 
@@ -305,7 +305,7 @@ Construido como un medio electromecánico para descifrar las comunicaciones mili
 
 En 1939, Bell Telephone Laboratories completa esta calculadora, diseñada por el científico George Stibitz. En 1940, Stibitz demostró el CNC en una conferencia de la American Mathematical Society celebrada en el Dartmouth College. Stibitz sorprendió al grupo al realizar cálculos de forma remota en el CNC (ubicado en la ciudad de Nueva York) utilizando un terminal Teletype conectado a Nueva York a través de líneas telefónicas especiales. Este es probablemente el primer ejemplo de computación de acceso remoto.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 1930s 🕙
 
@@ -318,7 +318,7 @@ En 1939, Bell Telephone Laboratories completa esta calculadora, diseñada por el
 
 Construido por Westinghouse, el robot Elektro basado en relés responde al ritmo de los comandos de voz y ofrece bromas pregrabadas en registros de 78 rpm. Apareció en la Feria Mundial, y podía mover la cabeza y los brazos ... e incluso los cigarrillos "ahumados".
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1937 - El científico de Bell Laboratories, George Stibitz, utiliza relés para un crear un sumador de demostración
 
@@ -329,7 +329,7 @@ Construido por Westinghouse, el robot Elektro basado en relés responde al ritmo
 
 Llamado el sumador "Modelo K" porque lo construyó en su mesa "Cocina", este simple circuito de demostración proporciona una prueba de concepto para aplicar la lógica booleana al diseño de las computadoras, lo que resulta en la construcción de la calculadora compleja modelo I basada en relés en 1939 Ese mismo año en Alemania, el ingeniero Konrad Zuse construyó su computadora Z2, también utilizando relés de la compañía telefónica.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 📞 1934 - Cerebros del Mundo
 
@@ -342,7 +342,7 @@ El belga Paul Otlet tiene un objetivo modesto: recopilar, organizar y compartir 
 
 En la década de 1930, el escritor británico HG Wells y el científico estadounidense Vannevar Bush están avanzando objetivos similares: Wells con sus escritos de "Cerebro mundial" y Bush con el Memex, una especie de navegador web basado en microfilmes. Estos enfoques para organizar la información difieren. Pero todos comparten características clave de la Web actual, incluidas las referencias cruzadas automatizadas, que llamamos hipervínculos.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 📞 1933 - La red de mensajería Telex entra en línea
 
@@ -355,7 +355,7 @@ Al igual que el Volkswagen Beetle y los modernos sistemas de autopistas, la red 
 
 Telex utiliza teleimpresoras, que datan de la década de 1910 para su uso en telegrafía. Pero en lugar de utilizar costosas líneas telegráficas dedicadas, el sistema télex conecta esas teleimpresoras entre sí a través de líneas telefónicas de voz, enrutadas por interruptores telefónicos modificados. Las versiones inalámbricas de Telex pronto conectan regiones remotas del mundo en desarrollo.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## Simbología 🗺
 
