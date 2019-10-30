@@ -1,11 +1,11 @@
 ---
-title: 👨‍💻 ▷ Cómo Aprender a Programar desde Cero
+title: 👨‍💻 ▷ Cómo Aprender a Programar desde Cero en 2020
 description: "📌 Aprende a programar con múltiples lenguajes y frameworks. Los mejores libros PDF y ebook en nuestro catálogo e incluso gratis 😜."
 excerpt: "📌 Aprende a programar con múltiples lenguajes y frameworks. Los mejores libros PDF y ebooks en nuestro catálogo e incluso gratis 😜."
 published: true
 comments: true
 date: 2018-03-01
-last_modified_at: 2019-09-01
+last_modified_at: 2019-10-30
 permalink: /programar/
 # header:
 #   image: "/assets/images/chocolatey-ciberninjas.jpg"
@@ -106,13 +106,19 @@ En esta sección, vamos a intentar realizar un resumen de los pasos que podemos 
 9. Sé calmado y mantente calmado! Existen plazas de trabajo en cada lenguaje diferente, no tengas ninguna duda de que si realmente deseas dedicarte, tarde o temprano va aparecer algo que se adapte a ti.
 10. Lo más importante es ser persistente, conservar la motivación
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPlGMplfEbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## ¿En qué campo de la informática trabajar?
+
+Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, en la era tecnológica los campos disciplinarios existentes son tan múltiples como diferentes, dos de las temáticas principales y más buscadas que ofrecen puestos de trabajo en el mundo: son el tan citado _machine learning_ o **aprendizaje automático** y el **desarrollo móvil**.
+
 ### Aprendizaje Automático o Machine Learning
 
 Según uno de los últimos [informes publicados por Github](https://github.blog/2019-01-24-the-state-of-the-octoverse-machine-learning/). Python es el lenguaje más utilizado para el aprendizaje automático combinado junto a la biblioteca TensorFlow, si eres capaz de aprender ambos junto al dominio del idioma del inglés; muy probablemente te vas a encontrar en una posición muy favorable con la que poder lograr un trabajo importante en el futuro.
 
 Además, siempre que hablemos de machine learning no podemos dejar olvidado al eficaz lenguaje de R. Sin lugar a dudas el más importante en el cometido de generar estadísticas; este lenguaje capaz de analizar y manipular datos de forma masiva sin ningún tipo de problemas, ofrece varios paquetes que simplifican la implementación de algoritmos alrededor del flujo de trabajo del aprendizaje automático.
 
-### Desarrollador Web
+### Desarrollador Móvil Web
 
 Si tu interés, es el de desarrollar aplicaciones móviles. Lo ideal sería que te decidieses si deseas desarrollar apps centrándote en los dispositivos Android o los de Apple.
 
@@ -124,7 +130,7 @@ La tercera opción y quién sabe si pudiese ser la más práctica, sobre todo; q
 
 Javascript, en combinación con HTML y CSS te permite crear aplicaciones que pueden transformarse en apps nativas a través del entorno de desarrollo: Cordova. Otra opción, sería construir con este mismo pack (Javascript, HTML, CSS) para transformar la app posteriormente a nativa mediante el framework .NET de la compañía Microsoft con la herramienta Xamarin.
 
-### Startup
+### ¿Cómo iniciar una Startup?
 
 Si tu objetivo es abrir una Startup o unirte a una, nada mejor que iniciarte con Ruby y Ruby and Rails. Ruby, es amigable con los principiantes y permite desarrollar prototipos a la velocidad del viento, eso lo convierte en una excelente opción en organizaciones en las que te puedes encontrar un crecimiento agresivo.
 
@@ -163,10 +169,6 @@ Amamos y casi hasta el punto de la adicción, los lenguajes de programación má
 Indiferentemente de si deseas introducirte en ser un desarrollador *full stack, back-end* o *front-end*, de si eres un estudiante de informática o ingeniería de telecomunicaciones, de si deseas convertirte en el mejor administrador de sistemas y redes, introducirte en el campo del *big data* o arrancar en tus conocimientos de hacker ético, de si te gustaría refrescar tus metodologías de trabajo, de si quieres introducirte en el criptomundo y las cadenas de bloques o la robótica, de si solamente quieres comenzar a monetizar tu blog con criptomonedas, de si únicamente buscas fundamentos de ciberseguridad primarios o de si simplemente eres un curioso adicto tecnológico.
 
 Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer más, sobre nuestra "filosofía" puedes indagar en..
-🚧 EN CONSTRUCCIÓN 🚧
+👇 🚧 EN CONSTRUCCIÓN 🚧 👇
 
 Si aún te surgen dudas o te gustaría realizar alguna consulta, ***¿Qué es Ciberninjas?*** o ***Nuestro Proyecto***  y además, no temas en unirte a [nuestra conversación (Discord)](https://kutt.it/ciberninjas_discord).
-
-------
-
-**Última Actualización**: 30/06/2019

@@ -1,12 +1,13 @@
 ---
-title: 🔝 ▷ Posicionamiento Web y SEO, aprender desde cero todo lo que debes saber
+title: 🕵️‍♂️ ▷ Posicionamiento Web y SEO, aprender desde cero todo lo que debes saber 
 author_profile: true
 description: "📌 Posicionamiento Web y SEO 🔍 Aprender desde cero a experto todo lo que debes saber"
 excerpt: "📌 Posicionamiento Web y SEO 🔍 Aprender desde cero a experto todo lo que debes saber"
 published: true
 comments: true
+classes: wide
 date: 2018-04-25
-last_modified_at: 2019-09-19
+last_modified_at: 2019-10-30
 permalink: /posicionamiento-web-seo/
 canonical_URL: https://ciberninjas.com/posicionamiento-web-seo/
 header:
@@ -18,12 +19,82 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: false
-url: https://www.pabloalvarezcorredera.com/
+
 ---
 
 Las búsquedas a través de los buscadores están en constante cambio, más siempre se puede aprender los conocimientos necesarios que hagan marcar la diferencia; de lo contrario, si todo esto te parecen cuentos chinos o tu tiempo es demasiado valioso como para dedicarte a ello; puedes contar conmigo.
 
-## La estructura básica y fundamental del SEO
+## La Historia del SEO
+
+Los Webmaster así como los proveedores de contenidos, comenzaron a optimizar sitios web enfocado en los motores de búsqueda a mediados de la década de 1990, ya que los motores de búsqueda número uno catalogaban todas las páginas de la WWW. Inicialmente, todos los webmasters solo necesitaban enviar el elemento de referencia de una página o el Localizador "Uniforme de Recursos" hacía los diversos motores que enviarían un "rastreador web" para "rastrear" esa página y así extraer enlaces a otras páginas y regresar la información encontrada en la página para generar los índices de los Motores de Búsqueda.
+
+Ese proceso involucra una araña del motor de búsqueda que descarga una página y la almacena en el propio servidor del motor de búsqueda. Un segundo programa, denominado como indexación de motores de búsqueda. Que es el encargado de extraer toda la información aproximadamente de la página, como además, también de todas las palabras que contiene, dónde se encuentran y valorar "el peso o importancia" sobre cada palabra específica usada, por último también se encarga de rastrear todos los enlaces que contiene la página; toda esa información se coloca en un software de programación indexado pendiente de rastrear en una fecha posterior.
+
+Los propietarios de sitios web rápidamente se dieron cuenta de las posibilidades de poseer un alto ranking y alta visibilidad dentro de los motores de búsqueda, por lo que se tomaron este hecho como una gran oportunidad de negocio; así como el mundo de la seguridad informática. Desde los hackers de Sombrero Blanco como los de Sombrero Negro se animaron a investigar dentro del mundo del SEO.
+
+Según el tecnólogo y analista de la industria Danny Sullivan, la frase de "optimización de motores de búsqueda" probablemente se comenzó a usar en 1997. Sullivan acredita a Bruce Clay como una de las primeras personas en popularizar el término. El 2 de mayo de 2007, Jason Gambert intentó transformar el término SEO al convencer a la corporación de Marcas en Arizona de que el SEO es un "proceso" que implica la manipulación de palabras clave y no un "servicio de marketing".
+
+En las primeras versiones de buscadores. Los proveedores de contenido web manipularon atributos dentro del código fuente de HTML de sus páginas en un intento de alternar el funcionamiento de los motores de búsqueda. Para 1997, los diseñadores de motores de búsqueda reconocieron que los Webmaster estaban desplegando esfuerzos para posicionarse ante los motores de búsqueda, y que algunos webmasters incluso estaban enviando [Spamdexing](/glosario/spamdexing/) a los resultados de búsqueda. LLenando las páginas con palabras clave excesivas e irrelevantes. Los primeros motores de búsqueda, como Altavista e Infoseek, fueron ajustando sus algoritmos para evitar que los webmasters manipularan sus clasificaciones.
+
+Al confiar tanto en factores como la densidad de palabras clave que estaban exclusivamente bajo el control de los creadores y webmaster, los primeros motores de búsqueda sufrieron un constante abuso y manipulación de sus ranking. Ante el deseo de ofrecer mejores resultados a sus usuarios, los motores de búsqueda tuvieron que adaptarse una y otra vez para garantizar que sus páginas de resultados mostraban realmente los resultados de búsqueda más relevantes, en lugar de páginas no relacionadas. Debieron pelear en búsqueda de una solución para que las páginas repletas de numerosas palabras clave generadas sin ningún tipo de escrúpulo por los webmasters dominaran las búsquedas.
+
+Esto significo alejarse de la dependencia de la densidad de los términos hacia un proceso más holístico en el que prevaleciese la importancia de la semántica. Dado que el éxito y la popularidad de un motor de búsqueda está determinado por su capacidad de obtener resultados casi relevantes para cualquier búsqueda, los resultados de búsqueda pobres o irrelevantes podrían llevar a los usuarios a buscar en otras fuentes de búsqueda, y poco a poco, los motores de búsqueda respondieron desarrollando algoritmos de clasificación más complejos en los que se tienen en cuenta muchos factores adicionales en los que los webmasters estaban desorientados y así, no pudiesen manipular el contenido que creaban. En 2005, se creó una conferencia anual, la AIRWeb "Recuperación de Información Adversa en la Web" para reunir a profesionales e investigadores interesados ​​en la optimización de motores de búsqueda y temas relacionados.
+
+Las empresas que emplean técnicas demasiado agresivas pueden nombrar a sus sitios web invitados prohibidos en los resultados de búsqueda. En 2005, el Wall Street Journal produjo en una compañía, Traffic Power , que supuestamente utilizó técnicas de alto riesgo y no reveló esos riesgos a sus clientes. Presentación de la revista Wired Magazine que la misma compañía demandó al blogger y SEO Aaron Wall por escribir sobre la prohibición. Matt Cutts de Google luego confirmó que Google prohibió la energía del tráfico y algunos de sus clientes.
+
+Algunos motores de búsqueda también se acercaron a la industria del SEO, y son patrocinadores e invitados frecuentes en conferencias, chats y seminarios de SEO. Los principales motores de búsqueda distribuyen información y pautas para respaldar la optimización del sitio web. Google tiene un script Sitemaps para ayudar a los webmasters a saber si Google está teniendo problemas para indexar su sitio web y también genera datos sobre el tráfico de Google al sitio web. El Centro para webmasters de Bing permite a los webmasters enviar un mapa del sitio y feeds web, hace que los usuarios creen la "tasa de rastreo" y rastreen el estado del índice de las páginas web.
+
+En 2015, se ofreció que Google estaba desarrollando y promocionando la búsqueda móvil como una característica clave en productos futuros. En respuesta, muchas marcas comenzaron a proponer un enfoque diferente para sus estrategias de marketing en Internet.
+
+En 1998, dos estudiantes graduados de la Universidad de Stanford , Larry Page y Sergey Brin , desarrollaron "Backrub", un motor de búsqueda que se basó en un algoritmo matemático para calificar la importancia de las páginas web. El número calculado por el algoritmo, PageRank , es una función de la cantidad y la fuerza del enlace entrante . PageRank estima la probabilidad de que un usuario web acceda a una página de condición previa que navegue aleatoriamente por la web y siga los enlaces de una página a otra. En efecto, esto significa que algunos enlaces son más fuertes que otros, ya que es más probable que un internauta aleatorio llegue a una página de PageRank más alta.
+
+Page y Brin fundaron Google en 1998. Google atrajo una lealtad posterior o como una declaración de. entre el creciente número de usuarios de Internet , a los que les gustó su diseño simple. Se consideraron los factores fuera de la página (a) como el PageRank y el análisis de hipervínculos, así como los factores en la página, como la frecuencia de palabras clave, metaetiquetas , encabezados, enlaces y clasificación de sitios para garantizar que Google evite la cosecha de manipulación que se ve en los motores de búsqueda que solo consideró los factores en la página para sus clasificaciones. Aunque el sistema PageRank era más difícil de jugar , los webmasters ya habían desarrollado herramientas y esquemas de creación de conexiones para influir en la compañía Inktomimotor de búsqueda, y estos métodos demostraron ser igualmente relevantes para el PageRank de juegos. muchos sitios se centraron en intercambiar, comprar y vender enlaces, a menudo a gran escala. Algunos de estos esquemas, o granja de enlaces , involucraban la determinación de miles de sitios con el único objetivo de Spamdexing .
+
+En 2004, los motores de búsqueda habían incorporado una amplia gama de factores no revelados en sus algoritmos de clasificación para reducir el impacto de la manipulación de la conexión. En junio de 2007, Saul Hansell , del New York Times, declaró que Google clasifica los sitios que utilizan más de 200 señales diferentes. Los principales motores de búsqueda, Google , motor de búsqueda Bing y Yahoo, no divulgue los algoritmos que poseen a las páginas de clasificación. Algunos profesionales de SEO han estudiado diferentes enfoques para la optimización de motores de búsqueda y han dividido sus opiniones personales. Las patentes relacionadas con los motores de búsqueda pueden distribuir información para comprender mejor los motores de búsqueda. En 2005, Google comenzó a personalizar los resultados de búsqueda para cada usuario. Dependiendo de su historial de búsquedas anteriores, Google creó resultados para usuarios registrados.
+
+En 2007, Google anunció una campaña contra los enlaces pagos que transfieren PageRank. El 15 de junio de 2009, Google reveló que habían tomado medidas para mitigar los efectos de la escultura de PageRank por la propiedad de las cualidades de Nofollow en los enlaces. Matt Cutts , un conocido ingeniero de software de Google, anunció que Google Bot ya no trataría los enlaces no seguidos de la misma manera, para evitar que los proveedores de ventajas SEO utilicen nofollow para esculpir PageRank. Como efecto de este cambio, la propiedad de nofollow condujo a la evaporación de PageRank. En líneas para evitar lo anterior, los ingenieros de SEO desarrollaron técnicas de selección que reemplazan las etiquetas no seguidas con Javascript ofuscadoy así dejamos esculpir el PageRank. Además, se han sugerido varias soluciones que incluyen el uso de Iframe , animación Flash y Javascript.
+
+En diciembre de 2009, Google anunció que utilizaría el historial de búsqueda web de todos sus usuarios en el posicionamiento para completar los resultados de búsqueda. El 8 de junio de 2010, se anunció un nuevo sistema de indexación web que solicitó Google Caffeine . diseñado para permitir a los usuarios encontrar resultados de noticias, publicaciones en foros y otro contenido mucho antes de publicarlo que antes, la cafeína de Google fue una modificación a la forma en que Google actualizó su índice en diseño para hacer que las cosas se mostraran más rápido en Google que antes. Según Carrie Grimes, el ingeniero de software que anunció Caffeine para Google, "Caffeine proporciona resultados un 50 por ciento más frescos para búsquedas en la web que nuestro último índice ..." Google Instant, búsqueda en tiempo real, fue retratada en 2010 pausado en un intento de hacer que los resultados de búsqueda sean más oportunos y relevantes. Históricamente, los administradores del sitio han pasado meses o incluso años optimizando un sitio web para colocar clasificaciones de búsqueda. Con el crecimiento de la popularidad de los sitios de redes sociales y blogs, los principales motores hicieron que sus algoritmos se perfeccionaran para permitir que el contenido fresco a las especies rápidamente dentro de los resultados de búsqueda.
+
+En febrero de 2011, Google anunció la actualización de Google Panda , que penaliza a los sitios web que contienen contenido duplicado de otros sitios web y fuentes. Históricamente, los sitios web han copiado contenido unos de otros y se han beneficiado en las clasificaciones de los motores de búsqueda al participar en esta práctica. Sin embargo, Google implementó un nuevo sistema que castiga a los sitios cuyo contenido no es único. El 2012 Penguin de Google intentó penalizar a los sitios web que usaban técnicas de manipulación para reclasificar sus clasificaciones en el motor de búsqueda. Aunque Google Penguin se ha presentado como un algoritmo destinado a combatir el spam web, realmente se centra en los enlaces de spam midiendo la calidad de los sitios de los que provienen los enlaces. El colibrí de Google 2013La actualización incluyó una modificación de algoritmo diseñada para mejorar el procesamiento del lenguaje natural de Google y la comprensión semántica de las páginas web. El sistema de procesamiento de lenguaje de Hummingbird se encuentra bajo el término recientemente reconocido de ' Búsqueda conversacional', donde el sistema presta más atención a cada palabra en la consulta para que las páginas coincidan mejor con el significado de la consulta en lugar de unas pocas palabras. Con respecto al giro dado a la optimización de motores de búsqueda, para editores y escritores de contenido, Hummingbird tiene la responsabilidad de resolver problemas eliminando el contenido irrelevante y el correo no deseado, lo que permite a Google producir contenido de alta calidad y confiar en que sean autores 'confiables'. .
+
+Métodos
+Los principales motores de búsqueda, como Google , el motor de búsqueda Bing y Yahoo! , use el rastreador web para buscar páginas para sus resultados de búsqueda algorítmica. Las páginas que están vinculadas desde otras páginas indexadas de motores de búsqueda no necesitan enviarse porque se encuentran automáticamente. El Yahoo! Directory y DMOZ , dos directorios principales que cerraron en 2014 y 2017 respectivamente, ambos denominados presentación manual y revisión editorial humana. Google ofrece herramientas para webmasters de Google , para las cuales un mapa del sitio XMLel feed se puede crear y enviar de forma gratuita para garantizar que se encuentren todas las páginas, especialmente las páginas que no se pueden descubrir automáticamente o como algo de lo que se dice. enlaces además de su consola de envío de URL. Yahoo! operaba previamente un servicio de envío pagado que garantizaba el rastreo de un pago por clic ; Sin embargo, esta práctica se suspendió en 2009.
+
+Los rastreadores de motores de búsqueda web pueden observar varios factores diferentes cuando rastrean un sitio. No todas las páginas están indexadas por los motores de búsqueda. La distancia de las páginas desde el directorio raíz de un sitio también puede ser un elemento en si las páginas se rastrean o no.
+
+Hoy, casi la gente está buscando en Google usando un dispositivo móvil. En noviembre de 2016, Google anunció una modificación importante en la forma de rastrear sitios web y comenzó a hacer que su índice sea el primero en dispositivos móviles, lo que significa que la relación móvil de su sitio web se convierte en el punto de partida de lo que Google incluye en su índice.
+
+Para evitar contenido no deseado en los índices de búsqueda, los webmasters pueden indicar a las arañas que no rastreen archivos o directorios seguros a través del archivo Robots.txt de especificaciones en el directorio raíz del dominio. Además, una página puede excluirse explícitamente de la base de datos de un motor de búsqueda mediante el uso de una etiqueta Meta específica para robots comúnmente <meta name = "robots" content = "noindex">. Cuando un motor de búsqueda visita un sitio, el archivo robots.txt ubicado en el directorio raízes el primer archivo rastreado. El archivo robots.txt se analiza y le indica al robot qué páginas no se deben rastrear. Como un rastreador de motores de búsqueda puede mantener una copia en caché de este archivo, en ocasiones puede rastrear páginas que un webmaster no desea rastrear. Las páginas que normalmente se evitan rastrear incluyen páginas específicas de inicio de sesión, como carritos de compras y contenido específico del usuario, como resultados de búsqueda de búsquedas internas. En marzo de 2007, Google advirtió a los webmasters que deberían evitar la indexación de los resultados de búsqueda internos porque esas páginas se consideran spam de búsqueda.
+
+Una variedad de métodos puede aumentar la importancia de una página web en los resultados de búsqueda. Los métodos de vinculación de sitios web entre páginas del mismo sitio web para generar más enlaces a páginas importantes pueden actualizar su visibilidad. Escribir contenido que incluya frases de palabras clave buscadas con frecuencia, para que sea relevante para una amplia variedad de consultas de búsqueda, tenderá a aumentar el tráfico. Actualizar el contenido para que los motores de búsqueda se rastreen con frecuencia puede dar un peso extra a un sitio. Agregar palabras clave relevantes a los metadatos de una página web, incluida la etiqueta HEAD , tenderá a mejorar la relevancia de las listas de búsqueda de un sitio, aumentando así el tráfico. Canonicalización de URL de páginas web accesibles mediante URL combinadas, utilizando el elemento conectivo canónicoo mediante la redirección 301 puede ayudar a que ciertos enlaces a diferentes versiones de la URL cuenten para el puntaje de popularidad de asociación de la página.
+
+Las técnicas de SEO se pueden clasificar en dos grandes categorías: técnicas que los motores de búsqueda recomiendan como componentes del buen diseño de "sombrero blanco", y aquellas técnicas en las que los motores de búsqueda no aprueban el "sombrero negro". Los motores de búsqueda intentan minimizar el efecto de este último, entre ellos Spamdexing . Los comentaristas de la industria han clasificado estos métodos, y los profesionales que los emplean, como SEO de seguridad informática de sombrero blanco o SEO de piratería de sombrero negro . Los sombreros blancos tienden a producir resultados que duran mucho tiempo, mientras que los sombreros negros anticipan que sus sitios eventualmente pueden ser prohibidos temporal o permanentemente una vez que los motores de búsqueda descubran lo que están haciendo.
+
+Una técnica de SEO se considera un sombrero blanco si se ajusta a las pautas de los motores de búsqueda y no implica engaño. Como las directrices del motor de búsqueda no están escritas como una serie de reglas o mandamientos, esta es una distinción importante a tener en cuenta. White hat SEO no se trata solo de venir después o como resultado de. directrices, pero se trata de garantizar que el contenido que indexa un motor de búsqueda y que posteriormente clasifica sea el mismo contenido que verá un usuario. Sombrero blanco un cuerpo o proceso por el cual la energía o un componente particular ingresa a un sistema. se resume libremente como crear contenido para los usuarios, no para los motores de búsqueda, y luego crear ese contenido fácilmente accesible para los algoritmos de "araña" en línea, en lugar de intentar engañar al algoritmo desde su objetivo.
+
+Spamdexing intenta mejorar las clasificaciones de formas que no son aprobadas por los motores de búsqueda o que implican engaño. Una técnica de sombrero negro usa texto que está oculto, ya sea como texto coloreado de manera similar al fondo, en un Span y div invisible , o colocado fuera de la pantalla. Otro método proporciona una página diferente dependiendo de si la página la solicita un visitante humano o un motor de búsqueda, una técnica conocida como Encubrimiento . Otra categoría a veces utilizada es el sombrero gris . Esto se encuentra entre los enfoques de sombrero negro y sombrero blanco, donde los métodos empleados evitan que el sitio sea penalizado, pero no actúan para producir el mejor contenido para los usuarios. Gray hat SEO está completamente enfocado en mejorar las clasificaciones de los motores de búsqueda.
+
+Los motores de búsqueda pueden penalizar los sitios que descubren utilizando métodos de sombrero negro, ya sea reduciendo sus clasificaciones o eliminando sus listados de sus bases de datos por completo. Dichas sanciones pueden aplicarse automáticamente mediante los algoritmos de los motores de búsqueda o mediante una revisión manual del sitio. Un ejemplo fue la eliminación de Google en febrero de 2006 de BMW Alemania y Ricoh Alemania por el uso de prácticas engañosas. Sin embargo, ambas compañías se disculparon rápidamente, arreglaron las páginas ofensivas y fueron restauradas a la página de resultados del motor de búsqueda de Google.
+
+Como estrategia de marketing
+El SEO no es una estrategia adecuada para todos los sitios web, y otras estrategias de marketing en Internet pueden ser más efectivas, como la publicidad paga a través de campañas de pago por clic , según los objetivos del operador del sitio. Marketing de motores de búsquedaes la práctica de diseñar, ejecutar y optimizar campañas de ofertas de motores de búsqueda. Su diferencia con el SEO se representa casi simplemente como la diferencia entre la clasificación de precedencia pagada y no pagada en los resultados de búsqueda. Su objetivo se refiere más a la prominencia que a la relevancia; Los desarrolladores de sitios web deben considerar a SEM con la mayor importancia teniendo en cuenta la visibilidad, ya que la mayoría navega a los listados principales de su búsqueda. Una campaña exitosa de marketing en Internet también puede depender de la creación de páginas web de alta calidad para atraer y persuadir, presentando análisis web a todos para permitir que los propietarios de los sitios obtengan resultados y mejore la tasa de conversión de un sitio . En noviembre de 2015, Googlelanzó al público una versión completa de 160 páginas de sus Pautas de calificación de calidad de búsqueda, que reveló un cambio en su enfoque hacia la "utilidad" y la búsqueda móvil . En los últimos años, el mercado móvil ha explotado, superando el uso de computadoras de escritorio, como lo mostró StatCounter en octubre de 2016, donde analizaron 2.5 millones de sitios web y descubrieron que el 51.3% de las páginas fueron cargadas por un dispositivo móvil. Google ha sido uno de los múltiples que está utilizando la popularidad del uso de dispositivos móviles al alentar a los sitios web a usar su Google Search Console , la Prueba móvil amigable , que permite a las empresas medir su sitio web según los resultados del motor de búsqueda y su facilidad de uso. es.
+
+SEO puede generar un adecuado retorno de la inversión . Sin embargo, a los motores de búsqueda no se les paga por el tráfico de búsqueda orgánica, sus algoritmos cambian y no hay garantías de referencias continuas. Debido a esta falta de garantías y certeza, una empresa que depende en gran medida del tráfico de los motores de búsqueda puede sufrir grandes pérdidas si los motores de búsqueda dejan de enviar visitantes. Los motores de búsqueda pueden cambiar sus algoritmos, afectando la ubicación de un sitio web, posiblemente resultando en una pérdida de tráfico grave. Según el CEO de Google, Eric Schmidt, en 2010, Google realizó más de 500 cambios de algoritmos, casi 1.5 por día. Se considera una práctica comercial inteligente que los operadores de sitios web se liberen de la dependencia del tráfico de los motores de búsqueda. Además de la accesibilidad en términos de rastreadores web mencionados anteriormente, el usuarioLa accesibilidad web se ha vuelto cada vez más importante para el SEO.
+
+Mercados internacionales
+Las técnicas de optimización están muy adaptadas a los motores de búsqueda dominantes en el mercado cotizado. Las cuotas de mercado de los motores de búsqueda cambian de mercado a mercado, al igual que la competencia. En 2003, el tecnólogo Danny Sullivan declaró que Google representaba alrededor del 75% de todas las búsquedas. En los mercados fuera de los Estados Unidos, la participación de Google es a menudo mayor, y Google sigue siendo el motor de búsqueda dominante en todo el mundo a partir de 2007. A partir de 2006, Google tenía una cuota de mercado del 85-90% en Alemania. Si bien había cientos de empresas de SEO en los Estados Unidos en ese momento, solo había unas cinco en Alemania. A partir de junio de 2008, la participación de mercado de Google en el Reino Unido era cercana al 90% según Hitwise . Esa cuota de mercado se logra en varios países.
+
+A partir de 2009, solo hay unos pocos mercados grandes donde Google no es el principal motor de búsqueda. En la mayoría de los casos, cuando Google no está liderando en un mercado de supuestos, este es el jugador más lento que un jugador local. Los mercados de ejemplo más notables son China, Japón, Corea del Sur, Rusia y la República Checa, donde respectivamente Baidu , Yahoo! Japón , Naver , Yandex y Seznam son líderes del mercado.
+
+La optimización de búsqueda exitosa para los mercados internacionales puede requerir una persona ocupada por teléfono o calificada en una profesión. Traducción de idiomas de páginas web, registro de un nombre de dominio con un dominio de nivel superior en el mercado objetivo y alojamiento web que proporciona una dirección IP local . De lo contrario, los elementos fundamentales de la optimización de búsqueda son esencialmente los mismos, independientemente del idioma.
+
+Precedentes legales
+El 17 de octubre de 2002, SearchKing presentó una demanda en el Tribunal de Distrito de los Estados Unidos, Distrito Oeste de Oklahoma, contra el motor de búsqueda Google. La afirmación de SearchKing fue que las tácticas de Google para evitar el Spamdexing constituían una interferencia tortuosa en las relaciones contractuales. El 27 de mayo de 2003, el tribunal otorgó la moción de Google para desestimar la queja porque SearchKing "no pudo presentar un reclamo sobre el cual se puede otorgar una reparación".
+
+En marzo de 2006, KinderStart presentó una demanda contra Google por el ranking de los motores de búsqueda. El sitio web de KinderStart fue eliminado del índice de Google antes de la demanda y la cantidad de tráfico al sitio se redujo en un 70%. El 16 de marzo de 2007, el Tribunal de Distrito de los Estados Unidos para el Distrito Norte de California , División de San José, California, desestimó la queja de KinderStart sin permiso para enmendar, y concedió parcialmente la moción de Google para las sanciones de las Reglas Federales de Procedimiento Civil contra el abogado de KinderStart, exigiéndole que pague el elemento de los gastos legales de Google.
+
+## La estructura básica y fundamental
 
 Si nos imaginásemos una escala de principios en cuanto a necesidades más fundamentales a la hora de trabajar sobre un proyecto SEO.
 
@@ -43,9 +114,9 @@ En sexto lugar, y ya para finalizar; el apartado que se aproxima más a la progr
 
 ## ¿Qué es y por qué es importante el SEO?
 
-Veamos los conceptos más básicos y algunas de las mejores prácticas en Google y Bing, a continuación.
+A continuación veamos los conceptos más básicos y algunas de las mejores prácticas en Google y Bing, a continuación.
 
-### ¿Qué es SEO?
+### ¿Qué es el SEO?
 El significado del SEO es "optimización de los motores de búsqueda" y nace de las siglas de las palabras en inglés "Search Engine Optimization" el concepto en sí; se ha enfocado y ha pasado a utilizarse como denominación del conjunto de prácticas aplicados que generan un aumento del tráfico y la calidad de esté, sobre una aplicación o página web a través de resultados de búsquedas "orgánicas" también conocidas como búsquedas generadas de forma natural.
 
 
@@ -65,6 +136,7 @@ A largo plazo, el SEO pasa a ser el mejor medio de Marketing que existe; puesto 
 Los motores de búsqueda siguen necesitando nuestra ayuda a pesar de que cada vez son más inteligentes.
 
 ## Cumplir la intención del usuario
+
 Nuestro objetivo, como SEO siempre será proporcionar rápidamente al usuario el contenido que desea.
 Por ello debemos ir apartándonos de todas las malas prácticas posibles anteriormente citadas y transmitir a las personas con las que trabajemos concentrarse en comprender y cumplir la intención del usuario, dejando de lado las pautas que busquen clasificar más alto sobre los motores de búsqueda.
 
@@ -75,11 +147,13 @@ Seguramente, lo que los usuarios desean encontrar en referencia a nuestra búsqu
 Antes de comenzar con el SEO, es importante establecer los objetivos correctos a los que deseas alcanzar. Establecer unos objetivos inteligentes y que seas capaz de controlar para tus clientes.
 
 ## Sobre los motores de búsqueda
+
 Los motores de búsqueda apoyan el trabajo de las Comunidades de SEO, de hecho fueron creados para ayudarnos a tener éxito.
 
 Google ayuda constantemente a las personas que se dedican tanto al SEO como a la gestión de las páginas webs con múltiples herramientas, además de ofrecer extensa documentación como por ejemplo, está: [Guía de Optimización de Buscadores](https://support.google.com/webmasters/answer/7451184?hl=es) o su [Foro de Ayuda para Webmasters](https://support.google.com/webmasters/community/?hl=es&gpf=%23!forum%2Fwebmasters), todo ello esta creado hacía un mismo objetivo: ofrecer la mejor experiencia posible al usuario.
 
 A continuación, podemos destacar algunos puntos a considerar a la hora de trabajar respecto a los motores de búsqueda:
+
 ### Las mejores prácticas en Google & otros buscadores
 
 - Crear las páginas pensando en el usuario, no en los motores de búsqueda.
@@ -92,6 +166,7 @@ A continuación, podemos destacar algunos puntos a considerar a la hora de traba
 - Piensa en hacer tu página web, en un sitio atractivo, único y valioso.
 
 Así como también podemos reflejar algunas de las malas prácticas que no son nada aconsejables de seguir:
+
 ### Las peores prácticas ante los ojos de Google & otros buscadores
 
 - Generar contenido automático.
@@ -120,6 +195,7 @@ Los motores de búsqueda tienen tres funciones principales:
 
 
 ### ¿Qué es el rastreo de los motores de búsqueda?
+
 El rastreo es el proceso de descubrimiento por el cual los motores de búsqueda envían a un equipo de robots (que se conocen como rastreadores o arañas) a encontrar los contenidos más actuales y nuevos.
 El contenido puede variar -puede ser una página web, una imagen, un vídeo, un PDF, etc.- más independientemente del formato, el contenido es descubierto a través de los enlaces.
 
@@ -128,15 +204,15 @@ Googlebot comienza extrayendo las páginas web principales y luego sigue los enl
 
 
 ### ¿Qué es el índice del motor de búsqueda?
+
 Los motores de búsqueda almacenan y procesan la información que encuentran en un índice, una enorme base de datos de todo el contenido que han descubierto y han decidido que es lo suficientemente bueno como pasar a formar parte dentro de los buscadores.
 
 
 ### Posicionamiento en buscadores
+
 Cuando alguien realiza una búsqueda, los motores rastrean su índice en busca de contenido altamente relevante y luego ordenan ese contenido con la esperanza de resolver la consulta del buscador. Este orden de los resultados de búsqueda por relevancia se conoce como clasificación o "ranking". En general, se puede asumir que cuanto más alto es el "ranking" o clasificación de un sitio web, más relevante es el sitio ante las posibles consultas.
 
 Es posible bloquear los rastreadores de una parte o de la totalidad de tu sitio, o educar a los motores de búsqueda en que eviten almacenar ciertas páginas en su índice. Si bien puede haber razones para hacer esto, si quieres que tu contenido sea encontrado, primero debes asegurarte de que sea accesible para los rastreadores e indexable. De lo contrario, será un sitio invisible.
-
-
 
 ### En SEO, no todos los motores de búsqueda son iguales
 
@@ -162,6 +238,7 @@ Si no aparece en los resultados de la búsqueda, existen las siguientes razones 
 - Tu sitio ha sido penalizado por Google por la realización de tácticas de spam.
 
 ### Indica a los motores como rastrearte
+
 Si utilizaste la Consola de Google o el operador avanzado y encontraste que algunas de tus páginas más importantes no existen en el índice y algunas de las páginas sin importancia se han indexado por error, hay algunas optimizaciones que se pueden implementar en pos de dirigir mejor a GoogleBot sobre cómo deseas que rastree tu contenido web.
 
 La mayoría de las personas piensa en asegurarse de que Google puede encontrar sus páginas importantes, siendo fácil olvidar que hay páginas probables que existen páginas que no quieres que GoogleBot encuentre. Estos podrían incluir cosas URL antiguas que mantienen contenido minúsculo, URL duplicadas (como parámetros de clasificación y filtros para el comercio electrónico) páginas de códigos promocionales especiales, páginas de pruebas o tests, y algunos otros.
@@ -169,9 +246,11 @@ La mayoría de las personas piensa en asegurarse de que Google puede encontrar s
 Si deseas alejar a GoogleBot de ciertas páginas o secciones completas, solo debes utilizar el archivo: robots.txt.
 
 ### Robots.txt
+
 El archivo robots.txt debe localizarse en el directorio raíz (por ejemplo: tudominio.com/robots.txt) y sugiere a los rastreadores qué partes permites rastrear o no, así como a la velocidad de rastreo que deseas que visiten tu sitio; estas pautas se logran por unas [directivas específicas] incluidas dentro de: [robots.txt](/robots-txt/).
 
 ### Cómo trata Googlebot los archivos robots.txt
+
 Si Googlebot no puede encontrar un archivo robots.txt en tu sitio, procede a rastrear el sitio.
 Si Googlebot encuentra un archivo robots.txt en tu sitio, generalmente cumplirá con las sugerencias y procederá a rastrear el sitio.
 Si Googlebot encuentra un error al intentar acceder al archivo robots.txt de tu sitio y no puede determinar si existe o no, no rastreará el sitio.
@@ -221,6 +300,7 @@ Los formularios multimedia que no sean de texto (imágenes, videos, GIF, etc.) n
 Al igual que un rastreador necesita descubrir tu sitio a través de enlaces de otros sitios, necesita una ruta de enlaces en tu propio sitio para guiarlo de una página a otra. Si tiene una página que desea que los motores de búsqueda encuentren pero no está vinculada a ninguna otra página, es virtualmente invisible. Muchos sitios cometen el error crítico de estructurar su navegación en formas que son inaccesibles para los motores de búsqueda, lo que dificulta su capacidad para aparecer en los resultados de búsqueda.
 
 ### Errores de navegación comunes que pueden impedir que los rastreadores vean todo tu sitio
+
 Tener una navegación móvil que muestra resultados diferentes a los de escritorio.
 Cualquier tipo de navegación donde los elementos del menú no estén en el HTML, como las navegaciones habilitadas por JavaScript. Google ha mejorado mucho el rastreo y la comprensión de Javascript, pero aún no es un proceso perfecto. La forma más segura de asegurarse de que algo sea encontrado, comprendido e indexado por Google es ponerlo en el HTML.
 La personalización o mostrar una navegación única a un tipo específico de visitante frente a otros, puede aparecer oculta ante los ojos de los rastreadores.
@@ -228,9 +308,11 @@ Vincular tu página principal a través del menú de navegación: recuerde, los 
 Por esta razón, es esencial que tu sitio web tenga una navegación clara y una estructura de carpetas y  URL´s útil.
 
 ### ¿Tienes una arquitectura de la información limpia?
+
 La arquitectura de la información es la práctica de organizar y etiquetar contenido en un sitio web para mejorar la eficiencia y la capacidad de búsqueda para los usuarios. La mejor arquitectura de información es intuitiva, lo que significa que los usuarios no deberían tener que pensar mucho para fluir a través de tu sitio web o para encontrar algo.
 
 ### ¿Estás utilizando sitemaps?
+
 Un "sitemap" o mapa del sitio, es exactamente lo que su propio nombre indica: una lista de URL´s de tu página web que los rastreadores pueden usar para descubrir e indexar tu contenido. Una de las maneras más fáciles de asegurarse de que Google encuentre tus páginas de mayor prioridad es crear un archivo que cumpla con los estándares de Google y enviarlo a través de la Consola de Búsqueda de Google. Si bien el envío de un "sitemap" no reemplaza la necesidad de una buena navegación del sitio, si puede ayudar a los rastreadores a seguir una ruta a todas las páginas importantes.
 
 ## Consejos importantes para posicionar tu negocio local
@@ -240,10 +322,12 @@ Si la empresa en cuestión, ya bien sea una tienda o un negocio que recurra a la
 A la hora de utilizar Google My Business se debe tener en cuenta que Google siga ciertas pautas, entre algunas de ellas:
 
 ### Principios básicos para mejorar tu posicionamiento local
+
 - Asegurarse de entrar en el índice de Google My Business y registrar tu dirección física -aunque sea la de tu propia casa- y siendo indiferente; de si los servicios se prestan en la propia localización indicada (ejemplo: el caso de una tienda) o en la propio casa del cliente (ejemplo: un cerrajero).
 - Refleja de manera apropiada y honesta la mayoría de datos posibles del negocio; calle, dirección, teléfono, sitio web, categoría del negocio, horas de apertura y cierre, etc.
 
 ### Posibles detalles a evitar a la hora de posicionar localmente
+
 - Rellenado erróneo de tus datos comerciales, incluyendo palabras claves geográficas o del servicio sin tener relación con el nombre de tu empresa.
 - Uso de oficinas de correos en vez de tu dirección auténtica.
 - Agregar falsos comentarios sobre tu negocio o falsos negativos sobre los negocios de tu competencia.

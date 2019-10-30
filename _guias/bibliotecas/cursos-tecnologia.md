@@ -44,10 +44,12 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas; 
 <p>En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada tecnología concreta.</p>
 </details>
 
-## 👨‍🏫 Meta-Listas
+## 🗃 Meta-Listas
 
 * [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/)
+* [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice){:target="_blank"} (Github)
 * [Cursos en Inglés]() (Hackr io)
+* [Miriadax](https://miriadax.net/cursos){:target="_blank"}
 
 ## 📁 Bases de Datos
 
@@ -232,9 +234,9 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas; 
 * [Bitcoin Construye un imperio minando en la nube](https://www.udemy.com/bitcoin-construye-un-imperio-minando-en-la-nube){:target="_blank"} (Udemy)
 
 ### Dash
-- [Dash en Python](https://unipython.com/curso-de-dash){:target="_blank"} (UniPython)
+* [Dash en Python](https://unipython.com/curso-de-dash){:target="_blank"} (UniPython)
 
-## Trading <i class="fas fa-chart-line"></i>
+### Trading <i class="fas fa-chart-line"></i>
 * [Curso básico de trading](https://www.udemy.com/wisetradingacademy){:target="_blank"} (Udemy)
 * [Curso de trading y bolsa desde cero](https://www.udemy.com/curso-de-trading-y-bolsa-desde-cero){:target="_blank"} (Udemy)
 * [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://www.udemy.com/curso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx){:target="_blank"} (Udemy)

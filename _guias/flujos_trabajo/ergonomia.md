@@ -23,10 +23,10 @@ Ey? Sí, estás leyendo lo que piensas. Quizás pienses que es un poco ridículo
 
 ## Cómo Sentarse
 
-Es altamente dañino sentarse por largos periodos de tiempo. Debes procurar me levantarte y tomar un "kit kat" cada 30 minutos (existen aplicaciones para esto, la famosa técnica "pomodoro" o simplemente utiliza una alarma) Sin embargo, ten en cuenta que incluso con los descansos, se sabe que los largos períodos de inactividad harán que tu cuerpo se sienta entumecido y tendrás que caminar o trotar un tiempo a lo largo del día para mantener un metabolismo saludable.
+Es altamente dañino sentarse por largos periodos de tiempo. Debes procurar me levantarte y tomar un "kit kat" cada 30 minutos (existen aplicaciones para esto, la famosa técnica "pomodoro" o simplemente utiliza una alarma).
+
+Sin embargo, ten en cuenta que incluso con los descansos, se sabe que los largos períodos de inactividad harán que tu cuerpo se sienta entumecido y tendrás que caminar o trotar un tiempo a lo largo del día para mantener un metabolismo saludable.
 
 Cuida tu postura de espalda y cuello; y ya sabes, lleva a la realidad los famosos consejos de ergonomía que casi todos conocemos, pero muy pocas personas aplicamos.
 
-## ¿En qué campo de la informática trabajar?
-
-Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, en la era tecnológica los campos disciplinarios existentes son tan múltiples como diferentes, dos de las temáticas principales y más buscadas que ofrecen puestos de trabajo en el mundo: son el tan citado "machine learning" o aprendizaje automático y el desarrollo móvil.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XlrsjEXKcKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

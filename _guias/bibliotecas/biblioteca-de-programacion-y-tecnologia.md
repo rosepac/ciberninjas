@@ -1,6 +1,6 @@
 ---
 # Página Base
-title: "📚 ▷ Más de 400 Libros PDF 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica"
+title: "📚 ▷ Más de 400 Libros PDF de Programación, Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica"
 description: "🚀 Biblioteca de PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Biblia de Libros PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 author_profile: true
@@ -22,7 +22,7 @@ toc_sticky: false
 
 ---
 
-## 📚 Meta-Listas
+## 🗃 Meta-Listas
 
 * [Aprender Python](https://kutt.it/meta-aprendiendo-python){:target="_blank"} - Python Argentina
 * [Apuntes Completos de Desarrollo Web](https://kutt.it/apuntes-desarrollo-web-jorge){:target="_blank"} - Jorge Sánchez
@@ -38,11 +38,11 @@ toc_sticky: false
 * [Universidad Autónoma de Mexico - Plan (2016)](https://kutt.it/apuntes-pdf-universidad-mexico){:target="_blank"}
 <!-- http://biblioweb.tic.unam.mx/ , https://www.julianmarquina.es/22-grandes-bibliotecas-digitales-en-espana-aunque-hay-muchas-mas/ http://portal.uned.es/portal/page?_pageid=93,511995&_dad=portal&_schema=PORTAL -->
 
-### 🧰 Repositorios de Herramientas
+### 🧰 Meta-Listas Herramientas
 
 * [Style Guides](http://styleguides.io){:target="_blank"} (+572 entre Artículos, Libros y Herramientas)
 
-## Cursos Masivos en Línea <i class="fas fa-user-graduate"></i>
+### 🌐 Cursos Masivos en Línea
 
 * [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice){:target="_blank"} (Github)
 * [Miriadax](https://miriadax.net/cursos){:target="_blank"}
@@ -93,11 +93,11 @@ toc_sticky: false
 
 ## ⛓ Blockchain
 
-## Cadena de Bloques <i class="fas fa-link"></i>
+## Cadena de Bloques 🔗
 
 * [Análisis y Comparación de Monedas Criptográficas Basadas en la Tecnología Blockchain (2016)](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/56344/8/mmedinareyTFM0616memoria.pdf){:target="_blank"}{:target="_blank"} (PDF)
 
-## Criptomonedas 
+## Criptomonedas 💰
 
 ### Bitcoin <i class="fab fa-bitcoin"></i>
 
@@ -114,9 +114,9 @@ toc_sticky: false
 * [Riesgos y beneficios de las criptomonedas en la Economía Global (2017)](http://munesen.org/wp-content/uploads/2016/02/BANCO-MUNDIAL.pdf){:target="_blank"}{:target="_blank"} (PDF)
 * [Tecnología Blockchain. Caso de estudio: el Bitcoin](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/04.pdf){:target="_blank"}{:target="_blank"} (PDF)
 
-### Ethereum 
+### Ethereum <i class="fab fa-ethereum"></i>
 
-## Ecosistema de Código Abierto
+## 🐧 Ecosistema de Código Abierto
 
 * [Aspectos económicos y modelos de negocio del software libre](http://www.seaceptanideas.com/wp-content/uploads/2016/07/Aspectos_Economicos_y_Modelos_de_Negocio_del_Software_Libre.pdf){:target="_blank"} (PDF)
 * [Aspectos legales de explotación del software libre. Parte I](http://softlibre.unizar.es/manuales/legal/908.pdf){:target="_blank"} (PDF)
@@ -145,7 +145,7 @@ toc_sticky: false
 * [Tostadores y Posix (1999)](https://www.ctr.unican.es/publications/mgh-cdl-1997a.pdf){:target="_blank"} (PDF)
 * [Trampa en el Cyberespacio](https://fortinux.com/wp-content/uploads/2010/12/trampacyberespacio.pdf){:target="_blank"} (PDF)
 
-## Metodologías de Desarrollo de Software
+## 👨‍🔧 Metodologías de Desarrollo
 
 * [Código Sólido](https://leanpub.com/codigosolido?){:target="_blank"} (Descarga PDF)
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf){:target="_blank"} (PDF)
@@ -168,12 +168,8 @@ toc_sticky: false
 
 ## Misceláneos
 
-* [Desarrollo de juegos en 2D usando Java y Microsoft XNA](https://openlibra.com/es/book/download/desarrollo-de-juegos-en-2d-usando-java-y-microsoft-xna){:target="_blank"}{:target="_blank"} (PDF  )
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html){:target="_blank"}{:target="_blank"} (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/){:target="_blank"}{:target="_blank"}
-* [Godot. Motor de Videojuegos - Documentación](https://media.readthedocs.org/pdf/godot-doc-en-espanol/latest/godot-doc-en-espanol.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf){:target="_blank"}{:target="_blank"} (PDF)
 * [Latino. Lenguaje de programación](https://github.com/primitivorm/latino/blob/master/README.md#qu%C3%A9-es-lenguaje-latino){:target="_blank"}{:target="_blank"} (HTML)
-* [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf){:target="_blank"}{:target="_blank"} (PDF)
 
 ## 👨‍🔧 Montaje & Mantenimiento
 
@@ -316,6 +312,11 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Programación en Android para principiantes](https://openlibra.com/es/book/download/curso-de-programacion-en-android-para-principiantes){:target="_blank"} (PDF)
 * [Seguridad en dispositivos Android](https://lsi.vc.ehu.eus/pablogn/investig/JornadasSeguridad141112.pdf){:target="_blank"} (PDF)
 
+## Docker <i class="fab fa-docker"></i>
+
+* [Docker](https://github.com/brunocascio/docker-espanol#docker){:target="_blank"} (Github)
+* [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf){:target="_blank"}{:target="_blank"} (PDF)
+
 ## ✍ Sistemas de Gestión de Contenidos y ERP
 
 ### Wordpress <i class="fab fa-wordpress"></i>
@@ -348,10 +349,6 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 ## Coffescript
 
 * [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript){:target="_blank"} - Javi Jiménez (Descarga PDF)
-
-### Docker <i class="fab fa-docker"></i>
-
-* [Docker](https://github.com/brunocascio/docker-espanol#docker){:target="_blank"} (Github)
 
 ## Emacs
 
@@ -621,6 +618,11 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Todo sobre LaTeX (2016)](http://minisconlatex.blogspot.com.es){:target="_blank"} (HTML)
 * [Una descripción de LaTeX2(1998)](http://www.profesores.frc.utn.edu.ar/electronica/teoriadeloscircuitosi/material/ldesc2e.pdf){:target="_blank"} (PDF)
 
+## 🎮 Programación de Videojuegos
+
+* [Desarrollo de juegos en 2D usando Java y Microsoft XNA](https://openlibra.com/es/book/download/desarrollo-de-juegos-en-2d-usando-java-y-microsoft-xna){:target="_blank"}{:target="_blank"} (PDF  )
+* [Godot. Motor de Videojuegos - Documentación](https://media.readthedocs.org/pdf/godot-doc-en-espanol/latest/godot-doc-en-espanol.pdf){:target="_blank"}{:target="_blank"} (PDF)
+* [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf){:target="_blank"}{:target="_blank"} (PDF)
 
 ## 👷‍♂️ Webmaster
 
