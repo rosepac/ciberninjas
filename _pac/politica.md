@@ -8,7 +8,7 @@ published: false
 permalink: /politica/
 canonical_URL: https://ciberninjas.com/politica/
 header:
-  teaser: 
+  teaser: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia
@@ -55,17 +55,18 @@ Aquí es donde interviene la ideología.
 
 ¿Por qué reducir automáticamente el racismo a un problema de tolerancia? He aquí como un problema real, la intolerancia, la intolerancia, la gente que se mata entre sí, se reducen a un problema cultural; y todo eso forma parte de esa ideología cultural[^1] de la que hablo.
 
-No tiene nada que ver con la tolerancia." 
-
-""
+No tiene nada que ver con la tolerancia."
 
 ## Libros & Artículos
 
-Slavoj Zizek. En Defensa de la Intolerancia 
+Slavoj Zizek. En Defensa de la Intolerancia
 [Marx sobre España: Contra el nacionalismo y los borbones, a favor de la revolución
 ](https://www.elconfidencial.com/cultura/2018-01-02/marx-espana-nacionalismo-revolucion_1498999/)
 
 [1] Esta idea viene a enlazarse con la idea de Gustavo Bueno. En tanto en cuanto él, le gusta diferenciar entre nación política o nación cultural. Esa cultura es a la que se reducen los problemas reales, en vez de dejarlos en la ¿"sección"? en la que deberían de estar para poder ser afrontados.
 
-http://mastor.cl/blog/wp-content/uploads/2017/05/ZIZEK-Slavo-Sobre-la-violencia.pdf
-Sobre la violencia seis reflexiones marginales
+Sobre la violencia seis reflexiones marginales: http://mastor.cl/blog/wp-content/uploads/2017/05/ZIZEK-Slavo-Sobre-la-violencia.pdf
+
+👉 [Política](https://ciberninjas.com/politica/)
+
+👉 [Lecturas](https://ciberninjas.com/lecturas/)
