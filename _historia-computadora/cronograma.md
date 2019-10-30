@@ -17,10 +17,8 @@ sidebar:
   nav: historia
 ---
 
-⏳ Línea de Tiempo ⏳
-
 <!-- [1950s 🕙](/historia-computadora/cronograma/#1950s- ""){: .btn .btn--success .btn--large} -->
-[1940s 🕙](/historia-computadora/cronograma/#1940s- ""){: .btn .btn--success .btn--large} [1930s 🕙](/historia-computadora/cronograma/#1930s- ""){: .btn .btn--success .btn--large}
+[1940s 🕗](/historia-computadora/cronograma/#1940s- "La Década de los 40"){: .btn .btn--success .btn--large} [1930s 🕕](/historia-computadora/cronograma/#1930s- "La Década de los 30"){: .btn .btn--success .btn--large}
 
 <!--
 ## 2010s 🕕
@@ -74,11 +72,11 @@ sidebar:
 
 ## 1940s 🕘
 
-## 💻 1948 - Se exhibe SSEC
+## 💻 1948 - Se exhibe la Calculadora SSEC
 
 <figure>
-    <a href="" class="image-popup" title=""><img src="" alt=""></a>
-    <figcaption> | Visto en Ciberninjas</figcaption>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1948.ssec.jpg" class="image-popup" title="Calculadora electrónica de secuencia selectiva de IBM (SSEC)"><img src="https://images.computerhistory.org/timeline/timeline_computers_1948.ssec.jpg" alt="Calculadora electrónica de secuencia selectiva de IBM (SSEC)"></a>
+    <figcaption>Calculadora electrónica de secuencia selectiva de IBM (SSEC) | Visto en Ciberninjas</figcaption>
 </figure>
 
 El proyecto de Calculadora Electrónica de Secuencia Selectiva (SSEC), dirigido por el ingeniero de IBM Wallace Eckert, utiliza relés y tubos de vacío para procesar datos científicos a una velocidad de 50 multiplicaciones de 14 x 14 dígitos por segundo. Antes de su desmantelamiento en 1952, el SSEC produjo las tablas de posición de la luna utilizadas en la planificación inicial del alunizaje del Apolo XII de 1969. Estas tablas se confirmaron luego utilizando computadoras más modernas para los vuelos reales. El SSEC fue una de las últimas de la generación de 'súper calculadoras' que se construyó utilizando tecnología electromecánica.
@@ -119,7 +117,7 @@ Norbert Wiener publica el libro Cybernetics , que tiene una gran influencia en l
 
 En la Universidad de Manchester, Freddie Williams y Tom Kilburn desarrollan el tubo Williams-Kilburn. El tubo, probado en 1947, fue la primera memoria completamente electrónica de alta velocidad. Usó un tubo de rayos catódicos (similar a un tubo de imagen de TV analógica) para almacenar bits como puntos en la superficie de la pantalla. Cada punto duró una fracción de segundo antes de desvanecerse, por lo que la información se actualizaba constantemente. La información fue leída por una placa de recogida de metal que detectaría un cambio en la carga eléctrica.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large}
 
 ## 💻 1946 - Presentación pública de ENIAC
 
