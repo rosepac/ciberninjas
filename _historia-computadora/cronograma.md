@@ -8,17 +8,19 @@ published: true
 permalink: /historia-computadora/cronograma/
 canonical_URL: https://www.computerhistory.org/timeline/
 classes: wide
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: false
 sidebar:
 - title: "Historia Computadora"
   nav: historia
 ---
 
-⏳ Línea de Tiempo
-
+⏳ Línea de Tiempo ⏳
+<!-- [1950 🕙](/historia-computadora/cronograma/#1950- ""){: .btn .btn--success .btn--large} -->
+[1940 🕙](/historia-computadora/cronograma/#1940- ""){: .btn .btn--success .btn--large} [1930 🕙](/historia-computadora/cronograma/#1930- ""){: .btn .btn--success .btn--large}
+<!--
 ## 2010s 🕕
 
 👇 👷‍♂️ **EN CONSTRUCCIÓN** 🚧 👇
@@ -26,74 +28,76 @@ sidebar:
 ## 2000s 🕑
 
 <figure>
-    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 1990s 🕓
 
 <figure>
-    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 1980 🕔
 
 <figure>
-    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 1970 🕕
 
 <figure>
-    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 1960 🕖
 
 <figure>
-    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 1950s 🕗
 
 <figure>
-    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ☝ 👷‍♂️ **EN CONSTRUCCIÓN** 🚧 ☝
-
+-->
 ## 1940s 🕘
 
 ## 💻 1948 - 
 
 <figure>
-    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 💻 1948 - 
 
 <figure>
-    <a href="" class="image-popup"><img src="" alt="" title=""></a>
+    <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 👩‍💻 1948 - 
 
 <figure>
-    <a href="" class="image-popup"><img src="" alt="" title=""></a>
-    <figcaption> | Visto en Ciberninjas</figcaption>
+    <a href="https://images.computerhistory.org/timeline/timeline_sw.languages_1948.shannon.jpg" title="Claude Shannon, en una imagen de archivo" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_sw.languages_1948.shannon.jpg" alt="Claude Shannon, en una imagen de archivo"></a>
+    <figcaption>Claude Shannon, en una imagen de archivo | Visto en Ciberninjas</figcaption>
 </figure>
+
+El matemático estadounidense Claude Shannon escribe "La teoría matemática de la comunicación", sentando las bases para comprender los límites teóricos de la comunicación entre personas y máquinas. Como parte de este trabajo, Shannon identificó el bit como una unidad fundamental de información y, por coincidencia, la unidad básica de cálculo.
 
 ## 🤖 1948 - Cibérnetica
 
 <figure>
-    <a href="https://www.computerhistory.org/timeline/ai-robotics/#169ebbe2ad45559efbc6eb35720a1690" class="image-popup"><img src="https://www.computerhistory.org/timeline/ai-robotics/#169ebbe2ad45559efbc6eb35720a1690" alt="Norbert Wiener, publica el libro Cibérnetica" title="Norbert Wiener, publica el libro Cibérnetica"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_ai.robotics_1948_cybernetics.jpg" title="Norbert Wiener, publica el libro Cibérnetica" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_ai.robotics_1948_cybernetics.jpg" alt="Norbert Wiener, publica el libro Cibérnetica"></a>
     <figcaption>Norbert Wiener, publica el libro Cibérnetica | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -102,23 +106,25 @@ Norbert Wiener publica el libro Cybernetics , que tiene una gran influencia en l
 ## 🧠 1947 - Crean el tubo Manchester Mark I Williams-Kilburn
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_memorystorage_1947.williamskilburntube.jpg" title="-Tubo Manchester Mark I Williams-Kilburn" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_memorystorage_1947.williamskilburntube.jpg" alt="Tubo Manchester Mark I Williams-Kilburn" title="-Tubo Manchester Mark I Williams-Kilburn"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_memorystorage_1947.williamskilburntube.jpg" title="Tubo Manchester Mark I Williams-Kilburn" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_memorystorage_1947.williamskilburntube.jpg" alt="Tubo Manchester Mark I Williams-Kilburn"></a>
     <figcaption>Tubo Manchester Mark I Williams-Kilburn | Visto en Ciberninjas</figcaption>
 </figure>
 
 En la Universidad de Manchester, Freddie Williams y Tom Kilburn desarrollan el tubo Williams-Kilburn. El tubo, probado en 1947, fue la primera memoria completamente electrónica de alta velocidad. Usó un tubo de rayos catódicos (similar a un tubo de imagen de TV analógica) para almacenar bits como puntos en la superficie de la pantalla. Cada punto duró una fracción de segundo antes de desvanecerse, por lo que la información se actualizaba constantemente. La información fue leída por una placa de recogida de metal que detectaría un cambio en la carga eléctrica.
 
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+
 ## 💻 1946 - Presentación pública de ENIAC
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1946.eniac.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1946.eniac.jpg" alt="El ordenador ENIAC en una imagen de archivo"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1946.eniac.jpg" title="El ordenador ENIAC en una imagen de archivo" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1946.eniac.jpg" alt="El ordenador ENIAC en una imagen de archivo"></a>
     <figcaption>El ordenador ENIAC en una imagen de archivo | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 💻 1946 - Comienza el Proyecto Whirlwind
 
 <figure>
-    <a href="https://www.computerhistory.org/timeline/computers/#169ebbe2ad45559efbc6eb35720dd5ad" class="image-popup"><img src="https://www.computerhistory.org/timeline/computers/#169ebbe2ad45559efbc6eb35720dd5ad" alt="Instalación de torbellino en el MIT"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1943.whirlwind.jpg" title="Instalación de torbellino en el MIT" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1943.whirlwind.jpg" alt="Instalación de torbellino en el MIT"></a>
     <figcaption>Instalación de torbellino en el MIT | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -127,8 +133,8 @@ Durante la Segunda Guerra Mundial, la Marina de los EE. UU. Se acerca al Institu
 ## 💻 1946 - Conferencias de la escuela Moore
 
 <figure>
-    <a href="" class="image-popup"><img src="" alt=""></a>
-    <figcaption> | Visto en Ciberninjas</figcaption>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1946.mooreschool.jpg" title="El edificio de la escuela Moore en la Universidad de Pennsylvania" title="El edificio de la escuela Moore en la Universidad de Pennsylvania" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1946.mooreschool.jpg" alt="El edificio de la escuela Moore en la Universidad de Pennsylvania"></a>
+    <figcaption>El edificio de la escuela Moore en la Universidad de Pennsylvania | Visto en Ciberninjas</figcaption>
 </figure>
 
 Se crea la escuela de verano inspirada en informática en la Escuela de Ingeniería Eléctrica Moore de la Universidad de Pensilvania que estimula la construcción de computadoras con programas almacenados en universidades e instituciones de investigación en los Estados Unidos, Francia, el Reino Unido y Alemania. Entre los conferenciantes se encontraban los primeros diseñadores de computadoras como John von Neumann, Howard Aiken, J. Presper Eckert y John Mauchly, así como matemáticos como Derrick Lehmer, George Stibitz y Douglas Hartree. Los estudiantes incluyeron futuros pioneros en computación como Maurice Wilkes, Claude Shannon, David Rees y Jay Forrester. Este conjunto público y gratuito de conferencias inspiró a los clones de máquinas EDSAC, BINAC y, más tarde, IAS como AVIDAC.
@@ -136,16 +142,18 @@ Se crea la escuela de verano inspirada en informática en la Escuela de Ingenier
 ## 👨‍❤️‍💋‍👨 1946 - Se publica una lógica llamada Joe
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_popularculture_1946.logicnamedjoe.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_popularculture_1946.logicnamedjoe.jpg" alt="Portada de marzo de 1949: Ciencia ficción asombrosa"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_popularculture_1946.logicnamedjoe.jpg" title="Portada de marzo de 1949: Ciencia ficción asombrosa" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_popularculture_1946.logicnamedjoe.jpg" alt="Portada de marzo de 1949: Ciencia ficción asombrosa"></a>
     <figcaption>Portada de marzo de 1949: Ciencia ficción asombrosa | Visto en Ciberninjas</figcaption>
 </figure>
 
 Bajo una serie de seudónimos, la ciencia ficción de Will F. Jenkins había aparecido regularmente desde la década de 1920. En la edición de marzo de 1946 de Astounding Science Fiction , Jenkins publica A Logic Named Joe , una historia corta que detalla un mundo donde las computadoras, llamadas Lógicas, estaban interconectadas en una red mundial masiva. Una de estas lógicas comienza a funcionar mal, dando información secreta sobre temas no permitidos. Casi cincuenta años antes de la invención de Internet, A Logic Named Joe contiene una de las opiniones más proféticas sobre las capacidades de las computadoras en una red.
 
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+
 ## 💻 1945 - John von Neumann escribe el primer borrador de un informe sobre el EDVAC
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1945.vonneumann.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1945.vonneumann.jpg" alt="John von Neumann, en una imagen de archivo"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1945.vonneumann.jpg" title="John von Neumann, en una imagen de archivo" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1945.vonneumann.jpg" alt="John von Neumann, en una imagen de archivo"></a>
     <figcaption>John von Neumann, en una imagen de archivo | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -154,7 +162,7 @@ En un artículo ampliamente difundido, el matemático John von Neumann describe 
 ## 👩‍💻 1945 - Plankalkül (Cálculo del Plan)
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_sw.languages_1945.zuse.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_sw.languages_1945.zuse.jpg" alt="Konrad Zuse, en una imagen de archivo"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_sw.languages_1945.zuse.jpg" titlealt="Konrad Zuse, en una imagen de archivo" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_sw.languages_1945.zuse.jpg" alt="Konrad Zuse, en una imagen de archivo"></a>
     <figcaption>Konrad Zuse, en una imagen de archivo | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -163,7 +171,7 @@ Konrad Zuse comienza a trabajar en Plankalkül (Plan Calculus), el primer lengua
 ## 📞 1945 - Concepto "Memex"
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_networking.web_1945_memex.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_networking.web_1945_memex.jpg" alt="Pantallas de microfilm en la parte superior del escritorio Memex"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_networking.web_1945_memex.jpg" title="Pantallas de microfilm en la parte superior del escritorio Memex" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_networking.web_1945_memex.jpg" alt="Pantallas de microfilm en la parte superior del escritorio Memex"></a>
     <figcaption>Pantallas de microfilm en la parte superior del escritorio Memex | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -172,7 +180,7 @@ Con pantallas de lado a lado, el escritorio imaginario de Memex está destinado 
 ## 👨‍❤️‍💋‍👨 1945 - Primer caso de ERROR real encontrado
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_popularculture_1945.hopper.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_popularculture_1945.hopper.jpg" alt="Grace Hopper hablando en el Museo de la Computación en Boston"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_popularculture_1945.hopper.jpg" title="Grace Hopper hablando en el Museo de la Computación en Boston" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_popularculture_1945.hopper.jpg" alt="Grace Hopper hablando en el Museo de la Computación en Boston"></a>
     <figcaption>Grace Hopper hablando en el Museo de la Computación en Boston | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -180,10 +188,12 @@ La palabra 'error', cuando se aplica a las computadoras, significa alguna forma 
 
 Hopper ayudó a programar el Mark II y la computadora anterior Harvard Mark I, mientras trabajaba para el profesor Howard Aiken. Trabajó incansablemente en desarrollar estas computadoras al máximo a través de una programación ingeniosa. Después de Harvard, trabajó para el fabricante de computadoras Remington-Rand, donde desarrolló lo que a menudo se considera el primer compilador, A-0. También formó parte del comité para desarrollar COBOL, un lenguaje de programación estándar y ampliamente adoptado que transformó la forma en que se desarrolló el software para aplicaciones comerciales. COBOL todavía está en uso hoy. Hopper fue nombrado miembro del Museo de Historia de la Computación en 1987.
 
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+
 ## 💻 1944 - Primer coloso operativo en Bletchley Park
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1944.colossus.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1944.colossus.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1944.colossus.jpg" title="El coloso en el trabajo en Bletchley Park" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1944.colossus.jpg" alt="El coloso en el trabajo en Bletchley Park"></a>
     <figcaption>El coloso en el trabajo en Bletchley Park | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -194,23 +204,27 @@ Coloso redujo el tiempo para romper los mensajes de Lorenz de semanas a horas. L
 ## 💻 1944 - Harvard Mark 1 se completa
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1944.harvardmarkI.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1944.harvardmarkI.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1944.harvardmarkI.jpg" title="Harvard Mark 1 se completa" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1944.harvardmarkI.jpg" alt="Harvard Mark 1 se completa"></a>
     <figcaption>Harvard Mark 1 se completa | Visto en Ciberninjas</figcaption>
 </figure>
 
 Concebido por el profesor de física de Harvard Howard Aiken, y diseñado y construido por IBM, el Harvard Mark 1 es una calculadora basada en relés del tamaño de una habitación. La máquina tenía un árbol de levas de cincuenta pies de largo que corría a lo largo de la máquina que sincronizaba los miles de componentes de la máquina y usaba 3.500 relés. El Mark 1 produjo tablas matemáticas, pero pronto fue reemplazado por computadoras electrónicas de programas almacenados.
 
-## 🤖 1943 - _Un cálculo lógico de las ideas inmanentes en la actividad nerviosa_
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+
+## 🤖 1943 - * Un cálculo lógico de las ideas inmanentes en la actividad nerviosa *
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_ai.robotics_1943.pitts.nervous.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_ai.robotics_1943.pitts.nervous.jpg"></a>
-    <figcaption>Walter Pitts | Visto en Ciberninjas</figcaption>
+    <a href="https://images.computerhistory.org/timeline/timeline_ai.robotics_1943.pitts.nervous.jpg" title="Walter Pitts, en una imagen de archivo" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_ai.robotics_1943.pitts.nervous.jpg" alt="Walter Pitts, en una imagen de archivo"></a>
+    <figcaption>Walter Pitts, en una imagen de archivo | Visto en Ciberninjas</figcaption>
 </figure>
+
+Dos científicos, Warren S. McCulloch y Walter H. Pitts, publican el innovador artículo Un cálculo lógico de las ideas inmanentes en la actividad nerviosa . El documento se convirtió rápidamente en un trabajo fundamental en el estudio de redes neuronales artificiales y tiene muchas aplicaciones en la investigación de inteligencia artificial. En él, McCulloch y Pitts describieron una arquitectura de red neuronal simplificada para la inteligencia, y aunque las neuronas que describieron se simplificaron mucho en comparación con las neuronas biológicas, el modelo que propusieron fue mejorado y mejorado por las generaciones posteriores de investigadores.
 
 ## 💻 1943 - Se completa el interpolador de relés de Bell Labs
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1943.stibitz.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1943.stibitz.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1943.stibitz.jpg" title="George Stibitz circa 1940" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1943.stibitz.jpg" alt="George Stibitz circa 1940"></a>
     <figcaption>George Stibitz circa 1940 | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -219,16 +233,18 @@ El ejército de los Estados Unidos le pidió a Bell Laboratories que diseñara u
 ## 💻 1943 - Curt Herzstark diseña la calculadora Curta
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1943.curta.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1943.curta.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1943.curta.jpg" title="Calculadora Curta Modelo 1" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1943.curta.jpg" alt="Calculadora Curta Modelo 1"></a>
     <figcaption>Calculadora Curta Modelo 1 | Visto en Ciberninjas</figcaption>
 </figure>
 
 Curt Herzstark era un ingeniero austriaco que trabajó en el negocio de fabricación de su familia hasta que fue arrestado por los nazis en 1943. Mientras estaba encarcelado en el campo de concentración de Buchenwald por el resto de la Segunda Guerra Mundial, refina su diseño de una calculadora antes de la guerra que presentaba una calculadora modificada versión del diseño de "tambor escalonado" de Leibniz. Después de la guerra, la Curta de Herzstark hizo historia como la calculadora de cuatro funciones y mecánica más pequeña
 
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+
 ## 💻 1942 - Se completa la computadora Atanasoff-Berry (ABC)
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1942.abc.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1942.abc.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1942.abc.jpg" title="La computadora Atanasoff-Berry" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1942.abc.jpg" alt="La computadora Atanasoff-Berry"></a>
     <figcaption>La computadora Atanasoff-Berry | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -236,10 +252,12 @@ Después de demostrar con éxito un prototipo de prueba de concepto en 1939, el 
 
 El resultado legal fue un hito: Atanasoff fue declarado el creador de varias ideas básicas de computadora, pero la computadora como concepto fue declarada no patentable y, por lo tanto, abierta a todos. Una réplica de trabajo a gran escala del ABC se completó en 1997, lo que demuestra que la máquina ABC funcionaba como Atanasoff había afirmado. La réplica se encuentra actualmente en exhibición en el Computer History Museum.
 
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+
 ## 💻 1941 - Konrad Zuse termina la computadora Z3
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1941.zusez3.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1941.zusez3.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1941.zusez3.jpg" title="La computadora Zuse Z3" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1941.zusez3.jpg" alt="La computadora Zuse Z3"></a>
     <figcaption>La computadora Zuse Z3 | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -248,7 +266,7 @@ El Z3, una de las primeras computadoras construidas por el ingeniero alemán Kon
 ## 🤖 1941 - Las tres leyes de la robótica
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_ai.robotics_1941_liar.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_ai.robotics_1941_liar.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_ai.robotics_1941_liar.jpg" title="Número de mayo de 1941 de **Astounding Science Fiction**" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_ai.robotics_1941_liar.jpg" alt="Número de mayo de 1941 de **Astounding Science Fiction**"></a>
     <figcaption>Número de mayo de 1941 de **Astounding Science Fiction** | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -263,45 +281,53 @@ Se cree que este es el primer uso conocido del término "robótica".
 ## 💻 1941 - Se completa el primer Bombe
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1941.bombe.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1941.bombe.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1941.bombe.jpg" title="Bombe replica, Bletchley Park, Reino Unido" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1941.bombe.jpg" alt="Bombe replica, Bletchley Park, Reino Unido"></a>
     <figcaption>Bombe replica, Bletchley Park, Reino Unido | Visto en Ciberninjas</figcaption>
 </figure>
 
 Construido como un medio electromecánico para descifrar las comunicaciones militares nazis basadas en ENIGMA durante la Segunda Guerra Mundial, el Bombe británico está concebido por el pionero informático Alan Turing y Harold Keen de la British Tabulating Machine Company. Se construyeron cientos de bombas aliadas para determinar las posiciones diarias de arranque del rotor de las máquinas de cifrado Enigma, lo que a su vez permitió a los Aliados descifrar mensajes alemanes. La idea básica de las bombas surgió de la "Bomba" de 1938 de Marian Rejewski, que rompió el código.
 
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+
 ## 💻 1940 - La Calculadora de Números Complejos (CNC) es completada
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1940.cnc.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1940.cnc.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1940.cnc.jpg" title="Operadora en Calculadora de números complejos (CNC)" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1940.cnc.jpg" alt="Operadora en Calculadora de números complejos (CNC)"></a>
     <figcaption>Operadora en Calculadora de números complejos (CNC) | Visto en Ciberninjas</figcaption>
 </figure>
 
 En 1939, Bell Telephone Laboratories completa esta calculadora, diseñada por el científico George Stibitz. En 1940, Stibitz demostró el CNC en una conferencia de la American Mathematical Society celebrada en el Dartmouth College. Stibitz sorprendió al grupo al realizar cálculos de forma remota en el CNC (ubicado en la ciudad de Nueva York) utilizando un terminal Teletype conectado a Nueva York a través de líneas telefónicas especiales. Este es probablemente el primer ejemplo de computación de acceso remoto.
+
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
 
 ## 1930 🕙
 
 ## 🤖 1939 - Elektro en la Feria Mundial
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_ai.robotics_1939_elektro.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_ai.robotics_1939_elektro.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_ai.robotics_1939_elektro.jpg" title="Elektro y Sparko en la Feria Mundial de 1939" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_ai.robotics_1939_elektro.jpg" alt="Elektro y Sparko en la Feria Mundial de 1939"></a>
     <figcaption>Elektro y Sparko en la Feria Mundial de 1939 | Visto en Ciberninjas</figcaption>
 </figure>
 
 Construido por Westinghouse, el robot Elektro basado en relés responde al ritmo de los comandos de voz y ofrece bromas pregrabadas en registros de 78 rpm. Apareció en la Feria Mundial, y podía mover la cabeza y los brazos ... e incluso los cigarrillos "ahumados".
 
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+
 ## 💻 1937 - El científico de Bell Laboratories, George Stibitz, utiliza relés para un crear un sumador de demostración
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_computers_1937.modelk.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1937.modelk.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1937.modelk.jpg" title="Sumador "Modelo K"" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1937.modelk.jpg" alt="Sumador "Modelo K""></a>
     <figcaption>Sumador "Modelo K" | Visto en Ciberninjas</figcaption>
 </figure>
 
 Llamado el sumador "Modelo K" porque lo construyó en su mesa "Cocina", este simple circuito de demostración proporciona una prueba de concepto para aplicar la lógica booleana al diseño de las computadoras, lo que resulta en la construcción de la calculadora compleja modelo I basada en relés en 1939 Ese mismo año en Alemania, el ingeniero Konrad Zuse construyó su computadora Z2, también utilizando relés de la compañía telefónica.
 
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+
 ## 📞 1934 - Cerebros del Mundo
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_networking.web_1934_worldbrain.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_networking.web_1934_worldbrain.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_networking.web_1934_worldbrain.jpg" title="Maqueta de una Mondothèque o estación de trabajo multimedia doméstica para conectarse a una biblioteca universal" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_networking.web_1934_worldbrain.jpg" alt="Maqueta de una Mondothèque o estación de trabajo multimedia doméstica para conectarse a una biblioteca universal"></a>
     <figcaption>Maqueta de una "Mondothèque" o estación de trabajo multimedia doméstica para conectarse a una biblioteca universal | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -309,10 +335,12 @@ El belga Paul Otlet tiene un objetivo modesto: recopilar, organizar y compartir 
 
 En la década de 1930, el escritor británico HG Wells y el científico estadounidense Vannevar Bush están avanzando objetivos similares: Wells con sus escritos de "Cerebro mundial" y Bush con el Memex, una especie de navegador web basado en microfilmes. Estos enfoques para organizar la información difieren. Pero todos comparten características clave de la Web actual, incluidas las referencias cruzadas automatizadas, que llamamos hipervínculos.
 
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+
 ## 📞 1933 - La red de mensajería Telex entra en línea
 
 <figure>
-    <a href="https://images.computerhistory.org/timeline/timeline_networking.web_1933_telex.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_networking.web_1933_telex.jpg"></a>
+    <a href="https://images.computerhistory.org/timeline/timeline_networking.web_1933_telex.jpg" title="Los estadounidenses que usan teleimpresores, en la Segunda Guerra Mundial" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_networking.web_1933_telex.jpg" alt="Los estadounidenses que usan teleimpresores, en la Segunda Guerra Mundial"></a>
     <figcaption>Los estadounidenses que usan teleimpresores, en la Segunda Guerra Mundial | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -320,13 +348,17 @@ Al igual que el Volkswagen Beetle y los modernos sistemas de autopistas, la red 
 
 Telex utiliza teleimpresoras, que datan de la década de 1910 para su uso en telegrafía. Pero en lugar de utilizar costosas líneas telegráficas dedicadas, el sistema télex conecta esas teleimpresoras entre sí a través de líneas telefónicas de voz, enrutadas por interruptores telefónicos modificados. Las versiones inalámbricas de Telex pronto conectan regiones remotas del mundo en desarrollo.
 
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large .align-center}
+
 ## Simbología 🗺
 
-Los iconos usados a lo largo de la línea de tiempo, poseen una [simbología](/glosario/simbologia) enfocada a indicar la temática relacionada a la acción histórica descrita. Las asociaciones entre iconos y temática reflejadas son las siguientes:
+Los iconos usados a lo largo de la línea de tiempo, poseen una [simbología](/glosario/simbologia) enfocada a indicar la temática relacionada a la acción histórica descrita.
 
-* 💻 Notas históricas relacionadas al ámbito de la evolución de los ordenadores.
-* 📞 Notas históricas relacionadas al campo de las comunicaciones, tanto de la historia de la creación de las líneas de teléfono como de la historia de la creación de la red de Internet.
-* 🤖 Notas históricas en relación al ámbito de los principios de la robótica, que a largo plazo se junta alrededor del ámbito de la inteligencia artificial.
+Las asociaciones entre iconos y las notas históricas relacionadas a esté; están indicados a continuación, las temáticas que nos podemos encontrar son las siguientes:
+
+* 💻 Creación y Evolución de los ordenadores.
+* 📞 Campo de las comunicaciones, tanto de la historia de la creación de las líneas de teléfono como de la historia de la creación de la red de Internet.
+* 🤖 Principios de la robótica, que a largo plazo se junta alrededor del ámbito de la inteligencia artificial.
 * 🕹 Gráficos & Videojuegos
 * 🧠 Memoria & Almacenamiento
 * 👨‍❤️‍💋‍👨 Cultura Popular
