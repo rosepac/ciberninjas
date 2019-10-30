@@ -1,5 +1,5 @@
 ---
-title: '🎨 Genera tus Mejores Diseños con Estas Librerías Front-End Impresionantes'
+title: '🎨 Librerías de Javascript para Front End de Generación de Animaciones, Gráficas y Modificación de Tipografías'
 description: '👨‍🎨 Las mejores librerías Js que podrás aprovechar para dar el mejor aspecto a todos tus proyectos volviéndolos mucho más espectaculares.' 
 excerpt: '👨‍🎨 Las mejores librerías Js que podrás aprovechar para dar el mejor aspecto a todos tus proyectos volviéndolos mucho más espectaculares.' 
 published: true
@@ -7,7 +7,7 @@ author_profile: true
 author: true
 comments: true
 date: 2019-01-27 07:01:02
-last_modified_at: 2019-10-27
+last_modified_at: 2019-10-30
 tags:
   - 3D
   - Animación
