@@ -117,7 +117,7 @@ Norbert Wiener publica el libro Cybernetics , que tiene una gran influencia en l
 
 En la Universidad de Manchester, Freddie Williams y Tom Kilburn desarrollan el tubo Williams-Kilburn. El tubo, probado en 1947, fue la primera memoria completamente electrónica de alta velocidad. Usó un tubo de rayos catódicos (similar a un tubo de imagen de TV analógica) para almacenar bits como puntos en la superficie de la pantalla. Cada punto duró una fracción de segundo antes de desvanecerse, por lo que la información se actualizaba constantemente. La información fue leída por una placa de recogida de metal que detectaría un cambio en la carga eléctrica.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large}
+[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--succes .btn--large   }
 
 ## 💻 1946 - Presentación pública de ENIAC
 
