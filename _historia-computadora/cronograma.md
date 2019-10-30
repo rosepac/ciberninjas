@@ -7,6 +7,7 @@ date: 2018-09-11
 published: true
 permalink: /historia-computadora/cronograma/
 canonical_URL: https://www.computerhistory.org/timeline/
+classes: wide
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -31,7 +32,7 @@ sidebar:
 👷‍♂️ **EN CONSTRUCCIÓN** 🚧
 
 <figure>
-    <a href="" class="image-popup"><img src=""></a>
+    <a href="" class="image-popup"><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -40,7 +41,7 @@ sidebar:
 👷‍♂️ **EN CONSTRUCCIÓN** 🚧
 
 <figure>
-    <a href="" class="image-popup"><img src=""></a>
+    <a href="" class="image-popup"><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -49,7 +50,7 @@ sidebar:
 👷‍♂️ **EN CONSTRUCCIÓN** 🚧
 
 <figure>
-    <a href="" class="image-popup"><img src=""></a>
+    <a href="" class="image-popup"><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -58,7 +59,7 @@ sidebar:
 👷‍♂️ **EN CONSTRUCCIÓN** 🚧
 
 <figure>
-    <a href="" class="image-popup"><img src=""></a>
+    <a href="" class="image-popup"><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
@@ -67,18 +68,79 @@ sidebar:
 👷‍♂️ **EN CONSTRUCCIÓN** 🚧
 
 <figure>
-    <a href="" class="image-popup"><img src=""></a>
+    <a href="" class="image-popup"><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
 
 ## 1940s 🕘
 
-👷‍♂️ **EN CONSTRUCCIÓN** 🚧
+### 💻 1946 - 
 
 <figure>
-    <a href="" class="image-popup"><img src=""></a>
+    <a href="" class="image-popup"><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
+
+### 💻 1946 - 
+
+<figure>
+    <a href="" class="image-popup"><img src="" alt=""></a>
+    <figcaption> | Visto en Ciberninjas</figcaption>
+</figure>
+
+### 💻 1946 - 
+
+<figure>
+    <a href="" class="image-popup"><img src="" alt=""></a>
+    <figcaption> | Visto en Ciberninjas</figcaption>
+</figure>
+
+### 👨‍❤️‍💋‍👨 1946 - 
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_popularculture_1946.logicnamedjoe.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_popularculture_1946.logicnamedjoe.jpg" alt="Portada de marzo de 1949: Ciencia ficción asombrosa"></a>
+    <figcaption>Portada de marzo de 1949: Ciencia ficción asombrosa | Visto en Ciberninjas</figcaption>
+</figure>
+
+Bajo una serie de seudónimos, la ciencia ficción de Will F. Jenkins había aparecido regularmente desde la década de 1920. En la edición de marzo de 1946 de Astounding Science Fiction , Jenkins publica A Logic Named Joe , una historia corta que detalla un mundo donde las computadoras, llamadas Lógicas, estaban interconectadas en una red mundial masiva. Una de estas lógicas comienza a funcionar mal, dando información secreta sobre temas no permitidos. Casi cincuenta años antes de la invención de Internet, A Logic Named Joe contiene una de las opiniones más proféticas sobre las capacidades de las computadoras en una red.
+
+### 💻 1945 - John von Neumann escribe el primer borrador de un informe sobre el EDVAC
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1945.vonneumann.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_computers_1945.vonneumann.jpg" alt="John von Neumann, en una imagen de archivo"></a>
+    <figcaption>John von Neumann, en una imagen de archivo | Visto en Ciberninjas</figcaption>
+</figure>
+
+En un artículo ampliamente difundido, el matemático John von Neumann describe la arquitectura de una computadora con un programa almacenado, incluyendo el almacenamiento electrónico de la información y los datos de programación, lo que elimina la necesidad de métodos de programación más torpes, como los tableros de conexión, las tarjetas perforadas y el papel. Von Neumann, nacido en Hungría, poseía una prodigiosa experiencia en hidrodinámica, balística, meteorología, teoría de juegos, estadística y el uso de dispositivos mecánicos para la computación. Después de la guerra, se concentró en el desarrollo de la computadora del Instituto de Estudios Avanzados de Princeton.
+
+### 👩‍💻 1945 - Plankalkül (Cálculo del Plan)
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_sw.languages_1945.zuse.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_sw.languages_1945.zuse.jpg" alt="Konrad Zuse, en una imagen de archivo"></a>
+    <figcaption>Konrad Zuse, en una imagen de archivo | Visto en Ciberninjas</figcaption>
+</figure>
+
+Konrad Zuse comienza a trabajar en Plankalkül (Plan Calculus), el primer lenguaje de programación algorítmico, con el objetivo de crear las condiciones previas teóricas para la solución de problemas generales. Siete años antes, Zuse había desarrollado y construido la primera computadora digital binaria del mundo, la Z1. Completó la primera computadora digital electromecánica controlada por programa totalmente funcional, la Z3, en 1941. Solo la Z4, la más sofisticada de sus creaciones, sobrevivió a la Segunda Guerra Mundial.
+
+### 📞 1945 - Concepto "Memex"
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_networking.web_1945_memex.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_networking.web_1945_memex.jpg" alt="Pantallas de microfilm en la parte superior del escritorio Memex"></a>
+    <figcaption>Pantallas de microfilm en la parte superior del escritorio Memex | Visto en Ciberninjas</figcaption>
+</figure>
+
+Con pantallas de lado a lado, el escritorio imaginario de Memex está destinado a permitir que un usuario compare y cree enlaces entre documentos de microfilm, algo así como los enlaces web y marcadores de hoy en los que se puede hacer clic. La idea es que las personas construyan continuamente sobre los caminos asociativos de los demás a través del conocimiento del mundo, ayudando a abordar el problema creciente de la sobrecarga de información. El Memex es una creación del científico estadounidense Vannevar Bush, un pionero de la computación analógica que ayudó a supervisar el desarrollo de la bomba atómica. El mecanismo básico que sugiere es un selector automático de microfilm similar a los construidos por el pionero de la óptica Emmanuel Goldberg a principios de la década de 1930. Bush publica el concepto Memex en artículos de 1945 en The Atlantic Monthly y Life .
+
+### 👨‍❤️‍💋‍👨 1945 - Primer caso real de ERROR encontrado
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_popularculture_1945.hopper.jpg" class="image-popup"><img src="https://images.computerhistory.org/timeline/timeline_popularculture_1945.hopper.jpg" alt="Grace Hopper hablando en el Museo de la Computación en Boston"></a>
+    <figcaption>Grace Hopper hablando en el Museo de la Computación en Boston | Visto en Ciberninjas</figcaption>
+</figure>
+
+La palabra 'error', cuando se aplica a las computadoras, significa alguna forma de error o falla. El 9 de septiembre, Grace Hopper registra lo que en broma llamó el primer error informático real, en este caso, una polilla atrapada entre los contactos de retransmisión de la computadora Harvard Mark II.
+
+Hopper ayudó a programar el Mark II y la computadora anterior Harvard Mark I, mientras trabajaba para el profesor Howard Aiken. Trabajó incansablemente en desarrollar estas computadoras al máximo a través de una programación ingeniosa. Después de Harvard, trabajó para el fabricante de computadoras Remington-Rand, donde desarrolló lo que a menudo se considera el primer compilador, A-0. También formó parte del comité para desarrollar COBOL, un lenguaje de programación estándar y ampliamente adoptado que transformó la forma en que se desarrolló el software para aplicaciones comerciales. COBOL todavía está en uso hoy. Hopper fue nombrado miembro del Museo de Historia de la Computación en 1987.
 
 ### 💻 1944 - Primer coloso operativo en Bletchley Park
 
@@ -224,13 +286,13 @@ Telex utiliza teleimpresoras, que datan de la década de 1910 para su uso en tel
 
 Los iconos usados a lo largo de la línea de tiempo, poseen una [simbología](/glosario/simbologia) enfocada a indicar la temática relacionada a la acción histórica descrita. Las asociaciones entre iconos y temática reflejadas son las siguientes:
 
-💻 Notas históricas relacionadas al ámbito de la evolución de los ordenadores.
-📞 Notas históricas relacionadas al campo de las comunicaciones, tanto de la historia de la creación de las líneas de teléfono como de la historia de la creación de la red de Internet.
-🤖 Notas históricas en relación al ámbito de los principios de la robótica, que a largo plazo se junta alrededor del ámbito de la inteligencia artificial.
-🕹 Gráficos & Videojuegos
-🧠 Memoria & Almacenamiento
-👨‍❤️‍💋‍👨 Cultura Popular
-Software & Lenguajes de Programación
+* 💻 Notas históricas relacionadas al ámbito de la evolución de los ordenadores.
+* 📞 Notas históricas relacionadas al campo de las comunicaciones, tanto de la historia de la creación de las líneas de teléfono como de la historia de la creación de la red de Internet.
+* 🤖 Notas históricas en relación al ámbito de los principios de la robótica, que a largo plazo se junta alrededor del ámbito de la inteligencia artificial.
+* 🕹 Gráficos & Videojuegos
+* 🧠 Memoria & Almacenamiento
+* 👨‍❤️‍💋‍👨 Cultura Popular
+* 👩‍💻 Software & Lenguajes de Programación
 
 **Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") línea de tiempo [original en inglés](https://www.computerhistory.org/timeline/)
 {: .notice--info}
