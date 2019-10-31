@@ -76,5 +76,12 @@ Es posible que estos sitios web recopilen información sobre usted, utilicen 'co
 
 Puede solicitar que borremos cualquier información personal que creas que tengamos. Esto no incluye ningún dato que estemos obligados a conservar con fines administrativos, legales o de seguridad.
 
-Este apartado, de 'Política de Privacidad' se mantendrá en constante actualización
-Fecha de la última actualización: 18 de Enero de 2.018.
+Este apartado, de 'Política de Privacidad' se mantendrá en constante actualización.
+
+## Atribución y Licencias
+
+Las imágenes incluidas a excepción de que en la página concreta indique lo contrario; son o bien imágenes de repositorios gratuitos, o bien capturas de pantalla realizadas personalmente por Pablo Álvarez Correderea, o bien imágenes o capturas editaras personalmente por el autor del blog.
+
+Los logos; los logos antiguos han sido extraídos de repositorios gratuitos de imágenes. El nuevo logo, es propiedad de una fuente tipográfica incluida por Microsoft en Windows; y que más tarde, en otras actualizaciones han modificado.
+
+El logo actual es esté: [https://emojipedia.org/hipster-cat/](https://emojipedia.org/hipster-cat/){:target="_blank"} y el [logo antiguo](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/74/hipster-cat_1f431-200d-1f453.png){:target="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/74/hipster-cat_1f431-200d-1f453.png"} por tanto están bajo lo explicado por la propia empresa de Microsoft en su [faq](https://docs.microsoft.com/en-us/typography/fonts/font-faq){:target="_blank"} donde se cita clara y expresamente que tanto como a sus emoticonos como a sus símbolos se les consideran parte de una fuente o tipografía y por ende se ofrece el permiso de reproducción, venta o uso de los mismos; incluso como archivo gráfico o logotipo de una empresa como se puede apreciar en [la imagen](https://i.ibb.co/cv3Xb9J/image.png){:target="_blank"} siguiente.
