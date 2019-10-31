@@ -19,7 +19,7 @@ sidebar:
 
 <!-- [1950s 🕙](/historia-computadora/cronograma/#1950s- ""){: .btn .btn--inverses .btn--large} -->
 
-[1940s 🕗](/historia-computadora/cronograma/#1940s- "La Década de los 40"){: .btn .btn--inverse .btn--large} [1930s 🕕](/historia-computadora/cronograma/#1930s- "La Década de los 30"){: .btn .btn--inverse .btn--large}
+[1940s 🕗](/historia-computadora/cronograma/#1940s- "La Década de los 40"){: .btn .btn--inverse .btn--large} [1930s 🕕](/historia-computadora/cronograma/#1930s- "La Década de los 30"){: .btn .btn--inverse .btn--large} [Simbología 🗺](/historia-computadora/cronograma/#simbología- "Simbología de los Iconos del Cronograma"){: .btn .btn--inverse .btn--large}
 
 <!--
 ## 2010s 🕕
@@ -364,13 +364,13 @@ Los iconos usados a lo largo de la línea de tiempo, poseen una [simbología](/g
 
 Las asociaciones entre iconos y las notas históricas relacionadas a esté; están indicados a continuación, las temáticas que nos podemos encontrar son las siguientes:
 
-* 💻 Creación y Evolución de los ordenadores.
-* 📞 Campo de las comunicaciones, tanto de la historia de la creación de las líneas de teléfono como de la historia de la creación de la red de Internet.
-* 🤖 Principios de la robótica, que a largo plazo se junta alrededor del ámbito de la inteligencia artificial.
-* 🕹 Gráficos & Videojuegos
-* 🧠 Memoria & Almacenamiento
-* 👨‍❤️‍💋‍👨 Cultura Popular
-* 👩‍💻 Software & Lenguajes de Programación
+💻 Creación y Evolución de los ordenadores.
+📞 Campo de las comunicaciones, tanto de la historia de la creación de las líneas de teléfono como de la historia de la creación de la red de Internet.
+🤖 Principios de la robótica, que a largo plazo se junta alrededor del ámbito de la inteligencia artificial.
+🕹 > Gráficos & Videojuegos
+🧠 > Memoria & Almacenamiento
+👨‍❤️‍💋‍👨 > Cultura Popular
+👩‍💻 > Software & Lenguajes de Programación
 
 **Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") línea de tiempo [original en inglés](https://www.computerhistory.org/timeline/)
 {: .notice--info}
