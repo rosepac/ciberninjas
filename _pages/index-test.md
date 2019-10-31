@@ -18,7 +18,16 @@ header:
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/academia-microsoft-ciberninjas.jpg
