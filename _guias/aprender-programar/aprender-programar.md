@@ -1,11 +1,11 @@
 ---
-title: 👨‍💻 ▷ Cómo Aprender a Programar desde Cero en 2020
+title: 👨‍💻 ▷ Como Aprender a Programar desde Cero en 2020
 description: "📌 Aprende a programar con múltiples lenguajes y frameworks. Los mejores libros PDF y ebook en nuestro catálogo e incluso gratis 😜."
 excerpt: "📌 Aprende a programar con múltiples lenguajes y frameworks. Los mejores libros PDF y ebooks en nuestro catálogo e incluso gratis 😜."
 published: true
 comments: true
 date: 2018-03-01
-last_modified_at: 2019-10-30
+last_modified_at: 2019-10-31
 permalink: /programar/
 # header:
 #   image: "/assets/images/chocolatey-ciberninjas.jpg"
@@ -91,7 +91,7 @@ Entre estos "lenguajes" destacan HTML y CSS, que forman una de las partes más i
 
 <!-- ## Qué es Programar -->
 
-## Cómo aprender a programar código
+## ¿Cómo aprender a programar código?
 
 En esta sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
 
