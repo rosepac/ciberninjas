@@ -18,7 +18,8 @@ sidebar:
 ---
 
 <!-- [1950s 🕙](/historia-computadora/cronograma/#1950s- ""){: .btn .btn--inverses .btn--large} -->
-[1940s 🕗](/historia-computadora/cronograma/#1940s- "La Década de los 40"){: .btn .btn--inverses .btn--large} [1930s 🕕](/historia-computadora/cronograma/#1930s- "La Década de los 30"){: .btn .btn--inverses .btn--large}
+
+[1940s 🕗](/historia-computadora/cronograma/#1940s- "La Década de los 40"){: .btn .btn--inverse .btn--large} [1930s 🕕](/historia-computadora/cronograma/#1930s- "La Década de los 30"){: .btn .btn--inverse .btn--large}
 
 <!--
 ## 2010s 🕕
