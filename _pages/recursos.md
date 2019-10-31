@@ -82,6 +82,8 @@ Abrir varios enlaces a la vez, de una sola selección.
 
 ## Mis Aplicaciones Realmente Favoritas
 
+Extensión: wikiwand wikipedia.
+
 <iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/169533?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 <a href="https://www.producthunt.com/posts/ink-1c962f43-e6e2-4291-942f-6090712bf2b6?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-ink-1c962f43-e6e2-4291-942f-6090712bf2b6" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=169533&theme=light&period=daily" alt="INK - AI web content optimization platform just for writers | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>

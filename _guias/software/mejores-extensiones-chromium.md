@@ -23,6 +23,7 @@ canonical_URL: https://ciberninjas.com/las-mejores-extensiones-navegadores/
 ## Personalización / Pieles / Themes
 
 * [Tema de Piel de Luz Verde](https://chrome.google.com/webstore/detail/light-green-theme/ddanbpappolmiebldmnklmmjmgpcocai "Tema de Piel de Luz Verde")
+* [Wikiwand]()
 
 **Fuente**: [TITULO](ENLACE A LA NOTICIA "TITLE")
 {: .notice--info}
