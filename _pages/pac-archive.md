@@ -31,7 +31,7 @@ Apartado personal con una amplia recopilación de marcadores web que han ido sub
 
 La sección ha sido recuperada de algunos de mis marcadores favoritos y las antiguas publicaciones personales dentro de las Colecciones de Google +. Espero puedan encontrarlos tan interesantes y productivos como yo. 😺
 
-[🎶 Música](/categoria/#m%C3%BAsica "Categoría de Música"){: .btn .btn--primary .btn--large} 🚧 + En Construcción 👷‍♂️
+[🎶 Música](/categoria/#m%C3%BAsica "Categoría de Música"){: .btn .btn--primary .btn--large} <a href="#" title="SIN CONTENIDO" class="btn btn--success btn--large">🚧 + En Construcción 👷‍♂️</a>
 <!-- -->
 
 ## 🔥 Últimas Actualizaciones.. 👇
