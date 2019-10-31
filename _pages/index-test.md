@@ -33,10 +33,10 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 
 <div class="page__hero--overlay" style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/academia-microsoft-ciberninjas.jpg');">
 <div class="wrapper">
-<h1 id="page-title" class="page__title" itemprop="headline">
+<h2 id="page-title" class="archive__item-title" itemprop="headline">
 Splash Page
-</h1>
-<p class="page__lead">Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
+</h2>
+<p class="archive__item-excerpt">Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
 </p>
 <p>
 <a href="https://github.com/mmistakes/minimal-mistakes/" class="btn btn--light-outline btn--large">Download</a>
