@@ -87,10 +87,11 @@ Splash Page
 </span>
 </div>
 
+<div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <img src="/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2">
+            <img src="/assets/images/ciberninjas-prime-day.jpg" alt="placeholder image 2">
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Placeholder Image Left Aligned</h2>
@@ -101,11 +102,13 @@ Splash Page
         </div>
     </div>
 </div>
+</div>
 
+<div class="feature__wrapper">
 <div class="feature__item--right">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <img src="/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2">
+            <img src="/assets/images/ciberninjas-prime-day.jpg" alt="placeholder image 2">
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Placeholder Image Right Aligned</h2>
@@ -115,4 +118,5 @@ Splash Page
             <p><a href="/minimal-mistakes/#test-link" class="btn btn--primary">Read More</a></p>
         </div>
     </div>
+</div>
 </div>
