@@ -4,8 +4,8 @@ description: "😼  Cómo Aprender Programación y Robótica a las Niñas y Niñ
 excerpt: "😼 Cómo Aprender Programación y Robótica a las Niñas y Niños."
 published: false
 comments: true
-date: 2018-03-01
-last_modified_at: 2019-09-01
+date: 2019-10-31 10:00:05
+last_modified_at: 2019-10-31 10:39:30
 permalink: /programacion-robotica-para-niños/
 canonical_URL: https://ciberninjas.com/programacion-robotica-para-niños/
 # header:
@@ -22,6 +22,30 @@ toc_sticky: true
 * App Inventor
 * Arduino
 * MBot
-* Scratch
 
-<!-- https://www.blog.andaluciaesdigital.es/programacion-para-ninos-beneficios-y-claves-para-comenzar/ --> 
+## 👩‍💻 Lenguajes de Programación
+
+* [Scratch](https://scratch.mit.edu/){:target="_blank"}
+* [ScratchJR](https://www.scratchjr.org/){:target="_blank"}
+
+<!-- https://www.blog.andaluciaesdigital.es/programacion-para-ninos-beneficios-y-claves-para-comenzar/ -->
+
+## 💻 Software y Herramientas
+
+* [BlocksCad Editor - Online](https://www.blockscad3d.com/editor/){:target="_blank"}
+* [Scratch - Descargar](https://scratch.mit.edu/download/){:target="_blank"}
+* [Scratch Online](https://scratch.mit.edu/projects/editor){:target="_blank"}
+
+## Las Mejores Páginas Web
+
+* [La Hora del Código](https://hourofcode.com/es){:target="_blank"} 👉 [Saber Más](){:target="_blank"}
+
+
+* [TecniCrea](https://tecnicrea.es){:target="_blank"}
+* [](){:target="_blank"}
+* [](){:target="_blank"}
+* [](){:target="_blank"}
+
+## Las MEjores Páginas Web en Inglés
+
+* [Code ORG](https://code.org/){:target="_blank"}
