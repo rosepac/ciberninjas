@@ -23,8 +23,10 @@ toc_sticky: false
 ## 👩‍💻 Artículos de Programación
 
 [👨‍💻 ▷ Cómo Aprender a Programar desde Cero](/programar/)
+
 [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/)
-[Nuestro problema con las dependencias del software, por Russ Cox](/nuestro-problema-con-las-dependencias-del-software-por-russ-cox)
+
+[📰 Nuestro problema con las dependencias del software, por Russ Cox](/nuestro-problema-con-las-dependencias-del-software-por-russ-cox)
 
 ## 🔧 Artículos de Framework´s
 
