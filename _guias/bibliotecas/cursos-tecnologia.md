@@ -27,17 +27,17 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas; 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>Entre otras universidades, las siguientes:</p>
+<p>Entre otras universidades:</p>
 <ol>
-<li>Universidad Politécnica de Madrid</li>
-<li>Universidad de Cantabria</li>
-<li>Universidad Jaime I de Castellón</li>
-<li>Universidad Carlos III de Madrid</li>
-<li>Universidad de La Laguna de Tenerife</li>
-<li>Universidad Politécnica de Valencia</li>
-<li>Universidad de Alicante</li>
-<li>Universidad Nacional de Rosario \ Argentina</li>
-<li>Universidad de Málaga</li>
+<li>la Universidad Carlos III de Madrid</li>
+<li>la Universidad de Alicante</li>
+<li>la Universidad de Cantabria</li>
+<li>la Universidad de La Laguna de Tenerife</li>
+<li>la Universidad de Málaga</li>
+<li>la Universidad Jaime I de Castellón</li>
+<li>la Universidad Nacional de Rosario \ Argentina</li>
+<li>la Universidad Politécnica de Madrid</li>
+<li>la Universidad Politécnica de Valencia</li>
 <li>...</li>
 </ol>
 <p>Cursos sobre: Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.</p>
@@ -380,11 +380,11 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas; 
 
 ## 👨‍💻 Lenguajes de Programación
 
-## Javascript
+## Javascript <i class="fab fa-js"></i>
 
 * [JavaScript Desde Cero (2018)](https://ed.team/cursos/javascript){:target="_blank"}
 
-## PHP
+## PHP <i class="fab fa-php"></i>
 
 ## PHP Framework <i class="fab fa-php"></i>
 
@@ -577,10 +577,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [La biblia perdida de Bootstrap 4](https://www.udemy.com/curso-la-biblia-perdida-de-bootstrap-4) (Udemy)
 * [PSD a HTML con Bootstrap 4!](https://www.udemy.com/curso-de-psd-a-html-con-bootstrap-4) (Udemy)
 
-## Ionic
-
-* [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He) (Eduardo Ibarra, Youtube)
-
 ## Docker <i class="fab fa-docker"></i>
 
 * [Curso de Docker](https://www.youtube.com/playlist?list=PLEtcGQaT56chIpnSavOSvaU2ZGAW7d1vE) (Jesús Conde, Youtube)
@@ -589,17 +585,21 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * Introduccion a CodeIgniter(https://www.udemy.com/course/introduccion-codeigniter)
 * [Introducción al backend en PHP y MySQL (+ Docker)](https://www.udemy.com/course/introduccion-al-backend-en-php-y-mysql-docker)
 
-## Lenguaje de Estilos y Preprocesadores 🎨
+## Ionic
+
+* [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He) (Eduardo Ibarra, Youtube)
+
+## 🎨 Lenguajes de Estilos y Preprocesadores
 <!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
 * [CSS desde Cero](https://ed.team/cursos/css) (EdTeam)
 * [CSS Variables](https://ed.team/cursos/variables-css) (EdTeam)
 
-## Lenguajes de Marcado ✍
+## ✍ Lenguajes de Marcado
 <!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml  -->
 * [HTML desde Cero](https://ed.team/cursos/html) (EdTeam)
 * [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
 
-## Sistemas de Plantillas 🌱
+## 🌱 Sistemas de Plantillas
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
  * [Pug desde Cero](https://ed.team/cursos/pug)
 
@@ -795,7 +795,39 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 
 <center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
-## Redes 🕸 🕷 🕸
+## 🎮 Programación de Videojuegos
+
+* [Aprende a crear plugins Bukkit y Spigot usando Skript](https://www.udemy.com/aprende-a-crear-plugins-bukkit-y-spigot-usando-skript) (Udemy)
+* [Crea juegos en línea usando Windows Azure Mobile Services](https://mva.microsoft.com/es-es/training-courses/crea-juegos-en-lnea-usando-windows-azure-mobile-services-11020) (Microsoft Channel 9)
+* [Crea tu primer videojuego](https://www.udemy.com/crea-tu-primer-videojuego) (Udemy)
+* [Creación de videojuegos para Windows 8.1 usando Gamer Marker](https://mva.microsoft.com/es-es/training-courses/creacin-de-videojuegos-para-windows-81-usando-game-maker-studio-8589) (Microsoft Channel 9)
+* [Desarrolla tu primera aplicación para Kinect V2 con Visual Studio](https://mva.microsoft.com/es-es/training-courses/desarrolla-tu-primera-aplicacin-para-kinect-v2-con-visual-studio-11226) (Microsoft Channel 9)
+* [Desarrollo de Apps sin saber programación](https://campusvirtual.ull.es/ocw/course/view.php?id=128) (OCW)
+* [Diseño, organización y evaluación de videojuegos y gamificación](https://miriadax.net/web/diseno-organizacion-y-evaluacion-de-videojuegos-y-gamificacion-3-edicion-_201604220800) (MiriadaX)
+* [Hora del Código con TouchDevelop](https://mva.microsoft.com/es-es/training-courses/hora-del-cdigo-con-touchdevelop-8401) (Microsoft Channel 9)
+* [Introducción a la gamificación sobre casos prácticos](https://miriadax.net/web/introduccion-a-la-gamificacion-a-traves-de-casos-practicos) (MiriadaX)
+* [Introducción al desarrollo de videojuegos con Unity](https://www.edx.org/course/introduccion-al-desarrollo-de-upvalenciax-uny201-x-1) (edx)
+* [Introducción al desarrollo de videojuegos con Unity3D (2016)](http://ocw.uji.es/curso/1434149) (OCW)
+* [Introducción al diseño de videojuegos](https://miriadax.net/web/introduccion-al-diseno-de-videojuegos-2-edicion-) (MiriadaX)
+* [Kinect básico](https://www.youtube.com/playlist?list=PLGlfxrSj1dRflUF3tknkcE2Xs9k7cMsre) (Yazir Solis, YouTube)
+* [Mi primer juego con Unity 5](https://www.udemy.com/mi-primer-juego-con-unity-5) (Udemy)
+* [Motores de juegos para Jump Start de Windows 8](https://mva.microsoft.com/es-es/training-courses/motores-de-juegos-para-jump-start-de-windows-8-8237) (Microsoft Channel 9)
+* [Producción de videojuegos para principiantes](https://www.udemy.com/produccion-de-videojuegos-para-principiantes) (Udemy)
+* [Programación de juegos con UDK](https://www.youtube.com/playlist?list=PLM4yC7OCOPBzFBi8pER3R-1vdDiB7s21k) (Fdudk, YouTube)
+* [Programación de juegos Web 2D en Javascript HTML5 con Phaser](https://www.udemy.com/programacion-de-juegos-web-2d-en-javascript-html5-con-phaser) (Udemy)
+* [Programación de videojuegos con pygame](https://www.udemy.com/pygame-breakout) (Udemy)
+* [Programación Unity. Introducción al desarrollo de videojuegos](https://www.udemy.com/introduccion-al-desarrollo-de-videojuegos-con-unity-3d) (Udemy)
+* [Programación Unity 1: Clase monobehaviour](https://www.udemy.com/libreria-unity-engine-clase-monobehaviour) (Udemy)
+* [Programación Unity 2: Clases time y vector3](https://www.udemy.com/libreria-unity-engine-2-clases-time-y-vector3) (Udemy)
+* [Programación Unity 3: Clase input](https://www.udemy.com/libreria-unity-engine-3-clase-input) (Udemy)
+* [Programación Unity 4: Clase transform](https://www.udemy.com/libreria-unity-engine-4-clase-transform) (Udemy)
+* [Tu primer videojuego 2D multiplataforma con Unity 5](https://www.udemy.com/unity-5-primer-videojuego-2d-multiplataforma) (Udemy)
+* [Unity 5: Creando un juego para PC](https://www.udemy.com/curso-unity-5-creando-un-juego-para-pc) (Udemy)
+* [Unreal Engine para principiantes](https://www.udemy.com/unreal-engine-principiantes) (Udemy)
+
+<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+
+## 🕸 Redes
 
 * [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=32) (OCW)
 * [Aprende Seguridad desde 0](https://www.udemy.com/aprende-seguridad-cisco-desde-0) (Udemy)
@@ -844,6 +876,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 <center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 📞 Redes de Telefonía
+
 * [Antenas y telescopios: control de seguimiento (2012)](https://ocw.ehu.eus/course/view.php?id=45) (OCW)
 * [Comunicaciones Digitales (2012)](http://ocw.uma.es/ingenierias/Comunicacion-digital) (OCW)
 * [Comunicaciones en audio y vídeo (2010)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/comunicaciones-en-audio-y-video) (OCW)
@@ -933,7 +966,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 
 <center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
-## Seguridad 🔑 🚔 🔐
+## 🔐 Seguridad
 
 * [Aprende seguridad Cisco desde 0](https://www.udemy.com/aprende-seguridad-cisco-desde-0) (Udemy)
 * [Aspectos Sociales, Legales, Éticos y Profesionales de la Informática (2010)](http://ocw.uniovi.es/course/view.php?id=151) (OCW)
@@ -1050,7 +1083,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 
 <center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
-## ✍ Sistemas de Gestión de Contenidos y ERP
+## ✍ Sistemas de Gestión de Contenidos
 
 * [Ajax en Wordpress para desarrolladores web. Avanzado](https://www.udemy.com/ajax-para-wordpress) (Udemy)
 * [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4) (Udemy)
@@ -1145,39 +1178,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Windows 8.1 To Go](https://mva.microsoft.com/es-es/training-courses/windows-81-to-go-8272) (Microsoft Channel 9)
 
 <a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
-
-
-## 🎮 Videojuegos
-
-* [Aprende a crear plugins Bukkit y Spigot usando Skript](https://www.udemy.com/aprende-a-crear-plugins-bukkit-y-spigot-usando-skript) (Udemy)
-* [Crea juegos en línea usando Windows Azure Mobile Services](https://mva.microsoft.com/es-es/training-courses/crea-juegos-en-lnea-usando-windows-azure-mobile-services-11020) (Microsoft Channel 9)
-* [Crea tu primer videojuego](https://www.udemy.com/crea-tu-primer-videojuego) (Udemy)
-* [Creación de videojuegos para Windows 8.1 usando Gamer Marker](https://mva.microsoft.com/es-es/training-courses/creacin-de-videojuegos-para-windows-81-usando-game-maker-studio-8589) (Microsoft Channel 9)
-* [Desarrolla tu primera aplicación para Kinect V2 con Visual Studio](https://mva.microsoft.com/es-es/training-courses/desarrolla-tu-primera-aplicacin-para-kinect-v2-con-visual-studio-11226) (Microsoft Channel 9)
-* [Desarrollo de Apps sin saber programación](https://campusvirtual.ull.es/ocw/course/view.php?id=128) (OCW)
-* [Diseño, organización y evaluación de videojuegos y gamificación](https://miriadax.net/web/diseno-organizacion-y-evaluacion-de-videojuegos-y-gamificacion-3-edicion-_201604220800) (MiriadaX)
-* [Hora del Código con TouchDevelop](https://mva.microsoft.com/es-es/training-courses/hora-del-cdigo-con-touchdevelop-8401) (Microsoft Channel 9)
-* [Introducción a la gamificación sobre casos prácticos](https://miriadax.net/web/introduccion-a-la-gamificacion-a-traves-de-casos-practicos) (MiriadaX)
-* [Introducción al desarrollo de videojuegos con Unity](https://www.edx.org/course/introduccion-al-desarrollo-de-upvalenciax-uny201-x-1) (edx)
-* [Introducción al desarrollo de videojuegos con Unity3D (2016)](http://ocw.uji.es/curso/1434149) (OCW)
-* [Introducción al diseño de videojuegos](https://miriadax.net/web/introduccion-al-diseno-de-videojuegos-2-edicion-) (MiriadaX)
-* [Kinect básico](https://www.youtube.com/playlist?list=PLGlfxrSj1dRflUF3tknkcE2Xs9k7cMsre) (Yazir Solis, YouTube)
-* [Mi primer juego con Unity 5](https://www.udemy.com/mi-primer-juego-con-unity-5) (Udemy)
-* [Motores de juegos para Jump Start de Windows 8](https://mva.microsoft.com/es-es/training-courses/motores-de-juegos-para-jump-start-de-windows-8-8237) (Microsoft Channel 9)
-* [Producción de videojuegos para principiantes](https://www.udemy.com/produccion-de-videojuegos-para-principiantes) (Udemy)
-* [Programación de juegos con UDK](https://www.youtube.com/playlist?list=PLM4yC7OCOPBzFBi8pER3R-1vdDiB7s21k) (Fdudk, YouTube)
-* [Programación de juegos Web 2D en Javascript HTML5 con Phaser](https://www.udemy.com/programacion-de-juegos-web-2d-en-javascript-html5-con-phaser) (Udemy)
-* [Programación de videojuegos con pygame](https://www.udemy.com/pygame-breakout) (Udemy)
-* [Programación Unity. Introducción al desarrollo de videojuegos](https://www.udemy.com/introduccion-al-desarrollo-de-videojuegos-con-unity-3d) (Udemy)
-* [Programación Unity 1: Clase monobehaviour](https://www.udemy.com/libreria-unity-engine-clase-monobehaviour) (Udemy)
-* [Programación Unity 2: Clases time y vector3](https://www.udemy.com/libreria-unity-engine-2-clases-time-y-vector3) (Udemy)
-* [Programación Unity 3: Clase input](https://www.udemy.com/libreria-unity-engine-3-clase-input) (Udemy)
-* [Programación Unity 4: Clase transform](https://www.udemy.com/libreria-unity-engine-4-clase-transform) (Udemy)
-* [Tu primer videojuego 2D multiplataforma con Unity 5](https://www.udemy.com/unity-5-primer-videojuego-2d-multiplataforma) (Udemy)
-* [Unity 5: Creando un juego para PC](https://www.udemy.com/curso-unity-5-creando-un-juego-para-pc) (Udemy)
-* [Unreal Engine para principiantes](https://www.udemy.com/unreal-engine-principiantes) (Udemy)
-
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
 
 ## 👷‍♂️ Webmaster
 

@@ -317,18 +317,13 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Docker](https://github.com/brunocascio/docker-espanol#docker){:target="_blank"} (Github)
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf){:target="_blank"}{:target="_blank"} (PDF)
 
-## ✍ Sistemas de Gestión de Contenidos y ERP
-
-### Wordpress <i class="fab fa-wordpress"></i>
-* [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?){:target="_blank"} (PDF)
-
-## Aplicaciones Multiplataforma
-
-* [Desarrollo de Apps con IONIC](https://leanpub.com/desarrollodeappsconionic?){:target="_blank"} (Descarga PDF)
-
 ## Bootstrap <i class="fab fa-bootstrap"></i>
 
 * [Bootstrap 3, el manual oficial](http://librosweb.es/libro/bootstrap_3){:target="_blank"} (HTML)
+
+## Ionic
+
+* [Desarrollo de Apps con IONIC](https://leanpub.com/desarrollodeappsconionic?){:target="_blank"} (Descarga PDF)
 
 ## 👨‍💻 Lenguajes de Programación
 
@@ -554,7 +549,6 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 
 * [Web2py - Manual de Referencia Completo, 5a Edición](http://www.web2py.com/books/default/chapter/41){:target="_blank"} (HTML)
 
-
 ## Ruby
 
 * [Aprende a programar con Ruby](http://rubysur.org/aprende.a.programar){:target="_blank"} (Gitbook)
@@ -623,6 +617,11 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Desarrollo de juegos en 2D usando Java y Microsoft XNA](https://openlibra.com/es/book/download/desarrollo-de-juegos-en-2d-usando-java-y-microsoft-xna){:target="_blank"}{:target="_blank"} (PDF  )
 * [Godot. Motor de Videojuegos - Documentación](https://media.readthedocs.org/pdf/godot-doc-en-espanol/latest/godot-doc-en-espanol.pdf){:target="_blank"}{:target="_blank"} (PDF)
 * [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf){:target="_blank"}{:target="_blank"} (PDF)
+
+## ✍ Sistemas de Gestión de Contenidos
+
+### Wordpress <i class="fab fa-wordpress"></i>
+* [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?){:target="_blank"} (PDF)
 
 ## 👷‍♂️ Webmaster
 
