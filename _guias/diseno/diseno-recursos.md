@@ -22,18 +22,23 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 * [Librerías de Javascript de Animaciones, Banners, Gráficas y Otros](https://ciberninjas.com/librerias-front-end-para-el-desarrollador-web-crea-tu-mejor-diseno)
 * [Zim JS](https://zimjs.com/uiux.html){:target="_blank"} Ejemplos de UI/UX a través de Javascript.
 
-## 🧰 Herramientas
+## 🧰 HERRAMIENTAS
+
+## Fuentes o Tipografías
+
+* [Mapa de Carácteres - Windows](https://www.youtube.com/watch?v=Kau6nVFRO7g){:target="_blank"}
+* [Mapa de Babel](http://www.babelstone.co.uk/Software/BabelMap.html){:target="_blank"}
 
 ## Testing
 
 * [Mobile Browser Emulator](/como-publicar-en-instagram-%F0%9F%93%B8-desde-el-ordenador-%F0%9F%96%A5-extension-de-chrome-mobile-browser-emulator/ "Cómo probar cualquier aplicación o web en su versión móvil desde el navegador"){:target="_blank"}
 * [Tabla de Compatibilidad HTML5 en navegadores móviles y tabletas con pruebas en dispositivos reales](https://html5test.com/results/desktop.html){:target="_blank"}
 
-📰 ARTÍCULOS
+## 📰 ARTÍCULOS
 
+👷‍♂️ En Construcción 👷‍♂️‍
 
-
-## En INGLÉS
+## 📰 ARTÍCULOS En INGLÉS
 
 ### Optimización Web
 
@@ -58,3 +63,4 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 * [Una filosofía abierta puede unificar la fragmentación de la web - #TheOpenAgenda](http://blog.digital.telefonica.com/2013/09/03/theopenagenda-max-firtman/){:target="_blank"}
 
 [⬆ REGRESAR AL MENÚ ⬆ <i class="fab fa-apple"></i>](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+<!-- * []( ""){:target="_blank"} -->
