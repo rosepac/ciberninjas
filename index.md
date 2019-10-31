@@ -10,23 +10,21 @@ toc_sticky: false
 ---
 
 ## 🐱‍🏍 Qué es Ciberninjas
-💡 Descubre la filosofía Ciberninjas
+* 💡 Descubre la filosofía Ciberninjas
 
 ## 📚 Biblioteca de Programación
 
-[📚 ▷ Más de 400 Libros PDF 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica](/biblioteca-de-programacion-y-tecnologia/)
+* [📚 ▷ Más de 400 Libros PDF 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica](/biblioteca-de-programacion-y-tecnologia/)
 
 ## 👩‍🏫 Cursos de Programación
 
-[🎓 ▷ Más de 800 Cursos 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica](/cursos-tecnologia/)
+* [🎓 ▷ Más de 800 Cursos 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica](/cursos-tecnologia/)
 
 ## 👩‍💻 Artículos de Programación
 
-[👨‍💻 ▷ Cómo Aprender a Programar desde Cero](/programar/)
-
-[👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/)
-
-[📰 Nuestro problema con las dependencias del software, por Russ Cox](/nuestro-problema-con-las-dependencias-del-software-por-russ-cox)
+* [👨‍💻 ▷ Cómo Aprender a Programar desde Cero](/programar/)
+* [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/)
+* [📰 Nuestro problema con las dependencias del software, por Russ Cox](/nuestro-problema-con-las-dependencias-del-software-por-russ-cox)
 
 ## 🔧 Artículos de Framework´s
 
