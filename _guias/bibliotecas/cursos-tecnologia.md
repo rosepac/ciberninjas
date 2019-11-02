@@ -1,11 +1,11 @@
 ---
 # Página Base
-title: "🎓 ▷ Más de 800 Cursos 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica"
+title: "🎓 ▷ Cursos de Tecnología"
 description: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 author_profile: true
-date: 2018-02-13T22:00:00.000+00:00
-last_modified_at: 2018-10-14T12:42:42-05:00
+date: 2018-02-13T22:00:00.000+02:00
+last_modified_at: 2019-11-02T01:42:42+02:00
 permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
 # image: 
@@ -22,7 +22,7 @@ toc_sticky: false
 
 ---
 
-En la actualidad son más de 800 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
+En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada temática.
 
 <details>
 <summary>Saber Más</summary>
@@ -40,8 +40,8 @@ En la actualidad son más de 800 cursos, organizados por diferentes temáticas; 
 <li>la Universidad Politécnica de Valencia</li>
 <li>...</li>
 </ol>
+<p>En la actualidad son más de 800 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.</p>
 <p>Cursos sobre: Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.</p>
-<p>En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada tecnología concreta.</p>
 </details>
 
 ## 🗃 Meta-Listas
@@ -1225,7 +1225,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Aprende accesibilidad web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso) (Udemy)
 * [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad) (OCW)
 
-
 ## Análitica Web 📈
 
 * [Analítica Web](https://miriadax.net/web/analitica-web/inicio) (MiriadaX)
@@ -1235,19 +1234,16 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Fundamentos de Google Analitycs 2018](https://www.udemy.com/curso-de-fundamentos-de-google-analytics-2018) (Udemy)
 * [Google Search Console: Curso Online de Google Search Console](https://www.udemy.com/share/101z34AkoaeF5RTXw=)
 
-
 ## Marketing en Redes Sociales 🏪
 
 * [Automatización de redes sociales: Unifica tus publicaciones](https://www.udemy.com/automatizacion-de-redes-sociales-unifica-tus-publicaciones) (Udemy)
 * [Branding para redes sociales](https://www.crehana.com/cursos/branding/branding-para-redes-sociales) (Crehana)
 * [Crea la imagen de una campaña digital](https://www.crehana.com/cursos/branding/crea-la-imagen-de-una-campana-digital) (Crehana)
 
-
 ### Facebook <i class="fab fa-facebook-square"></i>
 
 * [Marketing digital en Facebook: haz crecer tu negocio](https://www.crehana.com/cursos/all/marketing-digital-en-facebook-haz-crecer-tu-negocio) (Crehana)
 * [Utilizar Facebook para aumentar Clientes y generar Ventas](https://www.udemy.com/share/101taqAkoaeF5RTXw=) (Udemy)
-
 
 ### Instagram <i class="fab fa-instagram"></i>
 
@@ -1257,17 +1253,14 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Instagram para negocios locales](https://www.udemy.com/instagram-para-negocios-locales) (Udemy)
 * [Introducción al Marketing en Instagram para tu empresa](https://www.udemy.com/share/101tpEAkoaeF5RTXw=) (Udemy)
 
-
 ### Pinterest <i class="fab fa-pinterest"></i>
 
 * [Pinterest en Español](https://www.udemy.com/pinterest-en-espanol) (Udemy)
-
 
 ### Youtube <i class="fab fa-youtube"></i>
 
 * [Cómo convertirse en un usuario experto de Youtube](https://www.udemy.com/como-convertirte-en-un-usuario-experto-de-youtube) (Udemy)
 * [Curso ganar dinero en Youtube](https://www.youtube.com/playlist?list=PLzBklNHovU38WNPTX0RAn8Duvr-OxqJNI) (SEO Carlangas, Youtube)
-
 
 ## Seo y Posicionamiento 🔍
 * [Curso de SEO (fácil e intermedio)](https://www.youtube.com/playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW) (Youtube)
