@@ -28,11 +28,11 @@
 // Cambiar el subrayado del texto.
 @import "{{ site.theme }}";
 ::selection {
-    background: #00ACB4 !important;
+    background: rgba(255, 128, 0, 0.671) !important;
     color: #FFFFFF !important;
 }
  
 ::-moz-selection {
-    background:#00ACB4 !important;
+    background:rgba(255, 128, 0, 0.671) !important;
     color: #FFFFFF !important;
 }
