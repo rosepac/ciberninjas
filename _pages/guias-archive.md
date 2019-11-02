@@ -16,7 +16,7 @@ sort_order: reverse
 #   nav: general
 ---
 
-Mis guías, bibliotecas, biblias o biblioguías, como me gusta llamarlos. Son artículos generados a través de un largo estudio documentado a través de la web y centrado en transmitir el máximo conocimiento posible sobre un único tema concreto.
+Mis guías, biblias o biblioguías, como me gusta llamarlos. Son artículos generados a través de un largo estudio documentado a través de la web y centrado en transmitir el máximo conocimiento posible sobre un único tema concreto.
 
 <details>
 <summary>Saber Más</summary>
