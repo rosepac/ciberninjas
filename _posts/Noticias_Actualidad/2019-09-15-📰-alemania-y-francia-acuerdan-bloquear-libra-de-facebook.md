@@ -11,6 +11,7 @@ link: >-
 tags:
   - Libra
 header:
+  teaser: /uploads/libra-facebook.jpg
   overlay_image: /uploads/libra-facebook.jpg
   overlay_filter: '0.2'
   image_description: >-

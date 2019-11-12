@@ -9,6 +9,7 @@ tags:
 - Libra
 link: https://www.bbc.com/news/technology-49092713
 header:
+  teaser: "/assets/images/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"
   overlay_image: "/assets/images/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"
   overlay_filter: "0.2"
   image_description: "Facebook mantiene un pulso contra la posible legislación americana de las criptomonedas | Ciberninjas"

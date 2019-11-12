@@ -10,6 +10,7 @@ tags:
 - Contraseña
 link: https://www.fayerwayer.com/2019/07/muere-inventor-contrasenas-computadora
 header:
+  teaser: "/assets/images/historia-seguridad-corbato-contrasena.jpg"
   overlay_image: "/assets/images/historia-seguridad-corbato-contrasena.jpg"
   overlay_filter: "0.2"
   image_description: "Muere el inventor de las contraseñas de computadora a los 93 años | Ciberninjas"

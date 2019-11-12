@@ -35,6 +35,7 @@ tags:
   - Udemy
   - Wordpress
 header:
+  teaser: /assets/images/cursos_estudiar_ideas.jpg
   overlay_image: /assets/images/cursos_estudiar_ideas.jpg
   overlay_filter: '0.2'
   image_description: >-

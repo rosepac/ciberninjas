@@ -13,6 +13,7 @@ tags:
   - React
   - Vue
 header:
+  teaser: https://i0.wp.com/blog.logrocket.com/wp-content/uploads/2019/08/history-legacy-jquery.jpeg
   overlay_image: >-
     https://i0.wp.com/blog.logrocket.com/wp-content/uploads/2019/08/history-legacy-jquery.jpeg
   overlay_filter: '0.2'

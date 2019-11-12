@@ -13,6 +13,7 @@ tags:
 - Datos
 - Reflexión
 header:
+  teaser: "/assets/images/facebook-pastillas.jpg"
   overlay_image: "/assets/images/facebook-pastillas.jpg"
   overlay_filter: "0.2"
   image_description: "La adicción a las pastillas que son las redes sociales, está en crecimiento en la actualidad del día a día | Ciberninjas"
