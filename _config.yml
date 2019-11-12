@@ -27,8 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://ciberninjas.com"
 # baseurl:
 repository: "rosepac/ciberninjas"
-# teaser: "/assets/images/cursos_estudiar_ideas560x.jpg"
-# logo: "/assets/images/favicon.png"
+# teaser: "/assets/images/logos/ciberninjas-emoji-160-110px.png"
+# logo: "/assets/images/logos/ciberninjas-emoji-110px-sin-borde.png"
 masthead_title: "Ciberninjas"
 twitter_username: ciberaprendiz
 github_username: Pablo Álvarez Corredera
