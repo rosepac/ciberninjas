@@ -19,11 +19,11 @@ locale: "es-ES"
 # timezone: "Europe/Madrid"
 # github: [metadata]
 title: Ciberninjas ▷ Escuela Laboratorio
-subtitle: Escuela Laboratorio de Tecnología
+# subtitle: Escuela Laboratorio de Tecnología
 email: rosepac21@gmail.com
 name: "Pablo Álvarez Corredera"
 description: >- # this means to ignore newlines until "baseurl:"
-  'Escuela Laboratorio de Tecnología Digital. Las mejores listados para estudiantes, profesores, desarrolladores web, diseñadores y creadores de contenidos. Cientos de los mejores artículos, repositorios, blogs, librerías, herramientas y recursos que te ayudaran a la hora de aprender, estudiar y trabajar.'
+  'Biblioteca de Libros, Cursos, Artículos y Recursos para Aprender de Tecnología: Aprender y Estudiar. El sitio perfecto para estudiantes, profesores, desarrolladores web y diseñadores.'
 url: "https://ciberninjas.com"
 # baseurl:
 repository: "rosepac/ciberninjas"
