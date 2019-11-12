@@ -9,6 +9,8 @@ toc_icon: user-ninja
 toc_sticky: false
 ---
 
+# Escuela Laboratorio de Tecnología Digital
+
 ## 🐱‍🏍 Qué es Ciberninjas
 * 💡 Descubre la filosofía Ciberninjas
 
