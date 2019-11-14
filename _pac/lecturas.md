@@ -13,11 +13,16 @@ header:
   teaser: https://i.ibb.co/yqymDJj/photo-1505489304219-85ce17010209-ixlib-rb-1-2.jpg
   overlay_image: https://i.ibb.co/yqymDJj/photo-1505489304219-85ce17010209-ixlib-rb-1-2.jpg
   overlay_filter: "0.2"
-  image_description: "Chica leyendo relajada con su café | Unsplash & Ciberninjas"
-  caption: "Chica leyendo relajada con su café | Unsplash & Ciberninjas"
+  image_description: "Chica leyendo relajada con su café: Unsplash & Ciberninjas"
+  caption: "Chica leyendo relajada con su café: Unsplash & Ciberninjas"
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia
+actions:
+    - label: + POLÍTICA
+      url: '/política/'
+    - label: + REFERENTES
+      url: '/referentes-historicos/'
 
 ---
 
@@ -48,9 +53,16 @@ header:
 
 ### SLAVOJ ZIZEK
 
+* Slavoj Zizek. En Defensa de la Intolerancia
 * Slavoj Zizek. [Sobre la Violencia](http://mastor.cl/blog/wp-content/uploads/2017/05/ZIZEK-Slavo-Sobre-la-violencia.pdf)
 * Slavoj Zizek. [Charla sobre las Redes Sociales](https://www.youtube.com/watch?v=7hzSqdG3V1Q)
 
 #### Recomendaciones
 
 Shakespeare: "El tirano"
+
+---
+
+👉 [Políticas](/política/)
+
+👉 [Lecturas](/lecturas/)
