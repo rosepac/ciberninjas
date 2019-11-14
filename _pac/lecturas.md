@@ -3,7 +3,7 @@ author: rosepac
 title: "Lecturas"
 description: 'Lecturas Pendientes o En Proceso.'
 excerpt: 'Lecturas Pendientes o En Proceso.'
-date: 2018-10-21
+date: 2019-10-21
 last_modified_at: 2019-10-31 21:17:20
 published: true
 permalink: /lecturas/
