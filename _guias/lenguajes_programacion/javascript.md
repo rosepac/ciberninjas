@@ -96,6 +96,7 @@ Los mejores artículos de Javascript que puedes encontrar en todo Internet, con 
 | Propiedades internas en JavaScript                           | [Leer](https://yeisondaza.com/propiedades-internas-en-javascript) |      Yeison Daza       | Español | 2016 |
 | Búsqueda Fuzzy sobre un Array Object en Javascript con Underscore | [Leer](https://medium.com/@peraferrer/search-fuzzy-into-array-object-for-javascript-5e08c2c18eb4) |   Germán Peraferrer    | Español | 2015 |
 
+* [saber si algún método sobre arrays en JavaScript muta el array original]: https://doesitmutate.xyz 
 
 ## Cursos de Javascript
 
