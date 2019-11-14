@@ -67,6 +67,33 @@ Slavoj Zizek. En Defensa de la Intolerancia
 
 Sobre la violencia seis reflexiones marginales: http://mastor.cl/blog/wp-content/uploads/2017/05/ZIZEK-Slavo-Sobre-la-violencia.pdf
 
+Gustavo Bueno: Panfleto contra la democracia realmente existente.
+
+## Nacionalismos.. ¿
+
+### Historia Cataluña
+
+* [Un fiel a Puigdemont hizo listas políticas de jefes de los Mossos](https://www.elperiodico.com/es/politica/20191114/puigdemont-mossos-terradellas-lista-patriotismo-7735095)
+* [Los Mossos harán su mayor auditoría interna](http://www.rtve.es/noticias/20191029/mossos-haran-su-mayor-auditoria-interna-su-labor-disturbios-movilizaciones-sentencia-del-proces/1986486.shtml)
+* [Víctor Tarradellas](https://www.elperiodico.com/es/politica/20191113/perfil-victor-terradellas-puigdemont-7733755) \ [Fundación CatMon](https://www.lavanguardia.com/politica/20180524/443796098348/catmon-udef-victor-terradellas.html)
+* [Judit Aixalà (pareja de Víctor Tarradellas) y Ima Mis, asesora y jefe de Oficina de la Generalidad](https://tarragonadigital.com/reus/judit-aixala-ima-mis-carrec-generalitat-2)
+* [Agustí Colomines pone en apuros a Mas](https://www.elplural.com/politica/agusti-colomines-pone-en-apuros-a-mas-si-se-demuestra-que-hubo-financiacion-ilegal-me-voy_50657102) \ [Agustín Colomines](https://es.wikipedia.org/wiki/Agust%C3%AD_Colomines)
+* [Torra - 1 de Octubre de 2018](https://www.youtube.com/watch?v=oaXF98wzp90) "Apretar, sin miedo - A los CDR"
+* [Jaume Assens](https://twitter.com/Jaumeasens/status/1193925686651691009) "Los cortes de tránsito del Tsunami  - hay que esforzarse x verlo, no como desorden público, sino como ejercicio del derecho a la protesta" 🤦‍♂️
+* [Asens desautoriza a la candidata que llamó “vivales” a Puigdemont](https://www.lavanguardia.com/politica/20191108/471448246268/jaume-asens-comuns-vivales-puigdemont-laura-lopez.html)
+* [CDR](https://es.wikipedia.org/wiki/Comit%C3%A9s_de_Defensa_de_la_Rep%C3%BAblica) \ [Terra Lliure](https://es.wikipedia.org/wiki/Terra_Lliure) \ [Cronología de Terra Lliure](https://es.wikipedia.org/wiki/Terra_Lliure) \ [Exèrcit Popular Català](https://es.wikipedia.org/wiki/Ex%C3%A8rcit_Popular_Catal%C3%A0) \ [Frente Nacional de Cataluña](Frente Nacional de Cataluña) \ 
+* [José María Bultó](https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Bult%C3%B3) \ [Joaquín Viola](https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Viola)
+  * [Carles Sastre](https://es.wikipedia.org/wiki/Carles_Sastre)
+* [Víctimas de la era nazi: Ideología racial de los nazis](https://encyclopedia.ushmm.org/content/es/article/victims-of-the-nazi-era-nazi-racial-ideology)
+* [La vergüenza del reino de "oregon". Comentario final de Antono Ubieto Arteta..](http://ramonmur.blogspot.com/2010/02/la-verguenza-del-reino-de-oregon.html)
+* [Los padres del separatismo: «Los catalanes somos de raza aria, los españoles son una raza inferior»](https://okdiario.com/espana/padres-del-separatismo-catalanes-somos-raza-aria-espanoles-son-raza-inferior-2123046)
+* [Racialismo Catalán](https://es.wikipedia.org/wiki/Racialismo_catal%C3%A1n)
+* [La Historia de la Señera -real-](http://www.aulamilitar.com/LA_HISTORIA_DE_LA_SENYERA_VALENCIANA_EN_LOS_DOCUMENTOS_HISTORICOS.pdf)
+* [La Conquista de Valencia](http://salvadorcaurin.blogspot.es/i2009-11/) Antonio Ubieto Arteta
+  * El origen histórico de la Señera.
+  * ¿Dice usted que las barras son de Aragón y no de Cataluña?
+* [Reino de Aragón -wikipedia-](https://es.wikipedia.org/wiki/Reino_de_Arag%C3%B3n) [Reinos Ibéricos en 1.400](https://es.wikipedia.org/wiki/Reino_de_Arag%C3%B3n#/media/Archivo:Iberian_Kingdoms_in_1400.svg) (IMAGEN)
+
 👉 [Política](https://ciberninjas.com/politica/)
 
 👉 [Lecturas](https://ciberninjas.com/lecturas/)
