@@ -1,8 +1,10 @@
 ---
 
 title: '📸 Cómo publicar en Instagram desde el Ordenador. Extensión de Chrome: Mobile Browser Emulator'
+description: '📸 Cómo publicar en Instagram desde el Ordenador. Extensión de Chrome: Mobile Browser Emulator'
+excerpt: '📸 Cómo publicar en Instagram desde el Ordenador. Extensión de Chrome: Mobile Browser Emulator'
 published: true
-author: rosepac
+author_profile: rosepac
 comments: true
 date: 2019-01-21 06:01:35
 last_modified_at: 2019-10-29 14:10:00 +0200
@@ -15,6 +17,12 @@ categories:
  - Redes Sociales
  - Navegadores
 permalink: '/como-publicar-en-instagram-%f0%9f%93%b8-desde-el-ordenador-%f0%9f%96%a5-extension-de-chrome-mobile-browser-emulator/'
+header:
+  teaser: https://i.ibb.co/Gxkyp1k/image.png
+  overlay_image: https://i.ibb.co/Gxkyp1k/image.png
+  overlay_filter: "0.2"
+  image_description: "Extensión de Chrome Mobile Browser Emulator, testing y simulación de móviles"
+  caption: "Extensión de Chrome Mobile Browser Emulator, testing y simulación de móviles"
 
 ---
 
@@ -40,8 +48,7 @@ Botón de la aplicación Mobile Browser Emulator en el navegador de Chrome.
 
 Una vez elegida la opción de tamaño **PORTRAIT 414&#215;736** se te abrirá una pequeña ventana donde deberás loguearte con tu cuenta de **Instagram**.
 
-[![Vista de la herramienta de la extensión abierta](https://i.ibb.co/2t5K56H/image.png
-)](https://i.ibb.co/2t5K56H/image.png
+[![Vista de la herramienta de la extensión abierta](https://i.ibb.co/2t5K56H/image.png)](https://i.ibb.co/2t5K56H/image.png
  "Ventana de Instagram vista desde el Emulador Móvil generado por la extensión de Chrome")
 
 Desde está misma ventana, ya podrás ver el botón de + desde el que publicar al igual que si publicases desde un _smartphone_ normal, incluidote aparecen los filtros.
@@ -50,7 +57,7 @@ Creo que no es necesario decir, que al igual que te permite simular el uso de la
 
 Espero les sea útil y practico este pequeño truco &#x1f63b;&#x1f63b;&#x1f63b;
 
-**Enlace a la extensión de Chrome**: _[Mobile Browser Emulator][1]_
+**Enlace a la extensión de Chrome**: [Mobile Browser Emulator][1]
 {: .notice--info}
 
 [1]: https://kutt.it/mobileemulator
