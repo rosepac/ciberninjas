@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: '❌ prueba temporal portada'
+title: 'Escuela Laboratorio de Tecnología Digital'
 description: '❌ prueba temporal portada'
 excerpt: '❌ prueba temporal portada'
 permalink: /index-test/
@@ -47,7 +47,7 @@ Splash Page
 
 <div class="page__hero--overlay" style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/academia-microsoft-ciberninjas.jpg');">
 <div class="wrapper">
-<h2 id="page-title" class="" itemprop="headline">
+<h2 id="/programar/" class="" itemprop="headline">
 <a href="/programar/">Programar</a>
 </h2>
 <p class="archive__item-excerpt">Página web de aprender a programar.
@@ -120,3 +120,79 @@ Splash Page
     </div>
 </div>
 </div>
+
+<div class="feature__wrapper">
+<div class="feature__item--left">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <img src="/assets/images/ciberninjas-prime-day.jpg" alt="placeholder image 2">
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Placeholder Image Left Aligned</h2>
+            <div class="archive__item-excerpt">
+                <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Left aligned with <code class="language-plaintext highlighter-rouge">type="left"</code></p>
+            </div>
+            <p><a href="/minimal-mistakes/#test-link" class="btn btn--primary">Read More</a></p>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="feature__wrapper">
+<div class="feature__item--right">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <img src="/assets/images/ciberninjas-prime-day.jpg" alt="placeholder image 2">
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Placeholder Image Right Aligned</h2>
+            <div class="archive__item-excerpt">
+                <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Right aligned with <code class="language-plaintext highlighter-rouge">type="right"</code></p>
+            </div>
+            <p><a href="/minimal-mistakes/#test-link" class="btn btn--primary">Read More</a></p>
+        </div>
+    </div>
+</div>
+</div>
+
+<details>
+<summary> 👉 Listado de Entradas de Software 👈</summary>
+<ul>
+<li>
+<div class="feature__wrapper">
+<div class="feature__item--left">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <img src="/assets/images/ciberninjas-prime-day.jpg" alt="placeholder image 2">
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Placeholder Image Left Aligned</h2>
+            <div class="archive__item-excerpt">
+                <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Left aligned with <code class="language-plaintext highlighter-rouge">type="left"</code></p>
+            </div>
+            <p><a href="/minimal-mistakes/#test-link" class="btn btn--primary">Read More</a></p>
+        </div>
+    </div>
+</div>
+</div>
+</li>
+<li>
+<div class="feature__wrapper">
+<div class="feature__item--right">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <img src="/assets/images/chocolatey-ciberninjas.jpg" alt="placeholder image 2">
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">🍫 ▷ Chocolatey, Aprender Desde Cero</h2>
+            <div class="archive__item-excerpt">
+                <p>Chocolatey, es el mejor instalador múltiple..</p>
+            </div>
+            <p><a href="/minimal-mistakes/#test-link" class="btn btn--primary">Leer Más</a></p>
+        </div>
+    </div>
+</div>
+</div>
+</li>
+</ul>
+</details>
