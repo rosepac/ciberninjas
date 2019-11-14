@@ -16,6 +16,7 @@ tags:
 - Tareas
 - Exámenes
 header:
+  teaser: /assets/images/escuela-aplicaciones-calendario-peque.jpg
   overlay_image: /assets/images/escuela-aplicaciones-calendario-peque.jpg
   image_description: "El mejor listado de las mejores aplicaciones escolares de seguimiento de tareas para el curso de 2019 | Ciberninjas"
   overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background

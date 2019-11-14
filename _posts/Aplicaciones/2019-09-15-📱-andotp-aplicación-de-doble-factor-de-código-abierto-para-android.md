@@ -11,6 +11,7 @@ tags:
   - Autentificación
   - Doble Factor
 header:
+  teaser: /assets/images/aplicacion-andotp .jpg
   overlay_image: /assets/images/aplicacion-andotp .jpg
   overlay_filter: '0.2'
   image_description: >-

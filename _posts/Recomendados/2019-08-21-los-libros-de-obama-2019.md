@@ -12,6 +12,7 @@ tags:
 - Libro
 - Barack Obama
 header:
+  teaser: /assets/images/obama-leyendo.jpg
   overlay_image: /assets/images/obama-leyendo.jpg
   overlay_filter: "0.2"
   image_alt: "Barack Obama, lee sus libros recomendados durante el año 2019 en la Casa Blanca | Visto en Ciberninjas"

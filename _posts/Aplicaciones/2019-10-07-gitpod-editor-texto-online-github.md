@@ -16,6 +16,7 @@ tags:
 - Programar
 - Código
 header:
+  teaser: "/assets/images/gitpod-typefox.jpg"
   image: "/assets/images/gitpod-typefox.jpg"
   image_description: "Gitpod: Editor de código online gratis basado en Visual Basic \ Visto en Ciberninjas"
   caption: "**Créditos**: Capturas de Pantalla by ROSEPAC."
