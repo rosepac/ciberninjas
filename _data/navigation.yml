@@ -1,10 +1,12 @@
 main:
-  - title: "🐱‍🏍 Quién Soy"
+  - title: "💡 Quién Soy"
     url: /quien-soy/
   - title: "🖋 Blog"
     url: /blog/
   - title: "📚 Guías"
     url: /guias/
+    - title: "🎁 Ofertas Black Friday"
+    url: /catalogo/amazon/
   - title: "🛒 Catálogo"
     url: /catalogo/
   - title: "🧰 Recursos"
