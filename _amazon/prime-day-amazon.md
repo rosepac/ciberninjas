@@ -1,10 +1,8 @@
 ---
 author_profile: true
 title: "😻 🎁 Prime Day 2019: Los Descuentos Más Espectaculares"
-description: >-
-   😻 🎁 🏪 Prime Day Amazon 2019 🔥 todas las mejores ofertas y descuentos para estos dos grandes días de ofertas de productos electrónicos, informáticos, tecnológicos.
-excerpt: >-
-  😻 🎁 🏪 Prime Day Amazon 2019 🔥 todas las mejores ofertas y descuentos para estos dos grandes días de ofertas de productos electrónicos, informáticos, tecnológicos.
+description: "😻 🎁 Prime Day Amazon 2019 🔥 todas las mejores ofertas y descuentos para estos dos grandes días de ofertas de productos electrónicos, informáticos, tecnológicos."
+excerpt: "😻 🎁 Prime Day Amazon 2019 🔥 todas las mejores ofertas y descuentos para estos dos grandes días de ofertas de productos electrónicos, informáticos, tecnológicos."
 permalink: /prime-day-amazon/
 canonical_URL: https://ciberninjas.com/prime-day-amazon/
 published: true
@@ -23,17 +21,15 @@ toc_sticky: true
 ---
 
 <!-- PRIME DAY DE AMAZON DEL 2019 -->
-
 Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2019, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas. <!-- En definitiva, una pequeña guía de Prime Day, que espero vaya creciendo año a año. -->
-
-* * *
+___
 
 Última Actualización: 16/07/2019 2:05 AM
 
 > [¡Sigue las Mejores Ofertas Flash!](https://kutt.it/ciberninjast)  
 > ¡Hasta el final de la Campaña!
 
-* * *
+___
 
 ## Ofertas de Componentes de Ordenador
 
@@ -88,7 +84,7 @@ La mejor oferta es la de los iPhone 6s Plus con hasta un 38% de descuento, queda
 [Echo Dot (3.ª generación)](https://amzn.to/2jLrmOu)
 
 ![Amazon Echo Plus](https://i.ibb.co/JzLbfmK/echoplus.jpg)  
-[Amazon Echo (2.ª generación)](https://amzn.to/2lgVphj)
+[Amazon Echo (2.ª generación)](https://amzn.to/2lgVphj){: .btn btn--warning .btn--large .align-center}
 
 ![Amazon Echo Show 5 + Amazon Smart Plug Enchufe](https://i.ibb.co/zFL0NWg/echoshow.jpg)  
 [Echo Show 5 (negro) + Amazon Smart Plug (enchufe inteligente wifi)](https://amzn.to/2jLrCNs), compatible con Alexa
@@ -190,11 +186,11 @@ Después de que termine el mes, puedes cancelar sin ningún tipo de compromiso. 
 
 ### ¿Qué servicios interesantes ofrece Amazon?
 
-[Amazon Prime](https://www.amazon.es/prime?tag=rosepac21)  
-[Amazon Music Unlimited](https://www.amazon.es/gp/dmusic/promotions/AmazonMusicUnlimited?tag=rosepac21)  
-[Amazon Prime Video](https://www.primevideo.com/?tag=rosepac21)  
-[Amazon Business](https://www.amazon.es/descubreab?tag=rosepac21)  
-[Amazon Kindle Unlimited](https://www.amazon.es/kindle-dbs/hz/signup?tag=rosepac21)
+- [Amazon Prime](https://www.amazon.es/prime?tag=rosepac21)  
+- [Amazon Music Unlimited](https://www.amazon.es/gp/dmusic/promotions/AmazonMusicUnlimited?tag=rosepac21)  
+- [Amazon Prime Video](https://www.primevideo.com/?tag=rosepac21)  
+- [Amazon Business](https://www.amazon.es/descubreab?tag=rosepac21)  
+- [Amazon Kindle Unlimited](https://www.amazon.es/kindle-dbs/hz/signup?tag=rosepac21)
 
 ### ¿Amazon ofrece ajustes de precios de Prime Day?
 
