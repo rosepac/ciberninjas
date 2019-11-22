@@ -3,8 +3,10 @@ author: rosepac
 title: "Sobre Política"
 description: 'Política, influencias y abridores de mente.'
 excerpt: 'Política, influencias y abridores de mente.'
-date: 2018-10-21
-published: false
+date: 2019-11-14
+last_modified_at: 2019-09-24 12:30:02
+published: true
+classes: wide
 permalink: /politica/
 canonical_URL: https://ciberninjas.com/politica/
 header:
@@ -14,6 +16,9 @@ header:
 #   nav: historia
 
 ---
+
+Los enlaces aquí indicados solamente son referentes históricos sobre ciertos actos políticos, declaraciones o situaciones; en cuanto algunas situaciones de interés general política.
+{: .notice--info}
 
 ## Anotaciones
 
@@ -59,9 +64,8 @@ No tiene nada que ver con la tolerancia."
 
 ## Libros & Artículos
 
-Slavoj Zizek. En Defensa de la Intolerancia
-[Marx sobre España: Contra el nacionalismo y los borbones, a favor de la revolución
-](https://www.elconfidencial.com/cultura/2018-01-02/marx-espana-nacionalismo-revolucion_1498999/)
+* [Marx sobre España: Contra el nacionalismo y los borbones, a favor de la revolución
+](https://www.elconfidencial.com/cultura/2018-01-02/marx-espana-nacionalismo-revolucion_1498999/){:target="_blank"} -desarrollo no objetivo*-
 
 [1] Esta idea viene a enlazarse con la idea de Gustavo Bueno. En tanto en cuanto él, le gusta diferenciar entre nación política o nación cultural. Esa cultura es a la que se reducen los problemas reales, en vez de dejarlos en la ¿"sección"? en la que deberían de estar para poder ser afrontados.
 
@@ -71,29 +75,31 @@ Gustavo Bueno: Panfleto contra la democracia realmente existente.
 
 ## Nacionalismos.. ¿
 
-### Historia Cataluña
+### Historia de Cataluña
 
-* [Un fiel a Puigdemont hizo listas políticas de jefes de los Mossos](https://www.elperiodico.com/es/politica/20191114/puigdemont-mossos-terradellas-lista-patriotismo-7735095)
-* [Los Mossos harán su mayor auditoría interna](http://www.rtve.es/noticias/20191029/mossos-haran-su-mayor-auditoria-interna-su-labor-disturbios-movilizaciones-sentencia-del-proces/1986486.shtml)
-* [Víctor Tarradellas](https://www.elperiodico.com/es/politica/20191113/perfil-victor-terradellas-puigdemont-7733755) \ [Fundación CatMon](https://www.lavanguardia.com/politica/20180524/443796098348/catmon-udef-victor-terradellas.html)
-* [Judit Aixalà (pareja de Víctor Tarradellas) y Ima Mis, asesora y jefe de Oficina de la Generalidad](https://tarragonadigital.com/reus/judit-aixala-ima-mis-carrec-generalitat-2)
-* [Agustí Colomines pone en apuros a Mas](https://www.elplural.com/politica/agusti-colomines-pone-en-apuros-a-mas-si-se-demuestra-que-hubo-financiacion-ilegal-me-voy_50657102) \ [Agustín Colomines](https://es.wikipedia.org/wiki/Agust%C3%AD_Colomines)
-* [Torra - 1 de Octubre de 2018](https://www.youtube.com/watch?v=oaXF98wzp90) "Apretar, sin miedo - A los CDR"
-* [Jaume Assens](https://twitter.com/Jaumeasens/status/1193925686651691009) "Los cortes de tránsito del Tsunami  - hay que esforzarse x verlo, no como desorden público, sino como ejercicio del derecho a la protesta" 🤦‍♂️
-* [Asens desautoriza a la candidata que llamó “vivales” a Puigdemont](https://www.lavanguardia.com/politica/20191108/471448246268/jaume-asens-comuns-vivales-puigdemont-laura-lopez.html)
-* [CDR](https://es.wikipedia.org/wiki/Comit%C3%A9s_de_Defensa_de_la_Rep%C3%BAblica) \ [Terra Lliure](https://es.wikipedia.org/wiki/Terra_Lliure) \ [Cronología de Terra Lliure](https://es.wikipedia.org/wiki/Terra_Lliure) \ [Exèrcit Popular Català](https://es.wikipedia.org/wiki/Ex%C3%A8rcit_Popular_Catal%C3%A0) \ [Frente Nacional de Cataluña](Frente Nacional de Cataluña) \ 
-* [José María Bultó](https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Bult%C3%B3) \ [Joaquín Viola](https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Viola)
-  * [Carles Sastre](https://es.wikipedia.org/wiki/Carles_Sastre)
-* [Víctimas de la era nazi: Ideología racial de los nazis](https://encyclopedia.ushmm.org/content/es/article/victims-of-the-nazi-era-nazi-racial-ideology)
-* [La vergüenza del reino de "oregon". Comentario final de Antono Ubieto Arteta..](http://ramonmur.blogspot.com/2010/02/la-verguenza-del-reino-de-oregon.html)
-* [Los padres del separatismo: «Los catalanes somos de raza aria, los españoles son una raza inferior»](https://okdiario.com/espana/padres-del-separatismo-catalanes-somos-raza-aria-espanoles-son-raza-inferior-2123046)
-* [Racialismo Catalán](https://es.wikipedia.org/wiki/Racialismo_catal%C3%A1n)
-* [La Historia de la Señera -real-](http://www.aulamilitar.com/LA_HISTORIA_DE_LA_SENYERA_VALENCIANA_EN_LOS_DOCUMENTOS_HISTORICOS.pdf)
-* [La Conquista de Valencia](http://salvadorcaurin.blogspot.es/i2009-11/) Antonio Ubieto Arteta
+* [Un fiel a Puigdemont hizo listas políticas de jefes de los Mossos](https://www.elperiodico.com/es/politica/20191114/puigdemont-mossos-terradellas-lista-patriotismo-7735095){:target="_blank"}
+* [Los Mossos harán su mayor auditoría interna](http://www.rtve.es/noticias/20191029/mossos-haran-su-mayor-auditoria-interna-su-labor-disturbios-movilizaciones-sentencia-del-proces/1986486.shtml){:target="_blank"}
+* [Víctor Tarradellas](https://www.elperiodico.com/es/politica/20191113/perfil-victor-terradellas-puigdemont-7733755){:target="_blank"} \ [Fundación CatMon](https://www.lavanguardia.com/politica/20180524/443796098348/catmon-udef-victor-terradellas.html){:target="_blank"}
+* [Judit Aixalà (pareja de Víctor Tarradellas) y Ima Mis, asesora y jefe de Oficina de la Generalidad](https://tarragonadigital.com/reus/judit-aixala-ima-mis-carrec-generalitat-2){:target="_blank"}
+* [Agustí Colomines pone en apuros a Mas](https://www.elplural.com/politica/agusti-colomines-pone-en-apuros-a-mas-si-se-demuestra-que-hubo-financiacion-ilegal-me-voy_50657102){:target="_blank"} \ [Agustín Colomines](https://es.wikipedia.org/wiki/Agust%C3%AD_Colomines){:target="_blank"}
+* [Torra - 1 de Octubre de 2018](https://www.youtube.com/watch?v=oaXF98wzp90){:target="_blank"} "Apretar, sin miedo - A los CDR"
+* [Jaume Assens](https://twitter.com/Jaumeasens/status/1193925686651691009){:target="_blank"} "Los cortes de tránsito del Tsunami  - hay que esforzarse x verlo, no como desorden público, sino como ejercicio del derecho a la protesta" 🤦‍♂️
+* [Asens desautoriza a la candidata que llamó “vivales” a Puigdemont](https://www.lavanguardia.com/politica/20191108/471448246268/jaume-asens-comuns-vivales-puigdemont-laura-lopez.html){:target="_blank"}
+* [CDR](https://es.wikipedia.org/wiki/Comit%C3%A9s_de_Defensa_de_la_Rep%C3%BAblica){:target="_blank"} \ [Terra Lliure](https://es.wikipedia.org/wiki/Terra_Lliure){:target="_blank"} \ [Cronología de Terra Lliure](https://es.wikipedia.org/wiki/Terra_Lliure){:target="_blank"} \ [Exèrcit Popular Català](https://es.wikipedia.org/wiki/Ex%C3%A8rcit_Popular_Catal%C3%A0){:target="_blank"} \ [Frente Nacional de Cataluña](https://es.wikipedia.org/wiki/Frente_Nacional_de_Catalu%C3%B1a){:target="_blank"} \ 
+* [José María Bultó](https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Bult%C3%B3){:target="_blank"} \ [Joaquín Viola](https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Viola){:target="_blank"}
+  * [Carles Sastre](https://es.wikipedia.org/wiki/Carles_Sastre){:target="_blank"}
+* [Víctimas de la era nazi: Ideología racial de los nazis](https://encyclopedia.ushmm.org/content/es/article/victims-of-the-nazi-era-nazi-racial-ideology){:target="_blank"}
+* [La vergüenza del reino de "oregon". Comentario final de Antono Ubieto Arteta..](http://ramonmur.blogspot.com/2010/02/la-verguenza-del-reino-de-oregon.html){:target="_blank"}
+* [Los padres del separatismo: «Los catalanes somos de raza aria, los españoles son una raza inferior»](https://okdiario.com/espana/padres-del-separatismo-catalanes-somos-raza-aria-espanoles-son-raza-inferior-2123046){:target="_blank"}
+* [Racialismo Catalán](https://es.wikipedia.org/wiki/Racialismo_catal%C3%A1n){:target="_blank"}
+* [La Historia de la Señera -real-](http://www.aulamilitar.com/LA_HISTORIA_DE_LA_SENYERA_VALENCIANA_EN_LOS_DOCUMENTOS_HISTORICOS.pdf){:target="_blank"}
+* [La Conquista de Valencia](http://salvadorcaurin.blogspot.es/i2009-11/){:target="_blank"} Antonio Ubieto Arteta
   * El origen histórico de la Señera.
   * ¿Dice usted que las barras son de Aragón y no de Cataluña?
-* [Reino de Aragón -wikipedia-](https://es.wikipedia.org/wiki/Reino_de_Arag%C3%B3n) [Reinos Ibéricos en 1.400](https://es.wikipedia.org/wiki/Reino_de_Arag%C3%B3n#/media/Archivo:Iberian_Kingdoms_in_1400.svg) (IMAGEN)
+* [Reino de Aragón -wikipedia-](https://es.wikipedia.org/wiki/Reino_de_Arag%C3%B3n){:target="_blank"} [Reinos Ibéricos en 1.400](https://es.wikipedia.org/wiki/Reino_de_Arag%C3%B3n#/media/Archivo:Iberian_Kingdoms_in_1400.svg){:target="_blank"} (IMAGEN)
 
-👉 [Política](https://ciberninjas.com/politica/)
+---
 
-👉 [Lecturas](https://ciberninjas.com/lecturas/)
+👉 [Lecturas](/lecturas/)
+
+👉 [Referentes](/referentes-historicos/)
