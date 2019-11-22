@@ -6,6 +6,7 @@ excerpt: 'Personajes y Referentes, de influencia o interés de sus pensamientos.
 date: 2018-04-05
 published: false
 permalink: /referentes-historicos/
+classes: wide
 canonical_URL: https://ciberninjas.com/referentes-historicos/
 # header:
 #   teaser: https://images.computerhistory.org/fellows/dsshirley.jpg
