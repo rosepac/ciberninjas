@@ -101,7 +101,7 @@ El Centro de complementos incorporado obtiene automáticamente la lista de compl
 
 ## 💿 Descargar Gephi
 
-[⬇ WEB DE DESCARGA OFICIAL](https://gephi.org/users/download/ "Página de Descarga de las Varias Versiones de Gephi desde la Web Oficial"){: .btn .btn--danger .btn--large .align-center}
+[⬇ WEB DE DESCARGA OFICIAL ⬇](https://gephi.org/users/download/ "Página de Descarga de las Varias Versiones de Gephi desde la Web Oficial"){: .btn .btn--warning .btn--large .align-center}
 
 **Recursos**: Manejar Datos de [Twitter](/twitter/)
 {: .notice--primary}
