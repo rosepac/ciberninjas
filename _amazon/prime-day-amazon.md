@@ -1,6 +1,6 @@
 ---
 author_profile: true
-title: "😻 🎁 Prime Day 2019: Los Descuentos Más Espectaculares"
+title: "😻 🎁 Prime Day 2019\: Los Mejores Descuentos"
 description: "😻 🎁 Prime Day Amazon 2019 🔥 todas las mejores ofertas y descuentos para estos dos grandes días de ofertas de productos electrónicos, informáticos, tecnológicos."
 excerpt: "😻 🎁 Prime Day Amazon 2019 🔥 todas las mejores ofertas y descuentos para estos dos grandes días de ofertas de productos electrónicos, informáticos, tecnológicos."
 permalink: /prime-day-amazon/
