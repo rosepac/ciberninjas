@@ -2,7 +2,7 @@
 title: "ICONO+TITULO"
 description: 'RS'
 excerpt: 'RS'
-date: 2019-09-13T22:00:00.000+00:00
+date: 2019-12-11T22:00:00.000+00:00
 published: false
 # header:
 #   overlay_image: ""
@@ -12,6 +12,11 @@ published: false
 permalink: /criptomonedas/
 
 ---
+
+## Artículos
+
+- [Desmintiendo mitos sobre Bitcoin – Nivel principiante (Parte I)](https://www.criptonoticias.com/educacion/desmintiendo-mitos-bitcoin-principiante-parte-i/)
+- [Desmintiendo mitos sobre Bitcoin – Nivel principiante (Parte II)](https://www.criptonoticias.com/educacion/desmintiendo-mitos-bitcoin-principiante-parte-ii/)
 
 ## Los Mejores Blogs y Foros de Criptomonedas en Español
 
