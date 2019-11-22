@@ -3,7 +3,7 @@ layout: collection
 title: "Las Mejores Ofertas de Amazon durante Todo el Año"
 description: "Las Mejores Ofertas de Amazon durante Todo el Año"
 excerpt: "Las Mejores Ofertas de Amazon durante Todo el Año"
-collection: amazono
+collection: amazon
 permalink: /catalogo/amazon/
 canonical_URL: https://ciberninjas.com/catalogo/amazon/
 published: true
