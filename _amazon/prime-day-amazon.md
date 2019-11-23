@@ -1,8 +1,8 @@
 ---
 author_profile: true
-title: "😻 🎁 Los Mejores Descuentos del Prime Day 2019"
-description: "😻 🎁 Prime Day Amazon 2019 🔥 todas las mejores ofertas y descuentos para estos dos grandes días de ofertas de productos electrónicos, informáticos, tecnológicos."
-excerpt: "😻 🎁 Prime Day Amazon 2019 🔥 todas las mejores ofertas y descuentos para estos dos grandes días de ofertas de productos electrónicos, informáticos, tecnológicos."
+title: "🎁 Los Mejores Descuentos del Prime Day 2019"
+description: "😻 Prime Day Amazon 2019 🔥 todas las mejores ofertas y descuentos para estos dos grandes días de ofertas de productos electrónicos, informáticos, tecnológicos."
+excerpt: "😻 Prime Day Amazon 2019 🔥 todas las mejores ofertas y descuentos para estos dos grandes días de ofertas de productos electrónicos, informáticos, tecnológicos."
 permalink: /prime-day-amazon/
 canonical_URL: https://ciberninjas.com/prime-day-amazon/
 published: true
@@ -40,11 +40,11 @@ En esta publicación podrás ver una selección de [las mejores ofertas de compo
 
 Además, puedes encontrar mucho más, en las diferentes secciones globales:
 
-- [20% menos en productos reacondicionados](https://amzn.to/2jXNOnE) ¡APLICABLE A LA HORA DEL PAGO!
-- [20% de descuento en Discos Sólidos M.2 y Memorias RAM](https://amzn.to/2jYYTF1)
-- [30 % de descuentos en productos de Discos Duros y Memorias](https://amzn.to/2k6hG0V)
-- [Importantes descuentos en Discos Duros Externos de Western Digital](https://amzn.to/2jZ0uuv)
-- [Los mejores descuentos en Monitores](https://amzn.to/2lCIzu5) En marcas como: BenQ, HP, Philips, Samsung.
+* [20% menos en productos reacondicionados](https://amzn.to/2jXNOnE) ¡APLICABLE A LA HORA DEL PAGO!
+* [20% de descuento en Discos Sólidos M.2 y Memorias RAM](https://amzn.to/2jYYTF1)
+* [30 % de descuentos en productos de Discos Duros y Memorias](https://amzn.to/2k6hG0V)
+* [Importantes descuentos en Discos Duros Externos de Western Digital](https://amzn.to/2jZ0uuv)
+* [Los mejores descuentos en Monitores](https://amzn.to/2lCIzu5) En marcas como: BenQ, HP, Philips, Samsung.
 
 ## Ofertas de Dispositivo de Diseño Gráfico
 
@@ -60,8 +60,8 @@ Además, puedes encontrar mucho más, en las diferentes secciones globales:
 
 [VER TODAS LAS OFERTAS](https://amzn.to/2ld3fIS)
 
-- [Dispositivos de audio: micrófonos, auriculares y controladores](https://amzn.to/2ld3fIS). 
-- [40% en auriculares de alta gama](https://amzn.to/2jXCecc)
+* [Dispositivos de audio: micrófonos, auriculares y controladores](https://amzn.to/2ld3fIS). 
+* [40% en auriculares de alta gama](https://amzn.to/2jXCecc)
 
 ![logitech](https://i.ibb.co/QfJrsjS/logitech.jpg)  
 [Logitech G430](https://amzn.to/2OcC27h) – Auriculares Gaming para PC, Xbox One, PS4 y Switch, Color Negro y Azul
@@ -72,9 +72,8 @@ Apple está ofreciendo en Amazon un descuento de hasta un [35% en dispositivos A
 
 La mejor oferta es la de los iPhone 6s Plus con hasta un 38% de descuento, quedando entre los 330 € del modelo rosa hasta los 399 € de los modelos gris espacil, gris plata o plata con mayor capacidad:
 
-- [Apple iPhone 6s Plus (de 32GB)](https://amzn.to/2xPA2Xo) – Gris Espacial, Oro, Plata, Gris o Oro Rosa
-- [Apple iPhone 6s Plus (de 128GB)](https://amzn.to/2lAN3RQ) – Gris Espacial, Oro, Plata, Gris o Oro Rosa
-- 
+* [Apple iPhone 6s Plus (de 32GB)](https://amzn.to/2xPA2Xo) – Gris Espacial, Oro, Plata, Gris o Oro Rosa
+* [Apple iPhone 6s Plus (de 128GB)](https://amzn.to/2lAN3RQ) – Gris Espacial, Oro, Plata, Gris o Oro Rosa
 
 ## Ofertas de Dispositivos de Amazon
 
@@ -154,14 +153,11 @@ Si desea ponerse al día con las lecturas de verano , a través de Amazon’s Pr
 
 ### Kindle
 
-Varios modelos diferentes de Amazon Kindle están a la venta a través de Amazon Prime Day. Para los lectores que buscan llevar sus libros a la playa o la piscina, Paperwhite es un lector electrónico a prueba de agua que almacena entre 8GB y 32GB y tiene un descuento desde $ 84.99 (originalmente $ 129.99). Del mismo modo, el modelo más nuevo del Kindle básico se está vendiendo por $ 59.99, un descuento de $ 89.99. Las compras de cualquiera de los Kindle vienen con un crédito de eBook de $ 5, que se puede usar para muchos libros disponibles en Amazon, desde Less, de Andrew Sean Greer , ganador del premio Pulitzer, hasta el éxito de ventas CIRCE de Madeline Miller.
+Varios modelos diferentes de Amazon Kindle están a la venta a través de Amazon Prime Day. Para los lectores que buscan llevar sus libros a la playa o la piscina, Paperwhite es un lector electrónico a prueba de agua que almacena entre 8GB y 32GB. Del mismo modo, el modelo más nuevo del Kindle básico. Las compras de cualquiera de los Kindle vienen con un crédito de eBooks.
 
-[Kindle Paperwhite](https://amzn.to/2lCjLlR)  
-Resistente al agua, pantalla de alta resolución de 6″, 8 GB – incluye ofertas especiales
-
-[Nuevo Kindle](https://amzn.to/2jYgSLP) ahora con luz frontal integrada, negro.
-
-[Nuevo Kindle](https://amzn.to/2jZgBZ1) ahora con luz frontal integrada, blanco.
+* [Kindle Paperwhite](https://amzn.to/2lCjLlR) Resistente al agua, pantalla de alta resolución de 6″, 8 GB – incluye ofertas especiales
+* [Nuevo Kindle](https://amzn.to/2jYgSLP) ahora con luz frontal integrada, negro.
+* [Nuevo Kindle](https://amzn.to/2jZgBZ1) ahora con luz frontal integrada, blanco.
 
 ### Kindle Unlimited
 
@@ -171,7 +167,7 @@ Los nuevos miembros pueden aprovechar una oferta de 30 días por 0 € que les d
 
 ## Preguntas y Respuestas
 
-### No soy un miembro de Amazon Prime, ¿Puedo comprar ofertas de Prime Day?
+### Si NO soy miembro Prime, ¿Puedo comprar ofertas en Prime Day?
 
 Prime Day es el día de “gracias” de Amazon a los miembros de Prime. Como resultado, los compradores deben ser suscriptores de Amazon Prime para aprovechar cualquier trato. Sin embargo, si no eres un miembro Prime, todavía hay esperanzas.
 
@@ -187,11 +183,11 @@ Después de que termine el mes, puedes cancelar sin ningún tipo de compromiso. 
 
 ### ¿Qué servicios interesantes ofrece Amazon?
 
-- [Amazon Prime](https://www.amazon.es/prime?tag=rosepac21)  
-- [Amazon Music Unlimited](https://www.amazon.es/gp/dmusic/promotions/AmazonMusicUnlimited?tag=rosepac21)  
-- [Amazon Prime Video](https://www.primevideo.com/?tag=rosepac21)  
-- [Amazon Business](https://www.amazon.es/descubreab?tag=rosepac21)  
-- [Amazon Kindle Unlimited](https://www.amazon.es/kindle-dbs/hz/signup?tag=rosepac21)
+* [Amazon Prime](https://www.amazon.es/prime?tag=rosepac21)  
+* [Amazon Music Unlimited](https://www.amazon.es/gp/dmusic/promotions/AmazonMusicUnlimited?tag=rosepac21)  
+* [Amazon Prime Video](https://www.primevideo.com/?tag=rosepac21)  
+* [Amazon Business](https://www.amazon.es/descubreab?tag=rosepac21)  
+* [Amazon Kindle Unlimited](https://www.amazon.es/kindle-dbs/hz/signup?tag=rosepac21)
 
 ### ¿Amazon ofrece ajustes de precios de Prime Day?
 
