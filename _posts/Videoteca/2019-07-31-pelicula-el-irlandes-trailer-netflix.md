@@ -1,8 +1,8 @@
 ---
 author_profile: false
-title: "🎥 El Irlandés - La Nueva Gran Serie de Netflix y Martin Scorsese sobre la Mafía Americana"
-description: "🎥 El Irlandés - La Nueva Gran Serie de Netflix y Martin Scorsese sobre la Mafía Americana"
-excerpt: "🎥 El Irlandés - La Nueva Gran Serie de Netflix y Martin Scorsese sobre la Mafía Americana"
+title: "🎥 El Irlandés - La Nueva Gran Película de Netflix y Martin Scorsese sobre la Mafía Americana"
+description: "🎥 El Irlandés - La Nueva Gran Película de Netflix y Martin Scorsese sobre la Mafía Americana"
+excerpt: "🎥 El Irlandés - La Nueva Gran Película de Netflix y Martin Scorsese sobre la Mafía Americana"
 header:
   video:
     id: gZ6Oq9F3ho0
