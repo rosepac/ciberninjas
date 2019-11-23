@@ -43,7 +43,7 @@ Aprovechando las rebajas del Black Friday, desde Ciberninjas nos gustaría compa
 
 Ayuda a tus pequeños a disfrutar de reinventar todas las escenas de la película de Frozen dentro de este magnífico palacio de 2 plantas con puente deslizante, escalera giratoria y todo un parque de juegos que te llevará al mundo de Disney Frozen. Descubre los peldaños ocultos para investigar la planta superior, date veloces paseos con el trineo de 3 carruajes, abre las puertas y desliza el puente para entrar y salir de este impresionante detallado castillo. Incluye a Elsa, Olaf, Merengue y 4 minifiguras de Nevaditos, una tetera, un pastel, y algunos otros más accesorios.
 
-[⛄ ¡CÓMPRALO YA! 👸](https://amzn.to/2s33Ksb){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[⛄ ¡CÓMPRALO YA! 👸](https://amzn.to/2s33Ksb){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## Casa del Árbol Encantada
 
