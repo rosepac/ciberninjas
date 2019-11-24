@@ -2,17 +2,17 @@
 title: 👩‍🔧 ▷ Hiren´s BootCD PE, Aprender desde Cero
 description: "🔨 Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
 excerpt: "🔨 Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
-date: 2019-10-19T18:20:00.000+00:00
-last_modified_at:
+date: 2019-10-19 14:25:00 +0200
+last_modified_at: 2019-10-19 16:25:00 +0200
 author_profile: true
 permalink: /hirens-bootcd-pe/
 canonical_URL: https://ciberninjas.com/hirens-bootcd-pe/
 comments: true
 header:
-  image: "https://i.ibb.co/BNcB3fq/Hirens-Boot-CD-PE-1200x675.png"
+  teaser: "https://i.ibb.co/BNcB3fq/Hirens-Boot-CD-PE-1200x675.png"
+  overlay_image: "https://i.ibb.co/BNcB3fq/Hirens-Boot-CD-PE-1200x675.png"
   image_description: Hiren´s BootCD PE, generador de sitios estáticos | Ciberninjas
   caption: "**Créditos**: Captura de Pantalla Propiedad de Hiren´s BootCD PE"
-  teaser: "https://i.ibb.co/BNcB3fq/Hirens-Boot-CD-PE-1200x675.png"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -47,7 +47,7 @@ Sabemos que hay toneladas de software útil para propósitos de uso diario. Pero
 
 Hiren's BootCD PE debe incluir las herramientas gratuitas más pequeñas y mejores solo para los casos de emergencia.
 
-## 🔧 Herramientas Incluidas
+## 🔧 Software Incluidos
 
 ### Herramientas BCD-MBR
 
@@ -161,7 +161,7 @@ Hiren's BootCD PE debe incluir las herramientas gratuitas más pequeñas y mejor
 
 ## 💿 Descargar Hiren´s BootCD PE
 
-[⬇ DESCARGAR](https://www.hirensbootcd.org/files/HBCD_PE_x64.iso "Descarga Directa de la ISO de Hiren Boot CD PE x64 desde la Web Oficial"){: .btn .btn--danger .btn--large .align-center}
+[⬇ DESCARGAR ⬇](https://www.hirensbootcd.org/files/HBCD_PE_x64.iso "Descarga Directa de la ISO de Hiren Boot CD PE x64 desde la Web Oficial"){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## ❔ Preguntas Frecuentes
 
@@ -195,5 +195,5 @@ Los archivos que descarga de nuestro sitio web  NO contienen virus.  Si recibe u
 
 Lamentablemente, no podemos ofrecer ese tipo de ayuda con o sin precio.
 
-**Fuente**: Ver [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren")
+**Fuente**: Ver [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren"){:target="_blank"}
 {: .notice--info}
