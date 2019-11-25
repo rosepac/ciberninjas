@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author_profile: false
 title: "⛄ Frozen 2, tu Mejor Regalo esta Navidad"
 description: "👸 Ofertas de juguetes en Black Friday."
 excerpt: "👸 Ofertas de juguetes en Black Friday."
@@ -18,13 +18,19 @@ header:
   actions:
     - label: "Black Friday 2019"
       url: "/black-friday-amazon/"
+  actions:
+    - label: "Prime Day 2019"
+      url: "/prime-day-amazon/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
+sidebar:
+- title: "Catálogo"
+  nav: tienda
 ---
 
-[👩‍🔧 Legos](/disney-frozen-amazon/#-legos){: .btn .btn--inverse} [👨‍🏫 Juguetes Didácticos](/disney-frozen-amazon/#-juegos-didácticos){: .btn .btn--inverse} [👸 Muñecos Funkos Pop](/disney-frozen-amazon/#-muñecos-funkos-pop){: .btn .btn--inverse}
+[👨‍🏫 Juguetes Didácticos](/disney-frozen-amazon/#-juegos-didácticos){: .btn .btn--inverse .btn--x-large} [👩‍🔧 Legos](/disney-frozen-amazon/#-legos){: .btn .btn--inverse .btn--x-large} [👸 Muñecos Funkos Pop](/disney-frozen-amazon/#-muñecos-funkos-pop){: .btn .btn--inverse .btn--x-large}
 
 El actual estreno de Frozen 2 hará de sus personajes el mejor regalo para todos los pequeños y no tan pequeños durante estas Navidades que ya están a la vuelta de la esquina.
 
@@ -32,12 +38,11 @@ El actual estreno de Frozen 2 hará de sus personajes el mejor regalo para todos
 
 Aprovechando las rebajas del Black Friday, desde Ciberninjas nos gustaría compartir los mejores juguetes relacionados con nuestros:  Elsa, Olaff, Ana, Kristoff, etc.
 
-[🧸 ¡PRÓXIMAMENTE, MÁS JUGUETES NUEVOS DE FROZEN 2! 👸](/catalogo/amazon/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🧸 ¡PRÓXIMAMENTE, MÁS JUGUETES DE FROZEN 2! 👸](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
 
 ## 👩‍🔧 Legos
 
-[🎁 VER TODOS LOS LEGO DE FROZEN II 👸](https://amzn.to/33em6n9){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
+[🎁 VER TODOS LOS LEGO DE FROZEN II 👸](https://amzn.to/33em6n9){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 ## Palacio Mágico de Hielo de Elsa
 
 [![Palacio Mágico de Hielo de Elsa, Frozen 2, Lego](https://i.ibb.co/rZ27c9K/image.png)](https://amzn.to/2s33Ksb){:target="_blank"}
@@ -135,8 +140,6 @@ Muchos Más..
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QVSST4C&linkId=19c8dd5444bb437b2515750c80efcd27"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QQ2LN3D&linkId=d15d7a70ece170763ee6d4c8759b7161"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QTVBFT9&linkId=2deec53a03d856cf543769cf567c8639"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QSBWS6G&linkId=f97000a569061bc7efd4453c8ba24e54"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QSBWV7M&linkId=13f72522e2b27bbb158a070f11df3f8b"></iframe>
 
-Elsa y Ana, en su versión más joven..
-
 ## Funko Pop Elsa Joven
 
 [![Funko Pop Elsa, Frozen 2, Lego](https://i.ibb.co/HzpWbSL/image.png)](https://amzn.to/2Obimyl){:target="_blank"}
@@ -150,3 +153,5 @@ Elsa y Ana, en su versión más joven..
 [⛄ ¡CÓMPRALO YA! 👸](https://amzn.to/2OEACz3){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QQ2LN3D&linkId=45875667efd75790694cea18be565371"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QQ2LJK8&linkId=0a27214ae7d4185f6656af5afb448f00"></iframe>
+
+[🎁 BLACK FRIDAY 2019 🎁](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
