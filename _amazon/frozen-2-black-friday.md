@@ -18,7 +18,6 @@ header:
   actions:
     - label: "Black Friday 2019"
       url: "/black-friday-amazon/"
-  actions:
     - label: "Prime Day 2019"
       url: "/prime-day-amazon/"
 toc: true
