@@ -86,10 +86,13 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 
 * [Análisis de Datos (2014)](http://ocw.uc3m.es/ingenieria-informatica/analisis-de-datos){:target="_blank"} (OCW)
 * [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank"} (UniPython)
+* [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank"} (Coursera)
 * [Aprendizaje Automático para el Análisis de Datos (2013)](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico-para-el-analisis-de-datos-2013){:target="_blank"} (OCW)
+* [Aspectos básicos de la planificación y la gestión de proyectos](https://www.coursera.org/learn/uva-darden-project-management-es){:target="_blank"} (Coursera)
 * [Big Data, el valor añadido de los datos de un negocio](https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio){:target="_blank"} (MiriadaX)
 * [Big Data Marketing](https://miriadax.net/web/big-data-marketing){:target="_blank"} (MiriadaX)
 * [Big Data para una ciudad inteligente](https://miriadax.net/web/big-data-para-una-ciudad-inteligente-2-edicion-){:target="_blank"} (MiriadaX)
+* [Curso Intensivo de Aprendizaje Autómatico - Google](https://developers.google.com/machine-learning/crash-course){:target="_blank"} (Google Developers)
 * [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95){:target="_blank"} (OCW)
 * [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-){:target="_blank"} (MiriadaX)
 * [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau){:target="_blank"} (Alberto Prieto Espinosa, YouTube)
@@ -228,7 +231,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 ## Cadena de Bloques 🔗
 
 * [Curso de Blockchain en Python](https://unipython.com/curso-de-blockchain){:target="_blank"} (UniPython)
-
+* [La Disrupción del Blockchain](https://www.coursera.org/learn/blockchain-espanol){:target="_blank"} (Coursera)
 
 ## Criptomonedas 💰
 
@@ -259,10 +262,10 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 
 * [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank"} (Udemy)
 * [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-){:target="_blank"} (MiriadaX)
+* [Aspectos básicos de la planificación y la gestión de proyectos](https://www.coursera.org/learn/uva-darden-project-management-es){:target="_blank"} (Coursera)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0){:target="_blank"} (edx)
 * [Creación y Desarrollo de Redes Sociales](http://ocw.um.es/cc.-sociales/creacion-y-desarrollo-de-redes-sociales){:target="_blank"} (OCW)
 * [Curso de Git y Github](https://www.youtube.com/playlist?list=PL353A30C7CCE5098F){:target="_blank"} (Jesús Conde, Youtube)
-* [Curso Intensivo de Aprendizaje Autómatico - Google](https://developers.google.com/machine-learning/crash-course){:target="_blank"} (Google Developers)
 * [De 0 a 100 con Grunt JS](https://www.udemy.com/de-0-a-100-con-grunt-js){:target="_blank"} (Udemy)
 * [De la idea al plan de proyectos en 10 pasos (2014)](https://ocw.ehu.eus/course/view.php?id=336){:target="_blank"} (OCW)
 * [Fundamentos de Git y Github](https://devcode.la/cursos/git){:target="_blank"} (DevCode)
