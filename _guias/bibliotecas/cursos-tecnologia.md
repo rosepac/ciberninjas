@@ -46,9 +46,9 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 
 ## 🗃 Meta-Listas
 
-* [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/)
+* [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/) Principalmente basados en redes y los servicios de Microsoft (Python, Azure, Machine Learning, Inteligencia Artificial, Power Apps, Microsoft, SQL, Xamarin, R, Big Data)
 * [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice){:target="_blank"} (Github)
-* [Cursos en Inglés]() (Hackr io)
+<!-- [Cursos en Inglés]() (Hackr io) -->
 * [Miriadax](https://miriadax.net/cursos){:target="_blank"}
 
 ## 📁 Bases de Datos
@@ -80,7 +80,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion){:target="_blank"} (OCW)
 * [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134){:target="_blank"} (OCW)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Big Data 👨‍👩‍👦
 
@@ -90,22 +90,21 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Big Data, el valor añadido de los datos de un negocio](https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio){:target="_blank"} (MiriadaX)
 * [Big Data Marketing](https://miriadax.net/web/big-data-marketing){:target="_blank"} (MiriadaX)
 * [Big Data para una ciudad inteligente](https://miriadax.net/web/big-data-para-una-ciudad-inteligente-2-edicion-){:target="_blank"} (MiriadaX)
-* [Componentes avanzados de una solución de Big Data](https://channel9.msdn.com/Shows/Componentes-avanzados-de-una-solucin-de-Big-Data){:target="_blank"} (Microsoft Channel 9)
-* [Componentes básicos de una solución de Big Data](https://channel9.msdn.com/Series/Componentes-bsicos-de-una-solucin-de-Big-Data){:target="_blank"} (Microsoft Channel 9)
 * [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95){:target="_blank"} (OCW)
 * [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-){:target="_blank"} (MiriadaX)
-* [Power BI en ambientes empresariales](https://mva.microsoft.com/es-es/training-courses/power-bi-en-ambientes-empresariales-17802){:target="_blank"} (Microsoft Channel 9)
 * [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau){:target="_blank"} (Alberto Prieto Espinosa, YouTube)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+## SQL
+
+* [Comienza con SQL: descarga los datos tu mismo con SQL](https://www.udemy.com/comienza-con-sql) (Udemy)
+* [Introducción a SQL con Oracle 11g](https://www.udemy.com/introduccion-a-sql-con-oracle-11g) (Udemy)
+
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 🔬 Ciencias de la Computación
 
 * [Algoritmo Avanzado (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/algoritmia-avanzada-2006.html){:target="_blank"} (OCW)
 * [Algoritmos y estructuras de datos](https://www.youtube.com/playlist?list=PLeWI3XlFEVOXMwSCkvJinRVEnLksnBOPr){:target="_blank"} (CodeJobs, YouTube)
-* [Análisis de Datos con R](https://mva.microsoft.com/es-es/training-courses/anlisis-de-datos-con-r-nivel-avanzado-17772){:target="_blank"} (Microsoft Channel 9)
-* [Análisis de Datos con R: Nivel Avanzado](https://mva.microsoft.com/es-es/training-courses/anlisis-de-datos-con-r-nivel-avanzado-17772){:target="_blank"} (Microsoft Channel 9)
-* [Análisis de Datos con R: Nivel Intermedio](https://mva.microsoft.com/es-es/training-courses/anlisis-de-datos-con-r-nivel-intermedio-17092){:target="_blank"} (Microsoft Channel 9)
 * [Análisis de Sistemas](http://www.fceia.unr.edu.ar/asist){:target="_blank"} (OCW)
 * [Aplicaciones de la Teoría de Grafos a la Vida Real (I)](https://www.edx.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-1-1){:target="_blank"} (edx)
 * [Aplicaciones de la Teoría de Grafos a la vida real II](https://www.edx.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-2-1){:target="_blank"} (edx)
@@ -149,6 +148,8 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Fundamentos de Comunicaciones Ópticas](https://www.edx.org/course/fundamentos-de-comunicaciones-opticas-upvalenciax-fco201x-1){:target="_blank"} (edx)
 * [Fundamentos de Informática (2008)](http://ocw.bib.upct.es/course/view.php?id=112){:target="_blank"} (OCW)
 * [Fundamentos de Ingeniería del Software](http://ocw.um.es/ingenierias/fundamentos-de-ingenieria-del-software){:target="_blank"} (OCW)
+* [Fundamentos de Programación: Algoritmos en Java y Javascript](https://www.udemy.com/fundamentos-de-programacion-algoritmos-en-java-y-javascript) (Udemy)
+* [Fundamentos de Programación: PseInt, PHP y JavaScript](https://www.udemy.com/fundamentos-de-programacion-aprende-con-pseudocodigo-pseint){:target="_blank"} (Udemy)
 * [Fundamentos Físicos de la Informática (2010)](http://ocw.uv.es/ingenieria-y-arquitectura/1-4/Course_listing){:target="_blank"} (OCW)
 * [Fundamentos Físicos de la Informática (2013)](http://ocw.uma.es/ingenierias/fundamentos-fisicos-de-la-informatica-1){:target="_blank"} (OCW)
 * [Historia de la informática y metodología de la ciencia (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/historia-de-la-informatica-y-metodologia-de-la-ciencia-2007.html){:target="_blank"} (OCW)
@@ -162,6 +163,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Ingieniería Electrónica y Automática - PLC (2014)](http://isa.uniovi.es/docencia/iea/){:target="_blank"} (OCW)
 * [Iniciándonos en el Álgebra](https://www.udemy.com/iniciandonos-en-el-algebra){:target="_blank"} (Udemy)
 * [Introducción a la informática: Codificación de la información (2015)](http://ocw.uji.es/curso/922898){:target="_blank"} (OCW)
+* [Introducción a la programación para ciencias e ingieniería](https://miriadax.net/web/introduccion-programacion-ciencias-ingenieria-2edicion) (MiriadaX)
 * [Introducción a la teoría de autómatas (2014)](https://ocw.ehu.eus/course/view.php?id=296){:target="_blank"} (OCW)
 * [Introducción a la teoría de códigos (2107)](https://ocw.ehu.eus/course/view.php?id=446){:target="_blank"} (OCW)
 * [Introducción a los PLC](https://www.udemy.com/introduccion-a-los-automatas-plc){:target="_blank"} (Udemy)
@@ -179,6 +181,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Principios de Ingieniería Informática (2012)](http://ocw.uc3m.es/ingenieria-informatica/principios-de-ingenieria-informatica){:target="_blank"} (OCW)
 * [Programación Automática (2013)](http://ocw.uc3m.es/ingenieria-informatica/programacion-automatica-2013){:target="_blank"} (OCW)
 * [Programación concurrente (2009)](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/programacion-concurrente){:target="_blank"} (OCW)
+* [Programación concurrente en Linux (2016)](https://ocw.ehu.eus/course/view.php?id=399) (OCW)
 * [Programación Estadística, Programación en R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r){:target="_blank"} (Coursera)
 * [Programación Multimedia (2013)](http://ocw.uv.es/ingenieria-y-arquitectura/programacionmultimedia/Course_listing){:target="_blank"} (OCW)
 * [Programación y Estructuras de Datos (2009)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-y-estructuras-de-datos-2009.html){:target="_blank"} (OWC)
@@ -197,7 +200,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [UML. Fundamentos, diagramas. Caso de estudio](https://www.udemy.com/uml-fundamentos-5-diagramas-caso-de-estudio){:target="_blank"} (Udemy)
 * [Variable compleja para métodos matemáticos. Parte 1](https://www.udemy.com/variable-compleja-para-metodos-matematicos-parte-1){:target="_blank"} (Udemy)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 🛒 Comercio Electrónico
 
@@ -218,7 +221,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://www.udemy.com/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa){:target="_blank"} (Udemy)
 * [Tienda Online con WooCommerce desde cero](https://www.udemy.com/tienda-online-con-woocommerce-desde-cero){:target="_blank"} (Udemy)
 
-[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--warning .btn--large}
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## ⛓ Blockchain
 
@@ -242,7 +245,15 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://www.udemy.com/curso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx){:target="_blank"} (Udemy)
 * [Trading Forex para principiantes - Estrategias Clave](https://www.udemy.com/estrategias-trading-forex-y-operaciones-bursatiles){:target="_blank"} (Udemy)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## 🐧 Ecosistema de Código Abierto
+
+* [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html) (OCW)
+
+### Linux <i class="fab fa-linux"></i>
+
+### Ubuntu <i class="fab fa-ubuntu"></i>
 
 ## 💼 Flujos de Trabajo
 
@@ -254,7 +265,6 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Curso Intensivo de Aprendizaje Autómatico - Google](https://developers.google.com/machine-learning/crash-course){:target="_blank"} (Google Developers)
 * [De 0 a 100 con Grunt JS](https://www.udemy.com/de-0-a-100-con-grunt-js){:target="_blank"} (Udemy)
 * [De la idea al plan de proyectos en 10 pasos (2014)](https://ocw.ehu.eus/course/view.php?id=336){:target="_blank"} (OCW)
-* [Fundamentos de ALM](https://mva.microsoft.com/es-es/training-courses/fundamentos-de-alm-16960){:target="_blank"} (Microsoft Channel 9)
 * [Fundamentos de Git y Github](https://devcode.la/cursos/git){:target="_blank"} (DevCode)
 * [Gestión de proyectos (2013)](https://ocw.ehu.eus/course/view.php?id=202){:target="_blank"} (OCW)
 * [Gestión de proyectos con metodologías ágiles y enfoques Lean](https://miriadax.net/web/gestion-de-proyectos-con-metodologias-agiles-y-enfoques-lean-3-edicion-){:target="_blank"} (MiriadaX)
@@ -276,16 +286,18 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158){:target="_blank"} (OCW)
 * [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119){:target="_blank"} (OCW)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+### Estudiar 💭
+
+* [Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles](https://www.coursera.org/learn/aprendiendo-a-aprender){:target="_blank"}
+
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 Ofimática
 
-* [Análisis de datos con Excel](https://mva.microsoft.com/es-es/training-courses/anlisis-de-datos-con-excel-17479){:target="_blank"} (Microsoft Channel 9)
 * [Aprende a usar Google Drive de una manera fácil y sencilla](https://www.udemy.com/aprende-a-usar-google-drive-de-una-manera-facil-y-sencilla){:target="_blank"} (Udemy)
 * [Aprende fácilmente funciones en Excel](https://www.udemy.com/aprende-facilmente-funciones-en-excel){:target="_blank"} (Udemy)
 * [Cómo hacer screenshots para tus APPS de manera fácil](https://www.udemy.com/como-hacer-screenshots-para-tus-apps-de-manera-facil){:target="_blank"} (Udemy)
 * [Computación básica desde cero](https://www.udemy.com/computacion-basica-desde-cero-hasta-redes-sociales){:target="_blank"} (Udemy)
-* [Conociendo Lync Server 2013](https://mva.microsoft.com/es-es/training-courses/conociendo-lync-server-2013--11252){:target="_blank"} (Microsoft Channel 9)
 * [Contabilidad básica](https://www.academiajaf.com/como/aprender/contabilidad/contabilidad-curso-basico/135-capitulo-001-introduccion-a-la-contabilidad){:target="_blank"} (Academia JAF)
 * [Creación y retoque de imágenes con software libre](https://miriadax.net/web/creacion-y-retoque-2-ed){:target="_blank"} (MiriadaX)
 * [Curso de Acces 2010 Avanzado](https://www.youtube.com/playlist?list=PL87EB5DB749276DAF){:target="_blank"} (Jesús Conde, Youtube)
@@ -314,7 +326,6 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Introducción a Linux como entorno de desarrollo de Sistemas Operativos](https://miriadax.net/web/introduccion-a-linux-como-entorno-de-desarrollo-de-sistemas-software){:target="_blank"} (Udemy)
 * [Introducción a Outlook 2010](https://www.udemy.com/introduccion-a-outlook-2010){:target="_blank"} (Udemy)
 * [Introducción a PowerPoint 2010](https://www.udemy.com/introduccion-a-powerpoint-2010){:target="_blank"} (Udemy)
-* [Introducción a Windows 10 para profesionales de tecnología](https://mva.microsoft.com/es-es/training-courses/introduccin-a-windows-10-para-profesionales-de-tecnologa-14781){:target="_blank"} (Microsoft Channel 9)
 * [Introducción a Word 2010](https://www.udemy.com/introduccion-a-word-2010){:target="_blank"} (Udemy)
 * [Introducción al PowerPoint 2013](https://www.udemy.com/introduccion-al-powerpoint-2013){:target="_blank"} (Udemy)
 * [LibreOffice Writer](https://www.youtube.com/playlist?list=PLLLaU95AMQPqAgeXCjQgXawAPABR19U2k){:target="_blank"} (VideoTutoriales Education, YouTube)
@@ -333,7 +344,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Software Libre y Conocimiento en Abierto](https://miriadax.net/web/soft_libre_y_conocimiento/inicio){:target="_blank"} (MiriadaX)
 * [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-){:target="_blank"} (MiriadaX)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 🔨 Procesadores de Lenguaje
 
@@ -345,7 +356,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56){:target="_blank"} (OCW)
 * [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes){:target="_blank"} (OCW)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 👦 Programación Niñ@s / Inicial
 
@@ -376,15 +387,59 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar){:target="_blank"} (Coursera)
 <!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 👨‍💻 Lenguajes de Programación
 
-## Javascript <i class="fab fa-js"></i>
+## C, C#, C++
 
+* [Aprende programación en C desde cero](https://www.udemy.com/fundamentos-de-programacion-en-c-basico-avanzado) (Udemy)
+* [C# básico de programación](https://www.udemy.com/-programacion) (Udemy)
+* [C++: Básico a Avanzado](https://www.udemy.com/curso-de-cpp-basico-a-avanzado) (Udemy)
+* [Estructura de datos en C++](https://www.youtube.com/playlist?list=PLsaihF7BSsEkaGMkquCQNpMjyQXOpL9iU) (Programación Explicada, YouTube)
+* [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31) (OCW)
+* [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74) (OCW)
+* [Programación en C](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6) (ProgramacionATS, YouTube)
+* [Programación en C/C++ y Aplicaciones Matemáticas (2011)](http://ocw.um.es/ciencias/programacion-en-c-c-y-aplicaciones-matematicas) (OCW)
+* [Programación en C#](https://www.youtube.com/playlist?list=PLM-p96nOrGcakia6TWllPW9lkQmB2g-yX) (Nicosio, YouTube)
+
+## Java
+
+* [Curso básico de Java](https://www.udemy.com/introduccion-programacion-java) (Udemy)
+* [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) (Pildoras Informáticas, Youtube)
+* [Estructura de datos en Java](https://www.youtube.com/playlist?list=PLCLpAU8VN0j4RGemFfybZrWoSX57NbEq9) (MasterHeHeGar, YouTube)
+* [Fundamentos de Java](https://devcode.la/cursos/fundamentos-java) (DevCode)
+* [Fundamentos de Programación con Java](https://www.udemy.com/fundamentos-de-programacion-con-java) (Ion Jaureguialzo, Udemy)
+* [Fundamentos de Programación en Java](https://www.udemy.com/fundamentos-de-programacion-en-java-ricrack) (Alfonso Sebastián, Udemy)
+* [Introducción a Java desde cero](https://www.udemy.com/introduccion-a-java-desde-cero-gratis) (Udemy)
+* [Introducción a la programación en JAVA (2009)](https://ocw.ehu.eus/pluginfile.php/5429/mod_resource/content/1/intro_java/Course_listing.html) (OCW)
+* [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java) (Coursera)
+* [Java Básico](https://www.udemy.com/java-basico-d) (Udemy)
+* [Java gratis, desde cero](https://www.milcursosgratis.com/curso-de-java-gratis/) (Mil Cursos Gratis)
+* [Programación con Java Standard](https://miriadax.net/web/programacion-con-java-standard-3-edicion-) (MiriadaX)
+
+## <i class="fab fa-js"></i> Javascript
+
+* [Aprende programación desde 0 con Javascript](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8ohy6P2k4hNU2PtstqP8Zh) (Eduardo Ibarra, Youtube)
+* [Javascript 6](https://www.youtube.com/playlist?list=PLo4CW_btA6oYqRyo4z_WxZUiyObbsqb-Z) (WebApps HTML5, Youtube)
 * [JavaScript Desde Cero (2018)](https://ed.team/cursos/javascript){:target="_blank"}
+* [Fundamentos de Javascript](https://www.udemy.com/fundamentos-de-javascript) (Udemy)
+* [Introducción a JavaScript desde cero](https://plataforma.keepcoding.io/p/introduccion-a-la-programacion-de-javascript-desde-cero-gratis) (Keep Coding)
+* [Introducción a la programación. Descubre el lenguaje de la era digital](https://miriadax.net/web/introduccion-a-la-programacion-descubre-el-lenguaje-de-la-era-digital-5-edicion-) (MiriadaX)
+
+### Node <i class="fab fa-node-js"></i>
+
+* [Introducción a JavaScript y Node.js](https://plataforma.keepcoding.io/p/intruduccion-javascript-node-js-express-mongodb-gratis) (Keep Coding)
+
+## Perl
+
+* [Introducción a Perl(2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=43) (OCW)
 
 ## PHP <i class="fab fa-php"></i>
+
+* [Actualización PHP 7](https://www.udemy.com/actualizacion-php-7) (Udemy)
+* [Aprende programación básica con PHP](https://www.udemy.com/aprende-programacion-basica-con-php) (Udemy)
+* [Como crear documentos PDF en PHP: generar reportes PDF](https://www.udemy.com/como-crear-documentos-pdf-en-php-generar-reportes-pdf) (Udemy)
 
 ## PHP Framework <i class="fab fa-php"></i>
 
@@ -414,6 +469,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Aprende a programar en Python desde 0](https://unipython.com/curso-python-nivel-principiante) (Unipython)
 * [Aprende Python desde cero](https://www.udemy.com/aprende-python-desde-cero-b) (Udemy)
 * [Creación de APIs RESTful con Flask – Python](https://unipython.com/curso-de-creacion-de-api-restful-en-flask-python)
+* [Curso de Python desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS) (Pildoras Informáticas, Youtube)
 * [Interfaz Gráfica con Tkinter](https://unipython.com/curso-de-tkinter)
 * [Master en Python3. Aprende de 0 a EXPERTO Practicando](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando)
 * [Procesamiento de Imágenes: OpenCV y Python](https://unipython.com/curso-procesamiento-imagenes-opencv-python)
@@ -422,6 +478,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Selenium con Python](https://unipython.com/curso-selenium)
 * [Taller de creación de Backdoors con Python - Parte 1](https://www.udemy.com/course/backdoors-with-python)
 * [TensorFlow para Deep Learning y Python](https://www.udemy.com/course/curso-de-tensorflow-para-deep-learning-y-python)
+* [Introducción a la programación, Python I](https://www.coursera.org/learn/aprendiendo-programar-python) (Coursera)
 * [Introducción a la Programación con Python](https://www.udemy.com/course/introduccion-a-la-programacion-con-python-juan-de-la-torre)
 * [Web Scraping](https://unipython.com/curso-web-scraping)
 
@@ -432,101 +489,11 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Introducción a Django + Python & REST](https://plataforma.keepcoding.io/p/introduccion-python-django-y-rest) (Keep Coding)
 * [Probar Django: Crear una Aplicación Web en Python](https://www.udemy.com/probar-django-construir-una-aplicacion-web-en-python) (Udemy)
 
+## Ruby
 
-Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación" 🚧
-{: .notice--warning}
-
-* [Actualización PHP 7](https://www.udemy.com/actualizacion-php-7) (Udemy)
-* [Análisis, validación y depuración de software (2015)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=11566&p_caca=2015) (OCW)
-* [Aprende programación básica con PHP](https://www.udemy.com/aprende-programacion-basica-con-php) (Udemy)
-* [Aprende programación con diagramas de flujo](https://www.udemy.com/programacion-desde-cero-con-diagramas-de-flujo) (Udemy)
-* [Aprende programación desde 0 con Javascript](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8ohy6P2k4hNU2PtstqP8Zh) (Eduardo Ibarra, Youtube)
-* [Aprende programación en C desde cero](https://www.udemy.com/fundamentos-de-programacion-en-c-basico-avanzado) (Udemy)
-* [Bash, intérprete de comandos de Linux. Desde cero](https://www.udemy.com/shell-interprete-de-comandos-de-linux-aprende-desde-cero) (Udemy)
-* [C# básico de programación](https://www.udemy.com/-programacion) (Udemy)
-* [C++: Básico a Avanzado](https://www.udemy.com/curso-de-cpp-basico-a-avanzado) (Udemy)
-* [Comienza con SQL: descarga los datos tu mismo con SQL](https://www.udemy.com/comienza-con-sql) (Udemy)
-* [Como crear documentos PDF en PHP: generar reportes PDF](https://www.udemy.com/como-crear-documentos-pdf-en-php-generar-reportes-pdf) (Udemy)
-* [Como crear un CRUD con PHP y SQL](https://www.udemy.com/como-crear-un-crud-con-php-y-sql-server) (Udemy)
 * [Crear aplicaciones con Ruby](https://www.udemy.com/crear-aplicaciones-con-ruby) (Udemy)
-* [Curso Aprendiendo a Programar](https://mva.microsoft.com/es-es/training-courses/curso-aprendiendo-a-programar-8865) (Microsoft Channel 9)
-* [Curso básico de Java](https://www.udemy.com/introduccion-programacion-java) (Udemy)
-* [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) (Pildoras Informáticas, Youtube)
-* [Curso de Python desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS) (Pildoras Informáticas, Youtube)
-* [Estructura de datos en C++](https://www.youtube.com/playlist?list=PLsaihF7BSsEkaGMkquCQNpMjyQXOpL9iU) (Programación Explicada, YouTube)
-* [Estructura de datos en Java](https://www.youtube.com/playlist?list=PLCLpAU8VN0j4RGemFfybZrWoSX57NbEq9) (MasterHeHeGar, YouTube)
-* [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31) (OCW)
-* [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74) (OCW)
-* [Fundamentos de Java](https://devcode.la/cursos/fundamentos-java) (DevCode)
-* [Fundamentos de Javascript](https://www.udemy.com/fundamentos-de-javascript) (Udemy)
-* [Fundamentos de la programación](https://www.udemy.com/fundamentos-de-la-programacion-ap) (Udemy)
-* [Fundamentos de Programación (2008)](http://ocw.upm.es/ciencia-de-la-computacion-e-inteligencia-artificial/fundamentos-programacion) (OCW)
-* [Fundamentos de Programación con Java](https://www.udemy.com/fundamentos-de-programacion-con-java) (Ion Jaureguialzo, Udemy)
-* [Fundamentos de Programación en Java](https://www.udemy.com/fundamentos-de-programacion-en-java-ricrack) (Alfonso Sebastián, Udemy)
-* [Fundamentos de Programación Web para principiantes](https://www.udemy.com/fundamentos-de-programacion-web-para-principiantes) (Udemy)
-* [Fundamentos de Programación, PseInt, PHP y JavaScript](https://www.udemy.com/fundamentos-de-programacion-aprende-con-pseudocodigo-pseint) (Udemy)
-* [Fundamentos de Programación. Algoritmos en Java y Javascript](https://www.udemy.com/fundamentos-de-programacion-algoritmos-en-java-y-javascript) (Udemy)
-* [Introducción a Java desde cero](https://www.udemy.com/introduccion-a-java-desde-cero-gratis) (Udemy)
-* [Introducción a JavaScript desde cero](https://plataforma.keepcoding.io/p/introduccion-a-la-programacion-de-javascript-desde-cero-gratis) (Keep Coding)
-* [Introducción a JavaScript y Node.js](https://plataforma.keepcoding.io/p/intruduccion-javascript-node-js-express-mongodb-gratis) (Keep Coding)
-* [Introducción a la programación con Python](https://mva.microsoft.com/es-es/training-courses/introduccin-a-la-programacin-con-python-8360) (Microsoft Channel 9)
-* [Introducción a la programación en JAVA (2009)](https://ocw.ehu.eus/pluginfile.php/5429/mod_resource/content/1/intro_java/Course_listing.html) (OCW)
-* [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java) (Coursera)
-* [Introducción a la programación para ciencias e ingieniería](https://miriadax.net/web/introduccion-programacion-ciencias-ingenieria-2edicion) (MiriadaX)
-* [Introducción a la programación, Python I](https://www.coursera.org/learn/aprendiendo-programar-python) (Coursera)
-* [Introducción a la programación. Descubre el lenguaje de la era digital](https://miriadax.net/web/introduccion-a-la-programacion-descubre-el-lenguaje-de-la-era-digital-5-edicion-) (MiriadaX)
-* [Introducción a MVVM](https://mva.microsoft.com/es-es/training-courses/introduccin-a-mvvm-11727) (Microsoft VirtualAcademy)
-* [Introducción a Perl(2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=43) (OCW)
-* [Introducción a SAP BW: Mis primeros pasos](https://www.udemy.com/introduccion-a-sap-bw) (Udemy)
-* [Introducción a SAP: Mis primeros pasos](https://www.udemy.com/curso-de-introduccion-a-sap) (Udemy)
-* [Introducción a SQL con Oracle 11g](https://www.udemy.com/introduccion-a-sql-con-oracle-11g) (Udemy)
-* [Introducción a la programación](https://plataforma.keepcoding.io/p/introduccion-programacion) (Keep Coding)
-* [Introducción a la programación con Pseudocódigo práctico](https://www.udemy.com/introduccion-a-la-programacion-con-pseudocodigo-practico) (Udemy)
-* [Introducción a TTD para iOS](https://plataforma.keepcoding.io/p/introduccion-tdd-para-ios) (Keep Coding)
-* [Introducción al desarrollo web - iDesWeb](https://miriadax.net/web/introduccion_desarrollo_web) (MiriadaX)
-* [Introducción al tratamiento de datos con R y Rstudio](https://miriadax.net/web/aprende-r-rstudio) (MiriadaX)
-* [Introducción Visual Basic 2012](https://www.udemy.com/introduccion-visual-basic-2012) (Udemy)
-* [Java Básico](https://www.udemy.com/java-basico-d) (Udemy)
-* [Java gratis, desde cero](https://www.milcursosgratis.com/curso-de-java-gratis/) (Mil Cursos Gratis)
-* [Javascript 6](https://www.youtube.com/playlist?list=PLo4CW_btA6oYqRyo4z_WxZUiyObbsqb-Z) (WebApps HTML5, Youtube)
-* [Lógica Programación: Aprende Programar en Cualquier Lenguaje](https://www.udemy.com/logica-programacion-aprende-programar-en-cualquier-lenguaje) (Udemy)
-* [Material de Prácticas de Sistemas Inteligentes (2015)](http://ocw.um.es/ingenierias/material-de-practicas-de-sistemas-inteligentes) (OCW)
-* [Productividad de desarrolladores: Novedades de C# 6](https://mva.microsoft.com/es-es/training-courses/productividad-de-desarrolladores-novedades-de-c-6-8733) (Microsoft Channel 9)
-* [Programación CNC - Fresadoras](https://www.udemy.com/programacioncnc) (Udemy)
-* [Programación con Java Standard](https://miriadax.net/web/programacion-con-java-standard-3-edicion-) (MiriadaX)
-* [Programación concurrente en Linux (2016)](https://ocw.ehu.eus/course/view.php?id=399) (OCW)
-* [Programación desde Cero](https://ed.team/cursos/programacion) (EdTeam)
-* [Programación en C](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6) (ProgramacionATS, YouTube)
-* [Programación en C/C++ y Aplicaciones Matemáticas (2011)](http://ocw.um.es/ciencias/programacion-en-c-c-y-aplicaciones-matematicas) (OCW)
-* [Programación en C#](https://www.youtube.com/playlist?list=PLM-p96nOrGcakia6TWllPW9lkQmB2g-yX) (Nicosio, YouTube)
-* [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html) (OCW)
-* [Programación en Java I (2009)](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/programacion-en-java-i) (OCW)
-* [Programación en lenguaje ADA (2010)](https://ocw.unican.es/course/view.php?id=185) (OCW)
-* [Programación en lenguaje C (2013)](http://ocw.uc3m.es/ingenieria-informatica/programacion-en-lenguaje-c-2013) (OCW)
-* [Programación en lenguaje Java](http://ocw.uc3m.es/historico/programacion-java) (OCW)
-* [Programación en lenguaje Java (2009)](https://ocw.unican.es/course/view.php?id=217) (OCW)
-* [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=26) (OCW)
-* [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44) (OCW)
-* [Programación en Python](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS) (PildorasInformaticas, YouTube)
-* [Programación estructurada Java](https://www.udemy.com/programacion-estructurada-java) (Udemy)
-* [Programación estructurada y orientada a objetos (2009)](https://ocw.ehu.eus/pluginfile.php/8584/mod_resource/content/1/program_estruc/Course_listing.html) (OCW)
-* [Programación orientada a objetos](https://www.edx.org/es/course/programacion-orientada-objetos-mexicox-upevipn02x) (edx)
-* [Programación orientada a objetos (2009)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-orientada-a-objetos-2009.html) (OCW)
-* [Programación para principiantes. Primeros pasos](https://www.udemy.com/programacion-para-principiantes) (Udemy)
-* [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html) (OCW)
-* [Python 3](https://www.youtube.com/watch?v=_-jeU2wbRDM&list=PLvimn1Ins-41sC9i3XpIniGbo4Msnxam6) (Mito Code, Youtube)
-* [Python 3 para Machine Learning. Desde Cero](https://www.udemy.com/curso-de-python-3-para-principiantes-desde-cero-es-facil) (Udemy)
-* [Ruby](https://www.youtube.com/watch?v=o0vQ0Jfq5ls&list=PLvimn1Ins-41I74OfEUG_RTIX7wXl19E8) (Mito Code, Youtube)
-* [SAP ABAP Iniciación a la programación](https://www.udemy.com/sap-abap-iniciacion-a-la-programacion) (Udemy)
-* [SAP Conceptos e iniciación](https://www.udemy.com/sap-conceptos-e-iniciacion) (Udemy)
-* [Software aplicado a la ingieniería (2009)](https://ocw.ehu.eus/pluginfile.php/9339/mod_resource/content/1/software_mate/guia-docente/index.html) (OCW)
-* [Tecnologías de la Programación (2009)](http://ocw.um.es/ingenierias/tecnologia-de-la-programacion) (OCW)
-* [Test Driven Development con Java y Junit5](https://www.udemy.com/testdrivendevelopment) (Udemy)
 
-Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación" 🚧
-{: .notice--warning}
-
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 👩‍💻 Desarrollo Web
 
@@ -599,14 +566,82 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [HTML desde Cero](https://ed.team/cursos/html) (EdTeam)
 * [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
 
+## 👩‍💻 Programación Web
+
+* [Fundamentos de Programación Web para principiantes](https://www.udemy.com/fundamentos-de-programacion-web-para-principiantes) (Udemy)
+* [Introducción al desarrollo web - iDesWeb](https://miriadax.net/web/introduccion_desarrollo_web) (MiriadaX)
+
+## ✍ Sistemas de Gestión de Contenidos
+
+### Blogger
+
+* [Curso como crear y editar un blog de blogguer, Joalgoba](https://www.youtube.com/playlist?list=PLe_p_U5W9sa7KnbvLiJFqKXeqcFKSe7bb) (Joalgoba, Youtube)
+
+### Drupal
+
+* [Aprende a usar Rest en Drupal 7](https://www.udemy.com/aprende-a-usar-el-servicio-rest-en-drupal7-y-drupal8) (Udemy)
+* [Crear un sitio web con Drupal](https://www.udemy.com/curso-basico-de-drupal) (Udemy)
+* [Drupal 8.0](https://www.youtube.com/playlist?list=PLY3lWsAagE8N7ubeqj6LY5r-ak7_BbQ0A) (PandB Software en Español, YouTube)
+* [Gestión de contenidos web a través del CMS Drupal (2009)](http://ocw.um.es/transversales/gestion-de-contenidos-web-a-traves-del-cms-drupal) (OCW)
+
+### Joomla
+
+* [Joomla 3 "Mi primer proyecto con Joomla"](https://www.udemy.com/curso-de-joomla-3-5-mi-primero-proyecto-con-joomla) (Udemy)
+* [Joomla 3.0](https://www.youtube.com/playlist?list=PLWN_byxCBu5K6k5_-UEEpPd4eQFjo9C-w) (Grupo Inti, YouTube)
+
+### Moodle
+
+* [Moodle 3.0](https://www.youtube.com/watch?v=oxRlezup_nc&list=PLa3fNlcB1bYcSBp3kbN1BSc0dZfQ0QZpG) (Óscar Arturo Cruz, YouTube)
+
+### Wordpress <i class="fab fa-wordpress"></i>
+
+* [Ajax en Wordpress para desarrolladores web. Avanzado](https://www.udemy.com/ajax-para-wordpress) (Udemy)
+* [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4) (Udemy)
+* [Aprende a crear una página web profesional con Wordpress](https://www.udemy.com/aprende-a-crear-tu-pagina-web-profesional-con-wordpress) (Udemy)
+* [Aprende Brizy en Wordpress: diseña tu página web en 2 horas](https://www.udemy.com/cursobrizy) (Udemy)
+* [Aprende Wordpress de forma sencilla](https://miriadax.net/web/aprende-wordpress-de-forma-sencilla-2-edicion-) (MiriadaX)
+* [Aprender a crear tu página web con Wordpress](https://www.udemy.com/aprende-a-crear-tu-pagina-web-con-wordpress) (Udemy)
+* [Como crear un theme para Wordpress desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yUwYp_ueyulofOhRBKYa4j-) (Falcon Masters, Youtube)
+* [Crea tu blog con Wordpress](https://www.udemy.com/crea-tu-blog-con-wordpress) (Udemy)
+* [Crea tu primera página web con Wordpress](https://www.crehana.com/cursos/diseno-web/crea-tu-primera-pagina-web-con-wordpress) (Crehana)
+* [Crear temas para Wordpress utilizando Bootstrap 4](https://www.youtube.com/playlist?list=PLPl81lqbj-4KuiW_p8OejglqTEHmfeEto) (Bluuweb!, YouTube)
+* [Curso completo de Wordpress desde cero](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWMco69NRWxwIww844JN9yl) (Falcon Masters, Youtube)
+* [Curso de Wordpress para triunfar en Internet y ganar dinero](https://www.udemy.com/wordpress-para-crear-paginas-web-o-tu-blog-y-monetizacion) (Udemy)
+* [Diseña tu portfolio web con Wordpress y Divi](https://www.udemy.com/disena-tu-portafolio-web-con-wordpress-y-divi) (Udemy)
+* [Dominando Elementor desde Cero Vol.2](https://www.udemy.com/dominando-elementor-desde-cero-vol-2) (Udemy)
+* [Dominando Wordpress paso a paso y desde cero](https://www.udemy.com/dominando-wordpress-paso-a-paso-y-desde-cero) (Udemy)
+* [Dominando Wordpress sin programación](https://www.udemy.com/dominando-wordpress) (Udemy)
+* [Guía completa de de Wordpress](https://www.udemy.com/guia-completa-de-wordpress-aprende-a-crear-sitios-web) (Udemy)
+* [Wordpress+Brizy+Canva: Conviértete en diseñador web](https://www.udemy.com/curso-brizy) (Udemy)
+* [Wordpress con Thrive Content Builder](https://www.udemy.com/revoluciona-tu-blog-wordpress-con-thrive-content-builder) (Udemy)
+* [Wordpress desde cero (nivel básico)](https://www.udemy.com/wordpress-desde-cero-nivel-basico) (Udemy)
+* [Wordpress desde cero (nivel avanzado)](https://www.udemy.com/wordpress-desde-cero-nivel-avanzado) (Udemy)
+* [Wordpress en español desde cero](https://www.youtube.com/playlist?list=PLmIEoKACpcDy5XGw_v7RFxRQ04cvXCF40) (Lievano San, Youtube)
+* [Wordpress para principiantes](https://www.udemy.com/wordpress-diegocmartin/%5D#wordpress) (Udemy)
+* [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido) (Udemy)
+* [Wordpress. Curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress) (Udemy)
+* [Wordpress. Introducción práctica a Gutenberg el nuevo editor](https://www.udemy.com/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor) (Udemy)
+
 ## 🌱 Sistemas de Plantillas
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
- * [Pug desde Cero](https://ed.team/cursos/pug)
+* [Pug desde Cero](https://ed.team/cursos/pug)
+
+## 💼 Sistemas de ERP
+
+ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
+{: .notice--info}
+
+* [Introducción a SAP BW: Mis primeros pasos](https://www.udemy.com/introduccion-a-sap-bw) (Udemy)
+* [Introducción a SAP: Mis primeros pasos](https://www.udemy.com/curso-de-introduccion-a-sap) (Udemy)
+* [Sistemas desarrollados a medidas por Sabio Go](https://www.udemy.com/desarrollos-sabio-go) (Udemy)
+
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 👇👇👇 🚧 "Cursos Pendientes de ReOrganizar" 🚧 Hasta la siguiente señalización 👇👇👇
 {: .notice--warning}
 
-* [Aprende a programar en Python desde 0 con este Curso para principiantes](https://unipython.com/curso-python-nivel-principiante) (HTML)
+## Desarrollo Web Continuación..
+
 * [¿Por dónde empezar con el desarrollo web? Empieza aquí](https://www.udemy.com/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html) (Udemy)
 * [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
 * [Aplicaciones móviles (2011)](http://ocw.uc3m.es/ingenieria-telematica/aplicaciones-moviles) (OCW)
@@ -664,11 +699,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [De Novato a Desarrollador Exitoso](https://www.udemy.com/de-novato-a-desarrollador-exitoso) (Udemy)
 * [De Objetive-C a Swift](https://www.udemy.com/objective-c-a-swift) (Udemy)
 * [Desarrolla una página web con HTML y CSS](https://www.crehana.com/cursos/diseno-web/desarrolla-una-pagina-web-con-html-y-css) (Crehana)
-* [Desarrollando en Windows 8](https://mva.microsoft.com/es-es/training-courses/desarrollando-en-windows-8-11820) (Microsoft Channel 9)
 * [Desarrollo API Web Restful con NodeJS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgMsG-eOksskBHIb9Rq4VUG) (Jesús Conde, YouTube)
-* [Desarrollo avanzada de APPS en Windows Store con HTML5](https://mva.microsoft.com/es-es/training-courses/desarrollo-avanzado-de-apps-en-windows-store-con-html5-11574) (Microsoft Channel 9)
-* [Desarrollo de aplicaciones de Windows universales con HTML y Javascript Jump Start](https://mva.microsoft.com/es-es/training-courses/desarrollo-de-aplicaciones-de-windows-universales-con-html-y-javascript-jump-start-8344) (Microsoft Channel 9)
-* [Desarrollo de aplicaciones en la nube](https://mva.microsoft.com/es-es/training-courses/desarrollo-de-aplicaciones-en-la-nube-17726) (Microsoft Channel 9)
 * [Desarrollo de aplicaciones para Windows con C# y Sql en 4 capas](https://www.youtube.com/playlist?list=PLnWAzeXp9V4kjwKztMiBYPo2ncAjI2QqD) (Formando Código, YouTube)
 * [Desarrollo de servicios en la nube con HTML5, JavaScript y node.js](https://miriadax.net/web/desarrollo-de-servicios-en-la-nube-con-html5-javascript-y-nodejs-2-edicion-) (MiriadaX)
 * [Desarrollo en HTML5, CSS y JavaScript de Apps Web, Android..](https://miriadax.net/web/html5mooc/inicio) (MiriadaX)
@@ -691,8 +722,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Flexbox - Armar un sitio web responsive con CSS3](https://www.youtube.com/playlist?list=PLPl81lqbj-4JfZ9Ln5ojAl1GiORf2aK9U) (Falcon Masters, Youtube)
 * [Flexbox desde 0](https://www.udemy.com/curso-de-flexbox-desde-0) (Udemy)
 * [Flexbox y CSS3](https://www.udemy.com/css3-para-principiantes) (Udemy)
-* [Funcionalidades de la Cámara, TouchID y Mapas en Xamarin iOS](https://mva.microsoft.com/es-es/training-courses/funcionalidades-de-la-cmara-touchid-y-mapas-en-xamarin-ios-17169) (Microsoft Channel 9)
-* [Fundamentos básicos de programación ASP.NET MVC en Azure](https://mva.microsoft.com/es-es/training-courses/fundamentos-bsicos-de-programacin-asp-net-mvc-en-azure-16374) (Microsoft Channel 9)
 * [Fundamentos de Kotlin](https://devcode.la/cursos/kotlin) (DevCode)
 * [Fundamentos del diseño UX](https://www.crehana.com/cursos/uxui/fundamentos-del-diseno-ux) (Crehana)
 * [Grunt js. De 0 a 100](https://www.udemy.com/de-0-a-100-con-grunt-js) (Udemy) (Pago TT)
@@ -707,19 +736,15 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Instalando Symphony 2](https://www.udemy.com/instalando-symfony2) (Udemy)
 * [Interfaces de usuario (2009)](http://ocw.uc3m.es/ingenieria-informatica/interfaces-de-usuario) (OCW)
 * [Introducción a Angular 6](https://plataforma.keepcoding.io/p/curso_angular_6_intro) (Keep Coding)
-* [Introducción a ASP.NET Core 1.0](https://mva.microsoft.com/es-es/training-courses/introduccin-a-aspnet-core-10-17165) (Microsoft Channel 9)
 * [Introducción a Fundamentos de Swift 3.0](https://plataforma.keepcoding.io/p/curso-introduccion-fundamentos-de-swift-3) (Keep Coding)
 * [Introducción a Go desde cero](https://plataforma.keepcoding.io/p/introduccion-curso-de-go-online-basico-intermedio-gratis) (Keep Coding)
 * [Introducción a iOS Avanzado](https://plataforma.keepcoding.io/p/introduccion-programacion-ios-avanzada) (Keep Coding)
-* [Introducción a jQuery](https://mva.microsoft.com/es-es/training-courses/introduccin-a-jquery-8429) (Microsoft Channel 9)
 * [Introducción a Kotlin avanzado](https://plataforma.keepcoding.io/p/introduccion-desarrollo-de-aplicaciones-android-en-kotlin-gratis) (Keep Coding)
 * [Introducción a Kotlin desde cero](https://plataforma.keepcoding.io/p/curso_kotlin_desde_cero_introductorio) (Keep Coding)
 * [Introducción a la Web Responsable con HTML5 y CSS3](https://www.udemy.com/introduccion-al-web-responsive-html5-css3/) (Udemy)
 * [Introducción a Objective C & iOS](https://plataforma.keepcoding.io/p/introduccin-a-objective-c-ios) (Keep Coding)
 * [Introducción a Polymer & web componentes](https://plataforma.keepcoding.io/p/introduccion-polymer-web-components-gratis) (Keep Coding)
 * [Introducción a Ruby on Rails y servicios REST](https://plataforma.keepcoding.io/courses/enrolled/123885) (Keep Coding)
-* [Introducción a Xamarin](https://mva.microsoft.com/es-es/training-courses/introduccin-a-xamarin-8766) (Microsoft Channel 9)
-* [Introducción al desarrollo de aplicaciones móviles](https://mva.microsoft.com/es-es/training-courses/introduccin-al-desarrollo-de-aplicaciones-mviles-8525) (Microsoft Channel 9)
 * [Introducción al desarrollo web](https://www.youtube.com/playlist?list=PLfYLq8pbpMkBrFwrC-G2yI2GgCwClEouj) (iDESWEB, YouTube)
 * [Introducción curso fundamentos Angular JS + HTML5 + CSS3](https://plataforma.keepcoding.io/p/introduccion-a-html5-css3-angularjs) (Keep Coding)
 * [Introducción teórica a los frameworks de desarrollo para PHP](https://www.udemy.com/introduccion-teorica-a-los-framework-de-desarrollo-para-php) (Udemy)
@@ -732,8 +757,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [JavaScript ES 6 (2.017)](https://www.udemy.com/es6-javascript) (Udemy)
 * [JQuery para implementar tus aplicaciones web (2017)](https://www.udemy.com/aprende-jquery-para-implementar-tus-aplicaciones-web) (Udemy)
 * [jQuery UI - Amplia los límites de jQuery](https://www.udemy.com/jquery-ui-amplia-los-limites-de-jquery) (Udemy)
-* [Jump Start para el desarrollo en HTML5 con Javascript y CSS3](https://mva.microsoft.com/es-es/training-courses/jump-start-para-el-desarrollo-en-html5-con-javascript-y-css3-14446) (Microsoft Channel 9)
-* [Jump Start Pila MEAN](https://mva.microsoft.com/es-es/training-courses/jump-start-pila-mean-8442) (Microsoft Channel 9)
 * [JUnit](https://www.makigas.es/series/junit) (makigas)
 * [LESS de cero a experto](https://www.udemy.com/less-de-cero-a-experto) (Udemy)
 * [Los cimientos de un desarrollador web: HTML](https://www.udemy.com/los-cimientos-de-un-desarrollador-web-html) (Udemy)
@@ -747,7 +770,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Primefaces](https://www.youtube.com/watch?v=eZDoSlerA1I&list=PLvimn1Ins-42YbcBrdPbqFiO8JxJUca_z) (Mito Code, Youtube)
 * [Primefaces Avanzado](https://www.youtube.com/watch?v=-7mEXB6rEjg&list=PLvimn1Ins-41Dn6vhYzB0Kv90_2eFIdXG) (Mito Code, Youtube)
 * [Primera aplicación con Vuejs 2, Vuez y SocketIO](https://www.udemy.com/primera-aplicacion-con-vuejs-2-vuex-y-socketio) (Udemy)
-* [Principios de diseño para windows Phone 8.1](https://mva.microsoft.com/es-es/training-courses/principios-de-diseo-para-windows-phone-81-11281) (Microsoft Channel 9)
 * [Programación con Qt](https://www.youtube.com/playlist?list=PL54fdmMKYUJvn4dAvziRopztp47tBRNum) (Duarte Corporation, YouTube)
 * [Programación en Internet (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-internet-2006.html) (OWC)
 * [Programación en Internet (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-internet-2008.html) (OWC)
@@ -768,22 +790,18 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Telemática (2008)](http://ocw.uc3m.es/ingenieria-telematica/telematica) (OCW)
 * [Tutorial de Play Framework](https://www.youtube.com/playlist?list=PLSKqagaCmohcTbZ_nva1mGGLBz1agOF_k) (Play Framework, Youtube)
 * [Tutoriales de Diseño Web](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWwhmEyzXsTFnNXfatVMAfT) (Falcon Masters, Youtube)
-* [Visual Studio 2017: desarrollo web](https://mva.microsoft.com/es-es/training-courses/visual-studio-2017-desarrollo-web-17810) (Microsoft Channel 9)
 * [Webplus X6](https://www.youtube.com/playlist?list=PL-sAV5sFx4TZg8FnAt3BwvLQHa0raHpAL) (Aia Appel, YouTube)
 * [Windows Phone. Introducción al desarrollo de aplicaciones móviles](https://miriadax.net/web/introduccion-al-desarrollo-de-aplicaciones-moviles-con-windows-phone-2-edicion-) (MiriadaX)
 * [Xamarin, curso gratuito](https://www.youtube.com/playlist?list=PLpOqH6AE0tNiZ1BoufjFfkBGC_bPBQWfA) (Código Facilito, YouTube)
 * [Xamarin desde cero, primeros pasos](https://www.youtube.com/playlist?list=PLnWAzeXp9V4mWNIq0wZ5fAR82Fi8MCmVf) (Formando Código, YouTube)
-* [Xamarin Evento en Vivo: Crear APPs para iOS y Android conectadas a Azure Storage](https://mva.microsoft.com/es-es/training-courses/xamarin-evento-en-vivo-crea-apps-para-ios-y-android-conectadas-a-azure-storage-17166) (Microsoft Channel 9)
-* [Xamarin.iOS y Xamarin.Android con Azure Storage (Bloqs y Tablas -NoSQL-)](https://mva.microsoft.com/es-es/training-courses/xamarinios-y-xamarinandroid-con-azure-storage-blobs-y-tablas-nosql-17170) (Microsoft Channel 9)
 * [XCode para iOS, iOS 6.1, Xcode 4.6](https://www.youtube.com/playlist?list=PLrfF-ThuRn5AqHTeS4W-5VPvCPLI8ioqs) (Eugenio Mendoza Robaina, YouTube)
 * [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html) (OCW)
-* [Yo puedo programar mi propia web](https://mva.microsoft.com/es-es/training-courses/yopuedoprogramar-mi-pgina-web-18162) (Microsoft Channel 9)
 * [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC) (César Cancino, YouTube)
 
 👆👆👆 🚧 "Cursos Pendientes de ReOrganizar" 🚧 ☝☝☝
 {: .notice--warning}
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Swift <i class="fab fa-apple"></i>
 
@@ -793,25 +811,20 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Soy iOS Dev. El mundo del desarrollo iOS](https://campusiosonline.com/courses/soy-ios-dev-el-mundo-del-desarrollo-ios)
 * [Swift 5 y Xcode 10 - Crea una App Calculadora desde 0 en iOS](https://www.udemy.com/course/curso-swift-5-xcode-10-crea-una-app-desde-cero-en-ios)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 🎮 Programación de Videojuegos
 
 * [Aprende a crear plugins Bukkit y Spigot usando Skript](https://www.udemy.com/aprende-a-crear-plugins-bukkit-y-spigot-usando-skript) (Udemy)
-* [Crea juegos en línea usando Windows Azure Mobile Services](https://mva.microsoft.com/es-es/training-courses/crea-juegos-en-lnea-usando-windows-azure-mobile-services-11020) (Microsoft Channel 9)
 * [Crea tu primer videojuego](https://www.udemy.com/crea-tu-primer-videojuego) (Udemy)
-* [Creación de videojuegos para Windows 8.1 usando Gamer Marker](https://mva.microsoft.com/es-es/training-courses/creacin-de-videojuegos-para-windows-81-usando-game-maker-studio-8589) (Microsoft Channel 9)
-* [Desarrolla tu primera aplicación para Kinect V2 con Visual Studio](https://mva.microsoft.com/es-es/training-courses/desarrolla-tu-primera-aplicacin-para-kinect-v2-con-visual-studio-11226) (Microsoft Channel 9)
 * [Desarrollo de Apps sin saber programación](https://campusvirtual.ull.es/ocw/course/view.php?id=128) (OCW)
 * [Diseño, organización y evaluación de videojuegos y gamificación](https://miriadax.net/web/diseno-organizacion-y-evaluacion-de-videojuegos-y-gamificacion-3-edicion-_201604220800) (MiriadaX)
-* [Hora del Código con TouchDevelop](https://mva.microsoft.com/es-es/training-courses/hora-del-cdigo-con-touchdevelop-8401) (Microsoft Channel 9)
 * [Introducción a la gamificación sobre casos prácticos](https://miriadax.net/web/introduccion-a-la-gamificacion-a-traves-de-casos-practicos) (MiriadaX)
 * [Introducción al desarrollo de videojuegos con Unity](https://www.edx.org/course/introduccion-al-desarrollo-de-upvalenciax-uny201-x-1) (edx)
 * [Introducción al desarrollo de videojuegos con Unity3D (2016)](http://ocw.uji.es/curso/1434149) (OCW)
 * [Introducción al diseño de videojuegos](https://miriadax.net/web/introduccion-al-diseno-de-videojuegos-2-edicion-) (MiriadaX)
 * [Kinect básico](https://www.youtube.com/playlist?list=PLGlfxrSj1dRflUF3tknkcE2Xs9k7cMsre) (Yazir Solis, YouTube)
 * [Mi primer juego con Unity 5](https://www.udemy.com/mi-primer-juego-con-unity-5) (Udemy)
-* [Motores de juegos para Jump Start de Windows 8](https://mva.microsoft.com/es-es/training-courses/motores-de-juegos-para-jump-start-de-windows-8-8237) (Microsoft Channel 9)
 * [Producción de videojuegos para principiantes](https://www.udemy.com/produccion-de-videojuegos-para-principiantes) (Udemy)
 * [Programación de juegos con UDK](https://www.youtube.com/playlist?list=PLM4yC7OCOPBzFBi8pER3R-1vdDiB7s21k) (Fdudk, YouTube)
 * [Programación de juegos Web 2D en Javascript HTML5 con Phaser](https://www.udemy.com/programacion-de-juegos-web-2d-en-javascript-html5-con-phaser) (Udemy)
@@ -825,7 +838,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Unity 5: Creando un juego para PC](https://www.udemy.com/curso-unity-5-creando-un-juego-para-pc) (Udemy)
 * [Unreal Engine para principiantes](https://www.udemy.com/unreal-engine-principiantes) (Udemy)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 🕸 Redes
 
@@ -835,7 +848,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Arquitectura de Redes de Acceso y Medio Compartido (2012)](http://ocw.uc3m.es/ingenieria-telematica/arquitectura-de-redes-de-acceso-y-medio-compartido) (OCW)
 * [Arquitectura de Redes(2012)](http://ocw.um.es/ingenierias/arquitectura-de-redes) (OCW)
 * [Arquitectura de Sistemas (2013)](http://ocw.uc3m.es/ingenieria-telematica/arquitectura-de-sistemas-2013) (OCW)
-* [Aspectos fundamentales de redes](https://mva.microsoft.com/es-es/training-courses/aspectos-fundamentales-de-redes-8249) (Microsoft Channel 9)
 * [Cisco Packet Tracer](https://www.youtube.com/playlist?list=PL19E8BE542D61D648) (My Cyber academy, Youtube)
 * [Computación en Red (2010)](http://ocw.uc3m.es/ingenieria-telematica/computacion-en-red) (OCW)
 * [Conmutación (2012)](http://ocw.bib.upct.es/course/view.php?id=129) (OCW)
@@ -850,7 +862,6 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Fundamentos de las redes de comunicaciones: de las aplicaciones a los bits (2007)](http://ocw.uc3m.es/ingenieria-telematica/fundamentos-de-las-redes-de-comunicaciones-de-las-aplicaciones-a-los-bits) (OCW)
 * [GNS3 Network Emulator: Instalación y configuración](https://www.udemy.com/gns3-network-emulator-instalacion-y-configuracion) (Udemy)
 * [Inteligencia en redes de comunicaciones (2011)](http://ocw.uc3m.es/ingenieria-telematica/inteligencia-en-redes-de-comunicaciones) (OCW)
-* [Internet de las cosas (IoT): Nivel Intermedio](https://mva.microsoft.com/es-es/training-courses/internet-de-las-cosas-iot-nivel-intermedio-17803) (Microsoft Channel 9)
 * [Introducción a la Internet de las Cosas](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/ingenieria-telematica/introduccion-a-la-internet-de-las-cosas) (OCW)
 * [Introducción a la Internet de las Cosas (IoT)](https://mva.microsoft.com/es-es/training-courses/introduccin-a-internet-de-las-cosas-iot-16907) (OCW)
 * [IPV6](https://www.youtube.com/watch?v=kwvINZmmXeM&list=PLJ3jHT8E6frAuYS73uN2QLWi8qyXRyxo1) (Capacitación-LACNIC, YouTube)
@@ -870,10 +881,9 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Virtualización](http://nksistemas.com/curso-de-virtualizacion-online-y-gratuito-indice) (HTML)
 * [Windows Server 2008 R2](http://nksistemas.com/curso-windows-server-2008-r2) (HTML)
 * [Windows Server 2012](http://nksistemas.com/category/infraestructura/windows-2012) (HTML)
-* [Windows Server 2012: Licenciamiento de la nube privada](https://mva.microsoft.com/es-es/training-courses/windows-server-2012-licenciamiento-de-la-nube-privada-11643) (Microsoft Channel 9)
 * [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://www.udemy.com/windows-server-y-linux-para-principiantes) (Udemy)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 📞 Redes de Telefonía
 
@@ -894,22 +904,17 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Técnico en instalaciones eléctricas](https://www.youtube.com/playlist?list=PLB020119D3152A1FC) (Óscar Delgado, YouTube)
 * [Transmisión de datos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=4533&p_caca=2010) (OCW)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 🤖 Robótica
 
 * [Chatbots con Chatfuel para principiantes](https://www.udemy.com/curso-chatfuel-gratis) (Udemy)
-* [Cómputo Cognitivo Nivel Avanzado](https://channel9.msdn.com/Shows/Cmputo-Cognitivo-Nivel-Avanzado) (Microsoft Channel 9)
-* [Cómputo cognitivo: Nivel Intermedio](https://mva.microsoft.com/es-es/training-courses/cmputo-cognitivo-nivel-intermedio-17808) (Microsoft Channel 9)
 * [Comunicaciones Espaciales (2010)](http://ocw.bib.upct.es/course/view.php?id=94) (OCW)
-* [Desarrollo de Bots con Microsoft Bot Framework y Node.js](https://mva.microsoft.com/es-es/training-courses/desarrollo-de-bots-con-microsoft-bot-framework-y-nodejs-17712) (Microsoft Channel 9)
-* [Dilo con código: el nacimiento del Bot](https://mva.microsoft.com/es-es/training-courses/dilo-con-cdigo-el-nacimiento-de-bot-8470) (Microsoft Channel 9)
 * [Diseña, fabrica y programa tu propio robot](https://www.edx.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x) (edx)
 * [Diseño y fabricación de un robot móvil](https://www.youtube.com/playlist?list=PL9A2AEC3E2F1BD975) (entivoo, YouTube)
 * [Empleo del ordenador personal en la instrumentación de panel (2012)](https://ocw.ehu.eus/course/view.php?id=54) (OCW)
 * [Iniciación al mundo de los aeronaves tripulados en remoto (drones)](https://miriadax.net/web/iniciacion-al-mundo-de-las-aeronaves-tripuladas-en-remoto-drones-) (MiriadaX)
 * [Internet de las Cosas. Desarrollar soluciones en 'FIWARE'](https://miriadax.net/web/internet-de-las-cosas-como-desarrollar-soluciones-en-fiware) (MiriadaX)
-* [Introducción a Bots](https://mva.microsoft.com/es-es/training-courses/introduccin-a-bots-18179) (Microsoft Channel 9)
 * [Modelos y técnicas para el diseño de comportamientos de robots autónomos (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/modelos-y-tecnicas-para-el-diseno-de-comportamientos-de-robots-autonomos-2008.html) (OCW)
 * [Ondas Electromagnéticas (2014)](http://ocw.bib.upct.es/course/view.php?id=136) (OCW)
 * [Redes de Neuronas Artificiales (2017)](http://ocw.uc3m.es/ingenieria-informatica/redes-de-neuronas) (OCW)
@@ -921,7 +926,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Taller de Prototipos]
 * [Técnicas de Reconocimiento y Síntesis del Habla (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-de-reconocimiento-y-sintesis-del-habla-2006.html) (OCW)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Arduino 🔦
 
@@ -931,9 +936,8 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Curso gratuito de Arduino](https://www.youtube.com/watch?v=Fl2uQXn7MCg&list=PLpOqH6AE0tNjRWhQms3T8l-4b9oUyr_xB) (Código Facilito, Youtube)
 * [Introducción a Arduino con Elegoo UNO Super Starter Kit](https://www.udemy.com/introduccion-a-arduino-con-elegoo-uno-super-starter-kit) (Udemy)
 * [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed) (MiriadaX)
-* [Tu primer Robot con Arduino](https://mva.microsoft.com/es-es/training-courses/tu-primer-robot-con-arduino-8618) (Microsoft Channel 9)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Casas Inteligentes 🏡
 
@@ -950,12 +954,10 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 
 ## Machine Learning
 
-* [Iniciando con Machine Learning](https://mva.microsoft.com/es-es/training-courses/iniciando-con-machine-learning-16915) (Microsoft Channel 9)
 * [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-2-edicion-) (MiriadaX)
-* [Machine Learning: Nivel Intermedio](https://mva.microsoft.com/es-es/training-courses/machine-learning-nivel-intermedio-17804) (Microsoft Channel 9)
 * [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://www.udemy.com/course/curso-machine-learning)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Raspberry Pi 
 
@@ -964,7 +966,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Raspberry Pi Workshop 2018](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor): Conviértete en un Codificador / Creador / Inventor (Udemy | Subtítulos en Inglés)
 * [Termómetro digital con Raspberry Pi(2017)](https://www.udemy.com/termometro-digital-con-raspberry-pi) (Udemy)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 🔐 Seguridad
 
@@ -977,10 +979,7 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Derecho e Internet (2011)](http://ocw.uv.es/ciencias-sociales-y-juridicas/plant/Course_listing) (OCW)
 * [Garantía y seguridad en sistemas y redes (2016)](https://ocw.unican.es/course/view.php?id=16) (OCW)
 * [Incibe. Ciberseguridad para micropymes y autónomos](https://www.incibe.es/formacion/ciberseguridad-para-micropymes-y-autonomos) (Registro + Udemy)
-* [Iniciando con Enterprise Mobility and Security: Nivel Avanzado](https://mva.microsoft.com/es-es/training-courses/iniciando-con-enterprise-mobility-and-security-nivel-avanzado-17783) (Microsoft Channel 9)
-* [Iniciando con Enterprise Mobility Suite](https://mva.microsoft.com/es-es/training-courses/iniciando-con-enterprise-mobility-suite-16961) (Microsoft Channel 9)
 * [Introducción a curso Ciberseguridad enfocada en Pentesting](https://plataforma.keepcoding.io/p/introduccion_ciberseguridad_enfocada_en_pentesting1) (Keep Coding)
-* [Introducción a Enterprise Mobility + Security](https://mva.microsoft.com/es-es/training-courses/introduccin-a-enterprise-mobility-security-17101) (Microsoft Channel 9)
 * [Programación Hacking](https://www.youtube.com/playlist?list=PL1UnfB2evouHZjiRJp-z9jstL-yqfTi_X) (OHCS, YouTube)
 * [Seguridad en Redes de Comunicación (2015)](https://ocw.unican.es/course/view.php?id=28) (OCW)
 * [Seguridad en Redes de Comunicaciones (2011)](http://ocw.bib.upct.es/course/view.php?id=102) (OCW)
@@ -991,150 +990,47 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Seguridad, privacidad y protección de datos I (2012)](http://ocw.uv.es/ciencias-sociales-y-juridicas/seguridad-privacidad-y-proteccion-de-datos-i/Course_listing) (OCW)
 * [Wireless penetration con Kali Linux](https://www.youtube.com/playlist?list=PL-G03HRCQgdFKAaW718J14tKDM63mGirL) (Hacking y Más, YouTube)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## ⛅ Servidores y Servicios en nube
 
-* [Acceso y protección de información en Windows Server 2012 R2](https://mva.microsoft.com/es-es/training-courses/acceso-y-proteccin-de-informacin-en-windows-server-2012-r2-8266) (Microsoft Channel 9)
-* [Administración de cargas de trabajo de Linux en Windows Server y System Center](https://mva.microsoft.com/es-es/training-courses/administracin-de-cargas-de-trabajo-de-linux-en-windows-server-y-system-center-8764) (Microsoft Channel 9)
-* [Administración de identidades y accesos](https://mva.microsoft.com/es-es/training-courses/administracin-de-identidades-y-accesos-8488) (Microsoft Channel 9)
-* [Administración de los sistemas en Microsoft Azure con Chef](https://mva.microsoft.com/es-es/training-courses/administracin-de-los-sistemas-en-microsoft-azure-con-chef-8468) (Microsoft Channel 9)
 * [Administración de Servidores Web (2005)](http://ocw.uniovi.es/course/view.php?id=110) (OCW)
-* [Advisor en System Center 2012 R2 para IT Pros](https://mva.microsoft.com/es-es/training-courses/advisor-en-system-center-2012-r2-para-it-pros-8831) (Microsoft Channel 9)
 * [Aprende a publicar tus páginas web](https://www.udemy.com/aprende-a-publicar-tus-paginas-web) (Udemy)
-* [Aprende servicios web de manera fácil y rápida con Windows Phone 8.1](https://mva.microsoft.com/es-es/training-courses/aprende-servicios-web-de-manera-fcil-y-rpida-con-windows-phone-81-11237) (Microsoft Channel 9)
-* [Automatización de las cargas de trabajo con System Center Orchestrator](https://mva.microsoft.com/es-es/training-courses/automatizacin-de-las-cargas-de-trabajo-con-system-center-orchestrator-8476) (Microsoft Channel 9)
-* [Automatización y Auto-Servicio on System Center 2012 R2](https://mva.microsoft.com/es-es/training-courses/automatizacin-y-autoservicio-con-system-center-2012-r2-8581) (Microsoft Channel 9)
 * [Amazon Web Services: Esenciales](https://www.udemy.com/aws-essentials) (Udemy | Subtítulos en Español)
 * [Amazon Web Services: Desde cero a héroe](https://www.udemy.com/amazon-web-services-aws-v) (Udemy | Subtítulos en Español)
-* [Azure Active Directory desde cero](https://mva.microsoft.com/es-es/training-courses/azure-active-directory-desde-cero-16859) (Microsoft Channel 9)
-* [Azure Data Analitycs para desarrolladores](https://mva.microsoft.com/es-es/training-courses/azure-data-analytics-para-desarrolladores-17545) (Microsoft Channel 9)
-* [Azure RemoteApp: habilidades básicas](https://mva.microsoft.com/es-es/training-courses/azure-remoteapp-habilidades-bsicas-14771) (Microsoft Channel 9)
 * [Centos 7](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZobhGTWuX-tC5clz_rgdoh) (JGAITPro, YouTube)
-* [Controladores de dominio en Microsoft Azure](https://mva.microsoft.com/es-es/training-courses/controladores-de-dominio-en-microsoft-azure-17791) (Microsoft Channel 9)
 * [Crear un gestor de contabilidad: Excel + Sql Server + Azure](https://www.youtube.com/playlist?list=PLFNWPvtjBMjvx4H2P-pDSjT3REWxA6vnG) (Excel y Más, YouTube)
 * [Curso de OpenShift. Red Hat](https://www.youtube.com/playlist?list=PLEtcGQaT56cjL7PIUCwngVX2K9AYVta2p) (Jesús Conde, Youtube)
-* [Cursos de Azure: Almacenamiento en la nube híbrida y respaldo de datos](https://mva.microsoft.com/es-es/training-courses/cursos-de-azure-almacenamiento-en-la-nube-hbrida-y-respaldo-de-datos--10254) (Microsoft Channel 9)
-* [Cursos de Azure: Corriendo Linux en Azure](https://mva.microsoft.com/es-es/training-courses/cursos-de-azure-corriendo-linux-en-azure-10250) (Microsoft Channel 9)
-* [Cursos de Azure: Gestión Híbrida de identidades con Azure Active Directory](https://mva.microsoft.com/es-es/training-courses/cursos-de-azure-gestin-hbrida-de-identidades-con-azure-active-directory-10255) (Microsoft Channel 9)
-* [Cursos de Azure: Hybrid Cloud Workloads - SQL](https://mva.microsoft.com/es-es/training-courses/cursos-de-azure-hybrid-cloud-workloads-sql-11286) (Microsoft Channel 9)
-* [Cursos de Azure: Hybrid Cloud Workloads - Websites](https://mva.microsoft.com/es-es/training-courses/cursos-de-azure-hybrid-cloud-workloads-websites--11288) (Microsoft Channel 9)
 * [Descargar imágenes satelitales](https://www.udemy.com/descargar-imagenes-satelitales) (Udemy)
 * [Dominando el CPanel Hosting de nuestro proveedor de servicio](https://www.udemy.com/dominando-el-cpanel-hosting-web-de-nuestro-proveedor-de-servicio) (Udemy)
-* [Escalabilidad en su infraestructura de Nube Privada con Microsoft SQL Server](https://mva.microsoft.com/es-es/training-courses/escalabilidad-en-su-infraestructura-de-nube-privada-con-microsoft-sql-server-9123) (Microsoft Channel 9)
-* [Extender directorios locales a la nube: Azure AD Connect](https://mva.microsoft.com/es-es/training-courses/extender-directorios-locales-a-la-nube-azure-ad-connect-17087) (Microsoft Channel 9)
-* [Extensibilidad en System Center 2012 SP1](https://mva.microsoft.com/es-es/training-courses/extensibilidad-en-system-center-2012-sp1-9130) (Microsoft Channel 9)
 * [Freenas](https://www.youtube.com/playlist?list=PLn5IkU1ZhgibosO2hSK7mgFViPkIQg7LX) (YouTube)
-* [Fundamentos de Microsoft Azure: intermedio](https://mva.microsoft.com/es-es/training-courses/fundamentos-de-microsoft-azure-12175) (Microsoft Channel 9)
-* [Fundamentos de Microsoft Azure: máquinas virtuales](https://mva.microsoft.com/es-es/training-courses/fundamentos-de-microsoft-azure-mquinas-virtuales-14779) (Microsoft Channel 9)
-* [Gestión de Servicios IT con System Center 2012 R2](https://mva.microsoft.com/es-es/training-courses/gestin-de-servicios-it-con-system-center-2012-r2-8815) (Microsoft Channel 9)
-* [Gestión y aprovisionamiento de infraestructura con System Center 2012 R2](https://mva.microsoft.com/es-es/training-courses/gestin-y-aprovisionamiento-de-infraestructura-con-system-center-2012-r2-8576) (Microsoft Channel 9)
 * [Hyper-V](https://www.youtube.com/playlist?list=PLACA64FC4CAF2F6BB) (YouTube)
 * [Hyper-V en Windows 10](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiaHniso3RdsF12ehcTd0jTD) (JGAITPro, YouTube)
-* [Introducción a CHEF](https://mva.microsoft.com/es-es/training-courses/introduccin-a-chef-14069) (Microsoft Channel 9)
-* [Introducción a la configuración de estado deseado (DSC) de PowerShell](https://mva.microsoft.com/es-es/training-courses/introduccin-a-la-configuracin-de-estado-deseado-dsc-de-powershell-8672) (Microsoft Channel 9)
-* [Introducción a Microsoft Azure Active Directory](https://mva.microsoft.com/es-es/training-courses/introduccin-a-microsoft-azure-active-directory-9027) (Microsoft Channel 9)
 * [Introducción a Xampp y MySql (2012)](https://ocw.ua.es/es/ingenieria-y-arquitectura/introduccion-a-xampp-y-mysql-2012.html) (OCW)
 * [Java Server, faces y mySql](https://www.youtube.com/playlist?list=PLnWAzeXp9V4k74VKqXOsuWIWetveAUp_F) (Formando Código, YouTube)
-* [Jump Start de almacenamiento Windows Server 2012 R2: nuevas opciones](https://mva.microsoft.com/es-es/training-courses/jump-start-de-almacenamiento-de-windows-server2012-r2-nuevas-opciones-8579) (Microsoft Channel 9)
-* [Jump Start de programación en C#](https://mva.microsoft.com/es-es/training-courses/jump-start-de-programacin-en-c-14254) (Microsoft Channel 9)
-* [Jump Start para la actualización de Windows 8.1 para empresa](https://mva.microsoft.com/es-es/training-courses/jump-start-para-la-actualizacin-de-windows-81-para-la-empresa-8318) (Microsoft Channel 9)
-* [Jump Start para la creación de una nube privada con Windows Server y System Center](https://mva.microsoft.com/es-es/training-courses/jump-start-para-la-creacin-de-una-nube-privada-con-windows-server-y-system-center-8814) (Microsoft Channel 9)
 * [Laboratorio de servidores de comunicaciones (2012)](https://ocw.ehu.eus/course/view.php?id=68) (OCW)
 * [Manejo de Linux Ubuntu Desktop & Server](https://www.udemy.com/linux-ubuntu-desktop-server) (Udemy)
-* [Mejore sus capacidades con Windows Server 2012](https://mva.microsoft.com/es-es/training-courses/mejore-sus-capacidades-con-windows-server-2012-14201) (Microsoft Channel 9)
 * [Microsoft Azure](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZGSLnNs_5ZJM5dW_NdsWY1) (JGAITPro, YouTube)
 * [Microsoft Exchange Server 2013](https://www.youtube.com/playlist?list=PLEmsMMOSNtypadUqSoE_iYwUdTfx3qE5u) (Pablo Martinez, YouTube)
 * [Microsoft Intune](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiYN7L1O27a2DAcr1KKXmAmo) (JGAITPro, YouTube)
-* [Monitoreo de una Infraestructura con System Center 2012 R2](https://mva.microsoft.com/es-es/training-courses/monitoreo-de-una-infraestructura-con-system-center-2012-r2-8580) (Microsoft Channel 9)
-* [MS Virtualization para profesionales VMWare - VDI](https://mva.microsoft.com/es-es/training-courses/ms-virtualization-para-profesionales-vmware-vdi-14252) (Microsoft Channel 9)
 * [Netwrix Auditor](https://www.youtube.com/playlist?list=PLn5IkU1ZhgibkIs3Sk5s74gM3WIeapfQq) (JGAITPro, YouTube)
-* [Nube Privada: automatización y prestación de servicios](https://mva.microsoft.com/es-es/training-courses/nube-privada-automatizacin-y-prestacin-de-servicios-11830) (Microsoft Channel 9)
-* [Nube Privada: gestión de infraestructura y cómputo](https://mva.microsoft.com/es-es/training-courses/nube-privada-gestin-de-infraestructura-y-cmputo-8557) (Microsoft Channel 9)
-* [Nuevas opciones de almacenamiento con Windows Server 2012 R2](https://mva.microsoft.com/es-es/training-courses/nuevas-opciones-de-almacenamiento-con-windows-server-2012-r2-10801) (Microsoft Channel 9)
 * [OpenShift](https://www.youtube.com/playlist?list=PLEtcGQaT56cjL7PIUCwngVX2K9AYVta2p) (Jesús Conde, YouTube)
-* [Pack de administración de System Center 2012 R2 Operations Manager](https://mva.microsoft.com/es-es/training-courses/pack-de-administracin-de-system-center-2012-r2-operations-manager--8829) (Microsoft Channel 9)
-* [Pack de Windows Azure: bases de datos como un Servicio (DBaaS) Parte 1](https://mva.microsoft.com/es-es/training-courses/pack-de-windows-azure-bases-de-datos-como-un-servicio-dbaas-parte-1-15689) (Microsoft Channel 9)
-* [Potencializa tu infraestructura con la nube](https://mva.microsoft.com/es-es/training-courses/potencializa-tu-infraestructura-con-la-nube-10282) (Microsoft Channel 9)
-* [Preparación Examen 70-473: Diseñando e implementando soluciones en la nube](https://mva.microsoft.com/es-es/training-courses/preparacin-examen-70473-diseando-e-implementado-soluciones-de-datos-en-la-nube-17264) (Microsoft Channel 9)
-* [Preparación Examen 70-532: Developing microsoft Azure solutions](https://mva.microsoft.com/es-es/training-courses/preparacin-examen-70532-developing-microsoft-azure-solutions-17249) (Microsoft Channel 9)
-* [Preparación Examen 70-533: Implementando Microsoft Azure Infraestructure Solutions](https://mva.microsoft.com/es-es/training-courses/preparacin-examen-70533-implementando-microsoft-azure-infrastructure-solutions-17086) (Microsoft Channel 9)
-* [Preparación Examen 70-534: Soluciones de arquitéctura con Microsoft Azure](https://mva.microsoft.com/es-es/training-courses/preparacin-examen-70534-soluciones-de-arquitectura-con-microsoft-azure-17116) (Microsoft Channel 9)
-* [Redes en Windows Server 2012 R2](https://mva.microsoft.com/es-es/training-courses/redes-en-windows-server-2012-r2-10804) (Microsoft Channel 9)
 * [Servicios telemáticos avanzados (2014)](https://ocw.ehu.eus/course/view.php?id=309) (OCW)
-* [System Center 2012: Introducción a Data Protection Manager](https://mva.microsoft.com/es-es/training-courses/system-center-2012-introduccin-a-data-protection-manager-11495) (Microsoft Channel 9)
-* [System Center 2012: Revisión técnica](https://mva.microsoft.com/es-es/training-courses/system-center-2012-revisin-tcnica-11496) (Microsoft Channel 9)
 * [Técnico en Administrador de Servidores](https://www.youtube.com/playlist?list=PLfWJBWUqkmeA4KODp-m8y3KAkKL_HsG3y) (Tecnología Capacitate, YouTube)
 * [Una Introducción Práctica a la Computación en la Nube](https://www.udemy.com/introduction-cloud-computing) (Udemy | Subtitulos en Español)
 * [VirtualBox](https://www.youtube.com/playlist?list=PLD1D6E5F629AC376F) (Pablo Martinez, YouTube)
 * [VirtualBox bis](https://www.youtube.com/playlist?list=PLn5IkU1Zhgib6lti2HBpL7bMYCTd1d3r9) (JGAITPro, YouTube)
-* [Virtualización de aplicaciones MDOP en profundidad](https://mva.microsoft.com/es-es/training-courses/virtualizacin-de-aplicaciones-mdop-en-profundidad-8862) (Microsoft Channel 9)
-* [Virtualización de cargas de trabajo de Linux en Windows Server 2012 R2](https://mva.microsoft.com/es-es/training-courses/virtualizacin-de-servidores-con-windows-server-hyperv-y-system-center-8268) (Microsoft Channel 9)
-* [Virtualización de servidores con Windows Server Hyper-V y System Center](https://mva.microsoft.com/es-es/training-courses/virtualizacin-de-servidores-con-windows-server-hyperv-y-system-center-8268) (Microsoft Channel 9)
-* [Virtualización en Windows Server 2012 R2](https://mva.microsoft.com/es-es/training-courses/virtualizacin-en-windows-server-2012-r2-8279) (Microsoft Channel 9)
-* [Virtualización y administración de SharePoint con Microsoft Cloud OS](https://mva.microsoft.com/es-es/training-courses/virtualizacin-y-administracin-de-sharepoint-con-microsoft-cloud-os-11149) (Microsoft Channel 9)
-* [Virtualización y administración de SQL Server Microsoft Cloud OS](https://mva.microsoft.com/es-es/training-courses/virtualizacin-y-administracin-de-sql-server-microsoft-cloud-os-8871) (Microsoft Channel 9)
-* [Windows Intune: La solución MDM de Microsoft](https://mva.microsoft.com/es-es/training-courses/windows-intune-la-solucin-mdm-de-microsoft-11242) (Microsoft Channel 9)
 * [Windows Server 2008 R2](https://www.youtube.com/playlist?list=PLBBC993A6895D054B) (Pablo Martinez, YouTube)
 * [Windows Server 2012](https://www.youtube.com/playlist?list=PL5A481BA9FF8A8B75) (Pablo Martinez, YouTube)
-* [Windows Server 2012 - Almacenamiento](https://mva.microsoft.com/es-es/training-courses/windows-server-2012-almacenamiento-8624) (Microsoft Channel 9)
-* [Windows Server 2012 - Gestión y Automatización](https://mva.microsoft.com/es-es/training-courses/windows-server-2012-gestin-y-automatizacin-9120) (Microsoft Channel 9)
 * [Windows Server 2016](https://www.youtube.com/playlist?list=PLn5IkU1Zhgibnm35AkK0OADKx9KacjbxW) (JGAITPro, YouTube)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
-
-## ✍ Sistemas de Gestión de Contenidos
-
-* [Ajax en Wordpress para desarrolladores web. Avanzado](https://www.udemy.com/ajax-para-wordpress) (Udemy)
-* [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4) (Udemy)
-* [Aprende a crear una página web profesional con Wordpress](https://www.udemy.com/aprende-a-crear-tu-pagina-web-profesional-con-wordpress) (Udemy)
-* [Aprende a usar Rest en Drupal 7](https://www.udemy.com/aprende-a-usar-el-servicio-rest-en-drupal7-y-drupal8) (Udemy)
-* [Aprende Brizy en Wordpress: diseña tu página web en 2 horas](https://www.udemy.com/cursobrizy) (Udemy)
-* [Aprende Wordpress de forma sencilla](https://miriadax.net/web/aprende-wordpress-de-forma-sencilla-2-edicion-) (MiriadaX)
-* [Aprender a crear tu página web con Wordpress](https://www.udemy.com/aprende-a-crear-tu-pagina-web-con-wordpress) (Udemy)
-* [Como crear un theme para Wordpress desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yUwYp_ueyulofOhRBKYa4j-) (Falcon Masters, Youtube)
-* [Crea tu blog con Wordpress](https://www.udemy.com/crea-tu-blog-con-wordpress) (Udemy)
-* [Crea tu primera página web con Wordpress](https://www.crehana.com/cursos/diseno-web/crea-tu-primera-pagina-web-con-wordpress) (Crehana)
-* [Crear temas para Wordpress utilizando Bootstrap 4](https://www.youtube.com/playlist?list=PLPl81lqbj-4KuiW_p8OejglqTEHmfeEto) (Bluuweb!, YouTube)
-* [Crear un sitio web con Drupal](https://www.udemy.com/curso-basico-de-drupal) (Udemy)
-* [Curso como crear y editar un blog de blogguer, Joalgoba](https://www.youtube.com/playlist?list=PLe_p_U5W9sa7KnbvLiJFqKXeqcFKSe7bb) (Joalgoba, Youtube)
-* [Curso completo de Wordpress desde cero](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWMco69NRWxwIww844JN9yl) (Falcon Masters, Youtube)
-* [Curso de Wordpress para triunfar en Internet y ganar dinero](https://www.udemy.com/wordpress-para-crear-paginas-web-o-tu-blog-y-monetizacion) (Udemy)
-* [Diseña tu portfolio web con Wordpress y Divi](https://www.udemy.com/disena-tu-portafolio-web-con-wordpress-y-divi) (Udemy)
-* [Dominando Elementor desde Cero Vol.2](https://www.udemy.com/dominando-elementor-desde-cero-vol-2) (Udemy)
-* [Dominando Wordpress paso a paso y desde cero](https://www.udemy.com/dominando-wordpress-paso-a-paso-y-desde-cero) (Udemy)
-* [Dominando Wordpress sin programación](https://www.udemy.com/dominando-wordpress) (Udemy)
-* [Drupal 8.0](https://www.youtube.com/playlist?list=PLY3lWsAagE8N7ubeqj6LY5r-ak7_BbQ0A) (PandB Software en Español, YouTube)
-* [Gestión de contenidos web a través del CMS Drupal (2009)](http://ocw.um.es/transversales/gestion-de-contenidos-web-a-traves-del-cms-drupal) (OCW)
-* [Gestión de Servicios IT con System Center 2012 R2](https://mva.microsoft.com/es-es/training-courses/gestin-de-servicios-it-con-system-center-2012-r2-8815) (Microsoft Channel 9)
-* [Guía completa de de Wordpress](https://www.udemy.com/guia-completa-de-wordpress-aprende-a-crear-sitios-web) (Udemy)
-* [Joomla 3 "Mi primer proyecto con Joomla"](https://www.udemy.com/curso-de-joomla-3-5-mi-primero-proyecto-con-joomla) (Udemy)
-* [Joomla 3.0](https://www.youtube.com/playlist?list=PLWN_byxCBu5K6k5_-UEEpPd4eQFjo9C-w) (Grupo Inti, YouTube)
-* [Moodle 3.0](https://www.youtube.com/watch?v=oxRlezup_nc&list=PLa3fNlcB1bYcSBp3kbN1BSc0dZfQ0QZpG) (Óscar Arturo Cruz, YouTube)
-* [Sistemas desarrollados a medidas por Sabio Go](https://www.udemy.com/desarrollos-sabio-go) (Udemy)
-* [Wordpress+Brizy+Canva: Conviértete en diseñador web](https://www.udemy.com/curso-brizy) (Udemy)
-* [Wordpress con Thrive Content Builder](https://www.udemy.com/revoluciona-tu-blog-wordpress-con-thrive-content-builder) (Udemy)
-* [Wordpress desde cero (nivel básico)](https://www.udemy.com/wordpress-desde-cero-nivel-basico) (Udemy)
-* [Wordpress desde cero (nivel avanzado)](https://www.udemy.com/wordpress-desde-cero-nivel-avanzado) (Udemy)
-* [Wordpress en español desde cero](https://www.youtube.com/playlist?list=PLmIEoKACpcDy5XGw_v7RFxRQ04cvXCF40) (Lievano San, Youtube)
-* [Wordpress para principiantes](https://www.udemy.com/wordpress-diegocmartin/%5D#wordpress) (Udemy)
-* [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido) (Udemy)
-* [Wordpress. Curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress) (Udemy)
-* [Wordpress. Introducción práctica a Gutenberg el nuevo editor](https://www.udemy.com/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor) (Udemy)
-
-### Wordpress <i class="fab fa-wordpress"></i>
-
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 👨‍🔧 Técnico de Software & Hardware
 
-* [Active Directory: habilidades básicas](https://mva.microsoft.com/es-es/training-courses/active-directory-habilidades-bsicas-14772) (Microsoft Channel 9)
 * [Administración de sistemas operativos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6842&p_caca=2010) (OCW)
-* [Ampiación de Office 365 con Enterprise Mobility Suite](https://mva.microsoft.com/es-es/training-courses/ampliacin-de-office-365-con-enterprise-mobility-suite-8332) (Microsoft Channel 9)
 * [Cobre, el fiel amigo de la comunicación](https://miriadax.net/web/cobre-el-fiel-amigo-de-la-comunicacion-2-edicion-/inicio) (MiriadaX)
 * [Codificación de audio: más allá del MP3](https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3-upvalenciax-mp3201x-0) (edx)
-* [Compatibilidad y migración de aplicaciones en Windows](https://mva.microsoft.com/es-es/training-courses/compatibilidad-y-migracin-de-aplicaciones-en-windows-8811) (Microsoft Channel 9)
-* [Compresión de Active Directory](https://mva.microsoft.com/es-es/training-courses/comprensin-de-active-directory-8233) (Microsoft Channel 9)
 * [Compresión de vídeo (2017)](https://ocw.unican.es/course/view.php?id=13) (OCW)
 * [Conectando el futuro con fibra óptica](https://miriadax.net/web/conectando-el-futuro-con-fibra-optica-11-edicion-/inicio) (MiriadaX)
 * [Desarrollo de sistemas de información (2013)](https://ocw.unican.es/course/view.php?id=99) (OCW)
@@ -1145,13 +1041,8 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Información Digital: representación y codificación](https://abierta.ugr.es/informacion_digital) (Abierta UGR)
 * [Informática (2011)](http://ocw.uc3m.es/ingenieria-informatica/informatica) (OCW)
 * [Informática de gestión (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=10127&p_caca=2010) (OCW)
-* [Iniciando con Windows 10 para profesionales IT](https://mva.microsoft.com/es-es/training-courses/iniciando-con-windows-10-para-profesionales-it-16455) (Microsoft Channel 9)
-* [Introducción a Windows 10 para profesionales de Tecnología](https://mva.microsoft.com/es-es/training-courses/introduccin-a-windows-10-para-profesionales-de-tecnologa-14781) (Microsoft Channel 9)
-* [Jump Start para herramientas y scripting avanzadas con PowerShell 3.0](https://mva.microsoft.com/es-es/training-courses/jump-start-para-herramientas-y-scripting-avanzados-con-powershell-30-8277) (Microsoft Channel 9)
 * [Laboratorio de Software de Comunicaciones (2009)](http://ocwus.us.es/ingenieria-telematica/pp/Course_listing) (OCW)
 * [Mantenimiento y Reparación de Computadoras](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAimaLKc_WqTGpvJs5vyXPS) (Tecnología Capacitate, YouTube)
-* [Migración desde Windows XP a Windows 7](https://mva.microsoft.com/es-es/training-courses/migracin-desde-windows-xp-a-windows-7-12650) (Microsoft Channel 9)
-* [Migración desde Windows XP a Windows 8.1](https://mva.microsoft.com/es-es/training-courses/migracin-desde-windows-xp-a-windows-81-8273) (Microsoft Channel 9)
 * [Particiones y Raid](https://www.youtube.com/playlist?list=PLssmz9LfwThzw8dnKqbbdsH1xdoovqZmi) (Tecnoges, YouTube)
 * [Reparación y mantenimiento de dispositivos móviles](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAV6JifEr0BuibOlS7_NI01) (Tecnología Capacitate, YouTube)
 * [Sistemas Abiertos: Unix](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/sistemas-abiertos-unix) (OCW)
@@ -1170,100 +1061,97 @@ Programación 🚧 "Por Re - Organizar en post de la Mejoría de la Navegación"
 * [Sistemas Operativos (2016)](http://ocw.uji.es/curso/1514152) (OCW)
 * [Sistemas Operativos I](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/sistemas-operativos-i) (OCW)
 * [Sistemas Operativos II (2008)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=5850&p_caca=2008) (OCW)
-* [Solución de problemas de inicio y consumo de recursos de Windows 8](https://mva.microsoft.com/es-es/training-courses/solucin-de-problemas-de-inicio-y-consumo-de-recursos-de-windows-8-11553) (Microsoft Channel 9)
 * [Técnicas informáticas -estudios de gestión y administración pública- (2012)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-informaticas-para-estudios-de-gestion-y-administracion-publica-2012.html) (OCW)
 * [Técnico en Redes de Datos](https://www.youtube.com/playlist?list=PLfWJBWUqkmeA1KlRpFyYhr_NeBUcFaUi_) (Tecnología Capacitate, YouTube)
 * [Tecnologías Multimedia](https://campusvirtual.ull.es/ocw/course/view.php?id=5) (OCW)
-* [Windows 10 para educación](https://mva.microsoft.com/es-es/training-courses/windows-10-para-educacin-15705) (Microsoft Channel 9)
-* [Windows 8.1 To Go](https://mva.microsoft.com/es-es/training-courses/windows-81-to-go-8272) (Microsoft Channel 9)
 
 <a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
 
 ## 👷‍♂️ Webmaster
 
-* [3 Claves para convertir tu idea en dinero](https://www.udemy.com/3-claves-para-convertir-tu-idea-en-dinero) (Udemy)
-* [5 Estrategias para invertir en acciones, crypto y forex](https://www.udemy.com/5-estrategias-para-invertir-en-acciones-forex-y-criptomedas) (Udemy)
-* [Buenas prácticas en el uso académico de la propiedad intelectual](https://miriadax.net/web/buenas-practicas-en-el-uso-academico-de-la-propiedad-intelectual-2-edicion-) (MiriadaX)
-* [Buscar en Internet](https://www.edx.org/course/buscar-en-internet-upvalenciax-bi101x-1) (edx)
-* [Búsqueda y Gestión de la Información en la Web](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion-en-la-web-3-edicion-) (MiriadaX)
-* [Creación de encuestas](https://www.udemy.com/creacion-de-encuestas) (Udemy)
-* [Creación de marca en la web](https://www.youtube.com/playlist?list=PLfWJBWUqkmeBDFmf9HnLl0WGVyqZG32tF) (Tecnología Capacitate, YouTube)
-* [Crear campañas de E-Mail Marketing y E-Mail masivos](https://www.udemy.com/curso-basico-de-email-marketing-con-mailchimp) (Udemy)
-* [Crear estación de radio por Internet desde cero](https://www.udemy.com/crear-estacion-de-radio-por-internet-desde-cero) (Udemy)
-* [Creative Commons](https://abierta.ugr.es/creative_commons) (Abierta UGR)
-* [Creatividad publicitaria (2015)](https://ocw.ehu.eus/course/view.php?id=360) (OCW)
-* [Curso de introducción a la publicidad programática](https://www.udemy.com/curso-de-publicidad-programatica) (Udemy)
-* [Desarrollo de contenido digital](https://www.youtube.com/playlist?list=PLfWJBWUqkmeCz4HIOBoDbzjHGJ1azydj5) (Tecnología Capacitate, YouTube)
-* [Desarrollo de negocios exitosos en Internet](https://www.udemy.com/desarrollo-correcto-de-un-negocio-online) (Udemy)
-* [El cibermercado en el espacio Internet (2010)](https://ocw.ehu.eus/file.php/123/cibermercado/Course_listing.html) (OCW)
-* [Encontrando tesoros en la red](https://miriadax.net/web/encontrando-tesoros-en-la-red-4-edicion-) (MiriadaX)
-* [Escribir un ensayo](https://www.udemy.com/escribir-un-ensayo) (Udemy)
-* [Experto en Email Marketing con GetResponse](https://www.udemy.com/curso-de-email-marketing-con-getresponse) (Udemy)
-* [Google AdWords 2018 desde fundamentos hasta optimización](https://www.udemy.com/google-adwords-2018-desde-fundamentos-hasta-optimizacion) (Udemy)
-* [Introducción a Google Adwords](https://www.udemy.com/introduccion-a-google-adwords) (Udemy)
-* [Introducción a la redacción ciberperiodística (2014)](https://ocw.ehu.eus/course/view.php?id=330) (OCW)
-* [Introducción al Crowdfunding](https://miriadax.net/web/introduccion-al-crowdfunding) (MiriadaX)
-* [La Web Semántica](https://www.coursera.org/learn/web-semantica) (Coursera)
-* [Marketing de afiliados - Haz dinero con tu blog](https://www.udemy.com/biblia-marketing-de-afiliados) (Udemy)
-* [Oportunidades de negocio en el Internet de las Cosas](https://miriadax.net/web/oportunidades-de-negocio-para-internet-de-las-cosas/inicio) (MiriadaX)
-* [Publicidad en Google - Ads, Youtube, Waze, Adwords Express](https://www.udemy.com/andresbrachetta-ecosistema-publicitario-google) (Udemy)
-* [Publicidad en línea. Campañas en Facebook y Adwords](https://miriadax.net/web/publicidad-en-linea-campanas-en-facebook-y-adwords-2-edicion-) (MiriadaX)
+* [3 Claves para convertir tu idea en dinero](https://www.udemy.com/3-claves-para-convertir-tu-idea-en-dinero){:target="_blank"} (Udemy)
+* [5 Estrategias para invertir en acciones, crypto y forex](https://www.udemy.com/5-estrategias-para-invertir-en-acciones-forex-y-criptomedas){:target="_blank"} (Udemy)
+* [Buenas prácticas en el uso académico de la propiedad intelectual](https://miriadax.net/web/buenas-practicas-en-el-uso-academico-de-la-propiedad-intelectual-2-edicion-){:target="_blank"} (MiriadaX)
+* [Buscar en Internet](https://www.edx.org/course/buscar-en-internet-upvalenciax-bi101x-1){:target="_blank"} (edx)
+* [Búsqueda y Gestión de la Información en la Web](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion-en-la-web-3-edicion-){:target="_blank"} (MiriadaX)
+* [Creación de encuestas](https://www.udemy.com/creacion-de-encuestas){:target="_blank"} (Udemy)
+* [Creación de marca en la web](https://www.youtube.com/playlist?list=PLfWJBWUqkmeBDFmf9HnLl0WGVyqZG32tF){:target="_blank"} (Tecnología Capacitate, YouTube)
+* [Crear campañas de E-Mail Marketing y E-Mail masivos](https://www.udemy.com/curso-basico-de-email-marketing-con-mailchimp){:target="_blank"} (Udemy)
+* [Crear estación de radio por Internet desde cero](https://www.udemy.com/crear-estacion-de-radio-por-internet-desde-cero){:target="_blank"} (Udemy)
+* [Creative Commons](https://abierta.ugr.es/creative_commons){:target="_blank"} (Abierta UGR)
+* [Creatividad publicitaria (2015)](https://ocw.ehu.eus/course/view.php?id=360){:target="_blank"} (OCW)
+* [Curso de introducción a la publicidad programática](https://www.udemy.com/curso-de-publicidad-programatica){:target="_blank"} (Udemy)
+* [Desarrollo de contenido digital](https://www.youtube.com/playlist?list=PLfWJBWUqkmeCz4HIOBoDbzjHGJ1azydj5){:target="_blank"} (Tecnología Capacitate, YouTube)
+* [Desarrollo de negocios exitosos en Internet](https://www.udemy.com/desarrollo-correcto-de-un-negocio-online){:target="_blank"} (Udemy)
+* [El cibermercado en el espacio Internet (2010)](https://ocw.ehu.eus/file.php/123/cibermercado/Course_listing.html){:target="_blank"} (OCW)
+* [Encontrando tesoros en la red](https://miriadax.net/web/encontrando-tesoros-en-la-red-4-edicion-){:target="_blank"} (MiriadaX)
+* [Escribir un ensayo](https://www.udemy.com/escribir-un-ensayo){:target="_blank"} (Udemy)
+* [Experto en Email Marketing con GetResponse](https://www.udemy.com/curso-de-email-marketing-con-getresponse){:target="_blank"} (Udemy)
+* [Google AdWords 2018 desde fundamentos hasta optimización](https://www.udemy.com/google-adwords-2018-desde-fundamentos-hasta-optimizacion){:target="_blank"} (Udemy)
+* [Introducción a Google Adwords](https://www.udemy.com/introduccion-a-google-adwords){:target="_blank"} (Udemy)
+* [Introducción a la redacción ciberperiodística (2014)](https://ocw.ehu.eus/course/view.php?id=330){:target="_blank"} (OCW)
+* [Introducción al Crowdfunding](https://miriadax.net/web/introduccion-al-crowdfunding){:target="_blank"} (MiriadaX)
+* [La Web Semántica](https://www.coursera.org/learn/web-semantica){:target="_blank"} (Coursera)
+* [Marketing de afiliados - Haz dinero con tu blog](https://www.udemy.com/biblia-marketing-de-afiliados){:target="_blank"} (Udemy)
+* [Oportunidades de negocio en el Internet de las Cosas](https://miriadax.net/web/oportunidades-de-negocio-para-internet-de-las-cosas/inicio){:target="_blank"} (MiriadaX)
+* [Publicidad en Google - Ads, Youtube, Waze, Adwords Express](https://www.udemy.com/andresbrachetta-ecosistema-publicitario-google){:target="_blank"} (Udemy)
+* [Publicidad en línea. Campañas en Facebook y Adwords](https://miriadax.net/web/publicidad-en-linea-campanas-en-facebook-y-adwords-2-edicion-){:target="_blank"} (MiriadaX)
 * [Redacción en Internet](https://miriadax.net/web/redaccion-en-internet-2-edicion-) (MiriadaX)
-* [Super Networking: Networking personal para principiantes](https://www.udemy.com/networking-personal-y-habilidades-sociales-para-tener-exito) (Udemy)
-* [Vídeo Marketing para emprendedores](https://www.youtube.com/playlist?list=PL694C136868F3BABD) (Carla Delgado, YouTube)
-* [Zoho Campañas: crea tus propias campañas de Marketing](https://www.udemy.com/zoho-campaigns-crea-tus-propias-campanas-de-marketing) (Udemy)
-* [Zoho CRM Admin: aprende a gestionar tus ventas exitosamente](https://www.udemy.com/zoho-crm-admin-aprende-a-gestionar-tus-ventas-exitosamente) (Udemy)
-* [Zoho CRM App: gestiona tus clientes desde tu móvil](https://www.udemy.com/zoho-crm-mobile-app-gestiona-tus-clientes-desde-tu-movil) (Udemy)
-* [Zoho CRM Usuario: gestiona tus procesos en ventas con éxito](https://www.udemy.com/zoho-crm-usuario-gestiona-tus-procesos-de-ventas-con-exito) (Udemy)
+* [Super Networking: Networking personal para principiantes](https://www.udemy.com/networking-personal-y-habilidades-sociales-para-tener-exito){:target="_blank"} (Udemy)
+* [Vídeo Marketing para emprendedores](https://www.youtube.com/playlist?list=PL694C136868F3BABD){:target="_blank"} (Carla Delgado, YouTube)
+* [Zoho Campañas: crea tus propias campañas de Marketing](https://www.udemy.com/zoho-campaigns-crea-tus-propias-campanas-de-marketing){:target="_blank"} (Udemy)
+* [Zoho CRM Admin: aprende a gestionar tus ventas exitosamente](https://www.udemy.com/zoho-crm-admin-aprende-a-gestionar-tus-ventas-exitosamente){:target="_blank"} (Udemy)
+* [Zoho CRM App: gestiona tus clientes desde tu móvil](https://www.udemy.com/zoho-crm-mobile-app-gestiona-tus-clientes-desde-tu-movil){:target="_blank"} (Udemy)
+* [Zoho CRM Usuario: gestiona tus procesos en ventas con éxito](https://www.udemy.com/zoho-crm-usuario-gestiona-tus-procesos-de-ventas-con-exito){:target="_blank"} (Udemy)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Accesibilidad Web ♿
 
-* [Accesibilidad TIC en compras públicas](https://iedra.uned.es/courses/UNED-ONCE/AccTIC/2017/about) (OCW)
-* [Accesibilidad Universal (2012)](http://ocw.uc3m.es/ingenieria-informatica/accesibilidad-universal)
-* [Aprende accesibilidad web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso) (Udemy)
-* [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad) (OCW)
+* [Accesibilidad TIC en compras públicas](https://iedra.uned.es/courses/UNED-ONCE/AccTIC/2017/about){:target="_blank"} (OCW)
+* [Accesibilidad Universal (2012)](http://ocw.uc3m.es/ingenieria-informatica/accesibilidad-universal){:target="_blank"} (OCW)
+* [Aprende accesibilidad web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso){:target="_blank"} (Udemy)
+* [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad){:target="_blank"} (OCW)
 
 ## Análitica Web 📈
 
-* [Analítica Web](https://miriadax.net/web/analitica-web/inicio) (MiriadaX)
-* [Cómo encontrar palabras clave en el Planificador de Google](https://www.udemy.com/como-encontrar-palabras-clave-en-el-planificador-de-google) (Udemy)
-* [Curso fundamentos de Google Analitycs 2018](https://www.udemy.com/curso-de-fundamentos-de-google-analytics-2018) (Udemy)
-* [Fundamentos de Analítica Digital, Analitycs +GTM](https://www.udemy.com/intro-administrador-etiquetas-tag-manager-y-analisis-web) (Udemy)
-* [Fundamentos de Google Analitycs 2018](https://www.udemy.com/curso-de-fundamentos-de-google-analytics-2018) (Udemy)
-* [Google Search Console: Curso Online de Google Search Console](https://www.udemy.com/share/101z34AkoaeF5RTXw=)
+* [Analítica Web](https://miriadax.net/web/analitica-web/inicio){:target="_blank"} (MiriadaX)
+* [Cómo encontrar palabras clave en el Planificador de Google](https://www.udemy.com/como-encontrar-palabras-clave-en-el-planificador-de-google){:target="_blank"} (Udemy)
+* [Curso fundamentos de Google Analitycs 2018](https://www.udemy.com/curso-de-fundamentos-de-google-analytics-2018){:target="_blank"} (Udemy)
+* [Fundamentos de Analítica Digital, Analitycs +GTM](https://www.udemy.com/intro-administrador-etiquetas-tag-manager-y-analisis-web){:target="_blank"} (Udemy)
+* [Fundamentos de Google Analitycs 2018](https://www.udemy.com/curso-de-fundamentos-de-google-analytics-2018){:target="_blank"} (Udemy)
+* [Google Search Console: Curso Online de Google Search Console](https://www.udemy.com/share/101z34AkoaeF5RTXw=){:target="_blank"}
 
 ## Marketing en Redes Sociales 🏪
 
-* [Automatización de redes sociales: Unifica tus publicaciones](https://www.udemy.com/automatizacion-de-redes-sociales-unifica-tus-publicaciones) (Udemy)
-* [Branding para redes sociales](https://www.crehana.com/cursos/branding/branding-para-redes-sociales) (Crehana)
-* [Crea la imagen de una campaña digital](https://www.crehana.com/cursos/branding/crea-la-imagen-de-una-campana-digital) (Crehana)
+* [Automatización de redes sociales: Unifica tus publicaciones](https://www.udemy.com/automatizacion-de-redes-sociales-unifica-tus-publicaciones){:target="_blank"} (Udemy)
+* [Branding para redes sociales](https://www.crehana.com/cursos/branding/branding-para-redes-sociales){:target="_blank"} (Crehana)
+* [Crea la imagen de una campaña digital](https://www.crehana.com/cursos/branding/crea-la-imagen-de-una-campana-digital){:target="_blank"} (Crehana)
 
 ### Facebook <i class="fab fa-facebook-square"></i>
 
-* [Marketing digital en Facebook: haz crecer tu negocio](https://www.crehana.com/cursos/all/marketing-digital-en-facebook-haz-crecer-tu-negocio) (Crehana)
-* [Utilizar Facebook para aumentar Clientes y generar Ventas](https://www.udemy.com/share/101taqAkoaeF5RTXw=) (Udemy)
+* [Marketing digital en Facebook: haz crecer tu negocio](https://www.crehana.com/cursos/all/marketing-digital-en-facebook-haz-crecer-tu-negocio){:target="_blank"} (Crehana)
+* [Utilizar Facebook para aumentar Clientes y generar Ventas](https://www.udemy.com/share/101taqAkoaeF5RTXw=){:target="_blank"} (Udemy)
 
 ### Instagram <i class="fab fa-instagram"></i>
 
-* [10 Maneras de crecer tu Instagram de forma orgánica](https://www.udemy.com/10-maneras-de-crecer-tu-instagram-de-forma-organica) (Udemy)
-* [Curso publicidad en Instagram, ¡crea ya tus anuncios!](https://www.udemy.com/curso-publicidad-en-instagram-gratis-desde-0) (Udemy)
-* [Instagram 2018: paso a paso hasta los 10.000 seguidores](https://www.udemy.com/instagram-2018-paso-a-paso-hasta-los-10000-seguidores) (Udemy)
-* [Instagram para negocios locales](https://www.udemy.com/instagram-para-negocios-locales) (Udemy)
-* [Introducción al Marketing en Instagram para tu empresa](https://www.udemy.com/share/101tpEAkoaeF5RTXw=) (Udemy)
+* [10 Maneras de crecer tu Instagram de forma orgánica](https://www.udemy.com/10-maneras-de-crecer-tu-instagram-de-forma-organica){:target="_blank"} (Udemy)
+* [Curso publicidad en Instagram, ¡crea ya tus anuncios!](https://www.udemy.com/curso-publicidad-en-instagram-gratis-desde-0){:target="_blank"} (Udemy)
+* [Instagram 2018: paso a paso hasta los 10.000 seguidores](https://www.udemy.com/instagram-2018-paso-a-paso-hasta-los-10000-seguidores){:target="_blank"} (Udemy)
+* [Instagram para negocios locales](https://www.udemy.com/instagram-para-negocios-locales){:target="_blank"} (Udemy)
+* [Introducción al Marketing en Instagram para tu empresa](https://www.udemy.com/share/101tpEAkoaeF5RTXw=){:target="_blank"} (Udemy)
 
 ### Pinterest <i class="fab fa-pinterest"></i>
 
-* [Pinterest en Español](https://www.udemy.com/pinterest-en-espanol) (Udemy)
+* [Pinterest en Español](https://www.udemy.com/pinterest-en-espanol){:target="_blank"} (Udemy)
 
 ### Youtube <i class="fab fa-youtube"></i>
 
-* [Cómo convertirse en un usuario experto de Youtube](https://www.udemy.com/como-convertirte-en-un-usuario-experto-de-youtube) (Udemy)
-* [Curso ganar dinero en Youtube](https://www.youtube.com/playlist?list=PLzBklNHovU38WNPTX0RAn8Duvr-OxqJNI) (SEO Carlangas, Youtube)
+* [Cómo convertirse en un usuario experto de Youtube](https://www.udemy.com/como-convertirte-en-un-usuario-experto-de-youtube){:target="_blank"} (Udemy)
+* [Curso ganar dinero en Youtube](https://www.youtube.com/playlist?list=PLzBklNHovU38WNPTX0RAn8Duvr-OxqJNI){:target="_blank"} (SEO Carlangas, Youtube)
 
 ## Seo y Posicionamiento 🔍
-* [Curso de SEO (fácil e intermedio)](https://www.youtube.com/playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW) (Youtube)
-* [SEO. Posicionamiento natural en buscadores](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-2-edicion-) (MiriadaX)
+* [Curso de SEO (fácil e intermedio)](https://www.youtube.com/playlist?list=PL6heMTo6Ni5cyGYGzhGLiNZJjWjkz2uYW){:target="_blank"} (Youtube)
+* [SEO. Posicionamiento natural en buscadores](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-2-edicion-){:target="_blank"} (MiriadaX)
 
-<center><a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--primary btn--large"> Regresar 🔝</a></center>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
