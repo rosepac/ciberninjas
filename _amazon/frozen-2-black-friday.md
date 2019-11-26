@@ -37,7 +37,8 @@ El actual estreno de Frozen 2 hará de sus personajes el mejor regalo para todos
 
 Aprovechando las rebajas del Black Friday, desde Ciberninjas nos gustaría compartir los mejores juguetes relacionados con nuestros:  Elsa, Olaff, Ana, Kristoff, etc.
 
-[🧸 ¡PRÓXIMAMENTE, MÁS JUGUETES DE FROZEN 2! 👸](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
+[🎁 BLACK FRIDAY 2019 🎁](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[🧸 ¡PRÓXIMAMENTE, MÁS JUGUETES & TECNOLOGÍA! 👸](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
 
 ## 👩‍🔧 LEGOS
 
