@@ -5,14 +5,21 @@ description: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre a
 excerpt: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
 author_profile: true
 published: true
-date: 2019-10-04T17:00:00.000+00:00
-last_modified_at: 2019-10-04T19:10:42-05:00
+date: 2019-10-04T17:00:00.000+01:00
+last_modified_at: 2019-11-26T20:50:42+01:00
 permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
 header:
-  image: "/assets/images/cursos_educacion_pensar.jpg"
-  image_description: "Los Mejores Cursos para Profesores, Educadores, Pegagogos y Profesionales de la Educación \ Visto en Ciberninjas"
+  teaser: "/assets/images/cursos_educacion_pensar.jpg"
+  overlay_image: "/assets/images/cursos_educacion_pensar.jpg"
+  image_description: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación \ Visto en Ciberninjas"
+  image_alt: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación \ Visto en Ciberninjas"
   caption: "**Créditos**: ROSEPAC."
+  actions:
+    - label: "Cursos Tecnología"
+      url: "/cursos-tecnologia/"
+    - label: "Cursos Microsoft"
+      url: "/cursos-tecnologia-microsoft/"
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
 #   width: 1024
@@ -27,20 +34,20 @@ toc_sticky: false
 
 ---
 
-[📚 Libros](/libros-educacion/) [🧰 Recursos](/recursos-educacion/)
+[📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large}
 
 ## Metalistas
 
-- [Aprende Intef](https://enlinea.intef.es){:target="_blank"}
-- [EduPills](http://edupills.educalab.es){:target="_blank"}
-- [Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado](https://intef.es){:target="_blank"}
-- [Marco Común en Competencia Digital Docente](http://aprende.intef.es/sites/default/files/2018-05/2017_1020_Marco-Com%C3%BAn-de-Competencia-Digital-Docente.pdf){:target="_blank"} (PDF)
-- [Materiales Descargables](http://educalab.es/intef/formacion/formacion-en-red/materiales-descargables){:target="_blank"} (Intef)
-- [Pro Común - Red de Recursos Educativos en Abierto](http://procomun.educalab.es/es){:target="_blank"}
-- [Uned Abierta](https://iedra.uned.es){:target="_blank"}
-- [EducaciónTresPuntoCero](https://www.educaciontrespuntocero.com){:target="_blank"}
+* [Aprende Intef](https://enlinea.intef.es){:target="_blank"}
+* [EduPills](http://edupills.educalab.es){:target="_blank"}
+* [Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado](https://intef.es){:target="_blank"}
+* [Marco Común en Competencia Digital Docente](http://aprende.intef.es/sites/default/files/2018-05/2017_1020_Marco-Com%C3%BAn-de-Competencia-Digital-Docente.pdf){:target="_blank"} (PDF)
+* [Materiales Descargables](http://educalab.es/intef/formacion/formacion-en-red/materiales-descargables){:target="_blank"} (Intef)
+* [Pro Común - Red de Recursos Educativos en Abierto](http://procomun.educalab.es/es){:target="_blank"}
+* [Uned Abierta](https://iedra.uned.es){:target="_blank"}
+* [EducaciónTresPuntoCero](https://www.educaciontrespuntocero.com){:target="_blank"}
 
-
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .align-center}
 <!-- cursos solo en ingles: https://iversity.org/en/courses?course_of_study_code=&type=&language_code=it&search= -->
 ## Cursos de Educación
 
@@ -118,9 +125,8 @@ toc_sticky: false
 * [Learning Analytics en Educación](https://enlinea.intef.es/courses/course-v1:MOOC-INTEF+EduAnalyticsMooc+2019_ED2/about){:target="_blank"} (Intef)
 * [Programas malignos, vías de infección y consecuencias del contagio](https://enlinea.intef.es/courses/course-v1:INTEF+EDUsinmalware+2019_ED1/about){:target="_blank"} (Intef)
 * [Tipos de malware, riesgos y protección específica](https://enlinea.intef.es/courses/course-v1:INTEF+antimalwareEDU+2019_ED1/about){:target="_blank"} (Intef)
-
 <!-- LISTADOS DE CURSOS WTF. XD -->
-
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .align-center}
 
 ## Educación Especial
 
@@ -133,7 +139,10 @@ toc_sticky: false
 * [Tecnologías de apoyo y atención a la diversidad (2009)](http://ocw.um.es/cc.-sociales/tecnologias-de-apoyo-y-atencion-a-la-diversidad){:target="_blank"}
 * [Trastornos del Desarrollo y Logopedía (2009)](http://ocw.um.es/cc.-sociales/tecnologias-de-la-informacion-y-la-comunicacion){:target="_blank"}
 
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .align-center}
+
 ## Recursos Educativos
+
 * [Programación en las Aulas](https://www.programoergosum.com){:target="_blank"} \ Programo Ergo Sum
 * Software de Aprendizaje de Programación <!-- /programacion-robotica-para-niños/ -->
 <!-- /app-inventor -->
@@ -169,5 +178,5 @@ toc_sticky: false
 	- [![AulaLinex](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_aulalinex.png)AulaLinex](http://aulalinex.educarex.es/){:target="_blank"}
 	- [![Constructor](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_constructor.png)Constructor](https://constructor.educarex.es/){:target="_blank"}
 	- [![exelearning](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_exelearning.png)exelearning](http://exelearning.net/){:target="_blank"}
-
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .align-center}
 <!-- BUSCAR RECURSOS A LO LARGO DE MIS MARCADORES XD XD XD -->
