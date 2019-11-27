@@ -1,11 +1,11 @@
 ---
 title: "👨‍🏫 ▷ Cursos de Educación Específicos para Docentes y Profesorado"
-description: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
-excerpt: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
+description: "🎓 ▷ Colección de 66 cursos y recursos de aprendizaje, educación, pedagogía, metodologías."
+excerpt: "🎓 ▷ Colección de 66 cursos y recursos de aprendizaje, educación, pedagogía, metodologías."
 author_profile: true
 published: true
 date: 2019-10-04T17:00:00.000+01:00
-last_modified_at: 2019-11-27T09:00:00.000+01:00
+last_modified_at: 2019-11-27T10:32:00.000+01:00
 permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
 header:
@@ -15,13 +15,13 @@ header:
   image_alt: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación"
   caption: "Créditos: Unsplash."
 #  actions:
-#	- label: "Cursos Tecnología"
+#   - label: "Cursos Tecnología"
 #      url: "/cursos-tecnologia/"
-#    - label: "Cursos Microsoft"
+#   - label: "Cursos Microsoft"
 #      url: "/cursos-tecnologia-microsoft/"
 ---
 
-[📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#educación-especial){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large}
+[📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#diversidad){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large}
 
 ## Metalistas
 
