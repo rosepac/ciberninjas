@@ -1,5 +1,4 @@
 ---
-# Página Base
 title: "👨‍🏫 ▷ Cursos de Educación Específicos para Docentes y Profesorado"
 description: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
 excerpt: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
@@ -10,17 +9,20 @@ last_modified_at: 2019-11-27T09:00:00.000+01:00
 permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
 header:
-  teaser: 'https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg'
-  overlay_image: 'https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg'
-  image_description: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación \ Visto en Ciberninjas"
-  image_alt: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación \ Visto en Ciberninjas"
-  caption: "**Créditos**: Unsplash."
+  teaser: https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg
+  overlay_image: https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg
+  image_description: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación"
+  image_alt: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación"
+  caption: "Créditos: Unsplash."
   actions:
-    - label: "Cursos Tecnologia"
-	  url: "/cursos-tecnologia/"
+	- label: "Cursos Tecnología"
+      url: "/cursos-tecnologia/"
     - label: "Cursos Microsoft"
-	  url: "/cursos-tecnologia-microsoft/"
-
+      url: "/cursos-tecnologia-microsoft/"
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
 ---
 
 [📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#educación-especial){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large}
@@ -178,5 +180,5 @@ header:
 [🎓 Cursos de Tecnología](/cursos-tecnologia/){: .btn .btn--inverse .btn--x-large .align-center}
 [📁 Cursos de Microsoft](/cursos-tecnologia-microsoft/){: .btn .btn--inverse .btn--x-large .align-center}
 [🔨 Recursos Prácticos](https://kutt.it/recursos){: .btn .btn--inverse .btn--x-large .align-center}
-[📚 Biblioteca de Tecnología](/biblioteca-de-programacion-y-tecnologia//){: .btn .btn--inverse .btn--x-large .align-center}
+[📚 Biblioteca de Tecnología](/biblioteca-de-programacion-y-tecnologia/){: .btn .btn--inverse .btn--x-large .align-center}
 [😼 Universo Ciberninjas](https://kutt.it/global){: .btn .btn--inverse .btn--x-large .align-center}
