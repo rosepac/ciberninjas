@@ -4,11 +4,13 @@ title: "👩‍🎓 ▷ Cursos Múltiples de Microsoft, por Diferentes Rutas de 
 description: "🎓 ▷ Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
 excerpt: "🎓 ▷ Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
 author_profile: true
-date: 2018-10-14T15:03:00
-last_modified_at: 2018-10-14T22:05:10
+date: 2019-10-14T15:03:00
+last_modified_at: 2019-11-27T22:05:10
 header:
-  image: "/assets/images/academia-microsoft-ciberninjas.jpg"
+  overlay_image: "/assets/images/academia-microsoft-ciberninjas.jpg"
+  overlay_filter: 0.2
   image_description: Cursos Múltiples de Microsoft. Catalogados por Diferentes Rutas de Aprendizaje e Intereses | Ciberninjas
+  image_alt: Cursos Múltiples de Microsoft. Catalogados por Diferentes Rutas de Aprendizaje e Intereses | Ciberninjas
   caption: "**Créditos**: Photo by [Ashkan Forouzani](https://unsplash.com/@ashkfor121?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/microsoft?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) editado por Ciberninjas"
   teaser: "/assets/images/academia-microsoft-ciberninjas.jpg"
 published: true

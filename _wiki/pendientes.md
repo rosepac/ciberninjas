@@ -1,5 +1,6 @@
 ---
 
+
 published: false
 
 ---
@@ -32,3 +33,11 @@ LPS y Github: https://microsoft.github.io/language-server-protocol/ -
 * Halcyon, vieja consola clásica: https://en.wikipedia.org/wiki/Halcyon_(console)
 
 * tipos de datos complejos y categoría tipo de datos. datos compuestos: https://en.wikipedia.org/wiki/Composite_data_type
+
+## Sistemas Operativos
+
+* Darwin: https://en.wikipedia.org/wiki/Darwin_(operating_system)
+
+## Software
+
+terminal de linux Mosh: https://en.wikipedia.org/wiki/Mosh_(software)

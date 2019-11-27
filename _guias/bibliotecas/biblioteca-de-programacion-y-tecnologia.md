@@ -145,6 +145,29 @@ toc_sticky: false
 * [Tostadores y Posix (1999)](https://www.ctr.unican.es/publications/mgh-cdl-1997a.pdf){:target="_blank"} (PDF)
 * [Trampa en el Cyberespacio](https://fortinux.com/wp-content/uploads/2010/12/trampacyberespacio.pdf){:target="_blank"} (PDF)
 
+### Linux <i class="fab fa-linux"></i>
+
+* [Administración avanzada de GNU/Linux](http://softlibre.unizar.es/manuales/linux/871.pdf){:target="_blank"} (PDF)
+* [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html){:target="_blank"} (HTML)
+* [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123){:target="_blank"} (PDF)(descarga directa)
+* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes){:target="_blank"} (HTML) (WikiLibros)
+* [El manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable){:target="_blank"} (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now){:target="_blank"}
+* [Enrutamiento avanzado y control de tráfico en Linux](https://www.ctr.unican.es/asignaturas/dec/Doc/lartc_es.pdf){:target="_blank"} (PDF)
+* [Guía de instalación de Debian GNU/Linux (2007)](http://softlibre.unizar.es/manuales/linux/install.es.pdf){:target="_blank"} (PDF)
+* [Guía de instalación de Debian GNU/Linux (2017)](https://www.debian.org/releases/stable/i386/install.pdf.es){:target="_blank"} (PDF)
+* [Guía de referencia Debian](http://softlibre.unizar.es/manuales/linux/reference.es.pdf){:target="_blank"} (PDF)
+* [Guía de referencia rápida Debian](http://softlibre.unizar.es/manuales/linux/quick-reference.es.pdf){:target="_blank"} (PDF)
+* [Guía del nuevo desarrollador de Debian (2007)](http://softlibre.unizar.es/manuales/linux/maint-guide.es.pdf){:target="_blank"} (PDF)
+* [Guía para administradores de Sistemas GNU/Linux](https://fortinux.com/wp-content/uploads/2010/12/gasl.pdf){:target="_blank"} (PDF)
+* [Implementación de Servidores con GNU/Linux](https://fortinux.com/wp-content/uploads/2010/12/Implementacion_Servidores_Linux_LR.pdf){:target="_blank"} (PDF)
+* [Linux Fácil](https://fortinux.com/wp-content/uploads/2010/12/linux-facil-scribus-FINAL-baja.pdf){:target="_blank"} (PDF)
+* [Sistema Operativo Huayra Gnu/Linux](http://bibliotecadigital.educ.ar/articles/read/366){:target="_blank"} (HTML)
+
+### Ubuntu <i class="fab fa-ubuntu"></i>
+
+* [Corre linux corre: conociendo Ubuntu](http://www.seaceptanideas.com/biblio/Corre_Linux_Corre.pdf){:target="_blank"} (PDF)
+* [Libro Iniciación a Ubuntu 16.04](https://drive.google.com/file/d/0B-cIaMA_u7JRRC1TaTRRMUd0NUk/view){:target="_blank"} (PDF)
+
 ## 👨‍🔧 Metodologías de Desarrollo
 
 * [Código Sólido](https://leanpub.com/codigosolido?){:target="_blank"} (Descarga PDF)
@@ -453,28 +476,6 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [El Lenguaje de Programación de Rust](https://goyox86.gitbooks.io/el-libro-de-rust/content/intrinsics.html){:target="_blank"} (HTML) [PDF](https://legacy.gitbook.com/download/pdf/book/goyox86/el-libro-de-rust){:target="_blank"}
 
 ## Vue <i class="fab fa-vuejs"></i>
-
-## Linux <i class="fab fa-linux"></i>
-
-* [Administración avanzada de GNU/Linux](http://softlibre.unizar.es/manuales/linux/871.pdf){:target="_blank"} (PDF)
-* [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html){:target="_blank"} (HTML)
-* [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123){:target="_blank"} (PDF)(descarga directa)
-* [Corre linux corre: conociendo Ubuntu](http://www.seaceptanideas.com/biblio/Corre_Linux_Corre.pdf){:target="_blank"} (PDF)
-* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes){:target="_blank"} (HTML) (WikiLibros)
-* [El manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable){:target="_blank"} (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now){:target="_blank"}
-* [Enrutamiento avanzado y control de tráfico en Linux](https://www.ctr.unican.es/asignaturas/dec/Doc/lartc_es.pdf){:target="_blank"} (PDF)
-* [Guía de instalación de Debian GNU/Linux (2007)](http://softlibre.unizar.es/manuales/linux/install.es.pdf){:target="_blank"} (PDF)
-* [Guía de instalación de Debian GNU/Linux (2017)](https://www.debian.org/releases/stable/i386/install.pdf.es){:target="_blank"} (PDF)
-* [Guía de referencia Debian](http://softlibre.unizar.es/manuales/linux/reference.es.pdf){:target="_blank"} (PDF)
-* [Guía de referencia rápida Debian](http://softlibre.unizar.es/manuales/linux/quick-reference.es.pdf){:target="_blank"} (PDF)
-* [Guía del nuevo desarrollador de Debian (2007)](http://softlibre.unizar.es/manuales/linux/maint-guide.es.pdf){:target="_blank"} (PDF)
-* [Guía para administradores de Sistemas GNU/Linux](https://fortinux.com/wp-content/uploads/2010/12/gasl.pdf){:target="_blank"} (PDF)
-* [Implementación de Servidores con GNU/Linux](https://fortinux.com/wp-content/uploads/2010/12/Implementacion_Servidores_Linux_LR.pdf){:target="_blank"} (PDF)
-* [Libro Iniciación a Ubuntu 16.04](https://drive.google.com/file/d/0B-cIaMA_u7JRRC1TaTRRMUd0NUk/view){:target="_blank"} (PDF)
-* [Linux Fácil](https://fortinux.com/wp-content/uploads/2010/12/linux-facil-scribus-FINAL-baja.pdf){:target="_blank"} (PDF)
-* [Sistema Operativo Huayra Gnu/Linux](http://bibliotecadigital.educ.ar/articles/read/366){:target="_blank"} (HTML)
-
-### Ubuntu <i class="fab fa-ubuntu"></i>
 
 
 
