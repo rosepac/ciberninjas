@@ -20,8 +20,6 @@ header:
       url: "/cursos-tecnologia/"
     - label: "Cursos Microsoft"
 	  url: "/cursos-tecnologia-microsoft/"
-	- label: "Recursos"
-	  url: "https://kutt.it/recursos"
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
 #   width: 1024
