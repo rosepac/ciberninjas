@@ -5,11 +5,15 @@ excerpt: "Glosario API o Interfaz de Programación de Aplicaciones"
 permalink: /glosario/completo-interfaces-programacion/
 published: true
 date: 2019-10-24
-last_modified_at:
+last_modified_at: 2019-11-27
 classes: wide
 author_profile: true
 
 ---
+
+[⬅ REGRESAR AL GLOSARIO](/glosario){: .btn .btn--inverse .btn--large .align-center}
+
+*****
 
 🔠 [A](/glosario/completo-interfaces-programacion/#a) ➡ [C](/glosario/completo-interfaces-programacion/#c) ➡ [D](/glosario/completo-interfaces-programacion/#d) ➡ [E](/glosario/completo-interfaces-programacion/#e) ➡ [G](/glosario/completo-interfaces-programacion/#g) ➡ [H](/glosario/completo-interfaces-programacion/#h) ➡ [I](/glosario/completo-interfaces-programacion/#i) ➡ [J](/glosario/completo-interfaces-programacion/#j) ➡ [L](/glosario/completo-interfaces-programacion/#l) ➡ [M](/glosario/completo-interfaces-programacion/#m) ➡ [O](/glosario/completo-interfaces-programacion/#o) ➡ [P](/glosario/completo-interfaces-programacion/#p) ➡ [R](/glosario/completo-interfaces-programacion/#r) ➡ [S](/glosario/completo-interfaces-programacion/#s) ➡ [T](/glosario/completo-interfaces-programacion/#t) ➡ [U](/glosario/completo-interfaces-programacion/#u) ➡ [V](/glosario/completo-interfaces-programacion/#v) ➡ [X](/glosario/completo-interfaces-programacion/#x)
 
@@ -41,7 +45,7 @@ API son las interfaces de programación que permiten al software interactuar con
 
 Identificar al usuario de la API. Las técnicas comunes para la autenticación incluyen API Keys y OAuth.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## C
 
@@ -77,7 +81,7 @@ Las solicitudes de origen cruzado permiten que JavaScript en sitios web realice 
 
 Interfaz de línea de comando a HTTP. Extremadamente popular para probar las API y el componente básico para muchas bibliotecas de clientes.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## D
 
@@ -85,7 +89,7 @@ Interfaz de línea de comando a HTTP. Extremadamente popular para probar las API
 
 El Modelo de objetos de documento define una forma estándar de representar e interactuar con objetos dentro de documentos HTML y XML.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## E
 
@@ -109,7 +113,7 @@ Encabezado que designa una versión de una representación. Útil para el almace
 
 Un encabezado que le dice al cliente que puede almacenar en caché una respuesta hasta cierto tiempo.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## G
 
@@ -119,7 +123,7 @@ Un proxy que se traduce entre protocolos.
 **Get / Obtener**
 Es el método HTTP para recuperar recursos de una API RESTful.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## H
 
@@ -141,7 +145,7 @@ La parte de una solicitud HTTP que le dice al servidor lo que el cliente quiere 
 **HTTPS**
 El Protocolo seguro de transferencia de hipertexto es la forma en que los sitios web y las API se comunican de forma segura a través de Internet.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## I
 
@@ -151,7 +155,7 @@ Cuando los efectos secundarios de múltiples solicitudes son iguales a una sola 
 **If-Modified-Since**
 Encabezado que solicita obtener una representación solo si la representación ha cambiado desde la última solicitud. Se utiliza para solicitudes GET condicionales.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## J
 
@@ -164,7 +168,7 @@ Un tipo hipermedia que normaliza el hipervínculo y la incorporación de recurso
 **JSONP**
 JSON con relleno es una técnica utilizada para superar las restricciones de dominio cruzado impuestas por los navegadores para permitir que los datos se recuperen de sistemas distintos al que sirve la página.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## L
 
@@ -174,21 +178,21 @@ El tiempo que tarda la solicitud API en pasar de la solicitud a la respuesta.
 **Limitación de velocidad**
 Limitar el consumo de una API a un cierto número de solicitudes por período de tiempo.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## M
 
 **Microformato**
 Un estándar industrial de marcado semántico utilizado para describir el contenido de un documento.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## O
 
 **OAuth**
 Marco de autorización estándar abierto. Otorga acceso en nombre de un usuario final sin compartir directamente las credenciales.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## P
 
@@ -207,7 +211,7 @@ El URI que va después de la URL base y apunta hacia la funcionalidad API solici
 **PUT o Poner**
 El método HTTP para actualizar recursos con una API RESTful.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## R
 
@@ -223,7 +227,7 @@ La transferencia de estado representativo es un patrón arquitectónico para int
 **RDF**
 Marco de descripción de recursos. Marco enfocado en contenido semántico.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## S
 
@@ -251,7 +255,7 @@ Un protocolo criptográfico que asegura el tráfico en Internet.
 **Stateless**
 El servidor no almacena el contexto del cliente entre solicitudes.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## T
 
@@ -274,7 +278,7 @@ Encabezado que proporciona información sobre la ubicación de un recurso recié
 **Última modificación**
 Encabezado que le dice al cliente la última vez que cambió la representación. Importante para las solicitudes condicionales If-Modified-Since.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## V
 
@@ -286,4 +290,6 @@ Asignar un identificador único para realizar un seguimiento del estado de la AP
 **XML**
 El lenguaje de marcado extensible es un formato que se utiliza para describir documentos y datos.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--info .btn--large}
+[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+[⬅ REGRESAR AL GLOSARIO](/glosario){: .btn .btn--inverse .btn--large .align-center}
