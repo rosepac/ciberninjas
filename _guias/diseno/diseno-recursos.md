@@ -9,7 +9,8 @@ date: 2019-10-08 12:06:18
 last_modified_at: 2019-11-27 18:36:18
 permalink: /diseño-recursos/
 header:
-  overlay_image: "https://i.ibb.co/vvZMTbm/campaign-creators-s2-Zli-JLKS7c-unsplash.jpg" 
+  teaser: https://i.ibb.co/LkcCrb2/diseno-web-unsplash.jpg
+  overlay_image: https://i.ibb.co/LkcCrb2/diseno-web-unsplash.jpg
   overlay_filter: "0.1"
   image_description: "Recursos de Diseño Web en Ciberninjas"
   image_alt: "Recursos de Diseño Web en Ciberninjas"
@@ -29,7 +30,7 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 ## Metalistas
 
-* * [Paquete de Recursos Gratis](){:target="_blank"} (Wemaster Deals)  Paquete gratuito que se modifica cada cierto tiempo.
+* [Paquete de Recursos Gratis](){:target="_blank"} (Wemaster Deals)  Paquete gratuito que se modifica cada cierto tiempo.
 
 ## Repositorios
 
