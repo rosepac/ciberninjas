@@ -10,11 +10,11 @@ last_modified_at: 2019-11-27T08:45:42+01:00
 permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
 header:
-  teaser: "https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg"
-  overlay_image: "https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg"
+  teaser: https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg
+  overlay_image: https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg
   image_description: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación \ Visto en Ciberninjas"
   image_alt: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación \ Visto en Ciberninjas"
-  caption: "**Créditos**: ROSEPAC."
+  caption: "**Créditos**: Unsplash."
   actions:
     - label: "Cursos Tecnología"
       url: "/cursos-tecnologia/"
@@ -144,13 +144,13 @@ header:
 
 ## Recursos Educativos
 
-* [Programación en las Aulas](https://www.programoergosum.com){:target="_blank"} \ Programo Ergo Sum
-* Software de Aprendizaje de Programación <!-- /programacion-robotica-para-niños/ -->
+- [Programación en las Aulas](https://www.programoergosum.com){:target="_blank"} \ Programo Ergo Sum
+- Software de Aprendizaje de Programación <!-- /programacion-robotica-para-niños/ -->
 <!-- /app-inventor -->
 
-* [EspacioAbalar](https://www.edu.xunta.es/espazoAbalar/es/espazos/recursos){:target="_blank"}
+- [EspacioAbalar](https://www.edu.xunta.es/espazoAbalar/es/espazos/recursos){:target="_blank"}
 
-* Investiga
+- Investiga
 	- [![Lectoescritura (LVL)](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_generico_laboratorios_idiomas.png)Lectoescritura (LVL)](http://lvl.educarex.es/){:target="_blank"}
 	- [![Matemáticas (LVM)](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_generico_laboratorios_idiomas.png)Matemáticas (LVM)](http://lvm.educarex.es/){:target="_blank"}
 	- [![Portugués (LVP)](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_generico_laboratorios_idiomas.png)Portugués (LVP)](http://lvp.educarex.es/){:target="_blank"}
@@ -159,14 +159,14 @@ header:
 	- [![Simulador de física](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_generico_laboratorios_ciencias.png)Simulador de física](https://enmarchaconlastic.educarex.es/recursos/manipula/laboratorio-de-fisica){:target="_blank"}
 	- [![Simulador de tecnología](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_generico_laboratorios_ciencias.png)Simulador de tecnología](https://enmarchaconlastic.educarex.es/recursos/manipula/laboratorio-de-tecnologia){:target="_blank"}
 
-* Conoce
+- Conoce
 	- [![Rincones didácticos](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_rincones.png)Rincones didácticos](http://rincones.educarex.es/){:target="_blank"}
 	- [![Planeta Educarex](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_planeta_educarex.png)Planeta Educarex](http://emtic.educarex.es/planetaeducarex/){:target="_blank"}
 	- [![Mercurio](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_mercurio.png)Mercurio](https://mercurio.educarex.es/){:target="_blank"}
 	- [![Los consejos de Panchito](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_panchito.png)Los consejos de Panchito](https://enmarchaconlastic.educarex.es/recursos/conoce/panchito){:target="_blank"}
 	- [![Gobierno Abierto. Guías](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_panchito.png)Gobierno Abierto. Guías](https://enmarchaconlastic.educarex.es/recursos/conoce/gobierno-abierto-guias-didacticas){:target="_blank"}
 
-* Usa
+- Usa
 	- [![Quext](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_Quext.png)Quext](https://quext.educarex.es/){:target="_blank"}
 	- [![AbiesWeb](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_abiesweb.png)AbiesWeb](https://enmarchaconlastic.educarex.es/recursos/usa/abiesweb){:target="_blank"}
 	- [![ProfesorPDI](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_profesor_pdi.png)ProfesorPDI](http://profesorpdi.educarex.es/){:target="_blank"}
