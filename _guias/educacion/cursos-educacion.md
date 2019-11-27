@@ -6,7 +6,7 @@ excerpt: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre apren
 author_profile: true
 published: true
 date: 2019-10-04T17:00:00.000+01:00
-last_modified_at: 2019-11-27T08:45:42+01:00
+last_modified_at: 2019-11-27T09:00:00.000+01:00
 permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
 header:
@@ -27,10 +27,6 @@ header:
 #   feature: *image
 # twitter:
 #   card: summary_large_image
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: false
 
 ---
 
