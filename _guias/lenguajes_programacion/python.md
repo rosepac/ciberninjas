@@ -1,18 +1,27 @@
 ---
-title: 👨‍🚀 ▷ Cómo Aprender Python
+title: 🐍 ▷ Cómo Aprender Python
 description: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
 excerpt: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
 published: true
 author: rosepac
 comments: true
 date: 2019-06-30 12:06:18
-last_modified_at: 2019-10-08
+last_modified_at: 2019-11-27
 permalink: /python/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+header:
+  teaser: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
+  overlay_image: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
+  overlay_filter: 0.2
+  image_description: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
+  image_alt: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
+  caption: "Wallpaper de Dominio Público"
+  actions:
+    - label: "Recursos Python"
+      url: "/python-recursos/"
 ---
+
+[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién esta usando Python?](/python/#quién-esta-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#bibliotecas){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large}
+
 
 ## ¿Qué es Python?
 
@@ -29,6 +38,8 @@ Python es quizás el lenguaje de programación más fácil de usar de todos en e
 También como Java, Python tiene una variedad de aplicaciones que lo convierten en una opción versátil y poderosa al elegir el mejor lenguaje de programación para su caso de uso. Si está interesado en el desarrollo web de back-end, por ejemplo, entonces el framework de código abierto Django, escrito en Python, es popular, fácil de aprender y con muchas funciones. Django se ha utilizado en el desarrollo de algunos sitios populares como Mozilla, Instagram y Spotify.
 
 Python también tiene paquetes como NumPy y SciPy que se usan comúnmente en los campos de la computación científica, las matemáticas y la ingeniería. Otras bibliotecas de Python, como TensorFlow, PyTorch, scikit-learn y OpenCV, se utilizan para crear programas en ciencia de datos, aprendizaje automático, procesamiento de imágenes y visión por computadora. Las aplicaciones de ciencia y datos de Python lo convierten en una excelente opción para los académicos.
+
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## ¿Quién esta usando Python?
 
@@ -51,6 +62,7 @@ Python es ahora uno de los lenguajes oficiales del servidor de Google (C ++, Jav
 - Dropbox
 - Reddit
 -->
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ### ILM
 
@@ -66,9 +78,13 @@ El estudio ha usado Python en muchas otras facetas de su trabajo. Los desarrolla
 
 A pesar de las numerosas revisiones, ILM continúa considerando que Python es la mejor solución para sus necesidades. La combinación de un código de fuente abierta combinada con la capacidad de realizar cambios garantiza que Python continuará satisfaciendo las necesidades de ILM durante mucho tiempo.
 
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ### Otros Muchos Más
 
 Existen otras muchas empresas reconocidas que confian en Python como uno de sus lenguajes principales, por sus ideales características, entre ellas: la NASA, Mozilla, PayPal, Pinterest, SendGrid, Zappier, Udemy, Uber, Instacart, 8GAG, Asana, Intuit, Keen IO, Disqus, Pandora, BillGuard, Back End, imgix, AdRoll, Chartio, WePay, Chartbeat, Brika, Circa, Kippt, Thingr, Hipmunk, y un largo etc. más.
+
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## ¿Por qué aprender Python?
 
@@ -80,6 +96,12 @@ Cada año aparece entre los mejores lenguajes de programación en el [índice TI
 
 En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrados en Python a través de la web Indeed.com.
 
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ## Bibliotecas
 
 * [Mitogen](https://mitogen.networkgenomics.com/)
+
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
+[🐍 Python Recursos 🐍](/python-recursos/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
