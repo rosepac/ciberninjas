@@ -6,7 +6,7 @@ excerpt: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre apren
 author_profile: true
 published: true
 date: 2019-10-04T17:00:00.000+01:00
-last_modified_at: 2019-11-26T20:50:42+01:00
+last_modified_at: 2019-11-27T08:45:42+01:00
 permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
 header:
@@ -47,7 +47,7 @@ toc_sticky: false
 * [Uned Abierta](https://iedra.uned.es){:target="_blank"}
 * [EducaciónTresPuntoCero](https://www.educaciontrespuntocero.com){:target="_blank"}
 
-[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .align-center}
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 <!-- cursos solo en ingles: https://iversity.org/en/courses?course_of_study_code=&type=&language_code=it&search= -->
 ## Cursos de Educación
 
@@ -126,7 +126,8 @@ toc_sticky: false
 * [Programas malignos, vías de infección y consecuencias del contagio](https://enlinea.intef.es/courses/course-v1:INTEF+EDUsinmalware+2019_ED1/about){:target="_blank"} (Intef)
 * [Tipos de malware, riesgos y protección específica](https://enlinea.intef.es/courses/course-v1:INTEF+antimalwareEDU+2019_ED1/about){:target="_blank"} (Intef)
 <!-- LISTADOS DE CURSOS WTF. XD -->
-[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .align-center}
+
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## Educación Especial
 
@@ -139,7 +140,7 @@ toc_sticky: false
 * [Tecnologías de apoyo y atención a la diversidad (2009)](http://ocw.um.es/cc.-sociales/tecnologias-de-apoyo-y-atencion-a-la-diversidad){:target="_blank"}
 * [Trastornos del Desarrollo y Logopedía (2009)](http://ocw.um.es/cc.-sociales/tecnologias-de-la-informacion-y-la-comunicacion){:target="_blank"}
 
-[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .align-center}
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## Recursos Educativos
 
@@ -147,9 +148,9 @@ toc_sticky: false
 * Software de Aprendizaje de Programación <!-- /programacion-robotica-para-niños/ -->
 <!-- /app-inventor -->
 
-- [EspacioAbalar](https://www.edu.xunta.es/espazoAbalar/es/espazos/recursos){:target="_blank"}
+* [EspacioAbalar](https://www.edu.xunta.es/espazoAbalar/es/espazos/recursos){:target="_blank"}
 
-- Investiga
+* Investiga
 	- [![Lectoescritura (LVL)](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_generico_laboratorios_idiomas.png)Lectoescritura (LVL)](http://lvl.educarex.es/){:target="_blank"}
 	- [![Matemáticas (LVM)](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_generico_laboratorios_idiomas.png)Matemáticas (LVM)](http://lvm.educarex.es/){:target="_blank"}
 	- [![Portugués (LVP)](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_generico_laboratorios_idiomas.png)Portugués (LVP)](http://lvp.educarex.es/){:target="_blank"}
@@ -158,14 +159,14 @@ toc_sticky: false
 	- [![Simulador de física](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_generico_laboratorios_ciencias.png)Simulador de física](https://enmarchaconlastic.educarex.es/recursos/manipula/laboratorio-de-fisica){:target="_blank"}
 	- [![Simulador de tecnología](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_generico_laboratorios_ciencias.png)Simulador de tecnología](https://enmarchaconlastic.educarex.es/recursos/manipula/laboratorio-de-tecnologia){:target="_blank"}
 
-- Conoce
+* Conoce
 	- [![Rincones didácticos](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_rincones.png)Rincones didácticos](http://rincones.educarex.es/){:target="_blank"}
 	- [![Planeta Educarex](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_planeta_educarex.png)Planeta Educarex](http://emtic.educarex.es/planetaeducarex/){:target="_blank"}
 	- [![Mercurio](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_mercurio.png)Mercurio](https://mercurio.educarex.es/){:target="_blank"}
 	- [![Los consejos de Panchito](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_panchito.png)Los consejos de Panchito](https://enmarchaconlastic.educarex.es/recursos/conoce/panchito){:target="_blank"}
 	- [![Gobierno Abierto. Guías](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_panchito.png)Gobierno Abierto. Guías](https://enmarchaconlastic.educarex.es/recursos/conoce/gobierno-abierto-guias-didacticas){:target="_blank"}
 
-- Usa
+* Usa
 	- [![Quext](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_Quext.png)Quext](https://quext.educarex.es/){:target="_blank"}
 	- [![AbiesWeb](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_abiesweb.png)AbiesWeb](https://enmarchaconlastic.educarex.es/recursos/usa/abiesweb){:target="_blank"}
 	- [![ProfesorPDI](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_profesor_pdi.png)ProfesorPDI](http://profesorpdi.educarex.es/){:target="_blank"}
@@ -178,5 +179,14 @@ toc_sticky: false
 	- [![AulaLinex](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_aulalinex.png)AulaLinex](http://aulalinex.educarex.es/){:target="_blank"}
 	- [![Constructor](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_constructor.png)Constructor](https://constructor.educarex.es/){:target="_blank"}
 	- [![exelearning](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_exelearning.png)exelearning](http://exelearning.net/){:target="_blank"}
-[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .align-center}
+
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 <!-- BUSCAR RECURSOS A LO LARGO DE MIS MARCADORES XD XD XD -->
+
+## Más Recursos
+
+[🎓 Cursos de Tecnología](/cursos-tecnologia/){: .btn .btn--inverse .btn--x-large .align-center}
+[📁 Cursos de Microsoft](/cursos-tecnologia-microsoft/){: .btn .btn--inverse .btn--x-large .align-center}
+[🔨 Recursos](https://kutt.it/recursos){: .btn .btn--inverse .btn--x-large .align-center}
+[📚 Biblioteca de Tecnología](https://kutt.it/recursos){: .btn .btn--inverse .btn--x-large .align-center}
+[😼 Universo Ciberninjas](https://kutt.it/global){: .btn .btn--inverse .btn--x-large .align-center}
