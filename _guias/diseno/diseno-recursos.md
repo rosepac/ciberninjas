@@ -6,8 +6,17 @@ published: true
 author: rosepac
 comments: true
 date: 2019-10-08 12:06:18
-last_modified_at: 2019-11-12 18:36:18
+last_modified_at: 2019-11-27 18:36:18
 permalink: /diseño-recursos/
+header:
+  overlay_image: "https://i.ibb.co/vvZMTbm/campaign-creators-s2-Zli-JLKS7c-unsplash.jpg" 
+  overlay_filter: "0.1"
+  image_description: "Recursos de Diseño Web en Ciberninjas"
+  image_alt: "Recursos de Diseño Web en Ciberninjas"
+  caption: "Créditos: Unsplash"
+  actions:
+    - label: "Recursos Diseño Web"
+      url: "/diseño-grafico/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

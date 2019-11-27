@@ -6,19 +6,24 @@ published: true
 author: rosepac
 comments: true
 date: 2019-11-12 10:13:18
-last_modified_at: 2019-11-14 13:15:18
+last_modified_at: 2019-11-27 13:15:18
 permalink: /diseño-grafico/
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 header:
-  overlay_image: "https://i.ibb.co/9vwpm3k/hackernews-logo.png" 
+  overlay_image: "https://i.ibb.co/RhWh3RG/collage-arte-ondas-rojas.jpg" 
   overlay_filter: "0.1"
-  image_description: ""
-caption: "Créditos: kkk"
+  image_description: "Recursos de Diseño Gráfico en Ciberninjas"
+  image_alt: "Recursos de Diseño Gráfico en Ciberninjas"
+  caption: "Créditos: Unsplash"
+  actions:
+    - label: "Recursos Diseño Web"
+      url: "/diseño-recursos/"
 ---
 
+https://ciberninjas.com/dise%C3%B1o-recursos/
 ## Software
 
 * [Krita](https://krita.org/es/){:target="_blank"} \ [Brochas](https://docs.krita.org/en/resources_page.html#brush-packs){:target="_blank"}
