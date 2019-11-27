@@ -4,7 +4,7 @@ title: "Eclipse Theia"
 description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Eclipse Theia, Entorno de desarrollo integrado o IDE."
 excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Eclipse Theia, Entorno de desarrollo integrado o IDE."
 date: 2019-10-07 09:07:07
-last_modified_at: 2019-10-10 19:53:59
+last_modified_at: 2019-11-27 19:53:59
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -17,6 +17,11 @@ canonical_URL: https://ciberninjas.com/wiki/eclipse-theia
 ---
 
 Eclipse Theia es un Framework de entorno de desarrollo integrado o IDE. Gratuito y de código abierto enfocado en las aplicaciones de escritorio y web. Se implementa en TypeScript y esta basado en el código de Visual Studio y destaca en él, sus posibilidades de ampliación.
+
+<figure>
+<a class="image-pop" href="https://theia-ide.org/static/theia-screenshot-5da315784b70a935f8196407284cbe1e.jpg"><img src="https://theia-ide.org/static/theia-screenshot-5da315784b70a935f8196407284cbe1e.jpg" alt="Captura del Navegador IDE Theia / Autoría de Typefox" /></a>
+<figcaption>Captura del Navegador IDE Theia / Autoría de <a href="https://www.typefox.io/">Typefox</a></figcaption>
+</figure>
 
 ## Historia
 
