@@ -16,7 +16,7 @@ header:
   image_alt: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación \ Visto en Ciberninjas"
   caption: "**Créditos**: Unsplash."
   actions:
-    - label: "Cursos Tecnología"
+    - label: "Cursos Tecnologia"
       url: "/cursos-tecnologia/"
     - label: "Cursos Microsoft"
 	  url: "/cursos-tecnologia-microsoft/"
@@ -185,5 +185,5 @@ header:
 [🎓 Cursos de Tecnología](/cursos-tecnologia/){: .btn .btn--inverse .btn--x-large .align-center}
 [📁 Cursos de Microsoft](/cursos-tecnologia-microsoft/){: .btn .btn--inverse .btn--x-large .align-center}
 [🔨 Recursos Prácticos](https://kutt.it/recursos){: .btn .btn--inverse .btn--x-large .align-center}
-[📚 Biblioteca de Tecnología](https://kutt.it/recursos){: .btn .btn--inverse .btn--x-large .align-center}
+[📚 Biblioteca de Tecnología](/biblioteca-de-programacion-y-tecnologia//){: .btn .btn--inverse .btn--x-large .align-center}
 [😼 Universo Ciberninjas](https://kutt.it/global){: .btn .btn--inverse .btn--x-large .align-center}
