@@ -23,7 +23,13 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
+[Repositorios](/diseño-recursos/#repositorios){: .btn .btn--inverse .btn--large} [Librerías Animaciones](/diseño-recursos/#librerías-animaciones){: .btn .btn--inverse .btn--large} [Herramientas](/diseño-grafico/#-herramientas){: .btn .btn--inverse .btn--large} [Artículos](/diseño-recursos/#-artículos) [Artículos en Inglés](/diseño-recursos/#-artículos-en-inglés) [Optimización Web](/diseño-recursos/#optimización-web) [PWA](/diseño-recursos/#pwa)
+
 Las mejores listas para diseñadores web y creadores de contenidos online. Pagina repleta de artículos, repositorios, blogs, librerías, herramientas y recursos que te ayudaran a la hora del Diseño Web y en la Optimización Web.
+
+## Metalistas
+
+* * [Paquete de Recursos Gratis](){:target="_blank"} (Wemaster Deals)  Paquete gratuito que se modifica cada cierto tiempo.
 
 ## Repositorios
 
@@ -75,7 +81,7 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 * [PWAs en iOS 12.2 beta: lo bueno, lo malo y lo no seguro si es bueno](https://medium.com/@firt/pwas-on-ios-12-2-beta-the-good-the-bad-and-the-not-sure-yet-if-good-a37b6fa6afbf){:target="_blank"}
 * [Una filosofía abierta puede unificar la fragmentación de la web - #TheOpenAgenda](http://blog.digital.telefonica.com/2013/09/03/theopenagenda-max-firtman/){:target="_blank"}
 
-[⬆ REGRESAR AL MENÚ ⬆ <i class="fas fa-paint-brush"></i>](/diseño-recursos/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[⬆ REGRESAR ARRIBA ⬆](/diseño-recursos/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 <!-- * []( ""){:target="_blank"} -->
 
 <!-- https://www.prototypr.io/toolbox -->
