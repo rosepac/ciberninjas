@@ -21,7 +21,7 @@ header:
       url: "/cursos-tecnologia-microsoft/"
 ---
 
-[📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#diversidad){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large}
+[📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#diversidad){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#recursos-educativos){: .btn .btn--inverse .btn--large} [😼 Más Recursos](/cursos-educacion/#recursos-educativos){: .btn .btn--inverse .btn--large}
 
 ## Metalistas
 

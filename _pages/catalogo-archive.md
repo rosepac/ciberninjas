@@ -21,4 +21,4 @@ sidebar:
 
 ---
 
-⬇ Encuentra absolutamente todo lo que deseas ⬇
+⬇ Encuentra todo lo que deseas ⬇

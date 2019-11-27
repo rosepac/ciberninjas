@@ -30,6 +30,9 @@ sidebar:
 - [Comics en Español en Ebook](https://amzn.to/2I3j510)
 - [Las Mejores Camisetas de Marvel](https://amzn.to/2HYcMM7)
 - [Las Mejores Tazas de Marvel](https://amzn.to/2Q3Tw6E)
+- [Marvel, ¡qué hermosa eres!: 1](https://amzn.to/34pkYOV)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8445006126&linkId=b7e43eac397c8534649a2f170ecec1cf"></iframe>
 
 ## 🧸 Juguetes
 
@@ -40,7 +43,7 @@ sidebar:
 
 ## 📂 Categorías de Libros
 
-<a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#redes-y-administraci%C3%B3n" title="Libros de Redes y Administración" class="btn btn--success btn--large">🕸 Administración y Redes</a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+<a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#administraci%C3%B3n-y-redes" title="Libros de Redes y Administración" class="btn btn--success btn--large">🕸 Administración y Redes</a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
 ## 🛒 Páginas Compras
 
