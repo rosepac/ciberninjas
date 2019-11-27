@@ -8,6 +8,13 @@ date: 2018-02-13T22:00:00.000+02:00
 last_modified_at: 2019-11-02T01:42:42+02:00
 permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
+header:
+  teaser: "https://i.ibb.co/PznX1z2/tecnologia-programando.jpg"
+  overlay_image: "https://i.ibb.co/PznX1z2/tecnologia-programando.jpg"
+  overlay_filter: 0.2
+  image_description: 'Los mejores cursos con los que aprender a programar y cualquier otra tecnología web | Ciberninjas'
+  image_alt: 'Los mejores cursos con los que aprender a programar y cualquier otra tecnología web | Ciberninjas'
+  caption: "Créditos: Unsplash, de Dominio Público"
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
 #   width: 1024
