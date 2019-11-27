@@ -19,7 +19,9 @@ header:
     - label: "Cursos Tecnología"
       url: "/cursos-tecnologia/"
     - label: "Cursos Microsoft"
-      url: "/cursos-tecnologia-microsoft/"
+	  url: "/cursos-tecnologia-microsoft/"
+	- label: "Recursos"
+	  url: "https://kutt.it/recursos"
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
 #   width: 1024
@@ -27,14 +29,14 @@ header:
 #   feature: *image
 # twitter:
 #   card: summary_large_image
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: false
 
 ---
 
-[📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large}
+[📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#educación-especial){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large}
 
 ## Metalistas
 
@@ -129,7 +131,7 @@ toc_sticky: false
 
 [🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
-## Educación Especial
+## Diversidad
 
 * [Atención al alumnado con necesidades educativas especiales (2011)](http://ocw.umh.es/ciencias-de-la-salud/Atencion-al-alumnado-con-necesidades-educativas-especiales-459){:target="_blank"}
 * [Educación Especial (2008)](http://ocw.um.es/cc.-sociales/educacion-especial){:target="_blank"}
@@ -187,6 +189,6 @@ toc_sticky: false
 
 [🎓 Cursos de Tecnología](/cursos-tecnologia/){: .btn .btn--inverse .btn--x-large .align-center}
 [📁 Cursos de Microsoft](/cursos-tecnologia-microsoft/){: .btn .btn--inverse .btn--x-large .align-center}
-[🔨 Recursos](https://kutt.it/recursos){: .btn .btn--inverse .btn--x-large .align-center}
+[🔨 Recursos Prácticos](https://kutt.it/recursos){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 Biblioteca de Tecnología](https://kutt.it/recursos){: .btn .btn--inverse .btn--x-large .align-center}
 [😼 Universo Ciberninjas](https://kutt.it/global){: .btn .btn--inverse .btn--x-large .align-center}
