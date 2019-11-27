@@ -15,10 +15,10 @@ header:
   image_alt: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación"
   caption: "Créditos: Unsplash."
   actions:
-    - label: "Black Friday 2019"
-      url: "/black-friday-amazon/"
-    - label: "Prime Day 2019"
-      url: "/prime-day-amazon/"
+    - label: "Cursos Tecnología"
+      url: "/cursos-tecnologia/"
+    - label: "Cursos Microsoft"
+      url: "/cursos-tecnologia-microsoft/"
 ---
 
 [📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#diversidad){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large}
@@ -149,24 +149,24 @@ header:
 
 * Conoce
   * [![Rincones didácticos](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_rincones.png)Rincones didácticos](http://rincones.educarex.es/){:target="_blank"}
- * [![Planeta Educarex](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_planeta_educarex.png)Planeta Educarex](http://emtic.educarex.es/planetaeducarex/){:target="_blank"}
- * [![Mercurio](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_mercurio.png)Mercurio](https://mercurio.educarex.es/){:target="_blank"}
- * [![Los consejos de Panchito](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_panchito.png)Los consejos de Panchito](https://enmarchaconlastic.educarex.es/recursos/conoce/panchito){:target="_blank"}
- * [![Gobierno Abierto. Guías](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_panchito.png)Gobierno Abierto. Guías](https://enmarchaconlastic.educarex.es/recursos/conoce/gobierno-abierto-guias-didacticas){:target="_blank"}
+  * [![Planeta Educarex](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_planeta_educarex.png)Planeta Educarex](http://emtic.educarex.es/planetaeducarex/){:target="_blank"}
+  * [![Mercurio](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_mercurio.png)Mercurio](https://mercurio.educarex.es/){:target="_blank"}
+  * [![Los consejos de Panchito](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_panchito.png)Los consejos de Panchito](https://enmarchaconlastic.educarex.es/recursos/conoce/panchito){:target="_blank"}
+  * [![Gobierno Abierto. Guías](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_panchito.png)Gobierno Abierto. Guías](https://enmarchaconlastic.educarex.es/recursos/conoce/gobierno-abierto-guias-didacticas){:target="_blank"}
 
 - Usa
- * [![Quext](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_Quext.png)Quext](https://quext.educarex.es/){:target="_blank"}
- * [![AbiesWeb](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_abiesweb.png)AbiesWeb](https://enmarchaconlastic.educarex.es/recursos/usa/abiesweb){:target="_blank"}
- * [![ProfesorPDI](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_profesor_pdi.png)ProfesorPDI](http://profesorpdi.educarex.es/){:target="_blank"}
- * [![Recursos CREA](https://enmarchaconlastic.educarex.es/images/innovated/25x25/Programa_CREA_icono_redondo.png)Recursos CREA](https://enmarchaconlastic.educarex.es/recursos/usa/crea){:target="_blank"}
- * [![eScholarium](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_escholarium_2.png)eScholarium](https://escholarium.educarex.es/){:target="_blank"}
- * [![Conecta Seguro](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_conectaSeguro.png)Conecta Seguro](https://conectaseguro.educarex.es/#pagelogin){:target="_blank"}
- * [![Contenidos por materias](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_contenidos.png)Contenidos por materias](http://conteni2.educarex.es/){:target="_blank"}
- * [![Constructor](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_constructor.png)Constructor](https://constructor.educarex.es/){:target="_blank"}
- * [![Escuela 2.0](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_escuela_2.0.png)Escuela 2.0](http://escuela2punto0.educarex.es/){:target="_blank"}
- * [![AulaLinex](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_aulalinex.png)AulaLinex](http://aulalinex.educarex.es/){:target="_blank"}
- * [![Constructor](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_constructor.png)Constructor](https://constructor.educarex.es/){:target="_blank"}
- * [![exelearning](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_exelearning.png)exelearning](http://exelearning.net/){:target="_blank"}
+  * [![Quext](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_Quext.png)Quext](https://quext.educarex.es/){:target="_blank"}
+  * [![AbiesWeb](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_abiesweb.png)AbiesWeb](https://enmarchaconlastic.educarex.es/recursos/usa/abiesweb){:target="_blank"}
+  * [![ProfesorPDI](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_profesor_pdi.png)ProfesorPDI](http://profesorpdi.educarex.es/){:target="_blank"}
+  * [![Recursos CREA](https://enmarchaconlastic.educarex.es/images/innovated/25x25/Programa_CREA_icono_redondo.png)Recursos CREA](https://enmarchaconlastic.educarex.es/recursos/usa/crea){:target="_blank"}
+  * [![eScholarium](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_escholarium_2.png)eScholarium](https://escholarium.educarex.es/){:target="_blank"}
+  * [![Conecta Seguro](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_conectaSeguro.png)Conecta Seguro](https://conectaseguro.educarex.es/#pagelogin){:target="_blank"}
+  * [![Contenidos por materias](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_contenidos.png)Contenidos por materias](http://conteni2.educarex.es/){:target="_blank"}
+  * [![Constructor](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_constructor.png)Constructor](https://constructor.educarex.es/){:target="_blank"}
+  * [![Escuela 2.0](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_escuela_2.0.png)Escuela 2.0](http://escuela2punto0.educarex.es/){:target="_blank"}
+  * [![AulaLinex](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_aulalinex.png)AulaLinex](http://aulalinex.educarex.es/){:target="_blank"}
+  * [![Constructor](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_constructor.png)Constructor](https://constructor.educarex.es/){:target="_blank"}
+  * [![exelearning](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_exelearning.png)exelearning](http://exelearning.net/){:target="_blank"}
 
 [🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 <!-- BUSCAR RECURSOS A LO LARGO DE MIS MARCADORES XD XD XD -->
