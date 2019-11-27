@@ -68,8 +68,9 @@ toc_sticky: false
 
 ## Las Mejores Herramientas de Redes Sociales
 
-- [IQ Hashtags](https://iqhashtags.com/){:target="_blank"}
-- [Hypevertise](/hypevertise-auditaria-de-cuentas-de-instagram/ "Auditar Cuentas de Instagram"){:target="_blank"} Auditar cuentas de instagram
+- [Display Purposes](https://displaypurposes.com/){:target="_blank"} - Analizar Hashtags Instagram
+- [IQ Hashtags](https://iqhashtags.com/){:target="_blank"} - Analizar estadísticas de Instagram
+- [Hypevertise](/hypevertise-auditaria-de-cuentas-de-instagram/ "Auditar Cuentas de Instagram"){:target="_blank"} - Auditar cuentas de instagram
 
 ## Los Mejores Canales SEO de Youtube en Español
 
