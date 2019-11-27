@@ -14,15 +14,11 @@ header:
   image_description: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación"
   image_alt: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación"
   caption: "Créditos: Unsplash."
-  actions:
-	- label: "Cursos Tecnología"
-      url: "/cursos-tecnologia/"
-    - label: "Cursos Microsoft"
-      url: "/cursos-tecnologia-microsoft/"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+#  actions:
+#	- label: "Cursos Tecnología"
+#      url: "/cursos-tecnologia/"
+#    - label: "Cursos Microsoft"
+#      url: "/cursos-tecnologia-microsoft/"
 ---
 
 [📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#educación-especial){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large}
