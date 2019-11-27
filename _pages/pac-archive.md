@@ -31,9 +31,6 @@ Apartado personal con una amplia recopilación de marcadores web que han ido sub
 
 La sección ha ido naciendo a través de la recuperación de antiguos enlaces recogidos en la viejas colecciones de Google+. Espero puedan encontrar la inspiración entre ellos.. & además, puedan conocer más mis gustos e intereses 😺
 
-[🎶 Música](/categoria/#m%C3%BAsica "Categoría de Música"){: .btn .btn--inverse .btn--large} <a href="#" title="SIN CONTENIDO" class="btn btn--success btn--large">🚧 + En Construcción 👷‍♂️</a>
-
-{: .btn .btn--inverse .btn--large} 
-<!-- -->
+[🎶 Música](/categoria/#m%C3%BAsica "Categoría de Música"){: .btn .btn--inverse .btn--large} [🎥 Series](/categoria/#v%C3%ADdeo-series "Categoría de Series"){: .btn .btn--inverse .btn--large} 
 
 ## 🔥 Últimas Actualizaciones.. 👇
