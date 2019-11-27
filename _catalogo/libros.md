@@ -1,5 +1,5 @@
 ---
-title: "🛒 Catálogo de la Tienda Ciberninjas"
+title: "🛒 Catálogo de Libros de Tecnología Recomendados desde Ciberninjas"
 description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 published: true
@@ -34,6 +34,20 @@ sidebar:
 ## Big Data 👨‍👩‍👦
 
 [Big Data: Hacía la Cuarta Revolución Industrial](https://amzn.to/2mnv69y) \ [Ebook](https://amzn.to/2mmRJLC)
+
+## ⛓ Blockchain
+
+## Cadena de Bloques 🔗
+
+
+
+## Criptomonedas 💰
+
+### Bitcoin <i class="fab fa-bitcoin"></i>
+
+* El Pequeño Libro de Bitcoin [Tapa Blanda](https://amzn.to/36YBmri) \ [Ebook](https://amzn.to/34X3n0m)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1700678876&linkId=0afa52e7ab647b335fed287e7f06103e"></iframe>
 
 ## 🕴 Empresa y Estrategia
 
