@@ -14,11 +14,11 @@ header:
   image_description: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación"
   image_alt: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación"
   caption: "Créditos: Unsplash."
-#  actions:
-#   - label: "Cursos Tecnología"
-#      url: "/cursos-tecnologia/"
-#   - label: "Cursos Microsoft"
-#      url: "/cursos-tecnologia-microsoft/"
+  actions:
+    - label: "Black Friday 2019"
+      url: "/black-friday-amazon/"
+    - label: "Prime Day 2019"
+      url: "/prime-day-amazon/"
 ---
 
 [📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#diversidad){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large}
@@ -34,7 +34,7 @@ header:
 * [Uned Abierta](https://iedra.uned.es){:target="_blank"}
 * [EducaciónTresPuntoCero](https://www.educaciontrespuntocero.com){:target="_blank"}
 
-[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 <!-- cursos solo en ingles: https://iversity.org/en/courses?course_of_study_code=&type=&language_code=it&search= -->
 
 ## Cursos de Educación
@@ -115,7 +115,7 @@ header:
 * [Tipos de malware, riesgos y protección específica](https://enlinea.intef.es/courses/course-v1:INTEF+antimalwareEDU+2019_ED1/about){:target="_blank"} (Intef)
 <!-- LISTADOS DE CURSOS WTF. XD -->
 
-[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Diversidad
 
@@ -128,7 +128,7 @@ header:
 * [Tecnologías de apoyo y atención a la diversidad (2009)](http://ocw.um.es/cc.-sociales/tecnologias-de-apoyo-y-atencion-a-la-diversidad){:target="_blank"}
 * [Trastornos del Desarrollo y Logopedía (2009)](http://ocw.um.es/cc.-sociales/tecnologias-de-la-informacion-y-la-comunicacion){:target="_blank"}
 
-[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Recursos Educativos
 
@@ -168,13 +168,12 @@ header:
  * [![Constructor](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_constructor.png)Constructor](https://constructor.educarex.es/){:target="_blank"}
  * [![exelearning](https://enmarchaconlastic.educarex.es/images/mainmenu/iconos/icono_S_exelearning.png)exelearning](http://exelearning.net/){:target="_blank"}
 
-[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 <!-- BUSCAR RECURSOS A LO LARGO DE MIS MARCADORES XD XD XD -->
 
 ## Más Recursos
 
-[🎓 Cursos de Tecnología](/cursos-tecnologia/){: .btn .btn--inverse .btn--x-large .align-center}
-[📁 Cursos de Microsoft](/cursos-tecnologia-microsoft/){: .btn .btn--inverse .btn--x-large .align-center}
+[🎓 Cursos Tecnología](/cursos-tecnologia/){: .btn .btn--inverse .btn--x-large .align-center}
 [🔨 Recursos Prácticos](https://kutt.it/recursos){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 Biblioteca de Tecnología](/biblioteca-de-programacion-y-tecnologia/){: .btn .btn--inverse .btn--x-large .align-center}
 [😼 Universo Ciberninjas](https://kutt.it/global){: .btn .btn--inverse .btn--x-large .align-center}
