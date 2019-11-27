@@ -1,5 +1,5 @@
 ---
-title: "👨‍💻 ▷ La Hora del Código: Aprender a Programar a los Niños y Niñas"
+title: "👨‍💻 ▷ La Hora del Código: Cómo Aprender a Programar a los Niños y Niñas"
 description: "😼  Cómo Aprender Programación y Robótica a las Niñas y Niños con La Hora del Código."
 excerpt: "😼 Cómo Aprender Programación y Robótica a las Niñas y Niños con La Hora del Código."
 published: true
@@ -18,7 +18,7 @@ toc_icon: user-ninja
 toc_sticky: true
 
 ---
-
+<!-- https://hourofcode.com/es/learn -->
 Actividades en español que difunde para su utilización e impartición en las diferentes actividades de la Hora del Código a lo largo de los diferentes puntos del planeta.
 
 ## [La Fiesta del Baile](https://code.org/dance){:target="_blank"}
