@@ -13,4 +13,4 @@ sidebar:
   nav: general
 ---
 
-Lista de todas las palabras añadidas a mi `glosario`.
+Lista de las palabras y entradas más recientes, agregadas a mi `glosario`.
