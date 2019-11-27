@@ -13,7 +13,8 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 header:
-  overlay_image: "https://i.ibb.co/RhWh3RG/collage-arte-ondas-rojas.jpg" 
+  teaser: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
+  overlay_image: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
   overlay_filter: "0.1"
   image_description: "Recursos de Diseño Gráfico en Ciberninjas"
   image_alt: "Recursos de Diseño Gráfico en Ciberninjas"
@@ -23,7 +24,6 @@ header:
       url: "/diseño-recursos/"
 ---
 
-https://ciberninjas.com/dise%C3%B1o-recursos/
 ## Software
 
 * [Krita](https://krita.org/es/){:target="_blank"} \ [Brochas](https://docs.krita.org/en/resources_page.html#brush-packs){:target="_blank"}
