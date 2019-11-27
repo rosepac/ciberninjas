@@ -1,24 +1,24 @@
 main:
-  - title: "🎁 Ofertas Black Friday"
+  - title: "🎁 Black Friday"
     url: /catalogo/amazon/
   - title: "📚 Guías"
     url: /guias/
-  - title: "💡 Quién Soy"
-    url: /quien-soy/
   - title: "🛒 Catálogo"
     url: /catalogo/
+  - title: "💡 Quién Soy"
+    url: /quien-soy/
   - title: "📁 Archivo"
     url: /blog/
   - title: "🧰 Recursos"
     url: https://kutt.it/recursos-globales"
-#  - title: "📖 Libros"
-#    url: /biblioteca-de-programacion-y-tecnologia/
-#  - title: "🎓 Cursos"
-#    url: /cursos-tecnologia/
-#  - title: "👨‍🏫 Tutoriales"
-#    url: /videotutoriales/
-#  - title: "🎥 Videoteca"
-#    url: /videoteca/
+  - title: "📖 Libros"
+    url: /biblioteca-de-programacion-y-tecnologia/
+  - title: "🎓 Cursos"
+    url: /cursos-tecnologia/
+  - title: "👨‍🏫 Tutoriales"
+    url: /videotutoriales/
+  - title: "🎥 Videoteca"
+    url: /videoteca/
   - title: "🌈 Categorías"
     url: /categoria/
   - title: "🏷 Etiquetas"
