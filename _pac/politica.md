@@ -6,11 +6,16 @@ excerpt: 'Política, influencias y abridores de mente.'
 date: 2019-11-14
 last_modified_at: 2019-09-24 12:30:02
 published: true
-classes: wide
 permalink: /politica/
+classes: wide
 canonical_URL: https://ciberninjas.com/politica/
 header:
   teaser: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
+  overlay_image: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
+  overlay_filter: "0.2"
+  image_description: "Política, influencias y abridores de mente."
+  image_alt: "Política, influencias y abridores de mente."
+  caption: "Política, influencias y abridores de mente."
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

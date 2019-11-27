@@ -14,6 +14,7 @@ header:
   overlay_image: https://i.ibb.co/yqymDJj/photo-1505489304219-85ce17010209-ixlib-rb-1-2.jpg
   overlay_filter: "0.2"
   image_description: "Chica leyendo relajada con su café: Unsplash & Ciberninjas"
+  image_alt: "Chica leyendo relajada con su café: Unsplash & Ciberninjas"
   caption: "Chica leyendo relajada con su café: Unsplash & Ciberninjas"
 # sidebar:
 # - title: "Historia Computadora"
