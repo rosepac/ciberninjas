@@ -8,13 +8,18 @@ date: 2018-02-13T22:00:00.000+00:00
 last_modified_at: 2019-10-15T12:42:42-05:00
 permalink: /biblioteca-de-programacion-y-tecnologia/
 published: true
-# image: 
-#   path: &image /assets/images/imac-glitch-feature.jpg
-#   width: 1024
-#   height: 512
-#   feature: *image
-# twitter:
-#   card: summary_large_image
+header:
+  teaser: "/assets/images/chico-buscando-libro-biblioteca.jpg"
+  overlay_image: "/assets/images/chico-buscando-libro-biblioteca.jpg"
+  overlay_filter: 0.2
+  image_description: 'Chico encuentra el libro perfecto con el que aprender tecnología | Ciberninjas'
+  image_alt: 'Chico encuentra el libro perfecto con el que aprender tecnología | Ciberninjas'
+  caption: "Créditos: Unsplash, de Dominio Público"
+#  actions:
+#    - label: "Black Friday 2019"
+#      url: "/black-friday-amazon/"
+#    - label: "Prime Day 2019"
+#      url: "/prime-day-amazon/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
