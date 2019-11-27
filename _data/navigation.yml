@@ -47,14 +47,18 @@ vteca:
 
 # Páginas relacionadas a la sección del catálogo o tienda :D
 tienda:
+  - title: "😻 Black Friday"
+    url: /black-friday-amazon/
   - title: "👨‍💻 Libros"
     url: /catalogo/libros/
-  - title: "👨‍🎓 Libros Educativos"
+  - title: "✍ Novelas"
+    url: /catalogo/libreria/
+  - title: "👨‍🎓 Libros de Texto"
     url: /catalogo/libros-texto/
   - title: "🎁 Regalos Geeks"
     url: /catalogo/regalos/
-  - title: "✒ Novelas"
-    url: /catalogo/libreria/
+  - title: "🧸 Frozen II"
+    url: /disney-frozen-amazon/
 
 # Radio es el Menú de toda mi música dividida en Apartados :D
 radio:
