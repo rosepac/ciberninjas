@@ -10,8 +10,8 @@ last_modified_at: 2019-11-27T08:45:42+01:00
 permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
 header:
-  teaser: "/assets/images/cursos_educacion_pensar.jpg"
-  overlay_image: "/assets/images/cursos_educacion_pensar.jpg"
+  teaser: "https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg"
+  overlay_image: "https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg"
   image_description: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación \ Visto en Ciberninjas"
   image_alt: "Los Mejores Cursos para Profesores, Educadores, Pedagogos y Profesionales de la Educación \ Visto en Ciberninjas"
   caption: "**Créditos**: ROSEPAC."
