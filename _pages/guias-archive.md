@@ -7,7 +7,7 @@ collection: guias
 permalink: /guias/
 canonical_URL: https://ciberninjas.com/guias/
 author_profile: false
-entries_layout: grid
+# entries_layout: grid
 classes: wide
 sort_by: date
 sort_order: reverse
