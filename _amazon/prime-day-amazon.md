@@ -15,17 +15,30 @@ header:
   image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
   image_alt: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
   caption: "**Créditos**: Creación propia Ciberninjas"
+  actions:
+    - label: "Black Friday 2019"
+      url: "/black-friday-amazon/"
+    - label: "Disney"
+      url: "/disney-frozen-amazon/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
-toc_sticky: true
+toc_sticky: false
 ---
 
-<!-- PRIME DAY DE AMAZON DEL 2019 -->
-Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2019, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas. <!-- En definitiva, una pequeña guía de Prime Day, que espero vaya creciendo año a año. -->
-___
+[Conoce todo lo que desees sobre Amazon Prime ¡GO!](https://ciberninjas.com/prime-day-amazon/#preguntas-y-respuestas){: .btn .btn--inverse .btn--large}
 
-Última Actualización: 16/07/2019 2:05 AM
+🛑 PÁGINA EN REPOSO HASTA EL PRIME DAY 2020 🛑 
+{: .notice--warning}
+
+Última Actualización: 16/07/2019
+{: .notice--info}
+
+<!-- PRIME DAY DE AMAZON DEL 2019 -->
+Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2019, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas.
+
+<!-- En definitiva, una pequeña guía de Prime Day, que espero vaya creciendo año a año. -->
+___
 
 > [¡Sigue las Mejores Ofertas Flash!](https://kutt.it/ciberninjast)  
 > ¡Hasta el final de la Campaña!
