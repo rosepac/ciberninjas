@@ -30,7 +30,7 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 ## Metalistas
 
-* [Paquete de Recursos Gratis](){:target="_blank"} (Wemaster Deals)  Paquete gratuito que se modifica cada cierto tiempo.
+* [Paquete de Recursos Gratis](https://free.webmaster-deals.com/){:target="_blank"} (Wemaster Deals)  Paquete gratuito que se modifica cada cierto tiempo.
 
 ## Repositorios
 
@@ -54,11 +54,13 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 * [Mobile Browser Emulator](/como-publicar-en-instagram-%F0%9F%93%B8-desde-el-ordenador-%F0%9F%96%A5-extension-de-chrome-mobile-browser-emulator/ "Cómo probar cualquier aplicación o web en su versión móvil desde el navegador"){:target="_blank"}
 * [Tabla de Compatibilidad HTML5 en navegadores móviles y tabletas con pruebas en dispositivos reales](https://html5test.com/results/desktop.html){:target="_blank"}
 
+[🔝 Regresar 🔝](/diseño-recursos/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+
 ## 📰 ARTÍCULOS
 
 👷‍♂️ En Construcción 👷‍♂️‍
 
-## 📰 ARTÍCULOS En INGLÉS
+## 📰 ARTÍCULOS en INGLÉS
 
 ### Optimización Web
 
@@ -82,7 +84,15 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 * [PWAs en iOS 12.2 beta: lo bueno, lo malo y lo no seguro si es bueno](https://medium.com/@firt/pwas-on-ios-12-2-beta-the-good-the-bad-and-the-not-sure-yet-if-good-a37b6fa6afbf){:target="_blank"}
 * [Una filosofía abierta puede unificar la fragmentación de la web - #TheOpenAgenda](http://blog.digital.telefonica.com/2013/09/03/theopenagenda-max-firtman/){:target="_blank"}
 
-[⬆ REGRESAR ARRIBA ⬆](/diseño-recursos/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/diseño-recursos/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 <!-- * []( ""){:target="_blank"} -->
 
 <!-- https://www.prototypr.io/toolbox -->
+
+*****
+
+## Paquetes
+
+* [Paquete Gratuito Diciembre 2019](https://i.ibb.co/Jd8DCVQ/free-webmaster-tools-herramientas-gratis.jpg){:target="_blank"}
+
+[⬇ 📂 Descargar - 6 Gb de Recursos Libres ⬇](https://grafup.app.box.com/s/yt4628h4ojqyzafu43ydzrjhg4b8oqt2){: .btn .btn--inverse .btn--x-large .align-center}
