@@ -9,7 +9,7 @@ published: true
 comments: true
 date: 2019-11-23 08:50:00 +0200
 header:
-  teaser: https://i.ibb.co/r3V9HRW/34605751714-d713169d14-b.jpg
+  teaser: https://i.ibb.co/dr79Ys3/frozen-2-inicio.gif
   overlay_image: https://i.ibb.co/r3V9HRW/34605751714-d713169d14-b.jpg
   overlay_filter: 0.2
   image_description: '👸 Los mejores ofertas de juguetes de Frozen en Amazon | Ciberninjas'
