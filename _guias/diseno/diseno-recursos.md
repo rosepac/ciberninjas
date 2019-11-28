@@ -6,7 +6,7 @@ published: true
 author: rosepac
 comments: true
 date: 2019-10-08 12:06:18
-last_modified_at: 2019-11-27 18:36:18
+last_modified_at: 2019-11-28 18:36:18
 permalink: /diseño-recursos/
 header:
   teaser: https://i.ibb.co/LkcCrb2/diseno-web-unsplash.jpg
@@ -16,7 +16,7 @@ header:
   image_alt: "Recursos de Diseño Web en Ciberninjas"
   caption: "Créditos: Unsplash"
   actions:
-    - label: "Recursos Diseño Web"
+    - label: "Recursos Diseño Gráfico"
       url: "/diseño-grafico/"
 toc: true
 toc_label: "Contenidos"
