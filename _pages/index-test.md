@@ -157,8 +157,7 @@ Splash Page
 
 <details>
 <summary> 👉 Listado de Entradas de Software 👈</summary>
-<ul>
-<li>
+
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -175,8 +174,7 @@ Splash Page
     </div>
 </div>
 </div>
-</li>
-<li>
+
 <div class="feature__wrapper">
 <div class="feature__item--right">
     <div class="archive__item">
@@ -193,6 +191,5 @@ Splash Page
     </div>
 </div>
 </div>
-</li>
-</ul>
+
 </details>
