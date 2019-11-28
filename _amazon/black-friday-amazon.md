@@ -9,7 +9,7 @@ published: true
 comments: true
 date: 2019-11-23 07:30:00 +0200
 header:
-  teaser: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
+  teaser: 'https://i.ibb.co/R2WZfKG/black-friday-day.gif'
   overlay_image: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
   overlay_filter: 0.2
   image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
@@ -79,6 +79,20 @@ Las ofertas incluidas a continuación, y muchas más, estarán disponibles en va
 * Ahorro de hasta 80 € con los Packs de dispositivos [Amazon Echo de 3º Generación](https://amzn.to/2OArQSM){:target="_blank"} más 2 bombillas blancas o de color u enchufe inteligente; a elegir.
 * Ahorro de hasta un 30% en [fundas para Kindle](https://amzn.to/2D5Ti5H){:target="_blank"}
 <!--Lego: https://amzn.to/2DbALoC -->
+
+## Ofertas de Componentes de Ordenador
+
+## Ofertas Dispositivos de Diseño Gráfico
+
+## Ofertas Auriculares y Otros Dispositivos de Sonido
+
+## Ofertas Apple
+
+## Ofertas Robótica
+
+## Ofertas Portátiles / Laptops / Informática
+
+## Ofertas Smartwarches
 
 ## Cheques & Tarjetas de Regalo
 

@@ -9,7 +9,7 @@ published: true
 comments: true
 date: 2019-09-01 10:30:00 +0200
 header:
-  teaser: /assets/images/ciberninjas-prime-day.jpg
+  teaser: https://i.ibb.co/0rXN63g/amazon-prime-day.gif
   overlay_image: /assets/images/ciberninjas-prime-day.jpg
   overlay_filter: 0.2
   image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'

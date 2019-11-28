@@ -4,7 +4,7 @@ title: "Lecturas"
 description: 'Lecturas Pendientes o En Proceso.'
 excerpt: 'Lecturas Pendientes o En Proceso.'
 date: 2019-10-21
-last_modified_at: 2019-11-28 04:40:20
+last_modified_at: 2019-11-28 05:50:20
 published: true
 permalink: /lecturas/
 classes: wide

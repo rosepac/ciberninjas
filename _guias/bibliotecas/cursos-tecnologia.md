@@ -95,7 +95,6 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank"} (UniPython)
 * [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank"} (Coursera)
 * [Aprendizaje Automático para el Análisis de Datos (2013)](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico-para-el-analisis-de-datos-2013){:target="_blank"} (OCW)
-* [Aspectos básicos de la planificación y la gestión de proyectos](https://www.coursera.org/learn/uva-darden-project-management-es){:target="_blank"} (Coursera)
 * [Big Data, el valor añadido de los datos de un negocio](https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio){:target="_blank"} (MiriadaX)
 * [Big Data Marketing](https://miriadax.net/web/big-data-marketing){:target="_blank"} (MiriadaX)
 * [Big Data para una ciudad inteligente](https://miriadax.net/web/big-data-para-una-ciudad-inteligente-2-edicion-){:target="_blank"} (MiriadaX)
@@ -226,6 +225,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Google Actívate: Marketing digital, Comercio Electrónico, Transformación digital, Cloud Computing, Desarrollo de Apps, Desarrollo Web I, II, Productividad Personal](https://www.google.es/landing/activate/home){:target="_blank"} (Campus Google Actívate)
 * [Growth Hacking](https://miriadax.net/web/growth-hacking/inicio){:target="_blank"} (MiriadaX)
 * [Marketing Digital](https://miriadax.net/web/marketing-digital-2-edicion-/inicio){:target="_blank"} (MiriadaX)
+* [Marketing Digital](/👨‍🏫-curso-marketing-digital-david-rodriguez) (David Rodriguez, Youtube)
 * [Mercadeo en Red o Network Marketing](https://www.udemy.com/mercadeo-en-red-o-network-maketing){:target="_blank"} (Udemy)
 * [Prestashop: tienda e-commerce desde cero](https://www.udemy.com/prestashop-tienda-ecommerce-desde-cero){:target="_blank"} (Udemy)
 * [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://www.udemy.com/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa){:target="_blank"} (Udemy)
@@ -393,12 +393,13 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Curso de Scratch](/curso-scratch-javier-fernandez) (2014. Javier Fernández, Youtube)
 * [Introducción a la programación con Scratch](https://www.udemy.com/introduccion-a-la-programacion-con-scratch){:target="_blank"} (Udemy)
 * [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed){:target="_blank"} (MiriadaX)
-* [Scratch, su Historia y Cómo usarlo junto a Arduino](/scratch-historia-como-usarlo-junto-a-arduino)
+* [Scratch, su Historia y Cómo usarlo junto a Arduino](/scratch-historia-como-usarlo-junto-a-arduino) (Youtube)
 * [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar){:target="_blank"} (Coursera)
+* [Videojuegos con Scratch -12 juegos-](/videojuegos-scratch-programo-ergo-sum) (Youtube)
 <!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
 
 [🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
+<!-- Programo Ergo Sum: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists -->
 ## 👨‍💻 Lenguajes de Programación
 
 ## C, C#, C++

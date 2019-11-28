@@ -8,6 +8,7 @@ comments: true
 date: 2019-10-08 12:06:18
 last_modified_at: 2019-11-28 18:36:18
 permalink: /diseño-recursos/
+canonical_URL: https://ciberninjas.com/diseño-grafico/
 header:
   teaser: https://i.ibb.co/LkcCrb2/diseno-web-unsplash.jpg
   overlay_image: https://i.ibb.co/LkcCrb2/diseno-web-unsplash.jpg
@@ -30,7 +31,7 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 ## Metalistas
 
-* [Paquete de Recursos Gratis](https://free.webmaster-deals.com/){:target="_blank"} (Wemaster Deals)  Paquete gratuito que se modifica cada cierto tiempo.
+* [Paquete de Recursos Gratis](/diseño-recursos/#-regalos){:target="_blank"} (Wemaster Deals)  Paquete gratuito que se modifica cada cierto tiempo.
 
 ## Repositorios
 
@@ -58,17 +59,21 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 ## 📰 ARTÍCULOS
 
-👷‍♂️ En Construcción 👷‍♂️‍
+👷‍♂️ PRÓXIMAMENTE 👷‍♂️‍
 
 ## 📰 ARTÍCULOS en INGLÉS
 
+👷‍♂️ PRÓXIMAMENTE 👷‍♂️‍
+
 ### Optimización Web
+
+👷‍♂️ PRÓXIMAMENTE 👷‍♂️‍
 
 #### PWA
 
+* [9 sorprendentes secretos de PWA](https://www.creativebloq.com/features/pwas-welcome-to-the-mobile-revolution){:target="_blank"} , artículo destacado publicado en la [revista .net # 304](https://www.creativebloq.com/features/9-amazing-pwa-secrets){:target="_blank"}
 * [¿Hay una guerra fría entre Android y Chrome debido a los PWA?](https://medium.com/@firt/is-there-a-cold-war-between-android-and-chrome-because-of-pwas-e50a7471056c){:target="_blank"}
 * [¿Las aplicaciones web progresivas desplazarán a las aplicaciones móviles nativas? ](https://www.emarketer.com/content/will-progressive-web-apps-displace-native-mobile-apps){:target="_blank"}en eMarketer
-* [9 sorprendentes secretos de PWA](https://www.creativebloq.com/features/pwas-welcome-to-the-mobile-revolution){:target="_blank"} , artículo destacado publicado en la [revista .net # 304](https://www.creativebloq.com/features/9-amazing-pwa-secrets){:target="_blank"}
 * [Acelerando las experiencias HTML5 móviles](http://www.creativebloq.com/mobile/speeding-mobile-html5-experiences-8135480){:target="_blank"} en la revista .net
 * [Android Oreo le da un mordisco a las aplicaciones web progresivas](https://medium.com/@firt/android-oreo-takes-a-bite-out-of-progressive-web-apps-30b7e854648f){:target="_blank"}
 * [Comenzando con Wearables](http://www.smashingmagazine.com/2015/10/getting-started-wearables-plan-build-design/){:target="_blank"} en Smashing Magazine
@@ -91,8 +96,8 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 *****
 
-## Paquetes
+## 🎁 Regalos
 
-* [Paquete Gratuito Diciembre 2019](https://i.ibb.co/Jd8DCVQ/free-webmaster-tools-herramientas-gratis.jpg){:target="_blank"}
+* [Contenido del Regalito Gratuito Diciembre 2019](https://kutt.it/fwt-1){:target="_blank"}
 
 [⬇ 📂 Descargar - 6 Gb de Recursos Libres ⬇](https://grafup.app.box.com/s/yt4628h4ojqyzafu43ydzrjhg4b8oqt2){: .btn .btn--inverse .btn--x-large .align-center}

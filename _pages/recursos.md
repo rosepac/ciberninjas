@@ -80,6 +80,8 @@ Personalmente no le he dado uso, puesto que mis tareas no son tan metódicas ni 
 
 Abrir varios enlaces a la vez, de una sola selección.
 
+<!-- Como anotar absolutamente todo: https://beepb00p.xyz/annotating.html -->
+
 ## Mis Aplicaciones Realmente Favoritas
 
 Extensión: wikiwand wikipedia.
