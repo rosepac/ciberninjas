@@ -1,16 +1,16 @@
 ---
 author: rosepac
-title: "Lecturas"
-description: 'Lecturas Pendientes o En Proceso.'
-excerpt: 'Lecturas Pendientes o En Proceso.'
-date: 2019-10-21
-last_modified_at: 2019-10-31 21:17:20
+title: "Artículos"
+description: 'Artículos redactados durante los últimos años.'
+excerpt: 'Artículos redactados durante los últimos años.'
+date: 2019-11-27
+last_modified_at: 2019-11-28 21:17:20
 published: true
 permalink: /articulos/
 classes: wide
 canonical_URL: https://ciberninjas.com/articulos/
 header:
-  teaser: https://i.ibb.co/sQ75Zqy/IMG-1568-3.jpg
+  teaser: https://i.ibb.co/p0WnjwY/zorrito-escritor-navegadores-plugins.gif
   overlay_image: https://i.ibb.co/sQ75Zqy/IMG-1568-3.jpg
   overlay_filter: "0.2"
   image_description: "Artículas redactados hasta la fecha en otras páginas y del blog organizados por temáticas"
