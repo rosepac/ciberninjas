@@ -24,7 +24,7 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-[Repositorios](/diseño-recursos/#repositorios){: .btn .btn--inverse .btn--large} [Librerías Animaciones](/diseño-recursos/#librerías-animaciones){: .btn .btn--inverse .btn--large} [Herramientas](/diseño-grafico/#-herramientas){: .btn .btn--inverse .btn--large} [Artículos](/diseño-recursos/#-artículos) [Artículos en Inglés](/diseño-recursos/#-artículos-en-inglés) [Optimización Web](/diseño-recursos/#optimización-web) [PWA](/diseño-recursos/#pwa)
+[Repositorios](/diseño-recursos/#repositorios){: .btn .btn--inverse .btn--large} [Librerías Animaciones](/diseño-recursos/#librerías-animaciones){: .btn .btn--inverse .btn--large} [Herramientas](/diseño-grafico/#-herramientas){: .btn .btn--inverse .btn--large} [Artículos](/diseño-recursos/#-artículos) [Artículos en Inglés](/diseño-recursos/#-artículos-en-inglés){: .btn .btn--inverse .btn--large} [Optimización Web](/diseño-recursos/#optimización-web){: .btn .btn--inverse .btn--large} [PWA](/diseño-recursos/#pwa){: .btn .btn--inverse .btn--large}
 
 Las mejores listas para diseñadores web y creadores de contenidos online. Pagina repleta de artículos, repositorios, blogs, librerías, herramientas y recursos que te ayudaran a la hora del Diseño Web y en la Optimización Web.
 
