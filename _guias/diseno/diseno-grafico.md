@@ -1,13 +1,14 @@
 ---
 title: 🎨 ▷ Recursos de Diseño Gráfico
-description: '🔨 🖼 Las Mejores Herramientas, Repositorios, Librerías y Recursos para Diseñadores Gráficos'
-excerpt: '🔨 🖼 Las Mejores Herramientas, Repositorios, Librerías y Recursos para Diseñadores Gráficos'
+description: '🔨 Las Mejores Herramientas, Repositorios, Librerías y Recursos para Diseñadores Gráficos'
+excerpt: '🔨 Las Mejores Herramientas, Repositorios, Librerías y Recursos para Diseñadores Gráficos'
 published: true
 author: rosepac
 comments: true
 date: 2019-11-12 10:13:18
 last_modified_at: 2019-11-27 13:15:18
 permalink: /diseño-grafico/
+canonical_URL: https://ciberninjas.com/diseño-grafico/
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -28,6 +29,7 @@ header:
 
 * [Krita](https://krita.org/es/){:target="_blank"} \ [Brochas](https://docs.krita.org/en/resources_page.html#brush-packs){:target="_blank"}
   * [Plugin de Acciones](https://github.com/Larpon/krita-bulk-actions){:target="_blank"}
+* [Sweet Home 3D](http://www.sweethome3d.com/){:target="_blank"}
 
 ## Software de Pago
 
