@@ -15,6 +15,11 @@ header:
   image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
   image_alt: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
   caption: "**Créditos**: Creación propia Ciberninjas"
+  actions:
+    - label: "Prime Day 2019"
+      url: "/prime-day-amazon/"
+    - label: "Disney"
+      url: "/disney-frozen-amazon/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
