@@ -31,7 +31,7 @@ sidebar:
   nav: tienda
 ---
 
-[💣 Ofertas Black Friday](black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--large}
+[💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [👩‍🎨 Auriculares Diseñadores](/auriculares-diseño/#auriculares-diseñadores){: .btn .btn--inverse .btn--large} [💰 Más Económicos](/auriculares-diseño/#más-económicos){: .btn .btn--inverse .btn--large} [🎮 Auriculares Gaming](/auriculares-diseño/#auriculares-gamers){: .btn .btn--inverse .btn--large} [🤸‍♀️ Auriculares Deportivos](/auriculares-diseño/#auriculares-gamers--deportivos) [🎁 Más Black Friday](/auriculares-diseño/#mas-black-friday)
 
 ## Ofertas Black Friday
 
@@ -148,3 +148,10 @@ Sennheiser Momentum Free SE Edición Especial - Auriculares (Bluetooth 4.2, Qual
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07R5ZZ23C&linkId=bde712f24e5b13a4a3baa14d49e13bf5"></iframe>
 
 [🔝 REGRESAR 🔝](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
+
+## 🎁 Más Black Friday
+
+[🎮 OFERTAS DE VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
+[⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[💻 ¡OJEA MÁS OFERTAS! 💻](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}

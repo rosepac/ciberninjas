@@ -18,6 +18,8 @@ header:
   actions:
     - label: "Black Friday 2019"
       url: "/black-friday-amazon/"
+    - label: "Consolas & Videojuegos"
+      url: "/videojuegos/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -35,7 +37,7 @@ El actual estreno de Frozen 2 hará de sus personajes el mejor regalo para todos
 
 Aprovechando las rebajas del Black Friday, desde Ciberninjas nos gustaría compartir los mejores juguetes relacionados con nuestros:  Elsa, Olaff, Ana, Kristoff, etc.
 
-[🎁 BLACK FRIDAY 2019 🎁](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[💣 BLACK FRIDAY 2019 💣](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 [🧸 ¡MUCHOS MÁS TECNOLOGÍA & JUGUETES! 👸](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
 
 ## 👩‍🔧 LEGOS
@@ -164,4 +166,4 @@ Muchos Más..
 
 ## 🎁 Mucho Más Black Friday
 
-[🎁 BLACK FRIDAY 2019 🎁](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[💣 BLACK FRIDAY 2019 💣](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}

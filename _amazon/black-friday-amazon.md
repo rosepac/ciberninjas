@@ -28,7 +28,7 @@ sidebar:
 - title: "Catálogo"
   nav: tienda
 ---
-[💣 Ofertas Black Friday](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [🤖 Dispositivos Inteligentes Amazon](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💌 Cheques & Tarjetas Regalo](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💖 Amazon Prime](/black-friday-amazon/#preguntas-y-respuestas-amazon-prime){: .btn .btn--inverse .btn--large} [❔ Detalles](/black-friday-amazon/#detalles-de-la-semana-black-friday-2019){: .btn .btn--inverse .btn--large}
+[💣 Ofertas Black Friday](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [🏡 Dispositivos Inteligentes Amazon](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💌 Cheques & Tarjetas Regalo](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💖 Amazon Prime](/black-friday-amazon/#preguntas-y-respuestas-amazon-prime){: .btn .btn--inverse .btn--large} [❔ Detalles](/black-friday-amazon/#detalles-de-la-semana-black-friday-2019){: .btn .btn--inverse .btn--large} [🎁 Más Black Friday](/black-friday-amazon/#mas-black-friday)
 
 <!-- PRIME DAY DE AMAZON DEL 2019 -->
 Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre la semana del Black Friday 2019 de Amazon. Hasta el momento el Black Friday era unicamente un día, como mucho dos; pues bien, este año Amazon nos ha ampliado el plazo de compras rebajadas a toda una semana. De hecho, exactamente 8 días; serán los que los usuarios podremos tener para lograr cazar los mejores chollos.
@@ -47,6 +47,8 @@ Las ofertas incluidas a continuación, y muchas más, estarán disponibles en va
 
 ## Dispositivos de Amazon
 
+## Dispositivos Echo Dot y Echo Show
+
 * [Echo Dot (3.ª generación)](https://amzn.to/2OAXDTz){:target="_blank"} con un descuento de 38 €
 * [Nuevo Amazon Echo (3.ª generación)](https://amzn.to/2KPxgZc){:target="_blank"} con un descuento de 35 €
 * [Echo Input](https://amzn.to/33iVn96){:target="_blank"} a mitad de precio, ahorras 20 €
@@ -56,6 +58,8 @@ Las ofertas incluidas a continuación, y muchas más, estarán disponibles en va
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07PHPXHQS&linkId=c1922be03a58b2834381ae41ad187296"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07P64MGPP&linkId=92215dea09228f047d7e1f6932713469"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07C76F3P2&linkId=1ed04c070c08481451c65423139c7ca0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07KD6624B&linkId=669521195c6da45bff6bc7ef6b157f49"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08125QMM6&linkId=4adf9d150f7755dd533a164e6dcafe3c"></iframe>
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
+
+## Dispositivos TV y Portero con Videollamada
 
 * [Amazon Fire TV Stick](https://amzn.to/35qnWTf){:target="_blank"} 15 € más barato de lo normal
 * [Amazon Fire TV Stick 4K Ultra HD](https://amzn.to/2Db98f8){:target="_blank"} 20 € más barato de lo normal
@@ -67,6 +71,8 @@ Las ofertas incluidas a continuación, y muchas más, estarán disponibles en va
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
 
+## Dispositivos de Cámaras de Seguridad
+
 * [Amazon Smart Plug x4](https://amzn.to/35y2Xy9){:target="_blank"} 17 € más barato por comprar este Pack de 4
 * [Cámara de Seguridad Inteligente Blink XT2 Negro](https://amzn.to/2OgFvzD){:target="_blank"} con 30 € de descuento
 * [Cámara de Seguridad Inteligente Blink XT2 Negro x 3](https://amzn.to/2rmEIUt){:target="_blank"} 75 € de descuento
@@ -77,6 +83,8 @@ Las ofertas incluidas a continuación, y muchas más, estarán disponibles en va
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
 
+## Tablets Electrónicas
+
 * [Fire 7 - 32 GB](https://amzn.to/2OfcIeF){:target="_blank"} con 20 € de descuento
 * [Fire 8 HD - 16 GB](https://amzn.to/34jUZsg){:target="_blank"} con 30 € de descuento
 * [Fire 8 HD - 32 GB](https://amzn.to/2DbyvNT){:target="_blank"} con 30 € de descuento
@@ -86,6 +94,8 @@ Las ofertas incluidas a continuación, y muchas más, estarán disponibles en va
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07JQP271F&linkId=62a35410314b8f906cf41a605b7412e8"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0794TLHP4&linkId=c9dd37e629c12a48468fe6ca20d9b42e"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0794X2TM4&linkId=6ee347a8a6a2ec8badd2a02ae9157df0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07L1MW4JX&linkId=18a341a3a3cfe53a5a8c11b200324ad2"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07KCZCPPQ&linkId=48b2fb59147968974bfb2abba5486f4d"></iframe>
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
+
+## Echo Dot ⏰ y Echo Flex + 💡
 
 * [Echo Dot con Reloj](https://amzn.to/2OavFz3){:target="_blank"} solamente por 35 €
 * [Echo Flex + Philips Hue White Pack de 2 bombillas](https://amzn.to/2QU4z19){:target="_blank"} solamente por 35 €
@@ -153,7 +163,11 @@ Sobre los enlaces de nuestras ofertas, se ha creado el artículo con la idea de 
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
 
-## 🎁 Mucho Más Black Friday
+## 🎁 Más Black Friday
 
-[👸 DISNEY FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
-[💻 ¡MÁS OFERTAS DE TECNOLOGÍA! 💻](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
+[🎮 OFERTAS DE VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
+[⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[💻 ¡OJEA MÁS OFERTAS! 💻](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
+
+
