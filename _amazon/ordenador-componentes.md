@@ -120,11 +120,6 @@ Placa con Aura Sync, DDR4 3866MHz, dual M.2, Intel Optane memory ready, HDMI, SA
 
 [🔝 REGRESAR 🔝](/ordenadores-componentes/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
-👷‍♂️‍ En Construcción 👷
-{: .notice--warning}
-
-[⬇ SIGUE MÁS ABAJO ⬇](/ordenadores-componentes/#-memorias-ram){: .btn .btn--inverse .btn--x-large .align-center}
-
 ## 🖥 MEMORIAS RAM
 
 ## Crucial Ballistix Tactical Tracer
@@ -189,18 +184,6 @@ Tarjeta Gráfica Enthusiast
 
 [🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2Dt3mpi){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07J9J2C7Q&linkId=15dee7dace11ec57d25de528e9e61bf1"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07YST91WG&linkId=6ae4de97794f7ea8cc20935db15296f1"></iframe>
 
 [🔝 REGRESAR 🔝](/ordenadores-componentes/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
@@ -222,24 +205,6 @@ Caja de PC E-ATX, ATX, mATX, Mini-ATX, ARGB, Mystic Light, Cristal Templado
 Caja de PC ATX, mATX, Mini-ATX, ARGB, Mystic Light, Cristal Templado
 
 [🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/35NJw4t){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07MZFGFDH&linkId=e76b58e1937f69de6f6c99b70c7ea971"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07MZDP8QT&linkId=72446922a088eff8b03eaca1fe7347e4"></iframe>
 
@@ -276,12 +241,6 @@ KLIM™ Wind + Base de refrigeración para portátil + La más Potente + Refrige
 Para Ordenadores Portátiles,5 Ventiladores Ultrasilenciosos con LED, Velocidad Ajustable, hasta 17.6 Pulgadas con 2 Puertos USB
 
 [🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2OuAd3t){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01M715BCV&linkId=0934897cd2c5cb6233969afd0f70c388"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QG4Z85D&linkId=7c304b8db69d62b634ea808124f457b5"></iframe>
 
