@@ -1,6 +1,6 @@
 ---
-layout: collection
-title: 'Escuela Laboratorio de Tecnología Digital'
+layout: splash
+title: 'Escuela de Tecnología Digital'
 description: '❌ prueba temporal portada'
 excerpt: '❌ prueba temporal portada'
 permalink: /index-test/
@@ -10,7 +10,6 @@ author_profile: false
 # - title: "Historia Computadora"
 #   nav: historia
 title: "Splash Page"
-layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
