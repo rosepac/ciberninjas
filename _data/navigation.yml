@@ -49,8 +49,14 @@ vteca:
 tienda:
   - title: "😻 Black Friday"
     url: /black-friday-amazon/
-  - title: "💻 Componentes PC"
+  - title: "💻 Componentes de PC"
     url: /ordenadores-componentes/
+  - title: "🖼 Tablets Gráficas"
+    url: /tablets-graficas//
+  - title: "🐭 Ratones & Teclados"
+    url: /teclados-ratones-dise%C3%B1o/
+  - title: "🎧 Auriculares"
+    url: /auriculares-dise%C3%B1o/
   - title: "🎮 Consolas & Videojuegos"
     url: /videojuegos/
   - title: "🧸 Disney"
