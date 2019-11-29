@@ -1,6 +1,6 @@
 ---
 author_profile: true
-title: "🎁 Los Mejores Descuentos del Prime Day 2019"
+title: "Los Mejores Descuentos del Prime Day 2019"
 description: "😻 Prime Day Amazon 2019 🔥 todas las mejores ofertas."
 excerpt: "😻 Prime Day Amazon 2019 🔥 todas las mejores ofertas."
 permalink: /prime-day-amazon/

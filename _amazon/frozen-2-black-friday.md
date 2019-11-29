@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: "⛄ Frozen 2, tu Mejor Regalo esta Navidad"
+title: "⛄ Frozen 2, tu Mejor Regalo por Navidad"
 description: "👸 Ofertas de juguetes en Black Friday."
 excerpt: "👸 Ofertas de juguetes en Black Friday."
 permalink: /disney-frozen-amazon/
@@ -18,8 +18,6 @@ header:
   actions:
     - label: "Black Friday 2019"
       url: "/black-friday-amazon/"
-    - label: "Prime Day 2019"
-      url: "/prime-day-amazon/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -163,5 +161,7 @@ Muchos Más..
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QQ2LN3D&linkId=45875667efd75790694cea18be565371"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QQ2LJK8&linkId=0a27214ae7d4185f6656af5afb448f00"></iframe>
 
 [🔝 REGRESAR 🔝](/frozen-2-black-friday/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
+## 🎁 Mucho Más Black Friday
 
 [🎁 BLACK FRIDAY 2019 🎁](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
