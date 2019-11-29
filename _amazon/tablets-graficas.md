@@ -9,7 +9,7 @@ published: true
 comments: true
 date: 2019-11-29 22:14:00 +0200
 header:
-  teaser: 'https://i.ibb.co/tpbYWKp/tablet-diseno-grafico-buho.gif'
+  teaser: 'https://i.ibb.co/s9sNcjL/tablet-diseno-grafico.gif'
   overlay_image: 'https://i.ibb.co/qnvJDdL/tablet-graficax1280.jpg'
   overlay_filter: 0.2
   image_description: 'Las Mejores Ofertas de Tablets Gráficas en el Black Friday | Ciberninjas'

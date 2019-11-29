@@ -1,8 +1,8 @@
 ---
-author_profile: true
-title: "▷ Black Friday 2019, todo lo que necesitas saber"
-description: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."
-excerpt: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."
+author_profile: false
+title: "👩‍💻 ▷ Los Mejores Ratones y Teclados para Diseñar y Jugar"
+description: "🎁 Las mejores ofertas de Ratones y Teclados para Diseñar y Jugar."
+excerpt: "🎁 Las mejores ofertas de Ratones y Teclados para Diseñar y Jugar."
 permalink: /teclados-ratones-diseño/
 canonical_URL: https://ciberninjas.com/teclados-ratones-diseño/
 published: true
@@ -12,9 +12,9 @@ header:
   teaser: 'https://i.ibb.co/XtXfLzh/raton-ordenador.gif'
   overlay_image: 'https://i.ibb.co/B4R7crh/teclado-mesa-pcx1280.jpg'
   overlay_filter: 0.2
-  image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
-  image_alt: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
-  caption: "**Créditos**: Creación propia Ciberninjas"
+  image_description: 'Las Mejores Ofertas de Ratones y Teclados | Ciberninjas'
+  image_alt: 'Las Mejores Ofertas de Ratones y Teclados | Ciberninjas'
+  caption: "**Créditos**: Unsplash"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -23,6 +23,8 @@ sidebar:
 - title: "Catálogo"
   nav: tienda
 ---
+
+[🖱 Ratones Trabajar](/teclados-ratones-diseño/#ratones-de-trabajo){: .btn .btn--inverse .btn--large} [🖱 Ratones Gamers](/teclados-ratones-diseño/#ratones-gamers){: .btn .btn--inverse .btn--large} [⌨ Teclados Gamers](/teclados-ratones-diseño/#teclados-gamers){: .btn .btn--inverse .btn--large} [🧣 Alfombrillas](https://ciberninjas.com/teclados-ratones-dise%C3%B1o/#alfombrillas-de-rat%C3%B3n){: .btn .btn--inverse .btn--large}
 
 ## RATONES DE TRABAJO
 
@@ -96,6 +98,8 @@ Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva;
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0761YL588&linkId=13ccc1a94e27b802f148d10d9185fa75"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B016UPAVDE&linkId=6377a50f1b28b75e66b859008e5d338b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00BIFNTMC&linkId=b0b8f4e95ef30ad2ac0d1efa5b77340c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B074W227RK&linkId=91de731293e50f072feab21543d40a62"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00FRDA27Q&linkId=d4ea76a76618e9c8ca3e451af1af94ca"></iframe>
 
+[🔝 REGRESAR 🔝](/teclados-ratones-diseño/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ## TECLADOS GAMERS
 
 ## MSI Vigor GK60 CR - Teclado Español (N-Key, Windows Key, Cherry MX Red), Color Negro
@@ -129,6 +133,8 @@ Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva;
 [🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07N8WRTRJ&linkId=77db888c9cf5737ea1a5e9a93d1c3c18"></iframe>
+
+[🔝 REGRESAR 🔝](/teclados-ratones-diseño/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## RATONES GAMERS
 
@@ -164,6 +170,8 @@ Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva;
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07XZC667B&linkId=fc11e285cbaaf42f6a1c24e5b4389562"></iframe>
 
+[🔝 REGRESAR 🔝](/teclados-ratones-diseño/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ## ALFOMBRILLAS DE RATÓN
 
 ## MSI Agility GD30 - Alfombrilla de ratón para Videojuegos
@@ -197,3 +205,14 @@ Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva;
 [🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07S49XHNF&linkId=43ab25ea4e12e0b96e2ce279468e74ce"></iframe>
+
+[🔝 REGRESAR 🔝](/teclados-ratones-diseño/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
+## 🎁 Más Black Friday
+
+[💻 TABLETS GRÁFICAS 💻](/tablets-graficas/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[🎧 OFERTAS DE AURICULARES 🎧](/auriculares-dise%C3%B1o/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[💻 ¡OJEA MÁS OFERTAS! 💻](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
