@@ -16,6 +16,8 @@ header:
   image_alt: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
   caption: "**Créditos**: Creación propia Ciberninjas"
   actions:
+    - label: "Consolas & Videojuegos"
+      url: "/videojuegos/"
     - label: "Disney"
       url: "/disney-frozen-amazon/"
 toc: true
@@ -26,7 +28,7 @@ sidebar:
 - title: "Catálogo"
   nav: tienda
 ---
-[💣 Ofertas Black Friday](black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [🤖 Dispositivos Inteligentes Amazon](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💌 Cheques & Tarjetas Regalo](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💖 Amazon Prime](/black-friday-amazon/#preguntas-y-respuestas-amazon-prime){: .btn .btn--inverse .btn--large} [❔ Detalles](/black-friday-amazon/#detalles-de-la-semana-black-friday-2019){: .btn .btn--inverse .btn--large}
+[💣 Ofertas Black Friday](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [🤖 Dispositivos Inteligentes Amazon](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💌 Cheques & Tarjetas Regalo](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💖 Amazon Prime](/black-friday-amazon/#preguntas-y-respuestas-amazon-prime){: .btn .btn--inverse .btn--large} [❔ Detalles](/black-friday-amazon/#detalles-de-la-semana-black-friday-2019){: .btn .btn--inverse .btn--large}
 
 <!-- PRIME DAY DE AMAZON DEL 2019 -->
 Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre la semana del Black Friday 2019 de Amazon. Hasta el momento el Black Friday era unicamente un día, como mucho dos; pues bien, este año Amazon nos ha ampliado el plazo de compras rebajadas a toda una semana. De hecho, exactamente 8 días; serán los que los usuarios podremos tener para lograr cazar los mejores chollos.
@@ -35,7 +37,9 @@ Entre las muchas ofertas que nos propone Amazon, yo diría que lo más asombroso
 
 Realmente de entre todo lo que he ojeado he podido encontrar excelentes descuentos en [airpods](https://amzn.to/2OxIFOg){:target="_blank"}, [auriculares Sennheiser](https://amzn.to/2OcBXyh){:target="_blank"} y [auriculares inalámbricos Anker](https://amzn.to/2KNwSKx){:target="_blank"}, además de infinitos descuentos en tecnología para la casa como [aspiradores Roomba](https://amzn.to/35tJvm1){:target="_blank"} y [escobas eléctricas](https://amzn.to/2sapBOC){:target="_blank"}, [termómetros inteligentes](https://amzn.to/2KNV4MO){:target="_blank"}, [ollas de cocina](https://amzn.to/37txnDj){:target="_blank"}.
 
-Además, inumerables ofertas entre los productos de Amazon. El [Kindle Paperwhite](https://amzn.to/35y054l){:target="_blank"} resistente al agua desde 100 €, el [Echo Show 5](https://amzn.to/37uLmsC){:target="_blank"} con pantalla y Alexa desde 50 €, [Echo Dot](https://amzn.to/2XEYZAK){:target="_blank"} de diferentes colores por solo 22 €
+[💻 ¡MÁS OFERTAS DE TECNOLOGÍA! 💻](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
+
+Además, Amazon ha lanzando una inumerable lista de ofertas sobre todos sus dispositivos. Rebajando su precios; el [Kindle Paperwhite](https://amzn.to/35y054l){:target="_blank"} resistente al agua desde 100 €, el [Echo Show 5](https://amzn.to/37uLmsC){:target="_blank"} con pantalla y Alexa desde 50 €, [Echo Dot](https://amzn.to/2XEYZAK){:target="_blank"} de diferentes colores por solo 22 €
 
 ## Ofertas Black Friday
 
@@ -152,3 +156,4 @@ Sobre los enlaces de nuestras ofertas, se ha creado el artículo con la idea de 
 ## 🎁 Mucho Más Black Friday
 
 [👸 DISNEY FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[💻 ¡MÁS OFERTAS DE TECNOLOGÍA! 💻](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
