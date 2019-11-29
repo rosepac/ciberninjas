@@ -7,15 +7,15 @@ permalink: /auriculares-diseño/
 canonical_URL: https://ciberninjas.com/auriculares-diseño/
 published: true
 comments: true
-date: 2019-11-29 12:30:00 +0200
+date: 2019-11-29 15:32:01 +0200
 header:
-  teaser: 'https://i.ibb.co/3NsntD5/auriculares-diseno.gif'
-  overlay_image: 'https://i.ibb.co/10VJ9hy/auriculares-beats-6.jpg'
+  teaser: https://i.ibb.co/3NsntD5/auriculares-diseno.gif
+  overlay_image: https://i.ibb.co/10VJ9hy/auriculares-beats-6.jpg
   overlay_filter: 0.2
   image_description: 'Las Mejores Auriculares para Diseñar, Programar o Jugar en el Ordenador | Ciberninjas'
   image_alt: 'Las Mejores Auriculares para Diseñar, Programar o Jugar en el Ordenador | Ciberninjas'
   caption: "**Créditos**: Creación propia Ciberninjas"
-    actions:
+  actions:
     - label: "Black Friday 2019"
       url: "/black-friday-amazon/"
     - label: "Consolas & Videojuegos"
