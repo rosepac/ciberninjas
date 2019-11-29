@@ -157,7 +157,7 @@ Splash Page
 
 <details>
 <summary> 👉 Listado de Entradas de Software 👈</summary>
-
+<br/>
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
