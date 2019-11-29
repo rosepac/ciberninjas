@@ -13,9 +13,12 @@ toc_icon: user-ninja
 toc_sticky: true
 sort_by: date
 sort_order: reverse
-author_profile: true
+author_profile: false
 entries_layout: grid
 classes: wide
+sidebar:
+- title: "Catálogo"
+  nav: tienda
 # sidebar:
 # - title: "Menú Principal"
 #   nav: general
