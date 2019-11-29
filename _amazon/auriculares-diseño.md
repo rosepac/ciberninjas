@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author_profile: false
 title: "🎧 ▷ Los Mejores Auriculares de 2019"
 description: "🎶 Ofertas de Auriculares para Diseñadores y Gamers del Black Friday 2019."
 excerpt: "🎶 Ofertas de Auriculares para Diseñadores y Gamers del Black Friday 2019."
