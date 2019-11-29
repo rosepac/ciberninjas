@@ -24,6 +24,8 @@ sidebar:
   nav: tienda
 ---
 
+[💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large}
+
 ## 🧠 Placas Base
 
 ## MSI
