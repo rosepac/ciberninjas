@@ -49,16 +49,20 @@ vteca:
 tienda:
   - title: "😻 Black Friday"
     url: /black-friday-amazon/
+  - title: "💻 Componentes PC"
+    url: /ordenadores-componentes/
+  - title: "🎮 Consolas & Videojuegos"
+    url: /videojuegos/
+  - title: "🧸 Disney"
+    url: /disney-frozen-amazon/
   - title: "👨‍💻 Libros"
     url: /catalogo/libros/
-  - title: "✍ Novelas"
-    url: /catalogo/libreria/
   - title: "👨‍🎓 Libros de Texto"
     url: /catalogo/libros-texto/
+  - title: "✍ Novelas"
+    url: /catalogo/libreria/
   - title: "🎁 Regalos Geeks"
     url: /catalogo/regalos/
-  - title: "🧸 Frozen II"
-    url: /disney-frozen-amazon/
 
 # Radio es el Menú de toda mi música dividida en Apartados :D
 radio:
