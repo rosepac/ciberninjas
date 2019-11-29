@@ -71,11 +71,11 @@ Dentro de las variadas ofertas del Black Friday de Amazon podemos encontrar pequ
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07XCXT6QY&linkId=2de579ae544850a04262bb7ce663f6bf"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07VB8Y1JP&linkId=e60d2344b4e0e01dca2952a6374f7f65"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07KBJNG14&linkId=81b0a6d00687fb6ea56e01c25157dc8d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07KBLNZB1&linkId=bcf8e4b7b77a8d7fd8c81b767c799c99"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00MOLYU9K&linkId=b8a2cc2314c3cff8a4dfd19c5aa09e63"></iframe>
 
 [🔝 REGRESAR 🔝](/videojuegos/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
-
+<!-- xbox: https://www.amazon.es/s?k=xbox&i=videogames&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2 -->
 ## 🎮 VIDEOJUEGOS
 
 ### VIDEOJUEGOS DE ACCIÓN
-
+<!-- witcher videojuego: https://www.amazon.es/s?k=Witcher-Wild-Hunt&rh=n%3A599382031%2Cp_n_age_range%3A976009031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1574981120&rnid=976010031&ref=sr_nr_p_n_age_range_5 -->
 ## Battlefield 5
 
 [![Battlefield 5](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Battlefield 5 PS 4"){:target="_blank"}

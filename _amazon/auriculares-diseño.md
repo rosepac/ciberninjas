@@ -99,7 +99,7 @@ Los auriculares con más clase del mundo, los Beats Studio 3 del Dr. Dre tiene u
 
 ## Bose SoundLink On-Ear
 
-[![Bose SoundLink On-Ear](https://i.ibb.co/HHSG0fR/image.png)]([ "XBox One"](https://amzn.to/2Ow4qz9)){:target="_blank"}
+[![Bose SoundLink On-Ear](https://i.ibb.co/HHSG0fR/image.png)](https://amzn.to/2Ow4qz9){:target="_blank"}
 
 Auriculares inalámbricos, Bluetooth de diseño clásico, de la marca Bose. Un popular auricular ampliamente utilizado por diseñadores, tanto en el trabajo como en sus viajes. Es conocido por la cancelación de ruido a nivel mundial y presenta un audio equilibrado, sea cual sea el volumen a los que los desees poner.
 
