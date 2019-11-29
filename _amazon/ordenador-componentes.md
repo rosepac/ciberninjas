@@ -7,7 +7,7 @@ permalink: /ordenadores-componentes/
 canonical_URL: https://ciberninjas.com/ordenadores-componentes/
 published: true
 comments: true
-date: 2019-11-29 18:20:00 +0200
+date: 2019-11-29 23:16:00 +0200
 header:
   teaser: 'https://i.ibb.co/dghC7JV/ordenador-componentes.gif'
   overlay_image: 'https://i.ibb.co/gmjL2qb/photo-1513366884929-f0b3bedfb653-ixlib-rb-1-2.jpg'
