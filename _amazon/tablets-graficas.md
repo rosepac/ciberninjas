@@ -5,15 +5,15 @@ description: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos
 excerpt: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."
 permalink: /tablets-graficas/
 canonical_URL: https://ciberninjas.com/tablets-graficas/
-published: false
+published: true
 comments: true
-date: 2019-11-29 18:30:00 +0200
+date: 2019-11-29 22:14:00 +0200
 header:
   teaser: 'https://i.ibb.co/tpbYWKp/tablet-diseno-grafico-buho.gif'
-  overlay_image: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
+  overlay_image: 'https://i.ibb.co/qnvJDdL/tablet-graficax1280.jpg'
   overlay_filter: 0.2
-  image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
-  image_alt: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
+  image_description: 'Las Mejores Ofertas de Tablets Gráficas en el Black Friday | Ciberninjas'
+  image_alt: 'Las Mejores Ofertas de Tablets Gráficas en el Black Friday | Ciberninjas'
   caption: "**Créditos**: Creación propia Ciberninjas"
 toc: true
 toc_label: "Contenidos"

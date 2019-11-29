@@ -5,12 +5,12 @@ description: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos
 excerpt: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."
 permalink: /teclados-ratones-diseño/
 canonical_URL: https://ciberninjas.com/teclados-ratones-diseño/
-published: false
+published: true
 comments: true
-date: 2019-11-23 07:30:00 +0200
+date: 2019-11-29 22:14:00 +0200
 header:
-  teaser: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
-  overlay_image: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
+  teaser: 'https://i.ibb.co/XtXfLzh/raton-ordenador.gif'
+  overlay_image: 'https://i.ibb.co/B4R7crh/teclado-mesa-pcx1280.jpg'
   overlay_filter: 0.2
   image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
   image_alt: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
@@ -23,40 +23,6 @@ sidebar:
 - title: "Catálogo"
   nav: tienda
 ---
-
-## TECLADOS GAMERS
-
-## MSI Vigor GK60 CR - Teclado Español (N-Key, Windows Key, Cherry MX Red), Color Negro
-
-[![MSI Vigor GK60 CR](https://i.ibb.co/dtp2jrL/image.png)](https://amzn.to/2L6RcH8){:target="_blank"}
-
-[🖱 ¡CÓMPRALO YA! ⌨](https://amzn.to/2L6RcH8){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[⌨ ¡CÓMPRALO YA! 🖱](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07N8WRTRJ&linkId=77db888c9cf5737ea1a5e9a93d1c3c18"></iframe>
 
 ## RATONES DE TRABAJO
 
