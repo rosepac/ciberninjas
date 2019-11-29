@@ -1,8 +1,8 @@
 ---
 author_profile: false
-title: "🎮 Videojuegos, las Mejores Ofertas del Black Friday"
-description: "Date un regalo disfrutando de los juegos más espectaculares con estos brillantes precios durante el Black Friday de Amazon."
-excerpt: "Date un regalo disfrutando de los juegos más espectaculares con estos brillantes precios durante el Black Friday de Amazon."
+title: "🎮 Videoconsolas y Videojuegos con las Mejores Precios del Black Friday"
+description: "Date un regalo disfrutando de los juegos más espectaculares en excelentes precios durante el Black Friday de Amazon."
+excerpt: "Date un regalo disfrutando de las consolas y juegos más espectaculares en excelentes precios durante el Black Friday de Amazon."
 permalink: /videojuegos/
 canonical_URL: https://ciberninjas.com/videojuegos/
 published: true
@@ -10,7 +10,7 @@ comments: true
 date: 2019-11-29 04:44:00 +0200
 header:
   teaser: https://i.ibb.co/gRGCvXw/battlefield-1-gif.gif
-  overlay_image: hhttps://i.ibb.co/yR4c3b4/photo-1518908336710-4e1cf821d3d1-ixlib-rb-1-2.jpg
+  overlay_image: https://i.ibb.co/yR4c3b4/photo-1518908336710-4e1cf821d3d1-ixlib-rb-1-2.jpg
   overlay_filter: 0.2
   image_description: '🎮 Las mejores ofertas gamers en videoconsolas y videojuegos | Ciberninjas'
   image_alt: '🎮 Las mejores ofertas gamers en videoconsolas y videojuegos | Ciberninjas'
@@ -30,15 +30,15 @@ sidebar:
 Dentro de las variadas ofertas del Black Friday de Amazon podemos encontrar pequeñas ofertas en la mayoría de videoconsolas y videojuegos en cualquiera de las múltiples plataformas para los que existen.
 
 [🎁 BLACK FRIDAY 2019 🎁](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
-[🧸 ¡PRÓXIMAMENTE, MÁS JUGUETES & TECNOLOGÍA! 👸](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
+[💻 ¡MUCHA MÁS OFERTAS DE TECNOLOGÍA! ⌨](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
 
 ## 🎮 VIDEOJUEGOS
 
 ## Battlefield 5
 
-[![Battlefield 5](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT){:target="_blank"}
+[![Battlefield 5](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Battlefield 5 PS 4"){:target="_blank"}
 
-[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"} [🎮 XBox One 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 XBox One 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07D87MCR7&linkId=cdb5177ff8d6d9484250ba7375a049a2"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07D87SQ67&linkId=41fec9eaa0b4d0474ed5419cc0385b97"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07D85BDX9&linkId=d4be04513a5f41e67debb5f22c2c0c83"></iframe>
 
