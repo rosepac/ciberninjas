@@ -31,7 +31,7 @@ sidebar:
   nav: tienda
 ---
 
-[💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [👩‍🎨 Auriculares Diseñadores](/auriculares-diseño/#auriculares-diseñadores){: .btn .btn--inverse .btn--large} [💰 Más Económicos](/auriculares-diseño/#más-económicos){: .btn .btn--inverse .btn--large} [🎮 Auriculares Gaming](/auriculares-diseño/#auriculares-gamers){: .btn .btn--inverse .btn--large} [🤸‍♀️ Auriculares Deportivos](/auriculares-diseño/#auriculares-gamers--deportivos) [🎁 Más Black Friday](/auriculares-diseño/#mas-black-friday)
+[💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [👩‍🎨 Auriculares Diseñadores](/auriculares-diseño/#auriculares-diseñadores){: .btn .btn--inverse .btn--large} [💰 Más Económicos](/auriculares-diseño/#más-económicos){: .btn .btn--inverse .btn--large} [🎮 Auriculares Gaming](/auriculares-diseño/#auriculares-gamers){: .btn .btn--inverse .btn--large} [🤸‍♀️ Auriculares Deportivos](/auriculares-diseño/#auriculares-gamers--deportivos){: .btn .btn--inverse .btn--large} [🎁 Más Black Friday](/auriculares-diseño/#mas-black-friday){: .btn .btn--inverse .btn--large}
 
 ## Ofertas Black Friday
 
@@ -151,7 +151,7 @@ Sennheiser Momentum Free SE Edición Especial - Auriculares (Bluetooth 4.2, Qual
 
 ## 🎁 Más Black Friday
 
-[🎮 OFERTAS DE VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
+[🎮 OFERTAS DE VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 [⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 [📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 [💻 ¡OJEA MÁS OFERTAS! 💻](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
