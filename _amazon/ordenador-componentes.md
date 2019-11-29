@@ -24,7 +24,7 @@ sidebar:
   nav: tienda
 ---
 
-[💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [💣 Ofertas Black Friday](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--large}
+[🧠 PLACAS BASE](/ordenadores-componentes/#-placas-base){: .btn .btn--inverse .btn--large} [🧠 MSI](/ordenadores-componentes/#msi){: .btn .btn--inverse .btn--large} [🧠 GIGABYTE](/ordenadores-componentes/#gigabyte){: .btn .btn--inverse .btn--large} [🧠 ASUS](/ordenadores-componentes/#asus){: .btn .btn--inverse .btn--large} [🌖 MEMORIAS RAM](/ordenadores-componentes/#-memorias-ram){: .btn .btn--inverse .btn--large} [💳 TARJETAS GRÁFICAS](/ordenadores-componentes/#tarjetas-gráficas){: .btn .btn--inverse .btn--large} [🖥 CAJAS O TORRES](/ordenadores-componentes/#cajas-o-torres-de-pc){: .btn .btn--inverse .btn--large} [🖥 FUENTES ALIMENTACIÓN](/ordenadores-componentes/#fuentes-de-alimentación){: .btn .btn--inverse .btn--large} [❄ BASES DE REFRIGERACIÓN](/ordenadores-componentes/#bases-de-regrigeración){: .btn .btn--inverse .btn--large}
 
 ## 🧠 Placas Base
 
@@ -226,7 +226,7 @@ Fuente de alimentación para PC (850 W, 12 V, ATX, Cableado Modular, ventilador 
 
 [🔝 REGRESAR 🔝](/ordenadores-componentes/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
-## BASES DE REGRIGERACIÓN
+## BASES DE REFRIGERACIÓN
 
 ## KLIM™ Wind + Elementos
 
