@@ -15,13 +15,27 @@ header:
   image_description: 'Las Mejores Auriculares para Diseñar, Programar o Jugar en el Ordenador | Ciberninjas'
   image_alt: 'Las Mejores Auriculares para Diseñar, Programar o Jugar en el Ordenador | Ciberninjas'
   caption: "**Créditos**: Creación propia Ciberninjas"
+    actions:
+    - label: "Black Friday 2019"
+      url: "/black-friday-amazon/"
+    - label: "Consolas & Videojuegos"
+      url: "/videojuegos/"
+    - label: "Disney"
+      url: "/disney-frozen-amazon/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
+sidebar:
+- title: "Catálogo"
+  nav: tienda
 ---
 
-Los mejores auriculares para diseñadores 😼
+[💣 Ofertas Black Friday](black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--large}
+
+## Ofertas Black Friday
+
+En esta publicación vamos a realizar un repaso, entre algunos de los más espectaculares y mejores auriculares para diseñadores, los gamers y todo aquel que ame la tecnología al máximo.. 😻
 
 ## Auriculares Diseñadores
 
@@ -67,7 +81,9 @@ Los auriculares con más clase del mundo, los Beats Studio 3 del Dr. Dre tiene u
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07RVC23SG&linkId=1029b202e0fadfd4928ef0cc3a827161"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07CKT8Z57&linkId=5bd1bc7345baf58f2bfa4d5c17bffa89"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07Q9MJKBV&linkId=1d90de0bced3a83b2d7b66109f3436c6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07PYMK77Y&linkId=809ecc0d3956b76bf122d895dbcc6004"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07K2QQC83&linkId=5888172ae6b268e224e49983ad0abe03"></iframe>
 
-## Más Económicos
+[🔝 REGRESAR 🔝](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
+
+## Auriculares Más Económicos
 
 ## Sony WHH900N
 
@@ -97,6 +113,8 @@ Auriculares inalámbricos, Bluetooth de diseño clásico, de la marca Bose. Un p
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B074VGL9LB&linkId=f70425936c2b1bd5833d47711e21abf6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07Q7S7247&linkId=19a35977d75ed2d4c14cf0b78ebd5d09"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B074QRK6CG&linkId=fa9aec3e3c211c5900ab9096643b14ea"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07SHG4H92&linkId=a9575bac6eaeb402126a46408de78d66"></iframe>
 
+[🔝 REGRESAR 🔝](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
+
 ## Auriculares Gamers
 
 ## Sennheiser Game One
@@ -107,9 +125,11 @@ Auriculares de diadema abiertas para gaming, negro. Rebajados más de 100 €.
 
 [🎶 ¡CÓMPRALO YA! 🎧](https://amzn.to/2q5WJ9A){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-## MSI DS502 - Auriculares para Gaming (con micrófono, Sonido 7.1, Banda de sujeción, USB) Color Negro y Rojo [Clase de eficiencia energética A+++]
+## MSI DS502
 
 [![MSI DS502](https://i.ibb.co/nBDvPFV/image.png)](https://amzn.to/34voGX3){:target="_blank"}
+
+Auriculares para Gaming (con micrófono, Sonido 7.1, Banda de sujeción, USB) Color Negro y Rojo. Con la Clase de eficiencia energética A+++.
 
 [🎧 ¡CÓMPRALO YA! 🎶](https://amzn.to/34voGX3){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
@@ -125,22 +145,6 @@ Sennheiser Momentum Free SE Edición Especial - Auriculares (Bluetooth 4.2, Qual
 
 [🎶 ¡CÓMPRALO YA! 🎧](https://amzn.to/37NcaV8){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎧 ¡CÓMPRALO YA! 🎶](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎶 ¡CÓMPRALO YA! 🎧](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎧 ¡CÓMPRALO YA! 🎶](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07R5ZZ23C&linkId=bde712f24e5b13a4a3baa14d49e13bf5"></iframe>
+
+[🔝 REGRESAR 🔝](/auriculares-diseño/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
