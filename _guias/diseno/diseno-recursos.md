@@ -31,7 +31,7 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 ## Metalistas
 
-* [Paquete de Recursos Gratis](/diseño-recursos/#-regalos){:target="_blank"} (Wemaster Deals)  Paquete gratuito que se modifica cada cierto tiempo.
+* [Paquete de Recursos Gratis](https://free.webmaster-deals.com/download-wd63524){:target="_blank"} (Wemaster Deals)  Fuentes, Brochas, Etc. Paquete gratuito que se modifica cada cierto tiempo. [Descarga](/diseño-recursos/#-regalos)
 
 ## Repositorios
 
@@ -98,6 +98,6 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 ## 🎁 Regalos
 
-* [Contenido del Regalito Gratuito Diciembre 2019](https://kutt.it/fwt-1){:target="_blank"}
+* [Contenido Gratis de Diciembre 2019](https://kutt.it/fwt-1){:target="_blank"} (Imagen)
 
-[⬇ 📂 Descargar - 6 Gb de Recursos Libres ⬇](https://grafup.app.box.com/s/yt4628h4ojqyzafu43ydzrjhg4b8oqt2){: .btn .btn--inverse .btn--x-large .align-center}
+[⬇ 📂 Descarga Directa de los 6 Gb ⬇](https://grafup.app.box.com/s/yt4628h4ojqyzafu43ydzrjhg4b8oqt2){: .btn .btn--inverse .btn--x-large .align-center}
