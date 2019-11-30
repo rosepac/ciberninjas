@@ -6,6 +6,7 @@ published: true
 date: 2019-09-23 22:10:09
 last_modified_at: 2019-09-24
 author_profile: false
+classes: wide
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -139,7 +140,11 @@ sidebar:
 
 ## 📺 Marketing
 
-* Marketing y la cuarta revolución industrial [Tapa Blanda](https://amzn.to/2mmHmra) [Ebook](https://amzn.to/2liK8gF)
+* Marketing Digital 360º. Implementación práctica [Tapa Blanda](https://amzn.to/2R8IVGx) \ [Ebook](https://amzn.to/37NJqvs)
+* Marketing Digital para Dummies [Tapa Blanda](https://amzn.to/2Ovx7Mt) \ [Ebook](https://amzn.to/2OxHTCb)
+* Marketing y la cuarta revolución industrial [Tapa Blanda](https://amzn.to/2mmHmra) \ [Ebook](https://amzn.to/2liK8gF)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541469&linkId=d9f4be19a736fbb1d3f57a9beee54428"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432904988&linkId=b5d9f5898450d605904ad64b68ff7bbb"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=841751368X&linkId=1499b287fff93358d03025f331ead441"></iframe> 
 
 ## 👩‍💻 Programación
 
