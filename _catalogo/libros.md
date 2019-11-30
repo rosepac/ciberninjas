@@ -1,5 +1,5 @@
 ---
-title: "🛒 Catálogo de Libros de Tecnología Recomendados desde Ciberninjas"
+title: "🛒 Catálogo de Libros de Tecnología Recomendados"
 description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 published: true
@@ -19,6 +19,14 @@ sidebar:
 ---
 
 <!-- IMPORTANTE: RECORDAR NO CAMBIAR TITULOS POR SI HAN SIDO COMPARTIDOS EN OTRO LUGAR, COLOCAR ICONO AL FINAL DE ENLACES DE CATEGORIAS. SOLO AL PRINCIPIO DENTRO DE LAS CATEGORIAS GLOBALES. TITULOS DE NIVEL 3, ICONOS DE FONT AWESOME -->
+[🕸 Administración y Redes](catalogo/libros/#-administración-y-redes){: .btn .btn--inverse .btn--large} [📁 Bases de DatosPermalink](/catalogo/libros/#-bases-de-datos){: .btn .btn--info .btn--large} [Big Data 👨‍👩‍👦](/catalogo/libros/#big-data-){: .btn .btn--inverse .btn--large} [⛓ Blockchain](/catalogo/libros/#-blockchain){: .btn .btn--info .btn--large} [Cadena de Bloques 🔗](/catalogo/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large}
+
+[](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large}
+
+[](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large}
+
+[](){: .btn .btn--inverse .btn--large}
+
 ## 📚 Libros
 
 ## 🕸 Administración y Redes
@@ -29,6 +37,8 @@ sidebar:
 * [Linux: Preparación para la certificación LPIC-1 y LPIC-2](https://amzn.to/2NfxpYC)
 * Servicios de Red en Linux [Tapa Blanda](https://amzn.to/2Ajn7OO) \ [Ebook](https://amzn.to/2Ne9zfI)
 * Superficiales, ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao) \ [Ebook](https://amzn.to/2KORsur) \ [👉 Saber Más](/catalogo/que-hace-internet-con-nuestras-mentes/)
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## 📁 Bases de Datos
 
@@ -50,6 +60,8 @@ sidebar:
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1700678876&linkId=0afa52e7ab647b335fed287e7f06103e"></iframe>
 
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ## 🕴 Empresa y Estrategia
 
 * [Más Allá del Cambio: Dominando el Futuro, Hoy]( https://amzn.to/2Qf4zd7)
@@ -65,6 +77,8 @@ sidebar:
 * [Las claves para afrontar la cuarta revolución industrial](https://amzn.to/2mLnTAp)
 * [Hacia una Ingenieria 4.0: El rol de la ingeniería mexicana](https://amzn.to/2lhnZ2q)
 * La Transformación Digital Centrada en la Persona [Tapa Blanda](https://amzn.to/2l6lgZL) \ [Ebook](https://amzn.to/2l6mc0d)
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## 👩‍💻 Desarrollo Web
 
@@ -138,6 +152,8 @@ sidebar:
 * [Simulaciones en Swift 5](https://amzn.to/2LldaVU)
 * Diseño e implementación con Swift Playgrounds
 
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ## 📺 Marketing
 
 * Marketing Digital 360º. Implementación práctica [Tapa Blanda](https://amzn.to/2R8IVGx) \ [Ebook](https://amzn.to/37NJqvs)
@@ -145,6 +161,8 @@ sidebar:
 * Marketing y la cuarta revolución industrial [Tapa Blanda](https://amzn.to/2mmHmra) \ [Ebook](https://amzn.to/2liK8gF)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541469&linkId=d9f4be19a736fbb1d3f57a9beee54428"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432904988&linkId=b5d9f5898450d605904ad64b68ff7bbb"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=841751368X&linkId=1499b287fff93358d03025f331ead441"></iframe> 
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## 👩‍💻 Programación
 
@@ -181,17 +199,23 @@ sidebar:
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1838559337&linkId=883657efad7d4e6a5771ca36cad8ce97"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1484226917&linkId=74f85e2c9a1b35b0806d891efd4e1908"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1783983485&linkId=766598802f8e4828016f3712bd059c03"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1633430073&linkId=1fe5dcccd05813b7bc8671a5bf4f918d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1789615704&linkId=3d8eb890184241b805dac266229667ce"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1788993403&linkId=5f3fe8e4fb7416b368dda8edf535438d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1789800986&linkId=97e354dc88b10c945394a231054256fd"></iframe>
 
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ### Desarrollo de Aplicaciones
 
 * Desarrollo Práctico de Aplicaciones GUI en Go [Tapa Blanda](https://amzn.to/32jvpCt) \ [Ebook](https://amzn.to/31iYRHv)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1789138418&linkId=63524125fc2e2229f7456b87fdc82812"></iframe>
 
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ## Diseño Web
 
 * Web móvil de alto rendimiento [Tapa Blanda](https://amzn.to/2NqoNMk) \ [Ebook](https://amzn.to/34dHytj) (2016)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1491912553&linkId=44d12c5de9bbd827e4e11bd0ce709b71"></iframe>
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## Python
 
@@ -216,11 +240,15 @@ sidebar:
 * [RASPBERRY PI: Guía paso a paso para principiantes de Raspberry Pi](https://amzn.to/2o0rviQ)
 * [Sistema de Ayuda a la Decisión: Sistema de Ayuda a la Decisión con Python](https://amzn.to/2n1ofUg)
 
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ## 👦 Programación Infantil
 
 ## App Inventor
 
-Programación de aplicaciones Android con App Inventor 2 (https://amzn.to/35qdwUz)
+* [Programación de aplicaciones Android con App Inventor 2](https://amzn.to/35qdwUz)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1795711817&linkId=4acccde8baf0e66499ce1533947f2b13"></iframe>
 
 ## Scratch
 
@@ -231,7 +259,14 @@ Programación de aplicaciones Android con App Inventor 2 (https://amzn.to/35qdwU
 * [Piensa y programa con Scratch... en casa y en clase](https://amzn.to/2OcFGfC)
 * [Programación con Scratch. Cuaderno](https://amzn.to/2Nsxqss)
 * [Programar con Scratch ¡Mola!](https://amzn.to/2NtbpJU)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8469844717&linkId=0ce651814e08ea85baa095861a55abee"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8408191756&linkId=458abc18cbc40e58d0d812ca7c74ae91"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499647634&linkId=aeb3825137ac9d1ba7d23f75e7d3d4c0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1793101736&linkId=67b334b6a2724ad8499031c947a19423"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=844154025X&linkId=7f9fa87f3b4ce41d1db0d4fa920b6f5f"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8469844695&linkId=a6c2f949c1e493b292afa79e96417d6a"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1722807725&linkId=571765434bab7aed38cf01d7041b90ec"></iframe>
+
 * [Star Wars Proyectos de programación](https://amzn.to/2ObM9Y2)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=0241344859&linkId=b9b631f237d61a4d83c4e34a746112e9"></iframe>
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## 👮‍♀️ Seguridad
 
@@ -265,14 +300,18 @@ Programación de aplicaciones Android con App Inventor 2 (https://amzn.to/35qdwU
 * Vigilancia permanente (No Ficción) [Tapa Blanda](https://amzn.to/2Lxt9Sd) \ [Ebook](https://amzn.to/2Alu55y) \ [👉 Saber Más](/catalogo/vigilancia-permanente/)
 * Web hacking 101: C&oacute;mo hacer dinero hackeando &eacute;ticamente [Varios Formatos](https://leanpub.com/web-hacking-101-es)
 <!-- [Tapa Blanda]() [Ebook]() -->
-INGLÉS
+> INGLÉS
 
 * Permanent Record - Edward Snowden [Tapa Blanda](https://amzn.to/2AdKOrL) \ [Tapa Dura](https://amzn.to/34M3JHZ) \ [Ebook](https://amzn.to/2AinE3u)
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## 👷‍♂️ Webmaster
 
 * [CRO. Diseño y desarrollo de negocios digitales](https://amzn.to/2ZnFdOu)
 * [Visibilidad Online - Marketing Digital 2019](https://amzn.to/2L9jZuU)
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## Analítica Web
 
@@ -280,6 +319,8 @@ INGLÉS
 * [El Arte de Medir](https://amzn.to/34nO2H0)
 * [Google Analytics. Mide y Vencerás](https://amzn.to/2Pq0xhG)
 * [Posicionamiento y Google Analytics. Pack de 2 libros](https://amzn.to/2La9UOu)
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## CMS
 
@@ -300,6 +341,8 @@ INGLÉS
 * [Marketing en Redes Sociales](https://amzn.to/2LcNagw)
 * [Secretos de Mercadeo de Instagram](https://amzn.to/2L90BhD)
 
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ## 🎮 Videojuegos
 
 ### Clash Royal
@@ -311,6 +354,8 @@ INGLÉS
 * [Enciclopedia de estrategia para fortniters: Guía no oficial para Battle Royal](https://amzn.to/2PmszL5)
 * [Fortnite. La mejor guía para ganar: Trucos esenciales de supervivencia](https://amzn.to/2NG1Si6)
 * [Fortnite Battle Royale: Trucos y guía de juego](https://amzn.to/2LgugEt)
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ### Minecraft
 
@@ -331,6 +376,8 @@ INGLÉS
 * [Trucos para minecrafters. Especial combate](https://amzn.to/2L4R0bS)
 * [Trucos Para Minecrafters. Especial Construccion](https://amzn.to/2LeoPG9)
 
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ### League of Legends
 
 * [Yellowstar: Conviértete en un campeón de League of Legends](https://amzn.to/2LjLOzL)
@@ -344,11 +391,15 @@ INGLÉS
 * [Pokémon GO. A la caza del ladrón de Jigglypuffs](https://amzn.to/2PDgXDJ)
 * [La guía esencial definitiva (Colección Pokémon)](https://amzn.to/2HvjHMU)
 
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ### Roblox
 
 * [El libro definitivo: Guía no oficial](https://amzn.to/2ZpwNpO)
 * [Guía de juegos de aventuras: Con más de 40 juegos alucinantes](https://amzn.to/2ZqYqPl)
 * [Guía del universo Roblox](https://amzn.to/2HvYC4E)
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 <details>
 <summary>👉 Saber Más Sobre Roblox</summary>
@@ -361,12 +412,12 @@ INGLÉS
 * [APEX LEGENDS. Guía no oficial de combate](https://amzn.to/2LiqAC6)
 * [Atrapados en Battle Royale (Atrapados en Battle Royale 1)](https://amzn.to/2Lq3uJM)
 
-
 ## Libros de Blogguers y Youtubers 📚 🎥
 
 * [Pino. ¡Empieza la batalla!](https://amzn.to/2HxZbLw)
 * [Yo también puedo ser blogger y vlogger](https://amzn.to/2ZvKWgh) (Libro de actividades)
 
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## 🎁 Papelería 🙀
 
@@ -384,6 +435,7 @@ INGLÉS
 * [Agenda escolar 2019-2020 Moderna de Pueblo](https://amzn.to/2Pn6R9B)
 * [Agenda escolar 2019-2020 Mónica Morán](https://amzn.to/2ZBSvly)
 
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## Cuadernos de Escritura 📓
 
@@ -391,15 +443,17 @@ INGLÉS
 
 * [Los Cuadernos de Moleskine](https://amzn.to/2ZRGWMn)
 
-
 ## 📂 Categorías de Libros
 
 [🕸 Administraci&oacute;n y Redes](/categoria/#redes-y-administraci%C3%B3n "Libros de Redes y Administración"){: .btn.btn--success.btn--large} [🌄 Ciencias de la Tierra](/catalogo/#ciencias-de-la-tierra "Libros de Categoría de Ciencias de la Tierra"){: .btn.btn--success.btn--large} [🔬 Ciencias Informáticas](/categoria/#ciencias-informáticas "Libros de Categoría Ciencias Informáticas"){: .btn.btn--success.btn--large} [💪 Desarrollo Personal](/categoria/#desarrollo-personal "Libros de Categoría Desarrollo Personal"){: .btn.btn--success.btn--large} [🧠 Neuropsicolog&iacute;a](/categoria/#neuropsicología "Libros relacionados con la neurociencia y la psicología"){: .btn.btn--success.btn--large} [👨‍💻 Programación Móvil](/categoria/#programación-móvil "Libros de Frameworks de Creación de Aplicaciones Móviles Multiplataforma"){: .btn.btn--success.btn--large} [⭐ Recomendaciones](/categoria/#recomendaciones "Libros recomendados por diferentes personajes famosos de influencia"){: .btn.btn--success.btn--large} [🌐 Red e Internet](/categoria/#red-e-internet "Libros en relación a las Redes e Internet"){: .btn.btn--success.btn--large} [🔐 Seguridad Inform&aacute;tica](/categoria/#seguridad-inform%C3%A1tica "Libros de Categoría Seguridad Informática"){: .btn.btn--success.btn--large} [🤼 Sociología](/categoria/#sociología "Libros de Categoría Sociología"){: .btn.btn--success.btn--large}
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## 🛒 Páginas Compras
 
 <a href="/catalogo/regalos/" title="Página del Catálogo de Los Mejores Regalos Perfectos para Geeks o Ninjas de la Programación y la Tecnología" class="btn btn--success btn--large">🎁 Regalos</a> <a href="/catalogo/libros-texto/" title="Página del Catálogo de Los Libros Educativos o de Texto de los Ciclos Formativos de Informática y Comunicaciones" class="btn btn--success btn--large">👨‍🎓 Libros Educativos</a> <a href="/catalogo/libreria/" title="Las Mejores Novelas de Lectura sobre Tecnología que Regalar a Geeks o Ninjas de la Programación y la Tecnología" class="btn btn--success btn--large">✒ Novelas</a>
 
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## ❔👉 Saber Más
 <details>
@@ -414,3 +468,5 @@ Los enlaces aquí expuestos funcionan a través de [Coockies](https://kutt.it/co
 
 Con la compra a través de estos enlaces se apoya y ayudaa a financiar el tiempo dedicado a la página web, --¡Muchas Gracias!--
 {: .notice--info}
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
