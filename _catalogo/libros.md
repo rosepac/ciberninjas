@@ -13,24 +13,8 @@ toc_icon: user-ninja
 toc_sticky: false
 permalink: /catalogo/libros/
 canonical_URL: https://ciberninjas.com/catalogo/libros/
-# sidebar:
-# - title: "Catálogo"
-#   nav: tienda
 sidebar:
-- title: Secciones
-  children:
-    - title: 🕸 Administración y Redes
-      url: https://ciberninjas/catalogo/libros/#-administración-y-redes
-    - title: 📁 Bases de Datos
-      url: /catalogo/libros/#-bases-de-datos
-    - title: ⛓ Blockchain
-      url: /catalogo/libros/#-blockchain
-    - title: 🕴 Empresa y Estrategia
-      url: /catalogo/libros/#-empresa-y-estrategia
-    - title: 🔬 Ciencias de la ComputaciónPermalink
-      url: /catalogo/libros/#-ciencias-de-la-computación
-    - title: 👩‍💻 Desarrollo Web
-      url: /catalogo/libros/#-desarrollo-web
+  nav: libros
 ---
 
 <!-- IMPORTANTE: RECORDAR NO CAMBIAR TITULOS POR SI HAN SIDO COMPARTIDOS EN OTRO LUGAR, COLOCAR ICONO AL FINAL DE ENLACES DE CATEGORIAS. SOLO AL PRINCIPIO DENTRO DE LAS CATEGORIAS GLOBALES. TITULOS DE NIVEL 3, ICONOS DE FONT AWESOME -->

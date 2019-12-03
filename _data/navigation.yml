@@ -183,3 +183,19 @@ vtuto:
 #     url:
 #     - title:
 #     url:
+
+libros:
+  - title: Secciones
+    children:
+      - title: 🕸 Administración y Redes
+        url: https://ciberninjas/catalogo/libros/#-administración-y-redes
+      - title: 📁 Bases de Datos
+        url: /catalogo/libros/#-bases-de-datos
+      - title: ⛓ Blockchain
+        url: /catalogo/libros/#-blockchain
+      - title: 🕴 Empresa y Estrategia
+        url: /catalogo/libros/#-empresa-y-estrategia
+      - title: 🔬 Ciencias de la ComputaciónPermalink
+        url: /catalogo/libros/#-ciencias-de-la-computación
+      - title: 👩‍💻 Desarrollo Web
+        url: /catalogo/libros/#-desarrollo-web
