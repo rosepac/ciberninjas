@@ -4,7 +4,7 @@ description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnolog�
 excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 published: true
 date: 2019-09-23 22:10:09
-last_modified_at: 2019-09-24
+last_modified_at: 2019-12-03
 author_profile: false
 classes: wide
 toc: true
