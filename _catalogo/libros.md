@@ -7,24 +7,17 @@ date: 2019-09-23 22:10:09
 last_modified_at: 2019-12-03
 author_profile: false
 classes: wide
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: false
 permalink: /catalogo/libros/
 canonical_URL: https://ciberninjas.com/catalogo/libros/
 sidebar:
   nav: libros
 ---
-
 <!-- IMPORTANTE: RECORDAR NO CAMBIAR TITULOS POR SI HAN SIDO COMPARTIDOS EN OTRO LUGAR, COLOCAR ICONO AL FINAL DE ENLACES DE CATEGORIAS. SOLO AL PRINCIPIO DENTRO DE LAS CATEGORIAS GLOBALES. TITULOS DE NIVEL 3, ICONOS DE FONT AWESOME -->
-[🕸 Administración y Redes](catalogo/libros/#-administración-y-redes){: .btn .btn--inverse .btn--large} [📁 Bases de Datos](/catalogo/libros/#-bases-de-datos){: .btn .btn--info .btn--large}  [](){: .btn .btn--info .btn--large} [Cadena de Bloques 🔗](/catalogo/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large}
-
-[](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large}
-
-[](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large}
-
-[](){: .btn .btn--inverse .btn--large}
+<!-- [](){: .btn .btn--inverse .btn--large}  -->
 
 ## 📚 Libros
 
@@ -60,7 +53,7 @@ sidebar:
 
 ## ⛓ Blockchain
 
-[Cadena de Bloques 🔗](/catalogo/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/catalogo/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/catalogo/libros/#bitcoin-){: .btn .btn--inverse .btn--large}
+[Cadena de Bloques 🔗](/catalogo/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/catalogo/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fab fa-bitcoin"></i>](/catalogo/libros/#bitcoin-){: .btn .btn--inverse .btn--large}
 
 ## Cadena de Bloques 🔗
 
@@ -94,7 +87,7 @@ sidebar:
 
 ## 👩‍💻 Desarrollo Web
 
-[Android <i class="fab fa-android"></i>](/catalogo/libros/#android-){: .btn .btn--inverse .btn--large} [PHP Framework <i class="fab fa-php"></i>](/catalogo/libros/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/catalogo/libros/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/catalogo/libros/#docker-){: .btn .btn--inverse .btn--large} [Lenguaje de Estilos y Preprocesadores 🎨](/catalogo/libros/#lenguaje-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/catalogo/libros/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} 
+[Android <i class="fab fa-android"></i>](/catalogo/libros/#android-){: .btn .btn--inverse .btn--large} [PHP Framework <i class="fab fa-php"></i>](/catalogo/libros/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/catalogo/libros/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/catalogo/libros/#docker-){: .btn .btn--inverse .btn--large} [Lenguaje de Estilos y Preprocesadores 🎨](/catalogo/libros/#lenguaje-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/catalogo/libros/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/catalogo/libros/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/catalogo/libros/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/catalogo/libros/#swift-){: .btn .btn--inverse .btn--large}
 
 ## Android <i class="fab fa-android"></i>
 
@@ -287,6 +280,16 @@ sidebar:
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
+## 🤖 Robótica
+
+* [Raspberry Pi: Guía Completa para Principiantes sobre Configuración, Programación](https://amzn.to/3831nX6) \ [Ebook](https://amzn.to/2PgxNou)
+* [Raspberry Pi: Iniciación Para Todos y Primeros Proyectos](https://amzn.to/360ADo2) \ [Ebook](https://amzn.to/2PdbTSH)
+* [Raspberry Pi 4: Manual Completo](https://amzn.to/38295R9)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1711206768&linkId=f9f662a2e192ace5032d1232c932defe"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1708356347&linkId=087d68c2a3a6d232fcfa16b8845aae9d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1703243900&linkId=d4bb37f10545cb52fd2a88a396b5c674"></iframe>
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
 ## 👮‍♀️ Seguridad
 
 ## Seguridad Inform&aacute;tica 🔐
@@ -474,9 +477,9 @@ sidebar:
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
-## ❔👉 Saber Más
+## 👉 Saber Más
 <details>
-<summary>👉 Saber Más</summary>
+<summary>❔ Infórmate 👇</summary>
 <br/>
 <p>Poco a poco, vamos a crear un largo catálogo de los mejores productos geeks con los que realizar los más impresionantes regalos a las personas que les encanta el mundo de la tecnología, los gadgets tecnológicos, la música y las series indies, los comics, el manga.</p>
 <p></p>

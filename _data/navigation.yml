@@ -199,6 +199,20 @@ libros:
         url: /catalogo/libros/#-ciencias-de-la-computación
       - title: "👩‍💻 Desarrollo Web"
         url: /catalogo/libros/#-desarrollo-web
+      - title: "📺 Marketing"
+        url: /catalogo/libros/#-marketing
+      - title: "👩‍💻 Programación"
+        url: /catalogo/libros/#-programación
+      - title: "👦 Programación Infantil"
+        url: /catalogo/libros/#-programación-infantil
+      - title: "👮‍♀️ Seguridad"
+        url: /catalogo/libros/#️-seguridad
+      - title: "👷‍♂️ Webmaster"
+        url: /catalogo/libros/#️-webmaster
+      - title: "🎮 Videojuegos"
+        url: /catalogo/libros/#-videojuegos
+      - title: ""
+        url:
 #
 ## documentation links
 #libros:
