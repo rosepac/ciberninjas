@@ -4,6 +4,7 @@ title: "🎮 Cyberpunk 2077, el Juego de Acción y Aventura de Mundo Abierto"
 description: "🎮 Cyberpunk 2077, el Juego de Acción y Aventura de Mundo Abierto"
 excerpt: "🎮 Cyberpunk 2077, el Juego de Acción y Aventura de Mundo Abierto"
 header:
+  teaser: https://i.ibb.co/DMm47VM/juego-cyberpunk.gif
   video:
     id: qIcTM8WXFjk
     provider: youtube

@@ -4,6 +4,7 @@ title: "🎥 El Irlandés - La Nueva Gran Película de Netflix y Martin Scorsese
 description: "🎥 El Irlandés - La Nueva Gran Película de Netflix y Martin Scorsese sobre la Mafía Americana"
 excerpt: "🎥 El Irlandés - La Nueva Gran Película de Netflix y Martin Scorsese sobre la Mafía Americana"
 header:
+  teaser: https://i.ibb.co/ZBSfzqX/pelicula-el-irlandes.gif
   video:
     id: gZ6Oq9F3ho0
     provider: youtube

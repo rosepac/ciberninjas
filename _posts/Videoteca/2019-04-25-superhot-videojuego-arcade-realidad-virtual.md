@@ -4,6 +4,7 @@ title: "🎮 SuperHot, Videojuego Indie Arcade en Realidad Virtual"
 description: "🎮 SuperHot, Videojuego Indie Arcade en Realidad Virtual"
 excerpt: "🎮 SuperHot, Videojuego Indie Arcade en Realidad Virtual"
 header:
+  teaser: https://i.ibb.co/z6rGYqj/juego-superhot-shoter.gif
   video:
     id: jT11OEiA9x4
     provider: youtube
