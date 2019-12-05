@@ -1,8 +1,8 @@
 ---
 author_profile: false
-title: "🎮 Videojuegos Gratis, durante Diciembre y Vacaciones Navideñas"
-description: "▷ Videojuegos Gratis ✌️ Entretenimiento para el puente de la Constitución y Navidad ⭐️"
-excerpt: "▷ Videojuegos Gratis ✌️ Entretenimiento para el puente de la Constitución y Navidad ⭐️"
+title: "🎮 Videojuegos Gratis, durante Diciembre y Vacaciones de Navidad"
+description: "▷ Videojuegos Gratis ✌️ Juegos Gratuitos para el puente de la Constitución y Navidad ⭐️"
+excerpt: "▷ Videojuegos Gratis ✌️ Juegos Gratuitos para el puente de la Constitución y Navidad ⭐️"
 permalink: /videojuegos-gratis/
 header:
   teaser: https://i.ibb.co/2WqF3VD/videojuegos-vicio-vacaciones.gif
