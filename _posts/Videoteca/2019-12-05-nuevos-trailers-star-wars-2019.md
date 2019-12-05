@@ -4,6 +4,7 @@ title: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta aho
 description: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta ahora"
 excerpt: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta ahora"
 header:
+  teaser: https://i.ibb.co/7nVGVkn/star-wars-2019-rise.gif
   video:
     id: xwg_J00DQF0
     provider: youtube

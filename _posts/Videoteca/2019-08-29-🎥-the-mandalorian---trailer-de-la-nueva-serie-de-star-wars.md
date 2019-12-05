@@ -4,6 +4,7 @@ title: "\U0001F3A5 The Mandalorian - Trailer de la Nueva Serie de Star Wars"
 description: "\U0001F47D Trailer de la Nueva Serie basada en Star Wars creada por Disney: The Mandalorian"
 excerpt: "\U0001F47D Trailer de la Nueva Serie basada en Star Wars creada por Disney: The Mandalorian"
 header:
+  teaser: https://i.ibb.co/wzFwb5H/star-wars-mandaloriano.gif
   video:
     id: aOC8E8z_ifw
     provider: youtube

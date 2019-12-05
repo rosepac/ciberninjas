@@ -4,6 +4,7 @@ title: "\U0001F3A5 The Mandalorian - Nuevo Trailer de la Serie de Star Wars"
 description: "👽 The Mandalorian - Nuevo Trailer de la Serie de Star Wars"
 excerpt: "👽 The Mandalorian - Nuevo Trailer de la Serie de Star Wars"
 header:
+  teaser: https://i.ibb.co/R9wmhwL/star-wars-mandalorian-baby-yoda.gif
   video:
     id: XmI7WKrAtqs
     provider: youtube
