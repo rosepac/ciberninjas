@@ -33,7 +33,7 @@ categories:
 ---
 
 🤞 Este artículo se irá actualizando a lo largo del tiempo.. 🕹
-{: notice--info}
+{: .notice--info}
 
 ## Rayman Legends \ Epic Games
 
