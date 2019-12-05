@@ -1,8 +1,8 @@
 ---
 author_profile: false
 title: "🎁 ▷ Black Friday 2019, todo lo que necesitas saber"
-description: "💻 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."
-excerpt: "💻 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."
+description: "💻 Las mejores ofertas de Amazon en sus Dispositivos de Casa Inteligente."
+excerpt: "💻 Las mejores ofertas de Amazon en sus Dispositivos de Casa Inteligente."
 permalink: /black-friday-amazon/
 canonical_URL: https://ciberninjas.com/black-friday-amazon/
 published: true
@@ -10,10 +10,10 @@ comments: true
 date: 2019-11-29 05:26:00 +0200
 header:
   teaser: 'https://i.ibb.co/R2WZfKG/black-friday-day.gif'
-  overlay_image: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
+  overlay_image: 'https://i.ibb.co/nMt3KBQ/amazon-alexa-1.jpg'
   overlay_filter: 0.2
-  image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
-  image_alt: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
+  image_description: 'Las Mejores Ofertas del Cyber Monday de Amazon 2019 | Ciberninjas'
+  image_alt: 'Las Mejores Ofertas del Cyber Monday de Amazon 2019 | Ciberninjas'
   caption: "**Créditos**: Creación propia Ciberninjas"
   actions:
     - label: "Consolas & Videojuegos"
@@ -28,9 +28,10 @@ sidebar:
 - title: "Catálogo"
   nav: tienda
 ---
-[💣 Ofertas Black Friday](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [🏡 Dispositivos Inteligentes Amazon](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💌 Cheques & Tarjetas Regalo](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💖 Amazon Prime](/black-friday-amazon/#preguntas-y-respuestas-amazon-prime){: .btn .btn--inverse .btn--large} [❔ Detalles](/black-friday-amazon/#detalles-de-la-semana-black-friday-2019){: .btn .btn--inverse .btn--large} [🎁 Más Black Friday](/black-friday-amazon/#mas-black-friday)
+[🎄 25% EN ACCESORIOS KINDLE, FIRE Y ECHO 🎄](https://amzn.to/387xK6J){: .btn .btn--inverse .btn--x-large .align-center}
 
-<!-- PRIME DAY DE AMAZON DEL 2019 -->
+[💣 Ofertas Black Friday](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [🏡 Dispositivos Inteligentes Amazon](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💌 Cheques & Tarjetas Regalo](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💖 Amazon Prime](/black-friday-amazon/#preguntas-y-respuestas-amazon-prime){: .btn .btn--inverse .btn--large} [❔ Detalles](/black-friday-amazon/#detalles-de-la-semana-black-friday-2019){: .btn .btn--inverse .btn--large} [🎁 Más Black Friday](/black-friday-amazon/#-más-black-friday){: .btn .btn--inverse .btn--large}
+
 Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre la semana del Black Friday 2019 de Amazon. Hasta el momento el Black Friday era unicamente un día, como mucho dos; pues bien, este año Amazon nos ha ampliado el plazo de compras rebajadas a toda una semana. De hecho, exactamente 8 días; serán los que los usuarios podremos tener para lograr cazar los mejores chollos.
 
 Entre las muchas ofertas que nos propone Amazon, yo diría que lo más asombroso y económico son sus ofertas flash por eso no debeís de dejar de seguirme a través de [Twitter](https://kutt.it/ciberninjast){:target="_blank"} en el que iré subiendo todos aquellos productos con precios históricos que encuentre dentro de las ofertas flash, entre otras variopintas ofertas más.
