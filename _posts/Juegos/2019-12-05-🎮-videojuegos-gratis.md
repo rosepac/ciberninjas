@@ -41,19 +41,13 @@ categories:
 
 [🎮 GRATIS HASTA EL 6/12/2019 a las 16:59 🎮](https://www.epicgames.com/store/es-ES/product/rayman-legends/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-## Zombie Driver HD \ Steam
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/wanxGDgwjnk?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
-
-[🎮 GRATIS HASTA EL 5/12/2019 a las 16:59 🎮](https://store.steampowered.com/app/220820/Zombie_Driver_HD/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
 ## Jotun: Valhalla \ Epic Games
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rkYg2G4rjEs?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
 [🎮 GRATIS HASTA EL 12/12/2019 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-## Stay Out 
+## Stay Out \ Steam
 
 MMORPG en desarrollo con acceso gratuito anticipado mientras se desarrolla el mismo.
 
@@ -69,12 +63,22 @@ MMORPG en desarrollo con acceso gratuito anticipado mientras se desarrolla el mi
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+## CADUCADO PERÍODO GRATUITO
+
+### Zombie Driver HD \ Steam
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/wanxGDgwjnk?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 PLAZA FINALIZADO 🎮](https://store.steampowered.com/app/220820/Zombie_Driver_HD/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
 ## Páginas de Videojuegos
 
 * [Steem Videojuegos Gratis](https://store.steampowered.com/genre/Free%20to%20Play/){:target="_blank"} 87 Juegos
 * [Epic Games Videojuegos Gratis](https://www.epicgames.com/store/es-ES/collection/free-games-collection)
 * [Indie Gala Juegos Gratis](https://freebies.indiegala.com/){:target="_blank"} (Se actualizan con frecuencia)
-* Reddit. Diferentes Grupos donde se actualiza con juegos gratuitos \ [FreeGameFindings](https://www.reddit.com/r/FreeGameFindings/){:target="_blank"} \ []()
+* Reddit. Diferentes Grupos donde se actualiza con juegos gratuitos \ [FreeGameFindings](https://www.reddit.com/r/FreeGameFindings/){:target="_blank"} \ [Free Games](https://www.reddit.com/r/freegames/){:target="_blank"} 
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
