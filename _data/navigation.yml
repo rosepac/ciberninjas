@@ -188,7 +188,7 @@ libros:
   - title: Secciones
     children:
       - title: "🕸 Administración y Redes"
-        url: https://ciberninjas/catalogo/libros/#-administración-y-redes
+        url: /catalogo/libros/#-administración-y-redes
       - title: "📁 Bases de Datos"
         url: /catalogo/libros/#-bases-de-datos
       - title: "⛓ Blockchain"
@@ -211,8 +211,10 @@ libros:
         url: /catalogo/libros/#️-webmaster
       - title: "🎮 Videojuegos"
         url: /catalogo/libros/#-videojuegos
-      - title: ""
-        url:
+      - title: "📚 LIBRERÍA"
+        url: /catalogo/
+      - title: "🎁 TIENDA"
+        url: /catalogo/amazon/
 #
 ## documentation links
 #libros:

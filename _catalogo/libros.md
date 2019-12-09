@@ -67,6 +67,11 @@ sidebar:
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
+## 🐧 Ecosistema de Código Abierto
+
+### Linux <i class="fab fa-linux"></i>
+
+
 ## 🕴 Empresa y Estrategia
 
 * [Más Allá del Cambio: Dominando el Futuro, Hoy]( https://amzn.to/2Qf4zd7){:target="_blank"}
@@ -82,6 +87,10 @@ sidebar:
 * [Las claves para afrontar la cuarta revolución industrial](https://amzn.to/2mLnTAp){:target="_blank"}
 * [Hacia una Ingenieria 4.0: El rol de la ingeniería mexicana](https://amzn.to/2lhnZ2q){:target="_blank"}
 * La Transformación Digital Centrada en la Persona [Tapa Blanda](https://amzn.to/2l6lgZL){:target="_blank"} \ [Ebook](https://amzn.to/2l6mc0d){:target="_blank"}
+
+* [Principios y algoritmos de concurrencia](https://amzn.to/2Ykl0p7)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1517029759&linkId=f40ea0a9586e284403ef75924be4a702"></iframe>
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
@@ -134,6 +143,9 @@ sidebar:
 ## Sistemas de Plantillas 🌱
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
 
+❗ CONTENIDOS PENDIENTES ❗
+{: .notice--warning}
+
 ## Swift <i class="fab fa-apple"></i>
 
 * [Aprende a Programar Swift - Programación iOS](https://amzn.to/2PjhGJV){:target="_blank"}
@@ -160,52 +172,41 @@ sidebar:
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
-## 📺 Marketing
+## 💼 Flujos de Trabajo
 
-* Marketing Digital 360º. Implementación práctica [Tapa Blanda](https://amzn.to/2R8IVGx){:target="_blank"} \ [Ebook](https://amzn.to/37NJqvs){:target="_blank"}
-* Marketing Digital para Dummies [Tapa Blanda](https://amzn.to/2Ovx7Mt){:target="_blank"} \ [Ebook](https://amzn.to/2OxHTCb){:target="_blank"}
-* Marketing y la cuarta revolución industrial [Tapa Blanda](https://amzn.to/2mmHmra){:target="_blank"} \ [Ebook](https://amzn.to/2liK8gF){:target="_blank"}
+* [Arquitectura limpia: Guía para especialistas en la estructura y el diseño de software](https://amzn.to/2Lp5Klh) (2018)
+* [Código Limpio: Manual de estilo para el desarrollo ágil de software](https://amzn.to/33SPOhG) (2012)
+* [El limpiador de código: Código de conducta para programadores profesionales](https://amzn.to/34UDoHj) (2019)
+* [Gestión práctica de proyectos con Scrum](https://amzn.to/2PiTm7O) (2014)
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541469&linkId=d9f4be19a736fbb1d3f57a9beee54428"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432904988&linkId=b5d9f5898450d605904ad64b68ff7bbb"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=841751368X&linkId=1499b287fff93358d03025f331ead441"></iframe> 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441539901&linkId=c1fd0ca0a493edc9e5004f3289d8f25d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441532109&linkId=9ef56d2ae926bc0a9e162485bc2d3bc1"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441540845&linkId=e361971a63afceef9fa22a0cf570adae"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1517192366&linkId=20d0f06fd6308870425e05bdfbc8ae4e"></iframe>
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
-## 👩‍💻 Programación
+## 👩‍💻 Lenguajes de Programación
 
-> INGLÉS
+## C, C#, C++
+
+* [Aprende a programar con pseudocódigo, diagramas de flujo y ejercicios de ejemplo resueltos en C](https://amzn.to/2rYJaJx) (2015)
+* [C/C++. Curso de programación](https://amzn.to/2ORgUBw) (2017)
+* [C/C++. Curso de programación](https://amzn.to/33WYNOW) (2015)
+* Programas que hacen programas. C#: Arquitectura GTMG (2019) [Tapa Blanda](https://amzn.to/356MBwg) \ [Ebook](https://amzn.to/2YluT5P)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8493942774&linkId=872112d4fae0ce3d690840a6884dc2a8"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441539375&linkId=cc12749d783ddbbb3eee70d2ba681e52"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499645275&linkId=05bfd17ca6a53e1983f963e1a5403055"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8409126478&linkId=d25e6c88be80bbeb0d984deafdebd5f3"></iframe>
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## Go
 
-### Principiantes
-
-* Go en Acción [Tapa Blanda](https://amzn.to/2MgPVxV){:target="_blank"}
-* Go Programación Blueprints - 2da ed. [Tapa Blanda](https://amzn.to/31g4WVb){:target="_blank"} \ [Ebook](https://amzn.to/2oMUzLl){:target="_blank"}
-* Programación con Go: Creación de Aplicaciones del Siglo 21 [Tapa Blanda](https://amzn.to/32jA874){:target="_blank"} \ [Ebook](https://amzn.to/2BeMq4W){:target="_blank"}
-* El Lenguaje de Programación Go [Tapa Blanda](https://amzn.to/2MV9qvp){:target="_blank"} \ [Ebook](https://amzn.to/2VKTRug){:target="_blank"}
-* Introducción a Go [Tapa Blanda](https://amzn.to/32hSrK3){:target="_blank"} \ [Ebook](https://amzn.to/2oIsJzO){:target="_blank"}
-* Vamos a Programar con Go [Tapa Blanda](https://amzn.to/2MGmyEw){:target="_blank"}
-* Recetas de Go [Tapa Blanda](https://amzn.to/2IUfpiF){:target="_blank"} \ [Ebook](https://amzn.to/2OPlctv){:target="_blank"}
-* Aprendiendo a Programar en Go [Tapa Blanda](https://amzn.to/2nLALY8){:target="_blank"} \ [Ebook](https://amzn.to/2Bg4awF){:target="_blank"}
-
-👉 [Saber Más..](/_guias/lo_mejor/los-libros-mas-impresionantes-sobre-go.md)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1617291781&linkId=d678c660399463f889c0bdb457eb30ff"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01GQCQ8OW&linkId=6041587d32a9f17720a7b7b39acecdd5"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=0321774639&linkId=b65693a796ee3f8506eb0093424728ec"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=0134190440&linkId=fc276984255d2b6ef2b23ab94c1a1be6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01AB3G496&linkId=2b1d2001876df3beaf9d353b693c115d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1617293091&linkId=9237a3ddebbda9088c126a2bd6616b54"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1484211898&linkId=4655686766db63c595b7fee42a03dd81"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1784395439&linkId=cb6255a8b892962311fe2a8eed26db12"></iframe>
-
-### Avanzado
-
-* Dominar Go [Tapa Blanda](https://amzn.to/35DHDrw){:target="_blank"} \ [Ebook](https://amzn.to/2Mfxx8P){:target="_blank"}
-* Programación de red con Go [Tapa Blanda](https://amzn.to/33Brjpu){:target="_blank"} \ [Ebook](https://amzn.to/33EuoW6){:target="_blank"}
-* Dominar la Concurrencia en Go [Tapa Blanda](https://amzn.to/2VLlxit){:target="_blank"} \ [Ebook](https://amzn.to/2VJ7lXi){:target="_blank"}
-* Go en la Práctica [Tapa Blanda](https://amzn.to/32kHh7l){:target="_blank"}
-* Guía de Inicio Rápido de Scraping Web [Tapa Blanda](https://amzn.to/2MJXNaq){:target="_blank"} \ [Ebook](https://amzn.to/2OYthvY){:target="_blank"}
-* Proyectos Machine Learning con Go [Tapa Blanda](https://amzn.to/2MiWccq){:target="_blank"} \ [Ebook](https://amzn.to/2qbsEoz){:target="_blank"}
-* Recetario de Programación con Go [Tapa Blanda](https://amzn.to/2IVCgui){:target="_blank"} \ [Ebook](https://amzn.to/2MnxE2h){:target="_blank"}
-
-👉 [Saber Más..](/_guias/lo_mejor/los-libros-mas-impresionantes-sobre-go.md)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1838559337&linkId=883657efad7d4e6a5771ca36cad8ce97"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1484226917&linkId=74f85e2c9a1b35b0806d891efd4e1908"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1783983485&linkId=766598802f8e4828016f3712bd059c03"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1633430073&linkId=1fe5dcccd05813b7bc8671a5bf4f918d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1789615704&linkId=3d8eb890184241b805dac266229667ce"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1788993403&linkId=5f3fe8e4fb7416b368dda8edf535438d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1789800986&linkId=97e354dc88b10c945394a231054256fd"></iframe>
+[📖 Libros de Go en Inglés](/catalogo/libros-ingles/#go){: .btn .btn--primary .btn--large}
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
+## Objective-C
+
+[Objective-C. Curso práctico para desarrolladores OS X y iOS](https://amzn.to/2OUI8ra) (2015)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494305530&linkId=a9cdc8ac50c737f45205d7d85e18ed18"></iframe>
 
 ### Desarrollo de Aplicaciones
 
@@ -288,6 +289,12 @@ sidebar:
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1711206768&linkId=f9f662a2e192ace5032d1232c932defe"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1708356347&linkId=087d68c2a3a6d232fcfa16b8845aae9d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1703243900&linkId=d4bb37f10545cb52fd2a88a396b5c674"></iframe>
 
+## Raspberry Pi
+
+* [IoT con Raspberry Pi: Node-RED y MQTT, control de los GPIO..](https://amzn.to/2YnA8Sk) (2018)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1541216709&linkId=070ce649c2840a8bdcac34c5f077b6b8"></iframe>
+
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## 👮‍♀️ Seguridad
@@ -335,7 +342,7 @@ sidebar:
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
-## Analítica Web
+## Análitica Web 📈
 
 * [Analítica Web 2.0: El arte de analizar resultados y la ciencia de centrarse en el cliente](https://amzn.to/2Ll5N0K){:target="_blank"}
 * [El Arte de Medir](https://amzn.to/34nO2H0){:target="_blank"}
@@ -344,9 +351,7 @@ sidebar:
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
-## CMS
-
-## Marketing en Redes Sociales 🏪 
+## Marketing Digital 📺
 
 * [101 Consejos y Estrategias de Facebook Marketing](https://amzn.to/2ZqWeqT){:target="_blank"}
 * [Community manager. La guía definitiva](https://amzn.to/2ZGKn3c){:target="_blank"}
@@ -362,6 +367,40 @@ sidebar:
 * [Marketing en Instagram: ¡Una Forma Perfecta de Hacerse Rico!](https://amzn.to/2L8RvBu){:target="_blank"}
 * [Marketing en Redes Sociales](https://amzn.to/2LcNagw){:target="_blank"}
 * [Secretos de Mercadeo de Instagram](https://amzn.to/2L90BhD){:target="_blank"}
+
+* Marketing Digital 360º. Implementación práctica [Tapa Blanda](https://amzn.to/2R8IVGx){:target="_blank"} \ [Ebook](https://amzn.to/37NJqvs){:target="_blank"}
+* Marketing Digital para Dummies [Tapa Blanda](https://amzn.to/2Ovx7Mt){:target="_blank"} \ [Ebook](https://amzn.to/2OxHTCb){:target="_blank"}
+* Marketing y la cuarta revolución industrial [Tapa Blanda](https://amzn.to/2mmHmra){:target="_blank"} \ [Ebook](https://amzn.to/2liK8gF){:target="_blank"}
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541469&linkId=d9f4be19a736fbb1d3f57a9beee54428"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432904988&linkId=b5d9f5898450d605904ad64b68ff7bbb"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=841751368X&linkId=1499b287fff93358d03025f331ead441"></iframe>
+
+## Seo y Posicionamiento 🔍
+
+## Sistemas de Gestión de Contenidos ✍
+
+[Blogger](/cursos-tecnologia/#blogger){: .btn .btn--inverse .btn--large} [Drupal](/cursos-tecnologia/#drupal){: .btn .btn--inverse .btn--large} [Joomla](/cursos-tecnologia/#joomla){: .btn .btn--inverse .btn--large} [Moodle](/cursos-tecnologia/#moodle){: .btn .btn--inverse .btn--large} [Wordpress <i class="fab fa-wordpress"></i>](/cursos-tecnologia/#wordpress-){: .btn .btn--inverse .btn--large}
+
+### Blogger
+
+❗ CONTENIDOS PENDIENTES ❗
+{: .notice--warning}
+
+### Drupal
+
+❗ CONTENIDOS PENDIENTES ❗
+{: .notice--warning}
+
+### Joomla
+
+❗ CONTENIDOS PENDIENTES ❗
+{: .notice--warning}
+
+### Moodle
+
+❗ CONTENIDOS PENDIENTES ❗
+{: .notice--warning}
+
+### Wordpress <i class="fab fa-wordpress"></i>
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
