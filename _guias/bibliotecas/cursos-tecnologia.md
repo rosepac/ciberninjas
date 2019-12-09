@@ -5,7 +5,7 @@ description: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Segu
 excerpt: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 author_profile: true
 date: 2018-02-13T22:00:00.000+02:00
-last_modified_at: 2019-11-02T01:42:42+02:00
+last_modified_at: 2019-12-09T19:32:42+02:00
 permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
 header:
@@ -114,6 +114,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 
 * [Comienza con SQL: descarga los datos tu mismo con SQL](https://www.udemy.com/comienza-con-sql) (Udemy)
 * [Introducción a SQL con Oracle 11g](https://www.udemy.com/introduccion-a-sql-con-oracle-11g) (Udemy)
+* [Sistema de Login en Visual Basic y SQL Server en Capas](https://www.udemy.com/course/login-vb-sql/) (Udemy)
 
 [🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -124,6 +125,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Análisis de Sistemas](http://www.fceia.unr.edu.ar/asist){:target="_blank"} (OCW)
 * [Aplicaciones de la Teoría de Grafos a la Vida Real (I)](https://www.edx.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-1-1){:target="_blank"} (edx)
 * [Aplicaciones de la Teoría de Grafos a la vida real II](https://www.edx.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-2-1){:target="_blank"} (edx)
+* [Aprende a programar desde las bases](https://www.udemy.com/course/aprende-a-programar-desde-las-bases/) (Udemy)
 * [Aprendizaje Automático (2009)](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank"} (OCW)
 * [Aprendizaje del Software Estadístico R: un entorno para simulación y computación estadística (2007)](http://ocw.uc3m.es/estadistica/aprendizaje-del-software-estadistico-r-un-entorno-para-simulacion-y-computacion-estadistica){:target="_blank"} (OCW)
 * [Arquitectura de Computadoras (2009)](https://ocw.ua.es/es/ingenieria-y-arquitectura/arquitectura-de-computadores-2009.html){:target="_blank"} (OCW)
@@ -188,6 +190,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Lenguajes, tecnologías y paradigmas de la programación (2015)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=11557&p_caca=2015){:target="_blank"} (OCW)
 * [Lenguajes unificado de modelado: UML (2016)](https://campusvirtual.ull.es/ocw/course/view.php?id=132){:target="_blank"} (OCW)
 * [Lenguajes y paradigmas de programación (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/lenguajes-y-paradigmas-de-programacion-2006.html){:target="_blank"} (OCW)
+* [Lógica de programación](https://www.udemy.com/course/logica-de-programacion/) (Udemy)
 * [Matemática introductoria para el Grado en Ingeniería Informática (2011)](http://ocw.uc3m.es/cursos-cero/matematicas-mathbridge){:target="_blank"} (OCW)
 * [Matlab y Octave para ingenieros y científicos](https://miriadax.net/web/matlab-y-octave-para-ingenieros-y-cientificos){:target="_blank"} (MiriadaX)
 * [Metodología y Tecnología de la Programación (2006)](http://ocw.uji.es/curso/5126){:target="_blank"} (OCW)
@@ -273,6 +276,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 ### Linux <i class="fab fa-linux"></i>
 
 * [Expresiones Regulares (Regex)](https://www.udemy.com/course/expresiones-regulares-regex/) (Udemy)
+* [Linux para principiantes](https://www.udemy.com/course/linux-para-principiantes-1/) (Udemy)
 
 ### Ubuntu <i class="fab fa-ubuntu"></i>
 
@@ -621,6 +625,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 * [Compodoc: crea documentación en proyectos Angular/Ionic](https://www.udemy.com/compodoc-crea-documentacion-en-angular-ionic) (Udemy)
 * [Cookies y sesiones en PHP](https://www.udemy.com/programador-web-php-cookies-y-sesiones) (Udemy)
 * [Crea tu página web sin códigos ni complicaciones](https://www.udemy.com/crea-tu-pagina-web-sin-codigos-ni-complicaciones) (Udemy)
+* [Crear una REST API desde Cero con NodeJS y AdonisJS](https://www.udemy.com/course/curso-crea-una-rest-api-desde-cero-con-nodejs-y-adonisjs/) (Udemy)
 * [CSS con SASS](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVyMlZyW-NAbgjtgAgLBzFP) (Falcon Masters, YouTube)
 * [Curso básico de Backbone.js](https://devcode.la/cursos/curso-basico-de-backbonejs) (DevCode)
 * [Curso básico de CSS desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR) (Falcon Masters, Youtube)
@@ -668,6 +673,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 * [Dreamweaver CS4](https://www.youtube.com/playlist?list=PL2AC141307340E74B) (Aula Click, YouTube)
 * [Dreamweaver CS5](https://www.youtube.com/playlist?list=PL7A75E72C644F2B3C) (Aula Click, YouTube)
 * [Editores de Código: Brackets & Edge Code](https://www.udemy.com/brackets-edge-code) (Udemy)
+* [Editores de Código: Visual Studio Code y Sublime Text](https://www.udemy.com/course/visual-studio-code-y-sublime-text-se-rapido-para-codificar/) (Udemy)
 * [Empezando con Angular 5](https://www.udemy.com/empezando-con-angular-5) (Udemy)
 * [Flexbox - Armar un sitio web responsive con CSS3](https://www.youtube.com/playlist?list=PLPl81lqbj-4JfZ9Ln5ojAl1GiORf2aK9U) (Falcon Masters, Youtube)
 * [Flexbox desde 0](https://www.udemy.com/curso-de-flexbox-desde-0) (Udemy)
