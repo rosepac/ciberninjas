@@ -27,6 +27,12 @@ Los enlaces aqu&iacute; expuestos, trabajan a trav&eacute;s de Coockies de Amazo
 
 <center><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07VPRRYPY&linkId=8e1682c9541cb9f986c4f46ef9b03c54"></iframe></center>
 
+## Educación
+
+* [El método Montessori para Dummies](https://amzn.to/2KZOt2e)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432905798&linkId=3386589806daeb4fef2d36b35020d2d7"></iframe>
+
 ## Sociología
 
 * Nuestra Casa Está Ardiendo [TAPA BLANDA](https://amzn.to/2MenQqY) \ [EBOOK](https://amzn.to/2qb7mHN)
