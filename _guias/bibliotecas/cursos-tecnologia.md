@@ -956,7 +956,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 
 * [Aprende a manejar Raspberry Pi con Python](https://unipython.com/curso-raspberry-pi) (UniPython)
 * [Raspberry Pi 3](https://www.youtube.com/playlist?list=PLNipMBg3MF-aD-LQuyfj7z5Oqb3TqHjFa) (Editronikx, YouTube)
-* [Raspberry Pi Workshop 2018](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor): Conviértete en un Codificador / Creador / Inventor (Udemy | Subtítulos en Inglés)
+* [Raspberry Pi Workshop 2018](https://www.udemy.com/raspberry-pi-workshop-become-a-coder-maker-inventor) (Udemy - Subtítulos en Español) (2017)
 * [Termómetro digital con Raspberry Pi(2017)](https://www.udemy.com/termometro-digital-con-raspberry-pi) (Udemy)
 
 [🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
