@@ -19,7 +19,10 @@ toc_sticky: true
 
 ## Análisis
 
+* [Cómo buscar listas de Twitter en Google en una sola línea](https://www.mmadrigal.com/como-buscar-listas-de-twitter-en-google-en-una-sola-linea/)
 * [Guía: Análisis de redes de Twitter con Gephi 0.9.1](Guía: Análisis de redes de Twitter con Gephi 0.9.1)
+
+<!-- Agregar Más Enlaces de Marcelono Madrigal -->
 
 ## Desarrollo
 
