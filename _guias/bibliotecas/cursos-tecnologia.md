@@ -3,9 +3,9 @@
 title: "🎓 ▷ Cursos de Tecnología"
 description: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
-author_profile: true
+author_profile: false
 date: 2018-02-13T22:00:00.000+02:00
-last_modified_at: 2019-12-09T19:32:42+02:00
+last_modified_at: 2019-12-10T10:32:42+02:00
 permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
 header:
@@ -26,7 +26,8 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: false
-
+sidebar:
+  nav: cursos-espanol
 ---
 
 En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada temática.
@@ -961,7 +962,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 
 [🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## 🔐 Seguridad
+## 👮‍♀️ Seguridad
 
 * [Aprende seguridad Cisco desde 0](https://www.udemy.com/aprende-seguridad-cisco-desde-0) (Udemy)
 * [Aspectos Sociales, Legales, Éticos y Profesionales de la Informática (2010)](http://ocw.uniovi.es/course/view.php?id=151) (OCW)
@@ -989,8 +990,8 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 
 * [Administración de Servidores Web (2005)](http://ocw.uniovi.es/course/view.php?id=110) (OCW)
 * [Aprende a publicar tus páginas web](https://www.udemy.com/aprende-a-publicar-tus-paginas-web) (Udemy)
-* [Amazon Web Services: Esenciales](https://www.udemy.com/aws-essentials) (Udemy | Subtítulos en Español)
-* [Amazon Web Services: Desde cero a héroe](https://www.udemy.com/amazon-web-services-aws-v) (Udemy | Subtítulos en Español)
+* [Amazon Web Services: Esenciales](https://www.udemy.com/aws-essentials) (Udemy - Subtítulos en Español) (2016)
+* [Amazon Web Services: Desde cero a héroe](https://www.udemy.com/amazon-web-services-aws-v) (Udemy - Subtítulos en Español) (2019)
 * [Centos 7](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZobhGTWuX-tC5clz_rgdoh) (JGAITPro, YouTube)
 * [Crear un gestor de contabilidad: Excel + Sql Server + Azure](https://www.youtube.com/playlist?list=PLFNWPvtjBMjvx4H2P-pDSjT3REWxA6vnG) (Excel y Más, YouTube)
 * [Curso de OpenShift. Red Hat](https://www.youtube.com/playlist?list=PLEtcGQaT56cjL7PIUCwngVX2K9AYVta2p) (Jesús Conde, Youtube)
@@ -1010,7 +1011,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 * [OpenShift](https://www.youtube.com/playlist?list=PLEtcGQaT56cjL7PIUCwngVX2K9AYVta2p) (Jesús Conde, YouTube)
 * [Servicios telemáticos avanzados (2014)](https://ocw.ehu.eus/course/view.php?id=309) (OCW)
 * [Técnico en Administrador de Servidores](https://www.youtube.com/playlist?list=PLfWJBWUqkmeA4KODp-m8y3KAkKL_HsG3y) (Tecnología Capacitate, YouTube)
-* [Una Introducción Práctica a la Computación en la Nube](https://www.udemy.com/introduction-cloud-computing) (Udemy | Subtitulos en Español)
+* [Una Introducción Práctica a la Computación en la Nube](https://www.udemy.com/introduction-cloud-computing) (Udemy - Subtitulos en Español) (2019)
 * [VirtualBox](https://www.youtube.com/playlist?list=PLD1D6E5F629AC376F) (Pablo Martinez, YouTube)
 * [VirtualBox bis](https://www.youtube.com/playlist?list=PLn5IkU1Zhgib6lti2HBpL7bMYCTd1d3r9) (JGAITPro, YouTube)
 * [Windows Server 2008 R2](https://www.youtube.com/playlist?list=PLBBC993A6895D054B) (Pablo Martinez, YouTube)
@@ -1058,7 +1059,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 * [Técnico en Redes de Datos](https://www.youtube.com/playlist?list=PLfWJBWUqkmeA1KlRpFyYhr_NeBUcFaUi_) (Tecnología Capacitate, YouTube)
 * [Tecnologías Multimedia](https://campusvirtual.ull.es/ocw/course/view.php?id=5) (OCW)
 
-<a href="/cursos-tecnologia/#page-title" title="Regresar al Inicio" class="btn btn--success btn--large"> Regresar 🔝</a>
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 👷‍♂️ Webmaster
 
