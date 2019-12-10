@@ -1,7 +1,6 @@
 ---
 layout: splash
 title: 'Recursos de Tecnología'
-permalink: /index-test/
 canonical_URL: https://ciberninjas.com
 published: true
 author_profile: false
