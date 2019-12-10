@@ -10,6 +10,13 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: false
+header:
+  teaser: "https://i.ibb.co/NtwSytg/libros-educativos.gif"
+  overlay_image: "https://i.ibb.co/MCjCSdR/photo-1550376026-33cbee34f79e-ixlib-rb-1-2.jpg"
+  overlay_filter: 0.2
+  image_description: 'Libros educativos de Ciclos Formación Profesional de Educación Profesional de Tecnología'
+  image_alt: 'Libros educativos de Ciclos Formación Profesional de Educación Profesional de Tecnología'
+  caption: "Libros educativos de Ciclos Formación Profesional de Educación Profesional de Tecnología"
 permalink: /catalogo/libros-texto/
 canonical_URL: https://ciberninjas.com/catalogo/libros-texto/
 sidebar:
