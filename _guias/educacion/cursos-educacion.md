@@ -21,7 +21,7 @@ header:
       url: "/cursos-tecnologia-microsoft/"
 ---
 
-[📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#diversidad){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#recursos-educativos){: .btn .btn--inverse .btn--large} [😼 Más Recursos](/cursos-educacion/#recursos-educativos){: .btn .btn--inverse .btn--large}
+[📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#diversidad){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#recursos-educativos){: .btn .btn--inverse .btn--large} [😼 Más Recursos](/cursos-educacion/#más-recursos){: .btn .btn--inverse .btn--large}
 
 ## Metalistas
 
@@ -129,6 +129,10 @@ header:
 * [Trastornos del Desarrollo y Logopedía (2009)](http://ocw.um.es/cc.-sociales/tecnologias-de-la-informacion-y-la-comunicacion){:target="_blank"}
 
 [🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## Empatía Social
+
+* [Kliquers](https://kliquers.org/category/profesores/){:target="_blank"}
 
 ## Recursos Educativos
 
