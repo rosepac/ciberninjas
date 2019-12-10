@@ -16,7 +16,7 @@ header:
     - label: "📖 Libros"
       url: "/biblioteca-de-programacion-y-tecnologia/"
   caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
-excerpt: "Encuentra todos los recursos que te sean necesarios."
+excerpt: "Encuentra todos los recursos que te sean necesarios, cursos, libros en PDF, videotutoriales, artículos y mucho más.."
 ---
 
 <div class="feature__wrapper">
@@ -40,31 +40,14 @@ excerpt: "Encuentra todos los recursos que te sean necesarios."
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <img src="/assets/images/ciberninjas-prime-day.jpg" alt="placeholder image 2">
+            <a href="/catalogo/amazon/" alt="El Regalazo del Año"><img src="https://i.ibb.co/n7VWkj4/directo-twitter.gif" alt="En directo todas las noticias sobre todo lo que necesitas saber sobre la tecnología"></a>
         </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">Placeholder Image Left Aligned</h2>
+            <h2 class="archive__item-title">Tienda</h2>
             <div class="archive__item-excerpt">
-                <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Left aligned with <code class="language-plaintext highlighter-rouge">type="left"</code></p>
+                <p>Las <strong>mejores listas</strong> de Twitter sobre proyectos y personas en relación a la programación y el mundo de la tecnología.</p>
             </div>
-            <p><a href="/minimal-mistakes/#test-link" class="btn btn--primary">Read More</a></p>
-        </div>
-    </div>
-</div>
-</div>
-
-<div class="feature__wrapper">
-<div class="feature__item--left">
-    <div class="archive__item">
-        <div class="archive__item-teaser">
-            <img src="/assets/images/ciberninjas-prime-day.jpg" alt="placeholder image 2">
-        </div>
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">Placeholder Image Left Aligned</h2>
-            <div class="archive__item-excerpt">
-                <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Left aligned with <code class="language-plaintext highlighter-rouge">type="left"</code></p>
-            </div>
-            <p><a href="/minimal-mistakes/#test-link" class="btn btn--primary">Read More</a></p>
+            <p><a href="/catalogo/amazon/" class="btn btn--primary">Ver Más</a></p>
         </div>
     </div>
 </div>
