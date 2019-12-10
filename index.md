@@ -40,7 +40,7 @@ excerpt: "Encuentra todos los recursos que te sean necesarios, cursos, libros en
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/catalogo/amazon/" alt="El Regalazo del Año"><img src="https://i.ibb.co/n7VWkj4/directo-twitter.gif" alt="En directo todas las noticias sobre todo lo que necesitas saber sobre la tecnología"></a>
+            <a href="/directo/" alt="El Regalazo del Año"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="En directo todas las noticias sobre todo lo que necesitas saber sobre la tecnología"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">En Directo</h2>
