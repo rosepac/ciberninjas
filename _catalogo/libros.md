@@ -12,6 +12,13 @@ author_profile: false
 # toc_sticky: false
 permalink: /catalogo/libros/
 canonical_URL: https://ciberninjas.com/catalogo/libros/
+header:
+  teaser: https://i.ibb.co/BGJ9jjL/libros-mariposa.gif
+  overlay_image: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
+  overlay_filter: 0.2
+  image_description: 'Los mejores libros de aprendizaje tecnológico | Ciberninjas'
+  image_alt: 'Los mejores libros de aprendizaje tecnológico | Ciberninjas'
+  caption: "Créditos: Unsplash, de Dominio Público"
 sidebar:
   nav: libros
 ---
@@ -82,7 +89,7 @@ sidebar:
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
-🛒 Comercio Electrónico
+## 🛒 Comercio Electrónico
 
 
 
