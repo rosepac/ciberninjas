@@ -25,9 +25,9 @@ toc_sticky: true
 
 ## Análisis
 
-* [Cómo buscar listas de Twitter en Google en una sola línea](https://www.mmadrigal.com/como-buscar-listas-de-twitter-en-google-en-una-sola-linea/)
-* [Guía: Análisis de redes de Twitter con Gephi 0.9.1](Guía: Análisis de redes de Twitter con Gephi 0.9.1)
-* [Cómo se usan los emojis en Twitter](https://emoji.enricmor.eu/)
+* [Cómo buscar listas de Twitter en Google en una sola línea](https://www.mmadrigal.com/como-buscar-listas-de-twitter-en-google-en-una-sola-linea/){:target="_blank"}
+* [Guía: Análisis de redes de Twitter con Gephi 0.9.1](Guía: Análisis de redes de Twitter con Gephi 0.9.1){:target="_blank"}
+* [Cómo se usan los emojis en Twitter](https://emoji.enricmor.eu/){:target="_blank"}
 
 <!-- Agregar Más Enlaces de Marcelono Madrigal -->
 
@@ -39,5 +39,5 @@ toc_sticky: true
 
 ## Herramientas
 
-* [Gephi - Análisis de Twitter](https://gephi.org/)
-* [Recopilación de Tweets](https://guides.libraries.psu.edu/c.php?g=796631&p=5698003)
+* [Gephi - Análisis de Twitter](https://gephi.org/){:target="_blank"}
+* [Recopilación de Tweets](https://guides.libraries.psu.edu/c.php?g=796631&p=5698003){:target="_blank"}
