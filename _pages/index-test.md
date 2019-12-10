@@ -13,7 +13,7 @@ title: "Splash Page"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/academia-microsoft-ciberninjas.jpg
+  overlay_image: /assets/images/chico-buscando-libro-biblioteca.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -44,7 +44,7 @@ Splash Page
 </span>
 </div>
 
-<div class="page__hero--overlay" style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/academia-microsoft-ciberninjas.jpg');">
+<div class="page__hero--overlay" style="url('/assets/images/academia-microsoft-ciberninjas.jpg');">
 <div class="wrapper">
 <h2 id="/programar/" class="" itemprop="headline">
 <a href="/programar/">Programar</a>
