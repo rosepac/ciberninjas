@@ -8,10 +8,10 @@ excerpt: >-
 permalink: /spring-boot-con-mitocode/
 header:
   video:
-    id: playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx
+    id: playlist?list=PLvimn1Ins-40wR4PC-YtTQ5TKt3vRrVwl
     provider: youtube
 comments: true
-date: 2019-12-04 17:39:00 +0200
+date: 2019-12-10 18:20:00 +0200
 tags:
   - Mitocode
   - Java
