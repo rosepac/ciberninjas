@@ -187,8 +187,6 @@ vtuto:
 libros:
   - title: Secciones
     children:
-      - title: "🕸 Administración y Redes"
-        url: /catalogo/libros/#-administración-y-redes
       - title: "📁 Bases de Datos"
         url: /catalogo/libros/#-bases-de-datos
       - title: "⛓ Blockchain"
@@ -197,7 +195,9 @@ libros:
         url: /catalogo/libros/#-empresa-y-estrategia
       - title: "🔬 Ciencias de la Computación"
         url: /catalogo/libros/#-ciencias-de-la-computación
-      - title: "👩‍💻 Desarrollo Web"
+      - title: "🛒 Comercio Electrónico"
+        url: /cursos-tecnologia/#-comercio-electrónico
+        - title: "👩‍💻 Desarrollo Web"
         url: /catalogo/libros/#-desarrollo-web
       - title: "📺 Marketing"
         url: /catalogo/libros/#-marketing
@@ -205,12 +205,48 @@ libros:
         url: /catalogo/libros/#-programación
       - title: "👦 Programación Infantil"
         url: /catalogo/libros/#-programación-infantil
+      - title: "🕸 Redes"
+        url: /catalogo/libros/#-administración-y-redes
       - title: "👮‍♀️ Seguridad"
         url: /catalogo/libros/#️-seguridad
       - title: "👷‍♂️ Webmaster"
         url: /catalogo/libros/#️-webmaster
       - title: "🎮 Videojuegos"
         url: /catalogo/libros/#-videojuegos
+      - title: "📚 LIBRERÍA"
+        url: /catalogo/
+      - title: "🎁 TIENDA"
+        url: /catalogo/amazon/
+
+cursos-espanol:
+  - title: Secciones
+    children:
+      - title: "🗃 Meta-Listas"
+        url: /cursos-tecnologia/#-meta-listas
+      - title: "📁 Bases de Datos"
+        url: /cursos-tecnologia/#-bases-de-datos
+      - title: "⛓ Blockchain"
+        url: /cursos-tecnologia/#-blockchain       
+      - title: "🔬 Ciencias de la Computación"
+        url: /cursos-tecnologia/#-ciencias-de-la-computación
+      - title: "🛒 Comercio Electrónico"
+        url: /cursos-tecnologia/#-comercio-electrónico
+      - title: "👩‍💻 Desarrollo Web"
+        url: /cursos-tecnologia/#-desarrollo-web
+      - title: "📺 Marketing"
+        url: /cursos-tecnologia/#-marketing
+      - title: "👩‍💻 Programación"
+        url: /cursos-tecnologia/#-programación
+      - title: "👦 Programación Infantil"
+        url: /cursos-tecnologia/#-programación-infantil
+      - title: "🕸 Redes"
+        url: /cursos-tecnologia/#-redes
+      - title: "👮‍♀️ Seguridad"
+        url: /cursos-tecnologia/#️-seguridad
+      - title: "👷‍♂️ Webmaster"
+        url: /cursos-tecnologia/#️-webmaster
+      - title: "🎮 Videojuegos"
+        url: /cursos-tecnologia/#-videojuegos
       - title: "📚 LIBRERÍA"
         url: /catalogo/
       - title: "🎁 TIENDA"

@@ -4,9 +4,8 @@ description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnolog�
 excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 published: true
 date: 2019-09-23 22:10:09
-last_modified_at: 2019-12-03
+last_modified_at: 2019-12-10
 author_profile: false
-classes: wide
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -20,17 +19,6 @@ sidebar:
 <!-- [](){: .btn .btn--inverse .btn--large}  -->
 
 ## 📚 Libros
-
-## 🕸 Administración y Redes
-
-* [Administración y Gestión de Bases de Datos Relacionales en LINUX. MySQL](https://amzn.to/2NcspnD){:target="_blank"}
-* [Administre una red en Windows o Linux. Ejercicios y soluciones](https://amzn.to/2Ahed4f){:target="_blank"}
-* [Guía Completa Para Principiantes Conoce La Certificación CompTia Network + De A-Z](https://amzn.to/2AiS2ul){:target="_blank"}
-* [Linux: Preparación para la certificación LPIC-1 y LPIC-2](https://amzn.to/2NfxpYC){:target="_blank"}
-* Servicios de Red en Linux [Tapa Blanda](https://amzn.to/2Ajn7OO){:target="_blank"} \ [Ebook](https://amzn.to/2Ne9zfI){:target="_blank"}
-* Superficiales, ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao){:target="_blank"} \ [Ebook](https://amzn.to/2KORsur){:target="_blank"} \ [👉 Saber Más](/catalogo/que-hace-internet-con-nuestras-mentes/)
-
-[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
 ## 📁 Bases de Datos
 
@@ -91,6 +79,12 @@ sidebar:
 * [Principios y algoritmos de concurrencia](https://amzn.to/2Ykl0p7)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1517029759&linkId=f40ea0a9586e284403ef75924be4a702"></iframe>
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
+🛒 Comercio Electrónico
+
+
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
@@ -278,6 +272,17 @@ sidebar:
 * [Programar con Scratch ¡Mola!](https://amzn.to/2NtbpJU){:target="_blank"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8469844717&linkId=0ce651814e08ea85baa095861a55abee"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8408191756&linkId=458abc18cbc40e58d0d812ca7c74ae91"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499647634&linkId=aeb3825137ac9d1ba7d23f75e7d3d4c0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1793101736&linkId=67b334b6a2724ad8499031c947a19423"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=844154025X&linkId=7f9fa87f3b4ce41d1db0d4fa920b6f5f"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8469844695&linkId=a6c2f949c1e493b292afa79e96417d6a"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1722807725&linkId=571765434bab7aed38cf01d7041b90ec"></iframe>
+
+[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+
+## 🕸 Redes
+
+* [Administración y Gestión de Bases de Datos Relacionales en LINUX. MySQL](https://amzn.to/2NcspnD){:target="_blank"}
+* [Administre una red en Windows o Linux. Ejercicios y soluciones](https://amzn.to/2Ahed4f){:target="_blank"}
+* [Guía Completa Para Principiantes Conoce La Certificación CompTia Network + De A-Z](https://amzn.to/2AiS2ul){:target="_blank"}
+* [Linux: Preparación para la certificación LPIC-1 y LPIC-2](https://amzn.to/2NfxpYC){:target="_blank"}
+* Servicios de Red en Linux [Tapa Blanda](https://amzn.to/2Ajn7OO){:target="_blank"} \ [Ebook](https://amzn.to/2Ne9zfI){:target="_blank"}
+* Superficiales, ¿Qué está haciendo Internet con nuestras mentes? [Tapa Blanda](https://amzn.to/2ZiH6ao){:target="_blank"} \ [Ebook](https://amzn.to/2KORsur){:target="_blank"} \ [👉 Saber Más](/catalogo/que-hace-internet-con-nuestras-mentes/)
 
 [🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
