@@ -15,6 +15,8 @@ toc_icon: user-ninja
 toc_sticky: false
 permalink: /catalogo/
 canonical_URL: https://ciberninjas.com/catalogo/
+entries_layout: grid
+classes: wide
 sidebar:
 - title: "Catálogo"
   nav: tienda
