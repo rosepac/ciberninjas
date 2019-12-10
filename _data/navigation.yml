@@ -1,20 +1,20 @@
 main:
-  - title: "🎁 Cyber Monday"
+  - title: "🎁 Regalos"
     url: /catalogo/amazon/
+  - title: "🛒 Librería"
+    url: /catalogo/
   - title: "📚 Guías"
     url: /guias/
-  - title: "🛒 Catálogo"
-    url: /catalogo/
+  - title: "🎓 Cursos"
+    url: /cursos-tecnologia/
+  - title: "📖 Libros"
+    url: /biblioteca-de-programacion-y-tecnologia/
   - title: "💡 Quién Soy"
     url: /quien-soy/
   - title: "📁 Archivo"
     url: /blog/
   - title: "🧰 Recursos"
     url: https://kutt.it/recursos-globales"
-  - title: "📖 Libros"
-    url: /biblioteca-de-programacion-y-tecnologia/
-  - title: "🎓 Cursos"
-    url: /cursos-tecnologia/
   - title: "👨‍🏫 Tutoriales"
     url: /videotutoriales/
   - title: "🎥 Videoteca"
