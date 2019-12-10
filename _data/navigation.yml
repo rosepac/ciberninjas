@@ -197,10 +197,8 @@ libros:
         url: /catalogo/libros/#-ciencias-de-la-computación
       - title: "🛒 Comercio Electrónico"
         url: /cursos-tecnologia/#-comercio-electrónico
-        - title: "👩‍💻 Desarrollo Web"
+      - title: "👩‍💻 Desarrollo Web"
         url: /catalogo/libros/#-desarrollo-web
-      - title: "📺 Marketing"
-        url: /catalogo/libros/#-marketing
       - title: "👩‍💻 Programación"
         url: /catalogo/libros/#-programación
       - title: "👦 Programación Infantil"
@@ -231,22 +229,40 @@ cursos-espanol:
         url: /cursos-tecnologia/#-ciencias-de-la-computación
       - title: "🛒 Comercio Electrónico"
         url: /cursos-tecnologia/#-comercio-electrónico
+      - title: "🐧 Ecosistema de Código Abierto"
+        url: /cursos-tecnologia/#-ecosistema-de-codigo-abierto      
       - title: "👩‍💻 Desarrollo Web"
         url: /cursos-tecnologia/#-desarrollo-web
-      - title: "📺 Marketing"
-        url: /cursos-tecnologia/#-marketing
+      - title: "👨‍🎨 Diseño Web"
+        url: /cursos-tecnologia/#-diseño-web
+      - title: "💼 Flujos de Trabajo"
+        url: /cursos-tecnologia/#-flujos-de-trabajo
+      - title: "👨‍💻 Lenguajes de Programación"
+        url: /cursos-tecnologia/#-lenguajes-de-programacion
+      - title: "💻 Ofimática"
+        url: /cursos-tecnologia/#-ofimatica
+      - title: "🔨 Procesadores de Lenguaje"
+        url: /cursos-tecnologia/#-procesadores-de-lenguaje
       - title: "👩‍💻 Programación"
         url: /cursos-tecnologia/#-programación
       - title: "👦 Programación Infantil"
         url: /cursos-tecnologia/#-programación-infantil
+      - title: "🎮 Programación de Videojuegos"
+        url: /cursos-tecnologia/#-programación-de-videojuegos
       - title: "🕸 Redes"
         url: /cursos-tecnologia/#-redes
+      - title: "📞 Redes de Telefonía"
+        url: /cursos-tecnologia/#-redes-de-telefonía
+      - title: "🤖 Robótica"
+        url: /cursos-tecnologia/#-robótica
       - title: "👮‍♀️ Seguridad"
         url: /cursos-tecnologia/#️-seguridad
+      - title: "⛅ Servidores y Servicios en nube"
+        url: /cursos-tecnologia/#-servidores-y-servicios-en-nube
+      - title: "👨‍🔧 Técnico de Software & Hardware"
+        url: /cursos-tecnologia/#-técnico-de-software--hardware
       - title: "👷‍♂️ Webmaster"
         url: /cursos-tecnologia/#️-webmaster
-      - title: "🎮 Videojuegos"
-        url: /cursos-tecnologia/#-videojuegos
       - title: "📚 LIBRERÍA"
         url: /catalogo/
       - title: "🎁 TIENDA"
