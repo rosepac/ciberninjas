@@ -168,7 +168,7 @@ Splash Page
             <div class="archive__item-excerpt">
                 <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Left aligned with <code class="language-plaintext highlighter-rouge">type="left"</code></p>
             </div>
-            <p><a href="/minimal-mistakes/#test-link" class="btn btn--primary">Leer Más</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a></p>
+            <p><a href="/minimal-mistakes/#test-link" class="btn btn--primary">Leer Más</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a></p>
         </div>
     </div>
 </div>
