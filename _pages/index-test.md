@@ -1,18 +1,15 @@
 ---
 layout: splash
-title: 'Escuela de Tecnología Digital'
-description: '❌ prueba temporal portada'
-excerpt: '❌ prueba temporal portada'
+title: 'Recursos de Tecnología'
 permalink: /index-test/
+canonical_URL: https://ciberninjas.com
 published: true
 author_profile: false
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-title: "Splash Page"
+title: "Recursos de Tecnología"
 header:
+  teaser: /assets/images/logos/ciberninjas-emoji-160-110px.png
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.2"
   overlay_image: /assets/images/chico-buscando-libro-biblioteca.jpg
   actions:
     - label: "Download"
@@ -32,7 +29,7 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 
 <div class="page__hero--overlay" style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/academia-microsoft-ciberninjas.jpg');">
 <div class="wrapper">
-<h2 id="page-title" class="archive__item-title" itemprop="headline">
+<h2 class="archive__item-title" itemprop="headline">
 Splash Page
 </h2>
 <p class="archive__item-excerpt">Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
@@ -44,9 +41,9 @@ Splash Page
 </span>
 </div>
 
-<div class="page__hero--overlay" style="url('/assets/images/academia-microsoft-ciberninjas.jpg');">
+<div class="page__hero--overlay" style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('/assets/images/academia-microsoft-ciberninjas.jpg');">
 <div class="wrapper">
-<h2 id="/programar/" class="" itemprop="headline">
+<h2 id="/programar/">
 <a href="/programar/">Programar</a>
 </h2>
 <p class="archive__item-excerpt">Página web de aprender a programar.
@@ -60,7 +57,7 @@ Splash Page
 
 <div class="page__hero--overlay" style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/academia-microsoft-ciberninjas.jpg');">
 <div class="wrapper">
-<h2 id="page-title" class="archive__item-title" itemprop="headline">
+<h2 class="archive__item-title" itemprop="headline">
 Splash Page
 </h2>
 <p class="archive__item-excerpt">Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
@@ -74,7 +71,7 @@ Splash Page
 
 <div class="page__hero--overlay" style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/academia-microsoft-ciberninjas.jpg');">
 <div class="wrapper">
-<h2 id="page-title" class="archive__item-title" itemprop="headline">
+<h2 class="archive__item-title" itemprop="headline">
 Splash Page
 </h2>
 <p class="archive__item-excerpt">Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
@@ -168,7 +165,7 @@ Splash Page
             <div class="archive__item-excerpt">
                 <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Left aligned with <code class="language-plaintext highlighter-rouge">type="left"</code></p>
             </div>
-            <p><a href="/minimal-mistakes/#test-link" class="btn btn--primary">Leer Más</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a></p>
+            <p><a href="/minimal-mistakes/#test-link" class="btn btn--warning">Leer Más</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 2</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 3</a> <a href="/minimal-mistakes/#test-link" class="btn btn--inverse">Leer 4</a></p>
         </div>
     </div>
 </div>
