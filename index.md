@@ -43,7 +43,7 @@ excerpt: "Encuentra todos los recursos que te sean necesarios, cursos, libros en
             <a href="/catalogo/amazon/" alt="El Regalazo del Año"><img src="https://i.ibb.co/n7VWkj4/directo-twitter.gif" alt="En directo todas las noticias sobre todo lo que necesitas saber sobre la tecnología"></a>
         </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">Tienda</h2>
+            <h2 class="archive__item-title">En Directo</h2>
             <div class="archive__item-excerpt">
                 <p>Las <strong>mejores listas</strong> de Twitter sobre proyectos y personas en relación a la programación y el mundo de la tecnología.</p>
             </div>
