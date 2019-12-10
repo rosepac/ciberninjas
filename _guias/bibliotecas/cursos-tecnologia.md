@@ -413,7 +413,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed){:target="_blank"} (MiriadaX)
 * [Scratch, su Historia y Cómo usarlo junto a Arduino](/scratch-historia-como-usarlo-junto-a-arduino) (Youtube)
 * [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar){:target="_blank"} (Coursera)
-* [Videojuegos con Scratch -12 juegos-](/videojuegos-scratch-programo-ergo-sum) (Youtube)
+* [Videojuegos con Scratch -12 juegos-](/videojuegos-scratch-programo-ergo-sum) (Youtube) (2016)
 <!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
 
 [🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
@@ -566,6 +566,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 ## Docker <i class="fab fa-docker"></i>
 
 * [Curso de Docker](https://www.youtube.com/playlist?list=PLEtcGQaT56chIpnSavOSvaU2ZGAW7d1vE) (Jesús Conde, Youtube)
+* [Creación de una Imagen con Docker](/spring-boot-docker-con-albert-coronado/) (Albert Coronado, Youtube) (2019)
 * [Docker](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS) (JGAITPro, YouTube)
 * [Iniciando con Containers en Dockers](https://www.udemy.com/iniciando-con-containers-en-docker) (Udemy)
 * Introduccion a CodeIgniter(https://www.udemy.com/course/introduccion-codeigniter)
@@ -663,6 +664,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 * [Desarrollo en j2me con NetBeans](https://www.youtube.com/playlist?list=PL2DD57072B0682FEC) (Guillermo Malagon, YouTube)
 * [Desarrollo Web con GoLang](https://www.youtube.com/playlist?list=PLl_hIu4u7P64sjDc4TlbUT050tWyqi6MG) (Gyga Code, YouTube)
 * [Desarrollo Web con HTML5 y CSS3 desde cero](https://www.udemy.com/curso-html5-css3) (Udemy)
+* [Desarrollo Web con Spring Boot](/desarrollo-web-spring-boot-con-byte-code/) (Byte Code, Youtube) (2018)
 * [Desarrollo Web Responsive con HTML5 y CSS3](https://www.udemy.com/introduccion-al-web-responsive-html5-css3) (Udemy)
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos) (Coursera)
 * [Diseño de páginas web con Photoshop CS6](https://www.youtube.com/playlist?list=PLPl81lqbj-4Im51L2JZZZ2AxQ6u7b8HS6) (Bluuweb!, YouTube)
@@ -736,6 +738,10 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 * [Silverlight y WPF](https://www.youtube.com/playlist?list=PL265CF049664D2886) (Jaime Rocha, YouTube)
 * [Software de comunicaciones (2009)](http://ocw.uc3m.es/ingenieria-telematica/software-de-comunicaciones) (OCW)
 * [Spring Framework Tutorial](https://www.youtube.com/watch?v=r4kqcSs4F7I&list=PLvimn1Ins-40CImsffjCkv_TrKzYiB1gb) (Mito Code, Youtube)
+* [Spring Framework Tutorial](/spring-framework-con-4softwaredevelopers/) (4 SoftwareDevelopers, Youtube) (2017)
+* [Spring Boot](/spring-boot-con-mitocode/) (Mitocode, Youtube) (2019)
+* [Spring Boot](/spring-boot-con-jose-orjuela/) (José Orjuela, Youtube) (2018)
+* [Spring Boot + Docker](/spring-boot-docker-con-abel-fresnillo/) (Abel Fresnillo, Youtube) (2019)
 * [Spring Boot: recetas para el trabajo diario (introducción)](https://www.udemy.com/spring-boot-recetas-para-el-trabajo-diario-introduccion) (Udemy)
 * [Struts 2 con MySql](https://www.youtube.com/playlist?list=PLnWAzeXp9V4lMLj8KykMtPYb5jfUcKJ7n) (Formando Código, YouTube)
 * [Symphony 3: en producción. Subir y publicar proyectos web](https://www.udemy.com/symfony-3-en-produccion-subir-y-publicar-proyectos-web) (Udemy)
