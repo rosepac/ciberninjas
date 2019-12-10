@@ -1,14 +1,10 @@
 main:
   - title: "🎁 Regalos"
     url: /catalogo/amazon/
-  - title: "🛒 Librería"
+  - title: "📚 Librería"
     url: /catalogo/
-  - title: "📚 Guías"
+  - title: "📖 Guías"
     url: /guias/
-  - title: "🎓 Cursos"
-    url: /cursos-tecnologia/
-  - title: "📖 Libros"
-    url: /biblioteca-de-programacion-y-tecnologia/
   - title: "💡 Quién Soy"
     url: /quien-soy/
   - title: "📁 Archivo"
