@@ -20,7 +20,7 @@ header:
 #      url: "/disney-frozen-amazon/"
 comments: true
 date: 2019-12-05 18:00:00 +0200
-last_modified_at: 2019-12-11 18:02:18 +0200
+last_modified_at: 2019-12-11 23:47:18 +0200
 published: true
 tags:
   - Videojuegos
@@ -40,6 +40,21 @@ toc_sticky: false
 {: .notice--info}
 
 Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fiestas como las de Navidad algunas páginas web o compañías deciden ofrecer gratis, aunque solamente sea temporalmente; junto a algunas otras recomendaciones, si deseas probar algun nuevo juego durante estas vacaciones.
+
+## Wasteland 2
+
+Wasteland 2 es un videojuego de rol post-apocalíptico desarrollado por inXile Entertainment y publicado por Deep Silver . Es la secuela de Wasteland de 1988, y fue exitosamente financiado por Kickstarter . Después del aplazamiento de la fecha de lanzamiento original de octubre de 2013, se lanzó para Microsoft Windows , OS X y Linux en septiembre de 2014. Una versión mejorada del juego, llamada Wasteland 2: Director's Cut
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/6r7Vk1AgaJY?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+El juego se desarrolla en una línea de tiempo de historia alternativa , en la que tuvo lugar una guerra nuclear entre los Estados Unidos y la Unión Soviética en 1998 en relación con un evento de impacto que involucró un grupo de meteoritos que desencadenó una guerra nuclear global. El día del cataclismo, una compañía de ingenieros del ejército de los EE. UU. Se encontraba en el desolado desierto del suroeste construyendo puentes en un área con una serie de pequeñas comunidades sobrevivientes y un corredor de la muerte federal recientemente construidoprisión con instalaciones industriales ligeras. Los soldados buscaron refugio en la prisión, expulsaron a los reclusos e invitaron a los sobrevivientes cercanos a unirse a ellos poco después. Años más tarde, juntos formaron "los Desert Rangers, en la gran tradición de los Rangers de Texas y Arizona ", para ayudar a otros sobrevivientes en el desierto y más allá.
+
+💡 REQUIERE REGISTRO EN GOG
+{: .notice--info}
+
+[🎮 GRATIS DURANTE 2 DÍAS 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Jotun: Valhalla \ Epic Games
 
