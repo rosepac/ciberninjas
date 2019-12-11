@@ -46,7 +46,13 @@ Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fie
 💣 JOTUN HOY 11 Y MAÑANA 12. ÚLTIMOS DÍAS GRATIS 💣
 {: .notice--warning}
 
+Jotun sigue la historia de Thora, una mujer vikinga recientemente fallecida. Habiendo sufrido una muerte sin gloria, debe viajar a través de los reinos derrotando a Jötunn , elementales gigantes de la naturaleza, el caos, el poder, etc. Esto le permitirá impresionar a los dioses y entrar en el Valhalla.
+
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rkYg2G4rjEs?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+Jotun destaca por utilizar un estilo de arte dibujado a mano, cuadro por cuadro, además de las batallas contra los jefes, el juego gira en torno a la exploración y la resolución de acertijos, con algunos enemigos para luchar.
+
+La exploración generalmente implica explorar varias etapas, con algunos gigantes para luchar y varios acertijos para resolver. Los rompecabezas a menudo emplean el uso de columpios de hacha para interactuar con objetos (es decir, árboles, rocas y vides) y algunos otros tipos de rompecabezas.
 
 [🎮 GRATIS HASTA EL 12/12/2019 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
