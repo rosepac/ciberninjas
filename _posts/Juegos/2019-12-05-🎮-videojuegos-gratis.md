@@ -1,8 +1,8 @@
 ---
 author_profile: true
-title: "🎮 Videojuegos Gratis, durante Diciembre y Vacaciones de Navidad"
-description: "▷ Videojuegos Gratis ✌️ Juegos Gratuitos para el puente de la Constitución y Navidad ⭐️"
-excerpt: "▷ Videojuegos Gratis ✌️ Juegos Gratuitos para el puente de la Constitución y Navidad ⭐️"
+title: "🎮 Videojuegos Gratis para las Vacaciones de Navidad"
+description: "▷ Videojuegos Gratis ✌️ Juegos Gratuitos para las Vacaciones de Navidad ⭐️"
+excerpt: "▷ Videojuegos Gratis ✌️ Juegos Gratuitos para las Vacaciones de Navidad ⭐️"
 permalink: /videojuegos-gratis/
 header:
   teaser: https://i.ibb.co/2WqF3VD/videojuegos-vicio-vacaciones.gif
@@ -20,13 +20,17 @@ header:
 #      url: "/disney-frozen-amazon/"
 comments: true
 date: 2019-12-05 18:00:00 +0200
-last_modified_at: 2019-12-11 12:36:18 +0200
+last_modified_at: 2019-12-11 18:02:18 +0200
 published: true
 tags:
   - Videojuegos
 categories:
   - Gratis Videojuegos
-# Zclasses: wide
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: false
+# classes: wide
 # sidebar:
 #   - title: Menú Videotutoriales
 #     nav: vtuto
@@ -34,6 +38,8 @@ categories:
 
 🤞 Este artículo se irá actualizando a lo largo del tiempo.. 🕹
 {: .notice--info}
+
+Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fiestas como las de Navidad algunas páginas web o compañías deciden ofrecer gratis, aunque solamente sea temporalmente; junto a algunas otras recomendaciones, si deseas probar algun nuevo juego durante estas vacaciones.
 
 ## Jotun: Valhalla \ Epic Games
 
@@ -46,7 +52,7 @@ categories:
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## ALTERNATIVAS FORTNITE
+## 🔫 ALTERNATIVAS FORTNITE
 
 El juego de moda por excelencia es el Fortnite de eso no cabe duda alguna a estas alturas del año 2019..
 
@@ -68,7 +74,7 @@ Un Battle Royal genial, y algo más ligero que el PUBG y que amplia el campo de 
 
 ## PUBG Lite & CS GO
 
-Sin lugar a dudas estos dos, son las dos alternativas más clásicas al Fortnite..
+Sin lugar a dudas estos dos, PUBG y CS GO, son las dos alternativas más clásicas y ya conocidas al Fortnite..
 
 ### PUBG Lite
 
@@ -116,7 +122,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## PRÓXIMAMENTE
+## 💣 PRÓXIMAMENTE
 
 ## The Escapist \ Epic Games
 
