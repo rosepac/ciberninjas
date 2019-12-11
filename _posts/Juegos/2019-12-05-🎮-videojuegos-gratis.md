@@ -164,5 +164,4 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-[📰 Noticias Videojuegos](/videojuegos-gratis/#page-title){: .btn .btn--warning .btn--large .align-center}
-https://ciberninjas.com/directo/
+[📰 Noticias Videojuegos](/directo/){: .btn .btn--warning .btn--large .align-center}
