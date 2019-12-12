@@ -39,24 +39,26 @@ toc_sticky: false
 🤞 Este artículo se irá actualizando a lo largo del tiempo.. 🕹
 {: .notice--info}
 
-Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fiestas como las de Navidad algunas páginas web o compañías deciden ofrecer gratis, aunque solamente sea temporalmente; junto a algunas otras recomendaciones, si deseas probar algun nuevo juego durante estas vacaciones.
+Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fiestas como las de Navidad algunas páginas web o compañías deciden ofrecer gratis, aunque solamente sea temporalmente; junto a algunas otras recomendaciones, si deseas probar o recuperar algún nuevo juego; aquí los vas a poder encontrar.
 
-## 🎉 GRATIS AHORA
+## GRATIS AHORA 🎉 
 
 ## Wasteland 2
 
-Wasteland 2 es un videojuego de rol post-apocalíptico desarrollado por inXile Entertainment y publicado por Deep Silver . Es la secuela de Wasteland de 1988, y fue exitosamente financiado por Kickstarter . Después del aplazamiento de la fecha de lanzamiento original de octubre de 2013, se lanzó para Microsoft Windows , OS X y Linux en septiembre de 2014. Una versión mejorada del juego, llamada Wasteland 2: Director's Cut
+Wasteland 2 es un videojuego de rol post-apocalíptico desarrollado por inXile Entertainment y publicado por Deep Silver . Es la secuela de Wasteland de 1988, y fue exitosamente financiado por Kickstarter.
+
+El juego se desarrolla en una línea de tiempo de historia alternativa, en la que tuvo lugar una guerra nuclear entre los Estados Unidos y la Unión Soviética en 1998 en relación con un evento de impacto que involucró un grupo de meteoritos que desencadenó una guerra nuclear global.
+
+El día del cataclismo, una compañía de ingenieros del ejército de los EE. UU. Se encontraba en el desolado desierto del suroeste construyendo puentes en un área con una serie de pequeñas comunidades sobrevivientes y un corredor de la muerte federal recientemente construidoprisión con instalaciones industriales ligeras.
+
+Los soldados buscaron refugio en la prisión, expulsaron a los reclusos e invitaron a los sobrevivientes cercanos a unirse a ellos poco después. Años más tarde, juntos formaron "los Desert Rangers, en la gran tradición de los Rangers de Texas y Arizona ", para ayudar a otros sobrevivientes en el desierto y más allá.
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/6r7Vk1AgaJY?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
-
-El juego se desarrolla en una línea de tiempo de historia alternativa , en la que tuvo lugar una guerra nuclear entre los Estados Unidos y la Unión Soviética en 1998 en relación con un evento de impacto que involucró un grupo de meteoritos que desencadenó una guerra nuclear global. El día del cataclismo, una compañía de ingenieros del ejército de los EE. UU. Se encontraba en el desolado desierto del suroeste construyendo puentes en un área con una serie de pequeñas comunidades sobrevivientes y un corredor de la muerte federal recientemente construidoprisión con instalaciones industriales ligeras. Los soldados buscaron refugio en la prisión, expulsaron a los reclusos e invitaron a los sobrevivientes cercanos a unirse a ellos poco después. Años más tarde, juntos formaron "los Desert Rangers, en la gran tradición de los Rangers de Texas y Arizona ", para ayudar a otros sobrevivientes en el desierto y más allá.
 
 💡 REQUIERE REGISTRO EN GOG
 {: .notice--info}
 
-[🎮 GRATIS DURANTE HOY 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎮 GRATIS HASTA MAÑANA, 13 A LAS 12:00 🎮](https://www.gog.com/#giveaway){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## The Escapist \ Epic Games
 
@@ -68,17 +70,21 @@ Es un juego de estrategia jugado desde una perspectiva de shooter. El jugador, q
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## 🕹 RETRO
+## RETRO 🕹
 
 ## Crab Due \ IndieGala
 
-En el fondo del océano es donde reina el malvado Dr. Taco. Su mayor sueño es conquistar todo el océano. Junto con su socio comercial, el Sr. Rhino, patrocinan un proyecto de alta tecnología llamado «Crab Dub». El objetivo final del proyecto es crear un ejército de Cangrejos Cibernéticos que sirva fielmente al Dr. Taco y lo ayude a cumplir su malvado plan. Sin embargo, los habitantes submarinos muy pronto descubren este proyecto. Contratan a Blue Cassette Player para detener al Dr. Taco y su compañero. El Sr. Rhino decide no esperar a que se complete el proyecto «Crab Dub» y lanza el primer prototipo de Cyber-Crab. Su misión es eliminar el Blue Cassette Player y cualquier otra persona que se interponga en el camino del Dr. Taco.
+En el fondo del océano es donde reina el malvado Dr. Taco. Su mayor sueño es conquistar todo el océano. Junto con su socio comercial, el Sr. Rhino, patrocinan un proyecto de alta tecnología llamado «Crab Dub».
+
+El objetivo final del proyecto es crear un ejército de Cangrejos Cibernéticos que sirva fielmente al Dr. Taco..
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/1NSKFMTSYbQ?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
 [🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/crab-dub/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-## 🪓 JUEGOS DE ACCIÓN GRATIS
+[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## JUEGOS DE ACCIÓN GRATIS 🪓
 
 ## Alien Swarm: Reactive Drop \ Steam
 
@@ -88,12 +94,12 @@ Alien Swarm es un videojuego shotter y multijugador desarrollado por Valve. El o
 
 [🎮 INSTALAR GRATIS 🎮](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-## MÁS JUEGOS CLÁSICOS
+## MÁS JUEGOS CLÁSICOS 🕹
 
 [JUGAR AirBuccaneers 🏴‍☠️](https://store.steampowered.com/app/223630/AirBuccaneers/){: .btn .btn--inverse .btn--large} [Shadow Warrior Classic (1997) 🪓](https://store.steampowered.com/app/238070/Shadow_Warrior_Classic_1997/){: .btn .btn--inverse .btn--large} [TheUltimateDoom 1995](https://archive.org/download/TheUltimateDoom1995idSoftware_201806){: .btn .btn--inverse .btn--large} [JUEGOS DE MS-DOS](https://archive.org/details/softwarelibrary_msdos_games?&sort=-downloads&page=2){: .btn .btn--inverse .btn--large} [Dungeon Defenders II 🐉](https://store.steampowered.com/app/236110/Dungeon_Defenders_II/){: .btn .btn--inverse .btn--large} 
 
 
-## 🔫 ALTERNATIVAS FORTNITE
+## FORTNITE & OTRAS ALTERNATIVAS 🔫
 
 El juego de moda por excelencia es el Fortnite de eso no cabe duda alguna a estas alturas del año 2019..
 
@@ -177,24 +183,46 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## 💣 PRÓXIMAMENTE
+## Páginas de Videojuegos Gratis 🎁
 
+* [Steem Videojuegos Gratis](https://store.steampowered.com/genre/Free%20to%20Play/){:target="_blank"} 87 Juegos
+* [Epic Games Videojuegos Gratis](https://www.epicgames.com/store/es-ES/collection/free-games-collection)
+* [Indie Gala Juegos Gratis](https://freebies.indiegala.com/){:target="_blank"} (Se actualizan con frecuencia)
+* Reddit. Diferentes Grupos donde se actualiza con juegos gratuitos \ [FreeGameFindings](https://www.reddit.com/r/FreeGameFindings/){:target="_blank"} \ [Free Games](https://www.reddit.com/r/freegames/){:target="_blank"} 
 
+[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## 😿 CADUCADO PERÍODO GRATUITO
+## Más Páginas 🙀
+
+* [IntercambiosVirtuales](http://www.intercambiosvirtuales.org/category/juegos){:target="_blank"}
+* [PiviGames](https://pivigames.blog/){:target="_blank"}
+
+[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## Juegos Gratis para PC y Móviles
+
+* Aplicaciones Android para Buscar APPS Gratis \ [Apps Free](https://play.google.com/store/apps/details?id=com.appsfree.android&hl=es_419){:target="_blank"} \ [App Sales](https://play.google.com/store/apps/details?id=net.tsapps.appsales){:target="_blank"}
+* [Boot de Twitter de Videojuegos Gratis](https://twitter.com/FreeGames_BOT){:target="_blank"}
+<!-- Actualizar https://www.fanbyte.com/trending/epic-games-store-free-games-list/ -->
+
+[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## PRÓXIMAMENTE 💣
+
+Ahora mismo no existen juegos gratuitos pendientes de ser liberados..
+{: .notice--info}
+
+## CADUCADOS 😿
 
 ### Jotun: Valhalla \ Epic Games
 
-💣 JOTUN HOY 11 Y MAÑANA 12. ÚLTIMOS DÍAS GRATIS 💣
-{: .notice--warning}
-
 Jotun sigue la historia de Thora, una mujer vikinga recientemente fallecida. Habiendo sufrido una muerte sin gloria, debe viajar a través de los reinos derrotando a Jötunn , elementales gigantes de la naturaleza, el caos, el poder, etc. Esto le permitirá impresionar a los dioses y entrar en el Valhalla.
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rkYg2G4rjEs?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
 Jotun destaca por utilizar un estilo de arte dibujado a mano, cuadro por cuadro, además de las batallas contra los jefes, el juego gira en torno a la exploración y la resolución de acertijos, con algunos enemigos para luchar.
 
 La exploración generalmente implica explorar varias etapas, con algunos gigantes para luchar y varios acertijos para resolver. Los rompecabezas a menudo emplean el uso de columpios de hacha para interactuar con objetos (es decir, árboles, rocas y vides) y algunos otros tipos de rompecabezas.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rkYg2G4rjEs?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
 [🎮 PLAZO FINALIZADO 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
@@ -209,30 +237,6 @@ La exploración generalmente implica explorar varias etapas, con algunos gigante
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/wanxGDgwjnk?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
 [🎮 PLAZO FINALIZADO 🎮](https://store.steampowered.com/app/220820/Zombie_Driver_HD/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-## Páginas de Videojuegos Gratis
-
-* [Steem Videojuegos Gratis](https://store.steampowered.com/genre/Free%20to%20Play/){:target="_blank"} 87 Juegos
-* [Epic Games Videojuegos Gratis](https://www.epicgames.com/store/es-ES/collection/free-games-collection)
-* [Indie Gala Juegos Gratis](https://freebies.indiegala.com/){:target="_blank"} (Se actualizan con frecuencia)
-* Reddit. Diferentes Grupos donde se actualiza con juegos gratuitos \ [FreeGameFindings](https://www.reddit.com/r/FreeGameFindings/){:target="_blank"} \ [Free Games](https://www.reddit.com/r/freegames/){:target="_blank"} 
-
-[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-## 🙀 Más Páginas
-
-* [IntercambiosVirtuales](http://www.intercambiosvirtuales.org/category/juegos){:target="_blank"}
-* [PiviGames](https://pivigames.blog/){:target="_blank"}
-
-[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-## Juegos Gratis PC y Móviles
-
-* Aplicaciones Android para Buscar APPS Gratis \ [Apps Free](https://play.google.com/store/apps/details?id=com.appsfree.android&hl=es_419){:target="_blank"} \ [App Sales](https://play.google.com/store/apps/details?id=net.tsapps.appsales){:target="_blank"}
-* [Boot de Twitter de Videojuegos Gratis](https://twitter.com/FreeGames_BOT){:target="_blank"}
-<!-- Actualizar https://www.fanbyte.com/trending/epic-games-store-free-games-list/ -->
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
