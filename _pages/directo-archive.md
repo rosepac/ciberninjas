@@ -15,7 +15,7 @@ sort_by: title
 sort_order: reverse
 author_profile: true
 entries_layout: grid
-# classes: wide
+classes: wide
 # sidebar:
 # - title: "Menú Principal"
 #   nav: general
