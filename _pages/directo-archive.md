@@ -61,15 +61,11 @@ entries_layout: grid
 
 ## 🌐 Eventos de Tecnología
 
-[🌐 Eventos de Tecnología en Español](https://twitter.com/ciberninjas/lists/eventos-tecnolog-a-es1){: .btn .btn--inverse .btn--large}{:target="_blank"}
-
-[🌐 Eventos de Tecnología a Nivel Mundial](https://twitter.com/ciberninjas/lists/eventos-tecnol-world){: .btn .btn--inverse .btn--large}{:target="_blank"}
+[🌐 Eventos de Tecnología en Español](https://twitter.com/ciberninjas/lists/eventos-tecnolog-a-es1){: .btn .btn--inverse .btn--large}{:target="_blank"} [🌐 Eventos de Tecnología a Nivel Mundial](https://twitter.com/ciberninjas/lists/eventos-tecnol-world){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 ## 👮‍♂️ Ciberseguridad
 
 [🔐 CiberSeguridad](https://twitter.com/ciberninjas/lists/ciberseguridad1){: .btn .btn--inverse .btn--large}{:target="_blank"}
-
-[🎮 Novedades de los Mejores Videojuegos](https://twitter.com/ciberninjas/lists/videojuegos1){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 ## Nuevos Productos
 
