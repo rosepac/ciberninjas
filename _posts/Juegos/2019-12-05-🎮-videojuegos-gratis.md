@@ -73,6 +73,16 @@ La exploración generalmente implica explorar varias etapas, con algunos gigante
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+## 🕹 RETRO
+
+## Crab Due \ IndieGala
+
+En el fondo del océano es donde reina el malvado Dr. Taco. Su mayor sueño es conquistar todo el océano. Junto con su socio comercial, el Sr. Rhino, patrocinan un proyecto de alta tecnología llamado «Crab Dub». El objetivo final del proyecto es crear un ejército de Cangrejos Cibernéticos que sirva fielmente al Dr. Taco y lo ayude a cumplir su malvado plan. Sin embargo, los habitantes submarinos muy pronto descubren este proyecto. Contratan a Blue Cassette Player para detener al Dr. Taco y su compañero. El Sr. Rhino decide no esperar a que se complete el proyecto «Crab Dub» y lanza el primer prototipo de Cyber-Crab. Su misión es eliminar el Blue Cassette Player y cualquier otra persona que se interponga en el camino del Dr. Taco.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/1NSKFMTSYbQ?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/crab-dub/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
 ## 🔫 ALTERNATIVAS FORTNITE
 
 El juego de moda por excelencia es el Fortnite de eso no cabe duda alguna a estas alturas del año 2019..
