@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Noticias de Programación En Directo, Día a Día, Minuto a Minuto"
+title: "Noticias en Directo de Programación & Tecnología"
 description: "En Directo. Es la Sección de Noticias de los Ciberninjas, aquí vas a poder encontrar todas nuestras listas exclusivas de Twitter"
 excerpt: "En Directo. Es la Sección de Noticias de los Ciberninjas, aquí vas a poder encontrar todas nuestras listas exclusivas de Twitter"
 collection: directo
@@ -15,7 +15,7 @@ sort_by: title
 sort_order: reverse
 author_profile: true
 entries_layout: grid
-classes: wide
+# classes: wide
 # sidebar:
 # - title: "Menú Principal"
 #   nav: general
@@ -45,15 +45,17 @@ classes: wide
 
 [🎮 Novedades de los Mejores Videojuegos](https://twitter.com/ciberninjas/lists/videojuegos1){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
-## Videojuegos
+## 🎮 Videojuegos
 
-[🎮 Videojuegos Empresas Españolas](https://twitter.com/ciberninjas/lists/videojuegos-empresas){: .btn .btn--inverse .btn--large}{:target="_blank"} [🎮 Novedades de los Mejores Videojuegos](https://twitter.com/ciberninjas/lists/videojuegos1){: .btn .btn--inverse .btn--large}{:target="_blank"}
+[▶ Directorio de Empresas de Videojuegos Españolas](https://twitter.com/ciberninjas/lists/videojuegos-empresas){: .btn .btn--inverse .btn--large}{:target="_blank"} [▶ Novedades de los Mejores Videojuegos](https://twitter.com/ciberninjas/lists/videojuegos1){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
-[📰 Prensa Alternativa](https://twitter.com/ciberninjas/lists/prensa-alternativa){: .btn .btn--inverse .btn--large}{:target="_blank"} [📰 Prensa Generalista](https://twitter.com/ciberninjas/lists/prensa-radios){: .btn .btn--inverse .btn--large}{:target="_blank"}
+## 📰 Noticias Generalistas
+
+[Prensa Alternativa](https://twitter.com/ciberninjas/lists/prensa-alternativa){: .btn .btn--inverse .btn--large}{:target="_blank"} [Prensa Sensacionalista](https://twitter.com/ciberninjas/lists/prensa-radios){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 ## 👩‍💻 Software
 
-[💻 ✍ Editores de Código](https://twitter.com/ciberninjas/lists/editores-de-c-digo1){: .btn .btn--inverse .btn--large}{:target="_blank"}
+[Editores de Código ✍](https://twitter.com/ciberninjas/lists/editores-de-c-digo1){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 [🎮 Novedades de los Mejores Videojuegos](https://twitter.com/ciberninjas/lists/videojuegos1){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
