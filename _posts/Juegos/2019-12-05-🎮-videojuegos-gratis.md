@@ -41,6 +41,8 @@ toc_sticky: false
 
 Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fiestas como las de Navidad algunas páginas web o compañías deciden ofrecer gratis, aunque solamente sea temporalmente; junto a algunas otras recomendaciones, si deseas probar algun nuevo juego durante estas vacaciones.
 
+## 🎉 GRATIS AHORA
+
 ## Wasteland 2
 
 Wasteland 2 es un videojuego de rol post-apocalíptico desarrollado por inXile Entertainment y publicado por Deep Silver . Es la secuela de Wasteland de 1988, y fue exitosamente financiado por Kickstarter . Después del aplazamiento de la fecha de lanzamiento original de octubre de 2013, se lanzó para Microsoft Windows , OS X y Linux en septiembre de 2014. Una versión mejorada del juego, llamada Wasteland 2: Director's Cut
@@ -103,6 +105,20 @@ Un Battle Royal genial, y algo más ligero que el PUBG y que amplia el campo de 
 
 [🎮 GRATIS RING OF ELYSIUM 🎮](https://store.steampowered.com/app/755790/Ring_of_Elysium/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
+## Dauntless \ RPG de Cacería
+
+Dauntless es un juego de roll free to play de acción desarrollado por los Laboratorios Phoenix y distribuido por Epic Games. Dauntless tiene lugar en un escenario de fantasía, donde un evento catastrófico ha destrozado el mundo, liberando criaturas monstruosas conocidas como Behemoths que se aprovechan de los humanos sobrevivientes.
+
+Los jugadores asumen el papel de Slayers para derribar Behemoths, recolectando el botín que usan para crear y actualizar armas y equipos para derribar Behemoths más grandes y poderosos.
+
+Mientras cazas, el juego se juega como un juego de acción en tercera persona; el jugador usa un sistema combinado para atacar a la criatura, mientras monitorea su propio indicador de salud y resistencia. Dichas cazas pueden tomar más de veinte minutos en completar el juego.
+
+Se puede jugar como un jugador o cooperativamente con hasta cuatro personas. 
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/TaXAD7Ccg8E?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 DESCARGAR DAUNTLESS 🎮](https://playdauntless.com/es_ES/landing/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
 ## PUBG Lite & CS GO
 
 Sin lugar a dudas estos dos, PUBG y CS GO, son las dos alternativas más clásicas y ya conocidas al Fortnite..
@@ -161,7 +177,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 [🎮 GRATIS ENTRE EL 12/12/2019 Y EL 19/12/2019 🎮](https://www.epicgames.com/store/es-ES/product/the-escapists/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-## CADUCADO PERÍODO GRATUITO
+## 😿 CADUCADO PERÍODO GRATUITO
 
 ### Rayman Legends \ Epic Games
 
@@ -177,7 +193,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Páginas de Videojuegos
+## Páginas de Videojuegos Gratis
 
 * [Steem Videojuegos Gratis](https://store.steampowered.com/genre/Free%20to%20Play/){:target="_blank"} 87 Juegos
 * [Epic Games Videojuegos Gratis](https://www.epicgames.com/store/es-ES/collection/free-games-collection)
@@ -186,7 +202,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Otras Páginas
+## 🙀 Más Páginas
 
 * [IntercambiosVirtuales](http://www.intercambiosvirtuales.org/category/juegos){:target="_blank"}
 * [PiviGames](https://pivigames.blog/){:target="_blank"}
