@@ -54,24 +54,17 @@ El juego se desarrolla en una línea de tiempo de historia alternativa , en la q
 💡 REQUIERE REGISTRO EN GOG
 {: .notice--info}
 
-[🎮 GRATIS DURANTE 2 DÍAS 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎮 GRATIS DURANTE HOY 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Jotun: Valhalla \ Epic Games
+## The Escapist \ Epic Games
 
-💣 JOTUN HOY 11 Y MAÑANA 12. ÚLTIMOS DÍAS GRATIS 💣
-{: .notice--warning}
+Es un juego de estrategia jugado desde una perspectiva de shooter. El jugador, que asume el papel de prisionero, debe escapar de 6 prisiones primarias que van desde muy fácil a muy difícil. Cada vez que se escapa una prisión, la siguiente prisión se desbloquea. También hay prisiones de bonificación (DLC) que se pueden jugar en cualquier orden, independientemente del progreso de los jugadores.
 
-Jotun sigue la historia de Thora, una mujer vikinga recientemente fallecida. Habiendo sufrido una muerte sin gloria, debe viajar a través de los reinos derrotando a Jötunn , elementales gigantes de la naturaleza, el caos, el poder, etc. Esto le permitirá impresionar a los dioses y entrar en el Valhalla.
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/faFVy2kkiMI?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rkYg2G4rjEs?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
-
-Jotun destaca por utilizar un estilo de arte dibujado a mano, cuadro por cuadro, además de las batallas contra los jefes, el juego gira en torno a la exploración y la resolución de acertijos, con algunos enemigos para luchar.
-
-La exploración generalmente implica explorar varias etapas, con algunos gigantes para luchar y varios acertijos para resolver. Los rompecabezas a menudo emplean el uso de columpios de hacha para interactuar con objetos (es decir, árboles, rocas y vides) y algunos otros tipos de rompecabezas.
-
-[🎮 GRATIS HASTA EL 12/12/2019 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎮 GRATIS HASTA EL 19/12/2019 🎮](https://www.epicgames.com/store/es-ES/product/the-escapists/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -84,6 +77,21 @@ En el fondo del océano es donde reina el malvado Dr. Taco. Su mayor sueño es c
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/1NSKFMTSYbQ?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
 [🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/crab-dub/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## 🪓 JUEGOS DE ACCIÓN GRATIS
+
+## Alien Swarm: Reactive Drop \ Steam
+
+Alien Swarm es un videojuego shotter y multijugador desarrollado por Valve. El objetivo es progresar a través de niveles temáticos de ciencia ficción y eliminar oleadas de alienígenas. Los jugadores pueden elegir entre 40 equipos diferentes, que van desde armas como rifles de asalto hasta lanzagranadas y objetos de mano derecha como minas y balizas curativas.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/vHMzjJP7RoI?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 INSTALAR GRATIS 🎮](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## MÁS JUEGOS CLÁSICOS
+
+[JUGAR AirBuccaneers 🏴‍☠️](https://store.steampowered.com/app/223630/AirBuccaneers/){: .btn .btn--inverse .btn--large} [Shadow Warrior Classic (1997) 🪓](https://store.steampowered.com/app/238070/Shadow_Warrior_Classic_1997/){: .btn .btn--inverse .btn--large} [TheUltimateDoom 1995](https://archive.org/download/TheUltimateDoom1995idSoftware_201806){: .btn .btn--inverse .btn--large} [JUEGOS DE MS-DOS](https://archive.org/details/softwarelibrary_msdos_games?&sort=-downloads&page=2){: .btn .btn--inverse .btn--large} [Dungeon Defenders II 🐉](https://store.steampowered.com/app/236110/Dungeon_Defenders_II/){: .btn .btn--inverse .btn--large} 
+
 
 ## 🔫 ALTERNATIVAS FORTNITE
 
@@ -171,13 +179,24 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 ## 💣 PRÓXIMAMENTE
 
-## The Escapist \ Epic Games
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/faFVy2kkiMI?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
-
-[🎮 GRATIS ENTRE EL 12/12/2019 Y EL 19/12/2019 🎮](https://www.epicgames.com/store/es-ES/product/the-escapists/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## 😿 CADUCADO PERÍODO GRATUITO
+
+### Jotun: Valhalla \ Epic Games
+
+💣 JOTUN HOY 11 Y MAÑANA 12. ÚLTIMOS DÍAS GRATIS 💣
+{: .notice--warning}
+
+Jotun sigue la historia de Thora, una mujer vikinga recientemente fallecida. Habiendo sufrido una muerte sin gloria, debe viajar a través de los reinos derrotando a Jötunn , elementales gigantes de la naturaleza, el caos, el poder, etc. Esto le permitirá impresionar a los dioses y entrar en el Valhalla.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rkYg2G4rjEs?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+Jotun destaca por utilizar un estilo de arte dibujado a mano, cuadro por cuadro, además de las batallas contra los jefes, el juego gira en torno a la exploración y la resolución de acertijos, con algunos enemigos para luchar.
+
+La exploración generalmente implica explorar varias etapas, con algunos gigantes para luchar y varios acertijos para resolver. Los rompecabezas a menudo emplean el uso de columpios de hacha para interactuar con objetos (es decir, árboles, rocas y vides) y algunos otros tipos de rompecabezas.
+
+[🎮 PLAZO FINALIZADO 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ### Rayman Legends \ Epic Games
 
