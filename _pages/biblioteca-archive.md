@@ -16,8 +16,8 @@ sidebar:
 
 Los libros y cursos aquí mostrados son documentos de vital importancia para el aprendizaje del desarrollo web en español. La mejor documentación en tu idioma preferido 😻
 
-Estos contenidos están; bajo Licencias Creative Commons, Licencia Mit o Apache 2.0. Lo importante es que todos son original o bajo licencias que permiten su traducción sin ningún tipo de problema siempre y cuando se mantenga la misma como tal; y se respete a la marca que ha creado el contenido en inglés original.
+Estos contenidos están bajo Licencias Creative Commons, Licencia Mit, Apache 2.0 o bajo dominio publico.
 {: .notice--warning}
 
-En el caso de las traducciones, las licencias bajo las que se encuentran los documentos se muestran en la parte inferior de cada publicación; junto además a los autores en la parte superior, si es que fuese necesario.
-{: .notice--danger}
+<!-- En el caso de las traducciones, las licencias bajo las que se encuentran los documentos se muestran en la parte inferior de cada publicación; junto además a los autores en la parte superior, si es que fuese necesario.
+{: .notice--danger} -->
