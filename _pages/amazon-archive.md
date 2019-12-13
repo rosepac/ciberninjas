@@ -4,7 +4,7 @@ title: "Las Mejores Ofertas de Amazon durante Todo el Año"
 description: "Las Mejores Ofertas de Amazon durante Todo el Año"
 excerpt: "Las Mejores Ofertas de Amazon durante Todo el Año"
 collection: amazon
-permalink: /catalogo/amazon/
+permalink: /amazon/
 canonical_URL: https://ciberninjas.com/amazon/
 published: true
 toc: true

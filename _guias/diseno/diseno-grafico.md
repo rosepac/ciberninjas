@@ -30,6 +30,7 @@ header:
 * [Krita](https://krita.org/es/){:target="_blank"} \ [Brochas](https://docs.krita.org/en/resources_page.html#brush-packs){:target="_blank"}
   * [Plugin de Acciones](https://github.com/Larpon/krita-bulk-actions){:target="_blank"}
 * [Sweet Home 3D](http://www.sweethome3d.com/){:target="_blank"}
+<!-- tutoriales de sweet home 3d - buscar youtube -->
 
 ## Software de Pago
 

@@ -1,6 +1,6 @@
 main:
   - title: "🎁 Regalos"
-    url: /catalogo/amazon/
+    url: /amazon/
   - title: "📚 Librería"
     url: /catalogo/
   - title: "📖 Guías"
@@ -192,7 +192,7 @@ libros-espanol:
       - title: "🔬 Ciencias de la Computación"
         url: /biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación
       - title: "🛒 Comercio Electrónico"
-        url: /cursos-tecnologia/#-comercio-electrónico
+        url: /biblioteca-de-programacion-y-tecnologia/#-comercio-electrónico
       - title: "👩‍💻 Desarrollo Web"
         url: /biblioteca-de-programacion-y-tecnologia/#-desarrollo-web
       - title: "🐧 Ecosistema de Código Abierto"
@@ -200,21 +200,21 @@ libros-espanol:
       - title: "👨‍💻 Lenguajes de Programación"
         url: /biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programación
       - title: "👦 Programación Infantil"
-        url: /catalogo/libros/#-programación-infantil
+        url: /biblioteca-de-programacion-y-tecnologia/#-programación-infantil
       - title: "🕸 Redes"
-        url: /catalogo/libros/#-administración-y-redes
+        url: /biblioteca-de-programacion-y-tecnologia/#-administración-y-redes
       - title: "🤖 Robótica"
         url: /biblioteca-de-programacion-y-tecnologia/#-robótica
       - title: "👮‍♀️ Seguridad"
-        url: /catalogo/libros/#️-seguridad
+        url: /biblioteca-de-programacion-y-tecnologia/#️-seguridad
       - title: "👷‍♂️ Webmaster"
-        url: /catalogo/libros/#️-webmaster
+        url: /biblioteca-de-programacion-y-tecnologia/#️-webmaster
       - title: "🎮 Videojuegos"
-        url: /catalogo/libros/#-videojuegos
+        url: /biblioteca-de-programacion-y-tecnologia/#-videojuegos
       - title: "📚 LIBRERÍA"
         url: /catalogo/
       - title: "🎁 TIENDA"
-        url: /catalogo/amazon/
+        url: /amazon/
 
 libros:
   - title: Secciones
@@ -246,7 +246,7 @@ libros:
       - title: "📚 LIBRERÍA"
         url: /catalogo/
       - title: "🎁 TIENDA"
-        url: /catalogo/amazon/
+        url: /amazon/
 
 cursos-espanol:
   - title: Secciones
@@ -298,7 +298,7 @@ cursos-espanol:
       - title: "📚 LIBRERÍA"
         url: /catalogo/
       - title: "🎁 TIENDA"
-        url: /catalogo/amazon/
+        url: /amazon/
 #
 ## documentation links
 #libros:

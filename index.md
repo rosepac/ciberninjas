@@ -16,28 +16,28 @@ header:
     - label: "📖 Libros"
       url: "/biblioteca-de-programacion-y-tecnologia/"
   caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
-excerpt: "Encuentra todos los recursos que te sean necesarios, cursos, libros en PDF, videotutoriales, artículos y mucho más.."
+excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.."
 ---
 
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/catalogo/amazon/" alt="El Regalazo del Año"><img src="https://i.ibb.co/TK5yj59/regalo-pequeno-disfrutando.gif" alt="Me encanta y amo este pedazo de regalo"></a>
+            <a href="/que-es-ciberninjas/" alt="Qué es Ciberninjas"><img src="/assets/images/logos/ciberninjas-emoji-120px.png" alt="Conociendo que es Ciberninjas, para y porque que ha sido creado"></a>
         </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">Tienda</h2>
+            <h2 class="archive__item-title">Conócenos</h2>
             <div class="archive__item-excerpt">
-                <p>Las <strong>mejores ofertas</strong> y <strong>regalos</strong> en relación a la programación y el mundo de la tecnología.</p>
+                <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador.</p>
             </div>
-            <p><a href="/catalogo/amazon/" class="btn btn--primary">Ver Más</a></p>
+            <p><a href="/que-es-ciberninjas/" class="btn btn--primary">Saber Más</a> <a href="/quien-soy/" class="btn btn--primary">💡 Quién Soy</a></p>
         </div>
     </div>
 </div>
 </div>
 
 <div class="feature__wrapper">
-<div class="feature__item--left">
+<div class="feature__item--right">
     <div class="archive__item">
         <div class="archive__item-teaser">
             <a href="/directo/" alt="El Regalazo del Año"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="En directo todas las noticias sobre todo lo que necesitas saber sobre la tecnología"></a>
@@ -45,10 +45,46 @@ excerpt: "Encuentra todos los recursos que te sean necesarios, cursos, libros en
         <div class="archive__item-body">
             <h2 class="archive__item-title">En Directo</h2>
             <div class="archive__item-excerpt">
-                <p>Las <strong>mejores listas</strong> de Twitter sobre proyectos y personas en relación a la programación y el mundo de la tecnología.</p>
+                <p>Las <strong>mejores listas</strong> de Twitter sobre programación, videojuegos, software y otros proyectos relacionados. Informate día a día y al instante de las noticias que comparten las personas más importantes dentro del sector de en relación a la programación y el mundo de la tecnología; y mucho más.</p>
             </div>
-            <p><a href="/catalogo/amazon/" class="btn btn--primary">Ver Más</a></p>
+            <p><a href="/directo/" class="btn btn--primary">Saber Más</a></p>
         </div>
     </div>
 </div>
 </div>
+
+<div class="feature__wrapper">
+<div class="feature__item--left">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <a href="/amazon/" alt="El Regalazo del Año"><img src="https://i.ibb.co/TK5yj59/regalo-pequeno-disfrutando.gif" alt="Me encanta y amo este pedazo de regalo"></a>
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Tienda</h2>
+            <div class="archive__item-excerpt">
+                <p>Las <strong>mejores ofertas</strong> y <strong>regalos</strong> en relación a la programación y el mundo de la tecnología.</p>
+            </div>
+            <p><a href="/amazon/" class="btn btn--primary">Saber Más</a></p>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="feature__wrapper">
+<div class="feature__item--right">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <a href="/directo/" alt="El Regalazo del Año"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="En directo todas las noticias sobre todo lo que necesitas saber sobre la tecnología"></a>
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">En Directo</h2>
+            <div class="archive__item-excerpt">
+                <p>Las <strong>mejores listas</strong> de Twitter sobre programación, videojuegos, software y otros proyectos relacionados. Informate día a día y al instante de las noticias que comparten las personas más importantes dentro del sector de en relación a la programación y el mundo de la tecnología; y mucho más.</p>
+            </div>
+            <p><a href="/directo/" class="btn btn--primary">Saber Más</a></p>
+        </div>
+    </div>
+</div>
+</div>
+
+<!-- Gráfica: https://app.flourish.studio/visualisation/1093102/edit -->

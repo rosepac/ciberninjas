@@ -52,3 +52,5 @@ https://www.storypick.com/kim-ung-yong/
 
 Cuatro extensos vídeos sobre el marxismo y el capitalismo..
 https://www.youtube.com/watch?v=TaUyEo8LEbk
+
+## Vicente Blasco Ibáñez

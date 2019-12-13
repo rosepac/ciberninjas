@@ -1,6 +1,6 @@
 ---
 
-title: "🌟 Recursos 🛠 Mis Aplicaciones & Programas Favoritos"
+title: "🌟 Mis Aplicaciones & Recursos Favoritos 🛠"
 description: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
 excerpt: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
 published: true
@@ -16,18 +16,20 @@ sidebar:
 
 ---
 <!-- AGREGAR CAPTURAS DE PANTALLA A LOS DIFERENTES SOFTWARE -->
-En esta página, encontrarás una descripción general de todos los recursos que uso o he usado regularmente o durante un período de tiempo considerable como para tomarme la molestia de recomendarlos por variadas razones; teniendo como razón primordial la de que me han ayudado a realizar mi trabajo o optimizar con mayor sensatez mi vida.
+En esta página, encontrarás una descripción general de todos las aplicaciones y herramientas que uso o he usado regularmente o por un largo período de tiempo como para tomarme la molestia de recomendarlos. La razón principal de su selección es que me han ayudado a organizarme en todos los aspectos y a optimizar mis tareas.
 
-¡Espero que los disfrutéis!
+¡Espero que mis Ciberninjas lo disfruten!
 
 ## Lectura
 
-* [Inoreader](https://www.inoreader.com "Mejor Aplicación Lectora de Fuentes de RSS")
-    - En los últimos años han existido muchos altibajos en cuanto a los lectores de RSS. La opción de software privativo que mejor resultado me ha ofrecido ha sido Inoreader, puesto que ofrece la opción de añadir etiquetas o guardar para más tarde sobre las noticias.
-    
-    El mayor problema es que esta limitado a solo 1.000 noticias; entre algunas otras limitaciones más.
+* [FeedReader](http://www.feedreader.com/)
 
-El otro software de control de noticias que he estado usando durante los últimos meses es QuiteRSS.
+* [Inoreader](https://www.inoreader.com "Mejor Aplicación Lectora de Fuentes de RSS")
+  En los últimos años han existido muchos altibajos en cuanto a los lectores de RSS. La opción de software privativo que mejor resultado me ha ofrecido ha sido Inoreader, puesto que ofrece la opción de añadir etiquetas o guardar para más tarde sobre las noticias.
+    
+El mayor problema es que esta limitado a solo 1.000 noticias; entre algunas otras limitaciones más.
+
+El otro software de gestión de noticias que he estado usando durante los últimos meses es QuiteRSS.
 
 * [QuiteRSS](https://quiterss.org/) Es un lector sencillo que su mayor desventaja puede ser precisamente eso; su sencillez. Quizás le falten algunas opciones necesarias si deseas explotar al máximo un lector de noticias. En cambio, ofrece amplias ventajas que Inoreader no posee; por el hecho de ser de código abierto. NO existe limitación en la cantidad de archivos acumulados. Ofrece opciones de etiquetado y un amplio sistema de filtros, además de permitir la limpieza de las fuentes RSS en períodos de tiempos personalizados o por la cantidad de noticias acumuladas que tu desees. Es capaz de gestioanr miles de noticias sin problemas y sin recurrir a demasiados recursos de tu ordenador. Igualmente, ofrece múltiples opciones de personalización, tanto en la interfaz del software en sí; como de la forma en la que te muestra los artículos e incluso ofrece un útil botón con el que ocultar todas las imágenes de las RSS.
 
@@ -74,13 +76,20 @@ Personalmente no le he dado uso, puesto que mis tareas no son tan metódicas ni 
 
 ## Extensiones de Chrome
 
-* Mobile Browser Emulator (http://tools.diorama.ch/mbe_en.html)
+* [Camelizer](https://chrome.google.com/webstore/detail/the-camelizer/ghnomdcacenbmilgjigehppbamfndblo)
 
-* LinkClump (https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj){:target="_blank"}
+Disfruta del mejor comparador de precios de Amazon desde dentro de la misma pestaña de las ventanas de Amazon.
+
+* [LinkClump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj){:target="_blank"}
 
 Abrir varios enlaces a la vez, de una sola selección.
 
+* [Mobile Browser Emulator](http://tools.diorama.ch/mbe_en.html)
 <!-- Como anotar absolutamente todo: https://beepb00p.xyz/annotating.html -->
+
+* [Wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=es)
+
+Una modernización de la actual Wikipedia.
 
 ## Mis Aplicaciones Realmente Favoritas
 
@@ -91,3 +100,17 @@ Extensión: wikiwand wikipedia.
 <a href="https://www.producthunt.com/posts/ink-1c962f43-e6e2-4291-942f-6090712bf2b6?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-ink-1c962f43-e6e2-4291-942f-6090712bf2b6" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=169533&theme=light&period=daily" alt="INK - AI web content optimization platform just for writers | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 <a href="https://www.producthunt.com/posts/ink-1c962f43-e6e2-4291-942f-6090712bf2b6?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-ink-1c962f43-e6e2-4291-942f-6090712bf2b6" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=169533&theme=light&period=weekly" alt="INK - AI web content optimization platform just for writers | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
+[👈 VOLVER A CIBERNINJAS 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
+[📚 LIBROS GRATIS 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🛒 Catálogo de Libros 👨‍💻](/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🎓 CURSOS GRATIS 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 ÚNETE A LA COMUNIDAD 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 TWITTER 🐤](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 FACEBOOK 📘](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 DISCORD 💭](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
+[💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--x-large .align-center}
+[☕ Invítame a Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--x-large .align-center}
+[🎁 Pásame Criptos 🤘](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 Discord 💭](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}

@@ -215,4 +215,4 @@ Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva;
 [🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 [⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 [📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
-[💻 ¡OJEA MÁS OFERTAS! 💻](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
+[💻 ¡OJEA MÁS OFERTAS! 💻](/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}

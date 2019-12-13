@@ -103,6 +103,10 @@ Gustavo Bueno: Panfleto contra la democracia realmente existente.
   * ¿Dice usted que las barras son de Aragón y no de Cataluña?
 * [Reino de Aragón -wikipedia-](https://es.wikipedia.org/wiki/Reino_de_Arag%C3%B3n){:target="_blank"} [Reinos Ibéricos en 1.400](https://es.wikipedia.org/wiki/Reino_de_Arag%C3%B3n#/media/Archivo:Iberian_Kingdoms_in_1400.svg){:target="_blank"} (IMAGEN)
 
+## Historia de España
+
+https://informalia.eleconomista.es/informalia/actualidad/noticias/9653449/01/19/La-entrevista-vetada-del-rey-al-descubierto-Juan-Carlos-lo-cuenta-todo.html
+
 ---
 
 👉 [Lecturas](/lecturas/)

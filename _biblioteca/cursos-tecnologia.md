@@ -30,28 +30,6 @@ sidebar:
   nav: cursos-espanol
 ---
 
-En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada temática.
-
-<details>
-<summary>Saber Más</summary>
-<br/>
-<p>Entre otras universidades:</p>
-<ol>
-<li>la Universidad Carlos III de Madrid</li>
-<li>la Universidad de Alicante</li>
-<li>la Universidad de Cantabria</li>
-<li>la Universidad de La Laguna de Tenerife</li>
-<li>la Universidad de Málaga</li>
-<li>la Universidad Jaime I de Castellón</li>
-<li>la Universidad Nacional de Rosario \ Argentina</li>
-<li>la Universidad Politécnica de Madrid</li>
-<li>la Universidad Politécnica de Valencia</li>
-<li>...</li>
-</ol>
-<p>En la actualidad son más de 800 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.</p>
-<p>Cursos sobre: Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.</p>
-</details>
-
 ## 🗃 Meta-Listas
 
 * [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/) Principalmente basados en redes y los servicios de Microsoft (Python, Azure, Machine Learning, Inteligencia Artificial, Power Apps, Microsoft, SQL, Xamarin, R, Big Data)
@@ -1216,5 +1194,34 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 * [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido) (Udemy)
 * [Wordpress. Curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress) (Udemy)
 * [Wordpress. Introducción práctica a Gutenberg el nuevo editor](https://www.udemy.com/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor) (Udemy)
+
+[🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## Introducción
+
+Omitir. salvo que desees conocer en mayor profundidad el contenido que puedes encontrar dentro de los diferentes enlaces que aparecen dentro de esta página web. Este contenido, unicamente es generado en post de la mejora del posicionamiento e indexación del mismo 😉
+{: .notice--info}
+
+En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada temática.
+
+<details>
+<summary>Saber Más</summary>
+<br/>
+<p>Entre otras universidades:</p>
+<ol>
+<li>la Universidad Carlos III de Madrid</li>
+<li>la Universidad de Alicante</li>
+<li>la Universidad de Cantabria</li>
+<li>la Universidad de La Laguna de Tenerife</li>
+<li>la Universidad de Málaga</li>
+<li>la Universidad Jaime I de Castellón</li>
+<li>la Universidad Nacional de Rosario \ Argentina</li>
+<li>la Universidad Politécnica de Madrid</li>
+<li>la Universidad Politécnica de Valencia</li>
+<li>...</li>
+</ol>
+<p>En la actualidad son más de 800 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.</p>
+<p>Cursos sobre: Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.</p>
+</details>
 
 [🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}

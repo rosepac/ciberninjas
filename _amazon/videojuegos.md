@@ -34,7 +34,7 @@ sidebar:
 Dentro de las variadas ofertas del Black Friday de Amazon podemos encontrar pequeñas ofertas en la mayoría de videoconsolas y videojuegos en cualquiera de las múltiples plataformas para los que existen.
 
 [💣 BLACK FRIDAY 2019 💣](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
-[💻 ¡MÁS OFERTAS DE TECNOLOGÍA! 💻](/catalogo/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
+[💻 ¡MÁS OFERTAS DE TECNOLOGÍA! 💻](/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
 
 ## 🎯 VIDEOCONSOLAS
 
