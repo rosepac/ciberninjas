@@ -14,7 +14,9 @@ sidebar:
   nav: general
 ---
 
-Los libros y cursos aquí mostrados son documentos de vital importancia para el aprendizaje del desarrollo web en español. La mejor documentación en tu idioma preferido 😻
+Los libros y cursos aquí mostrados son documentos de vital importancia para el aprendizaje del desarrollo web en español. Los mejores recursos en tu idioma preferido 😻
+
+[📚 Guías](/guias/) 
 
 Estos contenidos están bajo Licencias Creative Commons, Licencia Mit, Apache 2.0 o bajo dominio publico.
 {: .notice--warning}
