@@ -3,7 +3,7 @@ title: ✅ Únete al Chat de Programación Tecnología y Negocios 👌
 description: "🚀 El mejor Chat en español de tecnología, todo el cibermundo en un único espacio."
 excerpt: "🚀 El mejor Chat en español de tecnología, todo el cibermundo en un único espacio."
 date: 2019-05-15T22:00:00.000+00:00
-last_modified_at: 2019-12-13T16:20:02-05:00
+last_modified_at: 2019-12-13T15:50:02-01:00
 permalink: /chat-discord/
 header:
   teaser: "/assets/images/ciberninjas-chat-discord.jpg"
