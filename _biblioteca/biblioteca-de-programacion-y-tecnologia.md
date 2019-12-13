@@ -25,6 +25,8 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: false
+sidebar:
+  nav: libros-espanol
 
 ---
 
@@ -44,14 +46,17 @@ toc_sticky: false
 * [Universidad Autónoma de Mexico - Plan (2016)](https://kutt.it/apuntes-pdf-universidad-mexico){:target="_blank"}
 <!-- http://biblioweb.tic.unam.mx/ , https://www.julianmarquina.es/22-grandes-bibliotecas-digitales-en-espana-aunque-hay-muchas-mas/ http://portal.uned.es/portal/page?_pageid=93,511995&_dad=portal&_schema=PORTAL -->
 
+[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
 ### 🧰 Meta-Listas Herramientas
 
 * [Style Guides](http://styleguides.io){:target="_blank"} (+572 entre Artículos, Libros y Herramientas)
 
 ### 🌐 Cursos Masivos en Línea
 
-* [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice){:target="_blank"} (Github)
-* [Miriadax](https://miriadax.net/cursos){:target="_blank"}
+* [Cursos de Programación Online Organizados](/cursos-tecnologia/) (HTML) (Actualizado 2019)
+* [Miriadax](https://miriadax.net/cursos){:target="_blank"} (HTML)
+* [Hacker.IO](https://hackr.io/){:target="_blank"} (HTML)
 
 ## 📁 Bases de Datos
 
@@ -266,6 +271,10 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Aulas en red. Aplicaciones y servicios. Windows](http://www.ite.educacion.es/formacion/materiales/85/cd/windows/indice.htm){:target="_blank"}
 * [Redes. Contenido de Cisco: CCNA](http://nksistemas.com/curso-de-redes-online-contenidos-de-ccna){:target="_blank"} (HTML)
 * [Técnicas para armado de redes LAN utilizando Software Libre ](https://fortinux.com/wp-content/uploads/2010/12/redes.pdf){:target="_blank"} (PDF)
+
+### Virtualización
+
+* [VMWare por Expertos - Por una buena causa](https://drive.google.com/drive/folders/1gTWuEAMN503ytNiWRtFePVRD8KZOEe18) (PDF) ([Donativo](https://www.ceafa.es/es/colaborar/donaciones))
 
 ## Sistemas Operativos
 

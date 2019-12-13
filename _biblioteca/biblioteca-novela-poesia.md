@@ -8,7 +8,7 @@ comments: true
 date: 2019-10-17
 last_modified_at: 
 permalink: /biblioteca-novela-poesia/
-canonical_URL: https://ciberninjas.com/biblioteca-novela-poesia/
+canonical_URL: https://ciberninjas.com/biblioteca-clasica/
 header:
   image: "https://i.ibb.co/L8qwgDj/photo-1447069387593-a5de0862481e-ixlib-rb-1-2.jpg"
 #   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
@@ -81,3 +81,27 @@ Búsquedas Sugeridas: Poesía Crítica, Poesía Social, Buero Vallejo, Miguel He
 
 * CLACSO: Consejo Latinoamericano de Ciencias Sociales
 * ILCE: Instituto Latinoamericano de la Comunidad Educativa
+
+## Introducción
+
+Omitir. salvo que desees conocer en mayor profundidad el contenido que puedes encontrar dentro de los diferentes enlaces que aparecen dentro de esta página web. Este contenido, unicamente es generado en post de la mejora del posicionamiento e indexación del mismo 😉
+{: .notice--info}
+
+Desde aquí vas a poder encontrar todos los libros que necesites de literatura clásica española, novela o poesía; sea lo que sea lo que busques desde aquí vas a poder encontrar lo necesario.
+
+Encontrarás dentro de estas diferentes páginas webs sin lugar a dudas a todos los autores de la literatura clásica española o en español; siempre y cuando halla transcurrido cierto tiempo desde el fallecimiento del mismo; o por lo contrario, si sus obras están bajo licencias de dominio público.
+
+Entre los muchos autores de la literatura española que te podrás encontrar, están los escritores de todas las difentes épocas históricas de a lo largo y ancho de la historia de España.
+
+Sea cual sea la época que estes buscando: la edad media, la edad moderna o la edad contemporánea; en cualquiera de sus épocas o siglos.
+
+Desde el siglo X hasta los siglos más actuales pasando por los siglos más importantes de la literatura española; el siglo XV, XVI, XVII, XVIII, XIV o XIX; podrás encontrar absolutamente todo lo que busques.
+
+Lee y disfruta de los primeros textos que se conocen en español, hasta las fructuosas épocas del renacimiento, el barroco o la ilustración. Dejate influenciar de toda la magia de los textos que podrás encontrar entre el romanticismo, el realismo o el naturalismo de la literatura española.
+
+Las influencias del modernismo, las diferentes vanguardias nacidas alrededor del siglo XX. El postmodernismo, la generación del 27, la generación del 98, el novecentismo, la época de la posquera de los 40 y 50, la renovación literaria de los 60 y 70; hasta la etapa actual.
+
+Autores más "modernos" como
+
+O las autores clásicos como Gonzalo de Berceo, Don Juan Manuel, el Arcipreste de Hita, Fernando de Rojas, Jorge Manrique, Garcilaso de la Vega, Fray Luis de León, Cervantes, Góngora, Lope de Vega, Quevedo, Calderón de la Barca, Iriarte, Samaniego, Moratín, Jerónimo Feijoo, José Espronceda, José Zorrilla, Mariano José de Larra, Bécquer, Rosalía de Castro, Juan Valera, Benito Pérez Galdós, Leopoldo Alas Clarín, Emilia Pardo Bazán, Vicente Blasco Ibánez, Ruben Dario, Manuel Machado, Ramón Gómez de la Serna, Jorge Luis Borges, Julio Cortázar, Vargas Llosa, Gabriel García Márquez, Miguel de Unamuno, Pío Baroja, Azorín, Antonio Machado, Ramón del Valle-Inclán, Juan Ramón Jiménez, Pedro Salinas, Jorge Guillén, Gerardo Diego, García Lorca, Rafael Alberti, Luis Cernuda, Vicente Aleixandre, Miguel Hernández, León Felipe, Dámaso Alonso, Blas de Otero, Camilo José Cela, Miguel Delibes, Luis Martín Santos, Manuel Vázquez Montalbán, Eduardo Mendoza, Gloria Fuertes, Ana María Matute, Juan Benet y Gonzalo Torrente Ballester, entre otros muchos más.
+<!-- https://www.victoriamonera.com/historia-de-la-literatura-espanola-edad-media/ -->

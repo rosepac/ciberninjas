@@ -39,8 +39,6 @@ header:
 
 ## Cursos de Educación
 
-### Educación
-
 * [¿Qué es el Aprendizaje y Servicio? Curso introductorio a la metodología](https://miriadax.net/web/que-es-el-aprendizaje-y-servicio-curso-introductorio-a-la-metodologia-a-s/inicio){:target="_blank"} (MiriadaX)
 * [Administración de plataformas de aprendizaje virtual](https://edutin.com/curso-de-administrador-de-plataformas-de-aprendizaje-virtual-3351){:target="_blank"}
 * [Administración de proyectos para ambientes virtuales de aprendizaje](https://edutin.com/curso-de-administracion-de-proyectos-para-ambientes-virtuales-de-aprendizaje-3352){:target="_blank"}
@@ -97,6 +95,10 @@ header:
 * [TIC en Educación Social (2016)](http://ocw.um.es/cc.-sociales/tic-en-educacion-social){:target="_blank"}
 * [TIC en la Docencia](https://miriadax.net/web/tic-en-la-docencia-3-edicion-/inicio){:target="_blank"} (MiriadaX)
 * [Trascendencia del educador durante la primera infancia](https://edutin.com/curso-de-trascendencia-del-educador-durante-la-primera-infancia-3854){:target="_blank"}
+
+[🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## Educación en Seguridad Digital
 
 * [Diseña eTwinning](https://enlinea.intef.es/courses/course-v1:INTEF+noocetwplan+2019_ED2/about){:target="_blank"} (Intef)
 * [Gestión de espacios educativos](https://enlinea.intef.es/courses/course-v1:MOOC-INTEF+INTEF1711+2019_ED2/about){:target="_blank"} (Intef)

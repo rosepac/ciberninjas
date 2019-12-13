@@ -1,6 +1,11 @@
 2019-08-21
 ## WEB
 
+Listado empresas de videojuegos..
+🎮 Directorio de Empresas de Videojuegos de toda España: https://danielparente.net/es/empresas-de-videojuegos/ y https://www.devuego.es/bd/mapa-estudios/?comunidad=asturias#listado by 
+@dparente
+  #Videojuegos #Industria #España #Lista #Empresas #Indie #Juegos
+
 ### Preferente
 
 - Crear amplio listado de enlaces referidos

@@ -109,7 +109,7 @@ El juego de moda por excelencia es el Fortnite de eso no cabe duda alguna a esta
 
 [🎮 GRATIS 🎮](https://www.epicgames.com/fortnite/es-ES/download){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-Existen algunas otras alternativas, más y menos conocidas, la más destacable para mi..
+Existen algunas otras alternativas, más o menos conocidas, la más destacable para mi son..
 
 ## Ring of Elysium
 
@@ -199,7 +199,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Juegos Gratis para PC y Móviles
+## Juegos Gratis para PC y Móviles 📲
 
 * Aplicaciones Android para Buscar APPS Gratis \ [Apps Free](https://play.google.com/store/apps/details?id=com.appsfree.android&hl=es_419){:target="_blank"} \ [App Sales](https://play.google.com/store/apps/details?id=net.tsapps.appsales){:target="_blank"}
 * [Boot de Twitter de Videojuegos Gratis](https://twitter.com/FreeGames_BOT){:target="_blank"}

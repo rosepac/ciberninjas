@@ -337,7 +337,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Curso Powerpoint 2013](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmWjtgpPMSVRKu-g8SoAntx){:target="_blank"} (Pildoras Informáticas, Youtube)
 * [Curso VBA Acces](https://www.youtube.com/playlist?list=PLC3E8FA619DF71898){:target="_blank"} (Jesús Conde, Youtube)
 * [Curso VBA Excel](https://www.youtube.com/playlist?list=PLF79C9D65E1EC4807){:target="_blank"} (Jesús Conde, Youtube)
-* [Diseña presentaciones eficaces con PowerPoint](https://www.edx.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0){:target="_blank"} (edx)
+* [Diseña presentaciones eficaces con PowerPoint](https://www.edx.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
 * [Domina Excel 2013; Básico e Intermedio](https://www.udemy.com/domina-excel-2013-basico-intermedio-en-menos-de-4-horas){:target="_blank"} (Udemy)
 * [Domina la hoja de cálculo de Google sin esfuerzo](https://www.udemy.com/domina-la-hoja-de-calculo-de-google-sin-esfuerzo){:target="_blank"} (Udemy)
 * [Excel 1 (Básico)](https://www.edx.org/course/excel-upvalenciax-xls101x-1){:target="_blank"} (edx)
@@ -372,6 +372,7 @@ En la Actualidad, se están reestructurando las categorías; en pos de crear un 
 * [Software Libre: Ofimática con OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice) {:target="_blank"} (MiriadaX)
 * [Software Libre y Conocimiento en Abierto](https://miriadax.net/web/soft_libre_y_conocimiento/inicio){:target="_blank"} (MiriadaX)
 * [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-){:target="_blank"} (MiriadaX)
+* [Word intermedio: herramientas de formato y productividad](https://www.edx.org/es/course/word-intermedio-herramientas-de-formato-y-producti){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
 
 [🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
