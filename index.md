@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/logos/ciberninjas-emoji-160-110px.png
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/chico-buscando-libro-biblioteca.jpg
+  overlay_image: https://i.ibb.co/88sdw3h/photo-1510674485131-dc88d96369b4-ixlib-rb-1-2.jpg
   actions:
     - label: "🎓 Cursos"
       url: "/cursos-tecnologia/"
