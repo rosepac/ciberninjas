@@ -6,9 +6,10 @@ date: 2019-05-15T22:00:00.000+00:00
 last_modified_at: 2019-08-21T16:20:02-05:00
 permalink: /chat-discord/
 header:
-  image: "/assets/images/ciberninjas-chat-discord.jpg"
+  teaser: "/assets/images/ciberninjas-chat-discord.jpg"
+  overlay_image: "/assets/images/ciberninjas-chat-discord.jpg"
   image_description: El mejor chat de programación y tecnología en español que existe en toda la red de Internet, invitación a través de Disboard| Comunicación Ciberninjas
-  caption: "**Créditos**: Captura creada por [Ciberninjas](/quien-soy/)"
+  image_alt: El mejor chat de programación y tecnología en español que existe en toda la red de Internet, invitación a través de Disboard| Comunicación Ciberninjas
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -16,6 +17,7 @@ toc_sticky: true
 # sidebar:
 # - title: "Menú Principal"
 #   nav: general
+
 ---
 
 ## ¡ÚNETE AL CHAT & DESCUBRE CIENTOS DE NUEVOS LIBROS Y CURSOS!
