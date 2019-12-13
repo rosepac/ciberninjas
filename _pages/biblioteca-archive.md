@@ -3,10 +3,12 @@ layout: collection
 title: "🗃 Biblioteca de Libros y Cursos de Tecnología"
 description: Libros y Cursos Listados en Español alojados en Ciberninjas sobre tecnología, de Programación, Software y Otros Contenidos Tecnológicos
 excerpt: "Libros y Cursos Listados en Español alojados en Ciberninjas sobre tecnología, de Programación, Software y Otros Contenidos Tecnológicos"
+author_profile: false
 collection: biblioteca
 permalink: /biblioteca/
+canonical_URL: https://ciberninjas.com/biblioteca/
 classes: wide
-author_profile: false
+entries_layout: grid
 sort_by: date
 sort_order: reverse
 sidebar:
