@@ -30,7 +30,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador.</p>
             </div>
-            <p><a href="/que-es-ciberninjas/" title="Qués es Ciberninjas" class="btn btn--primary">Saber Más</a> <a href="/quien-soy/" class="btn btn--primary">💡 Quién Soy</a></p>
+            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--primary">Saber Más</a> <a href="/quien-soy/" class="btn btn--inverse">💡 Quién Soy</a></p>
         </div>
     </div>
 </div>
@@ -47,7 +47,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>Las <strong>mejores listas</strong> de Twitter sobre programación, videojuegos, software y otros proyectos relacionados. Informate día a día y al instante de las noticias que comparten las personas más importantes dentro del sector de en relación a la programación y el mundo de la tecnología; y mucho más.</p>
             </div>
-            <p><a href="/directo/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary">Saber Más</a></p>
+            <p><a href="/directo/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Saber Más</a></p>
         </div>
     </div>
 </div>
