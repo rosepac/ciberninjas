@@ -8,7 +8,7 @@ comments: true
 date: 2019-10-08 12:06:18
 last_modified_at: 2019-11-28 18:36:18
 permalink: /diseño-recursos/
-canonical_URL: https://ciberninjas.com/diseño-grafico/
+canonical_URL: https://ciberninjas.com/diseño-recursos/
 header:
   teaser: https://i.ibb.co/LkcCrb2/diseno-web-unsplash.jpg
   overlay_image: https://i.ibb.co/LkcCrb2/diseno-web-unsplash.jpg
