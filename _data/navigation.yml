@@ -5,8 +5,8 @@ main:
     url: /catalogo/
   - title: "📖 Guías"
     url: /guias/
-  - title: "💡 Quién Soy"
-    url: /quien-soy/
+  - title: "💡 Qué es"
+    url: /que-es-ciberninjas/
   - title: "📁 Archivo"
     url: /blog/
   - title: "🧰 Recursos"
@@ -180,6 +180,42 @@ vtuto:
 #     - title:
 #     url:
 
+libros-espanol:
+  - title: Secciones
+    children:
+      - title: "🗃 Meta-Listas"
+        url: /biblioteca-de-programacion-y-tecnologia/#-meta-listas
+      - title: "📁 Bases de Datos"
+        url: /biblioteca-de-programacion-y-tecnologia/#-bases-de-datos
+      - title: "⛓ Blockchain"
+        url: /biblioteca-de-programacion-y-tecnologia/#-blockchain
+      - title: "🔬 Ciencias de la Computación"
+        url: /biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación
+      - title: "🛒 Comercio Electrónico"
+        url: /cursos-tecnologia/#-comercio-electrónico
+      - title: "👩‍💻 Desarrollo Web"
+        url: /biblioteca-de-programacion-y-tecnologia/#-desarrollo-web
+      - title: "🐧 Ecosistema de Código Abierto"
+        url: /biblioteca-de-programacion-y-tecnologia/#-ecosistema-de-código-abierto
+      - title: "👨‍💻 Lenguajes de Programación"
+        url: /biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programación
+      - title: "👦 Programación Infantil"
+        url: /catalogo/libros/#-programación-infantil
+      - title: "🕸 Redes"
+        url: /catalogo/libros/#-administración-y-redes
+      - title: "🤖 Robótica"
+        url: /biblioteca-de-programacion-y-tecnologia/#-robótica
+      - title: "👮‍♀️ Seguridad"
+        url: /catalogo/libros/#️-seguridad
+      - title: "👷‍♂️ Webmaster"
+        url: /catalogo/libros/#️-webmaster
+      - title: "🎮 Videojuegos"
+        url: /catalogo/libros/#-videojuegos
+      - title: "📚 LIBRERÍA"
+        url: /catalogo/
+      - title: "🎁 TIENDA"
+        url: /catalogo/amazon/
+
 libros:
   - title: Secciones
     children:
@@ -226,7 +262,7 @@ cursos-espanol:
       - title: "🛒 Comercio Electrónico"
         url: /cursos-tecnologia/#-comercio-electrónico
       - title: "🐧 Ecosistema de Código Abierto"
-        url: /cursos-tecnologia/#-ecosistema-de-código-abierto      
+        url: /cursos-tecnologia/#-ecosistema-de-código-abierto
       - title: "👩‍💻 Desarrollo Web"
         url: /cursos-tecnologia/#-desarrollo-web
       - title: "👨‍🎨 Diseño Web"

@@ -1,9 +1,9 @@
 ---
-title: '¿Qué es Ciberninjas? Escuela Laboratorio “Lab School” de Desarrollo Web y Nuevas Tecnologías de 4ª Generación'
+title: '¿Qué es Ciberninjas?'
 permalink: '/que-es-ciberninjas/'
 canonical_URL: htpps://ciberninjas.com/que-es-ciberninjas/
-description: "Ciberninjas es la escuela laboratorio digital que fomenta el aprendizaje autodidacta de todas las tecnologías de desarrollo y diseño web en español.."
-excerpt: "Ciberninjas es la escuela laboratorio digital que fomenta el aprendizaje autodidacta de todas las tecnologías de desarrollo y diseño web en español.."
+description: "Ciberninjas es la escuela de formación digital que fomenta el aprendizaje autodidacta de las profesiones digitales de las nuevas tecnologías como el desarrollo web y el diseño gráfico."
+excerpt: "Ciberninjas es la escuela de formación digital que fomenta el aprendizaje autodidacta de las profesiones digitales de las nuevas tecnologías como el desarrollo web y el diseño gráfico."
 last_modified_at: 2019-10-04T20:40:42-05:00
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
@@ -12,6 +12,7 @@ last_modified_at: 2019-10-04T20:40:42-05:00
 #   feature: *image
 # twitter:
 #   card: summary_large_image
+classes: wide
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -30,6 +31,8 @@ toc_icon: user-ninja
 toc_sticky: true
 
 ---
+
+## Reflexión 
 
 La **masificación de la información** a lo largo de los últimos 10/12 años ha sido tal, que pensando a lo largo de mi mente en la sobre-saturación de noticias, pensamientos, ideas, notificaciones, etc. **me hacen sentirme personalmente desbordado**.
 
@@ -57,21 +60,21 @@ Ciberninjas no solamente nace en pro de la difusión de contenidos. Además, se 
 
 > *Luchar por la Educación Abierta y Gratuita*
 
-## Principalmente
+### Principalmente
 
 Considero que existe la necesidad de la transformación de los paradigmas de la educación a nivel global si se desea un cambio real; tras eso, llegarían los cambios reales en la igualdad (*igualdad generalizada, en todos los aspectos*) y se lograría iniciar una revolución real, respecto a la problemática ecológica; como un aspecto de vida humana primordial.
 
-## Posteriormente
+### Posteriormente
 
 La necesidad de la re-estructuración del capitalismo. El mundo empresarial, los negocios y el marketing. El fomento de las Start Ups. La creación de espacios de innovación.
 
-## Con lo anterior
+### Con lo anterior
 
 Únicamente citaba, lo que para mí, son temáticas de pensamiento ideológico que merecen la pena ser difundidas y compartidas, persona a persona si es necesario.
 
 En búsqueda de la inclusión y transformación de la sociedad actual hacía el pleno saber y que así,  exista una mayor posibilidad de aprovechamiento respecto a las posibilidades existentes en nuestro alrededor.
 
-## Los Objetivos*
+## Objetivos
 
 Me centro en compartir información de calidad como apoyo al estudio de todas las nuevas tecnologías del Siglo XXI en pro de lograr introducir, mejorar, aportar, afianzar o adaptar al máximo número de colectivos e individuos posibles dentro de los nuevos paradigmas a los que se enfrenta la sociedad en la actualidad.
 
@@ -105,10 +108,14 @@ A saber, entre otros:
 - Recursos y herramientas de desarrollo web, diseño, programación, técnicas de webmaster, seo, posicionamiento; y más.
 - Seguridad, etc, etc.
 
+## ¿Qué es Ciberninjas?
+
+Una escuela laboratorio o Lab School que tan de moda están; centrada en el Desarrollo Web <!-- el diseño gráfico--> y las Nuevas Tecnologías creada para todos los usuarios de la 4ª Generación de Internet.
+
 🚧 👇 CONTENIDO POR REVISAR 👇 🚧
 {: .notice--warning}
 
-Si lo que deseas es mantenerte al día de las noticias de tecnología competentes a las nuevas librerías de programación web o realizar consultas de desarrollo o diseño, lo ideal es que nos sigas a través de [Twitter](https://l.facebook.com/l.php?u=https%3A%2F%2Fkutt.it%2Fciberninjast%3Ffbclid%3DIwAR2zu86U-VuHifNCkR4JthI55vgs1QISBLKhwoejj9qtfqdnBGMKCqUtH04&h=AT1RwyGffvfcq8M2hmOYs8mCBRiD32diEK7cEIfOC6Kz-gD6yLeV0ef0hu0UHqxPmK2d6jOeUri5b-qoO0KFq1rl54GsQrciMWihyHBtT-0NcsKfrS6c2Je5gN4Cs_UoKBtrtshTwx-ZLioVsWE) y que me visites de vez en cuando en [Discord](https://l.facebook.com/l.php?u=https%3A%2F%2Fkutt.it%2Fciberninjas_discord%3Ffbclid%3DIwAR3GZTUNykRzM7VClCwuQr7rzi45BjmLPgehR5DRkxvB0mbvfT8vM_-DAOA&h=AT3K-GPtW9UbBVbulrHanMel4wvejZwz1mWl0s6U2K7ih2ea1_U0yz2sf1KNi7Qj4vRdeKLG2e2RhEsvzMLvohnZ62CMlRZDGH2771JI2doaG68m3rRkrTBeEzeF4z_D7hegm5BVDEBF_dJkulo) con los mejores canales automatizados de los últimos blogs y actualizaciones sobre: 
+Si lo que deseas es mantenerte al día de las noticias de tecnología competentes a las nuevas librerías de programación web o realizar consultas de desarrollo o diseño, lo ideal es que nos sigas a través de [Twitter](https://kutt.it/ciberninjast "El Twitter de los Ciberninjas"), también puedes [revisar la actualidad](/directo/) a través de mis listas de Twitter (que aún estoy creando..) y que me visites en nuestro comunidad [Discord](https://kutt.it/ciberninjas_discord "Chat de la Comunidad Ciberninjas") donde puedes encontrar  mejores canales automatizados de los últimos blogs y actualizaciones sobre: 
 
 - Desarrolladores
 - Angular
@@ -139,3 +146,17 @@ La idea de todo esto es hacer una [Bibliotecas de libros](https://l.facebook.com
 Protegiendo *el diseño, la imagen y el sonido*
 
 > [*¡¡¡Los Donativos Ayudan a que esto Siga Creciendo!!!*](https://kutt.it/donativo?fbclid=IwAR3gvtDS9LdfXLszgGUcaAQ6HFGDR3dMyHZrD9-KBLETzLGtKFO8qaKKWTY)
+
+[👈 VOLVER A CIBERNINJAS 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
+[📚 LIBROS GRATIS 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🛒 Catálogo de Libros 👨‍💻](/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🎓 CURSOS GRATIS 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 ÚNETE A LA COMUNIDAD 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 TWITTER 🐤](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 FACEBOOK 📘](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 DISCORD 💭](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
+[💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--x-large .align-center}
+[☕ Invítame a Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--x-large .align-center}
+[🎁 Pásame Criptos 🤘](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 Discord 💭](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
