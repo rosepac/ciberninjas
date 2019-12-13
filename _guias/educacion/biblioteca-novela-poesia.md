@@ -1,5 +1,5 @@
 ---
-title: ✍ ▷ Cómo Acceder a las Novelas y Poesías Clásicas de la Historia de España?
+title: ✍ ▷ Bibliotecas y Obras de Dominio Público en Español y Otros Idiomas
 description: "✒ ▷ Páginas web a través de las que tener acceso a las novelas y poesías clásicas de la historia de España y más."
 excerpt: "✒ ▷ Páginas web a través de las que tener acceso a las novelas y poesías clásicas de la historia de España y más."
 author_profile: true
@@ -22,6 +22,7 @@ toc_sticky: true
 
 ## Bibliotecas Web
 
+* [Dominio Público](http://www.dominiopublico.es){:target="_blank"}
 * [OMEGALFA](https://omegalfa.es/){:target="_blank"}
   * [Autores - 1.264](https://omegalfa.es/autores.php){:target="_blank"}
   * [Títulos - 3.675](https://omegalfa.es/titulos.php){:target="_blank"}
@@ -57,6 +58,13 @@ toc_sticky: true
 
 * [Cuentos ILCE](http://bibliotecadigital.ilce.edu.mx/Colecciones/index.php?clave=CuentosMas){:target="_blank"}
 
+## Bibliotecas en Otros Lenguajes
+
+* [Literatura Clásica Nórdica - Proyecto Runeberg](http://runeberg.org/katalog.html) (5.586 Libros Disponibles en Danés, Finés, Sueco, Noruego, Alemán e Inglés)
+* [Liber Liber - Proyecto Italiano](https://www.liberliber.it/online/autori/)
+* [Dodecaedro.it](http://www.dodecaedro.it/biblioteca.php) (Libros de dominio público en italiano) (Archivos en formato .it)
+<!-- meter enlaces de http://www.dominiopublico.es/ -->
+
 ## Autores Destacados Personalmente *
 
 * [OMEGALFA](https://omegalfa.es/buscador.php)
@@ -65,7 +73,9 @@ Búsquedas Sugeridas: Poesía Crítica, Poesía Social, Buero Vallejo, Miguel He
 
 ## Artes y Bellas Artes
 
-* [Real Academia de Bellas Artes de San Fernando](http://www.realacademiabellasartessanfernando.com/es) [Calcografía Nacional](http://www.realacademiabellasartessanfernando.com/es/calcografia-nacional){:target="_blank"} [La Academia de Goya](http://www.realacademiabellasartessanfernando.com/es/goya/la-academia-y-goya){:target="_blank"}
+* [Real Academia de Bellas Artes de San Fernando](http://www.realacademiabellasartessanfernando.com/es)
+  * [Calcografía Nacional](http://www.realacademiabellasartessanfernando.com/es/calcografia-nacional){:target="_blank"}
+  * [La Academia de Goya](http://www.realacademiabellasartessanfernando.com/es/goya/la-academia-y-goya){:target="_blank"}
 
 ## SIGLAS
 
