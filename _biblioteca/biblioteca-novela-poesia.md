@@ -8,7 +8,7 @@ comments: true
 date: 2019-10-17
 last_modified_at: 
 permalink: /biblioteca-novela-poesia/
-canonical_URL: https://ciberninjas.com/biblioteca-clasica/
+canonical_URL: https://ciberninjas.com/biblioteca-novela-poesia/
 header:
   overlay_image: "https://i.ibb.co/L8qwgDj/photo-1447069387593-a5de0862481e-ixlib-rb-1-2.jpg"
   image_alt: "📚 Enlaces a Miles de libros PDF gratuitos y de dominio publico."
