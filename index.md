@@ -9,12 +9,16 @@ header:
   teaser: /assets/images/logos/ciberninjas-emoji-160-110px.png
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: https://i.ibb.co/YtxPdHf/photo-1535551951406-a19828b0a76b-ixlib-rb-1-2.jpg
+  overlay_image: https://i.ibb.co/kDrKP82/hola-mundo-ciberninjas.jpg
   actions:
     - label: "🎓 Cursos"
       url: "/cursos-tecnologia/"
-    - label: "📖 Libros"
+    - label: "👨‍💻 Libros"
       url: "/biblioteca-de-programacion-y-tecnologia/"
+    - label: "📖 Biblioteca"
+      url: "/biblioteca-novela-poesia/"
+    - label: "🛒 Librería"
+      url: "/biblioteca-novela-poesia/"
   caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
 excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.."
 ---

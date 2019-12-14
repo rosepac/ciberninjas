@@ -93,6 +93,7 @@ sidebar:
 * [Conceptos elementales de computadores](http://lorca.act.uji.es/libro/conceptos_elementales_de_computadores.pdf){:target="_blank"} (PDF)
 * [Control de efectos del retraso en sistemas de tiempo real planificados con EDF](https://www.ctr.unican.es/publications/jll-jcp-2005a.pdf){:target="_blank"} (PDF)
 * [Industria 4.0: Tendencias de la literatura académica reciente](http://revistaespacios.com/a19v40n30/a19v40n30p27.pdf){:target="_blank"} (2019) (PDF)
+* [Introducción al pensamiento computacional: Conceptos básicos para todos](http://amexcomp.mx/files/libro/LibroPC.pdf){:target="_blank"} (PDF)
 * [La Cuarta Revolución Industrial Está Aquí - ¿Está usted preparado?](https://www2.deloitte.com/content/dam/Deloitte/co/Documents/about-deloitte/Revoluci%C3%B3n%204.0%20142201.pdf){:target="_blank"} (PDF)
 * [La Cuarta Revolución Industrial: Un relato desde el materialismo cultural](http://repositorio.ual.es/bitstream/handle/10835/4809/LA%20CUARTA%20REVOLUCION%20INDUSTRIAL.pdf){:target="_blank"} (2016) (PDF)
 * [Metamodelo UML para el modelado de tiempo real de aplicaciones distribuidas basadas en componentes](https://www.ctr.unican.es/publications/plm-jmd-jlm-2006a.pdf){:target="_blank"} (PDF)
@@ -299,6 +300,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Principales vulnerabilidades de los sistemas de automatización industrial y posibles acciones para evitar ciberataques](https://www.ehu.eus/documents/3444171/4484751/121.pdf){:target="_blank"} (PDF)
 * [Protocolos y seguridad de red en SCI](https://www.certsi.es/sites/default/files/contenidos/guias/doc/incibe_protocolos_seguridad_red_sci.pdf){:target="_blank"} (PDF)
 * [Seguridad en aplicaciones web](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/33721/6/isidoro_ciervaTFM0614memoria.pdf){:target="_blank"} (PDF)
+* [Seguridad en Redes Wifi](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-de-seguridad-en-redes-wifi.pdf) (PDF)
 * [Seguridad en servicios de almacenamiento: Análisis de Dropbox y Mega](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/incibe_seguridad_almacenamiento_dropbox_mega.pdf){:target="_blank"} (PDF)
 * [Situación del malware para Android](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/situacion_del_malware_para_android.pdf){:target="_blank"} (PDF)
 * [Taxonomía de ciberejercicios](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/incibe_taxonomia_ciberejercicios.pdf){:target="_blank"} (PDF)
@@ -312,7 +314,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Aulas en red. Aplicaciones y servicios. Linux](http://www.ite.educacion.es/formacion/materiales/85/cd/linux/indice.htm){:target="_blank"}
 * [Aulas en red. Aplicaciones y servicios. Windows](http://www.ite.educacion.es/formacion/materiales/85/cd/windows/indice.htm){:target="_blank"}
 * [Redes. Contenido de Cisco: CCNA](http://nksistemas.com/curso-de-redes-online-contenidos-de-ccna){:target="_blank"} (HTML)
-* [Técnicas para armado de redes LAN utilizando Software Libre ](https://fortinux.com/wp-content/uploads/2010/12/redes.pdf){:target="_blank"} (PDF)
+* [Técnicas para armado de redes LAN utilizando Software Libre](https://fortinux.com/wp-content/uploads/2010/12/redes.pdf){:target="_blank"} (PDF)
 
 ### Virtualización
 
