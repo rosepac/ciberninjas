@@ -1,7 +1,7 @@
 ---
-title: ✍ ▷ Bibliotecas y Obras de Dominio Público en Español y Otros Idiomas
-description: "✒ ▷ Páginas web a través de las que tener acceso a las novelas y poesías clásicas de la historia de España y más."
-excerpt: "✒ ▷ Páginas web a través de las que tener acceso a las novelas y poesías clásicas de la historia de España y más."
+title: ▷ Libros y Bibliotecas Completas Gratis bajo Dominio Público en Español y Otros Idiomas
+description: "📚 Enlaces a Miles de libros PDF gratuitos y de dominio publico."
+excerpt: "📚 Enlaces a Miles de libros PDF gratuitos y de dominio publico."
 author_profile: true
 published: true
 comments: true
@@ -10,9 +10,9 @@ last_modified_at:
 permalink: /biblioteca-novela-poesia/
 canonical_URL: https://ciberninjas.com/biblioteca-clasica/
 header:
-  image: "https://i.ibb.co/L8qwgDj/photo-1447069387593-a5de0862481e-ixlib-rb-1-2.jpg"
-#   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
-#   caption: "**Créditos**: Creación Propia"
+  overlay_image: "https://i.ibb.co/L8qwgDj/photo-1447069387593-a5de0862481e-ixlib-rb-1-2.jpg"
+  image_alt: "📚 Enlaces a Miles de libros PDF gratuitos y de dominio publico."
+  image_description: "📚 Enlaces a Miles de libros PDF gratuitos y de dominio publico."
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

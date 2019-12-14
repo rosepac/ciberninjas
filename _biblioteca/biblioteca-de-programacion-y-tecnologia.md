@@ -34,7 +34,7 @@ sidebar:
 
 * [Aprender Python](https://kutt.it/meta-aprendiendo-python){:target="_blank"} - Python Argentina
 * [Apuntes Completos de Desarrollo Web](https://kutt.it/apuntes-desarrollo-web-jorge){:target="_blank"} - Jorge Sánchez
-* [Bibliotecas de Libros Digitales en Abierto](/libros-educación){:target="_blank"}
+* [Bibliotecas de Libros Digitales en Abierto](/biblioteca-novela-poesia/){:target="_blank"}
 * [Biblioteca Virtual: Miguel de Cervantes](http://www.cervantesvirtual.com){:target="_blank"}
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://kutt.it/apuntes-aplicaciones-web-comesana){:target="_blank"} - José Luis Comesaña (Github)
 * [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://kutt.it/web-javier-escobedo){:target="_blank"} - Javier García Escobedo
@@ -62,6 +62,8 @@ sidebar:
 
 ## 📁 Bases de Datos
 
+[Big Data 👨‍👩‍👦](/biblioteca-de-programacion-y-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [Machine Learning](/biblioteca-de-programacion-y-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large} [SQL](/biblioteca-de-programacion-y-tecnologia/#sql){: .btn .btn--inverse .btn--large}
+
 * [Apuntes Básicas de SQL](https://openlibra.com/es/book/download/apuntes-basicos-de-sql){:target="_blank"} - Unai Estébanez (PDF)
 * [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf){:target="_blank"} - Univ. Alicante (PDF)
 * [Base de Datos (2005)](http://www.uoc.edu/masters/oficiales/img/913.pdf){:target="_blank"} - Mercedes Marqués (PDF)
@@ -75,6 +77,11 @@ sidebar:
 * [Extracción de conocimiento en grandes bases de datos utilizando estrategias adaptativas](http://sedici.unlp.edu.ar/bitstream/handle/10915/35555/Documento_completo.pdf){:target="_blank"} (PDF)
 * [Principios sobre bases de datos relacionales](http://cmapspublic2.ihmc.us/rid=1P2RVCGBV-1PKTG1T-2B2B/Principios%20de%20bases%20de%20datos%20relacionales.pdf){:target="_blank"} (PDF)
 * [Usando Oracle SQL y PL/SQL](https://issuu.com/aulacero21/docs/gesti_n_de_bases_de_datos_-_jorge_s_nchez___oracle/61){:target="_blank"} (HTML)
+
+## SQL
+
+* [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html){:target="_blank"} (HTML)
+* [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/){:target="_blank"} (HTML)
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -97,45 +104,58 @@ sidebar:
 
 ## Algoritmos 🔡
 
-* [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Aprenda a programar como si estuviera en primero](https://openlibra.com/es/book/download/aprenda-a-programar-como-si-estuviera-en-primero){:target="_blank"}{:target="_blank"} (PDF)
-* [Apuntes de Algoritmos y Estructuras de Datos](https://146fd953-a-62cb3a1a-s-sites.googlegroups.com/site/prog3unlp/home/exp_algoritmos.pdf?attachauth=ANoY7cpP-tS9_7vAio7Zm7sr3kuK_rfKNFRjLCLT99k8BTxN1ZNUtYwkeTHPmCXHGmk3ruFmw6gXJxFI7eUElxP-6__Z28cUtYQDYg0HzZ104WMkc1i3TbQ2NMyQejkUvw1Xj5jY4tig4ghNyQhesMV2yogm33JkaNyVIQsKFu7J6mn__taPYsCcgzb5GwdhQECVJYrA3RBakA9jTXXWx6gA9p7i8hb_je8g9W3r35eN9AE0I9uGb8U%3D&attredirects=0){:target="_blank"}{:target="_blank"} (PDF)
-* [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [DevOps: La Perspectiva de las Operaciones](https://leanpub.com/devops-the-ops-perspective-spanish?){:target="_blank"}{:target="_blank"} (PDF)
-* [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html){:target="_blank"}{:target="_blank"} (HTML)
-* [Fundamentos de la Programación](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Introducción al desarrollo del software](http://softlibre.unizar.es/manuales/linux/reference.es.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Temas selectos de estructuras de datos](http://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos){:target="_blank"}{:target="_blank"} (Bubok)
+* [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf){:target="_blank"} (PDF)
+* [Aprenda a programar como si estuviera en primero](https://openlibra.com/es/book/download/aprenda-a-programar-como-si-estuviera-en-primero){:target="_blank"} (PDF)
+* [Apuntes de Algoritmos y Estructuras de Datos](https://146fd953-a-62cb3a1a-s-sites.googlegroups.com/site/prog3unlp/home/exp_algoritmos.pdf?attachauth=ANoY7cpP-tS9_7vAio7Zm7sr3kuK_rfKNFRjLCLT99k8BTxN1ZNUtYwkeTHPmCXHGmk3ruFmw6gXJxFI7eUElxP-6__Z28cUtYQDYg0HzZ104WMkc1i3TbQ2NMyQejkUvw1Xj5jY4tig4ghNyQhesMV2yogm33JkaNyVIQsKFu7J6mn__taPYsCcgzb5GwdhQECVJYrA3RBakA9jTXXWx6gA9p7i8hb_je8g9W3r35eN9AE0I9uGb8U%3D&attredirects=0){:target="_blank"} (PDF)
+* [Breves Notas sobre Análisis de Algoritmos](http://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf){:target="_blank"} (PDF)
+* [DevOps: La Perspectiva de las Operaciones](https://leanpub.com/devops-the-ops-perspective-spanish?){:target="_blank"} (PDF)
+* [Fundamentos de Informática y Programación](http://robotica.uv.es/Libro/Indice.html){:target="_blank"} (HTML)
+* [Fundamentos de la Programación](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf){:target="_blank"} (PDF)
+* [Introducción al desarrollo del software](http://softlibre.unizar.es/manuales/linux/reference.es.pdf){:target="_blank"} (PDF)
+* [Temas selectos de estructuras de datos](http://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf){:target="_blank"} (PDF)
+* [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos){:target="_blank"} (Bubok)
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## ⛓ Blockchain
 
+[Cadena de Bloques 🔗](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fab fa-bitcoin"></i>](/biblioteca-de-programacion-y-tecnologia/#bitcoin-){: .btn .btn--inverse .btn--large}
+
 ## Cadena de Bloques 🔗
 
-* [Análisis y Comparación de Monedas Criptográficas Basadas en la Tecnología Blockchain (2016)](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/56344/8/mmedinareyTFM0616memoria.pdf){:target="_blank"}{:target="_blank"} (PDF)
+* [Análisis y Comparación de Monedas Criptográficas Basadas en la Tecnología Blockchain (2016)](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/56344/8/mmedinareyTFM0616memoria.pdf){:target="_blank"} (PDF)
+* [Aspectos jurídicos de las criptomonedas](https://blockchainintelligence.es/wp-content/uploads/2019/04/Art%C3%ADculo-doctrinal_Apectos-jur%C3%ADficos-de-las-criptomonedas-por-M-de-la-Concepci%C3%B3n-Chamorro-Rodr%C3%ADguez.pdf){:target="_blank"} (PDF)
+* [Blockchain en Salud, ¿Quimera o Realidad?](https://seis.es/wp-content/uploads/2018/04/128.pdf)
+* [Blockchain y las posibilidades que ofrece para una nueva economía urbana](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/93126/1/Sunyer%2C%20R._Blockchain.pdf) (PDF) (2018)
+* [La nueva economía blockchain y criptomonedas en 100 preguntas](https://www.nowtilus.com/descargas/FragmentoLanuevaeconomiablockchainycriptomonedas100.pdf) (PDF) 2019
+* [La Tecnología Blockchain en América Latina](https://www.iberoamericajournal.ru/sites/default/files/2019/3/naumenko.pdf) (PDF) (2019)
+* [Plataformas blockchain y escenarios de uso](https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/20541/1/tg-pereira-toscano-villar.pdf) (PDF) (2019)
+* [Tecnología blockchain, una nueva era para la empresa](https://accid.org/wp-content/uploads/2019/04/Tecnolog%C3%ADa_blockchain__una_nueva_era_para_la_empresa_L_Parrondologo.pdf) {:target="_blank"} (PDF) (2018)
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Criptomonedas 💰
 
+* [Criptomonedas (en especial, bitcoin) y blanqueo de dinero](http://criminet.ugr.es/recpc/21/recpc21-14.pdf) (PDF)
+* [Riesgos y beneficios de las criptomonedas en la Economía Global (2017)](http://munesen.org/wp-content/uploads/2016/02/BANCO-MUNDIAL.pdf){:target="_blank"} (PDF)
+
 ### Bitcoin <i class="fab fa-bitcoin"></i>
 
-* [Bitcoin: Un Sistema de Efectivo Electrónico Usuario-a-Usuario](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Bitcoin: Una moneda criptográfica](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_bitcoin.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Bitcoin: Una visión general](http://www.revista.unam.mx/vol.18/num1/art11/art11.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Blockchain: Mirando más allá del Bitcoin](http://marketing.asobancaria.com/hubfs/Asobancaria%20Eventos/Asobancaria%20-%20Semanas-Economicas/1084.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Blockchain para periodistas y medios de comunicación (2017)](http://incomchile.cl/wp-content/uploads/2012/03/Blockchain-periodismo.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Curso de Bitcoin, Blockchain, Icos $& Criptomonedas](https://guiabitcoin.com/wp-content/uploads/2018/01/MODULO-1-Tus-Primeros-Pasos-en-el-Mundo-de-las-Criptomonedas.pdf){:target="_blank"}{:target="_blank"}
-* [Guía básica de ETHEREUM](https://coinpy.net/assets/docs/eth-guide-es.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [La economía de Blockchain (2016)](http://trbc.es/wp-content/uploads/2017/10/La-economi%CC%81a-de-Blockchain.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [La era de las BLOCK punto COM](http://laeradelasblock.com/?download=490){:target="_blank"}{:target="_blank"} (PDF) (descarga directa)
-* [Mastering Bitcoin en Español](https://bitcoinbook.info/wp-content/translations/es/book.pdf){:target="_blank"}{:target="_blank"}
-* [Riesgos y beneficios de las criptomonedas en la Economía Global (2017)](http://munesen.org/wp-content/uploads/2016/02/BANCO-MUNDIAL.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Tecnología Blockchain. Caso de estudio: el Bitcoin](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/04.pdf){:target="_blank"}{:target="_blank"} (PDF)
+* [Bitcoin: Un Sistema de Efectivo Electrónico Usuario-a-Usuario](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf){:target="_blank"} (PDF)
+* [Bitcoin: Una moneda criptográfica](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_bitcoin.pdf){:target="_blank"} (PDF)
+* [Bitcoin: Una visión general](http://www.revista.unam.mx/vol.18/num1/art11/art11.pdf){:target="_blank"} (PDF)
+* [Bitcoin & blockchain: ¿la criptomoneda y la tecnología que pueden transformar el mundo?](https://repository.eafit.edu.co/bitstream/handle/10784/13591/LuisaFernanda_FlorezCano_SandraMilena_VillegasSerna_2019.pdf) (PDF) (2019)
+* [Blockchain: Mirando más allá del Bitcoin](http://marketing.asobancaria.com/hubfs/Asobancaria%20Eventos/Asobancaria%20-%20Semanas-Economicas/1084.pdf){:target="_blank"} (PDF)
+* [Blockchain para periodistas y medios de comunicación (2017)](http://incomchile.cl/wp-content/uploads/2012/03/Blockchain-periodismo.pdf){:target="_blank"} (PDF)
+* [Curso de Bitcoin, Blockchain, Icos $& Criptomonedas](https://guiabitcoin.com/wp-content/uploads/2018/01/MODULO-1-Tus-Primeros-Pasos-en-el-Mundo-de-las-Criptomonedas.pdf){:target="_blank"}
+* [La economía de Blockchain (2016)](http://trbc.es/wp-content/uploads/2017/10/La-economi%CC%81a-de-Blockchain.pdf){:target="_blank"} (PDF)
+* [La era de las BLOCK punto COM](http://laeradelasblock.com/?download=490){:target="_blank"} (PDF) (descarga directa)
+* [Mastering Bitcoin en Español](https://bitcoinbook.info/wp-content/translations/es/book.pdf){:target="_blank"}
+* [Tecnología Blockchain. Caso de estudio: el Bitcoin](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/04.pdf){:target="_blank"} (PDF)
 
 ### Ethereum <i class="fab fa-ethereum"></i>
+
+* [Guía básica de ETHEREUM](https://coinpy.net/assets/docs/eth-guide-es.pdf){:target="_blank"} (PDF)
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -212,12 +232,12 @@ sidebar:
 
 ## Inteligencia Artificial
 
-* [Principios y Aplicaciones de Inteligencia Artificial](https://leanpub.com/inteligencia_artificial?){:target="_blank"}{:target="_blank"}
+* [Principios y Aplicaciones de Inteligencia Artificial](https://leanpub.com/inteligencia_artificial?){:target="_blank"}
 
 ## Misceláneos
 
-* [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html){:target="_blank"}{:target="_blank"} (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/){:target="_blank"}{:target="_blank"}
-* [Latino. Lenguaje de programación](https://github.com/primitivorm/latino/blob/master/README.md#qu%C3%A9-es-lenguaje-latino){:target="_blank"}{:target="_blank"} (HTML)
+* [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html){:target="_blank"} (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/){:target="_blank"}
+* [Latino. Lenguaje de programación](https://github.com/primitivorm/latino/blob/master/README.md#qu%C3%A9-es-lenguaje-latino){:target="_blank"} (HTML)
 
 ## 👨‍🔧 Montaje & Mantenimiento
 
@@ -231,7 +251,9 @@ sidebar:
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## 👦 Programación Niñ@s / Inicial
+## 👦 Programación Infantil
+
+[App Inventor](/cursos-tecnologia/#app-inventor){: .btn .btn--inverse .btn--large} [Scratch <i class="fas fa-paw"></i>](/cursos-tecnologia/#scratch-){: .btn .btn--inverse .btn--large}
 
 ### App Inventor
 
@@ -344,6 +366,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [InterFases](https://dialnet.unirioja.es/servlet/revista?codigo=25214){:target="_blank"}
 * [Procesamiento del Lenguaje Natural](http://www.redalyc.org/revista.oa?id=5157){:target="_blank"} (HTML)
 * [Revistas de Computación](http://www.bibliotic.unam.mx/revista.html){:target="_blank"} (HTML)
+* [Revista de la Sociedad Española de la Informática y la Salud](https://seis.es/revista-is) (PDF) 2019 \ 139 Ediciones Mensuales
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -383,7 +406,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 ## Docker <i class="fab fa-docker"></i>
 
 * [Docker](https://github.com/brunocascio/docker-espanol#docker){:target="_blank"} (Github)
-* [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf){:target="_blank"}{:target="_blank"} (PDF)
+* [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf){:target="_blank"} (PDF)
 
 ## Bootstrap <i class="fab fa-bootstrap"></i>
 
@@ -644,13 +667,6 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf){:target="_blank"} (PDF)
 * [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es#traducción-del-libro-scala-by-example-al-español){:target="_blank"} (Github) (:construction: *en proceso*)
 
-
-## SQL
-
-* [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html){:target="_blank"} (HTML)
-* [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/){:target="_blank"} (HTML)
-
-
 ## SVG
 
 * [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/){:target="_blank"} (Descarga PDF)
@@ -678,9 +694,9 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 
 ## 🎮 Programación de Videojuegos
 
-* [Desarrollo de juegos en 2D usando Java y Microsoft XNA](https://openlibra.com/es/book/download/desarrollo-de-juegos-en-2d-usando-java-y-microsoft-xna){:target="_blank"}{:target="_blank"} (PDF  )
-* [Godot. Motor de Videojuegos - Documentación](https://media.readthedocs.org/pdf/godot-doc-en-espanol/latest/godot-doc-en-espanol.pdf){:target="_blank"}{:target="_blank"} (PDF)
-* [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf){:target="_blank"}{:target="_blank"} (PDF)
+* [Desarrollo de juegos en 2D usando Java y Microsoft XNA](https://openlibra.com/es/book/download/desarrollo-de-juegos-en-2d-usando-java-y-microsoft-xna){:target="_blank"} (PDF  )
+* [Godot. Motor de Videojuegos - Documentación](https://media.readthedocs.org/pdf/godot-doc-en-espanol/latest/godot-doc-en-espanol.pdf){:target="_blank"} (PDF)
+* [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf){:target="_blank"} (PDF)
 
 ## ✍ Sistemas de Gestión de Contenidos
 

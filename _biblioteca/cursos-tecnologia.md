@@ -1,6 +1,6 @@
 ---
 # Página Base
-title: "🎓 ▷ Cursos de Tecnología"
+title: "🎓 ▷ Los Mejores Cursos de Programación y Tecnología Gratis"
 description: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 author_profile: false
