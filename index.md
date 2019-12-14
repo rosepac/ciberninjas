@@ -15,10 +15,12 @@ header:
       url: "/cursos-tecnologia/"
     - label: "👨‍💻 Libros"
       url: "/biblioteca-de-programacion-y-tecnologia/"
-    - label: "📖 Biblioteca"
+    - label: "📚 Biblioteca"
       url: "/biblioteca-novela-poesia/"
     - label: "🛒 Librería"
       url: "/biblioteca-novela-poesia/"
+    - label: "🎁 Recursos"
+      url: "/amazon/"
   caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
 excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.."
 ---
@@ -34,7 +36,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador.</p>
             </div>
-            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--primary">Saber Más</a> <a href="/quien-soy/" class="btn btn--inverse">💡 Quién Soy</a></p>
+            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--primary">Saber Más</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">💡 Quién Soy</a></p>
         </div>
     </div>
 </div>
