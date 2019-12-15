@@ -5,7 +5,7 @@ description: "▷ Videojuegos Gratis ✌️ Juegos Gratuitos para las Vacaciones
 excerpt: "▷ Videojuegos Gratis ✌️ Juegos Gratuitos para las Vacaciones de Navidad ⭐️"
 permalink: /videojuegos-gratis/
 header:
-  teaser: https://i.ibb.co/2WqF3VD/videojuegos-vicio-vacaciones.gif
+  teaser: https://i.ibb.co/cvCZqW2/gamer-jugando.gif
   overlay_image: https://i.ibb.co/9NKKXb3/gamer-girls-india-redbull-min.jpg
   overlay_filter: 0.2
   image_description: 'Videojuegos gratis para el puente de la Constitución y Navidad | Ciberninjas'
@@ -76,6 +76,16 @@ Es un juego de estrategia jugado desde una perspectiva de shooter. El jugador, q
 [🎮 GRATIS HASTA EL 19/12/2019 🎮](https://www.epicgames.com/store/es-ES/product/the-escapists/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## Juegos Gratis Cada Día
+
+![](https://i.ibb.co/G2c08Vy/image.png "Quibic Games juegos gratis cada día hasta el día 24 de Diciembre")
+
+Quibic Games celebra 15 años, la empresa desarrolladora de juegos para la consola Nintendo Switch va a regala 10 diferentes videojuegos a partir de hoy día 15, con la condición de tener un juego de Quibic instalado antes de mañana; día 16.
+
+Comienzan regalando Robonautas, y en los próximos días regalaran los siguientes videojuegos: Geki Yaba Runner, Puzzle Book, One Strike, Wreckin Ball Adventure, Koloro, RaceDieRun, Rekt, Maná Spark y un último juego sorpresa.
+
+[🎮 DESCARGAR GRATIS 🎮](https://qubicgames.com/15years/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## VIDEOJUEGOS RETRO 🕹
 
