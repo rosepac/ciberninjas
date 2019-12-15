@@ -319,6 +319,4 @@ La exploración generalmente implica explorar varias etapas, con algunos gigante
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 [📰 Noticias Videojuegos](/directo/){: .btn .btn--warning .btn--large .align-center}
-[🎨 Wallpapers](/directo/){: .btn .btn--warning .btn--large .align-center}
-<a href="https://ibb.co/1LyyVrJ"><img src="https://i.ibb.co/bPwwhsR/gamer-girls-india-redbull-min.jpg" alt="gamer-girls-india-redbull-min" border="0"></a>
-<a href="https://ibb.co/Lddt9sp"><img src="https://i.ibb.co/hFFW2T8/gamer-girl.jpg" alt="gamer-girl" border="0"></a>
+[🎨 Wallpapers](https://ibb.co/album/bKkgdv){: .btn .btn--warning .btn--large .align-center}
