@@ -1,8 +1,8 @@
 ---
 author_profile: true
 title: "▷ Videojuegos Gratis durante las Vacaciones de Navidad"
-description: "🌟 Los Mejores Videojuegos Gratuitos durante Diciembre y las Vacaciones de Navidad"
-excerpt: "🌟 Los Mejores Videojuegos Gratuitos durante Diciembre y las Vacaciones de Navidad"
+description: "🌟 Los Mejores Videojuegos Gratuitos para las Vacaciones Navideñas"
+excerpt: "🌟 Los Mejores Videojuegos Gratuitos para las Vacaciones Navideñas"
 permalink: /videojuegos-gratis/
 header:
   teaser: https://i.ibb.co/cvCZqW2/gamer-jugando.gif
@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.2
   image_description: 'Los Mejores Videojuegos Gratuitos durante Diciembre y las vacaciones de Navidad | Ciberninjas'
   image_alt: 'Los Mejores Videojuegos Gratuitos durante Diciembre y las vacaciones de Navidad | Ciberninjas'
-  caption: "**Flickr**: [@awee_19](https://www.flickr.com/photos/mystical-mii/)"
+  caption: "**Flickr**: [@ awee_19](https://www.flickr.com/photos/mystical-mii/)"
 #  actions:
 #    - label: "Black Friday 2019"
 #      url: "/black-friday-amazon/"
