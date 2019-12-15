@@ -36,11 +36,13 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador.</p>
             </div>
-            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--primary">Saber Más</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">💡 Quién Soy</a></p>
+            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--primary tn--large">Saber Más</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">💡 Quién Soy</a></p>
         </div>
     </div>
 </div>
 </div>
+<!-- textos intercalados -->
+<p>El sitio perfecto para desarrolladores web y diseñadores gráficosestudiantes y profesores</p>
 <!-- CAJA 2 -->
 <div class="feature__wrapper">
 <div class="feature__item--right">
@@ -58,6 +60,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
+<p>El sitio perfecto para la educación: estudiantes, profesores y docentes</p>
 <!-- CAJA 3 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
@@ -66,9 +69,9 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <a href="/amazon/" alt="El Regalazo del Año"><img src="https://i.ibb.co/TK5yj59/regalo-pequeno-disfrutando.gif" alt="Me encanta y amo este pedazo de regalo"></a>
         </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">Tienda</h2>
+            <h2 class="archive__item-title">Regalos y Catálogo de Librería</h2>
             <div class="archive__item-excerpt">
-                <p>Las <strong>mejores ofertas</strong> y <strong>regalos</strong> en relación a la programación y el mundo de la tecnología.</p>
+                <p>Las <strong>mejores ofertas</strong> en libros de programación y <strong>regalos</strong>especiales para geeks o cualquier amante de la computación, la electrónica o los gadgets tecnológicos.</p>
             </div>
             <p><a href="/amazon/" class="btn btn--primary">Saber Más</a></p>
         </div>

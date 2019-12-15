@@ -4,9 +4,9 @@ title: "🔨 ▷ Los Mejores Recursos para Impresoras 3D Gratis"
 description: "🔨 ▷ Los Mejores Recursos para Impresoras 3D Gratis"
 excerpt: "🔨 ▷ Los Mejores Recursos para Impresoras 3D Gratis"
 author_profile: false
-published: false
-date: 2019-14-12T13:32:42+01:00
-last_modified_at: 2019-14-12T13:42:42+01:00
+published: true
+date: 2019-12-14T13:32:42+01:00
+last_modified_at: 2019-12-14T13:42:42+01:00
 permalink: /impresoras-3d-recursos/
 canonical_URL: https://ciberninjas.com/impresoras-3d-recursos/
 header:
@@ -38,7 +38,6 @@ header:
 * [Prusa Printers](https://www.prusaprinters.org/prints) (7768 Modelos)
   * [Colección de Navidad](https://www.prusaprinters.org/social/16-prusa-research/collections/7050)
 * [Cults3D](https://cults3d.com/en/search?utf8=%E2%9C%93&q=free) (6498 Modelos Gratuitos) 
-
 
 * [CGTrader](https://www.cgtrader.com/free-3d-models) No es exclusivamente de modelos 3D. Ofrece: Modelos 3D gratuitos disponibles para descargar desde el automóvil a activos 3D humanos . Disponible en varios formatos de archivo, incluidos MAX, OBJ, FBX, 3DS, STL, C4D, BLEND, MA, MB. Encuentre modelos 3D profesionales para cualquier proyecto de diseño 3D como realidad virtual (VR), realidad aumentada (AR), juegos, visualización o animación de arquitectura 3D.
 * [GrabCAD](https://grabcad.com/library/category/3d-printing?page=1&per_page=20&time=all_time&sort=most_downloaded) Nos va a permitir descargar modelos espectaculares..

@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.2
   image_description: 'Los Mejores Videojuegos Gratuitos durante Diciembre y las vacaciones de Navidad | Ciberninjas'
   image_alt: 'Los Mejores Videojuegos Gratuitos durante Diciembre y las vacaciones de Navidad | Ciberninjas'
-  caption: "**Créditos Instagram**: [@ Alimban Dasgupta](https://www.instagram.com/alimbandasgupta/)"
+  caption: "**Flickr**: [@awee_19](https://www.flickr.com/photos/mystical-mii/)"
 #  actions:
 #    - label: "Black Friday 2019"
 #      url: "/black-friday-amazon/"
