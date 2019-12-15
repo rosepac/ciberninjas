@@ -1,15 +1,15 @@
 ---
 author_profile: true
-title: "🎮 Videojuegos Gratis para las Vacaciones de Navidad"
-description: "▷ Videojuegos Gratis ✌️ Juegos Gratuitos para las Vacaciones de Navidad ⭐️"
-excerpt: "▷ Videojuegos Gratis ✌️ Juegos Gratuitos para las Vacaciones de Navidad ⭐️"
+title: "▷ Videojuegos Gratis durante las Vacaciones de Navidad"
+description: "🌟 Los Mejores Videojuegos Gratuitos durante Diciembre y las Vacaciones de Navidad"
+excerpt: "🌟 Los Mejores Videojuegos Gratuitos durante Diciembre y las Vacaciones de Navidad"
 permalink: /videojuegos-gratis/
 header:
   teaser: https://i.ibb.co/cvCZqW2/gamer-jugando.gif
-  overlay_image: https://i.ibb.co/9NKKXb3/gamer-girls-india-redbull-min.jpg
+  overlay_image: https://i.ibb.co/N22jWGY/gamer-girl.jpg
   overlay_filter: 0.2
-  image_description: 'Videojuegos gratis para el puente de la Constitución y Navidad | Ciberninjas'
-  image_alt: 'Videojuegos gratis para el puente de la Constitución y Navidad | Ciberninjas'
+  image_description: 'Los Mejores Videojuegos Gratuitos durante Diciembre y las vacaciones de Navidad | Ciberninjas'
+  image_alt: 'Los Mejores Videojuegos Gratuitos durante Diciembre y las vacaciones de Navidad | Ciberninjas'
   caption: "**Créditos Instagram**: [@ Alimban Dasgupta](https://www.instagram.com/alimbandasgupta/)"
 #  actions:
 #    - label: "Black Friday 2019"
@@ -319,3 +319,6 @@ La exploración generalmente implica explorar varias etapas, con algunos gigante
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 [📰 Noticias Videojuegos](/directo/){: .btn .btn--warning .btn--large .align-center}
+[🎨 Wallpapers](/directo/){: .btn .btn--warning .btn--large .align-center}
+<a href="https://ibb.co/1LyyVrJ"><img src="https://i.ibb.co/bPwwhsR/gamer-girls-india-redbull-min.jpg" alt="gamer-girls-india-redbull-min" border="0"></a>
+<a href="https://ibb.co/Lddt9sp"><img src="https://i.ibb.co/hFFW2T8/gamer-girl.jpg" alt="gamer-girl" border="0"></a>
