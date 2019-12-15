@@ -20,7 +20,7 @@ header:
 #      url: "/disney-frozen-amazon/"
 comments: true
 date: 2019-12-05 18:00:00 +0200
-last_modified_at: 2019-12-11 23:47:18 +0200
+last_modified_at: 2019-12-15 13:47:18 +0200
 published: true
 tags:
   - Videojuegos
@@ -43,24 +43,31 @@ Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fie
 
 ## GRATIS AHORA 🎉 
 
-## Wasteland 2
+## Draw Slasher \ Steam
 
-Wasteland 2 es un videojuego de rol post-apocalíptico desarrollado por inXile Entertainment y publicado por Deep Silver . Es la secuela de Wasteland de 1988, y fue exitosamente financiado por Kickstarter.
+![Draw Slasher](https://i.ibb.co/SRvNNwt/wallpaper-splash-wall-1920x1200.jpg "Draw Slasher")
 
-El juego se desarrolla en una línea de tiempo de historia alternativa, en la que tuvo lugar una guerra nuclear entre los Estados Unidos y la Unión Soviética en 1998 en relación con un evento de impacto que involucró un grupo de meteoritos que desencadenó una guerra nuclear global.
+Conoce a Hanzo Eel ninja. Mientras estaba entrenando afuera. Los Pirate Monkey Zombies unas criaturas estúpidas, feas, malolientes, podridas y desagradables, secuestraron a su familia.
 
-El día del cataclismo, una compañía de ingenieros del ejército de los EE. UU. Se encontraba en el desolado desierto del suroeste construyendo puentes en un área con una serie de pequeñas comunidades sobrevivientes y un corredor de la muerte federal recientemente construidoprisión con instalaciones industriales ligeras.
+Deberás tomar el control de su asombrosa espada y ayudarle en la búsqueda para liberarlos. Solo necesitas un mouse para jugar. LMB + dibuja una línea para saltar, correr, esquivar y cortar. RMB convocará poderosas técnicas de Ninjutsu: súper eficiente contra los 'podridos zombies piratas'.
 
-Los soldados buscaron refugio en la prisión, expulsaron a los reclusos e invitaron a los sobrevivientes cercanos a unirse a ellos poco después. Años más tarde, juntos formaron "los Desert Rangers, en la gran tradición de los Rangers de Texas y Arizona ", para ayudar a otros sobrevivientes en el desierto y más allá.
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rOu2uBzhf5Y?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/6r7Vk1AgaJY?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+[🎮 GRATIS HASTA EL 20/12/2019 🎮](https://store.steampowered.com/app/418270/Draw_Slasher/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-💡 REQUIERE REGISTRO EN GOG
-{: .notice--info}
+## The Wolf Among Us \ Epic Games
 
-[🎮 GRATIS HASTA MAÑANA, 13 A LAS 12:00 🎮](https://www.gog.com/#giveaway){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+![The Wolf Among Us](https://i.ibb.co/D8JngL0/The-Wolf-Among-Us-y-The-Escapists-GRATIS-hasta-el-19-tecnolocura-1.jpg "The Wolf Among Us")
+
+ Juego basado en un cómic denominado Fábulas de Bill Willingham's Fables, la historia se centra en el personaje de Bigby Wolf, el sheriff dentro de la ciudad de Nueva York poblada por personajes de cuentos de hadas. Este no es un juego imaginativo de cuentos infantiles; Fábulas es un cuento de hadas oscuro, y The Wolf Among Us se basa en un sistema de elecciones y eventos consecutivos para hacer que los jugadores se enfrenten a la sombría realidad del mundo.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/RTRDbQjaiWA?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 GRATIS HASTA EL 19/12/2019 🎮](https://www.epicgames.com/store/es-ES/product/the-wolf-among-us/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## The Escapist \ Epic Games
+
+![Los escapistas](https://i.ibb.co/qL8rVdb/489752-analisis-escapists.jpg "Los escapistas")
 
 Es un juego de estrategia jugado desde una perspectiva de shooter. El jugador, que asume el papel de prisionero, debe escapar de 6 prisiones primarias que van desde muy fácil a muy difícil. Cada vez que se escapa una prisión, la siguiente prisión se desbloquea. También hay prisiones de bonificación (DLC) que se pueden jugar en cualquier orden, independientemente del progreso de los jugadores.
 
@@ -70,7 +77,32 @@ Es un juego de estrategia jugado desde una perspectiva de shooter. El jugador, q
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## RETRO 🕹
+## VIDEOJUEGOS RETRO 🕹
+
+## Ascension al Trono \ IndieGala
+
+![Ascensión al trono](https://i.ibb.co/X5mgsqP/image.png "Ascensión al Trono, Juego Indie")
+
+Ascensión al trono, es un juego de estrategia por turnos con elementos RPG. En un vasto mundo de fantasía, el héroe tendrá que pasar muchas pruebas en su camino hacia la victoria. Los enemigos buscan evitar que los jugadores recuperen el poder y se venguen. Consigue nuevos amigos que te ayuden a recuperar el trono. Conviértete en el Rey para el que naciste: sabio, valiente y valiente.
+
+Los jugadores actuarán como la última descendencia de la antigua familia Illiar, que ha gobernado el Edén durante siglos. Pero los tiempos han cambiado y los enemigos traidores atacaron el castillo. Mataron a la familia del príncipe y destruyeron el asentamiento, pero no aplastaron su voluntad. Un hechizo muy poderoso lanzado por un mago arrojó al héroe mucho más allá de las fronteras del país. Estaba solo, sin parientes, amigos, ejército y sin dinero. Perdió todo de lo que estaba orgulloso pero aún estaba vivo y eligió el camino de la venganza.
+
+Los jugadores explorarán un nuevo mundo fascinante, lleno de enemigos y amigos. Tendrán que aplastar a las hordas de enemigos y encontrar nuevos seguidores para recuperar el título y ascender al trono.
+
+[🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/ascension-to-the-throne/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+
+## Lady´s Hentai Mosaic \ IndieGala
+
+![Puzzle de Hentai](https://i.ibb.co/x74xBhh/image.png)
+
+Lady's Hentai Mosaic es un juego en el que debes armar correctamente un mosaico para restaurar las imágenes de las chicas. Al pasar los niveles, abrirás oportunidades para quitar más y más ropa de las chicas.
+
+Lady's Hentai Mosaic no es un producto de naturaleza pornográfica, por lo que no hay escenas de relaciones sexuales o escenas con un contexto sexualmente sugerente.
+
+La función clave del juego es la descomposición de los fragmentos de mosaico. El progreso a través de los niveles llena la escala de desvestirse: el jugador abre gradualmente diferentes grados de desvestirse.
+
+[🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/ladys-hentai-mosaic/?dev_id=freebies "Puzzle de Mosaicos Hentais"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## Crab Due \ IndieGala
 
@@ -78,13 +110,35 @@ En el fondo del océano es donde reina el malvado Dr. Taco. Su mayor sueño es c
 
 El objetivo final del proyecto es crear un ejército de Cangrejos Cibernéticos que sirva fielmente al Dr. Taco..
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/1NSKFMTSYbQ?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+![](https://i.ibb.co/h7Mq9L0/image.png "Caracoles y cangrejos en su versión más pixelada xd")
 
 [🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/crab-dub/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## Haciendo Historia \ IndieGala
+
+Making History® ofrece la jugabilidad abierta de los clásicos de los juegos de estrategia, pero con nuevos e interesantes sistemas económicos, militares y diplomáticos y una investigación profunda que te permite jugar con desafíos históricos reales.
+
+El juego te lleva a un rico mundo de la Segunda Guerra Mundial donde cada nación tiene su propia agenda, y donde los eventos pueden convertirse en una sola alianza. Trabaje con las fortalezas y debilidades históricas de su nación. Desarrolle su industria, infraestructura, economía, militar. Crea alianzas. Luego, modifique su estrategia a medida que el mundo evoluciona con cada turno.
+
+![Haciendo Historia: La Calma y La Tormenta](https://i.ibb.co/dtqRDzD/image.png)
+
+[🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/making-history-the-calm-and-the-storm/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## JUEGOS DE ACCIÓN GRATIS 🪓
+
+## DreadLands Beta \ Steam
+
+![Dreadlands, videojuego gratis mientras siga en su versión de demo](https://i.ibb.co/hfsLHpG/dreadlands-1620x800.png "Dreadlands, videojuego gratis mientras siga en su versión de demo")
+
+Dreadlands es un juego de estrategia de escaramuzas por turnos en un mundo compartido donde luchas por el valioso recurso: Glonithium, "Glow" para abreviar. Explore el exuberante mundo en Dreadlands viajando a través de sus muchas regiones con su inadaptada pandilla de malhechores y mercenarios.
+
+Está ambientado en un mundo compartido post-apocalíptico donde los jugadores se encuentran e interactúan con frecuencia. El peligro acecha en cada esquina, ya que a veces cooperan en PvE, y otras veces se pelean en sangrientas batallas PvP.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/YaM1xWe0nzE?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 GRATIS MIENTRAS SEA DEMO 🎮](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## Alien Swarm: Reactive Drop \ Steam
 
@@ -213,6 +267,20 @@ Ahora mismo no existen juegos gratuitos pendientes de ser liberados..
 {: .notice--info}
 
 ## CADUCADOS 😿
+
+### Wasteland 2
+
+Wasteland 2 es un videojuego de rol post-apocalíptico desarrollado por inXile Entertainment y publicado por Deep Silver . Es la secuela de Wasteland de 1988, y fue exitosamente financiado por Kickstarter.
+
+El juego se desarrolla en una línea de tiempo de historia alternativa, en la que tuvo lugar una guerra nuclear entre los Estados Unidos y la Unión Soviética en 1998 en relación con un evento de impacto que involucró un grupo de meteoritos que desencadenó una guerra nuclear global.
+
+El día del cataclismo, una compañía de ingenieros del ejército de los EE. UU. Se encontraba en el desolado desierto del suroeste construyendo puentes en un área con una serie de pequeñas comunidades sobrevivientes y un corredor de la muerte federal recientemente construidoprisión con instalaciones industriales ligeras.
+
+Los soldados buscaron refugio en la prisión, expulsaron a los reclusos e invitaron a los sobrevivientes cercanos a unirse a ellos poco después. Años más tarde, juntos formaron "los Desert Rangers, en la gran tradición de los Rangers de Texas y Arizona ", para ayudar a otros sobrevivientes en el desierto y más allá.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/6r7Vk1AgaJY?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 PLAZO FINALIZADO 🎮](https://www.gog.com/#giveaway){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ### Jotun: Valhalla \ Epic Games
 

@@ -118,6 +118,18 @@ sidebar:
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+## 🛒 Comercio Electrónico
+
+* [¿Cuál es la mejor plataforma de comercio electrónico para emprendedores?](https://www.prochile.gob.cl/wp-content/uploads/2019/03/2-Cual-es-la-mejor-plataforma-de-comercio-electronico-para-emprendedores.pdf) (PDF) (2018)
+* [Diseño e Implementación de una Tienda Electrónica de Ropa](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/88405/5/emilio89TFM0119memoria.pdf) (PDF) (2019)
+* [Ebay: Guía completa y consejos para vendedores profesionales](https://www.aceleraconebay.com/sites/default/files/ES_LP_Acelera_con_eBay_Guide_0.pdf) (PDF)
+* [Plan de Negocios para la creación de un marketplace online de ferreterías](https://cswetwebcorsta01.blob.core.windows.net/uploads/2019/06/Informe-anual-integrado-2014.pdf) (PDF) (2014)
+* [TPV - Virtual: Manual de Integración - Redirección](https://www.grupocooperativocajamar.es/recursos-entidades/es/pdf/manuales-tpv/tpv-virtual-manual-integracion-redireccion-v2-1.pdf) (PDF) (2019)
+
+### Startups
+
+* [Guía de Formación de Emprendedores](https://hmg-prod.s3.amazonaws.com/files/guia-de-formacio-n-emprendedores-261-1558951908.pdf) 
+
 ## ⛓ Blockchain
 
 [Cadena de Bloques 🔗](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fab fa-bitcoin"></i>](/biblioteca-de-programacion-y-tecnologia/#bitcoin-){: .btn .btn--inverse .btn--large}
@@ -145,6 +157,7 @@ sidebar:
 * [Bitcoin: Un Sistema de Efectivo Electrónico Usuario-a-Usuario](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf){:target="_blank"} (PDF)
 * [Bitcoin: Una moneda criptográfica](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_bitcoin.pdf){:target="_blank"} (PDF)
 * [Bitcoin: Una visión general](http://www.revista.unam.mx/vol.18/num1/art11/art11.pdf){:target="_blank"} (PDF)
+* [Bitcoin, las criptomonedas al asalto del sistema financiero digital](https://www.ituser.es/whitepapers/content-download/7ba521c9-9572-49d1-a1e0-e74ae4e889a3/ituser-027.pdf) (PDF) (2017)
 * [Bitcoin & blockchain: ¿la criptomoneda y la tecnología que pueden transformar el mundo?](https://repository.eafit.edu.co/bitstream/handle/10784/13591/LuisaFernanda_FlorezCano_SandraMilena_VillegasSerna_2019.pdf) (PDF) (2019)
 * [Blockchain: Mirando más allá del Bitcoin](http://marketing.asobancaria.com/hubfs/Asobancaria%20Eventos/Asobancaria%20-%20Semanas-Economicas/1084.pdf){:target="_blank"} (PDF)
 * [Blockchain para periodistas y medios de comunicación (2017)](http://incomchile.cl/wp-content/uploads/2012/03/Blockchain-periodismo.pdf){:target="_blank"} (PDF)
@@ -354,6 +367,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 
 ## 🗞 Revistas
 
+* [AgoraChain Revista Blockchain](https://agorachain.org/magazine/) (PDF) (12+1 Ediciones) (2019)
 * [Avances en Sistemas e Informática](http://www.redalyc.org/revista.oa?id=1331){:target="_blank"} (HTML)
 * [Bits de Ciencia](https://www.dcc.uchile.cl/bits-de-ciencia){:target="_blank"} (PDF)
 * [Ciencia y Tecnología](https://dialnet.unirioja.es/servlet/revista?codigo=22392){:target="_blank"}
@@ -366,7 +380,9 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Información, Tecnología y Conocimiento: "Enlace"](https://dialnet.unirioja.es/servlet/revista?codigo=7671){:target="_blank"} (HTML)
 * [Innovación, Calidad e Ingeniería del Software](http://www.redalyc.org/revista.oa?id=922){:target="_blank"} (HTML)
 * [InterFases](https://dialnet.unirioja.es/servlet/revista?codigo=25214){:target="_blank"}
+* [IT User](https://ituser.digitalpublications.es/numeros-anteriores) (PDF) (Mensual. Requiere Registro) (2019)
 * [Procesamiento del Lenguaje Natural](http://www.redalyc.org/revista.oa?id=5157){:target="_blank"} (HTML)
+* [Puertas Abiertas al Sector de las TICs](https://coitaoc.org/wp-content/uploads/TELECOSANDALUCES2019.pdf) (PDF) (2019) (Telecos Andaluces) (Revista [6 Ediciones](https://coitaoc.org/category/publicaciones/telecos-andaluces/))
 * [Revistas de Computación](http://www.bibliotic.unam.mx/revista.html){:target="_blank"} (HTML)
 * [Revista de la Sociedad Española de la Informática y la Salud](https://seis.es/revista-is) (PDF) 2019 \ 139 Ediciones Mensuales
 
@@ -585,6 +601,7 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf){:target="_blank"} (PDF)
 * [Patrones de diseño: Zend Framework, Sympfony2, Doctrine2](https://media.readthedocs.org/pdf/designpatternsphp-es-mx/latest/designpatternsphp-es-mx.pdf){:target="_blank"} (PDF)
+* [PHP en 2019](https://www.jesusamieiro.com/wp-content/uploads/2019/11/20191122-Commit-Conf-PHP-en-2019-r2.pdf)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/){:target="_blank"} (HTML)
 * [POO y MVC en PHP](http://www.bubok.es/libros/205199/POO-y-MVC-en-PHP){:target="_blank"} (Bubok)
 * [Programación PHP](http://www.matpec.com.ar/desde0/desde0-programacion-php-6.htm){:target="_blank"} (HTML)
@@ -728,7 +745,9 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 
 ## Análitica Web 📈
 
-## Marketing en Redes Sociales 🏪
+## Marketing Digital 🏪
+
+* [Marca 4.0: El impacto de la digitalización en la internalización y la gestión de la marca](https://www.marcasrenombradas.com/wp-content/uploads/2019/03/Informe-Marca-4.0.pdf) ()
 
 ### Instagram <i class="fab fa-instagram"></i>
 

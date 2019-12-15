@@ -6,8 +6,8 @@ published: false
 comments: true
 date: 2019-10-17
 last_modified_at: 
-permalink: /libros-educacion/
-canonical_URL: https://ciberninjas.com/libros-educacion/
+permalink: /biblioteca-educacion/
+canonical_URL: https://ciberninjas.com/biblioteca-educacion/
 # header:
 #   image: "/assets/images/chocolatey-ciberninjas.jpg"
 #   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
@@ -25,7 +25,7 @@ toc_sticky: true
 
 * [Emprendedores: México](http://emprendedores.unam.mx/buscar.php?tipo=2){:target="_blank"}
 http://www.bibliotic.unam.mx/revista.html
-
+* [En Marcha](https://www.cocemfe.es/informate/noticias/category/revista/) (Revista Informativa de la Discapacidad Física y Orgánica)
 * [Política y Sociedad](https://revistas.ucm.es/index.php/POSO){:target="_blank"} (Universidad Complutense de Madrid)
 
 ## Los Mejores Artículos de Educación
@@ -44,3 +44,5 @@ estudiantes universitarios](http://revistaespacios.com/a19v40n31/a19v40n31p10.pd
 ## Educación e Inclusión
 
 * [Servicios de procesamiento de lenguaje natural en tecnología asistiva](http://revistaespacios.com/a19v40n30/a19v40n30p07.pdf){:target="_blank"}
+
+* [Juventud, Emprendimiento y Universidad: Un reto a tres bandas.](http://www.redmotiva.com/wp-content/uploads/2019/07/Libro-Congreso-MOTIVA-27.05.pdf) (PDF) (Congreso MOTIVA 2019)

@@ -45,9 +45,15 @@ sidebar:
 
 ## Derecho
 
+* [Propuesta no de ley contra las criptomonedas](http://www.congreso.es/public_oficiales/L12/CONG/BOCG/D/BOCG-12-D-321.PDF) (Pág. 14) 28 Marzo 2018
+
 ## Economía
 
-* [La Digitalización de la Economía](http://www.ces.es/documents/10180/4509980/Inf0317.pdf) (PDF) 2017 \ Informe
+* [El cambio digital en la economía](http://www.presidencia.gva.es/documents/166658342/166725599/Ejemplar+897/a5705a87-5cd7-400e-b055-34e103eb10ab) (2017) (Información Comercial Española)
+* [España, transformaciones económicas, financieras y sociales](https://www.afi.es/webAfi/descargas/1711320/1252800/Espana-1987-2017-transformaciones-economicas-financieras-y-sociales.pdf)
+* [La Economía Alicantina tras la gran recesión](https://www.diarioinformacion.com/estaticos/anuario-economico-2019/anuario-economico-2019.pdf) (PDF) (2019)
+* [La Economía Digital en España](https://circulodeempresarios.org/transformacion-digital/wp-content/uploads/PublicacionesInteres/01.ICE%20898.pdf) (2017) (Información Comercial Española)
+* [La Digitalización de la Economía](http://www.ces.es/documents/10180/4509980/Inf0317.pdf) (PDF) (2017) \ Informe
 
 ## Envejecimiento
 
@@ -63,6 +69,10 @@ sidebar:
 
 ## Idiomas
 
+## Informes
+
+* [Innovación y tecnología; nuestro presente, nuestro futuro] (Informe Correos) (2014)
+ 
 ## Ingienería
 
 ## Matemáticas
@@ -76,6 +86,8 @@ sidebar:
 ## Música
 
 ## Negocios
+
+* [Plan de Negocios ]
 
 ## Referencias Bibliográficas e Información
 

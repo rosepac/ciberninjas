@@ -933,7 +933,6 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 
 * [Domótica (2009)](http://ocw.um.es/ingenierias/domotica) (OCW)
 
-
 ## Inteligencia Artificial
 
 * [Herramientas de la Inteligencia Artificial (2010)](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial) (OCW)
