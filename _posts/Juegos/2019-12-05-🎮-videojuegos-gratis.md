@@ -148,7 +148,7 @@ Está ambientado en un mundo compartido post-apocalíptico donde los jugadores s
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/YaM1xWe0nzE?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 GRATIS MIENTRAS SEA DEMO 🎮](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎮 GRATIS MIENTRAS SEA DEMO 🎮](https://store.steampowered.com/app/759510/Dreadlands_Beta/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## Alien Swarm: Reactive Drop \ Steam
 
