@@ -1,6 +1,6 @@
 ---
 # Página Base
-title: "🎓 ▷ Los Mejores Cursos de Programación y Tecnología Gratis"
+title: "🎓 ▷ Los Mejores Cursos Gratis de Programación y Tecnología Gratis"
 description: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 author_profile: false
@@ -29,10 +29,12 @@ toc_sticky: false
 sidebar:
   nav: cursos-espanol
 ---
+💡 En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada temática.
+{: .notice--info}
 
 ## 🗃 Meta-Listas
 
-* [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/) Principalmente basados en redes y los servicios de Microsoft (Python, Azure, Machine Learning, Inteligencia Artificial, Power Apps, Microsoft, SQL, Xamarin, R, Big Data)
+* [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/){:target="_blank"}[^1] Principalmente basados en redes y los servicios de Microsoft (Python, Azure, Machine Learning, Inteligencia Artificial, Power Apps, Microsoft, SQL, Xamarin, R, Big Data)
 * [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice){:target="_blank"} (Github)
 <!-- [Cursos en Inglés]() (Hackr io) -->
 * [Miriadax](https://miriadax.net/cursos){:target="_blank"}
@@ -1201,26 +1203,16 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 Omitir. salvo que desees conocer en mayor profundidad el contenido que puedes encontrar dentro de los diferentes enlaces que aparecen dentro de esta página web. Este contenido, unicamente es generado en post de la mejora del posicionamiento e indexación del mismo 😉
 {: .notice--info}
 
-En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada temática.
+Actualmente son más de 700 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
 
-<details>
-<summary>Saber Más</summary>
-<br/>
-<p>Entre otras universidades:</p>
-<ol>
-<li>la Universidad Carlos III de Madrid</li>
-<li>la Universidad de Alicante</li>
-<li>la Universidad de Cantabria</li>
-<li>la Universidad de La Laguna de Tenerife</li>
-<li>la Universidad de Málaga</li>
-<li>la Universidad Jaime I de Castellón</li>
-<li>la Universidad Nacional de Rosario \ Argentina</li>
-<li>la Universidad Politécnica de Madrid</li>
-<li>la Universidad Politécnica de Valencia</li>
-<li>...</li>
-</ol>
-<p>En la actualidad son más de 800 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.</p>
-<p>Cursos sobre: Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.</p>
-</details>
+Los cursos están creados e impartidos por entre otras universidades; la Universidad Carlos III de Madrid, la Universidad de Alicante, la Universidad de Cantabria, la Universidad de La Laguna de Tenerife, la Universidad de Málaga, la Universidad Jaime I de Castellón, la Universidad Nacional de Rosario \ Argentina, la Universidad Politécnica de Madrid, la Universidad Politécnica de Valencia..
+
+Los cursos recorren todo el sector de la tecnología 4.0 en global; y contienen las siguientes temáticas principales
+
+ sobre Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.
+
+ Además, se agrega un apartado denominado metalistas, en el que podemos encontrar otras páginas web con variados y múltiples recursos sobre una única tecnología o varias. Por lo que se considera más importante citar a la página web en sí adjuntando una breve explicación[^1] que el trabajo que requeriría ir añadiendo cada uno de los recursos al listado de forma diferenciada.
 
 [🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+[^1]: Ejemplo de forma de explicación 😼
