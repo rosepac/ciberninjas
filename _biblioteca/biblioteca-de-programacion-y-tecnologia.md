@@ -792,3 +792,6 @@ Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](http://ciberni
 [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Pásame Criptos 🤘](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
 [👉 Discord 💭](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
+
+<a class="chollometro-deal" href="https://www.chollometro.com/visit/embeddedthread/88330" target="_blank" rel="nofollow noopener" >Libros de programación, criptomonedas, etc; todo en español</a>
+<script src="//www.chollometro.com/assets/js/share/thread-embed.js" async="true"></script>
