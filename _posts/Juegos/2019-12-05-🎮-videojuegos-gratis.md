@@ -43,6 +43,38 @@ Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fie
 
 ## GRATIS AHORA 🎉 
 
+## Black Survival - Alpha \ Steam
+
+![Black Survival Alpha 4](https://i.ibb.co/jvrD98w/maxresdefault.jpg "Black Survival Alpha 4")
+
+Black Survival es el juego de supervivencia en tiempo real que juegan 10 personas en una isla desierta. Las reglas básicas son simples. Toma decisiones con un solo clic. Pero la inmersión que siente el jugador es enorme. Para sobrevivir, no puedes quedarte ni un segundo. ¡Busca, crea, ataca y huye!
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/nn9ucBDo_rA?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 PRUEBALO GRATIS LAS PRÓXIMAS 48 HORAS 🎮](https://store.steampowered.com/app/1201710/Black_Survival_Eternal_Return__4th_Alpha/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## Postal 2 \ GOG
+
+🛑 Portal es un videojuego enfocado a personas mayores de 18 años
+{: .notice--warning}
+
+![Postal 2](https://i.ibb.co/Jphtwmy/images-q-tbn-ANd9-Gc-Rttgx-NBWPr-OQs4i-Ko-N59-WVjv-Jg1i-1-Dyv-HJXTD2-AOHi-Et-LQyj5-GQ-s.jpg "Postal 2")
+
+Vive una semana en la vida de "The Postal Dude"; un desafortunado hombre tratando de realizar algunas tareas. Comprar leche, devolver un libro de la biblioteca vencido, obtener el autógrafo de Gary Coleman, ¿qué podría salir mal? Ábrete paso, pica y orina en un espectáculo de caricaturas americanas en esta oscura y graciosa aventura en primera persona.
+
+¡Conoce a Krotchy: una mascota de juguete, visita a tu tío Dave en su complejo de culto religioso asediado y lucha contra los talibanes que habitan en las alcantarillas cuando menos te lo esperas! Soporta el desafío de apretar el esfínter de los rednecks caníbales, policías corruptos y elefantes berserker. Acompañado de Champ, el pitbull semi-leal de Dude, que se abre camino a través de entornos abiertos poblados con una IA increíblemente impredecible.
+
+Utiliza un arsenal de armas que van desde una humilde pala hasta un lanzacohetes singularmente hilarante. ¡Recoge un paquete de perros de ataque! ¡Usa gatos como silenciadores! ¡Orina y vierte gasolina en cualquier cosa y en todos! No apto para cardíacos, ¡Juégalo unicámente si te encanta el humor negro!
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/5LwQDF-iBN0?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+💡 Requiere Registro en la Página Web de GOG
+{: .notice--info}
+
+[🎮 HASTA EL 18/12/2019 GRATIS 🎮](https://www.gog.com/game/postal_2){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+[🎮 + PORTAL 1 GRATIS 🎮](https://www.gog.com/game/postal_classic_and_uncut){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
 ## Draw Slasher \ Steam
 
 ![Draw Slasher](https://i.ibb.co/SRvNNwt/wallpaper-splash-wall-1920x1200.jpg "Draw Slasher")
