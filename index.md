@@ -31,7 +31,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>¿Quieres aprender a programar? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lio!</p>
             </div>
-            <p><a href="/programar/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Aprender a Programar desde Cero</a> <a href="https://ouo.io/S4XkQc" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR">Libros de Programación</a></p>
+            <p><a href="/programar/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Aprender a Programar desde Cero</a> <a href="https://ouo.io/S4XkQc" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p>
         </div>
     </div>
 </div>
@@ -48,7 +48,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>¿Quieres aprender a programar? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lio!</p>
             </div>
-            <p><a href="/programar/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Aprender a Programar desde Cero</a> <a href="https://ouo.io/S4XkQc" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR">Libros de Programación</a></p>
+            <p><a href="/programar/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Aprender a Programar desde Cero</a> <a href="https://ouo.io/S4XkQc" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p>
         </div>
     </div>
 </div>
@@ -58,14 +58,14 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/que-es-ciberninjas/" alt="Qué es Ciberninjas"><img src="/assets/images/logos/ciberninjas-emoji-120px.png" alt="Conociendo que es Ciberninjas, para y porque que ha sido creado"></a>
+            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/logos/ciberninjas-emoji-120px.png" alt="Conociendo que es Ciberninjas, para y porque que ha sido creado"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Conócenos</h2>
             <div class="archive__item-excerpt">
                 <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador.</p>
             </div>
-            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--PRIMARY btn--large">💡 Qué Es</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">😼 Quién Soy</a></p>
+            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--primary btn--large">💡 Qué Es</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">😼 Quién Soy</a></p>
         </div>
     </div>
 </div>
@@ -133,7 +133,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>¿Eres estudiante o profesor de DAM o DAW o ingenieria informática o telecomunicaciónes? Los mejores recursos para ti están aquí.</p>
             </div>
-            <p><a href="/cursos-educacion/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Cursos Educación</a> <a href="/las-mejores-aplicaciones-escolares-seguimiento-tareas/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Aplicaciones Escolares</a> <a href="/catalogo/libros-texto/">Libros de Texto</a> </p>
+            <p><a href="/cursos-educacion/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Cursos Educación</a> <a href="/las-mejores-aplicaciones-escolares-seguimiento-tareas/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Aplicaciones Escolares</a> <a href="/catalogo/libros-texto/" class="btn btn--inverse btn--large">Libros de Texto</a></p>
         </div>
     </div>
 </div>
@@ -150,7 +150,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>¿Quieres conocer los acontecimientos y personas más importantes de la historia de la programación? Ven y ojea nuestro cronograma historico y cartel de personajes historicos de la computación.</p>
             </div>
-            <p><a href="/historia-computadora/cronograma/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Cronograma</a> <a href="/personajes-historicos/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Personajes Históricos</a> <a href="/catalogo/libros-texto/">Libros de Texto</a> </p>
+            <p><a href="/historia-computadora/cronograma/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Cronograma</a> <a href="/personajes-historicos/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Personajes Históricos</a> <a href="/catalogo/libros-texto/" class="btn btn--inverse btn--large">Libros de Texto</a></p>
         </div>
     </div>
 </div>
