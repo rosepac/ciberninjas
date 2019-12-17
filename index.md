@@ -97,7 +97,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
         <div class="archive__item-body">
             <h2 class="archive__item-title">El sitio perfecto para diseñadores gráficos</h2>
             <div class="archive__item-excerpt">
-                <p>¿Eres diseñador web? Los mejores recursos para diseñadores gráficos.</p>
+                <p>¿Eres diseñador web? Los mejores recursos para diseñadores gráficos. ¿Eres diseñador web? Los mejores recursos para diseñadores gráficos. ¿Eres diseñador web? Los mejores recursos para diseñadores gráficos.</p>
             </div>
             <p><a href="/diseño-recursos/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Recursos Diseño Gráfico 👨‍🎨</a></p>
         </div>
