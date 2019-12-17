@@ -3,8 +3,8 @@
 layout: collection
 collection: catalogo
 title: "🛒 Catálogo Ciberninjas"
-description: Catálogo Completo de Los Productos Más Recomendados en Tecnología, Programación, Merchandising y Geeks
-excerpt: "Catálogo Completo de Los Productos Más Recomendados en Tecnología, Programación, Merchandising y Geeks"
+description: Catálogo Completo de Los Libros Más Recomendados en Programación y Tecnología
+excerpt: "Catálogo Completo de Los Libros Más Recomendados en Programación y Tecnología"
 date: 2019-09-22
 last_modified_at: 2019-09-24
 sort_by: date # (default) title
