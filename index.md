@@ -19,7 +19,7 @@ header:
 excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.."
 ---
 
-<!-- CAJA 2 -->
+<!-- CAJA 1 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -36,7 +36,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- SEPARADOR -->
+<!-- CAJA 2 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -53,7 +53,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 1 -->
+<!-- CAJA 3 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -65,13 +65,12 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador.</p>
             </div>
-            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">💡 Qué Es</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">😼 Quién Soy</a></p>
+            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--PRIMARY btn--large">💡 Qué Es</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">😼 Quién Soy</a></p>
         </div>
     </div>
 </div>
 </div>
-<!-- textos intercalados -->
-<!-- CAJA 2 -->
+<!-- CAJA 4 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -88,7 +87,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 2 -->
+<!-- CAJA 5 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -105,7 +104,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 3 -->
+<!-- CAJA 6 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -122,7 +121,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 4 -->
+<!-- CAJA 7 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -139,7 +138,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 2 -->
+<!-- CAJA 8 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -156,7 +155,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 2 -->
+<!-- CAJA 9 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -168,7 +167,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>¿Dudas como protegerte ante las amenazas de la red abierta? Vamos a aprender a protegernos en todos los aspectos en los que nos involucra la red con la Ayuda de la Fundación Frontera Electrónica y todas sus amplias guías en español.</p>
             </div>
-            <p><a href="/eff/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--primary btn--large">Fundación</a> <a href="/eff/fundacion-frontera-electronica/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Qué es la EFF</a> <a href="/eff/libertad-expresion/">Libertad de Expresión</a> <a href="/eff/privacidad/">Privacidad</a> <a href="/eff/autodefensa/">Guías de Autodefensa</a></p>
+            <p><a href="/eff/" title="Entra y lee todos los artículos de la Fundación Frontera Electrónica" class="btn btn--primary btn--large">🛡</a> <a href="/eff/fundacion-frontera-electronica/" title="Cono todo sobre la  EFF, la principal organización sin fines de lucro que defiende la privacidad digital, la libertad de expresión y la innovación" class="btn btn--inverse btn--large">Qué es la EFF</a> <a href="/eff/libertad-expresion/" class="btn btn--inverse btn--large">Libertad de Expresión</a> <a href="/eff/privacidad/" class="btn btn--inverse btn--large">Privacidad</a> <a href="/eff/autodefensa/" class="btn btn--inverse btn--large">Guías de Autodefensa</a></p>
         </div>
     </div>
 </div>
