@@ -303,11 +303,9 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## PRÓXIMAMENTE 💣
-
-Ahora mismo no existen juegos gratuitos pendientes de ser liberados..
-{: .notice--info}
-
+<!-- ## PRÓXIMAMENTE 💣 -->
+<!-- Ahora mismo no existen juegos gratuitos pendientes de ser liberados..
+{: .notice--info} -->
 ## CADUCADOS 😿
 
 ### Wasteland 2
