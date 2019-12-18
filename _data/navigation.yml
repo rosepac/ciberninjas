@@ -58,13 +58,13 @@ tienda:
   - title: "🧸 Disney"
     url: /disney-frozen-amazon/
   - title: "👨‍💻 Libros"
-    url: /catalogo/libros/
+    url: /libros/
   - title: "👨‍🎓 Libros de Texto"
-    url: /catalogo/libros-texto/
+    url: /libros-texto/
   - title: "✍ Novelas"
-    url: /catalogo/libreria/
+    url: /libreria/
   - title: "🎁 Regalos Geeks"
-    url: /catalogo/regalos/
+    url: /regalos/
 
 # Radio es el Menú de toda mi música dividida en Apartados :D
 radio:
@@ -220,29 +220,29 @@ libros:
   - title: Secciones
     children:
       - title: "📁 Bases de Datos"
-        url: /catalogo/libros/#-bases-de-datos
+        url: /libros/#-bases-de-datos
       - title: "⛓ Blockchain"
-        url: /catalogo/libros/#-blockchain
+        url: /libros/#-blockchain
       - title: "🕴 Empresa y Estrategia"
-        url: /catalogo/libros/#-empresa-y-estrategia
+        url: /libros/#-empresa-y-estrategia
       - title: "🔬 Ciencias de la Computación"
-        url: /catalogo/libros/#-ciencias-de-la-computación
+        url: /libros/#-ciencias-de-la-computación
       - title: "🛒 Comercio Electrónico"
-        url: /cursos-tecnologia/#-comercio-electrónico
+        url: /libros/#-comercio-electrónico
       - title: "👩‍💻 Desarrollo Web"
-        url: /catalogo/libros/#-desarrollo-web
+        url: /libros/#-desarrollo-web
       - title: "👩‍💻 Programación"
-        url: /catalogo/libros/#-programación
+        url: /libros/#-programación
       - title: "👦 Programación Infantil"
-        url: /catalogo/libros/#-programación-infantil
+        url: /libros/#-programación-infantil
       - title: "🕸 Redes"
-        url: /catalogo/libros/#-administración-y-redes
+        url: /libros/#-administración-y-redes
       - title: "👮‍♀️ Seguridad"
-        url: /catalogo/libros/#️-seguridad
+        url: /libros/#️-seguridad
       - title: "👷‍♂️ Webmaster"
-        url: /catalogo/libros/#️-webmaster
+        url: /libros/#️-webmaster
       - title: "🎮 Videojuegos"
-        url: /catalogo/libros/#-videojuegos
+        url: /libros/#-videojuegos
       - title: "📚 LIBRERÍA"
         url: /catalogo/
       - title: "🎁 TIENDA"
