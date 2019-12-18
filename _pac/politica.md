@@ -67,6 +67,8 @@ Aquí es donde interviene la ideología.
 
 No tiene nada que ver con la tolerancia."
 
+* [Cuatro extensos vídeos sobre el marxismo y el capitalismo](https://www.youtube.com/watch?v=TaUyEo8LEbk)
+
 ## Libros & Artículos
 
 * [Marx sobre España: Contra el nacionalismo y los borbones, a favor de la revolución
