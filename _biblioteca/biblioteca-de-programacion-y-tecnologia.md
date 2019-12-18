@@ -5,7 +5,7 @@ description: "🚀 Biblioteca de PDF Online: Desarrollo Web 👩‍💻 Segurida
 excerpt: "🚀 Biblioteca de Libros PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡100% GRATIS y en ESPAÑOL 💥!"
 author_profile: false
 date: 2018-02-13T22:00:00.000+00:00
-last_modified_at: 2019-12-13T12:42:42-05:00
+last_modified_at: 2019-12-18T12:42:42-05:00
 permalink: /biblioteca-de-programacion-y-tecnologia/
 canonical_URL: https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/
 published: true
@@ -799,17 +799,16 @@ Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](http://ciberni
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+<a class="chollometro-deal" href="https://www.chollometro.com/visit/embeddedthread/88330" target="_blank" rel="nofollow noopener" >Libros de programación, criptomonedas, etc; todo en español</a>
+<script src="//www.chollometro.com/assets/js/share/thread-embed.js" async="true"></script>
+
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [🛒 Catálogo de Libros 👨‍💻](/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
-[👉 Twitter 🐤](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [👉 FACEBOOK 📘](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [👉 DISCORD 💭](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
+[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
 [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large .align-center}
 [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Pásame Criptos 🤘](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
-[👉 Discord 💭](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
-
-<a class="chollometro-deal" href="https://www.chollometro.com/visit/embeddedthread/88330" target="_blank" rel="nofollow noopener" >Libros de programación, criptomonedas, etc; todo en español</a>
-<script src="//www.chollometro.com/assets/js/share/thread-embed.js" async="true"></script>
