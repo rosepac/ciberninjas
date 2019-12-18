@@ -17,8 +17,8 @@ header:
   image_description: 'Libros educativos de Ciclos Formación Profesional de Educación Profesional de Tecnología'
   image_alt: 'Libros educativos de Ciclos Formación Profesional de Educación Profesional de Tecnología'
   caption: "Libros educativos de Ciclos Formación Profesional de Educación Profesional de Tecnología"
-permalink: /catalogo/libros-texto/
-canonical_URL: https://ciberninjas.com/catalogo/libros-texto/
+permalink: /libros-texto/
+canonical_URL: https://ciberninjas.com/libros-texto/
 sidebar:
 - title: "Catálogo"
   nav: tienda

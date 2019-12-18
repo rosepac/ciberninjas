@@ -10,8 +10,8 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: false
-permalink: /catalogo/regalos/
-canonical_URL: https://ciberninjas.com/catalogo/regalos/
+permalink: /regalos/
+canonical_URL: https://ciberninjas.com/regalos/
 sidebar:
 - title: "Catálogo"
   nav: tienda
