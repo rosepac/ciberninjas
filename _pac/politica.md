@@ -108,5 +108,6 @@ Gustavo Bueno: Panfleto contra la democracia realmente existente.
 https://informalia.eleconomista.es/informalia/actualidad/noticias/9653449/01/19/La-entrevista-vetada-del-rey-al-descubierto-Juan-Carlos-lo-cuenta-todo.html
 _____
 
+[👉 Artículos](/articulos/){: .btn .btn--inverse.btn--large .align-center}
 [👉 Lecturas](/lecturas/){: .btn .btn--inverse.btn--large .align-center}
-[👉 Personajes Públicos](/lecturas/){: .btn .btn--inverse.btn--large .align-center}
+[👉 Personajes Públicos](/referentes-historicos/){: .btn .btn--inverse.btn--large .align-center}

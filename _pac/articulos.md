@@ -230,3 +230,12 @@ RECOMENDACIONES
 ![img](https://qph.fs.quoracdn.net/main-qimg-6029706a74b2027a35f670219b8c9298)
 
 [Dawn in front of my house](https://steemit.com/cityscapephotography/@rosepac/dawn-in-front-of-my-house)
+_____
+
+[👉 Artículos](/articulos/){: .btn .btn--inverse.btn--large .align-center}
+[👉 Lecturas](/lecturas/){: .btn .btn--inverse.btn--large .align-center}
+[👉 Personajes Públicos](/lecturas/){: .btn .btn--inverse.btn--large .align-center}
+[👉 Política](/politica/){: .btn .btn--inverse.btn--large .align-center}
+_____
+
+[👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}

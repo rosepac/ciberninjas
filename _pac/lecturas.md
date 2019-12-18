@@ -61,9 +61,8 @@ actions:
 #### Recomendaciones
 
 Shakespeare: "El tirano"
+_____
 
----
-
-👉 [Políticas](/politica/)
-
-👉 [Lecturas](/lecturas/)
+[👉 Artículos](/articulos/){: .btn .btn--inverse.btn--large .align-center}
+[👉 Personajes Públicos](/lecturas/){: .btn .btn--inverse.btn--large .align-center}
+[👉 Política](/politica/){: .btn .btn--inverse.btn--large .align-center}
