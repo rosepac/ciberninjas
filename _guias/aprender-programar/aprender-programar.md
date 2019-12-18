@@ -1,17 +1,17 @@
 ---
 title: 👨‍💻 ▷ Cómo Aprender a Programar desde Cero en 2020
-description: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF y ebook en nuestro catálogo e incluso gratis 😜."
-excerpt: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF y ebooks en nuestro catálogo e incluso gratis 😜."
+description: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF y ebook en nuestro catálogo,incluso gratis 😜."
+excerpt: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF y ebooks en nuestro catálogo, incluso gratis 😜."
 author_profile: false
 published: true
 comments: true
 date: 2018-03-01
-last_modified_at: 2019-12-13
+last_modified_at: 2019-12-18
 permalink: /programar/
 canonical_URL: https://ciberninjas.com/programar/
 header:
-  image: "/assets/images/programar-lenguajes/aprender-programar-programacion.jpg"
-  image_description: Aprende todo lo necesario para convertirte en un profesional de la programación, aprende a programar y todos los puestos de trabajo relacionados con la programación 2020
+  overlay_image: "/assets/images/programar-lenguajes/aprender-programar-programacion.jpg"
+  image_description: "Aprende todo lo necesario para convertirte en un profesional de la programación, aprende a programar y todos los puestos de trabajo relacionados con la programación 2020"
   caption: "**Créditos**: Desconocido"
 toc: true
 toc_label: "Contenidos"
@@ -25,10 +25,12 @@ Ciberninjas.com nace para compartir la mejor información en español e inglés 
 
 En esta sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPlGMplfEbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. El primer paso es: centrarse en dominar un lenguaje, sea cual sea, en lugar de aprender un poco sobre varios idiomas hyper-focus.
 2. Si no te decides por un lenguaje en concreto, elige uno de propósito general.
 3. Limita tus recursos de aprendizaje.
-4. Procura esforzarte en lograr una base de álgebra y la lógica de los algoritmos; así como, una base de informática básica y un conocimiento de la amplia gama de tecnologías que existen en la actualidad. Siempre puedes usar la propia Wikipedia, o esta a través de [Kiwix](https://kutt.it/wiki_kiwi)desde donde poder lo que ir familiarizarte con la terminología.
+4. Procura esforzarte en lograr una base de álgebra y la lógica de los algoritmos; así como, una base de informática básica y un conocimiento de la amplia gama de tecnologías que existen en la actualidad. Siempre puedes usar la propia Wikipedia, o esta a través de [Kiwix](https://kutt.it/wiki_kiwi) desde donde poder lo que ir familiarizarte con la terminología.
 5. Aprende y comienza a acostumbrarte a trabajar a través de comandos, empieza a manejar la consola -sea bajo linux o no- si es utilizando un SO bajo Linux, mucho mejor. Si no, puedes similar la [consola en Windows](https://kutt.it/terminal_windows); incluso practicar levemente con un software como [Chocolatey](https://ciberninjas.com/chocolatey-ninite).
 6. Documentación Oficial, puedes acceder desde el programa [Zeal](https://kutt.it/zeal_docs) con el que podrás tener todos los archivos que necesites al alcance de tu mano, incluso de forma Offline. Así despejarte de cualquier medio que te pueda hacer procrastinar 😜
 7. Intenta realizar prácticas con las explicaciones de la documentación; o bien representando los mismos ejemplos o bien puedes buscar ejercicios similares por Interne /o ir siguiendo una plataforma digital en la que se realicen ejercicios prácticos; es importante, que seas capaz de compaginar los tiempos, de la lectura del a documentación junto al tempo en el que vas realizando las posibles tareas.
@@ -36,7 +38,7 @@ En esta sección, vamos a intentar realizar un resumen de los pasos que podemos 
 9. Sé calmado y mantente calmado! Existen plazas de trabajo en cada lenguaje diferente, no tengas ninguna duda de que si realmente deseas dedicarte, tarde o temprano va aparecer algo que se adapte a ti.
 10. Lo más importante es ser persistente, conservar la motivación
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OPlGMplfEbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿En qué campo de la informática trabajar?
 
@@ -66,6 +68,8 @@ Si tu objetivo es abrir una Startup o unirte a una, nada mejor que iniciarte con
 
 Un buen plan de estudio, podría ser Javascript, React, Ruby y Ruby and Rails; pero eso no quiere decir que sea el mejor, ni el único.
 
+[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
 ## ¿Qué lenguaje aprender?
 
 Si algo está claro, es que es el tiempo del código. No existen dudas de que es el mejor campo de formación y trabajo en el involucrarse y dedicar todo tu tiempo.
@@ -94,6 +98,8 @@ Existen muchos más lenguajes de programación, entre los más populares ahora s
 
 > Aprender a programar, es la clave de la era digital
 
+[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
 ## ¿Qué puestos de trabajo existen?
 
 Desarrolladores web y multimedia, los desarrolladores de software, los programadores de aplicaciones, diseñadores gráficos y multimedia, administradores de sistemas y bases de datos, especialistas en seguridad informática o cualquier otro trabajo relacionado con el campo profesional de las nuevas tecnologías de la información y las comunicaciones.
@@ -107,6 +113,8 @@ Desarrollador web y multimedia, desarrollador frontend, desarrollador backend, d
 Cada puesto de trabajo te exigira que conozcas ciertas herramientas, además de ser capaz de exprimirlas y usarlas lo máximo y mejor posible. Por lo que es totalmente imprescindible que seas conocer de ellas y de su uso hasta el último rincón.
 
 Posteriormente, vamos a realizar una pequeña revisión de las diferentes herramientas que más útiles te serán a la hora de realizar las tareas exigidas dentro de cada posición de trabajo o desarrollo y elaboración de las tareas requeridas por cada empresa.
+
+[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ### Desarrollador web y multimedia
 
@@ -155,6 +163,7 @@ En esta lista encontramos los lenguajes que están más al alza entre los puesto
 Javascript - Python - Java - C # - Swift - Kotlin
 
 <!-- (imágenes con enlaces a las páginas de formación de cada lenguaje) -->
+[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ### Sobre Javascript
 
@@ -190,6 +199,7 @@ Una lista de algunos de estos lenguajes podría ser:
 </ol>
 </details>
 
+[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Otros Lenguajes Populares en la Actualidad
 
@@ -219,6 +229,7 @@ Los navegadores web así como Internet, sin lugar a dudas han cambiado por compl
 Entre estos "lenguajes" destacan HTML y CSS, que forman una de las partes más importantes de todo Internet. Incluso podríamos incluir la tecnología AJAX.
 
 <!-- ## Qué es Programar -->
+[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Declaración Ciberninjas
 
@@ -227,3 +238,14 @@ Amamos y casi hasta el punto de la adicción, los lenguajes de programación má
 Indiferentemente de si deseas introducirte en ser un desarrollador *full stack, back-end* o *front-end*, de si eres un estudiante de informática o ingeniería de telecomunicaciones, de si deseas convertirte en el mejor administrador de sistemas y redes, introducirte en el campo del *big data* o arrancar en tus conocimientos de hacker ético, de si te gustaría refrescar tus metodologías de trabajo, de si quieres introducirte en el criptomundo y las cadenas de bloques o la robótica, de si solamente quieres comenzar a monetizar tu blog con criptomonedas, de si únicamente buscas fundamentos de ciberseguridad primarios o de si simplemente eres un curioso adicto tecnológico.
 
 Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer más, sobre [nuestra "filosofía"](/que-es-ciberninjas/). Si aún te surgen dudas o te gustaría realizar alguna consulta, ***¿Qué es Ciberninjas?*** o ***Nuestro Proyecto***  y además, no temas en unirte a [nuestra conversación (Discord)](https://kutt.it/ciberninjas_discord).
+
+[👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
+[📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🛒 Catálogo de Libros 👨‍💻](/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
+[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
+[💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large .align-center}
+[☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Pásame Criptos 🤘](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
