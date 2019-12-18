@@ -4,8 +4,8 @@ title: "😻 Pensamiento Libre, Pensamientos de Libertad 😻"
 description: "📰 Pensamiento Libre, Pensamientos de Libertad: Mis Colecciones"
 excerpt: "📰 Pensamiento Libre, Pensamientos de Libertad: Mis Colecciones"
 collection: pac
-permalink: /pac/
-canonical_URL: https://ciberninjas.com/pac/
+permalink: /rosepac/
+canonical_URL: https://ciberninjas.com/rosepac/
 published: true
 toc: true
 toc_label: "Contenidos"
