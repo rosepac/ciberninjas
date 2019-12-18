@@ -6,7 +6,7 @@ published: true
 author_profile: false
 title: "Recursos de Tecnología"
 header:
-  teaser: /assets/images/logos/ciberninjas-emoji-160-110px.png
+  teaser: /assets/images/portada/neo-matrix.gif
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: https://i.ibb.co/kDrKP82/hola-mundo-ciberninjas.jpg
@@ -87,23 +87,6 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 5 - REGALOS -->
-<div class="feature__wrapper">
-<div class="feature__item--left">
-    <div class="archive__item">
-        <div class="archive__item-teaser">
-            <a href="/amazon/" title="El Regalazo de Navidad para Geeks"><img src="/assets/images/portada/regalo-pequeno-disfrutando.gif" alt="Me encanta y amo este pedazo de regalo"></a>
-        </div>
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">Regalazos Navideños para Geeks</h2>
-            <div class="archive__item-excerpt">
-                <p>Las <strong>mejores ofertas</strong> en libros de programación y <strong>regalos</strong> especiales para geeks o cualquier amante de la computación, la electrónica o los gadgets tecnológicos.</p>
-            </div>
-            <p><a href="/amazon/" class="btn btn--inverse btn--large">Saber Más</a></p>
-        </div>
-    </div>
-</div>
-</div>
 <!-- CAJA 5 BIS - LIBRERÍA -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
@@ -117,6 +100,40 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
                 <p>Las <strong>mejores ofertas</strong> en libros de programación y <strong>regalos</strong> especiales para geeks o cualquier amante de la computación, la electrónica o los gadgets tecnológicos.</p>
             </div>
             <p><a href="/libros/" class="btn btn--inverse btn--large">Libros Tecnología</a> <a href="/libros-texto/" class="btn btn--inverse btn--large">Libros Educativos</a> <a href="/libreria/" class="btn btn--inverse btn--large">Librerías</a></p>
+        </div>
+    </div>
+</div>
+</div>
+<!-- CAJA 5 - REGALOS -->
+<div class="feature__wrapper">
+<div class="feature__item--left">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <a href="/amazon/" title="El Regalazo de Navidad para Geeks"><img src="/assets/images/portada/regalo-pequeno-disfrutando.gif" alt="Me encanta y amo este pedazo de regalo"></a>
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Regalazos Navideños para Geeks</h2>
+            <div class="archive__item-excerpt">
+                <p>Las <strong>mejores ofertas</strong> en libros de programación y <strong>regalos</strong> especiales para geeks o cualquier amante de la computación, la electrónica o los gadgets tecnológicos.</p>
+            </div>
+            <p><a href="/amazon/" class="btn btn--inverse btn--large">Saber Más</a> <a href="/ordenadores-componentes/" class="btn btn--inverse btn--large">Componentes PC</a> <a href="/teclados-ratones-diseño/" class="btn btn--inverse btn--large">Ratones y Teclados</a> <a href="/tablets-graficas/" class="btn btn--inverse btn--large">Tablets</a> <a href="/auriculares-diseño/" class="btn btn--inverse btn--large">Auriculares</a> <a href="/videojuegos/" class="btn btn--inverse btn--large">Videojuegos</a> <a href="/black-friday-amazon/" class="btn btn--inverse btn--large">Black Friday</a> <a href="/prime-day-amazon/" class="btn btn--inverse btn--large">Prime Day</a></p>
+        </div>
+    </div>
+</div>
+</div>
+<!-- CAJA 5 - BIS REGALOS GEEKS -->
+<div class="feature__wrapper" style="display:none;">
+<div class="feature__item--left">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <a href="/amazon/" title="El Regalazo de Navidad para Geeks"><img src="/assets/images/portada/regalo-pequeno-disfrutando.gif" alt="Me encanta y amo este pedazo de regalo"></a>
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Regalazos Navideños para Geeks</h2>
+            <div class="archive__item-excerpt">
+                <p>Las <strong>mejores ofertas</strong> en libros de programación y <strong>regalos</strong> especiales para geeks o cualquier amante de la computación, la electrónica o los gadgets tecnológicos.</p>
+            </div>
+            <p><a href="/amazon/" class="btn btn--inverse btn--large">Saber Más</a> <a href="/ordenadores-componentes/" class="btn btn--inverse btn--large">Componentes PC</a> <a href="/teclados-ratones-diseño/" class="btn btn--inverse btn--large">Ratones y Teclados</a> <a href="/tablets-graficas/" class="btn btn--inverse btn--large">Tablets</a> <a href="/auriculares-diseño/" class="btn btn--inverse btn--large">Auriculares</a> <a href="/videojuegos/" class="btn btn--inverse btn--large">Videojuegos</a> <a href="/black-friday-amazon/" class="btn btn--inverse btn--large">Black Friday</a> <a href="/prime-day-amazon/" class="btn btn--inverse btn--large">Prime Day</a></p>
         </div>
     </div>
 </div>
@@ -150,7 +167,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>Aquí vas a poder encontrar todas las listas de Twitter clasificadas por diferentes temáticas en las que se incluyen las cuentas de las personas y empresas más importantes referentes a cada una de las temáticas; programación, noticias de tecnología, la actualidad del software, los videojuegos, la ciberseguridad..</p>
             </div>
-            <p><a href="/cursos-educacion/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Cursos Educación</a> <a href="/las-mejores-aplicaciones-escolares-seguimiento-tareas/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Aplicaciones Escolares</a> <a href="/catalogo/libros-texto/" class="btn btn--inverse btn--large">Libros de Texto</a></p>
+            <p><a href="/directo/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Ver Todas las Listas</a></p>
         </div>
     </div>
 </div>
@@ -160,10 +177,10 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/historia-computadora/" title="Aprendiendo con Ciberninjas la historia de la Computación Informática y los Personajes más importantes de la misma"><img src="/assets/images/portada/creando-codigo-antiguo.gif" alt="Aprendiendo con Ciberninjas la Historia de la Computación Informática y los Personajes más importantes de la misma"></a>
+            <a href="/historia-computadora/" title="Aprendiendo con Ciberninjas la Historia de la Computación Informática y los Personajes más importantes de la misma"><img src="/assets/images/portada/creando-codigo-antiguo.gif" alt="Aprendiendo con Ciberninjas la Historia de la Computación Informática y los Personajes más importantes de la misma"></a>
         </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">Historia y Personajes de la Programación y la Computación Informática</h2>
+            <h2 class="archive__item-title">Historia y Personajes de la Computación</h2>
             <div class="archive__item-excerpt">
                 <p>¿Quieres conocer los acontecimientos y personas más importantes de la historia de la programación? Ven y ojea nuestro cronograma histórico y cartel de personajes históricos de la computación.</p>
             </div>
@@ -177,7 +194,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/eff/" title="Entra y lee todos los artículos de la Fundación Frontera Electrónica en Español"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
+            <a href="/eff/" title="Entra y lee todos los artículos de la Fundación Frontera Electrónica en Español"><img src="/assets/images/portada/seguridad-camaras.gif" alt="Guías de seguridad y ciberseguridad creadas por la Fundación en Defensa de Internet, Fundación Frontera Electrónica"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Seguridad en Internet</h2>
@@ -224,3 +241,4 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
+<!-- /assets/images/logos/ciberninjas-emoji-160-110px.png -->
