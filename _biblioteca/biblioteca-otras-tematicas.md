@@ -43,6 +43,16 @@ sidebar:
 
 ## Cocina
 
+* [ChocoRecetas](https://www.nestle.es/cualificacion/pdf/v2/01_Recetario_5%20minutos.pdf) (Nestle)
+* [Guía Nutriplato - Alimentación Equilibrada](https://www.nutriplatonestle.es/nutritest/_docs/guia-nutriplato-nestle.pdf) (Nestle)
+* [Guía Nutriplato - Perú](https://www.nestle.com.pe/sites/g/files/pydnoa276/files/asset-library/documents/nestle_plato_guia_nutricionistas.pdf) (Nestle)
+* [Postres en 5 Minutos](https://www.nestle.es/cualificacion/pdf/v2/01_Recetario_5%20minutos.pdf) (Nestle)
+* [Recetas Fáciles](http://www.nestle.es/ayudanosamejorar/Descargas/RECETAS_FACILES.pdf) (Nestle)
+* [Recetas de Otoño](https://www.nestlecocina.es/descargas/nestle_cocina/recetario-otono-2019.pdf) (Nestle)
+* Recetario de Obleas [Versión Navidad](https://www.nestlecocina.es/descargas/buitoni/recetario-obleas-navidad-2019.pdf) [Versión 2](https://www.nestlecocina.es/descargas/buitoni/recetario-de-obleas.pdf) (Buitoni)
+
+<!-- https://www.google.com/search?rls=com.microsoft%3Aen-US&biw=1600&bih=757&sxsrf=ACYBGNTfVddYLKQLHPv_ixE6v0rRKH3Hsw%3A1576596786562&ei=MvX4XbjxIYaRlwTZ-o2ABQ&q=nestle+recetas+pdf&oq=nestle+recetas+pdf&gs_l=psy-ab.3..0i7i30j0i30j0i8i30l5.8552.9788..10182...0.0..0.140.1003.6j4......0....1..gws-wiz.......35i39j0i8i7i30.LK-B9qim60c&ved=0ahUKEwi40qrbgL3mAhWGyIUKHVl9A1AQ4dUDCAs&uact=5 -->
+
 ## Derecho
 
 * [Propuesta no de ley contra las criptomonedas](http://www.congreso.es/public_oficiales/L12/CONG/BOCG/D/BOCG-12-D-321.PDF) (Pág. 14) 28 Marzo 2018
@@ -91,4 +101,7 @@ sidebar:
 
 ## Referencias Bibliográficas e Información
 
-## Salud & nutrición
+## Salud & Nutrición
+
+* [Cocina Saludable](https://inta.cl/wp-content/uploads/2018/03/cocina_saludable.pdf) (Gobierno de Chile)
+<!-- https://www.google.com/search?q=recetas+ideales+nestle+pdf&rls=com.microsoft:en-US&sxsrf=ACYBGNRHic0F7oYW5hdzqAgQkOs9wYAmgw:1576596851620&ei=c_X4XfnDJZCelwShk5lY&start=10&sa=N&ved=2ahUKEwi5ya36gL3mAhUQz4UKHaFJBgsQ8NMDegQICxA7&biw=1600&bih=757 -->
