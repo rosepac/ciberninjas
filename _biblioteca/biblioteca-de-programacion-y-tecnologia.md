@@ -799,13 +799,13 @@ Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](http://ciberni
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-[👈 VOLVER A CIBERNINJAS 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
-[📚 LIBROS GRATIS 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
+[📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [🛒 Catálogo de Libros 👨‍💻](/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
-[🎓 CURSOS GRATIS 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
-[👉 ÚNETE A LA COMUNIDAD 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
-[👉 TWITTER 🐤](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large .align-center} [👉 FACEBOOK 📘](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large .align-center} [👉 DISCORD 💭](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large .align-center}
+[👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 Twitter 🐤](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [👉 FACEBOOK 📘](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [👉 DISCORD 💭](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
 [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large .align-center}
 [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Pásame Criptos 🤘](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
