@@ -34,7 +34,7 @@ sidebar:
 
 ## 🗃 Meta-Listas
 
-* [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/){:target="_blank"}[^1] Principalmente basados en redes y los servicios de Microsoft (Python, Azure, Machine Learning, Inteligencia Artificial, Power Apps, Microsoft, SQL, Xamarin, R, Big Data)
+* [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/){:target="_blank"} [^1]
 * [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice){:target="_blank"} (Github)
 <!-- [Cursos en Inglés]() (Hackr io) -->
 * [Miriadax](https://miriadax.net/cursos){:target="_blank"}
@@ -1211,8 +1211,12 @@ Los cursos recorren todo el sector de la tecnología 4.0 en global; y contienen 
 
  sobre Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.
 
- Además, se agrega un apartado denominado metalistas, en el que podemos encontrar otras páginas web con variados y múltiples recursos sobre una única tecnología o varias. Por lo que se considera más importante citar a la página web en sí adjuntando una breve explicación[^1] que el trabajo que requeriría ir añadiendo cada uno de los recursos al listado de forma diferenciada.
+ Además, se agrega un apartado denominado metalistas, en el que podemos encontrar otras páginas web con variados y múltiples recursos sobre una única tecnología o varias. Por lo que se considera más importante citar a la página web en sí adjuntando una breve explicación[^] que el trabajo que requeriría ir añadiendo cada uno de los recursos al listado de forma diferenciada.
 
 [🔝 Regresar 🔝](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-[^1]: Ejemplo de forma de explicación 😼
+[^1]: Principalmente cursos basados en redes y servicios de Microsoft: Python, Azure, Machine Learning, Inteligencia Artificial, Power Apps, Microsoft, SQL, Xamarin, R, Big Data
+
+## Licencia
+
+Este repositorio esta bajo autoría de Pablo Álvarez Corredera el que agradece de todo corazón a los contribuidores de Libros de Programación en Español su participación anterior. La licencia de este proyecto es Creative Commons 4.0 por lo que deberás reconocer la autoría y agregar un enlace dofollow; siempre que desees compartir, re editar, vender o sea lo que quiera que desees hacer con él 😻
