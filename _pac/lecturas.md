@@ -21,7 +21,7 @@ header:
 #   nav: historia
 actions:
     - label: + POLÍTICA
-      url: '/política/'
+      url: '/politica/'
     - label: + REFERENTES
       url: '/referentes-historicos/'
 
@@ -64,6 +64,6 @@ Shakespeare: "El tirano"
 
 ---
 
-👉 [Políticas](/política/)
+👉 [Políticas](/politica/)
 
 👉 [Lecturas](/lecturas/)
