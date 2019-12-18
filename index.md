@@ -236,7 +236,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>Dentro de esta sección podrás encontrar algunos abridores de mentes, junto a un sinfin de gustos personales o simplemente artículos culturales que por alguna razón he considerado que merece la pena tener en cuenta. Además, podrás encontrar una amplia librería de mis gustos personales, junto a enlaces sobre otras aficiones personales.</p>
             </div>
-            <p><a href="/articulos/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">Artículos</a> <a href="/lecturas/" class="btn btn--inverse btn--large">Lecturas</a> <a href="/referentes-historicos/" class="btn btn--inverse btn--large">Referentes</a> <a href="/politica/" class="btn btn--inverse btn--large">Política</a></p>
+            <p><a href="/articulos/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">Artículos</a> <a href="/lecturas/" class="btn btn--inverse btn--large">Lecturas</a> <a href="/referentes-historicos/" class="btn btn--inverse btn--large">ReferentesH</a> <a href="/politica/" class="btn btn--inverse btn--large">Política</a></p>
         </div>
     </div>
 </div>
