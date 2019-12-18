@@ -322,6 +322,8 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+## 🕸 Redes
+
 ## Servicios en red
 
 * [Aulas en red. Aplicaciones y servicios. Linux](http://www.ite.educacion.es/formacion/materiales/85/cd/linux/indice.htm){:target="_blank"}
@@ -499,6 +501,22 @@ realidad social](http://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:target
 * [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf){:target="_blank"} (PDF)
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## 👨‍🎨 Diseño Web
+
+## Bootstrap <i class="fab fa-bootstrap"></i>
+
+## Lenguajes de Estilos y Preprocesadores 🎨
+
+## Lenguajes de Marcado ✍
+<!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml, markdown  -->
+
+* [Markdown: Guía Breve y Detallada](http://fobos.inf.um.es/R/taller5j/30-markdown/guiabreve.pdf) (PDF) (2013)
+
+
+## Sistemas de Plantillas 🌱
+<!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
+
 
 ## HTML / CSS <i class="fab fa-html5"></i> <i class="fab fa-css3-alt"></i> <i class="fab fa-sass"></i>
 
