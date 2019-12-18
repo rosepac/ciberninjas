@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/portada/neo-matrix.gif
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: https://i.ibb.co/kDrKP82/hola-mundo-ciberninjas.jpg
+  overlay_image: /assets/images/portada/neo-matrix.gif
 #  actions:
 #    - label: "🎓 Cursos"
 #      url: "/cursos-tecnologia/"
@@ -241,4 +241,4 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- /assets/images/logos/ciberninjas-emoji-160-110px.png -->
+<!-- /assets/images/logos/ciberninjas-emoji-160-110px.png - https://i.ibb.co/kDrKP82/hola-mundo-ciberninjas.jpg -->
