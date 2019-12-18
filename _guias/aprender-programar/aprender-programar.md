@@ -8,14 +8,15 @@ comments: true
 date: 2018-03-01
 last_modified_at: 2019-12-13
 permalink: /programar/
-# header:
-#   image: "/assets/images/chocolatey-ciberninjas.jpg"
-#   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
-#   caption: "**Créditos**: Creación Propia"
+canonical_URL: https://ciberninjas.com/programar/
+header:
+  image: "/assets/images/programar-lenguajes/aprender-programar-programacion.jpg"
+  image_description: Aprende todo lo necesario para convertirte en un profesional de la programación, aprende a programar y todos los puestos de trabajo relacionados con la programación 2020
+  caption: "**Créditos**: Desconocido"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
-toc_sticky: true
+toc_sticky: false
 ---
 
 Ciberninjas.com nace para compartir la mejor información en español e inglés que existe dentro de lo ancho y profundo de Internet, en referencia a los lenguajes de programación y todas las nuevas tecnologías alrededor del mundo de la informática y los campos en que se aplica.
@@ -27,7 +28,7 @@ En esta sección, vamos a intentar realizar un resumen de los pasos que podemos 
 1. El primer paso es: centrarse en dominar un lenguaje, sea cual sea, en lugar de aprender un poco sobre varios idiomas hyper-focus.
 2. Si no te decides por un lenguaje en concreto, elige uno de propósito general.
 3. Limita tus recursos de aprendizaje.
-4. Procura esforzarte en lograr una base de álgebra y la lógica de los algoritmos; así como, una base de informática básica y un conocimiento de la amplia gama de tecnologías que existen en la actualidad. Siempre puedes usar la propia Wikipedia o incluso: [Kiwix](https://kutt.it/wiki_kiwi)desde donde poder lo que ir familiarizarte con la terminología.
+4. Procura esforzarte en lograr una base de álgebra y la lógica de los algoritmos; así como, una base de informática básica y un conocimiento de la amplia gama de tecnologías que existen en la actualidad. Siempre puedes usar la propia Wikipedia, o esta a través de [Kiwix](https://kutt.it/wiki_kiwi)desde donde poder lo que ir familiarizarte con la terminología.
 5. Aprende y comienza a acostumbrarte a trabajar a través de comandos, empieza a manejar la consola -sea bajo linux o no- si es utilizando un SO bajo Linux, mucho mejor. Si no, puedes similar la [consola en Windows](https://kutt.it/terminal_windows); incluso practicar levemente con un software como [Chocolatey](https://ciberninjas.com/chocolatey-ninite).
 6. Documentación Oficial, puedes acceder desde el programa [Zeal](https://kutt.it/zeal_docs) con el que podrás tener todos los archivos que necesites al alcance de tu mano, incluso de forma Offline. Así despejarte de cualquier medio que te pueda hacer procrastinar 😜
 7. Intenta realizar prácticas con las explicaciones de la documentación; o bien representando los mismos ejemplos o bien puedes buscar ejercicios similares por Interne /o ir siguiendo una plataforma digital en la que se realicen ejercicios prácticos; es importante, que seas capaz de compaginar los tiempos, de la lectura del a documentación junto al tempo en el que vas realizando las posibles tareas.
@@ -39,7 +40,7 @@ En esta sección, vamos a intentar realizar un resumen de los pasos que podemos 
 
 ## ¿En qué campo de la informática trabajar?
 
-Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, en la era tecnológica los campos disciplinarios existentes son tan múltiples como diferentes, dos de las temáticas principales y más buscadas que ofrecen puestos de trabajo en el mundo: son el tan citado _machine learning_ o **aprendizaje automático** y el **desarrollo móvil**.
+Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, en la era tecnológica los campos dde trabajo existentes son tan múltiples como diferentes, dos de las temáticas principales y más buscadas que ofrecen puestos de trabajo en el mundo: son el tan citado _machine learning_ o **aprendizaje automático**, **la inteligencia artificial** y el **desarrollo móvil**.
 
 ### Aprendizaje Automático o Machine Learning
 
@@ -95,7 +96,7 @@ Existen muchos más lenguajes de programación, entre los más populares ahora s
 
 ## ¿Qué puestos de trabajo existen?
 
-desarrolladores web y multimedia, los desarrolladores de software, los programadores de aplicaciones, diseñadores gráficos y multimedia, administradores de sistemas y bases de datos, especialistas en seguridad informática o cualquier otro trabajo relacionado con el campo profesional de las nuevas tecnologías de la información y las comunicaciones.
+Desarrolladores web y multimedia, los desarrolladores de software, los programadores de aplicaciones, diseñadores gráficos y multimedia, administradores de sistemas y bases de datos, especialistas en seguridad informática o cualquier otro trabajo relacionado con el campo profesional de las nuevas tecnologías de la información y las comunicaciones.
 
 Incluso si deseas formarte para la profesión que realizan los analistas y consultores o profesional de publicidad y el marketing digital, e incluso los profesionales de gestión.
 
@@ -225,7 +226,4 @@ Amamos y casi hasta el punto de la adicción, los lenguajes de programación má
 
 Indiferentemente de si deseas introducirte en ser un desarrollador *full stack, back-end* o *front-end*, de si eres un estudiante de informática o ingeniería de telecomunicaciones, de si deseas convertirte en el mejor administrador de sistemas y redes, introducirte en el campo del *big data* o arrancar en tus conocimientos de hacker ético, de si te gustaría refrescar tus metodologías de trabajo, de si quieres introducirte en el criptomundo y las cadenas de bloques o la robótica, de si solamente quieres comenzar a monetizar tu blog con criptomonedas, de si únicamente buscas fundamentos de ciberseguridad primarios o de si simplemente eres un curioso adicto tecnológico.
 
-Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer más, sobre nuestra "filosofía" puedes indagar en..
-👇 🚧 EN CONSTRUCCIÓN 🚧 👇
-
-Si aún te surgen dudas o te gustaría realizar alguna consulta, ***¿Qué es Ciberninjas?*** o ***Nuestro Proyecto***  y además, no temas en unirte a [nuestra conversación (Discord)](https://kutt.it/ciberninjas_discord).
+Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer más, sobre [nuestra "filosofía"](/que-es-ciberninjas/). Si aún te surgen dudas o te gustaría realizar alguna consulta, ***¿Qué es Ciberninjas?*** o ***Nuestro Proyecto***  y además, no temas en unirte a [nuestra conversación (Discord)](https://kutt.it/ciberninjas_discord).
