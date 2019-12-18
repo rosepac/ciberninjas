@@ -16,7 +16,7 @@ header:
 #    - label: "👨‍💻 Libros"
 #      url: "/biblioteca-de-programacion-y-tecnologia/"
   caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
-excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.."
+excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.. ¡Entra y conviértete en un auténtico ciberninja! "
 ---
 
 <!-- CAJA 1 PROGRAMACION-->
@@ -27,11 +27,11 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <a href="/directo/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="/assets/images/portada/neo-matrix.gif" alt="Aprende a programar y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
         </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">Vamos a programar mis Ciberninjas</h2>
+            <h2 class="archive__item-title">A programar desde cero, mis Ciberninjas</h2>
             <div class="archive__item-excerpt">
                 <p>¿Quieres aprender a programar? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lio!</p>
             </div>
-            <p><a href="/programar/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Aprender a Programar desde Cero</a> <a href="https://ouo.io/S4XkQc" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p>
+            <p><a href="/programar/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Aprender a Programar</a> <a href="https://ouo.io/S4XkQc" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p>
         </div>
     </div>
 </div>
@@ -58,7 +58,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/directo/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
+            <a href="/dise%C3%B1o-recursos/" title="Recursos para desarrolladores web"><img src="/assets/images/portada/diseño-aplicaciones-web.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">El sitio perfecto para desarrolladores web</h2>
@@ -199,7 +199,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
         <div class="archive__item-body">
             <h2 class="archive__item-title">Seguridad en Internet</h2>
             <div class="archive__item-excerpt">
-                <p>¿Dudas como protegerte ante las amenazas de la red abierta? Vamos a aprender a protegernos en todos los aspectos en los que nos involucra la red con la Ayuda de la Fundación Frontera Electrónica y todas sus amplias guías en español.</p>
+                <p>¿Dudas como protegerte ante las amenazas de la red abierta? Vamos a aprender a protegernos en todos los aspectos en los que nos involucra la red con la Ayuda de la Fundación Frontera Electrónica y sus amplias guías en español.</p>
             </div>
             <p><a href="/eff/fundacion-frontera-electronica/" title="Cono todo sobre la  EFF, la principal organización sin fines de lucro que defiende la privacidad digital, la libertad de expresión y la innovación" class="btn btn--inverse btn--large">Qué es la EFF</a> <a href="/eff/libertad-expresion/" class="btn btn--inverse btn--large">Libertad de Expresión</a> <a href="/eff/privacidad/" class="btn btn--inverse btn--large">Privacidad</a> <a href="/eff/autodefensa/" class="btn btn--inverse btn--large">Guías de Autodefensa</a></p>
         </div>
@@ -212,7 +212,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/logos/ciberninjas-emoji-160-110px.png" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
+            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/portada/abrazo-cibernetico.gif" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Conócenos</h2>
@@ -229,7 +229,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/logos/ciberninjas-emoji-160-110px.png" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
+            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="https://i.ibb.co/rv8wcTJ/give-love-heart-corazon-rosa.gif" alt="Enlaces personales, sobre lecturas, información, política, opinión, critica y aficiones y gustos personales"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Biblioteca Personal</h2>
