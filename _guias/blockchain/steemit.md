@@ -1,20 +1,85 @@
 ---
-title: 👨‍💻 ▷ Jekyll, Aprender desde Cero
-description: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
-excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
-date: 2019-08-07T22:00:00.000+00:00
-last_modified_at: 2019-08-20T16:20:02-05:00
+title: 👨‍💻 ▷ Steemit, Aprender desde Cero
+description: "🛠 Steemit, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
+excerpt: "🛠 Steemit, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
+date: 2019-08-07T22:00:00.000+01:00
+last_modified_at: 2019-08-20T16:20:02+01:00
 permalink: /steemit/
 published: false
 header:
   image: "/assets/images/jekyll-blog.jpg"
-  image_description: Jekyll, generador de sitios estáticos | Ciberninjas
-  caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"
+  image_description: Steemit, generador de sitios estáticos | Ciberninjas
+  caption: "**Créditos**: [Logotipo de Steemit](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Steemit. Edición y montaje de Elaboración Propia"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 ---
+
+Steem Promo: https://www.youtube.com/watch?time_continue=3&v=aPJ8Jd1L43o
+
+## Proyectos y dAPPs Más que Interesantes
+
+* [DSound](https://steemit.com/@dsound) creador [@prc](https://steemit.com/@prc)
+* [SteemApps](https://steemapps.com/) [^1]
+* [TypeEarn](https://typeearn.com/)
+* []()
+
+## Herramientas
+
+* [Acortador de URL a través de Steem](http://steem.link/)
+* [Steemyy - Caja de Herramientas](https://steemyy.com/){:target="_blank"} [^2] Creado por [@justyy](https://steemit.com/@justyy){:target="_blank"}
+* [Steemyy - Herramienta de Delegación de SP](https://steemyy.com/sp-delegate-form/){:target="_blank"} [^1] Creado por [@justyy](https://steemit.com/@justyy){:target="_blank"}
+* [Quasar Framework](https://quasar.dev/)
+
+## Artículos
+
+* [Los proyectos Open Source dentro de la Blockchain](https://steemit.com/upfundition/@utopian-io/erf8gqt0h)
+
+## Witness y Desarrolladores
+
+[@justyy](https://steemit.com/@justyy)
+
+## Perfiles de Programación
+
+[ilovecoding](https://steemit.com/@ilovecoding)
+
+[^1]: Índice y lista indexada de todas las aplicaciones (85) que forman parte del universo de las aplicaciones descentralizadas de la criptomoneda Steem.
+[^2]: Herramientas de Steemit, Herramientas Online, Extensiones para el Navegador Chrome, Bots, APIs, Bibliotecas de Código. Tutoriales, Tutoriales de Steem SQL, de R, etc.
+
+### Proyectos Olvidados
+
+* [Steeve App](https://www.steeve.app/@steeveapp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Los Mejores Artículos de SEO para Steemit en Español
 
@@ -23,11 +88,11 @@ toc_sticky: true
 
 
 
-Existe un gran cambio al modificar tus hábitos y desear cambiar desde un Sistema de Gestión de Contenidos como puede ser Wordpress hacía un Sistema de Contenidos de Generación Estática como puede ser Jekyll, por ello.
+Existe un gran cambio al modificar tus hábitos y desear cambiar desde un Sistema de Gestión de Contenidos como puede ser Wordpress hacía un Sistema de Contenidos de Generación Estática como puede ser Steemit, por ello.
 
 Creo este repositorio con todos los enlaces que me han ido ayudando a lo largo de la última semana, tanto con la importación de mi antiguo blog, como con la configuración de la nueva página estática.
 
-Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un Sistema ni tan desarrollado ni con una comunidad tan grande como la de Wordpress; puedan serme de ayuda en la implementación y me ofrezcan mejoras en mi nuevo página.
+Además, adjunto enlaces de interes que espero que a pesar de no ser Steemit; un Sistema ni tan desarrollado ni con una comunidad tan grande como la de Wordpress; puedan serme de ayuda en la implementación y me ofrezcan mejoras en mi nuevo página.
 
 **¡A la almendrilla!**
 
@@ -35,20 +100,20 @@ Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un 
 
 * [Configurar plantilla, buscador.. Y otros Ajustes del Tema](https://mmistakes.github.io/minimal-mistakes/docs/configuration "Configuración de la Plantilla") (- por revisar la implementación de un mejor buscador ¿Algabia? y ajustar algunos otros distintos parámetros -)
 
-* [Jekyll Comenzando](https://terminaladdict.com/linux/jekyll/bash/development/2018/10/17/Jekyll-Getting-Started.html "Jekyll comenzando, publicación creada en el blog Terminal Adicto") (terminaladdict.com)
-  * [Usando Jekyll 2017](https://mademistakes.com/articles/using-jekyll-2017 "Usando Jekyl 2017. Cómo ir creando una plantilla por completo, paso a paso")
-    * [Menú de Navegación](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/ "Cómo crear un menú de navegación en un blog estático con Jekyll") - Jekyll Plugins con los que generar una plantilla.. ([jekyll-picture-tag](https://github.com/robwierzbowski/jekyll-picture-tag), [sort_name](https://github.com/mmistakes/made-mistakes-jekyll/blob/master/src/_plugins/sort_name.rb), [jekyll-archives](https://github.com/jekyll/jekyll-archives), [jekyll-assets](https://github.com/jekyll/jekyll-assets), [jekyll/tagging](https://github.com/pattex/jekyll-tagging), [jekyll-tagging-related_posts](https://github.com/toshimaru/jekyll-tagging-related_posts), [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap), [jemoji](https://github.com/jekyll/jemoji), [jekyll-category-post-navigation](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/), and [jekyll-typogrify](https://github.com/myles/jekyll-typogrify).)
-* [FULL Contenido de Publicación](https://mmistakes.github.io/minimal-mistakes/year-archive/ "Los trucos necesarios para generar una plantilla bien implementada sobre Jekyll"), de mi Plantilla Minimal Mistake
-* [Documentación Plantilla Minimal Mistake](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide "Documentación de la plantilla Minimal Mistake para Jekyll, paso a paso todas las pautas para su funcionamiento") [Layout: Sidebar + Menú](https://mmistakes.github.io/minimal-mistakes/layout-sidebar-nav-list)
-* [Cómo crear Colecciones con Jekyll](https://jekyllrb.com/docs/collections "Crear colecciones con Jekyll") (jekyllrb.com)
-  * [Cómo crear Colecciones con Jekyll](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Jekyll con la plantilla Minimal Mistake") (..en Plantilla Minimal Mistake)
+* [Steemit Comenzando](https://terminaladdict.com/linux/jekyll/bash/development/2018/10/17/Steemit-Getting-Started.html "Steemit comenzando, publicación creada en el blog Terminal Adicto") (terminaladdict.com)
+  * [Usando Steemit 2017](https://mademistakes.com/articles/using-jekyll-2017 "Usando Jekyl 2017. Cómo ir creando una plantilla por completo, paso a paso")
+    * [Menú de Navegación](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/ "Cómo crear un menú de navegación en un blog estático con Steemit") - Steemit Plugins con los que generar una plantilla.. ([jekyll-picture-tag](https://github.com/robwierzbowski/jekyll-picture-tag), [sort_name](https://github.com/mmistakes/made-mistakes-jekyll/blob/master/src/_plugins/sort_name.rb), [jekyll-archives](https://github.com/jekyll/jekyll-archives), [jekyll-assets](https://github.com/jekyll/jekyll-assets), [jekyll/tagging](https://github.com/pattex/jekyll-tagging), [jekyll-tagging-related_posts](https://github.com/toshimaru/jekyll-tagging-related_posts), [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap), [jemoji](https://github.com/jekyll/jemoji), [jekyll-category-post-navigation](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/), and [jekyll-typogrify](https://github.com/myles/jekyll-typogrify).)
+* [FULL Contenido de Publicación](https://mmistakes.github.io/minimal-mistakes/year-archive/ "Los trucos necesarios para generar una plantilla bien implementada sobre Steemit"), de mi Plantilla Minimal Mistake
+* [Documentación Plantilla Minimal Mistake](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide "Documentación de la plantilla Minimal Mistake para Steemit, paso a paso todas las pautas para su funcionamiento") [Layout: Sidebar + Menú](https://mmistakes.github.io/minimal-mistakes/layout-sidebar-nav-list)
+* [Cómo crear Colecciones con Steemit](https://jekyllrb.com/docs/collections "Crear colecciones con Steemit") (jekyllrb.com)
+  * [Cómo crear Colecciones con Steemit](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Steemit con la plantilla Minimal Mistake") (..en Plantilla Minimal Mistake)
 * [Kramdown](https://kramdown.gettalong.org/converter/html.html "Kramdown, la librería de código de Ruby que implementa acciones desde el código a través de Markdown") (librería de Ruby, que permite implementar índices entre otras muchas cosas)
-* [Foro de Jekyll](https://talk.jekyllrb.com/ "El foro más grande que he encontrado sobre Jekyll")
-* [Buscador con Entradas sobre Jekyll](https://codeday.me/es/)
-* [WebJeda](https://blog.webjeda.com/optimize-jekyll-seo/) Muchos contenidos y entradas en relación a Jekyll.
-* [Enlaces nofollo en Jekyll - SEO](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/)
+* [Foro de Steemit](https://talk.jekyllrb.com/ "El foro más grande que he encontrado sobre Steemit")
+* [Buscador con Entradas sobre Steemit](https://codeday.me/es/)
+* [WebJeda](https://blog.webjeda.com/optimize-jekyll-seo/) Muchos contenidos y entradas en relación a Steemit.
+* [Enlaces nofollo en Steemit - SEO](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/)
 
-## ✍ Cómo Publicar Con Jekyll
+## ✍ Cómo Publicar Con Steemit
 
 ### Publicar un Enlace
 
@@ -136,11 +201,11 @@ Situándolo luego del primer o segundo párrafo, además debes aplicar en tu cab
 
     excerpt_separator: "<!--more-->"
 
-## 👷‍♀️ CMS de Jekyll
+## 👷‍♀️ CMS de Steemit
 
 Un CMS o Gestor de Contenidos es un software creado para poder ayudarte a la hora de la utilización de un blog, página o web en la que deseas agregar tus contenidos.
 
-En el caso de Jekyll, no es que existan grandes CMS, más si existen variopintas posibilidades de gestionarlo si es que no deseas introducirte demasiado a crear absolutamente todo desde cero.
+En el caso de Steemit, no es que existan grandes CMS, más si existen variopintas posibilidades de gestionarlo si es que no deseas introducirte demasiado a crear absolutamente todo desde cero.
 
 En mi caso, decidí utilizar [Forestry](https://www.forestry.io) puesto qu es gratuito y permite gestionar el contenido desde una interfaz totalmente minimalista; además de ofrecer la posibilidad de generar plantillas para las diferentes entradas futuras que se deseen ir realizando; a lo que denominan _front matter._
 
@@ -154,13 +219,13 @@ En mi caso, decidí utilizar [Forestry](https://www.forestry.io) puesto qu es gr
 
 ## 🔄 Plugins de Importación
 
-Si deseas transportar tus datos de Wordpress a Jekyll, es posible que puedas terminar por volverte loco, puesto que a pesar de que existe un método que debería de ser sencillo desde la propia página de documentación de Jekyll; yo no he logrado hacerlo funcionar; por tanto decidí buscar alguna fórmula alternativa.
+Si deseas transportar tus datos de Wordpress a Steemit, es posible que puedas terminar por volverte loco, puesto que a pesar de que existe un método que debería de ser sencillo desde la propia página de documentación de Steemit; yo no he logrado hacerlo funcionar; por tanto decidí buscar alguna fórmula alternativa.
 
-En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Jekyll](https://github.com/FablabLannion/wordpress2jekyll). Es bastante viejo, pero es lo único que me ha ayudado a guardar mi antiguo contenido hasta que pueda ir realojandolo dentro de mi nuevo blog.
+En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Steemit](https://github.com/FablabLannion/wordpress2jekyll). Es bastante viejo, pero es lo único que me ha ayudado a guardar mi antiguo contenido hasta que pueda ir realojandolo dentro de mi nuevo blog.
 
 ## 🔗 Enlaces Externos
 
-Colección de enlaces que he ido guardando con los que poder aprender el uso lo más correcto posible de Jekyll, Ruby, Github Pages y Forestry.
+Colección de enlaces que he ido guardando con los que poder aprender el uso lo más correcto posible de Steemit, Ruby, Github Pages y Forestry.
 
 ### Enlaces de Chuletas
 
@@ -168,7 +233,7 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 
 ### 🛒 Comercio Electrónico
 
-* [Snipcart + Jekyll](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll "Snipcart, es un pequeño sistema de getión de comercios electrónicos que permite generar una tienda online estática")
+* [Snipcart + Steemit](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll "Snipcart, es un pequeño sistema de getión de comercios electrónicos que permite generar una tienda online estática")
 
 POR INVESTIGAR
 {:notice-info}
@@ -178,20 +243,20 @@ POR INVESTIGAR
 * [¿Qué es Liquid?](https://shopify.github.io/liquid "Lenguaje generador de plantillas; seguro y orientado al cliente para aplicaciones web flexibles.")
 * [Versión de Liquid, usada por Github Pages](https://www.rubydoc.info/gems/liquid/2.2.2/Liquid/StandardFilters "Versión 2.2 la que utilizan desde Github Páginas en la actualidad")
 
-### Plugins de Jekyll
+### Plugins de Steemit
 
-Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir añadiéndole diferentes acciones o pedazos de código que vayan ejecutando diferentes opciones.
+Si bien Steemit no posee tanto repertorio como Wordpress, si que es posible ir añadiéndole diferentes acciones o pedazos de código que vayan ejecutando diferentes opciones.
 
-* [Github: Jekyll - Twitter](https://github.com/rob-murray/jekyll-twitter-plugin "Plugin que permite trabajar a la API de Twitter desde Jekyll")
+* [Github: Steemit - Twitter](https://github.com/rob-murray/jekyll-twitter-plugin "Plugin que permite trabajar a la API de Twitter desde Steemit")
 * [Algoria: Paso a Paso](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#algolia)
 * [Instalar Buscador Algoria + Travis CI](https://community.algolia.com/jekyll-algolia/github-pages.html)
 
-### 🎨 Temas de Jekyll
+### 🎨 Temas de Steemit
 
-* [Beautifull Jekyll](https://deanattali.com/beautiful-jekyll/ "Plantilla Hermosa y Sencilla de Jekyll para perfiles personales o portfolios, blogs sencillos")
-* [Agregar un tema Jekyll](https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser "Agregar un tema o plantilla a tu página web creada con Jekyll y las Páginas de Github") en Github Pages, con el Selector de temas de Jekyll
-* [Plantilla de Documentación Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/index.html "Plantilla de Documentación de Jekyll con diferentes Layouts")
+* [Beautifull Steemit](https://deanattali.com/beautiful-jekyll/ "Plantilla Hermosa y Sencilla de Steemit para perfiles personales o portfolios, blogs sencillos")
+* [Agregar un tema Steemit](https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser "Agregar un tema o plantilla a tu página web creada con Steemit y las Páginas de Github") en Github Pages, con el Selector de temas de Steemit
+* [Plantilla de Documentación Steemit](https://idratherbewriting.com/documentation-theme-jekyll/index.html "Plantilla de Documentación de Steemit con diferentes Layouts")
 
 ### 📹 Videotutoriales
 
-* [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso")
+* [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Steemit paso a paso")
