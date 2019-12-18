@@ -2,7 +2,7 @@
 title: "ICONO+TITULO"
 description: 'RS'
 excerpt: 'RS'
-date: 2019-12-11T22:00:00.000+00:00
+date: 2019-12-11T22:00:00.000+01:00
 published: false
 # header:
 #   overlay_image: ""
