@@ -37,7 +37,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 </div>
 </div>
 <!-- CAJA 2 -->
-<div class="feature__wrapper">
+<div class="feature__wrapper" style="display:none;">
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
@@ -58,36 +58,19 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/logos/ciberninjas-emoji-160-110px.png" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
-        </div>
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">Conócenos</h2>
-            <div class="archive__item-excerpt">
-                <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador.</p>
-            </div>
-            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">💡 Qué Es</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">😼 Quién Soy</a></p>
-        </div>
-    </div>
-</div>
-</div>
-<!-- CAJA 4 -->
-<div class="feature__wrapper">
-<div class="feature__item--left">
-    <div class="archive__item">
-        <div class="archive__item-teaser">
             <a href="/directo/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">El sitio perfecto para desarrolladores web</h2>
             <div class="archive__item-excerpt">
-                <p>¿Eres desarrollador web? Los mejores recursos para los desarrolladores web están aquí. ¿Eres desarrollador web? Los mejores recursos para los desarrolladores web están aquí. ¿Eres desarrollador web? Los mejores recursos para los desarrolladores web están aquí.</p>
+                <p>¿Eres desarrollador web? Los mejores recursos para los desarrolladores web están aquí. Vas a tener acceso a los mejores repositorios, librerías de animaciones, herramientas y artículos del mundo del desarrollo web. Conviértete en un auténtico desarrollador web.</p>
             </div>
             <p><a href="/dise%C3%B1o-recursos/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Recursos Diseño Web 👨‍💻</a></p>
         </div>
     </div>
 </div>
 </div>
-<!-- CAJA 5 -->
+<!-- CAJA 4 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -104,7 +87,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 6 -->
+<!-- CAJA 5 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -121,7 +104,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 7 -->
+<!-- CAJA 6 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -138,7 +121,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 8 -->
+<!-- CAJA 7 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -155,7 +138,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 9 -->
+<!-- CAJA 8 -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -173,3 +156,37 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 </div>
 </div>
 <!-- Gráfica: https://app.flourish.studio/visualisation/1093102/edit -->
+<!-- CAJA 9 -->
+<div class="feature__wrapper">
+<div class="feature__item--left">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/logos/ciberninjas-emoji-160-110px.png" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Conócenos</h2>
+            <div class="archive__item-excerpt">
+                <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador. Breve historia e introducción del nacimiento y enfoque del punto de vista teecnológico de los Ciberninjas y su creador: Pablo Álvarez Corredera.</p>
+            </div>
+            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">💡 Qué Es</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">😼 Quién Soy</a></p>
+        </div>
+    </div>
+</div>
+</div>
+<!-- CAJA 9 -->
+<div class="feature__wrapper">
+<div class="feature__item--left">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/logos/ciberninjas-emoji-160-110px.png" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Biblioteca Personal</h2>
+            <div class="archive__item-excerpt">
+                <p>Dentro de esta sección podrás encontrar algunos abridores de mentes, junto a un sinfin de gustos personales o simplemente artículos culturales que por alguna razón he considerado que merece la pena tener en cuenta. Además, podrás encontrar una amplia librería de mis gustos personales, junto a enlaces sobre otras aficiones personales.</p>
+            </div>
+            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">💡 Qué Es</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">😼 Quién Soy</a></p>
+        </div>
+    </div>
+</div>
+</div>
