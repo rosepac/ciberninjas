@@ -19,12 +19,12 @@ header:
 excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.."
 ---
 
-<!-- CAJA 1 -->
+<!-- CAJA 1 PROGRAMACION-->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/directo/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
+            <a href="/directo/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="/assets/images/portada/neo-matrix.gif" alt="Aprende a programar y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Vamos a programar mis Ciberninjas</h2>
@@ -36,7 +36,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 2 -->
+<!-- CAJA 2 FRAMEWORKS -->
 <div class="feature__wrapper" style="display:none;">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -53,7 +53,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 3 -->
+<!-- CAJA 3 DESARROLLO WEB -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -70,7 +70,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 4 -->
+<!-- CAJA 4 DISEÑADORES GRÁFICOS -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -87,19 +87,36 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 5 -->
+<!-- CAJA 5 - REGALOS -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/amazon/" alt="El Regalazo del Año"><img src="https://i.ibb.co/TK5yj59/regalo-pequeno-disfrutando.gif" alt="Me encanta y amo este pedazo de regalo"></a>
+            <a href="/amazon/" title="El Regalazo de Navidad para Geeks"><img src="/assets/images/portada/regalo-pequeno-disfrutando.gif" alt="Me encanta y amo este pedazo de regalo"></a>
         </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">Regalazos y Catálogo de Librería</h2>
+            <h2 class="archive__item-title">Regalazos Navideños para Geeks</h2>
             <div class="archive__item-excerpt">
                 <p>Las <strong>mejores ofertas</strong> en libros de programación y <strong>regalos</strong> especiales para geeks o cualquier amante de la computación, la electrónica o los gadgets tecnológicos.</p>
             </div>
             <p><a href="/amazon/" class="btn btn--inverse btn--large">Saber Más</a></p>
+        </div>
+    </div>
+</div>
+</div>
+<!-- CAJA 5 BIS - LIBRERÍA -->
+<div class="feature__wrapper">
+<div class="feature__item--left">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <a href="/catalogo/" title="El Catálogo de la Librería de Ciberninjas"><img src="/assets/images/portada/libros-mariposa.gif" alt="Los mejores libros de programación, desarrollo web y tecnología del mundo"></a>
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Catálogo de la Librería Ciberninjas</h2>
+            <div class="archive__item-excerpt">
+                <p>Las <strong>mejores ofertas</strong> en libros de programación y <strong>regalos</strong> especiales para geeks o cualquier amante de la computación, la electrónica o los gadgets tecnológicos.</p>
+            </div>
+            <p><a href="/libros/" class="btn btn--inverse btn--large">Libros Tecnología</a> <a href="/libros-texto/" class="btn btn--inverse btn--large">Libros Educativos</a> <a href="/libreria/" class="btn btn--inverse btn--large">Librerías</a></p>
         </div>
     </div>
 </div>
@@ -121,42 +138,59 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 7 -->
+<!-- CAJA 6 BIS NOTICIAS EN DIRECTO DE TECNOLOGÍA -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/historia-computadora/" title="Aprendiendo con Ciberninjas la historia de la Computación Informática y los Personajes más importantes de la misma"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Aprendiendo con Ciberninjas la Historia de la Computación Informática y los Personajes más importantes de la misma"></a>
+            <a href="/directo/" title="Noticias en Directo"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
         </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">Historia y Personajes de la Programación y la Computación Informática</h2>
+            <h2 class="archive__item-title">Noticias Tecnológicas en Directo</h2>
             <div class="archive__item-excerpt">
-                <p>¿Quieres conocer los acontecimientos y personas más importantes de la historia de la programación? Ven y ojea nuestro cronograma historico y cartel de personajes historicos de la computación.</p>
+                <p>Aquí vas a poder encontrar todas las listas de Twitter clasificadas por diferentes temáticas en las que se incluyen las cuentas de las personas y empresas más importantes referentes a cada una de las temáticas; programación, noticias de tecnología, la actualidad del software, los videojuegos, la ciberseguridad..</p>
             </div>
-            <p><a href="/historia-computadora/cronograma/" title="Conociendo con Ciberninjas los acontecimientos más importantes de la historia de la programación" class="btn btn--inverse btn--large">Cronograma</a> <a href="/personajes-historicos/" title="Conociendo con Ciberninjas los personajes más importantes de la historia de la programación" class="btn btn--inverse btn--large">Personajes Históricos</a> <a href="/catalogo/libros-texto/" class="btn btn--inverse btn--large">Libros de Texto</a></p>
+            <p><a href="/cursos-educacion/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Cursos Educación</a> <a href="/las-mejores-aplicaciones-escolares-seguimiento-tareas/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Aplicaciones Escolares</a> <a href="/catalogo/libros-texto/" class="btn btn--inverse btn--large">Libros de Texto</a></p>
         </div>
     </div>
 </div>
 </div>
-<!-- CAJA 8 -->
+<!-- CAJA 7 HISTORIA Y PERSONAJES DE COMPUTACION -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/directo/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
+            <a href="/historia-computadora/" title="Aprendiendo con Ciberninjas la historia de la Computación Informática y los Personajes más importantes de la misma"><img src="/assets/images/portada/creando-codigo-antiguo.gif" alt="Aprendiendo con Ciberninjas la Historia de la Computación Informática y los Personajes más importantes de la misma"></a>
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Historia y Personajes de la Programación y la Computación Informática</h2>
+            <div class="archive__item-excerpt">
+                <p>¿Quieres conocer los acontecimientos y personas más importantes de la historia de la programación? Ven y ojea nuestro cronograma histórico y cartel de personajes históricos de la computación.</p>
+            </div>
+            <p><a href="/historia-computadora/cronograma/" title="Conociendo con Ciberninjas los acontecimientos más importantes de la historia de la programación" class="btn btn--inverse btn--large">Cronograma</a> <a href="/personajes-historicos/" title="Conociendo con Ciberninjas los personajes más importantes de la historia de la programación" class="btn btn--inverse btn--large">Personajes Históricos</a></p>
+        </div>
+    </div>
+</div>
+</div>
+<!-- CAJA 8 SEGURIDAD EN INTERNET Y EFF -->
+<div class="feature__wrapper">
+<div class="feature__item--left">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <a href="/eff/" title="Entra y lee todos los artículos de la Fundación Frontera Electrónica en Español"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Seguridad en Internet</h2>
             <div class="archive__item-excerpt">
                 <p>¿Dudas como protegerte ante las amenazas de la red abierta? Vamos a aprender a protegernos en todos los aspectos en los que nos involucra la red con la Ayuda de la Fundación Frontera Electrónica y todas sus amplias guías en español.</p>
             </div>
-            <p><a href="/eff/" title="Entra y lee todos los artículos de la Fundación Frontera Electrónica" class="btn btn--inverse btn--large">🛡</a> <a href="/eff/fundacion-frontera-electronica/" title="Cono todo sobre la  EFF, la principal organización sin fines de lucro que defiende la privacidad digital, la libertad de expresión y la innovación" class="btn btn--inverse btn--large">Qué es la EFF</a> <a href="/eff/libertad-expresion/" class="btn btn--inverse btn--large">Libertad de Expresión</a> <a href="/eff/privacidad/" class="btn btn--inverse btn--large">Privacidad</a> <a href="/eff/autodefensa/" class="btn btn--inverse btn--large">Guías de Autodefensa</a></p>
+            <p><a href="/eff/fundacion-frontera-electronica/" title="Cono todo sobre la  EFF, la principal organización sin fines de lucro que defiende la privacidad digital, la libertad de expresión y la innovación" class="btn btn--inverse btn--large">Qué es la EFF</a> <a href="/eff/libertad-expresion/" class="btn btn--inverse btn--large">Libertad de Expresión</a> <a href="/eff/privacidad/" class="btn btn--inverse btn--large">Privacidad</a> <a href="/eff/autodefensa/" class="btn btn--inverse btn--large">Guías de Autodefensa</a></p>
         </div>
     </div>
 </div>
 </div>
 <!-- Gráfica: https://app.flourish.studio/visualisation/1093102/edit -->
-<!-- CAJA 9 -->
+<!-- CAJA 9 CONOCIENDO A CIBERNINJAS -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -173,7 +207,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 9 -->
+<!-- CAJA 10 ENLACES Y BLOG PERSONAL -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -185,7 +219,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>Dentro de esta sección podrás encontrar algunos abridores de mentes, junto a un sinfin de gustos personales o simplemente artículos culturales que por alguna razón he considerado que merece la pena tener en cuenta. Además, podrás encontrar una amplia librería de mis gustos personales, junto a enlaces sobre otras aficiones personales.</p>
             </div>
-            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">💡 Qué Es</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">😼 Quién Soy</a></p>
+            <p><a href="/articulos/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">Artículos</a> <a href="/lecturas/" class="btn btn--inverse btn--large">Lecturas</a> <a href="/referentes-historicos/" class="btn btn--inverse btn--large">Referentes</a> <a href="/politica/" class="btn btn--inverse btn--large">Política</a></p>
         </div>
     </div>
 </div>
