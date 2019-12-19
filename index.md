@@ -16,7 +16,8 @@ header:
 #    - label: "👨‍💻 Libros"
 #      url: "/biblioteca-de-programacion-y-tecnologia/"
   caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
-excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.. ¡Entra y conviértete en un auténtico ciberninja! "
+excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más..
+¡Entra y conviértete en un auténtico ciberninja! "
 ---
 
 <!-- CAJA 1 PROGRAMACION-->
@@ -194,7 +195,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/eff/" title="Entra y lee todos los artículos de la Fundación Frontera Electrónica en Español"><img src="/assets/images/portada/seguridad-camaras.gif" alt="Guías de seguridad y ciberseguridad creadas por la Fundación en Defensa de Internet, Fundación Frontera Electrónica"></a>
+            <a href="/eff/" title="Entra y lee todos los artículos de la Fundación Frontera Electrónica en Español"><img src="/assets/images/portada/peligro-candado.gif" alt="Guías de seguridad y ciberseguridad creadas por la Fundación en Defensa de Internet, Fundación Frontera Electrónica"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Seguridad en Internet</h2>
@@ -236,7 +237,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>Dentro de esta sección podrás encontrar algunos abridores de mentes, junto a un sinfin de gustos personales o simplemente artículos culturales que por alguna razón he considerado que merece la pena tener en cuenta. Además, podrás encontrar una amplia librería de mis gustos personales, junto a enlaces sobre otras aficiones personales.</p>
             </div>
-            <p><a href="/articulos/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">Artículos</a> <a href="/lecturas/" class="btn btn--inverse btn--large">Lecturas</a> <a href="/referentes-historicos/" class="btn btn--inverse btn--large">ReferentesH</a> <a href="/politica/" class="btn btn--inverse btn--large">Política</a></p>
+            <p><a href="/articulos/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">Artículos</a> <a href="/lecturas/" class="btn btn--inverse btn--large">Lecturas</a> <a href="/referentes-historicos/" class="btn btn--inverse btn--large">Referentes</a> <a href="/politica/" class="btn btn--inverse btn--large">Política</a></p>
         </div>
     </div>
 </div>
