@@ -1,6 +1,6 @@
 ---
 title: "Blog de Las Últimas Entradas"
-permalink: /blog/
+# permalink: /blog/
 # layout: posts
 layout: grid
 author_profile: false
