@@ -458,6 +458,7 @@ sidebar:
 * [Actualización PHP 7](https://www.udemy.com/actualizacion-php-7) (Udemy)
 * [Aprende programación básica con PHP](https://www.udemy.com/aprende-programacion-basica-con-php) (Udemy)
 * [Como crear documentos PDF en PHP: generar reportes PDF](https://www.udemy.com/como-crear-documentos-pdf-en-php-generar-reportes-pdf) (Udemy)
+* [Curso de PHP 7 y MySQL](/👨‍🏫-curso-php-7-mysql-purito-codigo) (Purito Código, Youtube)
 
 ## PHP Framework <i class="fab fa-php"></i>
 
@@ -767,6 +768,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 [Bootstrap <i class="fab fa-bootstrap"></i>](/cursos-tecnologia/#bootstrap-){: .btn .btn--inverse .btn--large} [Lenguaje de Estilos y Preprocesadores 🎨](/cursos-tecnologia/#lenguaje-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/cursos-tecnologia/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/cursos-tecnologia/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large}
 
 * [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
+* [Como crear una web básica desde cero](👨‍🏫-curso-crear-pagina-web-basica-desde-cero) (Purito Código, Youtube)
 
 ## Bootstrap <i class="fab fa-bootstrap"></i>
 
@@ -787,12 +789,15 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 
 ## Lenguajes de Estilos y Preprocesadores 🎨
 <!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
+* [Como crear galerías sencillas y varios efectos en CSS Purito Código](/👨‍🏫-galerias-varios-efectos-css-purito-codigo) (Purito Código, Youtube)
 * [CSS desde Cero](https://ed.team/cursos/css) (EdTeam)
+* [CSS Grid](/👨‍🏫-curso-css-grid-purito-codigo) (Purito Código, Youtube)
 * [CSS Variables](https://ed.team/cursos/variables-css) (EdTeam)
 
 ## Lenguajes de Marcado ✍
 <!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml, markdown  -->
 * [Aprenda Markdown desde Cero](https://www.udemy.com/course/aprenda-markdown-desde-cero/) (Udemy)
+* [Curso de HTML 5](/👨‍🏫-curso-html-purito-codigo) (Purito Código, Youtube)
 * [HTML desde Cero](https://ed.team/cursos/html) (EdTeam)
 * [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
 

@@ -1,0 +1,23 @@
+---
+author_profile: false
+title: "👨‍🏫 Curso de CSS Grid por Purito Código"
+description: "👩‍🎨 Curso de CSS Grid por Purito Código"
+excerpt: "👩‍🎨 Curso de CSS Grid por Purito Código"
+permalink: /👨‍🏫-curso-css-grid-purito-codigo
+canonical_URL: https://ciberninjas.com/👨‍🏫-curso-css-grid-purito-codigo
+header:
+  video:
+    id: playlist?list=PL8M1frRRqO_qX5Jc8TGHCchhfVdst-DqK
+    provider: youtube
+comments: true
+date: 2019-12-19
+tags:
+# Creador, Editorial, Temática, Tipo de Música
+- Purito Código
+- CSS
+categories:
+- Videotutorial CSS
+sidebar:
+- title: "Menú Videotutoriales"
+  nav: vtuto
+---
