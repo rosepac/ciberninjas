@@ -1,7 +1,8 @@
 ---
 title: "Publicaciones por Fecha"
-permalink: /blog/
-layout: posts
+permalink: /archivo/
+# layout: posts
+layout: grid
 author_profile: false
 sidebar:
 - title: "Menú Principal"
