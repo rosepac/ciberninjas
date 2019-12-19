@@ -1,5 +1,5 @@
 ---
-published:false
+published: false
 ---
 
 El Machine Learning o Aprendizaje Profundo es.. 
