@@ -26,6 +26,7 @@ Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un 
 
 ## 🕵️‍♂️ Enlaces por Investigar
 
+* [Jekyll Paginación 2](https://github.com/sverrirs/jekyll-paginate-v2)
 * [GDPR](https://github.com/mmistakes/minimal-mistakes/issues/1867#issuecomment-440663127) o como cumplir la legislación de Cookies de la Unión Europea.
 * [Configurar plantilla, buscador.. Y otros Ajustes del Tema](https://mmistakes.github.io/minimal-mistakes/docs/configuration "Configuración de la Plantilla") (- por revisar la implementación de un mejor buscador ¿Algabia? y ajustar algunos otros distintos parámetros -)
 
