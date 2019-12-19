@@ -1,10 +1,9 @@
 ---
-title: "Blog de Las Últimas Entradas"
+layout: default
+title: "Blog de Mis Últimas Entradas"
 # permalink: /blog/
 # layout: posts
-layout: grid
-author_profile: false
-sidebar:
-- title: "Menú Principal"
-  nav: general
+# sidebar:
+# - title: "Menú Principal"
+#   nav: general
 ---
