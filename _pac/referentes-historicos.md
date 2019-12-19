@@ -46,6 +46,4 @@ Escritor "peculiar" - investigar :D
 
 * [Hacker News Noticia](https://news.ycombinator.com/item?id=21230418) https://fs.blog/2019/10/the-best-of-goethes-aphorisms/
 
-* [Kim Ung Yong](https://www.storypick.com/kim-ung-yong/) -> Científico de la Nasa que deja su trabajo para se profesor en su país.
-
 ## Vicente Blasco Ibáñez
