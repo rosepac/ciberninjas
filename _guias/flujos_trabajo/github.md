@@ -20,7 +20,9 @@ toc_sticky: true
 ---
 
 * [Github]()
+* [Cómo utilizar .gitignore](https://desarrolloweb.com/articulos/archivo-gitignore.html)
 
 ## Sistemas de Integración Continua
 
 * [Travis CI Foro de Ayuda](https://travis-ci.community/latest)
+  * Travis Despliegue Nueva Versión 2.0 [v 2.0](https://docs.travis-ci.com/user/deployment-v2)
