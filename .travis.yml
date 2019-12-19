@@ -2,8 +2,6 @@
 # This file should be at the root of your project   
 
 language: ruby
-rvm:
- - 2.5.3
 cache: bundler
 before_install:
   - gem update --system
@@ -14,3 +12,5 @@ branches:
   only:
     # Change this to gh-pages if you're deploying using the gh-pages branch
     - master
+rvm:
+ - 2.5.3
