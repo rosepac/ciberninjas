@@ -7,8 +7,8 @@ main:
     url: /guias/
   - title: "💡 Qué es"
     url: /que-es-ciberninjas/
-  - title: "📁 Archivo"
-    url: /blog/
+#  - title: "📁 Archivo"
+#    url: /blog/
   - title: "🧰 Recursos"
     url: https://kutt.it/recursos-globales"
   - title: "👨‍🏫 Tutoriales"
