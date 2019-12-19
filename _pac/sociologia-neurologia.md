@@ -20,3 +20,11 @@ https://www.youtube.com/watch?v=-zt0sWrLIUg
 Stephen Wiltshire https://www.youtube.com/watch?v=JrhLWoMl7_Y
 
 El síndrome de Savant?.. Buscar personas y vídeos colocar en Sociología, Savant. Categoría..
+
+* [Kim Ung Yong](https://www.storypick.com/kim-ung-yong/) -> Científico de la Nasa que deja su trabajo para se profesor en su país.
+
+## Frases Épicas
+
+> Para que el mal triunfe, solo se necesita que los hombres buenos no hagan nada.
+> Edmund Burke
+
