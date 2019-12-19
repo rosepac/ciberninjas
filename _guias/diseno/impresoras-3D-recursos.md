@@ -6,7 +6,7 @@ excerpt: "🔨 ▷ Los Mejores Recursos para Impresoras 3D Gratis"
 author_profile: false
 published: true
 date: 2019-12-14T13:32:42+01:00
-last_modified_at: 2019-12-14T13:42:42+01:00
+last_modified_at: 2019-12-14T16:42:42+01:00
 permalink: /impresoras-3d-recursos/
 canonical_URL: https://ciberninjas.com/impresoras-3d-recursos/
 header:
