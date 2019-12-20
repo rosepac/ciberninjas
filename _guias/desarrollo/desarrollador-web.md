@@ -5,7 +5,7 @@ excerpt: "📌 Aprende a programar con varios lenguajes y frameworks diferentes.
 published: true
 comments: true
 date: 2019-12-20
-classes: wide
+# classes: wide
 last_modified_at: 2019-12-20
 permalink: /desarrollador-web/
 # header:
