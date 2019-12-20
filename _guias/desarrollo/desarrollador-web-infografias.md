@@ -1,11 +1,11 @@
 ---
-title: 👨‍💻 ▷ _Infografías de Desarrollo Web
+title: 👨‍💻 ▷ Infografías de Desarrollo Web
 description: "📌  Las mejores infografías para desarrolladores web."
 excerpt: "📌  Las mejores infografías para desarrolladores web."
 published: true
 comments: true
 date: 2019-12-20
-# classes: wide
+classes: wide
 last_modified_at: 2019-12-20
 permalink: /desarrollador-web-infografias/
 # header:
@@ -19,14 +19,11 @@ toc_sticky: true
 
 ---
 
-COMPLETAS
-<a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/h7DWVNM/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a>
+
 
 MINIATURAS
-<a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a><a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a><a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a><a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a><a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a>
+<a href="https://ciberninjas.com/desarrollador-web-infografias/#comparativa-entre-nodejs-y-python"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="Comparativa de diferencias entre node js y python" border="0"></a>
 
-<a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a>
+## Comparativa entre NodeJS y Python
 
-<a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a>
-
-<a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a>
+<a href="https://ibb.co/gjzTJ87" title="Ver en IMGBB"><img src="https://i.ibb.co/h7DWVNM/diferencia-nodejs-python.png" alt="Comparativa de diferencias entre node js y python" border="0"></a>
