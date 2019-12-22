@@ -1,19 +1,30 @@
 ---
-title: 👨‍🚀 ▷ Recursos \ Cómo Aprender Inteligencia Artificial
-description: '🔨 🐍 Los Mejores Recursos con los que Aprender Inteligencia Artificial'
-excerpt: '🔨 🐍 Los Mejores Recursos con los que Aprender Inteligencia Artificial'
+title: 🧠 ▷ Cómo Aprender Inteligencia Artificial
+description: '💡 Los Mejores Recursos con los que Aprender Inteligencia Artificial'
+excerpt: '💡 Los Mejores Recursos con los que Aprender Inteligencia Artificial'
 published: false
 author: rosepac
 comments: true
-date: 2019-10-08 12:06:18
+date: 2019-12-22 01:06:18
 last_modified_at: 
 permalink: /inteligencia-artificial/
 canonical_URL: https://ciberninjas.com/inteligencia-artificial/
+header:
+  teaser: https://i.ibb.co/XyLXmhK/nube-palabras-inteligencia-artificial.jpg
+  overlay_image: https://i.ibb.co/XyLXmhK/nube-palabras-inteligencia-artificial.jpg
+  overlay_filter: "0.2"
+  image_description: "Cómo aprender la Inteligencia Artificial en Ciberninjas"
+  image_alt: "Cómo aprender la Inteligencia Artificial en Ciberninjas"
+  caption: "Créditos: Ben Taylor: [Flickr](https://www.flickr.com/photos/182229932@N07/48688109908) bajo [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)"
+#  actions:
+#    - label: "Recursos Diseño Web"
+#      url: "/diseño-recursos/"
 ---
 
 ## ¿Cómo aprender Inteligencia Artificial?
 
-
+👷‍♂️🚧 EN CONSTRUCCIÓN 🚧👷
+{: .notice--warning}
 
 ## ¿Qué campos de Inteligencia Artificial existen?
 
@@ -40,11 +51,30 @@ Cualquier enfoque personalizado para la IA requerirá su propia programación y 
 
 * [Guía UX para la Inteligencia Artificial](https://uxofai.com/){:target="_blank"}
 
-## Páginas Web de Inteligencia Artificial
+## Artículos en Inglés
+
+* [Clasificación de Cognilytica del ecosistema de proveedores de IA: Parte I](https://www.cognilytica.com/2019/01/16/cognilyticas-classification-of-the-ai-vendor-ecosystem-overview-and-bottom-3-layers/)
+* [Clasificación de Cognilytica del ecosistema de proveedores de IA: Parte II](https://www.cognilytica.com/2019/01/21/cognilyticas-classification-of-the-ai-vendor-ecosystem-part-ii/)
+* [Una guía completa de OCR con Tesseract, OpenCV y Python](https://nanonets.com/blog/ocr-with-tesseract/#technologyhowitworks)
+* [Viaje a la inteligencia artificial](https://babin-business-consulting.com/journey-to-artificial-intelligence) [Parte II](https://babin-business-consulting.com/the-journey-to-ai-part-ii) [Parte III](https://babin-business-consulting.com/the-journey-to-ai-part-iii)
+
+## Blogs de Inteligencia Artificial
 
 * [MIT Technology Review en Español](https://www.technologyreview.es/){:target="_blank"}
+
+## Blogs de Inteligencia Artificial en Inglés
+
+* [Inteligencia Artificial en Abierto](https://openai.com/blog/){:target="_blank"}
 
 ## Bases de Datos de Inteligencia Artificial
 
 * [ImageNET](http://www.image-net.org/){:target="_blank"}
 * [Datos de RoboNet](https://www.robonet.wiki/){:target="_blank"}
+
+## Librerías
+
+* [Open CV](https://es.wikipedia.org/wiki/OpenCV)
+
+## Motores de Reconocimiento
+
+* [Terresact](https://github.com/tesseract-ocr/) Este paquete contiene un motor de OCR y un programa de línea de comandos - tesseract. Tesseract 4 agrega un nuevo motor de OCR basado en red neuronal..
