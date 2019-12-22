@@ -10,8 +10,8 @@ last_modified_at:
 permalink: /inteligencia-artificial/
 canonical_URL: https://ciberninjas.com/inteligencia-artificial/
 header:
-  teaser: https://i.ibb.co/XyLXmhK/nube-palabras-inteligencia-artificial.jpg
-  overlay_image: https://i.ibb.co/XyLXmhK/nube-palabras-inteligencia-artificial.jpg
+  teaser: /assets/images/tematicas/nube-palabras-inteligencia-artificial-min.jpg
+  overlay_image: /assets/images/tematicas/nube-palabras-inteligencia-artificial-min.jpg
   overlay_filter: "0.2"
   image_description: "Cómo aprender la Inteligencia Artificial en Ciberninjas"
   image_alt: "Cómo aprender la Inteligencia Artificial en Ciberninjas"
