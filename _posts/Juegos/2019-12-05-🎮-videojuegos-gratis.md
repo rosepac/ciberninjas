@@ -47,16 +47,22 @@ Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fie
 
 Epic Games lleva unos días, y va a seguir regalando un videojuego por cada día que pase..
 
-![](https://live.staticflickr.com/387/32567679720_f1a57964ec_b.jpg)
+![](https://i.ytimg.com/vi/dH6hCAK24Ok/maxresdefault.jpg)
 
-Hoy, 23 de Diciembre: [Little Inferno](https://www.epicgames.com/store/es-ES/product/little-inferno/home){:target="_blank"}
+Hoy.. [Ape Out](https://www.epicgames.com/store/es-ES/product/ape-out/home){:target="_blank"}
 
+[🎮 DESCARGA EL JUEGO DE HOY 🎮](https://www.epicgames.com/store/es-ES/free-games){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+### Juegos Anteriores
+
+<figure>
+    <a href="https://i.ibb.co/nn9VFyG/maxresdefault.jpg" class="image-popup" title="Little Inferno"><img src="https://i.ibb.co/hZbnSN6/maxresdefault.jpg" alt="Appe Out"></a>
+    <figcaption>Little Inferno | Visto en Ciberninjas</figcaption>
+</figure>
 <figure>
     <a href="https://i.ibb.co/Ngv4kyf/image.png" class="image-popup" title="Little Inferno"><img src="https://i.ibb.co/nqGWVL4/image.png" alt="Little Inferno"></a>
     <figcaption>Little Inferno | Visto en Ciberninjas</figcaption>
 </figure>
-
-[🎮 DESCARGA EL JUEGO DE HOY 🎮](https://www.epicgames.com/store/es-ES/free-games){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## Juegos Gratis de Epic Games
 
@@ -402,4 +408,4 @@ La exploración generalmente implica explorar varias etapas, con algunos gigante
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 [📰 Noticias Videojuegos](/directo/){: .btn .btn--warning .btn--large .align-center}
-[🎨 Wallpapers](https://ibb.co/album/bKkgdv){: .btn .btn--warning .btn--large .align-center}
+[🎨 Wallpapers](https://ibb.co/album/bKkgdv){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
