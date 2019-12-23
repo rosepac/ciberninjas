@@ -84,6 +84,8 @@ Gustavo Bueno: Panfleto contra la democracia realmente existente.
 
 ### Historia de Cataluña
 
+* [López Bofill, un provocador en la lista de Puigdemont](https://gaceta.es/espana/lopez-bofill-un-provocador-en-la-lista-de-puigdemont-20171117-0150/) >>> Cita literal "toda transformación profunda constitucional pide muertos"
+* [Aragonès pide “no aflojar” las movilizaciones para forzar una negociación sobre Cataluña](https://elpais.com/ccaa/2019/11/13/catalunya/1573637158_022277.html)
 * [Un fiel a Puigdemont hizo listas políticas de jefes de los Mossos](https://www.elperiodico.com/es/politica/20191114/puigdemont-mossos-terradellas-lista-patriotismo-7735095){:target="_blank"}
 * [Los Mossos harán su mayor auditoría interna](http://www.rtve.es/noticias/20191029/mossos-haran-su-mayor-auditoria-interna-su-labor-disturbios-movilizaciones-sentencia-del-proces/1986486.shtml){:target="_blank"}
 * [Víctor Tarradellas](https://www.elperiodico.com/es/politica/20191113/perfil-victor-terradellas-puigdemont-7733755){:target="_blank"} \ [Fundación CatMon](https://www.lavanguardia.com/politica/20180524/443796098348/catmon-udef-victor-terradellas.html){:target="_blank"}

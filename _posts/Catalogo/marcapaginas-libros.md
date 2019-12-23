@@ -10,6 +10,7 @@ permalink: /marcapaginas-libros/
 * [Marcapáginas de Dragón by Mr. Wonderfull](https://muymolon.com/descargables/marcapaginas-originales/)
 * [Marcapáginas de Corazón Cucki by Mr. Wonderfull](https://docs.google.com/forms/d/e/1FAIpQLSdp-lDMOlY79aVHPPGdQr83wZ6YheGxqUrUHN9pMStpQg2WbQ/viewform?c=0&w=1)
 * [Marcapáginas de Dragón con Dientitos by Mr. Wonderfull](https://docs.google.com/forms/d/e/1FAIpQLSd_w-RAiImiXYjKitUaKAvSm6GNFgfn5KWSPwlbX3BdXGXR3Q/viewform?c=0&w=1)
+* [Marcapáginas Te Voy a Deborar](https://drive.google.com/file/d/0B54FfR_tUggwUno1SlBsQnZZeDA/edit)
 
 ## Carteles de Oficina Cuckis
 
@@ -25,3 +26,7 @@ permalink: /marcapaginas-libros/
 ## Cartas Cuckis
 
 * Botiquin que Cura todos los Males [Caja](https://drive.google.com/file/d/0B54FfR_tUggwX0VpVFM1N3ZuVXc/view) [Cartas](https://drive.google.com/file/d/0B54FfR_tUggwTkN0QnNqSTVUalU/view)
+
+## Fondos de Pantalla Móviles
+
+* [Galshir Wallpapers](https://galshir.com/wallpapers)
