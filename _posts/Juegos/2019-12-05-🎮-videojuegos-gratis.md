@@ -43,71 +43,43 @@ Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fie
 
 ## GRATIS AHORA 🎉 
 
-## Black Survival - Alpha \ Steam
+## Epic Games
 
-![Black Survival Alpha 4](https://i.ibb.co/jvrD98w/maxresdefault.jpg "Black Survival Alpha 4")
+Epic Games lleva unos días, y va a seguir regalando un videojuego por cada día que pase..
 
-Black Survival es el juego de supervivencia en tiempo real que juegan 10 personas en una isla desierta. Las reglas básicas son simples. Toma decisiones con un solo clic. Pero la inmersión que siente el jugador es enorme. Para sobrevivir, no puedes quedarte ni un segundo. ¡Busca, crea, ataca y huye!
+![](https://live.staticflickr.com/387/32567679720_f1a57964ec_b.jpg)
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/nn9ucBDo_rA?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+Hoy, 23 de Diciembre: [Little Inferno](https://www.epicgames.com/store/es-ES/product/little-inferno/home){:target="_blank"}
 
-[🎮 PRUEBALO GRATIS LAS PRÓXIMAS 48 HORAS 🎮](https://store.steampowered.com/app/1201710/Black_Survival_Eternal_Return__4th_Alpha/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+<a href="https://i.ibb.co/Ngv4kyf/image.png"><img src="https://i.ibb.co/nqGWVL4/image.png" alt="Little Inferno" border="0"></a>
 
-## Postal 2 \ GOG
+[🎮 DESCARGA EL JUEGO DE HOY 🎮](https://www.epicgames.com/store/es-ES/free-games){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-🛑 Portal es un videojuego enfocado a personas mayores de 18 años
-{: .notice--warning}
+## Juegos Gratis de Epic Games
 
-![Postal 2](https://i.ibb.co/Jphtwmy/images-q-tbn-ANd9-Gc-Rttgx-NBWPr-OQs4i-Ko-N59-WVjv-Jg1i-1-Dyv-HJXTD2-AOHi-Et-LQyj5-GQ-s.jpg "Postal 2")
+### Auto Chess
 
-Vive una semana en la vida de "The Postal Dude"; un desafortunado hombre tratando de realizar algunas tareas. Comprar leche, devolver un libro de la biblioteca vencido, obtener el autógrafo de Gary Coleman, ¿qué podría salir mal? Ábrete paso, pica y orina en un espectáculo de caricaturas americanas en esta oscura y graciosa aventura en primera persona.
+![](https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_1600/ru3bc7c3xrarc0xovpht.jpg)
 
-¡Conoce a Krotchy: una mascota de juguete, visita a tu tío Dave en su complejo de culto religioso asediado y lucha contra los talibanes que habitan en las alcantarillas cuando menos te lo esperas! Soporta el desafío de apretar el esfínter de los rednecks caníbales, policías corruptos y elefantes berserker. Acompañado de Champ, el pitbull semi-leal de Dude, que se abre camino a través de entornos abiertos poblados con una IA increíblemente impredecible.
+[🎮 DESCARGA AUTOCHESS 🎮](https://www.epicgames.com/store/es-ES/product/auto-chess/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-Utiliza un arsenal de armas que van desde una humilde pala hasta un lanzacohetes singularmente hilarante. ¡Recoge un paquete de perros de ataque! ¡Usa gatos como silenciadores! ¡Orina y vierte gasolina en cualquier cosa y en todos! No apto para cardíacos, ¡Juégalo unicámente si te encanta el humor negro!
+### Battle Breakers
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/5LwQDF-iBN0?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+![](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/11/battle-breakers_2.jpg)
 
-💡 Requiere Registro en la Página Web de GOG
-{: .notice--info}
+Battle Breakers es un juego de rol táctico. El título tuvo un lanzamiento suave en países seleccionados en 2017. Ahora el juego es gratuito para todos. El juego se basa en que unos monstruos del espacio han atrapado a los héroes más grandes del mundo en cristal tecnológico, ¡y los héroes de Save The World están listos para unirse a la lucha!
 
-[🎮 HASTA EL 18/12/2019 GRATIS 🎮](https://www.gog.com/game/postal_2){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎮 DESCARGA BATTLE BREAKERS 🎮](https://www.epicgames.com/battlebreakers/es-ES/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
-[🎮 + PORTAL 1 GRATIS 🎮](https://www.gog.com/game/postal_classic_and_uncut){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+### The Cycle
 
-## Draw Slasher \ Steam
+![](https://www.gamereactor.es/media/grtv/83/398313_w926.jpg)
 
-![Draw Slasher](https://i.ibb.co/SRvNNwt/wallpaper-splash-wall-1920x1200.jpg "Draw Slasher")
+The Cycle es un juego competitivo de disparos y misiones (JcEcJ) que ofrece una propuesta inédita. Competirás contra otros prospectores o bien colaborarás con ellos para obtener todos los recursos posibles y escapar de Fortuna III antes de que el planeta acabe contigo. Esto significa que, en The Cycle, gana el prospector que logre salir del planeta a tiempo con más contratos completados durante la partida. En teoría, se puede jugar sin enfrentarse a otros jugadores. Salvo que seas un cazador de jugadores, la única razón para participar en el JcJ es cumplir objetivos o pararle los pies a un prospector que tenga más contratos que tú.
 
-Conoce a Hanzo Eel ninja. Mientras estaba entrenando afuera. Los Pirate Monkey Zombies unas criaturas estúpidas, feas, malolientes, podridas y desagradables, secuestraron a su familia.
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/0ru30QgpAr8?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-Deberás tomar el control de su asombrosa espada y ayudarle en la búsqueda para liberarlos. Solo necesitas un mouse para jugar. LMB + dibuja una línea para saltar, correr, esquivar y cortar. RMB convocará poderosas técnicas de Ninjutsu: súper eficiente contra los 'podridos zombies piratas'.
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rOu2uBzhf5Y?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
-
-[🎮 GRATIS HASTA EL 20/12/2019 🎮](https://store.steampowered.com/app/418270/Draw_Slasher/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## The Wolf Among Us \ Epic Games
-
-![The Wolf Among Us](https://i.ibb.co/D8JngL0/The-Wolf-Among-Us-y-The-Escapists-GRATIS-hasta-el-19-tecnolocura-1.jpg "The Wolf Among Us")
-
- Juego basado en un cómic denominado Fábulas de Bill Willingham's Fables, la historia se centra en el personaje de Bigby Wolf, el sheriff dentro de la ciudad de Nueva York poblada por personajes de cuentos de hadas. Este no es un juego imaginativo de cuentos infantiles; Fábulas es un cuento de hadas oscuro, y The Wolf Among Us se basa en un sistema de elecciones y eventos consecutivos para hacer que los jugadores se enfrenten a la sombría realidad del mundo.
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/RTRDbQjaiWA?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
-
-[🎮 GRATIS HASTA EL 19/12/2019 🎮](https://www.epicgames.com/store/es-ES/product/the-wolf-among-us/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## The Escapist \ Epic Games
-
-![Los escapistas](https://i.ibb.co/qL8rVdb/489752-analisis-escapists.jpg "Los escapistas")
-
-Es un juego de estrategia jugado desde una perspectiva de shooter. El jugador, que asume el papel de prisionero, debe escapar de 6 prisiones primarias que van desde muy fácil a muy difícil. Cada vez que se escapa una prisión, la siguiente prisión se desbloquea. También hay prisiones de bonificación (DLC) que se pueden jugar en cualquier orden, independientemente del progreso de los jugadores.
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/faFVy2kkiMI?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
-
-[🎮 GRATIS HASTA EL 19/12/2019 🎮](https://www.epicgames.com/store/es-ES/product/the-escapists/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎮 DESCARGA THE CYCLE 🎮](https://thecycle.game/?lang=es){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## Juegos Gratis Cada Día
 
@@ -121,18 +93,13 @@ Comienzan regalando Robonautas, y en los próximos días regalaran los siguiente
 
 ## VIDEOJUEGOS RETRO 🕹
 
-## Ascension al Trono \ IndieGala
+## UberSoldier II \ IndieGala
 
-![Ascensión al trono](https://i.ibb.co/X5mgsqP/image.png "Ascensión al Trono, Juego Indie")
+![UberSoldier II - Captura del Videojuego](https://i.ytimg.com/vi/LKgdgidBGGE/maxresdefault.jpg "UberSoldier II - Captura del Videojuego")
 
-Ascensión al trono, es un juego de estrategia por turnos con elementos RPG. En un vasto mundo de fantasía, el héroe tendrá que pasar muchas pruebas en su camino hacia la victoria. Los enemigos buscan evitar que los jugadores recuperen el poder y se venguen. Consigue nuevos amigos que te ayuden a recuperar el trono. Conviértete en el Rey para el que naciste: sabio, valiente y valiente.
+Un grupo muy unido de generales y oficiales de las SS, involucrado en los hechos más atroces y oscuros, está buscando una manera de salvar a los restos del Tercer Imperio. Han conspirado para trasladar a los líderes del Reich, junto con recursos preciosos y equipo clasificado, a un escondite remoto en las montañas tibetanas.
 
-Los jugadores actuarán como la última descendencia de la antigua familia Illiar, que ha gobernado el Edén durante siglos. Pero los tiempos han cambiado y los enemigos traidores atacaron el castillo. Mataron a la familia del príncipe y destruyeron el asentamiento, pero no aplastaron su voluntad. Un hechizo muy poderoso lanzado por un mago arrojó al héroe mucho más allá de las fronteras del país. Estaba solo, sin parientes, amigos, ejército y sin dinero. Perdió todo de lo que estaba orgulloso pero aún estaba vivo y eligió el camino de la venganza.
-
-Los jugadores explorarán un nuevo mundo fascinante, lleno de enemigos y amigos. Tendrán que aplastar a las hordas de enemigos y encontrar nuevos seguidores para recuperar el título y ascender al trono.
-
-[🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/ascension-to-the-throne/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
+[🎮 DESCARGA GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/ubersoldier-ii/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## Lady´s Hentai Mosaic \ IndieGala
 
@@ -155,16 +122,6 @@ El objetivo final del proyecto es crear un ejército de Cangrejos Cibernéticos 
 ![](https://i.ibb.co/h7Mq9L0/image.png "Caracoles y cangrejos en su versión más pixelada xd")
 
 [🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/crab-dub/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## Haciendo Historia \ IndieGala
-
-Making History® ofrece la jugabilidad abierta de los clásicos de los juegos de estrategia, pero con nuevos e interesantes sistemas económicos, militares y diplomáticos y una investigación profunda que te permite jugar con desafíos históricos reales.
-
-El juego te lleva a un rico mundo de la Segunda Guerra Mundial donde cada nación tiene su propia agenda, y donde los eventos pueden convertirse en una sola alianza. Trabaje con las fortalezas y debilidades históricas de su nación. Desarrolle su industria, infraestructura, economía, militar. Crea alianzas. Luego, modifique su estrategia a medida que el mundo evoluciona con cada turno.
-
-![Haciendo Historia: La Calma y La Tormenta](https://i.ibb.co/dtqRDzD/image.png)
-
-[🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/making-history-the-calm-and-the-storm/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -207,14 +164,6 @@ El juego de moda por excelencia es el Fortnite de eso no cabe duda alguna a esta
 
 Existen algunas otras alternativas, más o menos conocidas, la más destacable para mi son..
 
-## Ring of Elysium
-
-Un Battle Royal genial, y algo más ligero que el PUBG y que amplia el campo de batalla. Además de tener unas armas más concretas y un final más épico; ofreciendo una mayor jugabilidad.. 😹
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/B0xypLbxKc8?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
-
-[🎮 GRATIS RING OF ELYSIUM 🎮](https://store.steampowered.com/app/755790/Ring_of_Elysium/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
 ## Dauntless \ RPG de Cacería
 
 Dauntless es un juego de roll free to play de acción desarrollado por los Laboratorios Phoenix y distribuido por Epic Games. Dauntless tiene lugar en un escenario de fantasía, donde un evento catastrófico ha destrozado el mundo, liberando criaturas monstruosas conocidas como Behemoths que se aprovechan de los humanos sobrevivientes.
@@ -228,6 +177,14 @@ Se puede jugar como un jugador o cooperativamente con hasta cuatro personas.
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/TaXAD7Ccg8E?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
 [🎮 DESCARGAR DAUNTLESS 🎮](https://playdauntless.com/es_ES/landing/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## Ring of Elysium
+
+Un Battle Royal genial, y algo más ligero que el PUBG y que amplia el campo de batalla. Además de tener unas armas más concretas y un final más épico; ofreciendo una mayor jugabilidad.. 😹
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/B0xypLbxKc8?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 GRATIS RING OF ELYSIUM 🎮](https://store.steampowered.com/app/755790/Ring_of_Elysium/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## PUBG Lite & CS GO
 
@@ -279,6 +236,15 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+## Postal \ GOG
+
+🛑 Postal es un videojuego enfocado a personas mayores de 18 años
+{: .notice--warning}
+
+[🎮 + PORTAL 1 GRATIS 🎮](https://www.gog.com/game/postal_classic_and_uncut){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
 ## Páginas de Videojuegos Gratis 🎁
 
 * [Steem Videojuegos Gratis](https://store.steampowered.com/genre/Free%20to%20Play/){:target="_blank"} 87 Juegos
@@ -306,7 +272,91 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 <!-- ## PRÓXIMAMENTE 💣 -->
 <!-- Ahora mismo no existen juegos gratuitos pendientes de ser liberados..
 {: .notice--info} -->
+
 ## CADUCADOS 😿
+
+### The Wolf Among Us \ Epic Games
+
+![The Wolf Among Us](https://i.ibb.co/D8JngL0/The-Wolf-Among-Us-y-The-Escapists-GRATIS-hasta-el-19-tecnolocura-1.jpg "The Wolf Among Us")
+
+ Juego basado en un cómic denominado Fábulas de Bill Willingham's Fables, la historia se centra en el personaje de Bigby Wolf, el sheriff dentro de la ciudad de Nueva York poblada por personajes de cuentos de hadas. Este no es un juego imaginativo de cuentos infantiles; Fábulas es un cuento de hadas oscuro, y The Wolf Among Us se basa en un sistema de elecciones y eventos consecutivos para hacer que los jugadores se enfrenten a la sombría realidad del mundo.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/RTRDbQjaiWA?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 CADUCADO 🎮](https://www.epicgames.com/store/es-ES/product/the-wolf-among-us/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+### The Escapist \ Epic Games
+
+![Los escapistas](https://i.ibb.co/qL8rVdb/489752-analisis-escapists.jpg "Los escapistas")
+
+Es un juego de estrategia jugado desde una perspectiva de shooter. El jugador, que asume el papel de prisionero, debe escapar de 6 prisiones primarias que van desde muy fácil a muy difícil. Cada vez que se escapa una prisión, la siguiente prisión se desbloquea. También hay prisiones de bonificación (DLC) que se pueden jugar en cualquier orden, independientemente del progreso de los jugadores.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/faFVy2kkiMI?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 CADUCADO 🎮](https://www.epicgames.com/store/es-ES/product/the-escapists/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## Ascension al Trono \ IndieGala
+
+![Ascensión al trono](https://i.ibb.co/X5mgsqP/image.png "Ascensión al Trono, Juego Indie")
+
+Ascensión al trono, es un juego de estrategia por turnos con elementos RPG. En un vasto mundo de fantasía, el héroe tendrá que pasar muchas pruebas en su camino hacia la victoria. Los enemigos buscan evitar que los jugadores recuperen el poder y se venguen. Consigue nuevos amigos que te ayuden a recuperar el trono. Conviértete en el Rey para el que naciste: sabio, valiente y valiente.
+
+Los jugadores actuarán como la última descendencia de la antigua familia Illiar, que ha gobernado el Edén durante siglos. Pero los tiempos han cambiado y los enemigos traidores atacaron el castillo. Mataron a la familia del príncipe y destruyeron el asentamiento, pero no aplastaron su voluntad. Un hechizo muy poderoso lanzado por un mago arrojó al héroe mucho más allá de las fronteras del país. Estaba solo, sin parientes, amigos, ejército y sin dinero. Perdió todo de lo que estaba orgulloso pero aún estaba vivo y eligió el camino de la venganza.
+
+Los jugadores explorarán un nuevo mundo fascinante, lleno de enemigos y amigos. Tendrán que aplastar a las hordas de enemigos y encontrar nuevos seguidores para recuperar el título y ascender al trono.
+
+[🎮 CADUCADO 🎮](https://freebies.indiegala.com/ascension-to-the-throne/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## Haciendo Historia \ IndieGala
+
+Making History® ofrece la jugabilidad abierta de los clásicos de los juegos de estrategia, pero con nuevos e interesantes sistemas económicos, militares y diplomáticos y una investigación profunda que te permite jugar con desafíos históricos reales.
+
+El juego te lleva a un rico mundo de la Segunda Guerra Mundial donde cada nación tiene su propia agenda, y donde los eventos pueden convertirse en una sola alianza. Trabaje con las fortalezas y debilidades históricas de su nación. Desarrolle su industria, infraestructura, economía, militar. Crea alianzas. Luego, modifique su estrategia a medida que el mundo evoluciona con cada turno.
+
+![Haciendo Historia: La Calma y La Tormenta](https://i.ibb.co/dtqRDzD/image.png)
+
+[🎮 CADUCADO 🎮](https://freebies.indiegala.com/making-history-the-calm-and-the-storm/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## Black Survival - Alpha \ Steam
+
+![Black Survival Alpha 4](https://i.ibb.co/jvrD98w/maxresdefault.jpg "Black Survival Alpha 4")
+
+Black Survival es el juego de supervivencia en tiempo real que juegan 10 personas en una isla desierta. Las reglas básicas son simples. Toma decisiones con un solo clic. Pero la inmersión que siente el jugador es enorme. Para sobrevivir, no puedes quedarte ni un segundo. ¡Busca, crea, ataca y huye!
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/nn9ucBDo_rA?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 PLAZO FINALIZADO 🎮](https://store.steampowered.com/app/1201710/Black_Survival_Eternal_Return__4th_Alpha/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## Postal 2 \ GOG
+
+![Postal 2](https://i.ibb.co/Jphtwmy/images-q-tbn-ANd9-Gc-Rttgx-NBWPr-OQs4i-Ko-N59-WVjv-Jg1i-1-Dyv-HJXTD2-AOHi-Et-LQyj5-GQ-s.jpg "Postal 2")
+
+Vive una semana en la vida de "The Postal Dude"; un desafortunado hombre tratando de realizar algunas tareas. Comprar leche, devolver un libro de la biblioteca vencido, obtener el autógrafo de Gary Coleman, ¿qué podría salir mal? Ábrete paso, pica y orina en un espectáculo de caricaturas americanas en esta oscura y graciosa aventura en primera persona.
+
+¡Conoce a Krotchy: una mascota de juguete, visita a tu tío Dave en su complejo de culto religioso asediado y lucha contra los talibanes que habitan en las alcantarillas cuando menos te lo esperas! Soporta el desafío de apretar el esfínter de los rednecks caníbales, policías corruptos y elefantes berserker. Acompañado de Champ, el pitbull semi-leal de Dude, que se abre camino a través de entornos abiertos poblados con una IA increíblemente impredecible.
+
+Utiliza un arsenal de armas que van desde una humilde pala hasta un lanzacohetes singularmente hilarante. ¡Recoge un paquete de perros de ataque! ¡Usa gatos como silenciadores! ¡Orina y vierte gasolina en cualquier cosa y en todos! No apto para cardíacos, ¡Juégalo unicámente si te encanta el humor negro!
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/5LwQDF-iBN0?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+💡 Requiere Registro en la Página Web de GOG
+{: .notice--info}
+
+[🎮 CADUCADO 🎮](https://www.gog.com/game/postal_2){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+### Draw Slasher \ Steam
+
+![Draw Slasher](https://i.ibb.co/SRvNNwt/wallpaper-splash-wall-1920x1200.jpg "Draw Slasher")
+
+Conoce a Hanzo Eel ninja. Mientras estaba entrenando afuera. Los Pirate Monkey Zombies unas criaturas estúpidas, feas, malolientes, podridas y desagradables, secuestraron a su familia.
+
+Deberás tomar el control de su asombrosa espada y ayudarle en la búsqueda para liberarlos. Solo necesitas un mouse para jugar. LMB + dibuja una línea para saltar, correr, esquivar y cortar. RMB convocará poderosas técnicas de Ninjutsu: súper eficiente contra los 'podridos zombies piratas'.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rOu2uBzhf5Y?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+[🎮 CADUCADO 🎮](https://store.steampowered.com/app/418270/Draw_Slasher/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ### Wasteland 2
 
