@@ -25,7 +25,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/directo/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="/assets/images/portada/neo-matrix.gif" alt="Aprende a programar y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
+            <a href="/programar/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="/assets/images/portada/neo-matrix.gif" alt="Aprende a programar y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">A programar desde cero, mis Ciberninjas</h2>
@@ -76,7 +76,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/directo/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
+            <a href="/directo/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="/assets/images/portada/graphic-design-gif-2.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">El sitio perfecto para diseñadores gráficos</h2>
@@ -161,7 +161,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/directo/" title="Noticias en Directo"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
+            <a href="/directo/" title="Noticias en Directo"><img src="/assets/images/portada/ultima-hora-rojo.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Noticias Tecnológicas en Directo</h2>
@@ -185,7 +185,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>¿Quieres conocer los acontecimientos y personas más importantes de la historia de la programación? Ven y ojea nuestro cronograma histórico y cartel de personajes históricos de la computación.</p>
             </div>
-            <p><a href="/historia-computadora/cronograma/" title="Conociendo con Ciberninjas los acontecimientos más importantes de la historia de la programación" class="btn btn--inverse btn--large">Cronograma</a> <a href="/personajes-historicos/" title="Conociendo con Ciberninjas los personajes más importantes de la historia de la programación" class="btn btn--inverse btn--large">Personajes Históricos</a></p>
+            <p><a href="/cronograma/" title="Conociendo con Ciberninjas los acontecimientos más importantes de la historia de la programación" class="btn btn--inverse btn--large">Cronograma</a> <a href="/personajes-historicos/" title="Conociendo con Ciberninjas los personajes más importantes de la historia de la programación" class="btn btn--inverse btn--large">Personajes Históricos</a></p>
         </div>
     </div>
 </div>
@@ -213,7 +213,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/portada/abrazo-cibernetico.gif" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
+            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/portada/baby-yoda-guiño.gif" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Conócenos</h2>
