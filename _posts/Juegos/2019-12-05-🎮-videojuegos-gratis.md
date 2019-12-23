@@ -20,7 +20,7 @@ header:
 #      url: "/disney-frozen-amazon/"
 comments: true
 date: 2019-12-05 18:00:00 +0200
-last_modified_at: 2019-12-15 13:47:18 +0200
+last_modified_at: 2019-12-23 11:20:18 +0200
 published: true
 tags:
   - Videojuegos
@@ -51,7 +51,10 @@ Epic Games lleva unos días, y va a seguir regalando un videojuego por cada día
 
 Hoy, 23 de Diciembre: [Little Inferno](https://www.epicgames.com/store/es-ES/product/little-inferno/home){:target="_blank"}
 
-<a href="https://i.ibb.co/Ngv4kyf/image.png"><img src="https://i.ibb.co/nqGWVL4/image.png" alt="Little Inferno" border="0"></a>
+<figure>
+    <a href="https://i.ibb.co/Ngv4kyf/image.png" class="image-popup" title="Little Inferno"><img src="https://i.ibb.co/nqGWVL4/image.png" alt="Little Inferno"></a>
+    <figcaption>Little Inferno | Visto en Ciberninjas</figcaption>
+</figure>
 
 [🎮 DESCARGA EL JUEGO DE HOY 🎮](https://www.epicgames.com/store/es-ES/free-games){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
