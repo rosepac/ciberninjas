@@ -20,7 +20,7 @@ header:
 #      url: "/disney-frozen-amazon/"
 comments: true
 date: 2019-12-05 18:00:00 +0200
-last_modified_at: 2019-12-23 11:20:18 +0200
+last_modified_at: 2019-12-24 19:20:18 +0200
 published: true
 tags:
   - Videojuegos
@@ -47,9 +47,11 @@ Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fie
 
 Epic Games lleva unos días, y va a seguir regalando un videojuego por cada día que pase..
 
-![](https://i.ytimg.com/vi/dH6hCAK24Ok/maxresdefault.jpg)
+![](https://i.ibb.co/nR127JT/Celeste.jpg)
 
-Hoy.. [Ape Out](https://www.epicgames.com/store/es-ES/product/ape-out/home){:target="_blank"}
+Hoy.. [Celeste](https://www.epicgames.com/store/es-ES/product/celeste/home)
+
+Ayer.. [Ape Out](https://www.epicgames.com/store/es-ES/product/ape-out/home){:target="_blank"}
 
 [🎮 DESCARGA EL JUEGO DE HOY 🎮](https://www.epicgames.com/store/es-ES/free-games){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
