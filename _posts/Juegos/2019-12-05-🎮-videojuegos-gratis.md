@@ -20,7 +20,7 @@ header:
 #      url: "/disney-frozen-amazon/"
 comments: true
 date: 2019-12-05 18:00:00 +0200
-last_modified_at: 2019-12-24 19:20:18 +0200
+last_modified_at: 2019-12-27 19:20:18 +0200
 published: true
 tags:
   - Videojuegos
@@ -47,24 +47,31 @@ Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fie
 
 Epic Games lleva unos días, y va a seguir regalando un videojuego por cada día que pase..
 
-![](https://i.ibb.co/nR127JT/Celeste.jpg)
+![](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffaster-than-light%2Fhome%2FEGS_SubsetGames_FTLFasterThanLight_S1-2560x1440-6f03975250e46dcf8aff0d33aec88cace4f63faf.jpg)
 
-Hoy.. [Celeste](https://www.epicgames.com/store/es-ES/product/celeste/home)
-
-Ayer.. [Ape Out](https://www.epicgames.com/store/es-ES/product/ape-out/home){:target="_blank"}
+Hoy.. [Faster Than Light](https://www.epicgames.com/store/es-ES/product/faster-than-light/home)
 
 [🎮 DESCARGA EL JUEGO DE HOY 🎮](https://www.epicgames.com/store/es-ES/free-games){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ### Juegos Anteriores
 
+<!--
 <figure>
-    <a href="https://i.ibb.co/nn9VFyG/maxresdefault.jpg" class="image-popup" title="Little Inferno"><img src="https://i.ibb.co/hZbnSN6/maxresdefault.jpg" alt="Appe Out"></a>
-    <figcaption>Little Inferno | Visto en Ciberninjas</figcaption>
+    <a href="https://i.ibb.co/yNpdJwF/354135-722591.png" class="image-popup" title="Celeste"><img src="https://i.ibb.co/nR127JT/Celeste.jpg" alt="Celeste"></a>
+    <figcaption>Celeste | Visto en Ciberninjas</figcaption>
+</figure>
+
+<figure>
+    <a href="https://i.ibb.co/nn9VFyG/maxresdefault.jpg" class="image-popup" title="Ape Out"><img src="https://i.ibb.co/hZbnSN6/maxresdefault.jpg" alt="Ape Out"></a>
+    <figcaption>Ape Out Inferno | Visto en Ciberninjas</figcaption>
 </figure>
 <figure>
     <a href="https://i.ibb.co/Ngv4kyf/image.png" class="image-popup" title="Little Inferno"><img src="https://i.ibb.co/nqGWVL4/image.png" alt="Little Inferno"></a>
     <figcaption>Little Inferno | Visto en Ciberninjas</figcaption>
 </figure>
+-->
+
+<a href="https://i.ibb.co/yNpdJwF/354135-722591.png"><img src="https://i.ibb.co/nqGWVL4/image.png" alt="image" border="0"></a> <a href="https://i.ibb.co/nn9VFyG/maxresdefault.jpg"><img src="https://i.ibb.co/hZbnSN6/maxresdefault.jpg" alt="maxresdefault" border="0"></a> <a href="https://i.ibb.co/Ngv4kyf/image.png"><img src="https://i.ibb.co/sgCbr09/354135-722591.png" alt="354135-722591" border="0"></a>
 
 ## Juegos Gratis de Epic Games
 

@@ -25,14 +25,14 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/programar/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="/assets/images/portada/neo-matrix.gif" alt="Aprende a programar y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
+            <a href="/programar/" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web"><img src="/assets/images/portada/neo-matrix.gif" alt="Aprende a programar y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">A programar desde cero, mis Ciberninjas</h2>
             <div class="archive__item-excerpt">
                 <p>¿Quieres aprender a programar? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lio!</p>
             </div>
-            <p><a href="/programar/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Aprender a Programar</a> <a href="https://ouo.io/S4XkQc" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p>
+            <p><a href="/programar/" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Aprender a Programar</a> <a href="https://ouo.io/S4XkQc" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p>
         </div>
     </div>
 </div>
@@ -59,7 +59,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/dise%C3%B1o-recursos/" title="Recursos para desarrolladores web"><img src="/assets/images/portada/diseño-aplicaciones-web.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
+            <a href="/dise%C3%B1o-recursos/" title="Cómo aprender desde cero a ser el mejor desarrollador web del mundo y los recursos necesarios para desarrolladores web"><img src="/assets/images/portada/graphic-design-gif-2.gif" alt="Cómo aprender desde cero a ser el mejor desarrollador web del mundo y los recursos necesarios para desarrolladores web"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">El sitio perfecto para desarrolladores web</h2>
@@ -76,7 +76,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/directo/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="/assets/images/portada/graphic-design-gif-2.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
+            <a href="/directo/" title="Recursos para diseñadores gráficos"><img src="/assets/images/portada/disenador-rodando.gif" alt="Recursos para diseñadores gráficos, diseñador enloquecido buscando su inspiración"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">El sitio perfecto para diseñadores gráficos</h2>
@@ -139,19 +139,19 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 6 -->
+<!-- CAJA 6 ESTUDIANTES -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/directo/" title="Recursos para desarrolladores web y diseñadores gráficos"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
+            <a href="/directo/" title="Conoce las mejores herramientas, software y recursos para profesores, docentes y estudiantes"><img src="https://media0.giphy.com/media/cpszGUjwmcIU0/giphy.gif?cid=790b761162fc703962d731cc93ed70c9686c7ea95827a03f&rid=giphy.gif" alt="Conoce las mejores herramientas, software y recursos para profesores, docentes y estudiantes"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">El sitio perfecto para la educación: estudiantes, profesores y docentes</h2>
             <div class="archive__item-excerpt">
                 <p>¿Eres estudiante o profesor de DAM o DAW o ingenieria informática o telecomunicaciónes? Los mejores recursos para ti están aquí.</p>
             </div>
-            <p><a href="/cursos-educacion/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Cursos Educación</a> <a href="/las-mejores-aplicaciones-escolares-seguimiento-tareas/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Aplicaciones Escolares</a> <a href="/catalogo/libros-texto/" class="btn btn--inverse btn--large">Libros de Texto</a></p>
+            <p><a href="/cursos-educacion/" title="Los mejores cursos sobre Educación enfocados a profesores y docentes" class="btn btn--inverse btn--large">Cursos Educación</a> <a href="/las-mejores-aplicaciones-escolares-seguimiento-tareas/" title="Las mejores aplicaciones escolares para gestionar la tarea de diario" class="btn btn--inverse btn--large">Aplicaciones Escolares</a> <a href="/libros-texto/" title="Los libros educativos de texto de Formación Profesional Tecnólogica" class="btn btn--inverse btn--large">Libros de Texto</a></p>
         </div>
     </div>
 </div>
