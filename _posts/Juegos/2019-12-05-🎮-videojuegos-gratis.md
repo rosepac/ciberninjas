@@ -20,7 +20,7 @@ header:
 #      url: "/disney-frozen-amazon/"
 comments: true
 date: 2019-12-05 18:00:00 +0200
-last_modified_at: 2019-12-27 19:20:18 +0200
+last_modified_at: 2019-12-27 17:30:18 +0200
 published: true
 tags:
   - Videojuegos
@@ -97,16 +97,6 @@ The Cycle es un juego competitivo de disparos y misiones (JcEcJ) que ofrece una 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/0ru30QgpAr8?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
 [🎮 DESCARGA THE CYCLE 🎮](https://thecycle.game/?lang=es){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## Juegos Gratis Cada Día
-
-![](https://i.ibb.co/G2c08Vy/image.png "Quibic Games juegos gratis cada día hasta el día 24 de Diciembre")
-
-Quibic Games celebra 15 años, la empresa desarrolladora de juegos para la consola Nintendo Switch va a regala 10 diferentes videojuegos a partir de hoy día 15, con la condición de tener un juego de Quibic instalado antes de mañana; día 16.
-
-Comienzan regalando Robonautas, y en los próximos días regalaran los siguientes videojuegos: Geki Yaba Runner, Puzzle Book, One Strike, Wreckin Ball Adventure, Koloro, RaceDieRun, Rekt, Maná Spark y un último juego sorpresa.
-
-[🎮 DESCARGAR GRATIS 🎮](https://qubicgames.com/15years/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## VIDEOJUEGOS RETRO 🕹
 
@@ -309,6 +299,14 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 * [Boot de Twitter de Videojuegos Gratis](https://twitter.com/FreeGames_BOT){:target="_blank"}
 <!-- Actualizar https://www.fanbyte.com/trending/epic-games-store-free-games-list/ -->
 
+[📲 JUEGOS DE ANDROID GRATIS A DIARIO 📲](https://android.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+Actualmente: Puzzling Picture Parts, Equalizer, Terra Fighter Pro 2, Color Link Deluxe VIP.
+
+[📲 JUEGOS DE IPHONE GRATIS A DIARIO 📲](https://iphone.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+Actualmente: Thank Battle, Treasure Miner, Nudos 3D.
+
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 <!-- ## PRÓXIMAMENTE 💣 -->
@@ -316,6 +314,16 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 {: .notice--info} -->
 
 ## CADUCADOS 😿
+
+### Quibic: Juego Gratis Cada Día
+
+![](https://i.ibb.co/G2c08Vy/image.png "Quibic Games juegos gratis cada día hasta el día 24 de Diciembre")
+
+Quibic Games celebra 15 años, la empresa desarrolladora de juegos para la consola Nintendo Switch va a regala 10 diferentes videojuegos a partir de hoy día 15, con la condición de tener un juego de Quibic instalado antes de mañana; día 16.
+
+Comienzan regalando Robonautas, y en los próximos días regalaran los siguientes videojuegos: Geki Yaba Runner, Puzzle Book, One Strike, Wreckin Ball Adventure, Koloro, RaceDieRun, Rekt, Maná Spark y un último juego sorpresa.
+
+[🎮 DESCARGAR GRATIS 🎮](https://qubicgames.com/15years/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ### The Wolf Among Us \ Epic Games
 
