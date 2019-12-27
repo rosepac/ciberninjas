@@ -47,9 +47,9 @@ Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fie
 
 Epic Games lleva unos días, y va a seguir regalando un videojuego por cada día que pase..
 
-![](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffaster-than-light%2Fhome%2FEGS_SubsetGames_FTLFasterThanLight_S1-2560x1440-6f03975250e46dcf8aff0d33aec88cace4f63faf.jpg)
+![Hyper Light Drifter](https://i.ytimg.com/vi/V4fwTo3j_M8/maxresdefault.jpg)
 
-Hoy.. [Faster Than Light](https://www.epicgames.com/store/es-ES/product/faster-than-light/home)
+Hoy.. [Hyper Light Drifter](https://www.epicgames.com/store/es-ES/product/hyper-light-drifter/home)
 
 [🎮 DESCARGA EL JUEGO DE HOY 🎮](https://www.epicgames.com/store/es-ES/free-games){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
@@ -70,10 +70,9 @@ Hoy.. [Faster Than Light](https://www.epicgames.com/store/es-ES/product/faster-t
     <figcaption>Little Inferno | Visto en Ciberninjas</figcaption>
 </figure>
 -->
+<img src="https://i.ibb.co/M50H960/Diesel-productv2-faster-than-light-home-EGS-Subset-Games-FTLFaster-Than-Light-S1-2560x1440-6f03975250e46dcf8aff0d33aec88cace4f63faf.jpg" alt="Diesel-productv2-faster-than-light-home-EGS-Subset-Games-FTLFaster-Than-Light-S1-2560x1440-6f03975250e46dcf8aff0d33aec88cace4f63faf" border="0"> <img src="https://i.ibb.co/hZbnSN6/maxresdefault.jpg" alt="maxresdefault" border="0"> <img src="https://i.ibb.co/sgCbr09/354135-722591.png" alt="354135-722591" border="0">
 
-<a href="https://i.ibb.co/yNpdJwF/354135-722591.png"><img src="https://i.ibb.co/nqGWVL4/image.png" alt="image" border="0"></a> <a href="https://i.ibb.co/nn9VFyG/maxresdefault.jpg"><img src="https://i.ibb.co/hZbnSN6/maxresdefault.jpg" alt="maxresdefault" border="0"></a> <a href="https://i.ibb.co/Ngv4kyf/image.png"><img src="https://i.ibb.co/sgCbr09/354135-722591.png" alt="354135-722591" border="0"></a>
-
-## Juegos Gratis de Epic Games
+## Otros Juegos Gratis de Epic Games
 
 ### Auto Chess
 
@@ -111,6 +110,23 @@ Comienzan regalando Robonautas, y en los próximos días regalaran los siguiente
 
 ## VIDEOJUEGOS RETRO 🕹
 
+## Die Young: Prólogo \ IndieGala
+
+![Die young - Captura del Videojuego](https://i.ytimg.com/vi/ucEdeQs_Mc8/maxresdefault.jpg "Die young - Captura del Videojuego")
+
+En Die Young: Prologue juegas como Nehir, un agente de campo de un conocido partido político. 
+La agenda del partido es deconstruir y eliminar al Hermano n. 1, el líder de la comunidad de Island. Die Young: Prologue  es una aventura de acción con una estructura más lineal que el mundo abierto de Die Young , pero deja al jugador la posibilidad de utilizar diferentes enfoques y caminos para escapar.
+
+[🎮 DESCARGA GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/die-young-prologue/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## Teatro de Guerra 2: África 1943 \ IndieGala
+
+![Teatro de Guerra 2 - Captura del Videojuego](https://i.ibb.co/zhsb1LQ/teatros-de-guerra.jpg "Teatro de Guerra 2 - Captura del Videojuego")
+
+Theatre of War 2: Africa 1943 cubre los eventos de 1943 en Túnez, África del Norte. Al recuperarse de sus pérdidas después de la aplastante derrota y la posterior retirada después de la Segunda Batalla de El-Alamein, el alemán Afrika Korps, reforzado y ahora apoyado por el ejército italiano, se prepara una vez más para poner acero contra acero con los Aliados. Las fuerzas del Eje, bajo el mando del legendario general Erwin Rommel, tienen una oportunidad demasiado breve para tomar la victoria de las garras de sus fracasos anteriores. Los jugadores liderarán a Afrika Korps de Rommel en su última campaña militar a gran escala y comandarán a los ejércitos inglés y estadounidense mientras intentan expulsar a las fuerzas del Eje de África de una vez por todas.
+
+[🎮 DESCARGA GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/theatre-of-war-2-africa-1943/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
 ## UberSoldier II \ IndieGala
 
 ![UberSoldier II - Captura del Videojuego](https://i.ytimg.com/vi/LKgdgidBGGE/maxresdefault.jpg "UberSoldier II - Captura del Videojuego")
@@ -118,6 +134,14 @@ Comienzan regalando Robonautas, y en los próximos días regalaran los siguiente
 Un grupo muy unido de generales y oficiales de las SS, involucrado en los hechos más atroces y oscuros, está buscando una manera de salvar a los restos del Tercer Imperio. Han conspirado para trasladar a los líderes del Reich, junto con recursos preciosos y equipo clasificado, a un escondite remoto en las montañas tibetanas.
 
 [🎮 DESCARGA GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/ubersoldier-ii/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## Mahjong Strip Solitario \ IndieGala
+
+![Mahjong Strip Solitario](https://i.ibb.co/n0sBKCK/20170105164445-1.jpg)
+
+Sencillo juego de Mahjong que integra como sus objetivos el dejar en bikini a diferentes personajes de aspecto Manga.
+
+[🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/mahjong-strip-solitaire/?dev_id=freebies "Puzzle de Mahjong"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## Lady´s Hentai Mosaic \ IndieGala
 
