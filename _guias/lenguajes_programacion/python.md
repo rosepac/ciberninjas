@@ -4,6 +4,7 @@ description: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo l
 excerpt: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
 published: true
 author: rosepac
+classes: wide
 comments: true
 date: 2019-06-30 12:06:18
 last_modified_at: 2019-12-29
@@ -20,7 +21,8 @@ header:
       url: "/python-recursos/"
 ---
 
-[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién esta usando Python?](/python/#quién-esta-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#bibliotecas){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large}
+[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién esta usando Python?](/python/#quién-esta-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#bibliotecas){: .btn .btn--inverse .btn--large}
+<!-- [](){: .btn .btn--inverse .btn--large} -->
 
 
 ## ¿Qué es Python?
@@ -33,13 +35,13 @@ Python es una herramienta de código abierto con **25.2K** estrellas GitHub y **
 
 ## Sobre Python
 
-Python es quizás el lenguaje de programación más fácil de usar de todos en esta lista. A menudo se dice que la sintaxis de Python es clara, intuitiva y casi de estilo inglés, lo que, como Java, la convierte en una opción popular para los principiantes.
+Python es quizás el lenguaje de programación más fácil de usar de todos los lenguajes de la "nueva era". A menudo se dice que la sintaxis de Python es clara, intuitiva y casi de estilo inglés, lo que, como Java, la convierte en una opción popular para los principiantes.
 
 También como Java, Python tiene una variedad de aplicaciones que lo convierten en una opción versátil y poderosa al elegir el mejor lenguaje de programación para su caso de uso. Si está interesado en el desarrollo web de back-end, por ejemplo, entonces el framework de código abierto Django, escrito en Python, es popular, fácil de aprender y con muchas funciones. Django se ha utilizado en el desarrollo de algunos sitios populares como Mozilla, Instagram y Spotify.
 
 Python también tiene paquetes como NumPy y SciPy que se usan comúnmente en los campos de la computación científica, las matemáticas y la ingeniería. Otras bibliotecas de Python, como TensorFlow, PyTorch, scikit-learn y OpenCV, se utilizan para crear programas en ciencia de datos, aprendizaje automático, procesamiento de imágenes y visión por computadora. Las aplicaciones de ciencia y datos de Python lo convierten en una excelente opción para los académicos.
 
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿Quién esta usando Python?
 
@@ -62,7 +64,7 @@ Python es ahora uno de los lenguajes oficiales del servidor de Google (C ++, Jav
 - Dropbox
 - Reddit
 -->
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ### ILM
 
@@ -78,13 +80,13 @@ El estudio ha usado Python en muchas otras facetas de su trabajo. Los desarrolla
 
 A pesar de las numerosas revisiones, ILM continúa considerando que Python es la mejor solución para sus necesidades. La combinación de un código de fuente abierta combinada con la capacidad de realizar cambios garantiza que Python continuará satisfaciendo las necesidades de ILM durante mucho tiempo.
 
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ### Otros Muchos Más
 
 Existen otras muchas empresas reconocidas que confian en Python como uno de sus lenguajes principales, por sus ideales características, entre ellas: la NASA, Mozilla, PayPal, Pinterest, SendGrid, Zappier, Udemy, Uber, Instacart, 8GAG, Asana, Intuit, Keen IO, Disqus, Pandora, BillGuard, Back End, imgix, AdRoll, Chartio, WePay, Chartbeat, Brika, Circa, Kippt, Thingr, Hipmunk, y un largo etc. más.
 
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿Por qué aprender Python?
 
@@ -96,9 +98,9 @@ Cada año aparece entre los mejores lenguajes de programación en el [índice TI
 
 En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrados en Python a través de la web Indeed.com.
 
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Bibliotecas
+### Bibliotecas
 
 En este espacio vamos a analizar las 10 mejores y más reconocidas bibliotecas de Python, las cuales los desarrolladores pueden utilizar para implementar el aprendizaje automático dentro de sus aplicaciones existentes.
 
@@ -130,7 +132,7 @@ La simplicidad de Python ha atraído a muchos desarrolladores a crear nuevas bib
 
 Entonces, la primera biblioteca en nuestro blog de las 10 mejores bibliotecas de Python es TensorFlow.
 
-### TensorFlow
+## TensorFlow
 
 ![](https://i.ibb.co/mqd50yP/tensorflow-e1551699437694.jpg)
 
@@ -146,29 +148,17 @@ TensorFlow funciona como una biblioteca computacional para escribir nuevos algor
 
 TensorFlow está optimizado para la velocidad, utiliza técnicas como XLA para operaciones rápidas de álgebra lineal.
 
-1. **Construcción receptiva**
+1. **Construcción receptiva**: Con TensorFlow, podemos visualizar fácilmente todas y cada una de las partes del gráfico, lo que no es una opción mientras se usa  Numpy  o  SciKit.
 
-Con TensorFlow, podemos visualizar fácilmente todas y cada una de las partes del gráfico, lo que no es una opción mientras se usa  Numpy  o  SciKit .
+2. **Flexible**: Una de las características muy importantes de Tensorflow es que es flexible en su operatividad, lo que significa que tiene modularidad y las partes que desea hacer independientes, le ofrece esa opción.
 
-2. **Flexible**
+3. **Fácilmente entrenable**: Es fácilmente entrenable tanto en la CPU como en la  GPU  para la informática distribuida.
 
-Una de las características muy importantes de Tensorflow es que es flexible en su operatividad, lo que significa que tiene modularidad y las partes que desea hacer independientes, le ofrece esa opción.
+4. **Entrenamiento en red neuronal paralela**: TensorFlow ofrece canalización en el sentido de que puede entrenar múltiples  redes neuronales y múltiples GPU, lo que hace que los modelos sean muy eficientes en sistemas a gran escala.
 
-3. **Fácilmente entrenable**
+5. **Gran Comunidad**: No hace falta decir que si ha sido desarrollado por Google, ya hay un gran equipo de ingenieros de software que trabajan continuamente en mejoras de estabilidad.
 
-Es fácilmente entrenable tanto en la CPU como en la  GPU  para la informática distribuida.
-
-4. **Entrenamiento en red neuronal paralela**
-
-TensorFlow ofrece canalización en el sentido de que puede entrenar múltiples  redes neuronales y múltiples GPU, lo que hace que los modelos sean muy eficientes en sistemas a gran escala.
-
-5. **Gran Comunidad**
-
-No hace falta decir que si ha sido desarrollado por Google, ya hay un gran equipo de ingenieros de software que trabajan continuamente en mejoras de estabilidad.
-
-6. **Código abierto**
-
-Lo mejor de esta biblioteca de aprendizaje automático es que es de código abierto para que cualquiera pueda usarla siempre que tenga conexión a Internet.
+6. **Código abierto**: Lo mejor de esta biblioteca de aprendizaje automático es que es de código abierto para que cualquiera pueda usarla siempre que tenga conexión a Internet.
 
 **¿Dónde se usa TensorFlow?**
 
@@ -180,7 +170,9 @@ El número de aplicaciones de TensorFlow es literalmente ilimitado y esa es la b
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos Scikit-Learn..
 
-### Scikit-Learn
+[🐍 Biblioteca TensorFlow 🐍](https://www.tensorflow.org/install){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+## Scikit-Learn
 
 ![](https://i.ibb.co/JBSKbHj/scikit-learn-logo.png)
 
@@ -204,7 +196,9 @@ Contiene una gran cantidad de algoritmos para implementar tareas estándar de ap
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Numpy..
 
-### Numpy
+[🐍 Biblioteca Scikit 🐍](https://scikit-learn.org/stable/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+## Numpy
 
 ![](https://i.ibb.co/9NVgcYG/775px-Num-Py-logo-svg.png)
 
@@ -227,9 +221,11 @@ Esta interfaz se puede utilizar para expresar imágenes, ondas de sonido y otras
 
 Es importante para los desarrolladores de "machine learning" full stack tener conocimiento de Numpy.
 
+[🐍 Biblioteca Numpy 🐍](https://numpy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Keras..
 
-### Keras
+## Keras
 
 ![](https://i.ibb.co/68NPq1s/keras.png)
 
@@ -256,9 +252,11 @@ Además, proporciona muchos conjuntos de datos preprocesados ​​y modelos pre
 
 Keras también es un favorito entre los investigadores de aprendizaje profundo, llegando al # 2. Keras también ha sido adoptado por investigadores de grandes organizaciones científicas, en particular, CERN y NASA.
 
+[🐍 Biblioteca Keras 🐍](http://keras.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a PyTorch..
 
-### PyTorch
+## PyTorch
 
 ![](https://i.ibb.co/yPJKQXx/pytorch.png)
 
@@ -272,21 +270,13 @@ Esta biblioteca de máquinas en Python se introdujo en 2017, y desde su inicio, 
 
 **Características de PyTorch**
 
-1. **Frontal híbrido**
+1. **Frontal híbrido**: Un nuevo front-end híbrido proporciona facilidad de uso y flexibilidad en modo entusiasta, al tiempo que pasa sin problemas al modo gráfico para obtener velocidad, optimización y funcionalidad en entornos de tiempo de ejecución C ++.
 
-Un nuevo front-end híbrido proporciona facilidad de uso y flexibilidad en modo entusiasta, al tiempo que pasa sin problemas al modo gráfico para obtener velocidad, optimización y funcionalidad en entornos de tiempo de ejecución C ++.
+2. **Entrenamiento distribuido**: Optimice el rendimiento tanto en investigación como en producción aprovechando el soporte nativo para la ejecución asincrónica de operaciones colectivas y la comunicación entre pares que es accesible desde Python y C ++.
 
-2. **Entrenamiento distribuido**
+3. **Python primero**: PyTorch no es un enlace de Python en un marco monolítico de C ++. Está diseñado para integrarse profundamente en Python, por lo que puede usarse con bibliotecas y paquetes populares como Cython y Numba.
 
-Optimice el rendimiento tanto en investigación como en producción aprovechando el soporte nativo para la ejecución asincrónica de operaciones colectivas y la comunicación entre pares que es accesible desde Python y C ++.
-
-3. **Python primero**
-
-PyTorch no es un enlace de Python en un marco monolítico de C ++. Está diseñado para integrarse profundamente en Python, por lo que puede usarse con bibliotecas y paquetes populares como Cython y Numba.
-
-4. **Bibliotecas y herramientas**
-
-Una comunidad activa de investigadores y desarrolladores ha creado un rico ecosistema de herramientas y bibliotecas para extender PyTorch y apoyar el desarrollo en áreas desde la visión por computadora hasta el aprendizaje de refuerzo.
+4. **Bibliotecas y herramientas**: Una comunidad activa de investigadores y desarrolladores ha creado un rico ecosistema de herramientas y bibliotecas para extender PyTorch y apoyar el desarrollo en áreas desde la visión por computadora hasta el aprendizaje de refuerzo.
 
 **¿Dónde se usa PyTorch?**
 
@@ -296,9 +286,11 @@ Está desarrollado principalmente por el grupo de investigación de inteligencia
 
 PyTorch está superando a TensorFlow en múltiples formas y está ganando mucha atención en los últimos días.
 
+[🐍 Biblioteca PyTorch 🐍](https://pytorch.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a LightGBM..
 
-### LightGBM
+## LightGBM
 
 ![](https://i.ibb.co/qY8PLb8/lightgbm-boosting-framework-akira-ai.png)
 
@@ -322,9 +314,11 @@ No producirá errores cuando considere los valores de NaN y otros valores canón
 
 Estas bibliotecas proporcionan implementaciones altamente escalables, optimizadas y rápidas de aumento de gradiente, lo que lo hace popular entre los desarrolladores de aprendizaje automático. Debido a que la mayoría de los desarrolladores de pila completa de aprendizaje automático ganaron concursos de aprendizaje automático mediante el uso de estos algoritmos.
 
+[🐍 Biblioteca LightGBM 🐍](https://lightgbm.readthedocs.io/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Eli5..
 
-### Eli5
+## Eli5
 
 ![](https://i.ibb.co/0GQZ9sw/eli5-logo.jpg)
 
@@ -344,72 +338,92 @@ Eli5 juega un papel vital donde hay dependencias con otros paquetes de Python.
 
 Aplicaciones heredadas e implementación de nuevas metodologías en diversos campos.
 
+[🐍 Biblioteca Eli5 🐍](https://eli5.readthedocs.io/en/latest/overview.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a SciPy..
 
-### SciPy
+## SciPy
 
 ![](https://i.ibb.co/fFpBNWt/portada-tutorial-scipy.jpg)
 
-¿Qué es la SciPy?
+**¿Qué es la SciPy?**
+
 SciPy es una biblioteca de aprendizaje automático para desarrolladores e ingenieros de aplicaciones. Sin embargo, aún necesita saber la diferencia entre la biblioteca SciPy y la pila SciPy. La biblioteca SciPy contiene módulos para optimización, álgebra lineal, integración y estadísticas.
 
-Características de SciPy
+**Características de SciPy**
+
 La característica principal de la biblioteca SciPy es que está desarrollada usando NumPy, y su matriz aprovecha al máximo NumPy.
 
 Además, SciPy proporciona todas las rutinas numéricas eficientes como la optimización, la integración numérica y muchas otras que utilizan sus submódulos específicos.
 
 Todas las funciones en todos los submódulos de SciPy están bien documentadas.
 
-¿Dónde se usa SciPy?
+**¿Dónde se usa SciPy?**
+
 SciPy es una biblioteca que usa NumPy con el propósito de resolver funciones matemáticas. SciPy utiliza matrices NumPy como estructura de datos básica y viene con módulos para varias tareas comúnmente utilizadas en programación científica.
 
 SciPy maneja fácilmente las tareas que incluyen álgebra lineal, integración (cálculo), resolución de ecuaciones diferenciales ordinarias y procesamiento de señales.
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Theano..
 
-### Theano
+[🐍 Biblioteca Scipy 🐍](https://www.scipy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+## Theano
 
 ![](https://i.ibb.co/MRdPdBC/theano.jpg)
 
-¿Qué es theano?
+**¿Qué es theano?**
+
 Theano es una biblioteca de aprendizaje automático de marco computacional en Python para calcular matrices multidimensionales. Theano funciona de manera similar a TensorFlow, pero no es tan eficiente como TensorFlow. Debido a su incapacidad para adaptarse a entornos de producción.
 
 Además, Theano también se puede utilizar en entornos distribuidos o paralelos similares a TensorFlow.
 
-Características de Theano
+**Características de Theano**
+
 Completa integración con NumPy  : posibilidad de utilizar matrices completamente NumPy en funciones compiladas por Theano.
 Uso transparente de una GPU  : realice cálculos intensivos en datos mucho más rápido que en una CPU.
 Diferenciación simbólica eficiente  : Theano realiza sus derivadas para funciones con una o varias entradas.
 Optimizaciones de velocidad y estabilidad  : obtenga la respuesta correcta  log(1+x) incluso cuando  x es muy pequeña. Este es solo uno de los ejemplos para mostrar la estabilidad de Theano.
 Generación dinámica de código C  : evalúe las expresiones más rápido que nunca, aumentando así la eficiencia en gran medida.
 Extensas pruebas unitarias y autoverificación  : detecte y diagnostique múltiples tipos de errores y ambigüedades en el modelo.
-¿Dónde se usa Theano?
+
+**¿Dónde se usa Theano?**
+
 La sintaxis real de las expresiones Theano es simbólica, lo que puede ser desagradable para los principiantes acostumbrados al desarrollo normal de software. Específicamente, las expresiones se definen en sentido abstracto, se compilan y luego se usan para hacer cálculos.
 
 Fue diseñado específicamente para manejar los tipos de computación requeridos para los algoritmos de redes neuronales grandes utilizados en Deep Learning. Fue una de las primeras bibliotecas de este tipo (el desarrollo comenzó en 2007) y se considera un estándar de la industria para la investigación y el desarrollo de Deep Learning.
 
 Theano se está utilizando en múltiples proyectos de redes neuronales hoy en día y la popularidad de Theano solo está creciendo con el tiempo.
 
+[🐍 Biblioteca Theano 🐍](http://deeplearning.net/software/theano/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Pandas..
 
-### Pandas
+## Pandas
 
 ![](https://i.ibb.co/cJN42np/1-93-CVLqn-QESmvf-Ohzv-YUg-Qw.png)
 
 **¿Qué es Pandas?**
+
 Pandas es una biblioteca de aprendizaje automático en Python que proporciona estructuras de datos de alto nivel y una amplia variedad de herramientas para el análisis. Una de las grandes características de esta biblioteca es la capacidad de traducir operaciones complejas con datos utilizando uno o dos comandos. Los pandas tienen tantos métodos incorporados para agrupar, combinar datos y filtrar, así como la funcionalidad de series temporales.
 
 Todos estos son seguidos por excelentes indicadores de velocidad.
 
 **Características de los pandas**
+
 Los pandas se aseguran de que todo el proceso de manipulación de datos sea más fácil. El soporte para operaciones tales como Re-indexación, Iteración, Clasificación, Agregaciones, Concatenaciones y Visualizaciones se encuentran entre las características más destacadas de Pandas.
 
 **¿Dónde se usa Pandas?**
+
 Actualmente, hay menos versiones de la biblioteca de pandas que incluye cientos de nuevas características, correcciones de errores, mejoras y cambios en la API. Las mejoras en los pandas se refieren a su capacidad de agrupar y ordenar datos, seleccionar la salida más adecuada para el método de aplicación y proporciona soporte para realizar operaciones de tipos personalizados.
 
 El análisis de datos entre todo lo demás se destaca cuando se trata del uso de Pandas. Pero, cuando se usan Pandas con otras bibliotecas y herramientas, garantizan una alta funcionalidad y una buena cantidad de flexibilidad.
 
+[🐍 Biblioteca Pandas 🐍](https://pandas.pydata.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a otras bibliotecas.. De menor uso, pero no por ello menos importantes, dependiendo de cual vaya a ser el uso que desees hacer de Python dentro de tus proyectos..
+
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ### Otras Bibliotecas
 
@@ -421,6 +435,6 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 * [Jupiter](https://jupyter.org/install.html)
 * [Mitogen](https://mitogen.networkgenomics.com/)
 
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--inverse .btn--large .align-center}
