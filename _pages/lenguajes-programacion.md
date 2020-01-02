@@ -1,13 +1,14 @@
 ---
 layout: splash
 title: 'Aprender Todos los Lenguajes de Programación que Existen'
+permalink: /lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/lenguajes-programacion/
 published: true
 author_profile: false
 header:
   teaser: https://i.ibb.co/KFqfDbW/codigo-binario-cadena.gif
   overlay_color: "#000"
-  overlay_filter: "0.0"
+  overlay_filter: "0.1"
   overlay_image: https://i.ibb.co/KFqfDbW/codigo-binario-cadena.gif
 #  actions:
 #    - label: "🎓 Cursos"
@@ -18,15 +19,6 @@ header:
 excerpt: "Cómo aprender cada uno de los lenguajes de programación que existen
 ¡Entra y conviértete en un auténtico ciberninja! "
 ---
-
-<!-- ENLACES A TODOS MIS NUEVOS Y MAS RECIENTES ARTICULOS DE CURSOS..
-<p><a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p>
--->
-<!-- CREAR OTRO MENU AMPLIO DE BOTONES CON ENLACES A REDES SOCIALES -->
-<!-- MODIFICAR SECCIONES CAMBIAR DE LUGAR GIFS SIMILARES, AÑADIR ICONOS AL FINAL DE CADA BOTÓN.. -->
-<!-- AGREGAR SECCION DE LENGUAJES DE PROGRAMACIÓN.. -->
-<!-- AGREGAR BOTONES DE CURSOS Y LIBROS DENTRO DE LAS PÁGINAS Y EL MENU INFERIOR CORREGIDO.. -->
-<!-- AGREGAR SECCION DE CODIGO ABIERTO CON FUNDACION CD PROJECT Y EL PROYECTO ESTE RARO DE TODO GROUP -->
 <!-- CAJA 1 PROGRAMACION-->
 <div class="feature__wrapper">
 <div class="feature__item--left">
