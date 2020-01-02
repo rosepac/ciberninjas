@@ -4,12 +4,11 @@ title: 'Recursos de Tecnología'
 canonical_URL: https://ciberninjas.com
 published: true
 author_profile: false
-title: "Recursos de Tecnología"
 header:
   teaser: /assets/images/portada/neo-matrix.gif
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/portada/neo-matrix.gif
+  overlay_image: /assets/images/portada/disenador-rodando.gif
 #  actions:
 #    - label: "🎓 Cursos"
 #      url: "/cursos-tecnologia/"
@@ -20,6 +19,14 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 ¡Entra y conviértete en un auténtico ciberninja! "
 ---
 
+<!-- ENLACES A TODOS MIS NUEVOS Y MAS RECIENTES ARTICULOS DE CURSOS..
+<p><a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p>
+-->
+<!-- CREAR OTRO MENU AMPLIO DE BOTONES CON ENLACES A REDES SOCIALES -->
+<!-- MODIFICAR SECCIONES CAMBIAR DE LUGAR GIFS SIMILARES, AÑADIR ICONOS AL FINAL DE CADA BOTÓN.. -->
+<!-- AGREGAR SECCION DE LENGUAJES DE PROGRAMACIÓN.. -->
+<!-- AGREGAR BOTONES DE CURSOS Y LIBROS DENTRO DE LAS PÁGINAS Y EL MENU INFERIOR CORREGIDO.. -->
+<!-- AGREGAR SECCION DE CODIGO ABIERTO CON FUNDACION CD PROJECT Y EL PROYECTO ESTE RARO DE TODO GROUP -->
 <!-- CAJA 1 PROGRAMACION-->
 <div class="feature__wrapper">
 <div class="feature__item--left">
@@ -32,12 +39,12 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>¿Quieres aprender a programar? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lio!</p>
             </div>
-            <p><a href="/programar/" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Aprender a Programar</a> <a href="https://ouo.io/S4XkQc" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p>
+            <p><a href="/programar/" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Aprender a Programar</a> <a href="https://ouo.io/S4XkQc" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Lenguajes de Programación</a></p>
         </div>
     </div>
 </div>
 </div>
-<!-- CAJA 2 FRAMEWORKS -->
+<!-- CAJA 2 - OCULTO - FRAMEWORKS -->
 <div class="feature__wrapper" style="display:none;">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -76,7 +83,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/directo/" title="Recursos para diseñadores gráficos"><img src="/assets/images/portada/disenador-rodando.gif" alt="Recursos para diseñadores gráficos, diseñador enloquecido buscando su inspiración"></a>
+            <a href="/diseño-recursos/" title="Recursos para diseñadores gráficos"><img src="/assets/images/portada/disenador-rodando.gif" alt="Recursos para diseñadores gráficos, diseñador enloquecido buscando su inspiración"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">El sitio perfecto para diseñadores gráficos</h2>
@@ -122,7 +129,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
     </div>
 </div>
 </div>
-<!-- CAJA 5 - BIS REGALOS GEEKS -->
+<!-- CAJA 5 - OCULTO - BIS REGALOS GEEKS -->
 <div class="feature__wrapper" style="display:none;">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -220,7 +227,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador. Breve historia e introducción del nacimiento y enfoque del punto de vista teecnológico de los Ciberninjas y su creador: Pablo Álvarez Corredera.</p>
             </div>
-            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">💡 Qué Es</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">😼 Quién Soy</a></p>
+            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">Qué Es 💡</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">Quién Soy 😼</a></p>
         </div>
     </div>
 </div>
@@ -230,7 +237,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="https://i.ibb.co/rv8wcTJ/give-love-heart-corazon-rosa.gif" alt="Enlaces personales, sobre lecturas, información, política, opinión, critica y aficiones y gustos personales"></a>
+            <a href="/rosepac/" title="Cosas y Gustos de Ciberninjas"><img src="https://i.ibb.co/rv8wcTJ/give-love-heart-corazon-rosa.gif" alt="Enlaces personales, sobre lecturas, información, política, opinión, critica y aficiones y gustos personales"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Biblioteca Personal</h2>
