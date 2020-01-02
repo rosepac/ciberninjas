@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: 'Recursos de Tecnología'
+title: Recursos de Tecnología
 canonical_URL: https://ciberninjas.com
 published: true
 author_profile: false
@@ -9,24 +9,16 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/portada/graphic-design-gif-2.gif
+  image_alt: Recursos de Tecnología para todos los publicos
 #  actions:
 #    - label: "🎓 Cursos"
 #      url: "/cursos-tecnologia/"
 #    - label: "👨‍💻 Libros"
 #      url: "/biblioteca-de-programacion-y-tecnologia/"
   caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
-excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más..
-¡Entra y conviértete en un auténtico ciberninja! "
+excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.. ¡Entra y conviértete en un auténtico ciberninja!"
 ---
 
-<!-- ENLACES A TODOS MIS NUEVOS Y MAS RECIENTES ARTICULOS DE CURSOS..
-<p><a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p>
--->
-<!-- CREAR OTRO MENU AMPLIO DE BOTONES CON ENLACES A REDES SOCIALES -->
-<!-- MODIFICAR SECCIONES CAMBIAR DE LUGAR GIFS SIMILARES, AÑADIR ICONOS AL FINAL DE CADA BOTÓN.. -->
-<!-- AGREGAR SECCION DE LENGUAJES DE PROGRAMACIÓN.. -->
-<!-- AGREGAR BOTONES DE CURSOS Y LIBROS DENTRO DE LAS PÁGINAS Y EL MENU INFERIOR CORREGIDO.. -->
-<!-- AGREGAR SECCION DE CODIGO ABIERTO CON FUNDACION CD PROJECT Y EL PROYECTO ESTE RARO DE TODO GROUP -->
 <!-- CAJA 1 PROGRAMACION-->
 <div class="feature__wrapper">
 <div class="feature__item--left">
