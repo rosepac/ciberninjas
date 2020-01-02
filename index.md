@@ -39,7 +39,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>¿Quieres aprender a programar? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lio!</p>
             </div>
-            <p><a href="/programar/" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Aprender a Programar</a> <a href="https://ouo.io/S4XkQc" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Lenguajes de Programación</a></p>
+            <p><a href="/programar/" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Aprender a Programar</a> <a href="https://ouo.io/S4XkQc" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a> <a href="/lenguajes-programacion/" class="btn btn--inverse btn--large">Lenguajes de Programación</a></p>
         </div>
     </div>
 </div>
