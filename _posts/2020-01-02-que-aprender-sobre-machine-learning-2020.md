@@ -1,5 +1,5 @@
 ---
-author_profile: false
+author_profile: true
 title: "🤖 Cómo aprender aprendizaje automático o machine learning en 2020"
 description: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje automático durante 2020"
 excerpt: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje automático durante 2020"
@@ -15,19 +15,23 @@ header:
   image_description: '🤖 Cómo empezar con el aprendizaje automático o machine learning en 2020'
   image_alt: '🤖 Cómo empezar con el aprendizaje automático o machine learning en 2020'
   caption: "Créditos: Unsplash"
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
 ---
 
-_____
+Con esta publicación vamos a crear una línea de aprendizaje que seguir para la creación de un proyecto de aprendizaje automático durante el nuevo año 2020.
 
-En esta publicación, nos vamos a centrar en como aprender aprendizaje automático / profundo o machine learning / deep learning durante el nuevo año 2020. Existen variopintos campos relacionados al respecto; Aprendizaje profundo, Inteligencia Artificial, teoría estadística, cognitivo computacional y más.. pero en este caso nos centraremos únicamente en Machine Learning.
+Existen variopintos campos relacionados al respecto; Aprendizaje profundo, Inteligencia Artificial, teoría estadística, cognitivo computacional y más.. En este caso nos centraremos únicamente en Machine Learning.
 
-## ¿Por dónde debería comenzar?
+## ¿Por dónde comenzar con el aprendizaje automático?
 
-Seguramente, el punto de enfoque más indicado sea el siguiente: elegir un problema que resolver y comenzar buscando en Google los modelos más comunes que se utilizan para resolver ese tipo de problema o problemas.
+Analizando las diferentes posibilidades, el punto de enfoque más indicado sería el siguiente: Elegir un problema que resolver y centrarse en encontrar los modelos más comunes para resolver ese tipo de problema u otros similares.
 
 Luego se puede seguir desde Github, buscando código que resuelvan ese posible problema u otros similares. Descargar ese código y seguramente, ese sea el punto de partida de tu trabajo.
 
-Desde comenzar a trabajar, cambiandolo e experimentando sobre el código. Toda la teoría y todo lo demás esta muy bien; pero es inútil en su mayoría.
+Desde comenzar a trabajar, cambiándolo e experimentando sobre el código. Toda la teoría y todo lo demás esta muy bien; pero es inútil en su mayoría.
 
 Es demasiada cantidad de información para aprender desde cero y probablemente vas a terminar usando muy poco de entre ello. Hay tanto código sobre aprendizaje automático en Github desde el que aprender, que esa base va a ser realmente la mejor fórmula de partida.
 
@@ -35,13 +39,13 @@ Cuando encuentres un concepto que necesites comprender, a través de Google pued
 
 Dentro del campo del machine learning, seguramente tendrás que ir trabajando de forma intuitiva para ir resolviendo los problemas que deseas; pero siempre tendrás grandes brechas.
 
-Debes de tener en cuenta de que existen los cursos Online como [fast.ai](https://www.fast.ai/){:target="_blank"} o fast.ai desde este [otro enlace](http://course18.fast.ai/ml.html){:target="_blank"} antes de otros que se venden mucho más caros a pesar de enseñarte solamente preguntas que Google es capaz de responderte, sin ningun tipo de problema.
+Debes de tener en cuenta de que existen los cursos Online como [fast.ai](https://www.fast.ai/){:target="_blank"} o fast.ai desde este [otro enlace](http://course18.fast.ai/ml.html){:target="_blank"} antes de otros que se venden mucho más caros a pesar de enseñarte solamente preguntas que Google es capaz de responderte, sin ningún tipo de problema.
 
 Siempre puedes comenzar visualizando uno o dos videos cortos sobre la propagación hacia atrás. No es necesario que te confundas con la teoría y las matemáticas, puedes ser productivo de inmediato. Una vez que comience a jugar con los modelos de Pytorch y Tensorflow (entrene usted mismo o realice el aprendizaje por transferencia), comenzará a desarrollar una intuición sobre cómo encajan los gráficos de red. También recogerás herramientas como tensorboard.
 
-Procura siempre ir transferiendo el aprendizaje hacía la práctica. Es increíble entrenar en un conjunto grande de datos y de alta calidad, existen bases de datos disponibles públicamente; si eres capaz de terminar resolviendo los problemas sobre un gran conjunto de datos te será mucho más sencillo aplicarlo sobre tu propio conjunto de datos; con seguridad, mucho más pequeño.
+Procura siempre ir transfiriendo el aprendizaje hacía la práctica. Es increíble entrenar en un conjunto grande de datos y de alta calidad, existen bases de datos disponibles públicamente; si eres capaz de terminar resolviendo los problemas sobre un gran conjunto de datos te será mucho más sencillo aplicarlo sobre tu propio conjunto de datos; con seguridad, mucho más pequeño.
 
-En la actualidad, da la sensación de que el aprendizaje profundo será será como la ingeniería de hoy ;donde puedes aprender haciendo y sin necesidad de un título u otros estudios formales para pdoer llegar a ser productivo y ser capaz de crear tus propias redes.
+En la actualidad, da la sensación de que el aprendizaje profundo sera como la ingeniería de hoy; donde puedes aprender haciendo y sin necesidad de un título u otros estudios formales para poder llegar a ser productivo y ser capaz de crear tus propias redes.
 
 Puedes ser capaz de diseñar redes de conversión de voz y TTS, por ejemplo, sin necesidad de estudios específicos; y posteriormente, si comienzas a leer páginas y artículos sobre redes similares a la que tu deseas crear; puedes llegar a ese punto más simple desde el que ir avanzando.
 
@@ -51,7 +55,7 @@ El curso completo son alrededor de 30 horas, así que si estás decidido realmen
 
 Además, existen estos apuntes sobre ese mismo [curso en Github](https://github.com/tlv/ml_ng){:target="_blank"} los cuales te aclararan ciertos puntos que en el curso no son explicados expresamente y otras anotaciones.
 
-## Consejos Rápidos
+## Consejos Rápidos para Aprender Machine Learning
 
 1. Es importante que si estas leyendo un documento y te sientes intimidado por las matemáticas complejas que allí se reflejan, debes tener en cuenta de que a menudo esas matemáticas solo se incluyen para hacer que el documento se vea más impresionante, y a veces ni siquiera es correcto.
 2. Si quieres ir por una ruta aplicada, te sugiero que comiences en algún lugar como Kaggle y busques en las competiciones unas vagamente similares a las tuyas. Han hecho todo el trabajo duro de elegir un problema desafiante pero solucionable, buscar y dividir los datos y elegir una métrica. Luego puede ver qué técnicas realmente funcionan realmente bien y comparar diferentes enfoques.
@@ -60,9 +64,9 @@ Además, existen estos apuntes sobre ese mismo [curso en Github](https://github.
 
 ### Sobre fast.ai
 
-El modelo de aprendizaje seguido dentro de este curso; es el siguiente. El curso empieza simplemente aplicando modelos preconstruidos a las cosas, y luego va guiandote a ajustarlos, finalmente te guia a aprender la teoría que hace que los ajustes funcionen.
+El modelo de aprendizaje seguido dentro de este curso; es el siguiente. El curso empieza simplemente aplicando modelos preconstruidos a las cosas, y luego va guiándote a ajustarlos, finalmente te guía a aprender la teoría que hace que los ajustes funcionen.
 
-## Paso a Paso
+## El Aprendizaje Automático: Paso a Paso
 
 * He aquí, una interesante ruta de aprendizaje, paso a paso:
 
@@ -76,20 +80,21 @@ El modelo de aprendizaje seguido dentro de este curso; es el siguiente. El curso
 
 Mientras aprende esto, juegue con la regresión lineal y sus variantes: polinomio, lazo, logística, etc. Para los datos tabulares, siempre busco la regresión apropiada antes de hacer algo más complicado. Es sencillo, rápido, puede ver qué sucede con los datos (como qué transformaciones debe realizar o dónde le faltan datos), y es interpretable. Es bueno tener algunos resultados preliminares para mostrar y discutir mientras todos los demás luchan por obtener resultados no terribles de sus redes neuronales.
 
-Entonces realmente puedes meterte en la carne con el aprendizaje automático. Primero comenzaría con los modelos basados ​​en árboles. Son más directos y compasivos que las redes neuronales. Puede explorar cómo la complejidad de sus modelos afecta las predicciones y comenzar a tener una idea de la optimización de hiperparámetros. Comience con árboles básicos y luego entre en bosques aleatorios en scikit-learn. Luego explore los árboles impulsados ​​por gradiente con XGBoost. Y puedes obtener resultados realmente buenos con los árboles. En mi grupo, rara vez vemos que las redes neuronales superen a los modelos construidos en XGBoost en datos tabulares.
+Entonces realmente puedes meterte en la carne con el aprendizaje automático. Primero comenzaría con los modelos basados ​​en árboles. Son más directos y compasivos que las redes neuronales. Puede explorar cómo la complejidad de sus modelos afecta las predicciones y comenzar a tener una idea de la optimización de hiper parámetros. Comience con árboles básicos y luego entre en bosques aleatorios en scikit-learn. Luego explore los árboles impulsados ​​por gradiente con XGBoost. Y puedes obtener resultados realmente buenos con los árboles. En mi grupo, rara vez vemos que las redes neuronales superen a los modelos construidos en XGBoost en datos tabulares.
 
 La mayoría de las publicaciones de blog apestan. La mayoría de los papeles son inútiles. Recomiendo el aprendizaje automático de Geron.
 
 Luego exploraría el amplio mundo de las redes neuronales. Comience con Keras, que realmente enfatiza la construcción de modelos de una manera amigable, y luego continúe con PyTorch a medida que se sienta cómodo depurando Keras. Ataque algunos problemas de clasificación de objetos con y sin backends pre-entrenados, luego entre en detección y PNL. Juegue con la regularización de peso, la norma de lotes y la norma de grupo, diferentes tasas de aprendizaje, etc. Si realmente desea profundizar en las cosas, también aprenda algo de programación de CUDA.
 
-Realmente me gusta el aprendizaje profundo de Chollet con Python.
+## Recursos Interesantes de Machine Learning
 
-## Libros y Páginas Interesantes sobre Machine Learning
+Lista de algunos de los mejores libros y blogs sobre aprendizaje automático que existen.
 
 * [HumbleBundle](https://www.humblebundle.com/subscription?refc=izS4PE)
 * Aprendiendo con Scikit-Learn, Keras y TensorFlow [Tapa](https://amzn.to/2FfybPc) \ [Ebook](https://amzn.to/2u6XmBe)
 * Creación de aplicaciones basadas en el aprendizaje automático: pasar de la idea al producto [Tapa Dura](https://amzn.to/2QCCOIx)
 * Aprendizaje de refuerzo profundo práctico [Tapa](https://amzn.to/39A0cPm) \ [Ebook](https://amzn.to/2SJHyyI)
+* Aprendizaje Profundo con Python [Tapa Dura](https://amzn.to/39znPYo)
 * [Reconocimiento de patrones y aprendizaje automático](https://amzn.to/2QHN7v3){:target="_blank"} (ciencias de la información y estadística) -en inglés-.
 * Fundamentos de la Ciencia de Datos (Inglés) [Tapa](https://amzn.to/2QHaMeL) \ [Ebook](https://amzn.to/2SNWQST)
 * Los Elementos del Aprendizaje Estadístico [Tapa](https://amzn.to/35hDLLN) \ [Ebook](https://amzn.to/2ZGolzs)
@@ -110,7 +115,136 @@ Realmente me gusta el aprendizaje profundo de Chollet con Python.
 * Procesamiento de lenguaje natural de vanguardia CS224n de Stanford es excelente: http://web.stanford.edu/class/cs224n/
 * Publicaciones de Medium de [Ageitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471){:target="_blank"}
 
-## Herramientas
+* [Awesome de Machine Learning](https://github.com/ujjwalkarn/Machine-Learning-Tutorials){:target="_blank"}
+
+Esta es una lista curada de tutoriales, artículos y recursos de aprendizaje automático y aprendizaje profundo. Organizada por tema, la lista contiene numerosas categorías relacionadas con el aprendizaje profundo, incluida la visión por computadora, el aprendizaje por refuerzo y varias arquitecturas. Ha estado circulando en las redes sociales durante algunos meses, dado su extenso contenido, y usted puede contribuirmira aquí.
+
+* [Otra Awesome List de Machine Learning](https://github.com/josephmisiti/awesome-machine-learning){:target="_blank"}
+
+Esta es una lista curada de bibliotecas de aprendizaje automático, framework´s y software. La lista se clasifica por lenguajes de programación y, además, por categorías de aprendizaje automático (propósito general, visión por computadora, procesamiento del lenguaje natural, etc.). También incluye herramientas de visualización de datos, lo que amplia la lista a ser una lista sobre la ciencia de datos.
+
+* [Sumérgete en el aprendizaje automático](https://github.com/hangtwenty/dive-into-machine-learning){:target="_blank"}
+
+Esta es una colección de tutoriales de cuaderno de IPython para scikit-learn, así como una serie de enlaces a temas relacionados con Python relacionados con el aprendizaje automático general y específicos de Python, e información más general sobre ciencia de datos. El autor tampoco es codicioso; son rápidos para señalar muchos otros tutoriales que cubren un terreno similar, en caso de que este le guste. El repositorio no tiene ningún software, pero si eres nuevo en el aprendizaje automático de Python, puede valer la pena echarle un vistazo.
+
+* [Tutoriales de Aprendizaje Profundo](https://github.com/lisa-lab/DeepLearningTutorials){:target="_blank"}
+
+Este repositorio es una colección de los tutoriales de aprendizaje profundo de LISA Lab de la Universidad de Montreal. Directamente del archivo Léame:
+
+> Los tutoriales presentados aquí le presentarán algunos de los algoritmos de aprendizaje profundo más importantes y también le mostrarán cómo ejecutarlos con Theano. Theano es una biblioteca de Python que facilita la escritura de modelos de aprendizaje profundo y ofrece la opción de entrenarlos en una GPU.
+
+El enlace directo a [los tutoriales](http://deeplearning.net/tutorial/){:target="_blank"}.
+
+* [Código de aprendizaje automático para hackers con R](https://github.com/johnmyleswhite/ML_for_Hackers){:target="_blank"}
+
+Este repositorio contiene el código del libro de O'Reilly Machine Learning for Hackers . Todo el código de repositorio está en R, se basa en numerosos paquetes de R y los temas cubiertos incluyen las tareas demasiado comunes de clasificación, clasificación y regresión, así como procedimientos estadísticos como el análisis de componentes principales y el escalado multidimensional.
+
+[🐍 Cursos de Machine Learning 🐍](https://ouo.io/QSlgGQ){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Libros de Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Cursos de Python 🐍](https://ouo.io/CNr4s3){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Catálogo de Python 🐍](/libros/#python){: .btn .btn--inverse .btn--large .align-center}
+
+## Proyectos de Aprendizaje Profundo
+
+* **Scikit-Learn**
+
+ Scikit-Learn, es la biblioteca de aprendizaje automático para programadores de Python de todo el mundo, desde la industria hasta la universidad. Scikit-learn aprovecha la pila de computación científica de Python, construida sobre NumPy, SciPy y matplotlib. Como un juego de herramientas general, Scikit-learn contiene algoritmos de clasificación, regresión y agrupación, así como herramientas de preparación de datos y evaluación de modelos.
+
+[👉 Visitar Scikit-Learn <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/scikit-learn/scikit-learn){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **Prediction IO**
+
+PredictionIO, es un servidor de aprendizaje automático para desarrolladores e ingenieros de Machine Learning. Construido sobre Apache Spark, HBase y Spray.
+
+Este framework de propósito general, incluye varios motores de plantillas para tareas ya reconocidas, como la clasificación y recomendación, que se pueden personalizar, se conecta a aplicaciones existentes con REST API o SDK e incluye soporte para Spark MLib. Dado que está construido sobre Spark y utiliza su ecosistema, no debería sorprendernos que PredictionIO este desarrollado principalmente en Scala.
+
+[👉 Visitar PredictionIO <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/PredictionIO/PredictionIO){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **Pattern**
+
+Pattern es un kit de herramientas de minería web basado en Python que sale del centro de investigación de Lingüística y Psicolingüística Computacional (CLiPS) de la Universidad de Amberes. En este contexto, tiene herramientas para las tareas de raspado, aprendizaje automático, procesamiento del lenguaje natural, análisis de redes y visualización. Pattern también puede extraer fácilmente datos de varios servicios web conocidos. El proyecto afirma estar bien documentado e incluir numerosos ejemplos y pruebas unitarias.
+
+[👉 Visitar Pattern <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/clips/pattern){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **NuPIC**
+
+Plataforma de inteligencia artificial inspirada en el cerebro y una red neuronal biológicamente precisa basada en algoritmos de aprendizaje cortical; implementa los algoritmos de aprendizaje automático de memoria temporal jerárquica (HTM) . HTM es un intento de modelar el cálculo de la neocorteza, y se centra en almacenar y recordar patrones espaciales y temporales. NuPIC es ideal para la detección de anomalías relacionadas con patrones.
+
+[👉 Visitar NuPIC <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/numenta/nupic){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **Vowpal Wabbit**
+
+Vowpal Wabbit es un sistema de aprendizaje automático que empuja la frontera del aprendizaje automático con técnicas como el aprendizaje en línea, hashing, allreduce, reducciones, learning2search, activo e interactivo, tiene como objetivo el modelado rápido de conjuntos de datos masivos y admite el aprendizaje paralelo. El proyecto se inició en Yahoo! y actualmente se desarrolla en Microsoft Research. Vowpal Wabbit aprovecha el aprendizaje fuera del núcleo y se ha utilizado para aprender un conjunto de datos de características tera en una hora en 1000 nodos de cómputo.
+
+[👉 Visitar Vowpal Wabbit <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/JohnLangford/vowpal_wabbit){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **AeroSolve**
+
+Paquete de aprendizaje automático creado para humanos, **aerosolve** intenta ser diferente de otras bibliotecas, enfocándose en instalaciones de depuración amigables para los humanos, código Scala para capacitación, un motor de análisis de contenido de imágenes para una clasificación fácil de imágenes y un lenguaje de transformación de características que brinda a los usuarios flexibilidad y control sobre las características. aerosolve implementa una representación de características basada en el ahorro, en la que las características se agrupan lógicamente con el propósito de aplicar transformaciones o facilitar interacciones entre grupos de características completos a la vez.
+
+[👉 Visitar Pattern <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/airbnb/aerosolve){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **GoLearn**
+
+GoLearn es una biblioteca de aprendizaje automático desarrollada activamente para Go. Sus objetivos son proporcionar un paquete totalmente personalizable, fácil de usar y personalizable para los desarrolladores de Go. GoLearn implementa la interfaz familiar (para muchos) de ajuste / predicción de Scikit-learn, facilitando el intercambio de estimadores e implementa "funciones auxiliares" como validación cruzada y división de entrenamiento / prueba.
+
+[👉 Visitar Pattern <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/sjwhitworth/golearn){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+## Librerías y Otros Recursos de Machine Learning
+
+Github se ha convertido en el centro de intercambio de software de *facto* de **código abierto**, alberga todo tipo de proyectos imaginables. Dada la creciente adopción del aprendizaje profundo en la universidad, la investigación y para otras practicas, además de su creciente papel en la ciencia de datos, estamos explorando los principales proyectos de aprendizaje profundo disponibles en Github.
+
+* **Caffe**
+
+Caffe es una biblioteca de aprendizaje profundo que trabaja con Python y MATLAB. Creada por el Centro de Visión y Aprendizaje de Berkeley, UC Berkeley, uno podría pensar que Caffe es solo para aplicaciones de visión por computadora; es, de hecho, una biblioteca de aprendizaje profundo de propósito general para desplegar redes convolucionales, así como otras arquitecturas, en visión, habla y otras aplicaciones.
+
+[👉 Visitar Caffe <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/BVLC/caffe){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **Cuadernos de Ciencia de Datos: IPython**
+
+Esta es una colección de cuadernos IPython creada por Donne Martin. Los temas que tratan las lecciones incluyen: Big Data, Hadoop, Scikit-Learn y la pila científica de Python, así como muchos otros. Con respecto al aprendizaje profundo, se abarcan marcos como TensorFlow, Theano y Caffe, junto con arquitecturas y conceptos particulares.
+
+[👉 Visitar Cuadernos IPython <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/donnemartin/data-science-ipython-notebooks){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **ConvNetJS**
+
+Escrito por el estudiante de doctorado de Stanford Andrej Karpathy, quien también mantiene un blog muy práctico, ConvNetJS es una implementación de JavaScript de redes neuronales y sus módulos comunes, e incluye numerosos ejemplos basados ​​en el navegador. La documentación y los ejemplos son completos y numerosos, respectivamente. No dejes que la idea de entremezcla JavaScript y las redes neuronales juntas te asuste. Este es un proyecto muy popular del que a buen seguro le podrás sacar partido.
+
+[👉 Visitar ConvNetJS <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/karpathy/convnetjs){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **Keras**
+
+Keras es una biblioteca de aprendizaje profundo de Python que aprovecha TensorFlow y Theano, lo que significa que se puede ejecutar sobre cualquiera de las dos bibliotecas de investigación de aprendizaje profundo más populares que existen actualmente. Es una de las bibliotecas que se podrían describir como bibliotecas de muy alto nivel, las que realizan siempre las mismas pautas: abstraen los motores de aprendizaje profundo subyacentes para lograr implementaciones de redes neuronales más rápidas, más fáciles y más flexibles. Keras admite las principales arquitecturas de aprendizaje profundo, viene con una guía de inicio rápido de 30 segundos y posee una amplia y sólida documentación.
+
+[👉 Visitar Keras <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/fchollet/keras){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **MXNet**
+
+Como un **framework de aprendizaje profundo**: MXNet, busca la flexibilidad y la eficiencia y permite la combinación de técnicas de programación imperativas y simbólicas para mejorar la productividad. El proyecto incluye enlaces para numerosos idiomas, incluidos Python, R y Julia. MXNet también viene con una variedad de pautas y planos de redes neuronales. También existe otro proyecto relacionado que implementa MXNet en JavaScript para [el navegador](https://github.com/dmlc/mxnet.js/ "Usar la librería MXNet en el navegador"), y se puede probar un modelo de clasificación de imágenes a través de [este enlace](http://webdocs.cs.ualberta.ca/~bx3/mxnet/classify.html "Clasificador de imágenes mediante aprendizaje profundo").
+
+[👉 Visitar MXNet <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/dmlc/mxnet){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **Qix**
+
+Este es un repositorio de lo que parecen ser recursos relacionados con una amplia gama de temas de computación y programación, incluidos Node.Js, GoLang y aprendizaje profundo. Digo "parece" porque el repositorio está escrito completamente en chino, y la traducción proporcionada por Google causa aún más confusión. Sin embargo, hay varios enlaces, así que si hablas o puedes leer chino, quizás haya algo de valor escondido allí.
+
+[👉 Visitar Qix <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/ty4z2008/Qix){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **DeepLearning4j**
+
+Deeplearning4j es un **Framework de aprendizaje profundo** de fuerza industrial para Java y Scala. Como una de las soluciones destacadas de aprendizaje profundo de JVM, Deeplearning4j tiene una ventaja obvia en el espacio. Al integrarse con Hadoop y Spark, Deeplearning4j también tiene la capacidad de aprovechar las GPU. Su documentación y tutoriales también son muy completos.
+
+[👉 Visitar DeepLearning4j <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/clips/pattern){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+* **DeepLearnToolbox**
+
+Esta es una **caja de herramientas de Machine Learning** para MATLAB y Octave. Sin embargo, el proyecto actualmente está en desuso y ya no se mantiene. El repositorio señala a Theano y TensorFlow como alternativas valiosas para aprender el aprendizaje profundo en la actualidad. 👉 [Visitar](https://github.com/rasmusbergpalm/DeepLearnToolbox)
+
+Podemos destacar por ejemplo, el libro de: Arquitecturas del Aprendizaje Profundo para [la Inteligencia Artificial](https://github.com/kartikgo/PGM-10708/blob/master/Documents/ftml_book.pdf){:target="_blank"}
+
+[👉 Visitar DeepLearnToolbox <i class="fa fa-github" aria-hidden="true"></i>](https://www.kdnuggets.com/2016/01/top-10-deep-learning-github.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+### Otros
 
 * Google Colab para poder acceder a una GPU / TPU gratuita.
 * El motor JIT de libtorch en Rust (enlaces tch.rs)
@@ -119,13 +253,13 @@ Realmente me gusta el aprendizaje profundo de Chollet con Python.
 * GanS o Redes Generativas Adversas[*](https://pathmind.com/wiki/generative-adversarial-network-gan){:target="_blank"}
 * Simplemente haga clic en [Ejecutar en Google Colab](https://www.tensorflow.org/tutorials/generative/cyclegan){:target="_blank"} en la esquina superior izquierda y comience a evaluar los bloques de código.
 
-## Proyectos de Github
+## Proyectos Github de Aprendizaje Automático
 
 * Clasificación de oraciones [](https://github.com/lettergram/sentence-classification)
 
 Guía de PNL basada en ML. Identificamos si una oración es una pregunta, declaración o comando usando redes neuronales.
 
-
-
-**Fuente**: [Hacker News Hilo](https://news.ycombinator.com/item?id=21924298){:target="_blank"}
+**Fuentes**:
+* [Hilo Hacker News](https://news.ycombinator.com/item?id=21924298){:target="_blank"}
 <!-- redes generativas adversas? -->
+* Top 10 Librerías [*](https://www.kdnuggets.com/2016/01/top-10-deep-learning-github.html){:target="_blank"} [**](https://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html/2){:target="_blank"}
