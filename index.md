@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/portada/neo-matrix.gif
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/portada/disenador-rodando.gif
+  overlay_image: /assets/images/portada/graphic-design-gif-2.gif
 #  actions:
 #    - label: "🎓 Cursos"
 #      url: "/cursos-tecnologia/"
