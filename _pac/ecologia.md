@@ -1,13 +1,50 @@
 ---
 author_profile: false
-title: "borrador"
-description: "🌟 borrador navidad"
-excerpt: "🌟 borrador navidad"
-permalink:
+author: rosepac
+title: "Sobre Ecología"
+description: "🌄 Noticias sobre la actualidad de la Ecología"
+excerpt: "🌄 Noticias sobre la actualidad de la Ecología"
+permalink: /ecologia/
+header:
+  teaser: /assets/images/gifs-colecciones/pensamiento-ecologia.gif
+  overlay_image: https://i.ibb.co/30rww15/photo-1562786992-4db45ffdbcd3-ixlib-rb-1-2.jpg
+  overlay_filter: "0.2"
+  image_description: "Noticias sobre la actualidad de la Ecología"
+  image_alt: "Noticias sobre la actualidad de la Ecología"
+  caption: "Noticias sobre la actualidad de la Ecología"
 comments: true
-date: 2019-12-05 18:00:00 +0100
-published: false
+date: 2020-01-02 12:02:00 +0100
+last_modified_at: 2020-01-02 22:28:02 +0100
+published: true
 ---
+
+## Cambio Climático
+
+### 2020
+
+**Enero**
+
+* [Warren Buffett está gastando miles de millones para hacer de Iowa "la Arabia Saudita del viento"](https://markets.businessinsider.com/news/stocks/warren-buffett-berkshire-hathaway-invest-billions-iowa-saudi-arabia-wind-2019-12-1028787852)
+* 😡 El plástico que nos comemos: https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B4TF2MQ/index.html vía @Reuters
+* Los incendios forestales en Australia son tan grandes que generan su propio clima: tormentas eléctricas 'pyrocumulonimbus' que pueden provocar más incendios: https://www.businessinsider.sg/australia-bushfires-generate-pyrocumulonimbus-thunderstorm-clouds-2019-12/
+
+### 2019
+
+Agosto, 18
+* [Desaparece Okjökull en Islandia, el primer glaciar vencido por el calentamiento global](https://es.gizmodo.com/desaparece-okjokull-el-primer-glaciar-vencido-por-el-c-1837362414)
+* Derrumbamiento de parte de una montaña glaciar en Islandia
+
+<iframe width="400" height="500" frameborder="0" src="https://www.bbc.com/news/av/embed/p07569gx/49345912"></iframe>
+
+Agosto, 16
+* [El agua del Cantábrico ya está a la misma temperatura que la del Mediterráneo; el desierto del mar](https://www.lasexta.com/noticias/ciencia-tecnologia/el-agua-del-cantabrico-a-la-misma-temperatura-que-la-del-mediterraneo_201908165d56bf250cf2f1647b3d4605.html)
+
+### 2018
+
+Noviembre, 11
+* [Los fondos marinos no se salvan de la epidemia de los plásticos y las fibras textiles](https://www.lavanguardia.com/natural/tu-huella/20181107/452778877165/microplasticos-fibras-textiles-contaminan-fondos-marinos.html)
+
+## Reflexión
 
 https://www.youtube.com/watch?v=0j-eJtyngp4
 
@@ -31,4 +68,4 @@ Para él, esta circunstancia supondría una catástrofe para la naturaleza, ya q
 
 Deberíamos ser conscientes de que no hay vuelta atrás, de que debemos aceptar un equilibrio contingente y frágil y de que no existe un estándar preprogramado que podamos recuperar.
 
-No hay un equilibrio natural porque la naturaleza misma
+No hay un equilibrio natural porque la naturaleza misma..
