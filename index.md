@@ -19,6 +19,7 @@ header:
 excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.. ¡Entra y conviértete en un auténtico ciberninja!"
 ---
 
+<p><a href="https://ouo.io/5gtlMr" title="80 Cursos de Udemy para aprender a programar" class="btn btn--inverse btn--large">Cursos Programación Udemy</a><a href="https://ouo.io/QlFpzIe" title="50 Cursos de Udemy para aprender todo sobre las cadenas de bloques, las criptomonedas: Bitcoin y Ethereum y el trading" class="btn btn--inverse btn--large">Cursos Criptomonedas Udemy</a></p><br/>
 <!-- CAJA 1 PROGRAMACION-->
 <div class="feature__wrapper">
 <div class="feature__item--left">
@@ -31,7 +32,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>¿Quieres aprender a programar? Vamos a aprender los diferentes aspectos dentro del mundo de la computación, desde las nociones más básicas hasta muchos aspectos más avanzados, rozando el ámbito de lo profesional. ¡Sigue conmigo, que vamos al lio!</p>
             </div>
-            <p><a href="/programar/" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Aprender a Programar</a> <a href="https://ouo.io/S4XkQc" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a> <a href="/lenguajes-programacion/" class="btn btn--inverse btn--large">Lenguajes de Programación</a></p>
+            <p><a href="/programar/" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Aprender a Programar</a> <a href="/lenguajes-programacion/" class="btn btn--inverse btn--large">Lenguajes de Programación</a> <a href="https://ouo.io/S4XkQc" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web" class="btn btn--inverse btn--large">Cursos de Programación</a> <a href="https://ouo.io/WPYmyR" class="btn btn--inverse btn--large">Libros de Programación</a></p>
         </div>
     </div>
 </div>
@@ -80,7 +81,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
         <div class="archive__item-body">
             <h2 class="archive__item-title">El sitio perfecto para diseñadores gráficos</h2>
             <div class="archive__item-excerpt">
-                <p>¿Eres diseñador web? Los mejores recursos para diseñadores gráficos. ¿Eres diseñador web? Los mejores recursos para diseñadores gráficos. ¿Eres diseñador web? Los mejores recursos para diseñadores gráficos.</p>
+                <p>¿Eres diseñador web? Los mejores recursos para diseñadores gráficos. Accede a los mejores recursos para aprender a realizar los mejores diseños gráficos: aplicaciones, software. Repositorios de imágenes y fotografías. Tutoriales y artículos sobre diseño, creatividad e innovación dentro del mundo del diseño.</p>
             </div>
             <p><a href="/diseño-recursos/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Recursos Diseño Gráfico 👨‍🎨</a></p>
         </div>
@@ -97,9 +98,9 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
         <div class="archive__item-body">
             <h2 class="archive__item-title">Catálogo de la Librería Ciberninjas</h2>
             <div class="archive__item-excerpt">
-                <p>Las <strong>mejores ofertas</strong> en libros de programación y <strong>regalos</strong> especiales para geeks o cualquier amante de la computación, la electrónica o los gadgets tecnológicos.</p>
+                <p>Los <strong>mejores libros</strong>de <strong>programación</strong> y <strong>nuevas tecnologías</strong>: <strong></strong>.</p>
             </div>
-            <p><a href="/libros/" class="btn btn--inverse btn--large">Libros Tecnología</a> <a href="/libros-texto/" class="btn btn--inverse btn--large">Libros Educativos</a> <a href="/libreria/" class="btn btn--inverse btn--large">Librerías</a></p>
+            <p><a href="/libros/" class="btn btn--inverse btn--large">Libros Tecnología</a> <a href="/libros-texto/" class="btn btn--inverse btn--large">Libros Educativos</a> <a href="/libreria/" class="btn btn--inverse btn--large">Librería Novelas</a></p>
         </div>
     </div>
 </div>
@@ -114,7 +115,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
         <div class="archive__item-body">
             <h2 class="archive__item-title">Regalazos Navideños para Geeks</h2>
             <div class="archive__item-excerpt">
-                <p>Las <strong>mejores ofertas</strong> en libros de programación y <strong>regalos</strong> especiales para geeks o cualquier amante de la computación, la electrónica o los gadgets tecnológicos.</p>
+                <p>Las <strong>mejores ofertas</strong> en <strong>regalos geeks</strong> y para los amantes de la computación, electrónica y los gadgets tecnológicos.</p>
             </div>
             <p><a href="/amazon/" class="btn btn--inverse btn--large">Saber Más</a> <a href="/ordenadores-componentes/" class="btn btn--inverse btn--large">Componentes PC</a> <a href="/teclados-ratones-diseño/" class="btn btn--inverse btn--large">Ratones y Teclados</a> <a href="/tablets-graficas/" class="btn btn--inverse btn--large">Tablets</a> <a href="/auriculares-diseño/" class="btn btn--inverse btn--large">Auriculares</a> <a href="/videojuegos/" class="btn btn--inverse btn--large">Videojuegos</a> <a href="/black-friday-amazon/" class="btn btn--inverse btn--large">Black Friday</a> <a href="/prime-day-amazon/" class="btn btn--inverse btn--large">Prime Day</a></p>
         </div>
@@ -148,9 +149,9 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
         <div class="archive__item-body">
             <h2 class="archive__item-title">El sitio perfecto para la educación: estudiantes, profesores y docentes</h2>
             <div class="archive__item-excerpt">
-                <p>¿Eres estudiante o profesor de DAM o DAW o ingenieria informática o telecomunicaciónes? Los mejores recursos para ti están aquí.</p>
+                <p>¿Eres profesor o estudiante de DAM o DAW o ingenieria informática o telecomunicaciónes? Los mejores recursos para ti están aquí.</p>
             </div>
-            <p><a href="/cursos-educacion/" title="Los mejores cursos sobre Educación enfocados a profesores y docentes" class="btn btn--inverse btn--large">Cursos Educación</a> <a href="/las-mejores-aplicaciones-escolares-seguimiento-tareas/" title="Las mejores aplicaciones escolares para gestionar la tarea de diario" class="btn btn--inverse btn--large">Aplicaciones Escolares</a> <a href="/libros-texto/" title="Los libros educativos de texto de Formación Profesional Tecnólogica" class="btn btn--inverse btn--large">Libros de Texto</a></p>
+            <p><a href="/cursos-educacion/" title="Los mejores cursos sobre Educación enfocados a profesores y docentes" class="btn btn--inverse btn--large">Cursos Educación</a> <a href="/las-mejores-aplicaciones-escolares-seguimiento-tareas/" title="Las mejores aplicaciones escolares para gestionar la tarea de diario" class="btn btn--inverse btn--large">Aplicaciones Escolares</a> <a href="/libros-texto/" title="Los libros educativos de texto de Formación Profesional Tecnólogica" class="btn btn--inverse btn--large">Libros de Texto</a> <a href="/recursos-daw/" title="Los mejores libros gratis con los que formate en cualquier ciclo formativo de Formación Profesional Tecnólogica" class="btn btn--inverse btn--large">Recursos DAW / DAM</a></p>
         </div>
     </div>
 </div>
@@ -207,23 +208,6 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 </div>
 </div>
 <!-- Gráfica: https://app.flourish.studio/visualisation/1093102/edit -->
-<!-- CAJA 9 CONOCIENDO A CIBERNINJAS -->
-<div class="feature__wrapper">
-<div class="feature__item--left">
-    <div class="archive__item">
-        <div class="archive__item-teaser">
-            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/portada/baby-yoda-guiño.gif" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
-        </div>
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">Conócenos</h2>
-            <div class="archive__item-excerpt">
-                <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador. Breve historia e introducción del nacimiento y enfoque del punto de vista teecnológico de los Ciberninjas y su creador: Pablo Álvarez Corredera.</p>
-            </div>
-            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">Qué Es 💡</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">Quién Soy 😼</a></p>
-        </div>
-    </div>
-</div>
-</div>
 <!-- CAJA 10 ENLACES Y BLOG PERSONAL -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
@@ -237,6 +221,23 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
                 <p>Dentro de esta sección podrás encontrar algunos abridores de mentes, junto a un sinfin de gustos personales o simplemente artículos culturales que por alguna razón he considerado que merece la pena tener en cuenta. Además, podrás encontrar una amplia librería de mis gustos personales, junto a enlaces sobre otras aficiones personales.</p>
             </div>
             <p><a href="/articulos/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">Artículos</a> <a href="/lecturas/" class="btn btn--inverse btn--large">Lecturas</a> <a href="/referentes-historicos/" class="btn btn--inverse btn--large">Referentes</a> <a href="/politica/" class="btn btn--inverse btn--large">Política</a></p>
+        </div>
+    </div>
+</div>
+</div>
+<!-- CAJA 9 CONOCIENDO A CIBERNINJAS -->
+<div class="feature__wrapper">
+<div class="feature__item--left">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/portada/baby-yoda-guiño.gif" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Conócenos</h2>
+            <div class="archive__item-excerpt">
+                <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador. Breve historia e introducción del nacimiento y enfoque del punto de vista teecnológico de los Ciberninjas y su creador: Pablo Álvarez Corredera.</p>
+            </div>
+            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">Qué Es 💡</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">Quién Soy 😼</a></p>
         </div>
     </div>
 </div>
