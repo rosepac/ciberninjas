@@ -86,7 +86,7 @@ sidebar:
 
 ## Machine Learning
 
-* [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank"} (Coursera)
+* [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank"} (Coursera) (2014) (en inglés con subtítulos en español)
 * [Aprendizaje Automático](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank"} (OCW) (2009)
 * [Aprendizaje Automático con Python: Una introducción práctica]() (IBM)
 * [Aprendizaje Automático y Ciencia de Datos](https://www.EDX.org/course/aprendizaje-automatico-y-ciencia-de-datos){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
@@ -233,14 +233,26 @@ sidebar:
 
 ## Cadena de Bloques 🔗
 
+* [Blockchain Básico para Periodistas](https://www.tutellus.com/tecnologia/blockchain/blockchain-basico-para-periodistas-18631)
+* [Blockchain Demo Day: Proyectos 2019](https://www.tutellus.com/tecnologia/blockchain/blockchain-demo-day-abril-2019-24449)
+* [Blockchain: Conceptos básicos y Ampliación sobre Ethereum](https://www.tutellus.com/tecnologia/blockchain/blockchain-conceptos-basicos-y-ampliacion-sobre-ethereum-18512)
+* [Blockchain: Modelos de Negocio y Criptoeconomía](https://www.tutellus.com/tecnologia/blockchain/blockchain-modelos-de-negocio-e-introduccion-a-la-criptoeconomia-17326)
 * [Curso de Blockchain en Python](https://unipython.com/curso-de-blockchain){:target="_blank"} (UniPython)
+* [Hyperledger: Marco de Blockchain para el negocio](https://www.tutellus.com/tecnologia/blockchain/hyperledger-marco-blockchain-para-el-negocio-19752)
+* [ICO´s, Smart Contracts y Tokens en el universo Blockchain](https://www.tutellus.com/tecnologia/blockchain/icos-smart-contracts-y-tokens-en-el-universo-blockchain-17531)
+* [Inteligencia Artificial y Blockchain: Conceptos Básicos](https://www.tutellus.com/tecnologia/blockchain/inteligencia-artificial-y-blockchain-conceptos-basicos-24161)
+* [Introducción a la Identidad Digital con Blockchain](https://www.tutellus.com/tecnologia/blockchain/introduccion-a-la-identidad-digital-con-blockchain-23247)
 * [La Disrupción del Blockchain](https://www.coursera.org/learn/blockchain-espanol){:target="_blank"} (Coursera)
+* [Lightning Network: Cómo funciona y cómo instalar un nodo LN](https://www.tutellus.com/tecnologia/blockchain/lightning-network-como-funciona-y-como-instalar-un-nodo-ln-23692)
+* [Qué es y Cómo usar la Blockchain de NEM](https://www.tutellus.com/tecnologia/blockchain/que-es-y-como-usar-la-blockchain-de-nem-22720)
 
 ## Criptomonedas 💰
 
 ### Bitcoin <i class="fab fa-bitcoin"></i>
 * [Bitcoin: Qué es y como comprarlo](https://www.udemy.com/bitcoin-){:target="_blank"} (Udemy)
 * [Bitcoin Construye un imperio minando en la nube](https://www.udemy.com/bitcoin-construye-un-imperio-minando-en-la-nube){:target="_blank"} (Udemy)
+* [Bitcoin como Activo de Inversión](https://www.tutellus.com/tecnologia/blockchain/bitcoin-como-activo-de-inversion-19751){:target="_blank"} (Tutellus)
+* [Cursos Bitcoin y Trading de Criptomonedas](https://www.tutellus.com/tecnologia/blockchain/curso-bitcoin-y-trading-criptomonedas-20610)
 
 ### Dash
 * [Dash en Python](https://unipython.com/curso-de-dash){:target="_blank"} (UniPython)
@@ -288,6 +300,7 @@ sidebar:
 * [Introducción a experimentación Lean](https://www.udemy.com/introduccion-a-experimentacion-lean){:target="_blank"} (Udemy)
 * [Introducción a Git, Github & SourceTree](https://plataforma.keepcoding.io/p/introduccion-git-github-sourcetree){:target="_blank"} (Keep Coding)
 * [Introducción a la Gestión de Proyectos](https://www.EDX.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x){:target="_blank"} (EDX)
+* [Introducción a Ingeniería del Software](https://www.edx.org/course/introduccion-a-la-ingenieria-del-software){:target="_blank"} (EDX \ Universidad Autónoma de Madrid)
 * [Metodología de Desarrollo Visual (2012)](http://ocw.uc3m.es/ingenieria-informatica/metodologia-de-desarrollo-visual){:target="_blank"} (OCW)
 * [Metodología de marco lógico (2017)](https://www.udemy.com/metodologia-de-marco-logico){:target="_blank"} (Udemy)
 * [Métodos y técnicas del trabajo corporativo (2008)](http://ocw.uc3m.es/ingenieria-informatica/metodos-y-tecnicas-de-trabajo-corporativo){:target="_blank"} (OCW)
@@ -317,6 +330,7 @@ sidebar:
 * [Curso Powerpoint 2013](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmWjtgpPMSVRKu-g8SoAntx){:target="_blank"} (Pildoras Informáticas, Youtube)
 * [Curso VBA Acces](https://www.youtube.com/playlist?list=PLC3E8FA619DF71898){:target="_blank"} (Jesús Conde, Youtube)
 * [Curso VBA Excel](https://www.youtube.com/playlist?list=PLF79C9D65E1EC4807){:target="_blank"} (Jesús Conde, Youtube)
+* [Diseño de sistemas de información gerencial para intranet con Microsoft Access](https://www.edx.org/course/diseno-de-sistemas-de-informacion-gerencial-para-2){:target="_blank"} (EDX \ Universidad del Rosario)
 * [Diseña presentaciones eficaces con PowerPoint](https://www.EDX.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
 * [Domina Excel 2013; Básico e Intermedio](https://www.udemy.com/domina-excel-2013-basico-intermedio-en-menos-de-4-horas){:target="_blank"} (Udemy)
 * [Domina la hoja de cálculo de Google sin esfuerzo](https://www.udemy.com/domina-la-hoja-de-calculo-de-google-sin-esfuerzo){:target="_blank"} (Udemy)
@@ -413,6 +427,7 @@ sidebar:
 * [Estructura de datos en C++](https://www.youtube.com/playlist?list=PLsaihF7BSsEkaGMkquCQNpMjyQXOpL9iU) (Programación Explicada, YouTube)
 * [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31) (OCW)
 * [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74) (OCW)
+* [Introducción a la programación en C: Instrucciones de control y ficheros de texto](https://www.edx.org/course/introduccion-a-la-programacion-en-c-instrucciones) (EDX \ Universidad Autónoma de Madrid)
 * [Programación en C](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6) (ProgramacionATS, YouTube)
 * [Programación en C/C++ y Aplicaciones Matemáticas (2011)](http://ocw.um.es/ciencias/programacion-en-c-c-y-aplicaciones-matematicas) (OCW)
 * [Programación en C#](https://www.youtube.com/playlist?list=PLM-p96nOrGcakia6TWllPW9lkQmB2g-yX) (Nicosio, YouTube)
@@ -421,7 +436,7 @@ sidebar:
 
 * [Programación en ensamblador 8086 con proteus](https://www.udemy.com/course/programacion-en-ensamblador-8086-con-proteus/)
 
-## Java
+## Java <i class="fab fa-java"></i>
 
 * [Curso básico de Java](https://www.udemy.com/introduccion-programacion-java) (Udemy)
 * [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) (Pildoras Informáticas, Youtube)
@@ -431,6 +446,7 @@ sidebar:
 * [Fundamentos de Programación en Java](https://www.udemy.com/fundamentos-de-programacion-en-java-ricrack) (Alfonso Sebastián, Udemy)
 * [Introducción a Java desde cero](https://www.udemy.com/introduccion-a-java-desde-cero-gratis) (Udemy)
 * [Introducción a la programación en JAVA (2009)](https://ocw.ehu.eus/pluginfile.php/5429/mod_resource/content/1/intro_java/Course_listing.html) (OCW)
+* [Introducción a la programación en Java: escribiendo buen código](https://www.edx.org/es/course/introduccion-a-la-programacion-en-java-escribiendo) (EDX \ Universidad Carlos III de Madrid)
 * [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java) (Coursera)
 * [Java Básico](https://www.udemy.com/java-basico-d) (Udemy)
 * [Java gratis, desde cero](https://www.milcursosgratis.com/curso-de-java-gratis/) (Mil Cursos Gratis)
@@ -818,6 +834,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 * [Introducción al desarrollo de videojuegos con Unity3D (2016)](http://ocw.uji.es/curso/1434149) (OCW)
 * [Introducción al diseño de videojuegos](https://miriadax.net/web/introduccion-al-diseno-de-videojuegos-2-edicion-) (MiriadaX)
 * [Kinect básico](https://www.youtube.com/playlist?list=PLGlfxrSj1dRflUF3tknkcE2Xs9k7cMsre) (Yazir Solis, YouTube)
+* [Los videojuegos como medio de comunicación efectiva](https://www.edx.org/course/los-videojuegos-como-medio-de-comunicacion-efectiv) (EDX)
 * [Mi primer juego con Unity 5](https://www.udemy.com/mi-primer-juego-con-unity-5) (Udemy)
 * [Producción de videojuegos para principiantes](https://www.udemy.com/produccion-de-videojuegos-para-principiantes) (Udemy)
 * [Programación de juegos con UDK](https://www.youtube.com/playlist?list=PLM4yC7OCOPBzFBi8pER3R-1vdDiB7s21k) (Fdudk, YouTube)
@@ -858,6 +875,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 * [Inteligencia en redes de comunicaciones (2011)](http://ocw.uc3m.es/ingenieria-telematica/inteligencia-en-redes-de-comunicaciones) (OCW)
 * [Introducción al Internet de las Cosas y sus Aplicaciones](https://www.EDX.org/es/course/introduccion-al-internet-de-las-cosas-iot-y-sus-ap) (2019) (EDX \ Universidad de Rosario)
 * [Introducción a la Internet de las Cosas](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/ingenieria-telematica/introduccion-a-la-internet-de-las-cosas) (OCW)
+* [Introducción a la Internet de las Cosas](https://www.edx.org/course/introduccion-al-internet-de-las-cosas-iot) (EDX \ Universidad Politécnica de Valencia)
 * [Introducción a la Internet de las Cosas (IoT)](https://mva.microsoft.com/es-es/training-courses/introduccin-a-internet-de-las-cosas-iot-16907) (OCW)
 * [IPV6](https://www.youtube.com/watch?v=kwvINZmmXeM&list=PLJ3jHT8E6frAuYS73uN2QLWi8qyXRyxo1) (Capacitación-LACNIC, YouTube)
 * [Laboratorio de arquitectura de redes de comunicaciones (2011)](http://ocw.bib.upct.es/course/view.php?id=100) (OCW)
@@ -907,7 +925,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 
 * [Chatbots con Chatfuel para principiantes](https://www.udemy.com/curso-chatfuel-gratis) (Udemy)
 * [Comunicaciones Espaciales (2010)](http://ocw.bib.upct.es/course/view.php?id=94) (OCW)
-* [Diseña, fabrica y programa tu propio robot](https://www.EDX.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x) (EDX)
+* [Diseña, fabrica y programa tu propio robot](https://www.EDX.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x) (EDX \ Universidad Politécnica de Valencia)
 * [Diseño y fabricación de un robot móvil](https://www.youtube.com/playlist?list=PL9A2AEC3E2F1BD975) (entivoo, YouTube)
 * [Empleo del ordenador personal en la instrumentación de panel (2012)](https://ocw.ehu.eus/course/view.php?id=54) (OCW)
 * [Iniciación al mundo de los aeronaves tripulados en remoto (drones)](https://miriadax.net/web/iniciacion-al-mundo-de-las-aeronaves-tripuladas-en-remoto-drones-) (MiriadaX)
@@ -1063,7 +1081,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 * [3 Claves para convertir tu idea en dinero](https://www.udemy.com/3-claves-para-convertir-tu-idea-en-dinero){:target="_blank"} (Udemy)
 * [5 Estrategias para invertir en acciones, crypto y forex](https://www.udemy.com/5-estrategias-para-invertir-en-acciones-forex-y-criptomedas){:target="_blank"} (Udemy)
 * [Buenas prácticas en el uso académico de la propiedad intelectual](https://miriadax.net/web/buenas-practicas-en-el-uso-academico-de-la-propiedad-intelectual-2-edicion-){:target="_blank"} (MiriadaX)
-* [Buscar en Internet](https://www.EDX.org/course/buscar-en-internet-upvalenciax-bi101x-1){:target="_blank"} (EDX)
+* [Buscar en Internet](https://www.EDX.org/course/buscar-en-internet-upvalenciax-bi101x-1){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
 * [Búsqueda y Gestión de la Información en la Web](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion-en-la-web-3-edicion-){:target="_blank"} (MiriadaX \ Universidad de Santiago de Chile)
 * [Búsqueda y Gestión de la Información para la Elaboración de un Trabajos Académicos](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion/inicio){:target="_blank"} (MiriadaX \ Universidad Católica de Valencia)
 * [Creación de encuestas](https://www.udemy.com/creacion-de-encuestas){:target="_blank"} (Udemy)
@@ -1089,6 +1107,7 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 * [Oportunidades de negocio en el Internet de las Cosas](https://miriadax.net/web/oportunidades-de-negocio-para-internet-de-las-cosas/inicio){:target="_blank"} (MiriadaX)
 * [Publicidad en Google - Ads, Youtube, Waze, Adwords Express](https://www.udemy.com/andresbrachetta-ecosistema-publicitario-google){:target="_blank"} (Udemy)
 * [Publicidad en línea. Campañas en Facebook y Adwords](https://miriadax.net/web/publicidad-en-linea-campanas-en-facebook-y-adwords-2-edicion-){:target="_blank"} (MiriadaX)
+* [Radio para internet con Podcast: creación y conceptos básicos](https://www.edx.org/course/radio-para-internet-con-podcast-creacion-y-concept){:target="_blank"} (EDX)
 * [Redacción en Internet](https://miriadax.net/web/redaccion-en-internet-2-edicion-) (MiriadaX)
 * [Super Networking: Networking personal para principiantes](https://www.udemy.com/networking-personal-y-habilidades-sociales-para-tener-exito){:target="_blank"} (Udemy)
 * [Vídeo Marketing para emprendedores](https://www.youtube.com/playlist?list=PL694C136868F3BABD){:target="_blank"} (Carla Delgado, YouTube)
@@ -1154,14 +1173,14 @@ ERP es lo que equivalente a Sistemas de Planificación de Recursos Empresariales
 
 ### Blogger
 
-* [Curso como crear y editar un blog de blogguer, Joalgoba](https://www.youtube.com/playlist?list=PLe_p_U5W9sa7KnbvLiJFqKXeqcFKSe7bb) (Joalgoba, Youtube)
+* [Curso como crear y editar un blog de blogguer, Joalgoba](https://www.youtube.com/playlist?list=PLe_p_U5W9sa7KnbvLiJFqKXeqcFKSe7bb){:target="_blank"} (Youtube \ Joalgoba)
 
 ### Drupal
 
-* [Aprende a usar Rest en Drupal 7](https://www.udemy.com/aprende-a-usar-el-servicio-rest-en-drupal7-y-drupal8) (Udemy)
-* [Crear un sitio web con Drupal](https://www.udemy.com/curso-basico-de-drupal) (Udemy)
+* [Aprende a usar Rest en Drupal 7](https://www.udemy.com/aprende-a-usar-el-servicio-rest-en-drupal7-y-drupal8){:target="_blank"} (Udemy)
+* [Crear un sitio web con Drupal](https://www.udemy.com/curso-basico-de-drupal){:target="_blank"} (Udemy)
 * [Drupal 8.0](https://www.youtube.com/playlist?list=PLY3lWsAagE8N7ubeqj6LY5r-ak7_BbQ0A) (PandB Software en Español, YouTube)
-* [Gestión de contenidos web a través del CMS Drupal (2009)](http://ocw.um.es/transversales/gestion-de-contenidos-web-a-traves-del-cms-drupal) (OCW)
+* [Gestión de contenidos web a través del CMS Drupal (2009)](http://ocw.um.es/transversales/gestion-de-contenidos-web-a-traves-del-cms-drupal){:target="_blank"} (OCW)
 
 ### Joomla
 
@@ -1214,7 +1233,7 @@ Los cursos están creados e impartidos por entre otras universidades; la Univers
 
 Los cursos recorren todo el sector de la tecnología 4.0 en global; y contienen las siguientes temáticas principales
 
- sobre Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.
+ Sobre Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.
 
  Además, se agrega un apartado denominado metalistas, en el que podemos encontrar otras páginas web con variados y múltiples recursos sobre una única tecnología o varias. Por lo que se considera más importante citar a la página web en sí adjuntando una breve explicación[^] que el trabajo que requeriría ir añadiendo cada uno de los recursos al listado de forma diferenciada.
 
@@ -1225,3 +1244,7 @@ Los cursos recorren todo el sector de la tecnología 4.0 en global; y contienen 
 ## Licencia
 
 Este repositorio esta bajo autoría de Pablo Álvarez Corredera el que agradece de todo corazón a los contribuidores de Libros de Programación en Español su participación anterior. La licencia de este proyecto es Creative Commons 4.0 por lo que deberás reconocer la autoría y agregar un enlace dofollow; siempre que desees compartir, re editar, vender o sea lo que quiera que desees hacer con él 😻
+
+<!-- Por Actualizar -->
+<!-- Universidad de Murcia https://umumooc.um.es/ -->
+<!-- https://www.genbeta.com/a-fondo/50-mejores-cursos-online-2019 voy por introduccion a las reds sociales.. -->
