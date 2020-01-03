@@ -3,12 +3,12 @@ title: "👩‍🔧 ▷ Gephi: La plataforma de Gráficos Abierta, Aprender desd
 description: "📊 Gephi: La plataforma de Gráficos Abierta."
 excerpt: "📊 Gephi: La plataforma de Gráficos Abierta."
 date: 2019-10-19T19:06:00.000+00:00
-last_modified_at: 2019-10-19T19:46:00.000+00:00
+last_modified_at: 2020-01-02T19:46:00.000+00:00
 author_profile: true
 permalink: /gephi/
 canonical_URL: https://ciberninjas.com/gephi/
 header:
-  image: "https://i.ibb.co/z7HxWMB/graphi-graficos-creados-cuentas.jpg"
+  overlay_image: "https://i.ibb.co/z7HxWMB/graphi-graficos-creados-cuentas.jpg"
   image_description: "Gephi: La plataforma de Gráficos Abierta, generador de sitios estáticos | Ciberninjas"
   caption: "**Créditos**: Who Mentions Who in my Twitter network by [Matt Biddulph](https://www.flickr.com/photos/mbiddulph/)] in [Flickr](https://flic.kr/p/cAT173). [Licencia](https://creativecommons.org/licenses/by/2.0/)"
   teaser: "https://i.ibb.co/z7HxWMB/graphi-graficos-creados-cuentas.jpg"
