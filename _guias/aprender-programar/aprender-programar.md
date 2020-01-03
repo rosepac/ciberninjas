@@ -1,5 +1,5 @@
 ---
-title: 👨‍💻 ▷ Cómo Aprender a Programar desde Cero en 2020
+title: 👨‍💻 ▷ Cómo Aprender a Programar en 2020
 description: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF y ebook en nuestro catálogo,incluso gratis 😜."
 excerpt: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF y ebooks en nuestro catálogo, incluso gratis 😜."
 author_profile: false
@@ -10,7 +10,8 @@ last_modified_at: 2019-12-18
 permalink: /programar/
 canonical_URL: https://ciberninjas.com/programar/
 header:
-  overlay_image: "/assets/images/programar-lenguajes/aprender-programar-programacion.jpg"
+  teaser: "/assets/images/programar-lenguajes/aprender-programar-programacion.jpg"
+  overlay_image: "https://i.ibb.co/Lrcmhqm/gatito-curioso-miron.jpg"
   image_description: "Aprende todo lo necesario para convertirte en un profesional de la programación, aprende a programar y todos los puestos de trabajo relacionados con la programación 2020"
   caption: "**Créditos**: Desconocido"
 toc: true
