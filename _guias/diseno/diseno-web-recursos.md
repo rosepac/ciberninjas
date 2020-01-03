@@ -1,13 +1,13 @@
 ---
 title: 👩‍🎨 ▷ Recursos de Diseño Web
-description: '🔨 🎨 Las Mejores Herramientas, Repositorios, Librerías y Recursos para Diseñadores Web'
-excerpt: '🔨 🎨 Las Mejores Herramientas, Repositorios, Librerías y Recursos para Diseñadores Web'
+description: 'El mejor software de diseño web, herramientas y recursos gratuitos 🔨 🎨'
+excerpt: 'El mejor software de diseño web, herramientas y recursos gratuitos 🔨 🎨'
 published: true
 author: rosepac
 comments: true
 date: 2019-10-08 12:06:18
-last_modified_at: 2019-11-28 18:36:18
-permalink: /diseño-recursos/
+last_modified_at: 2019-12-20 15:36:18
+permalink: /diseño-web-recursos/
 canonical_URL: https://ciberninjas.com/diseño-recursos/
 header:
   teaser: https://i.ibb.co/LkcCrb2/diseno-web-unsplash.jpg
@@ -35,8 +35,22 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 ## Repositorios
 
+### Repositorios de Iconos
+
 * [Open Logos](http://openlogos.org/){:target="_blank"} Logos gratis para proyectos de código libre.
 * [Glaze](https://www.glazestock.com/){:target="_blank"} Animaciones Minimalistas Gratuitas
+
+### Repositorios de Imágenes
+
+* [+ 50 Componentes](http://ui-cloud.com/categories/){:target="_blank"}
+
+### Repositorios de Gifs
+
+* [Gfycat](https://gfycat.com/){target="_blank"}
+* [Giphy](https://giphy.com){target="_blank"}
+* [Tenor](https://tenor.com){target="_blank"}
+
+### Repositorios de Texturas
 
 ## Librerías Animaciones
 
@@ -49,6 +63,11 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 * [Mapa de Carácteres - Windows](https://www.youtube.com/watch?v=Kau6nVFRO7g){:target="_blank"}
 * [Mapa de Babel](http://www.babelstone.co.uk/Software/BabelMap.html){:target="_blank"}
+* [¿Qué fuente es?](https://www.myfonts.com/WhatTheFont/)
+
+## Iconos
+
+Font Awesome, Flaticon, Material.IO, IconFinder, Material Design Icons, Oicons8, Vexels, Vecteezy, 1001 Free Downloads, Free Vectors.
 
 ## Testing
 
@@ -57,6 +76,14 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 [🔝 Regresar 🔝](/diseño-recursos/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
+## SOFTWARE
+
+### Webflow
+
+Webflow brinda a los diseñadores y desarrolladores el poder de diseñar, construir y lanzar sitios web receptivos visualmente, mientras escriben código semántico limpio para usted.
+
+[COMENZAR](https://webflow.com/dashboard/signup){: .btn .btn--info .btn--large .align-center}
+<!-- https://alternativeto.net/software/webflow/ -->
 ## 📰 ARTÍCULOS
 
 👷‍♂️ PRÓXIMAMENTE 👷‍♂️‍
@@ -101,3 +128,20 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 * [Contenido Gratis de Diciembre 2019](https://kutt.it/fwt-1){:target="_blank"} (Imagen)
 
 [⬇ 📂 Descarga Directa de los 6 Gb ⬇](https://grafup.app.box.com/s/yt4628h4ojqyzafu43ydzrjhg4b8oqt2){: .btn .btn--inverse .btn--x-large .align-center}
+
+## Introducción
+
+Omitir. salvo que desees conocer en mayor profundidad el contenido que puedes encontrar dentro de los diferentes enlaces que aparecen dentro de esta página web. Este contenido, unicamente es generado en post de la mejora del posicionamiento e indexación del mismo 😉
+{: .notice--info}
+
+## La mejor guía completa del mejor software y herramientas de diseño web gratuito y premium para ayudarlo a crear / editar su sitio web
+
+La mayoría de las personas, sufren ante la idea de diseñar su propio sitio web o hacer cualquier cosa relacionada con el desarrollo web se les convierte en una tarea desalentadora y aterradora, especialmente si es nuevo en todo esto de Internet. Si estas buscando el mejor software de diseño web, es probable que estes un poco confundido sobre como debes comenzar a construir tu propio sitio web.
+
+Pero no temas más. He creado esta guía para mostrarte que TU MISMO puedes crear tu propio sitio web, SERÁS CAPAZ de editar contenido, agregar imágenes, modificar archivos a través de FTP. Con la ayuda de algunas herramientas y software de diseño web gratuitos y de pago, puede hacer cualquier cosa cuando se trata de desarrollo y diseño web. ¡PUEDES construir el mejor sitio web!
+
+Con el software de diseño web, USTED puede realizar las tareas que normalmente tendría que subcontratar a un desarrollador web u otro departamento dentro de la empresa en la que trabaja. Le permite crear, editar y actualizar páginas web con facilidad. Si es un diseñador web sin experiencia en codificación, ahora puede editar o crear páginas web utilizando editores WYSIWYG.
+
+En esta guía, vas a encontrar repositorios, librerías, herramientas, software, artículos en español, artículos en inglés.
+
+Artículos sobre diferentes temáticas; como por ejemplo: las pwa o aplicaciones progresivas o amp, páginas preparadas específicamente para ser visualizadas a través de dispositivos móviles.
