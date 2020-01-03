@@ -199,7 +199,7 @@ sidebar:
 
 ## Go
 
-[📖 Libros de Go en Inglés](/catalogo/libros-ingles/#go){: .btn .btn--primary .btn--large}
+[📖 Los Libros Más Impresionantes de Go](/los-libros-mas-impresionantes-sobre-go/){: .btn .btn--primary .btn--large}
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
