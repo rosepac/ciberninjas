@@ -1,7 +1,7 @@
 ---
 title: 👨‍💻 ▷ Cómo Aprender a Programar en 2020
-description: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF y ebook en nuestro catálogo,incluso gratis 😜."
-excerpt: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF y ebooks en nuestro catálogo, incluso gratis 😜."
+description: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF 😜."
+excerpt: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF 😜."
 author_profile: false
 published: true
 comments: true
