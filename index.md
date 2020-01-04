@@ -16,7 +16,7 @@ header:
 #    - label: "👨‍💻 Libros"
 #      url: "/biblioteca-de-programacion-y-tecnologia/"
   caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
-excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.. ¡Entra y conviértete en un auténtico ciberninja!"
+excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.."
 ---
 
 <p><a href="https://ouo.io/5gtlMr" title="80 Cursos de Udemy para aprender a programar" class="btn btn--inverse btn--large">Cursos Programación Udemy</a><a href="https://ouo.io/QlFpzIe" title="50 Cursos de Udemy para aprender todo sobre las cadenas de bloques, las criptomonedas: Bitcoin y Ethereum y el trading" class="btn btn--inverse btn--large">Cursos Criptomonedas Udemy</a></p><br/>
@@ -76,14 +76,14 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/diseño-recursos/" title="Recursos para diseñadores gráficos"><img src="/assets/images/portada/disenador-rodando.gif" alt="Recursos para diseñadores gráficos, diseñador enloquecido buscando su inspiración"></a>
+            <a href="/diseño-grafico/" title="Recursos para diseñadores gráficos"><img src="/assets/images/portada/disenador-rodando.gif" alt="Recursos para diseñadores gráficos, diseñador enloquecido buscando su inspiración"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">El sitio perfecto para diseñadores gráficos</h2>
             <div class="archive__item-excerpt">
                 <p>¿Eres diseñador web? Los mejores recursos para diseñadores gráficos. Accede a los mejores recursos para aprender a realizar los mejores diseños gráficos: aplicaciones, software. Repositorios de imágenes y fotografías. Tutoriales y artículos sobre diseño, creatividad e innovación dentro del mundo del diseño.</p>
             </div>
-            <p><a href="/diseño-recursos/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Recursos Diseño Gráfico 👨‍🎨</a></p>
+            <p><a href="/diseño-grafico/" title="Las noticias en directo sobre desarrolladores web y programación y diseño gráfico y videojuegos" class="btn btn--inverse btn--large">Recursos Diseño Gráfico 👨‍🎨</a></p>
         </div>
     </div>
 </div>
