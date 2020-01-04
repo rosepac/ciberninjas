@@ -19,7 +19,8 @@ header:
 excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.."
 ---
 
-<p><a href="https://ouo.io/5gtlMr" title="80 Cursos de Udemy para aprender a programar" class="btn btn--inverse btn--large">Cursos Programación Udemy</a><a href="https://ouo.io/QlFpzIe" title="50 Cursos de Udemy para aprender todo sobre las cadenas de bloques, las criptomonedas: Bitcoin y Ethereum y el trading" class="btn btn--inverse btn--large">Cursos Criptomonedas Udemy</a></p><br/>
+<div>
+<p><a href="https://ouo.io/5gtlMr" title="80 Cursos de Udemy para aprender a programar" class="btn btn--inverse btn--large">👨‍💻 Cursos Programación Udemy</a> <a href="https://ouo.io/QlFpzIe" title="50 Cursos de Udemy para aprender todo sobre las cadenas de bloques, las criptomonedas: Bitcoin y Ethereum y el trading" class="btn btn--inverse btn--large">💰 Cursos Criptomonedas Udemy</a></p></div>
 <!-- CAJA 1 PROGRAMACION-->
 <div class="feature__wrapper">
 <div class="feature__item--left">
