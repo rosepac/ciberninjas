@@ -99,7 +99,7 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
         <div class="archive__item-body">
             <h2 class="archive__item-title">Catálogo de la Librería Ciberninjas</h2>
             <div class="archive__item-excerpt">
-                <p>Los <strong>mejores libros</strong>de <strong>programación</strong> y <strong>nuevas tecnologías</strong>: <strong></strong>.</p>
+                <p>Los <strong>mejores libros</strong>de <strong>programación</strong> y <strong>nuevas tecnologías</strong> que podrás encontrar en español en todo Internet.</p>
             </div>
             <p><a href="/libros/" class="btn btn--inverse btn--large">Libros Tecnología</a> <a href="/libros-texto/" class="btn btn--inverse btn--large">Libros Educativos</a> <a href="/libreria/" class="btn btn--inverse btn--large">Librería Novelas</a></p>
         </div>
