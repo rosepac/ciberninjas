@@ -62,7 +62,7 @@ sidebar:
 
 ## 📁 Bases de Datos
 
-[Big Data 👨‍👩‍👦](/biblioteca-de-programacion-y-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [Machine Learning](/biblioteca-de-programacion-y-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large} [NoSQL](/biblioteca-de-programacion-y-tecnologia/#nosql){: .btn .btn--inverse .btn--large} [SQL](/biblioteca-de-programacion-y-tecnologia/#sql){: .btn .btn--inverse .btn--large}
+[Big Data 👨‍👩‍👦](/biblioteca-de-programacion-y-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [Machine Learning](/biblioteca-de-programacion-y-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn--inverse .btn--large} [NoSQL](/biblioteca-de-programacion-y-tecnologia/#nosql){: .btn .btn--inverse .btn--large} [SQL](/biblioteca-de-programacion-y-tecnologia/#sql){: .btn .btn--inverse .btn--large}
 
 * [Apuntes Básicas de SQL](https://openlibra.com/es/book/download/apuntes-basicos-de-sql){:target="_blank"} - Unai Estébanez (PDF)
 * [Apuntes de Base de Datos 1](https://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf){:target="_blank"} - Univ. Alicante (PDF)
@@ -77,6 +77,10 @@ sidebar:
 * [Extracción de conocimiento en grandes bases de datos utilizando estrategias adaptativas](https://sedici.unlp.edu.ar/bitstream/handle/10915/35555/Documento_completo.pdf){:target="_blank"} (PDF)
 * [Principios sobre bases de datos relacionales](https://cmapspublic2.ihmc.us/rid=1P2RVCGBV-1PKTG1T-2B2B/Principios%20de%20bases%20de%20datos%20relacionales.pdf){:target="_blank"} (PDF)
 * [Usando Oracle SQL y PL/SQL](https://issuu.com/aulacero21/docs/gesti_n_de_bases_de_datos_-_jorge_s_nchez___oracle/61){:target="_blank"} (HTML)
+
+## MySQL
+
+* [MySQL Redundante sobre RAID 1 en Debian 8](https://www.researchgate.net/publication/333971453_MySQL_Redundante_sobre_RAID_1_en_Debian_8) (PDF) (2017)
 
 ## SQL
 
@@ -248,6 +252,7 @@ sidebar:
 * [Compendio de Ingeniería del Software](https://www.navegapolis.com/files/cis.pdf){:target="_blank"} (PDF)
 * [Control de versiones con Subversion](https://openlibra.com/es/book/download/control-de-versiones-con-subversion){:target="_blank"} (PDF)
 * [Control de versiones: Git y Github](https://www.acens.com/wp-content/images/2015/07/git-github-wp-acens.pdf){:target="_blank"} (PDF)
+* [Creación de jaulas chroot para el mantenimiento de aplicaciones Web mediante sistemas de control de versiones](https://www.researchgate.net/publication/333971451_Creacion_de_jaulas_chroot_para_el_mantenimiento_de_aplicaciones_Web_mediante_sistemas_de_control_de_versiones_SCV_distribuidos_sobre_Debian_GNULinux_7) (PDF) (2015)
 * [Desarrollo de Software en Equipo](https://csw-uniandes.gitbooks.io/isis2603-desarrollo-de-software-en-equipos/content) (HTML) (2018)
 * [Diseño Ágil con TDD](https://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf){:target="_blank"} (PDF)
 * [El Control de Versiones en el aprendizaje de la Ingeniería Informática: Un enfoque práctico](https://bioinfo.uib.es/~joemiro/aenui/procJenui/Jen2007/ruelco.pdf){:target="_blank"} (PDF)
@@ -303,6 +308,8 @@ sidebar:
 
 ## 👮‍♀️ Seguridad
 
+[Criptografía 🔓](/biblioteca-de-programacion-y-tecnologia/#Criptografía-){: .btn .btn--inverse .btn--large}
+
 * [Activismo digital y telemático. Poder y contrapoder en el ciberespacio (2003)](https://www.seaceptanideas.com/wp-content/uploads/2016/07/Activismo_digital_y_telemC3A1tico.pdf){:target="_blank"} (PDF)
 * [Algunas consideraciones sobre seguridad de la Información en el Proyecto Europe de Historia Clínica Digital - Proyecto epSOS](https://dialnet.unirioja.es/servlet/articulo?codigo=3016235){:target="_blank"} (2009, Dialnet) (PDF)
 * [Análisis y modelado de amenazas](https://fortinux.com/wp-content/uploads/2010/12/Analisis-y-Modelado-de-Amenazas.pdf){:target="_blank"} (PDF)
@@ -333,9 +340,16 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Telegram: sorteando el protocolo de autentificación](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_telegram_es.pdf){:target="_blank"} (PDF)
 * [Tendencias en el mercado de la Ciberseguridad (2016)](https://www.incibe.es/sites/default/files/estudios/tendencias_en_el_mercado_de_la_ciberseguridad.pdf){:target="_blank"} (PDF)
 
+## Criptografía 🔓
+
+* [Alnum: sistema de codificación de caracteres alfanuméricos](https://www.researchgate.net/publication/333967818_Alnum_alphanumeric_character_encoding_system_CIDSI_2018)
+* [Sistema de Autenticación por credenciales criptográficas disociadas](https://www.researchgate.net/publication/333967679_SACRED_-_Sistema_de_Autenticacion_por_credenciales_criptograficas_disociadas_Authentication_system_by_dissociation_of_cryptographic_credentials_CIDSI_2018) (PDF) (2018)
+
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
 
 ## 🕸 Redes
+
+* [Configuración manual con DHCP de redes WLAN protegidas con WPA/WPA2 en Debian 7.9](https://www.researchgate.net/publication/333971201_Configuracion_manual_con_DHCP_de_redes_WLAN_protegidas_con_WPAWPA2_en_Debian_79) (PDF) (2015)
 
 ## Servicios en red
 
@@ -422,6 +436,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## Inteligencia Artificial
 
+* [MVCGI: un modelo de implementación estándar para arquitecturas modulares MVC sobre programas de interfaz CGI](https://www.researchgate.net/publication/333968629_MVCGI_-_a_standard_implementation_model_for_modular_MVC_architectures_over_CGI_interface_programs) (PDF) (2016)
 * [Principios y Aplicaciones de Inteligencia Artificial](https://leanpub.com/inteligencia_artificial?){:target="_blank"}
 
 ## Raspberry Pi
@@ -677,6 +692,8 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf){:target="_blank"} (PDF)(descarga directa)
 * [Introducción a la programación con Python](https://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf){:target="_blank"} (PDF)
 * [Introducción a Programando con Python](https://opentechschool.github.io/python-beginners/es_CL/){:target="_blank"} (HTML)
+* [Introducción al Lenguaje Python](https://www.researchgate.net/publication/333965199_Introduccion_al_Lenguaje_Python) (PDF) (2018)
+* [Introducción al Lenguaje Python híbrido para la Ciencia de Datos](https://www.researchgate.net/publication/333968584_Introduccion_al_lenguaje_Python_hibrido_para_la_ciencia_de_datos_Python_Data_Science) (PDF) (2018)
 * [Machine Learning, Python](https://jarroba.com/machine-learning-python-ejemplos){:target="_blank"} (HTML) (en proceso)
 * [Notas sobre el lenguaje Python](https://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/pynotas.pdf/at_download/file){:target="_blank"} (PDF) (descarga directa)
 * [Plone: Gestor de Contenidos](https://plone-spanish-docs.readthedocs.io/es/3.3.6/){:target="_blank"} (HTML)
@@ -684,6 +701,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Python instantáneo (1999)](https://www.arrakis.es/~rapto/AprendaPython.html){:target="_blank"} (HTML)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías){:target="_blank"} (Github)
 * [Python para principiantes](https://librosweb.es/libro/python){:target="_blank"} (HTML) [(PDF)](https://web.archive.org/web/20150421012120/https://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf){:target="_blank"}
+* [Python para la administración de sistemas GNU/Linux](https://www.researchgate.net/publication/333968724_Python_para_la_administracion_de_sistemas_GNULinux_Shell_scripting_introduction_in_Python_for_Linux_Systems_administration) (PDF) (2018)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf){:target="_blank"} (PDF)
 * [Python. No muerde, yo sí.](https://media.readthedocs.org/pdf/python-no-muerde/latest/python-no-muerde.pdf){:target="_blank"} (PDF) [(HTML)](https://python-no-muerde.readthedocs.io/es/latest){:target="_blank"}
 * [Tryton: gestión de empresas](https://media.readthedocs.org/pdf/tryton-ar/latest/tryton-ar.pdf){:target="_blank"} (PDF) [(HTML)](https://tryton-ar.readthedocs.io/es/latest/introduccion.html){:target="_blank"}
