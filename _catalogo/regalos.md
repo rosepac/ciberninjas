@@ -1,7 +1,7 @@
 ---
 title: "🎈 Regalos Ciberninjas"
-description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
-excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
+description: "Regalos, Objetos y Curiosidades Interesantes para Geeks"
+excerpt: "Regalos, Objetos y Curiosidades Interesantes para Geeks"
 date: 2019-09-22 11:11:05
 last_modified_at: 2019-09-24
 published: true
@@ -19,6 +19,12 @@ sidebar:
 
 💡 Contenido Funcional. Pueden Existir Secciones Incompletas 💡
 {: .notice--info}
+
+## 🎁 Regalos Geeks Gratis
+
+![](https://i.ibb.co/685n71z/image.png) ![](https://i.ibb.co/L65Tjbh/image.png)
+
+- [Descarga Las Banderas de Juegos de Tronos](https://drive.google.com/open?id=1tgs2lgVQOw-jsGogxZ7v0KdZ9yy6k9Ud)
 
 ## 🎁 Regalos Geeks / Nerds 🙀
 
