@@ -65,6 +65,10 @@ toc_sticky: true
 * [Dodecaedro.it](http://www.dodecaedro.it/biblioteca.php) (Libros de dominio público en italiano) (Archivos en formato .it)
 <!-- meter enlaces de http://www.dominiopublico.es/ -->
 
+## Podcasts
+
+* [Buscador de Podcasts](https://www.listennotes.com/){:target="_blank"} (Listen Notes)
+
 ## Autores Destacados Personalmente *
 
 * [OMEGALFA](https://omegalfa.es/buscador.php)
