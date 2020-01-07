@@ -1,8 +1,8 @@
 ---
 author_profile: false
 title: "\U0001F4F9 ▷ Camino a la Escuela \U0001F393"
-description: "\U0001F393 Sir Ken Robinson \U0001F468‍\U0001F3EB trata el tema del estancamiento de la educación del Siglo XIX, y el pensamiento divergente"
-excerpt: "\U0001F393 Sir Ken Robinson \U0001F468‍\U0001F3EB trata el tema del estancamiento de la educación del Siglo XIX, y el pensamiento divergente"
+description: "Camino a la escuela&#039; narra las adversidades que cuatro niños tienen que superar para ir al colegio"
+excerpt: "Camino a la escuela&#039; narra las adversidades que cuatro niños tienen que superar para ir al colegio"
 # header:
 #   video:
 #     id: Z78aaeJR8no
