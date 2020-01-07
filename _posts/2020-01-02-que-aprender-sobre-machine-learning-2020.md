@@ -150,7 +150,7 @@ Este repositorio contiene el código del libro de O'Reilly Machine Learning for 
 
  Scikit-Learn, es la biblioteca de aprendizaje automático para programadores de Python de todo el mundo, desde la industria hasta la universidad. Scikit-learn aprovecha la pila de computación científica de Python, construida sobre NumPy, SciPy y matplotlib. Como un juego de herramientas general, Scikit-learn contiene algoritmos de clasificación, regresión y agrupación, así como herramientas de preparación de datos y evaluación de modelos.
 
-[👉 Visitar Scikit-Learn <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/scikit-learn/scikit-learn){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar Scikit-Learn <i class="fab fa-github"></i>](https://github.com/scikit-learn/scikit-learn){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **Prediction IO**
 
@@ -158,37 +158,37 @@ PredictionIO, es un servidor de aprendizaje automático para desarrolladores e i
 
 Este framework de propósito general, incluye varios motores de plantillas para tareas ya reconocidas, como la clasificación y recomendación, que se pueden personalizar, se conecta a aplicaciones existentes con REST API o SDK e incluye soporte para Spark MLib. Dado que está construido sobre Spark y utiliza su ecosistema, no debería sorprendernos que PredictionIO este desarrollado principalmente en Scala.
 
-[👉 Visitar PredictionIO <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/PredictionIO/PredictionIO){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar PredictionIO <i class="fab fa-github"></i>](https://github.com/PredictionIO/PredictionIO){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **Pattern**
 
 Pattern es un kit de herramientas de minería web basado en Python que sale del centro de investigación de Lingüística y Psicolingüística Computacional (CLiPS) de la Universidad de Amberes. En este contexto, tiene herramientas para las tareas de raspado, aprendizaje automático, procesamiento del lenguaje natural, análisis de redes y visualización. Pattern también puede extraer fácilmente datos de varios servicios web conocidos. El proyecto afirma estar bien documentado e incluir numerosos ejemplos y pruebas unitarias.
 
-[👉 Visitar Pattern <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/clips/pattern){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar Pattern <i class="fab fa-github"></i>](https://github.com/clips/pattern){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **NuPIC**
 
 Plataforma de inteligencia artificial inspirada en el cerebro y una red neuronal biológicamente precisa basada en algoritmos de aprendizaje cortical; implementa los algoritmos de aprendizaje automático de memoria temporal jerárquica (HTM) . HTM es un intento de modelar el cálculo de la neocorteza, y se centra en almacenar y recordar patrones espaciales y temporales. NuPIC es ideal para la detección de anomalías relacionadas con patrones.
 
-[👉 Visitar NuPIC <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/numenta/nupic){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar NuPIC <i class="fab fa-github"></i>](https://github.com/numenta/nupic){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **Vowpal Wabbit**
 
 Vowpal Wabbit es un sistema de aprendizaje automático que empuja la frontera del aprendizaje automático con técnicas como el aprendizaje en línea, hashing, allreduce, reducciones, learning2search, activo e interactivo, tiene como objetivo el modelado rápido de conjuntos de datos masivos y admite el aprendizaje paralelo. El proyecto se inició en Yahoo! y actualmente se desarrolla en Microsoft Research. Vowpal Wabbit aprovecha el aprendizaje fuera del núcleo y se ha utilizado para aprender un conjunto de datos de características tera en una hora en 1000 nodos de cómputo.
 
-[👉 Visitar Vowpal Wabbit <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/JohnLangford/vowpal_wabbit){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar Vowpal Wabbit <i class="fab fa-github"></i>](https://github.com/JohnLangford/vowpal_wabbit){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **AeroSolve**
 
 Paquete de aprendizaje automático creado para humanos, **aerosolve** intenta ser diferente de otras bibliotecas, enfocándose en instalaciones de depuración amigables para los humanos, código Scala para capacitación, un motor de análisis de contenido de imágenes para una clasificación fácil de imágenes y un lenguaje de transformación de características que brinda a los usuarios flexibilidad y control sobre las características. aerosolve implementa una representación de características basada en el ahorro, en la que las características se agrupan lógicamente con el propósito de aplicar transformaciones o facilitar interacciones entre grupos de características completos a la vez.
 
-[👉 Visitar Pattern <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/airbnb/aerosolve){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar Pattern <i class="fab fa-github"></i>](https://github.com/airbnb/aerosolve){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **GoLearn**
 
 GoLearn es una biblioteca de aprendizaje automático desarrollada activamente para Go. Sus objetivos son proporcionar un paquete totalmente personalizable, fácil de usar y personalizable para los desarrolladores de Go. GoLearn implementa la interfaz familiar (para muchos) de ajuste / predicción de Scikit-learn, facilitando el intercambio de estimadores e implementa "funciones auxiliares" como validación cruzada y división de entrenamiento / prueba.
 
-[👉 Visitar Pattern <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/sjwhitworth/golearn){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar Pattern <i class="fab fa-github"></i>](https://github.com/sjwhitworth/golearn){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 ## Librerías y Otros Recursos de Machine Learning
 
@@ -198,43 +198,43 @@ Github se ha convertido en el centro de intercambio de software de *facto* de **
 
 Caffe es una biblioteca de aprendizaje profundo que trabaja con Python y MATLAB. Creada por el Centro de Visión y Aprendizaje de Berkeley, UC Berkeley, uno podría pensar que Caffe es solo para aplicaciones de visión por computadora; es, de hecho, una biblioteca de aprendizaje profundo de propósito general para desplegar redes convolucionales, así como otras arquitecturas, en visión, habla y otras aplicaciones.
 
-[👉 Visitar Caffe <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/BVLC/caffe){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar Caffe <i class="fab fa-github"></i>](https://github.com/BVLC/caffe){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **Cuadernos de Ciencia de Datos: IPython**
 
 Esta es una colección de cuadernos IPython creada por Donne Martin. Los temas que tratan las lecciones incluyen: Big Data, Hadoop, Scikit-Learn y la pila científica de Python, así como muchos otros. Con respecto al aprendizaje profundo, se abarcan marcos como TensorFlow, Theano y Caffe, junto con arquitecturas y conceptos particulares.
 
-[👉 Visitar Cuadernos IPython <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/donnemartin/data-science-ipython-notebooks){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar Cuadernos IPython <i class="fab fa-github"></i>](https://github.com/donnemartin/data-science-ipython-notebooks){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **ConvNetJS**
 
 Escrito por el estudiante de doctorado de Stanford Andrej Karpathy, quien también mantiene un blog muy práctico, ConvNetJS es una implementación de JavaScript de redes neuronales y sus módulos comunes, e incluye numerosos ejemplos basados ​​en el navegador. La documentación y los ejemplos son completos y numerosos, respectivamente. No dejes que la idea de entremezcla JavaScript y las redes neuronales juntas te asuste. Este es un proyecto muy popular del que a buen seguro le podrás sacar partido.
 
-[👉 Visitar ConvNetJS <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/karpathy/convnetjs){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar ConvNetJS <i class="fab fa-github"></i>](https://github.com/karpathy/convnetjs){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **Keras**
 
 Keras es una biblioteca de aprendizaje profundo de Python que aprovecha TensorFlow y Theano, lo que significa que se puede ejecutar sobre cualquiera de las dos bibliotecas de investigación de aprendizaje profundo más populares que existen actualmente. Es una de las bibliotecas que se podrían describir como bibliotecas de muy alto nivel, las que realizan siempre las mismas pautas: abstraen los motores de aprendizaje profundo subyacentes para lograr implementaciones de redes neuronales más rápidas, más fáciles y más flexibles. Keras admite las principales arquitecturas de aprendizaje profundo, viene con una guía de inicio rápido de 30 segundos y posee una amplia y sólida documentación.
 
-[👉 Visitar Keras <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/fchollet/keras){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar Keras <i class="fab fa-github"></i>](https://github.com/fchollet/keras){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **MXNet**
 
 Como un **framework de aprendizaje profundo**: MXNet, busca la flexibilidad y la eficiencia y permite la combinación de técnicas de programación imperativas y simbólicas para mejorar la productividad. El proyecto incluye enlaces para numerosos idiomas, incluidos Python, R y Julia. MXNet también viene con una variedad de pautas y planos de redes neuronales. También existe otro proyecto relacionado que implementa MXNet en JavaScript para [el navegador](https://github.com/dmlc/mxnet.js/ "Usar la librería MXNet en el navegador"), y se puede probar un modelo de clasificación de imágenes a través de [este enlace](http://webdocs.cs.ualberta.ca/~bx3/mxnet/classify.html "Clasificador de imágenes mediante aprendizaje profundo").
 
-[👉 Visitar MXNet <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/dmlc/mxnet){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar MXNet <i class="fab fa-github"></i>](https://github.com/dmlc/mxnet){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **Qix**
 
 Este es un repositorio de lo que parecen ser recursos relacionados con una amplia gama de temas de computación y programación, incluidos Node.Js, GoLang y aprendizaje profundo. Digo "parece" porque el repositorio está escrito completamente en chino, y la traducción proporcionada por Google causa aún más confusión. Sin embargo, hay varios enlaces, así que si hablas o puedes leer chino, quizás haya algo de valor escondido allí.
 
-[👉 Visitar Qix <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/ty4z2008/Qix){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar Qix <i class="fab fa-github"></i>](https://github.com/ty4z2008/Qix){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **DeepLearning4j**
 
 Deeplearning4j es un **Framework de aprendizaje profundo** de fuerza industrial para Java y Scala. Como una de las soluciones destacadas de aprendizaje profundo de JVM, Deeplearning4j tiene una ventaja obvia en el espacio. Al integrarse con Hadoop y Spark, Deeplearning4j también tiene la capacidad de aprovechar las GPU. Su documentación y tutoriales también son muy completos.
 
-[👉 Visitar DeepLearning4j <i class="fa fa-github" aria-hidden="true"></i>](https://github.com/clips/pattern){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar DeepLearning4j <i class="fab fa-github"></i>](https://github.com/clips/pattern){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 * **DeepLearnToolbox**
 
@@ -242,7 +242,7 @@ Esta es una **caja de herramientas de Machine Learning** para MATLAB y Octave. S
 
 Podemos destacar por ejemplo, el libro de: Arquitecturas del Aprendizaje Profundo para [la Inteligencia Artificial](https://github.com/kartikgo/PGM-10708/blob/master/Documents/ftml_book.pdf){:target="_blank"}
 
-[👉 Visitar DeepLearnToolbox <i class="fa fa-github" aria-hidden="true"></i>](https://www.kdnuggets.com/2016/01/top-10-deep-learning-github.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visitar DeepLearnToolbox <i class="fab fa-github"></i>](https://www.kdnuggets.com/2016/01/top-10-deep-learning-github.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 ### Otros
 
@@ -258,6 +258,8 @@ Podemos destacar por ejemplo, el libro de: Arquitecturas del Aprendizaje Profund
 * Clasificación de oraciones [](https://github.com/lettergram/sentence-classification)
 
 Guía de PNL basada en ML. Identificamos si una oración es una pregunta, declaración o comando usando redes neuronales.
+
+_____
 
 **Fuentes**:
 * [Hilo Hacker News](https://news.ycombinator.com/item?id=21924298){:target="_blank"}
