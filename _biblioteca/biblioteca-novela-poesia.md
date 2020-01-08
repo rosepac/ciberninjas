@@ -28,6 +28,12 @@ toc_sticky: true
   * [Títulos - 3.675](https://omegalfa.es/titulos.php){:target="_blank"}
   * [Temáticas - 72](https://omegalfa.es/temas.php){:target="_blank"}
 
+* [Biblioteca Científica Sci Hub](https://sci-hub.tw/){:target="_blank"}
+
+Sci-Hub es un sitio web que proporciona acceso gratuito a millones de artículos de investigación y libros, sin tener en cuenta los derechos de autor, al pasar por alto los muros de pago de los editores de varias maneras.
+
+Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al alto costo de los trabajos de investigación detrás de los muros de pago. El sitio es ampliamente utilizado tanto en países desarrollados como en desarrollo. A partir de octubre de 2019, afirmó contener 76 millones de artículos académicos y atender aproximadamente 400,000 solicitudes por día.
+
 ## Bibliotecas Abiertas España
 
 * [Biblioteca Virtual: Miguel de Cervantes](http://www.cervantesvirtual.com){:target="_blank"}
