@@ -17,10 +17,12 @@ header:
 #      url: "/biblioteca-de-programacion-y-tecnologia/"
   caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
 excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.."
+description: "Cientos de cursos, libros en PDF, videotutoriales, documentación, artículos, software y mucho más.."
 ---
 
 <div>
-<p><a href="https://ouo.io/5gtlMr" title="80 Cursos de Udemy para aprender a programar" class="btn btn--inverse btn--large">👨‍💻 Cursos Programación Udemy</a> <a href="https://ouo.io/QlFpzIe" title="50 Cursos de Udemy para aprender todo sobre las cadenas de bloques, las criptomonedas: Bitcoin y Ethereum y el trading" class="btn btn--inverse btn--large">💰 Cursos Criptomonedas Udemy</a></p></div>
+<p><a href="https://ouo.io/5gtlMr" title="80 Cursos de Udemy para aprender a programar" class="btn btn--inverse btn--large">Cursos Programación Udemy 👨‍💻</a> <a href="https://ouo.io/QlFpzIe" title="50 Cursos de Udemy para aprender todo sobre las cadenas de bloques, las criptomonedas: Bitcoin y Ethereum y el trading" class="btn btn--inverse btn--large">Cursos Criptomonedas Udemy 💰</a></p>
+</div>
 <!-- CAJA 1 PROGRAMACION-->
 <div class="feature__wrapper">
 <div class="feature__item--left">
@@ -238,9 +240,10 @@ excerpt: "Cientos de cursos, libros en PDF, videotutoriales, documentación, art
             <div class="archive__item-excerpt">
                 <p>Conociendo qué es <strong>Ciberninjas</strong>, cuales son los objetivos por los que fue creado y quién es su creador. Breve historia e introducción del nacimiento y enfoque del punto de vista teecnológico de los Ciberninjas y su creador: Pablo Álvarez Corredera.</p>
             </div>
-            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">Qué Es 💡</a> <a href="/quien-soy/" class="btn btn--inverse btn--large">Quién Soy 😼</a></p>
+            <p><a href="/que-es-ciberninjas/" title="Qué es Ciberninjas" class="btn btn--inverse btn--large">Qué Es 💡</a> <a href="/quien-soy/" title="Quién es el creador  de Ciberninjas" class="btn btn--inverse btn--large">Quién Soy 😼</a></p>
         </div>
     </div>
 </div>
 </div>
+
 <!-- /assets/images/logos/ciberninjas-emoji-160-110px.png - https://i.ibb.co/kDrKP82/hola-mundo-ciberninjas.jpg -->

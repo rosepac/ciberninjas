@@ -1,5 +1,4 @@
 ---
-
 title: "Noticias en Directo de Programación & Tecnología"
 description: "En Directo. Es la Sección de Noticias de los Ciberninjas, aquí vas a poder encontrar todas nuestras listas exclusivas de Twitter"
 excerpt: "En Directo. Es la Sección de Noticias de los Ciberninjas, aquí vas a poder encontrar todas nuestras listas exclusivas de Twitter"
@@ -7,10 +6,10 @@ collection: directo
 permalink: /directo/
 canonical_URL: https://ciberninjas.com/directo/
 published: true
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 sort_by: title
 sort_order: reverse
 author_profile: true
@@ -79,9 +78,10 @@ classes: wide
 
 [👩‍🔬 Descubre Día a Día](https://twitter.com/ciberninjas/lists/descubre-d-a-a-d-a){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
-## Calendario de Eventos Tecnológicos
+## Calendario de Eventos Tecnológicos 📆
 
 * [2019 - 2020 Conferences](https://www.cio.com/article/3344362/your-guide-to-top-tech-conferences-2019-2020.html){:target="_blank"}
+* [Calendario de Conferencias 2020](https://www.cfpland.com/ "Calendario de Conferencias Tecnológicas para 2020"){:target="_blank"}
 * [Tech Events Calendar](https://www.information-age.com/tech-events-diary-123471587/){:target="_blank"}
 * [10 Times](https://10times.com/technology?month=december){:target="_blank"}
 * [BMC - EVentos Más Importantes de 2020](https://www.bmc.com/blogs/tech-it-conferences/){:target="_blank"}
