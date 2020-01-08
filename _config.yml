@@ -150,9 +150,6 @@ collections:
     amazon:
         output: true
         permalink: /:collection/:path
-    directo:
-        output: true
-        permalink: /:collection/:path
 
 defaults:
     # _pages
@@ -290,16 +287,6 @@ defaults:
   - scope:
       path: ""
       type: amazon
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  - scope:
-      path: ""
-      type: directo
     values:
       layout: single
       author_profile: true
