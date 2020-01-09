@@ -32,6 +32,8 @@ sidebar:
 
 ## Arte
 
+* [Arte e Innovación Educativa en la Era Digital](http://www.laboralcentrodearte.org/es/files/2018/arte-e-innovacion-educativa-en-la-era-digital)
+
 ## Astronomía
 
 
@@ -97,7 +99,11 @@ sidebar:
 
 ## Negocios
 
-* [Plan de Negocios ]
+* [Plan de Negocios]
+
+## Periodismo
+
+* [Internet, viajes y periodismo](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/268/4/Internet%2C%20viajes%20y%20periodismo_Bloque1.pdf)
 
 ## Referencias Bibliográficas e Información
 
