@@ -17,9 +17,9 @@ sidebar:
   nav: historia
 ---
 
-<!-- [1950s 🕙](/historia-computadora/cronograma/#1950s- ""){: .btn .btn--inverses .btn--large} -->
+<!-- [1950s 🕙](/cronograma/#1950s- ""){: .btn .btn--inverses .btn--large} -->
 
-[1940s 🕗](/historia-computadora/cronograma/#1940s- "La Década de los 40"){: .btn .btn--inverse .btn--large} [1930s 🕕](/historia-computadora/cronograma/#1930s- "La Década de los 30"){: .btn .btn--inverse .btn--large} [Simbología 🗺](/historia-computadora/cronograma/#simbología- "Simbología de los Iconos del Cronograma"){: .btn .btn--inverse .btn--large}
+[1940s 🕗](/cronograma/#1940s- "La Década de los 40"){: .btn .btn--inverse .btn--large} [1930s 🕕](/cronograma/#1930s- "La Década de los 30"){: .btn .btn--inverse .btn--large} [Simbología 🗺](/cronograma/#simbología- "Simbología de los Iconos del Cronograma"){: .btn .btn--inverse .btn--large}
 
 <!--
 ## 2010s 🕕
@@ -60,16 +60,84 @@ sidebar:
     <a href="" class="image-popup" title=""><img src="" alt=""></a>
     <figcaption> | Visto en Ciberninjas</figcaption>
 </figure>
+☝ 👷‍♂️ **EN CONSTRUCCIÓN** 🚧 ☝
+-->
 
 ## 1950s 🕗
 
+## 💻 SEAC y SWAC Completados
+
 <figure>
-    <a href="" class="image-popup" title=""><img src="" alt=""></a>
-    <figcaption> | Visto en Ciberninjas</figcaption>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1950.seac-swac.jpg" class="image-popup" title="SEAC 1950"><img src="https://images.computerhistory.org/timeline/timeline_computers_1950.seac-swac.jpg" alt="SEAC 1950"></a>
+    <figcaption>SEAC 1950 | Visto en Ciberninjas</figcaption>
 </figure>
 
-☝ 👷‍♂️ **EN CONSTRUCCIÓN** 🚧 ☝
--->
+Los Estándares de la Computadora Automática del Este (SEAC) se encuentran entre los primeros programas almacenados que se completaron en los Estados Unidos. Fue construido en Washington DC como un banco de pruebas para evaluar componentes y sistemas, así como para establecer estándares informáticos. También fue una de las primeras computadoras en utilizar la lógica de todos los diodos, una tecnología más confiable que los tubos de vacío. La primera imagen escaneada del mundo fue realizada en SEAC por el ingeniero Russell Kirsch en 1957.
+
+El NBS también construyó la Computadora automática occidental de estándares (SWAC) en el Instituto de Análisis Numérico en el campus de la UCLA. En lugar de probar componentes como el SEAC, el SWAC se construyó utilizando tecnología ya desarrollada. SWAC se utilizó para resolver problemas en el análisis numérico, incluido el desarrollo de modelos climáticos y el descubrimiento de cinco números primos de Mersenne previamente desconocidos.
+
+[💻 ⬆](){: .btn .btn--inverse .btn--large} [💻 ⬇](){: .btn .btn--inverse .btn--large}
+
+## 💻 Se publican los planes de la construcción de la máquina de relé Simon 1
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1950.simon1.jpg" class="image-popup" title="Simon 1 apareció en la portada de la Revista Scientific American en Noviembre de 1950"><img src="https://images.computerhistory.org/timeline/timeline_computers_1950.simon1.jpg" alt="Simon 1 apareció en la portada de la Revista Scientific American en Noviembre de 1950"></a>
+    <figcaption>Simon 1 apareció en la portada de la Revista Scientific American en Noviembre de 1950 | Visto en Ciberninjas</figcaption>
+</figure>
+
+La revista de aficionados Radio Electronics publica el diseño de Edmund Berkeley para la computadora de retransmisión Simon 1 de 1950 a 1951. La Simon 1 usó lógica de retransmisión y costó alrededor de $ 600 para construirla. En su libro Giant Brains , Berkeley señaló: “Ahora consideraremos cómo podemos diseñar una máquina muy simple que piense. Llamémoslo Simon, debido a su predecesor, Simple Simon ... Simon es tan simple y tan pequeño que podría construirse para llenar menos espacio que una caja de supermercado; unos cuatro pies cúbicos ".
+
+[💻 ⬆](){: .btn .btn--inverse .btn--large} [💻 ⬇](){: .btn .btn--inverse .btn--large}
+
+## 💻 La NPL completa el piloto ACE
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1950.ace.jpg" class="image-popup" title="El Laboratorio Nacional de Física completa el piloto de la computadora ACE"><img src="https://images.computerhistory.org/timeline/timeline_computers_1950.ace.jpg" alt="El Laboratorio Nacional de Física completa el piloto de la computadora ACE"></a>
+    <figcaption>El Laboratorio Nacional de Física completa el piloto de la computadora ACE | Visto en Ciberninjas</figcaption>
+</figure>
+
+Basado en ideas de Alan Turing, la computadora piloto británica ACE se construye en el Laboratorio Nacional de Física. "Estamos tratando de construir una máquina para hacer todo tipo de cosas diferentes simplemente mediante la programación en lugar de agregar un aparato adicional", dijo Turing en un simposio sobre maquinaria de cálculo digital a gran escala en 1947 en Cambridge, Massachusetts. El diseño empacó 800 tubos de vacío en unos 12 pies cuadrados relativamente compactos.
+
+[💻 ⬆](){: .btn .btn--inverse .btn--large} [💻 ⬇](){: .btn .btn--inverse .btn--large}
+
+## 🧠 Memoria de tambor magnético
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_memorystorage_1950.era.atlas.jpg" class="image-popup" title="Fundadores de ERA con varios tambores magnéticos presentes"><img src="https://images.computerhistory.org/timeline/timeline_memorystorage_1950.era.atlas.jpg" alt="Fundadores de ERA con varios tambores magnéticos presentes"></a>
+    <figcaption>Fundadores de ERA con varios tambores magnéticos presentes | Visto en Ciberninjas</figcaption>
+</figure>
+
+Ansiosos por mejorar las capacidades de descifrado del código. En Estados Unidos, la Marina contrata a la Engineering Research Associates (ERA) para crear una computadora que posea el programa almacenado. El resultado fue Atlas, completado en 1950. Atlas utilizó memoria de tambor magnético, que almacenaba información en el exterior de un cilindro giratorio recubierto con material ferromagnético y encerrado en círculos por cabezales de lectura / escritura en posiciones fijas. ERA vendió con éxito una versión comercial del Atlas, la ERA 1103.
+
+## 🤖 Issac Asimov publica: Yo, Robot
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_ai.robotics_1950_irobot.jpg" class="image-popup" title="Portada del Libro: Yo, Robot"><img src="https://images.computerhistory.org/timeline/timeline_ai.robotics_1950_irobot.jpg" alt="Portada del Libro: Yo, Robot"></a>
+    <figcaption>Portada del Libro: Yo, Robot | Visto en Ciberninjas</figcaption>
+</figure>
+
+Se publica Isaac Asimov's I, Robot . Quizás en reacción a los peligrosos robots ficticios anteriores, las creaciones de Asimov deben obedecer las "Tres leyes de la robótica" (1941) para asegurar que no sean una amenaza para los humanos o entre sí. El libro constaba de nueve cuentos de ciencia ficción.
+
+## 🤖 Elsie de Gray Walter
+
+<figure>
+    <a href="https://www.computerhistory.org/timeline/ai-robotics/#169ebbe2ad45559efbc6eb3572068a72" class="image-popup" title="Gray Walter trabajando con Elsie"><img src="https://www.computerhistory.org/timeline/ai-robotics/#169ebbe2ad45559efbc6eb3572068a72" alt="Gray Walter trabajando con Elsie"></a>
+    <figcaption>Gray Walter trabajando con Elsie | Visto en Ciberninjas</figcaption>
+</figure>
+
+El neurofisiólogo, Walter construyó autómatas con ruedas para experimentar con el comportamiento de búsqueda de objetivos. Su robot más conocido, Elsie, utilizó células fotoeléctricas para buscar luz moderada y evitar tanto la luz intensa como la oscuridad, lo que lo atrajo especialmente a las medias de las mujeres.
+
+## 💻 ERA 1101 Introducido
+
+<figure>
+    <a href="https://images.computerhistory.org/timeline/timeline_computers_1950.era1101.jpg" class="image-popup" title="Es introducida la Computadora ERA 1101"><img src="https://images.computerhistory.org/timeline/timeline_computers_1950.era1101.jpg" alt="Es introducida la Computadora ERA 1101"></a>
+    <figcaption>Es introducida la Computadora ERA 1101 | Visto en Ciberninjas</figcaption>
+</figure>
+
+Una de las primeras computadoras producidas comercialmente, el primer cliente de la compañía fue la Marina de los EE. UU. El 1101, diseñado por ERA pero construido por Remington-Rand, estaba destinado a la informática de alta velocidad y almacenaba 1 millón de bits en su tambor magnético, uno de los primeros dispositivos de almacenamiento magnético y una tecnología que ERA había hecho mucho para perfeccionar por sí misma laboratorios Muchos de los detalles arquitectónicos básicos del 1101 se usaron nuevamente en computadoras Remington-Rand posteriores hasta la década de 1960
+
+[💻 ⬆](){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1948---se-exhibe-la-calculadora-ssec){: .btn .btn--inverse .btn--large}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 1940s 🕘
 
@@ -82,6 +150,8 @@ sidebar:
 
 El proyecto de Calculadora Electrónica de Secuencia Selectiva (SSEC), dirigido por el ingeniero de IBM Wallace Eckert, utiliza relés y tubos de vacío para procesar datos científicos a una velocidad de 50 multiplicaciones de 14 x 14 dígitos por segundo. Antes de su desmantelamiento en 1952, el SSEC produjo las tablas de posición de la luna utilizadas en la planificación inicial del alunizaje del Apolo XII de 1969. Estas tablas se confirmaron luego utilizando computadoras más modernas para los vuelos reales. El SSEC fue una de las últimas de la generación de 'súper calculadoras' que se construyó utilizando tecnología electromecánica.
 
+[💻 ⬆](){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1948---es-ejecutado-el-primer-programa-sobre-una-computadora){: .btn .btn--inverse .btn--large}
+
 ## 💻 1948 - Es ejecutado el Primer Programa sobre una Computadora
 
 <figure>
@@ -90,6 +160,8 @@ El proyecto de Calculadora Electrónica de Secuencia Selectiva (SSEC), dirigido 
 </figure>
 
 Los investigadores de la Universidad de Manchester: Frederic Williams, Tom Kilburn y Geoff Toothill. Desarrollan la Máquina Experimental a Pequeña Escala (SSEM), más conocida como el "Bebé o Baby" de Manchester. El Baby fue construido para probar una nueva tecnología de memoria desarrollada por Williams y Kilburn, pronto conocida como Williams Tube, que fue la primera memoria electrónica de acceso aleatorio de alta velocidad para computadoras. Su primer programa, que consta de diecisiete instrucciones y escrito por Kilburn, se ejecutó el 21 de junio de 1948. Este fue el primer programa en la historia que se ejecutó en una computadora digital, electrónica y de programa almacenado.
+
+[💻 ⬆](/cronograma/#-1948---se-exhibe-la-calculadora-ssec){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1946---presentación-pública-de-eniac){: .btn .btn--inverse .btn--large}
 
 ## 👩‍💻 1948 - La teoría matemática de la comunicación
 
@@ -118,7 +190,7 @@ Norbert Wiener publica el libro Cybernetics , que tiene una gran influencia en l
 
 En la Universidad de Manchester, Freddie Williams y Tom Kilburn desarrollan el tubo Williams-Kilburn. El tubo, probado en 1947, fue la primera memoria completamente electrónica de alta velocidad. Usó un tubo de rayos catódicos (similar a un tubo de imagen de TV analógica) para almacenar bits como puntos en la superficie de la pantalla. Cada punto duró una fracción de segundo antes de desvanecerse, por lo que la información se actualizaba constantemente. La información fue leída por una placa de recogida de metal que detectaría un cambio en la carga eléctrica.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1946 - Presentación pública de ENIAC
 
@@ -129,6 +201,8 @@ En la Universidad de Manchester, Freddie Williams y Tom Kilburn desarrollan el t
 
 Comenzado en 1943, el sistema informático ENIAC fue construido por John Mauchly y J. Presper Eckert en la Escuela de Ingeniería Eléctrica Moore de la Universidad de Pensilvania. Debido a su tecnología electrónica, a diferencia de la electromecánica, es más de 1,000 veces más rápido que cualquier otra computadora anterior. ENIAC usó cableado e interruptores de panel a panel para la programación, ocupó más de 1,000 pies cuadrados, usó aproximadamente 18,000 tubos de vacío y pesó 30 toneladas. Se creía que ENIAC había hecho más cálculos durante los diez años que estuvo en funcionamiento que toda la humanidad hasta ese momento.
 
+[💻 ⬆](/cronograma/#-1948---es-ejecutado-el-primer-programa-sobre-una-computadora){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1946---comienza-el-proyecto-whirlwind){: .btn .btn--inverse .btn--large}
+
 ## 💻 1946 - Comienza el Proyecto Whirlwind
 
 <figure>
@@ -137,6 +211,8 @@ Comenzado en 1943, el sistema informático ENIAC fue construido por John Mauchly
 </figure>
 
 Durante la Segunda Guerra Mundial, la Marina de los EE. UU. Se acerca al Instituto de Tecnología de Massachusetts (MIT) para construir un simulador de vuelo para entrenar a los equipos de bombarderos. Bajo el liderazgo de Gordon Brown y Jay Forrester del MIT, el equipo primero construyó un pequeño simulador analógico, pero lo encontró inexacto e inflexible. Las noticias de la innovadora computadora electrónica ENIAC ese mismo año inspiraron al grupo a cambiar de rumbo e intentar una solución digital, mediante la cual las variables de vuelo podrían programarse rápidamente en el software. Terminado en 1951, Whirlwind sigue siendo uno de los proyectos informáticos más importantes en la historia de la informática. El principal de sus desarrollos fue la perfección de Forrester de la memoria de núcleo magnético, que se convirtió en la forma dominante de memoria de acceso aleatorio de alta velocidad para computadoras hasta mediados de los años setenta.
+
+[💻 ⬆](/cronograma/#-1946---presentación-pública-de-eniac){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1946---conferencias-de-la-escuela-moore){: .btn .btn--inverse .btn--large}
 
 ## 💻 1946 - Conferencias de la escuela Moore
 
@@ -147,6 +223,8 @@ Durante la Segunda Guerra Mundial, la Marina de los EE. UU. Se acerca al Institu
 
 Se crea la escuela de verano inspirada en informática en la Escuela de Ingeniería Eléctrica Moore de la Universidad de Pensilvania que estimula la construcción de computadoras con programas almacenados en universidades e instituciones de investigación en los Estados Unidos, Francia, el Reino Unido y Alemania. Entre los conferenciantes se encontraban los primeros diseñadores de computadoras como John von Neumann, Howard Aiken, J. Presper Eckert y John Mauchly, así como matemáticos como Derrick Lehmer, George Stibitz y Douglas Hartree. Los estudiantes incluyeron futuros pioneros en computación como Maurice Wilkes, Claude Shannon, David Rees y Jay Forrester. Este conjunto público y gratuito de conferencias inspiró a los clones de máquinas EDSAC, BINAC y, más tarde, IAS como AVIDAC.
 
+[💻 ⬆](/cronograma/#-1946---comienza-el-proyecto-whirlwind){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1945---john-von-neumann-escribe-el-primer-borrador-de-un-informe-sobre-el-edvac){: .btn .btn--inverse .btn--large}
+
 ## 👨‍❤️‍💋‍👨 1946 - Se publica una lógica llamada Joe
 
 <figure>
@@ -156,7 +234,7 @@ Se crea la escuela de verano inspirada en informática en la Escuela de Ingenier
 
 Bajo una serie de seudónimos, la ciencia ficción de Will F. Jenkins había aparecido regularmente desde la década de 1920. En la edición de marzo de 1946 de Astounding Science Fiction , Jenkins publica A Logic Named Joe , una historia corta que detalla un mundo donde las computadoras, llamadas Lógicas, estaban interconectadas en una red mundial masiva. Una de estas lógicas comienza a funcionar mal, dando información secreta sobre temas no permitidos. Casi cincuenta años antes de la invención de Internet, A Logic Named Joe contiene una de las opiniones más proféticas sobre las capacidades de las computadoras en una red.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1945 - John von Neumann escribe el primer borrador de un informe sobre el EDVAC
 
@@ -166,6 +244,8 @@ Bajo una serie de seudónimos, la ciencia ficción de Will F. Jenkins había apa
 </figure>
 
 En un artículo ampliamente difundido, el matemático John von Neumann describe la arquitectura de una computadora con un programa almacenado, incluyendo el almacenamiento electrónico de la información y los datos de programación, lo que elimina la necesidad de métodos de programación más torpes, como los tableros de conexión, las tarjetas perforadas y el papel. Von Neumann, nacido en Hungría, poseía una prodigiosa experiencia en hidrodinámica, balística, meteorología, teoría de juegos, estadística y el uso de dispositivos mecánicos para la computación. Después de la guerra, se concentró en el desarrollo de la computadora del Instituto de Estudios Avanzados de Princeton.
+
+[💻 ⬆](/cronograma/#-1946---conferencias-de-la-escuela-moore){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1944---primer-coloso-operativo-en-bletchley-park){: .btn .btn--inverse .btn--large}
 
 ## 👩‍💻 1945 - Plankalkül (Cálculo del Plan)
 
@@ -185,6 +265,8 @@ Konrad Zuse comienza a trabajar en Plankalkül (Plan Calculus), el primer lengua
 
 Con pantallas de lado a lado, el escritorio imaginario de Memex está destinado a permitir que un usuario compare y cree enlaces entre documentos de microfilm, algo así como los enlaces web y marcadores de hoy en los que se puede hacer clic. La idea es que las personas construyan continuamente sobre los caminos asociativos de los demás a través del conocimiento del mundo, ayudando a abordar el problema creciente de la sobrecarga de información. El Memex es una creación del científico estadounidense Vannevar Bush, un pionero de la computación analógica que ayudó a supervisar el desarrollo de la bomba atómica. El mecanismo básico que sugiere es un selector automático de microfilm similar a los construidos por el pionero de la óptica Emmanuel Goldberg a principios de la década de 1930. Bush publica el concepto Memex en artículos de 1945 en The Atlantic Monthly y Life .
 
+[📞 ⬆](){: .btn .btn--inverse .btn--large} [📞 ⬇](/cronograma/#-1945---concepto-memex){: .btn .btn--inverse .btn--large}
+
 ## 👨‍❤️‍💋‍👨 1945 - Primer caso de ERROR real encontrado
 
 <figure>
@@ -196,7 +278,7 @@ La palabra 'error', cuando se aplica a las computadoras, significa alguna forma 
 
 Hopper ayudó a programar el Mark II y la computadora anterior Harvard Mark I, mientras trabajaba para el profesor Howard Aiken. Trabajó incansablemente en desarrollar estas computadoras al máximo a través de una programación ingeniosa. Después de Harvard, trabajó para el fabricante de computadoras Remington-Rand, donde desarrolló lo que a menudo se considera el primer compilador, A-0. También formó parte del comité para desarrollar COBOL, un lenguaje de programación estándar y ampliamente adoptado que transformó la forma en que se desarrolló el software para aplicaciones comerciales. COBOL todavía está en uso hoy. Hopper fue nombrado miembro del Museo de Historia de la Computación en 1987.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1944 - Primer coloso operativo en Bletchley Park
 
@@ -209,6 +291,8 @@ Diseñado por el ingeniero británico Tommy Flowers, el Coloso está diseñado p
 
 Coloso redujo el tiempo para romper los mensajes de Lorenz de semanas a horas. La mayoría de los historiadores creen que el uso de máquinas Colossus acortó significativamente la guerra al proporcionar evidencia de las intenciones y creencias enemigas. La existencia de la máquina no se hizo pública hasta la década de 1970.
 
+[💻 ⬆](/cronograma/#-1945---john-von-neumann-escribe-el-primer-borrador-de-un-informe-sobre-el-edvac){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1944---harvard-mark-1-se-completa){: .btn .btn--inverse .btn--large}
+
 ## 💻 1944 - Harvard Mark 1 se completa
 
 <figure>
@@ -218,7 +302,8 @@ Coloso redujo el tiempo para romper los mensajes de Lorenz de semanas a horas. L
 
 Concebido por el profesor de física de Harvard Howard Aiken, y diseñado y construido por IBM, el Harvard Mark 1 es una calculadora basada en relés del tamaño de una habitación. La máquina tenía un árbol de levas de cincuenta pies de largo que corría a lo largo de la máquina que sincronizaba los miles de componentes de la máquina y usaba 3.500 relés. El Mark 1 produjo tablas matemáticas, pero pronto fue reemplazado por computadoras electrónicas de programas almacenados.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[💻 ⬆](/cronograma/#-1944---primer-coloso-operativo-en-bletchley-park){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1943---se-completa-el-interpolador-de-relés-de-bell-labs){: .btn .btn--inverse .btn--large}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 🤖 1943 - * Un cálculo lógico de las ideas inmanentes en la actividad nerviosa *
 
@@ -238,6 +323,8 @@ Dos científicos, Warren S. McCulloch y Walter H. Pitts, publican el innovador a
 
 El ejército de los Estados Unidos le pidió a Bell Laboratories que diseñara una máquina para ayudar a probar a su director de armas M-9, un tipo de computadora analógica que apunta armas grandes a sus objetivos. El matemático George Stibitz recomienda usar una calculadora basada en relés para el proyecto. El resultado fue el Relay Interpolator, más tarde llamado Bell Labs Model II. El Relay Interpolator utilizó 440 relés, y como era programable con cinta de papel, se utilizó para otras aplicaciones después de la guerra.
 
+[💻 ⬆](/cronograma/#-1944---harvard-mark-1-se-completa){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1943---curt-herzstark-diseña-la-calculadora-curta){: .btn .btn--inverse .btn--large}
+
 ## 💻 1943 - Curt Herzstark diseña la calculadora Curta
 
 <figure>
@@ -247,7 +334,8 @@ El ejército de los Estados Unidos le pidió a Bell Laboratories que diseñara u
 
 Curt Herzstark era un ingeniero austriaco que trabajó en el negocio de fabricación de su familia hasta que fue arrestado por los nazis en 1943. Mientras estaba encarcelado en el campo de concentración de Buchenwald por el resto de la Segunda Guerra Mundial, refina su diseño de una calculadora antes de la guerra que presentaba una calculadora modificada versión del diseño de "tambor escalonado" de Leibniz. Después de la guerra, la Curta de Herzstark hizo historia como la calculadora de cuatro funciones y mecánica más pequeña
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[💻 ⬆](/cronograma/#-1943---se-completa-el-interpolador-de-relés-de-bell-labs){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1942---se-completa-la-computadora-atanasoff-berry-abc){: .btn .btn--inverse .btn--large}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1942 - Se completa la computadora Atanasoff-Berry (ABC)
 
@@ -260,7 +348,8 @@ Después de demostrar con éxito un prototipo de prueba de concepto en 1939, el 
 
 El resultado legal fue un hito: Atanasoff fue declarado el creador de varias ideas básicas de computadora, pero la computadora como concepto fue declarada no patentable y, por lo tanto, abierta a todos. Una réplica de trabajo a gran escala del ABC se completó en 1997, lo que demuestra que la máquina ABC funcionaba como Atanasoff había afirmado. La réplica se encuentra actualmente en exhibición en el Computer History Museum.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[💻 ⬆](/cronograma/#-1943---curt-herzstark-diseña-la-calculadora-curta){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1941---konrad-zuse-termina-la-computadora-z3){: .btn .btn--inverse .btn--large}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1941 - Konrad Zuse termina la computadora Z3
 
@@ -270,6 +359,8 @@ El resultado legal fue un hito: Atanasoff fue declarado el creador de varias ide
 </figure>
 
 El Z3, una de las primeras computadoras construidas por el ingeniero alemán Konrad Zuse que trabaja en completo aislamiento de los desarrollos en otros lugares, utiliza 2.300 relés, realiza aritmética binaria de coma flotante y tiene una longitud de palabra de 22 bits. El Z3 se usó para cálculos aerodinámicos, pero fue destruido en un bombardeo en Berlín a fines de 1943. Zuse supervisó más tarde una reconstrucción del Z3 en la década de 1960, que actualmente se exhibe en el Museo Deutsches de Munich.
+
+[💻 ⬆](/cronograma/#-1942---se-completa-la-computadora-atanasoff-berry-abc){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1941---se-completa-el-primer-bombe){: .btn .btn--inverse .btn--large}
 
 ## 🤖 1941 - Las tres leyes de la robótica
 
@@ -295,7 +386,8 @@ Se cree que este es el primer uso conocido del término "robótica".
 
 Construido como un medio electromecánico para descifrar las comunicaciones militares nazis basadas en ENIGMA durante la Segunda Guerra Mundial, el Bombe británico está concebido por el pionero informático Alan Turing y Harold Keen de la British Tabulating Machine Company. Se construyeron cientos de bombas aliadas para determinar las posiciones diarias de arranque del rotor de las máquinas de cifrado Enigma, lo que a su vez permitió a los Aliados descifrar mensajes alemanes. La idea básica de las bombas surgió de la "Bomba" de 1938 de Marian Rejewski, que rompió el código.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[💻 ⬆](/cronograma/#-1941---konrad-zuse-termina-la-computadora-z3){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1941---se-completa-el-primer-bombe){: .btn .btn--inverse .btn--large}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1940 - La Calculadora de Números Complejos (CNC) es completada
 
@@ -306,7 +398,8 @@ Construido como un medio electromecánico para descifrar las comunicaciones mili
 
 En 1939, Bell Telephone Laboratories completa esta calculadora, diseñada por el científico George Stibitz. En 1940, Stibitz demostró el CNC en una conferencia de la American Mathematical Society celebrada en el Dartmouth College. Stibitz sorprendió al grupo al realizar cálculos de forma remota en el CNC (ubicado en la ciudad de Nueva York) utilizando un terminal Teletype conectado a Nueva York a través de líneas telefónicas especiales. Este es probablemente el primer ejemplo de computación de acceso remoto.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[💻 ⬆](/cronograma/#-1941---se-completa-el-primer-bombe){: .btn .btn--inverse .btn--large} [💻 ⬇](/cronograma/#-1940---la-calculadora-de-números-complejos-cnc-es-completada){: .btn .btn--inverse .btn--large}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 1930s 🕙
 
@@ -319,7 +412,7 @@ En 1939, Bell Telephone Laboratories completa esta calculadora, diseñada por el
 
 Construido por Westinghouse, el robot Elektro basado en relés responde al ritmo de los comandos de voz y ofrece bromas pregrabadas en registros de 78 rpm. Apareció en la Feria Mundial, y podía mover la cabeza y los brazos ... e incluso los cigarrillos "ahumados".
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 💻 1937 - El científico de Bell Laboratories, George Stibitz, utiliza relés para un crear un sumador de demostración
 
@@ -330,7 +423,8 @@ Construido por Westinghouse, el robot Elektro basado en relés responde al ritmo
 
 Llamado el sumador "Modelo K" porque lo construyó en su mesa "Cocina", este simple circuito de demostración proporciona una prueba de concepto para aplicar la lógica booleana al diseño de las computadoras, lo que resulta en la construcción de la calculadora compleja modelo I basada en relés en 1939 Ese mismo año en Alemania, el ingeniero Konrad Zuse construyó su computadora Z2, también utilizando relés de la compañía telefónica.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[💻 ⬆](/cronograma/#-1940---la-calculadora-de-números-complejos-cnc-es-completada){: .btn .btn--inverse .btn--large} [💻 FIN](){: .btn .btn--inverse .btn--large}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 📞 1934 - Cerebros del Mundo
 
@@ -343,7 +437,8 @@ El belga Paul Otlet tiene un objetivo modesto: recopilar, organizar y compartir 
 
 En la década de 1930, el escritor británico HG Wells y el científico estadounidense Vannevar Bush están avanzando objetivos similares: Wells con sus escritos de "Cerebro mundial" y Bush con el Memex, una especie de navegador web basado en microfilmes. Estos enfoques para organizar la información difieren. Pero todos comparten características clave de la Web actual, incluidas las referencias cruzadas automatizadas, que llamamos hipervínculos.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[📞 ⬆](/cronograma/#-1945---concepto-memex){: .btn .btn--inverse .btn--large} [📞 ⬇](/cronograma/#-1933---la-red-de-mensajería-telex-entra-en-línea){: .btn .btn--inverse .btn--large}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## 📞 1933 - La red de mensajería Telex entra en línea
 
@@ -356,7 +451,8 @@ Al igual que el Volkswagen Beetle y los modernos sistemas de autopistas, la red 
 
 Telex utiliza teleimpresoras, que datan de la década de 1910 para su uso en telegrafía. Pero en lugar de utilizar costosas líneas telegráficas dedicadas, el sistema télex conecta esas teleimpresoras entre sí a través de líneas telefónicas de voz, enrutadas por interruptores telefónicos modificados. Las versiones inalámbricas de Telex pronto conectan regiones remotas del mundo en desarrollo.
 
-[⬆ REGRESAR AL MENÚ ⬆](/historia-computadora/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[📞 ⬆](/cronograma/#-1934---cerebros-del-mundo){: .btn .btn--inverse .btn--large} [📞 FIN](){: .btn .btn--inverse .btn--large}
+[⬆ REGRESAR AL MENÚ ⬆](/cronograma/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## Simbología 🗺
 
@@ -367,7 +463,7 @@ Las asociaciones entre iconos y las notas históricas relacionadas a esté; est�
 💻 > Creación y Evolución de los ordenadores.
 📞 > Campo de las comunicaciones, tanto de la historia de la creación de las líneas de teléfono como de la historia de la creación de la red de Internet.
 🤖 > Principios de la robótica, que a largo plazo se junta alrededor del ámbito de la inteligencia artificial.
-🕹 > Gráficos & Videojuegos
+🎮 > Gráficos & Videojuegos
 🧠 > Memoria & Almacenamiento
 👨‍❤️‍💋‍👨 > Cultura Popular
 👩‍💻 > Software & Lenguajes de Programación
