@@ -46,14 +46,15 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 ### Repositorios de Gifs
 
-* [Gfycat](https://gfycat.com/){target="_blank"}
-* [Giphy](https://giphy.com){target="_blank"}
-* [Tenor](https://tenor.com){target="_blank"}
+* [Gfycat](https://gfycat.com/){:target="_blank"}
+* [Giphy](https://giphy.com){:target="_blank"}
+* [Tenor](https://tenor.com){:target="_blank"}
 
 ### Repositorios de Texturas
 
 ## Librerías Animaciones
 
+* [Listado Completo de Repositorios de Fotografías Creative Commons](https://steemit.com/spanish/@rosepac/fotografias-e-imagenes-gratis-para-dar-sentimiento-a-tus-contenidos)
 * [Librerías de Javascript de Animaciones, Banners, Gráficas y Otros](https://ciberninjas.com/librerias-front-end-para-el-desarrollador-web-crea-tu-mejor-diseno)
 * [Zim JS](https://zimjs.com/uiux.html){:target="_blank"} Ejemplos de UI/UX a través de Javascript.
 
