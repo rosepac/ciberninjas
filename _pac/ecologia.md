@@ -24,9 +24,10 @@ published: true
 
 **Enero**
 
+* Australia: Matarán a 10 mil camellos salvajes por falta de agua [*](https://www.fayerwayer.com/2020/01/australia-mataran-10-mil-camellos)
 * [Warren Buffett está gastando miles de millones para hacer de Iowa "la Arabia Saudita del viento"](https://markets.businessinsider.com/news/stocks/warren-buffett-berkshire-hathaway-invest-billions-iowa-saudi-arabia-wind-2019-12-1028787852)
-* 😡 El plástico que nos comemos: https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B4TF2MQ/index.html vía @Reuters
-* Los incendios forestales en Australia son tan grandes que generan su propio clima: tormentas eléctricas 'pyrocumulonimbus' que pueden provocar más incendios: https://www.businessinsider.sg/australia-bushfires-generate-pyrocumulonimbus-thunderstorm-clouds-2019-12/
+* 😡 El plástico que nos comemos [*](https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B4TF2MQ/index.html)
+* Los incendios forestales en Australia son tan grandes que generan su propio clima: tormentas eléctricas 'pyrocumulonimbus' que pueden provocar más incendios [*](https://www.businessinsider.sg/australia-bushfires-generate-pyrocumulonimbus-thunderstorm-clouds-2019-12/)
 
 ### 2019
 
