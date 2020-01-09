@@ -334,8 +334,6 @@ Repositorio para rastrear el progreso en el procesamiento del lenguaje natural (
 Guía de PNL basada en ML. A través de la que se identifica si una oración es una pregunta, declaración o comando; usando redes neuronales.
 <!-- Agregar los enlaces a los códigos fuente de todos los enlaces de todas estas conferencias incluidas aquí.. https://awesomeopensource.com/project/zziz/pwc -->
 
-_____
-
 ## 🐍 CONTINUARÁ.. 🐍
 
 [🐍 Aprender Python 🐍](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}

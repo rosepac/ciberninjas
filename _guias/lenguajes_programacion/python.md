@@ -439,3 +439,9 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 [🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 [🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--inverse .btn--large .align-center}
+
+<a href="https://ouo.io/HzZZJA" title="Los Mejores Libros en PDF de Python" class="btn btn--inverse btn--large">Libros Python</a> <a href="https://ouo.io/CNr4s3" title="Encuentra recursos de Python" class="btn btn--inverse btn--large">Cursos Python</a>
+
+[🐍 Aprender Aprendizaje Profundo 🐍](/que-aprender-sobre-machine-learning-2020/#page-title){: .btn .btn--inverse .btn--large .align-center}

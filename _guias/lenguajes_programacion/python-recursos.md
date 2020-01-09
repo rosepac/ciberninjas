@@ -6,7 +6,7 @@ published: true
 author: rosepac
 comments: true
 date: 2019-10-08 12:06:18
-last_modified_at: 
+last_modified_at: 2020-01-07 16:14:12
 permalink: /python-recursos/
 header:
   teaser: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
@@ -20,18 +20,21 @@ header:
       url: "/python/"
 ---
 
+[Artículos Python](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large} [Chuletas de Python]([/python-recursos/#chuletas--de-consulta](https://ciberninjas.com/python-recursos/#chuletas--de-consulta)){: .btn .btn--inverse .btn--large} [Probar Código](/python-recursos/#probar-código){: .btn .btn--inverse .btn--large} [Artículos Python?](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large}
+
 ## Artículos de Python 
 
 * [Aprendizaje Profundo con PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html){:target="_blank"}
 
 ## Chuletas  de Consulta
 
+* [Pandas y Seaborn Chuleta](https://new.paradigmadigital.com/wp-content/uploads/2019/06/cheat-sheet-pandas-seaborn.pdf){:target="_blank"} (Paradigma Digital)
 
 ## Cheatsheets
 <!-- https://www.rankred.com/python-cheat-sheet/ -->
 Una hoja de trucos puede ser realmente útil cuando intentas un conjunto de ejercicios relacionados con un tema específico o cuando trabajas en un proyecto. Como solo puede incluir tanta información en una sola hoja de papel, la mayoría de las hojas de trucos son una simple lista de reglas de sintaxis. Este conjunto de hojas de trucos tiene como objetivo recordarle las reglas de sintaxis, pero también recordarle conceptos importantes.
 
-Puede descargar cualquier hoja de trucos individual, o descargar todas las hojas de trucos en [un documento](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf) .
+Puede descargar cualquier hoja de trucos individual, o descargar todas las hojas de trucos en [un documento](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf){:target="_blank"}.
 
 * [Hoja de trucos de Python para principiantes](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc.pdf){:target="_blank"}
 	* Proporciona una descripción general de los conceptos básicos de Python, incluidas variables, listas, diccionarios, funciones, clases y más.
@@ -75,12 +78,25 @@ Esta es una chuleta que ya ha sido descargada por más de 23.000 programadores p
 * [Libros](https://nbviewer.jupyter.org/){:target="_blank"}
 * [Libros en inglés](https://www.topfreebooks.org/best-free-python-tutorials-ebooks-pdf-to-learn-programming-online/){:target="_blank"}
 
+## Wiki Python
+
+<!-- wiki python en español: https://wiki.python.org/moin/SpanishLanguage) -->
 <!-- Búsqueda de librerías alternativas Python que debes conocer > https://www.google.com/search?q=20-python-libraries-you-arent-using-but-should&sourceid=ie7&rls=com.microsoft:en-US&ie=utf8&oe=utf8 -->
 
 <!-- Libro 20 bibliotecas que debes conocer > https://www.oreilly.com/library/view/20-python-libraries/9781492037866/ -->
 
 * [Hackr.IO Python](https://hackr.io/tutorials/learn-python?sort=upvotes&type_tags%5B%5D=1&medium_tags%5B%5D=6&languages%5B%5D=en){:target="_blank"}
 
+## Saber Más..
+
+[🐍 Aprender Python 🐍](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## Relacionados
+
+[🐍 Aprender Aprendizaje Profundo 🐍](/que-aprender-sobre-machine-learning-2020/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+Automatiza las cosas aburridas con Python
 <!-- 
 Blogs https://blog.feedspot.com/python_blogs/
 Canales de Youtube https://blog.feedspot.com/python_youtube_channels/
