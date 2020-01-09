@@ -44,7 +44,7 @@ Python también tiene paquetes como NumPy y SciPy que se usan comúnmente en los
 
 [🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## ¿Quién esta usando Python?
+## ¿Quién está usando Python?
 
 <!-- https://realpython.com/world-class-companies-using-python/ --> Es utilizado por la NASA y Reddit, y su marco web, Django, también forma parte de las aplicaciones web de Instagram y Pinterest.
 
@@ -101,7 +101,157 @@ En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrad
 
 [🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-### Bibliotecas
+## ¿Cómo desarrollar una aplicación web con Python?
+
+### Frameworks Web
+
+<!-- https://www.fullstackpython.com/other-web-frameworks.html -->
+* Django
+* Flask
+* Bottle
+* Pyramid
+* TurboGears
+* Falcon
+* Morepath
+* Sanic
+* [Otros Frameworks](/python/#otros-frameworks)
+
+## Django
+
+![](https://i.ibb.co/kHGX87m/django-logo-positive.png "Logotipo del framework de python: django")
+
+Django es un framework de aplicaciones web Python ampliamente utilizado con una filosofía full-stack. El principio detrás del desarrollo full-stack es incluir todas las funcionalidades necesarias para crear aplicaciones web dentro del propio framework en vez tener que utilizar otras bibliotecas externas.
+
+[🐍 Framework Django 🐍](https://www.djangoproject.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Django 🐍](https://docs.djangoproject.com/en/3.0/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+## Flask
+
+![](https://i.ibb.co/rQv7CWv/Flask-logo.png "Logotipo del framework de python: flask")
+
+Flask es un framework de Python construido con un núcleo pequeño y un diseño fácil de ampliar. Flask es coniderado más aproximado a la filosofía de Python que Django porque en la creación de situaciones comunes las metodologías de aplicación de Flask son más explícitas; además, es más fácil comenzar con Flask como principiante porque hay menos código repetitivo a la hora de generar una aplicación sencilla.
+
+[🐍 Framework Flask 🐍](https://palletsprojects.com/p/flask/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Flask 🐍](https://flask.palletsprojects.com/en/1.1.x/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Proyecto Pallets 🐍](https://palletsprojects.com/p/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+## Bottle
+
+![](https://i.ibb.co/yfMJzp7/1200px-Bottle-logo-svg.png "Logotipo del framework de python: bottle")
+
+Bottle es un micro framework web WSGI rápido, simple y liviano para Python. Se distribuye como un módulo de archivo único y no tiene dependencias distintas de la Biblioteca estándar de Python.
+
+[🐍 Framework Bottle 🐍](http://bottlepy.org/docs/dev/index.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Bottle 🐍](https://github.com/bottlepy/bottle#bottle-python-web-framework){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+## Pyramid
+
+![](https://i.ibb.co/18NMBpk/1080x360.jpg "Logotipo del framework de python: pyramid")
+
+Pyramid es un framework web WSGI de código abierto basado en el patrón arquitectónico Modelo-Vista-Controlador (MVC) y ahora mantenido por el proyecto Pylons; junto a otros proyectos relacionados a Python.
+
+[🐍 Framework Pyramid 🐍](https://trypyramid.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Pyramid 🐍](https://trypyramid.com/documentation.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Proyecto Pylons 🐍](https://pylonsproject.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+
+## TurboGears
+
+![](https://i.ibb.co/Hz4Ww5t/turbogears.png "Logotipo del framework de python: turbogears")
+
+TurboGears, es un framework enfocado hacía los desarrolladores full-stack sobre Pylons, y ahora es un framework web WSGI independiente capaz de funcionar tanto como un framework full-stack (como Django) o como un micro framework (como Flask). Originalmente inspirado en RubyOnRails, se basa en MVC, donde el controlador envía la solicitud a un conjunto de acciones expuestas desde el propio controlador.
+
+[🐍 Framework TurboGears 🐍](https://www.turbogears.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación TurboGears 🐍](https://www.turbogears.org/documentation.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+<!-- https://www.g2.com/products/turbogears/reviews?filters%5Bnps_score%5D%5B%5D=3 -->
+
+## Falcon
+
+![](https://i.ibb.co/qjgRkbY/banner.jpg "Logotipo del framework de python: falcon")
+
+Falcon es un framework compatible con WSGI diseñado para construir API RESTful sin requerir dependencias externas de las propias bibliotecas de código de Python.
+
+[🐍 Framework Falcon 🐍](https://falconframework.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Falcon 🐍](https://falcon.readthedocs.io/en/stable/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+## MorePath
+
+![]("Logotipo del framework de python: morepath")
+
+MorePath es un micro framework web enfocado en crear aplicaciones web o API´s. La filosofía de Morepath es el modelo de datos. Por defecto, el marco enruta las URL directamente al código del modelo, a diferencia de, por ejemplo, Django, que requiere un enrutamiento de URL explícito por parte del desarrollador.
+
+[🐍 Framework MorePath 🐍](https://cherrypy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación MorePath 🐍](https://docs.cherrypy.org/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+## Sanic
+
+![]("Logotipo del framework de python: sanic")
+
+[🐍 Framework Sanic 🐍](https://cherrypy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Sanic 🐍](https://docs.cherrypy.org/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+### Otros Frameworks
+
+## CherryPy
+
+CherryPy se presenta como un framework web minimalista, con la perspectiva de ofrecer la creación de una aplicación web con el mínimo código posible. El proyecto tiene una larga historia e hizo una transición importante entre su segunda y tercera versión.
+
+[🐍 Framework CherryPy 🐍](https://cherrypy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación CherryPy 🐍](https://docs.cherrypy.org/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+<!-- Estadísticas de frameworks: https://w3techs.com/technologies/details/ws-cherrypy -->
+
+## Masonite
+
+Masonite es un framework web moderno de Python, centrado en el desarrollador full-stack que utiliza el patrón de arquitectura MVC (Modelo-Vista-Controlador) y viene con una gran cantidad de funcionalidades preparadas para usar y una arquitectura extremadamente extensible.
+
+[🐍 Framework Masonite 🐍](https://cherrypy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Masonite 🐍](https://docs.masoniteproject.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+<!-- masonite sección: https://www.fullstackpython.com/other-web-frameworks.html -->
+
+## Web2py
+
+Web2py es un framework full-stack de código abierto con una estructura de proyecto basada en patrones de modelo-vista-controlador para el desarrollo rápido de aplicaciones web basadas en bases de datos rápidas, escalables, seguras y portátiles. Escrito y programado en Python.
+
+[🐍 Framework Web2py 🐍](http://www.web2py.com/init/default/index){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Web2py 🐍](http://www.web2py.com/book/default/chapter/01#Security){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+## Vibora
+
+> Última Actualización: En 2018. Supuestamente el creador está programando una nueva versión compatible con las versiones más actuales de Python.
+
+Vibora es un framework de modelo asíncrono similar a Sanic que se inspiró en la sintaxis de Flask. Sin embargo, el autor del marco reescribió muchas partes como el motor de plantillas para maximizar el rendimiento; en la actualidad se encuentra en standby a la espera de una actualización completa.
+
+[🐍 Framework Vibora 🐍](https://vibora.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Vibora 🐍](https://docs.vibora.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+## Pecan -DESUSO-
+
+> Última Actualización: En Abril de 2019
+
+Pecan está inspirado en CherryPy y TurboGears. Se centra exclusivamente en mejorar las solicitudes y respuestas HTTP a través de objetos Python y no integra el manejo de las sesiones o el acceso a las bases de datos.
+
+https://github.com/pecan/pecan#pecan
+{: .notice--warning}
+
+## Muffin -DESUSO-
+
+> Última Actualización: Noviembre de 2019
+
+Muffin es un framework creado sobre el módulo "[Asyncio](https://docs.python.org/3/library/asyncio.html){:target="_blank"}" de la biblioteca estándar de Python 3.4+. Muffin estaba inspirado en Flask.
+
+https://github.com/klen/muffin#the-muffin
+{: .notice--warning}
+
+## Ray -DESUSO-
+
+> Última Actualización: En 2018
+
+Ray es un framework para construir API RESTful, similar a Falcon. La publicación inicial proporciona un código base desde el que comenzar a crear puntos finales, agregar autenticación y proteger contra clientes maliciosos.
+
+https://rayframework.github.io/site/
+{: .notice--warning}
+
+### Librerías de Python
 
 En este espacio vamos a analizar las 10 mejores y más reconocidas bibliotecas de Python, las cuales los desarrolladores pueden utilizar para implementar el aprendizaje automático dentro de sus aplicaciones existentes.
 
