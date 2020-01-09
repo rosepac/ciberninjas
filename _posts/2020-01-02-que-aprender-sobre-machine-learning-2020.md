@@ -333,15 +333,18 @@ Repositorio para rastrear el progreso en el procesamiento del lenguaje natural (
 
 Guía de PNL basada en ML. A través de la que se identifica si una oración es una pregunta, declaración o comando; usando redes neuronales.
 <!-- Agregar los enlaces a los códigos fuente de todos los enlaces de todas estas conferencias incluidas aquí.. https://awesomeopensource.com/project/zziz/pwc -->
+
 _____
 
-[🐍 ..CONTINUARÁ.. 🐍]{: .btn .btn--warning .btn--large .align-center}
+## 🐍 CONTINUARÁ.. 🐍
 
 [🐍 Aprender Python 🐍](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Recursos Python 🐍](/python-recursos/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
 <!-- https://awesomeopensource.com/projects/machine-learning vamos por NPL Progress -->
+
 _____
+
 **Fuentes**:
 * [Hilo Hacker News](https://news.ycombinator.com/item?id=21924298){:target="_blank"}
 <!-- redes generativas adversas? -->
