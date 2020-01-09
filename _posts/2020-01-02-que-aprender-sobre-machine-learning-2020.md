@@ -139,6 +139,7 @@ El enlace directo a [los tutoriales](http://deeplearning.net/tutorial/){:target=
 
 Este repositorio contiene el código del libro de O'Reilly Machine Learning for Hackers . Todo el código de repositorio está en R, se basa en numerosos paquetes de R y los temas cubiertos incluyen las tareas demasiado comunes de clasificación, clasificación y regresión, así como procedimientos estadísticos como el análisis de componentes principales y el escalado multidimensional.
 
+[🐍 Aprender Python 🐍](/python/){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Cursos de Machine Learning 🐍](https://ouo.io/QSlgGQ){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Libros de Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Cursos de Python 🐍](https://ouo.io/CNr4s3){: .btn .btn--inverse .btn--large .align-center}
@@ -253,14 +254,94 @@ Podemos destacar por ejemplo, el libro de: Arquitecturas del Aprendizaje Profund
 * GanS o Redes Generativas Adversas[*](https://pathmind.com/wiki/generative-adversarial-network-gan){:target="_blank"}
 * Simplemente haga clic en [Ejecutar en Google Colab](https://www.tensorflow.org/tutorials/generative/cyclegan){:target="_blank"} en la esquina superior izquierda y comience a evaluar los bloques de código.
 
-## Proyectos Github de Aprendizaje Automático
+## Proyectos Educativos de Github sobre Aprendizaje Automático
 
-* Clasificación de oraciones [](https://github.com/lettergram/sentence-classification)
+* [Tutoriales de aprendizaje automático](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/){:target="_blank"}
 
-Guía de PNL basada en ML. Identificamos si una oración es una pregunta, declaración o comando usando redes neuronales.
+Tutoriales, artículos y otros recursos de aprendizaje automático y aprendizaje profundo.
 
+* [Aprender Scikit](https://scikit-learn.org/stable/){:target="_blank"}
+
+Scikit-learn es un módulo de Python para aprendizaje automático creado sobre SciPy y se distribuye bajo la licencia BSD de 3 cláusulas.
+
+El proyecto fue iniciado en 2007 por David Cournapeau como un proyecto Google Summer of Code, y desde entonces muchos voluntarios han contribuido.
+
+* [TensorFlow Ejemplos](https://github.com/aymericdamien/TensorFlow-Examples#tensorflow-examples){:target="_blank"}
+
+Este tutorial fue diseñado para sumergirse fácilmente en TensorFlow, a través de ejemplos. Para facilitar la lectura, incluye tanto portátiles como códigos fuente con explicación, tanto para TF v1 como para v2.
+
+Es adecuado para principiantes que desean encontrar ejemplos claros y concisos sobre TensorFlow. Además de las tradicionales implementaciones TensorFlow 'en bruto', también se puede encontrar las últimas prácticas API TensorFlow (como layers, estimator, dataset, ...).
+
+* [100 Días de Código para Aprender Machine Learning](https://github.com/Avik-Jain/100-Days-Of-ML-Code#100-days-of-ml-code){:target="_blank"}
+
+100 días de codificación de aprendizaje automático según lo propuesto por Siraj Raval.
+
+* [Ruta de aprendizaje automático para ingenieros de software](https://www.codementor.io/@zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk){:target="_blank"}
+
+Un plan de estudio de varios meses para pasar de desarrollador móvil (autodidacta, sin título de CS) a ingeniero de aprendizaje automático.
+
+El objetivo principal era encontrar un enfoque para estudiar Machine Learning que sea principalmente práctico y resuma la mayoría de las matemáticas para principiantes. Este enfoque no es convencional porque es el enfoque de arriba hacia abajo y primero diseñado para los ingenieros de software.
+
+Por favor, siéntase libre de hacer cualquier contribución que sienta que mejorará.
+
+* [Practicalai](https://practicalai.me/){:target="_blank"}
+
+Un enfoque práctico del aprendizaje automático para que todos puedan aprender, explorar y construir.
+
+Comenzamos con lecciones de aprendizaje automático, pero queremos que todos puedan aprender, explorar y construir continuamente. Utilizar esta plataforma para aprender ML, explorar temas y construir una cartera para mostrar su impacto. Las herramientas para habilitar esto se lanzarán en enero de 2020 y si desea formar parte de la versión bet
+
+* 📚 Cuadernos ML ilustrativos en [TensorFlow 2.0 + Keras](https://tensorflow.org/){:target="_blank"}.
+* ⚒️ Construya modelos robustos utilizando la API funcional con componentes personalizados
+* 📦 Entrene utilizando bucles simples pero altamente personalizables para crear productos rápidamente
+* Si prefiere Jupyter Notebooks o desea agregar / corregir contenido, consulte el directorio de [notebooks](https://github.com/practicalAI/practicalAI/tree/master/notebooks){:target="_blank"}.
+
+* [Cuadernos de Aprendizaje Automático](https://github.com/ageron/handson-ml#machine-learning-notebooks){:target="_blank"}
+
+Una serie de cuadernos Jupyter que lo guían a través de los fundamentos del aprendizaje automático y el aprendizaje profundo en python usando Scikit-Learn y TensorFlow.
+
+Este proyecto tiene como objetivo enseñarle los fundamentos del aprendizaje automático en python. Contiene el código de ejemplo y las soluciones a los ejercicios en mi libro de O'Reilly Aprendizaje automático práctico con Scikit-Learn y TensorFlow.
+
+* [Machine Learning desde Cero](https://github.com/eriklindernoren/ML-From-Scratch#machine-learning-from-scratch){:target="_blank"}
+
+Aprendizaje automático desde cero. Desnudos implementaciones NumPy de modelos y algoritmos de aprendizaje automático con un enfoque en la accesibilidad. Tiene como objetivo cubrir todo, desde la regresión lineal hasta el aprendizaje profundo.
+
+Implementaciones de Python de algunos de los modelos y algoritmos fundamentales de Machine Learning desde cero.
+
+El propósito de este proyecto no es producir algoritmos tan optimizados y computacionalmente eficientes como sea posible, sino más bien presentar el funcionamiento interno de ellos de una manera transparente y accesible.
+
+## Listas Impresionantes de Recursos sobre Machine Learning
+
+* [Awesome Aprendizaje Profundo](https://github.com/ChristosChristofidis/awesome-deep-learning#awesome-deep-learning-){:target="_blank"}
+
+Una lista curada de increíbles tutoriales, proyectos y comunidades de Deep Learning con más de 300 enlaces.
+
+* Conferencias sobre Aprendizaje Automático - Papers with Code \ Ordenadas por años: [2018](https://github.com/zziz/pwc#2018){:target="_blank"}, [2017](https://github.com/zziz/pwc#2017){:target="_blank"}, [2016](https://github.com/zziz/pwc#2016){:target="_blank"}, [2015](https://github.com/zziz/pwc#2015){:target="_blank"}, [2014](https://github.com/zziz/pwc#2014){:target="_blank"}, [2013](https://github.com/zziz/pwc#2013){:target="_blank"}
+
+Papeles con Código, es un proyecto en el que se recopilan todas las conferencias sobre Machine Learning / Aprendizaje Automático que se realizan, junto al repositorio de la librería de la que se habla y comenta su utilización y uso.
+
+Las Conferencias que se incluyen son: Conferencia sobre sistemas de procesamiento de información neural <!-- https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems -->, Conferencia sobre reconocimiento de patrones y visión por computadora <!-- https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition -->, Conferencia Europea sobre Visión por Computador <!-- https://en.wikipedia.org/wiki/European_Conference_on_Computer_Vision --> y la Conferencia internacional sobre aprendizaje automático. <!-- https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning -->
+
+* [Cursos y Conferencias de Machine Learning en Inglés](publicado este Viernes en ciberninjas.com)
+
+## Otros Proyectos Github de Aprendizaje Automático
+
+* Progreso de PNL [*](https://nlpprogress.com/){:target="_blank"}
+
+Repositorio para rastrear el progreso en el procesamiento del lenguaje natural (PNL), incluidos los conjuntos de datos y el estado actual de la técnica para las tareas de PNL más comunes.
+
+* Clasificación de Oraciones [*](https://github.com/lettergram/sentence-classification){:target="_blank"}
+
+Guía de PNL basada en ML. A través de la que se identifica si una oración es una pregunta, declaración o comando; usando redes neuronales.
+<!-- Agregar los enlaces a los códigos fuente de todos los enlaces de todas estas conferencias incluidas aquí.. https://awesomeopensource.com/project/zziz/pwc -->
 _____
 
+[🐍 ..CONTINUARÁ.. 🐍]{: .btn .btn--warning .btn--large .align-center}
+
+[🐍 Aprender Python 🐍](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Recursos Python 🐍](/python-recursos/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
+<!-- https://awesomeopensource.com/projects/machine-learning vamos por NPL Progress -->
+_____
 **Fuentes**:
 * [Hilo Hacker News](https://news.ycombinator.com/item?id=21924298){:target="_blank"}
 <!-- redes generativas adversas? -->
