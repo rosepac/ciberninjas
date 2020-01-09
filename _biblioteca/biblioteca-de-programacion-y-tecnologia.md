@@ -413,7 +413,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Procesamiento del Lenguaje Natural](https://www.redalyc.org/revista.oa?id=5157){:target="_blank"} (HTML)
 * [Puertas Abiertas al Sector de las TICs](https://coitaoc.org/wp-content/uploads/TELECOSANDALUCES2019.pdf) (PDF) (2019) (Telecos Andaluces) (Revista [6 Ediciones](https://coitaoc.org/category/publicaciones/telecos-andaluces/))
 * [Revistas de Computación](https://www.bibliotic.unam.mx/revista.html){:target="_blank"} (HTML)
-* [Revista de la Sociedad Española de la Informática y la Salud](https://seis.es/revista-is) (PDF) 2019 \ 139 Ediciones Mensuales
+* [Revista de la Sociedad Española de la Informática y la Salud](https://seis.es/revista-is){:target="_blank"} (PDF) 2019 \ 139 Ediciones Mensuales
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
 
