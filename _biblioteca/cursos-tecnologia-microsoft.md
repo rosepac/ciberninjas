@@ -129,6 +129,8 @@ A tener en cuenta, que se debe iniciar sesión a través de una [cuenta de Outlo
 
 * [Compilación de aplicaciones móviles con Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/build-mobile-apps-with-xamarin-forms){:target="_blank"}
 * [Personalización e incorporación de características avanzadas en aplicaciones de Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/customize-your-xamarin-forms-apps){:target="_blank"}
+* [Xamarin, curso gratuito](https://www.youtube.com/playlist?list=PLpOqH6AE0tNiZ1BoufjFfkBGC_bPBQWfA){:target="_blank"} (Código Facilito, YouTube)
+* [Xamarin desde cero, primeros pasos](https://www.youtube.com/playlist?list=PLnWAzeXp9V4mWNIq0wZ5fAR82Fi8MCmVf){:target="_blank"} (Formando Código, YouTube)
 
 ## 📹 Videotutoriales de Microsoft
 

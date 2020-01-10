@@ -284,6 +284,7 @@ sidebar:
 [Linux <i class="fab fa-linux"></i>](/cursos-tecnologia/#linux-){: .btn .btn--inverse .btn--large} [Ubuntu <i class="fab fa-ubuntu"></i>](/cursos-tecnologia/#ubuntu-){: .btn .btn--inverse .btn--large}
 
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html){:target="_blank"} (OCW)
+* [Programación con Qt](https://www.youtube.com/playlist?list=PL54fdmMKYUJvn4dAvziRopztp47tBRNum){:target="_blank"} (Duarte Corporation, YouTube)
 
 ### Linux <i class="fab fa-linux"></i>
 
@@ -302,7 +303,6 @@ sidebar:
 * [Cómo implantar grupos de mejora de procesos](https://www.EDX.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0){:target="_blank"} (EDX)
 * [Creación y Desarrollo de Redes Sociales](http://ocw.um.es/cc.-sociales/creacion-y-desarrollo-de-redes-sociales){:target="_blank"} (OCW)
 * [Curso de Git y Github](https://www.youtube.com/playlist?list=PL353A30C7CCE5098F){:target="_blank"} (Jesús Conde, Youtube)
-* [De 0 a 100 con Grunt JS](https://www.udemy.com/de-0-a-100-con-grunt-js){:target="_blank"} (Udemy)
 * [De la idea al plan de proyectos en 10 pasos (2014)](https://ocw.ehu.eus/course/view.php?id=336){:target="_blank"} (OCW)
 * [Fundamentos de Git y Github](https://devcode.la/cursos/git){:target="_blank"} (DevCode)
 * [Gestión de proyectos (2013)](https://ocw.ehu.eus/course/view.php?id=202){:target="_blank"} (OCW)
@@ -319,12 +319,21 @@ sidebar:
 * [Introducción a Git, Github & SourceTree](https://plataforma.keepcoding.io/p/introduccion-git-github-sourcetree){:target="_blank"} (Keep Coding)
 * [Introducción a la Gestión de Proyectos](https://www.EDX.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x){:target="_blank"} (EDX)
 * [Introducción a Ingeniería del Software](https://www.edx.org/course/introduccion-a-la-ingenieria-del-software){:target="_blank"} (EDX \ Universidad Autónoma de Madrid)
+* [JUnit: Pruebas unitarias para Java](https://www.makigas.es/series/junit){:target="_blank"} (makigas)
 * [Metodología de Desarrollo Visual (2012)](http://ocw.uc3m.es/ingenieria-informatica/metodologia-de-desarrollo-visual){:target="_blank"} (OCW)
 * [Metodología de marco lógico (2017)](https://www.udemy.com/metodologia-de-marco-logico){:target="_blank"} (Udemy)
 * [Métodos y técnicas del trabajo corporativo (2008)](http://ocw.uc3m.es/ingenieria-informatica/metodos-y-tecnicas-de-trabajo-corporativo){:target="_blank"} (OCW)
 * [Organización y gestión del proyecto (2009)](https://ocw.unican.es/course/view.php?id=207){:target="_blank"} (OCW)
 * [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158){:target="_blank"} (OCW)
 * [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119){:target="_blank"} (OCW)
+
+## Integración Continua
+
+* [Domina Jenkins CI para DevOps y Desarrolladores](https://www.udemy.com/domina-jenkins-ci-para-devops-y-desarrolladores){:target="_blank"} (Udemy)
+
+## Grunt <i class="fab fa-grunt"></i>
+
+* [Grunt JS de 0 a 100](https://www.udemy.com/de-0-a-100-con-grunt-js){:target="_blank"} (Udemy)
 
 ### Estudiar 💭
 
@@ -386,6 +395,10 @@ sidebar:
 * [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-){:target="_blank"} (MiriadaX)
 * [Word intermedio: herramientas de formato y productividad](https://www.EDX.org/es/course/word-intermedio-herramientas-de-formato-y-producti){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
 
+## ArcGIS
+
+* [Publicación y Análisis de mapas en la Web con ArcGIS Online](https://www.udemy.com/arcgis-online){:target="_blank"} (Udemy)
+
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 🔨 Procesadores de Lenguaje
@@ -438,32 +451,52 @@ sidebar:
 
 ## 👨‍💻 Lenguajes de Programación
 
-[C, C#, C++](/cursos-tecnologia/#c-c-c){: .btn .btn--inverse .btn--large} [Ensamblador](/cursos-tecnologia/#ensamblador){: .btn .btn--inverse .btn--large} [Java <i class="fab fa-java"></i>](/cursos-tecnologia/#java-){: .btn .btn--inverse .btn--large} [<i class="fab fa-js"></i> Javascript](/cursos-tecnologia/#-javascript){: .btn .btn--inverse .btn--large} [Perl](/cursos-tecnologia/#perl){: .btn .btn--inverse .btn--large} [PHP <i class="fab fa-php"></i>](/cursos-tecnologia/#php-){: .btn .btn--inverse .btn--large} [PHP Frameworks <i class="fab fa-php"></i>](/cursos-tecnologia/#php-frameworks-){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Laravel <i class="fab fa-laravel"></i>](/cursos-tecnologia/#laravel-){: .btn .btn--inverse .btn--large} [Python <i class="fab fa-python"></i>](/cursos-tecnologia/#python-){: .btn .btn--inverse .btn--large} [Python Frameworks <i class="fab fa-python"></i>](/cursos-tecnologia/#python-frameworks-){: .btn .btn--inverse .btn--large} [Ruby](/cursos-tecnologia/#ruby-){: .btn .btn--inverse .btn--large}
+[C, C#, C++](/cursos-tecnologia/#c-c-c){: .btn .btn--inverse .btn--large} [Dart](/cursos-tecnologia/#dart){: .btn .btn--inverse .btn--large} [Ensamblador](/cursos-tecnologia/#ensamblador){: .btn .btn--inverse .btn--large} [Go](/cursos-tecnologia/#go){: .btn .btn--inverse .btn--large} [Java <i class="fab fa-java"></i>](/cursos-tecnologia/#java-){: .btn .btn--inverse .btn--large} [<i class="fab fa-js"></i> Javascript](/cursos-tecnologia/#-javascript){: .btn .btn--inverse .btn--large} [Perl](/cursos-tecnologia/#perl){: .btn .btn--inverse .btn--large} [PHP <i class="fab fa-php"></i>](/cursos-tecnologia/#php-){: .btn .btn--inverse .btn--large} [PHP Frameworks <i class="fab fa-php"></i>](/cursos-tecnologia/#php-frameworks-){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Laravel <i class="fab fa-laravel"></i>](/cursos-tecnologia/#laravel-){: .btn .btn--inverse .btn--large} [Python <i class="fab fa-python"></i>](/cursos-tecnologia/#python-){: .btn .btn--inverse .btn--large} [Python Frameworks <i class="fab fa-python"></i>](/cursos-tecnologia/#python-frameworks-){: .btn .btn--inverse .btn--large} [Ruby](/cursos-tecnologia/#ruby-){: .btn .btn--inverse .btn--large}
 
 ## C, C#, C++
 
+### C
+
 * [Aprende programación en C desde cero](https://www.udemy.com/fundamentos-de-programacion-en-c-basico-avanzado){:target="_blank"} (Udemy)
-* [C# básico de programación](https://www.udemy.com/-programacion){:target="_blank"} (Udemy)
-* [C++: Básico a Avanzado](https://www.udemy.com/curso-de-cpp-basico-a-avanzado){:target="_blank"} (Udemy)
 * [Curso de C y C++ ¡Desde 0!](https://www.udemy.com/course/aprende-c-y-c-en-1-curso-master-en-programacion/){:target="_blank"} (Udemy) (2019)
-* [Estructura de datos en C++](https://www.youtube.com/playlist?list=PLsaihF7BSsEkaGMkquCQNpMjyQXOpL9iU){:target="_blank"} (Programación Explicada, YouTube)
 * [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31){:target="_blank"} (OCW)
 * [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74){:target="_blank"} (OCW)
 * [Introducción a la programación en C: Instrucciones de control y ficheros de texto](https://www.edx.org/course/introduccion-a-la-programacion-en-c-instrucciones){:target="_blank"} (EDX \ Universidad Autónoma de Madrid)
 * [Programación en C](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6){:target="_blank"} (ProgramacionATS, YouTube)
 * [Programación en C/C++ y Aplicaciones Matemáticas (2011)](http://ocw.um.es/ciencias/programacion-en-c-c-y-aplicaciones-matematicas){:target="_blank"} (OCW)
+
+### C#
+
+* [C# básico de programación](https://www.udemy.com/-programacion){:target="_blank"} (Udemy)
+* [Desarrollo de aplicaciones para Windows con C# y Sql en 4 capas](https://www.youtube.com/playlist?list=PLnWAzeXp9V4kjwKztMiBYPo2ncAjI2QqD){:target="_blank"} (Formando Código, YouTube)
 * [Programación en C#](https://www.youtube.com/playlist?list=PLM-p96nOrGcakia6TWllPW9lkQmB2g-yX){:target="_blank"} (Nicosio, YouTube)
 
+### C++
+
+* [C++: Básico a Avanzado](https://www.udemy.com/curso-de-cpp-basico-a-avanzado){:target="_blank"} (Udemy)
+* [Estructura de datos en C++](https://www.youtube.com/playlist?list=PLsaihF7BSsEkaGMkquCQNpMjyQXOpL9iU){:target="_blank"} (Programación Explicada, YouTube)
+
 [🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## Dart
+
+* [Curso básico de Dart](https://www.youtube.com/watch?v=dDZ-NOTjXiA&list=PLl_hIu4u7P65q3qDQfwoGF6sK9upzi3Jf){:target="_blank"} (Gyga Code, Youtube)
 
 ## Ensamblador
 
 * [Programación en ensamblador 8086 con proteus](https://www.udemy.com/course/programacion-en-ensamblador-8086-con-proteus/){:target="_blank"} (Udemy)
 
+## Go
+
+* [Curso de GO - De 0 a 100](https://www.youtube.com/watch?v=7SIIyt5-XK0&list=PLl_hIu4u7P64MEJpR3eVwQ1l_FtJq4a5g) (Gyga Code, Youtube)
+* [Desarrollo Web con GoLang](https://www.youtube.com/playlist?list=PLl_hIu4u7P64sjDc4TlbUT050tWyqi6MG){:target="_blank"} (Gyga Code, YouTube)
+* [Introducción a Go desde cero](https://plataforma.keepcoding.io/p/introduccion-curso-de-go-online-basico-intermedio-gratis){:target="_blank"} (Keep Coding)
+
 ## Java <i class="fab fa-java"></i>
 
 * [Curso básico de Java](https://www.udemy.com/introduccion-programacion-java){:target="_blank"} (Udemy)
 * [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk){:target="_blank"} (Pildoras Informáticas, Youtube)
+* [Desarrollo en J2ME con NetBeans](https://www.youtube.com/playlist?list=PL2DD57072B0682FEC){:target="_blank"} (Guillermo Malagon, YouTube)
 * [Estructura de datos en Java](https://www.youtube.com/playlist?list=PLCLpAU8VN0j4RGemFfybZrWoSX57NbEq9){:target="_blank"} (MasterHeHeGar, YouTube)
 * [Fundamentos de Java](https://devcode.la/cursos/fundamentos-java){:target="_blank"} (DevCode)
 * [Fundamentos de Programación con Java](https://www.udemy.com/fundamentos-de-programacion-con-java){:target="_blank"} (Ion Jaureguialzo, Udemy)
@@ -475,19 +508,65 @@ sidebar:
 * [Java Básico](https://www.udemy.com/java-basico-d){:target="_blank"} (Udemy)
 * [Java gratis, desde cero](https://www.milcursosgratis.com/curso-de-java-gratis/){:target="_blank"} (Mil Cursos Gratis)
 * [Programación con Java Standard](https://miriadax.net/web/programacion-con-java-standard-3-edicion-){:target="_blank"} (MiriadaX)
+* [Java Server Faces](https://www.youtube.com/watch?v=_-jeU2wbRDM&list=PLvimn1Ins-41sC9i3XpIniGbo4Msnxam6){:target="_blank"} (Mito Code, Youtube)
 
 [🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## <i class="fab fa-js"></i> Javascript
+## Java Frameworks <i class="fab fa-java"></i>
+
+### Play
+
+* [Play Framework](https://www.youtube.com/playlist?list=PLSkgknIuMNrrWy4Ly5mGQ7VryaLYBPhgj){:target="_blank"} (Juan Manuel Marchese, YouTube)
+* [Tutorial de Play Framework](https://www.youtube.com/playlist?list=PLSKqagaCmohcTbZ_nva1mGGLBz1agOF_k){:target="_blank"} (Play Framework, Youtube)
+
+### PrimeFaces
+
+* [Primefaces](https://www.youtube.com/watch?v=eZDoSlerA1I&list=PLvimn1Ins-42YbcBrdPbqFiO8JxJUca_z){:target="_blank"} (Mito Code, Youtube)
+* [Primefaces Avanzado](https://www.youtube.com/watch?v=-7mEXB6rEjg&list=PLvimn1Ins-41Dn6vhYzB0Kv90_2eFIdXG){:target="_blank"} (Mito Code, Youtube)
+
+### Spring
+
+* [Desarrollo Web con Spring Boot](/desarrollo-web-spring-boot-con-byte-code/){:target="_blank"} (Byte Code, Youtube) (2018)
+* [Spring Framework Tutorial](https://www.youtube.com/watch?v=r4kqcSs4F7I&list=PLvimn1Ins-40CImsffjCkv_TrKzYiB1gb){:target="_blank"} (Mito Code, Youtube)
+* [Spring Framework Tutorial](/spring-framework-con-4softwaredevelopers/) (4 SoftwareDevelopers, Youtube) (2017)
+* [Spring Boot](/spring-boot-con-mitocode/) (Mitocode, Youtube) (2019)
+* [Spring Boot](/spring-boot-con-jose-orjuela/) (José Orjuela, Youtube) (2018)
+* [Spring Boot + Docker](/spring-boot-docker-con-abel-fresnillo/) (Abel Fresnillo, Youtube) (2019)
+* [Spring Boot: recetas para el trabajo diario (introducción)](https://www.udemy.com/spring-boot-recetas-para-el-trabajo-diario-introduccion){:target="_blank"} (Udemy)
+
+## Struts
+
+* [Struts 2 con MySql](https://www.youtube.com/playlist?list=PLnWAzeXp9V4lMLj8KykMtPYb5jfUcKJ7n){:target="_blank"} (Formando Código, YouTube)
+
+## Javascript <i class="fab fa-js"></i>
 
 * [Aprende programación desde 0 con Javascript](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8ohy6P2k4hNU2PtstqP8Zh){:target="_blank"} (Eduardo Ibarra, Youtube)
+* [Curso básico de Javascript desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G){:target="_blank"} (Falcon Masters, Youtube)
+* [Curso de Javascript desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID) (Pildoras Informáticas, Youtube)
+* [Curso de Javascript para principiantes](https://www.youtube.com/playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx){:target="_blank"} (Jesús Conde, Youtube)
 * [Javascript 6](https://www.youtube.com/playlist?list=PLo4CW_btA6oYqRyo4z_WxZUiyObbsqb-Z){:target="_blank"} (WebApps HTML5, Youtube)
 * [JavaScript Desde Cero (2018)](https://ed.team/cursos/javascript){:target="_blank"}
 * [Fundamentos de Javascript](https://www.udemy.com/fundamentos-de-javascript){:target="_blank"} (Udemy)
 * [Introducción a JavaScript desde cero](https://plataforma.keepcoding.io/p/introduccion-a-la-programacion-de-javascript-desde-cero-gratis){:target="_blank"} (Keep Coding)
 * [Introducción a la programación. Descubre el lenguaje de la era digital](https://miriadax.net/web/introduccion-a-la-programacion-descubre-el-lenguaje-de-la-era-digital-5-edicion-){:target="_blank"} (MiriadaX)
+* [Javascript desde cero](https://www.youtube.com/playlist?list=PLEtcGQaT56cij4cilDUzKYcu6-wW44kTx){:target="_blank"} (YouTube)
+* [JavaScript en páginas web: paso a paso](https://www.udemy.com/curso-gratis-javascript-principiantes-paso-a-paso){:target="_blank"} (Udemy)
+* [JavaScript ES 6 (2.017)](https://www.udemy.com/es6-javascript){:target="_blank"} (Udemy)
 
 [🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## Javascript Frameworks <i class="fab fa-js"></i>
+
+> Los Frameworks de Javascript: Angular, React, Vue y otros proyectos como NodeJs se encuentran en la categoría de desarrollo web por la importancia de su crecimiento actual.
+{: .notice--info}
+
+[⬇ Visita la Sección de Desarrollo Web 👨‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large .align-center}
+
+## Kotlin
+
+* [Fundamentos de Kotlin](https://devcode.la/cursos/kotlin){:target="_blank"} (DevCode)
+* [Introducción a Kotlin avanzado](https://plataforma.keepcoding.io/p/introduccion-desarrollo-de-aplicaciones-android-en-kotlin-gratis){:target="_blank"} (Keep Coding)
+* [Introducción a Kotlin desde cero](https://plataforma.keepcoding.io/p/curso_kotlin_desde_cero_introductorio){:target="_blank"} (Keep Coding)
 
 ## Perl
 
@@ -500,11 +579,20 @@ sidebar:
 * [Aprende programación básica con PHP](https://www.udemy.com/aprende-programacion-basica-con-php){:target="_blank"} (Udemy)
 * [Como crear documentos PDF en PHP: generar reportes PDF](https://www.udemy.com/como-crear-documentos-pdf-en-php-generar-reportes-pdf){:target="_blank"} (Udemy)
 * [Cookies y sesiones en PHP](https://www.udemy.com/programador-web-php-cookies-y-sesiones){:target="_blank"} (Udemy)
+* [Curso de PHP para principiantes desde 0](https://www.youtube.com/playlist?list=PLPl81lqbj-4KPLqegK5DNKWSFBzn8QTbq){:target="_blank"} (Bluuweb!, Youtube)
 * [Curso de PHP 7 y MySQL](/👨‍🏫-curso-php-7-mysql-purito-codigo) (Purito Código, Youtube)
+* [PHP Básico](https://www.udemy.com/php-basico-t){:target="_blank"} (Udemy)
+* [Programación en Internet (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-internet-2006.html){:target="_blank"} (OWC)
+* [Programación en Internet (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-internet-2008.html){:target="_blank"} (OWC)
+* [Programador web: Cookies y Sesiones en PHP](https://www.udemy.com/programador-web-php-cookies-y-sesiones){:target="_blank"} (Udemy)
 
 [🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## PHP Frameworks <i class="fab fa-php"></i>
+
+* [Introducción teórica a los frameworks de desarrollo para PHP](https://www.udemy.com/introduccion-teorica-a-los-framework-de-desarrollo-para-php){:target="_blank"} (Udemy)
+
+### CakePHP
 
 * [CakePHP 2](https://www.youtube.com/playlist?list=PL-9WnOL7eRJYmdqHWCKigyl_tRHjNkrlF){:target="_blank"} (Edson Mollericona Marin, YouTube)
 * [CakePHP 3 Básico](https://www.youtube.com/playlist?list=PL-9WnOL7eRJZFoTXKm7EvR_p38rtF87YH){:target="_blank"} (Edson Mollericona Marin, YouTube)
@@ -529,7 +617,17 @@ sidebar:
 * [Laravel 5.4: crear tu primer sitio web](https://www.udemy.com/primeros-pasos-con-laravel){:target="_blank"} (Udemy)
 * [Laravel 5.6](https://www.youtube.com/playlist?list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt){:target="_blank"} (Raul Palacios, YouTube)
 
+## Symfony <i class="fab fa-symfony"></i>
+
+* [Instalando Symfony 2](https://www.udemy.com/instalando-symfony2){:target="_blank"} (Udemy)
+* [PHP, Symfony y Desarrollo Web](https://diego.com.es){:target="_blank"} (HTML)
+* [Symfony 3: en producción. Subir y publicar proyectos web](https://www.udemy.com/symfony-3-en-produccion-subir-y-publicar-proyectos-web){:target="_blank"} (Udemy)
+
 [🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## Zend
+
+* [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC){:target="_blank"} (César Cancino, YouTube)
 
 ## Python <i class="fab fa-python"></i>
 
@@ -550,6 +648,7 @@ sidebar:
 * [TensorFlow para Deep Learning y Python](https://www.udemy.com/course/curso-de-tensorflow-para-deep-learning-y-python){:target="_blank"}
 * [Introducción a la programación, Python I](https://www.coursera.org/learn/aprendiendo-programar-python){:target="_blank"} (Coursera)
 * [Introducción a la Programación con Python](https://www.udemy.com/course/introduccion-a-la-programacion-con-python-juan-de-la-torre){:target="_blank"}
+* [Qt usando Python y PyQT](https://www.youtube.com/playlist?list=PLEtcGQaT56cj81xiNCrJnoAjc66uZVXDa){:target="_blank"} (Jesús Conde, YouTube)
 * [Web Scraping](https://www.youtube.com/playlist?list=PLuaGRMrO-j-8B_RT_2kGE6NW-ZxzHaU17){:target="_blank"} (Leonardo Kuffo, Youtube) (2017)
 
 [🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
@@ -561,15 +660,26 @@ sidebar:
 * [Introducción a Django + Python & REST](https://plataforma.keepcoding.io/p/introduccion-python-django-y-rest){:target="_blank"} (Keep Coding)
 * [Probar Django: Crear una Aplicación Web en Python](https://www.udemy.com/probar-django-construir-una-aplicacion-web-en-python){:target="_blank"} (Udemy)
 
-## Ruby
+## Ruby <i class="fas fa-gem"></i>
 
 * [Crear aplicaciones con Ruby](https://www.udemy.com/crear-aplicaciones-con-ruby){:target="_blank"} (Udemy)
 
 [🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
+## Ruby Frameworks <i class="fas fa-gem"></i>
+
+### Ruby and Rails
+
+* [Introducción a Ruby on Rails y servicios REST](https://plataforma.keepcoding.io/courses/enrolled/123885){:target="_blank"} (Keep Coding)
+
 ## 👩‍💻 Desarrollo Web
 
 [Android <i class="fab fa-android"></i>](/cursos-tecnologia/#android-){: .btn .btn--inverse .btn--large} [Angular <i class="fab fa-angular"></i>](/cursos-tecnologia/#angular-){: .btn .btn--inverse .btn--large} [PHP Framework <i class="fab fa-php"></i>](/cursos-tecnologia/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/cursos-tecnologia/#docker-){: .btn .btn--inverse .btn--large} [Ionic](/cursos-tecnologia/#ionic){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/cursos-tecnologia/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/cursos-tecnologia/#swift-){: .btn .btn--inverse .btn--large}
+
+* [Curso básico de Backbone.js](https://devcode.la/cursos/curso-basico-de-backbonejs){:target="_blank"} (DevCode)
+* [Curso de Firebase](https://www.youtube.com/playlist?list=PLEtcGQaT56chIjXff_cAEglfe6gBSNFHj) (Jesús Conde, Youtube)
+* [De Novato a Desarrollador Exitoso](https://www.udemy.com/de-novato-a-desarrollador-exitoso){:target="_blank"} (Udemy)
+* [Introducción al desarrollo web](https://www.youtube.com/playlist?list=PLfYLq8pbpMkBrFwrC-G2yI2GgCwClEouj){:target="_blank"} (iDESWEB, YouTube)
 
 ## Android <i class="fab fa-android"></i>
 
@@ -582,10 +692,15 @@ sidebar:
 * [Curso de Android con Android Studio](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P){:target="_blank"} (Pildoras Informáticas, Youtube)
 * [Curso de Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank"} (Jesús Conde, Youtube)
 * [Curso de Aplicaciones Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank"} (Jesús Conde, Youtube)
+* [Desarrollo en HTML5, CSS y JavaScript de Apps Web, Android..](https://miriadax.net/web/html5mooc/inicio){:target="_blank"} (MiriadaX)
 * [Introducción a fundamentos Android, ¡Desarrolla una app completa!](https://plataforma.keepcoding.io/p/introduccion-fundamentos-android-online){:target="_blank"} (Keep Coding)
 * [Introducción a la programación Android](https://www.EDX.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1){:target="_blank"} (EDX)
 * [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130){:target="_blank"} (OCW)
 * [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX){:target="_blank"} (Jesús Conde, Youtube)
+
+### Flutter
+
+* [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_) (Gyga Code, Youtube)
 
 [🔝 Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -597,13 +712,16 @@ sidebar:
 * [Angular 2 y 4, componentes](https://www.udemy.com/componentes-angular-101){:target="_blank"} (Udemy)
 * [Angular 4: convertir un template HTML en una aplicación web](https://www.udemy.com/html-hacia-angular){:target="_blank"} (Udemy)
 * [Angular 4: instalación y componentes](https://www.udemy.com/introduccion-a-angular-4){:target="_blank"} (Udemy)
-* [Angular 5 y TypeScript; Introducción (2.017)](https://www.udemy.com/angular-5-y-typescript-curso-de-introduccion-paso-a-paso){:target="_blank"} (Udemy)
+* [Angular 5 y TypeScript; Introducción](https://www.udemy.com/angular-5-y-typescript-curso-de-introduccion-paso-a-paso){:target="_blank"} (Udemy) (2.017)
 * [Compodoc: crea documentación en proyectos Angular/Ionic](https://www.udemy.com/compodoc-crea-documentacion-en-angular-ionic){:target="_blank"} (Udemy)
 * [Curso de Angular 2](https://www.youtube.com/playlist?list=PLIcuwIrm4rKfkfJjKZ45oIskF9pI9p9n6){:target="_blank"} (Desarrolloweb.com, Youtube)
 * [Curso de Angular 2](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd){:target="_blank"} (Jesús Conde, Youtube)
 * [Curso de Angular 4](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8-9vxaY4BHRB9wlzUgPzD1){:target="_blank"} (Eduardo Ibarra, Youtube)
 * [Curso de Angular 4](https://www.youtube.com/playlist?list=PLEtcGQaT56chhi-qsqxIrUG_n9pXYCZ8z){:target="_blank"} (Jesús Conde, Youtube)
 * [Curso de Angular JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgHfdvGguisToK90z321pRl){:target="_blank"} (Jesús Conde, Youtube)
+* [Empezando con Angular 5](https://www.udemy.com/empezando-con-angular-5){:target="_blank"} (Udemy)
+* [Introducción a Angular 6](https://plataforma.keepcoding.io/p/curso_angular_6_intro){:target="_blank"} (Keep Coding)
+* [Introducción curso fundamentos Angular JS + HTML5 + CSS3](https://plataforma.keepcoding.io/p/introduccion-a-html5-css3-angularjs){:target="_blank"} (Keep Coding)
 
 [🔝 Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -620,10 +738,29 @@ sidebar:
 ## Ionic
 
 * [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He){:target="_blank"} (Eduardo Ibarra, Youtube)
+* [Curso de Ionic + Firebase](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_uPaY3MSr3dqG9DJTJ-XVC) (Eduardo Ibarra, Youtube)
+* [Curso de Ionic 2](https://www.youtube.com/playlist?list=PLEtcGQaT56chDQiMXvyee6XElAF4Bod4f) (Jesús Conde, Youtube)
+* [Curso de Ionic: Aprende a crear una aplicación móvil](https://www.youtube.com/playlist?list=PLPl81lqbj-4IzylAHYigeNB_Pob2WGGEG) (Eduardo Ibarra, Youtube)
+* [Curso de Ionic Framework](https://www.youtube.com/playlist?list=PLYPjmy5IVxT-7FV0uzpG2izFhGoE0Hq2y) (Eduardo Ibarra, Youtube)
+* [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He){:target="_blank"} (Eduardo Ibarra, Youtube)
+* [Ionic](https://www.youtube.com/playlist?list=PLEtcGQaT56chdXOZeYY8uyFeHqDZQqgVg){:target="_blank"} (Jesús Conde, YouTube)
+* [Ionic: crear una aplicación iOS o Android](https://www.udemy.com/curso-de-ionic-aprende-a-crear-una-aplicacion-ios-o-android){:target="_blank"} (Udemy)
+* [Ionic, introducción y creación de una app](https://www.youtube.com/playlist?list=PLEtcGQaT56chdXOZeYY8uyFeHqDZQqgVg){:target="_blank"} (Jesús Conde, Youtube)
 
-### Node <i class="fab fa-node-js"></i>
+## JQuery
 
+* [JQuery para implementar tus aplicaciones web (2017)](https://www.udemy.com/aprende-jquery-para-implementar-tus-aplicaciones-web){:target="_blank"} (Udemy)
+* [jQuery UI - Amplia los límites de jQuery](https://www.udemy.com/jquery-ui-amplia-los-limites-de-jquery){:target="_blank"} (Udemy)
+
+## Node <i class="fab fa-node-js"></i>
+
+* [Crear una REST API desde Cero con NodeJS y AdonisJS](https://www.udemy.com/course/curso-crea-una-rest-api-desde-cero-con-nodejs-y-adonisjs/){:target="_blank"} (Udemy) (2019)
+* [Curso de NodeJS](https://www.youtube.com/playlist?list=PL38CA7BD8CB5F3FF9){:target="_blank"} (Jesús Conde, Youtube)
+* [Desarrollo API Web Restful con NodeJS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgMsG-eOksskBHIb9Rq4VUG){:target="_blank"} (Jesús Conde, YouTube)
+* [Desarrollo de servicios en la nube con HTML5, JavaScript y node.js](https://miriadax.net/web/desarrollo-de-servicios-en-la-nube-con-html5-javascript-y-nodejs-2-edicion-){:target="_blank"} (MiriadaX)
 * [Introducción a JavaScript y Node.js](https://plataforma.keepcoding.io/p/intruduccion-javascript-node-js-express-mongodb-gratis){:target="_blank"} (Keep Coding)
+* [NodeJS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY3gY-ptuqkNEXZHsNwlkND){:target="_blank"} (Jon Mircha, YouTube)
+* [NodeJS](https://www.youtube.com/watch?v=VHOd-RBj1MA&list=PLvimn1Ins-41lVr-SPWF1mdNTzog05TcA{:target="_blank"} (Mito Code, Youtube)
 
 ## PhoneGap (Apache Cordoba)
 
@@ -631,9 +768,20 @@ sidebar:
 
 ## React <i class="fab fa-react"></i>
 
+## Software
+
+### Editores de Código
+
+* [Editores de Código: Brackets & Edge Code](https://www.udemy.com/brackets-edge-code){:target="_blank"} (Udemy)
+* [Editores de Código: Visual Studio Code y Sublime Text](https://www.udemy.com/course/visual-studio-code-y-sublime-text-se-rapido-para-codificar/){:target="_blank"} (Udemy) (2019)
+* [Herramientas de desarrollo y diseño web](https://www.udemy.com/recursos-web-plugins-y-utilidades){:target="_blank"} (Udemy)
+* [Herramientas para el desarrollador web](https://www.udemy.com/herramientas-para-el-desarrollador-web){:target="_blank"} (Udemy)
+
 ## Vue <i class="fab fa-vuejs"></i>
 
 * [Aprende VUE2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso){:target="_blank"} (WMedia)
+* [Curso de Vue JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cggm3J7XLzLUw_cgChgNYcQ){:target="_blank"} (Jesús Conde, Youtube)
+* [Primera aplicación con Vuejs 2, Vuez y SocketIO](https://www.udemy.com/primera-aplicacion-con-vuejs-2-vuex-y-socketio){:target="_blank"} (Udemy)
 
 [🔝 Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -656,13 +804,6 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-👇👇👇 🚧 "Cursos Pendientes de ReOrganizar" 🚧 Hasta la siguiente señalización 👇👇👇
-{: .notice--warning}
-
-## Desarrollo Web Continuación..
-
-[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
 ## Swift <i class="fab fa-apple"></i>
 
 * [Aprende Swift y SpriteKit con el juego piedra papel o tijera](https://www.udemy.com/course/aprende-swift-y-spritekit-con-el-juego-piedra-papel-o-tijera)
@@ -673,9 +814,13 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [El lenguaje de programación Swift](https://www.udemy.com/el-lenguaje-de-programacion-swift) (Udemy)
 * [Iniciación a Swift: mi primera app para iOs](https://www.udemy.com/curso-swift-3) (Udemy)
 * [Introducción a Fundamentos de Swift 3.0](https://plataforma.keepcoding.io/p/curso-introduccion-fundamentos-de-swift-3) (Keep Coding)
+* [Introducción a Objective C & iOS](https://plataforma.keepcoding.io/p/introduccin-a-objective-c-ios){:target="_blank"} (Keep Coding)
+* [Introducción a iOS Avanzado](https://plataforma.keepcoding.io/p/introduccion-programacion-ios-avanzada){:target="_blank"} (Keep Coding)
 * [Swift, las bases del lenguaje de Apple para hacer apps](https://www.udemy.com/swift-2-de-padawan-a-maestro-jedi) (Udemy)
 * [Soy iOS Dev. El mundo del desarrollo iOS](https://campusiosonline.com/courses/soy-ios-dev-el-mundo-del-desarrollo-ios)
 * [Swift 5 y Xcode 10 - Crea una App Calculadora desde 0 en iOS](https://www.udemy.com/course/curso-swift-5-xcode-10-crea-una-app-desde-cero-en-ios)
+* [Programando Apps de iOS](https://www.udemy.com/programando-apps-para-ios){:target="_blank"} (Udemy)
+* [XCode para iOS, iOS 6.1, Xcode 4.6](https://www.youtube.com/playlist?list=PLrfF-ThuRn5AqHTeS4W-5VPvCPLI8ioqs){:target="_blank"} (Eugenio Mendoza Robaina, YouTube)
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -683,8 +828,20 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 [Bootstrap <i class="fab fa-bootstrap"></i>](/cursos-tecnologia/#bootstrap-){: .btn .btn--inverse .btn--large} [Lenguaje de Estilos y Preprocesadores 🎨](/cursos-tecnologia/#lenguaje-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/cursos-tecnologia/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/cursos-tecnologia/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large}
 
+_____
+
 * [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
 * [Como crear una web básica desde cero](👨‍🏫-curso-crear-pagina-web-basica-desde-cero) (Purito Código, Youtube)
+* [Crea tu página web sin códigos ni complicaciones](https://www.udemy.com/crea-tu-pagina-web-sin-codigos-ni-complicaciones){:target="_blank"} (Udemy)
+* [Curso básico de Responsive Web Design](https://devcode.la/cursos/curso-basico-de-responsive-web-design){:target="_blank"} (DevCode)
+* [Curso de Diseño Web](https://www.youtube.com/playlist?list=PLhSj3UTs2_yXDfpTsKGd2iZTXZnsOTC8h) (Falcon Masters, Youtube)
+* [Desarrolla una página web con HTML y CSS](https://www.crehana.com/cursos/diseno-web/desarrolla-una-pagina-web-con-html-y-css){:target="_blank"} (Crehana)
+* [Diseño web con HTML5+CSS](https://miriadax.net/web/diseno-web-con-html5-css-2-edicion-){:target="_blank"} (MiriadaX)
+* [Diseño web creando un sitio web, paso a paso (2.017)](https://www.udemy.com/diseno-web-aprende-creando-un-sitio-web){:target="_blank"} (Udemy)
+* [Fundamentos del diseño UX](https://www.crehana.com/cursos/uxui/fundamentos-del-diseno-ux){:target="_blank"} (Crehana)
+* [Interfaces de usuario (2009)](http://ocw.uc3m.es/ingenieria-informatica/interfaces-de-usuario){:target="_blank"} (OCW)
+* [Menus responsive](http://jotajotavm.com/Menus-Responsive-00-Introduccion.html){:target="_blank"} (jotajotavm)
+* [Tutoriales de Diseño Web](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWwhmEyzXsTFnNXfatVMAfT){:target="_blank"} (Falcon Masters, Youtube)
 
 ## Bootstrap <i class="fab fa-bootstrap"></i>
 
@@ -693,6 +850,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [Bootstrap 4! Desde Cero](https://www.udemy.com/bootstrap-4-curso-desde-cero-2017-espanol) (Udemy)
 * [Bootstrap 4. Fundamentos: crea tu primer sitio responsive](https://www.udemy.com/curso-fundamentos-de-bootstrap-4) (Udemy)
 * [Crear temas para Wordpress utilizando Bootstrap 4](/👨‍🏫-curso-creacion-tema-wordpress-bootstrap-bluuweb) (Bluuweb!, YouTube)
+* [Curso completo de Boostrap 4! 2017 desde cero](https://www.youtube.com/playlist?list=PLPl81lqbj-4IcaAluUlCTmbYz0h9XQ8U1) (Bluuweb!, Youtube)
 * [Curso de Bootstrap 3](https://devcode.la/cursos/bootstrap3) (DevCode)
 * [Curso de Bootstrap 3](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-3-falcon-masters) (Falcon Masters, Youtube)
 * [Curso de Bootstrap 4](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-4-aula-ideal) (Aula Ideal, YouTube)
@@ -703,6 +861,14 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [La biblia perdida de Bootstrap 4](https://www.udemy.com/curso-la-biblia-perdida-de-bootstrap-4) (Udemy)
 * [PSD a HTML con Bootstrap 4!](https://www.udemy.com/curso-de-psd-a-html-con-bootstrap-4) (Udemy)
 
+## Dreamweaver <i class="fab fa-adobe"></i>
+
+* [Diseño de páginas web con Photoshop CS6](https://www.youtube.com/playlist?list=PLPl81lqbj-4Im51L2JZZZ2AxQ6u7b8HS6){:target="_blank"} (Bluuweb!, YouTube)
+* [Diseño de páginas web en Photoshop 6](https://www.udemy.com/curso-diseno-de-paginas-web-en-photoshop-cs6){:target="_blank"} (Udemy)
+* [Dreamweaver CC 2017](https://www.youtube.com/playlist?list=PLDQxj4bepx_nCFtYddm6faLvLhIb2lKCr){:target="_blank"} (Nelson Palomino, YouTube)
+* [Dreamweaver CS 4](https://www.youtube.com/playlist?list=PL2AC141307340E74B){:target="_blank"} (Aula Click, YouTube)
+* [Dreamweaver CS 5](https://www.youtube.com/playlist?list=PL7A75E72C644F2B3C){:target="_blank"} (Aula Click, YouTube)
+
 ## Lenguajes de Estilos y Preprocesadores 🎨
 <!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
 
@@ -710,12 +876,29 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 * [Aprende CSS para dar estilo a tus páginas web](https://www.udemy.com/aprende-css-para-dar-estilo-a-tus-paginas-web){:target="_blank"} (Udemy)
 * [Aprende las bases del CSS](https://www.udemy.com/curso-basico-de-css){:target="_blank"} (Udemy)
-
-
 * [Como crear galerías sencillas y varios efectos en CSS Purito Código](/👨‍🏫-galerias-varios-efectos-css-purito-codigo) (Purito Código, Youtube)
+* [Curso básico de CSS desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR){:target="_blank"} (Falcon Masters, Youtube)
+* [Curso CSS Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpUDdnWSglIIHfIosElaVN) (Pildoras Informáticas, Youtube)
+* [Curso de CSS3 y Flexbox, 2017](https://www.youtube.com/playlist?list=PLPl81lqbj-4LGQgD3f0WPIol1RT8fML3u) (Bluuweb!, Youtube)
 * [CSS desde Cero](https://ed.team/cursos/css) (EdTeam)
 * [CSS Grid](/👨‍🏫-curso-css-grid-purito-codigo) (Purito Código, Youtube)
 * [CSS Variables](https://ed.team/cursos/variables-css) (EdTeam)
+
+### Flexbox
+
+* [Flexbox - Armar un sitio web responsive con CSS3](https://www.youtube.com/playlist?list=PLPl81lqbj-4JfZ9Ln5ojAl1GiORf2aK9U){:target="_blank"} (Falcon Masters, Youtube)
+* [Flexbox desde 0](https://www.udemy.com/curso-de-flexbox-desde-0){:target="_blank"} (Udemy)
+* [Flexbox y CSS3](https://www.udemy.com/css3-para-principiantes){:target="_blank"} (Udemy)
+
+## LESS <i class="fab fa-less"></i>
+
+* [LESS de cero a experto](https://www.udemy.com/less-de-cero-a-experto){:target="_blank"} (Udemy)
+
+### SASS <i class="fab fa-sass"></i>
+
+* [CSS con SASS](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVyMlZyW-NAbgjtgAgLBzFP){:target="_blank"} (Falcon Masters, YouTube)
+* [Curso de SASS Básico. Principantes paso a paso](https://www.youtube.com/playlist?list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP){:target="_blank"} (Bluuweb!, Youtube)
+* [SASS para principantes: paso a paso, desde cero](https://www.udemy.com/curso-de-sass-para-principiantes-paso-a-paso-y-desde-cero){:target="_blank"} (Udemy)
 
 ## Lenguajes de Marcado ✍
 <!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml, markdown  -->
@@ -733,13 +916,34 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [Cómo crear una página web. Introducción a HTML5 y CSS3](https://www.udemy.com/como-crear-una-pagina-web-introduccion-a-html5-y-css3){:target="_blank"} (Udemy)
 * [Cómo crear una página web en 30 minutos](https://www.udemy.com/como-crear-una-pagina-web-en-30-minutos){:target="_blank"} (Udemy)
 * [Cómo programar para emprendedores, HTML y CSS](https://www.udemy.com/programacion-para-emprendedores){:target="_blank"} (Udemy)
-* [Curso de HTML 5](/👨‍🏫-curso-html-purito-codigo) (Purito Código, Youtube)
+* [Curso básico de HTML desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVHt2DgHky_MzzRC58UHE4z){:target="_blank"} (Falcon Masters, Youtube)
+* [Curso de HTML5](/👨‍🏫-curso-html-purito-codigo) (Purito Código, Youtube)
+* [Curso de HTML y CSS Gratis](https://devcode.la/cursos/html-css) (DevCode)
+* [Curso de HTML5](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK) (Pildoras Informáticas, Youtube)
+* [Desarrollo Web con HTML5 y CSS3 desde cero](https://www.udemy.com/curso-html5-css3){:target="_blank"} (Udemy)
+* [Desarrollo Web Responsive con HTML5 y CSS3](https://www.udemy.com/introduccion-al-web-responsive-html5-css3){:target="_blank"} (Udemy)
+* [HTML + CSS + Javascript para principiantes. Desarrollo web](https://www.udemy.com/html5-css3-desde-0-intro-gratis-javascript){:target="_blank"} (Udemy)
 * [HTML desde Cero](https://ed.team/cursos/html) (EdTeam)
+* [HTML5](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK){:target="_blank"} (PildorasInformaticas, YouTube)
+* [HTML5 desde cero hasta crear una página web responsive](https://www.udemy.com/html-5-desde-cero-hasta-crear-una-pagina-web-responsive){:target="_blank"} (Udemy)
+* [HTML5 y CSS3 (2016)](https://www.youtube.com/watch?v=_Swi5_rmztg&list=PLPl81lqbj-4KaMYQ9nrh-NjTIcgmbL1V2){:target="_blank"} (Blueeweb!, Youtube)
+* [HTML5 y CSS3 - Paso a paso y práctico - Crea sitios web!](https://www.udemy.com/curso-html5-css3){:target="_blank"} (Udemy)
+* [Introducción a la Web Responsable con HTML5 y CSS3](https://www.udemy.com/introduccion-al-web-responsive-html5-css3/){:target="_blank"} (Udemy)
+* [Los cimientos de un desarrollador web: HTML](https://www.udemy.com/los-cimientos-de-un-desarrollador-web-html){:target="_blank"} (Udemy)
+* [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html){:target="_blank"} (OCW)
 
 ### Markdown <i class="fab fa-markdown"></i>
 
 * [Aprenda Markdown desde Cero](https://www.udemy.com/course/aprenda-markdown-desde-cero/) (Udemy)
 * [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
+
+### XML
+
+* [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html){:target="_blank"} (OCW)
+
+## Polymer
+
+* [Introducción a Polymer & web componentes](https://plataforma.keepcoding.io/p/introduccion-polymer-web-components-gratis){:target="_blank"} (Keep Coding)
 
 ## Sistemas de Plantillas 🌱
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
@@ -769,6 +973,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [Programación Unity 2: Clases time y vector3](https://www.udemy.com/libreria-unity-engine-2-clases-time-y-vector3) (Udemy)
 * [Programación Unity 3: Clase input](https://www.udemy.com/libreria-unity-engine-3-clase-input) (Udemy)
 * [Programación Unity 4: Clase transform](https://www.udemy.com/libreria-unity-engine-4-clase-transform) (Udemy)
+* [Silverlight y WPF](https://www.youtube.com/playlist?list=PL265CF049664D2886){:target="_blank"} (Jaime Rocha, YouTube)
 * [Tu primer videojuego 2D multiplataforma con Unity 5](https://www.udemy.com/unity-5-primer-videojuego-2d-multiplataforma) (Udemy)
 * [Unity 5: Creando un juego para PC](https://www.udemy.com/curso-unity-5-creando-un-juego-para-pc) (Udemy)
 * [Unreal Engine para principiantes](https://www.udemy.com/unreal-engine-principiantes) (Udemy)
@@ -815,6 +1020,9 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [Redes Locales](https://www.youtube.com/playlist?list=PL560563E196C1A85D) (Luis Pérez, YouTube)
 * [Redes Multimedia (2016)](http://ocw.uc3m.es/ingenieria-telematica/redes-multimedia) (OCW)
 * [Sistemas de telecomunicación privados (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6511&p_caca=2010) (OCW)
+* [Software de comunicaciones (2009)](http://ocw.uc3m.es/ingenieria-telematica/software-de-comunicaciones){:target="_blank"} (OCW)
+* [Tecnologías de distribuición de contenidos (2012)](http://ocw.uc3m.es/ingenieria-telematica/tecnologias-de-distribucion-de-contenidos){:target="_blank"} (OCW)
+* [Telemática (2008)](http://ocw.uc3m.es/cursos-archivados/telematica){:target="_blank"} (OCW)
 * [Virtualización](http://nksistemas.com/curso-de-virtualizacion-online-y-gratuito-indice) (HTML)
 * [Windows Server 2008 R2](http://nksistemas.com/curso-windows-server-2008-r2) (HTML)
 * [Windows Server 2012](http://nksistemas.com/category/infraestructura/windows-2012) (HTML)
@@ -884,6 +1092,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 ## Inteligencia Artificial
 
+* [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos){:target="_blank"} (Coursera)
 * [Herramientas de la Inteligencia Artificial (2010)](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial) (OCW)
 * [Inteligencia artificial: Clips (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=112) (OCW)
 * [Inteligencia artificial: Prolog (2011)](https://campusvirtual.ull.es/ocw/course/view.php?id=104) (OCW)
