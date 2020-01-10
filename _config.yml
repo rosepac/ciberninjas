@@ -23,7 +23,7 @@ title: Ciberninjas ▷ Escuela Laboratorio
 email: rosepac21@gmail.com
 name: "Pablo Álvarez Corredera"
 description: >- # this means to ignore newlines until "baseurl:"
-  'La Mejor Biblioteca de Recursos Gratuitos de Internet: Libros en PDF, Cursos, Artículos y Herramientas para Estudiar y Aprender Tecnología.'
+  'Cómo aprender programación, crear aplicaciónes web, machine learning, robótica o ciberseguridad. La mejor página de recursos gratis de Internet: Libros en PDF, cursos, artículos y herramientas para estudiar tecnología.'
 url: "https://ciberninjas.com"
 # baseurl:
 repository: "rosepac/ciberninjas"
@@ -184,7 +184,7 @@ defaults:
 #      related: true
   # _guias
   - scope:
-      path: ""
+      path: "_guias"
       type: guias
     values:
       layout: single
@@ -195,7 +195,7 @@ defaults:
       related: false
   # _catalogo
   - scope:
-      path: ""
+      path: "_catalogo"
       type: catalogo
     values:
       layout: single
@@ -206,7 +206,7 @@ defaults:
       related: false
     # _biblioteca
   - scope:
-      path: ""
+      path: "_biblioteca"
       type: biblioteca
     values:
       layout: single
@@ -217,7 +217,7 @@ defaults:
       related: true
   # _glosario
   - scope:
-      path: ""
+      path: "_glosario"
       type: glosario
     values:
       layout: single
@@ -232,7 +232,7 @@ defaults:
         # nav: "docs"
   # _wiki
   - scope:
-      path: ""
+      path: "_wiki"
       type: wiki
     values:
       layout: single
@@ -243,7 +243,7 @@ defaults:
       related: false
   # _historia-computadora
   - scope:
-      path: ""
+      path: "_historia-computadora"
       type: historia-computadora
     values:
       layout: single
@@ -254,7 +254,7 @@ defaults:
       related: false
   # _personajes-historicos
   - scope:
-      path: ""
+      path: "_personajes-historicos"
       type: personajes-historicos
     values:
       layout: single
@@ -265,7 +265,7 @@ defaults:
       related: true
     # _electronic-frontier-foundation
   - scope:
-      path: ""
+      path: "_eff"
       type: eff
     values:
       layout: single
@@ -285,7 +285,7 @@ defaults:
       share: true
       related: true
   - scope:
-      path: ""
+      path: "_amazon"
       type: amazon
     values:
       layout: single
