@@ -1,14 +1,14 @@
 ---
-title: 🐍 ▷ Cómo Aprender Python
-description: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
-excerpt: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
+title: 🐍 ▷ Cómo Aprender Python 2020
+description: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
+excerpt: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
 published: true
 author: rosepac
 author_profile: true
 classes: wide
 comments: true
 date: 2019-06-30 12:06:18
-last_modified_at: 2019-12-29
+last_modified_at: 2020-01-10
 permalink: /python/
 header:
   teaser: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
@@ -22,7 +22,7 @@ header:
       url: "/python-recursos/"
 ---
 
-[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién esta usando Python?](/python/#quién-esta-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#bibliotecas){: .btn .btn--inverse .btn--large}
+[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién esta usando Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#librerías-de-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large}
 <!-- [](){: .btn .btn--inverse .btn--large} -->
 
 
@@ -102,18 +102,18 @@ En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrad
 [🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿Cómo desarrollar una aplicación web con Python?
-
+<!-- https://www.fullstackpython.com/ -->
 ### Frameworks Web
 
 <!-- https://www.fullstackpython.com/other-web-frameworks.html -->
-* Django
-* Flask
-* Bottle
-* Pyramid
-* TurboGears
-* Falcon
-* Morepath
-* Sanic
+* [Django](/python/#django)
+* [Flask](/python/#flask)
+* [Bottle](/python/#bottle)
+* [Pyramid](/python/#pyramid)
+* [TurboGears](/python/#turbogears)
+* [Falcon](/python/#falcon)
+* [Morepath](/python/#morepath)
+* [Sanic](/python/#sanic)
 * [Otros Frameworks](/python/#otros-frameworks)
 
 ## Django
@@ -176,19 +176,21 @@ Falcon es un framework compatible con WSGI diseñado para construir API RESTful 
 
 ## MorePath
 
-![]("Logotipo del framework de python: morepath")
+![](https://i.ibb.co/ZVqyB6j/7cf96e98-ddee-11e6-9449-cf89cd9a756f.png "Logotipo del framework de python: morepath")
 
 MorePath es un micro framework web enfocado en crear aplicaciones web o API´s. La filosofía de Morepath es el modelo de datos. Por defecto, el marco enruta las URL directamente al código del modelo, a diferencia de, por ejemplo, Django, que requiere un enrutamiento de URL explícito por parte del desarrollador.
 
-[🐍 Framework MorePath 🐍](https://cherrypy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación MorePath 🐍](https://docs.cherrypy.org/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework MorePath Github 🐍](https://morepath.readthedocs.io/en/latest/quickstart.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación MorePath 🐍](https://morepath.readthedocs.io/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 ## Sanic
 
-![]("Logotipo del framework de python: sanic")
+![](https://i.ibb.co/9cmBMK5/sanic-framework-logo-400x97.png "Logotipo del framework de python: sanic")
 
-[🐍 Framework Sanic 🐍](https://cherrypy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación Sanic 🐍](https://docs.cherrypy.org/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+Sanic es un framework web de Python construido en uvloop y diseñado para respuestas HTTP rápidas a través del manejo de solicitudes asíncronas. El objetivo del proyecto es proporcionar una forma simple de poner en funcionamiento un servidor HTTP de alto rendimiento que sea fácil de construir, expandir y, en última instancia, escalar.
+
+[🐍 Framework Sanic Github 🐍](https://github.com/huge-success/sanic#sanic--build-fast-run-fast){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Sanic 🐍](https://sanic.readthedocs.io/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 ### Otros Frameworks
 
@@ -251,7 +253,7 @@ Ray es un framework para construir API RESTful, similar a Falcon. La publicació
 https://rayframework.github.io/site/
 {: .notice--warning}
 
-### Librerías de Python
+### Bibliotecas de Python
 
 En este espacio vamos a analizar las 10 mejores y más reconocidas bibliotecas de Python, las cuales los desarrolladores pueden utilizar para implementar el aprendizaje automático dentro de sus aplicaciones existentes.
 
@@ -590,8 +592,9 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 
 [🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🐍 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--inverse .btn--large .align-center}
-
-<a href="https://ouo.io/HzZZJA" title="Los Mejores Libros en PDF de Python" class="btn btn--inverse btn--large">Libros Python</a> <a href="https://ouo.io/CNr4s3" title="Encuentra recursos de Python" class="btn btn--inverse btn--large">Cursos Python</a>
-
 [🐍 Aprender Aprendizaje Profundo 🐍](/que-aprender-sobre-machine-learning-2020/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+_____
+
+[📕 Libros Python 🐍](/biblioteca-de-programacion-y-tecnologia/#python-){: .btn .btn--inverse .btn--large}
+ [🎓 Cursos Python 🐍](/cursos-tecnologia/#python-){: .btn .btn--inverse .btn--large}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--inverse .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--inverse .btn--large}
