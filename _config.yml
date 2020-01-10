@@ -275,7 +275,7 @@ defaults:
       share: true
       related: false
   - scope:
-      path: ""
+      path: "_pac"
       type: pac
     values:
       layout: single
