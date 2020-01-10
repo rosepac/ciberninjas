@@ -13,5 +13,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "html-proofer"
-  gem 'faraday', '0.17.3
+  gem 'faraday', '0.17.3'
 end
