@@ -38,11 +38,25 @@ classes: wide
 
 ## Noticias Tecnología en Español
 
-[📰 Tecnología en Español](https://twitter.com/ciberninjas/lists/tecnolog-a-en-espa-ol){: .btn .btn--inverse .btn--large}{:target="_blank"}
+[📰 Tecnología en Español](https://twitter.com/ciberninjas/lists/tecnolog-a-en-espa-ol){: .btn .btn--inverse .btn--large}{:target="_blank"} [🎤 Podcasts Geeks](https://twitter.com/ciberninjas/lists/podcast-geeks){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
-## Programación
+## Lenguajes de Programación
 
-[🎮 Novedades de los Mejores Videojuegos](https://twitter.com/ciberninjas/lists/videojuegos1){: .btn .btn--inverse .btn--large}{:target="_blank"}
+### Python
+
+[👩‍💻 Devs. Python](https://twitter.com/ciberninjas/lists/devs-python){: .btn .btn--inverse .btn--large}{:target="_blank"} [🐍 Python ⚙ Frameworks](https://twitter.com/ciberninjas/lists/python-frameworks){: .btn .btn--inverse .btn--large}{:target="_blank"} [👩‍💻 Sobre Python](/python-directo/){: .btn .btn--inverse .btn--large}{:target="_blank"}
+
+### PHP
+
+[👩‍💻 Devs. PHP](https://twitter.com/ciberninjas/lists/devs-php){: .btn .btn--inverse .btn--large}{:target="_blank"}
+
+### Javascript
+
+[🎺 Javascript ⚙ Frameworks](https://twitter.com/ciberninjas/lists/javascript-framework){: .btn .btn--inverse .btn--large}{:target="_blank"}
+
+## Frameworks
+
+[⚙ Frameworks](https://twitter.com/ciberninjas/lists/frameworks-en-espa-ol){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 ## 🎨 Diseño Gráfico
 
@@ -50,7 +64,7 @@ classes: wide
 
 ## 🎮 Videojuegos
 
-[▶ Directorio de Empresas de Videojuegos Españolas](https://twitter.com/ciberninjas/lists/videojuegos-empresas){: .btn .btn--inverse .btn--large}{:target="_blank"} [▶ Novedades de los Mejores Videojuegos](https://twitter.com/ciberninjas/lists/videojuegos1){: .btn .btn--inverse .btn--large}{:target="_blank"}
+[▶ Directorio de Empresas de Videojuegos Españolas](https://twitter.com/ciberninjas/lists/videojuegos-empresas){: .btn .btn--inverse .btn--large}{:target="_blank"} [▶ Desarrolladores, Amantes, Gamers, Compañías](https://twitter.com/ciberninjas/lists/videojuegos2){: .btn .btn--inverse .btn--large}{:target="_blank"} [▶ Novedades de Videojuegos Internacionales](https://twitter.com/ciberninjas/lists/videojuegos1){: .btn .btn--inverse .btn--large}{:target="_blank"} [▶ Videojuegos Retro](https://twitter.com/ciberninjas/lists/videojuegos-retro){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 ## 📰 Noticias Generalistas
 
@@ -61,6 +75,12 @@ classes: wide
 [Editores de Código ✍](https://twitter.com/ciberninjas/lists/editores-de-c-digo1){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 [🎮 Novedades de los Mejores Videojuegos](https://twitter.com/ciberninjas/lists/videojuegos1){: .btn .btn--inverse .btn--large}{:target="_blank"}
+
+## 👷‍♂️ Webmaster
+
+## Seo y Posicionamiento 🔍
+
+[Seo y Posicionamiento 🕵️‍♀️](https://twitter.com/ciberninjas/lists/seo-y-posicionamiento1){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 ## 🌐 Eventos de Tecnología
 

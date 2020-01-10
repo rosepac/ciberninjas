@@ -37,6 +37,10 @@ Gestor y Lector de Correos Electrónicos (también se le pueden agregar las fuen
 * [Thunderbird](https://support.mozilla.org/en-US/kb/how-subscribe-news-feeds-and-blogs) si bien, desde hace unos meses he dejado de usarlo, puesto que requería demasiado consumo de memoria (8 Gb o más, si deseas mantenerlo siempre abierto junto a más programas) este software de la Fundación Mozilla, es un software que me encanta; ofrece un espectacular diseño de interfaz de usuario y permite gestionar de la mejor forma posible todos tus correos; listarlos, ordenarlos, etiquetarlos, separarlos por carpetas; permite sincronizacióm POP o IMAP, personalización del diseño. Por si fuese poco, te permite incluir un calendario (Lightning) incluso junto a una lista de tareas.
     - Si lo que deseas es controlar tu correo electrónico o unas fuentes de RSS muy concretas de forma continua e instantanea, seguramente es la mejor opción.
 
+## CMS
+
+* Jekyll, Prestashop, [Tiddly Wiki](https://tiddlywiki.com/)..
+
 ### Léxico
 
 DiRae o [One Look](https://www.onelook.com/index.php), varios dicciones en un solo lugar.
@@ -90,6 +94,8 @@ Abrir varios enlaces a la vez, de una sola selección.
 * [Wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=es)
 
 Una modernización de la actual Wikipedia.
+
+* Whatruns, Visual Inspector, Whatfont, ColorZilla, Clear Cache, Dimensions, Lighthouse, Adblock Plus, 
 
 ## Mis Aplicaciones Realmente Favoritas
 
