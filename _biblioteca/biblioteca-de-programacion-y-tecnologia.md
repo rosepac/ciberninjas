@@ -706,6 +706,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Python. No muerde, yo sí.](https://media.readthedocs.org/pdf/python-no-muerde/latest/python-no-muerde.pdf){:target="_blank"} (PDF) [(HTML)](https://python-no-muerde.readthedocs.io/es/latest){:target="_blank"}
 * [Tryton: gestión de empresas](https://media.readthedocs.org/pdf/tryton-ar/latest/tryton-ar.pdf){:target="_blank"} (PDF) [(HTML)](https://tryton-ar.readthedocs.io/es/latest/introduccion.html){:target="_blank"}
 
+## Python Frameworks <i class="fab fa-python"></i>
 
 ### Django
 
@@ -789,6 +790,8 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
 
 ## 👷‍♂️ Webmaster
+
+[Accesibilidad Web ♿](/biblioteca-de-programacion-y-tecnologia/#accesibilidad-web-){: .btn .btn--inverse .btn--large} [Análitica Web 📈](/biblioteca-de-programacion-y-tecnologia/#análitica-web-){: .btn .btn--inverse .btn--large} [Marketing Digital 🏪](/biblioteca-de-programacion-y-tecnologia/#marketing-digital-){: .btn .btn--inverse .btn--large} [Instagram <i class="fab fa-instagram"></i>](/biblioteca-de-programacion-y-tecnologia/#instagram-){: .btn .btn--inverse .btn--large} [Seo y Posicionamiento 🔍](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-){: .btn .btn--inverse .btn--large}
 
 ## Accesibilidad Web ♿
 

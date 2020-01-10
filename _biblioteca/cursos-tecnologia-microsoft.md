@@ -89,6 +89,7 @@ A tener en cuenta, que se debe iniciar sesión a través de una [cuenta de Outlo
 
 * [Definición de una estrategia de inteligencia artificial para crear valor empresarial](https://docs.microsoft.com/es-es/learn/paths/ai-strategy-for-business-value){:target="_blank"}
 * [Descubrimiento de formas de fomentar una cultura preparada para la inteligencia artificial en su negocio](https://docs.microsoft.com/es-es/learn/paths/foster-ai-ready-culture){:target="_blank"}
+* [Elementos de la Inteligencia Artificial](https://www.elementsofai.com/eu2019fi){:target="_blank"} (Universidad de Helsinki)
 * [Escuela de negocios de inteligencia artificial para el sector educativo](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-education){:target="_blank"}
 * [Escuela de negocios de inteligencia artificial para el sector de fabricación](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-manufacturing){:target="_blank"}
 * [Escuela de negocios de inteligencia artificial para el sector gubernamental](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-government){:target="_blank"}
