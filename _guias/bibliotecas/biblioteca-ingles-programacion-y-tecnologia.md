@@ -1,13 +1,13 @@
 ---
 # Página Base
-title: "📚 ▷ Más de 1.500 Libros PDF de Desarrollo Web, Programación, Seguridad, Robótica, Blockchain, Domótica y Mucho Más"
-description: "🚀 Biblioteca de PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
-excerpt: "🚀 Biblia de Libros PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
+title: "📚 ▷ Más de 1.500 Libros PDF en Inglés de Desarrollo Web, Programación, Seguridad, Robótica, Blockchain, Domótica y Mucho Más"
+description: "🚀 Biblioteca de libros PDF Online en Inglés, con los que aprender Desarrollo Web, Seguridad, Robótica, Redes, Criptomonedas, Domótica, & Más ¡💥 100% GRATIS 💥!"
+excerpt: "🚀 Biblioteca de libros PDF Online en Inglés, con los que aprender Desarrollo Web, Seguridad, Robótica, Redes, Criptomonedas, Domótica, & Más ¡💥 100% GRATIS 💥!"
 author_profile: true
-date: 2019-10-30T20:40:00.000+00:00
-last_modified_at: 2019-10-30T20:42:42-05:00
-permalink: /biblioteca-de-programacion-y-tecnologia/
-published: false
+date: 2019-12-27T14:40:00.000+00:00
+last_modified_at: 2020-01-10T10:42:42-05:00
+permalink: /biblioteca-de-programacion-y-tecnologia-ingles/
+published: true
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
 #   width: 1024
@@ -22,7 +22,7 @@ toc_sticky: false
 
 ---
 
-### Listas meta
+### Meta Listas
 
 - [atariarchives.org](https://www.atariarchives.org/){:target="_blank"} atariarchives.org pone a disposición en la Web libros, información y software para Atari y otras computadoras clásicas.
 - [Bento](https://www.bento.io/){:target="_blank"}
@@ -44,7 +44,6 @@ toc_sticky: false
 - [Microsoft Technologies 1, que incluye libros sobre Windows Azure, SharePoint, Visual Studio Guide, desarrollo de teléfonos Windows, ASP.net, Office365, etc. colección de Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/){:target="_blank"}
 - [Microsoft Technologies 2, que incluye libros sobre Windows Azure, SharePoint, Visual Studio Guide, desarrollo de teléfonos Windows, ASP.net, etc. colección de Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/){:target="_blank"}
 - [Microsoft Technologies 3, incluidos libros sobre Windows Azure, SharePoint, Visual Studio Guide, desarrollo de teléfonos Windows, ASP.net, etc. colección de Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/){:target="_blank"}
-- [O'Reilly's Commons](https://commons.oreilly.com/wiki/index.php/O'Reilly_Commons){:target="_blank"}
 - [Proyecto de libros abiertos de O'Reilly](https://www.oreilly.com/openbook/){:target="_blank"}
 - [Papeles que amamos](https://github.com/papers-we-love/papers-we-love){:target="_blank"}
 - [Programación](https://en.wikibooks.org/wiki/Category%3aComputer_programming){:target="_blank"} - Wikilibros
@@ -609,7 +608,7 @@ toc_sticky: false
 - [Lenguaje ensamblador de manera sucinta](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage) (PDF)
 - [Lenguaje ensamblador de PC](https://drpaulcarter.com/pcasm/) - PA Carter
 - [Lenguaje profesional de ensamblaje](https://web.archive.org/web/20170329045538/https://blog.hit.edu.cn:80/jsx/upload/AT＆TAssemblyLanguage.pdf) (PDF)
-- [Programación desde cero](https://mirror.unicorncloud.org/savannah-nongnu//pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
+- [Programación desde cero](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) - Jonathan Bartlett (PDF)
 - [Lista de interrupciones de Ralf Brown](https://www.ctyme.com/rbrown.htm)
 - [Recursos de optimización de software](https://www.agner.org/optimize/) - A. Niebla
 - [Código de mago](https://vendu.twodots.nl/wizardcode.html)
@@ -693,7 +692,7 @@ toc_sticky: false
 - [Funcional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
 - [Aprenda a codificar con C - MagPi Essentials](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf) (PDF)
 - [Modelado con datos](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
-- [Modern C](https://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF)
+- [Moderno C](https://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF)
 - [Programación orientada a objetos con ANSI-C](https://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 - [Programación en C](https://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala y Tep Dobry
 - [El libro C](https://publications.gbdirect.co.uk/c_book/)
@@ -974,7 +973,7 @@ toc_sticky: false
 - [Tutorial de Ry's Git](https://web.archive.org/web/20161121145226/https://rypress.com:80/tutorials/git/index) - Ryan Hodson
 - [Piensa como (a) Git: una guía para perplejos](https://think-like-a-git.net/)
 
-### Ir
+## Go
 
 - [Una introducción a la programación en Go](https://www.golang-book.com/)
 - [Crear una aplicación web con Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
@@ -990,6 +989,7 @@ toc_sticky: false
 - [The Go Tutorial](https://tour.golang.org/)
 - [El pequeño libro de Go](https://github.com/karlseguin/the-little-go-book)
 - [Aplicaciones web en Go, el anti libro de texto](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+- [Los Libros Sobre el Lenguaje de Programación Go](/los-libros-mas-impresionantes-sobre-go/)
 
 ### Maravilloso
 
@@ -1079,7 +1079,7 @@ toc_sticky: false
 - [Entendiendo Flexbox: todo lo que necesita saber](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 - [API de audio web](https://chimera.labs.oreilly.com/books/1234000001552) : Boris Smus
 
-#### Oreja
+#### Bootstrap
 
 - [Twitter Bootstrap 3 Sucintamente](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap3) (PDF, Kindle) (dirección de correo electrónico *solicitado* , no se requiere)
 - [Twitter Bootstrap sucintamente](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) (PDF, Kindle) (dirección de correo electrónico *solicitada* , no requerida)
@@ -1176,7 +1176,7 @@ toc_sticky: false
 
 - [La última guía de JasperReports, tercera edición](https://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
 
-#### Primavera
+#### Spring
 
 - [Documentación de referencia de Spring Framework](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/) : Rod Johnson, Juergen Hoeller, Keith Donald, Colin Sampaleanu, Rob Harrop, Thomas Risberg, Alef Arendsen, Darren Davison, Dmitriy Kopylenko, Mark Pollack, Thierry Templier, Erwin Vervaet, Portia Tung, Ben Hale, Adrian Colyer, John Lewis, Costin Leau, Mark Fisher, Sam Brannen, Ramnivas Laddad, Arjen Poutsma, Chris Beams, Tareq Abedrabbo, Andy Clement, Dave Syer, Oliver Gierke, Rossen Stoyanchev, Phillip Webb, Rob Winch, Brian Clozel, Stephane Nicoll, Sebastien Deleuze ( [PDF](https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/index.pdf) )
 
@@ -1184,21 +1184,20 @@ toc_sticky: false
 
 - [Guía de referencia de Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/) - Phillip Webb, Dave Syer, Josh Long, Stéphane Nicoll, Rob Winch, Andy Wilkinson, Marcel Overdijk, Christian Dupuis ( [PDF](https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf) , [EPUB](https://docs.spring.io/spring-boot/docs/current/reference/epub/spring-boot-reference.epub) )
 
-#### Seguridad de primavera
+#### Spring Seguridad
 
-- [Referencia de seguridad de primavera](https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) - Ben Alex, Luke Taylor, Rob Winch
+- [Referencias de seguridad en Spring](https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) - Ben Alex, Luke Taylor, Rob Winch
 
 #### Postigo
 
 - [Guía oficial gratuita en línea para el marco de Apache Wicket](https://wicket.apache.org/learn/#guide)
 
-### JavaScript
+## <i class="fab fa-js"></i> JavaScript
 
 - [JavaScript básico para el programador impaciente](https://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer
 - [Libro de herramientas modernas de frontend](https://github.com/tooling/book-of-modern-frontend-tooling)
 - [JavaScript de Crockford](https://www.crockford.com/javascript/) - Douglas Crockford
 - [Dev Docs](https://devdocs.io/)
-- [Desarrollo de aplicaciones Backbone.js](https://addyosmani.github.io/backbone-fundamentals/) - Addy Osmani
 - [Directorio de libros electrónicos Javascript gratuitos](https://jsbooks.revolunet.com/)
 - [Eloquent JavaScript 2nd edition](https://eloquentjavascript.net/) - Marijn Haverbeke
 - [Explorando ES6](https://exploringjs.com/es6/) - Dr. Axel Rauschmayer
@@ -1231,13 +1230,14 @@ toc_sticky: false
 - [Oh mi JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov
 - [Patrones para la arquitectura de aplicaciones JavaScript a gran escala](https://addyosmani.com/largescalejavascript/) - Addy Osmani
 - [Hablando JavaScript](https://speakingjs.com/es5/) - Dr. Axel Rauschmayer
-- [El tutorial de JavaScript](https://javascript.info/)
+- [El tutorial de JavaScript, con amplio buscador](https://javascript.info/)
 - [La forma JavaScript](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
 - [El problema con las API de JavaScript nativas](https://chimera.labs.oreilly.com/books/1234000001655/index.html)
 - [Pensando en JavaScript](https://www.packtpub.com/packt/free-ebook/thinking-in-javascript) - Aravind Shenoy, Packt. (dirección de correo electrónico *solicitada* , no requerida)
 - [Entendiendo ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas
-- [Comprensión de JavaScript OOP ](https://robotlolita.me/2011/10/09/understanding-javascript-oop.html)*(Sorella)*
+- [Comprensión de JavaScript OOP](https://robotlolita.me/2011/10/09/understanding-javascript-oop.html) (2015)
 - [Usted no sabe js](https://github.com/getify/You-Dont-Know-JS)
+- [Manual de Javascript](https://flaviocopes.nyc3.digitaloceanspaces.com/js-handbook/js-handbook.pdf) (2018)
 
 #### Angular.js
 
@@ -1643,7 +1643,7 @@ toc_sticky: false
 - [Think Perl 6](https://greenteapress.com/thinkperl6/thinkperl6.pdf) - Laurent Rosenfeld, con Allen B. Downey (PDF)
 - [Usando Perl 6](https://github.com/perl6/book/) (🚧 *proyecto está muerto* )
 
-### PHP
+## PHP <i class="fab fa-php"></i>
 
 - CakePHP Framework
 	- [CakePHP Cookbook 2.x](https://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
@@ -1674,6 +1674,11 @@ toc_sticky: false
 - [Programación práctica de PHP](https://www.hackingwithphp.com/)
 - [Pruebas prácticas de PHP](https://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 - [Sobrevivir al extremo profundo: seguridad PHP](https://phpsecurity.readthedocs.org/en/latest/)
+
+## PHP Frameworks <i class="fab fa-php"></i>
+
+### Symfony
+
 - Marco de Symfony
 	- Symfony 2.8
 		- [El libro de Symfony 2.8.x](https://symfony.com/pdf/Symfony_book_2.8.pdf) (PDF)
@@ -1701,7 +1706,7 @@ toc_sticky: false
 - [PostgreSQL práctico](https://www.faqs.org/docs/ppbook/book1.htm)
 - [Lo interno de PostgreSQL para administradores de bases de datos y desarrolladores de sistemas](https://www.interdb.jp/pg)
 
-### Potencia Shell
+### Power Shell
 
 - [Crear informes HTML en PowerShell](https://www.gitbook.com/book/devopscollective/creating-html-reports-in-powershell/details) (PDF, ePub, HTML)
 - [DevOps: la perspectiva de Ops](https://www.gitbook.com/book/devopscollective/devops-the-ops-perspective/details) (PDF, ePub, MOBI)
@@ -1753,9 +1758,9 @@ toc_sticky: false
 
 - [PureScript por ejemplo](https://leanpub.com/purescript/read) - Phil Freeman
 
-### Pitón
+## Python <i class="fab fa-python"></i>
 
-- [20 bibliotecas de Python que no está utilizando (pero debería)](https://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp) (dirección de correo electrónico *solicitada* , no requerida)
+- [20 bibliotecas de Python que no estas utilizando (pero deberías)](https://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp) (dirección de correo electrónico *solicitada* , no requerida)
 
 - [Tutorial de Python para principiantes](https://en.wikibooks.org/wiki/A_Beginner's_Python_Tutorial) - Wikilibros
 
@@ -1942,7 +1947,9 @@ toc_sticky: false
 
 - [Web2py: Complete Reference Manual, 6th Edition (pre-release)](https://web2py.com/book) (2.5 - 2.x)
 
-#### Django
+## Python Frameworks <i class="fab fa-python"></i>
+
+### Django
 
 - [Tutorial de Django Girls](https://tutorial.djangogirls.org/en/) (1.11)
 - [Documentación oficial de Django](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
@@ -1954,30 +1961,30 @@ toc_sticky: false
 - [Django efectivo](https://www.effectivedjango.com/) (1.5)
 - [Cómo hacer tango con Django](https://www.tangowithdjango.com/book17/) (1.7)
 
-#### Matraz
+### Flask
 
 - [Explore Flask](https://exploreflask.com/) - Robert Picard
 - [El Mega Tutorial del Frasco](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
-#### Kivy
+### Kivy
 
 - [Guía de programación de Kivy](https://kivy.org/docs/guide-index.html)
 
-#### Pandas
+### Pandas
 
 - [Aprender pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
 
-#### Pirámide
+### Pyramid
 
 - [Tutorial rápido para Pyramid](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html#quick-tutorial)
 
 #### Tornado
 
-- [Aprender programación web](https://bitbucket.org/hrojas/learn-web-programming)
+- [Aprender programación web con Tornado y Jupiter](https://bitbucket.org/hrojas/learn-web-programming) \ [Tornado](https://github.com/tornadoweb/tornado/blob/stable/docs/index.rst)
 
 ### QML
 
-- [Qt5 Cadaqués](https://qmlbook.github.io/) - Juergen Bocklage-Ryannel y Johan Thelin (HTML, PDF, ePub) (🚧 *en proceso* )
+- [Qt5 Cadaques](https://qmlbook.github.io/) - Juergen Bocklage-Ryannel y Johan Thelin (HTML, PDF, ePub) (🚧 *en proceso* )
 
 ### R
 
@@ -2071,13 +2078,14 @@ toc_sticky: false
 
 - [Libro Sinatra](https://github.com/sinatra/sinatra-book)
 
-### Oxido
+### Rust
 
 - [Óxido por ejemplo](https://doc.rust-lang.org/stable/rust-by-example/)
 - [Moho para los rubíes](https://www.rustforrubyists.com/book/index.html)
 - [El lenguaje de programación Rust](https://doc.rust-lang.org/book/)
 - [El Rustonomicon](https://doc.rust-lang.org/nomicon/)
-- [¿Por qué óxido? ](https://www.oreilly.com/programming/free/files/why-rust.pdf)(PDF)
+- [¿Por qué Rust? ](https://www.oreilly.com/programming/free/files/why-rust.pdf) (PDF)
+- [Reescribiendo m4vgalib en Rust](http://cliffle.com/blog/m4vga-in-rust/) (HTML)
 
 ### Sabio
 
@@ -2340,10 +2348,8 @@ toc_sticky: false
 
 ## 👨‍💻 Lenguajes de Programación
 
-## Go
-
-- [Los Libros Sobre el Lenguaje de Programación Go](/los-libros-mas-impresionantes-sobre-go/)
-
 ## Licencia
+
+<!-- Revisado de Actualizaciones a partir de #3434: https://github.com/EbookFoundation/free-programming-books/pulls?page=2&q=is%3Apr+is%3Aclosed>
 
 <!-- https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md -->
