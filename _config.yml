@@ -74,7 +74,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:title/
-paginate: 10 # amount of posts to show
+paginate: 9 # amount of posts to show
 paginate_path: /blog/page:num/
 timezone: Europe/Madrid
 
@@ -86,8 +86,8 @@ include:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-#   - Gemfile
-#   - Gemfile.lock
+   - Gemfile
+   - Gemfile.lock
 #   - node_modules
 - vendor/bundle/
 - vendor/cache/
@@ -101,11 +101,11 @@ exclude:
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
-#  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+#  - jekyll-sitemap
 
 analytics:
   provider: "google-gtag"
