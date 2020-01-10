@@ -13,10 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 # Configuración de la Web
 locale: "es-ES"
-timezone: "Europe/Madrid"
 # github: [metadata]
 title: Ciberninjas ▷ Escuela Laboratorio
 # subtitle: Escuela Laboratorio de Tecnología
@@ -74,8 +72,9 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:title/
-paginate: 9 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /blog/page:num/
+timezone: "Europe/Madrid"
 
 include:
   - _pages
@@ -85,8 +84,8 @@ include:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-   - Gemfile
-   - Gemfile.lock
+#   - Gemfile
+#   - Gemfile.lock
 #   - node_modules
 - vendor/bundle/
 - vendor/cache/
@@ -100,10 +99,10 @@ exclude:
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
+  - jekyll-include-cache
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
 #  - jekyll-sitemap
 
 analytics:
