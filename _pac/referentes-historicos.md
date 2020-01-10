@@ -20,6 +20,10 @@ header:
 
 [👷‍♂️👷‍♂️👷‍♂️ EN CONSTRUCCIÓN ‍👷‍♂️👷👷‍♂️](#){: .btn .btn--inverse .btn--large .align-center}
 
+## Noam Chomsky
+
+* [Sobre el negacionismo del cambio climático](https://twitter.com/jjsb441/status/1102142735715319808?lang=es)
+
 ## Julio Anguita
 
 ## Hegel
@@ -47,3 +51,9 @@ Escritor "peculiar" - investigar :D
 * [Hacker News Noticia](https://news.ycombinator.com/item?id=21230418) https://fs.blog/2019/10/the-best-of-goethes-aphorisms/
 
 ## Vicente Blasco Ibáñez
+
+## Frases
+
+"Todas las desgracias del hombre se derivan del hecho de no ser capaz de estar tranquilamente sentado y solo en una habitación."  Blaise Pascal.-
+
+* [Frases de Blaise Pascal](https://www.muyinteresante.es/cultura/arte-cultura/articulo/diez-frases-de-blaise-pascal)
