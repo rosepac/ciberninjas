@@ -14,5 +14,3 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "html-proofer"
 end
-
-#  gem "jekyll-algolia"
