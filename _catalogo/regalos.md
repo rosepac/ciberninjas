@@ -1,9 +1,9 @@
 ---
 title: "🎈 Regalos Ciberninjas"
-description: "Regalos, Objetos y Curiosidades Interesantes para Geeks"
-excerpt: "Regalos, Objetos y Curiosidades Interesantes para Geeks"
+description: "Regalos, Objetos y Curiosidades Interesantes para Geeks e incluso Gratis"
+excerpt: "Regalos, Objetos y Curiosidades Interesantes para Geeks e incluso Gratis"
 date: 2019-09-22 11:11:05
-last_modified_at: 2019-09-24
+last_modified_at: 2020-01-08
 published: true
 author_profile: false
 toc: true
@@ -12,6 +12,10 @@ toc_icon: user-ninja
 toc_sticky: false
 permalink: /regalos/
 canonical_URL: https://ciberninjas.com/regalos/
+header:
+  overlay_image: "https://i.ibb.co/NSyLZ1P/star-wars-militar-mirando.jpg"
+  image_alt: "⚔ Regalos, comics, gifts, juguetes, tazas, camisetas, merchadising, muñecos de colección y más.."
+  image_description: "⚔ Regalos, comics, gifts, juguetes, tazas, camisetas, merchadising, muñecos de colección y más.."
 sidebar:
 - title: "Catálogo"
   nav: tienda
@@ -22,9 +26,15 @@ sidebar:
 
 ## 🎁 Regalos Geeks Gratis
 
+![](https://i.ibb.co/Pmqzh3T/image.png)
+
+- [Envia Postales con Fotografía](https://postcardmailer.herokuapp.com/){:target="_blank"} ¡GRATIS! \ [Otras Opciones](https://news.ycombinator.com/item?id=21924719){:target="_blank"}
+
+<!-- agregar los comics del lol -->
+
 ![](https://i.ibb.co/685n71z/image.png) ![](https://i.ibb.co/L65Tjbh/image.png)
 
-- [Descarga Las Banderas de Juegos de Tronos](https://drive.google.com/open?id=1tgs2lgVQOw-jsGogxZ7v0KdZ9yy6k9Ud)
+- [Descarga Las Banderas de Juegos de Tronos](https://drive.google.com/open?id=1tgs2lgVQOw-jsGogxZ7v0KdZ9yy6k9Ud){:target="_blank"}
 
 ## 🎁 Regalos Geeks / Nerds 🙀
 
@@ -46,6 +56,8 @@ sidebar:
 - [SGILE Robot Recargable](https://amzn.to/2LF4zPh)
 
 ## ☕ Tazas
+
+<!-- https://www.amazon.es/s?k=mr+robot+cup&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss -->
 
 ## 📂 Categorías de Libros
 

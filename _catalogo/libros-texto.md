@@ -29,7 +29,7 @@ sidebar:
 <summary>Saber Más</summary>
 <br/>
 <p>
-En este catálogo se pueden encontrar los librode texto referentes a la educación reglada española; en concreto los dirigidos a los diferentes estudios de los ciclos formativos de formación profesional enfocados a las temáticas de la técnica, la tecnología; la comunicación y las comunicaciones; así como a los cursos existentes de formación básica dentro de los mismos campos.
+En este catálogo se pueden encontrar los libros de texto referentes a la educación reglada española; en concreto los dirigidos a los diferentes estudios de los ciclos formativos de formación profesional enfocados a las temáticas de la técnica, la tecnología; la comunicación y las comunicaciones; así como a los cursos existentes de formación básica dentro de los mismos campos.
 </p>
 <p></p>
 </details>
@@ -41,13 +41,20 @@ En este catálogo se pueden encontrar los librode texto referentes a la educaci�
 💡 Contenido Totalmente Funcional Aunque Pueden Existir Contenidos en Construcción 💡
 {: .notice--info}
 
-## Informática y Comunicaciones
+<!-- http://todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones.html -->
+## 💻 Informática y Comunicaciones
 
-## 👉 Grado Superior
+## 👇 Grado Superior
 
-## 👉 Grado Medio
+## 👉 Administración de Sistemas Informáticos en Red
 
-## Sistemas Microinformáticos y Redes
+## 👉 Desarrollo de Aplicaciones Multiplataforma
+
+## 👉 Desarrollo de Aplicaciones Web
+
+## 👇 Grado Medio
+
+## 👉 Sistemas Microinformáticos y Redes
 
 ### Montaje y mantenimiento de equipo.
 
@@ -88,13 +95,13 @@ En este catálogo se pueden encontrar los librode texto referentes a la educaci�
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415656637&linkId=c6ed6730efcae1231b6b21e848088367"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415656637&linkId=087c434d7ed04836a6c5faf5ee5f6595"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448171330&linkId=002615c0ce30b886148257246399d21b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8478979832&linkId=94c6512e29bd16f92ca082e90e7ac165"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8497327659&linkId=36f119ba78569c2b1bfa19433888dffa"></iframe>
 
-### Aplicaciones web.
+### Aplicaciones web
 
 [CreateSpace](https://amzn.to/2LKy7LD) \ [Paraninfo](https://amzn.to/2NtnQ8I) \ [McGraw Hill - 2013](https://amzn.to/2NqNJWB) [2010](https://amzn.to/2nK22KJ) \ [RaMa](https://amzn.to/2plvTt8)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1500397458&linkId=d5ed35d5390557b40274ba349e3184a8"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448183924&linkId=5ab4e483b67cba967e107a58a8596d85"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8448171357&linkId=80fb2da27c4ab1777dc98b1929106d46"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499641679&linkId=1fc271619284c50f4697147f11d68989"></iframe>
 
-### Formación y orientación laboral.
+### Formación y orientación laboral
 
 [Paraninfo](https://amzn.to/32YUZwB) [2018](https://amzn.to/30EbNHH) \ [Editex. [2018](https://amzn.to/2QnVrDi) [Editex 360º](https://amzn.to/2LJZghM) \ [McGraw Hill](https://amzn.to/2OgTjdC) [2017](https://amzn.to/2LH3PcB) [2014](https://amzn.to/30BVwDa) [McGraw Hill Esencial](https://amzn.to/32SudWs) \ [MacMillan](https://amzn.to/331tIK1) \ [Anaya](https://amzn.to/2NsE5Tw) \ [Santillana](https://amzn.to/30B7LzD) \ [vicens Vivens](https://amzn.to/2Nu3EU2) \ [Bruño](https://amzn.to/30DrLSj)
 
@@ -104,9 +111,10 @@ En este catálogo se pueden encontrar los librode texto referentes a la educaci�
 
 ### Formación en centros de trabajo. *
 
-## Formación Profesional Básica
+## 👇 Formación Profesional Básica
 
 ### Informática de Oficina
+
 - Montaje y mantenimiento de sistemas y componentes informáticos. [Paraninfo](https://amzn.to/2QbpRIP) [2014](https://amzn.to/2QbqXnM) \ [Editex](https://amzn.to/2Qaw085) [2014](https://amzn.to/2LSGvHt)\ [Vértice](https://amzn.to/31mdr1B) \ [Sintesis](https://amzn.to/2LO4Ez8) \ [Rodio](https://amzn.to/2Q9p6zY) \ [IC](https://amzn.to/31lwJ7n)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417449817&linkId=3b7b77d40d463102a761f7ca43935b40"></iframe>
@@ -121,6 +129,7 @@ En este catálogo se pueden encontrar los librode texto referentes a la educaci�
 - Formación en centros de trabajo. [Paraninfo]() \ [Editex]() \ [Santillana]() \ [Anaya]() \ [Donostiarra]() \ [Vértice]() \ [Sintesis]() \ [Rodio]() \ [IC]()
 
 ### Informática y Comunicaciones
+
 - Montaje y mantenimiento de sistemas y componentes informáticos. [Paraninfo]() \ [Editex]() \ [Santillana]() \ [Anaya]() \ [Donostiarra]() \ [Vértice]() \ [Sintesis]() \ [Rodio]() \ [IC]()
 - Operaciones auxiliares para la configuración y la explotación.
 - Equipos eléctricos y electrónicos.
@@ -140,45 +149,51 @@ CONTENIDOS AÚN PENDIENTES DE CREACIÓN..
 
 👷‍♂️🚧🚧👷‍♀️🚧🚧👷‍♂️
 
+<!-- http://todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/artes-graficas.html -->
+## 👩‍🎨 Artes Gráficas
 
-## Artes Gráficas
-## Grado Superior
+## 👇 Grado Superior
 
-## Grado Medio
-### Impresión Gráfica
+## 👉 Diseño y Edición de Publicaciones Impresas y Multimedia
 
+## 👉 Diseño y Gestión de la Producción Gráfica
 
-### Postimpresión y Acabados Gráficos
+## 👇 Grado Medio
 
-
-### Preimpresión Digital
-
-
-## Formación Profesional Básica
-### Artes Gráficas
+### 👉 Impresión Gráfica
 
 
-
-## Imagen y Sonido
-## Grado Superior
+### 👉 Postimpresión y Acabados Gráficos
 
 
+### 👉 Preimpresión Digital
 
-## Grado Medio
-### Video Disc-Jockey y Sonido
+
+## 👇 Formación Profesional Básica
+### 👉 Artes Gráficas
 
 
 
+## 🎧 Imagen y Sonido
+## 👇 Grado Superior
 
-## Comercio y Marketing
 
-## Grado Medio
-### Actividades Comerciales
+
+## 👇 Grado Medio
+### 👉 Video Disc-Jockey y Sonido
+
+
+
+
+## 🕴 Comercio y Marketing
+
+## 👇 Grado Medio
+### 👉 Actividades Comerciales
 
 ### Comercialización de Productos Alimentarios
 
-## Formación Profesional Básica
-### Servicios Comerciales
+## 👇 Formación Profesional Básica
+### 👉 Servicios Comerciales
 
 ## 📂 Categorías de Libros
 
