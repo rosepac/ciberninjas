@@ -23,7 +23,7 @@ title: Ciberninjas ▷ Escuela Laboratorio
 email: rosepac21@gmail.com
 name: "Pablo Álvarez Corredera"
 description: >- # this means to ignore newlines until "baseurl:"
-  'Cómo aprender programación, crear aplicaciónes web, machine learning, robótica o ciberseguridad. La mejor página de recursos gratis de Internet: Libros en PDF, cursos, artículos y herramientas para estudiar tecnología.'
+  'Cómo aprender a programar, crear aplicaciónes web, cualquier lenguaje de programación, machine learning, robótica o ciberseguridad. La mejor página de recursos gratis de Internet: Libros en PDF, cursos, artículos y herramientas para estudiar tecnología.'
 url: "https://ciberninjas.com"
 # baseurl:
 repository: "rosepac/ciberninjas"
