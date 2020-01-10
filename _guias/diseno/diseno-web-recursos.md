@@ -66,6 +66,10 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 * [Mapa de Babel](http://www.babelstone.co.uk/Software/BabelMap.html){:target="_blank"}
 * [¿Qué fuente es?](https://www.myfonts.com/WhatTheFont/)
 
+### Fuentes Específicas
+
+* [Fuente OverPass](http://overpassfont.org/){:target="_blank"}
+
 ## Iconos
 
 Font Awesome, Flaticon, Material.IO, IconFinder, Material Design Icons, Oicons8, Vexels, Vecteezy, 1001 Free Downloads, Free Vectors.

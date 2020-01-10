@@ -2,7 +2,7 @@
 title: 👨‍🎨 ▷ Noticias en Directo sobre Diseño Gráfico
 description: '📰 🎨 El Mejor Canal de Noticias sobre Diseño Web en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Diseño Web'
 excerpt: '📰 🎨 El Mejor Canal de Noticias sobre Diseño Web en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Diseño Web'
-published: true
+published: false
 author: rosepac
 comments: true
 date: 2020-01-08 09:10:18

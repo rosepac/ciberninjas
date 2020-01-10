@@ -2,7 +2,7 @@
 title: 👩‍🎨 ▷ Cómo aprender Diseño Gráfico
 description: '👩‍🎨 ▷ Cómo aprender diseño gráfico desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
 excerpt: '👩‍🎨 ▷ Cómo aprender diseño gráfico desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
-published: true
+published: false
 author: rosepac
 comments: true
 date: 2019-11-12 10:13:18
@@ -40,4 +40,4 @@ header:
 [🔝 REGRESAR 🔝](/diseño-grafico/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 [🎨 Recursos de Diseño Gráfico 🎨](/diseño-grafico-recursos/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🎨 Noticias Diseño Gráfico 🎨](/diseño-grafico-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎨 Noticias Diseño Gráfico 🎨](/directo/#-diseño-gráfico){: .btn .btn--inverse .btn--large .align-center}

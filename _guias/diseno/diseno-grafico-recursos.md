@@ -17,8 +17,8 @@ header:
   teaser: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
   overlay_image: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
   overlay_filter: "0.1"
-  image_description: "Los Mejores Recursos de Diseño Gráfico en Ciberninjas"
-  image_alt: "Los Mejores Recursos de Diseño Gráfico en Ciberninjas"
+  image_description: "Los Mejores Software, Herramientas y Recursos de Diseño Gráfico en Ciberninjas"
+  image_alt: "Los Mejores Software, Herramientas y Recursos de Diseño Gráfico en Ciberninjas"
   caption: "Créditos: Unsplash"
   actions:
     - label: "Aprender Diseño Web"
@@ -53,6 +53,10 @@ Software de composición de código abierto para efectos visuales y gráficos en
 
 * [Morevna](https://morevnaproject.org/){:target="_blank"}
 
+## Recursos Videojuegos
+
+* [Open Game Art](https://opengameart.org/){:target="_blank"}
+
 ## Crear Mallas
 
 * [Truco para la Creación de Mallas a través de Blender](https://www.youtube.com/watch?time_continue=335&v=kEx0aXH7Z5w&feature=emb_logo){:target="_blank"}
@@ -71,6 +75,10 @@ Software de composición de código abierto para efectos visuales y gráficos en
 * [Quaternius 🏡](http://quaternius.com/assets.html)
 
 Modelos 3D libres para su uso bajo licencias CC0 en formatos de Blender, Autodesk u OBJ: Casas, edificios, personajes, alimentos, armas, rocas, personas, robots, ciudades, barcos, naves espaciales, arboles, etc.
+
+## Canales de Youtube
+
+* [Canal de Pablo Vazquez](https://www.youtube.com/user/pablovazquezz/videos?view=0&sort=dd&flow=grid)
 
 ## Imágenes y Fotografías
 
@@ -98,4 +106,4 @@ Modelos 3D libres para su uso bajo licencias CC0 en formatos de Blender, Autodes
 [🔝 REGRESAR 🔝](/diseño-grafico/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 [🎨 Aprender Diseño Gráfico 🎨](/diseño-grafico/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🎨 Noticias Diseño Gráfico 🎨](/diseño-grafico-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎨 Noticias Diseño Gráfico 🎨](/directo/#-diseño-gráfico){: .btn .btn--inverse .btn--large .align-center}
