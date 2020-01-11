@@ -308,23 +308,14 @@ comments:
 # Pie de Página
 footer:
   links:
-    - label: "Donativo"
-      icon: "fab fa-fw fa-paypal"
-      url: "https://paypal.me/ciberninjas"
-    - label: "Bitcoin"
-      icon: "fab fa-fw fa-bitcoin"
-      url: "14GGQUBou7EWvutCmgP8yajsWbrngk3DqT"
-    - label: "Ethereum"
-      icon: "fab fa-fw fa-ethereum"
-      url: "0x9b039b7F5c7eE7D56C0C5cDB8E7E3720F126F4B7"
-    - label: "Criptomonedas"
-      icon: "fas fa-fw fa-donate"
-      url: "https://gist.github.com/rosepac/df7d4fc0abcf6030c32907b9aa19c401#paypal"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ciberninjas"
-    - label: "Facebook"
+    - label: "Comunidad Ciberninjas"
       icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/ciberninjas"
+      url: "https://facebook.com/groups/ciberninjas"
+    - label: "CiberCursos"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/cibercursos"
       
 # Final de la Configuración 💋💋💋
