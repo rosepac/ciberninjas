@@ -1,20 +1,16 @@
 main:
-  - title: "🎁 Regalos"
+  - title: "✍ Blog"
+    url: /blog/
+  - title: "👑 Tienda"
     url: /amazon/
   - title: "📚 Librería"
     url: /catalogo/
   - title: "📖 Guías"
     url: /guias/
-  - title: "💡 Qué es"
-    url: /que-es-ciberninjas/
 #  - title: "📁 Archivo"
-#    url: /blog/
+#    url: /archivo/
   - title: "🧰 Recursos"
     url: https://kutt.it/recursos-globales"
-  - title: "👨‍🏫 Tutoriales"
-    url: /videotutoriales/
-  - title: "🎥 Videoteca"
-    url: /videoteca/
   - title: "🌈 Categorías"
     url: /categoria/
   - title: "🏷 Etiquetas"
