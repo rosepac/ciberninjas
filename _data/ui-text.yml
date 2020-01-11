@@ -27,7 +27,7 @@ es: &DEFAULT_ES
   comments_title             : "Comentarios"
   more_label                 : "Ver más"
   related_label              : "Puede que también te interese"
-  follow_label               : "Donar:"
+  follow_label               : "😻:"
   feed_label                 : "Suscríbete"
   powered_by                 : "En pie gracias a"
   website_label              : "Sitio web"
