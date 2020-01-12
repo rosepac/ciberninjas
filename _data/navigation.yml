@@ -11,12 +11,6 @@ main:
 #    url: /archivo/
   - title: "🧰 Recursos"
     url: https://kutt.it/recursos-globales"
-  - title: "🌈 Categorías"
-    url: /categoria/
-  - title: "🏷 Etiquetas"
-    url: /etiqueta/
-  - title: "ℹ Aviso Legal"
-    url: /aviso-legal/
 # Cambiar enlace de recursos por el enlace de recursos de mi página de programas y dentro de ella añadir este enlace de Notion
 # Menú del Catálogo de Productos en Venta
 # catalogo:

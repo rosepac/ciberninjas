@@ -311,11 +311,14 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ciberninjas"
-    - label: "Comunidad Ciberninjas"
+    - label: "Comunidad"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/groups/ciberninjas"
     - label: "CiberCursos"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/cibercursos"
+    - label: "Aviso Legal"
+      icon: "fas fa-shield-alt"
+      url: "/aviso-legal/"
       
-# Final de la Configuración 💋💋💋
+# Final de la Configuración
