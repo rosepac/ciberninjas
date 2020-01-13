@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: "🎁 ▷ Black Friday 2019, todo lo que necesitas saber"
+title: "▷ Black Friday 2019, todo lo que necesitas saber 🎁 "
 description: "💻 Las mejores ofertas de Amazon en sus Dispositivos de Casa Inteligente."
 excerpt: "💻 Las mejores ofertas de Amazon en sus Dispositivos de Casa Inteligente."
 permalink: /black-friday-amazon/

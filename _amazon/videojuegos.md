@@ -1,7 +1,7 @@
 ---
 author_profile: false
-title: "🎮 Videoconsolas y Videojuegos con las Mejores Precios del Black Friday"
-description: "Date un regalo disfrutando de los juegos más espectaculares en excelentes precios durante el Black Friday."
+title: "💥 Videoconsolas y Videojuegos con las Mejores Precios del Black Friday"
+description: "🎮 Date un regalo disfrutando de los juegos más espectaculares en excelentes precios durante el Black Friday."
 excerpt: "Date un regalo disfrutando de las consolas y juegos más espectaculares en excelentes precios durante el Black Friday."
 permalink: /videojuegos/
 canonical_URL: https://ciberninjas.com/videojuegos/

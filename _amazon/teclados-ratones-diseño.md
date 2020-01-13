@@ -1,8 +1,8 @@
 ---
 author_profile: false
-title: "👩‍💻 ▷ Los Mejores Ratones y Teclados para Diseñar y Jugar"
-description: "🎁 Las mejores ofertas de Ratones y Teclados para Diseñar y Jugar."
-excerpt: "🎁 Las mejores ofertas de Ratones y Teclados para Diseñar y Jugar."
+title: "▷ Los Mejores Ratones y Teclados para Diseñar y Jugar 🖱"
+description: "⌨ Las mejores ofertas de Ratones y Teclados para Diseñar y Jugar."
+excerpt: "⌨ Las mejores ofertas de Ratones y Teclados para Diseñar y Jugar."
 permalink: /teclados-ratones-diseño/
 canonical_URL: https://ciberninjas.com/teclados-ratones-diseño/
 published: true

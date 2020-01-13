@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: "🎧 ▷ Las Mejores Tablets de Diseño Gráfico del Black Friday 2019"
+title: "▷ Las Mejores Tablets de Diseño Gráfico del Black Friday 2019 🎨"
 description: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."
 excerpt: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."
 permalink: /tablets-graficas/

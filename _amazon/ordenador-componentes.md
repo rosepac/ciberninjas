@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: "🖥 ▷ Los Mejores Componentes de PC del Black Friday 2019"
+title: "▷ Los Mejores Componentes de PC del Black Friday 2019 🖥"
 description: "👨‍🔧 Cambia pieza a pieza tu computadora para convertirla en un auténtico cohete."
 excerpt: "👨‍🔧 Cambia pieza a pieza tu computadora para convertirla en un auténtico cohete."
 permalink: /ordenadores-componentes/

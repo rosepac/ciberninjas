@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: "⛄ Frozen 2, tu Mejor Regalo por Navidad"
+title: "Juguetes de Frozen 2, tu Mejor Regalo por Navidad ⛄"
 description: "👸 Ofertas de juguetes en Black Friday."
 excerpt: "👸 Ofertas de juguetes en Black Friday."
 permalink: /disney-frozen-amazon/
