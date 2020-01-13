@@ -8,6 +8,8 @@ comments: true
 date: 2020-01-02 11:22:12
 last_modified_at: 2020-01-13 11:02:12
 canonical_URL: /aprendizaje-automatico/
+categories:
+- Aprendizaje Automático
 header:
   teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg

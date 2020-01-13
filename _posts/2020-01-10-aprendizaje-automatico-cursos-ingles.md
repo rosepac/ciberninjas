@@ -8,6 +8,8 @@ comments: true
 date: 2020-01-10 23:20:12
 last_modified_at:
 canonical_URL: /aprendizaje-automatico-cursos-ingles/
+categories:
+- Aprendizaje Automático
 header:
   teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg

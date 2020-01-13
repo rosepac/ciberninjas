@@ -1,8 +1,6 @@
 ---
-layout: post
 title: >
-    Fotografías, emoticonos y fondos de Navidad para tus
-    publicaciones bajo licencias gratis
+    Fotografías, emoticonos y fondos de Navidad para tus publicaciones bajo licencias gratis
 published: false
 author: rosepac
 comments: true
@@ -24,7 +22,6 @@ tags:
     - repositorio
     - tarjetas
 categories:
-    - diseno-web
     - recursos
     - steemit
 permalink: >
@@ -40,21 +37,23 @@ He dividido los recursos en cuatro apartados:
 
 ## Emoticonos de Navidad
 
-Divertidos emoticonos navideños del telegram
+![Divertidos emoticonos navideños de Telegram](https://steemitimages.com/640x0/https://mundoframework.com/wp-content/uploads/2018/12/emojis-full-collage.jpg "Divertidos emoticonos navideños de Telegram")
 
 Divertidos emoticonos de navidad, que podremos usar e incluso incluir en nuestro Telegram o Whatshap creados por el diseñador: [Behrangnamdari][2] en principio, para ser usados como [emojis de telegram][3]
 
-### Descarga: 
+### [⬇ DESCARGA ⬇](https://ouo.io/X6LzwY)
 
-* * *
+_____
 
 ## Fotografías Navideñas
 
-Fotografías navideñas de libre derecho de uso
-  
+![Fotografías navideñas de libre derecho de uso
+](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmSNtWP3cfYMadhHuKcaBitFQGu4dm29qB5MtYK8PUHRho/collage_100_navidad.jpg "Fotografías navideñas de libre derecho de uso
+")
+
 90 fotografías de excelente calidad, que pueden ser usadas como se desee. De wallpaper, de imagen de publicaciones, para realizar collage, etc.
 
-### Descarga: 
+### [⬇ DESCARGA ⬇]()
 
 * * *
 
@@ -64,9 +63,7 @@ Los wallpapers o tarjetas de navidad de libre uso más bonitos
   
 33 hermosos wallpaper, banners, tarjetas navideñas
 
-### Descarga: 
-
-* * *
+### [⬇ DESCARGA ⬇]()
 
 ## Navidad en Steemit
 
@@ -74,19 +71,17 @@ Gráficos y banners navideños de Steemit
   
 Estos excelentes diseños navideños para Steemit creados por @carlos-cabeza [Diseño][4], [banners][5] y unos divertidos emojis de Steemit creados por @malicered \[Emojis malicered\](https://steemit.com/design/@malicered/merry-christmas-steemit-mathmatical-steemit-smileys-free-designs-for-the-community @malicered)
 
-### Descarga: 
-
-* * *
+### [⬇ DESCARGA ⬇]()
 
 Todas las imágenes están descargas de las correspondientes web´s de imágenes con derechos libres de autor; a saber: freerange.com, pexels.com y unsplash.com a excepción de las correspondientes a Steemit, que ya han sido citados sus autores.
 
 Espero los disfrutéis y les deis un correcto uso. Saludos.
 
-* * *
+_____
 
 #gratis #fotografias #navidad #navideño #emoticonos #emojis #felices #fiestas #steemit
 
-* * *
+_____
 
 ## **Publicaciones Anteriores Interesantes**
 
@@ -106,29 +101,11 @@ Espero los disfrutéis y les deis un correcto uso. Saludos.
   * [5 Excelentes documentales de diseño que deberías ver!][19]
   * [¡Quiero que aprendas todo lo que quieras de programación! Parte 1][20] &#8211; [Parte 2][21] &#8211; [Parte 3][22]
 
-* * *
-
-
-  Proyectos Que Debes Conocer
-
-
-
-   
-
-
-* * *
-
-
-  
-
-
-
-  
-
-
+_____
 
   @rosepac & twitter & facebook & adobe stock & donativo & pixabay
 
+_____
 
  [1]: https://steemit.com
  [2]: https://www.instagram.com/behrangnamdari/?hl=es

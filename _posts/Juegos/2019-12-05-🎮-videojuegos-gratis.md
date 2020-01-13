@@ -280,7 +280,8 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 ## Páginas de Videojuegos Gratis 🎁
 
 * [Steem Videojuegos Gratis](https://store.steampowered.com/genre/Free%20to%20Play/){:target="_blank"} 87 Juegos
-* [Epic Games Videojuegos Gratis](https://www.epicgames.com/store/es-ES/collection/free-games-collection)
+* [Epic Games Videojuegos Gratis](https://www.epicgames.com/store/es-ES/collection/free-games-collection){:target="_blank"}
+* [GOG Videojuegos Gratis](https://www.gog.com/games?sort=popularity&page=1&price=free){:target="_blank"}
 * [Indie Gala Juegos Gratis](https://freebies.indiegala.com/){:target="_blank"} (Se actualizan con frecuencia)
 * Reddit. Diferentes Grupos donde se actualiza con juegos gratuitos \ [FreeGameFindings](https://www.reddit.com/r/FreeGameFindings/){:target="_blank"} \ [Free Games](https://www.reddit.com/r/freegames/){:target="_blank"} 
 
