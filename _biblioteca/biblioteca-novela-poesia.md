@@ -1,7 +1,7 @@
 ---
-title: ▷ Libros y Bibliotecas Completas Gratis bajo Dominio Público en Español y Otros Idiomas
-description: "📚 Enlaces a Miles de libros PDF gratuitos y de dominio publico."
-excerpt: "📚 Enlaces a Miles de libros PDF gratuitos y de dominio publico."
+title: ▷ Libros GRATIS PDF y Online, encuentra lo que deseas entre miles de novelas y repositorios gratuitos 📚 
+description: "📖 Miles de libros PDF gratuitos y de dominio publico, novelas clásicas, ciencia, cuentos, revistas y mucho más."
+excerpt: "📖 Miles de libros PDF gratuitos y de dominio publico novelas clásicas, ciencia, cuentos, revistas y mucho más."
 author_profile: true
 published: true
 comments: true

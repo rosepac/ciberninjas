@@ -1,8 +1,8 @@
 ---
 # Página Base
-title: "🎓 ▷ Cursos de Diferentes Temáticas 🔥 Aprender Agricultura, Ciencias, Cocina, Medio Ambiente, Economía, Negocios, Salud, Servicios Sociales 💥 100% GRATIS y en ESPAÑOL 💥!"
-excerpt: "🎓 ▷ Cursos de Diferentes Temáticas 🔥 Aprender Agricultura, Ciencias, Cocina, Medio Ambiente, Economía, Negocios, Salud, Servicios Sociales 💥 100% GRATIS y en ESPAÑOL 💥!"
-descriptio: "🎓 ▷ Cursos de Diferentes Temáticas 🔥 Aprender Agricultura, Ciencias, Cocina, Medio Ambiente, Economía, Negocios, Salud, Servicios Sociales 💥 100% GRATIS y en ESPAÑOL 💥!"
+title: "▷ Cursos de Diferentes Temáticas 💥 100% GRATIS y en ESPAÑOL 💥! 🎓 "
+excerpt: "🔥 Comienza a aprender sobre Agricultura, Ciencias, Cocina, Medio Ambiente, Economía, Negocios, Salud, Servicios Sociales 💥 100% GRATIS y en ESPAÑOL 💥!"
+descriptio: "🔥 Comienza a aprender sobre Agricultura, Ciencias, Cocina, Medio Ambiente, Economía, Negocios, Salud, Servicios Sociales 💥 100% GRATIS y en ESPAÑOL 💥!"
 date: 2019-12-23T15:00:00.000+01:00
 last_modified_at: 2019-12-23T15:05:42+01:00
 published: false
