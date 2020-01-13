@@ -10,7 +10,7 @@ tags:
 categories:
 - Catálogo
 - Neuropsicología
-- Administración y Redes
+- Internet y Web
 permalink: /catalogo/que-hace-internet-con-nuestras-mentes/
 description: "Superficiales, ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
 excerpt: "Superficiales, ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
