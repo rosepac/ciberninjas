@@ -22,3 +22,7 @@ sidebar:
 Atentamente, el CiberAprendiz;
 
 [@rosepac](https://kutt.it/tciberaprendiz "Perfil Personal de Twitter del Autor: Pablo Álvarez Corredera")
+
+[👉 Política de Privacidad ✅](/aviso-legal/){: .btn .btn--inverse .btn--large .align-center}
+[👉 Política de Privacidad ✅](/que-es-ciberninjas/){: .btn .btn--inverse .btn--large .align-center}
+[👉 Política de Privacidad ✅](/aviso-legal/){: .btn .btn--inverse .btn--large .align-center}
