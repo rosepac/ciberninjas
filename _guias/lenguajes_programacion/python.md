@@ -1,7 +1,7 @@
 ---
-title: 🐍 ▷ Cómo Aprender Python en 2020
-description: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
-excerpt: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
+title: ▷ Cómo Aprender Python en 2020 🐍 
+description: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
+excerpt: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
 published: true
 author: rosepac
 author_profile: true
@@ -592,9 +592,13 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 
 [🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn--inverse .btn--large .align-center}
+
+## Relacionados
+
 [🐍 Aprender Aprendizaje Profundo 🐍](/que-aprender-sobre-machine-learning-2020/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 _____
 
-[📕 Libros Python 🐍](/biblioteca-de-programacion-y-tecnologia/#python-){: .btn .btn--inverse .btn--large}
- [🎓 Cursos Python 🐍](/cursos-tecnologia/#python-){: .btn .btn--inverse .btn--large}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--inverse .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--inverse .btn--large}
+[📕 Libros Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--inverse .btn--large}{:target="_blank"}
+ [🎓 Cursos Python 🐍](https://ouo.io/CNr4s3){: .btn .btn--inverse .btn--large}{:target="_blank"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--inverse .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--inverse .btn--large}

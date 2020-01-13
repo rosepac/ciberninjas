@@ -1,5 +1,5 @@
 ---
-title: 👨‍💻 ▷ Jekyll, Aprender desde Cero
+title: ▷ Jekyll, Aprender desde Cero 👨‍💻 
 description: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
 excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
 date: 2019-08-07T22:00:00.000+00:00
