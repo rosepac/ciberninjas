@@ -1,12 +1,12 @@
 ---
 author_profile: true
-title: "🤖 Cómo aprender aprendizaje automático o machine learning en 2020"
+title: "🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖"
 description: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje automático durante 2020"
 excerpt: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje automático durante 2020"
 published: true
 comments: true
 date: 2020-01-02 11:22:12
-last_modified_at: 2020-01-02 11:22:12
+last_modified_at: 2020-01-13 11:02:12
 canonical_URL: /aprendizaje-automatico/
 header:
   teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
@@ -27,7 +27,7 @@ Existen variopintos campos relacionados al respecto; Aprendizaje profundo, Intel
 
 ## ¿Por dónde comenzar con el aprendizaje automático?
 
-Analizando las diferentes posibilidades, el punto de enfoque más indicado sería el siguiente: Elegir un problema que resolver y centrarse en encontrar los modelos más comunes para resolver ese tipo de problema u otros similares.
+Analizando las diferentes posibilidades el punto de enfoque más indicado sería el siguiente: Elegir un problema que resolver y centrarse en encontrar los modelos más comunes para resolver ese tipo de problema u otros similares.
 
 Luego se puede seguir desde Github, buscando código que resuelvan ese posible problema u otros similares. Descargar ese código y seguramente, ese sea el punto de partida de tu trabajo.
 
@@ -111,8 +111,8 @@ Lista de algunos de los mejores libros y blogs sobre aprendizaje automático que
 * MIT: métodos matriciales en análisis de datos
 * Khan Academy: Álgebra Lineal y Cálculo
 * Curso de Stanford CS231n: http://cs231n.stanford.edu/
-* Curso de Aprendizaje Estadístico: https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
-* Procesamiento de lenguaje natural de vanguardia CS224n de Stanford es excelente: http://web.stanford.edu/class/cs224n/
+* [Curso de Aprendizaje Estadístico](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+* Procesamiento de lenguaje natural de vanguardia CS224n de Stanford es excelente [*](http://web.stanford.edu/class/cs224n/)
 * Publicaciones de Medium de [Ageitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471){:target="_blank"}
 
 * [Awesome de Machine Learning](https://github.com/ujjwalkarn/Machine-Learning-Tutorials){:target="_blank"}
