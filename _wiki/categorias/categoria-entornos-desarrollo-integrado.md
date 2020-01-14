@@ -1,7 +1,7 @@
 ---
 title: "Entornos de Desarrollo Integrado o IDE´s"
-description: "Categoría: Entornos de Desarrollo Integrado o IDE´s de WikiNinjas, la Enciclopedia Informática Tecnológica"
-excerpt: "Categoría: Entornos de Desarrollo Integrado o IDE´s de WikiNinjas, la Enciclopedia Informática Tecnológica"
+description: "Categoría: Entornos de Desarrollo Integrado o IDE´s de WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas"
+excerpt: "Categoría: Entornos de Desarrollo Integrado o IDE´s de WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas"
 date: 2019-10-07 01:40:07
 toc: true
 toc_label: "Contenidos"

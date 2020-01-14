@@ -1,7 +1,7 @@
 ---
 title: "Generadores de Sitios Estáticos"
-description: "Categoría: Generadores de Sitios Estáticos (SSG) de WikiNinjas, la Enciclopedia Informática Tecnológica"
-excerpt: "Categoría: Generadores de Sitios Estáticos (SSG) de WikiNinjas, la Enciclopedia Informática Tecnológica"
+description: "Categoría: Generadores de Sitios Estáticos (SSG) de WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas"
+excerpt: "Categoría: Generadores de Sitios Estáticos (SSG) de WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas"
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"

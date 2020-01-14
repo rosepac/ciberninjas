@@ -1,7 +1,7 @@
 ---
 title: "Cambio Tecnológico"
-description: "Categoría: Cambio Tecnológico de WikiNinjas, la Enciclopedia Informática Tecnológica"
-excerpt: "Categoría: Cambio Tecnológico de WikiNinjas, la Enciclopedia Informática Tecnológica"
+description: "Categoría: Cambio Tecnológico de WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas"
+excerpt: "Categoría: Cambio Tecnológico de WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas"
 date: 2019-10-04 01:40:07
 toc: true
 toc_label: "Contenidos"

@@ -1,8 +1,8 @@
 ---
 
 title: "Tipos de Datos"
-description: "Categoría: Tipos de Datos de WikiNinjas, la Enciclopedia Informática Tecnológica"
-excerpt: "Categoría: Tipos de Datos de WikiNinjas, la Enciclopedia Informática Tecnológica"
+description: "Categoría: Tipos de Datos de WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas"
+excerpt: "Categoría: Tipos de Datos de WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas"
 date: 2019-10-10 11:07:07
 toc: true
 toc_label: "Contenidos"
@@ -19,5 +19,5 @@ Páginas pertenecientes a esta categoría: 1
 
 ## T
 
-- [Tipos de Datos Complejos](/wiki/tipos-de-datos-complejos "Tipos de Datos Complejos. Visto en WikiNinjas, la Enciclopedia Informática Tecnológica del Siglo 21")
+- [Tipos de Datos Complejos](/wiki/tipos-de-datos-complejos "Tipos de Datos Complejos. Visto en WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas del Siglo 21")
 <!-- https://en.wikipedia.org/wiki/Category:Data_types -->

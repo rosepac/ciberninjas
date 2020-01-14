@@ -1,8 +1,8 @@
 ---
 
 title: "Cíborg"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Cíborg"
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Cíborg"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Cíborg"
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Cíborg"
 date: 2019-08-28 09:07:07
 published: false
 author_profile: false

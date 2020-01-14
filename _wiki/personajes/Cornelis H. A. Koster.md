@@ -1,8 +1,8 @@
 ---
 
 title: "Cornelis H. A. Koster"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Cornelis H. A. Koster, Informático Holandés"
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Cornelis H. A. Koster, Informático Holandés"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Cornelis H. A. Koster, Informático Holandés"
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Cornelis H. A. Koster, Informático Holandés"
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"

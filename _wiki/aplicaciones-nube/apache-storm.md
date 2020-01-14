@@ -1,8 +1,8 @@
 ---
 
 title: "Storm (Procesador de Eventos)"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Apache Storm es un Framework de cálculo distribuido y tolerante a fallas en tiempo real."
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Apache Storm es un Framework de cálculo distribuido y tolerante a fallas en tiempo real."
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Apache Storm es un Framework de cálculo distribuido y tolerante a fallas en tiempo real."
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Apache Storm es un Framework de cálculo distribuido y tolerante a fallas en tiempo real."
 date: 2019-10-09 23:28:07
 toc: true
 toc_label: "Contenidos"

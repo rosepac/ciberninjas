@@ -1,8 +1,8 @@
 ---
 
 title: "Generador de Sitios Estáticos"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Generador de Sitios Estáticos (SSG)"
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Generador de Sitios Estáticos (SSG)"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Generador de Sitios Estáticos (SSG)"
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Generador de Sitios Estáticos (SSG)"
 date: 2020-01-13 22:24:07
 last_modified_at: 
 toc: true

@@ -1,8 +1,8 @@
 ---
 
 title: "IANAL"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: IANAL, yo no soy un abogado"
-excerpt: "📖 👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica: IANAL, yo no soy un abogado"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: IANAL, yo no soy un abogado"
+excerpt: "📖 👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: IANAL, yo no soy un abogado"
 date: 2019-10-09 23:40:07
 last_modified_at: 2019-10-10 19:51:30
 toc: true

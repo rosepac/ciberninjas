@@ -1,8 +1,8 @@
 ---
 
 title: "IMSI"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: IMSI, Identidad Internacional del Abonado Móvil"
-excerpt: "📖 👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica: IMSI, Identidad Internacional del Abonado Móvil"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: IMSI, Identidad Internacional del Abonado Móvil"
+excerpt: "📖 👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: IMSI, Identidad Internacional del Abonado Móvil"
 date: 2019-10-09 23:56:07
 last_modified_at: 2019-10-10 19:51:30
 toc: true

@@ -1,8 +1,8 @@
 ---
 
 title: "Elan (Software)"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Elan, es un software informático para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video."
 date: 2019-10-09 23:33:07
 toc: true
 toc_label: "Contenidos"

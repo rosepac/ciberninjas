@@ -1,8 +1,8 @@
 ---
 
 title: "PubSub"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: PubSub"
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: PubSub"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: PubSub"
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: PubSub"
 date: 2019-10-02 01:55:07
 published: true
 author_profile: false

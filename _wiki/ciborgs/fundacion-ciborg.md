@@ -1,8 +1,8 @@
 ---
 
 title: "Fundación Cíborg"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Fundación Cíborg"
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Fundación Cíborg"
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Fundación Cíborg"
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Fundación Cíborg"
 date: 2019-10-04 03:28:07
 published: true
 author_profile: false

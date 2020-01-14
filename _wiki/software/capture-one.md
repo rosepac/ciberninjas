@@ -1,8 +1,8 @@
 ---
 
 title: "Capture One"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Capture One, es un software de edición de fotografías."
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica: Capture One, es un software de edición de fotografías."
+description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Capture One, es un software de edición de fotografías."
+excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Capture One, es un software de edición de fotografías."
 date: 2019-10-12 01:20:59
 last_modified_at:
 toc: true
