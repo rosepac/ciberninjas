@@ -30,11 +30,13 @@ Correo electrónico: rosepac21@gmail.com Número de teléfono: +34 644 72 68 60
 
 Esta página web no recoge dato personal alguno de sus usuarios.
 
-## Comentarios
+## Política de Comentarios
 
-La web utilizada el servicio de comentarios Disqus, por tanto se usan las 'cookies' que el servicio requiere; si deseas informarte más concretamente sobre su funcionamiento puedes leer aquí las políticas de privacidad completas del servicio.
+La web utiliza el servicio de comentarios Disqus, por tanto se usan las 'cookies' que el servicio requiere; si deseas informarte más concretamente sobre su funcionamiento puedes leer aquí las políticas de privacidad completas del servicio.
 
-En cuanto a las políticas de respecto y NEtiqueta respecto a los comentarios se muestra en: [política de comentarios](/politica-comentarios "Política de Comentarios establecida dentro de Ciberninjas") y en la parte superior de cada 'caja' de comentarios insertada sobre cada página.
+En cuanto a las políticas de respecto y NEtiqueta respecto a los comentarios se muestra en: [política de comentarios](/politica-comentarios/ "Política de Comentarios establecida dentro de Ciberninjas") y en la parte superior de cada 'caja' de comentarios insertada sobre cada página.
+
+[👉 Política de Comentarios ✅](/politica-comentarios/){: .btn .btn--inverse .btn--large .align-center}
 
 ## Cookies
 
