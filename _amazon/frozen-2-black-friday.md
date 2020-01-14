@@ -164,6 +164,10 @@ Muchos Más..
 
 [🔝 REGRESAR 🔝](/disney-frozen-amazon/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
+## Otros Funkos Pop
+
+[Dragon Ball](/regalos-funkos/#dragon-ball){: .btn .btn--inverse .btn--large} [Cómo Entrenar a tu Dragon](/regalos-funkos/#cómo-entrenar-a-tu-dragón){: .btn .btn--inverse .btn--large}
+
 ## 🎁 Mucho Más Black Friday
 
 [💣 BLACK FRIDAY 2019 💣](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
