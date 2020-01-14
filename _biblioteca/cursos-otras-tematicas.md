@@ -8,6 +8,7 @@ last_modified_at:
 published: true
 permalink: /cursos-otras-tematicas/
 canonical_URL: https://ciberninjas.com/cursos-otras-tematicas/
+classes: wide
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
 #   width: 1024
@@ -21,37 +22,37 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-[Agricultura](){: .btn .btn--inverse .btn--large}
-[Albañilería](){: .btn .btn--inverse .btn--large}
-[Astronomía](){: .btn .btn--inverse .btn--large}
-[Ciencias: Física y Química](){: .btn .btn--inverse .btn--large}
-[Cocina](){: .btn .btn--inverse .btn--large}
-[Derecho](){: .btn .btn--inverse .btn--large}
-[Economía](){: .btn .btn--inverse .btn--large}
-[Educación](){: .btn .btn--inverse .btn--large}
-[Educación Especial](){: .btn .btn--inverse .btn--large}
-[Ejercicio y Deporte](){: .btn .btn--inverse .btn--large}
-[Electrónica](){: .btn .btn--inverse .btn--large}
-[Envejecimiento](){: .btn .btn--inverse .btn--large}
-[Estadística](){: .btn .btn--inverse .btn--large}
-[Fruticultura](){: .btn .btn--inverse .btn--large}
-[Historia y Geografía](){: .btn .btn--inverse .btn--large}
-[Humanidades](){: .btn .btn--inverse .btn--large}
-[Idiomas](){: .btn .btn--inverse .btn--large}
-[Ingeniería](){: .btn .btn--inverse .btn--large}
-[Jurídico](){: .btn .btn--inverse .btn--large}
-[Marketing](){: .btn .btn--inverse .btn--large}
-[Matemáticas](){: .btn .btn--inverse .btn--large}
-[Mecánica](){: .btn .btn--inverse .btn--large}
-[Medio Ambiente](){: .btn .btn--inverse .btn--large}
-[Motivación](){: .btn .btn--inverse .btn--large}
-[Música](){: .btn .btn--inverse .btn--large}
-[Negocio](){: .btn .btn--inverse .btn--large}
-[Referencias Bibliográficas](){: .btn .btn--inverse .btn--large}
-[Salud y Nutrición](){: .btn .btn--inverse .btn--large}
-[Servicios](){: .btn .btn--inverse .btn--large}
-[Servicios Sociales](){: .btn .btn--inverse .btn--large}
-[Software Educativo](){: .btn .btn--inverse .btn--large}
+[Agricultura](/cursos-otras-tematicas/#agricultura){: .btn .btn--inverse .btn--large}
+[Albañilería](/cursos-otras-tematicas/#albañilería){: .btn .btn--inverse .btn--large}
+[Astronomía](/cursos-otras-tematicas/#astronomía){: .btn .btn--inverse .btn--large}
+[Ciencias: Física y Química](/cursos-otras-tematicas/#ciencias-física--química){: .btn .btn--inverse .btn--large}
+[Cocina](/cursos-otras-tematicas/#cocina){: .btn .btn--inverse .btn--large}
+[Derecho](/cursos-otras-tematicas/#derecho){: .btn .btn--inverse .btn--large}
+[Economía](/cursos-otras-tematicas/#/cursos-otras-tematicas/#economía){: .btn .btn--inverse .btn--large}
+[Educación](/cursos-otras-tematicas/#/cursos-otras-tematicas/#educación){: .btn .btn--inverse .btn--large}
+[Educación Especial](/cursos-otras-tematicas/#/cursos-otras-tematicas/#educación-especial){: .btn .btn--inverse .btn--large}
+[Ejercicio y Deporte](/cursos-otras-tematicas/#/cursos-otras-tematicas/#ejercicio-y-deporte){: .btn .btn--inverse .btn--large}
+[Electrónica](/cursos-otras-tematicas/#/cursos-otras-tematicas/#electrónica){: .btn .btn--inverse .btn--large}
+[Envejecimiento](/cursos-otras-tematicas/#/cursos-otras-tematicas/#envejecimiento){: .btn .btn--inverse .btn--large}
+[Estadística](/cursos-otras-tematicas/#estadística){: .btn .btn--inverse .btn--large}
+[Fruticultura](/cursos-otras-tematicas/#fruticultura){: .btn .btn--inverse .btn--large}
+[Historia y Geografía](/cursos-otras-tematicas/#historia-y-geografía){: .btn .btn--inverse .btn--large}
+[Humanidades](/cursos-otras-tematicas/#humanidades){: .btn .btn--inverse .btn--large}
+[Idiomas](/cursos-otras-tematicas/#idiomas){: .btn .btn--inverse .btn--large}
+[Ingeniería](/cursos-otras-tematicas/#ingeniería){: .btn .btn--inverse .btn--large}
+[Jurídico](/cursos-otras-tematicas/#jurídico){: .btn .btn--inverse .btn--large}
+[Marketing](/cursos-otras-tematicas/#marketing){: .btn .btn--inverse .btn--large}
+[Matemáticas](/cursos-otras-tematicas/#matemáticas){: .btn .btn--inverse .btn--large}
+[Mecánica](/cursos-otras-tematicas/#mecánica){: .btn .btn--inverse .btn--large}
+[Medio Ambiente](/cursos-otras-tematicas/#medio-ambiente){: .btn .btn--inverse .btn--large}
+[Motivación](/cursos-otras-tematicas/#motivación){: .btn .btn--inverse .btn--large}
+[Música](/cursos-otras-tematicas/#música){: .btn .btn--inverse .btn--large}
+[Negocio](/cursos-otras-tematicas/#negocio){: .btn .btn--inverse .btn--large}
+[Referencias Bibliográficas](/cursos-otras-tematicas/#referencias-bibliográficas){: .btn .btn--inverse .btn--large}
+[Salud y Nutrición](/cursos-otras-tematicas/#salud-y-nutrición){: .btn .btn--inverse .btn--large}
+[Servicios](/cursos-otras-tematicas/#servicios){: .btn .btn--inverse .btn--large}
+[Servicios Sociales](/cursos-otras-tematicas/#servicios-sociales){: .btn .btn--inverse .btn--large}
+[Software Educativo](/cursos-otras-tematicas/#software-educativo){: .btn .btn--inverse .btn--large}
 
 ## Agricultura
 
