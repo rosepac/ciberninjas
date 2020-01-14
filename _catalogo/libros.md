@@ -225,7 +225,7 @@ sidebar:
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Python
+## Python <i class="fab fa-python"></i>
 
 * Analítica de Datos: Guía Definitiva Big Data [Tapa Blanda](https://amzn.to/2n1ofUg){:target="_blank"} \ [Ebook](https://amzn.to/- 2n1ofUg){:target="_blank"}
 * [Aprende A programar con Python](https://amzn.to/2oDRL2x){:target="_blank"}
