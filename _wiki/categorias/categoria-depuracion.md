@@ -16,6 +16,10 @@ permalink: /wiki/categoria/depuracion
 Páginas pertenecientes a esta categoría: 1
 {: .notice--primary}
 
+## D
+
+- [Dlinject](/wiki/dlinject)
+
 ## P
 
 - [Ptrace](/wiki/ptrace)
