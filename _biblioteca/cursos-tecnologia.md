@@ -826,7 +826,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 ## 👨‍🎨 Diseño Web
 
-[Bootstrap <i class="fab fa-bootstrap"></i>](/cursos-tecnologia/#bootstrap-){: .btn .btn--inverse .btn--large} [Lenguaje de Estilos y Preprocesadores 🎨](/cursos-tecnologia/#lenguaje-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/cursos-tecnologia/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/cursos-tecnologia/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large}
+[Bootstrap <i class="fab fa-bootstrap"></i>](/cursos-tecnologia/#bootstrap-){: .btn .btn--inverse .btn--large} [Lenguajes de Estilos y Preprocesadores 🎨](/cursos-tecnologia/#lenguajes-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/cursos-tecnologia/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/cursos-tecnologia/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large}
 
 _____
 
