@@ -1,8 +1,8 @@
 ---
 layout: collection
-title: "WikiNinjas: La Enciclopedia Informática Tecnológica"
-description: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica actualizada creada por Ciberninjas"
-excerpt: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica actualizada creada por Ciberninjas"
+title: "WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas"
+description: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
+excerpt: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
 collection: wiki
 permalink: /wiki/
 canonical_URL: https://ciberninjas.com/wiki/

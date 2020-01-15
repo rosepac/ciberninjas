@@ -2,37 +2,23 @@
 title: "Depuración"
 description: "Categoría: Depuración de WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas"
 excerpt: "Categoría: Depuración de WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas"
-date: 2019-09-07 11:50:07
+date: 2020-01-15 00:50:07
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: false
 author_profile: false
-permalink: /wiki/categoria/software-de-investigacion-linguistica
+permalink: /wiki/categoria/depuracion
 
 ---
-
-🚧 EN CONSTRUCCIÓN 🚧
-{: .notice--warning}
-
 <!-- EN CONSTRUCCIÓN -->
-Páginas pertenecientes a esta categoría: 3
+Páginas pertenecientes a esta categoría: 1
 {: .notice--primary}
 
-## A
-
-- Aikuma
-
-## E
 ## P
-## Q
-## S
-## T
-## V
-## W
-<!-- EN CONSTRUCCIÓN -->
-Páginas pertenecientes a esta categoría: 3
+
+- [Ptrace](/wiki/ptrace)
 
 ## Enlaces Externos
 
