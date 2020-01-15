@@ -197,7 +197,7 @@ libros-espanol:
         url: /biblioteca-de-programacion-y-tecnologia/#-programación-infantil
       - title: "🎮 Programación Videojuegos"
         url: /biblioteca-de-programacion-y-tecnologia/#-programación-de-videojuegos
-        - title: "🕸 Redes"
+      - title: "🕸 Redes"
         url: /biblioteca-de-programacion-y-tecnologia/#-redes
       - title: "🤖 Robótica"
         url: /biblioteca-de-programacion-y-tecnologia/#-robótica
