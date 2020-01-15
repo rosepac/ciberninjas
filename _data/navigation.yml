@@ -185,22 +185,76 @@ libros-espanol:
         url: /biblioteca-de-programacion-y-tecnologia/#-comercio-electrónico
       - title: "👩‍💻 Desarrollo Web"
         url: /biblioteca-de-programacion-y-tecnologia/#-desarrollo-web
+      - title: "👨‍🎨 Diseño Web"
+        url: /cursos-tecnologia/#-diseño-web
       - title: "🐧 Ecosistema de Código Abierto"
         url: /biblioteca-de-programacion-y-tecnologia/#-ecosistema-de-código-abierto
       - title: "👨‍💻 Lenguajes de Programación"
         url: /biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programación
+      - title: "💼 Metodologías de Desarrollo"
+        url: /biblioteca-de-programacion-y-tecnologia/#-metodologías-de-desarrollo
       - title: "👦 Programación Infantil"
         url: /biblioteca-de-programacion-y-tecnologia/#-programación-infantil
-      - title: "🕸 Redes"
-        url: /biblioteca-de-programacion-y-tecnologia/#-administración-y-redes
+      - title: "🎮 Programación Videojuegos"
+        url: /biblioteca-de-programacion-y-tecnologia/#-programación-de-videojuegos
+        - title: "🕸 Redes"
+        url: /biblioteca-de-programacion-y-tecnologia/#-redes
       - title: "🤖 Robótica"
         url: /biblioteca-de-programacion-y-tecnologia/#-robótica
       - title: "👮‍♀️ Seguridad"
         url: /biblioteca-de-programacion-y-tecnologia/#️-seguridad
+      - title: "👨‍🔧 Técnico de Software & Hardware"
+        url: /biblioteca-de-programacion-y-tecnologia/#-técnico-de-software--hardware        
       - title: "👷‍♂️ Webmaster"
         url: /biblioteca-de-programacion-y-tecnologia/#️-webmaster
-      - title: "🎮 Videojuegos"
-        url: /biblioteca-de-programacion-y-tecnologia/#-videojuegos
+      - title: "📚 LIBRERÍA"
+        url: /catalogo/
+      - title: "🎁 TIENDA"
+        url: /amazon/
+
+cursos-espanol:
+  - title: Secciones
+    children:
+      - title: "🗃 Meta-Listas"
+        url: /cursos-tecnologia/#-meta-listas
+      - title: "📁 Bases de Datos"
+        url: /cursos-tecnologia/#-bases-de-datos
+      - title: "⛓ Blockchain"
+        url: /cursos-tecnologia/#-blockchain       
+      - title: "🔬 Ciencias de la Computación"
+        url: /cursos-tecnologia/#-ciencias-de-la-computación
+      - title: "🛒 Comercio Electrónico"
+        url: /cursos-tecnologia/#-comercio-electrónico
+      - title: "👩‍💻 Desarrollo Web"
+        url: /cursos-tecnologia/#-desarrollo-web
+      - title: "👨‍🎨 Diseño Web"
+        url: /cursos-tecnologia/#-diseño-web
+      - title: "🐧 Ecosistema de Código Abierto"
+        url: /cursos-tecnologia/#-ecosistema-de-código-abierto
+      - title: "👨‍💻 Lenguajes de Programación"
+        url: /cursos-tecnologia/#-lenguajes-de-programación
+      - title: "💼 Metodologías de Desarrollo"
+        url: /cursos-tecnologia/#-metodologías-de-desarrollo
+      - title: "💻 Ofimática"
+        url: /cursos-tecnologia/#-ofimática
+      - title: "🔨 Procesadores de Lenguaje"
+        url: /cursos-tecnologia/#-procesadores-de-lenguaje
+      - title: "👦 Programación Infantil"
+        url: /cursos-tecnologia/#-programación-infantil
+      - title: "🎮 Programación Videojuegos"
+        url: /cursos-tecnologia/#-programación-de-videojuegos
+      - title: "🕸 Redes"
+        url: /cursos-tecnologia/#-redes
+      - title: "📞 Redes de Telefonía"
+        url: /cursos-tecnologia/#-redes-de-telefonía
+      - title: "🤖 Robótica"
+        url: /cursos-tecnologia/#-robótica
+      - title: "👮‍♀️ Seguridad"
+        url: /cursos-tecnologia/#️-seguridad
+      - title: "👨‍🔧 Técnico de Software & Hardware"
+        url: /cursos-tecnologia/#-técnico-de-software--hardware
+      - title: "👷‍♂️ Webmaster"
+        url: /cursos-tecnologia/#️-webmaster
       - title: "📚 LIBRERÍA"
         url: /catalogo/
       - title: "🎁 TIENDA"
@@ -233,58 +287,6 @@ libros:
         url: /libros/#️-webmaster
       - title: "🎮 Videojuegos"
         url: /libros/#-videojuegos
-      - title: "📚 LIBRERÍA"
-        url: /catalogo/
-      - title: "🎁 TIENDA"
-        url: /amazon/
-
-cursos-espanol:
-  - title: Secciones
-    children:
-      - title: "🗃 Meta-Listas"
-        url: /cursos-tecnologia/#-meta-listas
-      - title: "📁 Bases de Datos"
-        url: /cursos-tecnologia/#-bases-de-datos
-      - title: "⛓ Blockchain"
-        url: /cursos-tecnologia/#-blockchain       
-      - title: "🔬 Ciencias de la Computación"
-        url: /cursos-tecnologia/#-ciencias-de-la-computación
-      - title: "🛒 Comercio Electrónico"
-        url: /cursos-tecnologia/#-comercio-electrónico
-      - title: "🐧 Ecosistema de Código Abierto"
-        url: /cursos-tecnologia/#-ecosistema-de-código-abierto
-      - title: "👩‍💻 Desarrollo Web"
-        url: /cursos-tecnologia/#-desarrollo-web
-      - title: "👨‍🎨 Diseño Web"
-        url: /cursos-tecnologia/#-diseño-web
-      - title: "💼 Flujos de Trabajo"
-        url: /cursos-tecnologia/#-flujos-de-trabajo
-      - title: "👨‍💻 Lenguajes de Programación"
-        url: /cursos-tecnologia/#-lenguajes-de-programación
-      - title: "💻 Ofimática"
-        url: /cursos-tecnologia/#-ofimática
-      - title: "🔨 Procesadores de Lenguaje"
-        url: /cursos-tecnologia/#-procesadores-de-lenguaje
-      - title: "👩‍💻 Programación"
-        url: /cursos-tecnologia/#-programación
-      - title: "👦 Programación Infantil"
-        url: /cursos-tecnologia/#-programación-infantil
-      - title: "🎮 Programación de Videojuegos"
-        url: /cursos-tecnologia/#-programación-de-videojuegos
-      - title: "🕸 Redes"
-        url: /cursos-tecnologia/#-redes
-      - title: "📞 Redes de Telefonía"
-        url: /cursos-tecnologia/#-redes-de-telefonía
-      - title: "🤖 Robótica"
-        url: /cursos-tecnologia/#-robótica
-      - title: "👮‍♀️ Seguridad"
-        url: /cursos-tecnologia/#️-seguridad
-      - title: "⛅ Servidores y Servicios en nube"
-        url: /cursos-tecnologia/#-servidores-y-servicios-en-nube
-      - title: "👨‍🔧 Técnico de Software & Hardware"
-        url: /cursos-tecnologia/#-técnico-de-software--hardware
-      - title: "👷‍♂️ Webmaster"
-        url: /cursos-tecnologia/#️-webmaster
       - title: "📚 LIBRERÍA"
         url: /catalogo/
       - title: "🎁 TIENDA"

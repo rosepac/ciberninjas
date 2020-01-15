@@ -1,8 +1,8 @@
 ---
 # Página Base
-title: "▷ Los Mejores Cursos de Programación y Tecnología Gratis 🎓 "
-description: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
-excerpt: "🚀 Repositorio de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
+title: "▷ Los Mejores Cursos de Programación y Tecnología de 2020 Gratis 🎓 "
+description: "🚀 Repositorio de cursos online actualizados: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
+excerpt: "🚀 Repositorio de cursos online actualizados: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 author_profile: false
 date: 2018-02-13T22:00:00.000+02:00
 last_modified_at: 2019-12-10T10:32:42+02:00
@@ -38,6 +38,7 @@ sidebar:
 * [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice){:target="_blank"} (Github)
 <!-- [Cursos en Inglés]() (Hackr io) -->
 * [Miriadax](https://miriadax.net/cursos){:target="_blank"}
+* [Hacker.IO](https://hackr.io/){:target="_blank"} (HTML)
 
 ## 📁 Bases de Datos
 
@@ -97,7 +98,7 @@ sidebar:
 * [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-2-edicion-) (MiriadaX)
 * [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://www.udemy.com/course/curso-machine-learning)
 
-[🔝 Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⬆⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## SQL
 
@@ -951,7 +952,7 @@ _____
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## 🎮 Programación de Videojuegos
+## 🎮 Programación Videojuegos
 
 * [Aprende a crear plugins Bukkit y Spigot usando Skript](https://www.udemy.com/aprende-a-crear-plugins-bukkit-y-spigot-usando-skript) (Udemy)
 * [Crea tu primer videojuego](https://www.udemy.com/crea-tu-primer-videojuego) (Udemy)
@@ -981,6 +982,8 @@ _____
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 🕸 Redes
+
+[Servidores y Servicios Nube ⛅](/cursos-tecnologia/#servidores-y-servicios-nube-){: .btn .btn--inverse .btn--large}
 
 * [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=32) (OCW)
 * [Aprende Seguridad desde 0](https://www.udemy.com/aprende-seguridad-cisco-desde-0) (Udemy)
@@ -1027,6 +1030,40 @@ _____
 * [Windows Server 2008 R2](http://nksistemas.com/curso-windows-server-2008-r2) (HTML)
 * [Windows Server 2012](http://nksistemas.com/category/infraestructura/windows-2012) (HTML)
 * [Windows Server 2012 y Linux Ubuntu Server para principiantes](https://www.udemy.com/windows-server-y-linux-para-principiantes) (Udemy)
+
+[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## Servidores y Servicios Nube ⛅
+
+* [Administración de Servidores Web (2005)](http://ocw.uniovi.es/course/view.php?id=110) (OCW)
+* [Aprende a publicar tus páginas web](https://www.udemy.com/aprende-a-publicar-tus-paginas-web) (Udemy)
+* [Amazon Web Services: Esenciales](https://www.udemy.com/aws-essentials) (Udemy - Subtítulos en Español) (2016)
+* [Amazon Web Services: Desde cero a héroe](https://www.udemy.com/amazon-web-services-aws-v) (Udemy - Subtítulos en Español) (2019)
+* [Centos 7](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZobhGTWuX-tC5clz_rgdoh) (JGAITPro, YouTube)
+* [Crear un gestor de contabilidad: Excel + Sql Server + Azure](https://www.youtube.com/playlist?list=PLFNWPvtjBMjvx4H2P-pDSjT3REWxA6vnG) (Excel y Más, YouTube)
+* [Curso de OpenShift. Red Hat](https://www.youtube.com/playlist?list=PLEtcGQaT56cjL7PIUCwngVX2K9AYVta2p) (Jesús Conde, Youtube)
+* [Descargar imágenes satelitales](https://www.udemy.com/descargar-imagenes-satelitales) (Udemy)
+* [Dominando el CPanel Hosting de nuestro proveedor de servicio](https://www.udemy.com/dominando-el-cpanel-hosting-web-de-nuestro-proveedor-de-servicio) (Udemy)
+* [Freenas](https://www.youtube.com/playlist?list=PLn5IkU1ZhgibosO2hSK7mgFViPkIQg7LX) (YouTube)
+* [Hyper-V](https://www.youtube.com/playlist?list=PLACA64FC4CAF2F6BB) (YouTube)
+* [Hyper-V en Windows 10](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiaHniso3RdsF12ehcTd0jTD) (JGAITPro, YouTube)
+* [Introducción a Xampp y MySql (2012)](https://ocw.ua.es/es/ingenieria-y-arquitectura/introduccion-a-xampp-y-mysql-2012.html) (OCW)
+* [Java Server, faces y mySql](https://www.youtube.com/playlist?list=PLnWAzeXp9V4k74VKqXOsuWIWetveAUp_F) (Formando Código, YouTube)
+* [Laboratorio de servidores de comunicaciones (2012)](https://ocw.ehu.eus/course/view.php?id=68) (OCW)
+* [Manejo de Linux Ubuntu Desktop & Server](https://www.udemy.com/linux-ubuntu-desktop-server) (Udemy)
+* [Microsoft Azure](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZGSLnNs_5ZJM5dW_NdsWY1) (JGAITPro, YouTube)
+* [Microsoft Exchange Server 2013](https://www.youtube.com/playlist?list=PLEmsMMOSNtypadUqSoE_iYwUdTfx3qE5u) (Pablo Martinez, YouTube)
+* [Microsoft Intune](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiYN7L1O27a2DAcr1KKXmAmo) (JGAITPro, YouTube)
+* [Netwrix Auditor](https://www.youtube.com/playlist?list=PLn5IkU1ZhgibkIs3Sk5s74gM3WIeapfQq) (JGAITPro, YouTube)
+* [OpenShift](https://www.youtube.com/playlist?list=PLEtcGQaT56cjL7PIUCwngVX2K9AYVta2p) (Jesús Conde, YouTube)
+* [Servicios telemáticos avanzados (2014)](https://ocw.ehu.eus/course/view.php?id=309) (OCW)
+* [Técnico en Administrador de Servidores](https://www.youtube.com/playlist?list=PLfWJBWUqkmeA4KODp-m8y3KAkKL_HsG3y) (Tecnología Capacitate, YouTube)
+* [Una Introducción Práctica a la Computación en la Nube](https://www.udemy.com/introduction-cloud-computing) (Udemy - Subtitulos en Español) (2019)
+* [VirtualBox](https://www.youtube.com/playlist?list=PLD1D6E5F629AC376F) (Pablo Martinez, YouTube)
+* [VirtualBox bis](https://www.youtube.com/playlist?list=PLn5IkU1Zhgib6lti2HBpL7bMYCTd1d3r9) (JGAITPro, YouTube)
+* [Windows Server 2008 R2](https://www.youtube.com/playlist?list=PLBBC993A6895D054B) (Pablo Martinez, YouTube)
+* [Windows Server 2012](https://www.youtube.com/playlist?list=PL5A481BA9FF8A8B75) (Pablo Martinez, YouTube)
+* [Windows Server 2016](https://www.youtube.com/playlist?list=PLn5IkU1Zhgibnm35AkK0OADKx9KacjbxW) (JGAITPro, YouTube)
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -1131,40 +1168,6 @@ _____
 * [Seguridad informática y competencias profesionales](https://ocw.uca.es/course/view.php?id=55) (OCW)
 * [Seguridad, privacidad y protección de datos I (2012)](http://ocw.uv.es/ciencias-sociales-y-juridicas/seguridad-privacidad-y-proteccion-de-datos-i/Course_listing) (OCW)
 * [Wireless penetration con Kali Linux](https://www.youtube.com/playlist?list=PL-G03HRCQgdFKAaW718J14tKDM63mGirL) (Hacking y Más, YouTube)
-
-[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
-## ⛅ Servidores y Servicios en nube
-
-* [Administración de Servidores Web (2005)](http://ocw.uniovi.es/course/view.php?id=110) (OCW)
-* [Aprende a publicar tus páginas web](https://www.udemy.com/aprende-a-publicar-tus-paginas-web) (Udemy)
-* [Amazon Web Services: Esenciales](https://www.udemy.com/aws-essentials) (Udemy - Subtítulos en Español) (2016)
-* [Amazon Web Services: Desde cero a héroe](https://www.udemy.com/amazon-web-services-aws-v) (Udemy - Subtítulos en Español) (2019)
-* [Centos 7](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZobhGTWuX-tC5clz_rgdoh) (JGAITPro, YouTube)
-* [Crear un gestor de contabilidad: Excel + Sql Server + Azure](https://www.youtube.com/playlist?list=PLFNWPvtjBMjvx4H2P-pDSjT3REWxA6vnG) (Excel y Más, YouTube)
-* [Curso de OpenShift. Red Hat](https://www.youtube.com/playlist?list=PLEtcGQaT56cjL7PIUCwngVX2K9AYVta2p) (Jesús Conde, Youtube)
-* [Descargar imágenes satelitales](https://www.udemy.com/descargar-imagenes-satelitales) (Udemy)
-* [Dominando el CPanel Hosting de nuestro proveedor de servicio](https://www.udemy.com/dominando-el-cpanel-hosting-web-de-nuestro-proveedor-de-servicio) (Udemy)
-* [Freenas](https://www.youtube.com/playlist?list=PLn5IkU1ZhgibosO2hSK7mgFViPkIQg7LX) (YouTube)
-* [Hyper-V](https://www.youtube.com/playlist?list=PLACA64FC4CAF2F6BB) (YouTube)
-* [Hyper-V en Windows 10](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiaHniso3RdsF12ehcTd0jTD) (JGAITPro, YouTube)
-* [Introducción a Xampp y MySql (2012)](https://ocw.ua.es/es/ingenieria-y-arquitectura/introduccion-a-xampp-y-mysql-2012.html) (OCW)
-* [Java Server, faces y mySql](https://www.youtube.com/playlist?list=PLnWAzeXp9V4k74VKqXOsuWIWetveAUp_F) (Formando Código, YouTube)
-* [Laboratorio de servidores de comunicaciones (2012)](https://ocw.ehu.eus/course/view.php?id=68) (OCW)
-* [Manejo de Linux Ubuntu Desktop & Server](https://www.udemy.com/linux-ubuntu-desktop-server) (Udemy)
-* [Microsoft Azure](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZGSLnNs_5ZJM5dW_NdsWY1) (JGAITPro, YouTube)
-* [Microsoft Exchange Server 2013](https://www.youtube.com/playlist?list=PLEmsMMOSNtypadUqSoE_iYwUdTfx3qE5u) (Pablo Martinez, YouTube)
-* [Microsoft Intune](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiYN7L1O27a2DAcr1KKXmAmo) (JGAITPro, YouTube)
-* [Netwrix Auditor](https://www.youtube.com/playlist?list=PLn5IkU1ZhgibkIs3Sk5s74gM3WIeapfQq) (JGAITPro, YouTube)
-* [OpenShift](https://www.youtube.com/playlist?list=PLEtcGQaT56cjL7PIUCwngVX2K9AYVta2p) (Jesús Conde, YouTube)
-* [Servicios telemáticos avanzados (2014)](https://ocw.ehu.eus/course/view.php?id=309) (OCW)
-* [Técnico en Administrador de Servidores](https://www.youtube.com/playlist?list=PLfWJBWUqkmeA4KODp-m8y3KAkKL_HsG3y) (Tecnología Capacitate, YouTube)
-* [Una Introducción Práctica a la Computación en la Nube](https://www.udemy.com/introduction-cloud-computing) (Udemy - Subtitulos en Español) (2019)
-* [VirtualBox](https://www.youtube.com/playlist?list=PLD1D6E5F629AC376F) (Pablo Martinez, YouTube)
-* [VirtualBox bis](https://www.youtube.com/playlist?list=PLn5IkU1Zhgib6lti2HBpL7bMYCTd1d3r9) (JGAITPro, YouTube)
-* [Windows Server 2008 R2](https://www.youtube.com/playlist?list=PLBBC993A6895D054B) (Pablo Martinez, YouTube)
-* [Windows Server 2012](https://www.youtube.com/playlist?list=PL5A481BA9FF8A8B75) (Pablo Martinez, YouTube)
-* [Windows Server 2016](https://www.youtube.com/playlist?list=PLn5IkU1Zhgibnm35AkK0OADKx9KacjbxW) (JGAITPro, YouTube)
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -1370,7 +1373,7 @@ Los cursos están creados e impartidos por entre otras universidades; la Univers
 
 Los cursos recorren todo el sector de la tecnología 4.0 en global; y contienen las siguientes temáticas principales
 
- Sobre Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.
+ Sobre Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo introducidos en la sección de metodologías de desarrollo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.
 
  Además, se agrega un apartado denominado metalistas, en el que podemos encontrar otras páginas web con variados y múltiples recursos sobre una única tecnología o varias. Por lo que se considera más importante citar a la página web en sí adjuntando una breve explicación[^] que el trabajo que requeriría ir añadiendo cada uno de los recursos al listado de forma diferenciada.
 

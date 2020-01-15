@@ -1,8 +1,8 @@
 ---
 # Página Base
-title: "▷ Los Mejores Libros PDF de Programación de 2019 para Desarrolladores 📚"
-description: "🚀 Biblioteca de PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
-excerpt: "🚀 Biblioteca de Libros PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡100% GRATIS y en ESPAÑOL 💥!"
+title: "▷ Los Mejores Libros PDF de Programación de 2020 para Desarrolladores 📚"
+description: "🚀 Biblioteca de PDF online actualizado: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
+excerpt: "🚀 Biblioteca de PDF online actualizado: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 author_profile: false
 date: 2018-02-13T22:00:00.000+00:00
 last_modified_at: 2019-12-18T12:42:42-05:00
@@ -13,8 +13,8 @@ header:
   teaser: "/assets/images/chico-buscando-libro-biblioteca.jpg"
   overlay_image: "/assets/images/chico-buscando-libro-biblioteca.jpg"
   overlay_filter: 0.2
-  image_description: 'Aprender a programar con estos libros en pdf y online sobre desarrollo web y otras tecnologíases | Ciberninjas'
-  image_alt: 'Aprender a programar con estos libros en pdf y online sobre desarrollo web y otras tecnologíases | Ciberninjas'
+  image_description: 'Aprender a programar con estos libros en pdf y online sobre desarrollo web y otras tecnologías | Ciberninjas'
+  image_alt: 'Aprender a programar con estos libros en pdf y online sobre desarrollo web y otras tecnologías | Ciberninjas'
   caption: "Créditos: Unsplash de Dominio Público"
 #  actions:
 #    - label: "Black Friday 2019"
@@ -31,6 +31,8 @@ sidebar:
 ---
 
 ## 🗃 Meta-Listas
+
+[Herramientas 🧰](/biblioteca-de-programacion-y-tecnologia/#-meta-listas-herramientas){: .btn .btn--inverse .btn--large} [Cursos Online 🌐](/biblioteca-de-programacion-y-tecnologia/#-cursos-masivos-en-línea){: .btn .btn--inverse .btn--large}
 
 * [Aprender Python](https://kutt.it/meta-aprendiendo-python){:target="_blank"} - Python Argentina
 * [Apuntes Completos de Desarrollo Web](https://kutt.it/apuntes-desarrollo-web-jorge){:target="_blank"} - Jorge Sánchez
@@ -54,7 +56,7 @@ sidebar:
 
 ### 🌐 Cursos Masivos en Línea
 
-* [Cursos de Programación Online Organizados](/cursos-tecnologia/) (HTML) (Actualizado 2019)
+* [Cursos de Programación Online Organizados](/cursos-tecnologia/) (HTML) (Actualizado 2020)
 * [Miriadax](https://miriadax.net/cursos){:target="_blank"} (HTML)
 * [Hacker.IO](https://hackr.io/){:target="_blank"} (HTML)
 
@@ -104,6 +106,49 @@ sidebar:
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
 
+## ⛓ Blockchain
+
+[Cadena de Bloques 🔗](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fab fa-bitcoin"></i>](/biblioteca-de-programacion-y-tecnologia/#bitcoin-){: .btn .btn--inverse .btn--large}
+
+## Cadena de Bloques 🔗
+
+* [Análisis y Comparación de Monedas Criptográficas Basadas en la Tecnología Blockchain (2016)](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/56344/8/mmedinareyTFM0616memoria.pdf){:target="_blank"} (PDF)
+* [Aspectos jurídicos de las criptomonedas](https://blockchainintelligence.es/wp-content/uploads/2019/04/Art%C3%ADculo-doctrinal_Apectos-jur%C3%ADficos-de-las-criptomonedas-por-M-de-la-Concepci%C3%B3n-Chamorro-Rodr%C3%ADguez.pdf){:target="_blank"} (PDF)
+* [Blockchain en Salud, ¿Quimera o Realidad?](https://seis.es/wp-content/uploads/2018/04/128.pdf)
+* [Blockchain y las posibilidades que ofrece para una nueva economía urbana](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/93126/1/Sunyer%2C%20R._Blockchain.pdf) (PDF) (2018)
+* [La nueva economía blockchain y criptomonedas en 100 preguntas](https://www.nowtilus.com/descargas/FragmentoLanuevaeconomiablockchainycriptomonedas100.pdf) (PDF) 2019
+* [La Tecnología Blockchain en América Latina](https://www.iberoamericajournal.ru/sites/default/files/2019/3/naumenko.pdf) (PDF) (2019)
+* [Plataformas blockchain y escenarios de uso](https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/20541/1/tg-pereira-toscano-villar.pdf) (PDF) (2019)
+* [Tecnología blockchain, una nueva era para la empresa](https://accid.org/wp-content/uploads/2019/04/Tecnolog%C3%ADa_blockchain__una_nueva_era_para_la_empresa_L_Parrondologo.pdf) {:target="_blank"} (PDF) (2018)
+
+[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+
+## Criptomonedas 💰
+
+* [Criptomonedas (en especial, bitcoin) y blanqueo de dinero](https://criminet.ugr.es/recpc/21/recpc21-14.pdf) (PDF)
+* [Riesgos y beneficios de las criptomonedas en la Economía Global (2017)](https://munesen.org/wp-content/uploads/2016/02/BANCO-MUNDIAL.pdf){:target="_blank"} (PDF)
+
+### Bitcoin <i class="fab fa-bitcoin"></i>
+
+* [Bitcoin: Un Sistema de Efectivo Electrónico Usuario-a-Usuario](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf){:target="_blank"} (PDF)
+* [Bitcoin: Una moneda criptográfica](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_bitcoin.pdf){:target="_blank"} (PDF)
+* [Bitcoin: Una visión general](https://www.revista.unam.mx/vol.18/num1/art11/art11.pdf){:target="_blank"} (PDF)
+* [Bitcoin, las criptomonedas al asalto del sistema financiero digital](https://www.ituser.es/whitepapers/content-download/7ba521c9-9572-49d1-a1e0-e74ae4e889a3/ituser-027.pdf) (PDF) (2017)
+* [Bitcoin & blockchain: ¿la criptomoneda y la tecnología que pueden transformar el mundo?](https://repository.eafit.edu.co/bitstream/handle/10784/13591/LuisaFernanda_FlorezCano_SandraMilena_VillegasSerna_2019.pdf) (PDF) (2019)
+* [Blockchain: Mirando más allá del Bitcoin](https://marketing.asobancaria.com/hubfs/Asobancaria%20Eventos/Asobancaria%20-%20Semanas-Economicas/1084.pdf){:target="_blank"} (PDF)
+* [Blockchain para periodistas y medios de comunicación (2017)](https://incomchile.cl/wp-content/uploads/2012/03/Blockchain-periodismo.pdf){:target="_blank"} (PDF)
+* [Curso de Bitcoin, Blockchain, Icos $& Criptomonedas](https://guiabitcoin.com/wp-content/uploads/2018/01/MODULO-1-Tus-Primeros-Pasos-en-el-Mundo-de-las-Criptomonedas.pdf){:target="_blank"}
+* [La economía de Blockchain (2016)](https://trbc.es/wp-content/uploads/2017/10/La-economi%CC%81a-de-Blockchain.pdf){:target="_blank"} (PDF)
+* [La era de las BLOCK punto COM](https://laeradelasblock.com/?download=490){:target="_blank"} (PDF) (descarga directa)
+* [Mastering Bitcoin en Español](https://bitcoinbook.info/wp-content/translations/es/book.pdf){:target="_blank"}
+* [Tecnología Blockchain. Caso de estudio: el Bitcoin](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/04.pdf){:target="_blank"} (PDF)
+
+### Ethereum <i class="fab fa-ethereum"></i>
+
+* [Guía básica de ETHEREUM](https://coinpy.net/assets/docs/eth-guide-es.pdf){:target="_blank"} (PDF)
+
+[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+
 ## 🔬 Ciencias de la Computación
 
 * [Análisis de la Aplicación de la Especificación de Despliegue y Configuración del OMG a Sistemas de Tiempo Real Basados en Componentes](https://www.ctr.unican.es/publications/plm-jlm-jmd-2006a.pdf){:target="_blank"} (PDF)
@@ -148,49 +193,6 @@ sidebar:
 ### Startups
 
 * [Guía de Formación de Emprendedores](https://hmg-prod.s3.amazonaws.com/files/guia-de-formacio-n-emprendedores-261-1558951908.pdf) 
-
-## ⛓ Blockchain
-
-[Cadena de Bloques 🔗](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fab fa-bitcoin"></i>](/biblioteca-de-programacion-y-tecnologia/#bitcoin-){: .btn .btn--inverse .btn--large}
-
-## Cadena de Bloques 🔗
-
-* [Análisis y Comparación de Monedas Criptográficas Basadas en la Tecnología Blockchain (2016)](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/56344/8/mmedinareyTFM0616memoria.pdf){:target="_blank"} (PDF)
-* [Aspectos jurídicos de las criptomonedas](https://blockchainintelligence.es/wp-content/uploads/2019/04/Art%C3%ADculo-doctrinal_Apectos-jur%C3%ADficos-de-las-criptomonedas-por-M-de-la-Concepci%C3%B3n-Chamorro-Rodr%C3%ADguez.pdf){:target="_blank"} (PDF)
-* [Blockchain en Salud, ¿Quimera o Realidad?](https://seis.es/wp-content/uploads/2018/04/128.pdf)
-* [Blockchain y las posibilidades que ofrece para una nueva economía urbana](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/93126/1/Sunyer%2C%20R._Blockchain.pdf) (PDF) (2018)
-* [La nueva economía blockchain y criptomonedas en 100 preguntas](https://www.nowtilus.com/descargas/FragmentoLanuevaeconomiablockchainycriptomonedas100.pdf) (PDF) 2019
-* [La Tecnología Blockchain en América Latina](https://www.iberoamericajournal.ru/sites/default/files/2019/3/naumenko.pdf) (PDF) (2019)
-* [Plataformas blockchain y escenarios de uso](https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/20541/1/tg-pereira-toscano-villar.pdf) (PDF) (2019)
-* [Tecnología blockchain, una nueva era para la empresa](https://accid.org/wp-content/uploads/2019/04/Tecnolog%C3%ADa_blockchain__una_nueva_era_para_la_empresa_L_Parrondologo.pdf) {:target="_blank"} (PDF) (2018)
-
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
-
-## Criptomonedas 💰
-
-* [Criptomonedas (en especial, bitcoin) y blanqueo de dinero](https://criminet.ugr.es/recpc/21/recpc21-14.pdf) (PDF)
-* [Riesgos y beneficios de las criptomonedas en la Economía Global (2017)](https://munesen.org/wp-content/uploads/2016/02/BANCO-MUNDIAL.pdf){:target="_blank"} (PDF)
-
-### Bitcoin <i class="fab fa-bitcoin"></i>
-
-* [Bitcoin: Un Sistema de Efectivo Electrónico Usuario-a-Usuario](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf){:target="_blank"} (PDF)
-* [Bitcoin: Una moneda criptográfica](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_bitcoin.pdf){:target="_blank"} (PDF)
-* [Bitcoin: Una visión general](https://www.revista.unam.mx/vol.18/num1/art11/art11.pdf){:target="_blank"} (PDF)
-* [Bitcoin, las criptomonedas al asalto del sistema financiero digital](https://www.ituser.es/whitepapers/content-download/7ba521c9-9572-49d1-a1e0-e74ae4e889a3/ituser-027.pdf) (PDF) (2017)
-* [Bitcoin & blockchain: ¿la criptomoneda y la tecnología que pueden transformar el mundo?](https://repository.eafit.edu.co/bitstream/handle/10784/13591/LuisaFernanda_FlorezCano_SandraMilena_VillegasSerna_2019.pdf) (PDF) (2019)
-* [Blockchain: Mirando más allá del Bitcoin](https://marketing.asobancaria.com/hubfs/Asobancaria%20Eventos/Asobancaria%20-%20Semanas-Economicas/1084.pdf){:target="_blank"} (PDF)
-* [Blockchain para periodistas y medios de comunicación (2017)](https://incomchile.cl/wp-content/uploads/2012/03/Blockchain-periodismo.pdf){:target="_blank"} (PDF)
-* [Curso de Bitcoin, Blockchain, Icos $& Criptomonedas](https://guiabitcoin.com/wp-content/uploads/2018/01/MODULO-1-Tus-Primeros-Pasos-en-el-Mundo-de-las-Criptomonedas.pdf){:target="_blank"}
-* [La economía de Blockchain (2016)](https://trbc.es/wp-content/uploads/2017/10/La-economi%CC%81a-de-Blockchain.pdf){:target="_blank"} (PDF)
-* [La era de las BLOCK punto COM](https://laeradelasblock.com/?download=490){:target="_blank"} (PDF) (descarga directa)
-* [Mastering Bitcoin en Español](https://bitcoinbook.info/wp-content/translations/es/book.pdf){:target="_blank"}
-* [Tecnología Blockchain. Caso de estudio: el Bitcoin](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/04.pdf){:target="_blank"} (PDF)
-
-### Ethereum <i class="fab fa-ethereum"></i>
-
-* [Guía básica de ETHEREUM](https://coinpy.net/assets/docs/eth-guide-es.pdf){:target="_blank"} (PDF)
-
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
 
 ## 🐧 Ecosistema de Código Abierto
 
@@ -271,7 +273,9 @@ sidebar:
 * [El camino a un mejor programador](https://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html){:target="_blank"} (HTML) [(PDF, ePub)](https://emanchado.github.io/camino-mejor-programador/){:target="_blank"}
 * [Latino. Lenguaje de programación](https://github.com/primitivorm/latino/blob/master/README.md#qu%C3%A9-es-lenguaje-latino){:target="_blank"} (HTML)
 
-## 👨‍🔧 Montaje & Mantenimiento
+## 👨‍🔧 Técnico de Software & Hardware
+
+### Montaje & Mantenimiento 🔧
 
 * [Armado y reparación de PC](https://nksistemas.com/curso-de-armado-y-reparacion-de-pc){:target="_blank"} (HTML)
 
@@ -777,7 +781,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Todo sobre LaTeX (2016)](https://minisconlatex.blogspot.com.es){:target="_blank"} (HTML)
 * [Una descripción de LaTeX2(1998)](https://www.profesores.frc.utn.edu.ar/electronica/teoriadeloscircuitosi/material/ldesc2e.pdf){:target="_blank"} (PDF)
 
-## 🎮 Programación de Videojuegos
+## 🎮 Programación Videojuegos
 
 * [Desarrollo de juegos en 2D usando Java y Microsoft XNA](https://openlibra.com/es/book/download/desarrollo-de-juegos-en-2d-usando-java-y-microsoft-xna){:target="_blank"} (PDF  )
 * [Godot. Motor de Videojuegos - Documentación](https://media.readthedocs.org/pdf/godot-doc-en-espanol/latest/godot-doc-en-espanol.pdf){:target="_blank"} (PDF)
