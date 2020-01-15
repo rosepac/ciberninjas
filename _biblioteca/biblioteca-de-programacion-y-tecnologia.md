@@ -642,6 +642,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Descubre React](https://leanpub.com/descubre-react?){:target="_blank"} (Descarga PDF)
 * [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish?){:target="_blank"}
 * [SurviveJS - React: De aprendiz a maestro](https://leanpub.com/survivejs-react-es){:target="_blank"} (Descarga PDF)
+* [ReactJS: Apuntes y Notas](https://majoledesma.github.io/react-apuntes/){:target="_blank"} (PDF)
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
 
