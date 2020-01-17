@@ -3,7 +3,7 @@ author_profile: true
 title: "▷ El mejor software de seguridad para tu PC en 2020 🔐"
 description: "Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos"
 excerpt: "Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos"
-published: false
+published: true
 comments: true
 date: 2020-01-17 09:30:12
 last_modified_at: 
@@ -63,59 +63,24 @@ Los firewalls han sido un elemento básico de la seguridad en la red durante dé
 
 Por supuesto, aprender todas las configuraciones, abrir o cerrar puertos y otras numerosas opciones posibles de realizar gracias a nuestro firewall llevan bastante tiempo de aprendizaje y trabajo, pero es muy recomendable tomarse ese tiempo en aprender, ya que un firewall puede protegerte de muchas amenazas altamente desagradables y dirigidas directamente hacía tu ordenador.
 
-La importancia del fireware aumenta si tu PC es portatil y si además; tu tiempo de estudio y trabajo es mayor en la universidad, cibercafés u otros lugares similares en vez de en tu propio domicilio. 
+La importancia del firewall aumenta si tu PC es portátil y si además; pasas más tiempo de estudio y trabajo en la universidad, cibercafés u otros lugares públicos en vez de en tu propio domicilio.
 
 Afortunadamente, existen muchas guías en Internet que pueden ayudarte a configurar el firewall dependiendo de tu Sistema Operativo y las necesidades que requieras.
 
 ## Un router configurado correctamente
 
-Este es un parámetro que en algunos casos puede ser complejo de modificar, puesto que dependes en parte de la compañia con la que trabajes para ello; además de requerir unos conocimientos mínimos. Siempre puedes pedir ayuda a tu operadora de telefonía, si es que deseas una mayor protección.
+Este es un parámetro que en algunos casos puede ser complejo de modificar, puesto que dependes en parte de la compañía con la que trabajes para ello; además de requerir unos conocimientos mínimos.
 
-El router es un elemento del hardware, pero también posee su parte de software; y en ella es en la que nos debemos centrar. Con la dirección IP y la contraseña de tu panel de acceso se pueden llegar a configurar ciertos apartados desde la configuración del propio enrutador. Por ejemplo, configurar la conexión, la configuración de seguridad y los puertos que están abiertos y cerrados.
+Siempre puedes pedir ayuda a tu operadora de telefonía, si es que deseas una mayor protección.
 
-Es recomendable configurar los ajustes apropiados dentro del router ya que eso va a provocar que sea más difícil para el resto de las personas conectarse a tu red, adentrarse y propagarse por el interior de ella.
+El router es un elemento del hardware, pero posee su pequeño software y en eso es en lo que nos debemos centrar. Con la dirección IP y la contraseña de tu panel de acceso se puede llegar a la configuración del propio enrutador y por ejemplo; configurar diferentes parámetros de la conexión, la configuración de seguridad y los puertos que están abiertos o cerrados.
+
+Es recomendable configurar los ajustes apropiados dentro del router ya que eso va a provocar que sea más difícil para el resto de las personas conectarse a tu red, con todos los posibles problemas que eso puede conllevar.
 
 ## Conclusión
 
-Como comenté al inicio de este artículo, hay muchas amenazas por Internet, pero eso no tiene porque decir que estés indefens@. Hay toneladas de software de seguridad disponible y todos ofrecen diferentes soluciones a diferentes problemas, y convinados de forma adecuada pueden crear un paraíso de la seguridad.
+Como comenté al inicio de este artículo, hay muchas amenazas por Internet, pero eso no tiene por qué decir que estés indefenso. Hay toneladas de aplicaciones de software de seguridad disponible y todas ofrecen diferentes soluciones a diferentes problemas, combinados correctamente pueden crear tu pequeño paraíso de la seguridad.
 
-No dejes pasar más tiempo y preocupate por tu seguridad en este año 2020, ¡Adelante y comienza a construir una base segura en tu PC!
+No dejes pasar más tiempo y preocúpate por tu seguridad en este año 2020, ¡Adelante y comienza a construir una base segura de tu tecnología!
 
-
-
-
-
-
-
-![](https://i.ibb.co/NVg9mBH/1deep-java-library-1578484330456.jpg "Uso de la librería de aprendizaje profundo Deep Java")
-> **Fuente**: [INFOQ](https://www.infoq.com/news/2020/01/deep-java-library/){:target="_blank"}
-Las funciones comunes para entrenar un modelo se muestran en el pseudocódigo DJL de muestra a continuación:
-
-```
-// Create an empty model
-Model model = Model.newInstance())
-. . .
-// Setup training with configurations
-Trainer trainer = model.newTrainer(config))
-. . .
-// Use trainer to fit model with training and validation datasets
-TrainingUtils.fit(trainer, epoch, trainingSet, validateSet);                   
-// Save the model         
-model.save(modelDir, "mlp"); 
-```
-
-Además, el repositorio [DJL GitHub](https://github.com/awslabs/djl){:target="_blank"} viene con conjuntos de datos populares, modelos pre-entrenados, ejemplos de código y tutoriales de Jupyter Notebook sobre casos de uso como clasificación de imágenes, segmentación de instancias y reconocimiento de acciones .  
-
-Otra biblioteca de código abierto y de aprendizaje profundo para Java es Deep Learning for Java ([DL4J](https://deeplearning4j.org/){:target="_blank"}), que está escrita en Java y aprovecha [Apache Spark](https://spark.apache.org/){:target=""_blank} y [Hadoop](https://hadoop.apache.org/){:target="_blank"} para acelerar el entrenamiento. DL4J es robusto, flexible, efectivo y un gran marco para desarrolladores de Java. Sin embargo, al  comparar DL4J con DJL y otros marcos de aprendizaje profundo, DL4J tiene la desventaja de que no puede beneficiarse de las crecientes bases de código Python de aprendizaje automático, que DJL puede, ya que es independiente del marco.
-
-Para obtener más información sobre DJL, consulte el sitio web de DJL , la especificación de API Java Doc y la página de inicio .
-
-[👉 Visitar Biblioteca Deep Java Librería 🤖](https://djl.ai/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[👉 Documentación Biblioteca Deep Java Librería 🤖](https://javadoc.djl.ai/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[👉 Repositorio de Github: Deep Java Librería 🤖](https://github.com/awslabs/djl#getting-started){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-
-_____
-
-**Fuentes**:
-* [INFOQ](https://www.infoq.com/news/2020/01/deep-java-library/){:target="_blank"}
-
+[👉 Visita las Guías de Seguridad de la EFF 🔐](/eff/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
