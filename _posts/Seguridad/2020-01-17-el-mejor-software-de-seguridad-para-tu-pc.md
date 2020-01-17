@@ -7,6 +7,7 @@ published: true
 comments: true
 date: 2020-01-17 09:30:12
 last_modified_at: 
+classes: wide
 canonical_URL: /el-mejor-software-seguridad-2020/
 categories:
 - Software
