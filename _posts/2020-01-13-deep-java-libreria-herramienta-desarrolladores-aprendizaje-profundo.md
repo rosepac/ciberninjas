@@ -23,6 +23,8 @@ categories:
 # toc_sticky: true
 ---
 
+![](https://i.ibb.co/k0C7sKf/deepjavalibrary.png)
+
 En la conferencia de AWS: Invent 2019, Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la predicción con modelos de aprendizaje profundo.
 
 Si bien Java sigue siendo el primer o segundo lenguaje de programación más popular desde finales de los 90, Python es el lenguaje más utilizado para el aprendizaje automático, con numerosos recursos y marcos de aprendizaje profundo. DJL tiene como objetivo hacer que las herramientas de código abierto de aprendizaje profundo sean accesibles para los desarrolladores de Java, utilizando conceptos familiares y API intuitivas. Los desarrolladores de Java pueden usar su IDE favorito con la ejecución de código basada en DJL o [Jupyter Notebook](https://jupyter.org/){:target="_blank"} para Java.
@@ -31,6 +33,7 @@ DJL es agnóstico de framework; abstrae las funciones de aprendizaje profundo de
 
 ![](https://i.ibb.co/NVg9mBH/1deep-java-library-1578484330456.jpg "Uso de la librería de aprendizaje profundo Deep Java")
 > **Fuente**: [INFOQ](https://www.infoq.com/news/2020/01/deep-java-library/){:target="_blank"}
+
 Las funciones comunes para entrenar un modelo se muestran en el pseudocódigo DJL de muestra a continuación:
 
 ```
@@ -50,10 +53,16 @@ Además, el repositorio [DJL GitHub](https://github.com/awslabs/djl){:target="_b
 
 Otra biblioteca de código abierto y de aprendizaje profundo para Java es Deep Learning for Java ([DL4J](https://deeplearning4j.org/){:target="_blank"}), que está escrita en Java y aprovecha [Apache Spark](https://spark.apache.org/){:target=""_blank} y [Hadoop](https://hadoop.apache.org/){:target="_blank"} para acelerar el entrenamiento. DL4J es robusto, flexible, efectivo y un gran marco para desarrolladores de Java. Sin embargo, al  comparar DL4J con DJL y otros marcos de aprendizaje profundo, DL4J tiene la desventaja de que no puede beneficiarse de las crecientes bases de código Python de aprendizaje automático, que DJL puede, ya que es independiente del marco.
 
-Para obtener más información sobre DJL, consulte el sitio web de DJL , la especificación de API Java Doc y la página de inicio .
+## Visión General
+
+Deep Java Library (DJL) es una API Java de código abierto, de alto nivel y agnóstica para el aprendizaje profundo. DJL está diseñado para ser fácil de comenzar y fácil de usar para los desarrolladores de Java. DJL proporciona una experiencia de desarrollo Java nativa y funciona como cualquier otra biblioteca Java normal.
+
+No tiene que ser experto en aprendizaje automático / aprendizaje profundo para comenzar. Puede usar su experiencia Java existente como una rampa de acceso para aprender y usar el aprendizaje automático y el aprendizaje profundo. Puede usar su IDE favorito para construir, entrenar e implementar sus modelos. DJL facilita la integración de estos modelos con sus aplicaciones Java.
+
+Debido a que DJL es independiente del marco de aprendizaje profundo, no tiene que elegir entre marcos al crear sus proyectos. Puede cambiar marcos en cualquier momento. Para garantizar el mejor rendimiento, DJL también ofrece opciones automáticas de CPU / GPU basadas en la configuración del hardware.
 
 [👉 Visitar Biblioteca Deep Java Librería 🤖](https://djl.ai/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[👉 Documentación Biblioteca Deep Java Librería 🤖](https://javadoc.djl.ai/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Repositorio de Github: Deep Java Librería 🤖](https://github.com/awslabs/djl#deep-java-library-djl){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 [👉 Repositorio de Github: Deep Java Librería 🤖](https://github.com/awslabs/djl#getting-started){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 _____
