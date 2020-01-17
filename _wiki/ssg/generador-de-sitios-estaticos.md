@@ -37,9 +37,9 @@ Un generador de sitio estático o SSG - viene de la abreviatura del significado 
 
 ## Otros Enlaces
 
-- [Hexo] (http://zespia.tw/hexo/): un marco de blog rápido, simple y potente, impulsado por Node.js.
-- [Punch] (http://laktek.github.com/punch/): Punch es un marco de publicación web simple e intuitivo que hará las delicias de los diseñadores y desarrolladores basados en Node.js.
-- [Introducción a los generadores de sitios estáticos] (http://www.mickgardner.com/2012/12/an-introduction-to-static-site.html)
+- [Hexo](http://zespia.tw/hexo/): un marco de blog rápido, simple y potente, impulsado por Node.js.
+- [Punch](http://laktek.github.com/punch/): Punch es un marco de publicación web simple e intuitivo que hará las delicias de los diseñadores y desarrolladores basados en Node.js.
+- [Introducción a los generadores de sitios estáticos](http://www.mickgardner.com/2012/12/an-introduction-to-static-site.html)
 
 **Categorías**: [Generadores de Sitios Estáticos](/generadores-de-sitios-estaticos)
 {: .notice--success}
