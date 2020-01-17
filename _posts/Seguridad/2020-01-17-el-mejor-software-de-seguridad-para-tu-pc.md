@@ -10,8 +10,8 @@ last_modified_at:
 classes: wide
 canonical_URL: /el-mejor-software-seguridad-2020/
 header:
-  teaser: https://i.ibb.co/LNzMr7x/15462325023-b67ac5540a-k.jpg
-  overlay_image: https://i.ibb.co/LNzMr7x/15462325023-b67ac5540a-k.jpg
+  teaser: https://i.ibb.co/QbQdXYt/candado-naturaleza.jpg
+  overlay_image: https://i.ibb.co/QbQdXYt/candado-naturaleza.jpg
   overlay_filter: 0.2
   image_description: 'Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos'
   image_alt: 'Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos'
