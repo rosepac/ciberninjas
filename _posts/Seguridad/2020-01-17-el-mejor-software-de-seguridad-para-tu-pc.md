@@ -10,6 +10,12 @@ last_modified_at:
 canonical_URL: /el-mejor-software-seguridad-2020/
 categories:
 - Software
+- Seguridad
+tags:
+- VPN
+- Malware
+- Firewall
+- Router
 # header:
 #  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 #   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
