@@ -4,7 +4,7 @@ title: "👨‍🎨 Palabras más usadas en cada lenguaje de programación"
 description: "\U0001F3A8 Nubes de palabras utilizadas en cada uno de los diferentes lenguajes de programación"
 excerpt: "\U0001F3A8 Nubes de palabras utilizadas en cada uno de los diferentes lenguajes de programación"
 comments: true
-date: 2020-01-21 006:43:00 +0200
+date: 2020-01-21 06:43:00 +0200
 permalink: /palabras-lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/palabras-lenguajes-programacion/
 classes: wide
