@@ -252,6 +252,8 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 ## Ingienería
 
 * [Albañilería](https://edutin.com/curso-de-alba%C3%B1ileria-completo-3328) (Educatin)
+* [Ansys Workbench: Introducción](https://www.udemy.com/introduccion-a-ansys-workbench)
+* [Ansys WorkBench: Avanzado](https://www.youtube.com/playlist?list=PLS1OTKyEcTvtgpms25WI8L6kHPx30h_Ph){:target="_blank"} (Enzo Garofalo, YouTube)
 * [Caer o No caer. El Secreto de las Estructuras.](https://www.edx.org/course/caer-o-no-caer-el-secreto-de-las-uc3mx-mmc-1x-0)
 * [Geoestadística Práctica: usando Sgems y gvSIG](https://www.udemy.com/geoestadistica-practica-usando-sgems-y-gvsig)
 * [Introducción a Ansys Workbench](https://www.udemy.com/introduccion-a-ansys-workbench)
