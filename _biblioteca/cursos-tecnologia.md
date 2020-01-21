@@ -71,7 +71,7 @@ sidebar:
 * [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion){:target="_blank"} (OCW)
 * [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134){:target="_blank"} (OCW)
 
-[🔝 Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Big Data 👨‍👩‍👦
 
@@ -85,7 +85,7 @@ sidebar:
 * [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-){:target="_blank"} (MiriadaX)
 * [Representación de datos digitales](https://www.youtube.com/playlist?list=PLGnRLcmvdTqybDTk0qdEm5tKpxA55swau){:target="_blank"} (Alberto Prieto Espinosa, YouTube)
 
-[🔝 Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Machine Learning
 
@@ -98,7 +98,7 @@ sidebar:
 * [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-2-edicion-) (MiriadaX)
 * [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://www.udemy.com/course/curso-machine-learning)
 
-[⬆⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## SQL
 
@@ -106,7 +106,7 @@ sidebar:
 * [Introducción a SQL con Oracle 11g](https://www.udemy.com/introduccion-a-sql-con-oracle-11g) (Udemy)
 * [Sistema de Login en Visual Basic y SQL Server en Capas](https://www.udemy.com/course/login-vb-sql/) (Udemy) (2019)
 
-[🔝 Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 🔬 Ciencias de la Computación
 
@@ -208,7 +208,7 @@ sidebar:
 * [UML. Fundamentos, diagramas. Caso de estudio](https://www.udemy.com/uml-fundamentos-5-diagramas-caso-de-estudio){:target="_blank"} (Udemy)
 * [Variable compleja para métodos matemáticos. Parte 1](https://www.udemy.com/variable-compleja-para-metodos-matematicos-parte-1){:target="_blank"} (Udemy)
 
-[🔝 Subir a Ciencias 🔬](/cursos-tecnologia/#-ciencias-de-la-computación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Ciencias 🔬](/cursos-tecnologia/#-ciencias-de-la-computación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 🛒 Comercio Electrónico
 
@@ -238,7 +238,7 @@ sidebar:
 * [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://www.udemy.com/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa){:target="_blank"} (Udemy)
 * [Tienda Online con WooCommerce desde cero](https://www.udemy.com/tienda-online-con-woocommerce-desde-cero){:target="_blank"} (Udemy)
 
-[🔝 Subir a E-Commerce 🛒](/cursos-tecnologia/#-comercio-electrónico){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a E-Commerce 🛒](/cursos-tecnologia/#-comercio-electrónico){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## ⛓ Blockchain
 
@@ -259,11 +259,12 @@ sidebar:
 * [Lightning Network: Cómo funciona y cómo instalar un nodo LN](https://www.tutellus.com/tecnologia/blockchain/lightning-network-como-funciona-y-como-instalar-un-nodo-ln-23692){:target="_blank"} (Tutellus)
 * [Qué es y Cómo usar la Blockchain de NEM](https://www.tutellus.com/tecnologia/blockchain/que-es-y-como-usar-la-blockchain-de-nem-22720){:target="_blank"} (Tutellus)
 
-[🔝 Subir a Blockchain ⛓](/cursos-tecnologia/#-blockchain){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Blockchain ⛓](/cursos-tecnologia/#-blockchain){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Criptomonedas 💰
 
 ### Bitcoin <i class="fab fa-bitcoin"></i>
+
 * [Bitcoin: Qué es y como comprarlo](https://www.udemy.com/bitcoin-){:target="_blank"} (Udemy)
 * [Bitcoin Construye un imperio minando en la nube](https://www.udemy.com/bitcoin-construye-un-imperio-minando-en-la-nube){:target="_blank"} (Udemy)
 * [Bitcoin como Activo de Inversión](https://www.tutellus.com/tecnologia/blockchain/bitcoin-como-activo-de-inversion-19751){:target="_blank"} (Tutellus)
@@ -278,9 +279,9 @@ sidebar:
 * [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://www.udemy.com/curso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx){:target="_blank"} (Udemy)
 * [Trading Forex para principiantes - Estrategias Clave](https://www.udemy.com/estrategias-trading-forex-y-operaciones-bursatiles){:target="_blank"} (Udemy)
 
-[🔝 Subir a Blockchain](/cursos-tecnologia/#-blockchain){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Blockchain](/cursos-tecnologia/#-blockchain){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## 🐧 Ecosistema de Código Abierto
+## 🐧 Ecosistema de Software Libre
 
 [Linux <i class="fab fa-linux"></i>](/cursos-tecnologia/#linux-){: .btn .btn--inverse .btn--large} [Ubuntu <i class="fab fa-ubuntu"></i>](/cursos-tecnologia/#ubuntu-){: .btn .btn--inverse .btn--large}
 
@@ -290,13 +291,19 @@ sidebar:
 ### Linux <i class="fab fa-linux"></i>
 
 * [Expresiones Regulares (Regex)](https://www.udemy.com/course/expresiones-regulares-regex/){:target="_blank"} (Udemy) (2019)
+* [Introducción a Linux: Instala Linux en tu PC](https://www.udemy.com/instala-linux-en-tu-pc){:target="_blank"} (Udemy)
+* [Introducción a Linux como entorno de desarrollo de Sistemas Operativos](https://miriadax.net/web/introduccion-a-linux-como-entorno-de-desarrollo-de-sistemas-software){:target="_blank"} (Udemy)
 * [Linux para principiantes](https://www.udemy.com/course/linux-para-principiantes-1/){:target="_blank"} (Udemy) (2019)
 
 ### Ubuntu <i class="fab fa-ubuntu"></i>
 
 * [Instalar Ubuntu en VirtualBox](https://www.youtube.com/watch?v=uV5boDESAe0){:target="_blank"}
 
-## 👨‍🔧 Metodologías de Desarrollo
+[⏫ Subir a Software Libre](/cursos-tecnologia/#-ecosistema-de-software-libre){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## 💼 Metodologías de Desarrollo
+
+[Integración Continua](/cursos-tecnologia/#integracion-continua){: .btn .btn--inverse .btn--large} [Grunt <i class="fab fa-grunt"></i>](/cursos-tecnologia/#grunt-){: .btn .btn--inverse .btn--large} [Estudiar 💭](/cursos-tecnologia/#estudiar-){: .btn .btn--inverse .btn--large}
 
 * [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank"} (Udemy)
 * [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-){:target="_blank"} (MiriadaX)
@@ -340,67 +347,102 @@ sidebar:
 
 * [Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles](https://www.coursera.org/learn/aprendiendo-a-aprender){:target="_blank"}
 
-[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Metodologías](/cursos-tecnologia/#-metodologías-de-desarrollo){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 💻 Ofimática
 
-* [Aprende a usar Google Drive de una manera fácil y sencilla](https://www.udemy.com/aprende-a-usar-google-drive-de-una-manera-facil-y-sencilla){:target="_blank"} (Udemy)
-* [Aprende fácilmente funciones en Excel](https://www.udemy.com/aprende-facilmente-funciones-en-excel){:target="_blank"} (Udemy)
-* [Cómo hacer screenshots para tus APPS de manera fácil](https://www.udemy.com/como-hacer-screenshots-para-tus-apps-de-manera-facil){:target="_blank"} (Udemy)
-* [Computación básica desde cero](https://www.udemy.com/computacion-basica-desde-cero-hasta-redes-sociales){:target="_blank"} (Udemy)
-* [Contabilidad básica](https://www.academiajaf.com/como/aprender/contabilidad/contabilidad-curso-basico/135-capitulo-001-introduccion-a-la-contabilidad){:target="_blank"} (Academia JAF)
-* [Creación y retoque de imágenes con software libre](https://miriadax.net/web/creacion-y-retoque-2-ed){:target="_blank"} (MiriadaX)
+[Acces](/cursos-tecnologia/#acces){: .btn .btn--inverse .btn--large} [Excel](/cursos-tecnologia/#excel){: .btn .btn--inverse .btn--large} [Google Drive](/cursos-tecnologia/#google-drive){: .btn .btn--inverse .btn--large} [Presentaciones](/cursos-tecnologia/#presentaciones){: .btn .btn--inverse .btn--large} [Software Libre](/cursos-tecnologia/#software-libre){: .btn .btn--inverse .btn--large} [Otros](/cursos-tecnologia/#presentaciones){: .btn .btn--inverse .btn--large} [Word](/cursos-tecnologia/#word){: .btn .btn--inverse .btn--large}
+
+## Office
+
+* [Microsoft Office 2013](https://www.youtube.com/playlist?list=PL2994D8A0985CFC9A) (Pablo Martinez, YouTube)
+
+### Acces
+
 * [Curso de Acces 2010 Avanzado](https://www.youtube.com/playlist?list=PL87EB5DB749276DAF){:target="_blank"} (Jesús Conde, Youtube)
 * [Curso de Acces 2010 Básico](https://www.youtube.com/playlist?list=PLDA8B66B264169835){:target="_blank"} (Jesús Conde, Youtube)
+* [Curso VBA Acces](https://www.youtube.com/playlist?list=PLC3E8FA619DF71898){:target="_blank"} (Jesús Conde, Youtube)
+* [Diseño de sistemas de información gerencial para intranet con Microsoft Access](https://www.edx.org/course/diseno-de-sistemas-de-informacion-gerencial-para-2){:target="_blank"} (EDX \ Universidad del Rosario)
+
+### Excel
+
+* [Aprende fácilmente funciones en Excel](https://www.udemy.com/aprende-facilmente-funciones-en-excel){:target="_blank"} (Udemy)
 * [Curso de Excel 2010 Avanzado](https://www.youtube.com/playlist?list=PLFED09792AB0E606F){:target="_blank"} (Jesús Conde, Youtube)
 * [Curso de Excel 2010 Básico](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkCs-P-AnQhxsSyxSxv9jfI){:target="_blank"} (Jesús Conde, Youtube)
-* [Curso de Word 2010 Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnPxtSjts4Tieg4AbIRYz1K){:target="_blank"} (Jesús Conde, Youtube)
-* [Curso Powerpoint 2013](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmWjtgpPMSVRKu-g8SoAntx){:target="_blank"} (Pildoras Informáticas, Youtube)
-* [Curso VBA Acces](https://www.youtube.com/playlist?list=PLC3E8FA619DF71898){:target="_blank"} (Jesús Conde, Youtube)
 * [Curso VBA Excel](https://www.youtube.com/playlist?list=PLF79C9D65E1EC4807){:target="_blank"} (Jesús Conde, Youtube)
-* [Diseño de sistemas de información gerencial para intranet con Microsoft Access](https://www.edx.org/course/diseno-de-sistemas-de-informacion-gerencial-para-2){:target="_blank"} (EDX \ Universidad del Rosario)
-* [Diseña presentaciones eficaces con PowerPoint](https://www.EDX.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
 * [Domina Excel 2013; Básico e Intermedio](https://www.udemy.com/domina-excel-2013-basico-intermedio-en-menos-de-4-horas){:target="_blank"} (Udemy)
-* [Domina la hoja de cálculo de Google sin esfuerzo](https://www.udemy.com/domina-la-hoja-de-calculo-de-google-sin-esfuerzo){:target="_blank"} (Udemy)
 * [Excel 1 (Básico)](https://www.EDX.org/course/excel-upvalenciax-xls101x-1){:target="_blank"} (EDX)
 * [Excel 2 (Gestión de Datos)](https://www.EDX.org/course/excel-2-gestion-de-datos-upvalenciax-xls201x){:target="_blank"} (EDX)
 * [Excel 2013: Intermedio/Avanzado](https://www.youtube.com/playlist?list=PLmJE_P_j3_IedCBho8XsiqJ_7zNpdRHuX){:target="_blank"} (WHYGS, YouTube)
 * [Excel 2016 Avanzado](https://www.youtube.com/playlist?list=PLLniqWgyb4HGYSJQySM46YNNRHF0_2POA){:target="_blank"} (Dostin Hurtado, YouTube)
 * [Funciones de Excel. Píldoras Rápidas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnCoBbzTNcA756BvMREA6Hl){:target="_blank"} (Pildoras Informáticas, Youtube)
 * [Funciones en Excel 2013](https://www.youtube.com/playlist?list=PLEjoYXWNBV2N-TbJXimHXWqgP_kvB7i7F){:target="_blank"} (Franklin Parrado Fuentes, YouTube)
+* [Introducción a Excel 2010](https://www.udemy.com/introduccion-a-excel-2010){:target="_blank"} (Udemy)
+* [Macros en Excel 2013](https://www.youtube.com/playlist?list=PLssmz9LfwThwB1vNne20qW6d51juop_Dl){:target="_blank"} (Tecnoges, YouTube)
+* [Macros y VBA para Excel desde cero](https://www.udemy.com/macros-y-vba-para-excel-desde-cero){:target="_blank"} (Udemy)
+* [Operaciones financieras en Excel](https://www.youtube.com/playlist?list=PLFNWPvtjBMjtG2o48zgCj2fItp53dPBc4) (Excel y Más, YouTube)
+
+### Powerpoint
+
+* [Curso Powerpoint 2013](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmWjtgpPMSVRKu-g8SoAntx){:target="_blank"} (Pildoras Informáticas, Youtube)
+* [Diseña presentaciones eficaces con PowerPoint](https://www.EDX.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
+* [Introducción a PowerPoint 2010](https://www.udemy.com/introduccion-a-powerpoint-2010){:target="_blank"} (Udemy)
+* [Introducción al PowerPoint 2013](https://www.udemy.com/introduccion-al-powerpoint-2013){:target="_blank"} (Udemy)
+* [Microsoft Powerpoint 2013](https://www.youtube.com/playlist?list=PL5vjFJ0wFekJnqeP2qZNHGft7SoIGJu8B) (Yoney Gallardo, YouTube)
+
+### Word
+
+* [Curso de Word 2010 Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnPxtSjts4Tieg4AbIRYz1K){:target="_blank"} (Jesús Conde, Youtube)
+* [Introducción a Word 2010](https://www.udemy.com/introduccion-a-word-2010){:target="_blank"} (Udemy)
+* [Microsoft Word 2013](https://www.youtube.com/playlist?list=PLomN84AdULIAyCVh5aH55gkbANr7dBctW){:target="_blank"} (Aula Click, YouTube)
+* [Word intermedio: herramientas de formato y productividad](https://www.EDX.org/es/course/word-intermedio-herramientas-de-formato-y-producti){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
+
+### Google Drive
+
+* [Aprende a usar Google Drive de una manera fácil y sencilla](https://www.udemy.com/aprende-a-usar-google-drive-de-una-manera-facil-y-sencilla){:target="_blank"} (Udemy)
+* [Domina la hoja de cálculo de Google sin esfuerzo](https://www.udemy.com/domina-la-hoja-de-calculo-de-google-sin-esfuerzo){:target="_blank"} (Udemy)
+
+### Presentaciones
+
+* [Cómo hacer screenshots para tus APPS de manera fácil](https://www.udemy.com/como-hacer-screenshots-para-tus-apps-de-manera-facil){:target="_blank"} (Udemy)
+
+### Historia Informática
+
+* [Computación básica desde cero](https://www.udemy.com/computacion-basica-desde-cero-hasta-redes-sociales){:target="_blank"} (Udemy)
+
+### Contabilidad
+
+* [Contabilidad básica](https://www.academiajaf.com/como/aprender/contabilidad/contabilidad-curso-basico/135-capitulo-001-introduccion-a-la-contabilidad){:target="_blank"} (Academia JAF)
+
+### Software Libre
+
+* [Creación y retoque de imágenes con software libre](https://miriadax.net/web/creacion-y-retoque-2-ed){:target="_blank"} (MiriadaX)
+
+## Gestión e Informática
+
 * [Informática de Gestión (2009)](http://ocw.uc3m.es/ingenieria-informatica/informatica-de-gestion){:target="_blank"} (OCW)
 * [Informática de Gestión (2010)](https://ocw.ehu.eus/file.php/122/Informatica_gestion/Course_listing.html){:target="_blank"} (OCW)
 * [Informática de Gestión II (2012)](http://ocw.ugr.es/course/view.php?id=86){:target="_blank"} (OCW)
-* [Informática desde cero](https://www.udemy.com/informatica-desde-cero){:target="_blank"} (Udemy)
-* [Introducción a Excel 2010](https://www.udemy.com/introduccion-a-excel-2010){:target="_blank"} (Udemy)
-* [Introducción a Linux: Instala Linux en tu PC](https://www.udemy.com/instala-linux-en-tu-pc){:target="_blank"} (Udemy)
-* [Introducción a Linux como entorno de desarrollo de Sistemas Operativos](https://miriadax.net/web/introduccion-a-linux-como-entorno-de-desarrollo-de-sistemas-software){:target="_blank"} (Udemy)
+* [Informática desde Cero](https://www.udemy.com/informatica-desde-cero){:target="_blank"} (Udemy)
+
+### Otros
+
 * [Introducción a Outlook 2010](https://www.udemy.com/introduccion-a-outlook-2010){:target="_blank"} (Udemy)
-* [Introducción a PowerPoint 2010](https://www.udemy.com/introduccion-a-powerpoint-2010){:target="_blank"} (Udemy)
-* [Introducción a Word 2010](https://www.udemy.com/introduccion-a-word-2010){:target="_blank"} (Udemy)
-* [Introducción al PowerPoint 2013](https://www.udemy.com/introduccion-al-powerpoint-2013){:target="_blank"} (Udemy)
 * [LibreOffice Writer](https://www.youtube.com/playlist?list=PLLLaU95AMQPqAgeXCjQgXawAPABR19U2k){:target="_blank"} (VideoTutoriales Education, YouTube)
-* [Macros en Excel 2013](https://www.youtube.com/playlist?list=PLssmz9LfwThwB1vNne20qW6d51juop_Dl){:target="_blank"} (Tecnoges, YouTube)
-* [Macros y VBA para Excel desde cero](https://www.udemy.com/macros-y-vba-para-excel-desde-cero){:target="_blank"} (Udemy)
-* [Microsoft Office 2013](https://www.youtube.com/playlist?list=PL2994D8A0985CFC9A) (Pablo Martinez, YouTube)
-* [Microsoft Powerpoint 2013](https://www.youtube.com/playlist?list=PL5vjFJ0wFekJnqeP2qZNHGft7SoIGJu8B) (Yoney Gallardo, YouTube)
 * [Microsoft Project 2013](https://www.youtube.com/playlist?list=PL7Sb5pi3h9JigadkTKlbhxBFTptqN-tHY){:target="_blank"} (Grupo Ephyco, YouTube)
-* [Microsoft Word 2013](https://www.youtube.com/playlist?list=PLomN84AdULIAyCVh5aH55gkbANr7dBctW){:target="_blank"} (Aula Click, YouTube)
 * [OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice){:target="_blank"} (MiriadaX)
 * [OpenOffice Calc. Gestión de datos sobre hojas de cálculo (2014)](https://ocw.unican.es/course/view.php?id=61){:target="_blank"} (OCW)
-* [Operaciones financieras en Excel](https://www.youtube.com/playlist?list=PLFNWPvtjBMjtG2o48zgCj2fItp53dPBc4) (Excel y Más, YouTube)
 * [Presentaciones eficaces (2012)](https://ocw.unican.es/course/view.php?id=188){:target="_blank"} (OCW)
 * [Software libre (2006)](http://ocw.upm.es/ciencia-de-la-computacion-e-inteligencia-artificial/software-libre){:target="_blank"} (OCW)
 * [Software Libre: Ofimática con OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice) {:target="_blank"} (MiriadaX)
 * [Software Libre y Conocimiento en Abierto](https://miriadax.net/web/soft_libre_y_conocimiento/inicio){:target="_blank"} (MiriadaX)
 * [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-){:target="_blank"} (MiriadaX)
-* [Word intermedio: herramientas de formato y productividad](https://www.EDX.org/es/course/word-intermedio-herramientas-de-formato-y-producti){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
 
 ## ArcGIS
 
 * [Publicación y Análisis de mapas en la Web con ArcGIS Online](https://www.udemy.com/arcgis-online){:target="_blank"} (Udemy)
 
-[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Ofimática](/cursos-tecnologia/#-ofimática){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 🔨 Procesadores de Lenguaje
 
@@ -412,7 +454,7 @@ sidebar:
 * [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56){:target="_blank"} (OCW)
 * [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes){:target="_blank"} (OCW)
 
-[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Procesadores](/cursos-tecnologia/#-procesadores){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 👦 Programación Infantil
 
@@ -435,7 +477,7 @@ sidebar:
 * [Slider e Introducción](https://www.udemy.com/slider-introduccion-a-appinventor){:target="_blank"} (Udemy)
 * [Videoplayer](https://www.udemy.com/app-inventor-2-videoplayer){:target="_blank"} (Udemy)
 
-[🔝 Subir a Programación Infantil 👦](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Programación Infantil 👦](/cursos-tecnologia/#-programación-infantil){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Scratch <i class="fas fa-paw"></i>
 
@@ -447,7 +489,7 @@ sidebar:
 * [Videojuegos con Scratch -12 juegos-](/videojuegos-scratch-programo-ergo-sum) (Youtube) (2016)
 <!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
 
-[🔝 Subir a Programación Infantil 👦](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Programación Infantil 👦](/cursos-tecnologia/#-programación-infantil){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 <!-- Programo Ergo Sum: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists -->
 
 ## 👨‍💻 Lenguajes de Programación
@@ -477,7 +519,7 @@ sidebar:
 * [C++: Básico a Avanzado](https://www.udemy.com/curso-de-cpp-basico-a-avanzado){:target="_blank"} (Udemy)
 * [Estructura de datos en C++](https://www.youtube.com/playlist?list=PLsaihF7BSsEkaGMkquCQNpMjyQXOpL9iU){:target="_blank"} (Programación Explicada, YouTube)
 
-[🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Dart
 
@@ -511,7 +553,7 @@ sidebar:
 * [Programación con Java Standard](https://miriadax.net/web/programacion-con-java-standard-3-edicion-){:target="_blank"} (MiriadaX)
 * [Java Server Faces](https://www.youtube.com/watch?v=_-jeU2wbRDM&list=PLvimn1Ins-41sC9i3XpIniGbo4Msnxam6){:target="_blank"} (Mito Code, Youtube)
 
-[🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Java Frameworks <i class="fab fa-java"></i>
 
@@ -554,7 +596,7 @@ sidebar:
 * [JavaScript en páginas web: paso a paso](https://www.udemy.com/curso-gratis-javascript-principiantes-paso-a-paso){:target="_blank"} (Udemy)
 * [JavaScript ES 6 (2.017)](https://www.udemy.com/es6-javascript){:target="_blank"} (Udemy)
 
-[🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Javascript Frameworks <i class="fab fa-js"></i>
 
@@ -587,7 +629,7 @@ sidebar:
 * [Programación en Internet (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-internet-2008.html){:target="_blank"} (OWC)
 * [Programador web: Cookies y Sesiones en PHP](https://www.udemy.com/programador-web-php-cookies-y-sesiones){:target="_blank"} (Udemy)
 
-[🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## PHP Frameworks <i class="fab fa-php"></i>
 
@@ -624,7 +666,7 @@ sidebar:
 * [PHP, Symfony y Desarrollo Web](https://diego.com.es){:target="_blank"} (HTML)
 * [Symfony 3: en producción. Subir y publicar proyectos web](https://www.udemy.com/symfony-3-en-produccion-subir-y-publicar-proyectos-web){:target="_blank"} (Udemy)
 
-[🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Zend
 
@@ -652,7 +694,7 @@ sidebar:
 * [Qt usando Python y PyQT](https://www.youtube.com/playlist?list=PLEtcGQaT56cj81xiNCrJnoAjc66uZVXDa){:target="_blank"} (Jesús Conde, YouTube)
 * [Web Scraping](https://www.youtube.com/playlist?list=PLuaGRMrO-j-8B_RT_2kGE6NW-ZxzHaU17){:target="_blank"} (Leonardo Kuffo, Youtube) (2017)
 
-[🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Python Frameworks <i class="fab fa-python"></i>
 
@@ -665,13 +707,15 @@ sidebar:
 
 * [Crear aplicaciones con Ruby](https://www.udemy.com/crear-aplicaciones-con-ruby){:target="_blank"} (Udemy)
 
-[🔝 Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Ruby Frameworks <i class="fas fa-gem"></i>
 
 ### Ruby and Rails
 
 * [Introducción a Ruby on Rails y servicios REST](https://plataforma.keepcoding.io/courses/enrolled/123885){:target="_blank"} (Keep Coding)
+
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 👩‍💻 Desarrollo Web
 
@@ -703,7 +747,7 @@ sidebar:
 
 * [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_) (Gyga Code, Youtube)
 
-[🔝 Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Angular <i class="fab fa-angular"></i>
 
@@ -724,7 +768,7 @@ sidebar:
 * [Introducción a Angular 6](https://plataforma.keepcoding.io/p/curso_angular_6_intro){:target="_blank"} (Keep Coding)
 * [Introducción curso fundamentos Angular JS + HTML5 + CSS3](https://plataforma.keepcoding.io/p/introduccion-a-html5-css3-angularjs){:target="_blank"} (Keep Coding)
 
-[🔝 Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Docker <i class="fab fa-docker"></i>
 
@@ -734,7 +778,7 @@ sidebar:
 * [Iniciando con Containers en Dockers](https://www.udemy.com/iniciando-con-containers-en-docker){:target="_blank"} (Udemy)
 * [Introducción al backend en PHP y MySQL (+ Docker)](https://www.udemy.com/course/introduccion-al-backend-en-php-y-mysql-docker){:target="_blank"}
 
-[🔝 Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Ionic
 
@@ -784,7 +828,7 @@ sidebar:
 * [Curso de Vue JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cggm3J7XLzLUw_cgChgNYcQ){:target="_blank"} (Jesús Conde, Youtube)
 * [Primera aplicación con Vuejs 2, Vuez y SocketIO](https://www.udemy.com/primera-aplicacion-con-vuejs-2-vuex-y-socketio){:target="_blank"} (Udemy)
 
-[🔝 Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Programación Web 👩‍💻
 
@@ -1299,6 +1343,7 @@ _____
 
 ### Youtube <i class="fab fa-youtube"></i>
 
+* [Academia de Creadores de Youtube](https://creatoracademy.youtube.com/page/home){:target="_blank"} (Youtube)
 * [Cómo convertirse en un usuario experto de Youtube](https://www.udemy.com/como-convertirte-en-un-usuario-experto-de-youtube){:target="_blank"} (Udemy)
 * [Curso ganar dinero en Youtube](https://www.youtube.com/playlist?list=PLzBklNHovU38WNPTX0RAn8Duvr-OxqJNI){:target="_blank"} (SEO Carlangas, Youtube)
 
