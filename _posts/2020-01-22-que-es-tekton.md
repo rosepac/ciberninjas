@@ -87,11 +87,11 @@ Esto hace que las tuberías de entrega sean más difíciles de escribir, compren
 ¡Ingrese al modo script! Inspirado por algunas ideas de [Ahmet Alp Balkan](https://twitter.com/ahmetb?lang=en){:target="_blank"}, [Jason Hall](https://twitter.com/imjasonh){:target="_blank"} formuló una propuesta para que sea mucho más fácil definir tareas que solo necesitan ejecutar un script bash simple. Así es como se ve:
 
 ```
-- nombre: hola
-  imagen: ubuntu
-  guión: |
-    #! / bin / bash
-    echo "hola"
+- name: hello
+  image: ubuntu
+  script: |
+    #!/bin/bash
+    echo "hello"
 ```
 
 Notarás que hay muchas menos líneas de repetitivo. Ya no es necesario especificar args, un punto de entrada o recordar la parte difícil "-c". Simplemente especifique el intérprete que desea usar y los comandos para ejecutar. ¡Esto ya nos ha permitido simplificar docenas de casos de prueba y ejemplos!
@@ -114,7 +114,7 @@ Los cambios importantes en v0.9.0 incluyen:
 
 ### Estandarización de rutas de salida para resúmenes de imágenes
 
-Actualmente, Tekton proporciona un mecanismo para almacenar los resúmenes de imágenes de contenedores creadas por Tareas. Este mecanismo era anterior al `PipelineResource`subsistema y requería que los autores de Tareas escribieran estos resúmenes en una ubicación específica en `/builder/image-outputs`. Este cambio lo mueve a la ruta estándar para los recursos de salida, en `/workspace/output/`.
+Actualmente, Tekton proporciona un mecanismo para almacenar los resúmenes de imágenes de contenedores creadas por Tareas. Este mecanismo era anterior al `PipelineResource`subsistema y requería que los autores de Tareas escribieran estos resúmenes en una ubicación específica en `/builder/image-outputs`. Este cambio lo mueve a la ruta estándar para los recursos de salida, en `/workspace/output/<resource-name>`.
 
 ### Simplificación del recurso de clúster.
 
