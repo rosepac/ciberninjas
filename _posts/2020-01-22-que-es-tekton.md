@@ -144,6 +144,7 @@ Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.or
 
 [👉 Repositorio de Tekton 🤞](https://github.com/tektoncd){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 <!-- wiki, integración continua: https://en.wikipedia.org/wiki/Continuous_integration#CI/CD -->
+<!-- - [Instalación de tuberías de Tekton](https://github.com/tektoncd/pipeline/blob/master/docs/install.md) - ¡Salta con [el tutorial!](https://github.com/tektoncd/pipeline/blob/master/docs/tutorial.md) -->
 _____
 
 **Fuentes**:
