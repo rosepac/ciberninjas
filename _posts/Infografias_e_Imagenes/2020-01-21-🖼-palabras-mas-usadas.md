@@ -1,8 +1,8 @@
 ---
 author_profile: false
 title: "👨‍🎨 Palabras más usadas en cada lenguaje de programación"
-description: "\U0001F3A8 Nubes de palabras utilizadas en cada uno de los diferentes lenguajes de programación"
-excerpt: "\U0001F3A8 Nubes de palabras utilizadas en cada uno de los diferentes lenguajes de programación"
+description: "\U0001F3A8 Nubes de palabras más utilizadas en cada uno de los diferentes lenguajes de programación"
+excerpt: "\U0001F3A8 Nubes de palabras más utilizadas en cada uno de los diferentes lenguajes de programación"
 comments: true
 date: 2020-01-21 06:43:00 +0200
 permalink: /palabras-lenguajes-programacion/
@@ -32,37 +32,79 @@ Nubes de palabras más usadas dentro de los lenguajes de programación Javascrip
 
 Los datos han sido extraídos de los diferentes repositorios de Github.
 
-<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-javascript" title=""><img src="https://i.ibb.co/9rYwzf3/nube-javascript.jpg" alt="" border="0"></a> 
-<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-react" title=""><img src="https://i.ibb.co/ZNTBHGR/nube-react.jpg" alt="" border="0"></a> 
-<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-css" title=""><img src="https://i.ibb.co/h2mjK4L/nube-css.jpg" alt="" border="0"></a> 
-<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-html" title=""><img src="https://i.ibb.co/T4hsZxB/nube-html.jpg" alt="" border="0"></a> 
-<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-java" title=""><img src="https://i.ibb.co/8XBGqcn/nube-java.jpg" alt="" border="0"></a>
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-javascript" title=""><img src="https://i.ibb.co/9rYwzf3/nube-javascript.jpg" alt="" border="0"></a> <a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-react" title=""><img src="https://i.ibb.co/ZNTBHGR/nube-react.jpg" alt="" border="0"></a> <a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-css" title=""><img src="https://i.ibb.co/h2mjK4L/nube-css.jpg" alt="" border="0"></a> <a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-html" title=""><img src="https://i.ibb.co/T4hsZxB/nube-html.jpg" alt="" border="0"></a> <a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-java" title=""><img src="https://i.ibb.co/8XBGqcn/nube-java.jpg" alt="" border="0"></a> <a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-python" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a> <a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-lua" title=""><img src="https://i.ibb.co/7N5nMbp/nube-lua.jpg" alt="" border="0"></a> <a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-php" title=""><img src="https://i.ibb.co/tPWGqpY/nube-php.jpg" alt="" border="0"></a>
 
-<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-python" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-ruby" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-c" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-perl" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-c-1" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-scala" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-go" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-sql" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-rust" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-lisp" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-clojure" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-kotlin" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-cmake" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-swift" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-haskell" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-elixir" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-objective-c" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-f" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-elm" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-purescript" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-pascal" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-r" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-erlang" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-viml" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
+
+<a href="/palabras-lenguajes-programacion/#nube-de-palabras-de-groovy" title=""><img src="https://i.ibb.co/DMmTrTH/nube-python.jpg" alt="" border="0"></a>
 
 ## Nube de Palabras de Javascript
 
 <a href="https://ibb.co/9rYwzf3" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/FD7sNfq/nube-javascript.jpg" alt="" border="0"></a>
 
-[🔍 Insertar Javascript](https://ibb.co/9rYwzf3 "Inserta la nube de palabras de Javascript | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=js){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar Javascript](https://ibb.co/9rYwzf3 "Inserta la nube de palabras de Javascript"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=js){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de React
 
 <a href="https://ibb.co/ZNTBHGR" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/SJvtQ5D/nube-react.jpg" alt="" border="0"></a>
 
-[🔍 Insertar React](https://ibb.co/ZNTBHGR "Inserta la nube de palabras sobre React | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar React](https://ibb.co/ZNTBHGR "Inserta la nube de palabras sobre React"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=jsx){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de CSS
 
 <a href="https://ibb.co/h2mjK4L" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/DwRy7vz/nube-css.jpg" alt="" border="0"></a>
 
-[🔍 Insertar CSS](https://ibb.co/h2mjK4L "Inserta la nube de palabras del lenguaje de marcado CSS | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar CSS](https://ibb.co/h2mjK4L "Inserta la nube de palabras del lenguaje de marcado CSS"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=css){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de HTML
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=html){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 👷‍♂️👷‍♂️👇👇👇👇 CONTENIDO POR COMPLETAR 👇👇👇👇👷‍♂️👷‍♂️
 {: .notice--warning}
@@ -71,168 +113,168 @@ Los datos han sido extraídos de los diferentes repositorios de Github.
 
 <a href="https://ibb.co/8XBGqcn" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/XV4618f/nube-java.jpg" alt="" border="0"></a>
 
-[🔍 Insertar Java](https://ibb.co/8XBGqcn "Inserta la nube de palabras sobre el lenguaje de marcado Java | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar Java](https://ibb.co/8XBGqcn "Inserta la nube de palabras sobre el lenguaje de marcado Java"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=java){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Python
 
 <a href="https://ibb.co/DMmTrTH" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/SmHGfG4/nube-python.jpg" alt="" border="0"></a>
 
-[🔍 Insertar Nube Python](https://ibb.co/DMmTrTH "Inserta la nube de palabras del lenguaje de programación Python | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar Nube Python](https://ibb.co/DMmTrTH "Inserta la nube de palabras del lenguaje de programación Python"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=py){: .btn .btn--inverse .btn--large} 🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Lua
 
 <a href="https://ibb.co/7N5nMbp" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/1J5rybX/nube-lua.jpg" alt="" border="0"></a>
 
-[🔍 Insertar Nube Lua](https://ibb.co/7N5nMbp "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large} https://i.ibb.co/7N5nMbp/nube-lua.jpg
+[🔍 Insertar Nube Lua](https://ibb.co/7N5nMbp "Inserta la nube de palabras sobre el lenguaje de programación Lua"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=lua){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de PHP
 
 <a href="https://ibb.co/tPWGqpY" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/3YL3pmS/nube-php.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/tPWGqpY "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}https://i.ibb.co/tPWGqpY/nube-php.jpg
+[🔍 Insertar HTML](https://ibb.co/tPWGqpY "Inserta la nube de palabras del lenguaje de programación PHP"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=php){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Ruby
 
 <a href="https://ibb.co/3yPNXfB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/ynxyThW/nube-ruby.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/3yPNXfB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}https://i.ibb.co/3yPNXfB/nube-ruby.jpg
+[🔍 Insertar HTML](https://ibb.co/3yPNXfB "Inserta la nube de palabras del lenguaje de programación Ruby"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=rb){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}https://i.ibb.co/3yPNXfB/nube-ruby.jpg
 
 ## Nube de Palabras de C+
 
 <a href="https://ibb.co/2SvKg83" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/ZSBTWHz/nube-c-masmas.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/2SvKg83 "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}https://i.ibb.co/2SvKg83/nube-c-masmas.jpg
+[🔍 Insertar HTML](https://ibb.co/2SvKg83 "Inserta la nube de palabras del lenguaje de programación C+"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=cpp){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}https://i.ibb.co/2SvKg83/nube-c-masmas.jpg
 
 ## Nube de Palabras de Perl
 
 <a href="https://ibb.co/hDx3ypx" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/dGs8rns/nube-perl.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/hDx3ypx "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}https://i.ibb.co/hDx3ypx/nube-perl.jpg
+[🔍 Insertar HTML](https://ibb.co/hDx3ypx "Inserta la nube de palabras del lenguaje de programación Perl"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=pl){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}https://i.ibb.co/hDx3ypx/nube-perl.jpg
 
 ## Nube de Palabras de C#
 
 <a href="https://ibb.co/rtQB4Bq" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/1n0C8CB/nube-c-sharp.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/rtQB4Bq "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}https://i.ibb.co/rtQB4Bq/nube-c-sharp.jpg
+[🔍 Insertar HTML](https://ibb.co/rtQB4Bq "Inserta la nube de palabras del lenguaje de programación C#"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=cs){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}https://i.ibb.co/rtQB4Bq/nube-c-sharp.jpg
 
 ## Nube de Palabras de Scala
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Scala"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=scala){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Go
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Go"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=go){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de SQL
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación SQL"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=sql){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Rust
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Rust"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=rs){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Lisp
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Lisp"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=lisp){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Clojure
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Clojure"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=clj){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Kotlin
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Kotlin"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=kt){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de CMake
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación CMake"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=cmake){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Swift
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Swift"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=swift){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
-## Nube de Palabras de Haskel
+## Nube de Palabras de Haskell
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Haskell"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=hs){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Elixir
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Elixir"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=ex){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Objective C
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Objective C"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=objc){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de F#
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación F#"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=fs){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Elm
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Elm"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=elm){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de PureScript
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del preprocesador PureScript"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=purs){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Pascal
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Pascal"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=pas){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de R
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación R"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=r){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Erlang
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Erlang"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=erl){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de VimL
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras de VimL"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=vim){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Nube de Palabras de Groovy
 
 <a href="https://ibb.co/T4hsZxB" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/m9z3mVC/nube-html.jpg" alt="" border="0"></a>
 
-[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras sobre el lenguaje de marcado HTML | Visto en Ciberninjas"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=js){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large} https://anvaka.github.io/common-words/#?lang=js
+[🔍 Insertar HTML](https://ibb.co/T4hsZxB "Inserta la nube de palabras del lenguaje de programación Groovy"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=groovy){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large} https://anvaka.github.io/common-words/#?lang=js
 
 
 👷‍♂️👷‍♂️☝☝☝☝ CONTENIDO POR COMPLETAR ☝☝☝☝👷‍♂️👷‍♂️
