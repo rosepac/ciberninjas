@@ -52,6 +52,10 @@ El software para el paisaje interactivo se ha extraído a https://github.com/cnc
 
 [👉 Mapa Versión Interactiva de las Empresas de Cloud Native 2020 🔨](https://landscape.cncf.io/format=members){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
+## Mapa Interactivo de Proyectos de Integración Continua 2020
+
+<iframe src="https://drive.google.com/file/d/112z7x5umj2a3bKs9_p7k9Wu5Ygiiffgk/preview" width="935" height="480"></iframe>
+
 [👉 Mapa Interactiva de Proyectos de Integración Continua 2020 🔨](https://landscape.cncf.io/category=continuous-integration-delivery&format=card-mode&grouping=category){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 -----
