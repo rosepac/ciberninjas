@@ -45,18 +45,20 @@ El software para el paisaje interactivo se ha extraído a https://github.com/cnc
 <iframe src="https://drive.google.com/file/d/1rJYvT8stuQGdC9flxfS6YZIM6tvfwLlx/preview" width="935" height="480"></iframe>
 
 [👉 Mapa Versión Interactiva Cloud Native 2020 🔨](https://landscape.cncf.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Ver Versión PNG](){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 ## Empresas de Cloud Native 2020
 
 <iframe src="https://drive.google.com/file/d/1YE5QRDGdGdQ9wOuwUJeqxAyAjmMGInO5/preview" width="935" height="480"></iframe>
 
 [👉 Mapa Versión Interactiva de las Empresas de Cloud Native 2020 🔨](https://landscape.cncf.io/format=members){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Ver Versión PNG](https://i.ibb.co/H7bMp0j/members.png){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 ## Mapa Interactivo de Proyectos de Integración Continua 2020
 
 <iframe src="https://drive.google.com/file/d/112z7x5umj2a3bKs9_p7k9Wu5Ygiiffgk/preview" width="935" height="480"></iframe>
 
-[👉 Mapa Interactiva de Proyectos de Integración Continua 2020 🔨](https://landscape.cncf.io/category=continuous-integration-delivery&format=card-mode&grouping=category){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Sección Interactiva de Proyectos de Integración Continua 2020 🔨](https://landscape.cncf.io/category=continuous-integration-delivery&format=card-mode&grouping=category){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 -----
 
