@@ -9,8 +9,8 @@ classes: wide
 date: 2020-01-13 23:27:12
 last_modified_at: 
 header:
-  teaser: https://i.ibb.co/ypm2bDJ/photo-1560854350-13c0b47a3180.jpg
-  overlay_image: https://i.ibb.co/ypm2bDJ/photo-1560854350-13c0b47a3180.jpg
+  teaser: https://i.ibb.co/WzMT6DF/javascript-logos-proyectos.png
+  overlay_image: https://i.ibb.co/WzMT6DF/javascript-logos-proyectos.png
   overlay_filter: 0.2
   image_description: 'Las librerías de Javascript de código abierto más usadas y premiadas dentro de Github, análisis de seguimiento anual'
   image_alt: 'Las librerías de Javascript de código abierto más usadas y premiadas dentro de Github, análisis de seguimiento anual'
@@ -34,6 +34,8 @@ tags:
 # toc_icon: user-ninja
 # toc_sticky: true
 ---
+
+![Infografía de todos los logotipos de los proyectos de Javascript](https://i.ibb.co/WzMT6DF/javascript-logos-proyectos.png "Infografía de todos los logotipos de los proyectos de Javascript")
 
 En este análisis se compara a través del puntuja de estrellas de Github, las más importantes librerías de Javascript del mundo; todo ello siguiendo una línea de agrupamiento por temáticas de uso.
 
