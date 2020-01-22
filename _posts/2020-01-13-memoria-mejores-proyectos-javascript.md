@@ -58,3 +58,7 @@ Las categorías en las que los proyectos están clasificados son las siguientes:
 <iframe src="https://drive.google.com/file/d/1MfjlT72IDe7r_seh8117WxZUsZ8oAB-G/preview" width="935" height="480"></iframe>
 
 [👉 Visitar Versión Interactiva 2017 🔨](https://risingstars.js.org/2017/es/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+-----
+
+**Fuente**: [Rising Stars](https://risingstars.js.org){:target="_blank"}
