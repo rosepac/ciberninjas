@@ -35,9 +35,7 @@ tags:
 # toc_sticky: true
 ---
 
-![Infografía de todos los logotipos de los proyectos de Javascript](https://i.ibb.co/WzMT6DF/javascript-logos-proyectos.png "Infografía de todos los logotipos de los proyectos de Javascript")
-
-En este análisis se compara a través del puntuja de estrellas de Github, las más importantes librerías de Javascript del mundo; todo ello siguiendo una línea de agrupamiento por temáticas de uso.
+En este análisis se compara a través del puntaje de estrellas de Github a las más importantes librerías de Javascript del mundo; todo ello siguiendo una línea de agrupamiento por temáticas de uso.
 
 Las categorías en las que los proyectos están clasificados son las siguientes: Los proyectos más populares del año, frameworks Front-End, frameworks Node.js, ecosistema de React, ecosistema de Vue, ecosistema de Angular, librerías de Desarrollo Móvil, compiladores JS, librerías de montaje, bibliotecas de testing, editores de trabajo y picado de código, CSS en Javascript y SSG o [Generadores de Sitios Estáticos](/wiki/generador-de-sitios-estaticos).
 
@@ -62,3 +60,5 @@ Las categorías en las que los proyectos están clasificados son las siguientes:
 -----
 
 **Fuente**: [Rising Stars](https://risingstars.js.org){:target="_blank"}
+
+![Infografía de todos los logotipos de los proyectos de Javascript](https://i.ibb.co/WzMT6DF/javascript-logos-proyectos.png "Infografía de todos los logotipos de los proyectos de Javascript")
