@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-[⬅ REGRESAR AL GLOSARIO](/glosario){: .btn .btn--inverse .btn--large .align-center}
+[👈 Regresar al Glosario](/glosario){: .btn .btn--inverse .btn--large .align-center}
 
 *****
 
@@ -45,7 +45,7 @@ API son las interfaces de programación que permiten al software interactuar con
 
 Identificar al usuario de la API. Las técnicas comunes para la autenticación incluyen API Keys y OAuth.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## C
 
@@ -81,7 +81,7 @@ Las solicitudes de origen cruzado permiten que JavaScript en sitios web realice 
 
 Interfaz de línea de comando a HTTP. Extremadamente popular para probar las API y el componente básico para muchas bibliotecas de clientes.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## D
 
@@ -89,7 +89,7 @@ Interfaz de línea de comando a HTTP. Extremadamente popular para probar las API
 
 El Modelo de objetos de documento define una forma estándar de representar e interactuar con objetos dentro de documentos HTML y XML.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## E
 
@@ -113,183 +113,225 @@ Encabezado que designa una versión de una representación. Útil para el almace
 
 Un encabezado que le dice al cliente que puede almacenar en caché una respuesta hasta cierto tiempo.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## G
 
 **Gateway o 'Puerta'**
+
 Un proxy que se traduce entre protocolos.
 
 **Get / Obtener**
+
 Es el método HTTP para recuperar recursos de una API RESTful.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## H
 
 **H-Card**
+
 Un microformato para incrustar datos sobre personas u organizaciones.
 
 **HATEOAS**
+
 Hypermedia como el motor del estado de la aplicación es una característica de la arquitectura REST que permite al cliente navegar a través de los hipermedia expuestos por la API.
 
 **Hipermedia**
+
 Cualquier tipo de contenido que permita a las entidades vincularse entre sí de manera estandarizada, haciendo que otras entidades puedan ser descubiertas por un cliente.
 
 **HTTP**
+
 El Protocolo de transferencia de hipertexto es la forma en que los sitios web y las API se comunican a través de Internet.
 
 **HTTP Método**
+
 La parte de una solicitud HTTP que le dice al servidor lo que el cliente quiere hacer.
 
 **HTTPS**
+
 El Protocolo seguro de transferencia de hipertexto es la forma en que los sitios web y las API se comunican de forma segura a través de Internet.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## I
 
 **Idempotente**
+
 Cuando los efectos secundarios de múltiples solicitudes son iguales a una sola solicitud. GET, PUT y DELETE son métodos idempotentes.
 
 **If-Modified-Since**
+
 Encabezado que solicita obtener una representación solo si la representación ha cambiado desde la última solicitud. Se utiliza para solicitudes GET condicionales.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## J
 
 **JSON**
+
 La notación de objetos Javascript es un formato de datos comúnmente utilizado para los parámetros de solicitudes API y el cuerpo de respuesta.
 
 **JSON + HAL**
+
 Un tipo hipermedia que normaliza el hipervínculo y la incorporación de recursos.
 
 **JSONP**
+
 JSON con relleno es una técnica utilizada para superar las restricciones de dominio cruzado impuestas por los navegadores para permitir que los datos se recuperen de sistemas distintos al que sirve la página.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## L
 
 **Latencia**
+
 El tiempo que tarda la solicitud API en pasar de la solicitud a la respuesta.
 
 **Limitación de velocidad**
+
 Limitar el consumo de una API a un cierto número de solicitudes por período de tiempo.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## M
 
 **Microformato**
+
 Un estándar industrial de marcado semántico utilizado para describir el contenido de un documento.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## O
 
 **OAuth**
+
 Marco de autorización estándar abierto. Otorga acceso en nombre de un usuario final sin compartir directamente las credenciales.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## P
 
 **Parámetro**
+
 Un parámetro es un argumento enviado a la API que ayuda a definir la solicitud y la respuesta esperada.
 
 **Post o Envíar**
+
 El método HTTP para crear recursos con una API RESTful.
 
 **Protocolo**
+
 Una forma definida de transferir datos entre pare
 
 **Punto final o Endpoint**
+
 El URI que va después de la URL base y apunta hacia la funcionalidad API solicitada.
 
 **PUT o Poner**
+
 El método HTTP para actualizar recursos con una API RESTful.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## R
 
 **Recurso**
+
 Un recurso es un objeto o entidad que tiene un URI donde puede ser manipulado a través de solicitudes HTTP.
 
 **Representación**
+
 Datos que describen el estado de un recurso. A menudo, el cuerpo de una solicitud / respuesta HTTP.
 
 **REST 'representational state transfer' o  transferencia de estado representacional**
+
 La transferencia de estado representativo es un patrón arquitectónico para interactuar con recursos a través de métodos HTTP.
 
 **RDF**
+
 Marco de descripción de recursos. Marco enfocado en contenido semántico.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--inverse}
 
 ## S
 
 **Seguro o Safe**
+
 Al llamar a un método en un recurso sería lo mismo que no hacer nada. GET es un método seguro.
 
 **Servicio web o 'Web Services'**
+
 El servicio web se utiliza para describir una API a la que se puede acceder a través de Internet a través de HTTP.
 
 **Servidor o Server**
+
 El servidor es un software o hardware que proporciona un servicio respondiendo a las solicitudes a través de una red.
 
 **Set-Cookie**
+
 Encabezado que establece una cookie en el lado del cliente.
 
 **SLA**
+
 Los acuerdos de nivel de servicio son una forma de contrato entre un proveedor de servicios y un consumidor que define las métricas de rendimiento esperadas.
 
 **SOAP**
+
 'Simple Object Access Protocol' es una especificación para el intercambio de información estructurada a través de Internet.
 
 **SSL**
+
 Un protocolo criptográfico que asegura el tráfico en Internet.
 
 **Stateless**
+
 El servidor no almacena el contexto del cliente entre solicitudes.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--inverse}
 
 ## T
 
 **Tipo de medio**
+
 Identificador utilizado para indicar el tipo de datos que contiene un archivo.
 
 **Triturar o Masheup**
+
 Combinando múltiples API para crear una nueva aplicación web.
 
 **Tubería o Pipeling**
+
 El cliente envía varias solicitudes HTTP a la vez y el servidor responde en el orden en que las recibe.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--info}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--inverse}
+[👈 Regresar al Glosario](/glosario){: .btn .btn--inverse .btn--large}
 
 ## U
 
 **Ubicación**
+
 Encabezado que proporciona información sobre la ubicación de un recurso recién creado o que solicita al navegador web que cargue una página web diferente.
 
 **Última modificación**
+
 Encabezado que le dice al cliente la última vez que cambió la representación. Importante para las solicitudes condicionales If-Modified-Since.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## V
 
 **Versionado**
+
 Asignar un identificador único para realizar un seguimiento del estado de la API. Si se realizan cambios en la API, la versión debería cambiar.
 
 ## X
 
 **XML**
-El lenguaje de marcado extensible es un formato que se utiliza para describir documentos y datos.
 
-[🔝 Regresar 🔝](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+XML es un lenguaje de marcado extensible que se utiliza para describir documentos y datos.
 
-[⬅ REGRESAR AL GLOSARIO](/glosario){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+[👈 Regresar al Glosario](/glosario){: .btn .btn--inverse .btn--large .align-center}
