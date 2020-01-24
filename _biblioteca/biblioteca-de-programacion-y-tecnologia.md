@@ -193,8 +193,9 @@ sidebar:
 ### Startups
 
 * [Guía de Formación de Emprendedores](https://hmg-prod.s3.amazonaws.com/files/guia-de-formacio-n-emprendedores-261-1558951908.pdf) 
+* [Guía de Formación de Emprendedores](https://hmg-prod.s3.amazonaws.com/files/guia-de-formacio-n-emprendedores-261-1558951908.pdf) 
 
-## 🐧 Ecosistema de Código Abierto
+## 🐧 Ecosistema de Software Libre
 
 * [Aspectos económicos y modelos de negocio del software libre](https://www.seaceptanideas.com/wp-content/uploads/2016/07/Aspectos_Economicos_y_Modelos_de_Negocio_del_Software_Libre.pdf){:target="_blank"} (PDF)
 * [Aspectos legales de explotación del software libre. Parte I](https://softlibre.unizar.es/manuales/legal/908.pdf){:target="_blank"} (PDF)
@@ -248,7 +249,7 @@ sidebar:
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
 
-## 👨‍🔧 Metodologías de Desarrollo
+## 💼 Metodologías de Desarrollo
 
 * [Código Sólido](https://leanpub.com/codigosolido?){:target="_blank"} (Descarga PDF)
 * [Compendio de Ingeniería del Software](https://www.navegapolis.com/files/cis.pdf){:target="_blank"} (PDF)
@@ -430,6 +431,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Arduino. Guía Completa](https://arduinobot.pbworks.com/w/page/10175775/FrontPage){:target="_blank"} (HTML)
 * [Arduino. Libro de Proyectos](https://es.slideshare.net/TinoFernndez/libro-de-proyectos-del-kit-oficial-de-arduino-en-castellano-completo-arduino-starter-kit-arduino-projects-book){:target="_blank"} (HTML)
 * [Arduino. Manual de Programación](https://arduinobot.pbworks.com/f/Manual%2BProgramacion%2BArduino.pdf){:target="_blank"} (PDF)
+* [Escornabots: Robot de piezas 3D y Arduino](https://catedu.gitbooks.io/escornabots/content/){:target="_blank"} (PDF)
 * [Hacia un framework basado en ROS para la implementación de Sistemas Ciberfísicos](https://www.ehu.eus/documents/3444171/4484750/124.pdf){:target="_blank"} (PDF)
 * [Introducción a la arquitectura de computadores con QtARMSim y Arduino](https://lorca.act.uji.es/libro/introARM/introARM_ebook_2017.pdf){:target="_blank"} (PDF)
 * [Propuesta para grupo de investigación Autonomía Situada (2003)](https://www.sindominio.net/~xabier/old/textos/propuesta/propuesta.html){:target="_blank"} (HTML)
@@ -724,7 +726,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
 
-## Ruby
+## Ruby <i class="fas fa-gem"></i>
 
 * [Aprende a programar con Ruby](https://rubysur.org/aprende.a.programar){:target="_blank"} (Gitbook)
 * [La Guía de Estilos de Ruby](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio){:target="_blank"} (Github)

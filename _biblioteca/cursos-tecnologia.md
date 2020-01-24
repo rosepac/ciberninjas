@@ -35,35 +35,38 @@ sidebar:
 ## 🗃 Meta-Listas
 
 * [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/){:target="_blank"} [^1]
-* [Cursos de Programación Online Organizados](https://github.com/DpdC/biblioteca-espanol-gratis/blob/master/cursos-programacion-gratis.md#Índice){:target="_blank"} (Github)
+* [Cursos de Programación Organizados (+ 850)](https://github.com/rosepac/biblioteca-espanol-gratis#%C3%ADndice-global){:target="_blank"} (Github)
 <!-- [Cursos en Inglés]() (Hackr io) -->
-* [Miriadax](https://miriadax.net/cursos){:target="_blank"}
+
+### 🌐 Cursos Masivos en Línea
+
+* [Cursos de Programación Online Organizados](/cursos-tecnologia/) (HTML) (Actualizado 2020)
+* [Miriadax](https://miriadax.net/cursos){:target="_blank"} (HTML)
 * [Hacker.IO](https://hackr.io/){:target="_blank"} (HTML)
+* [Universidad Jaume I](http://repositori.uji.es/xmlui/handle/10234/168002){:target="_blank"}
 
 ## 📁 Bases de Datos
 
 [Big Data 👨‍👩‍👦](/cursos-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [Machine Learning](/cursos-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large} [SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large}
 
-* [Acceso a base de datos (2017)](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/acceso-a-bases-de-datos-en-java){:target="_blank"} (OCW)
-* [Administración de base de datos](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/administracion-de-bases-de-datos){:target="_blank"} (OCW)
+* [Administración de Bases de Datos](http://ocw.upm.es/course/administracion-bases-datos){:target="_blank"} (OCW)
 * [Almacenamiento de datos No Relacionales](https://ocw.unican.es/course/view.php?id=231){:target="_blank"} (OCW)
-* [Ansys WorkBench avanzado](https://www.youtube.com/playlist?list=PLS1OTKyEcTvtgpms25WI8L6kHPx30h_Ph){:target="_blank"} (Enzo Garofalo, YouTube)
 * [Aprende SQL Developer básico en 30 minutos. Introducción](https://www.udemy.com/aprende-sql-developer-basico-en-30-minutos-introduccion){:target="_blank"} (Udemy)
-* [Bases de Datos - Curso Completo (2014)](http://ocw.uji.es/curso/317342){:target="_blank"} (OCW)
+* [Bases de Datos - Curso Completo (2014)](http://repositori.uji.es/xmlui/handle/10234/17007){:target="_blank"} (OCW)
 * [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163){:target="_blank"} (OCW)
-* [Bases de Datos (2012)](http://ocw.uji.es/curso/4858){:target="_blank"} (OCW)
 * [Bases de Datos I (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/bases-de-datos-i-2006.html){:target="_blank"} (OCW)
 * [CRUD Firestore "Firebase". Base de datos en tiempo real](https://www.youtube.com/playlist?list=PLPl81lqbj-4IdJzDKoih6vXDP2Y8w5RGq){:target="_blank"} (Bluuweb!, Youtube)
+* [Curso de Bases de Datos](/bases-datos-con-jap-software/){:target="_blank"} (Jap Software, Youtube)
 * [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_){:target="_blank"} (Pildoras Informáticas, Youtube)
 * [Curso Firebase: Registro de usuarios](https://www.youtube.com/playlist?list=PLPl81lqbj-4JiR1Cio6xEygCZDmZmDUWI){:target="_blank"} (Bluuweb!, Youtube)
 * [Curso SQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn){:target="_blank"} (Pildoras Informáticas, Youtube)
 * [Diseño de bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/diseno-de-bases-de-datos){:target="_blank"} (OCW)
 * [Diseño y administración de bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/diseno-y-administracion-de-bases-de-datos){:target="_blank"} (OCW)
-* [Ficheros y bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/ficheros-y-bases-de-datos){:target="_blank"} (OCW)
+* [Ficheros y bases de datos (2008)](http://ocw.uc3m.es/cursos-archivados/ficheros-y-bases-de-datos){:target="_blank"} (OCW)
 * [Fundamentos de las bases de datos (2008)](http://ocw.uc3m.es/ingenieria-informatica/fundamentos-de-bases-de-datos){:target="_blank"} (OCW)
 * [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html){:target="_blank"} (OCW)
 * [Fundamentos de las bases de datos (2012)](http://ocw.uc3m.es/ingenieria-informatica/fundamentos-de-las-bases-de-datos){:target="_blank"} (OCW)
-* [Introducción a BBDD relacionales, SQL & MySQL desde Cero](https://plataforma.keepcoding.io/p/curso-de-bbdd-sql-mysql-desde-cero-gratis){:target="_blank"} (Keep Coding)
+* [Introducción a BBDD relacionales, SQL & MySQL](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-bbdd-sql-mysql){:target="_blank"} (Keep Coding)
 * [Introducción a las consultas SQL Server](https://www.udemy.com/introduccion-a-las-consultas-sql-server){:target="_blank"} (Udemy)
 * [Oracle 12c](https://www.youtube.com/playlist?list=PLC7Ec2r5tkJA50X4rn6wffybgaGqYBlTA){:target="_blank"} (Ninja Web, YouTube)
 * [PHP y MySql: Aprende a trabajar con base de datos](https://www.youtube.com/playlist?list=PLPl81lqbj-4IGS74m9lv1zLOWJzsLjWC_){:target="_blank"} (Bluuweb!, Youtube) [Udemy](https://www.udemy.com/curso-php-y-mysql){:target="_blank"}
@@ -94,7 +97,10 @@ sidebar:
 * [Aprendizaje Automático con Python: Una introducción práctica]() (IBM)
 * [Aprendizaje Automático y Ciencia de Datos](https://www.EDX.org/course/aprendizaje-automatico-y-ciencia-de-datos){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
 * [Aprendizaje Automático para el Análisis de Datos (2013)](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico-para-el-analisis-de-datos-2013){:target="_blank"} (OCW)
+* [Curso de Redes Neuronales: pix2pix](/redes-neuronales-pix2pix-con-jap-software/) (Jap Software, Youtube)
+* [Curso de Tensorflow](/tensorflow-con-jap-software/) (Jap Software, Youtube)
 * [Curso Intensivo de Aprendizaje Autómatico - Google](https://developers.google.com/machine-learning/crash-course){:target="_blank"} (Google Developers)
+* [Chatbot con Tensorflow](/chatbot-tensorflow-con-jap-software/){:target="_blank"} (Jap Software, Youtube)
 * [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-2-edicion-) (MiriadaX)
 * [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://www.udemy.com/course/curso-machine-learning)
 
@@ -103,6 +109,7 @@ sidebar:
 ## SQL
 
 * [Comienza con SQL: descarga los datos tu mismo con SQL](https://www.udemy.com/comienza-con-sql) (Udemy)
+* [Curso de SQL](/sql-con-jap-software/) (Jap Software, Youtube)
 * [Introducción a SQL con Oracle 11g](https://www.udemy.com/introduccion-a-sql-con-oracle-11g) (Udemy)
 * [Sistema de Login en Visual Basic y SQL Server en Capas](https://www.udemy.com/course/login-vb-sql/) (Udemy) (2019)
 
@@ -126,7 +133,7 @@ sidebar:
 * [Arquitectura y tecnología de los sistemas embarcados (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=7364&p_caca=2010){:target="_blank"} (OCW)
 * [Arquitecturas Distribuidas (2012)](http://ocw.bib.upct.es/course/view.php?id=137){:target="_blank"} (OCW)
 * [Arquitecturas Reconfigurables (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/arquitecturas-reconfigurables-2006.html){:target="_blank"} (OCW)
-* [Bases Matemáticas: Álgebra](https://www.EDX.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2){:target="_blank"} (EDX)
+* [Bases Matemáticas: Álgebra](https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2){:target="_blank"} (EDX)
 * [Básico de Iniciación SAP](https://www.udemy.com/iniciacion-al-sistema-sap){:target="_blank"} (Udemy)
 * [Computadores y programación (2008)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=7250&p_caca=2008){:target="_blank"} (OCW)
 * [Control por computador (2009)](https://ocw.ua.es/es/ingenieria-y-arquitectura/control-por-computador-2009.html){:target="_blank"} (OCW)
@@ -188,8 +195,8 @@ sidebar:
 * [Pensamiento Computacional en la Escuela](https://miriadax.net/web/pensamiento-computacional-en-la-escuela-2ed){:target="_blank"} (MiriadaX)
 * [Principios de Ingieniería Informática (2012)](http://ocw.uc3m.es/ingenieria-informatica/principios-de-ingenieria-informatica){:target="_blank"} (OCW)
 * [Programación Automática (2013)](http://ocw.uc3m.es/ingenieria-informatica/programacion-automatica-2013){:target="_blank"} (OCW)
-* [Programación concurrente (2009)](http://ocw.upm.es/lenguajes-y-sistemas-informaticos/programacion-concurrente){:target="_blank"} (OCW)
-* [Programación concurrente en Linux (2016)](https://ocw.ehu.eus/course/view.php?id=399) (OCW)
+* [Programación Concurrente](http://ocw.upm.es/course/programacion-concurrente){:target="_blank"} (OCW)
+* [Programación Concurrente en Linux (2016)](https://ocw.ehu.eus/course/view.php?id=399) (OCW)
 * [Programación Estadística, Programación en R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r){:target="_blank"} (Coursera)
 * [Programación Multimedia (2013)](http://ocw.uv.es/ingenieria-y-arquitectura/programacionmultimedia/Course_listing){:target="_blank"} (OCW)
 * [Programación y Estructuras de Datos (2009)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-y-estructuras-de-datos-2009.html){:target="_blank"} (OWC)
@@ -290,10 +297,14 @@ sidebar:
 
 ### Linux <i class="fab fa-linux"></i>
 
+* [Bash - Intérprete de Comandos de Linux. Aprende desde cero](https://www.udemy.com/course/shell-interprete-de-comandos-de-linux-aprende-desde-cero/){:target="_blank"} (Udemy) (2020)
 * [Expresiones Regulares (Regex)](https://www.udemy.com/course/expresiones-regulares-regex/){:target="_blank"} (Udemy) (2019)
+* [GNU/Linux: Da tus primeros pasos!! (Curso básico)](https://www.udemy.com/course/gnulinux-desde-cero/){:target="_blank"} (Udemy)
 * [Introducción a Linux: Instala Linux en tu PC](https://www.udemy.com/instala-linux-en-tu-pc){:target="_blank"} (Udemy)
 * [Introducción a Linux como entorno de desarrollo de Sistemas Operativos](https://miriadax.net/web/introduccion-a-linux-como-entorno-de-desarrollo-de-sistemas-software){:target="_blank"} (Udemy)
 * [Linux para principiantes](https://www.udemy.com/course/linux-para-principiantes-1/){:target="_blank"} (Udemy) (2019)
+* [Red Hat Performance Tuning](https://www.udemy.com/course/rh-performance-tuning/){:target="_blank"} (Udemy) (2019)
+* [Vim, aumenta tu velocidad de desarrollo](https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/){:target="_blank"} (Udemy) (2019)
 
 ### Ubuntu <i class="fab fa-ubuntu"></i>
 
@@ -311,6 +322,7 @@ sidebar:
 * [Cómo implantar grupos de mejora de procesos](https://www.EDX.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0){:target="_blank"} (EDX)
 * [Creación y Desarrollo de Redes Sociales](http://ocw.um.es/cc.-sociales/creacion-y-desarrollo-de-redes-sociales){:target="_blank"} (OCW)
 * [Curso de Git y Github](https://www.youtube.com/playlist?list=PL353A30C7CCE5098F){:target="_blank"} (Jesús Conde, Youtube)
+* [Curso de Patrones de Diseño de Software](/crear-patrones-de-dise%C3%B1o-de-software-con-jap-software/) (Jap Software, Youtube)
 * [De la idea al plan de proyectos en 10 pasos (2014)](https://ocw.ehu.eus/course/view.php?id=336){:target="_blank"} (OCW)
 * [Fundamentos de Git y Github](https://devcode.la/cursos/git){:target="_blank"} (DevCode)
 * [Gestión de proyectos (2013)](https://ocw.ehu.eus/course/view.php?id=202){:target="_blank"} (OCW)
@@ -324,7 +336,7 @@ sidebar:
 * [Ingeniería del Software II (2011)](https://ocw.unican.es/course/view.php?id=170){:target="_blank"} (OCW)
 * [Integración continua con Github Education y Travis](https://www.udemy.com/integracion-continua-con-github-education-y-travis){:target="_blank"} (Udemy)
 * [Introducción a experimentación Lean](https://www.udemy.com/introduccion-a-experimentacion-lean){:target="_blank"} (Udemy)
-* [Introducción a Git, Github & SourceTree](https://plataforma.keepcoding.io/p/introduccion-git-github-sourcetree){:target="_blank"} (Keep Coding)
+* [Introducción a Git, Github & SourceTree](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-git-github-sourcetree){:target="_blank"} (Keep Coding)
 * [Introducción a la Gestión de Proyectos](https://www.EDX.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x){:target="_blank"} (EDX)
 * [Introducción a Ingeniería del Software](https://www.edx.org/course/introduccion-a-la-ingenieria-del-software){:target="_blank"} (EDX \ Universidad Autónoma de Madrid)
 * [JUnit: Pruebas unitarias para Java](https://www.makigas.es/series/junit){:target="_blank"} (makigas)
@@ -510,7 +522,10 @@ sidebar:
 
 ### C#
 
+* [Algoritmos de Ordenación de C#](/algoritmos-ordenacion-c-sharp-con-jap-software/){:target="_blank"} (Jap Software, Youtube)
 * [C# básico de programación](https://www.udemy.com/-programacion){:target="_blank"} (Udemy)
+* [Crear un bot en C#](/crear-bot-c-sharp-con-jap-software/){:target="_blank"} (Jap Software, Youtube)
+* [Curso de C#](/c-sharp-con-jap-software/){:target="_blank"} (Jap Software, Youtube)
 * [Desarrollo de aplicaciones para Windows con C# y Sql en 4 capas](https://www.youtube.com/playlist?list=PLnWAzeXp9V4kjwKztMiBYPo2ncAjI2QqD){:target="_blank"} (Formando Código, YouTube)
 * [Programación en C#](https://www.youtube.com/playlist?list=PLM-p96nOrGcakia6TWllPW9lkQmB2g-yX){:target="_blank"} (Nicosio, YouTube)
 
@@ -533,10 +548,11 @@ sidebar:
 
 * [Curso de GO - De 0 a 100](https://www.youtube.com/watch?v=7SIIyt5-XK0&list=PLl_hIu4u7P64MEJpR3eVwQ1l_FtJq4a5g) (Gyga Code, Youtube)
 * [Desarrollo Web con GoLang](https://www.youtube.com/playlist?list=PLl_hIu4u7P64sjDc4TlbUT050tWyqi6MG){:target="_blank"} (Gyga Code, YouTube)
-* [Introducción a Go desde cero](https://plataforma.keepcoding.io/p/introduccion-curso-de-go-online-basico-intermedio-gratis){:target="_blank"} (Keep Coding)
+* [Introducción a Go desde cero](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-go-desde-cero){:target="_blank"} (Keep Coding)
 
 ## Java <i class="fab fa-java"></i>
 
+* [Acceso a bases de datos en Java](http://ocw.upm.es/course/acceso-bases-datos-java){:target="_blank"} (OCW)
 * [Curso básico de Java](https://www.udemy.com/introduccion-programacion-java){:target="_blank"} (Udemy)
 * [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk){:target="_blank"} (Pildoras Informáticas, Youtube)
 * [Desarrollo en J2ME con NetBeans](https://www.youtube.com/playlist?list=PL2DD57072B0682FEC){:target="_blank"} (Guillermo Malagon, YouTube)
@@ -551,6 +567,8 @@ sidebar:
 * [Java Básico](https://www.udemy.com/java-basico-d){:target="_blank"} (Udemy)
 * [Java gratis, desde cero](https://www.milcursosgratis.com/curso-de-java-gratis/){:target="_blank"} (Mil Cursos Gratis)
 * [Programación con Java Standard](https://miriadax.net/web/programacion-con-java-standard-3-edicion-){:target="_blank"} (MiriadaX)
+* [Programación en Java I](http://ocw.upm.es/course/programacion-en-java-i){:target="_blank"} (OCW)
+http://ocw.upm.es/course/programacion-en-java-i
 * [Java Server Faces](https://www.youtube.com/watch?v=_-jeU2wbRDM&list=PLvimn1Ins-41sC9i3XpIniGbo4Msnxam6){:target="_blank"} (Mito Code, Youtube)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
@@ -566,6 +584,10 @@ sidebar:
 
 * [Primefaces](https://www.youtube.com/watch?v=eZDoSlerA1I&list=PLvimn1Ins-42YbcBrdPbqFiO8JxJUca_z){:target="_blank"} (Mito Code, Youtube)
 * [Primefaces Avanzado](https://www.youtube.com/watch?v=-7mEXB6rEjg&list=PLvimn1Ins-41Dn6vhYzB0Kv90_2eFIdXG){:target="_blank"} (Mito Code, Youtube)
+
+### .NET Core
+
+* [Curso de .NET Core Framework](/net-core-framework-con-jap-software/){:target="_blank"} (Jap Software, Youtube)
 
 ### Spring
 
@@ -738,7 +760,7 @@ sidebar:
 * [Curso de Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank"} (Jesús Conde, Youtube)
 * [Curso de Aplicaciones Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank"} (Jesús Conde, Youtube)
 * [Desarrollo en HTML5, CSS y JavaScript de Apps Web, Android..](https://miriadax.net/web/html5mooc/inicio){:target="_blank"} (MiriadaX)
-* [Introducción a fundamentos Android, ¡Desarrolla una app completa!](https://plataforma.keepcoding.io/p/introduccion-fundamentos-android-online){:target="_blank"} (Keep Coding)
+* [Introducción a fundamentos Android, ¡Desarrolla una app completa!](https://plataforma.keepcoding.io/p/curso-gratis-fundamentos-android-online){:target="_blank"} (Keep Coding)
 * [Introducción a la programación Android](https://www.EDX.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1){:target="_blank"} (EDX)
 * [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130){:target="_blank"} (OCW)
 * [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX){:target="_blank"} (Jesús Conde, Youtube)
@@ -766,7 +788,7 @@ sidebar:
 * [Curso de Angular JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgHfdvGguisToK90z321pRl){:target="_blank"} (Jesús Conde, Youtube)
 * [Empezando con Angular 5](https://www.udemy.com/empezando-con-angular-5){:target="_blank"} (Udemy)
 * [Introducción a Angular 6](https://plataforma.keepcoding.io/p/curso_angular_6_intro){:target="_blank"} (Keep Coding)
-* [Introducción curso fundamentos Angular JS + HTML5 + CSS3](https://plataforma.keepcoding.io/p/introduccion-a-html5-css3-angularjs){:target="_blank"} (Keep Coding)
+* [Introducción curso fundamentos Angular JS + HTML5 + CSS3](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-html5-css3-angular){:target="_blank"} (Keep Coding)
 
 [⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -805,7 +827,8 @@ sidebar:
 * [Desarrollo de servicios en la nube con HTML5, JavaScript y node.js](https://miriadax.net/web/desarrollo-de-servicios-en-la-nube-con-html5-javascript-y-nodejs-2-edicion-){:target="_blank"} (MiriadaX)
 * [Introducción a JavaScript y Node.js](https://plataforma.keepcoding.io/p/intruduccion-javascript-node-js-express-mongodb-gratis){:target="_blank"} (Keep Coding)
 * [NodeJS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY3gY-ptuqkNEXZHsNwlkND){:target="_blank"} (Jon Mircha, YouTube)
-* [NodeJS](https://www.youtube.com/watch?v=VHOd-RBj1MA&list=PLvimn1Ins-41lVr-SPWF1mdNTzog05TcA{:target="_blank"} (Mito Code, Youtube)
+* [NodeJS](https://www.youtube.com/watch?v=VHOd-RBj1MA&list=PLvimn1Ins-41lVr-SPWF1mdNTzog05TcA){:target="_blank"} (Mito Code, Youtube)
+* [Taller de NodeJS](https://plataforma.keepcoding.io/p/nodejs-bundle-web-bootcamp){:target="_blank"}
 
 ## PhoneGap (Apache Cordoba)
 
@@ -858,7 +881,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [De Objetive-C a Swift](https://www.udemy.com/objective-c-a-swift) (Udemy)
 * [El lenguaje de programación Swift](https://www.udemy.com/el-lenguaje-de-programacion-swift) (Udemy)
 * [Iniciación a Swift: mi primera app para iOs](https://www.udemy.com/curso-swift-3) (Udemy)
-* [Introducción a Fundamentos de Swift 3.0](https://plataforma.keepcoding.io/p/curso-introduccion-fundamentos-de-swift-3) (Keep Coding)
+* [Introducción a Fundamentos de Swift 3.0](https://plataforma.keepcoding.io/p/curso-gratis-fundamentos-swift) (Keep Coding)
 * [Introducción a Objective C & iOS](https://plataforma.keepcoding.io/p/introduccin-a-objective-c-ios){:target="_blank"} (Keep Coding)
 * [Introducción a iOS Avanzado](https://plataforma.keepcoding.io/p/introduccion-programacion-ios-avanzada){:target="_blank"} (Keep Coding)
 * [Swift, las bases del lenguaje de Apple para hacer apps](https://www.udemy.com/swift-2-de-padawan-a-maestro-jedi) (Udemy)
@@ -988,7 +1011,7 @@ _____
 
 ## Polymer
 
-* [Introducción a Polymer & web componentes](https://plataforma.keepcoding.io/p/introduccion-polymer-web-components-gratis){:target="_blank"} (Keep Coding)
+* [Introducción a Polymer & web componentes](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-polymer-web-components){:target="_blank"} (Keep Coding)
 
 ## Sistemas de Plantillas 🌱
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
@@ -1173,6 +1196,8 @@ _____
 
 ## Inteligencia Artificial
 
+* [Curso de Open AI](/open-ai-gym-con-jap-software/){:target="_blank"} (Jap Software, Youtube)
+* [Curso de C# aplicado a la Inteligencia Artificial](/inteligencia-artificial-c-sharp-con-jap-software/){:target="_blank"} (Jap Software, Youtube)
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos){:target="_blank"} (Coursera)
 * [Herramientas de la Inteligencia Artificial (2010)](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial) (OCW)
 * [Inteligencia artificial: Clips (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=112) (OCW)
@@ -1248,7 +1273,7 @@ _____
 * [Sistemas Operativos (2009)](http://ocwus.us.es/ingenieria-telematica/pp-1/Course_listing) (OCW)
 * [Sistemas Operativos (2015)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-operativos) (OCW)
 * [Sistemas Operativos (2016)](http://ocw.uji.es/curso/1514152) (OCW)
-* [Sistemas Operativos I](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/sistemas-operativos-i) (OCW)
+* [Sistemas Operativos I](http://ocw.upm.es/course/sistemas-operativos-i) (OCW)
 * [Sistemas Operativos II (2008)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=5850&p_caca=2008) (OCW)
 * [Técnicas informáticas -estudios de gestión y administración pública- (2012)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-informaticas-para-estudios-de-gestion-y-administracion-publica-2012.html) (OCW)
 * [Técnico en Redes de Datos](https://www.youtube.com/playlist?list=PLfWJBWUqkmeA1KlRpFyYhr_NeBUcFaUi_) (Tecnología Capacitate, YouTube)
@@ -1404,6 +1429,10 @@ _____
 * [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido) (Udemy)
 * [Wordpress. Curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress) (Udemy)
 * [Wordpress. Introducción práctica a Gutenberg el nuevo editor](https://www.udemy.com/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor) (Udemy)
+
+## Web Scraping 🕸
+
+* [Web Scraping](/web-scraping-c-sharp-con-jap-software/) (Jap Software, Youtube)
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 

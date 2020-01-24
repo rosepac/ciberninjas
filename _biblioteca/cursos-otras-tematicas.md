@@ -68,7 +68,6 @@ toc_sticky: true
 
 * [Albañilería Completo](https://edutin.com/curso-de-TIC-en-la-Educacion-I-1792)
 
-
 ## Astronomía
 
 * [Desentrañar el firmamento: introducción a la astronomía](https://miriadax.net/web/desentranar-el-firmamento-introduccion-a-la-astronomia-4-edicion-/inicio){:target="_blank"}
@@ -95,6 +94,7 @@ toc_sticky: true
 ### Física
 
 * [Física mecánica intermedio: conceptos y aplicaciones](https://edutin.com/curso-de-fisica-mecanica-intermedio-2316){:target="_blank"}
+* [Física: Preparación para la Universidad](http://ocw.upm.es/course/fisica-prep-universidad){:target="_blank"}
 
 ### Química
 
@@ -271,10 +271,12 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 ## Matemáticas
 
 * [Álgebra orientado a la solución de problemas](https://edutin.com/curso-de-%C3%81lgebra-2313){:target="_blank"}
+* [Álgebra y Geometría](http://ocw.upm.es/course/algebra-geometria){:target="_blank"}
 * [Bases Matemáticas: Álgebra](https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2){:target="_blank"}
 * [Bases Matemáticas: Derivadas](https://www.edx.org/course/bases-matematicas-derivadas-upvalenciax-bmd101x-1){:target="_blank"}
 * [Bases Matemáticas: Integrales](https://www.edx.org/course/bases-matematicas-integrales-upvalenciax-bmi101x-1){:target="_blank"}
 * [Bases Matemáticas: Números y terminología](https://www.edx.org/course/bases-matematicas-numeros-y-terminologia-upvalenciax-bmn101x-2){:target="_blank"}
+* [Cálculo I](http://ocw.upm.es/course/calculo-1){:target="_blank"}
 * [Matrices y sistemas de ecuaciones (Álgebra lineal)](https://www.udemy.com/matrices-y-sistemas-de-ecuaciones-algebra-lineal){:target="_blank"}
 * [Métodos numéricos](https://edutin.com/curso-de-metodos-numericos-3858){:target="_blank"}
 * [Teoría Combinatoria (arreglos y combinaciones)](https://www.udemy.com/teoria-combinatoria-arreglos-y-combinaciones){:target="_blank"}
