@@ -43,7 +43,7 @@ sidebar:
 * [Cursos de Programación Online Organizados](/cursos-tecnologia/) (HTML) (Actualizado 2020)
 * [Miriadax](https://miriadax.net/cursos){:target="_blank"} (HTML)
 * [Hacker.IO](https://hackr.io/){:target="_blank"} (HTML)
-* [Universidad Jaume I](http://repositori.uji.es/xmlui/handle/10234/168002){:target="_blank"}
+  * [Universidad Jaume I](http://repositori.uji.es/xmlui/handle/10234/168002){:target="_blank"}
 
 ## 📁 Bases de Datos
 
@@ -52,7 +52,7 @@ sidebar:
 * [Administración de Bases de Datos](http://ocw.upm.es/course/administracion-bases-datos){:target="_blank"} (OCW)
 * [Almacenamiento de datos No Relacionales](https://ocw.unican.es/course/view.php?id=231){:target="_blank"} (OCW)
 * [Aprende SQL Developer básico en 30 minutos. Introducción](https://www.udemy.com/aprende-sql-developer-basico-en-30-minutos-introduccion){:target="_blank"} (Udemy)
-* [Bases de Datos - Curso Completo (2014)](http://repositori.uji.es/xmlui/handle/10234/17007){:target="_blank"} (OCW)
+* [Bases de Datos (2015)](http://repositori.uji.es/xmlui/handle/10234/168735){:target="_blank"} (OCW)
 * [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163){:target="_blank"} (OCW)
 * [Bases de Datos I (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/bases-de-datos-i-2006.html){:target="_blank"} (OCW)
 * [CRUD Firestore "Firebase". Base de datos en tiempo real](https://www.youtube.com/playlist?list=PLPl81lqbj-4IdJzDKoih6vXDP2Y8w5RGq){:target="_blank"} (Bluuweb!, Youtube)
@@ -94,15 +94,15 @@ sidebar:
 
 * [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank"} (Coursera) (2014) (en inglés con subtítulos en español)
 * [Aprendizaje Automático](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank"} (OCW) (2009)
-* [Aprendizaje Automático con Python: Una introducción práctica]() (IBM)
+* [Aprendizaje Automático con Python: Una introducción práctica](https://www.edx.org/es/course/machine-learning-aprendizaje-automatico-con-python){:target="_blank"} (IBM)
 * [Aprendizaje Automático y Ciencia de Datos](https://www.EDX.org/course/aprendizaje-automatico-y-ciencia-de-datos){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
-* [Aprendizaje Automático para el Análisis de Datos (2013)](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico-para-el-analisis-de-datos-2013){:target="_blank"} (OCW)
 * [Curso de Redes Neuronales: pix2pix](/redes-neuronales-pix2pix-con-jap-software/) (Jap Software, Youtube)
 * [Curso de Tensorflow](/tensorflow-con-jap-software/) (Jap Software, Youtube)
 * [Curso Intensivo de Aprendizaje Autómatico - Google](https://developers.google.com/machine-learning/crash-course){:target="_blank"} (Google Developers)
 * [Chatbot con Tensorflow](/chatbot-tensorflow-con-jap-software/){:target="_blank"} (Jap Software, Youtube)
-* [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-2-edicion-) (MiriadaX)
-* [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://www.udemy.com/course/curso-machine-learning)
+* [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-8-edicion-/inicio){:target="_blank"} (MiriadaX)
+* [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://www.udemy.com/course/curso-machine-learning){:target="_blank"}
+* [Machine Learning: ¿Qué es y cómo funciona?](https://www.unimooc.com/cursos/machine-learning){:target="_blank"}
 
 [⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -110,8 +110,8 @@ sidebar:
 
 * [Comienza con SQL: descarga los datos tu mismo con SQL](https://www.udemy.com/comienza-con-sql) (Udemy)
 * [Curso de SQL](/sql-con-jap-software/) (Jap Software, Youtube)
-* [Introducción a SQL con Oracle 11g](https://www.udemy.com/introduccion-a-sql-con-oracle-11g) (Udemy)
-* [Sistema de Login en Visual Basic y SQL Server en Capas](https://www.udemy.com/course/login-vb-sql/) (Udemy) (2019)
+* [Introducción a SQL con Oracle 11g](https://www.udemy.com/introduccion-a-sql-con-oracle-11g){:target="_blank"} (Udemy)
+* [Sistema de Login en Visual Basic y SQL Server en Capas](https://www.udemy.com/course/login-{:target="_blank"} (Udemy) (2019)
 
 [⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -128,10 +128,8 @@ sidebar:
 * [Arquitectura de Computadoras (2012)](http://ocw.uc3m.es/ingenieria-informatica/arquitectura-de-computadores-ii){:target="_blank"} (OCW)
 * [Arquitectura de Computadoras (2015)](http://ocw.uc3m.es/ingenieria-informatica/arquitectura-de-computadores){:target="_blank"} (OCW)
 * [Arquitectura de Computadores](http://ocwus.us.es/ingenieria-telematica/arquitectura-de-computadores/Course_listing){:target="_blank"} (OCW)
-* [Arquitectura de Ordenadores (2008)](http://ocw.uc3m.es/ingenieria-telematica/arquitectura-de-ordenadores){:target="_blank"} (OCW)
 * [Arquitectura e ingeniería de computadores](https://ocw.unican.es/course/view.php?id=162){:target="_blank"} (OCW)
 * [Arquitectura y tecnología de los sistemas embarcados (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=7364&p_caca=2010){:target="_blank"} (OCW)
-* [Arquitecturas Distribuidas (2012)](http://ocw.bib.upct.es/course/view.php?id=137){:target="_blank"} (OCW)
 * [Arquitecturas Reconfigurables (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/arquitecturas-reconfigurables-2006.html){:target="_blank"} (OCW)
 * [Bases Matemáticas: Álgebra](https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2){:target="_blank"} (EDX)
 * [Básico de Iniciación SAP](https://www.udemy.com/iniciacion-al-sistema-sap){:target="_blank"} (Udemy)
@@ -160,7 +158,6 @@ sidebar:
 * [Fundamentos de Computación (2010)](https://ocw.unican.es/course/view.php?id=194){:target="_blank"} (OCW)
 * [Fundamentos de Computadores (2009)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=3143&p_caca=2009){:target="_blank"} (OCW)
 * [Fundamentos de Comunicaciones Ópticas](https://www.EDX.org/course/fundamentos-de-comunicaciones-opticas-upvalenciax-fco201x-1){:target="_blank"} (EDX)
-* [Fundamentos de Informática (2008)](http://ocw.bib.upct.es/course/view.php?id=112){:target="_blank"} (OCW)
 * [Fundamentos de Ingeniería del Software](http://ocw.um.es/ingenierias/fundamentos-de-ingenieria-del-software){:target="_blank"} (OCW)
 * [Fundamentos de Programación: Algoritmos en Java y Javascript](https://www.udemy.com/fundamentos-de-programacion-algoritmos-en-java-y-javascript) (Udemy)
 * [Fundamentos de Programación: PseInt, PHP y JavaScript](https://www.udemy.com/fundamentos-de-programacion-aprende-con-pseudocodigo-pseint){:target="_blank"} (Udemy)
@@ -182,7 +179,6 @@ sidebar:
 * [Introducción a la teoría de códigos (2107)](https://ocw.ehu.eus/course/view.php?id=446){:target="_blank"} (OCW)
 * [Introducción a los PLC](https://www.udemy.com/introduccion-a-los-automatas-plc){:target="_blank"} (Udemy)
 * [Introducción a los sistemas de tiempo real](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/introduccion-a-los-sistemas-de-tiempo-real){:target="_blank"} (OCW)
-* [Laboratorio de Comunicaciones (2008)](http://ocw.bib.upct.es/course/view.php?id=80){:target="_blank"} (OCW)
 * [Lenguajes, tecnologías y paradigmas de la programación (2015)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=11557&p_caca=2015){:target="_blank"} (OCW)
 * [Lenguajes unificado de modelado: UML (2016)](https://campusvirtual.ull.es/ocw/course/view.php?id=132){:target="_blank"} (OCW)
 * [Lenguajes y paradigmas de programación (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/lenguajes-y-paradigmas-de-programacion-2006.html){:target="_blank"} (OCW)
@@ -205,11 +201,9 @@ sidebar:
 * [Siete habilidades clave en la era digital](https://miriadax.net/web/siete-habilidades-clave-en-la-era-digital-2-edicion-/inicio){:target="_blank"} (MiridaX)
 * [Sistemas de Ayuda a la Decisión (2008)](http://ocw.um.es/ingenierias/sistemas-de-ayuda-a-la-decision){:target="_blank"} (OCW)
 * [Sistemas de telecomunicación (2007)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/sistemas-de-telecomunicacion){:target="_blank"} (OCW) [(2011)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/sistemas-de-telecomunicacion-2011){:target="_blank"}
-* [Sistemas de Telecomunicación (2011)](http://ocw.bib.upct.es/course/view.php?id=99&topic=1){:target="_blank"} (OCW)
 * [Sistemas Electrónicos para el Tratamiento de la Información (2011)](http://ocw.uv.es/ingenieria-y-arquitectura/1-4/Course_listing){:target="_blank"} (OCW)
 * [Técnicas de diseño de algoritmos (2015)](https://ocw.ehu.eus/course/view.php?id=310){:target="_blank"} (OCW)
 * [Tecnologías Grid](http://ocw.uniovi.es/course/view.php?id=123){:target="_blank"} (OCW)
-* [Telemática (2011)](http://ocw.bib.upct.es/course/view.php?id=101){:target="_blank"} (OCW)
 * [Teoría de autómatas y lenguajes formales (2009)](http://ocw.uma.es/ingenierias/teoria-de-automatas-y-lenguajes-formales){:target="_blank"} (OCW)
 * [Teoría de autómatas y lenguajes formales (2012)](http://ocw.uc3m.es/ingenieria-informatica/teoria-de-automatas-y-lenguajes-formales){:target="_blank"} (OCW)
 * [UML. Fundamentos, diagramas. Caso de estudio](https://www.udemy.com/uml-fundamentos-5-diagramas-caso-de-estudio){:target="_blank"} (Udemy)
@@ -223,7 +217,6 @@ sidebar:
 
 * [¿Cómo vender cualquier producto en Internet?](https://www.udemy.com/como-vender-cualquier-producto-en-internet){:target="_blank"} (Udemy)
 * [Aprende a crear tu propia tienda Online](https://www.udemy.com/aprende-a-crear-tu-tienda-online){:target="_blank"} (Udemy)
-* [Comercio electrónico para emprendedores](https://unimooc.com/course/curso-comercio-electronico){:target="_blank"} (UniMooc)
 * [Cómo vender en redes sociales](https://www.udemy.com/como-vender-en-redes-sociales){:target="_blank"} (Udemy)
 * [Cómo vender por redes sociales](http://www.bmooc.com/como-vender-en-las-redes-sociales/){:target="_blank"} (Bmooc)
 * [Crea tu plan de marketing paso a paso](https://www.udemy.com/crea-tu-plan-de-marketing-online-en-6-pasos){:target="_blank"} (Udemy)
@@ -257,6 +250,7 @@ sidebar:
 * [Blockchain Demo Day: Proyectos 2019](https://www.tutellus.com/tecnologia/blockchain/blockchain-demo-day-abril-2019-24449){:target="_blank"} (Tutellus)
 * [Blockchain: Conceptos básicos y Ampliación sobre Ethereum](https://www.tutellus.com/tecnologia/blockchain/blockchain-conceptos-basicos-y-ampliacion-sobre-ethereum-18512){:target="_blank"} (Tutellus)
 * [Blockchain: Modelos de Negocio y Criptoeconomía](https://www.tutellus.com/tecnologia/blockchain/blockchain-modelos-de-negocio-e-introduccion-a-la-criptoeconomia-17326){:target="_blank"} (Tutellus)
+* [Blockchain en el sector turístico](https://www.unimooc.com/cursos/blockchain-sector-turistico){:target="_blank"} (UniMOOC)
 * [Curso de Blockchain en Python](https://unipython.com/curso-de-blockchain){:target="_blank"} (UniPython)
 * [Hyperledger: Marco de Blockchain para el negocio](https://www.tutellus.com/tecnologia/blockchain/hyperledger-marco-blockchain-para-el-negocio-19752){:target="_blank"} (Tutellus)
 * [ICO´s, Smart Contracts y Tokens en el universo Blockchain](https://www.tutellus.com/tecnologia/blockchain/icos-smart-contracts-y-tokens-en-el-universo-blockchain-17531){:target="_blank"} (Tutellus)
@@ -272,6 +266,7 @@ sidebar:
 
 ### Bitcoin <i class="fab fa-bitcoin"></i>
 
+* [Bitcoin: Conceptos, tecnología y usos](https://www.unimooc.com/cursos/bitcoin){:target="_blank"} (Udemy)
 * [Bitcoin: Qué es y como comprarlo](https://www.udemy.com/bitcoin-){:target="_blank"} (Udemy)
 * [Bitcoin Construye un imperio minando en la nube](https://www.udemy.com/bitcoin-construye-un-imperio-minando-en-la-nube){:target="_blank"} (Udemy)
 * [Bitcoin como Activo de Inversión](https://www.tutellus.com/tecnologia/blockchain/bitcoin-como-activo-de-inversion-19751){:target="_blank"} (Tutellus)
@@ -1060,7 +1055,6 @@ _____
 * [Arquitectura de Sistemas (2013)](http://ocw.uc3m.es/ingenieria-telematica/arquitectura-de-sistemas-2013) (OCW)
 * [Cisco Packet Tracer](https://www.youtube.com/playlist?list=PL19E8BE542D61D648) (My Cyber academy, Youtube)
 * [Computación en Red (2010)](http://ocw.uc3m.es/ingenieria-telematica/computacion-en-red) (OCW)
-* [Conmutación (2012)](http://ocw.bib.upct.es/course/view.php?id=129) (OCW)
 * [Conmutación y enrutamiento en redes de datos](https://www.youtube.com/playlist?list=PLCLpAU8VN0j5Af8nTf3m4nb6rgLyxXsoN) (MasterHeHeGar, YouTube)
 * [Curso de Cisco CCNA Security](https://www.youtube.com/playlist?list=PLaIfoQXPzU1aq7dO0wAPb-2_CBTrTHY7Q) (Capacity Academy, Youtube)
 * [Curso de Cisco CCNA Voice](https://www.youtube.com/playlist?list=PLaIfoQXPzU1ZHlmWNAJl6FJbuMbKaAGap) (Capacity Academy, Youtube)
@@ -1077,8 +1071,6 @@ _____
 * [Introducción a la Internet de las Cosas](https://www.edx.org/course/introduccion-al-internet-de-las-cosas-iot) (EDX \ Universidad Politécnica de Valencia)
 * [Introducción a la Internet de las Cosas (IoT)](https://mva.microsoft.com/es-es/training-courses/introduccin-a-internet-de-las-cosas-iot-16907) (OCW)
 * [IPV6](https://www.youtube.com/watch?v=kwvINZmmXeM&list=PLJ3jHT8E6frAuYS73uN2QLWi8qyXRyxo1) (Capacitación-LACNIC, YouTube)
-* [Laboratorio de arquitectura de redes de comunicaciones (2011)](http://ocw.bib.upct.es/course/view.php?id=100) (OCW)
-* [Laboratorio de redes y servicios de telecomunicaciones (2011)](http://ocw.bib.upct.es/course/view.php?id=5) (OCW)
 * [Protocolos de interconexión de redes (2012)](https://ocw.unican.es/course/view.php?id=159) (OCW)
 * [Redes (2008)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=5662&p_caca=2008) (OCW)
 * [Redes (2009)](https://ocw.ua.es/es/ingenieria-y-arquitectura/redes-2009.html) (OCW)
@@ -1160,14 +1152,12 @@ _____
 [Arduino 🔦](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large} [Casas Inteligentes 🏡](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large} [Inteligencia Artificial](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large} [Inteligencia Artificial](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large}
 
 * [Chatbots con Chatfuel para principiantes](https://www.udemy.com/curso-chatfuel-gratis) (Udemy)
-* [Comunicaciones Espaciales (2010)](http://ocw.bib.upct.es/course/view.php?id=94) (OCW)
 * [Diseña, fabrica y programa tu propio robot](https://www.EDX.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x) (EDX \ Universidad Politécnica de Valencia)
 * [Diseño y fabricación de un robot móvil](https://www.youtube.com/playlist?list=PL9A2AEC3E2F1BD975) (entivoo, YouTube)
 * [Empleo del ordenador personal en la instrumentación de panel (2012)](https://ocw.ehu.eus/course/view.php?id=54) (OCW)
 * [Iniciación al mundo de los aeronaves tripulados en remoto (drones)](https://miriadax.net/web/iniciacion-al-mundo-de-las-aeronaves-tripuladas-en-remoto-drones-) (MiriadaX)
 * [Internet de las Cosas. Desarrollar soluciones en 'FIWARE'](https://miriadax.net/web/internet-de-las-cosas-como-desarrollar-soluciones-en-fiware) (MiriadaX)
 * [Modelos y técnicas para el diseño de comportamientos de robots autónomos (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/modelos-y-tecnicas-para-el-diseno-de-comportamientos-de-robots-autonomos-2008.html) (OCW)
-* [Ondas Electromagnéticas (2014)](http://ocw.bib.upct.es/course/view.php?id=136) (OCW)
 * [Redes de Neuronas Artificiales (2017)](http://ocw.uc3m.es/ingenieria-informatica/redes-de-neuronas) (OCW)
 * [Redes Neuronales Artificiales y sus Aplicaciones (2012)](https://ocw.ehu.eus/pluginfile.php/9047/mod_resource/content/1/redes_neuro/Course_listing.html) (OCW)
 * [Robótica (2016)](https://ocw.ehu.eus/course/view.php?id=393) (OCW) [(2017)](https://ocw.ehu.eus/course/view.php?id=442)
@@ -1230,7 +1220,6 @@ _____
 * [Introducción a curso Ciberseguridad enfocada en Pentesting](https://plataforma.keepcoding.io/p/introduccion_ciberseguridad_enfocada_en_pentesting1) (Keep Coding)
 * [Programación Hacking](https://www.youtube.com/playlist?list=PL1UnfB2evouHZjiRJp-z9jstL-yqfTi_X) (OHCS, YouTube)
 * [Seguridad en Redes de Comunicación (2015)](https://ocw.unican.es/course/view.php?id=28) (OCW)
-* [Seguridad en Redes de Comunicaciones (2011)](http://ocw.bib.upct.es/course/view.php?id=102) (OCW)
 * [Seguridad en Sistemas Distribuidos (2009)](http://ocw.uc3m.es/ingenieria-informatica/seguridad-en-sistemas-distribuidos) (OCW)
 * [Seguridad en Sistemas Informáticos (2009)](http://ocw.uv.es/ingenieria-y-arquitectura/seguridad/Course_listing) (OCW)
 * [Seguridad informática práctica](https://miriadax.net/web/seguridad-informatica-practica) (MiriadaX)
@@ -1251,7 +1240,6 @@ _____
 * [Desarrollo de sistemas de información corporativos (2008)](http://ocw.uc3m.es/ingenieria-informatica/desarrollo-de-sistemas-de-informacion-corporativos) (OCW)
 * [Desarrollo de sistemas de información corporativos (2012)](http://ocw.uc3m.es/ingenieria-informatica/desarrollo-de-sistemas-de-informacion-corporativos-1) (OCW)
 * [Gestión de la Información (2013)](http://ocw.uma.es/ingenierias/gestion-de-la-informacion) (OCW)
-* [Herramientas de informática para la gestión (2010)](http://ocw.bib.upct.es/course/view.php?id=119) (OCW)
 * [Información Digital: representación y codificación](https://abierta.ugr.es/informacion_digital) (Abierta UGR)
 * [Informática (2011)](http://ocw.uc3m.es/ingenieria-informatica/informatica) (OCW)
 * [Informática de gestión (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=10127&p_caca=2010) (OCW)
@@ -1331,6 +1319,7 @@ _____
 * [Accesibilidad Universal (2012)](http://ocw.uc3m.es/ingenieria-informatica/accesibilidad-universal){:target="_blank"} (OCW)
 * [Aprende accesibilidad web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso){:target="_blank"} (Udemy)
 * [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad){:target="_blank"} (OCW)
+* [Test de Usabilidad: Balsamiq](https://www.unimooc.com/cursos/test-usabalidad/){:target="_blank"} (OCW)
 
 ## Análitica Web 📈
 
