@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: "\U0001F469‍\U0001F3EB Crear un bot en C# con Jap Software"
+title: "\U0001F469‍\U0001F3EB Cómo crear un bot en C# con Jap Software"
 description: >-
   ▷ Aprende a crear un bot con C# ✌️ Con el curso impartido por Jap Software
 excerpt: >-
