@@ -187,8 +187,8 @@ libros-espanol:
         url: /biblioteca-de-programacion-y-tecnologia/#-desarrollo-web
       - title: "👨‍🎨 Diseño Web"
         url: /cursos-tecnologia/#-diseño-web
-      - title: "🐧 Ecosistema de Código Abierto"
-        url: /biblioteca-de-programacion-y-tecnologia/#-ecosistema-de-código-abierto
+      - title: "🐧 Ecosistema de Software Libre"
+        url: /biblioteca-de-programacion-y-tecnologia/#-ecosistema-de-software-libre
       - title: "👨‍💻 Lenguajes de Programación"
         url: /biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programación
       - title: "💼 Metodologías de Desarrollo"
@@ -229,8 +229,8 @@ cursos-espanol:
         url: /cursos-tecnologia/#-desarrollo-web
       - title: "👨‍🎨 Diseño Web"
         url: /cursos-tecnologia/#-diseño-web
-      - title: "🐧 Ecosistema de Código Abierto"
-        url: /cursos-tecnologia/#-ecosistema-de-código-abierto
+      - title: "🐧 Ecosistema de Software Libre"
+        url: /cursos-tecnologia/#-ecosistema-de-software-libre
       - title: "👨‍💻 Lenguajes de Programación"
         url: /cursos-tecnologia/#-lenguajes-de-programación
       - title: "💼 Metodologías de Desarrollo"

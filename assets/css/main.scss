@@ -29,10 +29,10 @@
 @import "{{ site.theme }}";
 ::selection {
     background: rgba(255, 128, 0, 0.671) !important;
-    color: #FFFFFF !important;
+    color: rgb(0, 0, 0) !important;
 }
  
 ::-moz-selection {
     background:rgba(255, 128, 0, 0.671) !important;
-    color: #FFFFFF !important;
+    color: rgb(0, 0, 0) !important;
 }
