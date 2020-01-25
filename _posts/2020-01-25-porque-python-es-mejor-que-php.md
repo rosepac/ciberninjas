@@ -19,19 +19,19 @@ tags:
 
 ![](https://i.ibb.co/XWvDrTF/Why-Python-Is-Better-Than-PHP-1024x576.png "Porque Python es mejor que PHP para este año 2020")
 
-## Por qué Python es mejor que PHP
+## Porque Python es mejor que PHP
 
-Cuando se trata del back-end, se pueden usar numerosos lenguajes de programación. Eso puede dificultar la decisión de qué marco dominar, ya que hay una gran cantidad de diferentes características, funcionalidades y bibliotecas que ofrece cada uno de estos idiomas. La elección puede ser particularmente difícil para los nuevos desarrolladores.
+Cuando se trata del back-end, se pueden usar numerosos lenguajes de programación. Eso puede dificultar la decisión de qué framework dominar, ya que hay una gran cantidad de diferentes características, funcionalidades y bibliotecas que ofrece cada uno de estos idiomas. La elección puede ser particularmente difícil para los nuevos desarrolladores.
 
 Sin embargo, Python y PHP se destacan entre estos lenguajes de programación por varias razones. Python es un lenguaje de propósito general con una sintaxis excepcionalmente pura. Viene con muchas bibliotecas y cuenta con una comunidad fuerte. PHP, aunque torpe y débilmente tipado, todavía está muy extendido: casi el 80% de los sitios web están creados en PHP.
 
-Entonces, ¿cuál de estos dos lenguajes de programación es mejor? Bueno, el título de este artículo debería darte una pista.
+Entonces, ¿Cuál de estos dos lenguajes de programación es mejor? Bueno, el título de este artículo debería darte una pista.
 
-Déjame mostrarte por qué Python es la opción obvia.
+Déjame mostrarte por qué Python es la opción más obvia.
 
 ## Fácil de aprender
 
-Debido a que Python es fácil de escribir, con una sintaxis simple y un código legible, este lenguaje de programación se considera apto para principiantes .
+Debido a que Python es fácil de escribir, con una sintaxis simple y un código legible, este lenguaje de programación se considera apto para principiantes.
 
 Su corta curva de aprendizaje hace de Python una opción recomendada para los novatos, y la mayoría de los cursos de programación usan Python para enseñar los fundamentos. En otras palabras, aprender este idioma lleva mucho menos tiempo que aprender otros idiomas, lo que significa que el costo es menor, mientras que el desarrollo es más rápido.
 
@@ -47,7 +47,7 @@ Esto es importante cuando se trata de tomar una decisión sobre si optar por Pyt
 
 La necesidad de aplicaciones web respaldadas por el aprendizaje automático ha ido en aumento, y Python ofrece a los desarrolladores algunas de las mejores bibliotecas de aprendizaje automático como Scikit-learn, Theano, TensorFlow y Keras, por nombrar solo algunas.
 
-Si bien es cierto que Packagist de PHP ofrece diferentes bibliotecas, Python también domina a este respecto, ya que sus bibliotecas son intuitivas y fáciles de usar, y se integran perfectamente con el marco web.
+Si bien es cierto que Packagist de PHP ofrece diferentes bibliotecas, Python también domina a este respecto, ya que sus bibliotecas son intuitivas y fáciles de usar, y se integran perfectamente con el framework web.
 
 Cuando hablamos de flexibilidad, vale la pena señalar que si bien PHP solo se puede usar para el desarrollo web, Python es mucho más versátil.
 
@@ -55,17 +55,17 @@ Entonces podemos concluir que Python también domina en esta área.
 
 ## Frameworks web rápidos
 
-Aquellos enraizando para PHP dirán que este lenguaje de programación no se queda atrás cuando se trata de su número de potentes marcos web.
+Aquellos enraizando para PHP dirán que este lenguaje de programación no se queda atrás cuando se trata de su número de potentes frameworks web.
 
-Aunque Python está un poco superado en número en este departamento, sus marcos más populares son robustos y están bien diseñados.
+Aunque Python está un poco superado en número en este departamento, sus  más populares son robustos y están bien diseñados.
 
 Django, Flask, Pylons y Pyramid se encuentran entre los más populares.
 
-En cuanto a PHP, no se puede negar que Codeigniter y Laravel, sus marcos web más utilizados, son de primera categoría.
+En cuanto a PHP, no se puede negar que Codeigniter y Laravel, sus frameworks web más utilizados, son de primera categoría.
 
-Sin embargo, dado que Django es elogiado por su velocidad, escalabilidad, seguridad y facilidad de uso, muchos desarrolladores nuevos lo aprecian mucho, por lo que no sería un error decir que Python obtiene otra victoria, aunque estrecha. Cabe agregar que este marco también tiene otras ventajas, como el bajo tiempo de desarrollo y la fácil configuración.
+Sin embargo, dado que Django es elogiado por su velocidad, escalabilidad, seguridad y facilidad de uso, muchos desarrolladores nuevos lo aprecian mucho, por lo que no sería un error decir que Python obtiene otra victoria, aunque estrecha. Cabe agregar que este framework también tiene otras ventajas, como el bajo tiempo de desarrollo y la fácil configuración.
 
-Cuando se habla de marcos, vale la pena mencionar que Python también tiene su propio marco de microservicios, Nameko. Este patrón de arquitectura de software ha estado de moda durante bastante tiempo, y una mirada a un diagrama de arquitectura de microservicios mostrará por qué: una depuración más eficiente, escalabilidad, reutilización y facilidad de implementación, entre muchos otros beneficios, lo convierten en una necesidad para el desarrollo .
+Cuando se habla de frameworks, vale la pena mencionar que Python también tiene su propio framework de microservicios, Nameko. Este patrón de arquitectura de software ha estado de moda durante bastante tiempo, y una mirada a un diagrama de arquitectura de microservicios mostrará por qué: una depuración más eficiente, escalabilidad, reutilización y facilidad de implementación, entre muchos otros beneficios, lo convierten en una necesidad para el desarrollo .
 
 ## Apoyado por una gran comunidad
 
