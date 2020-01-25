@@ -16,9 +16,7 @@ tags:
 
 ---
 
-![](https://i.ibb.co/XWvDrTF/Why-Python-Is-Better-Than-PHP-1024x576.png "Porque Python es mejor que PHP para este año 2020")
-
-## Porque Python es mejor que PHP
+![](https://i.ibb.co/GTMgwxp/open-gapps-logotipo.png "Logotipo de Open GApps aplicaciones para Android y ROMs flasheables")
 
 Si desea utilizar cualquier aplicación que requiera los servicios de Google Play en una ROM personalizada, lo más probable es que necesite actualizar un paquete de aplicaciones de Google o GApps por separado después de actualizar la ROM.
 
