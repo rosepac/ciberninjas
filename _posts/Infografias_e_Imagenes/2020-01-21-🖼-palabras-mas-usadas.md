@@ -221,9 +221,9 @@ Los datos han sido extraídos de los diferentes repositorios de Github.
 
 ## Nube de Palabras de Groovy
 
-<a href="https://ibb.co/2Z34cSy" title="Ver en IMGBB" target="_blank"><img src="" alt="" border="0"></a>
+<a href="https://ibb.co/2Z34cSy" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/CPKGV6z/nube-groovy.jpg" alt="" border="0"></a>
 
-[🔍 Insertar Groovy](https://ibb.co/2Z34cSy "Inserta la nube de palabras del lenguaje de programación Groovy"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=groovy){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large} https://anvaka.github.io/common-words/#?lang=js
+[🔍 Insertar Groovy](https://ibb.co/2Z34cSy "Inserta la nube de palabras del lenguaje de programación Groovy"){: .btn .btn--inverse .btn--large} [⛓ Conocer Palabras](https://anvaka.github.io/common-words/#?lang=groovy){: .btn .btn--inverse .btn--large} [🔝 Inicio](/palabras-lenguajes-programacion/#introducción){: .btn .btn--inverse .btn--large}
 
 ## Proyecto
 
