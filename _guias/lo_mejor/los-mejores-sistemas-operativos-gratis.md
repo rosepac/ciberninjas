@@ -57,3 +57,12 @@ toc_sticky: true
 30. [Sculpt](https://genode.org/download/sculpt)
 31. [Biscuit](https://github.com/mit-pdos/biscuit)
 32. [Redox](https://www.redox-os.org/)
+
+### Mejores Blogs de Linux del Mundo
+
+## [Desde Linux](https://blog.desdelinux.net/){:target="_blank"}
+
+### Mejores Blogs de Linux del Mundo en Español
+
+## [Linux Today](https://www.linuxtoday.com/){:target="_blank"}
+## [Lxer](http://lxer.com/){:target="_blank"}
