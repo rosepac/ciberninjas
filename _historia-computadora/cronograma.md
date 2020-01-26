@@ -6,7 +6,7 @@ excerpt: 'Cronograma o Línea de Tiempo de la Historia de la Computación'
 date: 2018-09-11
 published: true
 permalink: /cronograma/
-canonical_URL: https://www.computerhistory.org/timeline/
+canonical_URL: "https://www.computerhistory.org/timeline/"
 classes: wide
 # toc: true
 # toc_label: "Contenidos"
@@ -15,6 +15,7 @@ classes: wide
 sidebar:
 - title: "Historia Computadora"
   nav: historia
+
 ---
 
 <!-- [1950s 🕙](/cronograma/#1950s- ""){: .btn .btn--inverses .btn--large} -->
