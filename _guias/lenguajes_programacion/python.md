@@ -11,8 +11,8 @@ date: 2019-06-30 12:06:18
 last_modified_at: 2020-01-10
 permalink: /python/
 header:
-  teaser: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
-  overlay_image: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
+  teaser: https://i.ibb.co/fGg3nNT/def-python-wallpaper-self-by-defyance75-d870pdu.png
+  overlay_image: https://i.ibb.co/fGg3nNT/def-python-wallpaper-self-by-defyance75-d870pdu.png
   overlay_filter: 0.2
   image_description: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
   image_alt: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
@@ -22,7 +22,7 @@ header:
       url: "/python-recursos/"
 ---
 
-[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién esta usando Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#librerías-de-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large}
+[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién usa Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#librerías-de-python){: .btn .btn--inverse .btn--large}
 <!-- [](){: .btn .btn--inverse .btn--large} -->
 
 
@@ -42,7 +42,7 @@ También como Java, Python tiene una variedad de aplicaciones que lo convierten 
 
 Python también tiene paquetes como NumPy y SciPy que se usan comúnmente en los campos de la computación científica, las matemáticas y la ingeniería. Otras bibliotecas de Python, como TensorFlow, PyTorch, scikit-learn y OpenCV, se utilizan para crear programas en ciencia de datos, aprendizaje automático, procesamiento de imágenes y visión por computadora. Las aplicaciones de ciencia y datos de Python lo convierten en una excelente opción para los académicos.
 
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿Quién está usando Python?
 
@@ -65,7 +65,6 @@ Python es ahora uno de los lenguajes oficiales del servidor de Google (C ++, Jav
 - Dropbox
 - Reddit
 -->
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ### ILM
 
@@ -81,21 +80,23 @@ El estudio ha usado Python en muchas otras facetas de su trabajo. Los desarrolla
 
 A pesar de las numerosas revisiones, ILM continúa considerando que Python es la mejor solución para sus necesidades. La combinación de un código de fuente abierta combinada con la capacidad de realizar cambios garantiza que Python continuará satisfaciendo las necesidades de ILM durante mucho tiempo.
 
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
 ### Otros Muchos Más
 
 Existen otras muchas empresas reconocidas que confian en Python como uno de sus lenguajes principales, por sus ideales características, entre ellas: la NASA, Mozilla, PayPal, Pinterest, SendGrid, Zappier, Udemy, Uber, Instacart, 8GAG, Asana, Intuit, Keen IO, Disqus, Pandora, BillGuard, Back End, imgix, AdRoll, Chartio, WePay, Chartbeat, Brika, Circa, Kippt, Thingr, Hipmunk, y un largo etc. más.
 
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿Por qué aprender Python?
 
-La sintaxis sencilla y directa de Python lo convierten en uno de los mejores lenguajes, entre los de propósito general, que comenzar a aprender en lo que resta del 2019. Python cuenta con un sistema de tipado dinámico, gestión automática de su memoria dinámica y admite múltiples paradigmas de programación como orientado a objetos, funcional e imperativo. En muchos dominios de aplicación utilizan su biblioteca estándar integral.
+La sintaxis sencilla y directa de Python lo convierten en uno de los mejores lenguajes, entre los de propósito general, que comenzar a aprender en lo que resta del 2020. Python cuenta con un sistema de tipado dinámico, gestión automática de su memoria dinámica y admite múltiples paradigmas de programación como orientado a objetos, funcional e imperativo. En muchos dominios de aplicación utilizan su biblioteca estándar integral.
 
 Las aplicaciones web y de escritorio, los servidores, el aprendizaje automático, las aplicaciones de inteligencia artificial usan Python e incluso es uno de los lenguajes más usados dentro del campo de la criptografía  y las cadenas de bloques o blockchain.
 
-Cada año aparece entre los mejores lenguajes de programación en el [índice TIOBE](https://www.tiobe.com/tiobe-index/) y el año pasado se destaco siendo nombrado "Lenguaje de Programación del Año" siendo de esperar que siga creciendo su uso a lo largo del año y en el futuro más cercano.
+Cada año aparece entre los mejores lenguajes de programación en el [índice TIOBE](https://www.tiobe.com/tiobe-index/){:target="_blank"} y el año pasado se destaco siendo nombrado "Lenguaje de Programación del Año" siendo de esperar que siga creciendo su uso a lo largo del año y en el futuro más cercano.
+
+La amplia biblioteca de Python de herramientas de análisis de datos de código abierto, marcos web e instrumentos de prueba hacen de su ecosistema uno de los más grandes de cualquier comunidad de programación.
+
+Python es un lenguaje accesible para nuevos programadores porque la comunidad proporciona muchos recursos introductorios . El idioma también se enseña ampliamente en las universidades y se utiliza para trabajar con dispositivos amigables para principiantes como Raspberry Pi .
 
 En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrados en Python a través de la web Indeed.com.
 
@@ -103,7 +104,9 @@ En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrad
 
 ## ¿Cómo desarrollar una aplicación web con Python?
 <!-- https://www.fullstackpython.com/ -->
-### Frameworks Web
+Ahora desea tomar su conocimiento inicial de Python y hacer algo real, como una aplicación web para presumir ante amigos o vender como servicio a los clientes. Ahí es donde entra en juego Full Stack Python . Has venido al lugar correcto para aprender todo lo que necesitas para crear , implementar y operar aplicaciones basadas en Python.
+
+## Frameworks Web de Python
 
 <!-- https://www.fullstackpython.com/other-web-frameworks.html -->
 * [Django](/python/#django)
@@ -122,8 +125,9 @@ En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrad
 
 Django es un framework de aplicaciones web Python ampliamente utilizado con una filosofía full-stack. El principio detrás del desarrollo full-stack es incluir todas las funcionalidades necesarias para crear aplicaciones web dentro del propio framework en vez tener que utilizar otras bibliotecas externas.
 
-[🐍 Framework Django 🐍](https://www.djangoproject.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación Django 🐍](https://docs.djangoproject.com/en/3.0/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework Django 🐍](https://www.djangoproject.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Django 🐍](https://docs.djangoproject.com/en/3.0/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 ## Flask
 
@@ -131,9 +135,10 @@ Django es un framework de aplicaciones web Python ampliamente utilizado con una 
 
 Flask es un framework de Python construido con un núcleo pequeño y un diseño fácil de ampliar. Flask es coniderado más aproximado a la filosofía de Python que Django porque en la creación de situaciones comunes las metodologías de aplicación de Flask son más explícitas; además, es más fácil comenzar con Flask como principiante porque hay menos código repetitivo a la hora de generar una aplicación sencilla.
 
-[🐍 Framework Flask 🐍](https://palletsprojects.com/p/flask/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación Flask 🐍](https://flask.palletsprojects.com/en/1.1.x/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Proyecto Pallets 🐍](https://palletsprojects.com/p/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework Flask 🐍](https://palletsprojects.com/p/flask/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Flask 🐍](https://flask.palletsprojects.com/en/1.1.x/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🐍 Proyecto Pallets 🐍](https://palletsprojects.com/p/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 ## Bottle
 
@@ -141,8 +146,9 @@ Flask es un framework de Python construido con un núcleo pequeño y un diseño 
 
 Bottle es un micro framework web WSGI rápido, simple y liviano para Python. Se distribuye como un módulo de archivo único y no tiene dependencias distintas de la Biblioteca estándar de Python.
 
-[🐍 Framework Bottle 🐍](http://bottlepy.org/docs/dev/index.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación Bottle 🐍](https://github.com/bottlepy/bottle#bottle-python-web-framework){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework Bottle 🐍](http://bottlepy.org/docs/dev/index.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Bottle 🐍](https://github.com/bottlepy/bottle#bottle-python-web-framework){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 ## Pyramid
 
@@ -150,10 +156,10 @@ Bottle es un micro framework web WSGI rápido, simple y liviano para Python. Se 
 
 Pyramid es un framework web WSGI de código abierto basado en el patrón arquitectónico Modelo-Vista-Controlador (MVC) y ahora mantenido por el proyecto Pylons; junto a otros proyectos relacionados a Python.
 
-[🐍 Framework Pyramid 🐍](https://trypyramid.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación Pyramid 🐍](https://trypyramid.com/documentation.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Proyecto Pylons 🐍](https://pylonsproject.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-
+[🐍 Framework Pyramid 🐍](https://trypyramid.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Pyramid 🐍](https://trypyramid.com/documentation.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🐍 Proyecto Pylons 🐍](https://pylonsproject.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 ## TurboGears
 
@@ -161,8 +167,9 @@ Pyramid es un framework web WSGI de código abierto basado en el patrón arquite
 
 TurboGears, es un framework enfocado hacía los desarrolladores full-stack sobre Pylons, y ahora es un framework web WSGI independiente capaz de funcionar tanto como un framework full-stack (como Django) o como un micro framework (como Flask). Originalmente inspirado en RubyOnRails, se basa en MVC, donde el controlador envía la solicitud a un conjunto de acciones expuestas desde el propio controlador.
 
-[🐍 Framework TurboGears 🐍](https://www.turbogears.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación TurboGears 🐍](https://www.turbogears.org/documentation.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework TurboGears 🐍](https://www.turbogears.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación TurboGears 🐍](https://www.turbogears.org/documentation.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 <!-- https://www.g2.com/products/turbogears/reviews?filters%5Bnps_score%5D%5B%5D=3 -->
 
 ## Falcon
@@ -171,8 +178,9 @@ TurboGears, es un framework enfocado hacía los desarrolladores full-stack sobre
 
 Falcon es un framework compatible con WSGI diseñado para construir API RESTful sin requerir dependencias externas de las propias bibliotecas de código de Python.
 
-[🐍 Framework Falcon 🐍](https://falconframework.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación Falcon 🐍](https://falcon.readthedocs.io/en/stable/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework Falcon 🐍](https://falconframework.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Falcon 🐍](https://falcon.readthedocs.io/en/stable/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 ## MorePath
 
@@ -180,8 +188,9 @@ Falcon es un framework compatible con WSGI diseñado para construir API RESTful 
 
 MorePath es un micro framework web enfocado en crear aplicaciones web o API´s. La filosofía de Morepath es el modelo de datos. Por defecto, el marco enruta las URL directamente al código del modelo, a diferencia de, por ejemplo, Django, que requiere un enrutamiento de URL explícito por parte del desarrollador.
 
-[🐍 Framework MorePath Github 🐍](https://morepath.readthedocs.io/en/latest/quickstart.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación MorePath 🐍](https://morepath.readthedocs.io/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework MorePath Github 🐍](https://morepath.readthedocs.io/en/latest/quickstart.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación MorePath 🐍](https://morepath.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 ## Sanic
 
@@ -189,8 +198,9 @@ MorePath es un micro framework web enfocado en crear aplicaciones web o API´s. 
 
 Sanic es un framework web de Python construido en uvloop y diseñado para respuestas HTTP rápidas a través del manejo de solicitudes asíncronas. El objetivo del proyecto es proporcionar una forma simple de poner en funcionamiento un servidor HTTP de alto rendimiento que sea fácil de construir, expandir y, en última instancia, escalar.
 
-[🐍 Framework Sanic Github 🐍](https://github.com/huge-success/sanic#sanic--build-fast-run-fast){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación Sanic 🐍](https://sanic.readthedocs.io/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework Sanic Github 🐍](https://github.com/huge-success/sanic#sanic--build-fast-run-fast){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🐍 Documentación Sanic 🐍](https://sanic.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 ### Otros Frameworks
 
@@ -198,24 +208,23 @@ Sanic es un framework web de Python construido en uvloop y diseñado para respue
 
 CherryPy se presenta como un framework web minimalista, con la perspectiva de ofrecer la creación de una aplicación web con el mínimo código posible. El proyecto tiene una larga historia e hizo una transición importante entre su segunda y tercera versión.
 
-[🐍 Framework CherryPy 🐍](https://cherrypy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación CherryPy 🐍](https://docs.cherrypy.org/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework CherryPy 🐍](https://cherrypy.org/){: .btn .btn--warning .btn--large}{:target="_blank"} [🐍 Documentación CherryPy 🐍](https://docs.cherrypy.org/en/latest/){: .btn .btn--warning .btn--large}{:target="_blank"} [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large}
 <!-- Estadísticas de frameworks: https://w3techs.com/technologies/details/ws-cherrypy -->
 
 ## Masonite
 
 Masonite es un framework web moderno de Python, centrado en el desarrollador full-stack que utiliza el patrón de arquitectura MVC (Modelo-Vista-Controlador) y viene con una gran cantidad de funcionalidades preparadas para usar y una arquitectura extremadamente extensible.
 
-[🐍 Framework Masonite 🐍](https://cherrypy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación Masonite 🐍](https://docs.masoniteproject.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework Masonite 🐍](https://cherrypy.org/){: .btn .btn--warning .btn--large}{:target="_blank"}
+[🐍 Documentación Masonite 🐍](https://docs.masoniteproject.com/){: .btn .btn--warning .btn--large}{:target="_blank"} [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large}
 <!-- masonite sección: https://www.fullstackpython.com/other-web-frameworks.html -->
 
 ## Web2py
 
 Web2py es un framework full-stack de código abierto con una estructura de proyecto basada en patrones de modelo-vista-controlador para el desarrollo rápido de aplicaciones web basadas en bases de datos rápidas, escalables, seguras y portátiles. Escrito y programado en Python.
 
-[🐍 Framework Web2py 🐍](http://www.web2py.com/init/default/index){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación Web2py 🐍](http://www.web2py.com/book/default/chapter/01#Security){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework Web2py 🐍](http://www.web2py.com/init/default/index){: .btn .btn--warning .btn--large}{:target="_blank"}
+[🐍 Documentación Web2py 🐍](http://www.web2py.com/book/default/chapter/01#Security){: .btn .btn--warning .btn--large}{:target="_blank"} [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large}
 
 ## Vibora
 
@@ -223,8 +232,7 @@ Web2py es un framework full-stack de código abierto con una estructura de proye
 
 Vibora es un framework de modelo asíncrono similar a Sanic que se inspiró en la sintaxis de Flask. Sin embargo, el autor del marco reescribió muchas partes como el motor de plantillas para maximizar el rendimiento; en la actualidad se encuentra en standby a la espera de una actualización completa.
 
-[🐍 Framework Vibora 🐍](https://vibora.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[🐍 Documentación Vibora 🐍](https://docs.vibora.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Framework Vibora 🐍](https://vibora.io/){: .btn .btn--warning .btn--large}{:target="_blank"} [🐍 Documentación Vibora 🐍](https://docs.vibora.io/){: .btn .btn--warning .btn--large}{:target="_blank"} [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large}
 
 ## Pecan -DESUSO-
 
@@ -234,6 +242,7 @@ Pecan está inspirado en CherryPy y TurboGears. Se centra exclusivamente en mejo
 
 https://github.com/pecan/pecan#pecan
 {: .notice--warning}
+[🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large .align-center}
 
 ## Muffin -DESUSO-
 
@@ -243,6 +252,7 @@ Muffin es un framework creado sobre el módulo "[Asyncio](https://docs.python.or
 
 https://github.com/klen/muffin#the-muffin
 {: .notice--warning}
+[🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large .align-center}
 
 ## Ray -DESUSO-
 
@@ -252,8 +262,10 @@ Ray es un framework para construir API RESTful, similar a Falcon. La publicació
 
 https://rayframework.github.io/site/
 {: .notice--warning}
+[🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-### Bibliotecas de Python
+## Bibliotecas de Python
 
 En este espacio vamos a analizar las 10 mejores y más reconocidas bibliotecas de Python, las cuales los desarrolladores pueden utilizar para implementar el aprendizaje automático dentro de sus aplicaciones existentes.
 
@@ -305,7 +317,7 @@ TensorFlow está optimizado para la velocidad, utiliza técnicas como XLA para o
 
 2. **Flexible**: Una de las características muy importantes de Tensorflow es que es flexible en su operatividad, lo que significa que tiene modularidad y las partes que desea hacer independientes, le ofrece esa opción.
 
-3. **Fácilmente entrenable**: Es fácilmente entrenable tanto en la CPU como en la  GPU  para la informática distribuida.
+3. **Fácilmente entrenable**: Es fácilmente entrenable tanto en la CPU como en la  GPU  para la warningrmática distribuida.
 
 4. **Entrenamiento en red neuronal paralela**: TensorFlow ofrece canalización en el sentido de que puede entrenar múltiples  redes neuronales y múltiples GPU, lo que hace que los modelos sean muy eficientes en sistemas a gran escala.
 
@@ -323,7 +335,8 @@ El número de aplicaciones de TensorFlow es literalmente ilimitado y esa es la b
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos Scikit-Learn..
 
-[🐍 Biblioteca TensorFlow 🐍](https://www.tensorflow.org/install){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Biblioteca TensorFlow 🐍](https://www.tensorflow.org/install){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 ## Scikit-Learn
 
@@ -349,7 +362,8 @@ Contiene una gran cantidad de algoritmos para implementar tareas estándar de ap
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Numpy..
 
-[🐍 Biblioteca Scikit 🐍](https://scikit-learn.org/stable/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Biblioteca Scikit 🐍](https://scikit-learn.org/stable/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 ## Numpy
 
@@ -374,7 +388,8 @@ Esta interfaz se puede utilizar para expresar imágenes, ondas de sonido y otras
 
 Es importante para los desarrolladores de "machine learning" full stack tener conocimiento de Numpy.
 
-[🐍 Biblioteca Numpy 🐍](https://numpy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Biblioteca Numpy 🐍](https://numpy.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Keras..
 
@@ -405,7 +420,8 @@ Además, proporciona muchos conjuntos de datos preprocesados ​​y modelos pre
 
 Keras también es un favorito entre los investigadores de aprendizaje profundo, llegando al # 2. Keras también ha sido adoptado por investigadores de grandes organizaciones científicas, en particular, CERN y NASA.
 
-[🐍 Biblioteca Keras 🐍](http://keras.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Biblioteca Keras 🐍](http://keras.io/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a PyTorch..
 
@@ -439,7 +455,8 @@ Está desarrollado principalmente por el grupo de investigación de inteligencia
 
 PyTorch está superando a TensorFlow en múltiples formas y está ganando mucha atención en los últimos días.
 
-[🐍 Biblioteca PyTorch 🐍](https://pytorch.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Biblioteca PyTorch 🐍](https://pytorch.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a LightGBM..
 
@@ -467,7 +484,8 @@ No producirá errores cuando considere los valores de NaN y otros valores canón
 
 Estas bibliotecas proporcionan implementaciones altamente escalables, optimizadas y rápidas de aumento de gradiente, lo que lo hace popular entre los desarrolladores de aprendizaje automático. Debido a que la mayoría de los desarrolladores de pila completa de aprendizaje automático ganaron concursos de aprendizaje automático mediante el uso de estos algoritmos.
 
-[🐍 Biblioteca LightGBM 🐍](https://lightgbm.readthedocs.io/en/latest/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Biblioteca LightGBM 🐍](https://lightgbm.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Eli5..
 
@@ -491,7 +509,8 @@ Eli5 juega un papel vital donde hay dependencias con otros paquetes de Python.
 
 Aplicaciones heredadas e implementación de nuevas metodologías en diversos campos.
 
-[🐍 Biblioteca Eli5 🐍](https://eli5.readthedocs.io/en/latest/overview.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Biblioteca Eli5 🐍](https://eli5.readthedocs.io/en/latest/overview.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a SciPy..
 
@@ -519,7 +538,8 @@ SciPy maneja fácilmente las tareas que incluyen álgebra lineal, integración (
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Theano..
 
-[🐍 Biblioteca Scipy 🐍](https://www.scipy.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Biblioteca Scipy 🐍](https://www.scipy.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 ## Theano
 
@@ -548,7 +568,8 @@ Fue diseñado específicamente para manejar los tipos de computación requeridos
 
 Theano se está utilizando en múltiples proyectos de redes neuronales hoy en día y la popularidad de Theano solo está creciendo con el tiempo.
 
-[🐍 Biblioteca Theano 🐍](http://deeplearning.net/software/theano/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Biblioteca Theano 🐍](http://deeplearning.net/software/theano/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Pandas..
 
@@ -572,27 +593,28 @@ Actualmente, hay menos versiones de la biblioteca de pandas que incluye cientos 
 
 El análisis de datos entre todo lo demás se destaca cuando se trata del uso de Pandas. Pero, cuando se usan Pandas con otras bibliotecas y herramientas, garantizan una alta funcionalidad y una buena cantidad de flexibilidad.
 
-[🐍 Biblioteca Pandas 🐍](https://pandas.pydata.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[🐍 Biblioteca Pandas 🐍](https://pandas.pydata.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a otras bibliotecas.. De menor uso, pero no por ello menos importantes, dependiendo de cual vaya a ser el uso que desees hacer de Python dentro de tus proyectos..
 
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 ### Otras Bibliotecas
 
-* [Kaggle](https://www.kaggle.com/datasets)
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [Requests Python](https://realpython.com/python-requests/)
-* [SeaBorn](https://seaborn.pydata.org/examples/index.html#example-gallery)
-* [MatPlotLib](https://matplotlib.org/users/index.html)
-* [Jupiter](https://jupyter.org/install.html)
-* [Mitogen](https://mitogen.networkgenomics.com/)
+* [Kaggle](https://www.kaggle.com/datasets){:target="_blank"}
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){:target="_blank"}
+* [Requests Python](https://realpython.com/python-requests/){:target="_blank"}
+* [SeaBorn](https://seaborn.pydata.org/examples/index.html#example-gallery){:target="_blank"}
+* [MatPlotLib](https://matplotlib.org/users/index.html){:target="_blank"}
+* [Jupiter](https://jupyter.org/install.html){:target="_blank"}
+* [Mitogen](https://mitogen.networkgenomics.com/){:target="_blank"}
+* [Tessagon](https://github.com/cwant/tessagon#tessagon-tessellation--tiling-with-python){:target="_blank"} \ Teje tus variedades 2D favoritas con triángulos, hexágonos y otros patrones interesantes.
+[🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
-[🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--success .btn--large .align-center}
+[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--success .btn--large .align-center}
+[🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn--success .btn--large .align-center}
+[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Relacionados
 
@@ -600,5 +622,5 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 
 _____
 
-[📕 Libros Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--inverse .btn--large}{:target="_blank"}
- [🎓 Cursos Python 🐍](https://ouo.io/CNr4s3){: .btn .btn--inverse .btn--large}{:target="_blank"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--inverse .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--inverse .btn--large}
+[📕 Libros Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--info .btn--large}{:target="_blank"}
+ [🎓 Cursos Python 🐍](https://ouo.io/CNr4s3){: .btn .btn--info .btn--large}{:target="_blank"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--info .btn--large}
