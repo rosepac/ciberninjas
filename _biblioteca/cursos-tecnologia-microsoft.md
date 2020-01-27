@@ -28,6 +28,10 @@ Si no me equivoco, dentro de estas "rutas" se incluyen todos los módulos en esp
 
 A tener en cuenta, que se debe iniciar sesión a través de una [cuenta de Outlook](https://kutt.it/cuentaoutlook){:target="_blank"} si se desea guardar el registro del avanza de los módulos.
 
+## Metalistas
+
+* Repositorio de Blogs Antiguos de Microsoft [->](https://docs.microsoft.com/es-es/archive/blogs/){:target="_blank"}
+
 ## 👨‍🏫 Cursos de Aprendizaje Academia Microsoft
 
 ## Aplicaciones de Windows 10

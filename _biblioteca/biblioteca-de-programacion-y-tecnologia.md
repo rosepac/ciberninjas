@@ -48,7 +48,7 @@ sidebar:
 * [Universidad Autónoma de Mexico - Plan (2016)](https://kutt.it/apuntes-pdf-universidad-mexico){:target="_blank"}
 <!-- https://biblioweb.tic.unam.mx/ , https://www.julianmarquina.es/22-grandes-bibliotecas-digitales-en-espana-aunque-hay-muchas-mas/ https://portal.uned.es/portal/page?_pageid=93,511995&_dad=portal&_schema=PORTAL -->
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ### 🧰 Meta-Listas Herramientas
 
@@ -60,11 +60,11 @@ sidebar:
 * [Miriadax](https://miriadax.net/cursos){:target="_blank"} (HTML)
 * [Hacker.IO](https://hackr.io/){:target="_blank"} (HTML)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 📁 Bases de Datos
 
-[Big Data 👨‍👩‍👦](/biblioteca-de-programacion-y-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [Machine Learning](/biblioteca-de-programacion-y-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn--inverse .btn--large} [NoSQL](/biblioteca-de-programacion-y-tecnologia/#nosql){: .btn .btn--inverse .btn--large} [SQL](/biblioteca-de-programacion-y-tecnologia/#sql){: .btn .btn--inverse .btn--large}
+[Big Data 👨‍👩‍👦](/biblioteca-de-programacion-y-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn--inverse .btn--large} [NoSQL](/biblioteca-de-programacion-y-tecnologia/#nosql){: .btn .btn--inverse .btn--large} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn--inverse .btn--large} [SQL](/biblioteca-de-programacion-y-tecnologia/#sql){: .btn .btn--inverse .btn--large}
 
 * [Apuntes Básicas de SQL](https://openlibra.com/es/book/download/apuntes-basicos-de-sql){:target="_blank"} - Unai Estébanez (PDF)
 * [Apuntes de Base de Datos 1](https://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf){:target="_blank"} - Univ. Alicante (PDF)
@@ -80,6 +80,9 @@ sidebar:
 * [Principios sobre bases de datos relacionales](https://cmapspublic2.ihmc.us/rid=1P2RVCGBV-1PKTG1T-2B2B/Principios%20de%20bases%20de%20datos%20relacionales.pdf){:target="_blank"} (PDF)
 * [Usando Oracle SQL y PL/SQL](https://issuu.com/aulacero21/docs/gesti_n_de_bases_de_datos_-_jorge_s_nchez___oracle/61){:target="_blank"} (HTML)
 
+[⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+
 ## MySQL
 
 * [MySQL Redundante sobre RAID 1 en Debian 8](https://www.researchgate.net/publication/333971453_MySQL_Redundante_sobre_RAID_1_en_Debian_8) (PDF) (2017)
@@ -89,7 +92,7 @@ sidebar:
 * [Manual de SQL](https://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html){:target="_blank"} (HTML)
 * [Tutorial de SQL](https://www.desarrolloweb.com/manuales/9/){:target="_blank"} (HTML)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## NoSQL
 
@@ -104,7 +107,7 @@ sidebar:
 
 * [Redis: Un pequeño libro](https://raulexposito.com/documentos/redis/redis.pdf){:target="_blank"} (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## ⛓ Blockchain
 
@@ -121,12 +124,14 @@ sidebar:
 * [Plataformas blockchain y escenarios de uso](https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/20541/1/tg-pereira-toscano-villar.pdf) (PDF) (2019)
 * [Tecnología blockchain, una nueva era para la empresa](https://accid.org/wp-content/uploads/2019/04/Tecnolog%C3%ADa_blockchain__una_nueva_era_para_la_empresa_L_Parrondologo.pdf) {:target="_blank"} (PDF) (2018)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Criptomonedas 💰
 
 * [Criptomonedas (en especial, bitcoin) y blanqueo de dinero](https://criminet.ugr.es/recpc/21/recpc21-14.pdf) (PDF)
 * [Riesgos y beneficios de las criptomonedas en la Economía Global (2017)](https://munesen.org/wp-content/uploads/2016/02/BANCO-MUNDIAL.pdf){:target="_blank"} (PDF)
+
+[⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ### Bitcoin <i class="fab fa-bitcoin"></i>
 
@@ -147,7 +152,7 @@ sidebar:
 
 * [Guía básica de ETHEREUM](https://coinpy.net/assets/docs/eth-guide-es.pdf){:target="_blank"} (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 🔬 Ciencias de la Computación
 
@@ -165,7 +170,7 @@ sidebar:
 * [Middleware de distribución y modelo transaccional en sistemas de tiempo real](https://www.ctr.unican.es/publications/jjg-mgh-jlc-2005a.pdf){:target="_blank"} (PDF)
 * [Una aproximación dirigida por modelos para diseñar y construir esquemas XML: Un caso de estudio.](https://www.redalyc.org/pdf/1331/133115019007.pdf){:target="_blank"} (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Algoritmos 🔡
 
@@ -180,7 +185,7 @@ sidebar:
 * [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf){:target="_blank"} (PDF)
 * [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos){:target="_blank"} (Bubok)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 🛒 Comercio Electrónico
 
@@ -195,7 +200,11 @@ sidebar:
 * [Guía de Formación de Emprendedores](https://hmg-prod.s3.amazonaws.com/files/guia-de-formacio-n-emprendedores-261-1558951908.pdf) 
 * [Guía de Formación de Emprendedores](https://hmg-prod.s3.amazonaws.com/files/guia-de-formacio-n-emprendedores-261-1558951908.pdf) 
 
+[⏫ Subir a E-Commerce 🛒](/biblioteca-de-programacion-y-tecnologia/#-comercio-electrónico){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
 ## 🐧 Ecosistema de Software Libre
+
+[Linux <i class="fab fa-linux"></i>](/biblioteca-de-programacion-y-tecnologia/#linux-){: .btn .btn--inverse .btn--large} [Ubuntu <i class="fab fa-ubuntu"></i>](/biblioteca-de-programacion-y-tecnologia/#ubuntu-){: .btn .btn--inverse .btn--large}
 
 * [Aspectos económicos y modelos de negocio del software libre](https://www.seaceptanideas.com/wp-content/uploads/2016/07/Aspectos_Economicos_y_Modelos_de_Negocio_del_Software_Libre.pdf){:target="_blank"} (PDF)
 * [Aspectos legales de explotación del software libre. Parte I](https://softlibre.unizar.es/manuales/legal/908.pdf){:target="_blank"} (PDF)
@@ -247,7 +256,7 @@ sidebar:
 * [Corre linux corre: conociendo Ubuntu](https://www.seaceptanideas.com/biblio/Corre_Linux_Corre.pdf){:target="_blank"} (PDF)
 * [Libro Iniciación a Ubuntu 16.04](https://drive.google.com/file/d/0B-cIaMA_u7JRRC1TaTRRMUd0NUk/view){:target="_blank"} (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Subir a Software Libre 🐧](/biblioteca-de-programacion-y-tecnologia/#-ecosistema-de-software-libre){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 💼 Metodologías de Desarrollo
 
@@ -286,7 +295,7 @@ sidebar:
 * [El Manifiesto Mónada (Anotado)](https://leanpub.com/monad-manifesto-annotated-spanish?){:target="_blank"} (PDF)
 * [Programación Funcional (1996)](https://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf){:target="_blank"} (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 👦 Programación Infantil
 
@@ -309,7 +318,7 @@ sidebar:
 * [Manual de Scratch 2](https://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf){:target="_blank"}  (PDF)
 * [Sensor de Vídeo](https://resources.scratch.mit.edu/www/cards/es/video-cards.pdf){:target="_blank"} [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/VideoGuide.pdf){:target="_blank"} [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=video-sensing){:target="_blank"}
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 👮‍♀️ Seguridad
 
@@ -350,7 +359,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Alnum: sistema de codificación de caracteres alfanuméricos](https://www.researchgate.net/publication/333967818_Alnum_alphanumeric_character_encoding_system_CIDSI_2018)
 * [Sistema de Autenticación por credenciales criptográficas disociadas](https://www.researchgate.net/publication/333967679_SACRED_-_Sistema_de_Autenticacion_por_credenciales_criptograficas_disociadas_Authentication_system_by_dissociation_of_cryptographic_credentials_CIDSI_2018) (PDF) (2018)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 🕸 Redes
 
@@ -378,7 +387,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Sistemas Operativos](https://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF){:target="_blank"} - Dr. David Luis la Red (PDF)
 * [Sistemas operativos en las netbooks: GNU/Linux y Microsoft Windows.](https://bibliotecadigital.educ.ar/uploads/contents/M-SistemasoperataivosVF10.pdf){:target="_blank"} (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ### iPhone
 
@@ -397,7 +406,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Introducción a ELAN](https://idiom.ucsd.edu/~jfernand/Papers/ELAN.pdf){:target="_blank"} (PDF)
 * [Manual de Procesamiento de Archivos ELAN](https://pyersqr.org/minimal/Manual_Procesamiento%20de%20archivos%20ELAN.pdf){:target="_blank"}
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 🗞 Revistas
 
@@ -420,7 +429,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Revistas de Computación](https://www.bibliotic.unam.mx/revista.html){:target="_blank"} (HTML)
 * [Revista de la Sociedad Española de la Informática y la Salud](https://seis.es/revista-is){:target="_blank"} (PDF) 2019 \ 139 Ediciones Mensuales
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 🤖 Robótica
 
@@ -448,7 +457,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## Raspberry Pi
 
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 👩‍💻 Desarrollo Web
 
@@ -468,11 +477,11 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Programación en Android para principiantes](https://openlibra.com/es/book/download/curso-de-programacion-en-android-para-principiantes){:target="_blank"} (PDF)
 * [Seguridad en dispositivos Android](https://lsi.vc.ehu.eus/pablogn/investig/JornadasSeguridad141112.pdf){:target="_blank"} (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Docker <i class="fab fa-docker"></i>
 
-* [Comandos de Docker](https://criskrus.github.io/docker-formation/){:target="_blank"} (Github)
+* [Comandos de Docker](https://criskrus.github.io/docker-formation/){:target="_blank"} (Github) \ ([Fuente](https://github.com/CrisKrus/docker-formation#docker-formation){:target="_blank"})
 * [Docker](https://github.com/brunocascio/docker-espanol#docker){:target="_blank"} (Github)
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf){:target="_blank"} (PDF)
 
@@ -515,7 +524,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Guía de programación C++STL](https://olimpiada-informatica.org/static/pdfs/guiastl.pdf){:target="_blank"} (PDF)
 * [Manual básico de programación en C++](https://olimpiada-informatica.org/static/pdfs/manual.es.pdf){:target="_blank"} (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Coffescript
 
@@ -537,7 +546,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Elixir School. Lecciones acerca del lenguaje de programación Elixir](https://elixirschool.com/es){:target="_blank"}
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Git <i class="fab fa-git"></i>
 
@@ -563,7 +572,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Lógica de primer orden en Haskell](https://docs.google.com/viewerng/viewer?url=idus.us.es/xmlui/bitstream/handle/11441/63139/Paluzo+Hidalgo+Eduardo+TFG.pdf){:target="_blank"} (PDF)
 * [Piensa en Haskell (ejercicios de programación funcional)](https://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf){:target="_blank"} (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 👨‍🎨 Diseño Web
 
@@ -595,7 +604,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Introducción a XHTML](https://librosweb.es/libro/xhtml){:target="_blank"} (HTML)
 * [Sass, el manual oficial](https://librosweb.es/libro/sass/){:target="_blank"} (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-xhtml){:target="_blank"}
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Java <i class="fab fa-java"></i>
 
@@ -613,7 +622,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Tutorial básico de Java EE](https://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf){:target="_blank"} (PDF)
 * [Tutorial introducción a Maven 3](https://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf){:target="_blank"} - Erick Camacho (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## <i class="fab fa-js"></i> JavaScript
 
@@ -651,7 +660,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [SurviveJS - React: De aprendiz a maestro](https://leanpub.com/survivejs-react-es){:target="_blank"} (Descarga PDF)
 * [ReactJS: Apuntes y Notas](https://majoledesma.github.io/react-apuntes/){:target="_blank"} (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Rust
 
@@ -683,7 +692,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Laravel 5](https://richos.gitbooks.io/laravel-5/content/){:target="_blank"} [PDF](https://legacy.gitbook.com/download/pdf/book/richos/laravel-5){:target="_blank"}
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Perl
 
@@ -725,7 +734,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Web2py - Manual de Referencia Completo, 5a Edición](https://www.web2py.com/books/default/chapter/41){:target="_blank"} (HTML)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Ruby <i class="fas fa-gem"></i>
 
@@ -768,7 +777,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Aprendiendo Swift](https://applecoding.com/pdf/Aprendiendo-Swift-Extracto.pdf){:target="_blank"} (PDF) (2015)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Tex & LaTeX
 
@@ -795,7 +804,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ### Wordpress <i class="fab fa-wordpress"></i>
 * [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?){:target="_blank"} (PDF)
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 👷‍♂️ Webmaster
 
@@ -833,7 +842,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf){:target="_blank"}
 * [SEO en Amazon](https://netgrows.com/wp-content/uploads/2018/11/ebook-amazon-netgrows.pdf){:target="_blank"}
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Introducción
 
@@ -854,7 +863,7 @@ Dentro de todos estos campos puedes encontrar tantos puestos de trabajo como pue
 
 Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://ciberninjas.com/quien-soy){:target="_blank"}, los contribuidores de [Free Programming Books en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md){:target="_blank"} especialmente, sobre una [Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES){:target="_blank"}.
 
-[🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 <a class="chollometro-deal" href="https://www.chollometro.com/visit/embeddedthread/88330" target="_blank" rel="nofollow noopener" >Libros de programación, criptomonedas, etc; todo en español</a>
 <script src="//www.chollometro.com/assets/js/share/thread-embed.js" async="true"></script>
