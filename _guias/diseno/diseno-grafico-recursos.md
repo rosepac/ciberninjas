@@ -36,6 +36,8 @@ header:
 * [Krita](https://krita.org/es/){:target="_blank"} \ [Brochas](https://docs.krita.org/en/resources_page.html#brush-packs){:target="_blank"}
   * [Plugin de Acciones](https://github.com/Larpon/krita-bulk-actions){:target="_blank"}
 
+* [Armor Paint](https://80.lv/articles/open-source-painting-tool-for-3d-artists/) \ Pintura 3D.
+
 * [Sweet Home 3D](http://www.sweethome3d.com/){:target="_blank"}
 <!-- tutoriales de sweet home 3d - buscar youtube -->
 
@@ -88,6 +90,14 @@ Modelos 3D libres para su uso bajo licencias CC0 en formatos de Blender, Autodes
 
 * [Patrones Top](https://www.toptal.com/designers/subtlepatterns/){:target="_blank"} 528 patrones diferentes
 * [Texturas Krita](https://docs.krita.org/en/resources_page.html#texture-packs){:target="_blank"}
+
+## Mejores Blogs Olvidados
+
+* Amantes de las Marcas [->](http://amantesdelasmarcas.com/){:target="_blank"}
+
+## Mejores Blogs de Inspiración
+
+* Design Inspiration [->](https://www.designspiration.com/)
 
 ## Foros
 

@@ -49,6 +49,8 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 * [Gfycat](https://gfycat.com/){:target="_blank"}
 * [Giphy](https://giphy.com){:target="_blank"}
 * [Tenor](https://tenor.com){:target="_blank"}
+* [Reaction Gifs](http://www.reactiongifs.com/){:target="_blank"}
+* [Reaction Gifs US](https://www.reactiongifs.us/){:target="_blank"}
 
 ### Repositorios de Texturas
 
@@ -78,6 +80,10 @@ Font Awesome, Flaticon, Material.IO, IconFinder, Material Design Icons, Oicons8,
 
 * [Mobile Browser Emulator](/como-publicar-en-instagram-%F0%9F%93%B8-desde-el-ordenador-%F0%9F%96%A5-extension-de-chrome-mobile-browser-emulator/ "Cómo probar cualquier aplicación o web en su versión móvil desde el navegador"){:target="_blank"}
 * [Tabla de Compatibilidad HTML5 en navegadores móviles y tabletas con pruebas en dispositivos reales](https://html5test.com/results/desktop.html){:target="_blank"}
+
+## Otros
+
+* [Pasar a HTML dibujos realizados a mano](https://sketch2code.azurewebsites.net/){:target="_blank"}
 
 [🔝 Regresar 🔝](/diseño-recursos/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
