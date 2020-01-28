@@ -233,6 +233,10 @@ sidebar:
 * [Tostadores y Posix (1999)](https://www.ctr.unican.es/publications/mgh-cdl-1997a.pdf){:target="_blank"} (PDF)
 * [Trampa en el Cyberespacio](https://fortinux.com/wp-content/uploads/2010/12/trampacyberespacio.pdf){:target="_blank"} (PDF)
 
+## Hacktivismo
+
+* [El Kit de la Lucha en Internet](https://www.traficantes.net/sites/default/files/pdfs/El%20kit%20de%20la%20lucha%20en%20Internet-TdS.pdf){:target="_blank"} (2012)
+
 ### Linux <i class="fab fa-linux"></i>
 
 * [Administración avanzada de GNU/Linux](https://softlibre.unizar.es/manuales/linux/871.pdf){:target="_blank"} (PDF)
@@ -428,6 +432,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Puertas Abiertas al Sector de las TICs](https://coitaoc.org/wp-content/uploads/TELECOSANDALUCES2019.pdf) (PDF) (2019) (Telecos Andaluces) (Revista [6 Ediciones](https://coitaoc.org/category/publicaciones/telecos-andaluces/))
 * [Revistas de Computación](https://www.bibliotic.unam.mx/revista.html){:target="_blank"} (HTML)
 * [Revista de la Sociedad Española de la Informática y la Salud](https://seis.es/revista-is){:target="_blank"} (PDF) 2019 \ 139 Ediciones Mensuales
+* [TeknoKultura](https://revistas.ucm.es/index.php/TEKN/issue/archive){:target="_blank"} (PDF) 2019 \ Universidad Complutense de Madrid
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
