@@ -102,28 +102,6 @@ Puede encontrar la documentación completa de CadQuery en [cadquery.readthedocs.
 
 También tenemos un [grupo de Google](https://groups.google.com/forum/#!forum/cadquery) para facilitar la obtención de ayuda de otros usuarios de CadQuery. Queremos que se sienta bienvenido y lo alentamos a unirse al grupo y presentarse. También nos encantaría saber lo que está haciendo con CadQuery.
 
-## Proyectos que utilizan CadQuery
-
-Estos son solo algunos ejemplos de cómo se está utilizando CadQuery.
-
-### Molde de resina para reparación de cables
-
-Gracias a @hyOzd (Altu Technology) por este ejemplo.
-
-[![Ejemplo de molde de resina](https://camo.githubusercontent.com/3dcbe1b644b4b831d88e323ab5414a392d7feef0/687474703a2f2f64636f7764656e2e6769746875622e696f2f63616471756572792f5f7374617469632f68794f7a642d6361626c656669782e706e67)](https://camo.githubusercontent.com/3dcbe1b644b4b831d88e323ab5414a392d7feef0/687474703a2f2f64636f7764656e2e6769746875622e696f2f63616471756572792f5f7374617469632f68794f7a642d6361626c656669782e706e67) [![Molde de resina mecanizado](https://camo.githubusercontent.com/a27ab93f877cdb108a3ebe5d065fd76df104bc9d/687474703a2f2f64636f7764656e2e6769746875622e696f2f63616471756572792f5f7374617469632f68794f7a642d66696e69736865645f7468756d622e6a7067)](https://camo.githubusercontent.com/a27ab93f877cdb108a3ebe5d065fd76df104bc9d/687474703a2f2f64636f7764656e2e6769746875622e696f2f63616471756572792f5f7374617469632f68794f7a642d66696e69736865645f7468756d622e6a7067)
-
-### Generación de archivos de componentes KiCAD
-
-Gracias a @easyw por este ejemplo del proyecto [kicad-3d-models-in-freecad](https://github.com/easyw/kicad-3d-models-in-freecad) .
-
-[![Placa de circuito generada en KiCAD](https://camo.githubusercontent.com/fc608aba65b715165d31eb01b8591899034600da/687474703a2f2f64636f7764656e2e6769746875622e696f2f63616471756572792f5f7374617469632f4b694361645f436170616369746f72735f534d442e6a7067)](https://camo.githubusercontent.com/fc608aba65b715165d31eb01b8591899034600da/687474703a2f2f64636f7764656e2e6769746875622e696f2f63616471756572792f5f7374617469632f4b694361645f436170616369746f72735f534d442e6a7067)
-
-### Molde de resina impresa en 3D
-
-Gracias a @eddieliberato por este ejemplo.
-
-[![Molde de resina impreso en 3D](https://user-images.githubusercontent.com/13981538/55984103-f7968080-5c9c-11e9-94ef-b02b28be4432.png)](https://user-images.githubusercontent.com/13981538/55984103-f7968080-5c9c-11e9-94ef-b02b28be4432.png) [![Molde de resina impreso en 3D](https://user-images.githubusercontent.com/13981538/55984149-1ac13000-5c9d-11e9-9825-c0aadbadd280.png)](https://user-images.githubusercontent.com/13981538/55984149-1ac13000-5c9d-11e9-9825-c0aadbadd280.png)
-
 ## Licencia
 
 CadQuery tiene licencia bajo los términos de la [Licencia pública de Apache, versión 2.0](http://www.apache.org/licenses/LICENSE-2.0).
