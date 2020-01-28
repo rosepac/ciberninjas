@@ -9,6 +9,7 @@ date: 2018-03-01
 last_modified_at: 2019-12-18
 permalink: /programar/
 canonical_URL: https://ciberninjas.com/programar/
+classes: wide
 header:
   teaser: "/assets/images/programar-lenguajes/aprender-programar-programacion.jpg"
   overlay_image: "https://i.ibb.co/Lrcmhqm/gatito-curioso-miron.jpg"
@@ -21,6 +22,8 @@ toc_sticky: false
 ---
 
 Ciberninjas.com nace para compartir la mejor información en español e inglés que existe dentro de lo ancho y profundo de Internet, en referencia a los lenguajes de programación y todas las nuevas tecnologías alrededor del mundo de la informática y los campos en que se aplica.
+
+[Cómo aprender a programar código](/programar/#cómo-aprender-a-programar-código){: .btn .btn--inverse .btn--large} [En qué campo de la informática trabajar](/programar/#en-qué-campo-de-la-informática-trabajar){: .btn .btn--inverse .btn--large} [Qué lenguaje aprender](/programar/#qué-lenguaje-aprender){: .btn .btn--inverse .btn--large} [Qué lenguajes evitar](/programar/#qué-lenguajes-evitar){: .btn .btn--inverse .btn--large} [Qué puestos de trabajo existen](/programar/#qué-puestos-de-trabajo-existen){: .btn .btn--inverse .btn--large} [Qué tecnologías y herramientas debo aprender](/programar/#qué-tecnologías-y-herramientas-debo-aprender){: .btn .btn--inverse .btn--large} [Lenguajes Imprescindibles de 2019](/programar/#los-lenguajes-imprescindibles-de-2019){: .btn .btn--inverse .btn--large} [Lenguajes Más Clásicos](/programar/#los-lenguajes-de-programación-más-clásicos){: .btn .btn--inverse .btn--large} [Otros Lenguajes](/programar/#otros-lenguajes-populares-en-la-actualidad){: .btn .btn--inverse .btn--large} [Lenguajes de Browser](/programar/#lenguajes-estándar-de-los-navegadores){: .btn .btn--inverse .btn--large} 
 
 ## ¿Cómo aprender a programar código?
 
@@ -103,11 +106,13 @@ Existen muchos más lenguajes de programación, entre los más populares ahora s
 
 ## ¿Qué puestos de trabajo existen?
 
-Desarrolladores web y multimedia, los desarrolladores de software, los programadores de aplicaciones, diseñadores gráficos y multimedia, administradores de sistemas y bases de datos, especialistas en seguridad informática o cualquier otro trabajo relacionado con el campo profesional de las nuevas tecnologías de la información y las comunicaciones.
+Dentro de las profesiones digitales existen un cuantioso número de empleos bien diferenciados; como pueden ser, a saber:
 
-Incluso si deseas formarte para la profesión que realizan los analistas y consultores o profesional de publicidad y el marketing digital, e incluso los profesionales de gestión.
+Desarrollador web y multimedia, desarrollador de software, desarrollador frontend, desarrollador backend, desarrollador full stack, desarrollador de videojuegos, desarrollador móvil, especialista UI o también conocido como especialista de interfaces de usuario, diseñador gráfico, administrador de sistemas, diseñador o administrador de bases de datos, técnico de soporte TIC, especialista en ciberseguridad, digital producto manager, digital project manager. E incluso si tu desarrollo es el de consultor TIC, especialista de UX u experiencia de usuario, cientifico de datos, analista de datos o **business intelligence** o cualquier otro trabajo relacionado con el campo profesional de las nuevas tecnologías de la información y las comunicaciones.
 
-Desarrollador web y multimedia, desarrollador frontend, desarrollador backend, desarrollador full stack, desarrollador de videojuegos, desarrollador móvil, especialista UI o también conocido como especialista de interfaces de usuario, diseñador gráfico, administrador de sistemas, diseñador o administrador de bases de datos, técnico de soporte TIC, especialista en ciberseguridad, digital producto manager, digital project manager. E incluso si tu desarrollo es el de consultor TIC, especialista de UX u experiencia de usuario, cientifico de datos, analista de datos o *business intelligence**.
+Incluso si deseas formarte para la profesión que realizan los analistas y consultores o profesional de publicidad, en el marketing digital o como técnico de gestión; deberás aprender algunas tecnologías puntuales.
+
+[👉 Análisis Más Profundo de Las Profesiones Digitales](/programar/#page-title){: .btn .btn--warning .btn--large .align-center}
 
 ## ¿Qué tecnologías y herramientas debo aprender?
 
@@ -115,47 +120,7 @@ Cada puesto de trabajo te exigira que conozcas ciertas herramientas, además de 
 
 Posteriormente, vamos a realizar una pequeña revisión de las diferentes herramientas que más útiles te serán a la hora de realizar las tareas exigidas dentro de cada posición de trabajo o desarrollo y elaboración de las tareas requeridas por cada empresa.
 
-[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-### Desarrollador web y multimedia
-
-Los desarrolladores web / multimedia deben de ser expertos en Javacript, HTML y CSS. Dentro de lo que es Javascript, al menos se debe tener destreza con algunas de sus librerías más importantes, como por ejemplo pueden ser jQuery y AngularJS. Otros lenguajes de programación ampliamente exigidos a la hora de desarrollar este puesto, pueden ser PHP y Visual Basic. Aparte pueden o no utilizarse otras tecnologías como por ejemplo: ASP.NET, ADO.NET Entity Framework; y también se deben tener amplios conocimientos sobre MVC o Model View Controller y la programación orientada a objetos.
-
-### Desarrollador Frontend
-
-Si vas a ser desarrollador frontend. Debes centrarte en conocer el uso de Javascript y sus librerías como por ejemplo Anular Typescrypt, AngularJS, React o VueJS además de jQuery, CSS y HTML en profundidad y a un nivel muy alto. A eso debes añadir que aún hoy se utiliza muchísimo el lenguaje de programación Java ahora ya casi siempre a través de algún Framework, el más utilizado sin lugar a dudas es Spring; pero también existen otros como Struts, Grails, Hibernate, el Google Web Toolkit o GWIT o Vadin. Si todo esto te parece mucho, deberás conocer también algún framework de diseño web del estilo de Boostrap y no nos podemos olvidar de los sistemas en red de control de software tipo Git u otras herramientas de control de paquetes de trabajo en red, como por ejemplo Node.js o npm.
-
-### Desarrollador Backend
-
-### Desarrollador Full Stack
-
-### Desarrollador de videojuegos
-
-### Desarrollador móvil
-
-### Especialista UI o también conocido como especialista de interfaces de usuario
-
-### Diseñador gráfico
-
-### Administrador de sistemas
-
-### Diseñador o administrador de bases de datos
-
-### Técnico de soporte TIC
-
-### Especialista en ciberseguridad
-
-### Digital producto manager
-
-### Digital project manager. E incluso si tu desarrollo es el d
-
-### Consultor TIC
-
-### Especialista de UX u experiencia de usuario
-
-### Cientifico de datos
-
-### Analista de datos o *business intelligence**.
+[👉 Tecnologías por Puesto de Trabajo Profesional](/programar/#page-title){: .btn .btn--warning .btn--large .align-center}
 
 ## Los Lenguajes Imprescindibles de 2019
 
