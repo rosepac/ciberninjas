@@ -27,17 +27,17 @@ Enlaces relevantes:
 
 ## Cómo comenzar
 
-#### Personalizador de Thingiverse
+### Personalizador de Thingiverse
 
 La forma más fácil (aunque no la mejor) de ejecutar este programa es iniciarlo en [el Personalizador de Thingiverse](https://www.thingiverse.com/apps/customizer/run?thing_id=2783650){:target="_blank"}. Se proporcionan explicaciones de cada opción, así como algunas variables predeterminadas. ¡Gira las variables para ver cómo cambia la tecla!
 
 El personalizador no siempre se mantiene actualizado, por lo que recomiendo las siguientes opciones.
 
-#### Personalizador OpenSCAD
+### Personalizador OpenSCAD
 
 Si descubre que el Personalizador de Thingiverse está agotando el tiempo de espera, pero no está técnicamente inclinado a comenzar a programar en OpenSCAD, puede buscar [el funcionamiento del personalizador de OpenSCAD](https://github.com/rsheldiii/KeyV2/wiki/Getting-the-OpenSCAD-Customizer-working){:target="_blank"}.
 
-#### OpenSCAD Proper
+### OpenSCAD Proper
 
 Si tiene alguna inclinación técnica, esta es definitivamente la forma recomendada de ejecutar el código. ¡No es muy difícil!
 
@@ -94,7 +94,7 @@ Se recomienda utilizar un soporte de vástago con punta y establecerlo `$extra_l
 
 Tenga cuidado de anular accidentalmente algo que el diseño hace por usted.
 
-#### Ejemplos de personalizaciones
+### Ejemplos de personalizaciones
 
 Digamos que desea generar algunas teclas estabilizadas 2u para un Ergodox, podría hacer algo como esto:
 
