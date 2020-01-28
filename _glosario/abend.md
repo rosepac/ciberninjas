@@ -3,9 +3,15 @@ title: "Abend: Definición del Término"
 description: "Abend"
 excerpt: "Es un término usado para describir la finalización anormal de un programa."
 permalink: /glosario/abend/
+classes: wide
 
 ---
 
 Es un término usado para describir la finalización anormal de un programa.
 
-<< [Regresar al Glosario](/glosario/ "Regresar a la Página Principal del Glosario")
+[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn--inverse .btn--large .align-center}
+
+## Otros Glosarios
+
+[⚙ Glosario de Interfaces de Programación](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}

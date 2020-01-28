@@ -3,9 +3,14 @@ title: "Qml: Definición del Término"
 description: "Qml"
 excerpt: "Qml, es un metalenguaje declarativo y multiparadigma basado en Javascript desarrollado por los mismos desarrolladores del Framework Qml."
 permalink: /glosario/qml/
-
+classes: wide
 ---
 
 Qml, es un metalenguaje declarativo y multiparadigma basado en Javascript desarrollado por los mismos desarrolladores del Framework Qt.
 
-<< [Regresar al Glosario](/glosario/ "Regresar a la Página Principal del Glosario")
+[👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn--inverse .btn--large .align-center}
+
+## Otros Glosarios
+
+[⚙ Glosario de Interfaces de Programación](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}
