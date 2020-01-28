@@ -59,7 +59,7 @@ key();
 
 [![una llave de cereza estándar de pantano](https://github.com/rsheldiii/KeyV2/raw/master/assets/example1.JPG)](https://github.com/rsheldiii/KeyV2/blob/master/assets/example1.JPG)
 
-que es una tecla DCS estándar de la fila 5 de pantano (fila de número / función). Para cambiar cómo se genera la clave, puede modificar la configuración directamente o agregar funciones modificadoras predefinidas de esta manera:
+Que es una tecla DCS estándar de la fila 5 de pantano (fila de número / función). Para cambiar cómo se genera la clave, puede modificar la configuración directamente o agregar funciones modificadoras predefinidas de esta manera:
 
 ```
 // directly modified setting
@@ -82,7 +82,7 @@ Es posible que estas funciones modificadoras no cubran todos los casos de uso; e
 
 ## Diseños
 
-¡nuevo en la biblioteca y aún en estado beta, los diseños le permiten generar un diseño completo para un teclado!
+¡Nuevo en la biblioteca y aún en estado beta, los diseños le permiten generar un diseño completo para un teclado!
 
 Se recomienda utilizar un soporte de vástago con punta y establecerlo `$extra_long_stem_support = true`si planea imprimir estas teclas.
 
