@@ -19,7 +19,7 @@ tags:
 
 ![](https://i.ibb.co/hgbpcMz/fsf-svg.png "Logotipo de la Fundación de Software Libre")
 
-## ¿Qués es la Free Foundation Software?
+## ¿Qué es la Free Foundation Software?
 
 La Free Software Foundation (FSF) es una organización sin fines de lucro con la misión mundial de promover la libertad de los usuarios de computadoras. Defendemos los derechos de todos los usuarios del software.
 
