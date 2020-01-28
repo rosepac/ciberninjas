@@ -22,9 +22,41 @@ header:
 
 [Artículos Python](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large} [Chuletas de Python]([/python-recursos/#chuletas--de-consulta](https://ciberninjas.com/python-recursos/#chuletas--de-consulta)){: .btn .btn--inverse .btn--large} [Probar Código](/python-recursos/#probar-código){: .btn .btn--inverse .btn--large} [Artículos Python?](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large}
 
-## Artículos de Python 
+## Artículos de Python
 
 * [Aprendizaje Profundo con PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html){:target="_blank"}
+* [Resolver el problema de intercambio fila-columna usando Python](https://johnlekberg.com/blog/2020-01-22-row-column-exchange.html){:target="_blank"}
+* [Descubre Python y sus Patrones](https://www.patternsgameprog.com/series/discover-python-and-patterns/){:target="_blank"}
+* [Detección de objetos en tiempo real con Phoenix y Python](https://www.poeticoding.com/real-time-object-detection-with-phoenix-and-python/){:target="_blank"}
+* [Actualización de Contenedores Docker Ansible a Python 3](https://www.willhallonline.co.uk/blog/2020-01-21-upgrading-ansible-containers-to-python3/){:target="_blank"}
+
+* [Configuración definitiva para su próximo proyecto de Python](https://towardsdatascience.com/ultimate-setup-for-your-next-python-project-179bda8a7c2c){:target="_blank"}
+* [Ejecutar Python sobre Linux](https://medium.com/@yon.goldschmidt/running-python-in-the-linux-kernel-7cbcbd44503c){:target="_blank"}
+* [Explorando y entendiendo Python a través de fragmentos sorprendentes](https://github.com/satwikkansal/wtfpython#what-the-fck-python-){:target="_blank"}
+* [Las mejores pautas de estilo para Python](https://luminousmen.com/post/the-ultimate-python-style-guidelines){:target="_blank"}
+* [Programación de la GUI de Python con Tkinter](https://realpython.com/python-gui-tkinter/){:target="_blank"}
+* [Probar el código de AWS Python con Moto](https://blog.codecentric.de/en/2020/01/testing-aws-python-code-with-moto/){:target="_blank"}
+* [Actualización de Contenedores Docker Ansible a Python 3](https://www.willhallonline.co.uk/blog/2020-01-21-upgrading-ansible-containers-to-python3/){:target="_blank"}
+* [Cinco métodos para filtrar datos con múltiples condiciones en Python](https://kanoki.org/2020/01/21/pandas-dataframe-filter-with-multiple-conditions/){:target="_blank"}
+* [Cómo leer archivos PDF con Python](http://theautomatic.net/2020/01/21/how-to-read-pdf-files-with-python/){:target="_blank"}
+* [Cree tu primera aplicación web Flask con Python](https://medium.com/bhavaniravi/build-your-1st-python-web-app-with-flask-b039d11f101c){:target="_blank"}
+
+### Bases de Datos
+
+* [sql2json](https://github.com/fsistemas/sql2json#sql2json-usage){:target="_blank"} \ Paquete de Python para ejecutar consultas SQL y obtener resultados JSON
+
+### Python Científico
+
+* [Creación del contenedor de ciencia de datos de Python con Docker](https://faizanbashir.me/building-python-data-science-container-using-docker-c8e346295669){:target="_blank"}
+* [Uso de SciPy para la optimización](https://realpython.com/python-scipy-cluster-optimize/){:target="_blank"}
+
+### Scraping Web
+
+* [Scraping web práctico: construcción de su conjunto de datos de Twitter con Python y Scrapy](https://towardsdatascience.com/hands-on-web-scraping-building-your-own-twitter-dataset-with-python-and-scrapy-8823fb7d0598){:target="_blank"}
+
+## Videotutoriales Youtube
+
+* [Extendiendo Clojure con Python](https://www.youtube.com/watch?v=vQPW16_jixs){:target="_blank"}
 
 ## Chuletas  de Consulta
 
@@ -68,6 +100,10 @@ Esta es una chuleta que ya ha sido descargada por más de 23.000 programadores p
 * [Chuleta Completa en Ingles - 8 hojas -](https://blog.finxter.com/python-cheat-sheets/){:target="_blank"} (Finxter)
 
 <!-- https://ehmatthes.github.io/pcc/cheatsheets/README.html -->
+
+## Software
+
+* [Kite: Complemento para IDE](https://kite.com/){:target="_blank"}
 
 ## Probar Código
 
