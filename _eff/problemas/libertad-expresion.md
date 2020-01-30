@@ -57,7 +57,7 @@ Debido a que las herramientas solo son útiles si las personas saben cómo usarl
 
 A medida que la tecnología crece y cambia, es importante que no refuerce los obstáculos a la libertad de expresión, sino que permita que todos compartan experiencias e ideas de forma segura.
 
-[📢 Leer Más de la EFF](/eff/){: .btn .btn--success .btn--large .align-center}
+[📢 Leer Más de la EFF](/eff/){: .btn .btn--warning .btn--large .align-center}
 
 ## Relacionados
 

@@ -48,7 +48,7 @@ Este tutorial te va a a guiar a través de los pasos para no solo "borrar" la ac
 
 ![img](https://www.eff.org/files/styles/large/public/2020/01/28/5.png?itok=qR1uJn3t)
 
-[📢 Leer Más de la EFF](/eff/){: .btn .btn--success .btn--large .align-center}
+[📢 Leer Más de la EFF](/eff/){: .btn .btn--warning .btn--large .align-center}
 
 **Licencia**: El contenido siguiente se encuentra bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es) propiedad original en inglés de la [EFF](https://kutt.it/eff) tanto texto como las imágenes. Si desea utilizarlo, en todo momento el contenido debe estar bajo la misma licencia.
 {: .notice--info}

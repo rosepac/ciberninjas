@@ -267,7 +267,7 @@ Puede descargar una carpeta comprimida de varias versiones de logotipos [aquí](
 
 * ¿Quién es Quién? Dentro de la Fundación Frontera Electrónica
 
-[📢 Leer Más de la EFF](/eff/){: .btn .btn--success .btn--large .align-center}
+[📢 Leer Más de la EFF](/eff/){: .btn .btn--warning .btn--large .align-center}
 
 **Licencia**: El contenido siguiente se encuentra bajo licencia [Creative Commons 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank"} propiedad original en inglés de la [EFF](https://kutt.it/eff){:target="_blank"} tanto texto como las imágenes. Si desea utilizarlo, en todo momento el contenido debe estar bajo la misma licencia.
 {: .notice--info}
