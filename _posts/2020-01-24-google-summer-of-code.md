@@ -8,7 +8,7 @@ comments: true
 date: 2020-01-24 17:10:12
 last_modified_at: 
 header:
-    teaser: https://i.ibb.co/ggz3zMb/GSo-C-social1.png
+  teaser: https://i.ibb.co/ggz3zMb/GSo-C-social1.png
 canonical_URL: /que-es-google-summer-of-code/
 classes: wide
 categories:
