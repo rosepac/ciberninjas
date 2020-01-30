@@ -7,6 +7,8 @@ published: true
 comments: true
 date: 2020-01-25 15:10:12
 last_modified_at: 
+header:
+    teaser: https://i.ibb.co/hgbpcMz/fsf-svg.png
 permalink: /que-es-free-software-foundation/
 canonical_URL: https://www.fsf.org/es/about
 classes: wide

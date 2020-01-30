@@ -7,6 +7,8 @@ published: true
 comments: true
 date: 2020-01-25 01:33:12
 last_modified_at: 
+header:
+    teaser: https://i.ibb.co/XWvDrTF/Why-Python-Is-Better-Than-PHP-1024x576.png
 canonical_URL: /porque-python-es-mejor-que-php/
 classes: wide
 categories:

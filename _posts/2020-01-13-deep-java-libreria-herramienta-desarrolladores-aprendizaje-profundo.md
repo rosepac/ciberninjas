@@ -10,6 +10,8 @@ last_modified_at:
 canonical_URL: /deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/
 categories:
 - Aprendizaje Profundo
+header:
+    teaser: https://i.ibb.co/k0C7sKf/deepjavalibrary.png
 # header:
 #  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 #   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg

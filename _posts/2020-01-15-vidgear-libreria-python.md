@@ -12,6 +12,8 @@ categories:
 - Librería Python
 tags:
 - Python
+header
+  teaser: https://i.ibb.co/cFYs4Vd/vidgear-libreria-python.png
 # header:
 #  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 #   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg

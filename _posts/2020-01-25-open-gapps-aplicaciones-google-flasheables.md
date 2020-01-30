@@ -7,6 +7,8 @@ published: true
 comments: true
 date: 2020-01-25 01:53:12
 last_modified_at: 
+header:
+    teaser: https://i.ibb.co/GTMgwxp/open-gapps-logotipo.png
 canonical_URL: /open-gapps-aplicaciones-google-flaheables/
 classes: wide
 categories:

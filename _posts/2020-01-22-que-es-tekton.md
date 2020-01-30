@@ -7,6 +7,8 @@ published: true
 comments: true
 date: 2020-01-22 19:10:12
 last_modified_at: 
+header:
+    teaser: https://i.ibb.co/5RHykWD/image.png
 canonical_URL: /que-es-la-interoperabilidad-en-la-distribucion-continua/
 classes: wide
 categories:

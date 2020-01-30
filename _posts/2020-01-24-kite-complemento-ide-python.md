@@ -7,6 +7,8 @@ published: false
 comments: true
 date: 2020-01-28 15:10:12
 last_modified_at: 
+header:
+    teaser: https://i.ibb.co/rfsK59t/image.png
 canonical_URL: /kite-complemento-ide-python/
 classes: wide
 categories:
