@@ -15,15 +15,15 @@ header:
   overlay_image: "https://i.ibb.co/Lrcmhqm/gatito-curioso-miron.jpg"
   image_description: "Aprende todo lo necesario para convertirte en un profesional de la programación, aprende a programar y todos los puestos de trabajo relacionados con la programación 2020"
   caption: "**Créditos**: Desconocido"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: false
 ---
 
 Ciberninjas.com nace para compartir la mejor información en español e inglés que existe dentro de lo ancho y profundo de Internet, en referencia a los lenguajes de programación y todas las nuevas tecnologías alrededor del mundo de la informática y los campos en que se aplica.
 
-[Cómo aprender a programar código](/programar/#cómo-aprender-a-programar-código){: .btn .btn--inverse .btn--large} [En qué campo de la informática trabajar](/programar/#en-qué-campo-de-la-informática-trabajar){: .btn .btn--inverse .btn--large} [Qué lenguaje aprender](/programar/#qué-lenguaje-aprender){: .btn .btn--inverse .btn--large} [Qué lenguajes evitar](/programar/#qué-lenguajes-evitar){: .btn .btn--inverse .btn--large} [Qué puestos de trabajo existen](/programar/#qué-puestos-de-trabajo-existen){: .btn .btn--inverse .btn--large} [Qué tecnologías y herramientas debo aprender](/programar/#qué-tecnologías-y-herramientas-debo-aprender){: .btn .btn--inverse .btn--large} [Lenguajes Imprescindibles de 2019](/programar/#los-lenguajes-imprescindibles-de-2019){: .btn .btn--inverse .btn--large} [Lenguajes Más Clásicos](/programar/#los-lenguajes-de-programación-más-clásicos){: .btn .btn--inverse .btn--large} [Otros Lenguajes](/programar/#otros-lenguajes-populares-en-la-actualidad){: .btn .btn--inverse .btn--large} [Lenguajes de Browser](/programar/#lenguajes-estándar-de-los-navegadores){: .btn .btn--inverse .btn--large} 
+[Cómo aprender a programar código](/programar/#cómo-aprender-a-programar-código){: .btn .btn--inverse .btn--large} [En qué campo de la informática trabajar](/programar/#en-qué-campo-de-la-informática-trabajar){: .btn .btn--inverse .btn--large} [Qué lenguaje aprender](/programar/#qué-lenguaje-aprender){: .btn .btn--inverse .btn--large} [Qué lenguajes evitar](/programar/#qué-lenguajes-evitar){: .btn .btn--inverse .btn--large} [Qué puestos de trabajo existen](/programar/#qué-puestos-de-trabajo-existen){: .btn .btn--inverse .btn--large} [Qué tecnologías y herramientas debo aprender](/programar/#qué-tecnologías-y-herramientas-debo-aprender){: .btn .btn--inverse .btn--large} [Lenguajes Imprescindibles de 2019](/programar/#los-lenguajes-imprescindibles-de-2019){: .btn .btn--inverse .btn--large} [Lenguajes Más Clásicos](/programar/#los-lenguajes-de-programación-más-clásicos){: .btn .btn--inverse .btn--large} [Otros Lenguajes Populares](/programar/#otros-lenguajes-populares-en-la-actualidad){: .btn .btn--inverse .btn--large}
 
 ## ¿Cómo aprender a programar código?
 
@@ -205,13 +205,13 @@ Indiferentemente de si deseas introducirte en ser un desarrollador *full stack, 
 
 Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer más, sobre [nuestra "filosofía"](/que-es-ciberninjas/). Si aún te surgen dudas o te gustaría realizar alguna consulta, ***¿Qué es Ciberninjas?*** o ***Nuestro Proyecto***  y además, no temas en unirte a [nuestra conversación (Discord)](https://kutt.it/ciberninjas_discord).
 
+[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [🛒 Catálogo de Libros 👨‍💻](/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
-[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
-[💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large .align-center}
-[☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Pásame Criptos 🤘](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large .align-center}
+[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large}

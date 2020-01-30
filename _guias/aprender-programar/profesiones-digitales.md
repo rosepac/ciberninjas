@@ -6,19 +6,20 @@ author_profile: false
 published: true
 comments: true
 date: 2020-01-28
-last_modified_at:
+last_modified_at: 2020-01-30
 permalink: /profesiones-digitales/
 canonical_URL: https://ciberninjas.com/profesiones-digitales/
 classes: wide
 header:
-  teaser: "https://i.ibb.co/Rgrffqh/trabajo-developer.png"
-  overlay_image: "https://i.ibb.co/Rgrffqh/trabajo-developer.png"
+  teaser: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
+  overlay_image: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
   image_description: "Conoce todos los puestos de trabajo del mundo de la prorgramación y todas las tecnologías que deberías de estudiar para cada empleo indicado en 2020"
-  caption: "**Créditos**: Desconocido"
+  caption: "**Créditos**: [Sabdo Purnomo](https://dribbble.com/sabdopurnomo)"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
 # toc_sticky: false
+
 ---
 
 ## ¿Qué profesiones digitales son más demandadas en 2020?
