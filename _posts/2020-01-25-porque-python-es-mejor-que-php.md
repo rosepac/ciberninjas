@@ -5,7 +5,7 @@ description: "Razones por las que Python es mejor que PHP en este 2020."
 excerpt: "Razones por las que Python es mejor que PHP en este 2020."
 published: true
 comments: true
-date: 2020-02-25 01:33:12
+date: 2020-01-25 01:33:12
 last_modified_at: 
 canonical_URL: /porque-python-es-mejor-que-php/
 classes: wide

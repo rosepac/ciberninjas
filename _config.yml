@@ -93,6 +93,7 @@ exclude:
 - vendor/ruby/
 - editorial
 - _staff-miembros
+- .vscode
 # Excluido por peticion del buscador algoria
 # exclude: [vendor]
 

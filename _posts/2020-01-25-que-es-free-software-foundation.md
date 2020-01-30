@@ -5,7 +5,7 @@ description: "Introducción y explicación de quién es y qué hace la Fundació
 excerpt: "Introducción y explicación de quién es y qué hace la Fundación de Software Libre."
 published: true
 comments: true
-date: 2020-02-25 15:10:12
+date: 2020-01-25 15:10:12
 last_modified_at: 
 permalink: /que-es-free-software-foundation/
 canonical_URL: https://www.fsf.org/es/about

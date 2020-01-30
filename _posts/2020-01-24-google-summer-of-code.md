@@ -5,7 +5,7 @@ description: "Información sobre el programa de Google Summer of Code, similar a
 excerpt: "Información sobre el programa de Google Summer of Code, similar a un campamento de verano para la programación, el mentoring y la propulsión del código abierto organizado por Google."
 published: true
 comments: true
-date: 2020-02-24 17:10:12
+date: 2020-01-24 17:10:12
 last_modified_at: 
 canonical_URL: /que-es-google-summer-of-code/
 classes: wide

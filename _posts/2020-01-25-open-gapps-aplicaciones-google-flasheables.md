@@ -5,7 +5,7 @@ description: "Si está pensando en actualizar una ROM personalizada de Android 1
 excerpt: "Si está pensando en actualizar una ROM personalizada de Android 10 en su dispositivo ahora es posible usando las aplicaciones de Google de Open GApps."
 published: true
 comments: true
-date: 2020-02-25 01:53:12
+date: 2020-01-25 01:53:12
 last_modified_at: 
 canonical_URL: /open-gapps-aplicaciones-google-flaheables/
 classes: wide
