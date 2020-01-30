@@ -1,6 +1,6 @@
 ---
 author_profile: true
-title: "▷ Vidgear: Librería de Python para el procesamiento de vídeo 🐍"
+title: "▷ Vidgear\: Librería de Python para el procesamiento de vídeo 🐍"
 description: "Librería de procesamiento de video en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"
 excerpt: "Librería de procesamiento de video en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"
 published: true
@@ -71,7 +71,7 @@ El siguiente **diagrama de bloques funcional muestra** claramente el funcionamie
 - [**Citando**](https://github.com/abhiTronix/vidgear#citing)
 - [**Licencia**](https://github.com/abhiTronix/vidgear#license)
 
-# TL; DR
+## TL; DR
 
 #### ¿Qué es vidgear?
 
@@ -87,7 +87,7 @@ El siguiente **diagrama de bloques funcional muestra** claramente el funcionamie
 
 **Para obtener información más avanzada, consulte la [\*documentación de Wiki ➶\*](https://github.com/abhiTronix/vidgear/wiki) .**
 
-# Engranajes
+## Engranajes
 
 > **VidGear está construido con varias \**API de\** subprocesos \**múltiples\** \*(también conocidas como Gears),\* cada una con alguna función / mecanismo único.**
 
@@ -380,15 +380,11 @@ git clone https://github.com/abhiTronix/vidgear.git
  instalación de sudo pip3 .
 ```
 
- 
-
 ## Documentación
 
 La documentación completa para todas las clases y funciones de VidGear se puede encontrar en el siguiente enlace:
 
 - [Documentación Wiki - Inglés](https://github.com/abhiTronix/vidgear/wiki)
-
- 
 
 ## Pruebas
 
