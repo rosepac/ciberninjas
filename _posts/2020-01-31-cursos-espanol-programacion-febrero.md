@@ -26,8 +26,7 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 {: .notice--info}
 
 🔎 Búsqueda rápida: Pulsar las teclas `CONTROL+F` y escribir lo que se desea estudiar.. ¡Suerte, amigos ciberninjas!
-
-{: notice--warning}
+{: .notice--warning}
 
 - [¿Cómo crear formularios de forma sencilla usando Swift?](https://www.udemy.com/course/como-crear-formularios-de-forma-sencilla-usando-swift/){:target="_blank"}
 - [¿Cómo crear una página web? Introducción a HTML5 y CSS3](https://www.udemy.com/course/como-crear-una-pagina-web-introduccion-a-html5-y-css3/){:target="_blank"}
