@@ -34,6 +34,10 @@ Sci-Hub es un sitio web que proporciona acceso gratuito a millones de artículos
 
 Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al alto costo de los trabajos de investigación detrás de los muros de pago. El sitio es ampliamente utilizado tanto en países desarrollados como en desarrollo. A partir de octubre de 2019, afirmó contener 76 millones de artículos académicos y atender aproximadamente 400,000 solicitudes por día.
 
+## Biblioteca Digital
+
+* [EFILM](https://efilm.online/){:target="_blank"}: Biblioteca pública GRATIS de préstamo de películas y series digitales para varias provincias de España.. 🎬
+
 ## Bibliotecas Abiertas España
 
 * [Biblioteca Virtual: Miguel de Cervantes](http://www.cervantesvirtual.com){:target="_blank"}
