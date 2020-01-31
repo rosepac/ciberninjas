@@ -4,7 +4,6 @@ title: '🚀 ¿Qué es DevTools para Flutter y Dart? Aprende sobre la nueva herr
 excerpt: '👩‍🚀 Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.'
 description: '👩‍🚀 Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.'
 published: true
-author: rosepac
 author_profile: true
 comments: true
 classes: wide
@@ -69,7 +68,7 @@ Para obtener más información sobre depuración y creación de perfiles de apli
 
 Para obtener más información sobre el uso de DevTools con las aplicaciones de línea de comandos Dart, consulte la [documentación de DevTools en dart.dev](https://dart.dev/tools/dart-devtools).
 
-[👉 ¿Qué es DevTools?](/flutter-dart-devtools/){: .btn .btn--inverse .btn--large .align-right}
+[👉 ¿Qué es DevTools?](/flutter-dart-devtools/){: .btn .btn--inverse .btn--large .align-left}
 [👉 ¿Cómo instalar DevTools?](/flutter-dart-devtools-como-instalar/){: .btn .btn--inverse .btn--large .align-left}
 [👉 ¿Cómo usar el inspector de DevTools?](/flutter-dart-devtools-inspector/){: .btn .btn--inverse .btn--large .align-center}
 [👉 ¿Cómo usar la línea de tiempo de DevTools?](/flutter-dart-devtools-linea-tiempo/){: .btn .btn--inverse .btn--large .align-center}
@@ -83,7 +82,7 @@ Para obtener más información sobre el uso de DevTools con las aplicaciones de 
 [👉 Flutter: Ejemplos de Aplicaciones](/flutter-aplicaciones-ejemplos/){: .btn .btn--inverse .btn--large .align-center}
 [👉 Documentación en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large .align-center}
 
-[👉 Cursos en Español](/cursos-tecnologia/#flutter){: .btn .btn--inverse .btn--large .align-center}
+[👉 Cursos en Español de Flutter](/cursos-tecnologia/#flutter){: .btn .btn--warning .btn--large .align-center}
 
 **Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank"}
 {: .notice--info}
