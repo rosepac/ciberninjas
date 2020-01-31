@@ -266,7 +266,7 @@ toc_sticky: false
 - [Estadísticas OpenIntro](https://www.openintro.org/stat/textbook.php)
 - [Ecuaciones diferenciales ordinarias](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikilibros
 - [Programación de potencia con Mathematica](https://mathematica.stackexchange.com/questions/16485/are-you-interested-in-purchasing-david-wagners-power-programming-with-mathemat/22724) - David B. Wagner
-- [Libro de cocina de probabilidad y estadística](https://statistics.zone/)
+- [Libro de Desarrollo de probabilidad y estadística](https://statistics.zone/)
 - [Probabilidad y estadísticas EBook](https://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 - [Siete bocetos en la composicionalidad: una invitación a la teoría de la categoría aplicada](https://arxiv.org/pdf/1803.05316.pdf) - Brendan Fong y David I. Spivak (PDF)
 - [Estadísticas hechas mal](https://www.statisticsdonewrong.com/) - Alex Reinhart
@@ -473,7 +473,7 @@ toc_sticky: false
 - [Manual de Criptografía Aplicada](https://cacr.uwaterloo.ca/hac/index.html)
 - [Cómo lidiar con las contraseñas](https://github.com/MHM5000/pass)
 - [Sistemas de detección de intrusos con Snort](https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
-- [Libro de cocina OpenSSL](https://www.feistyduck.com/library/openssl-cookbook/)
+- [Libro de Desarrollo OpenSSL](https://www.feistyduck.com/library/openssl-cookbook/)
 - [Guía de pruebas de OWASP 4.0](https://www.owasp.org/images/1/19/OTGv4.pdf) (PDF)
 - [OWASP Top 10 para desarrolladores de .NET](https://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 - [Ingeniería de seguridad](https://www.cl.cam.ac.uk/~rja14/book.html)
@@ -566,13 +566,13 @@ toc_sticky: false
 
 - [Manual de referencia del lenguaje Alef](https://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
 
-### Androide
+### Android
 
 - [Desarrollo ágil de software de Android](https://www.agiledroid.com/) - Etienne Savard (PDF, epub, mobi)
 - [Fundamentos de desarrollo de aplicaciones de Android 4](https://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
 - [Programación de Android 5 con ejemplos](https://www.packtpub.com/packt/free-ebook/android-by-example) : Kyle Mew, Packt. (dirección de correo electrónico *solicitada* , no requerida)
 - [Guía para principiantes de Android NDK - Segunda edición](https://www.packtpub.com/packt/free-ebook/android-ndk-beginners-guide) - Sylvain Ratabouil, Packt. (dirección de correo electrónico *solicitada* , no requerida)
-- [Libro de cocina de desarrollo de juegos de Android NDK](https://www.packtpub.com/packt/free-ebook/android-ndk-game-development) - Sergey Kosarevsky y Viktor Latypov, Packt. (dirección de correo electrónico *solicitada* , no requerida)
+- [Libro de Desarrollo de desarrollo de juegos de Android NDK](https://www.packtpub.com/packt/free-ebook/android-ndk-game-development) - Sergey Kosarevsky y Viktor Latypov, Packt. (dirección de correo electrónico *solicitada* , no requerida)
 - [Notas de Android](https://goalkicker.com/AndroidBook) (PDF)
 - [Guía de programación de Android para principiantes](https://eduonix.com/offers/Android_ebook_free_offer.html) (PDF: se necesita confirmación por correo electrónico)
 - [Programación de Android de manera sucinta, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ( [PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid) , [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid) ) (dirección de correo electrónico *solicitada* , no requerida)
@@ -602,7 +602,7 @@ toc_sticky: false
 
 - [Tienda de música ASP.NET MVC](https://mvcmusicstore.codeplex.com/)
 
-### Lenguaje ensamblador
+### Lenguaje Ensamblador
 
 - [Una introducción a la ingeniería inversa para principiantes.](https://github.com/dennis714/RE-for-beginners)
 - [Lenguaje ensamblador de manera sucinta](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage) (PDF)
@@ -639,7 +639,7 @@ toc_sticky: false
 - [Una cartilla Awk](https://en.wikibooks.org/wiki/An_Awk_Primer) - Wikilibros
 - [Awk](https://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
 
-### Golpetazo
+### Bash
 
 - [Guía avanzada de secuencias de comandos Bash](https://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
 - [Guía Bash para principiantes (2008)](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
@@ -661,7 +661,7 @@ toc_sticky: false
 - [La línea de comandos de Linux](https://linuxcommand.org/tlcl.php) - William E. Shotts, Jr. (PDF)
 - [Escribir guiones de Shell](https://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr. (HTML)
 
-### Básico
+### Basic
 
 - [10 PRINT CHR $ (205.5 + RND (1)); : GOTO 10](https://10print.org/) - Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
 - [Una guía para principiantes de Gambas](https://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
@@ -696,7 +696,7 @@ toc_sticky: false
 - [Programación orientada a objetos con ANSI-C](https://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 - [Programación en C](https://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala y Tep Dobry
 - [El libro C](https://publications.gbdirect.co.uk/c_book/)
-- [El arte de editar texto o un libro de cocina para un Emacs](https://www.finseth.com/craft/) - Craig A. Finseth
+- [El arte de editar texto o un libro de Desarrollo para un Emacs](https://www.finseth.com/craft/) - Craig A. Finseth
 - [El estándar actual del lenguaje de programación C - ISO / IEC 9899: 202x (C2x)](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf) - [Organización de](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf) estándares abiertos - [www.open-std.org](https://www.open-std.org/) (PDF)
 - [El tutorial de programación de GNU C](https://www.crasseux.com/books/ctut.pdf) (PDF)
 - [El pequeño libro sobre el desarrollo del sistema operativo](https://littleosbook.github.io/) - Erik Helin, Adam Renberg
@@ -719,7 +719,7 @@ toc_sticky: false
 - [Introducción a Rx](https://www.introtorx.com/)
 - [Programación orientada a objetos usando C #](https://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (dirección de correo electrónico *solicitada* , no requerida)
 - [Enhebrado en C #](https://www.albahari.com/threading/)
-- [Libro de cocina de desarrollo multiplataforma Xamarin](https://www.packtpub.com/free-eBook/xamarin-cross-platform-development-cookbook) - George Taskos, Packt. (dirección de correo electrónico *solicitada* , no requerida)
+- [Libro de Desarrollo de desarrollo multiplataforma Xamarin](https://www.packtpub.com/free-eBook/xamarin-cross-platform-development-cookbook) - George Taskos, Packt. (dirección de correo electrónico *solicitada* , no requerida)
 - [Xamarin.Forms Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) (PDF, Kindle) (dirección de correo electrónico solicitada, no requerida)
 
 ### C ++
@@ -752,10 +752,10 @@ toc_sticky: false
 - [La última cuestión de programación, refactorización y todo](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
 - [Pensando en C ++, Segunda edición, vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
 
-### Capilla
+### Chapel
 
-- [Tutorial de capilla](https://faculty.knox.edu/dbunde/teaching/chapel/)
-- [Tutorial de capilla para programadores](https://web.archive.org/web/20150310075109/https://cs.colby.edu/kgburke/?resource=chapelTutorial)
+- [Tutorial de Chapel](https://faculty.knox.edu/dbunde/teaching/chapel/)
+- [Tutorial de Chapel para programadores](https://web.archive.org/web/20150310075109/https://cs.colby.edu/kgburke/?resource=chapelTutorial)
 
 ### Cilk
 
@@ -813,9 +813,9 @@ toc_sticky: false
 - [Programación certificada con tipos dependientes](https://adam.chlipala.net/cpdt/html/toc.html)
 - [Fundamentos de software](https://www.cis.upenn.edu/~bcpierce/sf/)
 
-### Cristal
+### Crystal
 
-- [Cristal para rubíes](https://www.crystalforrubyists.com/)
+- [Crystal para ruby](https://www.crystalforrubyists.com/)
 
 ### CUDA
 
@@ -823,7 +823,7 @@ toc_sticky: false
 - [Guía de programación de CUDA C](https://docs.nvidia.com/pdf/CUDA_C_Programming_Guide.pdf) (PDF)
 - [Guía de programación de OpenCL para arquitectura CUDA](https://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf) (PDF)
 
-### re
+### D
 
 - [Tutorial de plantillas D](https://github.com/PhilippeSigaud/D-templates-tutorial)
 - [Programación en D](https://ddili.org/ders/d.en/)
@@ -915,9 +915,9 @@ toc_sticky: false
 
 - [Guía rápida para el desarrollo de aplicaciones Firefox OS: Creación de aplicaciones basadas en HTML5 para Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia
 
-### Aleteo
+## Flutter
 
-- [Libro de cocina](https://flutter.dev/docs/cookbook)
+- [Libro de Desarrollo](https://flutter.dev/docs/cookbook)
 - [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (dirección de correo electrónico *solicitada* , no requerida)
 - [Manual de tutoriales de Flutter](https://kodestat.gitbook.io/flutter/)
 
@@ -928,14 +928,14 @@ toc_sticky: false
 - [Fundamentos de la plataforma Force.com: una introducción al desarrollo de aplicaciones personalizadas en la nube](https://www.lulu.com/shop/salesforcecom/forcecom-platform-fundamentals/ebook/product-17381451.html)
 - [Heroku Postgres](https://web.archive.org/web/20131209081736/https://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) (PDF)
 
-### Adelante
+### Forth
 
 - [Una guía para principiantes a Forth](https://hackershelf.com/book/482/a-beginners-guide-to-forth/)
-- [Y así adelante ...](https://ficl.sourceforge.net/pdf/Forth_Primer.pdf) (PDF)
-- [Programación Adelante](https://www.mpeforth.com/arena/ProgramForth.pdf) (PDF)
-- [Comenzando adelante](https://home.iae.nl/users/mhx/sf.html)
-- [Pensando adelante](https://thinking-forth.sourceforge.net/)
-- [Programación reflexiva y adelante](https://www.ultratechnology.com/forth.htm)
+- [Y así Forth ...](https://ficl.sourceforge.net/pdf/Forth_Primer.pdf) (PDF)
+- [Programación Forth](https://www.mpeforth.com/arena/ProgramForth.pdf) (PDF)
+- [Comenzando Forth](https://home.iae.nl/users/mhx/sf.html)
+- [Pensando Forth](https://thinking-forth.sourceforge.net/)
+- [Programación reflexiva y Forth](https://www.ultratechnology.com/forth.htm)
 
 ### Fortran
 
@@ -998,15 +998,15 @@ toc_sticky: false
 - [Construyendo Proyectos Java con Gradle](https://spring.io/guides/gs/gradle/)
 - [Guía del usuario de Gradle](https://docs.gradle.org/current/userguide/userguide.html) - Hans Dockter, Adam Murdoch ( [PDF](https://docs.gradle.org/current/userguide/userguide.pdf) )
 
-#### Griales
+#### Grails
 
 - [Comenzando con Grails](https://www.infoq.com/minibooks/grails-getting-started)
 - [Tutorial de Grails para principiantes](https://grails.asia/grails-tutorial-for-beginners/)
 - [The Grails Framework - Documentación de referencia](https://grails.github.io/grails-doc/latest/) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari ( [PDF](https://grails.github.io/grails-doc/latest/guide/single.pdf) )
 
-#### Marco Spock
+#### Framework Spock
 
-- [Documentación de referencia del marco de Spock](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
+- [Documentación de referencia del Framework de Spock](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
 
 ### Cortar a tajos
 
@@ -1065,7 +1065,7 @@ toc_sticky: false
 - [HTML5 Canvas](https://chimera.labs.oreilly.com/books/1234000001654/index.html) - Steve Fulton y Jeff Fulton
 - [HTML5 para editores](https://chimera.labs.oreilly.com/books/1234000000770/index.html) - Sanders Kleinfeld
 - [HTML5 para diseñadores web](https://html5forwebdesigners.com/) - Jeremy Keith
-- [Libro de cocina de gráficos y visualización de datos HTML5](https://www.packtpub.com/packt/free-ebook/html5-data-visualization-cookbook) - Ben Fhala, Packt. (dirección de correo electrónico *solicitada* , no requerida)
+- [Libro de Desarrollo de gráficos y visualización de datos HTML5](https://www.packtpub.com/packt/free-ebook/html5-data-visualization-cookbook) - Ben Fhala, Packt. (dirección de correo electrónico *solicitada* , no requerida)
 - [Notas HTML5 para profesionales](https://books.goalkicker.com/HTML5Book/) : compiladas de la documentación de StackOverflow (3.x)
 - [HTML5 Shoot 'em Up en una tarde](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat
 - [Aprender diseño CSS](https://learnlayout.com/)
@@ -1167,7 +1167,7 @@ toc_sticky: false
 - [Bienvenido a Java para programadores de Python](https://runestone.academy/runestone/books/published/java4python/index.html) - Brad Miller
 - [Bienvenido al Taller de Java (2006)](https://javaworkshop.sourceforge.net/) - Trevor Miller
 
-#### Nombre clave uno
+#### Codename One
 
 - [Guía para desarrolladores de Codename One](https://www.codenameone.com/files/developer-guide.pdf) (PDF)
 - [Crear un clon de Uber en 7 días (primeros 2 capítulos)](https://uber.cn1.co/) - Shai Almog (PDF)
@@ -1188,7 +1188,7 @@ toc_sticky: false
 
 - [Referencias de seguridad en Spring](https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) - Ben Alex, Luke Taylor, Rob Winch
 
-#### Postigo
+#### Wicket
 
 - [Guía oficial gratuita en línea para el marco de Apache Wicket](https://wicket.apache.org/learn/#guide)
 
@@ -1287,10 +1287,10 @@ toc_sticky: false
 
 - [Dojo: la guía definitiva](https://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
 
-#### Olmo
+#### Elm
 
 - [Una introducción a Elm](https://guide.elm-lang.org/) (HTML)
-- [Olmo principiante](https://elmprogramming.com/) - Pawan Poudel (HTML)
+- [Elm principiante](https://elmprogramming.com/) - Pawan Poudel (HTML)
 - [Creación de un formulario de registro de validación en vivo en Elm](https://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 - [Elm Acelerado](https://accelerated.amimetic.co.uk/) - James Porter
 - [Lenguaje de programación Elm](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)
@@ -1316,7 +1316,7 @@ toc_sticky: false
 - [jQuery Novato a Ninja](https://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
 - [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) (dirección de correo electrónico *solicitada* , no requerida)
 
-#### Meteorito
+#### Meteor
 
 - [Meteor a prueba de balas](https://bulletproofmeteor.com/)
 - [Su primera aplicación Meteor, una guía completa para principiantes del marco Meteor JavaScript](https://meteortips.com/book/)
@@ -1356,12 +1356,12 @@ toc_sticky: false
 - [SurviveJS - Webpack y React](https://survivejs.com/)
 - [El camino para aprender React - Construir un Hacker News App a lo largo del Camino](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch *(Cuenta Leanpub o solicitado válida de correo electrónico)* [de reducción del precio](https://github.com/the-road-to-learn-react/the-road-to-learn-react/tree/master/manuscript)
 
-#### React nativo
+#### React Native
 
 - [Programación React Native ](https://leanpub.com/programming-react-native)*(cuenta Leanpub o correo electrónico válido solicitado)*
 - [React libro de animación nativa](https://browniefed.com/react-native-animation-book/)
 - [React Native Express](https://www.reactnativeexpress.com/)
-- [React entrenamiento nativo](https://www.gitbook.com/book/unbug/react-native-training/details)
+- [React entrenamiento Native](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 #### Redux
 
@@ -1389,7 +1389,7 @@ toc_sticky: false
 
 ### LaTeX / TeX
 
-#### Látex
+#### Latex
 
 - [Referencia arbitraria de LaTex](https://latex.knobs-dials.com/)
 - [Comience el látex en minutos](https://github.com/VoLuong/Begin-Latex-in-minutes)
@@ -1440,10 +1440,10 @@ toc_sticky: false
 - [Guía del servidor de Ubuntu](https://help.ubuntu.com/16.04/serverguide/serverguide.pdf) (PDF)
 - [Comprensión del Administrador de memoria virtual de Linux](https://www.kernel.org/doc/gorman/) - Mel Gorman (HTML, PDF)
 - [Programación de sistemas UNIX para SVR4](https://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry
-- [Introducción, libro de cocina y mejores prácticas](https://upstart.ubuntu.com/cookbook/)
+- [Introducción, libro de Desarrollo y mejores prácticas](https://upstart.ubuntu.com/cookbook/)
 - [Lo que todo programador debe saber sobre la memoria](https://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
 
-### Ceceo
+### Lisp
 
 - [Técnicas básicas de Lisp](https://franz.com/resources/educational_resources/cooper.book.pdf) - David J. Cooper, Jr. (PDF)
 - [Hechizos en Lisp](https://www.lisperati.com/casting.html)
@@ -1463,7 +1463,7 @@ toc_sticky: false
 - [Lisp común práctica](https://www.gigamonkeys.com/book/) - P. Seibel
 - [Principios de diseño](https://common-lisp-reserve.github.io/solid-design-principles-in-common-lisp/solid-design-principles-in-common-lisp.pdf) SOLIDOS [en Common Lisp](https://common-lisp-reserve.github.io/solid-design-principles-in-common-lisp/solid-design-principles-in-common-lisp.pdf) - Momozor (PDF)
 - [Lisp exitoso: Cómo entender y usar Common Lisp](https://github.com/clojurians-org/lisp-ebook/blob/master/Successful Lisp How to Understand and Use Common Lisp - David B. Lamkins.pdf) - David Lamkins (PDF)
-- [El libro de cocina de Lisp común](https://lispcookbook.github.io/cl-cookbook/)
+- [El libro de Desarrollo de Lisp común](https://lispcookbook.github.io/cl-cookbook/)
 - [La evolución de Lisp](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
 
 ### Livecode
@@ -1476,11 +1476,11 @@ toc_sticky: false
 - [Programación Lua](https://en.wikibooks.org/wiki/Lua_Programming) - Wikilibros
 - [Programación en Lua (primera edición)](https://www.lua.org/pil/contents.html)
 
-### Hacer
+### Make
 
 - [Gestión de proyectos con GNU Make](https://www.oreilly.com/openbook/make3/book/index.html) - Robert Mecklenburg
 
-### Reducción
+### Markdown
 
 - [Aprender Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
 
@@ -1990,7 +1990,7 @@ toc_sticky: false
 
 - [Programación avanzada de R](https://adv-r.had.co.nz/) - Hadley Wickham
 - [Una introducción al aprendizaje estadístico con aplicaciones en R](https://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie y Robert Tibshirani (PDF)
-- [Libro de cocina para R](https://www.cookbook-r.com/) - Winston Chang
+- [Libro de Desarrollo para R](https://www.cookbook-r.com/) - Winston Chang
 - [Introducción a la probabilidad y las estadísticas usando R](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
 - [Aprendiendo Estadísticas con R](https://web.archive.org/web/20170625184412/https://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) - Daniel Navarro
 - [Aprendizaje automático con R](https://www.packtpub.com/packt/free-ebook/r-machine-learning) - Brett Lantz, Packt. (dirección de correo electrónico *solicitada* , no requerida)
@@ -2018,7 +2018,7 @@ toc_sticky: false
 
 ### Raspberry Pi
 
-- [Libro de cocina de Raspberry Pi para programadores de Python](https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook) - Tim Cox, Packt. (PDF) (dirección de correo electrónico *solicitada* , no requerida)
+- [Libro de Desarrollo de Raspberry Pi para programadores de Python](https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook) - Tim Cox, Packt. (PDF) (dirección de correo electrónico *solicitada* , no requerida)
 - [Raspberry Pi: medir, registrar, explorar](https://leanpub.com/RPiMRE/read) - Malcolm Maclean (HTML)
 - [Guía del usuario de Raspberry Pi - (2012)](https://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
 - [El libro oficial del proyecto Raspberry Pi](https://www.raspberrypi.org/magpi-issues/Projects_Book_v1.pdf) (PDF)
@@ -2126,7 +2126,7 @@ toc_sticky: false
 
 - [Explorando la elevación](https://exploring.liftweb.net/) (publicado anteriormente como "La guía definitiva para la elevación", [PDF](https://groups.google.com/group/the-lift-book) )
 - [Levantar](https://github.com/tjweir/liftbook)
-- [Levante el libro de cocina](https://chimera.labs.oreilly.com/books/1234000000030/index.html) - Richard Dallaway
+- [Levante el libro de Desarrollo](https://chimera.labs.oreilly.com/books/1234000000030/index.html) - Richard Dallaway
 - [Simplemente Levante](https://simply.liftweb.net/Simply_Lift.pdf) - David Pollak (PDF)
 
 #### Jugar scala
