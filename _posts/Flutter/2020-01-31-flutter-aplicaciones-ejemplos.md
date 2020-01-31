@@ -35,7 +35,7 @@ Esta no es una lista exhaustiva de muestras, y solo porque un proyecto no esté 
 
 Una colección de ejemplos de un solo tema de Nishant Srivastava. Estos incluyen todo, desde gradientes hasta JSON, enrutamiento y más.
 
-### [Flutter Ejemplos Aplicaciones](https://github.com/iampawan/FlutterExampleApps){:target="_blank"} [![GitHub stars]
+### [Flutter Ejemplos Aplicaciones](https://github.com/iampawan/FlutterExampleApps){:target="_blank"}
 
 Varias docenas de ejemplos de Flutter GDE Pawan Kumar. Estos cubren la gestión del estado, Firebase, diseño de interfaz de usuario y muchos otros temas. Cada uno viene con un video de YouTube que muestra la implementación.
 
