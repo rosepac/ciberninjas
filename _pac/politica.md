@@ -109,6 +109,8 @@ Gustavo Bueno: Panfleto contra la democracia realmente existente.
 
 ## Historia de España
 
+* [ETA: Su Historia en Dibujos](https://twitter.com/JuliaLunaAzul1/status/1215999577066786816?fbclid=IwAR0KeIqPgKJsnnvPsMH3OE7jDsqm8wrb0vVGyKozJmTVle31VM0otTXeGgU){:target="_blank"}
+
 https://informalia.eleconomista.es/informalia/actualidad/noticias/9653449/01/19/La-entrevista-vetada-del-rey-al-descubierto-Juan-Carlos-lo-cuenta-todo.html
 _____
 

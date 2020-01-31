@@ -18,6 +18,21 @@ header:
 
 ---
 
+## Personajes Tecnológicos
+
+* Neil Postman
+  * Five Things We Need to Know About Technological Change: https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf
+  * Divertirse hasta morir: [Tribuna de León](https://www.diariodeleon.es/articulo/opinion/divertirse-hasta-morir/20021224000000637151.html) \ Relacionado >>> Neil Postman, 1998: seis preguntas sobre tecnología" https://www.youtube.com/watch?v=dBlfPhsrvtw
+
+* Alexey Guzey
+  * Qué hacer con tu vida: https: //guzey.com/personal/what-should-you-do-with-your-life ...
+  * Cómo hacer amigos en línea: https://guzey.com/how-to-make-friends-over-the-internet/
+  * Deberías comenzar un blog: https://guzey.com/personal/why-have-a-blog/
+
+* [Patrick Collison](https://patrickcollison.com/progress){:target="_blank"} \ [Wiki](https://es.wikipedia.org/wiki/Patrick_Collison){:target="_blank"}
+
+## Filósofos / Políticos
+
 [👷‍♂️👷‍♂️👷‍♂️ EN CONSTRUCCIÓN ‍👷‍♂️👷👷‍♂️](#){: .btn .btn--inverse .btn--large .align-center}
 
 ## Noam Chomsky

@@ -18,12 +18,30 @@ last_modified_at: 2020-01-02 22:28:02 +0100
 published: true
 ---
 
+## Global
+
+* [Mapa en tiempo real de infectados por el coronavirus](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6/){:target="_blank"}
+* [Servicio de Información de Emergencias y Desastres](http://hisz.rsoe.hu/){:target="_blank"}
+
+## Páginas Web de Interés
+
+* [Nación Rotonda](http://www.nacionrotonda.com/){:target="_blank"}
+
+### 2018
+
+* [España despilfarró 80.000 millones en «obras innecesarias»](https://elcorreoweb.es/espana/espana-despilfarro-80-000-millones-en-obras-innecesarias-NA4233852){:target="_blank"}
+
 ## Cambio Climático
 
 ### 2020
 
 **Enero**
 
+* [Neoliberalismo nos engaña con la contaminación y el reciclaje](https://gu.com/p/6p7j6/stw)
+
+El neoliberalismo nos ha engañado para luchar contra el cambio climático como individuos, Un centenar de empresas son responsables de un asombroso 71% de las emisiones de dióxido de carbono..
+
+* ["Catástrofe histórica" en el delta del Ebro](https://www.elconfidencial.com/espana/2020-01-22/delta-del-ebro-desaparece-bajo-agua-borrasca-gloria-332_2422452) \ Desaparecen bajo el agua 3 km de tierra.
 * Cría de Rinoceronte intenta despertar a su madre + hilo [*](https://twitter.com/xavieraldekoa/status/1214944890460749824){:target="_blank"}
 * Australia: Matarán a 10 mil camellos salvajes por falta de agua [*](https://www.fayerwayer.com/2020/01/australia-mataran-10-mil-camellos){:target="_blank"}
 * [Warren Buffett está gastando miles de millones para hacer de Iowa "la Arabia Saudita del viento"](https://markets.businessinsider.com/news/stocks/warren-buffett-berkshire-hathaway-invest-billions-iowa-saudi-arabia-wind-2019-12-1028787852){:target="_blank"}
