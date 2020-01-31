@@ -10,6 +10,7 @@ header:
     provider: youtube
 comments: true
 date: 2019-12-05 01:06:12
+classes: wide
 tags:
 - Trailer
 - Star Wars

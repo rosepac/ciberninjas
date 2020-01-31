@@ -9,6 +9,7 @@ header:
     provider: youtube
 comments: true
 date: 2019-10-21 00:16:12
+classes: wide
 tags:
 - Kim Peek
 categories:

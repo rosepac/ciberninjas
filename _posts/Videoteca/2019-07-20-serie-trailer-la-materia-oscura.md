@@ -9,6 +9,7 @@ header:
     provider: youtube
 comments: true
 date: 2019-07-20 22:06:12
+classes: wide
 tags:
 - Fantasía
 - Trailer

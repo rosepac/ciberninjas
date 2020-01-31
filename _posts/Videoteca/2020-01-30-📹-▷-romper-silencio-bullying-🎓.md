@@ -9,6 +9,7 @@ header:
     provider: youtube
 comments: true
 date: 2020-01-30 13:01:00 +0200
+classes: wide
 tags:
   - Iñaki Zubizarreta
   - Bullying

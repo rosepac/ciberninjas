@@ -9,6 +9,7 @@ header:
     provider: youtube
 comments: true
 date: 2019-08-14 22:06:12
+classes: wide
 tags:
 - Carreras de Coches
 - Trailer

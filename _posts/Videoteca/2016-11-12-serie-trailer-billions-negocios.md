@@ -9,6 +9,7 @@ header:
     provider: youtube
 comments: true
 date: 2016-11-12 22:06:12
+classes: wide
 tags:
 - Negocios
 - Trailer

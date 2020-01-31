@@ -9,6 +9,7 @@ excerpt: "Camino a la escuela&#039; narra las adversidades que cuatro niños tie
 #     provider: youtube
 comments: true
 date: 2020-01-05 00:00:00 +0200
+classes: wide
 tags:
   - TVE
   - Reflexión Educación

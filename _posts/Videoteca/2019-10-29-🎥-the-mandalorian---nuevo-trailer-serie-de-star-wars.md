@@ -10,6 +10,7 @@ header:
     provider: youtube
 comments: true
 date: 2019-10-29 09:15:00 +0200
+classes: wide
 tags:
   - Trailer
   - Ciencia Ficción

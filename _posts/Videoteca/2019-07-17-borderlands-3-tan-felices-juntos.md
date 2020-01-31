@@ -10,6 +10,7 @@ header:
     provider: youtube
 comments: true
 date: 2019-07-17 22:06:12
+classes: wide
 tags:
 - Acción
 - FPS

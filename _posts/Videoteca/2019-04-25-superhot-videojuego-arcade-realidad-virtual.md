@@ -10,6 +10,7 @@ header:
     provider: youtube
 comments: true
 date: 2019-04-25 22:06:12
+classes: wide
 tags:
 - Arcade
 - Realidad Virtual

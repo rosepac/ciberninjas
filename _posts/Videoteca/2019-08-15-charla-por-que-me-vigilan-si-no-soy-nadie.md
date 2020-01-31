@@ -10,6 +10,7 @@ header:
 comments: true
 canonical_URL: https://ciberninjas.com/charla-por-que-me-vigilan-si-no-soy-nadie/
 date: 2019-08-15 08:10:02
+classes: wide
 tags:
 - Marta Peirano
 - Intimidad
