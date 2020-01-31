@@ -4,9 +4,8 @@ title: '▷ 200 Cursos Gratis de Udemy: Vamos a Programar en Español en 2020'
 excerpt: '👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.'
 description: '👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.'
 published: true
-author: rosepac
+author_profile: true
 comments: true
-classes: wide
 date: 2020-01-31 17:07:33
 last_modified_at: 
 header:
@@ -28,11 +27,13 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 
 🔎 Búsqueda rápida: Pulsar las teclas `CONTROL+F` y escribir lo que se desea estudiar.. ¡Suerte, amigos ciberninjas!
 
+{: notice--warning}
+
 - [¿Cómo crear formularios de forma sencilla usando Swift?](https://www.udemy.com/course/como-crear-formularios-de-forma-sencilla-usando-swift/){:target="_blank"}
 - [¿Cómo crear una página web? Introducción a HTML5 y CSS3](https://www.udemy.com/course/como-crear-una-pagina-web-introduccion-a-html5-y-css3/){:target="_blank"}
 - [¿Por donde empezar en el desarrollo web? Empieza aquí ahora](https://www.udemy.com/course/por-donde-empezar-en-el-desarrollo-web-empieza-aqui-ahora-html/){:target="_blank"}
 - [60+ Herramientas de desarrollo y diseño web](https://www.udemy.com/course/recursos-web-plugins-y-utilidades/){:target="_blank"}
-- [Ajax en Wordpress para desarrolladores web [Avanzado\]](https://www.udemy.com/course/ajax-para-wordpress/){:target="_blank"}
+- [Ajax en Wordpress para desarrolladores web (Avanzado)](https://www.udemy.com/course/ajax-para-wordpress/){:target="_blank"}
 - [Algoritmos desde Cero](https://www.udemy.com/course/algoritmos-desde-cero/){:target="_blank"}
 - [Android Studio, Instalación, Emuladores, Git, Plugins y Tips](https://www.udemy.com/course/android-studio-instalacion-emuladores-git-plugins-y-tips/){:target="_blank"}
 - [Android: Fundamentos para crear tus primeras apps de calidad](https://www.udemy.com/course/fundamentos-de-android-para-crear-apps-de-calidad/){:target="_blank"}
@@ -69,7 +70,7 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [Aprende SQL desde CERO hasta AVANZADO como un PROFESIONAL.](https://www.udemy.com/course/aprende-sql-desde-cero-hasta-avanzado-como-un-profesional/){:target="_blank"}
 - [Aprende Swift y SpriteKit con el juego piedra papel o tijera](https://www.udemy.com/course/aprende-swift-y-spritekit-con-el-juego-piedra-papel-o-tijera/){:target="_blank"}
 - [Aprender React JS](https://www.udemy.com/course/aprendiendo-react/){:target="_blank"}
-- [Automatización Profesional con Arduino | Módulo 1](https://www.udemy.com/course/automatizacion-profesional-con-arduino-modulo-1/){:target="_blank"}
+- [Automatización Profesional con Arduino: Módulo 1](https://www.udemy.com/course/automatizacion-profesional-con-arduino-modulo-1/){:target="_blank"}
 - [Bash - Intérprete de Comandos de Linux. Aprende desde cero](https://www.udemy.com/course/shell-interprete-de-comandos-de-linux-aprende-desde-cero/){:target="_blank"}
 - [BIM A0. Introducción al BIM](https://www.udemy.com/course/bim-a0-introduccion-al-bim/){:target="_blank"}
 - [CentOS7: Todo lo necesario para dominarlo](https://www.udemy.com/course/centos7-todo-lo-necesario-para-dominarlo/){:target="_blank"}
@@ -92,8 +93,8 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [Crea tu Página Web sin Códigos Ni Complicaciones.](https://www.udemy.com/course/crea-tu-pagina-web-sin-codigos-ni-complicaciones/){:target="_blank"}
 - [Creación de Videojuegos en Unreal Engine para principiantes](https://www.udemy.com/course/unreal-engine-principiantes/){:target="_blank"}
 - [Crear app sin saber programar en Glide](https://www.udemy.com/course/crear-apps-sin-programar-en-glide/){:target="_blank"}
-- [CREAR Documentos PDF directamente desde PHP](https://www.udemy.com/course/reportes-pdf-con-php/){:target="_blank"}
-- [Crear Una Página Web Desde Cero Para Principiantes [2020\]](https://www.udemy.com/course/crea-esta-pagina-web-moderna-con-html5-css3-y-jquery-2019/){:target="_blank"}
+- [Crear Documentos PDF directamente desde PHP](https://www.udemy.com/course/reportes-pdf-con-php/){:target="_blank"}
+- [Crear Una Página Web Desde Cero Para Principiantes ([2020)](https://www.udemy.com/course/crea-esta-pagina-web-moderna-con-html5-css3-y-jquery-2019/){:target="_blank"}
 - [Curso Asp.Net MVC + Entity Framework para principiantes](https://www.udemy.com/course/curso-aspnet-mvc-entity-framework-para-principiantes/){:target="_blank"}
 - [Curso básico de desarrollo de aplicaciones web from scratch](https://www.udemy.com/course/aprende-a-crear-una-aplicacion-web-usando-ruby-on-rails-desde-cero/){:target="_blank"}
 - [Curso Básico de Iniciación SAP](https://www.udemy.com/course/iniciacion-al-sistema-sap/){:target="_blank"}
@@ -105,7 +106,7 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [Curso de Joomla 2.5 Paso a Paso](https://www.udemy.com/course/aprende-joomla/){:target="_blank"}
 - [Curso de Python3 - Introducción a Python](https://www.udemy.com/course/curso-de-python3-d/){:target="_blank"}
 - [Curso de Virtualbox Practico y Desde Cero](https://www.udemy.com/course/curso-de-virtualbox-practico-y-desde-cero/){:target="_blank"}
-- [Curso Django 2.2 | Creando un Acortador URL](https://www.udemy.com/course/curso-django-creando-un-acortador-url/){:target="_blank"}
+- [Curso Django 2.2: Creando un Acortador URL](https://www.udemy.com/course/curso-django-creando-un-acortador-url/){:target="_blank"}
 - [Curso fundamental de Scriptcase 9](https://www.udemy.com/course/curso-fundamental-de-scriptcase-9/){:target="_blank"}
 - [Curso iOS 12 y Swift 4 - Crea 3 Aplicaciones Geniales ](https://www.udemy.com/course/curso-ios-11-y-swift-4-crea-3-aplicaciones-geniales/){:target="_blank"}
 - [Curso iOS y 11 Swift 4: Aprende a hacer un Bloc de Notas](https://www.udemy.com/course/crea-un-blog-de-notas-con-ios-11-y-swift-4/){:target="_blank"}
@@ -125,12 +126,12 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [Desarrollo de Videojuegos con GameMaker: Studio 1.4](https://www.udemy.com/course/vuelvete-un-creador-de-juegos-sin-programar-en-gamemaker/){:target="_blank"}
 - [Desarrollo de Videojuegos con Unity 5: Primer Juego Completo](https://www.udemy.com/course/unity-5-primer-videojuego-2d-multiplataforma/){:target="_blank"}
 - [Desarrollo de Videojuegos para iOS, Android y BlackBerry10](https://www.udemy.com/course/juegos-para-ios-android-blackberry10-html5/){:target="_blank"}
-- [Desarrollo Páginas Web con HTML y CSS | Aprende a crear webs](https://www.udemy.com/course/curso-html5-css3/){:target="_blank"}
+- [Desarrollo Páginas Web con HTML y CSS: Aprende a crear webs](https://www.udemy.com/course/curso-html5-css3/){:target="_blank"}
 - [Desarrollo Web bajo la tecnologia CSS](https://www.udemy.com/course/desarrollo-web-acelerado-basico/){:target="_blank"}
 - [Diseño Web - Aprende creando un sitio web paso a paso](https://www.udemy.com/course/diseno-web-aprende-creando-un-sitio-web/){:target="_blank"}
 - [Dominando WordPress Paso a Paso y Desde Cero](https://www.udemy.com/course/dominando-wordpress-paso-a-paso-y-desde-cero/){:target="_blank"}
 - [El completo desarrollador de iOS 10 - Crea apps con Swift 3](https://www.udemy.com/course/el-completo-desarrollador-de-ios-crea-apps-con-swift/){:target="_blank"}
-- [Estructuras de datos en R [nivel básico\] en Español](https://www.udemy.com/course/estructuras-de-datos-en-r-nivel-basico-en-espanol/){:target="_blank"}
+- [Estructuras de datos en R (nivel básico) en Español](https://www.udemy.com/course/estructuras-de-datos-en-r-nivel-basico-en-espanol/){:target="_blank"}
 - [Flutter: Una introducción al Framework](https://www.udemy.com/course/flutter-primeros-pasos/){:target="_blank"}
 - [Framework CodeIgniter para principiantes: Primeros pasos](https://www.udemy.com/course/codeigniter-para-principiantes-primeros-pasos/){:target="_blank"}
 - [Función "mail" de PHP: Aprende a enviar emails con PHP](https://www.udemy.com/course/enviar-email-con-php/){:target="_blank"}
@@ -189,18 +190,18 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [NestJS: Node + Typescript al estilo Angular para crear APIS](https://www.udemy.com/course/nestjs-free/){:target="_blank"}
 - [Objetivos de Desarrollo Sostenible](https://www.udemy.com/course/objetivos-de-desarrollo-sostenible/){:target="_blank"}
 - [PHP curso de programación desde cero...](https://www.udemy.com/course/curso-de-programacion-desde-cero/){:target="_blank"}
-- [Primeros pasos con Vue.js | Vue en ejercicios](https://www.udemy.com/course/primeros-pasos-con-el-framework-vuejs/){:target="_blank"}
-- [PROBAR DJANGO | Crear una Aplicación Web](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python/){:target="_blank"}
+- [Primeros pasos con Vue.js: Vue en ejercicios](https://www.udemy.com/course/primeros-pasos-con-el-framework-vuejs/){:target="_blank"}
+- [Prbar Django: Crear una Aplicación Web](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python/){:target="_blank"}
 - [Programación Android 01 Conceptos generales](https://www.udemy.com/course/programacion-android-01-conceptos-generales/){:target="_blank"}
 - [Programación CNC - Fresadoras](https://www.udemy.com/course/programacioncnc/){:target="_blank"}
 - [Programación de juegos Web 2D en JavaScript HTML5 con Phaser](https://www.udemy.com/course/programacion-de-juegos-web-2d-en-javascript-html5-con-phaser/){:target="_blank"}
 - [Programación de videojuegos con pygame](https://www.udemy.com/course/pygame-breakout/){:target="_blank"}
 - [Programación Estructurada desde Cero con JAVA](https://www.udemy.com/course/programacion-estructurada-java/){:target="_blank"}
 - [Programación para principiantes - primeros pasos](https://www.udemy.com/course/programacion-para-principiantes/){:target="_blank"}
-- [Programación Unity [1\] - Clase MonoBehaviour](https://www.udemy.com/course/libreria-unity-engine-clase-monobehaviour/){:target="_blank"}
-- [Programación Unity [2\] - Clases Time y Vector3](https://www.udemy.com/course/libreria-unity-engine-2-clases-time-y-vector3/){:target="_blank"}
-- [Programación Unity [3\] - Clase Input](https://www.udemy.com/course/libreria-unity-engine-3-clase-input/){:target="_blank"}
-- [Programación Unity [4\] - Clase Transform](https://www.udemy.com/course/libreria-unity-engine-4-clase-transform/){:target="_blank"}
+- [Programación Unity 1 - Clase MonoBehaviour](https://www.udemy.com/course/libreria-unity-engine-clase-monobehaviour/){:target="_blank"}
+- [Programación Unity 2 - Clases Time y Vector3](https://www.udemy.com/course/libreria-unity-engine-2-clases-time-y-vector3/){:target="_blank"}
+- [Programación Unity 3 - Clase Input](https://www.udemy.com/course/libreria-unity-engine-3-clase-input/){:target="_blank"}
+- [Programación Unity 4 - Clase Transform](https://www.udemy.com/course/libreria-unity-engine-4-clase-transform/){:target="_blank"}
 - [Programador web: Cookies y Sesiones en PHP](https://www.udemy.com/course/programador-web-php-cookies-y-sesiones/){:target="_blank"}
 - [Python 3 : Programación Orientada a Objetos](https://www.udemy.com/course/python3-programacion-orientada-a-objetos/){:target="_blank"}
 - [Python 3. Curso completo de Python 3. Aprende desde cero](https://www.udemy.com/course/curso-python/){:target="_blank"}
