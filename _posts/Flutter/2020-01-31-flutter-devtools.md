@@ -5,6 +5,7 @@ excerpt: '👩‍🚀 Implementa mejoras en el desarrollo de Dart y Flutter con 
 description: '👩‍🚀 Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.'
 published: true
 author: rosepac
+author_profile: true
 comments: true
 classes: wide
 date: 2020-01-31 12:05:33
@@ -68,8 +69,8 @@ Para obtener más información sobre depuración y creación de perfiles de apli
 
 Para obtener más información sobre el uso de DevTools con las aplicaciones de línea de comandos Dart, consulte la [documentación de DevTools en dart.dev](https://dart.dev/tools/dart-devtools).
 
-[👉 ¿Qué es DevTools?](/flutter-dart-devtools/){: .btn .btn--inverse .btn--large .align-center}
-[👉 ¿Cómo instalar DevTools?](/flutter-dart-devtools-como-instalar/){: .btn .btn--inverse .btn--large .align-center}
+[👉 ¿Qué es DevTools?](/flutter-dart-devtools/){: .btn .btn--inverse .btn--large .align-right}
+[👉 ¿Cómo instalar DevTools?](/flutter-dart-devtools-como-instalar/){: .btn .btn--inverse .btn--large .align-left}
 [👉 ¿Cómo usar el inspector de DevTools?](/flutter-dart-devtools-inspector/){: .btn .btn--inverse .btn--large .align-center}
 [👉 ¿Cómo usar la línea de tiempo de DevTools?](/flutter-dart-devtools-linea-tiempo/){: .btn .btn--inverse .btn--large .align-center}
 [👉 ¿Cómo usar la vista de memoria de DevTools?](/flutter-dart-devtools-vista-memoria/){: .btn .btn--inverse .btn--large .align-center}
