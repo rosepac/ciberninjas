@@ -20,10 +20,7 @@ canonical_URL: https://ciberninjas.com/cursos-ingles-programacion-febrero/
 
 ---
 
-![👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.](https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg "👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.")
-
-👉 Muchos de estos cursos ya están incluidos en nuestro [recopilatorio de cursos en español](/cursos-tecnologia/) 🤞
-{: .notice--info}
+![👨‍💻 Los mejores cursos de programación en Udemy gratis en inglés para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.](https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg "👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.")
 
 🔎 Búsqueda rápida: Pulsar las teclas `CONTROL+F` y escribir lo que se desea estudiar.. ¡Suerte, amigos ciberninjas!
 {: .notice--warning}

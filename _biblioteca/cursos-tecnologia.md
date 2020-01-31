@@ -29,8 +29,6 @@ toc_sticky: false
 sidebar:
   nav: cursos-espanol
 ---
-💡 En la Actualidad, se están reestructurando las categorías; en pos de crear un contenido más sugerente y una mayor diferenciación entre cada temática.
-{: .notice--info}
 
 ## 🗃 Meta-Listas
 
