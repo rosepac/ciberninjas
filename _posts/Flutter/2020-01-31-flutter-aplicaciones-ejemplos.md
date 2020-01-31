@@ -10,7 +10,7 @@ classes: wide
 date: 2020-01-31 11:32:33
 last_modified_at: 
 header:
-  teaser: https://i.ibb.co/3SbbVS3/ionic-framework-og.png
+  teaser: https://i.ibb.co/QX3GQV7/flutter-1024x486.png
 tags:
 - Flutter
 - Móviles
@@ -23,7 +23,7 @@ canonical_URL: https://ciberninjas.com/flutter-aplicaciones-ejemplos/
 
 ---
 
-![Logotipo del SDK Multiplataforma de Flutter](https://i.ibb.co/c380PQf/Google-flutter-logo.png "Logotipo del SDK de Flutter")
+![Logotipo del SDK Multiplataforma de Flutter](https://i.ibb.co/QX3GQV7/flutter-1024x486.png "Logotipo del SDK de Flutter")
 
 En esta lista se incluyen ejemplos de aplicaciones, demostraciones y ejemplos que pueden ayudarlo a desarrollar sus habilidades de Flutter. Algunos son mantenidos aquí por el equipo de Flutter, pero muchos han sido creados por la comunidad de Flutter y se mantienen en otros repositorios dentro y fuera de GitHub.
 
