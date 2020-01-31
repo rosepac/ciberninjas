@@ -25,5 +25,7 @@ canonical_URL: https://ciberninjas.com/las-mejores-extensiones-navegadores/
 * [Tema de Piel de Luz Verde](https://chrome.google.com/webstore/detail/light-green-theme/ddanbpappolmiebldmnklmmjmgpcocai "Tema de Piel de Luz Verde")
 * [Wikiwand]()
 
+* [Activar Sonido para las Coockies](https://chrome.google.com/webstore/detail/listening-back/gdkmphlncmoloepkpifnhneogcliiiah) \ [Info.](https://media.ccc.de/v/36c3-10855-listening_back_browser_add-on_tranlates_cookies_into_sound#t=1910)
+
 **Fuente**: [TITULO](ENLACE A LA NOTICIA "TITLE")
 {: .notice--info}

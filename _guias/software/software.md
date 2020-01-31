@@ -1,6 +1,7 @@
 ---
 
 published: false
+classes: wide
 
 ---
 
@@ -29,6 +30,10 @@ Ninite
 
 * [Emacs](https://www.gnu.org/software/emacs/download.html)
 
+### Editores de Vídeo
+
+## [OpenShot](https://www.openshot.org/es/download/){:target="_blank"}
+
 ### Testing
 
 * [Source Trail](https://www.sourcetrail.com/)
@@ -46,16 +51,20 @@ Ninite
 * [Mosh](https://mosh.org/)
 * [TMux](http://opensimulator.org/wiki/Tmux)
 
-## Software MacOS
+### Herramientas de Monitorización
+
+* [Nutty](https://lignux.com/descubre-nutty-una-herramienta-de-monitorizacion-e-informacion-grafica-para-redes/)
+
+### Software MacOS
 
 
 
-### Flujo de Trabajo
+#### Flujo de Trabajo
 
-* [CoScreen](https://www.coscreen.co/)
+## [CoScreen](https://www.coscreen.co/)
 
-## Juegos
+### Juegos
 
-### Second Life
+## Second Life
 
-Phoenix Firestorm
+Mejores visores para ordenadores de bajos recursos: Phoenix, Firestorm
