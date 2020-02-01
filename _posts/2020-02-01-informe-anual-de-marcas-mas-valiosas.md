@@ -1,8 +1,8 @@
 ---
 author_profile: true
 title: '▷ Global 500: Informe Anual sobre las Marcas Más Valiosas del Mundo de la Tecnología en 2020'
-description: "Nuestros informes proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor de las marcas tecnológicas"
-excerpt: "Nuestros informes proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor de las marcas tecnológicas"
+description: "Informes que proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor global de las marcas tecnológicas más valiosas"
+excerpt: "Informes que proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor global de las marcas tecnológicas más valiosas"
 published: true
 comments: true
 date: 2020-02-01 12:10:12
@@ -35,7 +35,7 @@ Encuentra sobre esto y muchas más ideas en el informe completo, disponible para
 
 <iframe src="https://drive.google.com/file/d/1Ex-xK187wQQBOegUKSogBkrmofb5h4cA/preview" width="935" height="480"></iframe>
 
-[💲 Descargar Informe ⬇](https://brandirectorypublic.s3.eu-west-2.amazonaws.com/reports_free/brand-finance-global-500-2020-preview.pdf){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[💲 Descargar Resumen del Informe ⬇](https://brandirectorypublic.s3.eu-west-2.amazonaws.com/reports_free/brand-finance-global-500-2020-preview.pdf){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 
 _____
 
