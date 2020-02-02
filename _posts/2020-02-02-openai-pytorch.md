@@ -1,11 +1,11 @@
 ---
 
 author_profile: true
-title: "\U0001F916 Generador de Texto a través de IA: Modelado de Lenguaje a Gran Escala"
+title: "▷ Generador de Texto a través de IA: Modelado de Lenguaje a Gran Escala"
 description: >-
-  Estamos estandarizando el framework de aprendizaje profundo de OpenAI: PyTorch. En el pasado, implementamos proyectos en muchos frameworks dependientes de la inteligencia artificial..
+  \U0001F916 Estamos estandarizando el framework de aprendizaje profundo de OpenAI: PyTorch. En el pasado, implementamos proyectos en muchos frameworks dependientes de la inteligencia artificial..
 excerpt: >-
-  Estamos estandarizando el framework de aprendizaje profundo de OpenAI: PyTorch. En el pasado, implementamos proyectos en muchos frameworks dependientes de la inteligencia artificial..
+  \U0001F916 Estamos estandarizando el framework de aprendizaje profundo de OpenAI: PyTorch. En el pasado, implementamos proyectos en muchos frameworks dependientes de la inteligencia artificial..
 published: true
 comments: true
 date: 2020-02-02 02:30:12
@@ -27,13 +27,13 @@ categories:
 
 ![](https://i.ibb.co/LxBMjP4/Screen-Shot-2019-12-12-at-4-27-26-PM.png "OpenAI y PyTorch unen sus fuerzas en un trabajo común")
 
-Estamos estandarizando el marco de aprendizaje profundo de OpenAI en PyTorch . En el pasado, implementamos proyectos en muchos marcos dependiendo de sus fortalezas relativas. Ahora hemos optado por estandarizar para facilitar a nuestro equipo la creación y el intercambio de implementaciones optimizadas de nuestros modelos.
+Se esta trabajando en estandarizar el framework de aprendizaje profundo de OpenAI en PyTorch. En el pasado, desde Open AI se trabajo en proyectos de muchos otros frameworks dependiendo de sus diferentes fortalezas. Ahora hemos optado por estandarizar el software utilizado para facilitar al equipo la creación y el intercambio de implementaciones optimizadas de diferentesmodelos.
 
-Como parte de este movimiento, acabamos de lanzar una versión habilitada para PyTorch de [Spinning Up in Deep RL](https://openai.com/blog/spinning-up-in-deep-rl/){:target="_blank"}, un recurso educativo de código abierto producido por OpenAI que facilita aprender sobre el aprendizaje de refuerzo profundo. También estamos en el proceso de escribir enlaces PyTorch para nuestros núcleos de dispersión de bloques altamente optimizados, y los enlaces de código abierto se abrirán en los próximos meses.
+Como parte de este movimiento, Se acaba de lanzar una versión habilitada para PyTorch de [Spinning Up in Deep RL](https://openai.com/blog/spinning-up-in-deep-rl/){:target="_blank"}, un recurso educativo de código abierto producido por OpenAI que facilita aprender sobre el aprendizaje del aprendizaje profundo. También estamos en el proceso de escribir nuevo código para PyTorch en relación a nuestros núcleos de dispersión de bloques altamente optimizados, y el código resultante se lanzará como código de fuente abierto a lo largo de los próximos meses.
 
-La razón principal por la que elegimos PyTorch es para aumentar nuestra productividad de investigación a escala en GPU. Es muy fácil probar y ejecutar nuevas ideas de investigación en PyTorch; por ejemplo, cambiar a PyTorch disminuyó nuestro tiempo de iteración en ideas de investigación en modelos generativos de semanas a días. También estamos entusiasmados de unirnos a una comunidad de desarrolladores en rápido crecimiento, incluidas organizaciones como Facebook y Microsoft, para impulsar la escala y el rendimiento en las GPU.
+La razón principal por la que elegimos PyTorch es por considerar que aumenta nuestra productividad respecto al uso de GPU. Es muy fácil ejecutar y probar nuevas ideas de investigación en PyTorch; por ejemplo, cambiar a PyTorch disminuyó nuestro tiempo de iteración en ideas de investigación de modelos generativos, pasamos de un trabajo de duración de semanas a una duración de pocos días. También estamos entusiasmados de unirnos la comunidad PyTorch que está teniendo un amplio y rápido crecimiento, incluidos los desarrolladores de otras organizaciones como pueden ser Facebook o Microsoft; esperando que entre todos juntos podamos impulsar y mejorar; tanto el escalado, como el rendimiento de las GPU.
 
-En el futuro usaremos principalmente PyTorch como nuestro marco de aprendizaje profundo, pero a veces usaremos otros cuando haya una razón técnica específica para hacerlo. Muchos de nuestros equipos ya han hecho el cambio, y esperamos contribuir a la comunidad PyTorch en los próximos meses.
+En el futuro usaremos principalmente PyTorch como nuestro framework de aprendizaje profundo, aunque a veces usemos otros si lo consideramos adecuado, por exclusivas razones técnicas específicas. Muchos de nuestros equipos ya han implementado el cambio y esperamos pdoer comenzar a contribuir a la comunidad PyTorch en la mayor brevedad de tiempo.
 
-**Fuente**\: [Open AI - PyTorch](https://openai.com/blog/openai-pytorch/)
+**Fuente**\: [Open AI - PyTorch](https://openai.com/blog/openai-pytorch/){:target="_blank"}
 {: .notice--info}

@@ -28,7 +28,7 @@ Aquí tenemos una brillante lista de las mejores y más recomendadas herramienta
 
 ## Herramientas
 
-[👉 Analizador de rendimiento de la base de datos](/sql-mejores-herramientas-2020/#analizador-de-rendimiento-de-la-base-de-datos){: .btn .btn--warning .btn--large} [⬇ Descarga 1](https://www.solarwinds.com/database-performance-analyzer/registration?){: .btn .btn--inverse .btn--large}{:target="_blank"} [⬇ Descarga 2](https://www.solarwinds.com/free-tools/database-performance-analyzer-free){: .btn .btn--inverse .btn--large}{:target="_blank"}
+[👉 Analizador](/sql-mejores-herramientas-2020/#analizador-de-rendimiento-de-la-base-de-datos){: .btn .btn--warning .btn--large} [⬇ Descarga 1](https://www.solarwinds.com/database-performance-analyzer/registration?){: .btn .btn--inverse .btn--large}{:target="_blank"} [⬇ Descarga 2](https://www.solarwinds.com/free-tools/database-performance-analyzer-free){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 [👉 SQLGrease](/sql-mejores-herramientas-2020/#sqlgrease){: .btn .btn--warning .btn--large} [⬇ Descargar](https://sqlgrease.com/Home/PricingOptions?){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
