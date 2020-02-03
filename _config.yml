@@ -38,18 +38,18 @@ author:
   avatar : "/assets/images/bio-photo.png"
   bio    : "Documentalista Digital. Educación Siglo XXI. Bibliotecario de Internet."
   links:
-    - label: "Invítame"
-      icon: "fas fa-fw fa-mug-hot"
-      url: "https://kutt.it/Cafe"
+    - label: "Lector RSS"  
+      icon: "fas fa-rss-square"
+      url: "https://ciberninjas.com/feed.xml"
     - label: "Donativo"
-      icon: "fab fa-cc-paypal"
+      icon: "fas fa-fw fa-mug-hot"
       url: "https://kutt.it/donativo"
+    - label: "Enlaces Importantes"
+      icon: "fas fa-anchor"
+      url: "https://linktr.ee/ciberninjas"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rosepac"
-    - label: "Universo Ciberninjas"
-      icon: "fas fa-user-ninja"
-      url: "https://linktr.ee/ciberninjas"
 
 search: true
 search_full_content: true
