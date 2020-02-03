@@ -36,25 +36,25 @@ Centrados en obtener más información, realizamos algunas interesantes cuestion
 
 Esto es lo que nos contestaron..
 
-1. **Comprende las matemáticas que existen detrás del aprendizaje automático**
+**1. Comprende las matemáticas que existen detrás del aprendizaje automático**
 
 Los profesionales del desarrollo de inteligencia artificial deben comprender las probabilidades, que sirven de base para el aprendizaje automático. Los desarrolladores de software tradicionales a menudo usan funciones de bibliotecas en línea que los alivia de tener que hacer las fórmulas matemáticas. Los  desarrolladores de inteligencia artificial deben ser capaces de escribir y comprender algoritmos complejos para poder avanzar en la búsqueda de ideas y patrones dentro de los datos.
 
 > [Blair Thomas](https://twitter.com/eMerchantBroker){:target="_blank"},  eMerchantBroker
 
-2. **Lo primero: Construye una base sólida**
+**2. Lo primero: Construye una base sólida**
 
 Antes de comenzar con la  inteligencia artificial, es necesario establecer una base sólida para ello. Aprende a dominar los conceptos básicos de programación (Python es uno de los mejores lenguajes de programación para el aprendizaje automático) y las matemáticas (el álgebra lineal, la estadística y el cálculo). Perfecciona tu pensamiento abstracto. No necesitas un título profesional para dominar Inteligencia Artificial y Machine Learning, pero sí requieres poseer una pasión ilimitada.
 
 > [Rahul Varshneya](https://twitter.com/rahulvarshneya){:target="_blank"},  Reanudar Semilla
 
-3. **Repasa sobre Python**
+**3. Repasa sobre Python**
 
 La inteligencia artificial se  está desarrollando a un ritmo rápido y aquellos que pueden trabajar con  AI  se encontrarán por delante de la competencia. Python es el lenguaje de programación elegido, ya que es fácil de entender y escribir, tiene muchas bibliotecas y una comunidad de usuarios importante. Python admite implementaciones avanzadas de aprendizaje automático y aprendizaje profundo a través de frameworks populares como TensorFlow, PyTorch y Keras.
 
 > [Susan Rebner](http://www.linkedin.com/in/susanrebner){:target="_blank"},  Cyleron, Inc.
 
-4. **Busca por Internet recursos gratuitos y cursos en línea**
+**4. Busca por Internet recursos gratuitos y cursos en línea**
 
 Si está interesado en aprender más sobre el  desarrollo de inteligencia artificial, comience de manera muy simple: Google. Hay toneladas de recursos gratuitos, artículos y cursos en línea que uno puede encontrar para introducirse al mundo del desarrollo de  la IA, un campo que está en rápido crecimiento. Los recursos gratuitos ofrecen a los nuevos programadores una forma fácil y de bajo riesgo de involucrarse en la IA para conocer si es algo que realmente les gustará.
 
