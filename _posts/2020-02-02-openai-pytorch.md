@@ -1,7 +1,7 @@
 ---
 
 author_profile: true
-title: "▷ Generador de Texto a través de IA: Modelado de Lenguaje a Gran Escala"
+title: "▷ Open AI, comienza a usar PyTorch como framework principal"
 description: >-
   \U0001F916 Estamos estandarizando el framework de aprendizaje profundo de OpenAI: PyTorch. En el pasado, implementamos proyectos en muchos frameworks dependientes de la inteligencia artificial..
 excerpt: >-
