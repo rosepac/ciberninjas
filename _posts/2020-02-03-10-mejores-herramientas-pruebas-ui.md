@@ -42,7 +42,7 @@ La lista a continuación muestra las herramientas de automatización de UI más 
 ## Herramientas
 
 * [Selenium](/10-mejores-herramientas-pruebas-ui/#selenium)
-* [UFT / QTP](/10-mejores-herramientas-pruebas-ui/#uft-/-qtp)
+* [UFT](/10-mejores-herramientas-pruebas-ui/#uft)
 * [Protactor](/10-mejores-herramientas-pruebas-ui/#protactor)
 * [Appium](/10-mejores-herramientas-pruebas-ui/#appium)
 * [Winium](/10-mejores-herramientas-pruebas-ui/#winium)
@@ -50,7 +50,7 @@ La lista a continuación muestra las herramientas de automatización de UI más 
 * [MS UI](/10-mejores-herramientas-pruebas-ui/#ms-ui)
 * [Test Complete](/10-mejores-herramientas-pruebas-ui/#test-complete)
 * [Katalon Studio](/10-mejores-herramientas-pruebas-ui/#katalon-studio)
-* [Xamarin](/10-mejores-herramientas-pruebas-ui/#xamarin)
+* [Xamarin](/10-mejores-herramientas-pruebas-ui/#xamarin-test-studio)
 * [Otros](/10-mejores-herramientas-pruebas-ui/#otros)
 
 ## Selenium
@@ -81,7 +81,7 @@ Selenium WebDriver es el componente principal de esta oferta, pero también exis
 
 [⬇ Descargar Selenium](https://www.seleniumhq.org/projects/webdriver/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}
 
-## UFT / QTP
+## UFT
 
 ![](https://i.ibb.co/jbR343M/Micro-Focus-2017-Brand-Cutdown-AMC-01.jpg)
 

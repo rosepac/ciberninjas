@@ -60,43 +60,43 @@ Si está interesado en aprender más sobre el  desarrollo de inteligencia artifi
 
 > [David Chen](https://twitter.com/sharebertgg){:target="_blank"},  Sharebert 
 
-5. **Ponte cómodo ante el pensamiento abstracto**
+**5. Ponte cómodo ante el pensamiento abstracto**
 
 El pensamiento abstracto o el razonamiento profundo es cuando las máquinas son capaces de comprender las relaciones implícitas entre las  cosas. Esto va más lejos de simplemente aprender lógica, estadísticas o ecuaciones matemáticas. Si comprende el razonamiento relacional, además de reglas más explícitas y directas, comprenderá mejor los matices y las complejidades del desarrollo de la  inteligencia artificial.
 
 > [Shu Saito](https://www.linkedin.com/in/shu-s-650858b8){:target="_blank"},  Godai
 
-6. **Comienza a construir cosas simples con algoritmos de inteligencia artificial**
+**6. Comienza a construir cosas simples con algoritmos de inteligencia artificial**
 
 Uno de los factores clave de éxito del aprendizaje de inteligencia artificial es desarrollar una fuerte intuición de cómo funcionan  los  sistemas de inteligencia artificial. Una forma de desarrollar tal intuición es simplemente construir cosas. Por ejemplo, asuma un proyecto que le interese y requiera un  algoritmo de IA simple, y cree ese algoritmo desde cero. Puede haber una curva de aprendizaje, pero aprenderá mucho en el camino y el beneficio a largo plazo será significativo.
 
 > [Sean Hinton](https://twitter.com/SkyHiveCEO){:target="_blank"},  SkyHive
 
-7. **Aprende cómo la visión humana y la programación de computadoras se entrecruzan**
+**7. Aprende cómo la visión humana y la programación de computadoras se entrecruzan**
 
 Para ser un desarrollador de IA fuerte, debe tener una base sólida en estadística y ciencia de datos. Para programar lenguajes que sean efectivos dentro de la IA debes saber más que las matemáticas básicas y ser capaz de interpretar los datos disponibles. Debes poder combinar la programación de computadora con la visión humana para tener éxito en el desarrollo de inteligencia artificial.
 
 > [Jared Weitz](https://twitter.com/JaredWeitz){:target="_blank"},  United Capital Source Inc.
 
-8. **Aprende a reunir los datos correctos**
+**8. Aprende a reunir los datos correctos**
 
 La IA es excelente para procesar grandes cantidades de datos a la vez. Cuando esté pensando en crear software de IA, piense en tareas que requieren puntos de datos como el servicio al cliente y el marketing y cree un software que haga que las tareas con muchos datos sean rápidas y fáciles.
 
 > [Syed Balkhi](https://twitter.com/syedbalkhi){:target="_blank"},  WPBeginner
 
-9. **Únete a las comunidades en línea**
+**9. Únete a las comunidades en línea**
 
 [Kaggle](https://www.kaggle.com/){:target="_blank"} es una comunidad en línea para estudiantes y científicos de datos. La plataforma permite a los usuarios encontrar y publicar conjuntos de datos, construir modelos en un entorno de ciencia de datos basado en la web, comunicarse con otros ingenieros de aprendizaje automático y más. Es una excelente manera de aprender de otros en el campo e incluso puedes participar en competencias para mejorar tus habilidades.
 
 > [Stephanie Wells](https://twitter.com/thestephwells){:target="_blank"},  Formidable Forms
 
-10. **Familiarízate con los diferentes tipos de  inteligencia**
+**10. Familiarízate con los diferentes tipos de  inteligencia**
 
 La inteligencia artificial tiene tantos sectores diferentes que puedes estudiar que campo es mejor elegir, con qué apartado comenzar antes de sumergirte y sentirte abrumado. Haz una investigación sobre los diferentes tipos para que puedas aprender paso a paso y evitar el agotamiento, ya que hay mucho que aprender.
 
 > [Chris Christoff](https://twitter.com/chriscct7){:target="_blank"},  MonsterInsights
 
-11 . **Ten expectativas razonables**
+**11. Ten expectativas razonables**
 
 Hoy en día, hay un gran despliegue publicitario en torno al desarrollo de IA que está causando que las personas exageren su potencial actual. Aunque es una frontera muy emocionante para el desarrollo de software y los negocios, cualquiera que busque aprender más sobre esta  tecnología  descubrirá rápidamente sus limitaciones. Es  importante  abordar este tema con expectativas razonables si no deseas perder el interés rápidamente.
 
