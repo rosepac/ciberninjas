@@ -3,9 +3,9 @@
 author_profile: true
 title: "▷ Open AI, comienza a usar PyTorch como framework principal"
 description: >-
-  \U0001F916 Estamos estandarizando el framework de aprendizaje profundo de OpenAI: PyTorch. En el pasado, implementamos proyectos en muchos frameworks dependientes de la inteligencia artificial..
+  🤖 Estamos estandarizando el framework de aprendizaje profundo de OpenAI: PyTorch. En el pasado, implementamos proyectos en muchos frameworks dependientes de la inteligencia artificial..
 excerpt: >-
-  \U0001F916 Estamos estandarizando el framework de aprendizaje profundo de OpenAI: PyTorch. En el pasado, implementamos proyectos en muchos frameworks dependientes de la inteligencia artificial..
+  🤖 Estamos estandarizando el framework de aprendizaje profundo de OpenAI: PyTorch. En el pasado, implementamos proyectos en muchos frameworks dependientes de la inteligencia artificial..
 published: true
 comments: true
 date: 2020-02-02 02:30:12
