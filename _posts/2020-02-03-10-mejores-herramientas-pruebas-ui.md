@@ -13,7 +13,7 @@ last_modified_at:
 header:
   teaser: https://i.ibb.co/tHQsW8r/ui-testing.jpg
 permalink: /10-mejores-herramientas-pruebas-ui/
-canonical_URL: https://ciberninjas.com/11-mejores-herramientas-pruebas-ui/
+canonical_URL: https://ciberninjas.com/10-mejores-herramientas-pruebas-ui/
 classes: wide
 tags:
 - Pruebas
@@ -39,17 +39,19 @@ Enumeraré las herramientas de prueba más comunes y populares, qué caracterís
 
 La lista a continuación muestra las herramientas de automatización de UI más comunes utilizadas para las pruebas de regresión y automatización de pruebas funcionales (sin orden particular), sus descripciones, características, y alguos pros y contras.
 
-* [Selenium](/11-mejores-herramientas-pruebas-ui/#selenium)
-* [UFT / QTP](/11-mejores-herramientas-pruebas-ui/#uft-qtp)
-* [Protactor](/11-mejores-herramientas-pruebas-ui/#protactor)
-* [Appium](/11-mejores-herramientas-pruebas-ui/#appium)
-* [Winium](/11-mejores-herramientas-pruebas-ui/#winium)
-* [WinAppDriver](/11-mejores-herramientas-pruebas-ui/#winappdriver)
-* [MS UI](/11-mejores-herramientas-pruebas-ui/#ms-ui)
-* [Test Complete](/11-mejores-herramientas-pruebas-ui/#test-complete)
-* [Katalon Studio](/11-mejores-herramientas-pruebas-ui/#katalon-studio)
-* [Xamarin](/11-mejores-herramientas-pruebas-ui/#xamarin)
-* [Otros](/11-mejores-herramientas-pruebas-ui/#otros)
+## Herramientas
+
+* [Selenium](/10-mejores-herramientas-pruebas-ui/#selenium)
+* [UFT / QTP](/10-mejores-herramientas-pruebas-ui/#uft-qtp)
+* [Protactor](/10-mejores-herramientas-pruebas-ui/#protactor)
+* [Appium](/10-mejores-herramientas-pruebas-ui/#appium)
+* [Winium](/10-mejores-herramientas-pruebas-ui/#winium)
+* [WinAppDriver](/10-mejores-herramientas-pruebas-ui/#winappdriver)
+* [MS UI](/10-mejores-herramientas-pruebas-ui/#ms-ui)
+* [Test Complete](/10-mejores-herramientas-pruebas-ui/#test-complete)
+* [Katalon Studio](/10-mejores-herramientas-pruebas-ui/#katalon-studio)
+* [Xamarin](/10-mejores-herramientas-pruebas-ui/#xamarin)
+* [Otros](/10-mejores-herramientas-pruebas-ui/#otros)
 
 ## Selenium
 
@@ -77,7 +79,7 @@ Selenium WebDriver es el componente principal de esta oferta, pero también exis
 * Al igual que con otras ofertas de código abierto, la herramienta es compatible con las comunidades y no con una empresa, por lo que es posible que los errores no se solucionen de inmediato.
 * En general, requiere más habilidades de programación que UFT e incluso CodedUi (porque CodedUI tiene algunas características IDE que lo ayudan a editar scripts).
 
-[⬇ Descargar Selenium](https://www.seleniumhq.org/projects/webdriver/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar Selenium](https://www.seleniumhq.org/projects/webdriver/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## UFT / QTP
 
@@ -103,7 +105,7 @@ Quick Test Professional (QTP) ahora llamado United Functional Testing (UFT) fue 
 * Basado en tecnología antigua: VBScript, que es un lenguaje que no es OOP. ActiveX, etc.
 * Originalmente no se diseñó para la ejecución remota o en paralelo múltiple. Es posible ahora, pero aún no es un proceso sencillo.
 
-[⬇ Descargar UFT](https://software.microfocus.com/en-us/products/unified-functional-automated-testing/overview){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar UFT](https://software.microfocus.com/en-us/products/unified-functional-automated-testing/overview){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## Protactor
 
@@ -115,7 +117,7 @@ A tener en cuenta:
 
 Protector es un proyecto comunitario en evolución, la mayoría de la documentación existente es obsoleta, por lo que debe resolver los problemas por sí mismo la mayor parte del tiempo.
 
-[⬇ Instalar Protactor](http://www.protractortest.org/#/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Instalar Protactor](http://www.protractortest.org/#/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## Appium
 
@@ -127,7 +129,7 @@ A tener en cuenta:
 
 La automatización de la interfaz de usuario móvil tiene una configuración inicial más compleja, debe poder instalar y configurar los SDK del sistema operativo móvil, descargar y configurar emuladores de dispositivos, tener una cuenta de desarrollador con iOS, poder aprovisionar el código, etc. Esto es cierto para todas las pruebas móviles no solo para Appium (por ejemplo, la prueba de interfaz de usuario Xamarin tienen los mismos obstáculos iniciales).
 
-[⬇ Descargar Appium](http://appium.io/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar Appium](http://appium.io/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## Winium
 
@@ -139,7 +141,7 @@ A tener en cuenta:
 
 Winium es un proyecto reciente y no es tan maduro como otras ofertas de automatización de la interfaz de usuario de escritorio, la gente se queja de tener problemas con la API y tener que recurrir a una solución híbrida (por ejemplo, mezclarla con CodedUI).
 
-[⬇ Descargar Winium](https://github.com/2gis/Winium.Desktop#winium-for-desktop){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar Winium](https://github.com/2gis/Winium.Desktop#winium-for-desktop){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## WinAppDriver
 
@@ -164,7 +166,7 @@ Ambas tecnologías están ahora bajo el capó de WinAppDriver, por lo que WinApp
 
 Microsoft Automatización Framework UIA es un framework de accesibilidad para fines de desarrollo. Es un componente que forma parte del framework CodedUI del que ya hemos hablado con anterioridad, pero centrado en aplicaciones de escritorio heredadas. A veces es más fácil usar directamente UIA sobre el patrón de accesibilidad apropiado para impulsar acciones sobre los controles de UI.
 
-[⬇ Descargar MS UI](https://docs.microsoft.com/en-us/dotnet/framework/ui-automation/ui-automation-overview){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar MS UI](https://docs.microsoft.com/en-us/dotnet/framework/ui-automation/ui-automation-overview){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## Test Complete
 
@@ -184,7 +186,7 @@ TestComplete es una herramienta de automatización de interfaz de usuario patent
 * Solo funciona con Windows. No existe soporte para otros sistemas operativos.
 * Como se comenta con anterioridad, el precio.
 
-[⬇ Descargar Test Complete](https://smartbear.com/product/testcomplete/overview/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar Test Complete](https://smartbear.com/product/testcomplete/overview/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## Katalon Studio
 
@@ -202,7 +204,7 @@ Relativamente, este es un recién llegado puesto que existe desde tan solo desde
 
 * Alto costo.
 
-[⬇ Descargar Katalon Studio](https://www.katalon.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar Katalon Studio](https://www.katalon.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## Xamarin Test Studio
 
@@ -222,7 +224,7 @@ Además, no tiene que ser Xamarin UI Tests, también puede ser Appium o Expresso
 
 VS App Center tiene algunas características interesantes, como informes, paneles, seguimiento de requisitos, conjuntos de cambios, compilaciones, implementaciones, etc.
 
-[⬇ Descargar Xamarin](https://www.visualstudio.com/app-center/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar Xamarin](https://www.visualstudio.com/app-center/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## Otros
 
@@ -236,7 +238,7 @@ Hay muchos otros proyectos basados en Selenium que son populares, como por ejemp
 
 Versión de Selenium específicamente desarrollada para Android. Con Slendroid podrás probar la automatización para tus aplicaciones de Android nativas o híbridas y la web móvil con Selendroid.
 
-[⬇ Descargar Selendroid](http://selendroid.io/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar Selendroid](http://selendroid.io/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## Robotium
 
@@ -244,7 +246,7 @@ Versión de Selenium específicamente desarrollada para Android. Con Slendroid p
 
 Robotium es un framework de automatización de pruebas de Android que tiene soporte completo para aplicaciones nativas e híbridas. Robotium facilita la escritura de pruebas de IU de caja negra automáticas potentes y robustas para aplicaciones de Android. Con el soporte de Robotium, los desarrolladores de casos de prueba pueden escribir escenarios de prueba de aceptación de funciones, sistemas y usuarios, abarcando múltiples actividades de Android.
 
-[⬇ Descargar Robotium](https://www.visualstudio.com/app-center/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar Robotium](https://www.visualstudio.com/app-center/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ### Tosca UI
 
@@ -256,7 +258,7 @@ Algunas características clave que aprenderá incluyen:
 * Pruebas de rendimiento basadas en el navegador
 * El soporte más completo para tecnologías y interfaces de usuario de SAP
 
-[⬇ Descargar Tosca UI](https://www.tricentis.com/resource-assets/tosca-automate-ui/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar Tosca UI](https://www.tricentis.com/resource-assets/tosca-automate-ui/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ### Rational Quality Manager de IBM
 
@@ -264,7 +266,13 @@ Algunas características clave que aprenderá incluyen:
 
 Rational Quality Manager es una herramienta colaborativa basada en la web que ofrece funciones integrales de planificación de pruebas, construcción de pruebas y administración de artefactos de prueba durante todo el ciclo de vida de desarrollo del software.
 
-[⬇ Descargar RQM](https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.2/com.ibm.rational.test.qm.doc/topics/c_qm_top.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar RQM](https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.2/com.ibm.rational.test.qm.doc/topics/c_qm_top.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/10-mejores-herramientas-pruebas-ui/#herramientas){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 **Fuente**\: [Comunidad Microsoft](https://techcommunity.microsoft.com/t5/testingspot-blog/what-are-the-best-ui-test-automation-tools/ba-p/367781){:target="_blank"}
 {: .notice--info}
+
+[👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
+[📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🛒 Catálogo de Libros 👨‍💻](/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
