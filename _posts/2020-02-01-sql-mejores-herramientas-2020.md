@@ -28,15 +28,11 @@ Aquí tenemos una brillante lista de las mejores y más recomendadas herramienta
 
 ## Herramientas
 
-[👉 Analizador](/sql-mejores-herramientas-2020/#analizador-de-rendimiento-de-la-base-de-datos){: .btn .btn--warning .btn--large} [⬇ Descarga 1](https://www.solarwinds.com/database-performance-analyzer/registration?){: .btn .btn--inverse .btn--large}{:target="_blank"} [⬇ Descarga 2](https://www.solarwinds.com/free-tools/database-performance-analyzer-free){: .btn .btn--inverse .btn--large}{:target="_blank"}
-
-[👉 SQLGrease](/sql-mejores-herramientas-2020/#sqlgrease){: .btn .btn--warning .btn--large} [⬇ Descargar](https://sqlgrease.com/Home/PricingOptions?){: .btn .btn--inverse .btn--large}{:target="_blank"}
-
-[👉 Foglight](/sql-mejores-herramientas-2020/#foglight){: .btn .btn--warning .btn--large} [⬇ Descargar](https://www.quest.com/register/55612/){: .btn .btn--inverse .btn--large}{:target="_blank"}
-
-[👉 RedGate](/sql-mejores-herramientas-2020/#redgate){: .btn .btn--warning .btn--large} [⬇ Descargar](https://www.red-gate.com/products/dba/sql-monitor/entrypage/improve-your-deployment-performance){: .btn .btn--inverse .btn--large}{:target="_blank"}
-
-[👉 Melissa](/sql-mejores-herramientas-2020/#melissa){: .btn .btn--warning .btn--large} [⬇ Descargar](https://www.melissa.com/pricing/){: .btn .btn--inverse .btn--large}{:target="_blank"}
+* [Analizador](/sql-mejores-herramientas-2020/#analizador-de-rendimiento-de-la-base-de-datos)
+* [SQLGrease](/sql-mejores-herramientas-2020/#sqlgrease)
+* [Foglight](/sql-mejores-herramientas-2020/#foglight)
+* [RedGate](/sql-mejores-herramientas-2020/#redgate)
+* [Melissa](/sql-mejores-herramientas-2020/#melissa)
 
 ## Analizador de rendimiento de la base de datos
 
