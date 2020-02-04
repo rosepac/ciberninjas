@@ -29,7 +29,7 @@ Correo electrónico: rosepac21@gmail.com Número de teléfono: +34 644 72 68 60
 ## Qué datos personales recogemos y por qué los recogemos
 
 Esta página web no recoge dato personal alguno de sus usuarios.
-<!-- Código de ShareASale: GDDXBMHV192290748 -->
+
 ## Política de Comentarios
 
 La web utiliza el servicio de comentarios Disqus, por tanto se usan las 'cookies' que el servicio requiere; si deseas informarte más concretamente sobre su funcionamiento puedes leer aquí las políticas de privacidad completas del servicio.
@@ -64,6 +64,10 @@ Si fueses usuario de algún otro navegador la metodología suele ser similar o t
 ## Venta de Productos
 
 Respecto al apartado de la tienda, desde esta página web no se realizan ventas directas. Utilizamos enlaces de afiliados de Amazon y otras múltiples empresas, desde las que se realizan las distintas compras; y se usarán las COOKIES necesarias para el funcionamiento correcto de los productos mostrados y expuestos a la venta.
+
+### Código ShareASale
+
+* GDDXBMHV192290748
 
 ## Formularios de Contacto
 
