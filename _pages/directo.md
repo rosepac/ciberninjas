@@ -32,6 +32,11 @@ classes: wide
 #  caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
 ---
 
+## ⭐ Destacados
+
+[💻 Software Libre](https://twitter.com/ciberninjas/lists/software-libre1){: .btn .btn--inverse .btn--large}{:target="_blank"}
+ [💻 Devs. Proyectos Importantes](https://twitter.com/ciberninjas/lists/devs-de-proyectos){: .btn .btn--inverse .btn--large}{:target="_blank"}
+
 ## Desarrollo & Diseño Web
 
 [👩‍🎨 Desarrolladores / Front End Españoles 👨‍🎨](https://twitter.com/ciberninjas/lists/dw){: .btn .btn--inverse .btn--large}{:target="_blank"}
@@ -72,7 +77,7 @@ classes: wide
 
 ## 👩‍💻 Software
 
-[Editores de Código ✍](https://twitter.com/ciberninjas/lists/editores-de-c-digo1){: .btn .btn--inverse .btn--large}{:target="_blank"}
+[Editores de Código ✍](https://twitter.com/ciberninjas/lists/editores-de-c-digo1){: .btn .btn--inverse .btn--large}{:target="_blank"} 
 
 [🎮 Novedades de los Mejores Videojuegos](https://twitter.com/ciberninjas/lists/videojuegos1){: .btn .btn--inverse .btn--large}{:target="_blank"}
 

@@ -6,6 +6,7 @@ excerpt: "🔠 Glosario Tecnológico de los Ciberninjas"
 collection: glosario
 permalink: /glosario/
 author_profile: false
+classes: wide
 sort_by: date # (default) title
 sort_order: reverse
 sidebar:

@@ -29,7 +29,7 @@ Correo electrónico: rosepac21@gmail.com Número de teléfono: +34 644 72 68 60
 ## Qué datos personales recogemos y por qué los recogemos
 
 Esta página web no recoge dato personal alguno de sus usuarios.
-
+<!-- Código de ShareASale: GDDXBMHV192290748 -->
 ## Política de Comentarios
 
 La web utiliza el servicio de comentarios Disqus, por tanto se usan las 'cookies' que el servicio requiere; si deseas informarte más concretamente sobre su funcionamiento puedes leer aquí las políticas de privacidad completas del servicio.
@@ -56,6 +56,7 @@ En la actualidad. La web se ejecuta en una versión AMP a tiempo completo buscan
 En principio, los servicios que volverían a funcionar si la web pasase de nuevo a funcionar a formato completo serían: Facebook y Twitter. Si deseas tener más conocimiento de la política de cookies que seguiría Facebook dentro de mi web, puedes informarte aquí. Si deseas tener más conocimiento de la política de cookies que seguiría Twitter  dentro de mi web, puedes informarte aquí.
 
 ### ¿Cómo eliminar las Cookies?
+
 Sigue paso a paso la guía de [este enlace](https://www.cookiesandyou.com/disable-cookies) si deseas desactivar o eliminar por completo las cookies que este sitio web ha guardado sobre tu navegador.
 
 Si fueses usuario de algún otro navegador la metodología suele ser similar o también puedes dar uso de un Software Gratuito que limpie 'cookies' mi recomendación es: [BleachBit](https://www.bleachbit.org/)
@@ -78,11 +79,11 @@ Es posible que estos sitios web recopilen información sobre usted, utilicen 'co
 
 Puede solicitar que borremos cualquier información personal que creas que tengamos. Esto no incluye ningún dato que estemos obligados a conservar con fines administrativos, legales o de seguridad.
 
-Este apartado, de 'Política de Privacidad' se mantendrá en constante actualización.
+Este apartado, de 'Política de Privacidad' se mantendrá en actualización.
 
 ## Atribución y Licencias
 
-Las imágenes incluidas a excepción de que en la página concreta indique lo contrario; son o bien imágenes de repositorios gratuitos, o bien capturas de pantalla realizadas personalmente por Pablo Álvarez Correderea, o bien imágenes o capturas editaras personalmente por el autor del blog.
+Las imágenes incluidas a excepción de que en la página concreta indique lo contrario; son o bien imágenes de repositorios gratuitos, o bien capturas de pantalla realizadas personalmente por Pablo Álvarez Correderea, o bien imágenes o capturas editadas personalmente por el autor del blog.
 
 Los logos; los logos antiguos han sido extraídos de repositorios gratuitos de imágenes. El nuevo logo, es propiedad de una fuente tipográfica incluida por Microsoft en Windows; y que más tarde, en otras actualizaciones han modificado.
 

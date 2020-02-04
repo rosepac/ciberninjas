@@ -20,6 +20,14 @@ En esta página, encontrarás una descripción general de todos las aplicaciones
 
 ¡Espero que mis Ciberninjas lo disfruten!
 
+## Buscadores
+
+DuckDuckGo + !g, Qwant, Yandex, Google
+
+## Correo Electrónico
+
+ThunderBird, para escritorio. FairCode para Android: https://email.faircode.eu/
+
 ## Lectura
 
 * [FeedReader](http://www.feedreader.com/)
@@ -73,6 +81,8 @@ Personalmente no le he dado uso, puesto que mis tareas no son tan metódicas ni 
 {: .notice--warning}
 
 ## Meditando
+
+* [Sonidos Ambiente con Noize](https://noize.ml/)
 
 ## Control del Tiempo
 
