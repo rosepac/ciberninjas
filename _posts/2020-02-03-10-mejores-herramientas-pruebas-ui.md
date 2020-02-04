@@ -26,7 +26,7 @@ categories:
 - Interfaz de Usuario
 
 ---
-
+<!-- GDDXBMHV192290748 -->
 ![](https://i.ibb.co/tHQsW8r/ui-testing.jpg "Las 11 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020")
 
 ¿Eres un profesional de pruebas de software? Si es así, ¿Qué herramienta de pruebas utilizas? Como la mayoría de las personas cuando comienzan en el control de calidad, es posible que tenga que dominar solo una o dos herramientas de prueba porque está restringido a lo que se está utilizando en su empresa, o lo que es mejor para probar una aplicación específica o tal vez porque está alineada mejor con la pila de herramientas ALM de sus equipos.
