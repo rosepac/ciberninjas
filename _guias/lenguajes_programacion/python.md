@@ -22,7 +22,7 @@ header:
       url: "/python-recursos/"
 ---
 
-[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién usa Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#librerías-de-python){: .btn .btn--inverse .btn--large}
+[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién usa Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large}
 <!-- [](){: .btn .btn--inverse .btn--large} -->
 
 
@@ -198,7 +198,7 @@ MorePath es un micro framework web enfocado en crear aplicaciones web o API´s. 
 
 Sanic es un framework web de Python construido en uvloop y diseñado para respuestas HTTP rápidas a través del manejo de solicitudes asíncronas. El objetivo del proyecto es proporcionar una forma simple de poner en funcionamiento un servidor HTTP de alto rendimiento que sea fácil de construir, expandir y, en última instancia, escalar.
 
-[🐍 Framework Sanic Github 🐍](https://github.com/huge-success/sanic#sanic--build-fast-run-fast){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🐍 Framework Sanic Github 🐍](https://github.com/huge-warning/sanic#sanic--build-fast-run-fast){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🐍 Documentación Sanic 🐍](https://sanic.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
@@ -611,9 +611,9 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 * [Tessagon](https://github.com/cwant/tessagon#tessagon-tessellation--tiling-with-python){:target="_blank"} \ Teje tus variedades 2D favoritas con triángulos, hexágonos y otros patrones interesantes.
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
-[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--success .btn--large .align-center}
-[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--success .btn--large .align-center}
-[🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn--success .btn--large .align-center}
+[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--warning .btn--large .align-center}
+[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--warning .btn--large .align-center}
+[🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn--warning .btn--large .align-center}
 [🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Relacionados
