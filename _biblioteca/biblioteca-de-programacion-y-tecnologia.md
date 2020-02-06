@@ -486,7 +486,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## Docker <i class="fab fa-docker"></i>
 
-* [Chuleta sobre Docker](https://leanmind.es/es/blog/infografia-de-docker/) (HTML) [https://leanmind.es/docker-cheatsheet.pdf](PDF) por [@YodraLopez](https://twitter.com/yodralopez){:target="_blank"}
+* [Chuleta sobre Docker](https://leanmind.es/es/blog/infografia-de-docker/) (HTML) ([PDF](https://leanmind.es/docker-cheatsheet.pdf){:target="_blank"}) por [@YodraLopez](https://twitter.com/yodralopez){:target="_blank"}
 * [Comandos de Docker](https://criskrus.github.io/docker-formation/){:target="_blank"} (Github) \ ([Fuente](https://github.com/CrisKrus/docker-formation#docker-formation){:target="_blank"})
 * [Docker](https://github.com/brunocascio/docker-espanol#docker){:target="_blank"} (Github)
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf){:target="_blank"} (PDF)
@@ -600,6 +600,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## HTML / CSS <i class="fab fa-html5"></i> <i class="fab fa-css3-alt"></i> <i class="fab fa-sass"></i>
 
+* [Chuleta CSS3](https://lenguajecss.com/){:target="_blank"} (HTML) ([PDF](https://www.emezeta.com/doc/css3-cheatsheet/css3-cheatsheet.php){:target="_blank"})
 * [CSS avanzado](https://librosweb.es/libro/css_avanzado){:target="_blank"} Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado){:target="_blank"}
 * [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado){:target="_blank"} (PDF)
 * [Diseño de Interfaces Web](https://interfacesweb.github.io/unidades/){:target="_blank"} (HTML)
