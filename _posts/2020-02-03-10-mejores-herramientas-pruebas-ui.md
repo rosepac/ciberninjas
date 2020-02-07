@@ -26,8 +26,7 @@ categories:
 - Interfaz de Usuario
 
 ---
-<!-- GDDXBMHV192290748 -->
-![](https://i.ibb.co/tHQsW8r/ui-testing.jpg "Las 11 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020")
+![Las 10 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020](https://i.ibb.co/tHQsW8r/ui-testing.jpg "Las 10 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020")
 
 ¿Eres un profesional de pruebas de software? Si es así, ¿Qué herramienta de pruebas utilizas? Como la mayoría de las personas cuando comienzan en el control de calidad, es posible que tenga que dominar solo una o dos herramientas de prueba porque está restringido a lo que se está utilizando en su empresa, o lo que es mejor para probar una aplicación específica o tal vez porque está alineada mejor con la pila de herramientas ALM de sus equipos.
 
@@ -55,7 +54,7 @@ La lista a continuación muestra las herramientas de automatización de UI más 
 
 ## Selenium
 
-![](https://i.ibb.co/pznq8Sz/selenium-logo-large.png "Selenium logotipo")
+![Selenium logotipo visto en Ciberninjas](https://i.ibb.co/pznq8Sz/selenium-logo-large.png "Selenium logotipo")
 
 Selenium ha existido desde 2004, pero no puede compararse como producto similar a UFT hasta 2008-2010. Se ha convertido progresivamente en el estándar de la industria desde entonces debido a su flexibilidad para ser utilizado en varios IDE de terceros y al uso de algunos de los lenguajes de programación modernos más populares. Es compatible con la mayoría de los navegadores web y sistemas operativos, pero no se puede usar para pruebas de escritorio.
 
@@ -83,7 +82,7 @@ Selenium WebDriver es el componente principal de esta oferta, pero también exis
 
 ## UFT
 
-![](https://i.ibb.co/jbR343M/Micro-Focus-2017-Brand-Cutdown-AMC-01.jpg)
+![United Functional Testing logotipo visto en Ciberninjas](https://i.ibb.co/jbR343M/Micro-Focus-2017-Brand-Cutdown-AMC-01.jpg "United Functional Testing logotipo")
 
 Quick Test Professional (QTP) ahora llamado United Functional Testing (UFT) fue creado originalmente por Mercury Interactive en los años 90 y se convirtió en el estándar de facto de la industria en ese entonces. Mercury fue adquirido por HP en 2006 y más tarde HP vendió su división de software a Micro Focus en 2016. Por lo tanto, ahora se llama Micro-Focus UFT y sigue siendo una de las herramientas más utilizadas. Sin embargo, ha perdido su posición de líder ante Selenium en los últimos años. UFT usa VBScript como lenguaje de script, es compatible con Web y Desktop y tiene protocolos que facilitan el script de algunas aplicaciones CRM / ERP como SAP y Oracle.
 
@@ -109,7 +108,7 @@ Quick Test Professional (QTP) ahora llamado United Functional Testing (UFT) fue 
 
 ## Protactor
 
-![](https://i.ibb.co/7pSZtd7/0-6-Ibx8-TM6-Ei8vq-Z3n.jpg)
+![Protactor logotipo oficial, visto en Ciberninjas](https://i.ibb.co/7pSZtd7/0-6-Ibx8-TM6-Ei8vq-Z3n.jpg "Protactor logotipo oficial, visto en Ciberninjas")
 
 Protractor es un framework de pruebas de extremo a extremo para aplicaciones Angular y AngularJS, se basa y se ejecuta sobre Selenium. Está diseñado específicamente para identificar elementos web de JavaScript y AngularJS, ya que Selenium tiene problemas con estos elementos y sus atributos personalizados. También gestiona las esperas automáticamente, algo que el plan Selenium también tiene dificultades para hacer con Angular JS.
 
@@ -121,7 +120,7 @@ Protector es un proyecto comunitario en evolución, la mayoría de la documentac
 
 ## Appium
 
-![](https://i.ibb.co/ftdby62/Appium-Logo.jpg)
+![Appium logotipo oficial, visto en Ciberninjas](https://i.ibb.co/ftdby62/Appium-Logo.jpg "Appium logotipo oficial, visto en Ciberninjas")
 
 Appium es una herramienta de automatización de interfaz de usuario basada en Selenium para aplicaciones móviles, nativas o híbridas en iOS y Android. Este es un proyecto bastante desarrollado que tiene su propio IDE que incluye un emulador, un inspector de elementos de la interfaz de usuario, etc., aún necesitaría escribir y editar sus scripts en su propio IDE (VS, Eclipse, etc.). Es compatible con Selenium Grid, por lo que es posible la ejecución de pruebas paralelas en hosts remotos.
 
@@ -133,7 +132,7 @@ La automatización de la interfaz de usuario móvil tiene una configuración ini
 
 ## Winium
 
-![](https://i.ibb.co/f0cnbHf/windows-phone-and-desktop-test-automation-london-september-2015-1-638.jpg)
+![Winium logotipo ofificial, visto en Ciberninjas](https://i.ibb.co/f0cnbHf/windows-phone-and-desktop-test-automation-london-september-2015-1-638.jpg "Winium logotipo ofificial, visto en Ciberninjas")
 
 Winium también basado en Selenium es un marco de automatización de interfaz de usuario diseñado para probar aplicaciones de escritorio en Windows. Al igual que el selenio, es de código abierto, compatible con la comunidad (que tiene sus propios pros y contras como se indicó anteriormente). Es compatible con WinForms, WPF, aplicaciones universales (Tienda Windows) e incluso aplicaciones Silverlight. Una limitación principal es que solo admite trabajar sobre Windows 10.
 
