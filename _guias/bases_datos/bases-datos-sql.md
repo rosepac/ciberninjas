@@ -4,32 +4,29 @@ title: ▷ Aprender Bases de Datos desde Cero
 description: "📁 Aprende desde cero todo lo que debes saber"
 excerpt: "📁 Aprende desde cero todo lo que debes saber"
 published: true
-date: 2020-02-07T19:10:00.000+01:00
 last_modified_at: 
 author_profile: true
 comments: true
 classes: wide
+date: 2020-02-07T19:10:00
 permalink: /bases-datos/
 canonical_URL: https://ciberninjas.com/bases-datos/
 header:
-  teaser: /assets/images/paginas/sql-imagen-ciberninjasx1280.png
-  overlay_image: /assets/images/paginas/sql-imagen-ciberninjasx1280.png
-  overlay_filter: 0.2
+  teaser: "/assets/images/paginas/sql-imagen-ciberninjasx1280.png"
+  overlay_image: "/assets/images/paginas/sql-imagen-ciberninjasx1280.png"
+  overlay_filter: 0.1
   image_description: "Logotipo de SQL visto en Ciberninjas"
   image_alt: "Logotipo de SQL visto en Ciberninjas"
   caption: "Logotipo"
   actions:
     - label: "Aprender BBDD"
       url: "/bases-datos/"
-
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 
 ---
-<!-- Blogs -->
-<!-- https://blog.sqlauthority.com/2020/01/24/sql-server-tools-i-use-and-recommend-updated-january-2020/  -->
 
 ## Sistemas de Bases de Datos SQL
 
@@ -43,6 +40,8 @@ Pero antes de aprovechar un sistema de administración de bases de datos, debe e
 
 👷‍♂️ Contenido en construcción! El contenido puede contener errores, sobre todo de diseño.. Además de encontrarse pendiente una mayor organización del contenido y la inserción de los botones de navegación 👷‍♂️
 {: .notice--warning}
+
+<!-- https://blog.sqlauthority.com/2020/01/24/sql-server-tools-i-use-and-recommend-updated-january-2020/  -->
 
 * ¿Cuál es el mejor software de base de datos?
 * ¿Qué es el software de base de datos?
@@ -69,7 +68,7 @@ Enlaces: [Sitio web oficial de ](https://prestodb.io/)  [Facebook ](https://www.
 
 BlazingSQL es un motor SQL acelerado por GPU creado sobre el ecosistema RAPIDS. RAPIDS se basa en el formato de memoria en columna de Apache Arrow, y cuDF es una biblioteca de GPU DataFrame para cargar, unir, agregar, filtrar y manipular datos.
 
-- [Blazing SQL Documentación](https://docs.blazingdb.com/docs/blazingsql)
+* [Blazing SQL Documentación](https://docs.blazingdb.com/docs/blazingsql)
 <!-- Comparativas: https://stackshare.io/search/q=similar%20sql%20oracle -->
 
 ## Apache Drill

@@ -7,17 +7,17 @@ published: true
 author_profile: true
 comments: true
 classes: wide
-date: 2020-02-07T19:16:00.000+01:00
+date: 2020-02-07T19:16:00
 last_modified_at: 
 permalink: /bases-datos-recursos/
 canonical_URL: https://ciberninjas.com/bases-datos-recursos/
 header:
-  teaser: /assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png
-  overlay_image: /assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png
-  overlay_filter: 0.2
+  teaser: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
+  overlay_image: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
+  overlay_filter: 0.1
   image_description: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
   image_alt: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
-  caption: "Créditos: Unsplash"
+  caption: "Créditos\: Unsplash"
   actions:
     - label: "Aprender BBDD"
       url: "/bases-datos/"
@@ -40,7 +40,7 @@ toc_sticky: true
 ## SQL Lite
 
 https://sqlitestudio.pl/
------
+
 https://3palmeras.wordpress.com/2018/02/17/sqlite-en-la-practica-2018/
 
 ## Blazing SQL
@@ -49,5 +49,3 @@ https://3palmeras.wordpress.com/2018/02/17/sqlite-en-la-practica-2018/
 - [Hacer una base de datos uniendo archivos CSV, con el uso de XSV](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/){:target="_blank"}
 
 ## Artículos en Ingles
-
-* [](){:target="_blank"}
