@@ -74,6 +74,7 @@ sidebar:
 * [Bases de datos NoSq. Qué son y tipos que nos podemos encontrar](https://www.acens.com/wp-content/images/2014/02/bbdd-nosql-wp-acens.pdf){:target="_blank"} (PDF)
 * [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos){:target="_blank"} (PDF)
 * [Diseño e implementación de una base de datos relacional para la gestión de la red de bibliotecas.](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/13921/1/jordibs_TFC_0610.pdf){:target="_blank"} (PDF)
+* [Documentación de SQL Server 2017](https://docs.microsoft.com/es-es/sql/sql-server/sql-server-technical-documentation?view=sql-server-2017){:target="_blank"} (HTML) por Microsoft
 * [El lenguaje SQL](https://www.pdf-manual.es/bases-de-datos/18-lenguaje-sql.html){:target="_blank"} (HTML)
 * [El modelo relacional y el álgebra relacional](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/200/8/Bases%20de%20datos_M%C3%B3dulo2_El%20modelo%20relacional%20y%20el%20%C3%A1lgebra%20relacional.pdf){:target="_blank"} (PDF)
 * [Extracción de conocimiento en grandes bases de datos utilizando estrategias adaptativas](https://sedici.unlp.edu.ar/bitstream/handle/10915/35555/Documento_completo.pdf){:target="_blank"} (PDF)
@@ -100,6 +101,7 @@ sidebar:
 
 * [Comenzando con MongoDB](https://burgersbacon.gitbooks.io/mongo-db/content) (HTML) (2015)
 * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book){:target="_blank"}
+* [Manual de MongoDB](http://www.manualweb.net/mongodb/){:target="_blank"} (Descarga PDF)
 * [MongoDB en Castellano](https://leanpub.com/mongodbcastellano?){:target="_blank"} (Descarga PDF)
 * [MongoDB en Español](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content){:target="_blank"} (HTML) (2016)
 
