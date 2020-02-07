@@ -76,7 +76,7 @@ Ante todo esto, los principiantes suelen estar desconcertados con la pregunta de
 * La capa de acceso a la base de datos es algo inmadura.
 * El enhebrado no es bueno debido a GIL (Global Interpreter Lock).
 
-[⏩ Página Web de Python](https://www.python.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [🎓 Aprender Python](/python/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}  [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Python](https://www.python.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [🎓 Aprender Python](/python/){: .btn .btn--inverse .btn--large .align-center}  [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## Java
 
