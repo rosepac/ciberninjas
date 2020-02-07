@@ -75,6 +75,12 @@ Cualquier enfoque personalizado para la IA requerirá su propia programación y 
 
 * [Open CV](https://es.wikipedia.org/wiki/OpenCV)
 
+## Proyectos
+
+* [Soli](https://atap.google.com/soli/) \ Lector de gestos.
+
+<!-- Proyectos de Inteligencia Artificial relacionados con la fotografía https://www.dpreview.com/tag/artificial-intelligence -->
+
 ## Motores de Reconocimiento
 
 * [Terresact](https://github.com/tesseract-ocr/) Este paquete contiene un motor de OCR y un programa de línea de comandos - tesseract. Tesseract 4 agrega un nuevo motor de OCR basado en red neuronal..
