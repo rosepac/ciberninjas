@@ -1,16 +1,18 @@
 ---
-title: 👨‍💻 ▷ Jekyll, Aprender desde Cero
-description: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
-excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
-date: 2019-08-07T22:00:00.000+00:00
-last_modified_at: 2019-08-20T16:20:02-05:00
+title: ▷ Aprender Bases de Datos desde Cero
+description: "📁 Aprende desde cero todo lo que debes saber"
+excerpt: "📁 Aprende desde cero todo lo que debes saber"
+date: 2020-02-07T22:00:00.000+01:00
+last_modified_at: 
+author_profile: true
+classes: wide
 permalink: /bases-datos/
-published: false
+published: true
 header:
   teaser: https://i.ibb.co/Pr7SwXK/SQLpt1-1.jpg
   image: "https://i.ibb.co/Pr7SwXK/SQLpt1-1.jpg"
-  image_description: Jekyll, generador de sitios estáticos | Ciberninjas
-  caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"
+  image_description: SQL, visto en Ciberninjas
+  caption: 
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -19,57 +21,56 @@ toc_sticky: true
 <!-- Blogs -->
 <!-- https://blog.sqlauthority.com/2020/01/24/sql-server-tools-i-use-and-recommend-updated-january-2020/  -->
 
-## Artículos en Español
+👷‍♂️ Contenido en construcción! El contenido puede contener errores, sobre todo de diseño.. Además de encontrarse pendiente una mayor organización del contenido y la inserción de los botones de navegación 👷‍♂️
+{: .notice--warning}
 
-* SQL: [Conceptos Básicos](https://mulieres.com.mx/2018/03/01/sql-basico-conceptos-basicos/){:target="_blank"}, [Consultas Simples](https://mulieres.com.mx/2018/03/28/sql-basico-consultas-simples/){:target="_blank"}, [Consultas Multitablas](https://mulieres.com.mx/2018/04/30/sql-basico-consultas-multitablas/){:target="_blank"}, [Resumen de Consultas](https://mulieres.com.mx/2018/05/31/sql-basico-consultas-resumen/){:target="_blank"}, [Procedimientos Almacenados](https://mulieres.com.mx/2018/09/03/curso-sql-procedimientos-almacenados/){:target="_blank"}, [Triggers](https://mulieres.com.mx/2018/09/24/curso-sql-triggers/){:target="_blank"} por Mulieres Aequanimitas
+### Sistemas de Bases de Datos SQL
 
+Bien seas una pequeña empresa o una gran corporación, la transformación digital ha permitido a las organizaciones generar datos en grandes cantidades. Por ello, ahora las empresas están aprovechando el software de base de datos para optimizar sus datos y usarlos para todo tipo de propósitos útiles.
 
+Desde los datos de las transacciones de los clientes hasta los conocimientos de marketing, las organizaciones deben almacenar un montón de datos de manera organizada y garantizar su seguridad. Los sistemas de gestión de bases de datos están permitiendo a las empresas recopilar datos complejos y actualizar sus registros de manera eficiente. En general, el marketing de bases de datos conecta otras facetas del negocio: automatización, registros de clientes, generación de leads y, en última instancia, ventas.
 
-## Artículos en Ingles
+Además, las aplicaciones de bases de datos ayudan a poner a disposición de los interesados ​​relevantes datos y conocimientos complejos de manera simplificada.
 
+Pero antes de aprovechar un sistema de administración de bases de datos, debe elegir uno que funcione mejor para su negocio.
 
+* ¿Cuál es el mejor software de base de datos?
+* ¿Qué es el software de base de datos?
+* ¿Cuáles son los beneficios de usar software de base de datos?
+* ¿Cómo funciona el software de base de datos?
+* ¿Cómo se utiliza el software de base de datos?
+* Resumen Ejecutivo.
 
-* [](){:target="_blank"}
-* [](){:target="_blank"}
-* [](){:target="_blank"}
-* [](){:target="_blank"}
-* [](){:target="_blank"}
-
-
-## SQL Lite
-
-https://sqlitestudio.pl/
------
-https://3palmeras.wordpress.com/2018/02/17/sqlite-en-la-practica-2018/
-
-
-## 🕵️‍♂️ Enlaces por Investigar
+<!-- https://www.adamenfroy.com/database-software -->
 
 
 
 
 
 
-## ✍ Cómo Aprender SQL
 
 
+### Motores de Consulta SQL
 
-## 🔄 Plugins de Importación
+## Presto
 
+Presto es un motor de consulta ANSI SQL distribuido de código abierto para ejecutar consultas analíticas interactivas contra fuentes de datos de todos los tamaños, desde gigabytes hasta petabytes. Presto fue diseñado y escrito desde cero para el análisis interactivo mientras se escala al tamaño de organizaciones como Facebook.
 
+Facebook comenzó los esfuerzos de desarrollo en Presto en 2012, y luego se unieron otros usuarios importantes de Presto, incluidos Netflix, Airbnb y Groupon. En junio de 2015, el líder de almacenamiento de datos Teradata se unió a la comunidad de Presto, prometiendo una hoja de ruta de características de código abierto 100% y ofreciendo soporte empresarial para los usuarios de Presto.
 
-## 🔗 Enlaces Externos
+Enlaces: [Sitio web oficial de ](https://prestodb.io/)  [Facebook ](https://www.facebook.com/prestodb)  [GitHub](https://github.com/prestodb/presto)
 
+## [Blazing SQL](https://www.blazingsql.com){:target="_blank"} Motor SQL de Alto Rendimiento en GPUS
 
-### Enlaces de Chuletas
+BlazingSQL es un motor SQL acelerado por GPU creado sobre el ecosistema RAPIDS. RAPIDS se basa en el formato de memoria en columna de Apache Arrow, y cuDF es una biblioteca de GPU DataFrame para cargar, unir, agregar, filtrar y manipular datos.
 
+- [Blazing SQL Documentación](https://docs.blazingdb.com/docs/blazingsql)
+<!-- Comparativas: https://stackshare.io/search/q=similar%20sql%20oracle -->
 
+## Apache Drill
 
-POR INVESTIGAR
-{:notice-info}
+Motor de consultas SQL sin esquema para Hadoop, NoSQL y almacenamiento en la nube creado por la Apache Software Foundation.
 
+Apache Drill es un motor de consulta SQL sin esquema para Hadoop, NoSQL y Cloud Storage. El optimizador del almacén de datos de Drill reestructura automáticamente un plan de consulta para aprovechar las capacidades de procesamiento interno del almacén de datos. Además, Drill admite la localidad de datos, por lo que es una buena idea ubicar conjuntamente Drill y el almacén de datos en los mismos nodos.
 
-
-### 📹 Videotutoriales
-
-* [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso")
+Enlaces: [Sitio web oficial ](https://drill.apache.org/)  [Twitter ](https://twitter.com/apachedrill)  [GitHub](https://github.com/apache/drill/tree/1.16.0)
