@@ -26,12 +26,9 @@ header:
 
 ## Desarrollador web y multimedia
 
-El desarrollador web multimedia es el encargado de implementar o programar todo tipo de sistemas web basados en las especificaciones y diseños requiridos por cada empresa o proyecto; dentro de este mismo campo nos podremos encontrar las siguientes profesiones:
+El desarrollador web multimedia es el encargado de implementar o programar todo tipo de sistemas web basados en las especificaciones y diseños requiridos por cada empresa o proyecto; dentro de este mismo campo nos podremos encontrar son siguientes profesiones..
 
-* Desarrollador Frontend.
-* Desarrollador Backend.
-* Desarrollador Full Stack.
-* Desarrollador de Videojuegos.
+[Desarrollador Frontend](/profesiones-digitales/#desarrollador-frontend){: .btn .btn--inverse .btn--large} [Desarrollador Backend](){: .btn .btn--inverse .btn--large} [Desarrollador Full Stack](){: .btn .btn--inverse .btn--large} [Desarrollador de Videojuegos](){: .btn .btn--inverse .btn--large}
   
 A continuación haremos una pequeña revisión de que trabajos se encarga de desarrollar cada uno de estos diferentes puestos.
 

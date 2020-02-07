@@ -1,12 +1,12 @@
 ---
 title: 👨‍💻 ▷ Cómo Aprender a Programar en 2020
-description: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF 😜."
-excerpt: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF 😜."
+description: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF 😜"
+excerpt: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF 😜"
 author_profile: false
 published: true
 comments: true
 date: 2018-03-01
-last_modified_at: 2019-12-18
+last_modified_at: 2020-01-30
 permalink: /programar/
 canonical_URL: https://ciberninjas.com/programar/
 classes: wide
@@ -31,7 +31,7 @@ En esta sección, vamos a intentar realizar un resumen de los pasos que podemos 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OPlGMplfEbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. El primer paso es: centrarse en dominar un lenguaje, sea cual sea, en lugar de aprender un poco sobre varios idiomas hyper-focus.
+1. El primer paso es: Centrarse en dominar un lenguaje, sea cual sea, en lugar de aprender un poco sobre varios idiomas hyper-focus.
 2. Si no te decides por un lenguaje en concreto, elige uno de propósito general.
 3. Limita tus recursos de aprendizaje.
 4. Procura esforzarte en lograr una base de álgebra y la lógica de los algoritmos; así como, una base de informática básica y un conocimiento de la amplia gama de tecnologías que existen en la actualidad. Siempre puedes usar la propia Wikipedia, o esta a través de [Kiwix](https://kutt.it/wiki_kiwi) desde donde poder lo que ir familiarizarte con la terminología.
@@ -43,6 +43,13 @@ En esta sección, vamos a intentar realizar un resumen de los pasos que podemos 
 10. Lo más importante es ser persistente, conservar la motivación
 
 [🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## La Programación en la Actualidad
+
+Existen miles de publicaciones dispersas sobre las que poder informarse del estado y evolución del mundo de la tecnología y la programación en la actualidad; pero desde aquí vamos a intentar enlazar a los enlaces más interesantes del mundo; desde los que comprobar en que estado se encuentra y hacía donde evoluciona este mundillo.
+
+* [Encuesta de StackOverflow 2019](https://insights.stackoverflow.com/survey/2019)
+* [Índice TIOBE](https://www.tiobe.com/tiobe-index/)
 
 ## ¿En qué campo de la informática trabajar?
 
@@ -126,7 +133,7 @@ Posteriormente, vamos a realizar una pequeña revisión de las diferentes herram
 
 En esta lista encontramos los lenguajes que están más al alza entre los puestos de trabajo más exigidos por las empresas durante el año 2019.
 
-Javascript - Python - Java - C # - Swift - Kotlin
+[Python](/python/){: .btn .btn--inverse .btn--large .align-center} - Java - Javascript - C # - Swift - Kotlin
 
 <!-- (imágenes con enlaces a las páginas de formación de cada lenguaje) -->
 [🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
@@ -137,6 +144,12 @@ Si nos encontramos a JavaScript en la parte alta de todas las listas actuales de
 
 Hay más de un factor determinante detrás de esta última tendencia de usar JavaScript en proyectos de código abierto. Desde la aparición de NodeJS los desarrolladores pueden emplear el lenguaje de JS tanto en el Back-End como en el Front-End indistintamente, además se calcula que en la actualidad casi el 95% de los sitios web creados a día de hoy usan JavaScript.
 
+## Debemos hablar de WebAssambly
+
+Llegados ya a 2020 debemos de citar en este punto: WebAssambly.
+
+* ¿Por qué? Pues porque se supone que debería de ser de alguna forma la evolución lógica de la web.
+* ¿Qué es WebAssambly? Es un formato de código binario portable capaz de permitir la ejecución íntegra en el navegador de scripts desde el lado del cliente. Con este lenguaje de bajo nivel, se puede compilar código C, C++, Rust o Go.
 
 ## Los Lenguajes de Programación más Clásicos
 
@@ -153,7 +166,7 @@ Una lista de algunos de estos lenguajes podría ser:
 <br/>
 <ol>
     <li>C</li>
-    <li>C #</li>
+    <li>C#</li>
     <li>C ++</li>
     <li>Visual Basic .NET</li>
     <li>Sql</li>
@@ -214,4 +227,4 @@ Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer má
 [🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 [👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
-[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--x-large}
+[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
