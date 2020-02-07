@@ -16,12 +16,28 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-## Los Mejores Artículos de SEO para WooCommerce en Español
+Bases de datos NoSq. Qué son y tipos que nos podemos encontrar: https://www.acens.com/wp-content/images/2014/02/bbdd-nosql-wp-acens.pdf : PDF
 
-- [SEO para WooCommerce](http://www.senormunoz.es/SEO-MARBELLA/seo-para-woocommerce) (2014)
+## Los Mejores Artículos de NoSQL en Español
+
+* [Migra, es una herramienta de comparación de esquemas para PostgreSQL](https://migra.djrobstep.com/){:target="_blank"}
+* [CockroachDB ](https://www.cockroachlabs.com/blog/cockroachdb-2-0-release){:target="_blank"}
+
+CockroachDB debutó como la base de datos de código abierto que hizo posible la creación de aplicaciones en la nube masivas y confiables sin renunciar a SQL. Las empresas con visión de futuro lo adoptaron para ocultar la complejidad de lidiar con la escala distribuida, la resiliencia y los problemas de consistencia en la capa de la base de datos.
+
+:flag_us: Postgre página web oficial, muy completa [https://www.postgresql.org/]
+Mis consultas favoritas de PostgreSql y por qué son importantes: [https://severalnines.com/blog/my-favorite-postgresql-queries-and-why-they-matter]
+
+Percona Toolkit es una colección de herramientas avanzadas de línea de comandos de código abierto: [https://www.percona.com/blog/2018/03/16/percona-toolkit-3-0-8-now-available/]
+
+Paralelismo en PostgreSQL: https://www.percona.com/blog/2019/07/30/parallelism-in-postgresql/
+
+Exploraremos las  secuencias de cambios de MongoDB 3.6   , una nueva y poderosa característica que se agregó en la última versión de MongoDB: https://www.percona.com/blog/2018/03/07/using-mongodb-3-6-change-streams/
 
 
+## Redis
 
+## MongoDB
 
 
 
