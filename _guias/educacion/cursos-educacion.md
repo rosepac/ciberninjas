@@ -133,6 +133,10 @@ header:
 
 [🔝 REGRESAR 🔝](/cursos-educacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+## Revistas
+
+* [Aula Abierta](https://www.unioviedo.es/reunido/index.php/AA/issue/archive){:target="_blank"} 
+
 ## Presentaciones
 
 * [Elabora tu TFG](https://biblioteca.uam.es/economicas/documentos/TFG.pdf)
