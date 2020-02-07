@@ -14,7 +14,7 @@ permalink: /cursos-tecnologia-ingles/
 #   feature: *image
 # twitter:
 #   card: summary_large_image
-toc: true
+toc: false
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: false

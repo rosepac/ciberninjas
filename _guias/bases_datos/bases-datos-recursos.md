@@ -12,13 +12,16 @@ permalink: /bases-datos-recursos/
 #   teaser: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
 #   overlay_image: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
 #   overlay_filter: 0.2
-#   image_description: '🔨 🐍 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
-#   image_alt: '🔨 🐍 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
+#   image_description: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
+#   image_alt: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
 #   caption: "Créditos: Unsplash"
 #   actions:
-#     - label: "Aprender Python"
+#     - label: "Aprender BBDD"
 #       url: "/python/"
 ---
+
+[📕 Libros BBDD 📂](https://kutt.it/bases-datos-libros){: .btn .btn--info .btn--large}{:target="_blank"}
+ [🎓 Cursos BBDD 📂](https://kutt.it/bases-datos-cursos){: .btn .btn--info .btn--large}{:target="_blank"}  [📕 Libros en Inglés 📂](/biblioteca-de-programacion-y-tecnologia-ingles/#base-de-datos){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 📂](/cursos-tecnologia-ingles/#-bases-de-datos){: .btn .btn--info .btn--large}
 
 ## Los Mejores Artículos de Bases de Datos SQL
 
