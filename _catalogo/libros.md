@@ -46,6 +46,8 @@ sidebar:
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=2409014933&linkId=567bdc6bbfc907203643c016d89f0e67"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=2409008623&linkId=14a76217d67b582b00bcd75c5bb67033"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726356&linkId=6df86e283d212d37bf9cb9445ba19b2e"></iframe>
 
+[⏩ LIBROS en Inglés](/libros-ingles/#sql)
+
 ## ⛓ Blockchain
 
 [Cadena de Bloques 🔗](/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fab fa-bitcoin"></i>](/libros/#bitcoin-){: .btn .btn--inverse .btn--large}
@@ -89,6 +91,12 @@ sidebar:
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+### Historia de la Computación 🏛
+
+ *[Amstrad Eterno](https://amzn.to/2v0vnUm)
+
+ <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417389520&linkId=5ddd0d0620c75bb5c603dbd543f48acf"></iframe>
+
 ## 🛒 Comercio Electrónico
 
 
@@ -111,14 +119,28 @@ sidebar:
 ### CodeIgniter
 
 * [CodeIgniter 3: Programación fácil en PHP con Patrón MVC](https://amzn.to/2mqv8OC){:target="_blank"} (Ebook)
-* [MVC CodeIgniter para simpáticos newbies](https://amzn.to/2mz96cg){:target="_blank"}(Ebook)
+* [MVC CodeIgniter para simpáticos newbies](https://amzn.to/2mz96cg){:target="_blank"} (Ebook)
 
+## React
+
+* [Desarrollo Web con React](https://amzn.to/2UgTnNy){:target="_blank"} (Tapa Blanda) (2019)
+* [Aplicaciones Reactivas con React, NodeJS & MongoDB](https://amzn.to/2GHMRHN){:target="_blank"} (Tapa Blanda) (2018)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541639&linkId=11441746abb3952b2afc98e66815bd9a"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1980596077&linkId=13d9d42e3cebbbb216d77bc543ad20e8"></iframe>
+
+[⏩ LIBROS en Inglés](/libros-ingles/#react)
 
 ## Docker <i class="fab fa-docker"></i>
 
-* [DOCKER. Seguridad y monitorización en contenedores e imágenes](https://amzn.to/2o6YlhL){:target="_blank"}
-* [Docker. Primeros pasos y puesta en práctica de una arquitectura basada en micro-servicios](https://amzn.to/2odnl7h){:target="_blank"}
-* [DOCKER. Guía práctica](https://amzn.to/2nyCrnC){:target="_blank"}
+* [Docker: Seguridad y monitorización en contenedores e imágenes](https://amzn.to/2o6YlhL){:target="_blank"}
+* [Docker: Primeros pasos y puesta en práctica de una arquitectura basada en micro-servicios](https://amzn.to/2odnl7h){:target="_blank"}
+* [Docker: Guía práctica](https://amzn.to/2nyCrnC){:target="_blank"}
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494897233&linkId=35bc3026b0f146100af656e49e6ca03b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=2409015891&linkId=7925b4ca243fe75336204226420044da"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494465082&linkId=55566be7fb5ef6051c69899c0b82b058"></iframe>
+
+[⏩ LIBROS en Inglés](/libros-ingles/#docker-)
+
+[🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Lenguaje de Estilos y Preprocesadores 🎨
 <!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
@@ -135,11 +157,15 @@ sidebar:
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00DL6V9ZU&linkId=5d5cbed5d9bb6dab9918f721726f39a3"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426724639&linkId=23bdcad0d3b627975d82f47fd405b272"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=2409007023&linkId=b136cf7c9026eaec9d51ddb87d20129c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=2409006655&linkId=4504acf83d0e8b38b3180a4e62511bca"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441539391&linkId=100eb4b5a125a0f36eb558327742fbd0"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499646239&linkId=fbbb35cfa84972d357865ef7d76437fa"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1545169497&linkId=ffb7e376db1cb828540426ad728db1de"></iframe>
 
+[⏩ LIBROS en Inglés](/libros-ingles/#lenguajes-de-marcado-)
+
 ## PhoneGap (Apache Cordoba)
 
 * [Aplicaciones Hibridas - Apache Cordova](https://amzn.to/32X6vZl){:target="_blank"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=6139439094&linkId=913fe5bb5235b4f568500cd57fd2f270"></iframe>
+
+[⏩ LIBROS en Inglés](/libros-ingles/#phonegap-apache-cordoba)
 
 ## Sistemas de Plantillas 🌱
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
@@ -153,23 +179,7 @@ sidebar:
 * [Introducción a Swift: Aprende Swift desde cero de forma totalmente práctica](https://amzn.to/2L2v9l4){:target="_blank"} (Ebook)
 * [SWIFT 4. Aprende a crear Apps para iPhone y iPad](https://amzn.to/2PD5UdJ){:target="_blank"}
 
-> INGLÉS
-
-* Aprende la programación de iOS 11 con Swift 4 [Tapa Blanda](https://amzn.to/2LtC06n){:target="_blank"} - [Ebook](https://amzn.to/2L38bKA){:target="_blank"}
-* Aprendiendo Swift 3 [Tapa Blanda](https://amzn.to/348eLah){:target="_blank"} - [Ebook](https://amzn.to/2PjiMFx){:target="_blank"}
-* Aprendizaje automático con Swift [Tapa Blanda](https://amzn.to/2ZvUqxb){:target="_blank"} - [Ebook](https://amzn.to/2Px5x3Y){:target="_blank"}
-* [Desarrollo de aplicaciones iOS accesibles](https://amzn.to/2Px2B7s){:target="_blank"}
-* Dominar Swift 5 [Tapa Blanda](https://amzn.to/2L5SxOQ){:target="_blank"} - [Ebook](https://amzn.to/2L2Mri7){:target="_blank"}
-* [Fundamentos de programación de iOS 12 con Swift](https://amzn.to/2L3UnPZ){:target="_blank"}
-* [Inteligencia artificial práctica con Swift](https://amzn.to/2ZlYi3v){:target="_blank"}
-    De la teoría fundamental al desarrollo de aplicaciones impulsadas por Ai
-* [IOS 13 Fundamentos de programación con Swift](https://amzn.to/2Zvu5KJ){:target="_blank"}
-* Patrones de diseño en Swift 5 [Tapa Blanda](https://amzn.to/2L3PGWn){:target="_blank"} - [Ebook](https://amzn.to/2L6chS8){:target="_blank"}
-* Programación reactiva con Swift 4 [Tapa Blanda](https://amzn.to/2Pm8vbP){:target="_blank"} - [Ebook](https://amzn.to/2L3rCmt){:target="_blank"}
-* Programando iOS 12 [Tapa Blanda](https://amzn.to/2NG0oEu){:target="_blank"} [Ebook](https://amzn.to/2NDxNiY){:target="_blank"}
-    Sumérgete profundamente en las vistas, los controladores de vista y los marcos
-* Recetario Swift de desarrollo de juegos en iOS [Tapa Blanda](https://amzn.to/2PjP7Mh){:target="_blank"} - [Ebook](https://amzn.to/2HAjZSG){:target="_blank"}
-* [Simulaciones en Swift 5](https://amzn.to/2LldaVU){:target="_blank"}
+[⏩ LIBROS en Inglés](/libros-ingles/#swift-)
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -200,6 +210,8 @@ sidebar:
 ## Go
 
 [📖 Los Libros Más Impresionantes de Go](/los-libros-mas-impresionantes-sobre-go/){: .btn .btn--primary .btn--large}
+
+[⏩ LIBROS en Inglés](/libros-ingles/#go)
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 

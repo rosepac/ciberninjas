@@ -73,7 +73,7 @@ Dentro de las variadas ofertas del Black Friday de Amazon podemos encontrar pequ
 [🔝 REGRESAR 🔝](/videojuegos/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 <!-- xbox: https://www.amazon.es/s?k=xbox&i=videogames&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2 -->
 ## 🎮 VIDEOJUEGOS
-
+<!-- CONSOLA RG 350 https://www.amazon.es/s?k=rg350&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2 -->
 ### VIDEOJUEGOS DE ACCIÓN
 <!-- witcher videojuego: https://www.amazon.es/s?k=Witcher-Wild-Hunt&rh=n%3A599382031%2Cp_n_age_range%3A976009031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1574981120&rnid=976010031&ref=sr_nr_p_n_age_range_5 -->
 ## Battlefield 5
