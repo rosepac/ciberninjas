@@ -1,7 +1,7 @@
 ---
 title: 👨‍💻 ▷ Steemit, Aprender desde Cero
-description: "🛠 Steemit, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
-excerpt: "🛠 Steemit, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
+description: "🔨 Steemit, cómo crear tu blog de contenidos gratis y ganar dinero"
+excerpt: "🔨 Steemit, cómo crear tu blog de contenidos gratis y ganar dinero"
 date: 2019-08-07T22:00:00.000+01:00
 last_modified_at: 2019-08-20T16:20:02+01:00
 permalink: /steemit/
@@ -18,7 +18,14 @@ toc_sticky: true
 
 Steem Promo: https://www.youtube.com/watch?time_continue=3&v=aPJ8Jd1L43o
 
-## Proyectos y dAPPs Más que Interesantes
+## Visores de Steemit
+
+* [SteemStem](https://www.steemstem.io/){:target="_blank"}
+* [Busy](https://busy.org/){:target="_blank"}
+* [Steemit](https://steemit.com){:target="_blank"}
+* [Steemit](https://steemit.com)
+
+## Proyectos y dAPPs Más Interesantes
 
 * [DSound](https://steemit.com/@dsound) creador [@prc](https://steemit.com/@prc)
 * [SteemApps](https://steemapps.com/) [^1]
@@ -35,6 +42,7 @@ Steem Promo: https://www.youtube.com/watch?time_continue=3&v=aPJ8Jd1L43o
 ## Artículos
 
 * [Los proyectos Open Source dentro de la Blockchain](https://steemit.com/upfundition/@utopian-io/erf8gqt0h)
+* [Las nuevas tribus y comunidades de Steemit](https://steemit.com/static/search.html?q=COMMUNITY+TRIBUS)
 
 ## Witness y Desarrolladores
 
@@ -47,74 +55,20 @@ Steem Promo: https://www.youtube.com/watch?time_continue=3&v=aPJ8Jd1L43o
 [^1]: Índice y lista indexada de todas las aplicaciones (85) que forman parte del universo de las aplicaciones descentralizadas de la criptomoneda Steem.
 [^2]: Herramientas de Steemit, Herramientas Online, Extensiones para el Navegador Chrome, Bots, APIs, Bibliotecas de Código. Tutoriales, Tutoriales de Steem SQL, de R, etc.
 
-### Proyectos Olvidados
+### Proyectos Caducados
 
 * [Steeve App](https://www.steeve.app/@steeveapp)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Los Mejores Artículos de SEO para Steemit en Español
 
 - [Técnicas de SEO para Steemit que no conocías](https://steemit.com/spanish/@joseluismejia/tecnicas-de-seo-para-steemit-que-no-conocias)
 
-
-
-
-Existe un gran cambio al modificar tus hábitos y desear cambiar desde un Sistema de Gestión de Contenidos como puede ser Wordpress hacía un Sistema de Contenidos de Generación Estática como puede ser Steemit, por ello.
-
-Creo este repositorio con todos los enlaces que me han ido ayudando a lo largo de la última semana, tanto con la importación de mi antiguo blog, como con la configuración de la nueva página estática.
-
-Además, adjunto enlaces de interes que espero que a pesar de no ser Steemit; un Sistema ni tan desarrollado ni con una comunidad tan grande como la de Wordpress; puedan serme de ayuda en la implementación y me ofrezcan mejoras en mi nuevo página.
-
-**¡A la almendrilla!**
-
 ## 🕵️‍♂️ Enlaces por Investigar
 
-* [Configurar plantilla, buscador.. Y otros Ajustes del Tema](https://mmistakes.github.io/minimal-mistakes/docs/configuration "Configuración de la Plantilla") (- por revisar la implementación de un mejor buscador ¿Algabia? y ajustar algunos otros distintos parámetros -)
 
-* [Steemit Comenzando](https://terminaladdict.com/linux/jekyll/bash/development/2018/10/17/Steemit-Getting-Started.html "Steemit comenzando, publicación creada en el blog Terminal Adicto") (terminaladdict.com)
-  * [Usando Steemit 2017](https://mademistakes.com/articles/using-jekyll-2017 "Usando Jekyl 2017. Cómo ir creando una plantilla por completo, paso a paso")
-    * [Menú de Navegación](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/ "Cómo crear un menú de navegación en un blog estático con Steemit") - Steemit Plugins con los que generar una plantilla.. ([jekyll-picture-tag](https://github.com/robwierzbowski/jekyll-picture-tag), [sort_name](https://github.com/mmistakes/made-mistakes-jekyll/blob/master/src/_plugins/sort_name.rb), [jekyll-archives](https://github.com/jekyll/jekyll-archives), [jekyll-assets](https://github.com/jekyll/jekyll-assets), [jekyll/tagging](https://github.com/pattex/jekyll-tagging), [jekyll-tagging-related_posts](https://github.com/toshimaru/jekyll-tagging-related_posts), [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap), [jemoji](https://github.com/jekyll/jemoji), [jekyll-category-post-navigation](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/), and [jekyll-typogrify](https://github.com/myles/jekyll-typogrify).)
-* [FULL Contenido de Publicación](https://mmistakes.github.io/minimal-mistakes/year-archive/ "Los trucos necesarios para generar una plantilla bien implementada sobre Steemit"), de mi Plantilla Minimal Mistake
-* [Documentación Plantilla Minimal Mistake](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide "Documentación de la plantilla Minimal Mistake para Steemit, paso a paso todas las pautas para su funcionamiento") [Layout: Sidebar + Menú](https://mmistakes.github.io/minimal-mistakes/layout-sidebar-nav-list)
-* [Cómo crear Colecciones con Steemit](https://jekyllrb.com/docs/collections "Crear colecciones con Steemit") (jekyllrb.com)
-  * [Cómo crear Colecciones con Steemit](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Steemit con la plantilla Minimal Mistake") (..en Plantilla Minimal Mistake)
-* [Kramdown](https://kramdown.gettalong.org/converter/html.html "Kramdown, la librería de código de Ruby que implementa acciones desde el código a través de Markdown") (librería de Ruby, que permite implementar índices entre otras muchas cosas)
-* [Foro de Steemit](https://talk.jekyllrb.com/ "El foro más grande que he encontrado sobre Steemit")
-* [Buscador con Entradas sobre Steemit](https://codeday.me/es/)
-* [WebJeda](https://blog.webjeda.com/optimize-jekyll-seo/) Muchos contenidos y entradas en relación a Steemit.
-* [Enlaces nofollo en Steemit - SEO](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/)
 
 ## ✍ Cómo Publicar Con Steemit
-
+<!-- 👇👇👇👇 REVISAR CONTENIDOS 👇👇👇👇👇👇👇👇-->
 ### Publicar un Enlace
 
 Añadir a la cabecera YAML:

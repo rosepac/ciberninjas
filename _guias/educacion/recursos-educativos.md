@@ -27,6 +27,7 @@ toc_sticky: false
 ---
 
 ## Metalistas
+
 - [Cursos de Programación](https://kutt.it/Cursos)
 - [Libros de Programación](http://kutt.it/biblioteca)
 - [Obras Pedagógicas de ILCE](http://bibliotecadigital.ilce.edu.mx/Colecciones/Pedagogicas/)
@@ -37,3 +38,7 @@ toc_sticky: false
 
 - [Español como lengua extranjera](https://cvc.cervantes.es/ensenanza/actividades_ave/aveteca.htm)
 <!-- https://www.speakinglatino.com/free-spanish-resources-for-teachers/ -->
+
+## Software
+
+- [Edji.it](https://edji.it/#/home) Anotación colaborativa para el aula.

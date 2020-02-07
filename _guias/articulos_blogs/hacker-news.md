@@ -25,3 +25,7 @@ Vue Hacker News https://vue-hn.herokuapp.com/top Código https://github.com/vuej
 Lista Completa de Aplicaciones:
 
 https://hnpwa.com/
+
+Crear Canales RSS de cualquier palabra o forma dentro de Hacker News(https://edavis.github.io/hnrss/#search-feeds)
+
+Encontrar las palabras más usadas a través de Hacker News: http://eliot-jones.com:5690/
