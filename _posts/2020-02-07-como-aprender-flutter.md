@@ -101,6 +101,15 @@ La documentación aborda muchos temas, como por ejemplo:
 * Algunos ejemplos de aplicaciones.
 * El canal de YouTube Flutter
 
+### ✍ Artículos
+
+* [Cómo escribir un complemento web de Flutter](https://medium.com/flutter/how-to-write-a-flutter-web-plugin-5e26c689ea1){:target="_blank"}
+* [Animaciones básicas de animación con animaciones implícitas](https://medium.com/flutter/flutter-animation-basics-with-implicit-animations-95db481c5916){:target="_blank"}
+* [El soporte web para Flutter se vuelve beta](https://medium.com/flutter/web-support-for-flutter-goes-beta-35b64a1217c0){:target="_blank"}
+* [Animaciones implícitas personalizadas en Flutter ... con TweenAnimationBuilder](https://medium.com/flutter/custom-implicit-animations-in-flutter-with-tweenanimationbuilder-c76540b47185){:target="_blank"}
+* [Animaciones direccionales con animaciones explícitas incorporadas](https://medium.com/flutter/directional-animations-with-built-in-explicit-animations-3e7c5e6fbbd7){:target="_blank"}
+* [¿Cuándo debería usarAnimatedBuilder o AnimatedWidget?](https://medium.com/flutter/when-should-i-useanimatedbuilder-or-animatedwidget-57ecae0959e8){:target="_blank"}
+
 ### 📚 Libros
 
 ## [Flutter Concisamente](https://www.syncfusion.com/ebooks/flutter-succinctly)
