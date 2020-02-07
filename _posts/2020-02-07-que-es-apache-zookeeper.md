@@ -26,7 +26,11 @@ Apache ZooKeeper es un esfuerzo por desarrollar y mantener un servidor de códig
 
 ## ¿Qué es ZooKeeper?
 
-ZooKeeper es un servicio centralizado para mantener la información de configuración, nombrar, proporcionar sincronización distribuida y proporcionar servicios grupales. Todos estos tipos de servicios son utilizados de una forma u otra por aplicaciones distribuidas. Cada vez que se implementan, se necesita mucho trabajo para solucionar los errores y las condiciones de carrera que son inevitables. Debido a la dificultad de implementar este tipo de servicios, las aplicaciones inicialmente suelen escatimar en ellos, lo que los hace frágiles en presencia de cambios y difíciles de administrar. Incluso cuando se realiza correctamente, las diferentes implementaciones de estos servicios conducen a una complejidad de gestión cuando se implementan las aplicaciones.
+ZooKeeper es un servicio centralizado para mantener la información de configuración, nombrar, proporcionar sincronización distribuida y proporcionar servicios grupales. Todos estos tipos de servicios son utilizados de una forma u otra por aplicaciones distribuidas.
+
+Cada vez que se implementan, se necesita mucho trabajo para solucionar los errores y las condiciones de carrera que son inevitables.
+
+Debido a la dificultad de implementar este tipo de servicios, las aplicaciones inicialmente suelen escatimar en ellos, lo que los hace frágiles en presencia de cambios y difíciles de administrar; incluso cuando se realiza correctamente, las diferentes implementaciones de estos servicios conducen a una complejidad de gestión cuando se implementan las aplicaciones.
 
 ## Empezando
 
