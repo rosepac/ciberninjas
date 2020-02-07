@@ -1,13 +1,16 @@
 ---
+
 title: ▷ Recursos para Aprender Bases de Datos
 description: '📁 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender a Manejar Bases de Datos'
 excerpt: '📁 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender a Manejar Bases de Datos'
 published: true
 author_profile: true
 comments: true
-date: 2020-01-02 09:06:18
+classes: wide
+date: 2020-02-07T19:16:00.000+01:00
 last_modified_at: 
 permalink: /bases-datos-recursos/
+canonical_URL: https://ciberninjas.com/bases-datos-recursos/
 header:
   teaser: /assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png
   overlay_image: /assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png
@@ -18,6 +21,10 @@ header:
   actions:
     - label: "Aprender BBDD"
       url: "/bases-datos/"
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
 
 ---
 

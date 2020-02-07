@@ -1,30 +1,37 @@
 ---
+
 title: ▷ Aprender Bases de Datos desde Cero
 description: "📁 Aprende desde cero todo lo que debes saber"
 excerpt: "📁 Aprende desde cero todo lo que debes saber"
-date: 2020-02-07T22:00:00.000+01:00
+published: true
+date: 2020-02-07T19:10:00.000+01:00
 last_modified_at: 
 author_profile: true
+comments: true
 classes: wide
 permalink: /bases-datos/
-published: true
+canonical_URL: https://ciberninjas.com/bases-datos/
 header:
-  teaser: https://i.ibb.co/Pr7SwXK/SQLpt1-1.jpg
-  image: "https://i.ibb.co/Pr7SwXK/SQLpt1-1.jpg"
-  image_description: SQL, visto en Ciberninjas
-  caption: 
+  teaser: /assets/images/paginas/sql-imagen-ciberninjasx1280.png
+  overlay_image: /assets/images/paginas/sql-imagen-ciberninjasx1280.png
+  overlay_filter: 0.2
+  image_description: "Logotipo de SQL visto en Ciberninjas"
+  image_alt: "Logotipo de SQL visto en Ciberninjas"
+  caption: "Logotipo"
+  actions:
+    - label: "Aprender BBDD"
+      url: "/bases-datos/"
+
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
+
 ---
 <!-- Blogs -->
 <!-- https://blog.sqlauthority.com/2020/01/24/sql-server-tools-i-use-and-recommend-updated-january-2020/  -->
 
-👷‍♂️ Contenido en construcción! El contenido puede contener errores, sobre todo de diseño.. Además de encontrarse pendiente una mayor organización del contenido y la inserción de los botones de navegación 👷‍♂️
-{: .notice--warning}
-
-### Sistemas de Bases de Datos SQL
+## Sistemas de Bases de Datos SQL
 
 Bien seas una pequeña empresa o una gran corporación, la transformación digital ha permitido a las organizaciones generar datos en grandes cantidades. Por ello, ahora las empresas están aprovechando el software de base de datos para optimizar sus datos y usarlos para todo tipo de propósitos útiles.
 
@@ -34,6 +41,9 @@ Además, las aplicaciones de bases de datos ayudan a poner a disposición de los
 
 Pero antes de aprovechar un sistema de administración de bases de datos, debe elegir uno que funcione mejor para su negocio.
 
+👷‍♂️ Contenido en construcción! El contenido puede contener errores, sobre todo de diseño.. Además de encontrarse pendiente una mayor organización del contenido y la inserción de los botones de navegación 👷‍♂️
+{: .notice--warning}
+
 * ¿Cuál es el mejor software de base de datos?
 * ¿Qué es el software de base de datos?
 * ¿Cuáles son los beneficios de usar software de base de datos?
@@ -41,14 +51,9 @@ Pero antes de aprovechar un sistema de administración de bases de datos, debe e
 * ¿Cómo se utiliza el software de base de datos?
 * Resumen Ejecutivo.
 
+🚧👷‍♂️🚧👷‍♂️ CONTENIDO EN CONSTRUCCIÓN 👷‍♂️🚧👷‍♂️🚧
+{: .notice--danger}
 <!-- https://www.adamenfroy.com/database-software -->
-
-
-
-
-
-
-
 
 ### Motores de Consulta SQL
 
@@ -74,3 +79,6 @@ Motor de consultas SQL sin esquema para Hadoop, NoSQL y almacenamiento en la nub
 Apache Drill es un motor de consulta SQL sin esquema para Hadoop, NoSQL y Cloud Storage. El optimizador del almacén de datos de Drill reestructura automáticamente un plan de consulta para aprovechar las capacidades de procesamiento interno del almacén de datos. Además, Drill admite la localidad de datos, por lo que es una buena idea ubicar conjuntamente Drill y el almacén de datos en los mismos nodos.
 
 Enlaces: [Sitio web oficial ](https://drill.apache.org/)  [Twitter ](https://twitter.com/apachedrill)  [GitHub](https://github.com/apache/drill/tree/1.16.0)
+
+[📕 Libros BBDD 📂](https://kutt.it/bases-datos-libros){: .btn .btn--info .btn--large}{:target="_blank"}
+ [🎓 Cursos BBDD 📂](https://kutt.it/bases-datos-cursos){: .btn .btn--info .btn--large}{:target="_blank"}  [📕 Libros en Inglés 📂](/biblioteca-de-programacion-y-tecnologia-ingles/#base-de-datos){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 📂](/cursos-tecnologia-ingles/#-bases-de-datos){: .btn .btn--info .btn--large}
