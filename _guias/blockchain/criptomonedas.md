@@ -1,26 +1,40 @@
 ---
-title: "ICONO+TITULO"
-description: 'RS'
-excerpt: 'RS'
-date: 2019-12-11T22:00:00.000+01:00
+title: 💰 ▷ Criptomonedas, Aprender Desde Cero Todo Lo Que Debes Saber
+description: '📌 👨‍💻 Los mejores artículos de criptomonedas más impresionantes y espectaculares que puedes encontrar en todo Internet.'
+excerpt: '📌 👨‍💻 Los mejores artículos de criptomonedas más impresionantes y espectaculares que puedes encontrar en todo Internet.'
 published: true
-# header:
-#   overlay_image: ""
-#   overlay_filter: "0.2"
-#   image_description: "DS | Ciberninjas"
-#   caption: "**Créditos**: "
+comments: true
+date: 2019-12-11T22:00:00.000+01:00
+last_modified_at: 2020-02-07
 permalink: /criptomonedas/
+# header:
+#   image: "/assets/images/chocolatey-ciberninjas.jpg"
+#   image_description: Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows
+#   caption: "**Créditos**: Creación Propia"
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
 
 ---
 
 ## Artículos
 
+* [Cómo elegir una cartera de Bitcoin y otras criptomonedas](https://www.criptonoticias.com/criptopedia/como-elegir-monedero-cartera-bitcoin-criptomonedas-criptoactivos/){:target="_blank"}
+* [Cómo utilizar Binance correctamente](https://forocoin.net/threads/como-utilizar-binance-correctamente-tutorial.624/){:target="_blank"}
 * [Desmintiendo mitos sobre Bitcoin – Nivel principiante (Parte I)](https://www.criptonoticias.com/educacion/desmintiendo-mitos-bitcoin-principiante-parte-i/){:target="_blank"}
 * [Desmintiendo mitos sobre Bitcoin – Nivel principiante (Parte II)](https://www.criptonoticias.com/educacion/desmintiendo-mitos-bitcoin-principiante-parte-ii/){:target="_blank"}
 
+### 2019
+
+* [Desarrollan en EE.UU. una criptomoneda casi 10.000 veces más 'rápida' que el bitcoin](https://actualidad.rt.com/actualidad/302683-eeuu-nueva-criptomoneda-reemplazar-bitcoin){:target="_blank"}
+
 ## Los Mejores Blogs y Foros de Criptomonedas en Español
 
-
+* [Criptonoticias](https://www.criptonoticias.com/){:target="_blank"}
+* [ForoCoin](https://forocoin.net/){:target="_blank"}
+* [Criptonoticias](https://www.criptonoticias.com/){:target="_blank"}
+* [Criptonoticias](https://www.criptonoticias.com/){:target="_blank"}
 
 ## Los Mejores Blogs en Inglés
 
@@ -31,6 +45,10 @@ permalink: /criptomonedas/
 
 * [Galactic Talk](https://galactictalk.org){:target="_blank"}
 Comunidad de usuarios, desarrolladores y comerciantes de Stellar
+
+## Diferentes Criptomonedas
+
+* [Qué es Odyssey? [OCN] - Próximo Ecosistema Peer-to-Peer](https://forocoin.net/threads/que-es-odyssey-ocn-proximo-ecosistema-peer-to-peer.1811/){:target="_blank"}
 
 ## Aplicaciones Android
 
