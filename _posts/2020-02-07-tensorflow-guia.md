@@ -11,7 +11,7 @@ comments: true
 date: 2020-02-07 13:08:12
 last_modified_at: 
 header:
-  teaser: https://i.ibb.co/VgwFP8Z/0abaa0d6ffe9cbe5327c0dd632386b29.jpg
+  teaser: /assets/images/frameworks-ai/tensorflow-ciberninjas.png
 permalink: /tensorflow-guia/
 canonical_URL: https://ciberninjas.com/tensorflow-guia/
 classes: wide
@@ -22,7 +22,7 @@ categories:
 
 ---
 
-![](https://i.ibb.co/VgwFP8Z/0abaa0d6ffe9cbe5327c0dd632386b29.jpg "Logotipo de la biblioteca de código abierto Tensorflow para la Inteligencia Artificial")
+![](/assets/images/frameworks-ai/tensorflow-ciberninjas.png "Logotipo de la biblioteca de código abierto Tensorflow para la Inteligencia Artificial")
 
 TensorFlow fue originalmente un proyecto de investigación de aprendizaje profundo del equipo de Google Brain que desde entonces se ha convertido, en colaboración con 50 equipos más de Google, en una nueva biblioteca de código abierto implementada en todo el ecosistema de Google, incluido Google Assistant, Google Photos, Gmail , en su buscador y más.
 
@@ -30,23 +30,23 @@ Con TensorFlow en su lugar, Google puede aplicar el aprendizaje profundo en nume
 
 Esta guía es una manera fácil de ponerse al día con TensorFlow. Actualizaremos esta guía periódicamente cuando se publiquen noticias y actualizaciones sobre TensorFlow.
 
-* **¿Qué es TensorFlow?**
+* [**¿Qué es TensorFlow?**](/tensorflow-guia/#qué-es-tensorflow)
 
 Google tiene la infraestructura de aprendizaje automático más grande del mundo, y con TensorFlow, Google ahora tiene la capacidad de compartir eso. TensorFlow es una biblioteca de herramientas de código abierto que permite a los desarrolladores de software aplicar el aprendizaje profundo a sus productos.
 
-* **¿Por qué importa TensorFlow?**
+* [**¿Por qué importa TensorFlow?**](/tensorflow-guia/#por-qué-importa-tensorflow)
 
 La IA se ha vuelto crucial para la evolución de cómo los usuarios interactúan con los servicios y dispositivos. Tener un conjunto de bibliotecas tan poderoso disponible puede permitir a los desarrolladores incluir esta poderosa evolución de aprendizaje profundo en sus productos.
 
-* **¿A quién afecta TensorFlow?**
+* [**¿A quién afecta TensorFlow?**](/tensorflow-guia/#a-quién-afecta-tensorflow)
 
 TensorFlow tendrá un efecto duradero en los desarrolladores y usuarios. Dado que la biblioteca se convirtió en código abierto, está disponible para todos los desarrolladores, lo que significa que sus productos se pueden mejorar significativamente para brindar un mayor nivel de inteligencia y precisión a sus productos.
 
-* **¿Cuándo se lanzó TensorFlow?**
+* [**¿Cuándo se lanzó TensorFlow?**](/tensorflow-guia/#cuándo-se-lanzó-tensorflow)
 
 TensorFlow se lanzó originalmente el 9 de noviembre de 2015, y la versión estable se puso a disposición el 15 de febrero de 2017. Google ahora está implementando el alfa de TensorFlow 2.0, que, según Google, es más simple y más intuitivo de usar.
 
-* **¿Cómo empiezo a usar TensorFlow?**
+* [**¿Cómo empiezo a usar TensorFlow?**](/tensorflow-guia/#cómo-empiezo-a-usar-tensorflow)
 
 Los desarrolladores pueden descargar el código fuente desde el repositorio TensorFlow GitHub. Los usuarios ya están viendo sus efectos en el ecosistema de Google.
 
