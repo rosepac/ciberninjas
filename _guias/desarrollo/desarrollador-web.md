@@ -2,7 +2,7 @@
 title: 👨‍💻 ▷ ¿Cómo ser desarrollador web?
 description: "📌  Cómo ser el mejor desarrollador web exitoso."
 excerpt: "📌 Aprende a programar con varios lenguajes y frameworks diferentes. Los mejores libros PDF y ebooks gratis en nuestra biblioteca y ojea nuestro catálogo."
-published: true
+published: false
 comments: true
 date: 2019-12-20
 # classes: wide
@@ -24,6 +24,7 @@ toc_sticky: true
 
 ## Artículos en Inglés
 
+* [La guía completa para desarrolladores web independientes](https://www.freecodecamp.org/news/freelance-web-developer-guide/)
 * [NodeJS vs Python: elegir la mejor tecnología para desarrollar el back-end de su aplicación web](https://keenethics.com/blog/nodejs-vs-python)
 
 ## Blogs
@@ -35,16 +36,3 @@ toc_sticky: true
 Una manera fácil de automatizar todas sus acciones en la nube. Optimice el gasto en la nube. Ahorre más del 95% del tiempo de ingeniería. Evite mantener varias herramientas
 
 [👉 PROBAR 👏](https://www.totalcloud.io/){: .btn .btn--inverse .btn--large .align-center}
-
-
-COMPLETAS
-<a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/h7DWVNM/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a>
-
-MINIATURAS
-<a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a><a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a><a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a><a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a><a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a>
-
-<a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a>
-
-<a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a>
-
-<a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a> <a href="https://ibb.co/gjzTJ87"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="diferencia-nodejs-python" border="0"></a>
