@@ -1,12 +1,16 @@
 ---
-author_profile: false
-title: 8 Mejores Alternativas de Jenkins en 2019
-description: 8 Mejores Alternativas de Jenkins en 2019
-excerpt: 8 Mejores Alternativas de Jenkins en 2019
+author_profile: true
+title: 8 Mejores Alternativas de Jenkins en 2020
+description: 8 Mejores Alternativas de Jenkins en 2020
+excerpt: 8 Mejores Alternativas de Jenkins en 2020
 comments: true
-date: 2019-09-01 07:50:00 +0200
+classes: wide
+date: 2020-10-24 17:50:00 +0200
 tags:
+- Jenkins Alternativas
 categories:
+- Distribución Continua
+
 ---
 
 Las herramientas de implementaci&oacute;n de software son el mejor amigo de un profesional de IT. Mejoran los servicios de actualizaci&oacute;n existentes, automatizan las tareas de implementaci&oacute;n, implementan las mejores pr&aacute;cticas de seguridad y monitorean la actividad del usuario y el funcionamiento de las aplicaciones. Sin estas herramientas, los equipos de IT pasan horas implementando y rastreando implementaciones manualmente. Esto quita tiempo y recursos de otras tareas m&aacute;s importantes.
@@ -17,9 +21,13 @@ Cada una de ellas ofrece algo diferente para que pueda encontrar la soluci&oacut
 
 ## M&aacute;s importantes herramientas de implementaci&oacute;n de software
 
-Buddy
+## [Buddy](https://buddy.works/){:target="_blank"}
+
+![Logotipo de Budy](https://miro.medium.com/max/673/1*nR9qS7-ABEVejCgFOansyw.jpeg)
 
 Buddy es una herramienta inteligente de CI / CD para desarrolladores web dise&ntilde;ada para reducir el umbral de entrada a DevOps. Utiliza canales de entrega para construir, probar e implementar software. Las tuber&iacute;as se crean con m&aacute;s de 100 acciones listas para usar que se pueden organizar de cualquier manera, al igual que construyes una casa de ladrillos.
+
+**Características:**
 
 * Configuraci&oacute;n de 15 minutos en UI / UX clara y reveladora
 * Despliegues r&aacute;pidos como el rayo basados ​​en conjuntos de cambios
@@ -29,11 +37,11 @@ Buddy es una herramienta inteligente de CI / CD para desarrolladores web dise&nt
 * Se integra con AWS, Google, DigitalOcean, Azure, Shopify, WordPress y m&aacute;s
 * Admite paralelismo y configuraci&oacute;n YAML
 
-Travis CI
+## [Travis CI](https://miro.medium.com/max/600/1*M-Kj85siknLr66JqJ71PRA.png){:target="_blank"}
 
 Travis CI es una herramienta de CI popular que es gratuita para proyectos de c&oacute;digo abierto. Como est&aacute; alojado, no tiene que depender de ninguna plataforma. Esta herramienta CI proporciona soporte para muchas configuraciones de compilaci&oacute;n y lenguajes como Node, PHP, Python, Java, Perl, etc.
 
-**Caracteristicas:**
+**Características:**
 
 * Travis usa las m&aacute;quinas virtuales para construir aplicaciones
 * Notificaciones a trav&eacute;s de Slack, HipChat, correos electr&oacute;nicos y m&aacute;s
@@ -42,11 +50,13 @@ Travis CI es una herramienta de CI popular que es gratuita para proyectos de c&o
 * F&aacute;cil instalaci&oacute;n, no requiere instalaci&oacute;n.
 * Potente herramienta de API y l&iacute;nea de comando
 
-Team City
+## [Team City](https://www.jetbrains.com/teamcity/){:target="_blank"}
+
+![](https://blog.elmah.io/content/images/2019/01/teamcity.png)
 
 Team City es un servidor de integraci&oacute;n continua que admite muchas funciones potentes.
 
-**Caracteristicas:**
+**Características:**
 
 * Extensibilidad y personalizaci&oacute;n
 * Proporciona una mejor calidad de c&oacute;digo para cualquier proyecto.
@@ -57,17 +67,17 @@ Team City es un servidor de integraci&oacute;n continua que admite muchas funcio
 * Informes de progreso de compilaci&oacute;n sobre la marcha
 * Ejecuci&oacute;n remota y confirmaci&oacute;n previamente probada
 
-Spinnaker
+## [Spinnaker](https://www.spinnaker.io/){:target="_blank"}
 
-Tekton
+## [Tekton](/que-es-tekton/){:target="_blank"}
 
-CodeShip
+## [CodeShip]{:target="_blank"}
 
-Circle CI
+## [Circle CI](){:target="_blank"}
 
 Circle CI es una herramienta de CI flexible que se ejecuta en cualquier entorno como aplicaciones m&oacute;viles multiplataforma, servidor Python API o cl&uacute;ster Docker. Esta herramienta reduce errores y mejora la calidad de la aplicaci&oacute;n.
 
-**caracteristicas:**
+**Características:**
 
 * Permite seleccionar Build Environment
 * Admite muchos lenguajes como Linux, incluidos C ++, Javascript, NET, PHP, Python y Ruby
@@ -79,11 +89,13 @@ Circle CI es una herramienta de CI flexible que se ejecuta en cualquier entorno 
 * Cach&eacute; y paralelismo &oacute;ptimos para un rendimiento r&aacute;pido.
 * Integraci&oacute;n con herramientas VCS
 
-Strider CD
+## [Strider CD](){:target="_blank"}
+
+![](https://i.ibb.co/c85wr4s/images-q-tbn-ANd9-Gc-Roz-VG59zfzv8ibug-Dz6k-U3xhx5g-Lxn-Kf-PEY9-Swk-A-Rh1-Yun-OXg-s.png)
 
 Strider CD es una herramienta de c&oacute;digo abierto. Est&aacute; escrito en Node.JS / JavaScript. Utiliza MongoDB como tienda de respaldo. Por lo tanto, MongoDB y Node.js son esenciales para instalar este CI. La herramienta ofrece soporte para diferentes complementos que modifican el esquema de la base de datos y registran rutas HTTP.
 
-**caracteristicas:**
+**Características:**
 
 * Strider se integra con muchos proyectos como GitHub, BitBucket, Gitlab, etc.
 * Permite agregar ganchos para ejecutar acciones de construcci&oacute;n arbitrarias
@@ -93,3 +105,5 @@ Strider CD es una herramienta de c&oacute;digo abierto. Est&aacute; escrito en N
 * Crear y modificar interfaces de usuario Striders
 * Complementos potentes para personalizar las funciones predeterminadas
 * Soporta Docker
+
+<!-- https://www.guru99.com/jenkins-alternative.html -->
