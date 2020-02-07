@@ -16,6 +16,7 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 ---
+
 Existe un gran cambio al modificar tus hábitos y desear cambiar desde un Sistema de Gestión de Contenidos como puede ser Wordpress hacía un Sistema de Contenidos de Generación Estática como puede ser Jekyll, por ello.
 
 Creo este repositorio con todos los enlaces que me han ido ayudando a lo largo de la última semana, tanto con la importación de mi antiguo blog, como con la configuración de la nueva página estática.
