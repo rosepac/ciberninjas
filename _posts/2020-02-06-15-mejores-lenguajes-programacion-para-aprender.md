@@ -422,9 +422,23 @@ Ruby es un lenguaje de programación orientado a objetos simple pero poderoso (t
 
 ![Haskell logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/haskell-logotipo_1280x720.png "Haskell logotipo del lenguaje de programación")
 
+Lo primero que debe saber sobre Haskell es que es un lenguaje funcional. Las funciones en Haskell se describen mejor como relaciones entre datos de entrada y salida. Haskell es un lenguaje declarativo. Este principio se puede demostrar mejor en comparación con los lenguajes imperativos tradicionales como Java o Python. La diferencia entre ellos es que los lenguajes imperativos describen a la máquina cómo debe realizar una determinada acción, mientras que en Haskell solo dices lo que quieres y esperas el resultado. ¿No es asombroso? Incluso si no tienes experiencia en programación, muchas personas recomiendan que comiencen a aprender este idioma.
+
 ### **Pros de Haskell**
 
+* Seguridad de tipo avanzado en comparación con la mayoría de los idiomas principales.
+* Ofrece ejecutable de alto rendimiento.
+* Creación rápida de la idea del prototipo debido al entorno interactivo.
+* Sintaxis altamente expresiva y concisa.
+* Desarrollo y mejoras constamente.
+
 ### **Contras de Haskell**
+
+* Interfaz complicada.
+* Programas crípticos, a veces complejos de entender.
+* No es adecuado para hacer aplicaciones de tiempo crítico.
+* Alto tiempo de aprendizaje.
+* Carece de implementación generalizada.
 
 [⏩ Página Web de Haskell](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
@@ -459,9 +473,19 @@ Rust proporciona una seguridad de memoria garantizada y tiene un control complet
 
 ![OCaml logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/ocaml--logotipo-oficial.png "OCaml logotipo del lenguaje de programación")
 
+OCaml es esencialmente un lenguaje de programación funcional. Sin ofender a FP, pero las principales industrias parecen haber abandonado los lenguajes de FP. Sin embargo, muchas empresas más pequeñas (e incluso algunos gigantes) han reconocido el poder de la FP y están revolucionando su trabajo utilizando lenguajes como Haskell, OCaml, etc. Pero aquí también, OCaml desaparece y Haskell domina. Pero debido al apoyo de varios paradigmas (funcional, imperativo, OO), muchas empresas recurren a OCaml. Dicho esto, OCaml es un lenguaje de programación de propósito general y se puede usar donde sea que se usen otros lenguajes de programación de propósito general como Python, Java, etc.
+
 ### **Pros de OCaml**
 
+ * Sistema de tipos muy expresivo y potente que puede probar mucho sobre el código y proporcionar muchas abstracciones útiles.
+ * El mejor sistema de módulos de cualquier lenguaje comercial.
+ * El compilador Menhir
+
 ### **Contras de OCaml**
+
+* Aún no hay soporte para multinúcleo.
+* Menos bibliotecas en comparación con otros idiomas.
+* Un sistema de tipos que no es intuitivo.
 
 ![ logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720 " logotipo del lenguaje de programación")
 
