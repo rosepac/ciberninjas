@@ -11,16 +11,22 @@ published: false
 
 ## Películas 2020
 
+* La Trinchera Infinita - Pendiente.
+
 ## Películas 2019
 
 * Diecisiete
 * El Rey León
 * A dos metros de ti (2019) (Romántica)
 
+## Películas 2018
+
+* Amor a Medianoche (2018) (Romántica / Drama)
+* Bohemian Rhapsody (2018) (Biográfico)
+* Campeones (2018) (Comedia / Drama) \ [Trailer](https://www.youtube.com/watch?time_continue=122&v=a3e0hWT09YY)
+
 ## Películas Siempre
 
-* Bohemian Rhapsoyd (2018) (Biográfico)
-* Amor a Medianoche (2018) (Romántica / Drama)
 * Capitán Fantástico (2016) (Comedia / Drama)
 * Your Name (2016) (Animación / Romántica / Drama / Fantasía)
 * La Teoría del Todo (2014) (Romántica / Drama)
