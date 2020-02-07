@@ -1,5 +1,4 @@
 ---
-
 title: ▷ Recursos para Aprender Bases de Datos
 description: '📁 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender a Manejar Bases de Datos'
 excerpt: '📁 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender a Manejar Bases de Datos'
@@ -11,16 +10,23 @@ date: 2020-02-07T19:16:00
 last_modified_at: 
 permalink: /bases-datos-recursos/
 canonical_URL: https://ciberninjas.com/bases-datos-recursos/
+# header:
+#  teaser: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
+#  overlay_image: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
+#  overlay_filter: 0.1
+#  image_description: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
+#  image_alt: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
+#  caption: "Créditos: Unsplash"
+#  actions:
+#    - label: "Aprender BBDD"
+#      url: "/bases-datos/"
+
+
 header:
-  teaser: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
-  overlay_image: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
-  overlay_filter: 0.1
-  image_description: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
-  image_alt: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
-  caption: "Créditos\: Unsplash"
-  actions:
-    - label: "Aprender BBDD"
-      url: "/bases-datos/"
+  teaser: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
+  overlay_image: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
+  image_description: "Conoce todos los puestos de trabajo del mundo de la prorgramación y todas las tecnologías que deberías de estudiar para cada empleo indicado en 2020"
+  caption: "**Créditos**: [Sabdo Purnomo](https://dribbble.com/sabdopurnomo)"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

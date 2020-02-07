@@ -18,12 +18,19 @@ toc_sticky: true
 
 Bases de datos NoSq. Qué son y tipos que nos podemos encontrar: https://www.acens.com/wp-content/images/2014/02/bbdd-nosql-wp-acens.pdf : PDF
 
+
+
+Bases de datos NoSQL existentes [MongoDB](https://es.wikipedia.org/wiki/MongoDB), [MemcacheDB](https://en.wikipedia.org/wiki/memcached), [Redis](https://es.wikipedia.org/wiki/Redis), [CouchDB](https://es.wikipedia.org/wiki/CouchDB), [Hazelcast](https://en.wikipedia.org/wiki/Hazelcast), [Apache Cassandra](https://es.wikipedia.org/wiki/Apache_Cassandra) y [HBase](https://en.wikipedia.org/wiki/Apache_HBase), todas ellas de código abierto.
+<!-- basses datos no sql: https://es.wikipedia.org/wiki/NoSQL -->
 ## Los Mejores Artículos de NoSQL en Español
 
 * [Migra, es una herramienta de comparación de esquemas para PostgreSQL](https://migra.djrobstep.com/){:target="_blank"}
-* [CockroachDB ](https://www.cockroachlabs.com/blog/cockroachdb-2-0-release){:target="_blank"}
+
+## [CockroachDB ](https://www.cockroachlabs.com/blog/cockroachdb-2-0-release){:target="_blank"}
 
 CockroachDB debutó como la base de datos de código abierto que hizo posible la creación de aplicaciones en la nube masivas y confiables sin renunciar a SQL. Las empresas con visión de futuro lo adoptaron para ocultar la complejidad de lidiar con la escala distribuida, la resiliencia y los problemas de consistencia en la capa de la base de datos.
+
+* [Migrando a CockroachDB](https://www.openmymind.net/Migrating-To-CockroachDB/){:target="_blank"} 2020, Febrero
 
 :flag_us: Postgre página web oficial, muy completa [https://www.postgresql.org/]
 Mis consultas favoritas de PostgreSql y por qué son importantes: [https://severalnines.com/blog/my-favorite-postgresql-queries-and-why-they-matter]
