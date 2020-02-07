@@ -1,11 +1,11 @@
 ---
 # Página Base
-title: "🎓 ▷ Más de 200 Cursos 🔥 con los que aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica en Inglés"
+title: "🎓 ▷ Cursos de Tecnología en Inglés 🔥 con los que aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica en Inglés"
 description: "Los mejores cursos online en inglés con los que estudiar desarrollo web, seguridad, robótica, redes, criptomonedas, domótica, y mucho más ¡💥 100% GRATIS!"
 excerpt: "Los mejores cursos online en inglés con los que estudiar desarrollo web, seguridad, robótica, redes, criptomonedas, domótica, y mucho más ¡💥 100% GRATIS!"
-published: false
+published: true
 date: 2020-01-10T11:58:00.000+00:00
-last_modified_at: 
+last_modified_at: 2020-02-07
 permalink: /cursos-tecnologia-ingles/
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
