@@ -6,7 +6,7 @@ excerpt: "📌 Posicionamiento Web y SEO. Los mejores enlaces, aplicaciones y he
 published: true
 comments: true
 date: 2019-11-27
-last_modified_at: 2019-11-27
+last_modified_at: 2019-12-23
 permalink: /posicionamiento-seo-recursos/
 canonical_URL: https://ciberninjas.com/posicionamiento-seo-recursos/
 header:
@@ -22,14 +22,16 @@ toc_sticky: false
 
 ---
 
-## Los Mejores Artículos de SEO en Español
+## Los Mejores Artículos de SEO
 
 - [7 Consejos para Convertir tu Twitter en un imán SEO](http://www.ticweb.es/7-consejos-para-convertir-su-twitter-en-un-iman-seo){:target="_blank"}
 - [Buscar Contenido Duplicado](https://blog.alexa.com/duplicate-content-checker){:target="_blank"}
 - [Cómo mantenerse al día sobre rendimiento web](https://perf.reviews/blog/mantenerse-al-dia){:target="_blank"}
 - [Datos estructurados – Microformatos y microdatos para SEO](https://www.initcoms.com/datos-estructurados-microformatos-microdatos-para-seo/#Microformatos_RDFa_microdatos_schemaorg8230Que_utilizar){:target="_blank"}
+- [Los Mejores Blogs de SEO en Español](https://alexserrano.es/mejores-blogs-de-seo-en-espanol/){:target="_blank"}
 - [Google introduce dos nuevos atributos de enlace: “ugc” y “sponsored”](https://useo.es/ugc-sponsored-nofollow){:target="_blank"}
 - [Guía de Robots.txt de Ciberninjas](/robots-txt/)
+- [Guí de Optimización de CSS](https://www.humanlevel.com/articulos/desarrollo-web/optimizacion-de-css.html){:target="_blank"}
 
 ## Los Mejores Artículos de SEO en Inglés
 
@@ -40,20 +42,15 @@ toc_sticky: false
 - [¿Qué es la optimización SEO / Search Engine?](https://searchengineland.com/guide/what-is-seo){:target="_blank"}
 - [Raspado de Contenido: Análisis](https://neilpatel.com/blog/content-scrapers){:target="_blank"}
 
-
-## Los Mejores Blogs de SEO
-
-1. [Neil Patel](https://neilpatel.com/es/blog){:target="_blank"}
-2. [NetGrows](https://netgrows.com/){:target="_blank"}
-
 ## Los Mejores Blogs de SEO en Inglés
 
 1. MOZ
 2. Search Engine Journal
 3. Search Engine Land
 4. Backlinko
-5. Neil Patel
-6. First Page Sage https://firstpagesage.com/seo-blog/
+5. [Neil Patel](https://neilpatel.com/es/blog){:target="_blank"}
+6. [First Page Sage](https://firstpagesage.com/seo-blog/){:target="_blank"}
+7. [NetGrows](https://netgrows.com/){:target="_blank"}
 
 ## Las Mejores Herramientas de SEO y Posicionamiento
 
@@ -85,7 +82,7 @@ toc_sticky: false
 - [Jordi Cor](https://www.youtube.com/channel/UC5dEPIeQC29MZRAGcjy-aAQ/videos){:target="_blank"}
 - [Maurice Szyslak](https://www.youtube.com/channel/UCBq3F30xCad0KvIK2HFV61Q/videos){:target="_blank"}
 
-## Páginas Útiles y Prácticas
+## Páginas de Herramientas Útiles
 
 - [Contador de Palabras](https://www.palabrasque.com/contador-de-palabras){:target="_blank"}
 - [Días Internacionales, Día a Día](https://www.diainternacionalde.com){:target="_blank"}
