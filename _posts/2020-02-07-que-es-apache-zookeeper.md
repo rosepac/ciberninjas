@@ -9,7 +9,7 @@ comments: true
 date: 2020-02-07 11:30:12
 last_modified_at: 
 header:
-  teaser: /assets/images/apache/apache-zookeeper-ciberninjas.wepb
+  teaser: /assets/images/apache/apache-zookeeper-ciberninjas.png
 permalink: /que-es-apache-zookeeper/
 canonical_URL: https://ciberninjas.com/que-es-apache-zookeeper/
 classes: wide
@@ -20,7 +20,7 @@ tags:
 
 ---
 
-![](/assets/images/apache/apache-zookeeper-ciberninjas.wepb "Logotipo del proyecto ZooKeeper")
+![](/assets/images/apache/apache-zookeeper-ciberninjas.png "Logotipo del proyecto ZooKeeper")
 
 Apache ZooKeeper es un esfuerzo por desarrollar y mantener un servidor de código abierto que permita una coordinación distribuida altamente confiable. El proyecto esta dentro del mismo proyecto que Hadoop.
 
