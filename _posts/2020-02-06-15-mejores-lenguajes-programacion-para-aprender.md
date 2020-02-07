@@ -47,11 +47,7 @@ Ante todo esto, los principiantes suelen estar desconcertados con la pregunta de
 
 ### Los 15 Mejores Lenguajes
 
-[Python](/15-mejores-lenguajes-programacion/#python){: .btn .btn--inverse .btn--large} [Java](/15-mejores-lenguajes-programacion/#java){: .btn .btn--inverse .btn--large} [C++](/15-mejores-lenguajes-programacion/#c){: .btn .btn--inverse .btn--large} [Javascript](/15-mejores-lenguajes-programacion/#javascript){: .btn .btn--inverse .btn--large} [Go](/15-mejores-lenguajes-programacion/#go){: .btn .btn--inverse .btn--large}
-
-[R](/15-mejores-lenguajes-programacion/#r){: .btn .btn--inverse .btn--large} [Swift](/15-mejores-lenguajes-programacion/#swift){: .btn .btn--inverse .btn--large} [PHP](/15-mejores-lenguajes-programacion/#php){: .btn .btn--inverse .btn--large} [C#](/15-mejores-lenguajes-programacion/#c-1){: .btn .btn--inverse .btn--large} [Matlab](/15-mejores-lenguajes-programacion/#matlab){: .btn .btn--inverse .btn--large}
-
-[Dart](/15-mejores-lenguajes-programacion/#dart) [Ruby](/15-mejores-lenguajes-programacion/#ruby) [Haskell](/15-mejores-lenguajes-programacion/#haskell) [Rust](/15-mejores-lenguajes-programacion/#Rust) [OCaml](/15-mejores-lenguajes-programacion/#ocaml)
+[Python](/15-mejores-lenguajes-programacion/#python){: .btn .btn--inverse .btn--large} [Java](/15-mejores-lenguajes-programacion/#java){: .btn .btn--inverse .btn--large} [C++](/15-mejores-lenguajes-programacion/#c){: .btn .btn--inverse .btn--large} [Javascript](/15-mejores-lenguajes-programacion/#javascript){: .btn .btn--inverse .btn--large} [Go](/15-mejores-lenguajes-programacion/#go){: .btn .btn--inverse .btn--large} [R](/15-mejores-lenguajes-programacion/#r){: .btn .btn--inverse .btn--large} [Swift](/15-mejores-lenguajes-programacion/#swift){: .btn .btn--inverse .btn--large} [PHP](/15-mejores-lenguajes-programacion/#php){: .btn .btn--inverse .btn--large} [C#](/15-mejores-lenguajes-programacion/#c-1){: .btn .btn--inverse .btn--large} [Matlab](/15-mejores-lenguajes-programacion/#matlab){: .btn .btn--inverse .btn--large} [Dart](/15-mejores-lenguajes-programacion/#dart){: .btn .btn--inverse .btn--large} [Ruby](/15-mejores-lenguajes-programacion/#ruby){: .btn .btn--inverse .btn--large} [Haskell](/15-mejores-lenguajes-programacion/#haskell){: .btn .btn--inverse .btn--large} [Rust](/15-mejores-lenguajes-programacion/#Rust){: .btn .btn--inverse .btn--large} [OCaml](/15-mejores-lenguajes-programacion/#ocaml){: .btn .btn--inverse .btn--large}
 
 ## Python
 
@@ -80,7 +76,7 @@ Ante todo esto, los principiantes suelen estar desconcertados con la pregunta de
 * La capa de acceso a la base de datos es algo inmadura.
 * El enhebrado no es bueno debido a GIL (Global Interpreter Lock).
 
-[⏩ Página Web de Python](https://www.python.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [🎓 Aprender Python](https://www.python.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}  [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Python](https://www.python.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [🎓 Aprender Python](/python/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}  [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## Java
 
