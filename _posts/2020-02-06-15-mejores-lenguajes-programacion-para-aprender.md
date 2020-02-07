@@ -16,7 +16,20 @@ permalink: /15-mejores-lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/15-mejores-lenguajes-programacion/
 classes: wide
 tags:
-- 
+- Python
+- Java
+- Javascript
+- R
+- Go
+- Swift
+- PHP
+- C
+- Matlab
+- Rust
+- OCaml
+- Ruby
+- Haskell
+- Dart
 categories:
 - Excelentes
 
@@ -24,7 +37,7 @@ categories:
 
 ![Los 15 mejores lenguajes de programación que más te interesa aprender durante el 2020](https://i.ibb.co/cXZ8rBn/mejores-paginas-aprender-programacion.jpg "Los 10 lenguajes de programación que más te interesa aprender durante el 2020")
 
-Una de las habilidades más importantes para aprender en el mundo de hoy en día, es saber cómo codificar con un lenguaje de programación. En la actualidad, las computadoras han entrado en casi todas las industrias, desde el piloto automático de un avión hasta el velocímetro digital de una bicicleta pasando por la inclusión del Internet de las cosas en los pequeños electrodomésticos. Casi todo lo que nos rodea, en menor o mayor forma está creado por ordenadores y pequeños chips configurados, y por ende programados.
+Una de las habilidades más importantes para aprender en el mundo de hoy en día, es [saber cómo codificar](/programar/) con un lenguaje de programación. En la actualidad, las computadoras han entrado en casi todas las industrias, desde el piloto automático de un avión hasta el velocímetro digital de una bicicleta pasando por la inclusión del Internet de las cosas en los pequeños electrodomésticos. Casi todo lo que nos rodea, en menor o mayor forma está creado por ordenadores y pequeños chips configurados, y por ende programados.
 
 Además, con los ordenadores, la organización de todas las empresas, organizaciones y estructuras de información del mundo se han renovado. Lejos, se quedan ya los días de la pluma y el papel. Hoy, para almacenar, gestionar, acceder y comprobar la información se necesitan a los sistemas informáticos.
 
@@ -34,17 +47,11 @@ Ante todo esto, los principiantes suelen estar desconcertados con la pregunta de
 
 ### Los 15 Mejores Lenguajes
 
-* [Python](/15-mejores-lenguajes-programacion/#python)
-* [Java](/15-mejores-lenguajes-programacion/#Java)
-* [C++](/15-mejores-lenguajes-programacion/#C++)
-* [Javascript](/15-mejores-lenguajes-programacion/#Javascript)
-* [Go](/15-mejores-lenguajes-programacion/#Go)
-* [R](/15-mejores-lenguajes-programacion/#R)
-* [Swift](/15-mejores-lenguajes-programacion/#Swift)
-* [PHP](/15-mejores-lenguajes-programacion/#PHP)
-* [C#](/15-mejores-lenguajes-programacion/#C#)
-* [Matlab](/15-mejores-lenguajes-programacion/#matlab)
-* [Otros](/15-mejores-lenguajes-programacion/#otros)
+[Python](/15-mejores-lenguajes-programacion/#python){: .btn .btn--inverse .btn--large} [Java](/15-mejores-lenguajes-programacion/#java){: .btn .btn--inverse .btn--large} [C++](/15-mejores-lenguajes-programacion/#c){: .btn .btn--inverse .btn--large} [Javascript](/15-mejores-lenguajes-programacion/#javascript){: .btn .btn--inverse .btn--large} [Go](/15-mejores-lenguajes-programacion/#go){: .btn .btn--inverse .btn--large}
+
+[R](/15-mejores-lenguajes-programacion/#r){: .btn .btn--inverse .btn--large} [Swift](/15-mejores-lenguajes-programacion/#swift){: .btn .btn--inverse .btn--large} [PHP](/15-mejores-lenguajes-programacion/#php){: .btn .btn--inverse .btn--large} [C#](/15-mejores-lenguajes-programacion/#c-1){: .btn .btn--inverse .btn--large} [Matlab](/15-mejores-lenguajes-programacion/#matlab){: .btn .btn--inverse .btn--large}
+
+[Dart](/15-mejores-lenguajes-programacion/#dart) [Ruby](/15-mejores-lenguajes-programacion/#ruby) [Haskell](/15-mejores-lenguajes-programacion/#haskell) [Rust](/15-mejores-lenguajes-programacion/#Rust) [OCaml](/15-mejores-lenguajes-programacion/#ocaml)
 
 ## Python
 
@@ -363,12 +370,10 @@ Plataforma independiente
 
 [⏩ Página Web de Matlab](https://es.mathworks.com/help/matlab/language-fundamentals.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
-No es de uso gratuito, requiere la compra de una licencia.
-No hay mucha aplicación más allá del alcance de la computación numérica.
-Tratar los errores generados durante la compilación cruzada requiere un amplio conocimiento y experiencia.
-Más lento debido a ser un lenguaje de programación interpretado
-
-### Otros
+* No es de uso gratuito, requiere la compra de una licencia.
+* No hay mucha aplicación más allá del alcance de la computación numérica.
+* Tratar los errores generados durante la compilación cruzada requiere un amplio conocimiento y experiencia.
+* Más lento debido a ser un lenguaje de programación interpretado.
 
 ## Dart
 
@@ -376,6 +381,9 @@ Más lento debido a ser un lenguaje de programación interpretado
 
 Dart es un lenguaje de programación de propósito general desarrollado originalmente por Google y luego aprobado como estándar por la organización Ecma. Se utiliza para crear aplicaciones web, de servidor y móviles.
 Dart es un lenguaje de herencia única orientado a objetos, fuertemente tipado, que utiliza una sintaxis de estilo C que transcompila (compilador que convierte el código fuente de un programa a otro idioma) opcionalmente en JavaScript. Admite clases, interfaces, polimorfismo, clases abstractas, genéricos, tipado estático y sistema fuertemente tipado.
+
+**Nivel de dificultad**: Bastante complejo. 3 de 5.
+{: .notice--info}
 
 ### **Pros de Dart**
 
@@ -402,6 +410,9 @@ Dart es un lenguaje de herencia única orientado a objetos, fuertemente tipado, 
 
 Ruby es un lenguaje de programación orientado a objetos simple pero poderoso (todo en Ruby es un objeto), creado por Yukihiro Matsumoto, quien se conoce con el nombre en línea "Matz". Los programas de Ruby son compactos, pero legibles y mantenibles. Ruby ofrece características como bloques, iteradores, metaclases y otros. Se puede usar para escribir servidores , experimentar con prototipos y para tareas de programación cotidianas. Ruby es de código abierto y está disponible de forma gratuita tanto para el desarrollo como para la implementación.
 
+**Nivel de dificultad**: Fácil de aprender. Entre los mejores. 4.5 de 5.
+{: .notice--info}
+
 ### **Pros de Ruby**
 
 * El código escrito en Ruby tiene una menor cantidad de líneas de código.
@@ -423,6 +434,9 @@ Ruby es un lenguaje de programación orientado a objetos simple pero poderoso (t
 ![Haskell logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/haskell-logotipo_1280x720.png "Haskell logotipo del lenguaje de programación")
 
 Lo primero que debe saber sobre Haskell es que es un lenguaje funcional. Las funciones en Haskell se describen mejor como relaciones entre datos de entrada y salida. Haskell es un lenguaje declarativo. Este principio se puede demostrar mejor en comparación con los lenguajes imperativos tradicionales como Java o Python. La diferencia entre ellos es que los lenguajes imperativos describen a la máquina cómo debe realizar una determinada acción, mientras que en Haskell solo dices lo que quieres y esperas el resultado. ¿No es asombroso? Incluso si no tienes experiencia en programación, muchas personas recomiendan que comiencen a aprender este idioma.
+
+**Nivel de dificultad**: Altamente complicado. 2 de 5.
+{: .notice--info}
 
 ### **Pros de Haskell**
 
@@ -450,6 +464,9 @@ Rust es el tercer lenguaje de programación de más rápido crecimiento después
 
 Rust proporciona una seguridad de memoria garantizada y tiene un control completo sobre el ciclo de vida de la memoria. Con el paralelismo y la modularidad mejorados, le ayuda a escribir mejor los programas. Mozilla, un famoso navegador web fue desarrollado usando Rust.
 
+**Nivel de dificultad**: Altamente complejo. 2 de 5.
+{: .notice--info}
+
 ### **Pros de Rust**
 
 * Seguridad garantizada.
@@ -475,19 +492,20 @@ Rust proporciona una seguridad de memoria garantizada y tiene un control complet
 
 OCaml es esencialmente un lenguaje de programación funcional. Sin ofender a FP, pero las principales industrias parecen haber abandonado los lenguajes de FP. Sin embargo, muchas empresas más pequeñas (e incluso algunos gigantes) han reconocido el poder de la FP y están revolucionando su trabajo utilizando lenguajes como Haskell, OCaml, etc. Pero aquí también, OCaml desaparece y Haskell domina. Pero debido al apoyo de varios paradigmas (funcional, imperativo, OO), muchas empresas recurren a OCaml. Dicho esto, OCaml es un lenguaje de programación de propósito general y se puede usar donde sea que se usen otros lenguajes de programación de propósito general como Python, Java, etc.
 
+**Nivel de dificultad**: Altamente complejo. 2 de 5.
+{: .notice--info}
+
 ### **Pros de OCaml**
 
- * Sistema de tipos muy expresivo y potente que puede probar mucho sobre el código y proporcionar muchas abstracciones útiles.
- * El mejor sistema de módulos de cualquier lenguaje comercial.
- * El compilador Menhir
+* Sistema de tipos muy expresivo y potente que puede probar mucho sobre el código y proporcionar muchas abstracciones útiles.
+* El mejor sistema de módulos de cualquier lenguaje comercial.
+* El compilador Menhir
 
 ### **Contras de OCaml**
 
 * Aún no hay soporte para multinúcleo.
 * Menos bibliotecas en comparación con otros idiomas.
 * Un sistema de tipos que no es intuitivo.
-
-![ logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720 " logotipo del lenguaje de programación")
 
 [⏩ Página Web de Ocaml](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 <!-- Agregar lua -->
