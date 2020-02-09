@@ -3,13 +3,17 @@ author_profile: true
 title: "▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python 🎓"
 description: "Los mejores tutoriales, cursos y artículos sobre machine learning / aprendizaje profundo para 2020"
 excerpt: "Los mejores tutoriales, cursos y artículos sobre machine learning / aprendizaje profundo para 2020"
-published: true
+published: false
 comments: true
 date: 2020-01-10 23:20:12
 last_modified_at:
 canonical_URL: /aprendizaje-automatico-cursos-ingles/
 categories:
 - Aprendizaje Automático
+tags:
+- Python
+- PNL
+- Recursos
 header:
   teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg

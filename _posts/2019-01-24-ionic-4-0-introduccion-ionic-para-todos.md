@@ -5,6 +5,7 @@ description: '🚀 Ayer fue lanzada la versión del Framework basado en la creac
 published: true
 author: rosepac
 comments: true
+classes: wide
 date: 2019-01-24 07:01:33
 last_modified_at: 2019-10-30T09:36:00
 tags:
