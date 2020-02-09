@@ -9,7 +9,7 @@ comments: true
 date: 2020-02-08 09:23:12
 last_modified_at: 
 header:
-  teaser: /assets/images/apache/apache-zookeeper-ciberninjas.png
+  teaser: /assets/images/apache/apache-zookeeper-ciberninjas.webp
 permalink: /windows-template-studio-recursos-para-aplicaciones-con-xaml-net/
 canonical_URL: https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/
 classes: wide

@@ -16,7 +16,7 @@ tags:
 - Exámenes
 - Agenda
 header:
-  overlay_image: /assets/images/j-kelly-brito-d03zfiNOlXI-unsplash-peque.jpg
+  overlay_image: /assets/images/j-kelly-brito-d03zfiNOlXI-unsplash-peque.webp
   image_description: "El mejor listado de las mejores aplicaciones escolares de seguimiento de tareas para el curso de 2019 | Ciberninjas"
   overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
   caption: "**Créditos**: Foto de [J. Kelly Brito](https://unsplash.com/@hellokellybrito?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/collections/8610643/educacion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
@@ -25,101 +25,101 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 agenda-croqueta-1:
-  - url: /assets/images/catalogo/agenda-croqueta-1.jpg
-    image_path: /assets/images/catalogo/agenda-croqueta-1.jpg
+  - url: /assets/images/catalogo/agenda-croqueta-1.webp
+    image_path: /assets/images/catalogo/agenda-croqueta-1.webp
     alt: "Parte de Delante de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Delante de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-croqueta-2.jpg
-    image_path: /assets/images/catalogo/agenda-croqueta-2.jpg 
+  - url: /assets/images/catalogo/agenda-croqueta-2.webp
+    image_path: /assets/images/catalogo/agenda-croqueta-2.webp 
     alt: "Interior de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
     title: "Interior de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-croqueta-3.jpg
-    image_path: /assets/images/catalogo/agenda-croqueta-3.jpg 
+  - url: /assets/images/catalogo/agenda-croqueta-3.webp
+    image_path: /assets/images/catalogo/agenda-croqueta-3.webp 
     alt: "Parte de Atrás de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-croqueta-4.jpg
-    image_path: /assets/images/catalogo/agenda-croqueta-4.jpg 
+  - url: /assets/images/catalogo/agenda-croqueta-4.webp
+    image_path: /assets/images/catalogo/agenda-croqueta-4.webp 
     alt: "Interior de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
     title: "Interior de la Agenda Escolar de la dibujante Ana Oncina 2019/2020 | Visto en Ciberninjas"
 agenda-defreds-1:
-  - url: /assets/images/catalogo/agenda-defreds-1.jpg
-    image_path: /assets/images/catalogo/agenda-defreds-1.jpg
+  - url: /assets/images/catalogo/agenda-defreds-1.webp
+    image_path: /assets/images/catalogo/agenda-defreds-1.webp
     alt: "Parte de Delante de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Delante de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-defreds-2.jpg
-    image_path: /assets/images/catalogo/agenda-defreds-2.jpg
+  - url: /assets/images/catalogo/agenda-defreds-2.webp
+    image_path: /assets/images/catalogo/agenda-defreds-2.webp
     alt: "Interior de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Interior de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-defreds-3.jpg
-    image_path: /assets/images/catalogo/agenda-defreds-3.jpg
+  - url: /assets/images/catalogo/agenda-defreds-3.webp
+    image_path: /assets/images/catalogo/agenda-defreds-3.webp
     alt: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-defreds-4.jpg
-    image_path: /assets/images/catalogo/agenda-defreds-4.jpg
+  - url: /assets/images/catalogo/agenda-defreds-4.webp
+    image_path: /assets/images/catalogo/agenda-defreds-4.webp
     alt: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar del escritor web digital Defreuds 2019/2020 | Visto en Ciberninjas"
 agenda-lucia-1:
-  - url: /assets/images/catalogo/agenda-lucia-1.jpg
-    image_path: /assets/images/catalogo/agenda-lucia-1.jpg
+  - url: /assets/images/catalogo/agenda-lucia-1.webp
+    image_path: /assets/images/catalogo/agenda-lucia-1.webp
     alt: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-lucia-2.jpg
-    image_path: /assets/images/catalogo/agenda-lucia-2.jpg
+  - url: /assets/images/catalogo/agenda-lucia-2.webp
+    image_path: /assets/images/catalogo/agenda-lucia-2.webp
     alt: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-lucia-3.jpg
-    image_path: /assets/images/catalogo/agenda-lucia-3.jpg
+  - url: /assets/images/catalogo/agenda-lucia-3.webp
+    image_path: /assets/images/catalogo/agenda-lucia-3.webp
     alt: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-lucia-4.jpg
-    image_path: /assets/images/catalogo/agenda-lucia-4.jpg
+  - url: /assets/images/catalogo/agenda-lucia-4.webp
+    image_path: /assets/images/catalogo/agenda-lucia-4.webp
     alt: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020 | Visto en Ciberninjas"
 agenda-lyona-1:
-  - url: /assets/images/catalogo/agenda-lyona-1.jpg
-    image_path: /assets/images/catalogo/agenda-lyona-1.jpg
+  - url: /assets/images/catalogo/agenda-lyona-1.webp
+    image_path: /assets/images/catalogo/agenda-lyona-1.webp
     alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-lyona-2.jpg
-    image_path: /assets/images/catalogo/agenda-lyona-2.jpg
+  - url: /assets/images/catalogo/agenda-lyona-2.webp
+    image_path: /assets/images/catalogo/agenda-lyona-2.webp
     alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-lyona-3.jpg
-    image_path: /assets/images/catalogo/agenda-lyona-3.jpg
+  - url: /assets/images/catalogo/agenda-lyona-3.webp
+    image_path: /assets/images/catalogo/agenda-lyona-3.webp
     alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-lyona-4.jpg
-    image_path: /assets/images/catalogo/agenda-lyona-4.jpg
+  - url: /assets/images/catalogo/agenda-lyona-4.webp
+    image_path: /assets/images/catalogo/agenda-lyona-4.webp
     alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-lyona-5.jpg
-    image_path: /assets/images/catalogo/agenda-lyona-5.jpg
+  - url: /assets/images/catalogo/agenda-lyona-5.webp
+    image_path: /assets/images/catalogo/agenda-lyona-5.webp
     alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-lyona-6.jpg
-    image_path: /assets/images/catalogo/agenda-lyona-6.jpg
+  - url: /assets/images/catalogo/agenda-lyona-6.webp
+    image_path: /assets/images/catalogo/agenda-lyona-6.webp
     alt: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la ilustradora Lyona 2019/2020 | Visto en Ciberninjas"
 agenda-moderna-1:
-  - url: /assets/images/catalogo/agenda-moderna-1.jpg
-    image_path: /assets/images/catalogo/agenda-moderna-1.jpg
+  - url: /assets/images/catalogo/agenda-moderna-1.webp
+    image_path: /assets/images/catalogo/agenda-moderna-1.webp
     alt: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-moderna-2.jpg
-    image_path: /assets/images/catalogo/agenda-moderna-2.jpg
+  - url: /assets/images/catalogo/agenda-moderna-2.webp
+    image_path: /assets/images/catalogo/agenda-moderna-2.webp
     alt: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-moderna-3.jpg
-    image_path: /assets/images/catalogo/agenda-moderna-3.jpg
+  - url: /assets/images/catalogo/agenda-moderna-3.webp
+    image_path: /assets/images/catalogo/agenda-moderna-3.webp
     alt: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-moderna-4.jpg
-    image_path: /assets/images/catalogo/agenda-moderna-4.jpg
+  - url: /assets/images/catalogo/agenda-moderna-4.webp
+    image_path: /assets/images/catalogo/agenda-moderna-4.webp
     alt: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas"
 agenda-monica-1:
-  - url: /assets/images/catalogo/agenda-monica-1.jpg
-    image_path: /assets/images/catalogo/agenda-monica-1.jpg
+  - url: /assets/images/catalogo/agenda-monica-1.webp
+    image_path: /assets/images/catalogo/agenda-monica-1.webp
     alt: "Agenda Escolar de la reina de Musically y TikTok, Mónica Morán 2019/2020 | Visto en Ciberninjas"
     title: "Agenda Escolar de la reina de Musically y TikTok, Mónica Morán 2019/2020 | Visto en Ciberninjas"
 ---

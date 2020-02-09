@@ -12,8 +12,8 @@ date: 2020-02-07T19:10:00
 permalink: /bases-datos/
 canonical_URL: https://ciberninjas.com/bases-datos/
 header:
-  teaser: "/assets/images/paginas/sql-imagen-ciberninjasx1280.png"
-  overlay_image: "/assets/images/paginas/sql-imagen-ciberninjasx1280.png"
+  teaser: "/assets/images/paginas/sql-imagen-ciberninjasx1280.webp"
+  overlay_image: "/assets/images/paginas/sql-imagen-ciberninjasx1280.webp"
   overlay_filter: 0.1
   image_description: "Logotipo de SQL visto en Ciberninjas"
   image_alt: "Logotipo de SQL visto en Ciberninjas"

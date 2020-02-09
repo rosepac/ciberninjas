@@ -15,7 +15,7 @@ tags:
 - Exámenes
 - Agenda
 header:
-  overlay_image: /assets/images/j-kelly-brito-d03zfiNOlXI-unsplash-peque.jpg
+  overlay_image: /assets/images/j-kelly-brito-d03zfiNOlXI-unsplash-peque.webp
   image_description: "El mejor listado de las mejores aplicaciones escolares de seguimiento de tareas para el curso de 2019 | Ciberninjas"
   overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
   caption: "**Créditos**: Foto de [J. Kelly Brito](https://unsplash.com/@hellokellybrito?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/collections/8610643/educacion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
@@ -24,67 +24,67 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 agenda-wars-1:
-  - url: /assets/images/catalogo/agenda-wars-1.jpg
-    image_path: /assets/images/catalogo/agenda-wars-1.jpg
+  - url: /assets/images/catalogo/agenda-wars-1.webp
+    image_path: /assets/images/catalogo/agenda-wars-1.webp
     alt: "Parte de Delante de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Delante de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-wars-2.jpg
-    image_path: /assets/images/catalogo/agenda-wars-2.jpg
+  - url: /assets/images/catalogo/agenda-wars-2.webp
+    image_path: /assets/images/catalogo/agenda-wars-2.webp
     alt: "Interior de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
     title: "Interior de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-wars-3.jpg
-    image_path: /assets/images/catalogo/agenda-wars-3.jpg
+  - url: /assets/images/catalogo/agenda-wars-3.webp
+    image_path: /assets/images/catalogo/agenda-wars-3.webp
     alt: "Parte Central de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
     title: "Parte Central de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-wars-4.jpg
-    image_path: /assets/images/catalogo/agenda-wars-4.jpg
+  - url: /assets/images/catalogo/agenda-wars-4.webp
+    image_path: /assets/images/catalogo/agenda-wars-4.webp
     alt: "Parte de Atrás de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar de Star Wars: La Guerra de las Galaxias 2019/2020 | Visto en Ciberninjas"
 agenda-fortnite-1:
-  - url: /assets/images/catalogo/agenda-fortnite-1.jpg
-    image_path: /assets/images/catalogo/agenda-fortnite-1.jpg
+  - url: /assets/images/catalogo/agenda-fortnite-1.webp
+    image_path: /assets/images/catalogo/agenda-fortnite-1.webp
     alt: "Parte de Delante de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Delante de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-fortnite-3.jpg
-    image_path: /assets/images/catalogo/agenda-fortnite-3.jpg
+  - url: /assets/images/catalogo/agenda-fortnite-3.webp
+    image_path: /assets/images/catalogo/agenda-fortnite-3.webp
     alt: "Interior de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
     title: "Interior de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-fortnite-2.jpg
-    image_path: /assets/images/catalogo/agenda-fortnite-2.jpg
+  - url: /assets/images/catalogo/agenda-fortnite-2.webp
+    image_path: /assets/images/catalogo/agenda-fortnite-2.webp
     alt: "Parte de Atrás de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar del videojuego Fortnite 2019/2020 | Visto en Ciberninjas"
 agenda-gamer-1:
-  - url: /assets/images/catalogo/agenda-gamer-1.jpg
-    image_path: /assets/images/catalogo/agenda-gamer-1.jpg
+  - url: /assets/images/catalogo/agenda-gamer-1.webp
+    image_path: /assets/images/catalogo/agenda-gamer-1.webp
     alt: "Parte de Delante de la Agenda Escolar Retro PacMan 2019/2020 - Modelo 1 | Visto en Ciberninjas"
     title: "Parte de Delante de la Agenda Escolar Retro PacMan 2019/2020 - Modelo 1 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-gamer-2.jpg
-    image_path: /assets/images/catalogo/agenda-gamer-2.jpg
+  - url: /assets/images/catalogo/agenda-gamer-2.webp
+    image_path: /assets/images/catalogo/agenda-gamer-2.webp
     alt: "Interior de la Agenda Escolar Retro PacMan 2019/2020 - Modelo 1 | Visto en Ciberninjas"
     title: "Interior de la Agenda Escolar Retro PacMan 2019/2020 - Modelo 1 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-gamer-3.jpg
-    image_path: /assets/images/catalogo/agenda-gamer-3.jpg
+  - url: /assets/images/catalogo/agenda-gamer-3.webp
+    image_path: /assets/images/catalogo/agenda-gamer-3.webp
     alt: "Pegatinas Incluidas de la Agenda Escolar Retro PacMan 2019/2020 - Modelo 1 | Visto en Ciberninjas"
     title: "Pegatinas Incluidas de la Agenda Escolar Retro PacMan 2019/2020 - Modelo 1 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-gamer-4.jpg
-    image_path: /assets/images/catalogo/agenda-gamer-4.jpg
+  - url: /assets/images/catalogo/agenda-gamer-4.webp
+    image_path: /assets/images/catalogo/agenda-gamer-4.webp
     alt: "Parte de Atrás de la Agenda Escolar Retro PacMan 2019/2020 - Modelo 1 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar Retro PacMan 2019/2020 - Modelo 1 | Visto en Ciberninjas"
 agenda-gamer-2:
-  - url: /assets/images/catalogo/agenda-gamer2-1.jpg
-    image_path: /assets/images/catalogo/agenda-gamer2-1.jpg
+  - url: /assets/images/catalogo/agenda-gamer2-1.webp
+    image_path: /assets/images/catalogo/agenda-gamer2-1.webp
     alt: "Parte de Delante de la Agenda Escolar Retro Gamer 2019/2020 - Modelo 2 | Visto en Ciberninjas"
     title: "Parte de Delante de la Agenda Escolar Retro Gamer 2019/2020 - Modelo 2 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-gamer2-2.jpg
-    image_path: /assets/images/catalogo/agenda-gamer2-2.jpg
+  - url: /assets/images/catalogo/agenda-gamer2-2.webp
+    image_path: /assets/images/catalogo/agenda-gamer2-2.webp
     alt: "Interior de la Agenda Escolar Retro Gamer 2019/2020 - Modelo 2 | Visto en Ciberninjas"
     title: "Interior de la Agenda Escolar Retro Gamer 2019/2020 - Modelo 2 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-gamer2-3.jpg
-    image_path: /assets/images/catalogo/agenda-gamer2-3.jpg
+  - url: /assets/images/catalogo/agenda-gamer2-3.webp
+    image_path: /assets/images/catalogo/agenda-gamer2-3.webp
     alt: "Pegatinas Incluidas de la Agenda Escolar Retro Gamer 2019/2020 - Modelo 2 | Visto en Ciberninjas"
     title: "Pegatinas Incluidas de la Agenda Escolar Retro Gamer 2019/2020 - Modelo 2 | Visto en Ciberninjas"
-  - url: /assets/images/catalogo/agenda-gamer2-4.jpg
-    image_path: /assets/images/catalogo/agenda-gamer2-4.jpg
+  - url: /assets/images/catalogo/agenda-gamer2-4.webp
+    image_path: /assets/images/catalogo/agenda-gamer2-4.webp
     alt: "Parte de Atrás de la Agenda Escolar Retro Gamer 2019/2020 - Modelo 2 | Visto en Ciberninjas"
     title: "Parte de Atrás de la Agenda Escolar Retro Gamer 2019/2020 - Modelo 2 | Visto en Ciberninjas"
 ---
