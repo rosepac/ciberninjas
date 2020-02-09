@@ -45,6 +45,8 @@ header:
 
 Software de composición de código abierto para efectos visuales y gráficos en movimiento.
 
+* [Animación Pencil 2D](https://www.pencil2d.org/) 
+https://www.youtube.com/watch?v=aa9PCu_UZpg
 <!-- https://alternativeto.net/software/natron/ -->
 
 ## Concursos de Diseño Gráfico

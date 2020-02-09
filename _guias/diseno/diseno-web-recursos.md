@@ -116,6 +116,7 @@ Webflow brinda a los diseñadores y desarrolladores el poder de diseñar, constr
 * [Android Oreo le da un mordisco a las aplicaciones web progresivas](https://medium.com/@firt/android-oreo-takes-a-bite-out-of-progressive-web-apps-30b7e854648f){:target="_blank"}
 * [Comenzando con Wearables](http://www.smashingmagazine.com/2015/10/getting-started-wearables-plan-build-design/){:target="_blank"} en Smashing Magazine
 * Frameworks de [aplicaciones móviles nativas de la web: cómo clasificar las opciones](http://techbeacon.com/web-native-mobile-app-frameworks-how-sort-through-choices){:target="_blank"} en TechBeacon
+* [Construir un PWA usando Workbox](https://medium.com/the-web-tub/build-a-pwa-using-workbox-2eda1ef51d88){:target="_blank"} (2019, Enero)
 * [Google Play Store ahora está abierto a aplicaciones web progresivas](https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc){:target="_blank"}
 * [HTML5 Mobile Development RefCard](http://refcardz.dzone.com/refcardz/html5-mobile-development){:target="_blank"} en DZone
 * [HTML5 Mobile Tricks](http://www.creativebloq.com/html5/12-html5-tricks-mobile-81412803){:target="_blank"} - Artículo destacado de portada en la [revista .net # 256](http://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-august-14-issue-256/){:target="_blank"}
