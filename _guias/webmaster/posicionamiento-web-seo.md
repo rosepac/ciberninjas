@@ -7,22 +7,24 @@ published: true
 comments: true
 classes: wide
 date: 2018-04-25
-last_modified_at: 2019-10-30
+last_modified_at: 2020-02-09
 permalink: /posicionamiento-web-seo/
 canonical_URL: https://ciberninjas.com/posicionamiento-web-seo/
 header:
-  image: "/assets/images/seo-posicionamiento-ciberninjas.webp"
+  overlay_image: "/assets/images/seo-posicionamiento-ciberninjas.webp"
   image_description: El SEO y el Posicionamiento, vamos a aprender desde cero todo lo que debemos saber | Ciberninjas
   caption: "**Créditos**: Edición Personal Sobre Foto de Merakist en Unsplash"
   teaser: "/assets/images/seo-posicionamiento-ciberninjas.webp"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: false
 
 ---
 
 Las búsquedas a través de los buscadores están en constante cambio, más siempre se puede aprender los conocimientos necesarios que hagan marcar la diferencia; de lo contrario, si todo esto te parecen cuentos chinos o tu tiempo es demasiado valioso como para dedicarte a ello; puedes contar conmigo.
+
+[Historia del SEO](/posicionamiento-web-seo/#la-historia-del-seo){: .btn .btn--inverse .btn--large} [Estructura Básica](/posicionamiento-web-seo/#la-estructura-básica-y-fundamental){: .btn .btn--inverse .btn--large} [Qué es y por qué es importante el SEO](/posicionamiento-web-seo/#qué-es-y-por-qué-es-importante-el-seo){: .btn .btn--inverse .btn--large} [Cuplir la intención del usuario](/posicionamiento-web-seo/#cumplir-la-intención-del-usuario){: .btn .btn--inverse .btn--large} [Sobre los motores de búsqueda](/posicionamiento-web-seo/#sobre-los-motores-de-búsqueda){: .btn .btn--inverse .btn--large} [Google Search Console](/posicionamiento-web-seo/#definiendo-parámetros-de-url-en-google-search-console){: .btn .btn--inverse .btn--large} [Consejos para tu negocio](/posicionamiento-web-seo/#consejos-importantes-para-posicionar-tu-negocio-local){: .btn .btn--inverse .btn--large} [análisis de Keywords Express](/posicionamiento-web-seo/#análisis-de-keywords-express){: .btn .btn--inverse .btn--large}
 
 ## La Historia del SEO
 
@@ -65,7 +67,7 @@ Los rastreadores de motores de búsqueda web pueden observar varios factores dif
 
 Hoy, casi la gente está buscando en Google usando un dispositivo móvil. En noviembre de 2016, Google anunció una modificación importante en la forma de rastrear sitios web y comenzó a hacer que su índice sea el primero en dispositivos móviles, lo que significa que la relación móvil de su sitio web se convierte en el punto de partida de lo que Google incluye en su índice.
 
-Para evitar contenido no deseado en los índices de búsqueda, los webmasters pueden indicar a las arañas que no rastreen archivos o directorios seguros a través del archivo Robots.txt de especificaciones en el directorio raíz del dominio. Además, una página puede excluirse explícitamente de la base de datos de un motor de búsqueda mediante el uso de una etiqueta Meta específica para robots comúnmente <meta name = "robots" content = "noindex">. Cuando un motor de búsqueda visita un sitio, el archivo robots.txt ubicado en el directorio raízes el primer archivo rastreado. El archivo robots.txt se analiza y le indica al robot qué páginas no se deben rastrear. Como un rastreador de motores de búsqueda puede mantener una copia en caché de este archivo, en ocasiones puede rastrear páginas que un webmaster no desea rastrear. Las páginas que normalmente se evitan rastrear incluyen páginas específicas de inicio de sesión, como carritos de compras y contenido específico del usuario, como resultados de búsqueda de búsquedas internas. En marzo de 2007, Google advirtió a los webmasters que deberían evitar la indexación de los resultados de búsqueda internos porque esas páginas se consideran spam de búsqueda.
+Para evitar contenido no deseado en los índices de búsqueda, los webmasters pueden indicar a las arañas que no rastreen archivos o directorios seguros a través del archivo Robots.txt de especificaciones en el directorio raíz del dominio. Además, una página puede excluirse explícitamente de la base de datos de un motor de búsqueda mediante el uso de una etiqueta Meta específica para robots comúnmente `````<meta name= "robots" content = "noindex">`````. Cuando un motor de búsqueda visita un sitio, el archivo robots.txt ubicado en el directorio raízes el primer archivo rastreado. El archivo robots.txt se analiza y le indica al robot qué páginas no se deben rastrear. Como un rastreador de motores de búsqueda puede mantener una copia en caché de este archivo, en ocasiones puede rastrear páginas que un webmaster no desea rastrear. Las páginas que normalmente se evitan rastrear incluyen páginas específicas de inicio de sesión, como carritos de compras y contenido específico del usuario, como resultados de búsqueda de búsquedas internas. En marzo de 2007, Google advirtió a los webmasters que deberían evitar la indexación de los resultados de búsqueda internos porque esas páginas se consideran spam de búsqueda.
 
 Una variedad de métodos puede aumentar la importancia de una página web en los resultados de búsqueda. Los métodos de vinculación de sitios web entre páginas del mismo sitio web para generar más enlaces a páginas importantes pueden actualizar su visibilidad. Escribir contenido que incluya frases de palabras clave buscadas con frecuencia, para que sea relevante para una amplia variedad de consultas de búsqueda, tenderá a aumentar el tráfico. Actualizar el contenido para que los motores de búsqueda se rastreen con frecuencia puede dar un peso extra a un sitio. Agregar palabras clave relevantes a los metadatos de una página web, incluida la etiqueta HEAD , tenderá a mejorar la relevancia de las listas de búsqueda de un sitio, aumentando así el tráfico. Canonicalización de URL de páginas web accesibles mediante URL combinadas, utilizando el elemento conectivo canónicoo mediante la redirección 301 puede ayudar a que ciertos enlaces a diferentes versiones de la URL cuenten para el puntaje de popularidad de asociación de la página.
 
@@ -117,6 +119,7 @@ En sexto lugar, y ya para finalizar; el apartado que se aproxima más a la progr
 A continuación veamos los conceptos más básicos y algunas de las mejores prácticas en Google y Bing, a continuación.
 
 ### ¿Qué es el SEO?
+
 El significado del SEO es "optimización de los motores de búsqueda" y nace de las siglas de las palabras en inglés "Search Engine Optimization" el concepto en sí; se ha enfocado y ha pasado a utilizarse como denominación del conjunto de prácticas aplicados que generan un aumento del tráfico y la calidad de esté, sobre una aplicación o página web a través de resultados de búsquedas "orgánicas" también conocidas como búsquedas generadas de forma natural.
 
 
@@ -147,6 +150,8 @@ Seguramente, lo que los usuarios desean encontrar en referencia a nuestra búsqu
 Antes de comenzar con el SEO, es importante establecer los objetivos correctos a los que deseas alcanzar. Establecer unos objetivos inteligentes y que seas capaz de controlar para tus clientes.
 
 ## Sobre los motores de búsqueda
+
+[Mejores Prácticas](/posicionamiento-web-seo/#las-mejores-prácticas-en-google--otros-buscadores){: .btn .btn--inverse .btn--large} [Peores Prácticas](/posicionamiento-web-seo/#las-peores-prácticas-ante-los-ojos-de-google--otros-buscadores){: .btn .btn--inverse .btn--large} [Funcionamiento](/posicionamiento-web-seo/#cómo-funcionan-los-motores-de-búsquedas){: .btn .btn--inverse .btn--large} [Qué es el rastreo](/posicionamiento-web-seo/#qué-es-el-rastreo-de-los-motores-de-búsqueda){: .btn .btn--inverse .btn--large} [Qué es el índice](/posicionamiento-web-seo/#qué-es-el-índice-del-motor-de-búsqueda){: .btn .btn--inverse .btn--large} [Posicionamiento](/posicionamiento-web-seo/#posicionamiento-en-buscadores){: .btn .btn--inverse .btn--large} [Ofrecer tu página](/posicionamiento-web-seo/#rastreo-los-motores-de-búsqueda-pueden-encontrar-tu-página){: .btn .btn--inverse .btn--large} [Robots.txt](/posicionamiento-web-seo/#robotstxt){: .btn .btn--inverse .btn--large} [Googlebot](/posicionamiento-web-seo/#cómo-trata-googlebot-los-archivos-robotstxt){: .btn .btn--inverse .btn--large} [Optimizar rastreo](/posicionamiento-web-seo/#optimizar-para-el-presupuesto-de-rastreo){: .btn .btn--inverse .btn--large}
 
 Los motores de búsqueda apoyan el trabajo de las Comunidades de SEO, de hecho fueron creados para ayudarnos a tener éxito.
 
@@ -263,6 +268,8 @@ No todos los robots web siguen a robots.txt. Las personas con malas intenciones 
 
 ## Definiendo parámetros de URL en Google Search Console
 
+[Rastrear contenido importante](/posicionamiento-web-seo/#los-rastreadores-pueden-encontrar-todo-tu-contenido-importante){: .btn .btn--inverse .btn--large} [Contenido visible](/posicionamiento-web-seo/#está-tu-contenido-oculto-detrás-de-formularios-de-inicio-de-sesión){: .btn .btn--inverse .btn--large} [Confias en tu buscador](/posicionamiento-web-seo/#estás-confiando-en-los-formularios-de-búsqueda){: .btn .btn--inverse .btn--large} [Texto Oculto](/posicionamiento-web-seo/#está-el-texto-oculto-dentro-del-contenido-no-textual){: .btn .btn--inverse .btn--large} [Qué es el rastreo](/posicionamiento-web-seo/#qué-es-el-rastreo-de-los-motores-de-búsqueda){: .btn .btn--inverse .btn--large} [Navegación Correcta](/posicionamiento-web-seo/#los-motores-de-búsqueda-pueden-seguir-la-navegación-de-su-sitio){: .btn .btn--inverse .btn--large} [Errores de navegación](/posicionamiento-web-seo/#errores-de-navegación-comunes-que-pueden-impedir-que-los-rastreadores-vean-todo-tu-sitio){: .btn .btn--inverse .btn--large} [Arquitectura limpia](/posicionamiento-web-seo/#tienes-una-arquitectura-de-la-información-limpia){: .btn .btn--inverse .btn--large} [Utilizas Sitemaps](/posicionamiento-web-seo/#estás-utilizando-sitemaps){: .btn .btn--inverse .btn--large}
+
 Algunos sitios (los más comunes en el comercio electrónico) hacen que el mismo contenido esté disponible en varias URL diferentes agregando ciertos parámetros a las URL. Si alguna vez ha comprado en línea, es probable que haya reducido tu búsqueda a través de filtros. Por ejemplo, puede buscar "zapatos" en Amazon y luego refinar tu búsqueda por tamaño, color y estilo. Cada vez que filtras, la URL cambia ligeramente:
 
 https://www.ejemplo.com/productos/mujer/vestidos/verde.html
@@ -316,8 +323,10 @@ La arquitectura de la información es la práctica de organizar y etiquetar cont
 Un "sitemap" o mapa del sitio, es exactamente lo que su propio nombre indica: una lista de URL´s de tu página web que los rastreadores pueden usar para descubrir e indexar tu contenido. Una de las maneras más fáciles de asegurarse de que Google encuentre tus páginas de mayor prioridad es crear un archivo que cumpla con los estándares de Google y enviarlo a través de la Consola de Búsqueda de Google. Si bien el envío de un "sitemap" no reemplaza la necesidad de una buena navegación del sitio, si puede ayudar a los rastreadores a seguir una ruta a todas las páginas importantes.
 
 ## Consejos importantes para posicionar tu negocio local
-Si la empresa en cuestión, ya bien sea una tienda o un negocio que recurra a la ubicación del usuario para ofrecer sus servicios. Quiere decir que se requiere de realizar SEO local, donde se trabajará principalmente a través de Google My Busines y otras plataformas centradas en la agregación de negocios por zonas concretas.
 
+[Principios básicos](/posicionamiento-web-seo/#principios-básicos-para-mejorar-tu-posicionamiento-local){: .btn .btn--inverse .btn--large} [Detalles a evitar](/posicionamiento-web-seo/#posibles-detalles-a-evitar-a-la-hora-de-posicionar-localmente){: .btn .btn--inverse .btn--large}
+
+Si la empresa en cuestión, ya bien sea una tienda o un negocio que recurra a la ubicación del usuario para ofrecer sus servicios. Quiere decir que se requiere de realizar SEO local, donde se trabajará principalmente a través de Google My Busines y otras plataformas centradas en la agregación de negocios por zonas concretas.
 
 A la hora de utilizar Google My Business se debe tener en cuenta que Google siga ciertas pautas, entre algunas de ellas:
 
