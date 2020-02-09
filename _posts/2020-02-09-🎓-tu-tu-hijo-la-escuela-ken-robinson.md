@@ -1,26 +1,27 @@
 ---
-title: "🎓 El Elemento: Descubrir tu pasión lo cambia todo de Ken Robinson"
+title: "🎓 Tú, tu hijo y la escuela: El camino para darle la mejor educación de Ken Robinson"
 categories:
   - Catálogo
   - Desarrollo Personal
+  - Educación
 tags:
   - Libro
-  - Debolsillo (Editorial)
+  - Grijalbo (Editorial)
   - Ken Robinson
 comments: true
-date: 2020-02-09 21:10:00 +0100
-permalink: /catalogo/descubrir-tu-pasion/
+date: 2020-02-09 23:10:00 +0100
+permalink: /catalogo/tu-tu-hijo-la-escuela/
 description: >-
-  🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, El Elemento: Descubrir tu pasión lo cambia todo es un libro innovador sobre talento y pasión.
+  🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, en este libro: Tú, tu hijo y la escuela: Se busca el mejor camino para ofrecer la mejor educación a tus hijos.
 excerpt: >-
-  🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, El Elemento: Descubrir tu pasión lo cambia todo es un libro innovador sobre talento y pasión.
+  🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, en este libro: Tú, tu hijo y la escuela: Se busca el mejor camino para ofrecer la mejor educación a tus hijos.
 header:
-  teaser: /assets/images/catalogo/el-elemento-descubrir-tu-pasion-b.webp
-  overlay_image: /assets/images/catalogo/el-elemento-descubrir-tu-pasion-b.webp
+  teaser: /assets/images/catalogo/tu-tu-hijo-y-la-escuela.webp
+  overlay_image: /assets/images/catalogo/tu-tu-hijo-y-la-escuela.webp
   image_description: >-
-    🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, El Elemento: Descubrir tu pasión lo cambia todo es un libro innovador sobre talento y pasión
+    🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, en este libro: Tú, tu hijo y la escuela: Se busca el mejor camino para ofrecer la mejor educación a tus hijos.
   overlay_filter: 0.3
-  caption: 'Créditos: **Youtube**'
+  caption: 'Créditos: **Amazon**'
   actions:
     - label: + DESARROLLO PERSONAL
       url: '/categoria/#desarrollo-personal'
@@ -33,20 +34,24 @@ toc_sticky: true
 author_profile: false
 sidebar:
   - title: Autor
-    image: /assets/images/catalogo/el-elemento-descubrir-tu-pasion.webp
+    image: /assets/images/catalogo/tu-tu-hijo-y-la-escuela.webp
     image_alt: >-
-      🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, El Elemento: Descubrir tu pasión lo cambia todo es un libro innovador sobre talento y pasión
+      🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, en este libro: Tú, tu hijo y la escuela: Se busca el mejor camino para ofrecer la mejor educación a tus hijos.
     text: Ken Robinson
     nav: catalogo
 ---
 
-De uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, un libro innovador sobre talento, pasión y logros.
+De uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, un libro innovador que busca transmitir a los padres las mejores pautas para ofrecer la mejor educación a sus hijos.
 
 ## 🙋‍♀️ Descripci&oacute;n Completa
 
-El elemento es el punto en el cual el talento natural se encuentra con la pasión personal. Cuando las personas llegan al elemento, se sienten más inspiradas y logran alcanzar sus niveles más altos. "The Element" se basa en las historias de una amplia gama de personas, desde el ex Beatle Paul McCartney hasta Matt Groening, creador de "Los Simpson"; de Meg Ryan a Gillian Lynne, quien coreografió las producciones de Broadway de "Cats" y "The Phantom of the Opera"; y de la escritora Arianna Huffington al reconocido físico Richard Feynman y otros, incluidos líderes empresariales y atletas. Explora los componentes de este nuevo paradigma: la diversidad de la inteligencia, el poder de la imaginación y la creatividad, y la importancia del compromiso con nuestras propias capacidades.
+Los padres de todas partes están profundamente preocupados por la educación de sus hijos, especialmente ahora, cuando la educación se ha convertido en un campo minado de política y controversia.
 
-Con un irónico sentido del humor, Ken Robinson analiza las condiciones que nos permiten encontrarnos en el elemento y las que sofocan esa posibilidad. Él muestra que la edad y la ocupación no son una barrera, y que una vez que hemos encontrado nuestro camino, podemos ayudar a otros a hacerlo también. "The Element" muestra la necesidad vital de mejorar la creatividad y la innovación al pensar de manera diferente sobre los recursos humanos y la imaginación. También es una estrategia esencial para transformar la educación, los negocios y las comunidades para enfrentar los desafíos de vivir y triunfar en el siglo XXI.
+Robinson, uno de los educadores más influyentes del mundo, ha tenido innumerables conversaciones con los padres sobre los dilemas que enfrentan.
+
+Como padre, ¿qué debe buscar en la educación de sus hijos? ¿Cómo puede saber si su escuela es adecuada para ellos y qué puede hacer si no lo es? En este importante libro nuevo, ofrece principios claros y consejos prácticos sobre cómo apoyar a su hijo a través del sistema educativo K-12, o fuera de él si elige la educación en el hogar o no en la escuela.
+
+Disipando muchos mitos y abordando las opciones y controversias críticas de la escuela, usted, su hijo y la escuelaes un libro clave para que los padres aprendan sobre el tipo de educación que sus hijos realmente necesitan y qué pueden hacer para asegurarse de que la obtengan.
 
 ## ✍ Biograf&iacute;a del Autor
 
@@ -63,9 +68,9 @@ Sir Ken Robinson (nacido en Liverpool el 4 de marzo de 1950) es un líder recono
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=13&amp;l=ur1&amp;category=gift_certificates&amp;banner=0YM2726C1ESR66Q7QG02&amp;f=ifr&amp;linkID=b74ea8b6b0434619f53785a367d3de3d&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-<center><a class="btn btn--warning btn--large" title="El Elemento: Descubrir tu pasión lo cambia todo de Ken Robinson | Ciberninjas" href="https://amzn.to/2S9RL6K" target="_blank">📓 COMPRAR LIBRO</a></center>
+<center><a class="btn btn--warning btn--large" title="Tú, tu hijo y la escuela: El camino para darle la mejor educación de Ken Robinson | Ciberninjas" href="https://amzn.to/37edD5j" target="_blank">📓 COMPRAR LIBRO</a></center>
 
-<center><a class="btn btn--warning btn--large" title="El Elemento: Descubrir tu pasión lo cambia todo de Ken Robinson | Ciberninjas" href="https://amzn.to/31EjNul" target="_blank">💻 VERSI&Oacute;N EBOOK</a></center>
+<center><a class="btn btn--warning btn--large" title="Tú, tu hijo y la escuela: El camino para darle la mejor educación de Ken Robinson | Ciberninjas" href="https://amzn.to/2Sbui53" target="_blank">💻 VERSI&Oacute;N EBOOK</a></center>
 
 &nbsp;
 
