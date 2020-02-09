@@ -11,7 +11,7 @@ comments: true
 date: 2020-02-07 14:50:12
 last_modified_at: 
 header:
-  teaser: /assets/images/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.png
+  teaser: /assets/images/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
 permalink: /como-aprender-flutter/
 canonical_URL: https://ciberninjas.com/como-aprender-flutter/
 classes: wide
@@ -22,7 +22,7 @@ categories:
 
 ---
 
-![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/images/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.png "Logotipo oficial del SDK multiplataforma de Flutter")
+![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/images/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp "Logotipo oficial del SDK multiplataforma de Flutter")
 
 ## ¿Estás interesado en el desarrollo de aplicaciones móviles?
 
