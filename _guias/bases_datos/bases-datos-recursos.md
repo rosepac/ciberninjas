@@ -17,9 +17,9 @@ header:
  image_description: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
  image_alt: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
  caption: "Créditos: Unsplash"
- actions:
-    - label: "Aprender BBDD"
-     url: "/bases-datos/"
+   actions:
+      - label: "Aprender BBDD"
+      url: "/bases-datos/"
 # header:
 #   teaser: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
 #   overlay_image: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
