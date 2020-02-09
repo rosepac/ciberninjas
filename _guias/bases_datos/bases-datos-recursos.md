@@ -11,14 +11,14 @@ last_modified_at:
 permalink: /bases-datos-recursos/
 canonical_URL: https://ciberninjas.com/bases-datos-recursos/
 header:
- teaser: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
- overlay_image: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
- overlay_filter: 0.1
- image_description: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
- image_alt: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
- caption: "Créditos: Unsplash"
-   actions:
-      - label: "Aprender BBDD"
+  teaser: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
+  overlay_image: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
+  overlay_filter: 0.1
+  image_description: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
+  image_alt: '🔨 📂 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender BBDD'
+  caption: "Créditos: Unsplash"
+  actions:
+    - label: "Aprender BBDD"
       url: "/bases-datos/"
 # header:
 #   teaser: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
