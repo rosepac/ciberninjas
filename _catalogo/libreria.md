@@ -23,9 +23,10 @@ Los enlaces aqu&iacute; expuestos, trabajan a trav&eacute;s de Coockies de Amazo
 
 ## Desarrollo Personal
 
-* Mentalidad Mamba [Tapa Dura](https://amzn.to/2pQYs1R) \ [Ebook](https://amzn.to/2M0QGv9)
+* El Elemento: Descubrir tu pasión lo cambia todo de Ken Robinson [Tapa Blanda](https://amzn.to/2S9RL6K) \ [Ebook](https://amzn.to/2M0QGv9)
+* Mentalidad Mamba [Tapa Dura](https://amzn.to/2pQYs1R) \ [Ebook](https://amzn.to/31EjNul)
 
-<center><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07VPRRYPY&linkId=8e1682c9541cb9f986c4f46ef9b03c54"></iframe></center>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499083900&linkId=0b1abcf351afc55ec7eef9029a657420"></iframe> <center><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07VPRRYPY&linkId=8e1682c9541cb9f986c4f46ef9b03c54"></iframe></center>
 
 ## Educación
 
