@@ -7,6 +7,12 @@ classes: wide
 
 ## Software
 
+
+## 🕸 Redes
+
+* [Wirershark](https://www.wireshark.org/){:target="_blank"} Analizador de protocolos de red más importante y más utilizado del mundo: 
+* [Networkminer](https://www.netresec.com/?page=Networkminer){:target="_blank"} Herramienta de análisis forense:
+
 ### Clientes FTP
 
 * CyberDuck -Cliente MAC?-
@@ -28,7 +34,11 @@ Ninite
 
 ### Editores de Texto
 
-* [Emacs](https://www.gnu.org/software/emacs/download.html)
+* [Emacs](https://www.gnu.org/software/emacs/download.html){:target="_blank"}
+
+## Buscadores e Indexación de Archivos
+
+* [Void Tools](https://www.voidtools.com/support/everything/){:target="_blank"}
 
 ### Editores de Vídeo
 
@@ -36,24 +46,24 @@ Ninite
 
 ### Testing
 
-* [Source Trail](https://www.sourcetrail.com/)
+* [Source Trail](https://www.sourcetrail.com/){:target="_blank"}
 
 ## Software Linux
 
 ### Seguridad
 
-* [Borg](https://www.borgbackup.org/)
-* [PirateBox](https://piratebox.cc/) [Forum](https://forum.piratebox.cc/)
+* [Borg](https://www.borgbackup.org/){:target="_blank"}
+* [PirateBox](https://piratebox.cc/){:target="_blank"} [Forum](https://forum.piratebox.cc/){:target="_blank"}
 
 ### Terminales Conexión Externa
 
-* [Eternal Terminal](https://eternalterminal.dev/)
-* [Mosh](https://mosh.org/)
-* [TMux](http://opensimulator.org/wiki/Tmux)
+* [Eternal Terminal](https://eternalterminal.dev/){:target="_blank"}
+* [Mosh](https://mosh.org/){:target="_blank"}
+* [TMux](http://opensimulator.org/wiki/Tmux){:target="_blank"}
 
 ### Herramientas de Monitorización
 
-* [Nutty](https://lignux.com/descubre-nutty-una-herramienta-de-monitorizacion-e-informacion-grafica-para-redes/)
+* [Nutty](https://lignux.com/descubre-nutty-una-herramienta-de-monitorizacion-e-informacion-grafica-para-redes/){:target="_blank"}
 
 ### Software MacOS
 

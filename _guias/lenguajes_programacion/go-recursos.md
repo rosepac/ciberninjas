@@ -10,6 +10,10 @@ last_modified_at:
 permalink: /go-recursos/
 ---
 
+## Artículos de Go
+
+* [¿Por qué estamos escribiendo infraestructura de aprendizaje automático en Go, no en Python?](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76)
+
 ## Chuletas  de Consulta
 
 

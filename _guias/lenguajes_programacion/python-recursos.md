@@ -20,6 +20,9 @@ header:
       url: "/python/"
 ---
 
+[📕 Libros Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--info .btn--large}{:target="_blank"}
+ [🎓 Cursos Python 🐍](https://ouo.io/CNr4s3){: .btn .btn--info .btn--large}{:target="_blank"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--info .btn--large}
+
 [Artículos Python](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large} [Chuletas de Python]([/python-recursos/#chuletas--de-consulta](https://ciberninjas.com/python-recursos/#chuletas--de-consulta)){: .btn .btn--inverse .btn--large} [Probar Código](/python-recursos/#probar-código){: .btn .btn--inverse .btn--large} [Artículos Python?](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large}
 
 ## Artículos de Python
