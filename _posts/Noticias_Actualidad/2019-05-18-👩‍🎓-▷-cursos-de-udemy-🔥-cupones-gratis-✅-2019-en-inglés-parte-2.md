@@ -66,8 +66,8 @@ tags:
 - Yoast
 - Zend
 header:
-  teaser: /assets/images/cursos_estudiar_ideas_2.jpg
-  overlay_image: /assets/images/cursos_estudiar_ideas_2.jpg
+  teaser: /assets/images/cursos_estudiar_ideas_2.webp
+  overlay_image: /assets/images/cursos_estudiar_ideas_2.webp
   overlay_filter: '0.2'
   image_description: >-
     Cursos de inglés con cupones gratuitos a través de Udemy - Parte 2 |

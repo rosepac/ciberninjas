@@ -37,7 +37,7 @@ Si eres de los estudiantes más clásicos y prefieres tener una original y hermo
 ## Agenda Escolar
 
 <figure>
-    <a href="/assets/images/schooll_planner.jpg" class="image-popup"><img src="/assets/images/schooll_planner.jpg"></a>
+    <a href="/assets/images/schooll_planner.webp" class="image-popup"><img src="/assets/images/schooll_planner.webp"></a>
     <figcaption>Agenda Escolar o School Planner: app práctica específica para organizar tu vida académica, sin versión web por desgracia | Ciberninjas</figcaption>
 </figure>
 

@@ -28,7 +28,7 @@ Además, 2018 terminó siendo un año bastante difícil para varias grandes comp
 ## 1️⃣ Predicción 1: Los Móviles Plegables superarán a los Smartphones 5G
 
 <figure>
-    <a href="/assets/images/presentan-moviles-flexibles.jpg" class="image-popup"><img src="/assets/images/presentan-moviles-flexiblesx636.jpg"></a>
+    <a href="/assets/images/presentan-moviles-flexibles.webp" class="image-popup"><img src="/assets/images/presentan-moviles-flexiblesx636.webp"></a>
     <figcaption>Dispositivos plegables presentados a lo largo del World Congress Mobile de este año | Ciberninjas</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ En el corto plazo, predigo que los **teléfonos plegables basados en pantalla** 
 ## 2️⃣ Predicción 2: Los Servicios de Transmisión de Videojuegos
 
 <figure>
-    <a href="/assets/images/control-mando-videojuegos.jpg" class="image-popup"><img src="/assets/images/control-mando-videojuegosx636.jpg"></a>
+    <a href="/assets/images/control-mando-videojuegos.webp" class="image-popup"><img src="/assets/images/control-mando-videojuegosx636.webp"></a>
     <figcaption>Xbox y sus servicios online se enmarcan en la nueva ola del mercado de los videojuegos en la nube | Ciberninjas</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ También es importante agregar que aunque un fuerte crecimiento en los servicios
 ## 3️⃣ Predicción 3: Multi-Cloud se Convertirá en el Estándar de la Informática Empresarial
 
 <figure>
-    <a href="/assets/images/cloud-computing.jpg" class="image-popup"><img src="/assets/images/cloud-computingx636.jpg"></a>
+    <a href="/assets/images/cloud-computing.webp" class="image-popup"><img src="/assets/images/cloud-computingx636.webp"></a>
     <figcaption>Multi-nube, es una de las nuevas tecnologías más importante en el aspecto empresarial durante el 2019 | Ciberninjas</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ El verdadero ganador es el modelo de computación en la nube, independientemente
 ## 4️⃣ Predicción 4: La Inteligencia Artificial en los Dispositivos comenzará a cambiar la Conversación sobre la Privacidad de los Datos
 
 <figure>
-    <a href="/assets/images/inteligencia-artificial-campo-crecimiento-tecnologico.jpg" class="image-popup"><img src="/assets/images/inteligencia-artificial-campo-crecimiento-tecnologicox636.jpg"></a>
+    <a href="/assets/images/inteligencia-artificial-campo-crecimiento-tecnologico.webp" class="image-popup"><img src="/assets/images/inteligencia-artificial-campo-crecimiento-tecnologicox636.webp"></a>
     <figcaption>La inteligencia artificial es uno de los campos que más tiene por avanzar durante todo el 2019 | Ciberninjas</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Ya sea que EE. UU. Se base en las regulaciones GDPR de Europa, las leyes de priv
 ## 6️⃣ Predicción 6: La Robótica Personal se convertirá en una Nueva Categoría Importante
 
 <figure>
-    <a href="/assets/images/humanoide-robotico-metal.jpg" class="image-popup"><img src="/assets/images/humanoide-robotico-metalx636.jpg"></a>
+    <a href="/assets/images/humanoide-robotico-metal.webp" class="image-popup"><img src="/assets/images/humanoide-robotico-metalx636.webp"></a>
     <figcaption>La tecnología amenaza con generar robots que sustituyan a los humanos | Ciberninjas</figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ Finalmente , las plataformas de desarrollo de hardware y software centradas en l
 ## 7️⃣ Predicción 7: Los Servicios Basados en la Nube harán que los Sistemas Operativos sean Irrelevantes
 
 <figure>
-    <a href="/assets/images/internet-de-las-cosas.jpg" class="image-popup"><img src="/assets/images/internet-de-las-cosas.jpg"></a>
+    <a href="/assets/images/internet-de-las-cosas.webp" class="image-popup"><img src="/assets/images/internet-de-las-cosas.webp"></a>
     <figcaption>El Internet de las Cosas hace que con apps y servicos en la nube nos sea suficiente | Ciberninjas</figcaption>
 </figure>
 El Internet de las Cosas hace que con apps y servicos en la nube nos sea suficiente. Mundo Framework por @rosepac 

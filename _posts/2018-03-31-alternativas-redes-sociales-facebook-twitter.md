@@ -14,7 +14,7 @@ tags:
 - Diaspora
 - Mastodon
 header:
-  overlay_image: "/assets/images/amigos-redes-sociales.jpg"
+  overlay_image: "/assets/images/amigos-redes-sociales.webp"
   overlay_filter: "0.2"
   image_description: "Haz amigos en las nuevas redes sociales alternativas a Facebook y Twitter, como son Diaspora o Mastodon | ROSEPAC"
   caption: "**Créditos**: Fotografía de [Hannah Rodrigo](https://unsplash.com/photos/mf_3yZnC6ug) en [Unsplash](https://unsplash.com/@hannahrodrigo)"

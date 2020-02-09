@@ -47,7 +47,7 @@ ___
 
 ## Ofertas de Componentes de Ordenador
 
-![Entrada de los Componentes de Ordenador](https://i.ibb.co/XssqD3C/amazon-prime-componentes-1.jpg)
+![Entrada de los Componentes de Ordenador](https://i.ibb.co/XssqD3C/amazon-prime-componentes-1.webp)
 
 En esta publicación podrás ver una selección de [las mejores ofertas de componentes](https://ciberninjas.com/las-mejores-ofertas-de-componentes-de-ordenadores-del-lunes-en-el-prime-day-de-amazon/) de ordenadores: tarjetas gráficas, placas base, fuentes de alimentación o “SAIS”.
 

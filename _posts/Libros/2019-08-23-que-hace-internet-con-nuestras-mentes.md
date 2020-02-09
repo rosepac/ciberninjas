@@ -30,7 +30,7 @@ toc_icon: user-ninja
 toc_sticky: true
 sidebar:
   - title: "Autor"
-    image: /assets/images/catalogo/que-hace-internet-250x350.jpg
+    image: /assets/images/catalogo/que-hace-internet-3.webp
     image_alt: "Qué hace internet con nuestras mentes, en inglés The Shallows. Libro recomendado por el presidente Barack Obama"
     text: "Nicholas Carr"
   - title: "Precio Papel"

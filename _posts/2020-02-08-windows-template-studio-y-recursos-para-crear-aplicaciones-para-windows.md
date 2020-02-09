@@ -23,7 +23,7 @@ tags:
 
 ---
 
-![Windows Template Studio, la mejor ayuda para crear aplicaciones en Windows 10](/assets/images/blog/windows-template-studio-captura.jpg "Windows Template Studio, la mejor ayuda para crear aplicaciones en Windows 10")
+![Windows Template Studio, la mejor ayuda para crear aplicaciones en Windows 10](/assets/images/blog/windows-template-studio-captura.webp "Windows Template Studio, la mejor ayuda para crear aplicaciones en Windows 10")
 
 Windows Template Studio (WinTS) es una extensión de Visual Studio 2017 y 2019 que acelera la creación de nuevas aplicaciones de la Plataforma universal de Windows (UWP) y Windows Presentation Foundation (WPF) utilizando una experiencia basada en un asistente. El proyecto resultante es un código legible y bien formado que incorpora excelentes características de desarrollo e implementa patrones comprobados y mejores prácticas. Esparcidos por todo el código generado, tenemos enlaces Docs, Stack Overflow y blogs para proporcionar información útil. WinTS admite la creación de aplicaciones en C # o VB.Net.
 
@@ -116,7 +116,7 @@ Este proyecto es apoyado por la [Fundación .NET](https://dotnetfoundation.org/)
 
 ## [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro){:target="_blank"}
 
-![Captura de pantalla de la página de Caliburn Micro](/assets/images/blog/caliburn-micro-captura.jpg "Captura de pantalla de la página de Caliburn Micro")
+![Captura de pantalla de la página de Caliburn Micro](/assets/images/blog/caliburn-micro-captura.webp "Captura de pantalla de la página de Caliburn Micro")
 
 Un framework pequeño pero potente, diseñado para crear aplicaciones en todas las plataformas XAML. Su fuerte es el soporte para patrones MV * que te permitirá construir soluciones rápidamente, sin la necesidad de sacrificar la calidad del código o la capacidad de las pruebas.
 
@@ -135,7 +135,7 @@ La forma más rápida de comenzar es bajar el último paquete de [Nuget](https:/
 
 ## [MVVMLight](https://github.com/lbugnion/mvvmlight){:target="_blank"}
 
-![MVVM Light](/assets/images/blog/mvvm-light-toolkit.jpg "Captura de la página de pantalla MVVM Light")
+![MVVM Light](/assets/images/blog/mvvm-light-toolkit.webp "Captura de la página de pantalla MVVM Light")
 
 
 ### Introducción
@@ -197,7 +197,7 @@ Win2D es una API de Windows Runtime fácil de usar para el procesamiento de grá
 
 ## [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json){:target="_blank"}
 
-![Json NET framework de alto rendimiento popular para NET](/assets/images/blog/json-net-captura-ciberninjas.jpg "Json NET framework de alto rendimiento popular para NET")
+![Json NET framework de alto rendimiento popular para NET](/assets/images/blog/json-net-captura-ciberninjas.webp "Json NET framework de alto rendimiento popular para NET")
 
 * Serialice y deserialice cualquier objeto .NET con el potente serializador JSON de Json.NET.
 * LINQ to JSON. Cree, analice, consulte y modifique JSON utilizando los objetos JObject, JArray y JValue de Json.NET.
@@ -213,7 +213,7 @@ Win2D es una API de Windows Runtime fácil de usar para el procesamiento de grá
 
 ## [Telerik UI para UWP](https://github.com/telerik/UI-For-UWP){:target="_blank"}
 
-![Framework Telerik ui para uwp](../assets/images/blog/telerik-ui-uwp.jpg "Framework Telerik ui para uwp")
+![Framework Telerik ui para uwp](../assets/images/blog/telerik-ui-uwp.webp "Framework Telerik ui para uwp")
 
 Esta es una versión de código abierto de Telerik UI para Universal Windows Platform (UWP) de Progress. El proyecto es apoyado por la comunidad en [Stack Overflow](https://stackoverflow.com/questions/tagged/telerik+uwp){:target="_blank"}. El soporte comercial está disponible en [telerik.com/uwp](http://www.telerik.com/uwp){:target="_blank"} donde encontrará una prueba comercial compatible y opciones de precios. Visite [telerik.com](http://www.telerik.com/){:target="_blank"} para obtener herramientas de interfaz de usuario para ASP.NET, WPF, WinForms o JavaScript.
 
