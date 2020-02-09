@@ -4,6 +4,8 @@ description: "▷ Las novedades tecnológicas 👩‍💻 más impresionantes de
 excerpt: "▷ Las novedades tecnológicas 👩‍💻 más impresionantes del Año 2019, desde los móviles 📴 flexibles hasta la Inteligencia Artificial 🤖 pasando por los servicios de Videojuegos 🎮 en la Nube ☁"
 comments: true
 date: 2019-01-13 07:01:10
+header:
+  teaser: /assets/images/internet-de-las-cosas.webp
 tags:
     - Almacenamiento Nube
     - Inteligencia Artificial
@@ -88,7 +90,7 @@ Apple, para su crédito, comenzó a hablar sobre este concepto hace varios años
 ## 5️⃣ Predicción 5: La Regulación de la Industria Tecnológica en los EE. UU. será Real
 
 <figure>
-    <a href="/assets/images/agentes-ley-contra-internet.jpg" class="image-popup"><img src="/assets/images/agentes-ley-contra-internetx636.jpg"></a>
+    <a href="/assets/images/agentes-ley-contra-internet.webp" class="image-popup"><img src="/assets/images/agentes-ley-contra-internetx636.webp"></a>
     <figcaption>Los agentes y leyes en contra de Internet cada vez censuran más los contenidos | Ciberninjas</figcaption>
 </figure>
 Los agentes y leyes en contra de Internet cada vez censuran más los contenidos. Mundo Framework por @rosepac 
