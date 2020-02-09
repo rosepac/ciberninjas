@@ -7,7 +7,7 @@ author: rosepac
 classes: wide
 comments: true
 date: 2019-07-17 08:07:47
-permalink: /recursos/
+permalink: /mapa-web/
 sidebar:
 - title: "Menú Principal"
   nav: general
