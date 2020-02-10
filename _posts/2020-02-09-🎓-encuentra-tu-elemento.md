@@ -34,7 +34,7 @@ toc_sticky: true
 author_profile: false
 sidebar:
   - title: Autor
-    image: /assets/images/catalogo/escuelas-creativas-mini.webp
+    image: /assets/images/catalogo/encuentra-tu-elemento-min.webp
     image_alt: >-
       🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida.
     text: Ken Robinson
