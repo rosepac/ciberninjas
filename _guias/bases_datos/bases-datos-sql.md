@@ -28,6 +28,15 @@ toc_sticky: true
 
 ---
 
+### Bases de Datos
+
+## SQL 
+
+## PostgreSQL
+
+* [3 formas de usar los comandos de PostgreSQL](https://opensource.com/article/20/2/postgresql-commands){:target="_blank"}
+* [Comenzando con PostgreSQL](https://opensource.com/article/19/11/getting-started-postgresql){:target="_blank"}
+
 ## Sistemas de Bases de Datos SQL
 
 Bien seas una pequeña empresa o una gran corporación, la transformación digital ha permitido a las organizaciones generar datos en grandes cantidades. Por ello, ahora las empresas están aprovechando el software de base de datos para optimizar sus datos y usarlos para todo tipo de propósitos útiles.
