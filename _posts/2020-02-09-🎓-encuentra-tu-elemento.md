@@ -1,32 +1,32 @@
 ---
-title: "🎓 Tú, tu hijo y la escuela: El camino para darle la mejor educación de Ken Robinson"
+title: "🎓 Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida de Ken Robinson"
 categories:
   - Catálogo
   - Desarrollo Personal
   - Educación
 tags:
   - Libro
-  - Grijalbo (Editorial)
+  - Debolsillo (Editorial)
   - Ken Robinson
 comments: true
-date: 2020-02-09 23:10:00 +0100
-permalink: /catalogo/tu-tu-hijo-la-escuela/
+date: 2020-02-09 21:45:00 +0100
+permalink: /catalogo/encuentra-tu-elemento/
 description: >-
-  🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, en este libro: Tú, tu hijo y la escuela: Se busca el mejor camino para ofrecer la mejor educación a tus hijos.
+  🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida.
 excerpt: >-
-  🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, en este libro: Tú, tu hijo y la escuela: Se busca el mejor camino para ofrecer la mejor educación a tus hijos.
+  🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida.
 header:
-  teaser: /assets/images/catalogo/tu-tu-hijo-y-la-escuela.webp
-  overlay_image: /assets/images/catalogo/tu-tu-hijo-y-la-escuela.webp
+  teaser: /assets/images/catalogo/encuentra-tu-elemento.webp
+  overlay_image: /assets/images/catalogo/encuentra-tu-elemento.webp
   image_description: >-
-    🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, en este libro: Tú, tu hijo y la escuela: Se busca el mejor camino para ofrecer la mejor educación a tus hijos.
+    🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida.
   overlay_filter: 0.3
   caption: 'Créditos: **Amazon**'
   actions:
     - label: + EDUCACIÓN
       url: '/categoria/#educación'
     - label: "\U0001F6D2 COMPRAR"
-      url: 'https://amzn.to/2S9RL6K'
+      url: 'https://amzn.to/379OIzX'
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
@@ -34,24 +34,22 @@ toc_sticky: true
 author_profile: false
 sidebar:
   - title: Autor
-    image: /assets/images/catalogo/tu-tu-hijo-y-la-escuela.webp
+    image: /assets/images/catalogo/escuelas-creativas-mini.webp
     image_alt: >-
-      🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, en este libro: Tú, tu hijo y la escuela: Se busca el mejor camino para ofrecer la mejor educación a tus hijos.
+      🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida.
     text: Ken Robinson
     nav: catalogo
 ---
 
-De uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, un libro innovador que busca transmitir a los padres las mejores pautas para ofrecer la mejor educación a sus hijos.
+Una reevaluación revolucionaria de cómo educar a nuestros niños y jóvenes por el autor más vendido del New York Times de "[El Elemento](/catalogo/descubrir-tu-pasion/)" entre otros bestsellers.
 
 ## 🙋‍♀️ Descripci&oacute;n Completa
 
-Los padres de todas partes están profundamente preocupados por la educación de sus hijos, especialmente ahora, cuando la educación se ha convertido en un campo minado de política y controversia.
+Luego del innovador "[El Elemento](/catalogo/descubrir-tu-pasion/)" de Ken Robinson New York Times bestseller, introduce a los lectores a un nuevo concepto de autorrealización y ha inspirado a los lectores de todo el mundo. Cuando las personas encuentran su Elemento, sintonizan sus niveles más altos y viven sus mejores vidas. Ahora, en su nuevo libro, Robinson responde la pregunta fundamental: ¿Cómo encuentro mi Elemento?
 
-Robinson, uno de los educadores más influyentes del mundo, ha tenido innumerables conversaciones con los padres sobre los dilemas que enfrentan.
+Con su característico ingenio irónico, Robinson ofrece una serie de ejercicios prácticos para ayudarlo a descubrir sus propios talentos y pasiones. En el camino, cuenta las historias de muchas personas "comunes" en todos los ámbitos de la vida que han superado obstáculos de todo tipo para encontrar su Elemento. Y explora principios fundamentales y preguntas vitales para ayudarlo a encontrar el suyo:En qué eres bueno? Que amas? ¿Qué te hace feliz? donde estas ahora? Sus respuestas a estas y muchas otras le proporcionarán claves invaluables para descubrir su Elemento.
 
-Como padre, ¿qué debe buscar en la educación de sus hijos? ¿Cómo puede saber si su escuela es adecuada para ellos y qué puede hacer si no lo es? En este importante libro nuevo, ofrece principios claros y consejos prácticos sobre cómo apoyar a su hijo a través del sistema educativo K-12, o fuera de él si elige la educación en el hogar o no en la escuela.
-
-Disipando muchos mitos y abordando las opciones y controversias críticas de la escuela, usted, su hijo y la escuelaes un libro clave para que los padres aprendan sobre el tipo de educación que sus hijos realmente necesitan y qué pueden hacer para asegurarse de que la obtengan.
+A medida que las preocupaciones sobre la economía, la educación y el medio ambiente continúan creciendo, la necesidad de que las personas encuentren su propio Elemento nunca ha sido mayor. No importa qué edad tengas, dónde estés o qué hagas ahora, si estás buscando tu Elemento, este libro es para ti. Te lanzará a la búsqueda más importante que hayas emprendido: la búsqueda de descubrir tu verdadero yo y la vida que realmente quieres llevar.
 
 ## ✍ Biograf&iacute;a del Autor
 
@@ -68,9 +66,9 @@ Sir Ken Robinson (nacido en Liverpool el 4 de marzo de 1950) es un líder recono
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=13&amp;l=ur1&amp;category=gift_certificates&amp;banner=0YM2726C1ESR66Q7QG02&amp;f=ifr&amp;linkID=b74ea8b6b0434619f53785a367d3de3d&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-<center><a class="btn btn--warning btn--large" title="Tú, tu hijo y la escuela: El camino para darle la mejor educación de Ken Robinson | Ciberninjas" href="https://amzn.to/37edD5j" target="_blank">📓 COMPRAR LIBRO</a></center>
+<center><a class="btn btn--warning btn--large" title="Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida | Ciberninjas" href="https://amzn.to/379OIzX" target="_blank">📓 COMPRAR LIBRO</a></center>
 
-<center><a class="btn btn--warning btn--large" title="Tú, tu hijo y la escuela: El camino para darle la mejor educación de Ken Robinson | Ciberninjas" href="https://amzn.to/2Sbui53" target="_blank">💻 VERSI&Oacute;N EBOOK</a></center>
+<center><a class="btn btn--warning btn--large" title="Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida | Ciberninjas" href="https://amzn.to/37eTcVZ" target="_blank">💻 VERSI&Oacute;N EBOOK</a></center>
 
 &nbsp;
 

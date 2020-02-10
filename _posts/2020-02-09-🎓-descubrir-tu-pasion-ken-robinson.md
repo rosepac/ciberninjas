@@ -44,9 +44,17 @@ De uno de los principales pensadores y oradores del mundo sobre creatividad y re
 
 ## 🙋‍♀️ Descripci&oacute;n Completa
 
-El elemento es el punto en el cual el talento natural se encuentra con la pasión personal. Cuando las personas llegan al elemento, se sienten más inspiradas y logran alcanzar sus niveles más altos. "The Element" se basa en las historias de una amplia gama de personas, desde el ex Beatle Paul McCartney hasta Matt Groening, creador de "Los Simpson"; de Meg Ryan a Gillian Lynne, quien coreografió las producciones de Broadway de "Cats" y "The Phantom of the Opera"; y de la escritora Arianna Huffington al reconocido físico Richard Feynman y otros, incluidos líderes empresariales y atletas. Explora los componentes de este nuevo paradigma: la diversidad de la inteligencia, el poder de la imaginación y la creatividad, y la importancia del compromiso con nuestras propias capacidades.
+El elemento es el punto en el cual el talento natural se encuentra con la pasión personal. Cuando las personas llegan al elemento, se sienten más inspiradas y logran alcanzar sus niveles más altos.
 
-Con un irónico sentido del humor, Ken Robinson analiza las condiciones que nos permiten encontrarnos en el elemento y las que sofocan esa posibilidad. Él muestra que la edad y la ocupación no son una barrera, y que una vez que hemos encontrado nuestro camino, podemos ayudar a otros a hacerlo también. "The Element" muestra la necesidad vital de mejorar la creatividad y la innovación al pensar de manera diferente sobre los recursos humanos y la imaginación. También es una estrategia esencial para transformar la educación, los negocios y las comunidades para enfrentar los desafíos de vivir y triunfar en el siglo XXI.
+El Elemento, se basa en las historias de una amplia gama de personas, desde el ex Beatle Paul McCartney hasta Matt Groening, creador de "Los Simpson"; de Meg Ryan a Gillian Lynne, quien coreografió las producciones de Broadway de "Cats" y "The Phantom of the Opera"; y de la escritora Arianna Huffington al reconocido físico Richard Feynman y otros, incluidos líderes empresariales y atletas.
+
+Explora los componentes de este nuevo paradigma: la diversidad de la inteligencia, el poder de la imaginación y la creatividad, y la importancia del compromiso con nuestras propias capacidades.
+
+Con un irónico sentido del humor, Ken Robinson analiza las condiciones que nos permiten encontrarnos en el elemento y las que sofocan esa posibilidad.
+
+Él muestra que la edad y la ocupación no son una barrera, y que una vez que hemos encontrado nuestro camino, podemos ayudar a otros a hacerlo también.
+
+El Elemento, muestra la necesidad vital de mejorar la creatividad y la innovación al pensar de manera diferente sobre los recursos humanos y la imaginación. También es una estrategia esencial para transformar la educación, los negocios y las comunidades para enfrentar los desafíos de vivir y triunfar en el siglo XXI.
 
 ## ✍ Biograf&iacute;a del Autor
 
