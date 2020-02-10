@@ -92,5 +92,5 @@ Estas eran características con las que Zuul solo había soñado antes, pero que
 
 A principios de 2019, la Fundación OpenStack reconoció a Zuul como un proyecto independiente, abiertamente gobernado, con su propia identidad y una floreciente comunidad. Si te gusta el CI de código abierto, considera echar un vistazo. El desarrollo de la próxima evolución de Zuul siempre está en marcha, y puede ayudarlo. Obtenga más información en [el sitio web de Zuul](https://zuul-ci.org/){:target="_blank"}.
 
-**Fuente**\: [Open Source Blog](https://opensource.com/article/20/2/zuul){:target="_blank"}
+**Fuente**\: [Open Source Blog](https://opensource.com/article/20/2/zuul){:target="_blank"} bajo una [licencia Creative Commons,](http://creativecommons.org/licenses/)
 {: .notice--info}
