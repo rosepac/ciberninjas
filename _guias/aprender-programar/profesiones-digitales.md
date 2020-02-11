@@ -176,3 +176,5 @@ Si vas a ser desarrollador frontend. Debes centrarte en conocer el uso de Javasc
 Gráfica que muestra los diferentes lenguajes de programación y frameworks, herramientas y plataformas y disciplinas y conceptos requeridos dentro de cada uno de los muchos puestos de trabajo que existen en el mundo de la tecnología.
 
 <div class="flourish-embed flourish-Sankey chart" data-src="visualisation/956436"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+
+**Fuente**: [Gráfica gracias a Fundación Telefónica](https://twitter.com/EspacioFTef){:target="_blank"}
