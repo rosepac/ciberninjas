@@ -16,9 +16,9 @@ header:
 #    - label: "👨‍💻 Libros"
 #      url: "/biblioteca-de-programacion-y-tecnologia/"
   caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
-excerpt: "Cómo aprender cada uno de los lenguajes de programación que existen
-¡Entra y conviértete en un auténtico ciberninja! "
+excerpt: "Cómo aprender cada uno de los lenguajes de programación que existen ¡Entra y conviértete en un auténtico ciberninja!"
 ---
+
 <!-- CAJA 1 PROGRAMACION-->
 <div class="feature__wrapper">
 <div class="feature__item--left">

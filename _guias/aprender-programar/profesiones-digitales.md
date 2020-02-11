@@ -27,8 +27,6 @@ header:
 ## Desarrollador web y multimedia
 
 El desarrollador web multimedia es el encargado de implementar o programar todo tipo de sistemas web basados en las especificaciones y diseños requiridos por cada empresa o proyecto; dentro de este mismo campo nos podremos encontrar son siguientes profesiones..
-
-[Desarrollador Frontend](/profesiones-digitales/#desarrollador-frontend){: .btn .btn--inverse .btn--large} [Desarrollador Backend](){: .btn .btn--inverse .btn--large} [Desarrollador Full Stack](){: .btn .btn--inverse .btn--large} [Desarrollador de Videojuegos](){: .btn .btn--inverse .btn--large}
   
 A continuación haremos una pequeña revisión de que trabajos se encarga de desarrollar cada uno de estos diferentes puestos.
 
@@ -48,6 +46,8 @@ El desarrollador full stack es el encargado de desarrollar ambas partes, tanto l
 
 El desarrollador de videojuegos es el encargado de diseñar, implementar o programar toda la lógica necesaria para la creación de un videojuego y su correcto funcionamiento sobre una o múltiples plataformas diferentes.
 
+[Desarrollador Frontend](/profesiones-digitales/#desarrollador-frontend){: .btn .btn--inverse .btn--large} [Desarrollador Backend](){: .btn .btn--inverse .btn--large} [Desarrollador Full Stack](){: .btn .btn--inverse .btn--large} [Desarrollador de Videojuegos](){: .btn .btn--inverse .btn--large}
+
 ## Programadores de Aplicaciones
 
 Hoy en día, el campo del desarrollo de aplicaciones para dispositivos móviles es tan extenso que se requieren programadores específicos para este tipo concreto que programas.
@@ -58,7 +58,24 @@ Los **programadores de aplicaciones** son los desarrolladores de apps o aplicaci
 
 ## Desarrolladores de software
 
+Los desarrolladores de software informático crean y prueban aplicaciones de software utilizadas con fines comerciales, científicos, industriales o de entretenimiento. El trabajo requiere al menos una licenciatura. Los desarrolladores de software utilizan principios de ciencias y matemáticas para desarrollar aplicaciones para múltiples propósitos; pueden hacer sistemas operativos, programas de software e incluso videojuegos. Son los encargados en descubrir qué debe hacer un programa en función de las necesidades del usuario, crearlo y probarlo para garantizar su funcionalidad.
 <!-- https://mapadelempleo.fundaciontelefonica.com/ -->
+
+### Arquitecto de Software
+
+Crea el diseño técnico y el modelo funcional del sistema de software basado en sus especificaciones funcionales.
+
+### Desarrollador de Software
+
+Programa o implementa todo tipo de sistemas de software basados en las especificaciones y diseños requeridos por el cliente.
+
+### Ingeniero de Datos
+
+Crea, diseña e integra datos de varias fuentes y los gestiona para que aporte valor a la organización.
+
+### QA Tester
+
+Diseña, ejecuta y planifica las pruebas de software para asegurar su calidad y su correcto funcionamiento.
 
 ## Diseñadores Gráficos / Multimedia
 
@@ -89,11 +106,21 @@ Se encarga de desarrollar, gestionar y mantener los sistemas de almacenamiento d
 
 ## Profesional TIC
 
+Los técnicos TIC o lo que es lo mismo, técnicos de La Tecnología de la Información ayudan a los empleados de las organizaciones a configurar e instalar el hardware y el software y del o de los Sistemas utilizados. Entre otras responsabilidades; los técnicos se encargan de las instalaciones, configuraciones y soporte sobre todos los aparatos tecnológicos; computadoras, portátiles, tabletas, teléfonos móviles, módem, redes, impresoras.
+
 ### Técnico de soporte TIC
 
 Ofrece soporte a la organización a través de la gestión de los sitemas y redes de información y comunicación de la organización.
 
+Además, deben solucionar todos los posibles problemas que surjan sobre las redes internas, de las cuentas de usuario, los correos electrónicos, los distintos softwares que sean usados.
+
+Otras labores son; la identificación de problemas de software y hardware en el lugar de trabajo, realizar tareas diarias de respaldo de red y equipos, pruebas de equipos y programas, y deben encargarse de que todo el sistema sea lo suficientemente seguro.
+
 ## Especialistas en Seguridad
+
+El campo de la seguridad a crecido estrepitosamente a lo largo de los últimos años, por ello es que se diferencien dos ámbitos entre las posibles labores. Nunca será lo mismo el mantemiento de la seguridad sobre una pequeña empresa o pyme o sobre una gran organización, tampoco se necesitan la misma cantidad de recursos, ni físicos ni humanos.
+
+Obviamente, dentro del campo de la ciberseguridad de una gran empresa, el equipo de trabajo debe de ser mucho más amplio que en el caso contrario en el que quizás con una u dos personas bien organizadas; como mínimo serán capaces de realizar un mantenimiento básico y entablar unos sistemas de copias de seguridad adecuados.
 
 ### Especialista en ciberseguridad
 
@@ -131,45 +158,60 @@ Procesa y realiza análisis estadísticos de datos para sacar conclusiones y res
 
 ## ¿Qué tecnologías requiere cada una de las profesiones?
 
-### Desarrollador web y multimedia
+Queda decir, antes de seguir leyendo, que todo lo que aquí se expresa es mayormente orientativo y puede existir una amplia gama de tecnologías que se complementen dentro de una o más profesiones de trabajo.
+{: .notice--warning}
+
+### Qué tecnologías requiere un desarrollador web y multimedia
 
 Los desarrolladores web / multimedia deben de ser expertos en Javacript, HTML y CSS. Dentro de lo que es Javascript, al menos se debe tener destreza con algunas de sus librerías más importantes, como por ejemplo pueden ser jQuery y AngularJS. Otros lenguajes de programación ampliamente exigidos a la hora de desarrollar este puesto, pueden ser PHP y Visual Basic. Aparte pueden o no utilizarse otras tecnologías como por ejemplo: ASP.NET, ADO.NET Entity Framework; y también se deben tener amplios conocimientos sobre MVC o Model View Controller y la programación orientada a objetos.
 
-### Desarrollador Frontend
+### Qué tecnologías requiere un desarrollador frontend
 
 Si vas a ser desarrollador frontend. Debes centrarte en conocer el uso de Javascript y sus librerías como por ejemplo Anular Typescrypt, AngularJS, React o VueJS además de jQuery, CSS y HTML en profundidad y a un nivel muy alto. A eso debes añadir que aún hoy se utiliza muchísimo el lenguaje de programación Java ahora ya casi siempre a través de algún Framework, el más utilizado sin lugar a dudas es Spring; pero también existen otros como Struts, Grails, Hibernate, el Google Web Toolkit o GWIT o Vadin. Si todo esto te parece mucho, deberás conocer también algún framework de diseño web del estilo de Boostrap y no nos podemos olvidar de los sistemas en red de control de software tipo Git u otras herramientas de control de paquetes de trabajo en red, como por ejemplo Node.js o npm.
 
-### Desarrollador Backend
+### Qué tecnologías requiere un desarrollador backend
 
-### Desarrollador Full Stack
+El desarrollador backend es el encargado de construir, lo que podríamos denominar "el estómago" de una página web o aplicación. Por ende su rango debe estar más enfocado sobre los softwares de CI CD o distribución continua e integración continua y el software de computación en la nube.
 
-### Desarrollador de videojuegos
+Sin dejar de lado, el funcionamiento de las bases de datos; ya bien sean: SQL, MySQL o alguna de las bases de datos NoSQL que las Startups suelen implementar en la actualidad.
 
-### Desarrollador móvil
+Los software más usados de CI / CD entre otros son por ejemplo: Git, Docker, Kubernetes, Jenkins, Zuul u otros y algunos sistemas de programación en la nube: AWS o Google Cloud Además, se deben tener conocimientos del funcionamiento de los Servidores y los Microservicios; también se debe de conocer el funcionamiento de las API (interfaz de aplicaciones de programación).
 
-### Especialista UI o también conocido como especialista de interfaces de usuario
+Por último, se deben de conocer algunos de los framework más usados, en la actualidad, entre los más importantes se encuentran los basados en los lenguajes de programación Java y PHP. En el caso del primero: Spring, es uno de los más requeridos por la mayoría de grandes empresas. En el caso del segundo, PHP: Laravel, CodeIgniter, Symphony, CakePHP o Yii; son algunas de las opciones de uso que te puedes encontrar.
 
-### Diseñador gráfico
+### Qué tecnologías requiere un desarrollador Full Stack
 
-### Administrador de sistemas
+### Qué tecnologías requiere un desarrollador de videojuegos
 
-### Diseñador o administrador de bases de datos
+### Qué tecnologías requiere un desarrollador móvil
 
-### Técnico de soporte TIC
+### Qué tecnologías requiere un especialista UI
 
-### Especialista en ciberseguridad
+El especialista UI o también conocido como especialista de interfaces de usuario
 
-### Digital producto manager
+### Qué tecnologías requiere un diseñador gráfico
 
-### Digital project manager. E incluso si tu desarrollo es el d
+### Qué tecnologías requiere un Administrador de sistemas
 
-### Consultor TIC
+### Qué tecnologías requiere un Diseñador o administrador de bases de datos
 
-### Especialista de UX u experiencia de usuario
+### Qué tecnologías requiere un Técnico de soporte TIC
 
-### Cientifico de datos
+### Qué tecnologías requiere un Especialista en ciberseguridad
 
-### Analista de datos o *business intelligence**.
+### Qué tecnologías requiere un Digital producto manager
+
+### Qué tecnologías requiere un Digital project manager
+
+E incluso si tu desarrollo es el d
+
+### Qué tecnologías requiere un Consultor TIC
+
+### Qué tecnologías requiere un Especialista de UX u experiencia de usuario
+
+### Qué tecnologías requiere un Cientifico de datos
+
+### Qué tecnologías requiere un Analista de datos o *business intelligence**
 
 ## Gráfica
 
