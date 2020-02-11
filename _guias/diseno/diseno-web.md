@@ -1,15 +1,45 @@
 ---
-title: 👨‍🚀 ▷ Recursos \ Cómo Aprender Diseño Web
-description: '🔨 🐍 Los Mejores Recursos con los que Aprender Diseño Web'
-excerpt: '🔨 🐍 Los Mejores Recursos con los que Aprender Diseño Web'
-published: false
-author: rosepac
+title: 💻 ▷ Recursos \ Cómo Aprender Diseño Web
+description: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera página web hasta lograr ser diseñadores web expertos'
+excerpt: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera página web hasta lograr ser diseñadores web expertos'
+published: true
+author_profile: true
 comments: true
-date: 2020-01-08 09:11:18
+date: 2020-02-11 09:11:18
 last_modified_at: 
 permalink: /diseño-web/
 canonical_URL: https://ciberninjas.com/diseño-web/
 ---
+
+## Consejos Rápidos
+
+¿Si todavía estas confundido de como puedes empezar? Déjame que intente aclarar algunas sencillas preguntas.
+
+Esta es una sección que intenta simplificar aún más, la tarea de iniciarse dentro del mundo del diseño web y comenzar por construir tu propio sitio. Si has leído esta publicación y aún te encuentras en un enigma sobre qué herramienta o software usar, sigue leyendo. Tengo todas sus preguntas respondidas aquí mismo..
+
+### Quiero  comenzar un blog, ¿Qué necesito?
+
+La opción más rápida es Wordpress, un nombre de dominio y alojamiento web. Puede obtenerlos dese varios servicios web; sin ningún tipo de problema. Bien, en conjunto o bien, individualmente. Algunos Servidores te ofrecen el dominio más barato si compras su alojamiento web.<!-- bluehost - hostgatar, otors afiliados?-->
+
+### Solo quiero crear un sitio web realmente simple, ¿Qué debo usar?
+
+Con wordpress.com lo podrás hacer; pero no sin previo pago. Además, cientos de servicios ofrecen la posibilidad de crear páginas pero todos tienen sus inconvenientes. El mayor de todos, que no serán personalizables al 100%. Entre algunos otros: 100% gratis tienes a Github Pages, Medium, Dev.to, Grav. De pago tienes: Wix, Weebly, Grav, Write.as.
+
+### Quiero codificar y crear mi propio sitio web desde cero. ¿Cuál es el mejor software de diseño web para esto?
+
+Brackets, Silex, OpenElement o Bluefish.
+
+### Quiero construir mi propio sitio web desde cero, pero no puedo codificar. ¿Cuál es el mejor software de diseño web para esto?
+
+Marvel, Sketch o Macaw.
+
+### Quiero construir mi propio sitio web desde cero, pero quiero hacerlo con un presupuesto pequeño. ¿Cuál es el mejor software / herramientas de diseño web para esto?
+
+Wordpress, Webflow, Wamp, Gimp.
+
+### Quiero construir mi sitio web desde cero y quiero un creador web, CMS y alojamiento web, todo en un solo lugar. ¿Qué necesito?
+
+La mejor opción, seguramente sea Github Pages. A pesar, de que Webflow puede ser una buena opción si no quieres tener demasiadas complicaciones.
 
 ## Mejores Sitios y Recursos de Inspiración
 
@@ -53,35 +83,6 @@ Uno de los mejores recursos para la inspiración del diseño de la interfaz móv
 
 Un recurso realmente útil tanto para diseñadores web como para desarrolladores web. Una colección curada de ejemplos de diseño web, kits de interfaz de usuario, íconos, botones, etc. ¡Hay tantas cosas aquí, que literalmente podría pasar todo el día alimentando jugos creativos!
 
-## Consejos Rápidos
-
-¿Si todavía estas confundido de como puedes empezar? Déjame que intente aclarar algunas sencillas preguntas.
-
-Esta es una sección que intenta simplificar aún más, la tarea de iniciarse dentro del mundo del diseño web y comenzar por construir tu propio sitio. Si has leído esta publicación y aún te encuentras en un enigma sobre qué herramienta o software usar, sigue leyendo. Tengo todas sus preguntas respondidas aquí mismo..
-
-### Quiero  comenzar un blog, ¿Qué necesito?
-
-La opción más rápida es Wordpress, un nombre de dominio y alojamiento web. Puede obtenerlos dese varios servicios web; sin ningún tipo de problema. Bien, en conjunto o bien, individualmente. Algunos Servidores te ofrecen el dominio más barato si compras su alojamiento web.<!-- bluehost - hostgatar, otors afiliados?-->
-
-### Solo quiero crear un sitio web realmente simple, ¿Qué debo usar?
-
-Con wordpress.com lo podrás hacer; pero no sin previo pago. Además, cientos de servicios ofrecen la posibilidad de crear páginas pero todos tienen sus inconvenientes. El mayor de todos, que no serán personalizables al 100%. Entre algunos otros: 100% gratis tienes a Github Pages, Medium, Dev.to, Grav. De pago tienes: Wix, Weebly, Grav, Write.as.
-
-### Quiero codificar y crear mi propio sitio web desde cero. ¿Cuál es el mejor software de diseño web para esto?
-
-Brackets, Silex, OpenElement o Bluefish.
-
-### Quiero construir mi propio sitio web desde cero, pero no puedo codificar. ¿Cuál es el mejor software de diseño web para esto?
-
-Marvel, Sketch o Macaw.
-
-### Quiero construir mi propio sitio web desde cero, pero quiero hacerlo con un presupuesto pequeño. ¿Cuál es el mejor software / herramientas de diseño web para esto?
-
-Wordpress, Webflow, Wamp, Gimp.
-
-### Quiero construir mi sitio web desde cero y quiero un creador web, CMS y alojamiento web, todo en un solo lugar. ¿Qué necesito?
-
-Webflow.
 
 ## Los Mejores  Foros de Diseño y Diseño Web en Inglés
 

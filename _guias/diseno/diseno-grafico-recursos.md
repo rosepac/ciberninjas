@@ -22,7 +22,7 @@ header:
   caption: "Créditos: Unsplash"
   actions:
     - label: "Aprender Diseño Web"
-      url: "/diseño-grafico/"
+      url: "/diseño-grafico-recursos/"
 ---
 
 ## Software y repositorios de diseño gráfico

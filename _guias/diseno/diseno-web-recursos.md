@@ -8,10 +8,10 @@ comments: true
 date: 2019-10-08 12:06:18
 last_modified_at: 2019-12-20 15:36:18
 permalink: /diseño-web-recursos/
-canonical_URL: https://ciberninjas.com/diseño-recursos/
+canonical_URL: https://ciberninjas.com/diseño-web-recursos/
 header:
-  teaser: https://i.ibb.co/LkcCrb2/diseno-web-unsplash.jpg
-  overlay_image: https://i.ibb.co/LkcCrb2/diseno-web-unsplash.jpg
+  teaser: /assets/images/paginas/diseno-web-unsplash.webp
+  overlay_image: /assets/images/paginas/diseno-web-unsplash.webp
   overlay_filter: "0.1"
   image_description: "Recursos de Diseño Web en Ciberninjas"
   image_alt: "Recursos de Diseño Web en Ciberninjas"
@@ -24,6 +24,9 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 ---
+
+**Saber Más**: [Cómo Aprender Diseño Web](/diseño-web/)
+{: .notice--primary}
 
 [Repositorios](/diseño-recursos/#repositorios){: .btn .btn--inverse .btn--large} [Librerías Animaciones](/diseño-recursos/#librerías-animaciones){: .btn .btn--inverse .btn--large} [Herramientas](/diseño-grafico/#-herramientas){: .btn .btn--inverse .btn--large} [Artículos](/diseño-recursos/#-artículos) [Artículos en Inglés](/diseño-recursos/#-artículos-en-inglés){: .btn .btn--inverse .btn--large} [Optimización Web](/diseño-recursos/#optimización-web){: .btn .btn--inverse .btn--large} [PWA](/diseño-recursos/#pwa){: .btn .btn--inverse .btn--large}
 
