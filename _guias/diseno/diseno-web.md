@@ -5,8 +5,19 @@ excerpt: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera pá
 published: true
 author_profile: true
 comments: true
+classes: wide
+header:
+  teaser: /assets/images/paginas/diseno-web-unsplash.webp
+  overlay_image: /assets/images/paginas/diseno-web-unsplash.webp
+  overlay_filter: "0.1"
+  image_description: "Recursos de Diseño Web en Ciberninjas"
+  image_alt: "Recursos de Diseño Web en Ciberninjas"
+  caption: "Créditos: Unsplash"
+  actions:
+    - label: "Recursos Diseño Web"
+      url: "/diseño-web-recursos/"
 date: 2020-02-11 09:11:18
-last_modified_at: 
+last_modified_at:  2020-02-11 18:15:18
 permalink: /diseño-web/
 canonical_URL: https://ciberninjas.com/diseño-web/
 ---
@@ -88,6 +99,6 @@ Un recurso realmente útil tanto para diseñadores web como para desarrolladores
 
 * [Foro Web Wide](https://webwide.io/)
 
-[![img](https://i.ibb.co/T0SG9Mf/image.png)](https://i.ibb.co/T0SG9Mf/image.png 'Captura de pantalla del foro Webwide | Ciberninjas')
+![img](https://i.ibb.co/T0SG9Mf/image.png 'Captura de pantalla del foro Webwide | Ciberninjas')
 
-* [Foro Noticias de Diseñador](https://www.designernews.co/)
+* [Foro de Noticias para Diseñadores](https://www.designernews.co/)

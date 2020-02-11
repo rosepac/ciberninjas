@@ -9,6 +9,7 @@ date: 2019-10-08 12:06:18
 last_modified_at: 2019-12-20 15:36:18
 permalink: /diseño-web-recursos/
 canonical_URL: https://ciberninjas.com/diseño-web-recursos/
+classes: wide
 header:
   teaser: /assets/images/paginas/diseno-web-unsplash.webp
   overlay_image: /assets/images/paginas/diseno-web-unsplash.webp
@@ -17,24 +18,24 @@ header:
   image_alt: "Recursos de Diseño Web en Ciberninjas"
   caption: "Créditos: Unsplash"
   actions:
-    - label: "Recursos Diseño Gráfico"
-      url: "/diseño-grafico/"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+    - label: "Aprender Diseño Web"
+      url: "/diseño-web/"
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 ---
+
+[Repositorios](/diseño-web-recursos/#repositorios){: .btn .btn--inverse .btn--large} [Librerías Animaciones](/diseño-web-recursos/#librerías-animaciones){: .btn .btn--inverse .btn--large} [Herramientas](/diseño-grafico/#-herramientas){: .btn .btn--inverse .btn--large} [Artículos](/diseño-web-recursos/#-artículos){: .btn .btn--inverse .btn--large} [Artículos en Inglés](/diseño-web-recursos/#-artículos-en-inglés){: .btn .btn--inverse .btn--large} [Optimización Web](/diseño-web-recursos/#optimización-web){: .btn .btn--inverse .btn--large} [PWA](/diseño-web-recursos/#pwa){: .btn .btn--inverse .btn--large}
 
 **Saber Más**: [Cómo Aprender Diseño Web](/diseño-web/)
 {: .notice--primary}
-
-[Repositorios](/diseño-recursos/#repositorios){: .btn .btn--inverse .btn--large} [Librerías Animaciones](/diseño-recursos/#librerías-animaciones){: .btn .btn--inverse .btn--large} [Herramientas](/diseño-grafico/#-herramientas){: .btn .btn--inverse .btn--large} [Artículos](/diseño-recursos/#-artículos) [Artículos en Inglés](/diseño-recursos/#-artículos-en-inglés){: .btn .btn--inverse .btn--large} [Optimización Web](/diseño-recursos/#optimización-web){: .btn .btn--inverse .btn--large} [PWA](/diseño-recursos/#pwa){: .btn .btn--inverse .btn--large}
 
 Las mejores listas para diseñadores web y creadores de contenidos online. Pagina repleta de artículos, repositorios, blogs, librerías, herramientas y recursos que te ayudaran a la hora del Diseño Web y en la Optimización Web.
 
 ## Metalistas
 
-* [Paquete de Recursos Gratis](https://free.webmaster-deals.com/download-wd63524){:target="_blank"} (Wemaster Deals)  Fuentes, Brochas, Etc. Paquete gratuito que se modifica cada cierto tiempo. [Descarga](/diseño-recursos/#-regalos)
+* [Paquete de Recursos Gratis](https://free.webmaster-deals.com/download-wd63524){:target="_blank"} (Wemaster Deals)  Fuentes, Brochas, Etc. Paquete gratuito que se modifica cada cierto tiempo. [Descarga](/diseño-web-recursos/#-regalos)
 
 ## Repositorios
 
@@ -88,7 +89,7 @@ Font Awesome, Flaticon, Material.IO, IconFinder, Material Design Icons, Oicons8,
 
 * [Pasar a HTML dibujos realizados a mano](https://sketch2code.azurewebsites.net/){:target="_blank"}
 
-[🔝 Regresar 🔝](/diseño-recursos/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/diseño-web-recursos/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 ## SOFTWARE
 
@@ -131,7 +132,7 @@ Webflow brinda a los diseñadores y desarrolladores el poder de diseñar, constr
 * [PWAs en iOS 12.2 beta: lo bueno, lo malo y lo no seguro si es bueno](https://medium.com/@firt/pwas-on-ios-12-2-beta-the-good-the-bad-and-the-not-sure-yet-if-good-a37b6fa6afbf){:target="_blank"}
 * [Una filosofía abierta puede unificar la fragmentación de la web - #TheOpenAgenda](http://blog.digital.telefonica.com/2013/09/03/theopenagenda-max-firtman/){:target="_blank"}
 
-[🔝 Regresar 🔝](/diseño-recursos/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/diseño-web-recursos/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 <!-- * []( ""){:target="_blank"} -->
 
 <!-- https://www.prototypr.io/toolbox -->
