@@ -10,9 +10,9 @@ canonical_URL: https://computerhistory.org/profile/evelyn-berezin/
 classes: wide
 header:
   teaser: /assets/images/personajes-historicos/2015_evelyn_berezin.webp
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
+# sidebar:
+# - title: "Historia Computadora"
+#   nav: historia
 
 ---
 

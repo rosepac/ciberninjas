@@ -10,9 +10,9 @@ canonical_URL: https://computerhistory.org/profile/lynn-conway/
 classes: wide
 header:
   teaser: /assets/images/personajes-historicos/2014_conway_lynn.webp
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
+# sidebar:
+# - title: "Historia Computadora"
+#   nav: historia
 
 ---
 

@@ -10,9 +10,9 @@ canonical_URL: https://computerhistory.org/profile/jean-jennings-bartik/
 classes: wide
 header:
   teaser: /assets/images/personajes-historicos/2008_jean_bartik.webp
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
+# sidebar:
+# - title: "Historia Computadora"
+#   nav: historia
 
 ---
 

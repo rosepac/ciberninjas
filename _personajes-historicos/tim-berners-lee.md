@@ -10,9 +10,9 @@ canonical_URL: https://www.computerhistory.org/fellowawards/hall/sir-tim-berners
 classes: wide
 header:
   teaser: https://images.computerhistory.org/fellows/2003_tim_berners-lee.jpg
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
+# sidebar:
+# - title: "Historia Computadora"
+#   nav: historia
 
 ---
 

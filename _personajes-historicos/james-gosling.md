@@ -10,9 +10,9 @@ canonical_url: 'https://www.computerhistory.org/fellowawards/hall/james-gosling/
 classes: wide
 header:
   teaser: https://images.computerhistory.org/fellows/jgosling.jpg
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
+# sidebar:
+# - title: "Historia Computadora"
+#   nav: historia
 
 ---
 

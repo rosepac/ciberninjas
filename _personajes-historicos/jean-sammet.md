@@ -10,9 +10,9 @@ canonical_URL: https://computerhistory.org/profile/jean-sammet/
 classes: wide
 header:
   teaser: /assets/images/personajes-historicos/2001_jean_sammet.webp
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
+# sidebar:
+# - title: "Historia Computadora"
+#   nav: historia
 
 ---
 

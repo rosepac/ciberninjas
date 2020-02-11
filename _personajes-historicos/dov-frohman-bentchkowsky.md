@@ -10,9 +10,9 @@ canonical_URL: https://www.computerhistory.org/fellowawards/hall/dov-frohman-ben
 classes: wide
 header:
   teaser: https://images.computerhistory.org/fellows/dfrohmanbentchkowsky.jpg
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
+# sidebar:
+# - title: "Historia Computadora"
+#   nav: historia
 
 ---
 

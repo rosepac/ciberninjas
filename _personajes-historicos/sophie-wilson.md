@@ -10,9 +10,9 @@ canonical_URL: https://computerhistory.org/profile/sophie-wilson/
 classes: wide
 header:
   teaser: /assets/images/personajes-historicos/2012_sophie_wilson.webp
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
+# sidebar:
+# - title: "Historia Computadora"
+#   nav: historia
 
 ---
 

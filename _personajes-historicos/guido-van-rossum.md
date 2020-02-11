@@ -10,9 +10,9 @@ canonical_URL: https://www.computerhistory.org/fellowawards/hall/guido-van-rossu
 classes: wide
 header:
   teaser: https://images.computerhistory.org/fellows/gvanrossum.jpg
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
+# sidebar:
+# - title: "Historia Computadora"
+#   nav: historia
 
 ---
 
