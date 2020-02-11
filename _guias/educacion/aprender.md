@@ -4,7 +4,7 @@ description: 'Recursos necesarios para aprendero online y estudiar todo en relac
 excerpt: 'Recursos necesarios para aprendero online y estudiar todo en relación a la programación web y las nuevas tecnología: cursos, libros, videotutoriales, artículos, herramientas y mucho más.'
 published: true
 classes: wide
-author: rosepac
+author_profile: true
 author_profile: true
 comments: true
 date: 2020-01-27 15:07:25

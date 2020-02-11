@@ -2,7 +2,7 @@
 layout: post
 title: React Native Recursos
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-07-18 07:07:39
 tags: [ ]

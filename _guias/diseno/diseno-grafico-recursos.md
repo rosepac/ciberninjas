@@ -3,7 +3,7 @@ title: 🎨 ▷ Recursos de Diseño Gráfico
 description: '🔨 Las Mejores Herramientas, Repositorios, Librerías y Recursos para Diseñadores Gráficos'
 excerpt: '🔨 Las Mejores Herramientas, Repositorios, Librerías y Recursos para Diseñadores Gráficos'
 published: true
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-12-20 10:13:18
 last_modified_at: 2020-01-08 09:15:18

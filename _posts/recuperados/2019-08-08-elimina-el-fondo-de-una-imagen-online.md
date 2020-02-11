@@ -2,7 +2,7 @@
 layout: post
 title: Eliminar el fondo de una imagen o fotografía online
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-13 11:01:32
 tags:

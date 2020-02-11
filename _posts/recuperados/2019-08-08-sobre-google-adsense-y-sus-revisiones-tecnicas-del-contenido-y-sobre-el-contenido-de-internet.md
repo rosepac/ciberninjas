@@ -4,7 +4,7 @@ title: >
     Sobre Google Adsense y sus revisiones técnicas del
     contenido.. Y sobre el contenido de Internet
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-19 07:01:02
 tags:

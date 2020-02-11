@@ -4,7 +4,7 @@ title: >
     El sistema operativo Fuchsia de Google aparentemente será
     compatible con las aplicaciones de Android
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-06 06:01:38
 tags:

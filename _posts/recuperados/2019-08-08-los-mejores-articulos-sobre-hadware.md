@@ -2,7 +2,7 @@
 layout: post
 title: Los mejores artículos sobre hardware 🖥
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-03-25 11:03:48
 tags: [ ]

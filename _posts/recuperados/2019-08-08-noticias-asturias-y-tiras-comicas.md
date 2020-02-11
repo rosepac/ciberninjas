@@ -2,7 +2,7 @@
 layout: post
 title: 'Noticias, Tiras Cómicas & Noticias de Asturias'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-19 01:12:57
 tags: [ ]

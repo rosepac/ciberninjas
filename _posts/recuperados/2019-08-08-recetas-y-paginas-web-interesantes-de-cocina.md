@@ -2,7 +2,7 @@
 layout: post
 title: Recetas y Páginas Web Interesantes de Cocina
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-02-02 11:02:31
 tags: [ ]

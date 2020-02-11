@@ -3,7 +3,7 @@ title: 🧠 ▷ Cómo Aprender Inteligencia Artificial
 description: '💡 Los Mejores Recursos con los que Aprender Inteligencia Artificial'
 excerpt: '💡 Los Mejores Recursos con los que Aprender Inteligencia Artificial'
 published: true
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-12-22 01:06:18
 last_modified_at: 

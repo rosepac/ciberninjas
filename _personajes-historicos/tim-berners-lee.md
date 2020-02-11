@@ -1,5 +1,5 @@
 ---
-author: rosepac
+author_profile: true
 title: "Tim Berners-Lee"
 description: 'Tim Berners-Lee, por ser el padre de la WWW gracias a sus contribuciones en su desarrollo.'
 excerpt: 'Tim Berners-Lee, por ser el padre de la WWW gracias a sus contribuciones en su desarrollo.'

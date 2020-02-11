@@ -1,5 +1,5 @@
 ---
-author: rosepac
+author_profile: true
 title: "Dov Frohman-Bentchkowsky"
 description: 'Dov Frohman-Bentchkowsky, inventor de la invención de la primera memoria comercial de solo lectura programable y borrable.'
 excerpt: 'Dov Frohman-Bentchkowsky, inventor de la invención de la primera memoria comercial de solo lectura programable y borrable.'

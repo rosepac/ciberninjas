@@ -1,7 +1,7 @@
 ---
 title: Drupal
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-07-17 09:07:07
 permalink: /drupal/

@@ -2,7 +2,7 @@
 layout: post
 title: Purchases
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-06-09 05:06:53
 tags: [ ]

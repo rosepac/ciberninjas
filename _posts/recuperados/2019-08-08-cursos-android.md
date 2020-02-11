@@ -2,7 +2,7 @@
 layout: post
 title: Cursos de Android en Español
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-01 06:12:33
 tags:

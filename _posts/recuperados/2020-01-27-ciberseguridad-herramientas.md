@@ -3,7 +3,7 @@ title: 'Ciberseguridad y Hacking Ético: Herramientas'
 description: 'Las mejores herramientas que existen sobre ciberseguridad, seguridad digital, hacking ético y técnicas y metodologias hackers.'
 excerpt: 'Las mejores herramientas que existen sobre ciberseguridad, seguridad digital, hacking ético y técnicas y metodologias hackers.'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2020-01-27 08:07:25
 tags:

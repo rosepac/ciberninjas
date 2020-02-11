@@ -1,5 +1,5 @@
 ---
-author: rosepac
+author_profile: true
 title: "\U0001F468‍\U0001F4BB ▷ Los Mejores 📰 Artículos y 🔗 Enlaces del Mundo Sobre, el Recopilatorio Definitivo"
 description: "\U0001F528 Los Mejores 📰 Artículos y 🔗 Enlaces del Mundo Sobre, el Recopilatorio Definitivo"
 excerpt: "\U0001F528 Los Mejores 📰 Artículos y 🔗 Enlaces del Mundo Sobre, el Recopilatorio Definitivo"

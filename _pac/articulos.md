@@ -1,5 +1,5 @@
 ---
-author: rosepac
+author_profile: true
 title: "Artículos"
 description: 'Artículos redactados durante los últimos años.'
 excerpt: 'Artículos redactados durante los últimos años.'

@@ -3,7 +3,7 @@ title: 🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Dise�
 description: '🔨 Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo'
 excerpt: '🔨 Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo'
 published: true
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-11-12 10:13:18
 last_modified_at: 2019-12-23 16:15:18

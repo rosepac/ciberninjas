@@ -1,5 +1,5 @@
 ---
-author: rosepac
+author_profile: true
 title: "Personajes y Referentes"
 description: 'Personajes y Referentes, de influencia o interés de sus pensamientos.'
 excerpt: 'Personajes y Referentes, de influencia o interés de sus pensamientos.'

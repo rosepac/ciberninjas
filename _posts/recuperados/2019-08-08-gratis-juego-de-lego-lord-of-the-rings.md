@@ -2,7 +2,7 @@
 layout: post
 title: 'Gratis, juego de LEGO: Lord of the Rings'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-21 12:12:26
 tags:

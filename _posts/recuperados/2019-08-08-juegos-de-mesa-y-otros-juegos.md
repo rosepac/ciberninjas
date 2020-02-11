@@ -2,7 +2,7 @@
 layout: post
 title: Juegos de Mesa y Otros Juegos
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-03-30 01:03:42
 tags: [ ]

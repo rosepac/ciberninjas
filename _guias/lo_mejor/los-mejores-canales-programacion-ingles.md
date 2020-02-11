@@ -3,7 +3,7 @@ title: 👨‍🚀 ▷ Recursos \ Los Mejores Canales de Youtube de Programació
 description: '👩‍💻 Los Mejores Canales de Youtube de Programación y Desarrollo Web Móvil en Inglés'
 excerpt: '👩‍💻 Los Mejores Canales de Youtube de Programación y Desarrollo Web Móvil en Inglés'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-10-08 12:06:18
 last_modified_at: 

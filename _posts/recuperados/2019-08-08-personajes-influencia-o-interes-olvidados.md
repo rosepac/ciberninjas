@@ -4,7 +4,7 @@ title: >
     Personajes de influencia o interés dentro de mis
     pensamientos
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-02-02 09:02:22
 tags: [ ]

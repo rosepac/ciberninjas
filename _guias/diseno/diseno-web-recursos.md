@@ -3,7 +3,7 @@ title: 👩‍🎨 ▷ Recursos de Diseño Web
 description: 'El mejor software de diseño web, herramientas y recursos gratuitos 🔨 🎨'
 excerpt: 'El mejor software de diseño web, herramientas y recursos gratuitos 🔨 🎨'
 published: true
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-10-08 12:06:18
 last_modified_at: 2019-12-20 15:36:18

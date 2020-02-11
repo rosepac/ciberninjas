@@ -4,7 +4,7 @@ title: >
     Recursos para Estudiar el FP de Desarrollo de Aplicaciones
     Web. DAW
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-27 07:01:53
 tags: [ ]

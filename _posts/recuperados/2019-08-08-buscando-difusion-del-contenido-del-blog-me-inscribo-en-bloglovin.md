@@ -2,7 +2,7 @@
 layout: post
 title: "Buscando difusión del contenido del blog, me inscribo en Bloglovin' 📖"
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-21 12:01:41
 tags:

@@ -4,7 +4,7 @@ title: >
     Nuevo país que emite licencias a empresas de mercados
     criptográficos, ahora Tailandia
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-09 07:01:14
 tags:

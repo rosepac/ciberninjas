@@ -2,7 +2,7 @@
 layout: post
 title: Pensamiento Libre, Pensamiento de Libertad
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-19 02:12:47
 tags: [ ]

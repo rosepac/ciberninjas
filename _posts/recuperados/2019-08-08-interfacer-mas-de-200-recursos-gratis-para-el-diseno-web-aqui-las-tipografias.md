@@ -2,7 +2,7 @@
 layout: post
 title: 'Interfacer: Más de 200 recursos gratis para el diseño web, aquí las tipografías'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-21 11:01:11
 tags:

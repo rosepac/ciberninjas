@@ -2,7 +2,7 @@
 layout: post
 title: 'Cardi B & Bruno Mars | Please Me'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-03-02 03:03:14
 tags:

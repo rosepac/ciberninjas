@@ -1,5 +1,5 @@
 ---
-author: rosepac
+author_profile: true
 title: "Katherine Johnson"
 description: 'Katherine Johnson, premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.'
 excerpt: 'Katherine Johnson, premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.'

@@ -2,7 +2,7 @@
 layout: post
 title: Los mejores artículos de diseño web
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-03-20 06:03:42
 tags: [ ]

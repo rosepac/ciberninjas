@@ -1,5 +1,5 @@
 ---
-author: rosepac
+author_profile: true
 title: "Dame Stephanie Shirley"
 description: 'Dame Stephanie Shirley, por toda una vida de emprendimiento promoviendo el crecimiento de la industria del software y el avance de las mujeres en la informática.'
 excerpt: 'Dame Stephanie Shirley, por toda una vida de emprendimiento promoviendo el crecimiento de la industria del software y el avance de las mujeres en la informática.'
@@ -10,9 +10,9 @@ canonical_URL: https://www.computerhistory.org/fellowawards/hall/dame-stephanie-
 classes: wide
 header:
   teaser: https://images.computerhistory.org/fellows/dsshirley.jpg
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
+# sidebar:
+# - title: "Historia Computadora"
+#   nav: historia
 
 ---
 

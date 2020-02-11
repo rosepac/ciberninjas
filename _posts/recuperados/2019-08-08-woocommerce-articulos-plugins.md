@@ -2,7 +2,7 @@
 layout: post
 title: 'WooCommerce: Los Mejores Artículos y Plugins'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-07-17 07:07:55
 tags: [ ]

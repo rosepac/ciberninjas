@@ -2,7 +2,7 @@
 layout: post
 title: 'Herramientas para desarrolladores web: Lighthouse'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-28 09:01:15
 tags:

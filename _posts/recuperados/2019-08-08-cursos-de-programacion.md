@@ -2,7 +2,7 @@
 layout: post
 title: Cursos de Programación en Español
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-02-05 04:02:55
 tags:

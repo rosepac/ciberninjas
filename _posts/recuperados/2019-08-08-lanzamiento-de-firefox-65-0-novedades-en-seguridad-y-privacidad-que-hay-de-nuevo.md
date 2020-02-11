@@ -4,7 +4,7 @@ title: >
     Lanzamiento de Firefox 65.0. Novedades en seguridad y
     privacidad
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-29 06:01:30
 tags:

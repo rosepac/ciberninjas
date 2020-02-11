@@ -2,7 +2,7 @@
 layout: post
 title: Gratis licencias de Ashampoo Backup 2018
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-21 07:12:29
 tags:

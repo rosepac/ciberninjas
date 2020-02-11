@@ -4,7 +4,7 @@ title: "🌟 Mis Aplicaciones & Recursos Favoritos 🛠"
 description: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
 excerpt: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
 published: true
-author: rosepac
+author_profile: true
 classes: wide
 comments: true
 date: 2019-07-17 08:07:47

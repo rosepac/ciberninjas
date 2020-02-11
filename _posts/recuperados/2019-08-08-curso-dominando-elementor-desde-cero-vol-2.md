@@ -2,7 +2,7 @@
 layout: post
 title: Curso Dominando Elementor desde Cero Vol. 2
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-11 07:12:05
 tags:

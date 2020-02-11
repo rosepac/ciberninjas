@@ -2,7 +2,7 @@
 layout: post
 title: Curso Docker para Entornos de Desarrollo
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-15 07:12:53
 tags:

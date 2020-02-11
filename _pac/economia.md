@@ -1,6 +1,6 @@
 ---
 author_profile: false
-author: rosepac
+author_profile: true
 title: "borrador"
 description: "🌟 borrador navidad"
 excerpt: "🌟 borrador navidad"

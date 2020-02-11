@@ -2,7 +2,7 @@
 layout: post
 title: Crear, probar, innovar, repetir
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-22 06:12:02
 tags:

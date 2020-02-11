@@ -4,7 +4,7 @@ title: >
     Sobre el blockchain, la criptografía y.. ¿Los bancos y los
     gobiernos?
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-02-02 05:02:54
 tags:

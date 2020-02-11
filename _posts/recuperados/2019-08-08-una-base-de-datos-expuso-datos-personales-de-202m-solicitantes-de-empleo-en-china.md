@@ -4,7 +4,7 @@ title: >
     Una base de datos expuso datos personales de 202M
     solicitantes de empleo en China
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-11 08:01:57
 tags:

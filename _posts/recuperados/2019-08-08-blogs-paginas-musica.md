@@ -2,7 +2,7 @@
 layout: post
 title: 'Blog´s & Páginas de Música'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-19 12:12:22
 tags: [ ]

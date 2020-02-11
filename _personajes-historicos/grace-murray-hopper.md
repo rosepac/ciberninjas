@@ -1,5 +1,5 @@
 ---
-author: rosepac
+author_profile: true
 title: "Grace Murray Hopper"
 description: 'Grace Murray Hopper, por sus contribuciones al desarrollo de lenguajes de programación, por esfuerzos de estandarización y por servicio naval de por vida.'
 excerpt: 'Grace Murray Hopper, por sus contribuciones al desarrollo de lenguajes de programación, por esfuerzos de estandarización y por servicio naval de por vida.'

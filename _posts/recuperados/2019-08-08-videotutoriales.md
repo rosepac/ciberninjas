@@ -2,7 +2,7 @@
 layout: post
 title: Videotutoriales
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-14 04:12:53
 tags: [ ]

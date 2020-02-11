@@ -3,7 +3,7 @@ title: 👨‍🚀 ▷ Cómo Aprender Java desde Cero
 description: '🔨 🐍 Los Mejores Recursos con los que Aprender Go'
 excerpt: '🔨 🐍 Los Mejores Recursos con los que Aprender Go'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2020-01-02 12:06:18
 last_modified_at: 

@@ -3,7 +3,7 @@ title: ▷ Cómo Aprender Javascript 👨‍🚀
 description: Estudiar Javascript paso a paso, desde cero a experto en 2020
 excerpt: Estudiar Javascript paso a paso, desde cero a experto  en 2020
 published: true
-author: rosepac
+author_profile: true
 author_profile: true
 comments: true
 classes: wide

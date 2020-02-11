@@ -2,7 +2,7 @@
 layout: post
 title: 'Cómics de League of Legens, en español e inglés: Ashe parte 2'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-20 11:01:50
 tags:

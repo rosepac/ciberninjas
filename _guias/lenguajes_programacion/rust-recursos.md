@@ -3,7 +3,7 @@ title: ▷ Recursos para Aprender Rust
 description: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Rust'
 excerpt: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Rust'
 published: true
-author: rosepac
+author_profile: true
 comments: true
 date: 2020-01-27 17:06:18
 last_modified_at:

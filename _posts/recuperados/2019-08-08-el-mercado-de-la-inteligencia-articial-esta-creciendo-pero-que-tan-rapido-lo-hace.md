@@ -4,7 +4,7 @@ title: >
     El mercado de la Inteligencia Articial está creciendo, pero
     ¿Qué tan rápido lo hace?
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-01-22 06:01:35
 tags:

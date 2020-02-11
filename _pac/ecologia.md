@@ -1,6 +1,6 @@
 ---
 author_profile: false
-author: rosepac
+author_profile: true
 title: "Sobre Ecología"
 description: "🌄 Noticias sobre la actualidad de la Ecología"
 excerpt: "🌄 Noticias sobre la actualidad de la Ecología"

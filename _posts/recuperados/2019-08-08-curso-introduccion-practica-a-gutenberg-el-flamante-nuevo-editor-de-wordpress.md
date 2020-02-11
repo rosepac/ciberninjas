@@ -4,7 +4,7 @@ title: >
     Curso Introducción práctica a Gutenberg, el flamante nuevo
     editor de Wordpress
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-19 12:12:45
 tags:

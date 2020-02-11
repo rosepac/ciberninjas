@@ -2,7 +2,7 @@
 layout: post
 title: 'Búsqueda de Trabajo: Aplicaciones & Páginas de Inserción Laboral'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-07-17 05:07:09
 tags: [ ]

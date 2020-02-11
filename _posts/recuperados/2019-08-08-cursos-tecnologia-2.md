@@ -2,7 +2,7 @@
 layout: post
 title: Cursos de tecnología
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-29 08:12:36
 tags: [ ]

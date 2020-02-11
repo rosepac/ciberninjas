@@ -2,7 +2,7 @@
 layout: post
 title: Es hora de decir la verdad del Artículo 13
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-15 12:12:26
 tags:

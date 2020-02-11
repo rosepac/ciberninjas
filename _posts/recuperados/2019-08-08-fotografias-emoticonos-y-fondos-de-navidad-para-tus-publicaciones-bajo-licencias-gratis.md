@@ -2,7 +2,7 @@
 title: >
     Fotografías, emoticonos y fondos de Navidad para tus publicaciones bajo licencias gratis
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-24 09:12:57
 tags:

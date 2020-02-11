@@ -1,5 +1,5 @@
 ---
-author: rosepac
+author_profile: true
 title: "Louis Pouzin"
 description: 'Louis Pouzin, por el diseño y la implementación pionera de las redes de comunicación por paquetes que abrieron el camino hacia Internet.'
 excerpt: 'Louis Pouzin, por el diseño y la implementación pionera de las redes de comunicación por paquetes que abrieron el camino hacia Internet.'

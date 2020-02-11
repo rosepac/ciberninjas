@@ -2,7 +2,7 @@
 layout: post
 title: 'Créditos & Reconocimientos'
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-06-20 06:06:37
 tags: [ ]

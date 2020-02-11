@@ -1,5 +1,5 @@
 ---
-author: rosepac
+author_profile: true
 title: "\U0001F468‍\U0001F4BB ▷ Cómo aprender todo sobre Git y Github"
 description: "\U0001F468‍\U0001F4BB ▷ Cómo aprender todo sobre Git y Github"
 excerpt: "\U0001F468‍\U0001F4BB ▷ Cómo aprender todo sobre Git y Github"

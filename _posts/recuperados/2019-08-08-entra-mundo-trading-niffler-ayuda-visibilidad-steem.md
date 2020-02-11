@@ -4,7 +4,7 @@ title: >
     Entra en el mundo del trading con Niffler y ayuda a dar
     visibilidad a Steem
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2018-12-19 05:12:31
 tags:

@@ -4,7 +4,7 @@ title: >
     Crean una Biblia de Marvel, podrás Encontrar todos los
     Diálogos de sus Películas
 published: false
-author: rosepac
+author_profile: true
 comments: true
 date: 2019-07-13 01:07:37
 tags:

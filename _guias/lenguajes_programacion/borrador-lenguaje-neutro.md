@@ -3,7 +3,7 @@ title: ▷ Cómo Aprender Python en 2020 🐍
 description: 'Cómo Aprender Python desde cero a experto en 2020'
 excerpt: 'Cómo Aprender Python desde cero a experto en 2020'
 published: false
-author: rosepac
+author_profile: true
 author_profile: true
 classes: wide
 comments: true

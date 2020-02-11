@@ -1,5 +1,5 @@
 ---
-author: rosepac
+author_profile: true
 title: "Lecturas"
 description: 'Lecturas Pendientes o En Proceso.'
 excerpt: 'Lecturas Pendientes o En Proceso.'
