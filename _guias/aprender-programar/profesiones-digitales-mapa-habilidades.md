@@ -27,3 +27,14 @@ author_profile: false
 
 
 **Fuente**: [Gráfica gracias a Fundación Telefónica](https://twitter.com/EspacioFTef){:target="_blank"}
+
+<div class="flourish-embed flourish-Sankey chart" data-src="visualisation/956436"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+**Fuente**: [Gráfica gracias a Fundación Telefónica](https://twitter.com/EspacioFTef){:target="_blank"}
+
+<iframe src='https://public.flourish.studio/visualisation/956436/embed' frameborder='0' scrolling='no' style='width:100%;height:1100px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/956436/?utm_source=embed&utm_campaign=visualisation/956436' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+**Fuente**: [Gráfica gracias a Fundación Telefónica](https://twitter.com/EspacioFTef){:target="_blank"}
+**Fuente**: [Gráfica gracias a Fundación Telefónica](https://twitter.com/EspacioFTef){:target="_blank"}
+**Fuente**: [Gráfica gracias a Fundación Telefónica](https://twitter.com/EspacioFTef){:target="_blank"}
+**Fuente**: [Gráfica gracias a Fundación Telefónica](https://twitter.com/EspacioFTef){:target="_blank"}
