@@ -16,10 +16,7 @@ sidebar:
 
 ---
 
-<figure>
-    <a href="https://images.computerhistory.org/fellows/leslie-lamport.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/leslie-lamport.jpg" width="200px" high="250px"></a>
-    <figcaption>Leslie Lamport | Visto en Ciberninjas</figcaption>
-</figure>
+<img src="https://images.computerhistory.org/fellows/leslie-lamport.jpg" width="200px" high="250px" alt="Leslie Lamport | Visto en Ciberninjas" title="Leslie Lamport | Visto en Ciberninjas" />
 
 ## All-Star Informático 2019
 

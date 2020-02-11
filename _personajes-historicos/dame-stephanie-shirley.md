@@ -16,10 +16,7 @@ header:
 
 ---
 
-<figure>
-    <a href="https://images.computerhistory.org/fellows/dsshirley.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/dsshirley.jpg" width="200px" high="250px"></a>
-    <figcaption>Dame Stephanie Shirley | Visto en Ciberninjas</figcaption>
-</figure>
+<img src="https://images.computerhistory.org/fellows/dsshirley.jpg" width="200px" high="250px" alt="Dame Stephanie Shirley | Visto en Ciberninjas" title="Dame Stephanie Shirley | Visto en Ciberninjas"/>
 
 ## All-Star Informático 2018
 

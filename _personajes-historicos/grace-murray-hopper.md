@@ -16,10 +16,7 @@ sidebar:
 
 ---
 
-<figure>
-    <a href="https://images.computerhistory.org/fellows/gracehopper.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/gracehopper.jpg" width="200px" high="250px"></a>
-    <figcaption>Grace Murray Hopper | Visto en Ciberninjas</figcaption>
-</figure>
+<img src="https://images.computerhistory.org/fellows/gracehopper.jpg" width="200px" high="250px" alt="Grace Murray Hopper | Visto en Ciberninjas" title="Grace Murray Hopper | Visto en Ciberninjas" />
 
 ## All-Star Informático 2018
 
