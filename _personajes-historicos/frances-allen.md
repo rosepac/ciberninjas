@@ -9,14 +9,14 @@ permalink: /personajes-historicos/frances-allen/
 canonical_URL: https://computerhistory.org/profile/frances-allen/
 classes: wide
 header:
-  teaser: /assets/images/personajes-historicos/2000-frances-allen.webp
+  teaser: /assets/images/personajes-historicos/2000_frances_allen.webp
 sidebar:
 - title: "Historia Computadora"
   nav: historia
 
 ---
 
- <img src="/assets/images/personajes-historicos/2000-frances-allen.webp" width="400px" high="500px" alt="Frances Allen" title="Frances Allen">
+ <img src="/assets/images/personajes-historicos/2000_frances_allen.webp" width="400px" high="500px" alt="Frances Allen" title="Frances Allen">
 
 ## All-Star Informático 2000
 

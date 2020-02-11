@@ -9,14 +9,14 @@ permalink: /personajes-historicos/lynn-conway/
 canonical_URL: https://computerhistory.org/profile/lynn-conway/
 classes: wide
 header:
-  teaser: /assets/images/personajes-historicos/2014-lynn-conway.webp
+  teaser: /assets/images/personajes-historicos/2014_conway_lynn.webp
 sidebar:
 - title: "Historia Computadora"
   nav: historia
 
 ---
 
- <img src="/assets/images/personajes-historicos/2014-lynn-conway.webp" width="400px" high="500px" alt="Lynn Conway" title="Lynn Conway">
+ <img src="/assets/images/personajes-historicos/2014_conway_lynn.webp" width="400px" high="500px" alt="Lynn Conway" title="Lynn Conway">
 
 ## All-Star Informático 2014
 

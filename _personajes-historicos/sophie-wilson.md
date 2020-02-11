@@ -9,14 +9,14 @@ permalink: /personajes-historicos/sophie-wilson/
 canonical_URL: https://computerhistory.org/profile/sophie-wilson/
 classes: wide
 header:
-  teaser: /assets/images/personajes-historicos/2012-sophie-wilson.webp
+  teaser: /assets/images/personajes-historicos/2012_sophie_wilson.webp
 sidebar:
 - title: "Historia Computadora"
   nav: historia
 
 ---
 
- <img src="/assets/images/personajes-historicos/2012-sophie-wilson.webp" width="400px" high="500px" alt="Sophie Wilson" title="Sophie Wilson">
+ <img src="/assets/images/personajes-historicos/2012_sophie_wilson.webp" width="400px" high="500px" alt="Sophie Wilson" title="Sophie Wilson">
 
 ## All-Star Informático 2012
 

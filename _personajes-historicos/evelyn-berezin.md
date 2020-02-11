@@ -9,14 +9,14 @@ permalink: /personajes-historicos/evelyn-berezin/
 canonical_URL: https://computerhistory.org/profile/evelyn-berezin/
 classes: wide
 header:
-  teaser: /assets/images/personajes-historicos/2015-evelyn-berezin.webp
+  teaser: /assets/images/personajes-historicos/2015_evelyn_berezin.webp
 sidebar:
 - title: "Historia Computadora"
   nav: historia
 
 ---
 
- <img src="/assets/images/personajes-historicos/2015-evelyn-berezin.webp" width="400px" high="500px" alt="Evelyn Berezin" title="Evelyn Berezin">
+ <img src="/assets/images/personajes-historicos/2015_evelyn_berezin.webp" width="400px" high="500px" alt="Evelyn Berezin" title="Evelyn Berezin">
 
 ## All-Star Informático 2015
 

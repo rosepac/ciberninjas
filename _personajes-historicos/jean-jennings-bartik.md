@@ -9,14 +9,14 @@ permalink: /personajes-historicos/jean-bartik/
 canonical_URL: https://computerhistory.org/profile/jean-jennings-bartik/
 classes: wide
 header:
-  teaser: /assets/images/personajes-historicos/2008-jean-bartik.webp
+  teaser: /assets/images/personajes-historicos/2008_jean_bartik.webp
 sidebar:
 - title: "Historia Computadora"
   nav: historia
 
 ---
 
- <img src="/assets/images/personajes-historicos/2008-jean-bartik.webp" width="400px" high="500px" alt="Jean Jennings Bartik" title="Jean Jennings Bartik">
+ <img src="/assets/images/personajes-historicos/2008_jean_bartik.webp" width="400px" high="500px" alt="Jean Jennings Bartik" title="Jean Jennings Bartik">
 
 ## All-Star Informático 2008
 

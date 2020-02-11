@@ -9,14 +9,14 @@ permalink: /personajes-historicos/jean-sammet/
 canonical_URL: https://computerhistory.org/profile/jean-sammet/
 classes: wide
 header:
-  teaser: /assets/images/personajes-historicos/2001-jean-sammet.webp
+  teaser: /assets/images/personajes-historicos/2001_jean_sammet.webp
 sidebar:
 - title: "Historia Computadora"
   nav: historia
 
 ---
 
- <img src="/assets/images/personajes-historicos/2001-jean-sammet.webp" width="400px" high="500px" alt="Jean Sammet" title="Jean Sammet">
+ <img src="/assets/images/personajes-historicos/2001_jean_sammet.webp" width="400px" high="500px" alt="Jean Sammet" title="Jean Sammet">
 
 ## All-Star Informático 2001
 
