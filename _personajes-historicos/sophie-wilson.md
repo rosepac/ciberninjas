@@ -1,8 +1,8 @@
 ---
 author_profile: rosepac
 title: "Sophie Wilson"
-description: 'Sophie Wilson, por su trabajo, con Steve Furber, en la computadora BBC Micro y la arquitectura del procesador ARM.'
-excerpt: 'Sophie Wilson, por su trabajo, con Steve Furber, en la computadora BBC Micro y la arquitectura del procesador ARM.'
+description: 'Sophie Wilson, por su trabajo, junto a Steve Furber, en la computadora BBC Micro y la arquitectura del procesador ARM.'
+excerpt: 'Sophie Wilson, por su trabajo, junto a Steve Furber, en la computadora BBC Micro y la arquitectura del procesador ARM.'
 date: 2020-02-11
 published: true
 permalink: /personajes-historicos/sophie-wilson/
@@ -18,27 +18,23 @@ sidebar:
 
  <img src="/assets/images/personajes-historicos/2012_sophie_wilson.webp" width="200px" high="250px" alt="Sophie Wilson" title="Sophie Wilson">
 
-## All-Star Informático 2012
+### All-Star Informático 2012
 
-Por su trabajo, con Steve Furber, en la computadora BBC Micro y la arquitectura del procesador ARM.
+Por su trabajo, junto a Steve Furber, en la computadora BBC Micro y la arquitectura del procesador ARM.
 
-### ✍ Biografía
+## ✍ Biografía de Sophie Wilson
 
-Sophie Wilson nació en Mount Vernon, Nueva York, en 1938. Después de estudiar física en el MIT y obtener una licenciatura (1962) y un MSEE (1963) en la Universidad de Columbia, Lynn se unió a IBM Research en Yorktown Heights, Nueva York. Trabajó en los sistemas de computación avanzada de IBM. En el proyecto, hizo contribuciones fundamentales a la arquitectura de la computadora, incluida la invención de la programación de instrucciones dinámicas fuera de orden múltiple.
+Sophie Wilson nació en Leeds, Inglaterra, en 1957. Comenzó a estudiar informática en la Universidad de Cambridge en 1975. En 1977, desarrolló un alimentador automático de vacas durante sus primeras vacaciones de verano. Luego diseñó el Acorn System 1, un microordenador temprano de 8 bits para aficionados, que fue producido comercialmente por la compañía británica Acorn Computers a partir de 1979.
 
-Lamentablemente, IBM despidió a Lynn cuando se sometió a la transición de género en 1968. Comenzando de nuevo con una nueva identidad secreta, Lynn avanzó rápidamente para convertirse en arquitecta de computadoras en Memorex, pero también comenzó décadas viviendo con el miedo de ser 'descubierta' y volver a perderla. carrera.
+Ahora trabajando en Acorn, ella y su colega Steve Furber tardaron menos de una semana en diseñar e implementar El prototipo de lo que se convirtió en el Microordenador BBC. Furber y Wilson refinaron su diseño durante el mismo verano, con Wilson diseñando el sistema operativo y escribiendo el intérprete básico de la BBC.
 
-Reclutado por Xerox PARC en 1973, Lynn inventó reglas de diseño escalables para el diseño de chips VLSI, se convirtió en el autor principal del famoso Texto de Mead-Conway Introducción a los sistemas VLSI, y en 1978, mientras se desempeñaba como profesor visitante visitante de EECS en el MIT, fue pionero enseñanza de los nuevos métodos de diseño de sistemas digitales, lanzando así una revolución en el diseño de microchips en la década de 1980.
+El proyecto de la BBC tuvo éxito más allá de los sueños más salvajes de sus creadores: en la década siguiente, se vendieron y utilizaron más de un millón de BBC Micros en miles de escuelas del Reino Unido.
 
-Mientras estuvo en PARC, Lynn también inventó y demostró una infraestructura de comercio electrónico en Internet para la creación rápida de prototipos de chips, generando el paradigma "diseño sin fallas + fundición de silicio" del diseño y fabricación de semiconductores. Institucionalizado por DARPA en USC-ISI, el sistema "MOSIS" resultante permitió el rápido desarrollo de miles de diseños de chips, lo que condujo a muchas nuevas empresas importantes en los años 80 y más allá.
+Wilson y Furber luego codiseñaron el procesador de máquina RISC de 32 bits (1985). Esto se usó en la BBC Micro como segundo procesador (1986); La primera computadora doméstica de propósito general de Acorn basada en su propia arquitectura ARM, la Arquímedes (1987); y el primer asistente digital personal de Apple Computer, Newton (1993).
 
-Como Subdirectora de Computación Estratégica en DARPA, Lynn luego diseñó la metaarquitectura y dirigió la planificación de la Iniciativa de Computación Estratégica, un importante esfuerzo de 1980 para expandir la base tecnológica para los sistemas modernos de armas inteligentes.
+El núcleo del procesador ARM ahora se usa en miles de productos diferentes, desde teléfonos móviles y tabletas hasta televisores digitales y videojuegos. El número de núcleos de procesadores ARM ahora enviados supera los 30 mil millones, o más de cuatro microprocesadores ARM por cada persona en la tierra.
 
-Lynn se unió a la Universidad de Michigan en 1985 como profesora de EECS y decana asociada de ingeniería, donde continuó su distinguida carrera. Ahora jubilada, vive con su esposo, el ingeniero Charlie, en su granja de 23 acres en la zona rural de Michigan.
-
-En 2012, el IEEE publicó "Reminiscencias VLSI" de Lynn en un número especial de la revista Solid-State Circuits. En esas memorias, Lynn finalmente comenzó a revelar cómo, encerrada y escondida detrás de escena, concibió las ideas y orquestó los eventos que cambiaron una industria.
-
-Lynn, miembro del IEEE, recibió el premio Computer Pioneer Award de la IEEE Computer Society, tiene un doctorado honorario del Trinity College y es miembro de la Academia Nacional de Ingeniería.
+Wilson vive cerca de Cambridge, Inglaterra.
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 
