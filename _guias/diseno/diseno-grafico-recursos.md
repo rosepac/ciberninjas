@@ -31,10 +31,19 @@ header:
 
 * [Brusheezy](https://www.brusheezy.com/free/)
 
-## Software
+### Software
+
+
+## Blender
+
+* [Complementos de Blender para hacer el puente entre Blender y los datos geográficos](https://github.com/domlysz/BlenderGIS#blender-gis){:target="_blank"}
+
+## Krita
 
 * [Krita](https://krita.org/es/){:target="_blank"} \ [Brochas](https://docs.krita.org/en/resources_page.html#brush-packs){:target="_blank"}
   * [Plugin de Acciones](https://github.com/Larpon/krita-bulk-actions){:target="_blank"}
+
+## Otros
 
 * [Armor Paint](https://80.lv/articles/open-source-painting-tool-for-3d-artists/) \ Pintura 3D.
 
