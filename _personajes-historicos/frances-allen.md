@@ -16,10 +16,7 @@ sidebar:
 
 ---
 
-​<picture>
- <source srcset="/assets/images/personajes-historicos/2000-frances-allen.webp" type="webp">
- <img src="/assets/images/personajes-historicos/2000-frances-allen.jpg" alt="Frances Allen" title="Frances Allen">
-</picture>
+ <img src="/assets/images/personajes-historicos/2000-frances-allen.webp" width="400px" high="500px" alt="Frances Allen" title="Frances Allen">
 
 ## All-Star Informático 2000
 

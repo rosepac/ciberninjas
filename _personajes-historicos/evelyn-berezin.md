@@ -16,10 +16,7 @@ sidebar:
 
 ---
 
-​<picture>
- <source srcset="/assets/images/personajes-historicos/2015-evelyn-berezin.webp" type="webp">
- <img src="/assets/images/personajes-historicos/2015-evelyn-berezin.jpg" alt="Evelyn Berezin" title="Evelyn Berezin">
-</picture>
+ <img src="/assets/images/personajes-historicos/2015-evelyn-berezin.webp" width="400px" high="500px" alt="Evelyn Berezin" title="Evelyn Berezin">
 
 ## All-Star Informático 2015
 

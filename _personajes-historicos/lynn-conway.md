@@ -16,10 +16,7 @@ sidebar:
 
 ---
 
-​<picture>
- <source srcset="/assets/images/personajes-historicos/2014-lynn-conway.webp" type="webp">
- <img src="/assets/images/personajes-historicos/2014-lynn-conway.jpg" alt="Lynn Conway" title="Lynn Conway">
-</picture>
+ <img src="/assets/images/personajes-historicos/2014-lynn-conway.webp" width="400px" high="500px" alt="Lynn Conway" title="Lynn Conway">
 
 ## All-Star Informático 2014
 

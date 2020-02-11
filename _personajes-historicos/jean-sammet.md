@@ -16,10 +16,7 @@ sidebar:
 
 ---
 
-​<picture>
- <source srcset="/assets/images/personajes-historicos/2001-jean-sammet.webp" type="webp">
- <img src="/assets/images/personajes-historicos/2001-jean-sammet.jpg" alt="Jean Sammet" title="Jean Sammet">
-</picture>
+ <img src="/assets/images/personajes-historicos/2001-jean-sammet.webp" width="400px" high="500px" alt="Jean Sammet" title="Jean Sammet">
 
 ## All-Star Informático 2001
 
