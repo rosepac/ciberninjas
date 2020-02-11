@@ -17,7 +17,7 @@ sidebar:
 ---
 
 <figure>
-    <a href="https://images.computerhistory.org/fellows/lpouzin.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/lpouzin.jpg"></a>
+    <a href="https://images.computerhistory.org/fellows/lpouzin.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/lpouzin.jpg" width="200px" high="250px"></a>
     <figcaption>Louis Pouzin | Visto en Ciberninjas</figcaption>
 </figure>
 

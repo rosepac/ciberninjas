@@ -16,7 +16,7 @@ sidebar:
 
 ---
 
- <img src="/assets/images/personajes-historicos/2008_jean_bartik.webp" width="400px" high="500px" alt="Jean Jennings Bartik" title="Jean Jennings Bartik">
+ <img src="/assets/images/personajes-historicos/2008_jean_bartik.webp" width="200px" high="250px" alt="Jean Jennings Bartik" title="Jean Jennings Bartik">
 
 ## All-Star Informático 2008
 

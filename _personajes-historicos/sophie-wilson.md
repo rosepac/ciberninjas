@@ -16,7 +16,7 @@ sidebar:
 
 ---
 
- <img src="/assets/images/personajes-historicos/2012_sophie_wilson.webp" width="400px" high="500px" alt="Sophie Wilson" title="Sophie Wilson">
+ <img src="/assets/images/personajes-historicos/2012_sophie_wilson.webp" width="200px" high="250px" alt="Sophie Wilson" title="Sophie Wilson">
 
 ## All-Star Informático 2012
 

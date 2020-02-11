@@ -16,7 +16,7 @@ sidebar:
 
 ---
 
- <img src="/assets/images/personajes-historicos/2017_margaret-hamilton.webp" width="400px" high="500px" alt="Margaret Hamilton" title="Margaret Hamilton">
+ <img src="/assets/images/personajes-historicos/2017_margaret-hamilton.webp" width="200px" high="250px" alt="Margaret Hamilton" title="Margaret Hamilton">
 
 ## All-Star Informático 2017
 

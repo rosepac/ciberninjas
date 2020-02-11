@@ -17,7 +17,7 @@ sidebar:
 ---
 
 <figure>
-    <a href="https://images.computerhistory.org/fellows/2003_tim_berners-lee.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/2003_tim_berners-lee.jpg"></a>
+    <a href="https://images.computerhistory.org/fellows/2003_tim_berners-lee.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/2003_tim_berners-lee.jpg" width="200px" high="250px"></a>
     <figcaption>Tim Berners-Lee | Visto en Ciberninjas</figcaption>
 </figure>
 
