@@ -24,6 +24,11 @@ header:
 
 ### ¿Qué profesiones digitales son más demandadas en 2020?
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/1093121"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+[📊 Visualizar Mapa Completo en Grande](/profesiones-digitales-mapas-habilidades/){: .btn .btn--inverse .btn--x-large .align-center}
+[📊 Visualizar Mapa de Habilidades en Grande](/profesiones-digitales-mapas-habilidades/){: .btn .btn--inverse .btn--x-large .align-center}
+
 ## Desarrollador web y multimedia
 
 El desarrollador web multimedia es el encargado de implementar o programar todo tipo de sistemas web basados en las especificaciones y diseños requiridos por cada empresa o proyecto; dentro de este mismo campo nos podremos encontrar son siguientes profesiones..
