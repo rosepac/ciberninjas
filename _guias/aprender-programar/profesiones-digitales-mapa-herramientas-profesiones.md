@@ -33,3 +33,4 @@ author_profile: false
 
 [📊 Ir al Mapa de Lenguajes y Profesiones Digitales Completo](/profesiones-digitales-mapa-completo/){: .btn .btn--inverse .btn--x-large .align-center}
 [📊 Ir al Mapa de Habilidades](/profesiones-digitales-mapas-habilidades/){: .btn .btn--inverse .btn--x-large .align-center}
+[👨‍💻 Conoce, las profesiones digitales, una a una](/profesiones-digitales/){: .btn .btn--inverse .btn--x-large .align-center}
