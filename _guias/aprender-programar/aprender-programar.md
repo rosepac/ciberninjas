@@ -127,7 +127,7 @@ Cada puesto de trabajo te exigira que conozcas ciertas herramientas, además de 
 
 Posteriormente, vamos a realizar una pequeña revisión de las diferentes herramientas que más útiles te serán a la hora de realizar las tareas exigidas dentro de cada posición de trabajo o desarrollo y elaboración de las tareas requeridas por cada empresa.
 
-[👉 Tecnologías por Puesto de Trabajo Profesional](/programar/#page-title){: .btn .btn--warning .btn--large .align-center}
+[👉 Tecnologías por Puesto de Trabajo Profesional](/profesiones-digitales/#qu%C3%A9-tecnolog%C3%ADas-requiere-cada-una-de-las-profesiones){: .btn .btn--warning .btn--large .align-center}
 
 ## Los Lenguajes Imprescindibles de 2019
 
