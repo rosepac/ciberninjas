@@ -82,6 +82,7 @@ https://www.youtube.com/watch?v=aa9PCu_UZpg
 ## Repositorios
 
 * [Dribble](https://dribbble.com){:target="_blank"}
+* [Biblioteca del patrimonio de la biodiversidad](https://www.flickr.com/photos/biodivlibrary/){:target="_blank"} 150.000 ilustraciones de animales y botánica en su cuenta de Flickr.
 
 ## Repositorios 2D / 3D
 

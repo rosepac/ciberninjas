@@ -22,7 +22,7 @@ header:
 
 ---
 
-## ¿Qué profesiones digitales son más demandadas en 2020?
+### ¿Qué profesiones digitales son más demandadas en 2020?
 
 ## Desarrollador web y multimedia
 
@@ -156,6 +156,24 @@ Extrae grandes cantidades de datos, estructurados o no, con el objetivo de ident
 
 Procesa y realiza análisis estadísticos de datos para sacar conclusiones y resolver problemas de negocio.
 
+## Publicidad y Marketing
+
+### Community Manager
+
+Se encarga de gestionar todas las comunidades digitales en las que una empresa está presente o le interese más estar presente; redes sociales, foros, etc.
+
+### Especialista en Marketing Digital
+
+Encargado de aconsejar y desarrollar estrategias pra distintos objetivos como la entrada de la marca o un productos de mercado, posicionamiento de la marca, etc.
+
+### Especialista en E-Commerce
+
+Desarrolla o ejecuta la estrategia de venta online de la organización para conseguir ampliar sus redes de clientes y vender más productos.
+
+### Especialista SEO y SEM
+
+Trabaja en incrementar el posicionamiento de la web de la empresa a través de los navegadores de búsqueda para aumentar el tráfico de usuarios.
+
 ## ¿Qué tecnologías requiere cada una de las profesiones?
 
 Queda decir, antes de seguir leyendo, que todo lo que aquí se expresa es mayormente orientativo y puede existir una amplia gama de tecnologías que se complementen dentro de una o más profesiones de trabajo.
@@ -181,41 +199,173 @@ Por último, se deben de conocer algunos de los framework más usados, en la act
 
 ### Qué tecnologías requiere un desarrollador Full Stack
 
++ Javascript, Java, Angular
+= HTML, CSS
+- Spring Framework, Git, PHP, React, Node.JS
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
+
+
 ### Qué tecnologías requiere un desarrollador de videojuegos
+
++ Unity y Realidad Virtual
+= Scripting Language
+- Bases de datos, GNU / Linux, MySQL, PHP
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
 
 ### Qué tecnologías requiere un desarrollador móvil
 
++ Swift, Java, Flutter
+= Java, Git, Kotlin, Computación en la Nube, Scrum
+- HTML, CSS, Javascript, API´s, MVC (Model View Controller)
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
+
 ### Qué tecnologías requiere un especialista UI
+
++ HTML, CSS, Javascript, Adobe Photoshop
+= Wordpress, Adobe Illustrator, jQuery, Bootstrap
+- Sass, PHP
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
 
 El especialista UI o también conocido como especialista de interfaces de usuario
 
 ### Qué tecnologías requiere un diseñador gráfico
 
++ Adobe Photoshop, Adobe Illustrator, Adobe InDesign, HTML
+= Redes Sociales, Wordpress, CSS
+- Microsoft Office, Adobe Premiere Pro, Email marketing
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
+
 ### Qué tecnologías requiere un Administrador de sistemas
+
++ GNU / Linux
+= Computación en la Nube, Lenguaje de Scripts, VMWare, Microsoft Azure
+- Java, Unix, Ansible, AWS (Amazon Web Services), Docker
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
 
 ### Qué tecnologías requiere un Diseñador o administrador de bases de datos
 
++ Bases de Datos, GNU / Linux, Familia IBM Db2, MySQL, PostgreSQL
+= Unix, Microsoft SQL Server, Java, Computación en la Nube
+- MongoDB
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
+
 ### Qué tecnologías requiere un Técnico de soporte TIC
+
++ 
+= 
+- 
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
 
 ### Qué tecnologías requiere un Especialista en ciberseguridad
 
++ Redes de Comunicación, Firewall, GNU / Linux, Hacking
+= Seguridad de la Información (SIEM), Prevención de Intrusión en los Sistemas, Detección de Intrusión en el Sistema
+- Python, Cisco CCNA, Servidor Proxy
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
+
 ### Qué tecnologías requiere un Digital producto manager
 
++ Scrum, Project Manager Profesional, Microsoft Powerpoint
+= Computación en la Nube
+- Java, SAP Negocios, JIRA, ITIL, Framework Spring, Certificación PRINCE2
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
+
 ### Qué tecnologías requiere un Digital project manager
+
++ Scrum, Java, Computación en la Nube, ITIL, SAP Negocios
+= Jira, Kanban, GNU / Linux, Microsoft Azure
+- Javascript
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
 
 E incluso si tu desarrollo es el d
 
 ### Qué tecnologías requiere un Consultor TIC
 
++ SAP Bussines, SAP ABAP
+= Microsoft Dynamics, Computación en la Nube, SAP Hana
+- Java, SAP FI, Microsoft Office, SAP SD, SAP Fiori
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
+
 ### Qué tecnologías requiere un Especialista de UX u experiencia de usuario
+
++ Experiencia de Usuario, Interfaz de Usuario
+= CSS, HTML, Adobe Photoshop, Adobe Illustrator
+- Javascript, Bootstrap, UiPath, jQuery
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
 
 ### Qué tecnologías requiere un Cientifico de datos
 
-### Qué tecnologías requiere un Analista de datos o *business intelligence**
++ Python, Inteligencia Artificial, Computación en la Nube
+= Apache Spark, Sass, Java, MongoDB
+- Apache Hadoop, Scala, TensorFlow
 
-## Gráfica
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
+
+### Qué tecnologías requiere un Analista de datos o *Business Intelligence** / **BI**
+
++ Inteligencia de Negocios
+= Qlik, MicroEstrategia, Sass, Extract, Transform and Load (ETL), Python, Java
+- Bases de Datos, Tableau, SAP Negocios
+
+👷‍♂️ Pendiente de Revisión 👷‍♂️
+{: .notice--warning}
+
+### Qué tecnologías requiere un Community Manager
+
++ Redes Sociales, SEO, Adobe Photoshop
+= Wordpress, Publicidad Digital, Google Ads, Hootsuite
+- Google Analitycs, Adobe Illustrator, HTML
+
+### Qué tecnologías requiere un Especialista en Marketing Digital
+
++ SEO, Redes Sociales, Adobe Photoshop
+= Google Ads, Google Analytics
+- SEM, Office, Powerpoint, Publicidad Digital, Wordpress
+
+### Qué tecnologías requiere un Especialista en E-Commerce
+
++ E Commerce, SEO, SEM, Prestashop, Google Analytics
+= Photoshop, Redes Sociales
+- Google Ads, Publicidad Digital, Facebook Ads
+
+### Qué tecnologías requiere un Especialista SEO y SEM
+
++ SEO, SEM, Google Analytics, Google Ads
+= Wordpress, Publicidad Digital
+- HTML, Redes Sociales, SEMRush, Adobe Photoshop
+
+## Mapa Gráfico
 
 Gráfica que muestra los diferentes lenguajes de programación y frameworks, herramientas y plataformas y disciplinas y conceptos requeridos dentro de cada uno de los muchos puestos de trabajo que existen en el mundo de la tecnología.
+
+[📊 Visualizar Mapa de Habilidades en Grande](/profesiones-digitales-mapas-habilidades/){: .btn .btn--inverse .btn--x-large .align-center}
 
 <div class="flourish-embed flourish-Sankey chart" data-src="visualisation/956436"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
