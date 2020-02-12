@@ -504,30 +504,6 @@ sidebar:
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## 🎁 Papelería 🙀
-
-## Agendas 📆
-### Agendas Escolares <i class="fas fa-calendar-week"></i>
-
-* [Agenda Escolar Retro Gamer PacMan M. 1 2019/2020](https://amzn.to/2I2bwrx){:target="_blank"}
-* [Agenda Escolar Retro Gamer PacMan M.2 2019/2020](https://amzn.to/2NaSKSQ){:target="_blank"}
-* [Agenda Escoalar Star Wars 2019/2020](https://amzn.to/2URK30R){:target="_blank"}
-* [Agenda escolar 2019-2020 Fortnite](https://amzn.to/34EykHq){:target="_blank"}
-* [Agenda escolar 2019-2020 Croqueta y Empanadilla](https://amzn.to/2L2YZ94){:target="_blank"}
-* [Agenda escolar 2019-2020 Defreds](https://amzn.to/2L6SRNb){:target="_blank"}
-* [Agenda escolar 2019-2020 Lucía Bellido](https://amzn.to/2ZtWmpW){:target="_blank"}
-* [Agenda escolar 2019-2020 Lyona](https://amzn.to/2UdNUoC){:target="_blank"}
-* [Agenda escolar 2019-2020 Moderna de Pueblo](https://amzn.to/2Pn6R9B){:target="_blank"}
-* [Agenda escolar 2019-2020 Mónica Morán](https://amzn.to/2ZBSvly){:target="_blank"}
-
-[🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-## Cuadernos de Escritura 📓
-
-### Cuadernos Moleskine
-
-* [Los Cuadernos de Moleskine](https://amzn.to/2ZRGWMn){:target="_blank"}
-
 ## 📂 Categorías de Libros
 
 [🕸 Administraci&oacute;n y Redes](/categoria/#redes-y-administraci%C3%B3n "Libros de Redes y Administración"){: .btn.btn--success.btn--large} [🌄 Ciencias de la Tierra](/catalogo/#ciencias-de-la-tierra "Libros de Categoría de Ciencias de la Tierra"){: .btn.btn--success.btn--large} [🔬 Ciencias Informáticas](/categoria/#ciencias-informáticas "Libros de Categoría Ciencias Informáticas"){: .btn.btn--success.btn--large} [💪 Desarrollo Personal](/categoria/#desarrollo-personal "Libros de Categoría Desarrollo Personal"){: .btn.btn--success.btn--large} [🧠 Neuropsicolog&iacute;a](/categoria/#neuropsicología "Libros relacionados con la neurociencia y la psicología"){: .btn.btn--success.btn--large} [👨‍💻 Programación Móvil](/categoria/#programación-móvil "Libros de Frameworks de Creación de Aplicaciones Móviles Multiplataforma"){: .btn.btn--success.btn--large} [⭐ Recomendaciones](/categoria/#recomendaciones "Libros recomendados por diferentes personajes famosos de influencia"){: .btn.btn--success.btn--large} [🌐 Red e Internet](/categoria/#red-e-internet "Libros en relación a las Redes e Internet"){: .btn.btn--success.btn--large} [🔐 Seguridad Inform&aacute;tica](/categoria/#seguridad-inform%C3%A1tica "Libros de Categoría Seguridad Informática"){: .btn.btn--success.btn--large} [🤼 Sociología](/categoria/#sociología "Libros de Categoría Sociología"){: .btn.btn--success.btn--large}
