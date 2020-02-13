@@ -63,6 +63,8 @@ toc_sticky: false
 - [Generador de Backlinks Automático](https://netgrows.com/es/backlinks-automaticos){:target="_blank"}
 - Siteliner [explora tu sitio web](http://www.siteliner.com){:target="_blank"}
 
+- [Exportar Palabras Clave](https://www.mecagoenlos.com/tools/){:target="_blank"} 1- Exporta hasta 50.000 KWs de Google Search Console. 2- Exporta también las URLs (query + page).3- Totalmente gratis. (2020)
+
 ## Las Mejores Herramientas de Redes Sociales
 
 - [Display Purposes](https://displaypurposes.com/){:target="_blank"} - Analizar Hashtags Instagram
