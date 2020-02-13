@@ -35,7 +35,7 @@ minimal_mistakes_skin: default # default, air, aqua, contrast, dark, dirt, neon,
 # Configuración del Autor
 author:
   name   : "Pablo Álvarez Corredera"
-  avatar : "/assets/images/logos/programador-cool-frentex851.webp"
+  avatar : "/assets/images/logos/rosepac-fullstack_160px.png"
   bio    : "Documentalista Digital. Educación Siglo XXI. Bibliotecario de Internet."
   links:
     - label: "Fuente RSS"  
