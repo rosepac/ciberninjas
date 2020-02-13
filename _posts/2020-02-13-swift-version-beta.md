@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![](/assets/images/blog/swift-open-source_2048.webp "Logotipo del lanzamiento 5.2 del lenguaje de Programación de Apple: Swift")
+![Logotipo del lanzamiento 5.2 del lenguaje de Programación de Apple: Swift](/assets/images/blog/swift-open-source_2048.webp "Logotipo del lanzamiento 5.2 del lenguaje de Programación de Apple: Swift")
 
 La primera versión beta de Swift 5.2 acaba de lanzarse junto con Xcode 11.4 beta e incluye varios cambios del idioma junto con la reducción del tamaño del código y una mejoría del uso de la memoria, además de una nueva arquitectura de diagnóstico que debe ayudar a diagnosticar errores en el código, mucho más rápido.
 
