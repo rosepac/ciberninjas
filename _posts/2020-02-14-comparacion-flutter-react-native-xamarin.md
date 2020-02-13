@@ -28,7 +28,9 @@ categories:
 
 En este artículo vamos a investigar el estado actual de los framework multiplataforma más populares para la creación de aplicaciones en Android e iOS.
 
-A la hora de usar un framework multiplataforma el objetivo final, siempre es el mismo, facilitar y permitir que un mismo equipo de programadores trabajen en escribir una única base de código que al final pueda ser implementado sobre múltiples plataformas. Con esa fundamental, de compartir la mayor cantidad de código, teoricamente se debe lograr ahorrar mucho tiempo y por tanto, también mucho dinero.
+A la hora de usar un framework multiplataforma el objetivo final, siempre es el mismo, facilitar y permitir que un mismo equipo de programadores trabaje en escribir una única base de código que al final pueda ser implementado sobre múltiples plataformas.
+
+Con el objetivo principal de compartir la mayor parte del código posible, teóricamente se debe lograr ahorrar mucho tiempo y por tanto, también mucho dinero.
 
 Hay varios frameworks multiplataforma disponibles y las preguntas más habituales que los desarrolladores se encuentran a la hora de comenzar un proyecto es, ¿Cuál de ellos merece más la pena?¿Qué framework es mejor en la actualidad?
 
@@ -61,13 +63,13 @@ Flutter ha estado disponible desde hace menos de 5 años y lanzado oficialmente 
 
 A pesar de que Dart no recibió mucho cariño en la [encuesta de desarrolladores](https://insights.stackoverflow.com/survey/2017#most-loved-dreaded-and-wanted){:target="_blank"} de 2017 de Stack Overflow, las primeras publicaciones del blog de Flutter fueron recibidas con una mirada positiva. No existe una hoja de ruta bien definida para Flutter, pero si te fijas lo suficiente, puedes encontrar sus [hitos](https://github.com/flutter/flutter/milestones){:target="_blank"} actuales y detalles específicos sobre en qué están trabajando a través de la [discusión de este tema](https://github.com/flutter/flutter/issues/13009#issuecomment-344308441){:target="_blank"} de Github. El equipo de Flutter se encuentra manteniendo y dando asistencia dentro del [subreddit de FlutterDev](https://www.reddit.com/r/FlutterDev/){:target="_blank"} en el que se encuentran más de 29.000 usuarios y en el chat de [Gitter.im](https://gitter.im/flutter/flutter){:target="_blank"} donde puedes encontrar más de 10.000 usuarios. Por último,  existe un [Foro de Grupo de Google con Devs de Flutter](https://groups.google.com/forum/#!forum/flutter-dev){:target="_blank"} en el que ya existen más de 3.800 temas abiertos; y por último,  puedes encontrar a los desarrolladores especializados en Flutter en Stack Overflow.
 
-Encontrar personal para desarrollar con Dart y Flutter no será fácil ya que la plataforma es bastante reciente y el lenguaje Dart es un lenguaje centrado especificamente en un aspecto muy concreto. Más, los desarrolladores de Java y Kotlin pueden aprenderlo fácilmente. Para los desarrolladores de Android debería de ser más sencillo integrarse en el uso de Flutter, ya que puede integrarse sin ningún tipo de problemas con IntelliJ y Android Studio. Los desarrolladores de iOS tendrán que acostumbrarse al lenguaje, la metodología y las herramientas casi por completo; lo que puede crear una línea de aprendizaje bastante más compleja.
+Encontrar personal para desarrollar con Dart y Flutter no será fácil ya que la plataforma es bastante reciente y el lenguaje Dart es un lenguaje centrado específicamente en un aspecto muy concreto. Más, los desarrolladores de Java y Kotlin pueden aprenderlo fácilmente. Para los desarrolladores de Android debería de ser más sencillo integrarse en el uso de Flutter, ya que puede integrarse sin ningún tipo de problemas con IntelliJ y Android Studio. Los desarrolladores de iOS tendrán que acostumbrarse al lenguaje, la metodología y las herramientas casi por completo; lo que puede crear una línea de aprendizaje bastante más compleja.
 
 Además de las APIs de pagos, Bluetooth y NFC, la mayoría de las APIs de hardware y sensores son compatibles, pero algunas de ellas se encuentran en una etapa temprana de su desarrollo. Cada vez, van existiendo muchos más complementos, pero algunas áreas aún aparecen pendientes de ser investigadas. Por ejemplo, el soporte para vídeos en línea y los mapas dinámicos todavía están en desarrollo a día de hoy; pero ya van naciendo proyectos experimentales con la capacidad de afrontar estos problemas.
 
 Dado que la interfaz de usuario personalizada y de alto rendimiento es el [foco principal](https://medium.com/@xster/why-flutter-doesnt-use-oem-widgets-94746e812510){:target="_blank"} de Flutter, el framework está orientado a proporcionar una interfaz de usuario profundamente personalizada, a semejanza de una interfaz nativa buscando el objetivo de que los usuarios no se sientan extraños. Flutter proporciona una implementación completa del cuerpo de la interfaz de usuario que no utiliza componentes de la interfaz de usuario nativos, para permitir así; el grado requerido de personalización, portabilidad y rendimiento. Si se desea una interfaz de usuario personalizada para cada plataforma, se debe detectar el [dispositivo actual](https://github.com/flutter/plugins/tree/master/packages/device_info){:target="_blank"} y decidir qué diseño crear, lo que podría ser extremadamente tedioso. Es importante tener en cuenta que es posible incrustar un `FlutterView` muy fácilmente en un diseño nativo de Android, para mezclarlo con la interfaz de usuario nativa sobre una misma pantalla; y esto también es posible en iOS; pero hasta el momento, aún no se ha documentado.
 
-Cuando se trata de la realización de pruebas, queda claro que Flutter es un nuevo framework. Dart ofrece un excelente framework de pruebas unitarias que puede utilizarse y Flutter le brinda una excelente opción para probar los widgets en un tiempo de ejecución sin cabeza, a velocidades de prueba de unidad. Sin embargo, ejecutar pruebas de integración es algo complicado. Por último, Flutter le permite ejecutar pruebas de rendimiento con su `flutter_driver`paquete.
+Cuando se trata de la realización de pruebas, queda claro que Flutter es un nuevo framework. Dart ofrece un excelente framework de pruebas unitarias que puede utilizarse y Flutter le brinda una excelente opción para probar los widgets en un tiempo de ejecución sin cabeza, a velocidades de prueba de unidad. Sin embargo, ejecutar pruebas de integración es algo complicado. Por último, Flutter le permite ejecutar pruebas de rendimiento con su `flutter_driver` paquete.
 
 ## Flutter en Resumen
 
@@ -108,7 +110,7 @@ Los desarrolladores tienen todos los frameworks de JavaScript disponibles para r
 
 ## React Native en Resumen
 
-React Native es un framework de desarrollo móvil de código abierto para el desarrollo móvil multiplataforma, que te permite desarrollar aplicaciones Android e iOS con JavaScript y un amplio englomerado de APIs de componentes nativos.
+React Native es un framework de desarrollo móvil de código abierto para el desarrollo móvil multiplataforma, que te permite desarrollar aplicaciones Android e iOS con JavaScript y un amplio enjambre de APIs de componentes nativos.
 
 ## Ventajas de usar React Native
 
@@ -174,7 +176,7 @@ La plataforma Xamarin se considera el elemento más importante de Xamarin, ya qu
 
 ## Conclusión Final
 
-Visto este gran reposo gracias a nuestros amigos de Hackernoon y Novoda esperemos que ya puedas determinar mejor la fórmula correcta de desarrollar tus aplicaciones móviles multiplataforma.
+Visto este gran reposo gracias a la traducción realizada desde las publicaciones de Hackernoon y Novoda esperemos que ya puedas determinar mejor la fórmula correcta de desarrollar tus aplicaciones móviles multiplataforma.
 
 Partiendo de la base de que los frameworks multiplataforma no son la panacea del desarrollo y que solo terminan funcionando bien cuando se usan con plena conciencia de sus limitaciones y fortalezas, ósea en un contexto que los haga brillar. No se debería nunca elegir exclusivamente un framework así, por la posibilidad de ahorrar costes y la reducción del equipo de trabajo.
 
