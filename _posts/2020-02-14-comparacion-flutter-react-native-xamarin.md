@@ -133,7 +133,7 @@ React Native es un framework de desarrollo móvil de código abierto para el des
 
 ## Xamarin
 
-![Las ventajas y desventajas de utilizar Xamarin, visto en Ciberninjas](/assets/images/wallpaper/flutter/xamarin-logo.webp "Las ventajas y desventajas de utilizar Xamarin, visto en Ciberninjas")
+![Las ventajas y desventajas de utilizar Xamarin, visto en Ciberninjas](/assets/images/wallpaper/microsoft-xamarin/xamarin-logo.webp "Las ventajas y desventajas de utilizar Xamarin, visto en Ciberninjas")
 
 Xamarin es el más antiguo de los tres frameworks, ya lleva más de 8 años. Es de código abierto, pero bajo un desarrollo centrado en el equipo de Microsoft. No tiene la mejor reputación de herramientas, estabilidad y rendimiento entre los desarrolladores móviles, pero los desarrolladores empresariales de .Net parecen felices con él. No hay hojas de ruta específicas para Xamarin o Android / iOS disponibles públicamente, pero hay una para [`Xamarin.Forms`](https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap){:target="_blank"}. Ser el framework más antiguo hace posible la existencia de una exhaustiva [documentación](https://developer.xamarin.com/){:target="_blank"}. Además, cuenta con una [comunidad Slack](https://xamarinchat.herokuapp.com/){:target="_blank"} de más de 6.400 usuarios , muchas [reuniones](https://www.meetup.com/topics/xamarin/){:target="_blank"} / meetup y un sólido soporte a través de Stack Overflow. Encontrar ingenieros para el framework .Net no debe ser difícil, pero encontrar ingenieros .Net con los conocimientos móviles específicos para la creación de apps nativas seguramente resulte más complicado.
 
