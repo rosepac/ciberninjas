@@ -44,6 +44,10 @@ header:
 * [Cómo leer archivos PDF con Python](http://theautomatic.net/2020/01/21/how-to-read-pdf-files-with-python/){:target="_blank"}
 * [Cree tu primera aplicación web Flask con Python](https://medium.com/bhavaniravi/build-your-1st-python-web-app-with-flask-b039d11f101c){:target="_blank"}
 
+## Listados de Artículos en Blogs
+
+* [POF TUT](https://www.poftut.com/category/programming/python/){:target="_blank"}
+
 ### Bases de Datos
 
 * [sql2json](https://github.com/fsistemas/sql2json#sql2json-usage){:target="_blank"} \ Paquete de Python para ejecutar consultas SQL y obtener resultados JSON
