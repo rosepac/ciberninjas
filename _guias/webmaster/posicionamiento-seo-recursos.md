@@ -6,12 +6,12 @@ excerpt: "📌 Posicionamiento Web y SEO. Los mejores enlaces, aplicaciones y he
 published: true
 comments: true
 date: 2019-11-27
-last_modified_at: 2019-12-23
+last_modified_at: 2020-02-13-23
 permalink: /posicionamiento-seo-recursos/
 canonical_URL: https://ciberninjas.com/posicionamiento-seo-recursos/
 header:
-  teaser: "https://ibb.co/kxWmv6H"
-  overlay_image: "https://ibb.co/kxWmv6H"
+  teaser: "/assets/images/paginas/seo-portada.webp"
+  overlay_image: "/assets/images/paginas/seo-portada.webp"
   image_description: Posicionamiento Web y SEO. Los mejores enlaces, aplicaciones y herramientas que existen.
   image_alt: Posicionamiento Web y SEO. Los mejores enlaces, aplicaciones y herramientas que existen.
   caption: "**Créditos**: Unsplash"
