@@ -36,9 +36,11 @@ Hay varios frameworks multiplataforma disponibles y las preguntas más habituale
 
 El inicio de este artículo parte de una investigación en profundidad sobre el uso de [Flutter](/como-aprender-flutter/) y una exhaustiva evaluación de sus posibilidades. Se ha intentado analizar cuanto de complicado podría ser llegar a aprenderlo; y posteriormente, se pensó en analizar también. Los frameworks considerados con un mayor crecimiento (sé, que se ha dejado aparacado a Vue, por ahora).
 
-Existen muchas [otras herramientas en el mercado](/mejores-sdk-multiplataforma-2019-20){:target="_blank"} de las soluciones multiplataforma, como ya vimos los Ciberninjas hace no tanto tiempo. Podemos repasar el nombre de algunas de ellas en la actualidad; como Flutter, React Native, Xamarin, Vue, PWA (aplicaciones web progresivas), Kotlin Native, J2Objective C (Doppl), Ionic, Cordoba (PhoneGap / Titanium), Unity.. y muchos más.
+Entre las soluciones para la creación de aplicaciones multiplataforma, existen otras muchas [más herramientas en el mercado](/mejores-sdk-multiplataforma-2019-20){:target="_blank"}, como en su día ya [analizamos aquí](/mejores-sdk-multiplataforma-2019-20){:target="_blank"}; en Ciberninjas.
 
-Entre todo ese listado, vamos a seleccionar tres opciones principales como son: Flutter, React Native y Xamarin.
+Si repasamos el nombre de algunas de ellas en la actualidad, tendríamos que citar a: Flutter, React Native, Xamarin, Vue, PWA (aplicaciones web progresivas), Kotlin Native, J2Objective C (Doppl), Ionic, Cordoba (PhoneGap / Titanium), Unity.. y seguro que alguna más.
+
+Entre todo ese listado, finalmente se decidió seleccionar tres opciones concretas, como son: Flutter, React Native y Xamarin.
 
 Xamarin es uno de los frameworks multiplataforma más antiguos disponibles, se utiliza principalmente en entornos empresariales y ha recopilado muchas historias de éxito a lo largo de los años. React Native ha mostrado mucha popularidad en los últimos años, gracias a ReactJS y a toda la comunidad. Estar escrito en JavaScript ha impulsado su tasa de adopción en muchos círculos y se ha empleado sobre productos importantes. Flutter ha sido muy promocionado por Google desde el 2017 y ha generado un gran interés en la comunidad de desarrollo por su enfoque novedoso y su interesante stack tecnológico, sobre todo, durante sus últimos cambios y gracias a la fuerte asociación que mantiene con Android y los nuevos posibles cambios drásticos dentro del propio SO.
 
