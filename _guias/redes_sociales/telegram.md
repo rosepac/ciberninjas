@@ -25,6 +25,7 @@ toc_sticky: true
 ---
 
 * [Cómo crear un bot en Telegram y otros usos profesionales de Telegram](https://www.cemd.solutions/%E2%96%BAcomo-crear-bot-telegram-usos-profesionales-telegram/#Manybot_nos_presenta_a_BotFather_el_bot_para_manejarlos_a_todos)
+* <!-- Organiza tu telegram con una botonera: https://educandogeek.github.io/78/ -->
 
 ## Los Mejores Canales de Telegram
 
