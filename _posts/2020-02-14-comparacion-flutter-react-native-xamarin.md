@@ -58,10 +58,14 @@ Se limitaban las capacidades de los desarrolladores y afectaban seriamente al re
 
 A pesar de todos los inconvenientes, las personas continuaron eligiendo el desarrollo multiplataforma sobre el desarrollo nativo porque puede ofrecer una amplia gama de beneficios muy importantes:
 
-- **Un ciclo de desarrollo acortado**. Con el desarrollo multiplataforma, es posible compartir hasta el 96% del código en varias plataformas. Naturalmente, esto resulta en un ciclo de desarrollo mucho más corto: en lugar de desarrollar dos aplicaciones separadas, solamente se desarrolla. Luego se reutiliza ese mismo código entre las apps de los diferentes sistemas operativos, haciendo ajustes específicos a cada plataforma.
-- **La eficiencia del costo**. El desarrollo multiplataforma es indudablemente más barato: El cliente paga a menos desarrolladores por menos horas de trabajo.
-- Un equipo más pequeño. El desarrollo multiplataforma requiere menos desarrolladores porque no es necesario contratar equipos separados con conocimientos específicos de Android e iOS.
-- **Un proceso de prueba simplificado**. Una base de código más pequeña necesita menos pruebas y permite a los ingenieros de control de calidad dedicar más tiempo a cada elemento de la aplicación, lo que da como resultado una cobertura de prueba de mayor calidad.
+- **Un ciclo de desarrollo acortado**
+  - Con el desarrollo multiplataforma, es posible compartir hasta el 96% del código en varias plataformas. Naturalmente, esto resulta en un ciclo de desarrollo mucho más corto: en lugar de desarrollar dos aplicaciones separadas, solamente se desarrolla. Luego se reutiliza ese mismo código entre las apps de los diferentes sistemas operativos, haciendo ajustes específicos a cada plataforma.
+- **La eficiencia del costo**
+  - El desarrollo multiplataforma es indudablemente más barato: El cliente paga a menos desarrolladores por menos horas de trabajo.
+- **Un equipo más pequeño**
+  - El desarrollo multiplataforma requiere menos desarrolladores porque no es necesario contratar equipos separados con conocimientos específicos de Android e iOS.
+- **Un proceso de prueba simplificado**
+  - Una base de código más pequeña necesita menos pruebas y permite a los ingenieros de control de calidad dedicar más tiempo a cada elemento de la aplicación, lo que da como resultado una cobertura de prueba de mayor calidad.
 
 ## Flutter
 
@@ -124,8 +128,10 @@ Eso hace que el diseño de Flutter sea visible de inmediato.
   - Flutter también implementa Skia, una biblioteca de gráficos 2D de código abierto, que se encarga de renderizar la biblioteca de los componentes de la interfaz de usuario integrada en todo el framework.
 - **Todo es un widget**
   - En Flutter, cada elemento de la pantalla es un widget, lo que simplifica enormemente el diseño de la aplicación. Cada widget separado especifica su propio modelo de diseño, en lugar de tener un solo conjunto de reglas para todos los widgets. Debido a que el diseño de Flutter es relativamente pequeño, es fácil de optimizar, y debido a que cada elemento de la interfaz de usuario es un widget, todo el diseño en sí; se vuelve más manejable.
-- **Gran cantidad de paquetes disponibles**: Aunque Flutter es de creación reciente, los desarrolladores de todo el mundo están realmente entusiasmados con el proyecto; y por ello, ya existen muchos paquetes diferentes disponibles para trabajar con Flutter. A saber; herramientas para manejar imágenes, solicitudes HTTP, conexiones WebSocket, varios clientes de protocolo de red, notificaciones push, bases de datos integradas, acceso a sensores, acceso a las cámaras del dispositivo, etc.
-- **Compatibilidad de dispositivos**: Los widgets nativos de Flutter permiten que las aplicaciones sigan siendo compatibles con las versiones del sistema operativo a partir de iOS 8.0 y Android Jelly Bean. Siempre que Apple o Google presenten un nuevo widget, no interrumpirá su aplicación desde el exterior porque Flutter no toca los widgets de la plataforma nativa.
+- **Gran cantidad de paquetes disponibles**
+  - Aunque Flutter es de creación reciente, los desarrolladores de todo el mundo están realmente entusiasmados con el proyecto; y por ello, ya existen muchos paquetes diferentes disponibles para trabajar con Flutter. A saber; herramientas para manejar imágenes, solicitudes HTTP, conexiones WebSocket, varios clientes de protocolo de red, notificaciones push, bases de datos integradas, acceso a sensores, acceso a las cámaras del dispositivo, etc.
+- **Compatibilidad de dispositivos**
+  - Los widgets nativos de Flutter permiten que las aplicaciones sigan siendo compatibles con las versiones del sistema operativo a partir de iOS 8.0 y Android Jelly Bean. Siempre que Apple o Google presenten un nuevo widget, no interrumpirá su aplicación desde el exterior porque Flutter no toca los widgets de la plataforma nativa.
 
 ## Desventajas de usar Flutter
 
@@ -142,11 +148,21 @@ Eso hace que el diseño de Flutter sea visible de inmediato.
 
 ![Las ventajas de flutter y aplicaciones, visto en Ciberninjas](/assets/images/wallpaper/react-native/reactive-native-logo.webp "Las ventajas de flutter y aplicaciones, visto en Ciberninjas")
 
-React Native se lanzó públicamente como código abierto a través de GitHub en 2015 y es el más popular de los tres frameworks en Stack Overflow y Google. A pesar de ser un framework bastante "viejo" ya, no existe una hoja de ruta clara, solo una [página dedicada en GitHub](https://github.com/facebook/react-native/wiki/Roadmap){:target="_blank"} que enumera los diferentes objetivos a alcanzar. Existe una gran comunidad con (en el momento de la escritura) un [subreddit](https://www.reddit.com/r/reactnative/){:target="_blank"} de + 44.000 usuarios, un [chat de Discord](http://join.reactiflux.com/){:target="_blank"} de + 98.000 usuarios y un fuerte soporte en Stack Overflow. Encontrar apoyo entre la comunidad es mucho más fácil que con Flutter, pero los desarrolladores de React Native ciertamente no son tan comunes como puede parecer. Llegar a encontrar desarrolladores móviles nativos que también tengan conocimiento de React y JavaScript podría ser una tarea difícil.
+React Native se lanzó públicamente como código abierto a través de GitHub en 2015 y es el más popular de los tres frameworks en Stack Overflow y Google. A pesar de ser un framework bastante "viejo" ya, no existe una hoja de ruta clara, solo una [página dedicada en GitHub](https://github.com/facebook/react-native/wiki/Roadmap){:target="_blank"} que enumera los diferentes objetivos a alcanzar.
 
-React Native es compatible con la mayoría de las API nativas de Android e iOS. Debido a su gran comunidad de desarrolladores, incluso si no hay una API oficial disponible, hay muchas bibliotecas de terceros para elegir. En términos de API específicas de hardware, React Native carece de una cantidad de ellas, pero nuevamente, hay bibliotecas de terceros disponibles. React Native no tiene API oficiales para: Bluetooth, biometría, NFC, cámara y sensores. Sin embargo, tiene API para WiFi y ubicación.
+Existe una gran comunidad con (en el momento de la escritura) un [subreddit](https://www.reddit.com/r/reactnative/){:target="_blank"} de + 44.000 usuarios, un [chat de Discord](http://join.reactiflux.com/){:target="_blank"} de + 98.000 usuarios y un fuerte soporte en Stack Overflow. Encontrar apoyo entre la comunidad es mucho más fácil que con Flutter, pero los desarrolladores de React Native ciertamente no son tan comunes como puede parecer.
 
-React Native realmente no ofrece una API para la creación de gráficos personalizados. Está invitado a componer componentes existentes siempre que necesite una solución personalizada, pero no es trivial tener un dibujo totalmente personalizado sin recurrir al código nativo de la plataforma. Crear interfaces de usuario simples es bastante sencillo, dado que el equipo de desarrollo está familiarizado con los componentes React. Si necesita tener diferentes IU para cada plataforma, React Native puede administrar distintas implementaciones para Android e iOS. Es posible, aunque no trivial, mezclar y combinar React Native UI con Native UI en la misma pantalla, y también es posible tener solo un subconjunto en las pantallas de una aplicación creada en React Native.
+Llegar a encontrar desarrolladores móviles nativos que también tengan conocimiento de React y JavaScript podría ser una tarea difícil.
+
+React Native es compatible con la mayoría de las API nativas de Android e iOS. Debido a su gran comunidad de desarrolladores, incluso si no hay una API oficial disponible, hay muchas bibliotecas de terceros para elegir. 
+
+En términos de API específicas de hardware, React Native carece de una cantidad de ellas, pero nuevamente, hay bibliotecas de terceros disponibles. React Native no tiene API oficiales para: Bluetooth, biometría, NFC, cámara y sensores. Sin embargo, tiene API para WiFi y ubicación.
+
+React Native realmente no ofrece una API para la creación de gráficos personalizados. Está invitado a componer componentes existentes siempre que necesite una solución personalizada, pero no es trivial tener un dibujo totalmente personalizado sin recurrir al código nativo de la plataforma.
+
+Crear interfaces de usuario simples es bastante sencillo, dado que el equipo de desarrollo está familiarizado con los componentes React. Si necesita tener diferentes IU para cada plataforma, React Native puede administrar distintas implementaciones para Android e iOS.
+
+Es posible, aunque no trivial, mezclar y combinar React Native UI con Native UI en la misma pantalla, y también es posible tener solo un subconjunto en las pantallas de una aplicación creada en React Native.
 
 Los desarrolladores tienen todos los frameworks de JavaScript disponibles para realizar pruebas sobre sus componentes. Sin embargo, cuando se trata de pruebas de interfaz de usuario o automatización, la situación no es tan excelente. Aunque hay varias bibliotecas de terceros disponibles, no hay una ruta clara a seguir.
 
@@ -156,22 +172,35 @@ React Native es un framework de desarrollo móvil de código abierto para el des
 
 ## Ventajas de usar React Native
 
-- **Una gama amplia de componentes**: Incluye una amplia selección de componentes nativos de Interfaz de Usuario a diferencia de otros frameworks de desarrollo multiplataforma. Esto significa que las aplicaciones se verán como aplicaciones nativas. Si se hace correctamente, una aplicación React Native apenas se distingue de una aplicación nativa.
-- **Desarrollo simplificado**: El desarrollo móvil nativo implementa el enfoque de programación imperativo, donde los desarrolladores necesitan definir estrictamente una secuencia de acciones que describan cómo funciona la aplicación para crear una interfaz de usuario. Con React Native, los desarrolladores pueden usar programación declarativa, que describe solo lo que el programa tiene que hacer y no cómo debe hacerse. La programación declarativa permite un código más simple y una codificación más fácil, lo que también significa que el producto final será más fácil de mantener.
-- **Arquitectura modular**: React Native admite la modularidad de la arquitectura, lo que permite separar el código de la aplicación en varios bloques independientes. Esto da como resultado un desarrollo flexible, lo que facilita la actualización y modificación del producto final.
-- **Soluciones y bibliotecas listas para usar**: Debido a que React Native ha existido durante bastante tiempo, los desarrolladores han tenido tiempo de crear una variedad de bibliotecas y herramientas para automatizar y ayudar a la mayoría de los procesos de rutina. Existen frameworks de pruebas, herramientas para la verificación de tipos, tecnologías para la configuración del flujo de trabajo, etc. Esto significa que a los desarrolladores les resultará más fácil resolver problemas complicados o mundanos y tendrán más tiempo para perfeccionar el producto.
-- **Soporte de terceros**: Debido a que la comunidad de desarrollo ha respaldado los beneficios de React Native, muchos servicios de terceros han creado API y complementos para las aplicaciones de React Native. Hay soporte de terceros para mapas, sistemas de pago, gráficos y más.
-- **Permite la recarga en caliente**: Al desarrollar una aplicación móvil, es útil mirar la aplicación real con frecuencia (posiblemente después de cada cambio realizado en el código) para ello existe la denominada: recarga en caliente. Esta característica presente en React Native, permite a los desarrolladores ver de inmediato los cambios que se realizan en el código cada vez que se guardan.
-- **Existe un gran ecosistema y comunidad**: Hay una comunidad importante alrededor del framework React Native, que es una plataforma de código abierto; lo que se convierte en una gran ventaja porque significa que es menos probable que los desarrolladores se atasquen, ya que siempre hay alguien a quién se le puede pedir ayuda.
+- **Una gama amplia de componentes**
+  - Incluye una amplia selección de componentes nativos de Interfaz de Usuario a diferencia de otros frameworks de desarrollo multiplataforma. Esto significa que las aplicaciones se verán como aplicaciones nativas. Si se hace correctamente, una aplicación React Native apenas se distingue de una aplicación nativa.
+- **Desarrollo simplificado**
+  - El desarrollo móvil nativo implementa el enfoque de programación imperativo, donde los desarrolladores necesitan definir estrictamente una secuencia de acciones que describan cómo funciona la aplicación para crear una interfaz de usuario. Con React Native, los desarrolladores pueden usar programación declarativa, que describe solo lo que el programa tiene que hacer y no cómo debe hacerse. La programación declarativa permite un código más simple y una codificación más fácil, lo que también significa que el producto final será más fácil de mantener.
+- **Arquitectura modular**
+  - React Native admite la modularidad de la arquitectura, lo que permite separar el código de la aplicación en varios bloques independientes. Esto da como resultado un desarrollo flexible, lo que facilita la actualización y modificación del producto final.
+- **Soluciones y bibliotecas listas para usar**
+  - Debido a que React Native ha existido durante bastante tiempo, los desarrolladores han tenido tiempo de crear una variedad de bibliotecas y herramientas para automatizar y ayudar a la mayoría de los procesos de rutina. Existen frameworks de pruebas, herramientas para la verificación de tipos, tecnologías para la configuración del flujo de trabajo, etc. Esto significa que a los desarrolladores les resultará más fácil resolver problemas complicados o mundanos y tendrán más tiempo para perfeccionar el producto.
+- **Soporte de terceros**
+  - Debido a que la comunidad de desarrollo ha respaldado los beneficios de React Native, muchos servicios de terceros han creado API y complementos para las aplicaciones de React Native. Hay soporte de terceros para mapas, sistemas de pago, gráficos y más.
+- **Permite la recarga en caliente**
+  - Al desarrollar una aplicación móvil, es útil mirar la aplicación real con frecuencia (posiblemente después de cada cambio realizado en el código) para ello existe la denominada: recarga en caliente. Esta característica presente en React Native, permite a los desarrolladores ver de inmediato los cambios que se realizan en el código cada vez que se guardan.
+- **Existe un gran ecosistema y comunidad**
+  - Hay una comunidad importante alrededor del framework React Native, que es una plataforma de código abierto; lo que se convierte en una gran ventaja porque significa que es menos probable que los desarrolladores se atasquen, ya que siempre hay alguien a quién se le puede pedir ayuda.
 
 ## Desventajas de usar React Native
 
-- **El rendimiento de la aplicación**: Debido a que las aplicaciones multiplataforma no están totalmente alineadas con el hardware del dispositivo, su rendimiento es peor que el de las aplicaciones nativas. La razón es que hay un puente basado en JavaScript entre la capa de aplicación de React Native y los componentes de hardware, y cada interacción con el dispositivo tiene que pasar por ese puente. Cuantas más interacciones haya, peor será el rendimiento de la aplicación. Para preservar el rendimiento de la aplicación, los desarrolladores deben minimizar las interacciones entre la aplicación y el dispositivo, lo que básicamente significa que la aplicación debe ser lo más simple posible sin ninguna interactividad exagerada contra el hardware.
-- **La necesidad de desarrolladores nativos**: React Native es un gran framework multiplataforma, pero tiene sus limitaciones. Cuando encuentre una de esas limitaciones y aún no haya una solución React Native, es necesario involucrar a los desarrolladores acostumbrados a crear aplicaciones nativas, a veces tanto que es imposible justificar el uso de React Native en primer lugar.
-- Incapacidad para lidiar con la complejidad. React Native es bueno para aplicaciones simples, pero no es tan bueno para aplicaciones con muchas pantallas, interacciones, transiciones y animaciones complejas.
-- **Lento al iniciarse**: Las aplicaciones nativas React tardan más en iniciarse, incluso con dispositivos de gama alta, porque el puente de JavaScript también tarda en iniciarse.
-- **Con visión de apps nativas**: Al buscar desarrolladores de React Native, también debe buscar a alguien que tenga experiencia en desarrollo de apps nativas. De lo contrario, las posibilidades ya limitadas de React Native se harán aún más evidentes ya que el equipo no podrá comprender soluciones complejas a los desafíos que involucren hardware nativo que otros desarrolladores han creado con anterioridad.
-- **Actualizaciones de plataforma nativas**: Para mantenerse relevantes, Google y Apple tienen que seguir agregando constantemente nuevas funciones a sus plataformas. Aunque el equipo de React Native ha estado haciendo todo lo posible para mantenerse al día con las nuevas características de hardware, todavía se encuentran un paso por detrás que los proyectos de las anteriores citadas. Aún hoy, lleva mucho más tiempo desarrollar una aplicación React Native que desarrollar una aplicación basada en una solución nativa. Por lo tanto, es probable que además, su aplicación React Native se quede atrás siempre que exista una nueva actualización de hardware.
+- **El rendimiento de la aplicación**
+  - Debido a que las aplicaciones multiplataforma no están totalmente alineadas con el hardware del dispositivo, su rendimiento es peor que el de las aplicaciones nativas. La razón es que hay un puente basado en JavaScript entre la capa de aplicación de React Native y los componentes de hardware, y cada interacción con el dispositivo tiene que pasar por ese puente. Cuantas más interacciones haya, peor será el rendimiento de la aplicación. Para preservar el rendimiento de la aplicación, los desarrolladores deben minimizar las interacciones entre la aplicación y el dispositivo, lo que básicamente significa que la aplicación debe ser lo más simple posible sin ninguna interactividad exagerada contra el hardware.
+- **La necesidad de desarrolladores nativos**
+  - React Native es un gran framework multiplataforma, pero tiene sus limitaciones. Cuando encuentre una de esas limitaciones y aún no haya una solución React Native, es necesario involucrar a los desarrolladores acostumbrados a crear aplicaciones nativas, a veces tanto que es imposible justificar el uso de React Native en primer lugar.
+- **Incapacidad para lidiar con la complejidad**
+  - React Native es bueno para aplicaciones simples, pero no es tan bueno para aplicaciones con muchas pantallas, interacciones, transiciones y animaciones complejas.
+- **Lento al iniciarse**
+  - Las aplicaciones nativas React tardan más en iniciarse, incluso con dispositivos de gama alta, porque el puente de JavaScript también tarda en iniciarse.
+- **Con visión de apps nativas**
+  - Al buscar desarrolladores de React Native, también debe buscar a alguien que tenga experiencia en desarrollo de apps nativas. De lo contrario, las posibilidades ya limitadas de React Native se harán aún más evidentes ya que el equipo no podrá comprender soluciones complejas a los desafíos que involucren hardware nativo que otros desarrolladores han creado con anterioridad.
+- **Actualizaciones de plataforma nativas**
+  - Para mantenerse relevantes, Google y Apple tienen que seguir agregando constantemente nuevas funciones a sus plataformas. Aunque el equipo de React Native ha estado haciendo todo lo posible para mantenerse al día con las nuevas características de hardware, todavía se encuentran un paso por detrás que los proyectos de las anteriores citadas. Aún hoy, lleva mucho más tiempo desarrollar una aplicación React Native que desarrollar una aplicación basada en una solución nativa. Por lo tanto, es probable que además, su aplicación React Native se quede atrás siempre que exista una nueva actualización de hardware.
 
 [⏫ Regresar al Inicio](/comparacion-flutter-react-native-xamarin/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -179,17 +208,31 @@ React Native es un framework de desarrollo móvil de código abierto para el des
 
 ![Las ventajas y desventajas de utilizar Xamarin, visto en Ciberninjas](/assets/images/wallpaper/microsoft-xamarin/xamarin-logo.webp "Las ventajas y desventajas de utilizar Xamarin, visto en Ciberninjas")
 
-Xamarin es el más antiguo de los tres frameworks, ya lleva más de 8 años. Es de código abierto, pero bajo un desarrollo centrado en el equipo de Microsoft. No tiene la mejor reputación de herramientas, estabilidad y rendimiento entre los desarrolladores móviles, pero los desarrolladores empresariales de .Net parecen felices con él. No hay hojas de ruta específicas para Xamarin o Android / iOS disponibles públicamente, pero hay una para [`Xamarin.Forms`](https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap){:target="_blank"}. Ser el framework más antiguo hace posible la existencia de una exhaustiva [documentación](https://developer.xamarin.com/){:target="_blank"}. Además, cuenta con una [comunidad Slack](https://xamarinchat.herokuapp.com/){:target="_blank"} de más de 6.400 usuarios , muchas [reuniones](https://www.meetup.com/topics/xamarin/){:target="_blank"} / meetup y un sólido soporte a través de Stack Overflow. Encontrar ingenieros para el framework .Net no debe ser difícil, pero encontrar ingenieros .Net con los conocimientos móviles específicos para la creación de apps nativas seguramente resulte más complicado.
+Xamarin es el más antiguo de los tres frameworks, ya lleva más de 8 años. Es de código abierto, pero bajo un desarrollo centrado en el equipo de Microsoft. No posee la mejor reputación de herramientas, estabilidad y rendimiento entre los desarrolladores móviles, pero los desarrolladores empresariales de .Net parecen felices con él.
 
-Xamarin proporciona contenedores a varias bibliotecas de terceros, que generalmente ahorran mucho tiempo, ya que son un poco difíciles de crear, especialmente en iOS, donde no hay una herramienta automatizada para generar un punto de partida. Muchas de estas extensiones se recopilan en la biblioteca de [componentes de Xamarin](https://components.xamarin.com/){:target="_blank"}, donde puede encontrar enlaces para Play Services, Firebase, Adobe Analytics y varios otros servicios ampliamente utilizados. La mayoría de los enlaces son gratuitos, algunos otros son de pago, por ejemplo; el componente de reproducción de vídeo. Dicho esto, la gran mayoría de los contenedores tienen bajas calificaciones de los usuarios, incluso los proporcionados por el equipo de Xamarin.
+No existen hojas de ruta específicas para Xamarin o Android / iOS disponibles públicamente, pero hay una para [`Xamarin.Forms`](https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap){:target="_blank"}. Ser el framework más antiguo hace posible la existencia de una exhaustiva [documentación](https://developer.xamarin.com/){:target="_blank"}.
+
+Además, cuenta con una [comunidad Slack](https://xamarinchat.herokuapp.com/){:target="_blank"} de más de 6.400 usuarios, muchas [reuniones](https://www.meetup.com/topics/xamarin/){:target="_blank"} / meetup y un sólido soporte a través de Stack Overflow.
+
+Encontrar ingenieros para el framework .Net no debe ser difícil, pero encontrar ingenieros .Net con los conocimientos móviles específicos para la creación de apps nativas seguramente resulte más complicado.
+
+Xamarin proporciona contenedores a varias bibliotecas de terceros, que generalmente ahorran mucho tiempo, ya que son un poco difíciles de crear, especialmente en iOS, donde no hay una herramienta automatizada para generar un punto de partida.
+
+Muchas de estas extensiones se recopilan en la biblioteca de [componentes de Xamarin](https://components.xamarin.com/){:target="_blank"}, donde puede encontrar enlaces para Play Services, Firebase, Adobe Analytics y varios otros servicios ampliamente utilizados.
+
+La mayoría de los enlaces son gratuitos, algunos otros son de pago, por ejemplo; el componente de reproducción de vídeo. Dicho esto, la gran mayoría de los contenedores tienen bajas calificaciones de los usuarios, incluso los proporcionados por el equipo de Xamarin.
 
 Xamarin ofrece dos formas de desarrollar aplicaciones. En la primera; el desarrollador puede decidir crear la interfaz de usuario utilizando Xamarin.Forms, junto a la biblioteca de interfaz de usuario original de .Net (acompañada por WPF a lo largo del tiempo) o en el segundo caso; crear módulos de aplicación bajo la plataforma .Net Core completamente distintos, entre los que solo se puede compartir el código dentro de la propia plataforma de negocios "básica" de Microsoft.
 
-Debido a la naturaleza de Xamarin, es posible que tengas un código de UI (casi) completamente compartido si usas Xamarin.Forms y no vas a necesitar proporcionar UI específicas sobre la plataforma. Forms no tiene una función específica para presentar un UX diferente según la plataforma en la que se ejecuta, pero tiene un grado menor de integración en las vistas nativas si es necesario: es posible inyectar vistas nativas para cada plataforma en un diseño XAML. Esto debería estar bien para integraciones menores y ad-hoc, pero puede ofrecer problemas ante la necesidad de escalado.
+Debido a la naturaleza de Xamarin, es posible que tengas un código de UI (casi) completamente compartido si usas Xamarin.Forms y no vas a necesitar proporcionar UI específicas sobre la plataforma.
+
+Forms no tiene una función específica para presentar un UX diferente según la plataforma en la que se ejecuta, pero tiene un grado menor de integración en las vistas nativas si es necesario: es posible inyectar vistas nativas para cada plataforma en un diseño XAML. Esto debería estar bien para integraciones menores y ad-hoc, pero puede ofrecer problemas ante la necesidad de escalado.
 
 Si el proyecto involucra interfaces de usuario desde la plataforma de .Net Core, no existe una opción para compartir la mayoría del código y la lógica de la interfaz de usuario, pero hay una mejor capacidad para interactuar con los componentes nativos y las API.
 
-Con Xamarin se puede aprovechar NUnit, un excelente framework para pruebas unitarias que es nativo de C# y la realización de simulacros también es sencilla, lo que hace que el apartado de pruebas a nivel de componentes sea cómodo. Por otro lado, el código de Xamarin se divide en iOS, Android y formularios. Esto puede requerir duplicar el código de prueba para cada plataforma. En el caso de iOS, se ofrece un generador de perfiles para verificar el rendimiento de la aplicación. Esta herramienta no está disponible para Android.
+Con Xamarin se puede aprovechar NUnit, un excelente framework para pruebas unitarias que es nativo de C# y la realización de simulacros también es sencilla, lo que hace que el apartado de pruebas a nivel de componentes sea cómodo.
+
+Por otro lado, el código de Xamarin se divide en iOS, Android y formularios. Esto puede requerir duplicar el código de prueba para cada plataforma. En el caso de iOS, se ofrece un generador de perfiles para verificar el rendimiento de la aplicación. Esta herramienta no está disponible para Android.
 
 Xamarin brilla cuando se trata de pruebas de integración de interfaz de usuario. Hace unos años, Xamarin compró Calabash, uno de los principales framework de pruebas para interfaces de usuario sobre dispositivos móviles y creó un conjunto de pruebas específicas para Xamarin que más tarde ha terminado por denominarse Xamarin Insights.
 
@@ -197,22 +240,33 @@ Xamarin brilla cuando se trata de pruebas de integración de interfaz de usuario
 
 Xamarin es un framework multiplataforma con C# y bibliotecas de plataforma nativas envueltas en una capa .NET. La tecnología consta de tres componentes principales: Xamarin Platform, Xamarin Cloud y Xamarin Insights.
 
-La plataforma Xamarin se considera el elemento más importante de Xamarin, ya que ofrece API, controles, motores de tiempo de ejecución, cifrado, autenticación, máquinas virtuales y mucho más. Xamarin Cloud proporciona una plataforma de prueba automatizada para garantizar la calidad de su producto en una variedad de dispositivos. Xamarin Insights es una herramienta de monitoreo que ayuda a los desarrolladores a rastrear bloqueos y excepciones de aplicaciones.
+La plataforma Xamarin se considera el elemento más importante de Xamarin, ya que ofrece API, controles, motores de tiempo de ejecución, cifrado, autenticación, máquinas virtuales y mucho más.
+
+Xamarin Cloud proporciona una plataforma de prueba automatizada para garantizar la calidad de su producto en una variedad de dispositivos. Xamarin Insights es una herramienta de monitoreo que ayuda a los desarrolladores a rastrear bloqueos y excepciones de aplicaciones.
 
 ## Ventajas de usar Xamarin
 
-- **Rendimiento comparable a las aplicaciones nativas**: Gracias a C#, que es un lenguaje de programación multi-paradigma y fuerte competidor de otros lenguajes utilizados en el desarrollo móvil, lo que permite que las aplicaciones Xamarin se mantengan firmes junto con las aplicaciones desarrolladas en Objective-C, Swift, Java o Kotlin.
-- **Consistencia con el hardware**: La variedad de APIs disponibles para los desarrolladores de Xamarin permite la integración con muchos componentes de hardware nativos, mejorando la experiencia del usuario.
-- **Xamarin.Forms**: Esta tecnología permite a los desarrolladores escribir código de interfaz de usuario que se puede compartir entre aplicaciones de Android e iOS con un conjunto de herramientas de más de 40 controles y diseños que se asignan a controles nativos durante el tiempo de ejecución.
-- **Compatibilidad con la arquitectura MVC y MVVM**: Xamarin admite la implementación de dos patrones de arquitectura populares: Model – View – ViewModel (MVVM) y Model – View – Controller (MVC). MVVM es bueno para crear diferentes procesos con la misma base de código, mientras que MVC ayuda a separar la presentación y la lógica de la aplicación, acelerando el proceso de desarrollo.
-- Soporte de aplicaciones sin conexión. Debido a sus características de sincronización de datos y nube, Xamarin permite que las aplicaciones trabajen sin conexión, una capacidad que solía estar limitada solo a las aplicaciones nativas.
+- **Rendimiento comparable a las aplicaciones nativas**
+  - Gracias a C#, que es un lenguaje de programación multi-paradigma y fuerte competidor de otros lenguajes utilizados en el desarrollo móvil, lo que permite que las aplicaciones Xamarin se mantengan firmes junto con las aplicaciones desarrolladas en Objective-C, Swift, Java o Kotlin.
+- **Consistencia con el hardware**
+  - La variedad de APIs disponibles para los desarrolladores de Xamarin permite la integración con muchos componentes de hardware nativos, mejorando la experiencia del usuario.
+- **Xamarin.Forms**
+  - Esta tecnología permite a los desarrolladores escribir código de interfaz de usuario que se puede compartir entre aplicaciones de Android e iOS con un conjunto de herramientas de más de 40 controles y diseños que se asignan a controles nativos durante el tiempo de ejecución.
+- **Compatibilidad con la arquitectura MVC y MVVM**
+  - Xamarin admite la implementación de dos patrones de arquitectura populares: Model – View – ViewModel (MVVM) y Model – View – Controller (MVC). MVVM es bueno para crear diferentes procesos con la misma base de código, mientras que MVC ayuda a separar la presentación y la lógica de la aplicación, acelerando el proceso de desarrollo.
+- **Soporte de aplicaciones sin conexión**
+  - Debido a sus características de sincronización de datos y nube, Xamarin permite que las aplicaciones trabajen sin conexión, una capacidad que solía estar limitada solo a las aplicaciones nativas.
 
 ## Desventajas de usar Xamarin
 
-- **Los plazos de carga**: Al crear con Xamarin, los desarrolladores deben vincular y hacer referencia al código entre varios sistemas operativos y frameworks .NET. Esto afecta negativamente los tiempos de inicio y descarga de la aplicación, lo que hace que la experiencia de la aplicación sea menos agradable para el usuario final.
-- **Desarrollo lento y complejo de la interfaz de usuario**: Aunque Xamarin.Forms permite compartir algunos componentes de la interfaz de usuario, todavía hay algunos componentes que deben desarrollarse para cada plataforma individualmente. Aunque en algunos casos es mejor que escribir la interfaz de usuario desde cero, el proceso de desarrollo de la interfaz de usuario con Xamarin sigue siendo difícil y requiere de mucho tiempo.
-- **Complejidades en el soporte del código**: Aunque hay muchos desarrolladores .NET profesionales, Xamarin también requiere familiaridad adicional con el desarrollo, los frameworks y las arquitecturas móviles nativos. Esta es una combinación de habilidades difícil  de encontrar, ya que no muchos desarrolladores quieren aprender dos paradigmas de programación muy diferentes. Como resultado, es posible que existan dificultades para encontrar desarrolladores profesionales que brinden soporte, arreglen, actualicen o desarrollen una aplicación.
-- Dependencia de la aplicación. Independientemente de cuánto código comparte entre las diferentes plataformas, los desarrolladores siempre necesitarán escribir código nativo para la personalización específica de cada plataforma. Esto no solo podría ser un problema en términos de costo y de encontrar desarrolladores apropiados: si no que, además, una combinación entre Xamarin y código nativo también resultaría en archivos de gran tamaño, lo que terminará por dañar el rendimiento de la aplicación.
+- **Los plazos de carga**
+  - Al crear con Xamarin, los desarrolladores deben vincular y hacer referencia al código entre varios sistemas operativos y frameworks .NET. Esto afecta negativamente los tiempos de inicio y descarga de la aplicación, lo que hace que la experiencia de la aplicación sea menos agradable para el usuario final.
+- **Desarrollo lento y complejo de la interfaz de usuario**
+  - Aunque Xamarin.Forms permite compartir algunos componentes de la interfaz de usuario, todavía hay algunos componentes que deben desarrollarse para cada plataforma individualmente. Aunque en algunos casos es mejor que escribir la interfaz de usuario desde cero, el proceso de desarrollo de la interfaz de usuario con Xamarin sigue siendo difícil y requiere de mucho tiempo.
+- **Complejidades en el soporte del código**
+  - Aunque hay muchos desarrolladores .NET profesionales, Xamarin también requiere familiaridad adicional con el desarrollo, los frameworks y las arquitecturas móviles nativos. Esta es una combinación de habilidades difícil  de encontrar, ya que no muchos desarrolladores quieren aprender dos paradigmas de programación muy diferentes. Como resultado, es posible que existan dificultades para encontrar desarrolladores profesionales que brinden soporte, arreglen, actualicen o desarrollen una aplicación.
+- **Dependencia de la aplicación**
+  - Independientemente de cuánto código comparte entre las diferentes plataformas, los desarrolladores siempre necesitarán escribir código nativo para la personalización específica de cada plataforma. Esto no solo podría ser un problema en términos de costo y de encontrar desarrolladores apropiados: si no que, además, una combinación entre Xamarin y código nativo también resultaría en archivos de gran tamaño, lo que terminará por dañar el rendimiento de la aplicación.
 
 [⏫ Regresar al Inicio](/comparacion-flutter-react-native-xamarin/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
