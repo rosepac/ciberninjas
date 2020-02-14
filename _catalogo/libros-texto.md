@@ -197,7 +197,7 @@ CONTENIDOS AÚN PENDIENTES DE CREACIÓN..
 
 ## 📂 Categorías de Libros
 
-<a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#redes-y-administraci%C3%B3n" title="Libros de Redes y Administración" class="btn btn--success btn--large">🕸 Administración y Redes</a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
+<a href="/categoria/#neuropsicología" title="Libros relacionados con la neurociencia y la psicología" class="btn btn--success btn--large">🧠 Neuropsicología</a>  <a href="/categoria/#recomendaciones" title="Libros recomendados por diferentes personajes famosos de influencia" class="btn btn--success btn--large">⭐ Recomendaciones</a> <a href="/categoria/#administración-y-redes" title="Libros de Redes y Administración" class="btn btn--success btn--large">🕸 Administración y Redes</a> <a href="/categoria/#seguridad-inform%C3%A1tica" title="Libros de Categoría Seguridad Informática" class="btn btn--success btn--large">🔐 Seguridad Informática</a>
 
 ## 🛒 Páginas Compras
 
