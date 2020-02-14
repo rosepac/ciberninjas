@@ -42,9 +42,9 @@ Si repasamos el nombre de algunas de ellas en la actualidad, tendríamos que cit
 
 Entre todo ese listado, finalmente se decidió seleccionar tres opciones concretas, como son: Flutter, React Native y Xamarin.
 
-Xamarin es uno de los frameworks multiplataforma más antiguos disponibles, se utiliza principalmente en entornos empresariales y ha recopilado muchas historias de éxito a lo largo de los años. React Native ha mostrado mucha popularidad en los últimos años, gracias a ReactJS y a toda la comunidad. Estar escrito en JavaScript ha impulsado su tasa de adopción en muchos círculos y se ha empleado sobre productos importantes. Flutter ha sido muy promocionado por Google desde el 2017 y ha generado un gran interés en la comunidad de desarrollo por su enfoque novedoso y su interesante stack tecnológico, sobre todo, durante sus últimos cambios y gracias a la fuerte asociación que mantiene con Android y los nuevos posibles cambios drásticos dentro del propio SO.
+Xamarin por ser uno de los frameworks multiplataforma más antiguos disponibles, utilizado principalmente en entornos empresariales. React Native ha mostrado mucha popularidad y crecimiento en la actualidad, gracias a ReactJS y a su comunidad. Estar escrito en JavaScript ha impulsado su tasa de adopción en muchos círculos y se ha empleado sobre productos importantes. Por último Flutter, ha sido muy promocionado por Google desde el 2017 y ha generado un gran interés en la comunidad de desarrolladores gracias a tener un enfoque novedoso e implementar un interesante stack tecnológico, sobre todo, durante sus últimos cambios y gracias a la fuerte asociación que mantiene con Android.
 
-Antes de nada, echemos un ojo al por qué debemos / podemos elegir un framework multiplataforma.
+Antes de nada, echemos un ojo al por qué debemos o podemos elegir un framework multiplataforma.
 
 ## ¿Por qué elegir el desarrollo multiplataforma?
 
