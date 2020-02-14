@@ -32,9 +32,9 @@ A la hora de usar un framework multiplataforma el objetivo final, siempre es el 
 
 Con el objetivo principal de compartir la mayor parte del código posible, teóricamente se debe lograr ahorrar mucho tiempo y por tanto, también mucho dinero.
 
-Hay varios frameworks multiplataforma disponibles y las preguntas más habituales que los desarrolladores se encuentran a la hora de comenzar un proyecto es, ¿Cuál de ellos merece más la pena?¿Qué framework es mejor en la actualidad?
+Hay varios frameworks multiplataforma disponibles y las preguntas más habituales que los desarrolladores se encuentran a la hora de comenzar un proyecto es, **¿Cuál de ellos merece más la pena?** y **¿Qué framework es mejor usar en la actualidad?**
 
-El inicio de este artículo parte de una investigación en profundidad sobre el uso de [Flutter](/como-aprender-flutter/) la evaluación de sus posibilidades, y llegar a conocer que tan complicado sería llegar a aprenderlo. Además, yo ya había realizado un análisis sobre React Native hace un tiempo dentro de mi viejo blog; y bueno: Xamarin, no deja de ser el framework por excelencia de una de las grandes empresas a nivel mundial; como es Microsoft.
+El inicio de este artículo parte de una investigación en profundidad sobre el uso de [Flutter](/como-aprender-flutter/) y una exhaustiva evaluación de sus posibilidades. Se ha intentado analizar cuanto de complicado podría ser llegar a aprenderlo; y posteriormente, se pensó en analizar también. Los frameworks considerados con un mayor crecimiento (sé, que se ha dejado aparacado a Vue, por ahora).
 
 Existen muchas [otras herramientas en el mercado](/mejores-sdk-multiplataforma-2019-20){:target="_blank"} de las soluciones multiplataforma, como ya vimos los Ciberninjas hace no tanto tiempo. Podemos repasar el nombre de algunas de ellas en la actualidad; como Flutter, React Native, Xamarin, Vue, PWA (aplicaciones web progresivas), Kotlin Native, J2Objective C (Doppl), Ionic, Cordoba (PhoneGap / Titanium), Unity.. y muchos más.
 
