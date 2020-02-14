@@ -144,6 +144,10 @@ Eso hace que el diseño de Flutter sea visible de inmediato.
 
 [⏫ Regresar al Inicio](/comparacion-flutter-react-native-xamarin/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+## Guía Flutter
+
+[👉 ¿Qué es Flutter?](/que-es-flutter-y-por-que-debes-aprenderlo/){: .btn .btn--inverse .btn--large} [👉 Aprender Flutter?](/como-aprender-flutter/){: .btn .btn--inverse .btn--large} [👉 Comparación con Flutter](/comparacion-flutter-react-native-xamarin/){: .btn .btn--inverse .btn--large} [👉 Wallpapers Flutter](/wallpaper-flutter/){: .btn .btn--inverse .btn--large} [👉 Guía DevTools](/flutter-dart-devtools/){: .btn .btn--inverse .btn--large}
+
 ## React Native
 
 ![Las ventajas de flutter y aplicaciones, visto en Ciberninjas](/assets/images/wallpaper/react-native/reactive-native-logo.webp "Las ventajas de flutter y aplicaciones, visto en Ciberninjas")
@@ -280,10 +284,6 @@ Seguramente, si son implementados bajo las situaciones en que se logré cubrir l
 
 **Fuentes**\: [HackerNoon](https://hackernoon.com/flutter-vs-react-native-vs-xamarin-for-cross-platform-development-5f92cfb178ff){:target="_blank"} + [Novoda](https://blog.novoda.com/react-native-flutter-xamarin-a-comparison/){:target="_blank"} + [Google](https://google.es/){:target="_blank"}
 {: .notice--info}
-
-## Guía Flutter
-
-[👉 ¿Qué es Flutter?](/que-es-flutter-y-por-que-debes-aprenderlo/){: .btn .btn--outline .btn--large} [👉 Aprender Flutter?](/como-aprender-flutter/){: .btn .btn--inverse .btn--large} [👉 Comparación con Flutter](/comparacion-flutter-react-native-xamarin/){: .btn .btn--inverse .btn--large} [👉 Wallpapers Flutter](/wallpaper-flutter/){: .btn .btn--inverse .btn--large} [👉 Guía DevTools](/flutter-dart-devtools/){: .btn .btn--inverse .btn--large}
 
 ## Mucho Más..
 
