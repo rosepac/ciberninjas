@@ -1,5 +1,5 @@
 ---
-title: 🥇 ▷ Cómo APRENDER a Programar GRATIS en 2020
+title: 🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2020
 description: "✅ Aprende a programar 🔥 Con los mejores CURSOS y LIBROS gratuitos en pdf: Java, Python, PHP, C, etc."
 excerpt: "✅ Aprende a programar 🔥 Con los mejores CURSOS y LIBROS pdf 🚀 Totalmente gratis: Java, Python, PHP, C, etc."
 author_profile: true
@@ -24,14 +24,32 @@ header:
 Guía completa y extensa de aprendizaje e introducción a la programación y el desarrollo web más actual. La estructura de la guía se basa en diferentes apartados que se han ido considerando importantes con el paso del tiempo, así como se ha considerado también importante incluir una extensa guía explicativa sobre todos los diferentes empleos relacionados con el ámbito tecnológico, entre otros puntos importantes; a saber.
 
 ➡ La guía se encuentran en constante actualización / ampliación / modificación.<br/>
-🔔 Se complementa a la perfección con nuestros múltiples artículos / guías / tutoriales publicados desde [nuestro blog](https://ciberninjas.com/blog/).<br />
+🔔 Se complementa a la perfección con [nuestro blog](https://ciberninjas.com/blog/), vas a encontrar múltiples artículos / guías / tutoriales, etc.<br />
 📰 Síguenos en tu lector de [RSS favorito](https://ciberninjas.com/feed.xml){:target="_blank"}<br />
-📢 Estamos en las RRSS. User @ciberninjas [🐦](https://twitter.com/ciberninjas "Twitter") [📘](http://facebook.com/groups/ciberninjas "Facebook") [🎓](https://facebook.com/cibercursos "Facebook Exclusivo de Cursos y Memes") [🌈](https://instagram.com/ciberninjas "Instagram") [👨‍💻](https://dev.to/@rosepac "Blog en el sitio especializado: Dev.to")
+📢 Estamos en las RRSS: [🐦 Twitter](https://twitter.com/ciberninjas "Twitter") [📘 Comunidad FB](http://facebook.com/groups/ciberninjas "Facebook") [🎓 Cursos FC](https://facebook.com/cibercursos "Facebook Exclusivo de Cursos y Memes") [🌈 Instagram](https://instagram.com/ciberninjas "Instagram") [👨‍💻 Dev.to](https://dev.to/@rosepac "Blog en el sitio especializado: Dev.to") Bajo el usuario @ciberninjas
 {: .notice--info}
 
-[Cómo aprender a programar código](/programar/#cómo-aprender-a-programar-código){: .btn .btn--inverse .btn--large} [En qué campo de la informática trabajar](/programar/#en-qué-campo-de-la-informática-trabajar){: .btn .btn--inverse .btn--large} [Qué lenguaje aprender](/programar/#qué-lenguaje-aprender){: .btn .btn--inverse .btn--large} [Qué lenguajes evitar](/programar/#qué-lenguajes-evitar){: .btn .btn--inverse .btn--large} [Qué puestos de trabajo existen](/programar/#qué-puestos-de-trabajo-existen){: .btn .btn--inverse .btn--large} [Qué tecnologías y herramientas debo aprender](/programar/#qué-tecnologías-y-herramientas-debo-aprender){: .btn .btn--inverse .btn--large} [Lenguajes Imprescindibles de 2019](/programar/#los-lenguajes-imprescindibles-de-2019){: .btn .btn--inverse .btn--large} [Lenguajes Más Clásicos](/programar/#los-lenguajes-de-programación-más-clásicos){: .btn .btn--inverse .btn--large} [Otros Lenguajes Populares](/programar/#otros-lenguajes-populares-en-la-actualidad){: .btn .btn--inverse .btn--large}
+<details>
+<summary>👉 **MENÚ**</summary>
+<br/>
+<nav class="menu">
+  <ul>
+    <li><a href="/programar/#cómo-aprender-a-programar-código">Cómo aprender a programar código</a></li>
+    <li><a href="/programar/#en-qué-campo-de-la-informática-trabajar">En qué campo de la informática trabajar</a></li>
+    <li><a href="/programar/#qué-lenguaje-aprender">Qué lenguaje de programación aprender</a></li>
+    <li><a href="/programar/#qué-lenguajes-evitar">Qué lenguajes de programación evitar</a></li>
+    <li><a href="/programar/#qué-puestos-de-trabajo-existen">De qué trabaja un programador</a></li>
+    <li><a href="/programar/#qué-puestos-de-trabajo-existen">De qué trabaja un programador</a></li>
+    <li><a href="/programar/#qué-tecnologías-y-herramientas-debo-aprender">Qué tecnologías y herramientas debo aprender</a></li>
+    <li><a href="/programar/#los-lenguajes-imprescindibles-de-2020">Qué lenguajes de programación son Imprescindibles en 2020</a></li>
+    <li><a href="/programar/#los-lenguajes-de-programación-más-clásicos">Cúales son los lenguajes más establecidos</a></li>
+    <li><a href="/programar/#otros-lenguajes-populares-en-la-actualidad">Los lenguajes menos conocidos pero más usados</a></li>
+  </ul>
+</nav>
+</details>
+ [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [Lenguajes Más Clásicos](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large}
 
-## ¿Cómo aprender a programar código?
+## ¿Cómo aprender a programar?
 
 En esta sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
 
@@ -50,20 +68,13 @@ En esta sección, vamos a intentar realizar un resumen de los pasos que podemos 
 
 [🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## La Programación en la Actualidad
-
-Existen miles de publicaciones dispersas sobre las que poder informarse del estado y evolución del mundo de la tecnología y la programación en la actualidad; pero desde aquí vamos a intentar enlazar a los enlaces más interesantes del mundo; desde los que comprobar en que estado se encuentra y hacía donde evoluciona este mundillo.
-
-* [Encuesta de StackOverflow 2019](https://insights.stackoverflow.com/survey/2019)
-* [Índice TIOBE](https://www.tiobe.com/tiobe-index/)
-
 ## ¿En qué campo de la informática trabajar?
 
 Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, en la era tecnológica los campos dde trabajo existentes son tan múltiples como diferentes, dos de las temáticas principales y más buscadas que ofrecen puestos de trabajo en el mundo: son el tan citado _machine learning_ o **aprendizaje automático**, **la inteligencia artificial** y el **desarrollo móvil**.
 
 ### Aprendizaje Automático o Machine Learning
 
-Según uno de los últimos [informes publicados por Github](https://github.blog/2019-01-24-the-state-of-the-octoverse-machine-learning/). Python es el lenguaje más utilizado para el aprendizaje automático combinado junto a la biblioteca TensorFlow, si eres capaz de aprender ambos junto al dominio del idioma del inglés; muy probablemente te vas a encontrar en una posición muy favorable con la que poder lograr un trabajo importante en el futuro.
+Según uno de los últimos [informes publicados por Github](https://github.blog/2020-01-24-the-state-of-the-octoverse-machine-learning/). Python es el lenguaje más utilizado para el aprendizaje automático combinado junto a la biblioteca TensorFlow, si eres capaz de aprender ambos junto al dominio del idioma del inglés; muy probablemente te vas a encontrar en una posición muy favorable con la que poder lograr un trabajo importante en el futuro.
 
 Además, siempre que hablemos de machine learning no podemos dejar olvidado al eficaz lenguaje de R. Sin lugar a dudas el más importante en el cometido de generar estadísticas; este lenguaje capaz de analizar y manipular datos de forma masiva sin ningún tipo de problemas, ofrece varios paquetes que simplifican la implementación de algoritmos alrededor del flujo de trabajo del aprendizaje automático.
 
@@ -73,24 +84,16 @@ Si tu interés, es el de desarrollar aplicaciones móviles. Lo ideal sería que 
 
 Con la elección de Android, tu mejor apuesta sin lugar a dudas es el lenguaje de Java (al menos, por ahora) sin embargo, debes tener en cuenta que el desarrollo y despliegue de  Java enfocado en dispositivos móviles es diferente al de la programación en Java genérica. Por ejemplo, una aplicación de Android se puede cerrar en cualquier momento si no se ejecuta en primer plano, mientras que un programa de Java normal se mantiene en ejecución hasta ser cerrado.
 
-En cuanto a la programación para iOS es recomendable centrarse en el idioma oficial de Apple: Swift. Que recientemente, en Abril de 2019, ha alcanzado su versión 5. Este lenguaje es usado en toda la gama de productos de la compañía,  sobre iOS, macOS y otros códigos de múltiples productos más. Habrá personas que puedan sugerir Objective-C con el que es posible crear marcos e interfaces gráficas de usuario llenas de funciones, más, personalmente optaría por Swift puesto esta respaldado por la propia Apple y en principio, debería ser más fácil de estudiar.
+En cuanto a la programación para iOS es recomendable centrarse en el idioma oficial de Apple: Swift. Que recientemente, en Abril de 2020, ha alcanzado su versión 5. Este lenguaje es usado en toda la gama de productos de la compañía,  sobre iOS, macOS y otros códigos de múltiples productos más. Habrá personas que puedan sugerir Objective-C con el que es posible crear marcos e interfaces gráficas de usuario llenas de funciones, más, personalmente optaría por Swift puesto esta respaldado por la propia Apple y en principio, debería ser más fácil de estudiar.
 
 La tercera opción y quién sabe si pudiese ser la más práctica, sobre todo; quizás, en la situación de que lo que desees sea realizar una aplicación personal en vez de formarte con el objetivo de lograr entrar en una gran empresa: es Javascript.
 
 Javascript, en combinación con HTML y CSS te permite crear aplicaciones que pueden transformarse en apps nativas a través del entorno de desarrollo: Cordova. Otra opción, sería construir con este mismo pack (Javascript, HTML, CSS) para transformar la app posteriormente a nativa mediante el framework .NET de la compañía Microsoft con la herramienta Xamarin.
 
-### ¿Cómo iniciar una Startup?
-
-Si tu objetivo es abrir una Startup o unirte a una, nada mejor que iniciarte con Ruby y Ruby and Rails. Ruby, es amigable con los principiantes y permite desarrollar prototipos a la velocidad del viento, eso lo convierte en una excelente opción en organizaciones en las que te puedes encontrar un crecimiento agresivo.
-
-Un buen plan de estudio, podría ser Javascript, React, Ruby y Ruby and Rails; pero eso no quiere decir que sea el mejor, ni el único.
-
-[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
 ## ¿Qué lenguaje aprender?
 
 Si algo está claro, es que es el tiempo del código. No existen dudas de que es el mejor campo de formación y trabajo en el involucrarse y dedicar todo tu tiempo.
-Al decidir qué lenguaje de programación aprender, es importante no quedar atrapado en tendencias llamativas y concursos de popularidad. Los mejores lenguajes de programación para aprender en 2019 son probablemente los mismos que fueron los mejores para aprender en 2017 y 2018, y eso seguirá siendo cierto durante los próximos años.
+Al decidir qué lenguaje de programación aprender, es importante no quedar atrapado en tendencias llamativas y concursos de popularidad. Los mejores lenguajes de programación para aprender en 2020 son probablemente los mismos que fueron los mejores para aprender en 2017 y 2018, y eso seguirá siendo cierto durante los próximos años.
 Aunque el campo de la programación de computadoras cambia rápidamente, todos los lenguajes que en esta página citamos tienen mucho poder de permanencia. Al aprender uno o más de estos idiomas, estarás en una posición excelente no solo para este año, sino en los próximos años.
 Al comenzar su viaje hacia la programación, solo tú puedes responder la pregunta de cual es el mejor lenguaje de programación para aprender. Realiza tu selección en función de tus intereses y el tipo de desarrollo de software que deseas. Aquí tienes un breve resumen de diferentes posibilidades:
 
@@ -117,6 +120,21 @@ Existen muchos más lenguajes de programación, entre los más populares ahora s
 
 [🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+## La Programación en la Actualidad
+
+Existen miles de publicaciones dispersas sobre las que poder informarse del estado y evolución del mundo de la tecnología y la programación en la actualidad; pero desde aquí vamos a intentar enlazar a los enlaces más interesantes del mundo; desde los que comprobar en que estado se encuentra y hacía donde evoluciona este mundillo.
+
+* [Encuesta de StackOverflow 2020](https://insights.stackoverflow.com/survey/2020)
+* [Índice TIOBE](https://www.tiobe.com/tiobe-index/)
+
+### ¿Cómo iniciar una Startup?
+
+Si tu objetivo es abrir una Startup o unirte a una, nada mejor que iniciarte con Ruby y Ruby and Rails. Ruby, es amigable con los principiantes y permite desarrollar prototipos a la velocidad del viento, eso lo convierte en una excelente opción en organizaciones en las que te puedes encontrar un crecimiento agresivo.
+
+Un buen plan de estudio, podría ser Javascript, React, Ruby y Ruby and Rails; pero eso no quiere decir que sea el mejor, ni el único.
+
+[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
 ## ¿Qué puestos de trabajo existen?
 
 Dentro de las profesiones digitales existen un cuantioso número de empleos bien diferenciados; como pueden ser, a saber:
@@ -135,9 +153,9 @@ Posteriormente, vamos a realizar una pequeña revisión de las diferentes herram
 
 [👉 Tecnologías por Puesto de Trabajo Profesional](/profesiones-digitales/#qu%C3%A9-tecnolog%C3%ADas-requiere-cada-una-de-las-profesiones){: .btn .btn--warning .btn--large .align-center}
 
-## Los Lenguajes Imprescindibles de 2019
+## Los Lenguajes Imprescindibles de 2020
 
-En esta lista encontramos los lenguajes que están más al alza entre los puestos de trabajo más exigidos por las empresas durante el año 2019.
+En esta lista encontramos los lenguajes que están más al alza entre los puestos de trabajo más exigidos por las empresas durante el año 2020.
 
 [Python](/python/){: .btn .btn--inverse .btn--large .align-center} - Java - Javascript - C # - Swift - Kotlin
 
