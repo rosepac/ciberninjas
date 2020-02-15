@@ -30,7 +30,7 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 {: .notice--info}
 
 <details>
-<summary>👉 **MENÚ**</summary>
+<summary>▶ **MENÚ** 👇</summary>
 <br/>
 <nav class="menu">
   <ul>
