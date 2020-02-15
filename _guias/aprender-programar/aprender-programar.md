@@ -11,9 +11,9 @@ permalink: /programar/
 canonical_URL: https://ciberninjas.com/programar/
 classes: wide
 header:
-  teaser: "/assets/images/programar-lenguajes/aprender-programar-programacion.jpg"
-#  overlay_image: "https://i.ibb.co/Lrcmhqm/gatito-curioso-miron.jpg"
-#  image_description: "Aprende todo lo necesario para convertirte en un profesional de la programación, aprende a programar y todos los puestos de trabajo relacionados con la programación 2020"
+  teaser: "/assets/images/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp"
+  overlay_image: "/assets/images/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp"
+  image_description: "Aprende todo lo necesario para convertirte en un profesional de la programación, aprende a programar y todos los puestos de trabajo relacionados con la programación 2020"
 #  caption: "**Créditos**: Desconocido"
 # toc: true
 # toc_label: "Contenidos"
@@ -23,9 +23,9 @@ header:
 
 Guía completa y extensa de aprendizaje e introducción a la programación y el desarrollo web más actual. La estructura de la guía se basa en diferentes apartados que se han ido considerando importantes con el paso del tiempo, así como se ha considerado también importante incluir una extensa guía explicativa sobre todos los diferentes empleos relacionados con el ámbito tecnológico, entre otros puntos importantes; a saber.
 
-➡ La guía se encuentran en constante actualización / ampliación / modificación.
-🔔 Se complementa a la perfección con nuestros múltiples artículos / guías / tutoriales publicados desde [nuestro blog](https://ciberninjas.com/blog/).
-📰 Síguenos en tu lector de [RSS favorito]
+➡ La guía se encuentran en constante actualización / ampliación / modificación.<br/>
+🔔 Se complementa a la perfección con nuestros múltiples artículos / guías / tutoriales publicados desde [nuestro blog](https://ciberninjas.com/blog/).<br />
+📰 Síguenos en tu lector de [RSS favorito](https://ciberninjas.com/feed.xml){:target="_blank"}<br />
 📢 Estamos en las RRSS. User @ciberninjas [🐦](https://twitter.com/ciberninjas "Twitter") [📘](http://facebook.com/groups/ciberninjas "Facebook") [🎓](https://facebook.com/cibercursos "Facebook Exclusivo de Cursos y Memes") [🌈](https://instagram.com/ciberninjas "Instagram") [👨‍💻](https://dev.to/@rosepac "Blog en el sitio especializado: Dev.to")
 {: .notice--info}
 
