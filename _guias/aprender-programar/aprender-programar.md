@@ -30,10 +30,10 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 {: .notice--info}
 
 <details>
-<summary>▶ **MENÚ** 👇</summary>
+<summary>MENÚ 👇</summary>
 <br/>
 <nav class="menu">
-  <ul>
+  <ol>
     <li><a href="/programar/#cómo-aprender-a-programar-código">Cómo aprender a programar código</a></li>
     <li><a href="/programar/#en-qué-campo-de-la-informática-trabajar">En qué campo de la informática trabajar</a></li>
     <li><a href="/programar/#qué-lenguaje-aprender">Qué lenguaje de programación aprender</a></li>
@@ -44,16 +44,13 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
     <li><a href="/programar/#los-lenguajes-imprescindibles-de-2020">Qué lenguajes de programación son Imprescindibles en 2020</a></li>
     <li><a href="/programar/#los-lenguajes-de-programación-más-clásicos">Cúales son los lenguajes más establecidos</a></li>
     <li><a href="/programar/#otros-lenguajes-populares-en-la-actualidad">Los lenguajes menos conocidos pero más usados</a></li>
-  </ul>
+  </ol>
 </nav>
 </details>
- [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large} [Lenguajes Más Clásicos](){: .btn .btn--inverse .btn--large} [](){: .btn .btn--inverse .btn--large}
 
 ## ¿Cómo aprender a programar?
 
 En esta sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OPlGMplfEbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. El primer paso es: Centrarse en dominar un lenguaje, sea cual sea, en lugar de aprender un poco sobre varios idiomas hyper-focus.
 2. Si no te decides por un lenguaje en concreto, elige uno de propósito general.
@@ -66,17 +63,28 @@ En esta sección, vamos a intentar realizar un resumen de los pasos que podemos 
 9. Sé calmado y mantente calmado! Existen plazas de trabajo en cada lenguaje diferente, no tengas ninguna duda de que si realmente deseas dedicarte, tarde o temprano va aparecer algo que se adapte a ti.
 10. Lo más importante es ser persistente, conservar la motivación
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPlGMplfEbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿En qué campo de la informática trabajar?
 
 Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, en la era tecnológica los campos dde trabajo existentes son tan múltiples como diferentes, dos de las temáticas principales y más buscadas que ofrecen puestos de trabajo en el mundo: son el tan citado _machine learning_ o **aprendizaje automático**, **la inteligencia artificial** y el **desarrollo móvil**.
 
-### Aprendizaje Automático o Machine Learning
+### Aprendizaje Automático / Machine Learning
 
 Según uno de los últimos [informes publicados por Github](https://github.blog/2020-01-24-the-state-of-the-octoverse-machine-learning/). Python es el lenguaje más utilizado para el aprendizaje automático combinado junto a la biblioteca TensorFlow, si eres capaz de aprender ambos junto al dominio del idioma del inglés; muy probablemente te vas a encontrar en una posición muy favorable con la que poder lograr un trabajo importante en el futuro.
 
 Además, siempre que hablemos de machine learning no podemos dejar olvidado al eficaz lenguaje de R. Sin lugar a dudas el más importante en el cometido de generar estadísticas; este lenguaje capaz de analizar y manipular datos de forma masiva sin ningún tipo de problemas, ofrece varios paquetes que simplifican la implementación de algoritmos alrededor del flujo de trabajo del aprendizaje automático.
+
+### Inteligencia Artificial / Deap Learning
+
+Si bien, lo que deseamos es trabajar en el campo de la inteligencia artificial, primero que nada debemos de saber que es un ámbito muy extenso; por todos los diferentes paradigmas que abarca. Casi podríamos agrupar todas las tecnologías del mundo de la programación y la robótica en el interior de cualquier proyecto que trabaje en la creación de una máquina inteligente; te serán requeridos los más avanzados conocimientos si deseas profundizar en este campo.
+
+Partiendo de la base más sólida posible de lógica computación, conjunto a una amplia base matemática (no totalmente indispensable pero si que es recomendable) junto a un buen entendimiento de muchas técnicas de "devops" y el más alto y avanzado nivel exigible del manejo, gestión y manipulación de los datos y las librerías tecnológicas dedicadas a indexar y manejar grandes masas críticas de información.
+
+> **Saber Más**: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+{: .notice--primary}
 
 ### Desarrollador Móvil Web
 
@@ -157,7 +165,7 @@ Posteriormente, vamos a realizar una pequeña revisión de las diferentes herram
 
 En esta lista encontramos los lenguajes que están más al alza entre los puestos de trabajo más exigidos por las empresas durante el año 2020.
 
-[Python](/python/){: .btn .btn--inverse .btn--large .align-center} - Java - Javascript - C # - Swift - Kotlin
+▶ [Python](/python/){: .btn .btn--inverse .btn--large .align-center} - Java - Javascript - C # - Swift - Kotlin
 
 <!-- (imágenes con enlaces a las páginas de formación de cada lenguaje) -->
 [🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
