@@ -1,27 +1,33 @@
 ---
-title: 👨‍💻 ▷ Cómo Aprender a Programar en 2020
-description: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF 😜"
-excerpt: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF 😜"
-author_profile: false
+title: 🥇 ▷ Cómo APRENDER a Programar GRATIS en 2020
+description: "✅ Aprende a programar 🔥 Con los mejores CURSOS y LIBROS gratuitos en pdf: Java, Python, PHP, C, etc."
+excerpt: "✅ Aprende a programar 🔥 Con los mejores CURSOS y LIBROS pdf 🚀 Totalmente gratis: Java, Python, PHP, C, etc."
+author_profile: true
 published: true
 comments: true
 date: 2018-03-01
-last_modified_at: 2020-01-30
+last_modified_at: 2020-02-15
 permalink: /programar/
 canonical_URL: https://ciberninjas.com/programar/
 classes: wide
 header:
   teaser: "/assets/images/programar-lenguajes/aprender-programar-programacion.jpg"
-  overlay_image: "https://i.ibb.co/Lrcmhqm/gatito-curioso-miron.jpg"
-  image_description: "Aprende todo lo necesario para convertirte en un profesional de la programación, aprende a programar y todos los puestos de trabajo relacionados con la programación 2020"
-  caption: "**Créditos**: Desconocido"
+#  overlay_image: "https://i.ibb.co/Lrcmhqm/gatito-curioso-miron.jpg"
+#  image_description: "Aprende todo lo necesario para convertirte en un profesional de la programación, aprende a programar y todos los puestos de trabajo relacionados con la programación 2020"
+#  caption: "**Créditos**: Desconocido"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
 # toc_sticky: false
 ---
 
-Ciberninjas.com nace para compartir la mejor información en español e inglés que existe dentro de lo ancho y profundo de Internet, en referencia a los lenguajes de programación y todas las nuevas tecnologías alrededor del mundo de la informática y los campos en que se aplica.
+Guía completa y extensa de aprendizaje e introducción a la programación y el desarrollo web más actual. La estructura de la guía se basa en diferentes apartados que se han ido considerando importantes con el paso del tiempo, así como se ha considerado también importante incluir una extensa guía explicativa sobre todos los diferentes empleos relacionados con el ámbito tecnológico, entre otros puntos importantes; a saber.
+
+➡ La guía se encuentran en constante actualización / ampliación / modificación.
+🔔 Se complementa a la perfección con nuestros múltiples artículos / guías / tutoriales publicados desde [nuestro blog](https://ciberninjas.com/blog/).
+📰 Síguenos en tu lector de [RSS favorito]
+📢 Estamos en las RRSS. User @ciberninjas [🐦](https://twitter.com/ciberninjas "Twitter") [📘](http://facebook.com/groups/ciberninjas "Facebook") [🎓](https://facebook.com/cibercursos "Facebook Exclusivo de Cursos y Memes") [🌈](https://instagram.com/ciberninjas "Instagram") [👨‍💻](https://dev.to/@rosepac "Blog en el sitio especializado: Dev.to")
+{: .notice--info}
 
 [Cómo aprender a programar código](/programar/#cómo-aprender-a-programar-código){: .btn .btn--inverse .btn--large} [En qué campo de la informática trabajar](/programar/#en-qué-campo-de-la-informática-trabajar){: .btn .btn--inverse .btn--large} [Qué lenguaje aprender](/programar/#qué-lenguaje-aprender){: .btn .btn--inverse .btn--large} [Qué lenguajes evitar](/programar/#qué-lenguajes-evitar){: .btn .btn--inverse .btn--large} [Qué puestos de trabajo existen](/programar/#qué-puestos-de-trabajo-existen){: .btn .btn--inverse .btn--large} [Qué tecnologías y herramientas debo aprender](/programar/#qué-tecnologías-y-herramientas-debo-aprender){: .btn .btn--inverse .btn--large} [Lenguajes Imprescindibles de 2019](/programar/#los-lenguajes-imprescindibles-de-2019){: .btn .btn--inverse .btn--large} [Lenguajes Más Clásicos](/programar/#los-lenguajes-de-programación-más-clásicos){: .btn .btn--inverse .btn--large} [Otros Lenguajes Populares](/programar/#otros-lenguajes-populares-en-la-actualidad){: .btn .btn--inverse .btn--large}
 
