@@ -28,9 +28,9 @@ tags:
 
 ## ¿Qué es la inteligencia artificial?
 
-La inteligencia artificial es el intento de acercarse a lograr generar capacidad cognitiva dentro una máquina. El punto de referencia para la inteligencia artificial es la inteligencia humana respecto al razonamiento, el habla y la visión. A día de hoy, aún se esta bastante lejos de alcanzar algo semejante; por ahora, aún se debe seguir esperando a que la tecnología siga avanzando.
+La inteligencia artificial es el intento de acercarse a lograr generar capacidad cognitiva dentro una máquina. El punto de referencia para la inteligencia artificial es la inteligencia humana respecto al razonamiento, el habla y la visión. A día de hoy, aún se está bastante lejos de alcanzar algo semejante; por ahora, aún se debe seguir esperando a que la tecnología siga avanzando.
 
-Si deseamos profundizar un poco más sobre el propio concepto de inteligencia artificial, podemos avanzar diciendo que se puede dividir en tres diferentes niveles bien diferenciados; y que cada uno de esos tres niveles se corresponden a un diferente grado de investigación:
+Si deseamos profundizar un poco más sobre el propio concepto de inteligencia artificial, podemos avanzar diciendo que se puede dividir en tres diferentes niveles bien diferenciados; y que cada uno de esos tres niveles se corresponde a un diferente grado de investigación:
 
 - Inteligencia Artificial Débil: Se dice que la inteligencia artificial es débil u estrecha, cuando la máquina puede realizar una tarea específica mejor que un ser humano. En la actualidad, la mayor parte de las investigaciones que se realizan se concentran a este nivel.
 - Inteligencia Artificial General: Se dice que la inteligencia artificial alcanza el estado general cuando alcanza a realizar cualquier tarea intelectual con el mismo nivel de precisión que un ser humano.
@@ -46,13 +46,17 @@ El aprendizaje automático utiliza los datos para alimentar un algoritmo capaz d
 
 ## ¿Qué es el aprendizaje profundo?
 
-El aprendizaje profundo es un software que imita una red neuronal del cerebro humano. Es un subconjunto del aprendizaje automático y se le denomina aprendizaje profundo porque hace uso de una simulación de redes neuronales profundas, para; a través de las mismas ser capaz de ir aprendiendo datos durante varias capas sobre expuestas. La profundidad del modelo, depende del número de capas que utilice el modelo en cuestión.
+El aprendizaje profundo es un software que imita una red neuronal del cerebro humano.
 
-El aprendizaje profundo vendría a ser similar, al arte humano pero generado por máquinas. Gracias a todos los computos y algoritmos gracias que la propia máquina es capaz de aprender, manipular y conjugar por si misma; para, al unir los datos por si misma; ser capaz de crear "algo" que ofrece un sentido, semejanza y similitud con la vida real o con lo que se le halla querido "enseñar" a la máquina.
+Es un subconjunto del aprendizaje automático y se le denomina aprendizaje profundo porque hace uso de una simulación de redes neuronales profundas, para; a través de las mismas ser capaz de ir aprendiendo datos durante varias capas sobre expuestas. La profundidad del modelo, depende del número de capas que utilice el modelo en cuestión.
+
+El aprendizaje profundo vendría a ser similar, al arte humano pero generado por máquinas.
+
+Gracias a todos los computos y algoritmos gracias que la propia máquina es capaz de aprender, manipular y conjugar por si misma; para, al unir los datos por si misma; ser capaz de crear "algo" que ofrece un sentido, semejanza y similitud con la vida real o con lo que se le halla querido "enseñar" a la máquina.
 
 ### Anotación
 
-A día de hoy. Se podría decir que este es el estado más alto al que ha llegado la inteligencia artificial dentro del campo de la computación; dejando aquí, una pequeña nota, sobre el ámbito de la cibernetica / los cyborgs: campo que está más bien cubierto por la electrónica / robótica junto a la neurociencia. Más que por las propias ciencias informáticas.
+A día de hoy. Se podría decir que este es el estado más alto al que ha llegado la inteligencia artificial dentro del campo de la computación; dejando aquí, una pequeña nota, sobre el ámbito de la cibernética / los cíborgs: campo que está más bien cubierto por la electrónica / robótica junto a la neurociencia. Más que por las propias ciencias informáticas.
 
 **Saber Más**: Referencias sobre, ¿Qué es un cyborg?: [Somos Cyborgs](/somos-cyborgs/), [Arte Cíborg](/wiki/arte-ciborg), [Fundación Cíborg](/wiki/fundacion-ciborg), [Antena Cíborg](/wiki/antena-ciborg), [Cíborg](/wiki/ciborg), 
 {: .notice--primary}
@@ -61,7 +65,7 @@ A día de hoy. Se podría decir que este es el estado más alto al que ha llegad
 
 ![Análisis del crecimiento de las preguntas sobre AI, ML y DL en los últimos años dentro de Stackoverflow](/assets/images/blog/encuesta-crecimiento.webp "Análisis del crecimiento de las preguntas sobre AI, ML y DL en los últimos años dentro de Stackoverflow")
 
-En la gráfica anterior se puede apreciar claramente el amplio crecimiento de interes, sobre todo en las ramas de ML y DL, en los dos años anteriores al 2018. Si analizamos los dos últimos años hasta la actualidad en la Encuesta anual de la propia web: Stackoverflow.
+En la gráfica anterior se puede apreciar claramente el amplio crecimiento de interés, sobre todo en las ramas de ML y DL, en los dos años anteriores al 2018. Si analizamos los dos últimos años hasta la actualidad en la Encuesta anual de la propia web: Stackoverflow.
 
 ![Porcentaje de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019](/assets/images/blog/stack-machine-learning.webp "Porcentaje de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019")
 * Porcentaje de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019
@@ -69,11 +73,11 @@ En la gráfica anterior se puede apreciar claramente el amplio crecimiento de in
 ![Salarios de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019](/assets/images/blog/stack-machine-learning-salarios.webp "Salarios de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019")
 * Salarios de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019
 
-De las gráficas anteriores podemos comprobar como la profesión de científico de datos es una de las profesiones que más crecimiento ha tenido; y poco a poco, además, se va convirtiendo en una de los puestos de trabajo mejores pagadas entre las diferentes profesiones digitales existentes.
+De las gráficas anteriores podemos comprobar cómo la profesión de científico de datos es una de las profesiones que más crecimiento ha tenido; y poco a poco, además, se va convirtiendo en una de los puestos de trabajo mejores pagadas entre las diferentes profesiones digitales existentes.
 
-## Como funcionan
+## Cómo funcionan
 
-A continuación, vamos a intentar hacernos una idea para conocer un poco más del como funcionan estos nuevos campos tecnológicos.
+A continuación, vamos a intentar hacernos una idea para conocer un poco más del cómo funcionan estos nuevos campos tecnológicos.
 
 ## El proceso del aprendizaje automático
 
@@ -92,16 +96,20 @@ Este entrenamiento del algoritmo requiere seguir algunos pasos estándar, a sabe
 * Recopilar los datos
 * Entrenar al clasificador
 * Hacer predicciones
-* 
+
 El primer paso es necesario, puesto que elegir los datos correctos hará que el algoritmo tenga éxito o falle. Los datos que eliges para entrenar al modelo se llaman características. En el ejemplo del objeto, las características son los píxeles de las imágenes.
 
 Cada imagen es una fila de los datos, mientras que cada píxel es una columna. Si su imagen tiene un tamaño de 28x28, el conjunto de datos contiene 784 columnas (28x28). En la imagen a continuación, cada imagen se ha transformado en un vector de características. La etiqueta le dice a la computadora qué objeto está en la imagen.
 
 ![Caso práctico del funcionamiento del aprendizaje automático](/asset/images/blog/2020-02-18-ml-1.webp "Caso práctico del funcionamiento del aprendizaje automático")
 
-El objetivo es utilizar estos datos de entrenamiento para clasificar el tipo de objetos. El primer paso consiste en crear las columnas de características. Luego, el segundo paso consiste en elegir un algoritmo para entrenar el modelo. Cuando finalice el entrenamiento, el modelo predecirá qué imagen corresponde a qué objeto.
+El objetivo es utilizar estos datos de entrenamiento para clasificar el tipo de objetos.
 
-Después de eso, es fácil usar el modelo para predecir nuevas imágenes. Para cada nueva imagen que ingrese al modelo, la máquina predecirá la clase a la que pertenece. Por ejemplo, una imagen completamente nueva sin etiqueta está pasando por el modelo. Para un ser humano, es trivial visualizar la imagen como un automóvil. La máquina usa su conocimiento previo para predecir también que la imagen es un automóvil.
+El primer paso consiste en crear las columnas de características. Luego, el segundo paso consiste en elegir un algoritmo para entrenar el modelo. Cuando finalice el entrenamiento, el modelo predecirá qué imagen corresponde a qué objeto.
+
+Después de eso, es fácil usar el modelo para predecir nuevas imágenes.
+
+Para cada nueva imagen que ingrese al modelo, la máquina predecirá la clase a la que pertenece. Por ejemplo, una imagen completamente nueva sin etiqueta está pasando por el modelo. Para un ser humano, es trivial visualizar la imagen como un automóvil. La máquina usa su conocimiento previo para predecir también que la imagen es un automóvil.
 
 ## El proceso del aprendizaje profundo
 
@@ -109,20 +117,28 @@ En el aprendizaje profundo, la fase de aprendizaje se realiza a través de una r
 
 Considere el mismo ejemplo de la imagen anterior, pero teniendo en cuenta de que ahora el conjunto de entrenamiento sería alimentado por una red neuronal
 
-Cada entrada entra en una neurona y se multiplica por un peso. El resultado de la multiplicación fluye a la siguiente capa y se convierte en la entrada. Este proceso se repite para cada capa de la red. La capa final se denomina capa de salida; proporciona un valor real para la tarea de regresión y una probabilidad de cada clase para la tarea de clasificación.
+Cada entrada entra en una neurona y se multiplica por un peso.
+
+El resultado de la multiplicación fluye a la siguiente capa y se convierte en la entrada. Este proceso se repite para cada capa de la red. La capa final se denomina capa de salida; proporciona un valor real para la tarea de regresión y una probabilidad de cada clase para la tarea de clasificación.
 
 ![Caso práctico del funcionamiento del aprendizaje automático](/asset/images/blog/2020-02-18-ml-2.webp "Caso práctico del funcionamiento del aprendizaje automático")
 
 La red neuronal utiliza un algoritmo matemático para actualizar los pesos de todas las neuronas.
 
-La red neuronal está completamente entrenada cuando el valor de los pesos proporciona una salida cercana a la realidad. Por ejemplo, una red neuronal bien entrenada puede reconocer el objeto en una imagen con mayor precisión que la red neuronal tradicional.
+La red neuronal está completamente entrenada cuando el valor de los pesos proporciona una salida cercana a la realidad.
+
+Por ejemplo, una red neuronal bien entrenada puede reconocer el objeto en una imagen con mayor precisión que la red neuronal tradicional.
 
 
 ### Automatizar la extracción de características con DL
 
-Un conjunto de datos puede contener de una docena a cientos de características. El sistema aprenderá de la relevancia de estas características. Sin embargo, no todas las características son significativas para el algoritmo. Una parte crucial del aprendizaje automático es encontrar un conjunto relevante de características para que el sistema aprenda algo.
+Un conjunto de datos puede contener de una docena a cientos de características. El sistema aprenderá de la relevancia de estas características.
 
-Una forma de realizar esta parte en el aprendizaje automático es utilizar la extracción de características. La extracción de características combina características existentes para crear un conjunto de características más relevante. Se puede hacer con PCA, T-SNE o cualquier otro algoritmo de reducción de dimensionalidad.
+Sin embargo, no todas las características son significativas para el algoritmo. Una parte crucial del aprendizaje automático es encontrar un conjunto relevante de características para que el sistema aprenda algo.
+
+Una forma de realizar esta parte en el aprendizaje automático es utilizar la extracción de características.
+
+La extracción de características combina características existentes para crear un conjunto de características más relevante. Se puede hacer con PCA, T-SNE o cualquier otro algoritmo de reducción de dimensionalidad.
 
 Por ejemplo, en un procesamiento de imágenes, el profesional necesita extraer la función manualmente en la imagen, como los ojos, la nariz, los labios, etc. Esas características extraídas, van posteriormente, a alimentar el modelo de clasificación.
 
@@ -154,7 +170,13 @@ En la tabla siguiente, se resumen, las diferencias entre el aprendizaje automát
 | **Número de algoritmos**               | Muchos                     | Pocos                    |
 | **Tiempo de entrenamiento**            | Corto                      | Largo                    |
 
-Con el aprendizaje automático, se necesitan menos datos para entrenar al algoritmo que en el caso del aprendizaje profundo. El aprendizaje profundo requiere un conjunto más amplio y diverso de datos para llegar a identificar la estructura subyacente. Además, el aprendizaje automático proporciona un modelo entrenado más rápido. La arquitectura de aprendizaje profundo más avanzada puede llevar de días a una semana para entrenar. La ventaja del aprendizaje profundo sobre el aprendizaje automático es que es altamente preciso. No necesita comprender qué características son la mejor representación de los datos; la red neuronal aprendió a seleccionar características críticas. En el aprendizaje automático, se deben elegir qué características incluir en el modelo.
+Con el aprendizaje automático, se necesitan menos datos para entrenar al algoritmo que en el caso del aprendizaje profundo.
+
+El aprendizaje profundo requiere un conjunto más amplio y diverso de datos para llegar a identificar la estructura subyacente. Además, el aprendizaje automático proporciona un modelo entrenado más rápido.
+
+La arquitectura del aprendizaje profundo más avanzada puede llevar de días a una semana para entrenar. La ventaja del aprendizaje profundo sobre el aprendizaje automático es que es altamente preciso.
+
+No necesita comprender qué características son la mejor representación de los datos; la red neuronal aprendió a seleccionar características críticas. En el aprendizaje automático, se deben elegir qué características incluir en el modelo.
 
 ## Resumen
 
@@ -162,6 +184,6 @@ La inteligencia artificial consiste en llegar a recrear una capacidad cognitiva 
 
 La idea base del aprendizaje automático es que la máquina puede aprender sin la necesidad de la intervención humana. La máquina, por si sola, busca construir y encontrar su propia fórmula de aprender cómo resolver una tarea específica posteriormente a agregarle cierta cantidad de información.
 
-El aprendizaje profundo, es el mayor avance dentro del campo de la inteligencia artificial. Ocurre exclusivamene cuando existe una cantidad elevada de datos como para llegar a poder entrenar a la máquina. Con el aprendizaje profundo se pueden llegar a alcanzar resultados impresionantes, especialmente ante el reconocimiento de imágenes, la construcción de canciones, la traducción de textos, etc.
+El aprendizaje profundo, es el mayor avance dentro del campo de la inteligencia artificial. Ocurre exclusivamente cuando existe una cantidad elevada de datos como para llegar a poder entrenar a la máquina. Con el aprendizaje profundo se pueden llegar a alcanzar resultados impresionantes, especialmente ante el reconocimiento de imágenes, la construcción de canciones, la traducción de textos, etc.
 <!-- https://www.guru99.com/machine-learning-vs-deep-learning.html#1 -->
 
