@@ -20,9 +20,17 @@ header:
 
 ## Personajes Tecnológicos
 
+* Cyborg: Sueños y pesadillas de las tecnologías - Igor Sádaba https://amzn.to/38C0bcN
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8483078627&linkId=d34596f290b7f5d63bbe72c01bc14bd6"></iframe>
+
 * Neil Postman
   * Five Things We Need to Know About Technological Change: https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf
-  * Divertirse hasta morir: [Tribuna de León](https://www.diariodeleon.es/articulo/opinion/divertirse-hasta-morir/20021224000000637151.html) \ Relacionado >>> Neil Postman, 1998: seis preguntas sobre tecnología" https://www.youtube.com/watch?v=dBlfPhsrvtw
+  * Divertirse hasta morir: Revisión :[Tribuna de León](https://www.diariodeleon.es/articulo/opinion/divertirse-hasta-morir/20021224000000637151.html) \ Relacionado >>> Neil Postman, 1998: seis preguntas sobre tecnología" https://www.youtube.com/watch?v=dBlfPhsrvtw
+  * El fin de la educación https://amzn.to/37uFf6o
+  * Tecnópolis: La rendición de la cultura a la tecnología https://amzn.to/2SzbcpU
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8479480467&linkId=7625c177175622532ed099e150ccad41"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8480634073&linkId=ffa6f5a71d2f5aedf23fe211457bb6e6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494764721&linkId=61f126a2d6971b5f00696420ec75f790"></iframe>
 
 * Alexey Guzey
   * Qué hacer con tu vida: https: //guzey.com/personal/what-should-you-do-with-your-life ...
