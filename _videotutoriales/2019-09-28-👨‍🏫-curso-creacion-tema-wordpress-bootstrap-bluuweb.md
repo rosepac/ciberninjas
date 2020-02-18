@@ -21,3 +21,5 @@ sidebar:
 - title: "Menú Videotutoriales"
   nav: vtuto
 ---
+
+[<i class="fab fa-wordpress"></i> Wordpress](/cursos-tecnologia/#wordpress-){: .btn .btn--inverse .btn--large .align-center}

@@ -22,3 +22,4 @@ sidebar:
   nav: vtuto
 ---
 
+[<i class="fas fa-paw"></i> Scratch](/cursos-tecnologia/#scratch-){: .btn .btn--inverse .btn--large .align-center}

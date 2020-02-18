@@ -12,12 +12,14 @@ header:
     provider: youtube
 comments: true
 date: 2020-01-20 15:35:00 +0200
-tags:
-  - Jap Software
-  - Patrones de Diseño
-categories:
-  - Videotutorial Patrones Diseño
+# tags:
+#   - Jap Software
+#   - Patrones de Diseño
+# categories:
+#   - Videotutorial Patrones Diseño
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
 ---
+
+[💼 Metodologías de Desarrollo](/cursos-tecnologia/#-metodologías-de-desarrollo){: .btn .btn--inverse .btn--large .align-center}

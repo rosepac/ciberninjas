@@ -34,3 +34,5 @@ sidebar:
 10. FlatList
 11. Native Base + react native - Libreria UI
 12. enoent no such file or directory solucion - native base react native
+
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large .align-center}

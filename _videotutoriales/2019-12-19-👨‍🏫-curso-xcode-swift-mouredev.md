@@ -11,16 +11,18 @@ header:
     provider: youtube
 comments: true
 date: 2019-12-19
-tags:
+# tags:
 # Creador, Editorial, Temática, Tipo de Música
-- MoureDev
-- Brais Moure
-- XCode
-- Swift
-categories:
-- Videotutorial XCode
-- Videotutorial Swift
+# - MoureDev
+# - Brais Moure
+# - XCode
+# - Swift
+# categories:
+# - Videotutorial XCode
+# - Videotutorial Swift
 sidebar:
 - title: "Menú Videotutoriales"
   nav: vtuto
 ---
+
+[<i class="fab fa-apple"></i> Swift](/cursos-tecnologia/#swift-){: .btn .btn--inverse .btn--large .align-center}

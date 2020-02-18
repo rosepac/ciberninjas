@@ -12,14 +12,16 @@ header:
     provider: youtube
 comments: true
 date: 2020-01-22 13:55:00 +0200
-tags:
-  - Miguel Mart
-  - Extensiones
-  - Chrome
-categories:
-  - Videotutorial Navegadores
-  - Videotutorial Chrome
+# tags:
+#   - Miguel Mart
+#   - Extensiones
+#   - Chrome
+# categories:
+#   - Videotutorial Navegadores
+#   - Videotutorial Chrome
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
 ---
+
+[<i class="far fa-window-maximize"></i> Software de Navegadores](/cursos-tecnologia/#navegadores){: .btn .btn--inverse .btn--large .align-center}

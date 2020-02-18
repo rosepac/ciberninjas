@@ -32,3 +32,5 @@ sidebar:
 ## Creador
 
 Editor del blog de Medium: Canarias JS
+
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large .align-center}

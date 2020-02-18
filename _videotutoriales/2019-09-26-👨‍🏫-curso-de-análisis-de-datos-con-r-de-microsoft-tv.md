@@ -37,3 +37,5 @@ sidebar:
 ## M&aacute;s en R
 
 <iframe src="https://channel9.msdn.com/Series/Anaisis-de-Datos-con-R/Ms-en-R/player?format=html5" width="640" height="360" allowfullscreen="" frameborder="0" title="Más en R - Microsoft Channel 9 Video"></iframe>
+
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large .align-center}

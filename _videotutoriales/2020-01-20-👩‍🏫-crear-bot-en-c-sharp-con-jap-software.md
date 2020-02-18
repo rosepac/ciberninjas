@@ -23,3 +23,5 @@ sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
 ---
+
+[👨‍💻 Lenguaje C#](/cursos-tecnologia/#c-c-c){: .btn .btn--inverse .btn--large .align-center}

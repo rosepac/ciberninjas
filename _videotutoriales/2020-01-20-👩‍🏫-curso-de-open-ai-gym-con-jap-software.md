@@ -12,12 +12,14 @@ header:
     provider: youtube
 comments: true
 date: 2020-01-20 15:35:00 +0200
-tags:
-  - Jap Software
-  - Open AI
-categories:
-  - Videotutorial Open AI
+# tags:
+#   - Jap Software
+#   - Open AI
+# categories:
+#   - Videotutorial Open AI
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
 ---
+
+[🤖 Inteligencia Artificial](/cursos-tecnologia/#inteligencia-artificial){: .btn .btn--inverse .btn--large .align-center}

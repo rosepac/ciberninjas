@@ -839,6 +839,10 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Herramientas de desarrollo y diseño web](https://www.udemy.com/recursos-web-plugins-y-utilidades){:target="_blank"} (Udemy)
 * [Herramientas para el desarrollador web](https://www.udemy.com/herramientas-para-el-desarrollador-web){:target="_blank"} (Udemy)
 
+### Navegadores
+
+* [Los Mejores Trucos con las Herramientas de Desarrollo de Chrome](/trucos-herramientas-desarrollo-de-chrome/){:target="_blank"} (Udemy)
+
 ## Vue <i class="fab fa-vuejs"></i>
 
 * [Aprende VUE2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso){:target="_blank"} (WMedia)

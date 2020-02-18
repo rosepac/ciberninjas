@@ -321,3 +321,5 @@ sidebar:
 
 27. TOOLTIP  -  4:38:14
  - toltip
+
+[<i class="fab fa-bootstrap"></i> Bootstrap](/cursos-tecnologia/#bootstrap-){: .btn .btn--inverse .btn--large .align-center}

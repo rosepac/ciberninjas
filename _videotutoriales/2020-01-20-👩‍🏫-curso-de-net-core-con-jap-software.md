@@ -12,12 +12,14 @@ header:
     provider: youtube
 comments: true
 date: 2020-01-20 15:35:00 +0200
-tags:
-  - Jap Software
-  - .NET Core Framework
-categories:
-  - Videotutorial .NET Core Framework
+# tags:
+#   - Jap Software
+#   - .NET Core Framework
+# categories:
+#   - Videotutorial .NET Core Framework
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
 ---
+
+[🚀 .NET Core](/cursos-tecnologia/#net-core){: .btn .btn--inverse .btn--large .align-center}

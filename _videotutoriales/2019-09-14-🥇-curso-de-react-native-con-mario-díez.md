@@ -42,3 +42,5 @@ sidebar:
 18. Utilizaci&oacute;n de CameraRoll
 19. Children o Props
 20. Diferenciar entre Componentes de Clase o de Funci&oacute;n
+
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large .align-center}

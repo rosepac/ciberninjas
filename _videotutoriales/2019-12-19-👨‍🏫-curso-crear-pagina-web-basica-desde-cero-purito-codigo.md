@@ -13,13 +13,15 @@ comments: true
 date: 2019-12-19
 tags:
 # Creador, Editorial, Temática, Tipo de Música
-- Purito Código
-- HTML
-- CSS
-categories:
-- Videotutorial HTML
-- Videotutorial CSS
+# - Purito Código
+# - HTML
+# - CSS
+# categories:
+# - Videotutorial HTML
+# - Videotutorial CSS
 sidebar:
 - title: "Menú Videotutoriales"
   nav: vtuto
 ---
+
+[<i class="fab fa-html5"></i> HTML y <i class="fab fa-css3-alt"></i> CSS](/cursos-tecnologia/#html--y-css-){: .btn .btn--inverse .btn--large .align-center}

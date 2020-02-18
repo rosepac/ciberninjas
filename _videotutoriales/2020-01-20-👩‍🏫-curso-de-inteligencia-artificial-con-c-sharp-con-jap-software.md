@@ -12,14 +12,16 @@ header:
     provider: youtube
 comments: true
 date: 2020-01-20 15:35:00 +0200
-tags:
-  - Jap Software
-  - Inteligencia Artificial
-  - C#
-categories:
-  - Videotutorial Inteligencia Artificial
-  - Videotutorial C#
+# tags:
+#   - Jap Software
+#   - Inteligencia Artificial
+#   - C#
+# categories:
+#   - Videotutorial Inteligencia Artificial
+#   - Videotutorial C#
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
 ---
+
+[🤖 Inteligencia Artificial](/cursos-tecnologia/#inteligencia-artificial){: .btn .btn--inverse .btn--large .align-center}

@@ -9,7 +9,8 @@ date: 2020-02-14 18:33:12
 last_modified_at: 
 header:
   teaser: /assets/images/lenguajes-vs/ai-vs-ml-vs-dp.webp
-canonical_URL: /porque-python-es-mejor-que-php/
+permalink: /diferencias-entre-ai-ml-dl/
+canonical_URL: /diferencias-entre-ai-ml-dl/
 classes: wide
 categories:
 - Inteligencia Artificial

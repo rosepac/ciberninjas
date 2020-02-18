@@ -7,12 +7,12 @@ permalink: /curso-iniciando-power-bi-microsoft-tv
 canonical_URL: 'https://ciberninjas.com/curso-iniciando-power-bi-microsoft-tv'
 comments: true
 date: 2019-09-26 02:00:00 +0200
-tags:
-  - Microsoft
-  - Power BI
-  - Datos
-categories:
-  - Videotutorial Excel
+# tags:
+#   - Microsoft
+#   - Power BI
+#   - Datos
+# categories:
+#   - Videotutorial Excel
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
@@ -33,3 +33,5 @@ sidebar:
 ## M&oacute;dulo IV - Power BI de extremo a extremo
 
 <iframe src="https://channel9.msdn.com/Series/Power-BI/Power-BI-de-extremo-a-extremo/player" width="640" height="360" allowfullscreen="" frameborder="0" title="Módulo IV - Power BI de extremo a extremo - Microsoft Channel 9 Video"></iframe>
+
+[<i class="fab fa-windows"></i> Microsoft](/cursos-tecnologia-microsoft/){: .btn .btn--inverse .btn--large .align-center}

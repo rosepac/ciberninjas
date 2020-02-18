@@ -11,22 +11,22 @@ canonical_URL: https://ciberninjas.com/curso-componentes-basicos-solucion-big-da
 #     provider: youtube
 comments: true
 date: 2019-09-26
-tags:
+# tags:
 # Creador, Editorial, Temática, Tipo de Música
-- Microsoft
-- Big Data
-- Hive
-- HiveQL
-- Pig
-- Hadoop
-- Yarn
-- Sqoop
-- Oozie
-- Tez
-- MapReduce
-- Apache
-categories:
-- Videotutorial Big Data
+# - Microsoft
+# - Big Data
+# - Hive
+# - HiveQL
+# - Pig
+# - Hadoop
+# - Yarn
+# - Sqoop
+# - Oozie
+# - Tez
+# - MapReduce
+# - Apache
+# categories:
+# - Videotutorial Big Data
 sidebar:
 - title: "Menú Videotutoriales"
   nav: vtuto
@@ -47,3 +47,5 @@ sidebar:
 ## M&oacute;dulo IV - Introducci&oacute;n a Sqoop y Oozie
 
 <iframe src="https://channel9.msdn.com/Series/Componentes-bsicos-de-una-solucin-de-Big-Data/Mdulo-IV-Introduccin-a-Sqoop-y-Oozie/player?format=html5" width="640" height="360" allowfullscreen="" frameborder="0" title="Módulo IV - Introducción a Sqoop y Oozie - Microsoft Channel 9 Video"></iframe>
+
+[<i class="fab fa-windows"></i> Microsoft](/cursos-tecnologia-microsoft/){: .btn .btn--inverse .btn--large .align-center}

@@ -8,17 +8,17 @@ canonical_URL: >-
   https://ciberninjas.com/curso-componentes-avanzados-solucion-big-data-microsoft-tv
 comments: true
 date: 2019-09-26 03:03:00 +0200
-tags:
-  - Microsoft
-  - Big Data
-  - Spark
-  - Storm
-  - HBase
-  - HDInsight
-  - Apache
-  - Azure
-categories:
-  - Videotutorial Big Data
+# tags:
+#   - Microsoft
+#   - Big Data
+#   - Spark
+#   - Storm
+#   - HBase
+#   - HDInsight
+#   - Apache
+#   - Azure
+# categories:
+#   - Videotutorial Big Data
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
@@ -39,3 +39,5 @@ sidebar:
 ## M&oacute;dulo IV - Resumen de componentes
 
 <iframe src="https://channel9.msdn.com/Shows/Componentes-avanzados-de-una-solucin-de-Big-Data/Mdulo-IV-Resumen-de-componentes/player?format=html5" width="640" height="360" allowfullscreen="" frameborder="0" title="Módulo IV - Resumen de componentes - Microsoft Channel 9 Video"></iframe>
+
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large .align-center}

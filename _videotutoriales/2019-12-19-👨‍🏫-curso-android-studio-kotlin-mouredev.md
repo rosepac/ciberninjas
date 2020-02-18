@@ -13,14 +13,16 @@ comments: true
 date: 2019-12-19
 tags:
 # Creador, Editorial, Temática, Tipo de Música
-- MoureDev
-- Brais Moure
-- Android Studio
-- Kotlin
-categories:
-- Videotutorial Android Studio
-- Videotutorial Kotlin
+# - MoureDev
+# - Brais Moure
+# - Android Studio
+# - Kotlin
+# categories:
+# - Videotutorial Android Studio
+# - Videotutorial Kotlin
 sidebar:
 - title: "Menú Videotutoriales"
   nav: vtuto
 ---
+
+[Kotlin](/cursos-tecnologia/#kotlin){: .btn .btn--inverse .btn--large .align-center}

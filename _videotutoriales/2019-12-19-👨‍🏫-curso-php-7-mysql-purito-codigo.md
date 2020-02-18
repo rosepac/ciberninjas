@@ -11,14 +11,16 @@ header:
     provider: youtube
 comments: true
 date: 2019-12-19
-tags:
+# tags:
 # Creador, Editorial, Temática, Tipo de Música
-- Purito Código
-- PHP
-- MySQL
-categories:
-- Videotutorial PHP
+#- Purito Código
+#- PHP
+#- MySQL
+#categories:
+#- Videotutorial PHP
 sidebar:
 - title: "Menú Videotutoriales"
   nav: vtuto
 ---
+
+[<i class="fab fa-php"></i> PHP](/cursos-tecnologia/#php-){: .btn .btn--inverse .btn--large .align-center}

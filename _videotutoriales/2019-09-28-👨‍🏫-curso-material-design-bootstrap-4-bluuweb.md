@@ -23,3 +23,5 @@ sidebar:
 - title: "Menú Videotutoriales"
   nav: vtuto
 ---
+
+[<i class="fab fa-bootstrap"></i> Bootstrap](/cursos-tecnologia/#bootstrap-){: .btn .btn--inverse .btn--large .align-center}

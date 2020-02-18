@@ -12,12 +12,14 @@ header:
     provider: youtube
 comments: true
 date: 2020-01-20 15:35:00 +0200
-tags:
-  - Jap Software
-  - Bases de Datos
-categories:
-  - Videotutorial Bases de Datos
+# tags:
+#   - Jap Software
+#   - Bases de Datos
+# categories:
+#   - Videotutorial Bases de Datos
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
 ---
+
+[📁 Bases de Datos](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large .align-center}

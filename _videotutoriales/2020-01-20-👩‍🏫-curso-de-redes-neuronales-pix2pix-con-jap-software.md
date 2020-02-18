@@ -12,13 +12,15 @@ header:
     provider: youtube
 comments: true
 date: 2020-01-20 15:35:00 +0200
-tags:
-  - Jap Software
-  - pix2pix
-  - Redes Neuronales
-categories:
-  - Videotutorial Redes Neuronales
+# tags:
+#   - Jap Software
+#   - pix2pix
+#   - Redes Neuronales
+# categories:
+#   - Videotutorial Redes Neuronales
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
 ---
+
+[📂 SQL](/cursos-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large .align-center}

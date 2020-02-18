@@ -11,13 +11,15 @@ header:
     provider: youtube
 comments: true
 date: 2019-09-28
-tags:
+# tags:
 # Creador, Editorial, Temática, Tipo de Música
-- Aula Ideal
-- Bootstrap
-categories:
-- Videotutorial Bootstrap
+# - Aula Ideal
+# - Bootstrap
+# categories:
+# - Videotutorial Bootstrap
 sidebar:
 - title: "Menú Videotutoriales"
   nav: vtuto
 ---
+
+[<i class="fab fa-bootstrap"></i> Bootstrap](/cursos-tecnologia/#bootstrap-){: .btn .btn--inverse .btn--large .align-center}

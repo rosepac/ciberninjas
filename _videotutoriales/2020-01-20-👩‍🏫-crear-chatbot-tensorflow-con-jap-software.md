@@ -12,13 +12,15 @@ header:
     provider: youtube
 comments: true
 date: 2020-01-20 15:35:00 +0200
-tags:
-  - Jap Software
-  - Chatbot
-  - Tensorflow
-categories:
-  - Videotutorial Tensorflow
+# tags:
+#   - Jap Software
+#   - Chatbot
+#   - Tensorflow
+# categories:
+#   - Videotutorial Tensorflow
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
 ---
+
+[🧠 Machine Learning](/cursos-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large .align-center}

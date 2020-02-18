@@ -12,12 +12,14 @@ header:
     provider: youtube
 comments: true
 date: 2019-12-04 18:01:00 +0200
-tags:
-  - Albert Coronado
-  - Docker
-categories:
-  - Videotutorial Docker
+# tags:
+#   - Albert Coronado
+#   - Docker
+# categories:
+#   - Videotutorial Docker
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
 ---
+
+[<i class="fab fa-docker"></i> Docker](/cursos-tecnologia/#docker-){: .btn .btn--inverse .btn--large .align-center}

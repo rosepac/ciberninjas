@@ -12,13 +12,15 @@ header:
     provider: youtube
 comments: true
 date: 2020-01-20 15:35:00 +0200
-tags:
-  - Jap Software
-  - Algoritmos de Ordenación
-  - C#
-categories:
-  - Videotutorial C#
+# tags:
+#   - Jap Software
+#   - Algoritmos de Ordenación
+#   - C#
+# categories:
+#   - Videotutorial C#
 sidebar:
   - title: Menú Videotutoriales
     nav: vtuto
 ---
+
+[👨‍💻 Lenguaje C#](/cursos-tecnologia/#c-c-c){: .btn .btn--inverse .btn--large .align-center}

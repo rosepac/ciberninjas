@@ -32,3 +32,5 @@ sidebar:
 ## M&oacute;dulo II - Predictive Analytics
 
 <iframe src="https://channel9.msdn.com/Shows/Anlisis-de-Datos-con-R-Nivel-avanzado/Mdulo-II-Predictive-Analytics/player?format=html5" width="640" height="360" allowfullscreen="" frameborder="0" title="Módulo II - Predictive Analytics - Microsoft Channel 9 Video"></iframe>
+
+[🧠 SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large .align-center}
