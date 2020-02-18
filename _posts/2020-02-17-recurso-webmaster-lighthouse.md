@@ -9,7 +9,7 @@ comments: true
 date: 2020-02-13 15:10:12
 last_modified_at: 
 header:
-  teaser: /assets/images/blog/swift-open-source_2048.webp
+  teaser: /assets/images/blog/webmaster-herramientas-lighthouse.webp
 permalink: /recurso-webmaster-lighthouse/
 canonical_URL: https://ciberninjas.com/recurso-webmaster-lighthouse/
 classes: wide
