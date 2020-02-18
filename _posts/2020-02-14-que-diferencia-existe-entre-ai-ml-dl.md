@@ -101,7 +101,7 @@ El primer paso es necesario, puesto que elegir los datos correctos hará que el 
 
 Cada imagen es una fila de los datos, mientras que cada píxel es una columna. Si su imagen tiene un tamaño de 28x28, el conjunto de datos contiene 784 columnas (28x28). En la imagen a continuación, cada imagen se ha transformado en un vector de características. La etiqueta le dice a la computadora qué objeto está en la imagen.
 
-![Caso práctico del funcionamiento del aprendizaje automático](/asset/images/blog/2020-02-18-ml-1.webp "Caso práctico del funcionamiento del aprendizaje automático")
+![Caso práctico del funcionamiento del aprendizaje automático](/assets/images/blog/2020-02-18-ml-1.webp "Caso práctico del funcionamiento del aprendizaje automático")
 
 El objetivo es utilizar estos datos de entrenamiento para clasificar el tipo de objetos.
 
@@ -121,7 +121,7 @@ Cada entrada entra en una neurona y se multiplica por un peso.
 
 El resultado de la multiplicación fluye a la siguiente capa y se convierte en la entrada. Este proceso se repite para cada capa de la red. La capa final se denomina capa de salida; proporciona un valor real para la tarea de regresión y una probabilidad de cada clase para la tarea de clasificación.
 
-![Caso práctico del funcionamiento del aprendizaje automático](/asset/images/blog/2020-02-18-ml-2.webp "Caso práctico del funcionamiento del aprendizaje automático")
+![Caso práctico del funcionamiento del aprendizaje automático](/assets/images/blog/2020-02-18-ml-2.webp "Caso práctico del funcionamiento del aprendizaje automático")
 
 La red neuronal utiliza un algoritmo matemático para actualizar los pesos de todas las neuronas.
 
