@@ -1,11 +1,29 @@
 ---
-title: '👨‍🏫 Videotutoriales'
-description: '👩‍🎓 ▷ Videoteca de Documentales Más Interesantes dentro de Múltiples Temáticas que Puedes Encontrar en Internet.'
-excerpt: '👩‍🎓 ▷ Videoteca de Documentales Más Interesantes dentro de Múltiples Temáticas que Puedes Encontrar en Internet.'
+layout: collection
+title: "Videotutoriales: Archivo de los Mejores Videotutoriales del Mundo en Español"
+description: "Cientos de tutoriales sobre tecnología de Youtube organizados por diferentes temáticas"
+excerpt: "Cientos de tutoriales sobre tecnología de Youtube organizados por diferentes temáticas"
+collection: videotutoriales
 permalink: /videotutoriales/
 canonical_URL: https://ciberninjas.com/videotutoriales/
-date: 2018-09-12T13:20:42
-last_modified_at: 2019-09-23
+published: true
+toc: true
+toc_label: "Contenidos"
+toc_icon: user-ninja
+toc_sticky: true
+sort_by: title
+sort_order: reverse
+author_profile: true
+entries_layout: grid
+classes: wide
+# sidebar:
+# - title: "Menú Principal"
+#   nav: general
+# header:
+#  teaser: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
+ # overlay_image: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
+ # image_description: Logotipo de la Electronic Frontier Foundation \ Visto en Ciberninjas
+ # caption: "**Créditos**: Logotipo de la EFF \ Creative Commons 3.0"
 
 ---
 
@@ -23,3 +41,5 @@ last_modified_at: 2019-09-23
 <p>Creando así, un listado interesante de video tutoriales recopilados Online; todos sobre un mismo lugar. Esa es la idea.</p>
 <p>Aún queda un poco de trabajo por desarrollar, va en camino.. Pasito a pasito..</p>
 </details>
+
+## 🔥 Últimas Actualizaciones.. 👇
