@@ -359,6 +359,11 @@ sidebar:
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+## Ciencias Informáticas
+
+* Superpotencias de la inteligencia artificial: China, Silicon Vall.. - Kai Fu Lee
+  * https://amzn.to/3bNQBWw
+
 ## 👷‍♂️ Webmaster
 
 * [CRO. Diseño y desarrollo de negocios digitales](https://amzn.to/2ZnFdOu){:target="_blank"}
