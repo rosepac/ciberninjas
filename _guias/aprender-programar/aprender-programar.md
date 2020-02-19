@@ -29,9 +29,10 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 📢 Estamos en las RRSS: [🐦 Twitter](https://twitter.com/ciberninjas "Twitter") [📘 Comunidad FB](http://facebook.com/groups/ciberninjas "Facebook") [🎓 Cursos FC](https://facebook.com/cibercursos "Facebook Exclusivo de Cursos y Memes") [🌈 Instagram](https://instagram.com/ciberninjas "Instagram") [👨‍💻 Dev.to](https://dev.to/@rosepac "Blog en el sitio especializado: Dev.to") Bajo el usuario @ciberninjas
 {: .notice--info}
 
+## ¿Cómo aprender a programar?
+
 <details>
 <summary><h2>MENÚ 👇</h2></summary>
-<br/>
 <nav class="menu">
   <ol>
     <li><a href="/programar/#cómo-aprender-a-programar-código">Cómo aprender a programar código</a></li>
@@ -48,9 +49,7 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 </nav>
 </details>
 
-## ¿Cómo aprender a programar?
-
-En esta sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
+En esta primera sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
 
 1. El primer paso es: Centrarse en dominar un lenguaje, sea cual sea, en lugar de aprender un poco sobre varios idiomas hyper-focus.
 2. Si no te decides por un lenguaje en concreto, elige uno de propósito general.
@@ -64,8 +63,8 @@ En esta sección, vamos a intentar realizar un resumen de los pasos que podemos 
 10. Lo más importante es ser persistente, conservar la motivación
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OPlGMplfEbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+<br />
+[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿En qué campo de la informática trabajar?
 
@@ -126,7 +125,7 @@ Existen muchos más lenguajes de programación, entre los más populares ahora s
 
 > Aprender a programar, es la clave de la era digital
 
-[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
 
 ## La Programación en la Actualidad
 
@@ -141,7 +140,7 @@ Si tu objetivo es abrir una Startup o unirte a una, nada mejor que iniciarte con
 
 Un buen plan de estudio, podría ser Javascript, React, Ruby y Ruby and Rails; pero eso no quiere decir que sea el mejor, ni el único.
 
-[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿Qué puestos de trabajo existen?
 
@@ -151,7 +150,7 @@ Desarrollador web y multimedia, desarrollador de software, desarrollador fronten
 
 Incluso si deseas formarte para la profesión que realizan los analistas y consultores o profesional de publicidad, en el marketing digital o como técnico de gestión; deberás aprender algunas tecnologías puntuales.
 
-[👉 Análisis Más Profundo de Las Profesiones Digitales](/programar/#page-title){: .btn .btn--warning .btn--large .align-center}
+[👉 Análisis Más Profundo de Las Profesiones Digitales](/programar/#cómo-aprender-a-programar){: .btn .btn--warning .btn--large .align-center}
 
 ## ¿Qué tecnologías y herramientas debo aprender?
 
@@ -168,7 +167,7 @@ En esta lista encontramos los lenguajes que están más al alza entre los puesto
 ▶ [Python](/python/){: .btn .btn--inverse .btn--large .align-center} - Java - Javascript - C # - Swift - Kotlin
 
 <!-- (imágenes con enlaces a las páginas de formación de cada lenguaje) -->
-[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
 
 ### Sobre Javascript
 
@@ -210,7 +209,7 @@ Una lista de algunos de estos lenguajes podría ser:
 </ol>
 </details>
 
-[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
 
 ## Otros Lenguajes Populares en la Actualidad
 
@@ -240,7 +239,7 @@ Los navegadores web así como Internet, sin lugar a dudas han cambiado por compl
 Entre estos "lenguajes" destacan HTML y CSS, que forman una de las partes más importantes de todo Internet. Incluso podríamos incluir la tecnología AJAX.
 
 <!-- ## Qué es Programar -->
-[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
 
 ## Declaración Ciberninjas
 
@@ -250,13 +249,13 @@ Indiferentemente de si deseas introducirte en ser un desarrollador *full stack, 
 
 Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer más, sobre [nuestra "filosofía"](/que-es-ciberninjas/). Si aún te surgen dudas o te gustaría realizar alguna consulta, ***¿Qué es Ciberninjas?*** o ***Nuestro Proyecto***  y además, no temas en unirte a [nuestra conversación (Discord)](https://kutt.it/ciberninjas_discord).
 
-[🔝 Regresar 🔝](/programar/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
 
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
-[📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
-[🛒 Catálogo de Libros 👨‍💻](/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
-[🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
-[👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
+[📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--x-large .align-center}
+[🛒 Catálogo de Libros 👨‍💻](/libros/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--x-large .align-center}
+[🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--x-large .align-center}
+[👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--x-large .align-center}
 [👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
 [🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
