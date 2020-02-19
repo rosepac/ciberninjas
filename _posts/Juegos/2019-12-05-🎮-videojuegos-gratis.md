@@ -1,15 +1,17 @@
 ---
 author_profile: true
-title: "▷ Videojuegos Gratis durante las Vacaciones de Navidad"
-description: "🌟 Los Mejores Videojuegos Gratuitos para las Vacaciones Navideñas"
-excerpt: "🌟 Los Mejores Videojuegos Gratuitos para las Vacaciones Navideñas"
+title: "🥇 ▷ Videojuegos gratis para descargar durante 2020"
+description: "🔥 Las mejores páginas de videojuegos gratuitos para jugar en PC, online o descargar durante todos los meses del año"
+excerpt: "🔥 Las mejores páginas de videojuegos gratuitos para jugar en PC, online o descargar durante todos los meses del año"
 permalink: /videojuegos-gratis/
+canonical_URL: https://ciberninjas.com/videojuegos-gratis/
+classes: wide
 header:
   teaser: https://i.ibb.co/cvCZqW2/gamer-jugando.gif
   overlay_image: https://i.ibb.co/N22jWGY/gamer-girl.jpg
   overlay_filter: 0.2
-  image_description: 'Los Mejores Videojuegos Gratuitos durante Diciembre y las vacaciones de Navidad | Ciberninjas'
-  image_alt: 'Los Mejores Videojuegos Gratuitos durante Diciembre y las vacaciones de Navidad | Ciberninjas'
+  image_description: 'Las mejores páginas de videojuegos gratuitos para jugar en PC, online o descargar durante todos los meses del año'
+  image_alt: 'Las mejores páginas de videojuegos gratuitos para jugar en PC, online o descargar durante todos los meses del año'
   caption: "**Flickr**: [@ awee_19](https://www.flickr.com/photos/mystical-mii/)"
 #  actions:
 #    - label: "Black Friday 2019"
@@ -20,17 +22,16 @@ header:
 #      url: "/disney-frozen-amazon/"
 comments: true
 date: 2019-12-05 18:00:00 +0200
-last_modified_at: 2019-12-27 17:30:18 +0200
+last_modified_at: 2020-02-19 17:30:18 +0200
 published: true
 tags:
   - Videojuegos
 categories:
   - Gratis Videojuegos
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
-# classes: wide
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: false
 # sidebar:
 #   - title: Menú Videotutoriales
 #     nav: vtuto
@@ -39,7 +40,42 @@ toc_sticky: false
 🤞 Este artículo se irá actualizando a lo largo del tiempo.. 🕹
 {: .notice--info}
 
-Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fiestas como las de Navidad algunas páginas web o compañías deciden ofrecer gratis, aunque solamente sea temporalmente; junto a algunas otras recomendaciones, si deseas probar o recuperar algún nuevo juego; aquí los vas a poder encontrar.
+Esta es una pequeña recopilación de las mejores páginas web en las que encontrar videojuegos totalmente gratis, además de páginas que eventualmente van publicitando algunos juegos gratis temporalmente.
+
+## Páginas de Videojuegos Gratis 🎁
+
+Las mejores páginas web del mundo en las que vas a poder encontrar tanto los videojuegos que siempre son totalmente gratuitos; como así, las mejores promociones de juegos gratuitos periódicamente.
+
+➡ [Steem Videojuegos Gratis](https://kutt.it/videojuegos-gratis-steem){:target="_blank"} 87 Juegos
+➡ [Epic Games Videojuegos Gratis](https://kutt.it/videojuegos-gratis){:target="_blank"}
+➡ [GOG Videojuegos Gratis](https://kutt.it/videojuegos-gratis-gog){:target="_blank"}
+➡ [Indie Gala Juegos Gratis](https://kutt.it/videojuegos-gratis-indie-gala){:target="_blank"} (Se actualizan con frecuencia) \ Actualmente: Die Young, The Fan, Waste Walker, Super Panda, Jasem Puzzle.
+➡ [Itch io](https://kutt.it/itch-videojuegos-alternativos-gratis) \ 
+➡ Reddit. Diferentes Grupos donde se actualiza con juegos gratuitos \ [FreeGameFindings](https://kutt.it/vg-reddit-1){:target="_blank"} \ [Free Games](https://kutt.it/vg-reddit-2){:target="_blank"} 
+
+## Juegos Gratis para PC y Móviles 📲
+
+* Aplicaciones Android para Buscar APPS Gratis \ [Apps Free](https://play.google.com/store/apps/details?id=com.appsfree.android&hl=es_419){:target="_blank"} \ [App Sales](https://play.google.com/store/apps/details?id=net.tsapps.appsales){:target="_blank"}
+* [Boot de Twitter de Videojuegos Gratis](https://twitter.com/FreeGames_BOT){:target="_blank"}
+<!-- Actualizar https://www.fanbyte.com/trending/epic-games-store-free-games-list/ -->
+
+[📲 JUEGOS DE ANDROID GRATIS A DIARIO 📲](https://android.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+Actualmente: College Days, Zombie Age 3 PRemium, Slime Pang.. Starman in space
+
+[📲 JUEGOS DE IPHONE GRATIS A DIARIO 📲](https://iphone.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+Actualmente: spinny Monster, NewfyMoji, Cross Section Engineer, Drop Flop!, A Florist, Shopkins..
+
+[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## Más Páginas 🙀
+
+* [IntercambiosVirtuales](http://www.intercambiosvirtuales.org/category/juegos){:target="_blank"}
+* [PiviGames](https://pivigames.blog/){:target="_blank"}
+
+[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
 
 ## GRATIS AHORA 🎉 
 
@@ -47,32 +83,17 @@ Esta es una pequeña recopilación de algunos videojuegos que por tiempos de fie
 
 Epic Games lleva unos días, y va a seguir regalando un videojuego por cada día que pase..
 
-![Hyper Light Drifter](https://i.ytimg.com/vi/V4fwTo3j_M8/maxresdefault.jpg)
+![Kingdom Come y Aztez. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games](https://i.ibb.co/Hh9C4SD/image.png "Kingdom Come y Aztez. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games")
 
-Hoy.. [Hyper Light Drifter](https://www.epicgames.com/store/es-ES/product/hyper-light-drifter/home)
+En la actualidad están regalando Kingdom Come y Aztez.
 
-[🎮 DESCARGA EL JUEGO DE HOY 🎮](https://www.epicgames.com/store/es-ES/free-games){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-### Juegos Anteriores
-
-<!--
-<figure>
-    <a href="https://i.ibb.co/yNpdJwF/354135-722591.png" class="image-popup" title="Celeste"><img src="https://i.ibb.co/nR127JT/Celeste.jpg" alt="Celeste"></a>
-    <figcaption>Celeste | Visto en Ciberninjas</figcaption>
-</figure>
-
-<figure>
-    <a href="https://i.ibb.co/nn9VFyG/maxresdefault.jpg" class="image-popup" title="Ape Out"><img src="https://i.ibb.co/hZbnSN6/maxresdefault.jpg" alt="Ape Out"></a>
-    <figcaption>Ape Out Inferno | Visto en Ciberninjas</figcaption>
-</figure>
-<figure>
-    <a href="https://i.ibb.co/Ngv4kyf/image.png" class="image-popup" title="Little Inferno"><img src="https://i.ibb.co/nqGWVL4/image.png" alt="Little Inferno"></a>
-    <figcaption>Little Inferno | Visto en Ciberninjas</figcaption>
-</figure>
--->
-<img src="https://i.ibb.co/M50H960/Diesel-productv2-faster-than-light-home-EGS-Subset-Games-FTLFaster-Than-Light-S1-2560x1440-6f03975250e46dcf8aff0d33aec88cace4f63faf.jpg" alt="Diesel-productv2-faster-than-light-home-EGS-Subset-Games-FTLFaster-Than-Light-S1-2560x1440-6f03975250e46dcf8aff0d33aec88cace4f63faf" border="0"> <img src="https://i.ibb.co/hZbnSN6/maxresdefault.jpg" alt="maxresdefault" border="0"> <img src="https://i.ibb.co/sgCbr09/354135-722591.png" alt="354135-722591" border="0">
+[🎮 DESCARGALOS 🎮](https://kutt.it/videojuegos-gratis){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## Otros Juegos Gratis de Epic Games
+
+![](https://i.ibb.co/PCL7f9Y/image.png)
+
+* Magic: The Gathering Arena, Auto Chess, Battle Breakers, The Cycle, Dauntless y Fortnite.
 
 ### Auto Chess
 
@@ -108,54 +129,6 @@ En Die Young: Prologue juegas como Nehir, un agente de campo de un conocido part
 La agenda del partido es deconstruir y eliminar al Hermano n. 1, el líder de la comunidad de Island. Die Young: Prologue  es una aventura de acción con una estructura más lineal que el mundo abierto de Die Young , pero deja al jugador la posibilidad de utilizar diferentes enfoques y caminos para escapar.
 
 [🎮 DESCARGA GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/die-young-prologue/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## Teatro de Guerra 2: África 1943 \ IndieGala
-
-![Teatro de Guerra 2 - Captura del Videojuego](https://i.ibb.co/zhsb1LQ/teatros-de-guerra.jpg "Teatro de Guerra 2 - Captura del Videojuego")
-
-Theatre of War 2: Africa 1943 cubre los eventos de 1943 en Túnez, África del Norte. Al recuperarse de sus pérdidas después de la aplastante derrota y la posterior retirada después de la Segunda Batalla de El-Alamein, el alemán Afrika Korps, reforzado y ahora apoyado por el ejército italiano, se prepara una vez más para poner acero contra acero con los Aliados. Las fuerzas del Eje, bajo el mando del legendario general Erwin Rommel, tienen una oportunidad demasiado breve para tomar la victoria de las garras de sus fracasos anteriores. Los jugadores liderarán a Afrika Korps de Rommel en su última campaña militar a gran escala y comandarán a los ejércitos inglés y estadounidense mientras intentan expulsar a las fuerzas del Eje de África de una vez por todas.
-
-[🎮 DESCARGA GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/theatre-of-war-2-africa-1943/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## UberSoldier II \ IndieGala
-
-![UberSoldier II - Captura del Videojuego](https://i.ytimg.com/vi/LKgdgidBGGE/maxresdefault.jpg "UberSoldier II - Captura del Videojuego")
-
-Un grupo muy unido de generales y oficiales de las SS, involucrado en los hechos más atroces y oscuros, está buscando una manera de salvar a los restos del Tercer Imperio. Han conspirado para trasladar a los líderes del Reich, junto con recursos preciosos y equipo clasificado, a un escondite remoto en las montañas tibetanas.
-
-[🎮 DESCARGA GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/ubersoldier-ii/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## Mahjong Strip Solitario \ IndieGala
-
-![Mahjong Strip Solitario](https://i.ibb.co/n0sBKCK/20170105164445-1.jpg)
-
-Sencillo juego de Mahjong que integra como sus objetivos el dejar en bikini a diferentes personajes de aspecto Manga.
-
-[🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/mahjong-strip-solitaire/?dev_id=freebies "Puzzle de Mahjong"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## Lady´s Hentai Mosaic \ IndieGala
-
-![Puzzle de Hentai](https://i.ibb.co/x74xBhh/image.png)
-
-Lady's Hentai Mosaic es un juego en el que debes armar correctamente un mosaico para restaurar las imágenes de las chicas. Al pasar los niveles, abrirás oportunidades para quitar más y más ropa de las chicas.
-
-Lady's Hentai Mosaic no es un producto de naturaleza pornográfica, por lo que no hay escenas de relaciones sexuales o escenas con un contexto sexualmente sugerente.
-
-La función clave del juego es la descomposición de los fragmentos de mosaico. El progreso a través de los niveles llena la escala de desvestirse: el jugador abre gradualmente diferentes grados de desvestirse.
-
-[🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/ladys-hentai-mosaic/?dev_id=freebies "Puzzle de Mosaicos Hentais"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## Crab Due \ IndieGala
-
-En el fondo del océano es donde reina el malvado Dr. Taco. Su mayor sueño es conquistar todo el océano. Junto con su socio comercial, el Sr. Rhino, patrocinan un proyecto de alta tecnología llamado «Crab Dub».
-
-El objetivo final del proyecto es crear un ejército de Cangrejos Cibernéticos que sirva fielmente al Dr. Taco..
-
-![](https://i.ibb.co/h7Mq9L0/image.png "Caracoles y cangrejos en su versión más pixelada xd")
-
-[🎮 GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/crab-dub/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## JUEGOS DE ACCIÓN GRATIS 🪓
 
@@ -277,44 +250,59 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Páginas de Videojuegos Gratis 🎁
-
-* [Steem Videojuegos Gratis](https://store.steampowered.com/genre/Free%20to%20Play/){:target="_blank"} 87 Juegos
-* [Epic Games Videojuegos Gratis](https://www.epicgames.com/store/es-ES/collection/free-games-collection){:target="_blank"}
-* [GOG Videojuegos Gratis](https://www.gog.com/games?sort=popularity&page=1&price=free){:target="_blank"}
-* [Indie Gala Juegos Gratis](https://freebies.indiegala.com/){:target="_blank"} (Se actualizan con frecuencia)
-* Reddit. Diferentes Grupos donde se actualiza con juegos gratuitos \ [FreeGameFindings](https://www.reddit.com/r/FreeGameFindings/){:target="_blank"} \ [Free Games](https://www.reddit.com/r/freegames/){:target="_blank"} 
-
-[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-## Más Páginas 🙀
-
-* [IntercambiosVirtuales](http://www.intercambiosvirtuales.org/category/juegos){:target="_blank"}
-* [PiviGames](https://pivigames.blog/){:target="_blank"}
-
-[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-## Juegos Gratis para PC y Móviles 📲
-
-* Aplicaciones Android para Buscar APPS Gratis \ [Apps Free](https://play.google.com/store/apps/details?id=com.appsfree.android&hl=es_419){:target="_blank"} \ [App Sales](https://play.google.com/store/apps/details?id=net.tsapps.appsales){:target="_blank"}
-* [Boot de Twitter de Videojuegos Gratis](https://twitter.com/FreeGames_BOT){:target="_blank"}
-<!-- Actualizar https://www.fanbyte.com/trending/epic-games-store-free-games-list/ -->
-
-[📲 JUEGOS DE ANDROID GRATIS A DIARIO 📲](https://android.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-
-Actualmente: Puzzling Picture Parts, Equalizer, Terra Fighter Pro 2, Color Link Deluxe VIP.
-
-[📲 JUEGOS DE IPHONE GRATIS A DIARIO 📲](https://iphone.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-
-Actualmente: Thank Battle, Treasure Miner, Nudos 3D.
-
-[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
 <!-- ## PRÓXIMAMENTE 💣 -->
 <!-- Ahora mismo no existen juegos gratuitos pendientes de ser liberados..
 {: .notice--info} -->
 
-## CADUCADOS 😿
+## REGALADOS CON ANTERIORIDAD 😿
+
+## Teatro de Guerra 2: África 1943 \ IndieGala
+
+![Teatro de Guerra 2 - Captura del Videojuego](https://i.ibb.co/zhsb1LQ/teatros-de-guerra.jpg "Teatro de Guerra 2 - Captura del Videojuego")
+
+Theatre of War 2: Africa 1943 cubre los eventos de 1943 en Túnez, África del Norte. Al recuperarse de sus pérdidas después de la aplastante derrota y la posterior retirada después de la Segunda Batalla de El-Alamein, el alemán Afrika Korps, reforzado y ahora apoyado por el ejército italiano, se prepara una vez más para poner acero contra acero con los Aliados. Las fuerzas del Eje, bajo el mando del legendario general Erwin Rommel, tienen una oportunidad demasiado breve para tomar la victoria de las garras de sus fracasos anteriores. Los jugadores liderarán a Afrika Korps de Rommel en su última campaña militar a gran escala y comandarán a los ejércitos inglés y estadounidense mientras intentan expulsar a las fuerzas del Eje de África de una vez por todas.
+
+[🎮 DESCARGA OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/theatre-of-war-2-africa-1943/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## UberSoldier II \ IndieGala
+
+![UberSoldier II - Captura del Videojuego](https://i.ytimg.com/vi/LKgdgidBGGE/maxresdefault.jpg "UberSoldier II - Captura del Videojuego")
+
+Un grupo muy unido de generales y oficiales de las SS, involucrado en los hechos más atroces y oscuros, está buscando una manera de salvar a los restos del Tercer Imperio. Han conspirado para trasladar a los líderes del Reich, junto con recursos preciosos y equipo clasificado, a un escondite remoto en las montañas tibetanas.
+
+[🎮 DESCARGA OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/ubersoldier-ii/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## Mahjong Strip Solitario \ IndieGala
+
+![Mahjong Strip Solitario](https://i.ibb.co/n0sBKCK/20170105164445-1.jpg)
+
+Sencillo juego de Mahjong que integra como sus objetivos el dejar en bikini a diferentes personajes de aspecto Manga.
+
+[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/mahjong-strip-solitaire/?dev_id=freebies "Puzzle de Mahjong"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## Lady´s Hentai Mosaic \ IndieGala
+
+![Puzzle de Hentai](https://i.ibb.co/x74xBhh/image.png)
+
+Lady's Hentai Mosaic es un juego en el que debes armar correctamente un mosaico para restaurar las imágenes de las chicas. Al pasar los niveles, abrirás oportunidades para quitar más y más ropa de las chicas.
+
+Lady's Hentai Mosaic no es un producto de naturaleza pornográfica, por lo que no hay escenas de relaciones sexuales o escenas con un contexto sexualmente sugerente.
+
+La función clave del juego es la descomposición de los fragmentos de mosaico. El progreso a través de los niveles llena la escala de desvestirse: el jugador abre gradualmente diferentes grados de desvestirse.
+
+[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/ladys-hentai-mosaic/?dev_id=freebies "Puzzle de Mosaicos Hentais"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+## Crab Due \ IndieGala
+
+En el fondo del océano es donde reina el malvado Dr. Taco. Su mayor sueño es conquistar todo el océano. Junto con su socio comercial, el Sr. Rhino, patrocinan un proyecto de alta tecnología llamado «Crab Dub».
+
+El objetivo final del proyecto es crear un ejército de Cangrejos Cibernéticos que sirva fielmente al Dr. Taco..
+
+![](https://i.ibb.co/h7Mq9L0/image.png "Caracoles y cangrejos en su versión más pixelada xd")
+
+[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/crab-dub/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+
+[🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ### Quibic: Juego Gratis Cada Día
 
