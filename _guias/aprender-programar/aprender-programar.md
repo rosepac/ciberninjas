@@ -30,7 +30,7 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 {: .notice--info}
 
 <details>
-<summary>MENÚ 👇</summary>
+<summary><h2>MENÚ 👇</h2></summary>
 <br/>
 <nav class="menu">
   <ol>
@@ -38,7 +38,7 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
     <li><a href="/programar/#en-qué-campo-de-la-informática-trabajar">En qué campo de la informática trabajar</a></li>
     <li><a href="/programar/#qué-lenguaje-aprender">Qué lenguaje de programación aprender</a></li>
     <li><a href="/programar/#qué-lenguajes-evitar">Qué lenguajes de programación evitar</a></li>
-    <li><a href="/programar/#qué-puestos-de-trabajo-existen">De qué trabaja un programador</a></li>
+    <li><a href="/programar/#la-programación-en-la-actualidad">La programación en la actualidad</a></li>
     <li><a href="/programar/#qué-puestos-de-trabajo-existen">De qué trabaja un programador</a></li>
     <li><a href="/programar/#qué-tecnologías-y-herramientas-debo-aprender">Qué tecnologías y herramientas debo aprender</a></li>
     <li><a href="/programar/#los-lenguajes-imprescindibles-de-2020">Qué lenguajes de programación son Imprescindibles en 2020</a></li>
