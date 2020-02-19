@@ -10,7 +10,7 @@ last_modified_at:
 header:
   teaser: /assets/images/lenguajes-vs/ai-vs-ml-vs-dp.webp
 permalink: /diferencias-entre-ai-ml-dl/
-canonical_URL: /diferencias-entre-ai-ml-dl/
+canonical_URL: https://ciberninjas.com/diferencias-entre-ai-ml-dl/
 classes: wide
 categories:
 - Inteligencia Artificial
