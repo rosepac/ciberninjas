@@ -1,6 +1,6 @@
 ---
 author_profile: true
-title: "🥇 ▷ Videojuegos gratis para descargar durante 2020"
+title: "🥇 ▷ Videojuegos gratis para descargar 2020"
 description: "🔥 Las mejores páginas de videojuegos gratuitos para jugar en PC, online o descargar durante todos los meses del año"
 excerpt: "🔥 Las mejores páginas de videojuegos gratuitos para jugar en PC, online o descargar durante todos los meses del año"
 permalink: /videojuegos-gratis/
