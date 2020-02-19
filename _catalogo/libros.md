@@ -207,6 +207,15 @@ sidebar:
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+## Java
+
+* JAVA. Curso práctico de formación (2018)
+  * https://amzn.to/2P6vViM
+* Java para niñ@s: Aprende a programar y crea tus propios proyectos con Java 8 (2017)
+  * https://amzn.to/2vJkK8X
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717065&linkId=28ff61008c3614758f71180a36d9f6b5"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1549844547&linkId=12eb68a2f97cc3a421d2ae3a3d1009c1"></iframe>
+
 ## Go
 
 [📖 Los Libros Más Impresionantes de Go](/los-libros-mas-impresionantes-sobre-go/){: .btn .btn--primary .btn--large}
@@ -228,6 +237,15 @@ sidebar:
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1789138418&linkId=63524125fc2e2229f7456b87fdc82812"></iframe>
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## Diseño Gráfico
+
+* Fotomontaje creativo (Photoclub) (2019)
+  * https://amzn.to/329dEGI
+* Domina el retoque con photoshop (2018)
+  * https://amzn.to/39RmV9d
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541965&linkId=c66ddf56977d880f3f72b53666ab1524"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8415131887&linkId=16c7f56fdae106265890c10432df0fc4"></iframe>
 
 ## Diseño Web
 
@@ -363,6 +381,8 @@ sidebar:
 
 * Superpotencias de la inteligencia artificial: China, Silicon Vall.. - Kai Fu Lee
   * https://amzn.to/3bNQBWw
+* Hola mundo: Cómo seguir siendo humanos en la era de los algoritmos - Hannah Fry (2019)
+  * https://amzn.to/39GAyrr
 
 ## 👷‍♂️ Webmaster
 
