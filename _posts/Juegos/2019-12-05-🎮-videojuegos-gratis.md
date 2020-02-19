@@ -66,13 +66,13 @@ Se actualizan con frecuencia \ Actualmente: Die Young, The Fan, Waste Walker, Su
 * [Boot de Twitter de Videojuegos Gratis](https://twitter.com/FreeGames_BOT){:target="_blank"}
 <!-- Actualizar https://www.fanbyte.com/trending/epic-games-store-free-games-list/ -->
 
+Juegos y Aplicaciones de Android. Actualmente: College Days, Zombie Age 3 PRemium, Slime Pang.. Starman in space
+
 [📲 JUEGOS DE ANDROID GRATIS A DIARIO 📲](https://android.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
-Actualmente: College Days, Zombie Age 3 PRemium, Slime Pang.. Starman in space
+Juegos y aplicaciones de Iphone. Actualmente: spinny Monster, NewfyMoji, Cross Section Engineer, Drop Flop!, A Florist, Shopkins..
 
 [📲 JUEGOS DE IPHONE GRATIS A DIARIO 📲](https://iphone.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-
-Actualmente: spinny Monster, NewfyMoji, Cross Section Engineer, Drop Flop!, A Florist, Shopkins..
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -88,19 +88,18 @@ Actualmente: spinny Monster, NewfyMoji, Cross Section Engineer, Drop Flop!, A Fl
 
 ## Epic Games
 
-Epic Games lleva unos días, y va a seguir regalando un videojuego por cada día que pase..
+Epic Games tiene planeado regalar 4 juegos a lo largo del mes de Febrero; en la actualidad están regalando Kingdom Come y Aztez. Próximamente: Faeria y Assasin Creed Syndicate.
 
 ![Kingdom Come y Aztez. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games](https://i.ibb.co/Hh9C4SD/image.png "Kingdom Come y Aztez. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games")
-
-En la actualidad están regalando Kingdom Come y Aztez.
 
 [🎮 DESCARGALOS 🎮](https://kutt.it/videojuegos-gratis){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
 ## Otros Juegos Gratis de Epic Games
 
-![](https://i.ibb.co/PCL7f9Y/image.png)
+Además Epic Games suele tener otros juegos gratuitos de forma constante, ahora mismo puedes encontrar..
+ Magic: The Gathering Arena, Auto Chess, Battle Breakers, The Cycle, Dauntless y Fortnite.
 
-* Magic: The Gathering Arena, Auto Chess, Battle Breakers, The Cycle, Dauntless y Fortnite.
+![](https://i.ibb.co/PCL7f9Y/image.png)
 
 ### Auto Chess
 
