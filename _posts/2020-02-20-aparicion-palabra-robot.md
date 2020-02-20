@@ -13,7 +13,7 @@ title: '🤖 ▷ Cuándo y dónde aparece por primera vez la palabra robots'
 description: >-
   'Conocer dónde y cuándo aparece por primera vez la denominación de robots'
 excerpt: >-
-  ''
+  'Conocer dónde y cuándo aparece por primera vez la denominación de robots'
 canonical_URL: https://ciberninjas.com/aparicion-palabra-robot/
 permalink: /aparicion-palabra-robot/
 date: 2020-02-20 18:30:32
@@ -22,7 +22,7 @@ published: true
 
 ---
 
-![Robot que aparece en la histórica obra de teatro creada por Karel Capek](/assets/images/rur-robot_perviy.webp "Robot que aparece en la histórica obra de teatro creada por Karel Capek")
+![Robot que aparece en la histórica obra de teatro creada por Karel Capek](/assets/images/blog/rur-robot_perviy.webp "Robot que aparece en la histórica obra de teatro creada por Karel Capek")
 
 En la actualidad, estamos muy familiarizados con **los robots**: esas máquinas que poseen inteligencia artificial y realizan tareas que los humanos encuentran arduas o simplemente poco atractivas. Lo que quizás no sepas es que **la palabra robot** nace derivada de las palabras usadas en checo para definir el trabajo forzado / "forced labour".
 
