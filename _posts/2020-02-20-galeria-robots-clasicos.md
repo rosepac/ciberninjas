@@ -8,7 +8,7 @@ tags:
 categories:
 - Robótica
 header:
-  teaser: /assets/images/blog/rur-robot_perviy.webp
+  teaser: /assets/images/blog/robots/2-bis-robots-2.jpg
 title: '🤖 ▷ Una espectacular galería de robots históricos'
 description: >-
   Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro
@@ -21,10 +21,6 @@ last_modified_at:
 published: true
 
 ---
-
-![Robot que aparece en la histórica obra de teatro creada por Karel Capek](/assets/images/blog/rur-robot_perviy.webp "Robot que aparece en la histórica obra de teatro creada por Karel Capek")
-
-**Uno de los robots de las obras de teatro RUR..**
 
 Queridos amigos, hoy nos encontraremos con nuestros robots históricos; todavía no pueden tomar el poder sobre el mundo, pero entonces ya lograban encender un cigarrillo. Algo es algo.. ¡Vamos a echarles un ojo!
 
