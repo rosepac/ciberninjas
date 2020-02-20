@@ -56,7 +56,15 @@ sidebar:
 ## 🧸 Juguetes
 
 ### Robots
-- [SGILE Robot Recargable](https://amzn.to/2LF4zPh)
+- LEGO Mindstorms - EV3, Set de Robots de Juguete 5 en 1 Programables con Servo Motor y Bluetooth
+  - https://amzn.to/2Pbw9Fk
+- Robot educativo 3 en 1: Makeblock 90092 mBot Ranger. Programable con Arduino Scr
+  - https://amzn.to/2SIJiYp
+- Robot WEEEBOT Orange V1.0 - Programable con Scratch
+  - https://amzn.to/2v1zIqK
+- [SGILE Robot Juguete](https://amzn.to/2Pbu2Bo)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01DY3OTHO&linkId=039be23fe2a90064f60889cd3e82841a"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00BMKLVJ6&linkId=e114b86dd7fad70d296d830ea34c78f6"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07JGSJ116&linkId=5f4caeaf0280bb66a2e0bbd83845c671"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B083LGKTD8&linkId=1f791e60d7cf24b8cf25e91bf11fe305"></iframe>
 
 ## ☕ Tazas
 

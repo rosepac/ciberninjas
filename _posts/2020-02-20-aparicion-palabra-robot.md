@@ -18,7 +18,7 @@ canonical_URL: https://ciberninjas.com/aparicion-palabra-robot/
 permalink: /aparicion-palabra-robot/
 date: 2020-02-20 18:30:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
@@ -28,7 +28,7 @@ En la actualidad, estamos muy familiarizados con **los robots**: esas máquinas 
 
 La palabra robot en sí, se utilizó por primera vez para referirse a un humanoide artificial en **la obra teatral RUR** escrita en 1920 por **Karel Čapek**, que se estrenó el 25 de enero de 1921. Hace ya más de 100 años. El acrónimo es equivalente al significado de  "Rossumovi Univerzální Roboti"  y traducido al español vendría a ser: Los Robots Universales de Rossum. 
 
-**Saber Más**: [📹 ¿Merecen derechos los Robots? ¿Qué pasaría si las máquinas se vuelven conscientes? 🤖](/merecen-derecho-los-robos/ "Merecen derechos los Robots, que pasaría si las máquinas se vuelven conscientes")
+**Saber Más**: [🤖 ▷ Una espectacular galería de robots históricos](/galeria-de-robots/), [📹 ¿Merecen derechos los Robots? ¿Qué pasaría si las máquinas se vuelven conscientes? 🤖](/merecen-derecho-los-robos/ "Merecen derechos los Robots, que pasaría si las máquinas se vuelven conscientes")
 {: .notice--primary}
 
 Los **robots en RUR** no eran dispositivos mecánicos. si no que, representaban organismos biológicos artificiales parecidos a los humanos y podían confundirse con ellos. En la más reciente serie de televisión (tres temporadas y finalizada en 2018) llamada [Humanos](https://www.filmaffinity.com/es/film474140.html "Serie de televisión Humanos"){:target="_blank"} ([por si te es imposible de encontrar](https://www.megadede.com/serie/humans){:target="_blank"}), a tales criaturas se las denominaba "sintetizadores"; en [Battlestar Galactica](https://www.megadede.com/serie/battlestar-galactica-2003){:target="_blank"} eran "Cylons (un nombre de una civilización inventada)" y en [Blade Runner](https://www.filmaffinity.com/es/film236626.html "Ver la película Blade Runner en Filmaffinity") eran "replicantes".

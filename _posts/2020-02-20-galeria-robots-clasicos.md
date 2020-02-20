@@ -9,7 +9,7 @@ categories:
 - Robótica
 header:
   teaser: /assets/images/blog/rur-robot_perviy.webp
-title: '🤖 ▷ Una espectacular galería de robots clásicos'
+title: '🤖 ▷ Una espectacular galería de robots históricos'
 description: >-
   'Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro'
 excerpt: >-
@@ -33,7 +33,7 @@ Más adelante, espero dedicarles un poco más tiempo, para investigar la histori
 **Saber Más**: [🤖 ▷ Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/), [📹 ¿Merecen derechos los Robots? ¿Qué pasaría si las máquinas se vuelven conscientes? 🤖](/merecen-derecho-los-robos/ "Merecen derechos los Robots, que pasaría si las máquinas se vuelven conscientes")
 {: .notice--primary}
 
-![1928 - ](../assets/images/blog/robots/1928-robots-13.jpg)
+![](../assets/images/blog/robots/1928-robots-13.jpg)
 
 **Año 1928**: Eric, un robot creado por el inventor Richardson; capaz de sentarse, levantarse, dar la mano e incluso reproducir una grabación.
 
