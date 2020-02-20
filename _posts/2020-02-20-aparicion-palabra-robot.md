@@ -39,7 +39,7 @@ La obra, que se desarrolla alrededor del supuesto año 2000, comienza en una fá
 
 En tan dos años, la obra fue traducida a 30 idiomas y se represento con éxito en Londres y en numerosas ciudades de los Estados Unidos. En Nueva York, por ejemplo, se realizaron 184 actuaciones en una producción en la que [Spencer Tracy](https://es.wikipedia.org/wiki/Spencer_Tracy "Wikipedia del actor estadounidense Spencer Tracy"){:target="_blank"} (con más de 50 películas en su haber, 2 Oscars y 9 nominaciones) y [Pat O'Brien](https://es.wikipedia.org/wiki/Spencer_Tracy "Wikipedia del actor estadounidense Pat O´Brien"){:target="_blank"} (con más de 100 películas en su carrera), debutaron en Broadway interpretando a robots.
 
-Aunque aclamado por la crítica como uno de los más importantes títulos clásicos de la ciencia ficción, no encontró el favor de **Isaac Asimov**: El aclamado y reconocido por todos, autor de "Yo, Robot" quien declaró sobre esta obra teatral:
+Aunque aclamado por la crítica como uno de los más importantes títulos clásicos de la ciencia ficción, no encontró el favor de **Isaac Asimov**: El aclamado y reconocido por todos, autor de "[Yo, Robot](https://amzn.to/2HKiO2o){:target="_blank"}" quien declaró sobre esta obra teatral:
 
 > "La obra de Capek es, en mi opinión, terriblemente mala, pero es inmortal para la palabra robot. Contribuyó con la palabra 'robot' no solo al inglés, sino a través del inglés; a todos los idiomas a los que la ciencia ficción es capaz de alcanzar en la actualidad."
 > Isaac Asimov
