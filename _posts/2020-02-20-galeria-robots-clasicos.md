@@ -11,9 +11,9 @@ header:
   teaser: /assets/images/blog/rur-robot_perviy.webp
 title: '🤖 ▷ Una espectacular galería de robots clásicos'
 description: >-
-  'Fotografías encontradas sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro'
+  'Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro'
 excerpt: >-
-  ''
+  'Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro'
 canonical_URL: https://ciberninjas.com/galeria-de-robots/
 permalink: /galeria-de-robots/
 date: 2020-02-20 18:25:32
@@ -22,19 +22,22 @@ published: true
 
 ---
 
-![Robot que aparece en la histórica obra de teatro creada por Karel Capek](/assets/images/rur-robot_perviy.webp "Robot que aparece en la histórica obra de teatro creada por Karel Capek")
+![Robot que aparece en la histórica obra de teatro creada por Karel Capek](/assets/images/blog/rur-robot_perviy.webp "Robot que aparece en la histórica obra de teatro creada por Karel Capek")
 
-Queridos amigos, hoy nos encontraremos con nuestros robots retro. Todavía no pueden tomar el poder sobre el mundo, pero entonces ya lograban encender un cigarrillo; algo es algo.
+Queridos amigos, hoy nos encontraremos con nuestros robots retro; todavía no pueden tomar el poder sobre el mundo, pero entonces ya lograban encender un cigarrillo. Algo es algo.. ¡Vamos a echarle un ojo!
 
-1928 Eric, un robot creado por el inventor Richardson, puede sentarse, pararse, darse la mano, reproducir una grabación del discurso.
+**Saber Más**: [🤖 ▷ Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/), [📹 ¿Merecen derechos los Robots? ¿Qué pasaría si las máquinas se vuelven conscientes? 🤖](/merecen-derecho-los-robos/ "Merecen derechos los Robots, que pasaría si las máquinas se vuelven conscientes")
+{: .notice--primary}
+
+**Año 1928**: Eric, un robot creado por el inventor Richardson, puede sentarse, pararse, darse la mano, reproducir una grabación del discurso.
 
 ![1928 - ](../assets/images/blog/robots/1928-robots-13.jpg)
 
-Año 1931. Willie en la ceremonia de inauguración de Ford trimotor National Air Transport, Aeropuerto de Newark
+**Año 1931**: Willie en la ceremonia de inauguración de Ford trimotor National Air Transport, Aeropuerto de Newark
 
 ![](../assets/images/blog/robots/2-bis-robots-2.jpg)
 
-Año 1934. Compradores en una tienda por departamentos en Londres escuchando un robot adivino.
+**Año 1934**: Compradores en una tienda por departamentos en Londres escuchando un robot adivino.
 
 ![](../assets/images/blog/robots/1-robots-4.jpg)
 
@@ -42,7 +45,7 @@ Entrenador de golf mecanizado para organizar un tiro.
 
 ![](../assets/images/blog/robots/2-robots-1.jpg)
 
-Año 1932. Alpha Robot creado por Harry May. Capaz de responder a los comandos de voz. "Levántate" y "Levanta la mano"
+**Año 1932**: Alpha Robot creado por Harry May. Capaz de responder a los comandos de voz. "Levántate" y "Levanta la mano"
 
 ![](../assets/images/blog/robots/3-robots-14.jpg)
 
@@ -58,19 +61,19 @@ Bette Davis habla con el robot John, que según su inventor Earl of Kent puede c
 
 ![](../assets/images/blog/robots/6-robots-3.jpg)
 
-Año 1934. Chicas posando con un robot creado por Leighton Gilbert
+**Año 1934**: Chicas posando con un robot creado por Leighton Gilbert
 
 ![](../assets/images/blog/robots/7-robots-19.jpg)
 
-Año 1934. El inventor está celoso de su creación
+**Año 1934**: El inventor está celoso de su creación
 
 ![](../assets/images/blog/robots/8-robots-16.jpg)
 
-Año 1938. Electro Robot en la Feria Mundial de Nueva York
+**Año 1938**: Electro Robot en la Feria Mundial de Nueva York
 
 ![](../assets/images/blog/robots/9-robots-5.jpg)
 
-Año 1939. El inventor Charles Lawson enciende un cigarrillo para su robot
+**Año 1939**: El inventor Charles Lawson enciende un cigarrillo para su robot
 
 ![](../assets/images/blog/robots/10-robots-6.jpg)
 
@@ -78,55 +81,55 @@ Niños en el norte de Hampshire, Inglaterra, se encuentran con un robot Charles 
 
 ![](../assets/images/blog/robots/11-robots-7.jpg)
 
-1940 años. El ingeniero Westinghouse carga un hot dog en un perro robótico
+**Año 1940**: El ingeniero Westinghouse carga un hot dog en un perro robótico
 
 ![](../assets/images/blog/robots/12-robots-21.jpg)
 
-1940 años. Robot Electro y su perro robótico Sparko
+**Año 1940**: Robot Electro y su perro robótico Sparko
 
 ![](../assets/images/blog/robots/13-robots-20.jpg)
 
-Año 1952. El robot Robert juega a las cartas con Denis Hamilton y Diana Dors
+**Año 1952**: El robot Robert juega a las cartas con Denis Hamilton y Diana Dors
 
 ![](../assets/images/blog/robots/14-robots-8.jpg)
 
-Año 1952. Robot Louis invento de dos ingenieros suizos que intentan aprender a bailar. Y, por supuesto, ella pisa el pie de su compañero
+**Año 1952**: Robot Louis invento de dos ingenieros suizos que intentan aprender a bailar. Y, por supuesto, ella pisa el pie de su compañero
 
 ![](../assets/images/blog/robots/15-robots-28.jpg)
 
-Año 1954. La cantante Jeanne Dowling enciende un cigarrillo a Robot Electro
+**Año 1954**: La cantante Jeanne Dowling enciende un cigarrillo a Robot Electro
 
 ![](../assets/images/blog/robots/16-robots-22.jpg)
 
-Año 1955. Robot Sabor enciende un cigarrillo para una mujer en una tienda por departamentos en Munich
+**Año 1955**: Robot Sabor enciende un cigarrillo para una mujer en una tienda por departamentos en Munich
 
 ![](../assets/images/blog/robots/17-robots-23.jpg)
 
-Año 1964. El inventor Klaus Scholz con sus robots MM7 y MM8. Se pueden controlar desde el control remoto por cable
+**Año 1964**: El inventor Klaus Scholz con sus robots MM7 y MM8. Se pueden controlar desde el control remoto por cable
 
 ![](../assets/images/blog/robots/18-robots-29.jpg)
 
-Año 1964. MM7 responde por teléfono en lugar de su creado
+**Año 1964**: MM7 responde por teléfono en lugar de su creado
 
 ![](../assets/images/blog/robots/19-robots-24.jpg)
 
-1975 año. El Robot Tinker de Denis Weston le lava un automóvil. El robot contiene 120 motores eléctricos y se controla de forma remota
+**Año 1975**: El Robot Tinker de Denis Weston le lava un automóvil. El robot contiene 120 motores eléctricos y se controla de forma remota
 
 ![](../assets/images/blog/robots/20-robots-11.jpg)
 
-1980 año. El robot de Peter Holland, Sr. Roboham el Grande, se controla de forma remota
+**Año 1980**: El robot de Peter Holland, Sr. Roboham el Grande, se controla de forma remota
 
 ![](../assets/images/blog/robots/21-robots-27.jpg)
 
-1980 año. El robot de Peter Holland, Sr. Roboham el Grande, junto a un niño
+**Año 1980**: El robot de Peter Holland, Sr. Roboham el Grande, junto a un niño
 
 ![](../assets/images/blog/robots/22-bis-robots-26.jpg)
 
-1981 año. El robot de Jeffrey Harper llamado Arthur. Destinado a pasear perros
+**Año 1981**: El robot de Jeffrey Harper llamado Arthur. Destinado a pasear perros
 
 ![](../assets/images/blog/robots/22-robots-25.jpg)
 
-1981 año. Robobuck Steve Brooks de Londres
+**Año 1981**: Robobuck Steve Brooks de Londres
 
 ![](../assets/images/blog/robots/23-robots-12.jpg)
 
