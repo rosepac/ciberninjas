@@ -443,5 +443,5 @@ La exploración generalmente implica explorar varias etapas, con algunos gigante
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-[📰 Noticias Videojuegos](/directo/){: .btn .btn--warning .btn--large .align-center}
+[📰 Noticias Videojuegos](/directo/#-videojuegos){: .btn .btn--warning .btn--large .align-center}
 [🎨 Wallpapers](https://ibb.co/album/bKkgdv){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}

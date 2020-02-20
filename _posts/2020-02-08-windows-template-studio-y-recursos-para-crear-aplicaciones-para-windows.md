@@ -235,5 +235,5 @@ Toda la documentación para el kit de herramientas está alojada en [Microsoft D
 
 Este código se distribuye bajo los términos y condiciones de la [licencia MIT](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/LICENSE.md){:target="_blank"}.
 
-**Fuente**\: [Github](https://github.com/Microsoft/WindowsTemplateStudio/){:target="_blank"}
+**Fuente**\: [Github](https://github.com/Microsoft/WindowsTemplateStudio/ "Repositorio de Github de Windows Template Studio"){:target="_blank"}
 {: .notice--info}

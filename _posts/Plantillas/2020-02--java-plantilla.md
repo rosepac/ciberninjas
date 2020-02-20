@@ -6,10 +6,10 @@ classes: wide
 tags:
 - 
 categories:
-- Aprendizaje Automático
+- Java
 header:
-  teaser: /assets/images/frameworks-ai/tensorflow-ciberninjas.png
-title: '🤖 ▷ '
+  teaser: /assets/images/blog/
+title: '🚀 ▷ '
 description: >-
   ''
 excerpt: >-
@@ -53,6 +53,13 @@ published: false
 
 <!-- contenido -->
 
+## Licencia
+
+Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.org/wiki/Apache_License "Licencia Apache 2.0")**.
+
+**Fuente**\: []( ""){:target="_blank"}
+{: .notice--info}
+
 ## Relacionados
 
 * [Diferencias entre AI, ML y DL](/diferencias-entre-ai-ml-dl/)
@@ -60,6 +67,3 @@ published: false
 * [Crea un Chatbot con Tensorflow](/chatbot-tensorflow-con-jap-software/) 
 * [▷ 11 Fórmulas de comenzar el proceso de aprender programación de Inteligencia Artificial para principiantes](/11-aprendizajes-principiantes-inteligencia-artificial/)
 * [▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
-
-**Fuente**\: []( ""){:target="_blank"}
-{: .notice--info}

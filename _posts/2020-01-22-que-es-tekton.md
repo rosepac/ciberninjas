@@ -153,3 +153,4 @@ _____
 
 * [Noticias Tekton CD Fundación](https://cd.foundation/blog/2019/12/12/whats-new-in-tekton-0-9/){:target="_blank"}
 * [Repositorio de Github de Tekton Tuberías](https://github.com/tektoncd/pipeline#-tekton-pipelines){:target="_blank"}
+{: .notice--info}
