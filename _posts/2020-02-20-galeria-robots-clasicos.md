@@ -11,9 +11,9 @@ header:
   teaser: /assets/images/blog/rur-robot_perviy.webp
 title: '🤖 ▷ Una espectacular galería de robots históricos'
 description: >-
-  'Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro'
+  Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro
 excerpt: >-
-  'Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro'
+  Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro
 canonical_URL: https://ciberninjas.com/galeria-de-robots/
 permalink: /galeria-de-robots/
 date: 2020-02-20 18:25:32

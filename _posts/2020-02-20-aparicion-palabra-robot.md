@@ -11,9 +11,9 @@ header:
   teaser: /assets/images/blog/rur-robot_perviy.webp
 title: '🤖 ▷ Cuándo y dónde aparece por primera vez la palabra robots'
 description: >-
-  'Conocer dónde y cuándo aparece por primera vez la denominación de robots'
+  Conocer dónde y cuándo aparece por primera vez la denominación de robots
 excerpt: >-
-  'Conocer dónde y cuándo aparece por primera vez la denominación de robots'
+  Conocer dónde y cuándo aparece por primera vez la denominación de robots
 canonical_URL: https://ciberninjas.com/aparicion-palabra-robot/
 permalink: /aparicion-palabra-robot/
 date: 2020-02-20 18:30:32
