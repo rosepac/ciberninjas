@@ -48,12 +48,8 @@ Las mejores páginas web del mundo en las que vas a poder encontrar tanto los vi
 * [Steem Videojuegos Gratis](https://kutt.it/videojuegos-gratis-steem){:target="_blank"} 87 Juegos
 * [Epic Games Videojuegos Gratis](https://kutt.it/videojuegos-gratis){:target="_blank"}
 * [GOG Videojuegos Gratis](https://kutt.it/videojuegos-gratis-gog){:target="_blank"}
-* [Indie Gala Juegos Gratis](https://kutt.it/videojuegos-gratis-indie-gala){:target="_blank"}
-
-Se actualizan con frecuencia \ Actualmente: Die Young, The Fan, Waste Walker, Super Panda, Jasem Puzzle.
-
+* [Indie Gala Juegos Gratis](https://kutt.it/videojuegos-gratis-indie-gala){:target="_blank"}: Se actualizan con frecuencia \ Actualmente: Die Young, The Fan, Waste Walker, Super Panda, Jasem Puzzle.
 * [Itch io](https://kutt.it/itch-videojuegos-alternativos-gratis) \ 
-
 * Reddit \ [FreeGameFindings](https://kutt.it/vg-reddit-1){:target="_blank"} \ [Free Games](https://kutt.it/vg-reddit-2){:target="_blank"} 
 
 ## Juegos Gratis para PC y Móviles 📲
