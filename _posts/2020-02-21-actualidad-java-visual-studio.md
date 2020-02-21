@@ -4,9 +4,9 @@ author_profile: true
 comments: true
 classes: wide
 tags:
-- 
-categories:
 - Java
+categories:
+- Actualidad
 header:
   teaser: /assets/images/blog/
 title: '💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020'
