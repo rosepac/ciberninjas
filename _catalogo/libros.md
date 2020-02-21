@@ -6,6 +6,7 @@ published: true
 date: 2019-09-23 22:10:09
 last_modified_at: 2019-12-10
 author_profile: false
+classes: wide
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -109,10 +110,17 @@ sidebar:
 
 ## Android <i class="fab fa-android"></i>
 
-* [ANDROID STUDIO. Aprende a desarrollar aplicaciones](https://amzn.to/2LgDjFu){:target="_blank"}
+* [El Gran Libro de Android - 7ª ED](https://amzn.to/2Pz5cOu){:target="_blank"} (2019)
+* [Desarrollo de aplicaciones para Android](https://amzn.to/2VaoniT){:target="_blank"} (2018)
+* [Desarrolle una aplicación android. Programación en Java con Android Studio](https://amzn.to/2HH8TuP){:target="_blank"} (2018)
+* [Android Studio. Aprende a desarrollar aplicaciones](https://amzn.to/2LgDjFu){:target="_blank"}
+* [Plataformas Android: Wear, TV, Auto y Google Play Games](https://amzn.to/2LbZUUM){:target="_blank"} (2018)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726623&linkId=0d517a5c36d84c2d92ddfd99c7d33806"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441538921&linkId=156686933d757a8aedf3cfe4dc1d2715"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=240901447X&linkId=227b72c11e15bbd7ad712bf2cb3ceafc"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717014&linkId=5a6136db4c875be417303208017f9e70"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8426726631&linkId=ca99853282436c05a9d8714916b76089"></iframe>
+
 * [Aprende a programar con KOTLIN](https://amzn.to/2Lgibk1){:target="_blank"}
-* [EL GRAN LIBRO DE ANDROID 7ª ED](https://amzn.to/2Pz5cOu){:target="_blank"}
-* [Plataformas Android: Wear, TV, Auto y Google Play Games](https://amzn.to/2LbZUUM){:target="_blank"}
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717022&linkId=e874cd4066972fa08858d0aad097796e"></iframe>
 
 ## PHP Framework <i class="fab fa-php"></i>
 

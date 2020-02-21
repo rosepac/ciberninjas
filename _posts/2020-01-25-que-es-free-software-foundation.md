@@ -10,7 +10,7 @@ last_modified_at:
 header:
   teaser: /assets/images/blog/fsf-svg.webp
 permalink: /que-es-free-software-foundation/
-canonical_URL: https://www.fsf.org/es/about
+canonical_URL: https://ciberninjas.com/que-es-free-software-foundation/
 classes: wide
 categories:
 - Fundaciones
