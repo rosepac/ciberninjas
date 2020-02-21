@@ -22,7 +22,7 @@ header:
 #      url: "/disney-frozen-amazon/"
 comments: true
 date: 2019-12-05 18:00:00 +0200
-last_modified_at: 2020-02-19 17:30:18 +0200
+last_modified_at: 2020-02-21 13:39:18 +0200
 published: true
 tags:
   - Videojuegos
@@ -45,20 +45,16 @@ Esta es una pequeña recopilación de las mejores páginas web en las que encont
 ## Páginas de Videojuegos Gratis 🎁
 
 Las mejores páginas web del mundo en las que vas a poder encontrar tanto los videojuegos que siempre son totalmente gratuitos; como así, las mejores promociones de juegos gratuitos periódicamente.
-
-## [Steem Videojuegos Gratis](https://kutt.it/videojuegos-gratis-steem){:target="_blank"} 87 Juegos
-
-## [Epic Games Videojuegos Gratis](https://kutt.it/videojuegos-gratis){:target="_blank"}
-
-## [GOG Videojuegos Gratis](https://kutt.it/videojuegos-gratis-gog){:target="_blank"}
-
-## [Indie Gala Juegos Gratis](https://kutt.it/videojuegos-gratis-indie-gala){:target="_blank"}
+* [Steem Videojuegos Gratis](https://kutt.it/videojuegos-gratis-steem){:target="_blank"} 87 Juegos
+* [Epic Games Videojuegos Gratis](https://kutt.it/videojuegos-gratis){:target="_blank"}
+* [GOG Videojuegos Gratis](https://kutt.it/videojuegos-gratis-gog){:target="_blank"}
+* [Indie Gala Juegos Gratis](https://kutt.it/videojuegos-gratis-indie-gala){:target="_blank"}
 
 Se actualizan con frecuencia \ Actualmente: Die Young, The Fan, Waste Walker, Super Panda, Jasem Puzzle.
 
-## [Itch io](https://kutt.it/itch-videojuegos-alternativos-gratis) \ 
+* [Itch io](https://kutt.it/itch-videojuegos-alternativos-gratis) \ 
 
-## Reddit \ [FreeGameFindings](https://kutt.it/vg-reddit-1){:target="_blank"} \ [Free Games](https://kutt.it/vg-reddit-2){:target="_blank"} 
+* Reddit \ [FreeGameFindings](https://kutt.it/vg-reddit-1){:target="_blank"} \ [Free Games](https://kutt.it/vg-reddit-2){:target="_blank"} 
 
 ## Juegos Gratis para PC y Móviles 📲
 
@@ -91,9 +87,9 @@ Juegos y aplicaciones de Iphone. Actualmente: spinny Monster, NewfyMoji, Cross S
 
 ## Epic Games
 
-Epic Games tiene planeado regalar 4 juegos a lo largo del mes de Febrero; en la actualidad están regalando Kingdom Come y Aztez. Próximamente: Faeria y Assasin Creed Syndicate.
+Epic Games tiene 2 videojuegos totalment gratis hasta el día 27 de Febrero: Faeria y Assasin Creed Syndicate.
 
-![Kingdom Come y Aztez. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games](https://i.ibb.co/Hh9C4SD/image.png "Kingdom Come y Aztez. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games")
+![Kingdom Come y Aztez. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games](https://i.ibb.co/vZpj3FV/image.png "Faeria y Assasin Creed Syndicate Gratuitos. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games")
 
 [🎮 DESCARGALOS 🎮](https://kutt.it/videojuegos-gratis){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
 
