@@ -10,7 +10,7 @@ categories:
 - Inteligencia Artificial
 header:
   teaser: /assets/images/blog/adobe-photoshop-1.webp
-title: '🔥 ▷ Adobe Photoshop cumple 30 años, celebrandolo con nuevas funciones basadas en la Inteligencia Artificial'
+title: '🔥 ▷ Adobe Photoshop cumple 30 años, celebrándolo con nuevas funciones basadas en la Inteligencia Artificial'
 description: >-
   El software de diseño y fotografía Photoshop crea nuevas funciones basadas en la inteligencia artificial para celebrar su aniversario de su 30 cumpleaños
 excerpt: >-
@@ -41,11 +41,11 @@ En comparación con los usuarios de escritorio, los usuarios de Photoshop para i
 
 En los últimos años, Adobe se ha centrado mucho más en sus productos móviles. El año pasado, además de Photoshop para iPad, la compañía también lanzó [Fresco](https://www.adobe.com/in/products/fresco.html){:target="_blank"}; una aplicación de pintura para usuarios de dispositivos de Apple e invirtió en herramientas para detectar si una foto ha sido manipulada o no.
 
-En una entrevista reciente publicada en "The Verge" , el  director de la compañía, Scott Belsky, señaló que los productos móviles de la compañía también estaban creciendo; y agregó que Photoshop Express ya tenía más de 20 millones de usuarios.
+En una entrevista reciente publicada en "The Verge", el  director de la compañía, Scott Belsky, señaló que los productos móviles de la compañía también estaban creciendo; y agregó que Photoshop Express ya tenía más de 20 millones de usuarios.
 
 Desde el punto de vista de una persona que no sea diseñador, ni fotógrafo; es muy posible que no me le interesen todas las funciones de Photoshop. Pero sí me dedico a la creación de memes y a la edición ligera de fotos para mis historias o redes sociales.
 
-Con seguridad las nuevas versiones del software más rápidas y enfocadas incluso para ser utilizadas desde dispositivos móviles; serán una genial opción para mí, y miles de usuarios más.
+Con seguridad las nuevas versiones de software más rápidas y enfocadas incluso para ser utilizadas desde dispositivos móviles; serán una genial opción para mí, y miles de usuarios más.
 
 **Fuente**\: [The Next Web](https://thenextweb.com/apps/2020/02/19/adobe-photoshop-completes-30-years-launches-new-ai-powered-features/ "Adobe Photoshop completa 30 años, lanza nuevas funciones basadas en IA"){:target="_blank"}
 {: .notice--info}
