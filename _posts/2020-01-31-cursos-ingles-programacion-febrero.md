@@ -1,6 +1,6 @@
 ---
 
-title: '▷ 570 Cursos Gratis de Udemy en Inglés: Vamos a Estudiar Programaciónen en 2020'
+title: '▷ 540 Cursos Gratis de Udemy en Inglés: Vamos a Estudiar Programaciónen en 2020'
 excerpt: '👨‍💻 Los mejores cursos de programación gratis en inglés para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.'
 description: '👨‍💻 Los mejores cursos de programación gratis en inglés para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.'
 published: true

@@ -176,7 +176,7 @@ Las últimas actualizaciones también traen muchas otras mejoras para la experie
 **Fuente**\: [Desarrolladores de Visual Studio Code - Microsoft](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-february-2020/ "Desarrolladores de Visual Studio Code - Microsoft"){:target="_blank"}
 {: .notice--info}
 
-<div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1046498462399360" data-width="930" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1046498462399360" class="fb-xfbml-parse-ignore"><p>🛒 Los mejores libros con los que aprender Android y Java, en Español</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1046498462399360">Viernes, 21 de febrero de 2020</a></blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1046498462399360" data-width="1030" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1046498462399360" class="fb-xfbml-parse-ignore"><p>🛒 Los mejores libros con los que aprender Android y Java, en Español</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1046498462399360">Viernes, 21 de febrero de 2020</a></blockquote></div>
 
 ## Relacionados
 

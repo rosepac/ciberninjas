@@ -28,6 +28,12 @@ sidebar:
 
 ## 📚 Libros
 
+### 📰 Actualidad
+
+* [El año del Geek: 365 Hitos del universo de la ciencia ficción y la fantasía](https://amzn.to/3bVUuIZ){:target="_blank"}
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8445005812&linkId=ce49c208032a8edec472a5f005f073be"></iframe>
+
 ## 📁 Bases de Datos
 
 [Big Data 👨‍👩‍👦](/libros/#big-data-){: .btn .btn--inverse .btn--large} [SQL](/libros/#sql){: .btn .btn--inverse .btn--large}
@@ -351,11 +357,14 @@ sidebar:
 
 ## Seguridad Inform&aacute;tica 🔐
 
+* El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA){:target="_blank"} \ [Saber M&aacute;s](/catalogo/el-arte-de-la-invisibilidad/) (2018)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441540616&linkId=8b51ac62a83d85c0a662c87ce7567c18"></iframe>
+
 * Análisis de Malware para Sistemas Windows [Tapa Blanda](https://amzn.to/2AjuvcK){:target="_blank"}
 * Bacula: El Software Libre de Respaldo [Tapa Blanda](https://amzn.to/2Ndt5t0){:target="_blank"} \ [Ebook](https://amzn.to/2AfI78T){:target="_blank"}
 * Back Track 5 [Ebook](https://amzn.to/2Lw1q4s){:target="_blank"} Hacking de Redes Inálambricas
 * Black Hat Go [Tapa Blanda](https://amzn.to/2prktUG){:target="_blank"} \ [Ebook](https://amzn.to/2VNSbQI){:target="_blank"}
-* El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA){:target="_blank"} \ [Saber M&aacute;s](/catalogo/el-arte-de-la-invisibilidad/)
 * El enemigo conoce el sistema [Tapa Blanda](https://amzn.to/2Z46eBx){:target="_blank"} \ [Ebook](https://amzn.to/2Z1YfEV){:target="_blank"} \ [👉 Saber Más](/catalogo/el-enemigo-conoce-el-sistema/)
 * El libro blanco del hacker [Tapa Blanca](https://amzn.to/2N5EkCS){:target="_blank"}
 * El libro del hacker. Edición 2018 [Tapa Blanda](https://amzn.to/34ISSPb){:target="_blank"}
@@ -385,7 +394,7 @@ sidebar:
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Ciencias Informáticas
+## 💻 Ciencias Informáticas
 
 * Superpotencias de la inteligencia artificial: China, Silicon Vall.. - Kai Fu Lee
   * https://amzn.to/3bNQBWw
