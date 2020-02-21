@@ -1,19 +1,20 @@
 ---
 author_profile: false
-title: "💥 Videoconsolas y Videojuegos con las Mejores Precios del Black Friday"
-description: "🎮 Date un regalo disfrutando de los juegos más espectaculares en excelentes precios durante el Black Friday."
-excerpt: "Date un regalo disfrutando de las consolas y juegos más espectaculares en excelentes precios durante el Black Friday."
+title: "🔥 Las mejores ofertas de los más esperados videojuegos de 2020"
+description: "Las ofertas de juegos más espectaculares y novedososos para 2020 junto a las mejores videoconsolas y ordenadores para disfrutar de ellos"
+excerpt: "Las ofertas de juegos más espectaculares y novedososos para 2020 junto a las mejores videoconsolas y ordenadores para disfrutar de ellos"
 permalink: /videojuegos/
 canonical_URL: https://ciberninjas.com/videojuegos/
 published: true
 comments: true
-date: 2019-11-29 04:44:00 +0200
+date: 2019-11-29 04:44:00 +0100
+last_modified_at: 2020-02-20 21:40:00 +0100
 header:
   teaser: https://i.ibb.co/gRGCvXw/battlefield-1-gif.gif
   overlay_image: https://i.ibb.co/PjPSZcf/consola-mando-joystick-1.jpg
   overlay_filter: 0.2
-  image_description: '🎮 Las mejores ofertas gamers en videoconsolas y videojuegos | Ciberninjas'
-  image_alt: '🎮 Las mejores ofertas gamers en videoconsolas y videojuegos | Ciberninjas'
+  image_description: '🎮 Las mejores ofertas de videojuegos y videoconsolas de 2020'
+  image_alt: '🎮 Las mejores ofertas de videojuegos y videoconsolas de 2020'
   caption: "Créditos: Unsplash de Dominio Público"
   actions:
     - label: "Black Friday 2019"
@@ -31,10 +32,50 @@ sidebar:
 
 [🎯 Videoconsolas](/videojuegos/#-videoconsolas){: .btn .btn--inverse .btn--large} [🎮 Videojuegos](/videojuegos/#-videojuegos){: .btn .btn--inverse .btn--large}
 
-Dentro de las variadas ofertas del Black Friday de Amazon podemos encontrar pequeñas ofertas en la mayoría de videoconsolas y videojuegos en cualquiera de las múltiples plataformas para los que existen.
+Breve resumen de las mejores ofertas del mundo sobre los videojuegos más espectaculares que van a llegar durante todo el año 2020; y las mejores videoconsolas y ordenadores de sobremesa; con los que disfrutar de las mayores capacidades de las nuevas tecnologías para disfrutar al máximo.
 
-[💣 BLACK FRIDAY 2019 💣](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 [💻 ¡MÁS OFERTAS DE TECNOLOGÍA! 💻](/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank"}
+
+## Videojuegos Espectaculares en 2020
+
+<!-- Cyberpunk 2077, Doom Eternal, Marvel´s Avengers, Halo Infinity, The Last of Us Part II, Dying Light 2, Final Fantasy VII Remake, Animal Crossing, Hal-life: Alyx, Resident Evil 3, Ori and the Will of the Wisps, Ghost of Tsuhima, Gods y Monsters, Vampire: The Masquerade - Bloodlines 2, Nioh 2, Wasteland 3, Lego Star Wars The Skywalker Saga, Dragon Ball z: Kakarot, Minecraft Dungeons, Tom Clancy´s Rainbow, Bleeding Edge, No More Heroes III, Psychonauts, Empire of Sin, Dreams, Skull y Bones, 12 Minutes, Outriders, Sony Marvel´s Iron Man, Zombie Army 4, Warcraft III, Journey to the Savage Planet, Predator: Hunting Grounds, New World, Tales Of Arise, Spiritfarer, Godfall, Disintegration, Temtem, Yakuza: Like a Dragon, Mount t Blade II, System Shock, Oddworld: Soulstorm, Crusader: Kings III, Carrion, One Punch Man: A Hero Nobody Knows, Little Nightmares II, Streets of Rage 4, CAPCOM: MegaManZero, CrossFire X, Humankind. -->
+
+## Cyberpunk 2077
+
+[![Cyberpunk 2077](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Cyberpunk 2077 PS 4"){:target="_blank"}
+
+[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank"}
+
+
+
+## Cyberpunk 2077
+
+[![Cyberpunk 2077](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Cyberpunk 2077 PS 4"){:target="_blank"}
+
+[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank"}
+
+## Cyberpunk 2077
+
+[![Cyberpunk 2077](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Cyberpunk 2077 PS 4"){:target="_blank"}
+
+[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank"}
+
+## Cyberpunk 2077
+
+[![Cyberpunk 2077](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Cyberpunk 2077 PS 4"){:target="_blank"}
+
+[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank"}
+
+## Cyberpunk 2077
+
+[![Cyberpunk 2077](https://i.ibb.co/RSnWLTz/image.png)](https://amzn.to/2XVuHtT "Cyberpunk 2077 PS 4"){:target="_blank"}
+
+[💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank"}
+
+
+
+
+
 
 ## 🎯 VIDEOCONSOLAS
 

@@ -1,5 +1,5 @@
 ---
-title: "🛒 Catálogo de Libros de Tecnología Recomendados"
+title: "🛒 Catálogo de Los Mejores Libros de Tecnología para 2020 y en español"
 description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 published: true

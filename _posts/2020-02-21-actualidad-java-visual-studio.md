@@ -8,7 +8,7 @@ tags:
 categories:
 - Actualidad
 header:
-  teaser: /assets/images/blog/
+  teaser: /assets/images/blog/java-visual-studio.webp
 title: '💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020'
 description: >-
   Mejoras y cambios insertados en el editor de texto de Visaul Studio Code respecto al uso de Java y sus librerías
@@ -22,7 +22,7 @@ published: true
 
 ---
 
-![](/assets/images/ "")
+![Visual Studio Code, el mejor editor de texto para utilizar a la hora de programar en Java](/assets/images/blog/java-visual-studio.webp "Visual Studio Code, el mejor editor de texto para utilizar a la hora de programar en Java")
 
 En esta actualización, le mostraremos las nuevas formas de administrar sus dependencias y configurar el JDK múltiple. Aprender las herramientas adicionales que se pueden aprovechar para utilizar frameworks y mejorar los tiempos de ejecución. Además, existen algunos cambios más dentro de esta actualización.
 
@@ -176,7 +176,7 @@ Las últimas actualizaciones también traen muchas otras mejoras para la experie
 **Fuente**\: [Desarrolladores de Visual Studio Code - Microsoft](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-february-2020/ "Desarrolladores de Visual Studio Code - Microsoft"){:target="_blank"}
 {: .notice--info}
 
-<div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1046498462399360" data-width="750" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1046498462399360" class="fb-xfbml-parse-ignore"><p>🛒 Los mejores libros con los que aprender Android y Java, en Español</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1046498462399360">Viernes, 21 de febrero de 2020</a></blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1046498462399360" data-width="930" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1046498462399360" class="fb-xfbml-parse-ignore"><p>🛒 Los mejores libros con los que aprender Android y Java, en Español</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1046498462399360">Viernes, 21 de febrero de 2020</a></blockquote></div>
 
 ## Relacionados
 
