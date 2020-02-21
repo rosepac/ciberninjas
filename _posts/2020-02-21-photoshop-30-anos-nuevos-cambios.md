@@ -50,8 +50,6 @@ Con seguridad las nuevas versiones de software más rápidas y enfocadas incluso
 **Fuente**\: [The Next Web](https://thenextweb.com/apps/2020/02/19/adobe-photoshop-completes-30-years-launches-new-ai-powered-features/ "Adobe Photoshop completa 30 años, lanza nuevas funciones basadas en IA"){:target="_blank"}
 {: .notice--info}
 
-<div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1046542982394908" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1046542982394908" class="fb-xfbml-parse-ignore"><p>🛒 Los mejores libros de Photoshop, Retoque y Diseño en Español</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1046542982394908">Viernes, 21 de febrero de 2020</a></blockquote></div>
-
 ## Relacionados
 
 * [🎨 ▷ Recursos de Diseño Gráfico](/dise%C3%B1o-grafico-recursos/)
@@ -60,3 +58,5 @@ Con seguridad las nuevas versiones de software más rápidas y enfocadas incluso
 * [👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario](/diferencias-entre-ui-ux/)
 * [🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo](/cursos-animacion-diseno/)
 * [🛒 ▷ Los Mejores Ratones y Teclados para Diseñar y Jugar 🖱](/teclados-ratones-dise%C3%B1o/)
+
+<div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1046542982394908" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1046542982394908" class="fb-xfbml-parse-ignore"><p>🛒 Los mejores libros de Photoshop, Retoque y Diseño en Español</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1046542982394908">Viernes, 21 de febrero de 2020</a></blockquote></div>
