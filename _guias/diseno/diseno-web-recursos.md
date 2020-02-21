@@ -46,7 +46,7 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 ### Repositorios de Imágenes
 
-* [+ 50 Componentes](http://ui-cloud.com/categories/){:target="_blank"}
+* [UI Cloud: + 50 Componentes](http://ui-cloud.com/categories/){:target="_blank"}
 
 ### Repositorios de Gifs
 
@@ -55,6 +55,10 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 * [Tenor](https://tenor.com){:target="_blank"}
 * [Reaction Gifs](http://www.reactiongifs.com/){:target="_blank"}
 * [Reaction Gifs US](https://www.reactiongifs.us/){:target="_blank"}
+
+### Repositorios de Sonido
+
+* [Bensound](https://www.bensound.com/){:target="_blank"}
 
 ### Repositorios de Texturas
 
