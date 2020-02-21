@@ -83,6 +83,9 @@ Juegos y aplicaciones de Iphone. Actualmente: spinny Monster, NewfyMoji, Cross S
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+## JUEGOS CLÁSICOS 🕹
+
+[🕹 1500 Juegos Arcade de 1970 a 1990](https://archive.org/details/internetarcade){: .btn .btn--inverse .btn--large} [JUGAR AirBuccaneers 🏴‍☠️](https://store.steampowered.com/app/223630/AirBuccaneers/){: .btn .btn--inverse .btn--large} [Shadow Warrior Classic (1997) 🪓](https://store.steampowered.com/app/238070/Shadow_Warrior_Classic_1997/){: .btn .btn--inverse .btn--large} [TheUltimateDoom 1995](https://archive.org/download/TheUltimateDoom1995idSoftware_201806){: .btn .btn--inverse .btn--large} [JUEGOS DE MS-DOS](https://archive.org/details/softwarelibrary_msdos_games?&sort=-downloads&page=2){: .btn .btn--inverse .btn--large} [Dungeon Defenders II 🐉](https://store.steampowered.com/app/236110/Dungeon_Defenders_II/){: .btn .btn--inverse .btn--large}
 
 ## GRATIS AHORA 🎉 
 
@@ -157,11 +160,6 @@ Alien Swarm es un videojuego shotter y multijugador desarrollado por Valve. El o
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/vHMzjJP7RoI?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
 [🎮 INSTALAR GRATIS 🎮](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## MÁS JUEGOS CLÁSICOS 🕹
-
-[JUGAR AirBuccaneers 🏴‍☠️](https://store.steampowered.com/app/223630/AirBuccaneers/){: .btn .btn--inverse .btn--large} [Shadow Warrior Classic (1997) 🪓](https://store.steampowered.com/app/238070/Shadow_Warrior_Classic_1997/){: .btn .btn--inverse .btn--large} [TheUltimateDoom 1995](https://archive.org/download/TheUltimateDoom1995idSoftware_201806){: .btn .btn--inverse .btn--large} [JUEGOS DE MS-DOS](https://archive.org/details/softwarelibrary_msdos_games?&sort=-downloads&page=2){: .btn .btn--inverse .btn--large} [Dungeon Defenders II 🐉](https://store.steampowered.com/app/236110/Dungeon_Defenders_II/){: .btn .btn--inverse .btn--large} 
-
 
 ## FORTNITE & OTRAS ALTERNATIVAS 🔫
 
