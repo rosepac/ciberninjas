@@ -149,5 +149,5 @@ No existe una ventaja clara de rendimiento o calidad de un framework sobre el ot
 
 ### Fuente
 
-**Fuente**\: Traducción al español de [Themes Berg](https://themesberg.com/blog/design/tailwind-css-vs-bootstrap?ref=dailydevlinks.com ""){:target="_blank"} 🤞
+**Fuente**\: Traducción al español de [Themes Berg](https://themesberg.com/blog/design/tailwind-css-vs-bootstrap "Themes Berg"){:target="_blank"} 🤞
 {: .notice--info}
