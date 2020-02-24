@@ -2,14 +2,14 @@
 title: 👨‍💻 ▷ Steemit, Aprender desde Cero
 description: "🔨 Steemit, cómo crear tu blog en una gran comunidad de contenidos sociales y artísticos gratis y criptomonedas"
 excerpt: "🔨 Steemit, cómo crear tu blog en una gran comunidad de contenidos sociales y artísticos gratis y criptomonedas"
-date: 2020-02-2020T03:50:00.000+01:00
+date: 2020-02-24T03:50:00.000+01:00
 last_modified_at:
 permalink: /steemit/
 published: true
 header:
   teaser: "/assets/images/blog/steemit-publicaciones-1-1.jpg"
   image: "/assets/images/blog/steemit-publicaciones-1-1.jpg"
-  image_description: Steemit, generador de sitios estáticos | Ciberninjas
+  image_description: "Steemit, generador de sitios estáticos | Ciberninjas"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
