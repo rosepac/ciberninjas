@@ -12,7 +12,7 @@ header:
 canonical_URL: /porque-python-es-mejor-que-php/
 classes: wide
 categories:
-- Comparativa
+- Lenguajes de Programación
 tags:
 - Python
 - PHP

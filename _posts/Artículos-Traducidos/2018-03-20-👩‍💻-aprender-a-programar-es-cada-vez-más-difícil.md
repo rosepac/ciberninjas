@@ -5,12 +5,12 @@ excerpt: "\U0001F9E0 Reflexión sobre la dificultad del aprendizaje de la progra
 date: 2018-03-20 01:00:00 +0100
 canonical_URL: https://ciberninjas.com/aprender-a-programar-es-cada-vez-m%C3%A1s-dif%C3%ADcil/
 categories:
-  - Actualidad
-  - Código Abierto
+  - Reflexión Programar
 tags:
   - Programar
   - Realidad
 header:
+  teaser: /assets/images/chico-buscando-libro-biblioteca.jpg
   overlay_image: /assets/images/chico-buscando-libro-biblioteca.jpg
   overlay_filter: '0.2'
   image_description: >-
