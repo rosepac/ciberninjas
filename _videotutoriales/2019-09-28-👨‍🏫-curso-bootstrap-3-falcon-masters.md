@@ -18,7 +18,7 @@ date: 2019-09-28
 # categories:
 # - Videotutorial Bootstrap
 sidebar:
-  - title: "Menú Videotutoriales"
+- title: "Menú Videotutoriales"
   nav: vtuto
 ---
 
