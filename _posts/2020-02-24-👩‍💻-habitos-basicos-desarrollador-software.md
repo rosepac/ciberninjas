@@ -87,10 +87,11 @@ Nunca olvides que, **¡El aprendizaje es un proceso continuo!** ¡Entonces, A qu
 
 ## Relacionados
 
-* [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020 "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
-* [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
-* [Comparativa
-* [▷ ¿Por qué Python es Mejor que PHP?](desarrolladores-lenguaje-rust/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
-* [▷ A los desarrolladores les encanta el lenguaje de programación Rust: He aquí por qué](/porque-python-es-mejor-que-php/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
-▷ [¿Por qué Python es Mejor que PHP?](/porque-python-es-mejor-que-php/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
-* [👨‍🎨 Palabras más usadas en cada lenguaje de programación](/palabras-lenguajes-programacion/ "👨‍🎨 Palabras más usadas en cada lenguaje de programación")
+[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020 "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
+[👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
+[▷ ¿Por qué Python es Mejor que PHP?](desarrolladores-lenguaje-rust/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
+[▷ A los desarrolladores les encanta el lenguaje de programación Rust: He aquí por qué](/porque-python-es-mejor-que-php/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
+[¿Por qué Python es Mejor que PHP?](/porque-python-es-mejor-que-php/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
+[👨‍🎨 Palabras más usadas en cada lenguaje de programación](/palabras-lenguajes-programacion/ "👨‍🎨 Palabras más usadas en cada lenguaje de programación")
+
+<div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1049102978805575" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1049102978805575" class="fb-xfbml-parse-ignore"><p>👩‍💻 Robert C. Martín, una trilogía sobre como se debe tratar al código. Librería indispensable para todo aquel que desee ser programador o este en proceso de ello.. 🤞</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1049102978805575">Lunes, 24 de febrero de 2020</a></blockquote></div>

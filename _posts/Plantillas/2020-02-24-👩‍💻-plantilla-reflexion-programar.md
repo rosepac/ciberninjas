@@ -5,6 +5,7 @@ excerpt: ""
 date: 2020-02-20 01:00:00 +0100
 canonical_URL: https://ciberninjas.com//
 permalink: //
+published: false
 categories:
   - Reflexión Programar
 tags:
@@ -16,8 +17,7 @@ header:
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
-    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64)
-    en [Unsplash](https://unsplash.com/@reddangelo)
+#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -26,7 +26,7 @@ header:
 
 
 
-**Fuente**\: [Programar es Cada Vez M&aacute;s Dif&iacute;cil](http://allendowney.blogspot.com.es/2018/02/learning-to-program-is-getting-harder.html "Aprender a Programar es Cada Vez Más Difícil por Allen Downey") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
+**Fuente**\: [](http://allendowney.blogspot.com.es/2018/02/learning-to-program-is-getting-harder.html "Aprender a Programar es Cada Vez Más Difícil por Allen Downey") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
 {: .notice--info}
 
 ## Relacionados
