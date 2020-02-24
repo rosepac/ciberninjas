@@ -13,10 +13,10 @@ tags:
   - Software
 header:
   teaser: /assets/images/blog/imagen-pensando-chicos.webp
-  image: /assets/images/blog/imagen-pensando-chicos.webp
-  image_description: >-
+#  image: /assets/images/blog/imagen-pensando-chicos.webp
+#  image_description: >-
     5 hábitos básicos para fortalecer tus habilidades a la hora de programar software
-  title: >-
+#  title: >-
     5 hábitos básicos para fortalecer tus habilidades a la hora de programar software
 # toc: true
 # toc_label: "Contenidos"
