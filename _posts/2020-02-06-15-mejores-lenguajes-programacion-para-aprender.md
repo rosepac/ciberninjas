@@ -31,7 +31,7 @@ tags:
 - Haskell
 - Dart
 categories:
-- Excelentes
+- Lenguajes de Programación
 
 ---
 

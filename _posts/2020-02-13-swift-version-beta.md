@@ -15,7 +15,7 @@ canonical_URL: https://ciberninjas.com/swift-version-beta-5-2/
 classes: wide
 categories:
 - Novedades
-- Lenguajes Programación
+- Lenguajes de Programación
 tags:
 - Swift
 
