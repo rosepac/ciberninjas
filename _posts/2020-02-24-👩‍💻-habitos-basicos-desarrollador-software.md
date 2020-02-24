@@ -5,6 +5,7 @@ excerpt: "Los mejores hábitos y más sencillos con los que centrarte en el desa
 date: 2020-02-24 18:20:00 +0100
 canonical_URL: https://ciberninjas.com/hábitos-basicos-desarrollador-software/
 permalink: /hábitos-basicos-desarrollador-software/
+classes: wide
 categories:
   - Reflexión Programar
 tags:
@@ -17,10 +18,10 @@ header:
     5 hábitos básicos para fortalecer tus habilidades a la hora de programar software
   title: >-
     5 hábitos básicos para fortalecer tus habilidades a la hora de programar software
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 ---
 
 ![5 Hábitos básicos para aprender a programar software](/assets/images/blog/imagen-pensando-chicos.webp "5 hábitos básicos para aprender a programar software")
