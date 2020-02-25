@@ -16,7 +16,7 @@
 # Configuración de la Web
 locale: "es-ES"
 # github: [metadata]
-title: Ciberninjas ▷ Escuela Laboratorio
+title: Educación Digital >> Dearrollo Móvil y Web, Programación y Robótica >> La Mejor Caja de Herramientas del Mundo 😹
 # subtitle: Escuela Laboratorio de Tecnología
 email: rosepac21@gmail.com
 name: "Pablo Alvarez Corredera"
@@ -25,22 +25,20 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://ciberninjas.com"
 # baseurl:
 repository: "rosepac/ciberninjas"
+head_scripts:
+  - /assets/js/lazysizes.min.js
 teaser: "/assets/images/logos/desarrollador-full-stack-1.webp"
 logo: "/assets/images/logos/emoji-ciberninjas.png"
 masthead_title: "Ciberninjas"
 twitter_username: ciberaprendiz
 github_username: Pablo Álvarez Corredera
 minimal_mistakes_skin: default # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
-
 # Configuración del Autor
 author:
   name   : "Pablo Álvarez Corredera"
   avatar : "/assets/images/logos/rosepac-fullstack_160px.webp"
   bio    : "Documentalista Digital. Educación Siglo XXI. Bibliotecario de Internet."
   links:
-    - label: "Fuente RSS"  
-      icon: "fas fa-rss-square"
-      url: "https://ciberninjas.com/feed.xml"
     - label: "Correo"
       icon: "far fa-envelope"
       url: "mailto:rosepac21@gmail.com"    
@@ -50,9 +48,12 @@ author:
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rosepac"
-    - label: "Ayúdame!"
+    - label: "Cervecita!"
       icon: "fas fa-fw fa-mug-hot"
-      url: "https://kutt.it/donativo"    
+      url: "https://kutt.it/donativo"
+    - label: "Lector RSS"  
+      icon: "fas fa-rss-square"
+      url: "https://feeds.feedburner.com/ciberninjas"
 
 search: true
 search_full_content: true
