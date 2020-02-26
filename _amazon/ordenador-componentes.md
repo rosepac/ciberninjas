@@ -6,6 +6,7 @@ excerpt: "👨‍🔧 Cambia pieza a pieza tu computadora para convertirla en un
 permalink: /ordenadores-componentes/
 canonical_URL: https://ciberninjas.com/ordenadores-componentes/
 published: true
+classes: wide
 comments: true
 date: 2019-11-29 23:16:00 +0200
 header:

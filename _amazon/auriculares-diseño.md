@@ -6,6 +6,7 @@ excerpt: "🎶 Ofertas de Auriculares para Diseñadores y Gamers del Black Frida
 permalink: /auriculares-diseño/
 canonical_URL: https://ciberninjas.com/auriculares-diseño/
 published: true
+classes: wide
 comments: true
 date: 2019-11-29 15:32:01 +0200
 header:
