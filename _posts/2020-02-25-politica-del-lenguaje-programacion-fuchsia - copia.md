@@ -17,9 +17,9 @@ header:
   teaser: /assets/images/blog/google-fuchsia-logo-fondo.webp
 title: '🚀 ▷ ¿Qué lenguajes de programación permite utilizar el Sistema Operativo Fuchsia?'
 description: >-
-  'Políticas del sistema operativo fuchsia respecto a los lenguajes de programación que permite, como son: C, C++, Dart, Rust, Go y Python'
+  Políticas de aplicación para los lenguajes de programación recomendados dentro del sistema operativo Fuchsia, esos lenguajes son: C, C++, Dart, Rust, Go y Python
 excerpt: >-
-  ''
+  Políticas de aplicación para los lenguajes de programación recomendados dentro del sistema operativo Fuchsia, esos lenguajes son: C, C++, Dart, Rust, Go y Python
 canonical_URL: https://ciberninjas.com/politica-de-los-lenguajes-programacion-fuchsia/
 permalink: /politica-de-los-lenguajes-programacion-fuchsia/
 date: 2020-02-27
@@ -30,19 +30,16 @@ published: true
 
 ![Logotipo del Sistema Operativo Fuchsia, el nuevo SO para Android de Google](/assets/images/blog/google-fuchsia-logo-fondo.webp "Logotipo del Sistema Operativo Fuchsia, el nuevo SO para Android de Google")
 <!-- https://fuchsia.googlesource.com/fuchsia/+/refs/heads/master/docs/project/policy/programming_languages.md -->
-* [****]()
 
-## Alcance
+Este documento describe qué lenguajes de programación admite y usa el proyecto Fuchsia para el software de producción sobre el dispositivo de destino, y habla sobre sus pros / beneficios y contras / perjuicios que puede conllevar programar con un cierto lenguaje u otro sobre Fuchsia.
 
-Este documento describe qué lenguajes de programación admite y usa el proyecto Fuchsia para el software de producción sobre el dispositivo de destino, tanto dentro del "árbol de origen" de la plataforma Fuchsia como para los desarrolladores finales que construyen centrados en Fuchsia, desde fuera del Árbol de la plataforma de origen.
+Estas políticas no se aplican a las herramientas de los desarrolladores, siempre que estás, se ejecuten desde dispositivos de destino o host, u otros casos similares.
 
-Esta política no se aplica a las herramientas de desarrollador, ya sea en dispositivos de destino o host, o en software en el dispositivo de destino que no se ejecuta en la operación normal del dispositivo por parte del usuario final.
-
-Por ejemplo, esta política no se aplica a zxdb (un depurador) porque zxdb es una herramienta de desarrollador; la política se aplica a pkgfs porque pkgfs (es un sistema de archivos) que se ejecuta en la operación normal del dispositivo por parte del usuario final.
+Por ejemplo, esta política no se aplica a ZXDB (un depurador) porque ZXDB es una herramienta de desarrollador; en cambio, la política si que se aplicaría sobre PKGFS porque PKGFS (es un sistema de archivos) que se ejecuta en la operación normal del dispositivo por parte del usuario final.
 
 ## Definiciones
 
-El *árbol fuente de la plataforma Fuchsia* es el código fuente alojado en [fuchsia.googlesource.com](https://fuchsia.googlesource.com){:target="_blank"}.
+El ***árbol fuente de la plataforma Fuchsia*** es el código fuente alojado en [fuchsia.googlesource.com](https://fuchsia.googlesource.com){:target="_blank"}.
 
 Fuchsia Platform Source Tree puede absorber cambios más grandes en el sistema Fuchsia y sus tecnologías subyacentes que los desarrolladores finales porque los cambios que afectan solo al Fuchsia Platform Source Tree pueden ejecutarse sin coordinación con otros grupos de personas.
 
