@@ -7,7 +7,7 @@ published: true
 author_profile: true
 comments: true
 date: 2020-02-27
-last_modified_at: 2020-02-27
+last_modified_at: 
 permalink: /programar/
 canonical_URL: https://ciberninjas.com/programar/
 classes: wide
