@@ -4,9 +4,10 @@ description: "✅ Aprende a programar 🔥 Con los mejores CURSOS y LIBROS gratu
 excerpt: "✅ Aprende a programar 🔥 Con los mejores CURSOS y LIBROS pdf 🚀 Totalmente gratis: Java, Python, PHP, C, etc."
 author_profile: true
 published: true
+author_profile: true
 comments: true
-date: 2018-03-01
-last_modified_at: 2020-02-15
+date: 2020-02-27
+last_modified_at: 2020-02-27
 permalink: /programar/
 canonical_URL: https://ciberninjas.com/programar/
 classes: wide
@@ -29,13 +30,11 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 📢 Estamos en las RRSS: [🐦 Twitter](https://twitter.com/ciberninjas "Twitter") [📘 Comunidad FB](http://facebook.com/groups/ciberninjas "Facebook") [🎓 Cursos FC](https://facebook.com/cibercursos "Facebook Exclusivo de Cursos y Memes") [🌈 Instagram](https://instagram.com/ciberninjas "Instagram") [👨‍💻 Dev.to](https://dev.to/@rosepac "Blog en el sitio especializado: Dev.to") Bajo el usuario @ciberninjas
 {: .notice--info}
 
-## ¿Cómo aprender a programar?
-
 <details>
-<summary><h2>MENÚ 👇</h2></summary>
+<summary><strong>MENÚ 👇</strong></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/programar/#cómo-aprender-a-programar-código">Cómo aprender a programar código</a></li>
+    <li><a href="/programar/#cómo-aprender-a-programar">Cómo aprender a programar código</a></li>
     <li><a href="/programar/#en-qué-campo-de-la-informática-trabajar">En qué campo de la informática trabajar</a></li>
     <li><a href="/programar/#qué-lenguaje-aprender">Qué lenguaje de programación aprender</a></li>
     <li><a href="/programar/#qué-lenguajes-evitar">Qué lenguajes de programación evitar</a></li>
@@ -50,6 +49,8 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 </details>
 
 En esta primera sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
+
+## Cómo aprender a programar código
 
 1. El primer paso es: Centrarse en dominar un lenguaje, sea cual sea, en lugar de aprender un poco sobre varios idiomas hyper-focus.
 2. Si no te decides por un lenguaje en concreto, elige uno de propósito general.
@@ -150,7 +151,7 @@ Desarrollador web y multimedia, desarrollador de software, desarrollador fronten
 
 Incluso si deseas formarte para la profesión que realizan los analistas y consultores o profesional de publicidad, en el marketing digital o como técnico de gestión; deberás aprender algunas tecnologías puntuales.
 
-[👉 Análisis Más Profundo de Las Profesiones Digitales](/programar/#cómo-aprender-a-programar){: .btn .btn--warning .btn--large .align-center}
+[👉 Análisis Más Profundo de Las Profesiones Digitales](/profesiones-digitales/){: .btn .btn--warning .btn--large .align-center}
 
 ## ¿Qué tecnologías y herramientas debo aprender?
 
@@ -164,7 +165,9 @@ Posteriormente, vamos a realizar una pequeña revisión de las diferentes herram
 
 En esta lista encontramos los lenguajes que están más al alza entre los puestos de trabajo más exigidos por las empresas durante el año 2020.
 
-▶ [Python](/python/){: .btn .btn--inverse .btn--large .align-center} - Java - Javascript - C # - Swift - Kotlin
+[▶ Python](/python/){: .btn .btn--inverse .btn--large .align-center}
+
+Java - Javascript - C # - Swift - Kotlin
 
 <!-- (imágenes con enlaces a las páginas de formación de cada lenguaje) -->
 [🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
