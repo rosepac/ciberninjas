@@ -635,6 +635,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## <i class="fab fa-js"></i> JavaScript
 
+* [Fundamentos de Javascript](https://majoledesma.github.io/js-notes/){:target="_blank"} (PDF) (2020)
 * [Guía de Javascript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide){:target="_blank"} (HTML)
 * [Introducción a AJAX](https://librosweb.es/libro/ajax){:target="_blank"} (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax){:target="_blank"}
 * [Introducción a JavaScript](https://librosweb.es/libro/javascript){:target="_blank"} (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript){:target="_blank"}
@@ -663,11 +664,11 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ### React <i class="fab fa-react"></i>
 
+* [Apuntes y Notas: ReactJS](https://majoledesma.github.io/react-apuntes/){:target="_blank"} (PDF) (2020)
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux?){:target="_blank"} (Descarga PDF)
 * [Descubre React](https://leanpub.com/descubre-react?){:target="_blank"} (Descarga PDF)
 * [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish?){:target="_blank"}
 * [SurviveJS - React: De aprendiz a maestro](https://leanpub.com/survivejs-react-es){:target="_blank"} (Descarga PDF)
-* [ReactJS: Apuntes y Notas](https://majoledesma.github.io/react-apuntes/){:target="_blank"} (PDF)
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
