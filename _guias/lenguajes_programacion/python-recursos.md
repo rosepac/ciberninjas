@@ -1,7 +1,7 @@
 ---
-title: ▷ Recursos para Aprender Python 🐍 
-description: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
-excerpt: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
+title: ▷ Los Mejores Recursos del Mundo para Aprender Python 🐍 
+description: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Python'
+excerpt: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Python'
 published: true
 author_profile: true
 comments: true
@@ -23,7 +23,7 @@ header:
 [📕 Libros Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--info .btn--large}{:target="_blank"}
  [🎓 Cursos Python 🐍](https://ouo.io/CNr4s3){: .btn .btn--info .btn--large}{:target="_blank"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--info .btn--large}
 
-[Artículos Python](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large} [Chuletas de Python]([/python-recursos/#chuletas--de-consulta](https://ciberninjas.com/python-recursos/#chuletas--de-consulta)){: .btn .btn--inverse .btn--large} [Probar Código](/python-recursos/#probar-código){: .btn .btn--inverse .btn--large} [Artículos Python?](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large}
+[Artículos Python](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large} [Chuletas de Python](https://ciberninjas.com/python-recursos/#chuletas--de-consulta){: .btn .btn--inverse .btn--large} [Probar Código](/python-recursos/#probar-código){: .btn .btn--inverse .btn--large} [Artículos Python?](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large}
 
 ## Artículos de Python
 
@@ -65,7 +65,7 @@ header:
 
 * [Extendiendo Clojure con Python](https://www.youtube.com/watch?v=vQPW16_jixs){:target="_blank"}
 
-## Chuletas  de Consulta
+## Chuletas de Consulta
 
 * [Pandas y Seaborn Chuleta](https://new.paradigmadigital.com/wp-content/uploads/2019/06/cheat-sheet-pandas-seaborn.pdf){:target="_blank"} (Paradigma Digital)
 
