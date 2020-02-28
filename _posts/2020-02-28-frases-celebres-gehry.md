@@ -24,8 +24,8 @@ published: true
 
 ![Obra arquitectónica realizada por Frank Owen Gehry en Las Vegas](/assets/images/blog/geotagged-las-vegas-pxhere.com_2048.webp "Obra arquitectónica realizada por Frank Owen Gehry en Las Vegas")
 
-<h2><p align="center"><cite><pre>"Tienes que ser optimista. Todavía tengo dudas y conflictos,
-pero la conclusión es que creo en el futuro."</pre></cite></p></h2>
+<h2><p align="center"><cite>"Tienes que ser optimista. Todavía tengo dudas y conflictos,<br>
+pero la conclusión es que creo en el futuro."</cite></p></h2>
 
 <h2><p align="center"><cite>"No todas las personas tienen el mismo tipo de talentos, así que descubre cuáles son los tuyos y trabaja con ellos".</cite></strong></h2>
 
