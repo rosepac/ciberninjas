@@ -156,10 +156,12 @@ Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.or
 **Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank"}
 {: .notice--primary}
 
-[▷ Editores de Texto](/categoria/#editor-de-texto)
-  * [Eclipse Theia](/wiki/eclipse-theia)
+[▷ Editores de Texto](/categoria/#editor-de-texto) \ [Eclipse Theia](/wiki/eclipse-theia)
+
 [🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2020](/programar/)
+
 [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/15-mejores-lenguajes-programacion/)
+
 [▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
 
 <div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1051891248526748" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1051891248526748" class="fb-xfbml-parse-ignore"><p>👩‍💻 Libros para Aprender el lenguaje de programación Dart, el SDK Flutter. Las tecnologías que podrás usar dentro del nuevo Sistema Operativo Fuchsia</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1051891248526748">Viernes, 28 de febrero de 2020</a></blockquote></div>
