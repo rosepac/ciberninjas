@@ -1,3 +1,5 @@
+---
+---
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -9,6 +11,7 @@
 .pagination--pager {
     display: none !important;
 }
+
 .page__content {
     font-size: 14px; // originally 16px
     @include breakpoint($medium) {
@@ -23,7 +26,6 @@
         font-size: 18px; // originally 22px
     }
 }
-
 // Cambiar el subrayado del texto.
 @import "{{ site.theme }}";
 ::selection {
