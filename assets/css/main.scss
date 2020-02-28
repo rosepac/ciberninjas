@@ -23,15 +23,12 @@
         font-size: 18px; // originally 22px
     }
 }
-// Color para los autores de citas
-.gris {
-    color:grey !important;
-}
+
 // Cambiar el subrayado del texto.
 @import "{{ site.theme }}";
 ::selection {
     background: rgb(236, 55, 50) !important;
-    color: rgb(0, 0, 0) !important;
+    color: rgb(255, 255, 255) !important;
 }
 ::-moz-selection {
     background:rgb(236, 55, 50) !important;
