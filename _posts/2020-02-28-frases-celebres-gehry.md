@@ -9,16 +9,16 @@ categories:
 - Citas Célebres
 header:
   teaser: /assets/images/blog/geotagged-las-vegas-pxhere.com_2048.webp
-title: '📢 ▷ Las Mejores Frases de Frank Owen Gehry'
+title: '📢 ▷ Las Mejores Frases Motivadoras del Reconocido Arquitecto Frank Owen Gehry'
 description: >-
-  Citas célebres del arquitecto canadiense Frank Owen Gehry
+  Citas célebres del arquitecto canadiense Frank Owen Gehry. Motivación, creatividad y trabajo a raudales. De este creador del Museo Guggenhein entre otros edificios característicos
 excerpt: >-
-  Citas célebres del arquitecto canadiense Frank Owen Gehry
+  Citas célebres del arquitecto canadiense Frank Owen Gehry. Motivación, creatividad y trabajo a raudales. De este creador del Museo Guggenhein entre otros edificios característicos
 canonical_URL: https://ciberninjas.com/frases-celebres-frank-owen-gehry/
 permalink: /frases-celebres-frank-owen-gehry/
 date: 2020-02-28 14:10:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
@@ -26,28 +26,38 @@ published: false
 
 <h2><p align="center"><strong><cite>"Tienes que ser optimista. Todavía tengo dudas y conflictos, pero la conclusión es que creo en el futuro."</cite></strong> - Frank Owen Gehry</p></h2>
 
-<h2><p align="center"><strong><cite>"No sé por qué la gente contrata arquitectos y luego les dice qué hacer".</cite></strong> - Frank Owen Gehry</p></h2>
-
 <h2><p align="center"><strong><cite>"No todas las personas tienen el mismo tipo de talentos, así que descubre cuáles son los tuyos y trabaja con ellos".</cite></strong> - Frank Owen Gehry</p></h2>
 
 <h2><p align="center"><strong><cite>“El mensaje que espero haber enviado es solo el ejemplo de ser uno mismo. Les digo esto a mis alumnos: no se trata de copiarme a mí, ni a mis sistemas lógicos. Se trata de permitirte ser tú mismo".</cite></strong> - Frank Owen Gehry</p></h2>
 
-<h2><p align="center"><strong><cite>"La arquitectura debería hablar de su tiempo y lugar, pero anhelar la atemporalidad".</cite></strong> - Frank Owen Gehry</p></h2>
-
 <h2><p align="center"><strong><cite>“Para mí, cada día es algo nuevo. Abordo cada proyecto con una nueva inseguridad, casi como el primer proyecto que hice. Y me dan los sudores. Entro y empiezo a trabajar, no estoy seguro de a dónde voy. Si supiera a dónde voy no lo haría ".</cite></strong> - Frank Owen Gehry</p></h2>
+
+<h2><p align="center"><strong><cite>"No sé por qué la gente contrata arquitectos y luego les dice qué hacer".</cite></strong> - Frank Owen Gehry</p></h2>
+
+<h2><p align="center"><strong><cite>"La arquitectura debería hablar de su tiempo y lugar, pero anhelar la atemporalidad".</cite></strong> - Frank Owen Gehry</p></h2>
 
 <h2><p align="center"><strong><cite>“Tu mejor trabajo es tu expresión de ti mismo. Ahora, puede que no seas el mejor en eso, pero cuando lo haces, eres el único experto".</cite></strong> - Frank Owen Gehry</p></h2>
 
 <h2><p align="center"><strong><cite>“Un arquitecto recibe un programa, presupuesto, lugar y horario. A veces, el producto final se convierte en arte, o al menos la gente lo llama así ”.</cite></strong> - Frank Owen Gehry</p></h2>
+
 <h2><p align="center"><strong><cite>“Creo que mi mejor habilidad como arquitecto es lograr la coordinación mano a ojo. Puedo transferir un boceto a un modelo en el edificio ".</cite></strong> - Frank Owen Gehry</p></h2>
+
 <h2><p align="center"><strong><cite>“El mejor consejo que he recibido es ser tú mismo. Los mejores artistas hacen eso ".</cite></strong> - Frank Owen Gehry</p></h2>
+
 <h2><p align="center"><strong><cite>“Hay personas que diseñan edificios que no son técnica y financieramente buenos, y hay quienes lo hacen. Dos categorías: simples ".</cite></strong> - Frank Owen Gehry</p></h2>
+
 <h2><p align="center"><strong><cite>"La arquitectura es una pequeña parte de esta ecuación humana, pero para aquellos de nosotros que la practicamos, creemos en su potencial para hacer una diferencia, para iluminar y enriquecer la experiencia humana, para penetrar las barreras de la incomprensión y proporcionar un hermoso contexto para el drama de la vida ".</cite></strong> - Frank Owen Gehry</p></h2>
+
 <h2><p align="center"><strong><cite>"Tienes que avanzar hacia lo desconocido".</cite></strong> - Frank Owen Gehry</p></h2>
+
 <h2><p align="center"><strong><cite>"Hombre, hay otra libertad ahí fuera, y viene de otro lado, y ese otro lugar es el lugar que me interesa".</cite></strong> - Frank Owen Gehry</p></h2>
+
 <h2><p align="center"><strong><cite>"Al final, el carácter de una civilización está encerrado en sus estructuras".</cite></strong> - Frank Owen Gehry</p></h2>
+
 <h2><p align="center"><strong><cite>“Si supiera a dónde voy, no lo haría. Cuando puedo predecirlo o planificarlo, no lo hago ".</cite></strong> - Frank Owen Gehry</p></h2>
+
 <h2><p align="center"><strong><cite>"Me gustaría hacer un edificio tan intelectualmente impulsado como escultórico y tan positivo como sería aceptable esperar".</cite></strong> - Frank Owen Gehry</p></h2>
+
 <h2><p align="center"><strong><cite>"."</cite></strong> - Frank Owen Gehry</p></h2>
 
 <h2><p align="center"><strong><cite>“Solía ​​dibujar, esa era la forma en que pensaba en voz alta. Luego hicieron un libro de mis bocetos, y me volví consciente, así que ahora no lo hago mucho ”.</cite></strong> - Frank Owen Gehry</p></h2>
