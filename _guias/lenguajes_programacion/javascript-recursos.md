@@ -4,8 +4,8 @@ description: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender
 excerpt: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Javascript'
 published: true
 header:
-  teaser: /assets/images/paginas/javascript-logo-maxima-resolucion.webp
-  overlay_image: /assets/images/paginas/javascript-logo-maxima-resolucion.webp
+  teaser: /assets/images/paginas/javascript-recursos.webp
+  overlay_image: /assets/images/paginas/javascript-recursos.webp
   overlay_filter: 0.2
   image_description: '👨‍💻 ▷ Cómo Aprender Javascript desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
   image_alt: '👨‍💻 ▷ Cómo Aprender Javascript desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
