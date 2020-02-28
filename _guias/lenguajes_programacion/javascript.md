@@ -1,25 +1,35 @@
 ---
-title: ▷ Cómo Aprender Javascript 👨‍🚀 
-description: Estudiar Javascript paso a paso, desde cero a experto en 2020
-excerpt: Estudiar Javascript paso a paso, desde cero a experto  en 2020
+title: ▷ Cómo Aprender Javascript en 2020 👨‍🚀 
+description: Cómo Aprender Javascript desde cero a profesional en 2020, todo lo necesario para ayudarte a convertirte en un profesional
+excerpt: Cómo Aprender Javascript desde cero a profesional en 2020, todo lo necesario para ayudarte a convertirte en un profesional
 published: true
+header:
+  teaser: /assets/images/paginas/javascript-logo-maxima-resolucion.webp
+  overlay_image: /assets/images/paginas/javascript-logo-maxima-resolucion.webp
+  overlay_filter: 0.2
+  image_description: '👨‍💻 ▷ Cómo Aprender Javascript desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
+  image_alt: '👨‍💻 ▷ Cómo Aprender Javascript desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
+  caption: "Wallpaper de Dominio Público"
+  actions:
+    - label: "Recursos Javascript"
+      url: "/javascript-recursos/"
 author_profile: true
 author_profile: true
 comments: true
 classes: wide
-date: 2019-03-20 12:00:03
-last_modified_at: 2020-01-27 11:45:03
+date: 2020-02-28 12:00:03
+last_modified_at: 
 permalink: /javascript/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 
 ---
 
 Esta es la página perfecta donde poder resolver todas las dudas que desees respecto a JavaScript. En el siguiente contenido podrás encontrar todo lo necesario, y lo mejor de todo es que el listado irá creciendo con el paso del tiempo; así que ya sabes. Piensa en guardártelo.. 😉
 
-[¿Qué es Javascript?](/javascript/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Javascript](/javascript/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién esta usando Javascript?](/javascript/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Javascript?](/javascript/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Javascript](/javascript/#librerías-de-python){: .btn .btn--inverse .btn--large} [Frameworks de Javascript](/javascript/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large}
+[¿Qué es Javascript?](/javascript/#qué-es-javascript){: .btn .btn--inverse .btn--large} [Sobre Javascript](/javascript/#sobre-javascript){: .btn .btn--inverse .btn--large} [¿Quién esta usando Javascript?](/javascript/#quién-está-usando-javascript){: .btn .btn--inverse .btn--large} [¿Por qué aprender Javascript?](/javascript/#por-qué-aprender-javascript){: .btn .btn--inverse .btn--large} [Bibliotecas de Javascript](/javascript/#librerías-de-javascript){: .btn .btn--inverse .btn--large} [Frameworks de Javascript](/javascript/#cómo-desarrollar-una-aplicación-web-con-javascript){: .btn .btn--inverse .btn--large}
 
 ## ¿Qué es Javascript?
 
@@ -32,6 +42,8 @@ Los scripts se proporcionan y ejecutan como texto sin formato. No necesitan prep
 En este aspecto, JavaScript es muy diferente de otro lenguaje llamado Java.
 
 Es el lenguaje de programación perfecto para la web, es capaz de actualizar y cambiar tanto HTML como CSS y además puede calcular , manipular y validar datos.
+
+<div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1051722598543613" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1051722598543613" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1051722598543613">Viernes, 28 de febrero de 2020</a></blockquote></div>
 
 ## Sobre Javascript
 
@@ -62,7 +74,10 @@ En la actualidad, existen más de 40.000 puestos de trabajo que exigen Javascrip
 
 ## Frameworks Web de Javascript
 
-## Librerías de Javascript
+👷‍♂️ EN CONSTRUCCIÓN 👷‍♂️ Angular, React, Vue.. Se crearán páginas independientes para cada uno de ellos.. 👷‍♂️ EN CONSTRUCCIÓN 👷‍♂️
+{: .notice--warning}
+
+## Javascript Puro
 
 * [Aprender Vanilla Js](https://learnvanillajs.com/){:target="_blank"}
 
@@ -70,72 +85,10 @@ En la actualidad, existen más de 40.000 puestos de trabajo que exigen Javascrip
 
 * [Solamente Javascript](https://justjavascript.com/){:target="_blank"}
 
-## Los mejores artículos de JavaScript
-
-Los mejores artículos de Javascript que puedes encontrar en todo Internet, con los que convertirte en un auténtico y completo <strong>ciberninja</strong> de este impresionante entorno en tiempo real de ejecución multiplataforma.
-
-| Artículo 📖                                                   |                              🔗                               |           ✍            |    🔠    |  ⏰   |
-| :----------------------------------------------------------- | :----------------------------------------------------------: | :--------------------: | :-----: | :--: |
-| Tipos en JavaScript sin TypeScript/Flow                      | [Leer](https://yeisondaza.com/tipos-en-javascript-sin-typescript) |      Yeison Daza       | Español | 2019 |
-| 13 Puntos destacados de la guía de estilo de JavaScript de Google | [Leer](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b) |     Daniel Simmons     | Inglés  | 2018 |
-| Cómo cargar nuestro sitio web más rápido                     | [Leer](https://yeisondaza.com/optimizar-sitio-web-preload-prefech) |      Yeison Daza       | Español | 2018 |
-| Como configurar jest                                         |        [Leer](https://yeisondaza.com/configurar-jest)        |      Yeison Daza       | Español | 2018 |
-| ES2018 Parte 1: Mejoras a RegExp                             | [Leer](https://yeisondaza.com/es2018-parte-1-mejoras-a-regexp) |      Yeison Daza       | Español | 2018 |
-| ES2018 Parte2: Rest/Spread Object y Promise.finally          | [Leer](https://yeisondaza.com/es2018-parte2-rest-spread-object-y-promise-finally) |      Yeison Daza       | Español | 2018 |
-| Qué son y cómo escribir pruebas en JavaScript                | [Leer](https://yeisondaza.com/que-son-y-como-escribir-pruebas-en-javascript) |      Yeison Daza       | Español | 2018 |
-| ¿Qué es una devolución de llamada?                           | [Leer](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced) |    Brandon Morelli     | Inglés  | 2017 |
-| Arrays Arreglos en Javascript                                | [Leer](https://medium.com/@rodrwan/arreglos-en-javascript-4c9164e12a16) |  Rodrigo Fuenzalida C  | Español | 2017 |
-| Comparando **call**, **apply** & **bind**                    | [Leer](https://medium.com/@adrielzarate/comparando-call-apply-bind-5867735e792f) |     Adriel Zárate      | Español | 2017 |
-| Explorando la función map() en Javascript                    | [Leer](https://medium.com/@xadrijo/explorando-la-función-map-en-javascript-c04c42773fb6) |     Jorge Jiménez      | Español | 2017 |
-| Funciones nativas de Javascript                              | [Leer](https://medium.com/codeine-labs/funciones-nativas-de-javascript-1b0f19e8f7b) |     Miguel Sánchez     | Español | 2017 |
-| Introducción a los closures en Javascript                    | [Leer](https://medium.com/techwomenc/introducción-a-los-closures-en-javascript-41215bb63ab8) | Matilde Rocha Aguilera | Español | 2017 |
-| JavaScript : Desmenuzando el Scope!                          | [Leer](https://medium.com/sngular-devs/javascript-desmenuzando-el-scope-8fe46956e6f8) |     Oscar Oceguera     | Español | 2017 |
-| JavaScript: Clases                                           | [Leer](https://medium.com/@germancutraro/clases-javascript-es6-1b9b76a2f14a) |     Germán Cutraro     | Español | 2017 |
-| JavaScript: Funciones                                        | [Leer](https://medium.com/@germancutraro/javascript-funciones-dea33c080f10) |     Germán Cutraro     | Español | 2017 |
-| JavaScript: Objetos                                          | [Leer](https://medium.com/@germancutraro/javascript-objetos-275d57c0a12a) |     Germán Cutraro     | Español | 2017 |
-| Las arrow function                                           | [Leer](https://medium.com/javascript-angular-y-mucho-más/las-arrow-function-d24128f4f4b3) |    Moisés Mannarino    | Español | 2017 |
-| Métodos de un Arreglo en Javascript: Filter, ForEach, Map y Find | [Leer](https://medium.com/@rodrwan/arreglos-en-javascript-4c9164e12a16) |  Brayan Jesús Salcedo  | Español | 2017 |
-| Objetos y ES6                                                | [Leer](https://medium.com/laboratoria-how-to/objetos-y-es6-b437dfb663a5) |      Susana Opazo      | Español | 2017 |
-| Patrones de diseño en JavaScript                             | [Leer](https://medium.com/@jmz12/patrones-de-diseño-en-js-43beab8f5756) |  Jorge Mendez Ortega   | Español | 2017 |
-| Sets en JavaScript                                           | [Leer](https://medium.com/laboratoria-how-to/sets-en-javascript-3388920f7cea) |      Lupo Montero      | Español | 2017 |
-| Template Strings — Javascript ES6                            | [Leer](https://medium.com/@germancutraro/template-strings-js-es6-194a2c88d0f4) |     Germán Cutraro     | Español | 2017 |
-| Un vistazo a la función reduce                               | [Leer](https://medium.com/@xadrijo/un-vistazo-a-la-función-reduce-en-javascript-f4459bc4e3aa) |     Jorge Jiménez      | Español | 2017 |
-| Var, Let y Const — JS ES6                                    | [Leer](https://medium.com/@germancutraro/var-let-y-const-js-es6-ed9222cad422) |     Germán Cutraro     | Español | 2017 |
-| **Currying** en Javascript: funciones con superpoderes       | [Leer](https://yeisondaza.com/currying-en-javascript-funciones-con-superpoderes) |      Yeison Daza       | Español | 2016 |
-| **Var**, **let** y **const** en Javascript                   | [Leer](https://yeisondaza.com/var-let-y-const-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Aprendiendo Javascript: Objetos                              | [Leer](https://medium.com/@mariodev_/aprendiendo-javascript-objetos-55634f065b09) |         Mario          | Español | 2016 |
-| Calculo lambda en JavaScript                                 | [Leer](https://yeisondaza.com/calculo-lambda-en-javascript)  |      Yeison Daza       | Español | 2016 |
-| Cómo almacenar un arreglo (array) en **localStorage**        | [Leer](https://medium.com/laboratoria-how-to/objetos-y-es6-b437dfb663a5) |     Nicolás Rojas      | Español | 2016 |
-| Componiendo funciones en JavaScript                          | [Leer](https://yeisondaza.com/componiendo-funciones-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Entendiendo **closures** en JavaScript                       | [Leer](https://yeisondaza.com/entendiendo-closures-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Entendiendo **scopes** de variables en JavaScript            | [Leer](https://yeisondaza.com/entendiendo-scopes-de-variables-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Entendiendo **this** en javascript                           |  [Leer](https://yeisondaza.com/entendiendo-this-javascript)  |      Yeison Daza       | Español | 2016 |
-| Entendiendo Getters y Setters en JavaScript                  | [Leer](https://yeisondaza.com/entendiendo-getters-y-setters-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Entendiendo la asignación por **destructuring** en JavaScript | [Leer](https://yeisondaza.com/entendiendo-la-asignacion-por-destructuring-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Entendiendo la composición en JavaScript                     | [Leer](https://yeisondaza.com/entendiendo-la-composicion-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Entendiendo la delegación en JavaScript                      | [Leer](https://yeisondaza.com/entendiendo-la-delegacion-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Entendiendo la herencia en JavaScript                        | [Leer](https://yeisondaza.com/entendiendo-la-herencia-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Entendiendo las comparaciones en JavaScript                  | [Leer](https://yeisondaza.com/entendiendo-las-comparaciones-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Entendiendo los Objetos en JavaScript                        | [Leer](https://yeisondaza.com/entendiendo-los-objetos-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Entendiendo los tipos en Javascript                          | [Leer](https://yeisondaza.com/entendiendo-los-tipos-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Funciones de alto orden en JavaScript                        | [Leer](https://yeisondaza.com/funciones-de-alto-orden-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Funciones parcialmente aplicadas en JavaScript               | [Leer](https://blog.nearsoftjobs.com/funciones-parcialmente-aplicadas-en-javascript-21b11a906312) |       Hugo Ortiz       | Español | 2016 |
-| Funciones puras en JavaScript: crea funciones libres         | [Leer](https://yeisondaza.com/funciones-puras-en-javascript-crea-funciones-libres) |      Yeison Daza       | Español | 2016 |
-| Herencia funcional en JavaScript                             | [Leer](https://yeisondaza.com/herencia-funcional-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Hindley Milner en JavaScript                                 | [Leer](https://yeisondaza.com/hindley-milner-en-javascript)  |      Yeison Daza       | Español | 2016 |
-| Inmutabilidad en JavaScript                                  |  [Leer](https://yeisondaza.com/immutabilidad-en-javascript)  |      Yeison Daza       | Español | 2016 |
-| Propiedades internas en JavaScript                           | [Leer](https://yeisondaza.com/propiedades-internas-en-javascript) |      Yeison Daza       | Español | 2016 |
-| Búsqueda Fuzzy sobre un Array Object en Javascript con Underscore | [Leer](https://medium.com/@peraferrer/search-fuzzy-into-array-object-for-javascript-5e08c2c18eb4) |   Germán Peraferrer    | Español | 2015 |
-
-* [saber si algún método sobre arrays en JavaScript muta el array original]: https://doesitmutate.xyz 
-
-## Cursos de Javascript
-
-👷‍♂️
-
-## Videotutoriales de Javascript
-
-👷‍♂️
+[👩‍🚀 Recursos de javascript](/javascript-recursos/#page-title){: .btn .btn--warning .btn--large .align-center}
+[👩‍🚀 Noticias javascript](/javascript-directo/#page-title){: .btn .btn--warning .btn--large .align-center}
+[👩‍🚀 Biblioteca de javascript](/libros/#javascript){: .btn .btn--warning .btn--large .align-center}
+[🔝 Regresar al Inicio 🔝](/javascript/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Las mejores páginas, noticias, foros y redes sociales de Javascript
 
