@@ -2,7 +2,7 @@
 title: ▷ Cómo Aprender Rust en 2020
 description: 'Cómo Aprender Rust desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
 excerpt: 'Cómo Aprender Rust desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
-published: true
+published: false
 author_profile: true
 author_profile: true
 classes: wide
