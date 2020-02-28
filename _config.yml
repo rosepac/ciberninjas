@@ -49,7 +49,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rosepac"
     - label: "Cervecita!"
-      icon: "fas fa-fw fa-mug-hot"
+      icon: "fas fa-beer"
       url: "https://kutt.it/donativo"
     - label: "Lector RSS"  
       icon: "fas fa-rss-square"
