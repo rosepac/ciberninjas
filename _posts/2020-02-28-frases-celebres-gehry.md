@@ -26,13 +26,11 @@ published: true
 
 <h2><p align="center"><cite>"Tienes que ser optimista. Todavía tengo dudas y conflictos, <br>pero la conclusión es que creo en el futuro."</cite></p></h2>
 
-<h2><p align="center"><cite>"La creatividad tiene que ver con el juego y una especie de voluntad de seguir tu intuición. <br>Es crucial para un artista. Si sabe a dónde va y qué va a hacer, ¿por qué hacerlo? <br>Creo que aprendí eso de los artistas, de mi abuela, de todas las personas creativas con las que he pasado tiempo a lo largo de los años.."</cite></p></h2>
-
 <h2><p align="center"><cite>"Tienes que avanzar hacia lo desconocido".</cite></p></h2>
 
-<h2><p align="center"><cite>"No todas las personas tienen el mismo tipo de talentos, así que.. <br>descubre cuáles son los tuyos y trabaja con ellos".</cite></h2>
+<h2><p align="center"><cite>"No todas las personas tienen el mismo tipo de talentos, así que.. <br>descubre cuáles son los tuyos y trabaja con ellos".</cite></p></h2>
 
-<h2><p align="center"><cite>“El mensaje que espero haber enviado es solo el ejemplo de ser uno mismo. Les digo esto a mis alumnos: no se trata de copiarme a mí, ni a mis sistemas lógicos. <br>Se trata de permitirte ser tú mismo".</cite></p></h2>
+<h2><p align="center"><cite>“El mensaje que espero haber transmitido es solo el ejemplo de ser uno mismo. <br>Les digo esto a mis alumnos: no se trata de copiarme a mí, ni a mis sistemas lógicos. <br>Se trata de permitirte ser tú mismo".</cite></p></h2>
 
 <h2><p align="center"><cite>"El tiempo es solo un borrón para mí. <br>No sé qué, ni siquiera sé dónde estoy a veces."</cite></p></h2>
 
@@ -49,6 +47,8 @@ published: true
 <h2><p align="center"><cite>"¡Que comience la experiencia!"</cite></p></h2>
 
 <h2><p align="center"><cite>“Si supiera a dónde voy, no lo haría. Cuando puedo predecirlo o planificarlo, no lo hago".</cite></p></h2>
+
+<h2><p align="center"><cite>"La creatividad tiene que ver con el juego y una especie de voluntad de seguir tu intuición. Es crucial para un artista. Si sabe a dónde va y qué va a hacer, ¿por qué hacerlo? <br>Creo que aprendí eso de los artistas, de mi abuela, de todas las personas creativas con las que he pasado tiempo a lo largo de los años.."</cite></p></h2>
 
 <h2><p align="center"><cite>“Los problemas ecológicos se han utilizado.. como herramienta de marketing. <br>A veces, estas afirmaciones ecológicas no tienen ningún sentido ".</cite></p></h2>
 
