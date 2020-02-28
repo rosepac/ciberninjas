@@ -1,5 +1,5 @@
 ---
-title: ▷ Los Mejores Recursos del Mundo para Aprender Python 🐍 
+title: ▷ Los Mejores Recursos para Aprender Python 🐍 
 description: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Python'
 excerpt: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Python'
 published: true
