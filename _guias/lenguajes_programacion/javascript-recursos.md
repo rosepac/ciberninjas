@@ -3,6 +3,7 @@ title: ▷ Los Mejores Recursos del Mundo para Aprender Javascript 👨‍🚀
 description: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Javascript'
 excerpt: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Javascript'
 published: true
+classes: wide
 header:
   teaser: /assets/images/paginas/javascript-recursos.webp
   overlay_image: /assets/images/paginas/javascript-recursos.webp
@@ -82,8 +83,6 @@ Los mejores artículos de Javascript que puedes encontrar en todo Internet, con 
 | Propiedades internas en JavaScript                           | [Leer](https://yeisondaza.com/propiedades-internas-en-javascript) |      Yeison Daza       | Español | 2016 |
 | Búsqueda Fuzzy sobre un Array Object en Javascript con Underscore | [Leer](https://medium.com/@peraferrer/search-fuzzy-into-array-object-for-javascript-5e08c2c18eb4) |   Germán Peraferrer    | Español | 2015 |
 
-* [saber si algún método sobre arrays en JavaScript muta el array original]: https://doesitmutate.xyz 
-
 ## Chuletas de Consulta
 
 * [Javascript Emezeta](https://www.emezeta.com/articulos/javascript-cheatsheet-chuleta-js){:target="_blank"} (PDF)
@@ -113,3 +112,5 @@ Mirage JS es una biblioteca de simulación de API que le permite crear, probar y
 * [Rough JS](https://roughjs.com/posts/release-4.0/) \ [Wired JS](https://wiredjs.com/)
 
 Cree gráficos con una apariencia dibujada a mano, incompleta.
+
+* [Saber si algún método sobre arrays en JavaScript muta el array original]: https://doesitmutate.xyz 
