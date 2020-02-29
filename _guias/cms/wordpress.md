@@ -6,11 +6,11 @@ date: 2020-02-29
 last_modified_at:
 permalink: /wordpress/
 canonical_URL: https://ciberninjas.com/wordpress/
-published: false
+published: true
 header:
   image: "/assets/images/paginas/02-29-wordpress-all-in.webp"
-  image_description: Jekyll, generador de sitios estáticos | Ciberninjas
-  caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"
+  image_description: Wordpress All In, es el mayor repositorio de enlaces de aprendizaje para Wordpress que vas a poder contrar en todo internet
+  caption: "Creación Propia"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -24,12 +24,11 @@ toc_sticky: true
 ![barrar separadora](https://image.ibb.co/i7qnPH/barra_separacion_si.png)
 
 ## Inicio de un blog o Wordpress
+
 ![Logotipo de wordpress sobre fondo azul. Mundo Framework logotipo principal de megapost de recursos par wordpress](https://image.ibb.co/mMhvjy/wordpress_blue.png)
 > Antes de comenzar con Wordpress, puede ser que te venga bien; pasar por alguno de estos enlaces. Con los que tener mayor conocimiento sobre que es Wordpress o ampliar horizontes sobre tus ideas creativas. 
 
-* ¿Porqué Cervantes no me vota?[(artículo)](https://steemit.com/spanish/@angielb/por-que-cervantes-no-me-vota-or-una-de-las-razones-no-tecnicas) by @angielb
 * ¿Qué es Copyleft? [(documentación)](https://www.gnu.org/licenses/copyleft.es.html)
-* Asesorías online @pavelnunez Temporada 1 - [(episodio 1)](https://steemit.com/spanish/@pavelnunez/asesorias-online-pavelnunez-temporada-1-episodio-1-los-titulos), [(2)](https://steemit.com/spanish/@pavelnunez/asesorias-online-pavelnunez-temporada-1-episodio-2-la-imagen-de-portada), [(3)](https://steemit.com/spanish/@pavelnunez/asesorias-online-pavelnunez-temporada-1-episodio-3-la-entradilla), [(4)](https://steemit.com/spanish/@pavelnunez/asesorias-online-pavelnunez-temporada-1-episodio-4-el-cuerpo-del-post)
 * Ayuda WordPress [(blog)](https://ayudawp.com/)
 * Curso Completo de Wordpress, paso a paso [(videotutorial Youtube)](hhttps://www.youtube.com/watch?v=pQ2rZLpsn8k&list=PLhSj3UTs2_yWMco69NRWxwIww844JN9yl)
 * Empezar un blog y no morir en el intento: carta a futuros bloggers [(artículo)](https://entresabanasyalmohadas.com/2017/02/21/empezar-un-blog-y-no-morir-en-el-intento-carta-a-los-futuros-bloggers)
