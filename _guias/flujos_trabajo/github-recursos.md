@@ -7,20 +7,25 @@ date: 2019-12-22 01:00:00 +0200
 last_modified_at: 2019-12-22 01:10:00 +0200
 permalink: /github-git-recursos/
 published: true
+classes: wide
 header:
   teaser: /assets/images/paginas/git-github.webp
   overlay_image: /assets/images/paginas/git-github.webp
   image_description: 'Git y Github | Ciberninjas'
   caption: >-
     **Créditos**: [Medium](https://medium.com/faun/beginners-guide-to-version-control-using-git-and-github-8bf44b421140)
-toc: true
+toc: false
 toc_label: Contenidos
 toc_icon: user-ninja
 toc_sticky: true
 
 ---
 
-![](/assets/images/paginas/git-github.webp)
+[Artículos](/github-git-recursos/#artículos){: .btn .btn--inverse .btn--large} [Chuletas](/github-git-recursos/#chuletas){: .btn .btn--inverse .btn--large} [Github](/github-git-recursos/#github){: .btn .btn--inverse .btn--large} [Git](/github-git-recursos/#git){: .btn .btn--inverse .btn--large} [Sistemas de Integración Continua](/github-git-recursos/#sistemas-de-integración-continua){: .btn .btn--inverse .btn--large}
+
+Esta página esta destina a recopilar los mejores artículos sobre aprender a utilizar de mejor forma los diferentes sistemas de control de versiones; como git, y todos los proyectos que lo soportan.
+
+A si como de otros, como por ejemplo: los sistemas de integración continuada o los sistemas de despliegue continuo.
 
 ## Artículos
 
@@ -46,3 +51,7 @@ toc_sticky: true
 
 * [Travis CI Foro de Ayuda](https://travis-ci.community/latest){:target="_blank"}
   * Travis Despliegue Nueva Versión 2.0 [v 2.0](https://docs.travis-ci.com/user/deployment-v2){:target="_blank"}
+
+**Fuente**: Mis marcadores del navegador 😸 y tu aporte. Si te animas,  para eso tenemos los comentarios por allí abajo, todos los aportes son bien reecibidos.. 😉
+
+![](/assets/images/paginas/git-github.webp)
