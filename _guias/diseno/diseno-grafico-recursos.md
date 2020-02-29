@@ -21,9 +21,14 @@ header:
   image_alt: "Los Mejores Software, Herramientas y Recursos de Diseño Gráfico en Ciberninjas"
   caption: "Créditos: Unsplash"
   actions:
-    - label: "Aprender Diseño Web"
-      url: "/diseño-grafico-recursos/"
+    - label: "Aprender Diseño Gráfico"
+      url: "/diseño-grafico/"
 ---
+
+👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/)
+👉 [Aprender Diseño Gráfico](/diseño-grafico/)
+👉 [Diseño Web Recursos](/diseño-web-recursos/)
+👉 [Aprender Diseño Web](/diseño-web/)
 
 ## Software y repositorios de diseño gráfico
 
@@ -33,6 +38,7 @@ header:
 
 ### Software
 
+Los mejores programas de diseño gráfico que existen..
 
 ## Blender
 
@@ -56,7 +62,13 @@ Software de composición de código abierto para efectos visuales y gráficos en
 
 * [Animación Pencil 2D](https://www.pencil2d.org/) 
 https://www.youtube.com/watch?v=aa9PCu_UZpg
+* [FireAlpaca](https://firealpaca.com/)
 <!-- https://alternativeto.net/software/natron/ -->
+https://www.youtube.com/watch?v=N0aKrcXX64w&t=106s
+
+### Programas de Pago
+
+* [Substance 3d](https://www.substance3d.com/){:target="_blank"}
 
 ## Concursos de Diseño Gráfico
 
