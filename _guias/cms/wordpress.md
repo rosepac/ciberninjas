@@ -1,13 +1,14 @@
 ---
-title: 🔥 ▷ Wordpress, Aprender desde Cero
-description: "Wordpress el CMS más utilizado del mundo. Guía completa y definitiva 👨‍💻 ▷ Cómo aprender todo sobre Wordpress desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional"
-excerpt: "Wordpress el CMS más utilizado del mundo. Guía completa y definitiva 👨‍💻 ▷ Cómo aprender todo sobre Wordpress desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional"
+title: 🥇 ▷ Wordpress, Aprender desde Cero
+description: "Wordpress el CMS más utilizado del mundo. Guía completa y definitiva 👨‍💻 ▷ Cómo aprender todo sobre Wordpress"
+excerpt: "Wordpress el CMS más utilizado del mundo. Guía completa y definitiva 👨‍💻 ▷ Cómo aprender todo sobre Wordpress"
 date: 2020-02-29
 last_modified_at:
 permalink: /wordpress/
 canonical_URL: https://ciberninjas.com/wordpress/
 published: true
 header:
+  teaser: "/assets/images/paginas/02-29-wordpress-all-in.webp"
   overlay_image: "/assets/images/paginas/02-29-wordpress-all-in.webp"
   image_description: Wordpress All In, es el mayor repositorio de enlaces de aprendizaje para Wordpress que vas a poder contrar en todo internet
   caption: "Creación Propia"
@@ -213,7 +214,7 @@ De los más conocidos son: Divi y Visual Composer.
 
 * Guía para crear una Tienda Online con WordPress en 2018 [(artículo)](http://ernestogbustamante.com/crear-tienda-online-wordpress)
 * Cursos de WordPress [(artículo)](https://mundoframework.com/cursos-de-sistemas-de-gestion-de-contenidos-o-cms)
-* Más Cursos de WordPress [(página facebook)](https://www.facebook.com/pg/cursossigloxxi/posts/?ref=page_internal) seguir los pasos siguientes:
+* Más Cursos de WordPress [(página facebook)](https://www.facebook.com/pg/cibercursos/posts/) seguir los pasos siguientes:
 ![buscar cursos gratis en las publicaciones de cursos siglo XXI. Mundo framework](https://image.ibb.co/bYJp3d/image.png)
 
 
@@ -225,14 +226,14 @@ De los más conocidos son: Divi y Visual Composer.
 * El resto de imágenes, están bajo [licencia CCO](https://creativecommons.org/choose/zero/?lang=es_ES) extraídas de [FreeRange](https://freerangestock.com/licensing.php) o [Pixabay](https://pixabay.com/es/service/terms/)
 * El contenido esta extraído de los favoritos de mis navegadores, recogidos desde hace años; y de mis múltiples andanzas investigando y manejando en los alrededores del gestor de contenidos.
 
-***¡Qué disfruten de una genial semana, mis mejores deseos.. For all. For win!***
+## ***¡Qué disfruten de una genial semana, mis mejores deseos.. For all. For win!***
 
-**Fuente*: Esta guía fue creada ya hace más de 2 años, por Pablo Álvarez Corredera. Ósea, el cibeninja mayor.
+**Fuente**: Esta guía fue creada ya hace más de 2 años, por Pablo Álvarez Corredera. Ósea, el cibeninja mayor.
 Su URL original era, [este artículo de Steemit](https://steemit.com/spanish/@rosepac/wordpress-all-in-guia-completa-ten-siempre-un-as-bajo-tu-manga) 🤞
 {:target="_blank"}
 {: .notice--info}
 
-👇 CONTENIDOS POR REVISAR 👇
+👇 CONTENIDOS POR COMPLETAR / AGREGAR 👇
 {: .notice--warning}
 
 ## Los Mejores Artículos de Wordpress en Español
