@@ -1,5 +1,5 @@
 ---
-title: 🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo 
+title: 🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Sonido Vídeo y +
 description: '🔨 Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo'
 excerpt: '🔨 Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo'
 published: true
@@ -24,6 +24,11 @@ header:
     - label: "Recursos Diseño Web"
       url: "/diseño-recursos/"
 ---
+
+👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/)
+👉 [Aprender Diseño Gráfico](/diseño-grafico/)
+👉 [Diseño Web Recursos](/diseño-web-recursos/)
+👉 [Aprender Diseño Web](/diseño-web/)
 
 ## Índice
 
