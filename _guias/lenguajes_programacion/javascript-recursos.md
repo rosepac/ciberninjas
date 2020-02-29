@@ -12,8 +12,8 @@ header:
   image_alt: '👨‍💻 ▷ Cómo Aprender Javascript desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
   caption: "Wallpaper de Dominio Público"
   actions:
-    - label: "Recursos Javascript"
-      url: "/javascript-recursos/"
+    - label: "Aprender Javascript"
+      url: "/javascript/"
 author_profile: true
 comments: true
 date: 2020-02-28 18:15:18
