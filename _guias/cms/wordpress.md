@@ -19,11 +19,7 @@ classes: wide
 # toc_sticky: true
 ---
 
-![Aprender wordpress y todas las herramientas que necesitas para ser un auténtico webmaster profesional](/assets/images/paginas/02-29-wordpress-all-in.webp)
-
 > Siguiendo la línea de ir suprimiendo mis favoritos del navegador, creo este recopilatorio de publicaciones en relación al CMS: [WordPress](https://wordpress.org){:target="_blank"}. Además, a quienes estén comenzando a publicar mediante el plugin @steempress-io les puede servir de ayuda.
-
-![barrar separadora](https://image.ibb.co/i7qnPH/barra_separacion_si.png)
 
 ## Inicio de un blog o Wordpress
 
@@ -40,6 +36,7 @@ classes: wide
 * WordPress ORG Oficial Soporte Español [(documentación)](https://es.wordpress.org/support)
 
 ## Instalación
+
 ![Herramientas de instalación, mundo framework](https://image.ibb.co/mZH26y/1_ilustacion_centrada.png)
 > Lo más recomendado si quieres comenzar a publicar en Wordpress, es que sobre todo compres tu dominio (url/nombre) para generar tu identidad a través de la web.
 El resto puede ser salvado sin inversión y realizado por ti -con un poco de paciencia-o ¿con mi ayuda pagada¿ si confias en mi -complicado- o eres ricach@n -quién sabe- o/y además, psss si te falta tiempo. **I don´t know** -guiño, guiño- **;)**
@@ -60,6 +57,7 @@ El resto puede ser salvado sin inversión y realizado por ti -con un poco de pac
 * WordPress [(descarga)](https://es.wordpress.org/txt-download/)
 
 ## Diseño
+
 ![Iniciándonos en el diseño de una plantilla por y para wordpress](https://image.ibb.co/ipHc6y/1_ilustracion_diseno.png)
 > En la actualidad, Wordpress permite máxima personalización; ciertas herramientas nos ofrecen todo lo necesario para  editar de forma sencilla a través de módulos o bloques cada apartado en los que se dividen las plantillas.
 De los más conocidos son: Divi y Visual Composer. 
@@ -72,19 +70,21 @@ De los más conocidos son: Divi y Visual Composer.
 * [Sage](https://roots.io/sage/) partiendo desde una plantilla inicial básica.
 * [Visual Composer](https://visualcomposer.io) el plugin que cambió WordPress. [Mega-Guía](http://aulacm.com/guia-visual-composer-wordpress/).
 
-## Fotografías e imágenes
+## Fotografías e Imágenes
+
 ![amor a la fotografia, mundo framework](https://image.ibb.co/kqiPMy/fotografia_corazon.jpg)
 > Un poco de ayuda rápido con el tema fotográfico en general, y sí; me hago un poquito de **autospam** porque creo que merece la pena & psss porque si no me lo hago yo; quién me lo va a hacer, si yo no tengo red de amigüitos, eso me parece pajizo **¡jaaa!** **>.<**
 
 * Fotografías e imágenes gratis para crear sentimientos; todos los bancos de fotografías e imágenes que necesitas [(artículo)](https://steemit.com/spanish/@rosepac/fotografias-e-imagenes-gratis-para-dar-sentimiento-a-tus-contenidos) by @rosepac
 * Herramientas de edición de imágenes Online [(artículo en inglés)](https://lovevisualmarketing.com/el-listado-mas-completo-de-herramientas-de-diseno-online-para-tu-negocio)
 * Imágenes en WordPress, todo lo que necesitas saber [(artículo)](https://www.arturogarcia.com/imagenes-wordpress)
-* Optimización de las imágenes [(artículo en inglés)](https://wp-rocket.me/blog/image-optimization-easy-win-faster-site/)
+* Optimización de las imágenes [(artículo en inglés)](https://wp-rocket.me/blog/image-optimization-easy-win-faster-site/) -> Hoy en día, la optimización debe ser al formato: .webp
 * Práctico visor fotográfico y conversor de imágenes por lotes y más: [XnView](https://www.xnview.com/en/)
 * Software de edición de fotografías e imágenes; DarkTable [(artículo)](https://steemit.com/spanish/@rosepac/darktable-alternativa-a-lightroom-opcion-2) by @rosepac
 * Software [DXO OpticsPro](https://steemit.com/tecnologia/@rosepac/software-gratis-dxo-opticspro-hasta-31-de-julio-de-2018) **gratis** -hasta el 31 de Julio- by @rosepac 
 
 ## Plantillas
+
 ![Plantillas y colores diferentes para tu gestor de contenidos wordpress. Mundo Framework](https://image.ibb.co/gqHKmy/pencils_1680x1050.jpg)
 > Las plantillas, vienen a ser la ropa de un ser humano; en un Wordpress. La vestimenta, la cara amable, lo que se muestra, lo que transmite, lo que decora, lo que dice: ¡¡¡ey!!! estoy aquí, quiéreme; regresa, ven a verme; una y otra  y otra vez. No sabía que escribir aquí, psss así que eso, **aleeee**. **xD**
 
@@ -99,6 +99,7 @@ De los más conocidos son: Divi y Visual Composer.
 * Plantillas Wordpress Oficiales [(web oficial)](https://es.wordpress.org/themes)
 
 ## Seguridad
+
 ![la seguridad es un tema muy importante en todo lo relacionado a la web, wordpress no es menos. Mundo Framework](https://image.ibb.co/gwBUmy/security_1680.jpg)
 > La seguridad es un tema muy importante en todo lo relacionado a la web y en wordpress no iba a ser menos. En los siguientes enlaces podremos encontrar muy buenos consejos, pautas, prácticas y herramientas que nos protegerán de posibles sustos derivados de nuestra confianza y despreocupación. 
 
@@ -113,6 +114,7 @@ De los más conocidos son: Divi y Visual Composer.
 * [reCaptcha](https://www.google.com/recaptcha/intro/v3beta.html) de Google, medida de seguridad contra el SPAM.
 
 ## Optimización
+
 ![Haz que tu wordpress vaya como un cohete y que el navegador lo rastrea de la forma mas eficiente. Mundo Framework](https://image.ibb.co/mVA3eJ/rocket_seo_1680.jpg)
 > La optimización es uno de los apartados más importantes dentro de cualquier página web. Más, hoy en día; puesto que nuestra web debe representarse adecuadamente en una amplia gama de dispositivos diferentes y también debe de ser correctamente reconocido por los buscadores. A continuación, podemos encontrar información sobre estos puntos, entre otros diferentes detalles. 
 
@@ -144,6 +146,7 @@ De los más conocidos son: Divi y Visual Composer.
   * Configurar SEO en Wordpress (2ºparte) [(artículo)](https://www.webempresa.com/blog/configurar-seo-en-wordpress-2-parte.html)
 
 ## Monetización
+
 ![tecnicas diferentes de monetizacion, mundo framework](https://image.ibb.co/jKPp4J/money_ilustracion_1680.png)
 > El monetizar nuestro blog cada día es más complicado. Por eso muchos usamos [Steemit](https://steemit.com), es demasiado dificil posicionarse en los buscadores cuando Google favorece ya a los más grandes 'bloggers' o a todas las web´s de noticias; que le pagan grandes cantidades en publicidad. Aún así, puedes intentarlo.
 
@@ -154,15 +157,18 @@ De los más conocidos son: Divi y Visual Composer.
 * Google Adsense, registro [(documentación)](https://www.google.es/adsense/start/get-started/#/?modal_active=none)
 
 ## Plugins
+
 ![Plugis para wordpress. Herramientas WordPress](https://image.ibb.co/bWV0by/plugins.jpg)
 > La idea aquí, es formar un listado interesante de los plugins que me han sido útiles alguna vez; desde que he comenzado a trastear con el CMS o en su defecto, que me han parecido de ayuda a pesar de no mantenerlos en uso a lo largo del tiempo: [repositorio oficial](https://es.wordpress.org/plugins).
 
-#### Plugins "funcionales" con Steemit
+### Plugins "funcionales" con Steemit
+
 * Plugin @steempress-io creado por @fredrikaa y @howo con el que publicar directamente sobre [Steemit](https://steemit.com) desde WordPress:[Steempress.io](https://wordpress.org/plugins/steempress)
   * ¿Cómo empezar a utilizar Steempress? [(artículo)](https://steemit.com/spanish/@flaws/cmoempezarautilizarsteempresstutorialpasoapasorespondiendoalgunaspreguntas-j2ps02u0a3) by @flaws
 * [Markdown Editor](https://es.wordpress.org/plugins/markdown-editor) con el que poder redactar sobre Wordpress al igual que en Steemit sin tener que re-editar tus publicaciones.
 
-#### Compartir/Redes Sociales
+### Compartir/Redes Sociales
+
 * Automatizar el compartir noticias anticuadas, reviviendo constantemente tus propios contenidos, dándoles visibilidad constante: [Revive old post](https://es.wordpress.org/plugins/tweet-old-post)
 * Autopublicación en redes sociales: [Microblog Poster](https://wordpress.org/plugins/microblog-poster)
 * Botones de compartir: [Simple share buttons adder](https://es.wordpress.org/plugins/simple-share-buttons-adder)
@@ -171,22 +177,26 @@ De los más conocidos son: Divi y Visual Composer.
 * Fomentar y compartir tus mejores frases a través de Twitter: [Better click to Tweet](https://es.wordpress.org/plugins/better-click-to-tweet) 
 * Herramienta para programar publicaciones, hasta 10 publicaciones sobre 4 redes sociales (twitter, facebook, linkedin e instagram) gratis: [Crowdfire](https://www.crowdfireapp.com).
 
-#### Copias de seguridad/restauración
+### Copias de seguridad/restauración
+
 * [All In One Migration](https://es.wordpress.org/plugins/all-in-one-wp-migration)
 * [XCloner 'Backup and Restore](https://es.wordpress.org/plugins/xcloner-backup-and-restore)
 
-#### Otros
+### Otros
+
 * [BadgeOS](https://wordpress.org/plugins/badgeos) genera badges personalizados para fomentar la participación de tus usuarios, puede usarse conjunto a [Credly](https://credly.com)
 * Fomentar que tus visitantes compartan tu página antes de poder mostrarles contenidos exclusivos: [Onepress Social Locker](https://es.wordpress.org/plugins/social-locker)
 * Generador de calendarios para eventos: [All In One Event Calendar](https://es.wordpress.org/plugins/all-in-one-event-calendar).
 * Los mejores 72 plugins para Wordpress [(artículo)](http://www.danielbocardo.com/los-72-mejores-plugins-para-wordpress-video-instalacion-de-plugins)
 
-#### Fotografías e imágenes
+### Fotografías e imágenes
+
 * [Instant Images](https://wordpress.org/plugins/instant-images) buscar fotografías en Unsplash desde el escritorio de Wordpress.
 * [Lightbox Plus for Wordpress](https://23systems.net/wordpress-plugins/lightbox-plus-for-wordpress/demos) implementa una galería.
 * [WordPress Colorbox LightBox](https://es.wordpress.org/plugins/wp-colorbox) otra galería de imágenes
 
-#### Modificación & Ajustes
+### Modificación & Ajustes
+
 * Agregar el típico mensaje de información sobre Cookies: [Cookie Notice for GDPR](https://es.wordpress.org/plugins/cookie-notice)
 * Generar formularios en diferentes partes del CMS: [Contact Form](https://es.wordpress.org/plugins/contact-form-7)
   * [Tutorial de configuración y uso](https://fabianvazquez.es/contact-form-7-tutorial-configuracion).
@@ -200,15 +210,14 @@ De los más conocidos son: Divi y Visual Composer.
 * [WPML Multilenguaje](https://wpml.org) implementar múltiples idiomas o diferentes versiones en distintos idiomas de tu página.
 * [XML Sitemaps](https://es.wordpress.org/plugins/google-sitemap-generator) crear el mapa web de tu sitio con la mayor facilidad.
     
-#### SEO
+### SEO
+
 * [All in One SEO Pack](https://es.wordpress.org/plugins/all-in-one-seo-pack)
 * [CyberSEO Freeware Plugins](http://www.cyberseo.net/freeware-wordpress-plugins)
 * [Yoast SEO](https://es.wordpress.org/plugins/wordpress-seo) configurando el plugin:
   * Cómo configurar el plugin Yoast SEO correctamente [(artículo)](https://www.blogpocket.com/2016/08/17/configurar-yoast-seo)
   * Wordpress SEO by Yoast [(artículo)](https://alejandrocaballero.es/wordpress-seo-by-yoast) paso a paso del uso de unos de los plugin´s para mejorar el posicionamiento de WordPress sobre los buscadores/Google.
   * Plugin que corrige algunos detalles dentro de Yoast SEO: [Hide SEO Bloat](https://wordpress.org/plugins/so-clean-up-wp-seo)
-
----
 
 ## Extras
 
@@ -217,23 +226,21 @@ De los más conocidos son: Divi y Visual Composer.
 * Más Cursos de WordPress [(página facebook)](https://www.facebook.com/pg/cibercursos/posts/) seguir los pasos siguientes:
 ![buscar cursos gratis en las publicaciones de cursos siglo XXI. Mundo framework](https://image.ibb.co/bYJp3d/image.png)
 
-
-![barrar separadora](https://image.ibb.co/i7qnPH/barra_separacion_si.png)
-
-### ***Fuentes:***
-
-* Ilustración de portada & pantallazo final, creadas por mi.
-* El resto de imágenes, están bajo [licencia CCO](https://creativecommons.org/choose/zero/?lang=es_ES) extraídas de [FreeRange](https://freerangestock.com/licensing.php) o [Pixabay](https://pixabay.com/es/service/terms/)
-* El contenido esta extraído de los favoritos de mis navegadores, recogidos desde hace años; y de mis múltiples andanzas investigando y manejando en los alrededores del gestor de contenidos.
+-----
 
 ## ***¡Qué disfruten de una genial semana, mis mejores deseos.. For all. For win!***
 
-**Fuente**: Esta guía fue creada ya hace más de 2 años, por Pablo Álvarez Corredera. Ósea, el cibeninja mayor.
+**Fuentes**: Esta guía fue creada ya hace más de 2 años, por Pablo Álvarez Corredera. Ósea, el cibeninja mayor.
 Su URL original era, [este artículo de Steemit](https://steemit.com/spanish/@rosepac/wordpress-all-in-guia-completa-ten-siempre-un-as-bajo-tu-manga) 🤞
+* Ilustración de portada & pantallazo final, creadas por mi.
+* El resto de imágenes, están bajo [licencia CCO](https://creativecommons.org/choose/zero/?lang=es_ES) extraídas de [FreeRange](https://freerangestock.com/licensing.php) o [Pixabay](https://pixabay.com/es/service/terms/)
+* El contenido esta extraído de los favoritos de mis navegadores, recogidos desde hace años; y de mis múltiples andanzas investigando y manejando en los alrededores del gestor de contenidos.
 {:target="_blank"}
 {: .notice--info}
 
-👇 CONTENIDOS POR COMPLETAR / AGREGAR 👇
+![Aprender wordpress y todas las herramientas que necesitas para ser un auténtico webmaster profesional](/assets/images/paginas/02-29-wordpress-all-in.webp)
+
+👇 CONTENIDOS POR INDEXAR.. 👇
 {: .notice--warning}
 
 ## Los Mejores Artículos de Wordpress en Español
@@ -257,9 +264,7 @@ Su URL original era, [este artículo de Steemit](https://steemit.com/spanish/@ro
 - [WP Githuber MD – WordPress Markdown Editor](https://downloads.wordpress.org/plugin/wp-githuber-md.zip)
     Instalar un editor de Markdown basado en el Markdown de Github
     
-## Seguridad en Wordpress
-
-##Los Mejores Artículos Sobre Plugins en Inglés
+## Los Mejores Artículos Sobre Plugins en Inglés
 
 - [WooCommerce vs Easy Digital Downloads: ¿Cuál Debería Usar?](https://kinsta.com/es/blog/woocommerce-vs-easy-digital-downloads/)
 
