@@ -8,13 +8,14 @@ permalink: /wordpress/
 canonical_URL: https://ciberninjas.com/wordpress/
 published: true
 header:
-  image: "/assets/images/paginas/02-29-wordpress-all-in.webp"
+  overlay_image: "/assets/images/paginas/02-29-wordpress-all-in.webp"
   image_description: Wordpress All In, es el mayor repositorio de enlaces de aprendizaje para Wordpress que vas a poder contrar en todo internet
   caption: "Creación Propia"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+classes: wide
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 ---
 
 ![Aprender wordpress y todas las herramientas que necesitas para ser un auténtico webmaster profesional](/assets/images/paginas/02-29-wordpress-all-in.webp)
