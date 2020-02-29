@@ -1,5 +1,5 @@
 ---
-title: 💻 ▷ Recursos \ Cómo Aprender Diseño Web
+title: 💻 ▷ Cómo Aprender Diseño Web
 description: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera página web hasta lograr ser diseñadores web expertos'
 excerpt: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera página web hasta lograr ser diseñadores web expertos'
 published: true
@@ -17,7 +17,7 @@ header:
     - label: "Recursos Diseño Web"
       url: "/diseño-web-recursos/"
 date: 2020-02-11 09:11:18
-last_modified_at:  2020-02-11 18:15:18
+last_modified_at:  2020-02-29 18:15:18
 permalink: /diseño-web/
 canonical_URL: https://ciberninjas.com/diseño-web/
 ---

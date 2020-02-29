@@ -43,6 +43,8 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 
 * [Open Logos](http://openlogos.org/){:target="_blank"} Logos gratis para proyectos de código libre.
 * [Glaze](https://www.glazestock.com/){:target="_blank"} Animaciones Minimalistas Gratuitas
+  
+Font Awesome, Flaticon, Material.IO, IconFinder, Material Design Icons, Oicons8, Vexels, Vecteezy, 1001 Free Downloads, Free Vectors.
 
 ### Repositorios de Imágenes
 
@@ -79,10 +81,6 @@ Las mejores listas para diseñadores web y creadores de contenidos online. Pagin
 ### Fuentes Específicas
 
 * [Fuente OverPass](http://overpassfont.org/){:target="_blank"}
-
-## Iconos
-
-Font Awesome, Flaticon, Material.IO, IconFinder, Material Design Icons, Oicons8, Vexels, Vecteezy, 1001 Free Downloads, Free Vectors.
 
 ## Testing
 

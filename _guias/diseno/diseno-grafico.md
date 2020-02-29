@@ -1,18 +1,18 @@
 ---
-title: 👩‍🎨 ▷ Cómo aprender Diseño Gráfico
+title: '👩‍🎨 ▷ Cómo aprender Diseño Gráfico'
 description: '👩‍🎨 ▷ Cómo aprender diseño gráfico desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
 excerpt: '👩‍🎨 ▷ Cómo aprender diseño gráfico desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
 published: true
 author_profile: true
 comments: true
 date: 2020-02-27 10:13:18
-last_modified_at: 
+last_modified_at: 2020-02-29
 permalink: /diseño-grafico/
 canonical_URL: https://ciberninjas.com/diseño-grafico/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 header:
   teaser: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
   overlay_image: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg

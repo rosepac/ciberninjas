@@ -92,6 +92,10 @@ toc_sticky: true
 * [](){:target="_blank"}
 * [](){:target="_blank"}
 
+## Consejos de UI UX
+
+* [Cómo diseñar aplicaciones móviles para uso con una sola mano](https://www.smashingmagazine.com/2020/02/design-mobile-apps-one-hand-usage/){:target="_blank"}
+
 ## Blogs
 
 * [Keen Ethics](https://keenethics.com/blog){:target="_blank"}
