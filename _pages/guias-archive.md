@@ -1,5 +1,6 @@
 ---
 layout: collection
+author_profile: true
 title: "📚 Guías de Tecnología"
 description: Guías de tecnología, de Programación, Software y Otros Contenidos Tecnológicos
 excerpt: "Guías Desde Cero a Profesional de Programación, Software y Otros Contenidos Tecnológicos"
@@ -26,5 +27,5 @@ Mis guías, biblias o biblioguías, como me gusta llamarlos. Son artículos gene
 <p>Más, mi ilusión era poder vivir de esto; pero ya he comprobado que es imposible. Por lo que me conformo con alguna pequeña ayuda de vez en cuando, puedes ayudarme a través de mis <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlaces referidos</a>.</p>
 </details>
 
-**Las entradas pueden NO contener imágenes por un tiempo, puesto que aún estoy en el proceso de acomodar todo desde mi antiguo hosting y CMS.**
+**⁉ Pueden existir contenidos incompletos o con fallos. El contenido se va actualizando.. <br>Poco a poco, Si no han encontrado lo que se esperan, ¡Disculpen las molestias!. Saludos..**
 {: .notice--warning}
