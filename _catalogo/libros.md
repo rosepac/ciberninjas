@@ -66,6 +66,7 @@ sidebar:
 ### Bitcoin <i class="fab fa-bitcoin"></i>
 
 * El Pequeño Libro de Bitcoin [Tapa Blanda](https://amzn.to/36YBmri){:target="_blank"} \ [Ebook](https://amzn.to/34X3n0m){:target="_blank"}
+* [Los multimillonarios del Bitcoin: Una historia de dinero, traición y redención](https://amzn.to/2T6ZKly){:target="_blank"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1700678876&linkId=0afa52e7ab647b335fed287e7f06103e"></iframe>
 
@@ -199,9 +200,9 @@ sidebar:
 
 ## 💼 Flujos de Trabajo
 
-* [Arquitectura limpia: Guía para especialistas en la estructura y el diseño de software](https://amzn.to/2Lp5Klh) (2018)
-* [Código Limpio: Manual de estilo para el desarrollo ágil de software](https://amzn.to/33SPOhG) (2012)
 * [El limpiador de código: Código de conducta para programadores profesionales](https://amzn.to/34UDoHj) (2019)
+* [Arquitectura Limpia: Guía para especialistas en la estructura y el diseño de software](https://amzn.to/2Lp5Klh) (2018)
+* [Código Limpio: Manual de estilo para el desarrollo ágil de software](https://amzn.to/33SPOhG) (2012)
 * [Gestión práctica de proyectos con Scrum](https://amzn.to/2PiTm7O) (2014)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441539901&linkId=c1fd0ca0a493edc9e5004f3289d8f25d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441532109&linkId=9ef56d2ae926bc0a9e162485bc2d3bc1"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441540845&linkId=e361971a63afceef9fa22a0cf570adae"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1517192366&linkId=20d0f06fd6308870425e05bdfbc8ae4e"></iframe>
@@ -229,6 +230,12 @@ sidebar:
   * https://amzn.to/2vJkK8X
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717065&linkId=28ff61008c3614758f71180a36d9f6b5"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1549844547&linkId=12eb68a2f97cc3a421d2ae3a3d1009c1"></iframe>
+
+## Javascript
+
+* [Domine JavaScript 4ª Edición](https://amzn.to/2w8DUFj) (2020)
+* [Curso de JavaScript](https://amzn.to/3a6HDSq) (MANUALES IMPRESCINDIBLES) (2020)
+* [Aprender a Programar En Javascript](https://amzn.to/2T5escU) (2020)
 
 ## Go
 
@@ -398,12 +405,20 @@ sidebar:
 
 * Superpotencias de la inteligencia artificial: China, Silicon Vall.. - Kai Fu Lee
   * https://amzn.to/3bNQBWw
+* Diez razones para borrar tus redes sociales de inmediato (2020) \ [Ver Más de Jaror Lainer](/libros/#jaror-lainer)
+  * https://amzn.to/2SKdceW
 * Hola mundo: Cómo seguir siendo humanos en la era de los algoritmos - Hannah Fry (2019)
   * https://amzn.to/39GAyrr
-* Yo ,Robot - Isaac Asimov
+* Yo, Robot - Isaac Asimov
   * https://amzn.to/2HKiO2o
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8435021343&linkId=52a2da117f60891adaecaa419237c5d3"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8435021343&linkId=52a2da117f60891adaecaa419237c5d3"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499929176&linkId=16b6a61303fcd1c25319ce700f64a70b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8417552413&linkId=36b616e9fd725a1943b5f54242901e69"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8435021343&linkId=decceadd0ba676af353cd1fb0fc52131"></iframe>
+
+### Jaron Lainer
+
+* Jaron Lainer: Diez razones para borrar tus redes sociales de inmediato, El futuro es ahora: Un viaje a través de la realidad virtual (https://amzn.to/2SMnoUf), ¿Quién controla el futuro? (https://amzn.to/37LOgYP), Contra el rebaño digital: Un manifiesto (https://amzn.to/2VbNr8U)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8499929001&linkId=dc662046b4d069ad6426d009806eaa5b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=841763665X&linkId=fc7ad94bc76e763d4be11dfaf6c4ee3b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8483069172&linkId=a0b349d57ea6deae7b0e336554002208"></iframe>
 
 ## 👷‍♂️ Webmaster
 
@@ -471,6 +486,8 @@ sidebar:
 {: .notice--warning}
 
 ### Wordpress <i class="fab fa-wordpress"></i>
+
+WordPress 5. La guía completa https://amzn.to/2PwkqkM
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -542,6 +559,14 @@ sidebar:
 ### Otros Videojuegos
 * [APEX LEGENDS. Guía no oficial de combate](https://amzn.to/2LiqAC6){:target="_blank"}
 * [Atrapados en Battle Royale (Atrapados en Battle Royale 1)](https://amzn.to/2Lq3uJM){:target="_blank"}
+
+## Diseño de Modelado 2D / 3D
+
+Autocad 2019. Curso Práctico (Más de 140 ejemplos y ejercicios prácticos)
+https://amzn.to/2wjn7j6
+
+AutoCAD 2020 (Manuales Imprescindibles) (2020)
+
 
 ## Libros de Blogguers y Youtubers 📚 🎥
 

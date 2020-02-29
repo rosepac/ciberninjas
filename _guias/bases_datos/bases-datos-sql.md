@@ -20,7 +20,7 @@ header:
   caption: "Logotipo"
   actions:
     - label: "Aprender BBDD"
-      url: "/bases-datos/"
+      url: "/bases-datos-recursos/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

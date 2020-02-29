@@ -30,6 +30,11 @@ Los enlaces aquí indicados solamente son referentes históricos sobre ciertos a
 283 primera línea..
 https://www.boe.es/publicaciones/biblioteca_juridica/abrir_pdf.php?id=PUB-PB-2018-91
 
+## Artículos
+
+El español en Asturias y el Asturiano
+https://cvc.cervantes.es/ensenanza/biblioteca_ele/aepe/pdf/congreso_47/congreso_47_05.pdf
+
 ## Blogs
 
 https://www.pensamientocritico.info/index.php

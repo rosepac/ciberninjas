@@ -47,7 +47,7 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
   </ol>
 </nav>
 </details>
-
+<br />
 En esta primera sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
 
 ## Cómo aprender a programar código

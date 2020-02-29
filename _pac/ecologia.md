@@ -30,6 +30,7 @@ published: true
 ### 2018
 
 * [España despilfarró 80.000 millones en «obras innecesarias»](https://elcorreoweb.es/espana/espana-despilfarro-80-000-millones-en-obras-innecesarias-NA4233852){:target="_blank"}
+* [La Burbuja del regadío: El caso del Mar Menor](https://www.researchgate.net/publication/326689054_La_Burbuja_del_regadio_El_caso_del_Mar_Menor)
 
 ## Cambio Climático
 

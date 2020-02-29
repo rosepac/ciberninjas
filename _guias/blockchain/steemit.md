@@ -1,29 +1,40 @@
 ---
-title: 👨‍💻 ▷ Steemit, Aprender desde Cero
-description: "🔨 Steemit, cómo crear tu blog en una gran comunidad de contenidos sociales y artísticos gratis y criptomonedas"
+
+title: "👨‍💻 ▷ Steemit, Cómo conocer todo sobre está plataforma sin morir en el intento"
+description: "🔨 Steemit, cómo convertirte en un maestro de Steemit sin morir en el intento"
 excerpt: "🔨 Steemit, cómo crear tu blog en una gran comunidad de contenidos sociales y artísticos gratis y criptomonedas"
 date: 2020-02-24T03:50:00.000+01:00
-last_modified_at:
+last_modified_at: 2020-02-25T02:50:00.000+01:00
+classed: wide
 permalink: /steemit/
 published: true
 header:
-  teaser: "/assets/images/blog/steemit-publicaciones-1-1.jpg"
-  image: "/assets/images/blog/steemit-publicaciones-1-1.jpg"
+  teaser: "/assets/images/blog/steemit-publicaciones-1-1.webp"
+  overlay_image: "/assets/images/blog/steemit-publicaciones-1-1.jpg"
   image_description: "Steemit, generador de sitios estáticos | Ciberninjas"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 ---
 
-Steemit 😁😁😁
+Steemit 👇👇👇 ¡EN CONSTRUCCIÓN!
+{: .notice--warning}
+
+## Regístrate
+
+* [👉 Ir al Registro](https://kutt.it/registro-steemit){:target="_blank"}
+
+## Guías para principiantes de Steemit
+
+* 
 
 ## Visores de Steemit
 
+* [Steemit Beta](https://beta.steemit.com/)
+* [Steemit](https://steemit.com){:target="_blank"}
 * [SteemStem](https://www.steemstem.io/){:target="_blank"}
 * [Busy](https://busy.org/){:target="_blank"}
-* [Steemit](https://steemit.com){:target="_blank"}
-* [Steemit](https://steemit.com)
 
 ## Análisis de Usuarios
 
