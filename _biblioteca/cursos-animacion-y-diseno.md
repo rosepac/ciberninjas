@@ -9,10 +9,11 @@ date: 2019-11-12 10:13:18
 last_modified_at: 2019-12-23 16:15:18
 permalink: /cursos-animacion-diseno/
 canonical_URL: https://ciberninjas.com/cursos-animacion-diseno/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+toc: false
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
+classes: wide
 header:
   teaser: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
   overlay_image: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
