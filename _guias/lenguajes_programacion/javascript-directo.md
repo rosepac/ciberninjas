@@ -1,5 +1,5 @@
 ---
-title: 👩‍🚀 ▷ Noticias en Directo sobre Javascript
+title: 👩‍🚀 ▷ Noticias Directo sobre Javascript
 description: '📰 👩‍🚀 El Mejor Canal de Noticias sobre Javascript en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Lenguaje de Programación Javascript'
 excerpt: '📰 👩‍🚀 El Mejor Canal de Noticias sobre Javascript en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Lenguaje de Programación Javascript'
 published: true
@@ -20,7 +20,7 @@ permalink: /javascript-directo/
 #       url: "/javascript/"
 ---
 
-<a class="twitter-timeline" data-lang="es" data-theme="light" href="https://twitter.com/ciberninjas/lists/javascript-relacionado1?ref_src=twsrc%5Etfw">A Twitter List by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-lang="es" data-theme="light" href="https://twitter.com/i/lists/897262127232299010?ref_src=twsrc%5Etfw">A Twitter List by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [👩‍🚀 Aprender Javascript 👩‍🚀](/javascript/){: .btn .btn--inverse .btn--large .align-center}
 [👩‍🚀 Recursos Javascript 👩‍🚀](/javascript-recursos/){: .btn .btn--inverse .btn--large .align-center}
