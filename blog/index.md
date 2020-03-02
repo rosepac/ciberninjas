@@ -9,11 +9,11 @@ description: ✅ La Mejor Página Web para Programadores 🚀 ¡Las mejores Ofer
 ---
 
 Seguro te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores]() >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [ratones verticales para trabajar]() >> [componentes de PC para programadores]() >> [teclados para picar código]() >> [monitores para programar] >> [regalos para programadores]()
-{: .notice--info}
+{: .notice--danger}
 
 <br/>
 <div class="entries-grid">
-   <div class="grid__item">
+   <div class="grid__item" style="display:block; clear: both !important;">
       <article class="archive__item"
          itemscope=""
          itemtype="https://schema.org/CreativeWork">
@@ -151,7 +151,7 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
       </article>
    </div>
    <div>
-   <div class="grid__item">
+   <div class="grid__item" style="display:block; clear: both !important;">
       <article class="archive__item"
          itemscope=""
          itemtype="https://schema.org/CreativeWork">
@@ -289,4 +289,4 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
    </div>
 </div>
 </div>
-<span style="display:none; clear: both !important;"></span>
+<span style="display:block; clear: both !important;"></span>
