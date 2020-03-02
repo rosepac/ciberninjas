@@ -1,8 +1,8 @@
 ---
 author_profile: false
-title: "▷ Black Friday 2019, todo lo que necesitas saber 🎁 "
-description: "💻 Las mejores ofertas de Amazon en sus Dispositivos de Casa Inteligente."
-excerpt: "💻 Las mejores ofertas de Amazon en sus Dispositivos de Casa Inteligente."
+title: "🏡 ▷ Las Mejores Ofertas de Dispositivos Inteligentes de Amazon en 2020, 🎁 ¡OFERTAZAS!"
+description: "💻 Sorprende a cualquier programador con un regalo excelente: Comprale uno de estos Echo Dot, Fire, Bombillas Inteligentes o Fire TV y mucho más."
+excerpt: "💻 Sorprende a cualquier programador con un regalo excelente: Comprale uno de estos Echo Dot, Fire, Bombillas Inteligentes o Fire TV y mucho más."
 permalink: /black-friday-amazon/
 canonical_URL: https://ciberninjas.com/black-friday-amazon/
 published: true

@@ -136,15 +136,6 @@ sidebar:
 * [CodeIgniter 3: Programación fácil en PHP con Patrón MVC](https://amzn.to/2mqv8OC){:target="_blank"} (Ebook)
 * [MVC CodeIgniter para simpáticos newbies](https://amzn.to/2mz96cg){:target="_blank"} (Ebook)
 
-## React
-
-* [Desarrollo Web con React](https://amzn.to/2UgTnNy){:target="_blank"} (Tapa Blanda) (2019)
-* [Aplicaciones Reactivas con React, NodeJS & MongoDB](https://amzn.to/2GHMRHN){:target="_blank"} (Tapa Blanda) (2018)
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541639&linkId=11441746abb3952b2afc98e66815bd9a"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1980596077&linkId=13d9d42e3cebbbb216d77bc543ad20e8"></iframe>
-
-[⏩ LIBROS en Inglés](/libros-ingles/#react)
-
 ## Docker <i class="fab fa-docker"></i>
 
 * [Docker: Seguridad y monitorización en contenedores e imágenes](https://amzn.to/2o6YlhL){:target="_blank"}
@@ -154,6 +145,19 @@ sidebar:
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494897233&linkId=35bc3026b0f146100af656e49e6ca03b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=2409015891&linkId=7925b4ca243fe75336204226420044da"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494465082&linkId=55566be7fb5ef6051c69899c0b82b058"></iframe>
 
 [⏩ LIBROS en Inglés](/libros-ingles/#docker-)
+
+## React
+
+* [Desarrollo Web con React](https://amzn.to/2UgTnNy){:target="_blank"} (Tapa Blanda) (2019)
+* [Aplicaciones Reactivas con React, NodeJS & MongoDB](https://amzn.to/2GHMRHN){:target="_blank"} (Tapa Blanda) (2018)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541639&linkId=11441746abb3952b2afc98e66815bd9a"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1980596077&linkId=13d9d42e3cebbbb216d77bc543ad20e8"></iframe>
+
+[⏩ LIBROS en Inglés](/libros-ingles/#react)
+
+## Node JS
+
+* [Introducción a Node.js]() (2019)
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -250,6 +254,12 @@ sidebar:
 [Objective-C. Curso práctico para desarrolladores OS X y iOS](https://amzn.to/2OUI8ra) (2015)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494305530&linkId=a9cdc8ac50c737f45205d7d85e18ed18"></iframe>
+
+## PHP
+
+* [Aprender PHP, MySQL y JavaScript](https://amzn.to/2TcJu2v) (2019)
+* [Desarrollo de aplicaciones con PHP y Laravel 5.8](https://amzn.to/2wSCZsT) (2019)
+* Desarrollo web en entorno servidor: 80 (2019) https://amzn.to/2I5JYkK
 
 ### Desarrollo de Aplicaciones
 

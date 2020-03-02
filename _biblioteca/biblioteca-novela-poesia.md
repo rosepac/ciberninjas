@@ -20,9 +20,12 @@ toc_sticky: true
 
 ---
 
+<!-- <div class="flourish-embed" data-src="story/198324"><script src="https://public.flourish.studio/resources/embed.js"></script></div> -->
+
 ## Bibliotecas Web
 
 * [Dominio Público](http://www.dominiopublico.es){:target="_blank"}
+* [EBiblio](https://www.culturaydeporte.gob.es/cultura/areas/bibliotecas/mc/eBiblio/inicio.html) Catálogo digital del Servicio Público de Bibliotecas de España.
 * [OMEGALFA](https://omegalfa.es/){:target="_blank"}
   * [Autores - 1.264](https://omegalfa.es/autores.php){:target="_blank"}
   * [Títulos - 3.675](https://omegalfa.es/titulos.php){:target="_blank"}
@@ -38,7 +41,7 @@ Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al
 
 * [EFILM](https://efilm.online/){:target="_blank"}: Biblioteca pública GRATIS de préstamo de películas y series digitales para varias provincias de España.. 🎬
 
-## Bibliotecas Abiertas España
+## Bibliotecas Digitales en Abierto
 
 * [Biblioteca Virtual: Miguel de Cervantes](http://www.cervantesvirtual.com){:target="_blank"}
 
@@ -56,13 +59,17 @@ Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al
 
 * [Biblioteca Americana](http://www.cervantesvirtual.com/portales/biblioteca_americana/){:target="_blank"}
 
-## Bibliotecas Abiertas América
+## Bibliotecas Digitales Abiertas en América
 
 * [Biblioteca Ayacucho](https://www.clacso.org.ar/biblioteca_ayacucho/index.php){:target="_blank"} (CLACSO)
 * [Biblioteca Digital](http://bibliotecadigital.ilce.edu.mx/){:target="_blank"} [Obras Clásicas](https://bibliotecadigital.ilce.edu.mx/Colecciones/index.php?clave=ObrasClasicas){:target="_blank"} (ILCE)
 * [Biblioteca Universal Argentina](https://www.biblioteca.org.ar/catalogo.php){:target="_blank"} (37.229 Obras) [Biblioteca Básica Argentina - Descargar](http://www.bibliotecasrurales.org.ar/biblioteca-basica-argentina.php){:target="_blank"}
 * [Red de Bibliotecas Virtuales de Ciencias Sociales](http://biblioteca.clacso.edu.ar/){:target="_blank"} (CLACSO)
 * [Librería de 1.328 Documentos Gratis](https://www.clacso.org.ar/libreria-latinoamericana/inicio.php){:target="_blank"} (CLACSO)
+
+## Bibliotecas Presentaciales
+
+* [Bibliotecas Públicas de España](http://www.culturaydeporte.gob.es/ccbip/es/lista-de-catalogos.html)
 
 ## Cuentos
 

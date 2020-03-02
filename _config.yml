@@ -16,12 +16,12 @@
 # Configuración de la Web
 locale: "es-ES"
 # github: [metadata]
-title: Educación Digital >> Desarrollo Móvil y Web >> Programación y Robótica >> Herramientas del Mundo Tecnológico
+title: 🥇 Educación Digital >> Desarrollo Móvil y Web >> Programación y Robótica >> Herramientas del Mundo Tecnológico
 # subtitle: Escuela Laboratorio de Tecnología
 email: rosepac21@gmail.com
 name: "Pablo Alvarez Corredera"
 description: >- # this means to ignore newlines until "baseurl:"
-  'Cómo aprender a programar, crear aplicaciónes web, cualquier lenguaje de programación, machine learning, robótica o ciberseguridad. La mejor página de recursos gratis de Internet: Libros en PDF, cursos, artículos y herramientas para estudiar tecnología.'
+  'Los mejores libros y herramientas para aprender a programar como un auténtico profesional. Los recursos más brillantes y excelentes'
 url: "https://ciberninjas.com"
 # baseurl:
 repository: "rosepac/ciberninjas"

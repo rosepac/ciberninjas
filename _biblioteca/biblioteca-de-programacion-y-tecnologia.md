@@ -1,6 +1,6 @@
 ---
 # Página Base
-title: "▷ Los Mejores Libros PDF de Programación de 2020 para Desarrolladores 📚"
+title: "🥇 ▷ Los Mejores Libros PDF de Tecnología para aprender a PROGRAMADOR y Desarrollar en 2020 📚"
 description: "🚀 Biblioteca de PDF online actualizado: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Biblioteca de PDF online actualizado: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 author_profile: false
@@ -82,7 +82,6 @@ sidebar:
 * [Usando Oracle SQL y PL/SQL](https://issuu.com/aulacero21/docs/gesti_n_de_bases_de_datos_-_jorge_s_nchez___oracle/61){:target="_blank"} (HTML)
 
 [⏫ Subir a BBDD 📁](/biblioteca-de-programacion-y-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
 
 ## MySQL
 

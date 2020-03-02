@@ -1,22 +1,25 @@
 ---
 author_profile: true
-title: "▷ Los Mejores Descuentos del Prime Day 2019 💥"
-description: "♥ Prime Day Amazon 2019 🔥 todas las mejores ofertas."
-excerpt: "♥ Prime Day Amazon 2019 🔥 todas las mejores ofertas."
+# title: "▷ Los Mejores Descuentos del Prime Day 2020 💥"
+# description: "♥ Prime Day Amazon 2020 🔥 todas las mejores ofertas."
+# excerpt: "♥ Prime Day Amazon 2020 🔥 todas las mejores ofertas."
+title: "🔥 ▷ Los Mejores Descuentos en Flash en Informática y Electrónica durante todo 2020"
+description: "📢 Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos"
+excerpt: "📢 Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos"
 permalink: /prime-day-amazon/
 canonical_URL: https://ciberninjas.com/prime-day-amazon/
 published: true
 comments: true
-date: 2019-09-01 10:30:00 +0200
+date: 2020-09-01 10:30:00 +0200
 header:
   teaser: https://i.ibb.co/0rXN63g/amazon-prime-day.gif
   overlay_image: /assets/images/ciberninjas-prime-day.jpg
   overlay_filter: 0.2
-  image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
-  image_alt: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
+  image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2020 | Ciberninjas'
+  image_alt: 'Las Mejores Ofertas del Prime Day de Amazon 2020 | Ciberninjas'
   caption: "**Créditos**: Creación propia Ciberninjas"
   actions:
-    - label: "Black Friday 2019"
+    - label: "Black Friday 2020"
       url: "/black-friday-amazon/"
     - label: "Disney"
       url: "/disney-frozen-amazon/"
@@ -28,14 +31,14 @@ toc_sticky: false
 
 [Conoce todo lo que desees sobre Amazon Prime ¡GO!](https://ciberninjas.com/prime-day-amazon/#preguntas-y-respuestas){: .btn .btn--inverse .btn--large}
 
-🛑 PÁGINA EN REPOSO HASTA EL PRIME DAY 2020 🛑 
+🛑 PÁGINA ACTUALIZADA CON OFERTAS FLASH Y PRECIOS MÍNIMOS HASTA QUE REGRESE EL PRIME DAY DE AMAZON DEL AÑO 2020 🛑 
 {: .notice--warning}
 
-Última Actualización: 16/07/2019
+Última Actualización: 2020/03/02
 {: .notice--info}
 
-<!-- PRIME DAY DE AMAZON DEL 2019 -->
-Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2019, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas.
+<!-- PRIME DAY DE AMAZON DEL 2020 -->
+Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2020, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas.
 
 <!-- En definitiva, una pequeña guía de Prime Day, que espero vaya creciendo año a año. -->
 ___
@@ -162,7 +165,7 @@ Regalo de 100 € para la Playstation Store.
 
 ## Mejores Ofertas para Lectores
 
-Si desea ponerse al día con las lecturas de verano , a través de Amazon’s Prime Day hay muchas ofertas para ayudarlo a mantenerse ocupado con los libros durante el resto de la temporada. Prime Day 2019 comenzó esta mañana y tiene una duración de 48 horas, por lo que los Prime Members tienen hasta el final del día del martes para abastecerse de todo, desde una suscripción de Audible con descuento hasta una serie de libros populares disponibles en Kindle. Aquí, las mejores ofertas para los lectores en Amazon Prime Day 2019.
+Si desea ponerse al día con las lecturas de verano , a través de Amazon’s Prime Day hay muchas ofertas para ayudarlo a mantenerse ocupado con los libros durante el resto de la temporada. Prime Day 2020 comenzó esta mañana y tiene una duración de 48 horas, por lo que los Prime Members tienen hasta el final del día del martes para abastecerse de todo, desde una suscripción de Audible con descuento hasta una serie de libros populares disponibles en Kindle. Aquí, las mejores ofertas para los lectores en Amazon Prime Day 2020.
 
 ### Kindle
 
@@ -206,9 +209,9 @@ Después de que termine el mes, puedes cancelar sin ningún tipo de compromiso. 
 
 Lamentablemente no. Eso significa que si compra [esta tableta gráfica](https://amzn.to/2jV47S9) por 132,99 € en este momento y cae por decir a 110 € en Prime Day, no podrá obtener la diferencia de precio. Lo que Amazon sugiere que hagas es devolver el artículo que compraste y comprarlo nuevamente al precio más bajo. Sin embargo, si haces esto tendrás que pagar el envío de devolución. (Y si se trata de un artículo grande y pesado como un televisor, eso podría acabar con sus ahorros de ajuste de precios). Si es un artículo más pequeño, como un Echo Dot, el envío costará menos, pero asegúrese de que los ahorros valgan la molestia adicional. Nuestro consejo: sólo espera al día de Prime. Solo faltan unas horas.
 
-### ¿Qué países participarán en Amazon Prime Day 2019?
+### ¿Qué países participarán en Amazon Prime Day 2020?
 
-El año pasado, Prime Day se celebró en 17 países, incluidos Estados Unidos, Reino Unido, España, Singapur, Países Bajos, Luxemburgo, Japón, Italia, India, Alemania, Francia, China, Canadá, Bélgica, Austria y Australia. En 2019, Prime Day se expandirá a los Emiratos Árabes Unidos, para un total de 18 países.
+El año pasado, Prime Day se celebró en 17 países, incluidos Estados Unidos, Reino Unido, España, Singapur, Países Bajos, Luxemburgo, Japón, Italia, India, Alemania, Francia, China, Canadá, Bélgica, Austria y Australia. En 2020, Prime Day se expandirá a los Emiratos Árabes Unidos, para un total de 18 países.
 
 ### ¿Cómo puedo evitar ofertas falsas en Prime Day?
 
