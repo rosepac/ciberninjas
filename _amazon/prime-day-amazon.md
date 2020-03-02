@@ -29,6 +29,9 @@ toc_icon: user-ninja
 toc_sticky: false
 ---
 
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+{: .notice--danger}
+
 [Conoce todo lo que desees sobre Amazon Prime ¡GO!](https://ciberninjas.com/prime-day-amazon/#preguntas-y-respuestas){: .btn .btn--inverse .btn--large}
 
 🛑 PÁGINA ACTUALIZADA CON OFERTAS FLASH Y PRECIOS MÍNIMOS HASTA QUE REGRESE EL PRIME DAY DE AMAZON DEL AÑO 2020 🛑 
