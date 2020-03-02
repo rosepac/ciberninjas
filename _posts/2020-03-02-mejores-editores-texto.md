@@ -10,7 +10,7 @@ categories:
 - Comparativa
 header:
   teaser: /assets/images/blog/mejores-editores-texto.webp
-title: '📋 ▷ 10 Mejores aplicaciones GRATIS para programar en 2020'
+title: '📋 ▷ 15 Mejores aplicaciones GRATIS para programar en 2020: Los editores de texto más espectaculares'
 description: >-
   ✅ Comparativa y revisión de los mejores editores de texto para programar en Javascript, CSS, HTML, Java, Python, etc y totalmente gratuitos
 excerpt: >-
@@ -25,24 +25,26 @@ published: true
 
 ![Los mejores programas para programar totalmente gratis 2020](/assets/images/blog/mejores-editores-texto.webp "Los mejores programas para programar totalmente gratis 2020")
 
-Bien seas un desarrollador web nuevo o un adicto al código veterano, necesitas un editor de código lo suficientemente robusto como para manejar todo lo que pueda ofrecerte. De hecho, esa podría ser la parte más importante de su conjunto de herramientas. Dado que esta es una búsqueda continua para la mayoría de las personas en el campo, queríamos presentar algunas de las mejores opciones, tanto gratuitas como premium, para que las integre en su flujo de trabajo.
+Bien seas un desarrollador web nuevo o un adicto al código veterano, necesitas un editor de código lo suficientemente robusto como para manejar todo lo que pueda ofrecerte. De hecho, esa va ser tu herramienta principal y más importante con diferencia, de todo tu conjunto de herramientas.
+
+Dado que esta es una búsqueda continua para la mayoría de las personas en el campo, queríamos presentar algunas de las mejores opciones, tanto gratuitas como premium, para que las integre en su flujo de trabajo.
 
 <iframe width ="640" height="360" src="https://www.youtube-nocookie.com/embed/nmR5gEj1l9o?controls=0&showinfo=0" frameborder="0" allowfullscreen> </iframe>
-
+<br/>
 <details>
 <summary><strong>MENÚ 👇</strong></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/mejores-editores-texto/#1-visual-studio-code-de-microsoft">Cómo aprender a programar código</a></li>
-    <li><a href="/mejores-editores-texto/#en-qué-campo-de-la-informática-trabajar">En qué campo de la informática trabajar</a></li>
-    <li><a href="/mejores-editores-texto/#qué-lenguaje-aprender">Qué lenguaje de programación aprender</a></li>
-    <li><a href="/mejores-editores-texto/#qué-lenguajes-evitar">Qué lenguajes de programación evitar</a></li>
-    <li><a href="/mejores-editores-texto/#la-programación-en-la-actualidad">La programación en la actualidad</a></li>
-    <li><a href="/mejores-editores-texto/#qué-puestos-de-trabajo-existen">De qué trabaja un programador</a></li>
-    <li><a href="/mejores-editores-texto/#qué-tecnologías-y-herramientas-debo-aprender">Qué tecnologías y herramientas debo aprender</a></li>
-    <li><a href="/mejores-editores-texto/#los-lenguajes-imprescindibles-de-2020">Qué lenguajes de programación son Imprescindibles en 2020</a></li>
-    <li><a href="/mejores-editores-texto/#los-lenguajes-de-programación-más-clásicos">Cúales son los lenguajes más establecidos</a></li>
-    <li><a href="/mejores-editores-texto/#otros-lenguajes-populares-en-la-actualidad">Los lenguajes menos conocidos pero más usados</a></li>
+    <li><a href="/mejores-editores-texto/#1-visual-studio-code-de-microsoft">Visual Studio Code: La tanqueta indestructible</a></li>
+    <li><a href="/mejores-editores-texto/#2-atom">Atom: El vehículo anfibio adaptable</a></li>
+    <li><a href="/mejores-editores-texto/#3-sublime-text">Sublime Text: El guaperas entre los minimalistas</a></li>
+    <li><a href="/mejores-editores-texto/#4-brackets">Brackets: La paleta más vistos y perfecta para los artistas</a></li>
+    <li><a href="/mejores-editores-texto/#5-notepad-">Notepad ++: La pareja ideal para comenzar el baile</a></li>
+    <li><a href="/mejores-editores-texto/#6-bluefish">Bluefish: El triciclo para los más jóvenes, y para los adultos</a></li>
+    <li><a href="/mejores-editores-texto/##7-codeshareio">Codeshare.io: Para volar a cualquier parte, el dron perfecto</a></li>
+    <li><a href="/mejores-editores-texto/#8-vim">VIM: Un Ferrari Clásico, algo así como el 512</a></li>
+    <li><a href="/mejores-editores-texto/#9-gnu-emacs">EMacs: Un Porsche Clásico, algo así como el 911 Turbo</a></li>
+    <li><a href="/mejores-editores-texto/##10-spacemacs">Spacemacs: El más díficil de conducir, algo así como un Lamborghini Veneno</a></li>
   </ol>
 </nav>
 </details>
@@ -404,28 +406,69 @@ Si sabes que significa esto:
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 ```
 
+## **11. Komodo IDE**
 
+Recientemente liberado, el IDE de Komodo es una gran opción. Komodo 12 ahora está integrado con la plataforma ActiveState para crear su distribución de idiomas automáticamente. Ahora puede usar la CLI de ActiveState, la Herramienta de estado, para crear nuevos proyectos de tiempo de ejecución, así como agregar, eliminar y enumerar todos los paquetes.
 
+Sin lugar a dudas una gran opción.
 
+### **Pros**
 
+1. Un editor avanzado.
+2. Autocompletado y refactorización del código.
+3. Visor del DOM.
+4. Depuración local y remota.
+5. Control de versiones y múltiples herramientas integradas.
+6. Personalización.
+7. Colaboración de código simultáneo.
+8. Una lista infinita de idiomas soportados.
+9. Código inteligente y depuración para Python, PHP, Perl, Tcl, Go, Ruby, Node.js, JavaScript, HTML, CSS, varias plantillas web y más.
+10. Agregado en la última versión React, Ember, Angular, Typescript y ES6.
 
-* [****]()
+### **Komodo IDE es para ti si..**
 
-<!-- contenido -->
+Si deseas probar algo diferente y nuevo al más alto nivel, sin lugar a dudas. Sobre todo, puede ser muy recomendable, si eres una persona que te manejas en varios lenguajes, por su alta compatibilidad.
 
-* [****]()
+👷‍♂️ EN CONSTRUCCIÓN.. 👷‍♂️ 👇
+{: .notice--info}
 
-<!-- contenido -->
+## **12. Eclipse Theia**
 
+### **Pros**
 
-* [****]()
+### **Eclipse Theia es para ti si..**
 
-<!-- contenido -->
+## **13. BlueJ**
 
+Editor de texto apoya por la reconocida Oracle-
 
-* [****]()
+### **Pros**
 
-<!-- contenido -->
+### **BlueJ es para ti si..**
+
+## **14. Light Table**
+
+### **Pros**
+
+### **Light Table es para ti si..**
+
+## **15. Markdown Monster**
+
+### **Pros**
+
+## Delphi
+
+### **Pros**
+
+Un editor de texto centro mayoritariamente en C++.
+
+## **Conclusión**
+
+Al intentar hacer una lista de los mejores editores de código y editores de texto disponibles, es casi imposible no dejarse fuera a algunos competidores muy fuertes; pero hoy, hemos intentado citar a los mejores y gratuitos.
+
+. Cada escritor, codificador y desarrollador tiene un conjunto de herramientas favorito, al igual que cada carpintero tiene un martillo favorito y un artista tiene un conjunto de pinceles favorito. Entonces, si nos perdimos algo que cree que deberíamos haber incluido en esta lista, siéntase libre de agregarlo en los comentarios (con sus razones, por supuesto, también).
+
+Se han quedado fuera algunos editores, del estilo de por ejemplo: Xcode, QtCreator, OpenBeans, NetBeans, CodeBlocks, Anjuta, Monodevelop. Todos los editores específicos para cada lenguaje de programación creados por JetBraints (PHPStorm, Etc), UltraEdit, BBEdit, Coda, Espresso; y seguro que se quedan algunos más.
 
 **Saber Más**: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--primary}

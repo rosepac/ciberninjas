@@ -1,7 +1,7 @@
 ---
-title: 🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2020
-description: "✅ Aprende a programar 🔥 Con los mejores CURSOS y LIBROS gratuitos en pdf: Java, Python, PHP, C, etc."
-excerpt: "✅ Aprende a programar 🔥 Con los mejores CURSOS y LIBROS pdf 🚀 Totalmente gratis: Java, Python, PHP, C, etc."
+title: "🥇 ▷ Cómo APRENDER a Programar GRATIS en 2020: Mejores libros recomendados para programadores"
+description: "✅ Los mejores libros y herramientas para aprender a programar como un auténtico profesional"
+excerpt: "✅ Los mejores libros y herramientas para aprender a programar como un auténtico profesional"
 author_profile: true
 published: true
 author_profile: true
