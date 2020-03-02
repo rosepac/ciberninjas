@@ -24,8 +24,7 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
          <h2 class="archive__item-title"
             itemprop="headline">
             <a href="/ordenadores-componentes/"
-               rel="permalink">▷ Los Mejores Componentes de PC del Black Friday
-               2019 🖥
+               rel="permalink">▷ Los Mejores Componentes de PC del Black Friday 2019 🖥
             </a>
          </h2>
          <p class="page__meta"><svg class="svg-inline--fa fa-clock fa-w-16"
@@ -44,8 +43,7 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
             3 minuto(s) de lectura
          </p>
          <p class="archive__item-excerpt"
-            itemprop="description">👨‍🔧 Cambia pieza a pieza tu computadora
-            para convertirla en un auténtico cohete.
+            itemprop="description">👨‍🔧 Cambia pieza a pieza tu computadora para convertirla en un auténtico cohete.
          </p>
       </article>
    </div>
@@ -60,8 +58,7 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
          <h2 class="archive__item-title"
             itemprop="headline">
             <a href="/teclados-ratones-dise%C3%B1o/"
-               rel="permalink">▷ Los Mejores Ratones y Teclados para Diseñar y
-               Jugar 🖱
+               rel="permalink">▷ Los Mejores Ratones y Teclados para Diseñar y Jugar 🖱
             </a>
          </h2>
          <p class="page__meta"><svg class="svg-inline--fa fa-clock fa-w-16"
@@ -80,8 +77,7 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
             5 minuto(s) de lectura
          </p>
          <p class="archive__item-excerpt"
-            itemprop="description">⌨ Las mejores ofertas de Ratones y Teclados
-            para Diseñar y Jugar.
+            itemprop="description">⌨ Las mejores ofertas de Ratones y Teclados para Diseñar y Jugar.
          </p>
       </article>
    </div>
@@ -96,8 +92,7 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
          <h2 class="archive__item-title"
             itemprop="headline">
             <a href="/tablets-graficas/"
-               rel="permalink">▷ Las Mejores Tablets de Diseño Gráfico del Black
-               Friday 2019 🎨
+               rel="permalink">▷ Las Mejores Tablets de Diseño Gráfico del Black Friday 2019 🎨
             </a>
          </h2>
          <p class="page__meta"><svg class="svg-inline--fa fa-clock fa-w-16"
@@ -151,11 +146,11 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
             2 minuto(s) de lectura
          </p>
          <p class="archive__item-excerpt"
-            itemprop="description">🎶 Ofertas de Auriculares para Diseñadores y
-            Gamers del Black Friday 2019.
+            itemprop="description">🎶 Ofertas de Auriculares para Diseñadores y Gamers del Black Friday 2019.
          </p>
       </article>
    </div>
+   <div>
    <div class="grid__item">
       <article class="archive__item"
          itemscope=""
@@ -167,8 +162,7 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
          <h2 class="archive__item-title"
             itemprop="headline">
             <a href="/videojuegos/"
-               rel="permalink">🔥 Las mejores ofertas de los más esperados
-               videojuegos de 2020
+               rel="permalink">🔥 Las mejores ofertas de los más esperados videojuegos de 2020
             </a>
          </h2>
          <p class="page__meta"><svg class="svg-inline--fa fa-clock fa-w-16"
@@ -187,9 +181,7 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
             1 minuto(s) de lectura
          </p>
          <p class="archive__item-excerpt"
-            itemprop="description">Las ofertas de juegos más espectaculares y
-            novedososos para 2020 junto a las mejores videoconsolas y
-            ordenadores para disfrutar de ellos
+            itemprop="description">Las ofertas de juegos más espectaculares y novedososos para 2020 junto a las mejores videoconsolas y ordenadores para disfrutar de ellos
          </p>
       </article>
    </div>
@@ -204,8 +196,7 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
          <h2 class="archive__item-title"
             itemprop="headline">
             <a href="/black-friday-amazon/"
-               rel="permalink">▷ Black Friday 2019, todo lo que necesitas saber
-               🎁
+               rel="permalink">▷ Black Friday 2019, todo lo que necesitas saber 🎁
             </a>
          </h2>
          <p class="page__meta"><svg class="svg-inline--fa fa-clock fa-w-16"
@@ -224,8 +215,7 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
             5 minuto(s) de lectura
          </p>
          <p class="archive__item-excerpt"
-            itemprop="description">💻 Las mejores ofertas de Amazon en sus
-            Dispositivos de Casa Inteligente.
+            itemprop="description">💻 Las mejores ofertas de Amazon en sus Dispositivos de Casa Inteligente.
          </p>
       </article>
    </div>
@@ -240,8 +230,7 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
          <h2 class="archive__item-title"
             itemprop="headline">
             <a href="/disney-frozen-amazon/"
-               rel="permalink">Juguetes de Frozen 2, tu Mejor Regalo por Navidad
-               ⛄
+               rel="permalink">Juguetes de Frozen 2, tu Mejor Regalo por Navidad ⛄
             </a>
          </h2>
          <p class="page__meta"><svg class="svg-inline--fa fa-clock fa-w-16"
@@ -294,10 +283,10 @@ Seguro te interesa: [mejores libros de programación](/programar/) >> [programas
             8 minuto(s) de lectura
          </p>
          <p class="archive__item-excerpt"
-            itemprop="description">♥ Prime Day Amazon 2019 🔥 todas las mejores
-            ofertas.
+            itemprop="description">♥ Prime Day Amazon 2019 🔥 todas las mejores ofertas.
          </p>
       </article>
    </div>
+</div>
 </div>
 <br/>
