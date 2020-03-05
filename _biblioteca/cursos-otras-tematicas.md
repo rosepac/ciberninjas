@@ -61,6 +61,7 @@ classes: wide
 * [Diseño agronómico del riego localizado](https://miriadax.net/web/diseno-agronomico-del-riego-localizado){:target="_blank"}
 * [Granjero en alimentación y ordeñamiento de vacas](https://edutin.com/curso-de-granjero-alimentacion-y-orde%C3%B1amiento-en-vacas-3335){:target="_blank"}
 * [Retos de la Agricultura y la Alimentación en el Siglo XXI](https://www.edx.org/course/retos-de-la-agricultura-y-la-upvalenciax-ra201x-0){:target="_blank"}
+* [Soluciones de ingeniería en la problemática energética del regadío](https://miriadax.net/web/soluciones-de-ingenieria-en-la-problematica-energetica-del-regadio-3-edicion){:target="_blank"}
 * [Técnico en cultivos vegetales](https://edutin.com/curso-de-tecnico-en-cultivos-vegetales-3337){:target="_blank"}
 * [Tecnología de Invernaderos (2011)](http://ocw.bib.upct.es/course/view.php?id=90){:target="_blank"}
 
@@ -72,12 +73,6 @@ classes: wide
 ## Arquitectura
 
 
-
-### Eficiencia Energética
-
-* [CYPETHERM. Diseño de iluminación](https://www.udemy.com/course/cypelux-cte-diseno-de-iluminacion/){:target="_blank"}
-* [CYPETHERM. Mejoras en Eficiencia Energética](https://www.udemy.com/course/cypetherm-improvement-plus/){:target="_blank"}
-* [CYPETHERM.HE Plus](https://www.udemy.com/course/cypetherm-he-plus/){:target="_blank"}
 
 ## Astronomía
 
@@ -298,6 +293,7 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 
 ## Medio Ambiente
 
+* [Cambio Climático: evidencias, causas socioeconómicas y soluciones](https://miriadax.net/web/cambio-climatico-evidencias-causas-socioeconomicas-y-soluciones-2-edicion-consulta/){:target="_blank"}
 * [Desarrollo sostenible en Cantabria (2012)](https://ocw.unican.es/course/view.php?id=138){:target="_blank"}
 * [Fuentes de información geográfica para SIGs ambientales](https://www.udemy.com/fuentes-de-informacion-geografica-para-sigs-ambientales){:target="_blank"}
 * [Hidraúlica de canales de ingieniería ambiental](https://edutin.com/curso-de-hidraulica-de-canales-en-ingenieria-ambiental-3856){:target="_blank"}
@@ -305,6 +301,17 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 * [Medio Ambiente y Sostenibilidad (2013)](http://ocw.uv.es/ingenieria-y-arquitectura/medio-ambiente-y-sostenibilidad/Course_listing){:target="_blank"}
 * [Medio Ambiente. Valor constitucional y protección penal (2011)](https://ocw.unican.es/course/view.php?id=109){:target="_blank"}
 * [Objetivos del desarrollo sostenible](https://www.udemy.com/objetivos-de-desarrollo-sostenible){:target="_blank"}
+
+### Eficiencia Energética
+
+* [CYPETHERM. Diseño de iluminación](https://www.udemy.com/course/cypelux-cte-diseno-de-iluminacion/){:target="_blank"}
+* [CYPETHERM. Mejoras en Eficiencia Energética](https://www.udemy.com/course/cypetherm-improvement-plus/){:target="_blank"}
+* [CYPETHERM.HE Plus](https://www.udemy.com/course/cypetherm-he-plus/){:target="_blank"}
+* [Eficiencia energética en instalaciones de agua](https://miriadax.net/web/eficiencia-energetica-en-instalaciones-de-agua){:target="_blank"}
+* [Eficiencia hidráulica en redes de agua](https://miriadax.net/web/eficiencia-energetica-en-instalaciones-de-agua){:target="_blank"}
+* [Energía y Ciudad: Hacia la Transición Energética](https://miriadax.net/web/energia-y-ciudad-hacia-la-transicion-energetica-curso-2-edicion/inicio){:target="_blank"}
+* [Mapeado de energías renovables para una red de recursos distribuidos](https://miriadax.net/web/mapeado-de-energias-renovables-para-una-red-de-recursos-distribuidos){:target="_blank"}
+* [Sistemas de gestión energética SGEn, basados en la Norma Internacional ISO 50001](https://miriadax.net/web/mapeado-de-energias-renovables-para-una-red-de-recursos-distribuidos){:target="_blank"}
 
 ## Motivación
 
