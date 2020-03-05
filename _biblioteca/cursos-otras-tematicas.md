@@ -16,30 +16,31 @@ classes: wide
 #   feature: *image
 # twitter:
 #   card: summary_large_image
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 ---
 
 [Agricultura](/cursos-otras-tematicas/#agricultura){: .btn .btn--inverse .btn--large}
 [Albañilería](/cursos-otras-tematicas/#albañilería){: .btn .btn--inverse .btn--large}
+[Arquitectura](/cursos-otras-tematicas/#arquitectura){: .btn .btn--inverse .btn--large}
 [Astronomía](/cursos-otras-tematicas/#astronomía){: .btn .btn--inverse .btn--large}
 [Ciencias: Física y Química](/cursos-otras-tematicas/#ciencias-física--química){: .btn .btn--inverse .btn--large}
 [Cocina](/cursos-otras-tematicas/#cocina){: .btn .btn--inverse .btn--large}
 [Derecho](/cursos-otras-tematicas/#derecho){: .btn .btn--inverse .btn--large}
-[Economía](/cursos-otras-tematicas/#/cursos-otras-tematicas/#economía){: .btn .btn--inverse .btn--large}
-[Educación](/cursos-otras-tematicas/#/cursos-otras-tematicas/#educación){: .btn .btn--inverse .btn--large}
-[Educación Especial](/cursos-otras-tematicas/#/cursos-otras-tematicas/#educación-especial){: .btn .btn--inverse .btn--large}
-[Ejercicio y Deporte](/cursos-otras-tematicas/#/cursos-otras-tematicas/#ejercicio-y-deporte){: .btn .btn--inverse .btn--large}
-[Electrónica](/cursos-otras-tematicas/#/cursos-otras-tematicas/#electrónica){: .btn .btn--inverse .btn--large}
-[Envejecimiento](/cursos-otras-tematicas/#/cursos-otras-tematicas/#envejecimiento){: .btn .btn--inverse .btn--large}
+[Economía](/cursos-otras-tematicas/#economía){: .btn .btn--inverse .btn--large}
+[Educación](/cursos-otras-tematicas/#educación){: .btn .btn--inverse .btn--large}
+[Educación Especial](/cursos-otras-tematicas/#educación-especial){: .btn .btn--inverse .btn--large}
+[Ejercicio y Deporte](/cursos-otras-tematicas/#ejercicio-y-deporte){: .btn .btn--inverse .btn--large}
+[Electrónica](/cursos-otras-tematicas/#electrónica){: .btn .btn--inverse .btn--large}
+[Envejecimiento](/cursos-otras-tematicas/#envejecimiento){: .btn .btn--inverse .btn--large}
 [Estadística](/cursos-otras-tematicas/#estadística){: .btn .btn--inverse .btn--large}
 [Fruticultura](/cursos-otras-tematicas/#fruticultura){: .btn .btn--inverse .btn--large}
-[Historia y Geografía](/cursos-otras-tematicas/#historia-y-geografía){: .btn .btn--inverse .btn--large}
+[Historia y Geografía](/cursos-otras-tematicas/#historia--geografía){: .btn .btn--inverse .btn--large}
 [Humanidades](/cursos-otras-tematicas/#humanidades){: .btn .btn--inverse .btn--large}
 [Idiomas](/cursos-otras-tematicas/#idiomas){: .btn .btn--inverse .btn--large}
-[Ingeniería](/cursos-otras-tematicas/#ingeniería){: .btn .btn--inverse .btn--large}
+[Ingienería](/cursos-otras-tematicas/#ingienería){: .btn .btn--inverse .btn--large}
 [Jurídico](/cursos-otras-tematicas/#jurídico){: .btn .btn--inverse .btn--large}
 [Marketing](/cursos-otras-tematicas/#marketing){: .btn .btn--inverse .btn--large}
 [Matemáticas](/cursos-otras-tematicas/#matemáticas){: .btn .btn--inverse .btn--large}
@@ -48,25 +49,35 @@ toc_sticky: true
 [Motivación](/cursos-otras-tematicas/#motivación){: .btn .btn--inverse .btn--large}
 [Música](/cursos-otras-tematicas/#música){: .btn .btn--inverse .btn--large}
 [Negocio](/cursos-otras-tematicas/#negocio){: .btn .btn--inverse .btn--large}
-[Referencias Bibliográficas](/cursos-otras-tematicas/#referencias-bibliográficas){: .btn .btn--inverse .btn--large}
-[Salud y Nutrición](/cursos-otras-tematicas/#salud-y-nutrición){: .btn .btn--inverse .btn--large}
+[Referencias Bibliográficas](/cursos-otras-tematicas/#referencias-bibliográficas-e-información){: .btn .btn--inverse .btn--large}
+[Salud y Nutrición](/cursos-otras-tematicas/#salud--nutrición){: .btn .btn--inverse .btn--large}
 [Servicios](/cursos-otras-tematicas/#servicios){: .btn .btn--inverse .btn--large}
 [Servicios Sociales](/cursos-otras-tematicas/#servicios-sociales){: .btn .btn--inverse .btn--large}
 [Software Educativo](/cursos-otras-tematicas/#software-educativo){: .btn .btn--inverse .btn--large}
 
 ## Agricultura
 
-* [Cultivos vegetales orgánicos](https://edutin.com/curso-de-cultivos-vegetales-organicos-3336)
-* [Diseño agronómico del riego localizado](https://miriadax.net/web/diseno-agronomico-del-riego-localizado)
-* [Granjero en alimentación y ordeñamiento de vacas](https://edutin.com/curso-de-granjero-alimentacion-y-orde%C3%B1amiento-en-vacas-3335)
-* [Retos de la Agricultura y la Alimentación en el Siglo XXI](https://www.edx.org/course/retos-de-la-agricultura-y-la-upvalenciax-ra201x-0)
-* [Técnico en cultivos vegetales](https://edutin.com/curso-de-tecnico-en-cultivos-vegetales-3337)
-* [Tecnología de Invernaderos (2011)](http://ocw.bib.upct.es/course/view.php?id=90)
+* [Cultivos vegetales orgánicos](https://edutin.com/curso-de-cultivos-vegetales-organicos-3336){:target="_blank"}
+* [Diseño agronómico del riego localizado](https://miriadax.net/web/diseno-agronomico-del-riego-localizado){:target="_blank"}
+* [Granjero en alimentación y ordeñamiento de vacas](https://edutin.com/curso-de-granjero-alimentacion-y-orde%C3%B1amiento-en-vacas-3335){:target="_blank"}
+* [Retos de la Agricultura y la Alimentación en el Siglo XXI](https://www.edx.org/course/retos-de-la-agricultura-y-la-upvalenciax-ra201x-0){:target="_blank"}
+* [Técnico en cultivos vegetales](https://edutin.com/curso-de-tecnico-en-cultivos-vegetales-3337){:target="_blank"}
+* [Tecnología de Invernaderos (2011)](http://ocw.bib.upct.es/course/view.php?id=90){:target="_blank"}
 
 
 ## Albañilería
 
-* [Albañilería Completo](https://edutin.com/curso-de-TIC-en-la-Educacion-I-1792)
+* [Albañilería Completo](https://edutin.com/curso-de-TIC-en-la-Educacion-I-1792){:target="_blank"}
+
+## Arquitectura
+
+
+
+### Eficiencia Energética
+
+* [CYPETHERM. Diseño de iluminación](https://www.udemy.com/course/cypelux-cte-diseno-de-iluminacion/){:target="_blank"}
+* [CYPETHERM. Mejoras en Eficiencia Energética](https://www.udemy.com/course/cypetherm-improvement-plus/){:target="_blank"}
+* [CYPETHERM.HE Plus](https://www.udemy.com/course/cypetherm-he-plus/){:target="_blank"}
 
 ## Astronomía
 
@@ -176,11 +187,11 @@ toc_sticky: true
 
 ## Educación
 
-Los cursos sobre Educación y enfocados hacía los docentes y el profesorado; han sido movido a.. [Ciberninjas Cursos Educación] (https://ciberninjas.com/cursos-educacion/){:target="_blank"}
+Los cursos sobre Educación y enfocados hacía los docentes y el profesorado; han sido movido a.. [Ciberninjas Cursos Educación](/cursos-educacion/){:target="_blank"}
 
 ## Educación Especial
 
-Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido movido a.. [Ciberninjas Cursos Educación] (https://ciberninjas.com/cursos-educacion/){:target="_blank"}
+Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido movido a.. [Ciberninjas Cursos Educación](/cursos-educacion/){:target="_blank"}
 
 ## Ejercicio & Deporte
 
@@ -434,4 +445,4 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 🛑 CURSOS POR CLASIFICAR 🛑
 {: .notice--warning}
 
-Aprende a reparar TV LCD desde cero - Introducción (https://www.udemy.com/share/101H9gAkoaeF5RTXw=){:target="_blank"}
+[Aprende a reparar TV LCD desde cero - Introducción](https://www.udemy.com/share/101H9gAkoaeF5RTXw=){:target="_blank"}
