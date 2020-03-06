@@ -290,7 +290,3 @@ description: ✅ La Mejor Página Web para Programadores 🚀 ¡Las mejores Ofer
 </div>
 </div>
 <span style="display:block; clear: both !important;"></span>
-
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1332405786946273" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1332405786946273" class="fb-xfbml-parse-ignore"><p>🎁 Los Productos 🎁 Más Actuales 🎁 e Interesantes 🎁 Dentro de Nuestra Tienda 😻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1332405786946273">Miércoles, 4 de marzo de 2020</a></blockquote></div>
-
-<span style="display:block; clear: both !important;"></span>
