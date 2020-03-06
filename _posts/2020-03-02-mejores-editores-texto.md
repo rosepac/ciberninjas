@@ -163,6 +163,8 @@ Si eres nuevo en el mundo de la programación, y trabajando con editores de cód
 
 Debido a lo simple y fácil que los desarrolladores lo han hecho, no vas a atascar tu sistema mientras trabajas. Eso significa que es posible que no esté cargando gigabytes de información a la vez, pero para las tareas de desarrollo web habituales, etc., Notepad ++ es más que suficiente.
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331105903742928" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331105903742928" class="fb-xfbml-parse-ignore"><p>👩‍💻 Los mejores libros de Desarrollo de Software, Programación Correcta, Código Limpio, Metodologías Agile y Lean, etc 💼</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331105903742928">Martes, 3 de marzo de 2020</a></blockquote></div>
+
 ## **4. Brackets**
 
 ![](../assets/images/paginas/editores-texto/brackets-editor-1.webp)
@@ -256,6 +258,8 @@ Un entorno de desarrollo Java gratuito diseñado para principiantes, utilizado p
 ### **BlueJ es para ti si..**
 
 Si estas comenzando a programar en Java.
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331101370410048" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331101370410048" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331101370410048">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## **7. Bluefish**
 
@@ -367,6 +371,8 @@ Si tienes alguna distribución de Linux que no sea Ubuntu, adorarás Vim; y esta
 
 Es tan poderoso como cualquier otro editor, seguramente incluso más, pero la interfaz de usuario minimalista puede parecerte desagradable; tendrás que ser paciente hasta atravesar esa fachada arisca y lograr llegar a su hermosa experiencia que te puede ofrecer.
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331103423743176" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331103423743176" class="fb-xfbml-parse-ignore"><p>👩‍💻 Libros para Aprender el lenguaje de programación Dart, el SDK Flutter. Las tecnologías que podrás usar dentro del nuevo Sistema Operativo Fuchsia</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331103423743176">Martes, 3 de marzo de 2020</a></blockquote></div>
+
 ## **10. GNU Emacs**
 
 ![](../assets/images/paginas/editores-texto/emacs-editor.webp)
@@ -456,6 +462,8 @@ Recientemente liberado, el IDE de Komodo es una gran opción. Komodo 12 ahora es
 ### **Komodo IDE es para ti si..**
 
 Si deseas probar algo diferente y nuevo al más alto nivel, sin lugar a dudas. Sobre todo, puede ser muy recomendable, si eres una persona que te manejas en varios lenguajes, por su alta compatibilidad.
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## **13. Eclipse Theia**
 
@@ -559,22 +567,13 @@ Al intentar hacer una lista de los mejores editores de código y editores de tex
 
 Se han quedado fuera algunos editores, del estilo de por ejemplo: Xcode, QtCreator, OpenBeans, NetBeans, CodeBlocks, Anjuta, Monodevelop. Todos los editores específicos para cada lenguaje de programación creados por JetBraints (PHPStorm, Etc), UltraEdit, BBEdit, Coda, Espresso; y seguro que se quedan algunos más.
 
-**Saber Más**: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
-{: .notice--primary}
-
-## Licencia
-
-Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.org/wiki/Apache_License "Licencia Apache 2.0")**.
-
-**Fuente**\: []( ""){:target="_blank"}
-{: .notice--info}
-
 ## Relacionados
 
 [▷ Editores de Texto](/categoria/#editor-de-texto)
   * [Eclipse Theia](/wiki/eclipse-theia)
-[🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2020](/mejores-editores-texto/)
-[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/15-mejores-lenguajes-programacion/)
-[▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331109157075936" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331109157075936" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros con los que aprender a programar en Java y con Android, en Español</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331109157075936">Martes, 3 de marzo de 2020</a></blockquote></div>
+[🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2020](/mejores-editores-texto/)
+
+[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/15-mejores-lenguajes-programacion/)
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1332405786946273" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1332405786946273" class="fb-xfbml-parse-ignore"><p>🎁 Los Productos 🎁 Más Actuales 🎁 e Interesantes 🎁 Dentro de Nuestra Tienda 😻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1332405786946273">Miércoles, 4 de marzo de 2020</a></blockquote></div>
