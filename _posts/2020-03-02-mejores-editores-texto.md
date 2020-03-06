@@ -9,16 +9,16 @@ tags:
 categories:
 - Comparativa
 header:
-  teaser: "/assets/images/paginas/1280-el-codigo-es-mas-que-una-linea.webp"
-  overlay_image: "/assets/images/paginas/1280-el-codigo-es-mas-que-una-linea.webp"
+  teaser: "/assets/images/paginas/editores-texto/1280-el-codigo-es-mas-que-una-linea.webp"
+  overlay_image: "/assets/images/paginas/editores-texto/1280-el-codigo-es-mas-que-una-linea.webp"
   image_description: Los Mejores Editores de Texto, Programas y Aplicaciones para programar como un profesional
   image_alt: Los Mejores Editores de Texto, Programas y Aplicaciones para programar como un profesional
   caption: "Wallpaper"
 title: '📋 ▷ 15 Mejores aplicaciones GRATIS para programar en 2020: Los editores de texto más espectaculares'
 description: >-
-  ✅ Comparativa y revisión de los mejores editores de texto para programar en Javascript, CSS, HTML, Java, Python, etc y totalmente gratuitos
+  ✅ Comparativa y revisión de los mejores editores de texto para programar en CSS, HTML, Java, Python, etc GRATIS
 excerpt: >-
-  ✅ Comparativa y revisión de los mejores editores de texto para programar en Javascript, CSS, HTML, Java, Python, etc y totalmente gratuitos
+  ✅ Comparativa y revisión de los mejores editores de texto para programar en CSS, HTML, Java, Python, etc GRATIS
 canonical_URL: https://ciberninjas.com/mejores-editores-texto/
 permalink: /mejores-editores-texto/
 date: 2020-03-06 14:50:32
