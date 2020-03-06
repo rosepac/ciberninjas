@@ -27,7 +27,12 @@ published: true
 
 ---
 
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+{: .notice--danger}
+
 Bien seas un desarrollador web nuevo o un adicto al código veterano, necesitas un editor de código lo suficientemente robusto como para manejar todo lo que pueda ofrecerte. De hecho, esa va ser tu herramienta principal y más importante con diferencia, de todo tu conjunto de herramientas.
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331113580408827" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331113580408827" class="fb-xfbml-parse-ignore"><p>🧠 Libros de Reflexión Tecnológica en la Actualidad, el día a día de la Sociedad y la Tecnología 💡</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331113580408827">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 Dado que esta es una búsqueda continua para la mayoría de las personas en el campo, queríamos presentar algunas de las mejores opciones, tanto gratuitas como premium, para que las integre en su flujo de trabajo.
 
@@ -60,11 +65,9 @@ Dado que esta es una búsqueda continua para la mayoría de las personas en el c
 </details>
 <br />
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331113580408827" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331113580408827" class="fb-xfbml-parse-ignore"><p>🧠 Libros de Reflexión Tecnológica en la Actualidad, el día a día de la Sociedad y la Tecnología 💡</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331113580408827">Martes, 3 de marzo de 2020</a></blockquote></div>
-
 ## **1. Visual Studio Code de Microsoft**
 
-![](/assets/paginas/editores-texto/1-visual-studio-code.webp)
+![](/assets/images/paginas/editores-texto/1-visual-studio-code.webp)
 
 Visual Studio Code (o VS Code) se ha convertido rápidamente en  el estándar para el desarrollo de software desde su lanzamiento en 2015. Como la mayoría de los productos de Microsoft en estos días, VS Code está disponible en todas las plataformas principales.
 
@@ -97,7 +100,7 @@ El propio programa funciona bien desde el momento en que se ejecuta por primera 
 
 ## **2. Sublime Text**
 
-![](/assets/paginas/editores-texto/sublime-text-3.webp)
+![](/assets/images/paginas/editores-texto/sublime-text-3.webp)
 
 Sublime Text está bastante cerca del estándar de la industria de los editores de texto. La razón para eso es que está diseñado fundamentalmente para el código. No han puesto la misma consideración en sus flujos de trabajo como, por ejemplo, Scrivener o Final Draft, pero tiene la opción de hacer todo dentro de un editor.
 
@@ -128,7 +131,7 @@ Si prefieres una buena experiencia de usuario sobre todo lo demás. Eso no quier
 
 ## **3. Notepad ++**
 
-![](/assets/paginas/editores-texto/notepad-1.webp)
+![](/assets/images/paginas/editores-texto/notepad-1.webp)
 
 Notepad ++ es un editor de texto extremadamente popular. Esto se debe en parte a que es de código abierto gratuito y con licencia GPL.
 
