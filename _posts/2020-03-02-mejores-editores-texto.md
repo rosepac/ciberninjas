@@ -32,8 +32,6 @@ published: true
 
 Bien seas un desarrollador web nuevo o un adicto al código veterano, necesitas un editor de código lo suficientemente robusto como para manejar todo lo que pueda ofrecerte. De hecho, esa va ser tu herramienta principal y más importante con diferencia, de todo tu conjunto de herramientas.
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331113580408827" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331113580408827" class="fb-xfbml-parse-ignore"><p>🧠 Libros de Reflexión Tecnológica en la Actualidad, el día a día de la Sociedad y la Tecnología 💡</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331113580408827">Martes, 3 de marzo de 2020</a></blockquote></div>
-
 Dado que esta es una búsqueda continua para la mayoría de las personas en el campo, queríamos presentar algunas de las mejores opciones, tanto gratuitas como premium, para que las integre en su flujo de trabajo.
 
 ## ¿Cuál es el mejor editor de texto para programar?
@@ -527,6 +525,8 @@ Delphi Community Edition, que se comparte gratuitamente con nuestra comunidad de
 ### **Delphi es para ti si..**
 
 Si programas con el lenguaje de programación específico hacía el que se enfoca el IDE: Object Pascal.
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331113580408827" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331113580408827" class="fb-xfbml-parse-ignore"><p>🧠 Libros de Reflexión Tecnológica en la Actualidad, el día a día de la Sociedad y la Tecnología 💡</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331113580408827">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## **16. Markdown Monster**
 
