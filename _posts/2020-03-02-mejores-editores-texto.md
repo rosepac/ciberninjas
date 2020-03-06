@@ -29,6 +29,8 @@ Bien seas un desarrollador web nuevo o un adicto al código veterano, necesitas 
 
 Dado que esta es una búsqueda continua para la mayoría de las personas en el campo, queríamos presentar algunas de las mejores opciones, tanto gratuitas como premium, para que las integre en su flujo de trabajo.
 
+## ¿Cuál es el mejor editor de texto para programar?
+
 <iframe width ="640" height="360" src="https://www.youtube-nocookie.com/embed/nmR5gEj1l9o?controls=0&showinfo=0" frameborder="0" allowfullscreen> </iframe>
 <br/>
 <details>
@@ -36,10 +38,10 @@ Dado que esta es una búsqueda continua para la mayoría de las personas en el c
 <nav class="menu">
   <ol>
     <li><a href="/mejores-editores-texto/#1-visual-studio-code-de-microsoft">Visual Studio Code: La tanqueta indestructible</a></li>
-    <li><a href="/mejores-editores-texto/#2-atom">Atom: El vehículo anfibio adaptable</a></li>
-    <li><a href="/mejores-editores-texto/#3-sublime-text">Sublime Text: El guaperas entre los minimalistas</a></li>
+    <li><a href="/mejores-editores-texto/#2-sublime-text">Sublime Text: El guaperas entre los minimalistas</a></li>
+    <li><a href="/mejores-editores-texto/#3-notepad-">Notepad ++: La pareja ideal para comenzar el baile</a></li>
     <li><a href="/mejores-editores-texto/#4-brackets">Brackets: La paleta más vistos y perfecta para los artistas</a></li>
-    <li><a href="/mejores-editores-texto/#5-notepad-">Notepad ++: La pareja ideal para comenzar el baile</a></li>
+    <li><a href="/mejores-editores-texto/#5-atom">Atom: El vehículo anfibio adaptable</a></li>
     <li><a href="/mejores-editores-texto/#6-bluefish">Bluefish: El triciclo para los más jóvenes, y para los adultos</a></li>
     <li><a href="/mejores-editores-texto/##7-codeshareio">Codeshare.io: Para volar a cualquier parte, el dron perfecto</a></li>
     <li><a href="/mejores-editores-texto/#8-vim">VIM: Un Ferrari Clásico, algo así como el 512</a></li>
@@ -49,6 +51,8 @@ Dado que esta es una búsqueda continua para la mayoría de las personas en el c
 </nav>
 </details>
 <br />
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331113580408827" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331113580408827" class="fb-xfbml-parse-ignore"><p>🧠 Libros de Reflexión Tecnológica en la Actualidad, el día a día de la Sociedad y la Tecnología 💡</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331113580408827">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## **1. Visual Studio Code de Microsoft**
 
@@ -89,49 +93,7 @@ El propio programa funciona bien desde el momento en que se ejecuta por primera 
 
 No hace falta configurar nada en absoluto, ni instalar nada extra, ni perder tiempo en jugar con complejas configuraciones.
 
-## **2. Atom**
-
-Atom, un proyecto iniciado por  Github y, por lo tanto, ahora propiedad de Microsoft; se ha establecido como uno de los principales editores de código y texto.
-
-La mejor parte es que Atom es totalmente gratuito, de código abierto y altamente personalizable.
-
-Construido alrededor de una base de código mínimo, Atom viene con múltiples paquetes integrados enfocados en diferentes idiomas de programación y además, la comunidad ha ido escribiendo numerosas bibliotecas con el paso de los años.
-
-Atom es tan completo y robusto como necesites: si el editor no es capaz de ofrecer lo que tu necesitas, tu puedes crear esa función. 
-
-Por último, Atom ofrece una interesante característica que te permite que múltiples desarrolladores trabajen sobre el mismo código desde diferentes ubicaciones; denominada Teletype.
-
-Como buenos, padre e hijo, VS Code y Atom compiten entre sí; pero a pesar de ello Microsoft.
-
-Sigue manteniendo ambos editores bajo proyectos separados, como un buen acto de fe hacía las comunidades que trabajan alrededor de ellos.
-
-### **Pros**
-
-1. Navegador del sistema de archivos.
-2. Teletype (trabajo online en equipo interno).
-3. Buscador difuso para abrir archivos rápidamente.
-4. Búsqueda y reemplazo rápidos en todo el proyecto.
-5. Múltiples cursores y selecciones.
-6. Paneles múltiples.
-7. Fragmentos.
-8. Código plegable.
-9. Una interfaz de usuario limpia de preferencias.
-10. Importar gramáticas y temas de TextMate.
-11. Altamente extensible.
-12. Altamente temático.
-13. Comunidad increíblemente apasionada.
-   
-### **Atom es tu editor si..**
-
-Si eres el tipo de persona a la que le gusta que su software sea  exactamente lo que ellos quieren que sea y que haga  exactamente lo que tú quieres que haga.
-
-Con la creciente biblioteca de modificaciones y complementos, Atom es uno de los editores de código más personalizables que existen.
-
-Funciona muy bien desde el primer momento, pero su verdadero poder proviene de la comunidad de código abierto que lo rodea y las personalizaciones casi infinitas que permite agregar a cada persona que lo desee.
-
-Algunas personas se han desanimado por la adquisición de GitHub por parte de Microsoft, pero en los meses posteriores, Atom ha seguido creciendo.
-
-## **3. Sublime Text**
+## **2. Sublime Text**
 
 Sublime Text está bastante cerca del estándar de la industria para editores de texto. Hay una razón para eso.
 
@@ -174,6 +136,38 @@ Eso no quiere decir que Sublime Text no tenga las características que necesita 
 
 Es solo que  usar Sublime Text es la parte más memorable de todo el paquete. Y hay mucho en el paquete.
 
+## **3. Notepad ++**
+
+Notepad ++ es un editor de texto extremadamente popular. Esto se debe en parte a que es de código abierto gratuito y con licencia GPL.
+
+Sin embargo, incluso más que eso, la razón por la que es uno de los mejores editores de texto es que es simple.
+
+No intenta ser Atom o VS Code o Sublime Text. Es un editor de código, simple y llanamente. Los principiantes y los veteranos pueden obtener todo lo que necesitan de él.
+
+Los programadores y desarrolladores a menudo recomiendan esta opción como una excelente opción para alguien que solo está entrando en la edición de código y podría verse abrumado por el entorno ofrecido por otros.
+
+Notepad ++ es una opción maravillosa y simple no solo para principiantes, sino también para desarrolladores de cualquier nivel. Muchos desarrolladores profesionales usan Notepad ++ como su controlador diario porque es liviano, efectivo y hace lo que debe hacer.
+
+La desventaja: el software es solo para Windows. Muchos desarrolladores están en Mac o Linux, pero para aquellos que viven en el territorio de Microsoft, esta es una gran opción para probar, ya que es gratis. No tienes nada que perder. Especialmente si vienes nuevo al campo.
+
+### **Pros**
+
+1. Resaltado de sintaxis.
+2.  Sintaxis Plegable.
+3. Buscar / reemplazar.
+4. Altamente personalizable.
+5. Autocompletado.
+6. Interfaz de pestaña de documentos múltiples.
+7. Acercar y alejar.
+8. Entorno multilenguaje compatible.
+9. Y más.
+
+### **Notepad ++ es para ti si..**
+
+Si eres nuevo en el mundo de la programación, y trabajando con editores de código y deseas facilitar tu línea de aprendizaje. Además, si deseas una opción de recursos livianos, Notepad ++ lo es.
+
+Debido a lo simple y fácil que los desarrolladores lo han hecho, no vas a atascar tu sistema mientras trabajas. Eso significa que es posible que no esté cargando gigabytes de información a la vez, pero para las tareas de desarrollo web habituales, etc., Notepad ++ es más que suficiente.
+
 ## **4. Brackets**
 
 Brackets es otro editor gratuito y de código abierto. Esta vez, no se trata simplemente de un proyecto impulsado por la comunidad: Adobe está detrás de este.
@@ -207,39 +201,64 @@ Para los desarrolladores front-end que trabajan en una agencia de diseño que ti
  
  Además, la herramienta de extracción hace que Brackets sea casi imprescindible para los desarrolladores front-end que trabajan con los PSD de los diseñadores.
 
-## **5. Notepad ++**
+## **5. Atom**
 
-Notepad ++ es un editor de texto extremadamente popular. Esto se debe en parte a que es de código abierto gratuito y con licencia GPL.
+Atom, un proyecto iniciado por  Github y, por lo tanto, ahora propiedad de Microsoft; se ha establecido como uno de los principales editores de código y texto.
 
-Sin embargo, incluso más que eso, la razón por la que es uno de los mejores editores de texto es que es simple.
+La mejor parte es que Atom es totalmente gratuito, de código abierto y altamente personalizable.
 
-No intenta ser Atom o VS Code o Sublime Text. Es un editor de código, simple y llanamente. Los principiantes y los veteranos pueden obtener todo lo que necesitan de él.
+Construido alrededor de una base de código mínimo, Atom viene con múltiples paquetes integrados enfocados en diferentes idiomas de programación y además, la comunidad ha ido escribiendo numerosas bibliotecas con el paso de los años.
 
-Los programadores y desarrolladores a menudo recomiendan esta opción como una excelente opción para alguien que solo está entrando en la edición de código y podría verse abrumado por el entorno ofrecido por otros.
+Atom es tan completo y robusto como necesites: si el editor no es capaz de ofrecer lo que tu necesitas, tu puedes crear esa función. 
 
-Notepad ++ es una opción maravillosa y simple no solo para principiantes, sino también para desarrolladores de cualquier nivel. Muchos desarrolladores profesionales usan Notepad ++ como su controlador diario porque es liviano, efectivo y hace lo que debe hacer.
+Por último, Atom ofrece una interesante característica que te permite que múltiples desarrolladores trabajen sobre el mismo código desde diferentes ubicaciones; denominada Teletype.
 
-La desventaja: el software es solo para Windows. Muchos desarrolladores están en Mac o Linux, pero para aquellos que viven en el territorio de Microsoft, esta es una gran opción para probar, ya que es gratis. No tienes nada que perder. Especialmente si vienes nuevo al campo.
+Como buenos, padre e hijo, VS Code y Atom compiten entre sí; pero a pesar de ello Microsoft.
+
+Sigue manteniendo ambos editores bajo proyectos separados, como un buen acto de fe hacía las comunidades que trabajan alrededor de ellos.
 
 ### **Pros**
 
-1. Resaltado de sintaxis.
-2.  Sintaxis Plegable.
-3. Buscar / reemplazar.
-4. Altamente personalizable.
-5. Autocompletado.
-6. Interfaz de pestaña de documentos múltiples.
-7. Acercar y alejar.
-8. Entorno multilenguaje compatible.
-9. Y más.
+1. Navegador del sistema de archivos.
+2. Teletype (trabajo online en equipo interno).
+3. Buscador difuso para abrir archivos rápidamente.
+4. Búsqueda y reemplazo rápidos en todo el proyecto.
+5. Múltiples cursores y selecciones.
+6. Paneles múltiples.
+7. Fragmentos.
+8. Código plegable.
+9. Una interfaz de usuario limpia de preferencias.
+10. Importar gramáticas y temas de TextMate.
+11. Altamente extensible.
+12. Altamente temático.
+13. Comunidad increíblemente apasionada.
+   
+### **Atom es tu editor si..**
 
-### **Notepad ++ es para ti si..**
+Si eres el tipo de persona a la que le gusta que su software sea  exactamente lo que ellos quieren que sea y que haga  exactamente lo que tú quieres que haga.
 
-Si eres nuevo en el mundo de la programación, y trabajando con editores de código y deseas facilitar tu línea de aprendizaje. Además, si deseas una opción de recursos livianos, Notepad ++ lo es.
+Con la creciente biblioteca de modificaciones y complementos, Atom es uno de los editores de código más personalizables que existen.
 
-Debido a lo simple y fácil que los desarrolladores lo han hecho, no vas a atascar tu sistema mientras trabajas. Eso significa que es posible que no esté cargando gigabytes de información a la vez, pero para las tareas de desarrollo web habituales, etc., Notepad ++ es más que suficiente.
+Funciona muy bien desde el primer momento, pero su verdadero poder proviene de la comunidad de código abierto que lo rodea y las personalizaciones casi infinitas que permite agregar a cada persona que lo desee.
 
-## **6. Bluefish**
+Algunas personas se han desanimado por la adquisición de GitHub por parte de Microsoft, pero en los meses posteriores, Atom ha seguido creciendo.
+
+## **6. BlueJ**
+
+Un entorno de desarrollo Java gratuito diseñado para principiantes, utilizado por millones en todo el mundo. Apoyado y soportado por Oracle.
+
+### **Pros**
+
+1. Diseñador para el aprendizaje.
+2. Ofrece opciones de interacción entre objetos.
+3. Numerosas integraciones y banco de objetos.
+4. El editor favorito de James Gosling, el creador de Java.
+
+### **BlueJ es para ti si..**
+
+Si estas comenzando a programar en Java.
+
+## **7. Bluefish**
 
 Bluefish es más un  IDE  que un editor de texto real, lo que significa que puede ser un poco avanzado para los usuarios nuevos.
 
@@ -272,7 +291,7 @@ Es posible que esta no sea la mejor opción para los programadores nuevos porque
 
 Con Bluefish, puedes hacer mucho si quieres esforzarte un poco por aprender a hacerlo cantar. No tiene el pulido de los IDE hechos por compañías como JetBrains (ver más abajo en la sección Premium), pero no mucho. Sin embargo, para una opción gratuita, es fenomenal.
 
-## **7. Codeshare.io**
+## **8. Codeshare.io**
 
 Codeshare, es un producto interesante. Es un editor de código gratuito basado en navegador que permite que cualquier persona codifique de forma gratuita.
 
@@ -306,7 +325,7 @@ Sus características disponibles lo hacen sentir estable y robusto, algo así co
 
 Simplemente no esperes un IDE de él.
 
-## **8. VIM**
+## **9. VIM**
 
 Vim es hardcore. Seamos claros acerca de eso por adelantado. Cuando Sublime Text, Notepad ++ y algunos de los otros editores de esta lista son amigables para los novatos, Vim no se aconseja en absoluto por su total minimalismo.
 
@@ -343,7 +362,7 @@ Si tienes alguna distribución de Linux que no sea Ubuntu, adorarás Vim; y esta
 
 Es tan poderoso como cualquier otro editor, seguramente incluso más, pero la interfaz de usuario minimalista puede parecerte desagradable; tendrás que ser paciente hasta atravesar esa fachada arisca y lograr llegar a su hermosa experiencia que te puede ofrecer.
 
-## **9. GNU Emacs**
+## **10. GNU Emacs**
 
 Habiendo incluido a Vim, nos sentimos obligados a incluir también a Emacs. Para los desarrolladores, Emacs y Vim tienen la misma relación que Pepsi y Coca Cola o Star Wars y Star Trek.
 
@@ -375,7 +394,7 @@ Si prefierse la funcionalidad por encima de la interfaz pero Vim es demasiado m�
 
 Definitivamente, este no es uno de los mejores editores de texto para novatos, pero si has estado incursionando en diferentes entornos durante un tiempo y deseas mejorar la eficiencia, Emacs es justo lo que estás buscando.
 
-## **10. Spacemacs**
+## **11. Spacemacs**
 
 Ahora que está familiarizado con VIM y Emacs, permítanos presentarle Spacemacs, cuyo lema es "El mejor editor no es Emacs ni Vin, son Emacs  y VIM".
 
@@ -406,11 +425,9 @@ Si sabes que significa esto:
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 ```
 
-## **11. Komodo IDE**
+## **12. Komodo IDE**
 
-Recientemente liberado, el IDE de Komodo es una gran opción. Komodo 12 ahora está integrado con la plataforma ActiveState para crear su distribución de idiomas automáticamente. Ahora puede usar la CLI de ActiveState, la Herramienta de estado, para crear nuevos proyectos de tiempo de ejecución, así como agregar, eliminar y enumerar todos los paquetes.
-
-Sin lugar a dudas una gran opción.
+Recientemente liberado, el IDE de Komodo es una gran opción. Komodo 12 ahora está integrado con la plataforma ActiveState para crear su distribución de idiomas automáticamente. Ahora puede usar la CLI de ActiveState, la Herramienta de estado, para crear nuevos proyectos de tiempo de ejecución, así como agregar, eliminar y enumerar todos los paquetes. Sin lugar a dudas una buena opción.
 
 ### **Pros**
 
@@ -429,22 +446,24 @@ Sin lugar a dudas una gran opción.
 
 Si deseas probar algo diferente y nuevo al más alto nivel, sin lugar a dudas. Sobre todo, puede ser muy recomendable, si eres una persona que te manejas en varios lenguajes, por su alta compatibilidad.
 
-👷‍♂️ EN CONSTRUCCIÓN.. 👷‍♂️ 👇
-{: .notice--info}
+## **13. Eclipse Theia**
 
-## **12. Eclipse Theia**
+Eclipse Theia es una plataforma extensible para desarrollar IDE de nube y escritorio en varios idiomas con tecnologías web de última generación.
+
+Si deseas conocer más, sobre [Eclipse Theia](/wiki/eclipse-theia)
 
 ### **Pros**
+
+1. Theia puede desarrollar un IDE y ejecutarlo en navegadores o aplicaciones de escritorio nativas.
+2. Alojado en la Fundación Eclipse, Fundación de Código Abierto.
+3. Diseño modular.
+4. Basado en el protocolo del servidor de idiomas , Theia se beneficia de un ecosistema creciente demás de 60 servidores de idiomas disponibles.
+5. Theia integra un terminal con todas sus funciones.
+6. Theia se basa en PhosphorJS, que proporciona una base sólida de widgets fácilmente arrastrables.
 
 ### **Eclipse Theia es para ti si..**
 
-## **13. BlueJ**
-
-Editor de texto apoya por la reconocida Oracle-
-
-### **Pros**
-
-### **BlueJ es para ti si..**
+Si trabajas habitualmente a través de la nube, si estás familiarizado con la Fundación Eclipse o si quieres implicarte dentro de un proyecto nuevo, si deseas algo diferente.
 
 ## **14. Light Table**
 
@@ -452,15 +471,52 @@ Editor de texto apoya por la reconocida Oracle-
 
 ### **Light Table es para ti si..**
 
-## **15. Markdown Monster**
+## **15. Delphi Community Edition**
+
+Delphi Community Edition, que se comparte gratuitamente con nuestra comunidad de desarrolladores freelance, empresas emergentes, estudiantes y organizaciones sin fines de lucro, es un IDE con todas las características para crear aplicaciones iOS, Android, Windows y macOS a partir de un código fuente Delphi (licencia de uso comercial limitado). Delphi Community Edition incluye un editor de código, potentes herramientas de depuración, acceso integrado a bases de datos locales populares con datos en tiempo real en tiempo de diseño, funcionalidad Bluetooth y de IoT y un diseñador visual de UI con soporte para diseño de píxel perfecto y específico para la plataforma.
 
 ### **Pros**
 
-## Delphi
+1. Delphi Community Edition te proporciona herramientas de desarrollo integradas y de nivel profesional desde el 1.er día.
+2. Desarrollas aplicaciones para Windows, macOS, Android y iOS con un solo código fuente.
+3. Diseño visual con los frameworks VCL y FireMonkey de Delphi.
+4. Herramientas integradas de depuración que te permiten depurar en cualquier dispositivo.
+5. Crea aplicaciones de bases de datos con funcionalidad local/integrada.
+6. Cientos de componentes incluidos para mejorar tu aplicación y reducir los ciclos de desarrollo.
+7. Enfocado al lenguaje Object Pascal.
+
+### **Delphi es para ti si..**
+
+Si programas con el lenguaje de programación específico hacía el que se enfoca el IDE: Object Pascal.
+
+## **16. Markdown Monster**
+
+Markdown Monster no es un editor al uso, no se centra en la programación concretamente. Si no, en el lenguaje de marcado ligero de fácil aprendizaje y que más aceptación esta teniendo; denominado Markdown.
+
+Sin lugar a dudas Monster nos ofrece una extensa gama de posibilidades a la hora de prefabricar nuestras publicaciones.
+
+Solamente se encuentra disponible para Windows.
 
 ### **Pros**
 
-Un editor de texto centro mayoritariamente en C++.
+1. Sintaxis coloreada Markdown
+2. Vista previa de HTML en vivo
+3. Corrector ortográfico en línea
+4. Incrustar imágenes, enlaces y emoji
+5. Pegar imágenes desde el portapapeles
+6. Captura e incrusta capturas de pantalla
+7. Guardar en HTML y PDF
+8. Publicación y edición de weblogs
+9. Conversión de HTML a Markdown
+10. Editor y vista previa de temas
+11. Integración Git
+12. Esquema del documento
+13. Expansión de texto de plantilla
+14. .NET scripting y complementos
+
+### **Markdown Monster es para ti si..**
+
+Si eres escritor, redactor o creador de contenidos; y tienes la posibilidad de realizar tus artículos a través del lenguaje de marcado de Markdown (personalmente, te recomiendo al 100% de que te acostumbres a utilizarlo -markdown-) y quieres facilitar al máximo la edición y publicación de tus trabajos.
 
 ## **Conclusión**
 
@@ -496,4 +552,4 @@ Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.or
 [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/15-mejores-lenguajes-programacion/)
 [▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
 
-<div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1046498462399360" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1046498462399360" class="fb-xfbml-parse-ignore"><p>🛒 Los mejores libros con los que aprender Android y Java, en Español</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1046498462399360">Viernes, 21 de febrero de 2020</a></blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331109157075936" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331109157075936" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros con los que aprender a programar en Java y con Android, en Español</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331109157075936">Martes, 3 de marzo de 2020</a></blockquote></div>
