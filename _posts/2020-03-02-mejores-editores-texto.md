@@ -64,6 +64,8 @@ Dado que esta es una búsqueda continua para la mayoría de las personas en el c
 
 ## **1. Visual Studio Code de Microsoft**
 
+![](/assets/paginas/editores-texto/1-visual-studio-code.webp)
+
 Visual Studio Code (o VS Code) se ha convertido rápidamente en  el estándar para el desarrollo de software desde su lanzamiento en 2015. Como la mayoría de los productos de Microsoft en estos días, VS Code está disponible en todas las plataformas principales.
 
 Eso significa que los desarrolladores en Mac, Windows y Linux pueden usar esta herramienta increíblemente poderosa, que no es exactamente un IDE (que en realidad es un producto completamente diferente), VS Code puede asumir la mayoría de las tareas de un IDE con la configuración correcta y la biblioteca de complementos.
@@ -95,11 +97,13 @@ El propio programa funciona bien desde el momento en que se ejecuta por primera 
 
 ## **2. Sublime Text**
 
-Sublime Text está bastante cerca del estándar de la industria de los editores de texto. La razón para eso es que está diseñado fundamentalmente para el código. No han puesto la misma consideración en sus flujos de trabajo como, por ejemplo, Scrivener  o  Final Draft, pero tiene la opción de hacer todo dentro de un editor.
+![](/assets/paginas/editores-texto/sublime-text-3.webp)
+
+Sublime Text está bastante cerca del estándar de la industria de los editores de texto. La razón para eso es que está diseñado fundamentalmente para el código. No han puesto la misma consideración en sus flujos de trabajo como, por ejemplo, Scrivener o Final Draft, pero tiene la opción de hacer todo dentro de un editor.
 
 Al igual que Atom y VS Code, Sublime Text tiene un repositorio de paquetes increíblemente activo que extiende sus características mucho más allá de la descarga inicial. Sublime Text es un hermoso editor de código rico en funciones.
 
-Quizás el mayor atractivo es que le da una gran importancia a la experiencia del usuario; su UX es probablemente el más minimalista de todas los enumerados a lo largo de la lista.
+Quizás el mayor atractivo es que le da una gran importancia a la experiencia del usuario, su UX es probablemente el más minimalista de todas los enumerados a lo largo de la lista.
 
 Esto se debe a características como el modo de escritura sin distracciones, accesos directos rápidos / búsqueda, edición dividida y mucho más. Una de las características más importantes que los usuarios hacen alarde es el sistema de atajo de teclado ridículamente intuitivo.
 
@@ -123,6 +127,8 @@ Una vez que te acostumbres a los atajos de teclado de Sublime, bueno, sublime, t
 Si prefieres una buena experiencia de usuario sobre todo lo demás. Eso no quiere decir que Sublime Text no tenga las características que necesites para casi todos los proyectos (sí las tiene). Es solo que  usar Sublime Text es la parte más impresionante de todo el programa, y hay muchos paquetes más dentro del proyecto.
 
 ## **3. Notepad ++**
+
+![](/assets/paginas/editores-texto/notepad-1.webp)
 
 Notepad ++ es un editor de texto extremadamente popular. Esto se debe en parte a que es de código abierto gratuito y con licencia GPL.
 
@@ -156,6 +162,8 @@ Debido a lo simple y fácil que los desarrolladores lo han hecho, no vas a atasc
 
 ## **4. Brackets**
 
+![](../assets/images/paginas/editores-texto/brackets-editor-1.webp)
+
 Brackets es otro editor gratuito y de código abierto. Esta vez, no se trata simplemente de un proyecto impulsado por la comunidad: Adobe está detrás de este.
 
 Sí, el adobe. De Photoshop, Illustrator, etc. Por eso, espere pulido y poder. Brackets está diseñado para ser mínimo pero potente. Sin embargo, ofrece algunas características únicas y útiles.
@@ -186,6 +194,8 @@ Para los desarrolladores front-end que trabajan en una agencia de diseño que ti
  Además, la herramienta de extracción hace que Brackets sea casi imprescindible para los desarrolladores front-end que trabajan con los PSD de los diseñadores.
 
 ## **5. Atom**
+
+![](../assets/images/paginas/editores-texto/atom-1.webp)
 
 Atom, un proyecto iniciado por  Github y, por lo tanto, ahora propiedad de Microsoft; se ha establecido como uno de los principales editores de código y texto.
 
@@ -229,6 +239,8 @@ Algunas personas se han desanimado por la adquisición de GitHub por parte de Mi
 
 ## **6. BlueJ**
 
+![](../assets/images/paginas/editores-texto/bluej-esquema.png)
+
 Un entorno de desarrollo Java gratuito diseñado para principiantes, utilizado por millones en todo el mundo. Apoyado y soportado por Oracle.
 
 ### **Pros**
@@ -243,6 +255,8 @@ Un entorno de desarrollo Java gratuito diseñado para principiantes, utilizado p
 Si estas comenzando a programar en Java.
 
 ## **7. Bluefish**
+
+![](../assets/images/paginas/editores-texto/bluefish-code.webp)
 
 Bluefish es más un  IDE  que un editor de texto real, lo que significa que puede ser un poco avanzado para los usuarios nuevos.
 
@@ -277,6 +291,8 @@ Con Bluefish, puedes hacer mucho si quieres esforzarte un poco por aprender a ha
 
 ## **8. Codeshare.io**
 
+![](../assets/images/paginas/editores-texto/codeshare.webp)
+
 Codeshare, es un producto interesante. Es un editor de código gratuito basado en navegador que permite que cualquier persona codifique de forma gratuita.
 
 Si creas una cuenta, incluso puedes guardar tu código. Codeshare no es una herramienta de trabajo para el día a día. Con seguridad, no estarás, creando de un proyecto constantemente a través del trabajo en línea.
@@ -310,6 +326,8 @@ Sus características disponibles lo hacen sentir estable y robusto, algo así co
 Simplemente no esperes un IDE de él.
 
 ## **9. VIM**
+
+![](../assets/images/paginas/editores-texto/vim-editor.webp)
 
 Vim es hardcore. Seamos claros acerca de eso por adelantado. Cuando Sublime Text, Notepad ++ y algunos de los otros editores de esta lista son amigables para los novatos, Vim no se aconseja en absoluto por su total minimalismo.
 
@@ -348,6 +366,8 @@ Es tan poderoso como cualquier otro editor, seguramente incluso más, pero la in
 
 ## **10. GNU Emacs**
 
+![](../assets/images/paginas/editores-texto/emacs-editor.webp)
+
 Habiendo incluido a Vim, nos sentimos obligados a incluir también a Emacs. Para los desarrolladores, Emacs y Vim tienen la misma relación que Pepsi y Coca Cola o Star Wars y Star Trek.
 
 Son casi dos caras de la misma moneda, ya que están absolutamente diseñados para la mejor experiencia de desarrollador posible, al tiempo que eliminan muchas de las características extrañas que son barreras para la eficiencia.
@@ -380,6 +400,8 @@ Definitivamente, este no es uno de los mejores editores de texto para novatos, p
 
 ## **11. Spacemacs**
 
+![](../assets/images/paginas/editores-texto/spacemacs-editor.webp)
+
 Ahora que está familiarizado con VIM y Emacs, permítanos presentarle Spacemacs, cuyo lema es "El mejor editor no es Emacs ni Vin, son Emacs  y VIM".
 
 En lugar de tener que elegir entre los editores de código, Pepsi o Coca-Cola, ya sabes. Obtienes lo mejor de ambos mundos en un nuevo editor de código abierto. El hecho de que combine los dos en un paquete más agradable que cualquiera de los dos no significa que sea más accesible.
@@ -411,6 +433,8 @@ git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 
 ## **12. Komodo IDE**
 
+![](../assets/images/paginas/editores-texto/komodo-ide.webp)
+
 Recientemente liberado, el IDE de Komodo es una gran opción. Komodo 12 ahora está integrado con la plataforma ActiveState para crear su distribución de idiomas automáticamente. Ahora puede usar la CLI de ActiveState, la Herramienta de estado, para crear nuevos proyectos de tiempo de ejecución, así como agregar, eliminar y enumerar todos los paquetes. Sin lugar a dudas una buena opción.
 
 ### **Pros**
@@ -432,6 +456,8 @@ Si deseas probar algo diferente y nuevo al más alto nivel, sin lugar a dudas. S
 
 ## **13. Eclipse Theia**
 
+![](../assets/images/paginas/editores-texto/theia-experimental.webp)
+
 Eclipse Theia es una plataforma extensible para desarrollar IDE de nube y escritorio en varios idiomas con tecnologías web de última generación.
 
 Si deseas conocer más, sobre [Eclipse Theia](/wiki/eclipse-theia)
@@ -450,6 +476,8 @@ Si deseas conocer más, sobre [Eclipse Theia](/wiki/eclipse-theia)
 Si trabajas habitualmente a través de la nube, si estás familiarizado con la Fundación Eclipse o si quieres implicarte dentro de un proyecto nuevo, si deseas algo diferente.
 
 ## **14. Light Table**
+
+![](../assets/images/paginas/editores-texto/lighttable-editor.webp)
 
 Light Table es un entorno de desarrollo integrado para ingeniería de software desarrollado por Chris Granger y Robert Abori. Cuenta con comentarios en tiempo real que permiten la ejecución instantánea, la depuración y el acceso a la documentación.
 
@@ -471,6 +499,8 @@ Si buscas un editor diferente a los más utilizados; o bien uno enfocado en trab
 
 ## **15. Delphi Community Edition**
 
+![](../assets/images/paginas/editores-texto/delphi-editor.webp)
+
 Delphi Community Edition, que se comparte gratuitamente con nuestra comunidad de desarrolladores freelance, empresas emergentes, estudiantes y organizaciones sin fines de lucro, es un IDE con todas las características para crear aplicaciones iOS, Android, Windows y macOS a partir de un código fuente Delphi (licencia de uso comercial limitado). Delphi Community Edition incluye un editor de código, potentes herramientas de depuración, acceso integrado a bases de datos locales populares con datos en tiempo real en tiempo de diseño, funcionalidad Bluetooth y de IoT y un diseñador visual de UI con soporte para diseño de píxel perfecto y específico para la plataforma.
 
 ### **Pros**
@@ -488,6 +518,8 @@ Delphi Community Edition, que se comparte gratuitamente con nuestra comunidad de
 Si programas con el lenguaje de programación específico hacía el que se enfoca el IDE: Object Pascal.
 
 ## **16. Markdown Monster**
+
+![](../assets/images/paginas/editores-texto/editor-markdown-monster-1.webp)
 
 Markdown Monster no es un editor al uso, no se centra en la programación concretamente. Si no, en el lenguaje de marcado ligero de fácil aprendizaje y que más aceptación esta teniendo; denominado Markdown.
 
