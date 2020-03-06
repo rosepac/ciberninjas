@@ -9,7 +9,11 @@ tags:
 categories:
 - Comparativa
 header:
-  teaser: /assets/images/blog/mejores-editores-texto.webp
+  teaser: "/assets/images/paginas/1280-el-codigo-es-mas-que-una-linea.webp"
+  overlay_image: "/assets/images/paginas/1280-el-codigo-es-mas-que-una-linea.webp"
+  image_description: Los Mejores Editores de Texto, Programas y Aplicaciones para programar como un profesional
+  image_alt: Los Mejores Editores de Texto, Programas y Aplicaciones para programar como un profesional
+  caption: "Wallpaper"
 title: '📋 ▷ 15 Mejores aplicaciones GRATIS para programar en 2020: Los editores de texto más espectaculares'
 description: >-
   ✅ Comparativa y revisión de los mejores editores de texto para programar en Javascript, CSS, HTML, Java, Python, etc y totalmente gratuitos
@@ -17,13 +21,11 @@ excerpt: >-
   ✅ Comparativa y revisión de los mejores editores de texto para programar en Javascript, CSS, HTML, Java, Python, etc y totalmente gratuitos
 canonical_URL: https://ciberninjas.com/mejores-editores-texto/
 permalink: /mejores-editores-texto/
-date: 2020-03-02 14:50:32
+date: 2020-03-06 14:50:32
 last_modified_at: 
 published: true
 
 ---
-
-![Los mejores programas para programar totalmente gratis 2020](/assets/images/blog/mejores-editores-texto.webp "Los mejores programas para programar totalmente gratis 2020")
 
 Bien seas un desarrollador web nuevo o un adicto al código veterano, necesitas un editor de código lo suficientemente robusto como para manejar todo lo que pueda ofrecerte. De hecho, esa va ser tu herramienta principal y más importante con diferencia, de todo tu conjunto de herramientas.
 
@@ -42,11 +44,17 @@ Dado que esta es una búsqueda continua para la mayoría de las personas en el c
     <li><a href="/mejores-editores-texto/#3-notepad-">Notepad ++: La pareja ideal para comenzar el baile</a></li>
     <li><a href="/mejores-editores-texto/#4-brackets">Brackets: La paleta más vistos y perfecta para los artistas</a></li>
     <li><a href="/mejores-editores-texto/#5-atom">Atom: El vehículo anfibio adaptable</a></li>
-    <li><a href="/mejores-editores-texto/#6-bluefish">Bluefish: El triciclo para los más jóvenes, y para los adultos</a></li>
-    <li><a href="/mejores-editores-texto/##7-codeshareio">Codeshare.io: Para volar a cualquier parte, el dron perfecto</a></li>
-    <li><a href="/mejores-editores-texto/#8-vim">VIM: Un Ferrari Clásico, algo así como el 512</a></li>
-    <li><a href="/mejores-editores-texto/#9-gnu-emacs">EMacs: Un Porsche Clásico, algo así como el 911 Turbo</a></li>
-    <li><a href="/mejores-editores-texto/##10-spacemacs">Spacemacs: El más díficil de conducir, algo así como un Lamborghini Veneno</a></li>
+    <li><a href="/mejores-editores-texto/#6-bluej">BlueJ: El triciclo para los más jóvenes, y para los adultos</a></li>
+    <li><a href="/mejores-editores-texto/##7-bluefish">BlueFish: Para volar a cualquier parte, el dron perfecto</a></li>
+    <li><a href="/mejores-editores-texto/#8-codeshareio">Codeshare IO</a></li>
+    <li><a href="/mejores-editores-texto/#9-vim">VIM: Un Ferrari Clásico, algo así como el 512</a></li>
+    <li><a href="/mejores-editores-texto/#10-gnu-emacs">EMacs: Un Porsche Clásico, algo así como el 911 Turbo</a></li>
+    <li><a href="/mejores-editores-texto/##11-spacemacs">Spacemacs: El más díficil de conducir, algo así como un Lamborghini Veneno</a></li>
+    <li><a href="/mejores-editores-texto/#12-komodo-ide">Komodo IDE: El dragón que puede con todo</a></li>
+    <li><a href="/mejores-editores-texto/#13-eclipse-theia">Eclipse Theia: Regresando a la luna</a></li>
+    <li><a href="/mejores-editores-texto/#14-light-table">Light Table</a></li>
+    <li><a href="/mejores-editores-texto/#15-delphi-community-edition">Delphi Community Edition</a></li>
+    <li><a href="/mejores-editores-texto/#16-markdown-monster">Markdown Monster: El monstruo del Markdown</a></li>
   </ol>
 </nav>
 </details>
@@ -58,13 +66,9 @@ Dado que esta es una búsqueda continua para la mayoría de las personas en el c
 
 Visual Studio Code (o VS Code) se ha convertido rápidamente en  el estándar para el desarrollo de software desde su lanzamiento en 2015. Como la mayoría de los productos de Microsoft en estos días, VS Code está disponible en todas las plataformas principales.
 
-Eso significa que los desarrolladores en Mac, Windows y Linux pueden usar esta herramienta increíblemente poderosa.
+Eso significa que los desarrolladores en Mac, Windows y Linux pueden usar esta herramienta increíblemente poderosa, que no es exactamente un IDE (que en realidad es un producto completamente diferente), VS Code puede asumir la mayoría de las tareas de un IDE con la configuración correcta y la biblioteca de complementos.
 
-No es exactamente un IDE (que en realidad es un producto completamente diferente), VS Code puede asumir la mayoría de las tareas de un IDE con la configuración correcta y la biblioteca de complementos.
-
-La comunidad de VS Code es increíblemente apasionada, y eso funciona en beneficio de todos.
-
-Dado que VS Code es de código abierto, esa comunidad trabaja excepcionalmente duro para mantener a VS Code competitivo con el resto del campo. Escrito en Node.js y Electron, puede estar seguro de que el código no quedará desactualizado o se retrasará en el corto plazo.
+La comunidad de VS Code es increíblemente apasionada, y eso funciona en beneficio de todos; dado que VS Code es de código abierto, esa comunidad trabaja excepcionalmente duro para mantener a VS Code competitivo con el resto del campo. Escrito en Node.js y Electron, puede estar seguro de que el código no quedará desactualizado o se retrasará en el corto plazo.
 
 ### **Pros**
 
@@ -85,35 +89,21 @@ Si requieres un editor de texto, básicamente. VS Code es casi perfecto. Si bien
 
 Claro que, la interfaz de usuario comparte similitudes entre algunos de los productos de MS (que pueden parecerte buenos o malos diseños), pero eso es puramente superficial.
 
-VS Code funciona muy bien en todas las plataformas en los que lo pruebes, y no vas a encontrar diferencias notables de rendimiento entre una u otra.
+VS Code funciona muy bien en todas las plataformas en los que lo pruebes, y no vas a encontrar diferencias notables de rendimiento entre una u otra. Aunque el editor de código, VS Code, tiene toneladas de paquetes / plugins que puedes descargar para personalizarlo a tu gusto, no tiene porque hacerlo.
 
-Aunque el editor de código, VS Code, tiene toneladas de paquetes / plugins que puedes descargar para personalizarlo a tu gusto, no tiene porque hacerlo.
-
-El propio programa funciona bien desde el momento en que se ejecuta por primera vez, y tanto Git como el depurador integrados; simplemente funcionan.
-
-No hace falta configurar nada en absoluto, ni instalar nada extra, ni perder tiempo en jugar con complejas configuraciones.
+El propio programa funciona bien desde el momento en que se ejecuta por primera vez, y tanto Git como el depurador integrados; simplemente funcionan. No hace falta configurar nada en absoluto, ni instalar nada extra, ni perder tiempo en jugar con complejas configuraciones.
 
 ## **2. Sublime Text**
 
-Sublime Text está bastante cerca del estándar de la industria para editores de texto. Hay una razón para eso.
+Sublime Text está bastante cerca del estándar de la industria de los editores de texto. La razón para eso es que está diseñado fundamentalmente para el código. No han puesto la misma consideración en sus flujos de trabajo como, por ejemplo, Scrivener  o  Final Draft, pero tiene la opción de hacer todo dentro de un editor.
 
-Ser diseñado para código, marcado  y  prosa es una gran ventaja. No han puesto la misma consideración en sus flujos de trabajo en prosa como, por ejemplo,  Scrivener  o  Final Draft , pero tiene la opción de hacer todo dentro de un editor.
+Al igual que Atom y VS Code, Sublime Text tiene un repositorio de paquetes increíblemente activo que extiende sus características mucho más allá de la descarga inicial. Sublime Text es un hermoso editor de código rico en funciones.
 
-Al igual que Atom y VS Code, Sublime Text tiene un repositorio de paquetes increíblemente activo que extiende sus características mucho más allá de la descarga inicial.
+Quizás el mayor atractivo es que le da una gran importancia a la experiencia del usuario; su UX es probablemente el más minimalista de todas los enumerados a lo largo de la lista.
 
-Sublime Text es un hermoso editor de código rico en funciones.
+Esto se debe a características como el modo de escritura sin distracciones, accesos directos rápidos / búsqueda, edición dividida y mucho más. Una de las características más importantes que los usuarios hacen alarde es el sistema de atajo de teclado ridículamente intuitivo.
 
-Quizás el mayor atractivo es que le da una gran importancia a la experiencia del usuario.
-
-El UX es probablemente el más ajustado de todas las entradas en la lista.
-
-Esto se debe a características como el modo de escritura sin distracciones, accesos directos rápidos / búsqueda, edición dividida y mucho más.
-
-Una de las características más importantes que los usuarios hacen alarde es el sistema de atajo de teclado ridículamente intuitivo.
-
-Una vez que te acostumbres a los atajos de teclado de Sublime, bueno, sublime, te preguntarás cómo alguna vez escribiste una palabra sin ellos.
-
-Si bien hay un precio de $ 80 adjunto a Sublime, ofrecen una prueba indefinida e interminable.
+Una vez que te acostumbres a los atajos de teclado de Sublime, bueno, sublime, te preguntarás cómo alguna vez escribiste una palabra sin ellos. Si bien hay un precio de $ 80 adjunto a Sublime, ofrecen una prueba indefinida e interminable.
 
 ### **Pros**
 
@@ -130,11 +120,7 @@ Si bien hay un precio de $ 80 adjunto a Sublime, ofrecen una prueba indefinida e
 
 ### **Sublime Text es tu editor si..**
 
-Si prefiere una buena experiencia de usuario sobre todo lo demás.
-
-Eso no quiere decir que Sublime Text no tenga las características que necesita para casi todos los proyectos (sí), y eso no quiere decir que Sublime Text no sea un caballo de batalla que no pueda manejar proyectos importantes (sí lo es).
-
-Es solo que  usar Sublime Text es la parte más memorable de todo el paquete. Y hay mucho en el paquete.
+Si prefieres una buena experiencia de usuario sobre todo lo demás. Eso no quiere decir que Sublime Text no tenga las características que necesites para casi todos los proyectos (sí las tiene). Es solo que  usar Sublime Text es la parte más impresionante de todo el programa, y hay muchos paquetes más dentro del proyecto.
 
 ## **3. Notepad ++**
 
@@ -172,9 +158,7 @@ Debido a lo simple y fácil que los desarrolladores lo han hecho, no vas a atasc
 
 Brackets es otro editor gratuito y de código abierto. Esta vez, no se trata simplemente de un proyecto impulsado por la comunidad: Adobe está detrás de este.
 
-Sí, el adobe. De Photoshop, Illustrator, etc. Por eso, espere pulido y poder.
-
-Brackets está diseñado para ser mínimo pero potente. Sin embargo, ofrece algunas características únicas y útiles.
+Sí, el adobe. De Photoshop, Illustrator, etc. Por eso, espere pulido y poder. Brackets está diseñado para ser mínimo pero potente. Sin embargo, ofrece algunas características únicas y útiles.
 
 Una de esas características es Extraer, una herramienta que le permite extraer información como colores, fuentes, gradientes, medidas, directamente desde PSD como CSS limpio.
 
@@ -467,9 +451,23 @@ Si trabajas habitualmente a través de la nube, si estás familiarizado con la F
 
 ## **14. Light Table**
 
+Light Table es un entorno de desarrollo integrado para ingeniería de software desarrollado por Chris Granger y Robert Abori. Cuenta con comentarios en tiempo real que permiten la ejecución instantánea, la depuración y el acceso a la documentación.
+
+La retroalimentación instantánea proporciona un entorno de ejecución inusual destinado a ayudar a desarrollar abstracciones. El equipo de desarrollo intentó crear un programa que muestre al programador cuáles son los efectos de sus adiciones en tiempo real, en lugar de exigirles que resuelvan los efectos mientras escriben el código.
+
+Aunque el programa comenzó por admitir solo Clojure, desde entonces ha tenido como objetivo admitir Python y JavaScript debido a su popularidad. Los desarrolladores afirman que el software puede reducir el tiempo de programación hasta en un 20%.
+
 ### **Pros**
 
+1. Evaluación en línea.
+2. Fuente abierta.
+3. Configurable.
+4. Plugin Manager.
+5. Edición poderosa.
+
 ### **Light Table es para ti si..**
+
+Si buscas un editor diferente a los más utilizados; o bien uno enfocado en trabajar con Clojure, Python o JavaScript.
 
 ## **15. Delphi Community Edition**
 
@@ -528,14 +526,6 @@ Se han quedado fuera algunos editores, del estilo de por ejemplo: Xcode, QtCreat
 
 **Saber Más**: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--primary}
-
-## 
-
-<!-- contenido -->
-
-## 
-
-<!-- contenido -->
 
 ## Licencia
 
