@@ -33,6 +33,8 @@ published: true
 
 **Roma** pretende ser un reemplazo para muchas herramientas JavaScript existentes. Sin embargo, ofreceremos integraciones para componentes en otras herramientas. Por ejemplo, usar el compilador de Roma como complemento para otro paquete.
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331101370410048" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331101370410048" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331101370410048">Martes, 3 de marzo de 2020</a></blockquote></div>
+
 ## Historia
 
 **Roma** fue iniciada por [Sebastian McKenzie](https://twitter.com/sebmck){:target="_blank"} , el autor de [Babel](https://babeljs.io/){:target="_blank"} and [Yarn](https://yarnpkg.com/){:target="_blank"}.
@@ -101,4 +103,4 @@ Esta lista incluye el carácter general que debe cumplir el proyecto. Esta lista
 
 [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/15-mejores-lenguajes-programacion/)
 
-<div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1051722598543613" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1051722598543613" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1051722598543613">Viernes, 28 de febrero de 2020</a></blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331101370410048" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331101370410048" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331101370410048">Martes, 3 de marzo de 2020</a></blockquote></div>
