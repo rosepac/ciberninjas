@@ -565,7 +565,7 @@ Al intentar hacer una lista de los mejores editores de código y editores de tex
 
 . Cada escritor, codificador y desarrollador tiene un conjunto de herramientas favorito, al igual que cada carpintero tiene un martillo favorito y un artista tiene un conjunto de pinceles favorito. Entonces, si nos perdimos algo que cree que deberíamos haber incluido en esta lista, siéntase libre de agregarlo en los comentarios (con sus razones, por supuesto, también).
 
-Se han quedado fuera algunos editores, del estilo de por ejemplo: Xcode, QtCreator, OpenBeans, NetBeans, CodeBlocks, Anjuta, Monodevelop. Todos los editores específicos para cada lenguaje de programación creados por JetBraints (PHPStorm, Etc), UltraEdit, BBEdit, Coda, Espresso; y seguro que se quedan algunos más.
+Se han quedado fuera algunos editores, del estilo de por ejemplo: NetBeans, Xcode, QtCreator, OpenBeans, CodeBlocks, Anjuta, Monodevelop. Todos los editores específicos para cada lenguaje de programación creados por JetBraints IntellJ IDEA (PHPStorm, Etc), UltraEdit, BBEdit, Coda, Espresso; y seguro que se quedan algunos más.
 
 ## Relacionados
 
