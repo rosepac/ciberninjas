@@ -47,23 +47,24 @@ Dado que esta es una búsqueda continua para la mayoría de las personas en el c
     <li><a href="/mejores-editores-texto/#3-notepad-">Notepad ++: La pareja ideal para comenzar el baile</a></li>
     <li><a href="/mejores-editores-texto/#4-brackets">Brackets: La paleta más vistos y perfecta para los artistas</a></li>
     <li><a href="/mejores-editores-texto/#5-atom">Atom: El vehículo anfibio adaptable</a></li>
-    <li><a href="/mejores-editores-texto/#6-bluej">BlueJ: El triciclo para los más jóvenes, y para los adultos</a></li>
-    <li><a href="/mejores-editores-texto/##7-bluefish">BlueFish: Para volar a cualquier parte, el dron perfecto</a></li>
-    <li><a href="/mejores-editores-texto/#8-codeshareio">Codeshare IO</a></li>
+    <li><a href="/mejores-editores-texto/#6-bluej">BlueJ: El triciclo para los más jóvenes, y también para adultos</a></li>
+    <li><a href="/mejores-editores-texto/##7-bluefish">BlueFish: Un ayudante perfecto con forma de pescadito</a></li>
+    <li><a href="/mejores-editores-texto/#8-codeshareio">Codeshare IO: El dron perfecto, para volar a cualquier parte</a></li>
     <li><a href="/mejores-editores-texto/#9-vim">VIM: Un Ferrari Clásico, algo así como el 512</a></li>
     <li><a href="/mejores-editores-texto/#10-gnu-emacs">EMacs: Un Porsche Clásico, algo así como el 911 Turbo</a></li>
     <li><a href="/mejores-editores-texto/##11-spacemacs">Spacemacs: El más díficil de conducir, algo así como un Lamborghini Veneno</a></li>
     <li><a href="/mejores-editores-texto/#12-komodo-ide">Komodo IDE: El dragón que puede con todo</a></li>
-    <li><a href="/mejores-editores-texto/#13-eclipse-theia">Eclipse Theia: Regresando a la luna</a></li>
+    <li><a href="/mejores-editores-texto/#13-eclipse-theia">Eclipse Theia: Regresando a la luna, desde las nubes</a></li>
     <li><a href="/mejores-editores-texto/#14-light-table">Light Table</a></li>
-    <li><a href="/mejores-editores-texto/#15-delphi-community-edition">Delphi Community Edition</a></li>
+    <li><a href="/mejores-editores-texto/#15-delphi-community-edition">Delphi: 
+    </a></li>
     <li><a href="/mejores-editores-texto/#16-markdown-monster">Markdown Monster: El monstruo del Markdown</a></li>
   </ol>
 </nav>
 </details>
 <br />
 
-## **1. Visual Studio Code de Microsoft**
+## **[1. Visual Studio Code de Microsoft](https://code.visualstudio.com/){:target="_blank"}**
 
 ![](/assets/images/paginas/editores-texto/1-visual-studio-code.webp)
 
@@ -524,7 +525,7 @@ Delphi Community Edition, que se comparte gratuitamente con nuestra comunidad de
 
 ### **Delphi es para ti si..**
 
-Si programas con el lenguaje de programación específico hacía el que se enfoca el IDE: Object Pascal.
+Si programas con el lenguaje de programación específico hacía el que se enfoca el IDE: Delphi, que está basado en Object Pascal.
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331113580408827" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331113580408827" class="fb-xfbml-parse-ignore"><p>🧠 Libros de Reflexión Tecnológica en la Actualidad, el día a día de la Sociedad y la Tecnología 💡</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331113580408827">Martes, 3 de marzo de 2020</a></blockquote></div>
 
