@@ -39,7 +39,7 @@ Dado que esta es una búsqueda continua para la mayoría de las personas en el c
 <iframe width ="640" height="360" src="https://www.youtube-nocookie.com/embed/nmR5gEj1l9o?controls=0&showinfo=0" frameborder="0" allowfullscreen> </iframe>
 <br/>
 <details>
-<summary><strong>MENÚ 👇</strong></summary>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
     <li><a href="/mejores-editores-texto/#1-visual-studio-code-de-microsoft">Visual Studio Code: La tanqueta indestructible</a></li>
@@ -56,7 +56,7 @@ Dado que esta es una búsqueda continua para la mayoría de las personas en el c
     <li><a href="/mejores-editores-texto/#12-komodo-ide">Komodo IDE: El dragón que puede con todo</a></li>
     <li><a href="/mejores-editores-texto/#13-eclipse-theia">Eclipse Theia: Regresando a la luna, desde las nubes</a></li>
     <li><a href="/mejores-editores-texto/#14-light-table">Light Table</a></li>
-    <li><a href="/mejores-editores-texto/#15-delphi-community-edition">Delphi: 
+    <li><a href="/mejores-editores-texto/#15-delphi-community-edition">Delphi: La Pascalina de la programación
     </a></li>
     <li><a href="/mejores-editores-texto/#16-markdown-monster">Markdown Monster: El monstruo del Markdown</a></li>
   </ol>
@@ -96,6 +96,8 @@ Claro que, la interfaz de usuario comparte similitudes entre algunos de los prod
 VS Code funciona muy bien en todas las plataformas en los que lo pruebes, y no vas a encontrar diferencias notables de rendimiento entre una u otra. Aunque el editor de código, VS Code, tiene toneladas de paquetes / plugins que puedes descargar para personalizarlo a tu gusto, no tiene porque hacerlo.
 
 El propio programa funciona bien desde el momento en que se ejecuta por primera vez, y tanto Git como el depurador integrados; simplemente funcionan. No hace falta configurar nada en absoluto, ni instalar nada extra, ni perder tiempo en jugar con complejas configuraciones.
+
+[⏫ Regresar al Inicio](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **2. Sublime Text**
 
