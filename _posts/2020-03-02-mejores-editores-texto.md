@@ -48,14 +48,14 @@ Dado que esta es una búsqueda continua para la mayoría de las personas en el c
     <li><a href="/mejores-editores-texto/#4-brackets">Brackets: La paleta más vistos y perfecta para los artistas</a></li>
     <li><a href="/mejores-editores-texto/#5-atom">Atom: El vehículo anfibio adaptable</a></li>
     <li><a href="/mejores-editores-texto/#6-bluej">BlueJ: El triciclo para los más jóvenes, y también para adultos</a></li>
-    <li><a href="/mejores-editores-texto/##7-bluefish">BlueFish: Un ayudante perfecto con forma de pescadito</a></li>
+    <li><a href="/mejores-editores-texto/##7-bluefish">BlueFish: Un ayudante perfecto en forma de pescadito</a></li>
     <li><a href="/mejores-editores-texto/#8-codeshareio">Codeshare IO: El dron perfecto, para volar a cualquier parte</a></li>
     <li><a href="/mejores-editores-texto/#9-vim">VIM: Un Ferrari Clásico, algo así como el 512</a></li>
     <li><a href="/mejores-editores-texto/#10-gnu-emacs">EMacs: Un Porsche Clásico, algo así como el 911 Turbo</a></li>
     <li><a href="/mejores-editores-texto/##11-spacemacs">Spacemacs: El más díficil de conducir, algo así como un Lamborghini Veneno</a></li>
     <li><a href="/mejores-editores-texto/#12-komodo-ide">Komodo IDE: El dragón que puede con todo</a></li>
     <li><a href="/mejores-editores-texto/#13-eclipse-theia">Eclipse Theia: Regresando a la luna, desde las nubes</a></li>
-    <li><a href="/mejores-editores-texto/#14-light-table">Light Table</a></li>
+    <li><a href="/mejores-editores-texto/#14-light-table">Light Table: El hijastro peleón del Ceceo</a></li>
     <li><a href="/mejores-editores-texto/#15-delphi-community-edition">Delphi: La Pascalina de la programación
     </a></li>
     <li><a href="/mejores-editores-texto/#16-markdown-monster">Markdown Monster: El monstruo del Markdown</a></li>
@@ -97,9 +97,10 @@ VS Code funciona muy bien en todas las plataformas en los que lo pruebes, y no v
 
 El propio programa funciona bien desde el momento en que se ejecuta por primera vez, y tanto Git como el depurador integrados; simplemente funcionan. No hace falta configurar nada en absoluto, ni instalar nada extra, ni perder tiempo en jugar con complejas configuraciones.
 
-[⏫ Regresar al Inicio](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Visual Studio Code](https://code.visualstudio.com/download){: .btn .btn--inverse .btn--large .align-center}
 
-## **2. Sublime Text**
+## **[2. Sublime Text](https://www.sublimetext.com/){:target="_blank"}**
 
 ![](/assets/images/paginas/editores-texto/sublime-text-3.webp)
 
@@ -130,7 +131,10 @@ Una vez que te acostumbres a los atajos de teclado de Sublime, bueno, sublime, t
 
 Si prefieres una buena experiencia de usuario sobre todo lo demás. Eso no quiere decir que Sublime Text no tenga las características que necesites para casi todos los proyectos (sí las tiene). Es solo que  usar Sublime Text es la parte más impresionante de todo el programa, y hay muchos paquetes más dentro del proyecto.
 
-## **3. Notepad ++**
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Sublime Text](https://www.sublimetext.com/3){: .btn .btn--inverse .btn--large .align-center}
+
+## **[3. Notepad ++](https://notepad-plus-plus.org/){:target="_blank"}**
 
 ![](/assets/images/paginas/editores-texto/notepad-1.webp)
 
@@ -164,9 +168,12 @@ Si eres nuevo en el mundo de la programación, y trabajando con editores de cód
 
 Debido a lo simple y fácil que los desarrolladores lo han hecho, no vas a atascar tu sistema mientras trabajas. Eso significa que es posible que no esté cargando gigabytes de información a la vez, pero para las tareas de desarrollo web habituales, etc., Notepad ++ es más que suficiente.
 
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Notepad ++](https://notepad-plus-plus.org/downloads/){: .btn .btn--inverse .btn--large .align-center}
+
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331105903742928" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331105903742928" class="fb-xfbml-parse-ignore"><p>👩‍💻 Los mejores libros de Desarrollo de Software, Programación Correcta, Código Limpio, Metodologías Agile y Lean, etc 💼</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331105903742928">Martes, 3 de marzo de 2020</a></blockquote></div>
 
-## **4. Brackets**
+## **[4. Brackets](http://brackets.io/){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/brackets-editor-1.webp)
 
@@ -199,7 +206,10 @@ Para los desarrolladores front-end que trabajan en una agencia de diseño que ti
  
  Además, la herramienta de extracción hace que Brackets sea casi imprescindible para los desarrolladores front-end que trabajan con los PSD de los diseñadores.
 
-## **5. Atom**
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Brackets](https://github.com/adobe/brackets/releases){: .btn .btn--inverse .btn--large .align-center}
+
+## **[5. Atom](https://atom.io/){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/atom-1.webp)
 
@@ -243,7 +253,10 @@ Funciona muy bien desde el primer momento, pero su verdadero poder proviene de l
 
 Algunas personas se han desanimado por la adquisición de GitHub por parte de Microsoft, pero en los meses posteriores, Atom ha seguido creciendo.
 
-## **6. BlueJ**
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Atom](https://github.com/atom/atom/releases/tag/v1.44.0){: .btn .btn--inverse .btn--large .align-center}
+
+## **[6. BlueJ](https://www.bluej.org/){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/bluej-esquema.png)
 
@@ -260,9 +273,12 @@ Un entorno de desarrollo Java gratuito diseñado para principiantes, utilizado p
 
 Si estas comenzando a programar en Java.
 
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar BlueJ](https://www.bluej.org/versions.html){: .btn .btn--inverse .btn--large .align-center}
+
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331101370410048" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331101370410048" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331101370410048">Martes, 3 de marzo de 2020</a></blockquote></div>
 
-## **7. Bluefish**
+## **[7. Bluefish](http://bluefish.openoffice.nl/index.html){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/bluefish-code.webp)
 
@@ -297,7 +313,10 @@ Es posible que esta no sea la mejor opción para los programadores nuevos porque
 
 Con Bluefish, puedes hacer mucho si quieres esforzarte un poco por aprender a hacerlo cantar. No tiene el pulido de los IDE hechos por compañías como JetBrains (ver más abajo en la sección Premium), pero no mucho. Sin embargo, para una opción gratuita, es fenomenal.
 
-## **8. Codeshare.io**
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Bluefish](http://bluefish.openoffice.nl/index.html){: .btn .btn--inverse .btn--large .align-center}
+
+## **[8. Codeshare.io](https://codeshare.io/){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/codeshare.webp)
 
@@ -333,7 +352,10 @@ Sus características disponibles lo hacen sentir estable y robusto, algo así co
 
 Simplemente no esperes un IDE de él.
 
-## **9. VIM**
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Codeshare.io](https://codeshare.io/){: .btn .btn--inverse .btn--large .align-center}
+
+## **[9. VIM](https://www.vim.org/){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/vim-editor.webp)
 
@@ -372,9 +394,12 @@ Si tienes alguna distribución de Linux que no sea Ubuntu, adorarás Vim; y esta
 
 Es tan poderoso como cualquier otro editor, seguramente incluso más, pero la interfaz de usuario minimalista puede parecerte desagradable; tendrás que ser paciente hasta atravesar esa fachada arisca y lograr llegar a su hermosa experiencia que te puede ofrecer.
 
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar VIM](https://www.vim.org/download.php){: .btn .btn--inverse .btn--large .align-center}
+
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331103423743176" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331103423743176" class="fb-xfbml-parse-ignore"><p>👩‍💻 Libros para Aprender el lenguaje de programación Dart, el SDK Flutter. Las tecnologías que podrás usar dentro del nuevo Sistema Operativo Fuchsia</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331103423743176">Martes, 3 de marzo de 2020</a></blockquote></div>
 
-## **10. GNU Emacs**
+## **[10. GNU Emacs](https://www.gnu.org/software/emacs/){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/emacs-editor.webp)
 
@@ -408,7 +433,10 @@ Si prefierse la funcionalidad por encima de la interfaz pero Vim es demasiado m�
 
 Definitivamente, este no es uno de los mejores editores de texto para novatos, pero si has estado incursionando en diferentes entornos durante un tiempo y deseas mejorar la eficiencia, Emacs es justo lo que estás buscando.
 
-## **11. Spacemacs**
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar GNU Emacs](https://www.gnu.org/software/emacs/download.html){: .btn .btn--inverse .btn--large .align-center}
+
+## **[11. Spacemacs](https://www.spacemacs.org/){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/spacemacs-editor.webp)
 
@@ -441,7 +469,10 @@ Si sabes que significa esto:
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 ```
 
-## **12. Komodo IDE**
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Spacemacs](https://www.spacemacs.org/#){: .btn .btn--inverse .btn--large .align-center}
+
+## **[12. Komodo IDE](https://www.activestate.com/products/komodo-ide/){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/komodo-ide.webp)
 
@@ -464,9 +495,12 @@ Recientemente liberado, el IDE de Komodo es una gran opción. Komodo 12 ahora es
 
 Si deseas probar algo diferente y nuevo al más alto nivel, sin lugar a dudas. Sobre todo, puede ser muy recomendable, si eres una persona que te manejas en varios lenguajes, por su alta compatibilidad.
 
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Komodo IDE](https://www.activestate.com/products/komodo-ide/download-ide/){: .btn .btn--inverse .btn--large .align-center}
+
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
-## **13. Eclipse Theia**
+## **[13. Eclipse Theia](https://theia-ide.org/){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/theia-experimental.webp)
 
@@ -487,7 +521,10 @@ Si deseas conocer más, sobre [Eclipse Theia](/wiki/eclipse-theia)
 
 Si trabajas habitualmente a través de la nube, si estás familiarizado con la Fundación Eclipse o si quieres implicarte dentro de un proyecto nuevo, si deseas algo diferente.
 
-## **14. Light Table**
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Eclipse Theia](https://theia-ide.org/){: .btn .btn--inverse .btn--large .align-center}
+
+## **[14. Light Table](http://lighttable.com/){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/lighttable-editor.webp)
 
@@ -509,7 +546,10 @@ Aunque el programa comenzó por admitir solo Clojure, desde entonces ha tenido c
 
 Si buscas un editor diferente a los más utilizados; o bien uno enfocado en trabajar con Clojure, Python o JavaScript.
 
-## **15. Delphi Community Edition**
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Light Table](http://lighttable.com/#){: .btn .btn--inverse .btn--large .align-center}
+
+## **[15. Delphi Community Edition](https://www.embarcadero.com/es/products/delphi/starter){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/delphi-editor.webp)
 
@@ -529,9 +569,12 @@ Delphi Community Edition, que se comparte gratuitamente con nuestra comunidad de
 
 Si programas con el lenguaje de programación específico hacía el que se enfoca el IDE: Delphi, que está basado en Object Pascal.
 
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Delphi Community Edition](https://www.embarcadero.com/es/products/delphi/starter/free-download){: .btn .btn--inverse .btn--large .align-center}
+
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331113580408827" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331113580408827" class="fb-xfbml-parse-ignore"><p>🧠 Libros de Reflexión Tecnológica en la Actualidad, el día a día de la Sociedad y la Tecnología 💡</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331113580408827">Martes, 3 de marzo de 2020</a></blockquote></div>
 
-## **16. Markdown Monster**
+## **[16. Markdown Monster](https://markdownmonster.west-wind.com/){:target="_blank"}**
 
 ![](../assets/images/paginas/editores-texto/editor-markdown-monster-1.webp)
 
@@ -561,6 +604,9 @@ Solamente se encuentra disponible para Windows.
 ### **Markdown Monster es para ti si..**
 
 Si eres escritor, redactor o creador de contenidos; y tienes la posibilidad de realizar tus artículos a través del lenguaje de marcado de Markdown (personalmente, te recomiendo al 100% de que te acostumbres a utilizarlo -markdown-) y quieres facilitar al máximo la edición y publicación de tus trabajos.
+
+[⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Markdown](https://markdownmonster.west-wind.com/download.aspx){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Conclusión**
 
