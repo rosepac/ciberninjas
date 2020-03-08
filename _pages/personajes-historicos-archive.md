@@ -39,7 +39,7 @@ Esta es una galería de personajes, que podríamos definir como un Hall of Fame 
 <li>2018 \ <a href="/personajes-historicos/dame-stephanie-shirley/">Dame Stephanie Shirley</a>, <a href="/personajes-historicos/dov-frohman-bentchkowsky/">Dov Frohman-Bentchkowsky</a>, <a href="/personajes-historicos/guido-van-rossum/">Guido Van Rossum</a></li>
 <li>2017 \ Alan Cooper, Cleve Moler, Larry Roberts, <a href="/personajes-historicos/margaret-hamilton/">Margaret Hamilton</a></li>
 <li>2016 \ David Cutler, Lee Felsentein, Philip Moorby</li>
-<li>2015 \ Bjarne Stroustrup, Charles W. Bachman, <a href="/personajes-historicos/evelyn-berizin/">Evelyn Berezin</a></li>
+<li>2015 \ Bjarne Stroustrup, Charles W. Bachman, <a href="/personajes-historicos/evelyn-berezin/">Evelyn Berezin</a></li>
 <li>2014 \ Irwin Jacobs, John Crawford, <a href="/personajes-historicos/lynn-conway/">Lynn Conway</a></li>
 <li>2013 \ Edwin Catmull, Harry D. Huskey, Robert W. Taylor</li>
 <li>2012 \ Edward Feigenbaum, Fernando Corbató, <a href="/personajes-historicos/sophie-wilson/">Sophie Wilson</a>, Steve Furber</li>
