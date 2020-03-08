@@ -18,7 +18,7 @@ header:
 
 <img src="https://images.computerhistory.org/fellows/gracehopper.jpg" width="200px" high="250px" alt="Grace Murray Hopper | Visto en Ciberninjas" title="Grace Murray Hopper | Visto en Ciberninjas" />
 
-## All-Star Informático 2018
+## All-Star Informático 1985
 
 Premiada por sus contribuciones al desarrollo de lenguajes de programación, por esfuerzos de estandarización y por servicio naval de por vida.
 
