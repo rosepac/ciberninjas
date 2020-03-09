@@ -26,7 +26,12 @@ header:
 # toc_sticky: true
 ---
 
-[Repositorios](/diseño-web-recursos/#repositorios){: .btn .btn--inverse .btn--large} [Librerías Animaciones](/diseño-web-recursos/#librerías-animaciones){: .btn .btn--inverse .btn--large} [Herramientas](/diseño-grafico/#-herramientas){: .btn .btn--inverse .btn--large} [Artículos](/diseño-web-recursos/#-artículos){: .btn .btn--inverse .btn--large} [Artículos en Inglés](/diseño-web-recursos/#-artículos-en-inglés){: .btn .btn--inverse .btn--large} [Optimización Web](/diseño-web-recursos/#optimización-web){: .btn .btn--inverse .btn--large} [PWA](/diseño-web-recursos/#pwa){: .btn .btn--inverse .btn--large}
+👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/)
+👉 [Aprender Diseño Gráfico](/diseño-grafico/)
+👉 [Diseño Web Recursos](/diseño-web-recursos/)
+{: .notice--warning}
+
+[Repositorios](/diseño-web-recursos/#repositorios){: .btn .btn--inverse .btn--large} [Librerías Animaciones](/diseño-web-recursos/#librerías-animaciones){: .btn .btn--inverse .btn--large} [Herramientas](/diseño-web-recursos/#-herramientas){: .btn .btn--inverse .btn--large} [Artículos](/diseño-web-recursos/#-artículos){: .btn .btn--inverse .btn--large} [Artículos en Inglés](/diseño-web-recursos/#-artículos-en-inglés){: .btn .btn--inverse .btn--large} [Optimización Web](/diseño-web-recursos/#optimización-web){: .btn .btn--inverse .btn--large} [PWA](/diseño-web-recursos/#pwa){: .btn .btn--inverse .btn--large}
 
 **Saber Más**: [Cómo Aprender Diseño Web](/diseño-web/)
 {: .notice--primary}

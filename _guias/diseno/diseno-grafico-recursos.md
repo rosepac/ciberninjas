@@ -9,10 +9,11 @@ date: 2019-12-20 10:13:18
 last_modified_at: 2020-01-08 09:15:18
 permalink: /diseño-grafico-recursos/
 canonical_URL: https://ciberninjas.com/diseño-grafico-recursos/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+classes: wide
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 header:
   teaser: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
   overlay_image: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
@@ -25,10 +26,12 @@ header:
       url: "/diseño-grafico/"
 ---
 
-👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/)
 👉 [Aprender Diseño Gráfico](/diseño-grafico/)
 👉 [Diseño Web Recursos](/diseño-web-recursos/)
 👉 [Aprender Diseño Web](/diseño-web/)
+{: .notice--warning}
+
+[Software y Repositorios de Diseño Gráfico](/diseño-grafico-recursos/#software-y-repositorios-de-diseño-gráfico){: .btn .btn--inverse .btn--large} [Concursos de Diseño](/diseño-grafico-recursos/#concursos-de-diseño-gráfico){: .btn .btn--inverse .btn--large} [Recursos Diseño de Videojuegos](/diseño-grafico-recursos/#recursos-videojuegos){: .btn .btn--inverse .btn--large} [Portfolios de Diseño](/diseño-grafico-recursos/#crear-portfolios){: .btn .btn--inverse .btn--large} [Repositorios de Objetos 2D y 3D](/diseño-grafico-recursos/#repositorios-2d--3d){: .btn .btn--inverse .btn--large} [Optimización Web](/diseño-web-recursos/#optimización-web){: .btn .btn--inverse .btn--large} [PWA](/diseño-web-recursos/#pwa){: .btn .btn--inverse .btn--large}
 
 ## Software y repositorios de diseño gráfico
 
@@ -90,10 +93,10 @@ https://www.youtube.com/watch?v=N0aKrcXX64w&t=106s
 
 * [Domesetika](https://www.domestika.org/ "Domestika es la comunidad de la Clase Creativa"){:target="_blank"}
 * [ArtStation](https://www.artstation.com/ "ArtStation le ofrece una manera simple pero poderosa de mostrar su cartera y ser visto por las personas adecuadas en la industria. "){:target="_blank"}
+* [Dribble](https://dribbble.com){:target="_blank"}
 
 ## Repositorios
 
-* [Dribble](https://dribbble.com){:target="_blank"}
 * [Biblioteca del patrimonio de la biodiversidad](https://www.flickr.com/photos/biodivlibrary/){:target="_blank"} 150.000 ilustraciones de animales y botánica en su cuenta de Flickr.
 
 ## Repositorios 2D / 3D
@@ -101,10 +104,6 @@ https://www.youtube.com/watch?v=N0aKrcXX64w&t=106s
 * [Quaternius 🏡](http://quaternius.com/assets.html)
 
 Modelos 3D libres para su uso bajo licencias CC0 en formatos de Blender, Autodesk u OBJ: Casas, edificios, personajes, alimentos, armas, rocas, personas, robots, ciudades, barcos, naves espaciales, arboles, etc.
-
-## Canales de Youtube
-
-* [Canal de Pablo Vazquez](https://www.youtube.com/user/pablovazquezz/videos?view=0&sort=dd&flow=grid)
 
 ## Imágenes y Fotografías
 

@@ -9,6 +9,7 @@ date: 2020-02-27 10:13:18
 last_modified_at: 2020-02-29
 permalink: /diseño-grafico/
 canonical_URL: https://ciberninjas.com/diseño-grafico/
+classes: wide
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -26,9 +27,9 @@ header:
 ---
 
 👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/)
-👉 [Aprender Diseño Gráfico](/diseño-grafico/)
 👉 [Diseño Web Recursos](/diseño-web-recursos/)
 👉 [Aprender Diseño Web](/diseño-web/)
+{: .notice--warning}
 
 👷‍♂️ Este artículo apenas acaba de ser creado.. 🚧 Artículo en Edición Constante 🚧 2020/02/27
 {: .notice--warning}

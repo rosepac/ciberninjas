@@ -22,6 +22,11 @@ permalink: /diseño-web/
 canonical_URL: https://ciberninjas.com/diseño-web/
 ---
 
+👉 [Diseño Web Recursos](/diseño-web-recursos/)
+👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/)
+👉 [Aprender Diseño Gráfico](/diseño-grafico/)
+{: .notice--warning}
+
 ## Consejos Rápidos
 
 ¿Si todavía estas confundido de como puedes empezar? Déjame que intente aclarar algunas sencillas preguntas.
