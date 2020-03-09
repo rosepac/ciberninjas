@@ -23,7 +23,7 @@ Este guía fue creada hace ya más de 2 años, más aún es perfectamente valido
 
 > Antes de comenzar con Wordpress, puede ser que te venga bien; pasar por alguno de estos enlaces. Con los que tener mayor conocimiento sobre que es Wordpress o ampliar horizontes sobre tus ideas creativas. 
 
-
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336059819914203" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336059819914203" class="fb-xfbml-parse-ignore"><p>✍ Las Mejores Guías y Libros para Aprender todo lo Necesario en la Creación y Gestión de tu Blog de Wordpress Las...</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336059819914203">Lunes, 9 de marzo de 2020</a></blockquote></div>
 
 ## Inicio de un blog o Wordpress
 
@@ -235,6 +235,8 @@ De los más conocidos son: Divi y Visual Composer.
 Su URL original era, [este artículo de Steemit](https://steemit.com/spanish/@rosepac/wordpress-all-in-guia-completa-ten-siempre-un-as-bajo-tu-manga){:target="_blank"} \ Ilustración de portada & pantallazo final, creadas por mi. \ El resto de imágenes, están bajo [licencia CCO](https://creativecommons.org/choose/zero/?lang=es_ES){:target="_blank"} extraídas de [FreeRange](https://freerangestock.com/licensing.php){:target="_blank"} o [Pixabay](https://pixabay.com/es/service/terms/){:target="_blank"} \ El contenido esta extraído de los favoritos de mis navegadores, recogidos desde hace años; y de mis múltiples andanzas investigando y manejando en los alrededores del gestor de contenidos.
 {:target="_blank"}
 {: .notice--info}
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336059819914203" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336059819914203" class="fb-xfbml-parse-ignore"><p>✍ Las Mejores Guías y Libros para Aprender todo lo Necesario en la Creación y Gestión de tu Blog de Wordpress Las...</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336059819914203">Lunes, 9 de marzo de 2020</a></blockquote></div>
 
 👇 CONTENIDOS POR INDEXAR.. 👇
 {: .notice--warning}
