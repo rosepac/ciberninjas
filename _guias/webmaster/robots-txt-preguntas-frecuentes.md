@@ -43,14 +43,16 @@ header:
 <nav class="menu">
   <ol>
     <li>
-	<a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a><details><summary></summary>
-  <ol>
-    <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a></li>
-	</ol>
-	</details>
-	
+	<a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a><details><summary>➕ Acerca de los robots WWW</summary>
+  		<ol>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a></li>
+		</ol></details>
 	</li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#robots-de-indexación">Robots de indexación</a></li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#robots-de-indexación">Robots de indexación</a><details><summary>➕ Robots de indexación</summary>
+  		<ol>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a></li>
+		</ol></details>
+	</li>
     <li><a href="/robots-txt-preguntas-frecuentes/#para-administradores-de-servidores">Para administradores de servidores</a></li>
     <li><a href="/robots-txt-preguntas-frecuentes/#normas-de-exclusión-de-robots">Normas de Exclusión de robots</a></li>
     <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-las-etiquetas-meta">Acerca de las etiquetas META</a></li>
