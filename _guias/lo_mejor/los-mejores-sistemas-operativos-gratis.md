@@ -6,19 +6,22 @@ date: 2019-08-29 00:00:00 +0200
 last_modified_at: 2019-09-11 00:00:00 +0200
 permalink: /los-mejores-sistemas-operativos-gratis/
 canonical_URL: https://ciberninjas.com/los-mejores-sistemas-operativos-gratis/
+classes: wide
 published: true
-# header:
-#   image: /assets/images/jekyll-blog.jpg
+header:
+  teaser: 
+  image: /assets/images/paginas/sistema-operativo-pagina.webp
 #   image_description: 'Jekyll, generador de sitios estáticos | Ciberninjas'
 #   caption: >-
 #     **Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia
-toc: true
-toc_label: Contenidos
-toc_icon: user-ninja
-toc_sticky: true
+# toc: true
+# toc_label: Contenidos
+# toc_icon: user-ninja
+# toc_sticky: true
 
 ---
 
+![Los mejores sistemas operativos gratuitos de código abierto](/assets/images/paginas/sistema-operativo-pagina.webp "Los mejores sistemas operativos gratuitos de código abierto")
 ## Los Mejores Sistemas Operativos Gratis de C&oacute;digo Abierto
 
 1. [Linux](https://es.wikipedia.org/wiki/GNU/Linux)
@@ -58,11 +61,11 @@ toc_sticky: true
 31. [Biscuit](https://github.com/mit-pdos/biscuit)
 32. [Redox](https://www.redox-os.org/)
 
-### Mejores Blogs de Linux del Mundo
+### [Desde Linux](https://blog.desdelinux.net/){:target="_blank"}
 
-## [Desde Linux](https://blog.desdelinux.net/){:target="_blank"}
+## Mejores Blogs de Linux del Mundo en Español
 
-### Mejores Blogs de Linux del Mundo en Español
+## Mejores Blogs de Linux del Mundo
 
-## [Linux Today](https://www.linuxtoday.com/){:target="_blank"}
-## [Lxer](http://lxer.com/){:target="_blank"}
+### [Linux Today](https://www.linuxtoday.com/){:target="_blank"}
+### [Lxer](http://lxer.com/){:target="_blank"}
