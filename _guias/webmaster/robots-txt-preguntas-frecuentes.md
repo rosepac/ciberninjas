@@ -4,23 +4,66 @@ description: "🕷 Preguntas Frecuentes Sobre robots.txt"
 excerpt: "🕷 Preguntas Frecuentes Sobre robots.txt"
 published: true
 comments: true
-date: 2019-09-19
-last_modified_at: 2019-09-19 10:40:10
+date: 2020-03-10
+last_modified_at: 
 permalink: /robots-txt-preguntas-frecuentes/
 canonical_URL: https://ciberninjas.com/robots-txt-preguntas-frecuentes/
 classes: wide
-# header:
-#   image: "/assets/images/robots-txt-lupa-ciberninjas.webp"
-#   image_description: Robots txt, la configuración de tu página para los rastreadores de los buscadores más importantes | Ciberninjas
-#   caption: "**Créditos**: Edición Personal Sobre Foto de Emiliano Vittoriosi en Unsplash"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
+author_profile: true
+header:
+  overlay_image: "/assets/images/robots-txt-lupa-ciberninjas.webp"
+  image_description: Robots.txt, las preguntas más frecuentes que necesitas conocer, resolver e investigar sobre los rastreadores web | Ciberninjas
+  caption: "**Créditos**: Edición Personal Sobre Foto de Emiliano Vittoriosi en Unsplash"
+  teaser: "/assets/images/robots-txt-lupa-ciberninjas.webp"
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: false
 ---
 
 🔥 Seguro también te interesa: [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [guía de robots.txt](/robots-txt/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
+
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a></li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#robots-de-indexación">Robots de indexación</a></li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#para-administradores-de-servidores">Para administradores de servidores</a></li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#normas-de-exclusión-de-robots">Normas de Exclusión de robots</a></li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-las-etiquetas-meta">Acerca de las etiquetas META</a></li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#disponibilidad">Disponibilidad</a></li>
+  </ol>
+</nav>
+</details>
+
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li>
+	
+	
+	
+	<a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a>
+	
+	<details>
+<summary></summary>
+  <ol>
+    <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a></li>
+	</ol>
+	</details>
+	
+	</li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#robots-de-indexación">Robots de indexación</a></li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#para-administradores-de-servidores">Para administradores de servidores</a></li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#normas-de-exclusión-de-robots">Normas de Exclusión de robots</a></li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-las-etiquetas-meta">Acerca de las etiquetas META</a></li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#disponibilidad">Disponibilidad</a></li>
+  </ol>
+</nav>
+</details>
 
 Esta es una lista con preguntas frecuentes sobre robots web. Seleccione la pregunta para ir a la página de respuestas, o seleccione en el icono del ojo después de la pregunta para mostrar la respuesta en esta página.
 
