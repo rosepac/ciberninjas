@@ -62,7 +62,6 @@ Dado que esta es una búsqueda continua para la mayoría de las personas en el c
   </ol>
 </nav>
 </details>
-<br />
 
 ## **[1. Visual Studio Code de Microsoft](https://code.visualstudio.com/){:target="_blank"}**
 
