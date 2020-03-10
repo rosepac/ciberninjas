@@ -8,6 +8,7 @@ date: 2019-09-19
 last_modified_at: 2019-09-19 10:40:10
 permalink: /robots-txt-preguntas-frecuentes/
 canonical_URL: https://ciberninjas.com/robots-txt-preguntas-frecuentes/
+classes: wide
 # header:
 #   image: "/assets/images/robots-txt-lupa-ciberninjas.webp"
 #   image_description: Robots txt, la configuración de tu página para los rastreadores de los buscadores más importantes | Ciberninjas
@@ -24,7 +25,9 @@ toc_sticky: false
 Esta es una lista con preguntas frecuentes sobre robots web. Seleccione la pregunta para ir a la página de respuestas, o seleccione en el icono del ojo después de la pregunta para mostrar la respuesta en esta página.
 
 ## Acerca de los robots WWW
+
 ### ¿Qué es un robot WWW?
+
 Un robot es un programa que atraviesa automáticamente la estructura de hipertexto de la Web recuperando un documento y recuperando recursivamente todos los documentos a los que se hace referencia.
 
 Tenga en cuenta que "recursivo" aquí no limita la definición a ningún algoritmo transversal específico; incluso si un robot aplica algo de heurística a la selección y el orden de los documentos para visitar y espacia las solicitudes durante un largo espacio de tiempo, sigue siendo un robot.
@@ -35,6 +38,7 @@ Los robots web a veces se denominan web wanderers, web crawlers o spiders. Estos
 
 
 ### ¿Qué es un agente?
+
 La palabra "agente" se usa para muchos significados en informática en estos días. Específicamente:
 
 - Agentes autónomos
@@ -48,10 +52,12 @@ Es un nombre técnico para programas que realizan tareas de red para un usuario,
 
 
 ### ¿Qué es un buscador?
+
 Un motor de búsqueda es un programa que busca en algún conjunto de datos. En el contexto de la Web, la palabra "motor de búsqueda" se usa con mayor frecuencia para los formularios de búsqueda que buscan en bases de datos de documentos HTML recopilados por un robot.
 
 
 ### ¿Qué tipo de robots existen?
+
 Los robots se pueden usar para varios propósitos:
 - Indexación
 - Validación HTML
@@ -62,6 +68,7 @@ Vea la [lista de robots](/robots-txt/#lista-robots) activos para ver qué robot 
 
 
 ### Entonces, ¿qué son los robots, arañas, rastreadores web, gusanos, hormigas?
+
 Esto solo son nombres para el mismo tipo de cosas, con connotaciones ligeramente diferentes:
 
 - Robots
@@ -77,6 +84,7 @@ Esto solo son nombres para el mismo tipo de cosas, con connotaciones ligeramente
 
 
 ### ¿Son los robots malos para la web?
+
 Hay algunas razones por las cuales las personas creen que los robots son malos para la Web:
 - Ciertas implementaciones de robots pueden (y han tenido en el pasado) redes y servidores sobrecargados. Esto sucede especialmente con personas que recién comienzan a escribir un robot; En estos días hay suficiente información sobre robots para evitar algunos de estos errores.
 - Los robots son operados por humanos, que cometen errores en la configuración, o simplemente no consideran las implicaciones de sus acciones. Esto significa que las personas deben tener cuidado, y los autores de robots deben dificultar que las personas cometan errores con efectos negativos.
@@ -87,6 +95,7 @@ Entonces, no, los robots no son intrínsecamente malos, ni intrínsecamente bril
 
 
 ### ¿Hay libros de robots?
+
 Sí, existen algunos; lo más complicado es encontrarlos en español.
 <!-- Agregar Libros Sobre.. -->
 
@@ -98,15 +107,19 @@ Sí, existen algunos; lo más complicado es encontrarlos en español.
 
 
 ### ¿Dónde puedo encontrar más información sobre robots?
+
 Hay una página de inicio de Web robots en:
 
 https://ciberninjas.com/robots-txt/
 
 Por supuesto, la última versión de estas preguntas frecuentes está allí; también encontrarás muchos detalles más.
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
 ## Robots de indexación
+
 ### ¿Cómo decide un robot dónde visitar?
+
 Esto depende del robot, cada uno usa diferentes estrategias. En general, comienzan desde una lista histórica de URL, especialmente de documentos con muchos enlaces en otros lugares, como listas de servidores, páginas "Novedades" y los sitios más populares en la Web.
 
 La mayoría de los servicios de indexación también le permiten enviar URL manualmente, que luego serán colocadas en cola y visitadas por el robot.
@@ -117,12 +130,14 @@ Dados esos puntos de partida, un robot puede seleccionar URL para visitar e inde
 
 
 ### ¿Cómo decide un robot de indexación qué indexar?
+
 Si un robot de indexación conoce un documento, puede decidir analizarlo e insertarlo en su base de datos. La forma en que esto se hace depende del robot: algunos robots indexan los títulos HTML, o los primeros párrafos, o analizan todo el HTML e indexan todas las palabras, con ponderaciones que dependen de las construcciones HTML, etc. Algunos analizan la etiqueta META u otros Etiquetas ocultas
 
 Esperamos que a medida que la Web evolucione haya más instalaciones disponibles para asociar eficientemente metadatos, como la indexación de información con un documento. Esto en la actualidad se realiza a través de los datos estructurados de Google a pesar de que no es una tecnología generalizada, ni estandar respecto a todos los bots de robots.
 
 
 ### ¿Cómo registro mi página con un robot?
+
 Esto depende de la compaía creadora de cada buscador. Muchos servicios tienen un enlace a un formulario de envío de URL en su página de búsqueda, o tienen más información en sus páginas de ayuda. Por ejemplo:
 - [Google](https://kutt.it/webmaster-google "Herramientas de Webmaster Gratuitas ofrecidas por el buscador Google")
 - [Bing](https://kutt.it/webmaster-bing "Herramientas de Webmaster Gratuitas ofrecidas por el buscador Bing")
@@ -130,6 +145,7 @@ Esto depende de la compaía creadora de cada buscador. Muchos servicios tienen u
 - [Duck Duck Go](https://kutt.it/duckduckgo-subir-pagina "Herramientas de Webmaster Gratuitas ofrecidas por el buscador Duck Duck Go")
 
 ### ¿Cómo obtengo un mejor posicionamiento en los motores de búsqueda?
+
 Esto se conoce como "SEO" o Optimización de motores de búsqueda. Existen muchos sitios web, foros y empresas que tienen como objetivo / afirman ayudar con eso.
 
 Básicamente el SEO se reduce a:
@@ -146,9 +162,12 @@ Ver también:
 - [Consola de Buscadores / Search Console: Primeros Pasos](https://kutt.it/search-console-primeros-pasos)
 - [Blog para Webmasters](https://kutt.it/webmaster-blog-google-rastreo-indexacion) por Google, noticias sobre indexación y rastreo de páginas web a través del buscador Google
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
 ## Para administradores de servidores
+
 ### ¿Cómo sé si me ha visitado un robot?
+
 Puedes verificar los registros de su servidor para los sitios que recuperan muchos documentos, especialmente en poco tiempo.
 
 Si su servidor admite el registro de agente de usuario, puede verificar las recuperaciones con valores de encabezado de agente de usuario inusuales.
@@ -157,10 +176,12 @@ Finalmente, si observa que un sitio busca repetidamente el archivo '/robots.txt'
 
 
 ### ¡Me ha visitado un robot! ¿Ahora qué?
+
 Si cree que ha descubierto un nuevo robot (es decir, uno que no figura en la lista de robots activos y que hace más que visitas esporádicas, envíeme un mensaje para que pueda anotarlo para futuras referencias. Pero no lo haga ¡No me cuentes sobre todos los robots que pasan!
 
 
 ### ¡Un robot rastrea mi sitio demasiado habitualmente!
+
 Esto se llama "rastreo rápido" y las personas generalmente lo notan si están monitoreando o analizando un archivo de registro de acceso.
 
 En primer lugar, compruebe si es un problema comprobando la carga de su servidor y supervisando el registro de errores de sus servidores, y las conexiones concurrentes si puede. Si tiene un servidor de rendimiento medio o alto, es muy probable que pueda hacer frente a una gran carga de incluso varias solicitudes por segundo, especialmente si las visitas son rápidas.
@@ -174,7 +195,9 @@ Si el robot no está en la lista, envíeme un correo electrónico con toda la in
 
 <!-- ### ¿Cómo mantengo un robot fuera de mi servidor? -->
 ## Normas de exclusión de robots
+
 ### ¿Por qué encuentro entradas para /robots.txt en mis archivos de registro?
+
 robablemente provienen de robots que intentan ver si ha especificado alguna regla para ellos utilizando el Estándar para la exclusión de robots , consulte también a continuación .
 
 Si no le importan los robots y desea evitar los mensajes en sus registros de errores, simplemente cree un archivo vacío llamado robots.txt en el nivel raíz de su servidor.
@@ -183,6 +206,7 @@ No pongas ningún lenguaje HTML o inglés "¿Quién demonios eres?" texto en él
 
 
 ### ¿Cómo evito que los robots escaneen mi sitio?
+
 La forma rápida de evitar que los robots visiten su sitio es poner estas dos líneas en el archivo /robots.txt en su servidor:
 ```
 User-agent: *
@@ -192,9 +216,10 @@ Esto solo se cumplirá con robots con buen comportamiento.
 
 Ver también:
 
-- [¿Puedo bloquear solo robots malos?](/#puedo-bloquear-solo-robots-malos)
+- [¿Puedo bloquear solo robots malos?](/robots-txt-preguntas-frecuentes/#se-puede-bloquear-solo-a-los-robots-malos)
 
 ### ¿Dónde descubro cómo funcionan los archivos /robots.txt?
+
 <!-- Puede leer la especificación estándar completa: /orig.html -->
 El concepto básico es simple: al escribir un archivo de texto estructurado puede indicar a los robots que ciertas partes de su servidor están fuera del alcance de algunos o todos los robots. 
 
@@ -228,6 +253,7 @@ No debe colocar más de una ruta en una línea Disallow (esto puede cambiar en u
 
 
 ### ¿Qué programa debo usar para crear /robots.txt?
+
 Cualquier [editor de texto](/recursos/#editores-de-texto) o software que produzca un archivo de texto, será suficiente. Entre [mis recursos](/recursos) o en [Aplicaciones Escolares](/las-mejores-aplicaciones-escolares-seguimiento-tareas/#más-aplicaciones) puedes encontrar varias programas que te servirán.
 
 - En Microsoft Windows, usa el Bloc de Notas o Wordpad (Guardar como documento de texto .txt) o incluso Microsoft Word (Guardar como texto sin formato).
@@ -236,6 +262,7 @@ Cualquier [editor de texto](/recursos/#editores-de-texto) o software que produzc
 
 
 ### ¿Cómo uso /robots.txt en un host virtual?
+
 El término "host virtual" a veces se usa para significar varias cosas diferentes:
 
 - Un servidor web de "host virtual" utiliza el encabezado de host HTTP para distinguir las solicitudes a diferentes nombres de dominio en la misma dirección IP. En este caso, el hecho de que el dominio esté en un host compartido no hace ninguna diferencia para un robot visitante, y puede colocar un archivo /robots.txt en el directorio dedicado a su dominio.
@@ -244,12 +271,14 @@ El término "host virtual" a veces se usa para significar varias cosas diferente
 
 
 ### ¿Cómo uso /robots.txt en un host compartido?
+
 Si comparte un host con otras personas y tiene una URL como: http://www.ejemplo.com/~NombreDeUsuario/ o http://www.ejemplo.com/NombreDeUsuario, entonces no puede tener tu propio / archivo robots.txt. Si deseas utilizar /robots.txt, tendrás que pedirselo al administrador del host.
 
 Si desea más control, cambie de proveedor a un host virtual.
 
 
 ### ¿Qué pasa si no puedo crear un archivo robots.txt?
+
 A veces no puedes crear un archivo robots.txt porque no administra todo el servidor. No todo está perdido: hay un nuevo estándar para usar etiquetas META HTML para mantener a los robots fuera de sus documentos.
 
 La idea básica es que si incluye la etiqueta -noindex- siguiente en su documento HTML, ese documento no será indexado:
@@ -263,6 +292,7 @@ En cambio si le incluyes -nofollow- los enlaces en ese documento no serán anali
 
 
 ### ¿Se puede bloquear solo a los robots malos?
+
 En teoría sí, en la práctica, no. Si el robot defectuoso obedece a /robots.txt y conoce el nombre que busca en el campo Agente de usuario. entonces puede crear una sección en su /robotst.txt para excluirlo específicamente. Pero casi todos los robots malos ignoran /robots.txt, por lo que no tiene sentido.
 
 Si el robot defectuoso opera desde una sola dirección IP, puede bloquear su acceso a su servidor web a través de la configuración del servidor o con un firewall de red.
@@ -302,6 +332,7 @@ Podrás encontrar muchos otros casos en [Groklaw](http://www.groklaw.net/search.
 
 
 ### ¿Seguramente enumerar archivos confidenciales es un problema?
+
 A algunas personas les preocupa que la inclusión de páginas o directorios en el archivo /robots.txt pueda invitar a un acceso no deseado. Hay dos respuestas a esto.
 
 La primera respuesta es una solución alternativa: puede poner todos los archivos que no desea que los robots visiten en un subdirectorio separado, hacer que ese directorio no se pueda enumerar en la web (configurando su servidor), luego coloque sus archivos allí, y enumere solo el nombre del directorio en /robots.txt. Ahora, un robot mal intencionado no atravesará ese directorio a menos que usted u otra persona coloque un enlace directo en la web a uno de sus archivos, y luego no sea culpa de /robots.txt.
@@ -323,8 +354,12 @@ Sin embargo, en la práctica esta es una mala idea, es demasiado frágil. Alguie
 
 La verdadera respuesta es que /robots.txt no está diseñado para el control de acceso, así que no intentes usarlo como tal. Piense en ello como una señal de "No entrar", no como una puerta cerrada. Si tiene archivos en su sitio web a los que no desea que accedan personas no autorizadas, configure su servidor para realizar la autenticación y configure la autorización adecuada. La autenticación básica ha existido desde los primeros días de la web (y, por ejemplo, Apache en UNIX es trivial de configurar). Los sistemas modernos de gestión de contenido admiten controles de acceso en páginas individuales y colecciones de recursos.
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+
 ## Acerca de las etiquetas META
+
 ### ¿Qué es el atributo de enlace rel="nofollow"?
+
 Es un atributo que se puede establecer en una etiqueta de enlace HTML, inventada por Google y adoptada por otros. Esos enlaces no obtendrán ningún crédito cuando Google clasifique los sitios web en los resultados de búsqueda, eliminando así el incentivo principal detrás de los robots de spammers de comentarios de blogs.
 <!-- https://www.searchenginewatch.com/ -->
 <!-- http://googleblog.blogspot.com/2005/01/preventing-comment-spam.html -->
@@ -334,21 +369,23 @@ Puedes consultar, [¿Cómo prevenir comentarios con spam?](https://googleblog.bl
 Según esa descripción, parece que solo afecta la clasificación, y el robot de Google aún puede seguir los enlaces e indexarlos. Si es así, es diferente de la semántica NOFOLLOW <!-- /webmaster/robots-txt#meta -->de la metaetiqueta de robots.
 
 ## Disponibilidad
+
 ### ¿Dónde puedo usar un robot?
+
 Si se refiere a poder comprobar como un robot está trabajando sobre su sitio web, puedes comprobarlo desde las herramientas de indexación de páginas web que ya hemos indicado en el apartado de [¿Cómo registro mi página con un robot?](/robots-txt-preguntas-frecuentes/#como-registro-mi-pagina-con-un-robot)
 
-
 ### ¿Dónde puedo conseguir un robot?
+
 Bueno, hoy en día desde Amazon podrás comprar [algún 🤖 de los de película](https://amzn.to/2LF4zPh). No, fuera bromas.. Si a lo que te refieres es al robot / bot rastreador; en la pregunta siguiente encontrarás la respuesta.
 
 Si por lo contrario, te refieres a un archivo [robots.txt](/robots.txt) 
 
-
 ### ¿Dónde puedo obtener el código fuente de un robot?
+
 Existen múltiples formas de implementar un software similar al de un buscador a través de compilar código o implementar diferentes librerías; en el artículo de los [motores de búsqueda de código abierto](/los-mejores-motores-busqueda-codigo-abierto) vas a tener la oportunidad de conocer más sobre cómo hacerlo y sobre todo algunas diferentes opciones.
 
-
 ### Estoy escribiendo un robot, ¿de qué debo tener cuidado?
+
 Primero lee por completo la página [robots.txt](/robots-txt/) junto a las guías de indexación y rastreo creadas por Google que en la actualidad existen en español:
 - [Especificaciones de robots.txt](https://kutt.it/google-desarrollador-robots-txt)
 - [Especificaciones de metaetiquetas](https://kutt.it/google-desarrollador-meta-robots) ..de robots y del encabezado HTTP X-Robots-Tag
@@ -361,4 +398,4 @@ En muchos documentos de seguimiento de estándares se utilizan varias palabras p
 - URL: Localizadores uniformes de recursos [RFC1738](https://www.ietf.org/rfc/rfc1738.txt) por T. Berners-Lee
 Este documento especifica un Localizador Uniforme de Recursos (URL), la sintaxis y semántica de información formalizada para ubicación y acceso de recursos a través de Internet.
 
-### He escrito un robot, ¿Cómo lo enumero?
+<!-- He escrito un robot, ¿Cómo lo enumero? -->

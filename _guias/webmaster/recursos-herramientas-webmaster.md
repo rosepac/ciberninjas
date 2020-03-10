@@ -38,3 +38,5 @@ La mejor herramienta gratis para la creación de capturas de pantalla, captura d
 ## Herramientas de Edición Rápida de Imágenes
 
 * [Photopea](https://www.photopea.com/){:target="_blank"}
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>

@@ -36,6 +36,8 @@ toc_sticky: false
 - [Guía de Robots.txt de Ciberninjas](/robots-txt/)
 - [Guí de Optimización de CSS](https://www.humanlevel.com/articulos/desarrollo-web/optimizacion-de-css.html){:target="_blank"}
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+
 ## Los Mejores Artículos de SEO en Inglés
 
 - [Cómo crear en 20 segundos un mapa de sitio XML que mejore tu SEO](https://neilpatel.com/es/blog/mapa-de-sitio-xml/){:target="_blank"}
@@ -59,6 +61,7 @@ toc_sticky: false
 
 - [Google Herramientas Webmaster](https://kutt.it/webmaster-google "Herramientas de Webmaster Gratis ofrecidas por el buscador Google"){:target="_blank"}
 - [Bing Herramientas Webmaster](https://kutt.it/webmaster-bing "Herramientas de Webmaster Gratis ofrecidas por el buscador Bing"){:target="_blank"}
+- [Yandex Herramientas Webmaster](https://kutt.it/webmaster-yandex "Herramientas de Webmaster Gratis ofrecidas por el buscador Yandex"){:target="_blank"}
 - [Yahoo Herramientas Webmaster](https://kutt.it/webmaster-yahoo "Herramientas de Webmaster Gratis ofrecidas por el buscador Yahoo"){:target="_blank"}
 - KWFinder
 - answerthepublic.com
@@ -67,6 +70,8 @@ toc_sticky: false
 - Siteliner [explora tu sitio web](http://www.siteliner.com){:target="_blank"}
 
 - [Exportar Palabras Clave](https://www.mecagoenlos.com/tools/){:target="_blank"} 1- Exporta hasta 50.000 KWs de Google Search Console. 2- Exporta también las URLs (query + page).3- Totalmente gratis. (2020)
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
 ## Las Mejores Herramientas de Redes Sociales
 
@@ -92,3 +97,5 @@ toc_sticky: false
 - [Contador de Palabras](https://www.palabrasque.com/contador-de-palabras){:target="_blank"}
 - [Días Internacionales, Día a Día](https://www.diainternacionalde.com){:target="_blank"}
 - [Días Internacionales: Unesco](http://www.unesco.org/new/es/unesco/events/prizes-and-celebrations/celebrations/international-days/){:target="_blank"}
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
