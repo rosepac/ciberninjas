@@ -22,6 +22,10 @@ Código:
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
+✍ Las Mejores Guías y Libros para Aprender todo lo Necesario en la Creación y Gestión de tu Blog de Wordpress Las Mejores Guías y Libros para Aprender todo lo Necesario en la Creación y Gestión de tu Blog de Wordpress 😻
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336059819914203" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336059819914203" class="fb-xfbml-parse-ignore"><p>✍ Las Mejores Guías y Libros para Aprender todo lo Necesario en la Creación y Gestión de tu Blog de Wordpress Las...</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336059819914203">Lunes, 9 de marzo de 2020</a></blockquote></div>
+
 👨‍🎨 Los mejores libros de Photoshop, Retoque y Diseño en Español
 
 URL: https://www.facebook.com/cibercursos/posts/1046542982394908
@@ -76,6 +80,6 @@ PRODUCTOS EXTERNOS - PRODUCTOS EXTERNOS - PRODUCTOS EXTERNOS - PRODUCTOS EXTERNO
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331139357072916" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331139357072916" class="fb-xfbml-parse-ignore"><p>💣 Ofertas FLASH y en Mínimos Históricos de Componentes Hardware para Ordenadores de Sobremesa  🖥 🖱 ⌨</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331139357072916">Martes, 3 de marzo de 2020</a></blockquote></div>
 
-🤖 Los Mejore Juguetes con los que Aprender Electrónica y Programación, para Niñ@s y no tan niños. El disfrute de cualquiera que le gusten los cacharritos.. 😻
+🤖 Los Mejores Juguetes con los que Aprender Electrónica y Programación, para Niñ@s y no tan niños. El disfrute de cualquiera que le gusten los cacharritos.. 😻
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331131217073730" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331131217073730" class="fb-xfbml-parse-ignore"><p>🤖 Los Mejore Juguetes con los que Aprender Electrónica y Programación, para Niñ&#064;s y no tan niños. El disfrute de cualquiera que le gusten los cacharritos.. 😻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331131217073730">Martes, 3 de marzo de 2020</a></blockquote></div>

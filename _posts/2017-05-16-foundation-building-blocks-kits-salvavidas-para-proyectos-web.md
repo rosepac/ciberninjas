@@ -1,11 +1,14 @@
 ---
 layout: single
 title: '👨‍💻 ▷ Foundation Building Blocks: kits salvavidas para proyectos web'
-description: "✅ Foundation Building Blocks ⚡️ Una completa biblioteca de componentes con la que generar interfaces de usuario de código abierto con el Framework Foundation:"
-excerpt: "✅ Foundation Building Blocks ⚡️ Una completa biblioteca de componentes con la que generar interfaces de usuario de código abierto con el Framework Foundation:"
+description: "✅ Foundation Building Blocks ⚡️ Una completa biblioteca de componentes con la que generar interfaces de usuario de código abierto con el Framework Foundation"
+excerpt: "✅ Foundation Building Blocks ⚡️ Una completa biblioteca de componentes con la que generar interfaces de usuario de código abierto con el Framework Foundation"
 date: 2017-05-16T03:05:35.000+00:00
 permalink: /foundation-building-blocks-kits-salvavidas-para-proyectos-web
+canonical_URL: https://ciberninjas.com/foundation-building-blocks-kits-salvavidas-para-proyectos-web
+classes: wide
 header:
+  teaser: "/assets/images/foundation_1.jpg"
   overlay_image: "/assets/images/foundation_1.jpg"
   image_description: 'descripcion de la puta imagen xd '
   caption: 'Créditos: [**Unsplash**](https://unsplash.com)'
