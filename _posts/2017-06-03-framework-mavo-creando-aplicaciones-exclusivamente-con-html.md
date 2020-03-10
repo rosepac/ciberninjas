@@ -40,7 +40,7 @@ Pues que se ofrece como el primer **_framework_** capaz de crear **aplicaciones 
 
 El **Framework MAVO** fue lanzado a mitad de Mayo de 2.017 y nos ha reagalado una muy buena experiencia; sobre todo a los desarrolladores web que quieran evolucionar hacía el desarrollo de aplicaciones.
 
-> Quién no conozco a [@LeaVerou][1] decirle que le servirá, pasar por su [Blog][2] y en concreto visitar el apartado de [Proyectos][3]; no tardarás en darte cuenta de la importancia que está desarrolladora posee dentro del _Mundo del Desarrollo Web_.
+> Quién no conozco a [@LeaVerou](https://twitter.com/leaverou) decirle que le servirá, pasar por su [Blog](http://lea.verou.me/) y en concreto visitar el apartado de [Proyectos](http://lea.verou.me/projects/); no tardarás en darte cuenta de la importancia que está desarrolladora posee dentro del _Mundo del Desarrollo Web_.
 
 Allí encontrarás múltiples herramientas, indispensables y vitales para realizar trabajos específicos sobre hojas de estilos en cascada u **CSS**.
 
@@ -62,41 +62,20 @@ Mediante **MAVO** podrás hacer todas estas cosas (y muchas más…)
 
 Sin necesidad de codificar, ni de servidores para administrar los datos. Puedes hacer cualquier elemento editable, solamente incluyéndole un atributo. De hecho puedes almacenar los datos localmente sobre el navegador, **Github**, o **Dropbox**, o cualquier otro servicio simplemente cambiando un atributo **HTML**. También se puede convertir cualquier elemento **HTML** en una colección, con controles personalizables para añadir, eliminar elementos o re-organizar elementos mediante arrastrar y soltar. Los visitantes de tu sitio web podrían sugerir modificaciones sobre tus datos creando “_pull request_” a través del proyecto de **Github** desde dentro de tu misma _web_.
 
-**Mavo es un lenguaje que extiende HTML para describir aplicaciones que administran, almacenan y transforman datos.** Lo que se necesita para utilizar **MAVO** es únicamente incluir estos [dos archivos][4] e insertarlos antes del cierre de la cabecera:
-
-`
-...
-
-
-
-...
-`
+**Mavo es un lenguaje que extiende HTML para describir aplicaciones que administran, almacenan y transforman datos.** Lo que se necesita para utilizar **MAVO** es únicamente incluir estos [dos archivos](http://mavo.io/get/){:target="_blank"} e insertarlos antes del cierre de la cabecera:
 
 No se trata de utilizar **HTML** como un simple acceso directo a **JavaScript**, sino como un idioma principal para crear aplicaciones web. Hemos hecho estudios de usuarios reales para demostrar que **MAVO** puede ser utilizado con éxito incluso por personas sin experiencia en programación.
 
-Los resultados han sido publicados aquí: [ACM UIST 2016][5].
+Los resultados han sido publicados aquí: [ACM UIST 2016](http://dl.acm.org/citation.cfm?id=2984551).
 
 El punto de vista que se busca, es que **JavaScript** y los servidores _**backend** _además de las bases de datos se conviertan en el “Ensamble de la Web” principalmente en cuanto a tareas especializadas o de alto rendimiento.
 
-## Para todo lo demás, **HTML** y **CSS** deberían bastar.
+> Para todo lo demás, **HTML** y **CSS** deberían bastar.
 
-> _**_Documentación: [Manual][6]
-    
-> **Proyecto:** [Blog Oficial del Framework Mavo][7]
-    
-> **Introducción:** [Artículo introductorio, en inglés][8]
-    
-> **Repositorio:** [Github][9]
-    
-> **Fuente:**  [_Lea Verou Blog_][10]_ 
+---
 
- [1]: https://twitter.com/leaverou
- [2]: http://lea.verou.me/
- [3]: http://lea.verou.me/projects/
- [4]: http://mavo.io/get/
- [5]: http://dl.acm.org/citation.cfm?id=2984551
- [6]: http://mavo.io/docs
- [7]: http://mavo.io
- [8]: https://www.smashingmagazine.com/2017/05/introducing-mavo
- [9]: https://github.com/mavoweb/mavo/
- [10]: http://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/
+**Documentación**: [Manual](http://mavo.io/docs){:target="_blank"}
+**Proyecto:** [Blog Oficial del Framework Mavo](http://mavo.io){:target="_blank"}
+**Introducción:** [Artículo introductorio, en inglés](https://www.smashingmagazine.com/2017/05/introducing-mavo){:target="_blank"}
+**Repositorio:** [Github](https://github.com/mavoweb/mavo/){:target="_blank"}
+**Fuente:**  [_Lea Verou Blog_](http://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/){:target="_blank"}
