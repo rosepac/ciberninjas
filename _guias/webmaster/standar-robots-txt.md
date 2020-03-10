@@ -8,16 +8,19 @@ date: 2020-03-10
 last_modified_at: 
 permalink: /standar-original-robots-txt/
 canonical_URL: https://ciberninjas.com/standar-original-robots-txt/
+classes: wide
 header:
   overlay_image: "/assets/images/robots-txt-lupa-ciberninjas.webp"
   image_description: Robots txt, el Standar original de 1994 escrito por Martijn Koster | Ciberninjas
 #  caption: "**Créditos**: Edición Personal Sobre Foto de Emiliano Vittoriosi en Unsplash"
   teaser: "/assets/images/robots-txt-lupa-ciberninjas.webp"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 ---
+
+🔥 Seguro también te interesa: [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 
 ## Un estándar para la exclusión de robots
 
@@ -27,23 +30,11 @@ Tabla de contenido:
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/mejores-editores-texto/#1-visual-studio-code-de-microsoft">Visual Studio Code: La tanqueta indestructible</a></li>
-    <li><a href="/mejores-editores-texto/#2-sublime-text">Sublime Text: El guaperas entre los minimalistas</a></li>
-    <li><a href="/mejores-editores-texto/#3-notepad-">Notepad ++: La pareja ideal para comenzar el baile</a></li>
-    <li><a href="/mejores-editores-texto/#4-brackets">Brackets: La paleta más vistos y perfecta para los artistas</a></li>
-    <li><a href="/mejores-editores-texto/#5-atom">Atom: El vehículo anfibio adaptable</a></li>
-    <li><a href="/mejores-editores-texto/#6-bluej">BlueJ: El triciclo para los más jóvenes, y también para adultos</a></li>
-    <li><a href="/mejores-editores-texto/##7-bluefish">BlueFish: Un ayudante perfecto en forma de pescadito</a></li>
-    <li><a href="/mejores-editores-texto/#8-codeshareio">Codeshare IO: El dron perfecto, para volar a cualquier parte</a></li>
-    <li><a href="/mejores-editores-texto/#9-vim">VIM: Un Ferrari Clásico, algo así como el 512</a></li>
-    <li><a href="/mejores-editores-texto/#10-gnu-emacs">EMacs: Un Porsche Clásico, algo así como el 911 Turbo</a></li>
-    <li><a href="/mejores-editores-texto/##11-spacemacs">Spacemacs: El más díficil de conducir, algo así como un Lamborghini Veneno</a></li>
-    <li><a href="/mejores-editores-texto/#12-komodo-ide">Komodo IDE: El dragón que puede con todo</a></li>
-    <li><a href="/mejores-editores-texto/#13-eclipse-theia">Eclipse Theia: Regresando a la luna, desde las nubes</a></li>
-    <li><a href="/mejores-editores-texto/#14-light-table">Light Table: El hijastro peleón del Ceceo</a></li>
-    <li><a href="/mejores-editores-texto/#15-delphi-community-edition">Delphi: La Pascalina de la programación
-    </a></li>
-    <li><a href="/mejores-editores-texto/#16-markdown-monster">Markdown Monster: El monstruo del Markdown</a></li>
+    <li><a href="/standar-original-robots-txt/#estado-de-este-documento">Estado del Documento</a></li>
+    <li><a href="/standar-original-robots-txt/#introducción">Introducción</a></li>
+    <li><a href="/standar-original-robots-txt/#el-método">El Método</a></li>
+    <li><a href="/standar-original-robots-txt/#el-formato">El Formato</a></li>
+    <li><a href="/standar-original-robots-txt/#ejemplos">Ejemplos</a></li>
   </ol>
 </nav>
 </details>
@@ -148,5 +139,7 @@ Aunque no es parte de esta especificación, algunos códigos de ejemplo en Perl 
 ### Dirección del autor
 
 [Martijn Koster](http://www.greenhills.co.uk/mak/mak.html)
+
+[⏪ Regresa a La Guía de Robots.txt](/robots-txt/)
 
 <!-- https://www.robotstxt.org/orig.html -->
