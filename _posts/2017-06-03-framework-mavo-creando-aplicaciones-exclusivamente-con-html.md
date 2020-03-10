@@ -15,10 +15,10 @@ categories:
 permalink: /framework-mavo-creando-aplicaciones-exclusivamente-con-html/
 canonical_URL: https://ciberninjas.com/framework-mavo-creando-aplicaciones-exclusivamente-con-html/
 header:
-    teaser: /assets/images/blog/mavo-framework-ciberninjas.webp
+    teaser: /assets/images/blog/mavo-framework-ciberninjas-png.webp
 ---
 
-![El Framework Mavo te permite crear aplicaciones exclusivamente con HTML](/assets/images/blog/mavo-framework-ciberninjas.webp "El Framework Mavo te permite crear aplicaciones exclusivamente con HTML")
+![El Framework Mavo te permite crear aplicaciones exclusivamente con HTML](/assets/images/blog/mavo-framework-ciberninjas-png.webp "El Framework Mavo te permite crear aplicaciones exclusivamente con HTML")
 
 > _Crear aplicaciones web sin Javascript ahora ya es posible, con el_ **_Framework Mavo_** 
 
