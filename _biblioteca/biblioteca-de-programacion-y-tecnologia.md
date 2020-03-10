@@ -634,7 +634,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## <i class="fab fa-js"></i> JavaScript
 
-* [Fundamentos de Javascript](https://majoledesma.github.io/js-notes/){:target="_blank"} (PDF) (2020)
+* [Fundamentos de Javascript](https://majoledesma.github.io/js-notes/){:target="_blank"} (PDF) (2020) [Anexo 1: Scope y Local Scope](https://twitter.com/MajoLedes/status/1234882045190561793){:target="_blank"} (2020)
 * [Guía de Javascript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide){:target="_blank"} (HTML)
 * [Introducción a AJAX](https://librosweb.es/libro/ajax){:target="_blank"} (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax){:target="_blank"}
 * [Introducción a JavaScript](https://librosweb.es/libro/javascript){:target="_blank"} (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript){:target="_blank"}
@@ -849,6 +849,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## Seo y Posicionamiento 🔍
 
 * [50 Estrategias para aumentar tu Tráfico Web](https://netgrows.com/wp-content/uploads/2019/02/eBook-netgrows-50-estrategias-para-aumentar-tu-trafico-web.pdf){:target="_blank"}
+* [Posicionamiento en Buscadores](https://drive.google.com/file/d/12EkdvIOmV51r6gQxlakBrbe5RjQ_TDJR/view?usp=sharing){:target="_blank"}
 * [SEO en Amazon](https://netgrows.com/wp-content/uploads/2018/11/ebook-amazon-netgrows.pdf){:target="_blank"}
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
