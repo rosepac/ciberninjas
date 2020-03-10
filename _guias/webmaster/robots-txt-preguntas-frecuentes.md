@@ -43,13 +43,7 @@ header:
 <nav class="menu">
   <ol>
     <li>
-	
-	
-	
-	<a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a>
-	
-	<details>
-<summary></summary>
+	<a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a><details><summary></summary>
   <ol>
     <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a></li>
 	</ol>
