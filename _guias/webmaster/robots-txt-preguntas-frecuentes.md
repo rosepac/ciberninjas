@@ -15,10 +15,10 @@ header:
   image_description: Robots.txt, las preguntas más frecuentes que necesitas conocer, resolver e investigar sobre los rastreadores web | Ciberninjas
   caption: "**Créditos**: Edición Personal Sobre Foto de Emiliano Vittoriosi en Unsplash"
   teaser: "/assets/images/robots-txt-lupa-ciberninjas.webp"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: false
 ---
 
 🔥 Seguro también te interesa: [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [guía de robots.txt](/robots-txt/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
@@ -28,22 +28,8 @@ toc_sticky: false
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a></li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#robots-de-indexación">Robots de indexación</a></li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#para-administradores-de-servidores">Para administradores de servidores</a></li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#normas-de-exclusión-de-robots">Normas de Exclusión de robots</a></li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-las-etiquetas-meta">Acerca de las etiquetas META</a></li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#disponibilidad">Disponibilidad</a></li>
-  </ol>
-</nav>
-</details>
-
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
     <li>
-	<a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a><details><summary>Saber ➕</summary>
+	<a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a><details><summary>Ver Más</summary>
   		<ol>
     		<li><a href="/robots-txt-preguntas-frecuentes/#qué-es-un-robot-www">Qué es un robot WWW</a></li>
     		<li><a href="/robots-txt-preguntas-frecuentes/#qué-es-un-agente">Qué es un agente</a></li>
@@ -55,7 +41,7 @@ toc_sticky: false
     		<li><a href="/robots-txt-preguntas-frecuentes/#dónde-puedo-encontrar-más-información-sobre-robots">Dónde encontrar más información sobre robots</a></li>
 		</ol></details>
 	</li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#robots-de-indexación">Robots de indexación</a><details><summary>Saber ➕</summary>
+    <li><a href="/robots-txt-preguntas-frecuentes/#robots-de-indexación">Robots de indexación</a><details><summary>Ver Más</summary>
   		<ol>
     		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-decide-un-robot-dónde-visitar">Cómo decide un robot donde visitar</a></li>
     		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-decide-un-robot-de-indexación-qué-indexar">Cómo decide un robot de indexación que indexar</a></li>
@@ -63,14 +49,14 @@ toc_sticky: false
     		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-obtengo-un-mejor-posicionamiento-en-los-motores-de-búsqueda">Cómo obtengo un mejor posicionamiento en los motores de búsqueda</a></li>
 		</ol></details>
 	</li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#para-administradores-de-servidores">Para administradores de servidores</a><details><summary>Saber ➕</summary>
+    <li><a href="/robots-txt-preguntas-frecuentes/#para-administradores-de-servidores">Para administradores de servidores</a><details><summary>Ver Más</summary>
   		<ol>
     		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-sé-si-me-ha-visitado-un-robot">Cómo sé si me ha visitado un robot</a></li>
     		<li><a href="/robots-txt-preguntas-frecuentes/#me-ha-visitado-un-robot-ahora-qué">¡Me ha visitado un robot!, ¿Ahora qué?</a></li>
     		<li><a href="/robots-txt-preguntas-frecuentes/#un-robot-rastrea-mi-sitio-demasiado-habitualmente">¡Un robot rastrea mi sitio demasiado habitualmente!</a></li>
 		</ol></details>
 	</li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#normas-de-exclusión-de-robots">Normas de Exclusión de robots</a><details><summary>Saber ➕</summary>
+    <li><a href="/robots-txt-preguntas-frecuentes/#normas-de-exclusión-de-robots">Normas de Exclusión de robots</a><details><summary>Ver Más</summary>
   		<ol>
     		<li><a href="/robots-txt-preguntas-frecuentes/#por-qué-encuentro-entradas-para-robotstxt-en-mis-archivos-de-registro">¿Por qué encuentro entradas para /robots.txt en mis archivos de registro?</a></li>
     		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-evito-que-los-robots-escaneen-mi-sitio">Cómo evito que los robots escaneen mi sitio</a></li>
@@ -85,12 +71,12 @@ toc_sticky: false
     		<li><a href="/robots-txt-preguntas-frecuentes/#seguramente-enumerar-archivos-confidenciales-es-un-problema">¿Seguramente enumerar archivos confidenciales es un problema?</a></li>
 		</ol></details>
 	</li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-las-etiquetas-meta">Acerca de las etiquetas META</a><details><summary>Saber ➕</summary>
+    <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-las-etiquetas-meta">Acerca de las etiquetas META</a><details><summary>Ver Más</summary>
   		<ol>
     		<li><a href="/robots-txt-preguntas-frecuentes/#qué-es-el-atributo-de-enlace-relnofollow">¿Qué es el atributo de enlace rel="nofollow"?</a></li>
 		</ol></details>
 	</li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#disponibilidad">Disponibilidad</a><details><summary>Saber ➕</summary>
+    <li><a href="/robots-txt-preguntas-frecuentes/#disponibilidad">Disponibilidad</a><details><summary>Ver Más</summary>
   		<ol>
     		<li><a href="/robots-txt-preguntas-frecuentes/#dónde-puedo-usar-un-robot">¿Dónde puedo usar un robot?</a></li>
     		<li><a href="/robots-txt-preguntas-frecuentes/#dónde-puedo-conseguir-un-robot">¿Dónde puedo conseguir un robot?</a></li>
@@ -477,5 +463,7 @@ En muchos documentos de seguimiento de estándares se utilizan varias palabras p
 
 - URL: Localizadores uniformes de recursos [RFC1738](https://www.ietf.org/rfc/rfc1738.txt) por T. Berners-Lee
 Este documento especifica un Localizador Uniforme de Recursos (URL), la sintaxis y semántica de información formalizada para ubicación y acceso de recursos a través de Internet.
+
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 <!-- He escrito un robot, ¿Cómo lo enumero? -->
