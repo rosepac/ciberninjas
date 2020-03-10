@@ -34,10 +34,10 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 {: .notice--info}
 
 <details>
-<summary><strong>MENÚ 👇</strong></summary>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/programar/#cómo-aprender-a-programar">Cómo aprender a programar código</a></li>
+    <li><a href="/programar/#menu">Cómo aprender a programar código</a></li>
     <li><a href="/programar/#en-qué-campo-de-la-informática-trabajar">En qué campo de la informática trabajar</a></li>
     <li><a href="/programar/#qué-lenguaje-aprender">Qué lenguaje de programación aprender</a></li>
     <li><a href="/programar/#qué-lenguajes-evitar">Qué lenguajes de programación evitar</a></li>
@@ -68,7 +68,7 @@ En esta primera sección, vamos a intentar realizar un resumen de los pasos que 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OPlGMplfEbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
-[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿En qué campo de la informática trabajar?
 
@@ -129,7 +129,7 @@ Existen muchos más lenguajes de programación, entre los más populares ahora s
 
 > Aprender a programar, es la clave de la era digital
 
-[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## La Programación en la Actualidad
 
@@ -144,7 +144,7 @@ Si tu objetivo es abrir una Startup o unirte a una, nada mejor que iniciarte con
 
 Un buen plan de estudio, podría ser Javascript, React, Ruby y Ruby and Rails; pero eso no quiere decir que sea el mejor, ni el único.
 
-[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿Qué puestos de trabajo existen?
 
@@ -173,7 +173,7 @@ En esta lista encontramos los lenguajes que están más al alza entre los puesto
 Java - Javascript - C # - Swift - Kotlin
 
 <!-- (imágenes con enlaces a las páginas de formación de cada lenguaje) -->
-[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ### Sobre Javascript
 
@@ -215,7 +215,7 @@ Una lista de algunos de estos lenguajes podría ser:
 </ol>
 </details>
 
-[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## Otros Lenguajes Populares en la Actualidad
 
@@ -245,7 +245,7 @@ Los navegadores web así como Internet, sin lugar a dudas han cambiado por compl
 Entre estos "lenguajes" destacan HTML y CSS, que forman una de las partes más importantes de todo Internet. Incluso podríamos incluir la tecnología AJAX.
 
 <!-- ## Qué es Programar -->
-[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## Declaración Ciberninjas
 
@@ -255,7 +255,7 @@ Indiferentemente de si deseas introducirte en ser un desarrollador *full stack, 
 
 Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer más, sobre [nuestra "filosofía"](/que-es-ciberninjas/). Si aún te surgen dudas o te gustaría realizar alguna consulta, ***¿Qué es Ciberninjas?*** o ***Nuestro Proyecto***  y además, no temas en unirte a [nuestra conversación (Discord)](https://kutt.it/ciberninjas_discord).
 
-[🔝 Regresar 🔝](/programar/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
