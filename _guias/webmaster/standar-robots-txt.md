@@ -1,5 +1,5 @@
 ---
-title: 🤖 ▷ El Standar Original de robots.txt
+title: 🤖 ▷ Robots.txt: Un estándar para la exclusión de robots
 description: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
 excerpt: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
 published: true
@@ -20,11 +20,8 @@ header:
 # toc_sticky: true
 ---
 
-🔥 Seguro también te interesa: [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
-
-## Un estándar para la exclusión de robots
-
-Tabla de contenido:
+🔥 Seguro también te interesa: [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
+{: .notice--warning}
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
@@ -38,14 +35,6 @@ Tabla de contenido:
   </ol>
 </nav>
 </details>
-
- - [Estado de este documento](https://www.robotstxt.org/orig.html#status)
- - [Introducción](https://www.robotstxt.org/orig.html#introduction)
- - [Método](https://www.robotstxt.org/orig.html#method)
- - [Formato](https://www.robotstxt.org/orig.html#format)
- - [Ejemplos](https://www.robotstxt.org/orig.html#examples)
- - [Código de ejemplo](https://www.robotstxt.org/orig.html#code)
- - [Dirección del autor](https://www.robotstxt.org/orig.html#author)
 
 ## Estado de este documento
 
@@ -141,5 +130,5 @@ Aunque no es parte de esta especificación, algunos códigos de ejemplo en Perl 
 [Martijn Koster](http://www.greenhills.co.uk/mak/mak.html)
 
 [⏪ Regresa a La Guía de Robots.txt](/robots-txt/)
-
+{: .notice--info}
 <!-- https://www.robotstxt.org/orig.html -->
