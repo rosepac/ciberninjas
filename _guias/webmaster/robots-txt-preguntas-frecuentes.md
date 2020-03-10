@@ -43,20 +43,61 @@ toc_sticky: false
 <nav class="menu">
   <ol>
     <li>
-	<a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a><details><summary>➕ Acerca de los robots WWW</summary>
+	<a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a><details><summary>Saber ➕</summary>
   		<ol>
-    		<li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#qué-es-un-robot-www">Qué es un robot WWW</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#qué-es-un-agente">Qué es un agente</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#qué-es-un-buscador">Qué es un buscador</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#qué-tipo-de-robots-existen">Qué tipo de robots existen</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#entonces-qué-son-los-robots-arañas-rastreadores-web-gusanos-hormigas">Entonces, ¿Qué son los robots, arañas, rastreadores web, gusanos u hormigas?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#son-los-robots-malos-para-la-web">Son los robots malos para la web</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#hay-libros-de-robots">Hay libros de robots</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#dónde-puedo-encontrar-más-información-sobre-robots">Dónde encontrar más información sobre robots</a></li>
 		</ol></details>
 	</li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#robots-de-indexación">Robots de indexación</a><details><summary>➕ Robots de indexación</summary>
+    <li><a href="/robots-txt-preguntas-frecuentes/#robots-de-indexación">Robots de indexación</a><details><summary>Saber ➕</summary>
   		<ol>
-    		<li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-los-robots-www">Acerca de los robots WWW</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-decide-un-robot-dónde-visitar">Cómo decide un robot donde visitar</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-decide-un-robot-de-indexación-qué-indexar">Cómo decide un robot de indexación que indexar</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-registro-mi-página-con-un-robot">Cómo registro mi página con un robot</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-obtengo-un-mejor-posicionamiento-en-los-motores-de-búsqueda">Cómo obtengo un mejor posicionamiento en los motores de búsqueda</a></li>
 		</ol></details>
 	</li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#para-administradores-de-servidores">Para administradores de servidores</a></li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#normas-de-exclusión-de-robots">Normas de Exclusión de robots</a></li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-las-etiquetas-meta">Acerca de las etiquetas META</a></li>
-    <li><a href="/robots-txt-preguntas-frecuentes/#disponibilidad">Disponibilidad</a></li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#para-administradores-de-servidores">Para administradores de servidores</a><details><summary>Saber ➕</summary>
+  		<ol>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-sé-si-me-ha-visitado-un-robot">Cómo sé si me ha visitado un robot</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#me-ha-visitado-un-robot-ahora-qué">¡Me ha visitado un robot!, ¿Ahora qué?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#un-robot-rastrea-mi-sitio-demasiado-habitualmente">¡Un robot rastrea mi sitio demasiado habitualmente!</a></li>
+		</ol></details>
+	</li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#normas-de-exclusión-de-robots">Normas de Exclusión de robots</a><details><summary>Saber ➕</summary>
+  		<ol>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#por-qué-encuentro-entradas-para-robotstxt-en-mis-archivos-de-registro">¿Por qué encuentro entradas para /robots.txt en mis archivos de registro?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-evito-que-los-robots-escaneen-mi-sitio">Cómo evito que los robots escaneen mi sitio</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#dónde-descubro-cómo-funcionan-los-archivos-robotstxt">¿Dónde descubro cómo funcionan los archivos /robots.txt?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#qué-programa-debo-usar-para-crear-robotstxt">¿Qué programa debo usar para crear /robots.txt?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-uso-robotstxt-en-un-host-virtual">¿Cómo uso /robots.txt en un host virtual?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#cómo-uso-robotstxt-en-un-host-compartido">¿Cómo uso /robots.txt en un host compartido?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#qué-pasa-si-no-puedo-crear-un-archivo-robotstxt">¿Qué pasa si no puedo crear un archivo robots.txt?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#se-puede-bloquear-solo-a-los-robots-malos">¿Se puede bloquear solo a los robots malignos?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#por-qué-este-robot-ignoró-mi-robotstxt">¿Por qué esté robot ignoró mi /robots.txt?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#se-puede-usar-un-documento-robotstxt-ante-un-juicio">¿Se puede usar un documento /robots.txt ante un juicio?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#seguramente-enumerar-archivos-confidenciales-es-un-problema">¿Seguramente enumerar archivos confidenciales es un problema?</a></li>
+		</ol></details>
+	</li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-las-etiquetas-meta">Acerca de las etiquetas META</a><details><summary>Saber ➕</summary>
+  		<ol>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#qué-es-el-atributo-de-enlace-relnofollow">¿Qué es el atributo de enlace rel="nofollow"?</a></li>
+		</ol></details>
+	</li>
+    <li><a href="/robots-txt-preguntas-frecuentes/#disponibilidad">Disponibilidad</a><details><summary>Saber ➕</summary>
+  		<ol>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#dónde-puedo-usar-un-robot">¿Dónde puedo usar un robot?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#dónde-puedo-conseguir-un-robot">¿Dónde puedo conseguir un robot?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#dónde-puedo-obtener-el-código-fuente-de-un-robot">¿Dónde puedo obtener el código fuente de un robot?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#estoy-escribiendo-un-robot-de-qué-debo-tener-cuidado">Estoy escribiendo un robot, ¿De qué debo tener cuidado?</a></li>
+		</ol></details>
+	</li>
   </ol>
 </nav>
 </details>
@@ -423,7 +464,7 @@ Si por lo contrario, te refieres a un archivo [robots.txt](/robots.txt)
 
 Existen múltiples formas de implementar un software similar al de un buscador a través de compilar código o implementar diferentes librerías; en el artículo de los [motores de búsqueda de código abierto](/los-mejores-motores-busqueda-codigo-abierto) vas a tener la oportunidad de conocer más sobre cómo hacerlo y sobre todo algunas diferentes opciones.
 
-### Estoy escribiendo un robot, ¿de qué debo tener cuidado?
+### Estoy escribiendo un robot, ¿De qué debo tener cuidado?
 
 Primero lee por completo la página [robots.txt](/robots-txt/) junto a las guías de indexación y rastreo creadas por Google que en la actualidad existen en español:
 - [Especificaciones de robots.txt](https://kutt.it/google-desarrollador-robots-txt)
