@@ -22,6 +22,9 @@ toc_sticky: false
 
 ---
 
+🔥 Seguro también te interesa: [aprender posicionamiento web](/posicionamiento-web-seo/) >> [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
+{: .notice--danger}
+
 ## Los Mejores Artículos de SEO
 
 - [7 Consejos para Convertir tu Twitter en un imán SEO](http://www.ticweb.es/7-consejos-para-convertir-su-twitter-en-un-iman-seo){:target="_blank"}
