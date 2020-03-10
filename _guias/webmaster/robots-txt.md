@@ -22,6 +22,25 @@ toc_sticky: true
 🔥 Seguro también te interesa: [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li><a href="/robots-txt/#introducción">Introducción</a></li>
+    <li><a href="/robots-txt/#qué-es-robotstxt">Qué es robots.txt</a></li>
+    <li><a href="/robots-txt/#los-detalles">Los Detalles</a></li>
+    <li><a href="/robots-txt/#cómo-crear-un-archivo-robotstxt">Cómo crear un archivo /robots.txt</a></li>
+    <li><a href="/robots-txt/#qué-debo-poner-en-este-archivo">¿Qué debo poner en este archivo?</a></li>
+    <li><a href="/robots-txt/#acerca-de-la-meta-etiqueta-robots">Acerca de la META etiqueta robots</a></li>
+    <li><a href="/robots-txt/#cómo-escribir-una-metaetiqueta-de-robots">Cómo escribir una metaetiqueta de robots</a></li>
+    <li><a href="/robots-txt/#sitios-de-información-importantes">Sitios de información importantes</a></li>
+    <li><a href="/robots-txt/#cómo-chequear-o-probar-tu-robotstxt">Cómo chequear o probar tu robots.txt</a></li>
+    <li><a href="/robots-txt/#rastreadores-web">Rastreadores web</a></li>
+    <li><a href="/robots-txt/#rastreadores-de-código-abierto">Rastreadores de código abierto</a></li>
+  </ol>
+</nav>
+</details>
+
 ## Introducción
 
 Los robots web (también conocidos como errantes, rastreadores o arañas) son programas que atraviesan la cada página web de todo el mundo de Internet automáticamente. Los motores de búsqueda como Google los usan para indexar el contenido web, los spammers los usan para buscar direcciones de correo electrónico y otros muchos más tienen diferenciados usos.
@@ -50,7 +69,7 @@ Existen dos consideraciones importantes que debes tener en cuenta a la hora de u
 
 Por tanto, no intentes usar /robots.txt para ocultar información.
 
-👉 Ver también: [¿Puedo bloquear solo robots malos?](/robots-txt-preguntas-frecuentes/#se-puede-bloquear-solo-a-los-robots-malos) >> [¿Por qué este robot ignoró mi /robots.txt?](/robots-txt-preguntas-frecuentes/#por-qué-este-robot-ignoró-mi-robotstxt) >> [¿Cuáles son las implicaciones de seguridad de /robots.txt?](/robots-txt-preguntas-frecuentes/#seguramente-enumerar-archivos-confidenciales-es-un-problema)
+👉 Ver también:<br/>[¿Puedo bloquear solo robots malos?](/robots-txt-preguntas-frecuentes/#se-puede-bloquear-solo-a-los-robots-malos)<br/>>> [¿Por qué este robot ignoró mi /robots.txt?](/robots-txt-preguntas-frecuentes/#por-qué-este-robot-ignoró-mi-robotstxt)<br/>>> [¿Cuáles son las implicaciones de seguridad de /robots.txt?](/robots-txt-preguntas-frecuentes/#seguramente-enumerar-archivos-confidenciales-es-un-problema)
 {: .notice--danger}
 
 ## Los detalles
@@ -82,7 +101,7 @@ Entonces, como propietario de un sitio web, debe colocarlo en el lugar correcto 
 
 Recuerde utilizar las letras con minúsculas para el nombre de archivo: "robots.txt", y no "Robots.TXT".
 
-👉 Ver también:<br/>[¿Qué programa debo usar para crear /robots.txt?](/robots-txt-preguntas-frecuentes/#qué-programa-debo-usar-para-crear-robotstxt)<br/>>> [¿Cómo uso /robots.txt en un host virtual?](/robots-txt-preguntas-frecuentes/#cómo-uso-robotstxt-en-un-host-virtual) <br/>>> [¿Cómo uso /robots.txt en un host compartido?](/robots-txt-preguntas-frecuentes/#cómo-uso-robotstxt-en-un-host-compartido)
+👉 Ver también:<br/>>> [¿Qué programa debo usar para crear /robots.txt?](/robots-txt-preguntas-frecuentes/#qué-programa-debo-usar-para-crear-robotstxt)<br/>>> [¿Cómo uso /robots.txt en un host virtual?](/robots-txt-preguntas-frecuentes/#cómo-uso-robotstxt-en-un-host-virtual) <br/>>> [¿Cómo uso /robots.txt en un host compartido?](/robots-txt-preguntas-frecuentes/#cómo-uso-robotstxt-en-un-host-compartido)
 {: .notice--danger}
 
 ## ¿Qué debo poner en este archivo?
@@ -253,7 +272,7 @@ Sitios muy útiles para webmasters:
 - [Xenon](https://en.wikipedia.org/wiki/Xenon_(program)) es un rastreador web utilizado por las autoridades fiscales del gobierno para detectar fraudes.
 - Yahoo! Slurp era el nombre de [Yahoo! ](https://en.wikipedia.org/wiki/Yahoo!){:target="_blank"} buscador, el rastreador de Yahoo! contratado con [Microsoft](https://en.wikipedia.org/wiki/Microsoft){:target="_blank"} para usar [Bingbot](https://en.wikipedia.org/wiki/Bingbot){:target="_blank"} en [su](https://en.wikipedia.org/wiki/Bingbot){:target="_blank"} lugar.
 
-### Rastreadores de código abierto [ [editar ](https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=21)]
+### Rastreadores de código abierto
 
 - [Frontera](https://en.wikipedia.org/wiki/Frontera_(web_crawling)){:target="_blank"} es un framework de rastreo web que implementa el componente de [frontera de rastreo](https://en.wikipedia.org/wiki/Crawl_frontier){:target="_blank"} y proporciona primitivas de escalabilidad para aplicaciones de [rastreo](https://en.wikipedia.org/wiki/Crawl_frontier){:target="_blank"} web.
 - [GNU Wget](https://en.wikipedia.org/wiki/Wget){:target="_blank"} es un rastreador operado por [línea de](https://en.wikipedia.org/wiki/Command_line_interface){:target="_blank"} comandos escrito en [C](https://en.wikipedia.org/wiki/C_(programming_language)){:target="_blank"} y lanzado bajo la [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License){:target="_blank"}. Por lo general, se usa para reflejar sitios web y FTP.
