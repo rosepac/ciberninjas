@@ -21,14 +21,14 @@ header:
 # toc_sticky: true
 ---
 
-🔥 Seguro también te interesa: [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
-{: .notice--danger}
+Los robots web (también conocidos como errantes, rastreadores o arañas) son programas que atraviesan la cada página web de todo el mundo de Internet automáticamente. Los motores de búsqueda como Google los usan para indexar el contenido web, los spammers los usan para buscar direcciones de correo electrónico y otros muchos más tienen diferenciados usos.
+
+Con esta página traemos toda la información necesaria para ser todo un maestro sobre los robots web.
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/robots-txt/#introducción">Introducción</a></li>
     <li><a href="/robots-txt/#qué-es-robotstxt">Qué es robots.txt</a></li>
     <li><a href="/robots-txt/#los-detalles">Los Detalles</a></li>
     <li><a href="/robots-txt/#cómo-crear-un-archivo-robotstxt">Cómo crear un archivo /robots.txt</a></li>
@@ -43,13 +43,8 @@ header:
 </nav>
 </details>
 
-## Introducción
-
-Los robots web (también conocidos como errantes, rastreadores o arañas) son programas que atraviesan la cada página web de todo el mundo de Internet automáticamente. Los motores de búsqueda como Google los usan para indexar el contenido web, los spammers los usan para buscar direcciones de correo electrónico y otros muchos más tienen diferenciados usos.
-
-Con esta página traemos toda la información necesaria para ser todo un maestro sobre los robots web.
-
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+🔥 Seguro también te interesa: [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
+{: .notice--danger}
 
 ## Qué es robots.txt
 
@@ -189,6 +184,8 @@ Disallow: /~carpeta-personal/foo.html
 Disallow: /~carpeta-personal/bar.html
 ```
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+
 ## Acerca de la META etiqueta robots
 
 ### En una palabra
@@ -201,7 +198,7 @@ Por ejemplo:
 <html>
 <head>
 <title> ... </title>
-<META NAME = "ROBOTS" CONTENT = "NOINDEX, NOFOLLOW">
+<META NAME="ROBOTS" CONTENT="NOINDEX,NOFOLLOW">
 </head>
 ```
 
