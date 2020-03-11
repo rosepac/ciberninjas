@@ -102,6 +102,8 @@ Los navegadores web normales no son robots, porque son operados por un humano y 
 
 Los robots web a veces se denominan web wanderers, web crawlers o spiders. Estos nombres son un poco engañosos ya que dan la impresión de que el software se mueve entre sitios como un virus; En este caso, un robot simplemente visita los sitios solicitándoles documentos.
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 ## **¿Qué es un agente?**
 
 La palabra "agente" se usa para muchos significados en informática en estos días. Específicamente:
@@ -115,9 +117,13 @@ Son programas que ayudan a los usuarios con cosas, como elegir un producto, o gu
 - Agente de usuario
 Es un nombre técnico para programas que realizan tareas de red para un usuario, como agentes de usuario web como Netscape Navigator y Microsoft Internet Explorer, y agente de usuario de correo electrónico como Qualcomm Eudora, etc.
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 ## **¿Qué es un buscador?**
 
 Un motor de búsqueda es un programa que busca en algún conjunto de datos. En el contexto de la Web, la palabra "motor de búsqueda" se usa con mayor frecuencia para los formularios de búsqueda que buscan en bases de datos de documentos HTML recopilados por un robot.
+
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **¿Qué tipo de robots existen?**
 
@@ -128,6 +134,8 @@ Los robots se pueden usar para varios propósitos:
 - Monitoreo "Qué hay de nuevo"
 - Reflejo
 Vea la [lista de robots](/robots-txt/#lista-robots) activos para ver qué robot hace qué. No me preguntes, todo lo que sé es lo que está en la lista.
+
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Entonces, ¿Qué son los robots, arañas, rastreadores web, gusanos, hormigas?**
 
@@ -144,6 +152,8 @@ Esto solo son nombres para el mismo tipo de cosas, con connotaciones ligeramente
 - WebAnts
     Robots cooperadores distribuidos.
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 ## **¿Son los robots malos para la web?**
 
 Hay algunas razones por las cuales las personas creen que los robots son malos para la Web:
@@ -153,6 +163,8 @@ Hay algunas razones por las cuales las personas creen que los robots son malos p
 Pero al mismo tiempo, la mayoría de los robots están bien diseñados, operados profesionalmente, no causan problemas y brindan un servicio valioso en ausencia de mejores soluciones ampliamente implementadas.
 
 Entonces, no, los robots no son intrínsecamente malos, ni intrínsecamente brillantes, y necesitan una atención cuidadosa.
+
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **¿Hay libros de robots?**
 
@@ -165,6 +177,8 @@ Sí, existen algunos; lo más complicado es encontrarlos en español.
 - [Spidering Hacks](https://amzn.to/31xNQ5X): 100 consejos y herramientas de resistencia industrial
 - [Webbots, arañas y rastreadores de pantalla](https://amzn.to/32L7mw2)
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
 ## **¿Dónde puedo encontrar más información sobre robots?**
@@ -173,7 +187,7 @@ Hay una página con una amplia guía sobre robots en: https://ciberninjas.com/ro
 
 Por supuesto, la última versión de estas preguntas frecuentes está allí; también encontrarás muchos detalles más.
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ### **Robots de indexación**
 
@@ -304,13 +318,19 @@ Dos errores comunes:
 Los comodines no son compatibles: en lugar de 'No permitir: / tmp / *' solo diga 'No permitir: / tmp /'.
 No debe colocar más de una ruta en una línea Disallow (esto puede cambiar en una versión futura de la especificación).
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 ## **¿Qué programa debo usar para crear /robots.txt?**
 
-Cualquier [editor de texto](/recursos/#editores-de-texto) o software que produzca un archivo de texto, será suficiente. Entre [mis recursos](/recursos) o en [Aplicaciones Escolares](/las-mejores-aplicaciones-escolares-seguimiento-tareas/#más-aplicaciones) puedes encontrar varias programas que te servirán.
+con cualquier **editor de texto** de los que puedes encontrar en [nuestra guía](/mejores-editores-texto/) o software que produzca un archivo simple de texto, te será suficiente.
 
-- En Microsoft Windows, usa el Bloc de Notas o Wordpad (Guardar como documento de texto .txt) o incluso Microsoft Word (Guardar como texto sin formato).
+Algunos ejemplos:
+
+- En Microsoft Windows, usando el Bloc de Notas o Wordpad (Guardar como documento de texto .txt) o incluso Microsoft Word (Guardar como texto sin formato).
 - En Macintosh, usa TextEdit (Formato-> Crear texto sin formato, luego Guardar como occidental).
-- En Linux, Vi, Emacs, la propia Consola.
+- En Linux, Vi, Emacs o la propia Consola.
+
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **¿Cómo uso /robots.txt en un host virtual?**
 
@@ -320,11 +340,15 @@ El término "host virtual" a veces se usa para significar varias cosas diferente
 
 - Un "servidor virtual" ejecuta un sistema operativo separado en una máquina virtual, como VMWare o Xen. De nuevo, para un robot que es una computadora separada.
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 ## **¿Cómo uso /robots.txt en un host compartido?**
 
 Si comparte un host con otras personas y tiene una URL como: http://www.ejemplo.com/~NombreDeUsuario/ o http://www.ejemplo.com/NombreDeUsuario, entonces no puede tener tu propio / archivo robots.txt. Si deseas utilizar /robots.txt, tendrás que pedirselo al administrador del host.
 
 Si desea más control, cambie de proveedor a un host virtual.
+
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **¿Qué pasa si no puedo crear un archivo robots.txt?**
 
@@ -339,6 +363,8 @@ En cambio si le incluyes -nofollow- los enlaces en ese documento no serán anali
 <meta name="robots" content="nofollow" />
 ```
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 ## **¿Se puede bloquear solo a los robots malos?**
 
 En teoría sí, en la práctica, no. Si el robot defectuoso obedece a /robots.txt y conoce el nombre que busca en el campo Agente de usuario. entonces puede crear una sección en su /robotst.txt para excluirlo específicamente. Pero casi todos los robots malos ignoran /robots.txt, por lo que no tiene sentido.
@@ -347,9 +373,13 @@ Si el robot defectuoso opera desde una sola dirección IP, puede bloquear su acc
 
 Si las copias del robot funcionan en muchas direcciones IP diferentes, como las PC secuestradas que forman parte de una gran Botnet , entonces se vuelve más difícil. La mejor opción es utilizar la configuración avanzada de reglas de firewall que bloquea automáticamente el acceso a las direcciones IP que realizan muchas conexiones; pero eso puede golpear a los robots buenos también a los robots malos.
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 ## **¿Por qué este robot ignoró mi /robots.txt?**
 
 Podría ser que estuviese escrito por un redactor / desarrollador de software sin experiencia. Ocasionalmente, se asigna a personas inexpertas la tarea de "escribir un robot web". Más, es más probable que el robot esté escrito explícitamente para escanear su sitio en busca de información con la que realizar spam posteriormente: podría estar recopilando direcciones de correo electrónico para enviar correo no deseado, buscar formularios para publicar enlaces ["spamdexing"](/glosario/spamdexing/) o buscando agujeros de seguridad que explotar.
+
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **¿Se puede usar un documento /robots.txt ante un juicio?**
 
@@ -376,6 +406,8 @@ Algunos casos jurídicos en relación a /robots.txt:
 
 Podrás encontrar muchos otros casos en [Groklaw](http://www.groklaw.net/search.php?query=robots.txt&keyType=phrase&datestart=&dateend=&topic=0&type=all&author=0&mode=search) .
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 ## **¿Seguramente enumerar archivos confidenciales es un problema?**
 
 A algunas personas les preocupa que la inclusión de páginas o directorios en el archivo /robots.txt pueda invitar a un acceso no deseado. Hay dos respuestas a esto.
@@ -399,6 +431,8 @@ Sin embargo, en la práctica esta es una mala idea, es demasiado frágil. Alguie
 
 La verdadera respuesta es que /robots.txt no está diseñado para el control de acceso, así que no intentes usarlo como tal. Piense en ello como una señal de "No entrar", no como una puerta cerrada. Si tiene archivos en su sitio web a los que no desea que accedan personas no autorizadas, configure su servidor para realizar la autenticación y configure la autorización adecuada. La autenticación básica ha existido desde los primeros días de la web (y, por ejemplo, Apache en UNIX es trivial de configurar). Los sistemas modernos de gestión de contenido admiten controles de acceso en páginas individuales y colecciones de recursos.
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
 ### **Acerca de las etiquetas META**
@@ -413,11 +447,15 @@ Puedes consultar, [¿Cómo prevenir comentarios con spam?](https://googleblog.bl
 
 Según esa descripción, parece que solo afecta la clasificación, y el robot de Google aún puede seguir los enlaces e indexarlos. Si es así, es diferente de la semántica NOFOLLOW <!-- /webmaster/robots-txt#meta -->de la metaetiqueta de robots.
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 ### **Disponibilidad**
 
 ## **¿Dónde puedo usar un robot?**
 
 Si se refiere a poder comprobar como un robot está trabajando sobre su sitio web, puedes comprobarlo desde las herramientas de indexación de páginas web que ya hemos indicado en el apartado de [¿Cómo registro mi página con un robot?](/robots-txt-preguntas-frecuentes/#como-registro-mi-pagina-con-un-robot)
+
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **¿Dónde puedo conseguir un robot?**
 
@@ -425,9 +463,13 @@ Bueno, hoy en día desde Amazon podrás comprar [algún 🤖 de los de película
 
 Si por lo contrario, te refieres a un archivo [robots.txt](/robots.txt) 
 
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 ## **¿Dónde puedo obtener el código fuente de un robot?**
 
 Existen múltiples formas de implementar un software similar al de un buscador a través de compilar código o implementar diferentes librerías; en el artículo de los [motores de búsqueda de código abierto](/los-mejores-motores-busqueda-codigo-abierto) vas a tener la oportunidad de conocer más sobre cómo hacerlo y sobre todo algunas diferentes opciones.
+
+[⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Estoy escribiendo un robot, ¿De qué debo tener cuidado?**
 
@@ -445,4 +487,5 @@ Este documento especifica un Localizador Uniforme de Recursos (URL), la sintaxis
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 <!-- He escrito un robot, ¿Cómo lo enumero? -->

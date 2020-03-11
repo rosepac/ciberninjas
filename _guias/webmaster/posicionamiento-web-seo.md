@@ -22,12 +22,12 @@ header:
 
 ---
 
-🔥 Seguro también te interesa: [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
-{: .notice--danger}
-
 Las búsquedas a través de los buscadores están en constante cambio, más siempre se puede aprender los conocimientos necesarios que hagan marcar la diferencia; de lo contrario, si todo esto te parecen cuentos chinos o tu tiempo es demasiado valioso como para dedicarte a ello; puedes contar conmigo.
 
 [Historia del SEO](/posicionamiento-web-seo/#la-historia-del-seo){: .btn .btn--inverse .btn--large} [Estructura Básica](/posicionamiento-web-seo/#la-estructura-básica-y-fundamental){: .btn .btn--inverse .btn--large} [Qué es y por qué es importante el SEO](/posicionamiento-web-seo/#qué-es-y-por-qué-es-importante-el-seo){: .btn .btn--inverse .btn--large} [Cuplir la intención del usuario](/posicionamiento-web-seo/#cumplir-la-intención-del-usuario){: .btn .btn--inverse .btn--large} [Sobre los motores de búsqueda](/posicionamiento-web-seo/#sobre-los-motores-de-búsqueda){: .btn .btn--inverse .btn--large} [Google Search Console](/posicionamiento-web-seo/#definiendo-parámetros-de-url-en-google-search-console){: .btn .btn--inverse .btn--large} [Consejos para tu negocio](/posicionamiento-web-seo/#consejos-importantes-para-posicionar-tu-negocio-local){: .btn .btn--inverse .btn--large} [análisis de Keywords Express](/posicionamiento-web-seo/#análisis-de-keywords-express){: .btn .btn--inverse .btn--large}
+
+🔥 Seguro también te interesa: [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
+{: .notice--danger}
 
 ## La Historia del SEO
 
