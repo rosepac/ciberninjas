@@ -21,6 +21,10 @@ toc_sticky: false
 
 ---
 
+👷‍♂️ Página bajo construcción. Quizás te interese visitar, nuestras herramientas en el [grupo de Facebook](https://kutt.it/recursos-globales){:target="_blank"}<br/>O cualquiera de las siguientes páginas.. 👇
+{: .notice--info}
+
+
 🔥 Seguro también te interesa: [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 

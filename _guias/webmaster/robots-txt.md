@@ -49,6 +49,8 @@ Los robots web (también conocidos como errantes, rastreadores o arañas) son pr
 
 Con esta página traemos toda la información necesaria para ser todo un maestro sobre los robots web.
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+
 ## Qué es robots.txt
 
 Los propietarios de sitios web usan el archivo /robots.txt para dar instrucciones sobre su sitio a los robots web; esto se llama el protocolo de exclusión de robots.
