@@ -1,7 +1,7 @@
 ---
-title: 🤖 ▷ La Guía Web Completa de robots.txt
-description: "🔍 🕷 Buscadores, vamos a aprender todo lo necesario sobre las arañas de robots.txt "
-excerpt: "🔍 🕷 Buscadores, vamos a aprender todo lo necesario sobre las arañas de robots.txt "
+title: 🥇 ▷ La Guía Web Completa de Rastreadores Web y robots.txt 🤖
+description: "✅ Buscadores, rastreadores web, arañas, robots y bots; aprende todo para mejorar tu página web"
+excerpt: "✅ Buscadores, rastreadores web, arañas, robots y bots; aprende todo para mejorar tu página web"
 published: true
 comments: true
 date: 2020-03-10
@@ -31,10 +31,10 @@ Con esta página traemos toda la información necesaria para ser todo un maestro
   <ol>
     <li><a href="/robots-txt/#qué-es-robotstxt">Qué es robots.txt</a></li>
     <li><a href="/robots-txt/#los-detalles">Los Detalles</a></li>
-    <li><a href="/robots-txt/#cómo-crear-un-archivo-robotstxt">Cómo crear un archivo /robots.txt</a></li>
+    <li><a href="/robots-txt/#cómo-crear-un-archivo-robotstxt">¿Cómo crear un archivo /robots.txt?</a></li>
     <li><a href="/robots-txt/#qué-debo-poner-en-este-archivo">¿Qué debo poner en este archivo?</a></li>
     <li><a href="/robots-txt/#acerca-de-la-meta-etiqueta-robots">Acerca de la META etiqueta robots</a></li>
-    <li><a href="/robots-txt/#cómo-escribir-una-metaetiqueta-de-robots">Cómo escribir una metaetiqueta de robots</a></li>
+    <li><a href="/robots-txt/#cómo-escribir-una-metaetiqueta-de-robots">¿Cómo escribir una metaetiqueta de robots?</a></li>
     <li><a href="/robots-txt/#sitios-de-información-importantes">Sitios de información importantes</a></li>
     <li><a href="/robots-txt/#cómo-chequear-o-probar-tu-robotstxt">Cómo chequear o probar tu robots.txt</a></li>
     <li><a href="/robots-txt/#rastreadores-web">Rastreadores web</a></li>
@@ -46,7 +46,7 @@ Con esta página traemos toda la información necesaria para ser todo un maestro
 🔥 Seguro también te interesa: [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
-## Qué es robots.txt
+## **¿Qué es robots.txt?**
 
 Los propietarios de sitios web usan el archivo /robots.txt para dar instrucciones sobre su sitio a los robots web; esto se llama el protocolo de exclusión de robots.
 
@@ -68,10 +68,12 @@ Existen dos consideraciones importantes que debes tener en cuenta a la hora de u
 
 Por tanto, no intentes usar /robots.txt para ocultar información.
 
-👉 Ver también:<br/>[¿Puedo bloquear solo robots malos?](/robots-txt-preguntas-frecuentes/#se-puede-bloquear-solo-a-los-robots-malos)<br/>>> [¿Por qué este robot ignoró mi /robots.txt?](/robots-txt-preguntas-frecuentes/#por-qué-este-robot-ignoró-mi-robotstxt)<br/>>> [¿Cuáles son las implicaciones de seguridad de /robots.txt?](/robots-txt-preguntas-frecuentes/#seguramente-enumerar-archivos-confidenciales-es-un-problema)
+[⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+👉 Ver también:<br/>>>[¿Puedo bloquear solo robots malos?](/robots-txt-preguntas-frecuentes/#se-puede-bloquear-solo-a-los-robots-malos)<br/>>> [¿Por qué este robot ignoró mi /robots.txt?](/robots-txt-preguntas-frecuentes/#por-qué-este-robot-ignoró-mi-robotstxt)<br/>>> [¿Cuáles son las implicaciones de seguridad de /robots.txt?](/robots-txt-preguntas-frecuentes/#seguramente-enumerar-archivos-confidenciales-es-un-problema)
 {: .notice--danger}
 
-## Los detalles
+### **Al detalle**
 
 Robots.txt es un estándar de facto y no es propiedad de ningún organismo de estándares. Hay dos descripciones históricas:
 
@@ -84,7 +86,7 @@ El estándar /robots.txt no se desarrolla activamente. Consulte [¿Qué pasa con
 
 El resto de esta página ofrece una descripción general de cómo usar /robots.txt en su servidor, con algunas recetas simples. Para obtener más información, consulte también las [preguntas frecuentes](https://www.robotstxt.org/faq.html) .
 
-## Cómo crear un archivo /robots.txt
+## **¿Cómo crear un archivo /robots.txt?**
 
 **¿Dónde debemos poner el fichero robots.txt?**
 
@@ -100,10 +102,12 @@ Entonces, como propietario de un sitio web, debe colocarlo en el lugar correcto 
 
 Recuerde utilizar las letras con minúsculas para el nombre de archivo: "robots.txt", y no "Robots.TXT".
 
+[⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 👉 Ver también:<br/>>> [¿Qué programa debo usar para crear /robots.txt?](/robots-txt-preguntas-frecuentes/#qué-programa-debo-usar-para-crear-robotstxt)<br/>>> [¿Cómo uso /robots.txt en un host virtual?](/robots-txt-preguntas-frecuentes/#cómo-uso-robotstxt-en-un-host-virtual) <br/>>> [¿Cómo uso /robots.txt en un host compartido?](/robots-txt-preguntas-frecuentes/#cómo-uso-robotstxt-en-un-host-compartido)
 {: .notice--danger}
 
-## ¿Qué debo poner en este archivo?
+## **¿Qué debo poner en este archivo?**
 
 El archivo "/robots.txt" es un archivo de texto, con uno o más registros. Por lo general, contiene un solo registro que se ve así:
 
@@ -122,14 +126,14 @@ Tenga en cuenta también que el globing y la expresión regular **no** son compa
 
 Lo que desea excluir depende de su servidor. Todo lo que no se rechaza explícitamente se considera un juego justo para recuperar. Aquí siguen algunos ejemplos:
 
-### Para excluir todos los robots de todo el servidor
+### **Para excluir todos los robots de todo el servidor**
 
 ```
 User-agent: *
 Disallow: /
 ```
 
-### Para permitir que todos los robots tengan acceso completo
+### **Para permitir que todos los robots tengan acceso completo**
 
 ```
 User-agent: *
@@ -138,7 +142,7 @@ Disallow:
 
 (o simplemente cree un archivo "/robots.txt" vacío, o no use ninguno)
 
-### Para excluir todos los robots de parte del servidor
+### **Para excluir todos los robots de parte del servidor**
 
 ```
 User-agent: *
@@ -147,14 +151,14 @@ Disallow: /tmp/
 Disallow: /junk/
 ```
 
-### Para excluir un solo robot
+### **Para excluir un solo robot**
 
 ```
 User-agent: BadBot
 Disallow: /
 ```
 
-### Para permitir un solo robot
+### **Para permitir un solo robot**
 
 ```
 User-agent: Google
@@ -164,7 +168,7 @@ User-agent: *
 Disallow: /
 ```
 
-### Para excluir todos los archivos excepto uno
+### **Para excluir todos los archivos excepto uno**
 
 Esto es actualmente un poco incómodo, ya que no hay un campo "Permitir". La manera fácil es colocar todos los archivos que se deshabilitarán en un directorio separado, decir "cosas" y dejar el único archivo en el nivel sobre este directorio:
 
@@ -184,11 +188,13 @@ Disallow: /~carpeta-personal/foo.html
 Disallow: /~carpeta-personal/bar.html
 ```
 
+[⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
-## Acerca de la META etiqueta robots
+## **Acerca de la META etiqueta robots**
 
-### En una palabra
+### **En una palabra**
 
 Puede usar una etiqueta HTML especial `META` para indicar a los robots que no indexen el contenido de una página y / o que no la escaneen para buscar enlaces a seguir.
 
@@ -209,7 +215,7 @@ Hay dos consideraciones importantes cuando se usa la etiqueta <META> de robots:
 
 No confunda este NOFOLLOW con el atributo de enlace `rel = "nofollow"`](/robots-txt-preguntas-frecuentes/#acerca-de-las-etiquetas-meta).
 
-### Los detalles
+### **Al detalle**
 
 Al igual que /robots.txt, la etiqueta META de robots es un estándar de facto. Se originó en una reunión de un [taller de indexación distribuido](http://www.w3.org/Search/9605-Indexing-Workshop/){:target="_blank"} en [1996](http://www.w3.org/Search/9605-Indexing-Workshop/){:target="_blank"}, y se describió en las notas de la reunión.
 
@@ -217,13 +223,15 @@ La etiqueta META también se describe en [la especificación HTML 4.01, Apéndic
 
 A continuación se ofrece una descripción general de cómo usar las etiquetas <META> de robots en tu página web, con algunos ejemplos simples. Para obtener más información, consulta nuestra página de [preguntas frecuentes o FAQ](https://www.robotstxt.org/faq.html).
 
-## Cómo escribir una metaetiqueta de robots
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
-### Donde ponerlo
+## **¿Cómo escribir una metaetiqueta de robots?**
+
+### **¿Dónde situarlo?**
 
 Al igual que cualquier etiqueta <META>, debe colocarse en la sección HEAD de una página HTML, como en el ejemplo anterior. Debe ponerlo en cada página de su sitio, porque un robot puede encontrar un [enlace profundo](http://en.wikipedia.org/wiki/Deep_linking){:target="_blank"} a cualquier página de su sitio.
 
-### Qué poner en él
+### **¿Qué poner en él?**
 
 El atributo "`name`" debe ser "ROBOTS".
 
@@ -235,19 +243,21 @@ Los valores válidos para el atributo "`CONTENT`" son: "`INDEX`", "`NOINDEX`", "
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 ```
 
-## Sitios de Información Importantes
+[⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+## **Sitios de Información Importantes**
 
 - [Mejores Herramientas para Webmasters](https://www.bing.com/toolbox/webmaster)
 - [Posicionamiento, Web y SEO](/posicionamiento-web-seo/)
 
-### Google
+### **El Sitio sobre Búsqueda y Webmasters de Google**
 
 Muchas personas terminan en este sitio porque tienen preguntas sobre robots y motores de búsqueda específicos. Para tales preguntas, el mejor lugar son las propias páginas de ayuda del sitio relevante:
 
 - [Centro de ayuda de Google Web Search en Español](https://support.google.com/webmasters/search?q=robots){:target="_blank"}
 - [Centro de ayuda para webmasters de Google](https://www.google.com/intl/es/webmasters/#?modal_active=none){:target="_blank"}
 
-### Sitios sobre motores de búsqueda
+### **Sitios sobre motores de búsqueda**
 
 Sitios muy útiles para webmasters:
 
@@ -257,11 +267,13 @@ Sitios muy útiles para webmasters:
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
-## Cómo chequear o probar tu robots.txt
+[⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+## **¿Cómo chequear o probar tu robots.txt?**
 
 - [Herramienta de prueba del fichero robots de Chrome](https://support.google.com/webmasters/answer/6062598?hl=es)
 
-## Rastreadores web
+## **Rastreadores web**
 <!-- https://www.keycdn.com/blog/web-crawlers -->
 - [Bingbot](https://en.wikipedia.org/wiki/Bingbot){:target="_blank"} es el nombre del [webcrawler](https://en.wikipedia.org/wiki/Bingbot){:target="_blank"} de [Bing](https://en.wikipedia.org/wiki/Bing_(search_engine)){:target="_blank"} de Microsoft . Reemplazó a *[Msnbot](https://en.wikipedia.org/wiki/Msnbot){:target="_blank"}* .
 - [Googlebot](https://en.wikipedia.org/wiki/Googlebot){:target="_blank"} se describe con cierto detalle, pero la referencia es solo sobre una versión temprana de su arquitectura, que estaba basada en C ++ y [Python](https://en.wikipedia.org/wiki/Python_(programming_language)){:target="_blank"} . El rastreador se integró con el proceso de indexación, porque el análisis de texto se realizó para la indexación de texto completo y también para la extracción de URL. Hay un servidor de URL que envía listas de URL para que sean recuperadas por varios procesos de rastreo. Durante el análisis, las URL encontradas se pasaron a un servidor de URL que verificó si la URL se había visto anteriormente. De lo contrario, la URL se agregó a la cola del servidor de URL.
@@ -273,7 +285,9 @@ Sitios muy útiles para webmasters:
 - [Xenon](https://en.wikipedia.org/wiki/Xenon_(program)) es un rastreador web utilizado por las autoridades fiscales del gobierno para detectar fraudes.
 - Yahoo! Slurp era el nombre de [Yahoo! ](https://en.wikipedia.org/wiki/Yahoo!){:target="_blank"} buscador, el rastreador de Yahoo! contratado con [Microsoft](https://en.wikipedia.org/wiki/Microsoft){:target="_blank"} para usar [Bingbot](https://en.wikipedia.org/wiki/Bingbot){:target="_blank"} en [su](https://en.wikipedia.org/wiki/Bingbot){:target="_blank"} lugar.
 
-### Rastreadores de código abierto
+[⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+## **Rastreadores de código abierto**
 
 - [Frontera](https://en.wikipedia.org/wiki/Frontera_(web_crawling)){:target="_blank"} es un framework de rastreo web que implementa el componente de [frontera de rastreo](https://en.wikipedia.org/wiki/Crawl_frontier){:target="_blank"} y proporciona primitivas de escalabilidad para aplicaciones de [rastreo](https://en.wikipedia.org/wiki/Crawl_frontier){:target="_blank"} web.
 - [GNU Wget](https://en.wikipedia.org/wiki/Wget){:target="_blank"} es un rastreador operado por [línea de](https://en.wikipedia.org/wiki/Command_line_interface){:target="_blank"} comandos escrito en [C](https://en.wikipedia.org/wiki/C_(programming_language)){:target="_blank"} y lanzado bajo la [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License){:target="_blank"}. Por lo general, se usa para reflejar sitios web y FTP.
@@ -293,6 +307,8 @@ Sitios muy útiles para webmasters:
 - [Xapian](https://en.wikipedia.org/wiki/Xapian){:target="_blank"}, un motor de búsqueda de rastreadores, escrito en c ++.
 - [YaCy](https://en.wikipedia.org/wiki/YaCy){:target="_blank"}, un motor de búsqueda distribuido gratuito, basado en los principios de las redes punto a punto (con licencia bajo [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License){:target="_blank"} ).
 - [Trandoshan](https://github.com/trandoshan-io){:target="_blank"}, un rastreador web distribuido de código abierto y gratuito diseñado para la web profunda.
+
+[⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 <!-- https://www.keycdn.com/blog/web-crawlers los 10 rastreadores web más conocidos. -->
 <!-- https://prowebscraper.com/blog/50-best-open-source-web-crawlers/ Los 50 Rastreadores Web Más -->
