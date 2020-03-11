@@ -87,7 +87,7 @@ Esta es una lista con preguntas frecuentes sobre **acerca de los robots web de l
 </nav>
 </details>
 
-🔥 Seguro también te interesa: [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [guía de robots.txt](/robots-txt/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
+🔥 Seguro también te interesa: [guía de robots.txt](/robots-txt/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
 ### Acerca de los robots WWW
