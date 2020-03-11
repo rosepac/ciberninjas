@@ -6,8 +6,26 @@ classes: wide
 tags:
 - Editores de Texto
 - Aplicaciones
+- Sublime Text
+- Visual Studio Code
+- Notepad
+- Brackets
+- Atom
+- Bluej
+- Bluefish
+- Codeshare
+- VIM
+- Emacs
+- Spacemacs
+- Komodo
+- Theia
+- Light Table
+- Delphi
+- Markdown Monster
 categories:
-- Comparativa
+- Editores de Texto
+- Aplicaciones
+- Programas
 header:
   teaser: "/assets/images/paginas/editores-texto/1280-el-codigo-es-mas-que-una-linea.webp"
   overlay_image: "/assets/images/paginas/editores-texto/1280-el-codigo-es-mas-que-una-linea.webp"
