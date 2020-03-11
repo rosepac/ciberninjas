@@ -223,8 +223,6 @@ La etiqueta META también se describe en [la especificación HTML 4.01, Apéndic
 
 A continuación se ofrece una descripción general de cómo usar las etiquetas <META> de robots en tu página web, con algunos ejemplos simples. Para obtener más información, consulta nuestra página de [preguntas frecuentes o FAQ](https://www.robotstxt.org/faq.html).
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
-
 ## **¿Cómo escribir una metaetiqueta de robots?**
 
 ### **¿Dónde situarlo?**
@@ -310,6 +308,7 @@ Sitios muy útiles para webmasters:
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 <!-- https://www.keycdn.com/blog/web-crawlers los 10 rastreadores web más conocidos. -->
 <!-- https://prowebscraper.com/blog/50-best-open-source-web-crawlers/ Los 50 Rastreadores Web Más -->
 <!-- https://www.nichemarket.co.za/blog/nichemarket-advice/6-web-crawling-tools 6 herramientas de web rastreo -->
