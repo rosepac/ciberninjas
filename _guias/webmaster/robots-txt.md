@@ -30,7 +30,7 @@ Con esta página traemos toda la información necesaria para ser todo un maestro
 <nav class="menu">
   <ol>
     <li><a href="/robots-txt/#qué-es-robotstxt">Qué es robots.txt</a></li>
-    <li><a href="/robots-txt/#los-detalles">Los Detalles</a></li>
+    <li><a href="/robots-txt/#al-detalle">Al Detalle</a></li>
     <li><a href="/robots-txt/#cómo-crear-un-archivo-robotstxt">¿Cómo crear un archivo /robots.txt?</a></li>
     <li><a href="/robots-txt/#qué-debo-poner-en-este-archivo">¿Qué debo poner en este archivo?</a></li>
     <li><a href="/robots-txt/#acerca-de-la-meta-etiqueta-robots">Acerca de la META etiqueta robots</a></li>
