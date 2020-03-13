@@ -37,6 +37,9 @@ Si hay ***buenos\*** tutoriales que sabe que me estoy perdiendo, ¡hágamelo sab
 
 **Firmado**: [@RobbieAllen](https://twitter.com/robbieallen){:target="_blank"}
 
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## Aprendizaje Automático
 
 [Comience aquí con Machine Learning](https://machinelearningmastery.com/start-here/) (machinelearningmastery.com)
@@ -57,6 +60,8 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [Tutorial de aprendizaje automático para principiantes](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners) (kaggle.com/kanncaa1)
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
+
 ## Funciones de activación y pérdida
 
 [Neuronas sigmoideas](http://neuralnetworksanddeeplearning.com/chap1.html#sigmoid_neurons) (redes [neuronales](http://neuralnetworksanddeeplearning.com/chap1.html#sigmoid_neurons) y desarrollo cardíaco)
@@ -75,6 +80,9 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [La función de costo de entropía cruzada](http://neuralnetworksanddeeplearning.com/chap3.html#the_cross-entropy_cost_function) (neuralnetworksanddeeplearning.com)
 
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## Parcialidad
 
 [Rol del sesgo en las redes neuronales](https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks/2499936#2499936) (stackoverflow.com)
@@ -82,6 +90,8 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 [Nodos de sesgo en redes neuronales](http://makeyourownneuralnetwork.blogspot.com/2016/06/bias-nodes-in-neural-networks.html) (makeyourownneuralnetwork.blogspot.com)
 
 [¿Qué es el sesgo en la red neuronal artificial?](https://www.quora.com/What-is-bias-in-artificial-neural-network)(quora.com)
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Perceptrón
 
@@ -92,6 +102,9 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 [Redes neuronales de capa única (perceptrones)](http://computing.dcu.ie/~humphrys/Notes/Neural/single.neural.html) (dcu.ie)
 
 [De los perceptrones a las redes profundas](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks) (toptal.com)
+
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
 
 ## Regresión
 
@@ -109,6 +122,8 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [Regresión de Softmax](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/) (ufldl.stanford.edu)
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
+
 ## Descenso de gradiente
 
 [Aprendizaje con descenso gradiente](http://neuralnetworksanddeeplearning.com/chap1.html#learning_with_gradient_descent) (neuralnetworksanddeeplearning.com)
@@ -121,11 +136,16 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [Optimización: Descenso de gradiente estocástico](http://cs231n.github.io/optimization-1/) (Stanford CS231n)
 
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## Aprendizaje Generativo
 
 [Algoritmos de aprendizaje generativo](http://cs229.stanford.edu/notes/cs229-notes2.pdf) (Stanford CS229)
 
 [Una explicación práctica de un clasificador Naive Bayes](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/) (monkeylearn.com)
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Máquinas de vectores de soporte
 
@@ -134,6 +154,9 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 [Máquinas de vectores de soporte](http://cs229.stanford.edu/notes/cs229-notes3.pdf) (Stanford CS229)
 
 [Clasificación lineal: Máquina de vectores de soporte, Softmax](http://cs231n.github.io/linear-classify/) (Stanford 231n)
+
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
 
 ## Propagación hacia atrás
 
@@ -148,6 +171,8 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 [Una introducción suave a la propagación hacia atrás a través del tiempo](http://machinelearningmastery.com/gentle-introduction-backpropagation-time/) (machinelearningmastery.com)
 
 [Propagación hacia atrás, intuiciones](http://cs231n.github.io/optimization-2/) (Stanford CS231n)
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Aprendizaje profundo
 
@@ -165,6 +190,9 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [Aprendizaje profundo: The Straight Dope](https://gluon.mxnet.io/) (gluon.mxnet.io)
 
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## Optimización y reducción de dimensionalidad
 
 [Siete técnicas para la reducción de la dimensionalidad de datos](https://www.knime.org/blog/seven-techniques-for-data-dimensionality-reduction) (knime.org)
@@ -174,6 +202,8 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 [Abandono: una forma sencilla de mejorar las redes neuronales](http://videolectures.net/site/normal_dl/tag=741100/nips2012_hinton_networks_01.pdf) (Hinton @ NIPS 2012)
 
 [Cómo entrenar tu red neuronal profunda](http://rishy.github.io/ml/2017/01/05/how-to-train-your-dnn/) (rishy.github.io)
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Memoria a corto y largo plazo (LSTM)
 
@@ -185,6 +215,9 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [Cualquiera puede aprender a codificar un LSTM-RNN en Python](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) (iamtrask.github.io)
 
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## Redes neuronales convolucionales (CNN)
 
 [Introducción de redes convolucionales](http://neuralnetworksanddeeplearning.com/chap6.html#introducing_convolutional_networks) (neuralnetworksanddeeplearning.com)
@@ -194,6 +227,8 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 [Redes de](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) convección [: una perspectiva modular](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) (colah.github.io)
 
 [Comprender las circunvoluciones](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) (colah.github.io)
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Redes neuronales recurrentes (RNN)
 
@@ -205,6 +240,9 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [Una inmersión profunda en las redes neuronales recurrentes](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/) (nikhilbuduma.com)
 
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## Aprendizaje reforzado
 
 [Guía simple para principiantes sobre el aprendizaje por refuerzo y su implementación](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/) (analyticsvidhya.com)
@@ -214,6 +252,8 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 [Aprendizaje de refuerzo de aprendizaje](http://www.wildml.com/2016/10/learning-reinforcement-learning/) (wildml.com)
 
 [Aprendizaje de refuerzo profundo: Pong de píxeles](http://karpathy.github.io/2016/05/31/rl/) (karpathy.github.io)
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Redes Adversarias Generativas (GAN)
 
@@ -227,11 +267,16 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [Redes adversarias generativas para principiantes](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners) (oreilly.com)
 
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## Aprendizaje de tareas múltiples
 
 [Una descripción general del aprendizaje multitarea en redes neuronales profundas](http://sebastianruder.com/multi-task/index.html) (sebastianruder.com)
 
-# PNL
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
+
+## PNL
 
 [¡El procesamiento del lenguaje natural es divertido!](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)(medium.com/@ageitgey)
 
@@ -244,6 +289,9 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 [Tutorial de procesamiento de lenguaje natural](http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/) (vikparuchuri.com)
 
 [Procesamiento del lenguaje natural (casi) desde cero](https://arxiv.org/pdf/1103.0398.pdf) (arxiv.org)
+
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
 
 ## Aprendizaje profundo y PNL
 
@@ -261,6 +309,8 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [Aprendizaje profundo para PNL con Pytorch](http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html) (pytorich.org)
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
+
 ## Vectores de palabras
 
 [Bolsa de palabras y bolsas de palomitas de maíz](https://www.kaggle.com/c/word2vec-nlp-tutorial) (kaggle.com)
@@ -272,6 +322,9 @@ Sobre incrustaciones de palabras [Parte I](http://sebastianruder.com/word-embedd
 [Aprendizaje de parámetros de word2vec explicado](https://arxiv.org/pdf/1411.2738.pdf) (arxiv.org)
 
 Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) , [muestreo negativo](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/) (mccormickml.com)
+
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
 
 ## Codificador-Decodificador
 
@@ -287,6 +340,8 @@ Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/wo
 
 [tf-seq2seq](https://google.github.io/seq2seq/) (google.github.io)
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
+
 ## Python
 
 [Curso](https://developers.google.com/machine-learning/crash-course/) intensivo de [aprendizaje automático](https://developers.google.com/machine-learning/crash-course/) (google.com)
@@ -298,6 +353,9 @@ Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/wo
 [Un ejemplo de cuaderno de aprendizaje automático](http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example Machine Learning Notebook.ipynb) (nbviewer.jupyter.org)
 
 [Aprendizaje automático con Python](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_quick_guide.htm) (tutorialspoint.com)
+
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
 
 ## Ejemplos
 
@@ -312,6 +370,8 @@ Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/wo
 [ML de Scatch](https://github.com/eriklindernoren/ML-From-Scratch) (github.com/eriklindernoren)
 
 [Repositorio de código de Python Machine Learning (2nd Ed.)](https://github.com/rasbt/python-machine-learning-book-2nd-edition) (Github.com/rasbt)
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Scipy y Numpy
 
@@ -361,11 +421,16 @@ Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/wo
 
 [Tutorial de PyTorch para investigadores de aprendizaje profundo](https://github.com/yunjey/pytorch-tutorial) (github.com/yunjey)
 
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## Matemáticas
 
 [Matemáticas para el aprendizaje automático](https://people.ucsc.edu/~praman1/static/pub/math-for-ml.pdf) (ucsc.edu)
 
 [Matemáticas para el aprendizaje automático](http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf) (UMIACS CMSC422)
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Álgebra lineal
 
@@ -383,6 +448,9 @@ Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/wo
 
 [Revisión y referencia de álgebra lineal](http://cs229.stanford.edu/section/cs229-linalg.pdf) (Stanford CS229)
 
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## Probabilidad
 
 [Comprender el teorema de Bayes con proporciones](https://betterexplained.com/articles/understanding-bayes-theorem-with-ratios/) (betterexplained.com)
@@ -394,6 +462,8 @@ Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/wo
 [Teoría de la probabilidad](http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/Probability-Theory.pdf) (U. of Buffalo CSE574)
 
 [Teoría de la probabilidad para el aprendizaje automático](http://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/tutorial1.pdf) (U. of Toronto CSC411)
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Cálculo
 
@@ -408,6 +478,9 @@ Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/wo
 [Descripción general del cálculo](http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) (readthedocs.io)
 
 [🎓 Cursos Machine Learning en Español 🐍](https://ouo.io/QSlgGQ){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
 
 ## 🐍 Relacionados..
 
