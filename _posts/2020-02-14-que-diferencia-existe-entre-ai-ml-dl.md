@@ -26,6 +26,29 @@ tags:
 
 ![Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)](/assets/images/lenguajes-vs/ai-vs-ml-vs-dp.webp "Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)")
 
+A lo largo de esta publicación vamos intentar comprender las diferencias entre algunos de los términos de tecnología más de moda en la actualidad; y que se supone, serán el presente y futuro de todos los nuevos avances.
+
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li><a href="/diferencias-entre-ai-ml-dl/#qué-es-la-inteligencia-artificial">¿Qué es la Inteligencia Artificial?</a></li>
+    <li><a href="/diferencias-entre-ai-ml-dl/#qué-es-el-aprendizaje-automático">¿Qué es el Aprendizaje Automático?</a></li>
+    <li><a href="/diferencias-entre-ai-ml-dl/#qué-es-el-aprendizaje-profundo">¿Qué es el Aprendizaje Profundo?</a></li>
+    <li><a href="/diferencias-entre-ai-ml-dl/#cómo-han-crecido-estas-ramas-tecnológicas">¿Cómo han crecido estas nuevas ramas de la tecnología?</a></li>
+    <li><a href="/diferencias-entre-ai-ml-dl/#el-proceso-del-aprendizaje-automático">¿Cómo funciona el aprendizaje automático?</a></li>
+    <li><a href="/diferencias-entre-ai-ml-dl/#el-proceso-del-aprendizaje-profundo">¿Cómo funciona el aprendizaje profundo?</a></li>
+    <li><a href="/diferencias-entre-ai-ml-dl/#diferencias-entre-aprendizaje-automático-y-aprendizaje-profundo">Diferencias entre el Aprendizaje Automático y el Aprendizaje Profundo</a></li>
+    <li><a href="/diferencias-entre-ai-ml-dl/#cuándo-usar-machine-learning-o-deep-learning">¿Cuándo usar aprendizaje automático y cuándo usar aprendizaje profundo?</a></li>
+    <li><a href="/diferencias-entre-ai-ml-dl/#resumen">Conclusión final</a></li>
+  </ol>
+</nav>
+</details>
+<br />
+
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## ¿Qué es la inteligencia artificial?
 
 La inteligencia artificial es el intento de acercarse a lograr generar capacidad cognitiva dentro una máquina. El punto de referencia para la inteligencia artificial es la inteligencia humana respecto al razonamiento, el habla y la visión. A día de hoy, aún se está bastante lejos de alcanzar algo semejante; por ahora, aún se debe seguir esperando a que la tecnología siga avanzando.
@@ -36,6 +59,8 @@ Si deseamos profundizar un poco más sobre el propio concepto de inteligencia ar
 - Inteligencia Artificial General: Se dice que la inteligencia artificial alcanza el estado general cuando alcanza a realizar cualquier tarea intelectual con el mismo nivel de precisión que un ser humano.
 - Inteligencia Artificial Activa: Se dirá que la inteligencia artificial ha llegado al estado de activa; cuando está, sea capaz de vencer y sobrepasar a la actividad de un ser humano respecto a muchas tareas.
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
+
 ## ¿Qué es el aprendizaje automático?
 
 El aprendizaje automático es la mejor herramienta que se conoce para comprender, analizar e identificar un patrón formado por datos. Una de las ideas principales detrás del aprendizaje automático es que los ordenadores pueden ser entrenados para automatizar tareas exhaustivas e imposibles para un ser humano.
@@ -43,6 +68,8 @@ El aprendizaje automático es la mejor herramienta que se conoce para comprender
 El aprendizaje automático puede tomar decisiones con una mínima intervención humana.
 
 El aprendizaje automático utiliza los datos para alimentar un algoritmo capaz de comprender la relación entre la entrada y la salida; y una vez que la máquina termina de aprender; es capaz de predecir el valor final o nuevas clases de datos resultantes.
+
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 
 ## ¿Qué es el aprendizaje profundo?
 
@@ -78,6 +105,9 @@ De las gráficas anteriores podemos comprobar cómo la profesión de científico
 ## Cómo funcionan
 
 A continuación, vamos a intentar hacernos una idea para conocer un poco más del cómo funcionan estos nuevos campos tecnológicos.
+
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
 
 ## El proceso del aprendizaje automático
 
@@ -132,6 +162,7 @@ La red neuronal está completamente entrenada cuando el valor de los pesos propo
 
 Por ejemplo, una red neuronal bien entrenada puede reconocer el objeto en una imagen con mayor precisión que la red neuronal tradicional.
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ### Automatizar la extracción de características con DL
 
@@ -151,6 +182,9 @@ En la red neuronal convolucional, la extracción de características se realiza 
 
 Si hay una coincidencia, la red usará este filtro. Por lo tanto, el proceso de extracción de características se realiza automáticamente.
 
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## Diferencias entre aprendizaje automático y aprendizaje profundo
 
 |                                   | **Aprendizaje automático**                                                                                               | **Aprendizaje profundo**                                                                                                  |
@@ -160,6 +194,8 @@ Si hay una coincidencia, la red usará este filtro. Por lo tanto, el proceso de 
 | **Ingeniería de características** | Necesita comprender las características que representan los datos.                                                       | No es necesario comprender la mejor característica que representa los datos.                                              |
 | **Tiempo de ejecución**           | De pocos minutos a horas                                                                                                 | Hasta semanas. La neuronal roja necesita calcular un número significativo de pesos                                        |
 | **Interpretabilidad**             | Algunos algoritmos son fáciles de interpretar (logística, árbol de decisión), algunos son casi imposibles (SVM, XGBoost) | Difícil a imposible                                                                                                       |
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## ¿Cuándo usar Machine Learning o Deep Learning?
 
@@ -180,6 +216,9 @@ El aprendizaje profundo requiere un conjunto más amplio y diverso de datos para
 La arquitectura del aprendizaje profundo más avanzada puede llevar de días a una semana para entrenar. La ventaja del aprendizaje profundo sobre el aprendizaje automático es que es altamente preciso.
 
 No necesita comprender qué características son la mejor representación de los datos; la red neuronal aprendió a seleccionar características críticas. En el aprendizaje automático, se deben elegir qué características incluir en el modelo.
+
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
 
 ## Resumen
 
