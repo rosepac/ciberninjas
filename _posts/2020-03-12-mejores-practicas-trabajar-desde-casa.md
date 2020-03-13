@@ -32,9 +32,8 @@ Existen una gran cantidad de herramientas gratuitas hacen que sea muy fácil reg
 
 Pero también hay desafíos, ¿Cómo evitas distraerte con las tareas domésticas? ¿Cómo hacer si tienes niños cerca? ¿Cómo concentrarte exclusivamente en tu trabajo?
 
-### ***18 Mejores prácticas para aumentar tu productividad desde el teletrabajo***
+### **18 Mejores prácticas para aumentar tu productividad desde el teletrabajo**
 
-Una gran cantidad de personas que trabajan desde casa, nos ofrecen una amplia serie de prácticas recomendadas.
 Aquí están las mejores costumbres para lograr que el teletrabajo funcione.
 
 <!-- INTRODUCCION AL CONTENIDO DE LA PÁGINA WEB -->
@@ -119,7 +118,7 @@ Procura implantar una disciplina de no visitar demasiado tu cocina, al estar en 
 
 ## **16. Compra unos auriculares con cancelación de ruido**
 
-La mejor fórmula para abstraerte totalmente del exterior y concentrarte en tu trabajo. Mantén el foco en tu trabajo, haciéndote con unos de los mejores auriculares con cancelación de ruido para mejorar tu concentración.
+La mejor fórmula para abstraerte totalmente del exterior y concentrarte en tu trabajo. Mantén el foco en tu trabajo, haciéndote con unos de los mejores auriculares con cancelación de ruido para mejorar tu concentración. Aquí puedes encontrar algunos de [los mejores auriculares](https://ciberninjas.com/auriculares-dise%C3%B1o/).
 
 Además, si comienzas a trabajar desde casa, lo último que querrás es que tus compañeros de trabajo reciban más ruido que el de tu propia voz; sin recibir los ruidos de tus vecinos o el resto de la familia.
 
