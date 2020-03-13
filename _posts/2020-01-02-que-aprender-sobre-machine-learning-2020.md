@@ -7,7 +7,9 @@ published: true
 comments: true
 date: 2020-01-02 11:22:12
 last_modified_at: 2020-01-13 11:02:12
-canonical_URL: /aprendizaje-automatico/
+canonical_URL: https://ciberninjas.com/que-aprender-sobre-machine-learning-2020/
+permalink: /que-aprender-sobre-machine-learning-2020/
+classes: wide
 categories:
 - Aprendizaje Automático
 header:
@@ -17,15 +19,38 @@ header:
   image_description: '🤖 Cómo empezar con el aprendizaje automático o machine learning en 2020'
   image_alt: '🤖 Cómo empezar con el aprendizaje automático o machine learning en 2020'
   caption: "Créditos: Unsplash"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 ---
 
 Con esta publicación vamos a crear una línea de aprendizaje que seguir para la creación de un proyecto de aprendizaje automático durante el nuevo año 2020.
 
+### Cómo aprender aprendizaje automático en 2020
+
 Existen variopintos campos relacionados al respecto; Aprendizaje profundo, Inteligencia Artificial, teoría estadística, cognitivo computacional y más.. En este caso nos centraremos únicamente en Machine Learning.
+
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#por-dónde-comenzar-con-el-aprendizaje-automático">¿Por dónde comenzar con el aprendizaje automático?</a></li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#consejos-rápidos-para-aprender-machine-learning"></a>Consejos rápidos para aprender Machine Learning</li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#el-aprendizaje-automático-paso-a-paso"></a>El aprendizaje automático, paso a paso</li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#recursos-interesantes-de-machine-learning"></a>Recursos interesantes de Machine Learning</li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#proyectos-de-aprendizaje-profundo"></a>Proyectos de aprendizaje profundo</li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#librerías-y-otros-recursos-de-machine-learning"></a>Librerías y otros recursos de Machine Learning</li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#proyectos-educativos-de-github-sobre-aprendizaje-automático"></a>Proyectos educativos de Github sobre Aprendizaje Automático</li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#listas-impresionantes-de-recursos-sobre-machine-learning"></a>Listas Impresionantes de Recursos sobre ML</li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#otros-proyectos-github-de-aprendizaje-automático"></a>Otros proyectos de Github relacionados con el ML</li>
+  </ol>
+</nav>
+</details>
+<br />
+
+🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
 
 ## ¿Por dónde comenzar con el aprendizaje automático?
 
@@ -57,6 +82,10 @@ El curso completo son alrededor de 30 horas, así que si estás decidido realmen
 
 Además, existen estos apuntes sobre ese mismo [curso en Github](https://github.com/tlv/ml_ng){:target="_blank"} los cuales te aclararan ciertos puntos que en el curso no son explicados expresamente y otras anotaciones.
 
+[⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
+
 ## Consejos Rápidos para Aprender Machine Learning
 
 1. Es importante que si estas leyendo un documento y te sientes intimidado por las matemáticas complejas que allí se reflejan, debes tener en cuenta de que a menudo esas matemáticas solo se incluyen para hacer que el documento se vea más impresionante, y a veces ni siquiera es correcto.
@@ -67,6 +96,11 @@ Además, existen estos apuntes sobre ese mismo [curso en Github](https://github.
 ### Sobre fast.ai
 
 El modelo de aprendizaje seguido dentro de este curso; es el siguiente. El curso empieza simplemente aplicando modelos preconstruidos a las cosas, y luego va guiándote a ajustarlos, finalmente te guía a aprender la teoría que hace que los ajustes funcionen.
+
+[⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
 
 ## El Aprendizaje Automático: Paso a Paso
 
@@ -87,6 +121,10 @@ Entonces realmente puedes meterte en la carne con el aprendizaje automático. Pr
 La mayoría de las publicaciones de blog apestan. La mayoría de los papeles son inútiles. Recomiendo el aprendizaje automático de Geron.
 
 Luego exploraría el amplio mundo de las redes neuronales. Comience con Keras, que realmente enfatiza la construcción de modelos de una manera amigable, y luego continúe con PyTorch a medida que se sienta cómodo depurando Keras. Ataque algunos problemas de clasificación de objetos con y sin backends pre-entrenados, luego entre en detección y PNL. Juegue con la regularización de peso, la norma de lotes y la norma de grupo, diferentes tasas de aprendizaje, etc. Si realmente desea profundizar en las cosas, también aprenda algo de programación de CUDA.
+
+[⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Recursos Interesantes de Machine Learning
 
@@ -139,7 +177,9 @@ El enlace directo a [los tutoriales](http://deeplearning.net/tutorial/){:target=
 
 * [Código de aprendizaje automático para hackers con R](https://github.com/johnmyleswhite/ML_for_Hackers){:target="_blank"}
 
-Este repositorio contiene el código del libro de O'Reilly Machine Learning for Hackers . Todo el código de repositorio está en R, se basa en numerosos paquetes de R y los temas cubiertos incluyen las tareas demasiado comunes de clasificación, clasificación y regresión, así como procedimientos estadísticos como el análisis de componentes principales y el escalado multidimensional.
+Este repositorio contiene el código del libro de O'Reilly Machine Learning for Hackers. Todo el código de repositorio está en R, se basa en numerosos paquetes de R y los temas cubiertos incluyen las tareas demasiado comunes de clasificación, clasificación y regresión, así como procedimientos estadísticos como el análisis de componentes principales y el escalado multidimensional.
+
+[⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 [🐍 Aprender Python 🐍](/python/){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Cursos de Machine Learning 🐍](https://ouo.io/QSlgGQ){: .btn .btn--inverse .btn--large .align-center}
@@ -192,6 +232,10 @@ Paquete de aprendizaje automático creado para humanos, **aerosolve** intenta se
 GoLearn es una biblioteca de aprendizaje automático desarrollada activamente para Go. Sus objetivos son proporcionar un paquete totalmente personalizable, fácil de usar y personalizable para los desarrolladores de Go. GoLearn implementa la interfaz familiar (para muchos) de ajuste / predicción de Scikit-learn, facilitando el intercambio de estimadores e implementa "funciones auxiliares" como validación cruzada y división de entrenamiento / prueba.
 
 [👉 Visitar Pattern <i class="fab fa-github"></i>](https://github.com/sjwhitworth/golearn){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+[⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Librerías y Otros Recursos de Machine Learning
 
@@ -247,6 +291,8 @@ Podemos destacar por ejemplo, el libro de: Arquitecturas del Aprendizaje Profund
 
 [👉 Visitar DeepLearnToolbox <i class="fab fa-github"></i>](https://www.kdnuggets.com/2016/01/top-10-deep-learning-github.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
+[⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
+
 ### Otros
 
 * Google Colab para poder acceder a una GPU / TPU gratuita.
@@ -255,6 +301,11 @@ Podemos destacar por ejemplo, el libro de: Arquitecturas del Aprendizaje Profund
 * SDK de Rust para Tensorflow.
 * GanS o Redes Generativas Adversas[*](https://pathmind.com/wiki/generative-adversarial-network-gan){:target="_blank"}
 * Simplemente haga clic en [Ejecutar en Google Colab](https://www.tensorflow.org/tutorials/generative/cyclegan){:target="_blank"} en la esquina superior izquierda y comience a evaluar los bloques de código.
+
+[⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
 
 ## Proyectos Educativos de Github sobre Aprendizaje Automático
 
@@ -311,6 +362,10 @@ Implementaciones de Python de algunos de los modelos y algoritmos fundamentales 
 
 El propósito de este proyecto no es producir algoritmos tan optimizados y computacionalmente eficientes como sea posible, sino más bien presentar el funcionamiento interno de ellos de una manera transparente y accesible.
 
+[⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
+
 ## Listas Impresionantes de Recursos sobre Machine Learning
 
 * [Awesome Aprendizaje Profundo](https://github.com/ChristosChristofidis/awesome-deep-learning#awesome-deep-learning-){:target="_blank"}
@@ -325,6 +380,11 @@ Las Conferencias que se incluyen son: Conferencia sobre sistemas de procesamient
 
 * [Cursos y Conferencias de Machine Learning en Inglés](publicado este Viernes en ciberninjas.com)
 
+[⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 ## Otros Proyectos Github de Aprendizaje Automático
 
 * Progreso de PNL [*](https://nlpprogress.com/){:target="_blank"}
@@ -336,7 +396,11 @@ Repositorio para rastrear el progreso en el procesamiento del lenguaje natural (
 Guía de PNL basada en ML. A través de la que se identifica si una oración es una pregunta, declaración o comando; usando redes neuronales.
 <!-- Agregar los enlaces a los códigos fuente de todos los enlaces de todas estas conferencias incluidas aquí.. https://awesomeopensource.com/project/zziz/pwc -->
 
+[⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
  [🎓 Cursos Machine Learning 🐍](https://ouo.io/QSlgGQ){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
+
 
 ## 🐍 CONTINUARÁ.. 🐍
 

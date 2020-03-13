@@ -1,9 +1,10 @@
 ---
-title: "🤖 ▷ Robots.txt/: Un estándar para la exclusión de robots"
+title: "🤖 ▷ Robots.txt, Un estándar para la exclusión de robots"
 description: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
 excerpt: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
 published: true
 comments: true
+author_profile: true
 date: 2020-03-10
 last_modified_at: 
 permalink: /standar-original-robots-txt/
@@ -20,12 +21,19 @@ header:
 # toc_sticky: true
 ---
 
+WWW Robots (también llamados errantes o arañas) son programas que atraviesan muchas páginas en la World Wide Web mediante la recuperación recursiva de páginas enlazadas. Para obtener más información, consulta [guía de robots.txt](/robots-txt/) y [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/).
+
+En 1993 y 1994 hubo ocasiones en que los robots visitaron los servidores WWW donde no fueron bienvenidos por varias razones. A veces, estos motivos eran específicos del robot, por ejemplo, ciertos robots inundaban los servidores con solicitudes de disparo rápido o recuperaban los mismos archivos repetidamente.
+
+En otras situaciones, los robots atravesaron partes de servidores WWW que no eran adecuados, por ejemplo, árboles virtuales muy profundos, información duplicada, información temporal o scripts cgi con efectos secundarios (como votar).
+
+Estos incidentes indicaron la necesidad de mecanismos establecidos para los servidores WWW para indicar a los robots a qué partes de su servidor no se debe acceder. Este estándar aborda esta necesidad con una solución operativa.
+
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
     <li><a href="/standar-original-robots-txt/#estado-de-este-documento">Estado del Documento</a></li>
-    <li><a href="/standar-original-robots-txt/#introducción">Introducción</a></li>
     <li><a href="/standar-original-robots-txt/#el-método">El Método</a></li>
     <li><a href="/standar-original-robots-txt/#el-formato">El Formato</a></li>
     <li><a href="/standar-original-robots-txt/#ejemplos">Ejemplos</a></li>
@@ -41,14 +49,6 @@ header:
 Este documento representa un consenso el 30 de junio de 1994 sobre la lista de correo de robots (robots-request@nexor.co.uk), entre la mayoría de los autores de robots y otras personas interesadas en robots. También ha estado abierto para discusión en la lista de correo técnico de la World Wide Web (www-talk@info.cern.ch). Este documento se basa en un borrador de trabajo previo con el mismo título.
 
 No es un estándar oficial respaldado por un organismo de estándares, ni es propiedad de ninguna organización comercial. Nadie lo aplica, y no hay garantía de que todos los robots actuales y futuros lo usen. Considérelo una instalación común que la mayoría de los autores de robots ofrecen a la comunidad WWW para proteger el servidor WWW contra accesos no deseados de sus robots.
-
-## Introducción
-
-WWW Robots (también llamados errantes o arañas) son programas que atraviesan muchas páginas en la World Wide Web mediante la recuperación recursiva de páginas enlazadas. Para obtener más información, consulta [guía de robots.txt](/robots-txt/) y [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/).
-
-En 1993 y 1994 hubo ocasiones en que los robots visitaron los servidores WWW donde no fueron bienvenidos por varias razones. A veces, estos motivos eran específicos del robot, por ejemplo, ciertos robots inundaban los servidores con solicitudes de disparo rápido o recuperaban los mismos archivos repetidamente. En otras situaciones, los robots atravesaron partes de servidores WWW que no eran adecuados, por ejemplo, árboles virtuales muy profundos, información duplicada, información temporal o scripts cgi con efectos secundarios (como votar).
-
-Estos incidentes indicaron la necesidad de mecanismos establecidos para los servidores WWW para indicar a los robots a qué partes de su servidor no se debe acceder. Este estándar aborda esta necesidad con una solución operativa.
 
 ## El método
 
