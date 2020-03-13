@@ -26,7 +26,7 @@ tags:
 
 ![Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)](/assets/images/lenguajes-vs/ai-vs-ml-vs-dp.webp "Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)")
 
-A lo largo de esta publicación vamos intentar comprender las diferencias entre algunos de los términos de tecnología más de moda en la actualidad; y que se supone, serán el presente y futuro de todos los nuevos avances.
+A lo largo de esta publicación vamos intentar comprender las diferencias entre algunos de los términos de tecnología más de moda en la actualidad; y que se supone, serán el presente y futuro de todos los nuevos avances tecnológicos.
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
