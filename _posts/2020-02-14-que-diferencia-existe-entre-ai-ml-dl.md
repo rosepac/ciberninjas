@@ -5,7 +5,7 @@ description: "Conocer las diferencias que existen entre AI (artificial intellige
 excerpt: "Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)"
 published: true
 comments: true
-date: 2020-02-18 15:30:12
+date: 2020-03-13 15:30:12
 last_modified_at: 
 header:
   teaser: /assets/images/lenguajes-vs/ai-vs-ml-vs-dp.webp

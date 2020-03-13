@@ -5,7 +5,7 @@ description: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje auto
 excerpt: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje automático durante 2020"
 published: true
 comments: true
-date: 2020-01-02 11:22:12
+date: 2020-03-13 11:22:12
 last_modified_at: 2020-01-13 11:02:12
 canonical_URL: https://ciberninjas.com/que-aprender-sobre-machine-learning-2020/
 permalink: /que-aprender-sobre-machine-learning-2020/
@@ -36,20 +36,20 @@ Existen variopintos campos relacionados al respecto; Aprendizaje profundo, Intel
 <nav class="menu">
   <ol>
     <li><a href="/que-aprender-sobre-machine-learning-2020/#por-dónde-comenzar-con-el-aprendizaje-automático">¿Por dónde comenzar con el aprendizaje automático?</a></li>
-    <li><a href="/que-aprender-sobre-machine-learning-2020/#consejos-rápidos-para-aprender-machine-learning"></a>Consejos rápidos para aprender Machine Learning</li>
-    <li><a href="/que-aprender-sobre-machine-learning-2020/#el-aprendizaje-automático-paso-a-paso"></a>El aprendizaje automático, paso a paso</li>
-    <li><a href="/que-aprender-sobre-machine-learning-2020/#recursos-interesantes-de-machine-learning"></a>Recursos interesantes de Machine Learning</li>
-    <li><a href="/que-aprender-sobre-machine-learning-2020/#proyectos-de-aprendizaje-profundo"></a>Proyectos de aprendizaje profundo</li>
-    <li><a href="/que-aprender-sobre-machine-learning-2020/#librerías-y-otros-recursos-de-machine-learning"></a>Librerías y otros recursos de Machine Learning</li>
-    <li><a href="/que-aprender-sobre-machine-learning-2020/#proyectos-educativos-de-github-sobre-aprendizaje-automático"></a>Proyectos educativos de Github sobre Aprendizaje Automático</li>
-    <li><a href="/que-aprender-sobre-machine-learning-2020/#listas-impresionantes-de-recursos-sobre-machine-learning"></a>Listas Impresionantes de Recursos sobre ML</li>
-    <li><a href="/que-aprender-sobre-machine-learning-2020/#otros-proyectos-github-de-aprendizaje-automático"></a>Otros proyectos de Github relacionados con el ML</li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#consejos-rápidos-para-aprender-machine-learning">Consejos rápidos para aprender Machine Learning</a></li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#el-aprendizaje-automático-paso-a-paso">El aprendizaje automático, paso a paso</a></li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#recursos-interesantes-de-machine-learning">Recursos interesantes de Machine Learning</a></li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#proyectos-de-aprendizaje-profundo">Proyectos de aprendizaje profundo</a></li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#librerías-y-otros-recursos-de-machine-learning">Librerías y otros recursos de Machine Learning</a></li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#proyectos-educativos-de-github-sobre-aprendizaje-automático">Proyectos educativos de Github sobre Aprendizaje Automático</a></li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#listas-impresionantes-de-recursos-sobre-machine-learning">Listas Impresionantes de Recursos sobre ML</a></li>
+    <li><a href="/que-aprender-sobre-machine-learning-2020/#otros-proyectos-github-de-aprendizaje-automático">Otros proyectos de Github relacionados con el ML</a></li>
   </ol>
 </nav>
 </details>
 <br />
 
-🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
 ## ¿Por dónde comenzar con el aprendizaje automático?

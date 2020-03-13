@@ -5,7 +5,7 @@ description: "Los mejores tutoriales, cursos y artículos sobre machine learning
 excerpt: "Los mejores tutoriales, cursos y artículos sobre machine learning / aprendizaje profundo para 2020"
 published: true
 comments: true
-date: 2020-01-10 23:20:12
+date: 2020-03-13 23:20:12
 last_modified_at:
 canonical_URL: /aprendizaje-automatico-cursos-ingles/
 categories:

@@ -8,7 +8,7 @@ excerpt: >-
   \U0001F916 Hay muchos recursos disponibles para que los principiantes desarrollen sus conocimientos y habilidades, o incluso descubran si este camino es para ellos..
 published: true
 comments: true
-date: 2020-02-03 10:30:12
+date: 2020-03-13 10:30:12
 last_modified_at: 
 header:
   teaser: https://i.ibb.co/qY90TdR/photo-1531746790731-6c087fecd65a-ixlib-rb-1-2.jpg

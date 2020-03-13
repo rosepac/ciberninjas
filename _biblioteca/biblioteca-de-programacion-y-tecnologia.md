@@ -4,8 +4,8 @@ title: "🥇 ▷ Los Mejores Libros PDF de Tecnología para aprender a PROGRAMAD
 description: "🚀 Biblioteca de PDF online actualizado: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Biblioteca de PDF online actualizado: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 author_profile: false
-date: 2018-02-13T22:00:00.000+00:00
-last_modified_at: 2019-12-18T12:42:42-05:00
+date: 2020-03-13T22:00:00.000+00:00
+last_modified_at:
 permalink: /biblioteca-de-programacion-y-tecnologia/
 canonical_URL: https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/
 published: true
