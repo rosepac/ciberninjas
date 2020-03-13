@@ -161,7 +161,7 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [¿Qué es el aprendizaje profundo?](http://machinelearningmastery.com/what-is-deep-learning/)(machinelearningmastery.com)
 
-[¿Cuál es la diferencia entre inteligencia artificial, aprendizaje automático y aprendizaje profundo? ](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)(nvidia.com)
+[¿Cuál es la diferencia entre inteligencia artificial, aprendizaje automático y aprendizaje profundo?](/diferencias-entre-ai-ml-dl/)
 
 [Aprendizaje profundo: The Straight Dope](https://gluon.mxnet.io/) (gluon.mxnet.io)
 
