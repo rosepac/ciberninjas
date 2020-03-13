@@ -28,6 +28,9 @@ categories:
 
 Los sistemas de inteligencia artificial representan un amplio área de estudio bastante emocionante: hay una gran demanda de personal que requiere unas habilidades necesarias específicas para estos puestos de trabajo, sobre nuevas tecnologías que aún están en crecimiento y desarrollo. Sin embargo, puede ser difícil descubrir la mejor fórmula con la que introducirse en estás nuevas tecnologías, especialmente si se quiere aprender por cuenta propia.
 
+🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+{: .notice--danger}
+
 Afortunadamente, hay muchos recursos disponibles para que los principiantes desarrollen sus conocimientos y habilidades e incluso para que descubran si el camino de la inteligencia artificial es para ellos.
 
 Centrados en obtener más información, realizamos algunas interesantes cuestiones a un equipo de [Jóvenes Emprendedores](https://yec.co/)..
@@ -101,7 +104,6 @@ La inteligencia artificial tiene tantos sectores diferentes que puedes estudiar 
 Hoy en día, hay un gran despliegue publicitario en torno al desarrollo de IA que está causando que las personas exageren su potencial actual. Aunque es una frontera muy emocionante para el desarrollo de software y los negocios, cualquiera que busque aprender más sobre esta  tecnología  descubrirá rápidamente sus limitaciones. Es  importante  abordar este tema con expectativas razonables si no deseas perder el interés rápidamente.
 
 > [Bryce Welker](https://twitter.com/brycewelker1){:target="_blank"},  Las 4 grandes firmas contables
-
 
 **Fuente**\: [The Newxt Web](https://thenextweb.com/podium/2019/09/13/11-ways-novices-can-start-the-process-of-learning-ai-programming/){:target="_blank"}
 {: .notice--info}
