@@ -110,8 +110,6 @@ Además, debemos descansar la vista de la computadora de forma períodica; ya sa
 
 Mientras que algunos trabajadores remotos evitan las visitas personales durante la jornada laboral, otros intentan verlo como algo de aprovechamiento. Si eres incapaz de suprimir las continuas interrupciones -de la familia ¿- quizás puedas intentar verlo como pequeñas interrupciones, en las que despejar tu mente y con las que tomar fuerzas para Regresa al trabajo con más ganas; posteriormente.
 
-[⏫ Regresa al Menú](/mejores-consejos-trabajar-desde-casa/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
 ## **15. Mantente fuera de la cocina.**
 
 Procura implantar una disciplina de no visitar demasiado tu cocina, al estar en casa; puedes sentir la necesidad ir a por un café, constantemente, o visitar la nevera a cada rato. Procura hacer fuerza y visitar únicamente la nevera en tus pausas de horario de descanso.
@@ -129,7 +127,5 @@ Consulte con sus compañeros de trabajo y el jefe varias veces al día. La mejor
 ## **18. Usa herramientas gratuitas**
 
 Utilice tecnología de comunicaciones gratuita o de bajo costo. Hoy en día hay innumerables herramientas disponibles para mantener una estrecha comunicación con los compañeros de empresa. Algunas de ellas, incluyen: Slack o Hipchat para chatear en grupo, Trello o Asana para la gestión de proyectos, Expensify para rastrear gastos y enviar informes de gastos y Skype o Hangout, para la realización de videollamadas.
-
-[⏫ Regresa al Menú](/mejores-consejos-trabajar-desde-casa/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 **Fuente**: [Inc.](https://www.inc.com/christina-desmarais/get-more-done-18-tips-for-telecommuters.html){:target="_blank"}
