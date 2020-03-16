@@ -1,9 +1,9 @@
 ---
 
 author_profile: true
-title: "▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020"
+title: "🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020"
 description: >-
-  Lista y descripción de los 15 lenguajes más usados y con mayor crecimiento para poder aprender a programar en 2020: Python, Java, C++, Javascript, Go, Rust, R, Swift, PHP, Matlab
+  🔥 Descripción de los 15 lenguajes más usados y con mayor crecimiento para poder aprender a programar en 2020: Python, Java, C++, Javascript, Go, Rust, R, Swift, PHP, Matlab
 excerpt: >-
   Lista y descripción de los 15 lenguajes más usados y con mayor crecimiento para poder aprender a programar en 2020: Python, Java, C++, Javascript, Go, Rust, R, Swift, PHP, Matlab
 published: true
