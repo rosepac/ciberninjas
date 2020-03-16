@@ -1,12 +1,12 @@
 ---
-title: '👩‍🎨 ▷ Cómo aprender Diseño Gráfico'
-description: '👩‍🎨 ▷ Cómo aprender diseño gráfico desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
-excerpt: '👩‍🎨 ▷ Cómo aprender diseño gráfico desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
+title: '🥇 ▷ Cómo aprender Diseño Gráfico en 2020'
+description: '👩‍🎨 ▷ Aprender paso a paso, todo lo que un diseñador gráfico requiere. Avanza, desde cero hasta el nivel de experto, todo lo necesario para ayudarte a convertirte en un profesional'
+excerpt: '👩‍🎨 ▷ Aprender paso a paso, todo lo que un diseñador gráfico requiere. Avanza, desde cero hasta el nivel de experto, todo lo necesario para ayudarte a convertirte en un profesional'
 published: true
 author_profile: true
 comments: true
-date: 2020-02-27 10:13:18
-last_modified_at: 2020-02-29
+date: 2020-03-16 10:13:18
+last_modified_at: 
 permalink: /diseño-grafico/
 canonical_URL: https://ciberninjas.com/diseño-grafico/
 classes: wide
@@ -42,12 +42,13 @@ A medida que la tecnología se desarrolla continuamente en complejidad, también
 
 Se completa con una revisión de las estimaciones de crecimiento del empleo en el campo y los salarios, por estado, para los profesionales del diseño gráfico.
 
-## ¿Cómo aprender diseño gráfico?
+### ¿Cómo aprender diseño gráfico?
 
-1. Comienza a desarrollar tus habilidades desde temprana edad
+## **1. Comienza a desarrollar tus habilidades desde temprana edad**
+
 Nunca está de más comenzar temprano en cualquier campo, pero es particularmente importante cuando se trata del diseño gráfico. Mientras estás en la Escuela Secundaria, los estudiantes deben tomar clases de historia del arte, dibujo, artes gráficas y diseño de sitios web. Pueden usar sus habilidades emergentes para diseñar y producir el periódico escolar o el anuario. El diseño gráfico requiere un buen ojo y una mente creativa, pero también equivale al desarrollo de habilidades prácticas sólidas y fluidez de software. Cuanto antes el estudiante comience los preparativos, mejor.
 
-2. Obtén un título de diseño gráfico
+## **2. Obtén un título de diseño gráfico**
 
 Hubo un tiempo en que un diseñador gráfico podía ser contratado estrictamente por su cartera creativa. Hoy, sin embargo, la mayoría de los empleadores están buscando diseñadores con una formación más completa, algo que solo un título universitario puede proporcionar. Un certificado en el campo, o un título asociado, puede ser suficiente en algunos casos, pero con toda seguridad; los diseñadores novatos tienen muchas más probabilidades de conseguir un trabajo de calidad después de obtener un título de licenciatura o como mínimo de formación profesional superior.
 
@@ -57,7 +58,7 @@ Puedes informarte en profundadi buscando la Escuela de Arte / Universidad de Art
 
 No nos queda otra, que esperar a que entre los Ciclos Formativos de nueva creación se tomen un poco más en serio estos campos profesionales; además de que a poder ser, los actualicen de forma más estricta de lo que se está haciendo hasta el momento.
 
-3. Busca realizar aportes en línea
+## **3. Busca realizar aportes en línea**
 
 Seguramente, no será lo más profesional de mundo; más, contemplando las posibilidades que nos ofrecen dentro del ámbito educativo de cara para el aprendizaje del diseño gráfico; una gran opción, es que comiences a investigar en línea.
 
@@ -67,7 +68,7 @@ Más, yo destacaría el apartado de la investigación de nuevas herramientas; pu
 
 Quién dice esto, dice alrededor de su propia comunidad. Por tanto el consejo sería; investigar nuevos software´s y quién sabe; si porque no ¿Crear tu propio software de diseño?
 
-4. Crea una cartera convincente
+## **4. Crea una cartera convincente**
 
 Si bien un currículum sólido es un aspecto importante de cualquier búsqueda de trabajo, el mayor activo para alguien que busca trabajo en diseño gráfico es una cartera impresionante. Aunque los diseñadores gráficos necesitarán un currículum, la única forma en que un posible empleador puede comprender las habilidades de un solicitante es a través de una cartera que demuestre una variedad de trabajo y crecimiento como diseñador.
 
@@ -75,7 +76,7 @@ Hubo un tiempo en que una cartera de diseño gráfico era una simple colección 
 
 Para los estudiantes que recién comienzan, presentar una cartera grande y variada es difícil dada la cantidad limitada de trabajo completado que habrán realizado. En ese caso, deberían centrarse en la calidad en lugar de la cantidad, presentando solo sus mejores muestras de diseño y una cartera organizada para satisfacer las necesidades específicas de un posible empleador.
 
-5. Estar al día
+## **5. Estate al día**
 
 El diseño gráfico es un campo en constante cambio y desarrollo. Los diseñadores deben mantenerse al día con las tendencias comerciales y artísticas de la industria, o pueden verse rápidamente abandonados. También deben mantenerse al día con los programas de software de diseño y gráficos por computadora nuevos y actualizados, que están en un estado de evolución casi constante.
 
@@ -85,7 +86,7 @@ Organizaciones como el American Institute of Graphic Arts o el Graphic Artists G
 
 Completar programas de certificación en software de diseño específico del proveedor también puede ayudar a construir credenciales.
 
-6. Nunca dejes de aprender
+## **6. Nunca dejes de aprender**
 
 Los diseñadores gráficos deben estar formándose de forma constante, más aún en países; en los que no existe una gran enseñanza pública y ni tan siquiera de pago construida alrededor de un campo profesional; como es el caso.
 
@@ -171,9 +172,6 @@ Debido al rápido desarrollo y despliegue de medios digitales, el mercado para d
 El BLS dice que los trabajos con "editoriales de periódicos, publicaciones periódicas, libros y directorios" disminuirán en un 16 por ciento durante la década. Por otro lado, los trabajos para profesionales de gráficos en diseño de sistemas informáticos y servicios relacionados encontrarán un fuerte aumento del 35 por ciento en las ofertas de trabajo, especialmente en los campos de producción de gráficos basados ​​en web, dispositivos portátiles y entretenimiento de video.
 
 Competencia por nuevos trabajos, el BLS predice, será rígido. En total, se anticipan 17.400 nuevas vacantes en la profesión durante la década de proyección.
-
-## Sobre el Diseño Gráfico
-
 
 [🔝 REGRESAR 🔝](/diseño-grafico/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
