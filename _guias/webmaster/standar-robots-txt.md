@@ -1,5 +1,5 @@
 ---
-title: "🤖 ▷ Robots.txt, Un estándar para la exclusión de robots"
+title: "🤖 ▷ Robots.txt: Un estándar para la exclusión de robots"
 description: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
 excerpt: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
 published: true

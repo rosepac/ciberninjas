@@ -1,5 +1,5 @@
 ---
-title: '🥇 ▷ Cómo aprender Diseño Gráfico en 2020'
+title: '🥇 ▷ Cómo aprender Diseño Gráfico en 2020 👩‍🎨'
 description: '👩‍🎨 ▷ Aprender paso a paso, todo lo que un diseñador gráfico requiere. Avanza, desde cero hasta el nivel de experto, todo lo necesario para ayudarte a convertirte en un profesional'
 excerpt: '👩‍🎨 ▷ Aprender paso a paso, todo lo que un diseñador gráfico requiere. Avanza, desde cero hasta el nivel de experto, todo lo necesario para ayudarte a convertirte en un profesional'
 published: true

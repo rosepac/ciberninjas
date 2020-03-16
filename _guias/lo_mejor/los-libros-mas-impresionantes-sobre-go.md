@@ -24,7 +24,7 @@ Esto son los libros de programación en Go en **idioma inglés** que existen. Se
 
 👉 Si lo que buscas son [libros en español sobre Go](/biblioteca-de-programacion-y-tecnologia/#go)
 
-👉 Si lo que buscas son [cursos en español sobre Go](/cursos-tecnologia/)
+👉 Si lo que buscas son [cursos en español sobre Go](/cursos-tecnologia/#go)
 
 ## Libros Principiantes de Go
 

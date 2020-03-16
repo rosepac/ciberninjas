@@ -1,13 +1,15 @@
 ---
-title: ▷ Jekyll, Aprender desde Cero 👨‍💻 
+title: 🥇 ▷ Jekyll, Aprender desde Cero a Experto en 2020 👨‍💻
 description: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
 excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
-date: 2019-08-07T22:00:00.000+00:00
-last_modified_at: 2019-09-11T16:20:02-05:00
+date: 2020-03-16
+last_modified_at:
 permalink: /jekyll/
 canonical_URL: https://ciberninjas.com/jekyll/
+author_profile: true
 header:
-  image: "/assets/images/jekyll-blog.jpg"
+  overlay_image: "/assets/images/jekyll-blog.jpg"
+  overlay_filter: 0.4
   image_description: Jekyll, generador de sitios estáticos | Ciberninjas
   caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"
   teaser: "/assets/images/jekyll-blog.jpg"

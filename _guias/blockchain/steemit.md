@@ -1,6 +1,6 @@
 ---
 
-title: "👨‍💻 ▷ Steemit, Cómo conocer todo sobre está plataforma sin morir en el intento"
+title: " 🥇 ▷ Steemit, Cómo conocer todo sobre está plataforma 👨‍💻 sin morir en el intento"
 description: "🔨 Steemit, cómo convertirte en un maestro de Steemit sin morir en el intento"
 excerpt: "🔨 Steemit, cómo crear tu blog en una gran comunidad de contenidos sociales y artísticos gratis y criptomonedas"
 date: 2020-02-24T03:50:00.000+01:00

@@ -22,9 +22,6 @@ header:
 # toc_sticky: false
 ---
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
-{: .notice--danger}
-
 Guía completa y extensa de aprendizaje e introducción a la programación y el desarrollo web más actual. La estructura de la guía se basa en diferentes apartados que se han ido considerando importantes con el paso del tiempo, así como se ha considerado también importante incluir una extensa guía explicativa sobre todos los diferentes empleos relacionados con el ámbito tecnológico, entre otros puntos importantes; a saber.
 
 ➡ La guía se encuentran en constante actualización / ampliación / modificación.<br/>
@@ -51,9 +48,13 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 </nav>
 </details>
 <br />
-En esta primera sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
+
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+{: .notice--danger}
 
 ## Cómo aprender a programar código
+
+En esta primera sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
 
 1. El primer paso es: Centrarse en dominar un lenguaje, sea cual sea, en lugar de aprender un poco sobre varios idiomas hyper-focus.
 2. Si no te decides por un lenguaje en concreto, elige uno de propósito general.
