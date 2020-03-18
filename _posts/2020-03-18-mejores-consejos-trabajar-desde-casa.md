@@ -9,11 +9,11 @@ categories:
 - Teletrabajo
 header:
   teaser: /assets/images/blog/trabajo-relajante-2.webp
-title: '🥇 ▷ TIPS: Las 11 Mejores CONSEJOS para trabajar desde casa en 2020 🏡'
+title: '🥇 ▷ TIPS: Las 11 Mejores CONSEJOS para trabajar en casa 2020 🏡'
 description: >-
-  ☑  Los consejos perfectos para los trabajadores y las trabajadoras que deban recurrir a trabajar y construir su propia oficina en casa.
+  Los consejos perfectos para trabajar y construir tu propia oficina en casa.
 excerpt: >-
-  ☑  Los consejos perfectos para los trabajadores y las trabajadoras que deban recurrir a trabajar y construir su propia oficina en casa.
+  Los consejos perfectos para trabajar y construir tu propia oficina en casa.
 canonical_URL: https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/
 permalink: /mejores-consejos-trabajar-desde-casa/
 date: 2020-03-18
