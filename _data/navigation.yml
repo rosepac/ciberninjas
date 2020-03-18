@@ -1,14 +1,12 @@
 main:
-  - title: "✍ Blog"
-    url: /blog/
-  - title: "👑 Tienda"
+  - title: "🔗 Secciones"
+    url: /aprender/
+  - title: "🎁 Tienda"
     url: /amazon/
   - title: "📚 Librería"
     url: /catalogo/
-  - title: "📖 Guías"
+  - title: "💘 Guías"
     url: /guias/
-#  - title: "📁 Archivo"
-#    url: /archivo/
   - title: "🧰 Recursos"
     url: https://kutt.it/recursos-globales"
 # Cambiar enlace de recursos por el enlace de recursos de mi página de programas y dentro de ella añadir este enlace de Notion
