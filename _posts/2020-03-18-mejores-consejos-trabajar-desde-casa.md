@@ -16,7 +16,7 @@ excerpt: >-
   ☑  Los consejos perfectos para los trabajadores y las trabajadoras que deban recurrir a trabajar y construir su propia oficina en casa.
 canonical_URL: https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/
 permalink: /mejores-consejos-trabajar-desde-casa/
-date: 2020-03-12
+date: 2020-03-18
 last_modified_at: 
 published: true
 
