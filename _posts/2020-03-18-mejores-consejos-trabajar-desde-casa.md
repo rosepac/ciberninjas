@@ -39,7 +39,9 @@ Muchas compañías, especialmente las tecnológicas como Twitter, Google, Facebo
 
 El trabajo desde casa, sería imposible sin lugar a dudas sin estar conectado a la red.
 
-Un consejo: trabajar cerca del router para obtener la mejor señal o despliega un buen sistema de red a través de toda la casa. Existen muchos dispositivos con los que llevar a cabo esto, por ejemplo: [Xiaomi wifi extensor Amplificador de Señal WiFi 2 (por menos de 12 €)](https://amzn.to/39QYtVH){:target="_blank"}, [Repetidor TP-Link TL-WA850RE 300 (por 18 €)](https://amzn.to/39PImrp){:target="_blank"} u de [1200 (por 34 €)](https://amzn.to/2wSGa3S){:target="_blank"}, [Google Wifi Router (por 90€)](https://amzn.to/33iVFy0){:target="_blank"} el [router de Amazon Eero (desde 110 €)](https://amzn.to/33fSKq5){:target="_blank"}, etc. que ayudan a amplificar y distribuir la señal o construir una red completa a todo lo largo y ancho de tu hogar.
+Un consejo: trabajar cerca del router para obtener la mejor señal o despliega un buen sistema de red a través de toda la casa.
+
+Existen muchos dispositivos con los que llevar a cabo esto, por ejemplo: [Xiaomi wifi extensor Amplificador de Señal WiFi 2 (por menos de 12 €)](https://amzn.to/39QYtVH){:target="_blank"}, [Repetidor TP-Link TL-WA850RE 300 (por 18 €)](https://amzn.to/39PImrp){:target="_blank"} u de [1200 (por 34 €)](https://amzn.to/2wSGa3S){:target="_blank"}, [Google Wifi Router (por 90€)](https://amzn.to/33iVFy0){:target="_blank"} el [router de Amazon Eero (desde 110 €)](https://amzn.to/33fSKq5){:target="_blank"}, etc. que ayudan a amplificar y distribuir la señal o construir una red completa a todo lo largo y ancho de tu hogar.
 
 ## **2. Espacio dedicado**
 
@@ -52,7 +54,6 @@ Elige correctamente tu mejor opción, bien sea la mesa de la cocina o el sofá, 
 Recuerda, ¡La ergonomía es importante! Una buena silla de oficina con la que trabajar a la altura correcta y que sea lo suficientemente cómoda, será una gran inversión. Quizás, no desees gastar demasiado en una silla de más de 500 €; pero existen sillas de calidad más asequibles, entre el rango de 200 / 350 € que seguramente pueden ser una gran opción.
 
 Algunos ejemplos: [Autonomous ErgoChair 2](https://www.autonomous.ai/office-chairs/ergonomic-chair?lang=en-US){:target="_blank"} (por 360 €) o[AmazonBasics Ejecutiva](https://amzn.to/33fhWgi){:target="_blank"} (por menos de 95 €)
-
 <!-- https://www.reviewed.com/home-outdoors/best-right-now/the-best-office-chairs -->
 ## **3. Toma medidas para no ser interrumpido**
 <!-- contenido -->
@@ -92,7 +93,7 @@ Como por ejemplo: Microsoft To-DO, la antigua Wunderlist; Joplin; Simplenote; Go
 
 ## **6. Auriculares**
 
-Sin lugar a dudas vas a requerir unos auriculares adecuadas para trabajar desde casa, en el artículo de [18 mejores prácticas para trabajar desde casa](/mejores-practicas-trabajar-desde-casa/#16-compra-unos-auriculares-con-cancelación-de-ruido) ya hemos comentado sobre ello.. Puedes encontrar algunos de [los mejores auriculares](/auriculares-dise%C3%B1o/) por aquí 🤞
+Sin lugar a dudas vas a requerir unos auriculares adecuadas para trabajar desde casa, en el artículo de [18 mejores prácticas para trabajar desde casa](/mejores-practicas-trabajar-desde-casa/#16-compra-unos-auriculares-con-cancelación-de-ruido) ya hemos comentado sobre ello.. Puedes encontrar algunos de [los mejores auriculares por aquí](/auriculares-dise%C3%B1o/) 🤞
 
 <!-- Vas a necesitar un buen auricular para hablar por teléfono con las manos libres. Muchos confían en los AirPods de Apple ($ 169) y los nuevos AirPods Pro ($ 249), que se mantienen en el oído más fácilmente. Una alternativa más barata es Echo Buds de Amazon, que se vende por $ 129. A Michael Oldenburg, gerente del fabricante de drones DJI, le gustan para las reuniones, "o simplemente para bloquear el ruido". -->
 
