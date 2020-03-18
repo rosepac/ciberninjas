@@ -8,12 +8,12 @@ tags:
 categories:
 - Teletrabajo
 header:
-  teaser: /assets/images/blog/marzo-hacking-wallpaper-pc-so
-title: '🥇 ▷ TIPS: Las 12+1  Mejores CONSEJOS para trabajar desde casa en 2020'
+  teaser: /assets/images/blog/trabajo-relajante-2.webp
+title: '🥇 ▷ TIPS: Las 11 Mejores CONSEJOS para trabajar desde casa en 2020 🏡'
 description: >-
-  ✅  Los trabajadores remotos evalúan lo que les ayuda a aumentar la productividad y mantenerse en contacto con la oficina.
+  ☑  Los consejos perfectos para los trabajadores y las trabajadoras que deban recurrir a trabajar y construir su propia oficina en casa.
 excerpt: >-
-  ✅ Los trabajadores remotos evalúan lo que les ayuda a aumentar la productividad y mantenerse en contacto con la oficina.
+  ☑  Los consejos perfectos para los trabajadores y las trabajadoras que deban recurrir a trabajar y construir su propia oficina en casa.
 canonical_URL: https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/
 permalink: /mejores-consejos-trabajar-desde-casa/
 date: 2020-03-12
@@ -22,15 +22,17 @@ published: true
 
 ---
 
+![Los mejores consejos para ser eficaz en el teletrabajo en 2020](trabajo-relajante-2.webp "Los mejores consejos para ser eficaz en el teletrabajo en 2020")
+
 Muchas compañías, especialmente las tecnológicas como Twitter, Google, Facebook, Amazon y otras más; han ido recomendando trabajar en casa para su personal a raíz del maldito coronavirus.
 
 ¿Eres nuevo en teletrabajo? Hoy, he recopilado algunas ideas básicas de lo que puedes necesitar para recrear a la perfección, la mejor experiencia posible de crear tu propia oficina en casa.
 
 <!-- 12+1 https://eu.usatoday.com/story/tech/2020/03/05/working-at-home-13-tips-tools-best-practices/4955847002/ -->
 <!-- https://www.google.com/search?q=best+mousepad+for+2020&sourceid=ie7&rls=com.microsoft:en-US&ie=utf8&oe=utf8 -->
-![Los mejores consejos para ser eficar en el teletrabajo en 2020](/assets/images/blog/trabajo-desde-casa-teletrabajo.webp "Los mejores consejos para ser eficar en el teletrabajo en 2020")
 
-https://www.youtube.com/watch?v=J4ko-juMTQc
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/J4ko-juMTQc?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br />
+<!-- https://www.youtube.com/watch?v=J4ko-juMTQc -->
 <!-- INTRODUCCION AL CONTENIDO DE LA PÁGINA WEB -->
 
 ## **1. Buena conexión a internet**
@@ -134,13 +136,11 @@ Además, debes de recordar comprobar que tus dispositivos; tengan soporte para d
 
 ## **11. Lo más importante**
 
-**¡Fuerza de Voluntad!**
-
-La fuerza de voluntad necesaria para olvidarte de todo; no te olvides de vestirte, no te pongas a lavar los platos, no te distraigas en cosas no importantes, no quites el foco de tus tareas, no te pases el día comiendo en lugar de trabajar..
+La fuerza de voluntad necesaria para olvidarte de todo; no te olvides de vestirte, no te pongas a lavar los platos, no te distraigas en cosas no importantes, no quites el foco de tus tareas, no te pases el día comiendo en lugar de trabajar..  Prepárate como si fueses a la oficina, o puedes visto sorprendido cuando requieras atender una videoconferencia.
 
 Desconecta puntualmente con las redes sociales, pero nunca cuando requieras concentrarte en profundidad.
 
-Prepárate como si fueses a la oficina, o puedes visto sorprendido cuando requieras atender una videoconferencia.
+**¡Fuerza de Voluntad! ¡Fuerza de Voluntad! ¡Fuerza de Voluntad!**
 
 ¿Crees que me ha faltado algo importante a tener en cuenta? Házmelo saber a través de mis redes sociales. Hazme llegar tus herramientas favoritas con las que trabajar desde casa. Búscame en Twitter, @ciberninjas
 <!-- https://www.reviewed.com/home-outdoors/best-right-now/the-best-office-chairs -->
