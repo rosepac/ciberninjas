@@ -32,6 +32,9 @@ Muchas compañías, especialmente las tecnológicas como Twitter, Google, Facebo
 <!-- INTRODUCCION AL CONTENIDO DE LA PÁGINA WEB -->
 ¿Eres nuevo en teletrabajo? Hoy, he recopilado algunas ideas básicas de lo que puedes necesitar para recrear a la perfección, la mejor experiencia posible de crear tu propia oficina en casa.
 
+🔥 Seguro también te interesa: [Mejores Prácticas para Teletrabajar](/mejores-practicas-trabajar-desde-casa/)
+{: .notice--danger}
+
 ## **1. Buena conexión a internet**
 
 El trabajo desde casa, sería imposible sin lugar a dudas sin estar conectado a la red.
@@ -61,7 +64,7 @@ Organiza e implementa de forma adecuada tus reuniones. Con seguridad, a tus comp
 
 En estos momentos tienes la [Logitech C920 HD Pro Webcam](https://amzn.to/2INo5a4){:target="_blank"} en una gran oferta, por menos de 54 €, [Logitech C922 Pro Stream](https://amzn.to/2U4CKTE){:target="_blank"} por 80 €, incluyendo hasta el trípode. E incluso más económicas como la [LifeCam HD-3000](https://amzn.to/2vYOKhA){:target="_blank"} por tan solo 32 €.
 
-Siempre puedes utilizar la cámara de tu propio smartphone, para lo que te vendrá genial [algún tipo de soporte](/#9-pequeñas-cosas/).
+Siempre puedes utilizar la cámara de tu propio smartphone, para lo que te vendrá genial [algún tipo de soporte](/mejores-consejos-trabajar-desde-casa/#9-pequeñas-cosas).
 
 <!-- https://www.techradar.com/news/computing-components/peripherals/what-webcam-5-reviewed-and-rated-1027972 -->
 <!-- contenido -->
