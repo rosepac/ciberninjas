@@ -22,7 +22,7 @@ published: true
 
 ---
 
-![Los mejores consejos para ser eficaz en el teletrabajo en 2020](trabajo-relajante-2.webp "Los mejores consejos para ser eficaz en el teletrabajo en 2020")
+![Los mejores consejos para ser eficaz en el teletrabajo en 2020](/assets/images/blog/trabajo-relajante-2.webp "Los mejores consejos para ser eficaz en el teletrabajo en 2020")
 
 Muchas compañías, especialmente las tecnológicas como Twitter, Google, Facebook, Amazon y otras más; han ido recomendando trabajar en casa para su personal a raíz del maldito coronavirus.
 
