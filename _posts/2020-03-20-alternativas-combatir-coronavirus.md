@@ -12,7 +12,7 @@ tags:
   - Programar
   - Realidad
 header:
-  teaser: /assets/images/blogs/stop-coronavirus.webp
+  teaser: /assets/images/blog/stop-coronavirus.webp
 #  overlay_image: /assets/images/
 #  overlay_filter: '0.2'
 #  image_description: >-
@@ -24,7 +24,7 @@ header:
 # toc_sticky: true
 ---
 
-![🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus](/assets/images/blogs/stop-coronavirus.webp "🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus")
+![🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus](/assets/images/blog/stop-coronavirus.webp "🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus")
 
 No, este artículo no es una cura contra el coronavirus; porque basicamente y por desgracia, no parecer tener una metodología de cura concreta.
 
@@ -135,7 +135,7 @@ Sábado 21: Gato Charro, Arco, Maui, Fran Mariscal, Daniel Mata, Alicia Ramos, M
 🎶 Festival Cuarenta Fest..
 Música en streaming en tiempos difíciles.
 
-Artistas..
+Artistas:
 
 Viernes 20: Evripidis and his Tragedies, Casa Manuela, Megansito El Guapo, Rebe.
 Sábado 21: Mori, Carlota, Alru, Malamute, Elektra Insogna.
@@ -155,27 +155,6 @@ Viernes 27:Detergente Líquido, De los Santos, Jose Ignacio Martorell, Betacam, 
 
 No son pocas las personas que se han hechado a crear diferentes rutinas de cardío para ayudar a que las personas puedan realizar deporte en casa tranquilamente. Algunos ejemplos, son los siguientes..
 
+- [Gym Virtual](https://gymvirtual.com/) (completo calendario de actividades, para realizar Gymnasio a diario desde casa)
 - [KimFrench87](https://www.instagram.com/p/B8rXjkuBtb8/){:target="_blank"} (rutina de 5 ejercicions con repeticiones cargando peso..)
 
-
-
-
-
-
-
-
-
-
-
-**Fuente**\: []( "Aprender a Programar es Cada Vez Más Difícil por Allen Downey") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
-{: .notice--info}
-
-## Relacionados
-
-* [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020 "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
-* [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
-* [Comparativa
-* [▷ ¿Por qué Python es Mejor que PHP?](desarrolladores-lenguaje-rust/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
-* [▷ A los desarrolladores les encanta el lenguaje de programación Rust: He aquí por qué](/porque-python-es-mejor-que-php/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
-▷ [¿Por qué Python es Mejor que PHP?](/porque-python-es-mejor-que-php/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
-* [👨‍🎨 Palabras más usadas en cada lenguaje de programación](/palabras-lenguajes-programacion/ "👨‍🎨 Palabras más usadas en cada lenguaje de programación")
