@@ -30,12 +30,12 @@ header:
 
 No, este artículo no es una cura contra el coronavirus; porque básicamente y por desgracia, no parecer tener una metodología de cura concreta.
 
-💣 ESTE ARTÍCULO ESTARÁ EN CONSTANTE ACTUALIZACIÓN HASTA EL FIN DEL CONFINAMIENTO (U que le pase algo a mi persona.. Que esperemos que no..)
+💣 ESTE ARTÍCULO ESTARÁ EN CONSTANTE ACTUALIZACIÓN HASTA EL FIN DEL CONFINAMIENTO (Salvo que le pase algo a mi persona.. Que esperemos que no..)
 {: .notice--warning}
 
 Dicho esto, con el ya conocido problema que se ha ido contagiando por más de medio planeta; han nacido, no sé, si cientos de iniciativas (pero seguro que sí, decenas) de iniciativas de diferentes actividades que podemos realizar dentro de nuestra propia casa; puesto que es la única fórmula que parece funcionar para combatir este virus es:
 
-**#QuedateEnCasa** 
+**[#QuedateEnCasa](https://twitter.com/search?q=%23QuedateEnCasa&src=typeahead_click&f=live){:target="_blank"}** 
 
 Destacar que han nacido y siguen generandose variopintos hastags; como por ejemplos..
 
@@ -67,11 +67,37 @@ Destacar que han nacido y siguen generandose variopintos hastags; como por ejemp
 
 ### **Charlas de Desarrolladores de Google España**
 
-- [💻 Charlas por streaming del GDG Spain durante el confinamiento por el Coronavirus #YoMeQuedoEnCasaGDG](https://steemit.com/hive-154806/@rosepac/-charlas-por-streaming-del-gdg-spain-durante-el-confinamiento-por-el-coronavirus-yomequedoencasagdg-1584549963)
+- [💻 Charlas por streaming del GDG Spain durante el confinamiento por el Coronavirus #YoMeQuedoEnCasaGDG](https://steemit.com/hive-154806/@rosepac/-charlas-por-streaming-del-gdg-spain-durante-el-confinamiento-por-el-coronavirus-yomequedoencasagdg-1584549963){:target="_blank"}
 
 ### Charlas Online Desde Casa
 
 ## **Alternativas Culturales**
+
+### **Revistas de Computer Hoy**
+
+- Descargar [Computer Hoy 558](https://drive.google.com/open?id=1qvHw76PvBfx0Qf-F8P77KIMAtgSqXkEE){:target="_blank"}
+- Descargar [Computer Hoy 557](https://drive.google.com/open?id=15Qo3NCy8_xyNCjPXxMC-Bj2gfepYrTIz){:target="_blank"}
+
+### **Revistas Axel Springer**
+
+#### Hobby Consolas
+
+- Descargar [Hobby Consolas 343](https://drive.google.com/open?id=1y6R690SUV10OuYLxCGlgitvART83Idj9){:target="_blank"}
+- Descargar [Hobby Consolas 342](https://drive.google.com/open?id=1P6sN7WjTSgM8orSFzy2qYbz-S4Q-8nYK){:target="_blank"}
+
+#### Retro Gamer
+
+- Descargar [Retrogamer 30](https://drive.google.com/open?id=1RD3MbcC2K9xbHQs01E7u6rB61J-9RdW3){:target="_blank"}
+
+#### Auto Bild
+
+- Descargar [Auto Bild 605](https://drive.google.com/open?id=1ggy96YVgpywRGLcjSks4wPseTR24DChT){:target="_blank"}
+- Descargar [Auto Bild 604](https://drive.google.com/open?id=1NTlhFYMNv25VLKRSlq9uBQpKJuepyGwU){:target="_blank"}
+
+#### Top Gear
+
+- Descargar [Top Gear 22](https://drive.google.com/open?id=1vyZ-NLE2G62RN_QlU7QVh44jD8wzZt9n){:target="_blank"}
+- Descargar [Top Gear 21](https://drive.google.com/open?id=1hASSq7c75noGdTCkQ8q_IgMiaVmes_BH){:target="_blank"}
 
 ### **Editorial DOLMEN**
 
@@ -79,20 +105,20 @@ Desde la editorial Dolmen ponen a nuestra disposición unos comics y algunos otr
 
 Los títulos son los siguientes: Una historia de Perros Viejos, Cómo Sobrevivir al Apocalipsis Zombi con Tu Madre, Cabezón de Acero, El Libro de Sarah, Apocalipsis Island y De Madrid al Zielo.
 
-- [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac)
+- [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"}
 
 ### **Editorial Léeme Libros**
 
 Libros GRATIS con los que Reflexionar estos días: El Poder de las Personas: Un ensayo para cambiar el mundo juntos, El Peligro de Creer y Futbolistas de Izquierdas.
 
-- [Léeme Libros](https://steemit.com/hive-154806/@rosepac/-libros-gratis-con-los-que-reflexionar-estos-das-yomequedoencasa-1584225813)
+- [Léeme Libros](https://steemit.com/hive-154806/@rosepac/-libros-gratis-con-los-que-reflexionar-estos-das-yomequedoencasa-1584225813){:target="_blank"}
 
 ### **Libro Guerreras de la Ciencia**
 
 - [📖 Libro: Guerreras de la Ciencia GRATIS (Artículos de desarrollo web y programación - inside)
-](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside)
+](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"}
 
-### Directos A través de Youtube
+<!-- Directos A través de Youtube -->
 
 ## **Alternativas Videojuegos**
 
@@ -100,14 +126,14 @@ Libros GRATIS con los que Reflexionar estos días: El Poder de las Personas: Un 
 
 Edición de primavera te trae docenas de demos para descargar y jugar, así como otros títulos destacados de Indie MEGABOOTH, The MIX, Day of the Devs y WINGS.
 
-- [Festival de Juegos de Steam](https://www.minds.com/newsfeed/1087377917829427200?referrer=rosepac)
+- [Festival de Juegos de Steam](https://www.minds.com/newsfeed/1087377917829427200?referrer=rosepac){:target="_blank"}
 
 ### **28 videojuegos gratis desde la Plataforma GOG**
 
 TU LUGAR PARA CLÁSICOS SIN DRM Y LOS MEJORES JUEGOS INDIE
 Incluso si el sol está brillando y las flores ya han comenzado a florecer donde vives, la salud y la seguridad están en la mente de todos en este momento. Cerrar las cortinas y jugar videojuegos puede ser una de las mejores maneras de relajarse y pasar el tiempo cuando se queda en casa. Estamos aquí para ayudarlo a elegir su próxima gran aventura con esta selección de juegos gratuitos de nuestro catálogo y una gran oferta de primavera hasta el 30 de marzo.
 
-- [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac)
+- [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac){:target="_blank"}
 
 ## **Alternativas Musicales**
 
@@ -150,7 +176,7 @@ Miércoles 25: Cuchillas, Kora, Lois, Canges.
 Jueves 26: Apartamentos Acapulco, Roldán, Estrella Fugaz, Santi, Angel Calvo.
 Viernes 27:Detergente Líquido, De los Santos, Jose Ignacio Martorell, Betacam, Pixel de Stael.
 
-- [Cuarentena Festival](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac)
+- [Cuarentena Festival](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac){:target="_blank"}
 
 ## **Alternativas Educativas**
 
@@ -158,6 +184,5 @@ Viernes 27:Detergente Líquido, De los Santos, Jose Ignacio Martorell, Betacam, 
 
 No son pocas las personas que se han hechado a crear diferentes rutinas de cardío para ayudar a que las personas puedan realizar deporte en casa tranquilamente. Algunos ejemplos, son los siguientes..
 
-- [Gym Virtual](https://gymvirtual.com/) (completo calendario de actividades, para realizar Gymnasio a diario desde casa)
+- [Gym Virtual](https://gymvirtual.com/){:target="_blank"} (completo calendario de actividades, para realizar Gymnasio a diario desde casa)
 - [KimFrench87](https://www.instagram.com/p/B8rXjkuBtb8/){:target="_blank"} (rutina de 5 ejercicions con repeticiones cargando peso..)
-
