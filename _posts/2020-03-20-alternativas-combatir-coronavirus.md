@@ -1,16 +1,18 @@
 ---
 title: "🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus"
-description: "🔥 Las Mejores Alternativas Culturales para Combatir el Coronavirus"
+description: "🔥 Actividades online y gratis con las que pasar la cuarentana de la enfermedad del coronavirus"
 excerpt: ""
 date: 2020-03-19
 canonical_URL: https://ciberninjas.com/alternativas-culturales-combatir-coronavirus/
 permalink: /alternativas-culturales-combatir-coronavirus/
 published: true
+classes: wide
 categories:
   - Especial
 tags:
-  - Programar
-  - Realidad
+  - Cultura
+  - Actividades
+  - Coronavirus
 header:
   teaser: /assets/images/blog/stop-coronavirus.webp
 #  overlay_image: /assets/images/
@@ -26,9 +28,9 @@ header:
 
 ![🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus](/assets/images/blog/stop-coronavirus.webp "🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus")
 
-No, este artículo no es una cura contra el coronavirus; porque basicamente y por desgracia, no parecer tener una metodología de cura concreta.
+No, este artículo no es una cura contra el coronavirus; porque básicamente y por desgracia, no parecer tener una metodología de cura concreta.
 
-💣 ESTE ARTÍCULO ESTARÁ EN CONSTANTE CONSTRUCCIÓN HASTA EL FIN DEL CONFINAMIENTO (U que le pase algo a mi persona.. Que esperemos que no..)
+💣 ESTE ARTÍCULO ESTARÁ EN CONSTANTE ACTUALIZACIÓN HASTA EL FIN DEL CONFINAMIENTO (U que le pase algo a mi persona.. Que esperemos que no..)
 {: .notice--warning}
 
 Dicho esto, con el ya conocido problema que se ha ido contagiando por más de medio planeta; han nacido, no sé, si cientos de iniciativas (pero seguro que sí, decenas) de iniciativas de diferentes actividades que podemos realizar dentro de nuestra propia casa; puesto que es la única fórmula que parece funcionar para combatir este virus es:
@@ -47,11 +49,12 @@ Destacar que han nacido y siguen generandose variopintos hastags; como por ejemp
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/alternativas-culturales-combatir-coronavirus/">Alternativas Tecnológicas</a></li>
-    <li><a href="/alternativas-culturales-combatir-coronavirus/">Alternativas Tecnológicas</a></li>
-    <li><a href="/alternativas-culturales-combatir-coronavirus/">Alternativas Tecnológicas</a></li>
-    <li><a href="/alternativas-culturales-combatir-coronavirus/">Alternativas Tecnológicas</a></li>
-    <li><a href="/alternativas-culturales-combatir-coronavirus/">Alternativas Tecnológicas</a></li>
+    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-tecnológicas">Alternativas Tecnológicas</a></li>
+    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-culturales">Alternativas Culturales</a></li>
+    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-videojuegos">Alternativas Videojuegos</a></li>
+    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-musicales">Alternativas Musicales</a></li>
+    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-educativas">Alternativas Educativas</a></li>
+    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-deportivas">Alternativas Deportivas</a></li>
   </ol>
 </nav>
 </details>
