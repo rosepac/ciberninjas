@@ -66,11 +66,19 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 ## **Alternativas Culturales**
 
 - [Revistar Computer Hoy y de la Editorial Axel Springer](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
+- [Libros Gratis en La Casa del Libro](https://www.minds.com/newsfeed/1087774182482681856?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libros-gratis-la-casa-del-libro)
 - [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
-- [📖 Libro: Guerreras de la Ciencia GRATIS (Artículos de desarrollo web y programación - inside)
-](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia)
-- [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
+- [📖 Libro: Guerreras de la Ciencia GRATIS](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
+- [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"}{:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
 - [Estreno The Mandalorian en Cuatro](https://www.cuatro.com/practica-cuatro/estreno-the-mandalorian-primicia-viernes-20_18_2916120153.html){:target="_blank"} (20 de Marzo -22:00 H. Española)
+
+## **Libros Gratis: La Casa del Libro**
+
+Algunas editoriales han decidido poner sus ebooks gratuitos de forma solidaria, a través de la página de La Casa del Libro podrás descargar para cualquier E-Reader o Lector Electrónico. Por ejemplo, el [Kindle Paperwhite](https://amzn.to/2lCjLlR){:target="_blank"} o los nuevos Kindle Oasis; disponibles en [color negro](https://amzn.to/2jYgSLP){:target="_blank"} o [color dorado](https://amzn.to/2jZgBZ1){:target="_blank"}.
+
+Los libros disponible son:
+
+- 
 
 ## **Revistas de Computer Hoy**
 
@@ -131,6 +139,8 @@ A través de la campaña #WorldCupAtHome , las repeticiones completas de más de
 - [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#plataforma-gog-28-videojuegos-clásicos-gratis)
 - Epic Games [Watch Dogs](https://www.epicgames.com/store/es-ES/product/watch-dogs/home){:target="_blank"} y [The Stanley Parable](https://www.epicgames.com/store/es-ES/product/the-stanley-parable/home){:target="_blank"}
 - Steam [Tomb Raider 2013](https://store.steampowered.com/app/203160/Tomb_Raider/){:target="_blank"} + [Lara Croft and the Temple of Osiris](https://store.steampowered.com/app/289690/LARA_CROFT_AND_THE_TEMPLE_OF_OSIRIS/){:target="_blank"} (A partir de las 18 AM del 20 de Marzo)
+- [Gamivo: Un juego Aleatorio Gratis](https://www.gamivo.com/es/product/massive-ultimate-gamivo-clearance-extra-round-eight) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juego-aleatorio-gratis)
+- [Juegos GRATIS de Todas las Plataformas](/videojuegos-gratis/)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
 ### **El Festival de Juegos de Steam**
@@ -141,6 +151,13 @@ Edición de primavera te trae docenas de demos para descargar y jugar, así como
 
 TU LUGAR PARA CLÁSICOS SIN DRM Y LOS MEJORES JUEGOS INDIE
 Incluso si el sol está brillando y las flores ya han comenzado a florecer donde vives, la salud y la seguridad están en la mente de todos en este momento. Cerrar las cortinas y jugar videojuegos puede ser una de las mejores maneras de relajarse y pasar el tiempo cuando se queda en casa. Estamos aquí para ayudarlo a elegir su próxima gran aventura con esta selección de juegos gratuitos de nuestro catálogo y una gran oferta de primavera hasta el 30 de marzo.
+
+### Gamivo: Juego Aleatorio Gratis
+
+Durante los próximos días, todos los clientes de GAMIVO pueden obtener uno de los más de 20 juegos absolutamente GRATIS.
+Cada cliente puede comprar un producto por cuenta. Los juegos se reparten al azar. Te deseo buena suerte y el juego con el que siempre has soñado ...
+
+Juegos al Azar: 39 pasos, Chicken Shoot Gold, Comandante: conquista de las Américas, Enclave, Gorki 17, Heli Heroes, Invasión del cielo de hierro, Jagged Alliance 2 Wildfire, Jack Orlando Director Cut, Caballeros y mercaderes, Lego Hobbit, Planetas bajo ataque, X-Blades, ¡Y más!
 
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
@@ -193,20 +210,22 @@ Artistas:
 
 - [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
 - [Cursos de la Constitución Española para Opositores](https://www.minds.com/newsfeed/1087694009007644672?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#campus-mad-para-opositores)
-- [Aplicación Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más]()
+- [Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
 Como no, nuestros cursos:
 - [Cursos de Programación, Desarrollo Web y Mucho Más](/cursos-tecnologia/)
-- [Cursos para Educadores](/cursos-educacion/)
+- [Cursos para Educadores y Recursos Educativos](/cursos-educacion/)
 - [Cursos de Animación y Diseño](/cursos-animacion-diseno/)
-- [Nuestros Recursos Ciberninjas](https://kutt.it/recursos)
+- [Ciberninjas: Nuestros Recursos Seleccionados](https://kutt.it/recursos)
 
 ### **Scribd**
 
 Scribd ha decidido abrir su plataforma de forma gratuita, exclusivamente por los próximos 30 días. Scribd, es un sitio web para compartir documentos que permite a los usuarios publicar archivos de diversos formatos e incrustarlos en una página web utilizando su formato iPaper.
 
-### **Aplicación Mosa Lengua Gratis**
+### **Aplicaciones Mosa Lingua Gratis**
+
+Mosa Lengua, la empresa creador de las mejores APPS para aprender diferentes idiomas, ha liberado casi todas sus aplicaciones de forma gratuita.
 
 ### **Campus MAD para Opositores**
 
