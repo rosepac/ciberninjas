@@ -173,9 +173,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
   # _staff-miembros
 #  - scope:
 #      path: ""
@@ -184,9 +184,9 @@ defaults:
 #      layout: single
 #      author_profile: true
 #      read_time: true
-#      comments: true
+#      comments: false
 #      share: true
-#      related: true
+#      related: false
   # _guias
   - scope:
       path: "_guias"
@@ -195,7 +195,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
   # _catalogo
@@ -206,7 +206,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
     # _biblioteca
@@ -217,9 +217,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
   # _glosario
   - scope:
       path: "_glosario"
@@ -228,7 +228,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
       # sidebar:
@@ -243,7 +243,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
   # _historia-computadora
@@ -254,7 +254,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
   # _personajes-historicos
@@ -265,9 +265,9 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
     # _electronic-frontier-foundation
   - scope:
       path: "_eff"
@@ -276,7 +276,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
   - scope:
@@ -286,9 +286,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
   - scope:
       path: "_amazon"
       type: amazon
@@ -296,9 +296,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
   - scope:
       path: "_videotutoriales"
       type: videotutoriales
@@ -306,7 +306,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: false
 
