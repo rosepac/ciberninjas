@@ -39,24 +39,15 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 
 **[#QuedateEnCasa](https://twitter.com/search?q=%23QuedateEnCasa&src=typeahead_click&f=live){:target="_blank"}** **[#FrenaLaCurva](https://frenalacurva.net/){:target="_blank"}** **[#YoMeQuedoEnCasa](https://twitter.com/search?q=%23YoMeQuedoEnCasa%20&src=typed_query&f=live){:target="_blank"}** **[#YoMeQuedoEnMiCasa](){:target="_blank"}** **[#QuedateEnLaCasa](){:target="_blank"}**  **[#quedatencasa](){:target="_blank"}** **[#CuarentenaCoronavirus](){:target="_blank"}**
 
-..y muchos más..
-
 ## Alternativas para combatir el coronavirus
-
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-tecnológicas">Alternativas Tecnológicas</a></li>
-    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-culturales">Alternativas Culturales</a></li>
-    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-videojuegos">Alternativas Videojuegos</a></li>
-    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-musicales">Alternativas Musicales</a></li>
-    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-educativas">Alternativas Educativas</a></li>
-    <li><a href="/alternativas-culturales-combatir-coronavirus/#alternativas-deportivas">Alternativas Deportivas</a></li>
-  </ol>
-</nav>
-</details>
-<br />
+<ol class="no-lista">
+  <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-tecnológicas">Alternativas Tecnológicas 💻</a></li>
+  <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-culturales">Alternativas Culturales 📰</a></li>
+  <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-videojuegos">Alternativas Videojuegos 🎮</a></li>
+  <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-musicales">Alternativas Musicales 🎶</a></li>
+  <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-educativas">Alternativas Educativas 👩‍🏫</a></li>
+  <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-deportivas">Alternativas Deportivas 🤸‍♀️</a></li>
+</ol>
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
@@ -74,6 +65,8 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [Revistar Computer Hoy y de la Editorial Axel Springer](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
 - [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más]()
 - [](https://www.minds.com/){:target="_blank"} [👉 Saber Más]()
+- [📖 Libro: Guerreras de la Ciencia GRATIS (Artículos de desarrollo web y programación - inside)
+](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia)
 
 ## **Revistas de Computer Hoy**
 
@@ -112,8 +105,10 @@ Libros GRATIS con los que Reflexionar estos días: El Poder de las Personas: Un 
 
 ### **Libro Guerreras de la Ciencia**
 
-- [📖 Libro: Guerreras de la Ciencia GRATIS (Artículos de desarrollo web y programación - inside)
-](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"}
+Doce profesionales especializadas en diferentes campos y disciplinas, se han juntado para reunir sus artículos dentro de un solo libro: Guerreras de la Ciencia.
+
+El documento es muy extenso, tanto como casi 500 páginas.
+En tanto a lo que nos interesa por aquí, a los Ciberninjas; nos podemos encontrar con artículos sobre bases de datos, desarrollo web y móvil, gestión de proyectos, hardware, inteligencia artificial y minería de texto, lógica, ciencias y matemáticas, programación, seguridad informática y mucho más.
 
 <!-- Directos A través de Youtube -->
 
@@ -135,15 +130,18 @@ Incluso si el sol está brillando y las flores ya han comenzado a florecer donde
 
 De entre los movimientos que han ido naciendo, entre los más destacados se encuentra el movimiento cultural musical. A los artistas no se les ha ocurrido otra cosa, más; que la de dar conciertos desde sus propias casas, en acústico y en la mayoría de casos sin ningun tipo de ayudar más que la de un solo instrumento o una base musical.
 
-Este movimiento se focaliza principalmente en Instagram.
+Las retransmisiones son emitidas a través de Instagram.
+
+- [Festival Yo Me quedo En Casa](https://www.minds.com/newsfeed/1087364534203822080?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#festival-yo-me-quedo-en-casa)
+- [Instagram Mantita Fest](https://www.minds.com/newsfeed/1087368673935732736?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest)
+- [Cuarentena Festival](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac){:target="_blank"}
+ [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cuarentena-fest)
 
 ### **Festival Yo Me Quedo en Casa**
 
 Sin lugar a dudas la iniciativa musical más brillante de todas las que se han lanzado. Por los nombres que se han logrado juntar, de decenas y decenas de artistas reconocidos a nivel nacional (España) e incluso a nivel internacional.
 
 Durante el 20, 21 y 22, podrás disfrutar durante media horita de gente como: Ariel Rot, Mikel Erentxun, Sidonie, Amaral, Coti, David DeMaría, Coque Malla, Elefantes, Los Secretos, Pastora Soler, Beret, Vanesa Martín, Conchita, Álvaro Soler, Efecto Pasillo, Álex Úbago, Adriana Moragues, Bely Basarte, Rulo, Edurne, Fredi Luis, La Pegatina, Los Fesser, Mantra, Miki Nuñez, Monarchy, Ruiperez (M Clan), St. Woods, Basanta, DJ Nano, Colectivo Panámera, Ele, Garabatto, Luis Ramiro, Marlon, Rafa Pons, Ruth Lorenzo, Sara Roy, Sidecars, Sidonie, Siloé, Smile, Penny Necklace, Rafa Pons, El Verbo Odiado, Floridablanca, Guitarrica De la Fuente, Julia Medina, La La Love You, Los Vinagres, Luis Brea, Luis Fercán, Mabu, Pole, Ramon Mirabet, Rodrigo Cuevas o Sinsinati.
-
-- [Festival Yo Me quedo En Casa](https://www.minds.com/newsfeed/1087364534203822080?referrer=rosepac){:target="_blank"}
 
 ### **Mantita Fest**
 
@@ -152,8 +150,6 @@ TODOS los artistas conectarán desde sus propios perfiles de Instagram, y Ademá
 Jueves 19: Técanela, Patricia Lázaro, El José, Ágenla González, María Ruíz, Pedro Pastor, Javi Medina, Mundo Chillón, Road Ramos.
 Viernes 20: Capitán Cobarde, Claudia Aquilar, Astola, Lena Carrilero, Felix Antílopez, Sheila Patricia, Jamones con Tacones, Elena Salguero, El Niño del Albayzín.
 Sábado 21: Gato Charro, Arco, Maui, Fran Mariscal, Daniel Mata, Alicia Ramos, María del Tango, Duende de Gaia.
-
-- [Instagram Mantita Fest](https://www.minds.com/newsfeed/1087368673935732736?referrer=rosepac){:target="_blank"} 
 
 ### **Cuarentena Fest**
 
@@ -172,8 +168,6 @@ Miércoles 25: Cuchillas, Kora, Lois, Canges.
 Jueves 26: Apartamentos Acapulco, Roldán, Estrella Fugaz, Santi, Angel Calvo.
 Viernes 27:Detergente Líquido, De los Santos, Jose Ignacio Martorell, Betacam, Pixel de Stael.
 
-- [Cuarentena Festival](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac){:target="_blank"}
-
 ## **Alternativas Educativas**
 
 ## **Alternativas Deportivas**
@@ -182,14 +176,5 @@ No son pocas las personas que se han hechado a crear diferentes rutinas de card�
 
 - [Gym Virtual](https://gymvirtual.com/){:target="_blank"} (completo calendario de actividades, para realizar Gymnasio a diario desde casa)
 - [KimFrench87](https://www.instagram.com/p/B8rXjkuBtb8/){:target="_blank"} (rutina de 5 ejercicions con repeticiones cargando peso..)
-
-
-
-
-
-
-
-
-
-
-- [](https://www.minds.com/){:target="_blank"} [👉 Saber Más]()
+- 
+<!-- - [](https://www.minds.com/){:target="_blank"} [👉 Saber Más]() -->
