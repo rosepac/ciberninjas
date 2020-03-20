@@ -31,7 +31,6 @@ header:
 <div>
     <p><a href="/cursos-espanol-programacion-febrero/" title="Cursos de programación en español" class="btn btn--inverse btn--large">🎓 200 Cursos Udemy</a> <a href="/cursos-ingles-programacion-febrero/" title="570 Cursos en inglés de Udemy con los que aprender a programar" class="btn btn--inverse btn--large">👩‍🏫 570 Cursos Inglés</a> <a href="/sql-mejores-herramientas-2020/" title="Las Mejores Herramientas de SQL Server para 2020" class="btn btn--inverse btn--large">📂 Herramientas SQL</a> <a href="/flutter-dart-devtools/#guía-devtools" title="Tutorial Completo de DevTools para Dart + Flutter" class="btn btn--inverse btn--large">📖 Guía DevTools</a> <a href="/que-es-flutter-y-por-que-debes-aprenderlo/" title="Tutorial sobre Flutter desde cero" class="btn btn--inverse btn--large">📖 Guía Flutter</a></p>
     </div>
-    <hr />
 <!-- CAJA 3 DESARROLLO WEB -->
 <div class="feature__wrapper">
     <div class="feature__item--left">
@@ -53,8 +52,7 @@ header:
 <div>
     <p><a href="/aprendizaje-automatico-cursos-ingles/" title="Cursos de machine learning en inglés" class="btn btn--inverse btn--large">Cursos Machine Learning 🤖</a> <a href="https://ouo.io/5gtlMr" title="80 Cursos de Udemy para aprender a programar" class="btn btn--inverse btn--large">Cursos Programación Udemy 👨‍💻</a> <a href="https://ouo.io/QlFpzIe" title="50 Cursos de Udemy para aprender todo sobre las cadenas de bloques, las criptomonedas: Bitcoin y Ethereum y el trading" class="btn btn--inverse btn--large">Cursos Criptomonedas Udemy 💰</a> <a href="/videotutoriales/" title="Videotutoriales indexados en nuestra página de Ciberninjas" class="btn btn--inverse btn--large">Video Tutoriales 👩‍🏫</a></p>
     </div>
-    <hr />
-<!-- CAJA 1 PROGRAMACION-->
+<!-- CAJA 1 PROGRAMACION -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
     <div class="archive__item">
@@ -114,7 +112,6 @@ header:
 <div>
     <p><a href="/categoria/#desarrollo-personal" title="Libros recomendados sobre desarrollo personal" class="btn btn--inverse btn--large">💪 Desarrollo Personal</a> <a href="/categoria/#educación" title="Libros recomendados sobre educación" class="btn btn--inverse btn--large">🖊 Educación</a> <a href="/categoria/#red-e-internet" title="Libros recomendados sobre el mundo de Internet" class="btn btn--inverse btn--large">🌐 Red e Internet</a> <a href="/categoria/#seguridad-informática" title="Libros recomendados sobre seguridad informática" class="btn btn--inverse btn--large">🔐 Seguridad Informática</a> <a href="/categoria/#sociología" title="Libros recomendados sobre la sociedad en general" class="btn btn--inverse btn--large">🤼‍♂️ Sociología</a></p>
 </div>
-<hr />
 <!-- CAJA 5 BIS - LIBRERÍA -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
@@ -135,8 +132,7 @@ header:
 <!-- CATEGORÍAS PRINCIPALES DE LA PÁGINA -->
 <div>
     <p><a href="/categoria/" title="Categorías de la página web" class="btn btn--inverse btn--large">🌈 Categorías</a> <a href="/etiqueta/" title="Etiquetas de la página de Ciberninjas" class="btn btn--inverse btn--large">🔖 Etiquetas</a></p>
-    </div>
-    <hr />
+</div>
 <!-- CAJA 5 - REGALOS -->
 <div class="feature__wrapper">
 <div class="feature__item--left">
@@ -293,9 +289,7 @@ header:
     </div>
 <!-- /assets/images/logos/ciberninjas-emoji-160-110px.png - https://i.ibb.co/kDrKP82/hola-mundo-ciberninjas.jpg -->
 
-Esta página es una sencilla introducción al aprendizaje de la tecnología que desees, paso a paso, desde aquí podrás adquirir todos los conocimientos que desees.
-
-Aprender, ¿Qué hermoso verbo verdad? Si deseas con todas tus ganas **aprender todo lo necesario** para ser un autentico **ciberninja**.
+Esta página es una sencilla introducción al aprendizaje de la tecnología que desees, paso a paso, desde aquí podrás adquirir todos los conocimientos que desees. Aprender, ¿Qué hermoso verbo verdad? Si deseas con todas tus ganas **aprender todo lo necesario** para ser un autentico **ciberninja**.
 
 Este es el lugar perfecto.
 
