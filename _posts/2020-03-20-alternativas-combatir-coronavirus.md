@@ -1,7 +1,7 @@
 ---
-title: "🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus"
+title: "🥇 ▷ Las Mejores Alternativas Culturales para Combatir la Cuarentena por Coronavirus"
 description: "🔥 Actividades online y gratis con las que pasar la cuarentana de la enfermedad del coronavirus"
-excerpt: ""
+excerpt: "🔥 Actividades online y gratis con las que pasar la cuarentana de la enfermedad del coronavirus"
 date: 2020-03-19
 canonical_URL: https://ciberninjas.com/alternativas-culturales-combatir-coronavirus/
 permalink: /alternativas-culturales-combatir-coronavirus/
@@ -30,16 +30,14 @@ header:
 
 No, este artículo no es una cura contra el coronavirus; porque básicamente y por desgracia, no parecer tener una metodología de cura concreta.
 
-💣 ESTE ARTÍCULO ESTARÁ EN CONSTANTE ACTUALIZACIÓN HASTA EL FIN DEL CONFINAMIENTO (Salvo que le pase algo a mi persona.. Que esperemos que no..)
+💣 ESTE ARTÍCULO ESTARÁ EN CONSTANTE ACTUALIZACIÓN HASTA EL FIN DEL CONFINAMIENTO<br />(Salvo que le pase algo a mi persona. Que esperemos que no..)
 {: .notice--warning}
 
-Dicho esto, con el ya conocido problema que se ha ido contagiando por más de medio planeta; han nacido, no sé, si cientos de iniciativas (pero seguro que sí, decenas) de iniciativas de diferentes actividades que podemos realizar dentro de nuestra propia casa; puesto que es la única fórmula que parece funcionar para combatir este virus es:
+Dicho esto, con el ya conocido problema que se ha ido contagiando por más de medio planeta; han nacido, no sé, si cientos de iniciativas (pero seguro que sí, decenas) de iniciativas de diferentes actividades que podemos realizar dentro de nuestra propia casa; puesto que es la única fórmula que parece funcionar para combatir este virus.
 
-**[#QuedateEnCasa](https://twitter.com/search?q=%23QuedateEnCasa&src=typeahead_click&f=live){:target="_blank"}** 
+Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría de casos; otros a través de Instagram; en la búsqueda de **los siguientes hastags**.
 
-Destacar que han nacido y siguen generandose variopintos hastags; como por ejemplos..
-
-#YoMeQuedoEnCasa #YoMeQuedoEnMiCasa #QuedateEnLaCasa  #quedatencasa #CuarentenaCoronavirus
+**[#QuedateEnCasa](https://twitter.com/search?q=%23QuedateEnCasa&src=typeahead_click&f=live){:target="_blank"}** **[#FrenaLaCurva](https://frenalacurva.net/){:target="_blank"}** **[#YoMeQuedoEnCasa](https://twitter.com/search?q=%23YoMeQuedoEnCasa%20&src=typed_query&f=live){:target="_blank"}** **[#YoMeQuedoEnMiCasa](){:target="_blank"}** **[#QuedateEnLaCasa](){:target="_blank"}**  **[#quedatencasa](){:target="_blank"}** **[#CuarentenaCoronavirus](){:target="_blank"}**
 
 ..y muchos más..
 
@@ -74,6 +72,8 @@ Destacar que han nacido y siguen generandose variopintos hastags; como por ejemp
 ## **Alternativas Culturales**
 
 ### **Revistas de Computer Hoy**
+
+- [Recopilatorio de Revistas Completo](https://www.minds.com/newsfeed/1087656671227920384?referrer=rosepac)
 
 - Descargar [Computer Hoy 558](https://drive.google.com/open?id=1qvHw76PvBfx0Qf-F8P77KIMAtgSqXkEE){:target="_blank"}
 - Descargar [Computer Hoy 557](https://drive.google.com/open?id=15Qo3NCy8_xyNCjPXxMC-Bj2gfepYrTIz){:target="_blank"}
