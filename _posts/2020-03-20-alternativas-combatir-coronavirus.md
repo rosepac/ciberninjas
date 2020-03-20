@@ -74,29 +74,6 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 
 - [Bibliotecas y Revistas Virtuales en Español -todas-](/biblioteca-novela-poesia/)
 
-## **Libros Gratis: La Casa del Libro**
-
-Algunas editoriales han decidido poner sus ebooks gratuitos de forma solidaria, a través de la página de La Casa del Libro podrás descargar para cualquier E-Reader o Lector Electrónico. Por ejemplo, el [Kindle Paperwhite](https://amzn.to/2lCjLlR){:target="_blank"} o los nuevos Kindle Oasis; disponibles en [color negro](https://amzn.to/2jYgSLP){:target="_blank"} o [color dorado](https://amzn.to/2jZgBZ1){:target="_blank"}.
-
-Los libros disponibles son:
-
-- Laurieh (Flash Relatos) - Stephen King
-- Todo lo que Deberías de Saber de un Robot en mi Jardín - Deborah Install
-- El Archivo de las Tormentas - Brandon Sanderson
-- Fantasía (Flash Relatos) - Emilia Pardo Bazán
-- El Baile Antes de la Batalla - Fellowes Julian
-- Breve Historia de España para Dummies
-- La Vida Prodigiosa de Martín Salazar - Marta Rivera de la Cruz
-- Sueños de un Caminante - José Navarro Hernández
-- Quiero Saber Por qué - Sherwood Anderson
-- Años Felices - Gonzalo Torne
-- Un Buen Detective No Se Casa Jamás - Marta Sanz
-- Encuéntrame (Un puñado de Esperandas) - Irene Mendoza
-- Music Lovers - Centeno Holden
-- La Estupidez Reflejada en un Espejo - Rodolfo Puig Barber
-- Las Horas Robadas - María Solar
-- La Saga Completa de Ever After High
-
 ## **Revistas de Computer Hoy**
 
 - **Computer Hoy**
@@ -119,6 +96,29 @@ Otras Revistas de la línea editorial Axel Springer
 - **Top Gear**
   - Descargar [Top Gear 22](https://drive.google.com/open?id=1vyZ-NLE2G62RN_QlU7QVh44jD8wzZt9n){:target="_blank"}
   - Descargar [Top Gear 21](https://drive.google.com/open?id=1hASSq7c75noGdTCkQ8q_IgMiaVmes_BH){:target="_blank"}
+
+## **Libros Gratis: La Casa del Libro**
+
+Algunas editoriales han decidido poner sus ebooks gratuitos de forma solidaria, a través de la página de La Casa del Libro podrás descargar para cualquier E-Reader o Lector Electrónico. Por ejemplo, el [Kindle Paperwhite](https://amzn.to/2lCjLlR){:target="_blank"} o los nuevos Kindle Oasis; disponibles en [color negro](https://amzn.to/2jYgSLP){:target="_blank"} o [color dorado](https://amzn.to/2jZgBZ1){:target="_blank"}.
+
+Los libros disponibles son:
+
+- Laurieh (Flash Relatos) - Stephen King
+- Todo lo que Deberías de Saber de un Robot en mi Jardín - Deborah Install
+- El Archivo de las Tormentas - Brandon Sanderson
+- Fantasía (Flash Relatos) - Emilia Pardo Bazán
+- El Baile Antes de la Batalla - Fellowes Julian
+- Breve Historia de España para Dummies
+- La Vida Prodigiosa de Martín Salazar - Marta Rivera de la Cruz
+- Sueños de un Caminante - José Navarro Hernández
+- Quiero Saber Por qué - Sherwood Anderson
+- Años Felices - Gonzalo Torne
+- Un Buen Detective No Se Casa Jamás - Marta Sanz
+- Encuéntrame (Un puñado de Esperandas) - Irene Mendoza
+- Music Lovers - Centeno Holden
+- La Estupidez Reflejada en un Espejo - Rodolfo Puig Barber
+- Las Horas Robadas - María Solar
+- La Saga Completa de Ever After High
 
 ## **Editorial DOLMEN**
 
