@@ -196,19 +196,19 @@ Las retransmisiones son emitidas a través de Instagram.
 
 Sin lugar a dudas la iniciativa musical más brillante de todas las que se han lanzado. Por los nombres que se han logrado juntar, de decenas y decenas de artistas reconocidos a nivel nacional (España) e incluso a nivel internacional.
 
-Día 20
+#### Día 20
 
 ![](/assets/images/blog/20-musica.webp)
 
 Penny Necklace, Rafa Pons, FloridaBlanca, Colectivo Panamera, Julia Medina, Conchita, Marlon, Los Vinagres, Luis Fercán, Elefantes, Vanesa Martín, Beret, Álvaro Soler, Efecto Pasillo, Álex Úbago, Smile, Monarchy.
 
-Día 21
+#### Día 21
 
 ![](/assets/images/blog/21-musica.webp)
 
 Juan Cid, Gritando en Silencio, Alex Gómez, Coco Green, El Verbo Odiado, Basanta, Luis Brea, Adriana Moragues, Rodrigo Cueevas, Ruth Lorenzo, David Demaría, Pastora Soler, Luis Ramiro, Bely Basarte, Fredi Leis, Mikel Erentxun, Amaral, Guitarrica de la Fuente, Sidonie, Coti, Siloé, DJ Nano.
 
-Día 22
+#### Día 22
 
 ![](/assets/images/blog/22-musica.webp)
 
