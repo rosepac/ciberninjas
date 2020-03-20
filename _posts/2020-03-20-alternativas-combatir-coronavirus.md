@@ -71,41 +71,38 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 
 ## **Alternativas Culturales**
 
-### **Revistas de Computer Hoy**
+- [Revistar Computer Hoy y de la Editorial Axel Springer](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
+- [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más]()
+- [](https://www.minds.com/){:target="_blank"} [👉 Saber Más]()
 
-- [Recopilatorio de Revistas Completo](https://www.minds.com/newsfeed/1087656671227920384?referrer=rosepac)
+## **Revistas de Computer Hoy**
 
+- **Computer Hoy**
 - Descargar [Computer Hoy 558](https://drive.google.com/open?id=1qvHw76PvBfx0Qf-F8P77KIMAtgSqXkEE){:target="_blank"}
 - Descargar [Computer Hoy 557](https://drive.google.com/open?id=15Qo3NCy8_xyNCjPXxMC-Bj2gfepYrTIz){:target="_blank"}
 
-### **Revistas Axel Springer**
+Otras Revistas de la línea editorial Axel Springer
 
-#### Hobby Consolas
+- **Hobby Consolas**
+  - Descargar [Hobby Consolas 343](https://drive.google.com/open?id=1y6R690SUV10OuYLxCGlgitvART83Idj9){:target="_blank"}
+  - Descargar [Hobby Consolas 342](https://drive.google.com/open?id=1P6sN7WjTSgM8orSFzy2qYbz-S4Q-8nYK){:target="_blank"}
 
-- Descargar [Hobby Consolas 343](https://drive.google.com/open?id=1y6R690SUV10OuYLxCGlgitvART83Idj9){:target="_blank"}
-- Descargar [Hobby Consolas 342](https://drive.google.com/open?id=1P6sN7WjTSgM8orSFzy2qYbz-S4Q-8nYK){:target="_blank"}
+- **Retro Gamer**
+  - Descargar [Retrogamer 30](https://drive.google.com/open?id=1RD3MbcC2K9xbHQs01E7u6rB61J-9RdW3){:target="_blank"}
 
-#### Retro Gamer
+- **Auto Bild**
+  - Descargar [Auto Bild 605](https://drive.google.com/open?id=1ggy96YVgpywRGLcjSks4wPseTR24DChT){:target="_blank"}
+  - Descargar [Auto Bild 604](https://drive.google.com/open?id=1NTlhFYMNv25VLKRSlq9uBQpKJuepyGwU){:target="_blank"}
 
-- Descargar [Retrogamer 30](https://drive.google.com/open?id=1RD3MbcC2K9xbHQs01E7u6rB61J-9RdW3){:target="_blank"}
+- **Top Gear**
+  - Descargar [Top Gear 22](https://drive.google.com/open?id=1vyZ-NLE2G62RN_QlU7QVh44jD8wzZt9n){:target="_blank"}
+  - Descargar [Top Gear 21](https://drive.google.com/open?id=1hASSq7c75noGdTCkQ8q_IgMiaVmes_BH){:target="_blank"}
 
-#### Auto Bild
-
-- Descargar [Auto Bild 605](https://drive.google.com/open?id=1ggy96YVgpywRGLcjSks4wPseTR24DChT){:target="_blank"}
-- Descargar [Auto Bild 604](https://drive.google.com/open?id=1NTlhFYMNv25VLKRSlq9uBQpKJuepyGwU){:target="_blank"}
-
-#### Top Gear
-
-- Descargar [Top Gear 22](https://drive.google.com/open?id=1vyZ-NLE2G62RN_QlU7QVh44jD8wzZt9n){:target="_blank"}
-- Descargar [Top Gear 21](https://drive.google.com/open?id=1hASSq7c75noGdTCkQ8q_IgMiaVmes_BH){:target="_blank"}
-
-### **Editorial DOLMEN**
+## **Editorial DOLMEN**
 
 Desde la editorial Dolmen ponen a nuestra disposición unos comics y algunos otros libros.
 
 Los títulos son los siguientes: Una historia de Perros Viejos, Cómo Sobrevivir al Apocalipsis Zombi con Tu Madre, Cabezón de Acero, El Libro de Sarah, Apocalipsis Island y De Madrid al Zielo.
-
-- [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"}
 
 ### **Editorial Léeme Libros**
 
@@ -122,18 +119,17 @@ Libros GRATIS con los que Reflexionar estos días: El Poder de las Personas: Un 
 
 ## **Alternativas Videojuegos**
 
+- [Festival de Juegos de Steam](https://www.minds.com/newsfeed/1087377917829427200?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#el-festival-de-juegos-de-steam)
+- [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#28-videojuegos-gratis-desde-la-plataforma-gog)
+
 ### **El Festival de Juegos de Steam**
 
 Edición de primavera te trae docenas de demos para descargar y jugar, así como otros títulos destacados de Indie MEGABOOTH, The MIX, Day of the Devs y WINGS.
 
-- [Festival de Juegos de Steam](https://www.minds.com/newsfeed/1087377917829427200?referrer=rosepac){:target="_blank"}
-
-### **28 videojuegos gratis desde la Plataforma GOG**
+### **Plataforma GOG: 28 videojuegos clásicos gratis**
 
 TU LUGAR PARA CLÁSICOS SIN DRM Y LOS MEJORES JUEGOS INDIE
 Incluso si el sol está brillando y las flores ya han comenzado a florecer donde vives, la salud y la seguridad están en la mente de todos en este momento. Cerrar las cortinas y jugar videojuegos puede ser una de las mejores maneras de relajarse y pasar el tiempo cuando se queda en casa. Estamos aquí para ayudarlo a elegir su próxima gran aventura con esta selección de juegos gratuitos de nuestro catálogo y una gran oferta de primavera hasta el 30 de marzo.
-
-- [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac){:target="_blank"}
 
 ## **Alternativas Musicales**
 
@@ -186,3 +182,14 @@ No son pocas las personas que se han hechado a crear diferentes rutinas de card�
 
 - [Gym Virtual](https://gymvirtual.com/){:target="_blank"} (completo calendario de actividades, para realizar Gymnasio a diario desde casa)
 - [KimFrench87](https://www.instagram.com/p/B8rXjkuBtb8/){:target="_blank"} (rutina de 5 ejercicions con repeticiones cargando peso..)
+
+
+
+
+
+
+
+
+
+
+- [](https://www.minds.com/){:target="_blank"} [👉 Saber Más]()
