@@ -30,7 +30,7 @@ header:
 
 No, este artículo no es una cura contra el coronavirus; porque básicamente y por desgracia, no parecer tener una metodología de cura concreta.
 
-💣 ESTE ARTÍCULO ESTARÁ EN CONSTANTE ACTUALIZACIÓN HASTA EL FIN DEL CONFINAMIENTO<br />(Salvo que le pase algo a mi persona. Que esperemos que no..)
+💣 EN CONSTANTE EVOLUCIÓN (📰 Pendientes por Agregar -regresa pronto- 🤞)<br />(Salvo que le pase algo a mi persona. Que esperemos que no..)
 {: .notice--warning}
 
 Dicho esto, con el ya conocido problema que se ha ido contagiando por más de medio planeta; han nacido, no sé, si cientos de iniciativas (pero seguro que sí, decenas) de iniciativas de diferentes actividades que podemos realizar dentro de nuestra propia casa; puesto que es la única fórmula que parece funcionar para combatir este virus.
@@ -72,7 +72,7 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"}{:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
 - [Estreno The Mandalorian en Cuatro](https://www.cuatro.com/practica-cuatro/estreno-the-mandalorian-primicia-viernes-20_18_2916120153.html){:target="_blank"} (20 de Marzo -22:00 H. Española)
 
-- [Bibliotecas Virtuales en Español -todas-](/biblioteca-novela-poesia/)
+- [Bibliotecas y Revistas Virtuales en Español -todas-](/biblioteca-novela-poesia/)
 
 ## **Libros Gratis: La Casa del Libro**
 
