@@ -12,6 +12,10 @@
     display: none !important;
 }
 
+.no-lista {
+    list-style:none !important;
+}
+
 .page__content {
     font-size: 14px; // originally 16px
     @include breakpoint($medium) {
