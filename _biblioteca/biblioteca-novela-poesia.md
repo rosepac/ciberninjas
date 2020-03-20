@@ -1,16 +1,17 @@
 ---
-title: ▷ Libros GRATIS PDF y Online, encuentra lo que deseas entre miles de novelas y repositorios gratuitos 📚 
+title: ▷ Bibliotecas Online GRATIS PDF y Online, encuentra lo que deseas entre miles de novelas y repositorios gratuitos 📚 
 description: "📖 Miles de libros PDF gratuitos y de dominio publico, novelas clásicas, ciencia, cuentos, revistas y mucho más."
 excerpt: "📖 Miles de libros PDF gratuitos y de dominio publico novelas clásicas, ciencia, cuentos, revistas y mucho más."
 author_profile: true
 published: true
 comments: true
-date: 2019-10-17
+date: 2020-03-20
 last_modified_at: 
 permalink: /biblioteca-novela-poesia/
 canonical_URL: https://ciberninjas.com/biblioteca-novela-poesia/
 header:
-  overlay_image: "https://i.ibb.co/L8qwgDj/photo-1447069387593-a5de0862481e-ixlib-rb-1-2.jpg"
+  teaser: "/assets/images/paginas/libros-clasicos-novelas-historia-revistas.webp"
+  overlay_image: "/assets/images/paginas/libros-clasicos-novelas-historia-revistas.webp"
   image_alt: "📚 Enlaces a Miles de libros PDF gratuitos y de dominio publico."
   image_description: "📚 Enlaces a Miles de libros PDF gratuitos y de dominio publico."
 toc: true
@@ -24,12 +25,15 @@ toc_sticky: true
 
 ## Bibliotecas Web
 
+* [Biblioteca Digital Hispánica](http://bdh.bne.es/bnesearch/Search.do?&destacadas1=Epub&home=true&languageView=es){:target="_blank"}
 * [Dominio Público](http://www.dominiopublico.es){:target="_blank"}
 * [EBiblio](https://www.culturaydeporte.gob.es/cultura/areas/bibliotecas/mc/eBiblio/inicio.html) Catálogo digital del Servicio Público de Bibliotecas de España.
+* [Gutenberg Proyecto, en Español](https://www.gutenberg.org/browse/languages/es)
 * [OMEGALFA](https://omegalfa.es/){:target="_blank"}
   * [Autores - 1.264](https://omegalfa.es/autores.php){:target="_blank"}
   * [Títulos - 3.675](https://omegalfa.es/titulos.php){:target="_blank"}
   * [Temáticas - 72](https://omegalfa.es/temas.php){:target="_blank"}
+* [WikiSource](https://es.wikisource.org/wiki/Portada){:target="_blank"}
 
 * [Biblioteca Científica Sci Hub](https://sci-hub.tw/){:target="_blank"}
 
