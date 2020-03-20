@@ -1,8 +1,8 @@
 ---
-title: "🥇 ▷ Las Mejores Alternativas Culturales para Combatir la Cuarentena por Coronavirus"
+title: "🥇 ▷ Las Mejores Alternativas Culturales #YoMeQuedoEnCasa, #QuedateEnCasa y #FrenaLaCurva para Combatir la Cuarentena por Coronavirus"
 description: "🔥 Actividades online y gratis con las que pasar la cuarentana de la enfermedad del coronavirus"
 excerpt: "🔥 Actividades online y gratis con las que pasar la cuarentana de la enfermedad del coronavirus"
-date: 2020-03-19
+date: 2020-03-20
 canonical_URL: https://ciberninjas.com/alternativas-culturales-combatir-coronavirus/
 permalink: /alternativas-culturales-combatir-coronavirus/
 published: true
@@ -35,11 +35,12 @@ No, este artículo no es una cura contra el coronavirus; porque básicamente y p
 
 Dicho esto, con el ya conocido problema que se ha ido contagiando por más de medio planeta; han nacido, no sé, si cientos de iniciativas (pero seguro que sí, decenas) de iniciativas de diferentes actividades que podemos realizar dentro de nuestra propia casa; puesto que es la única fórmula que parece funcionar para combatir este virus.
 
-Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría de casos; otros a través de Instagram; en la búsqueda de **los siguientes hastags**.
-
 **[#QuedateEnCasa](https://twitter.com/search?q=%23QuedateEnCasa&src=typeahead_click&f=live){:target="_blank"}** **[#FrenaLaCurva](https://frenalacurva.net/){:target="_blank"}** **[#YoMeQuedoEnCasa](https://twitter.com/search?q=%23YoMeQuedoEnCasa%20&src=typed_query&f=live){:target="_blank"}** **[#YoMeQuedoEnMiCasa](){:target="_blank"}** **[#QuedateEnLaCasa](){:target="_blank"}**  **[#quedatencasa](){:target="_blank"}** **[#CuarentenaCoronavirus](){:target="_blank"}**
 
+Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría de casos; otros a través de Instagram; en la búsqueda de **los hastags anteriores**.
+
 ## Alternativas para combatir el coronavirus
+
 <ol class="no-lista">
   <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-tecnológicas">Alternativas Tecnológicas 💻</a></li>
   <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-culturales">Alternativas Culturales 📰</a></li>
@@ -52,7 +53,9 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-## Alternativas Tecnológicas
+## **Alternativas Tecnológicas**
+
+<!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
 ### **Charlas de Desarrolladores de Google España**
 
@@ -63,10 +66,11 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 ## **Alternativas Culturales**
 
 - [Revistar Computer Hoy y de la Editorial Axel Springer](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
-- [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más]()
-- [](https://www.minds.com/){:target="_blank"} [👉 Saber Más]()
+- [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
 - [📖 Libro: Guerreras de la Ciencia GRATIS (Artículos de desarrollo web y programación - inside)
 ](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia)
+- [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
+- [Estreno The Mandalorian en Cuatro](https://www.cuatro.com/practica-cuatro/estreno-the-mandalorian-primicia-viernes-20_18_2916120153.html){:target="_blank"} (20 de Marzo -22:00 H. Española)
 
 ## **Revistas de Computer Hoy**
 
@@ -110,12 +114,24 @@ Doce profesionales especializadas en diferentes campos y disciplinas, se han jun
 El documento es muy extenso, tanto como casi 500 páginas.
 En tanto a lo que nos interesa por aquí, a los Ciberninjas; nos podemos encontrar con artículos sobre bases de datos, desarrollo web y móvil, gestión de proyectos, hardware, inteligencia artificial y minería de texto, lógica, ciencias y matemáticas, programación, seguridad informática y mucho más.
 
+[⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 <!-- Directos A través de Youtube -->
+
+### **Partidos Históricos del Mundial**
+
+Como muchos se enfrentan al aislamiento como resultado de la pandemia global de COVID-19, la FIFA ha lanzado una nueva iniciativa para ayudar a llevar el fútbol a casa, a saber, el lanzamiento de un archivo de partidos de video en múltiples canales de contenido, hasta que se restablezcan las actividades regulares de fútbol en todo el mundo .
+
+A través de la campaña #WorldCupAtHome , las repeticiones completas de más de 30 juegos inolvidables de FIFA World Cup ™ y FIFA Women's World Cup ™ se publicarán por primera vez en FIFA.com, el canal FIFA YouTube y también en Weibo en China como desde el sábado 21 de marzo de 2020. Las repeticiones proporcionarán una experiencia inmersiva con una amplia participación en las redes sociales, brindando a los fanáticos de todo el mundo la oportunidad de seleccionar sus partidos favoritos para retransmitirlos hasta nuevo aviso.
+
+[⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Alternativas Videojuegos**
 
 - [Festival de Juegos de Steam](https://www.minds.com/newsfeed/1087377917829427200?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#el-festival-de-juegos-de-steam)
-- [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#28-videojuegos-gratis-desde-la-plataforma-gog)
+- [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#plataforma-gog-28-videojuegos-clásicos-gratis)
+- Epic Games [Watch Dogs](https://www.epicgames.com/store/es-ES/product/watch-dogs/home){:target="_blank"} y [The Stanley Parable](https://www.epicgames.com/store/es-ES/product/the-stanley-parable/home){:target="_blank"}
+- Steam [Tomb Raider 2013](https://store.steampowered.com/app/203160/Tomb_Raider/){:target="_blank"} + [Lara Croft and the Temple of Osiris](https://store.steampowered.com/app/289690/LARA_CROFT_AND_THE_TEMPLE_OF_OSIRIS/){:target="_blank"} (A partir de las 18 AM del 20 de Marzo)
+<!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
 ### **El Festival de Juegos de Steam**
 
@@ -125,6 +141,8 @@ Edición de primavera te trae docenas de demos para descargar y jugar, así como
 
 TU LUGAR PARA CLÁSICOS SIN DRM Y LOS MEJORES JUEGOS INDIE
 Incluso si el sol está brillando y las flores ya han comenzado a florecer donde vives, la salud y la seguridad están en la mente de todos en este momento. Cerrar las cortinas y jugar videojuegos puede ser una de las mejores maneras de relajarse y pasar el tiempo cuando se queda en casa. Estamos aquí para ayudarlo a elegir su próxima gran aventura con esta selección de juegos gratuitos de nuestro catálogo y una gran oferta de primavera hasta el 30 de marzo.
+
+[⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Alternativas Musicales**
 
@@ -136,6 +154,7 @@ Las retransmisiones son emitidas a través de Instagram.
 - [Instagram Mantita Fest](https://www.minds.com/newsfeed/1087368673935732736?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest)
 - [Cuarentena Festival](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac){:target="_blank"}
  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cuarentena-fest)
+<!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
 ### **Festival Yo Me Quedo en Casa**
 
@@ -147,9 +166,9 @@ Durante el 20, 21 y 22, podrás disfrutar durante media horita de gente como: Ar
 
 TODOS los artistas conectarán desde sus propios perfiles de Instagram, y Además, muchos también se han animado a compartirlo simultáneamente en sus páginas oficiales de Facebook! Así que ya no tenéis razones para perderos ni un concierto! 🤩
 
-Jueves 19: Técanela, Patricia Lázaro, El José, Ágenla González, María Ruíz, Pedro Pastor, Javi Medina, Mundo Chillón, Road Ramos.
-Viernes 20: Capitán Cobarde, Claudia Aquilar, Astola, Lena Carrilero, Felix Antílopez, Sheila Patricia, Jamones con Tacones, Elena Salguero, El Niño del Albayzín.
-Sábado 21: Gato Charro, Arco, Maui, Fran Mariscal, Daniel Mata, Alicia Ramos, María del Tango, Duende de Gaia.
+- ***Jueves 19***: Técanela, Patricia Lázaro, El José, Ágenla González, María Ruíz, Pedro Pastor, Javi Medina, Mundo Chillón, Road Ramos.
+- ***Viernes 20***: Capitán Cobarde, Claudia Aquilar, Astola, Lena Carrilero, Felix Antílopez, Sheila Patricia, Jamones con Tacones, Elena Salguero, El Niño del Albayzín.
+- ***Sábado 21***: Gato Charro, Arco, Maui, Fran Mariscal, Daniel Mata, Alicia Ramos, María del Tango, Duende de Gaia.
 
 ### **Cuarentena Fest**
 
@@ -158,17 +177,46 @@ Música en streaming en tiempos difíciles.
 
 Artistas:
 
-Viernes 20: Evripidis and his Tragedies, Casa Manuela, Megansito El Guapo, Rebe.
-Sábado 21: Mori, Carlota, Alru, Malamute, Elektra Insogna.
-Domingo 22: Papá Topo, Bárbara, Pavvla, Stephen Please.
+- ***Viernes 20***: Evripidis and his Tragedies, Casa Manuela, Megansito El Guapo, Rebe.
+- ***Sábado 21***: Mori, Carlota, Alru, Malamute, Elektra Insogna.
+- ***Domingo 22***: Papá Topo, Bárbara, Pavvla, Stephen Please.
 
-Lunes 23: The Crab Apples, Colectivo Da Silva, Ayalga, Las Hormigas.
-Martes 24: El Petit de Cal Eril, Cariño, Daniel Daniel, Paco Moreno y Sus Rumberos.
-Miércoles 25: Cuchillas, Kora, Lois, Canges.
-Jueves 26: Apartamentos Acapulco, Roldán, Estrella Fugaz, Santi, Angel Calvo.
-Viernes 27:Detergente Líquido, De los Santos, Jose Ignacio Martorell, Betacam, Pixel de Stael.
+- ***Lunes 23***: The Crab Apples, Colectivo Da Silva, Ayalga, Las Hormigas.
+- ***Martes 24***: El Petit de Cal Eril, Cariño, Daniel Daniel, Paco Moreno y Sus Rumberos.
+- ***Miércoles 25***: Cuchillas, Kora, Lois, Canges.
+- ***Jueves 26***: Apartamentos Acapulco, Roldán, Estrella Fugaz, Santi, Angel Calvo.
+- ***Viernes 27***:Detergente Líquido, De los Santos, Jose Ignacio Martorell, Betacam, Pixel de Stael.
+
+[⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Alternativas Educativas**
+
+- [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
+- [Cursos de la Constitución Española para Opositores](https://www.minds.com/newsfeed/1087694009007644672?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#campus-mad-para-opositores)
+- [Aplicación Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más]()
+<!-- - [](){:target="_blank"} [👉 Saber Más]() -->
+
+Como no, nuestros cursos:
+- [Cursos de Programación, Desarrollo Web y Mucho Más](/cursos-tecnologia/)
+- [Cursos para Educadores](/cursos-educacion/)
+- [Cursos de Animación y Diseño](/cursos-animacion-diseno/)
+- [Nuestros Recursos Ciberninjas](https://kutt.it/recursos)
+
+### **Scribd**
+
+Scribd ha decidido abrir su plataforma de forma gratuita, exclusivamente por los próximos 30 días. Scribd, es un sitio web para compartir documentos que permite a los usuarios publicar archivos de diversos formatos e incrustarlos en una página web utilizando su formato iPaper.
+
+### **Aplicación Mosa Lengua Gratis**
+
+### **Campus MAD para Opositores**
+
+Campus MAD ofrece gratuitos por un plazo de 40 días, tres cursos con los que preparar la parte sobre la constitución española referente a los exámenes de oposición.
+
+- Curso 1: Constitución Española
+- Curso 2: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+- Curso 3: Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público
+
+[⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Alternativas Deportivas**
 
@@ -176,5 +224,6 @@ No son pocas las personas que se han hechado a crear diferentes rutinas de card�
 
 - [Gym Virtual](https://gymvirtual.com/){:target="_blank"} (completo calendario de actividades, para realizar Gymnasio a diario desde casa)
 - [KimFrench87](https://www.instagram.com/p/B8rXjkuBtb8/){:target="_blank"} (rutina de 5 ejercicions con repeticiones cargando peso..)
-- 
-<!-- - [](https://www.minds.com/){:target="_blank"} [👉 Saber Más]() -->
+<!-- - [](){:target="_blank"} [👉 Saber Más]() -->
+
+[⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
