@@ -76,9 +76,24 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 
 Algunas editoriales han decidido poner sus ebooks gratuitos de forma solidaria, a través de la página de La Casa del Libro podrás descargar para cualquier E-Reader o Lector Electrónico. Por ejemplo, el [Kindle Paperwhite](https://amzn.to/2lCjLlR){:target="_blank"} o los nuevos Kindle Oasis; disponibles en [color negro](https://amzn.to/2jYgSLP){:target="_blank"} o [color dorado](https://amzn.to/2jZgBZ1){:target="_blank"}.
 
-Los libros disponible son:
+Los libros disponibles son:
 
-- 
+- Laurieh (Flash Relatos) - Stephen King
+- Todo lo que Deberías de Saber de un Robot en mi Jardín - Deborah Install
+- El Archivo de las Tormentas - Brandon Sanderson
+- Fantasía (Flash Relatos) - Emilia Pardo Bazán
+- El Baile Antes de la Batalla - Fellowes Julian
+- Breve Historia de España para Dummies
+- La Vida Prodigiosa de Martín Salazar - Marta Rivera de la Cruz
+- Sueños de un Caminante - José Navarro Hernández
+- Quiero Saber Por qué - Sherwood Anderson
+- Años Felices - Gonzalo Torne
+- Un Buen Detective No Se Casa Jamás - Marta Sanz
+- Encuéntrame (Un puñado de Esperandas) - Irene Mendoza
+- Music Lovers - Centeno Holden
+- La Estupidez Reflejada en un Espejo - Rodolfo Puig Barber
+- Las Horas Robadas - María Solar
+- La Saga Completa de Ever After High
 
 ## **Revistas de Computer Hoy**
 
@@ -137,9 +152,11 @@ A través de la campaña #WorldCupAtHome , las repeticiones completas de más de
 
 - [Festival de Juegos de Steam](https://www.minds.com/newsfeed/1087377917829427200?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#el-festival-de-juegos-de-steam)
 - [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#plataforma-gog-28-videojuegos-clásicos-gratis)
-- Epic Games [Watch Dogs](https://www.epicgames.com/store/es-ES/product/watch-dogs/home){:target="_blank"} y [The Stanley Parable](https://www.epicgames.com/store/es-ES/product/the-stanley-parable/home){:target="_blank"}
-- Steam [Tomb Raider 2013](https://store.steampowered.com/app/203160/Tomb_Raider/){:target="_blank"} + [Lara Croft and the Temple of Osiris](https://store.steampowered.com/app/289690/LARA_CROFT_AND_THE_TEMPLE_OF_OSIRIS/){:target="_blank"} (A partir de las 18 AM del 20 de Marzo)
-- [Gamivo: Un juego Aleatorio Gratis](https://www.gamivo.com/es/product/massive-ultimate-gamivo-clearance-extra-round-eight) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juego-aleatorio-gratis)
+- GoG: [Mable And The Wood](https://www.gog.com/?pp=4b1a62d54f5d635ceffa0118244d63e07779e04a#giveaway){:target="_blank"}
+- Epic Games: [Watch Dogs](https://www.epicgames.com/store/es-ES/product/watch-dogs/home){:target="_blank"} y [The Stanley Parable](https://www.epicgames.com/store/es-ES/product/the-stanley-parable/home){:target="_blank"}
+- Steam: [Tomb Raider 2013](https://store.steampowered.com/app/203160/Tomb_Raider/){:target="_blank"} + [Lara Croft and the Temple of Osiris](https://store.steampowered.com/app/289690/LARA_CROFT_AND_THE_TEMPLE_OF_OSIRIS/){:target="_blank"} (A partir de las 18 AM del 20 de Marzo)
+- Steam: [Deiland](https://store.steampowered.com/app/760620/Deiland/){:target="_blank"} + [Drawful 2](https://store.steampowered.com/app/442070/Drawful_2/){:target="_blank"}
+- [Gamivo: Un juego Aleatorio Gratis](https://www.gamivo.com/es/product/massive-ultimate-gamivo-clearance-extra-round-eight){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juego-aleatorio-gratis)
 - [Juegos GRATIS de Todas las Plataformas](/videojuegos-gratis/)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
@@ -177,7 +194,23 @@ Las retransmisiones son emitidas a través de Instagram.
 
 Sin lugar a dudas la iniciativa musical más brillante de todas las que se han lanzado. Por los nombres que se han logrado juntar, de decenas y decenas de artistas reconocidos a nivel nacional (España) e incluso a nivel internacional.
 
-Durante el 20, 21 y 22, podrás disfrutar durante media horita de gente como: Ariel Rot, Mikel Erentxun, Sidonie, Amaral, Coti, David DeMaría, Coque Malla, Elefantes, Los Secretos, Pastora Soler, Beret, Vanesa Martín, Conchita, Álvaro Soler, Efecto Pasillo, Álex Úbago, Adriana Moragues, Bely Basarte, Rulo, Edurne, Fredi Luis, La Pegatina, Los Fesser, Mantra, Miki Nuñez, Monarchy, Ruiperez (M Clan), St. Woods, Basanta, DJ Nano, Colectivo Panámera, Ele, Garabatto, Luis Ramiro, Marlon, Rafa Pons, Ruth Lorenzo, Sara Roy, Sidecars, Sidonie, Siloé, Smile, Penny Necklace, Rafa Pons, El Verbo Odiado, Floridablanca, Guitarrica De la Fuente, Julia Medina, La La Love You, Los Vinagres, Luis Brea, Luis Fercán, Mabu, Pole, Ramon Mirabet, Rodrigo Cuevas o Sinsinati.
+Día 20
+
+![](/assets/images/blog/20-musica.webp)
+
+Penny Necklace, Rafa Pons, FloridaBlanca, Colectivo Panamera, Julia Medina, Conchita, Marlon, Los Vinagres, Luis Fercán, Elefantes, Vanesa Martín, Beret, Álvaro Soler, Efecto Pasillo, Álex Úbago, Smile, Monarchy.
+
+Día 21
+
+![](/assets/images/blog/21-musica.webp)
+
+Juan Cid, Gritando en Silencio, Alex Gómez, Coco Green, El Verbo Odiado, Basanta, Luis Brea, Adriana Moragues, Rodrigo Cueevas, Ruth Lorenzo, David Demaría, Pastora Soler, Luis Ramiro, Bely Basarte, Fredi Leis, Mikel Erentxun, Amaral, Guitarrica de la Fuente, Sidonie, Coti, Siloé, DJ Nano.
+
+Día 22
+
+![](/assets/images/blog/22-musica.webp)
+
+Alberto Torres, Malva, Naranja, Alejandro Martínez (Sumando Voces), Ele, St. Woods, Mabu, Ruiperez (M Clan), Los Fesser, 84, Edurne, La Pegatina, Coque Malla, Rulo, Ariel Rot, Sidecars, Los Secretos, Sidecars, Miki Nuñez, Sinsinati.
 
 ### **Mantita Fest**
 
