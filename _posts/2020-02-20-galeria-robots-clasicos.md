@@ -1,7 +1,7 @@
 ---
 
 author_profile: true
-comments: true
+comments: false
 classes: wide
 tags:
 - Historia Robótica

@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   🚀 Flutter es un framework multiplataforma, tecnología de desarrollo de aplicaciones móviles que se encuentra en crecimiento durante el año 2020.
 published: true
-comments: true
+comments: false
 date: 2020-02-07 14:44:12
 last_modified_at: 
 header:

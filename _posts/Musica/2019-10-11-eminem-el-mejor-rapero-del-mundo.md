@@ -7,7 +7,7 @@ header:
   video:
     id: playlist?list=PLC0w3lEHx2SF3NsbnqnLbWBWyF_3g0cjZ
     provider: youtube
-comments: true
+comments: false
 date: 2019-10-11 21:20:12
 tags:
 - Rap

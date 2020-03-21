@@ -5,7 +5,7 @@ title: '▷ Komodo IDE: Versión extensa gratis a partir de 2020'
 description: "Komodo IDE dejará de ser un editor de pago; IDE multilingüe para Python, PHP, JavaScript, HTML5, CSS, Node.js, Golang, Ruby, Perl y una variedad de otros lenguajes y frameworks"
 excerpt: "Komodo IDE dejará de ser un editor de pago; IDE multilingüe para Python, PHP, JavaScript, HTML5, CSS, Node.js, Golang, Ruby, Perl y una variedad de otros lenguajes y frameworks"
 published: true
-comments: true
+comments: false
 date: 2020-02-01 16:30:12
 last_modified_at: 
 header:

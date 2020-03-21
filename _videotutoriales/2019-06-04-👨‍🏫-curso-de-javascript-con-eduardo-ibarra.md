@@ -14,7 +14,7 @@ header:
   video:
     id: playlist?list=PLYPjmy5IVxT8ohy6P2k4hNU2PtstqP8Zh
     provider: youtube
-comments: true
+comments: false
 date: 2019-06-04 15:10:00 +0200
 tags:
   - Eduardo Ibarra

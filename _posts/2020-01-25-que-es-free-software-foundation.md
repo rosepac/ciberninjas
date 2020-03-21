@@ -4,7 +4,7 @@ title: "▷ ¿Qué es la Free Software Foundation?"
 description: "Introducción y explicación de quién es y qué hace la Fundación de Software Libre."
 excerpt: "Introducción y explicación de quién es y qué hace la Fundación de Software Libre."
 published: true
-comments: true
+comments: false
 date: 2020-01-25 15:10:12
 last_modified_at: 
 header:

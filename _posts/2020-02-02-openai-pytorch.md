@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   🤖 Estamos estandarizando el framework de aprendizaje profundo de OpenAI: PyTorch. En el pasado, implementamos proyectos en muchos frameworks dependientes de la inteligencia artificial..
 published: true
-comments: true
+comments: false
 date: 2020-02-02 02:30:12
 last_modified_at: 
 header:

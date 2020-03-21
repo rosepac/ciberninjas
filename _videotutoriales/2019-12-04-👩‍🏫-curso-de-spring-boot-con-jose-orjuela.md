@@ -10,7 +10,7 @@ header:
   video:
     id: playlist?list=PL2gu2Qe_CGFmDp46_V0slsKsIqCuRnTTE
     provider: youtube
-comments: true
+comments: false
 date: 2019-12-04 17:42:00 +0200
 tags:
   - José Orjuela

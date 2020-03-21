@@ -4,7 +4,7 @@ title: "▷ Mapa Interactivo de Proyectos y Empresas de Cloud Native 2020 👨�
 description: "🌟 Panórama de todas las empresas y proyectos que existen relacionados con la Nube Nativa o Cloud Native"
 excerpt: "🌟 Panórama de todas las empresas y proyectos que existen relacionados con la Nube Nativa o Cloud Native"
 published: true
-comments: true
+comments: false
 classes: wide
 date: 2020-01-22 17:27:12
 last_modified_at: 

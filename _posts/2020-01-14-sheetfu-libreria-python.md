@@ -4,7 +4,7 @@ title: "▷ Sheetfu: Librería de Python para interactuar con la API de Google S
 description: "Librería que enlaza Python con las tablas de las hojas de cálculados de Google Docs: Google Sheets"
 excerpt: "Librería que enlaza Python con las tablas de las hojas de cálculados de Google Docs: Google Sheets"
 published: true
-comments: true
+comments: false
 date: 2020-01-15 19:10:12
 last_modified_at: 
 canonical_URL: /sheetfu-libreria-python/

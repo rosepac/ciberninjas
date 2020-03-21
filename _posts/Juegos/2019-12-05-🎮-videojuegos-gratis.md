@@ -20,7 +20,7 @@ header:
 #      url: "/videojuegos/"
 #    - label: "Disney"
 #      url: "/disney-frozen-amazon/"
-comments: true
+comments: false
 date: 2019-12-05 18:00:00 +0200
 last_modified_at: 2020-02-21 13:39:18 +0200
 published: true

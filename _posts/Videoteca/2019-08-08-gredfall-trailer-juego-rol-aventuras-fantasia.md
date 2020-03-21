@@ -7,7 +7,7 @@ header:
   video:
     id: jYkqIWUNzPE
     provider: youtube
-comments: true
+comments: false
 date: 2019-08-08 20:36:12
 classes: wide
 tags:

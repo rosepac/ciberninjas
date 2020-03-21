@@ -3,7 +3,7 @@ title: "👨‍💻 ▷ Hacker News, Toda la Información que Necesitas desde Ce
 description: "👨‍💻 ▷ Hacker News, Toda la Información que Necesitas desde Cero."
 excerpt: "👨‍💻 ▷ Hacker News, Toda la Información que Necesitas desde Cero."
 published: false
-comments: true
+comments: false
 date: 2018-10-23
 last_modified_at: 
 permalink: /hacker-news/

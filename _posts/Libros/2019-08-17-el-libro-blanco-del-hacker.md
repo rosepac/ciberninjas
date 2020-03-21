@@ -1,7 +1,7 @@
 ---
 author_profile: false
 title: "🔐 El Libro Blanco del Hacker"
-comments: true
+comments: false
 date: 2019-08-17 11:27:55
 tags:
 - Libro

@@ -10,7 +10,7 @@ header:
   video:
     id: playlist?list=PLwn-XfzoSREWxmR1jfrv7pXMo84fAXoYu
     provider: youtube
-comments: true
+comments: false
 date: 2019-12-04 18:08:00 +0200
 tags:
   - 4SoftwareDevelopers

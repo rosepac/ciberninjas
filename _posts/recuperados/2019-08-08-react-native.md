@@ -3,7 +3,7 @@ layout: post
 title: React Native
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-06-14 06:06:37
 tags: [ ]
 categories: [ ]

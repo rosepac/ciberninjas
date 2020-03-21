@@ -5,7 +5,7 @@ title: '▷ Las Mejores Herramientas de SQL Server para 2020'
 description: "Herramientas de terceros para realizar revisiones de bases de datos desde un servidor de SQL"
 excerpt: "Herramientas de terceros para realizar revisiones de bases de datos desde un servidor de SQL"
 published: true
-comments: true
+comments: false
 date: 2020-02-01 13:10:12
 last_modified_at: 
 header:

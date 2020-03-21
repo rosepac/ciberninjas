@@ -4,7 +4,7 @@ title: '▷ Vidgear: Librería de Python para el procesamiento de vídeo 🐍'
 description: "Librería de procesamiento de video en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"
 excerpt: "Librería de procesamiento de video en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"
 published: true
-comments: true
+comments: false
 date: 2020-01-15 19:10:12
 last_modified_at: 
 canonical_URL: /vidgear-libreria-python/

@@ -11,7 +11,7 @@ permalink: /activismo-digital/
 #   image_description: "Noticias sobre la actualidad de la Ecología"
 #   image_alt: "Noticias sobre la actualidad de la Ecología"
 #   caption: "Noticias sobre la actualidad de la Ecología"
-comments: true
+comments: false
 date: 2020-01-13 14:02:00 +0100
 last_modified_at:
 published: true

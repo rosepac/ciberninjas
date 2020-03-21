@@ -3,7 +3,7 @@ layout: post
 title: 'Evolucionando la cultura de experimentación de Firefox: en agradecimiento al programa Test Pilot'
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-21 04:01:44
 tags:
     - experimentación

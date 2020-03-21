@@ -5,7 +5,7 @@ title: >
     criptográficos, ahora Tailandia
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-09 07:01:14
 tags:
     - actualidad

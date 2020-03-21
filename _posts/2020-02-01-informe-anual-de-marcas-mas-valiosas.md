@@ -4,7 +4,7 @@ title: '▷ Global 500: Informe Anual sobre las Marcas Más Valiosas del Mundo d
 description: "Informes que proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor global de las marcas tecnológicas más valiosas"
 excerpt: "Informes que proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor global de las marcas tecnológicas más valiosas"
 published: true
-comments: true
+comments: false
 date: 2020-02-01 12:10:12
 last_modified_at: 
 header:

@@ -10,7 +10,7 @@ header:
   video:
     id: playlist?list=PLcIHm18h1i4nD4H8tPeID8PNiKsm4VZm5
     provider: youtube
-comments: true
+comments: false
 date: 2019-12-04 17:46:00 +0200
 tags:
   - Byte Code

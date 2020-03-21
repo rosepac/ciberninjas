@@ -7,7 +7,7 @@ header:
   video:
     id: playlist?list=PLKMVpZCIGhq1kyrlyzHvehrqy4k0QlX4h
     provider: youtube
-comments: true
+comments: false
 date: 2019-10-10 23:11:12
 tags:
 - Rock

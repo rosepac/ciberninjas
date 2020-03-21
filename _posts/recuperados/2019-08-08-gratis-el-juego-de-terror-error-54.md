@@ -3,7 +3,7 @@ layout: post
 title: 'Gratis, el juego de terror: Error #54'
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2018-12-20 04:12:08
 tags:
     - juego

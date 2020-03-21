@@ -7,7 +7,7 @@ tags:
   - Libro
   - Planeta (Editorial)
   - Edward Snowden
-comments: true
+comments: false
 date: 2019-09-14 06:20:00 +0200
 permalink: /catalogo/vigilancia-permanente/
 description: >-

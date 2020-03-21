@@ -4,7 +4,7 @@ description: '📰 👩‍🚀 El Mejor Canal de Noticias sobre Javascript en Di
 excerpt: '📰 👩‍🚀 El Mejor Canal de Noticias sobre Javascript en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Lenguaje de Programación Javascript'
 published: true
 author_profile: true
-comments: true
+comments: false
 date: 2020-02-28 15:20:18
 last_modified_at: 
 permalink: /javascript-directo/

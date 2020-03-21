@@ -3,7 +3,7 @@ layout: post
 title: Gratis, el juego Surrogate
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2018-12-20 04:12:40
 tags:
     - 3D

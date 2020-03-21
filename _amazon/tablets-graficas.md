@@ -6,7 +6,7 @@ excerpt: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tec
 permalink: /tablets-graficas/
 canonical_URL: https://ciberninjas.com/tablets-graficas/
 published: true
-comments: true
+comments: false
 date: 2019-11-29 22:14:00 +0200
 header:
   teaser: 'https://i.ibb.co/s9sNcjL/tablet-diseno-grafico.gif'

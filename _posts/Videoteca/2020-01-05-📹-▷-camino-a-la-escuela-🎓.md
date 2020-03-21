@@ -7,7 +7,7 @@ excerpt: "Camino a la escuela&#039; narra las adversidades que cuatro niños tie
 #   video:
 #     id: Z78aaeJR8no
 #     provider: youtube
-comments: true
+comments: false
 date: 2020-01-05 00:00:00 +0200
 classes: wide
 tags:

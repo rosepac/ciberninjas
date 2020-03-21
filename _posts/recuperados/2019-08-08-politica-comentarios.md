@@ -3,7 +3,7 @@ layout: post
 title: Política de Comentarios
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2018-12-03 11:12:03
 tags: [ ]
 categories: [ ]

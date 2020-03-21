@@ -3,7 +3,7 @@ title: "🤖 ▷ Robots.txt: Un estándar para la exclusión de robots"
 description: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
 excerpt: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
 published: true
-comments: true
+comments: false
 author_profile: true
 date: 2020-03-10
 last_modified_at: 

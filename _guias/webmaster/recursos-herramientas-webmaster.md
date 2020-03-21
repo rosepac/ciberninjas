@@ -4,7 +4,7 @@ author_profile: true
 description: "📌 Las mejores herramientas para Webmaster, conviértete en el mejor gestor de páginas web del mundo"
 excerpt: "📌 Las mejores herramientas para Webmaster, conviértete en el mejor gestor de páginas web del mundo"
 published: true
-comments: true
+comments: false
 date: 2020-02-27
 last_modified_at: 
 permalink: /recursos-herramientas-webmaster/

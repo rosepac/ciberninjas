@@ -5,7 +5,7 @@ excerpt: '👩‍🚀 Instalando DevTools para Dart y Flutter creada por Google.
 description: '👩‍🚀 Instalando DevTools para Dart y Flutter creada por Google.'
 published: true
 author_profile: true
-comments: true
+comments: false
 classes: wide
 date: 2020-01-31 12:05:33
 last_modified_at: 

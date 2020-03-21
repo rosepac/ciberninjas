@@ -8,7 +8,7 @@ tags:
   - Libro
   - Grijalbo (Editorial)
   - Ken Robinson
-comments: true
+comments: false
 date: 2020-02-09 23:10:00 +0100
 permalink: /catalogo/tu-tu-hijo-la-escuela/
 description: >-

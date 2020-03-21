@@ -5,7 +5,7 @@ excerpt: '👩‍🚀 Primeros pasos de uso de la vista de memoria de DevTools s
 description: '👩‍🚀 Primeros pasos de uso de la vista de memoria de DevTools sobre Flutter.'
 published: true
 author_profile: true
-comments: true
+comments: false
 classes: wide
 date: 2020-01-31 13:20:33
 last_modified_at: 

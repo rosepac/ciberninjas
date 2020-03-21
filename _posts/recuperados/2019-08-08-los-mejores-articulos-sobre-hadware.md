@@ -3,7 +3,7 @@ layout: post
 title: Los mejores artículos sobre hardware 🖥
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-03-25 11:03:48
 tags: [ ]
 categories: [ ]

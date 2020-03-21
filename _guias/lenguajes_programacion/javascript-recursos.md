@@ -15,7 +15,7 @@ header:
     - label: "Aprender Javascript"
       url: "/javascript/"
 author_profile: true
-comments: true
+comments: false
 date: 2020-02-28 18:15:18
 last_modified_at: 
 permalink: /javascript-recursos/

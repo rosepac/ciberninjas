@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   🚀 Flutter es una tecnología con la que desarrollar aplicaciones iOS y Android con Flutter y que es tendencia este año. Aquí tienes los mejores fondos de pantalla para tu ordenador
 published: true
-comments: true
+comments: false
 date: 2020-02-10 14:50:12
 last_modified_at: 
 header:

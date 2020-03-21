@@ -5,7 +5,7 @@ published: true
 description: "✅ Con el framework MAVO serás capaz de crear aplicaciones simplemente desde la construcción a través del uso más avanzado del HTML"
 excerpt: "✅ Con el framework MAVO serás capaz de crear aplicaciones simplemente desde la construcción a través del uso más avanzado del HTML"
 author_profile: true
-comments: true
+comments: false
 classes: wide
 date: 2017-06-03 03:06:40
 tags:

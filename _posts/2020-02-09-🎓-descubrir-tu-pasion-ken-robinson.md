@@ -7,7 +7,7 @@ tags:
   - Libro
   - Debolsillo (Editorial)
   - Ken Robinson
-comments: true
+comments: false
 date: 2020-02-09 21:10:00 +0100
 permalink: /catalogo/descubrir-tu-pasion/
 description: >-

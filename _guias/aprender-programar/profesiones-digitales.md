@@ -4,7 +4,7 @@ description: "📌 Lista completa de todas las profesiones del campo de la tecno
 excerpt: "📌 Lista completa de todas las profesiones del campo de la tecnología existentes y todas las tecnologías requeridas para cada puesto de trabajo indicado 😜."
 author_profile: true
 published: true
-comments: true
+comments: false
 date: 2020-03-13
 last_modified_at:
 permalink: /profesiones-digitales/

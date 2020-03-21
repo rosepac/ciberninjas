@@ -4,7 +4,7 @@ title: "▷ Experimentos de Bienestar Digital para Android de Google"
 description: "Los experimentos de bienestar digital es una muestra de ideas y herramientas que ayudan a las personas a encontrar un mejor equilibrio con la tecnología."
 excerpt: "Los experimentos de bienestar digital es una muestra de ideas y herramientas que ayudan a las personas a encontrar un mejor equilibrio con la tecnología."
 published: true
-comments: true
+comments: false
 date: 2020-01-23 10:07:12
 last_modified_at: 
 canonical_URL: /experimentos-bienestar-digital/

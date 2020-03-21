@@ -6,7 +6,7 @@ excerpt: "💻 Las mejores ofertas de Amazon en sus Dispositivos de Casa Intelig
 permalink: /black-friday-amazon/
 canonical_URL: https://ciberninjas.com/black-friday-amazon/
 published: false
-comments: true
+comments: false
 date: 2019-11-29 05:26:00 +0200
 header:
   teaser: 'https://i.ibb.co/R2WZfKG/black-friday-day.gif'

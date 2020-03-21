@@ -3,7 +3,7 @@ layout: post
 title: Música para programar 2019. Versión 1
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-06-05 08:06:15
 tags:
     - audio

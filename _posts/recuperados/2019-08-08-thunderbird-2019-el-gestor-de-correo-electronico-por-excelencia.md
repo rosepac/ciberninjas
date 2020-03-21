@@ -5,7 +5,7 @@ title: >
     excelencia
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-14 06:01:24
 tags:
     - "2019"

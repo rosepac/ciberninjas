@@ -10,7 +10,7 @@ header:
   video:
     id: playlist?list=PLLJJqiFt6VPoI90Kp8MpHAArpqGND8tSB
     provider: youtube
-comments: true
+comments: false
 date: 2020-01-20 15:35:00 +0200
 # tags:
 #   - Jap Software

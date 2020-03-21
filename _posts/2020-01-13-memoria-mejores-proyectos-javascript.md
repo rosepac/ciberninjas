@@ -4,7 +4,7 @@ title: "▷ Análisis y Memoria 2020: Los mejores proyectos de Javascript 👨�
 description: "🌟 Las librerías de Javascript de código abierto más usadas y premiadas dentro de Github, análisis de seguimiento anual"
 excerpt: "🌟 Las librerías de Javascript de código abierto más usadas y premiadas dentro de Github, análisis de seguimiento anual"
 published: true
-comments: true
+comments: false
 classes: wide
 date: 2020-01-13 23:27:12
 last_modified_at: 

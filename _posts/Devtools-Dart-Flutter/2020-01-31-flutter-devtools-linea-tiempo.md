@@ -5,7 +5,7 @@ excerpt: '👩‍🚀 Primeros pasos de uso de la línea de tiempo de DevTools s
 description: '👩‍🚀 Primeros pasos de uso de la línea de tiempo de DevTools sobre Flutter.'
 published: true
 author_profile: true
-comments: true
+comments: false
 classes: wide
 date: 2020-01-31 12:45:33
 last_modified_at: 

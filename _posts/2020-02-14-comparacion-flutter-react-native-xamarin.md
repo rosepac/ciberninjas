@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   🔍 Xamarin, React Native y Flutter: Analizamos las ventajas y desventajas entre tres de los frameworks o SDK multiplataforma más potentes y usados en 2019/2020
 published: true
-comments: true
+comments: false
 date: 2020-02-14 14:10:12
 last_modified_at: 
 header:

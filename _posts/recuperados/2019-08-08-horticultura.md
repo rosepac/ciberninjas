@@ -3,7 +3,7 @@ layout: post
 title: Horticultura
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-03-30 02:03:31
 tags: [ ]
 categories: [ ]

@@ -3,7 +3,7 @@ layout: post
 title: Ciberseguridad, aprender desde cero todo lo que debes saber
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-07-17 05:07:32
 tags: [ ]
 categories: [ ]

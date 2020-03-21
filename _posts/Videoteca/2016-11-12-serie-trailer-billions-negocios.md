@@ -7,7 +7,7 @@ header:
   video:
     id: 8u51ZY2a3Sc
     provider: youtube
-comments: true
+comments: false
 date: 2016-11-12 22:06:12
 classes: wide
 tags:

@@ -10,7 +10,7 @@ header:
   video:
     id: Ahv81c-VmM4
     provider: youtube
-comments: true
+comments: false
 date: 2019-12-04 18:01:00 +0200
 # tags:
 #   - Albert Coronado

@@ -1,7 +1,7 @@
 ---
 author_profile: false
 title: "🔐 El Enemigo Conoce el Sistema"
-comments: true
+comments: false
 date: 2019-08-14 20:24:54
 tags:
 - Libro

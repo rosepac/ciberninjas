@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   El lenguaje de programación Rust creado por Mozilla ha alcanzado un punto óptimo en el mundo de la programación de sistemas.
 published: true
-comments: true
+comments: false
 date: 2020-02-05 10:31:12
 last_modified_at: 
 header:

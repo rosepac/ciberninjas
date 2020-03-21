@@ -3,7 +3,7 @@ title: 🗞 ▷ Prensa y Revistas Alternativas de España
 description: "🗞 ▷ Prensa y Revistas Alternativas de España."
 excerpt: "🗞 ▷ Prensa y Revistas Alternativas de España."
 published: true
-comments: true
+comments: false
 date: 2019-10-17
 last_modified_at: 
 permalink: /prensa-alternativa/

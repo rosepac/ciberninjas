@@ -4,7 +4,7 @@ title: "▷ ¿Qué es Tekton? Novedades y Cambios"
 description: "Descubre este recurso de organización para el trabajo de la integración continua"
 excerpt: "Vas a encontrarte explicado el concepto de interoperabilidad dentro del mundo CI / CD además del equipo de trabajo sobre el desarrollo del término en sí"
 published: true
-comments: true
+comments: false
 date: 2020-01-22 19:10:12
 last_modified_at: 
 header:

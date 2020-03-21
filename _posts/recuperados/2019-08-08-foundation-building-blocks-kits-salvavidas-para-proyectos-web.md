@@ -3,7 +3,7 @@ layout: post
 title: 'Foundation Building Blocks: kits salvavidas para proyectos web'
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2017-05-16 03:05:35
 tags:
     - componentes

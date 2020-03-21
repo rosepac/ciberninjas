@@ -317,10 +317,10 @@ tag_archive:
   type: liquid
   path: /etiqueta/
 
-comments:
-  provider: "facebook"
-  facebook:
-    num_posts: 10 # 5 (default)
+# comments:
+#   provider: "facebook"
+#   facebook:
+#     num_posts: 10 # 5 (default)
 
 # Pie de Página
 footer:

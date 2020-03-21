@@ -7,7 +7,7 @@ permalink: /auriculares-diseño/
 canonical_URL: https://ciberninjas.com/auriculares-diseño/
 published: true
 classes: wide
-comments: true
+comments: false
 date: 2019-11-29 15:32:01 +0200
 header:
   teaser: /assets/images/paginas/los-mejores-dispositivos/auriculares-diseno.webp

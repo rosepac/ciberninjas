@@ -5,7 +5,7 @@ title: >
     editor de Wordpress
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2018-12-19 12:12:45
 tags:
     - edición

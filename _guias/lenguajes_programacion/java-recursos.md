@@ -4,7 +4,7 @@ description: '🔨 🐍 Los Mejores Recursos con los que Aprender Go'
 excerpt: '🔨 🐍 Los Mejores Recursos con los que Aprender Go'
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2020-01-02 12:06:18
 last_modified_at: 
 permalink: /java-recursos/

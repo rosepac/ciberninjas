@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   Vamos a conocer las mejores tecnologías de realización de pruebas automatizadas sobre UI: Como Selenium, Appium, Junit, CodedUI, Etc.
 published: true
-comments: true
+comments: false
 date: 2020-02-03 12:15:12
 last_modified_at: 
 header:

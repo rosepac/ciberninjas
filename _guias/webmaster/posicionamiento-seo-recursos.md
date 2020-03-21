@@ -4,7 +4,7 @@ author_profile: true
 description: "📌 Posicionamiento Web y SEO. Los mejores enlaces, aplicaciones y herramientas que existen."
 excerpt: "📌 Posicionamiento Web y SEO. Los mejores enlaces, aplicaciones y herramientas que existen."
 published: true
-comments: true
+comments: false
 date: 2020-03-11
 last_modified_at: 
 permalink: /posicionamiento-seo-recursos/

@@ -4,7 +4,7 @@ title: "▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PN
 description: "Los mejores tutoriales, cursos y artículos sobre machine learning / aprendizaje profundo para 2020"
 excerpt: "Los mejores tutoriales, cursos y artículos sobre machine learning / aprendizaje profundo para 2020"
 published: true
-comments: true
+comments: false
 date: 2020-03-13 23:20:12
 last_modified_at:
 canonical_URL: /aprendizaje-automatico-cursos-ingles/

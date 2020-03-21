@@ -4,7 +4,7 @@ title: "👨‍💻 Cómo crear un lenguaje de programación desde cero"
 description: "Manual y Consejos de para crear un lenguaje de programación por completo"
 excerpt: "Manual y Consejos de para crear un lenguaje de programación por completo"
 published: true
-comments: true
+comments: false
 date: 2020-01-02 17:35:12
 last_modified_at: 2020-01-02 17:45:12
 canonical_URL: /manual-crear-lenguaje-programacion/

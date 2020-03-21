@@ -3,7 +3,7 @@ layout: post
 title: Cursos de Bases de Datos en Español
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2018-12-01 07:12:09
 tags:
     - acceso

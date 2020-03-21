@@ -5,7 +5,7 @@ title: '▷ Las Más de 100 Mejores Herramientas para Desarrolladores de 2019'
 description: "Qué hay de nuevo en la versión beta 5.2 del lenguaje de programación Swift"
 excerpt: "Qué hay de nuevo en la versión beta 5.2 del lenguaje de programación Swift"
 published: false
-comments: true
+comments: false
 date: 2020-02-14 15:10:12
 last_modified_at: 
 header:

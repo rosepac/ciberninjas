@@ -7,7 +7,7 @@ header:
   video:
     id: _Fwmb5kvkOs
     provider: youtube
-comments: true
+comments: false
 date: 2019-08-29 00:00:00 +0200
 classes: wide
 tags:

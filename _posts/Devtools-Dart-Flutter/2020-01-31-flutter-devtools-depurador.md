@@ -5,7 +5,7 @@ excerpt: '👩‍🚀 Primeros pasos de uso de el depurador de DevTools sobre Fl
 description: '👩‍🚀 Primeros pasos de uso de el depurador de DevTools sobre Flutter.'
 published: true
 author_profile: true
-comments: true
+comments: false
 classes: wide
 date: 2020-01-31 13:34:33
 last_modified_at: 

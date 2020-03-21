@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   \U0001F916 Hay muchos recursos disponibles para que los principiantes desarrollen sus conocimientos y habilidades, o incluso descubran si este camino es para ellos..
 published: true
-comments: true
+comments: false
 date: 2020-03-13 10:30:12
 last_modified_at: 
 header:

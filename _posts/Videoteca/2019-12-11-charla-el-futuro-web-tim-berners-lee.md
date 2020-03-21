@@ -7,7 +7,7 @@ header:
   video:
     id: OM6XIICm_qo
     provider: youtube
-comments: true
+comments: false
 date: 2019-12-11 20:28:02
 classes: wide
 tags:

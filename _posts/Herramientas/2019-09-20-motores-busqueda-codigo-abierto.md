@@ -5,7 +5,7 @@ description: '🔍 El software de motor de búsqueda de datos de código abierto
 excerpt: '🔍 El software de motor de búsqueda de datos de código abierto puede recopilar datos estructurados y no estructurados. Aquí está el mejor software de motor de búsqueda de código abierto disponible.'
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-07-18 05:07:26
 header:
   overlay_image: '/assets/images/generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg'

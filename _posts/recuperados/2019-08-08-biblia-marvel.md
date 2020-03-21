@@ -5,7 +5,7 @@ title: >
     Diálogos de sus Películas
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-07-13 01:07:37
 tags:
     - guion

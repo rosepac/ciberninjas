@@ -7,7 +7,7 @@ header:
   video:
     id: gODzdiZ4Gj8
     provider: youtube
-comments: true
+comments: false
 date: 2020-01-30 13:01:00 +0200
 classes: wide
 tags:

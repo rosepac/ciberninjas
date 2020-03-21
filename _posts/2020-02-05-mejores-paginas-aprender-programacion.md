@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   Vamos a recopilar los mejores sitios web gratuitos en los que se reunen y comparten los mejores recursos del mundo y tutoriales con los que poder aprender a programar cualquier tecnología.
 published: false
-comments: true
+comments: false
 date: 2020-02-05 10:31:12
 last_modified_at: 
 header:

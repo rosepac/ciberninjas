@@ -3,7 +3,7 @@ layout: post
 title: Proyectos Realizados
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2018-12-01 02:12:14
 tags: [ ]
 categories: [ ]

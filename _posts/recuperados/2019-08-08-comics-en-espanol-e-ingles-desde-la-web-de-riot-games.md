@@ -3,7 +3,7 @@ layout: post
 title: Cómics en español e inglés desde la web de Riot Games
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-09 09:01:29
 tags:
     - comic

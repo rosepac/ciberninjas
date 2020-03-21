@@ -4,7 +4,7 @@ description: 'Descubre cuáles son los 3 mejores motores de videojuegos para dis
 excerpt: 'Descubre cuáles son los 3 mejores motores de videojuegos para diseñadores de juegos de todos los niveles y conjuntos de habilidades. ¿Unity sigue siendo uno de los mejores, pero existen más?'
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2020-01-14 22:22:22
 last_modified_at: 
 permalink: /videojuegos/

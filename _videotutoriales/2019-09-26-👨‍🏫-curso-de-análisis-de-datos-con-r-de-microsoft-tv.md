@@ -5,7 +5,7 @@ description: "\U0001F9E0 Curso de Análisis de Datos con R de Microsoft TV"
 excerpt: "\U0001F9E0 Curso de Análisis de Datos con R de Microsoft TV"
 permalink: /curso-analisis-datos-r-microsoft-tv
 canonical_URL: 'https://ciberninjas.com/curso-analisis-datos-r-microsoft-tv'
-comments: true
+comments: false
 date: 2019-09-26 02:00:00 +0200
 tags:
   - Microsoft

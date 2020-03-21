@@ -5,7 +5,7 @@ title: >
     hora de utilizarlo!
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-06 07:01:10
 tags:
     - anonimato

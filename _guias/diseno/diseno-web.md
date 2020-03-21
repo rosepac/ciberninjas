@@ -4,7 +4,7 @@ description: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera
 excerpt: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera página web hasta lograr ser diseñadores web expertos'
 published: true
 author_profile: true
-comments: true
+comments: false
 classes: wide
 header:
   teaser: /assets/images/paginas/diseno-web-unsplash.webp

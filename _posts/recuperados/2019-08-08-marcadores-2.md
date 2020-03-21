@@ -3,7 +3,7 @@ layout: post
 title: Marcadores
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2018-12-15 06:12:03
 tags: [ ]
 categories: [ ]

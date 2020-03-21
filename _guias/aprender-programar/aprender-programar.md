@@ -5,7 +5,7 @@ excerpt: "✅ Los mejores libros y herramientas para aprender a programar como u
 author_profile: true
 published: true
 author_profile: true
-comments: true
+comments: false
 date: 2020-02-27
 last_modified_at: 
 permalink: /programar/

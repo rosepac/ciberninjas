@@ -5,7 +5,7 @@ title: >
     Wordpress
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-08 12:01:01
 tags:
     - amp

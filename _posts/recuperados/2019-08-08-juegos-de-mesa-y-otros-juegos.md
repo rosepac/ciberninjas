@@ -3,7 +3,7 @@ layout: post
 title: Juegos de Mesa y Otros Juegos
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-03-30 01:03:42
 tags: [ ]
 categories: [ ]

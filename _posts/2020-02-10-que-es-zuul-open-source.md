@@ -5,7 +5,7 @@ title: '▷ Introducción a Zuul para mejorar el CI / CD'
 description: "Una historia rápida de cómo y por qué Zuul está reemplazando a Jenkins en las pruebas de CI en la comunidad OpenStack"
 excerpt: "Una historia rápida de cómo y por qué Zuul está reemplazando a Jenkins en las pruebas de CI en la comunidad OpenStack"
 published: true
-comments: true
+comments: false
 date: 2020-02-10 10:20:12
 last_modified_at: 
 header:

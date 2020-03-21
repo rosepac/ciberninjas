@@ -3,7 +3,7 @@ author_profile: true
 title: 8 Mejores Alternativas de Jenkins en 2020
 description: 8 Mejores Alternativas de Jenkins en 2020
 excerpt: 8 Mejores Alternativas de Jenkins en 2020
-comments: true
+comments: false
 classes: wide
 date: 2020-10-24 17:50:00 +0200
 tags:

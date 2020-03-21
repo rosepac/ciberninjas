@@ -10,7 +10,7 @@ header:
   video:
     id: playlist?list=PLvimn1Ins-40wR4PC-YtTQ5TKt3vRrVwl
     provider: youtube
-comments: true
+comments: false
 date: 2019-12-10 18:20:00 +0200
 tags:
   - Mitocode

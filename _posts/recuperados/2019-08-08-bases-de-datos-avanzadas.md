@@ -3,7 +3,7 @@ layout: post
 title: Bases de Datos Avanzadas
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-02-13 08:02:32
 tags:
     - acceso

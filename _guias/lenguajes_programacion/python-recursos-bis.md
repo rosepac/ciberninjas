@@ -4,7 +4,7 @@ description: '🔨 🐍 Los Mejores Recursos, Chuletas y Enlaces con los que Apr
 excerpt: '🔨 🐍 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-10-08 12:06:18
 last_modified_at: 
 permalink: /python-recursos/

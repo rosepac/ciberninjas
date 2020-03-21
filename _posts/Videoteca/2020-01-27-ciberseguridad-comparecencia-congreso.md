@@ -7,7 +7,7 @@ header:
   video:
     id: 5hveqvkQUaA
     provider: youtube
-comments: true
+comments: false
 canonical_URL: https://ciberninjas.com/configuracion-software-cuestion-politica/
 date: 2020-01-27 09:55:02
 classes: wide

@@ -7,7 +7,7 @@ last_modified_at: 2019-10-19 16:25:00 +0200
 author_profile: true
 permalink: /hirens-bootcd-pe/
 canonical_URL: https://ciberninjas.com/hirens-bootcd-pe/
-comments: true
+comments: false
 header:
   teaser: "https://i.ibb.co/BNcB3fq/Hirens-Boot-CD-PE-1200x675.png"
   overlay_image: "https://i.ibb.co/BNcB3fq/Hirens-Boot-CD-PE-1200x675.png"

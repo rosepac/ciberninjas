@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   🤖 TensorFlow es una biblioteca de software de código abierto desarrollada por Google para el cálculo numérico con gráficos de flujo de datos. Esta guía TensorFlow cubre por qué la biblioteca es importante, cómo usarla y más.
 published: true
-comments: true
+comments: false
 date: 2020-03-13 13:08:12
 last_modified_at: 
 header:

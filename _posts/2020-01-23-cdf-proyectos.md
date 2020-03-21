@@ -4,7 +4,7 @@ title: "▷ Se celebra la Cumbre de la Fundación CD: Nuevos miembros y los obje
 description: "La membresía de CD Foundation crece a 33 compañías en todo el mundo, incluidos los miembros Premier CapitalOne, CircleCI, Cloudbees, Google, Huawei, IBM, jFrog, Netflix y Salesforce"
 excerpt: "La membresía de CD Foundation crece a 33 compañías en todo el mundo, incluidos los miembros Premier CapitalOne, CircleCI, Cloudbees, Google, Huawei, IBM, jFrog, Netflix y Salesforce"
 published: false
-comments: true
+comments: false
 date: 2019-11-19 19:10:12
 last_modified_at: 
 published: false

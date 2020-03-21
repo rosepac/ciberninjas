@@ -3,7 +3,7 @@ layout: post
 title: Curso Introducción a Laravel 5
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-02-02 03:02:06
 tags:
     - framework

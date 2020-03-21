@@ -3,7 +3,7 @@ layout: post
 title: "Buscando difusión del contenido del blog, me inscribo en Bloglovin' 📖"
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-21 12:01:41
 tags:
     - blog

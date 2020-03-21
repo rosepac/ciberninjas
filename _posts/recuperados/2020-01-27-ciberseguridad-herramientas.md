@@ -4,7 +4,7 @@ description: 'Las mejores herramientas que existen sobre ciberseguridad, segurid
 excerpt: 'Las mejores herramientas que existen sobre ciberseguridad, seguridad digital, hacking ético y técnicas y metodologias hackers.'
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2020-01-27 08:07:25
 tags:
 - Seguridad

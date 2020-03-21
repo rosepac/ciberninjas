@@ -2,7 +2,7 @@
 title: 👨‍🚀 ▷ Cómo Aprender Swift
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-06-30 12:06:18
 last_modified_at: 
 permalink: /swift/

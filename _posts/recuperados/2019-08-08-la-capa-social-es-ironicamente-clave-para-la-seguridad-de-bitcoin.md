@@ -5,7 +5,7 @@ title: >
     Bitcoin
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-20 08:01:57
 tags:
     - actualidad

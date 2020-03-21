@@ -5,7 +5,7 @@ excerpt: '👩‍🚀 Conocer todo sobre el framework de Ionic, sus metas, su li
 description: '👩‍🚀 Conocer todo sobre el framework de Ionic, sus metas, su licencia, su CLI, su compatibilidad con otros frameworks y sus novedades.'
 published: true
 author_profile: true
-comments: true
+comments: false
 classes: wide
 date: 2020-01-31 11:15:33
 last_modified_at: 

@@ -5,7 +5,7 @@ title: >
     Pascal
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-02-07 05:02:39
 tags:
     - ide

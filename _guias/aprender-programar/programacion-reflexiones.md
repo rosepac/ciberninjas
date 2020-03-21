@@ -4,7 +4,7 @@ description: "📌 Aprende a programar y formate con múltiples lenguajes y fram
 excerpt: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF y ebooks en nuestro catálogo, incluso gratis 😜."
 author_profile: false
 published: false
-comments: true
+comments: false
 date: 2018-03-01
 last_modified_at: 2019-12-18
 permalink: /programacion-reflexiones/

@@ -10,7 +10,7 @@ header:
   video:
     id: playlist?list=PLc1tOQeSq49OqJh7AGmUU3_8MUT9u8fyl
     provider: youtube
-comments: true
+comments: false
 date: 2020-01-22 13:55:00 +0200
 # tags:
 #   - Miguel Mart

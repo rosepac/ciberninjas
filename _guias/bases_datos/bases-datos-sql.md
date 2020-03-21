@@ -6,7 +6,7 @@ excerpt: "📁 Aprende desde cero todo lo que debes saber"
 published: true
 last_modified_at: 
 author_profile: true
-comments: true
+comments: false
 classes: wide
 date: 2020-02-07T19:10:00
 permalink: /bases-datos/

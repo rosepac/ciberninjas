@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   🤖 Facebook vs. Google, Pytorch vs. Tensorflow, parece ser que la primera gran batalla es ganada por Facebook dentro del campo de la inteligencia artificial
 published: true
-comments: true
+comments: false
 date: 2020-02-06 15:30:12
 last_modified_at: 
 header:

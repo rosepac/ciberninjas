@@ -3,7 +3,7 @@ layout: post
 title: 'Edición de fotografía completa online, todo desde una sola página web: I Love IMG'
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-21 01:01:22
 tags:
     - background

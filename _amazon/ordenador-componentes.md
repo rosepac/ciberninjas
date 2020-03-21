@@ -8,7 +8,7 @@ permalink: /ordenadores-componentes/
 canonical_URL: https://ciberninjas.com/ordenadores-componentes/
 published: true
 classes: wide
-comments: true
+comments: false
 date: 2020-03-20 23:16:00 +0200
 header:
   teaser: 'https://i.ibb.co/dghC7JV/ordenador-componentes.gif'

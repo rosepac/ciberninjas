@@ -7,7 +7,7 @@ header:
   video:
     id: playlist?list=PLyNvsloSbd7MtlhlVtUetyuy0zljIZfTs
     provider: youtube
-comments: true
+comments: false
 date: 2019-01-15 12:08:02
 tags:
 - Kike Arnaiz

@@ -6,7 +6,7 @@ excerpt: "Regalos de las Guerras de las Galaxias, Juguetes del adorable Bebe Yod
 permalink: /disney-baby-yoda/
 canonical_URL: https://ciberninjas.com/disney-baby-yoda/
 published: false
-comments: true
+comments: false
 date: 2019-12-20 17:30:00 +0200
 header:
   teaser: https://i.ibb.co/mhcTS2j/baby-yoda-gif.gif

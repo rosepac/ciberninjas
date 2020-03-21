@@ -5,7 +5,7 @@ excerpt: '👨‍🎨 Las mejores librerías Js que podrás aprovechar para dar 
 published: true
 author_profile: true
 author: true
-comments: true
+comments: false
 date: 2019-01-27 07:01:02
 last_modified_at: 2019-10-30
 tags:

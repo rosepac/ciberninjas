@@ -4,7 +4,7 @@ title: "▷ Kite: Genera tu Código Mucho Más Rápido"
 description: "Kite es un complemento para tu IDE que utiliza el aprendizaje automático para proporcionarte terminaciones de código útiles para Python. Comienza a codificar más rápido desde hoy mismo."
 excerpt: "Kite es un complemento para tu IDE que utiliza el aprendizaje automático para proporcionarte terminaciones de código útiles para Python. Comienza a codificar más rápido desde hoy mismo."
 published: false
-comments: true
+comments: false
 date: 2020-01-28 15:10:12
 last_modified_at: 
 header:

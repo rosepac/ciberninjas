@@ -4,7 +4,7 @@ description: 'El mejor software de diseño web, herramientas y recursos gratuito
 excerpt: 'El mejor software de diseño web, herramientas y recursos gratuitos 🔨 🎨'
 published: true
 author_profile: true
-comments: true
+comments: false
 date: 2019-10-08 12:06:18
 last_modified_at: 2019-12-20 15:36:18
 permalink: /diseño-web-recursos/

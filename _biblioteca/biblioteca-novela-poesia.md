@@ -4,7 +4,7 @@ description: "📖 Miles de libros PDF gratuitos y de dominio publico, novelas c
 excerpt: "📖 Miles de libros PDF gratuitos y de dominio publico novelas clásicas, ciencia, cuentos, revistas y mucho más."
 author_profile: true
 published: true
-comments: true
+comments: false
 date: 2020-03-20
 last_modified_at: 
 permalink: /biblioteca-novela-poesia/

@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   ✅ Flutter es una tecnología que es tendencia este año. Este artículo sugiere algunas formas gratuitas para aprender a desarrollar aplicaciones iOS y Android con Flutter
 published: true
-comments: true
+comments: false
 date: 2020-02-07 14:50:12
 last_modified_at: 
 header:

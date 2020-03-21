@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   Lista y descripción de los 15 lenguajes más usados y con mayor crecimiento para poder aprender a programar en 2020: Python, Java, C++, Javascript, Go, Rust, R, Swift, PHP, Matlab
 published: true
-comments: true
+comments: false
 date: 2020-02-06 16:15:12
 last_modified_at: 
 header:

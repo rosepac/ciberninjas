@@ -4,7 +4,7 @@ title: "🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 20
 description: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje automático durante 2020"
 excerpt: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje automático durante 2020"
 published: true
-comments: true
+comments: false
 date: 2020-03-13 11:22:12
 last_modified_at: 2020-01-13 11:02:12
 canonical_URL: https://ciberninjas.com/que-aprender-sobre-machine-learning-2020/

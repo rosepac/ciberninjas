@@ -5,7 +5,7 @@ description: '📸 Cómo publicar en Instagram desde el Ordenador. Extensión de
 excerpt: '📸 Cómo publicar en Instagram desde el Ordenador. Extensión de Chrome: Mobile Browser Emulator'
 published: true
 author_profile: rosepac
-comments: true
+comments: false
 date: 2019-01-21 06:01:35
 last_modified_at: 2019-10-29 14:10:00 +0200
 tags:

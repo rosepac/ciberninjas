@@ -5,7 +5,7 @@ title: >
     privacidad
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-29 06:01:30
 tags:
     - cambios

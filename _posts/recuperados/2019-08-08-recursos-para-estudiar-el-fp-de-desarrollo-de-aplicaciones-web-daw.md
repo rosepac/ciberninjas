@@ -5,7 +5,7 @@ title: >
     Web. DAW
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-27 07:01:53
 tags: [ ]
 categories: [ ]

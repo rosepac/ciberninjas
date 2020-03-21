@@ -4,7 +4,7 @@ description: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender
 excerpt: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Python'
 published: true
 author_profile: true
-comments: true
+comments: false
 date: 2019-10-08 12:06:18
 last_modified_at: 2020-01-07 16:14:12
 permalink: /python-recursos/

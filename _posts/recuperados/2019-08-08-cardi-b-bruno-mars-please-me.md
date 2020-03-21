@@ -3,7 +3,7 @@ layout: post
 title: 'Cardi B & Bruno Mars | Please Me'
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-03-02 03:03:14
 tags:
     - cantautor eeuu

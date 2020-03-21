@@ -3,7 +3,7 @@ layout: post
 title: Pensamiento Libre, Pensamiento de Libertad
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2018-12-19 02:12:47
 tags: [ ]
 categories: [ ]

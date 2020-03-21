@@ -6,7 +6,7 @@ excerpt: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favor
 published: true
 author_profile: true
 classes: wide
-comments: true
+comments: false
 date: 2019-07-17 08:07:47
 last_modified_at: 2019-10-29T18:10:42-05:00
 permalink: /recursos/

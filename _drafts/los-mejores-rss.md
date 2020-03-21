@@ -4,7 +4,7 @@ title: 'Los Mejores RSS'
 description: 'Los Mejores RSS'
 excerpt: 'Los Mejores RSS'
 published: false
-comments: true
+comments: false
 date: 2019-09-28 07:50:00 +0200
 tags:
   - Integración

@@ -3,7 +3,7 @@ layout: post
 title: Mis Favoritos
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-05-23 06:05:53
 tags: [ ]
 categories: [ ]

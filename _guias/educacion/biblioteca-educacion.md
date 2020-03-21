@@ -3,7 +3,7 @@ title: 👩‍🏫 ▷ Libros sobre Educación
 description: "👩‍🏫 ▷ Para docentes, maestros y profesores: Los Mejores Libros sobre Educación."
 excerpt: "👩‍🏫 ▷ Para docentes, maestros y profesores: Los Mejores Libros sobre Educación."
 published: false
-comments: true
+comments: false
 date: 2019-10-17
 last_modified_at: 
 permalink: /biblioteca-educacion/

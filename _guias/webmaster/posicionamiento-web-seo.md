@@ -4,7 +4,7 @@ author_profile: true
 description: "📌 Posicionamiento Web y SEO 🔍 Aprender desde cero a experto todo lo que debes saber"
 excerpt: "📌 Posicionamiento Web y SEO 🔍 Aprender desde cero a experto todo lo que debes saber"
 published: true
-comments: true
+comments: false
 classes: wide
 date: 2020-03-11
 last_modified_at:

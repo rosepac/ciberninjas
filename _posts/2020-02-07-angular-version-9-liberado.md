@@ -5,7 +5,7 @@ title: '▷ Angular 9: Nueva versión del Framework Javascript'
 description: "Novedades de la nueva versión del framework Angular"
 excerpt: "Novedades de la nueva versión del framework Angular"
 published: true
-comments: true
+comments: false
 date: 2020-02-07 12:15:12
 last_modified_at: 
 header:

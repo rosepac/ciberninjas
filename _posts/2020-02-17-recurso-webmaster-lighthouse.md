@@ -5,7 +5,7 @@ title: '▷ Lighthouse: Herramienta de auditoría de aplicaciones web de Google'
 description: "Qué hay de nuevo en la versión beta 5.2 del lenguaje de programación Swift"
 excerpt: "Qué hay de nuevo en la versión beta 5.2 del lenguaje de programación Swift"
 published: true
-comments: true
+comments: false
 date: 2020-02-13 15:10:12
 last_modified_at: 
 header:

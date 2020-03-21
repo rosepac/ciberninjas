@@ -8,7 +8,7 @@ tags:
   - Libro
   - Debolsillo (Editorial)
   - Ken Robinson
-comments: true
+comments: false
 date: 2020-02-09 21:45:00 +0100
 permalink: /catalogo/encuentra-tu-elemento/
 description: >-

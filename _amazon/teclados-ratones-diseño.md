@@ -6,7 +6,7 @@ excerpt: "⌨ Las mejores ofertas de Ratones y Teclados para Diseñar y Jugar."
 permalink: /teclados-ratones-diseño/
 canonical_URL: https://ciberninjas.com/teclados-ratones-diseño/
 published: true
-comments: true
+comments: false
 date: 2019-11-29 22:14:00 +0200
 header:
   teaser: 'https://i.ibb.co/XtXfLzh/raton-ordenador.gif'

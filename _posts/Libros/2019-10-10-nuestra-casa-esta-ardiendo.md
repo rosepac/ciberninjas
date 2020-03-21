@@ -10,7 +10,7 @@ tags:
 - Libro
 - Lumen (Editorial)
 - Greta Thunberg
-comments: true
+comments: false
 date: 2019-10-13 22:25:54
 permalink: /catalogo/nuestra-casa-esta-ardiendo
 description: '🌼 La historia de Greta Thunberg y su familia enfrentada a una crisis que nunca habían previsto. Su hija menor ha dejado de comer y hablar por ver su futuro en peligro en un planeta que se calienta demasiado.'

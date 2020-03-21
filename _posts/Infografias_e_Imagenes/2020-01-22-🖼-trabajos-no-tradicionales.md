@@ -3,7 +3,7 @@ author_profile: false
 title: "👨‍🎨 ¿Por qué no necesitas un trabajo tradicional para ganar dinero?"
 description: "\U0001F3A8 150 Aplicaciones excelentes desde las que realizar tu trabajo bajo una situación diferente"
 excerpt: "\U0001F3A8 150 Aplicaciones excelentes desde las que realizar tu trabajo bajo una situación diferente"
-comments: true
+comments: false
 date: 2020-01-22 15:43:00 +0200
 permalink: /no-necesitas-trabajo-tradicional-para-ganar-dinero/
 canonical_URL: https://ciberninjas.com/no-necesitas-trabajo-tradicional-para-ganar-dinero/

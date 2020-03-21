@@ -4,7 +4,7 @@ title: "▷ CadQuery: Módulo Python similar a OpenSCAD"
 description: "CadQuery es un módulo Python intuitivo y fácil de usar para construir modelos CAD paramétricos en 3D."
 excerpt: "CadQuery es un módulo Python intuitivo y fácil de usar para construir modelos CAD paramétricos en 3D."
 published: true
-comments: true
+comments: false
 date: 2020-01-28 17:28:12
 last_modified_at: 
 published: true

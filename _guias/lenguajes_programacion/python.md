@@ -6,7 +6,7 @@ published: true
 author_profile: true
 author_profile: true
 classes: wide
-comments: true
+comments: false
 date: 2019-06-30 12:06:18
 last_modified_at: 2020-01-10
 permalink: /python/

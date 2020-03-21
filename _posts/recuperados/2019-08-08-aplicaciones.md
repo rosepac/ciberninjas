@@ -3,7 +3,7 @@ layout: post
 title: ¿Cómo aprender a programar aplicaciones?
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-03-25 12:03:58
 tags: [ ]
 categories: [ ]

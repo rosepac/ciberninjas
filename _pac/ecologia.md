@@ -12,7 +12,7 @@ header:
   image_description: "Noticias sobre la actualidad de la Ecología"
   image_alt: "Noticias sobre la actualidad de la Ecología"
   caption: "Noticias sobre la actualidad de la Ecología"
-comments: true
+comments: false
 date: 2020-01-02 12:02:00 +0100
 last_modified_at: 2020-01-02 22:28:02 +0100
 published: true

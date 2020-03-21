@@ -7,7 +7,7 @@ header:
   video:
     id: FKXSh14svlQ
     provider: youtube
-comments: true
+comments: false
 date: 2019-08-15 23:11:12
 tags:
 - R & B Americano

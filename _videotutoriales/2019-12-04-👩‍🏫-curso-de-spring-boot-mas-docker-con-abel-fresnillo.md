@@ -10,7 +10,7 @@ header:
   video:
     id: playlist?list=PL8M1frRRqO_rTJNXgmP0RfcVxtl3OisoY
     provider: youtube
-comments: true
+comments: false
 date: 2019-12-04 17:55:00 +0200
 tags:
   - Abel Fresnillo

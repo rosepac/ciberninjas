@@ -6,7 +6,7 @@ excerpt: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tec
 permalink: /ordenadores-diseño/
 canonical_URL: https://ciberninjas.com/ordenadores-diseño/
 published: false
-comments: true
+comments: false
 date: 2019-11-23 07:30:00 +0200
 header:
   teaser: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'

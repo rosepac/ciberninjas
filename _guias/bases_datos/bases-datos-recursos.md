@@ -4,7 +4,7 @@ description: '📁 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender
 excerpt: '📁 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender a Manejar Bases de Datos'
 published: true
 author_profile: true
-comments: true
+comments: false
 classes: wide
 date: 2020-02-07T19:16:00
 last_modified_at: 

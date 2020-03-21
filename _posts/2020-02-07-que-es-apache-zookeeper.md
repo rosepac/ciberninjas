@@ -5,7 +5,7 @@ title: '▷ ZooKeeper: Proyectos de Software de la Fundación Apache'
 description: "Qué es Zookeeper Apache, una vista rápida al proyecto"
 excerpt: "Qué es Zookeeper Apache, una vista rápida al proyecto"
 published: true
-comments: true
+comments: false
 date: 2020-02-07 11:30:12
 last_modified_at: 
 header:

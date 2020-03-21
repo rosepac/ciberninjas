@@ -6,7 +6,7 @@ excerpt: "👸 Ofertas de juguetes en Black Friday."
 permalink: /disney-frozen-amazon/
 canonical_URL: https://ciberninjas.com/disney-frozen-amazon/
 published: true
-comments: true
+comments: false
 date: 2019-11-23 08:50:00 +0200
 header:
   teaser: https://i.ibb.co/pdvtTgP/olaf-comiendo-xd.gif

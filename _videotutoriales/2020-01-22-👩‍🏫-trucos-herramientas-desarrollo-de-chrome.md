@@ -10,7 +10,7 @@ header:
   video:
     id: BXN8oO4r3Qc
     provider: youtube
-comments: true
+comments: false
 date: 2020-01-22 13:57:00 +0200
 # tags:
 #   - Código con Juan

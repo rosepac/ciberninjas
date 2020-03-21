@@ -3,7 +3,7 @@ layout: post
 title: 7 predicciones tecnológicas del futuro para 2019
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-01-13 07:01:10
 tags:
     - "2019"

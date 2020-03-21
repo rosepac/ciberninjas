@@ -3,7 +3,7 @@ author_profile: false
 title: "👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario"
 description: "\U0001F3A8 Nube de palabras representativa de las diferentes entre User Experience e User Interface"
 excerpt: "\U0001F3A8 Nube de palabras representativa de las diferentes entre User Experience e User Interface"
-comments: true
+comments: false
 date: 2020-01-16 00:40:00 +0200
 tags:
   - Interfaz de Usuario

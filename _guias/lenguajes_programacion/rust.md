@@ -6,7 +6,7 @@ published: false
 author_profile: true
 author_profile: true
 classes: wide
-comments: true
+comments: false
 date: 2020-01-27 12:06:18
 last_modified_at: 
 permalink: /rust/

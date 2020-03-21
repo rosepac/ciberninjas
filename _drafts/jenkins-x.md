@@ -3,7 +3,7 @@ author_profile: false
 title: 'Jenkins X, Acelerar la Integración Continua en Kubernetes'
 description: 'Jenkins X, Acelerar la Integración Continua en Kubernetes'
 excerpt: 'Jenkins X, Acelerar la Integración Continua en Kubernetes'
-comments: true
+comments: false
 date: 2019-09-01 07:50:00 +0200
 tags:
   - Integración

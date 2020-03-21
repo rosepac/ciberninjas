@@ -3,7 +3,7 @@ layout: post
 title: Películas Clásicas
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-02-02 10:02:19
 tags: [ ]
 categories: [ ]

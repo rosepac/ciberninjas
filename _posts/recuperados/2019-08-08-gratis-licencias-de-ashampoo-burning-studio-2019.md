@@ -3,7 +3,7 @@ layout: post
 title: Gratis licencias de Ashampoo Burning Studio 2019
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2018-12-16 10:12:19
 tags:
     - ashampoo

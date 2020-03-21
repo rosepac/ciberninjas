@@ -7,7 +7,7 @@ description: >-
 excerpt: >-
   Las mejores libretas y agendas específicas y personalizadas para programadores, desarrolladores y diseñadores.
 published: false
-comments: true
+comments: false
 date: 2020-02-12 10:31:12
 last_modified_at: 
 header:

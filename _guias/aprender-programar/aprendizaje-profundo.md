@@ -3,7 +3,7 @@ title: 👨‍💻 ▷ Aprendizaje Profundo o Machine Learning
 description: "😼  Aprendizaje Profundo o Machine Learning"
 excerpt: "😼 Aprendizaje Profundo o Machine Learning"
 published: false
-comments: true
+comments: false
 date: 2019-10-31 10:00:05
 last_modified_at: 2019-10-31 10:39:30
 permalink: /aprendizaje-profundo/

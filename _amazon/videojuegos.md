@@ -6,7 +6,7 @@ excerpt: "Las ofertas de juegos más espectaculares y novedososos para 2020 junt
 permalink: /videojuegos/
 canonical_URL: https://ciberninjas.com/videojuegos/
 published: true
-comments: true
+comments: false
 date: 2019-11-29 04:44:00 +0100
 last_modified_at: 2020-02-20 21:40:00 +0100
 header:

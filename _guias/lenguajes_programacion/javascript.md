@@ -15,7 +15,7 @@ header:
       url: "/javascript-recursos/"
 author_profile: true
 author_profile: true
-comments: true
+comments: false
 classes: wide
 date: 2020-02-28 12:00:03
 last_modified_at: 

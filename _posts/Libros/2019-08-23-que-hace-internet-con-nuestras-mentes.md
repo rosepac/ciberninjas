@@ -1,7 +1,7 @@
 ---
 author_profile: false
 title: "🧠 Superficiales: Qué está haciendo Internet con nuestras mentes"
-comments: true
+comments: false
 date: 2019-08-23 02:08:55
 tags:
 - Libro

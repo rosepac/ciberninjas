@@ -5,7 +5,7 @@ excerpt: '👩‍🚀 Primeros pasos de uso del inspector de DevTools sobre Flut
 description: '👩‍🚀 Primeros pasos de uso del inspector de DevTools sobre Flutter.'
 published: true
 author_profile: true
-comments: true
+comments: false
 classes: wide
 date: 2020-01-31 12:32:33
 last_modified_at: 

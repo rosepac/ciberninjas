@@ -5,7 +5,7 @@ title: >
     móviles
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-03-25 12:03:06
 tags: [ ]
 categories: [ ]

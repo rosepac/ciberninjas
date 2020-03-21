@@ -3,7 +3,7 @@ layout: post
 title: Cursos de Programación en Español
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-02-05 04:02:55
 tags:
     - aprender

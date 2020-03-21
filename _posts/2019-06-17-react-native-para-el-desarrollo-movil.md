@@ -1,7 +1,7 @@
 ---
 author_profile: false
 title: "👩‍💻 React Native para el Desarrollo Móvil"
-comments: true
+comments: false
 date: 2019-06-17 20:24:54
 tags:
 - Libro

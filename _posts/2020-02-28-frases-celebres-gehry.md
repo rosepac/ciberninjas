@@ -1,7 +1,7 @@
 ---
 
 author_profile: true
-comments: true
+comments: false
 classes: wide
 title: '📢 ▷ Las Mejores Frases Motivadoras del Reconocido Arquitecto Frank Owen Gehry'
 tags:

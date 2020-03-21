@@ -4,7 +4,7 @@ title: "▷ Preguntas Frecuentes sobre la CDF o Fundación de Distribución Cont
 description: "Preguntas y dudas más habituales que pueden surgir sobre el proyecto de CDF o agrupación de empresas por la mejora de la gestión del software implicado en la distrubición continua del código para la mejora del desarrollo"
 excerpt: "Preguntas y dudas más habituales que pueden surgir sobre el proyecto de CDF o agrupación de empresas por la mejora de la gestión del software implicado en la distrubición continua del código para la mejora del desarrollo"
 published: false
-comments: true
+comments: false
 date: 2020-01-22 16:40:12
 last_modified_at: 
 canonical_URL: /cumbre-cd-nuevos-miembros/

@@ -5,7 +5,7 @@ excerpt: '👩‍🚀 Primeros pasos de uso de la vista de registro de DevTools 
 description: '👩‍🚀 Primeros pasos de uso de la vista de registro de DevTools sobre Flutter.'
 published: true
 author_profile: true
-comments: true
+comments: false
 classes: wide
 date: 2020-01-31 14:45:33
 last_modified_at: 

@@ -4,7 +4,7 @@ description: '💡 Los Mejores Recursos con los que Aprender Inteligencia Artifi
 excerpt: '💡 Los Mejores Recursos con los que Aprender Inteligencia Artificial'
 published: true
 author_profile: true
-comments: true
+comments: false
 date: 2019-12-22 01:06:18
 last_modified_at: 
 permalink: /inteligencia-artificial/

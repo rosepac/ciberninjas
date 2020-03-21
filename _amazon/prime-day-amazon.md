@@ -9,7 +9,7 @@ excerpt: "📢 Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS p
 permalink: /prime-day-amazon/
 canonical_URL: https://ciberninjas.com/prime-day-amazon/
 published: true
-comments: true
+comments: false
 date: 2020-09-01 10:30:00 +0200
 header:
   teaser: https://i.ibb.co/0rXN63g/amazon-prime-day.gif

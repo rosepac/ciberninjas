@@ -3,7 +3,7 @@ layout: post
 title: Es hora de decir la verdad del Artículo 13
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2018-12-15 12:12:26
 tags:
     - artículo 13

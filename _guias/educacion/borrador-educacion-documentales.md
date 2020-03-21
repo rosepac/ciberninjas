@@ -4,7 +4,7 @@ description: 'Qué es la educación 4.0 para 2020, aprender a estudiar desde cas
 excerpt: 'Qué es la educación 4.0 para 2020, aprender a estudiar desde casa y sin ayuda de profesores'
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2020-01-27 15:07:25
 permalink: >
     /educacion-documentales/

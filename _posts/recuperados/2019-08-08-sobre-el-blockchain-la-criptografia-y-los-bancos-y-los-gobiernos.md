@@ -5,7 +5,7 @@ title: >
     gobiernos?
 published: false
 author_profile: true
-comments: true
+comments: false
 date: 2019-02-02 05:02:54
 tags:
     - activismo

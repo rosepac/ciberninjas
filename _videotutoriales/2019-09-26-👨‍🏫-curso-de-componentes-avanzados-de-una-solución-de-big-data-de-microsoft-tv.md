@@ -6,7 +6,7 @@ excerpt: "\U0001F4C2 Curso de Componentes avanzados de una solución de Big Data
 permalink: /curso-componentes-avanzados-solucion-big-data-microsoft-tv
 canonical_URL: >-
   https://ciberninjas.com/curso-componentes-avanzados-solucion-big-data-microsoft-tv
-comments: true
+comments: false
 date: 2019-09-26 03:03:00 +0200
 # tags:
 #   - Microsoft

@@ -1,6 +1,6 @@
 ---
 title: '📖 Un libro gratis al día, en inglés. Hoy: Learning Docker'
-comments: true
+comments: false
 date: 2018-12-19 06:12:10
 tags:
     - Libro

@@ -5,7 +5,7 @@ description: "\U0001F4CA ⛅ Curso de Power BI en ambientes empresariales de Mic
 excerpt: "\U0001F4CA ⛅ Curso de Power BI en ambientes empresariales de Microsoft TV"
 permalink: /curso-power-bi-ambientes-empresariales-microsoft-tv
 canonical_URL: 'https://ciberninjas.com/curso-power-bi-ambientes-empresariales-microsoft-tv'
-comments: true
+comments: false
 date: 2019-09-26 02:00:00 +0200
 # tags:
 #   - Microsoft

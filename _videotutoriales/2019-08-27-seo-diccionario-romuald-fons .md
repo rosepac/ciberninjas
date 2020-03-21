@@ -7,7 +7,7 @@ header:
   video:
     id: playlist?list=PL6heMTo6Ni5fQaUBZhK1Zpj5fnHtbVN9A
     provider: youtube
-comments: true
+comments: false
 date: 2019-08-27 15:36:12
 tags:
 # Autor, Editorial, Temática, Tipo de Música

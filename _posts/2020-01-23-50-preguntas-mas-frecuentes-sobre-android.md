@@ -4,7 +4,7 @@ title: "▷ 50 Preguntas más frecuentes sobre Android"
 description: "Las preguntas más frecuentes y sus respectivas respuestas, todo lo más básico que debes conocer sobre Android."
 excerpt: "Las preguntas más frecuentes y sus respectivas respuestas, todo lo más básico que debes conocer sobre Android."
 published: false
-comments: true
+comments: false
 date: 2020-01-23 11:22:12
 last_modified_at: 
 canonical_URL: /tutorial-webmaster-webpagetest/
