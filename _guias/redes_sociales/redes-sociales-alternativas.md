@@ -5,8 +5,8 @@ excerpt: "Aprende a Manejar y Los Mejores Trucos sobre Twitter. Desde cero todo 
 date: 2019-10-16T21:00:00.000+00:00
 last_modified_at: 2019-12-10
 published: false
-permalink: /telegram/
-canonical_URL: https://ciberninjas.com/telegram/
+permalink: /redes-sociales-alternativas/
+canonical_URL: https://ciberninjas.com/redes-sociales-alternativas/
 header:
   teaser: https://i.ibb.co/JF0PGRS/twitter-pajaro-feliz.gif
   overlay_image: https://i.ibb.co/Vt92M9W/photo-1551817958-20204d6ab212-ixlib-rb-1-2.jpg

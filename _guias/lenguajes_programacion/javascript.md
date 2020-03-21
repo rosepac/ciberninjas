@@ -45,7 +45,7 @@ Es el lenguaje de programación perfecto para la web, es capaz de actualizar y c
 
 Si desea ser un desarrollador web front-end , debe desarrollar un conocimiento sólido de estos tres idiomas. Aunque este artículo se centrará en JavaScript para el resto, sería mejor si investiga un poco más sobre HTML y CSS si aún no está familiarizado con ellos.
 
-<div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1051722598543613" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1051722598543613" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1051722598543613">Viernes, 28 de febrero de 2020</a></blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331101370410048" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331101370410048" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331101370410048">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Sobre Javascript
 
@@ -93,6 +93,8 @@ Si está interesado en los juegos de Internet y el desarrollo de juegos, puede c
 Construir tus juegos simples también es una excelente manera de practicar tus conocimientos de JavaScript. Averiguar las respuestas a preguntas como " ¿Para qué se usa JavaScript?" No siempre es fácil, pero creo que la mejor manera de descubrir exactamente qué tan versátil puede ser JavaScript es probar las cosas por ti mismo. Descargue un editor de código (volveré a hablar sobre esto más adelante), tenga una idea para un juego simple y dedique algo de tiempo a construirlo.
 
 > Tenga en cuenta que esta no es una lista exhaustiva. JavaScript es un lenguaje poderoso, y la mayoría de las cosas solo estarán limitadas por tu imaginación. 
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331101370410048" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331101370410048" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331101370410048">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 ## Quién está usando Javascript
 

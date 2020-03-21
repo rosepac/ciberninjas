@@ -3,14 +3,15 @@
 title: " 🥇 ▷ Steemit, Cómo conocer todo sobre está plataforma 👨‍💻 sin morir en el intento"
 description: "🔨 Steemit, cómo convertirte en un maestro de Steemit sin morir en el intento"
 excerpt: "🔨 Steemit, cómo crear tu blog en una gran comunidad de contenidos sociales y artísticos gratis y criptomonedas"
-date: 2020-02-24T03:50:00.000+01:00
-last_modified_at: 2020-02-25T02:50:00.000+01:00
+date: 2020-03-20
+last_modified_at:
 classed: wide
 permalink: /steemit/
+canonical_URL: https://ciberninjas.com/steemit/
 published: true
 header:
   teaser: "/assets/images/blog/steemit-publicaciones-1-1.webp"
-  overlay_image: "/assets/images/blog/steemit-publicaciones-1-1.jpg"
+  overlay_image: "/assets/images/blog/steemit-publicaciones-1-1.webp"
   image_description: "Steemit, generador de sitios estáticos | Ciberninjas"
 # toc: true
 # toc_label: "Contenidos"
@@ -18,12 +19,13 @@ header:
 # toc_sticky: true
 ---
 
-Steemit 👇👇👇 ¡EN CONSTRUCCIÓN!
-{: .notice--warning}
-
 ## Regístrate
 
 * [👉 Ir al Registro](https://kutt.it/registro-steemit){:target="_blank"}
+
+## Enlaces Referentes a Hive
+
+* [Hive Kings](https://hivekings.com/)
 
 ## Guías para principiantes de Steemit
 

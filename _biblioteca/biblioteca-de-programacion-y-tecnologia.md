@@ -279,6 +279,7 @@ sidebar:
 * [Entorno CASE para el desarrollo de sistemas de tiempo real (2003)](https://www.ctr.unican.es/publications/jlm-plm-jmd-2003.pdf){:target="_blank"} (PDF)
 * [Git y GitHub. Guía de Supervivencia](https://leanpub.com/gitygithub){:target="_blank"} (Descarga PDF)
 * [Guía a la galaxía de aplicaciones móviles](https://openlibra.com/es/book/download/guia-para-la-galaxia-de-aplicaciones-moviles){:target="_blank"} (PDF)
+* [Kit de supervivencia para trabajar desde casa](https://www.carlosjonayss.com/wp-content/uploads/2020/03/guia_trabajo_remoto_1_0.pdf){:target="_blank"} (PDF) (2020)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/https://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf){:target="_blank"} (PDF)
 * [Introducción a GIT](https://carloscarcamo.gitbooks.io/git-intro/content) (HTML) (2016)
 * [Más allá de Google (2008)](https://www.infonomia.com/wp-content/uploads/2014/11/40.-Mas-alla-de-Google.pdf){:target="_blank"} (PDF)

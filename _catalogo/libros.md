@@ -42,7 +42,8 @@ sidebar:
 
 * Analítica de datos: La guía definitiva de análisis de Big Data para empresas [Tapa Dura](https://amzn.to/33LB18y){:target="_blank"} \ [Tapa Blanda](https://amzn.to/2sCA85b){:target="_blank"} \ [Ebook](https://amzn.to/2DJrfJC){:target="_blank"} (2019)
 * [Big Data: Hacía la Cuarta Revolución Industrial](https://amzn.to/2mnv69y){:target="_blank"} \ [Ebook](https://amzn.to/2mmRJLC){:target="_blank"} (2018)
-
+Aprendizaje Automático: La Guía Definitiva para Principiantes para Comprender el Aprendizaje Automático 
+https://amzn.to/2TxtN52
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1950924742&linkId=4a6de106388f7ee1baa93f80d040b83d"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8491680136&linkId=6a7d280148a2675b51fb330216f6fd7d"></iframe>
 
 ## SQL
@@ -93,6 +94,8 @@ sidebar:
 * [Hacia una Ingenieria 4.0: El rol de la ingeniería mexicana](https://amzn.to/2lhnZ2q){:target="_blank"}
 * La Transformación Digital Centrada en la Persona [Tapa Blanda](https://amzn.to/2l6lgZL){:target="_blank"} \ [Ebook](https://amzn.to/2l6mc0d){:target="_blank"}
 
+* [Fundamentos de Estadística y Probabilidades con aplicaciones]()
+* [Una introducción elemental a Wolfram](https://amzn.to/2uQ3SgA) (2019)
 * [Principios y algoritmos de concurrencia](https://amzn.to/2Ykl0p7)
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1517029759&linkId=f40ea0a9586e284403ef75924be4a702"></iframe>
@@ -157,7 +160,7 @@ sidebar:
 
 ## Node JS
 
-* [Introducción a Node.js]() (2019)
+* [Introducción a Node.js](https://amzn.to/2vr2DEZ) (2019)
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -217,6 +220,8 @@ sidebar:
 
 ## C, C#, C++
 
+* [Aprende C# en un fin de semana](https://amzn.to/38z8l54) (2019)
+* [Cómo programar en C# de forma fácil y sencilla](https://amzn.to/38yQI5a) (2018)
 * [Aprende a programar con pseudocódigo, diagramas de flujo y ejercicios de ejemplo resueltos en C](https://amzn.to/2rYJaJx) (2015)
 * [C/C++. Curso de programación](https://amzn.to/2ORgUBw) (2017)
 * [C/C++. Curso de programación](https://amzn.to/33WYNOW) (2015)
@@ -293,7 +298,9 @@ sidebar:
 * Aprende Python en un fin de semana [Tapa Blanda](https://amzn.to/2nTc8IN){:target="_blank"} [Ebook](https://amzn.to/2oIvYXG){:target="_blank"}
 * [Aprendizaje Automático: La Guía Definitiva para Principiantes](https://amzn.to/2oGHOS1){:target="_blank"}
 * [Aplicaciones Gráficas con Python 3](https://amzn.to/2mZcspr){:target="_blank"}
+* [Ciencia de Datos Python](https://amzn.to/38jHc5U) (2020) Una guía definitiva para que los principiantes aprendan los fundamentos de la ciencia de datos con Python
 * [Curso de Programación Python](https://amzn.to/2oIqPyQ){:target="_blank"} (Manuales Imprescindibles)
+* [Codificación con Python]() (2020)
 * [Criptografía sin secretos con Python](https://amzn.to/2oKnHmd){:target="_blank"}
 * [Desarrollo de Videojuegos 2D con Python](https://amzn.to/2oIzNft){:target="_blank"}
 * [Domótica con Raspberry, Google y Python](https://amzn.to/2oKdMNv){:target="_blank"}
@@ -304,8 +311,10 @@ sidebar:
 * [Programación Python para Ingenieros Civiles](https://amzn.to/2nZFULQ){:target="_blank"}
 * [Plataforma de Control de Acceso y Gestión Remota basado en RaspberryPi](https://amzn.to/2n1rfju){:target="_blank"}
 * [Python 3 - Pack de 2 libros: de la algoritmia al dominio del lenguaje](https://amzn.to/2oBgZi3){:target="_blank"}
+* [Python Machine Learning]()
 * [Python machine learning 2'ed](https://amzn.to/2mnmjVz){:target="_blank"}
 * [Python para principiantes: Aprende Python en 5 días](https://amzn.to/2o0b2Le){:target="_blank"}
+* [Python Práctico Herramientas, Conceptos y Técnicas](https://amzn.to/2PFQ2Ex) (2019)
 * [RASPBERRY PI: Guía paso a paso para principiantes de Raspberry Pi](https://amzn.to/2o0rviQ){:target="_blank"}
 * [Sistema de Ayuda a la Decisión: Sistema de Ayuda a la Decisión con Python](https://amzn.to/2n1ofUg){:target="_blank"}
 
@@ -376,7 +385,7 @@ sidebar:
 
 * El arte de la invisibilidad [Tapa Blanda](https://amzn.to/2KOZuCA){:target="_blank"} \ [Saber M&aacute;s](/catalogo/el-arte-de-la-invisibilidad/) (2018)
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441540616&linkId=8b51ac62a83d85c0a662c87ce7567c18"></iframe>
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331088770411308" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331088770411308" class="fb-xfbml-parse-ignore"><p>🔥 Libros sobre Seguridad, Hacking Ético, Ciberseguridad, etc.  🔐 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331088770411308">Martes, 3 de marzo de 2020</a></blockquote></div>
 
 * Análisis de Malware para Sistemas Windows [Tapa Blanda](https://amzn.to/2AjuvcK){:target="_blank"}
 * Bacula: El Software Libre de Respaldo [Tapa Blanda](https://amzn.to/2Ndt5t0){:target="_blank"} \ [Ebook](https://amzn.to/2AfI78T){:target="_blank"}
@@ -433,9 +442,12 @@ sidebar:
 ## 👷‍♂️ Webmaster
 
 * [CRO. Diseño y desarrollo de negocios digitales](https://amzn.to/2ZnFdOu){:target="_blank"}
+* [CRO profesional. Estrategia y práctica](https://amzn.to/33aAmyW){:target="_blank"} (2020)
 * [Visibilidad Online - Marketing Digital 2019](https://amzn.to/2L9jZuU){:target="_blank"}
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
 ## Análitica Web 📈
 
@@ -456,7 +468,6 @@ sidebar:
 * [Facebook Marketing: Utilice Facebook para una mercadotecnia rentable](https://amzn.to/2PpxcnG){:target="_blank"}
 * [La Biblia del Community Manager](https://amzn.to/2UhJb5r){:target="_blank"}
 * [Marketing Digital 360º. Implementación práctica](https://amzn.to/2ZGh3tJ){:target="_blank"}
-* [Marketing Digital para Dummies](https://amzn.to/2LcPILW){:target="_blank"}
 * [Marketing Digital para Startups y Autónomos: Cómo ganar la partida](https://amzn.to/2ZuqW2s){:target="_blank"}
 * [Marketing en Instagram: Cómo dominar su nicho en 2019](https://amzn.to/2NIFKmY){:target="_blank"}
 * [Marketing en Instagram: ¡Una Forma Perfecta de Hacerse Rico!](https://amzn.to/2L8RvBu){:target="_blank"}
@@ -470,6 +481,8 @@ sidebar:
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8441541469&linkId=d9f4be19a736fbb1d3f57a9beee54428"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8432904988&linkId=b5d9f5898450d605904ad64b68ff7bbb"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=841751368X&linkId=1499b287fff93358d03025f331ead441"></iframe>
 
 ## Seo y Posicionamiento 🔍
+
+* [SEO Avanzado. Casi todo lo que sé sobre posicionamiento web](https://amzn.to/2TOGZCP)
 
 ## Sistemas de Gestión de Contenidos ✍
 
@@ -500,6 +513,18 @@ sidebar:
 WordPress 5. La guía completa https://amzn.to/2PwkqkM
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+## For Dummies
+
+* [Marketing Digital para Dummies](https://amzn.to/2LcPILW){:target="_blank"}
+Ingles para dummies (2010) https://amzn.to/38jqVxN
+Programación Neurolingüistica para Dummies (2018) https://amzn.to/2PMTRIb
+Marca personal para Dummies (2017) https://amzn.to/39mfdUJ
+Autónomo (2020) https://amzn.to/3arFuAZ
+SEO para Dummies (2020) https://amzn.to/2woB3s6
+Pensamiento Crítico para Dummies (2020) https://amzn.to/2woB3s6
+El Método Montessori para Dummies https://amzn.to/3coHsUF
+
 
 ## 🎮 Videojuegos
 

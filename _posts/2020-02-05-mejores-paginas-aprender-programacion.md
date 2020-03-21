@@ -37,21 +37,116 @@ Por desgracia las mejores páginas web en la actualidad siguen siendo en inglés
 Lo de 20 mejores páginas web, se ha quedado corto ya antes de publicar el artículo. Más.. Los "titulares atractivos" son los que tocan, por desgracia 😉
 {: .notice--info}
 
-## 1. [Hackr.io](https://hackr.io/){:target="_blank"}
+## 1. [FreeCodeCamp](https://www.freecodecamp.com/){:target="_blank"}
 
-![](https://i.ibb.co/MN8wGbT/image.png)
+![](https://i.ibb.co/cc6mYDb/image.png)
 
-Hakcr.io es una web que se dedica a recopilar todos los cursos que las personas les envían; tanto en inglés como en algunos otros idiomas; y segregarlos por temáticas, tecnologías o si son recursos bien de pago o gratuitos.
+FreeCodeCamp es una comunidad de código abierto que te ayuda a aprender a codificar. Puede superar nuestros desafíos de codificación a su propio ritmo, crear proyectos y obtener certificados; todo ello a través de tutoriales interactivos que permiten mantener tu progreso en un tablero visual al estilo de Github.
 
-En la actualidad, el proyecto, ha tenido un crecimiento asombroso y poco a poco han ido implementando más secciones de pago, con sus propias rutas de aprendizaje.
+Las Certificaciones que Ofrecen a través de estos cursos interactivos son:
 
-A pesar de ello, siguen manteniendo el buscador de recursos gratis y lo que en su día era solamente enfocado a la programación y desarrollo web en la actualidad ya se amplia a recoger recursos diferentes para la programación, la ciencia de datos y al diseño -principalmente web-.
+* Diseño web adaptable
+* Algoritmos JavaScript y estructuras de datos
+* Bibliotecas front-end
+* Visualización de datos
+* API y microservicios
+* Seguridad de la información y garantía de calidad
 
-Dentro de cada sección existen subsecciones que te permiten encontrar los recursos con una mayor claridad. Exclusivamente deberás buscar un nombre de un lenguaje de programacion o un framework o herramienta en cuestión y ¡Tachán, el buscador hará la magia!
+Aprendizaje adicional:
 
-Los [ciberninjas](https://hackr.io/ciberninjas){:target="_blank"} tenemos nuestra cuenta por allí para recursos en español, a pesar de que han rechazado muchos de los enlaces intentados publicar..
+* Preparación de la entrevista de codificación
+
+Además, por si todo esto no fuese suficiente. Ellos mismos gestionan un blog a través del que se lanzan publicaciones costantes con tutoriales y recopilatorios de recursos sobre una amplia lista de temáticas. Presumen de haber alcanzado ya, más de 5.000 publicaciones; personalmente diría de que las temáticas que más publican son Javascript, Java, C++ y Python; pero puedes probar a buscar cualquier cosa en el buscador del blog y casi con toda seguridad te sorprenderá.
+
+<!-- Qué es Free Code Camp https://www.freecodecamp.org/news/about/ -->
+
+## Udemy
+
+Udemy es un mercado global para aprender y enseñar en línea donde los estudiantes dominan nuevas habilidades y logran sus objetivos al aprender de una extensa biblioteca de más de 42,000 cursos impartidos por instructores expertos.
+
+## Khan Academy
+
+Aunque los cursos de la Academia Khan no están tan estructurados como CodeHS, que he enumerado a continuación, sirve como un patio de juegos abierto tanto para principiantes como para aficionados particularmente interesados ​​en aprender dibujo, animación e interacción del usuario con las técnicas de codificación.
+
+Los cursos enfocados a la programación dentro de Academy están enfocados a principiantes basandose sobre todo en los fundamentos de la programación; son una gran base de arranque sin lugar a dudas, para personas que jamás han estado estudiando o quieren comenzar dentro del mundo del picar código..
+
+## EDX
+
+Open edX es la plataforma de código abierto que impulsa los cursos de edX y está disponible gratuitamente. Con Open edX, los educadores y tecnólogos pueden crear herramientas de aprendizaje y aportar nuevas funciones a la plataforma, creando soluciones innovadoras para beneficiar a los estudiantes en todas partes.
+
+## MIT Open Courseware
+
+Bueno, entrar en el MIT podría ser táctil. Sin embargo, puede acceder a su material del curso. Lo bueno es que mantienen su biblioteca en línea de cada materia que enseñan. El usuario no necesita una cuenta para acceder a esos temas. Puedes aprender informática y programación, Java y programación en C.
+
+## Codewars
+
+Este sitio ofrece una forma divertida de aprender a codificar. Mejore sus habilidades entrenando con otros en desafíos de código real. Ponte a prueba en kata, creado por la comunidad para fortalecer diferentes habilidades. Domine su idioma de elección actual o amplíe su comprensión de uno nuevo.
+
+## El proyecto Odin
+
+El Proyecto Odin es en realidad un camino establecido que los estudiantes de los alumnos pueden seguir para saber más sobre el desarrollo web y la programación. No solo eso, con The Odin Project, los estudiantes también pueden trabajar para construir su portafolio que podría ayudarlos a aprender y posteriormente ser contratados.
+
+https://www.theodinproject.com/
+
+## TheCodePlayer (revisar si es de pago)
+
+Este es uno de los mejores sitios donde obtendrá video tutoriales sobre cómo comenzar y finalizar un proyecto. Si es un principiante, este sitio web le resultará muy útil. Cubre temas sobre HTML 5, CSS3, Javascript, Regex, Jquery.
+
+<!-- FALTAN POR REVISAR WTF Y REORGANIZAR TODA ESTA MIERDA XD -->
+
+### **23. [Blog de David Walsh](https://davidwalsh.name/)**
+
+[![Blog de David Walsh](https://techviral.net/wp-content/uploads/2017/06/David-Walsh-Blog.jpg)](https://techviral.net/wp-content/uploads/2017/06/David-Walsh-Blog.jpg)
+
+David Walsh Blog es un blog de David Walsh que es un desarrollador y programador web de 33 años. En su blog, puede encontrar información sobre JavaScript, AJAX, PHP, WordPress, HTML5, CSS y mucho más que podría ayudarlo a dominar sus habilidades de programación.
+
+### **24. [Tuts +](https://tutsplus.com/)**
+
+[![Tuts +](https://techviral.net/wp-content/uploads/2017/06/Tuts.jpg)](https://techviral.net/wp-content/uploads/2017/06/Tuts.jpg)Tuts +
+
+Tuts + es uno de los mayores recursos donde puedes encontrar toneladas de tutoriales gratuitos relacionados con la programación. Bueno, el sitio también alberga cursos pagos, pero los gratuitos son buenos para los principiantes.
+
+Puede visitar Tuts + para saber cómo desarrollar software desde la aplicación web hasta dispositivos móviles. No solo eso, sino que también puede obtener suficiente conocimiento sobre el lenguaje de desarrollo, el marco y las herramientas.
+
+### **25. [SitePoint](https://www.sitepoint.com/)**
+
+[![SitePoint](https://techviral.net/wp-content/uploads/2017/06/SitePoint.jpg)](https://techviral.net/wp-content/uploads/2017/06/SitePoint.jpg)SitePoint
+
+SitePoint es otro mejor sitio web donde puede aprender sobre Programación. El sitio fue creado por profesionales web para ayudar a diseñadores, principiantes, emprendedores, creadores de productos y programadores. Puede visitar Sitepoint para obtener información sobre HTML y CSS, JavaScript, PHP, Ruby, Mobile, Design & UK, WordPress, Java y más.
+
+Con estos sitios web increíbles, puede aprender fácilmente cualquier lenguaje de programación de manera profesional y puede convertirse en un programador simplemente sentándose en casa y aprendiendo de estos sitios web. Puedes crear cosas nuevas y hacer tu nombre. No olvides compartir esta publicación. Deje un comentario a continuación si crea algo nuevo al aprender de estos sitios.
+
+<!-- TERMINAN LOS QUE FALTAN POR SER ORGANIZADOS PSSSSSSSSSSSSSSSS FUCK YOU. -->
+
+## Scratch 2.0
+
+En el caso de que otras academias como Khan Academy siguen siendo demasiado exigentes para su hijo, ¿quién no comprende más allá del inglés básico? No se preocupe, hay algo aún más fácil para su aspirante a programador de próxima generación , y se llama Scratch 2.0.
+
+## SQL Zoo
+
+SQL significa  lenguaje de consulta estructurado, lo que significa almacenar y recuperar los datos, y este sitio web se centra principalmente en enseñar la creación y obtener las bases de datos.
+
+https://sqlzoo.net/wiki/The_JOIN_operation
+
+## Wibit NeT
+
+WiBit.Net es un sitio web de video tutoriales que ofrece programación de vanguardia y tutoriales de computadora. El sitio web se especializa en contenido enfocado y lineal. Es un gran lugar para comenzar a aprender a programar o elegir nuevas habilidades.
+
+Los cursos que ofrece gratuitamente son los de: Introducción a la programación de computadoras https://www.wibit.net/course/Intro, Introducción a la programación orientada a objetos https://www.wibit.net/course/Intro_OOP, Programación en Objective-C https://www.wibit.net/course/Objective-C 
+
+https://www.wibit.net/courses
+
+## Dash
+
+Dash es un destino de curso en línea divertido y gratuito que te enseña los conceptos básicos del desarrollo web a través de proyectos que puedes hacer en tu navegador. Los cursos consisten en video y narrativa y hacen que los estudiantes participen trabajando en proyectos del mundo real como diseño de sitios web, etc.
+
+Sitio interactivo para aprender lo más básico de la creación de páginas web e introducción muy básico en el mundo del desarrollo web.
+
+https://dash.generalassemb.ly/
 
 ## 2. Github
+
+Github no es en realidad un sitio desde donde puedes aprender a programar, es más como un punto de referencia. Si profundiza en Github, puede encontrar muchos libros gratuitos relacionados con la programación. Incluso puedes encontrar libros que cubren más de 80 programas diferentes. Por lo tanto, es otro mejor sitio web que puede visitar para aprender a programar.
 
 Sí, claro que sí. Github sin lugar a dudas es una de las mejores páginas en las que encontrar lo necesario para comenzar a aprender e incluso profundizar hasta lo más profundo del lenguaje de programación que deseas.
 
@@ -85,35 +180,31 @@ Por si esto fuese poco, también aporta tutoriales sobre Big Data de las tecnolo
 
 ¡Eahhh.. Todo eso e incluso más..!
 
+## 1. [Hackr.io](https://hackr.io/){:target="_blank"}
 
-### Los Blogs de Diseño Web
+![](https://i.ibb.co/MN8wGbT/image.png)
 
-* [A List Apart](https://alistapart.com/){:target="_blank"}
+Hakcr.io es una web que se dedica a recopilar todos los cursos que las personas les envían; tanto en inglés como en algunos otros idiomas; y segregarlos por temáticas, tecnologías o si son recursos bien de pago o gratuitos.
 
-### Las Páginas de Cursos / MOOC Online
+En la actualidad, el proyecto, ha tenido un crecimiento asombroso y poco a poco han ido implementando más secciones de pago, con sus propias rutas de aprendizaje.
 
-Estas páginas vienen siendo ya las más que conocidas por la mayoría de personas.. 
+A pesar de ello, siguen manteniendo el buscador de recursos gratis y lo que en su día era solamente enfocado a la programación y desarrollo web en la actualidad ya se amplia a recoger recursos diferentes para la programación, la ciencia de datos y al diseño -principalmente web-.
 
-## 1. [FreeCodeCamp](https://www.freecodecamp.com/){:target="_blank"}
+Dentro de cada sección existen subsecciones que te permiten encontrar los recursos con una mayor claridad. Exclusivamente deberás buscar un nombre de un lenguaje de programacion o un framework o herramienta en cuestión y ¡Tachán, el buscador hará la magia!
 
-![](https://i.ibb.co/cc6mYDb/image.png)
+Los [ciberninjas](https://hackr.io/ciberninjas){:target="_blank"} tenemos nuestra cuenta por allí para recursos en español, a pesar de que han rechazado muchos de los enlaces intentados publicar..
 
-FreeCodeCamp es una comunidad de código abierto que te ayuda a aprender a codificar. Puede superar nuestros desafíos de codificación a su propio ritmo, crear proyectos y obtener certificados; todo ello a través de tutoriales interactivos que permiten mantener tu progreso en un tablero visual al estilo de Github.
+## Code Academy
 
-Las Certificaciones que Ofrecen a través de estos cursos interactivos son:
+Codecademy es indiscutiblemente el sitio web más famoso para enseñarle a codificar interactivamente y realmente agradecemos su útil interfaz y cursos bien estructurados que están disponibles allí. Al visitar la página principal, ya puede comenzar a probar la programación de inmediato, con su consola e interfaz en pantalla motivadoras.
 
-* Diseño web adaptable
-* Algoritmos JavaScript y estructuras de datos
-* Bibliotecas front-end
-* Visualización de datos
-* API y microservicios
-* Seguridad de la información y garantía de calidad
+Puede elegir un curso que Codecademy ofrezca desde Web Fundamentals, PHP, JavaScript, jQuery, Python, Ruby y API y mucho más.
 
-Aprendizaje adicional:
+## Udacity
 
-* Preparación de la entrevista de codificación
+En Udacity existen cursos de gran instituciones de gran presencia a lo largo de la Web. Las mayores empresas de la tecnología así como algunas de las mejores universidades del mundo, se encuentran impartiendo cursos a través de esta plataforma; que principalmente imparte sus cursos en inglés.
 
-Además, por si todo esto no fuese suficiente. Ellos mismos gestionan un blog a través del que se lanzan publicaciones costantes con tutoriales y recopilatorios de recursos sobre una amplia lista de temáticas. Presumen de haber alcanzado ya, más de 5.000 publicaciones; personalmente diría de que las temáticas que más publican son Javascript, Java, C++ y Python; pero puedes probar a buscar cualquier cosa en el buscador del blog y casi con toda seguridad te sorprenderá.
+Algunos de los cursos puedes encontrarlos con un acceso gratuito para aprender, sin que se te devuelva ningún tipo de acreditación por ello; y una gran mayoría, son cursos de acceso limitado......
 
 ## 5. [W3schools](https://www.w3schools.com/){:target="_blank"}
 
@@ -123,11 +214,22 @@ W3schools.com es uno de los sitios web más famosos para aprender todos y cada u
 
 Divide el curso en capítulos y el Editor de codificación también está disponible para practicar al final de cada capítulo para evaluar sus habilidades. Al visitar la página principal, solo tiene que elegir el curso de su elección de forma gratuita y comenzar a aprender.
 
-Dicen las malas lenguas que al no formar parte de la página de los estándares web, el consorcio [W3C](https://www.w3.org/)  no es del todo cierta en las enseñanzas que imparte.
+W3school ofrece los siguientes cursos:
+
+- HTML / CSS
+- JavaScript
+- Gráficos HTML
+- Lado del servidor
+- Tutoriales XML
+- Edificio WEB Edificio Web
+
+Dicen las malas lenguas que al no formar parte de la página de los estándares web, el consorcio [W3C](https://www.w3.org/)  no es del todo una enseñanza real; pero vamos, que sirve perfectamente.
 
 
 
+### Los Blogs de Diseño Web
 
+* [A List Apart](https://alistapart.com/){:target="_blank"}
 
 ## Las Páginas Web de Tutoriales
 
@@ -140,39 +242,5 @@ Las páginas de tutoriales ya concidas y usadas por la mayoría de personas..
 1.
 
 
-
-
-![](https://i.ibb.co/PFtL0KL/rust-1-0-is-the-programming-language-of-mozillas-servo.jpg "El lenguaje de programación Rust creado por Mozilla ha alcanzado un punto óptimo en el mundo de la programación de sistemas.")
-
-El lenguaje de programación Python podría ser la vía más rápida para un trabajo tecnológico en cualquier parte del mundo en la actualidad, Pero, según el sitio de intercambio de conocimientos para desarrolladores Stack Overflow, el lenguaje más querido de todos es Rust, un lenguaje de programación de código abierto creado por los pioneros tecnológicos. en Mozilla en 2010.
-
-De hecho, Rust ha sido [votado como el idioma más querido](https://insights.stackoverflow.com/survey/2019?__hstc=188987252.bb5099e81a6033c3d7dd420f804cddbd.1579595011245.1579595011245.1579606677634.2&__hssc=188987252.2.1579606677634&__hsfp=790236177){:target="_blank"} durante los últimos cuatro años en las encuestas anuales de desarrolladores de Stack Overflow, aunque el 97% de los encuestados no lo ha utilizado. Entonces, ¿cómo se ha convertido en el lenguaje de programación más querido?
-
-"La respuesta corta es que Rust resuelve los puntos débiles presentes en muchos otros idiomas, proporcionando un sólido paso adelante con un número limitado de desventajas", [explica Jake Goulding en el blog de Stack Overflow](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/){:target="_blank"}.
-
-Goulding es el cofundador de la consultora Rust Integer 32, por lo que tiene un interés personal en el éxito de Rust, pero tampoco está solo para darle brillo al joven idioma. 
-
-Microsoft está experimentando con Rust para reducir los errores relacionados con la memoria en los componentes de Windows. Cada error le cuesta a Microsoft un promedio de $ 150,000 para parchar y en 2018 hubo 468 problemas de memoria que necesitaba resolver. Durante la última década, más del 70% de los parches de seguridad que envió incluyeron errores relacionados con la memoria.
-
-Los conceptos de Rust también se están utilizando en el Proyecto Verona de código abierto recientemente de Microsoft, un lenguaje experimental para la programación de infraestructura segura que podría ayudar a Microsoft a retener de manera segura el código C y C # heredado. 
-
-Mozilla Research [describe Rust como](https://research.mozilla.org/rust/){:target="_blank"} un "lenguaje de programación de sistemas que se centra en la velocidad, la seguridad de la memoria y el paralelismo". 
-
-A menudo se considera una alternativa a los lenguajes de programación de sistemas como C y C ++ que los desarrolladores usan para crear motores de juegos, sistemas operativos, sistemas de archivos, componentes de navegador y motores de simulación de realidad virtual. Mozilla, que continúa patrocinando el proyecto, dice que los programadores pueden usar Rust para crear software que sea menos propenso a errores y ataques. 
-
-Goulding señala el surgimiento de TypeScript y Python como una señal de que los desarrolladores "se han frustrado con el estado actual de la escritura dinámica en las bases de código más grandes de la actualidad".
-
-"Los lenguajes de tipo estático permiten restricciones comprobadas por el compilador en los datos y su comportamiento, aliviando la sobrecarga cognitiva y los malentendidos", explica. 
-
-"La escritura estática de Rust hace todo lo posible para apartarse del programador al tiempo que fomenta el mantenimiento a largo plazo".
-
-El otro beneficio es el acceso directo al hardware y la memoria, que se presta al uso de Rust en sistemas embebidos, desarrollo completo y núcleos de sistemas operativos, según Goulding.
-
-Luego están los problemas de seguridad de la memoria que Microsoft está explorando con Rust para abordar una base de código de lenguaje de programación de sistemas que se espera que perdure a perpetuidad. 
-
-"Si bien algunos desarrollos modernos no requieren esa cantidad de longevidad, muchas empresas quieren saber que su base de código fundamental será utilizable en el futuro previsible. Rust reconoce esto y ha tomado decisiones de diseño conscientes sobre compatibilidad y estabilidad hacia atrás; es un lenguaje [diseñado para los próximos 40 años](https://www.youtube.com/watch?v=A3AdN7U24iU){:target="_blank"}".
-
-Pero Goulding también reconoce problemas con Rust. Un problema es que su sistema de tipo fuerte y su énfasis en la seguridad de la memoria dan como resultado errores frecuentes al compilar código. 
-
-**Fuente**\: [Tech Republic](https://www.zdnet.com/article/developers-love-rust-programming-language-heres-why/){:target="_blank"}
+**Fuente**\: Mi Historial de Marcadores 😉
 {: .notice--info}

@@ -32,7 +32,7 @@ header:
   image_description: Los Mejores Editores de Texto, Programas y Aplicaciones para programar como un profesional
   image_alt: Los Mejores Editores de Texto, Programas y Aplicaciones para programar como un profesional
   caption: "Wallpaper"
-title: '🥇 ▷ Los Mejores EDITORES de TEXTO GRATIS para programar en 2020'
+title: '🥇 ▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS'
 description: >-
   ✅ Comparativa y revisión de las 16 Mejores aplicaciones GRATIS. Programas u aplicaciones para programar en CSS, HTML, Java, Python, etc GRATIS
 excerpt: >-

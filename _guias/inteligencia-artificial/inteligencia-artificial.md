@@ -17,8 +17,8 @@ header:
   image_alt: "Cómo aprender la Inteligencia Artificial en Ciberninjas"
   caption: "Créditos: Ben Taylor: [Flickr](https://www.flickr.com/photos/182229932@N07/48688109908) bajo [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)"
 #  actions:
-#    - label: "Recursos Diseño Web"
-#      url: "/diseño-recursos/"
+#    - label: ""
+#      url: "//"
 ---
 
 ## ¿Cómo aprender Inteligencia Artificial?

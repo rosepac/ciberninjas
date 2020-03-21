@@ -178,10 +178,10 @@ Las últimas actualizaciones también traen muchas otras mejoras para la experie
 
 ## Relacionados
 
-* [▷ Editores de Texto](/categoria/#editor-de-texto)
+[▷ Editores de Texto](/categoria/#editor-de-texto)
   * [Eclipse Theia](/wiki/eclipse-theia)
-* [🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2020](/programar/)
-* [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/15-mejores-lenguajes-programacion/)
-* [▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
+[🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2020](/programar/)
+[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/15-mejores-lenguajes-programacion/)
+[▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
 
 <div class="fb-post" data-href="https://www.facebook.com/cibercursos/posts/1046498462399360" data-width="1030" data-show-text="true"><blockquote cite="https://developers.facebook.com/cibercursos/posts/1046498462399360" class="fb-xfbml-parse-ignore"><p>🛒 Los mejores libros con los que aprender Android y Java, en Español</p>Publicada por <a href="https://www.facebook.com/cibercursos/">CiberCursos</a> en&nbsp;<a href="https://developers.facebook.com/cibercursos/posts/1046498462399360">Viernes, 21 de febrero de 2020</a></blockquote></div>

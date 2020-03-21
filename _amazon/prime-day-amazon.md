@@ -41,13 +41,11 @@ toc_sticky: false
 {: .notice--info}
 
 <!-- PRIME DAY DE AMAZON DEL 2020 -->
-Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2020, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas.
-
+<!-- Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2020, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas. -->
 <!-- En definitiva, una pequeña guía de Prime Day, que espero vaya creciendo año a año. -->
 ___
 
 > [¡Sigue las Mejores Ofertas Flash!](https://kutt.it/ciberninjast)  
-> ¡Hasta el final de la Campaña!
 
 ___
 
@@ -55,15 +53,7 @@ ___
 
 ![Entrada de los Componentes de Ordenador](https://i.ibb.co/XssqD3C/amazon-prime-componentes-1.webp)
 
-En esta publicación podrás ver una selección de [las mejores ofertas de componentes](https://ciberninjas.com/las-mejores-ofertas-de-componentes-de-ordenadores-del-lunes-en-el-prime-day-de-amazon/) de ordenadores: tarjetas gráficas, placas base, fuentes de alimentación o “SAIS”.
-
-Además, puedes encontrar mucho más, en las diferentes secciones globales:
-
-* [20% menos en productos reacondicionados](https://amzn.to/2jXNOnE) ¡APLICABLE A LA HORA DEL PAGO!
-* [20% de descuento en Discos Sólidos M.2 y Memorias RAM](https://amzn.to/2jYYTF1)
-* [30 % de descuentos en productos de Discos Duros y Memorias](https://amzn.to/2k6hG0V)
-* [Importantes descuentos en Discos Duros Externos de Western Digital](https://amzn.to/2jZ0uuv)
-* [Los mejores descuentos en Monitores](https://amzn.to/2lCIzu5) En marcas como: BenQ, HP, Philips, Samsung.
+En esta publicación podrás ver una selección de [las mejores ofertas de componentes](https://ciberninjas.com/ordenadores-componentes/) de ordenadores: tarjetas gráficas, placas base, fuentes de alimentación o “SAIS”.
 
 ## Ofertas de Dispositivo de Diseño Gráfico
 
@@ -174,9 +164,9 @@ Si desea ponerse al día con las lecturas de verano , a través de Amazon’s Pr
 
 Varios modelos diferentes de Amazon Kindle están a la venta a través de Amazon Prime Day. Para los lectores que buscan llevar sus libros a la playa o la piscina, Paperwhite es un lector electrónico a prueba de agua que almacena entre 8GB y 32GB. Del mismo modo, el modelo más nuevo del Kindle básico. Las compras de cualquiera de los Kindle vienen con un crédito de eBooks.
 
-* [Kindle Paperwhite](https://amzn.to/2lCjLlR) Resistente al agua, pantalla de alta resolución de 6″, 8 GB – incluye ofertas especiales
-* [Nuevo Kindle](https://amzn.to/2jYgSLP) ahora con luz frontal integrada, negro.
-* [Nuevo Kindle](https://amzn.to/2jZgBZ1) ahora con luz frontal integrada, blanco.
+* [Kindle Paperwhite](https://amzn.to/2J3LsMY) Resistente al agua, pantalla de alta resolución de 6″, 8 GB – incluye ofertas especiales
+* [Nuevo Kindle Oasis](https://amzn.to/3aiUQZ7) ahora con luz frontal integrada, negro.
+* [Nuevo Kindle Oasis](https://amzn.to/3bbS33D) ahora con luz frontal integrada, de color dorado.
 
 ### Kindle Unlimited
 
