@@ -68,7 +68,8 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [Revistar Computer Hoy y de la Editorial Axel Springer](https://www.minds.com/newsfeed/1087656671227920384?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
 - [Libros Gratis en La Casa del Libro](https://www.minds.com/newsfeed/1087774182482681856?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libros-gratis-la-casa-del-libro)
 - [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
-- [📖 Libro: Guerreras de la Ciencia GRATIS](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
+- [Libro: Guerreras de la Ciencia GRATIS](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
+- [Comics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-comics-gratis-de-league-of-legends-marvel){:target="_blank"}
 - [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"}{:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
 - [Estreno The Mandalorian en Cuatro](https://www.cuatro.com/practica-cuatro/estreno-the-mandalorian-primicia-viernes-20_18_2916120153.html){:target="_blank"} (20 de Marzo -22:00 H. Española)
 
@@ -149,6 +150,10 @@ En tanto a lo que nos interesa por aquí, a los Ciberninjas; nos podemos encontr
 <!-- Directos A través de Youtube -->
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
+
+### **Comics de Riot Games**
+
+Desde hace tiempo los creadores del videojuego de League of Legend "LOL" han sacado diferentes cómics, primero creados por la propia empresa Riot; y luego en colaboración de la mismísima Marvel. En la actualidad existen comics sobre los personajes de: Zed, Lux, Ashe, Ryze, Varus, Ziggs y Jinx, Nami, Miss Fortune y Darius.
 
 ### **Partidos Históricos del Mundial**
 
