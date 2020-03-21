@@ -97,6 +97,8 @@ Otras Revistas de la línea editorial Axel Springer
   - Descargar [Top Gear 22](https://drive.google.com/open?id=1vyZ-NLE2G62RN_QlU7QVh44jD8wzZt9n){:target="_blank"}
   - Descargar [Top Gear 21](https://drive.google.com/open?id=1hASSq7c75noGdTCkQ8q_IgMiaVmes_BH){:target="_blank"}
 
+[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
+
 ## **Libros Gratis: La Casa del Libro**
 
 Algunas editoriales han decidido poner sus ebooks gratuitos de forma solidaria, a través de la página de La Casa del Libro podrás descargar para cualquier E-Reader o Lector Electrónico. Por ejemplo, el [Kindle Paperwhite](https://amzn.to/2lCjLlR){:target="_blank"} o los nuevos Kindle Oasis; disponibles en [color negro](https://amzn.to/2jYgSLP){:target="_blank"} o [color dorado](https://amzn.to/2jZgBZ1){:target="_blank"}.
@@ -120,11 +122,15 @@ Los libros disponibles son:
 - Las Horas Robadas - María Solar
 - La Saga Completa de Ever After High
 
+[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
+
 ## **Editorial DOLMEN**
 
 Desde la editorial Dolmen ponen a nuestra disposición unos comics y algunos otros libros.
 
 Los títulos son los siguientes: Una historia de Perros Viejos, Cómo Sobrevivir al Apocalipsis Zombi con Tu Madre, Cabezón de Acero, El Libro de Sarah, Apocalipsis Island y De Madrid al Zielo.
+
+[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
 ### **Editorial Léeme Libros**
 
@@ -132,15 +138,17 @@ Libros GRATIS con los que Reflexionar estos días: El Poder de las Personas: Un 
 
 - [Léeme Libros](https://steemit.com/hive-154806/@rosepac/-libros-gratis-con-los-que-reflexionar-estos-das-yomequedoencasa-1584225813){:target="_blank"}
 
+[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
+
 ### **Libro Guerreras de la Ciencia**
 
 Doce profesionales especializadas en diferentes campos y disciplinas, se han juntado para reunir sus artículos dentro de un solo libro: Guerreras de la Ciencia.
 
 El documento es muy extenso, tanto como casi 500 páginas.
 En tanto a lo que nos interesa por aquí, a los Ciberninjas; nos podemos encontrar con artículos sobre bases de datos, desarrollo web y móvil, gestión de proyectos, hardware, inteligencia artificial y minería de texto, lógica, ciencias y matemáticas, programación, seguridad informática y mucho más.
-
-[⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 <!-- Directos A través de Youtube -->
+
+[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
 ### **Partidos Históricos del Mundial**
 
@@ -148,6 +156,7 @@ Como muchos se enfrentan al aislamiento como resultado de la pandemia global de 
 
 A través de la campaña #WorldCupAtHome , las repeticiones completas de más de 30 juegos inolvidables de FIFA World Cup ™ y FIFA Women's World Cup ™ se publicarán por primera vez en FIFA.com, el canal FIFA YouTube y también en Weibo en China como desde el sábado 21 de marzo de 2020. Las repeticiones proporcionarán una experiencia inmersiva con una amplia participación en las redes sociales, brindando a los fanáticos de todo el mundo la oportunidad de seleccionar sus partidos favoritos para retransmitirlos hasta nuevo aviso.
 
+[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Alternativas Videojuegos**
@@ -166,10 +175,14 @@ A través de la campaña #WorldCupAtHome , las repeticiones completas de más de
 
 Edición de primavera te trae docenas de demos para descargar y jugar, así como otros títulos destacados de Indie MEGABOOTH, The MIX, Day of the Devs y WINGS.
 
+[🎮 Vuelve a Alternativas Videojuegos](/alternativas-culturales-combatir-coronavirus/#alternativas-videojuegos){: .btn .btn--inverse .btn--large .align-center}
+
 ### **Plataforma GOG: 28 videojuegos clásicos gratis**
 
 TU LUGAR PARA CLÁSICOS SIN DRM Y LOS MEJORES JUEGOS INDIE
 Incluso si el sol está brillando y las flores ya han comenzado a florecer donde vives, la salud y la seguridad están en la mente de todos en este momento. Cerrar las cortinas y jugar videojuegos puede ser una de las mejores maneras de relajarse y pasar el tiempo cuando se queda en casa. Estamos aquí para ayudarlo a elegir su próxima gran aventura con esta selección de juegos gratuitos de nuestro catálogo y una gran oferta de primavera hasta el 30 de marzo.
+
+[🎮 Vuelve a Alternativas Videojuegos](/alternativas-culturales-combatir-coronavirus/#alternativas-videojuegos){: .btn .btn--inverse .btn--large .align-center}
 
 ### Gamivo: Juego Aleatorio Gratis
 
@@ -178,6 +191,7 @@ Cada cliente puede comprar un producto por cuenta. Los juegos se reparten al aza
 
 Juegos al Azar: 39 pasos, Chicken Shoot Gold, Comandante: conquista de las Américas, Enclave, Gorki 17, Heli Heroes, Invasión del cielo de hierro, Jagged Alliance 2 Wildfire, Jack Orlando Director Cut, Caballeros y mercaderes, Lego Hobbit, Planetas bajo ataque, X-Blades, ¡Y más!
 
+[🎮 Vuelve a Alternativas Videojuegos](/alternativas-culturales-combatir-coronavirus/#alternativas-videojuegos){: .btn .btn--inverse .btn--large .align-center}
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Alternativas Musicales**
@@ -198,21 +212,23 @@ Sin lugar a dudas la iniciativa musical más brillante de todas las que se han l
 
 #### Día 20
 
-![](/assets/images/blog/20-musica.webp)
-
 Penny Necklace, Rafa Pons, FloridaBlanca, Colectivo Panamera, Julia Medina, Conchita, Marlon, Los Vinagres, Luis Fercán, Elefantes, Vanesa Martín, Beret, Álvaro Soler, Efecto Pasillo, Álex Úbago, Smile, Monarchy.
+
+![](/assets/images/blog/20-musica.webp)
 
 #### Día 21
 
-![](/assets/images/blog/21-musica.webp)
-
 Juan Cid, Gritando en Silencio, Alex Gómez, Coco Green, El Verbo Odiado, Basanta, Luis Brea, Adriana Moragues, Rodrigo Cueevas, Ruth Lorenzo, David Demaría, Pastora Soler, Luis Ramiro, Bely Basarte, Fredi Leis, Mikel Erentxun, Amaral, Guitarrica de la Fuente, Sidonie, Coti, Siloé, DJ Nano.
+
+![](/assets/images/blog/21-musica.webp)
 
 #### Día 22
 
+Alberto Torres, Malva, Naranja, Alejandro Martínez (Sumando Voces), Ele, St. Woods, Mabu, Ruiperez (M Clan), Los Fesser, 84, Edurne, La Pegatina, Coque Malla, Rulo, Ariel Rot, Sidecars, Los Secretos, Sidecars, Miki Nuñez, Sinsinati.
+
 ![](/assets/images/blog/22-musica.webp)
 
-Alberto Torres, Malva, Naranja, Alejandro Martínez (Sumando Voces), Ele, St. Woods, Mabu, Ruiperez (M Clan), Los Fesser, 84, Edurne, La Pegatina, Coque Malla, Rulo, Ariel Rot, Sidecars, Los Secretos, Sidecars, Miki Nuñez, Sinsinati.
+[🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 
 ### **Mantita Fest**
 
@@ -221,6 +237,8 @@ TODOS los artistas conectarán desde sus propios perfiles de Instagram, y Ademá
 - ***Jueves 19***: Técanela, Patricia Lázaro, El José, Ágenla González, María Ruíz, Pedro Pastor, Javi Medina, Mundo Chillón, Road Ramos.
 - ***Viernes 20***: Capitán Cobarde, Claudia Aquilar, Astola, Lena Carrilero, Felix Antílopez, Sheila Patricia, Jamones con Tacones, Elena Salguero, El Niño del Albayzín.
 - ***Sábado 21***: Gato Charro, Arco, Maui, Fran Mariscal, Daniel Mata, Alicia Ramos, María del Tango, Duende de Gaia.
+
+[🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 
 ### **Cuarentena Fest**
 
@@ -239,6 +257,7 @@ Artistas:
 - ***Jueves 26***: Apartamentos Acapulco, Roldán, Estrella Fugaz, Santi, Angel Calvo.
 - ***Viernes 27***:Detergente Líquido, De los Santos, Jose Ignacio Martorell, Betacam, Pixel de Stael.
 
+[🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Alternativas Educativas**
@@ -248,7 +267,7 @@ Artistas:
 - [Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
-Como no, nuestros cursos:
+Como no, nuestros recopilatorioes de cursos:
 - [Cursos de Programación, Desarrollo Web y Mucho Más](/cursos-tecnologia/)
 - [Cursos para Educadores y Recursos Educativos](/cursos-educacion/)
 - [Cursos de Animación y Diseño](/cursos-animacion-diseno/)
