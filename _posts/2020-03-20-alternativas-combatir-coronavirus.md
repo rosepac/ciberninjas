@@ -37,7 +37,7 @@ Dicho esto, con el ya conocido problema que se ha ido contagiando por más de me
 
 **[#QuedateEnCasa](https://twitter.com/search?q=%23QuedateEnCasa&src=typeahead_click&f=live){:target="_blank"}** **[#FrenaLaCurva](https://frenalacurva.net/){:target="_blank"}** **[#YoMeQuedoEnCasa](https://twitter.com/search?q=%23YoMeQuedoEnCasa%20&src=typed_query&f=live){:target="_blank"}** **[#YoMeQuedoEnMiCasa](){:target="_blank"}** **[#QuedateEnLaCasa](){:target="_blank"}**  **[#quedatencasa](){:target="_blank"}** **[#CuarentenaCoronavirus](){:target="_blank"}**
 
-Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría de casos; otros a través de Instagram; en la búsqueda de **los hastags anteriores**.
+Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría de casos; otros a través de Instagram; en la búsqueda de **los hastags anteriores**. Otras alternativas se basan en la descarga de productos digitales, para lo que te serán de ayuda estos sitios de [Creación de Correos Temporales](https://www.minds.com/newsfeed/1088519671710687232?referrer=rosepac){:target="_blank"}.
 
 ## Alternativas para combatir el coronavirus
 
@@ -72,12 +72,11 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [Comics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-comics-gratis-de-league-of-legends-marvel){:target="_blank"}
 - [Comics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank"}
 - [Más de 700 Comics en Inglés GRATIS](https://www.minds.com/newsfeed/1088166633788461056?referrer=rosepac){:target="_blank"}
+- [Partidos Históricos de Baloncesto NBA](https://www.youtube.com/playlist?list=PLtjs88_96K3k8osAmFzBNo5bm53pHkDrb){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-de-baloncesto-nba)
 - [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"}{:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
-- [Estreno The Mandalorian en Cuatro](https://www.cuatro.com/practica-cuatro/estreno-the-mandalorian-primicia-viernes-20_18_2916120153.html){:target="_blank"} (20 de Marzo -22:00 H. Española)
-
 - [Bibliotecas y Revistas Virtuales en Español -todas-](/biblioteca-novela-poesia/)
 
-## **Revistas de Computer Hoy**
+### **Revistas de Computer Hoy**
 
 - **Computer Hoy**
 - Descargar [Computer Hoy 558](https://drive.google.com/open?id=1qvHw76PvBfx0Qf-F8P77KIMAtgSqXkEE){:target="_blank"}
@@ -102,7 +101,7 @@ Otras Revistas de la línea editorial Axel Springer
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-## **Libros Gratis: La Casa del Libro**
+### **Libros Gratis: La Casa del Libro**
 
 Algunas editoriales han decidido poner sus ebooks gratuitos de forma solidaria, a través de la página de La Casa del Libro podrás descargar para cualquier E-Reader o Lector Electrónico. Por ejemplo, el [Kindle Paperwhite](https://amzn.to/2lCjLlR){:target="_blank"} o los nuevos Kindle Oasis; disponibles en [color negro](https://amzn.to/2jYgSLP){:target="_blank"} o [color dorado](https://amzn.to/2jZgBZ1){:target="_blank"}.
 
@@ -127,7 +126,20 @@ Los libros disponibles son:
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-## **Editorial DOLMEN**
+### Editorial Astiberri
+
+Durante las próximas semanas, Astiberri estará en casa y en pijama ofreciendo algunos contenidos que esperamos que os entretengan un rato y os acerquen a los autores de las obras que publicamos.
+
+Empezamos el ciclo de charlas Astiberri en pijama. Hablaremos desde casa con autores de obras publicadas por Astiberri:
+
+20 de marzo a las 18.30. Alfonso Zapico
+24 de marzo a las 18.30. Blanca Vázquez
+27 de marzo a las 18.30. Paco Roca
+30 de marzo a las 18.30. Nadar
+
+A lo largo de los próximos días anunciaremos novedades en nuestra tienda de cómic digital, nuevos encuentros con autores a través de las redes sociales y alguna sorpresa más, tanto para adultos como para los peques que están pasando estos días en casa.
+
+### **Editorial DOLMEN**
 
 Desde la editorial Dolmen ponen a nuestra disposición unos comics y algunos otros libros.
 
@@ -156,6 +168,10 @@ En tanto a lo que nos interesa por aquí, a los Ciberninjas; nos podemos encontr
 ### **Comics de Riot Games**
 
 Desde hace tiempo los creadores del videojuego de League of Legend "LOL" han sacado diferentes cómics, primero creados por la propia empresa Riot; y luego en colaboración de la mismísima Marvel. En la actualidad existen comics sobre los personajes de: Zed, Lux, Ashe, Ryze, Varus, Ziggs y Jinx, Nami, Miss Fortune y Darius.
+
+### **Partidos Históricos de Baloncesto NBA**
+
+Hardwood Classics is a television series that airs on NBA TV and features many of the greatest classic games recorded on videotape or film in National Basketball Association history. The show is produced by NBA Entertainment. During its earlier years on NBA TV, the series would air frequently in various timeslots, including at a set time on Thursday afternoons for a number of years. However, as the network has increased its output of originally-produced programming and live game coverage, Hardwood Classics airs more sporadically, with its most frequent airings taking place during the NBA offseason.
 
 ### **Partidos Históricos del Mundial**
 
@@ -270,10 +286,10 @@ Artistas:
 ## **Alternativas Educativas**
 
 - [Aplicaciones sobre todo para Primaria](https://www.minds.com/newsfeed/1088200807123296256?referrer=rosepac) (Gratis Temporalmente) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-gratis)
-- [Salvat: Audios y Libros Gratis]()
 - [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
 - [Cursos de la Constitución Española para Opositores](https://www.minds.com/newsfeed/1087694009007644672?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#campus-mad-para-opositores)
 - [Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
+- [Salvat: Audios y Libros Gratis](https://www.minds.com/newsfeed/1088515844003282944?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#salvat-regala-audiolibros-y-cuentos-para-niños)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
 Como no, nuestros recopilatorioes de cursos:
@@ -303,6 +319,16 @@ Campus MAD ofrece gratuitos por un plazo de 40 días, tres cursos con los que pr
 - Curso 3: Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público
 
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
+
+### Salvat Regala Audiolibros y Cuentos para niños
+
+La Editorial Salvat esta regalando de forma gratuita varios audiolibros y cuentos para hacer el refugio en casa, algo más entretenido.
+
+Los títulos son los siguientes:
+
+Pinocho, El patito feo, La sirenita, El libro de la selva, Blancanieves y El flautista de Hamelín; en sus dos versiones, tanto pdf como MP3.
+
+Y varios títulos de la colección, Un mundo de Emociones, en su versión PDF. El mierdo, la ilusión, el aburrimiento, el amor y la alegría.
 
 ## **Alternativas Deportivas**
 
