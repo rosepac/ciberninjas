@@ -133,4 +133,4 @@ Consulte con sus compañeros de trabajo y el jefe varias veces al día. La mejor
 
 Utilice tecnología de comunicaciones gratuita o de bajo costo. Hoy en día hay innumerables herramientas disponibles para mantener una estrecha comunicación con los compañeros de empresa. Algunas de ellas, incluyen: Slack o Hipchat para chatear en grupo, Trello o Asana para la gestión de proyectos, Expensify para rastrear gastos y enviar informes de gastos y Skype o Hangout, para la realización de videollamadas.
 
-**Fuente**: [Inc.](https://www.inc.com/christina-desmarais/get-more-done-18-tips-for-telecommuters.html){:target="_blank"}
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1346699565516895" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1346699565516895" class="fb-xfbml-parse-ignore"><p>🎨 Originales Libros para Pintar para Adultos 👨‍🎨</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1346699565516895">Domingo, 22 de marzo de 2020</a></blockquote></div>
