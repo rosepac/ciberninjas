@@ -35,6 +35,8 @@ Pero también hay desafíos, ¿Cómo evitas distraerte con las tareas doméstica
 🔥 Seguro también te interesa: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
 {: .notice--danger}
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1346657625521089" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1346657625521089" class="fb-xfbml-parse-ignore"><p>🧠 Pensamiento, Reflexión, Psicología: Mejores Prácticas y Autoayuda 🧠</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1346657625521089">Domingo, 22 de marzo de 2020</a></blockquote></div>
+
 ### **18 Mejores prácticas para aumentar tu productividad desde el teletrabajo**
 
 Aquí están las mejores costumbres para lograr que el teletrabajo funcione.

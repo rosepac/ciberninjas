@@ -35,6 +35,8 @@ Muchas compañías, especialmente las tecnológicas como Twitter, Google, Facebo
 🔥 Seguro también te interesa: [Mejores Prácticas para Teletrabajar](/mejores-practicas-trabajar-desde-casa/)
 {: .notice--danger}
 
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1346657625521089" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1346657625521089" class="fb-xfbml-parse-ignore"><p>🧠 Pensamiento, Reflexión, Psicología: Mejores Prácticas y Autoayuda 🧠</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1346657625521089">Domingo, 22 de marzo de 2020</a></blockquote></div>
+
 ## **1. Buena conexión a internet**
 
 El trabajo desde casa, sería imposible sin lugar a dudas sin estar conectado a la red.
