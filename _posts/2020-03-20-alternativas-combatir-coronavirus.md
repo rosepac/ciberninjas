@@ -70,6 +70,8 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
 - [Libro: Guerreras de la Ciencia GRATIS](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
 - [Comics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-comics-gratis-de-league-of-legends-marvel){:target="_blank"}
+- [Comics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank"}
+- [Más de 700 Comics en Inglés GRATIS](https://www.minds.com/newsfeed/1088166633788461056?referrer=rosepac){:target="_blank"}
 - [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"}{:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
 - [Estreno The Mandalorian en Cuatro](https://www.cuatro.com/practica-cuatro/estreno-the-mandalorian-primicia-viernes-20_18_2916120153.html){:target="_blank"} (20 de Marzo -22:00 H. Española)
 
@@ -267,6 +269,8 @@ Artistas:
 
 ## **Alternativas Educativas**
 
+- [Aplicaciones sobre todo para Primaria](https://www.minds.com/newsfeed/1088200807123296256?referrer=rosepac) (Gratis Temporalmente) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-gratis)
+- [Salvat: Audios y Libros Gratis]()
 - [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
 - [Cursos de la Constitución Española para Opositores](https://www.minds.com/newsfeed/1087694009007644672?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#campus-mad-para-opositores)
 - [Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
@@ -277,6 +281,10 @@ Como no, nuestros recopilatorioes de cursos:
 - [Cursos para Educadores y Recursos Educativos](/cursos-educacion/)
 - [Cursos de Animación y Diseño](/cursos-animacion-diseno/)
 - [Ciberninjas: Nuestros Recursos Seleccionados](https://kutt.it/recursos)
+
+### **Aplicaciones Gratis**
+
+Kahoot!, SecureKids, Smile and Learn, EdPuzzle, Academons.
 
 ### **Scribd**
 
