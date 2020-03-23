@@ -64,14 +64,16 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 ### **Alternativas Culturales**
 
 - [Revistar Computer Hoy y de la Editorial Axel Springer](https://www.minds.com/newsfeed/1087656671227920384?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
-- [Libros Gratis en La Casa del Libro](https://www.minds.com/newsfeed/1087774182482681856?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libros-gratis-la-casa-del-libro)
-- [Libros Gratis de La Editorial Planeta y Actividades](https://keepreadingencasa.planetadelibros.com/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-y-actividades)
-- [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
-- [Libro: Guerreras de la Ciencia GRATIS](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
+- [La Casa del Libro: Libros Gratis](https://www.minds.com/newsfeed/1087774182482681856?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libros-gratis-la-casa-del-libro)
+- [Editorial Planeta: Libros y Actividades](https://keepreadingencasa.planetadelibros.com/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-y-actividades)
+- Editorial Anagrama [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-anagrama)
+- Editorial Errata Naturae [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-errata-naturae)
+- [Editorial DOLMEN: Libros Gratis](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
+- [Libro: Guerreras de la Ciencia](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
 - [Nubico: Lectura Online](https://www.nubico.es/prueba-gratis-nubico-premium){:target="_blank"} (Gratis por 15 Días: 50.000 libros y 80 revistas)
-- [Comics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-comics-gratis-de-league-of-legends-marvel){:target="_blank"}
-- [Comics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank"}
-- [Más de 700 Comics en Inglés GRATIS](https://www.minds.com/newsfeed/1088166633788461056?referrer=rosepac){:target="_blank"}
+- [Cómics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-Cómics-gratis-de-league-of-legends-marvel){:target="_blank"}
+- [Cómics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank"}
+- [Cómics Más de 700 Cómics en Inglés GRATIS](https://www.minds.com/newsfeed/1088166633788461056?referrer=rosepac){:target="_blank"}
 - [Juegos de Mesa Imprimibles](https://www.minds.com/newsfeed/1088859593176981504?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juegos-de-mesa-imprimibles)
 - [Partidos Históricos de Baloncesto NBA](https://www.youtube.com/playlist?list=PLtjs88_96K3k8osAmFzBNo5bm53pHkDrb){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-de-baloncesto-nba)
 - [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"}{:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
@@ -149,6 +151,62 @@ Otros: Begoña Alberdi, Judith Mateo, Josef Ajram, Lucía Galán, María Leach, 
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
+## **Editorial Anagrama**
+
+Decide poner de forma gratuita en todas las plataformas con las que trabaja (Amazon, Apple, BajaLibros, Casa del Libro, Feedbooks, Fnac, Gandhi, Google Play, Kobo, Nubico y Porrúa) cinco de sus títulos en formato Ebook, como son:
+
+- Fiesta en la Madriguera de Juan Pablo Villalobos.
+- Mis Documentos de Alejandro Zambra.
+- Las cosas que perdimos en el fuego de Mariana Enriquez.
+- Años felices de Gonzalo Torné.
+- Un buen detective no se casa jamás de Marta Sanz.
+
+Para la descargar de los mismos, debes entrar a tu plataforma favorita y ejecutar la compra del mismo, de forma gratuita.
+
+[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
+
+## **Editorial Errata Naturae**
+
+Desde la editorial Errata Naturae han decidido regalarnos sus curiosos libros, en total 20 curiosos títulos con los que entretenernos y ver el mundo desde un punto de vista diferente.
+
+#### Historias distópicas, reales o imaginarias 
+
+- Entre los archivos del distrito - Kenneth Bernard
+- Sofia Petrovna: Una ciudadana ejemplar - Lidia Chukóvskaia
+- La iniciación de hombre, 1917 - John Dos Passos
+- Sueños - Franz Kafka
+
+#### Pensamiento crítico en situaciones críticas
+
+- Pensar desde la Izquierda: Mapa del pensamiento crítico para un tiempo en crisis
+- Contribución a la Guerra en Curso
+- Las Cazas del Hombre: El ser humano como presa de la Grecia de Aristóteles a la Italia de Berlusconi
+- A través de los Muros: Cómo el ejército israelí se apropió de la teoría crítica postmoderna y reinventó la guerra urbana
+
+#### Para reírse un rato
+
+- El Bibliómano Ignorante - Luciano
+- El Compañero de Piso de Mierda: Guía de supervivencia para compartir casa
+
+#### Pasa de Netflix pero piensa en cine
+
+- Mutaciones del Cine Contemporáneo
+- Los Soprano Forever
+
+#### Si no tienes niños
+
+- El niño criminal - Jean Genet
+
+#### Novela Negra
+
+- Interrogatorios - Dashell Hammett
+- Guía de la Novela Negra - Héctor Malverde
+- Juicio contra una prostituta - Demóstenes
+
+#### Para las Situaciones Difíciles
+
+- El destripador - Rober Desnos
+
 ## **Editorial Astiberri**
 
 Durante las próximas semanas, Astiberri estará en casa y en pijama ofreciendo algunos contenidos que esperamos que os entretengan un rato y os acerquen a los autores de las obras que publicamos.
@@ -166,7 +224,7 @@ A lo largo de los próximos días anunciaremos novedades en nuestra tienda de c�
 
 ## **Editorial DOLMEN**
 
-Desde la editorial Dolmen ponen a nuestra disposición unos comics y algunos otros libros.
+Desde la editorial Dolmen ponen a nuestra disposición unos Cómics y algunos otros libros.
 
 Los títulos son los siguientes: Una historia de Perros Viejos, Cómo Sobrevivir al Apocalipsis Zombi con Tu Madre, Cabezón de Acero, El Libro de Sarah, Apocalipsis Island y De Madrid al Zielo.
 
@@ -194,9 +252,9 @@ En tanto a lo que nos interesa por aquí, a los Ciberninjas; nos podemos encontr
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-## **Comics de Riot Games**
+## **Cómics de Riot Games**
 
-Desde hace tiempo los creadores del videojuego de League of Legend "LOL" han sacado diferentes cómics, primero creados por la propia empresa Riot; y luego en colaboración de la mismísima Marvel. En la actualidad existen comics sobre los personajes de: Zed, Lux, Ashe, Ryze, Varus, Ziggs y Jinx, Nami, Miss Fortune y Darius.
+Desde hace tiempo los creadores del videojuego de League of Legend "LOL" han sacado diferentes cómics, primero creados por la propia empresa Riot; y luego en colaboración de la mismísima Marvel. En la actualidad existen Cómics sobre los personajes de: Zed, Lux, Ashe, Ryze, Varus, Ziggs y Jinx, Nami, Miss Fortune y Darius.
 
 ## **Juegos de Mesa Imprimibles**
 
@@ -369,6 +427,7 @@ Campus MAD ofrece gratuitos por un plazo de 40 días, tres cursos con los que pr
 - [Aplicaciones sobre todo para Primaria](https://www.minds.com/newsfeed/1088200807123296256?referrer=rosepac) (Gratis Temporalmente) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-gratis-para-niños)
 - [Salvat: Audios y Libros Gratis](https://www.minds.com/newsfeed/1088515844003282944?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#salvat-regala-audiolibros-y-cuentos-para-niños)
 - [Libros Colorear Gratis del Planeta de los Libros](https://www.minds.com/newsfeed/1088875518647279616?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-para-los-niños)
+- [Editorial Errata Naturae: Para niños](http://erratanaturae.com/8805-2/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-errata-naturae-ideas-para-niños)
 
 ## **Aplicaciones Gratis para Niños**
 
@@ -387,6 +446,12 @@ Y varios títulos de la colección, Un mundo de Emociones, en su versión PDF. E
 ## Editorial Planeta para los Niños
 
 Diferentes libros de colorear: Diario Elashow, Anna Kadabra, Núria Díaz, Ana Llenas, Soy una Niña Rebelde, Recicla y Crea, Lucía, mi pediatra.
+
+## **Editorial Errata Naturae: Ideas para Niños**
+
+- El genio maligno del Señor Descartes
+- El filósofo perro frente al sabio platón
+- Un día loco en la vida del profesor Kant
 
 ## **Alternativas Deportivas**
 
