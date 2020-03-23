@@ -72,6 +72,7 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [Comics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-comics-gratis-de-league-of-legends-marvel){:target="_blank"}
 - [Comics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank"}
 - [Más de 700 Comics en Inglés GRATIS](https://www.minds.com/newsfeed/1088166633788461056?referrer=rosepac){:target="_blank"}
+- [Juegos de Mesa Imprimibles](https://www.minds.com/newsfeed/1088859593176981504?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juegos-de-mesa-imprimibles)
 - [Partidos Históricos de Baloncesto NBA](https://www.youtube.com/playlist?list=PLtjs88_96K3k8osAmFzBNo5bm53pHkDrb){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-de-baloncesto-nba)
 - [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"}{:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
 - [Bibliotecas y Revistas Virtuales en Español -todas-](/biblioteca-novela-poesia/)
@@ -168,6 +169,27 @@ En tanto a lo que nos interesa por aquí, a los Ciberninjas; nos podemos encontr
 ### **Comics de Riot Games**
 
 Desde hace tiempo los creadores del videojuego de League of Legend "LOL" han sacado diferentes cómics, primero creados por la propia empresa Riot; y luego en colaboración de la mismísima Marvel. En la actualidad existen comics sobre los personajes de: Zed, Lux, Ashe, Ryze, Varus, Ziggs y Jinx, Nami, Miss Fortune y Darius.
+
+### **Juegos de Mesa Imprimibles**
+
+Diferentes juegos de mesa, a la antigua usanza. Los que serás capaz de poder montar, en su totalidad desde casa. Lo único que necesitarás será papel y tinta a color; un poco de paciencia, tijeras y ánimos. Pero, ¿Qué mejor entretenimiento para los más pequeños de la casa?
+
+Los diferentes juegos son:
+
+1. Carabana al oeste. Edad mínima sugerida 7 años.
+2. Expansiópolis. Edad mínima sugerida 8 años.
+3. Zumos. Edad mínima sugerida 8 años.
+4. No time for heroes. Edad variable según modalidad.
+5. Upstream. Edad mínima sugerida 8 años.
+6. New Corp Order. Edad mínima recomendada 14 años.
+7. Peak oil. Edad mínima sugerida 10 años.
+8. Vae Victis. Edad mínima sugerida 10 años.
+9. Escape pods. Edad mínima sugerida 10 años.
+10. Pandemain. Edad mínima sugerida 12 años.
+11. Dirty frdge. Edad mínima sugerida 6 años.
+12. Paradox University. Edad mínima sugerida 8 años.
+13. Berridos. Edad mínima sugerida 5 años.
+14. Catchup and Mousetard. Edad mínima sugerida 8 años.
 
 ### **Partidos Históricos de Baloncesto NBA**
 
