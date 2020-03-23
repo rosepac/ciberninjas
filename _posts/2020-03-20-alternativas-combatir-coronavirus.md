@@ -67,7 +67,7 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [La Casa del Libro: Libros Gratis](https://www.minds.com/newsfeed/1087774182482681856?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libros-gratis-la-casa-del-libro)
 - [Editorial Planeta: Libros y Actividades](https://keepreadingencasa.planetadelibros.com/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-y-actividades)
 - Editorial Anagrama [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-anagrama)
-- Editorial Errata Naturae [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-errata-naturae)
+- [Editorial Errata Naturae](http://erratanaturae.com/8805-2/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-errata-naturae)
 - [Editorial DOLMEN: Libros Gratis](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
 - [Libro: Guerreras de la Ciencia](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
 - [Nubico: Lectura Online](https://www.nubico.es/prueba-gratis-nubico-premium){:target="_blank"} (Gratis por 15 Días: 50.000 libros y 80 revistas)
@@ -206,6 +206,8 @@ Desde la editorial Errata Naturae han decidido regalarnos sus curiosos libros, e
 #### Para las Situaciones Difíciles
 
 - El destripador - Rober Desnos
+
+[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Editorial Astiberri**
 
