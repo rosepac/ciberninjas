@@ -53,15 +53,15 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-## **Alternativas Tecnológicas**
+### **Alternativas Tecnológicas**
 
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
-### **Charlas de Desarrolladores de Google España**
+## **Charlas de Desarrolladores de Google España**
 
 - [💻 Charlas por streaming del GDG Spain durante el confinamiento por el Coronavirus #YoMeQuedoEnCasaGDG](https://steemit.com/hive-154806/@rosepac/-charlas-por-streaming-del-gdg-spain-durante-el-confinamiento-por-el-coronavirus-yomequedoencasagdg-1584549963){:target="_blank"}
 
-## **Alternativas Culturales**
+### **Alternativas Culturales**
 
 - [Revistar Computer Hoy y de la Editorial Axel Springer](https://www.minds.com/newsfeed/1087656671227920384?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
 - [Libros Gratis en La Casa del Libro](https://www.minds.com/newsfeed/1087774182482681856?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libros-gratis-la-casa-del-libro)
@@ -77,7 +77,7 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"}{:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
 - [Bibliotecas y Revistas Virtuales en Español -todas-](/biblioteca-novela-poesia/)
 
-### **Revistas de Computer Hoy**
+## **Revistas de Computer Hoy**
 
 - **Computer Hoy**
 - Descargar [Computer Hoy 558](https://drive.google.com/open?id=1qvHw76PvBfx0Qf-F8P77KIMAtgSqXkEE){:target="_blank"}
@@ -102,7 +102,7 @@ Otras Revistas de la línea editorial Axel Springer
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-### **Libros Gratis: La Casa del Libro**
+## **Libros Gratis: La Casa del Libro**
 
 Algunas editoriales han decidido poner sus ebooks gratuitos de forma solidaria, a través de la página de La Casa del Libro podrás descargar para cualquier E-Reader o Lector Electrónico. Por ejemplo, el [Kindle Paperwhite](https://amzn.to/2lCjLlR){:target="_blank"} o los nuevos Kindle Oasis; disponibles en [color negro](https://amzn.to/2jYgSLP){:target="_blank"} o [color dorado](https://amzn.to/2jZgBZ1){:target="_blank"}.
 
@@ -127,7 +127,7 @@ Los libros disponibles son:
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-### **Editorial Planeta**
+## **Editorial Planeta**
 
 La editorial planeta a liberado hasta 10 libros diferentes, la lista es la siguiente:
 
@@ -149,7 +149,7 @@ Otros: Begoña Alberdi, Judith Mateo, Josef Ajram, Lucía Galán, María Leach, 
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-### **Editorial Astiberri**
+## **Editorial Astiberri**
 
 Durante las próximas semanas, Astiberri estará en casa y en pijama ofreciendo algunos contenidos que esperamos que os entretengan un rato y os acerquen a los autores de las obras que publicamos.
 
@@ -164,7 +164,7 @@ A lo largo de los próximos días anunciaremos novedades en nuestra tienda de c�
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-### **Editorial DOLMEN**
+## **Editorial DOLMEN**
 
 Desde la editorial Dolmen ponen a nuestra disposición unos comics y algunos otros libros.
 
@@ -172,7 +172,11 @@ Los títulos son los siguientes: Una historia de Perros Viejos, Cómo Sobrevivir
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-### **Editorial Léeme Libros**
+## **Editorial Anagrama**
+
+[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
+
+## **Editorial Léeme Libros**
 
 Libros GRATIS con los que Reflexionar estos días: El Poder de las Personas: Un ensayo para cambiar el mundo juntos, El Peligro de Creer y Futbolistas de Izquierdas.
 
@@ -180,7 +184,7 @@ Libros GRATIS con los que Reflexionar estos días: El Poder de las Personas: Un 
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-### **Libro Guerreras de la Ciencia**
+## **Libro Guerreras de la Ciencia**
 
 Doce profesionales especializadas en diferentes campos y disciplinas, se han juntado para reunir sus artículos dentro de un solo libro: Guerreras de la Ciencia.
 
@@ -190,11 +194,11 @@ En tanto a lo que nos interesa por aquí, a los Ciberninjas; nos podemos encontr
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-### **Comics de Riot Games**
+## **Comics de Riot Games**
 
 Desde hace tiempo los creadores del videojuego de League of Legend "LOL" han sacado diferentes cómics, primero creados por la propia empresa Riot; y luego en colaboración de la mismísima Marvel. En la actualidad existen comics sobre los personajes de: Zed, Lux, Ashe, Ryze, Varus, Ziggs y Jinx, Nami, Miss Fortune y Darius.
 
-### **Juegos de Mesa Imprimibles**
+## **Juegos de Mesa Imprimibles**
 
 Diferentes juegos de mesa, a la antigua usanza. Los que serás capaz de poder montar, en su totalidad desde casa. Lo único que necesitarás será papel y tinta a color; un poco de paciencia, tijeras y ánimos. Pero, ¿Qué mejor entretenimiento para los más pequeños de la casa?
 
@@ -215,11 +219,11 @@ Los diferentes juegos son:
 13. Berridos. Edad mínima sugerida 5 años.
 14. Catchup and Mousetard. Edad mínima sugerida 8 años.
 
-### **Partidos Históricos de Baloncesto NBA**
+## **Partidos Históricos de Baloncesto NBA**
 
 Hardwood Classics is a television series that airs on NBA TV and features many of the greatest classic games recorded on videotape or film in National Basketball Association history. The show is produced by NBA Entertainment. During its earlier years on NBA TV, the series would air frequently in various timeslots, including at a set time on Thursday afternoons for a number of years. However, as the network has increased its output of originally-produced programming and live game coverage, Hardwood Classics airs more sporadically, with its most frequent airings taking place during the NBA offseason.
 
-### **Partidos Históricos del Mundial**
+## **Partidos Históricos del Mundial**
 
 Como muchos se enfrentan al aislamiento como resultado de la pandemia global de COVID-19, la FIFA ha lanzado una nueva iniciativa para ayudar a llevar el fútbol a casa, a saber, el lanzamiento de un archivo de partidos de video en múltiples canales de contenido, hasta que se restablezcan las actividades regulares de fútbol en todo el mundo .
 
@@ -228,7 +232,7 @@ A través de la campaña #WorldCupAtHome , las repeticiones completas de más de
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
-## **Alternativas Videojuegos**
+### **Alternativas Videojuegos**
 
 - [Festival de Juegos de Steam](https://www.minds.com/newsfeed/1087377917829427200?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#el-festival-de-juegos-de-steam)
 - [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#plataforma-gog-28-videojuegos-clásicos-gratis)
@@ -240,20 +244,20 @@ A través de la campaña #WorldCupAtHome , las repeticiones completas de más de
 - [Juegos GRATIS de Todas las Plataformas](/videojuegos-gratis/)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
-### **El Festival de Juegos de Steam**
+## **El Festival de Juegos de Steam**
 
 Edición de primavera te trae docenas de demos para descargar y jugar, así como otros títulos destacados de Indie MEGABOOTH, The MIX, Day of the Devs y WINGS.
 
 [🎮 Vuelve a Alternativas Videojuegos](/alternativas-culturales-combatir-coronavirus/#alternativas-videojuegos){: .btn .btn--inverse .btn--large .align-center}
 
-### **Plataforma GOG: 28 videojuegos clásicos gratis**
+## **Plataforma GOG: 28 videojuegos clásicos gratis**
 
 TU LUGAR PARA CLÁSICOS SIN DRM Y LOS MEJORES JUEGOS INDIE
 Incluso si el sol está brillando y las flores ya han comenzado a florecer donde vives, la salud y la seguridad están en la mente de todos en este momento. Cerrar las cortinas y jugar videojuegos puede ser una de las mejores maneras de relajarse y pasar el tiempo cuando se queda en casa. Estamos aquí para ayudarlo a elegir su próxima gran aventura con esta selección de juegos gratuitos de nuestro catálogo y una gran oferta de primavera hasta el 30 de marzo.
 
 [🎮 Vuelve a Alternativas Videojuegos](/alternativas-culturales-combatir-coronavirus/#alternativas-videojuegos){: .btn .btn--inverse .btn--large .align-center}
 
-### Gamivo: Juego Aleatorio Gratis
+## Gamivo: Juego Aleatorio Gratis
 
 Durante los próximos días, todos los clientes de GAMIVO pueden obtener uno de los más de 20 juegos absolutamente GRATIS.
 Cada cliente puede comprar un producto por cuenta. Los juegos se reparten al azar. Te deseo buena suerte y el juego con el que siempre has soñado ...
@@ -263,7 +267,7 @@ Juegos al Azar: 39 pasos, Chicken Shoot Gold, Comandante: conquista de las Amér
 [🎮 Vuelve a Alternativas Videojuegos](/alternativas-culturales-combatir-coronavirus/#alternativas-videojuegos){: .btn .btn--inverse .btn--large .align-center}
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
-## **Alternativas Musicales**
+### **Alternativas Musicales**
 
 De entre los movimientos que han ido naciendo, entre los más destacados se encuentra el movimiento cultural musical. A los artistas no se les ha ocurrido otra cosa, más; que la de dar conciertos desde sus propias casas, en acústico y en la mayoría de casos sin ningun tipo de ayudar más que la de un solo instrumento o una base musical.
 
@@ -275,23 +279,23 @@ Las retransmisiones son emitidas a través de Instagram.
  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cuarentena-fest)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
-### **Festival Yo Me Quedo en Casa**
+## **Festival Yo Me Quedo en Casa**
 
 Sin lugar a dudas la iniciativa musical más brillante de todas las que se han lanzado. Por los nombres que se han logrado juntar, de decenas y decenas de artistas reconocidos a nivel nacional (España) e incluso a nivel internacional.
 
-#### Día 20
+### Día 20
 
 Penny Necklace, Rafa Pons, FloridaBlanca, Colectivo Panamera, Julia Medina, Conchita, Marlon, Los Vinagres, Luis Fercán, Elefantes, Vanesa Martín, Beret, Álvaro Soler, Efecto Pasillo, Álex Úbago, Smile, Monarchy.
 
 ![](/assets/images/blog/20-musica.webp)
 
-#### Día 21
+### Día 21
 
 Juan Cid, Gritando en Silencio, Alex Gómez, Coco Green, El Verbo Odiado, Basanta, Luis Brea, Adriana Moragues, Rodrigo Cueevas, Ruth Lorenzo, David Demaría, Pastora Soler, Luis Ramiro, Bely Basarte, Fredi Leis, Mikel Erentxun, Amaral, Guitarrica de la Fuente, Sidonie, Coti, Siloé, DJ Nano.
 
 ![](/assets/images/blog/21-musica.webp)
 
-#### Día 22
+### Día 22
 
 Alberto Torres, Malva, Naranja, Alejandro Martínez (Sumando Voces), Ele, St. Woods, Mabu, Ruiperez (M Clan), Los Fesser, 84, Edurne, La Pegatina, Coque Malla, Rulo, Ariel Rot, Sidecars, Los Secretos, Sidecars, Miki Nuñez, Sinsinati.
 
@@ -299,7 +303,7 @@ Alberto Torres, Malva, Naranja, Alejandro Martínez (Sumando Voces), Ele, St. Wo
 
 [🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 
-### **Mantita Fest**
+## **Mantita Fest**
 
 TODOS los artistas conectarán desde sus propios perfiles de Instagram, y Además, muchos también se han animado a compartirlo simultáneamente en sus páginas oficiales de Facebook! Así que ya no tenéis razones para perderos ni un concierto! 🤩
 
@@ -309,7 +313,7 @@ TODOS los artistas conectarán desde sus propios perfiles de Instagram, y Ademá
 
 [🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 
-### **Cuarentena Fest**
+## **Cuarentena Fest**
 
 🎶 Festival Cuarenta Fest..
 Música en streaming en tiempos difíciles.
@@ -329,15 +333,12 @@ Artistas:
 [🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
-## **Alternativas Educativas e Infantiles**
+### **Alternativas Educativas e Infantiles**
 
-- [Aplicaciones sobre todo para Primaria](https://www.minds.com/newsfeed/1088200807123296256?referrer=rosepac) (Gratis Temporalmente) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-gratis)
 - [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
 - [Cursos de la Constitución Española para Opositores](https://www.minds.com/newsfeed/1087694009007644672?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#campus-mad-para-opositores)
 - [Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
-- [Salvat: Audios y Libros Gratis](https://www.minds.com/newsfeed/1088515844003282944?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#salvat-regala-audiolibros-y-cuentos-para-niños)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
-- [Libros Colorear Gratis del Planeta de los Libros](https://www.minds.com/newsfeed/1088875518647279616?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-para-los-niños)
 
 Como no, nuestros recopilatorioes de cursos:
 - [Cursos de Programación, Desarrollo Web y Mucho Más](/cursos-tecnologia/)
@@ -345,19 +346,15 @@ Como no, nuestros recopilatorioes de cursos:
 - [Cursos de Animación y Diseño](/cursos-animacion-diseno/)
 - [Ciberninjas: Nuestros Recursos Seleccionados](https://kutt.it/recursos)
 
-### **Aplicaciones Gratis**
-
-Kahoot!, SecureKids, Smile and Learn, EdPuzzle, Academons.
-
-### **Scribd**
+## **Scribd**
 
 Scribd ha decidido abrir su plataforma de forma gratuita, exclusivamente por los próximos 30 días. Scribd, es un sitio web para compartir documentos que permite a los usuarios publicar archivos de diversos formatos e incrustarlos en una página web utilizando su formato iPaper.
 
-### **Aplicaciones Mosa Lingua Gratis**
+## **Aplicaciones Mosa Lingua Gratis**
 
 Mosa Lengua, la empresa creador de las mejores APPS para aprender diferentes idiomas, ha liberado casi todas sus aplicaciones de forma gratuita.
 
-### **Campus MAD para Opositores**
+## **Campus MAD para Opositores**
 
 Campus MAD ofrece gratuitos por un plazo de 40 días, tres cursos con los que preparar la parte sobre la constitución española referente a los exámenes de oposición.
 
@@ -367,7 +364,17 @@ Campus MAD ofrece gratuitos por un plazo de 40 días, tres cursos con los que pr
 
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
-### Salvat Regala Audiolibros y Cuentos para niños
+### **Alternativas Infantiles**
+
+- [Aplicaciones sobre todo para Primaria](https://www.minds.com/newsfeed/1088200807123296256?referrer=rosepac) (Gratis Temporalmente) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-gratis-para-niños)
+- [Salvat: Audios y Libros Gratis](https://www.minds.com/newsfeed/1088515844003282944?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#salvat-regala-audiolibros-y-cuentos-para-niños)
+- [Libros Colorear Gratis del Planeta de los Libros](https://www.minds.com/newsfeed/1088875518647279616?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-para-los-niños)
+
+## **Aplicaciones Gratis para Niños**
+
+Kahoot!, SecureKids, Smile and Learn, EdPuzzle, Academons.
+
+## Salvat Regala Audiolibros y Cuentos para niños
 
 La Editorial Salvat esta regalando de forma gratuita varios audiolibros y cuentos para hacer el refugio en casa, algo más entretenido.
 
@@ -377,7 +384,7 @@ Pinocho, El patito feo, La sirenita, El libro de la selva, Blancanieves y El fla
 
 Y varios títulos de la colección, Un mundo de Emociones, en su versión PDF. El mierdo, la ilusión, el aburrimiento, el amor y la alegría.
 
-### Editorial Planeta para los Niños
+## Editorial Planeta para los Niños
 
 Diferentes libros de colorear: Diario Elashow, Anna Kadabra, Núria Díaz, Ana Llenas, Soy una Niña Rebelde, Recicla y Crea, Lucía, mi pediatra.
 
