@@ -1,8 +1,8 @@
 ---
-title: "🥇 ▷ Las Mejores Alternativas Culturales #YoMeQuedoEnCasa, #QuedateEnCasa y #FrenaLaCurva para Combatir la Cuarentena por Coronavirus"
-description: "🔥 Actividades online y gratis con las que pasar la cuarentana de la enfermedad del coronavirus"
-excerpt: "🔥 Actividades online y gratis con las que pasar la cuarentana de la enfermedad del coronavirus"
-date: 2020-03-20
+title: "🥇 ▷ Quédate en Casa, Frena La Curva, Yo Me Quedo En Casa: Las Mejores Alternativas GRATIS para Combatir la Cuarentena por Coronavirus"
+description: "🔥 Actividades online y gratis, libros, cursos y videojuegos; con las que pasar la cuarentana de la enfermedad del coronavirus"
+excerpt: "🔥 Actividades online y gratis, libros, cursos y videojuegos; con las que pasar la cuarentana de la enfermedad del coronavirus"
+date: 2020-03-23
 canonical_URL: https://ciberninjas.com/alternativas-culturales-combatir-coronavirus/
 permalink: /alternativas-culturales-combatir-coronavirus/
 published: true
@@ -127,7 +127,9 @@ Los libros disponibles son:
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-### Editorial Astiberri
+### **Editorial Planeta**
+
+### **Editorial Astiberri**
 
 Durante las próximas semanas, Astiberri estará en casa y en pijama ofreciendo algunos contenidos que esperamos que os entretengan un rato y os acerquen a los autores de las obras que publicamos.
 
