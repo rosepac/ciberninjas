@@ -141,7 +141,13 @@ La editorial planeta a liberado hasta 10 libros diferentes, la lista es la sigui
 8. Mi nombre es Stilton, Geronimo Stilton y Planeta Manga 1
 9. En familia con Karlos Arguiñano, 1, 2 y 3
 
-Además la propia editorial planeta a creado una pequeña agenda con actividades diarias a lo largo de todo el día.
+Además la propia editorial planeta a creado una pequeña agenda con actividades diarias a lo largo de todo el día; con varias personas de prestigio alrededor del mundo de las editoriales, la lectura, la poesía u otros.
+
+Como por ejemplo: El escritor Alejandro Palomas, el economista Daniel LaCalle, o la monitora de fitness Verónica Costa.
+
+Otros: Begoña Alberdi, Judith Mateo, Josef Ajram, Lucía Galán, María Leach, Victor del Árbol, Espido Freire, Daniel Figuero, Silvia Congost, Vicky Hidalgo, Jaime Alguersuari, Julián Casanova, Gema Vadillo, etc, etc, etc.
+
+[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
 ### **Editorial Astiberri**
 
@@ -155,6 +161,8 @@ Empezamos el ciclo de charlas Astiberri en pijama. Hablaremos desde casa con aut
 30 de marzo a las 18.30. Nadar
 
 A lo largo de los próximos días anunciaremos novedades en nuestra tienda de cómic digital, nuevos encuentros con autores a través de las redes sociales y alguna sorpresa más, tanto para adultos como para los peques que están pasando estos días en casa.
+
+[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
 ### **Editorial DOLMEN**
 
