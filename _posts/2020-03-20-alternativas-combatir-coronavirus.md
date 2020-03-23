@@ -46,7 +46,7 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
   <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-culturales">Alternativas Culturales 📰</a></li>
   <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-videojuegos">Alternativas Videojuegos 🎮</a></li>
   <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-musicales">Alternativas Musicales 🎶</a></li>
-  <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-educativas">Alternativas Educativas 👩‍🏫</a></li>
+  <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-educativas-e-infantiles">Alternativas Educativas 👩‍🏫</a></li>
   <li>👉 <a href="/alternativas-culturales-combatir-coronavirus/#alternativas-deportivas">Alternativas Deportivas 🤸‍♀️</a></li>
 </ol>
 
@@ -61,14 +61,14 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 
 - [💻 Charlas por streaming del GDG Spain durante el confinamiento por el Coronavirus #YoMeQuedoEnCasaGDG](https://steemit.com/hive-154806/@rosepac/-charlas-por-streaming-del-gdg-spain-durante-el-confinamiento-por-el-coronavirus-yomequedoencasagdg-1584549963){:target="_blank"}
 
-### Charlas Online Desde Casa
-
 ## **Alternativas Culturales**
 
 - [Revistar Computer Hoy y de la Editorial Axel Springer](https://www.minds.com/newsfeed/1087656671227920384?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
 - [Libros Gratis en La Casa del Libro](https://www.minds.com/newsfeed/1087774182482681856?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libros-gratis-la-casa-del-libro)
+- [Libros Gratis de La Editorial Planeta y Actividades](https://keepreadingencasa.planetadelibros.com/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-y-actividades)
 - [Libros Gratis de la Editorial DOLMEN](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
 - [Libro: Guerreras de la Ciencia GRATIS](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
+- [Nubico: Lectura Online](https://www.nubico.es/prueba-gratis-nubico-premium){:target="_blank"} (Gratis por 15 Días: 50.000 libros y 80 revistas)
 - [Comics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-comics-gratis-de-league-of-legends-marvel){:target="_blank"}
 - [Comics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank"}
 - [Más de 700 Comics en Inglés GRATIS](https://www.minds.com/newsfeed/1088166633788461056?referrer=rosepac){:target="_blank"}
@@ -128,6 +128,20 @@ Los libros disponibles son:
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
 ### **Editorial Planeta**
+
+La editorial planeta a liberado hasta 10 libros diferentes, la lista es la siguiente:
+
+1. El código Da Vinci, de Dan Brown
+2. Los hombres que no amaban a las mujeres, de Stieg Larsson
+3. La sombra del viento, de Carlos Ruiz Zafón
+4. El tiempo entre costuras, de María Dueñas
+5. Las crónicas de Narnia: El león, la bruja y el armario, de C.S. Lewis
+6. Algo tan sencillo como tuitear te quiero, de Francisco de Paula
+7. A todos los chicos de los que me enamoré, de Jenny Han
+8. Mi nombre es Stilton, Geronimo Stilton y Planeta Manga 1
+9. En familia con Karlos Arguiñano, 1, 2 y 3
+
+Además la propia editorial planeta a creado una pequeña agenda con actividades diarias a lo largo de todo el día.
 
 ### **Editorial Astiberri**
 
@@ -307,7 +321,7 @@ Artistas:
 [🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
-## **Alternativas Educativas**
+## **Alternativas Educativas e Infantiles**
 
 - [Aplicaciones sobre todo para Primaria](https://www.minds.com/newsfeed/1088200807123296256?referrer=rosepac) (Gratis Temporalmente) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-gratis)
 - [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
@@ -315,6 +329,7 @@ Artistas:
 - [Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
 - [Salvat: Audios y Libros Gratis](https://www.minds.com/newsfeed/1088515844003282944?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#salvat-regala-audiolibros-y-cuentos-para-niños)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
+- [Libros Colorear Gratis del Planeta de los Libros](https://www.minds.com/newsfeed/1088875518647279616?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-para-los-niños)
 
 Como no, nuestros recopilatorioes de cursos:
 - [Cursos de Programación, Desarrollo Web y Mucho Más](/cursos-tecnologia/)
@@ -353,6 +368,10 @@ Los títulos son los siguientes:
 Pinocho, El patito feo, La sirenita, El libro de la selva, Blancanieves y El flautista de Hamelín; en sus dos versiones, tanto pdf como MP3.
 
 Y varios títulos de la colección, Un mundo de Emociones, en su versión PDF. El mierdo, la ilusión, el aburrimiento, el amor y la alegría.
+
+### Editorial Planeta para los Niños
+
+Diferentes libros de colorear: Diario Elashow, Anna Kadabra, Núria Díaz, Ana Llenas, Soy una Niña Rebelde, Recicla y Crea, Lucía, mi pediatra.
 
 ## **Alternativas Deportivas**
 
