@@ -71,13 +71,16 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [Editorial DOLMEN: Libros Gratis](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
 - [Libro: Guerreras de la Ciencia](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
 - [Nubico: Lectura Online](https://www.nubico.es/prueba-gratis-nubico-premium){:target="_blank"} (Gratis por 15 Días: 50.000 libros y 80 revistas)
+- [Lektu, Cultura Digital: La Traducción del Cómic](https://lektu.com/l/tebeosfera/la-traduccion-del-comic/12325){:target="_blank"} [Libros Gratis: 1.055](https://lektu.com/buscar?b=&precio=G&tipo=&idioma=){:target="_blank"} [Gratis Compartiendo: 1.596](https://lektu.com/buscar?b=&precio=S&tipo=&idioma=){:target="_blank"} 
 - [Cómics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-Cómics-gratis-de-league-of-legends-marvel){:target="_blank"}
 - [Cómics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank"}
+- [Cómics: Autor El Torres](https://www.dropbox.com/sh/29bc0r7sjgncwd6/AAADLT5frBFJCBgFhpDdOoOza?dl=0){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cómics-el-torres)
+- [One More Library](https://onemorelibrary.com/index.php/en/search-results?se=1&layout=blog&search=&se_regs=0&se_cats=93%2Cp93&se_102_min=&se_102_max=&se_103=&se_107=){:target="_blank"} (1.200 Clásicos en Español)
 - [Cómics Más de 700 Cómics en Inglés GRATIS](https://www.minds.com/newsfeed/1088166633788461056?referrer=rosepac){:target="_blank"}
+- [Bibliotecas y Revistas Virtuales en Español](/biblioteca-novela-poesia/) (Cientos e Incluso Miles de Libros Clásicos en Español)
 - [Juegos de Mesa Imprimibles](https://www.minds.com/newsfeed/1088859593176981504?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juegos-de-mesa-imprimibles)
 - [Partidos Históricos de Baloncesto NBA](https://www.youtube.com/playlist?list=PLtjs88_96K3k8osAmFzBNo5bm53pHkDrb){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-de-baloncesto-nba)
 - [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"}{:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
-- [Bibliotecas y Revistas Virtuales en Español -todas-](/biblioteca-novela-poesia/)
 
 ## **Revistas de Computer Hoy**
 
@@ -258,6 +261,23 @@ En tanto a lo que nos interesa por aquí, a los Ciberninjas; nos podemos encontr
 
 Desde hace tiempo los creadores del videojuego de League of Legend "LOL" han sacado diferentes cómics, primero creados por la propia empresa Riot; y luego en colaboración de la mismísima Marvel. En la actualidad existen Cómics sobre los personajes de: Zed, Lux, Ashe, Ryze, Varus, Ziggs y Jinx, Nami, Miss Fortune y Darius.
 
+## **Cómics: El Torres**
+
+- Apocalypse Girl
+- Bribones
+- Camisa de Fuerza
+- Cuentos del Bosque de los Suicidas
+- El Velo
+- Ghost Wolf
+- Las Brujas de Westwood
+- Tambores
+
+## One More Library
+
+Desde esta biblioteca exclusiva nos ofrecen 1.200 obras bajo dominio público entra las que podemos encontrar muchos de los grandes clásicos de los escritores españoles más reconocidos e incluso algunos otros; grandes escritores internacionales.
+
+Cervantes, Clarín, Julio Verne, Thomas Paine, Louisa May Alcott, Unamuno, Aristóteles, Apiano de Alejandría, Antonio de Nebrija, Antón Chéjov, Alejandro Dumas, Alphonse de Lamartine, Alvar Núñez Cabeza de Vaca, Alonso de Ercilla, Mark Twain, Ayn Rand, Bram Stoker, Raplh Waldo Emerson, Vicente Rocafuerte, Nathaniel Hawthorne, Auguste Comte, Washington Irving, Henry David Thoreau, Adam Smith, Baltasar Gracián, Benito Pérez Galdós, Aristófanes, Charles Baudelaire, Charles Dickens, Charles Perrault, Diógenes Laercio, Daniel Defoe, D. H. Lawrence, Federico García Lorca, Fernando Pessoa, Fernando de Rojas, Fiodor Dostoyevski, Franz Kafka, Michel de Montaigne, Francis Scott Fitzgerald, Friedrich Engels, Flavio Josefo, Gustave Flaubert, Geoffrey Chaucer, Goethe, Karl Marx, Friedrich Nietzsche, Emilio Salgari, Emilio Pardo Bazán, Armado Nervo, Thomas Hobbes, San Juan de la Cruz, Antoine de Saint Exupéry, Giovanni Boccaccio, Adolfo Bécquer, Honoré de Balzac, Horacio Quiroga, William Shakespeare, Kahlil Gibran, Lord Byron, H. G. Wells, León Tolstói, Hammurabi, Aleksandr Pushkin, Karl Christian Friedrich Krause, Bartolomé Pou, Calderón de la Barca, Émile Zola, Alfonso X El Sabio, Alfonso de Valdés, Aureliano Abenza y Rodríguez, Óscar Wilde, Ovidio, Immanuel Kant, Pitágoras, Gaspar Melchor de Jovellanos, Apolonio de Rodas, Homero, Dante Alighieri, Platón, Edgar Allan Poe, Juan Eugenio Hartzenbusch, Juan ruiz de Alarcón, Maurice Joly, Lope de Vega, H. P. Lovecraft, Gustave Le Bon, Séneca, Sergei Nilus, Henry Ford, Cornelio Tácito, Luis de Góngora, Juan de Valdés, Marcel Proust, Mariano José de Larra, Marcelino Menéndez Pelayo, Mary Shelley, Máximo Gorki, Juan Valera, Novalis, Pedro Antonio de Alarcón, René Descartes, Sun Tzu, Manuel José Quintana, Juan Ramón Valle Inclán, Robert Ervin Howard, Rubén Dario, Rudyard Kipling, Robert Louis Stevenson, Cyrano de Bergerac, Soren Kierkegaard, Stendhal, Suetonio, Sigmund Freud, Stefan Zweig, Arthur Conan Doyle, Charles Darwin, Tirso de Molina, Victor Hugo, Virgilio, Virginia Woolf, Vicente Blasco Ibáñez, Voltaire,  Wallace Wattles, Walter Scott, Lyman Frank Baum, Henry Rider Haggard, Anónimos.
+
 ## **Juegos de Mesa Imprimibles**
 
 Diferentes juegos de mesa, a la antigua usanza. Los que serás capaz de poder montar, en su totalidad desde casa. Lo único que necesitarás será papel y tinta a color; un poco de paciencia, tijeras y ánimos. Pero, ¿Qué mejor entretenimiento para los más pequeños de la casa?
@@ -334,8 +354,10 @@ De entre los movimientos que han ido naciendo, entre los más destacados se encu
 Las retransmisiones son emitidas a través de Instagram.
 
 - [Festival Yo Me quedo En Casa](https://www.minds.com/newsfeed/1087364534203822080?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#festival-yo-me-quedo-en-casa)
-- [Instagram Mantita Fest](https://www.minds.com/newsfeed/1087368673935732736?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest)
-- [Cuarentena Festival](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac){:target="_blank"}
+- [Concierto Estopa](https://www.instagram.com/estopaoficial/?hl=es){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-estopa)
+- [Beatport: Carl Cox y Amigos](https://www.minds.com/newsfeed/1089012796786941952?referrer=rosepac) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#beatport-carl-cox-y-amigos)
+- [Festival Mantita Fest](https://www.minds.com/newsfeed/1087368673935732736?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest)
+- [Festival Cuarentena Fest](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac){:target="_blank"}
  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cuarentena-fest)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
@@ -343,11 +365,11 @@ Las retransmisiones son emitidas a través de Instagram.
 
 Sin lugar a dudas la iniciativa musical más brillante de todas las que se han lanzado. Por los nombres que se han logrado juntar, de decenas y decenas de artistas reconocidos a nivel nacional (España) e incluso a nivel internacional.
 
-### Día 20
+### Día 22
 
-Penny Necklace, Rafa Pons, FloridaBlanca, Colectivo Panamera, Julia Medina, Conchita, Marlon, Los Vinagres, Luis Fercán, Elefantes, Vanesa Martín, Beret, Álvaro Soler, Efecto Pasillo, Álex Úbago, Smile, Monarchy.
+Alberto Torres, Malva, Naranja, Alejandro Martínez (Sumando Voces), Ele, St. Woods, Mabu, Ruiperez (M Clan), Los Fesser, 84, Edurne, La Pegatina, Coque Malla, Rulo, Ariel Rot, Sidecars, Los Secretos, Sidecars, Miki Nuñez, Sinsinati.
 
-![](/assets/images/blog/20-musica.webp)
+![](/assets/images/blog/22-musica.webp)
 
 ### Día 21
 
@@ -355,13 +377,29 @@ Juan Cid, Gritando en Silencio, Alex Gómez, Coco Green, El Verbo Odiado, Basant
 
 ![](/assets/images/blog/21-musica.webp)
 
-### Día 22
+### Día 20
 
-Alberto Torres, Malva, Naranja, Alejandro Martínez (Sumando Voces), Ele, St. Woods, Mabu, Ruiperez (M Clan), Los Fesser, 84, Edurne, La Pegatina, Coque Malla, Rulo, Ariel Rot, Sidecars, Los Secretos, Sidecars, Miki Nuñez, Sinsinati.
+Penny Necklace, Rafa Pons, FloridaBlanca, Colectivo Panamera, Julia Medina, Conchita, Marlon, Los Vinagres, Luis Fercán, Elefantes, Vanesa Martín, Beret, Álvaro Soler, Efecto Pasillo, Álex Úbago, Smile, Monarchy.
 
-![](/assets/images/blog/22-musica.webp)
+![](/assets/images/blog/20-musica.webp)
 
 [🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
+
+## **Concierto Estopa**
+
+Estopa ha anunciado a través del Transistor de Onda cero, que el Viernes 27 tras el aplauso a los Servicios Sanitarios; darán un pequeño concierto Online a través de sus redes sociales.
+
+## **Beatport: Carl Cox y Amigos**
+
+### **Viernes 27 a las 21 Hora Española**
+
+Beatport, la tienda de música electrónica Online más importante del mundo. Va a organizar una fiesta electrónica a nivel mundial: 24 horas de música electrónica en vivo, sin parar. El viernes, Beatport [lanzará una transmisión](https://www.twitch.tv/beatport){:target="_blank"} en vivo de 24 horas con algunos de los Dj más grandes del mundo en vivo desde sus hogares y estudios. A partir de las 21:00 PM hora española en el canal Twitch de Beatport, 24 artistas, incluidos **Carl Cox, Bonobo, Nina Kraviz, Griz, Rüfüs Du Sol, A-Trak, Nicole Moudaber, Chris Liebing y Nora En Pure**, completarán un día completo en línea para entretener a todos los que estamos actualmente en cuarentena a lo largo de todo el mundo.
+
+"En las últimas semanas, hemos visto a tanta humanidad unirse para luchar contra la escalada del virus COVID-19 en un esfuerzo por proteger a los más vulnerables", dijo el CEO de Beatport, Robb McDaniels, en un comunicado. Muchos de nosotros nos refugiamos en nuestros hogares, deseando mantenernos conectados con la gente y la música que juega un papel tan positivo en nuestras vidas, Beatport y la apasionada comunidad de DJ con la que trabajamos a diario se sienten obligados a ofrecer una experiencia musical única directamente en hogares en todo el mundo.
+
+Aquellos que sintonicen Twitch podrán donar dinero para beneficiar el Fondo de Respuesta Solidaria COVID-19 del Fondo Mundial de la Salud y el Fondo de Dificultades COVID-19 que benefician a los miembros de la Asociación de Música Electrónica (AFEM). Beatport también identificará cada pista como se reproduce para que los espectadores puedan comprar las canciones directamente en la tienda Beatport. Beatport también regalará equipo y merchandising a espectadores seleccionados al azar a lo largo de la transmisión en vivo.
+
+Las lista de artistas completa es la siguiente: A-Trak, Anna, Agoria, Axel Boman, Blond: ish, Bonobo, Carl Cox, Chris Liebing, Destructo, Duke Dumont, come todo, Griz, La Fleur, Nastia, Nicole Moudaber, Nina Kraviz, Nora En Pure, Rüfüs Dü Sol (DJ Set), Sebastien Leger, Themba, Todd Terry, Tokimonsta, Umek, Wax Motif, Waze & Odyseey y la ciudad de Gorgon.
 
 ## **Mantita Fest**
 
@@ -395,6 +433,7 @@ Artistas:
 
 ### **Alternativas Educativas e Infantiles**
 
+- [Aula Planeta](https://www.aulaplaneta.com/contacto/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aula-planeta)
 - [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
 - [Cursos de la Constitución Española para Opositores](https://www.minds.com/newsfeed/1087694009007644672?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#campus-mad-para-opositores)
 - [Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
@@ -405,6 +444,14 @@ Como no, nuestros recopilatorioes de cursos:
 - [Cursos para Educadores y Recursos Educativos](/cursos-educacion/)
 - [Cursos de Animación y Diseño](/cursos-animacion-diseno/)
 - [Ciberninjas: Nuestros Recursos Seleccionados](https://kutt.it/recursos)
+
+## **Aula Planeta**
+
+La iniciativa solidaria de el Grupo Planeta durante el cierre de los colegios por el coronavirus está a disposición de profesores y alumnos de 5º y 6º de Educación Primaria y de la ESO en los currículos oficiales.
+
+La Fundación Planeta quiere poner a disposición de padres y educadores una herramienta que pueda servir de estímulo a los alumnos –la publicación está dirigida a alumnos de Primaria, Secundaria y Bachillerato- ante la complicada situación de confinamiento domiciliario obligatorio derivada de la aplicación del Estado de Alarma por el Gobierno.
+
+Los profesores y los alumnos podrán acceder gratuitamente a la plataforma AulaPlaneta mediante la página web, arriba indicada, o llamando al número de teléfono 934 967 008.
 
 ## **Scribd**
 
@@ -429,6 +476,7 @@ Campus MAD ofrece gratuitos por un plazo de 40 días, tres cursos con los que pr
 - [Aplicaciones sobre todo para Primaria](https://www.minds.com/newsfeed/1088200807123296256?referrer=rosepac) (Gratis Temporalmente) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-gratis-para-niños)
 - [Salvat: Audios y Libros Gratis](https://www.minds.com/newsfeed/1088515844003282944?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#salvat-regala-audiolibros-y-cuentos-para-niños)
 - [Libros Colorear Gratis del Planeta de los Libros](https://www.minds.com/newsfeed/1088875518647279616?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-para-los-niños)
+- [Comic: Los Orígenes del Español](https://i.escrol.es/ILCYL/DOC/DCCF2278-B18F-902D-1E7906F48FC2A0A9.PDF){:target="_blank"}
 - [Editorial Errata Naturae: Para niños](http://erratanaturae.com/8805-2/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-errata-naturae-ideas-para-niños)
 
 ## **Aplicaciones Gratis para Niños**
