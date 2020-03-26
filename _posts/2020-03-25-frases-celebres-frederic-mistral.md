@@ -24,7 +24,7 @@ published: true
 
 ![](/assets/images/blog/frederic-mistral.webp "")
 
-Autor por el que la escritora Gabriela Mistral uso el apellido Mistral como seudónimo.
+Autor por el que la escritora Gabriela Mistral uso el apellido Mistral como seudónimo..
 
 <h2><p align="center"><cite>"Los árboles con raíces profundas son aquellos que trepan alto."</cite></p></h2>
 
