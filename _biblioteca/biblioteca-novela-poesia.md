@@ -26,6 +26,7 @@ toc_sticky: true
 ## Bibliotecas Web
 
 * [Biblioteca Digital Hispánica](http://bdh.bne.es/bnesearch/Search.do?&destacadas1=Epub&home=true&languageView=es){:target="_blank"}
+* [Biblioteca Digital Mundial](http://bdh.bne.es/bnesearch/Search.do?&destacadas1=Epub&home=true&languageView=es){:target="_blank"} (+ 17.000 Documentos de la Historia. Gracias a Naciones Unidas)
 * [Dominio Público](http://www.dominiopublico.es){:target="_blank"}
 * [EBiblio](https://www.culturaydeporte.gob.es/cultura/areas/bibliotecas/mc/eBiblio/inicio.html) Catálogo digital del Servicio Público de Bibliotecas de España.
 * [Gutenberg Proyecto, en Español](https://www.gutenberg.org/browse/languages/es)
@@ -33,6 +34,7 @@ toc_sticky: true
   * [Autores - 1.264](https://omegalfa.es/autores.php){:target="_blank"}
   * [Títulos - 3.675](https://omegalfa.es/titulos.php){:target="_blank"}
   * [Temáticas - 72](https://omegalfa.es/temas.php){:target="_blank"}
+* [One More Library](https://onemorelibrary.com/index.php/en/languages/spanish){:target="_blank"} (1.200 Clásicos en Español)
 * [WikiSource](https://es.wikisource.org/wiki/Portada){:target="_blank"}
 
 * [Biblioteca Científica Sci Hub](https://sci-hub.tw/){:target="_blank"}
