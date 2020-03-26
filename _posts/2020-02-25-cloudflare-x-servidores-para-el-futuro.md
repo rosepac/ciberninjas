@@ -1,19 +1,19 @@
 ---
 
-author_profile: true
 comments: false
 classes: wide
+author_profile: true
 tags:
-- cloudflare
+- Cloudflare
 categories:
 - Servidores
 header:
   teaser: /assets/images/blog/
-title: '🚀 ▷ Cloudflare's Gen X: Servidores para un futuro acelerado'
+title: "🚀 ▷ Cloudflare's Gen X: Servidores para un futuro acelerado"
 description: >-
-  ''
+  ""
 excerpt: >-
-  ''
+  ""
 canonical_URL: https://ciberninjas.com//
 permalink: //
 date: 2020-02-24 00:32:32
