@@ -9,7 +9,7 @@ categories:
 - Citas Célebres
 header:
   teaser: /assets/images/blog/frederic-mistral.webp
-title: '📢 ▷ Las Mejores Frases Motivadores (o buscar otro adjetivo) de Frederic Mistall'
+title: '📢 ▷ Las Mejores Frases de Frederic Mistall'
 description: >-
   Citas célebres del escritor francés Frederic Mistral.
 excerpt: >-
