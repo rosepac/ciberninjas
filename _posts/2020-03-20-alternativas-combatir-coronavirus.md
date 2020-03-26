@@ -30,6 +30,9 @@ header:
 
 No, este artículo no es una cura contra el coronavirus; porque básicamente y por desgracia, no parecer tener una metodología de cura concreta.
 
+[HILO DE TWITTER CON TODAS LAS ACTIVIDADES, LIBROS, CÓMICS  Y ACTOS GRATUITOS DURANTE ESTOS DÍAS]()
+{: .notice--warning}
+
 💣 EN CONSTANTE EVOLUCIÓN (📰 Pendientes por Agregar -regresa pronto- 🤞)<br />(Salvo que le pase algo a mi persona. Que esperemos que no..)
 {: .notice--warning}
 
@@ -75,13 +78,14 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [Libro: Guerreras de la Ciencia](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
 - [Nubico: Lectura Online](https://www.nubico.es/prueba-gratis-nubico-premium){:target="_blank"} (Gratis por 15 Días: 50.000 libros y 80 revistas)
 - [TebeoSfera](https://asociacionculturaltebeosfera.blogspot.com/2020/03/tebeos-para-una-pandemia.html){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
-- [Cómics de Mujeres Legendarias](https://issuu.com/mujereslegendarias) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
+- [Cómics de Mujeres Legendarias](https://issuu.com/mujereslegendarias){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
 - [Lektu, Cultura Digital: La Traducción del Cómic](https://lektu.com/l/tebeosfera/la-traduccion-del-comic/12325){:target="_blank"} [Libros Gratis: 1.055](https://lektu.com/buscar?b=&precio=G&tipo=&idioma=){:target="_blank"} [Gratis Compartiendo: 1.596](https://lektu.com/buscar?b=&precio=S&tipo=&idioma=){:target="_blank"} 
 - [Cómics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-Cómics-gratis-de-league-of-legends-marvel){:target="_blank"}
 - [Cómics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank"}
 - [Cómics: Autor El Torres](https://www.dropbox.com/sh/29bc0r7sjgncwd6/AAADLT5frBFJCBgFhpDdOoOza?dl=0){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cómics-el-torres)
 - [One More Library](https://onemorelibrary.com/index.php/en/search-results?se=1&layout=blog&search=&se_regs=0&se_cats=93%2Cp93&se_102_min=&se_102_max=&se_103=&se_107=){:target="_blank"} (1.200 Clásicos en Español)
 - [Cómics Más de 700 Cómics en Inglés GRATIS](https://www.minds.com/newsfeed/1088166633788461056?referrer=rosepac){:target="_blank"}
+- [Biblioteca Nacional de Emergencia](https://archive.org/details/nationalemergencylibrary?and%5B%5D=languageSorter%3A%22Spanish%22&sort=-date){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
 - [Bibliotecas y Revistas Virtuales en Español](/biblioteca-novela-poesia/) (Cientos e Incluso Miles de Libros Clásicos en Español)
 - [Juegos de Mesa Imprimibles](https://www.minds.com/newsfeed/1088859593176981504?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juegos-de-mesa-imprimibles)
 - [Partidos Históricos de Baloncesto NBA](https://www.youtube.com/playlist?list=PLtjs88_96K3k8osAmFzBNo5bm53pHkDrb){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-de-baloncesto-nba)
@@ -316,6 +320,12 @@ Desde esta biblioteca exclusiva nos ofrecen 1.200 obras bajo dominio público en
 
 Cervantes, Clarín, Julio Verne, Thomas Paine, Louisa May Alcott, Unamuno, Aristóteles, Apiano de Alejandría, Antonio de Nebrija, Antón Chéjov, Alejandro Dumas, Alphonse de Lamartine, Alvar Núñez Cabeza de Vaca, Alonso de Ercilla, Mark Twain, Ayn Rand, Bram Stoker, Raplh Waldo Emerson, Vicente Rocafuerte, Nathaniel Hawthorne, Auguste Comte, Washington Irving, Henry David Thoreau, Adam Smith, Baltasar Gracián, Benito Pérez Galdós, Aristófanes, Charles Baudelaire, Charles Dickens, Charles Perrault, Diógenes Laercio, Daniel Defoe, D. H. Lawrence, Federico García Lorca, Fernando Pessoa, Fernando de Rojas, Fiodor Dostoyevski, Franz Kafka, Michel de Montaigne, Francis Scott Fitzgerald, Friedrich Engels, Flavio Josefo, Gustave Flaubert, Geoffrey Chaucer, Goethe, Karl Marx, Friedrich Nietzsche, Emilio Salgari, Emilio Pardo Bazán, Armado Nervo, Thomas Hobbes, San Juan de la Cruz, Antoine de Saint Exupéry, Giovanni Boccaccio, Adolfo Bécquer, Honoré de Balzac, Horacio Quiroga, William Shakespeare, Kahlil Gibran, Lord Byron, H. G. Wells, León Tolstói, Hammurabi, Aleksandr Pushkin, Karl Christian Friedrich Krause, Bartolomé Pou, Calderón de la Barca, Émile Zola, Alfonso X El Sabio, Alfonso de Valdés, Aureliano Abenza y Rodríguez, Óscar Wilde, Ovidio, Immanuel Kant, Pitágoras, Gaspar Melchor de Jovellanos, Apolonio de Rodas, Homero, Dante Alighieri, Platón, Edgar Allan Poe, Juan Eugenio Hartzenbusch, Juan ruiz de Alarcón, Maurice Joly, Lope de Vega, H. P. Lovecraft, Gustave Le Bon, Séneca, Sergei Nilus, Henry Ford, Cornelio Tácito, Luis de Góngora, Juan de Valdés, Marcel Proust, Mariano José de Larra, Marcelino Menéndez Pelayo, Mary Shelley, Máximo Gorki, Juan Valera, Novalis, Pedro Antonio de Alarcón, René Descartes, Sun Tzu, Manuel José Quintana, Juan Ramón Valle Inclán, Robert Ervin Howard, Rubén Dario, Rudyard Kipling, Robert Louis Stevenson, Cyrano de Bergerac, Soren Kierkegaard, Stendhal, Suetonio, Sigmund Freud, Stefan Zweig, Arthur Conan Doyle, Charles Darwin, Tirso de Molina, Victor Hugo, Virgilio, Virginia Woolf, Vicente Blasco Ibáñez, Voltaire,  Wallace Wattles, Walter Scott, Lyman Frank Baum, Henry Rider Haggard, Anónimos.
 
+## **Biblioteca Nacional de Emergencia**
+
+Al anunciar la [Biblioteca Nacional de Emergencia](http://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/){:target="_blank"}, se quedan en abierto una colección de libros que apoya la enseñanza remota de emergencia, actividades de investigación, becas independientes y estimulación intelectual, mientras que las universidades, escuelas, centros de capacitación y bibliotecas están cerrados.
+
+En concreto, dentro del idioma español, existen más de 19.000 documentos, son libros en préstamo durante 14 días que se deben devolver de forma interactiva; es un poco complicado encontrar los libros concretos que te interesan pero; al menos para libros infantiles y de adolescentes puede ser útil..
+
 ## **Juegos de Mesa Imprimibles**
 
 Diferentes juegos de mesa, a la antigua usanza. Los que serás capaz de poder montar, en su totalidad desde casa. Lo único que necesitarás será papel y tinta a color; un poco de paciencia, tijeras y ánimos. Pero, ¿Qué mejor entretenimiento para los más pequeños de la casa?
@@ -513,6 +523,9 @@ Las madrugadas del lunes al martes a la 1 AM hora española, se emitirá a trav�
 
 ### **Alternativas Educativas e Infantiles**
 
+- [Aprendemos en Casa](https://www.educacionyfp.gob.es/prensa/actualidad/2020/03/20200321-mefprtve.html){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aprendemos-en-casa)
+- [Edelvives](https://www.edelvives.com/es/Noticias/d/edelvives-apoya-a-los-centros-en-plena-crisis-del-coronavirus){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-edelvives)
+- [Genially](https://www.edelvives.com/es/Noticias/d/edelvives-apoya-a-los-centros-en-plena-crisis-del-coronavirus){:target="_blank"} (Plantillas PRO para presentaciones y mapas interactivos)
 - [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
 - [Cursos de la Constitución Española para Opositores](https://www.minds.com/newsfeed/1087694009007644672?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#campus-mad-para-opositores)
 - [❌ Finalizado: Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
@@ -523,6 +536,43 @@ Como no, nuestros recopilatorioes de cursos:
 - [Cursos para Educadores y Recursos Educativos](/cursos-educacion/)
 - [Cursos de Animación y Diseño](/cursos-animacion-diseno/)
 - [Ciberninjas: Nuestros Recursos Seleccionados](https://kutt.it/recursos)
+
+## **Aprendemos en Casa**
+
+![](/assets/images/blog/aprendemos-casa-horario.webp "Horario de las clases a través de la televisión española de Clan y La 2")
+
+Desde la Televisión Pública Española lanzan la iniciativa Aprendemos en Casa, en la que se incluyen clases de diferentes materias escolares, con las que poder apoyar los contenidos del curriculum escolar que se supone deberían de estar dando los niños en esta época del año.
+
+La distribución de contenidos queda repartida de la siguiente manera todos los días entre el lunes y el viernes:
+
+- Emisiones a través del Canal Clan TV; entre las 9 AM y la 12 AM.
+- Emisiones a través de la 2 de Televisión Española; entre las 12 AM y las 14 PM.
+- Edades y horarios:
+  - De 6 a 8 años, de 9 a 10 horas.
+  - De 8 a 10 años, de 10 a 11 horas.
+  - De 10 a 12 años, de 11 a 12 horas.
+  - De 12 a 14 años, de 12 a 13 horas.
+  - De 14 a 16 años, de 13 a 14 horas.
+- Días y asignaturas:
+  - El lunes, el contenido se basara en las matemáticas.
+  - El martes, en ciencias sociales.
+  - El miércoles, en educación artística y educación física.
+  - El jueves, lengua e idiomas.
+  - El viernes, terminará la semana con las ciencias naturales.
+
+## **Editorial Edelvives**
+
+Los centros escolares podrán contactar con Edelvives para poder beneficiarse de un amplio menú de recursos:
+
+- Acceso gratuito, hasta el mes de julio, a todos los recursos digitales para que se pueda continuar con las clases en formato digital, tanto el profesorado como el alumnado.
+- Implementación de G Suite (herramientas ofimáticas de Google Educación) de manera gratuita, en todas las escuelas que lo precisen para facilitar el trabajo *online.*
+- Acceso gratuito hasta el mes de julio a Ta-tum, la plataforma de Edelvives para el fomento de la lectura de los alumnos.
+- Presentación virtual de los productos a través de videoconferencia.
+- Formación específica de los materiales y de las herramientas ofimáticas de Google a través de soluciones Webinar.
+- Acceso a material complementario para organizar en casa el trabajo de los alumnos.
+- Envío gratuito de material al domicilio particular para todo el profesorado.
+
+Los centros interesados en alguno de estos recursos podrán contactar a través del correo experienciacliente@edelvives.es, donde obtendrán atención personalizada.
 
 ## **Scribd**
 
