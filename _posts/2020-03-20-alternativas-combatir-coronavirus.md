@@ -2,7 +2,7 @@
 title: "🥇 ▷ Quédate en Casa, Frena La Curva, Yo Me Quedo En Casa: Las Mejores Alternativas GRATIS para Combatir la Cuarentena por Coronavirus"
 description: "🔥 Actividades online y gratis, libros, cursos y videojuegos; con las que pasar la cuarentana de la enfermedad del coronavirus"
 excerpt: "🔥 Actividades online y gratis, libros, cursos y videojuegos; con las que pasar la cuarentana de la enfermedad del coronavirus"
-date: 2020-03-23
+date: 2020-03-26
 canonical_URL: https://ciberninjas.com/alternativas-culturales-combatir-coronavirus/
 permalink: /alternativas-culturales-combatir-coronavirus/
 published: true
@@ -314,6 +314,7 @@ A través de la campaña #WorldCupAtHome , las repeticiones completas de más de
 
 ### **Alternativas Videojuegos**
 
+- Ubisoft Juegos Gratis [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#ubisoft-juegos-gratis)
 - [Festival de Juegos de Steam](https://www.minds.com/newsfeed/1087377917829427200?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#el-festival-de-juegos-de-steam)
 - [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#plataforma-gog-28-videojuegos-clásicos-gratis)
 - GoG: [Mable And The Wood](https://www.gog.com/?pp=4b1a62d54f5d635ceffa0118244d63e07779e04a#giveaway){:target="_blank"}
@@ -323,6 +324,13 @@ A través de la campaña #WorldCupAtHome , las repeticiones completas de más de
 - [Gamivo: Un juego Aleatorio Gratis](https://www.gamivo.com/es/product/massive-ultimate-gamivo-clearance-extra-round-eight){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juego-aleatorio-gratis)
 - [Juegos GRATIS de Todas las Plataformas](/videojuegos-gratis/)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
+
+## **Ubisoft Juegos Gratis**
+
+- Child of Light 👉 [GO!](https://register.ubisoft.com/child-of-light/es-ES){:target="_blank"}
+- Ghost Recon Breakpoint  👉 [GO!](https://freeweekend.ubisoft.com/ghost-recon-breakpoint/es-ES){:target="_blank"}
+- Rabbids Coding 👉 [GO!](https://register.ubisoft.com/rabbids-coding/es-ES){:target="_blank"}
+- Might & Magic: Chess Royale 👉 [GO!](https://www.ubisoft.com/es-es/game/might-and-magic-chess-royale/){:target="_blank"}
 
 ## **El Festival de Juegos de Steam**
 
@@ -353,13 +361,32 @@ De entre los movimientos que han ido naciendo, entre los más destacados se encu
 
 Las retransmisiones son emitidas a través de Instagram.
 
-- [Festival Yo Me quedo En Casa](https://www.minds.com/newsfeed/1087364534203822080?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#festival-yo-me-quedo-en-casa)
 - [Concierto Estopa](https://www.instagram.com/estopaoficial/?hl=es){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-estopa)
+- [Conciertos Billboard](https://steemit.com/hive-154806/@rosepac/-msica-en-directo-por-streaming-lauren-jauregui-skip-marley-y-ms-listos-para-los-conciertos-en-vivo-de-billboard-lauren-jauregui-skip-marley-more-set-for-billboard-live-at-home-concerts-1585071117){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-estopa)
+- [Dua Lipa: Lanzamiento en Directo de Su Nuevo Album](https://www.instagram.com/dualipa/?hl=es) - Viernes 27. LAnza Nuevo Single el día 25.
+- [Concierto DJ Dnice](https://www.instagram.com/dnice/){:target="_blank"} - Fiesta Electrónica el Martes 19 H. Española
+- [Concierto Colors - R & B y Hip Hop](https://www.youtube.com/watch?v=u4lxQlNyjY0){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-colors)
+- [Festival Yo Me quedo En Casa](https://www.minds.com/newsfeed/1087364534203822080?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#festival-yo-me-quedo-en-casa)
 - [Beatport: Carl Cox y Amigos](https://www.minds.com/newsfeed/1089012796786941952?referrer=rosepac) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#beatport-carl-cox-y-amigos)
 - [Festival Mantita Fest](https://www.minds.com/newsfeed/1087368673935732736?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest)
 - [Festival Cuarentena Fest](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac){:target="_blank"}
  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cuarentena-fest)
+- [Conciertos Metallica](https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#conciertos-metallica)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
+
+## **Concierto Estopa**
+
+Estopa ha anunciado a través del Transistor de Onda cero, que el Viernes 27 tras el aplauso a los Servicios Sanitarios; darán un pequeño concierto Online a través de sus redes sociales.
+
+## **Conciertos Billboard**
+
+
+
+## **Concierto Colors**
+
+COLORSXSTUDIOS es una plataforma de música estética única que muestra talentos excepcionales de todo el mundo. A las 19 Horas Española, ofrecerá un concierto a través de Youtube.
+
+COLORS se centra en los nuevos artistas más distintivos y los sonidos originales en una escena cada vez más fragmentada y saturada. Todos los espectáculos de COLORS buscan proporcionar un escenario claro y minimalista que destaque a los artistas, dándoles la oportunidad de presentar su música sin distracciones.
 
 ## **Festival Yo Me Quedo en Casa**
 
@@ -385,10 +412,6 @@ Penny Necklace, Rafa Pons, FloridaBlanca, Colectivo Panamera, Julia Medina, Conc
 
 [🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 
-## **Concierto Estopa**
-
-Estopa ha anunciado a través del Transistor de Onda cero, que el Viernes 27 tras el aplauso a los Servicios Sanitarios; darán un pequeño concierto Online a través de sus redes sociales.
-
 ## **Beatport: Carl Cox y Amigos**
 
 ### **Viernes 27 a las 21 Hora Española**
@@ -405,9 +428,9 @@ Las lista de artistas completa es la siguiente: A-Trak, Anna, Agoria, Axel Boman
 
 TODOS los artistas conectarán desde sus propios perfiles de Instagram, y Además, muchos también se han animado a compartirlo simultáneamente en sus páginas oficiales de Facebook! Así que ya no tenéis razones para perderos ni un concierto! 🤩
 
-- ***Jueves 19***: Técanela, Patricia Lázaro, El José, Ágenla González, María Ruíz, Pedro Pastor, Javi Medina, Mundo Chillón, Road Ramos.
-- ***Viernes 20***: Capitán Cobarde, Claudia Aquilar, Astola, Lena Carrilero, Felix Antílopez, Sheila Patricia, Jamones con Tacones, Elena Salguero, El Niño del Albayzín.
 - ***Sábado 21***: Gato Charro, Arco, Maui, Fran Mariscal, Daniel Mata, Alicia Ramos, María del Tango, Duende de Gaia.
+- ***Viernes 20***: Capitán Cobarde, Claudia Aquilar, Astola, Lena Carrilero, Felix Antílopez, Sheila Patricia, Jamones con Tacones, Elena Salguero, El Niño del Albayzín.
+- ***Jueves 19***: Técanela, Patricia Lázaro, El José, Ágenla González, María Ruíz, Pedro Pastor, Javi Medina, Mundo Chillón, Road Ramos.
 
 [🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 
@@ -431,12 +454,15 @@ Artistas:
 [🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
 
+## **Conciertos Metallica**
+
+Las madrugadas del lunes al martes a la 1 AM hora española, se emitirá a través del Canal de Youtube de Metallica una re edición de un Concierto de los mejores conciertos en directo de la reconocida banda de Heavy; con el foco centrado en la recaudación de fondos para luchar contra el Covid 19.
+
 ### **Alternativas Educativas e Infantiles**
 
-- [Aula Planeta](https://www.aulaplaneta.com/contacto/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aula-planeta)
 - [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
 - [Cursos de la Constitución Española para Opositores](https://www.minds.com/newsfeed/1087694009007644672?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#campus-mad-para-opositores)
-- [Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
+- [❌ Finalizado: Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
 Como no, nuestros recopilatorioes de cursos:
@@ -444,14 +470,6 @@ Como no, nuestros recopilatorioes de cursos:
 - [Cursos para Educadores y Recursos Educativos](/cursos-educacion/)
 - [Cursos de Animación y Diseño](/cursos-animacion-diseno/)
 - [Ciberninjas: Nuestros Recursos Seleccionados](https://kutt.it/recursos)
-
-## **Aula Planeta**
-
-La iniciativa solidaria de el Grupo Planeta durante el cierre de los colegios por el coronavirus está a disposición de profesores y alumnos de 5º y 6º de Educación Primaria y de la ESO en los currículos oficiales.
-
-La Fundación Planeta quiere poner a disposición de padres y educadores una herramienta que pueda servir de estímulo a los alumnos –la publicación está dirigida a alumnos de Primaria, Secundaria y Bachillerato- ante la complicada situación de confinamiento domiciliario obligatorio derivada de la aplicación del Estado de Alarma por el Gobierno.
-
-Los profesores y los alumnos podrán acceder gratuitamente a la plataforma AulaPlaneta mediante la página web, arriba indicada, o llamando al número de teléfono 934 967 008.
 
 ## **Scribd**
 
@@ -473,11 +491,20 @@ Campus MAD ofrece gratuitos por un plazo de 40 días, tres cursos con los que pr
 
 ### **Alternativas Infantiles**
 
+- [Aula Planeta](https://www.aulaplaneta.com/contacto/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aula-planeta)
 - [Aplicaciones sobre todo para Primaria](https://www.minds.com/newsfeed/1088200807123296256?referrer=rosepac) (Gratis Temporalmente) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-gratis-para-niños)
 - [Salvat: Audios y Libros Gratis](https://www.minds.com/newsfeed/1088515844003282944?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#salvat-regala-audiolibros-y-cuentos-para-niños)
 - [Libros Colorear Gratis del Planeta de los Libros](https://www.minds.com/newsfeed/1088875518647279616?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-para-los-niños)
 - [Comic: Los Orígenes del Español](https://i.escrol.es/ILCYL/DOC/DCCF2278-B18F-902D-1E7906F48FC2A0A9.PDF){:target="_blank"}
 - [Editorial Errata Naturae: Para niños](http://erratanaturae.com/8805-2/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-errata-naturae-ideas-para-niños)
+
+## **Aula Planeta**
+
+La iniciativa solidaria de el Grupo Planeta durante el cierre de los colegios por el coronavirus está a disposición de profesores y alumnos de 5º y 6º de Educación Primaria y de la ESO en los currículos oficiales.
+
+La Fundación Planeta quiere poner a disposición de padres y educadores una herramienta que pueda servir de estímulo a los alumnos –la publicación está dirigida a alumnos de Primaria, Secundaria y Bachillerato- ante la complicada situación de confinamiento domiciliario obligatorio derivada de la aplicación del Estado de Alarma por el Gobierno.
+
+Los profesores y los alumnos podrán acceder gratuitamente a la plataforma AulaPlaneta mediante la página web, arriba indicada, o llamando al número de teléfono 934 967 008.
 
 ## **Aplicaciones Gratis para Niños**
 
