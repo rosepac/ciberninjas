@@ -64,6 +64,9 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 ### **Alternativas Culturales**
 
 - [Revistar Computer Hoy y de la Editorial Axel Springer](https://www.minds.com/newsfeed/1087656671227920384?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
+- [Revista Kiosko y +](https://www.kioskoymas.com/other/landings/aviso/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-kiosko-más)
+- [Revistas Muy Interesante](https://www.muyinteresante.es/biblioteca){:target="_blank"}  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revista-muy-interesante)
+- [Revista Gigantes Kobe Bryant](https://www.gigantes.com/tienda/revistas/kobe-bryant-no1447-abril-2016-digital-2/){:target="_blank"}  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revista-gigantes-kobe-bryant)
 - [La Casa del Libro: Libros Gratis](https://www.minds.com/newsfeed/1087774182482681856?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libros-gratis-la-casa-del-libro)
 - [Editorial Planeta: Libros y Actividades](https://keepreadingencasa.planetadelibros.com/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-y-actividades)
 - Editorial Anagrama [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-anagrama)
@@ -71,6 +74,8 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [Editorial DOLMEN: Libros Gratis](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
 - [Libro: Guerreras de la Ciencia](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
 - [Nubico: Lectura Online](https://www.nubico.es/prueba-gratis-nubico-premium){:target="_blank"} (Gratis por 15 Días: 50.000 libros y 80 revistas)
+- [TebeoSfera](https://asociacionculturaltebeosfera.blogspot.com/2020/03/tebeos-para-una-pandemia.html){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
+- [Cómics de Mujeres Legendarias](https://issuu.com/mujereslegendarias) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
 - [Lektu, Cultura Digital: La Traducción del Cómic](https://lektu.com/l/tebeosfera/la-traduccion-del-comic/12325){:target="_blank"} [Libros Gratis: 1.055](https://lektu.com/buscar?b=&precio=G&tipo=&idioma=){:target="_blank"} [Gratis Compartiendo: 1.596](https://lektu.com/buscar?b=&precio=S&tipo=&idioma=){:target="_blank"} 
 - [Cómics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-Cómics-gratis-de-league-of-legends-marvel){:target="_blank"}
 - [Cómics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank"}
@@ -106,6 +111,33 @@ Otras Revistas de la línea editorial Axel Springer
   - Descargar [Top Gear 21](https://drive.google.com/open?id=1hASSq7c75noGdTCkQ8q_IgMiaVmes_BH){:target="_blank"}
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
+
+## **Revistas Kiosko Más**
+
+Nos hemos visto gratamente sorprendidos por el éxito la iniciativa que Hearst España y Kiosko y más lanzamos para dar acceso gratuito a sus revistas en el mes de marzo, debido a la situación de emergencia actual. Agradecemos enormemente vuestra paciencia ante la lentitud que ha tenido nuestra web y aplicaciones a lo largo del día, la iniciativa se ha hecho terriblemente viral y hemos trabajado todo el día para paliarlo. Nuestra actual situación de teletrabajo nos lo ha puesto un poquito más difícil para la comunicación, pero lo hemos ido consiguiendo con esfuerzo de mucha gente.
+
+Para acceder a los títulos de Hearst España ya no es necesario registrarse en Kiosko y más, bastará con que descarguéis las aplicaciones de Kiosko y más en Google Play o App Store, y descarguéis los títulos que más os gusten de la lista siguiente:
+
+Elle, Cosmopolitan, QMD, Esquire, Harper's Bazaar, Men's Health, Diez Minutos, Elle Gourmet, Fotogramas, Cocina Diez, Casa Diez, micasa, DeViajes, Supertele, Car and Driver, Nuevo Estilo, Elle Decoration, Women's Health y Runners.
+
+Recuerda que puedes descargarlos cuando quieras, ya que son gratuitos, por lo que no hace falta que descargues todos, puedes ir descargándolos cuando vayas a leerlos. De hecho os rogamos que lo hagáis así para no sobrecargar los servidores.
+
+Nota importante para usuarios de dispositivos de Apple: es posible que según la versión de vuestra aplicación, y la carga actual del sistema, en los iPad y iPhone os aparezca el botón de "Comprar" en lugar del de "Leer". Si estáis seleccionando un producto de la lista publicado en marzo (o a finales de febrero, que es el número de marzo) no os cobrará al pulsar "Comprar" y no os pedirá vuestra clave de iTunes. Si os pide confirmar compra, seguramente estaréis seleccionando otro producto no gratuito.
+
+## **Revistas Muy Interesante**
+
+Desde Muy Interesante ponen a nuestra disposición 6 Ediciones Especiales:
+
+- Muy Visual: Las fotografías más impactantes del mundo animal.
+- Espacio 2040: Los retos que marcarán la exploración espacial.
+- Muy Historia: 1938: A las puertas de la Segunda Guerra Mundial.
+- Muy Negocios y Economía: Universidad o Formación Profesional.
+- Muy Preguntas y Respuestas: Especial Sexo y Amor.
+- Muy Preguntas y Respuestas: ¿Es bueno dormir desnudo?
+
+## **Revista Gigantes Kobe Bryant**
+
+La revista Gigantes ha decidido unirse al movimiento Quédate en Casa poniendo de forma gratuita la Edición Especial dedicada al jugador de la NBA, que nos ha dejado recientemente, Kobe Bryant.
 
 ## **Libros Gratis: La Casa del Libro**
 
@@ -235,10 +267,6 @@ Los títulos son los siguientes: Una historia de Perros Viejos, Cómo Sobrevivir
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-## **Editorial Anagrama**
-
-[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
-
 ## **Editorial Léeme Libros**
 
 Libros GRATIS con los que Reflexionar estos días: El Poder de las Personas: Un ensayo para cambiar el mundo juntos, El Peligro de Creer y Futbolistas de Izquierdas.
@@ -256,6 +284,16 @@ En tanto a lo que nos interesa por aquí, a los Ciberninjas; nos podemos encontr
 <!-- Directos A través de Youtube -->
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
+
+## **TebeoSfera**
+
+Recopilación de cientos de cómics que se han quedado libres de forma gratis por el "problemita" del virus.
+
+## **Cómics Mujeres Legendarias**
+
+- [Mujeres Legendarias del Lejano Oeste: Primera Parte](https://issuu.com/mujereslegendarias/docs/fanzine_mujeres_legendarias_lejano_){:target="_blank"}
+- [Mujeres Legendarias del Lejano Oeste: Fanzine](https://issuu.com/mujereslegendarias/docs/fanzine_forajidas_completa_maqueta){:target="_blank"}
+- [Mujeres Legendarias de Ultramar](https://issuu.com/mujereslegendarias/docs/mujeres_legendarias_de_ultramar){:target="_blank"}
 
 ## **Cómics de Riot Games**
 
@@ -328,7 +366,7 @@ A través de la campaña #WorldCupAtHome , las repeticiones completas de más de
 ## **Ubisoft Juegos Gratis**
 
 - Child of Light 👉 [GO!](https://register.ubisoft.com/child-of-light/es-ES){:target="_blank"}
-- Ghost Recon Breakpoint  👉 [GO!](https://freeweekend.ubisoft.com/ghost-recon-breakpoint/es-ES){:target="_blank"}
+- Ghost Recon Breakpoint 👉 [GO!](https://freeweekend.ubisoft.com/ghost-recon-breakpoint/es-ES){:target="_blank"}
 - Rabbids Coding 👉 [GO!](https://register.ubisoft.com/rabbids-coding/es-ES){:target="_blank"}
 - Might & Magic: Chess Royale 👉 [GO!](https://www.ubisoft.com/es-es/game/might-and-magic-chess-royale/){:target="_blank"}
 
@@ -369,6 +407,7 @@ Las retransmisiones son emitidas a través de Instagram.
 - [Festival Yo Me quedo En Casa](https://www.minds.com/newsfeed/1087364534203822080?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#festival-yo-me-quedo-en-casa)
 - [Beatport: Carl Cox y Amigos](https://www.minds.com/newsfeed/1089012796786941952?referrer=rosepac) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#beatport-carl-cox-y-amigos)
 - [Festival Mantita Fest](https://www.minds.com/newsfeed/1087368673935732736?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest)
+- [Festival Mantita Fest Latinoámerica](https://www.instagram.com/p/B-Ljf91i2bS/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest-latinoámerica)
 - [Festival Cuarentena Fest](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac){:target="_blank"}
  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cuarentena-fest)
 - [Conciertos Metallica](https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#conciertos-metallica)
@@ -424,6 +463,20 @@ Aquellos que sintonicen Twitch podrán donar dinero para beneficiar el Fondo de 
 
 Las lista de artistas completa es la siguiente: A-Trak, Anna, Agoria, Axel Boman, Blond: ish, Bonobo, Carl Cox, Chris Liebing, Destructo, Duke Dumont, come todo, Griz, La Fleur, Nastia, Nicole Moudaber, Nina Kraviz, Nora En Pure, Rüfüs Dü Sol (DJ Set), Sebastien Leger, Themba, Todd Terry, Tokimonsta, Umek, Wax Motif, Waze & Odyseey y la ciudad de Gorgon.
 
+## **Mantita Fest Latinoámerica**
+
+Mañana, Jueves 26 de Marzo, arranca la edición Latinoamericana del [@mantitafest](https://www.instagram.com/mantitafest/)! Estamos muy orgullosos de poder contar con 20 Autorxs de 5 países que se podrán disfrutar durante 4 días en 4 zonas horarias diferentes! 🎉Bendita locura la nuestra! 🤪🙈
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Tomen nota ✍
+JUEVES:
+🕘 20:05 👉 [@julianavelasquez](https://www.instagram.com/julianavelasquez/) .
+🕙 20:30 👉 [@ojospielcanela](https://www.instagram.com/ojospielcanela/) .
+🕚 20:55 👉 [@luciofeuillet](https://www.instagram.com/luciofeuillet/) .
+🕛 21:20 👉 [@soyemiliamusica](https://www.instagram.com/soyemiliamusica/) .
+🕜 21:45 👉 [@lucianamocchi](https://www.instagram.com/lucianamocchi/)
+
+[🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
+
 ## **Mantita Fest**
 
 TODOS los artistas conectarán desde sus propios perfiles de Instagram, y Además, muchos también se han animado a compartirlo simultáneamente en sus páginas oficiales de Facebook! Así que ya no tenéis razones para perderos ni un concierto! 🤩
@@ -449,7 +502,7 @@ Artistas:
 - ***Martes 24***: El Petit de Cal Eril, Cariño, Daniel Daniel, Paco Moreno y Sus Rumberos.
 - ***Miércoles 25***: Cuchillas, Kora, Lois, Canges.
 - ***Jueves 26***: Apartamentos Acapulco, Roldán, Estrella Fugaz, Santi, Angel Calvo.
-- ***Viernes 27***:Detergente Líquido, De los Santos, Jose Ignacio Martorell, Betacam, Pixel de Stael.
+- ***Viernes 27***: Detergente Líquido, De los Santos, Jose Ignacio Martorell, Betacam, Pixel de Stael.
 
 [🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
