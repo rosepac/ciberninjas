@@ -22,7 +22,7 @@ published: false
 
 ---
 
-![](/assets/images/blog/frederic-mistral.webp "")
+![Retrato del escritor francés Frederic Mistral](/assets/images/blog/frederic-mistral.webp "Retrato del escritor francés Frederic Mistral")
 
 Autor por el que la escritora Gabriela Mistral uso el apellido Mistral como seudónimo.
 
