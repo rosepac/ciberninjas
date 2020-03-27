@@ -30,7 +30,10 @@ header:
 
 No, este artículo no es una cura contra el coronavirus; porque básicamente y por desgracia, no parecer tener una metodología de cura concreta.
 
-💣 EN CONSTANTE EVOLUCIÓN (📰 Pendientes por Agregar -regresa pronto- 🤞)<br />(Salvo que le pase algo a mi persona. Que esperemos que no..)
+[HILO DE TWITTER CON TODAS LAS ACTIVIDADES, LIBROS, CÓMICS  Y ACTOS GRATUITOS DURANTE ESTOS DÍAS](https://twitter.com/ciberninjas/status/1241068631146016770){:target="_blank"} [😻](/quedateencasa-directo/)
+{: .notice--warning}
+
+💣 EN CONSTANTE EVOLUCIÓN (📰 Pendientes por Agregar -regresa pronto- 🤞) (Salvo que le pase algo al gatito ninja. Que esperemos que no..  😻)
 {: .notice--warning}
 
 Dicho esto, con el ya conocido problema que se ha ido contagiando por más de medio planeta; han nacido, no sé, si cientos de iniciativas (pero seguro que sí, decenas) de iniciativas de diferentes actividades que podemos realizar dentro de nuestra propia casa; puesto que es la única fórmula que parece funcionar para combatir este virus.
@@ -64,6 +67,9 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 ### **Alternativas Culturales**
 
 - [Revistar Computer Hoy y de la Editorial Axel Springer](https://www.minds.com/newsfeed/1087656671227920384?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
+- [Revista Kiosko y +](https://www.kioskoymas.com/other/landings/aviso/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-kiosko-más)
+- [Revistas Muy Interesante](https://www.muyinteresante.es/biblioteca){:target="_blank"}  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revista-muy-interesante)
+- [Revista Gigantes Kobe Bryant](https://www.gigantes.com/tienda/revistas/kobe-bryant-no1447-abril-2016-digital-2/){:target="_blank"}  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revista-gigantes-kobe-bryant)
 - [La Casa del Libro: Libros Gratis](https://www.minds.com/newsfeed/1087774182482681856?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libros-gratis-la-casa-del-libro)
 - [Editorial Planeta: Libros y Actividades](https://keepreadingencasa.planetadelibros.com/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-y-actividades)
 - Editorial Anagrama [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-anagrama)
@@ -71,12 +77,15 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 - [Editorial DOLMEN: Libros Gratis](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
 - [Libro: Guerreras de la Ciencia](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
 - [Nubico: Lectura Online](https://www.nubico.es/prueba-gratis-nubico-premium){:target="_blank"} (Gratis por 15 Días: 50.000 libros y 80 revistas)
+- [TebeoSfera](https://asociacionculturaltebeosfera.blogspot.com/2020/03/tebeos-para-una-pandemia.html){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
+- [Cómics de Mujeres Legendarias](https://issuu.com/mujereslegendarias){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
 - [Lektu, Cultura Digital: La Traducción del Cómic](https://lektu.com/l/tebeosfera/la-traduccion-del-comic/12325){:target="_blank"} [Libros Gratis: 1.055](https://lektu.com/buscar?b=&precio=G&tipo=&idioma=){:target="_blank"} [Gratis Compartiendo: 1.596](https://lektu.com/buscar?b=&precio=S&tipo=&idioma=){:target="_blank"} 
 - [Cómics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-Cómics-gratis-de-league-of-legends-marvel){:target="_blank"}
 - [Cómics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank"}
 - [Cómics: Autor El Torres](https://www.dropbox.com/sh/29bc0r7sjgncwd6/AAADLT5frBFJCBgFhpDdOoOza?dl=0){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cómics-el-torres)
 - [One More Library](https://onemorelibrary.com/index.php/en/search-results?se=1&layout=blog&search=&se_regs=0&se_cats=93%2Cp93&se_102_min=&se_102_max=&se_103=&se_107=){:target="_blank"} (1.200 Clásicos en Español)
 - [Cómics Más de 700 Cómics en Inglés GRATIS](https://www.minds.com/newsfeed/1088166633788461056?referrer=rosepac){:target="_blank"}
+- [Biblioteca Nacional de Emergencia](https://archive.org/details/nationalemergencylibrary?and%5B%5D=languageSorter%3A%22Spanish%22&sort=-date){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
 - [Bibliotecas y Revistas Virtuales en Español](/biblioteca-novela-poesia/) (Cientos e Incluso Miles de Libros Clásicos en Español)
 - [Juegos de Mesa Imprimibles](https://www.minds.com/newsfeed/1088859593176981504?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juegos-de-mesa-imprimibles)
 - [Partidos Históricos de Baloncesto NBA](https://www.youtube.com/playlist?list=PLtjs88_96K3k8osAmFzBNo5bm53pHkDrb){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-de-baloncesto-nba)
@@ -106,6 +115,33 @@ Otras Revistas de la línea editorial Axel Springer
   - Descargar [Top Gear 21](https://drive.google.com/open?id=1hASSq7c75noGdTCkQ8q_IgMiaVmes_BH){:target="_blank"}
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
+
+## **Revistas Kiosko Más**
+
+Nos hemos visto gratamente sorprendidos por el éxito la iniciativa que Hearst España y Kiosko y más lanzamos para dar acceso gratuito a sus revistas en el mes de marzo, debido a la situación de emergencia actual. Agradecemos enormemente vuestra paciencia ante la lentitud que ha tenido nuestra web y aplicaciones a lo largo del día, la iniciativa se ha hecho terriblemente viral y hemos trabajado todo el día para paliarlo. Nuestra actual situación de teletrabajo nos lo ha puesto un poquito más difícil para la comunicación, pero lo hemos ido consiguiendo con esfuerzo de mucha gente.
+
+Para acceder a los títulos de Hearst España ya no es necesario registrarse en Kiosko y más, bastará con que descarguéis las aplicaciones de Kiosko y más en Google Play o App Store, y descarguéis los títulos que más os gusten de la lista siguiente:
+
+Elle, Cosmopolitan, QMD, Esquire, Harper's Bazaar, Men's Health, Diez Minutos, Elle Gourmet, Fotogramas, Cocina Diez, Casa Diez, micasa, DeViajes, Supertele, Car and Driver, Nuevo Estilo, Elle Decoration, Women's Health y Runners.
+
+Recuerda que puedes descargarlos cuando quieras, ya que son gratuitos, por lo que no hace falta que descargues todos, puedes ir descargándolos cuando vayas a leerlos. De hecho os rogamos que lo hagáis así para no sobrecargar los servidores.
+
+Nota importante para usuarios de dispositivos de Apple: es posible que según la versión de vuestra aplicación, y la carga actual del sistema, en los iPad y iPhone os aparezca el botón de "Comprar" en lugar del de "Leer". Si estáis seleccionando un producto de la lista publicado en marzo (o a finales de febrero, que es el número de marzo) no os cobrará al pulsar "Comprar" y no os pedirá vuestra clave de iTunes. Si os pide confirmar compra, seguramente estaréis seleccionando otro producto no gratuito.
+
+## **Revistas Muy Interesante**
+
+Desde Muy Interesante ponen a nuestra disposición 6 Ediciones Especiales:
+
+- Muy Visual: Las fotografías más impactantes del mundo animal.
+- Espacio 2040: Los retos que marcarán la exploración espacial.
+- Muy Historia: 1938: A las puertas de la Segunda Guerra Mundial.
+- Muy Negocios y Economía: Universidad o Formación Profesional.
+- Muy Preguntas y Respuestas: Especial Sexo y Amor.
+- Muy Preguntas y Respuestas: ¿Es bueno dormir desnudo?
+
+## **Revista Gigantes Kobe Bryant**
+
+La revista Gigantes ha decidido unirse al movimiento Quédate en Casa poniendo de forma gratuita la Edición Especial dedicada al jugador de la NBA, que nos ha dejado recientemente, Kobe Bryant.
 
 ## **Libros Gratis: La Casa del Libro**
 
@@ -235,10 +271,6 @@ Los títulos son los siguientes: Una historia de Perros Viejos, Cómo Sobrevivir
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
-## **Editorial Anagrama**
-
-[📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
-
 ## **Editorial Léeme Libros**
 
 Libros GRATIS con los que Reflexionar estos días: El Poder de las Personas: Un ensayo para cambiar el mundo juntos, El Peligro de Creer y Futbolistas de Izquierdas.
@@ -256,6 +288,16 @@ En tanto a lo que nos interesa por aquí, a los Ciberninjas; nos podemos encontr
 <!-- Directos A través de Youtube -->
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
+
+## **TebeoSfera**
+
+Recopilación de cientos de cómics que se han quedado libres de forma gratis por el "problemita" del virus.
+
+## **Cómics Mujeres Legendarias**
+
+- [Mujeres Legendarias del Lejano Oeste: Primera Parte](https://issuu.com/mujereslegendarias/docs/fanzine_mujeres_legendarias_lejano_){:target="_blank"}
+- [Mujeres Legendarias del Lejano Oeste: Fanzine](https://issuu.com/mujereslegendarias/docs/fanzine_forajidas_completa_maqueta){:target="_blank"}
+- [Mujeres Legendarias de Ultramar](https://issuu.com/mujereslegendarias/docs/mujeres_legendarias_de_ultramar){:target="_blank"}
 
 ## **Cómics de Riot Games**
 
@@ -277,6 +319,12 @@ Desde hace tiempo los creadores del videojuego de League of Legend "LOL" han sac
 Desde esta biblioteca exclusiva nos ofrecen 1.200 obras bajo dominio público entra las que podemos encontrar muchos de los grandes clásicos de los escritores españoles más reconocidos e incluso algunos otros; grandes escritores internacionales.
 
 Cervantes, Clarín, Julio Verne, Thomas Paine, Louisa May Alcott, Unamuno, Aristóteles, Apiano de Alejandría, Antonio de Nebrija, Antón Chéjov, Alejandro Dumas, Alphonse de Lamartine, Alvar Núñez Cabeza de Vaca, Alonso de Ercilla, Mark Twain, Ayn Rand, Bram Stoker, Raplh Waldo Emerson, Vicente Rocafuerte, Nathaniel Hawthorne, Auguste Comte, Washington Irving, Henry David Thoreau, Adam Smith, Baltasar Gracián, Benito Pérez Galdós, Aristófanes, Charles Baudelaire, Charles Dickens, Charles Perrault, Diógenes Laercio, Daniel Defoe, D. H. Lawrence, Federico García Lorca, Fernando Pessoa, Fernando de Rojas, Fiodor Dostoyevski, Franz Kafka, Michel de Montaigne, Francis Scott Fitzgerald, Friedrich Engels, Flavio Josefo, Gustave Flaubert, Geoffrey Chaucer, Goethe, Karl Marx, Friedrich Nietzsche, Emilio Salgari, Emilio Pardo Bazán, Armado Nervo, Thomas Hobbes, San Juan de la Cruz, Antoine de Saint Exupéry, Giovanni Boccaccio, Adolfo Bécquer, Honoré de Balzac, Horacio Quiroga, William Shakespeare, Kahlil Gibran, Lord Byron, H. G. Wells, León Tolstói, Hammurabi, Aleksandr Pushkin, Karl Christian Friedrich Krause, Bartolomé Pou, Calderón de la Barca, Émile Zola, Alfonso X El Sabio, Alfonso de Valdés, Aureliano Abenza y Rodríguez, Óscar Wilde, Ovidio, Immanuel Kant, Pitágoras, Gaspar Melchor de Jovellanos, Apolonio de Rodas, Homero, Dante Alighieri, Platón, Edgar Allan Poe, Juan Eugenio Hartzenbusch, Juan ruiz de Alarcón, Maurice Joly, Lope de Vega, H. P. Lovecraft, Gustave Le Bon, Séneca, Sergei Nilus, Henry Ford, Cornelio Tácito, Luis de Góngora, Juan de Valdés, Marcel Proust, Mariano José de Larra, Marcelino Menéndez Pelayo, Mary Shelley, Máximo Gorki, Juan Valera, Novalis, Pedro Antonio de Alarcón, René Descartes, Sun Tzu, Manuel José Quintana, Juan Ramón Valle Inclán, Robert Ervin Howard, Rubén Dario, Rudyard Kipling, Robert Louis Stevenson, Cyrano de Bergerac, Soren Kierkegaard, Stendhal, Suetonio, Sigmund Freud, Stefan Zweig, Arthur Conan Doyle, Charles Darwin, Tirso de Molina, Victor Hugo, Virgilio, Virginia Woolf, Vicente Blasco Ibáñez, Voltaire,  Wallace Wattles, Walter Scott, Lyman Frank Baum, Henry Rider Haggard, Anónimos.
+
+## **Biblioteca Nacional de Emergencia**
+
+Al anunciar la [Biblioteca Nacional de Emergencia](http://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/){:target="_blank"}, se quedan en abierto una colección de libros que apoya la enseñanza remota de emergencia, actividades de investigación, becas independientes y estimulación intelectual, mientras que las universidades, escuelas, centros de capacitación y bibliotecas están cerrados.
+
+En concreto, dentro del idioma español, existen más de 19.000 documentos, son libros en préstamo durante 14 días que se deben devolver de forma interactiva; es un poco complicado encontrar los libros concretos que te interesan pero; al menos para libros infantiles y de adolescentes puede ser útil..
 
 ## **Juegos de Mesa Imprimibles**
 
@@ -328,7 +376,7 @@ A través de la campaña #WorldCupAtHome , las repeticiones completas de más de
 ## **Ubisoft Juegos Gratis**
 
 - Child of Light 👉 [GO!](https://register.ubisoft.com/child-of-light/es-ES){:target="_blank"}
-- Ghost Recon Breakpoint  👉 [GO!](https://freeweekend.ubisoft.com/ghost-recon-breakpoint/es-ES){:target="_blank"}
+- Ghost Recon Breakpoint 👉 [GO!](https://freeweekend.ubisoft.com/ghost-recon-breakpoint/es-ES){:target="_blank"}
 - Rabbids Coding 👉 [GO!](https://register.ubisoft.com/rabbids-coding/es-ES){:target="_blank"}
 - Might & Magic: Chess Royale 👉 [GO!](https://www.ubisoft.com/es-es/game/might-and-magic-chess-royale/){:target="_blank"}
 
@@ -361,14 +409,17 @@ De entre los movimientos que han ido naciendo, entre los más destacados se encu
 
 Las retransmisiones son emitidas a través de Instagram.
 
-- [Concierto Estopa](https://www.instagram.com/estopaoficial/?hl=es){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-estopa)
-- [Conciertos Billboard](https://steemit.com/hive-154806/@rosepac/-msica-en-directo-por-streaming-lauren-jauregui-skip-marley-y-ms-listos-para-los-conciertos-en-vivo-de-billboard-lauren-jauregui-skip-marley-more-set-for-billboard-live-at-home-concerts-1585071117){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-estopa)
+- [Concierto Estopa](https://www.instagram.com/estopaoficial/?hl=es){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-estopa) (20.10 H.)
+- [Concierto por América](https://www.fox.com/the-iheart-living-room-concert-for-america/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-por-américa) (Domingo al Lunes. 4 AM)
+- [Conciertos Billboard](https://steemit.com/hive-154806/@rosepac/-msica-en-directo-por-streaming-lauren-jauregui-skip-marley-y-ms-listos-para-los-conciertos-en-vivo-de-billboard-lauren-jauregui-skip-marley-more-set-for-billboard-live-at-home-concerts-1585071117){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-billboard)
+- [Circo del Sol](https://www.cirquedusoleil.com/cirqueconnect) (3 Nuevos Espectáculos a las 20 H.){:target="_blank"} 
 - [Dua Lipa: Lanzamiento en Directo de Su Nuevo Album](https://www.instagram.com/dualipa/?hl=es) - Viernes 27. LAnza Nuevo Single el día 25.
 - [Concierto DJ Dnice](https://www.instagram.com/dnice/){:target="_blank"} - Fiesta Electrónica el Martes 19 H. Española
 - [Concierto Colors - R & B y Hip Hop](https://www.youtube.com/watch?v=u4lxQlNyjY0){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-colors)
 - [Festival Yo Me quedo En Casa](https://www.minds.com/newsfeed/1087364534203822080?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#festival-yo-me-quedo-en-casa)
 - [Beatport: Carl Cox y Amigos](https://www.minds.com/newsfeed/1089012796786941952?referrer=rosepac) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#beatport-carl-cox-y-amigos)
 - [Festival Mantita Fest](https://www.minds.com/newsfeed/1087368673935732736?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest)
+- [Festival Mantita Fest Latinoámerica](https://www.instagram.com/p/B-Ljf91i2bS/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest-latinoámerica)
 - [Festival Cuarentena Fest](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac){:target="_blank"}
  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cuarentena-fest)
 - [Conciertos Metallica](https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#conciertos-metallica)
@@ -378,9 +429,27 @@ Las retransmisiones son emitidas a través de Instagram.
 
 Estopa ha anunciado a través del Transistor de Onda cero, que el Viernes 27 tras el aplauso a los Servicios Sanitarios; darán un pequeño concierto Online a través de sus redes sociales.
 
+## **Concierto por América**
+
+Elthon John, Alicia Keys, Backstreet Boys, Billie Eilish, Billie Joe Armstrong, Mariah Carey y Tim McGraw; actuarán la madrugada del domingo al lunes a las 04 AM. Hora Española.
+
 ## **Conciertos Billboard**
 
+Viernes (27 de marzo)
+18 pm Hora Española - Lukas Graham
+20 pm Hora Española - All Time Low
 
+## **Circo del Sol**
+
+En Cirque du Soleil , ofrecemos un escape de la vida cotidiana a través del deleite y la fantasía de nuestros espectáculos.
+
+Ahora más que nunca, queremos hacer nuestra pequeña parte para difundir la alegría, incluso desde lejos, directamente a sus espacios seguros.
+
+Permítanos darle la bienvenida a nuestro mundo donde lo transportarán imágenes de espectáculos impresionantes y videos favoritos de los fanáticos.
+
+Incluso puedes ejercitar el #CirqueWay, aprender nuevas técnicas de maquillaje, sumergirte en la realidad virtual o sorprender a tus hijos con videos únicos creados para ellos.
+
+Solo para ti, de nosotros. ¡Disfrutar!
 
 ## **Concierto Colors**
 
@@ -424,6 +493,20 @@ Aquellos que sintonicen Twitch podrán donar dinero para beneficiar el Fondo de 
 
 Las lista de artistas completa es la siguiente: A-Trak, Anna, Agoria, Axel Boman, Blond: ish, Bonobo, Carl Cox, Chris Liebing, Destructo, Duke Dumont, come todo, Griz, La Fleur, Nastia, Nicole Moudaber, Nina Kraviz, Nora En Pure, Rüfüs Dü Sol (DJ Set), Sebastien Leger, Themba, Todd Terry, Tokimonsta, Umek, Wax Motif, Waze & Odyseey y la ciudad de Gorgon.
 
+## **Mantita Fest Latinoámerica**
+
+Mañana, Jueves 26 de Marzo, arranca la edición Latinoamericana del [@mantitafest](https://www.instagram.com/mantitafest/)! Estamos muy orgullosos de poder contar con 20 Autorxs de 5 países que se podrán disfrutar durante 4 días en 4 zonas horarias diferentes! 🎉Bendita locura la nuestra! 🤪🙈
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Tomen nota ✍
+JUEVES:
+🕘 20:05 👉 [@julianavelasquez](https://www.instagram.com/julianavelasquez/) .
+🕙 20:30 👉 [@ojospielcanela](https://www.instagram.com/ojospielcanela/) .
+🕚 20:55 👉 [@luciofeuillet](https://www.instagram.com/luciofeuillet/) .
+🕛 21:20 👉 [@soyemiliamusica](https://www.instagram.com/soyemiliamusica/) .
+🕜 21:45 👉 [@lucianamocchi](https://www.instagram.com/lucianamocchi/)
+
+[🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
+
 ## **Mantita Fest**
 
 TODOS los artistas conectarán desde sus propios perfiles de Instagram, y Además, muchos también se han animado a compartirlo simultáneamente en sus páginas oficiales de Facebook! Así que ya no tenéis razones para perderos ni un concierto! 🤩
@@ -449,7 +532,7 @@ Artistas:
 - ***Martes 24***: El Petit de Cal Eril, Cariño, Daniel Daniel, Paco Moreno y Sus Rumberos.
 - ***Miércoles 25***: Cuchillas, Kora, Lois, Canges.
 - ***Jueves 26***: Apartamentos Acapulco, Roldán, Estrella Fugaz, Santi, Angel Calvo.
-- ***Viernes 27***:Detergente Líquido, De los Santos, Jose Ignacio Martorell, Betacam, Pixel de Stael.
+- ***Viernes 27***: Detergente Líquido, De los Santos, Jose Ignacio Martorell, Betacam, Pixel de Stael.
 
 [🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}
@@ -460,6 +543,9 @@ Las madrugadas del lunes al martes a la 1 AM hora española, se emitirá a trav�
 
 ### **Alternativas Educativas e Infantiles**
 
+- [Aprendemos en Casa](https://www.educacionyfp.gob.es/prensa/actualidad/2020/03/20200321-mefprtve.html){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aprendemos-en-casa)
+- [Edelvives](https://www.edelvives.com/es/Noticias/d/edelvives-apoya-a-los-centros-en-plena-crisis-del-coronavirus){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-edelvives)
+- [Genially](https://www.edelvives.com/es/Noticias/d/edelvives-apoya-a-los-centros-en-plena-crisis-del-coronavirus){:target="_blank"} (Plantillas PRO para presentaciones y mapas interactivos)
 - [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
 - [Cursos de la Constitución Española para Opositores](https://www.minds.com/newsfeed/1087694009007644672?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#campus-mad-para-opositores)
 - [❌ Finalizado: Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
@@ -470,6 +556,43 @@ Como no, nuestros recopilatorioes de cursos:
 - [Cursos para Educadores y Recursos Educativos](/cursos-educacion/)
 - [Cursos de Animación y Diseño](/cursos-animacion-diseno/)
 - [Ciberninjas: Nuestros Recursos Seleccionados](https://kutt.it/recursos)
+
+## **Aprendemos en Casa**
+
+![](/assets/images/blog/aprendemos-casa-horario.webp "Horario de las clases a través de la televisión española de Clan y La 2")
+
+Desde la Televisión Pública Española lanzan la iniciativa Aprendemos en Casa, en la que se incluyen clases de diferentes materias escolares, con las que poder apoyar los contenidos del curriculum escolar que se supone deberían de estar dando los niños en esta época del año.
+
+La distribución de contenidos queda repartida de la siguiente manera todos los días entre el lunes y el viernes:
+
+- Emisiones a través del Canal Clan TV; entre las 9 AM y la 12 AM.
+- Emisiones a través de la 2 de Televisión Española; entre las 12 AM y las 14 PM.
+- Edades y horarios:
+  - De 6 a 8 años, de 9 a 10 horas.
+  - De 8 a 10 años, de 10 a 11 horas.
+  - De 10 a 12 años, de 11 a 12 horas.
+  - De 12 a 14 años, de 12 a 13 horas.
+  - De 14 a 16 años, de 13 a 14 horas.
+- Días y asignaturas:
+  - El lunes, el contenido se basara en las matemáticas.
+  - El martes, en ciencias sociales.
+  - El miércoles, en educación artística y educación física.
+  - El jueves, lengua e idiomas.
+  - El viernes, terminará la semana con las ciencias naturales.
+
+## **Editorial Edelvives**
+
+Los centros escolares podrán contactar con Edelvives para poder beneficiarse de un amplio menú de recursos:
+
+- Acceso gratuito, hasta el mes de julio, a todos los recursos digitales para que se pueda continuar con las clases en formato digital, tanto el profesorado como el alumnado.
+- Implementación de G Suite (herramientas ofimáticas de Google Educación) de manera gratuita, en todas las escuelas que lo precisen para facilitar el trabajo *online.*
+- Acceso gratuito hasta el mes de julio a Ta-tum, la plataforma de Edelvives para el fomento de la lectura de los alumnos.
+- Presentación virtual de los productos a través de videoconferencia.
+- Formación específica de los materiales y de las herramientas ofimáticas de Google a través de soluciones Webinar.
+- Acceso a material complementario para organizar en casa el trabajo de los alumnos.
+- Envío gratuito de material al domicilio particular para todo el profesorado.
+
+Los centros interesados en alguno de estos recursos podrán contactar a través del correo experienciacliente@edelvives.es, donde obtendrán atención personalizada.
 
 ## **Scribd**
 

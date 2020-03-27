@@ -39,7 +39,7 @@ classes: wide
 
 ## Desarrollo & Diseño Web
 
-[👩‍🎨 Desarrolladores / Front End Españoles 👨‍🎨](https://twitter.com/ciberninjas/lists/dw){: .btn .btn--inverse .btn--large}{:target="_blank"}
+[👩‍🎨 Desarrolladores / Front End Españoles 👨‍🎨](https://twitter.com/ciberninjas/lists/dw){: .btn .btn--inverse .btn--large}{:target="_blank"} [🎓 Academias de Cursos de Programación](https://twitter.com/i/lists/954486867495473152/){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 ## Noticias Tecnología en Español
 
@@ -73,7 +73,7 @@ classes: wide
 
 ## 📰 Noticias Generalistas
 
-[Prensa Alternativa](https://twitter.com/ciberninjas/lists/prensa-alternativa){: .btn .btn--inverse .btn--large}{:target="_blank"} [Prensa Sensacionalista](https://twitter.com/ciberninjas/lists/prensa-radios){: .btn .btn--inverse .btn--large}{:target="_blank"}
+[Prensa Alternativa](https://twitter.com/ciberninjas/lists/prensa-alternativa){: .btn .btn--inverse .btn--large}{:target="_blank"}https://twitter.com/i/lists/1242058714900766726 [Prensa Alternativa](https://twitter.com/ciberninjas/lists/prensa-alternativa){: .btn .btn--inverse .btn--large}{:target="_blank"} [Prensa Sensacionalista](https://twitter.com/ciberninjas/lists/prensa-radios){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 ## 👩‍💻 Software
 
@@ -97,7 +97,11 @@ classes: wide
 
 ## ⛓ Criptomonedas
 
-[💰 Noticias Blockchain](https://twitter.com/ciberninjas/lists/noticias-blockchain){: .btn .btn--inverse .btn--large}{:target="_blank"} [💑 Steemit Usuarios](https://twitter.com/ciberninjas/lists/steemit-usuarios1){: .btn .btn--inverse .btn--large}{:target="_blank"} [🌐 Blockchain Eventos](https://twitter.com/ciberninjas/lists/blockchain-eventos){: .btn .btn--inverse .btn--large}{:target="_blank"}
+[⛓ Proyectos Blockchain](https://twitter.com/i/lists/1178097339757744129){: .btn .btn--inverse .btn--large}{:target="_blank"} [💑 Steemit Usuarios](https://twitter.com/ciberninjas/lists/steemit-usuarios1){: .btn .btn--inverse .btn--large}{:target="_blank"} [🌐 Blockchain Eventos](https://twitter.com/ciberninjas/lists/blockchain-eventos){: .btn .btn--inverse .btn--large}{:target="_blank"}
+
+## Electrónica
+
+[Empresas de Robótica y 3D](https://twitter.com/i/lists/1242064608673792003){: .btn .btn--inverse .btn--large}{:target="_blank"}
 
 ## Nuevos Productos
 

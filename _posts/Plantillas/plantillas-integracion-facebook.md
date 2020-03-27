@@ -48,6 +48,14 @@ URL: https://www.facebook.com/cibercursos/posts/1046542982394908
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331120520408133" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331120520408133" class="fb-xfbml-parse-ignore"><p>🧠 Libros de Reflexión Tecnológica Histórica / Clásica, el día a día de la Sociedad y la Tecnología visto por los antiguos grandes pensadores 💡</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331120520408133">Martes, 3 de marzo de 2020</a></blockquote></div>
 
+🧠 Pensamiento, Reflexión, Psicología: Mejores Prácticas y Autoayuda 🧠
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1346657625521089" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1346657625521089" class="fb-xfbml-parse-ignore"><p>🧠 Pensamiento, Reflexión, Psicología: Mejores Prácticas y Autoayuda 🧠</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1346657625521089">Domingo, 22 de marzo de 2020</a></blockquote></div>
+
+🎨 Originales Libros para Pintar para Adultos 👨‍🎨
+
+<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1346699565516895" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1346699565516895" class="fb-xfbml-parse-ignore"><p>🎨 Originales Libros para Pintar para Adultos 👨‍🎨</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1346699565516895">Domingo, 22 de marzo de 2020</a></blockquote></div>
+
 BIBLIOGRAFIAS - BIBLIOGRAFIAS - BIBLIOGRAFIAS - BIBLIOGRAFIAS - BIBLIOGRAFIAS - BIBLIOGRAFIAS
 
 💡 Jaron Lanier - El inventor de la Realidad Virtual. Nos muestra su punto de  vista sobre el uso de la tecnología en la Sociedad Actual a través de variopintas reflexiones más que interesantes, cuando menos para tomar en cuenta

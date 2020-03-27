@@ -74,6 +74,7 @@ header:
 
 ## Artículos
 
+* [Cómo delegar Steam Power a otros usuarios](https://steemit.com/steemit/@gmichelbkk/how-to-delegate-steem-power-easily)
 * [Los proyectos Open Source dentro de la Blockchain](https://steemit.com/upfundition/@utopian-io/erf8gqt0h)
 * [Las nuevas tribus y comunidades de Steemit](https://steemit.com/static/search.html?q=COMMUNITY+TRIBUS)
 * [Todavía confundido por Steem, Steem Power y Steem Dollars: lea esto](https://medium.com/hapramp/still-confused-by-steem-steem-power-and-steem-dollars-read-this-220ace402bcb)

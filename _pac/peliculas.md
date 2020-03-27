@@ -47,6 +47,7 @@ published: false
 * **Training Day** (2001)
 * Blow (2001)
 * **Réquiem por un sueño** (2000)
+* Descubriendo a Forrester (2000)
 * El Bar Coyote (2000)
 * Trainspotting (1996)
 * Diario de un Rebelde (1995)
