@@ -77,7 +77,7 @@ Kali está diseñado y distribuido por Offensive Security Ltd. como una reescrit
 
 Antes de decir algo más, permítanme decir que hay amantes y detractores para todo en el planeta, incluso hasta para Kali Linux; con seguridad, ambos tengan un suficiente conjunto de razones y pensamientos que defiendan su "yo tengo razón", y el juego siempre será así.
 
-Kali ofrece muchas razones de peso por las que ser la mejor herramienta a la hora de practicar y realizar trabajos de pentesting. Incluye **más de 600 herramientas de pentesting para principiantes**, es de código abierto y utiliza **una cuenta root única de forma predeterminada**, ya que la mayoría de las herramientas en Kali necesitan el más alto nivel de privilegios; así que parece lógico y ahorra mucho tiempo que así sea (aunque eso pueda conllevar algunas desventajas).
+Kali ofrece muchas razones de peso por las que ser la mejor herramienta a la hora de practicar y realizar trabajos de pentesting. Incluye más de 600 herramientas de pentesting para principiantes**, es de código abierto y utiliza **una cuenta root única de forma predeterminada**, ya que la mayoría de las herramientas en Kali necesitan el más alto nivel de privilegios; así que parece lógico y ahorra mucho tiempo que así sea (aunque eso pueda conllevar algunas desventajas).
 
 No solo es compatible con computadoras de x86 y arquitecturas ARM, sino que **también lo es con smarthphones / teléfonos inteligentes**, incluidos los dispositivos de: Nexus, One Plus One y otras.
 
