@@ -31,7 +31,9 @@ La **seguridad y la piratería** siempre han sido una de las **pasiones de los c
 
 Bien, entonces aquí vamos a presentar **las 11 mejores distribuciones para hackear y entrenar en estos tiempos libres** no te convertirán en un **hacker experto**, puesto que eso es algo para lo que tendrás que trabajar mucho más duro; pero si que vas a poder **encontrar el software necesario** y **las herramientas más útiles** con las que poder llegar a serlo algún día.
 
-En caso de que seas totalmente nuevo en esto, estas distribuciones de Linux se **centran principalmente en gestionar herramientas enfocadas hacía la piratería**; no dejan de ser, **sistemas operativos modificadas con unas herramientas especializadas** y otras herramientas bloqueadas, vamos que han sido rearmados con **las armas adecuadas para probar la seguridad y estabilidad** de sea lo que sea que quieras **analizar e investigar**.
+En caso de que seas totalmente nuevo en esto, estas distribuciones de Linux se **centran principalmente en gestionar herramientas enfocadas hacía la piratería**; no dejan de ser, **sistemas operativos modificadas con unas herramientas especializadas** y otras herramientas bloqueadas.
+
+Vamos que han sido rearmados con **las armas adecuadas para probar la seguridad y estabilidad** de sea lo que sea que quieras **analizar e investigar**.
 
 A poder ser, intenta **usar estás herramientas para fortalecer la seguridad de tu ordenador y red** y **NO** para entrar en los ordenadores de otras personas. Sin más preámbulo.
 
@@ -45,8 +47,8 @@ A continuación, **los 11 mejores sistemas operativos para hackear** y no te olv
   <ol>
     <li><a href="/mejores-sistemas-operativos-para-hackear/#1-kali-linux">Kali Linux</a></li>
     <li><a href="/mejores-sistemas-operativos-para-hackear/#2-black-arch-linux">Black Arch Linux</a></li>
-    <li><a href="/mejores-sistemas-operativos-para-hackear/#3-parrot-sec"></a>Parrot Sec</li>
-    <li><a href="/mejores-sistemas-operativos-para-hackear/#4-backbox"></a>BackBox</li>
+    <li><a href="/mejores-sistemas-operativos-para-hackear/#3-parrot-sec"></a>Parrot Sec</a></li>
+    <li><a href="/mejores-sistemas-operativos-para-hackear/#4-backbox"></a>BackBox</a></li>
     <li><a href="/mejores-sistemas-operativos-para-hackear/#5-caine">Caine</a></li>
     <li><a href="/mejores-sistemas-operativos-para-hackear/#6-network-security">Network Security</a></li>
     <li><a href="/mejores-sistemas-operativos-para-hackear/#7-arch-strike">Arch Strike</a></li>
@@ -117,6 +119,7 @@ También permite la instalación individual de estas herramientas; o mediante pe
 ## **3. Parrot Sec**
 
 ![Captura de pantalla del Sistema Operativo Parrot Sec, Ciberninjas](/assets/images/paginas/so-hack/3-parrot-sec.webp "Captura de pantalla del Sistema Operativo Parrot Sec, Ciberninjas")
+
 **Fuente** : [Twitter Parrot Sec](https://twitter.com/ParrotSec){:target="_blank"}
 
 Parrot Sec tiene mucho en común con Kali Linux, comenzando por el hecho de que ambos **son distribuciones de Linux basadas en GNU** y obviamente ambos: **son excelentes herramientas de pentesting**.
@@ -219,7 +222,7 @@ Con todo, un sistema operativo bastante extenso que permitirá realizar la mayor
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331088770411308" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331088770411308" class="fb-xfbml-parse-ignore"><p>🔥 Libros sobre Seguridad, Hacking Ético, Ciberseguridad, etc.  🔐 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331088770411308">Martes, 3 de marzo de 2020</a></blockquote></div>
 
-## **7. Arch Stricke**
+## **7. Arch Strike**
 
 ![Captura de pantalla del Sistema Operativo Arch Stricke, Ciberninjas](/assets/images/paginas/so-hack/arch-stricke-1.webp "Captura de pantalla del Sistema Operativo Arch Stricke, Ciberninjas")
 
@@ -273,6 +276,7 @@ En pocas palabras, pruébalo si deseas obtener la menor experiencia de Pentestin
 ## **9. DEFT Linux**
 
 ![Captura de pantalla del Sistema Operativo Deft Linux, Ciberninjas](/assets/images/paginas/so-hack/5-deft-pantalla.webp "Captura de pantalla del Sistema Operativo Deft Linux, Ciberninjas")
+
 **Fuente**: [Welive Security](https://www.welivesecurity.com/la-es/2016/02/23/distribuciones-gratuitas-analisis-forense/){:target="_blank"}
 
 DEFT son las siglas de Digital Evidence and Forensic Toolkit. Entonces, déjame aclarar aquí que **el Sistema DEFT puede ayudarte a hackear o realizar pentesting"** pero es mejor usarlo como un **"rastreador" o "analizador"**.
@@ -288,6 +292,7 @@ Algunas de las herramientas que incluye son **Google Password Decryptor, MySQL p
 Junto con estas herramientas que lo convierten en uno de los mejores sistemas operativos para hackear; también incluye aplicaciones generales que puedes ejecutar para hacer lo que hace la mayoría de la gente normal, como LibreOffice, el reproductor multimedia Gnome y algunos navegadores.
 
 **Última Versión**: Enero 2017. DEFT Linux 2017.1 "Zero"
+
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [🏡 Web Oficial DEFT](http://www.deftlinux.net/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
@@ -299,6 +304,7 @@ Junto con estas herramientas que lo convierten en uno de los mejores sistemas op
 ## **10. Pentoo**
 
 ![Captura de pantalla del Sistema Operativo de Pentoo Live, Ciberninjas](/assets/images/paginas/so-hack/7-pentoo-live.webp "Captura de pantalla del Sistema Operativo de Pentoo Live, Ciberninjas")
+
 **Fuente**: [Wikipedia](https://es.wikipedia.org/wiki/Pentoo#/media/Archivo:Pentoo-screen.png){:target="_blank"}
 
 Basado en Gentoo Linux, seguramente es uno de los SO preferidos de la mayoría de los piratas informáticos, o entre uno de **los mejores sistemas operativos para entre los entusiastas de la seguridad hacker**.
@@ -312,6 +318,7 @@ Entre otras herramientas incluye herramientas de inyección de paquetes y muchas
 En pocas palabras, puede que no sea el mejor Linux para hackear, pero sin duda es uno de los mejores.. Aunque en la actualidad, ya se halla quedado un poco desactualizado.
 
 **Última Versión**: Año 2015. Pentoo 2015.0 RC5 (x86 still on RC4.6)
+
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [🏡 Web Oficial Pentoo](https://www.pentoo.ch/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
@@ -338,6 +345,7 @@ Con seguridad no nos ofrece tantas herramientas como Kali o Parrot Sec, pero aun
 Algunas de las herramientas incluidas en Samurai son: SQLBrute, BurpSuit, SpikeProxy, RatProxy, HTTP_Print, etc.
 
 **Última Versión**: Enero 2016. SamuraiWTF 3.0 Branch
+
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [🏡 Web Oficial Samurai Web Testing](http://www.samurai-wtf.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
