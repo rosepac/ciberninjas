@@ -717,6 +717,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## Python <i class="fab fa-python"></i>
 
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf){:target="_blank"} (PDF)
+* [Aprende Python desde cero a experto](https://leanpub.com/aprende-python/){:target="_blank"} (PDF) (2020)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](https://code.google.com/p/swfk-es/){:target="_blank"} (HTML)
 * [Inmersión en Python](https://es.diveintopython.net/toc.html){:target="_blank"} (HTML)
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf){:target="_blank"} (PDF)(descarga directa)
