@@ -35,8 +35,6 @@ Pero también hay desafíos, ¿Cómo evitas distraerte con las tareas doméstica
 🔥 Seguro también te interesa: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
 {: .notice--danger}
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
 ### **18 Mejores prácticas para aumentar tu productividad desde el teletrabajo**
 
 Aquí están las mejores costumbres para lograr que el teletrabajo funcione.
@@ -135,6 +133,8 @@ La mejor fórmula para abstraerte totalmente del exterior y concentrarte en tu t
 
 Además, si comienzas a trabajar desde casa, lo último que querrás es que tus compañeros de trabajo reciban más ruido que el de tu propia voz; sin recibir los ruidos de tus vecinos o el resto de la familia.
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 ## **17. Aumenta la importancia del trabajo en equipo**
 
 Consulte con sus compañeros de trabajo y el jefe varias veces al día. La mejor forma de demostrar que realmente estás enfocada en el trabajo desde casa, es qué, te propongas crear una cadena de correos electrónicos, realizar llamadas entre los compañeros de trabajo e incluso al jefe / jefa; a lo largo del día.
@@ -142,5 +142,3 @@ Consulte con sus compañeros de trabajo y el jefe varias veces al día. La mejor
 ## **18. Usa herramientas gratuitas**
 
 Utilice tecnología de comunicaciones gratuita o de bajo costo. Hoy en día hay innumerables herramientas disponibles para mantener una estrecha comunicación con los compañeros de empresa. Algunas de ellas, incluyen: Slack o Hipchat para chatear en grupo, Trello o Asana para la gestión de proyectos, Expensify para rastrear gastos y enviar informes de gastos y Skype o Hangout, para la realización de videollamadas.
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346699565516895&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>

@@ -16,7 +16,7 @@ excerpt: >-
   Los consejos perfectos para trabajar y construir tu propia oficina en casa.
 canonical_URL: https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/
 permalink: /mejores-consejos-trabajar-desde-casa/
-date: 2020-03-18
+date: 2020-03-29
 last_modified_at: 
 published: true
 
@@ -34,8 +34,6 @@ Muchas compañías, especialmente las tecnológicas como Twitter, Google, Facebo
 
 🔥 Seguro también te interesa: [Mejores Prácticas para Teletrabajar](/mejores-practicas-trabajar-desde-casa/)
 {: .notice--danger}
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## **1. Buena conexión a internet**
 
@@ -60,6 +58,8 @@ Algunos ejemplos: [Autonomous ErgoChair 2](https://www.autonomous.ai/office-chai
 ## **3. Toma medidas para no ser interrumpido**
 <!-- contenido -->
 Coloca Post-It en la puerta durante las llamadas o reuniones y notifica a tus amigos y familiares, que aunque estés en casa; te encuentras trabajando.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## **4. Reuniones**
 
@@ -98,11 +98,12 @@ Como por ejemplo: Microsoft To-DO, la antigua Wunderlist; Joplin; Simplenote; Go
 Sin lugar a dudas vas a requerir unos auriculares adecuadas para trabajar desde casa, en el artículo de [18 mejores prácticas para trabajar desde casa](/mejores-practicas-trabajar-desde-casa/#16-compra-unos-auriculares-con-cancelación-de-ruido) ya hemos comentado sobre ello.. Puedes encontrar algunos de [los mejores auriculares por aquí](/auriculares-dise%C3%B1o/) 🤞
 
 <!-- Vas a necesitar un buen auricular para hablar por teléfono con las manos libres. Muchos confían en los AirPods de Apple ($ 169) y los nuevos AirPods Pro ($ 249), que se mantienen en el oído más fácilmente. Una alternativa más barata es Echo Buds de Amazon, que se vende por $ 129. A Michael Oldenburg, gerente del fabricante de drones DJI, le gustan para las reuniones, "o simplemente para bloquear el ruido". -->
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346699565516895&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## **7. Calendarios**
 
 Comparte lo que estas haciendo con sus compañeros de trabajo a través de un calendario compartido. Las opciones gratuitas incluyen Google Calendar y Zoho, como las más conocidas; pero también, están los calendarios de Outlook, e incluso alguna APP del estilo de Simple Calendar.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346699565516895&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## **8. Seguridad**
 
@@ -154,5 +155,3 @@ Finalmente, os adjunto un vídeo de un chico que me cae muy bien.. Que quizás o
 
 ¿Crees que me ha faltado algo importante a tener en cuenta? Házmelo saber a través de mis redes sociales. Hazme llegar tus herramientas favoritas con las que trabajar desde casa. Búscame en Twitter, @ciberninjas
 <!-- https://www.reviewed.com/home-outdoors/best-right-now/the-best-office-chairs -->
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346699565516895&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
