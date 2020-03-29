@@ -35,7 +35,7 @@ Pero también hay desafíos, ¿Cómo evitas distraerte con las tareas doméstica
 🔥 Seguro también te interesa: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
 {: .notice--danger}
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1346657625521089" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1346657625521089" class="fb-xfbml-parse-ignore"><p>🧠 Pensamiento, Reflexión, Psicología: Mejores Prácticas y Autoayuda 🧠</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1346657625521089">Domingo, 22 de marzo de 2020</a></blockquote></div>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ### **18 Mejores prácticas para aumentar tu productividad desde el teletrabajo**
 
@@ -55,6 +55,8 @@ Encárgate de que los documentos importantes siempre sean cargados a través de 
 
 Mantén una rutina regular, dúchate y vístete todos los días como si fueses a ir a la oficina real. Ducharte y vestirte te hará idealizar, que tu hogar es tu oficina, y hará que se asemeje más a una oficina real y seguramente; también, ayudará a recordar al resto de los habitantes de la casa, que aunque tú estés sentado en el sofá leyendo, navegando en la Web o hablando por teléfono: en realidad estás trabajando.
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 ## **4. Restringe las visitas**
 
 Se capaz de marcar horarios de visitas o para los encuentros con tus amigos; y no tengas miedo a, cortésmente, decir a los demás que estás trabajando. Los límites son tan efectivos como se hacen cumplir.
@@ -68,6 +70,8 @@ Siempre puedes buscar una opción, como la de hacer el [gym en casa](https://gym
 ## **6. Crea un semáforo para la familia**
 
 Cuelga o pega un papel con los colores de un semáforo u algún otro divertido cartel que indique que estás ocupado / ocupada. La idea de esto, sería que los niños identifiquen y respeten tu tiempo de máxima concentración.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346699565516895&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## **7. Invierte en crear una oficina cómoda**
 
@@ -86,6 +90,8 @@ Indica, claramente, tus horas de trabajo en tus aplicaciones de mensajería y re
 ## **9. Finge que no estás en casa**
 
 No conteste a tu teléfono particular o la puerta de su casa durante horario laboral. De esa manera, no te sentirás tentado a chatear o de tomarte un tiempo libre extra, y seguirás enfocado en las tareas pendientes.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## **10. No realices citas que no sean de trabajo a mitad del día**
 
@@ -111,6 +117,8 @@ Realiza pausas para desconectar. Aprovecha tu flexibilidad, a pesar de que en la
 Además, debemos descansar la vista de la computadora de forma períodica; ya saben..
 <!-- ¿Sientes que tus fuerzas flojean? Corta por lo sano, descansa dando un paseo en bicicleta, yendo a nadar o incluso abandonando el trabajo por completo durante el resto del día. Aprovecha la oportunidad, de que tu horario puede ser tan flexible como lo necesites, y ten en cuenta que a veces lo más importante es apartar el foco y distraerse por un cierto tiempo para obtener los mejores resultados. -->
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346699565516895&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 ## **14. Disfruta de las interrupciones**
 
 Mientras que algunos trabajadores remotos evitan las visitas personales durante la jornada laboral, otros intentan verlo como algo de aprovechamiento. Si eres incapaz de suprimir las continuas interrupciones -de la familia ¿- quizás puedas intentar verlo como pequeñas interrupciones, en las que despejar tu mente y con las que tomar fuerzas para Regresa al trabajo con más ganas; posteriormente.
@@ -118,6 +126,8 @@ Mientras que algunos trabajadores remotos evitan las visitas personales durante 
 ## **15. Mantente fuera de la cocina.**
 
 Procura implantar una disciplina de no visitar demasiado tu cocina, al estar en casa; puedes sentir la necesidad ir a por un café, constantemente, o visitar la nevera a cada rato. Procura hacer fuerza y visitar únicamente la nevera en tus pausas de horario de descanso.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## **16. Compra unos auriculares con cancelación de ruido**
 
@@ -133,4 +143,4 @@ Consulte con sus compañeros de trabajo y el jefe varias veces al día. La mejor
 
 Utilice tecnología de comunicaciones gratuita o de bajo costo. Hoy en día hay innumerables herramientas disponibles para mantener una estrecha comunicación con los compañeros de empresa. Algunas de ellas, incluyen: Slack o Hipchat para chatear en grupo, Trello o Asana para la gestión de proyectos, Expensify para rastrear gastos y enviar informes de gastos y Skype o Hangout, para la realización de videollamadas.
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1346699565516895" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1346699565516895" class="fb-xfbml-parse-ignore"><p>🎨 Originales Libros para Pintar para Adultos 👨‍🎨</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1346699565516895">Domingo, 22 de marzo de 2020</a></blockquote></div>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346699565516895&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>

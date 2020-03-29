@@ -62,7 +62,15 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 
 ## **Charlas de Desarrolladores de Google España**
 
+- [🔎 Curso Online de SEO](https://info.uvic.cat/seo/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#webinar-de-seo)
 - [💻 Charlas por streaming del GDG Spain durante el confinamiento por el Coronavirus #YoMeQuedoEnCasaGDG](https://steemit.com/hive-154806/@rosepac/-charlas-por-streaming-del-gdg-spain-durante-el-confinamiento-por-el-coronavirus-yomequedoencasagdg-1584549963){:target="_blank"}
+
+## **Webinar de SEO**
+
+- [Enlace de Youtube al Curso de SEO](https://www.youtube.com/watch?v=EH93WYZqlZM&list=PLBYz4g4xZC-lvGEPIZz9idxf1ieX808oR){:target="_blank"}
+- [PDF con el Contenido del Webinar SEO](https://www.uvic.cat/formacio-continua/sites/default/files/seo_actualizacion_2020.pdf){:target="_blank"}
+
+Universidad Central de Cataluña: Webinar de actualización: 06/04/2020 a las 18h (Central European Time (CET), UTC +1)
 
 ### **Alternativas Culturales**
 

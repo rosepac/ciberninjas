@@ -35,7 +35,7 @@ Muchas compañías, especialmente las tecnológicas como Twitter, Google, Facebo
 🔥 Seguro también te interesa: [Mejores Prácticas para Teletrabajar](/mejores-practicas-trabajar-desde-casa/)
 {: .notice--danger}
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1346657625521089" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1346657625521089" class="fb-xfbml-parse-ignore"><p>🧠 Pensamiento, Reflexión, Psicología: Mejores Prácticas y Autoayuda 🧠</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1346657625521089">Domingo, 22 de marzo de 2020</a></blockquote></div>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## **1. Buena conexión a internet**
 
@@ -98,6 +98,7 @@ Como por ejemplo: Microsoft To-DO, la antigua Wunderlist; Joplin; Simplenote; Go
 Sin lugar a dudas vas a requerir unos auriculares adecuadas para trabajar desde casa, en el artículo de [18 mejores prácticas para trabajar desde casa](/mejores-practicas-trabajar-desde-casa/#16-compra-unos-auriculares-con-cancelación-de-ruido) ya hemos comentado sobre ello.. Puedes encontrar algunos de [los mejores auriculares por aquí](/auriculares-dise%C3%B1o/) 🤞
 
 <!-- Vas a necesitar un buen auricular para hablar por teléfono con las manos libres. Muchos confían en los AirPods de Apple ($ 169) y los nuevos AirPods Pro ($ 249), que se mantienen en el oído más fácilmente. Una alternativa más barata es Echo Buds de Amazon, que se vende por $ 129. A Michael Oldenburg, gerente del fabricante de drones DJI, le gustan para las reuniones, "o simplemente para bloquear el ruido". -->
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346699565516895&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## **7. Calendarios**
 
@@ -127,6 +128,8 @@ Otro utensilio que te puede hacer la vida un poco más fácil; es una [regleta c
 Créeme que lo último que querrás, será, tener el salón o la habitación que uses de despacho llena de molestos cables.
 <!-- Recogimos esta regleta de 12 tomacorrientes Belkin con protector contra sobretensiones por $ 22 y ya no tenemos que buscar una toma disponible. -->
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346657625521089&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 ## **10. Segunda pantalla**
 
 La idea de hacerte con un segundo monitor o bien una pequeña tablet o un segundo dispositivo, capaz de sincronizarse o trabajar en conjunto con tu dispositivo principal. Con el paso del tiempo, te va a ser fundamental.
@@ -152,4 +155,4 @@ Finalmente, os adjunto un vídeo de un chico que me cae muy bien.. Que quizás o
 ¿Crees que me ha faltado algo importante a tener en cuenta? Házmelo saber a través de mis redes sociales. Hazme llegar tus herramientas favoritas con las que trabajar desde casa. Búscame en Twitter, @ciberninjas
 <!-- https://www.reviewed.com/home-outdoors/best-right-now/the-best-office-chairs -->
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1346699565516895" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1346699565516895" class="fb-xfbml-parse-ignore"><p>🎨 Originales Libros para Pintar para Adultos 👨‍🎨</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1346699565516895">Domingo, 22 de marzo de 2020</a></blockquote></div>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1346699565516895&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
