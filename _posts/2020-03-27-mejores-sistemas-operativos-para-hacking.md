@@ -353,6 +353,5 @@ Algunas de las herramientas incluidas en Samurai son: SQLBrute, BurpSuit, SpikeP
 
 🔐 No te Olvides de Visitar: [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank"}
 {: .notice--danger}
-
 <!-- https://www.deepwebsiteslinks.com/best-os-for-hacking/ -->
 <!-- https://fwhibbit.es/toolkits-para-hacking-ii-distribuciones-para-auditorias-de-seguridad -->
