@@ -60,6 +60,20 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
+## **Charlas de Tecnología por Miriadax**
+
+Las charlas organizadas por la "universidad digital" [Miriadax](https://www.instagram.com/p/B-R2N9po3Nh/){:target="_blank"}.
+
+- Lunes, 30 de Marzo - 17 H. ESPAÑOLA: [DESMITIFICANDO LA CUARENTENA](https://www.instagram.com/kellpozo/){:target="_blank"}
+
+- Martes, 31 de Marzo - 17 H. ESPAÑOLA: [LA IMPORTANCIA DEL BI EN ESTOS TIEMPOS INCIERTOS](https://www.instagram.com/antoyuju/){:target="_blank"}
+
+- Miércoles, 1 de Abril  - 17 H. ESPAÑOLA: [HAZTE UN CORTO](https://www.instagram.com/miriadax_ed/){:target="_blank"}
+
+- Jueves, 2 de Abril  - 17 H. ESPAÑOLA: [DEL AULA AL MUNDO DIGITAL EN UN SEGUNDO](https://www.instagram.com/ednamanotas/){:target="_blank"}
+
+- Viernes, 3 de Abril  - 17 H. ESPAÑOLA: [ADMINISTRADORES DE SISTEMAS Y LA AMENAZA INVISIBLE](https://www.instagram.com/alexbaldo/){:target="_blank"}
+
 ## **Charlas de Desarrolladores de Google España**
 
 - [🔎 Curso Online de SEO](https://info.uvic.cat/seo/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#webinar-de-seo)
