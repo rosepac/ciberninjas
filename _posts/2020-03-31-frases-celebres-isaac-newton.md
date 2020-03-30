@@ -46,7 +46,7 @@ Físico, teólogo, inventor, alquimista y matemático inglés Isaac Newton.
 
 <h2><p align="center"><cite>"Si he realizado descubrimientos invaluables ha sido más por tener paciencia que cualquier otro talento."</cite></p></h2>
 
-<h2><p align="center"><cite>"Sir Isaac Newton fue interrogado acerca de cómo descubrió la gravedad. Yo contesté: pensando, pensando en ello todo el tiempo."</cite></p></h2>
+<h2><p align="center"><cite>"Sir Isaac Newton fue interrogado acerca de cómo descubrió la gravedad.<br/>Yo contesté: pensando, pensando en ello todo el tiempo."</cite></p></h2>
 
 <h2><p align="center"><cite>"Platón es mi amigo, Aristóteles es mi amigo, pero mi mejor amigo es la verdad."</cite></p></h2>
 
