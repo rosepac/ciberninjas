@@ -26,7 +26,7 @@ published: true
 
 ![Lanzamiento de las extensiones de Firebase para Kotlin](/assets/images/blog/firebase-kotlin-1.webp "Lanzamiento de las extensiones de Firebase para Kotlin")
 
-🔥 Seguro también te interesa: [Comparación Flutter, React, Xamarin](/comparacion-flutter-react-native-xamarin/) >> [Palabras de Kotlin](/palabras-lenguajes-programacion/#nube-de-palabras-de-kotlin) [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/)
+🔥 Seguro también te interesa: [Comparación Flutter, React, Xamarin](/comparacion-flutter-react-native-xamarin/) >> [Palabras de Kotlin](/palabras-lenguajes-programacion/#nube-de-palabras-de-kotlin) [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/)
 {: .notice--danger}
 
 Sabemos que Kotlin es el futuro de Android y que los desarrolladores de Kotlin quieren API limpias e idiomáticas cuando usan Firebase en sus aplicaciones. Durante el año pasado, hemos lanzado las bibliotecas de extensión Firebase Kotlin (KTX) junto con nuestros SDK de Java para Android para brindar a los desarrolladores de Kotlin lo mejor de ambos mundos.
@@ -84,6 +84,8 @@ remoteConfig.setConfigSettingsAsync (configSettings)
 
 No hubiéramos podido lanzar estas bibliotecas KTX sin la ayuda de todos los entusiastas de Kotlin en la comunidad Firebase. Nos gustaría dar un agradecimiento especial a [Rosário Pereira Fernandes,](https://github.com/rosariopfernandes) quien contribuyó con un código y documentación excelentes al esfuerzo de KTX.
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fciberninjas%2Fposts%2F1353583048161880&width=850&show_text=true&appId=164266330790466&height=448" width="850" height="448" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 ## Licencia
 
 **Fuente**\: [Se abren las extensiones de Firebase enfocadas a Kotlin](https://firebase.googleblog.com/2020/03/firebase-kotlin-ga.html "Se abren las extensiones de Firebase enfocadas a Kotlin"){:target="_blank"}
@@ -92,6 +94,9 @@ No hubiéramos podido lanzar estas bibliotecas KTX sin la ayuda de todos los ent
 ## Relacionados
 
 [▷ Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/)
+
 [▷ Cómo aprender Flutter en 2020](/como-aprender-flutter/)
+
 [▷ Wallpapers de Flutter](/wallpaper-flutter/)
+
 [▷ Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank"}
