@@ -15,14 +15,14 @@ categories:
 - Sistemas Operativos
 header:
   teaser: /assets/images/blog/linux-mejor-sistema-operativo-webp
-title: '🥇 ▷ Las 7 Mejores Distribuciones de Linux para Principiantes'
+title: '🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux (unix) para Principiantes'
 description: >-
-  ''
+  '✅ Las distribuciones perfectos de código abierto basados en Linux, enfocados en principiantes (dummies) de Unix'
 excerpt: >-
-  ''
+  '✅ Las distribuciones perfectos de código abierto basados en Linux, enfocados en principiantes (dummies) de Unix'
 canonical_URL: https://ciberninjas.com/7-mejores-distribuciones-escritorio-para-principiantes/
 permalink: /7-mejores-distribuciones-escritorio-para-principiantes/
-date: 2020-02-24 00:32:32
+date: 2020-04-01
 last_modified_at: 
 published: false
 
@@ -65,8 +65,7 @@ Recuerda, esto se centra en los ordenadores de escritorio; para estudiar, trabaj
 ## **Elementary OS**
 
 ![Escritorio principal de Elementary OS el Linux más similar a iOS de Mac y minimalista que existe en la actualidad](/assets/images/blog/elementary-5.webp "Escritorio principal de Elementary OS el Linux más similar a iOS de Mac y minimalista que existe en la actualidad")
-
-**Fuente**: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/a/a0/Elementary_OS_Loki_0.4.png){:target="_blank"}
+> **Fuente**: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/a/a0/Elementary_OS_Loki_0.4.png){:target="_blank"}
 
 **Elementary OS, es una distribución liviana de Linux** que se encuentra en lo más alto de la lista de entre las distribuciones más recomendadas. ¿Por qué? Básicamente, por dos razones.
 
@@ -82,8 +81,7 @@ Junto con la simplicidad de la tienda de aplicaciones, es encomiable lo que el e
 ## **Mint**
 
 ![Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad](/assets/images/blog/mint-cinamon.webp "Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad")
-
-**Fuente**: [Linux Mint Blog](https://www.linuxmint.com/){:target="_blank"}
+> **Fuente**: [Linux Mint Blog](https://www.linuxmint.com/){:target="_blank"}
 
 Durante años **Linux Mint** ha sido la distribución número uno entre los usuarios de Distrowatch. Un lugar bien merecido, puesto que sin lugar a dudas: **Linux Mint es la versión de Linux más parecida a Windows que existe** (Windows 7). Lo que favorece de forma brutal, el aprendizaje de su manejo.
 
@@ -103,8 +101,7 @@ Esto son el nombre de tres interfaces de escritorio diferentes entre las que vas
 ## **Ubuntu**
 
 ![Escritorio principal de Ubuntu OS que es el Linux más recomendado y difundido entre los linuxeros, como sistema operativo para los principiantes](/assets/images/blog/ubuntu-19.webp "Escritorio principal de Ubuntu OS que es el Linux más recomendado y difundido entre los linuxeros, como sistema operativo para los principiantes")
-
-**Fuente**: [Rucore](https://rucore.net/luchshij-linux-distributiv-v-2020-godu/){:target="_blank"}
+> **Fuente**: [Rucore](https://rucore.net/luchshij-linux-distributiv-v-2020-godu/){:target="_blank"}
 
 **Ubuntu**, ha reinado a lo largo de los últimos años, como la distribución de escritorio más recomendada hacía los principiantes y usuarios de ofimática sobre Linux y hay varias razones por las cuales ha sido así.
 
@@ -120,9 +117,8 @@ Con Ubuntu Linux necesitas muy pocos ajustes para que el sistema operativo haga 
 
 ## **Manjaro**
 
-![](/assets/images/blog/manjaro.webp "")
-
-**Fuente**: [Forum de Manjaro](https://forum.manjaro.org/t/manjaro-kde-19-0-pre4-stable-branch/121868){:target="_blank"}
+![Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo](/assets/images/blog/manjaro.webp "Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo")
+> **Fuente**: [Forum de Manjaro](https://forum.manjaro.org/t/manjaro-kde-19-0-pre4-stable-branch/121868){:target="_blank"}
 
 **Manjaro es una de las pocas distribuciones basadas en Arch para principiantes**. En circunstancias normales, no usarías una versión de Linux de escritorio basada en Arch para citar a las mejores versiones de Linux. ¿Por qué?
 
@@ -149,8 +145,7 @@ Los gestores de paquetes son algo nuevo para los recién llegados de Linux. Es p
 ## **Deepin**
 
 ![](/assets/images/blog/deepin.webp "")
-
-**Fuente**: Youtube
+> **Fuente**: Youtube
 
 Deepin utiliza Deepin Desktop como la interfaz de usuario predeterminada, que a menudo se considera el escritorio más hermoso del mercado. De hecho, ningún escritorio se acerca a la belleza que se encuentra en este sabor de Linux, no GNOME, KDE, Mate, Cinnamon ... o cualquier otro escritorio en cualquier distribución de Linux. Era como si los desarrolladores de Deepin tomaran una base de Ubuntu, en capas en el escritorio de GNOME con algunas de las extensiones más utilizadas y luego mezclaran solo los bits correctos del escritorio de macOS para crear la proporción perfecta de función y forma. Deepin también incluye una buena cantidad de software (que comparte repositorios similares a los de Ubuntu) para ayudarlo a trabajar y jugar. La única diferencia entre Deepin y muchas otras distribuciones de Linux es que Deepin opta por el conjunto de herramientas WPS Office sobre LibreOffice. La buena noticia es que WPS es una aplicación excepcional que cualquiera podría usar con poca o ninguna curva de aprendizaje. Deepin extiende la elegancia al panel de control en forma de una barra lateral que hace que sea increíblemente simple configurar cada aspecto de su escritorio. Cualquiera que busque el escritorio más atractivo del mercado, uno que también funcione, sería difícil encontrar una distribución para el mejor Deepin.
 
@@ -160,8 +155,7 @@ Deepin utiliza Deepin Desktop como la interfaz de usuario predeterminada, que a 
 ## **POP_OS!**
 
 ![](/assets/images/blog/pop-os.webp "")
-
-**Fuente**: [Xtreme Rigs](https://www.xtremerigs.net/){:target="_blank"}
+> **Fuente**: [Xtreme Rigs](https://www.xtremerigs.net/){:target="_blank"}
 
 **Pop!_OS es la distribución interna de la empresa System76**. Está basado en Ubuntu, lo que esta ofrece una estabilidad de por sí.
 

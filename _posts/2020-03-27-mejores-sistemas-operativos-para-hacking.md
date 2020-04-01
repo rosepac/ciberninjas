@@ -119,8 +119,7 @@ También permite la instalación individual de estas herramientas; o mediante pe
 ## **3. Parrot Sec**
 
 ![Captura de pantalla del Sistema Operativo Parrot Sec, Ciberninjas](/assets/images/paginas/so-hack/3-parrot-sec.webp "Captura de pantalla del Sistema Operativo Parrot Sec, Ciberninjas")
-
-**Fuente** : [Twitter Parrot Sec](https://twitter.com/ParrotSec){:target="_blank"}
+> **Fuente** : [Twitter Parrot Sec](https://twitter.com/ParrotSec){:target="_blank"}
 
 Parrot Sec tiene mucho en común con Kali Linux, comenzando por el hecho de que ambos **son distribuciones de Linux basadas en GNU** y obviamente ambos: **son excelentes herramientas de pentesting**.
 
@@ -276,8 +275,7 @@ En pocas palabras, pruébalo si deseas obtener la menor experiencia de Pentestin
 ## **9. DEFT Linux**
 
 ![Captura de pantalla del Sistema Operativo Deft Linux, Ciberninjas](/assets/images/paginas/so-hack/5-deft-pantalla.webp "Captura de pantalla del Sistema Operativo Deft Linux, Ciberninjas")
-
-**Fuente**: [Welive Security](https://www.welivesecurity.com/la-es/2016/02/23/distribuciones-gratuitas-analisis-forense/){:target="_blank"}
+> **Fuente**: [Welive Security](https://www.welivesecurity.com/la-es/2016/02/23/distribuciones-gratuitas-analisis-forense/){:target="_blank"}
 
 DEFT son las siglas de Digital Evidence and Forensic Toolkit. Entonces, déjame aclarar aquí que **el Sistema DEFT puede ayudarte a hackear o realizar pentesting"** pero es mejor usarlo como un **"rastreador" o "analizador"**.
 
@@ -304,8 +302,7 @@ Junto con estas herramientas que lo convierten en uno de los mejores sistemas op
 ## **10. Pentoo**
 
 ![Captura de pantalla del Sistema Operativo de Pentoo Live, Ciberninjas](/assets/images/paginas/so-hack/7-pentoo-live.webp "Captura de pantalla del Sistema Operativo de Pentoo Live, Ciberninjas")
-
-**Fuente**: [Wikipedia](https://es.wikipedia.org/wiki/Pentoo#/media/Archivo:Pentoo-screen.png){:target="_blank"}
+> **Fuente**: [Wikipedia](https://es.wikipedia.org/wiki/Pentoo#/media/Archivo:Pentoo-screen.png){:target="_blank"}
 
 Basado en Gentoo Linux, seguramente es uno de los SO preferidos de la mayoría de los piratas informáticos, o entre uno de **los mejores sistemas operativos para entre los entusiastas de la seguridad hacker**.
 
