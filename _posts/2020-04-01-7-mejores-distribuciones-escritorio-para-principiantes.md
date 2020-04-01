@@ -10,6 +10,7 @@ tags:
 - Pop
 - Deepin
 - Manjaro
+- Unix
 - Distribuciones
 categories:
 - Sistemas Operativos
@@ -17,9 +18,9 @@ header:
   teaser: /assets/images/blog/linux-mejor-sistema-operativo-webp
 title: '🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux (unix) para Principiantes'
 description: >-
-  '✅ Las distribuciones perfectos de código abierto basados en Linux, enfocados en principiantes (dummies) de Unix'
+  ✅ Las distribuciones perfectos de código abierto basados en Linux, enfocados en principiantes (dummies) de Unix
 excerpt: >-
-  '✅ Las distribuciones perfectos de código abierto basados en Linux, enfocados en principiantes (dummies) de Unix'
+  ✅ Las distribuciones perfectos de código abierto basados en Linux, enfocados en principiantes (dummies) de Unix
 canonical_URL: https://ciberninjas.com/7-mejores-distribuciones-escritorio-para-principiantes/
 permalink: /7-mejores-distribuciones-escritorio-para-principiantes/
 date: 2020-04-01
