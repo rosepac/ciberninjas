@@ -24,7 +24,7 @@ canonical_URL: https://ciberninjas.com/7-mejores-distribuciones-escritorio-para-
 permalink: /7-mejores-distribuciones-escritorio-para-principiantes/
 date: 2020-04-01
 last_modified_at: 
-published: false
+published: true
 
 ---
 
@@ -62,7 +62,7 @@ Recuerda, esto se centra en los ordenadores de escritorio; para estudiar, trabaj
 🔥 Seguro también te interesa: [mejores sistemas para hacking](/mejores-sistemas-operativos-para-hackear/){:target="_blank"} >> [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank"} >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-## **Elementary OS**
+## **1. Elementary OS**
 
 ![Escritorio principal de Elementary OS el Linux más similar a iOS de Mac y minimalista que existe en la actualidad](/assets/images/blog/elementary-5.webp "Escritorio principal de Elementary OS el Linux más similar a iOS de Mac y minimalista que existe en la actualidad")
 > **Fuente**: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/a/a0/Elementary_OS_Loki_0.4.png){:target="_blank"}
@@ -78,7 +78,7 @@ Junto con la simplicidad de la tienda de aplicaciones, es encomiable lo que el e
 [▶ Probar Elementary OS](https://kutt.it/linux-elementary-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 <!-- contenido -->
 
-## **Mint**
+## **2. Mint**
 
 ![Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad](/assets/images/blog/mint-cinamon.webp "Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad")
 > **Fuente**: [Linux Mint Blog](https://www.linuxmint.com/){:target="_blank"}
@@ -98,7 +98,7 @@ Esto son el nombre de tres interfaces de escritorio diferentes entre las que vas
 [▶ Probar Mint](https://www.linuxmint.com/download.php){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 <!-- contenido -->
 
-## **Ubuntu**
+## **3. Ubuntu**
 
 ![Escritorio principal de Ubuntu OS que es el Linux más recomendado y difundido entre los linuxeros, como sistema operativo para los principiantes](/assets/images/blog/ubuntu-19.webp "Escritorio principal de Ubuntu OS que es el Linux más recomendado y difundido entre los linuxeros, como sistema operativo para los principiantes")
 > **Fuente**: [Rucore](https://rucore.net/luchshij-linux-distributiv-v-2020-godu/){:target="_blank"}
@@ -115,7 +115,7 @@ Con Ubuntu Linux necesitas muy pocos ajustes para que el sistema operativo haga 
 <!-- contenido -->
 <!-- https://www.techrepublic.com/article/best-linux-desktop-distributions/ -->
 
-## **Manjaro**
+## **4. Manjaro**
 
 ![Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo](/assets/images/blog/manjaro.webp "Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo")
 > **Fuente**: [Forum de Manjaro](https://forum.manjaro.org/t/manjaro-kde-19-0-pre4-stable-branch/121868){:target="_blank"}
@@ -130,7 +130,7 @@ Si estás buscando introducirte en el uso de Arch Linux, no busque más. Manjaro
 
 [▶ Probar Manjaro](https://kutt.it/linux-manjaro-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 
-## **Zorin**
+## **5. Zorin**
 
 ![Escritorio principal de Zorin OS](/assets/images/blog/zorin-os.webp "Escritorio principal de Zorin OS")
 
@@ -142,7 +142,7 @@ Los gestores de paquetes son algo nuevo para los recién llegados de Linux. Es p
 
 [▶ Probar Zorin](https://zorinos.com/download/#core){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 
-## **Deepin**
+## **6. Deepin**
 
 ![](/assets/images/blog/deepin.webp "")
 > **Fuente**: Youtube
@@ -152,7 +152,7 @@ Deepin utiliza Deepin Desktop como la interfaz de usuario predeterminada, que a 
 [▶ Probar Deepin](https://kutt.it/linux-deepin-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 <!-- contenido -->
 
-## **POP_OS!**
+## **7. POP_OS!**
 
 ![](/assets/images/blog/pop-os.webp "")
 > **Fuente**: [Xtreme Rigs](https://www.xtremerigs.net/){:target="_blank"}
