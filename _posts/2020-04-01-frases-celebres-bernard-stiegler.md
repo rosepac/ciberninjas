@@ -26,6 +26,12 @@ published: true
 
 Filósofo francés Bernard Stiegler..
 
+<h2><p align="center"><cite>"La técnica es siempre curativa y tóxica: es siempre algo que permite mejorar la situación, pero que también puede agravarla enormemente."</cite></p></h2>
+
+<h2><p align="center"><cite>"Lo que digo es que hoy hace falta desarrollar muy fuertemente nuevas formas de remuneración, de rentas contributivas, para que las personas puedan adquirir saberes de la desautomatización."</cite></p></h2>
+
+<h2><p align="center"><cite>"No es la técnica la que es tóxica en sí misma, es nuestra incapacidad para socializarla adecuadamente."</cite></p></h2>
+
 <h2><p align="center"><cite>"La proletarización del ocio."</cite></p></h2>
 
 <h2><p align="center"><cite>"Los seres humanos desaparecen; sus historias permanecen."</cite></p></h2>
@@ -41,8 +47,6 @@ Filósofo francés Bernard Stiegler..
 <h2><p align="center"><cite>"Necesitamos "individualizarnos" porque solo somos una promesa al nacer. Debemos cumplir nuestras promesas al existir antes que los demás.<br/>El reconocimiento de los demás nos da la sensación de existir.."</cite></p></h2>
 
 <h2><p align="center"><cite>"La primera preocupación de la filosofía es también la más legítima que existe: la confusión de lo real y lo imaginario (y ante todo de la esencia y la imagen, como dice la alegoría de la cueva metafísica (Platón) si es extrañamente distante y cercano a Lascaux) es catastrófico y debe denunciarse."</cite></p></h2>
-
-<h2><p align="center"><cite>"No es la técnica la que es tóxica en sí misma, es nuestra incapacidad para socializarla adecuadamente."</cite></p></h2>
 
 <h2><p align="center"><cite>"No debemos creer que los nuevos miserables son bárbaros abominables. Son el corazón de la sociedad de consumo. Son "civilización". Pero tal que, paradójicamente, su corazón se convirtió en un gueto. En el siglo XX, se estableció una nueva estética, funcionalizando la dimensión afectiva y estética del individuo para convertirlo en un consumidor."</cite></p></h2>
 
