@@ -120,7 +120,9 @@ En primer lugar, **Ubuntu se basa en Debian, que es uno de los sistemas operativ
 
 En segundo lugar, los diseñadores y desarrolladores han hecho todo lo posible para ajustar y adaptar la interfaz de escritorio. Hasta llegar a lograr que **Ubuntu con la interfaz de GNOME sea un Sistema Operativo eficiente y muy fácil usar**, por lo que el usuario tiene **muy poca necesidad de agregar otras extensiones**; a excepción de necesidades más específicadas, fuera del trabajo de un uso diario. Si KDE es tu entorno de escritorio elegido, **siempre podrás optar por la opción de Kubuntu**.
 
-Con Ubuntu Linux necesitas muy pocos ajustes para que el sistema operativo haga lo que necesites; desde el hardware, hasta el software, pasando por los codecs; todo, simplemente funciona. Con Ubuntu, tú ' obtendrá un kernel relativamente nuevo cuando instale el sistema operativo. Y con el administrador de paquetes apt listo para instalar cualquier tipo de software que pueda desear, no puede equivocarse. Ubuntu ha demostrado una y otra vez que puede usar Linux sin tocar la ventana del terminal, eso solo coloca a Ubuntu en la parte superior de casi todas las "mejores distribuciones de escritorio en general".
+Con **Ubuntu Linux necesitas muy pocos ajustes para que el sistema operativo haga lo que necesites**; desde el hardware, hasta el software, pasando por los codecs; todo, simplemente funciona. Con el **administrador de paquetes APT de Ubuntu podrás instalar cualquier software que desees**.
+
+Ubuntu, es sin duda, la primera gran distribución de Unix en haber demostrado que puede ser utilizada Linux sin la necesidad del terminal, solamente por eso; se merece estar presente entre los puestos más altos de esta lista.
 
 [▶ Probar Ubuntu](https://kutt.it/linux-ubuntu-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 <!-- contenido -->
@@ -160,7 +162,7 @@ Los gestores de paquetes son algo nuevo para los recién llegados de Linux. Es p
 
 **Deepin utiliza Deepin Desktop como la interfaz de usuario predeterminada**, que a menudo se considera el escritorio más hermoso del mercado. De hecho, ningún escritorio se acerca a la belleza que se encuentra en este "sabor" de Linux, ni GNOME, KDE, Mate, Cinnamon ... ni cualquier otro escritorio en cualquier distribución de Linux.
 
-Es como si los desarrolladores de Deepin ubiesen tomado una base de Ubuntu, las capas correctas del escritorio de GNOME más algunas otras extensiones y luego lo mezclaran con los bits correctos extraídos del escritorio de macOS para finalmente, crear la proporción perfecta de funcionalidad y forma.
+Es como si los desarrolladores de Deepin; **hubiesen recogido las capas correctas del escritorio de GNOME** más algunas otras extensiones y luego lo mezclaran con **los bits correctos extraídos del escritorio de macOS** para finalmente, lograr alcanzar la proporción perfecta de funcionalidad y diseño.
 
 Deepin, además incluye una gran cantidad de software (bajo repositorios similares a los de Ubuntu) para ayudar al usuario a ser capaz de trabajar y jugar sin demasiados problemas.
 
