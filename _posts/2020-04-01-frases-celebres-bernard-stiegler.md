@@ -9,9 +9,9 @@ categories:
 - Citas Célebres
 header:
   teaser: /assets/images/blog/bernard-stiegler.webp
-title: '📢 ▷ Las Mejores Frases de Bernard Stiegler'
+title: '📢 ▷ Las Mejores Frases para Reflexionar de Bernard Stiegler'
 description: >-
-  Citas célebres del escritor francés Bernard Stiegler.
+  Citas célebres del escritor francés Bernard Stiegler con las que reflexionar sobre la sociedad.
 excerpt: >-
   Citas célebres del escritor francés Bernard Stiegler.
 canonical_URL: https://ciberninjas.com/frases-celebres-bernard-stiegler/
