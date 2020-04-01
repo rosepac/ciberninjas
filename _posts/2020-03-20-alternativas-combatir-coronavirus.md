@@ -60,6 +60,21 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 
 <!-- - [](){:target="_blank"} [👉 Saber Más]() -->
 
+## **Charlas de Desarrolladores de Google España**
+
+- 🔐 Eventos de Seguridad Coronacon [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#evento-de-seguridad-coronacon)
+- 👩‍💻 Charlas de Tecnología por Miriadax [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#charlas-de-tecnología-por-miriadax)
+- [🔎 Curso Online de SEO](https://info.uvic.cat/seo/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#webinar-de-seo)
+- [💻 Charlas por streaming del GDG Spain durante el confinamiento por el Coronavirus #YoMeQuedoEnCasaGDG](https://steemit.com/hive-154806/@rosepac/-charlas-por-streaming-del-gdg-spain-durante-el-confinamiento-por-el-coronavirus-yomequedoencasagdg-1584549963){:target="_blank"}
+
+## Evento de Seguridad: Coronacon
+
+🔐 Evento de seguridad informática benéfico. Este virus lo hackeamos entre todos - 9? 10, 11 y 12 de Abril a través de Twitch. Más información próximamente..
+
+👉 [Usuario de Twitter](@C0r0n4CON){:target="_blank"}
+
+- **Página Web**: [Coronacon](https://c0r0n4con.com/)
+
 ## **Charlas de Tecnología por Miriadax**
 
 Las charlas organizadas por la "universidad digital" [Miriadax](https://www.instagram.com/p/B-R2N9po3Nh/){:target="_blank"}.
@@ -73,11 +88,6 @@ Las charlas organizadas por la "universidad digital" [Miriadax](https://www.inst
 - Jueves, 2 de Abril  - 17 H. ESPAÑOLA: [DEL AULA AL MUNDO DIGITAL EN UN SEGUNDO](https://www.instagram.com/ednamanotas/){:target="_blank"}
 
 - Viernes, 3 de Abril  - 17 H. ESPAÑOLA: [ADMINISTRADORES DE SISTEMAS Y LA AMENAZA INVISIBLE](https://www.instagram.com/alexbaldo/){:target="_blank"}
-
-## **Charlas de Desarrolladores de Google España**
-
-- [🔎 Curso Online de SEO](https://info.uvic.cat/seo/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#webinar-de-seo)
-- [💻 Charlas por streaming del GDG Spain durante el confinamiento por el Coronavirus #YoMeQuedoEnCasaGDG](https://steemit.com/hive-154806/@rosepac/-charlas-por-streaming-del-gdg-spain-durante-el-confinamiento-por-el-coronavirus-yomequedoencasagdg-1584549963){:target="_blank"}
 
 ## **Webinar de SEO**
 
