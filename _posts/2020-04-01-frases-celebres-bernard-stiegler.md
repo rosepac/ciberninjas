@@ -48,11 +48,11 @@ Filósofo francés Bernard Stiegler..
 
 <h2><p align="center"><cite>"Debido a las economías de escala, esto reduce el costo de los robots: el "ticket de entrada" para la robotización será cada vez más bajo. Y desde cierto umbral, la automatización se convertirá en un aumento."</cite></p></h2>
 
-<h2><p align="center"><cite>(Jimmy Carter ya dijo en 1979) "Consumir ya no satisface nuestra búsqueda de significado, hemos aprendido que la acumulación de bienes materiales no puede llenar nuestras vidas sin sentido."</cite></p></h2>
-
-<h2><p align="center"><cite>"Las consecuencias cruzan y estructuran lo que fueron estos cinco años en prisión para mí, pero también los veinte que los siguieron, y que me llevaron hoy ante ustedes como ante la ley."</cite></p></h2>
+<h2><p align="center"><cite>Las consecuencias cruzan y estructuran lo que fueron estos cinco años en prisión para mí, pero también los veinte que los siguieron, y que me llevaron hoy ante ustedes como ante la ley."</cite></p></h2>
 
 <h2><p align="center"><cite>(Jean Paulhan - El guerrero aplicado) "Durante mucho tiempo había querido abandonar la sociedad, es decir, personas civilizadas, el mundo, e ir a vivir a los campos o cerca de los salvajes. O bien exigí, para quedarme, una pronta revolución."</cite></p></h2>
+
+<h2><p align="center"><cite>"(Jimmy Carter ya dijo en 1979) "Consumir ya no satisface nuestra búsqueda de significado, hemos aprendido que la acumulación de bienes materiales no puede llenar nuestras vidas sin sentido."</cite></p></h2>
 
 <h2><p align="center"><cite>(Florian, el adolescente) "Realmente no te das cuenta de lo que nos está pasando. Cuando hablo con jóvenes de mi generación, aquellos que son dos o tres años mayores o menores que yo, todos dicen lo mismo: ya no tenemos el sueño de formar una familia, de tener hijos, una profesión, ideales, como tenías cuando eras adolescente. Todo eso ha terminado, porque estamos convencidos de que somos la última o una de las últimas generaciones antes del final."</cite></p></h2>
 
@@ -66,4 +66,4 @@ Filósofo francés Bernard Stiegler..
 - [Bernard Stiegler, un filósofo interactivo](https://rebelion.org/bernard-stiegler-un-filosofo-interactivo/){:target="_blank"}
 - [Transformación antropológica y paradigma tecnológico](https://www.fuhem.es/papeles_articulo/transformacion-antropologica-y-paradigma-tecnologico/){:target="_blank"} (Página 19) * Santiago Alba Rico
 - [Revisión crítica del libro: En la interrupción](https://www.cairn.info/revue-francaise-d-ethique-appliquee-2017-2-page-126.htm#){:target="_blank"}
-- [La pesadilla de Einstein](http://ctheory.net/ctheory_wp/la-pesadilla-de-einstein-sobre-la-tecno-distopia-en-bernard-stiegler/){:target="_blank"} Sobre la tecno-distopía en Bernard Stiegler
+- [La pesadilla de Einstein](http://ctheory.net/ctheory_wp/la-pesadilla-de-einstein-sobre-la-tecno-distopia-en-bernard-stiegler/){:target="_blank"} (Sobre la tecno-distopía en Bernard Stiegler)
