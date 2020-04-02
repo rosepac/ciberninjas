@@ -16,7 +16,7 @@ categories:
 - Sistemas Operativos
 header:
   teaser: /assets/images/blog/linux-mejor-sistema-operativo-webp
-title: '🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux (unix) para Principiantes'
+title: '🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux (unix) para Principiantes del Código Abierto'
 description: >-
   ✅ Las distribuciones perfectos de código abierto basados en Linux, enfocados en principiantes (dummies) de Unix
 excerpt: >-
@@ -86,7 +86,8 @@ La segunda razón, **es la tienda de aplicaciones, práctica y sencilla que impl
 
 Junto con la simplicidad de la tienda de aplicaciones, es encomiable lo que el equipo de Elementary está haciendo. El sistema operativo elemental se basa en Ubuntu (que se basa en Debian) por lo que esta distribución de Linux también goza de una estabilidad notable, comparte repositorios de software similares, es increíblemente fácil de instalar, tiene el mismo nivel de reconocimiento de hardware y funciona muy bien en ordenadores de sobremesa y portátiles.
 
-[▶ Probar Elementary OS](https://kutt.it/linux-elementary-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Elementary OS](https://kutt.it/linux-elementary-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 <!-- contenido -->
 
 ## **2. Mint**
@@ -106,7 +107,8 @@ Además, **Mint es una distribución muy elegante y totalmente preparada para ut
 
 Esto son el nombre de tres interfaces de escritorio diferentes entre las que vas a encontrar cambios y pequeñas modificaciones entre sus iconos, los colores, el tamaño de sus elementos, etc.
 
-[▶ Probar Mint](https://www.linuxmint.com/download.php){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Mint](https://www.linuxmint.com/download.php){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 <!-- contenido -->
 
 ## **3. Ubuntu**
@@ -124,7 +126,8 @@ Con **Ubuntu Linux necesitas muy pocos ajustes para que el sistema operativo hag
 
 Ubuntu, es sin duda, la primera gran distribución de Unix en haber demostrado que puede ser utilizada Linux sin la necesidad del terminal, solamente por eso; se merece estar presente entre los puestos más altos de esta lista.
 
-[▶ Probar Ubuntu](https://kutt.it/linux-ubuntu-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Ubuntu](https://kutt.it/linux-ubuntu-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 <!-- contenido -->
 <!-- https://www.techrepublic.com/article/best-linux-desktop-distributions/ -->
 
@@ -141,7 +144,8 @@ Manjaro ofrece varios escritorios diferentes, al igual que Mint. En este caso, s
 
 Si estás buscando introducirte en el uso de Arch Linux, no busque más. Manjaro, es la distribución que necesitas.
 
-[▶ Probar Manjaro](https://kutt.it/linux-manjaro-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Manjaro](https://kutt.it/linux-manjaro-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 
 ## **5. Zorin**
 
@@ -153,7 +157,8 @@ Si estás buscando introducirte en el uso de Arch Linux, no busque más. Manjaro
 
 Los gestores de paquetes son algo nuevo para los recién llegados de Linux. Es por eso que **Zorin OS viene con una lista enorme**, **realmente enorme de software preinstalado**. Cualquier cosa que necesite, es muy probable que ya esté instalada en el sistema operativo.
 
-[▶ Probar Zorin](https://zorinos.com/download/#core){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Zorin](https://zorinos.com/download/#core){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 
 ## **6. Deepin**
 
@@ -172,7 +177,8 @@ La gran noticia, es que, **la suite de ofimática WPS incluida en Deepin OS** es
 
 Por último, **Deepin extiende su elegancia al panel de control en forma de una barra lateral** que hace que sea increíblemente simple configurar cada aspecto del escritorio. Si buscas una interfaz de escritorio atractiva, seguramente **Deepin ofrece uno de los escritorios más atractivos de todos los sitemas operativos que existen** y encima, es funcional.
 
-[▶ Probar Deepin](https://kutt.it/linux-deepin-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Deepin](https://kutt.it/linux-deepin-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 [⭐ Deepin, en Español](https://xn--deepinenespaol-1nb.org/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 <!-- contenido -->
 
@@ -191,7 +197,8 @@ También, POP!_OS ofrece una muy interesante opción a la hora de la instalació
 
 Finalmente, System76 ha agregado una forma simple de actualizar el firmware, algo que muy pocas distribuciones poseen.
 
-[▶ Probar Pop OS!](https://kutt.it/linux-pop-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Probar Pop OS!](https://kutt.it/linux-pop-os){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
 <!-- contenido -->
 
 ## Relacionados
