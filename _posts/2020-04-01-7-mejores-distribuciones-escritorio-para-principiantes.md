@@ -15,7 +15,7 @@ tags:
 categories:
 - Sistemas Operativos
 header:
-  teaser: /assets/images/blog/linux-mejor-sistema-operativo-webp
+  teaser: /assets/images/blog/linux-mejor-sistema-operativo.webp
 title: '🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux (unix) para Principiantes del Código Abierto'
 description: >-
   ✅ Las distribuciones perfectos de código abierto basados en Linux, enfocados en principiantes (dummies) de Unix
