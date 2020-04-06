@@ -1,11 +1,12 @@
 ---
 author_profile: true
-title: "📖 Los Libros Recomendados por Barack Obama este 2019"
+title: "🥇 ▷ Los Libros Recomendados por Barack Obama este 2019 📖"
 description: 'Los libros recomendados por Obama en 2019. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
 excerpt: 'Los libros recomendados por Obama en 2019. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
 date: 2019-08-21 23:45:59
 last_modified_at: 2019-08-23T01:29:02-05:00
 published: true
+classed: wide
 categories:
 - Recomendaciones
 tags:
@@ -20,10 +21,10 @@ header:
   image_alt: "Barack Obama, lee sus libros recomendados durante el año 2019 en la Casa Blanca | Visto en Ciberninjas"
   image_description: "Barack Obama, lee sus libros recomendados durante el año 2019 en la Casa Blanca | Visto en Ciberninjas"
   caption: "**Créditos**: [Obama White House](https://www.flickr.com/photos/obamawhitehouse/8109908571), es una [Obra del Gobierno de Estados Unidos](https://www.usa.gov/government-works) bajo sus propidas condiciones de [licencia](https://www.usa.gov/government-works)"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 
 ---
 
@@ -38,7 +39,7 @@ Morrison, quien murió el 5 de agosto a la edad de 88 años, escribió varias no
 
 Además del citado autor, el ex presidente cita múltiples libros y cuentos más; recomendándoselos así, a sus decenas de millones de seguidores en sus redes sociales y acto seguido te muestro la lista completa de las recomendaciones de Obama para lo que queda de verano y del año 2019.
 
-## **[Obras Completas de Toni Morrison](https://amzn.to/2MziuIA)**{:target="_blank"}
+## **[Obras Completas de Toni Morrison](https://amzn.to/2MziuIA){:target="_blank"}**
 Por desgracia en español, no podemos encontrar estas Obras Completas como tal; en su defecto, tenemos la posibilidad de lograr varios de sus [títulos más importantes](/libreria#toni-morrison).
 
 Por ejemplo: [Beloved/ Amado](https://amzn.to/2L38unG), [La Canción de Salomón](https://amzn.to/2Mw2WFt), [Ojos Azules](https://amzn.to/2L0ITeT), [Sula](https://amzn.to/2NpiH0v) o [Paraíso](https://amzn.to/2MxjInE)
@@ -55,7 +56,7 @@ Por ejemplo: [Beloved/ Amado](https://amzn.to/2L38unG), [La Canción de Salomón
 <p>Sus novelas son conocidas por sus temas épicos, diálogos vívidos y personajes afroamericanos ricamente detallados. Entre las más conocidas se encuentran sus novelas The Bluest Eye , Song of Solomon y Beloved , que ganó el Premio Pulitzer de Ficción en 1988. En 2001 fue nombrada una de "Las 30 mujeres más poderosas de América" en "Ladies Home Journal".</p>
 </details> 
 
-## [The Nickel Boys de Colson Whitehead](https://amzn.to/2Nr7Q6i){:target="_blank"}
+## **[The Nickel Boys de Colson Whitehead](https://amzn.to/2Nr7Q6i){:target="_blank"}**
 En inglés, no se ha realizado traducción aún.
 
 Colson Whitehead dramatiza brillantemente otro aspecto de la historia estadounidense a través de la historia de dos niños condenados a una escuela de reforma infernal en la Florida de la era Jim Crow.
