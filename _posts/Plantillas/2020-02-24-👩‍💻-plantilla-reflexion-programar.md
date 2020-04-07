@@ -29,9 +29,9 @@ header:
 **Fuente**\: [](http://allendowney.blogspot.com.es/2018/02/learning-to-program-is-getting-harder.html "Aprender a Programar es Cada Vez Más Difícil por Allen Downey") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
 {: .notice--info}
 
-## Relacionados
+### Relacionados
 
-* [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020 "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
+* [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/programar/)
 * [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
 * [Comparativa
 * [▷ ¿Por qué Python es Mejor que PHP?](desarrolladores-lenguaje-rust/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
