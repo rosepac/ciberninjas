@@ -35,13 +35,14 @@ Pero antes de entrar en Swift y lo que realmente significa el término programac
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/swift-apuesta-google/#qué-pasa-con-python" title=""><strong>¿Qué pasa con Python?</strong></a></li>
+    <li><a href="/swift-apuesta-google/#qué-pasa-con-python" title=""><strong>¿Qué pasa con Python?</strong></a>
+    <ol>
     <li><a href="/swift-apuesta-google/#binarios-externos" title=""><strong>Binarios Externos</strong></a></li>
     <li><a href="/swift-apuesta-google/#abstracciones-de-la-biblioteca" title=""><strong>Abstracciones de la Biblioteca</strong></a></li>
     <li><a href="/swift-apuesta-google/#retraso-de-la-industria" title=""><strong>Retraso de la Industria</strong></a></li>
     <li><a href="/swift-apuesta-google/#velocidad" title=""><strong>Velocidad</strong></a></li>
-    <li><a href="/swift-apuesta-google/#velocidad" title=""><strong>Velocidad</strong></a></li>
-    <li><a href="/swift-apuesta-google/#velocidad" title=""><strong>Velocidad</strong></a></li>
+    </ol>
+    </li>
     <li><a href="/swift-apuesta-google/#google-acepta-el-desafía" title=""><strong>Google Acepta el Desafío</strong></a></li>
     <li><a href="/swift-apuesta-google/#qué-tiene-de-bueno-swift-entonces" title=""><strong>¿Qué tiene de bueno Swift?</strong></a></li>
     <li><a href="/swift-apuesta-google/#el-plan-maestro-de-google" title=""><strong>El Plan Maestro de Google</strong></a></li>
