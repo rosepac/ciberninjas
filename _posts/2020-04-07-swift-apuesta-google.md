@@ -35,7 +35,23 @@ Pero antes de entrar en Swift y lo que realmente significa el término programac
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/swift-apuesta-google/#qué-pasa-con-python" title=""><strong>**¿Qué pasa con Python?**</strong></a></li>
+    <li><a href="/swift-apuesta-google/#qué-pasa-con-python" title=""><strong>¿Qué pasa con Python?</strong></a></li>
+    <li><a href="/swift-apuesta-google/#binarios-externos" title=""><strong>Binarios Externos</strong></a></li>
+    <li><a href="/swift-apuesta-google/#abstracciones-de-la-biblioteca" title=""><strong>Abstracciones de la Biblioteca</strong></a></li>
+    <li><a href="/swift-apuesta-google/#retraso-de-la-industria" title=""><strong>Retraso de la Industria</strong></a></li>
+    <li><a href="/swift-apuesta-google/#velocidad" title=""><strong>Velocidad</strong></a></li>
+    <li><a href="/swift-apuesta-google/#velocidad" title=""><strong>Velocidad</strong></a></li>
+    <li><a href="/swift-apuesta-google/#velocidad" title=""><strong>Velocidad</strong></a></li>
+    <li><a href="/swift-apuesta-google/#google-acepta-el-desafía" title=""><strong>Google Acepta el Desafío</strong></a></li>
+    <li><a href="/swift-apuesta-google/#qué-tiene-de-bueno-swift-entonces" title=""><strong>¿Qué tiene de bueno Swift?</strong></a></li>
+    <li><a href="/swift-apuesta-google/#el-plan-maestro-de-google" title=""><strong>El Plan Maestro de Google</strong></a></li>
+    <li><a href="/swift-apuesta-google/#qué-es-la-programación-diferenciable" title=""><strong>¿Qué es la programación diferenciable?</strong></a></li>
+    <li><a href="/swift-apuesta-google/#un-lenguaje-diferenciable" title=""><strong>Un lenguaje diferenciable</strong></a></li>
+    <li><a href="/swift-apuesta-google/#qué-es-la-programación-diferenciable" title=""><strong>¿Qué es la programación diferenciable?</strong></a></li>
+    <li><a href="/swift-apuesta-google/#diferenciando-código-externo" title=""><strong>Diferenciando código externo</strong></a></li>
+    <li><a href="/swift-apuesta-google/#interoperabilidad-de-python" title=""><strong>Interoperabilidad de Python</strong></a></li>
+    <li><a href="/swift-apuesta-google/#estado-actual-del-proyecto" title=""><strong>Estado Actual del Proyecto</strong></a></li>
+    <li><a href="/swift-apuesta-google/#conclusión" title=""><strong>Conclusión</strong></a></li>
   </ol>
 </nav>
 </details>
@@ -288,7 +304,7 @@ let filteredImage = testImage.filterWithPipeline{input, output in
 
 Este código es más corto y más fácil de entender que un montón de métodos encadenados o una serie de funciones `source.addTarget(...)`.
 
-### **Punto 3: A favor de Swift**
+### **Punto 4: A favor de Swift**
 
 Anteriormente, mencioné que los tipos básicos de Swift eran estructuras definidas en la biblioteca estándar y no codificadas en el compilador, ya que generalmente están en otros idiomas. Una razón por la que esto es útil es que nos permite usar una función de Swift llamada `extension` que nos permite agregar nuevas funcionalidades a cualquier tipo, incluidos los tipos básicos. Así es como esto puede ser desarrollado:
 
