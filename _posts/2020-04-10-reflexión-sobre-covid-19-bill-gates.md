@@ -5,7 +5,7 @@ excerpt: "Las reflexiones que Bill Gates respecto a las decisiones que afectará
 date: 2020-04-10 22:30:00 +0100
 canonical_URL: https://ciber4i1ja22c30/reflexión-sobre-covid-19-bill-gates/
 permalink: /reflexión-sobre-covid-19-bill-gates/
-published: false
+published: true
 classes: wide
 categories:
   - Reflexión Sociedad
