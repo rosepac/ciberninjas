@@ -132,6 +132,16 @@ Ubuntu, es sin duda, la primera gran distribución de Unix en haber demostrado q
 <!-- contenido -->
 <!-- https://www.techrepublic.com/article/best-linux-desktop-distributions/ -->
 
+### **3.1. Lubuntu**
+
+Sin lugar a dudas Lubuntu, es una de las mejores distribuciones que existen si lo que buscas es un sistema mínimo y que no coma recursos. Al igual que Xubuntu. Al utilizar el escritorio LXDE.
+https://lubuntu.net/
+
+### **3.2. Xubuntu**
+
+Sin lugar a dudas Xubuntu, es una de las mejores distribuciones que existen si lo que buscas es un sistema mínimo y que no coma recursos. Al igual que Lubuntu. Por su ligereza al utilizar el escritorio XFCE-
+https://xubuntu.org/
+
 ## **4. Manjaro**
 
 ![Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo](/assets/images/blog/manjaro.webp "Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo")

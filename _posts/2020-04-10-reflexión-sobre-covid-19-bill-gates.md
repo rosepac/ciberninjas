@@ -12,6 +12,7 @@ categories:
 tags:
   - Sociedad
   - Coronavirus
+  - Bill Gates
 header:
   teaser: /assets/images/blog/virus-bill-gates.webp
 #  overlay_image: /assets/images/
@@ -69,10 +70,17 @@ En 2015, insté a los líderes mundiales en una [charla TED](https://www.ted.com
 ### Relacionados
 
 [🥇 ▷ Quédate en Casa, Frena La Curva, Yo Me Quedo En Casa: Las Mejores Alternativas GRATIS para Combatir la Cuarentena por Coronavirus](/alternativas-culturales-combatir-coronavirus/)
+
 [🥇 ▷ Las 18 mejores prácticas para teletrabajar en 2020](/mejores-practicas-trabajar-desde-casa/)
+
 [🥇 ▷ TIPS: Las 11 Mejores CONSEJOS para trabajar en casa 2020 🏡](/mejores-consejos-trabajar-desde-casa/)
+
 [🥇 ▷ Los Libros Recomendados por Barack Obama este 2019 📖](/los-libros-de-obama-2019/)
+
 [📢 ▷ Las Mejores Frases de Isaac Newton](/frases-celebres-isaac-newton/)
+
 [📢 ▷ Las Mejores Frases para Reflexionar de Bernard Stiegler](/frases-celebres-bernard-stiegler/)
+
 [📢 ▷ Las Mejores Frases de Frederic Mistall](/frases-celebres-frederic-mistral/)
+
 [📢 ▷ Las Mejores Frases Motivadoras del Reconocido Arquitecto Frank Owen Gehry](/frases-celebres-frank-owen-gehry/)
