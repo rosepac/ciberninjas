@@ -1,6 +1,6 @@
 ---
-title: "Lo que nuestros líderes pueden hacer ahora, por Bill Gates"
-description: "Las reflexiones que Bill Gates respecto a las decisiones que afectarán el curso de la enfermedad COVID-19 o coronavirus"
+title: "💡 Lo que nuestros líderes pueden hacer ahora, por Bill Gates"
+description: "🔥 Las reflexiones que Bill Gates respecto a las decisiones que afectarán el curso de la enfermedad COVID-19 o coronavirus"
 excerpt: "Las reflexiones que Bill Gates respecto a las decisiones que afectarán el curso de la enfermedad COVID-19 o coronavirus"
 date: 2020-04-10 22:30:00 +0100
 canonical_URL: https://ciber4i1ja22c30/reflexión-sobre-covid-19-bill-gates/
