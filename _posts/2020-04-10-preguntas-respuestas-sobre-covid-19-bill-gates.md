@@ -1,5 +1,5 @@
 ---
-title: "👨‍🔬 31 preguntas y respuestas sobre el COVID-19, por Bill Gates"
+title: "👨‍🔬 31 Preguntas y Respuestas sobre el COVID-19, por Bill Gates"
 description: "🔥 Preguntas y respuestas sobre el covid 19 / coronavirus que Bill Gates a tenido el placer de responder a través de Reddit"
 excerpt: "Preguntas y respuestas sobre el covid 19 / coronavirus que Bill Gates a tenido el placer de responder a través de Reddit"
 date: 2020-04-11 13:30:00 +0100
