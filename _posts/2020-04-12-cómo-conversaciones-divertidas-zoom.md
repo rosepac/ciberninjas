@@ -1,5 +1,5 @@
 ---
-title: "Cómo crear videollamadas divertidas a través de Zoom usando la aplicación de cámara de Snapchat"
+title: "📹 Cómo crear videollamadas divertidas a través de Zoom usando la aplicación de cámara de Snapchat"
 description: "¿Buscas una forma de dar vida a tus reuniones de Zoom? Con Snap Camera vas a poder transformarte, usar divertidas orejas de perro o generar otros nuevas elementos que van a crear entretenidas videoconferencias."
 excerpt: "¿Buscas una forma de dar vida a tus reuniones de Zoom? Con Snap Camera vas a poder transformarte, usar divertidas orejas de perro o generar otros nuevas elementos que van a crear entretenidas videoconferencias."
 date: 2020-04-12 08:37:00 +0100
