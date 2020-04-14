@@ -50,7 +50,7 @@ Los equipos de trabajo que se espera que lleguen al desierto de Idaho dentro de 
 - En la construcción tradicional de las plantas nucleares, los equipos construyen reactores "in situ", un proceso minucioso que puede prolongarse durante años. Pero, estos nuevos reactores recién llegados desde una fábrica de Virginia, estarán casi completamente ensamblados.
 - Los trabajadores simplemente conectarán los componentes principales y posteriormente, el reactor terminado se colocará verticalmente dentro de un recipiente de contención de acero de aproximadamente 15 pies de ancho y 75 pies de alto; lo que visualmente, se asemejará a un silo de una granja pero de alta tecnología.
 
-Este tipo de reactor nuclear diminuto, ya construidos en fábrica, se conocen como "pequeño reactor modular" o SMR.
+Este tipo de reactor nuclear diminuto, ya construidos en fábrica, se conoce como "pequeño reactor modular" o SMR.
 
 El diseño planeado para el proyecto de Idaho es una creación de José Reyes, ex profesor de ingeniería nuclear de la Universidad Estatal de Oregón. Reyes dejó la universidad en 2007 para trabajar en su empresa: NuScale. Una empresa enfocada en hacer de las SMR un negocio viable. Esta es una de la docena de nuevas empresas estadounidenses que intentan construir diferentes tipos de pequeños reactores nucleares de próxima generación, y la más avanzada; en cuanto a los bizarros asuntos de los términos de las licencias frente a la Comisión de Regulación Nuclear.
 
@@ -60,7 +60,7 @@ Un solo SMR de este tipo, generará solamente unos modestos 60 megavatios de ele
 
 Más, los SMR de NuScale no están diseñados para funcionar solos. Cuando se finalice el proyecto por completo, deberían de existir hasta 12 módulos seguidos dentro de una gran zanja inundada de agua como última gran medida de seguridad. Por tanto, la planta estaría preparada para proporcionar hasta 720 megavatios de electricidad y debería de ser capaz de suministrar energía a unos 480.000 hogares.
 
-Cuando la planta completa de Idaho se conecte a la red, supuestamente en algún momento del 2026, se espera que pueda marcar el comienzo de una nueva era de la energía nuclear. Los defensores de este tipo de proyectos, visualizan flotas de pequeñas y asequibles plantas de energía nuclear, capaces de construirse rápidamente y a disposición casi instántanea de quién requiera la energía.
+Cuando la planta completa de Idaho se conecte a la red, supuestamente en algún momento del 2026, se espera que pueda marcar el comienzo de una nueva era de la energía nuclear. Los defensores de este tipo de proyectos, visualizan flotas de pequeñas y asequibles plantas de energía nuclear, capaces de construirse rápidamente y a disposición casi instantánea de quién requiera la energía.
 
 Si el concepto "energía nuclear pequeña" se demuestra, podría llenar algunos nichos de energía cruciales y en un momento para la humanidad crucial. Los candidatos demócratas prometen varias versiones de un "Green New Deal" que restringiría drásticamente los combustibles fósiles y, en teoría, reemplazaría esa energía principalmente con energía eólica y solar.
 
@@ -146,7 +146,7 @@ El mercado inicial de la compañía será buscar ubicaciones fuera de la red act
 
 > "Es una idea muy intrigante", “No estás apuntando al mercado de productos básicos; estás apuntando a un área en la que su competencia es la gran costosa generación del diesel", dice Buongiorno.
 
-Los reactores de próxima generación tienen otro mercado potencial: El calor. Muchos procesos industriales, como la fabricación de cemento, plásticos, fertilizantes, requieren de altas temperaturas. Hoy endía, la mayor parte de ese calor proviene de la quema de combustibles fósiles.
+Los reactores de próxima generación tienen otro mercado potencial: El calor. Muchos procesos industriales, como la fabricación de cemento, plásticos, fertilizantes, requieren de altas temperaturas. Hoy en día, la mayor parte de ese calor proviene de la quema de combustibles fósiles.
 
 **¿Qué pasaría si las fábricas de cemento y las plantas químicas funcionaran con pequeños reactores de alta temperatura?** Al proporcionar electricidad y calor, estas pequeñas centrales eléctricas podrían simultáneamente reducir los costos y reducir las emisiones. Más adelante, estos reactores podrían alimentar las plantas de desalinización para obtener agua limpia o producir hidrógeno para usar como combustibles libres de carbono.
 
@@ -160,7 +160,7 @@ Pero [un estudio reciente](https://news.mit.edu/2018/adding-power-choices-reduce
 
 En los últimos años, ha existido un cambio de pensamiento importante, en el que muchos ambientalistas y activistas climáticos han apoyado la energía nuclear. (Ver "[La opción nuclear](https://www.city-journal.org/atomic-power){:target="_blank"}", City Journal, 2019). Algunos de estos defensores están luchando contra una acción de retaguardia para salvar a las plantas nucleares existentes del cierre prematuro. Pero pocos expertos esperan un aumento repentino en la construcción de grandes instalaciones nuevas, al menos no en Europa, ni en América del Norte.
 
-> "¿Podrían las SMR ayudar a llenar ese vacío? Es adecuado mantener un cierto escepticismo. Pero creo que estos reactores podrían encajar bastante bien en una combinación de posibles fuentes energéticas del futura. La gran pregunta es, cómo pueden construirse económicamente”, dijo Jenkins.
+> "¿Podrían las SMR ayudar a llenar ese vacío? Es adecuado mantener un cierto escepticismo. Pero creo que estos reactores podrían encajar bastante bien en una combinación de posibles fuentes energéticas del futuro. La gran pregunta es, cómo pueden construirse económicamente”, dijo Jenkins.
 
 La variable más importante a la que se enfrentan los empresarios nucleares es el laborioso proceso de la aprobación regulatoria. Cochran y su cofundador de Oklo refinaron su plan de negocios en la famosa incubadora de Y Combinator de Silicon Valley.
 
@@ -182,7 +182,7 @@ Stephen Boyd, director de tecnología de la firma de consultoría MCE Nexus, dij
 
 > "No están suavizando la seguridad", “Están siendo más robustos y a su vez; están pensando en la próxima generación de energía nuclear" dijo Stephen Boyd.
 
-Buongiorno cree que ayudar a las startups a pasar por el proceso de licenciamiento sin tarifas y demoras paralizantes seriá un punto clave para que esta nueva industria despegue.
+Buongiorno cree que ayudar a las startups a pasar por el proceso de licenciamiento sin tarifas y demoras paralizantes seria un punto clave para que esta nueva industria despegue.
 
 > “Soy una persona a la que le gusta el libre mercado, así que no creo que el gobierno deba tomar la iniciativa; pero puede ayudar a allanar el camino”, dijo Buongiorno.
 
@@ -248,7 +248,7 @@ Mientras tanto, la sociedad moderna necesita un suministro de electricidad confi
 
 NuScale y otras nuevas empresas nucleares tienen un largo camino por recorrer antes de demostrar su valía, pero el enfoque empresarial descentralizado del campo garantiza un elevado optimismo.
 
-> "Si logras suficientes tiros a portería", "es mucho mayor la probabilidad de que alguno de ellos logré su objetivo", , dijo Nordhaus.
+> "Si logras suficientes tiros a portería", "es mucho mayor la probabilidad de que alguno de ellos logré su objetivo", dijo Nordhaus.
 
 **Fuentes**\: City Journal. Artículo: [Next-Gean Nuclear Power](https://www.city-journal.org/next-generation-nuclear-power "Energía nuclear de próxima generación") y [NuScale Cheks Off Another](https://news.yahoo.com/m/a445ccc7-c125-393f-9e6a-85296a97f531/nuscale-checks-off-another.html "NuScale marca otra casilla en la revisión del reactor modular pequeño") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
 {: .notice--info}
