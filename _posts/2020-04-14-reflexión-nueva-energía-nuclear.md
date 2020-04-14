@@ -1,7 +1,7 @@
 ---
-title: ""
-description: "👨‍🔬 Energía nuclear de próxima generación ☢"
-excerpt: "Los nuevos y audaces diseños de reactores prometen electricidad limpia y segura"
+title: "👨‍🔬 Energía nuclear de próxima generación ☢"
+description: "Los nuevos y audaces diseños de reactores SMR prometen electricidad limpia y segura, ¿Será eso cierto?"
+excerpt: "Los nuevos y audaces diseños de reactores SMR prometen electricidad limpia y segura, ¿Será eso cierto?"
 date: 2020-04-14 13:10:00 +0100
 canonical_URL: https://ciberninjas.com/sobre-la-nueva-energía-nuclear/
 permalink: /sobre-la-nueva-energía-nuclear/
