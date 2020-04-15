@@ -1,7 +1,7 @@
 ---
 
 author_profile: true
-title: "▷ Qué es Flutter SDK"
+title: "🥇 ▷ Qué es Flutter SDK"
 description: >-
   🚀 Flutter es un framework multiplataforma, tecnología de desarrollo de aplicaciones móviles que se encuentra en crecimiento durante el año 2020.
 excerpt: >-
@@ -121,8 +121,6 @@ Bueno, ¿qué opinas de Flutter? ¿Comenzarás a aprenderlo el año que viene? E
 
 **Fuente**\: [Comunidad Microsoft](https://techcommunity.microsoft.com/t5/testingspot-blog/what-are-the-best-ui-test-automation-tools/ba-p/367781){:target="_blank"}
 {: .notice--info}
-
-## Guía Flutter
 
 ## Guía Flutter
 

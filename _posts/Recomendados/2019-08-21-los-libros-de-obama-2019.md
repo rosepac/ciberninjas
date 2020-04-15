@@ -42,7 +42,7 @@ Además del citado autor, el ex presidente cita múltiples libros y cuentos más
 ## **[Obras Completas de Toni Morrison](https://amzn.to/2MziuIA){:target="_blank"}**
 Por desgracia en español, no podemos encontrar estas Obras Completas como tal; en su defecto, tenemos la posibilidad de lograr varios de sus [títulos más importantes](/libreria#toni-morrison).
 
-Por ejemplo: [Beloved/ Amado](https://amzn.to/2L38unG), [La Canción de Salomón](https://amzn.to/2Mw2WFt), [Ojos Azules](https://amzn.to/2L0ITeT), [Sula](https://amzn.to/2NpiH0v) o [Paraíso](https://amzn.to/2MxjInE)
+Por ejemplo: [Beloved / Amado](https://amzn.to/2L38unG), [La Canción de Salomón](https://amzn.to/2Mw2WFt), [Ojos Azules](https://amzn.to/2L0ITeT), [Sula](https://amzn.to/2NpiH0v) o [Paraíso](https://amzn.to/2MxjInE)
 
 > "no puedes equivocarte leyendo o releyendo los trabajos recopilados de Toni Morrison"
 
@@ -56,8 +56,9 @@ Por ejemplo: [Beloved/ Amado](https://amzn.to/2L38unG), [La Canción de Salomón
 <p>Sus novelas son conocidas por sus temas épicos, diálogos vívidos y personajes afroamericanos ricamente detallados. Entre las más conocidas se encuentran sus novelas The Bluest Eye , Song of Solomon y Beloved , que ganó el Premio Pulitzer de Ficción en 1988. En 2001 fue nombrada una de "Las 30 mujeres más poderosas de América" en "Ladies Home Journal".</p>
 </details> 
 
-## **[The Nickel Boys de Colson Whitehead](https://amzn.to/2Nr7Q6i){:target="_blank"}**
-En inglés, no se ha realizado traducción aún.
+## **[El ferrocarril subterráneo de Colson Whitehead](https://amzn.to/34epnF3){:target="_blank"}**
+
+👉 Versión en [Inglés](https://amzn.to/2Nr7Q6i){:target="_blank"}
 
 Colson Whitehead dramatiza brillantemente otro aspecto de la historia estadounidense a través de la historia de dos niños condenados a una escuela de reforma infernal en la Florida de la era Jim Crow.
 
@@ -78,7 +79,7 @@ Colson Whitehead dramatiza brillantemente otro aspecto de la historia estadounid
 </p>
 </details>
 
-## [Exhalation, cuento de Ted Chiang](https://amzn.to/2KQKJ3n){:target="_blank"}
+## **[Exhalation, cuento de Ted Chiang](https://amzn.to/2KQKJ3n){:target="_blank"}**
 En inglés, no se ha realizado traducción aún.
 
 Esta esperada segunda colección de historias es la firma de Ted Chiang, llena de ideas reveladoras y personajes profundamente comprensivos. En "The Merchant and the Alchemist's Gate", un portal a través del tiempo obliga a un vendedor de telas en la antigua Bagdad a lidiar con errores pasados y la tentación de segundas oportunidades.
@@ -86,6 +87,8 @@ Esta esperada segunda colección de historias es la firma de Ted Chiang, llena d
 > "es una colección de historias cortas que te harán pensar, lidiar con grandes preguntas y sentirte más humano. El mejor tipo de ciencia ficción"
 
 > Barack Obama
+
+**Otras Obras**: [La historia de tu vida](https://amzn.to/2Vb9PxA){:target="_blank"} (2019), [](){:target="_blank"}
 
 <details>
 <summary>Saber Más</summary>
@@ -95,7 +98,7 @@ Esta esperada segunda colección de historias es la firma de Ted Chiang, llena d
 <p>En esta colección fantástica y elegante, Ted Chiang lucha con las preguntas más antiguas del mundo: ¿Cuál es la naturaleza del universo? ¿Qué significa ser humano? Y unos que nadie más ha imaginado. Y, cada uno a su manera, las historias demuestran que la ciencia ficción compleja y reflexiva puede elevarse a nuevas alturas de belleza, significado y compasión.</p>
 </details>
 
-## [Wolf Hall de Hilary Mantel](https://amzn.to/2Npz25l){:target="_blank"}
+## **[En la corte del Lobo de Hilary Mantel](https://amzn.to/2Npz25l){:target="_blank"}**
 Existe una versión en español de Wolf Hall denominada "[En la Corte del Lobo](https://amzn.to/2MwBgQM)" más, por sus criticas; parece ser que la traducción no es muy correcta.
 
 Inglaterra en la década de 1520 es un latido del desastre. Si el rey muere sin un heredero, el país podría ser destruido por la guerra civil.
@@ -110,7 +113,7 @@ Inglaterra en la década de 1520 es un latido del desastre. Si el rey muere sin 
 <p>Enrique VIII quiere anular su matrimonio de veinte años y casarse con Anne Boleyn. El papa y la mayor parte de Europa se le oponen. En este callejón sin salida entra Thomas Cromwell: un hombre totalmente original, encantador y acosador, idealista y oportunista, astuto al leer a las personas e implacable en su ambición. Pero Henry es volátil: un día tierno, un día asesino. Cromwell lo ayuda a romper la oposición, pero ¿cuál será el precio de su triunfo?</p>
 </details>
 
-## [Men without women, cuentos de Haruki Murakami](https://amzn.to/2L2mhuK){:target="_blank"}
+## **[Hombres sin mujeres, cuentos de Haruki Murakami](https://amzn.to/2L2mhuK){:target="_blank"}**
 
 "Men without women" ha sido traducido como Hombres sin mujeres. Haruki Murakami ofrece a los lectores siete relatos en torno al aislamiento y la soledad que preceden o siguen a la relación amorosa: hombres que han perdido a una mujer, o cuya relación ha estado marcada por el desencuentro, asisten inermes al regreso de los fantasmas del pasado, viven el enamoramiento como una enfermedad letal, son incapaces de establecer una comunicación plena con la pareja, o ven extrañamente interrumpida su historia de amor.
 
@@ -126,7 +129,7 @@ Inglaterra en la década de 1520 es un latido del desastre. Si el rey muere sin 
 <p>Sin embargo, las verdaderas protagonistas de estos relatos —llenos de guiños a los Beatles, el jazz, Kafka, Las mil y una noches o, en el caso del título, Hemingway—, son ellas, las mujeres, que, misteriosas, irrumpen en la vida de los hombres para desaparecer, dejando una huella imborrable en la vida de aquellos que las han amado, o de los que, al menos, intentaron amarlas.</p>
 </details>
 
-## [American Spy por Lauren Wilkinson](https://amzn.to/2NriXfA){:target="_blank"}
+## **[American Spy por Lauren Wilkinson](https://amzn.to/2NriXfA){:target="_blank"}**
 
 Es 1986, el corazón de la Guerra Fría, y Marie Mitchell es una agente de inteligencia del FBI. Ella es brillante, pero también es una joven negra que trabaja en un antiguo club de niños, y su carrera se ha estancado; ella es ignorada por cada escuadrón de alto perfil y sus días están llenos de papeleo monótono.
 
@@ -146,7 +149,7 @@ Es 1986, el corazón de la Guerra Fría, y Marie Mitchell es una agente de intel
 <p>Inspirada en hechos reales, Thomas Sankara es conocido como el "Che Guevara de África". Esta novela teje un emocionante thriller de espías, un drama familiar desgarrador y un romance apasionado. Esta es una cara de la Guerra Fría que nunca has visto antes, y presenta una nueva y poderosa voz literaria.</p>
 </details>
 
-## [The Shallows de Nicholas Carr](https://amzn.to/2ZiH6ao){:target="_blank"}
+## **[The Shallows de Nicholas Carr](https://amzn.to/2ZiH6ao){:target="_blank"}**
 
 The Shallows ha sido traducido al español, como: Superficiales: ¿Qué está haciendo Internet con nuestras mentes? Un gran libro relacionado con la tecnología que es lo que a los Ciberninjas nos encanta; por ello, puedes leer más en nuestra [nueva publicación 📒](/catalogo/que-hace-internet-con-nuestras-mentes/)
 
@@ -164,9 +167,9 @@ The Shallows ha sido traducido al español, como: Superficiales: ¿Qué está ha
 <p>Shallows no es un manifiesto para eruditos, ni busca hacer retroceder el reloj. Más bien es un recordatorio revelador de hasta qué punto Internet se ha enredado en nuestra existencia diaria y está afectando la forma en que pensamos.</p>
 </details>
 
-## [Lab Girl de Hope Jahren](https://amzn.to/2KOk5I6){:target="_blank"}
+## **[Lab Girl de Hope Jahren](https://amzn.to/2KOk5I6){:target="_blank"}**
 
-Lab Girl ha sido traducido al español, como: La memoria secreta de las hojas: Una historia de árboles, ciencia y amor; cosas de edición, supongo. La aclamada científica Hope Jahren ha construido tres laboratorios en los que ha estudiado árboles, flores, semillas y tierra. Su primer libro es un tratado revelador sobre la vida vegetal, pero también es mucho más. 
+Lab Girl ha sido traducido al español, como: La memoria secreta de las hojas: Una historia de árboles, ciencia y amor; cosas de edición, supongo. La aclamada científica Hope Jahren ha construido tres laboratorios en los que ha estudiado árboles, flores, semillas y tierra. Su primer libro es un tratado revelador sobre la vida vegetal, pero también es mucho más.
 
 > "es una memoria bellamente escrita sobre la vida de una mujer en la ciencia, una amistad brillante y la profundidad de los árboles. Estupendo."
 
@@ -180,7 +183,7 @@ Lab Girl ha sido traducido al español, como: La memoria secreta de las hojas: U
 <p>Sin embargo, en el centro de este libro está la historia de una relación que Jahren forjó con un hombre brillante y herido llamado Bill, quien se convierte en su compañero de laboratorio y su mejor amigo. Sus aventuras a veces deshonestas en la ciencia los llevan desde el Medio Oeste a través de los Estados Unidos y de regreso, sobre el Atlántico hasta los cielos siempre ligeros del Polo Norte y el Hawai tropical, donde ella y su laboratorio actualmente hacen su hogar.</p>
 </details>
 
-## [Inland: A Novel de Téa Obreht](https://amzn.to/2NpysVe){:target="_blank"}
+## **[Inland: A Novel de Téa Obreht](https://amzn.to/2NpysVe){:target="_blank"}**
 
 El autor más vendido del New York Times de The Tiger's Wife regresa con una impresionante historia de perseverancia: un viaje épico a través de un paisaje inolvidable de magia y mito.  
 
@@ -200,7 +203,7 @@ El autor más vendido del New York Times de The Tiger's Wife regresa con una imp
 <p>Mítico, lírico y de amplio alcance, Inland se basa en la historia verdadera pero poco conocida. Muestra todos los talentos de Téa Obreht como escritora, ya que ella subvierte y reinventa los mitos del oeste americano, haciéndolos completamente, e inolvidablemente, suyos.</p>
 </details>
 
-## [El Lugar del Aire por Dinaw Mengestu](https://amzn.to/2KNSRRW){:target="_blank"}
+## **[El Lugar del Aire por Dinaw Mengestu](https://amzn.to/2KNSRRW){:target="_blank"}**
 
 How to read the air, ha sido traducido al español, como: El lugar del aire. Una obra maestra literaria desgarradora sobre el amor, la familia y el poder de la imaginación, que confirma la reputación de Mengestu como uno de los talentos más brillantes de su generación.
 
@@ -220,7 +223,7 @@ How to read the air, ha sido traducido al español, como: El lugar del aire. Una
 <p>Treinta años después, Yosef ha muerto y Jonas necesita dar sentido a los volátiles lazos generacionales y culturales que lo han forjado. ¿Cómo puede imaginar su futuro sin saber lo que ha sucedido antes? Dejando atrás su matrimonio y su trabajo en Nueva York, Jonas se propone volver sobre el viaje de su madre y su padre y tejer juntos una historia familiar que lo llevará desde la Etiopía devastada por la guerra de la juventud de sus padres hasta su vida en la América de hoy. Una impactante historia, real o inventada, que ofrece la posibilidad de reconciliación y redención.</p>
 </details>
 
-## [Maid de Stephanie Land](https://amzn.to/2ZmRuxR){:target="_blank"}
+## **[Maid de Stephanie Land](https://amzn.to/2ZmRuxR){:target="_blank"}**
 
 Evicted conoce a Nickel y Dimed en las memorias de Stephanie Land sobre trabajar como empleada doméstica, una exploración hermosa y arenosa de la pobreza en Estados Unidos. Incluye un prólogo de Barbara Ehrenreich.  
 

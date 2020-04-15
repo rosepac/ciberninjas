@@ -63,7 +63,7 @@ Los proyectos como[ Capacitor](https://capacitor.ionicframework.com/) y [Cordova
 En esencia, Ionic Framework se construye utilizando [CSS, lo](https://developer.mozilla.org/en-US/docs/Web/CSS) que nos permite aprovechar la flexibilidad que proporcionan las [propiedades (variables) de CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables) . Esto hace que sea increíblemente fácil diseñar una aplicación que se vea genial mientras sigue el estándar web. Proporcionamos un conjunto de colores para que los desarrolladores puedan tener algunos valores predeterminados excelentes, pero recomendamos anularlos para crear diseños que coincidan con una marca, empresa o una paleta de colores deseada. Todo, desde el color de fondo de una aplicación hasta el color del texto, es totalmente personalizable. Puede encontrar más información sobre la temática de aplicaciones en[Temática](https://ionicframework.com/docs/theming/basics).
 <!-- SIGUIENTE PÁGINA: https://ionicframework.com/docs/intro/first-app -->
 
-[👉 Conceptos Básicos de Ionic](/ionic-framework-conceptos/){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 Conceptos Básicos de Ionic](/ionic-framework-concepto/){: .btn .btn--inverse .btn--x-large .align-center}
 [👉 Introducción a Ionic](/ionic-4-0-introduccion-ionic-para-todos){: .btn .btn--inverse .btn--x-large .align-center}
   
 **Fuente**: [Doc. Ionic](https://ionicframework.com/docs)

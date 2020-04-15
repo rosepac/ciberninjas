@@ -102,7 +102,7 @@ Hay millones de desarrolladores de Ionic en más de 200 países en todo el mundo
 - [GitHub:](https://github.com/ionic-team/ionic) para informar errores o solicitar nuevas funciones, cree un problema aquí. PRs bienvenidos!
 - [Autoría de contenido:](https://ionicframework.com/contributors) escriba un blog técnico o comparta su historia con la comunidad de Ionic.
 
-[👉 Conceptos Básicos de Ionic](/ionic-framework-conceptos/){: .btn .btn--inverse .btn--x-large .align-center}
+[👉 Conceptos Básicos de Ionic](/ionic-framework-concepto/){: .btn .btn--inverse .btn--x-large .align-center}
 [👉 Introducción a Ionic](/ionic-4-0-introduccion-ionic-para-todos){: .btn .btn--inverse .btn--x-large .align-center}
   
 **Fuente**: [Doc. Ionic](https://ionicframework.com/docs)
