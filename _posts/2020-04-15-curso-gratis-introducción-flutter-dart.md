@@ -2,7 +2,7 @@
 title: "🥇 ▷ Curso Introducción al desarrollo de Flutter con Dart, Totalmente GRATIS"
 description: "Más de 10 horas de video y tutoriales prácticos en los que aprender a crear hermosas aplicaciones con Flutter y el lenguaje de programación Dart"
 excerpt: "Más de 10 horas de video y tutoriales prácticos en los que aprender a crear hermosas aplicaciones con Flutter y el lenguaje de programación Dart"
-date: 2020-02-20 01:00:00 +0100
+date: 2020-04-15 15:22:00 +0100
 canonical_URL: https://ciberninjas.com/curso-gratis-introducción-flutter-dart/
 permalink: /curso-gratis-introducción-flutter-dart/
 classes: wide
