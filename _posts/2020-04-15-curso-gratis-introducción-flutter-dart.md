@@ -49,7 +49,24 @@ Nuestro curso de desarrollo de Flutter te enseña cómo programar con Dart y có
 
 Al final de este curso, estarás programando en Dart y estarás listo para comenzar a construir aplicaciones con Flutter; también tendrá una cartera de más de 8 aplicaciones que le darán una idea de cómo es trabajar con Flutter y Dart.
 
-Los contenidos en secciones son los siguientes:
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li><a href="/curso-gratis-introducción-flutter-dart/#1-introducción-al-desarrollo-con-flutter"><strong>Introducción al Desarrollo con Flutter</strong></a></li>
+    <li><a href="/curso-gratis-introducción-flutter-dart/#2-creando-una-interfaz-de-usuario-hermosa-con-flutter"><strong>Creando una Interfaz de Usuario Hermosa con Flutter</strong></a></li>
+    <li><a href="/curso-gratis-introducción-flutter-dart/#3-construcción-de-aplicaciones-con-estados"><strong>Construcción de Aplicaciones con los Estados</strong></a></li>
+    <li><a href="/curso-gratis-introducción-flutter-dart/#4-utilizando-el-administrador-de-paquetes-dart"><strong>Utilizando el Administrador de Paquetes de Dart</strong></a></li>
+    <li><a href="/curso-gratis-introducción-flutter-dart/#5-estructuras-de-aplicaciones-flutter"><strong>Estructuras de Aplicaciones de Flutter</strong></a></li>
+  </ol>
+</nav>
+</details>
+<br />
+
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/curso-gratis-introducción-flutter-dart/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [recomendaciones Ciberninjas](https://kutt.it/cibercursos-recomienda)
+{: .notice--danger}
+
+Los contenidos separados por secciones son los siguientes:
 
 ## **1. Introducción al Desarrollo con Flutter**
 

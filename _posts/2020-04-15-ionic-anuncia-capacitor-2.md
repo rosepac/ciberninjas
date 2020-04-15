@@ -8,10 +8,9 @@ permalink: /ionic-anuncia-capacitor-2/
 classes: wide
 published: true
 categories:
-  - Reflexión Programar
+  - Framework Multiplataforma
 tags:
-  - Programar
-  - Realidad
+  - Ionic
 header:
   teaser: /assets/images/blog/capacitor-2-img.webp
 #  overlay_image: /assets/images/
@@ -35,7 +34,26 @@ Esta nueva versión actualiza Capacitor y sus plantillas de proyecto a la últim
 - Compatible con Android 10 (SDK 29) y AndroidX, lo que hace que Face Unlock e Iris Unlock estén disponibles ahora en Ionic Identity Vault.
 - Corrección de errores y mejoras de usabilidad para más de 23 complementos principales.
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [recomendaciones Ciberninjas](https://kutt.it/cibercursos-recomienda)
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li><a href="/ionic-anuncia-capacitor-2/#por-qué-capacitor"><strong>¿Por qué Capacitor?</strong></a></li>
+    <li><a href="/ionic-anuncia-capacitor-2/#swift-5-y-xcode-11"><strong>Swift 5 y XCode 11</strong></a></li>
+    <li><a href="/ionic-anuncia-capacitor-2/#android-10-sdk-29-y-androidx"><strong>Android 10 SDK 29 y AndroidX</strong></a></li>
+    <li><a href="/ionic-anuncia-capacitor-2/#complementos-herramientas-y-documentos-mejorados"><strong>Complementos, Herramientas y Documentos Mejorados</strong></a></li>
+    <li><a href="/ionic-anuncia-capacitor-2/#inicio-de-sesión-con-apple"><strong>Inicio de Sesión con Apple</strong></a></li>
+    <li><a href="/ionic-anuncia-capacitor-2/#desbloqueo-facial-con-android-y-desbloqueo-con-el-iris"><strong>Desbloqueo Facial con Android y Desbloque con el Iris</strong></a></li>
+    <li><a href="/ionic-anuncia-capacitor-2/#próximamente-suprimir-cors"><strong>Próximamente, ¡Suprimir CORS!</strong></a></li>
+    <li><a href="/ionic-anuncia-capacitor-2/#actualización-sobre-el-soporte-de-electron"><strong>Actualización sobre el Soporte de Electrón</strong></a></li>
+    <li><a href="/ionic-anuncia-capacitor-2/#fácil-proceso-de-actualización"><strong>Fácil Proceso de Actualización</strong></a></li>
+    <li><a href="/ionic-anuncia-capacitor-2/#más-que-un-número-de-versión"><strong>Más que un Número de Versión</strong></a></li>
+    <li><a href="/ionic-anuncia-capacitor-2/#comienza-a-construir-hoy"><strong>Comienza a Construir Hoy</strong></a></li>
+  </ol>
+</nav>
+</details>
+
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/ionic-anuncia-capacitor-2/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [recomendaciones Ciberninjas](https://kutt.it/cibercursos-recomienda)
 {: .notice--danger}
 
 ## **¿Por qué Capacitor?**

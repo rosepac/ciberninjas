@@ -25,7 +25,7 @@ header:
 # toc_sticky: true
 ---
 
-![](/assets/images/blog/nativescript-app-1.webp "")
+![](/assets/images/blog/nativescript-app-1.webp "Novedades de NativeScript 6.5")
 
 ¡Bienvenido a otro lanzamiento del framework de desarrollo de aplicaciones multiplataforma NativeScript! La versión 6.5 de NativeScript ofrece algunos importantes cambios.
 
@@ -39,15 +39,14 @@ Antes de nada debemos actualizar nuestra versión de NativeScript, a la nueva ve
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/nativescript-framework-6-5/#creación-dinámica-de-pestañas-y-navegación-inferior" title=""><strong>**Creación dinámica de pestañas y navegación inferior**</strong></a></li>
-    <li><a href="/nativescript-framework-6-5/#nuevas-propiedades-de-estilo-en-Tabstrip" title=""><strong>**Nuevas propiedades de estilo en TabStrip**</strong></a></li>
-    <li><a href="/nativescript-framework-6-5/#opciones-avanzadas-de-estilo-en-pestañas-de-iOS" title=""><strong>**Opciones avanzadas de estilo en pestañas de iOS**</strong></a></li>
-    <li><a href="/nativescript-framework-6-5/#doubletapgestureeventdata" title=""><strong>**DoubleTapGestureEventData**</strong></a></li>
-    <li><a href="/nativescript-framework-6-5/#soporte-experimental-de-KotlinJS" title=""><strong>**Soporte experimental de KotlinJS**</strong></a></li>
+    <li><a href="/nativescript-framework-6-5/#1-creación-dinámica-de-pestañas-y-navegación-inferior" title="Creación dinámica de pestañas y navegación inferior"><strong>Creación dinámica de pestañas y navegación inferior</strong></a></li>
+    <li><a href="/nativescript-framework-6-5/#2-nuevas-propiedades-de-estilo-en-tabstrip" title="Nuevas propiedades de estilo en TabStrip"><strong>Nuevas propiedades de estilo en TabStrip</strong></a></li>
+    <li><a href="/nativescript-framework-6-5/#3-opciones-avanzadas-de-estilo-en-pestañas-de-ios" title="Opciones avanzadas de estilo en pestañas de iOS"><strong>Opciones avanzadas de estilo en pestañas de iOS</strong></a></li>
+    <li><a href="/nativescript-framework-6-5/#4-doubletapgestureeventdata" title="DoubleTapGestureEventData"><strong>DoubleTapGestureEventData</strong></a></li>
+    <li><a href="/nativescript-framework-6-5/#5-soporte-experimental-de-kotlinjs" title="Soporte experimental de KotlinJS"><strong>Soporte experimental de KotlinJS</strong></a></li>
   </ol>
 </nav>
 </details>
-<br />
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [recomendaciones Ciberninjas](https://kutt.it/cibercursos-recomienda)
 {: .notice--danger}
