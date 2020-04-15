@@ -89,7 +89,7 @@ Los contenidos en secciones son los siguientes:
 - Aprenda a usar Dart Constructors para crear Flutter personalizable widgets.
 - Aplicar patrones comunes de diseño móvil para estructurar aplicaciones Flutter.
 
-**Inscríbase aquí**: https://www.appbrewery.co/courses/intro-to-flutter
+**Alistate al Curso**: [¡INICIA EL CURSO YA!](https://www.appbrewery.co/courses/intro-to-flutter)
 
 **Fuente**\: [Medium Oficial de Flutter](https://medium.com/flutter/learn-flutter-for-free-c9bc3b898c4d){:target="_blank"}, [App Brewery](https://www.appbrewery.co/p/intro-to-flutter){:target="_blank"}
 {: .notice--info}
