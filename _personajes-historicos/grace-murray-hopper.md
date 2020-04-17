@@ -18,11 +18,7 @@ header:
 
 <img src="https://images.computerhistory.org/fellows/gracehopper.jpg" width="200px" high="250px" alt="Grace Murray Hopper | Visto en Ciberninjas" title="Grace Murray Hopper | Visto en Ciberninjas" />
 
-## All-Star Informático 1985
-
-Premiada por sus contribuciones al desarrollo de lenguajes de programación, por esfuerzos de estandarización y por servicio naval de por vida.
-
-### ✍ Biografía
+## **Biografía de Grace Murray Hopper**
 
 Grace Hopper nació en Nueva York, Nueva York, en 1906. Obtuvo una licenciatura en matemáticas y física del Vassar College (1928) y una maestría (1930) y un doctorado en matemáticas (1934) de la Universidad de Yale.
 
@@ -33,6 +29,10 @@ Hopper permaneció en Harvard hasta 1949, cuando se unió a la Eckert-Mauchly Co
 Hopper se retiró de la Reserva de la Marina de los EE. UU. En 1986 con el rango de Contralmirante y luego fue contratada como consultora principal de Digital Equipment Corporation, un puesto que retuvo hasta su muerte en 1992, a los 86 años.
 
 Hopper fue ampliamente reconocida por sus logros y sus conferencias a menudo humorísticas sobre temas de informática. Recibió muchos premios, incluida la Medalla Nacional de Tecnología de EE. UU. (1991).
+
+## All-Star Informático 1985
+
+Premiada por sus contribuciones al desarrollo de lenguajes de programación, por esfuerzos de estandarización y por servicio naval de por vida.
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 

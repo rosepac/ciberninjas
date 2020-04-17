@@ -18,13 +18,7 @@ header:
 
  <img src="/assets/images/personajes-historicos/2015_evelyn_berezin.webp" width="200px" high="250px" alt="Evelyn Berezin" title="Evelyn Berezin">
 
-## All-Star Informático 2015
-
-Por sus primeros trabajos en diseño de computadoras y toda una vida de actividad empresarial.
-
-> Alcanzar una meta proporciona satisfacción inmediata; El proceso de alcanzar una meta es un placer duradero.
-
-### ✍ Biografía
+## **Biografía de Evelyn Berezin**
 
 Evelyn Berezin nació en la ciudad de Nueva York en 1925. Con una beca en NYU, recibió su licenciatura en física en 1945 y una beca de la Comisión de Energía Atómica para estudios de posgrado en NYU en 1946. En 1951, se unió a una empresa de nueva creación, Elecom, con sede en Brooklyn, que había comenzado a construir computadoras digitales. De 1951 a 1969, trabajó en varias compañías diseñando una variedad de sistemas informáticos para propósitos especiales. Los sistemas construidos hasta aproximadamente 1957 tenían limitaciones severas, debido principalmente a la falta de fiabilidad de los tubos de vacío utilizados en su construcción y al uso de sistemas de memoria basados ​​en tambores magnéticos, que estaban limitados tanto en su capacidad de memoria como en la velocidad de almacenamiento y recuperación de la memoria.
 
@@ -36,6 +30,12 @@ Redactron se mudó a su primer edificio en diciembre de 1969. Algunas tecnologí
 
 Berezin ha sido miembro de los directorios de varias empresas públicas, incluidas CIGNA, Koppers Co., Datapoint y Standard Microsystems. Además, ha trabajado como Asesora o miembro de la Junta con unas 20 empresas de tecnología de nueva creación. Recibió un doctorado honorario de la Universidad Adelphi y de la Universidad Eastern Michigan y formó parte de la Junta de Directores del Laboratorio Nacional Brookhaven. Berezin se encuentra actualmente en la Junta de Directores de la Fundación Stony Brook (Universidad), y es miembro del Comité de Supervisión de la Facultad de Artes y Ciencias de la NYU.
 Berezin ha sido miembro de los directorios de varias empresas públicas, incluidas CIGNA, Koppers Co., Datapoint y Standard Microsystems. Además, ha trabajado como Asesora o miembro de la Junta con unas 20 empresas de tecnología de nueva creación. Recibió un doctorado honorario de la Universidad Adelphi y de la Universidad Eastern Michigan y formó parte de la Junta de Directores del Laboratorio Nacional Brookhaven. Berezin se encuentra actualmente en la Junta de Directores de la Fundación Stony Brook (Universidad), y es miembro del Comité de Supervisión de la Facultad de Artes y Ciencias de la NYU.
+
+## All-Star Informático 2015
+
+Por sus primeros trabajos en diseño de computadoras y toda una vida de actividad empresarial.
+
+> Alcanzar una meta proporciona satisfacción inmediata; El proceso de alcanzar una meta es un placer duradero.
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 
