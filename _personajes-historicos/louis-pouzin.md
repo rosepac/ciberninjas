@@ -18,13 +18,7 @@ header:
 
 <img src="https://images.computerhistory.org/fellows/lpouzin.jpg" width="200px" high="250px" alt="Louis Pouzin | Visto en Ciberninjas" title="Louis Pouzin | Visto en Ciberninjas" />
 
-## All-Star Informático 2019
-
-Premiado por el diseño y la implementación pioneros de las redes de comunicación por paquetes que abrieron el camino hacia Internet.
-
-> Pionero en las creación de redes de comunicación por paquetes
-
-### ✍ Biografía
+## **Biografía de Louis Pouzin**
 
 Hijo de un operador de aserradero, Louis Pouzin siguió sus intereses mecánicos a la principal universidad de ingeniería de Francia, la École polytechnique. Después de graduarse en 1952, diseñó máquinas herramienta para el monopolio nacional de telecomunicaciones. Pero se sintió atraído por una nueva tecnología: la informática.
 
@@ -47,6 +41,12 @@ El datagrama estaba caído, pero no fuera. Cuando el estándar de Internet TCP d
 Ese compromiso no significaba que ARPA había hecho las paces con Pouzin y los otros puristas de datagramas. De hecho, los miembros de su antiguo equipo fueron jugadores clave en el estándar oficial de internet internacional que se convirtió en su principal rival.
 
 El TCP / IP de ARPA no ganaría como Internet hasta finales de la década de 1980. Louis Pouzin continúa desarrollando protocolos de red, incluidas alternativas radicales a TCP / IP y el Sistema de nombres de dominio (.com, .org, .edu, etc.). Ha recibido muchos honores principales por su trabajo en el datagrama.
+
+## All-Star Informático 2019
+
+Premiado por el diseño y la implementación pioneros de las redes de comunicación por paquetes que abrieron el camino hacia Internet.
+
+> Pionero en las creación de redes de comunicación por paquetes
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 

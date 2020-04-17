@@ -18,13 +18,7 @@ header:
 
 <img src="https://images.computerhistory.org/fellows/dsshirley.jpg" width="200px" high="250px" alt="Dame Stephanie Shirley | Visto en Ciberninjas" title="Dame Stephanie Shirley | Visto en Ciberninjas"/>
 
-## All-Star Informático 2018
-
-Premiada por toda una vida de emprendimiento promoviendo el crecimiento de la industria de software del Reino Unido y el avance de las mujeres en la informática.
-
-> Promotora de la industria del software y la inserción de la mujer en la informática
-
-### ✍ Biografía
+## **Biografía de Dame Stephanie Shirley**
 
 En las décadas de 1960 y 1970, las oportunidades para que las mujeres tuvieran carreras en informática más allá del trabajo administrativo eran prácticamente inexistentes. Dame Stephanie ("Steve") Shirley fundó Freelance Programmers en 1962 para ofrecer a las mujeres que estaban ocupadas con el cuidado de ancianos o la crianza de los hijos un medio para ganarse la vida, así como desarrollarse profesionalmente como programadores informáticos. La empresa fue creada por una mujer para mujeres.
 
@@ -37,6 +31,12 @@ Comenzó su compañía en la mesa de su cocina con solo unas pocas libras de inv
 La compañía, que se había convertido en F International, entró a bolsa en la Bolsa de Londres (después de que Shirley había dado muchas acciones a sus empleados) y cambió su nombre a Xansa en 2001. Se retiró en 1993 y desde entonces ha estado muy activa en filantropía a través de Shirley Foundation, particularmente para organizaciones benéficas que apoyan la investigación sobre el autismo y las tecnologías emergentes.
 
 Además de recibir docenas de honores, Shirley es ex presidente de la British Computer Society y miembro de la Royal Academy of Engineering. Ella ha regalado la mayor parte de su riqueza a causas filantrópicas, incluido un donativo de £ 10 millones para fundar el Oxford Internet Institute.
+
+## All-Star Informático 2018
+
+Premiada por toda una vida de emprendimiento promoviendo el crecimiento de la industria de software del Reino Unido y el avance de las mujeres en la informática.
+
+> Promotora de la industria del software y la inserción de la mujer en la informática
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 

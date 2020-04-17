@@ -18,13 +18,7 @@ header:
 
 <img src="https://images.computerhistory.org/fellows/dfrohmanbentchkowsky.jpg" width="200px" high="250px" title="Dov Frohman-Bentchkowsky | Visto en Ciberninjas" alt="Dov Frohman-Bentchkowsky | Visto en Ciberninjas" />
 
-## All-Star Informático 2018
-
-Premiado por la invención de la primera memoria comercial de solo lectura programable y borrable (EPROM), que permitió el rápido desarrollo de sistemas basados en microprocesador.
-
-> Inventor de la primera memoria comercial.
-
-### ✍ Biografía
+## **Biografía de Dov Frohman-Bentchkowsky**
 
 Antes de la invención de Dov Frohman de la memoria de solo lectura programable borrable (EPROM), la memoria de solo lectura (ROM), un tipo de circuito integrado que contiene el programa principal del sistema, tenía que "quemarse" en la fábrica del fabricante de ROM usando "máscaras". ”De los patrones de bits requeridos, un proceso costoso y que consume mucho tiempo que no dejó espacio para errores de programación y convirtió las actualizaciones en una pesadilla.
 
@@ -39,6 +33,12 @@ En 1969, se unió a Intel en Mountain View, donde estuvo involucrado en el desar
 Frohman pasó la mayor parte de su carrera convirtiendo a Intel Israel en un buque insignia de Intel y una piedra angular de la economía israelí de alta tecnología. Ayudó a fundar Intel Israel en 1974, se convirtió en su gerente general en 1981 y dirigió la organización hasta su jubilación en 2001. Durante casi 30 años, creó y dirigió esta exitosa compañía en una de las industrias más exigentes y competitivas del mundo. .
 
 Frohman posee numerosas patentes y premios por su trabajo, incluidos reconocimientos del IEEE, el Salón de la Fama de Inventores Nacionales y el Estado de Israel. Hoy, Frohman divide su tiempo entre sus dos hogares, uno en Jerusalén y otro en Selva di Cadore en la región Dolomita de Italia.
+
+## All-Star Informático 2018
+
+Premiado por la invención de la primera memoria comercial de solo lectura programable y borrable (EPROM), que permitió el rápido desarrollo de sistemas basados en microprocesador.
+
+> Inventor de la primera memoria comercial.
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 

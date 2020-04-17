@@ -18,11 +18,7 @@ header:
 
  <img src="/assets/images/personajes-historicos/2017_margaret-hamilton.webp" width="200px" high="250px" alt="Margaret Hamilton" title="Margaret Hamilton">
 
-## All-Star Informático 2017
-
-Por su liderazgo y trabajo en software para DOD y las misiones espaciales Apollo de la NASA y por contribuciones fundamentales a la ingeniería de software.
-
-### ✍ Biografía
+## **Biografía de Margaret Hamilton**
 
 Margaret H. Hamilton nació en Paoli, Indiana, y estudió matemáticas en la Universidad de Michigan y Earlham College. Se graduó con una licenciatura en 1958 y planeaba seguir estudios de posgrado en la Universidad de Brandeis. En cambio, Hamilton tomó una posición temporal en el Instituto de Tecnología de Massachusetts (MIT), donde desarrolló un software de predicción del clima para el profesor Edward N. Lorenz en las computadoras Librascope LGP-30 y PDP-1, y señaló en ese momento que los programadores aprendieron su profesión por capacitación práctica (aún no había programas formales de informática en las universidades).
 
@@ -41,6 +37,10 @@ Debido a su paradigma preventivo, con USL, en lugar de buscar más formas de pro
 Durante más de cinco décadas, los métodos de Hamilton han tenido un gran impacto en el campo de la ingeniería de software hasta el día de hoy.
 
 Hamilton recibió el Premio de la Ley del Espacio Excepcional de la NASA (2003) y la Medalla Presidencial de la Libertad otorgada por Barack Obama (2016).
+
+## All-Star Informático 2017
+
+Por su liderazgo y trabajo en software para DOD y las misiones espaciales Apollo de la NASA y por contribuciones fundamentales a la ingeniería de software.
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 

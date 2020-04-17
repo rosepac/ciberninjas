@@ -18,10 +18,6 @@ header:
 
  <img src="/assets/images/personajes-historicos/2008_jean_bartik.webp" width="200px" high="250px" alt="Jean Jennings Bartik" title="Jean Jennings Bartik">
 
-## All-Star Informático 2008
-
-Por programar la computadora ENIAC y ayudar a adaptarla para usar programas de software almacenados en la memoria.
-
 ### ✍ Biografía
 
 Jean Bartik nació en el condado de Gentry, Missouri, en 1924. Asistió al Northwest Missouri State Teachers College, recibió una licenciatura en matemáticas (1945), un GED (maestría) en inglés de la Universidad de Pensilvania (1967) y un D honorario Sc. de Northwest Missouri State University (2002).
@@ -33,6 +29,10 @@ Bartik fue una de las seis computadoras humanas elegidas para trabajar en la nue
 En 1947, Bartik se convirtió en parte de un grupo que convirtió ENIAC en una computadora de programa almacenado, un hito importante que mejoró su eficiencia y utilidad. También hizo contribuciones a las primeras computadoras BINAC y UNIVAC 1.
 
 Bartik, quien fue reconocido tarde en la vida, se convirtió en un firme defensor de una mayor participación de las mujeres en la ciencia y la tecnología. Ella falleció en 2011.
+
+## All-Star Informático 2008
+
+Por programar la computadora ENIAC y ayudar a adaptarla para usar programas de software almacenados en la memoria.
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 

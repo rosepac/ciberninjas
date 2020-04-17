@@ -27,7 +27,7 @@ Premiado por la concepción, diseño e implementación del lenguaje de programac
 
 > Inventor del lenguaje de programación Java
 
-### ✍ Biografía
+## **Biografía de James Gosling**
 
 James Arthur Gosling nació en 1956 cerca de Calgary, Alberta. Recibió su licenciatura en ciencias de la computación de la Universidad de Calgary en 1977. Para el trabajo de posgrado, dejó Canadá para ir a la Universidad Carnegie Mellon (CMU), donde completó un doctorado en 1983.
 

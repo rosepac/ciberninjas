@@ -18,13 +18,7 @@ header:
 
 <img src="https://images.computerhistory.org/fellows/leslie-lamport.jpg" width="200px" high="250px" alt="Leslie Lamport | Visto en Ciberninjas" title="Leslie Lamport | Visto en Ciberninjas" />
 
-## All-Star Informático 2019
-
-Premiado por sus contribuciones al análisis y diseño de sistemas informáticos distribuidos, y por la creación inicial del sistema de producción de documentos LaTeX.
-
-> Inventor del sistema de producción de documentos LaTeX
-
-### ✍ Biografía
+## **Biografía de Leslie Lamport**
 
 Leslie Lamport nació en la ciudad de Nueva York en 1941. Durante una carrera de cinco décadas, Lamport ha realizado múltiples contribuciones innovadoras a la teoría y la práctica de los sistemas informáticos distribuidos y concurrentes, ideas que han mejorado drásticamente el rendimiento y la confiabilidad de dichos sistemas.
 
@@ -43,6 +37,12 @@ En primera instancia, las personas simplemente toman un número y esperan su tur
 Otra área en la que realizó importantes contribuciones fue con la noción de tolerancia a fallas, la idea de que los sistemas informáticos pueden diseñarse y construirse para soportar fallas ocasionales, limitadas o datos incorrectos. Mientras trabajaba en un sistema de control de aviónica de cabina para la NASA en el SRI a principios de la década de 1970, identificó la noción del modelo de "Generales bizantinos", un enfoque que ve al procesador de la computadora como un general del ejército tratando de coordinar las acciones de sus tropas, mientras También representa traidores en el ejército que enviarán deliberadamente señales contradictorias. Lamport era un miembro del grupo que identificó y estudió por primera vez el problema de tolerar fallas "bizantinas" en las que una computadora podría hacer algo, incluso actuar de manera maliciosa.
 
 Las otras contribuciones de Lamport son igualmente profundas y fundamentales para la informática. Si usa una computadora hoy, se beneficia del pensamiento profundo de Lamport y de sus algoritmos fundamentales.
+
+## All-Star Informático 2019
+
+Premiado por sus contribuciones al análisis y diseño de sistemas informáticos distribuidos, y por la creación inicial del sistema de producción de documentos LaTeX.
+
+> Inventor del sistema de producción de documentos LaTeX
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 

@@ -18,13 +18,7 @@ header:
 
  <img src="/assets/images/personajes-historicos/2001_jean_sammet.webp" width="200px" high="250px" alt="Jean Sammet" title="Jean Sammet">
 
-## All-Star Informático 2001
-
-Por sus contribuciones al campo de los lenguajes de programación y su historia.
-
-> Desde la infancia odié tirar papeles. Cuando me convertí en adulto, esta característica se fusionó con mi interés en la historia de la computación. Como resultado, creé mis propios archivos y documentos importantes, y me preocupé por que otras personas publicaran material sobre su importante trabajo para que los hechos (más bien que los mitos) se conocieran públicamente.
-
-### ✍ Biografía
+## **Biografía de Jean Sammet**
 
 Jean Sammet nació en Nueva York, Nueva York, en 1928. Tiene una licenciatura en matemáticas de Mount Holyoke College (1948), una maestría, también en matemáticas, de la Universidad de Illinois (1949), y un doctorado honorario de Mount Colegio Holyoke (1978).
 
@@ -35,6 +29,12 @@ De 1958 a 1961, trabajó en Sylvania Electric Products y administró el desarrol
 Sammet se unió a IBM en 1961 y dirigió el desarrollo de FORMAC, un lenguaje y sistema de programación ampliamente utilizado para las matemáticas simbólicas. En 1965, se convirtió en gerente de tecnología de lenguaje de programación en la división de desarrollo de sistemas de IBM y más tarde dirigió el trabajo de IBM en el lenguaje de programación Ada.
 
 Fue presidenta de la ACM de 1974 a 1976 y es una autoridad mundial en la historia de los lenguajes de programación. Entre otros honores, es miembro de la Academia Nacional de Ingeniería de EE. UU. (1977).
+
+## All-Star Informático 2001
+
+Por sus contribuciones al campo de los lenguajes de programación y su historia.
+
+> Desde la infancia odié tirar papeles. Cuando me convertí en adulto, esta característica se fusionó con mi interés en la historia de la computación. Como resultado, creé mis propios archivos y documentos importantes, y me preocupé por que otras personas publicaran material sobre su importante trabajo para que los hechos (más bien que los mitos) se conocieran públicamente.
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 

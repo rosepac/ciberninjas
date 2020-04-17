@@ -18,13 +18,7 @@ header:
 
 <img src="https://images.computerhistory.org/fellows/kjohnson.jpg" width="200px" high="250px" alt="Katherine Johnson | Visto en Ciberninjas" title="Katherine Johnson | Visto en Ciberninjas" />
 
-## All-Star Informático 2019
-
-Premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.
-
-> Matemática encargada de cálculos espaciales del primer viaje de la humanidad a la Luna
-
-### ✍ Biografía
+## **Biografía de Katherine Johnson**
 
 Katherine Johnson nació en White Sulphur Springs, Virginia Occidental, en 1918. Desde muy joven, exhibió un notable talento para las matemáticas y se saltó varios grados en la escuela, comenzando la escuela secundaria con solo 10 años. Después de su graduación a los 14 años, se matriculó en West Virginia State College, una universidad históricamente negra en Institute, West Virginia. Domina todos los cursos de matemáticas ofrecidos en la universidad y se agregaron varios cursos especializados específicamente para ella. Se graduó summa cum laude en 1937 con títulos en matemáticas y francés.
 
@@ -39,6 +33,12 @@ En 1962, Johnson calculó la trayectoria del vuelo orbital Friendship 7 de John 
 Johnson ayudó a calcular la trayectoria de la misión Apolo 11 que llevó a los primeros humanos a la superficie lunar. También proporcionó ecuaciones que resultaron ser esenciales para la supervivencia de la misión Apolo 13 después de que se vio obligada a abortar. Permaneció con la NASA hasta 1986, trabajando en el transbordador espacial y los programas de Satélite de Recursos Terrestres.
 
 Katherine Johnson es vista a menudo como una de las figuras más importantes para representar a las mujeres en ciencia y tecnología y fue una de las mujeres descritas en el libro Hidden Figures de Margot Lee Shetterly. El libro inspiró una película nominada al Oscar del mismo nombre lanzada en 2016. Ha recibido muchos honores por su trabajo con la NASA, incluida la Medalla Nacional de la Libertad, otorgada por el presidente Barack Obama, en 2015.
+
+## All-Star Informático 2019
+
+Premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.
+
+> Matemática encargada de cálculos espaciales del primer viaje de la humanidad a la Luna
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 

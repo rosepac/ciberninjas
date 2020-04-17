@@ -18,11 +18,7 @@ header:
 
  <img src="/assets/images/personajes-historicos/2012_sophie_wilson.webp" width="200px" high="250px" alt="Sophie Wilson" title="Sophie Wilson">
 
-### All-Star Informático 2012
-
-Por su trabajo, junto a Steve Furber, en la computadora BBC Micro y la arquitectura del procesador ARM.
-
-## ✍ Biografía de Sophie Wilson
+## **Biografía de Sophie Wilson**
 
 Sophie Wilson nació en Leeds, Inglaterra, en 1957. Comenzó a estudiar informática en la Universidad de Cambridge en 1975. En 1977, desarrolló un alimentador automático de vacas durante sus primeras vacaciones de verano. Luego diseñó el Acorn System 1, un microordenador temprano de 8 bits para aficionados, que fue producido comercialmente por la compañía británica Acorn Computers a partir de 1979.
 
@@ -35,6 +31,10 @@ Wilson y Furber luego codiseñaron el procesador de máquina RISC de 32 bits (19
 El núcleo del procesador ARM ahora se usa en miles de productos diferentes, desde teléfonos móviles y tabletas hasta televisores digitales y videojuegos. El número de núcleos de procesadores ARM ahora enviados supera los 30 mil millones, o más de cuatro microprocesadores ARM por cada persona en la tierra.
 
 Wilson vive cerca de Cambridge, Inglaterra.
+
+## All-Star Informático 2012
+
+Por su trabajo, junto a Steve Furber, en la computadora BBC Micro y la arquitectura del procesador ARM.
 
 👈 [Regresar a Biografías Recientes](/personajes-historicos/#-biografías-agregadas-más-recientes-)
 
