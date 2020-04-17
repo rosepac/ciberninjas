@@ -35,57 +35,57 @@ Los cursos en español (sin certificado) pero igualmente gratuitos;  están rela
 
 ## **Cursos para Estudiantes Universitarios**
 
-- [Competencias Digitales. Herramientas de Ofimática](https://www.coursera.org/learn/competencias-digitales-ofimatica)
-- [Fundamentos de la escritura](https://www.coursera.org/learn/escritura-esp)
-- [Mi Primer Empleo](https://www.coursera.org/learn/mi-primer-empleo)
-- [Pensamiento Sistémico](https://www.coursera.org/learn/pensamiento-sistemico)
-- [Potenciando mi aprendizaje en el primer año de universidad](https://www.coursera.org/learn/potenciando-aprendizaje)
-- [Robótica](https://www.coursera.org/learn/robotica-inicial)
+- [Competencias Digitales. Herramientas de Ofimática](https://www.coursera.org/learn/competencias-digitales-ofimatica){:target="_blank"}
+- [Fundamentos de la escritura](https://www.coursera.org/learn/escritura-esp){:target="_blank"}
+- [Mi Primer Empleo](https://www.coursera.org/learn/mi-primer-empleo){:target="_blank"}
+- [Pensamiento Sistémico](https://www.coursera.org/learn/pensamiento-sistemico){:target="_blank"}
+- [Potenciando mi aprendizaje en el primer año de universidad](https://www.coursera.org/learn/potenciando-aprendizaje){:target="_blank"}
+- [Robótica](https://www.coursera.org/learn/robotica-inicial){:target="_blank"}
 
 ## **Cursos para Estudiantes de Bachillerato**
 
-- [El Cálculo - Modelo Lineal](https://www.coursera.org/learn/calculo-1)
-- [El Cálculo - Modelo Cuadrático](https://www.coursera.org/learn/calculo-2)
-- [El Cálculo - Modelo Cúbico](https://www.coursera.org/learn/calculo-3)
-- [El Cálculo - Otros Modelos](https://www.coursera.org/learn/calculo-4)
-- [Estadística y Probabilidad](https://www.coursera.org/learn/estadistica-probabilidad)
-- [Química en mi Casa](https://www.coursera.org/learn/quimica-en-mi-casa)
-- [PlanU: Escoge la mejor carrera y universidad para ti](https://www.coursera.org/learn/escoger-carrera-y-universidad)
-- [Pre-Calculus](https://www.coursera.org/learn/introduccion-al-calculo)
+- [El Cálculo - Modelo Lineal](https://www.coursera.org/learn/calculo-1){:target="_blank"}
+- [El Cálculo - Modelo Cuadrático](https://www.coursera.org/learn/calculo-2){:target="_blank"}
+- [El Cálculo - Modelo Cúbico](https://www.coursera.org/learn/calculo-3){:target="_blank"}
+- [El Cálculo - Otros Modelos](https://www.coursera.org/learn/calculo-4){:target="_blank"}
+- [Estadística y Probabilidad](https://www.coursera.org/learn/estadistica-probabilidad){:target="_blank"}
+- [Química en mi Casa](https://www.coursera.org/learn/quimica-en-mi-casa){:target="_blank"}
+- [PlanU: Escoge la mejor carrera y universidad para ti](https://www.coursera.org/learn/escoger-carrera-y-universidad){:target="_blank"}
+- [Pre-Calculus](https://www.coursera.org/learn/introduccion-al-calculo){:target="_blank"}
 
 ## **Curso de Desarrollo Profesional**
 
-- [A Programar: Una introducción a la programación](https://www.coursera.org/learn/a-programar)
-- [Cómo hablar bien en Público](https://www.coursera.org/learn/competencias-digitales-ofimatica)
-- [Competencias Digitales](https://www.coursera.org/learn/competencias-digitales-ofimatica)
-- [Desarrollo Rápido de Productos Innovadores](https://www.coursera.org/learn/innovacion)
-- [Emprender la emprendeduría](https://www.coursera.org/learn/emprender)
-- [Estrategia Empresarial](https://www.coursera.org/learn/estrategia-empresarial)
-- [Inteligencia Artificial para todos](https://www.coursera.org/learn/ai-for-everyone-es)
-- [Introducción a la Programación Orientada a Objetos](https://www.coursera.org/learn/introduccion-programacion-java)
-- [Liderazgo Instruccional: Perspectiva Global](https://www.coursera.org/learn/liderazgo-educativo)
+- [A Programar: Una introducción a la programación](https://www.coursera.org/learn/a-programar){:target="_blank"}
+- [Cómo hablar bien en Público](https://www.coursera.org/learn/competencias-digitales-ofimatica){:target="_blank"}
+- [Competencias Digitales](https://www.coursera.org/learn/competencias-digitales-ofimatica){:target="_blank"}
+- [Desarrollo Rápido de Productos Innovadores](https://www.coursera.org/learn/innovacion){:target="_blank"}
+- [Emprender la emprendeduría](https://www.coursera.org/learn/emprender){:target="_blank"}
+- [Estrategia Empresarial](https://www.coursera.org/learn/estrategia-empresarial){:target="_blank"}
+- [Inteligencia Artificial para todos](https://www.coursera.org/learn/ai-for-everyone-es){:target="_blank"}
+- [Introducción a la Programación Orientada a Objetos](https://www.coursera.org/learn/introduccion-programacion-java){:target="_blank"}
+- [Liderazgo Instruccional: Perspectiva Global](https://www.coursera.org/learn/liderazgo-educativo){:target="_blank"}
 
 ## **Cursos de Bienestar y Desarrollo Personal**
 
-- [Arte Público y Pedagogía](https://www.coursera.org/learn/arte-publico-pedagogia)
-- Mindshift: [Transforma tu mente para superar obstáculos en el aprendizaje y descubrir tu potencial oculto](https://www.coursera.org/learn/mindshift-transforma-mente)
-- [Bienestar, Equidad y Derechos Humanos](https://www.coursera.org/learn/bienestar-equidad-derechos-humanos)
-- [Improvisación de Jazz](https://www.coursera.org/learn/improvisacion-de-jazz)
-- [Introducción a la Guitarra](https://www.coursera.org/learn/guitarra)
-- [Trabajar para ser Feliz](https://www.coursera.org/learn/familia-trabajo-sociedad)
+- [Arte Público y Pedagogía](https://www.coursera.org/learn/arte-publico-pedagogia){:target="_blank"}
+- Mindshift: [Transforma tu mente para superar obstáculos en el aprendizaje y descubrir tu potencial oculto](https://www.coursera.org/learn/mindshift-transforma-mente){:target="_blank"}
+- [Bienestar, Equidad y Derechos Humanos](https://www.coursera.org/learn/bienestar-equidad-derechos-humanos){:target="_blank"}
+- [Improvisación de Jazz](https://www.coursera.org/learn/improvisacion-de-jazz){:target="_blank"}
+- [Introducción a la Guitarra](https://www.coursera.org/learn/guitarra){:target="_blank"}
+- [Trabajar para ser Feliz](https://www.coursera.org/learn/familia-trabajo-sociedad){:target="_blank"}
 
 ## **Cursos de Salud Pública**
 
-- [Actúa ante el Dolor Crónico](https://www.coursera.org/learn/actua-dolor-cronico)
-- [Cuidado de heridas en el ámbito Hospitalario](https://www.coursera.org/learn/cuidado-heridas)
-- [Cuidados y procedimientos generales en la atención del recién nacido](https://www.coursera.org/learn/cuidados-del-recien-nacido)
-- [Diseño de Proyectos para Promover el Bienestar](https://www.coursera.org/learn/diseno-proyectos-promocion-bienestar)
-- [Sexualidad y Educación](https://www.coursera.org/learn/sexualidad-y-educacion)
-- [Sexualidad.. Mucho más que sexo](https://www.coursera.org/learn/sexualidad)
-- [La Solución del Conflicto Ético](https://www.coursera.org/learn/etica)
-- [Primeros Auxilios Psicológicos (Especial Covid 19)](https://www.coursera.org/learn/pap-covid19)
+- [Actúa ante el Dolor Crónico](https://www.coursera.org/learn/actua-dolor-cronico){:target="_blank"}
+- [Cuidado de heridas en el ámbito Hospitalario](https://www.coursera.org/learn/cuidado-heridas){:target="_blank"}
+- [Cuidados y procedimientos generales en la atención del recién nacido](https://www.coursera.org/learn/cuidados-del-recien-nacido){:target="_blank"}
+- [Diseño de Proyectos para Promover el Bienestar](https://www.coursera.org/learn/diseno-proyectos-promocion-bienestar){:target="_blank"}
+- [Sexualidad y Educación](https://www.coursera.org/learn/sexualidad-y-educacion){:target="_blank"}
+- [Sexualidad.. Mucho más que sexo](https://www.coursera.org/learn/sexualidad){:target="_blank"}
+- [La Solución del Conflicto Ético](https://www.coursera.org/learn/etica){:target="_blank"}
+- [Primeros Auxilios Psicológicos (Especial Covid 19)](https://www.coursera.org/learn/pap-covid19){:target="_blank"}
 
-**Fuente**\: [Blog de Coursera(https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/ "Blog de Coursera: Aprendizaje en línea gratuito durante el COVID-19") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
+**Fuente**\: [Blog de Coursera](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/ "Blog de Coursera: Aprendizaje en línea gratuito durante el COVID-19"){:target="_blank"} traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
 {: .notice--info}
 
 ### Relacionados
