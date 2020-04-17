@@ -30,6 +30,18 @@ sidebar:
 
 Esta es una galería de personajes, que podríamos definir como un Hall of Fame o Salón de la Fama de la Computación y la Informática, formada por todos los premiados como miembros del Museo Histórico de la Computadora.
 
+## Historia de los Premios
+
+Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas capaces de cambiar el mundo. Lo que les convierte en auténticos personajes históricos entre los más importantes por sus acontecimientos en el campo de la computación.
+
+<details>
+<summary>Saber Más Sobre los Premios Awards del Computer Museum</summary>
+<p>Los premios son parte de la visión del Museo de explorar la revolución informática y su impacto en la experiencia humana. La tradición comenzó en 1987 con la primera premiada; la pionera en programación: Grace Murray Hopper. En la actualidad, ya se ha convertido en un distinguido grupo de 60 miembros.</p>
+
+<p>Entre ellos poseen en común una misma herramienta, la computadora; y sus logros, van desde la computación de la propia computadora en sí misma hasta la creación de las redes, el hardware, el software, el almacenamiento, los lenguajes de programación, u otras tecnologías que hoy en día; afectan a casi todos los seres vivos.</p>
+</details>
+
+<!-- Saber Más: https://www.computerhistory.org/fellowawards/hall/ -->
 ## Personajes Históricos
 
 <details>
@@ -54,26 +66,13 @@ Esta es una galería de personajes, que podríamos definir como un Hall of Fame 
 <li>2002 \ Carver Mead, Charles Geschke, John Cocke, John Warnock</li>
 <li>2001 \ Frederick P. Brooks, <a href="/personajes-historicos/jean-sammet/">Jean Sammet</a>, Sir Maurice V. Wilkes</li>
 <li>2000 \ <a href="/personajes-historicos/frances-allen/">Frances Allen</a>, Tom Kilburn, Vinton Cerf</li>
-<li>1999 \ Alan Kay, John McCarthy, Konrad Zuse</li>
-<li>1998 \ Donald Knuth, Gene Amdahl, Gordon Moore, Steve Wozniak</li>
-<li>1997 \ Dennis Ritchie, John Backus, Ken Thompson</li>
-<li>1996 \ Ken Olsen, Mitch Kapor</li>
-<li>1995 \ Jay W. Forrester</li>
+<li>1999 \ <a href="/personajes-historicos/alan-kay/">Alan Kay</a>, <a href="/personajes-historicos/john-mccarthy/">John McCarthy</a>, <a href="/personajes-historicos/konrad-zuse/">Konrad Zuse</a></li>
+<li>1998 \ <a href="/personajes-historicos/donald-knuth/">Donald Knuth</a>, <a href="/personajes-historicos/gene-amdahl/">Gene Amdahl</a>, <a href="/personajes-historicos/gordon-moore/">Gordon Moore</a>, <a href="/personajes-historicos/steve-wozniak/">Steve Wozniak</a></li>
+<li>1997 \ <a href="/personajes-historicos/denis-ritchie/">Denis Ritchie</a>, <a href="/personajes-historicos/john-backus/">John Backus</a>, <a href="/personajes-historicos/ken-thompson/">Ken Thompson</a></li>
+<li>1996 \ <a href="/personajes-historicos/ken-olsen/">Ken Olsen</a>, <a href="/personajes-historicos/mitchell-kapor/">Mitchell Kapor</a></li>
+<li>1995 \ <a href="/personajes-historicos/jay-w-forrester/">Jay W. Forrester</a></li>
 <li>1985 \ <a href="/personajes-historicos/grace-murray-hopper/">Grace Murray Hopper</a></li>
 </ul>
 </details>
-
-## Historia de los Premios
-
-Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas capaces de cambiar el mundo. Lo que les convierte en auténticos personajes históricos entre los más importantes por sus acontecimientos en el campo de la computación.
-
-<details>
-<summary>Saber Más Sobre los Premios Awards del Computer Museum</summary>
-<p>Los premios son parte de la visión del Museo de explorar la revolución informática y su impacto en la experiencia humana. La tradición comenzó en 1987 con la primera premiada; la pionera en programación: Grace Murray Hopper. En la actualidad, ya se ha convertido en un distinguido grupo de 60 miembros.</p>
-
-<p>Entre ellos poseen en común una misma herramienta, la computadora; y sus logros, van desde la computación de la propia computadora en sí misma hasta la creación de las redes, el hardware, el software, el almacenamiento, los lenguajes de programación, u otras tecnologías que hoy en día; afectan a casi todos los seres vivos.</p>
-</details>
-
-<!-- Saber Más: https://www.computerhistory.org/fellowawards/hall/ -->
 
 ## 🔥 Biografías Agregadas Más Recientes.. 👇
