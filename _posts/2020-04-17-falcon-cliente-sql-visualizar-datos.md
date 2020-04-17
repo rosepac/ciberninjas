@@ -43,5 +43,5 @@ En la interfaz de Falcon; podrás configurar una conexión a sus bases de datos.
 [⏩ Descargar Falcon para MAC](https://github.com/plotly/falcon/releases/download/v4.1.0/mac-falcon-v4.1.0.zip "Descargar el Cliente SQL de Falcon para MAC"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 [⏩ Descargar Falcon para Linux](https://github.com/plotly/falcon/releases "Descargar el Cliente SQL de Falcon para Linux"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
-**Fuente**\: [Github del Proyecto](https://github.com/plotly/falcon "Página del código fuente del proyecto del cliente SQL Falcon en Github") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
+**Fuente**\: [Github del Proyecto](https://github.com/plotly/falcon "Página del código fuente del proyecto del cliente SQL Falcon en Github") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
 {: .notice--info}
