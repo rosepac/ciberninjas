@@ -3,3 +3,5 @@ Allow: /
 Sitemap: https://ciberninjas.com/sitemap.xml
 Disallow: /archivo/
 Disallow: /index-test/
+Disallow: /donb/*.*
+Disallow: /filósofos/*.*
