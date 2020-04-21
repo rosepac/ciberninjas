@@ -10,7 +10,7 @@ categories:
 - Software
 - Flujos de Trabajo
 header:
-  teaser: /assets/images/blog/sotware-stacks.webp
+  teaser: /assets/images/blog/software-stacks.webp
 title: '💼 ▷ Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux'
 description: >-
   Con este nuevo software, denominado Stacks y basado en la metodología kanban. Puedes administrar tus asuntos desde cualquier sistema operativo, de forma totalmente gratuita y sin ningún tipo de restricciones.
@@ -25,9 +25,9 @@ published: true
 
 ---
 
-![💼 ▷ Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux](/assets/images/blog/sotware-stacks.webp "Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux")
-
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+![💼 ▷ Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux](/assets/images/blog/software-stacks.webp "Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux")
+<!-- https://lifehacker.ru/stacks-alternativa-trello/ -->
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1](/black-friday-amazon/) >> [mejores regalos 2](/prime-day-amazon/)
 {: .notice--danger}
 
 Cuando escuchamos las palabras kanban y tableros, recordamos inmediatamente a la herramienta de trabajo Trello. Sin duda alguna, el servicio más popular de su tipología.
