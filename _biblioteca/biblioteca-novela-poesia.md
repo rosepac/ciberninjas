@@ -26,7 +26,7 @@ toc_sticky: true
 ## Bibliotecas Web
 
 * [Biblioteca Digital Hispánica](http://bdh.bne.es/bnesearch/Search.do?&destacadas1=Epub&home=true&languageView=es){:target="_blank"}
-* [Biblioteca Digital Mundial](http://bdh.bne.es/bnesearch/Search.do?&destacadas1=Epub&home=true&languageView=es){:target="_blank"} (+ 17.000 Documentos de la Historia. Gracias a Naciones Unidas)
+* [Biblioteca Digital Mundial](https://www.wdl.org/es/){:target="_blank"} (+ 17.000 Documentos de la Historia. Gracias a Naciones Unidas)
 * [Dominio Público](http://www.dominiopublico.es){:target="_blank"}
 * [EBiblio](https://www.culturaydeporte.gob.es/cultura/areas/bibliotecas/mc/eBiblio/inicio.html) Catálogo digital del Servicio Público de Bibliotecas de España.
 * [Gutenberg Proyecto, en Español](https://www.gutenberg.org/browse/languages/es)

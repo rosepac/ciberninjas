@@ -35,7 +35,7 @@ Sin embargo, para utilizar TeamViewer, necesitas descargarlo y para algunos es u
 Afortunadamente, Windows 10 tiene una herramienta incorporada llamada Asistencia Rápida. Que no es peor que TeamViewer y encima, es absolutamente gratuita y no tiene limitación ninguna dentro de sus funcionalidades.
 
 Por tanto, ya sabes, a partir de ahora cuando tus padres, familiares o amigos te ruegen que los ayudes a cualquier cosa tienes una nueva posibilidad.
-
+  
 ## **¿Qué debes hacer para ayudar con la asistencia rápida remota?**
 
 1. Haz Clic en el "Menú Inicio" con el botón izquierdo del ratón. Comienza a escribir la frase "Asistencia Rápida", luego abre el programa que te va aparecer seleccionado.
