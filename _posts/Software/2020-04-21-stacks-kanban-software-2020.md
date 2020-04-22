@@ -51,8 +51,6 @@ Las listas de verificación, un contador de progreso y el tiempo transcurrido, l
 
 [⏩ Probar STACKS](https://stacks.rocks/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
-[PROBAR STACKS]
-
 🔥 Seguro también te interesa: [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
 {: .notice--danger}
 
