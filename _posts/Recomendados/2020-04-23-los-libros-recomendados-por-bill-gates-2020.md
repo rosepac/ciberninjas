@@ -34,16 +34,16 @@ header:
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#1-un-matrimonio-americano-por-tayari-jones" title="Saber más sobre el libro Un matrimonio americano de Tayari Jones"><strong>1. Un matrimonio americano por Tayari Jones</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#2-estas-verdades-una-historia-de-eeuu" title="Saber más sobre el libro Estas Verdades: Una Historia de EEUU"><strong>2. Estas Verdades: Una Historia de EEUU</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#3-crecimiento-por-vaclav-smil" title="Saber más sobre el libro Crecimiento por Vaclav Smil"><strong>3. Crecimiento por Vaclav Smil</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#4-preparado-por-diane-tavenner" title="Saber más sobre el libro Preparado por Diane Tavenner"><strong>4. Preparado por Diane Tavenner</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#5-por-qué-dormimos-matthew-walker" title="Saber más sobre el libro ¿Por qué dormimos? por Matthew Walker"><strong>5. ¿Por qué dormimos? por Matthew Walker</strong></a></li>
+    <li><a href="/los-mejores-libros-bill-gates-dia-del-libro-2020/#1-un-matrimonio-americano-por-tayari-jones" title="Saber más sobre el libro Un matrimonio americano de Tayari Jones"><strong>1. Un matrimonio americano por Tayari Jones</strong></a></li>
+    <li><a href="/los-mejores-libros-bill-gates-dia-del-libro-2020/#2-estas-verdades-una-historia-de-eeuu" title="Saber más sobre el libro Estas Verdades: Una Historia de EEUU"><strong>2. Estas Verdades: Una Historia de EEUU</strong></a></li>
+    <li><a href="/los-mejores-libros-bill-gates-dia-del-libro-2020/#3-crecimiento-por-vaclav-smil" title="Saber más sobre el libro Crecimiento por Vaclav Smil"><strong>3. Crecimiento por Vaclav Smil</strong></a></li>
+    <li><a href="/los-mejores-libros-bill-gates-dia-del-libro-2020/#4-preparado-por-diane-tavenner" title="Saber más sobre el libro Preparado por Diane Tavenner"><strong>4. Preparado por Diane Tavenner</strong></a></li>
+    <li><a href="/los-mejores-libros-bill-gates-dia-del-libro-2020/#5-por-qué-dormimos-matthew-walker" title="Saber más sobre el libro ¿Por qué dormimos? por Matthew Walker"><strong>5. ¿Por qué dormimos? por Matthew Walker</strong></a></li>
   </ol>
 </nav>
 </details>
 
-**🔥 Libros Recomendados Por..**: Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"} >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
+**🔥 Libros Recomendados Por..**: Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"} >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}
 
 ## **[1. Un matrimonio americano por Tayari Jones](https://amzn.to/2UNvZY4){:target="_blank"}**
@@ -55,7 +55,7 @@ Roy es arrestado y sentenciado a doce años por un crimen que Celestial sabe que
 Esta emocionante historia de amor es una mirada profundamente perspicaz a los corazones y las mentes de tres personas que están a la vez unidas y separadas por fuerzas más allá de su control. Un matrimonio estadounidense es una obra maestra de la narración de historias, una mirada íntima a las almas de las personas que deben contar con el pasado mientras avanzan, con esperanza y dolor, hacia el futuro.
 
 > Mi hija Jenn me recomendó que leyera esta novela, que cuenta la historia de una pareja de negros en el sur cuyo matrimonio se desgarra por un horrible incidente de injusticia. Jones es tan buena escritora que logra hacerte sentir empatía con sus dos personajes principales, incluso después de que uno toma una decisión difícil. El tema es pesado pero estimulante, y me absorbió la trágica historia de amor de Roy y Celestial.
-
+>
 > Bill Gates
 
 <details>
@@ -78,7 +78,7 @@ Estas verdadescuenta esta historia exclusivamente estadounidense, que comenzó e
 "Una nación nacida en contradicción ... luchará, para siempre, por el significado de su historia", escribe Lepore, pero participar en esa lucha al estudiar el pasado es parte del trabajo de la ciudadanía. Con estas verdades , Lepore ha producido un libro que dará forma a nuestra visión de la historia estadounidense en las próximas décadas.
 
 > Lepore ha logrado lo aparentemente imposible en su último libro: cubriendo toda la historia de los Estados Unidos en solo 800 páginas. Ella ha tomado una decisión deliberada para hacer que los diversos puntos de vista sean centrales en la narrativa, y el resultado es el relato más honesto e inquebrantable de la historia estadounidense que he leído. Incluso si ha leído mucho sobre la historia de los Estados Unidos, estoy seguro de que aprenderá algo nuevo de estas verdades .
-
+>
 > Bill Gates
 
 <details>
@@ -103,7 +103,7 @@ Examina el crecimiento de las conversiones de energía y los objetos hechos por 
 Considera los desafíos de rastrear el crecimiento de imperios y civilizaciones, explicando que podemos trazar el crecimiento de los organismos a través del tiempo individual y evolutivo, pero que el progreso de las sociedades y economías, no tan lineal, abarca tanto el declive como la renovación. Smil nos dice que la trayectoria de la civilización moderna, impulsada por imperativos competitivos de crecimiento material y límites biosféricos, sigue siendo incierta.
 
 > Cuando escuché por primera vez que uno de mis autores favoritos estaba trabajando en un nuevo libro sobre crecimiento, no podía esperar para tenerlo en mis manos. (Hace dos años, escribí que esperaba nuevos libros de Smil de la misma manera que algunas personas esperan la próxima película de ***La Guerra de las Galaxias***. Respaldo esa afirmación. Lo último no decepciono y como siempre, no estoy de acuerdo con todo lo que dice Smil, pero sigue siendo uno de los mejores pensadores para documentar el pasado y ver el panorama general.
-
+>
 > Bill Gates
 
 <details>
@@ -123,7 +123,7 @@ Diane Tavenner fundó la primera escuela autónoma de Summit en 2003, desarrolla
 Hoy, Tavenner y las Escuelas Públicas de Summit se están asociando con 400 escuelas públicas, en 40 estados, y más de 3500 maestros y 80,000 estudiantes, para llevar el Programa de Aprendizaje Summit y las prácticas de enseñanza a los sistemas escolares en todas partes. Con el generoso apoyo de Priscilla Chan y la organización sin fines de lucro de Mark Zuckerberg, que llama a Summit "el futuro de la educación", y más de cien millones de dólares en contribuciones de la Fundación Gates, Summit está revolucionando la educación de nuestros hijos.
 
 > Como cualquier padre sabe, preparar a sus hijos para la vida después de la escuela secundaria es un viaje largo y a veces difícil. Tavenner, que creó una red de algunas de las mejores escuelas de la nación, ha elaborado una guía útil sobre cómo hacer que el proceso sea lo más fluido y fructífero posible. En el camino, comparte lo que aprendió sobre enseñar a los niños no solo lo que necesitan para ingresar a la universidad, sino también cómo vivir una buena vida.
-
+>
 > Bill Gates
 
 <details>
@@ -145,7 +145,7 @@ Una explosión de descubrimientos científicos en los últimos veinte años ha a
 Walker responde preguntas importantes sobre el sueño: ¿cómo afectan la cafeína y el alcohol al sueño? ¿Qué sucede realmente durante el sueño REM? ¿Por qué cambian nuestros patrones de sueño a lo largo de la vida? ¿Cómo nos afectan las ayudas comunes para dormir y pueden causar daños a largo plazo? Trazando avances científicos de vanguardia y sintetizando décadas de investigación y práctica clínica, Walker explica cómo podemos aprovechar el sueño para mejorar el aprendizaje, el estado de ánimo y los niveles de energía; regular las hormonas; prevenir el cáncer, el Alzheimer y la diabetes; retardar los efectos del envejecimiento; aumentar la longevidad; Mejorar la educación y la vida útil de nuestros hijos, y aumentar la eficiencia, el éxito y la productividad de nuestros negocios. Con los ojos claros, fascinante y accesible, Why We Sleep es un libro crucial e esclarecedor.
 
 > Leí un par de grandes libros este año sobre el comportamiento humano, y este fue uno de los más interesantes y profundos. Tanto Jenn como John Doerr me instaron a leerlo, y me alegro de haberlo hecho. Todos saben que una buena noche de sueño es importante, pero ¿qué cuenta exactamente como una buena noche de sueño? ¿Y cómo haces que ocurra uno? Walker me ha persuadido de cambiar mis hábitos a la hora de dormir para aumentar mis posibilidades. Si su resolución de Año Nuevo es ser más saludable en 2020, su consejo es un buen lugar para comenzar.
-
+>
 > Bill Gates
 
 <details>

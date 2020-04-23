@@ -59,34 +59,12 @@ A continuación se presentan sus tres opciones principales, basadas en sus entre
 **🔥 Libros Recomendados Por..**: [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"} >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}
 
-## [El Pasillo Estrecho](https://amzn.to/2wYy0av){:target="_blank"}
-
-El Pasillo Estrecho: Estados, Sociedades Y Cómo Alcanzar La Libertad.
-
-Como señala Quartz , los autores de este libro, un economista del MIT y un politólogo de la Universidad de Chicago, entraron en un debate con Bill Gates sobre qué causa exactamente que algunos países tengan buenas condiciones de vida y otros luchen (Gates enfatizó la geografía y la cultura , mientras que los autores señalaron a las instituciones). Pero aparentemente Sadella es más fanática de Daron Acemoglu y James Robinson que de su antiguo jefe. En Davos, llamó a The Narrow Corridor  "un libro fantástico".
-
-"Se trata [de] la tensión real y constante entre lo que quiere una sociedad y ... lo que quiere el gobierno ... y hay que encontrar el estrecho corredor", dijo en respuesta a una pregunta sobre el pago del CEO. "De manera similar, creo que entre los mercados, las democracias y los valores liberales, tenemos que encontrar el corredor que funcione, donde no haya nada fuera de lugar". 
-
-> "CITA"
-
-> citador
-
-<details>
-<summary>Saber Más</summary>
-<br/>
-<p>De los autores del éxito de ventas internacional Why Nations Fail , un nuevo marco crucial que responde a la pregunta de cómo florece la libertad en algunos estados pero cae en el autoritarismo o la anarquía en otros, y explica cómo puede seguir prosperando a pesar de las nuevas amenazas .</p>
-<p>En Why Nations Fail , Daron Acemoglu y James A. Robinson argumentaron que los países se alzan y caen no por cultura, geografía u oportunidad, sino por el poder de sus instituciones. En su nuevo libro, construyen una nueva teoría sobre la libertad y cómo lograrla, obteniendo una gran cantidad de evidencia tanto de los asuntos actuales como de hilos dispares de la historia mundial.</p>
-<p>La libertad no es el orden "natural" de las cosas. En la mayoría de los lugares y en la mayoría de los casos, los fuertes han dominado a los débiles y la libertad humana ha sido anulada por la fuerza o por costumbres y normas. O los estados han sido demasiado débiles para proteger a las personas de estas amenazas, o los estados han sido demasiado fuertes para que las personas se protejan del despotismo. La libertad surge solo cuando se logra un equilibrio delicado y precario entre el estado y la sociedad.</p>
-<p>Existe un mito occidental de que la libertad política es una construcción duradera, a la que se llega mediante un proceso de "iluminación". Esta visión estática es una fantasía, argumentan los autores. En realidad, el corredor hacia la libertad es estrecho y permanece abierto solo a través de una lucha fundamental e incesante entre el estado y la sociedad: los autores miran al Movimiento de Derechos Civiles de América, la historia temprana y reciente de Europa, la civilización zapoteca alrededor del año 500 a. C. y los esfuerzos de Lagos para erradicar la corrupción e instituir la responsabilidad del gobierno para ilustrar lo que se necesita para llegar y permanecer en el corredor. Pero también examinan la historia imperial china, el colonialismo en el Pacífico, el sistema de castas de la India, la sofocante jaula de normas de Arabia Saudita y el "Leviatán de papel".</p>
-<p>Hoy nos encontramos en un momento de desestabilización desgarradora. Necesitamos la libertad más que nunca y, sin embargo, el corredor hacia la libertad se está volviendo más estrecho y traicionero. El peligro en el horizonte no es "solo" la pérdida de nuestra libertad política, sino lo sombrío que es en sí mismo; También es la desintegración de la prosperidad y la seguridad lo que depende fundamentalmente de la libertad. Lo opuesto al corredor de la libertad es el camino a la ruina. (Menos)</p>
-</details>  
-
-## [Comunicación no violenta por Marshall Rosenberg](https://amzn.to/3cFsFUW){:target="_blank"}
+## [1. Comunicación no violenta por Marshall Rosenberg](https://amzn.to/3cFsFUW){:target="_blank"}
 
 Cuando Nadella fue nombrado CEO de Microsoft en 2014, hizo de la Comunicación No Violenta una prioridad, exigiendo a sus altos ejecutivos que lean este libro escrito por el psicólogo estadounidense Marshall Rosenberg. El libro enfatiza la importancia de las cualidades emocionales no violentas, como la compasión y la comunicación efectiva, en la gestión de una gran organización. Asignar el libro a los altos ejecutivos de Microsoft fue visto como un componente clave del plan de Nadella para revisar la cultura intensa y conflictiva de Microsoft en ese momento.
 
 > "CITA"
-
+>
 > citador
 
 <details>
@@ -97,7 +75,7 @@ Cuando Nadella fue nombrado CEO de Microsoft en 2014, hizo de la Comunicación N
 <p>Más de 150,000 copias vendidas y ahora disponibles en 20 idiomas en todo el mundo. Más de 250,000 personas cada año de todos los ámbitos de la vida están aprendiendo estas habilidades que cambian la vida.   </p>
 </details>
 
-## **[Mentalidad de Carol Dweck](https://amzn.to/2XYuV5s){:target="_blank"}**
+## **[2. Mentalidad de Carol Dweck](https://amzn.to/2XYuV5s){:target="_blank"}**
 
 La mentalidad de la psicóloga de Stanford Carol Dweck es mejor conocida por introducir la teoría de "mentalidad fija versus mentalidad de crecimiento" en el círculo de gestión.
 
@@ -108,8 +86,8 @@ El libro también es uno de los favoritos de Bill Gates. "A través de estudios 
 1º Davos* estuvo lejos de ser la primera vez que Nadella elogió este libro de la psicóloga de Stanford Carol Dweck, famosa por su trabajo en la mentalidad de crecimiento . De hecho, como informó mi colega de Inc.com, Justin Bariso, anteriormente le dio crédito a Mindset por inspirar el cambio de Microsoft . Era igualmente efusivo en Davos.  
 
 > "Diría que cualquier cambio que hayamos podido lograr es porque el meme cultural que elegimos fue inspirado por Carol Dweck y su trabajo en torno a la mentalidad de crecimiento", enfatizó. Ser "lo suficientemente vulnerable como para decir 'No soy perfecto, nunca seré perfecto, pero puedo aprender', es una buena postura tener, tener una cultura viva que esté constantemente al día con nuestras propias aspiraciones".
-
-> citador
+>
+> Satya Nadella
 
 <details>
 <summary>Saber Más</summary>
@@ -118,12 +96,12 @@ El libro también es uno de los favoritos de Bill Gates. "A través de estudios 
 <p>En esta edición, Dweck ofrece nuevos conocimientos sobre su concepto ahora famoso y ampliamente aceptado. Ella presenta un fenómeno que llama mentalidad de falso crecimiento y guía a las personas hacia la adopción de una mentalidad de crecimiento más profunda y verdadera. También expande el concepto de mentalidad más allá del individuo, aplicándolo a las culturas de grupos y organizaciones. Con la mentalidad correcta, puede motivar a quienes dirige, enseña y ama, para transformar sus vidas y las suyas.</p>
 </details>
 
-## [Oprime Refrescar por Satya Nadella](https://amzn.to/3axJTls){:target="_blank"}
+## [3. Oprime Refrescar de Satya Nadella](https://amzn.to/3axJTls){:target="_blank"}
 
 Nadella no es del tipo que toca su propia bocina , y de hecho fue Schwab, no Nadella, quien mencionó Hit Refresh , la memoria que Nadella escribió tres años después de su mandato como CEO de Microsoft. Schwab hacía referencia a lo que Nadella escribió sobre las tendencias tecnológicas; Nuestro crítico encontró que el libro era más convincente en las secciones más personales, donde el ejecutivo escribió sobre su educación india, su inmigración a los Estados Unidos y su ascenso en las filas de Microsoft.
 
 > "CITA"
-
+>
 > citador
 
 <details>
@@ -134,14 +112,14 @@ Nadella no es del tipo que toca su propia bocina , y de hecho fue Schwab, no Nad
 <p></p>
 </details>
 
-## [Dando Forma a La Cuarta Revolución Industrial de Klaus Schwab y Nicholas David](https://amzn.to/2RZZ1Sc){:target="_blank"}
+## [4. Dando Forma a La Cuarta Revolución Industrial de Klaus Schwab y Nicholas David](https://amzn.to/2RZZ1Sc){:target="_blank"}
 
 No está en español actualmente. Su libro anterior, si que podemos encontrarlo traducido: [La Cuarta Revolución Industrial](https://amzn.to/2VrtUBg){:target="_blank"} vista desde el punto de vista económico.
 
 Después de que Schwab mencionara Hit Refresh, era justo que Nadella hiciera referencia a una de las obras recientes de Schwab. Shaping the Future of the Fourth Industrial Revolution fue escrito con Nicholas Davis. Estamos bastante seguros de que Nadella lo leyó, considerando que él escribió el prólogo.
 
 > "CITA"
-
+>
 > citador
 
 <details>
@@ -154,7 +132,7 @@ Después de que Schwab mencionara Hit Refresh, era justo que Nadella hiciera ref
 <p>Al conectar los puntos a través de las tecnologías más importantes que están cambiando el mundo hoy en día, y explorar los pasos prácticos que las personas, las empresas y los gobiernos pueden tomar, este libro tiene como objetivo ayudar a todos los interesados ​​en la tecnología a formar activamente un futuro inclusivo y sostenible.</p>
 </details>
 
-## **[Cuatro Cuartetos de TS Eliot](https://amzn.to/2VIu5a4){:target="_blank"}**
+## **[5. Cuatro Cuartetos de TS Eliot](https://amzn.to/2VIu5a4){:target="_blank"}**
 
 En una conferencia de prensa en marzo de 2014, uno de sus primeros como CEO de Microsoft, Nadella citó una línea de Little Gidding , un poema de TS Eliot, para aclarar que Microsoft todavía tenía mucho que explorar, a pesar de que había trabajado en la empresa por 22 años.
 
@@ -167,7 +145,7 @@ Otro analisis:
 -->
 
 > "CITA"
-
+>
 > citador
 
 <details>
@@ -176,21 +154,17 @@ Otro analisis:
 <p>Los cuatro cuartetos es una serie de cuatro poemas de TS Eliot, publicados individualmente de 1936 a 1942, y en forma de libro en 1943; el propio Eliot lo consideró su mejor trabajo. Cada uno de los cuartetos tiene cinco "movimientos" y cada uno está titulado por un nombre de lugar: BURNT NORTON (1936), EAST COKER (1940), THE DRY SALVAGES (1941) y LITTLE GIDDING (1942). Las ideas de Eliot sobre la naturaleza cíclica de la vida se revelan a través de temas e imágenes tejidas a lo largo de los cuatro poemas. Los temas espirituales, filosóficos y personales surgen a través de alusiones simbólicas y referencias literarias y religiosas del pensamiento oriental y occidental. El trabajo aborda las conexiones del presente y el pasado personales e históricos, la renovación espiritual y la naturaleza misma de la experiencia; se considera el poeta La exposición más clara de sus creencias cristianas. (La Enciclopedia de Literatura Merriam-Webster)</p>
 </details>
 
-## [Prosperidad de Colin Mayer](https://amzn.to/3anWLe0){:target="_blank"}
+## [6. Prosperidad de Colin Mayer](https://amzn.to/3anWLe0){:target="_blank"}
 
 Aún no se ha traducido al español.
 
-Cuando Schwab le preguntó a Nadella qué pensaba sobre cómo las empresas pueden "hacer el bien y hacer el bien al mismo tiempo", Nadella inmediatamente buscó en los libros para enmarcar su respuesta, señalando que "el año pasado, tal vez hubo más libros escritos sobre el capitalismo y cómo el capitalismo necesita ser redefinido como nunca antes ".
+Cuando  le preguntaron a Nadella qué pensaba sobre cómo las empresas pueden "hacer el bien y hacer el mal al mismo tiempo", Nadella inmediatamente buscó en los libros para enmarcar su respuesta, señalando que "el año pasado, tal vez hubo más libros escritos sobre el capitalismo y cómo el capitalismo necesita ser redefinido como nunca antes".
 
-Uno de ellos, Prosperity , del economista de Oxford Colin Mayer, ofrece una definición del propósito social de las empresas que a Nadella le gustan particularmente: "Una corporación encuentra soluciones rentables para los desafíos de las personas y el planeta".
+Uno de ellos, era Prosperidad, del economista de Oxford Colin Mayer, el que ofrece una definición del propósito social de las empresas que a Nadella le gusta particularmente: 
 
-"La palabra clave es 'rentable', porque sabemos que el capitalismo tiene la capacidad de asignar recursos de la manera más eficiente", explicó. "Pero la otra palabra clave es 'los desafíos de las personas y el planeta'. No se trata de crear más desafíos para las personas y el planeta, sino para tener soluciones reales a los problemas ". 
+"Una corporación encuentra soluciones rentables para los desafíos de las personas y el planeta". "La palabra clave es "rentable, porque sabemos que el capitalismo tiene la capacidad de asignar recursos de la manera más eficiente", explicó. "Pero la otra palabra clave es 'los desafíos de las personas y el planeta'. No se trata de crear más desafíos para las personas y el planeta, sino para encontrar soluciones reales a los problemas ya existentes". 
 
-El objetivo es configurar las cosas para que "cuando lo haces bien, el mundo que te rodea lo haga bien". El bien social no puede ser una curita, concluye Nadella. 
-
-> "CITA"
-
-> citador
+El objetivo es configurar las cosas para que "cuando lo haces bien, el mundo que te rodea lo haga bien". El bien social no puede ser una curita, concluye Nadella.
 
 <details>
 <summary>Saber Más</summary>
@@ -201,17 +175,41 @@ El objetivo es configurar las cosas para que "cuando lo haces bien, el mundo que
 <p>La prosperidad es tanto una discusión sobre cómo crear y administrar negocios exitosos como una guía para la formulación de políticas para reparar el sistema roto.</p>
 </details>
 
-## [Remando como un solo hombre por Daniel James Brown](https://amzn.to/2Kt9MZf){:target="_blank"}
+## [7. El Pasillo Estrecho de Daron Acemoglu y James A. Robinson](https://amzn.to/2wYy0av){:target="_blank"}
 
-El enfoque de escritura de Daniel James Brown es «dar vida a eventos históricos convincentes», lo que se esfuerza por hacer en este libro. Trabajó en Microsoft durante más de una década y ha enseñado escritura en la Universidad de Stanford y San José.
+El Pasillo Estrecho: Estados, Sociedades Y Cómo Alcanzar La Libertad.
 
-Nadella se refirió a este libro en un correo electrónico acerca de los cambios de liderazgo sénior al principio de su tiempo como CEO. Se refiere específicamente a una descripción dentro del libro sobre el «swing» del bote, o el ritmo raramente encontrado donde el movimiento de todo el equipo de la tripulación está en sincronía.
+Los autores de este libro, un economista del MIT y un politólogo de la Universidad de Chicago, entraron en un debate con Bill Gates sobre qué causa exactamente que algunos países tengan buenas condiciones de vida y otros luchen (Gates enfatizó la geografía y la cultura, mientras que los autores señalaron a las instituciones)
+
+"Se trata de la tensión real y constante entre lo que quiere una sociedad y ... lo que quiere el gobierno ... y hay que encontrar el estrecho corredor", respondieron a una pregunta de Bill Gates. "De manera similar, creo que entre los mercados, las democracias y los valores liberales, tenemos que encontrar el corredor que funcione, donde no haya nada fuera de lugar" han expresado los autores.
+
+Por lo contrario, Satya Nadella, preguntado por su opinión sobre la obra en el Foro de Davos; respondió lo siguiente..
+
+> "Un libro fantástico".
+>
+> Satya Nadella
+
+<details>
+<summary>Saber Más</summary>
+<br/>
+<p>De los autores del éxito de ventas internacional Why Nations Fail , un nuevo marco crucial que responde a la pregunta de cómo florece la libertad en algunos estados pero cae en el autoritarismo o la anarquía en otros, y explica cómo puede seguir prosperando a pesar de las nuevas amenazas .</p>
+<p>En Why Nations Fail , Daron Acemoglu y James A. Robinson argumentaron que los países se alzan y caen no por cultura, geografía u oportunidad, sino por el poder de sus instituciones. En su nuevo libro, construyen una nueva teoría sobre la libertad y cómo lograrla, obteniendo una gran cantidad de evidencia tanto de los asuntos actuales como de hilos dispares de la historia mundial.</p>
+<p>La libertad no es el orden "natural" de las cosas. En la mayoría de los lugares y en la mayoría de los casos, los fuertes han dominado a los débiles y la libertad humana ha sido anulada por la fuerza o por costumbres y normas. O los estados han sido demasiado débiles para proteger a las personas de estas amenazas, o los estados han sido demasiado fuertes para que las personas se protejan del despotismo. La libertad surge solo cuando se logra un equilibrio delicado y precario entre el estado y la sociedad.</p>
+<p>Existe un mito occidental de que la libertad política es una construcción duradera, a la que se llega mediante un proceso de "iluminación". Esta visión estática es una fantasía, argumentan los autores. En realidad, el corredor hacia la libertad es estrecho y permanece abierto solo a través de una lucha fundamental e incesante entre el estado y la sociedad: los autores miran al Movimiento de Derechos Civiles de América, la historia temprana y reciente de Europa, la civilización zapoteca alrededor del año 500 a. C. y los esfuerzos de Lagos para erradicar la corrupción e instituir la responsabilidad del gobierno para ilustrar lo que se necesita para llegar y permanecer en el corredor. Pero también examinan la historia imperial china, el colonialismo en el Pacífico, el sistema de castas de la India, la sofocante jaula de normas de Arabia Saudita y el "Leviatán de papel".</p>
+<p>Hoy nos encontramos en un momento de desestabilización desgarradora. Necesitamos la libertad más que nunca y, sin embargo, el corredor hacia la libertad se está volviendo más estrecho y traicionero. El peligro en el horizonte no es "solo" la pérdida de nuestra libertad política, sino lo sombrío que es en sí mismo; También es la desintegración de la prosperidad y la seguridad lo que depende fundamentalmente de la libertad. Lo opuesto al corredor de la libertad es el camino a la ruina. (Menos)</p>
+</details>  
+
+## [8. Remando como un solo hombre por Daniel James Brown](https://amzn.to/2Kt9MZf){:target="_blank"}
+
+El enfoque de escritura de Daniel James Brown es "dar vida a eventos históricos convincentes" y eso es, exactamente lo que se esfuerza por hacer en este libro; trabajó en Microsoft durante más de una década y ha enseñado escritura en la Universidad de Stanford y San José.
+
+Nadella se refirió a este libro en un correo electrónico acerca de los cambios de liderazgo sénior al principio de su tiempo como CEO. Refiriéndose específicamente a una descripción dentro del libro sobre el «swing» del bote, o el ritmo raramente encontrado donde el movimiento de todo el equipo de la tripulación estaba en sincronía.
 
 «Como empresa, como equipo de liderazgo, como individuos, ese es nuestro objetivo: encontrar nuestro swing», Nadella escribió . «Como SLT y en toda la empresa, estamos en camino».
 
-> "CITA"
-
-> citador
+> "Como empresa, como equipo de liderazgo, como individuos, ese es nuestro objetivo: encontrar nuestro swing".
+>
+> Satya Nadella
 
 <details>
 <summary>Saber Más</summary>
@@ -222,51 +220,26 @@ Nadella se refirió a este libro en un correo electrónico acerca de los cambios
 <p>Basándose en los diarios y diarios de los niños, sus fotos y recuerdos de un sueño compartido único en la vida, The Boys in the Boat es una historia irresistible sobre cómo vencer las dificultades y encontrar la esperanza en los momentos más desesperados: historia íntima e improbable de nueve niños de clase trabajadora del oeste americano que, en las profundidades de la Gran Depresión, le mostraron al mundo lo que realmente significaba la verdadera determinación. Será de interés para los lectores de Erik Larson, Timothy Egan, James Bradley y The Amateurs de David Halberstam.</p>
 </details>
 
-## [El libro de los tres» de Lloyd Alexander](https://amzn.to/2RZ9r4E){:target="_blank"}
+## [9. Guía de un Astronauta para Vivir en la tierra de Chris Hadfield](https://amzn.to/3bxFUa0){:target="_blank"}
 
-Nadella no ha recomendado por completo esta novela de fantasía para niños tanto como lo ha hecho citado de él: del Capítulo Uno, para ser específicos.
-
-Es de una escena en la que el protagonista, Taran, expresa su frustración por su posición como asistente de cuidador de cerdos. Él quiere ser como el príncipe, pero el sabio mago Dallben dice que esto está «completamente fuera de discusión». Cuando Taran pregunta por qué, Dallben dice, » aprendemos más buscando la respuesta a una pregunta y no la encontramos de lo que hacemos al aprender la respuesta misma «.
-
-Lloyd Alexander escribió esto en el primer libro, «El libro de los tres», en la galardonada serie «Las crónicas de Prydain». Él escribió más de 40 libros de fantasía durante su vida.
-
-Los [Cuatro tomso de las crónicas en español](https://amzn.to/3asnOF6), ahora mismo son libros practicamente de colección, por lo que su precio es elevadísimo.
-
-> "CITA"
-
-> citador
-
-<details>
-<summary>Saber Más</summary>
-<br/>
-<p></p>
-<p></p>
-<p></p>
-</details>
-
-## [](){:target="_blank"}
-
-CONTENIDO
-
-> "CITA"
-
-> citador
-
-<details>
-<summary>Saber Más</summary>
-<br/>
-<p></p>
-<p></p>
-<p></p>
-</details>
-
-<!-- Una guía del astronauta para la vida en la tierra» por el coronel Chris Hadfield. 
 El astronauta coronel Chris Hadfield ha pasado más de 4.000 horas en el espacio y ha dedicado miles de horas más de entrenamiento para llegar allí. Su libro más vendido ofrece a los lectores una visión espacial de las aventuras de Hadfield y puede cambiar la forma en que piensan sobre sus vidas en la tierra.
 
-Nadella tuiteó una cita de este libro, «Concéntrese en el viaje, no al llegar a cierto destino «, junto con» ¡Gran lectura! »
--->
+> "Concéntrese en el viaje, no al llegar a cierto destino" . "Gran lectura".
+>
+> Satya Nadella
 
-## [](){:target="_blank"}
+<details>
+<summary>Saber Más</summary>
+<br/>
+<p>El secreto del éxito y la supervivencia del coronel Hadfield es una filosofía poco convencional que aprendió en la NASA: prepárese para lo peor y disfrute cada momento .</p>
+<p>En la guía de un astronauta sobre la vida en la tierra, El Coronel Hadfield lleva a los lectores a lo profundo de sus años de entrenamiento y exploración espacial para mostrar cómo hacer posible lo imposible.</p>
+<p>A través de historias entretenidas y reveladoras llenas de la adrenalina del lanzamiento, la fascinante maravilla de las caminatas espaciales y las respuestas medidas y tranquilas ordenadas por las crisis, explica cómo la sabiduría convencional puede interponerse en el camino del logro y la felicidad.</p>
+<p>Su propia educación extraordinaria en el espacio le ha enseñado algunas lecciones contrarias a la intuición: no visualice el éxito, cuide lo que piensan los demás y sude siempre las cosas pequeñas</p>
+<p>Es posible que nunca pueda construir un robot, pilotear una nave espacial, hacer un video musical o realizar una cirugía básica en gravedad cero como el Coronel Hadfield.</p>
+<p>Pero sus ideas vívidas y refrescantes te enseñarán a pensarcomo un astronauta, y cambiará por completo la forma en que ves la vida en la Tierra, especialmente la tuya.</p>
+</details>
+
+## 10. [La gran convergencia» de Richard Baldwin](){:target="_blank"}
 
 CONTENIDO
 
@@ -292,7 +265,7 @@ Baldwin obtuvo su doctorado en el MIT bajo la guía del ganador del Premio Nobel
 Nadella ve similitudes entre las ideas de este libro y la tecnología, como los auriculares HoloLens de Microsoft, que permiten compartir ideas y colaborar independientemente de la distancia geográfica.
 -->
 
-## [](){:target="_blank"}
+## [11. La gran transformación» de Karl Polanyi](){:target="_blank"}
 
 CONTENIDO
 
@@ -308,14 +281,13 @@ CONTENIDO
 <p></p>
 </details>
 <!-- 
-La gran transformación» de Karl Polanyi
-Amazonas
+
 Por Fast Company, el padre de Nadella le recomendó este libro de 1944 «hace mucho tiempo». El libro adopta la postura de que la sociedad debería impulsar el cambio económico y analiza el progreso de la economía de mercado de Inglaterra.
 
 Polanyi fue un economista político húngaro-estadounidense que propuso la idea de sustantivismo con este libro. La idea aplica la cultura a la teoría económica para llegar a un doble significado de la palabra «economía»: la primera es la definición formal de la economía como las elecciones que se toman considerando la escasez, y la segunda es cómo las personas satisfacen sus necesidades materiales al interactuar con Los mundos social y físico.
 -->
 
-## [](){:target="_blank"}
+## [12. El ascenso y la caída del crecimiento estadounidense de Robert J. Gordon](){:target="_blank"}
 
 CONTENIDO
 
@@ -331,8 +303,7 @@ CONTENIDO
 <p></p>
 </details>
 <!--
-El ascenso y la caída del crecimiento estadounidense» de Robert J. Gordon
-Prensa de la universidad de Princeton
+
 El autor Robert Gordon es profesor de ciencias sociales en la Universidad Northwestern y un pensador influyente de Bloomberg de 2016. Este libro recibió varios reconocimientos e hizo la lista de bestsellers del New York Times.
 
 Nadella relató el libro en un discurso en la conferencia de desarrolladores Build 2018 de la compañía:
@@ -346,7 +317,7 @@ Gordon argumenta que la revolución digital en curso es, de hecho, mucho menos p
 Pero, como Paul Krugman señaló en su review , tal vez la tecnología transformadora está nuevamente a la vuelta de la esquina, como con la inteligencia artificial o, más desde el punto de vista de Nadella, la computación en la nube.
 -->
 
-## [](){:target="_blank"}
+## [13. Aprendizaje Profundo de Ian Goodfellow, Yoshua Bengio y Aaron Courville](){:target="_blank"}
 
 CONTENIDO
 
@@ -362,8 +333,7 @@ CONTENIDO
 <p></p>
 </details>
 <!--
-Aprendizaje profundo» de Ian Goodfellow, Yoshua Bengio y Aaron Courville
-The MIT Press
+
 Este es un libro de texto sobre una de las tecnologías más importantes de nuestro tiempo, escrito por figuras formativas en el campo.
 
 El coautor Yoshua Bengio se convirtió en asesor de Microsoft después de la publicación de este libro, y con razón: él y sus coautores son pioneros en el creciente campo del aprendizaje automático.
@@ -374,6 +344,28 @@ Aaron Courville es profesor asistente en el Departamento de Ciencias de la Compu
 
 Elon Musk y el jefe de AI de Facebook, Yann LeCun, también dijeron cosas buenas sobre este libro de texto.
 -->
+
+## [14. El libro de los tres de Lloyd Alexander](https://amzn.to/2RZ9r4E){:target="_blank"}
+
+Nadella no ha recomendado por completo esta novela de fantasía para niños tanto como lo ha hecho citado de él: del Capítulo Uno, para ser específicos.
+
+Es de una escena en la que el protagonista, Taran, expresa su frustración por su posición como asistente de cuidador de cerdos. Él quiere ser como el príncipe, pero el sabio mago Dallben dice que esto está «completamente fuera de discusión». Cuando Taran pregunta por qué, Dallben dice, » aprendemos más buscando la respuesta a una pregunta y no la encontramos de lo que hacemos al aprender la respuesta misma «.
+
+Lloyd Alexander escribió esto en el primer libro, «El libro de los tres», en la galardonada serie «Las crónicas de Prydain». Él escribió más de 40 libros de fantasía durante su vida.
+
+Los [Cuatro tomos de las crónicas en español](https://amzn.to/3asnOF6), ahora mismo son libros practicamente de colección, por lo que su precio es elevadísimo.
+
+> "CITA"
+
+> citador
+
+<details>
+<summary>Saber Más</summary>
+<br/>
+<p></p>
+<p></p>
+<p></p>
+</details>
 
 <!-- Otros CEO a Buscar información sobre sus libros: Facebook. Zuckenberg. El Jefe de Facebok Yann LeCun. El CEO de Adobe. El CEO de Cisco. -->
 <!-- El CEO de Microsoft, Satya Nadella en Davos: todos los líderes de negocios deben leer estos 3 libros: https://www.inc.com/jessica-stillman/microsoft-ceo-satya-nadella-davos-book-recommendations.html -->
