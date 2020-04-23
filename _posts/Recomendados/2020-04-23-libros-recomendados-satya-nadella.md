@@ -16,8 +16,8 @@ classed: wide
 permalink: /libros-recomendados-satya-nadella-2020/
 canonical_URL: https://ciberninjas.com/libros-recomendados-satya-nadella-2020/
 header:
-  teaser: /assets/images/Satya Nadella-leyendo.jpg
-  overlay_image: https://techseen.com/wp-content/uploads/Satya-Nadella-Future-Decoded.jpeg
+  teaser: /assets/images/blog/abril-satya-nadella.webp
+  overlay_image: /assets/images/blog/abril-satya-nadella.webp
   overlay_filter: "0.2"
   image_alt: "Satya Nadella, libros recomendados para el inicio de 2020 | Visto en Ciberninjas"
   image_description: "Satya Nadella, libros recomendados para el inicio de 2020  | Visto en Ciberninjas"
@@ -45,13 +45,20 @@ A continuación se presentan sus tres opciones principales, basadas en sus entre
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/libros-recomendados-satya-nadella-2020/#1-" title="Saber sobre el libro La Era del Capitalismo de la Vigilancia de Shoshana Zuboff"><strong>La Era del Capitalismo de la Vigilancia de Shoshana Zuboff</strong></a></li>
-    <li><a href="/libros-recomendados-satya-nadella-2020/#2-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/libros-recomendados-satya-nadella-2020/#3-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/libros-recomendados-satya-nadella-2020/#4-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/libros-recomendados-satya-nadella-2020/#5-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/libros-recomendados-satya-nadella-2020/#6-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/libros-recomendados-satya-nadella-2020/#7-" title="Saber sobre el libro"><strong></strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#1-comunicación-no-violenta-por-marshall-rosenberg" title="Saber más sobre el libro Comunicación No Violenta por Marshall Rosenberg"><strong>Comunicación No Violenta por Marshall Rosenberg</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#2-mentalidad-de-carol-dweck" title="Saber más sobre el libro Mentalidad de Carol Dweck"><strong>Mentalidad de Carol Dweck</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#3-oprime-refrescar-de-satya-nadella" title="Saber más sobre el libro Oprime Refrescar de Satya Nadella"><strong>Oprime Refrescar de Satya Nadella</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#4-dando-forma-a-la-cuarta-revolución-industrial-de-klaus-schwab-y-nicholas-david" title="Saber más sobre el libro Dando forma a la Cuarta Revolución Industrial de Klaus Schwab y Nicholas David"><strong>Dando forma a la Cuarta Revolución Industrial de Klaus Schwab y Nicholas David</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#5-cuatro-cuartetos-de-ts-eliot" title="Saber más sobre el libro Cuatro Cuartetos de TS Eliot"><strong>Cuatro Cuartetos de TS Eliot</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#6-prosperidad-de-colin-mayer" title="Saber más sobre el libro Prosperidad de Colin Mayer"><strong>Prosperidad de Colin Mayer</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#7-el-pasillo-estrecho-de-daron-acemoglu-y-james-a-robinson" title="Saber más sobre el libro El Pasillo Estrecho de Daron Acemoglu y James A. Robinson"><strong>El Pasillo Estrecho de Daron Acemoglu y James A. Robinson</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#8-remando-como-un-solo-hombre-por-daniel-james-brown" title="Saber más sobre el libro Remando con un Solo Hombre por Daniel James Brown"><strong>Remando con un Solo Hombre por Daniel James Brown</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020//#9-guía-de-un-astronauta-para-vivir-en-la-tierra-de-chris-hadfield" title="Saber más sobre el libro Guía de un Astronáuta para Vivir en la Tierra de Chris Hadfield"><strong>Guía de un Astronáuta para Vivir en la Tierra de Chris Hadfield</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#10-la-gran-convergencia-de-richard-baldwin" title="Saber más sobre el libro La Gran Convergencia de Richard Baldwin"><strong>La Gran Convergencia de Richard Baldwin</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#11-la-gran-transformación-de-karl-polanyi" title="Saber más sobre el libro La Gran Transformación de Karl Polanyi"><strong>La Gran Transformación de Karl Polanyi</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#12-el-ascenso-y-la-caída-del-crecimiento-estadounidense-de-robert-j-gordon" title="Saber más sobre el libro El Ascenso y la Caída del Crecimiento Estadounidense de Robert J. Gordon"><strong>El Ascenso y la Caída del Crecimiento Estadounidense de Robert J. Gordon</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#13-aprendizaje-profundo-de-ian-goodfellow-yoshua-bengio-y-aaron-courville" title="Saber más sobre el libro Aprendizaje Profundo de Ian Goodfellow, Yoshua Bengio y Aaron Courville"><strong>Aprendizaje Profundo de Ian Goodfellow, Yoshua Bengio y Aaron Courville</strong></a></li>
+    <li><a href="/libros-recomendados-satya-nadella-2020/#14-el-libro-de-los-tres-de-lloyd-alexander" title="Saber más sobre el libro El Libro de los Tres de Lloyd Alexander"><strong>El Libro de los Tres de Lloyd Alexander</strong></a></li>
   </ol>
 </nav>
 </details>
@@ -59,13 +66,13 @@ A continuación se presentan sus tres opciones principales, basadas en sus entre
 **🔥 Libros Recomendados Por..**: [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"} >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}
 
-## [1. Comunicación no violenta por Marshall Rosenberg](https://amzn.to/3cFsFUW){:target="_blank"}
+## **[1. Comunicación no violenta por Marshall Rosenberg](https://amzn.to/3cFsFUW){:target="_blank"}**
 
-Cuando Nadella fue nombrado CEO de Microsoft en 2014, hizo de la Comunicación No Violenta una prioridad, exigiendo a sus altos ejecutivos que lean este libro escrito por el psicólogo estadounidense Marshall Rosenberg. El libro enfatiza la importancia de las cualidades emocionales no violentas, como la compasión y la comunicación efectiva, en la gestión de una gran organización. Asignar el libro a los altos ejecutivos de Microsoft fue visto como un componente clave del plan de Nadella para revisar la cultura intensa y conflictiva de Microsoft en ese momento.
+Cuando Nadella fue nombrado CEO de Microsoft en 2014, hizo de **la Comunicación No Violenta una prioridad**, exigiendo a sus altos ejecutivos que leyesen este libro escrito por el psicólogo estadounidense Marshall Rosenberg.
 
-> "CITA"
->
-> citador
+El libro enfatiza la importancia de las cualidades emocionales no violentas, como la compasión y la comunicación efectiva, en la gestión de una gran organización.
+
+Al asignar el libro a los altos ejecutivos de Microsoft fue visto como un componente clave del plan de Nadella para revisar la cultura intensa y conflictiva de Microsoft en ese momento.
 
 <details>
 <summary>Saber Más</summary>
@@ -77,7 +84,7 @@ Cuando Nadella fue nombrado CEO de Microsoft en 2014, hizo de la Comunicación N
 
 ## **[2. Mentalidad de Carol Dweck](https://amzn.to/2XYuV5s){:target="_blank"}**
 
-La mentalidad de la psicóloga de Stanford Carol Dweck es mejor conocida por introducir la teoría de "mentalidad fija versus mentalidad de crecimiento" en el círculo de gestión.
+La mentalidad de la psicóloga de Stanford Carol Dweck es más conocida por introducir la teoría de "mentalidad fija versus mentalidad de crecimiento" en el círculo de gestión.
 
 Nadella ha dicho que el libro influyó profundamente en su estilo de gestión. Incluso consultó con el autor cuando redactó un nuevo manual para empleados cuando se convirtió en CEO. "Necesitábamos una cultura que nos permitiera actualizar y renovar constantemente", dijo Nadella en la entrevista de Fast Company.
 
@@ -96,31 +103,26 @@ El libro también es uno de los favoritos de Bill Gates. "A través de estudios 
 <p>En esta edición, Dweck ofrece nuevos conocimientos sobre su concepto ahora famoso y ampliamente aceptado. Ella presenta un fenómeno que llama mentalidad de falso crecimiento y guía a las personas hacia la adopción de una mentalidad de crecimiento más profunda y verdadera. También expande el concepto de mentalidad más allá del individuo, aplicándolo a las culturas de grupos y organizaciones. Con la mentalidad correcta, puede motivar a quienes dirige, enseña y ama, para transformar sus vidas y las suyas.</p>
 </details>
 
-## [3. Oprime Refrescar de Satya Nadella](https://amzn.to/3axJTls){:target="_blank"}
+## **[3. Oprime Refrescar de Satya Nadella](https://amzn.to/3axJTls){:target="_blank"}**
 
-Nadella no es del tipo que toca su propia bocina , y de hecho fue Schwab, no Nadella, quien mencionó Hit Refresh , la memoria que Nadella escribió tres años después de su mandato como CEO de Microsoft. Schwab hacía referencia a lo que Nadella escribió sobre las tendencias tecnológicas; Nuestro crítico encontró que el libro era más convincente en las secciones más personales, donde el ejecutivo escribió sobre su educación india, su inmigración a los Estados Unidos y su ascenso en las filas de Microsoft.
+Nadella no es del tipo de personas que le guste hablar sobre si mismo, y de hecho fue Schwab (en una reunión del Foro de Davos) no Nadella, quien mencionó "Oprime Refrescar" la memoria que Nadella escribió tres años después de su mandato como CEO de Microsoft.
 
-> "CITA"
->
-> citador
+Schwab hacía referencia a lo que Nadella escribió sobre las tendencias tecnológicas. Nuestro crítico, encontró que el libro era más convincente en las secciones más personales, donde el ejecutivo escribió sobre su educación en india, su inmigración a los Estados Unidos y su ascenso en las filas de Microsoft.
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>Según lo dicho por el CEO de Microsoft, Satya Nadella, Hit Refresh es la historia del cambio corporativo y la reinvención, así como la historia del viaje personal de Nadella, uno que está teniendo lugar hoy dentro de una compañía de tecnología histórica y que está llegando en todas nuestras vidas. a medida que las máquinas inteligentes se vuelven más ambientales y más ubicuas. Se trata de cómo las personas, las organizaciones y las sociedades pueden y deben actualizarse, transformarse en su búsqueda persistente de nuevas energías, nuevas ideas, relevancia y renovación. En el fondo, se trata de nosotros los humanos y nuestras cualidades únicas, como la empatía, que será cada vez más valiosa en un mundo donde el torrente de tecnología se interrumpirá como nunca antes. Tanto humanista como tecnólogo, Nadella define su misión y la de la compañía que lidera como el empoderamiento de cada persona y cada organización en el planeta para lograr más.</p>
-<p></p>
-<p></p>
+<p>Según lo dicho por el CEO de Microsoft, Satya Nadella, Hit Refresh es la historia del cambio corporativo y la reinvención, así como la historia del viaje personal de Nadella, uno que está teniendo lugar hoy dentro de una compañía de tecnología histórica y que está llegando en todas nuestras vidas.</p>
+<p>A medida que las máquinas inteligentes se vuelven más ambientales y más ubicuas. Se trata de cómo las personas, las organizaciones y las sociedades pueden y deben actualizarse, transformarse en su búsqueda persistente de nuevas energías, nuevas ideas, relevancia y renovación.</p>
+<p>En el fondo, se trata de nosotros los humanos y nuestras cualidades únicas, como la empatía, que será cada vez más valiosa en un mundo donde el torrente de tecnología se interrumpirá como nunca antes.</p>
+<p>Tanto humanista como tecnólogo, Nadella define su misión y la de la compañía que lidera como el empoderamiento de cada persona y cada organización en el planeta para lograr más.</p>
 </details>
 
-## [4. Dando Forma a La Cuarta Revolución Industrial de Klaus Schwab y Nicholas David](https://amzn.to/2RZZ1Sc){:target="_blank"}
+## **[4. Dando Forma a La Cuarta Revolución Industrial de Klaus Schwab y Nicholas David](https://amzn.to/2RZZ1Sc){:target="_blank"}**
 
 No está en español actualmente. Su libro anterior, si que podemos encontrarlo traducido: [La Cuarta Revolución Industrial](https://amzn.to/2VrtUBg){:target="_blank"} vista desde el punto de vista económico.
 
 Después de que Schwab mencionara Hit Refresh, era justo que Nadella hiciera referencia a una de las obras recientes de Schwab. Shaping the Future of the Fourth Industrial Revolution fue escrito con Nicholas Davis. Estamos bastante seguros de que Nadella lo leyó, considerando que él escribió el prólogo.
-
-> "CITA"
->
-> citador
 
 <details>
 <summary>Saber Más</summary>
@@ -136,17 +138,13 @@ Después de que Schwab mencionara Hit Refresh, era justo que Nadella hiciera ref
 
 En una conferencia de prensa en marzo de 2014, uno de sus primeros como CEO de Microsoft, Nadella citó una línea de Little Gidding , un poema de TS Eliot, para aclarar que Microsoft todavía tenía mucho que explorar, a pesar de que había trabajado en la empresa por 22 años.
 
----
-Otro analisis: 
+"Creo que TS Eliot lo captó mejor cuando dijo que nunca deberías dejar de explorar, y al final de toda exploración llegas donde empezaste y conoces el lugar por primera vez tiempo", dijo Nadella. "Y para mí eso ha sido más cierto que nunca".
 
-<!-- «Creo que TS Eliot lo captó mejor cuando dijo que nunca deberías dejar de explorar, y al final de toda exploración llegas donde empezaste y conoces el lugar por primera vez tiempo «, dijo Nadella . «Y para mí eso ha sido más cierto que nunca».
+"Little Gidding" (uno de los cuatro poemas) fue en realidad el último gran trabajo de Eliot. Como su análisis sugiere: Es un poema sobre tradiciones en el presente y un poema actual que absorbe tradiciones pasadas.
 
-«Little Gidding» fue en realidad el último gran trabajo de Eliot. Como un análisis sugiere, «es un poema sobre tradiciones en el presente y un poema actual que absorbe tradiciones pasadas «. Leerlo Online : http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html
--->
+### Lectura Online
 
-> "CITA"
->
-> citador
+Puedes encontrar [su lectura online](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html){:target="_blank"}.
 
 <details>
 <summary>Saber Más</summary>
@@ -154,7 +152,7 @@ Otro analisis:
 <p>Los cuatro cuartetos es una serie de cuatro poemas de TS Eliot, publicados individualmente de 1936 a 1942, y en forma de libro en 1943; el propio Eliot lo consideró su mejor trabajo. Cada uno de los cuartetos tiene cinco "movimientos" y cada uno está titulado por un nombre de lugar: BURNT NORTON (1936), EAST COKER (1940), THE DRY SALVAGES (1941) y LITTLE GIDDING (1942). Las ideas de Eliot sobre la naturaleza cíclica de la vida se revelan a través de temas e imágenes tejidas a lo largo de los cuatro poemas. Los temas espirituales, filosóficos y personales surgen a través de alusiones simbólicas y referencias literarias y religiosas del pensamiento oriental y occidental. El trabajo aborda las conexiones del presente y el pasado personales e históricos, la renovación espiritual y la naturaleza misma de la experiencia; se considera el poeta La exposición más clara de sus creencias cristianas. (La Enciclopedia de Literatura Merriam-Webster)</p>
 </details>
 
-## [6. Prosperidad de Colin Mayer](https://amzn.to/3anWLe0){:target="_blank"}
+## **[6. Prosperidad de Colin Mayer](https://amzn.to/3anWLe0){:target="_blank"}**
 
 Aún no se ha traducido al español.
 
@@ -175,7 +173,7 @@ El objetivo es configurar las cosas para que "cuando lo haces bien, el mundo que
 <p>La prosperidad es tanto una discusión sobre cómo crear y administrar negocios exitosos como una guía para la formulación de políticas para reparar el sistema roto.</p>
 </details>
 
-## [7. El Pasillo Estrecho de Daron Acemoglu y James A. Robinson](https://amzn.to/2wYy0av){:target="_blank"}
+## **[7. El Pasillo Estrecho de Daron Acemoglu y James A. Robinson](https://amzn.to/2wYy0av){:target="_blank"}**
 
 El Pasillo Estrecho: Estados, Sociedades Y Cómo Alcanzar La Libertad.
 
@@ -199,7 +197,7 @@ Por lo contrario, Satya Nadella, preguntado por su opinión sobre la obra en el 
 <p>Hoy nos encontramos en un momento de desestabilización desgarradora. Necesitamos la libertad más que nunca y, sin embargo, el corredor hacia la libertad se está volviendo más estrecho y traicionero. El peligro en el horizonte no es "solo" la pérdida de nuestra libertad política, sino lo sombrío que es en sí mismo; También es la desintegración de la prosperidad y la seguridad lo que depende fundamentalmente de la libertad. Lo opuesto al corredor de la libertad es el camino a la ruina. (Menos)</p>
 </details>  
 
-## [8. Remando como un solo hombre por Daniel James Brown](https://amzn.to/2Kt9MZf){:target="_blank"}
+## **[8. Remando como un solo hombre por Daniel James Brown](https://amzn.to/2Kt9MZf){:target="_blank"}**
 
 El enfoque de escritura de Daniel James Brown es "dar vida a eventos históricos convincentes" y eso es, exactamente lo que se esfuerza por hacer en este libro; trabajó en Microsoft durante más de una década y ha enseñado escritura en la Universidad de Stanford y San José.
 
@@ -220,7 +218,7 @@ Nadella se refirió a este libro en un correo electrónico acerca de los cambios
 <p>Basándose en los diarios y diarios de los niños, sus fotos y recuerdos de un sueño compartido único en la vida, The Boys in the Boat es una historia irresistible sobre cómo vencer las dificultades y encontrar la esperanza en los momentos más desesperados: historia íntima e improbable de nueve niños de clase trabajadora del oeste americano que, en las profundidades de la Gran Depresión, le mostraron al mundo lo que realmente significaba la verdadera determinación. Será de interés para los lectores de Erik Larson, Timothy Egan, James Bradley y The Amateurs de David Halberstam.</p>
 </details>
 
-## [9. Guía de un Astronauta para Vivir en la tierra de Chris Hadfield](https://amzn.to/3bxFUa0){:target="_blank"}
+## **[9. Guía de un Astronauta para Vivir en la tierra de Chris Hadfield](https://amzn.to/3bxFUa0){:target="_blank"}**
 
 El astronauta coronel Chris Hadfield ha pasado más de 4.000 horas en el espacio y ha dedicado miles de horas más de entrenamiento para llegar allí. Su libro más vendido ofrece a los lectores una visión espacial de las aventuras de Hadfield y puede cambiar la forma en que piensan sobre sus vidas en la tierra.
 
@@ -239,70 +237,45 @@ El astronauta coronel Chris Hadfield ha pasado más de 4.000 horas en el espacio
 <p>Pero sus ideas vívidas y refrescantes te enseñarán a pensarcomo un astronauta, y cambiará por completo la forma en que ves la vida en la Tierra, especialmente la tuya.</p>
 </details>
 
-## 10. [La gran convergencia» de Richard Baldwin](){:target="_blank"}
+## **[10. La gran convergencia de Richard Baldwin](https://amzn.to/2xVcd3X){:target="_blank"}**
 
-CONTENIDO
-
-> "CITA"
-
-> citador
-
-<details>
-<summary>Saber Más</summary>
-<br/>
-<p></p>
-<p></p>
-<p></p>
-</details>
-
-<!--
-«La gran convergencia» de Richard Baldwin
-Prensa Belknap
 Richard Baldwin, profesor de economía internacional en Ginebra, explica que las nuevas tecnologías podrían permitir que las ideas se extiendan rápidamente por todo el mundo: la telepresencia y la telerobótica podrían cambiar la forma de trabajar y comunicarse, y las corporaciones y los países tendrán que ajustarse en consecuencia.
 
 Baldwin obtuvo su doctorado en el MIT bajo la guía del ganador del Premio Nobel Paul Krugman.
 
 Nadella ve similitudes entre las ideas de este libro y la tecnología, como los auriculares HoloLens de Microsoft, que permiten compartir ideas y colaborar independientemente de la distancia geográfica.
--->
-
-## [11. La gran transformación» de Karl Polanyi](){:target="_blank"}
-
-CONTENIDO
-
-> "CITA"
-
-> citador
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p></p>
-<p></p>
-<p></p>
+<p>Entre 1820 y 1990, la proporción del ingreso mundial que se destinó a las naciones ricas de la actualidad aumentó del veinte por ciento a casi setenta. Desde entonces, esa participación se ha desplomado hasta donde estaba en 1900. Como explica Richard Baldwin, este cambio de fortuna refleja una nueva era de globalización que es drásticamente diferente de la anterior.</p>
+<p>En el siglo XIX, la globalización avanzó cuando el poder del vapor y la paz internacional redujeron los costos de trasladar mercancías a través de las fronteras.</p>
+<p>Esto desencadenó un ciclo de autoabastecimiento de aglomeración industrial y crecimiento que impulsó a las naciones ricas de hoy al dominio. </p>
+<p>Esa fue la Gran Divergencia. La nueva globalización está impulsada por la tecnología de la información, que ha reducido radicalmente el costo de trasladar ideas a través de las fronteras.</p>
+<p>Esto ha hecho que sea práctico para las empresas multinacionales trasladar el trabajo intensivo en mano de obra a las naciones en desarrollo. Pero para mantener todo el proceso de fabricación sincronizado, las empresas también enviaron sus conocimientos técnicos de marketing, gerenciales y técnicos al extranjero junto con los trabajos deslocalizados.</p>
+<p>La nueva posibilidad de combinar alta tecnología con bajos salarios impulsó la rápida industrialización de un puñado de países en desarrollo, la desindustrialización simultánea de las naciones desarrolladas y un superciclo de productos básicos que solo ahora se está agotando</p>
+<p>El resultado es la Gran Convergencia de hoy.</p>
+<p>Debido a que la globalización ahora está impulsada por un cambio tecnológico acelerado y la fragmentación de la producción, su impacto es más repentino, más selectivo, más impredecible y más incontrolable.</p>
+<p>Como muestra The Great Convergence, la nueva globalización presenta a las naciones ricas y en desarrollo por igual con desafíos políticos sin precedentes en sus esfuerzos por mantener un crecimiento confiable y la cohesión social.</p>
 </details>
-<!-- 
 
-Por Fast Company, el padre de Nadella le recomendó este libro de 1944 «hace mucho tiempo». El libro adopta la postura de que la sociedad debería impulsar el cambio económico y analiza el progreso de la economía de mercado de Inglaterra.
+## **[11. La gran transformación» de Karl Polanyi](https://amzn.to/2VxNtHW){:target="_blank"}**
+
+Por Fast Company, el padre de Nadella le recomendó este libro de 1944, hace mucho tiempo. El libro adopta la postura de que la sociedad debería impulsar el cambio económico y analiza el progreso de la economía de mercado de Inglaterra.
 
 Polanyi fue un economista político húngaro-estadounidense que propuso la idea de sustantivismo con este libro. La idea aplica la cultura a la teoría económica para llegar a un doble significado de la palabra «economía»: la primera es la definición formal de la economía como las elecciones que se toman considerando la escasez, y la segunda es cómo las personas satisfacen sus necesidades materiales al interactuar con Los mundos social y físico.
--->
-
-## [12. El ascenso y la caída del crecimiento estadounidense de Robert J. Gordon](){:target="_blank"}
-
-CONTENIDO
-
-> "CITA"
-
-> citador
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p></p>
-<p></p>
-<p></p>
+<p>En este clásico trabajo de historia económica y teoría social, Karl Polanyi analiza los cambios económicos y sociales provocados por la "gran transformación" de la Revolución Industrial.</p>
+<p>Su análisis explica no solo las deficiencias del mercado autorregulado, sino también las consecuencias sociales potencialmente graves del capitalismo de mercado no moderado.</p>
+<p>El nuevo material introductorio revela la importancia renovada del análisis seminal de Polanyi en una era de globalización y libre comercio.</p>
 </details>
-<!--
+
+## **[12. El ascenso y la caída del crecimiento estadounidense de Robert J. Gordon](){:target="_blank"}**
+
+No traducido al español.
 
 El autor Robert Gordon es profesor de ciencias sociales en la Universidad Northwestern y un pensador influyente de Bloomberg de 2016. Este libro recibió varios reconocimientos e hizo la lista de bestsellers del New York Times.
 
@@ -315,24 +288,21 @@ Y allí, de hecho, él habla sobre la Revolución Industrial e incluso la contra
 Gordon argumenta que la revolución digital en curso es, de hecho, mucho menos profunda que la industrial que la precedió, y en particular las «Grandes Invenciones» que transformaron a Estados Unidos en la modernidad que conoce hoy, como electricidad, productos farmacéuticos, saneamiento urbano, comunicación moderna y el motor de combustión interna.
 
 Pero, como Paul Krugman señaló en su review , tal vez la tecnología transformadora está nuevamente a la vuelta de la esquina, como con la inteligencia artificial o, más desde el punto de vista de Nadella, la computación en la nube.
--->
-
-## [13. Aprendizaje Profundo de Ian Goodfellow, Yoshua Bengio y Aaron Courville](){:target="_blank"}
-
-CONTENIDO
-
-> "CITA"
-
-> citador
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p></p>
-<p></p>
-<p></p>
+<p>En el siglo posterior a la Guerra Civil, una revolución económica mejoró el nivel de vida de los Estados Unidos en formas que antes eran inimaginables.</p>
+<p>La iluminación eléctrica, la plomería interior, los vehículos de motor, los viajes aéreos y la televisión transformaron los hogares y los lugares de trabajo.</p>
+<p>¿Pero ha llegado a su fin esa era de crecimiento sin precedentes?</p>
+<p>Tejiendo juntos una narrativa vívida, anécdotas históricas y análisis económico, The Rise and Fall of American Growth, desafía la idea de que el crecimiento económico continuará sin cesar y demuestra que la escala de innovaciones que altera la vida entre 1870 y 1970 no puede repetirse.</p>
+<p>Gordon sostiene que el crecimiento de la productividad de la nación se verá frenado por los vientos en contra de la creciente desigualdad, el estancamiento de la educación, el envejecimiento de la población y la creciente deuda de los estudiantes universitarios y el gobierno federal, y que debemos encontrar nuevas soluciones.</p>
+<p>Una voz crítica en los debates más apremiantes de nuestro tiempo, The Rise and Fall of American Growth es a la vez un tributo a un siglo de cambios radicales y un presagio de tiempos más difíciles por venir.</p>
 </details>
-<!--
+
+## **[13. Aprendizaje Profundo de Ian Goodfellow, Yoshua Bengio y Aaron Courville](https://amzn.to/2Vv5czS){:target="_blank"}**
+
+No traducido al español.
 
 Este es un libro de texto sobre una de las tecnologías más importantes de nuestro tiempo, escrito por figuras formativas en el campo.
 
@@ -343,9 +313,21 @@ Ian Goodfellow es conocido como el inventor de las Redes Adversarias Generativas
 Aaron Courville es profesor asistente en el Departamento de Ciencias de la Computación e Investigación de Operaciones (DIRO) en la Universidad de Montreal y sus intereses de investigación incluyen el desarrollo de nuevos modelos y métodos de aprendizaje automático.
 
 Elon Musk y el jefe de AI de Facebook, Yann LeCun, también dijeron cosas buenas sobre este libro de texto.
--->
 
-## [14. El libro de los tres de Lloyd Alexander](https://amzn.to/2RZ9r4E){:target="_blank"}
+<details>
+<summary>Saber Más</summary>
+<br/>
+<p>Una introducción a una amplia gama de temas en aprendizaje profundo, que cubre antecedentes matemáticos y conceptuales, técnicas de aprendizaje profundo utilizadas en la industria y perspectivas de investigación.</p>
+<p>El aprendizaje profundo es una forma de aprendizaje automático que permite a las computadoras aprender de la experiencia y comprender el mundo en términos de una jerarquía de conceptos. </p>
+<p>Debido a que la computadora recopila conocimiento de la experiencia, no es necesario que un operador humano de computadora especifique formalmente todo el conocimiento que necesita.</p>
+<p>La jerarquía de conceptos permite a la computadora aprender conceptos complicados al construirlos a partir de los más simples; Un gráfico de estas jerarquías tendría muchas capas de profundidad. Este libro presenta una amplia gama de temas en el aprendizaje profundo.</p>
+<p>El texto ofrece antecedentes matemáticos y conceptuales, cubriendo conceptos relevantes en álgebra lineal, teoría de la probabilidad y teoría de la información, computación numérica y aprendizaje automático.</p>
+<p>Describe las técnicas de aprendizaje profundo utilizadas por los profesionales de la industria, incluidas las redes de avance profundo, la regularización, los algoritmos de optimización, las redes convolucionales, el modelado de secuencias y la metodología práctica; y examina aplicaciones tales como procesamiento de lenguaje natural, reconocimiento de voz, visión por computadora, sistemas de recomendación en línea, bioinformática y videojuegos.</p>
+<p>Finalmente, el libro ofrece perspectivas de investigación, cubriendo temas teóricos como modelos de factores lineales, autoencoders, aprendizaje de representación, modelos probabilísticos estructurados, métodos de Monte Carlo, la función de partición, inferencia aproximada y modelos generativos profundos.</p>
+<p>El aprendizaje profundo puede ser utilizado por estudiantes universitarios o graduados que planean carreras en la industria o la investigación, y por ingenieros de software que desean comenzar a usar el aprendizaje profundo en sus productos o plataformas. Un sitio web ofrece material complementario para lectores e instructores.</p>
+</details>
+
+## **[14. El libro de los tres de Lloyd Alexander](https://amzn.to/2RZ9r4E){:target="_blank"}**
 
 Nadella no ha recomendado por completo esta novela de fantasía para niños tanto como lo ha hecho citado de él: del Capítulo Uno, para ser específicos.
 
@@ -355,16 +337,12 @@ Lloyd Alexander escribió esto en el primer libro, «El libro de los tres», en 
 
 Los [Cuatro tomos de las crónicas en español](https://amzn.to/3asnOF6), ahora mismo son libros practicamente de colección, por lo que su precio es elevadísimo.
 
-> "CITA"
-
-> citador
-
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p></p>
-<p></p>
-<p></p>
+<p>Millones de lectores jóvenes se han visto cautivados por las aventuras de Taran, el Asistente del Cerdo y sus animados compañeros, mientras viajan por la tierra mágica de Prydain.</p>
+<p>Publicado por primera vez hace más de treinta años y traducido a veinte idiomas diferentes, la querida serie de Lloyd Alexander se ha convertido en el estándar de excelencia en literatura de fantasía para niños.</p>
+<p>Entre sus muchos elogios, las galardonadas Crónicas de Prydain cuentan con una Medalla Newbery, un Honor Newbery y más de dos millones de copias impresas.</p>
 </details>
 
 <!-- Otros CEO a Buscar información sobre sus libros: Facebook. Zuckenberg. El Jefe de Facebok Yann LeCun. El CEO de Adobe. El CEO de Cisco. -->
