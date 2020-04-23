@@ -1,6 +1,6 @@
 ---
 author_profile: true
-title: "🥇 ▷ Los Libros Favoritos y Recomendados por Satya Nadella este 2020"
+title: "🥇 ▷ Los libros favoritos y recomendados por Satya Nadella el 2020"
 description: 'Los lecturas favoritas que han servido de inspiración al actual CEO de Microsoft: Satya Nadella'
 excerpt: 'Los lecturas favoritas que han servido de inspiración al actual CEO de Microsoft: Satya Nadella'
 date: 2020-04-23 12:30:59

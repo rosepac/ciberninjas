@@ -5,7 +5,7 @@ description: 'Una selección de lecturas obligatorias para ayudarte a comprender
 excerpt: 'Una selección de lecturas obligatorias para ayudarte a comprender la actualidad sobre el mundo tecnológica y las ciencias.'
 date: 2020-04-23 16:30:59
 last_modified_at: 
-published: true
+published: false
 categories:
 - Recomendaciones
 tags:
