@@ -1,9 +1,9 @@
 ---
 author_profile: true
-title: "🥇 ▷ Los libros favoritos y más recomendados por Elon Musk, para 2020"
-description: 'Los libros favoritos de Elon Musk, con los que se ha inspirado y llegado a ser uno de los inventores y emprendedores más importantes del Siglo XXI.'
-excerpt: 'Los libros favoritos de Elon Musk, con los que se ha inspirado y llegado a ser uno de los inventores y emprendedores más importantes del Siglo XXI.'
-date: 2020-04-23 09:33:59
+title: "🥇 ▷ Los libros favoritos y más recomendados por Elon Musk, para el día del libro 2020"
+description: 'Las lecturas de inspiración perfectas para llegar a ser uno de los inventores y emprendedores más importantes del Siglo XXI.'
+excerpt: 'Las lecturas de inspiración perfectas para llegar a ser uno de los inventores y emprendedores más importantes del Siglo XXI.'
+date: 2020-04-23 23:33:59
 last_modified_at: 
 published: true
 classes: wide
@@ -21,7 +21,6 @@ header:
   overlay_filter: "0.2"
   image_alt: "Elon Musk, libros recomendados para el inicio de 2020 | Visto en Ciberninjas"
   image_description: "Elon Musk, libros recomendados para el inicio de 2020  | Visto en Ciberninjas"
-  caption: "**Créditos**: [Obama White House](https://www.flickr.com/photos/obamawhitehouse/8109908571), es una [Obra del Gobierno de Estados Unidos](https://www.usa.gov/government-works) bajo sus propidas condiciones de [licencia](https://www.usa.gov/government-works)"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -29,25 +28,21 @@ header:
 
 ---
 <!-- 14 libros que inspiraron a elon musks https://lifehacker.ru/elon-musk-books/ -->
-Elon Musk, un personaje que sin lugar a dudas ha logrado ya, pasar a la historia de la humanidad; como dueño de la empresa espacial SpaceX y la empresa de automóviles automátizados Tesla. Entre otras muchas locuras..
+**Elon Musk**, un personaje que sin lugar a dudas ha logrado ya, **pasar a la historia de la humanidad**; **como dueño de la empresa espacial SpaceX** y **la empresa de automóviles eléctricos y de conducción automática: Tesla**. Entre otras muchas locuras..
 
-Pero, ¿Cómo ha logrado llegar hasta donde ha llegado?
+Pero, **¿Cómo ha logrado llegar Elon Musk hasta donde ha llegado?**
 
-Desde su infancia, Elon Musk, ha reconocido que los libros han sido un papel crucial en alimentar las ambiciones de Musk. Se dice que leyó toda la Enciclopedia Británica a los nueve años y que estudió las novelas de ciencia ficción durante más de 10 horas al día.
+Desde su infancia, **Elon Musk, ha reconocido que la lectura siempre ha sido un papel crucial** para alimentar sus propias ambiciones. Se dice, que leyó toda la Enciclopedia Británica con tan solo nueve años y qué, **estudió las novelas de ciencia ficción** durante más de 10 horas al día.
 
-Cuando se le preguntó cómo se enteró de los cohetes, Musk dijo : “Leo libros”. Su hábito de lectura voraz fue esencial para lanzar su carrera de hacer historia.
+Cuando se le preguntó, **cómo conoció sobre los cohetes y la aeronaútica**; **Musk respondió: “Leo libros”**. Su hábito de lectura voraz, termino por ser esencial para lanzar su empresa aeronaútica hacía un lugar inamovible dentro de la historia.
 
-Cuando la gente le pregunta a Elon Musk cómo aprendió a construir cohetes, tiene una respuesta simple.
+Musk, que era lo **suficientemente inteligente como para lograr entrar en un doctorado de física**, en la Universidad de Stanford. Decidió, finalmente, dejarlo de lado por no encontrarlo lo suficientemente relevante.
 
-"Leo libros" , según los informes, le gusta decir .
+Al investigar el perfil personal del CEO de Tesla y SpaceX. El periódico The New Yorker observó que en **su infancia en Sudáfrica, fue un niño que sufría de bullying** por el mero hecho de ser un niño solitario y poco sociable; y fue precisamente eso, lo que le hizo **refugiarse en la fantasía de JRR Tolkien** y **la ciencia ficción de Isaac Asimov** para hacer frente esos hechos.
 
-Musk, que era lo suficientemente inteligente como para entrar en un doctorado en física. programa en la Universidad de Stanford y luego se retiró porque no le pareció tan relevante para él, siempre ha tenido hambre de la palabra escrita.
+Como veremos a continuación, los libros siempre han sido importantes para Musk: **inspirándole cuando era niño**, **dándole héroes cuando era un adolescente** y **ayudándole a aprender sobre la ciencia aplicada a las naves espaciales mientras lanzaba SpaceX**.
 
-En su perfil del CEO de Tesla y SpaceX, The New Yorker observó que lo molestaron mucho durante su infancia sudafricana, y que se refugiaría en la fantasía (JRR Tolkien) y la ciencia ficción (Isaac Asimov) para hacer frente.
-
-Como veremos a continuación, los libros siempre han sido importantes para Musk: inspirándolo cuando era niño, dándole héroes cuando era un adulto joven y ayudándolo a aprender ciencia de cohetes mientras lanzaba SpaceX.
-
-Aquí hay ocho libros que dieron forma al emprendedor revolucionario:
+Aquí, vas a encontrar los libros que dieron forma a uno de los emprendedores más revolucionarios del nuevo Siglo XXI.
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
@@ -66,51 +61,67 @@ Aquí hay ocho libros que dieron forma al emprendedor revolucionario:
 <!-- https://www.cnbc.com/2017/02/21/billionaire-elon-musk-credits-his-success-to-these-8-books.html -->
 <!-- https://www.businessinsider.com/elon-musk-favorite-books-2015-10?IR=T -->
 
+**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"}
+{: .notice--danger}
+
 <!-- https://www.vbqspeakers.com/max-tegmark -->
-## **[1. Vida 3.0](https://amzn.to/3anv8Sc){:target="_blank"}**
+## **[1. Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc){:target="_blank"}**
 
-Si está percibiendo un tema entre los libros de esta lista, es que Musk está realmente interesado en explorar el futuro de la inteligencia artificial.
-En Life 3.0 , el profesor del MIT Max Tegmark escribe sobre cómo mantener la inteligencia artificial beneficiosa para la vida humana y garantizar que el progreso tecnológico se mantenga alineado con los objetivos de la humanidad para el futuro.
-Es uno de los pocos libros que Musk recomienda que aborde la posibilidad de que la IA sea una fuerza para el bien y no para el mal.
+Si vas a encontrar un tema en común dentro de muchos de los libros de esta lista, es que **Musk está realmente interesado en explorar el futuro de la inteligencia artificial**.
 
-> "Esta es una guía convincente para los desafíos y las elecciones en nuestra búsqueda de un gran futuro de vida, inteligencia y conciencia, en la Tierra y más allá".
+En **Vida 3.0**, el profesor del MIT: **Max Tegmark**. Escribe sobre **cómo desarrollar el futuro de la inteligencia artificial**, siendo beneficiosa para la vida humana y logrando garantizar que el progreso tecnológico se mantenga dentro de una línea de objetivos de importancia para toda la humanidad.
+
+Esté, va a ser uno de los pocos libros, si no el único. Entre los que Musk recomienda, en el que se aborda la posibilidad de que **la inteligencia artificial sea una evolución en búsqueda del bien** de la humanidad y no para crear el mal.
+
+> "La Inteligencia Artificial será lo mejor o lo peor para la humanidad, así que vamos a hacerlo bien".
 
 > Elon Musk
 
-"Todos nosotros, no solo científicos, industriales y generales, debemos preguntarnos qué podemos hacer ahora para mejorar las posibilidades de obtener los beneficios de inteligencia artificial futura y evitar los riesgos. Esta es la conversación más importante de nuestro tiempo, y el libro de reflexión de Tegmark lo ayudará a unirse a él ". 
-- Stephen Hawking , Director de Investigación, Centro de Cambridge para Cosmología Teórica
+Otras personas importantes, como el astrofísico y divulgador científico Stephen Hawking. Escritor de incontables libros y escritos, como por ejemplo: [Breves respuestas a las grandes preguntas](https://amzn.to/2Y58xHs){:target="_blank"} o [La Clave Secreta del Universo](https://amzn.to/2XZfPws){:target="_blank"} o [La Teoría del Todo](https://amzn.to/2RWtn8c){:target="_blank"}.
+Ha dicho sobre Vida 3.0..
 
-"El nuevo libro de Tegmark es una guía profundamente reflexiva sobre la conversación más importante de nuestro tiempo, sobre cómo crear una civilización futura benevolente a medida que fusionamos nuestro pensamiento biológico con una inteligencia aún mayor de nuestra propia creación". 
--  Ray Kurzweil , inventor, autor y futurista, autor de The Singularity is Near  and How to Create a Mind 
+> "Esta es la conversación más importante de nuestro tiempo, y el libro de reflexión de Tegmark te ayudará a unirte a ella".
+
+> Stephen Hawking
+
+O el inventor inventor, autor y futurista. Escritor de [La Singularidad está cerca](https://amzn.to/2Ku2g0i){:target="_blank"} y [Cómo crear una mente](https://amzn.to/2VRUzGs){:target="_blank"}.
+Ha dicho sobre Vida 3.0..
+
+> “El nuevo libro de Tegmark es una guía profundamente reflexiva sobre la conversación más importante de nuestro tiempo, sobre cómo crear una civilización futura benevolente a medida que fusionamos nuestro pensamiento biológico con una inteligencia aún mayor de nuestra propia creación”.
+
+> Ray Kurzweil
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>¿Cómo afectará la Inteligencia Artificial al crimen, la guerra, la justicia, el empleo, la sociedad y nuestro propio sentido de ser humanos? El aumento de la IA tiene el potencial de transformar nuestro futuro más que cualquier otra tecnología, y no hay nadie mejor calificado o situado para explorar ese futuro que Max Tegmark, un profesor del MIT que ha ayudado a la investigación general sobre cómo mantener la IA beneficiosa.</p>
+<p>¿Cómo afectará la Inteligencia Artificial al crimen, la guerra, la justicia, el empleo, la sociedad y nuestro propio sentido de ser humanos?</p>
+<p>El **aumento de la Inteligencia Artificial tiene el potencial de transformar nuestro futuro más que cualquier otra tecnología**, y no hay nadie mejor calificado o situado para explorar ese futuro que Max Tegmark, un profesor del MIT que ha ayudado a la investigación general sobre cómo mantener la IA beneficiosa para la humanidad.</p>
 <p>¿Cómo podemos aumentar nuestra prosperidad a través de la automatización sin dejar a las personas sin ingresos o propósito? ¿Qué consejo profesional deberíamos dar a los niños de hoy? ¿Cómo podemos hacer que los futuros sistemas de inteligencia artificial sean más robustos, para que hagan lo que queremos sin fallar, funcionar mal o ser pirateados? ¿Deberíamos temer una carrera armamentista con armas letales autónomas? ¿Las máquinas eventualmente nos engañarán en todas las tareas, reemplazando a los humanos en el mercado laboral y tal vez por completo? ¿La IA ayudará a que la vida florezca como nunca antes o nos dará más poder del que podemos manejar?</p>
 <p>¿Qué tipo de futuro tienes ?¿desear? Este libro le permite unirse a lo que puede ser la conversación más importante de nuestro tiempo. No rehuye la gama completa de puntos de vista o los temas más controvertidos, desde la superinteligencia hasta el significado, la conciencia y los límites físicos finales de la vida en el cosmos.</p>
 </details>
 
-## **[2. Nuestra invención final' por James Barrat](https://amzn.to/2XTdaEG){:target="_blank"}**
+## **[2. Nuestra invención final de James Barrat](https://amzn.to/2XTdaEG){:target="_blank"}**
 
-Musk ha advertido publicamente contra los peligros de la inteligencia artificial. En una entrevista de 2014 en el Simposio Centenario AeroAstro del MIT, calificó a la IA como "nuestra mayor amenaza existencial".
+Musk ha advertido publicamente contra los peligros de la inteligencia artificial. En una entrevista de 2014 en el Simposio Centenario de AeroAstro en el MIT, calificó a la IA como "**nuestra mayor amenaza existencial**".
 
-Además, también se puede ver reflejado ese pensamiento con su inversión dentro de la empresa de inteligencia artificial DeepMind. Puesto qué, al propio Elon Musk, se le ha escuchaod decir que esa era una inversión "exclusivamente para vigilar de cerca lo que va sucediendo con la inteligencia artificial" lo que no deja de ser un comentario bajo un "tono" un tanto preocupante.
+Además, también se puede ver reflejado ese pensamiento, con su inversión dentro de la empresa de inteligencia artificial DeepMind. Puesto qué, al propio Elon Musk, se le ha escuchado decir que esa era una inversión "exclusivamente para vigilar de cerca lo que va sucediendo con la inteligencia artificial" lo que no deja de ser un comentario bajo un "tono" que muestra preocupación hacía las nuevas tecnologías.
 
-Por lo tanto, no es sorprendente que Elon haya elegido el libro "Nuestra invención final: La inteligencia artificial y el fin de la era humana" como "un libro digno de leer" a través de [un tweet](https://twitter.com/elonmusk/status/496010572333580289){:target="_blank"}.
+Por lo tanto, no es sorprendente que **Elon haya elegido el libro "Nuestra invención final: La inteligencia artificial y el fin de la era humana"** como "un libro digno de leer" a través de [un tweet](https://twitter.com/elonmusk/status/496010572333580289){:target="_blank"}.
 
-En este libro, Barrat analiza el potencial de la IA, sopesando sus ventajas y desventajas. Según el propio autor en su página web, el libro trata, al menos en parte "sobre la desventaja catastrófica de la inteligencia artificial, algo de lo que nunca oirás hablar de Google, Apple, IBM o DARPA".
+En este libro, Barrat analiza el potencial de la IA, sopesando sus ventajas y desventajas. Según el propio autor en su página web, el libro trata, al menos en parte "**sobre la desventaja catastrófica de la inteligencia artificial, algo de lo que nunca oirás hablar de Google, Apple, IBM o DARPA**".
 
-> La inteligencia artificial, es nuestra mayor amenaza existencial.
+> "La inteligencia artificial, es nuestra mayor amenaza existencial."
 
 > Elon Musk
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>En tan solo una década, la inteligencia artificial podría igualar y luego superar la inteligencia humana. Las corporaciones y agencias gubernamentales de todo el mundo están invirtiendo miles de millones para lograr el Santo Grial de AI: inteligencia a nivel humano. Una vez que la IA lo haya logrado, argumentan los científicos, tendrá unidades de supervivencia muy parecidas a las nuestras. Es posible que nos veamos obligados a competir con un rival más astuto, más poderoso y más extraño de lo que podemos imaginar. A través de perfiles de visionarios tecnológicos, vigilantes de la industria y sistemas innovadores de inteligencia artificial, Nuestra invención final de James Barrat  explora los peligros de la búsqueda descuidada de la inteligencia artificial avanzada. Hasta ahora, la inteligencia humana no ha tenido rival. ¿Podemos convivir con seres cuya inteligencia eclipsa la nuestra? ¿Nos lo permitirán?</p>
-<p></p>
-<p></p>
+<p>En tan solo una década, la inteligencia artificial podría igualar y luego superar la inteligencia humana. Las corporaciones y agencias gubernamentales de todo el mundo están invirtiendo miles de millones para lograr el Santo Grial de AI: inteligencia a nivel humano.</p>
+<p>Una vez que la IA lo haya logrado, argumentan los científicos, tendrá unidades de supervivencia muy parecidas a las nuestras.</p>
+<p>Es posible que nos veamos obligados a competir con un rival más astuto, más poderoso y más extraño de lo que podemos imaginar. A través de perfiles de visionarios tecnológicos, vigilantes de la industria y sistemas innovadores de inteligencia artificial, Nuestra invención final de James Barrat  explora los peligros de la búsqueda descuidada de la inteligencia artificial avanzada.</p>
+<p>Hasta ahora, la inteligencia humana no ha tenido rival.</p>
+<p>¿Podemos convivir con seres cuya inteligencia eclipsa la nuestra? ¿Nos lo permitirán?</p>
 </details>
 
 ## **[3. La Fundación de Isaac Asimov](https://amzn.to/2VmcXYL){:target="_blank"}**
@@ -151,7 +162,7 @@ Como resultado, Musk comenzó SpaceX en 2002 (después de su segunda puesta en m
 <p>Hasta ahora, la Fundación estaba a salvo. Pero había una segunda fundación oculta para proteger a la primera. La Mula aún no lo ha encontrado, pero se estaba acercando todo el tiempo. Los hombres de la Fundación también buscaban escapar del control mental de Mule. Solo Arkady, una niña de 14 años parecía tener la respuesta, ¿o ella ...?</p>
 </details>
 
-## **[4. El Señor de los Anillos' por JRR Tolkien](https://amzn.to/2wQkAgG){:target="_blank"}**
+## **[4. El Señor de los Anillos de JRR Tolkien](https://amzn.to/2wQkAgG){:target="_blank"}**
 
 Musk tenía un apodo cuando era un niño camaronero y de boca inteligente que creció en Sudáfrica: Muskrat.
 The New Yorker informa que "en su soledad, leyó mucha fantasía y ciencia ficción".
@@ -173,7 +184,7 @@ Esos libros, en particular "El señor de los anillos" de JRR Tolkien, dieron for
 </p>
 </details>
 
-## **[Nikola Tesla: Inventor de la era eléctrica](https://amzn.to/3eDVFOE){:target="_blank"}**
+## **[5. Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson](https://amzn.to/3eDVFOE){:target="_blank"}**
 
 Nikola Tesla hizo una importante contribución a la evolución de la electricidad, que transformó la vida cotidiana a principios del siglo XX. Sus inventos, patentes y trabajos científicos formaron la base de la electricidad moderna y contribuyeron al desarrollo de la radio y la televisión. Al igual que su rival Thomas Edison, Tesla fue uno de los primeros investigadores famosos en Estados Unidos, disfrutó de una sociedad de las clases altas de Nueva York y entretuvo a Mark Twain con sus espectáculos eléctricos. Siendo un astuto autorrelogador y un talentoso escaparate, cultivó la imagen de un genio excéntrico entre la gente. Incluso muriendo en la pobreza, logró atraer a los entrevistadores para su cumpleaños gracias a las acusaciones de su creación de armas subatómicas que podrían destruir los aviones enemigos.
 
@@ -191,7 +202,7 @@ Nikola Tesla hizo una importante contribución a la evolución de la electricida
 
 <!-- https://twitter.com/elonmusk/status/1007668113591005184 -->
 
-## **[Einstein: Su vida y su universo Wallter Isaacson](https://amzn.to/3bmQh08){:target="_blank"}**
+## **[6. Einstein: Su vida y su universo de Walter Isaacson](https://amzn.to/3bmQh08){:target="_blank"}**
 Walter Isaacson
 
 
@@ -211,7 +222,7 @@ Algunas de las citas más famosas de Einstein, como “Lo importante es no dejar
 <p></p>
 </details>
 
-## **[La guía del autoestopista galáctico' de Douglas Adams](https://amzn.to/3btdGx2){:target="_blank"}**
+## **[7. La Guía del Autoestopista galáctico de Douglas Adams](https://amzn.to/3btdGx2){:target="_blank"}**
 
 Musk dice que tuvo una "crisis existencial" cuando tenía entre 12 y 15 años, enterrándose en Friedrich Nietzsche, Arthur Schopenhauer y otros filósofos malhumorados para encontrar el sentido de la vida.
 
@@ -239,7 +250,7 @@ También se incluye en esta edición especial la Guía de Douglas Adams de la Gu
 <p></p>
 </details>
 
-## **[Superinteligencia: Caminos, peligros, estrategias” por Nick Bostrom](https://amzn.to/3cvqOSr){:target="_blank"}**
+## **[8. Superinteligencia: Caminos, Peligros, Estrategias de Nick Bostrom](https://amzn.to/3cvqOSr){:target="_blank"}**
 
 Aunque Musk es futurista y está profundamente interesado en la inteligencia artificial, ha compartido sus preocupaciones sobre los peligros potenciales y las preocupaciones éticas asociadas con la tecnología.
 
@@ -257,7 +268,7 @@ Vale la pena leer el libro de Bostrom, que trata sobre los posibles desafíos pr
 <p>Pero tenemos una ventaja: podemos hacer el primer movimiento. ¿Será posible construir una Semilla de Inteligencia Artificial, diseñar condiciones iniciales para que una explosión de inteligencia pueda sobrevivir? ¿Cómo se puede lograr una detonación controlada?</p>
 </details>
 
-## **[Encendido! Una historia informal de los propulsores de cohetes líquidos por John D. Clark](/libros-recomendados-elon-musk-2020/#ignition-pdf){:target="_blank"}**
+## **[9. Encendido! Una historia informal de los propulsores de cohetes líquidos de John D. Clark](/libros-recomendados-elon-musk-2020/#ignition-pdf){:target="_blank"}**
 
 "¡Encendido!" en inglés: "Ignition" es otra cuenta difícil de obtener sobre la ciencia de los primeros cohetes.
 
@@ -285,7 +296,7 @@ Afortunadamente para nosotros, este texto raro está disponible en línea [aquí
 <p></p>
 </details>
 
-## **[Benjamin Franklin: Una vida americana por Walter Isaacson](https://amzn.to/2KgNHNm){:target="_blank"}**
+## **[10. Benjamin Franklin: Una Vida Americana de Walter Isaacson](https://amzn.to/2KgNHNm){:target="_blank"}**
 
 Ben Franklin, autor, inventor, científico y diplomático, es uno de los héroes de Musk.
 
@@ -313,7 +324,7 @@ Comentario de Musk: "Franklin es bastante impresionante", dice.
 <p></p>
 </details>
 
-## **[Estructuras: O porque las cosas no se caen de J. E. Gordon](https://amzn.to/3anrcB1){:target="_blank"}**
+## **[11. Estructuras: O porque las cosas no se caen de J. E. Gordon](https://amzn.to/3anrcB1){:target="_blank"}**
 
 Musk es un autodidacta comprometido, devorando los temas que necesita saber.
 
@@ -337,7 +348,7 @@ Cuando Musk decidió que quería aprender ciencia espacial, estudió libros de t
 <p></p>
 </details>
 
-## **[Mercaderes de la Duda por Erik M. Conway y Naomi Oreskes](https://amzn.to/2RUchrx){:target="_blank"}**
+## **[12. Mercaderes de la Duda de Erik M. Conway y Naomi Oreskes](https://amzn.to/2RUchrx){:target="_blank"}**
 
 Musk recomienda este argumento de dos historiadores que creen que los científicos con conexiones políticas y corporativas han enturbiado los hechos en torno a muchos problemas de salud pública, como los efectos negativos del tabaquismo. Publicó su recomendación en Twitter en 2013.
 
@@ -358,7 +369,7 @@ Casi al mismo tiempo, resumió la conclusión clave del libro en un tuit : "Lo m
 <p>Naomi Oreskes y Erik M. Conway, historiadores de la ciencia, hacen retroceder la alfombra en este oscuro rincón de la comunidad científica estadounidense, mostrando cómo la ideología y los intereses corporativos, con la ayuda de medios demasiado conformes, han sesgado la comprensión pública de algunos de los más importantes. cuestiones urgentes de nuestra era.</p>
 </details>
 
-## [El señor de las moscas” de William Golding](https://amzn.to/3cyQZYy){:target="_blank"}
+## [13. El Señor de las Moscas” de William Golding](https://amzn.to/3cyQZYy){:target="_blank"}
 
 Esta novela clásica sobre supervivencia, competencia y avaricia dejó su huella en el emprendedor tecnológico.
 
@@ -376,13 +387,19 @@ Esta novela clásica sobre supervivencia, competencia y avaricia dejó su huella
 <p></p>
 </details>
 
-## [De cero a uno: Cómo inventar el futuro de Peter Thiel](https://amzn.to/2RTqzJ4){:target="_blank"}
+## [14. De Cero a Uno: Cómo inventar el Futuro de Peter Thiel](https://amzn.to/2RTqzJ4){:target="_blank"}
 
-El libro, basado en notas de una clase popular que Thiel enseñó en la Universidad de Stanford en 2012, se centra en la necesidad de un pensamiento único entre los posibles fundadores de startups. Musk dice que su libro del cofundador de Paypal ofrece una exploración interesante del proceso de construcción de empresas súper exitosas.
+El libro De cero a uno. Se encuentra basado en notas de una clase popular que Peter Thiel enseñó en la Universidad de Stanford el año 2012 que se centra en la necesidad de encontrar un pensamiento único entre los posibles fundadores de startups.
 
-> "CITA"
+Musk ha dicho que el libro del cofundador de Paypal, junto al propio Elon Musk. Ofrece una exploración muy interesante del proceso constitutivo de una empresas exitosa.
 
-> citador
+> Peter Thiel ha creado múltiples empresas innovadoras, y Zero to One muestra cómo hacerlo.
+
+> Elon Musk
+
+Otras personas, han dicho de él..
+
+> Este libro ofrece ideas completamente nuevas y refrescantes sobre cómo crear valor en el mundo.
 
 <details>
 <summary>Saber Más</summary>
@@ -395,11 +412,12 @@ El libro, basado en notas de una clase popular que Thiel enseñó en la Universi
 <p>Zero to One presenta a la vez una visión optimista del futuro del progreso en Estados Unidos y una nueva forma de pensar sobre la innovación: comienza aprendiendo a hacer las preguntas que lo llevan a encontrar valor en lugares inesperados.</p>
 </details>
 
-## Howard Hughes: su vida y locura' de Donald L. Barlett y James B. Steele{:target="_blank"}
+## **[15. Howard Hughes: Su vida y Locura de Donald L. Barlett y James B. Steele](0393326020){:target="_blank"}**
 
-No disponible en español.
+No disponible en español, por tanto si deseas disfrutar de este libro deberás saber inglés.
+{: .notice--info}
 
-En una entrevista con CNN , Musk dijo que acababa de terminar el "Howard Hughes" de Barlett y Steele, una biografía del excéntrico cineasta y magnate de la aviación, que se volvió un poco loco al final de su vida.
+En una entrevista con CNN, Musk dijo que acababa de terminar el "Howard Hughes" de Barlett y Steele, una biografía del excéntrico cineasta y magnate de la aviación, que se volvió un poco loco al final de su vida.
 
 "Definitivamente quiero asegurarme de que no me crezcan demasiado las uñas y empiece a orinar en frascos", dice Musk .
 
@@ -417,7 +435,7 @@ Pero es fácil ver por qué Musk se sentiría atraído por Hughes, que trabajó 
 <p></p>
 </details>
 
-## [La luna es una cruel amante' de Robert Heinlein](https://amzn.to/2Kj940x){:target="_blank"}
+## **[16. La Luna es una Cruel Amante de Robert Heinlein](https://amzn.to/2Kj940x){:target="_blank"}**
 
 Esta galardonada novela de ciencia ficción, publicada originalmente en 1966, pinta el cuadro de una distopía no muy lejana en el futuro. Es exactamente el tipo de mundo de fantasía vívido que satisfaría una imaginación activa como la de Musk.
 
@@ -439,7 +457,7 @@ Es, dijo Musk en una entrevista en Aero / Astro Centennial del MIT , el mejor tr
 <p></p>
 </details>
 
-## Cultura' de Iain M. Banks
+## **[17. Cultura de Iain M. Banks](https://amzn.to/3eFHE2S){:target="_blank"}**
 
 Curiosa saga de nueva ficción, que no se encuentra en papel. Exclusivamente en nuevos formatos, ósea: Ebooks. La saga se divide en dos partes, y cada una a su vez en varios títulos diferentes.
 
