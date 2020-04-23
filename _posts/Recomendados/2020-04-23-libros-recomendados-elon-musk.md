@@ -16,8 +16,8 @@ classed: wide
 permalink: /libros-recomendados-elon-musk-2020/
 canonical_URL: https://ciberninjas.com/libros-recomendados-elon-musk-2020/
 header:
-  teaser: /assets/images/obama-leyendo.jpg
-  overlay_image: https://i.ytimg.com/vi/dMVNCxkBDME/maxresdefault.jpg
+  teaser: /assets/images/blog/abril-elon-musk.webp
+  overlay_image: /assets/images/blog/abril-elon-musk.webp
   overlay_filter: "0.2"
   image_alt: "Elon Musk, libros recomendados para el inicio de 2020 | Visto en Ciberninjas"
   image_description: "Elon Musk, libros recomendados para el inicio de 2020  | Visto en Ciberninjas"
@@ -87,13 +87,14 @@ Esté, va a ser uno de los pocos libros, si no el único. Entre los que Musk rec
 De hecho, el propio firmó junto a otros científicos y personas importantes del mundo de la inteligencia artificial y la robótica, la siguiente [carta abierta](https://futureoflife.org/open-letter-autonomous-weapons#signatories){:target="_blank"}, en la se refleja el que la humanidad debería de estar preocupada.
 
 > "La Inteligencia Artificial será lo mejor o lo peor para la humanidad, así que vamos a hacerlo bien".
+>
 > Elon Musk
 
 Otras personas importantes, como el astrofísico y divulgador científico Stephen Hawking. Escritor de incontables libros y escritos, como por ejemplo: [Breves respuestas a las grandes preguntas](https://amzn.to/2Y58xHs){:target="_blank"} o [La Clave Secreta del Universo](https://amzn.to/2XZfPws){:target="_blank"} o [La Teoría del Todo](https://amzn.to/2RWtn8c){:target="_blank"}.
 Ha dicho sobre Vida 3.0..
 
 > "Esta es la conversación más importante de nuestro tiempo, y el libro de reflexión de Tegmark te ayudará a unirte a ella".
-
+>
 > Stephen Hawking
 
 O el inventor inventor, autor y futurista. Escritor de [La Singularidad está cerca](https://amzn.to/2Ku2g0i){:target="_blank"} y [Cómo crear una mente](https://amzn.to/2VRUzGs){:target="_blank"}.
@@ -391,7 +392,7 @@ Han dicho de él..
 O el escritor Nassim Nicholas Taleb; autor del [Cisne Negro](https://amzn.to/34W9gwg){:target="_blank"}
 
 > "Cuando un tomador de riesgos escribe un libro, léelo. En el caso de Peter Thiel, léelo dos veces. O, para estar seguro, tres veces. Es un clásico".
-> 
+> Nassim Nicholas Taleb
 
 <details>
 <summary>Saber Más</summary>
