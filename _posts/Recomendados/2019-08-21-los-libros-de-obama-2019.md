@@ -32,8 +32,10 @@ Si buscas lecturas recomendables para tus últimos días de playa o para los úl
 
 El ex-presidente, Barack Obama, publicó una lista de los libros que ha estado leyendo a lo largo del año 2019 a través de sus redes sociales el miércoles, destacando sobre todo a los trabajos del recientemente fallecido autor del Premio Nobel: Toni Morrison.
 
-
 Morrison, quien murió el 5 de agosto a la edad de 88 años, escribió varias novelas reconocidas, que incluyen entre otros títulos: “The Bluest Eye”, “Song of Solomon” y “Beloved”. El propio Obama, no duda en recalcar que no te arrepentirás de leer las escrituras de Morrison, en 2012, aún siendo presidente de los EE.UU. Le otorgó a Morrison la Medalla Presidencial de la Libertad.
+
+**🔥 Libros Recomendados Por..**: Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
+{: .notice--danger}
 
 ### Recomendaciones Culturales de Obama 2019
 
@@ -45,7 +47,7 @@ Por desgracia en español, no podemos encontrar estas Obras Completas como tal; 
 Por ejemplo: [Beloved / Amado](https://amzn.to/2L38unG), [La Canción de Salomón](https://amzn.to/2Mw2WFt), [Ojos Azules](https://amzn.to/2L0ITeT), [Sula](https://amzn.to/2NpiH0v) o [Paraíso](https://amzn.to/2MxjInE)
 
 > "no puedes equivocarte leyendo o releyendo los trabajos recopilados de Toni Morrison"
-
+>
 > Barack Obama
 
 <details>
@@ -63,7 +65,7 @@ Por ejemplo: [Beloved / Amado](https://amzn.to/2L38unG), [La Canción de Salomó
 Colson Whitehead dramatiza brillantemente otro aspecto de la historia estadounidense a través de la historia de dos niños condenados a una escuela de reforma infernal en la Florida de la era Jim Crow.
 
 > "detalla la forma en que Jim Crow y el encarcelamiento masivo destrozaron vidas y causaron consecuencias que se producen hoy en día"
-
+>
 > Barack Obama
 
 <details>
@@ -85,7 +87,7 @@ En inglés, no se ha realizado traducción aún.
 Esta esperada segunda colección de historias es la firma de Ted Chiang, llena de ideas reveladoras y personajes profundamente comprensivos. En "The Merchant and the Alchemist's Gate", un portal a través del tiempo obliga a un vendedor de telas en la antigua Bagdad a lidiar con errores pasados y la tentación de segundas oportunidades.
 
 > "es una colección de historias cortas que te harán pensar, lidiar con grandes preguntas y sentirte más humano. El mejor tipo de ciencia ficción"
-
+>
 > Barack Obama
 
 **Otras Obras**: [La historia de tu vida](https://amzn.to/2Vb9PxA){:target="_blank"} (2019), [](){:target="_blank"}
@@ -104,7 +106,7 @@ Existe una versión en español de Wolf Hall denominada "[En la Corte del Lobo](
 Inglaterra en la década de 1520 es un latido del desastre. Si el rey muere sin un heredero, el país podría ser destruido por la guerra civil.
 
 > "Una mirada épica y ficticia sobre el ascenso al poder de Thomas Cromwell, salió en 2009, pero estaba un poco ocupado en aquel entonces, así que me lo perdí. Sigue siendo genial hoy"
-
+>
 > Barack Obama
 
 <details>
@@ -118,7 +120,7 @@ Inglaterra en la década de 1520 es un latido del desastre. Si el rey muere sin 
 "Men without women" ha sido traducido como Hombres sin mujeres. Haruki Murakami ofrece a los lectores siete relatos en torno al aislamiento y la soledad que preceden o siguen a la relación amorosa: hombres que han perdido a una mujer, o cuya relación ha estado marcada por el desencuentro, asisten inermes al regreso de los fantasmas del pasado, viven el enamoramiento como una enfermedad letal, son incapaces de establecer una comunicación plena con la pareja, o ven extrañamente interrumpida su historia de amor.
 
 > "examina lo que sucede con los personajes importantes sin mujeres en sus vidas; te moverá y confundirá y, a veces, te dejará con más preguntas que respuestas"
-
+>
 > Barack Obama
 
 <details>
@@ -134,7 +136,7 @@ Inglaterra en la década de 1520 es un latido del desastre. Si el rey muere sin 
 Es 1986, el corazón de la Guerra Fría, y Marie Mitchell es una agente de inteligencia del FBI. Ella es brillante, pero también es una joven negra que trabaja en un antiguo club de niños, y su carrera se ha estancado; ella es ignorada por cada escuadrón de alto perfil y sus días están llenos de papeleo monótono.
 
 > "es mucho más que un thriller de espías, uniendo los lazos de la familia, el amor y el país"
-
+>
 > Barack Obama
 
 <details>
@@ -154,7 +156,7 @@ Es 1986, el corazón de la Guerra Fría, y Marie Mitchell es una agente de intel
 The Shallows ha sido traducido al español, como: Superficiales: ¿Qué está haciendo Internet con nuestras mentes? Un gran libro relacionado con la tecnología que es lo que a los Ciberninjas nos encanta; por ello, puedes leer más en nuestra [nueva publicación 📒](/catalogo/que-hace-internet-con-nuestras-mentes/)
 
 > "sus argumentos sobre el impacto de Internet en nuestros cerebros, nuestras vidas y nuestras comunidades aún son dignos de reflexión, algo que todos podríamos utilizar un poco más en esta época"
-
+>
 > Barack Obama
 
 <details>
@@ -172,7 +174,7 @@ The Shallows ha sido traducido al español, como: Superficiales: ¿Qué está ha
 Lab Girl ha sido traducido al español, como: La memoria secreta de las hojas: Una historia de árboles, ciencia y amor; cosas de edición, supongo. La aclamada científica Hope Jahren ha construido tres laboratorios en los que ha estudiado árboles, flores, semillas y tierra. Su primer libro es un tratado revelador sobre la vida vegetal, pero también es mucho más.
 
 > "es una memoria bellamente escrita sobre la vida de una mujer en la ciencia, una amistad brillante y la profundidad de los árboles. Estupendo."
-
+>
 > Barack Obama
 
 <details>
@@ -188,7 +190,7 @@ Lab Girl ha sido traducido al español, como: La memoria secreta de las hojas: U
 El autor más vendido del New York Times de The Tiger's Wife regresa con una impresionante historia de perseverancia: un viaje épico a través de un paisaje inolvidable de magia y mito.  
 
 > "se publico recientemente, así que no estropearé nada. Pero aquellos de ustedes que han estado esperando la próxima novela de Obreht no se sentirán decepcionados"
-
+>
 > Barack Obama
 
 <details>
@@ -208,7 +210,7 @@ El autor más vendido del New York Times de The Tiger's Wife regresa con una imp
 How to read the air, ha sido traducido al español, como: El lugar del aire. Una obra maestra literaria desgarradora sobre el amor, la familia y el poder de la imaginación, que confirma la reputación de Mengestu como uno de los talentos más brillantes de su generación.
 
 > "podrás obtener una mejor idea de la complejidad y la redención dentro de la historia de los inmigrantes estadounidenses"
-
+>
 > Barack Obama
 
 <details>
@@ -228,7 +230,7 @@ How to read the air, ha sido traducido al español, como: El lugar del aire. Una
 Evicted conoce a Nickel y Dimed en las memorias de Stephanie Land sobre trabajar como empleada doméstica, una exploración hermosa y arenosa de la pobreza en Estados Unidos. Incluye un prólogo de Barbara Ehrenreich.  
 
 > "es la mirada inquebrantable y personal de una madre soltera a la división de clases en los Estados Unidos, una descripción de la cuerda floja por la que muchas familias caminan para sobrevivir y un recordatorio de la dignidad del trabajo"
-
+>
 > Barack Obama
 
 <details>
@@ -248,6 +250,12 @@ Esta es la variada lista de libros sobre diferenciadas temáticas que el ex-pres
 Obama tiene la costumbre de publicar listas de lectura desde que ocupo la Casa Blanca, y mantiene esa tradición desde que ceso de su cargo en 2017. Incluso, en 2018, se atrevió con una lista de libros, películas y música en fin de año.
 {: .notice--primary}
 
-## 📚 Catálogo Completo
+Creado el 2019-08-21. Actualizado el 2020-04-23
+{: .notice--info}
+
+**🔥 Libros Recomendados Por..**: Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
+{: .notice--danger}
+
+### 📚 Catálogo Completo
 
 [🕸 Administraci&oacute;n y Redes](/categoria/#administración-y-redes "Libros de Redes y Administración"){: .btn.btn--success.btn--large} [🌄 Ciencias de la Tierra](/categoria/#ciencias-de-la-tierra "Libros de Categoría de Ciencias de la Tierra"){: .btn.btn--success.btn--large} [🔬 Ciencias Informáticas](/categoria/#ciencias-informáticas "Libros de Categoría Ciencias Informáticas"){: .btn.btn--success.btn--large} [💪 Desarrollo Personal](/categoria/#desarrollo-personal "Libros de Categoría Desarrollo Personal"){: .btn.btn--success.btn--large} [🧠 Neuropsicolog&iacute;a](/categoria/#neuropsicología "Libros relacionados con la neurociencia y la psicología"){: .btn.btn--success.btn--large} [👨‍💻 Programación Móvil](/categoria/#programación-móvil "Libros de Frameworks de Creación de Aplicaciones Móviles Multiplataforma"){: .btn.btn--success.btn--large} [⭐ Recomendaciones](/categoria/#recomendaciones "Libros recomendados por diferentes personajes famosos de influencia"){: .btn.btn--success.btn--large} [🌐 Red e Internet](/categoria/#red-e-internet "Libros en relación a las Redes e Internet"){: .btn.btn--success.btn--large} [🔐 Seguridad Inform&aacute;tica](/categoria/#seguridad-inform%C3%A1tica "Libros de Categoría Seguridad Informática"){: .btn.btn--success.btn--large} [🤼 Sociología](/categoria/#sociología "Libros de Categoría Sociología"){: .btn.btn--success.btn--large}

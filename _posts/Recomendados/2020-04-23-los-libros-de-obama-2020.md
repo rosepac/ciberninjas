@@ -57,24 +57,22 @@ Para comenzar, aquí están las recomendaciones que el ex presidente recomienda 
     <li><a href="/los-mejores-libros-de-obama-inicio-2020/#13-" title="Saber sobre el libro Solitario por Albert Woodfox"><strong>Solitario por Albert Woodfox</strong></a></li>
     <li><a href="/los-mejores-libros-de-obama-inicio-2020/#14-" title="Saber sobre el libro La escuela de Topeka por Ben Lerner"><strong>La escuela de Topeka por Ben Lerner</strong></a></li>
     <li><a href="/los-mejores-libros-de-obama-inicio-2020/#15-" title="Saber sobre el libro Falso espejo: Reflexiones sobre el autoengaño por Jia Tolentino"><strong>Falso espejo: Reflexiones sobre el autoengaño por Jia Tolentino</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#16-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#17-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#18-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#19-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#20-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#21-" title="Saber sobre el libro"><strong></strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#16-" title="Saber sobre el libro Ejercicio de confianza por Susan Choi"><strong>Ejercicio de confianza por Susan Choi</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#17-" title="Saber sobre el libro Vivimos en el Agua por Jess Walter"><strong>Vivimos en el Agua por Jess Walter</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#18-" title="Saber sobre el libro El Sexo Hombre: Una Memoria por André Iguodala"><strong>El Sexo Hombre: Una Memoria por André Iguodala</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#19-" title="Saber sobre el libro Una forma Diferente de Ganar por Jim Rooney"><strong>Una forma Diferente de Ganar por Jim Rooney</strong></a></li>
   </ol>
 </nav>
 </details>
 
-**🔥 Libros Recomendados Por..**: Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/)
+**🔥 Libros Recomendados Por..**: Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}
 
-## **[La Era del Capitalismo de la Vigilancia de Shoshana Zuboff](https://amzn.to/2UO1Yr4){:target="_blank"}**
+## **[1. La Era del Capitalismo de la Vigilancia de Shoshana Zuboff](https://amzn.to/2UO1Yr4){:target="_blank"}**
 
-Por desgracia en español, esta es una obra que no encontraremos más que en inglés e italiano. Shoshana Zuboff es una reconocida economista, psicóloga y filósofa; con varios títulos en su bibliografía y por desgracia ninguno de ellos traducido al español.
+Por desgracia no existe en español, esta es una obra que no encontraremos más que en inglés e italiano. Shoshana Zuboff es una reconocida economista, psicóloga y filósofa; con varios títulos en su bibliografía y por desgracia ninguno de ellos traducido al español.
 
-Este libro no ha sido solamente reconocido por Barack Obama, si no que se ha includio entre las listas más importantes de los mejores libros del 2019; como por ejemplo en la lista de los mejores libros de Bloomberg, o la de los libros más destacados por el New York Times en 2019, entre otros reconocimientos.
+Este libro no ha sido solamente reconocido por Barack Obama, si no que se ha incluido entre las listas más importantes de los mejores libros del 2019; como por ejemplo en la lista de los mejores libros de Bloomberg, o la de los libros más destacados por el New York Times en 2019, entre otros reconocimientos.
 <!-- No sólo tiene Zuboff exploración en profundidad de un fenómeno creciente, la vigilancia titular capitalismo capturado la imaginación de los 44 º Presidente de los Estados Unidos, sino que también se ha ganado un lugar entre muchas otras listas de fin de año notable piense, TIEMPO 's 100 libros imprescindibles de 2019, los mejores libros de Bloomberg de 2019, y uno de los  100 libros notables de 2019 del  New York Times , y más. -->
 
 Haciendo una comparación frecuente con **la [Primavera Silenciosa](https://amzn.to/3aL31NO) (1962) de Rachel Carson** por su impactante visión de un tema generalizado en desarrollo que aún no es de conocimiento común para el público en general. La Era del Capitalismo de la Vigilancia **sorprendió a las comunidades literarias y tecnológicas** durante el 2019.
@@ -84,7 +82,7 @@ Denominado por *The Guardian* como "un texto que define una época" o "un clási
 Como sociedad, estamos optando por conceder nuestra privacidad a cambio de una mayor conexión y conveniencia. No es solo una nueva tendencia: tiene ramificaciones reales y peligrosas para la economía y la democracia en general.
 
 > Fácilmente el libro más importante que se publicará este siglo. Me resulta difícil tomar en serio a cualquier joven activista que al menos no se haya familiarizado con las ideas centrales de Zuboff..
-
+>
 > Zadie Smith, The Guardian
 
 **Reseñas y extractos**: [El Diario](https://www.eldiario.es/economia/Manual-resistencia-capitalismo-vigilancia_0_961354208.html){:target="_blank"}, [El País](https://elpais.com/elpais/2019/10/11/ideas/1570795153_974032.html){:target="_blank"}
@@ -93,21 +91,15 @@ Como sociedad, estamos optando por conceder nuestra privacidad a cambio de una m
     <summary>Saber Más</summary>
 <br/>    
 <p>Shoshana Zuboff ha sido llamada "el verdadero profeta de la era de la información" por el Financial Times por su libro innovador,gracias a esta obra. Ahora es profesora emérita en la Harvard Business School, así como profesora asociada en el Centro Berkman para la Sociedad e Internet en la Facultad de Derecho de Harvard. En 2006, la revista de estrategias y negocios la nombró entre los once pensadores de negocios más originales del mundo.</p>
-
 <p>Los desafíos para la humanidad que plantea el futuro digital, el primer examen detallado de la forma de poder sin precedentes llamada "capitalismo de vigilancia" y la búsqueda de poderosas corporaciones para predecirnos y controlarnos.</p>
-
 <p>El optimismo embriagador de los primeros días de Internet se ha ido. Las tecnologías que estaban destinadas a liberarnos han profundizado la desigualdad y avivaron las divisiones. Las empresas tecnológicas recopilan nuestra información en línea y la venden al mejor postor, ya sea gubernamental o minorista. Las ganancias ahora dependen no solo de predecir nuestro comportamiento sino también de modificarlo.</p>
-
 <p><strong>¿Cómo esta fusión del capitalismo y lo digital dará forma a nuestros valores y definirá nuestro futuro?</strong></p>
-
 <p>Shoshana Zuboff muestra que estamos en una encrucijada. Todavía tenemos el poder de decidir en qué tipo de mundo queremos vivir, y lo que decidamos ahora dará forma al resto del siglo. Nuestras opciones: permitir que la tecnología enriquezca a unos pocos y empobrezca a muchos, o aproveche y distribuya sus beneficios.</p>
-
 <p>La era del capitalismo de vigilanciaEs un examen profundamente razonado de la amenaza de un poder sin precedentes libre de supervisión democrática. A medida que explora el impacto de este nuevo capitalismo en la sociedad, la política, los negocios y la tecnología, expone las luchas que decidirán tanto el próximo capítulo del capitalismo como el significado de la civilización de la información.</p>
-
 <p>Lo más crítico es que muestra cómo podemos protegernos a nosotros mismos y a nuestras comunidades y asegurarnos de que somos los dueños de lo digital en lugar de sus esclavos.</p>
 </details> 
 
-## **[La anarquía: El ascenso implacable de las Compañías Indias del Este por William Dalrym](https://amzn.to/39O8mCC){:target="_blank"}**
+## **[2. La anarquía: El ascenso implacable de las Compañías Indias del Este por William Dalrym](https://amzn.to/39O8mCC){:target="_blank"}**
 En inglés, no se ha realizado traducción aún.
 
 Del autor del BestSeller [El Retorno de un Rey](https://amzn.to/34eFPVH){:target="_blank"}, la historia de cómo de las Compañías Indias del Este se hicieron cargo de grandes extensiones por toda Asia con devastadores resultados.
@@ -115,7 +107,7 @@ Del autor del BestSeller [El Retorno de un Rey](https://amzn.to/34eFPVH){:target
 **La Anarquía** cuenta una de las historias más notables de la historia: cómo el Imperio mogol, que dominaba el comercio mundial y la fabricación y poseía recursos casi ilimitados, se vino abajo y fue reemplazado por una corporación multinacional con sede a miles de kilómetros en el extranjero, y responsable ante accionistas, la mayoría de los cuales nunca habían visto la India y no tenían idea sobre el país cuya riqueza estaba proporcionando sus dividendos.
 
 > Excelente. Una historia vívida y rica en detalles. Vale la pena ser leído por todos.
-
+>
 > The New York Times
 
 <details>
@@ -128,7 +120,7 @@ Del autor del BestSeller [El Retorno de un Rey](https://amzn.to/34eFPVH){:target
 <p>En el transcurso de los siguientes 47 años, el alcance de la compañía creció hasta que casi toda la India al sur de Delhi fue efectivamente gobernada desde una sala de juntas en la ciudad de Londres.</p>
 </details>
 
-## **[Horas Furiosas: Asesinato, fraude y el último juicio de Harper Lee por Casey Cep](https://amzn.to/2Rg6lsw){:target="_blank"}**
+## **[3. Horas Furiosas: Asesinato, fraude y el último juicio de Harper Lee por Casey Cep](https://amzn.to/2Rg6lsw){:target="_blank"}**
 En inglés, no se ha realizado traducción aún.
 
 Un triunfo en todos los niveles . Una de las pérdidas para la literatura es que Harper Lee nunca encontró una manera de contar una historia gótica de verdadero crimen que había pasado años investigando.
@@ -138,7 +130,7 @@ Un triunfo en todos los niveles . Una de las pérdidas para la literatura es que
 La deslumbrante historia de un asesino en serie de Alabama y el libro del crimen real en el que Harper Lee trabajó obsesivamente en los años posteriores a *Matar a un ruiseñor(https://amzn.to/2Rgimy7){:target="_blank"}*.
 
 > "Fascinante ... Cep ha unido una historia de asesinatos múltiples del sur del gótico y la triste historia de la carrera literaria de Lee, para producir una historia que es fascinante en sus detalles y profundamente conmovedora ... [Cep] pasa el primer tercio de Furious Hours siguiendo el asombroso rastro de asesinatos ... Fascinante ... Cep escribe sobre todo esto con gran habilidad, sensibilidad y atención al detalle"
-
+>
 > Sunday Times
 
 **Extractos**: [Resumen del Libro](https://resumidito.com/resumen/horas-furiosas-furious-hours-por-casey-cep){:target="_blank"}
@@ -149,11 +141,10 @@ La deslumbrante historia de un asesino en serie de Alabama y el libro del crimen
 <p>El reverendo Willie Maxwell era un predicador rural acusado de asesinar a cinco miembros de su familia por dinero del seguro en la década de 1970. Con la ayuda de un abogado experto, escapó de la justicia durante años hasta que un pariente lo mató a tiros en el funeral de su última víctima. A pesar de cientos de testigos, el asesino de Maxwell fue absuelto, gracias al mismo abogado que había defendido previamente al reverendo.</p>
  
 <p>Como Alabama está consumida por estos eventos apasionantes, no pasa mucho tiempo hasta que la noticia del caso llegue al escritor más famoso de Alabama y de Estados Unidos. Intrigado por la historia, Harper Lee hace un viaje de regreso a su estado natal para presenciar el juicio en la cara del asesino del reverendo. Lee tuvo la idea de escribir su propio In Cold Blood, el clásico del verdadero crimen que había ayudado a su amigo Truman Capote a investigar. Pasó un año en la ciudad informando sobre el caso Maxwell y muchos años más tratando de terminar el libro que llamó The Reverend.</p>
-
 <p>Ahora Casey Cep da vida a esta historia, desde los asesinatos impactantes hasta el drama de la corte y la política racial del sur profundo. Al mismo tiempo, ofrece un retrato profundamente conmovedor de uno de los escritores más queridos de Estados Unidos y su lucha con la fama, el éxito y el misterio de la creatividad artística.</p>
 </details>
 
-## **[Niña, mujer, otras de Bernardine Evaristo](https://amzn.to/2XckZow){:target="_blank"}**
+## **[4. Niña, mujer, otras de Bernardine Evaristo](https://amzn.to/2XckZow){:target="_blank"}**
 La novela que compartió el premio Man Booker con Margaret Atwood. Una Gran Bretaña como nunca se ha contado. De Newcastle a Cornualles, desde principios del siglo veinte hasta las adolescentes del veintiuno, en " Niña, mujer, otras" seguimos a un reparto de doce personajes en sus viajes personales por este país y sus últimos cien años de vida. Todas están enfrascadas en una búsqueda: Un pasado compartido, un futuro inesperado, un lugar al que llamar hogar, un sitio donde encajar, una amante, una madre desaparecida, un padre perdido, e incluso, un rayo de esperanza...
 
 <details>
@@ -162,29 +153,25 @@ La novela que compartió el premio Man Booker con Margaret Atwood. Una Gran Bret
 <p>Bernardine Evaristo es autora de ocho libros y muchas otras obras producidas y publicadas que abarcan los siguientes géneros: novela, poesía, ficción en verso, relato corto, ensayo, crítica literaria, teatro y radionovela. Su obra se fundamenta en su interés por la diáspora africana. Es profesora de Escritura Creativa en la Brunel University London. " Con Mujer, niña, otras " fue ganadora, junto con Margaret Atwood, del Premio Man Booker 2019.</p>
 </details>
 
-## **[El latido del corazón de la rodilla herida de David Treuer](https://amzn.to/3dXi5dl){:target="_blank"}**
+## **[5. El latido del corazón de la rodilla herida de David Treuer](https://amzn.to/3dXi5dl){:target="_blank"}**
 
 Una historia de barrido - y contra-narrativa - de la vida de los nativos americanos desde la masacre de Wounded Knee hasta el presente.
 
 > Un retrato informado, conmovedor y caleidoscópico ... El poderoso libro de Treuer sugiere la necesidad de investigar el significado de la historia estadounidense y las historias que nos contamos sobre el pasado de esta nación ..."
-
+>
 > New York Times
 
 <details>
 <summary>Saber Más</summary>
 <br/>
 <p>La idea recibida de la historia de los nativos americanos, tal como fue promulgada por libros como el megaventas de 1970 de Dee BrownEnterrar mi corazón en Wounded Knee: ha sido que la historia de los indios americanos esencialmente terminó con la masacre de 1890 en Wounded Knee. No solo murieron ciento cincuenta sioux a manos de la caballería estadounidense, sino que también la civilización nativa.</p>
-
 <p>Al crecer Ojibwe en una reserva en Minnesota, entrenándose como antropólogo e investigando la vida nativa pasada y presente para su no ficción y novelas, David Treuer ha descubierto una narrativa diferente. Debido a que no desaparecieron, y no a pesar de sus intensas luchas por preservar su idioma, sus tradiciones, sus familias y su propia existencia, la historia de los indios estadounidenses desde finales del siglo XIX hasta el presente es uno de ingenio y reinvención sin precedentes.</p>
-
 <p>En <em>El latido del corazón de la rodilla herida</em>, Treuer combina la historia con reportajes y memorias. Rastreando las culturas distintivas de las tribus desde el primer contacto, explora cómo las depredaciones de cada época generaron nuevos modos de supervivencia.</p>
-
 <p>Las devastadoras incautaciones de tierras dieron lugar a maniobras legales y políticas cada vez más sofisticadas que desmienten el mito de que los indios no conocen ni se preocupan por la propiedad.</p>
-
 <p>La asimilación forzada de sus hijos en internados administrados por el gobierno incubó una identidad nativa unificadora. El reclutamiento en el ejército de los EE. UU. Y la atracción de la vida urbana llevaron a los indios a los tiempos dominantes y modernos, incluso mientras dirigía la forma emergente del autogobierno y generaba una nueva generación de resistencia.</p>
 </details>
 
-## **[Cómo no hacer nada por Jenny Odell](https://amzn.to/2Xk6TRU){:target="_blank"}**
+## **[6. Cómo no hacer nada por Jenny Odell](https://amzn.to/2Xk6TRU){:target="_blank"}**
 
 **Cómo no hacer nada: Resistiendo la economía de la atención** consiste en actos de observaciones cercanas, como la observación de aves, la recolección de capturas de pantalla o el intento de analizar formas extrañas de comercio electrónico.
 
@@ -199,7 +186,7 @@ Así lo argumenta la artista y crítica Jenny Odell en esta guía de campo para 
 Lejos de la simple regla de la anti-tecnología, o la meditación de regreso a la naturaleza que leemos tan a menudo, Cómo no hacer nada es un plan de acción para pensar fuera de las *narrativas capitalistas* de la actualidad.
 
 > NOMBRADO UNO DE LOS MEJORES LIBROS DEL AÑO EN..
-
+>
 > Time • The New Yorker • NPR • GQ • Elle • Vulture • Fortune • Boing Boing • The Irish Times • The New York Public Library • The Brooklyn Public Library
 
 **Entrevista a la Autora**: [Tha Guardian](https://www.theguardian.com/lifeandstyle/2019/apr/02/jenny-odell-how-to-do-nothing-attention){:target="_blank"}
@@ -211,7 +198,7 @@ Lejos de la simple regla de la anti-tecnología, o la meditación de regreso a l
 <p>Su obra de arte, por ejemplo, ha utilizado imágenes de Google Earth y Google Maps. Además, ha enseñado arte en Internet y diseño digital / físico en la Universidad de Stanford desde 2013. Fue artista residente en Internet Archive en 2017.</p>
 </details>
 
-## **[Desierto Sonoro por Valeria Luiselli](https://amzn.to/2XerrLG){:target="_blank"}**
+## **[7. Desierto Sonoro por Valeria Luiselli](https://amzn.to/2XerrLG){:target="_blank"}**
 
 Traducido al español como Desierto Sonoro, del inglés "El archivo de los Niños Perdidos". En esta nueva novela emocionalmente y ferozmente imaginativa, vas a poder encontrar a una familia cuyo viaje por Estados Unidos choca con una crisis de inmigración en la frontera suroeste: un viaje indeleble contado con imágenes impresionantes, lirismo sobrio y humanidad profunda.
 
@@ -228,7 +215,7 @@ A medida que la familia conduce, de Virginia a Tennessee, a través de Oklahoma 
 Contando a través de varias voces convincentes, combinando textos, sonidos e imágenes, El Archivo de los Niños Perdidos es una asombrosa hazaña de virtuosismo literario. Es una historia muy interesante de cómo documentamos nuestras experiencias y cómo recordamos las cosas que más nos importan. Con urgencia y empatía, nos lleva a lo más profundo de la vida de una familia notable, ya que hoy prueba la naturaleza de la justicia y la igualdad.
 
 > "La novela realmente se convierte en novela nuevamente en manos de Luiselli: eléctrica, elástica, atractiva, nueva"
-
+>
 > Parul Sehgal,  The New York Times
 
 <details>
@@ -239,7 +226,7 @@ Contando a través de varias voces convincentes, combinando textos, sonidos e im
 <p></p>
 </details>
 
-## **[Gente Normal de Sally Ronney](https://amzn.to/2wm8rjw){:target="_blank"}**
+## **[8. Gente Normal de Sally Ronney](https://amzn.to/2wm8rjw){:target="_blank"}**
 
 En la escuela, Connell y Marianne fingen no conocerse. Él es popular y bien adaptado, estrella del equipo de fútbol de la escuela mientras ella está sola, orgullosa e intensamente privada. Pero cuando Connell viene a recoger a su madre de su trabajo de limpieza en la casa de Marianne, crece una conexión extraña e indeleble entre los dos adolescentes, uno que están decididos a ocultar.
 
@@ -248,7 +235,7 @@ Un año después, ambos estudian en el Trinity College de Dublín. Marianne ha e
 Sally Rooney aporta su brillante agudeza psicológica y su prosa perfectamente reservada a una historia que explora las sutilezas de la clase, la electricidad del primer amor y los complejos enredos de la familia y la amistad; valores que también se ven reflejados en su obra anterior: [Conversaciones entre amigos](https://amzn.to/2Ra8oyr){:target="_blank"}.
 
 > Marianne y Connell se acercan, se alejan, se aman, dudan, cada uno piensa que al otro no le importa lo bastante, se deprimen, sufren, gozan y el vals que nos narra Sally Rooney termina siendo una historia de amor cercana, honesta, pura y bellísima.
-
+>
 > Isabel Coixet
 
 <details>
@@ -260,7 +247,7 @@ Sally Rooney aporta su brillante agudeza psicológica y su prosa perfectamente r
 <p></p>
 </details>
 
-## **[El huérfano de Adam Johnson](https://amzn.to/3aPo4ij){:target="_blank"}**
+## **[9. El huérfano de Adam Johnson](https://amzn.to/3aPo4ij){:target="_blank"}**
 
 El Huérfano, es una novela épica y un emocionante que sigue el viaje de un joven a través de las aguas heladas, los túneles oscuros y las misteriosas cámaras de espías de la dictadura más misteriosa del mundo en Corea del Norte.
 
@@ -273,7 +260,7 @@ Parte del thriller sin aliento, parte de la historia de la inocencia perdida, pa
 Otro importante novela de Adam Johnson es [George Orwell fue amigo mío](https://amzn.to/2UPjDP7){:target="_blank"} (2017)
 
 > Increíblemente bien escrita y simplemente apasionante - Premio Pullitzer de 2013
-
+>
 > Zadie Smith, Los Angeles Times
 
 <details>
@@ -283,7 +270,7 @@ Otro importante novela de Adam Johnson es [George Orwell fue amigo mío](https:/
 <p>Fundó el Stanford Graphic Novel Project y fue nombrado "uno de los profesores universitarios más influyentes e imaginativos del país" por la revista Playboy. Su ficción ha aparecido en Esquire, Harper's y The Paris Review. Es autor de Emporium , una colección de cuentos y la novela, Parasites Like Us., que ganó el Premio del Libro de California. Su novela más reciente: El hijo del maestro huérfano, en español traducido como "El Huérfano", ganó el Premio Pulitzer 2013 en la categoría de ficción.</p>
 </details>
 
-## **[La Casa Amarilla de Sarah M. Broom](https://amzn.to/2wj66G3){:target="_blank"}**
+## **[10. La Casa Amarilla de Sarah M. Broom](https://amzn.to/2wj66G3){:target="_blank"}**
 No traducido al español, aún..
 
 En 1961, la madre de Sarah M. Broom, Ivory Mae, compró una casa de escopetas en el prometedor vecindario de Nueva Orleans East y construyó su mundo dentro de ella. Era el apogeo de la carrera espacial y el vecindario albergaba una importante planta de la NASA: el optimismo de la posguerra parecía asegurado. 
@@ -300,7 +287,7 @@ Un libro de gran ambición, La casa amarilla de Sarah M. Broom cuenta cien años
 <p></p>
 </details>
 
-## **[No digas nada por Patrick Radden Keefe](https://amzn.to/3c1sRgZ){:target="_blank"}**
+## **[11. No digas nada por Patrick Radden Keefe](https://amzn.to/3c1sRgZ){:target="_blank"}**
 
 No digas nada: Una historia real de crimen y memoria en Irlanda del Norte. En diciembre de 1972, Jean McConville, una madre de diez y treinta y ocho años, fue sacada de su casa en Belfast por intrusos enmascarados, sus hijos se aferraron a sus piernas. Nunca la volvieron a ver.
 
@@ -326,7 +313,7 @@ No digas nada; evoca un mundo de pasión, traición, venganza y angustia.
 <p></p>
 </details>
 
-## **[Solitario por Albert Woodfox](https://amzn.to/34cmN2o){:target="_blank"}**
+## **[12. Solitario por Albert Woodfox](https://amzn.to/34cmN2o){:target="_blank"}**
 
 Solitario es la historia de vida inolvidable de un hombre que cumplió más de cuatro décadas en confinamiento solitario, en una celda de 6 pies por 9 pies, 23 horas al día, en la famosa prisión de Angola en Louisiana --todos por un crimen que no cometió.
 
@@ -341,7 +328,7 @@ Notablemente consciente de que la ira o la amargura lo habrían destruido en con
 Los tres de Angola, como se los conoció, resolvieron nunca ser destruidos por la inhumana y la corrupción que los mantuvo prisioneros políticos durante décadas. Sobrevivió para darnos Solitary , una crónica de poder y humanidad raros que demuestra que los mejores espíritus de nuestra naturaleza pueden prosperar contra viento y marea.
 
 > "CITA"
-
+>
 > citador
 
 **Historia**: [Albert Woodfox: 40 años en confinamiento solitario](https://www.alainet.org/es/active/62050){:target="_blank"}
@@ -353,7 +340,7 @@ Los tres de Angola, como se los conoció, resolvieron nunca ser destruidos por l
 <p>Robert King fue condenado por un asesinato en prisión separado en 1973 y pasó 29 años en confinamiento solitario antes de que su condena fuera revocada en apelación. Fue puesto en libertad en 2001 después de llegar a un acuerdo de culpabilidad. Desde finales de la década de 1990, se evaluó cada caso y los activistas comenzaron a trabajar para que se apelaran los casos y se anularan las condenas debido a las dudas planteadas sobre los juicios originales.</p>
 </details>
 
-## **[La escuela de Topeka por Ben Lerner](https://amzn.to/3aItewx){:target="_blank"}**
+## **[13. La escuela de Topeka por Ben Lerner](https://amzn.to/3aItewx){:target="_blank"}**
 No traducido, todavía.
 
 Un drama familiar tierno y expansivo ambientado en el Medio Oeste de Estados Unidos a principios de siglo: una historia de adolescencia, transgresión y las condiciones que han dado lugar a la trolls y tiranos de la nueva derecha.
@@ -378,13 +365,14 @@ También es una prehistoria fascinante del presente: el colapso del discurso pú
 <p>La madre de Lerner es la conocida psicóloga Harriet Lerner.</p>
 </details>
 
-## **[Falso espejo: Reflexiones sobre el autoengaño por Jia Tolentino](){:target="_blank"}**
+## **[14. Falso espejo: Reflexiones sobre el autoengaño por Jia Tolentino](){:target="_blank"}**
 
 Falso Espejo es un viaje esclarecedor e inolvidable a través del río del autoengaño que surge justo debajo de la superficie de nuestras vidas. Este es un libro sobre los incentivos que nos dan forma y sobre lo difícil que es vernos claramente en una cultura que gira en torno a uno mismo.
 
 En cada ensayo, Jia escribe sobre los prismas culturales que la han formado: el surgimiento de la pesadilla de internet social; el estafador estadounidense como héroe milenario; el viaje de la heroína literaria de valiente a blanco a amargo; el mandato de que todo, incluidos nuestros cuerpos, siempre debería ser más eficiente y hermoso hasta que muramos.
 
 > "Magnífico"
+>
 > The Times
 
 <details>
@@ -395,7 +383,7 @@ En cada ensayo, Jia escribe sobre los prismas culturales que la han formado: el 
 <p></p>
 </details>
 
-## **[Ejercicio de confianza por Susan Choi](https://amzn.to/2UKeRSW){:target="_blank"}**
+## **[15. Ejercicio de confianza por Susan Choi](https://amzn.to/2UKeRSW){:target="_blank"}**
 
 La finalista al Premio Pulitzer de narrativa, Susan Choi, nos ofrece con esta novela el relato sobre lo que ocurre cuando un primer amor entre los estudiantes de secundaria se interrumpe por las regañinas de un maestro carismático.
 
@@ -406,7 +394,7 @@ El mundo exterior de la vida familiar y el estado económico, de la presión aca
 Tan cautivador y tierno como sorprendente, Confíe en el ejercicioincitará conversaciones acaloradas sobre ficción y verdad, amistades y lealtades, y dejará a los lectores con una comprensión más sabia de las verdaderas capacidades de los adolescentes y de los poderes y responsabilidades de los adultos.
 
 > "Muchas novelas enseñan a sus lectores cómo leerlas; el lector de este debe aprender algo más: permanecer con el no saber el tiempo suficiente para encontrar la verdad."
-
+>
 > Joanna Biggs, The New Yorker
 
 **Otras Obras**: [Mi Educación]((https://amzn.to/2xSMdpA)){:target="_blank"} (2014)
@@ -420,7 +408,7 @@ Tan cautivador y tierno como sorprendente, Confíe en el ejercicioincitará conv
 <p>Recibió becas de National Endowment for the Arts y de la Fundación Guggenheim, vive en Brooklyn, Nueva York con su esposo, Pete Wells y sus hijos Dexter y Elliot.</p>
 </details>
 
-## **[Vivimos en el Agua por Jess Walter](https://amzn.to/3aZ0v6Z){:target="_blank"}**
+## **[16. Vivimos en el Agua por Jess Walter](https://amzn.to/3aZ0v6Z){:target="_blank"}**
 No traducido.
 
 We Live in Water es una colección oscuramente cómica y conmovedora de historias cortas que van desde cuentos cómicos de amor hasta sátiras sociales y novelas policiacas de suspenso, desde Portland hasta Seattle, hasta Spokane, desde un casino condenado en Las Vegas. a un lago sin fondo en los oscuros bosques de Idaho. Este es un mundo de padres perdidos y estafadores redentores, de modificadores de metanfetamina en odiseas desesperadas y hombres que se suicidan pescando.
@@ -436,7 +424,7 @@ En "Thief", un trabajador de aluminio se convierte en un detective poco probable
 <p>Walter también escribe guiones y fue coautor del éxito de ventas de Christopher Darden en 1996, In Contempt . Vive con su esposa Anne y sus hijos, Brooklyn, Ava y Alec en la casa de su infancia de Spokane, Washington.</p>
 </details>
 
-## **[El Sexto Hombre: Una Memoria por Andre Iguodala](https://amzn.to/3aO03bl){:target="_blank"}**
+## **[17. El Sexto Hombre: Una Memoria por Andre Iguodala](https://amzn.to/3aO03bl){:target="_blank"}**
 
 Fuera de la cancha, Iguodala también se ha ganado el respeto, por sus exitosas inversiones en tecnología, su filantropía y cada vez más por sus contribuciones a la conversación sobre la raza en Estados Unidos. No es sorprendente, entonces, que en su primer libro, Andre, con su co escritor Carvell Wallace, se haya esforzado para llegar más lejos que nunca antes de su vida, no solo como un atleta, sino también sobre lo que lo convierte en quien él está en su núcleo.
 
@@ -452,7 +440,7 @@ En el impulso, en el liderazgo, en el dolor, en los logros, en la vergüenza de 
 <p></p>
 </details>
 
-## **[Una forma diferente de ganar por Jim Rooney](https://amzn.to/3dSwnvE){:target="_blank"}**
+## **[18. Una forma diferente de ganar por Jim Rooney](https://amzn.to/3dSwnvE){:target="_blank"}**
 
 Dan Rooney fue uno de los ejecutivos deportivos más influyentes de su generación, el hombre que transformó a los Pittsburgh Steelers en una de las grandes dinastías y franquicias de estreno de la Liga Nacional de Fútbol.
 
@@ -465,3 +453,8 @@ Parte de memorias, parte de biografía de negocios, parte de libro de historia. 
 -----
 
 Espero que disfrutes de estas recomendaciones y no te olvides de visitar nuestras otras publicaciones [relacionadas de Barack Obama](/los-libros-de-obama-2019/).
+
+-----
+
+**🔥 Libros Recomendados Por..**: Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"} >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
+{: .notice--danger}

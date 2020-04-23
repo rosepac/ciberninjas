@@ -1,6 +1,6 @@
 ---
 author_profile: true
-title: "🥇 ▷ Los libros favoritos y recomendados por Satya Nadella el 2020"
+title: "🥇 ▷ Los libros favoritos y recomendados por Satya Nadella, para el día del libro 2020"
 description: 'Los lecturas favoritas que han servido de inspiración al actual CEO de Microsoft: Satya Nadella'
 excerpt: 'Los lecturas favoritas que han servido de inspiración al actual CEO de Microsoft: Satya Nadella'
 date: 2020-04-23 12:30:59
@@ -55,6 +55,9 @@ A continuación se presentan sus tres opciones principales, basadas en sus entre
   </ol>
 </nav>
 </details>
+
+**🔥 Libros Recomendados Por..**: [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"} >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
+{: .notice--danger}
 
 ## [El Pasillo Estrecho](https://amzn.to/2wYy0av){:target="_blank"}
 

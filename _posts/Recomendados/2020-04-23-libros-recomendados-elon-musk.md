@@ -101,14 +101,14 @@ O el inventor inventor, autor y futurista. Escritor de [La Singularidad está ce
 Ha dicho sobre Vida 3.0..
 
 > “El nuevo libro de Tegmark es una guía profundamente reflexiva sobre la conversación más importante de nuestro tiempo, sobre cómo crear una civilización futura benevolente a medida que fusionamos nuestro pensamiento biológico con una inteligencia aún mayor de nuestra propia creación”.
-
+>
 > Ray Kurzweil
 
 <details>
 <summary>Saber Más</summary>
 <br/>
 <p>¿Cómo afectará la Inteligencia Artificial al crimen, la guerra, la justicia, el empleo, la sociedad y nuestro propio sentido de ser humanos?</p>
-<p>El **aumento de la Inteligencia Artificial tiene el potencial de transformar nuestro futuro más que cualquier otra tecnología**, y no hay nadie mejor calificado o situado para explorar ese futuro que Max Tegmark, un profesor del MIT que ha ayudado a la investigación general sobre cómo mantener la IA beneficiosa para la humanidad.</p>
+<p>El <strong>aumento de la Inteligencia Artificial tiene el potencial de transformar nuestro futuro más que cualquier otra tecnología</strong>, y no hay nadie mejor calificado o situado para explorar ese futuro que Max Tegmark, un profesor del MIT que ha ayudado a la investigación general sobre cómo mantener la IA beneficiosa para la humanidad.</p>
 <p>¿Cómo podemos aumentar nuestra prosperidad a través de la automatización sin dejar a las personas sin ingresos o propósito?</p>
 <p>¿Qué consejo profesional deberíamos dar a los niños de hoy?</p>
 <p>¿Cómo podemos hacer que los futuros sistemas de inteligencia artificial sean más robustos, para que hagan lo que queremos sin fallar, funcionar mal o ser pirateados? ¿Deberíamos temer una carrera armamentista con armas letales autónomas?</p>
@@ -129,7 +129,7 @@ Por lo tanto, no es sorprendente que **Elon haya elegido el libro "Nuestra inven
 En este libro, Barrat analiza el potencial de la IA, sopesando sus ventajas y desventajas. Según el propio autor en su página web, el libro trata, al menos en parte "**sobre la desventaja catastrófica de la inteligencia artificial, algo de lo que nunca oirás hablar de Google, Apple, IBM o DARPA**".
 
 > "La inteligencia artificial, es nuestra mayor amenaza existencial."
-
+>
 > Elon Musk
 
 <details>
@@ -162,7 +162,7 @@ Musk también dijo que le enseñó que “las civilizaciones se mueven en ciclos
 Como resultado, Musk comenzó SpaceX en 2002 (después de su segunda puesta en marcha, X.com, que más tarde se convirtió en PayPal, se vendió a eBay por $ 1.5 mil millones). -->
 
 > "Las lecciones de la historia sugerirían que las civilizaciones se mueven en ciclos. Puedes rastrear eso bastante lejos: los babilonios, los sumerios, seguidos por los egipcios, los romanos, China. Obviamente estamos en un ciclo muy ascendente en este momento y esperamos que ese sea el caso. Pero puede que no. Podría haber una serie de eventos que causen que el nivel de tecnología disminuya. Dado que esta es la primera vez en 4.500 millones de años en que la humanidad ha podido extender la vida más allá de la Tierra, parece que sería prudente actuar mientras la ventana se encuentre abierta y no contar con el hecho de que estará abierta por mucho tiempo más".
-
+>
 > Elon Musk
 
 <details>
@@ -186,7 +186,7 @@ Y eso era, aprovechar su soledad para leer constantemente libros sobre fantasía
 Entre esos libros, como ya hemos citado, se encontraban los de Isaac Asimov; pero también le encantaba **la saga de El señor de los anillos de JRR Tolkien** y dentro de todos esos libros; se encuentra la mayor para de culpa de la construcción del pensamiento futurista de Elon Musk.
 
 > "Los héroes de los libros que leí siempre sintieron el deber de salvar al mundo".
-
+>
 > Elon Musk
 
 <details>
@@ -208,7 +208,7 @@ Al igual que su rival Thomas Edison, Tesla fue uno de los primeros investigadore
 Siendo un astuto autorrelogador y un talentoso escaparate, cultivó la imagen de un genio excéntrico entre la gente. Incluso muriendo en la pobreza, logró atraer a los entrevistadores para su cumpleaños gracias a las acusaciones de su creación de armas subatómicas que podrían destruir los aviones enemigos.
 
 > Elon Musk: “Me gustan las biografías de los científicos. Por supuesto, uno no puede dejar de mencionar a Tesla, una persona completamente única”.
-
+>
 > Elon Musk
 
 <details>
@@ -246,10 +246,8 @@ Hasta que se encontró con "La Guía del Autoestopista Galáctico" un divertido 
 
 Esto fue instructivo para un joven Elon.
 
-
-
-> "Si puedes formular correctamente la pregunta, entonces la respuesta es la parte fácil", dijo Musk en una entrevista . "Entonces, en la medida en que podamos comprender mejor el universo, entonces podremos saber qué preguntas hacer".
-
+> "Si puedes formular correctamente la pregunta, entonces la respuesta es la parte fácil" . "Entonces, en la medida en que podamos comprender mejor el universo, entonces podremos saber qué preguntas hacer".
+>
 > Elon Musk
 
 <details>
@@ -265,7 +263,7 @@ Esto fue instructivo para un joven Elon.
 Aunque Musk es futurista y está profundamente interesado en la inteligencia artificial, ha compartido **sus preocupaciones sobre los peligros potenciales** y **las preocupaciones éticas asociadas con la tecnología**.
 
 > "Vale la pena leer el libro de Bostrom, que trata sobre los posibles desafíos presentados si la inteligencia computacional supera la inteligencia humana".
-
+>
 > Elon Musk
 
 <details>
@@ -291,7 +289,7 @@ Aunque el libro es difícil de encontrar, a la gente le suele gustar: Este libro
 Es un libro muy interesante y estimulante porque Clark captó en él; mucho del entusiasmo que tenía por los cohetes. Elon Musk lo citó [en una entrevista](https://www.theguardian.com/technology/2013/jul/17/elon-musk-mission-mars-spacex){:target="_blank"} al diario The Guardian.
 
 > "Hay un buen libro sobre cohetes llamado: ¡Encendido! de John Clark, que es muy divertido".
-
+>
 > Elon Musk
 
 ### Encendido - Leer Versión PDF Online
@@ -305,7 +303,7 @@ Afortunadamente, este extraño libro está disponible en línea [aquí](http://l
 Algo sobre eso es similar a la historia de Musk: crecer en Pretoria (Sudáfrica) ir a la escuela en Canadá, cambiarse a la Universidad de Pensilvania y luego usar una invitación del programa de doctorado para aterrizar en Silicon Valley.
 
 > "Franklin es bastante impresionante" . "Se puede ver cómo Franklin era un empresario” . “Era un emprendedor. Él comenzó de la nada. Era solo un niño fugitivo"
-
+>
 > Elon Musk
 
 <details>
@@ -331,7 +329,7 @@ Para cualquiera que alguna vez se haya preguntado por qué los puentes colgantes
 **Cuando Musk decidió que quería aprender ciencia espacial**, **estudió libros de texto sobre astrofísica e ingeniería**. Si bien la lectura de textos avanzados sobre física puede no ser para todos, este libro ofrece una visión más clara de la ciencia detrás de SpaceX.
 
 > "Es realmente muy bueno si quieres una introducción al diseño estructural".
-
+>
 > Elon Musk
 
 <details>
@@ -379,19 +377,20 @@ El libro De cero a uno. Esta basado en notas de una clase popular que Peter Thie
 El libro, escrito por el cofundador de Paypal, Peter Thiel, junto al propio Elon Musk. Ofrece una **exploración muy interesante del proceso constitutivo de una empresa exitosa**.
 
 > "Peter Thiel ha creado múltiples empresas innovadoras, y Zero to One te muestra cómo puedes hacerlo".
-
+>
 > Elon Musk
 
 Otras personas, como CEO de Facebook.
 Han dicho de él..
 
 > Este libro ofrece ideas completamente nuevas y refrescantes sobre cómo crear valor en el mundo.
-
+>
 > Mark Zuckerberg
 
 O el escritor Nassim Nicholas Taleb; autor del [Cisne Negro](https://amzn.to/34W9gwg){:target="_blank"}
 
 > "Cuando un tomador de riesgos escribe un libro, léelo. En el caso de Peter Thiel, léelo dos veces. O, para estar seguro, tres veces. Es un clásico".
+>
 > Nassim Nicholas Taleb
 
 <details>
@@ -412,13 +411,13 @@ No disponible en español, por tanto si deseas disfrutar de este libro deberás 
 
 En una entrevista con CNN, Musk dijo que acababa de terminar el "Howard Hughes" de Barlett y Steele, una biografía del excéntrico cineasta y magnate de la aviación, que se volvió un poco loco al final de su vida.
 
-"Definitivamente quiero asegurarme de que no me crezcan demasiado las uñas y empiece a orinar en frascos", dice Musk .
+, dice Musk .
 
 Pero es fácil ver por qué Musk se sentiría atraído por Hughes, que trabajó en múltiples industrias y empujó los límites de volar, rompiendo récords de velocidad del aire.
 
-> "CITA"
-
-> citador
+> "Definitivamente quiero asegurarme de que no me crezcan demasiado las uñas y empiece a orinar en frascos".
+>
+> Elon Musk
 
 <details>
 <summary>Saber Más</summary>
@@ -434,37 +433,32 @@ Esta galardonada novela de ciencia ficción, publicada originalmente en 1966, pi
 
 En el libro, un grupo de personas ha sido exiliado de la tierra a la luna, donde han creado una sociedad libertaria. En el año 2076, un grupo de rebeldes, incluido un superordenador llamado Mike y un técnico informático con un solo brazo, lideran la revolución de la colonia lunar contra sus gobernantes terrestres.
 
-Es, dijo Musk en una entrevista en Aero / Astro Centennial del MIT , el mejor trabajo de Heinlein.
-
 <!-- En términos de libros, Lord Of The Rings es probablemente mi libro favorito, pero no es realmente ciencia ficción, de hecho, curiosamente, JR Tolkien es casi anti-tecnología. Es gracioso. Lord Of The Rings fue un libro, pero es una especie de antitecnología, pero sigue siendo genial. Creo que la serie Foundation de Asimov es como una de las mejores de la historia, y los libros de Arthur C. Clarke y Heinlein son probablemente los tres mejores autores de ciencia ficción. Recientemente, alguien me recomendaba las novelas de Ian Banks como bastante buenas. Sí, ¿qué crees que es bueno? [La Luna es una amante dura.] Sí, es gracioso que debas mencionar eso. Creo que ese es el mejor libro de Heinlein, sinceramente. -->
 
-> "CITA"
-
-> citador
+> "Creo que es el mejor libro de Heinlein, sinceramente".
+>
+> Elon Musk
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>Es una historia de revolución, de la rebelión de una antigua colonia penal en la Luna contra sus amos en la Tierra. Es una historia de una cultura cuyas estructuras familiares se basan en la presencia de dos hombres por cada mujer, lo que lleva a formas novedosas de matrimonio y familia. Es la historia de personas dispares, un técnico informático, una vigorosa joven agitadora y una académica de edad avanzada que se convierten en líderes del movimiento, y de Mike, la supercomputadora cuya sensibilidad es conocida solo por el círculo interno de la revuelta, que por razones de el suyo está comprometido con el éxito final de la revolución. </p>
-<p></p>
-<p></p>
+<p>Es una historia de revolución, de la rebelión de una antigua colonia penal en la Luna contra sus amos en la Tierra. Es una historia de una cultura cuyas estructuras familiares se basan en la presencia de dos hombres por cada mujer, lo que lleva a formas novedosas de matrimonio y familia.</p>
+<p>Es la historia de personas dispares, un técnico informático, una vigorosa joven agitadora y una académica de edad avanzada que se convierten en líderes del movimiento, y de Mike, la supercomputadora cuya sensibilidad es conocida solo por el círculo interno de la revuelta, que por razones de el suyo está comprometido con el éxito final de la revolución.</p>
 </details>
 
 ## **[17. Cultura de Iain M. Banks](https://amzn.to/3eFHE2S){:target="_blank"}**
 
 Curiosa saga de nueva ficción, que no se encuentra en papel. Exclusivamente en nuevos formatos, ósea: Ebooks. La saga se divide en dos partes, y cada una a su vez en varios títulos diferentes.
 
-La [primera parte la puedse conseguir aquí](https://amzn.to/3ajyqWx), [la segunda parte](https://amzn.to/2KluZnK); en total, 4 y 4, 8 títulos diferentes: Pensad en flebas, Eljugador, Última generación y El uso de las armas. Excesión, Inversiones, A Barlovento y Materia; y faltan otros dos títulos que no han sido traducidos al español.. 
+La [primera parte la puedes conseguir aquí](https://amzn.to/3ajyqWx), [la segunda parte](https://amzn.to/2KluZnK); en total, 4 y 4, 8 títulos diferentes: Pensad en flebas, Eljugador, Última generación y El uso de las armas. Excesión, Inversiones, A Barlovento y Materia; y faltan otros dos títulos que no han sido traducidos al español.. 
 
-Musk ha estado abriendo camino a través de esta serie desde 2014.
+Musk la ha estado leyendo desde el año 2014.
 
 Los libros cuentan la historia de una futura sociedad semi-anarquista llamada Cultura, que incluye humanoides, extraterrestres e inteligencias artificiales.
 
-Es una convincente imagen omnipresente de un gran futuro galáctico semi-utópico", [tuiteó Musk](https://twitter.com/elonmusk/status/548268486003535872){:target="_blank"} . "Esperemos que no sea demasiado optimista sobre la IA".
-
-> "CITA"
-
-> citador
+> "Es una convincente imagen omnipresente de un gran futuro galáctico semi-utópico" . "Esperemos que no sea demasiado optimista sobre la IA".
+>
+> Elon Musk
 
 <details>
 <summary>Saber Más</summary>
@@ -474,6 +468,5 @@ Es una convincente imagen omnipresente de un gran futuro galáctico semi-utópic
 <p></p>
 </details>
 
-Fuentes:
-
-[Fresh Dialogues](http://www.freshdialogues.com/2013/02/07/transcript-of-elon-musk-interview-with-alison-van-diggelen-iron-man-growing-up-in-south-africa/), [Kevin Rose Youtube](https://www.youtube.com/watch?v=L-s_3b5fRd8#t=38), [KCRW](https://www.kcrw.com/culture/articles/can-elon-musk-fix-the-405), [Media Bistro](http://www.mediabistro.com/galleycat/the-science-fiction-books-that-inspired-elon-musk_b67209), [CNN Youtube](https://www.youtube.com/watch?v=fQQ2xtXPLkU), [The Guardian](http://www.theguardian.com/technology/2013/jul/17/elon-musk-mission-mars-spacex), [Shitelonsays](http://shitelonsays.com/transcript/elon-musk-at-mits-aeroastro-centennial-part-6-of-6-2014-10-24)
+**Fuentes**\: [Fresh Dialogues](http://www.freshdialogues.com/2013/02/07/transcript-of-elon-musk-interview-with-alison-van-diggelen-iron-man-growing-up-in-south-africa/){:target="_blank"}, [Kevin Rose Youtube](https://www.youtube.com/watch?v=L-s_3b5fRd8#t=38), [KCRW](https://www.kcrw.com/culture/articles/can-elon-musk-fix-the-405){:target="_blank"}, [Media Bistro](http://www.mediabistro.com/galleycat/the-science-fiction-books-that-inspired-elon-musk_b67209){:target="_blank"}, [CNN Youtube](https://www.youtube.com/watch?v=fQQ2xtXPLkU){:target="_blank"}, [The Guardian](http://www.theguardian.com/technology/2013/jul/17/elon-musk-mission-mars-spacex){:target="_blank"}, [Shitelonsays](http://shitelonsays.com/transcript/elon-musk-at-mits-aeroastro-centennial-part-6-of-6-2014-10-24){:target="_blank"}{:target="_blank"}
+{: .notice--info}
