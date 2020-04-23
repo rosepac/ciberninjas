@@ -6,6 +6,7 @@ excerpt: 'Los libros favoritos de Elon Musk, con los que se ha inspirado y llega
 date: 2020-04-23 09:33:59
 last_modified_at: 
 published: true
+classes: wide
 categories:
 - Recomendaciones
 tags:

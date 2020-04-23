@@ -6,6 +6,7 @@ excerpt: 'Los lecturas favoritas que han servido de inspiración al actual CEO d
 date: 2020-04-23 12:30:59
 last_modified_at: 
 published: true
+classes: wide
 categories:
 - Recomendaciones
 tags:
@@ -16,7 +17,7 @@ permalink: /libros-recomendados-satya-nadella-2020/
 canonical_URL: https://ciberninjas.com/libros-recomendados-satya-nadella-2020/
 header:
   teaser: /assets/images/Satya Nadella-leyendo.jpg
-  overlay_image: /assets/images/Satya Nadella-leyendo.jpg
+  overlay_image: https://techseen.com/wp-content/uploads/Satya-Nadella-Future-Decoded.jpeg
   overlay_filter: "0.2"
   image_alt: "Satya Nadella, libros recomendados para el inicio de 2020 | Visto en Ciberninjas"
   image_description: "Satya Nadella, libros recomendados para el inicio de 2020  | Visto en Ciberninjas"

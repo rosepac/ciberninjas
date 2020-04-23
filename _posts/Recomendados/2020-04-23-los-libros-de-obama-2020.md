@@ -6,6 +6,7 @@ excerpt: "Los libros recomendados por Obama hace del 2020 un año mejor. Lectura
 date: 2020-04-23 08:35:59
 last_modified_at: 
 published: true
+classes: wide
 categories:
 - Recomendaciones
 tags:
