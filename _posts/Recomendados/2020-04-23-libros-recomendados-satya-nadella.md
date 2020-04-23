@@ -234,7 +234,7 @@ El astronauta coronel Chris Hadfield ha pasado más de 4.000 horas en el espacio
 <p>A través de historias entretenidas y reveladoras llenas de la adrenalina del lanzamiento, la fascinante maravilla de las caminatas espaciales y las respuestas medidas y tranquilas ordenadas por las crisis, explica cómo la sabiduría convencional puede interponerse en el camino del logro y la felicidad.</p>
 <p>Su propia educación extraordinaria en el espacio le ha enseñado algunas lecciones contrarias a la intuición: no visualice el éxito, cuide lo que piensan los demás y sude siempre las cosas pequeñas</p>
 <p>Es posible que nunca pueda construir un robot, pilotear una nave espacial, hacer un video musical o realizar una cirugía básica en gravedad cero como el Coronel Hadfield.</p>
-<p>Pero sus ideas vívidas y refrescantes te enseñarán a pensarcomo un astronauta, y cambiará por completo la forma en que ves la vida en la Tierra, especialmente la tuya.</p>
+<p>Pero sus ideas vívidas y refrescantes te enseñarán a pensar como un astronauta, y cambiará por completo la forma en que ves la vida en la Tierra, especialmente la tuya.</p>
 </details>
 
 ## **[10. La gran convergencia de Richard Baldwin](https://amzn.to/2xVcd3X){:target="_blank"}**
@@ -335,7 +335,7 @@ Es de una escena en la que el protagonista, Taran, expresa su frustración por s
 
 Lloyd Alexander escribió esto en el primer libro, «El libro de los tres», en la galardonada serie «Las crónicas de Prydain». Él escribió más de 40 libros de fantasía durante su vida.
 
-Los [Cuatro tomos de las crónicas en español](https://amzn.to/3asnOF6), ahora mismo son libros practicamente de colección, por lo que su precio es elevadísimo.
+Los [Cuatro tomos de las crónicas en español](https://amzn.to/3asnOF6), ahora mismo son libros prácticamente de colección, por lo que su precio es elevadísimo.
 
 <details>
 <summary>Saber Más</summary>
