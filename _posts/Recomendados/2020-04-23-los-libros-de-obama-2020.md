@@ -1,8 +1,8 @@
 ---
 author_profile: true
-title: "🥇 ▷ Los Libros Recomendados por Barack Obama este 2019 📖"
-description: 'Los libros recomendados por Obama hace del 2020 un año mejor. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
-excerpt: 'Los libros recomendados por Obama hace del 2020 un año mejor. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
+title: "🥇 ▷ Los Libros Recomendados por Barack Obama 2020"
+description: "Los libros recomendados por Obama hace del 2020 un año mejor. Lecturas favoritas del ex-presidente de Estados Unidos, Barack Obama"
+excerpt: "Los libros recomendados por Obama hace del 2020 un año mejor. Lecturas favoritas del ex-presidente de Estados Unidos, Barack Obama"
 date: 2020-04-23 08:35:59
 last_modified_at: 
 published: true
@@ -65,6 +65,9 @@ Para comenzar, aquí están las recomendaciones que el ex presidente recomienda 
   </ol>
 </nav>
 </details>
+
+**🔥 Libros Recomendados Por..**: Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/)
+{: .notice--danger}
 
 ## **[La Era del Capitalismo de la Vigilancia de Shoshana Zuboff](https://amzn.to/2UO1Yr4){:target="_blank"}**
 
