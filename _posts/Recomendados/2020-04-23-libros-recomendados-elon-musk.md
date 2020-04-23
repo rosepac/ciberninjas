@@ -16,8 +16,8 @@ classed: wide
 permalink: /libros-recomendados-elon-musk-2020/
 canonical_URL: https://ciberninjas.com/libros-recomendados-elon-musk-2020/
 header:
-  teaser: /assets/images/blog/abril-elon-musk.webp
-  overlay_image: /assets/images/blog/abril-elon-musk.webp
+  teaser: /assets/images/blog/abril-elon-musk-1.webp
+  overlay_image: /assets/images/blog/abril-elon-musk-1.webp
   overlay_filter: "0.2"
   image_alt: "Elon Musk, libros recomendados para el inicio de 2020 | Visto en Ciberninjas"
   image_description: "Elon Musk, libros recomendados para el inicio de 2020  | Visto en Ciberninjas"
