@@ -44,23 +44,23 @@ Para comenzar, aquí están las recomendaciones que el ex presidente recomienda 
 <nav class="menu">
   <ol>
     <li><a href="/los-mejores-libros-de-obama-inicio-2020/#1-la-era-del-capitalismo-de-la-vigilancia-de-shoshana-zuboff" title="Saber sobre el libro La Era del Capitalismo de la Vigilancia de Shoshana Zuboff"><strong>La Era del Capitalismo de la Vigilancia de Shoshana Zuboff</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#2-" title="Saber sobre el libro La anarquía: El ascenso implacable de las Compañías Indias del Este"><strong>La anarquía: El ascenso implacable de las Compañías Indias del Este de William Dalrym</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#3-" title="Saber sobre el libro Horas Furiosas: Asesinato, fraude y el último juicio de Harper Lee por Casey Cep"><strong>Horas Furiosas: Asesinato, fraude y el último juicio de Harper Lee de Casey Cep</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#4-" title="Saber sobre el libro Niña, mujer, otras"><strong>Niña, mujer, otras de Bernardine Evaristo</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#5-" title="Saber sobre el libro El latido del corazón de la rodilla herida"><strong>El latido del corazón de la rodilla herida de David Treuer</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#6-" title="Saber sobre el libro Cómo no hacer nada"><strong>Cómo no hacer nada por Jenny Odell</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#8-" title="Saber sobre el libro Desierto Sonoro por Valeria Luiselli"><strong>Desierto Sonoro por Valeria Luiselli</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#9-" title="Saber sobre el libro Gente Normal de Sally Ronney"><strong>Gente Normal de Sally Ronney</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#10-" title="Saber sobre el libro El huérfano de Adam Johnson"><strong>El huérfano de Adam Johnson</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#11-" title="Saber sobre el libro La Casa Amarilla de Sarah M. Broom"><strong>La Casa Amarilla de Sarah M. Broom</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#12-" title="Saber sobre el libro No digas nada por Patrick Radden Keefe"><strong>No digas nada por Patrick Radden Keefe</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#13-" title="Saber sobre el libro Solitario por Albert Woodfox"><strong>Solitario por Albert Woodfox</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#14-" title="Saber sobre el libro La escuela de Topeka por Ben Lerner"><strong>La escuela de Topeka por Ben Lerner</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#15-" title="Saber sobre el libro Falso espejo: Reflexiones sobre el autoengaño por Jia Tolentino"><strong>Falso espejo: Reflexiones sobre el autoengaño por Jia Tolentino</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#16-" title="Saber sobre el libro Ejercicio de confianza por Susan Choi"><strong>Ejercicio de confianza por Susan Choi</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#17-" title="Saber sobre el libro Vivimos en el Agua por Jess Walter"><strong>Vivimos en el Agua por Jess Walter</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#18-" title="Saber sobre el libro El Sexo Hombre: Una Memoria por André Iguodala"><strong>El Sexo Hombre: Una Memoria por André Iguodala</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#19-" title="Saber sobre el libro Una forma Diferente de Ganar por Jim Rooney"><strong>Una forma Diferente de Ganar por Jim Rooney</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#2-la-anarquía-el-ascenso-implacable-de-las-compañías-indias-del-este-por-william-dalrym" title="Saber sobre el libro La anarquía: El ascenso implacable de las Compañías Indias del Este"><strong>La anarquía: El ascenso implacable de las Compañías Indias del Este de William Dalrym</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#3-horas-furiosas-asesinato-fraude-y-el-último-juicio-de-harper-lee-por-casey-cep" title="Saber sobre el libro Horas Furiosas: Asesinato, fraude y el último juicio de Harper Lee por Casey Cep"><strong>Horas Furiosas: Asesinato, fraude y el último juicio de Harper Lee de Casey Cep</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#4-niña-mujer-otras-de-bernardine-evaristo" title="Saber sobre el libro Niña, mujer, otras"><strong>Niña, mujer, otras de Bernardine Evaristo</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#5-el-latido-del-corazón-de-la-rodilla-herida-de-david-treuer" title="Saber sobre el libro El latido del corazón de la rodilla herida"><strong>El latido del corazón de la rodilla herida de David Treuer</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#6-cómo-no-hacer-nada-por-jenny-odell" title="Saber sobre el libro Cómo no hacer nada"><strong>Cómo no hacer nada por Jenny Odell</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#7-desierto-sonoro-por-valeria-luiselli" title="Saber sobre el libro Desierto Sonoro por Valeria Luiselli"><strong>Desierto Sonoro por Valeria Luiselli</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#8-gente-normal-de-sally-ronney" title="Saber sobre el libro Gente Normal de Sally Ronney"><strong>Gente Normal de Sally Ronney</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#9-el-huérfano-de-adam-johnson" title="Saber sobre el libro El huérfano de Adam Johnson"><strong>El huérfano de Adam Johnson</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#10-la-casa-amarilla-de-sarah-m-broom" title="Saber sobre el libro El huérfano de Adam Johnson"><strong>La Casa Amarilla de sarah M. Broom</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#11-no-digas-nada-por-patrick-radden-keefe" title="Saber sobre el libro No Digas Nada por Patrick Radden Keefe"><strong>No Digas Nada por Patrick Radden Keefe</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#12-solitario-por-albert-woodfox" title="Saber sobre el libro Solitario por Albert Woodfox"><strong>Solitario por Albert Woodfox</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#13-la-escuela-de-topeka-por-ben-lerner" title="Saber sobre el libro La escuela de Topeka por Ben Lerner"><strong>La escuela de Topeka por Ben Lerner</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#14-falso-espejo-reflexiones-sobre-el-autoengaño-por-jia-tolentino" title="Saber sobre el libro Falso espejo: Reflexiones sobre el autoengaño por Jia Tolentino"><strong>Falso espejo: Reflexiones sobre el autoengaño por Jia Tolentino</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#15-ejercicio-de-confianza-por-susan-choi" title="Saber sobre el libro Ejercicio de confianza por Susan Choi"><strong>Ejercicio de confianza por Susan Choi</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#16-vivimos-en-el-agua-por-jess-walter" title="Saber sobre el libro Vivimos en el Agua por Jess Walter"><strong>Vivimos en el Agua por Jess Walter</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#17-el-sexto-hombre-una-memoria-por-andre-iguodala" title="Saber sobre el libro El Sexo Hombre: Una Memoria por André Iguodala"><strong>El Sexo Hombre: Una Memoria por André Iguodala</strong></a></li>
+    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#18-una-forma-diferente-de-ganar-por-jim-rooney" title="Saber sobre el libro Una forma Diferente de Ganar por Jim Rooney"><strong>Una forma Diferente de Ganar por Jim Rooney</strong></a></li>
   </ol>
 </nav>
 </details>
