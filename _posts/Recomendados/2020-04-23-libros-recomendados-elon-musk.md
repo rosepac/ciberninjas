@@ -42,26 +42,37 @@ Al investigar el perfil personal del CEO de Tesla y SpaceX. El periódico The Ne
 
 Como veremos a continuación, los libros siempre han sido importantes para Musk: **inspirándole cuando era niño**, **dándole héroes cuando era un adolescente** y **ayudándole a aprender sobre la ciencia aplicada a las naves espaciales mientras lanzaba SpaceX**.
 
-Aquí, vas a encontrar los libros que dieron forma a uno de los emprendedores más revolucionarios del nuevo Siglo XXI.
+Aquí, vas a encontrar los libros que dieron forma a uno de los emprendedores más revolucionarios del Siglo.
+<!-- Elon Musk: El empresario que anticipa el futuro de Ashlee Vance (2018) https://amzn.to/2VTvlqW -->
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#1-vida-3.0" title="Saber más sobre el libro Vida 3.0 de Max Tegmark"><strong>Vida 3.0</strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#2-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#3-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#4-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#5-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#6-" title="Saber sobre el libro"><strong></strong></a></li>
-    <li><a href="/los-mejores-libros-de-obama-inicio-2020/#7-" title="Saber sobre el libro"><strong></strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#1-vida-30-de-max-tegmark" title="Saber más sobre el libro Vida 3.0 de Max Tegmark"><strong>Vida 3.0 de Max Tegmark</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#2-nuestra-invención-final-de-james-barrat" title="Saber más sobre el libro Nuestra Invención Final de James Barrat"><strong>Nuestra Invención Final de James Barrat</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#3-la-fundación-de-isaac-asimov" title="Saber más sobre el libro La Fundación de Isaac Asimov"><strong>La Fundación de Isaac Asimov</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#4-el-señor-de-los-anillos-de-jrr-tolkien" title="Saber más sobre el libro El Señor de los Anillos de J. R. R. Tolkien"><strong>El Señor de los Anillos de J. R. R. Tolkien</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#5-nikola-tesla-el-inventor-de-la-era-eléctrica-por-walter-isaacson" title="Saber más sobre el libro Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson"><strong>Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#6-einstein-su-vida-y-su-universo-de-walter-isaacson" title="Saber más sobre el libro einstein: Su Vida y Su Universo de Walter Isaacson"><strong>einstein: Su Vida y Su Universo de Walter Isaacson</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#7-la-guía-del-autoestopista-galáctico-de-douglas-adams" title="Saber más sobre el libro La Guía del Autoestopista Galáctico de Douglas Adams"><strong>La Guía del Autoestopista Galáctico de Douglas Adams</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#8-superinteligencia-caminos-peligros-estrategias-de-nick-bostrom" title="Saber más sobre el libro Super Inteligencia: Caminos, Peligros y Estrategias de Nick Bostrom"><strong>Super Inteligencia: Caminos, Peligros y Estrategias de Nick Bostrom</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#9-encendido-una-historia-informal-de-los-propulsores-de-cohetes-líquidos-de-john-d-clark" title="Saber más sobre el libro Encendido: Una Historia Informal de los Propulsores de Cohetes de John D. Clark"><strong>Encendido: Una Historia Informal de los Propulsores de Cohetes de John D. Clark</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#10-benjamin-franklin-una-vida-americana-de-walter-isaacson" title="Saber más sobre el libro Benjamin Franklin: Una Vida Americada de Walter Isaacson"><strong>Benjamin Franklin: Una Vida Americada de Walter Isaacson</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#11-estructuras-o-porque-las-cosas-no-se-caen-de-j-e-gordon" title="Saber más sobre el libro Estructuras: O porque las Cosas no se Caen de J. E. Gordon"><strong>Estructuras: O porque las Cosas no se Caen de J. E. Gordon</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#12-mercaderes-de-la-duda-de-erik-m-conway-y-naomi-oreskes" title="Saber más sobre el libro Mercaderes de la Duda de Erick M. Conway y Naomi Oreskes"><strong>Mercaderes de la Duda de Erick M. Conway y Naomi Oreskes</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#13-el-señor-de-las-moscas-de-william-golding" title="Saber más sobre el libro El Señor de las Moscas de William Golding"><strong>El Señor de las Moscas de William Golding</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#14-de-cero-a-uno-cómo-inventar-el-futuro-de-peter-thiel" title="Saber más sobre el libro De Cero a Uno: Cómo inventar el Futuro de Peter Thiel"><strong>De Cero a Uno: Cómo inventar el Futuro de Peter Thiel</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#15-howard-hughes-su-vida-y-locura-de-donald-l-barlett-y-james-b-steele" title="Saber más sobre el libro Howard Hughes: Su Vida y Locura de Donald L. Barret y James B. Steele"><strong>Howard Hughes: Su Vida y Locura de Donald L. Barret y James B. Steele</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#16-la-luna-es-una-cruel-amante-de-robert-heinlein" title="Saber más sobre el libro La Luna es una Cruel Amante de Robert Heinlein"><strong>La Luna es una Cruel Amante de Robert Heinlein</strong></a></li>
+    <li><a href="/libros-recomendados-elon-musk-2020/#17-cultura-de-iain-m-banks" title="Saber más sobre el libro Cultura de Iain M. Banks"><strong>Cultura de Iain M. Banks</strong></a></li>
   </ol>
 </nav>
 </details>
 <!-- https://www.cnbc.com/2017/02/21/billionaire-elon-musk-credits-his-success-to-these-8-books.html -->
 <!-- https://www.businessinsider.com/elon-musk-favorite-books-2015-10?IR=T -->
 
-**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"}
+**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> Barack Obama 2020 - [Saber Más](/libros-recomendados-elon-musk-2020/){:target="_blank"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"}
 {: .notice--danger}
 
 <!-- https://www.vbqspeakers.com/max-tegmark -->
@@ -73,8 +84,9 @@ En **Vida 3.0**, el profesor del MIT: **Max Tegmark**. Escribe sobre **cómo des
 
 Esté, va a ser uno de los pocos libros, si no el único. Entre los que Musk recomienda, en el que se aborda la posibilidad de que **la inteligencia artificial sea una evolución en búsqueda del bien** de la humanidad y no para crear el mal.
 
-> "La Inteligencia Artificial será lo mejor o lo peor para la humanidad, así que vamos a hacerlo bien".
+De hecho, el propio firmó junto a otros científicos y personas importantes del mundo de la inteligencia artificial y la robótica, la siguiente [carta abierta](https://futureoflife.org/open-letter-autonomous-weapons#signatories){:target="_blank"}, en la se refleja el que la humanidad debería de estar preocupada.
 
+> "La Inteligencia Artificial será lo mejor o lo peor para la humanidad, así que vamos a hacerlo bien".
 > Elon Musk
 
 Otras personas importantes, como el astrofísico y divulgador científico Stephen Hawking. Escritor de incontables libros y escritos, como por ejemplo: [Breves respuestas a las grandes preguntas](https://amzn.to/2Y58xHs){:target="_blank"} o [La Clave Secreta del Universo](https://amzn.to/2XZfPws){:target="_blank"} o [La Teoría del Todo](https://amzn.to/2RWtn8c){:target="_blank"}.
@@ -96,15 +108,20 @@ Ha dicho sobre Vida 3.0..
 <br/>
 <p>¿Cómo afectará la Inteligencia Artificial al crimen, la guerra, la justicia, el empleo, la sociedad y nuestro propio sentido de ser humanos?</p>
 <p>El **aumento de la Inteligencia Artificial tiene el potencial de transformar nuestro futuro más que cualquier otra tecnología**, y no hay nadie mejor calificado o situado para explorar ese futuro que Max Tegmark, un profesor del MIT que ha ayudado a la investigación general sobre cómo mantener la IA beneficiosa para la humanidad.</p>
-<p>¿Cómo podemos aumentar nuestra prosperidad a través de la automatización sin dejar a las personas sin ingresos o propósito? ¿Qué consejo profesional deberíamos dar a los niños de hoy? ¿Cómo podemos hacer que los futuros sistemas de inteligencia artificial sean más robustos, para que hagan lo que queremos sin fallar, funcionar mal o ser pirateados? ¿Deberíamos temer una carrera armamentista con armas letales autónomas? ¿Las máquinas eventualmente nos engañarán en todas las tareas, reemplazando a los humanos en el mercado laboral y tal vez por completo? ¿La IA ayudará a que la vida florezca como nunca antes o nos dará más poder del que podemos manejar?</p>
-<p>¿Qué tipo de futuro tienes ?¿desear? Este libro le permite unirse a lo que puede ser la conversación más importante de nuestro tiempo. No rehuye la gama completa de puntos de vista o los temas más controvertidos, desde la superinteligencia hasta el significado, la conciencia y los límites físicos finales de la vida en el cosmos.</p>
+<p>¿Cómo podemos aumentar nuestra prosperidad a través de la automatización sin dejar a las personas sin ingresos o propósito?</p>
+<p>¿Qué consejo profesional deberíamos dar a los niños de hoy?</p>
+<p>¿Cómo podemos hacer que los futuros sistemas de inteligencia artificial sean más robustos, para que hagan lo que queremos sin fallar, funcionar mal o ser pirateados? ¿Deberíamos temer una carrera armamentista con armas letales autónomas?</p>
+<p>¿Las máquinas eventualmente nos engañarán en todas las tareas, reemplazando a los humanos en el mercado laboral y tal vez por completo?</p>
+<p>¿La IA ayudará a que la vida florezca como nunca antes o nos dará más poder del que podemos manejar?</p>
+<p>¿Qué tipo de futuro tienes? ¿O deseas?</p>
+<p>Este libro te permite unirte a lo que puede ser la conversación más importante de nuestro tiempo. No rehuye ninguna opinión respecto a los puntos de vista sobre los temas más controvertidos, desde la superinteligencia hasta el significado, la conciencia y los límites físicos de la vida dentro del cosmos.</p>
 </details>
 
 ## **[2. Nuestra invención final de James Barrat](https://amzn.to/2XTdaEG){:target="_blank"}**
 
 Musk ha advertido publicamente contra los peligros de la inteligencia artificial. En una entrevista de 2014 en el Simposio Centenario de AeroAstro en el MIT, calificó a la IA como "**nuestra mayor amenaza existencial**".
 
-Además, también se puede ver reflejado ese pensamiento, con su inversión dentro de la empresa de inteligencia artificial DeepMind. Puesto qué, al propio Elon Musk, se le ha escuchado decir que esa era una inversión "exclusivamente para vigilar de cerca lo que va sucediendo con la inteligencia artificial" lo que no deja de ser un comentario bajo un "tono" que muestra preocupación hacía las nuevas tecnologías.
+Se puede ver reflejado ese pensamiento, con su inversión dentro de la empresa de inteligencia artificial DeepMind. Puesto qué, al propio Elon Musk, se le ha escuchado decir que esa era una inversión "exclusivamente para vigilar de cerca lo que va sucediendo con la inteligencia artificial" lo que no deja de ser un comentario bajo un "tono" que muestra preocupación hacía las nuevas tecnologías.
 
 Por lo tanto, no es sorprendente que **Elon haya elegido el libro "Nuestra invención final: La inteligencia artificial y el fin de la era humana"** como "un libro digno de leer" a través de [un tweet](https://twitter.com/elonmusk/status/496010572333580289){:target="_blank"}.
 
@@ -126,15 +143,12 @@ En este libro, Barrat analiza el potencial de la IA, sopesando sus ventajas y de
 
 ## **[3. La Fundación de Isaac Asimov](https://amzn.to/2VmcXYL){:target="_blank"}**
 
-Es posible que el interés de Musk en la tecnología de exploración espacial se deba a los días que pasó leyendo ciencia ficción.
-
+Es posible que **el interés de Musk por la tecnología de la exploración espacial** se deba a los días que paso leyendo ciencia ficción.
 <!-- tweet de 2020: https://twitter.com/elonmusk/status/1230293973673136129 -->
 
-En una entrevista de 2013 con The Guardian , Musk dice que los libros de Asimov le enseñaron que “las civilizaciones se mueven en ciclos”, una lección que alentó al empresario a perseguir sus ambiciones radicales.
+En una entrevista de 2013 en The Guardian. Musk aseguro que **los libros de Asimov le enseñaron** que “las civilizaciones se mueven a través de ciclos” y que esa fue **la lección que le alentó a perseguir sus ambiciones más radicales**.
 
 “Dado que esta es la primera vez en 4.500 millones de años en que la humanidad ha podido extender la vida más allá de la Tierra”, dice, “parece que sería prudente actuar mientras la ventana estaba abierta y no contar con el hecho estará abierto mucho tiempo ”.
-
-"Las lecciones de la historia sugerirían que las civilizaciones se mueven en ciclos. Puedes rastrear eso bastante lejos: los babilonios, los sumerios, seguidos por los egipcios, los romanos, China. Obviamente estamos en un ciclo muy ascendente en este momento y esperamos que ese sea el caso. Pero puede que no. Podría haber una serie de eventos que causen que el nivel de tecnología disminuya. Dado que esta es la primera vez en 4.500 millones de años en que la humanidad ha podido extender la vida más allá de la Tierra, parece que sería prudente actuar mientras la ventana estaba abierta y no contar con el hecho de que estará abierta mucho tiempo hora."
 
 <!-- La saga “Foundation” de Asimov trata sobre “el colapso y el renacimiento de un vasto imperio interestelar en el universo del futuro”, según la Enciclopedia Británica .
 
@@ -146,73 +160,74 @@ Musk también dijo que le enseñó que “las civilizaciones se mueven en ciclos
 
 Como resultado, Musk comenzó SpaceX en 2002 (después de su segunda puesta en marcha, X.com, que más tarde se convirtió en PayPal, se vendió a eBay por $ 1.5 mil millones). -->
 
-> La lección que extraje de [la saga de la“ Fundación ”] es que debes intentar tomar el conjunto de acciones que probablemente prolongarán la civilización, minimizarán la probabilidad de una edad oscura y reducirán la duración de una edad oscura si es que hay una.
+> "Las lecciones de la historia sugerirían que las civilizaciones se mueven en ciclos. Puedes rastrear eso bastante lejos: los babilonios, los sumerios, seguidos por los egipcios, los romanos, China. Obviamente estamos en un ciclo muy ascendente en este momento y esperamos que ese sea el caso. Pero puede que no. Podría haber una serie de eventos que causen que el nivel de tecnología disminuya. Dado que esta es la primera vez en 4.500 millones de años en que la humanidad ha podido extender la vida más allá de la Tierra, parece que sería prudente actuar mientras la ventana se encuentre abierta y no contar con el hecho de que estará abierta por mucho tiempo más".
 
 > Elon Musk
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>La Fundación: Parte 1</p>
+<h3>La Fundación: Parte 1</h3>
 <p>Durante doce mil años, el Imperio Galáctico ha gobernado supremo. Ahora se está muriendo. Pero solo Hari Seldon, creador de la ciencia revolucionaria de la psicohistoria, puede ver el futuro: una era oscura de ignorancia, barbarie y guerra que durará treinta mil años. Para preservar el conocimiento y salvar a la humanidad, Seldon reúne las mejores mentes del Imperio, tanto científicos como académicos, y los lleva a un planeta sombrío en el borde de la Galaxia para que sirva como un faro de esperanza para las generaciones futuras. Él llama a su santuario la Fundación.</p>
 <p>Pero pronto la Fundación novata se encuentra a merced de los señores de la guerra corruptos que se alzan tras el retroceso del Imperio. La última mejor esperanza de la humanidad se enfrenta a una elección agónica: someterse a los bárbaros y ser invadido, o luchar contra ellos y ser destruido.</p>
-<p>La fundación: Parte 2</p>
+<h3>La fundación: Parte 2</h3>
 <p>Foundation and Empire cuenta la increíble historia de una nueva raza de hombres que crean una nueva fuerza para el gobierno galáctico. Así, la Fundación entra en conflicto con el decadente y decrépito Primer Imperio. En esta lucha por el poder en medio del caos de las estrellas, el hombre se encuentra en el umbral de una vida nueva e iluminada que fácilmente podría dejarse de lado para las viejas fuerzas de la barbarie. Las novelas de la Fundación de Isaac Asimov constituyen lo que probablemente sea la epopeya más famosa de toda la ciencia ficción</p>
-<p>La Fundación: Parte 3</p>
+<h3>La Fundación: Parte 3</h3>
 <p>Hasta ahora, la Fundación estaba a salvo. Pero había una segunda fundación oculta para proteger a la primera. La Mula aún no lo ha encontrado, pero se estaba acercando todo el tiempo. Los hombres de la Fundación también buscaban escapar del control mental de Mule. Solo Arkady, una niña de 14 años parecía tener la respuesta, ¿o ella ...?</p>
 </details>
 
 ## **[4. El Señor de los Anillos de JRR Tolkien](https://amzn.to/2wQkAgG){:target="_blank"}**
 
-Musk tenía un apodo cuando era un niño camaronero y de boca inteligente que creció en Sudáfrica: Muskrat.
-The New Yorker informa que "en su soledad, leyó mucha fantasía y ciencia ficción".
-Esos libros, en particular "El señor de los anillos" de JRR Tolkien, dieron forma a su visión de su futuro yo.
+Cuando de pequeñ, era maltratado por sus compañeros; Musk reecibía el feo apodo de Muskrat (Musk Rata). En una entrevista para el períodico "The New Yorker" el propio Musk, hablo sobre lo que hacía para poder abstraerse de los abusos que cometían sobre él.
 
-"Los héroes de los libros que leí siempre sintieron el deber de salvar al mundo" , dijo a The New Yorker . 
+Y eso era, aprovechar su soledad para leer constantemente libros sobre fantasía y ciencia ficción.
 
-> "CITA"
+Entre esos libros, como ya hemos citado, se encontraban los de Isaac Asimov; pero también le encantaba **la saga de El señor de los anillos de JRR Tolkien** y dentro de todos esos libros; se encuentra la mayor para de culpa de la construcción del pensamiento futurista de Elon Musk.
 
-> citador
+> "Los héroes de los libros que leí siempre sintieron el deber de salvar al mundo".
+
+> Elon Musk
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>En la antigüedad los Anillos de Poder fueron hechos a mano por los Elfos Smiths, y Sauron, el Señor Oscuro, forjó el Anillo, llenándolo con su propio poder para poder gobernar a todos los demás. Pero le quitaron el Anillo Único, y aunque lo buscó por toda la Tierra Media, permaneció perdido para él. Después de muchas edades cayó por casualidad en manos del hobbit Bilbo Baggins.</p>
-<p>Desde la solidez de Sauron en la Torre Oscura de Mordor, su poder se extendió por todas partes. Sauron reunió todos los Grandes Anillos para él, pero siempre buscaba el Anillo Único que completara su dominio.</p>
-<p>Cuando Bilbo cumplió los once años, desapareció, legando a su joven primo Frodo el Anillo Gobernante y una búsqueda peligrosa: viajar a través de la Tierra Media, a la sombra del Señor Oscuro, y destruir el Anillo arrojándolo al Grietas de la fatalidad.</p>
-<p>El Señor de los Anillos cuenta la gran búsqueda emprendida por Frodo y la Comunidad del Anillo: Gandalf el mago; los hobbits Merry, Pippin y Sam; Gimli el enano; Legolas el elfo; Boromir de Gondor; y un extraño alto y misterioso llamado Strider. (Menos)
+<p>En la antigüedad los anillos de poder eran hechos a mano por los Elfos Smiths y Sauron (El Señor Oscuro) era el encargado de forjar el Anillo, llenándolo con su propio poder para poder gobernar a todos los demás. Hasta que en un momento puntual de la historia, le quitaron el anillo; y aunque lo buscó por toda la Tierra Media, permaneció perdido. Después de muchas edades / épocas cayó por casualidad en manos del hobbit Bilbo Bolsón.</p>
+<p>Desde la solidez de la Torre Oscura de Mordor, el poder se extendió por todas partes; Sauron reunió a todos los Grandes Anillos para él, pero siempre buscaba el anillo que completará su dominio.</p>
+<p>Cuando Bilbo cumplió los once años, desapareció, legando a su joven primo Frodo el anillo y tras una peligrosa búsqueda; decide viajar a través de la Tierra Media, a la sombra del Señor Oscuro, con el objetivo de destruir el Anillo arrojándolo al Grietas de la Fatalidad.</p>
+<p>El Señor de los Anillos cuenta la gran búsqueda emprendida por Frodo y la Comunidad del Anillo: Gandalf el mago; los hobbits Merry, Pippin y Sam; Gimli el enano; Legolas el elfo; Boromir de Gondor; y un extraño alto y misterioso llamado Strider.
 </p>
 </details>
 
 ## **[5. Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson](https://amzn.to/3eDVFOE){:target="_blank"}**
 
-Nikola Tesla hizo una importante contribución a la evolución de la electricidad, que transformó la vida cotidiana a principios del siglo XX. Sus inventos, patentes y trabajos científicos formaron la base de la electricidad moderna y contribuyeron al desarrollo de la radio y la televisión. Al igual que su rival Thomas Edison, Tesla fue uno de los primeros investigadores famosos en Estados Unidos, disfrutó de una sociedad de las clases altas de Nueva York y entretuvo a Mark Twain con sus espectáculos eléctricos. Siendo un astuto autorrelogador y un talentoso escaparate, cultivó la imagen de un genio excéntrico entre la gente. Incluso muriendo en la pobreza, logró atraer a los entrevistadores para su cumpleaños gracias a las acusaciones de su creación de armas subatómicas que podrían destruir los aviones enemigos.
+Nikola Tesla hizo una importante contribución a la evolución de la electricidad, que transformó la vida cotidiana a principios del siglo XX. Sus inventos, patentes y trabajos científicos formaron la base de la electricidad moderna y contribuyeron al desarrollo de la radio y la televisión.
 
-> Elon Musk: “Me gustan las biografías de los científicos. Por supuesto, uno no puede dejar de mencionar a Tesla, una persona completamente única ”.
+Al igual que su rival Thomas Edison, Tesla fue uno de los primeros investigadores famosos en Estados Unidos, disfrutó de una sociedad de las clases altas de Nueva York y entretuvo a Mark Twain con sus espectáculos eléctricos.
 
-> citador
+Siendo un astuto autorrelogador y un talentoso escaparate, cultivó la imagen de un genio excéntrico entre la gente. Incluso muriendo en la pobreza, logró atraer a los entrevistadores para su cumpleaños gracias a las acusaciones de su creación de armas subatómicas que podrían destruir los aviones enemigos.
+
+> Elon Musk: “Me gustan las biografías de los científicos. Por supuesto, uno no puede dejar de mencionar a Tesla, una persona completamente única”.
+
+> Elon Musk
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>Nikola Tesla fue uno de los principales contribuyentes a la revolución eléctrica que transformó la vida cotidiana a principios del siglo XX. Sus inventos, patentes y trabajo teórico formaron la base de la electricidad moderna de CA y contribuyeron al desarrollo de la radio y la televisión. Al igual que su competidor Thomas Edison, Tesla fue uno de los primeros científicos famosos de Estados Unidos, disfrutaba de la compañía de la alta sociedad de Nueva York y deslumbraba a personas como Mark Twain con sus demostraciones eléctricas. Un astuto autopromotor y un talentoso showman, cultivó una imagen pública del genio excéntrico. Incluso al final de su vida cuando vivía en la pobreza, Tesla todavía atraía a los periodistas a su entrevista anual de cumpleaños, regalándolos con afirmaciones de que había inventado un arma de haz de partículas capaz de derribar aviones enemigos.</p>
-<p>Muchas biografías embellecen a Tesla y sus excentricidades, pero hasta ahora ninguna ha examinado cuidadosamente qué, cómo y por qué inventó. En este libro innovador, W. Bernard Carlson desmitifica al legendario inventor, colocándolo en el contexto cultural y tecnológico de su tiempo, y enfocándose en sus propios inventos, así como en la creación y mantenimiento de su celebridad. Basándose en documentos originales de la vida privada y pública de Tesla, Carlson muestra cómo fue un inventor idealista que buscó la realización experimental perfecta de una gran idea o principio, y que vendió hábilmente sus inventos al público a través de la mitología y la ilusión.</p>
+
+<p></p>
+<p>Muchas biografías embellecen a Tesla y sus excentricidades, pero hasta ahora ninguna ha examinado cuidadosamente qué, cómo y por qué inventó.</p>
+<p>En este libro innovador, W. Bernard Carlson desmitifica al legendario inventor, colocándolo en el contexto cultural y tecnológico de su tiempo, y enfocándose en sus propios inventos, así como en la creación y mantenimiento de su celebridad.</p>
+<p>Basándose en documentos originales de la vida privada y pública de Tesla, Carlson muestra cómo fue un inventor idealista que buscó la realización experimental perfecta de una gran idea o principio, y que vendió hábilmente sus inventos al público a través de la mitología y la ilusión.</p>
 <p>Esta importante biografía arroja nueva luz sobre el enfoque visionario de Tesla para la invención y las estrategias comerciales detrás de sus avances tecnológicos más importantes.</p>
 </details>
 
 <!-- https://twitter.com/elonmusk/status/1007668113591005184 -->
 
 ## **[6. Einstein: Su vida y su universo de Walter Isaacson](https://amzn.to/3bmQh08){:target="_blank"}**
-Walter Isaacson
 
-
-Musk le dice a Rose que fue influenciado por la biografía del físico teórico Albert Einstein, y está claro por qué.
+En una entrevista, Musk le dice a Kevin Rose (Youtuber Entrevistador) que fue influenciado por la biografía del físico teórico Albert Einstein, y está claro por qué.
 
 Algunas de las citas más famosas de Einstein, como “Lo importante es no dejar de hacer preguntas” y “Cualquiera que nunca haya cometido un error nunca ha intentado nada nuevo”, habla directamente de la visión de Musk para sus empresas.
-
-> "CITA"
-
-> citador
 
 <details>
 <summary>Saber Más</summary>
@@ -222,119 +237,99 @@ Algunas de las citas más famosas de Einstein, como “Lo importante es no dejar
 <p></p>
 </details>
 
-## **[7. La Guía del Autoestopista galáctico de Douglas Adams](https://amzn.to/3btdGx2){:target="_blank"}**
+## **[7. La Guía del Autoestopista Galáctico de Douglas Adams](https://amzn.to/3btdGx2){:target="_blank"}**
 
-Musk dice que tuvo una "crisis existencial" cuando tenía entre 12 y 15 años, enterrándose en Friedrich Nietzsche, Arthur Schopenhauer y otros filósofos malhumorados para encontrar el sentido de la vida.
+Musk ha hablado en varias situaciones sobre su "crisis existencial" cuando tenía entre 12 y 15 años, encerrándose en un auto confinamiento forzado para leer a Friedrich Nietzsche, Arthur Schopenhauer y otros filósofos malhumorados, intentando encontrar el sentido de la vida en sus lecturas; y que no le sirvió de nada.
 
-No sirvió de nada.
+Hasta que se encontró con "La Guía del Autoestopista Galáctico" un divertido cómic interestelar de Douglas Adams. En el libro, una supercomputadora encuentra que la "respuesta" a una vida significativa es el número 42, pero la pregunta nunca se resolvió.
 
-Luego se encontró con " The Hitchhiker's Guide to the Galaxy", un divertido cómic interestelar de Douglas Adams. En el libro, una supercomputadora encuentra que la "respuesta" a una vida significativa es el número 42, pero la pregunta nunca se resolvió.
+Esto fue instructivo para un joven Elon.
 
-Esto fue instructivo para un joven almizcle.
 
-"Si puedes formular correctamente la pregunta, entonces la respuesta es la parte fácil", dijo Musk en una entrevista . "Entonces, en la medida en que podamos comprender mejor el universo, entonces podremos saber qué preguntas hacer".
 
-> "CITA"
+> "Si puedes formular correctamente la pregunta, entonces la respuesta es la parte fácil", dijo Musk en una entrevista . "Entonces, en la medida en que podamos comprender mejor el universo, entonces podremos saber qué preguntas hacer".
 
-> citador
+> Elon Musk
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>Una edición especial de la serie de radio original The Hitchhiker's Guide to the Galaxy, transmitida por primera vez en BBC Radio 4 en 1978 y recientemente votó el audiolibro favorito de la nación en una encuesta de Guardian.
-
-Protagonizada por Peter Jones, Simon Jones, Geoffrey McGivern, Mark Wing-Davey, Susan Sheridan y Stephen Moore, estos seis episodios (Fit the First to Fit the Sixth) han sido remasterizados a los estándares modernos por Dirk Maggs, y por primera vez presentan el arreglo de Philip Pope de la melodía del tema familiar, con anuncios recién grabados de John Marsh.
-
-También se incluye en esta edición especial la Guía de Douglas Adams de la Guía del autoestopista galáctico, emitida por primera vez en 1999, que analiza la génesis y el éxito fenomenal de la serie.</p>
-<p></p>
-<p></p>
+<p>Una edición especial de la serie de radio original The Hitchhiker's Guide to the Galaxy, transmitida por primera vez en BBC Radio 4 en 1978 y recientemente votado como el audiolibro favorito de la nación en una encuesta de The Guardian.</p>
+<p>Protagonizada por Peter Jones, Simon Jones, Geoffrey McGivern, Mark Wing-Davey, Susan Sheridan y Stephen Moore, estos seis episodios (Fit the First to Fit the Sixth) han sido remasterizados a los estándares modernos por Dirk Maggs, y por primera vez presentan el arreglo de Philip Pope de la melodía del tema familiar, con anuncios recién grabados de John Marsh.</p>
+<p>También se incluye en esta edición especial la Guía de Douglas Adams de la Guía del autoestopista Galáctico, emitida por primera vez en 1999, que analiza la génesis y el éxito fenomenal de la serie.</p>
 </details>
 
 ## **[8. Superinteligencia: Caminos, Peligros, Estrategias de Nick Bostrom](https://amzn.to/3cvqOSr){:target="_blank"}**
 
-Aunque Musk es futurista y está profundamente interesado en la inteligencia artificial, ha compartido sus preocupaciones sobre los peligros potenciales y las preocupaciones éticas asociadas con la tecnología.
+Aunque Musk es futurista y está profundamente interesado en la inteligencia artificial, ha compartido **sus preocupaciones sobre los peligros potenciales** y **las preocupaciones éticas asociadas con la tecnología**.
 
-Vale la pena leer el libro de Bostrom, que trata sobre los posibles desafíos presentados si la inteligencia computacional supera la inteligencia humana, tuiteó Musk en 2014.
+> "Vale la pena leer el libro de Bostrom, que trata sobre los posibles desafíos presentados si la inteligencia computacional supera la inteligencia humana".
 
-> "CITA"
-
-> citador
+> Elon Musk
 
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>Superintelligence hace las preguntas: ¿qué sucede cuando las máquinas superan a los humanos en inteligencia general? ¿Los agentes artificiales nos salvarán o destruirán? Nick Bostrom sienta las bases para comprender el futuro de la humanidad y la vida inteligente.</p>
-<p>El cerebro humano tiene algunas capacidades de las que carecen los cerebros de otros animales. Es a estas capacidades distintivas que nuestra especie debe su posición dominante. Si los cerebros de las máquinas superaran a los cerebros humanos en inteligencia general, entonces esta nueva superinteligencia podría volverse extremadamente poderosa, posiblemente fuera de nuestro control. Como el destino de los gorilas ahora depende más de los humanos que de la especie misma, el destino de la humanidad dependería de las acciones de la superinteligencia de la máquina.</p>
-<p>Pero tenemos una ventaja: podemos hacer el primer movimiento. ¿Será posible construir una Semilla de Inteligencia Artificial, diseñar condiciones iniciales para que una explosión de inteligencia pueda sobrevivir? ¿Cómo se puede lograr una detonación controlada?</p>
+<p>Super inteligencia, se hace las preguntas: ¿Qué sucede cuando las máquinas superan a los humanos en inteligencia general? ¿Los agentes artificiales nos salvarán o destruirán?</p>
+<p>Nick Bostrom sienta las bases para comprender el futuro de la humanidad y la vida inteligente.</p>
+<p>El cerebro humano tiene algunas capacidades de las que carecen los cerebros de otros animales.</p>
+<p>Es a estas capacidades distintivas que nuestra especie debe su posición dominante. Si los cerebros de las máquinas superaran a los cerebros humanos en inteligencia general, entonces esta nueva superinteligencia podría volverse extremadamente poderosa, posiblemente fuera de nuestro control.</p>
+<p>Como el destino de los gorilas ahora depende más de los humanos que de la especie misma, el destino de la humanidad dependería de las acciones de la superinteligencia de la máquina.</p>
+<p>Pero tenemos una ventaja: Podemos hacer el primer movimiento.</p>
+<p>¿Será posible construir una Semilla de Inteligencia Artificial, diseñar condiciones iniciales para que una explosión de inteligencia pueda sobrevivir? ¿Cómo se puede lograr una detonación controlada?</p>
 </details>
 
 ## **[9. Encendido! Una historia informal de los propulsores de cohetes líquidos de John D. Clark](/libros-recomendados-elon-musk-2020/#ignition-pdf){:target="_blank"}**
 
-"¡Encendido!" en inglés: "Ignition" es otra cuenta difícil de obtener sobre la ciencia de los primeros cohetes.
+"¡Encendido!" en inglés "Ignition" es una historia complicado de reconstruir sobre la ciencia, basada en la búsqueda de un propulsor de cohete confiable para llevar al ser humano hacía el espacio.
 
-"Hay un buen libro sobre cohetes llamado ' ¡Encendido!' por John Clark, es muy divertido ", [dijo](http://www.mediabistro.com/galleycat/the-science-fiction-books-that-inspired-elon-musk_b67209) Musk [en una entrevista](http://www.mediabistro.com/galleycat/the-science-fiction-books-that-inspired-elon-musk_b67209) .
+Clark fue un químico estadounidense activo en el desarrollo de combustibles para cohetes en las décadas de 1960 y 1970, y el libro es una descripción del crecimiento del campo y una gran explicación de sobre cómo funciona la ciencia.
 
-Clark fue un químico estadounidense activo en el desarrollo de combustibles para cohetes en las décadas de 1960 y 1970, y el libro es una descripción del crecimiento del campo y un explicador de cómo funciona la ciencia.
+Aunque el libro es difícil de encontrar, a la gente le suele gustar: Este libro tiene la combinación correcta de detalles técnicos, descripciones de experimentos con resultados espectaculares, información básica sobre por qué y cómo, y sobre la política involucrada.
 
-Aunque el libro es difícil de rastrear, a la gente le encanta. Considere [esta revisión de Amazon](http://www.amazon.com/Ignition-informal-history-liquid-propellants/dp/0813507251/ref=sr_1_1?s=books&ie=UTF8&qid=1412697790&sr=1-1&keywords=clark+ignition) :
+Es un libro muy interesante y estimulante porque Clark captó en él; mucho del entusiasmo que tenía por los cohetes. Elon Musk lo citó [en una entrevista](https://www.theguardian.com/technology/2013/jul/17/elon-musk-mission-mars-spacex){:target="_blank"} al diario The Guardian.
 
-  Este libro tiene la combinación correcta de detalles técnicos, descripciones de experimentos con resultados espectaculares, información básica sobre por qué y cómo, y sobre la política involucrada. Es un libro muy interesante y estimulante porque Clark captó mucho el entusiasmo que tenía por los cohetes.
+> "Hay un buen libro sobre cohetes llamado: ¡Encendido! de John Clark, que es muy divertido".
 
-### Ignition PDF
+> Elon Musk
 
-Afortunadamente para nosotros, este texto raro está disponible en línea [aquí](http://library.sciencemadness.org/library/books/ignition.pdf) y [aquí](http://mikea.ath.cx/Ignition/) .
+### Encendido - Leer Versión PDF Online
 
-> "CITA"
-
-> citador
-
-<details>
-<summary>Saber Más</summary>
-<br/>
-<p></p>
-<p></p>
-<p></p>
-</details>
+Afortunadamente, este extraño libro está disponible en línea [aquí](http://library.sciencemadness.org/library/books/ignition.pdf){:target="_blank"} y [aquí](http://mikea.ath.cx/Ignition/){:target="_blank"} (aunque en inglés).
 
 ## **[10. Benjamin Franklin: Una Vida Americana de Walter Isaacson](https://amzn.to/2KgNHNm){:target="_blank"}**
 
-Ben Franklin, autor, inventor, científico y diplomático, es uno de los héroes de Musk.
+**Ben Franklin, autor, inventor, científico y diplomático, es uno de los héroes de Musk**.
 
-Algo sobre eso es similar a la historia de Musk: crecer en Pretoria, Sudáfrica, ir a la escuela en Canadá, transferirse a la Universidad de Pensilvania y luego usar una invitación para el Ph.D. programa para aterrizar en Silicon Valley.
+Algo sobre eso es similar a la historia de Musk: crecer en Pretoria (Sudáfrica) ir a la escuela en Canadá, cambiarse a la Universidad de Pensilvania y luego usar una invitación del programa de doctorado para aterrizar en Silicon Valley.
 
-Comentario de Musk: "Franklin es bastante impresionante", dice.
+> "Franklin es bastante impresionante" . "Se puede ver cómo Franklin era un empresario” . “Era un emprendedor. Él comenzó de la nada. Era solo un niño fugitivo"
 
-> Se puede ver cómo [Franklin] era un empresario”, dice Musk en una entrevista con Kevin Rose de la Fundación . “Era un emprendedor. Él comenzó de la nada. Era solo un niño fugitivo 
-
-> citador
+> Elon Musk
 
 <details>
 <summary>Saber Más</summary>
 <br/>
 <p>Benjamin Franklin es el padre fundador que nos guiña un ojo. Un ambicioso emprendedor urbano que subió en la escala social, desde un comerciante con delantal de cuero hasta cenar con reyes, parece hecho de carne en lugar de mármol. En la vívida e ingeniosa biografía a gran escala del autor Walter Isaacson, descubrimos por qué Franklin parece volverse hacia nosotros desde el escenario de la historia con ojos que brillan desde detrás de sus gafas recién colgadas. Al darle vida a Franklin, Isaacson muestra cómo ayudó a definir tanto su propio tiempo como el nuestro.</p>
 <p></p>
-<p>Fue, durante su vida de 84 años, el mejor científico, inventor, diplomático, escritor y estratega de negocios de Estados Unidos, y también fue uno de sus pensadores políticos más prácticos, aunque no los más profundos. Al volar una cometa demostró que los rayos eran electricidad, e inventó una varilla para domarla. Buscó formas prácticas de hacer que las estufas fueran menos humeantes y las comunidades menos corruptas. Organizó constabularios vecinales y alianzas internacionales, bibliotecas locales de crédito y legislaturas nacionales. Combinó dos tipos de lentes para crear lentes bifocales y dos conceptos de representación para fomentar el compromiso federal de la nación. Fue el único hombre que dio forma a todos los documentos fundacionales de América: el Plan de Unión de Albany, la Declaración de Independencia, el tratado de alianza con Francia, el tratado de paz con Inglaterra y la Constitución.</p>
-<p></p>
-<p></p>
+<p>Fue, durante su vida de 84 años, el mejor científico, inventor, diplomático, escritor y estratega de negocios de Estados Unidos, y también fue uno de sus pensadores políticos más prácticos, aunque no los más profundos. Al volar una cometa demostró que los rayos eran electricidad, e inventó una varilla para domarla. Buscó formas prácticas de hacer que las estufas fueran menos humeantes y las comunidades menos corruptas.</p>
+<p>Organizó constabularios vecinales y alianzas internacionales, bibliotecas locales de crédito y legislaturas nacionales. Combinó dos tipos de lentes para crear lentes bifocales y dos conceptos de representación para fomentar el compromiso federal de la nación. Fue el único hombre que dio forma a todos los documentos fundacionales de América: el Plan de Unión de Albany, la Declaración de Independencia, el tratado de alianza con Francia, el tratado de paz con Inglaterra y la Constitución.</p>
 <p>Pero lo más interesante que Franklin inventó, y reinventó continuamente, fue él mismo. El primer gran publicista de Estados Unidos, él estaba, en su vida y en sus escritos, tratando conscientemente de crear un nuevo arquetipo estadounidense. En el proceso, creó cuidadosamente su propia personalidad, la retrató en público y la pulió para la posteridad.</p>
-<p></p>
 <p>A pesar de todo, confiaba en los corazones y las mentes de sus compañeros "delantales de cuero" más que en los de cualquier élite endogámica. Él veía los valores de la clase media como una fuente de fortaleza social, no como algo para ser ridiculizado. Su principio rector era una "aversión a todo lo que tiende a degradar el espíritu de la gente común". Pocos de sus compañeros fundadores sintieron este consuelo con la democracia tan plenamente, y ninguno tan intuitivamente.</p>
-<p></p>
 <p>En esta narrativa colorida e íntima, Isaacson ofrece la visión completa de la increíble vida de Franklin, desde sus días como impresor desbocado hasta sus triunfos como estadista, científico y padre fundador. Narra la tumultuosa relación de Franklin con su hijo y nieto ilegítimos, su matrimonio práctico y sus coqueteos con las damas de París. También muestra cómo Franklin ayudó a crear el personaje estadounidense y por qué tiene una resonancia particular en el siglo XXI.</p>
-<p></p>
 </details>
 
 ## **[11. Estructuras: O porque las cosas no se caen de J. E. Gordon](https://amzn.to/3anrcB1){:target="_blank"}**
 
-Musk es un autodidacta comprometido, devorando los temas que necesita saber.
+**Musk es un autodidacta comprometido, devorando los temas que necesita saber**.
 
-JE Gordon despoja a la ingeniería de sus términos técnicos confusos, comunicando sus principios fundacionales en prosa accesible e ingeniosa.
+JE Gordon despoja a **la ingeniería de sus términos técnicos confusos**, **comunicando sus principios fundacionales en prosa accesible e ingeniosa**.
 
-Para cualquiera que alguna vez se haya preguntado por qué los puentes colgantes no colapsan bajo ocho carriles de tráfico, cómo las represas retienen, o ceden bajo, miles de galones de agua, o qué principios guían el diseño de un rascacielos, un sesgo. vestido corto, o un canguro, este libro aliviará su ansiedad y responderá sus preguntas.
+Para cualquiera que alguna vez se haya preguntado por qué los puentes colgantes no colapsan bajo ocho carriles de tráfico, cómo las presas se retienen y no ceden bajo la presión de miles de litros de agua, o qué principios guían el diseño de un rascacielos. Este libro aliviará su ansiedad y responderá sus preguntas.
 
-Cuando Musk decidió que quería aprender ciencia espacial, estudió libros de texto sobre astrofísica e ingeniería. Si bien la lectura de textos avanzados sobre física puede no ser para todos, este libro ofrece una visión más clara de la ciencia detrás de SpaceX.
+**Cuando Musk decidió que quería aprender ciencia espacial**, **estudió libros de texto sobre astrofísica e ingeniería**. Si bien la lectura de textos avanzados sobre física puede no ser para todos, este libro ofrece una visión más clara de la ciencia detrás de SpaceX.
 
-> "“Es realmente muy bueno si quieres una introducción al diseño estructural."
+> "Es realmente muy bueno si quieres una introducción al diseño estructural".
 
 > Elon Musk
 
@@ -350,16 +345,7 @@ Cuando Musk decidió que quería aprender ciencia espacial, estudió libros de t
 
 ## **[12. Mercaderes de la Duda de Erik M. Conway y Naomi Oreskes](https://amzn.to/2RUchrx){:target="_blank"}**
 
-Musk recomienda este argumento de dos historiadores que creen que los científicos con conexiones políticas y corporativas han enturbiado los hechos en torno a muchos problemas de salud pública, como los efectos negativos del tabaquismo. Publicó su recomendación en Twitter en 2013.
-
-<!-- Ahora un documental , "Merchants of Doubt" está escrito por dos historiadores de la ciencia que defienden que los científicos con conexiones políticas e industriales han oscurecido los hechos que rodean una serie de problemas de salud pública.
-
-Musk recomendó el libro en 2013, en una conferencia D11 .
-
-Casi al mismo tiempo, resumió la conclusión clave del libro en un tuit : "Lo mismo que intentó negar las muertes por fumar o negar el cambio climático". -->
-> "CITA"
-
-> citador
+Musk recomendó el libro en 2013, en una Conferencia D11. El argumento que persiguen estos dos historiadores se basa en **su creencia de que científicos con conexiones políticas y corporativas han enturbiado los hechos en torno a muchos problemas de salud pública**, **como los efectos negativos del tabaquismo** o **la negación del cambio climático**.
 
 <details>
 <summary>Saber Más</summary>
@@ -371,13 +357,11 @@ Casi al mismo tiempo, resumió la conclusión clave del libro en un tuit : "Lo m
 
 ## [13. El Señor de las Moscas” de William Golding](https://amzn.to/3cyQZYy){:target="_blank"}
 
-Esta novela clásica sobre supervivencia, competencia y avaricia dejó su huella en el emprendedor tecnológico.
+Esta **novela clásica sobre supervivencia**, **competencia y avaricia** dejó su huella en el emprendedor tecnológico.
 
-“Los héroes de los libros que leí siempre sintieron el deber de salvar el mundo”, le dice al New Yorker .
+La novela trata sobre Ralph, un niño inglés de la remota isla donde tiene lugar “El señor de las moscas” que quiere crear códigos morales y éticos para salvar a la humanidad. Mientras tanto, el antagonista del libro, Jack, inicialmente solo un rebelde, se encuentra consumido por el poder y la codicia.
 
-> "CITA"
-
-> citador
+Su **lucha es una historia de advertencia sobre lo que puede suceder** cuando los hombres se quedan solos. El libro dio forma a la cosmovisión de Musk sobre su propio futuro. Por ejemplo, ha hablado públicamente sobre los peligros de la inteligencia artificial en manos de los humanos. 
 
 <details>
 <summary>Saber Más</summary>
@@ -389,17 +373,25 @@ Esta novela clásica sobre supervivencia, competencia y avaricia dejó su huella
 
 ## [14. De Cero a Uno: Cómo inventar el Futuro de Peter Thiel](https://amzn.to/2RTqzJ4){:target="_blank"}
 
-El libro De cero a uno. Se encuentra basado en notas de una clase popular que Peter Thiel enseñó en la Universidad de Stanford el año 2012 que se centra en la necesidad de encontrar un pensamiento único entre los posibles fundadores de startups.
+El libro De cero a uno. Esta basado en notas de una clase popular que Peter Thiel enseñó en la Universidad de Stanford el año 2012 que se centra en **la necesidad de encontrar un pensamiento único** entre los emprendedores fundadores de startups.
 
-Musk ha dicho que el libro del cofundador de Paypal, junto al propio Elon Musk. Ofrece una exploración muy interesante del proceso constitutivo de una empresas exitosa.
+El libro, escrito por el cofundador de Paypal, Peter Thiel, junto al propio Elon Musk. Ofrece una **exploración muy interesante del proceso constitutivo de una empresa exitosa**.
 
-> Peter Thiel ha creado múltiples empresas innovadoras, y Zero to One muestra cómo hacerlo.
+> "Peter Thiel ha creado múltiples empresas innovadoras, y Zero to One te muestra cómo puedes hacerlo".
 
 > Elon Musk
 
-Otras personas, han dicho de él..
+Otras personas, como CEO de Facebook.
+Han dicho de él..
 
 > Este libro ofrece ideas completamente nuevas y refrescantes sobre cómo crear valor en el mundo.
+
+> Mark Zuckerberg
+
+O el escritor Nassim Nicholas Taleb; autor del [Cisne Negro](https://amzn.to/34W9gwg){:target="_blank"}
+
+> "Cuando un tomador de riesgos escribe un libro, léelo. En el caso de Peter Thiel, léelo dos veces. O, para estar seguro, tres veces. Es un clásico".
+> 
 
 <details>
 <summary>Saber Más</summary>
