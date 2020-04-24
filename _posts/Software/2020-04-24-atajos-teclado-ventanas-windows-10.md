@@ -15,8 +15,8 @@ description: >-
   Cambia de forma ágil de ventana a ventana y entre diferentes pantallas de Windows 10.
 excerpt: >-
   Cambia de forma ágil de ventana a ventana y entre diferentes pantallas de Windows 10.
-canonical_URL: https://ciberninjas.com/cambio-rápido-entre-ventanas-windows-10/
-permalink: /cambio-rápido-entre-ventanas-windows-10/
+canonical_URL: https://ciberninjas.com/atajos-teclado-ventanas-windows-10/
+permalink: /atajos-teclado-ventanas-windows-10/
 date: 2020-04-24 12:01:32
 last_modified_at: 
 published: true
