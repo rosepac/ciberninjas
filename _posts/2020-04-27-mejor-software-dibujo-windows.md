@@ -38,27 +38,27 @@ A continuación, voy a intentar seleccionar las aplicaciones que más me han gus
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/mejor-software-dibujo-windows/#1-krita" title="">Krita</a></li>
-    <li><a href="/mejor-software-dibujo-windows/#2-atodesk-sketchbook" title="">Autodesk Sketchbook</a></li>
-    <li><a href="/mejor-software-dibujo-windows/#3-fire-alpaca" title="">Fire Alpaca</a></li>
-    <li><a href="/mejor-software-dibujo-windows/#4-medibang-paint" title="">Medibang Paint</a></li>
-    <li><a href="/mejor-software-dibujo-windows/#5-mypaint-2-0" title="">MyPaint 2.0</a></li>
-    <li><a href="/mejor-software-dibujo-windows/#6-artflow" title="">Artflow</a></li>
-    <li><a href="/mejor-software-dibujo-windows/#7-adobe-illustrator-draw" title="">Adobe Illustrator Draw</a></li>
-    <li><a href="/mejor-software-dibujo-windows/#8-adobe-photoshop-sketch" title="">Adobe Photoshop Sketch</a></li>
+    <li><a href="/mejor-software-dibujo-windows-android/#1-krita" title="">Krita</a></li>
+    <li><a href="/mejor-software-dibujo-windows-android/#2-autodesk-sketchbook" title="">Autodesk Sketchbook</a></li>
+    <li><a href="/mejor-software-dibujo-windows-android/#3-fire-alpaca" title="">Fire Alpaca</a></li>
+    <li><a href="/mejor-software-dibujo-windows-android/#4-medibang-paint" title="">Medibang Paint</a></li>
+    <li><a href="/mejor-software-dibujo-windows-android/#5-mypaint-20" title="">MyPaint 2.0</a></li>
+    <li><a href="/mejor-software-dibujo-windows-android/#6-artflow" title="">Artflow</a></li>
+    <li><a href="/mejor-software-dibujo-windows-android/#7-adobe-illustrator-draw" title="">Adobe Illustrator Draw</a></li>
+    <li><a href="/mejor-software-dibujo-windows-android/#8-adobe-photoshop-sketch" title="">Adobe Photoshop Sketch</a></li>
   </ol>
 </nav>
 </details>
 <br />
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejor-software-dibujo-windows/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejor-software-dibujo-windows-android/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
 ## **[1. Krita](https://krita.org/es/){:target="_blank"}**
 
 **Krita es un programa de dibujo y pintura de código abierto**, y es gratis. Tiene **una interfaz de usuario excelente y personalizable**. Puede mover los acopladores y paneles y colocarlos en cualquier lugar de acuerdo con su flujo de trabajo. Krita también tiene una rueda de colores y un panel de referencia integrado. Hay más de 9 motores de pincel para ayudarlo a personalizar su pincel. También puede usar el Administrador de recursos para importar paquetes de pinceles y texturas de otros artistas.
 
-[⏫ Regresar al Menú](/mejor-software-dibujo-windows/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/mejor-software-dibujo-windows-android/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar Krita](https://krita.org/es/descargar/krita-desktop-es/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## **[2. Autodesk Sketchbook](https://sketchbook.com/){:target="_blank"}**
@@ -66,7 +66,7 @@ A continuación, voy a intentar seleccionar las aplicaciones que más me han gus
 **AutoDesk Sketchbook es una gran herramienta que presenta varias tintas**, **lápices**, **marcadores y más de 190 pinceles que puede personalizar**. También puede acceder a la exclusiva biblioteca de colores Copic®, que alberga una selección de muestras de colores. Es posible exportar sus dibujos como PSD, JPG, PNG, BMP y TIFF. La interfaz es fácil de usar, por lo que aprovechará al máximo en poco tiempo. Por último, pero no menos importante, el AutoDesk Sketchbook solía pagarse, ¡pero ahora es completamente gratis!
 
 <!-- contenido -->
-[⏫ Regresar al Menú](/mejor-software-dibujo-windows/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/mejor-software-dibujo-windows-android/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar Sketchbook](https://sketchbook.com/thankyou){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## **[3. Fire Alpaca](https://firealpaca.com/){:target="_blank"}**
@@ -75,7 +75,7 @@ FireAlpaca también es de código abierto y está disponible tanto en Mac como e
 
 Puede crear su propia obra de arte digital con estas excelentes alternativas de procreación para Windows en muy poco tiempo. Nunca se sabe cuándo la inspiración puede golpearlo, por lo que es importante ser móvil y tener un dispositivo que pueda dibujar digitalmente con usted en cualquier lugar. Dicho esto, si está buscando una alternativa para procrear en Android, asegúrese de consultar nuestra guía y comentarios sobre Procreate para Android .
 
-[⏫ Regresar al Menú](/mejor-software-dibujo-windows/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/mejor-software-dibujo-windows-android/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](https://firealpaca.com/download/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## **[4. MediBang Paint](https://medibangpaint.com/){:target="_blank"}**
@@ -86,7 +86,7 @@ Hay más de 800 opciones de fondo prefabricadas, 50 pinceles y 20 fuentes gratui
 
 Familiarizarse con la herramienta no debería llevar demasiado tiempo ya que hay una comunidad realmente activa y muchos tutoriales de los que puede aprender.
 
-[⏫ Regresar al Menú](/mejor-software-dibujo-windows/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/mejor-software-dibujo-windows-android/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar MediBang Paint](https://medibangpaint.com/en/app-download/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## **[5. MyPaint 2.0](http://mypaint.org/){:target="_blank"}**
@@ -99,28 +99,28 @@ Los pinceles estándar pueden emular medios tradicionales como carbón, lápices
 
 El modo de pantalla completa ordena la interfaz, dejándote solo con tu pincel y tu creatividad. Todavía puede revelar las herramientas que desee, cuando las necesite. Este enfoque sin distracciones significa que puedes concentrarte mejor en el arte que haces, no en la herramienta con la que lo haces.
 
-[⏫ Regresar al Menú](/mejor-software-dibujo-windows/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/mejor-software-dibujo-windows-android/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar My Paint Versión 2.0](http://mypaint.org/downloads/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## **[6. ArtFlow](http://artflowstudio.com/){:target="_blank"}**
 
 ArtFlow es un estudio de diseño exclusivo de Android. La versión gratuita incluye nueve pinceles personalizables, un selector de color, una herramienta de simetría y soporte para dos capas que es más que suficiente para un cajón de hobby. Las características premium de ArtFlow son más para artistas digitales experimentados y aspirantes que buscan una aplicación de dibujo de Android.
 
-[⏫ Regresar al Menú](/mejor-software-dibujo-windows/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/mejor-software-dibujo-windows-android/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ArtFlow](https://play.google.com/store/apps/details?id=com.bytestorm.artflow){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## **[7. Adobe Illustrator Draw](https://www.adobe.com/products/draw.html){:target="_blank"}**
 
 Una aplicación de dibujo de gráficos vectoriales de Adobe (Android e iOS) se puede mejorar con la integración de Creative Cloud. Hay 5 bolígrafos personalizables, soporte de stylus para dispositivos populares. Puede guardar su trabajo en su dispositivo móvil y abrirlo en la versión de escritorio de Illustrator más adelante. Se sincroniza con Photoshop mediante la exportación de los archivos PNG, y los activos se pueden importar de Color CC y Shape CC, lo que le ayuda a trabajar donde desee.
 
-[⏫ Regresar al Menú](/mejor-software-dibujo-windows/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/mejor-software-dibujo-windows-android/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](https://www.adobe.com/products/draw.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## **[8. Adobe Photoshop Sketch](https://play.google.com/store/apps/details?id=com.adobe.creativeapps.sketch){:target="_blank"}**
 
 Desde lápices hasta acrílicos gruesos, Adobe Photoshop Sketch lo cubrió. Puede acceder a 11 herramientas que pueden ajustar la configuración de tamaño, color, opacidad y fusión. También puede crear sus propios pinceles con Capture. Una vez más, si utiliza los servicios de Creative Cloud, puede aprovechar muchos otros servicios.
 
-[⏫ Regresar al Menú](/mejor-software-dibujo-windows/#menu){: .btn .btn--inverse .btn--large .align-center}
+[⏫ Regresar al Menú](/mejor-software-dibujo-windows-android/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar Adobe Photoshop Sketch](https://play.google.com/store/apps/details?id=com.adobe.creativeapps.sketch){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ### Relacionados
