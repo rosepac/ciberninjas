@@ -79,6 +79,7 @@ Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al
 
 ## Cuentos
 
+* [Cuentos para Niñ@s (Graciosos)](https://drive.google.com/drive/folders/1EZJxQ6ao5v9hlkvxNKzG2TXKkSUJIHcA){:target="_blank"}
 * [Cuentos ILCE](http://bibliotecadigital.ilce.edu.mx/Colecciones/index.php?clave=CuentosMas){:target="_blank"}
 
 ## Bibliotecas en Otros Lenguajes

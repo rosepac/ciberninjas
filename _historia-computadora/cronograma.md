@@ -1,9 +1,9 @@
 ---
 author_profile: false
-title: 'Cronograma de la Historia de la Computación'
-description: 'Cronograma o Línea de Tiempo de la Historia de la Computación'
+title: '🥇 ▷ La Historia de los Ordenadores'
+description: 'Los acontecimientos tecnológicos más importantes del Siglo XX. La computación, la telefonía, y las ciencias electrónicas'
 excerpt: 'Cronograma o Línea de Tiempo de la Historia de la Computación'
-date: 2018-09-11
+date: 2020-04-21
 published: true
 permalink: /cronograma/
 canonical_URL: "https://www.computerhistory.org/timeline/"
@@ -469,5 +469,5 @@ Las asociaciones entre iconos y las notas históricas relacionadas a esté; est�
 👨‍❤️‍💋‍👨 > Cultura Popular
 👩‍💻 > Software & Lenguajes de Programación
 
-**Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") línea de tiempo [original en inglés](https://www.computerhistory.org/timeline/)
+**Fuente**: Bajo permiso de utilización y reconocimiento al [Museum Computer History](https://www.computerhistory.org/ "Página web el Museo de la Historia de las Computadoras") línea de tiempo[original en inglés](https://www.computerhistory.org/timeline/). Está publicación, lleva en línea desde el 8 de Noviembre de 2018.
 {: .notice--info}

@@ -1,5 +1,5 @@
 ---
-title: "React Native: Los Mejores Recursos para Aprender el Framework Javascript de Facebook"
+title: "🥇 ▷ React Native: Los Mejores Recursos para Aprender el Framework Javascript de Facebook"
 description: "React Native: Los recursos más útiles, libros, tutoriales, videotutoriales, artículos, redes sociales, noticas, rss. Absolutamente todo lo que debes saber. Las herramientas ninjas necesarias para aprender React Native.."
 excerpt: "React Native: Los recursos más útiles, libros, tutoriales, videotutoriales, artículos, redes sociales, noticas, rss. Absolutamente todo lo que debes saber. Las herramientas ninjas necesarias para aprender React Native."
 date: 2020-04-18 01:00:00 +0100
@@ -28,13 +28,17 @@ header:
 
 Saber Más
 
-[ENLACE A PÁGINA DE REACT NATIVE](https://ciberninjas.com/react-native/)
+[PÁGINA APRENDIENDO REACT NATIVE](https://ciberninjas.com/react-native/)
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-Guías
-Libros en PDF, Ebook, Epub
+👷‍♂️ PÁGINA EN CONSTRUCCIÓN
+{: .notice--info}
+
+## **Guías de React Native**
+
+### Libros en PDF, Ebook, Epub sobre el framework de Javascript: React Native
 
 [Libro React Native Express](http://www.reactnativeexpress.com/) de [Devin Abbot](https://ciberninjas.com/etiqueta-catalogo/devin-abbott)
 
@@ -58,11 +62,11 @@ Wallpapers
 
 [Los mejores fondos de pantalla / wallpapers](https://ibb.co/album/k4xXfa)
 
-Sitio Oficial
-Página Web
+## **Sitio Oficial de React Native**
+- [Página Web](https://reactnative.dev/)
 
-Github
-Código Fuente
+## **Github de React Native**
+- [Código Fuente](https://github.com/facebook/react-native){:target="_blank"}
 
 Guía
 Documentación Oficial en Inglés
@@ -79,17 +83,19 @@ Twitter Oficial
 Hacker News
 Noticias relacionadas y actualizadas, día a día -en inglés-
 
-Stack Overflow
+- [Hacker News React Native](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=react%20native&sort=byDate&type=story){:target="_blank"}
+
+## Stack Overflow de React Native
 Página de Consultas sobre el Framework React Native
 STACK OVERFLOW español
 STACK OVERFLOW Inglés
 
-Reddit
+## Reddit de React Native
 Página de Consultas sobre el Framework React Native
 STACK OVERFLOW español
 STACK OVERFLOW Inglés
 
-Canales RSS
+## Canales RSS de React Native
 Sitios Web de Noticias Relacionadas
 Discord Reactiflux: https://discordapp.com/invite/0ZcbPKXt5bYZVCkR
 

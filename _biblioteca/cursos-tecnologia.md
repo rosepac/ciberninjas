@@ -435,6 +435,7 @@ sidebar:
 
 ### Otros
 
+* [Curso de OBS: Software de Streaming](https://aulasoftwarelibre.github.io/taller-de-obs-docs/){:target="_blank"}
 * [Introducción a Outlook 2010](https://www.udemy.com/introduccion-a-outlook-2010){:target="_blank"} (Udemy)
 * [LibreOffice Writer](https://www.youtube.com/playlist?list=PLLLaU95AMQPqAgeXCjQgXawAPABR19U2k){:target="_blank"} (VideoTutoriales Education, YouTube)
 * [Microsoft Project 2013](https://www.youtube.com/playlist?list=PL7Sb5pi3h9JigadkTKlbhxBFTptqN-tHY){:target="_blank"} (Grupo Ephyco, YouTube)
@@ -531,6 +532,10 @@ sidebar:
 * [Estructura de datos en C++](https://www.youtube.com/playlist?list=PLsaihF7BSsEkaGMkquCQNpMjyQXOpL9iU){:target="_blank"} (Programación Explicada, YouTube)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## Cobol
+
+* [Programación COBOL con VSCode](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.md#cobol-programming-with-vscode){:target="_blank"}
 
 ## Dart
 
@@ -679,7 +684,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Laravel 5.4: crear tu primer sitio web](https://www.udemy.com/primeros-pasos-con-laravel){:target="_blank"} (Udemy)
 * [Laravel 5.6](https://www.youtube.com/playlist?list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt){:target="_blank"} (Raul Palacios, YouTube)
 
-## Symfony <i class="fab fa-symfony"></i>
+### Symfony <i class="fab fa-symfony"></i>
 
 * [Instalando Symfony 2](https://www.udemy.com/instalando-symfony2){:target="_blank"} (Udemy)
 * [PHP, Symfony y Desarrollo Web](https://diego.com.es){:target="_blank"} (HTML)
@@ -687,7 +692,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Zend
+### Zend
 
 * [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC){:target="_blank"} (César Cancino, YouTube)
 
