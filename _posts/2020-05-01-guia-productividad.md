@@ -7,8 +7,8 @@ tags:
 - Guía
 categories:
 - Productividad
-# header:
-#   teaser: /assets/images/blog/guia-productividad.webp
+header:
+  teaser: /assets/images/blog/guia-productividad-1.webp
 title: '💼 ▷ Guía de productividad definitiva 2020'
 description: >-
   La productividad es un tema candente para casi todas las empresas. Si su organización no es productiva, ¿cómo puede realmente esperar crecer?
@@ -22,7 +22,7 @@ published: true
 
 ---
 
-![La productividad es un tema candente para casi todas las empresas. Si su organización no es productiva, ¿cómo puede realmente esperar crecer?](/assets/images/blog/guia-productividad.webp "La productividad es un tema candente para casi todas las empresas. Si su organización no es productiva, ¿cómo puede realmente esperar crecer?")
+![La productividad es un tema candente para casi todas las empresas. Si su organización no es productiva, ¿cómo puede realmente esperar crecer?](/assets/images/blog/guia-productividad-1.webp "La productividad es un tema candente para casi todas las empresas. Si su organización no es productiva, ¿cómo puede realmente esperar crecer?")
 <!-- https://www.noupe.com/inspiration/productivity-the-ultimate-guide.html -->
 
 Determinar la mejor manera de evaluar la productividad y hacer cambios positivos es, de ninguna manera, simple. De hecho, los factores que contribuyen a la productividad a menudo son variados y se extienden a través de partes dispares de una empresa y del mundo.
