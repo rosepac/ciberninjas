@@ -24,22 +24,12 @@ published: true
 
 ![Las mejores novedades de Javascript 6](/assets/images/blog/javascript-6.webp "Las mejores novedades de Javascript 6")
 
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/mejores-sistemas-operativos-para-hackear/"></a></li>
-    <li><a href="/mejores-sistemas-operativos-para-hackear/"></a></li>
-  </ol>
-</nav>
-</details>
-
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
-{: .notice--danger}
-
 JavaScript ES6 trae una nueva sintaxis y nuevas características increíbles para hacer que su código sea más moderno y más legible. Le permite escribir menos código y hacer más. ES6 nos presenta muchas características excelentes.
 
 En este artículo, exploraremos cinco de estas características de ES6 y consideraremos cómo podemos utilizarlas para mejorar nuestro código JavaScript. Estas son las características de interés:
+
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+{: .notice--danger}
 
 ## **1. Literales de plantilla**
 
@@ -456,7 +446,7 @@ const addNumbers = (numA, numB) => numA + numB;
 
 ```
 
-\2. Cuando hay un parámetro predeterminado, incluso si es el único parámetro
+2. Cuando hay un parámetro predeterminado, incluso si es el único parámetro
 
 ```
 // The traditional function body wrapped in curly braces
@@ -469,7 +459,7 @@ const factorial = (n = 1) => {
 
 ```
 
-\3. Cuando hay un parámetro de reposo, incluso si es el único parámetro
+3. Cuando hay un parámetro de reposo, incluso si es el único parámetro
 
 ```
 // Pair of parentheses cannot be omitted
@@ -477,7 +467,7 @@ const range = (...numbers) => Math.max(...numbers) - Math.min(...numbers);
 
 ```
 
-\4. Cuando hay un parámetro desestructurado, incluso si es el único parámetro
+4. Cuando hay un parámetro desestructurado, incluso si es el único parámetro
 
 ```
 // Pair of parentheses cannot be omitted
