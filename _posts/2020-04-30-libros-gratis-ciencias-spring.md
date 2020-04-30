@@ -24,7 +24,7 @@ published: true
 
 ![👨‍🔬 ▷ 408 Libros sobre Ciencia de la Editorial Springer (en inglés) totalmente gratis](/assets/images/blog/springer-editorial.webp "👨‍🔬 ▷ 408 Libros sobre Ciencia de la Editorial Springer (en inglés) totalmente gratis")
 
-408 Libros en inglés totalmente gratuitos. Entre estos libros vas a encontrar excelentes editoriales universitarias (en inglés) sobre:
+La más espectacilar colección de libros científicos en inglés totalmente gratuitos. Entre las lecturas que vas a poder encontrar, infinitas excelentes editoriales universitarias (en inglés) sobre todas las siguientes temáticas, y muchísimo más:
 
 - Introducción a la ciencia de datos
 - Guía avanzada de programación con Python 3
