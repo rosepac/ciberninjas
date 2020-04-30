@@ -9,11 +9,11 @@ categories:
 - Java
 header:
   teaser: /assets/images/blog/springer-editorial.webp
-title: '👨‍🔬 ▷ 408 Libros sobre Ciencia de la Editorial Springer (en inglés) totalmente gratis'
+title: '👨‍🔬 ▷ 408 Libros en PDF sobre Ciencias, programación, robótica, electrónica, álgebra y más. De la Editorial Springer (en inglés) totalmente gratis'
 description: >-
-  Biblioteca de libros totalmente gratuita con la que convertirte un auténtico profesional de la ciencias, programación, robótica, electrónica, álgebra, matemáticas, astronomía, sociología, biomécanica
+  Biblioteca de libros totalmente gratuita en formato pdf con la que convertirte un auténtico profesional de la ciencias, programación, robótica, electrónica, álgebra, matemáticas, astronomía, sociología, biomécanica
 excerpt: >-
-  Biblioteca de libros totalmente gratuita con la que convertirte un auténtico profesional de la ciencias, programación, robótica, electrónica, álgebra, matemáticas, astronomía, sociología, biomécanica
+  Biblioteca de libros totalmente gratuita en formato pdf con la que convertirte un auténtico profesional de la ciencias, programación, robótica, electrónica, álgebra, matemáticas, astronomía, sociología, biomécanica
 canonical_URL: https://ciberninjas.com/libros-gratis-ciencias-spring/
 permalink: /libros-gratis-ciencias-spring/
 date: 2020-04-30 00:32:32
@@ -24,7 +24,7 @@ published: true
 
 ![👨‍🔬 ▷ 408 Libros sobre Ciencia de la Editorial Springer (en inglés) totalmente gratis](/assets/images/blog/springer-editorial.webp "👨‍🔬 ▷ 408 Libros sobre Ciencia de la Editorial Springer (en inglés) totalmente gratis")
 
-La más espectacilar colección de libros científicos en inglés totalmente gratuitos. Entre las lecturas que vas a poder encontrar, infinitas excelentes editoriales universitarias (en inglés) sobre todas las siguientes temáticas, y muchísimo más:
+La más espectacular colección de libros científicos en pdf en inglés totalmente gratuitos. Entre las lecturas que vas a poder encontrar, infinitas excelentes editoriales universitarias (en inglés) sobre todas las siguientes temáticas, y muchísimo más:
 
 - Introducción a la ciencia de datos
 - Guía avanzada de programación con Python 3
@@ -102,6 +102,30 @@ Después de 175 años de existencia, el nombre de Springer a tomado el significa
 
 **🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}
+
+## **¿Cómo descargar mi libro sobre ciencia?**
+
+No se han incluido los enlaces directos por no sobrecargar la página web, por lo tanto deberás seguir los siguientes pasos:
+
+1. Seleccionar el enlace al libro que te interese.
+2. Presionar el botón del ratón.
+3. Elegir la opción de: Ir a ...-enlace seleccionado-...
+4. Se abrirá una página desde la que descargar el libro en formato PDF o EPUB.
+5. ¡A disfrutar aprendiendo!
+
+La opción alternativa y mucho más práctica es la de utilizar [este proyecto de Github](https://github.com/alexgand/springer_free_books#python-script-to-download-all-springer-books-released-for-free-during-the-2020-covid-19-quarantine){:target="blank"}:
+
+Donde han creado un script en Python para poder descargar los libros que desees, y solamente debes instalar la versión de Python más reciente y seguir [las siguientes instrucciones](https://github.com/alexgand/springer_free_books#download-all-books-pdf-and-epub){:target="_blank"}.
+
+Aunque el método más sencillo, es tras la instalación de Python; descargar el proyecto completo de Github y ejecutar el archivo `run_VirtualEnv.bat` aunque eso, obviamente, descargará absolutamente todo.
+
+El tiempo de la descarga completa puede ser de alrededor de 4 horas, un total de 408 libros en inglés (14 GB, en PDF y EPUB).
+
+## **¿Puede buscar un libro específico?**
+
+Sí, [aquí puedes encontrar](https://link.springer.com/search?facet-content-type=%22Book%22&sortOrder=newestFirst&showAll=true&package=mat-covid19_textbooks){:target="_blank"} un buscador con la selección de todos los libros gratuitos, desde el que seleccionar, visualizar y elegir las ediciones que más te puedan interesar.
+
+De lo contrario, siempre puedes usar el buscador del navegador web, a través del atajo de teclado: CNTRL + F y buscar una palabra concreta en inglés.
 
 ## **Libros de Ciencias gratis**
 
@@ -556,7 +580,7 @@ Después de 175 años de existencia, el nombre de Springer a tomado el significa
 | 407  | Literature and Medicine                            | Ronald Schleifer, Jerry B. Vannatta                | 1st ed.2019 | http://link.springer.com/openurl?genre=book&isbn=978-3-030-19128-3 |
 | 408  | Food Fraud Prevention                              | John W. Spink                                      | 1st ed.2019 | http://link.springer.com/openurl?genre=book&isbn=978-1-4939-9621-6 |
 
- 
+ http://link.springer.com/openurl?genre=book&isbn=978-1-4939-9621-6
 
 ### Relacionados
 
