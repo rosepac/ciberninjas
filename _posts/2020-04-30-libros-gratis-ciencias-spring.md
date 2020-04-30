@@ -87,7 +87,7 @@ La más espectacular colección de libros científicos en pdf en inglés totalme
 
 Springer es una editorial encargada de impulsar las publicaciones, que lleva editando libros académicas desde 1842.
 
-El 10 de mayo de 1842 (cuando cumplió 25 años), [Julius Springer](https://en.wikipedia.org/wiki/Julius_Springer){:target="_blank"}, fundó su librería y editorial en Berlín, sentando las bases de la empresa actual.
+El 10 de mayo de 1842 (cuando cumplió 25 años), [Julius Springer](https://kutt.it/wiki-springer){:target="_blank"}, fundó su librería y editorial en Berlín, sentando las bases de la empresa actual.
 
 Springer fundó la librería minorista Springer en la dirección Breite Strasse 20 (ahora número 11). Springer, junto su hijo Ferdinand, convirtieron una pequeña empresa de 4 empleados en la segunda editorial académica más importante de Alemania; llegando a tener hasta 65 empleados en tan solo 30 años.
 
@@ -113,9 +113,9 @@ No se han incluido los enlaces directos por no sobrecargar la página web, por l
 4. Se abrirá una página desde la que descargar el libro en formato PDF o EPUB.
 5. ¡A disfrutar aprendiendo!
 
-La opción alternativa y mucho más práctica es la de utilizar [este proyecto de Github](https://github.com/alexgand/springer_free_books#python-script-to-download-all-springer-books-released-for-free-during-the-2020-covid-19-quarantine){:target="blank"}:
+La opción alternativa y mucho más práctica es la de utilizar [este proyecto de Github](https://kutt.it/github-libros-ciencias){:target="blank"}:
 
-Donde han creado un script en Python para poder descargar los libros que desees, y solamente debes instalar la versión de Python más reciente y seguir [las siguientes instrucciones](https://github.com/alexgand/springer_free_books#download-all-books-pdf-and-epub){:target="_blank"}.
+Donde han creado un script en Python para poder descargar los libros que desees, y solamente debes instalar la versión de Python más reciente y seguir [las siguientes instrucciones](https://kutt.it/github-libros-ciencias){:target="_blank"}.
 
 Aunque el método más sencillo, es tras la instalación de Python; descargar el proyecto completo de Github y ejecutar el archivo `run_VirtualEnv.bat` aunque eso, obviamente, descargará absolutamente todo.
 
@@ -123,7 +123,7 @@ El tiempo de la descarga completa puede ser de alrededor de 4 horas, un total de
 
 ## **¿Puede buscar un libro específico?**
 
-Sí, [aquí puedes encontrar](https://link.springer.com/search?facet-content-type=%22Book%22&sortOrder=newestFirst&showAll=true&package=mat-covid19_textbooks){:target="_blank"} un buscador con la selección de todos los libros gratuitos, desde el que seleccionar, visualizar y elegir las ediciones que más te puedan interesar; también, puedes descargar el [archivo excel](https://resource-cms.springernature.com/springer-cms/rest/v1/content/17858272/data/v4){:target="_blank"} de toda la lista de libros.
+Sí, [aquí puedes encontrar](https://kutt.it/buscador-libros-ciencias){:target="_blank"} un buscador con la selección de todos los libros gratuitos, desde el que seleccionar, visualizar y elegir las ediciones que más te puedan interesar; también, puedes descargar el [archivo excel](https://kutt.it/excel-libros){:target="_blank"} de toda la lista de libros.
 
 Siempre puedes usar el buscador del navegador web, a través del atajo de teclado: CNTRL + F y buscar una palabra concreta en inglés.
 
