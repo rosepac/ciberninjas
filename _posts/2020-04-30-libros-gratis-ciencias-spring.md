@@ -4,9 +4,9 @@ author_profile: true
 comments: false
 classes: wide
 tags:
-- 
+- Libros
 categories:
-- Java
+- Repositorios
 header:
   teaser: /assets/images/blog/springer-editorial.webp
 title: '👨‍🔬 ▷ 408 Libros en PDF sobre Ciencias, programación, robótica, electrónica, álgebra y más. De la Editorial Springer (en inglés) totalmente gratis'
@@ -113,7 +113,7 @@ No se han incluido los enlaces directos por no sobrecargar la página web, por l
 4. Se abrirá una página desde la que descargar el libro en formato PDF o EPUB.
 5. ¡A disfrutar aprendiendo!
 
-La opción alternativa y mucho más práctica es la de utilizar [este proyecto de Github](https://kutt.it/github-libros-ciencias){:target="blank"}:
+### **La opción alternativa y mucho más práctica es la de utilizar [este proyecto de Github](https://kutt.it/github-libros-ciencias){:target="blank"}**
 
 Donde han creado un script en Python para poder descargar los libros que desees, y solamente debes instalar la versión de Python más reciente y seguir [las siguientes instrucciones](https://kutt.it/github-libros-ciencias){:target="_blank"}.
 
@@ -126,6 +126,8 @@ El tiempo de la descarga completa puede ser de alrededor de 4 horas, un total de
 Sí, [aquí puedes encontrar](https://kutt.it/buscador-libros-ciencias){:target="_blank"} un buscador con la selección de todos los libros gratuitos, desde el que seleccionar, visualizar y elegir las ediciones que más te puedan interesar; también, puedes descargar el [archivo excel](https://kutt.it/excel-libros){:target="_blank"} de toda la lista de libros.
 
 Siempre puedes usar el buscador del navegador web, a través del atajo de teclado: CNTRL + F y buscar una palabra concreta en inglés.
+
+Los libros se encuentran por orden de publicación, desde más antiguos hasta más recientes; por ello, quizás desees comenzar a revisarlos [desde abajo hacía arriba](/libros-gratis-ciencias-spring/#relacionados). 🤞
 
 ## **Lista de Libros de Ciencias Gratis**
 
@@ -579,8 +581,6 @@ Siempre puedes usar el buscador del navegador web, a través del atajo de teclad
 | 406  | Advanced Guide to Python 3 Programming             | John Hunt                                          | 1st ed.2019 | http://link.springer.com/openurl?genre=book&isbn=978-3-030-25943-3 |
 | 407  | Literature and Medicine                            | Ronald Schleifer, Jerry B. Vannatta                | 1st ed.2019 | http://link.springer.com/openurl?genre=book&isbn=978-3-030-19128-3 |
 | 408  | Food Fraud Prevention                              | John W. Spink                                      | 1st ed.2019 | http://link.springer.com/openurl?genre=book&isbn=978-1-4939-9621-6 |
-
- http://link.springer.com/openurl?genre=book&isbn=978-1-4939-9621-6
 
 ### Relacionados
 
