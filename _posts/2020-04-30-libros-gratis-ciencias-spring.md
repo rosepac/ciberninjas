@@ -123,11 +123,11 @@ El tiempo de la descarga completa puede ser de alrededor de 4 horas, un total de
 
 ## **¿Puede buscar un libro específico?**
 
-Sí, [aquí puedes encontrar](https://link.springer.com/search?facet-content-type=%22Book%22&sortOrder=newestFirst&showAll=true&package=mat-covid19_textbooks){:target="_blank"} un buscador con la selección de todos los libros gratuitos, desde el que seleccionar, visualizar y elegir las ediciones que más te puedan interesar.
+Sí, [aquí puedes encontrar](https://link.springer.com/search?facet-content-type=%22Book%22&sortOrder=newestFirst&showAll=true&package=mat-covid19_textbooks){:target="_blank"} un buscador con la selección de todos los libros gratuitos, desde el que seleccionar, visualizar y elegir las ediciones que más te puedan interesar; también, puedes descargar el [archivo excel](https://resource-cms.springernature.com/springer-cms/rest/v1/content/17858272/data/v4){:target="_blank"} de toda la lista de libros.
 
-De lo contrario, siempre puedes usar el buscador del navegador web, a través del atajo de teclado: CNTRL + F y buscar una palabra concreta en inglés.
+Siempre puedes usar el buscador del navegador web, a través del atajo de teclado: CNTRL + F y buscar una palabra concreta en inglés.
 
-## **Libros de Ciencias gratis**
+## **Lista de Libros de Ciencias Gratis**
 
 | *S.No.\**** | ***\*Book Title\****                                     | ***\*Author\****                                             | ***\*Edition\**** | ***\*OpenURL\****                                            |
 | ----------- | -------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
