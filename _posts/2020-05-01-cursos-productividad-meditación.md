@@ -9,7 +9,7 @@ categories:
 - Cursos
 header:
   teaser: /assets/images/blog/eficiencia.webp
-title: '🥇 ▷ Los mejores cursos gratis sobre productividad, meditación, relajación, vida y mejoras de negocio'
+title: '🥇 ▷ Los mejores cursos gratis sobre productividad, meditación, relajación, vida y negocios'
 description: >-
   Encuentra las mejores enseñanzas gratuitas con las que aumentar tu eficacia en las horas de trabajo y aprende a concentrarte y utilizar todo tu potencial en cada momento
 excerpt: >-
