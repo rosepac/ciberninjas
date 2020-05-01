@@ -32,7 +32,8 @@ Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejor
 ## **Cursos de Productividad y Mapas Mentales**
 
 🎓 Productividad: Alcanza tus Metas y ten tiempo para todo
-https://www.udemy.com/course/alcanza-tus-metas-y-ten-tiempo-para-todo/
+
+[https://www.udemy.com/course/alcanza-tus-metas-y-ten-tiempo-para-todo/](https://www.udemy.com/course/alcanza-tus-metas-y-ten-tiempo-para-todo/){:target="_blank"}
 
 🎓 Productividad para Novelistas: Escribe Mejor y Más Rápido
 https://www.udemy.com/course/productividad-novela/
