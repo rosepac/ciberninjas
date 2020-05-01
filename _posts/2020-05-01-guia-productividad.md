@@ -18,7 +18,7 @@ canonical_URL: https://ciberninjas.com/guia-productividad-definitiva/
 permalink: /guia-productividad-definitiva/
 date: 2020-05-01 09:28:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
