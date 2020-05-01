@@ -16,7 +16,7 @@ excerpt: >-
   Encuentra las mejores enseñanzas gratuitas con las que aumentar tu eficacia en las horas de trabajo y aprende a concentrarte y utilizar todo tu potencial en cada momento
 canonical_URL: https://ciberninjas.com/cursos-productividad-eficiencia-meditación/
 permalink: /cursos-productividad-eficiencia-meditación/
-date: 2020-05-01 00:32:32
+date: 2020-05-01 10:32:32
 last_modified_at: 
 published: true
 
@@ -26,7 +26,7 @@ published: true
 
 Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejores cursos sobre trabajo, productividad, reflexión, meditación, desarrollo personal, y negocios.
 
-🔥 Seguro también te interesa 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank"} 👉 [Guía de productividad](/guia-productividad-definitiva/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) >> [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n) 
+🔥 Seguro también te interesa 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank"} 👉 [Guía de productividad](/guia-productividad-definitiva/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) 👉 [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n) 
 {: .notice--danger}
 
 ## **Cursos de Productividad y Mapas Mentales**
