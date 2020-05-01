@@ -9,7 +9,7 @@ categories:
 - Cursos
 header:
   teaser: /assets/images/blog/eficiencia.webp
-title: '🥇 ▷ Los mejores cursos gratis sobre productividad, meditación, relajación, vida y negocios'
+title: '🥇 ▷ Los 50 mejores cursos gratis sobre productividad, meditación, relajación, vida y negocios'
 description: >-
   Encuentra las mejores enseñanzas gratuitas con las que aumentar tu eficacia en las horas de trabajo y aprende a concentrarte y utilizar todo tu potencial en cada momento
 excerpt: >-
@@ -31,19 +31,19 @@ Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejor
 
 ## **Cursos de Productividad y Mapas Mentales**
 
-- 🎓 Productividad: Alcanza tus Metas y ten tiempo para todo
+🎓 Productividad: Alcanza tus Metas y ten tiempo para todo
 https://www.udemy.com/course/alcanza-tus-metas-y-ten-tiempo-para-todo/
 
-- 🎓 Productividad para Novelistas: Escribe Mejor y Más Rápido
+🎓 Productividad para Novelistas: Escribe Mejor y Más Rápido
 https://www.udemy.com/course/productividad-novela/
 
-- 🎓 Productividad Personal - Como eliminar la Dilación
+🎓 Productividad Personal - Como eliminar la Dilación
 https://www.udemy.com/course/productividad-personal-como-eliminar-la-dilacion/
 
-- 🎓 Productividad Personal: Guía Definitiva sobre la eficiencia
+🎓 Productividad Personal: Guía Definitiva sobre la eficiencia
 https://www.udemy.com/course/productividad-personal-guia-definitiva-sobre-la-eficiencia/
 
-- 🎓 Ser mas productivo cuando trabajas en un computador
+🎓 Ser mas productivo cuando trabajas en un computador
 https://www.udemy.com/course/ser-mas-productivo-cuando-trabajas-en-un-computador/
 
 - 🎓 Se un programador más productivo con Visual Studio Code
