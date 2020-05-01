@@ -24,7 +24,18 @@ published: true
 
 ![Los 50 mejores cursos gratis sobre productividad, meditación, relajación, vida y mejoras de negocio](/assets/images/blog/eficiencia.webp "Los 50 mejores cursos gratis sobre productividad, meditación, relajación, vida y mejoras de negocio")
 
-Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejores cursos sobre trabajo, productividad, reflexión, meditación, desarrollo personal, y negocios.
+Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejores cursos sobre trabajo, productividad, reflexión, meditación, desarrollo personal, y negocios con los que mejorar la eficiencia de tu tiempo y tu actividad diaria.
+
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li><a href="/cursos-productividad-eficiencia-meditación/#cursos-de-productividad-y-mapas-mentales">1. Cursos de Productividad y Mapas Mentales</a></li>
+    <li><a href="/cursos-productividad-eficiencia-meditación/#cursos-de-negocios">2. Cursos de Negocios</a></li>
+    <li><a href="/cursos-productividad-eficiencia-meditación/#cursos-de-relajación">3. Cursos de Relajación</a></li>
+  </ol>
+</nav>
+</details>
 
 🔥 Seguro también te interesa 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank"} 👉 [Guía de productividad](/guia-productividad-definitiva/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) 👉 [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n) 
 {: .notice--danger}
@@ -83,6 +94,7 @@ Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejor
 
 [https://www.udemy.com/course/aprendizaje-basado-en-problemas/](https://www.udemy.com/course/aprendizaje-basado-en-problemas/){:target="_blank"}
 
+[⏫ Regresar al Menú](/cursos-productividad-eficiencia-meditación/#menu){: .btn .btn--inverse .btn--large .align-center}
 [🔨 Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## **Cursos de Negocios**
@@ -175,6 +187,7 @@ Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejor
 
 [https://www.udemy.com/course/como-vender-cualquier-producto-en-internet/](https://www.udemy.com/course/como-vender-cualquier-producto-en-internet/){:target="_blank"}
 
+[⏫ Regresar al Menú](/cursos-productividad-eficiencia-meditación/#menu){: .btn .btn--inverse .btn--large .align-center}
 [🔨 Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 [💼 Cursos de Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
@@ -246,5 +259,6 @@ Inteligencia emocional y mejora del nivel de vida 🤞
 
 [https://www.udemy.com/course/descubre-el-significado-emocional-y-mental-de-la-enfermedad/](https://www.udemy.com/course/descubre-el-significado-emocional-y-mental-de-la-enfermedad/){:target="_blank"}
 
+[⏫ Regresar al Menú](/cursos-productividad-eficiencia-meditación/#menu){: .btn .btn--inverse .btn--large .align-center}
 [🔨 Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 [💪 Cursos de Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
