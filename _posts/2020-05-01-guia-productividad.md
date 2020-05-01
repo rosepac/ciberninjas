@@ -18,7 +18,7 @@ canonical_URL: https://ciberninjas.com/guia-productividad-definitiva/
 permalink: /guia-productividad-definitiva/
 date: 2020-05-01 09:28:32
 last_modified_at: 
-published: true
+published: false
 
 ---
 
@@ -44,7 +44,7 @@ Mejorar la productividad puede ayudarte a escalar su negocio y mantener el creci
 </nav>
 </details>
 
-🔥 Seguro también te interesa: [Cómo calcular la productividad](/como-calcular-la-productividad/), [Consejos para teletrabajar](/mejores-consejos-trabajar-desde-casa/), [Mejores prácticas para teletrabajar](/mejores-practicas-trabajar-desde-casa/),
+🔥 Seguro también te interesa 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank"} 👉 [Cómo calcular la productividad](/como-calcular-la-productividad/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) >> [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n) 
 {: .notice--danger}
 
 ## **Introducción sobre productividad**
