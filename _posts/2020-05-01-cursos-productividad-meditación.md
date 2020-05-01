@@ -36,110 +36,144 @@ Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejor
 [https://www.udemy.com/course/alcanza-tus-metas-y-ten-tiempo-para-todo/](https://www.udemy.com/course/alcanza-tus-metas-y-ten-tiempo-para-todo/){:target="_blank"}
 
 🎓 Productividad para Novelistas: Escribe Mejor y Más Rápido
-https://www.udemy.com/course/productividad-novela/
+
+[https://www.udemy.com/course/productividad-novela/](https://www.udemy.com/course/productividad-novela/){:target="_blank"}
 
 🎓 Productividad Personal - Como eliminar la Dilación
-https://www.udemy.com/course/productividad-personal-como-eliminar-la-dilacion/
+
+[https://www.udemy.com/course/productividad-personal-como-eliminar-la-dilacion/](https://www.udemy.com/course/productividad-personal-como-eliminar-la-dilacion/){:target="_blank"}
 
 🎓 Productividad Personal: Guía Definitiva sobre la eficiencia
-https://www.udemy.com/course/productividad-personal-guia-definitiva-sobre-la-eficiencia/
+
+[https://www.udemy.com/course/productividad-personal-guia-definitiva-sobre-la-eficiencia/](https://www.udemy.com/course/productividad-personal-guia-definitiva-sobre-la-eficiencia/){:target="_blank"}
 
 🎓 Ser mas productivo cuando trabajas en un computador
-https://www.udemy.com/course/ser-mas-productivo-cuando-trabajas-en-un-computador/
 
-- 🎓 Se un programador más productivo con Visual Studio Code
-https://www.udemy.com/course/se-un-programador-mas-productivo-con-visual-studio-code/
+[https://www.udemy.com/course/ser-mas-productivo-cuando-trabajas-en-un-computador/](https://www.udemy.com/course/ser-mas-productivo-cuando-trabajas-en-un-computador/){:target="_blank"}
 
-- 🎓 Organización del Tiempo de manera efectiva
-https://www.udemy.com/course/organizacion-del-tiempo-de-manera-efectiva/
+🎓 Se un programador más productivo con Visual Studio Code
 
-- 🎓 Técnicas para un estudio exitoso y eficaz
-https://www.udemy.com/course/tecnicas-para-un-estudio-exitoso-y-eficaz/
+[https://www.udemy.com/course/se-un-programador-mas-productivo-con-visual-studio-code/](https://www.udemy.com/course/se-un-programador-mas-productivo-con-visual-studio-code/){:target="_blank"}
 
-- 🎓 Curso básico de desarrollo personal
-https://www.udemy.com/course/curso-basico-de-desarrollo-personal/
+🎓 Organización del Tiempo de manera efectiva
 
-- 🎓 Mapas mentales desde cero
-https://www.udemy.com/course/mapas-mentales-desde-cero/
+[https://www.udemy.com/course/organizacion-del-tiempo-de-manera-efectiva/](https://www.udemy.com/course/organizacion-del-tiempo-de-manera-efectiva/){:target="_blank"}
 
-- 🎓 Curso rápido de mapas mentales para la cuarentena
-https://www.udemy.com/course/curso-rapido-de-mapas-mentales-para-la-cuarentena/
+🎓 Técnicas para un estudio exitoso y eficaz
 
-- 🎓 Mentalidad, acción y resultado
-https://www.udemy.com/course/mar-mentalidad-accion-resultado/
+[https://www.udemy.com/course/tecnicas-para-un-estudio-exitoso-y-eficaz/](https://www.udemy.com/course/tecnicas-para-un-estudio-exitoso-y-eficaz/){:target="_blank"}
 
-- 🎓 Aprendizaje basado en problemas
-https://www.udemy.com/course/aprendizaje-basado-en-problemas/
+🎓 Curso básico de desarrollo personal
+
+[https://www.udemy.com/course/curso-basico-de-desarrollo-personal/](https://www.udemy.com/course/curso-basico-de-desarrollo-personal/){:target="_blank"}
+
+🎓 Mapas mentales desde cero
+
+[https://www.udemy.com/course/mapas-mentales-desde-cero/](https://www.udemy.com/course/mapas-mentales-desde-cero/){:target="_blank"}
+
+🎓 Curso rápido de mapas mentales para la cuarentena
+
+[https://www.udemy.com/course/curso-rapido-de-mapas-mentales-para-la-cuarentena/](https://www.udemy.com/course/curso-rapido-de-mapas-mentales-para-la-cuarentena/){:target="_blank"}
+
+🎓 Mentalidad, acción y resultado
+
+[https://www.udemy.com/course/mar-mentalidad-accion-resultado/](https://www.udemy.com/course/mar-mentalidad-accion-resultado/){:target="_blank"}
+
+🎓 Aprendizaje basado en problemas
+
+[https://www.udemy.com/course/aprendizaje-basado-en-problemas/](https://www.udemy.com/course/aprendizaje-basado-en-problemas/){:target="_blank"}
 
 [🔨 Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## **Cursos de Negocios**
 
-- 🎓 Recursos digitales para desarrollar Inteligencias Múltiples
-https://www.udemy.com/course/recursos-digitales-para-desarrollar-inteligencias-multiples/
+🎓 Recursos digitales para desarrollar Inteligencias Múltiples
 
-- 🎓 Ser para emprender
-https://www.udemy.com/course/emprendedor_de_10/
+[https://www.udemy.com/course/recursos-digitales-para-desarrollar-inteligencias-multiples/](https://www.udemy.com/course/recursos-digitales-para-desarrollar-inteligencias-multiples/){:target="_blank"}
 
-- 🎓 Habilidades directivas, para el desarrollo organizacional
-https://miriadax.net/web/habilidades-directivas-para-el-desarrollo-organizacional-2-edicion-/inicio
+🎓 Ser para emprender
 
-- 🎓 Inteligencia emocional para emprendedores
-https://www.udemy.com/course/inteligencia-emocional-para-emprendedores/
+[https://www.udemy.com/course/emprendedor_de_10/](https://www.udemy.com/course/emprendedor_de_10/){:target="_blank"}
 
-- 🎓 Reinventa tu vida con herramientas de coaching
-https://www.udemy.com/course/reinventa-tu-vida-coaching/
+🎓 Habilidades directivas, para el desarrollo organizacional
 
-- 🎓 Aprende coaching en 30 días
-https://www.udemy.com/course/aprende-coaching-en-30-dias/
+[https://miriadax.net/web/habilidades-directivas-para-el-desarrollo-organizacional-2-edicion-/inicio](https://miriadax.net/web/habilidades-directivas-para-el-desarrollo-organizacional-2-edicion-/inicio){:target="_blank"}
 
-- 🎓 El coaching como herramienta de transformación personal
-https://www.udemy.com/course/el-coaching-como-herramienta-de-transformacion-personal/
+🎓 Inteligencia emocional para emprendedores
 
-- 🎓 Creatividad y pensamiento lateral
-https://miriadax.net/web/creatividad-y-pensamiento-lateral-3-edicion-/inicio
+[https://www.udemy.com/course/inteligencia-emocional-para-emprendedores/](https://www.udemy.com/course/inteligencia-emocional-para-emprendedores/){:target="_blank"}
 
-- 🎓 Dimensiones básicas de la Creatividad: Crear para crecer
-https://miriadax.net/web/dimensiones-basicas-creatividad/inicio
+🎓 Reinventa tu vida con herramientas de coaching
 
-- 🎓 Empresas individuales en mercados de subsistencia
-https://www.udemy.com/course/empresas-individuales-en-mercados-de-subsistencia/
+[https://www.udemy.com/course/reinventa-tu-vida-coaching/](https://www.udemy.com/course/reinventa-tu-vida-coaching/){:target="_blank"}
 
-- 🎓 Fundamentos del Emprendedor Exitoso
-https://www.udemy.com/course/fundamentos-del-emprendedor-exitoso/
+🎓 Aprende coaching en 30 días
 
-- 🎓 Emprender: Modelos de negocio para ganar dinero online
-https://www.udemy.com/course/negocios-online-para-emprender-desde-casa/
+[https://www.udemy.com/course/aprende-coaching-en-30-dias/](https://www.udemy.com/course/aprende-coaching-en-30-dias/){:target="_blank"}
 
-- 🎓 Imaginieria como Actitud para Emprender
-https://www.udemy.com/course/imaginiera-como-actitud-para-emprender/
+🎓 El coaching como herramienta de transformación personal
 
-- 🎓 De emprendedor a empresario
-https://www.udemy.com/course/de-emprendedor-a-empresario/
+[https://www.udemy.com/course/el-coaching-como-herramienta-de-transformacion-personal/](https://www.udemy.com/course/el-coaching-como-herramienta-de-transformacion-personal/){:target="_blank"}
 
-- 🎓 Cómo emprender un negocio con pasión
-https://www.udemy.com/course/vivir-un-emprendimiento-holistico/
+🎓 Creatividad y pensamiento lateral
 
-- 🎓 Cambiar el chip para emprender
-https://www.udemy.com/course/cambia-el-chip-para-emprender/
+[https://miriadax.net/web/creatividad-y-pensamiento-lateral-3-edicion-/inicio](https://miriadax.net/web/creatividad-y-pensamiento-lateral-3-edicion-/inicio){:target="_blank"}
 
-- 🎓 Entrevista :Descubriendo tu Inteligencia Emocional
-https://www.udemy.com/course/descubre-tu-inteligencia-emocional/
+🎓 Dimensiones básicas de la Creatividad: Crear para crecer
 
-- 🎓 Cómo vivir de tu pasión si eres terapeuta, coach, formador..
-https://www.udemy.com/course/vive-de-tu-pasion/
+[https://miriadax.net/web/dimensiones-basicas-creatividad/inicio](https://miriadax.net/web/dimensiones-basicas-creatividad/inicio){:target="_blank"}
 
-- 🎓 Técnicas de búsqueda de empleo 2.0
-https://www.udemy.com/course/tecnicas-de-busqueda-de-empleo-20/
+🎓 Empresas individuales en mercados de subsistencia
 
-- 🎓 Coaching en el contexto educativo
-https://www.udemy.com/course/coaching-en-el-contexto-educativo/
+[https://www.udemy.com/course/empresas-individuales-en-mercados-de-subsistencia/](https://www.udemy.com/course/empresas-individuales-en-mercados-de-subsistencia/){:target="_blank"}
 
-- 🎓 Mercadotecnia estratégica simplificada / básica
-https://www.udemy.com/course/uno-gh-mktes/
+🎓 Fundamentos del Emprendedor Exitoso
 
-- 🎓 Cómo vender cualquier producto en Internet
-https://www.udemy.com/course/como-vender-cualquier-producto-en-internet/
+[https://www.udemy.com/course/fundamentos-del-emprendedor-exitoso/](https://www.udemy.com/course/fundamentos-del-emprendedor-exitoso/){:target="_blank"}
+
+🎓 Emprender: Modelos de negocio para ganar dinero online
+
+[https://www.udemy.com/course/negocios-online-para-emprender-desde-casa/](https://www.udemy.com/course/negocios-online-para-emprender-desde-casa/){:target="_blank"}
+
+🎓 Imaginieria como Actitud para Emprender
+
+[https://www.udemy.com/course/imaginiera-como-actitud-para-emprender/](https://www.udemy.com/course/imaginiera-como-actitud-para-emprender/){:target="_blank"}
+
+🎓 De emprendedor a empresario
+
+[https://www.udemy.com/course/de-emprendedor-a-empresario/](https://www.udemy.com/course/de-emprendedor-a-empresario/){:target="_blank"}
+
+🎓 Cómo emprender un negocio con pasión
+
+[https://www.udemy.com/course/vivir-un-emprendimiento-holistico/](https://www.udemy.com/course/vivir-un-emprendimiento-holistico/){:target="_blank"}
+
+🎓 Cambiar el chip para emprender
+
+[https://www.udemy.com/course/cambia-el-chip-para-emprender/](https://www.udemy.com/course/cambia-el-chip-para-emprender/){:target="_blank"}
+
+🎓 Entrevista :Descubriendo tu Inteligencia Emocional
+
+[https://www.udemy.com/course/descubre-tu-inteligencia-emocional/](https://www.udemy.com/course/descubre-tu-inteligencia-emocional/){:target="_blank"}
+
+🎓 Cómo vivir de tu pasión si eres terapeuta, coach, formador..
+
+[https://www.udemy.com/course/vive-de-tu-pasion/](https://www.udemy.com/course/vive-de-tu-pasion/){:target="_blank"}
+
+🎓 Técnicas de búsqueda de empleo 2.0
+
+[https://www.udemy.com/course/tecnicas-de-busqueda-de-empleo-20/](https://www.udemy.com/course/tecnicas-de-busqueda-de-empleo-20/){:target="_blank"}
+
+🎓 Coaching en el contexto educativo
+
+[https://www.udemy.com/course/coaching-en-el-contexto-educativo/](https://www.udemy.com/course/coaching-en-el-contexto-educativo/){:target="_blank"}
+
+🎓 Mercadotecnia estratégica simplificada / básica
+
+[https://www.udemy.com/course/uno-gh-mktes/](https://www.udemy.com/course/uno-gh-mktes/){:target="_blank"}
+
+🎓 Cómo vender cualquier producto en Internet
+
+[https://www.udemy.com/course/como-vender-cualquier-producto-en-internet/](https://www.udemy.com/course/como-vender-cualquier-producto-en-internet/){:target="_blank"}
 
 [🔨 Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 [💼 Cursos de Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
@@ -148,53 +182,69 @@ https://www.udemy.com/course/como-vender-cualquier-producto-en-internet/
 
 Inteligencia emocional y mejora del nivel de vida 🤞
 
-- 🎓 Cultivando serenidad en tiempos de cuarentena
-https://www.udemy.com/course/cultivando-serenidad-en-tiempos-de-cuarentena/
+🎓 Cultivando serenidad en tiempos de cuarentena
 
-- 🎓 Mente y cuerpo sano en la cuarentena
-https://www.udemy.com/course/mente-y-cuerpo-sano-en-la-cuarentena/
+[https://www.udemy.com/course/cultivando-serenidad-en-tiempos-de-cuarentena/](https://www.udemy.com/course/cultivando-serenidad-en-tiempos-de-cuarentena/){:target="_blank"}
 
-- 🎓 10 ejercicios para tu salud emocional
-https://www.udemy.com/course/10-ejercicios-para-tu-salud-emocional/
+🎓 Mente y cuerpo sano en la cuarentena
 
-- 🎓 Mindfulness para regular emociones (inteligencia artificial)
-https://miriadax.net/web/mindfulness-para-regular-emociones-programa-inteligencia-emocional-plena-4-edicion/inicio
+[https://www.udemy.com/course/mente-y-cuerpo-sano-en-la-cuarentena/](https://www.udemy.com/course/mente-y-cuerpo-sano-en-la-cuarentena/){:target="_blank"}
 
-- 🎓 Mindfulness para crear Hábitos
-https://www.udemy.com/course/mindfulness-para-crear-habitos/
+🎓 10 ejercicios para tu salud emocional
 
-- 🎓 El Reto Mindfulness de 7 Días
-https://www.udemy.com/course/el-reto-mindfulness-de-7-dias/
+[https://www.udemy.com/course/10-ejercicios-para-tu-salud-emocional/](https://www.udemy.com/course/10-ejercicios-para-tu-salud-emocional/){:target="_blank"}
 
-- 🎓 Meditación para principiantes
-https://www.udemy.com/course/meditacion-para-principiantes/
+🎓 Mindfulness para regular emociones (inteligencia artificial)
 
-- 🎓 7 pasos para Transformar tu Vida
-https://www.udemy.com/course/7-pasos-para-transformar-tu-vida/
+[https://miriadax.net/web/mindfulness-para-regular-emociones-programa-inteligencia-emocional-plena-4-edicion/inicio](https://miriadax.net/web/mindfulness-para-regular-emociones-programa-inteligencia-emocional-plena-4-edicion/inicio){:target="_blank"}
 
-- 🎓 Inteligencia Emocional
-https://www.udemy.com/course/curso-inteligencia-emocional/
+🎓 Mindfulness para crear Hábitos
 
-- 🎓 Inteligencia Emocional. "El secreto del bienestar"
-https://www.udemy.com/course/inteligencia-emocional-el-secreto-del-bienestar/
+[https://www.udemy.com/course/mindfulness-para-crear-habitos/](https://www.udemy.com/course/mindfulness-para-crear-habitos/){:target="_blank"}
 
-- 🎓 Manejo del Pensamiento en Beneficio de mi Salud
-https://www.udemy.com/course/pensamiento/
+🎓 El Reto Mindfulness de 7 Días
 
-- 🎓 Las 3 técnicas para ser feliz: Aplicaciones ¡Felicidad!
-https://www.udemy.com/course/las-3-tecnicas-para-ser-feliz-felicidad-aplicaciones/
+[https://www.udemy.com/course/el-reto-mindfulness-de-7-dias/](https://www.udemy.com/course/el-reto-mindfulness-de-7-dias/){:target="_blank"}
 
-- 🎓 Introducción a la Meditación y Enseñanzas de Buda
-https://www.udemy.com/course/introduccion-a-la-meditacion-y-ensenanzas-de-buda/
+🎓 Meditación para principiantes
 
-- 🎓 Curso rápido de relajación
-https://www.udemy.com/course/curso-base-de-distension/
+[https://www.udemy.com/course/meditacion-para-principiantes/](https://www.udemy.com/course/meditacion-para-principiantes/){:target="_blank"}
 
-- 🎓 El arte de Educar. Coaching para hacer familia
-https://www.udemy.com/course/el-arte-de-educar-coaching-para-hacer-familia/
+🎓 7 pasos para Transformar tu Vida
 
-- 🎓 Descubre el significado emocional y mental de la enfermedad
-https://www.udemy.com/course/descubre-el-significado-emocional-y-mental-de-la-enfermedad/
+[https://www.udemy.com/course/7-pasos-para-transformar-tu-vida/](https://www.udemy.com/course/7-pasos-para-transformar-tu-vida/){:target="_blank"}
+
+🎓 Inteligencia Emocional
+
+[https://www.udemy.com/course/curso-inteligencia-emocional/](https://www.udemy.com/course/curso-inteligencia-emocional/){:target="_blank"}
+
+🎓 Inteligencia Emocional. "El secreto del bienestar"
+
+[https://www.udemy.com/course/inteligencia-emocional-el-secreto-del-bienestar/](https://www.udemy.com/course/inteligencia-emocional-el-secreto-del-bienestar/){:target="_blank"}
+
+🎓 Manejo del Pensamiento en Beneficio de mi Salud
+
+[https://www.udemy.com/course/pensamiento/](https://www.udemy.com/course/pensamiento/){:target="_blank"}
+
+🎓 Las 3 técnicas para ser feliz: Aplicaciones ¡Felicidad!
+
+[https://www.udemy.com/course/las-3-tecnicas-para-ser-feliz-felicidad-aplicaciones/](https://www.udemy.com/course/las-3-tecnicas-para-ser-feliz-felicidad-aplicaciones/){:target="_blank"}
+
+🎓 Introducción a la Meditación y Enseñanzas de Buda
+
+[https://www.udemy.com/course/introduccion-a-la-meditacion-y-ensenanzas-de-buda/](https://www.udemy.com/course/introduccion-a-la-meditacion-y-ensenanzas-de-buda/){:target="_blank"}
+
+🎓 Curso rápido de relajación
+
+[https://www.udemy.com/course/descubre-el-significado-emocional-y-mental-de-la-enfermedad/](https://www.udemy.com/course/curso-base-de-distension/){:target="_blank"}
+
+🎓 El arte de Educar. Coaching para hacer familia
+
+[https://www.udemy.com/course/descubre-el-significado-emocional-y-mental-de-la-enfermedad/](https://www.udemy.com/course/el-arte-de-educar-coaching-para-hacer-familia/){:target="_blank"}
+
+🎓 Descubre el significado emocional y mental de la enfermedad
+
+[https://www.udemy.com/course/descubre-el-significado-emocional-y-mental-de-la-enfermedad/](https://www.udemy.com/course/descubre-el-significado-emocional-y-mental-de-la-enfermedad/){:target="_blank"}
 
 [🔨 Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 [💪 Cursos de Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
