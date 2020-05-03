@@ -202,9 +202,11 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 ## Electrónica
 
 * [Automatización (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/automatizacion-2010.html){:target="_blank"}
-* [Electricidad Básica](http://artecdigital.com.ar/curso-de-electricidad-basica-online-gratis){:target="_blank"} (Youtube)
 * [Electricidad: conceptos básicos y aplicaciones](https://miriadax.net/web/electricidad-conceptos-basicos-y-aplicaciones-2-edicion-/inicio){:target="_blank"}
-* [Electrónica Básica](http://artecdigital.com.ar/curso-de-electronica-basica-gratis){:target="_blank"} (Youtube)
+* [Electricidad Básica](https://www.udemy.com/course/curso-de-electricidad/){:target="_blank"} (Udemy)
+* [Electricidad Industrial](https://www.youtube.com/playlist?list=PLJSA24PELINLVzINpVjhlmx2JeofN9pFj){:target="_blank"} (Youtube) (2014)
+* [Electricidad y circuitos electrónicos](https://www.youtube.com/playlist?list=PLQy0-ozU-VO2Mt5rXqLScaeZvn_Z2Coa_){:target="_blank"} (Youtube) (2014)
+* [Electricidad y magnetismo](https://www.youtube.com/playlist?list=PL6XxEfRDa92FzZQso8wskon6FiC9oU9Cr) (Youtube) (2018)
 * [Fundamentos físicos de la ingieniería](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-fisicos-de-la-ingenieria-i-2010.html){:target="_blank"}
 * [Ingeniería Electrónica: Análisis y diseño de circuitos I](https://www.udemy.com/analisis-circuitos){:target="_blank"}
 
