@@ -201,14 +201,23 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 
 ## Electrónica
 
+* [Análisis de redes eléctricas](https://www.udemy.com/course/analisis-de-redes-electricas-con-cypelec-networks/){:target="_blank"}
 * [Automatización (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/automatizacion-2010.html){:target="_blank"}
+* [Diseño electrónico con Microcontroladores ARM C/C++](https://www.udemy.com/course/microcontroladores-101/){:target="_blank"}
+* [Esquemas Multifilares](https://www.udemy.com/course/esquemas-multifilares-con-cypelec-multiline/){:target="_blank"} (Udemy)
 * [Electricidad: conceptos básicos y aplicaciones](https://miriadax.net/web/electricidad-conceptos-basicos-y-aplicaciones-2-edicion-/inicio){:target="_blank"}
 * [Electricidad Básica](https://www.udemy.com/course/curso-de-electricidad/){:target="_blank"} (Udemy)
 * [Electricidad Industrial](https://www.youtube.com/playlist?list=PLJSA24PELINLVzINpVjhlmx2JeofN9pFj){:target="_blank"} (Youtube) (2014)
 * [Electricidad y circuitos electrónicos](https://www.youtube.com/playlist?list=PLQy0-ozU-VO2Mt5rXqLScaeZvn_Z2Coa_){:target="_blank"} (Youtube) (2014)
 * [Electricidad y magnetismo](https://www.youtube.com/playlist?list=PL6XxEfRDa92FzZQso8wskon6FiC9oU9Cr) (Youtube) (2018)
 * [Fundamentos físicos de la ingieniería](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-fisicos-de-la-ingenieria-i-2010.html){:target="_blank"}
-* [Ingeniería Electrónica: Análisis y diseño de circuitos I](https://www.udemy.com/analisis-circuitos){:target="_blank"}
+* [Nociones Básicas de Sistemas Eléctricos e Introducción a la Evolución de Proyectos de Energía](https://miriadax.net/web/nociones-basicas-de-sistemas-electricos-e-introduccion-a-la-evaluacion-de-proyectos-de-energia/inicio){:target="_blank"} (MiriadaX)
+* [Open BIM Infraestrúcturas de electrificación](https://www.udemy.com/course/open-bim-infraestructuras-de-electrificacion/)
+* [Proyecto de Instalaciones Eléctricas](https://www.udemy.com/course/proyecto-instalaciones-electricas-con-cypelec-core/)
+* [Reglamento técnico de instalaciones eléctricas](https://www.udemy.com/course/cypelec-retie-reglamento-tecnico-de-instalaciones-electricas/)
+* [Software E3.series para Diseño de Esquemas Eléctricos](https://www.udemy.com/course/fundamentos-en-e3series/){:target="_blank"} (Udemy)
+* [Uso seguro del laboratorio de Electrónica](https://www.udemy.com/course/curso-de-induccion-itba/){:target="_blank"} (Udemy)
+* [Vehículo Eléctrico](https://www.udemy.com/course/cypelec-rebt-vehiculo-electrico/){:target="_blank"} (Udemy)
 
 ## Envejecimiento
 
