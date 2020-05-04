@@ -8,8 +8,11 @@ comments: false
 date: 2020-01-22 19:10:12
 last_modified_at: 
 header:
-  teaser: https://i.ibb.co/5RHykWD/image.png
-canonical_URL: /que-es-la-interoperabilidad-en-la-distribucion-continua/
+  teaser: /assets/images/blog/pagina-tekton.webp
+  image_description: 'Qué es Tekton: El recurso de canalización nativo para Kubernetes'
+  image_alt: 'Qué es Tekton: El recurso de canalización nativo para Kubernetes'
+canonical_URL: https://ciberninjas.com/que-es-tekton/
+permalink: /que-es-tekton/
 classes: wide
 categories:
 - Distribución Continua
@@ -29,9 +32,24 @@ tags:
 # toc_sticky: true
 ---
 
-![](https://i.ibb.co/5RHykWD/image.png "Página web oficial de Tekton")
+![Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes](/assets/images/blog/pagina-tekton.webp "Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes")
 
-## ¿Qué es Tekton?
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li><a href="/que-es-tekton/#qué-es-tekton"></a></li>
+    <li><a href="/que-es-tekton/#quieres-comenzar-a-usar-tuberías"></a></li>
+    <li><a href="/que-es-tekton/#nuevos-cambios-diciembre-2019"></a></li>
+    <li><a href="/que-es-tekton/#cambios-de-api"></a></li>
+    <li><a href="/que-es-tekton/#en-el-futuro"></a></li>
+    <li><a href="/que-es-tekton/#control-de-versiones-de-api"></a></li>
+    <li><a href="/que-es-tekton/#conclusión"></a></li>
+  </ol>
+</nav>
+</details>
+
+## **¿Qué es Tekton?**
 
 Tekton, es un recurso de canalización nativo para Kubernetes. El proyecto de tuberías de Tekton proporciona recursos de Kubernetes para declarar tuberías de integración y depuración continua.
 
@@ -50,12 +68,12 @@ Las tuberías de Tekton están desacopladas :
 
 El concepto de recursos tipificados significa que para un recurso como un `Image`, las implementaciones pueden intercambiarse fácilmente (por ejemplo, [compilar](https://github.com/GoogleContainerTools/kaniko){:target="_blank"} con [kaniko](https://github.com/GoogleContainerTools/kaniko){:target="_blank"} vs [buildkit](https://github.com/moby/buildkit){:target="_blank"} )
 
-## Quiere comenzar a usar tuberías
+## **Quieres comenzar a usar tuberías**
 
 - [Instalación de tuberías de Tekton](https://github.com/tektoncd/pipeline/blob/master/docs/install.md)
 - ¡Comienza a trabajar desde el siguiente [tutorial!](https://github.com/tektoncd/pipeline/blob/master/docs/tutorial.md)
 
-## Nuevos Cambios (Diciembre 2019)
+## **Nuevos Cambios (Diciembre 2019)**
 
 Otras 6 semanas, otro lanzamiento de Tekton. Es de conocimiento general que el logotipo de Tekton es un gato robot, ¡pero es menos conocido que los lanzamientos llevan el nombre de robots y gatos! Cada versión de Tekton Pipelines recibe un nombre en clave de un tipo de gato seguido de un famoso robot.
 
@@ -65,7 +83,7 @@ El lunes 2 de diciembre, Andrea Frittoli de IBM lanzó la versión v0.9.0 , deno
 
 "Bengal Bender" incluye un conjunto sólido de características, correcciones de errores y mejoras de rendimiento. Disculpas si me perdí algo aquí, esta lista es simplemente lo que me parece más emocionante.
 
-### Modo de Secuencia de Cambios
+### **Modo de Secuencia de Cambios**
 
 Si estuvieras en Kubecon San Diego, podrías haber salido con la impresión de que Go es el lenguaje de la nube. Y aunque eso es cierto hasta cierto punto, los buenos viejos bash y yaml también juegan un papel muy importante, especialmente cuando se trata de sistemas de "pegamento" como tuberías de entrega.
 
@@ -100,7 +118,7 @@ Notarás que hay muchas menos líneas de repetitivo. Ya no es necesario especifi
 
 [👉 Request Correspondiente 👉](https://github.com/tektoncd/pipeline/pull/1432){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
-### Actualización de Rendimiento
+### **Actualización de Rendimiento**
 
 Tekton ha sufrido durante mucho tiempo un bajo rendimiento al iniciar PipelineRuns. [Christie Wilson](https://twitter.com/bobcatwilson){:target="_blank"} y yo hicimos una sesión de depuración / codificación la primavera pasada para tratar de mejorar esto, e identificamos el montaje de PVC como uno de los principales contribuyentes. Desafortunadamente, nuestro [intento de reparación](https://github.com/tektoncd/pipeline/pull/1007){:target="_blank"} no funcionó y fue necesario revertirlo.
 
@@ -108,49 +126,45 @@ Tekton ha sufrido durante mucho tiempo un bajo rendimiento al iniciar PipelineRu
 
 [👉 Request Correspondiente 👉](https://github.com/tektoncd/pipeline/pull/1432){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
-# Cambios de API
+## **Cambios de API**
 
 Se han producido algunos cambios en la API a medida que comenzamos a reafirmar las cosas para una versión beta. Esperamos obtener la mayoría de estos cambios importantes en las próximas versiones para que los usuarios puedan comenzar a construir sistemas de producción sobre versiones estables.
 
 Los cambios importantes en v0.9.0 incluyen:
 
-### Estandarización de rutas de salida para resúmenes de imágenes
+### **Estandarización de rutas de salida para resúmenes de imágenes**
 
 Actualmente, Tekton proporciona un mecanismo para almacenar los resúmenes de imágenes de contenedores creadas por Tareas. Este mecanismo era anterior al `PipelineResource`subsistema y requería que los autores de Tareas escribieran estos resúmenes en una ubicación específica en `/builder/image-outputs`. Este cambio lo mueve a la ruta estándar para los recursos de salida, en `/workspace/output/<resource-name>`.
 
-### Simplificación del recurso de clúster.
+### **Simplificación del recurso de clúster**
 
 Cluster `PipelineResources`simplifica la implementación y el trabajo con clústeres de Kubernetes desde dentro `Tasks`. Proporcionan mecanismos para que los usuarios declaren dónde está un punto final del clúster y cómo autenticarse con él. Luego, durante la `Task`ejecución, configuran automáticamente un `.kubeconfig`archivo para que las herramientas de Kubernetes puedan encontrar ese clúster. Esta versión contenía algunos cambios para facilitar el trabajo con estos recursos de clúster.
 
 Anteriormente, los usuarios tenían que especificar un parámetro de nombre dos veces: una vez en el nombre del recurso y otra como parámetro del recurso. El segundo parámetro ha sido eliminado.
 
-## En el Futuro
+## **En el Futuro**
 
-### Renovación de PipelineResources
+### **Renovación de PipelineResources**
 
 Se trabajó mucho para limpiar el `PipelineResource`subsistema existente , incluida la interfaz expuesta a los `PipelineResource`tipos y los tipos mismos. Obtener estos dos sólidos formará la base del mayor esfuerzo de [recursos](https://github.com/tektoncd/pipeline/issues/1673){:target="_blank"}, que actualmente está en marcha. Este proyecto hará que los tipos de recursos sean extensibles, permitiendo que cualquiera pueda agregar y usar sus propios tipos. Con suerte, también nos dejará con algunos componentes integrables, para que otros sistemas puedan utilizar Tekton `PipelineResources`y el próximo catálogo.
 
-## Control de versiones de API
+## **Control de versiones de API**
 
 Uno de los pasos más importantes para enviar una API estable es descubrir cómo hacer cambios de una manera compatible con versiones anteriores. Ninguna API es perfecta, por lo que la capacidad de actualizar una es primordial. [Vincent Demeester](https://twitter.com/vdemeest){:target="_blank"} y sus colegas de Red Hat han trabajado arduamente para diseñar e implementar un sistema de versiones API que permitirá a los usuarios [actualizar las](https://github.com/tektoncd/pipeline/issues/1526){:target="_blank"} versiones [API de Tekton](https://github.com/tektoncd/pipeline/issues/1526){:target="_blank"} sin interrumpir las cargas de trabajo existentes. Esto será clave para la próxima versión beta.
 
-## Conclusión
+## **Conclusión**
 
 El proyecto Tekton ha sido increíble de ver crecer. Esta publicación solo detalla los cambios en el lanzamiento de Tekton Pipelines, pero también se ha realizado un trabajo increíble en los proyectos [Triggers](https://github.com/tektoncd/triggers){:target="_blank"} , [CLI](https://github.com/tektoncd/cli){:target="_blank"} y [Dashboard](https://github.com/tektoncd/dashboard){:target="_blank"}. Los disparadores ahora admiten la validación Github y Gitlab lista para usar. La CLI ha mejorado el soporte para crear `PipelineResources`e iniciar tareas de forma interactiva. ¡La visualización llegará pronto al Tablero! Me gustaría agradecer a todos los que han hecho de Tekton lo que es hoy.
 
 La comunidad de Tekton ha estado trabajando arduamente para enviar las API y los componentes correctos para construir sistemas de entrega de software nativos de la nube. Si está utilizando Tekton, o está interesado en aprender más sobre Tekton, nos encantaría saber de usted. Considere unirse a [la comunidad](https://github.com/tektoncd/community){:target="_blank"}, convertirse en un [amigo de Tekton](https://github.com/tektoncd/friends){:target="_blank"} o [contribuir directamente](https://github.com/tektoncd/community/blob/master/standards.md#principles){:target="_blank"}. 
 
-## Licencia
+### **Licencia**
 
 Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.org/wiki/Apache_License)**.
 
 [👉 Repositorio de Tekton 🤞](https://github.com/tektoncd){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 <!-- wiki, integración continua: https://en.wikipedia.org/wiki/Continuous_integration#CI/CD -->
 <!-- - [Instalación de tuberías de Tekton](https://github.com/tektoncd/pipeline/blob/master/docs/install.md) - ¡Salta con [el tutorial!](https://github.com/tektoncd/pipeline/blob/master/docs/tutorial.md) -->
-_____
 
-**Fuentes**:
-
-* [Noticias Tekton CD Fundación](https://cd.foundation/blog/2019/12/12/whats-new-in-tekton-0-9/){:target="_blank"}
-* [Repositorio de Github de Tekton Tuberías](https://github.com/tektoncd/pipeline#-tekton-pipelines){:target="_blank"}
+**Fuentes**: [Noticias Tekton CD Fundación](https://cd.foundation/blog/2019/12/12/whats-new-in-tekton-0-9/){:target="_blank"} >> [Repositorio de Github de Tekton Tuberías](https://github.com/tektoncd/pipeline#-tekton-pipelines){:target="_blank"}
 {: .notice--info}
