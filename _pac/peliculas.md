@@ -1,5 +1,5 @@
 ---
-author_profile: false
+author_profile: true
 title: "🎬 El Arte del Cine y la Televisión"
 description: "Las mejores películas, series y programas u espaciones de televisión que recomendamos desde Ciberninjas, por Pablo Álvarez Corredera"
 excerpt: "Las mejores películas, series y programas u espaciones de televisión que recomendamos desde Ciberninjas, por Pablo Álvarez Corredera"
@@ -10,8 +10,8 @@ comments: false
 date: 2020-05-01 18:00:00 +0100
 published: true
 header:
-  teaser: https://i.ibb.co/mrnCQ0r/paz-gif.gif
-  overlay_image: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
+  teaser: /assets/images/rosepac/cortos-de-animacion-solitario-social.webp
+  overlay_image: /assets/images/rosepac/projector-cine-antiguo-reducida.webp
   overlay_filter: "0.2"
   image_description: "El Arte del Cine, las Series y la Televisión en Ciberninjas"
   image_alt: "El Arte del Cine, las Series y la Televisión en Ciberninjas"
@@ -21,9 +21,16 @@ header:
 
 Desde hace tiempo llevo realizando una pequeña colección de mis películas y series favoritas, más interesantes o pendientes que tengo por ver o revisar; por fin hoy haré publica esa pequeña lista.. 😸
 
-## Películas 2020
+## Películas Pendientes
 
-* La Trinchera Infinita - Pendiente.
+* La Trinchera Infinita
+
+* Especiales (2019)
+* Los profesores de Saint Denis (2019)
+* Retrato de una mujer en llamas (2019)
+* Código Fuente (2011)
+* Huérfanos de Brooklyn (2019)
+* Straight Outta Compton (2015) (Musical)
 
 ## Películas 2019
 
@@ -67,11 +74,16 @@ Desde hace tiempo llevo realizando una pequeña colección de mis películas y s
 * Pulp fiction (1994)
 * Solo en Casa (1990)
 
-## Películas Por Revisar
-
-* Código Fuente (2011) 
-
 <!-- trailers peliculas de amor parte 5: https://www.youtube.com/watch?v=lGJNUo76p80 -->
+## Series Pendientes
+
+* Devs [Jotdown Review](https://www.jotdown.es/2020/04/devs-es-una-joya-de-la-ciencia-ficcion-moderna/){:target="_blank"} (2020)
+* Humandas (2015 - 2018) [*](https://www.imdb.com/title/tt4122068/){:target="_blank"}
+* La Conjura contra América [*](https://www.filmaffinity.com/es/film844505.html){:target="_blank"}
+* [10 Series sobre Ciencia de Datos e Inteligencia Artificial](https://www.analyticsvidhya.com/blog/2016/01/10-popular-tv-shows-data-science-artificial-intelligence/){:target="_blank"}
+* [Code 8 y Otras Siete Películas de Acción y Ciencia Ficción](https://cinemania.20minutos.es/noticias/code-8-y-otras-siete-peliculas-de-accion-y-ciencia-ficcion-de-bajo-presupuesto/){:target="_blank"}
+  * Code 8. Freaks (2018). Guns Akimbo (2019). Upgrade - Ilimitado (2018). Overlord (2018). Hardcore Henry (2018). Turbo Kid (2015). Predestination (2014).
+
 ## Series 2020
 
 * Mandalorian \ [Trailer 1](/the-mandalorian-trailer-de-la-nueva-serie-de-star-wars/) - [Trailer 2](/the-mandalorian-nuevo-trailer-serie-de-star-wars/)
@@ -95,8 +107,7 @@ Desde hace tiempo llevo realizando una pequeña colección de mis películas y s
 * Chicas Buenas [*](https://www.imdb.com/title/tt6474378/){:target="_blank"}
 * La Casa de Papel [*](https://www.imdb.com/title/tt6468322/){:target="_blank"}
 
-## Series por Revisar
+## **Cortos de Animación**
 
-* [10 Series sobre Ciencia de Datos e Inteligencia Artificial](https://www.analyticsvidhya.com/blog/2016/01/10-popular-tv-shows-data-science-artificial-intelligence/){:target="_blank"}
-* [Code 8 y Otras Siete Películas de Acción y Ciencia Ficción](https://cinemania.20minutos.es/noticias/code-8-y-otras-siete-peliculas-de-accion-y-ciencia-ficcion-de-bajo-presupuesto/){:target="_blank"}
-  * Code 8. Freaks (2018). Guns Akimbo (2019). Upgrade - Ilimitado (2018). Overlord (2018). Hardcore Henry (2018). Turbo Kid (2015). Predestination (2014).
+👷‍♂️ Pendientes de Agregar 👷‍♂️
+{: .notice--warning}
