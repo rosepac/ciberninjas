@@ -2,7 +2,7 @@
 title: '👨‍🚀 ▷ Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Docker, Kubernetes, Webpack..'
 description: 'Los mejores recursos sobre Docker, Kubernetes, Docker, Webpack, Nodejs, AWS, Google Cloud, Azure'
 excerpt: 'Los mejores recursos sobre Docker, Kubernetes, Docker, Webpack, Nodejs, AWS, Google Cloud, Azure'
-published: false
+published: true
 author_profile: true
 comments: false
 date: 2020-01-02 12:06:18
