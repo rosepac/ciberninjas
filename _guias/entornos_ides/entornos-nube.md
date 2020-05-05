@@ -90,19 +90,19 @@ Microservicios de .NET: Arquitectura para aplicaciones .NET en contenedor: [Micr
 <!-- https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222 -->
 - [Más de 50 herramientas útiles de Kubernetes](https://caylent.com/50-useful-kubernetes-tools){:target="_blank"}
 
-## Chao Mesh y Chao Monkey
+### Chao Mesh y Chao Monkey
 
-### **¿Qué es Chao Mesh?
+## **¿Qué es Chao Mesh?**
 
 Chaos Mesh es una plataforma de ingeniería del caos nativa de la nube que organiza el caos en los entornos de Kubernetes.
 
 - [Chaos Mesh](https://github.com/pingcap/chaos-mesh){:target="_blank"}
 
-### **¿Qué es Chao Monkey?
+## **¿Qué es Chao Monkey?**
 
 - [Chaos Monkey](https://en.wikipedia.org/wiki/Chaos_engineering){:target="_blank"}
 
-### Diferencias entre Chaos Mesh y Chaos Monkey
+## Diferencias entre Chaos Mesh y Chaos Monkey
 
 ChaosMonkey se enfoca en probar sistemas de microservicios al terminar instancias y contenedores de máquinas virtuales.
 
@@ -116,7 +116,7 @@ Le sugerimos que comience con los [tutoriales](https://docs.chaostoolkit.org/ref
 
 ### **Recursos Docker**
 
-👷‍♂️ APARTADO EN CONSTRUCCIÓN 👷‍♂️
+👷‍♂️ APARTADO EN CONSTRUCCIÓN, PARA EL PRÓXIMO DÍA 👷‍♂️
 {: .notice--warning}
 
 - [No Drama Devops](https://nodramadevops.com/containers/){:target="_blank"}
