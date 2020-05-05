@@ -5,6 +5,7 @@ excerpt: 'Los mejores recursos sobre Docker, Kubernetes, Docker, Webpack, Nodejs
 published: true
 author_profile: true
 comments: false
+classes: wide
 date: 2020-01-02 12:06:18
 last_modified_at: 
 permalink: /entornos-nube/
