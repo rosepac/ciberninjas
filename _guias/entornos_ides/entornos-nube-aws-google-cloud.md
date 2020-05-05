@@ -7,7 +7,7 @@ author_profile: true
 comments: false
 date: 2020-01-02 12:06:18
 last_modified_at: 
-permalink: /entornos-nube-recursos/
+permalink: /entornos-nube-aws-google-cloud/
 ---
 
 ## Amazon Web Services
