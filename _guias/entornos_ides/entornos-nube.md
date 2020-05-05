@@ -7,7 +7,7 @@ author_profile: true
 comments: false
 classes: wide
 date: 2020-01-02 12:06:18
-last_modified_at: 
+last_modified_at: 2020-05-05 21:06:18
 permalink: /entornos-nube/
 canonical_URL: https://ciberninjas.com/entornos-nube/
 
