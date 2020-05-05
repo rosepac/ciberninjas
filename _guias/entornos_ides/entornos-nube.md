@@ -1,17 +1,23 @@
 ---
-title: '👨‍🚀 ▷ Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Docker, Kubernetes, Webpack..'
+
+title: '👨‍🚀 ▷ Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Kubernetes, Docker, Webpack..'
 description: 'Los mejores recursos sobre Docker, Kubernetes, Docker, Webpack, Nodejs, AWS, Google Cloud, Azure'
-excerpt: 'Los mejores recursos sobre Docker, Kubernetes, Docker, Webpack, Nodejs, AWS, Google Cloud, Azure'
+excerpt: 'Los mejores recursos sobre Docker, Kubernetes, Webpack, Nodejs, AWS, Google Cloud, Azure'
 published: true
 author_profile: true
 comments: false
 classes: wide
-date: 2020-01-02 12:06:18
-last_modified_at: 2020-05-05 21:06:18
+date: 2020-05-05 21:06:18
 permalink: /entornos-nube/
 canonical_URL: https://ciberninjas.com/entornos-nube/
+header:
+  teaser: /assets/images/paginas/mar-docker-kubernetes.webp
+  image_description: '👨‍🚀 ▷ Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Kubernetes, Docker, Webpack'
+  image_alt: '👨‍🚀 ▷ Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Kubernetes, Docker, Webpack'
 
 ---
+
+![](/assets/images/paginas/mar-docker-kubernetes.webp)
 
 Colección de enlaces con los que aprender a manejar Kubernetes desde cero hasta nivel avanzado.
 
@@ -80,7 +86,7 @@ Microservicios de .NET: Arquitectura para aplicaciones .NET en contenedor: [Micr
 - [Almacenamiento en Kubernetes](https://www.udemy.com/course/portworx-fundamentals/){:target="_blank"}
 - [Net DevOps: Cisco Python, Automatización, NETCONF, SDN, Docker](https://www.udemy.com/course/net-devops-cisco-python-automation-netconf-sdn-docker/){:target="_blank"}
 
-## Entradas de Blogs iinteresantse sobre Kubernetes
+## Entradas de Blogs interesantes sobre Kubernetes
 
 - [Desarrollar con Kubernetes](https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/){:target="_blank"}
 - [Kubernetes](https://medium.com/google-cloud/tagged/kubernetes){:target="_blank"}
@@ -120,3 +126,11 @@ Le sugerimos que comience con los [tutoriales](https://docs.chaostoolkit.org/ref
 {: .notice--warning}
 
 - [No Drama Devops](https://nodramadevops.com/containers/){:target="_blank"}
+
+### **Recursos Webpack**
+
+👷‍♂️ APARTADO EN CONSTRUCCIÓN, PARA EL PRÓXIMO DÍA 👷‍♂️
+{: .notice--warning}
+
+**Primera Edición**: ***2020-01-02 12:06:18***
+{: .notice--warning}
