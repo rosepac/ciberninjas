@@ -41,10 +41,17 @@ sidebar:
 
 ### 🌐 Cursos Masivos en Línea
 
-* [Cursos de Programación Online Organizados](/cursos-tecnologia/) (HTML) (Actualizado 2020)
+* [Cursos de Otras Temáticas](/cursos-otras-tematicas/)
+* [Cursos UNED en Abierto MOOC´s](https://iedra.uned.es/){:target="_blank"} (HTML)
 * [Miriadax](https://miriadax.net/cursos){:target="_blank"} (HTML)
-* [Hacker.IO](https://hackr.io/){:target="_blank"} (HTML)
-  * [Universidad Jaume I](http://repositori.uji.es/xmlui/handle/10234/168002){:target="_blank"}
+* [Universidad Jaume I](http://repositori.uji.es/xmlui/handle/10234/168002){:target="_blank"}
+* [Cursos de Aprendizaje Automático en Inglés](/aprendizaje-automatico-cursos-ingles/) (HTML)
+
+### Plataformas mayoritariamente en inglés
+
+* [Cursos de Tecnología en Inglés y Organizados](/cursos-tecnologia-ingles/){:target="_blank"} (HTML)
+* [Coursera](https://www.coursera.org/){:target="_blank"} (HTML)
+* [Hacker.IO](https://hackr.io/es/ciberninjas){:target="_blank"} (HTML)
 
 ## 📁 Bases de Datos
 
@@ -1184,6 +1191,7 @@ _____
 ## Arduino 🔦
 
 * [Arduino desde Cero - Primer Módulo](https://www.udemy.com/innova-arduino-desde-cero){:target="_blank"} (Udemy)
+* [Arduino desde Cero](https://www.youtube.com/channel/UC4unPLtykzwO7MB3IvaQZaA/playlists){:target="_blank"} (Youtube) (2017)
 * [Arduino, creando aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones){:target="_blank"} (Coursera)
 * [Crea un sistema de riego automático con Arduino](https://www.udemy.com/sistema-de-riego-automatico-con-arduino9){:target="_blank"} (Udemy)
 * [Curso gratuito de Arduino](https://www.youtube.com/watch?v=Fl2uQXn7MCg&list=PLpOqH6AE0tNjRWhQms3T8l-4b9oUyr_xB){:target="_blank"} (Código Facilito, Youtube)

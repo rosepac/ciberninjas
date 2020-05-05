@@ -6,7 +6,7 @@ excerpt: "Vas a encontrarte explicado el concepto de interoperabilidad dentro de
 published: true
 comments: false
 date: 2020-01-22 19:10:12
-last_modified_at: 
+last_modified_at: 2020-05-04 19:10:12
 header:
   teaser: /assets/images/blog/pagina-tekton.webp
   image_description: 'Qué es Tekton: El recurso de canalización nativo para Kubernetes'

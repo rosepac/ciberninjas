@@ -39,9 +39,9 @@ header:
   - [Autocad](#autocad)
   - [Autodesk](#autodesk)
   - [Blender](#blender)
-- [Cinema 4D](#cinema-4d)
-- [SketchUp](#sketchup)
-- [Otros](#otros)
+  - [Cinema 4D](#cinema-4d)
+  - [SketchUp](#sketchup)
+  - [Otros](#otros)
 - [Arquitéctura](#arquit%c3%a9ctura)
 - [Arte & Cultura](#arte--cultura)
 - [Comunicaciones & Sonido](#comunicaciones--sonido)
@@ -95,14 +95,14 @@ header:
 * [Diseño de una motocicleta de ciencia ficción en Blender (1)](https://www.udemy.com/diseno-de-una-motocicleta-de-ciencia-ficcion-con-blender-1){:target="_blank"}
 * [Introducción a Blender: crea una ilustración 3D](https://www.crehana.com/cursos/3D/introduccion-a-blender-crea-una-ilustracion-3d){:target="_blank"} (Crehana)
 
-## Cinema 4D
+### Cinema 4D
 
 * [Animación 3D con Cinema 4D y After Effects](https://www.crehana.com/cursos/3D/animacion-3d-con-cinema-4d-y-after-effects){:target="_blank"} (Crehana)
 * [Cinema 4D: primeros pasos en 3D](https://www.crehana.com/cursos/3D/cinema-4d-primeros-pasos-en-el-3d){:target="_blank"} (Crehana)
 * [Introducción a la Animación 3D en Cinema 4D](https://www.crehana.com/cursos/diseno/introduccion-al-3d-en-cinema-4d){:target="_blank"} (Crehana)
 * [Introducción a la Animación 3D en Cinema 4D y VRay](https://www.crehana.com/cursos/animacion/introduccion-a-la-animacion-3d-en-cinema-4d-y-vray){:target="_blank"} (Crehana)
 
-## SketchUp
+### SketchUp
 
 * [Sketchup 2013. Curso Completo](https://www.youtube.com/playlist?list=PLoxNRO_Yil72KheGAC8L6XGXQDIxiogE8){:target="_blank"}
 * [Sketchup 2015 Avanzado](https://www.youtube.com/playlist?list=PLlQO-TCdIGfVukRGItV8LjRPvZ1XxZPiR){:target="_blank"} (Robson Jacobsen, YouTube)
@@ -115,7 +115,7 @@ header:
 * [Sketchup. Modela un MechWarrior](https://3d4every1.blogspot.com.ar/p/modelado-3d.html){:target="_blank"}
 * [Sketchup. Plugins Infaltables Vol.1](https://3d4every1.blogspot.com.ar/p/plugins.html){:target="_blank"}
 
-## Otros
+### Otros
 
 * [ActionScript 3.0](https://www.youtube.com/playlist?list=PLB9840C1696C1BC94){:target="_blank"} (jonmircha, YouTube)
 * [Adobe Animate CC](https://www.youtube.com/playlist?list=PL5vjFJ0wFekIwF5_K1jQX9N2qrK8_bz6S){:target="_blank"} (Yoney Gallardo, YouTube)
@@ -133,6 +133,7 @@ header:
 * [Crear un Lettering con vida en cinema 4D](https://www.crehana.com/cursos/3D/crea-un-lettering-con-vida-en-cinema-4d){:target="_blank"} (Crehana)
 * [Dibujo de anime Volumen 1. Creación de personajes](https://www.udemy.com/curso-de-dibujo-de-anime-vol-1-creacion-de-personajes){:target="_blank"}
 * [Diseño asistido por ordenador (2008)](https://ocw.unican.es/course/view.php?id=34){:target="_blank"}
+* [Diseño de armario electrónico con Solidworks](https://www.udemy.com/course/diseno-de-armario-electrico-en-solidworks/){:target="_blank"} (Udemy)
 * [Diseño de productos en Fusion 360 de la idea al prototipo](https://www.udemy.com/diseno-de-productos-en-fusion-360-de-la-idea-al-prototipo){:target="_blank"}
 * [Enscape: Fotorrealismo en tiempo real](https://www.udemy.com/enscape-fotorealismo-en-tiempo-real){:target="_blank"}
 * [Esculpido 3D en ZBrush](https://www.crehana.com/cursos/3D/esculpido-3d-en-zbrush){:target="_blank"} (Crehana)
