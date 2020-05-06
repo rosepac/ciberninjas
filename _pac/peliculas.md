@@ -1,8 +1,8 @@
 ---
 author_profile: true
 title: "🎬 El Arte del Cine y la Televisión"
-description: "Las mejores películas, series y programas u espaciones de televisión que recomendamos desde Ciberninjas, por Pablo Álvarez Corredera"
-excerpt: "Las mejores películas, series y programas u espaciones de televisión que recomendamos desde Ciberninjas, por Pablo Álvarez Corredera"
+description: "Las mejores películas, series y programas u espaciones de televisión que recomienda el menda de Pablete, ele"
+excerpt: "Las mejores películas, series y programas u espaciones de televisión que recomienda el menda de Pablete, ele"
 classes: wide
 permalink: /películas/
 canonical_URL: https://ciberninjas.com/películas/
@@ -20,6 +20,9 @@ header:
 ---
 
 Desde hace tiempo llevo realizando una pequeña colección de mis películas y series favoritas, más interesantes o pendientes que tengo por ver o revisar; por fin hoy haré publica esa pequeña lista.. 😸
+
+[💡 Más intereses personales..](/rosepac/)
+{:target="_blank"}
 
 ## Películas Pendientes
 
