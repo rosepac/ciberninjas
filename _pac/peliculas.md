@@ -114,6 +114,7 @@ La realidad es, que casi todas las películas deanimación me suelen gustar; has
 ## Series Pendientes
 
 * Devs [Jotdown Review](https://www.jotdown.es/2020/04/devs-es-una-joya-de-la-ciencia-ficcion-moderna/){:target="_blank"} (2020)
+* La Línea Invisible (2020)
 * Humandas (2015 - 2018) [*](https://www.imdb.com/title/tt4122068/){:target="_blank"}
 * La Conjura contra América [*](https://www.filmaffinity.com/es/film844505.html){:target="_blank"}
 * [10 Series sobre Ciencia de Datos e Inteligencia Artificial](https://www.analyticsvidhya.com/blog/2016/01/10-popular-tv-shows-data-science-artificial-intelligence/){:target="_blank"}
