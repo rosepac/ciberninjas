@@ -79,9 +79,10 @@ Font Awesome, Flaticon, Material.IO, IconFinder, Material Design Icons, Oicons8,
 
 ## Fuentes o Tipografías
 
+* [Calligraphr](https://www.calligraphr.com/es/){:target="_blank"}
 * [Mapa de Carácteres - Windows](https://www.youtube.com/watch?v=Kau6nVFRO7g){:target="_blank"}
 * [Mapa de Babel](http://www.babelstone.co.uk/Software/BabelMap.html){:target="_blank"}
-* [¿Qué fuente es?](https://www.myfonts.com/WhatTheFont/)
+* [¿Qué fuente es?](https://www.myfonts.com/WhatTheFont/) - Adivina que fuente tipográfica es..
 
 ### Fuentes Específicas
 

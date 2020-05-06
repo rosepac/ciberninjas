@@ -24,13 +24,14 @@ Desde hace tiempo llevo realizando una pequeña colección de mis películas y s
 ## Películas Pendientes
 
 * La Trinchera Infinita
+* Lo que arde
 
 * Especiales (2019)
 * Los profesores de Saint Denis (2019)
 * Retrato de una mujer en llamas (2019)
-* Código Fuente (2011)
 * Huérfanos de Brooklyn (2019)
 * Straight Outta Compton (2015) (Musical)
+* Código Fuente (2011)
 
 ## Películas 2019
 
@@ -40,53 +41,91 @@ Desde hace tiempo llevo realizando una pequeña colección de mis películas y s
 
 ## Películas 2018
 
-* Amor a Medianoche (2018) (Romántica / Drama)
-* Bohemian Rhapsody (2018) (Biográfico)
 * Campeones (2018) (Comedia / Drama) \ [Trailer](https://www.youtube.com/watch?time_continue=122&v=a3e0hWT09YY)
+* Bohemian Rhapsody (2018) (Biográfia)
+* Sin amigos: Dark Web (2018) (Terror)
+* El mejor verano de mi vida (2018)
+* Amor a Medianoche (2018) (Romántica / Drama)
 
 ## Películas Siempre
 
-* Capitán Fantástico (2016) (Comedia / Drama)
+* Adios Christopher Robin (2017) (Drama / Biografía)
+* Deadpool (2016)
+* **Capitán Fantástico** (2016) (Comedia / Drama)
 * Warcraft (2016) (Fantasía)
-* Your Name (2016) (Animación / Romántica / Drama / Fantasía)
+* Hora del Verano / Summertime (2015)
+* **Redención** (2015) (Deporte)
 * La Teoría del Todo (2014) (Romántica / Drama)
 * The Giver (2014) (Drama / Romance / Ciencia Ficción)
+* Ya era hora (2013) (Romántica / Drama)
 * **Alabama Monroe** (2012) (Romántica / Drama / Musical)
 * **Votos de Amor** (2012) (Romántica / Drama)
 * **Django Desencadenado** (2012) (Drama / Western)
 * Drive (2011) (Drama / Crimen)
-* Memento (2010) (Thriller / Misterio)
+* **Memento** (2010) (Thriller / Misterio)
 * Querido John (2010) (Romántica)
+* Gloriosos Bastardos (2009) (Drama / Thriller / Guerra)
 * 500 Días con Ella (2009) (Romántica)
 * Gran Torino (2008)
 * Into the wild (2007)
 * La búsqueda de la felicidad (2006)
-* Million Dollar Baby (2004)
+* **Entrenador Carter** (2005)
+* **Million Dollar Baby** (2004)
 * Bridget Jones (2004)
+* **Noviembre** (2003)
+* John Q (2002)
+* **Los Lunes al Sol** (2002)
 * Un Camino para Recordar (2002) (Romántica)
 * **Training Day** (2001)
 * Blow (2001)
-* **Réquiem por un sueño** (2000)
+* **Amores Perros** (2000)
+* **El Bola** (2000)
 * Descubriendo a Forrester (2000)
+* **Réquiem por un sueño** (2000)
 * El Bar Coyote (2000)
+* El Milagro de P. Tinto (1998) (Comedia / Fantasía)
+* Barrio (1998)
 * Trainspotting (1996)
 * Diario de un Rebelde (1995)
 * Pulp fiction (1994)
 * Solo en Casa (1990)
 
 <!-- trailers peliculas de amor parte 5: https://www.youtube.com/watch?v=lGJNUo76p80 -->
+
+## Películas de Animación
+
+La realidad es, que casi todas las películas deanimación me suelen gustar; hasta el punto de que en los últimos casi he visto más pelis animadas que de otro tipo.. Pero bueno, pondremos por aquí, alguna de las que más me ha gustado.. 😸
+
+* Spider-Man: Un nuevo universo (2019)
+* El Rey León (2019, 1994)
+* La Leyenda de Klaus (2019)
+* Cómo entrenar a tu dragón (2019, 2014, 2010)
+* Ralph Rompe Internet (2018)
+* Maquia (2018)
+* Your Name (2016) (Animación / Romántica / Drama / Fantasía)
+* ¡Rompe Ralph! (2012)
+* Wolf Children / Niños lobo (2012)
+* Up (2009)
+* Wall E (2008)
+* Buscando a Nemo (2003)
+* Shrek (2001)
+* Monsters (2001)
+
 ## Series Pendientes
 
 * Devs [Jotdown Review](https://www.jotdown.es/2020/04/devs-es-una-joya-de-la-ciencia-ficcion-moderna/){:target="_blank"} (2020)
 * Humandas (2015 - 2018) [*](https://www.imdb.com/title/tt4122068/){:target="_blank"}
 * La Conjura contra América [*](https://www.filmaffinity.com/es/film844505.html){:target="_blank"}
 * [10 Series sobre Ciencia de Datos e Inteligencia Artificial](https://www.analyticsvidhya.com/blog/2016/01/10-popular-tv-shows-data-science-artificial-intelligence/){:target="_blank"}
+* [10 grandes series y películas de ciencia ficción poética](https://www.elperiodico.com/es/ocio-y-cultura/20200504/mas-alla-de-devs-hbo-seleccion-diez-grandes-series-y-peliculas-de-ciencia-ficcion-poetica-7946379){:target="_blank"}
 * [Code 8 y Otras Siete Películas de Acción y Ciencia Ficción](https://cinemania.20minutos.es/noticias/code-8-y-otras-siete-peliculas-de-accion-y-ciencia-ficcion-de-bajo-presupuesto/){:target="_blank"}
   * Code 8. Freaks (2018). Guns Akimbo (2019). Upgrade - Ilimitado (2018). Overlord (2018). Hardcore Henry (2018). Turbo Kid (2015). Predestination (2014).
+* Dark (2017)
 
-## Series 2020
+## Series Actuales
 
-* Mandalorian \ [Trailer 1](/the-mandalorian-trailer-de-la-nueva-serie-de-star-wars/) - [Trailer 2](/the-mandalorian-nuevo-trailer-serie-de-star-wars/)
+* El Mandaloriano / *The Mandalorian* \ [Trailer 1](/the-mandalorian-trailer-de-la-nueva-serie-de-star-wars/) - [Trailer 2](/the-mandalorian-nuevo-trailer-serie-de-star-wars/)
+* Buenas Chicas / *Goog Girls* (2018-actualidad)
 
 ## Series 2019
 
