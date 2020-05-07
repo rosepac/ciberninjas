@@ -76,9 +76,6 @@ sidebar:
         <li>📓 <a href="https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9" title="Libros Recomendados por Bill Gates 👓" target="_blank">Libros Recomendados por Bill Gates 👓</a></li>
         <li>💰 <a href="https://www.amazon.es/shop/cibercursos?listId=QIHALU0ZH0WX" title="Bitcoin, Blockchain y Criptomonedas 2020" target="_blank">Bitcoin, Blockchain y Criptomonedas 2020</a></li>
         <li>🛠 <a href="https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI" title="Mejores libros de Productividad, Motivación, Reflexión y Relajación" target="_blank"> Mejores libros de Productividad, Motivación, Reflexión y Relajación</a></li>
-        <li><a href="" title=""></a></li>
-        <li><a href="" title=""></a></li>
-        <li><a href="" title=""></a></li>
       </ol>
     </li>
     <li> LO MEJOR PARA NIÑOS Y PRINCIPIANTES..
