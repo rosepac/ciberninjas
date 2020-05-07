@@ -32,18 +32,31 @@ header:
 
 ### Índice
 
-* [Animación & 3D](#animaci%c3%b3n--3d)
-* [Arquitectura](#arquitectura)
-* [Arte & Cultura](#arte--cultura)
-* [Comunicaciones & Sonido](#comunicaciones--sonido)
-* [Dibujo](#dibujo)
-* [Diseño](#dise%c3%b1o)
-* [Diseño Editorial](#dise%c3%b1o-editorial)
-* [Diseño Photoshop & Gimp](#dise%c3%b1o-photoshop--gimp)
-* [Diseño Vectorial](#dise%c3%b1o-vectorial)
-* [Fotografía](#fotograf%c3%ada)
-* [Sonido](#sonido)
-* [Vídeo](#v%c3%addeo)
+- [Animación & 3D](#animaci%c3%b3n--3d)
+  - [3D Studio Max](#3d-studio-max)
+  - [Autocad](#autocad)
+  - [Autodesk](#autodesk)
+  - [Blender](#blender)
+  - [Cinema 4D](#cinema-4d)
+  - [SketchUp](#sketchup)
+  - [Solidworks](#solidworks)
+  - [VRay](#vray)
+  - [Zbrush](#zbrush)
+  - [Otros (pendientes de clasificar)](#otros-pendientes-de-clasificar)
+- [Arquitectura](#arquitectura)
+- [Arte & Cultura](#arte--cultura)
+- [Comunicaciones & Sonido](#comunicaciones--sonido)
+- [Dibujo](#dibujo)
+- [Diseño](#dise%c3%b1o)
+- [Diseño Editorial](#dise%c3%b1o-editorial)
+- [Diseño Photoshop & Gimp](#dise%c3%b1o-photoshop--gimp)
+  - [Photosop](#photosop)
+  - [GIMP](#gimp)
+- [Diseño Vectorial](#dise%c3%b1o-vectorial)
+- [Fotografía](#fotograf%c3%ada)
+- [Sonido](#sonido)
+- [Vídeo](#v%c3%addeo)
+  - [Información](#informaci%c3%b3n)
 
 ## Animación & 3D
 
@@ -186,7 +199,6 @@ header:
 * [Modelado de Plastilina: flores](https://www.udemy.com/curso-de-modelado-de-plastilina-flores){:target="_blank"}
 * [Pintura Europea: Leonardo, Rembrandt, Goya](https://www.edx.org/course/pintura-europea-leonardo-rembrandt-goya-uc3mx-ceh-1-esx-0){:target="_blank"}
 * [Pintura Intrarrealista: Juan Antonio Guirado](https://iedra.uned.es/courses/course-v1:UNED+PinInterJAG+2017/about)
-* [Repositorio Sobre Arte](http://ocw.um.es/artes-1){:target="_blank"}
 * [Teatro Moderno](https://www.youtube.com/playlist?list=PLWfF6Dli9QCMoy4H0lZR2L-ioOH2XHCAy){:target="_blank"} (UNED, YouTube)
 
 ## Comunicaciones & Sonido
@@ -224,13 +236,17 @@ header:
 
 ## Diseño Photoshop & Gimp
 
+### Photosop
+
 * [Adobe Photoshop 6. Fundamentos](https://www.udemy.com/photoshop-cs6-fundamentos){:target="_blank"}
 * [Básico de Photoshop CS6 desde cero](https://www.udemy.com/curso-basico-de-photoshop-cs6-desde-cero-gratis){:target="_blank"}
 * [Colorización de personajes en Photoshop](https://www.crehana.com/cursos/diseno/colorizacion-de-personajes-en-photoshop){:target="_blank"} (Crehana)
 * [Creación  retoque de imágenes con software libre](https://www.youtube.com/playlist?list=PLe3hFIBgZcxxusNVL1IgyDr9DDu4LST1b){:target="_blank"}
 * [Curso Photoshop CS6](https://www.youtube.com/watch?v=iYF9yxYJCF4&index=1&list=PLTMphl2kSKFGpyazQJi4HH_0j1eOuzDGh){:target="_blank"} (Youtube)
-* [Dibujo con luz. Fotografía (2015)](http://ocw.um.es/artes-1/dibujo-con-luz.-fotografia-1){:target="_blank"} (OCW)
 * [Diseño y retoque digital para alimentos](https://www.crehana.com/cursos/diseno/diseno-y-retoque-digital-para-alimentos){:target="_blank"} (Crehana)
+
+### GIMP
+
 * [Gimp Básico](https://www.youtube.com/playlist?list=PLdTIvJN202Cq5jklX_VpoQFnifDKio99f){:target="_blank"} (Youtube)
 * [Gimp. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdHj3cDRnbMhRKrX8Rx7RJR){:target="_blank"} (WHYGS, YouTube)
 * [Herramientas de Photoshop CC para Principiantes](https://www.udemy.com/herramientas-de-photoshop-cc-para-principiantes){:target="_blank"}
@@ -274,6 +290,7 @@ header:
 * [Fotografía Profesional](https://www.youtube.com/playlist?list=PLYLk-A_yE94NT-MyC954IO-vqKSuQZLim){:target="_blank"} (YouTube)
 * [Fotografía y manejo de cámara réflex](https://www.youtube.com/playlist?list=PLF55DF85F3D98E5E9){:target="_blank"} (magicvfx, YouTube)
 * [Gimp para Fotógrafos](https://www.sergioperea.es/linux-y-fotografia-optimizando-gimp-para-incorporarlo-al-flujo-de-trabajo-fotografico){:target="_blank"}
+* [Historia de la Fotografía: Dibujo con Luz ](https://tv.um.es/videos?serie=4741){:target="_blank"}
 * [Introducción  al Retoque Fotográfico](https://www.crehana.com/cursos/fotografia/introduccion-al-retoque-fotografico){:target="_blank"} (Crehana)
 * [Un año de fotografía. Curso de fotografía digital](https://www.youtube.com/playlist?list=PL84137E4440BEAB47){:target="_blank"} (Youtube)
 
