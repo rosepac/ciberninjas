@@ -23,13 +23,13 @@ canonical_URL: https://ciberninjas.com/kiwix/
 > 📚 Kiwix te permite acceder al conocimiento universal - incluso desconectado
 
 ## Índice <!-- omit in toc -->
-- [📌 Introducción](#%f0%9f%93%8c-introducci%c3%b3n)
-- [🏛 Historia de Kiwix](#%f0%9f%8f%9b-historia-de-kiwix)
-- [⏩ Descargar Kiwix](#%e2%8f%a9-descargar-kiwix)
+- [**Introducción**](#introducci%c3%b3n)
+- [**Historia de Kiwix**](#historia-de-kiwix)
+- [**Descargar Kiwix**](#descargar-kiwix)
 - [Lector de Kiwix](#lector-de-kiwix)
-- [Paquetes de Contenidos](#paquetes-de-contenidos)
-- [Archivos .zim disponibles](#archivos-zim-disponibles)
-- [Archivos .ZIM Disponibles en Español](#archivos-zim-disponibles-en-espa%c3%b1ol)
+- [**Paquetes de Contenidos**](#paquetes-de-contenidos)
+- [**Archivos .zim disponibles**](#archivos-zim-disponibles)
+- [**Archivos .ZIM Disponibles en Español**](#archivos-zim-disponibles-en-espa%c3%b1ol)
   - [Wikipedia](#wikipedia)
 - [Wiktionary](#wiktionary)
 - [Wikivoyage](#wikivoyage)
@@ -44,19 +44,19 @@ canonical_URL: https://ciberninjas.com/kiwix/
 - [Gutenberg](#gutenberg)
 - [Inciclopedia](#inciclopedia)
 - [Vikidia](#vikidia)
-- [Agrega tu contenido a Kiwix](#agrega-tu-contenido-a-kiwix)
+- [**Agrega tu contenido a Kiwix**](#agrega-tu-contenido-a-kiwix)
 - [Aplicaciones Personalizadas](#aplicaciones-personalizadas)
 - [Servidor de Kiwix](#servidor-de-kiwix)
 - [Punto de Acceso](#punto-de-acceso)
-- [👨‍🔧 Kiwix. Paso a Paso](#%f0%9f%91%a8%e2%80%8d%f0%9f%94%a7-kiwix-paso-a-paso)
+- [Kiwix. Paso a Paso](#kiwix-paso-a-paso)
 
-## 📌 Introducción
+## **Introducción**
 
 Kiwix, es un software gratuito que lleva el conocimiento a millones de personas en todo el mundo, incluso a lugares remotos. Esto puede ser una escuela alejada de la ciudad. Un pais con poca accesibilidad a las redes. Puede servir para ahorrar datos cuando usted este de viaje por concepto de roaming. Donde quiera que vaya: Kiwix le da acceso a Wikipedia, Project Gutenberg, las charlas TED y mucho más, incluso si no tiene una conexión a Internet.
 
 En muchos lugares, Internet puede ser lento, poco confiable o incluso censurado. **Kiwix** es una solución fuera de línea que le permite acceder a contenidos educativos como [Wikipedia, Wiktionary, TED y muchos otros](https://kutt.it/kiwix-descarga "Enlace de descarga de Kiwix, la Wikipedia Offline") en cualquier computadora o teléfono inteligente, sin la necesidad de una conexión a Internet en vivo.
 
-## 🏛 Historia de Kiwix
+## **Historia de Kiwix**
 
 ¿Qué sentido tiene un lector fuera de línea?**
 
@@ -74,7 +74,7 @@ Fundado hace más de 10 años por Emmanuel Engelhart y Renaud Gaudin, este proye
 
 Kiwix es una organización sin fines de lucro y tiene su sede en Suiza. Nuestro software es de código abierto disponible de forma gratuita. El trabajo que hacemos es parcialmente proporcionado por voluntarios, parcialmente financiado por donaciones individuales y subvenciones de fundaciones.
 
-## ⏩ Descargar Kiwix
+## **Descargar Kiwix**
 
 ## Lector de Kiwix
 
@@ -86,19 +86,19 @@ Kiwix Reader le permite acceder a paquetes de contenido en formato ZIM que está
 
 Con la mayoría de las versiones de Kiwix, puede descargar paquetes de contenido desde la aplicación.Sin embargo, para macOS, Chrome y Firefox, debe [descargar los archivos ZIM por separado](/kiwix#paquetes-de-contenidos).
 
-## Paquetes de Contenidos
+## **Paquetes de Contenidos**
 
 > Nuestros paquetes de contenido (también conocidos como archivos zim) son copias exactas del mejor contenido gratuito disponible en la Web para usar sin conexión: Wikipedia, Wiktionary, Project Gutenberg y muchos más cada mes.
 
 ¡Más de 1,000 archivos para elegir, en más de 100 idiomas!
 
-## Archivos .zim disponibles
+## **Archivos .zim disponibles**
 
 Nuestros paquetes de contenido proporcionan una selección del mejor contenido gratuito disponible en la Web para que lo descargue: Wikipedia, Wiktionary, conferencias TED, la biblioteca Gutenberg o Stack Exchange, y muchos más.Los paquetes de contenido Kiwix vienen en formato .zim.Por lo general, descargará estos paquetes desde Kiwix, pero puede haber razones para descargarlos directamente.
 
 Puede encontrar todos los paquetes disponibles en todos los idiomas en la [Kiwix Wiki](https://kutt.it/archivos-zim "Los archivos en formato .zim de todos los idiomas que existen en el mundo").
 
-## Archivos .ZIM Disponibles en Español
+## **Archivos .ZIM Disponibles en Español**
 
 ### Wikipedia
 
@@ -187,8 +187,6 @@ Wikibooks es un proyecto Wikimedia basado en una "wiki" y alojado por la Fundaci
 
 ## WikiSource
 
-
-
 | wikisource (español) | es   | 655M | 2019-07 | all nopic | [↓ Descargar](http://download.kiwix.org/zim/wikisource_es_all_nopic.zim) ([md5](http://download.kiwix.org/zim/wikisource_es_all_nopic.zim.md5)) [↓ BitTorrent](http://download.kiwix.org/zim/wikisource_es_all_nopic.zim.torrent) [![Magnet-icon.gif](https://wiki.kiwix.org/w/images/thumb/c/c2/Magnet-icon.gif/10px-Magnet-icon.gif)](http://download.kiwix.org/zim/wikisource_es_all_nopic.zim.magnet) |
 | -------------------- | ---- | ---- | ------- | --------- | ------------------------------------------------------------ |
 | wikisource (español) | es   | 758M | 2019-07 | all novid | [↓ Descargar](http://download.kiwix.org/zim/wikisource_es_all_novid.zim) ([md5](http://download.kiwix.org/zim/wikisource_es_all_novid.zim.md5)) [↓ BitTorrent](http://download.kiwix.org/zim/wikisource_es_all_novid.zim.torrent) [![Magnet-icon.gif](https://wiki.kiwix.org/w/images/thumb/c/c2/Magnet-icon.gif/10px-Magnet-icon.gif)](http://download.kiwix.org/zim/wikisource_es_all_novid.zim.magnet) |
@@ -245,7 +243,7 @@ Es una parodia en clave de humor de Wikipedia, aunque en ella se afirma que suce
 | vikidia (español) | es   | 6.0M | 2019-09 | all nopic | [↓ Descargar](http://download.kiwix.org/zim/vikidia_es_all_nopic.zim) ([md5](http://download.kiwix.org/zim/vikidia_es_all_nopic.zim.md5)) [↓ BitTorrent](http://download.kiwix.org/zim/vikidia_es_all_nopic.zim.torrent) [![Magnet-icon.gif](https://wiki.kiwix.org/w/images/thumb/c/c2/Magnet-icon.gif/10px-Magnet-icon.gif)](http://download.kiwix.org/zim/vikidia_es_all_nopic.zim.magnet) |
 | vikidia (español) | es   | 47M  | 2018-10 | all novid | [↓ Descargar](http://download.kiwix.org/zim/vikidia_es_all_novid.zim) ([md5](http://download.kiwix.org/zim/vikidia_es_all_novid.zim.md5)) [↓ BitTorrent](http://download.kiwix.org/zim/vikidia_es_all_novid.zim.torrent) [![Magnet-icon.gif](https://wiki.kiwix.org/w/images/thumb/c/c2/Magnet-icon.gif/10px-Magnet-icon.gif)](http://download.kiwix.org/zim/vikidia_es_all_novid.zim.magnet) |
 
-## Agrega tu contenido a Kiwix
+## **Agrega tu contenido a Kiwix**
 
 ¿Desea distribuir su contenido web para su uso sin conexión?Estaremos encantados de ayudar.Nuestro equipo rastreará y empaquetará su contenido, y mantendrá la versión fuera de línea actualizada regularmente.
 
@@ -257,7 +255,7 @@ Por favor, [póngase en contacto!](https://www.kiwix.org/es/contact/)
 
 ## Punto de Acceso
 
-## 👨‍🔧 Kiwix. Paso a Paso
+## Kiwix. Paso a Paso
 
 > ¿Alguna vez quisiste descargar un pedazo de internet?
 > ¡Hoy es exactamente lo que te propongo!
