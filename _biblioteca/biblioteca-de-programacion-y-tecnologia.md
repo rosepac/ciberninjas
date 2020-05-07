@@ -39,12 +39,6 @@ Los **desarrolladores web** y de **software**, junto a sus múltiples metodolog�
 
 Viendo fortalizidos así, sus aptitudes para llevar a cabo cualquier puesto de trabajo relacionado con [las nuevas profesiones digitales](/profesiones-digitales/).
 
-Con toda seguridad aquí vas a encontrar libros que te ayudarán a seguir aprendiendo lo que más te gusta.
-
-Dentro de todos los campos que proponemos aprender desde Ciberninjas, vas a encontrar tantos puestos de trabajo y tecnologías como puedas imaginar. El listado es muy amplio: Desarrollador web y multimedia, desarrollador frontend, desarrollador backend, desarrollador full stack, desarrollador de videojuegos, desarrollador móvil, especialista UI o también conocido como especialista de interfaces de usuario, diseñador gráfico, administrador de sistemas, diseñador o administrador de bases de datos, técnico de soporte TIC, especialista en ciberseguridad, digital producto manager, digital project manager. E incluso si tu desarrollo es el de consultor TIC, especialista de UX u experiencia de usuario, cientifico de datos, analista de datos o business intelligence.
-
-Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrellato.. 💪
-
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
@@ -323,7 +317,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 ## 👦 Programación Infantil
 
-[App Inventor](/cursos-tecnologia/#app-inventor){: .btn .btn--inverse .btn--large} [Scratch <i class="fas fa-paw"></i>](/cursos-tecnologia/#scratch-){: .btn .btn--inverse .btn--large}
+[App Inventor](/biblioteca-de-programacion-y-tecnologia/#app-inventor){: .btn .btn--inverse .btn--large} [Scratch <i class="fas fa-paw"></i>](/biblioteca-de-programacion-y-tecnologia/#scratch-){: .btn .btn--inverse .btn--large}
 
 ### App Inventor
 
@@ -346,7 +340,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 ## 👮‍♀️ Seguridad
 
-[Criptografía 🔓](/biblioteca-de-programacion-y-tecnologia/#Criptografía-){: .btn .btn--inverse .btn--large}
+[Criptografía 🔓](/biblioteca-de-programacion-y-tecnologia/#criptografía-){: .btn .btn--inverse .btn--large}
 
 * [Activismo digital y telemático. Poder y contrapoder en el ciberespacio (2003)](https://www.seaceptanideas.com/wp-content/uploads/2016/07/Activismo_digital_y_telemC3A1tico.pdf){:target="_blank"} (PDF)
 * [Algunas consideraciones sobre seguridad de la Información en el Proyecto Europe de Historia Clínica Digital - Proyecto epSOS](https://dialnet.unirioja.es/servlet/articulo?codigo=3016235){:target="_blank"} (2009, Dialnet) (PDF)
@@ -458,7 +452,9 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## 🤖 Robótica
 
-* [Glosario de términos y conceptos robóticos](http://el.uy/doc/robotica/mooc.educalab.es.%202017.%20Glosario%20de%20t%C3%A9rminos%20y%20conceptos%20rob%C3%B3ticos.pdf){:target="_blank"} (MOOC Intef)
+[Arduino 🔦](/biblioteca-de-programacion-y-tecnologia/#arduino-){: .btn .btn--inverse .btn--large} [Casas Inteligentes 🏡](/biblioteca-de-programacion-y-tecnologia/#casas-inteligentes-){: .btn .btn--inverse .btn--large} [Inteligencia Artificial](/biblioteca-de-programacion-y-tecnologia/#inteligencia-artificial){: .btn .btn--inverse .btn--large} [Raspberry Pi](/biblioteca-de-programacion-y-tecnologia/#raspberry-pi){: .btn .btn--inverse .btn--large}
+
+* [Glosario de términos y conceptos de robótica](http://el.uy/doc/robotica/mooc.educalab.es.%202017.%20Glosario%20de%20t%C3%A9rminos%20y%20conceptos%20rob%C3%B3ticos.pdf){:target="_blank"} (MOOC Intef)
 
 ## Arduino 🔦
 
@@ -536,12 +532,12 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## 👨‍💻 Lenguajes de Programación
 
-## C
+### C
 
 * [GNU/Linux: Programación de Sistemas](https://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf){:target="_blank"} (PDF)
 * [Introducción a la programación con C](https://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf){:target="_blank"} (PDF)(descarga directa)
 
-## C++
+### C++
 
 * [Aprenda C++ avanzado como si estuviera en primero](https://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf){:target="_blank"} (PDF)
 * [Aprenda C++ básico como si estuviera en primero](https://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf){:target="_blank"} (PDF)
@@ -552,23 +548,23 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Coffescript
+### Coffescript
 
 * [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript){:target="_blank"} - Javi Jiménez (Descarga PDF)
 
-## Emacs
+### Emacs
 
 * [Una Introducción a Emacs Lisp en Español](https://savannah.nongnu.org/git/?group=elisp-es){:target="_blank"} (HTML)
 
-## Ensamblador
+### Ensamblador
 
 * [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf){:target="_blank"} - Paul A.Carter (PDF)
 
-## Erlang <i class="fab fa-erlang"></i>
+### Erlang <i class="fab fa-erlang"></i>
 
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang){:target="_blank"} (WikiLibros)
 
-## Elixir
+### Elixir
 
 * [Elixir School. Lecciones acerca del lenguaje de programación Elixir](https://elixirschool.com/es){:target="_blank"}
 
@@ -588,11 +584,11 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Conociendo Github Documentación](https://media.readthedocs.org/pdf/conociendogithub/latest/conociendogithub.pdf){:target="_blank"} (PDF)
 * [Github Simple](https://github.com/MrOutis/GitHub-Simple#github-simple){:target="_blank"} (Github)
 
-## Go
+### Go
 
 * [Go: Un pequeño libro](https://raulexposito.com/documentos/go/go.pdf){:target="_blank"} (PDF)
 
-## Haskell
+### Haskell
 
 * [¡Aprende Haskell por el bien de todos!](https://aprendehaskell.es/main.html){:target="_blank"} (HTML)
 * [Lógica de primer orden en Haskell](https://docs.google.com/viewerng/viewer?url=idus.us.es/xmlui/bitstream/handle/11441/63139/Paluzo+Hidalgo+Eduardo+TFG.pdf){:target="_blank"} (PDF)
@@ -876,7 +872,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
-## **Mejores libros de Programación PDF**
+## **Mejores libros de Programación y Tecnología en PDF**
 
 Omitir. salvo que desees conocer en mayor profundidad el contenido que puedes encontrar dentro de los diferentes enlaces que aparecen dentro de esta página web. Este contenido, unicamente es generado en post de la mejora del posicionamiento e indexación del mismo 😉
 {: .notice--info}
@@ -885,7 +881,15 @@ Si tu profesión o futuro trabajo esta entre los siguientes campos como son: el 
 
 Incluso si deseas formarte para la profesión que realizan los analistas y consultores o profesional de publicidad y el marketing digital, e incluso los profesionales de gestión.
 
-Con toda seguridad aquí puedas encontrar algun recurso que te vaya a merecer la pena.
+Con toda seguridad aquí vas a encontrar libros que te ayudarán a seguir aprendiendo lo que más te gusta.
+
+Dentro de todos los campos que proponemos aprender desde Ciberninjas, vas a encontrar tantos puestos de trabajo y tecnologías como puedas imaginar.
+
+El listado es muy amplio:
+
+- Desarrollador web y multimedia, desarrollador frontend, desarrollador backend, desarrollador full stack, desarrollador de videojuegos, desarrollador móvil, especialista UI o también conocido como especialista de interfaces de usuario, diseñador gráfico, administrador de sistemas, diseñador o administrador de bases de datos, técnico de soporte TIC, especialista en ciberseguridad, digital producto manager, digital project manager. E incluso si tu desarrollo es el de consultor TIC, especialista de UX u experiencia de usuario, cientifico de datos, analista de datos o business intelligence.
+
+Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrellato.. 💪
 
 ## Licencia
 

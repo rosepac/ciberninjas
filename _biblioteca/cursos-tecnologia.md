@@ -8,6 +8,7 @@ date: 2020-03-13T22:00:00.000+02:00
 last_modified_at: 
 permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
+classes: wide
 header:
   teaser: "https://i.ibb.co/PznX1z2/tecnologia-programando.jpg"
   overlay_image: "https://i.ibb.co/PznX1z2/tecnologia-programando.jpg"
@@ -291,6 +292,265 @@ sidebar:
 
 [⏫ Subir a E-Commerce 🛒](/cursos-tecnologia/#-comercio-electrónico){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
+## 👩‍💻 Desarrollo Web
+
+[Android <i class="fab fa-android"></i>](/cursos-tecnologia/#android-){: .btn .btn--inverse .btn--large} [Angular <i class="fab fa-angular"></i>](/cursos-tecnologia/#angular-){: .btn .btn--inverse .btn--large} [PHP Framework <i class="fab fa-php"></i>](/cursos-tecnologia/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/cursos-tecnologia/#docker-){: .btn .btn--inverse .btn--large} [Ionic](/cursos-tecnologia/#ionic){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/cursos-tecnologia/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/cursos-tecnologia/#swift-){: .btn .btn--inverse .btn--large}
+
+* [Curso básico de Backbone.js](https://devcode.la/cursos/curso-basico-de-backbonejs){:target="_blank"} (DevCode)
+* [Curso de Firebase](https://www.youtube.com/playlist?list=PLEtcGQaT56chIjXff_cAEglfe6gBSNFHj) (Jesús Conde, Youtube)
+* [De Novato a Desarrollador Exitoso](https://www.udemy.com/de-novato-a-desarrollador-exitoso){:target="_blank"} (Udemy)
+* [Introducción al desarrollo web](https://www.youtube.com/playlist?list=PLfYLq8pbpMkBrFwrC-G2yI2GgCwClEouj){:target="_blank"} (iDESWEB, YouTube)
+
+## Android <i class="fab fa-android"></i>
+
+* [Android: Fundamentos para crear tus primeras apps de calidad](https://www.udemy.com/fundamentos-de-android-para-crear-apps-de-calidad){:target="_blank"} (Udemy)
+* [Android Studio: Instalación, emuladores, git, plugins y tips](https://www.udemy.com/android-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank"} (Udemy)
+* [Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56chEhBYGzWJo8V5mmQABmRJe){:target="_blank"} (Jesús Conde, Youtube)
+* [Aprende a programar tu primera app](https://www.EDX.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4){:target="_blank"} (EDX)
+* [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank"} (MiriadaX)
+* [Curso básico de Android](https://devcode.la/cursos/curso-basico-de-android){:target="_blank"} (DevCode)
+* [Curso de Android con Android Studio](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P){:target="_blank"} (Pildoras Informáticas, Youtube)
+* [Curso de Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank"} (Jesús Conde, Youtube)
+* [Curso de Aplicaciones Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank"} (Jesús Conde, Youtube)
+* [Desarrollo en HTML5, CSS y JavaScript de Apps Web, Android..](https://miriadax.net/web/html5mooc/inicio){:target="_blank"} (MiriadaX)
+* [Introducción a fundamentos Android, ¡Desarrolla una app completa!](https://plataforma.keepcoding.io/p/curso-gratis-fundamentos-android-online){:target="_blank"} (Keep Coding)
+* [Introducción a la programación Android](https://www.EDX.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1){:target="_blank"} (EDX)
+* [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130){:target="_blank"} (OCW)
+* [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX){:target="_blank"} (Jesús Conde, Youtube)
+
+### Flutter
+
+* [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_) (Gyga Code, Youtube)
+
+[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## Angular <i class="fab fa-angular"></i>
+
+* [Angular: Convierte cualquier template HTML en una WebAPP](https://www.udemy.com/html-hacia-angular){:target="_blank"} (Udemy)
+* [Angular: Fundamentos desde cero](https://www.udemy.com/curso-angular){:target="_blank"} (Udemy)
+* [Angular 2 básico](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd){:target="_blank"} (Jesús Conde, YouTube)
+* [Angular 2 y 4, componentes](https://www.udemy.com/componentes-angular-101){:target="_blank"} (Udemy)
+* [Angular 4: convertir un template HTML en una aplicación web](https://www.udemy.com/html-hacia-angular){:target="_blank"} (Udemy)
+* [Angular 4: instalación y componentes](https://www.udemy.com/introduccion-a-angular-4){:target="_blank"} (Udemy)
+* [Angular 5 y TypeScript; Introducción](https://www.udemy.com/angular-5-y-typescript-curso-de-introduccion-paso-a-paso){:target="_blank"} (Udemy) (2.017)
+* [Compodoc: crea documentación en proyectos Angular/Ionic](https://www.udemy.com/compodoc-crea-documentacion-en-angular-ionic){:target="_blank"} (Udemy)
+* [Curso de Angular 2](https://www.youtube.com/playlist?list=PLIcuwIrm4rKfkfJjKZ45oIskF9pI9p9n6){:target="_blank"} (Desarrolloweb.com, Youtube)
+* [Curso de Angular 2](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd){:target="_blank"} (Jesús Conde, Youtube)
+* [Curso de Angular 4](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8-9vxaY4BHRB9wlzUgPzD1){:target="_blank"} (Eduardo Ibarra, Youtube)
+* [Curso de Angular 4](https://www.youtube.com/playlist?list=PLEtcGQaT56chhi-qsqxIrUG_n9pXYCZ8z){:target="_blank"} (Jesús Conde, Youtube)
+* [Curso de Angular JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgHfdvGguisToK90z321pRl){:target="_blank"} (Jesús Conde, Youtube)
+* [Empezando con Angular 5](https://www.udemy.com/empezando-con-angular-5){:target="_blank"} (Udemy)
+* [Introducción a Angular 6](https://plataforma.keepcoding.io/p/curso_angular_6_intro){:target="_blank"} (Keep Coding)
+* [Introducción curso fundamentos Angular JS + HTML5 + CSS3](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-html5-css3-angular){:target="_blank"} (Keep Coding)
+
+[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## Docker <i class="fab fa-docker"></i>
+
+* [Curso de Docker](https://www.youtube.com/playlist?list=PLEtcGQaT56chIpnSavOSvaU2ZGAW7d1vE){:target="_blank"} (Jesús Conde, Youtube)
+* [Creación de una Imagen con Docker](/spring-boot-docker-con-albert-coronado/) (Albert Coronado, Youtube) (2019)
+* [Docker](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS){:target="_blank"} (JGAITPro, YouTube)
+* [Iniciando con Containers en Dockers](https://www.udemy.com/iniciando-con-containers-en-docker){:target="_blank"} (Udemy)
+* [Introducción al backend en PHP y MySQL (+ Docker)](https://www.udemy.com/course/introduccion-al-backend-en-php-y-mysql-docker){:target="_blank"}
+
+[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## Ionic
+
+* [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He){:target="_blank"} (Eduardo Ibarra, Youtube)
+* [Curso de Ionic + Firebase](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_uPaY3MSr3dqG9DJTJ-XVC) (Eduardo Ibarra, Youtube)
+* [Curso de Ionic 2](https://www.youtube.com/playlist?list=PLEtcGQaT56chDQiMXvyee6XElAF4Bod4f) (Jesús Conde, Youtube)
+* [Curso de Ionic: Aprende a crear una aplicación móvil](https://www.youtube.com/playlist?list=PLPl81lqbj-4IzylAHYigeNB_Pob2WGGEG) (Eduardo Ibarra, Youtube)
+* [Curso de Ionic Framework](https://www.youtube.com/playlist?list=PLYPjmy5IVxT-7FV0uzpG2izFhGoE0Hq2y) (Eduardo Ibarra, Youtube)
+* [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He){:target="_blank"} (Eduardo Ibarra, Youtube)
+* [Ionic](https://www.youtube.com/playlist?list=PLEtcGQaT56chdXOZeYY8uyFeHqDZQqgVg){:target="_blank"} (Jesús Conde, YouTube)
+* [Ionic: crear una aplicación iOS o Android](https://www.udemy.com/curso-de-ionic-aprende-a-crear-una-aplicacion-ios-o-android){:target="_blank"} (Udemy)
+* [Ionic, introducción y creación de una app](https://www.youtube.com/playlist?list=PLEtcGQaT56chdXOZeYY8uyFeHqDZQqgVg){:target="_blank"} (Jesús Conde, Youtube)
+
+## JQuery
+
+* [JQuery para implementar tus aplicaciones web (2017)](https://www.udemy.com/aprende-jquery-para-implementar-tus-aplicaciones-web){:target="_blank"} (Udemy)
+* [jQuery UI - Amplia los límites de jQuery](https://www.udemy.com/jquery-ui-amplia-los-limites-de-jquery){:target="_blank"} (Udemy)
+
+## Node <i class="fab fa-node-js"></i>
+
+* [Crear una REST API desde Cero con NodeJS y AdonisJS](https://www.udemy.com/course/curso-crea-una-rest-api-desde-cero-con-nodejs-y-adonisjs/){:target="_blank"} (Udemy) (2019)
+* [Curso de NodeJS](https://www.youtube.com/playlist?list=PL38CA7BD8CB5F3FF9){:target="_blank"} (Jesús Conde, Youtube)
+* [Desarrollo API Web Restful con NodeJS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgMsG-eOksskBHIb9Rq4VUG){:target="_blank"} (Jesús Conde, YouTube)
+* [Desarrollo de servicios en la nube con HTML5, JavaScript y node.js](https://miriadax.net/web/desarrollo-de-servicios-en-la-nube-con-html5-javascript-y-nodejs-2-edicion-){:target="_blank"} (MiriadaX)
+* [Introducción a JavaScript y Node.js](https://plataforma.keepcoding.io/p/intruduccion-javascript-node-js-express-mongodb-gratis){:target="_blank"} (Keep Coding)
+* [NodeJS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY3gY-ptuqkNEXZHsNwlkND){:target="_blank"} (Jon Mircha, YouTube)
+* [NodeJS](https://www.youtube.com/watch?v=VHOd-RBj1MA&list=PLvimn1Ins-41lVr-SPWF1mdNTzog05TcA){:target="_blank"} (Mito Code, Youtube)
+* [Taller de NodeJS](https://plataforma.keepcoding.io/p/nodejs-bundle-web-bootcamp){:target="_blank"}
+
+## PhoneGap (Apache Cordoba)
+
+* [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank"} (MiriadaX)
+
+## React <i class="fab fa-react"></i>
+
+* [Aprender React JS](https://www.udemy.com/course/aprendiendo-react/){:target="_blank"} (Udemy)
+* [Fundamentos de React](https://www.youtube.com/playlist?list=PLpOqH6AE0tNg-6kaolSnySpJ0vxk3Xhoo){:target="_blank"} (Youtube) (2019)
+* [React Hooks: Guia inicial utilizando Redux y Material.UI](https://www.udemy.com/course/react-hooks-guia-inicial-utilizando-redux-y-materialui/){:target="_blank"} (Udemy)
+* [React JS - Curso de introducción desde cero y primeros pasos](https://www.udemy.com/course/react-js-curso-de-introduccion-desde-cero-y-primeros-pasos/){:target="_blank"} (Udemy)
+* [React JS: Inicia en el mundo de los Frameworks de JavaScript](https://www.udemy.com/course/react-js-inicia-en-el-mundo-de-los-frameworks-de-javascript/){:target="_blank"} (Udemy)
+* [Introducción a Tecnologías del Desarrollo con los Mejores](https://www.udemy.com/course/masters-desarrollo/){:target="_blank"} - (Variado COBOL, Go, Nodejs, GraphQL, React, Spring) (Udemy)
+
+### React Native
+
+* [Crea tu propio Netflix con React Native con Mario Díez](/react-native-crear-aplicacion-como-netflix-con-mario-diez/){:target="_blank"}
+* [React Native con Iván B. Trujillo](/react-native-con-ivan-b-trujillo/){:target="_blank"}
+* [React Native con Mario Díez](/react-native-con-mario-diez/){:target="_blank"}
+* [React Native por Ciencia del Aprendizaje Fácil](/react-native-desde-ciencia-del-aprendizaje-facil/){:target="_blank"}
+
+## Software
+
+### Editores de Código
+
+* [Editores de Código: Brackets & Edge Code](https://www.udemy.com/brackets-edge-code){:target="_blank"} (Udemy)
+* [Editores de Código: Visual Studio Code y Sublime Text](https://www.udemy.com/course/visual-studio-code-y-sublime-text-se-rapido-para-codificar/){:target="_blank"} (Udemy) (2019)
+* [Herramientas de desarrollo y diseño web](https://www.udemy.com/recursos-web-plugins-y-utilidades){:target="_blank"} (Udemy)
+* [Herramientas para el desarrollador web](https://www.udemy.com/herramientas-para-el-desarrollador-web){:target="_blank"} (Udemy)
+
+### Navegadores
+
+* [Los Mejores Trucos con las Herramientas de Desarrollo de Chrome](/trucos-herramientas-desarrollo-de-chrome/){:target="_blank"} (Udemy)
+
+## Vue <i class="fab fa-vuejs"></i>
+
+* [Aprende VUE2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso){:target="_blank"} (WMedia)
+* [Curso de Vue JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cggm3J7XLzLUw_cgChgNYcQ){:target="_blank"} (Jesús Conde, Youtube)
+* [Primera aplicación con Vuejs 2, Vuez y SocketIO](https://www.udemy.com/primera-aplicacion-con-vuejs-2-vuex-y-socketio){:target="_blank"} (Udemy)
+
+[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## 👨‍🎨 Diseño Web
+
+[Bootstrap <i class="fab fa-bootstrap"></i>](/cursos-tecnologia/#bootstrap-){: .btn .btn--inverse .btn--large} [Lenguajes de Estilos y Preprocesadores 🎨](/cursos-tecnologia/#lenguajes-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/cursos-tecnologia/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/cursos-tecnologia/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large}
+
+_____
+
+* [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
+* [Como crear una web básica desde cero](👨‍🏫-curso-crear-pagina-web-basica-desde-cero) (Purito Código, Youtube)
+* [Crea tu página web sin códigos ni complicaciones](https://www.udemy.com/crea-tu-pagina-web-sin-codigos-ni-complicaciones){:target="_blank"} (Udemy)
+* [Curso básico de Responsive Web Design](https://devcode.la/cursos/curso-basico-de-responsive-web-design){:target="_blank"} (DevCode)
+* [Curso de Diseño Web](https://www.youtube.com/playlist?list=PLhSj3UTs2_yXDfpTsKGd2iZTXZnsOTC8h) (Falcon Masters, Youtube)
+* [Desarrolla una página web con HTML y CSS](https://www.crehana.com/cursos/diseno-web/desarrolla-una-pagina-web-con-html-y-css){:target="_blank"} (Crehana)
+* [Diseño web con HTML5+CSS](https://miriadax.net/web/diseno-web-con-html5-css-2-edicion-){:target="_blank"} (MiriadaX)
+* [Diseño web creando un sitio web, paso a paso (2.017)](https://www.udemy.com/diseno-web-aprende-creando-un-sitio-web){:target="_blank"} (Udemy)
+* [Fundamentos del diseño UX](https://www.crehana.com/cursos/uxui/fundamentos-del-diseno-ux){:target="_blank"} (Crehana)
+* [Interfaces de usuario (2009)](http://ocw.uc3m.es/ingenieria-informatica/interfaces-de-usuario){:target="_blank"} (OCW)
+* [Menus responsive](http://jotajotavm.com/Menus-Responsive-00-Introduccion.html){:target="_blank"} (jotajotavm)
+* [Tutoriales de Diseño Web](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWwhmEyzXsTFnNXfatVMAfT){:target="_blank"} (Falcon Masters, Youtube)
+
+## Bootstrap <i class="fab fa-bootstrap"></i>
+
+* [Aprende a crear Landing Pages con Bootstrap 3 o Instapage](https://www.udemy.com/crea-una-landing-page-que-enamore-sin-saber-programar) (Udemy)
+* [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4) (Udemy)
+* [Bootstrap 4! Desde Cero](https://www.udemy.com/bootstrap-4-curso-desde-cero-2017-espanol) (Udemy)
+* [Bootstrap 4. Fundamentos: crea tu primer sitio responsive](https://www.udemy.com/curso-fundamentos-de-bootstrap-4) (Udemy)
+* [Crear temas para Wordpress utilizando Bootstrap 4](/👨‍🏫-curso-creacion-tema-wordpress-bootstrap-bluuweb) (Bluuweb!, YouTube)
+* [Curso completo de Boostrap 4! 2017 desde cero](https://www.youtube.com/playlist?list=PLPl81lqbj-4IcaAluUlCTmbYz0h9XQ8U1) (Bluuweb!, Youtube)
+* [Curso de Bootstrap 3](https://devcode.la/cursos/bootstrap3) (DevCode)
+* [Curso de Bootstrap 3](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-3-falcon-masters) (Falcon Masters, Youtube)
+* [Curso de Bootstrap 4](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-4-aula-ideal) (Aula Ideal, YouTube)
+* [Curso de Bootstrap 4](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-3-falcon-masters) (Blueeweb, Youtube)
+* [Curso de Bootstrap 4](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-4-falcon-masters) (Falcon Masters, YouTube)
+* [Curso de Bootstrap 4](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-4-yoney-gallardo) (Yoney Gallardo, Youtube) (1 Vídeo)
+* [Curso de Material Design y Boostrap 4 por Bluuweb](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-material-design-bootstrap-4-bluuweb) (Bluuweb!, YouTube)
+* [La biblia perdida de Bootstrap 4](https://www.udemy.com/curso-la-biblia-perdida-de-bootstrap-4) (Udemy)
+* [PSD a HTML con Bootstrap 4!](https://www.udemy.com/curso-de-psd-a-html-con-bootstrap-4) (Udemy)
+
+## Dreamweaver <i class="fab fa-adobe"></i>
+
+* [Diseño de páginas web con Photoshop CS6](https://www.youtube.com/playlist?list=PLPl81lqbj-4Im51L2JZZZ2AxQ6u7b8HS6){:target="_blank"} (Bluuweb!, YouTube)
+* [Diseño de páginas web en Photoshop 6](https://www.udemy.com/curso-diseno-de-paginas-web-en-photoshop-cs6){:target="_blank"} (Udemy)
+* [Dreamweaver CC 2017](https://www.youtube.com/playlist?list=PLDQxj4bepx_nCFtYddm6faLvLhIb2lKCr){:target="_blank"} (Nelson Palomino, YouTube)
+* [Dreamweaver CS 4](https://www.youtube.com/playlist?list=PL2AC141307340E74B){:target="_blank"} (Aula Click, YouTube)
+* [Dreamweaver CS 5](https://www.youtube.com/playlist?list=PL7A75E72C644F2B3C){:target="_blank"} (Aula Click, YouTube)
+
+## Lenguajes de Estilos y Preprocesadores 🎨
+<!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
+
+### CSS <i class="fab fa-css3-alt"></i>
+
+* [Aprende CSS para dar estilo a tus páginas web](https://www.udemy.com/aprende-css-para-dar-estilo-a-tus-paginas-web){:target="_blank"} (Udemy)
+* [Aprende las bases del CSS](https://www.udemy.com/curso-basico-de-css){:target="_blank"} (Udemy)
+* [Como crear galerías sencillas y varios efectos en CSS Purito Código](/👨‍🏫-galerias-varios-efectos-css-purito-codigo) (Purito Código, Youtube)
+* [Curso básico de CSS desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR){:target="_blank"} (Falcon Masters, Youtube)
+* [Curso CSS Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpUDdnWSglIIHfIosElaVN) (Pildoras Informáticas, Youtube)
+* [Curso de CSS3 y Flexbox, 2017](https://www.youtube.com/playlist?list=PLPl81lqbj-4LGQgD3f0WPIol1RT8fML3u) (Bluuweb!, Youtube)
+* [CSS desde Cero](https://ed.team/cursos/css) (EdTeam)
+* [CSS Grid](/👨‍🏫-curso-css-grid-purito-codigo) (Purito Código, Youtube)
+* [CSS Variables](https://ed.team/cursos/variables-css) (EdTeam)
+
+### Flexbox
+
+* [Flexbox - Armar un sitio web responsive con CSS3](https://www.youtube.com/playlist?list=PLPl81lqbj-4JfZ9Ln5ojAl1GiORf2aK9U){:target="_blank"} (Falcon Masters, Youtube)
+* [Flexbox desde 0](https://www.udemy.com/curso-de-flexbox-desde-0){:target="_blank"} (Udemy)
+* [Flexbox y CSS3](https://www.udemy.com/css3-para-principiantes){:target="_blank"} (Udemy)
+
+## LESS <i class="fab fa-less"></i>
+
+* [LESS de cero a experto](https://www.udemy.com/less-de-cero-a-experto){:target="_blank"} (Udemy)
+
+### SASS <i class="fab fa-sass"></i>
+
+* [CSS con SASS](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVyMlZyW-NAbgjtgAgLBzFP){:target="_blank"} (Falcon Masters, YouTube)
+* [Curso de SASS Básico. Principantes paso a paso](https://www.youtube.com/playlist?list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP){:target="_blank"} (Bluuweb!, Youtube)
+* [SASS para principantes: paso a paso, desde cero](https://www.udemy.com/curso-de-sass-para-principiantes-paso-a-paso-y-desde-cero){:target="_blank"} (Udemy)
+
+## Lenguajes de Marcado ✍
+<!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml, markdown  -->
+
+### HTML <i class="fab fa-html5"></i> y CSS <i class="fab fa-css3-alt"></i>
+
+* [Aprende Fácil HTML5 y CSS3 con JQUERY y Dreamweaver desde 0](https://www.udemy.com/aprende-facil-html5-y-css3-con-jquery-y-dreamweaver-desde-0){:target="_blank"} (Udemy)
+* [Aprende HTML para hacer tus propios diseños web (2.017)](https://www.udemy.com/aprende-html5-para-hacer-tus-propios-disenos-web){:target="_blank"} (Udemy)
+* [Aprende HTML5, SASS y jQuery. Creando un sitio desde cero](https://www.udemy.com/aprende-html5-sass-y-jquery-creando-un-sitio-desde-cero){:target="_blank"} (Udemy)
+* [Aprende HTML5 y CSS3 desde cero](https://www.udemy.com/aprende-html5-y-css3-desde-cero){:target="_blank"} (Udemy)
+* [Aprende a crear menús de bebidas profesionales](https://www.udemy.com/aprende-a-crear-menues-de-bebidas-profesionales){:target="_blank"} (Udemy)
+* [Aprende a crear páginas web con HTML5 y CSS3](https://www.udemy.com/aprende-a-crear-paginas-web-con-html5-y-css3){:target="_blank"} (Udemy)
+* [Aprende a crear una página web desde 0](https://www.udemy.com/aprende-a-crear-una-pagina-web-desde-0){:target="_blank"} (Udemy)
+* [Cómo crear una página web](https://devcode.la/cursos/como-crear-una-pagina-web){:target="_blank"} (DevCode)
+* [Cómo crear una página web. Introducción a HTML5 y CSS3](https://www.udemy.com/como-crear-una-pagina-web-introduccion-a-html5-y-css3){:target="_blank"} (Udemy)
+* [Cómo crear una página web en 30 minutos](https://www.udemy.com/como-crear-una-pagina-web-en-30-minutos){:target="_blank"} (Udemy)
+* [Cómo programar para emprendedores, HTML y CSS](https://www.udemy.com/programacion-para-emprendedores){:target="_blank"} (Udemy)
+* [Curso básico de HTML desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVHt2DgHky_MzzRC58UHE4z){:target="_blank"} (Falcon Masters, Youtube)
+* [Curso de HTML5](/👨‍🏫-curso-html-purito-codigo) (Purito Código, Youtube)
+* [Curso de HTML y CSS Gratis](https://devcode.la/cursos/html-css) (DevCode)
+* [Curso de HTML5](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK) (Pildoras Informáticas, Youtube)
+* [Desarrollo Web con HTML5 y CSS3 desde cero](https://www.udemy.com/curso-html5-css3){:target="_blank"} (Udemy)
+* [Desarrollo Web Responsive con HTML5 y CSS3](https://www.udemy.com/introduccion-al-web-responsive-html5-css3){:target="_blank"} (Udemy)
+* [HTML + CSS + Javascript para principiantes. Desarrollo web](https://www.udemy.com/html5-css3-desde-0-intro-gratis-javascript){:target="_blank"} (Udemy)
+* [HTML desde Cero](https://ed.team/cursos/html) (EdTeam)
+* [HTML5](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK){:target="_blank"} (PildorasInformaticas, YouTube)
+* [HTML5 desde cero hasta crear una página web responsive](https://www.udemy.com/html-5-desde-cero-hasta-crear-una-pagina-web-responsive){:target="_blank"} (Udemy)
+* [HTML5 y CSS3 (2016)](https://www.youtube.com/watch?v=_Swi5_rmztg&list=PLPl81lqbj-4KaMYQ9nrh-NjTIcgmbL1V2){:target="_blank"} (Blueeweb!, Youtube)
+* [HTML5 y CSS3 - Paso a paso y práctico - Crea sitios web!](https://www.udemy.com/curso-html5-css3){:target="_blank"} (Udemy)
+* [Introducción a la Web Responsable con HTML5 y CSS3](https://www.udemy.com/introduccion-al-web-responsive-html5-css3/){:target="_blank"} (Udemy)
+* [Los cimientos de un desarrollador web: HTML](https://www.udemy.com/los-cimientos-de-un-desarrollador-web-html){:target="_blank"} (Udemy)
+* [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html){:target="_blank"} (OCW)
+
+### Markdown <i class="fab fa-markdown"></i>
+
+* [Aprenda Markdown desde Cero](https://www.udemy.com/course/aprenda-markdown-desde-cero/) (Udemy)
+* [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
+
+### XML
+
+* [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html){:target="_blank"} (OCW)
+
+## Polymer
+
+* [Introducción a Polymer & web componentes](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-polymer-web-components){:target="_blank"} (Keep Coding)
+
+## Sistemas de Plantillas 🌱
+<!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
+* [Pug desde Cero](https://ed.team/cursos/pug)
+
+[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
 ## 🐧 Ecosistema de Software Libre
 
 [Linux <i class="fab fa-linux"></i>](/cursos-tecnologia/#linux-){: .btn .btn--inverse .btn--large} [Ubuntu <i class="fab fa-ubuntu"></i>](/cursos-tecnologia/#ubuntu-){: .btn .btn--inverse .btn--large}
@@ -315,199 +575,6 @@ sidebar:
 * [Instalar Ubuntu en VirtualBox](https://www.youtube.com/watch?v=uV5boDESAe0){:target="_blank"} (Youtube)
 
 [⏫ Subir a Software Libre](/cursos-tecnologia/#-ecosistema-de-software-libre){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
-## 💼 Metodologías de Desarrollo
-
-[Integración Continua](/cursos-tecnologia/#integracion-continua){: .btn .btn--inverse .btn--large} [Grunt <i class="fab fa-grunt"></i>](/cursos-tecnologia/#grunt-){: .btn .btn--inverse .btn--large} [Estudiar 💭](/cursos-tecnologia/#estudiar-){: .btn .btn--inverse .btn--large}
-
-* [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank"} (Udemy)
-* [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-){:target="_blank"} (MiriadaX)
-* [Aspectos básicos de la planificación y la gestión de proyectos](https://www.coursera.org/learn/uva-darden-project-management-es){:target="_blank"} (Coursera)
-* [Cómo implantar grupos de mejora de procesos](https://www.EDX.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0){:target="_blank"} (EDX)
-* [Curso de Git y Github](https://www.youtube.com/playlist?list=PL353A30C7CCE5098F){:target="_blank"} (Jesús Conde, Youtube)
-* [Curso de Patrones de Diseño de Software](/crear-patrones-de-dise%C3%B1o-de-software-con-jap-software/) (Jap Software, Youtube)
-* [De la idea al plan de proyectos en 10 pasos (2014)](https://ocw.ehu.eus/course/view.php?id=336){:target="_blank"} (OCW)
-* [Fundamentos de Git y Github](https://devcode.la/cursos/git){:target="_blank"} (DevCode)
-* [Gestión de proyectos (2013)](https://ocw.ehu.eus/course/view.php?id=202){:target="_blank"} (OCW)
-* [Gestión de proyectos con metodologías ágiles y enfoques Lean](https://miriadax.net/web/gestion-de-proyectos-con-metodologias-agiles-y-enfoques-lean-3-edicion-){:target="_blank"} (MiriadaX)
-* [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23){:target="_blank"} (OCW)
-* [Gestión de proyectos Software con Git y Github](https://miriadax.net/web/gitmooc/inicio){:target="_blank"} (MiriadaX)
-* [Gestión Participativa](https://www.EDX.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0){:target="_blank"} (EDX)
-* [Git y Github Avanzado](https://www.youtube.com/playlist?list=PLxyfMWnjW2kvHLzz87dMz7vy2At2pYlj_){:target="_blank"} (Make it Real, YouTube)
-* [Groupware en la gestión del conocimiento (2014)](https://ocw.ehu.eus/course/view.php?id=326){:target="_blank"} (OCW)
-* [Ingeniería del Software I (2011)](https://ocw.unican.es/course/view.php?id=169){:target="_blank"} (OCW)
-* [Ingeniería del Software II (2011)](https://ocw.unican.es/course/view.php?id=170){:target="_blank"} (OCW)
-* [Integración continua con Github Education y Travis](https://www.udemy.com/integracion-continua-con-github-education-y-travis){:target="_blank"} (Udemy)
-* [Introducción a experimentación Lean](https://www.udemy.com/introduccion-a-experimentacion-lean){:target="_blank"} (Udemy)
-* [Introducción a Git, Github & SourceTree](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-git-github-sourcetree){:target="_blank"} (Keep Coding)
-* [Introducción a la Gestión de Proyectos](https://www.EDX.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x){:target="_blank"} (EDX)
-* [Introducción a Ingeniería del Software](https://www.edx.org/course/introduccion-a-la-ingenieria-del-software){:target="_blank"} (EDX \ Universidad Autónoma de Madrid)
-* [JUnit: Pruebas unitarias para Java](https://www.makigas.es/series/junit){:target="_blank"} (makigas)
-* [Metodología de Desarrollo Visual (2012)](http://ocw.uc3m.es/ingenieria-informatica/metodologia-de-desarrollo-visual){:target="_blank"} (OCW)
-* [Metodología de marco lógico (2017)](https://www.udemy.com/metodologia-de-marco-logico){:target="_blank"} (Udemy)
-* [Métodos y técnicas del trabajo corporativo (2008)](http://ocw.uc3m.es/ingenieria-informatica/metodos-y-tecnicas-de-trabajo-corporativo){:target="_blank"} (OCW)
-* [Organización y gestión del proyecto (2009)](https://ocw.unican.es/course/view.php?id=207){:target="_blank"} (OCW)
-* [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158){:target="_blank"} (OCW)
-* [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119){:target="_blank"} (OCW)
-
-## Integración Continua
-
-* [Domina Jenkins CI para DevOps y Desarrolladores](https://www.udemy.com/domina-jenkins-ci-para-devops-y-desarrolladores){:target="_blank"} (Udemy)
-
-## Grunt <i class="fab fa-grunt"></i>
-
-* [Grunt JS de 0 a 100](https://www.udemy.com/de-0-a-100-con-grunt-js){:target="_blank"} (Udemy)
-
-### Estudiar 💭
-
-* [Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles](https://www.coursera.org/learn/aprendiendo-a-aprender){:target="_blank"}
-
-[⏫ Subir a Metodologías](/cursos-tecnologia/#-metodologías-de-desarrollo){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
-## 💻 Ofimática
-
-[Acces](/cursos-tecnologia/#acces){: .btn .btn--inverse .btn--large} [Excel](/cursos-tecnologia/#excel){: .btn .btn--inverse .btn--large} [Google Drive](/cursos-tecnologia/#google-drive){: .btn .btn--inverse .btn--large} [Presentaciones](/cursos-tecnologia/#presentaciones){: .btn .btn--inverse .btn--large} [Software Libre](/cursos-tecnologia/#software-libre){: .btn .btn--inverse .btn--large} [Otros](/cursos-tecnologia/#presentaciones){: .btn .btn--inverse .btn--large} [Word](/cursos-tecnologia/#word){: .btn .btn--inverse .btn--large}
-
-## Office
-
-* [Microsoft Office 2013](https://www.youtube.com/playlist?list=PL2994D8A0985CFC9A) (Pablo Martinez, YouTube)
-
-### Acces
-
-* [Curso de Acces 2010 Avanzado](https://www.youtube.com/playlist?list=PL87EB5DB749276DAF){:target="_blank"} (Jesús Conde, Youtube)
-* [Curso de Acces 2010 Básico](https://www.youtube.com/playlist?list=PLDA8B66B264169835){:target="_blank"} (Jesús Conde, Youtube)
-* [Curso VBA Acces](https://www.youtube.com/playlist?list=PLC3E8FA619DF71898){:target="_blank"} (Jesús Conde, Youtube)
-* [Diseño de sistemas de información gerencial para intranet con Microsoft Access](https://www.edx.org/course/diseno-de-sistemas-de-informacion-gerencial-para-2){:target="_blank"} (EDX \ Universidad del Rosario)
-
-### Excel
-
-* [Aprende fácilmente funciones en Excel](https://www.udemy.com/aprende-facilmente-funciones-en-excel){:target="_blank"} (Udemy)
-* [Curso de Excel 2010 Avanzado](https://www.youtube.com/playlist?list=PLFED09792AB0E606F){:target="_blank"} (Jesús Conde, Youtube)
-* [Curso de Excel 2010 Básico](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkCs-P-AnQhxsSyxSxv9jfI){:target="_blank"} (Jesús Conde, Youtube)
-* [Curso VBA Excel](https://www.youtube.com/playlist?list=PLF79C9D65E1EC4807){:target="_blank"} (Jesús Conde, Youtube)
-* [Domina Excel 2013; Básico e Intermedio](https://www.udemy.com/domina-excel-2013-basico-intermedio-en-menos-de-4-horas){:target="_blank"} (Udemy)
-* [Excel 1 (Básico)](https://www.EDX.org/course/excel-upvalenciax-xls101x-1){:target="_blank"} (EDX)
-* [Excel 2 (Gestión de Datos)](https://www.EDX.org/course/excel-2-gestion-de-datos-upvalenciax-xls201x){:target="_blank"} (EDX)
-* [Excel 2013: Intermedio/Avanzado](https://www.youtube.com/playlist?list=PLmJE_P_j3_IedCBho8XsiqJ_7zNpdRHuX){:target="_blank"} (WHYGS, YouTube)
-* [Excel 2016 Avanzado](https://www.youtube.com/playlist?list=PLLniqWgyb4HGYSJQySM46YNNRHF0_2POA){:target="_blank"} (Dostin Hurtado, YouTube)
-* [Funciones de Excel. Píldoras Rápidas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnCoBbzTNcA756BvMREA6Hl){:target="_blank"} (Pildoras Informáticas, Youtube)
-* [Funciones en Excel 2013](https://www.youtube.com/playlist?list=PLEjoYXWNBV2N-TbJXimHXWqgP_kvB7i7F){:target="_blank"} (Franklin Parrado Fuentes, YouTube)
-* [Introducción a Excel 2010](https://www.udemy.com/introduccion-a-excel-2010){:target="_blank"} (Udemy)
-* [Macros en Excel 2013](https://www.youtube.com/playlist?list=PLssmz9LfwThwB1vNne20qW6d51juop_Dl){:target="_blank"} (Tecnoges, YouTube)
-* [Macros y VBA para Excel desde cero](https://www.udemy.com/macros-y-vba-para-excel-desde-cero){:target="_blank"} (Udemy)
-* [Operaciones financieras en Excel](https://www.youtube.com/playlist?list=PLFNWPvtjBMjtG2o48zgCj2fItp53dPBc4) (Excel y Más, YouTube)
-
-### Powerpoint
-
-* [Curso Powerpoint 2013](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmWjtgpPMSVRKu-g8SoAntx){:target="_blank"} (Pildoras Informáticas, Youtube)
-* [Diseña presentaciones eficaces con PowerPoint](https://www.EDX.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
-* [Introducción a PowerPoint 2010](https://www.udemy.com/introduccion-a-powerpoint-2010){:target="_blank"} (Udemy)
-* [Introducción al PowerPoint 2013](https://www.udemy.com/introduccion-al-powerpoint-2013){:target="_blank"} (Udemy)
-* [Microsoft Powerpoint 2013](https://www.youtube.com/playlist?list=PL5vjFJ0wFekJnqeP2qZNHGft7SoIGJu8B) (Yoney Gallardo, YouTube)
-
-### Word
-
-* [Curso de Word 2010 Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnPxtSjts4Tieg4AbIRYz1K){:target="_blank"} (Jesús Conde, Youtube)
-* [Introducción a Word 2010](https://www.udemy.com/introduccion-a-word-2010){:target="_blank"} (Udemy)
-* [Microsoft Word 2013](https://www.youtube.com/playlist?list=PLomN84AdULIAyCVh5aH55gkbANr7dBctW){:target="_blank"} (Aula Click, YouTube)
-* [Word intermedio: herramientas de formato y productividad](https://www.EDX.org/es/course/word-intermedio-herramientas-de-formato-y-producti){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
-
-### Google Drive
-
-* [Aprende a usar Google Drive de una manera fácil y sencilla](https://www.udemy.com/aprende-a-usar-google-drive-de-una-manera-facil-y-sencilla){:target="_blank"} (Udemy)
-* [Domina la hoja de cálculo de Google sin esfuerzo](https://www.udemy.com/domina-la-hoja-de-calculo-de-google-sin-esfuerzo){:target="_blank"} (Udemy)
-
-### Presentaciones
-
-* [Cómo hacer screenshots para tus APPS de manera fácil](https://www.udemy.com/como-hacer-screenshots-para-tus-apps-de-manera-facil){:target="_blank"} (Udemy)
-
-### Historia Informática
-
-* [Computación básica desde cero](https://www.udemy.com/computacion-basica-desde-cero-hasta-redes-sociales){:target="_blank"} (Udemy)
-
-### Contabilidad
-
-* [Contabilidad básica](https://www.academiajaf.com/como/aprender/contabilidad/contabilidad-curso-basico/135-capitulo-001-introduccion-a-la-contabilidad){:target="_blank"} (Academia JAF)
-
-### Software Libre
-
-* [Creación y retoque de imágenes con software libre](https://miriadax.net/web/creacion-y-retoque-2-ed){:target="_blank"} (MiriadaX)
-
-## Gestión e Informática
-
-* [Informática de Gestión (2009)](http://ocw.uc3m.es/ingenieria-informatica/informatica-de-gestion){:target="_blank"} (OCW)
-* [Informática de Gestión (2010)](https://ocw.ehu.eus/file.php/122/Informatica_gestion/Course_listing.html){:target="_blank"} (OCW)
-* [Informática de Gestión II (2012)](http://ocw.ugr.es/course/view.php?id=86){:target="_blank"} (OCW)
-* [Informática desde Cero](https://www.udemy.com/informatica-desde-cero){:target="_blank"} (Udemy)
-
-### Otros
-
-* [Curso de OBS: Software de Streaming](https://aulasoftwarelibre.github.io/taller-de-obs-docs/){:target="_blank"}
-* [Informática Aplicada a la Gestión Pública](https://www.udemy.com/introduccion-a-outlook-2010){:target="_blank"} (Universidad de Murcia) (2011)
-* [Introducción a Outlook 2010](https://www.udemy.com/introduccion-a-outlook-2010){:target="_blank"} (Udemy)
-* [LibreOffice Writer](https://www.youtube.com/playlist?list=PLLLaU95AMQPqAgeXCjQgXawAPABR19U2k){:target="_blank"} (VideoTutoriales Education, YouTube)
-* [Microsoft Project 2013](https://www.youtube.com/playlist?list=PL7Sb5pi3h9JigadkTKlbhxBFTptqN-tHY){:target="_blank"} (Grupo Ephyco, YouTube)
-* [OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice){:target="_blank"} (MiriadaX)
-* [OpenOffice Calc. Gestión de datos sobre hojas de cálculo (2014)](https://ocw.unican.es/course/view.php?id=61){:target="_blank"} (OCW)
-* [Presentaciones eficaces (2012)](https://ocw.unican.es/course/view.php?id=188){:target="_blank"} (OCW)
-* [Software libre (2006)](http://ocw.upm.es/ciencia-de-la-computacion-e-inteligencia-artificial/software-libre){:target="_blank"} (OCW)
-* [Software Libre: Ofimática con OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice) {:target="_blank"} (MiriadaX)
-* [Software Libre y Conocimiento en Abierto](https://miriadax.net/web/soft_libre_y_conocimiento/inicio){:target="_blank"} (MiriadaX)
-* [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-){:target="_blank"} (MiriadaX)
-
-## ArcGIS
-
-* [Publicación y Análisis de mapas en la Web con ArcGIS Online](https://www.udemy.com/arcgis-online){:target="_blank"} (Udemy)
-
-[⏫ Subir a Ofimática](/cursos-tecnologia/#-ofimática){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
-## 🔨 Procesadores de Lenguaje
-
-* [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949){:target="_blank"} (OCW)
-* [Microprocesadores (2006)](http://ocw.upm.es/tecnologia-electronica/microprocesadores){:target="_blank"} (OCW)
-* [Procesadores de lenguaje (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/procesadores-de-lenguaje-2006.html){:target="_blank"} (OCW)
-* [Procesadores de Lenguaje (2012)](http://ocw.uji.es/curso/5180){:target="_blank"} (OCW)
-* [Procesadores de lenguajes -enfocado en Perl- ](https://campusvirtual.ull.es/ocw/course/view.php?id=45){:target="_blank"} (OCW)
-* [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56){:target="_blank"} (OCW)
-* [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes){:target="_blank"} (OCW)
-
-[⏫ Subir a Procesadores](/cursos-tecnologia/#-procesadores){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
-## 👦 Programación Infantil
-
-[App Inventor](/cursos-tecnologia/#app-inventor){: .btn .btn--inverse .btn--large} [Scratch <i class="fas fa-paw"></i>](/cursos-tecnologia/#scratch-){: .btn .btn--inverse .btn--large}
-
-## App Inventor
-
-* [Como usar el componente Sound](https://www.udemy.com/como-usar-el-componente-sound-sin-morir-en-el-intento){:target="_blank"} (Udemy)
-* [Componente Contact Picker](https://www.udemy.com/app-inventor-2-componente-contact-picker){:target="_blank"} (Udemy)
-* [Componente HorizontalArrangement](https://www.udemy.com/app-inventor-y-su-componente-horizontalarrangement){:target="_blank"} (Udemy)
-* [Componente Polygon](https://www.udemy.com/app-inventor-2-componente-polygon){:target="_blank"} (Udemy)
-* [Componente SoundRecorder](https://www.udemy.com/curso-del-componente-soundrecorder-de-app-inventor){:target="_blank"} (Udemy)
-* [Componente Yandex. Translate](https://www.udemy.com/app-inventor-2-componente-yandextranslate){:target="_blank"} (Udemy)
-* [Descubre Rectangle](https://www.udemy.com/componente-rectangle-maps-app-inventor){:target="_blank"} (Udemy)
-* [Dragged y Flung](https://www.udemy.com/app-inventor-a){:target="_blank"} (Udemy)
-* [Ev3 Commands y App Inventor](https://www.udemy.com/ev3-commands){:target="_blank"} (Udemy)
-* [ImagePicker](https://www.udemy.com/appinvento2-imagepicker){:target="_blank"} (Udemy)
-* [ListView](https://www.udemy.com/app-inventor-listview){:target="_blank"} (Udemy)
-* [NxtLightSensor](https://www.udemy.com/app-inventor-2-nxtlightsensor){:target="_blank"} (Udemy)
-* [Slider e Introducción](https://www.udemy.com/slider-introduccion-a-appinventor){:target="_blank"} (Udemy)
-* [Videoplayer](https://www.udemy.com/app-inventor-2-videoplayer){:target="_blank"} (Udemy)
-
-[⏫ Subir a Programación Infantil 👦](/cursos-tecnologia/#-programación-infantil){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
-## Scratch <i class="fas fa-paw"></i>
-
-* [Curso de Scratch](/curso-scratch-javier-fernandez) (2014. Javier Fernández, Youtube)
-* [Introducción a la programación con Scratch](https://www.udemy.com/introduccion-a-la-programacion-con-scratch){:target="_blank"} (Udemy)
-* [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed){:target="_blank"} (MiriadaX)
-* [Scratch, su Historia y Cómo usarlo junto a Arduino](/scratch-historia-como-usarlo-junto-a-arduino) (Youtube)
-* [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar){:target="_blank"} (Coursera)
-* [Videojuegos con Scratch -12 juegos-](/videojuegos-scratch-programo-ergo-sum) (Youtube) (2016)
-<!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
-
-[⏫ Subir a Programación Infantil 👦](/cursos-tecnologia/#-programación-infantil){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-<!-- Programo Ergo Sum: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists -->
 
 ## 👨‍💻 Lenguajes de Programación
 
@@ -748,137 +815,198 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## 👩‍💻 Desarrollo Web
+## 💼 Metodologías de Desarrollo
 
-[Android <i class="fab fa-android"></i>](/cursos-tecnologia/#android-){: .btn .btn--inverse .btn--large} [Angular <i class="fab fa-angular"></i>](/cursos-tecnologia/#angular-){: .btn .btn--inverse .btn--large} [PHP Framework <i class="fab fa-php"></i>](/cursos-tecnologia/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/cursos-tecnologia/#docker-){: .btn .btn--inverse .btn--large} [Ionic](/cursos-tecnologia/#ionic){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/cursos-tecnologia/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/cursos-tecnologia/#swift-){: .btn .btn--inverse .btn--large}
+[Integración Continua](/cursos-tecnologia/#integracion-continua){: .btn .btn--inverse .btn--large} [Grunt <i class="fab fa-grunt"></i>](/cursos-tecnologia/#grunt-){: .btn .btn--inverse .btn--large} [Estudiar 💭](/cursos-tecnologia/#estudiar-){: .btn .btn--inverse .btn--large}
 
-* [Curso básico de Backbone.js](https://devcode.la/cursos/curso-basico-de-backbonejs){:target="_blank"} (DevCode)
-* [Curso de Firebase](https://www.youtube.com/playlist?list=PLEtcGQaT56chIjXff_cAEglfe6gBSNFHj) (Jesús Conde, Youtube)
-* [De Novato a Desarrollador Exitoso](https://www.udemy.com/de-novato-a-desarrollador-exitoso){:target="_blank"} (Udemy)
-* [Introducción al desarrollo web](https://www.youtube.com/playlist?list=PLfYLq8pbpMkBrFwrC-G2yI2GgCwClEouj){:target="_blank"} (iDESWEB, YouTube)
+* [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank"} (Udemy)
+* [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-){:target="_blank"} (MiriadaX)
+* [Aspectos básicos de la planificación y la gestión de proyectos](https://www.coursera.org/learn/uva-darden-project-management-es){:target="_blank"} (Coursera)
+* [Cómo implantar grupos de mejora de procesos](https://www.EDX.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0){:target="_blank"} (EDX)
+* [Curso de Git y Github](https://www.youtube.com/playlist?list=PL353A30C7CCE5098F){:target="_blank"} (Jesús Conde, Youtube)
+* [Curso de Patrones de Diseño de Software](/crear-patrones-de-dise%C3%B1o-de-software-con-jap-software/) (Jap Software, Youtube)
+* [De la idea al plan de proyectos en 10 pasos (2014)](https://ocw.ehu.eus/course/view.php?id=336){:target="_blank"} (OCW)
+* [Fundamentos de Git y Github](https://devcode.la/cursos/git){:target="_blank"} (DevCode)
+* [Gestión de proyectos (2013)](https://ocw.ehu.eus/course/view.php?id=202){:target="_blank"} (OCW)
+* [Gestión de proyectos con metodologías ágiles y enfoques Lean](https://miriadax.net/web/gestion-de-proyectos-con-metodologias-agiles-y-enfoques-lean-3-edicion-){:target="_blank"} (MiriadaX)
+* [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23){:target="_blank"} (OCW)
+* [Gestión de proyectos Software con Git y Github](https://miriadax.net/web/gitmooc/inicio){:target="_blank"} (MiriadaX)
+* [Gestión Participativa](https://www.EDX.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0){:target="_blank"} (EDX)
+* [Git y Github Avanzado](https://www.youtube.com/playlist?list=PLxyfMWnjW2kvHLzz87dMz7vy2At2pYlj_){:target="_blank"} (Make it Real, YouTube)
+* [Groupware en la gestión del conocimiento (2014)](https://ocw.ehu.eus/course/view.php?id=326){:target="_blank"} (OCW)
+* [Ingeniería del Software I (2011)](https://ocw.unican.es/course/view.php?id=169){:target="_blank"} (OCW)
+* [Ingeniería del Software II (2011)](https://ocw.unican.es/course/view.php?id=170){:target="_blank"} (OCW)
+* [Integración continua con Github Education y Travis](https://www.udemy.com/integracion-continua-con-github-education-y-travis){:target="_blank"} (Udemy)
+* [Introducción a experimentación Lean](https://www.udemy.com/introduccion-a-experimentacion-lean){:target="_blank"} (Udemy)
+* [Introducción a Git, Github & SourceTree](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-git-github-sourcetree){:target="_blank"} (Keep Coding)
+* [Introducción a la Gestión de Proyectos](https://www.EDX.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x){:target="_blank"} (EDX)
+* [Introducción a Ingeniería del Software](https://www.edx.org/course/introduccion-a-la-ingenieria-del-software){:target="_blank"} (EDX \ Universidad Autónoma de Madrid)
+* [JUnit: Pruebas unitarias para Java](https://www.makigas.es/series/junit){:target="_blank"} (makigas)
+* [Metodología de Desarrollo Visual (2012)](http://ocw.uc3m.es/ingenieria-informatica/metodologia-de-desarrollo-visual){:target="_blank"} (OCW)
+* [Metodología de marco lógico (2017)](https://www.udemy.com/metodologia-de-marco-logico){:target="_blank"} (Udemy)
+* [Métodos y técnicas del trabajo corporativo (2008)](http://ocw.uc3m.es/ingenieria-informatica/metodos-y-tecnicas-de-trabajo-corporativo){:target="_blank"} (OCW)
+* [Organización y gestión del proyecto (2009)](https://ocw.unican.es/course/view.php?id=207){:target="_blank"} (OCW)
+* [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158){:target="_blank"} (OCW)
+* [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119){:target="_blank"} (OCW)
 
-## Android <i class="fab fa-android"></i>
+## Integración Continua
 
-* [Android: Fundamentos para crear tus primeras apps de calidad](https://www.udemy.com/fundamentos-de-android-para-crear-apps-de-calidad){:target="_blank"} (Udemy)
-* [Android Studio: Instalación, emuladores, git, plugins y tips](https://www.udemy.com/android-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank"} (Udemy)
-* [Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56chEhBYGzWJo8V5mmQABmRJe){:target="_blank"} (Jesús Conde, Youtube)
-* [Aprende a programar tu primera app](https://www.EDX.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4){:target="_blank"} (EDX)
-* [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank"} (MiriadaX)
-* [Curso básico de Android](https://devcode.la/cursos/curso-basico-de-android){:target="_blank"} (DevCode)
-* [Curso de Android con Android Studio](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P){:target="_blank"} (Pildoras Informáticas, Youtube)
-* [Curso de Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank"} (Jesús Conde, Youtube)
-* [Curso de Aplicaciones Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank"} (Jesús Conde, Youtube)
-* [Desarrollo en HTML5, CSS y JavaScript de Apps Web, Android..](https://miriadax.net/web/html5mooc/inicio){:target="_blank"} (MiriadaX)
-* [Introducción a fundamentos Android, ¡Desarrolla una app completa!](https://plataforma.keepcoding.io/p/curso-gratis-fundamentos-android-online){:target="_blank"} (Keep Coding)
-* [Introducción a la programación Android](https://www.EDX.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1){:target="_blank"} (EDX)
-* [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130){:target="_blank"} (OCW)
-* [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX){:target="_blank"} (Jesús Conde, Youtube)
+* [Domina Jenkins CI para DevOps y Desarrolladores](https://www.udemy.com/domina-jenkins-ci-para-devops-y-desarrolladores){:target="_blank"} (Udemy)
 
-### Flutter
+## Grunt <i class="fab fa-grunt"></i>
 
-* [Curso de Flutter](https://www.youtube.com/watch?v=SUINwMn4Tcw&list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_) (Gyga Code, Youtube)
+* [Grunt JS de 0 a 100](https://www.udemy.com/de-0-a-100-con-grunt-js){:target="_blank"} (Udemy)
 
-[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+### Estudiar 💭
 
-## Angular <i class="fab fa-angular"></i>
+* [Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles](https://www.coursera.org/learn/aprendiendo-a-aprender){:target="_blank"}
 
-* [Angular: Convierte cualquier template HTML en una WebAPP](https://www.udemy.com/html-hacia-angular){:target="_blank"} (Udemy)
-* [Angular: Fundamentos desde cero](https://www.udemy.com/curso-angular){:target="_blank"} (Udemy)
-* [Angular 2 básico](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd){:target="_blank"} (Jesús Conde, YouTube)
-* [Angular 2 y 4, componentes](https://www.udemy.com/componentes-angular-101){:target="_blank"} (Udemy)
-* [Angular 4: convertir un template HTML en una aplicación web](https://www.udemy.com/html-hacia-angular){:target="_blank"} (Udemy)
-* [Angular 4: instalación y componentes](https://www.udemy.com/introduccion-a-angular-4){:target="_blank"} (Udemy)
-* [Angular 5 y TypeScript; Introducción](https://www.udemy.com/angular-5-y-typescript-curso-de-introduccion-paso-a-paso){:target="_blank"} (Udemy) (2.017)
-* [Compodoc: crea documentación en proyectos Angular/Ionic](https://www.udemy.com/compodoc-crea-documentacion-en-angular-ionic){:target="_blank"} (Udemy)
-* [Curso de Angular 2](https://www.youtube.com/playlist?list=PLIcuwIrm4rKfkfJjKZ45oIskF9pI9p9n6){:target="_blank"} (Desarrolloweb.com, Youtube)
-* [Curso de Angular 2](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd){:target="_blank"} (Jesús Conde, Youtube)
-* [Curso de Angular 4](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8-9vxaY4BHRB9wlzUgPzD1){:target="_blank"} (Eduardo Ibarra, Youtube)
-* [Curso de Angular 4](https://www.youtube.com/playlist?list=PLEtcGQaT56chhi-qsqxIrUG_n9pXYCZ8z){:target="_blank"} (Jesús Conde, Youtube)
-* [Curso de Angular JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgHfdvGguisToK90z321pRl){:target="_blank"} (Jesús Conde, Youtube)
-* [Empezando con Angular 5](https://www.udemy.com/empezando-con-angular-5){:target="_blank"} (Udemy)
-* [Introducción a Angular 6](https://plataforma.keepcoding.io/p/curso_angular_6_intro){:target="_blank"} (Keep Coding)
-* [Introducción curso fundamentos Angular JS + HTML5 + CSS3](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-html5-css3-angular){:target="_blank"} (Keep Coding)
+[⏫ Subir a Metodologías](/cursos-tecnologia/#-metodologías-de-desarrollo){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+## 💻 Ofimática
 
-## Docker <i class="fab fa-docker"></i>
+[Acces](/cursos-tecnologia/#acces){: .btn .btn--inverse .btn--large} [Excel](/cursos-tecnologia/#excel){: .btn .btn--inverse .btn--large} [Google Drive](/cursos-tecnologia/#google-drive){: .btn .btn--inverse .btn--large} [Presentaciones](/cursos-tecnologia/#presentaciones){: .btn .btn--inverse .btn--large} [Software Libre](/cursos-tecnologia/#software-libre){: .btn .btn--inverse .btn--large} [Otros](/cursos-tecnologia/#presentaciones){: .btn .btn--inverse .btn--large} [Word](/cursos-tecnologia/#word){: .btn .btn--inverse .btn--large}
 
-* [Curso de Docker](https://www.youtube.com/playlist?list=PLEtcGQaT56chIpnSavOSvaU2ZGAW7d1vE){:target="_blank"} (Jesús Conde, Youtube)
-* [Creación de una Imagen con Docker](/spring-boot-docker-con-albert-coronado/) (Albert Coronado, Youtube) (2019)
-* [Docker](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS){:target="_blank"} (JGAITPro, YouTube)
-* [Iniciando con Containers en Dockers](https://www.udemy.com/iniciando-con-containers-en-docker){:target="_blank"} (Udemy)
-* [Introducción al backend en PHP y MySQL (+ Docker)](https://www.udemy.com/course/introduccion-al-backend-en-php-y-mysql-docker){:target="_blank"}
+## Office
 
-[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+* [Microsoft Office 2013](https://www.youtube.com/playlist?list=PL2994D8A0985CFC9A) (Pablo Martinez, YouTube)
 
-## Ionic
+### Acces
 
-* [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He){:target="_blank"} (Eduardo Ibarra, Youtube)
-* [Curso de Ionic + Firebase](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_uPaY3MSr3dqG9DJTJ-XVC) (Eduardo Ibarra, Youtube)
-* [Curso de Ionic 2](https://www.youtube.com/playlist?list=PLEtcGQaT56chDQiMXvyee6XElAF4Bod4f) (Jesús Conde, Youtube)
-* [Curso de Ionic: Aprende a crear una aplicación móvil](https://www.youtube.com/playlist?list=PLPl81lqbj-4IzylAHYigeNB_Pob2WGGEG) (Eduardo Ibarra, Youtube)
-* [Curso de Ionic Framework](https://www.youtube.com/playlist?list=PLYPjmy5IVxT-7FV0uzpG2izFhGoE0Hq2y) (Eduardo Ibarra, Youtube)
-* [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He){:target="_blank"} (Eduardo Ibarra, Youtube)
-* [Ionic](https://www.youtube.com/playlist?list=PLEtcGQaT56chdXOZeYY8uyFeHqDZQqgVg){:target="_blank"} (Jesús Conde, YouTube)
-* [Ionic: crear una aplicación iOS o Android](https://www.udemy.com/curso-de-ionic-aprende-a-crear-una-aplicacion-ios-o-android){:target="_blank"} (Udemy)
-* [Ionic, introducción y creación de una app](https://www.youtube.com/playlist?list=PLEtcGQaT56chdXOZeYY8uyFeHqDZQqgVg){:target="_blank"} (Jesús Conde, Youtube)
+* [Curso de Acces 2010 Avanzado](https://www.youtube.com/playlist?list=PL87EB5DB749276DAF){:target="_blank"} (Jesús Conde, Youtube)
+* [Curso de Acces 2010 Básico](https://www.youtube.com/playlist?list=PLDA8B66B264169835){:target="_blank"} (Jesús Conde, Youtube)
+* [Curso VBA Acces](https://www.youtube.com/playlist?list=PLC3E8FA619DF71898){:target="_blank"} (Jesús Conde, Youtube)
+* [Diseño de sistemas de información gerencial para intranet con Microsoft Access](https://www.edx.org/course/diseno-de-sistemas-de-informacion-gerencial-para-2){:target="_blank"} (EDX \ Universidad del Rosario)
 
-## JQuery
+### Excel
 
-* [JQuery para implementar tus aplicaciones web (2017)](https://www.udemy.com/aprende-jquery-para-implementar-tus-aplicaciones-web){:target="_blank"} (Udemy)
-* [jQuery UI - Amplia los límites de jQuery](https://www.udemy.com/jquery-ui-amplia-los-limites-de-jquery){:target="_blank"} (Udemy)
+* [Aprende fácilmente funciones en Excel](https://www.udemy.com/aprende-facilmente-funciones-en-excel){:target="_blank"} (Udemy)
+* [Curso de Excel 2010 Avanzado](https://www.youtube.com/playlist?list=PLFED09792AB0E606F){:target="_blank"} (Jesús Conde, Youtube)
+* [Curso de Excel 2010 Básico](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkCs-P-AnQhxsSyxSxv9jfI){:target="_blank"} (Jesús Conde, Youtube)
+* [Curso VBA Excel](https://www.youtube.com/playlist?list=PLF79C9D65E1EC4807){:target="_blank"} (Jesús Conde, Youtube)
+* [Domina Excel 2013; Básico e Intermedio](https://www.udemy.com/domina-excel-2013-basico-intermedio-en-menos-de-4-horas){:target="_blank"} (Udemy)
+* [Excel 1 (Básico)](https://www.EDX.org/course/excel-upvalenciax-xls101x-1){:target="_blank"} (EDX)
+* [Excel 2 (Gestión de Datos)](https://www.EDX.org/course/excel-2-gestion-de-datos-upvalenciax-xls201x){:target="_blank"} (EDX)
+* [Excel 2013: Intermedio/Avanzado](https://www.youtube.com/playlist?list=PLmJE_P_j3_IedCBho8XsiqJ_7zNpdRHuX){:target="_blank"} (WHYGS, YouTube)
+* [Excel 2016 Avanzado](https://www.youtube.com/playlist?list=PLLniqWgyb4HGYSJQySM46YNNRHF0_2POA){:target="_blank"} (Dostin Hurtado, YouTube)
+* [Funciones de Excel. Píldoras Rápidas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnCoBbzTNcA756BvMREA6Hl){:target="_blank"} (Pildoras Informáticas, Youtube)
+* [Funciones en Excel 2013](https://www.youtube.com/playlist?list=PLEjoYXWNBV2N-TbJXimHXWqgP_kvB7i7F){:target="_blank"} (Franklin Parrado Fuentes, YouTube)
+* [Introducción a Excel 2010](https://www.udemy.com/introduccion-a-excel-2010){:target="_blank"} (Udemy)
+* [Macros en Excel 2013](https://www.youtube.com/playlist?list=PLssmz9LfwThwB1vNne20qW6d51juop_Dl){:target="_blank"} (Tecnoges, YouTube)
+* [Macros y VBA para Excel desde cero](https://www.udemy.com/macros-y-vba-para-excel-desde-cero){:target="_blank"} (Udemy)
+* [Operaciones financieras en Excel](https://www.youtube.com/playlist?list=PLFNWPvtjBMjtG2o48zgCj2fItp53dPBc4) (Excel y Más, YouTube)
 
-## Node <i class="fab fa-node-js"></i>
+### Powerpoint
 
-* [Crear una REST API desde Cero con NodeJS y AdonisJS](https://www.udemy.com/course/curso-crea-una-rest-api-desde-cero-con-nodejs-y-adonisjs/){:target="_blank"} (Udemy) (2019)
-* [Curso de NodeJS](https://www.youtube.com/playlist?list=PL38CA7BD8CB5F3FF9){:target="_blank"} (Jesús Conde, Youtube)
-* [Desarrollo API Web Restful con NodeJS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgMsG-eOksskBHIb9Rq4VUG){:target="_blank"} (Jesús Conde, YouTube)
-* [Desarrollo de servicios en la nube con HTML5, JavaScript y node.js](https://miriadax.net/web/desarrollo-de-servicios-en-la-nube-con-html5-javascript-y-nodejs-2-edicion-){:target="_blank"} (MiriadaX)
-* [Introducción a JavaScript y Node.js](https://plataforma.keepcoding.io/p/intruduccion-javascript-node-js-express-mongodb-gratis){:target="_blank"} (Keep Coding)
-* [NodeJS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY3gY-ptuqkNEXZHsNwlkND){:target="_blank"} (Jon Mircha, YouTube)
-* [NodeJS](https://www.youtube.com/watch?v=VHOd-RBj1MA&list=PLvimn1Ins-41lVr-SPWF1mdNTzog05TcA){:target="_blank"} (Mito Code, Youtube)
-* [Taller de NodeJS](https://plataforma.keepcoding.io/p/nodejs-bundle-web-bootcamp){:target="_blank"}
+* [Curso Powerpoint 2013](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmWjtgpPMSVRKu-g8SoAntx){:target="_blank"} (Pildoras Informáticas, Youtube)
+* [Diseña presentaciones eficaces con PowerPoint](https://www.EDX.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
+* [Introducción a PowerPoint 2010](https://www.udemy.com/introduccion-a-powerpoint-2010){:target="_blank"} (Udemy)
+* [Introducción al PowerPoint 2013](https://www.udemy.com/introduccion-al-powerpoint-2013){:target="_blank"} (Udemy)
+* [Microsoft Powerpoint 2013](https://www.youtube.com/playlist?list=PL5vjFJ0wFekJnqeP2qZNHGft7SoIGJu8B) (Yoney Gallardo, YouTube)
 
-## PhoneGap (Apache Cordoba)
+### Word
 
-* [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank"} (MiriadaX)
+* [Curso de Word 2010 Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnPxtSjts4Tieg4AbIRYz1K){:target="_blank"} (Jesús Conde, Youtube)
+* [Introducción a Word 2010](https://www.udemy.com/introduccion-a-word-2010){:target="_blank"} (Udemy)
+* [Microsoft Word 2013](https://www.youtube.com/playlist?list=PLomN84AdULIAyCVh5aH55gkbANr7dBctW){:target="_blank"} (Aula Click, YouTube)
+* [Word intermedio: herramientas de formato y productividad](https://www.EDX.org/es/course/word-intermedio-herramientas-de-formato-y-producti){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)
 
-## React <i class="fab fa-react"></i>
+### Google Drive
 
-* [Aprender React JS](https://www.udemy.com/course/aprendiendo-react/){:target="_blank"} (Udemy)
-* [Fundamentos de React](https://www.youtube.com/playlist?list=PLpOqH6AE0tNg-6kaolSnySpJ0vxk3Xhoo){:target="_blank"} (Youtube) (2019)
-* [React Hooks: Guia inicial utilizando Redux y Material.UI](https://www.udemy.com/course/react-hooks-guia-inicial-utilizando-redux-y-materialui/){:target="_blank"} (Udemy)
-* [React JS - Curso de introducción desde cero y primeros pasos](https://www.udemy.com/course/react-js-curso-de-introduccion-desde-cero-y-primeros-pasos/){:target="_blank"} (Udemy)
-* [React JS: Inicia en el mundo de los Frameworks de JavaScript](https://www.udemy.com/course/react-js-inicia-en-el-mundo-de-los-frameworks-de-javascript/){:target="_blank"} (Udemy)
-* [Introducción a Tecnologías del Desarrollo con los Mejores](https://www.udemy.com/course/masters-desarrollo/){:target="_blank"} - (Variado COBOL, Go, Nodejs, GraphQL, React, Spring) (Udemy)
+* [Aprende a usar Google Drive de una manera fácil y sencilla](https://www.udemy.com/aprende-a-usar-google-drive-de-una-manera-facil-y-sencilla){:target="_blank"} (Udemy)
+* [Domina la hoja de cálculo de Google sin esfuerzo](https://www.udemy.com/domina-la-hoja-de-calculo-de-google-sin-esfuerzo){:target="_blank"} (Udemy)
 
-### React Native
+### Presentaciones
 
-* [Crea tu propio Netflix con React Native con Mario Díez](/react-native-crear-aplicacion-como-netflix-con-mario-diez/){:target="_blank"}
-* [React Native con Iván B. Trujillo](/react-native-con-ivan-b-trujillo/){:target="_blank"}
-* [React Native con Mario Díez](/react-native-con-mario-diez/){:target="_blank"}
-* [React Native por Ciencia del Aprendizaje Fácil](/react-native-desde-ciencia-del-aprendizaje-facil/){:target="_blank"}
+* [Cómo hacer screenshots para tus APPS de manera fácil](https://www.udemy.com/como-hacer-screenshots-para-tus-apps-de-manera-facil){:target="_blank"} (Udemy)
 
-## Software
+### Historia Informática
 
-### Editores de Código
+* [Computación básica desde cero](https://www.udemy.com/computacion-basica-desde-cero-hasta-redes-sociales){:target="_blank"} (Udemy)
 
-* [Editores de Código: Brackets & Edge Code](https://www.udemy.com/brackets-edge-code){:target="_blank"} (Udemy)
-* [Editores de Código: Visual Studio Code y Sublime Text](https://www.udemy.com/course/visual-studio-code-y-sublime-text-se-rapido-para-codificar/){:target="_blank"} (Udemy) (2019)
-* [Herramientas de desarrollo y diseño web](https://www.udemy.com/recursos-web-plugins-y-utilidades){:target="_blank"} (Udemy)
-* [Herramientas para el desarrollador web](https://www.udemy.com/herramientas-para-el-desarrollador-web){:target="_blank"} (Udemy)
+### Contabilidad
 
-### Navegadores
+* [Contabilidad básica](https://www.academiajaf.com/como/aprender/contabilidad/contabilidad-curso-basico/135-capitulo-001-introduccion-a-la-contabilidad){:target="_blank"} (Academia JAF)
 
-* [Los Mejores Trucos con las Herramientas de Desarrollo de Chrome](/trucos-herramientas-desarrollo-de-chrome/){:target="_blank"} (Udemy)
+### Software Libre
 
-## Vue <i class="fab fa-vuejs"></i>
+* [Creación y retoque de imágenes con software libre](https://miriadax.net/web/creacion-y-retoque-2-ed){:target="_blank"} (MiriadaX)
 
-* [Aprende VUE2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso){:target="_blank"} (WMedia)
-* [Curso de Vue JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cggm3J7XLzLUw_cgChgNYcQ){:target="_blank"} (Jesús Conde, Youtube)
-* [Primera aplicación con Vuejs 2, Vuez y SocketIO](https://www.udemy.com/primera-aplicacion-con-vuejs-2-vuex-y-socketio){:target="_blank"} (Udemy)
+## Gestión e Informática
 
-[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+* [Informática de Gestión (2009)](http://ocw.uc3m.es/ingenieria-informatica/informatica-de-gestion){:target="_blank"} (OCW)
+* [Informática de Gestión (2010)](https://ocw.ehu.eus/file.php/122/Informatica_gestion/Course_listing.html){:target="_blank"} (OCW)
+* [Informática de Gestión II (2012)](http://ocw.ugr.es/course/view.php?id=86){:target="_blank"} (OCW)
+* [Informática desde Cero](https://www.udemy.com/informatica-desde-cero){:target="_blank"} (Udemy)
+
+### Otros
+
+* [Curso de OBS: Software de Streaming](https://aulasoftwarelibre.github.io/taller-de-obs-docs/){:target="_blank"}
+* [Informática Aplicada a la Gestión Pública](https://www.udemy.com/introduccion-a-outlook-2010){:target="_blank"} (Universidad de Murcia) (2011)
+* [Introducción a Outlook 2010](https://www.udemy.com/introduccion-a-outlook-2010){:target="_blank"} (Udemy)
+* [LibreOffice Writer](https://www.youtube.com/playlist?list=PLLLaU95AMQPqAgeXCjQgXawAPABR19U2k){:target="_blank"} (VideoTutoriales Education, YouTube)
+* [Microsoft Project 2013](https://www.youtube.com/playlist?list=PL7Sb5pi3h9JigadkTKlbhxBFTptqN-tHY){:target="_blank"} (Grupo Ephyco, YouTube)
+* [OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice){:target="_blank"} (MiriadaX)
+* [OpenOffice Calc. Gestión de datos sobre hojas de cálculo (2014)](https://ocw.unican.es/course/view.php?id=61){:target="_blank"} (OCW)
+* [Presentaciones eficaces (2012)](https://ocw.unican.es/course/view.php?id=188){:target="_blank"} (OCW)
+* [Software libre (2006)](http://ocw.upm.es/ciencia-de-la-computacion-e-inteligencia-artificial/software-libre){:target="_blank"} (OCW)
+* [Software Libre: Ofimática con OpenOffice](https://miriadax.net/web/software-libre-ofimatica-con-openoffice) {:target="_blank"} (MiriadaX)
+* [Software Libre y Conocimiento en Abierto](https://miriadax.net/web/soft_libre_y_conocimiento/inicio){:target="_blank"} (MiriadaX)
+* [Subtitulación de Vídeos](https://miriadax.net/web/subtitular-en-linea-2-edicion-){:target="_blank"} (MiriadaX)
+
+## ArcGIS
+
+* [Publicación y Análisis de mapas en la Web con ArcGIS Online](https://www.udemy.com/arcgis-online){:target="_blank"} (Udemy)
+
+[⏫ Subir a Ofimática](/cursos-tecnologia/#-ofimática){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## 🔨 Procesadores de Lenguaje
+
+* [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949){:target="_blank"} (OCW)
+* [Microprocesadores (2006)](http://ocw.upm.es/tecnologia-electronica/microprocesadores){:target="_blank"} (OCW)
+* [Procesadores de lenguaje (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/procesadores-de-lenguaje-2006.html){:target="_blank"} (OCW)
+* [Procesadores de Lenguaje (2012)](http://ocw.uji.es/curso/5180){:target="_blank"} (OCW)
+* [Procesadores de lenguajes -enfocado en Perl- ](https://campusvirtual.ull.es/ocw/course/view.php?id=45){:target="_blank"} (OCW)
+* [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56){:target="_blank"} (OCW)
+* [Traductores, compiladores e intérpretes](http://ocw.uma.es/ingenierias/traductores-compiladores-e-interpretes){:target="_blank"} (OCW)
+
+[⏫ Subir a Procesadores](/cursos-tecnologia/#-procesadores){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+## 👦 Programación Infantil
+
+[App Inventor](/cursos-tecnologia/#app-inventor){: .btn .btn--inverse .btn--large} [Scratch <i class="fas fa-paw"></i>](/cursos-tecnologia/#scratch-){: .btn .btn--inverse .btn--large}
+
+### App Inventor
+
+* [Como usar el componente Sound](https://www.udemy.com/como-usar-el-componente-sound-sin-morir-en-el-intento){:target="_blank"} (Udemy)
+* [Componente Contact Picker](https://www.udemy.com/app-inventor-2-componente-contact-picker){:target="_blank"} (Udemy)
+* [Componente HorizontalArrangement](https://www.udemy.com/app-inventor-y-su-componente-horizontalarrangement){:target="_blank"} (Udemy)
+* [Componente Polygon](https://www.udemy.com/app-inventor-2-componente-polygon){:target="_blank"} (Udemy)
+* [Componente SoundRecorder](https://www.udemy.com/curso-del-componente-soundrecorder-de-app-inventor){:target="_blank"} (Udemy)
+* [Componente Yandex. Translate](https://www.udemy.com/app-inventor-2-componente-yandextranslate){:target="_blank"} (Udemy)
+* [Descubre Rectangle](https://www.udemy.com/componente-rectangle-maps-app-inventor){:target="_blank"} (Udemy)
+* [Dragged y Flung](https://www.udemy.com/app-inventor-a){:target="_blank"} (Udemy)
+* [Ev3 Commands y App Inventor](https://www.udemy.com/ev3-commands){:target="_blank"} (Udemy)
+* [ImagePicker](https://www.udemy.com/appinvento2-imagepicker){:target="_blank"} (Udemy)
+* [ListView](https://www.udemy.com/app-inventor-listview){:target="_blank"} (Udemy)
+* [NxtLightSensor](https://www.udemy.com/app-inventor-2-nxtlightsensor){:target="_blank"} (Udemy)
+* [Slider e Introducción](https://www.udemy.com/slider-introduccion-a-appinventor){:target="_blank"} (Udemy)
+* [Videoplayer](https://www.udemy.com/app-inventor-2-videoplayer){:target="_blank"} (Udemy)
+
+[⏫ Subir a Programación Infantil 👦](/cursos-tecnologia/#-programación-infantil){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
+### Scratch <i class="fas fa-paw"></i>
+
+* [Curso de Scratch](/curso-scratch-javier-fernandez) (2014. Javier Fernández, Youtube)
+* [Introducción a la programación con Scratch](https://www.udemy.com/introduccion-a-la-programacion-con-scratch){:target="_blank"} (Udemy)
+* [Robots y videojuegos en las aulas: Scratch y Arduino](https://miriadax.net/web/robots-videojuegos-aulas-scratch-arduino-profesores-3ed){:target="_blank"} (MiriadaX)
+* [Scratch, su Historia y Cómo usarlo junto a Arduino](/scratch-historia-como-usarlo-junto-a-arduino) (Youtube)
+* [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar){:target="_blank"} (Coursera)
+* [Videojuegos con Scratch -12 juegos-](/videojuegos-scratch-programo-ergo-sum) (Youtube) (2016)
+<!-- Cursos Pendientes: scratch docentes: https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg , Canal Programamos: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists, -->
+
+[⏫ Subir a Programación Infantil 👦](/cursos-tecnologia/#-programación-infantil){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+<!-- Programo Ergo Sum: https://www.youtube.com/channel/UCxOl75aSJE7XpZrLdS8gtCg/playlists -->
 
 ## Programación Web 👩‍💻
 
@@ -916,133 +1044,6 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [Swift 5 y Xcode 10 - Crea una App Calculadora desde 0 en iOS](https://www.udemy.com/course/curso-swift-5-xcode-10-crea-una-app-desde-cero-en-ios)
 * [Programando Apps de iOS](https://www.udemy.com/programando-apps-para-ios){:target="_blank"} (Udemy)
 * [XCode para iOS, iOS 6.1, Xcode 4.6](https://www.youtube.com/playlist?list=PLrfF-ThuRn5AqHTeS4W-5VPvCPLI8ioqs){:target="_blank"} (Eugenio Mendoza Robaina, YouTube)
-
-[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
-## 👨‍🎨 Diseño Web
-
-[Bootstrap <i class="fab fa-bootstrap"></i>](/cursos-tecnologia/#bootstrap-){: .btn .btn--inverse .btn--large} [Lenguajes de Estilos y Preprocesadores 🎨](/cursos-tecnologia/#lenguajes-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/cursos-tecnologia/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/cursos-tecnologia/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large}
-
-_____
-
-* [Adobe XD: Aprende a crear prototipos profesionales desde 0](https://www.udemy.com/curso-adobe-xd) (Udemy)
-* [Como crear una web básica desde cero](👨‍🏫-curso-crear-pagina-web-basica-desde-cero) (Purito Código, Youtube)
-* [Crea tu página web sin códigos ni complicaciones](https://www.udemy.com/crea-tu-pagina-web-sin-codigos-ni-complicaciones){:target="_blank"} (Udemy)
-* [Curso básico de Responsive Web Design](https://devcode.la/cursos/curso-basico-de-responsive-web-design){:target="_blank"} (DevCode)
-* [Curso de Diseño Web](https://www.youtube.com/playlist?list=PLhSj3UTs2_yXDfpTsKGd2iZTXZnsOTC8h) (Falcon Masters, Youtube)
-* [Desarrolla una página web con HTML y CSS](https://www.crehana.com/cursos/diseno-web/desarrolla-una-pagina-web-con-html-y-css){:target="_blank"} (Crehana)
-* [Diseño web con HTML5+CSS](https://miriadax.net/web/diseno-web-con-html5-css-2-edicion-){:target="_blank"} (MiriadaX)
-* [Diseño web creando un sitio web, paso a paso (2.017)](https://www.udemy.com/diseno-web-aprende-creando-un-sitio-web){:target="_blank"} (Udemy)
-* [Fundamentos del diseño UX](https://www.crehana.com/cursos/uxui/fundamentos-del-diseno-ux){:target="_blank"} (Crehana)
-* [Interfaces de usuario (2009)](http://ocw.uc3m.es/ingenieria-informatica/interfaces-de-usuario){:target="_blank"} (OCW)
-* [Menus responsive](http://jotajotavm.com/Menus-Responsive-00-Introduccion.html){:target="_blank"} (jotajotavm)
-* [Tutoriales de Diseño Web](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWwhmEyzXsTFnNXfatVMAfT){:target="_blank"} (Falcon Masters, Youtube)
-
-## Bootstrap <i class="fab fa-bootstrap"></i>
-
-* [Aprende a crear Landing Pages con Bootstrap 3 o Instapage](https://www.udemy.com/crea-una-landing-page-que-enamore-sin-saber-programar) (Udemy)
-* [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4) (Udemy)
-* [Bootstrap 4! Desde Cero](https://www.udemy.com/bootstrap-4-curso-desde-cero-2017-espanol) (Udemy)
-* [Bootstrap 4. Fundamentos: crea tu primer sitio responsive](https://www.udemy.com/curso-fundamentos-de-bootstrap-4) (Udemy)
-* [Crear temas para Wordpress utilizando Bootstrap 4](/👨‍🏫-curso-creacion-tema-wordpress-bootstrap-bluuweb) (Bluuweb!, YouTube)
-* [Curso completo de Boostrap 4! 2017 desde cero](https://www.youtube.com/playlist?list=PLPl81lqbj-4IcaAluUlCTmbYz0h9XQ8U1) (Bluuweb!, Youtube)
-* [Curso de Bootstrap 3](https://devcode.la/cursos/bootstrap3) (DevCode)
-* [Curso de Bootstrap 3](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-3-falcon-masters) (Falcon Masters, Youtube)
-* [Curso de Bootstrap 4](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-4-aula-ideal) (Aula Ideal, YouTube)
-* [Curso de Bootstrap 4](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-3-falcon-masters) (Blueeweb, Youtube)
-* [Curso de Bootstrap 4](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-4-falcon-masters) (Falcon Masters, YouTube)
-* [Curso de Bootstrap 4](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-4-yoney-gallardo) (Yoney Gallardo, Youtube) (1 Vídeo)
-* [Curso de Material Design y Boostrap 4 por Bluuweb](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-material-design-bootstrap-4-bluuweb) (Bluuweb!, YouTube)
-* [La biblia perdida de Bootstrap 4](https://www.udemy.com/curso-la-biblia-perdida-de-bootstrap-4) (Udemy)
-* [PSD a HTML con Bootstrap 4!](https://www.udemy.com/curso-de-psd-a-html-con-bootstrap-4) (Udemy)
-
-## Dreamweaver <i class="fab fa-adobe"></i>
-
-* [Diseño de páginas web con Photoshop CS6](https://www.youtube.com/playlist?list=PLPl81lqbj-4Im51L2JZZZ2AxQ6u7b8HS6){:target="_blank"} (Bluuweb!, YouTube)
-* [Diseño de páginas web en Photoshop 6](https://www.udemy.com/curso-diseno-de-paginas-web-en-photoshop-cs6){:target="_blank"} (Udemy)
-* [Dreamweaver CC 2017](https://www.youtube.com/playlist?list=PLDQxj4bepx_nCFtYddm6faLvLhIb2lKCr){:target="_blank"} (Nelson Palomino, YouTube)
-* [Dreamweaver CS 4](https://www.youtube.com/playlist?list=PL2AC141307340E74B){:target="_blank"} (Aula Click, YouTube)
-* [Dreamweaver CS 5](https://www.youtube.com/playlist?list=PL7A75E72C644F2B3C){:target="_blank"} (Aula Click, YouTube)
-
-## Lenguajes de Estilos y Preprocesadores 🎨
-<!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
-
-### CSS <i class="fab fa-css3-alt"></i>
-
-* [Aprende CSS para dar estilo a tus páginas web](https://www.udemy.com/aprende-css-para-dar-estilo-a-tus-paginas-web){:target="_blank"} (Udemy)
-* [Aprende las bases del CSS](https://www.udemy.com/curso-basico-de-css){:target="_blank"} (Udemy)
-* [Como crear galerías sencillas y varios efectos en CSS Purito Código](/👨‍🏫-galerias-varios-efectos-css-purito-codigo) (Purito Código, Youtube)
-* [Curso básico de CSS desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR){:target="_blank"} (Falcon Masters, Youtube)
-* [Curso CSS Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpUDdnWSglIIHfIosElaVN) (Pildoras Informáticas, Youtube)
-* [Curso de CSS3 y Flexbox, 2017](https://www.youtube.com/playlist?list=PLPl81lqbj-4LGQgD3f0WPIol1RT8fML3u) (Bluuweb!, Youtube)
-* [CSS desde Cero](https://ed.team/cursos/css) (EdTeam)
-* [CSS Grid](/👨‍🏫-curso-css-grid-purito-codigo) (Purito Código, Youtube)
-* [CSS Variables](https://ed.team/cursos/variables-css) (EdTeam)
-
-### Flexbox
-
-* [Flexbox - Armar un sitio web responsive con CSS3](https://www.youtube.com/playlist?list=PLPl81lqbj-4JfZ9Ln5ojAl1GiORf2aK9U){:target="_blank"} (Falcon Masters, Youtube)
-* [Flexbox desde 0](https://www.udemy.com/curso-de-flexbox-desde-0){:target="_blank"} (Udemy)
-* [Flexbox y CSS3](https://www.udemy.com/css3-para-principiantes){:target="_blank"} (Udemy)
-
-## LESS <i class="fab fa-less"></i>
-
-* [LESS de cero a experto](https://www.udemy.com/less-de-cero-a-experto){:target="_blank"} (Udemy)
-
-### SASS <i class="fab fa-sass"></i>
-
-* [CSS con SASS](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVyMlZyW-NAbgjtgAgLBzFP){:target="_blank"} (Falcon Masters, YouTube)
-* [Curso de SASS Básico. Principantes paso a paso](https://www.youtube.com/playlist?list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP){:target="_blank"} (Bluuweb!, Youtube)
-* [SASS para principantes: paso a paso, desde cero](https://www.udemy.com/curso-de-sass-para-principiantes-paso-a-paso-y-desde-cero){:target="_blank"} (Udemy)
-
-## Lenguajes de Marcado ✍
-<!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml, markdown  -->
-
-### HTML <i class="fab fa-html5"></i> y CSS <i class="fab fa-css3-alt"></i>
-
-* [Aprende Fácil HTML5 y CSS3 con JQUERY y Dreamweaver desde 0](https://www.udemy.com/aprende-facil-html5-y-css3-con-jquery-y-dreamweaver-desde-0){:target="_blank"} (Udemy)
-* [Aprende HTML para hacer tus propios diseños web (2.017)](https://www.udemy.com/aprende-html5-para-hacer-tus-propios-disenos-web){:target="_blank"} (Udemy)
-* [Aprende HTML5, SASS y jQuery. Creando un sitio desde cero](https://www.udemy.com/aprende-html5-sass-y-jquery-creando-un-sitio-desde-cero){:target="_blank"} (Udemy)
-* [Aprende HTML5 y CSS3 desde cero](https://www.udemy.com/aprende-html5-y-css3-desde-cero){:target="_blank"} (Udemy)
-* [Aprende a crear menús de bebidas profesionales](https://www.udemy.com/aprende-a-crear-menues-de-bebidas-profesionales){:target="_blank"} (Udemy)
-* [Aprende a crear páginas web con HTML5 y CSS3](https://www.udemy.com/aprende-a-crear-paginas-web-con-html5-y-css3){:target="_blank"} (Udemy)
-* [Aprende a crear una página web desde 0](https://www.udemy.com/aprende-a-crear-una-pagina-web-desde-0){:target="_blank"} (Udemy)
-* [Cómo crear una página web](https://devcode.la/cursos/como-crear-una-pagina-web){:target="_blank"} (DevCode)
-* [Cómo crear una página web. Introducción a HTML5 y CSS3](https://www.udemy.com/como-crear-una-pagina-web-introduccion-a-html5-y-css3){:target="_blank"} (Udemy)
-* [Cómo crear una página web en 30 minutos](https://www.udemy.com/como-crear-una-pagina-web-en-30-minutos){:target="_blank"} (Udemy)
-* [Cómo programar para emprendedores, HTML y CSS](https://www.udemy.com/programacion-para-emprendedores){:target="_blank"} (Udemy)
-* [Curso básico de HTML desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVHt2DgHky_MzzRC58UHE4z){:target="_blank"} (Falcon Masters, Youtube)
-* [Curso de HTML5](/👨‍🏫-curso-html-purito-codigo) (Purito Código, Youtube)
-* [Curso de HTML y CSS Gratis](https://devcode.la/cursos/html-css) (DevCode)
-* [Curso de HTML5](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK) (Pildoras Informáticas, Youtube)
-* [Desarrollo Web con HTML5 y CSS3 desde cero](https://www.udemy.com/curso-html5-css3){:target="_blank"} (Udemy)
-* [Desarrollo Web Responsive con HTML5 y CSS3](https://www.udemy.com/introduccion-al-web-responsive-html5-css3){:target="_blank"} (Udemy)
-* [HTML + CSS + Javascript para principiantes. Desarrollo web](https://www.udemy.com/html5-css3-desde-0-intro-gratis-javascript){:target="_blank"} (Udemy)
-* [HTML desde Cero](https://ed.team/cursos/html) (EdTeam)
-* [HTML5](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK){:target="_blank"} (PildorasInformaticas, YouTube)
-* [HTML5 desde cero hasta crear una página web responsive](https://www.udemy.com/html-5-desde-cero-hasta-crear-una-pagina-web-responsive){:target="_blank"} (Udemy)
-* [HTML5 y CSS3 (2016)](https://www.youtube.com/watch?v=_Swi5_rmztg&list=PLPl81lqbj-4KaMYQ9nrh-NjTIcgmbL1V2){:target="_blank"} (Blueeweb!, Youtube)
-* [HTML5 y CSS3 - Paso a paso y práctico - Crea sitios web!](https://www.udemy.com/curso-html5-css3){:target="_blank"} (Udemy)
-* [Introducción a la Web Responsable con HTML5 y CSS3](https://www.udemy.com/introduccion-al-web-responsive-html5-css3/){:target="_blank"} (Udemy)
-* [Los cimientos de un desarrollador web: HTML](https://www.udemy.com/los-cimientos-de-un-desarrollador-web-html){:target="_blank"} (Udemy)
-* [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html){:target="_blank"} (OCW)
-
-### Markdown <i class="fab fa-markdown"></i>
-
-* [Aprenda Markdown desde Cero](https://www.udemy.com/course/aprenda-markdown-desde-cero/) (Udemy)
-* [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
-
-### XML
-
-* [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html){:target="_blank"} (OCW)
-
-## Polymer
-
-* [Introducción a Polymer & web componentes](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-polymer-web-components){:target="_blank"} (Keep Coding)
-
-## Sistemas de Plantillas 🌱
-<!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
-* [Pug desde Cero](https://ed.team/cursos/pug)
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -1181,7 +1182,7 @@ _____
 
 ## 🤖 Robótica
 
-[Arduino 🔦](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large} [Casas Inteligentes 🏡](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large} [Inteligencia Artificial](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large} [Inteligencia Artificial](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large}
+[Arduino 🔦](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large} [Casas Inteligentes 🏡](/cursos-tecnologia/#casas-inteligentes-){: .btn .btn--inverse .btn--large}  [Inteligencia Artificial](/cursos-tecnologia/#inteligencia-artificial){: .btn .btn--inverse .btn--large} [Raspberry Pi](/biblioteca-de-programacion-y-tecnologia/#raspberry-pi){: .btn .btn--inverse .btn--large}
 
 * [Chatbots con Chatfuel para principiantes](https://www.udemy.com/curso-chatfuel-gratis){:target="_blank"} (Udemy)
 * [Diseña, fabrica y programa tu propio robot](https://www.EDX.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x){:target="_blank"} (EDX \ Universidad Politécnica de Valencia)

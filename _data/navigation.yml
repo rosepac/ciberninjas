@@ -184,7 +184,7 @@ libros-espanol:
       - title: "👩‍💻 Desarrollo Web"
         url: /biblioteca-de-programacion-y-tecnologia/#-desarrollo-web
       - title: "👨‍🎨 Diseño Web"
-        url: /cursos-tecnologia/#-diseño-web
+        url: /biblioteca-de-programacion-y-tecnologia/#-diseño-web
       - title: "🐧 Ecosistema de Software Libre"
         url: /biblioteca-de-programacion-y-tecnologia/#-ecosistema-de-software-libre
       - title: "👨‍💻 Lenguajes de Programación"
@@ -194,7 +194,7 @@ libros-espanol:
       - title: "👦 Programación Infantil"
         url: /biblioteca-de-programacion-y-tecnologia/#-programación-infantil
       - title: "🎮 Programación Videojuegos"
-        url: /biblioteca-de-programacion-y-tecnologia/#-programación-de-videojuegos
+        url: /biblioteca-de-programacion-y-tecnologia/#-programación-videojuegos
       - title: "🕸 Redes"
         url: /biblioteca-de-programacion-y-tecnologia/#-redes
       - title: "🤖 Robótica"
@@ -207,7 +207,7 @@ libros-espanol:
         url: /biblioteca-de-programacion-y-tecnologia/#️-webmaster
       - title: "📚 LIBRERÍA"
         url: /catalogo/
-      - title: "🎁 TIENDA"
+      - title: "🛒 TIENDA"
         url: /amazon/
 
 cursos-espanol:
@@ -240,7 +240,7 @@ cursos-espanol:
       - title: "👦 Programación Infantil"
         url: /cursos-tecnologia/#-programación-infantil
       - title: "🎮 Programación Videojuegos"
-        url: /cursos-tecnologia/#-programación-de-videojuegos
+        url: /cursos-tecnologia/#-programación-videojuegos
       - title: "🕸 Redes"
         url: /cursos-tecnologia/#-redes
       - title: "📞 Redes de Telefonía"
@@ -255,7 +255,7 @@ cursos-espanol:
         url: /cursos-tecnologia/#️-webmaster
       - title: "📚 LIBRERÍA"
         url: /catalogo/
-      - title: "🎁 TIENDA"
+      - title: "🛒 TIENDA"
         url: /amazon/
 
 libros:
