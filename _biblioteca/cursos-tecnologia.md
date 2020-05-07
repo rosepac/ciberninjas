@@ -287,6 +287,7 @@ sidebar:
 ### WooCommerce
 
 * [Crear una tienda Online desde cero con Divi y WooCommerce](https://www.udemy.com/crear-una-tienda-online-desde-cero-con-divi-y-woocommerce){:target="_blank"} (Udemy)
+* [Procesar pagos con Wompi para Tiendas Virtuales Woocommerce](https://www.udemy.com/course/procesar-pagos-con-wompi-para-tiendas-virtuales-woocommerce/){:target="_blank"} (Udemy)
 * [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://www.udemy.com/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa){:target="_blank"} (Udemy)
 * [Tienda Online con WooCommerce desde cero](https://www.udemy.com/tienda-online-con-woocommerce-desde-cero){:target="_blank"} (Udemy)
 
@@ -1379,9 +1380,13 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 * [10 Maneras de crecer tu Instagram de forma orgánica](https://www.udemy.com/10-maneras-de-crecer-tu-instagram-de-forma-organica){:target="_blank"} (Udemy)
 * [Curso publicidad en Instagram, ¡crea ya tus anuncios!](https://www.udemy.com/curso-publicidad-en-instagram-gratis-desde-0){:target="_blank"} (Udemy)
+* [Dominando la Publicidad en Instagram](https://www.udemy.com/course/dominando-publicidad-instagram/){:target="_blank"} (Udemy)
+* [Entrenamiento gratuito de Instagram](https://www.udemy.com/course/entrenamiento-gratuito-de-instagram-samurais-digitales/){:target="_blank"} (Udemy)
+* [Gana miles de seguidores RÁPIDO y FÁCIL](https://www.udemy.com/course/instagram-curso-marketing-digital-intermedio/){:target="_blank"} (Udemy)
 * [Instagram 2018: paso a paso hasta los 10.000 seguidores](https://www.udemy.com/instagram-2018-paso-a-paso-hasta-los-10000-seguidores){:target="_blank"} (Udemy)
 * [Instagram para negocios locales](https://www.udemy.com/instagram-para-negocios-locales){:target="_blank"} (Udemy)
 * [Introducción al Marketing en Instagram para tu empresa](https://www.udemy.com/share/101tpEAkoaeF5RTXw=){:target="_blank"} (Udemy)
+* [Marketing de Afiliados con Hotmart e Instagram Desde Cero](https://www.udemy.com/course/monetizagram/){:target="_blank"} (Udemy)
 
 ### Pinterest <i class="fab fa-pinterest"></i>
 
