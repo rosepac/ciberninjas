@@ -1,12 +1,13 @@
 ---
+
 title: 🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Sonido Vídeo y +
 description: '🔨 Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo'
 excerpt: '🔨 Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo'
 published: true
 author_profile: true
 comments: false
-date: 2019-11-12 10:13:18
-last_modified_at: 2019-12-23 16:15:18
+date: 2020-05-07 10:13:18
+last_modified_at:
 permalink: /cursos-animacion-diseno/
 canonical_URL: https://ciberninjas.com/cursos-animacion-diseno/
 toc: false
@@ -24,38 +25,29 @@ header:
   actions:
     - label: "Recursos Diseño Web"
       url: "/diseño-grafico-recursos/"
+
 ---
 
-👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/)
-👉 [Aprender Diseño Gráfico](/diseño-grafico/)
-👉 [Diseño Web Recursos](/diseño-web-recursos/)
-👉 [Aprender Diseño Web](/diseño-web/)
+👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/){: .btn .btn--inverse .btn--large} 👉 [Aprender Diseño Gráfico](/diseño-grafico/){: .btn .btn--inverse .btn--large} 👉 [Diseño Web Recursos](/diseño-web-recursos/){: .btn .btn--inverse .btn--large} 👉 [Aprender Diseño Web](/diseño-web/){: .btn .btn--inverse .btn--large}
 
-## Índice
+### Índice
 
-- [Índice](#%c3%8dndice)
-- [Animación & 3D](#animaci%c3%b3n--3d)
-  - [3D Studio Max](#3d-studio-max)
-  - [Autocad](#autocad)
-  - [Autodesk](#autodesk)
-  - [Blender](#blender)
-  - [Cinema 4D](#cinema-4d)
-  - [SketchUp](#sketchup)
-  - [Otros](#otros)
-- [Arquitéctura](#arquit%c3%a9ctura)
-- [Arte & Cultura](#arte--cultura)
-- [Comunicaciones & Sonido](#comunicaciones--sonido)
-- [Dibujo](#dibujo)
-- [Diseño](#dise%c3%b1o)
-- [Diseño Editorial](#dise%c3%b1o-editorial)
-- [Diseño Photoshop & Gimp](#dise%c3%b1o-photoshop--gimp)
-- [Diseño Vectorial](#dise%c3%b1o-vectorial)
-- [Fotografía](#fotograf%c3%ada)
-- [Sonido](#sonido)
-- [Vídeo](#v%c3%addeo)
-  - [Licencia](#licencia)
+* [Animación & 3D](#animaci%c3%b3n--3d)
+* [Arquitectura](#arquitectura)
+* [Arte & Cultura](#arte--cultura)
+* [Comunicaciones & Sonido](#comunicaciones--sonido)
+* [Dibujo](#dibujo)
+* [Diseño](#dise%c3%b1o)
+* [Diseño Editorial](#dise%c3%b1o-editorial)
+* [Diseño Photoshop & Gimp](#dise%c3%b1o-photoshop--gimp)
+* [Diseño Vectorial](#dise%c3%b1o-vectorial)
+* [Fotografía](#fotograf%c3%ada)
+* [Sonido](#sonido)
+* [Vídeo](#v%c3%addeo)
 
 ## Animación & 3D
+
+[3D Studio Max](#3d-studio-max){: .btn .btn--inverse .btn--large} [Autocad](#autocad){: .btn .btn--inverse .btn--large} [Autodesk](#autodesk){: .btn .btn--inverse .btn--large} [Blender](#blender){: .btn .btn--inverse .btn--large} [Cinema 4D](#cinema-4d){: .btn .btn--inverse .btn--large} [SketchUp](#sketchup){: .btn .btn--inverse .btn--large} [Solidworks](#solidworks){: .btn .btn--inverse .btn--large} [VRay](#vray){: .btn .btn--inverse .btn--large} [Zbrush](#zbrush){: .btn .btn--inverse .btn--large} [Otros](#otros){: .btn .btn--inverse .btn--large}
 
 ### 3D Studio Max
 
@@ -98,9 +90,14 @@ header:
 ### Cinema 4D
 
 * [Animación 3D con Cinema 4D y After Effects](https://www.crehana.com/cursos/3D/animacion-3d-con-cinema-4d-y-after-effects){:target="_blank"} (Crehana)
+* [Crear un Lettering con vida en cinema 4D](https://www.crehana.com/cursos/3D/crea-un-lettering-con-vida-en-cinema-4d){:target="_blank"} (Crehana)
 * [Cinema 4D: primeros pasos en 3D](https://www.crehana.com/cursos/3D/cinema-4d-primeros-pasos-en-el-3d){:target="_blank"} (Crehana)
 * [Introducción a la Animación 3D en Cinema 4D](https://www.crehana.com/cursos/diseno/introduccion-al-3d-en-cinema-4d){:target="_blank"} (Crehana)
 * [Introducción a la Animación 3D en Cinema 4D y VRay](https://www.crehana.com/cursos/animacion/introduccion-a-la-animacion-3d-en-cinema-4d-y-vray){:target="_blank"} (Crehana)
+* [Sculping en Cinema 4D](https://www.youtube.com/playlist?list=PLNQ6ThfsgUjOnSUrZDRROLWyqQ2CIVQpb){:target="_blank"}
+* [Tutoriales de Cinema 4D](https://www.youtube.com/user/CapitanPancrudo/videos){:target="_blank"}
+* [Tutoriales de Cinema 4D +](https://www.youtube.com/playlist?list=PLNQ6ThfsgUjMDdwleyWiUwV2V7_YQQbKn){:target="_blank"}
+* [Tutoriales Modeling Cinema 4D](https://www.youtube.com/user/josefmedinar/videos){:target="_blank"}
 
 ### SketchUp
 
@@ -115,7 +112,29 @@ header:
 * [Sketchup. Modela un MechWarrior](https://3d4every1.blogspot.com.ar/p/modelado-3d.html){:target="_blank"}
 * [Sketchup. Plugins Infaltables Vol.1](https://3d4every1.blogspot.com.ar/p/plugins.html){:target="_blank"}
 
-### Otros
+### Solidworks
+
+* [Curso completo SolidWorks intensivo para principiantes](https://www.udemy.com/course/curso-completo-solidworks-intensivo-para-principiantes/){:target="_blank"}
+* [Curso de Solidworks CSWA Introducción | Diego Gaona](https://www.udemy.com/course/curso-de-solidworks-cswa-introduccion-diego-gaona/){:target="_blank"}
+* [Diseño de armario electrónico con Solidworks](https://www.udemy.com/course/diseno-de-armario-electrico-en-solidworks/){:target="_blank"} (Udemy)
+* [Solidworks Modelado 3D Preparacion de CSWA](https://www.udemy.com/course/solidworks-modelado-3d-preparacion-de-cswa/){:target="_blank"}
+
+### VRay
+
+* [V-Ray 3.4 para Sketchup](https://www.udemy.com/v-ray-34-para-sketchup){:target="_blank"}
+* [Vray 1.49](https://3d4every1.blogspot.com.ar/p/vray-sketchup.html){:target="_blank"}
+* [Vray 2.0](https://3d4every1.blogspot.com.ar/p/vray-20.html){:target="_blank"}
+* [Vray 2.0 en 3D Max](https://3d4every1.blogspot.com.ar/p/vray-203dmax.html){:target="_blank"}
+* [Vray para Sketchup](https://www.udemy.com/curso-de-vray-para-sketchup){:target="_blank"}
+
+### Zbrush
+
+* [Esculpido 3D en ZBrush](https://www.crehana.com/cursos/3D/esculpido-3d-en-zbrush){:target="_blank"} (Crehana)
+* [Master 3D, de 0 a heroe. Zbrush Básico](https://www.udemy.com/zbrush-para-principiantes-manejo-basico-de-la-herramienta){:target="_blank"}
+* [Zbrush](https://www.youtube.com/playlist?list=PLf-uWfGxf6jOLkZXKAcMDN-6EfZsppOV8){:target="_blank"} (Kames, YouTube)
+* [Zbrush Básico: crea un personaje 3D](https://www.crehana.com/cursos/3D/zbrush-basico-crea-un-personaje-en-3d){:target="_blank"} (Crehana)
+
+### Otros (pendientes de clasificar)
 
 * [ActionScript 3.0](https://www.youtube.com/playlist?list=PLB9840C1696C1BC94){:target="_blank"} (jonmircha, YouTube)
 * [Adobe Animate CC](https://www.youtube.com/playlist?list=PL5vjFJ0wFekIwF5_K1jQX9N2qrK8_bz6S){:target="_blank"} (Yoney Gallardo, YouTube)
@@ -130,13 +149,10 @@ header:
 * [CAD 3D (2009)](https://ocw.unican.es/course/view.php?id=213){:target="_blank"}
 * [Crea tu primera App de Realidad Virtual (VR) para Cardboard](https://www.udemy.com/course/crea-tu-primera-app-de-realidad-virtual-vr-para-cardboard/){:target="_blank"}
 * [Creación en composición en espacio 3D en After Effects](https://www.youtube.com/playlist?list=PLF28D36C36E326AA4){:target="_blank"} (entivoo, YouTube)
-* [Crear un Lettering con vida en cinema 4D](https://www.crehana.com/cursos/3D/crea-un-lettering-con-vida-en-cinema-4d){:target="_blank"} (Crehana)
 * [Dibujo de anime Volumen 1. Creación de personajes](https://www.udemy.com/curso-de-dibujo-de-anime-vol-1-creacion-de-personajes){:target="_blank"}
 * [Diseño asistido por ordenador (2008)](https://ocw.unican.es/course/view.php?id=34){:target="_blank"}
-* [Diseño de armario electrónico con Solidworks](https://www.udemy.com/course/diseno-de-armario-electrico-en-solidworks/){:target="_blank"} (Udemy)
 * [Diseño de productos en Fusion 360 de la idea al prototipo](https://www.udemy.com/diseno-de-productos-en-fusion-360-de-la-idea-al-prototipo){:target="_blank"}
 * [Enscape: Fotorrealismo en tiempo real](https://www.udemy.com/enscape-fotorealismo-en-tiempo-real){:target="_blank"}
-* [Esculpido 3D en ZBrush](https://www.crehana.com/cursos/3D/esculpido-3d-en-zbrush){:target="_blank"} (Crehana)
 * [Expresión Gráfica (2016)](http://ocw.uv.es/ingenieria-y-arquitectura/expresion-grafica/Course_listing){:target="_blank"}
 * [Fundamentos de Toom Boom](https://www.crehana.com/cursos/animacion/fundamentos-de-toon-boom){:target="_blank"} (Crehana)
 * [Historia de la animación (2012)](https://poliformat.upv.es/portal/tool/ee81a5b3-341f-4540-841d-25f28aafd06e?panel=Main){:target="_blank"}
@@ -144,31 +160,18 @@ header:
 * [Introducción a la Animación y branding en After Effects](https://www.crehana.com/cursos/animacion/introduccion-a-la-animacion-y-branding-en-after-effects){:target="_blank"} (Crehana)
 * [Lumion 8 -Curso básico](https://www.udemy.com/lumion-8-curso-basico){:target="_blank"} (Udemy)
 * [Macromedia Flash 8 para principiantes](https://www.udemy.com/macromedia-flash-8-para-principiantes){:target="_blank"} (Udemy)
-* [Master 3D, de 0 a heroe. Zbrush Básico](https://www.udemy.com/zbrush-para-principiantes-manejo-basico-de-la-herramienta){:target="_blank"}
 * [Modelado 3D de un robot cartoon en Maya](https://www.crehana.com/cursos/3D/modelado-3d-de-un-robot-cartoon-en-maya){:target="_blank"} (Crehana)
 * [Modelado de un carro a control remoto en 3D con Rhinoceros](https://www.youtube.com/playlist?list=PLB33CD9B25194AEEA){:target="_blank"} (entivoo, YouTube)
 * [Modelado de un reloj de pulso en 3D con Rhinoceros](https://www.youtube.com/playlist?list=PLC845F629B9C5409F){:target="_blank"} (entivoo, YouTube)
 * [Principios de Animación en After Effects](https://www.crehana.com/cursos/audiovisuales/principios-de-animacion-en-after-effects){:target="_blank"} (Crehana)
-* [Sculping en Cinema 4D](https://www.youtube.com/playlist?list=PLNQ6ThfsgUjOnSUrZDRROLWyqQ2CIVQpb){:target="_blank"}
 * [Síntesis de Imágenes y Animación (2013)](http://ocw.uji.es/curso/80200){:target="_blank"}
-
 * [Taller 3D para la mejora de las habilidades espaciales -Anfore 3D- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=83){:target="_blank"}
 * [Taller de Prototipos (2012)](http://ocw.uji.es/curso/5312){:target="_blank"}
 * [Técnicas de representación gráfica (2011)](https://ocw.unican.es/course/view.php?id=176){:target="_blank"}
 * [Técnicas de representación gráfica (2014)](https://ocw.unican.es/course/view.php?id=75){:target="_blank"}
-* [Tutoriales de Cinema 4D](https://www.youtube.com/user/CapitanPancrudo/videos){:target="_blank"}
-* [Tutoriales de Cinema 4D +](https://www.youtube.com/playlist?list=PLNQ6ThfsgUjMDdwleyWiUwV2V7_YQQbKn){:target="_blank"}
-* [Tutoriales Modeling Cinema 4D](https://www.youtube.com/user/josefmedinar/videos){:target="_blank"}
-* [V-Ray 3.4 para Sketchup](https://www.udemy.com/v-ray-34-para-sketchup){:target="_blank"}
 * [Visualización e interacción gráfica (2009)](https://ocw.unican.es/course/view.php?id=210){:target="_blank"}
-* [Vray 1.49](https://3d4every1.blogspot.com.ar/p/vray-sketchup.html){:target="_blank"}
-* [Vray 2.0](https://3d4every1.blogspot.com.ar/p/vray-20.html){:target="_blank"}
-* [Vray 2.0 en 3D Max](https://3d4every1.blogspot.com.ar/p/vray-203dmax.html){:target="_blank"}
-* [Vray para Sketchup](https://www.udemy.com/curso-de-vray-para-sketchup){:target="_blank"}
-* [Zbrush](https://www.youtube.com/playlist?list=PLf-uWfGxf6jOLkZXKAcMDN-6EfZsppOV8){:target="_blank"} (Kames, YouTube)
-* [Zbrush Básico: crea un personaje 3D](https://www.crehana.com/cursos/3D/zbrush-basico-crea-un-personaje-en-3d){:target="_blank"} (Crehana)
 
-## Arquitéctura
+## Arquitectura
 
 * [Construcción de Estructuras de Madera de modo tradicional](https://miriadax.net/web/construccion-de-estructuras-de-madera-de-modo-tradicional-2-edicion-/inicio){:target="_blank"}
 
@@ -308,6 +311,7 @@ header:
 * [Producción Audiovisual: crea una webserie](https://www.crehana.com/cursos/audiovisuales/produccion-audiovisual-crea-una-webserie){:target="_blank"} (Crehana)
 * [Video experimental y motion graphics (2013)](https://poliformat.upv.es/portal/tool/9fe42b81-5e28-424d-941a-fe17bf74eb7c){:target="_blank"}
 
-### Licencia
+### Información
 
-Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](http://www.pabloalvarezcorredera.com), los contribuidores de [Free Programming Books en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) en especial, y sus autores iniciales: [Victor Felder & la Free Ebook Foundation](/LICENCIA.txt) sobre una [Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES).
+**Fecha Inicial**: Este documento se está modificando y activo desde el 11 de Diciembre de 2019.
+{: .notice--info}
