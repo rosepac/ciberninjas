@@ -58,6 +58,7 @@ sidebar:
 [Big Data 👨‍👩‍👦](/cursos-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [Machine Learning](/cursos-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large} [SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large}
 
 * [Administración de Bases de Datos](http://ocw.upm.es/course/administracion-bases-datos){:target="_blank"} (OCW)
+* [Administración de Oracle](https://tv.um.es/videos?serie=4591&page=0){:target="_blank"} (Universidad de Murcia) (2010)
 * [Almacenamiento de datos No Relacionales](https://ocw.unican.es/course/view.php?id=231){:target="_blank"} (OCW)
 * [Aprende SQL Developer básico en 30 minutos. Introducción](https://www.udemy.com/aprende-sql-developer-basico-en-30-minutos-introduccion){:target="_blank"} (Udemy)
 * [Bases de Datos (2015)](http://repositori.uji.es/xmlui/handle/10234/168735){:target="_blank"} (OCW)
@@ -134,6 +135,7 @@ sidebar:
 * [Blockchain: Conceptos básicos y Ampliación sobre Ethereum](https://www.tutellus.com/tecnologia/blockchain/blockchain-conceptos-basicos-y-ampliacion-sobre-ethereum-18512){:target="_blank"} (Tutellus)
 * [Blockchain: Modelos de Negocio y Criptoeconomía](https://www.tutellus.com/tecnologia/blockchain/blockchain-modelos-de-negocio-e-introduccion-a-la-criptoeconomia-17326){:target="_blank"} (Tutellus)
 * [Blockchain en el sector turístico](https://www.unimooc.com/cursos/blockchain-sector-turistico){:target="_blank"} (UniMOOC)
+* [Criptología Matemática](https://miriadax.net/web/criptologia-matematica-2-edicion-){:target="_blank"} (MiriadaX)
 * [Curso de Blockchain en Python](https://unipython.com/curso-de-blockchain){:target="_blank"} (UniPython)
 * [Hyperledger: Marco de Blockchain para el negocio](https://www.tutellus.com/tecnologia/blockchain/hyperledger-marco-blockchain-para-el-negocio-19752){:target="_blank"} (Tutellus)
 * [ICO´s, Smart Contracts y Tokens en el universo Blockchain](https://www.tutellus.com/tecnologia/blockchain/icos-smart-contracts-y-tokens-en-el-universo-blockchain-17531){:target="_blank"} (Tutellus)
@@ -209,7 +211,7 @@ sidebar:
 * [Fundamentos de Computación (2010)](https://ocw.unican.es/course/view.php?id=194){:target="_blank"} (OCW)
 * [Fundamentos de Computadores (2009)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=3143&p_caca=2009){:target="_blank"} (OCW)
 * [Fundamentos de Comunicaciones Ópticas](https://www.EDX.org/course/fundamentos-de-comunicaciones-opticas-upvalenciax-fco201x-1){:target="_blank"} (EDX)
-* [Fundamentos de Ingeniería del Software](http://ocw.um.es/ingenierias/fundamentos-de-ingenieria-del-software){:target="_blank"} (OCW)
+* [Fundamentos de Ingeniería del Software](http://dis.um.es/~jnicolas/09BK_FIS.html){:target="_blank"} (OCW)
 * [Fundamentos de Programación: Algoritmos en Java y Javascript](https://www.udemy.com/fundamentos-de-programacion-algoritmos-en-java-y-javascript) (Udemy)
 * [Fundamentos de Programación: PseInt, PHP y JavaScript](https://www.udemy.com/fundamentos-de-programacion-aprende-con-pseudocodigo-pseint){:target="_blank"} (Udemy)
 * [Fundamentos Físicos de la Informática (2010)](http://ocw.uv.es/ingenieria-y-arquitectura/1-4/Course_listing){:target="_blank"} (OCW)
@@ -237,7 +239,6 @@ sidebar:
 * [Matemática introductoria para el Grado en Ingeniería Informática (2011)](http://ocw.uc3m.es/cursos-cero/matematicas-mathbridge){:target="_blank"} (OCW)
 * [Matlab y Octave para ingenieros y científicos](https://miriadax.net/web/matlab-y-octave-para-ingenieros-y-cientificos){:target="_blank"} (MiriadaX)
 * [Metodología y Tecnología de la Programación (2006)](http://ocw.uji.es/curso/5126){:target="_blank"} (OCW)
-* [Metodología y Tecnología de la Programación (2008)](http://ocw.um.es/ingenierias/metodologia-y-tecnologia-de-la-programacion){:target="_blank"} (OCW)
 * [Organización de computadores (2014)](http://ocw.uc3m.es/ingenieria-informatica/organizacion-de-computadores){:target="_blank"} (OCW)
 * [Pensamiento Computacional en la Escuela](https://miriadax.net/web/pensamiento-computacional-en-la-escuela-2ed){:target="_blank"} (MiriadaX)
 * [Principios de Ingieniería Informática (2012)](http://ocw.uc3m.es/ingenieria-informatica/principios-de-ingenieria-informatica){:target="_blank"} (OCW)
@@ -250,7 +251,6 @@ sidebar:
 * [Python para trading e inversiones (2.017)](https://www.udemy.com/python-para-trading-e-inversiones){:target="_blank"} (Udemy)
 * [Redes de difracción en comunicaciones ópticas](https://www.EDX.org/course/redes-de-difraccion-en-comunicaciones-upvalenciax-rdo301x-1){:target="_blank"} (EDX)
 * [Siete habilidades clave en la era digital](https://miriadax.net/web/siete-habilidades-clave-en-la-era-digital-2-edicion-/inicio){:target="_blank"} (MiridaX)
-* [Sistemas de Ayuda a la Decisión (2008)](http://ocw.um.es/ingenierias/sistemas-de-ayuda-a-la-decision){:target="_blank"} (OCW)
 * [Sistemas de telecomunicación (2007)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/sistemas-de-telecomunicacion){:target="_blank"} (OCW) [(2011)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/sistemas-de-telecomunicacion-2011){:target="_blank"}
 * [Sistemas Electrónicos para el Tratamiento de la Información (2011)](http://ocw.uv.es/ingenieria-y-arquitectura/1-4/Course_listing){:target="_blank"} (OCW)
 * [Técnicas de diseño de algoritmos (2015)](https://ocw.ehu.eus/course/view.php?id=310){:target="_blank"} (OCW)
@@ -311,7 +311,8 @@ sidebar:
 
 ### Ubuntu <i class="fab fa-ubuntu"></i>
 
-* [Instalar Ubuntu en VirtualBox](https://www.youtube.com/watch?v=uV5boDESAe0){:target="_blank"}
+* [Curso de Ubuntu](https://tv.um.es/canal?serie=4581){:target="_blank"} (Universidad de Murcia) (2011)
+* [Instalar Ubuntu en VirtualBox](https://www.youtube.com/watch?v=uV5boDESAe0){:target="_blank"} (Youtube)
 
 [⏫ Subir a Software Libre](/cursos-tecnologia/#-ecosistema-de-software-libre){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -323,7 +324,6 @@ sidebar:
 * [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-){:target="_blank"} (MiriadaX)
 * [Aspectos básicos de la planificación y la gestión de proyectos](https://www.coursera.org/learn/uva-darden-project-management-es){:target="_blank"} (Coursera)
 * [Cómo implantar grupos de mejora de procesos](https://www.EDX.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0){:target="_blank"} (EDX)
-* [Creación y Desarrollo de Redes Sociales](http://ocw.um.es/cc.-sociales/creacion-y-desarrollo-de-redes-sociales){:target="_blank"} (OCW)
 * [Curso de Git y Github](https://www.youtube.com/playlist?list=PL353A30C7CCE5098F){:target="_blank"} (Jesús Conde, Youtube)
 * [Curso de Patrones de Diseño de Software](/crear-patrones-de-dise%C3%B1o-de-software-con-jap-software/) (Jap Software, Youtube)
 * [De la idea al plan de proyectos en 10 pasos (2014)](https://ocw.ehu.eus/course/view.php?id=336){:target="_blank"} (OCW)
@@ -443,6 +443,7 @@ sidebar:
 ### Otros
 
 * [Curso de OBS: Software de Streaming](https://aulasoftwarelibre.github.io/taller-de-obs-docs/){:target="_blank"}
+* [Informática Aplicada a la Gestión Pública](https://www.udemy.com/introduccion-a-outlook-2010){:target="_blank"} (Universidad de Murcia) (2011)
 * [Introducción a Outlook 2010](https://www.udemy.com/introduccion-a-outlook-2010){:target="_blank"} (Udemy)
 * [LibreOffice Writer](https://www.youtube.com/playlist?list=PLLLaU95AMQPqAgeXCjQgXawAPABR19U2k){:target="_blank"} (VideoTutoriales Education, YouTube)
 * [Microsoft Project 2013](https://www.youtube.com/playlist?list=PL7Sb5pi3h9JigadkTKlbhxBFTptqN-tHY){:target="_blank"} (Grupo Ephyco, YouTube)
@@ -522,7 +523,6 @@ sidebar:
 * [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74){:target="_blank"} (OCW)
 * [Introducción a la programación en C: Instrucciones de control y ficheros de texto](https://www.edx.org/course/introduccion-a-la-programacion-en-c-instrucciones){:target="_blank"} (EDX \ Universidad Autónoma de Madrid)
 * [Programación en C](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJmUTNE2QVaCd1y_6GslOeZ6){:target="_blank"} (ProgramacionATS, YouTube)
-* [Programación en C/C++ y Aplicaciones Matemáticas (2011)](http://ocw.um.es/ciencias/programacion-en-c-c-y-aplicaciones-matematicas){:target="_blank"} (OCW)
 
 ### C#
 
@@ -850,7 +850,14 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [React Hooks: Guia inicial utilizando Redux y Material.UI](https://www.udemy.com/course/react-hooks-guia-inicial-utilizando-redux-y-materialui/){:target="_blank"} (Udemy)
 * [React JS - Curso de introducción desde cero y primeros pasos](https://www.udemy.com/course/react-js-curso-de-introduccion-desde-cero-y-primeros-pasos/){:target="_blank"} (Udemy)
 * [React JS: Inicia en el mundo de los Frameworks de JavaScript](https://www.udemy.com/course/react-js-inicia-en-el-mundo-de-los-frameworks-de-javascript/){:target="_blank"} (Udemy)
-* [Introducción a Tecnologías del Desarrollo con los Mejores](){:target="_blank"} - (Variado COBOL, Go, Nodejs, GraphQL, React, Spring) (Udemy)
+* [Introducción a Tecnologías del Desarrollo con los Mejores](https://www.udemy.com/course/masters-desarrollo/){:target="_blank"} - (Variado COBOL, Go, Nodejs, GraphQL, React, Spring) (Udemy)
+
+### React Native
+
+* [Crea tu propio Netflix con React Native con Mario Díez](/react-native-crear-aplicacion-como-netflix-con-mario-diez/){:target="_blank"}
+* [React Native con Iván B. Trujillo](/react-native-con-ivan-b-trujillo/){:target="_blank"}
+* [React Native con Mario Díez](/react-native-con-mario-diez/){:target="_blank"}
+* [React Native por Ciencia del Aprendizaje Fácil](/react-native-desde-ciencia-del-aprendizaje-facil/){:target="_blank"}
 
 ## Software
 
@@ -1077,7 +1084,6 @@ _____
 * [Aprende Seguridad desde 0](https://www.udemy.com/aprende-seguridad-cisco-desde-0){:target="_blank"} (Udemy)
 * [Aprende Subnetting rápido y fácil](https://www.udemy.com/aprende-subnetting){:target="_blank"} (Udemy)
 * [Arquitectura de Redes de Acceso y Medio Compartido (2012)](http://ocw.uc3m.es/ingenieria-telematica/arquitectura-de-redes-de-acceso-y-medio-compartido){:target="_blank"} (OCW)
-* [Arquitectura de Redes(2012)](http://ocw.um.es/ingenierias/arquitectura-de-redes){:target="_blank"} (OCW)
 * [Arquitectura de Sistemas (2013)](http://ocw.uc3m.es/ingenieria-telematica/arquitectura-de-sistemas-2013){:target="_blank"} (OCW)
 * [Cisco Packet Tracer](https://www.youtube.com/playlist?list=PL19E8BE542D61D648){:target="_blank"} (My Cyber academy, Youtube)
 * [Computación en Red (2010)](http://ocw.uc3m.es/ingenieria-telematica/computacion-en-red){:target="_blank"} (OCW)
@@ -1209,7 +1215,6 @@ _____
 
 ## Casas Inteligentes 🏡
 
-* [Domótica (2009)](http://ocw.um.es/ingenierias/domotica) (OCW)
 
 ## Inteligencia Artificial
 
@@ -1281,7 +1286,6 @@ _____
 * [Sistemas de Información y ordenadores, Parte 4: Programación](https://www.EDX.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-4x) (EDX)
 * [Sistemas de información y ordenadores, Parte 5: Implicaciones sociales de las TIC](https://www.EDX.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-5x) (EDX)
 * [Sistemas Distribuidos (2013)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-distribuidos-2013) (OCW)
-* [Sistemas Embebidos (2009)](http://ocw.um.es/ingenierias/sistemas-embebidos) (OCW)
 * [Sistemas Multimedia (2009)](https://poliformat.upv.es/portal/tool/f682ea53-3e5c-411c-0097-a0a16d5fb6a9?panel=Main) (OCW)
 * [Sistemas Operativos 'chmod - bash' (2014)](https://campusvirtual.ull.es/ocw/course/view.php?id=105) (OCW)
 * [Sistemas Operativos (2007)](http://ocw.innova.uned.es/ocwuniversia/Ing_tecnico_infor_sistemas/SO_II) (OCW)
@@ -1406,7 +1410,6 @@ _____
 * [Aprende a usar Rest en Drupal 7](https://www.udemy.com/aprende-a-usar-el-servicio-rest-en-drupal7-y-drupal8){:target="_blank"} (Udemy)
 * [Crear un sitio web con Drupal](https://www.udemy.com/curso-basico-de-drupal){:target="_blank"} (Udemy)
 * [Drupal 8.0](https://www.youtube.com/playlist?list=PLY3lWsAagE8N7ubeqj6LY5r-ak7_BbQ0A) (PandB Software en Español, YouTube)
-* [Gestión de contenidos web a través del CMS Drupal (2009)](http://ocw.um.es/transversales/gestion-de-contenidos-web-a-traves-del-cms-drupal){:target="_blank"} (OCW)
 
 ### Joomla
 

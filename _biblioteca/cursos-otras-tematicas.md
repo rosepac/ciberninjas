@@ -168,6 +168,7 @@ classes: wide
 ## Derecho
 
 * [Claves jurídicas para la gestión de la diversidad en las aulas](https://iedra.uned.es/courses/UNED/ClavJur001/2016_T4/about){:target="_blank"}
+* [Curso de Especialista en Protección de Datos](https://tv.um.es/canal?serie=13761){:target="_blank"} (Universidad de Murcia) (2014)
 * [Derechos de autor](https://miriadax.net/web/derechos-de-autor-2-edicion-/inicio){:target="_blank"}
 * [Derechos de los reclusos](https://iedra.uned.es/courses/UNED/105/2015T3/about){:target="_blank"}
 * [Glosario de Derecho](https://iedra.uned.es/courses/OCW/GLO_DER130/2016_T4/about){:target="_blank"}
@@ -368,6 +369,7 @@ Los cursos sobre Educación y enfocados hacía cuidadores y docentes; han sido m
 * [Dimensiones de la Responsabilidad Social](https://iedra.uned.es/courses/UNED/Dimen_RSC_001/2016_T4/about){:target="_blank"}
 * [Duplica tus ventas y tu marca personal](https://www.udemy.com/aumenta-las-ventas-de-tu-negocio-por-internet){:target="_blank"}
 * [Emprendedores - El Juego- ](https://www.udemy.com/emprendedores-el-juego){:target="_blank"}
+* [Emprender en el ámbito de las aplicaciones móviles](https://tv.um.es/canal?cod=a1b1c2d21&serie=11071){:target="_blank"}
 * [Emprendimiento con el campo de juego para emprender](https://www.udemy.com/emprendimiento-con-el-campo-de-juego-para-emprender){:target="_blank"}
 * [Emprendimiento e Innovación Social](https://iedra.uned.es/courses/course-v1:UNED+EmpSoc_03+2017/about){:target="_blank"}
 * [Emprendimiento Social: pon tu proyecto en marcha](https://miriadax.net/web/emprendimiento-social-pon-tu-proyecto-en-marcha-4-edicion-/inicio){:target="_blank"}

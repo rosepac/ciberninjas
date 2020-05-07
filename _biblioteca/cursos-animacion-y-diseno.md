@@ -104,7 +104,7 @@ header:
 ### Solidworks
 
 * [Curso completo SolidWorks intensivo para principiantes](https://www.udemy.com/course/curso-completo-solidworks-intensivo-para-principiantes/){:target="_blank"}
-* [Curso de Solidworks CSWA Introducción | Diego Gaona](https://www.udemy.com/course/curso-de-solidworks-cswa-introduccion-diego-gaona/){:target="_blank"}
+* [Curso de Solidworks CSWA Introducción](https://www.udemy.com/course/curso-de-solidworks-cswa-introduccion-diego-gaona/){:target="_blank"}
 * [Diseño de armario electrónico con Solidworks](https://www.udemy.com/course/diseno-de-armario-electrico-en-solidworks/){:target="_blank"} (Udemy)
 * [Solidworks Modelado 3D Preparacion de CSWA](https://www.udemy.com/course/solidworks-modelado-3d-preparacion-de-cswa/){:target="_blank"}
 
@@ -176,6 +176,7 @@ header:
 * [Pintura Europea: Leonardo, Rembrandt, Goya](https://www.edx.org/course/pintura-europea-leonardo-rembrandt-goya-uc3mx-ceh-1-esx-0){:target="_blank"}
 * [Pintura Intrarrealista: Juan Antonio Guirado](https://iedra.uned.es/courses/course-v1:UNED+PinInterJAG+2017/about)
 * [Teatro Moderno](https://www.youtube.com/playlist?list=PLWfF6Dli9QCMoy4H0lZR2L-ioOH2XHCAy){:target="_blank"} (UNED, YouTube)
+* [Terapias Creativas y Mediación Artística](https://tv.um.es/canal?cod=a1b1c2d21&serie=24701){:target="_blank"} (Universidad de Murcia) (2019)
 
 ## Comunicaciones & Sonido
 
@@ -268,7 +269,7 @@ header:
 * [Fotografía Profesional](https://www.youtube.com/playlist?list=PLYLk-A_yE94NT-MyC954IO-vqKSuQZLim){:target="_blank"} (YouTube)
 * [Fotografía y manejo de cámara réflex](https://www.youtube.com/playlist?list=PLF55DF85F3D98E5E9){:target="_blank"} (magicvfx, YouTube)
 * [Gimp para Fotógrafos](https://www.sergioperea.es/linux-y-fotografia-optimizando-gimp-para-incorporarlo-al-flujo-de-trabajo-fotografico){:target="_blank"}
-* [Historia de la Fotografía: Dibujo con Luz ](https://tv.um.es/videos?serie=4741){:target="_blank"}
+* [Historia de la Fotografía: El Dibujo con Luz ](https://tv.um.es/videos?serie=4741){:target="_blank"}
 * [Introducción  al Retoque Fotográfico](https://www.crehana.com/cursos/fotografia/introduccion-al-retoque-fotografico){:target="_blank"} (Crehana)
 * [Un año de fotografía. Curso de fotografía digital](https://www.youtube.com/playlist?list=PL84137E4440BEAB47){:target="_blank"} (Youtube)
 
