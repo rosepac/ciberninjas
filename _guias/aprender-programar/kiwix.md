@@ -9,10 +9,10 @@ published: true
 date: 2019-09-27 01:10:23
 permalink: /kiwix/
 canonical_URL: https://ciberninjas.com/kiwix/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 
 ---
 
