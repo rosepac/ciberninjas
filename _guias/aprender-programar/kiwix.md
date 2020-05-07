@@ -1,9 +1,11 @@
 ---
+
 title: "\U0001F528 Guía Kiwix: La Wikipedia y sus Repositorios Offline"
 author_profile: true
 description: "\U0001F4DA Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado"
 excerpt: "\U0001F4DA Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado"
-published: false
+classes: wide
+published: true
 date: 2019-09-27 01:10:23
 permalink: /kiwix/
 canonical_URL: https://ciberninjas.com/kiwix/
@@ -11,6 +13,7 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
+
 ---
 
 > 📚 Kiwix te permite acceder al conocimiento universal - incluso desconectado
