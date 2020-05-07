@@ -4,10 +4,11 @@ title: "🥇 ▷ Los Mejores Libros PDF de PROGRAMACIÓN para aprender a DESARRO
 description: "🚀 Biblioteca de PDF online actualizado: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Biblioteca de PDF online actualizado: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 author_profile: false
-date: 2020-03-13T22:00:00.000+00:00
+date: 2020-5-07T22:00:00.000+00:00
 last_modified_at:
 permalink: /biblioteca-de-programacion-y-tecnologia/
 canonical_URL: https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/
+classes: wide
 published: true
 header:
   teaser: "/assets/images/chico-buscando-libro-biblioteca.jpg"
@@ -875,7 +876,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
-## Introducción
+## **Mejores libros de Programación PDF**
 
 Omitir. salvo que desees conocer en mayor profundidad el contenido que puedes encontrar dentro de los diferentes enlaces que aparecen dentro de esta página web. Este contenido, unicamente es generado en post de la mejora del posicionamiento e indexación del mismo 😉
 {: .notice--info}

@@ -28,35 +28,11 @@ header:
 
 ---
 
-👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/){: .btn .btn--inverse .btn--large} 👉 [Aprender Diseño Gráfico](/diseño-grafico/){: .btn .btn--inverse .btn--large} 👉 [Diseño Web Recursos](/diseño-web-recursos/){: .btn .btn--inverse .btn--large} 👉 [Aprender Diseño Web](/diseño-web/){: .btn .btn--inverse .btn--large}
+[Diseño Gráfico Recursos](/diseño-grafico-recursos/){: .btn .btn--inverse .btn--large} [Aprender Diseño Gráfico](/diseño-grafico/){: .btn .btn--inverse .btn--large} [Diseño Web Recursos](/diseño-web-recursos/){: .btn .btn--inverse .btn--large} [Aprender Diseño Web](/diseño-web/){: .btn .btn--inverse .btn--large}
 
 ### Índice
 
-- [Animación & 3D](#animaci%c3%b3n--3d)
-  - [3D Studio Max](#3d-studio-max)
-  - [Autocad](#autocad)
-  - [Autodesk](#autodesk)
-  - [Blender](#blender)
-  - [Cinema 4D](#cinema-4d)
-  - [SketchUp](#sketchup)
-  - [Solidworks](#solidworks)
-  - [VRay](#vray)
-  - [Zbrush](#zbrush)
-  - [Otros (pendientes de clasificar)](#otros-pendientes-de-clasificar)
-- [Arquitectura](#arquitectura)
-- [Arte & Cultura](#arte--cultura)
-- [Comunicaciones & Sonido](#comunicaciones--sonido)
-- [Dibujo](#dibujo)
-- [Diseño](#dise%c3%b1o)
-- [Diseño Editorial](#dise%c3%b1o-editorial)
-- [Diseño Photoshop & Gimp](#dise%c3%b1o-photoshop--gimp)
-  - [Photosop](#photosop)
-  - [GIMP](#gimp)
-- [Diseño Vectorial](#dise%c3%b1o-vectorial)
-- [Fotografía](#fotograf%c3%ada)
-- [Sonido](#sonido)
-- [Vídeo](#v%c3%addeo)
-  - [Información](#informaci%c3%b3n)
+[Animación & 3D 🔳](/diseño-grafico-recursos/#animaci%c3%b3n--3d){: .btn .btn--inverse .btn--large} [Arquitectura 🏗](/diseño-grafico-recursos/#arquitectura){: .btn .btn--inverse .btn--large} [Arte & Cultura 🎨](/diseño-grafico-recursos/#arte--cultura){: .btn .btn--inverse .btn--large} [Comunicaciones & Sonido 📞](/diseño-grafico-recursos/#comunicaciones--sonido){: .btn .btn--inverse .btn--large} [Dibujo 🖌](/diseño-grafico-recursos/#dibujo) [Diseño 👩‍🎨](/diseño-grafico-recursos/#dise%c3%b1o){: .btn .btn--inverse .btn--large} [Diseño Editorial 📐](/diseño-grafico-recursos/#dise%c3%b1o-editorial){: .btn .btn--inverse .btn--large} [Diseño Photoshop & Gimp 👨‍🎨](/diseño-grafico-recursos/#dise%c3%b1o-photoshop--gimp){: .btn .btn--inverse .btn--large} [Diseño Vectorial ✏](/diseño-grafico-recursos/#dise%c3%b1o-vectorial){: .btn .btn--inverse .btn--large} [Fotografía´📸](/diseño-grafico-recursos/#fotograf%c3%ada){: .btn .btn--inverse .btn--large} [Sonido 🔊](/diseño-grafico-recursos/#sonido){: .btn .btn--inverse .btn--large} [Vídeo 📹](/diseño-grafico-recursos/#v%c3%addeo){: .btn .btn--inverse .btn--large}
 
 ## Animación & 3D
 
@@ -234,7 +210,9 @@ header:
 * [Ilustraciones y materiales gráficos en la cultura impresa moderna](https://www.youtube.com/playlist?list=PLWfF6Dli9QCO4Y5dmVJkL7Q_Wm71m0v3Q){:target="_blank"} (UNED, YouTube)
 * [Scribus. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_IfTZ_AEUvfZXBSoZ0t7vHov){:target="_blank"}
 
-## Diseño Photoshop & Gimp
+## Diseño Gráfico
+
+[Photosop](#photosop){: .btn .btn--inverse .btn--large} [GIMP](#gimp){: .btn .btn--inverse .btn--large}
 
 ### Photosop
 

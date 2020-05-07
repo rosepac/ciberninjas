@@ -845,6 +845,13 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 ## React <i class="fab fa-react"></i>
 
+* [Aprender React JS](https://www.udemy.com/course/aprendiendo-react/){:target="_blank"} (Udemy)
+* [Fundamentos de React](https://www.youtube.com/playlist?list=PLpOqH6AE0tNg-6kaolSnySpJ0vxk3Xhoo){:target="_blank"} (Youtube) (2019)
+* [React Hooks: Guia inicial utilizando Redux y Material.UI](https://www.udemy.com/course/react-hooks-guia-inicial-utilizando-redux-y-materialui/){:target="_blank"} (Udemy)
+* [React JS - Curso de introducción desde cero y primeros pasos](https://www.udemy.com/course/react-js-curso-de-introduccion-desde-cero-y-primeros-pasos/){:target="_blank"} (Udemy)
+* [React JS: Inicia en el mundo de los Frameworks de JavaScript](https://www.udemy.com/course/react-js-inicia-en-el-mundo-de-los-frameworks-de-javascript/){:target="_blank"} (Udemy)
+* [Introducción a Tecnologías del Desarrollo con los Mejores](){:target="_blank"} - (Variado COBOL, Go, Nodejs, GraphQL, React, Spring) (Udemy)
+
 ## Software
 
 ### Editores de Código
@@ -1471,3 +1478,4 @@ Este repositorio esta bajo autoría de Pablo Álvarez Corredera el que agradece 
 <!-- Por Actualizar -->
 <!-- Universidad de Murcia https://umumooc.um.es/ -->
 <!-- https://www.genbeta.com/a-fondo/50-mejores-cursos-online-2019 voy por introduccion a las reds sociales.. -->
+<!-- * [](){:target="_blank"} -->
