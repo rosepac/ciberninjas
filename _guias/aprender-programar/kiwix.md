@@ -16,11 +16,39 @@ toc_sticky: true
 
 ---
 
-> 📚 Kiwix te permite acceder al conocimiento universal - incluso desconectado
-
 ![1200px-Kiwix_logo.svg.png](https://steemitimages.com/DQmXas5sn8FPxTajG3MqvDTHKU38hb9btFpPwmnzN32rzYd/1200px-Kiwix_logo.svg.png)
 
 **Kiwix** es un software libre, tan sencillo como impresionante y tan desconocido como pr&aacute;ctico y eficaz. Sobre todo, **Kiwix**, es un gran recurso educativo **Offline** para todas aquellas zonas y personas que no poseen los recursos necesarios.
+
+> 📚 Kiwix te permite acceder al conocimiento universal - incluso desconectado
+
+## Índice <!-- omit in toc -->
+- [📌 Introducción](#%f0%9f%93%8c-introducci%c3%b3n)
+- [🏛 Historia de Kiwix](#%f0%9f%8f%9b-historia-de-kiwix)
+- [⏩ Descargar Kiwix](#%e2%8f%a9-descargar-kiwix)
+- [Lector de Kiwix](#lector-de-kiwix)
+- [Paquetes de Contenidos](#paquetes-de-contenidos)
+- [Archivos .zim disponibles](#archivos-zim-disponibles)
+- [Archivos .ZIM Disponibles en Español](#archivos-zim-disponibles-en-espa%c3%b1ol)
+  - [Wikipedia](#wikipedia)
+- [Wiktionary](#wiktionary)
+- [Wikivoyage](#wikivoyage)
+- [Wikiversity](#wikiversity)
+- [Wikibooks](#wikibooks)
+- [WikiSource](#wikisource)
+- [WikiQuote](#wikiquote)
+- [WikiNews](#wikinews)
+- [Phet](#phet)
+- [Ecured](#ecured)
+- [Stack OverFlow](#stack-overflow)
+- [Gutenberg](#gutenberg)
+- [Inciclopedia](#inciclopedia)
+- [Vikidia](#vikidia)
+- [Agrega tu contenido a Kiwix](#agrega-tu-contenido-a-kiwix)
+- [Aplicaciones Personalizadas](#aplicaciones-personalizadas)
+- [Servidor de Kiwix](#servidor-de-kiwix)
+- [Punto de Acceso](#punto-de-acceso)
+- [👨‍🔧 Kiwix. Paso a Paso](#%f0%9f%91%a8%e2%80%8d%f0%9f%94%a7-kiwix-paso-a-paso)
 
 ## 📌 Introducción
 
