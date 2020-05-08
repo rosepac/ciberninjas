@@ -59,17 +59,17 @@ En esta publicación, vamos a analizar una lista software que considero inútil 
 
 Al descargar y comenzar el proceso de la instalación de μTorrent, el instalador provoca la instalación de otros software como por ejemplo Yandex.Browser o Avast. Su análogo BitTorrent, es otro programa de la misma compañía con idénticos problemas.
 
-Además, μTorrent fue pillado minando bitcoins sin permiso; a través de los ordenadores de sus usuarios. Lo que le hizo perder toda la confianza de sus fans más aferrimos.
+Además, μTorrent fue pillado minando bitcoins sin permiso; a través de los ordenadores de sus usuarios. Lo que le hizo perder toda la confianza de sus fans más acérrimos.
 
 ### **Alternativas a μTorrent**
 
-Una aplicación simple como [Transmisión](https://kutt.it/torrentes-transmision){:target="_blank"} u incluso [qBittorrent](https://kutt.it/torrentes-qbitorrent){:target="_blank"}, que viene a ser un programa algo más avanzada; y nos ofrece una interfaz mucho más limpia e incluso permite ser usado como lector de noticias RSS. Ambas opciones, pueden realizar las mismas funciones que μTorrent, siendo más estables, cómodos, sin pedirte pagos constántemente y sin ninguna publicidad.
+Una aplicación simple como [Transmisión](https://kutt.it/torrentes-transmision){:target="_blank"} u incluso [qBittorrent](https://kutt.it/torrentes-qbitorrent){:target="_blank"}, que viene a ser un programa algo más avanzada; y nos ofrece una interfaz mucho más limpia e incluso permite ser usado como lector de noticias RSS. Ambas opciones, pueden realizar las mismas funciones que μTorrent, siendo más estables, cómodos, sin pedirte pagos constantemente y sin ninguna publicidad.
 
 ## 2. **MediaGet**
 
 MediaGet es otro cliente de torrent. En este caso, Mediaget, viene con un motor de búsqueda de contenidos incorporado y es capaz de abrir una película sin esperar a la descarga completa de la misma. Pero, Mediaget, es una aplicación con errores que instalará extensiones no deseadas, abrirá sitios de dudoso procedencia, molestará con anuncios y cambiará tu página de inicio del navegador.
 
-Se distribuye de manera dudosa y en algunos casos puede ser descargardo sin su consentimiento. Los análogos de MediaGet, Ace Stream y Zona no dejan de ser más de lo mismo; todos son software muy dañidos y peligrosos para tu ordenador y pueden llegar a sobrecalentar tu hardward por un extremado uso del mismo.
+Se distribuye de manera dudosa y en algunos casos puede ser descargado sin tu consentimiento. Los análogos de MediaGet, Ace Stream y Zona no dejan de ser más de lo mismo; todos son softwares muy dañinos y peligrosos para tu ordenador y pueden llegar a sobrecalentar tu hardward por un extremado uso del mismo.
 
 ### **Alternativas a Mediaget**
 
@@ -84,13 +84,13 @@ La cuestión es, **¿Entonces necesitas ayudar de un software como DriverPack o 
 
 > *El tiempo de Windows 7, que incluso a veces, el módulo de Wi-Fi no se detectaba. Se han quedado lejos ya.*
 
-Es mejor que prescindas de este tipo de programas por completo. Junto a los controladores, por ejemplo: DriverPack Solution, te instala mucha basura completamente inútil: varios navegadores, un antivirus, otros softwares innecesarios y otra basura llamada DriverPack Cloud.
+Es mejor que prescindas de este tipo de programas por completo. Junto a los controladores, por ejemplo: DriverPack Solution, te instala mucha basura completamente inútil: varios navegadores, un antivirus, otros software innecesarios y otra basura llamada DriverPack Cloud.
 
 Así, la mayoría. Por no decir todos los programas de este estilo.
 
 ### **Alternativas a Driverpack u similares**
 
-No se requiere alternativa. Simplemente deja que Windows 10 permanezca buscando atualizaciones durante unos cinco minutos, y descargará e instalará todos los controladores necesarios. Si en el "Centro de actualizaciones" de Windows 10 el controlador no es tan nuevo como necesitas, abre el sitio web del fabricante e instala el driver desde allí manualmente.
+No se requiere alternativa. Simplemente deja que Windows 10 permanezca buscando actualizaciones durante unos cinco minutos, y descargará e instalará todos los controladores necesarios. Si en el "Centro de actualizaciones" de Windows 10 el controlador no es tan nuevo como necesitas, abre el sitio web del fabricante e instala el driver desde allí manualmente.
 
 ## 4. **IObit Smart Defrag y otros desfragmentadores**
 
@@ -100,11 +100,11 @@ La desfragmentación del SSD solo puedes lograr terminar por dañarlo y es innec
 
 ### **Alternativas a los programas desfragmentadores**
 
-No se requiere alternativa. Solo asegurate de que al menos el 10-15% de la capacidad de tu partición del sistema dentro de tu disco SSD esté libre y todo estará bien. En el caso de los discos duros HDD, simplemente utiliza la herramienta de Windows 10 por defecto.
+No se requiere alternativa. Solo asegúrate de que al menos el 10-15% de la capacidad de tu partición del sistema dentro de tu disco SSD esté libre y todo estará bien. En el caso de los discos duros HDD, simplemente utiliza la herramienta de Windows 10 por defecto.
 
-Si ese fuese tu caso, el de tener un HDD como disco duro principal: Escribe Desfragmentar en el buscador del sistema y verás aparecer la opción de Desfragmentar y optimizar unidades; y allí podrás comprobar como el sistema tendrá o no actividas las actividades de desfragmentación automáticas. Si se muestra que no están activadas, podrás pulsar en Analizar primero; y en Optimizar posteriormente; para que se realicen.
+Si ese fuese tu caso, el de tener un HDD como disco duro principal: Escribe Desfragmentar en el buscador del sistema y verás aparecer la opción de Desfragmentar y optimizar unidades; y allí podrás comprobar cómo el sistema tendrá o no, activas las actividades de desfragmentación automáticas. Si se muestra que no están activadas, podrás pulsar en Analizar primero; y en Optimizar posteriormente; para que se realicen.
 
-Por último, vas a poder modificar su periocidad, lo recomendable es que lo situes como Mensualmente o bien las desactives, y las realices de forma manual; una vez cada seis meses será suficiente para un ordenador con un uso normal. Si eres una excepción, eres de los que te pasas 24/7 instalando y desinstalando programas diferentes, quizás, puedas desfragmentar; una vez cada tres meses.
+Por último, vas a poder modificar su tiempo de ejecución, lo recomendable es que lo sitúes como Mensualmente o bien las desactives, y las realices de forma manual; una vez cada seis meses será suficiente para un ordenador con un uso normal. Si eres una excepción, eres de los que te pasas 24/7 instalando y desinstalando programas diferentes, quizás, puedas desfragmentar; una vez cada tres meses.
 
 ## 5. **Programas de Stardock y similares**
 
@@ -118,11 +118,11 @@ Haz clic en "Inicio" → "Configuración" → "Personalización" → "Temas" →
 
 ## 6. **Fast Video Downloader y similares**
 
-Si un usuario inexperto escribe en Google "cómo descargar un video" o "cómo descargar una foto de Instagram", lo más probable es que te encuentres con cientos de aplicaciones específicas para ello; y sí, si tienes suerte, lograrás que descarguen las fotos y videos de las redes sociales, pero lo más seguro es que te vayan a molestar con solicitudes para que compres su versión Pro o Premium, o te inflen a anucios; eso en los mejores de los casos. Que se hinchen a instalarte malware y software dañino sin tu permiso, en el peor.
+Si un usuario inexperto escribe en Google "cómo descargar un video" o "cómo descargar una foto de Instagram", lo más probable es que te encuentres con cientos de aplicaciones específicas para ello; y sí, si tienes suerte, lograrás que descarguen las fotos y videos de las redes sociales, pero lo más seguro es que te vayan a molestar con solicitudes para que compres su versión Pro o Premium, o te inflen a anuncios; eso en los mejores de los casos. Que se hinchen a instalarte malware y software dañino sin tu permiso, en el peor.
 
 ### **Alternativas a Fast Video Downloader**
 
-Existen un par de extensiones para el navegador web, como por ejemplo: SaveFrom.net. Seguramente con eso, será suficiente para la mayoría de los casos. Si hiciese falta más, recuerda analizar bien las aplicaciones que vayas a instalar, y no aceptar los programas dañinos que te puedan sugerir durante la instalación del mismo. Personalmente, 4k Video Downloader, no parece un software peligroso; y Deezloader Remix, te permite descargar música en su máxima calidad con el simple hecho de crear una cuenta de Deezer. JDownloader, también sirve para descargar practicámente cualquier cosa que desees.
+Existen un par de extensiones para el navegador web, como por ejemplo: SaveFrom.net. Seguramente con eso, será suficiente para la mayoría de los casos. Si hiciese falta más, recuerda analizar bien las aplicaciones que vayas a instalar, y no aceptar los programas dañinos que te puedan sugerir durante la instalación del mismo. Personalmente, 4k Video Downloader, no parece un software peligroso; y Deezloader Remix, te permite descargar música en su máxima calidad con el simple hecho de crear una cuenta de Deezer. JDownloader, también sirve para descargar prácticamente cualquier cosa que desees.
 
 ## 7. **"Instaladores" y "actualizadores" de programas**
 
@@ -131,7 +131,7 @@ En Linux, existen los administradores de paquetes. Que son una especie de tienda
 No es necesario visitar las páginas de los desarrolladores, ni buscar a través de Google: El sistema hace todo por ti.
 <!-- https://lifehacker.ru/kak-ustanavlivat-programmy-dlya-linux/ -->
 
-En Windows, a través de Microsoft Store aún no existen repositorios que alcancen el nivel de Linux; sobre todo en número de programas realmente útiles. Más, siempre puedes buscar alguna opción como por ejemplo, [instalar Chocolatey](https://ciberninjas.com/chocolatey/), con el que vas a poder instalar facilmente cientos de programas de uso diario.
+En Windows, a través de Microsoft Store aún no existen repositorios que alcancen el nivel de Linux; sobre todo en número de programas realmente útiles. Más, siempre puedes buscar alguna opción como por ejemplo, [instalar Chocolatey](https://ciberninjas.com/chocolatey/), con el que vas a poder instalar fácilmente cientos de programas de uso diario.
 
 Aparte, desde la Microsoft Store, poco a poco; se van creando instaladores para algunas aplicaciones de terceros que merecen la pena. Como por ejemplo: Digital Delivery, File Hippo, Patch My PC, APP Shop, ZipSoft, etc.
 
@@ -145,7 +145,7 @@ Además, en la mayoría de los casos, no se descargan los archivos desde los mis
 
 Otra opción, es probar con el [instalador Ninite](https://ciberninjas.com/ninite/), aunque seguramente ese tipo de programas ya lo tengas instalado; Ninite sirve para instalar de golpe los programas más básicos y necesarios, tras una instalación de un Sistema Operativo limpio.
 
-La última opción, es la instalación manual, descargándo las aplicaciones de los sitios web de los fabricantes. Esto te llevará un poco más de tiempo, pero es la forma de controlar que las descargas sean más seguras.
+La última opción, es la instalación manual, descargando las aplicaciones de los sitios web de los fabricantes. Esto te llevará un poco más de tiempo, pero es la forma de controlar que las descargas sean más seguras.
 
 ## 8. **Revo Uninstaller y similares**
 
@@ -162,9 +162,9 @@ Haga clic en “Inicio” → “Configuración” → “Aplicaciones” → �
 
 ## 9. **Navegadores adicionales**
 
-El navegador generalmente es algo bueno, pero solo cuando está trabajando como programa principal dentro del sistema operativo. Si no prestas atención a las casillas de verificación en los instaladores de los diferentes navegadores web: Opera, Yandex.Browser, Comodo Dragon, Epic o Atom de Mail.ru; es posible que termines cruzando datos personas entre diferentes softwares y termines volviéndote loc@.
+El navegador generalmente es algo bueno, pero solo cuando está trabajando como programa principal dentro del sistema operativo. Si no prestas atención a las casillas de verificación en los instaladores de los diferentes navegadores web: Opera, Yandex.Browser, Comodo Dragon, Epic o Atom de Mail.ru; es posible que termines cruzando datos personas entre diferentes software y termines volviéndote loc@.
 
-Dicho esto, todos los navegadores ocupan un amplio espacio en el disco duro, lo que puede llegar a ser un gran problema a corto plazo; en el caso de que estes usando una ultrabook con un SSD de 128 GB.
+Dicho esto, todos los navegadores ocupan un amplio espacio en el disco duro, lo que puede llegar a ser un gran problema a corto plazo; en el caso de que estés usando una ultrabook con un SSD de 128 GB.
 
 Cada navegador que instales, peleará por encubrir los datos del ya instalado; tratando de convertirse en el navegador predeterminado y reemplazar el motor de búsqueda.
 
@@ -186,9 +186,9 @@ No debes gastar dinero en suscripciones de antivirus costosas e inútiles. Sin l
 
 ### **Alternativas de Antivirus y Anti-Spyware**
 
-Simplemente procura mantener al día tus copias de recuperación y realiza alguna copia de seguridad de tus archivos más imnportantes, de vez en cuando; y no malgastes los recursos de tu ordenador en un antivirus.
+Simplemente procura mantener al día tus copias de recuperación y realiza alguna copia de seguridad de tus archivos más importantes, de vez en cuando; y no malgastes los recursos de tu ordenador en un antivirus.
 
-Acompaña eso, junto a limpiezas períodicas de coockies, archivos temporales. Eso será más que suficiente.
+Acompaña eso, junto a limpiezas periódicas de cookies, archivos temporales. Eso será más que suficiente.
 
 Si bien, si eres una persona sumamente descuidada que no te gusta estar realizando ciertas limpiezas de vez en cuando o totalmente principiante respecto a los ordenadores; siempre puedes tener un antivirus de baja consumo, como [ClamAV](https://www.clamav.net/){:target="_blank"}.
 
@@ -202,7 +202,7 @@ Que ni hablar queda, de que son herramientas que fuerzan mucho todo el hardware 
 
 ### **Alternativas a las herramientas de virtualización**
 
-Siempre puedes probar alternativas de virtualización en la nube, aunque la gran mayoría son de pago. Por último, tienes páginas increibles como por ejemplo: [DistroTest](https://distrotest.net/){:target="_blank"} que te permiten probar Sistemas Operativos sin la necesidad de que tu exijas un gran esfuerzo y desgaste a tu ordenador.
+Siempre puedes probar alternativas de virtualización en la nube, aunque la gran mayoría son de pago. Por último, tienes páginas increíbles como por ejemplo: [DistroTest](https://distrotest.net/){:target="_blank"} que te permiten probar Sistemas Operativos sin la necesidad de que tu exijas un gran esfuerzo y desgaste a tu ordenador.
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}

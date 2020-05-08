@@ -25,7 +25,7 @@ published: true
 
 ![8 formas de tomar una captura de pantalla en Windows 10](/assets/images/blog/8-capturas-pantalla.webp "8 formas de tomar una captura de pantalla en Windows 10")
 
-Existen dos formas diferentes para realizar capturas de pantalla de la manera más práctica, bien con los propios software internos de Windows 10 o bien con aplicaciones externas o de terceros, que nos ofrezcan las posibilidades deseadas respecto a lo que deseamos hacer.
+Existen dos formas diferentes para realizar capturas de pantalla de la manera más práctica, bien con el propio software interno de Windows 10 o bien con aplicaciones externas o de terceros, que nos ofrezcan las posibilidades deseadas respecto a lo que deseamos hacer.
 
 🔥 Seguro también te interesa: [💻 ▷ Controlar otro ordenador de forma remota](/ayuda-control-remoto-windows-10/), [Portapapeles de Windows 10](/portapapeles-windows-10/), [💻 ▷ 12 Teclas de acceso rápido para cambiar de ventanas](/atajos-teclado-ventanas-windows-10/), [👩‍🔧 ▷ Hiren´s BootCD PE, Aprender desde Cero](/hirens-bootcd-pe/), [🥇 ▷ Las 8 mejores aplicaciones de dibujo](/mejor-software-dibujo-windows-android/)
 {: .notice--danger}
@@ -47,7 +47,7 @@ Las 5 mejores técnicas para realizar capturas de pantalla con los atajos de tec
 
 ### 1. **Win + Impr Pant**
 
-![Atajo de teclado de Windows 10 útil y rápido para crear capturas de pantalla de forma instántanea](/assets/images/blog/crear-capturas/1-capturas-pantalla.webp "Atajo de teclado de Windows 10 útil y rápido para crear capturas de pantalla de forma instántanea")
+![Atajo de teclado de Windows 10 útil y rápido para crear capturas de pantalla de forma instantánea](/assets/images/blog/crear-capturas/1-capturas-pantalla.webp "Atajo de teclado de Windows 10 útil y rápido para crear capturas de pantalla de forma instantánea")
 
 Comencemos con lo más simple. Para tomar instantáneamente una captura de pantalla por completo, use la combinación de teclas Windows (con el icono de Windows) + PrtSc o Impr Pant (Imprimir pantalla).
 
@@ -79,7 +79,7 @@ Presiona Alt + Impr Pant. Luego abre Paint u otro editor de gráficos y usa las 
 
 Windows 10 tiene un administrador de capturas de pantalla incorporado que le permite tomar capturas de pantalla de toda la pantalla, fragmentos individuales u ventanas seleccionadas. Esta es la aplicación Recortes. Es fácil de encontrar por el nombre a través de la búsqueda del sistema.
 
-Después de iniciar “Recortes”, presiona “Modo” y selecciona el área de visualización deseada. Luega pulsa en el fondo o selecciona el espacio exacto que deseas capturar.
+Después de iniciar “Recortes”, presiona “Modo” y selecciona el área de visualización deseada. Luego pulsa en el fondo o selecciona el espacio exacto que deseas capturar.
 
 Cuando la captura de pantalla esté lista, el programa abrirá una nueva ventana. Desde aquí puede poner tus notas en la imagen, enviarla por correo o simplemente guardarla en el disco duro.
 
@@ -87,7 +87,7 @@ Cuando la captura de pantalla esté lista, el programa abrirá una nueva ventana
 
 ![Nueva aplicación de Windows 10 con la que realizar capturas de manera rápida, cómoda y poder realizar pequeñas ediciones sobre la misma](/assets/images/blog/crear-capturas/5-recorte-anotacion.webp "Nueva aplicación de Windows 10 con la que realizar capturas de manera rápida, cómoda y poder realizar pequeñas ediciones sobre la misma")
 
-Recientemente, Windows 10 agregó otra aplicación de captura de pantalla: "Recorte y Anotación". Con ella, también puedes tomar imágenes del área seleccionada, la ventanas activa o la pantalla completa. Lo más probable es que en el futuro esta apliación reemplace a la herramienta Recortes; que será movida o eliminada.
+Recientemente, Windows 10 agregó otra aplicación de captura de pantalla: "Recorte y Anotación". Con ella, también puedes tomar imágenes del área seleccionada, la ventana activa o la pantalla completa. Lo más probable es que en el futuro esta aplicación reemplace a la herramienta Recortes; que será movida o eliminada.
 
 Para abrir "Recorte y Anotación" debes presionar la combinación: Win + Shift + S o buscar el programa por su nombre a través de la búsqueda del sistema. Después de iniciarlo, selecciona el área de captura de pantalla con los botones que aparecen en la parte superior.
 
@@ -99,17 +99,17 @@ O en su defecto, abrir Paint y presionar Ctrl + V. Cuando la imagen ya este en e
 
 ## **Programas Externos**
 
-Los 3 mejores aplicaciones con las que poder crear capturas de pantalla, de forma ágil, editarlas rápidamente y poder compartirlas de la manera más instántanea posible.
+Los 3 mejores aplicaciones con las que poder crear capturas de pantalla, de forma ágil, editarlas rápidamente y poder compartirlas de la manera más instantánea posible.
 
 ### 1. **Lightshot**
 
-![Lightshot, es la mejor aplicación de creación de captura de pantalla y subida a la nube de forma instántanea](/assets/images/blog/crear-capturas/6-lightshot.webp "Lightshot, es la mejor aplicación de creación de captura de pantalla y subida a la nube de forma instántanea")
+![Lightshot, es la mejor aplicación de creación de captura de pantalla y subida a la nube de forma instantánea](/assets/images/blog/crear-capturas/6-lightshot.webp "Lightshot, es la mejor aplicación de creación de captura de pantalla y subida a la nube de forma instantánea")
 
 > ***LightShot, es sin lugar a dudas mi favorita.***
 
 LightShot, es la herramienta más simple que te va a permitir tomar capturas de pantalla de un área seleccionada mediante un par de clics. Solo necesitas hacer Clic en el icono del programa y seleccionar el fragmento necesario con el mouse. Luego puedes agregar texto, flechas o dibujar algo sobre la imagen, a través de un pequeño menú flotante que la aplicación te ofrece.
 
-Usar LightShot es muy conveniente para compartir capturas de pantalla; puesto que después de tomar una captura de pantalla , puedes guardarla directamente en un servidor del propio programa y obtener un enlace directo que enviar a tus amigos o compañeros. Lightshot te permite trabajar con los formatos de PNG y JPG.
+Usar LightShot es muy conveniente para compartir capturas de pantalla; puesto que después de tomar una captura de pantalla, puedes guardarla directamente en un servidor del propio programa y obtener un enlace directo que enviar a tus amigos o compañeros. Lightshot te permite trabajar con los formatos de PNG y JPG.
 
 La aplicación es gratuita, pero antes de instalarla te ofrece descargar software adicional. No te olvides de rechazarlo.
 
@@ -125,7 +125,7 @@ Con Nimbus Capture, puedes editar imágenes y guardarlas directamente en Google 
 
 ![Las opciones de guardado de Nimbus son casi infinitas](/assets/images/blog/crear-capturas/7-nimbus-ciberninjas-web.webp "Las opciones de guardado de Nimbus son casi infinitas")
 
-Para tomar una captura de pantalla, simplemente deberas hacer Clic en el botón del plugin de Nimbus Capture en el panel del navegador y seleccionar un área de la pantalla; también puedes personalizar los atajos de teclado y el formato de imagen; eligiendo entre PNG o JPG.
+Para tomar una captura de pantalla, simplemente tendrás que hacer Clic en el botón del plugin de Nimbus Capture en el panel del navegador y seleccionar un área de la pantalla; también puedes personalizar los atajos de teclado y el formato de imagen; eligiendo entre PNG o JPG.
 
 Las funciones enumeradas están disponibles de forma gratuita. Pero, si deseas adjuntar tu logotipo a las capturas de pantalla como marca de agua, guardar las capturas y vídeos en Dropbox o recibir soporte técnico, deberás suscribirte por 15 dólares al año.
 
@@ -141,7 +141,7 @@ En cuanto al editor agregado, Picpick te va a regalar funciones básicas pero al
 
 Puedes configurar teclas de acceso rápido y guardar el archivo en uno de los siguientes formatos: PNG, JPG, BMP, PDF y GIF. Después de la instalación, el icono del programa aparece en la barra de tareas. Para tomar una captura de pantalla, debe hacer Clic en el icono y seleccionar el área deseado.
 
-El programa se puede usar de forma gratuita, pero en este caso, las nuevas versiones deberás descarlas manualmente. Si deseas actualizaciones automáticas, deberás de realizar un único pago de 30 dólares para siempre.
+El programa se puede usar de forma gratuita, pero en este caso, las nuevas versiones deberás descargarlas manualmente. Si deseas actualizaciones automáticas, deberás de realizar un único pago de 30 dólares para siempre.
 
 [⏩ Probar Picpick](https://kutt.it/capturas-picpick "Picpick hace exactamente lo mismo que el Paint, más un poquito más lejos a la hora de la edición; una maravilla ligera de programa"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
