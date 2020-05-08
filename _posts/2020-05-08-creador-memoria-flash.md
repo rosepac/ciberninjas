@@ -70,7 +70,7 @@ Con el paso del tiempo,Toshiba terminó avergonzado por ese mal trato. El depart
 
 Cuando se le recuerda esto, Toshiba admite qué, el inventó la memoria flash pero no logró capitalizar su lanzamiento a nivel mundial, en resumen, no acertó con su metodología de producción, venta y masificación del producto.
 
-Masuoka, ahora profesor en la Universidad de Tohoku en Sendai, en el norte de Japón, espera ser el útimo en sonreir como dice el refrán: Quién sonrie el último, sonrie mejor.
+Masuoka, ahora profesor en la Universidad de Tohoku en Sendai, en el norte de Japón, espera ser el útimo en sonreir como dice el refrán: "Quién sonríe el último, sonríe mejor".
 
 Desde que dejó Toshiba en 1994, ha estado trabajando en lo que espera que sea una invención aún más importante: un "semiconductor tridimensional basado en silicio", dice, que aumentará la capacidad de los semiconductores por diez.
 
@@ -84,9 +84,9 @@ Shuji Nakamura, en 2001, inventó una bombilla alimentada por semiconductores y 
 
 Masuoka, un hombre tímido pero seguro, siempre pareció estar destinado a hacer grandes cosas. Cuatro meses después de unirse a Toshiba en 1971, Masuoka, que acababa de lograr un doctorado de la Universidad de Tohoku, inventó un tipo de memoria conocida como SAMOS.
 
-Además, d espués de cinco años en Toshiba, inventó otro tipo y fue trasladado a la división de producción de semiconductores, donde desarrolló una DRAM de 1 megabit.
+Además, después de cinco años en Toshiba, inventó otro tipo y fue trasladado a la división de producción de semiconductores, donde desarrolló una DRAM de 1 megabit.
 
-Sin embargo, lo que le entusiasmó realmente fue una idea que se le ocurrió, en un Click instántaneo de su vida y que daba solución a uno de los mayores desafíos que enfrentó la industria de los semiconductores en la década de 1970: Encontrar una manera de retener la memoria para que no desapareciera cada vez que se apagaba la alimentación.
+Sin embargo, lo que le entusiasmó realmente fue una idea que se le ocurrió, en un Click instantáneo de su vida y que daba solución a uno de los mayores desafíos que enfrentó la industria de los semiconductores en la década de 1970: Encontrar una manera de retener la memoria para que no desapareciera cada vez que se apagaba la alimentación.
 
 Los ingenieros encontraron demasiado engorroso construir una memoria no volátil para cada bit de información, y la idea de Masuoka era que la información debía almacenarse en grandes lotes en lugar de en un solo bit, así, sería más fácil diseñar la retención de grandes lotes porque esto podría hacerse con diseños de circuitos más compactos y simples.
 
@@ -96,19 +96,19 @@ No fue hasta cuatro años después, después de una promoción educativa que pud
 
 Cuando Masuoka presentó su memoria flash en la reunión anual internacional de desarrolladores de electrónica en San José, California, en 1984, la industria estadounidense de semiconductores lo vio como una amenaza.
 
-De vuelta a casa, sus superiores en Toshiba se sorprendieron levemente cuando varias compañías de computadoras de EE. UU. incluyendo Intel y también algunos fabricantes de automóviles, pidieron algunas muestras e Intel puso inmediatamente a más de 300 ingenieros a trabajar a tiempo completo en el desarrollo de la futura memoria flash.
+De vuelta a casa, sus superiores en Toshiba se sorprendieron levemente cuando varias compañías de computadoras de USA incluyendo Intel y también algunos fabricantes de automóviles, pidieron algunas muestras e Intel puso inmediatamente a más de 300 ingenieros a trabajar a tiempo completo en el desarrollo de la futura memoria flash.
 
 Mientras tanto, en Toshiba, "dejaron que cinco tipos me ayudaran a tiempo parcial", dice Masuoka. Aunque el grupo de Masuoka fue el primero en vender memoria flash (en un producto utilizado en automóviles) no pasó mucho tiempo antes de que Intel dominara por completo el mercado. En su libro conmemorativo del 25 aniversario, publicado en 1993, Intel se jactó de haber revertido el patrón habitual de que un invento estadounidense se convirtiera en un producto japonés; y las memorias flash se convirtieron en muy poco tiempo en uno de los principales ingresos de Intel.
 
 El trabajo de Masuoka con DRAM, en el que Toshiba era un líder mundial para ese entonces, aseguró su promoción adicional. Ahora tenía más de 60 ingenieros trabajando para él a tiempo completo en el desarrollo de DRAM. Las DRAM estaban dando unas ganancias a Toshiba de 500 millones de dólares al año, estima Masuoka.
 
-Intel, sin embargo, recibía un estimado de 500 millones de dólares al año de lavente de memorias flash poco después de su desarrollo: se había convertido en un componente vital en las computadoras personales y la electrónica del automóvil. Otras compañías, como Advanced Micro Devices, Fujitsu, Sharp y Mitsubishi, también entraron al mercado de la venta de memorias.
+Intel, sin embargo, recibía un estimado de 500 millones de dólares al año de la venta de memorias flash poco después de su desarrollo: se había convertido en un componente vital en las computadoras personales y la electrónica del automóvil. Otras compañías, como Advanced Micro Devices, Fujitsu, Sharp y Mitsubishi, también entraron al mercado de la venta de memorias.
 
 Pero Masuoka no había renunciado a la memoria flash. En 1986, pasó la mitad de su tiempo en Estados Unidos como testigo en una demanda de patentes que involucraba a Toshiba y Texas Instruments. Mientras esperaba su turno para testificar, comenzó a trabajar en un nuevo tipo de memoria flash, continuando en su tiempo libre hasta que estuviera listo para solicitar patentes.
 
 La idea era una memoria flash de tipo NAND (no / y) que pudiera usarse, esperaba, para reemplazar los discos duros de las computadoras. El tipo de memoria NAND sacrifica velocidad por compacidad y bajo precio. El tipo NOR debe ser ultrarrápido porque está conectado directamente a la unidad central de procesamiento de una computadora y almacena su sistema básico de entrada-salida (el sistema operativo utilizado por el microchip que se encuentra debajo de los sistemas operativos de interfaz de usuario, como Windows).
 
-El tipo NAND podría contener más del doble de la cantidad de información y ser más lento si se usa como un disquete o disco duro. Masuoka describe la diferencia entre un edificio de apartamentos de ocho pisos y una casa de un piso. Es mucho más rápido salir de la casa, pero solo puede caber tantas casas en una superficie determinada.
+El tipo NAND podría contener más del doble de la cantidad de información y ser más lento si se usa como un disquete o disco duro. Masuoka describe la diferencia entre un edificio de apartamentos de ocho pisos y una casa de un piso. Es mucho más rápido salir de la casa, pero solo pueden caber tantas casas en una superficie determinada.
 
 En 1987, nuevamente sin permiso (dice Masuoka), hizo algunos lotes de su nuevo tipo de memoria flash. Esta vez fue lo suficientemente mayor como para poder dedicar recursos al proyecto para garantizar que Toshiba obtuviera un liderazgo insuperable tanto en patentes como en tecnología de producción. "Toshiba es una buena compañía en el sentido de que les da a los gerentes intermedios suficiente autonomía para hacer tales cosas", dice Masuoka.
 

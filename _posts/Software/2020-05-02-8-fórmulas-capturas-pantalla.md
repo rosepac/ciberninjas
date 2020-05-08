@@ -10,7 +10,7 @@ categories:
 - Software
 header:
   teaser: /assets/images/blog/8-capturas-pantalla.webp
-title: '8 Fórmulas diferentes para crear una captura de pantalla en Windows 10'
+title: '8 Fórmulas diferentes de crear una captura de pantalla en Windows 10'
 description: >-
   Aprende a generar capturas de pantalla con herramientas del sistema o programas adicionales.
 excerpt: >-
