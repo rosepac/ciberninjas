@@ -18,7 +18,7 @@ canonical_URL: https://ciberninjas.com/planificador-tareas/
 permalink: /planificador-tareas/
 date: 2020-05-01
 last_modified_at: 
-published: true
+published: false
 
 ---
 
