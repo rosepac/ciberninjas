@@ -25,32 +25,37 @@ published: true
 
 ![8 formas de tomar una captura de pantalla en Windows 10](/assets/images/blog/8-capturas-pantalla.webp "8 formas de tomar una captura de pantalla en Windows 10")
 
-- [**Herramientas Nativas de Windows 10**](#herramientas-nativas-de-windows-10)
-  - [**1. Win + Impr Pant**](#1-win--impr-pant)
-  - [**2. Impr Pant + Paint**](#2-impr-pant--paint)
-  - [**3. Alt + Impr Pant**](#3-alt--impr-pant)
-  - [**4. Herramienta Recortes**](#4-herramienta-recortes)
-  - [**5. Recorte y Anotación**](#5-recorte-y-anotaci%c3%b3n)
-- [**Programas Externos**](#programas-externos)
-  - [**1. Lightshot**](#1-lightshot)
-  - [**2. Nimbus**](#2-nimbus)
-  - [**3. Picpick**](#3-picpick)
-<!-- [CONTENIDO INTRODUCCION](https://lifehacker.ru/screenshot-windows-10/) -->
+Existen dos formas diferentes para realizar capturas de pantalla de la manera más práctica, bien con los propios software internos de Windows 10 o bien con aplicaciones externas o de terceros, que nos ofrezcan las posibilidades deseadas respecto a lo que deseamos hacer.
 
 🔥 Seguro también te interesa: [💻 ▷ Controlar otro ordenador de forma remota](/ayuda-control-remoto-windows-10/), [Portapapeles de Windows 10](/portapapeles-windows-10/), [💻 ▷ 12 Teclas de acceso rápido para cambiar de ventanas](/atajos-teclado-ventanas-windows-10/), [👩‍🔧 ▷ Hiren´s BootCD PE, Aprender desde Cero](/hirens-bootcd-pe/), [🥇 ▷ Las 8 mejores aplicaciones de dibujo](/mejor-software-dibujo-windows-android/)
 {: .notice--danger}
+- [**Herramientas Nativas de Windows 10**](#herramientas-nativas-de-windows-10)
+  - [1. **Win + Impr Pant**](#1-win--impr-pant)
+  - [2. **Impr Pant + Paint**](#2-impr-pant--paint)
+  - [3. **Alt + Impr Pant**](#3-alt--impr-pant)
+  - [4. **Herramienta Recortes**](#4-herramienta-recortes)
+  - [5. **Recorte y Anotación**](#5-recorte-y-anotaci%c3%b3n)
+- [**Programas Externos**](#programas-externos)
+  - [1. **Lightshot**](#1-lightshot)
+  - [2. **Nimbus**](#2-nimbus)
+  - [3. **Picpick**](#3-picpick)
+<!-- [CONTENIDO INTRODUCCION](https://lifehacker.ru/screenshot-windows-10/) -->
 
 ## **Herramientas Nativas de Windows 10**
 
 Las 5 mejores técnicas para realizar capturas de pantalla con los atajos de teclado y aplicaciones que Windows 10 incluye por defecto.
 
-### **1. Win + Impr Pant**
+### 1. **Win + Impr Pant**
+
+![](/assets/images/blog/crear-capturas/1-capturas-pantalla.webp "")
 
 Comencemos con lo más simple. Para tomar instantáneamente una captura de pantalla por completo, use la combinación de teclas Windows (con el icono de Windows) + PrtSc o Impr Pant (Imprimir pantalla).
 
 El sistema tomará una captura de pantalla e inmediatamente la guardará en el disco duro en formato PNG. El archivo terminado se puede encontrar en: “Mi PC” → “Imágenes” → “Capturas de pantalla”.
 
-### **2. Impr Pant + Paint**
+### 2. **Impr Pant + Paint**
+
+![](/assets/images/blog/crear-capturas/2-capturas-paint.webp "")
 
 Este método también te permite crear una captura de pantalla completa, pero si es necesario, puede editar inmediatamente el resultado.
 
@@ -60,13 +65,17 @@ Para ver la captura de pantalla, tendrás que iniciar Paint y pegar la imagen en
 
 Haz Clic en Archivo → Guardar como y guarda la captura de pantalla en el formato que desees. La imagen aparecerá en la carpeta elegida. En lugar de Paint, puede usar cualquier otro editor de gráficos instalado en su PC.
 
-### **3. Alt + Impr Pant**
+### 3. **Alt + Impr Pant**
+
+![](/assets/images/blog/crear-capturas/3-captura-paint-ventana.webp "")
 
 Esta combinación de teclas toma una imagen de la ventana activa y, como el método anterior, copia la imagen resultante en el portapapeles.
 
 Presiona Alt + Impr Pant. Luego abre Paint u otro editor de gráficos y usa las teclas Ctrl + V para insertar la captura de pantalla de la ventana elegida. Edita la imagen si es necesario, y guárdala en cualquier carpeta y con el formato deseado.
 
-### **4. Herramienta Recortes**
+### 4. **Herramienta Recortes**
+
+![](/assets/images/blog/crear-capturas/4-captura-herramienta-recortes.webp "")
 
 Windows 10 tiene un administrador de capturas de pantalla incorporado que le permite tomar capturas de pantalla de toda la pantalla, fragmentos individuales u ventanas seleccionadas. Esta es la aplicación Recortes. Es fácil de encontrar por el nombre a través de la búsqueda del sistema.
 
@@ -74,11 +83,15 @@ Después de iniciar “Recortes”, presiona “Modo” y selecciona el área de
 
 Cuando la captura de pantalla esté lista, el programa abrirá una nueva ventana. Desde aquí puede poner tus notas en la imagen, enviarla por correo o simplemente guardarla en el disco duro.
 
-### **5. Recorte y Anotación**
+### 5. **Recorte y Anotación**
+
+![](/assets/images/blog/crear-capturas/5-recorte-anotacion.webp "")
 
 Recientemente, Windows 10 agregó otra aplicación de captura de pantalla: "Recorte y Anotación". Con ella, también puedes tomar imágenes del área seleccionada, la ventanas activa o la pantalla completa. Lo más probable es que en el futuro esta apliación reemplace a la herramienta Recortes; que será movida o eliminada.
 
 Para abrir "Recorte y Anotación" debes presionar la combinación: Win + Shift + S o buscar el programa por su nombre a través de la búsqueda del sistema. Después de iniciarlo, selecciona el área de captura de pantalla con los botones que aparecen en la parte superior.
+
+![](/assets/images/blog/crear-capturas/5-recorte-anotacion-2.webp "")
 
 Para visualizar la captura de pantalla realizada, puedes apretar en la notificación que te aparece una vez realizada la misma; para que se te abra un nuevo editor de Windows 10. Con el que podrás realizar pequeñas anotaciones y ajustes sobre la imagen.
 
@@ -88,7 +101,9 @@ O en su defecto, abrir Paint y presionar Ctrl + V. Cuando la imagen ya este en e
 
 Los 3 mejores aplicaciones con las que poder crear capturas de pantalla, de forma ágil, editarlas rápidamente y poder compartirlas de la manera más instántanea posible.
 
-### **1. Lightshot**
+### 1. **Lightshot**
+
+![](/assets/images/blog/crear-capturas/6-lightshot.webp "")
 
 > ***LightShot, es sin lugar a dudas mi favorita.***
 
@@ -100,11 +115,15 @@ La aplicación es gratuita, pero antes de instalarla te ofrece descargar softwar
 
 [⏩ Probar Lightshot](https://kutt.it/capturas-lightshot){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
-### **2. Nimbus**
+### 2. **Nimbus**
+
+![](/assets/images/blog/crear-capturas/7-nimbus-extension-chrome.webp "")
 
 Nimbus Capture es un complemento del navegador que te hace muy práctico el tomar capturas de pantalla de cualquier página web. Además de las capturas de pantalla habituales a pantalla completa, de una ventana o un único fragmento seleccionado, también te permite capturar la longitud completa de una página web incluso si no cabe en la pantalla.
 
-Con Nimbus Capture, puedes editar imágenes y guardarlas directamente en Google Drive. Además, el complemento te permite capturar vídeos.
+Con Nimbus Capture, puedes editar imágenes y guardarlas directamente en Google Drive. Además, el complemento te permite capturar vídeos y generar notas al estilo de Evernote.
+
+![](/assets/images/blog/crear-capturas/7-nimbus-ciberninjas-web.webp "")
 
 Para tomar una captura de pantalla, simplemente deberas hacer Clic en el botón del plugin de Nimbus Capture en el panel del navegador y seleccionar un área de la pantalla; también puedes personalizar los atajos de teclado y el formato de imagen; eligiendo entre PNG o JPG.
 
@@ -112,7 +131,9 @@ Las funciones enumeradas están disponibles de forma gratuita. Pero, si deseas a
 
 [⏩ Probar Nimbus](https://kutt.it/capturas-nimbus){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
-### **3. Picpick**
+### 3. **Picpick**
+
+![](/assets/images/blog/crear-capturas/8-picpick.webp "")
 
 Picpick, es un editor de imágenes muy similar a Paint, con una función añadida de crear capturas de pantalla. PicPick, puede tomar imágenes a pantalla completa, cualquier área seleccionada o simplemente de la ventana activa; incluido el desplazamiento a través de toda la ventana activa.
 
