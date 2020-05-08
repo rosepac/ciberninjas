@@ -24,10 +24,11 @@ published: true
 
 ![¿Quién es Fujio Masuoka? El creador de las memorias flash](/assets/images/blog/8-inventor-memoria.webp "¿Quién es Fujio Masuoka? El creador de las memorias flash")
 
-🔥 Seguro también te interesa: [La Historia de los Ordenadores](/cronograma/) >> [Personajes Históricos en la Historia de los Ordenadores](/personajes-historicos/) >> [Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/) >> [Una espectacular galería de robots históricos](/galeria-de-robots/)
-{: .notice--danger}
 - [**Biografía Completa**](#biograf%c3%ada-completa)
 - [**EL Héroe Anónimo: Una historia en profundidad**](#el-h%c3%a9roe-an%c3%b3nimo-una-historia-en-profundidad)
+
+🔥 Seguro también te interesa: [La Historia de los Ordenadores](/cronograma/) >> [Personajes Históricos en la Historia de los Ordenadores](/personajes-historicos/) >> [Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/) >> [Una espectacular galería de robots históricos](/galeria-de-robots/)
+{: .notice--danger}
 
 ## **Biografía Completa**
 

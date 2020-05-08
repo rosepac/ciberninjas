@@ -47,7 +47,7 @@ Las 5 mejores técnicas para realizar capturas de pantalla con los atajos de tec
 
 ### 1. **Win + Impr Pant**
 
-![](/assets/images/blog/crear-capturas/1-capturas-pantalla.webp "")
+![Atajo de teclado de Windows 10 útil y rápido para crear capturas de pantalla de forma instántanea](/assets/images/blog/crear-capturas/1-capturas-pantalla.webp "Atajo de teclado de Windows 10 útil y rápido para crear capturas de pantalla de forma instántanea")
 
 Comencemos con lo más simple. Para tomar instantáneamente una captura de pantalla por completo, use la combinación de teclas Windows (con el icono de Windows) + PrtSc o Impr Pant (Imprimir pantalla).
 
@@ -55,7 +55,7 @@ El sistema tomará una captura de pantalla e inmediatamente la guardará en el d
 
 ### 2. **Impr Pant + Paint**
 
-![](/assets/images/blog/crear-capturas/2-capturas-paint.webp "")
+![Atajo de teclado de Windows 10 útil y rápido para crear capturas de pantalla y dejarla sobre el portapapeles](/assets/images/blog/crear-capturas/2-capturas-paint.webp "Atajo de teclado de Windows 10 útil y rápido para crear capturas de pantalla y dejarla sobre el portapapeles")
 
 Este método también te permite crear una captura de pantalla completa, pero si es necesario, puede editar inmediatamente el resultado.
 
@@ -67,7 +67,7 @@ Haz Clic en Archivo → Guardar como y guarda la captura de pantalla en el forma
 
 ### 3. **Alt + Impr Pant**
 
-![](/assets/images/blog/crear-capturas/3-captura-paint-ventana.webp "")
+![Atajo de teclado de Windows 10 útil y rápido para crear capturas de pantalla sobre la ventana activa o superior](/assets/images/blog/crear-capturas/3-captura-paint-ventana.webp "Atajo de teclado de Windows 10 útil y rápido para crear capturas de pantalla sobre la ventana activa o superior")
 
 Esta combinación de teclas toma una imagen de la ventana activa y, como el método anterior, copia la imagen resultante en el portapapeles.
 
@@ -75,7 +75,7 @@ Presiona Alt + Impr Pant. Luego abre Paint u otro editor de gráficos y usa las 
 
 ### 4. **Herramienta Recortes**
 
-![](/assets/images/blog/crear-capturas/4-captura-herramienta-recortes.webp "")
+![Aplicación más común de Windows 10 para la creación de diferentes formatos de imágenes de la pantalla del ordenador](/assets/images/blog/crear-capturas/4-captura-herramienta-recortes.webp "Aplicación más común de Windows 10 para la creación de diferentes formatos de imágenes de la pantalla del ordenador")
 
 Windows 10 tiene un administrador de capturas de pantalla incorporado que le permite tomar capturas de pantalla de toda la pantalla, fragmentos individuales u ventanas seleccionadas. Esta es la aplicación Recortes. Es fácil de encontrar por el nombre a través de la búsqueda del sistema.
 
@@ -85,13 +85,13 @@ Cuando la captura de pantalla esté lista, el programa abrirá una nueva ventana
 
 ### 5. **Recorte y Anotación**
 
-![](/assets/images/blog/crear-capturas/5-recorte-anotacion.webp "")
+![Nueva aplicación de Windows 10 con la que realizar capturas de manera rápida, cómoda y poder realizar pequeñas ediciones sobre la misma](/assets/images/blog/crear-capturas/5-recorte-anotacion.webp "Nueva aplicación de Windows 10 con la que realizar capturas de manera rápida, cómoda y poder realizar pequeñas ediciones sobre la misma")
 
 Recientemente, Windows 10 agregó otra aplicación de captura de pantalla: "Recorte y Anotación". Con ella, también puedes tomar imágenes del área seleccionada, la ventanas activa o la pantalla completa. Lo más probable es que en el futuro esta apliación reemplace a la herramienta Recortes; que será movida o eliminada.
 
 Para abrir "Recorte y Anotación" debes presionar la combinación: Win + Shift + S o buscar el programa por su nombre a través de la búsqueda del sistema. Después de iniciarlo, selecciona el área de captura de pantalla con los botones que aparecen en la parte superior.
 
-![](/assets/images/blog/crear-capturas/5-recorte-anotacion-2.webp "")
+![Vista del editor de la nueva aplicación de Windows 10 para la creación de recortes de pantalla](/assets/images/blog/crear-capturas/5-recorte-anotacion-2.webp "Vista del editor de la nueva aplicación de Windows 10 para la creación de recortes de pantalla")
 
 Para visualizar la captura de pantalla realizada, puedes apretar en la notificación que te aparece una vez realizada la misma; para que se te abra un nuevo editor de Windows 10. Con el que podrás realizar pequeñas anotaciones y ajustes sobre la imagen.
 
@@ -103,7 +103,7 @@ Los 3 mejores aplicaciones con las que poder crear capturas de pantalla, de form
 
 ### 1. **Lightshot**
 
-![](/assets/images/blog/crear-capturas/6-lightshot.webp "")
+![Lightshot, es la mejor aplicación de creación de captura de pantalla y subida a la nube de forma instántanea](/assets/images/blog/crear-capturas/6-lightshot.webp "Lightshot, es la mejor aplicación de creación de captura de pantalla y subida a la nube de forma instántanea")
 
 > ***LightShot, es sin lugar a dudas mi favorita.***
 
@@ -117,23 +117,23 @@ La aplicación es gratuita, pero antes de instalarla te ofrece descargar softwar
 
 ### 2. **Nimbus**
 
-![](/assets/images/blog/crear-capturas/7-nimbus-extension-chrome.webp "")
+![Nimbus, un sustituto de Evernote que ofrece importantes y variadas opciones tanto en la creación de capturas como de vídeo de la pantalla y del navegador web](/assets/images/blog/crear-capturas/7-nimbus-extension-chrome.webp "Nimbus, un sustituto de Evernote que ofrece importantes y variadas opciones tanto en la creación de capturas como de vídeo de la pantalla y del navegador web")
 
 Nimbus Capture es un complemento del navegador que te hace muy práctico el tomar capturas de pantalla de cualquier página web. Además de las capturas de pantalla habituales a pantalla completa, de una ventana o un único fragmento seleccionado, también te permite capturar la longitud completa de una página web incluso si no cabe en la pantalla.
 
 Con Nimbus Capture, puedes editar imágenes y guardarlas directamente en Google Drive. Además, el complemento te permite capturar vídeos y generar notas al estilo de Evernote.
 
-![](/assets/images/blog/crear-capturas/7-nimbus-ciberninjas-web.webp "")
+![Las opciones de guardado de Nimbus son casi infinitas](/assets/images/blog/crear-capturas/7-nimbus-ciberninjas-web.webp "Las opciones de guardado de Nimbus son casi infinitas")
 
 Para tomar una captura de pantalla, simplemente deberas hacer Clic en el botón del plugin de Nimbus Capture en el panel del navegador y seleccionar un área de la pantalla; también puedes personalizar los atajos de teclado y el formato de imagen; eligiendo entre PNG o JPG.
 
 Las funciones enumeradas están disponibles de forma gratuita. Pero, si deseas adjuntar tu logotipo a las capturas de pantalla como marca de agua, guardar las capturas y vídeos en Dropbox o recibir soporte técnico, deberás suscribirte por 15 dólares al año.
 
-[⏩ Probar Nimbus](https://kutt.it/capturas-nimbus){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⏩ Probar Nimbus](https://kutt.it/capturas-nimbus "Probar Nimbus, la extensión de Chrome para la creación de vídeos y capturas de pantalla"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ### 3. **Picpick**
 
-![](/assets/images/blog/crear-capturas/8-picpick.webp "")
+![Picpick, la versión mejorada del Paint, si crees que con poco más que el Paint puedes trabajar; está, es tu opción perfecta](/assets/images/blog/crear-capturas/8-picpick.webp "Picpick, la versión mejorada del Paint, si crees que con poco más que el Paint puedes trabajar; está, es tu opción perfecta")
 
 Picpick, es un editor de imágenes muy similar a Paint, con una función añadida de crear capturas de pantalla. PicPick, puede tomar imágenes a pantalla completa, cualquier área seleccionada o simplemente de la ventana activa; incluido el desplazamiento a través de toda la ventana activa.
 
@@ -143,7 +143,7 @@ Puedes configurar teclas de acceso rápido y guardar el archivo en uno de los si
 
 El programa se puede usar de forma gratuita, pero en este caso, las nuevas versiones deberás descarlas manualmente. Si deseas actualizaciones automáticas, deberás de realizar un único pago de 30 dólares para siempre.
 
-[⏩ Probar Picpick](https://kutt.it/capturas-picpick){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⏩ Probar Picpick](https://kutt.it/capturas-picpick "Picpick hace exactamente lo mismo que el Paint, más un poquito más lejos a la hora de la edición; una maravilla ligera de programa"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1](/black-friday-amazon/) >> [mejores regalos 2](/prime-day-amazon/)
 {: .notice--danger}
