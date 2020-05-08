@@ -4,9 +4,9 @@ author_profile: true
 comments: false
 classes: wide
 tags:
-- Hacking
+- Blogs
 categories:
-- Sistemas Operativos
+- Diseño Gráfico
 header:
   teaser: /assets/images/blog/abril-inspiracion-paginas-web.webp
 title: '🥇 ▷ Los 66 mejores blogs de diseño gráfico 2020'

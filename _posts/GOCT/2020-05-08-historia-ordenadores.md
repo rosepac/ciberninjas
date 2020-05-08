@@ -24,6 +24,11 @@ published: false
 
 ![](/assets/images/ "")
 
+Las computadoras realmente se convirtieron en grandes inventos en las últimas dos décadas del siglo XX. Pero su historia se remonta más de 2500 años atrás al ábaco: una calculadora simple hecha de cuentas y alambres, que todavía se usa en algunas partes del mundo en la actualidad. La diferencia entre un ábaco antiguo y una computadora moderna parece enorme, pero el principio, hacer cálculos repetidos más rápidamente que el cerebro humano, es exactamente el mismo.
+
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+{: .notice--danger}
+
 - [1. **Ábacos y calculadoras**](#1-%c3%81bacos-y-calculadoras)
 - [2. **Motores de cálculo**](#2-motores-de-c%c3%a1lculo)
 - [3. **Bush y la bomba**](#3-bush-y-la-bomba)
@@ -35,12 +40,6 @@ published: false
 - [9. **De las redes a internet**](#9-de-las-redes-a-internet)
 - [10. **¿Qué nos espera en el futuro?**](#10-%c2%bfqu%c3%a9-nos-espera-en-el-futuro)
   - [Relacionados](#relacionados)
-
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
-{: .notice--danger}
-
-Las computadoras realmente se convirtieron en grandes inventos en las últimas dos décadas del siglo XX. Pero su historia se remonta más de 2500 años atrás al ábaco: una calculadora simple hecha de cuentas y alambres, que todavía se usa en algunas partes del mundo en la actualidad. La diferencia entre un ábaco antiguo y una computadora moderna parece enorme, pero el principio, hacer cálculos repetidos más rápidamente que el cerebro humano, es exactamente el mismo.
-
 <!-- https://www.explainthatstuff.com/historyofcomputers.html -->
 
 ## 1. **Ábacos y calculadoras**

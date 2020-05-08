@@ -8,7 +8,7 @@ tags:
 categories:
 - Inventor
 header:
-  teaser: /assets/images/blog/8-inventor-flash.webp
+  teaser: /assets/images/blog/8-inventor-memoria.webp
 title: '¿Quién es Fujio Masuoka? El creador de las memorias flash'
 description: >-
   Los chips de memoria flash, que almacenan datos en teléfonos celulares, cámaras digitales y reproductores de música, no llegaron exactamente en un instante. A Fujio Masuoka, le debemos el haberlas creado. Además, de las memorias DRAM.
@@ -22,12 +22,12 @@ published: true
 
 ---
 
-![¿Quién es Fujio Masuoka? El creador de las memorias flash](/assets/images/blog/8-inventor-flash.webp "¿Quién es Fujio Masuoka? El creador de las memorias flash")
+![¿Quién es Fujio Masuoka? El creador de las memorias flash](/assets/images/blog/8-inventor-memoria.webp "¿Quién es Fujio Masuoka? El creador de las memorias flash")
 
 🔥 Seguro también te interesa: [La Historia de los Ordenadores](/cronograma/) >> [Personajes Históricos en la Historia de los Ordenadores](/personajes-historicos/) >> [Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/) >> [Una espectacular galería de robots históricos](/galeria-de-robots/)
 {: .notice--danger}
 - [**Biografía Completa**](#biograf%c3%ada-completa)
-- [**EL Héroe Anónimo**](#el-h%c3%a9roe-an%c3%b3nimo)
+- [**EL Héroe Anónimo: Una historia en profundidad**](#el-h%c3%a9roe-an%c3%b3nimo-una-historia-en-profundidad)
 
 ## **Biografía Completa**
 
@@ -57,7 +57,7 @@ En 2004, Masuoka se convirtió en el director técnico de Unisantis Electronics 
 
 En total, posee más 270 patentes registradas y 71 patentes pendientes adicionales; y se le ha llegado a sugerir como un posible candidato para el Premio Nobel de Física, junto a Robert H. Dennard, quien inventó la DRAM de un solo transistor.
 
-## **EL Héroe Anónimo**
+## **EL Héroe Anónimo: Una historia en profundidad**
 
 Fujio Masuoka inventó la memoria flash, una tecnología utilizada en productos con unas ventas valoradas en mucho  más de 76 mil millones de dólares solamente hasta el año 2001. Estos chips se han destinado a productos por más de 3 billones de dólares, incluidos automóviles, computadoras y teléfonos móviles.
 
@@ -81,7 +81,9 @@ La historia de Masuoka ilustra cómo Japón perdió la carrera de semiconductore
 
 Shuji Nakamura, en 2001, inventó una bombilla alimentada por semiconductores y demandó a su empleador, Nichia, por la propiedad de las patentes. Ahora trabaja en los Estados Unidos.
 
-Masuoka, un hombre tímido pero seguro, siempre pareció estar destinado a hacer grandes cosas. Cuatro meses después de unirse a Toshiba en 1971, Masuoka, que acababa de lograr un doctorado de la Universidad de Tohoku, inventó un tipo de memoria conocida como SAMOS; y después de cinco años en Toshiba, inventó otro tipo y fue trasladado a la división de producción de semiconductores, donde desarrolló una DRAM de 1 megabit.
+Masuoka, un hombre tímido pero seguro, siempre pareció estar destinado a hacer grandes cosas. Cuatro meses después de unirse a Toshiba en 1971, Masuoka, que acababa de lograr un doctorado de la Universidad de Tohoku, inventó un tipo de memoria conocida como SAMOS.
+
+Además, d espués de cinco años en Toshiba, inventó otro tipo y fue trasladado a la división de producción de semiconductores, donde desarrolló una DRAM de 1 megabit.
 
 Sin embargo, lo que le entusiasmó realmente fue una idea que se le ocurrió, en un Click instántaneo de su vida y que daba solución a uno de los mayores desafíos que enfrentó la industria de los semiconductores en la década de 1970: Encontrar una manera de retener la memoria para que no desapareciera cada vez que se apagaba la alimentación.
 

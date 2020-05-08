@@ -4,9 +4,9 @@ author_profile: true
 comments: false
 classes: wide
 tags:
-- Hacking
+- Blogs
 categories:
-- Sistemas Operativos
+- Diseño Gráfico
 header:
   teaser: /assets/images/blog/mejores-paginas-diseno-espanol.webp
 title: '🥇 ▷ Los 18 mejores blogs de diseño gráfico en español con los que inspirarte 2020'
@@ -22,7 +22,7 @@ published: true
 
 ---
 
-![  Vamos a buscar la inspiración gráfica y despertar nuestra inspiración entre las páginas de diseño de habla hispana.](/assets/images/blog/mejores-paginas-diseno-espanol.webp "  Vamos a buscar la inspiración gráfica y despertar nuestra inspiración entre las páginas de diseño de habla hispana.
+![Vamos a buscar la inspiración gráfica y despertar nuestra inspiración entre las páginas de diseño de habla hispana.](/assets/images/blog/mejores-paginas-diseno-espanol.webp "Vamos a buscar la inspiración gráfica y despertar nuestra inspiración entre las páginas de diseño de habla hispana.
 ")
 
 En los siguientes **sitios de diseño vas a poder seguir las últimas tendencias**, **los mejores consejos**, **las mejores noticias** y podrás encontrarte con las más novedosas modas enfocadas al mundo del diseño gráfico.
