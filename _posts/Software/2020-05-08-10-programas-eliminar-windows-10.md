@@ -176,7 +176,7 @@ Excepto que desees o requieras por alguna característica muy puntual un segundo
 
 ## 10. **Antivirus y anti-spyware**
 
-Este punto puede generar discusión. Más, en 2020, de hecho ya dese hace unos años; los antivirus están siendo cada vez elementos más inútiles.
+Este punto puede generar discusión. Más, en 2020, de hecho ya desde hace unos años; los antivirus están siendo cada vez elementos más inútiles.
 
 Siempre disminuyen la velocidad del sistema, incluso si son versiones gratuitas te molestan constantemente con publicidad, te descargan programas de adware, monitorean los usuarios de la PC y se propagan de manera dudosa por toda la extensión del ordenador.
 
