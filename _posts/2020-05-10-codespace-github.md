@@ -37,23 +37,23 @@ Contribuir con código a una comunidad puede ser difícil. Cada repositorio tien
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-- [**¿Qué es Codespaces?**](#%c2%bfqu%c3%a9-es-codespaces)
-- [**¿Qué permitirá hacer Codespaces?**](#%c2%bfqu%c3%a9-permitir%c3%a1-hacer-codespaces)
+- [**Qué es Codespaces?**](#qu%c3%a9-es-codespaces)
+- [**Qué permitirá hacer Codespaces?**](#qu%c3%a9-permitir%c3%a1-hacer-codespaces)
 - [**Características de Codespaces**](#caracter%c3%adsticas-de-codespaces)
 - [**Codespaces está disponible para todos?**](#codespaces-est%c3%a1-disponible-para-todos)
-- [**¿Cómo empiezo a usar Codespaces?**](#%c2%bfc%c3%b3mo-empiezo-a-usar-codespaces)
-- [**¿Está disponible Codespaces para todos los repositorios?**](#%c2%bfest%c3%a1-disponible-codespaces-para-todos-los-repositorios)
-- [**¿Qué pasa si no quiero desarrollar en el navegador?**](#%c2%bfqu%c3%a9-pasa-si-no-quiero-desarrollar-en-el-navegador)
-- [**¿Cuánto cuesta Codespaces?**](#%c2%bfcu%c3%a1nto-cuesta-codespaces)
-- [**¿En qué se diferencia Codespaces de Visual Studio Code?**](#%c2%bfen-qu%c3%a9-se-diferencia-codespaces-de-visual-studio-code)
-- [**¿Cómo puedo configurar Codespaces?**](#%c2%bfc%c3%b3mo-puedo-configurar-codespaces)
+- [**Cómo empiezo a usar Codespaces?**](#c%c3%b3mo-empiezo-a-usar-codespaces)
+- [**Está disponible Codespaces para todos los repositorios?**](#est%c3%a1-disponible-codespaces-para-todos-los-repositorios)
+- [**Qué pasa si no quiero desarrollar en el navegador?**](#qu%c3%a9-pasa-si-no-quiero-desarrollar-en-el-navegador)
+- [**Cuánto cuesta Codespaces?**](#cu%c3%a1nto-cuesta-codespaces)
+- [**Diferentes entre Codespaces y Visual Studio Code**](#diferentes-entre-codespaces-y-visual-studio-code)
+- [**Cómo puedo configurar Codespaces?**](#c%c3%b3mo-puedo-configurar-codespaces)
   - [Relacionados](#relacionados)
 
-## **¿Qué es Codespaces?**
+## **Qué es Codespaces?**
 
 Codespaces es la integración online del editor Visual Studio de Microsoft directamente en los repositorios de Github.
 
-## **¿Qué permitirá hacer Codespaces?**
+## **Qué permitirá hacer Codespaces?**
 Codespaces se pueden configurar para cargar su código y dependencias, herramientas de desarrollador, extensiones y archivos de puntos. Cambiar de un entorno a otro es simple: puede navegar en cualquier momento y, cuando vuelve, su espacio de código se vuelve a abrir automáticamente.
 
 Desarrollado por la tecnología Visual Studio, Codespaces en GitHub incluye una versión basada en navegador del editor VS Code completo, con soporte para completar el código y navegación, extensiones, acceso a la terminal y más. Si prefiere usar su IDE de escritorio, podrá iniciar un espacio de código en GitHub y conectarse a él desde su escritorio. 
@@ -75,29 +75,29 @@ El precio de los espacios de código aún no se ha finalizado. La funcionalidad 
 
 Por ahora, no. Mientras esté en su versión BETA. Solamente estará disponible para un pequeño grupo de usuarios de GitHub, con el tiempo, más usuarios tendrán acceso a la versión beta; según disponibilidad y teniendo en cuenta la fecha de registro de los usuarios.
 
-## **¿Cómo empiezo a usar Codespaces?**
+## **Cómo empiezo a usar Codespaces?**
 
 Si eres incluido en la versión beta de Codespaces, verás un botón de "Código" en dentro de los repositorios compatibles.
 
 [⏩ Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
-## **¿Está disponible Codespaces para todos los repositorios?**
+## **Está disponible Codespaces para todos los repositorios?**
 
 Mientras esté en versión beta limitada, Codespaces estará disponible en los repositorios públicos. Habrá soporte adicional disponible a medida que avance la versión beta, pero por ahora, no estará disponible en los repositorios privados que pertenezcan a organizaciones.
 
-## **¿Qué pasa si no quiero desarrollar en el navegador?**
+## **Qué pasa si no quiero desarrollar en el navegador?**
 
 Si lo prefiere, puede abrir Codespaces en GitHub y luego [conectarte a través de Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline){:target="_blank"}.
 
-## **¿Cuánto cuesta Codespaces?**
+## **Cuánto cuesta Codespaces?**
 
 Codespaces será gratis mientras se encuentre en su versión beta. Los planes y precios se anunciarán a medida que avance la versión beta.
 
-## **¿En qué se diferencia Codespaces de Visual Studio Code?**
+## **Diferentes entre Codespaces y Visual Studio Code**
 
 Codespaces configura un entorno de Visual Studio Code alojado en la nube, dentro de contenedores y personalizable. Después de la configuración, puedes conectarte a través del navegador o mediante VS Code.
 
-## **¿Cómo puedo configurar Codespaces?**
+## **Cómo puedo configurar Codespaces?**
 
 Dentro de Codespaces, tendrá acceso a Visual Studio Code Marketplace , y puede precargar cualquier extensión que desee cargar en el lanzamiento utilizando un archivo de configuración devcontainer . También puede personalizar su espacio de código tirando de los archivos de puntos.
 
