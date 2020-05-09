@@ -25,9 +25,15 @@ published: true
 
 ![Zoom anuncia la adquisición de Keybase y anuncia un plan para construir un cifrado de extremo a extremo que pueda alcanzar la escalabilidad actual de Zoom](/assets/images/blog/zoom-keybase.webp "Zoom anuncia la adquisición de Keybase y anuncia un plan para construir un cifrado de extremo a extremo que pueda alcanzar la escalabilidad actual de Zoom")
 
-Estamos orgullosos de anunciar la adquisición de Keybase, otro hito en el plan de 90 días de Zoom para fortalecer aún más la seguridad de nuestra plataforma de comunicaciones de video. Desde su lanzamiento en 2014, el equipo de ingenieros excepcionales de Keybase ha creado un servicio seguro de mensajería y uso compartido de archivos aprovechando su profunda experiencia en encriptación y seguridad. Nos complace integrar al equipo de Keybase en la familia Zoom para ayudarnos a construir un cifrado de extremo a extremo que pueda alcanzar la escalabilidad actual de Zoom.
+Estamos orgullosos de anunciar la adquisición de Keybase, otro hito en el plan de 90 días de Zoom para fortalecer aún más la seguridad de nuestra plataforma de comunicaciones de video.
 
-Esta adquisición marca un paso clave para Zoom, ya que intentamos lograr la creación de una plataforma de comunicaciones de video verdaderamente privada que pueda escalar a cientos de millones de participantes, al mismo tiempo que tiene la flexibilidad para admitir la amplia variedad de usos de Zoom. Nuestro objetivo es proporcionar la mayor privacidad posible para cada caso de uso, al tiempo que equilibramos las necesidades de nuestros usuarios y nuestro compromiso de prevenir comportamientos perjudiciales en nuestra plataforma. El experimentado equipo de Keybase será una parte crítica de esta misión.
+Desde su lanzamiento en 2014, el equipo de ingenieros excepcionales de Keybase ha creado un servicio seguro de mensajería y uso compartido de archivos aprovechando su profunda experiencia en encriptación y seguridad.
+
+Nos complace integrar al equipo de Keybase en la familia Zoom para ayudarnos a construir un cifrado de extremo a extremo que pueda alcanzar la escalabilidad actual de Zoom.
+
+Esta adquisición marca un paso clave para Zoom, ya que intentamos lograr la creación de una plataforma de comunicaciones de video verdaderamente privada que pueda escalar a cientos de millones de participantes, al mismo tiempo que tiene la flexibilidad para admitir la amplia variedad de usos de Zoom.
+
+Nuestro objetivo es proporcionar la mayor privacidad posible para cada caso de uso, al tiempo que equilibramos las necesidades de nuestros usuarios y nuestro compromiso de prevenir comportamientos perjudiciales en nuestra plataforma. El experimentado equipo de Keybase será una parte crítica de esta misión.
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
@@ -43,7 +49,9 @@ Hoy en día, el contenido de audio y video que fluye entre los clientes de Zoom 
 
 No se descifra hasta que llega a los dispositivos de los destinatarios. Con la reciente versión de Zoom 5.0, los clientes de Zoom ahora admiten el cifrado de contenido utilizando AES-GCM estándar de la industria con claves de 256 bits. Sin embargo, las claves de cifrado para cada reunión son generadas por los servidores de Zoom.
 
-Además, algunas características que los clientes de Zoom utilizan ampliamente, como la asistencia a los asistentes para llamar a un puente telefónico o utilizar los sistemas de reuniones en la sala ofrecidos por otras compañías, siempre requerirán que Zoom mantenga algunas claves de cifrado en la nube. Sin embargo, para los hosts que buscan priorizar la privacidad sobre la compatibilidad, crearemos una nueva solución.
+Además, algunas características que los clientes de Zoom utilizan ampliamente, como la asistencia a los asistentes para llamar a un puente telefónico o utilizar los sistemas de reuniones en la sala ofrecidos por otras compañías, siempre requerirán que Zoom mantenga algunas claves de cifrado en la nube.
+
+Sin embargo, para los hosts que buscan priorizar la privacidad sobre la compatibilidad, crearemos una nueva solución.
 
 ## **El futuro cercano**
 
@@ -55,7 +63,9 @@ Los secretos criptográficos estarán bajo el control del anfitrión, y el softw
 
 Estas reuniones cifradas de extremo a extremo no admitirán puentes telefónicos, grabación en la nube o sistemas de salas de conferencias que no sean de Zoom. Los participantes de Zoom Rooms y Zoom Phone podrán asistir si el anfitrión lo permite explícitamente.
 
-Las claves de cifrado estarán estrictamente controladas por el anfitrión, quien admitirá a los asistentes. Creemos que esto proporcionará una seguridad equivalente o mejor que las plataformas de mensajería cifrada de extremo a extremo existentes para el consumidor, pero con la calidad y escala de video que ha hecho que Zoom sea la opción de más de 300 millones de participantes de reuniones diarias, incluidos aquellos en algunas de las más grandes del mundo. empresas.
+Las claves de cifrado estarán estrictamente controladas por el anfitrión, quien admitirá a los asistentes.
+
+Creemos que esto proporcionará una seguridad equivalente o mejor que las plataformas de mensajería cifrada de extremo a extremo existentes para el consumidor, pero con la calidad y escala de video que ha hecho que Zoom sea la opción de más de 300 millones de participantes de reuniones diarias, incluidos aquellos en algunas de las empresas más grandes del mundo.
 
 A medida que hacemos este trabajo para proteger aún más la privacidad de nuestros usuarios, también somos conscientes de nuestro deseo de evitar el uso de los productos de Zoom para causar daños. Para ello, seguiremos los siguientes pasos:
 
