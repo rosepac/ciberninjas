@@ -7,7 +7,8 @@ published: true
 comments: false
 date: 2020-01-22 19:10:12
 last_modified_at: 
-canonical_URL: /que-es-la-interoperabilidad-en-la-distribucion-continua/
+canonical_URL: https://ciberninjas.com/que-es-la-interoperabilidad-en-la-distribucion-continua/
+permalink: /que-es-la-interoperabilidad-en-la-distribucion-continua/
 classes: wide
 categories:
 - Distribución Continua
