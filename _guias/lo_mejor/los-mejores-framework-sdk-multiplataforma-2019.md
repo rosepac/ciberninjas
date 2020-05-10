@@ -1,11 +1,11 @@
 ---
-title: "🥇 Los 14 Mejores Framework de Desarrollo de Aplicaciones Web y Móviles para 2020 👨‍💻"
+title: "🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻"
 author_profile: true
 description: '🚀 Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
 excerpt: '🚀 Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
 published: true
-date: 2020-03-16
-last_modified_at: 2020-01-29 03:38:10
+date: 2020-05-09
+last_modified_at: 
 classes: wide
 # Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 header:
@@ -26,7 +26,23 @@ canonical_URL: https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20
 
 Frameworks de desarrollo más impresionantes de aplicaciones móviles más populares que serán tu mejor herramienta para el resto del 2019 y todo el año nuevo 2020.
 
-## Introducción
+- [1. **Flutter**](#1-flutter)
+- [2. **Ionic**](#2-ionic)
+- [3. **React Native**](#3-react-native)
+- [4. **Xamarin**](#4-xamarin)
+- [5. **PhoneGap**](#5-phonegap)
+- [6. **Native Script**](#6-native-script)
+- [7. **Appcelerator Titanium**](#7-appcelerator-titanium)
+- [8. **jQuery Móvil**](#8-jquery-m%c3%b3vil)
+- [9. **Móvil Angular UI**](#9-m%c3%b3vil-angular-ui)
+- [10. **Weex**](#10-weex)
+- [11. **Corona SDK**](#11-corona-sdk)
+- [12. **Unity**](#12-unity)
+- [13. **Qt**](#13-qt)
+- [14. **Intel System Studio**](#14-intel-system-studio)
+  - [Final](#final)
+
+### Introducción
 
 Ha pasado ya algún tiempo desde que ha explotado el mercado de la telefonía móvil y han ido evolucionando las diferentes tecnologías con las que se crean las Apps. En algunos casos más, en otros menos. 
 
@@ -40,9 +56,7 @@ Dentro de este proceso, sin lugar a dudas, el paso más importante es el de la e
 
 Hoy me gustaría ojear y listar los frameworks más importantes, que sin lugar a dudas, ofreceran a todas las empresas de desarrollo la mayor confianza; en el momento de crear sus aplicaciones multiplataforma.
 
-[Flutter](/mejores-sdk-multiplataforma-2019-20/#flutter){: .btn .btn--inverse .btn--large} [Ionic](/mejores-sdk-multiplataforma-2019-20/#ionic){: .btn .btn--inverse .btn--large} [React Native](/mejores-sdk-multiplataforma-2019-20/#react-native){: .btn .btn--inverse .btn--large} [Xamarin](/mejores-sdk-multiplataforma-2019-20/#xamarin){: .btn .btn--inverse .btn--large} [PhoneGap](/mejores-sdk-multiplataforma-2019-20/#phonegap){: .btn .btn--inverse .btn--large} [Native Script](/mejores-sdk-multiplataforma-2019-20/#native-script){: .btn .btn--inverse .btn--large} [Appcelerator Titanium](/mejores-sdk-multiplataforma-2019-20/#appcelerator-titanium){: .btn .btn--inverse .btn--large} [Jquery Móvil](/mejores-sdk-multiplataforma-2019-20/#jquery-móvil){: .btn .btn--inverse .btn--large} [Intel System Studio](/mejores-sdk-multiplataforma-2019-20/#intel-system-studio){: .btn .btn--inverse .btn--large} [Angular UI](/mejores-sdk-multiplataforma-2019-20/#móvil-angular-ui){: .btn .btn--inverse .btn--large} [Weex](/mejores-sdk-multiplataforma-2019-20/#weex){: .btn .btn--inverse .btn--large} [Corona SDK](/mejores-sdk-multiplataforma-2019-20/#corona-sdk){: .btn .btn--inverse .btn--large} [Unity](/mejores-sdk-multiplataforma-2019-20/#unity){: .btn .btn--inverse .btn--large} [Qt](/mejores-sdk-multiplataforma-2019-20/#qt){: .btn .btn--inverse .btn--large}
-
-## Flutter
+## 1. **Flutter**
 <figure>
     <a href="/assets/images/sdk_paginas/flutter_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/flutter_1.jpg"></a>
     <figcaption>Flutter, visto en Ciberninjas</figcaption>
@@ -57,7 +71,7 @@ A lo largo del año 2020, sin lugar a dudas, será el año de un reformulado And
 [👉 Repositorio del Código Flutter](https://kutt.it/repositorioflutter "Código fuente del framework Flutter en Github"){: .btn .btn--inverse .btn--large .align-center}
 [📖 Documentación de Flutter en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large .align-center}
 
-## Ionic
+## 2. **Ionic**
 <figure>
     <a href="/assets/images/sdk_paginas/ionic_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/ionic_1.jpg"></a>
     <figcaption>Ionic, visto en Ciberninjas</figcaption>
@@ -76,7 +90,7 @@ Debido a su capacidad para construir aplicaciones tanto nativas como multiplataf
 [👉 Repositorio del Código Ionic](https://kutt.it/repositorioionic "Código fuente del framework Ionic en Github"){: .btn .btn--inverse .btn--large .align-center}
 [📖 Conocer Más de Ionic](/){: .btn .btn--inverse .btn--large .align-center}
 
-## React Native
+## 3. **React Native**
 <figure>
     <a href="/assets/images/sdk_paginas/react_native_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/react_native_1.jpg"></a>
     <figcaption>React Native, visto en Ciberninjas</figcaption>
@@ -90,7 +104,7 @@ Además, React Native es altamente compatible con complementos de terceros, como
 
 [👉 Repositorio del Código React Native](https://kutt.it/repositorioreactnative "Código fuente del framework React Native en Github"){: .btn .btn--inverse .btn--large .align-center}
 
-## Xamarin
+## 4. **Xamarin**
 <figure>
     <a href="/assets/images/sdk_paginas/xamarin_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/xamarin_1.jpg"></a>
     <figcaption>Xamarin, visto en Ciberninjas</figcaption>
@@ -104,7 +118,7 @@ A través de su API te permite generar apps esteticamente similares a las nativa
 
 [👉 Repositorio del Código Xamarin](https://kutt.it/repositorioxamarin "Código fuente del framework Xamarin en Github"){: .btn .btn--inverse .btn--large .align-center}
 
-## PhoneGap
+## 5. **PhoneGap**
 <figure>
     <a href="/assets/images/sdk_paginas/phonegap_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/phonegap_1.jpg"></a>
     <figcaption>PhoneGap, visto en Ciberninjas</figcaption>
@@ -116,7 +130,7 @@ Además, es totalmente compatible con las funciones integradas del dispositivo, 
 
 [👉 Repositorio del Código PhoneGap](https://kutt.it/repositoriophonegap "Código fuente del framework Phonegap en Github"){: .btn .btn--inverse .btn--large .align-center}
 
-## Native Script
+## 6. **Native Script**
 <figure>
     <a href="/assets/images/sdk_paginas/nativescript_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/nativescript_1.jpg"></a>
     <figcaption>Native Script, visto en Ciberninjas</figcaption>
@@ -128,7 +142,7 @@ El sitio web oficial de Native Scripts proporciona continuamente recursos y tuto
 
 [👉 Repositorio del Código Native Script](https://kutt.it/repositorionativescript "Código fuente del framework Native Script en Github"){: .btn .btn--inverse .btn--large .align-center}
 
-## Appcelerator Titanium
+## 7. **Appcelerator Titanium**
 <figure>
     <a href="/assets/images/sdk_paginas/appcelerator_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/appcelerator_1.jpg"></a>
     <figcaption>Appcelerator Titanium, visto en Ciberninjas</figcaption>
@@ -144,7 +158,7 @@ Appcelerator ofrece varias herramientas para el desarrollo rápido de aplicacion
 
 [👉 Repositorio del Código Appcelerator](https://kutt.it/repositorioappcelerator "Código fuente del framework Appcelerator Titanium en Github"){: .btn .btn--inverse .btn--large .align-center}
 
-## jQuery Móvil
+## 8. **jQuery Móvil**
 <figure>
     <a href="/assets/images/sdk_paginas/jquery_movil_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/jquery_movil_1.jpg"></a>
     <figcaption>jQuery, visto en Ciberninjas</figcaption>
@@ -158,7 +172,83 @@ El código escrito con JQuery, en comparación con otros códigos que ofrezcan l
 
 [👉 Repositorio del Código jQuery Móvil](https://kutt.it/repositoriojquerymovil "Código fuente del framework jQuery Móvil en Github"){: .btn .btn--inverse .btn--large .align-center}
 
-## Intel System Studio
+## 9. **Móvil Angular UI**
+<figure>
+    <a href="/assets/images/sdk_paginas/angular_ui_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/angular_ui_1.jpg"></a>
+    <figcaption>Angular UI, visto en Ciberninjas</figcaption>
+</figure>
+
+La interfaz de usuario angular móvil consta de muchos componentes interactivos como interruptores, superposiciones y barras laterales, por lo que ofrece una experiencia móvil robusta a sus usuarios.
+
+Es un framework de código abierto que ayuda a desarrollar algunas de las aplicaciones más importantes de Internet; al ser compatible con varios navegadores, Mobile Angular UI maneja automáticamente el código JavaScript adecuado para cada navegador.
+
+Especialmente indicado para los desarrolladores que prefieran Angular y Boostrap que te permite construir a través de HTML5 sin mayores problemas; y es capaz de aprovechar el ágil soporte del lado del servidor que admite aplicaciones complejas con facilidad que le ofrece la implementación de Angular.
+
+[👉 Repositorio del Código Angular UI](https://kutt.it/repositorioangularui "Código fuente del framework Angular UI en Github"){: .btn .btn--inverse .btn--large .align-center}
+
+## 10. **Weex**
+<figure>
+    <a href="/assets/images/sdk_paginas/weex_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/weex_1.jpg"></a>
+    <figcaption>Weex, visto en Ciberninjas</figcaption>
+</figure>
+
+Weex es un framework que permite a los desarrolladores utilizar habilidades modernas de desarrollo web para crear aplicaciones de Android, iOS y web con una única base de código. En la práctica, puede usar JavaScript con marcos front-end modernos para desarrollar aplicaciones móviles.
+
+La estructura de Weex está desacoplada y el motor de renderizado está separado de la capa de sintaxis (DSL). Esto significa que Weex no depende de ningún marco o lenguaje front-end específico. Por ahora, Weex se usa ampliamente junto a Vue.js y Rax.
+
+Weex se centra en la productividad y el rendimiento. Escribir una página con Weex es casi como escribir una página web, incluso si la página está diseñada para ejecutarse en un entorno nativo; transformando tu código de etiquetas de HTML5 a un template propio de aplicacioens nativas.
+
+Weex nos ofrece toda una aplicación de prácticas y código, denominada [Playground Weex](https://weex.apache.org/tools/playground.html?spm=a2c7j.-guide-introduction.0.0.3c4f1dbasnEA6M), ¡Una auténtica maravilla, desde luego!
+
+[👉 Repositorio del Código Weex](https://kutt.it/repositorioweex "Código fuente del framework Weex en Github"){: .btn .btn--inverse .btn--large .align-center}
+
+## 11. **Corona SDK**
+<figure>
+    <a href="/assets/images/sdk_paginas/corona_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/corona_1.jpg"></a>
+    <figcaption>Corona, visto en Ciberninjas</figcaption>
+</figure>
+
+Corona SDK ayuda a los desarrolladores a crear una sola base de código que funciona increíblemente bien con Android e iOS, se dice que es capaz de proporcionar un desarrollo 10 veces más rápido que cualquier otro framework; esto es debido a que su back-end es compatible con el lenguaje de programación Lua; un lenguaje altamente ligero que se enfoca en ser veloz, flexible y fácil de usar.
+
+Es el framework ideal para aquellos que desean codificar rápidamente sin perder la calidad en las aplicaciones.
+ 
+Utilizando sus características, Corona SDK es altamente capaz de incluir interactividad y contenido gráfico agradable en las aplicaciones. Además, el desarrollo de la aplicación Corona SDK escala el contenido automáticamente en múltiples dispositivos y sus APIs de juegos se incluyen fácilmente en la aplicación y permiten monetizar de manera fácil y rápida.
+
+[👉 Repositorio del Código Corona SDK](https://kutt.it/repositoriocorona "Código fuente del SDK Corona en Github"){: .btn .btn--inverse .btn--large .align-center}
+
+## 12. **Unity**
+<figure>
+    <a href="/assets/images/sdk_paginas/unity_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/unity_1.jpg"></a>
+    <figcaption>Unity, visto en Ciberninjas</figcaption>
+</figure>
+
+Unity y Unity 3D, es uno de los repositorios más importantes enfocado en la creación de los videojuegos.
+
+Ahora está preparado para ofrecerte la posibilidad de desarrollar apps de realidad aumentada, trabajando junto AWS y Google Maps, también permite guardar y cargar datos en la nube, implementar paquetes de activos y objetos programables u aprender conceptos de programación avanzados.
+
+He considerado incluirlo aquí, como esponsor de los SDK enfocados a la creación de aplicaciones en realidad virtual; junto a otras posibilidades; entre las que podemos encontrar a: Unreal Engine, iOS ARKit, ArCore, Vuforia, Wikitude, EasyAR, Kudan o Artoolkit+ pero todos estos, mejor los dejamos para realizar una revisión algún otro día.
+
+[👉 Repositorio del Código Unity](https://kutt.it/unitydescarga "Código fuente del SDK Unity en Github"){: .btn .btn--inverse .btn--large .align-center}
+
+## 13. **Qt**
+<figure>
+    <a href="/assets/images/sdk_paginas/qt_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/qt_1.jpg"></a>
+    <figcaption>Qt, visto en Ciberninjas</figcaption>
+</figure>
+
+Como última opción, he elegido dejar a Qt.
+
+Qt es un framework de desarrollo multiplataforma que nos permite la creación de aplicaciones con múltiples lenguajes de programación; Python, C++, Qt QML, R o GO a través de su herramienta propia: Qt Creator.
+ 
+Los lenguajes de programación más usados a la hora de desarrollar sobre Qt son: C++ y [QML](/glosario/qml/).
+
+Una de las mayores ventajas que ofrece Qt, es la capacidad de generar código soportada por todos los Sistemas Operativos, y además; nos ofrece una amplio lista de librerías de fácil implementación.
+ 
+Entre otras: Una consolidada API de ubicación, acceso a sensores a través de hardware, conectividad Bluetooth o bloques de código enfocados en el desarrollo de sistemas e-commerce.
+
+[👉 Repositorio del Código Qt](https://kutt.it/repositorioqt "Código fuente del framework Qt en Github"){: .btn .btn--inverse .btn--large .align-center}
+
+## 14. **Intel System Studio**
 <figure>
     <a href="/assets/images/sdk_paginas/intel_sdk_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/intel_sdk_1.jpg"></a>
     <figcaption>Intel XDK, visto en Ciberninjas</figcaption>
@@ -188,83 +278,7 @@ Entre otros..
 
 [👉 Repositorio del Intel System Studio](https://kutt.it/intelstudiodescarga "Implementa mejoras en las aplicaciones IoT"){: .btn .btn--inverse .btn--large .align-center}
 
-## Móvil Angular UI
-<figure>
-    <a href="/assets/images/sdk_paginas/angular_ui_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/angular_ui_1.jpg"></a>
-    <figcaption>Angular UI, visto en Ciberninjas</figcaption>
-</figure>
-
-La interfaz de usuario angular móvil consta de muchos componentes interactivos como interruptores, superposiciones y barras laterales, por lo que ofrece una experiencia móvil robusta a sus usuarios.
-
-Es un framework de código abierto que ayuda a desarrollar algunas de las aplicaciones más importantes de Internet; al ser compatible con varios navegadores, Mobile Angular UI maneja automáticamente el código JavaScript adecuado para cada navegador.
-
-Especialmente indicado para los desarrolladores que prefieran Angular y Boostrap que te permite construir a través de HTML5 sin mayores problemas; y es capaz de aprovechar el ágil soporte del lado del servidor que admite aplicaciones complejas con facilidad que le ofrece la implementación de Angular.
-
-[👉 Repositorio del Código Angular UI](https://kutt.it/repositorioangularui "Código fuente del framework Angular UI en Github"){: .btn .btn--inverse .btn--large .align-center}
-
-## Weex
-<figure>
-    <a href="/assets/images/sdk_paginas/weex_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/weex_1.jpg"></a>
-    <figcaption>Weex, visto en Ciberninjas</figcaption>
-</figure>
-
-Weex es un framework que permite a los desarrolladores utilizar habilidades modernas de desarrollo web para crear aplicaciones de Android, iOS y web con una única base de código. En la práctica, puede usar JavaScript con marcos front-end modernos para desarrollar aplicaciones móviles.
-
-La estructura de Weex está desacoplada y el motor de renderizado está separado de la capa de sintaxis (DSL). Esto significa que Weex no depende de ningún marco o lenguaje front-end específico. Por ahora, Weex se usa ampliamente junto a Vue.js y Rax.
-
-Weex se centra en la productividad y el rendimiento. Escribir una página con Weex es casi como escribir una página web, incluso si la página está diseñada para ejecutarse en un entorno nativo; transformando tu código de etiquetas de HTML5 a un template propio de aplicacioens nativas.
-
-Weex nos ofrece toda una aplicación de prácticas y código, denominada [Playground Weex](https://weex.apache.org/tools/playground.html?spm=a2c7j.-guide-introduction.0.0.3c4f1dbasnEA6M), ¡Una auténtica maravilla, desde luego!
-
-[👉 Repositorio del Código Weex](https://kutt.it/repositorioweex "Código fuente del framework Weex en Github"){: .btn .btn--inverse .btn--large .align-center}
-
-## Corona SDK
-<figure>
-    <a href="/assets/images/sdk_paginas/corona_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/corona_1.jpg"></a>
-    <figcaption>Corona, visto en Ciberninjas</figcaption>
-</figure>
-
-Corona SDK ayuda a los desarrolladores a crear una sola base de código que funciona increíblemente bien con Android e iOS, se dice que es capaz de proporcionar un desarrollo 10 veces más rápido que cualquier otro framework; esto es debido a que su back-end es compatible con el lenguaje de programación Lua; un lenguaje altamente ligero que se enfoca en ser veloz, flexible y fácil de usar.
-
-Es el framework ideal para aquellos que desean codificar rápidamente sin perder la calidad en las aplicaciones.
- 
-Utilizando sus características, Corona SDK es altamente capaz de incluir interactividad y contenido gráfico agradable en las aplicaciones. Además, el desarrollo de la aplicación Corona SDK escala el contenido automáticamente en múltiples dispositivos y sus APIs de juegos se incluyen fácilmente en la aplicación y permiten monetizar de manera fácil y rápida.
-
-[👉 Repositorio del Código Corona SDK](https://kutt.it/repositoriocorona "Código fuente del SDK Corona en Github"){: .btn .btn--inverse .btn--large .align-center}
-
-## Unity
-<figure>
-    <a href="/assets/images/sdk_paginas/unity_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/unity_1.jpg"></a>
-    <figcaption>Unity, visto en Ciberninjas</figcaption>
-</figure>
-
-Unity y Unity 3D, es uno de los repositorios más importantes enfocado en la creación de los videojuegos.
-
-Ahora está preparado para ofrecerte la posibilidad de desarrollar apps de realidad aumentada, trabajando junto AWS y Google Maps, también permite guardar y cargar datos en la nube, implementar paquetes de activos y objetos programables u aprender conceptos de programación avanzados.
-
-He considerado incluirlo aquí, como esponsor de los SDK enfocados a la creación de aplicaciones en realidad virtual; junto a otras posibilidades; entre las que podemos encontrar a: Unreal Engine, iOS ARKit, ArCore, Vuforia, Wikitude, EasyAR, Kudan o Artoolkit+ pero todos estos, mejor los dejamos para realizar una revisión algún otro día.
-
-[👉 Repositorio del Código Unity](https://kutt.it/unitydescarga "Código fuente del SDK Unity en Github"){: .btn .btn--inverse .btn--large .align-center}
-
-## Qt
-<figure>
-    <a href="/assets/images/sdk_paginas/qt_1.jpg" class="image-popup"><img src="/assets/images/sdk_paginas/qt_1.jpg"></a>
-    <figcaption>Qt, visto en Ciberninjas</figcaption>
-</figure>
-
-Como última opción, he elegido dejar a Qt.
-
-Qt es un framework de desarrollo multiplataforma que nos permite la creación de aplicaciones con múltiples lenguajes de programación; Python, C++, Qt QML, R o GO a través de su herramienta propia: Qt Creator.
- 
-Los lenguajes de programación más usados a la hora de desarrollar sobre Qt son: C++ y [QML](/glosario/qml/).
-
-Una de las mayores ventajas que ofrece Qt, es la capacidad de generar código soportada por todos los Sistemas Operativos, y además; nos ofrece una amplio lista de librerías de fácil implementación.
- 
-Entre otras: Una consolidada API de ubicación, acceso a sensores a través de hardware, conectividad Bluetooth o bloques de código enfocados en el desarrollo de sistemas e-commerce.
-
-[👉 Repositorio del Código Qt](https://kutt.it/repositorioqt "Código fuente del framework Qt en Github"){: .btn .btn--inverse .btn--large .align-center}
-
-## Final
+### Final
 
 Si se me ha olvidado algo, puedes dejarme un comentario. Espero que os halla gustado esta publicación y espero seguir publicando en esta misma línea.
  ¡Qué lo aprovechéis y disfrutéis mucho mis Ciberninjas! 😹 👨‍💻
