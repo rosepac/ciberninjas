@@ -23,7 +23,7 @@ published: true
 
 ---
 
-![](/assets/images/blog/11-framework-revery.webp "")
+![Revery: Aplicaciones nativas, de alto rendimiento y multiplataforma, creadas con Reason, un framework para crear aplicaciones GUI multiplataforma](/assets/images/blog/11-framework-revery.webp "Revery: Aplicaciones nativas, de alto rendimiento y multiplataforma, creadas con Reason, un framework para crear aplicaciones GUI multiplataforma")
 
 ## **¿Qué es Revery?**
 
