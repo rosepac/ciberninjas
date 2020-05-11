@@ -17,7 +17,7 @@ excerpt: >-
   Revery es un framework para crear aplicaciones GUI multiplataforma. Revery proporciona un enfoque funcional similar a React para modelar la interfaz de usuario, así como un andamiaje para administrar el ciclo de vida de la aplicación.
 canonical_URL: https://ciberninjas.com/revery-framework/
 permalink: /revery-framework/
-date: 2020-02-11 10:42:32
+date: 2020-05-11 10:42:32
 last_modified_at: 
 published: true
 
@@ -32,7 +32,7 @@ Revery es un framework para aplicaciones GUI multiplataforma de carga rápida de
 Revery proporciona un enfoque funcional similar a React para modelar la interfaz de usuario, así como un andamiaje para administrar el ciclo de vida de la aplicación.
 <!-- contenido -->
 
-Revery comenzó como la base de [Onivim 2](https://v2.onivim.io/){:target="_blank"}, pero se [incluyó](https://v2.onivim.io/){:target="_blank"} en un conjunto de herramientas generales para las interfaces de usuario [ReasonML](https://reasonml.github.io/){:target="_blank"}.
+Revery comenzó como la base de [Onivim 2](https://v2.onivim.io/){:target="_blank"}, pero se [incluyó](https://v2.onivim.io/){:target="_blank"} en un conjunto de herramientas generales para las interfaces de usuario [ReasonML](/reason/){:target="_blank"}.
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
@@ -41,7 +41,7 @@ Revery comenzó como la base de [Onivim 2](https://v2.onivim.io/){:target="_blan
 
 - React en código nativo.
 - Revery es liviano y está diseñado para crear aplicaciones rápidas: Un inicio rápido, ejecuciónrápida y compilación rápida.
-- Revery está inspirado en React y construido con [Reason](https://reasonml.github.io/){:target="_blank"}. ¡Crea aplicaciones de código nativo con tus habilidades de ReactJS!
+- Revery está inspirado en React y construido con [Reason](/reason/){:target="_blank"}. ¡Crea aplicaciones de código nativo con tus habilidades de ReactJS!
 - Revery es multiplataforma, puede ser ejecutado sobre cualquier sistema operativo; y además, sobre cualquier navegador con WebGL.
 - Revery tiene licencia MIT y se construyó con la ayuda de sus contribuyentes.
 

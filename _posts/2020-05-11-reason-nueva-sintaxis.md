@@ -9,7 +9,7 @@ categories:
 - Lenguajes de Programación
 header:
   teaser: /assets/images/blog/11-reason.webp
-title: '🚀 ▷ Revery: Aplicaciones nativas, de alto rendimiento y multiplataforma, creadas con Reason'
+title: '👨‍💻 ▷ Reason te permite escribir código seguro de tipo simple, rápido y de calidad mientras aprovecha los ecosistemas JavaScript y OCaml.'
 description: >-
   Reason no es un lenguaje nuevo; Es una nueva sintaxis y cadena de herramientas impulsada por el lenguaje probado en batalla, OCaml . La razón le da a OCaml una sintaxis familiar orientada a los programadores de JavaScript, y atiende al flujo de trabajo existente de NPM / Yarn que la gente ya conoce.
 excerpt: >-
