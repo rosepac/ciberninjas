@@ -16,7 +16,7 @@ excerpt: >-
   Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios.
 canonical_URL: https://ciberninjas.com/android-11-para-desarrolladores/
 permalink: /android-11-para-desarrolladores/
-date: 2020-05-11 17:32:32
+date: 2020-05-11 19:32:32
 last_modified_at: 
 published: true
 

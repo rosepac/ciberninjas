@@ -1,6 +1,6 @@
 ---
 author_profile: true
-title: "¡Tekton Beta disponible ahora! ¡Busca colaboradores del Catálogo de tareas de Tekton, beta testers y más!"
+title: "¡Disponible Tekton Beta! ¡El proyecto Tekton se encuentra buscando colaboradores, beta testers y más!"
 description: "Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo al estado beta con el lanzamiento de v0.11.0 esta semana. Tekton es un proyecto de código abierto que crea una nube nativa.."
 excerpt: "Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo al estado beta con el lanzamiento de v0.11.0 esta semana. Tekton es un proyecto de código abierto que crea una nube nativa.."
 published: true
@@ -9,7 +9,7 @@ date: 2020-04-09 19:10:12
 last_modified_at: 2020-05-04 19:10:12
 header:
   teaser: /assets/images/blog/pagina-tekton.webp
-  image_description: 'Tekton Beta disponible ahora! ¡Busca colaboradores del Catálogo de tareas de Tekton, beta testers y más'
+  image_description: '¡Tekton Beta disponible ahora! ¡Busca colaboradores del Catálogo de tareas de Tekton, beta testers y más'
   image_alt: 'Tekton Beta disponible ahora! ¡Busca colaboradores del Catálogo de tareas de Tekton, beta testers y más'
 canonical_URL: https://ciberninjas.com/tekton-beta/
 permalink: /tekton-beta/
@@ -57,3 +57,11 @@ Tekton se encuentra en su segundo año de desarrollo y actualmente está siendo 
 - [Kabanero](https://developer.ibm.com/open/projects/kabanero/){:target="_blank"} - proyecto de código abierto dirigido por IBM
 - [Rio](https://github.com/rancher/rio){:target="_blank"} - proyecto de código abierto dirigido por Rancher
 - [Kf](https://github.com/google/kf){:target="_blank"} - proyecto de código abierto liderado por Google
+
+### Relacionados
+
+[▷ ¿Qué es Tekton? Novedades y Cambios](https://ciberninjas.com/que-es-tekton/)
+
+[Historia de entrega continua de Dailymotion con Jenkins, Jenkins X y Tekton](https://ciberninjas.com/dailymotin-jenkins-tekton/)
+
+[▷ Se celebra la Cumbre de la Fundación CD](https://ciberninjas.com/cumbre-cd-nuevos-miembros/)

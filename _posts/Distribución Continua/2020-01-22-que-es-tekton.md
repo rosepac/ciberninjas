@@ -168,3 +168,11 @@ Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.or
 
 **Fuentes**: [Noticias Tekton CD Fundación](https://cd.foundation/blog/2019/12/12/whats-new-in-tekton-0-9/){:target="_blank"} >> [Repositorio de Github de Tekton Tuberías](https://github.com/tektoncd/pipeline#-tekton-pipelines){:target="_blank"}
 {: .notice--info}
+
+### Relacionados
+
+[¡Tekton Beta disponible ahora!](https://ciberninjas.com/tekton-beta/)
+
+[Historia de entrega continua de Dailymotion con Jenkins, Jenkins X y Tekton](https://ciberninjas.com/dailymotin-jenkins-tekton/)
+
+[▷ Se celebra la Cumbre de la Fundación CD](https://ciberninjas.com/cumbre-cd-nuevos-miembros/)
