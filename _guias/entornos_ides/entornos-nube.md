@@ -19,13 +19,14 @@ header:
 ---
 
 <br/>
+
 # 👨‍🚀 ▷ Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Kubernetes, Docker, Webpack
 
 ![Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Kubernetes, Docker, Webpack](/assets/images/paginas/mar-docker-kubernetes.webp "Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Kubernetes, Docker, Webpack")
 
 Colección de enlaces con los que aprender a manejar Kubernetes desde cero hasta nivel avanzado.
 
-### **Recursos Kubernetes**
+### 📓 **Recursos Kubernetes**
 
 ## Documentación de Kubernetes
 
@@ -124,17 +125,17 @@ Chaos Toolkit pretende ser la forma más sencilla y fácil de explorar la constr
 
 Le sugerimos que comience con los [tutoriales](https://docs.chaostoolkit.org/reference/tutorial){:target="_blank"} para tener una idea de cómo Chaos Toolkit puede ayudarlo a automatizar su esfuerzo de Chaos Engineering. Una vez que esté listo para sus propios experimentos, eche un vistazo a las diversas [extensiones de controladores](https://chaostoolkit.org/extensions){:target="_blank"} que admitimos, que van desde plataformas hasta proveedores en la nube mientras le brinda herramientas para observar su sistema mientras ejecuta sus experimentos.
 
-### **Recursos Docker**
+### 📓 **Recursos Docker**
 
 👷‍♂️ APARTADO EN CONSTRUCCIÓN, PARA EL PRÓXIMO DÍA 👷‍♂️
 {: .notice--warning}
 
 - [No Drama Devops](https://nodramadevops.com/containers/){:target="_blank"}
 
-### **Recursos Webpack**
+### 📓 **Recursos Webpack**
 
 👷‍♂️ APARTADO EN CONSTRUCCIÓN, PARA EL PRÓXIMO DÍA 👷‍♂️
 {: .notice--warning}
 
-**Primera Edición**: ***2020-01-02 12:06:18***
-{: .notice--warning}
+**La Primera Edición de esta Guía fue Editada el**: *02 de enero de 2020*
+{: .notice--info}
