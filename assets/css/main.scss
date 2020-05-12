@@ -17,17 +17,17 @@
 }
 
 .page__content {
-    font-size: 14px; // originally 16px
+    font-size: 14.5px; // originally 16px
     @include breakpoint($medium) {
-        font-size: 15px; // originally 18px
+        font-size: 16px; // originally 18px
     }
 
     @include breakpoint($large) {
-        font-size: 16px; // originally 20px
+        font-size: 18px; // originally 20px
     }
 
     @include breakpoint($x-large) {
-        font-size: 18px; // originally 22px
+        font-size: 20px; // originally 22px
     }
 }
 // Cambiar el subrayado del texto.
