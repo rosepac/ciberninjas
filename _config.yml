@@ -58,7 +58,7 @@ search: true
 search_full_content: true
 google:
   search_engine_id: 011189616958132448188:saiveewehsx
-
+show_excerpts: true
 # search_provider: algolia
 # algolia:
 #   application_id: XV7A2DHT2U # YOUR_APPLICATION_ID
