@@ -45,7 +45,7 @@ sidebar:
 * [Cursos de Otras Temáticas](/cursos-otras-tematicas/)
 * [Cursos UNED en Abierto MOOC´s](https://iedra.uned.es/){:target="_blank"} (HTML)
 * [Miriadax](https://miriadax.net/cursos){:target="_blank"} (HTML)
-* [Universidad Jaume I](http://repositori.uji.es/xmlui/handle/10234/168002){:target="_blank"}
+* [Universidad Jaume I](http://repositori.uji.es/xmlui/handle/10234/168002){:target="_blank" rel="nofollow"}
 * [Cursos de Aprendizaje Automático en Inglés](/aprendizaje-automatico-cursos-ingles/) (HTML)
 
 ### Plataformas mayoritariamente en inglés
