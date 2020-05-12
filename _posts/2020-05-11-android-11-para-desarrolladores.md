@@ -1,6 +1,7 @@
 ---
 
-author_profile: true
+author_profile: false
+layout: splash
 comments: false
 classes: wide
 tags:

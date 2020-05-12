@@ -1,7 +1,8 @@
 ---
 
-author_profile: true
+author_profile: false
 comments: false
+layout: splash
 classes: wide
 tags:
 - Reason

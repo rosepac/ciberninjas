@@ -1,12 +1,14 @@
 ---
-author_profile: true
+author_profile: false
+layout: splash
+classes: wide
 title: "¡Disponible Tekton Beta! ¡El proyecto Tekton se encuentra buscando colaboradores, beta testers y más!"
 description: "Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo al estado beta con el lanzamiento de v0.11.0 esta semana. Tekton es un proyecto de código abierto que crea una nube nativa.."
 excerpt: "Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo al estado beta con el lanzamiento de v0.11.0 esta semana. Tekton es un proyecto de código abierto que crea una nube nativa.."
 published: true
 comments: false
-date: 2020-04-09 19:10:12
-last_modified_at: 2020-05-04 19:10:12
+date: 2020-05-11 19:10:12
+last_modified_at: 2020-05-12 19:10:12
 header:
   teaser: /assets/images/blog/pagina-tekton.webp
   image_description: '¡Tekton Beta disponible ahora! ¡Busca colaboradores del Catálogo de tareas de Tekton, beta testers y más'
@@ -34,13 +36,17 @@ tags:
 
 ![Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes](/assets/images/blog/pagina-tekton.webp "Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes")
 
-Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo al estado beta con el lanzamiento de v0.11.0 esta semana. Tekton es un proyecto de código abierto que crea un marco nativo de la nube que puede usar para configurar y ejecutar tuberías de integración continua y entrega continua (CI / CD) dentro de un clúster de Kubernetes.
+Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo al estado beta con el lanzamiento de v0.11.0 esta semana.
+
+Tekton es un proyecto de código abierto que crea un marco nativo de la nube que puede usar para configurar y ejecutar tuberías de integración continua y entrega continua (CI / CD) dentro de un clúster de Kubernetes.
 
 ## [¡Prueba Tekton ahora!](https://github.com/tektoncd/pipeline)
 
 El desarrollo de Tekton comenzó como Knative Build antes de convertirse en un proyecto fundador de la Fundación CD bajo la Fundación Linux el año pasado.
 
-El proyecto [Tekton](https://kubernetes.io/docs/reference/using-api/deprecation-policy/){:target="_blank" rel="nofollow"} sigue las [políticas de desaprobación de Kubernetes](https://kubernetes.io/docs/reference/using-api/deprecation-policy/){:target="_blank" rel="nofollow"}. Con la actualización de Tekton Pipelines a beta, la mayoría de los CRD de Tekton Pipelines (Definición de recursos personalizados) ahora están en el nivel beta. Esto significa que se puede confiar en la estabilidad general del nivel beta. Tenga en cuenta que los disparadores de Tekton, el tablero de instrumentos de Tekton, la CLI de Tekton Pipelines y otros componentes siguen siendo alfa y pueden seguir evolucionando de una versión a otra. 
+El proyecto [Tekton](https://kubernetes.io/docs/reference/using-api/deprecation-policy/){:target="_blank" rel="nofollow"} sigue las [políticas de desaprobación de Kubernetes](https://kubernetes.io/docs/reference/using-api/deprecation-policy/){:target="_blank" rel="nofollow"}. Con la actualización de Tekton Pipelines a beta, la mayoría de los CRD de Tekton Pipelines (Definición de recursos personalizados) ahora están en el nivel beta. 
+
+Esto significa que se puede confiar en la estabilidad general del nivel beta. Tenga en cuenta que los disparadores de Tekton, el tablero de instrumentos de Tekton, la CLI de Tekton Pipelines y otros componentes siguen siendo alfa y pueden seguir evolucionando de una versión a otra. 
 
 Tekton alienta a todos los proyectos y usuarios de Tekton a migrar sus integraciones a la nueva apiVersion. Los usuarios de Tekton pueden ver [la guía de migración](https://github.com/tektoncd/pipeline/blob/master/docs/migrating-v1alpha1-to-v1beta1.md){:target="_blank" rel="nofollow"} sobre cómo migrar de v1alpha1 a v1beta1.
 
