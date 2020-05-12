@@ -27,6 +27,16 @@ header:
 
 ![]("")
 
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li><a href="/mejores-sistemas-operativos-para-hackear/"></a></li>
+    <li><a href="/mejores-sistemas-operativos-para-hackear/"></a></li>
+  </ol>
+</nav>
+</details>
+
 **Fuente**\: [](http://allendowney.blogspot.com.es/2018/02/learning-to-program-is-getting-harder.html "Aprender a Programar es Cada Vez Más Difícil por Allen Downey") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
 {: .notice--info}
 

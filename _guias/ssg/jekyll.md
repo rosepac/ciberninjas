@@ -4,11 +4,11 @@ description: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Apren
 excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
 date: 2020-03-16
 last_modified_at:
-permalink: /jekyll/
+permalink:  
 canonical_URL: https://ciberninjas.com/jekyll/
 author_profile: true
 header:
-  overlay_image: "/assets/images/jekyll-blog.jpg"
+  overlay_image: "/assets/images/paginas/jekyll-blog.webp"
   overlay_filter: 0.4
   image_description: Jekyll, generador de sitios estáticos | Ciberninjas
   caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"

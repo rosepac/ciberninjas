@@ -25,9 +25,44 @@ header:
 
 ---
 
+<!-- MEDIUM ENTRADA: https://forge.medium.com/upgrade-your-mind-online-9301e5a911f4 -->
+<!-- PDF: https://drive.google.com/file/d/1Upj9ROp__vbXXtLwFF1X4hQ-oOtP7moK/view -->
+
+¿Quieres aprender algo nuevo? Con el coronavirus extendiéndose por todo el mundo y obligándonos a un estado de autoaislamiento, ahora es un momento tan bueno como cualquier otro. Y no hay escasez de recursos de bajo costo o completamente gratuitos a los que puede acceder desde la comodidad de su sofá: cursos en línea, podcasts, videos y libros electrónicos.
+
+En esta publicación he reunido todos lo necesario para que encuentres la inspiración en este viaje de autoeducación, he reunido todos los mejores recursos que conozco. Además, hice una lista de algunos temas específicos en los que te gustaría participar e incluí algunos consejos sobre las mejores formas de aprender.
+
+**¡Vamos a sumergirnos en el asombroso mundo de la educación digital!**
+
+<div><h2><p align="center"><strong><cite>"La autoeducación es, estoy convencido, el único tipo de educación que existe."</cite></strong> - Isaac Asimov</p></h2></div>
+
+## **¿Cómo aprender?**
+
+Existen diferentes recursos didácticos desde los que comenzar a profundizar dentro de la temática que desees aprender, desde los niveles más básicos hasta los niveles más avanzados; los cuales podríamos dividir en 6 clases:
+
+1. Cursos
+2. Vídeos
+3. Libros
+4. Documentación
+5. Documentales
+6. Podcasts
+7. Comunidades
+
+Debemos buscar cada recurso didáctico anterior en su lugar adecuado respecto a la temática que deseemos aprender en cuestión indicada. Para ello, primero debemos de conocer exactamente lo que deseamos aprender; esto parece una tontería. Más, es bastante importante, puesto que según tu nivel inicial tendrás que enfocarte en encontrar los recursos más indicados.
+
+Si partes desde cero, casi con cualquier recursos te servirá; puesto que la mayoría de contenidos empiezan desde cero hasta niveles medios. Aunque, igualmente deberías de investigar los medios explicativos más pausados, según tu capacidad de aprendizaje. Existen personas capaces de admitir conocimientos más velozmente que otras personas que son más lentas en ese aprendizaje.
+
+Si tu nivel es medio, o avanzado y lo que deseas es profundizar muy a fondo dentro de una temática; has de tener en cuenta de que será muy importante analizar los recursos didácticos antes de iniciar con ellos, además, de qué; es más que probable, que el mejor recurso que vayas a poder enconctrar sea bien la documentación oficial de lo que intentas aprender o bien, un libro técnico avanzado; que posiblemente, esté en ingles y además sea bastante caro.
+
+
+## **¿Dónde podemos aprender?**
+
+
+
+
+
 <!-- Crear paneles con apertura y efecto libro 3D visto en youtube daod me gusta con la cuenta de rosepac21. -->
 <!-- ENLACES DE INTERES: EN ESTE CASO A STEEMIT -->
-<div><h2><p align="center"><strong><cite>"La autoeducación es, estoy convencido, el único tipo de educación que existe."</cite></strong> - Isaac Asimov</p></h2></div>
 <div>
     <p><a href="/cursos-espanol-programacion-febrero/" title="Cursos de programación en español" class="btn btn--inverse btn--large">🎓 200 Cursos Udemy</a> <a href="/cursos-ingles-programacion-febrero/" title="570 Cursos en inglés de Udemy con los que aprender a programar" class="btn btn--inverse btn--large">👩‍🏫 570 Cursos Inglés</a> <a href="/sql-mejores-herramientas-2020/" title="Las Mejores Herramientas de SQL Server para 2020" class="btn btn--inverse btn--large">📂 Herramientas SQL</a> <a href="/flutter-dart-devtools/#guía-devtools" title="Tutorial Completo de DevTools para Dart + Flutter" class="btn btn--inverse btn--large">📖 Guía DevTools</a> <a href="/que-es-flutter-y-por-que-debes-aprenderlo/" title="Tutorial sobre Flutter desde cero" class="btn btn--inverse btn--large">📖 Guía Flutter</a></p>
     </div>
@@ -297,12 +332,12 @@ Desde aquí podrás tener la posibilidad de aumentar tu sabiduría hasta puntos 
 
 Solamente debes enfocarte en una temática en cuestión, marcarte pautas y metas, dibujar tu camino de aprendizaje y comenzar a poner todo tu empeño y ganas en saciar tus ilimitadas ansias de ampliar tus conocimientos; hasta lograrlo.
 
-En pos de ello te comparto un amplio listado de artículos repletos de recursos con los que puedes ir dando rienda suelta a tu ímpetu; y que puedas desbordar tus límites a través del ***ciberaprendizaje\***, la ***cibereducación\*** o como lo desees llamar – *a mi me da igual* – aquí lo importante es que **avances**:
+En pos de ello te comparto un amplio listado de artículos repletos de recursos con los que puedes ir dando rienda suelta a tu ímpetu; y que puedas desbordar tus límites a través del ***ciberaprendizaje***, la ***cibereducación*** o como lo desees llamar – *a mi me da igual* – aquí lo importante es que **avances**:
 
--  *Que te hagas preguntas. Que encuentres respuestas.*
+-  *Que te hagas preguntas, que encuentres respuestas.*
 -  *Que dejemos crecer nuestro pensamiento crítico.*
 -  *Que aprendamos a afrontar situaciones. Que resolvamos problemas.*
--  *Que luches hasta llegar al final. Que alcances la meta: **ejecutar**.*
+-  *Que luches hasta llegar al final, que alcances la meta: **ejecutar**.*
 
 Bien, por y para todo esto os dejo unos cuantos libros y cursos; por ahora.
 
@@ -313,6 +348,46 @@ Videotutoriales y artículos; **espero que próximamente**. Mucho más tengo en 
  *Espero que disfruten de lo que hasta ahora existe en la web. Un abrazo muy fuerte y saludos ciberninjas.*
  
  👇👇👇👇👇
+
+<!-- MEDIUM ENTRADA: https://forge.medium.com/upgrade-your-mind-online-9301e5a911f4 -->
+<!-- PDF: https://drive.google.com/file/d/1Upj9ROp__vbXXtLwFF1X4hQ-oOtP7moK/view -->
+
+## ¿Dónde podemos aprender?
+
+Aparte, claro está, de poder aprender todo lo que desees dentro del infinito mundo de los Ciberninjas. En el que podrás encontrar desde formación introductoria, cursos, videotutoriales y traducciones de guías, anuncios de nuevos proyectos e información básica.
+
+Estos son algunos de los mejores y más impresionantes sitios en los que podrás comenzar tu viaje hacía el aprendizaje universal. Los enlaces se encuentran seccionados por diferentes tipos de documentos y formación, en: los mejores cursos, los mejores vídeos, los mejores documentales, los mejores podcasts, los mejores libros y los mejores comunidades y grupos de Reddit, StackOverFlow y más.
+
+A continuación, comenzaremos con las mejores páginas en las que poder encontrar los mejores cursos gratuitos del mundo.
+
+## **Las Mejores Páginas Web de Cursos del Mundo**
+
+- [**Coursera**](https://www.coursera.org/){:target="_blank"}: Fundada en 2012 por Andrew Ng y Daphne Koller, Coursera tiene más de 47 millones de usuarios y casi 4,000 cursos. No hay costo si solo busca el contenido, pero también puede obtener certificados por un precio asequible, o incluso obtener un [título](https://www.coursera.org/degrees){:target="_blank"} bajo un pago específico, que variará según quién imparta el curso.
+
+Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**](https://www.classcentral.com/report/coursera-free-certificate-covid-19/){:target="_blank"}**, incluyendo su certificación).**
+- [**edX**](https://www.edx.org/){:target="_blank"}**:** creado conjuntamente entre Harvard y el MIT en 2012, edX es bastante similar a Coursera, ofreciendo cursos de universidades de gran prestigio sobre una amplia gama de temas. El acceso a los materiales es gratuito, con opciones de pago para aquellos después de certificados o títulos.
+- [**FutureLearn**](https://www.futurelearn.com/){:target="_blank"}**:** otra empresa fundada en 2012 (¡qué año para la educación en línea!), Con una amplia gama de cursos en línea abiertos masivos (MOOC) que se pueden tomar de forma gratuita, y tiene varias opciones pagas y actualizaciones disponibles.
+- [**Khan Academy**](https://www.khanacademy.org/){:target="_blank"}**:** creada en 2008 por Salman Khan, Khan Academy está llena de videos cortos sobre matemáticas, ciencias, economía y más. Las clases también están disponibles para niños desde la edad preescolar, y todo es gratis.
+- [**Skillshare**](https://www.skillshare.com/){:target="_blank"}**:** enfocado en campos creativos como cine, animación, diseño y música. Hay muchas[ clases gratuitas](https://www.skillshare.com/browse?enrollmentType=free&seeAll=1){:target="_blank"}, o puede suscribirse por $ 99 por un año o $ 15 por mes para obtener acceso ilimitado a todos los cursos.
+- [**Kadenze**](https://www.kadenze.com/){:target="_blank"}**:** Cursos de tecnología creativa, como producción de video, arte generativo y síntesis de sonido. Puede aprender sin costo, aunque hay una opción premium por $ 20 al mes.
+- [**Hubspot**](https://academy.hubspot.com/){:target="_blank"}**:** cursos gratuitos sobre temas relacionados con el marketing y certificados sin costo adicional.
+- [**LinkedIn**](https://www.linkedin.com/learning/){:target="_blank"}**:** en 2015, LinkedIn compró el sitio web[ Lynda.com](http://lynda.com/){:target="_blank"}y absorbió sus ofertas, que incluyen cursos en todo, desde marketing hasta redacción y desarrollo personal. Hay una prueba gratuita por un mes, luego las suscripciones cuestan entre $ 20 y 30 por mes.
+- [**Clase magistral**](https://www.masterclass.com/){:target="_blank"}**:** aprenda de maestros de alto perfil como Neil Gaiman, Steph Curry, Martin Scorsese, Gordon Ramsay, David Lynch y más. Regístrese por $ 15 al mes.
+- [**Great Courses Plus**](https://www.thegreatcoursesplus.com/){:target="_blank"}**:** una gran variedad de cursos de profesores reconocidos como Neil deGrasse Tyson y Robert Sapolsky. Los planes son de $ 10-20 por mes.
+- [**World Science U**](http://www.worldscienceu.com/){:target="_blank"}**:** Cursos gratuitos de ciencia de algunos de los mejores científicos del mundo, incluidos Carlo Rovelli sobre gravedad cuántica en bucle, Christoff Koch sobre biología de la conciencia y Max Tegmark sobre la historia y los misterios del universo.
+- [**Marginal Revolution University**](https://mru.org/){:target="_blank"}**:** centrada en la economía. Tome algunos cursos gratuitos de Tyler Cowen y otros.
+- [**Udacity**](https://www.udacity.com/){:target="_blank"}**:** Con un enfoque en ciencias de la computación, puede tomar muchos[ cursos](https://www.udacity.com/courses/all){:target="_blank"}de forma gratuita o ir a un "nanogrado" por $ 399. **(Debido a Covid-19, Udacity ofrece** [**un mes de acceso gratuito**](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html){:target="_blank"}**a los programas de nanogrado).**
+- [**Iversity**](https://iversity.org/en/courses){:target="_blank"}**:** Con sede en Berlín, Iversity ofrece cursos gratuitos, principalmente en inglés o alemán.
+- [**Udemy**](https://www.udemy.com/){:target="_blank"}**:** una amplia variedad de cursos que compra individualmente, desde $ 11 hasta $ 200 cada uno.
+- [**Anteproyecto**](https://www.mybluprint.com/){:target="_blank"}**:** Centrado en artes y oficios. Los cursos oscilan entre $ 20 y 70.
+- [**MIT Open Courseware**](https://ocw.mit.edu/index.htm){:target="_blank"}**:** Aquí encontrará notas de clase, materiales de estudio, lecturas y tareas para una gran selección de cursos en MIT.
+- [**Open University**](https://www.open.edu/openlearn/free-courses/full-catalogue){:target="_blank"}**:** cursos gratuitos sobre una variedad de temas, que van desde niveles introductorios hasta avanzados.
+- [**Moz Academy**](https://academy.moz.com/){:target="_blank"}**:** si desea optimizar su sitio web o mejorar su clasificación de búsqueda, Moz Academy es un buen lugar para buscar ayuda. El precio de cada curso varía de $ 49 en adelante. **(Debido a Covid-19, Moz Academy es** [**gratis hasta finales de mayo**](https://moz.com/blog/moz-academy-free) **).**
+- [**HighBrow**](https://gohighbrow.com/){:target="_blank"}: si desea obtener contenido interesante y educativo en su correo electrónico, HighBrow ofrece varios cursos que llegarán a intervalos regulares.
+- [**iTunes U**](https://apps.apple.com/us/app/itunes-u/id490217893){:target="_blank"}: esta aplicación tiene podcasts y cursos de muchas universidades que puedes descargar en tu teléfono inteligente o iPad.
+- [**CreativeLive**](https://www.creativelive.com/){:target="_blank"}: Vea las clases en vivo de forma gratuita, o compre clases pasadas con materiales adicionales. Los temas incluyen diseño, música, fotografía, manualidades y más.
+
+
  
  [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--x-large .align-center}

@@ -18,9 +18,10 @@ header:
 
 ---
 
-# Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Kubernetes, Docker, Webpack
+<br/>
+# 👨‍🚀 ▷ Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Kubernetes, Docker, Webpack
 
-![](/assets/images/paginas/mar-docker-kubernetes.webp)
+![Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Kubernetes, Docker, Webpack](/assets/images/paginas/mar-docker-kubernetes.webp "Cómo aprender todo sobre los entornos de contenedores, desarrollo e implementación en la nube: Kubernetes, Docker, Webpack")
 
 Colección de enlaces con los que aprender a manejar Kubernetes desde cero hasta nivel avanzado.
 

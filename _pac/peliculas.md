@@ -7,7 +7,7 @@ classes: wide
 permalink: /películas/
 canonical_URL: https://ciberninjas.com/películas/
 comments: false
-date: 2020-05-01 18:00:00 +0100
+date: 2020-05-06 18:00:00 +0100
 published: true
 header:
   teaser: /assets/images/rosepac/cortos-de-animacion-solitario-social.webp
@@ -118,6 +118,7 @@ La realidad es, que casi todas las películas deanimación me suelen gustar; has
 
 * Devs [Jotdown Review](https://www.jotdown.es/2020/04/devs-es-una-joya-de-la-ciencia-ficcion-moderna/){:target="_blank"} (2020)
 * La Línea Invisible (2020)
+* Start Trek Picard (2020) - No soy muy fanático de Start Trek, pero.. 🙈 
 * Humandas (2015 - 2018) [*](https://www.imdb.com/title/tt4122068/){:target="_blank"}
 * La Conjura contra América [*](https://www.filmaffinity.com/es/film844505.html){:target="_blank"}
 * [10 Series sobre Ciencia de Datos e Inteligencia Artificial](https://www.analyticsvidhya.com/blog/2016/01/10-popular-tv-shows-data-science-artificial-intelligence/){:target="_blank"}

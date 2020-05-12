@@ -134,13 +134,17 @@ Ubuntu, es sin duda, la primera gran distribución de Unix en haber demostrado q
 
 ### **3.1. Lubuntu**
 
-Sin lugar a dudas Lubuntu, es una de las mejores distribuciones que existen si lo que buscas es un sistema mínimo y que no coma recursos. Al igual que Xubuntu. Al utilizar el escritorio LXDE.
+Sin lugar a dudas Lubuntu, se encuentra entre uno de los mejores sabores existen si lo que buscas es un sistema mínimo y que no coma recursos. Al igual que Xubuntu. Al utilizar el escritorio LXDE.
 https://lubuntu.net/
 
 ### **3.2. Xubuntu**
 
 Sin lugar a dudas Xubuntu, es una de las mejores distribuciones que existen si lo que buscas es un sistema mínimo y que no coma recursos. Al igual que Lubuntu. Por su ligereza al utilizar el escritorio XFCE-
 https://xubuntu.org/
+
+### **3.3 UbuntuDDE**
+
+[UbuntuDDE](/ubuntudde-ubuntu-deepin/) es una potente versión de Ubuntu con el entorno de escritorio más bello, el de Deepin.
 
 ## **4. Manjaro**
 
@@ -212,7 +216,7 @@ Finalmente, System76 ha agregado una forma simple de actualizar el firmware, alg
 [⏩ Probar Pop OS!](https://kutt.it/linux-pop-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 <!-- contenido -->
 
-## Relacionados
+### Relacionados
 
 [🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2020](/7-mejores-distribuciones-escritorio-para-principiantes/)
 
