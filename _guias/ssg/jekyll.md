@@ -53,13 +53,15 @@ Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un 
 
 ## Montaje y Pruebas
 
-- [Supercarga las páginas de GitHub con Jekyll y Travis CI](https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075)
-
+* [Supercarga las páginas de GitHub con Jekyll y Travis CI](https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075)
 
 ## SEO
-- [Cómo usar Jekyll como un profesional: Mejorar el SEO](https://codeburst.io/use-jekyll-like-a-pro-improving-seo-c8cfb81781b7)
 
-## ✍ Cómo Publicar Con Jekyll
+* [Cómo usar Jekyll como un profesional: Mejorar el SEO](https://codeburst.io/use-jekyll-like-a-pro-improving-seo-c8cfb81781b7)
+
+## Plantilla de Minimal Mistakes
+
+Vamos a ver paso a paso, algunas de las pautas más importantes sobre como podemos realizar nuestras publicaciones comodamente en está, una de las plantillas más reconocidas usadas de Jekyll.
 
 ### Publicar un Enlace
 
@@ -147,6 +149,26 @@ Situándolo luego del primer o segundo párrafo, además debes aplicar en tu cab
 
     excerpt_separator: "<!--more-->"
 
+## Plantilla Minimal Mistakes Configuración
+
+Se puede cambiar absolutamente todo dentro de la plantilla, siempre y cuando la estés ejecutando de forma independiente y por tu cuenta. Existe, una limitación dentro de las posibles ediciones; si estás; son realizadas a través de Github Pages (como viendo siendo mi caso).
+
+Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar pequeños cambios dentro de la plantilla Minimal Mistakes instalada sobre las páginas de Github.
+
+### Cómo cambiar la fuente tipográfica
+
+1. Cargar el enlace de las fuentes de Google, a través de la carpeta *includes* en el fichero ```_includes/head/custom.html```.
+2. Por ejemplo: ```<link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,300;0,600;1,400&display=swap" rel="stylesheet">```
+3. Agregar al fichero de .scss las variables correspondientes. En ```_sass/minimal-mistakes.scss```
+
+`````
+$serif              : 'Overpass', 'Times New Roman', serif;
+$sans-serif-narrow  : 'Overpass', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
+`````
+
 ## 👷‍♀️ CMS de Jekyll
 
 Un CMS o Gestor de Contenidos es un software creado para poder ayudarte a la hora de la utilización de un blog, página o web en la que deseas agregar tus contenidos.
@@ -155,11 +177,15 @@ En el caso de Jekyll, no es que existan grandes CMS, más si existen variopintas
 
 En mi caso, decidí utilizar [Forestry](https://www.forestry.io) puesto qu es gratuito y permite gestionar el contenido desde una interfaz totalmente minimalista; además de ofrecer la posibilidad de generar plantillas para las diferentes entradas futuras que se deseen ir realizando; a lo que denominan _front matter._
 
-
 [Soluciones de CMS para Jekyll](https://jekyllthemes.io/resources/jekyll-hosting-and-cms-solutions) en esta publicación puedes encontrar el mejor lugar para alojar tu sitio Jekyll o hacer que tu sitio web estático sea editable con estos excelentes servicios de administración de contenido.
 
-### CloudCannon
-* [El CMS en la Nube para Jekyll](https://cloudcannon.com/)
+### Prose.io
+
+Este es un pequeño editor que permite cargar de forma muy rápida los repositorios de Github además de modificar sus diferentes opciones a través de una pequeña edición del archivo de configuración de Jekyll.
+
+A pesar de que hace mucho que el proyecto no es modificado dentro de Github, es aún totalmente funcional.
+
+Otro por menor, que te va a surgir a la hora de su utilización; es que deberas personalizar todos los ajustes del encabezado para adaptarlo a las opciones de tu blog; y que eso te permita facilitar el trabajo de publicar directamente a través del editor online.
 
 ### Forestry, Enlaces Directos
 
@@ -168,6 +194,10 @@ En mi caso, decidí utilizar [Forestry](https://www.forestry.io) puesto qu es gr
 * [Plantillas](https://forestry.io/docs/settings/front-matter-templates "Forestry: Plantillas")
 * [Campos/Fields](https://forestry.io/docs/settings/fields/#text "Campos/Fields, utilizados en las plantillas de Forestry "), utilizados en las plantillas
 * [Snippets](https://forestry.io/docs/settings/snippets "Forestry: Snippets") similar a los "shortcodes" de Wordpress
+
+### CloudCannon
+
+* [El CMS en la Nube para Jekyll](https://cloudcannon.com/)
 
 ## 🔄 Plugins de Importación
 
