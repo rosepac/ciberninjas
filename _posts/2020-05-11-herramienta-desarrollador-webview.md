@@ -1,12 +1,13 @@
 ---
 
-author_profile: true
+author_profile: false
 comments: false
 classes: wide
 tags:
 - Android
 categories:
 - Sistema Operativo
+layout: splash
 header:
   teaser: /assets/images/blog/11-android-11-desarrolladores.webp
 title: '🔩 ▷ Webview en Beta: Herramienta de depuración para desarrolladores de Android'
