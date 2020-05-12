@@ -39,11 +39,11 @@ La postura inicial de esta estructura ósea se especifica en el archivo SVG de e
 
 ## Demostraciones
 
-### Demostración 1: [alimentación de la cámara](https://pose-animator-demo.firebaseapp.com/camera.html){:target="_blank"}
+### Demostración 1: [alimentación de la cámara](https://pose-animator-demo.firebaseapp.com/camera.html){:target="_blank" rel="nofollow"}
 
 La demostración de la cámara anima un avatar 2D en tiempo real desde una transmisión de video de la cámara web.
 
-### Demostración 2: [imagen estática](https://pose-animator-demo.firebaseapp.com/static_image.html){:target="_blank"}
+### Demostración 2: [imagen estática](https://pose-animator-demo.firebaseapp.com/static_image.html){:target="_blank" rel="nofollow"}
 
 La demostración de imagen estática muestra el avatar posicionado a partir de una sola imagen.
 
@@ -67,7 +67,7 @@ Las demostraciones son compatibles con Desktop Chrome y iOS Safari; también deb
 
 ## Anima tu propio diseño
 
-1. Descargue el [esqueleto SVG de muestra](https://github.com/yemount/pose-animator/blob/master/resources/samples/skeleton.svg){:target="_blank"}.
+1. Descargue el [esqueleto SVG de muestra](https://github.com/yemount/pose-animator/blob/master/resources/samples/skeleton.svg){:target="_blank" rel="nofollow"}.
 
 2. Cree un nuevo archivo en el editor de gráficos vectoriales de su elección. Copie el grupo llamado 'esqueleto' del archivo anterior en su archivo de trabajo. Nota:
 
@@ -93,7 +93,7 @@ Las demostraciones son compatibles con Desktop Chrome y iOS Safari; también deb
 
 5. Exporte el archivo como un archivo SVG.
 
-6. Abra la [demo de la cámara Pose Animator](https://pose-animator-demo.firebaseapp.com/camera.html){:target="_blank"}. Una vez que todo se carga, suelte su archivo SVG en la pestaña del navegador. Deberías poder verlo cobrar vida: D
+6. Abra la [demo de la cámara Pose Animator](https://pose-animator-demo.firebaseapp.com/camera.html){:target="_blank" rel="nofollow"}. Una vez que todo se carga, suelte su archivo SVG en la pestaña del navegador. Deberías poder verlo cobrar vida: D
 
 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}

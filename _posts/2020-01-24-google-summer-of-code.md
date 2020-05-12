@@ -72,7 +72,7 @@ Todas las reglas del programa se enumeran en las Reglas del programa de GSoC y e
 
 ### **Postulación como organización**
 
-El programa GSoC se anuncia cada año en el [Blog de código abierto de Google,](https://opensource.googleblog.com/){:target="_blank"} entre otros lugares, y este anuncio proporciona plazos de solicitud para los proyectos. Cada organización debe postularse para participar. Las organizaciones generalmente tienen alrededor de 2 semanas para solicitar el programa. Los administradores del programa de Google luego seleccionan qué organizaciones participarán en el Google Summer of Code de ese año.
+El programa GSoC se anuncia cada año en el [Blog de código abierto de Google,](https://opensource.googleblog.com/){:target="_blank" rel="nofollow"} entre otros lugares, y este anuncio proporciona plazos de solicitud para los proyectos. Cada organización debe postularse para participar. Las organizaciones generalmente tienen alrededor de 2 semanas para solicitar el programa. Los administradores del programa de Google luego seleccionan qué organizaciones participarán en el Google Summer of Code de ese año.
 
 ### **Postulación de los estudiantes**
 
@@ -98,7 +98,7 @@ En la fecha límite final para la codificación, los estudiantes son bienvenidos
 
 El objetivo de Google Summer of Code es que los estudiantes participantes se queden mucho tiempo después de que el programa haya finalizado y continúen contribuyendo a sus comunidades de proyecto. Los grandes mentores continúan trabajando con sus alumnos para alentarlos a hacerlo. También es habitual durante este tiempo que las organizaciones publiquen un informe final posterior al GSoC.
 
-[👉 Google Summer Code 2020 Plazo Abierto](https://opensource.googleblog.com/2020/01/google-summer-of-code-2020-is-now-open.html){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Google Summer Code 2020 Plazo Abierto](https://opensource.googleblog.com/2020/01/google-summer-of-code-2020-is-now-open.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## Licencia
 
@@ -108,4 +108,4 @@ _____
 
 **Fuente**:
 
-* [GSOC Guía de Mentores](https://google.github.io/gsocguides/mentor/){:target="_blank"}
+* [GSOC Guía de Mentores](https://google.github.io/gsocguides/mentor/){:target="_blank" rel="nofollow"}

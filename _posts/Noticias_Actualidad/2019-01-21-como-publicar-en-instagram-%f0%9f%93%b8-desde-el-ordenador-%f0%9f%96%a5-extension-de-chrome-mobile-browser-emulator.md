@@ -36,7 +36,7 @@ Por ello, el truco de hoy, trata de dar solución a ello.
 
 ## ¿Quieres publicar en Instagram desde tu ordenador?
 
-Solamente necesitas utilizar el navegador **[Brave](https://kutt.it/rosepacbrave){:target="_blank"}** o **Chrome** e instalar esta extensión:
+Solamente necesitas utilizar el navegador **[Brave](https://kutt.it/rosepacbrave){:target="_blank" rel="nofollow"}** o **Chrome** e instalar esta extensión:
 
 * [Mobile Browser Emulator][1]
 

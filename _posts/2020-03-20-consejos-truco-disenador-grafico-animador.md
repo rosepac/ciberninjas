@@ -66,7 +66,7 @@ El trabajo desde casa, sería imposible sin lugar a dudas sin estar conectado a 
 
 Un consejo: trabajar cerca del router para obtener la mejor señal o despliega un buen sistema de red a través de toda la casa.
 
-Existen muchos dispositivos con los que llevar a cabo esto, por ejemplo: [Xiaomi wifi extensor Amplificador de Señal WiFi 2 (por menos de 12 €)](https://amzn.to/39QYtVH){:target="_blank"}, [Repetidor TP-Link TL-WA850RE 300 (por 18 €)](https://amzn.to/39PImrp){:target="_blank"} u de [1200 (por 34 €)](https://amzn.to/2wSGa3S){:target="_blank"}, [Google Wifi Router (por 90€)](https://amzn.to/33iVFy0){:target="_blank"} el [router de Amazon Eero (desde 110 €)](https://amzn.to/33fSKq5){:target="_blank"}, etc. que ayudan a amplificar y distribuir la señal o construir una red completa a todo lo largo y ancho de tu hogar.
+Existen muchos dispositivos con los que llevar a cabo esto, por ejemplo: [Xiaomi wifi extensor Amplificador de Señal WiFi 2 (por menos de 12 €)](https://amzn.to/39QYtVH){:target="_blank" rel="nofollow"}, [Repetidor TP-Link TL-WA850RE 300 (por 18 €)](https://amzn.to/39PImrp){:target="_blank" rel="nofollow"} u de [1200 (por 34 €)](https://amzn.to/2wSGa3S){:target="_blank" rel="nofollow"}, [Google Wifi Router (por 90€)](https://amzn.to/33iVFy0){:target="_blank" rel="nofollow"} el [router de Amazon Eero (desde 110 €)](https://amzn.to/33fSKq5){:target="_blank" rel="nofollow"}, etc. que ayudan a amplificar y distribuir la señal o construir una red completa a todo lo largo y ancho de tu hogar.
 
 ## **2. Espacio dedicado**
 
@@ -78,7 +78,7 @@ Elige correctamente tu mejor opción, bien sea la mesa de la cocina o el sofá, 
 
 Recuerda, ¡La ergonomía es importante! Una buena silla de oficina con la que trabajar a la altura correcta y que sea lo suficientemente cómoda, será una gran inversión. Quizás, no desees gastar demasiado en una silla de más de 500 €; pero existen sillas de calidad más asequibles, entre el rango de 200 / 350 € que seguramente pueden ser una gran opción.
 
-Algunos ejemplos: [Autonomous ErgoChair 2](https://www.autonomous.ai/office-chairs/ergonomic-chair?lang=en-US){:target="_blank"} (por 360 €) o[AmazonBasics Ejecutiva](https://amzn.to/33fhWgi){:target="_blank"} (por menos de 95 €)
+Algunos ejemplos: [Autonomous ErgoChair 2](https://www.autonomous.ai/office-chairs/ergonomic-chair?lang=en-US){:target="_blank" rel="nofollow"} (por 360 €) o[AmazonBasics Ejecutiva](https://amzn.to/33fhWgi){:target="_blank" rel="nofollow"} (por menos de 95 €)
 <!-- https://www.reviewed.com/home-outdoors/best-right-now/the-best-office-chairs -->
 ## **3. Toma medidas para no ser interrumpido**
 <!-- contenido -->
@@ -88,7 +88,7 @@ Coloca Post-It en la puerta durante las llamadas o reuniones y notifica a tus am
 
 Organiza e implementa de forma adecuada tus reuniones. Con seguridad, a tus compañeros de trabajo les gustará realizar reuniones y para ellos vas a necesitar los dispositivos adecuados para ello. Aunque los portátiles suelen poseer una cámara web, no siempre es tan buena y nítida como debería de ser; por ende, es mejor qué, tarde o temprano te hagas con una cámara externa.
 
-En estos momentos tienes la [Logitech C920 HD Pro Webcam](https://amzn.to/2INo5a4){:target="_blank"} en una gran oferta, por menos de 54 €, [Logitech C922 Pro Stream](https://amzn.to/2U4CKTE){:target="_blank"} por 80 €, incluyendo hasta el trípode. E incluso más económicas como la [LifeCam HD-3000](https://amzn.to/2vYOKhA){:target="_blank"} por tan solo 32 €.
+En estos momentos tienes la [Logitech C920 HD Pro Webcam](https://amzn.to/2INo5a4){:target="_blank" rel="nofollow"} en una gran oferta, por menos de 54 €, [Logitech C922 Pro Stream](https://amzn.to/2U4CKTE){:target="_blank" rel="nofollow"} por 80 €, incluyendo hasta el trípode. E incluso más económicas como la [LifeCam HD-3000](https://amzn.to/2vYOKhA){:target="_blank" rel="nofollow"} por tan solo 32 €.
 
 Siempre puedes utilizar la cámara de tu propio smartphone, para lo que te vendrá genial [algún tipo de soporte](/mejores-consejos-trabajar-desde-casa/#9-pequeñas-cosas).
 
@@ -141,11 +141,11 @@ Así que, piensa siempre antes de hacer clic.
 ## **9. Pequeñas cosas**
 
 Un soporte para teléfono le quitará el dispositivo de las manos y le permitirá continuar trabajando con las manos libres.
-Como alguno de los siguientes [UGREEN Soporte Metálico](https://amzn.to/2IKHuIC){:target="_blank"} por 24 € o algo más sencillo y práctico como el [Lamicall](https://amzn.to/3d0Twvl){:target="_blank"} desde solo 8 € e incluso, algo menos estilizado pero casi regalado de precio, como este práctico y útil [soporte universal](https://s.click.aliexpress.com/e/_dYBQ7tn){:target="_blank"}.
+Como alguno de los siguientes [UGREEN Soporte Metálico](https://amzn.to/2IKHuIC){:target="_blank" rel="nofollow"} por 24 € o algo más sencillo y práctico como el [Lamicall](https://amzn.to/3d0Twvl){:target="_blank" rel="nofollow"} desde solo 8 € e incluso, algo menos estilizado pero casi regalado de precio, como este práctico y útil [soporte universal](https://s.click.aliexpress.com/e/_dYBQ7tn){:target="_blank" rel="nofollow"}.
 
 Así, con tu teléfono en un sitio fijo; podrás recargarlo sin problemas y utilizarlo como cámara o simplemente para llamadas mediante el manos libres.
 
-Otro utensilio que te puede hacer la vida un poco más fácil; es una [regleta con protección](https://amzn.to/38X4PSk){:target="_blank"} para casos de posibles sobretensiones en la read, y algún utensilio u modelo de [recogecables](https://amzn.to/391vD3Q).
+Otro utensilio que te puede hacer la vida un poco más fácil; es una [regleta con protección](https://amzn.to/38X4PSk){:target="_blank" rel="nofollow"} para casos de posibles sobretensiones en la read, y algún utensilio u modelo de [recogecables](https://amzn.to/391vD3Q).
 
 Créeme que lo último que querrás, será, tener el salón o la habitación que uses de despacho llena de molestos cables.
 <!-- Recogimos esta regleta de 12 tomacorrientes Belkin con protector contra sobretensiones por $ 22 y ya no tenemos que buscar una toma disponible. -->
@@ -156,9 +156,9 @@ La idea de hacerte con un segundo monitor o bien una pequeña tablet o un segund
 
 Si el segundo dispositivo, es un monitor como tal -bien sea, una segunda pantalla o la combinación de portátil + sobremesa- serás capaz de expandir la pantalla de tu ordenador, compartir los programas; podrás trabajar sin problemas en uno, mientras controlas lo que te sea necesario y de importancia en el otro (correo electrónico, noticias, plataforma interna de trabajo, etc.).
 
-Puede que te lleve algo de tiempo acostumbrarte, pero con el paso del tiempo te será algo necesario. Si no deseas gastar mucho dinero, en la [compra de un monitor](https://amzn.to/2TXYhyk){:target="_blank"} siempre puedes comprar un pequeño monitor como por ejemplo, [este Asus](https://amzn.to/33rV2lR){:target="_blank"} de 15 pulgadas, que se asemeja a un iPad independiente y ronda los 160 €.
+Puede que te lleve algo de tiempo acostumbrarte, pero con el paso del tiempo te será algo necesario. Si no deseas gastar mucho dinero, en la [compra de un monitor](https://amzn.to/2TXYhyk){:target="_blank" rel="nofollow"} siempre puedes comprar un pequeño monitor como por ejemplo, [este Asus](https://amzn.to/33rV2lR){:target="_blank" rel="nofollow"} de 15 pulgadas, que se asemeja a un iPad independiente y ronda los 160 €.
 
-Además, debes de recordar comprobar que tus dispositivos; tengan soporte para dos monitores y a poder ser una tarjeta gráfica medianamente decente. Es posible que te vayan a ser necesarios algunos de estos cables, [hdmi a vga](https://amzn.to/2IZJ49C){:target="_blank"}, [hdmi a dvi](https://amzn.to/2TYwUUO){:target="_blank"}, [dvi a displayport](https://amzn.to/38ZtqFV){:target="_blank"}, etc.
+Además, debes de recordar comprobar que tus dispositivos; tengan soporte para dos monitores y a poder ser una tarjeta gráfica medianamente decente. Es posible que te vayan a ser necesarios algunos de estos cables, [hdmi a vga](https://amzn.to/2IZJ49C){:target="_blank" rel="nofollow"}, [hdmi a dvi](https://amzn.to/2TYwUUO){:target="_blank" rel="nofollow"}, [dvi a displayport](https://amzn.to/38ZtqFV){:target="_blank" rel="nofollow"}, etc.
 
 ## **11. Lo más importante**
 

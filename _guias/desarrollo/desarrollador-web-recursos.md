@@ -1,6 +1,6 @@
 ## Librerías
 
-* [LibCamara: Librería de Control para la Cámara](http://libcamera.org/){:target="_blank"}
+* [LibCamara: Librería de Control para la Cámara](http://libcamera.org/){:target="_blank" rel="nofollow"}
 
 Una biblioteca de soporte de cámara compleja para Linux, Android y ChromeOS
 

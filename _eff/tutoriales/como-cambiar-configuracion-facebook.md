@@ -24,7 +24,7 @@ toc_sticky: true
 
 ---
 
-La tan esperada herramienta del control de la actividad fuera de Facebook usada por el propio Facebook. [Comenzó a implementarse](https://about.fb.com/news/2019/08/off-facebook-activity/){:target="_blank"}. Si bien, no es una medida perfecta, y aún se necesitan leyes más estrictas de privacidad de datos, esta es una herramienta que ofrece un buen paso hacia una mayor transparencia y control del usuario con respecto al seguimiento de terceros. Esperamos que otras compañías sigan su ejemplo, y alentamos a los usuarios a aprovecharlo.
+La tan esperada herramienta del control de la actividad fuera de Facebook usada por el propio Facebook. [Comenzó a implementarse](https://about.fb.com/news/2019/08/off-facebook-activity/){:target="_blank" rel="nofollow"}. Si bien, no es una medida perfecta, y aún se necesitan leyes más estrictas de privacidad de datos, esta es una herramienta que ofrece un buen paso hacia una mayor transparencia y control del usuario con respecto al seguimiento de terceros. Esperamos que otras compañías sigan su ejemplo, y alentamos a los usuarios a aprovecharlo.
 
 Este tutorial te va a a guiar a través de los pasos para no solo "borrar" la actividad fuera de Facebook ya vinculada a tucuenta, si no que también para evitar que en el futuro se asocien las actividades futuras con tu cuenta. Debes de tener en cuenta que esto no impedirá que terceros te envíen información de Facebook, solo evitará que Facebook asocie esa información con tu cuenta.
 

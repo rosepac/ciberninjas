@@ -39,6 +39,6 @@ Comience instalando ZooKeeper en una sola máquina o en un clúster muy pequeño
 1. Aprenda sobre ZooKeeper leyendo la documentación.
 2. Descargue ZooKeeper desde la página de lanzamiento.
 
-[📖 Documentación de ZooKeeper](https://zookeeper.apache.org/doc/r3.5.6/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
-[⬇ Instalación de ZooKeeper](https://zookeeper.apache.org/releases.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
-[💡 ZooKeeper Wiki](https://cwiki.apache.org/confluence/display/ZOOKEEPER/Index){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[📖 Documentación de ZooKeeper](https://zookeeper.apache.org/doc/r3.5.6/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⬇ Instalación de ZooKeeper](https://zookeeper.apache.org/releases.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[💡 ZooKeeper Wiki](https://cwiki.apache.org/confluence/display/ZOOKEEPER/Index){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}

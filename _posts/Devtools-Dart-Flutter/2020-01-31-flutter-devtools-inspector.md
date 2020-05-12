@@ -24,7 +24,7 @@ canonical_URL: https://ciberninjas.com/flutter-dart-devtools-inspector/
 
 ## ¿Qué es el inspector de Flutter?
 
-El inspector de widgets de Flutter es una herramienta poderosa para visualizar y explorar árboles de widgets de Flutter. El **framework Flutter** usa widgets como el [bloque de construcción central](https://flutter.dev/docs/development/ui/widgets-intro){:target="_blank"} para cualquier cosa, desde controles (como texto, botones y conmutadores) hasta diseño (como centrado, relleno, filas y columnas). El inspector lo ayuda a visualizar y explorar árboles de widgets de Flutter y puede usarse para lo siguiente:
+El inspector de widgets de Flutter es una herramienta poderosa para visualizar y explorar árboles de widgets de Flutter. El **framework Flutter** usa widgets como el [bloque de construcción central](https://flutter.dev/docs/development/ui/widgets-intro){:target="_blank" rel="nofollow"} para cualquier cosa, desde controles (como texto, botones y conmutadores) hasta diseño (como centrado, relleno, filas y columnas). El inspector lo ayuda a visualizar y explorar árboles de widgets de Flutter y puede usarse para lo siguiente:
 
 - Comprender los diseños existentes
 - Diagnosticar problemas de diseño
@@ -33,7 +33,7 @@ El inspector de widgets de Flutter es una herramienta poderosa para visualizar y
 
 ## Empezar
 
-Para depurar un problema de diseño, ejecute la aplicación en [modo de depuración](https://flutter.dev/docs/testing/build-modes#debug){:target="_blank"} y abra el inspector haciendo clic en la pestaña **Inspector Flutter** en la barra de herramientas de DevTools.
+Para depurar un problema de diseño, ejecute la aplicación en [modo de depuración](https://flutter.dev/docs/testing/build-modes#debug){:target="_blank" rel="nofollow"} y abra el inspector haciendo clic en la pestaña **Inspector Flutter** en la barra de herramientas de DevTools.
 
  **Nota:** Todavía puede acceder al inspector de Flutter directamente desde Android Studio / IntelliJ, pero es posible que prefiera la vista más espaciosa cuando lo ejecuta desde DevTools en un navegador. También tenga en cuenta que la interfaz de usuario para el inspector varía ligeramente entre estos entornos. Esta página describe la interfaz de usuario para la versión DevTools del inspector.
  {: .notice--info}
@@ -44,7 +44,7 @@ La siguiente es una guía de las funciones disponibles en la barra de herramient
 
 - **Seleccionar modo de widget** ![Seleccionar icono de modo de widget](https://flutter.dev/assets/tools/devtools/select-widget-mode-icon-d55d488f9949c944b2acb62ea12b76d5cef86f447d48eb2420e739adec98b490.png)
 
-Active este botón para seleccionar un widget en el dispositivo para inspeccionarlo. Para obtener más información, consulte [Inspección de un widget](https://flutter.dev/docs/development/tools/devtools/inspector#inspecting-a-widget){:target="_blank"}.
+Active este botón para seleccionar un widget en el dispositivo para inspeccionarlo. Para obtener más información, consulte [Inspección de un widget](https://flutter.dev/docs/development/tools/devtools/inspector#inspecting-a-widget){:target="_blank" rel="nofollow"}.
 
 - **Actualizar árbol** ![Actualizar icono de árbol](https://flutter.dev/assets/tools/devtools/refresh-tree-icon-9028765959cd8c8226e495f5aeeeea8f293280d6fbaf580e4b220551a91b1bb6.png)
 
@@ -52,7 +52,7 @@ Vuelva a cargar la información del widget actual.
 
 - **Superposición de rendimiento** ![Icono de superposición de rendimiento](https://flutter.dev/assets/tools/devtools/performance-overlay-icon-98d3cd664c3ef07bd340cdb58ae65eab31c65292d979c916edde5c50a85805ad.png)
 
-Alternar la visualización de gráficos de rendimiento para los hilos de GPU y CPU. Para obtener más información sobre la interpretación de estos gráficos, consulte [La superposición](https://flutter.dev/docs/perf/rendering/ui-performance#the-performance-overlay){:target="_blank"} de [rendimiento en el perfil de rendimiento de Flutter](https://flutter.dev/docs/perf/rendering/ui-performance){:target="_blank"}.
+Alternar la visualización de gráficos de rendimiento para los hilos de GPU y CPU. Para obtener más información sobre la interpretación de estos gráficos, consulte [La superposición](https://flutter.dev/docs/perf/rendering/ui-performance#the-performance-overlay){:target="_blank" rel="nofollow"} de [rendimiento en el perfil de rendimiento de Flutter](https://flutter.dev/docs/perf/rendering/ui-performance){:target="_blank" rel="nofollow"}.
 
 - **iOS** ![Alternar icono de plataforma](https://flutter.dev/assets/tools/devtools/toggle-platform-icon-96bfe37adf2fa433e858b0980b98bcb1a7dcbb22079c6a99fc287bf744a46128.png)
 
@@ -91,15 +91,15 @@ Al depurar problemas de diseño, los campos clave a tener en cuenta son los camp
 **Nota:** Esta función solo está disponible en la versión alfa de [DevTools escrita en Flutter](https://flutter.dev/docs/development/tools/devtools/overview#how-do-i-try-devtools-written-in-flutter).
 {: .notice--info}
 
-El explorador de diseño de Flutter le ayuda a comprender mejor los diseños de Flutter. Actualmente, el explorador de diseño solo admite la exploración de [diseños flexibles](https://api.flutter.dev/flutter/widgets/Flex-class.html){:target="_blank"}, pero puede extenderse a otros tipos de diseños en el futuro.
+El explorador de diseño de Flutter le ayuda a comprender mejor los diseños de Flutter. Actualmente, el explorador de diseño solo admite la exploración de [diseños flexibles](https://api.flutter.dev/flutter/widgets/Flex-class.html){:target="_blank" rel="nofollow"}, pero puede extenderse a otros tipos de diseños en el futuro.
 
 ### Usar el Explorador de diseño
 
-Desde el Inspector Flutter, seleccione un widget flexible (por ejemplo, [Fila](https://api.flutter.dev/flutter/widgets/Row-class.html){:target="_blank"} , [Columna](https://api.flutter.dev/flutter/widgets/Column-class.html){:target="_blank"}, [Flex](https://api.flutter.dev/flutter/widgets/Flex-class.html){:target="_blank"}, etc.) o un hijo directo de un widget flexible. Si está utilizando Flutter 1.12.16 o posterior, verá una pestaña adicional "Explorador de diseño" junto a "Árbol de detalles". Al seleccionar esta pestaña, se mostrará la nueva función Explorador de diseño.
+Desde el Inspector Flutter, seleccione un widget flexible (por ejemplo, [Fila](https://api.flutter.dev/flutter/widgets/Row-class.html){:target="_blank" rel="nofollow"} , [Columna](https://api.flutter.dev/flutter/widgets/Column-class.html){:target="_blank" rel="nofollow"}, [Flex](https://api.flutter.dev/flutter/widgets/Flex-class.html){:target="_blank" rel="nofollow"}, etc.) o un hijo directo de un widget flexible. Si está utilizando Flutter 1.12.16 o posterior, verá una pestaña adicional "Explorador de diseño" junto a "Árbol de detalles". Al seleccionar esta pestaña, se mostrará la nueva función Explorador de diseño.
 
 ![La pestaña Explorador de diseño](https://flutter.dev/assets/tools/devtools/layout_explorer_tab-e151d6866e9cdb1e8a2afeb0bd11a0e156cdef2e8ab1b29cc806d2fe23193d6e.png)
 
-El Explorador de diseño visualiza cómo se presentan los widgets [Flex](https://api.flutter.dev/flutter/widgets/Flex-class.html){:target="_blank"} y sus hijos. El explorador identifica el eje principal y el eje transversal, así como la alineación actual para cada uno (por ejemplo, inicio, final, espacio entre, etc.). También muestra detalles como factor flexible y restricciones de diseño.
+El Explorador de diseño visualiza cómo se presentan los widgets [Flex](https://api.flutter.dev/flutter/widgets/Flex-class.html){:target="_blank" rel="nofollow"} y sus hijos. El explorador identifica el eje principal y el eje transversal, así como la alineación actual para cada uno (por ejemplo, inicio, final, espacio entre, etc.). También muestra detalles como factor flexible y restricciones de diseño.
 
 Además, el explorador muestra violaciones de restricciones de diseño y errores de desbordamiento de representación. Las restricciones de diseño violadas son de color rojo, y los errores de desbordamiento se presentan en el patrón estándar de "cinta amarilla", como vería en un dispositivo en ejecución. Estas visualizaciones tienen como objetivo mejorar la comprensión de por qué se producen errores de desbordamiento y cómo solucionarlos.
 
@@ -169,7 +169,7 @@ Seguimiento de creación de widgets deshabilitado ( **no** recomendado):
 
 ## Otros recursos
 
-Para una demostración de lo que generalmente es posible con el inspector, vea la [charla DartConf 2018 que](https://www.youtube.com/watch?v=JIcmJNT9DNI){:target="_blank"} demuestra la versión IntelliJ del inspector Flutter.
+Para una demostración de lo que generalmente es posible con el inspector, vea la [charla DartConf 2018 que](https://www.youtube.com/watch?v=JIcmJNT9DNI){:target="_blank" rel="nofollow"} demuestra la versión IntelliJ del inspector Flutter.
 
 ## Guía DevTools
 
@@ -179,5 +179,5 @@ Para una demostración de lo que generalmente es posible con el inspector, vea l
 
 [🎓 Cursos en Español](/cursos-tecnologia/#flutter){: .btn .btn--warning .btn--large} [👉 Ejemplos de Aplicaciones](/flutter-aplicaciones-ejemplos/){: .btn .btn--inverse .btn--large} [⚓ Documentación en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large}
 
-**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank"}
+**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow"}
 {: .notice--info}

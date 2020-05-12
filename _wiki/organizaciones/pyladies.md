@@ -43,21 +43,21 @@ Cada delegación es libre de organizarse como lo desee, siempre y cuando se cent
 
 ## Enlaces Externos
 
-* [Página Web Oficial PyLadies](https://www.pyladies.com){:target="_blank"}
-* [Localización de las Delegaciones](https://www.pyladies.com/locations/){:target="_blank"}
+* [Página Web Oficial PyLadies](https://www.pyladies.com){:target="_blank" rel="nofollow"}
+* [Localización de las Delegaciones](https://www.pyladies.com/locations/){:target="_blank" rel="nofollow"}
 
 <!-- Comunidades de Mujeres en el Mundo de la Tecnología https://en.wikipedia.org/wiki/Category:Organizations_for_women_in_science_and_technology -->
 **Fundación**: Audrey Roy Greenfeld, Christine Cheung, Esther Nam, Jessica Stanton, Katharine Jarmul, Sandy Strong y Sophia Viklund
 {: .notice--primary}
 
-**Sitio Web**: [https://www.pyladies.com](https://www.pyladies.com "Página web oficial de PyLadies"){:target="_blank"}
+**Sitio Web**: [https://www.pyladies.com](https://www.pyladies.com "Página web oficial de PyLadies"){:target="_blank" rel="nofollow"}
 {: .notice--primary}
 
 **Categorías**: Organizaciones
 {: .notice--success}
 
 <!-- https://en.wikipedia.org/wiki/Category:Organizations_for_women_in_science_and_technology https://www.techrepublic.com/article/10-awesome-technology-nonprofits-you-should-know-about/ https://en.wikipedia.org/wiki/Nonprofit_Technology_Resources -->
-**INF.**: Esta obra contiene una traducción total derivada de [PyLadies](https://en.wikipedia.org/wiki/Eclipse_Theia){:target="_blank"} de la Wikipedia en inglés, versión del 22 de enero de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Eclipse_Theia&action=history){:target="_blank"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank"}.
+**INF.**: Esta obra contiene una traducción total derivada de [PyLadies](https://en.wikipedia.org/wiki/Eclipse_Theia){:target="_blank" rel="nofollow"} de la Wikipedia en inglés, versión del 22 de enero de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Eclipse_Theia&action=history){:target="_blank" rel="nofollow"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow"}.
 {: .notice--info}
 
 <!-- organizaciones de mujeres : https://en.wikipedia.org/wiki/Category:Organizations_for_women_in_science_and_technology https://en.wikipedia.org/wiki/Women_Who_Code -->

@@ -10,8 +10,8 @@ classes: wide
 
 ## 🕸 Redes
 
-* [Wirershark](https://www.wireshark.org/){:target="_blank"} Analizador de protocolos de red más importante y más utilizado del mundo: 
-* [Networkminer](https://www.netresec.com/?page=Networkminer){:target="_blank"} Herramienta de análisis forense:
+* [Wirershark](https://www.wireshark.org/){:target="_blank" rel="nofollow"} Analizador de protocolos de red más importante y más utilizado del mundo: 
+* [Networkminer](https://www.netresec.com/?page=Networkminer){:target="_blank" rel="nofollow"} Herramienta de análisis forense:
 
 ### Clientes FTP
 
@@ -34,36 +34,36 @@ Ninite
 
 ### Editores de Texto
 
-* [Emacs](https://www.gnu.org/software/emacs/download.html){:target="_blank"}
+* [Emacs](https://www.gnu.org/software/emacs/download.html){:target="_blank" rel="nofollow"}
 
 ## Buscadores e Indexación de Archivos
 
-* [Void Tools](https://www.voidtools.com/support/everything/){:target="_blank"}
+* [Void Tools](https://www.voidtools.com/support/everything/){:target="_blank" rel="nofollow"}
 
 ### Editores de Vídeo
 
-## [OpenShot](https://www.openshot.org/es/download/){:target="_blank"}
+## [OpenShot](https://www.openshot.org/es/download/){:target="_blank" rel="nofollow"}
 
 ### Testing
 
-* [Source Trail](https://www.sourcetrail.com/){:target="_blank"}
+* [Source Trail](https://www.sourcetrail.com/){:target="_blank" rel="nofollow"}
 
 ## Software Linux
 
 ### Seguridad
 
-* [Borg](https://www.borgbackup.org/){:target="_blank"}
-* [PirateBox](https://piratebox.cc/){:target="_blank"} [Forum](https://forum.piratebox.cc/){:target="_blank"}
+* [Borg](https://www.borgbackup.org/){:target="_blank" rel="nofollow"}
+* [PirateBox](https://piratebox.cc/){:target="_blank" rel="nofollow"} [Forum](https://forum.piratebox.cc/){:target="_blank" rel="nofollow"}
 
 ### Terminales Conexión Externa
 
-* [Eternal Terminal](https://eternalterminal.dev/){:target="_blank"}
-* [Mosh](https://mosh.org/){:target="_blank"}
-* [TMux](http://opensimulator.org/wiki/Tmux){:target="_blank"}
+* [Eternal Terminal](https://eternalterminal.dev/){:target="_blank" rel="nofollow"}
+* [Mosh](https://mosh.org/){:target="_blank" rel="nofollow"}
+* [TMux](http://opensimulator.org/wiki/Tmux){:target="_blank" rel="nofollow"}
 
 ### Herramientas de Monitorización
 
-* [Nutty](https://lignux.com/descubre-nutty-una-herramienta-de-monitorizacion-e-informacion-grafica-para-redes/){:target="_blank"}
+* [Nutty](https://lignux.com/descubre-nutty-una-herramienta-de-monitorizacion-e-informacion-grafica-para-redes/){:target="_blank" rel="nofollow"}
 
 ### Software MacOS
 

@@ -149,7 +149,7 @@ In the standard IDE for iOS and Android run a clean build and follow the steps t
 
 Este contenido se encuentra bajo licencia **[MIT](https://github.com/kubenav/kubenav/blob/master/LICENSE "Licencia Apache 2.0")**.
 
-**Fuente**\: [](https://github.com/kubenav/kubenav ""){:target="_blank"}
+**Fuente**\: [](https://github.com/kubenav/kubenav ""){:target="_blank" rel="nofollow"}
 {: .notice--info}
 
 ## Relacionados

@@ -57,7 +57,7 @@ published: false
 
 Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.org/wiki/Apache_License)**.
 <!-- -->
-**Fuente**\: []( "" "Licencia Apache 2.0"){:target="_blank"}
+**Fuente**\: []( "" "Licencia Apache 2.0"){:target="_blank" rel="nofollow"}
 {: .notice--info}
 
 ### Relacionados

@@ -83,13 +83,13 @@ La identidad de la red doméstica (HNI) es la combinación de MCC y MNC. Este es
 
 ## Enlaces externos
 
-* [Artículo de "Perspectivas de redes celulares" en la revista Wireless Telecom](https://web.archive.org/web/20040607225011/http://www.cnp-wireless.com/ArticleArchive/Wireless Telecom/2001Q1WT.html){:target="_blank"}
-* [Consejo de supervisión de IMSI responsable de asignar rangos de IMSI en los EE. UU.](http://www.atis.org/ATIS/IOC/iochom.htm){:target="_blank"}
-* [Utilidad de búsqueda IMSI](https://www.numberingplans.com/?page=analysis&sub=imsinr){:target="_blank"}
-* [Explicación de los planes de numeración GSM.](http://www.mib.net.ua/2008/03/gsm-numbering-plans-en.html){:target="_blank"}
+* [Artículo de "Perspectivas de redes celulares" en la revista Wireless Telecom](https://web.archive.org/web/20040607225011/http://www.cnp-wireless.com/ArticleArchive/Wireless Telecom/2001Q1WT.html){:target="_blank" rel="nofollow"}
+* [Consejo de supervisión de IMSI responsable de asignar rangos de IMSI en los EE. UU.](http://www.atis.org/ATIS/IOC/iochom.htm){:target="_blank" rel="nofollow"}
+* [Utilidad de búsqueda IMSI](https://www.numberingplans.com/?page=analysis&sub=imsinr){:target="_blank" rel="nofollow"}
+* [Explicación de los planes de numeración GSM.](http://www.mib.net.ua/2008/03/gsm-numbering-plans-en.html){:target="_blank" rel="nofollow"}
 
 **Categorías**: Identificadores Únicos \ 3GPP Estándares
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [IMSI](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity){:target="_blank"} de la Wikipedia en inglés, versión del 12 de septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=International_mobile_subscriber_identity&action=history){:target="_blank"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank"}.
+**INF.**: Esta obra contiene una traducción total derivada de [IMSI](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity){:target="_blank" rel="nofollow"} de la Wikipedia en inglés, versión del 12 de septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=International_mobile_subscriber_identity&action=history){:target="_blank" rel="nofollow"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow"}.
 {: .notice--info}

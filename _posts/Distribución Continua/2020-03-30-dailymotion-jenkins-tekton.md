@@ -35,7 +35,7 @@ tags:
 
 ![](/assets/images/blog/10-dailymotion.webp)
 
-En Dailymotion, alojamos y entregamos contenido de video premium a usuarios de todo el mundo. Constantemente estamos creando una gran variedad de software para impulsar el servicio, desde nuestro reproductor o sitio web de [Dailymotion](https://www.dailymotion.com/){:target="_blank"} hasta nuestra API GraphQL o plataforma de tecnología publicitaria.
+En Dailymotion, alojamos y entregamos contenido de video premium a usuarios de todo el mundo. Constantemente estamos creando una gran variedad de software para impulsar el servicio, desde nuestro reproductor o sitio web de [Dailymotion](https://www.dailymotion.com/){:target="_blank" rel="nofollow"} hasta nuestra API GraphQL o plataforma de tecnología publicitaria.
 
 La entrega continua es una práctica central en nuestra organización, lo que nos permite impulsar nuevas funciones de forma rápida e iterativa.
 
@@ -43,9 +43,9 @@ Somos los primeros en adoptar Kubernetes: creamos nuestra propia plataforma híb
 
 Debido a que tenemos cientos de repositorios, estamos utilizando Jenkins Shared Libraries para mantener nuestros archivos de canalización lo más pequeños posible.
 
-Es una característica importante para nosotros, ya que garantiza un bajo costo de mantenimiento y una experiencia homogénea para todos los desarrolladores, a pesar de que están trabajando en proyectos que utilizan diferentes pilas de tecnología. Incluso construimos [Gazr](https://gazr.io/) {:target="_blank"}, una convención para escribir Makefiles con objetivos estándar, que es la base de nuestras tuberías Jenkins.
+Es una característica importante para nosotros, ya que garantiza un bajo costo de mantenimiento y una experiencia homogénea para todos los desarrolladores, a pesar de que están trabajando en proyectos que utilizan diferentes pilas de tecnología. Incluso construimos [Gazr](https://gazr.io/) {:target="_blank" rel="nofollow"}, una convención para escribir Makefiles con objetivos estándar, que es la base de nuestras tuberías Jenkins.
 
-En 2018, migramos nuestro producto de tecnología publicitaria a Kubernetes y aprovechamos la oportunidad para configurar una instancia de Jenkins en nuestro nuevo clúster, o mejor aún, pasar a una alternativa "nativa de la nube". [Jenkins X](https://jenkins-x.io/){:target="_blank"} fue lanzado solo unos meses antes, y nos pareció una combinación perfecta:
+En 2018, migramos nuestro producto de tecnología publicitaria a Kubernetes y aprovechamos la oportunidad para configurar una instancia de Jenkins en nuestro nuevo clúster, o mejor aún, pasar a una alternativa "nativa de la nube". [Jenkins X](https://jenkins-x.io/){:target="_blank" rel="nofollow"} fue lanzado solo unos meses antes, y nos pareció una combinación perfecta:
 
 - Está construido en la parte superior y para Kubernetes.
 - En ese momento, en 2018, estaba usando Jenkins para ejecutar las tuberías, lo cual fue una buena noticia dada nuestra experiencia con Jenkins.
@@ -54,25 +54,25 @@ En 2018, migramos nuestro producto de tecnología publicitaria a Kubernetes y ap
 
 Al adoptar Jenkins X descubrimos que primero se trata de un conjunto de buenas prácticas derivadas de los mejores equipos y luego que es un conjunto de herramientas que nos permite implementar esas prácticas. Si intentas adoptar las herramientas sin comprender las prácticas, corres el riesgo de luchar contra la herramienta porque no se ajusta a tus prácticas. Entonces deberías comenzar con las prácticas.
 
-Jenkins X se basa en las prácticas descritas en el [libro Accelerate ](https://itrevolution.com/book/accelerate/){:target="_blank"}, tales como microservicios y arquitectura débilmente acoplada, desarrollo basado en troncales, indicadores de características, compatibilidad con versiones anteriores, integración continua, lanzamientos frecuentes y automatizados, entrega continua, Gitops..
+Jenkins X se basa en las prácticas descritas en el [libro Accelerate ](https://itrevolution.com/book/accelerate/){:target="_blank" rel="nofollow"}, tales como microservicios y arquitectura débilmente acoplada, desarrollo basado en troncales, indicadores de características, compatibilidad con versiones anteriores, integración continua, lanzamientos frecuentes y automatizados, entrega continua, Gitops..
 
 Comprender estas prácticas y sus beneficios es el primer paso. Después de eso, verá las limitaciones de su flujo de trabajo y herramientas actuales. Aquí es cuando puede presentar Jenkins X, su flujo de trabajo y su conjunto de herramientas.
 
 Hemos estado usando Jenkins X desde principios de 2019 para manejar toda la construcción y entrega de nuestra plataforma de tecnología publicitaria, con grandes beneficios. La principal es la velocidad mejorada: solíamos lanzar y desplegar cada dos semanas, al final de cada sprint.
 
-Tras la adopción de Jenkins X y su conjunto de prácticas, ahora estamos lanzando entre 10 y 15 veces por día y desplegando en producción entre 5 y 10 veces por día. Según el [Informe](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf){:target="_blank"} del [estado de DevOps para 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf){:target="_blank"}, nuestro equipo de tecnología publicitaria saltó del grupo de actores medianos a algún lugar entre los grupos de artistas de alto y élite.
+Tras la adopción de Jenkins X y su conjunto de prácticas, ahora estamos lanzando entre 10 y 15 veces por día y desplegando en producción entre 5 y 10 veces por día. Según el [Informe](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf){:target="_blank" rel="nofollow"} del [estado de DevOps para 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf){:target="_blank" rel="nofollow"}, nuestro equipo de tecnología publicitaria saltó del grupo de actores medianos a algún lugar entre los grupos de artistas de alto y élite.
 
 Pero estos beneficios no fueron gratuitos. Adoptar Jenkins X temprano significaba que teníamos que personalizarlo para evitar sus limitaciones iniciales, como la capacidad de implementar en múltiples clústeres.
 
 Hemos detallado nuestro trabajo en una reciente publicación de blog, y recibimos el Premio de la Comunidad Jenkins "Implementación Jenkins X más innovadora" en 2019 por ello. Es importante tener en cuenta que la mayoría de los problemas que encontramos se han solucionado o se están solucionando.
 
-El equipo de Jenkins X ha estado escuchando los comentarios de la comunidad y está realmente enfocado en mejorar su producto. El nuevo [Jenkins X Labs](https://jenkins-x.io/blog/2020/02/28/jxl-feb-20/){:target="_blank"} es un buen ejemplo.
+El equipo de Jenkins X ha estado escuchando los comentarios de la comunidad y está realmente enfocado en mejorar su producto. El nuevo [Jenkins X Labs](https://jenkins-x.io/blog/2020/02/28/jxl-feb-20/){:target="_blank" rel="nofollow"} es un buen ejemplo.
 
 A medida que crece nuestro uso de Jenkins X, estamos alcanzando cada vez más los límites de la única instancia de Jenkins implementada como parte de Jenkins X. En una plataforma donde cada componente se ha desarrollado con una mentalidad nativa de la nube, Jenkins es el único. que ha sido forzado a un entorno para el cual no fue construido. Sigue siendo un punto único de falla, con un costo de mantenimiento mucho mayor que el de los otros componentes, principalmente debido a los diversos complementos.
 
-En 2019, el equipo Jenkins X comenzó a reemplazar a Jenkins con una combinación de Prow y Tekton. [Prow](https://github.com/kubernetes/test-infra/blob/master/prow/README.md){:target="_blank"} (o [Lighthouse](https://github.com/jenkins-x/lighthouse/blob/master/README.md){:target="_blank"} es el componente que maneja los eventos de webhook entrantes de GitHub, y lo que Jenkins X llama "ChatOps": todas las interacciones entre GitHub y la plataforma CI / CD.
+En 2019, el equipo Jenkins X comenzó a reemplazar a Jenkins con una combinación de Prow y Tekton. [Prow](https://github.com/kubernetes/test-infra/blob/master/prow/README.md){:target="_blank" rel="nofollow"} (o [Lighthouse](https://github.com/jenkins-x/lighthouse/blob/master/README.md){:target="_blank" rel="nofollow"} es el componente que maneja los eventos de webhook entrantes de GitHub, y lo que Jenkins X llama "ChatOps": todas las interacciones entre GitHub y la plataforma CI / CD.
 
-[Tekton](/que-es-tekton/){:target="_blank"} es un motor de ejecución de tuberías. Es un proyecto nativo de la nube construido sobre Kubernetes, que aprovecha al máximo la API y las capacidades de esta plataforma. Sin punto único de falla, sin pesadillas de compatibilidad de complementos, todavía.
+[Tekton](/que-es-tekton/){:target="_blank" rel="nofollow"} es un motor de ejecución de tuberías. Es un proyecto nativo de la nube construido sobre Kubernetes, que aprovecha al máximo la API y las capacidades de esta plataforma. Sin punto único de falla, sin pesadillas de compatibilidad de complementos, todavía.
 
 Desde principios de 2020, hemos comenzado un proyecto interno para actualizar nuestra configuración de Jenkins X, insertando Prow y Tekton; y hemos visto beneficios de inmediato:
 
@@ -90,9 +90,9 @@ Entonces, si 2019 fue el año de Jenkins X en Dailymotion, 2020 definitivamente 
 
 Es por eso que planeamos reemplazar todas nuestras instancias de Jenkins con Tekton, que fue realmente construido para Kubernetes y nos permitirá escalar nuestras prácticas de Entrega Continua.
 
-[👉 Repositorio de Tekton 🤞](https://github.com/tektoncd){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Repositorio de Tekton 🤞](https://github.com/tektoncd){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
 <!-- wiki, integración continua: https://en.wikipedia.org/wiki/Continuous_integration#CI/CD -->
 <!-- - [Instalación de tuberías de Tekton](https://github.com/tektoncd/pipeline/blob/master/docs/install.md) - ¡Salta con [el tutorial!](https://github.com/tektoncd/pipeline/blob/master/docs/tutorial.md) -->
 
-**Fuentes**: [Noticias Tekton CD Fundación](https://cd.foundation/blog/2020/03/30/dailymotion-continuous-delivery-story-with-jenkins-jenkins-x-and-tekton/){:target="_blank"} >> [Plataforma de Kubernetes de Dailymotion](https://medium.com/dailymotion/how-we-built-our-hybrid-kubernetes-platform-d121ea9cb0bc){:target="_blank"} >> [APIGraphQL de Dailymotion](https://medium.com/dailymotion/tartiflette-graphql-api-engine-python-open-source-a200c5bbc477){:target="_blank"}
+**Fuentes**: [Noticias Tekton CD Fundación](https://cd.foundation/blog/2020/03/30/dailymotion-continuous-delivery-story-with-jenkins-jenkins-x-and-tekton/){:target="_blank" rel="nofollow"} >> [Plataforma de Kubernetes de Dailymotion](https://medium.com/dailymotion/how-we-built-our-hybrid-kubernetes-platform-d121ea9cb0bc){:target="_blank" rel="nofollow"} >> [APIGraphQL de Dailymotion](https://medium.com/dailymotion/tartiflette-graphql-api-engine-python-open-source-a200c5bbc477){:target="_blank" rel="nofollow"}
 {: .notice--info}

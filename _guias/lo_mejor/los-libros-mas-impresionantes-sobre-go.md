@@ -30,7 +30,7 @@ Esto son los libros de programación en Go en **idioma inglés** que existen. Se
 
 ### ⏳ Libros Principiantes 2019
 
-### [Vamos a Programar con Go](https://amzn.to/2MGmyEw){:target="_blank"} (2019)
+### [Vamos a Programar con Go](https://amzn.to/2MGmyEw){:target="_blank" rel="nofollow"} (2019)
 
 [![img](https://i.ibb.co/PNwfd2v/vamos-programar-gox350.jpg)](https://i.ibb.co/PNwfd2v/vamos-programar-gox350.jpg "Vamos a Programar con Go")
 
@@ -38,33 +38,33 @@ Esto son los libros de programación en Go en **idioma inglés** que existen. Se
 
 ### ⏳ Libros Principiantes 2018
 
-### [Go para Desarrolladores de Javascript](https://github.com/pazams/go-for-javascript-developers){:target="_blank"} (2018) (**GRATIS**)
+### [Go para Desarrolladores de Javascript](https://github.com/pazams/go-for-javascript-developers){:target="_blank" rel="nofollow"} (2018) (**GRATIS**)
 
 [![img](https://i.ibb.co/TrN6BZp/go-para-desarrolladores-javascriptx350.jpg)](https://i.ibb.co/TrN6BZp/go-para-desarrolladores-javascriptx350.jpg "Go para los desarrolladores de Javascript")
 
 Este libro ayuda a Javascripters a convertirse en Gophers. Esbozar las diferencias entre estos idiomas hace que sea más fácil cambiar de un lado a otro, y puede ayudar a mitigar posibles problemas al hacerlo.
 
-* [Learning Go](https://www.miek.nl/go){:target="_blank"} *GRATIS*
+* [Learning Go](https://www.miek.nl/go){:target="_blank" rel="nofollow"} *GRATIS*
 
 [![img](https://i.ibb.co/5R93VPb/go-golang-webx850.jpg)](https://i.ibb.co/5R93VPb/go-golang-webx850.jpg)
 
 Un libro en línea para comenzar a aprender Golang. Cuenta con numerosos ejercicios (y respuestas).
 
-La [fuente abierta está disponible en Github](https://github.com/miekg/learninggo){:target="_blank"}.
+La [fuente abierta está disponible en Github](https://github.com/miekg/learninggo){:target="_blank" rel="nofollow"}.
 
-### [El Pequeño Libro de Go](https://openmymind.net/The-Little-Go-Book/){:target="_blank"} (2017) (**GRATIS**)
+### [El Pequeño Libro de Go](https://openmymind.net/The-Little-Go-Book/){:target="_blank" rel="nofollow"} (2017) (**GRATIS**)
 
 [![img](https://i.ibb.co/WgF3BsH/687474703a2f2f6f70656e6d796d696e642e6e65742f6173736574732f676f2f7469746c652e706e67.png)](https://i.ibb.co/WgF3BsH/687474703a2f2f6f70656e6d796d696e642e6e65742f6173736574732f676f2f7469746c652e706e67.png "El Pequeño Libro de Go"){:.align-center}
 
 The Little Go es una introducción gratuita al lenguaje de programación Go de Google. Está dirigido a desarrolladores que tal vez no se sientan cómodos con la idea de punteros y tipeo estático. Es más largo que los otros libros gratis, pero aún así será de tu agrado.
 
-### [Go Bootcamp](https://www.golangbootcamp.com/){:target="_blank"} (2016) (**GRATIS**)
+### [Go Bootcamp](https://www.golangbootcamp.com/){:target="_blank" rel="nofollow"} (2016) (**GRATIS**)
 
 [![img](https://i.ibb.co/PN9rK39/vamos-go-campo-de-batalla.png)](https://i.ibb.co/PN9rK39/vamos-go-campo-de-batalla.png "Go Bootcamp")
 
 Este libro complementario contiene material inicialmente escrito específicamente para el evento de BootCamp, así como también contenido del equipo de Google & de Go bajo Creative Commons Attribution 3.0 License y código bajo licencia BSD.
 
-### [Aprendiendo a Programar en Go](https://amzn.to/2nLALY8){:target="_blank"} (2016) (**GRATIS**)
+### [Aprendiendo a Programar en Go](https://amzn.to/2nLALY8){:target="_blank" rel="nofollow"} (2016) (**GRATIS**)
 
 [![img](https://i.ibb.co/Cb9zpHD/aprender-a-programar-gox350.jpg)](https://i.ibb.co/Cb9zpHD/aprender-a-programar-gox350.jpg "Aprender a Programar en Go")
 
@@ -72,7 +72,7 @@ Este libro complementario contiene material inicialmente escrito específicament
 
 El libro resume las especificaciones del idioma, las documentaciones, los blogs, los videos, las diapositivas y las experiencias de escritura del autor. Ingrese al contenido que proporcione cuidadosamente la cantidad adecuada de profundidad y conocimiento para ayudarlo a comprender el idioma y su diseño.
 
-### [Go Programación Blueprints - 2da ed.](https://amzn.to/31g4WVb){:target="_blank"} (2016)
+### [Go Programación Blueprints - 2da ed.](https://amzn.to/31g4WVb){:target="_blank" rel="nofollow"} (2016)
 
 [![img](https://i.ibb.co/6Xnww6G/go-programacionx350.jpg)](https://i.ibb.co/6Xnww6G/go-programacionx350.jpg "Go Programación Blueprints")
 
@@ -80,7 +80,7 @@ Este libro le muestra cómo construir sistemas potentes y lo sumerge en situacio
 
 La escala, el rendimiento y la alta disponibilidad se encuentran en el corazón de nuestros proyectos, y las lecciones aprendidas a lo largo de este libro lo armarán con todo lo que necesita para construir soluciones de clase mundial.
 
-### [Introducción a Go: Crear programas confiables y escalables](https://amzn.to/32hSrK3){:target="_blank"} (2016)
+### [Introducción a Go: Crear programas confiables y escalables](https://amzn.to/32hSrK3){:target="_blank" rel="nofollow"} (2016)
 
 [![img](https://i.ibb.co/CWpHrxr/introduccion-gox350.jpg)](https://i.ibb.co/CWpHrxr/introduccion-gox350.jpg "Introducción a Go: Crear programas confiables y escalables")
 
@@ -88,7 +88,7 @@ Perfecto para principiantes familiarizados con los conceptos básicos de program
 
 El autor Caleb Doxsey cubre las características principales del lenguaje con instrucciones y ejercicios paso a paso en cada capítulo para ayudarlo a practicar lo que aprende.
 
-### [Recetas de Go](https://amzn.to/2IUfpiF){:target="_blank"} (2016)
+### [Recetas de Go](https://amzn.to/2IUfpiF){:target="_blank" rel="nofollow"} (2016)
 
 [![img](https://i.ibb.co/pxhRSQY/recetas-gox350.jpg)](https://i.ibb.co/pxhRSQY/recetas-gox350.jpg "Recetas de Go")
 
@@ -100,7 +100,7 @@ El libro proporciona una guía profunda para construir un API backend altamente 
 
 ### ⏳ Libros Principiantes 2015
 
-### [El Lenguaje de Programación Go](https://amzn.to/2MV9qvp){:target="_blank"} (2015)
+### [El Lenguaje de Programación Go](https://amzn.to/2MV9qvp){:target="_blank" rel="nofollow"} (2015)
 
 [![img](https://i.ibb.co/mG9X9yR/el-lenguaje-programacion-gox350.jpg)](https://i.ibb.co/mG9X9yR/el-lenguaje-programacion-gox350.jpg "El Lenguaje de Programación Go")
 
@@ -110,7 +110,7 @@ El libro no asume conocimientos previos de Go ni experiencia con ningún otro le
 
 En el libro se presentan cientos de ejemplos interesantes y prácticos de código Go que cubren todo el lenguaje, sus bibliotecas más importantes y una amplia gama de aplicaciones.
 
-### [Go en Acción](https://amzn.to/2MgPVxV){:target="_blank"} (2015)
+### [Go en Acción](https://amzn.to/2MgPVxV){:target="_blank" rel="nofollow"} (2015)
 
 [![img](https://i.ibb.co/NNZLDF6/68747470733a2f2f696d616765732e6d616e6e696e672e636f6d2f3132302f3136302f726573697a652f626f6f6b2f632f343033376435642d653565352d343962662d613363312d3438306265323930376561612f4b656e6e6564792d474f2d48492e706e67.jpg)](https://i.ibb.co/NNZLDF6/68747470733a2f2f696d616765732e6d616e6e696e672e636f6d2f3132302f3136302f726573697a652f626f6f6b2f632f343033376435642d653565352d343962662d613363312d3438306265323930376561612f4b656e6e6564792d474f2d48492e706e67.jpg)
 
@@ -122,7 +122,7 @@ Luego, obtendrá experiencia práctica escribiendo aplicaciones del mundo real, 
 
 Por ejemplo, aprenderá a usar las poderosas bibliotecas de reflexión de Go y trabajará con ejemplos del mundo real de integración con código C.
 
-### [Programación en Go: Creación de aplicaciones para el siglo XXI](https://amzn.to/32jA874){:target="_blank"} (2015)
+### [Programación en Go: Creación de aplicaciones para el siglo XXI](https://amzn.to/32jA874){:target="_blank" rel="nofollow"} (2015)
 
 [![img](https://i.ibb.co/kqnq6yv/programacion-en-gox350.jpg)](https://i.ibb.co/kqnq6yv/programacion-en-gox350.jpg "Programación en Go: Creación de aplicaciones para el Siglo 21")
 
@@ -134,7 +134,7 @@ En el camino, explica todo, desde los conceptos básicos absolutos hasta la conc
 
 ### ⏳ Libros Principiantes 2012
 
-### [Una introducción a la Programación en Go](https://www.golang-book.com/){:target="_blank"} (2012) (**GRATIS**)
+### [Una introducción a la Programación en Go](https://www.golang-book.com/){:target="_blank" rel="nofollow"} (2012) (**GRATIS**)
 
 [![img](https://i.ibb.co/FBYHFxQ/una-introduccion-a-programar-con-go.jpg)](https://i.ibb.co/dryf1Lc/687474703a2f2f7777772e676f6c616e672d626f6f6b2e636f6d2f7075626c69632f696d672f696e74726f2f636f7665722e343139343034353233342e706e67.png "Una introducción a la programación en Go")
 
@@ -148,7 +148,7 @@ Este libro es de lectura gratuita en [línea](https://www.golang-book.com/books/
 
 Los mejores libres avanzados sobre la programación en Go.
 
-### [Black Hat Go](https://amzn.to/2prktUG){:target="_blank"} (2020)
+### [Black Hat Go](https://amzn.to/2prktUG){:target="_blank" rel="nofollow"} (2020)
 
 [![img](https://i.ibb.co/8Ppnyb5/go-black-hatx350.jpg "Programación en Go para Hackers & Pentesters")](https://i.ibb.co/8Ppnyb5/go-black-hatx350.jpg)
 
@@ -216,7 +216,7 @@ Usando Gonum, Gorgonia y STL, explorará el análisis de series de tiempo junto 
 
 Al final de este libro, habrá desarrollado una mentalidad sólida de aprendizaje automático, un fuerte dominio del poderoso kit de herramientas Go y una sólida comprensión de las implementaciones prácticas de algoritmos de aprendizaje automático en proyectos del mundo real.
 
-### [Programación de Red con Go](https://www.apress.com/us/book/9781484226919){:target="_blank"} (2017)
+### [Programación de Red con Go](https://www.apress.com/us/book/9781484226919){:target="_blank" rel="nofollow"} (2017)
 
 [![img](https://i.ibb.co/4sZptwG/programacion-red-go.jpg)](https://i.ibb.co/4sZptwG/programacion-red-go.jpg "Programación de Red con Go")
 
@@ -228,7 +228,7 @@ Más allá de los fundamentos, Network Programming with Go cubre temas clave de 
 
 Además, el autor Jan Newmarch lo guía para construir y conectarse a un servidor web completo basado en Go. Este libro puede servir tanto como una guía de aprendizaje esencial y una referencia sobre Go networking.
 
-### [Go en la Práctica](https://amzn.to/32kHh7l){:target="_blank"} (2016)
+### [Go en la Práctica](https://amzn.to/32kHh7l){:target="_blank" rel="nofollow"} (2016)
 
 [![img](https://i.ibb.co/XfHXysW/go-practicax350.jpg)](https://i.ibb.co/XfHXysW/go-practicax350.jpg "Go en la Práctica")
 
@@ -240,7 +240,7 @@ Go in Practice guía a los lectores a través de docenas de técnicas del mundo 
 
 La compra del libro impreso incluye un libro electrónico gratuito en formato PDF, Kindle y ePub de Manning Publications.
 
-### [Dominar la Concurrencia en Go](https://amzn.to/2VLlxit){:target="_blank"} (2014)
+### [Dominar la Concurrencia en Go](https://amzn.to/2VLlxit){:target="_blank" rel="nofollow"} (2014)
 
 [![img](https://i.ibb.co/D4CCM46/concurrencia-gox350.jpg)](https://i.ibb.co/D4CCM46/concurrencia-gox350.jpg)
 
@@ -270,13 +270,13 @@ Al profundizar en las técnicas y mejores prácticas para organizar y escalar ap
 
 Al final de este libro, será un desarrollador de GUI que seguro podrá usar el lenguaje Go para aumentar el rendimiento de sus aplicaciones.
 
-* [Lenguaje GO: Prácticas de Codificación Segura de Aplicaciones Web](https://checkmarx.gitbooks.io/go-scp/){:target="_blank"} *GRATIS* (HTML)
+* [Lenguaje GO: Prácticas de Codificación Segura de Aplicaciones Web](https://checkmarx.gitbooks.io/go-scp/){:target="_blank" rel="nofollow"} *GRATIS* (HTML)
 
 [![img](https://i.ibb.co/ZLp6DQq/go-scp-seguridad-webx1280.jpg)](https://i.ibb.co/ZLp6DQq/go-scp-seguridad-webx1280.jpg)
 
 El objetivo principal de este libro es ayudar a los desarrolladores a evitar errores comunes y, al mismo tiempo, aprender un nuevo lenguaje de programación a través de un "enfoque práctico". Este libro proporciona un buen nivel de detalle sobre "cómo hacerlo de forma segura" y muestra qué tipo de problemas de seguridad pueden surgir durante el desarrollo.
 
-**Licencia**: Este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES){:target="_blank"} traducción de [Go Books](https://github.com/dariubs/GoBooks#readme){:target="_blank"}.
+**Licencia**: Este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES){:target="_blank" rel="nofollow"} traducción de [Go Books](https://github.com/dariubs/GoBooks#readme){:target="_blank" rel="nofollow"}.
 {: .notice--info}
 
 👷‍♂️ CONTENIDO POR DESARROLLAR 👇️
@@ -284,13 +284,13 @@ El objetivo principal de este libro es ayudar a los desarrolladores a evitar err
 
 ## **Libros Avanzados**
 
-* [Concurrencia en Go](https://shop.oreilly.com/product/0636920046189.do){:target="_blank"}
+* [Concurrencia en Go](https://shop.oreilly.com/product/0636920046189.do){:target="_blank" rel="nofollow"}
 
 [![img](https://camo.githubusercontent.com/89273d72ad55aa1f26b22bb5820a5db93d205214/68747470733a2f2f636f766572732e6f7265696c6c797374617469632e636f6d2f696d616765732f303633363932303034363138392f6361742e676966)](https://shop.oreilly.com/product/0636920046189.do)
 
 La concurrencia puede ser notoriamente difícil de lograr, pero afortunadamente, el lenguaje de programación de código abierto Go hace que trabajar con concurrencia sea manejable e incluso fácil. Si es un desarrollador familiarizado con Go, este libro práctico muestra las mejores prácticas y patrones para ayudarlo a incorporar la concurrencia en sus sistemas.
 
-* [Inyección práctica de dependencia en Go](https://amzn.to/2Q6dLQC){:target="_blank"}
+* [Inyección práctica de dependencia en Go](https://amzn.to/2Q6dLQC){:target="_blank" rel="nofollow"}
 
 [![img](https://camo.githubusercontent.com/309e1298e2e5ba191dcc2854b6b4fec65a91269f/68747470733a2f2f696d616765732d6e612e73736c2d696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f35312532423845646968754b4c2e5f53583430345f424f312c3230342c3230332c3230305f2e6a7067)](https://camo.githubusercontent.com/309e1298e2e5ba191dcc2854b6b4fec65a91269f/68747470733a2f2f696d616765732d6e612e73736c2d696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f35312532423845646968754b4c2e5f53583430345f424f312c3230342c3230332c3230305f2e6a7067)
 
@@ -302,21 +302,21 @@ La Inyección práctica de dependencia en Go adopta un enfoque pragmático y se 
 
 ## **Desarrollo Web**
 
-* [Creación de aplicaciones web con Go ](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details){:target="_blank"}*Gratis*
+* [Creación de aplicaciones web con Go ](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details){:target="_blank" rel="nofollow"}*Gratis*
 
 Un buen recurso para comenzar a crear aplicaciones web con Go. Gratis para [leer en línea](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/) .
 
-* [Crear una aplicación web con Golang ](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details){:target="_blank"}*Gratis*
+* [Crear una aplicación web con Golang ](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details){:target="_blank" rel="nofollow"}*Gratis*
 
 Otro libro increíble para aprender Desarrollo Web en Golang. Gratis para [leer en línea](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
-* [Dominar los servicios web de Go](https://shop.oreilly.com/product/9781783981304.do){:target="_blank"}
+* [Dominar los servicios web de Go](https://shop.oreilly.com/product/9781783981304.do){:target="_blank" rel="nofollow"}
 
 [![img](https://camo.githubusercontent.com/806d8f7a075a43547e37d13669398217f6e82594/687474703a2f2f616b616d6169636f766572732e6f7265696c6c792e636f6d2f696d616765732f393738313738333938313330342f6c72672e6a7067)](https://camo.githubusercontent.com/806d8f7a075a43547e37d13669398217f6e82594/687474703a2f2f616b616d6169636f766572732e6f7265696c6c792e636f6d2f696d616765732f393738313738333938313330342f6c72672e6a7067)
 
 Este libro lo llevará a través de los aspectos más importantes del diseño, construcción e implementación de un servicio web utilizando prácticas REST idiomáticas con un enfoque en velocidad, seguridad y flexibilidad. Comenzará construyendo su primera API en Go usando el paquete HTTP. Examinará el diseño y la creación de su aplicación, incluidas las estructuras de diseño populares, como Model-View-Controller. También comprenderá los métodos para implementar código en etapas y desarrollo. Finalmente, verá cómo se pueden usar las funciones de seguridad en Go para la protección contra la inyección de SQL y el compromiso de datos confidenciales.
 
-* [Sube de nivel tus aplicaciones web con Go](https://learnable.com/books/level-up-your-web-apps-with-go){:target="_blank"}
+* [Sube de nivel tus aplicaciones web con Go](https://learnable.com/books/level-up-your-web-apps-with-go){:target="_blank" rel="nofollow"}
 
 [![img](https://camo.githubusercontent.com/e026e82256621e85f9bfa437fa22d2129b8357fb/687474703a2f2f616b616d6169636f766572732e6f7265696c6c792e636f6d2f696d616765732f393738303939323436313239342f6c72672e6a7067)](https://camo.githubusercontent.com/e026e82256621e85f9bfa437fa22d2129b8357fb/687474703a2f2f616b616d6169636f766572732e6f7265696c6c792e636f6d2f696d616765732f393738303939323436313239342f6c72672e6a7067)
 
@@ -324,59 +324,59 @@ Este libro le brinda todo lo que necesita para usar Go en sus aplicaciones web. 
 
 En cada paso, obtendrá consejos para una mejor codificación en Go. Verá cómo estructurar proyectos, cómo usar la concurrencia de manera efectiva y las mejores prácticas para las pruebas, así como muchas otras sugerencias y consejos extraídos de la experiencia del mundo real de desarrollar aplicaciones web con Go.
 
-* [Go a la programación web](https://www.manning.com/chang/){:target="_blank"}
+* [Go a la programación web](https://www.manning.com/chang/){:target="_blank" rel="nofollow"}
 
 [![img](https://camo.githubusercontent.com/3c81493e914ea1876e1471efd8bede63d6ddbee3/687474703a2f2f7777772e6d616e6e696e672e636f6d2f6368616e672f6368616e675f636f7665723135302e6a7067)](https://camo.githubusercontent.com/3c81493e914ea1876e1471efd8bede63d6ddbee3/687474703a2f2f7777772e6d616e6e696e672e636f6d2f6368616e672f6368616e675f636f7665723135302e6a7067)
 
 La programación web de Go le enseña cómo crear aplicaciones web en Go utilizando principios de diseño modernos. Trabajará a través de numerosos ejemplos que introducen conceptos básicos como procesar solicitudes y enviar respuestas, motores de plantillas y persistencia de datos. También se sumergirá en temas más avanzados, como la concurrencia, las pruebas de aplicaciones web y la implementación tanto en servidores básicos como en proveedores de PaaS.
 
-### [Webapps en Go the anti textbook ](https://github.com/thewhitetulip/web-dev-golang-anti-textbook){:target="_blank"}*Gratis*
+### [Webapps en Go the anti textbook ](https://github.com/thewhitetulip/web-dev-golang-anti-textbook){:target="_blank" rel="nofollow"}*Gratis*
 
 [![img](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg)
 
 Este libro fue escrito para enseñar cómo desarrollar aplicaciones web en Go para personas que conocen un poco de Go y tienen información básica sobre aplicaciones web en general. Nosotros (usted) construiremos una aplicación web sin utilizar un marco de terceros y utilizando la menor cantidad de bibliotecas externas posible. La ventaja es que aprenderá mucho cuando codifique sin un marco.
 
-* [Cloud Native Go: creación de aplicaciones web y microservicios para la nube con Go and React](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797){:target="_blank"}
+* [Cloud Native Go: creación de aplicaciones web y microservicios para la nube con Go and React](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797){:target="_blank" rel="nofollow"}
 
 [![img](https://camo.githubusercontent.com/1cf5c6de7aedd12899ab7ef362d3df3c49e94005/68747470733a2f2f696d616765732d6e612e73736c2d696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f35316f79354e6439426f4c2e5f53583338345f424f312c3230342c3230332c3230305f2e6a7067)](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797)
 
 Hoy, las empresas y los desarrolladores deben responder a los mercados cambiantes a velocidades vertiginosas. Las organizaciones que no se basan en software de alta disponibilidad y en rápida evolución siguen el camino de los dinosaurios. Cloud Native Go reúne los conocimientos que los desarrolladores necesitan para crear aplicaciones en la nube a gran escala que satisfagan las demandas insaciables de los clientes y mercados actuales.
 
-* [Desarrollo web con Go: aprenda a crear aplicaciones web del mundo real con Go](https://gumroad.com/l/web-development-with-go){:target="_blank"}
+* [Desarrollo web con Go: aprenda a crear aplicaciones web del mundo real con Go](https://gumroad.com/l/web-development-with-go){:target="_blank" rel="nofollow"}
 
 
 
 Desarrollo web con Go fue escrito para enseñar a principiantes y expertos cómo crear e implementar una aplicación web real. No creará una lista de TODO repetitiva, sino que creará e implementará una aplicación de galería de fotos lista para producción, similar a Pixieset, desde cero. El libro no asume experiencia previa en desarrollo web y cubre todo lo que necesita saber para construir con éxito su propia aplicación web.
 
-* [Go: Crear aplicaciones web](https://amzn.com/B01LD8K5C0){:target="_blank"}
+* [Go: Crear aplicaciones web](https://amzn.com/B01LD8K5C0){:target="_blank" rel="nofollow"}
 
 [![img](https://camo.githubusercontent.com/5cbc160f465f38d79f0b1b241d2fc8908231a489/68747470733a2f2f696d616765732d6e612e73736c2d696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f3531764b4257527a74624c2e6a7067)](https://amzn.com/B01LD8K5C0)
 
 Este curso es un recurso invaluable para ayudarlo a comprender las potentes funciones de Go para crear aplicaciones web simples, confiables, seguras y eficientes.
 
-* [Construyendo microservicios con Go](https://www.packtpub.com/application-development/building-microservices-go){:target="_blank"}
+* [Construyendo microservicios con Go](https://www.packtpub.com/application-development/building-microservices-go){:target="_blank" rel="nofollow"}
 
 [![img](https://camo.githubusercontent.com/d4454875dda46d993daa4af299307f157c5a21a7/68747470733a2f2f7777772e7061636b747075622e636f6d2f6d656469612f636174616c6f672f70726f647563742f63616368652f65346436343334336231626335393366316335333438666530356566613461362f622f302f6230353532382e706e67)](https://camo.githubusercontent.com/d4454875dda46d993daa4af299307f157c5a21a7/68747470733a2f2f7777772e7061636b747075622e636f6d2f6d656469612f636174616c6f672f70726f647563742f63616368652f65346436343334336231626335393366316335333438666530356566613461362f622f302f6230353532382e706e67)
 
 Ya sea que esté planeando una nueva aplicación o trabajando en un monolito existente, este libro explicará e ilustrará con ejemplos prácticos cómo los equipos de todos los tamaños pueden comenzar a resolver problemas con microservicios. Le ayudará a comprender Docker y Docker-Compose y cómo se puede usar para aislar las dependencias de microservicios y crear entornos. Terminamos mostrándole varias técnicas para monitorear, probar y asegurar sus microservicios.
 
-* [Aplicaciones de 12 factores con Docker and Go](https://leanpub.com/12fa-docker-golang){:target="_blank"}
+* [Aplicaciones de 12 factores con Docker and Go](https://leanpub.com/12fa-docker-golang){:target="_blank" rel="nofollow"}
 
 [![img](https://camo.githubusercontent.com/031d664e44bcab5e8455d612e781d739f132584f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f7469746c6570616765732e6c65616e7075622e636f6d2f313266612d646f636b65722d676f6c616e672f6865726f3f31353033383434363632)](https://leanpub.com/12fa-docker-golang)
 
 Un libro lleno de ejemplos sobre cómo usar Docker and Go para crear las mejores aplicaciones de 12 Factor. Repasa los pasos individuales de las pautas de la [aplicación The Twelve-Factor](https://github.com/dariubs/GoBooks/blob/master/12factor.net) y cómo implementarlas con Go y Docker.
 
-* [Crea aplicaciones SaaS en Go](https://buildsaasappingo.com/){:target="_blank"}
+* [Crea aplicaciones SaaS en Go](https://buildsaasappingo.com/){:target="_blank" rel="nofollow"}
 
 [![img](https://camo.githubusercontent.com/c9d4c6d0a0281d356d5506aa093b027b0d805a71/68747470733a2f2f6275696c6473616173617070696e676f2e636f6d2f7075626c69632f6261736169672e6a7067)](https://buildsaasappingo.com/)
 
 Juntos, crearemos una base de código sólida, reutilizable en API, adecuada para crear una aplicación web SaaS o vainilla. Al final del libro, tendrá un marco sólido para usar como punto de partida para futuros proyectos.
 
-* [¡Vamonos!](https://lets-go.alexedwards.net/){:target="_blank"}
+* [¡Vamonos!](https://lets-go.alexedwards.net/){:target="_blank" rel="nofollow"}
 
 [![img](https://camo.githubusercontent.com/05e4226e6d44cf43319ff67e44dac989776021dd/68747470733a2f2f6c6574732d676f2e616c6578656477617264732e6e65742f73616d706c652f6173736574732f696d672f636f7665722e706e67)](https://camo.githubusercontent.com/05e4226e6d44cf43319ff67e44dac989776021dd/68747470733a2f2f6c6574732d676f2e616c6578656477617264732e6e65742f73616d706c652f6173736574732f696d672f636f7665722e706e67)
 
 Let's Go te enseña paso a paso cómo crear aplicaciones web rápidas, seguras y mantenibles con Go. Le guía a través de la compilación de principio a fin de una aplicación del mundo real, cubriendo temas como cómo estructurar su código, administrar dependencias, autenticar y autorizar usuarios, asegurar su servidor y probar su aplicación.
 
-**Licencia**: Este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES){:target="_blank"} traducción de [Go Books](https://github.com/dariubs/GoBooks#readme){:target="_blank"} e incluye una actualización del trabajo creada por [Pablo Álvarez Corredera](https://kutt.it/ciberninjas).
+**Licencia**: Este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES){:target="_blank" rel="nofollow"} traducción de [Go Books](https://github.com/dariubs/GoBooks#readme){:target="_blank" rel="nofollow"} e incluye una actualización del trabajo creada por [Pablo Álvarez Corredera](https://kutt.it/ciberninjas).
 {: .notice--info}

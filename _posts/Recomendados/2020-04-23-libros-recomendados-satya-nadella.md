@@ -63,10 +63,10 @@ A continuación se presentan sus tres opciones principales, basadas en sus entre
 </nav>
 </details>
 
-**🔥 Libros Recomendados Por..**: [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank"} >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
+**🔥 Libros Recomendados Por..**: [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank" rel="nofollow"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank" rel="nofollow"} >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}
 
-## **[1. Comunicación no violenta por Marshall Rosenberg](https://amzn.to/3cFsFUW){:target="_blank"}**
+## **[1. Comunicación no violenta por Marshall Rosenberg](https://amzn.to/3cFsFUW){:target="_blank" rel="nofollow"}**
 
 Cuando Nadella fue nombrado CEO de Microsoft en 2014, hizo de **la Comunicación No Violenta una prioridad**, exigiendo a sus altos ejecutivos que leyesen este libro escrito por el psicólogo estadounidense Marshall Rosenberg.
 
@@ -82,7 +82,7 @@ Al asignar el libro a los altos ejecutivos de Microsoft fue visto como un compon
 <p>Más de 150,000 copias vendidas y ahora disponibles en 20 idiomas en todo el mundo. Más de 250,000 personas cada año de todos los ámbitos de la vida están aprendiendo estas habilidades que cambian la vida.   </p>
 </details>
 
-## **[2. Mentalidad de Carol Dweck](https://amzn.to/2XYuV5s){:target="_blank"}**
+## **[2. Mentalidad de Carol Dweck](https://amzn.to/2XYuV5s){:target="_blank" rel="nofollow"}**
 
 La mentalidad de la psicóloga de Stanford Carol Dweck es más conocida por introducir la teoría de "mentalidad fija versus mentalidad de crecimiento" en el círculo de gestión.
 
@@ -103,7 +103,7 @@ El libro también es uno de los favoritos de Bill Gates. "A través de estudios 
 <p>En esta edición, Dweck ofrece nuevos conocimientos sobre su concepto ahora famoso y ampliamente aceptado. Ella presenta un fenómeno que llama mentalidad de falso crecimiento y guía a las personas hacia la adopción de una mentalidad de crecimiento más profunda y verdadera. También expande el concepto de mentalidad más allá del individuo, aplicándolo a las culturas de grupos y organizaciones. Con la mentalidad correcta, puede motivar a quienes dirige, enseña y ama, para transformar sus vidas y las suyas.</p>
 </details>
 
-## **[3. Oprime Refrescar de Satya Nadella](https://amzn.to/3axJTls){:target="_blank"}**
+## **[3. Oprime Refrescar de Satya Nadella](https://amzn.to/3axJTls){:target="_blank" rel="nofollow"}**
 
 Nadella no es del tipo de personas que le guste hablar sobre si mismo, y de hecho fue Schwab (en una reunión del Foro de Davos) no Nadella, quien mencionó "Oprime Refrescar" la memoria que Nadella escribió tres años después de su mandato como CEO de Microsoft.
 
@@ -118,9 +118,9 @@ Schwab hacía referencia a lo que Nadella escribió sobre las tendencias tecnol�
 <p>Tanto humanista como tecnólogo, Nadella define su misión y la de la compañía que lidera como el empoderamiento de cada persona y cada organización en el planeta para lograr más.</p>
 </details>
 
-## **[4. Dando Forma a La Cuarta Revolución Industrial de Klaus Schwab y Nicholas David](https://amzn.to/2RZZ1Sc){:target="_blank"}**
+## **[4. Dando Forma a La Cuarta Revolución Industrial de Klaus Schwab y Nicholas David](https://amzn.to/2RZZ1Sc){:target="_blank" rel="nofollow"}**
 
-No está en español actualmente. Su libro anterior, si que podemos encontrarlo traducido: [La Cuarta Revolución Industrial](https://amzn.to/2VrtUBg){:target="_blank"} vista desde el punto de vista económico.
+No está en español actualmente. Su libro anterior, si que podemos encontrarlo traducido: [La Cuarta Revolución Industrial](https://amzn.to/2VrtUBg){:target="_blank" rel="nofollow"} vista desde el punto de vista económico.
 
 Después de que Schwab mencionara Hit Refresh, era justo que Nadella hiciera referencia a una de las obras recientes de Schwab. Shaping the Future of the Fourth Industrial Revolution fue escrito con Nicholas Davis. Estamos bastante seguros de que Nadella lo leyó, considerando que él escribió el prólogo.
 
@@ -134,7 +134,7 @@ Después de que Schwab mencionara Hit Refresh, era justo que Nadella hiciera ref
 <p>Al conectar los puntos a través de las tecnologías más importantes que están cambiando el mundo hoy en día, y explorar los pasos prácticos que las personas, las empresas y los gobiernos pueden tomar, este libro tiene como objetivo ayudar a todos los interesados ​​en la tecnología a formar activamente un futuro inclusivo y sostenible.</p>
 </details>
 
-## **[5. Cuatro Cuartetos de TS Eliot](https://amzn.to/2VIu5a4){:target="_blank"}**
+## **[5. Cuatro Cuartetos de TS Eliot](https://amzn.to/2VIu5a4){:target="_blank" rel="nofollow"}**
 
 En una conferencia de prensa en marzo de 2014, uno de sus primeros como CEO de Microsoft, Nadella citó una línea de Little Gidding , un poema de TS Eliot, para aclarar que Microsoft todavía tenía mucho que explorar, a pesar de que había trabajado en la empresa por 22 años.
 
@@ -144,7 +144,7 @@ En una conferencia de prensa en marzo de 2014, uno de sus primeros como CEO de M
 
 ### Lectura Online
 
-Puedes encontrar [su lectura online](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html){:target="_blank"}.
+Puedes encontrar [su lectura online](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html){:target="_blank" rel="nofollow"}.
 
 <details>
 <summary>Saber Más</summary>
@@ -152,7 +152,7 @@ Puedes encontrar [su lectura online](http://www.columbia.edu/itc/history/winter/
 <p>Los cuatro cuartetos es una serie de cuatro poemas de TS Eliot, publicados individualmente de 1936 a 1942, y en forma de libro en 1943; el propio Eliot lo consideró su mejor trabajo. Cada uno de los cuartetos tiene cinco "movimientos" y cada uno está titulado por un nombre de lugar: BURNT NORTON (1936), EAST COKER (1940), THE DRY SALVAGES (1941) y LITTLE GIDDING (1942). Las ideas de Eliot sobre la naturaleza cíclica de la vida se revelan a través de temas e imágenes tejidas a lo largo de los cuatro poemas. Los temas espirituales, filosóficos y personales surgen a través de alusiones simbólicas y referencias literarias y religiosas del pensamiento oriental y occidental. El trabajo aborda las conexiones del presente y el pasado personales e históricos, la renovación espiritual y la naturaleza misma de la experiencia; se considera el poeta La exposición más clara de sus creencias cristianas. (La Enciclopedia de Literatura Merriam-Webster)</p>
 </details>
 
-## **[6. Prosperidad de Colin Mayer](https://amzn.to/3anWLe0){:target="_blank"}**
+## **[6. Prosperidad de Colin Mayer](https://amzn.to/3anWLe0){:target="_blank" rel="nofollow"}**
 
 Aún no se ha traducido al español.
 
@@ -173,7 +173,7 @@ El objetivo es configurar las cosas para que "cuando lo haces bien, el mundo que
 <p>La prosperidad es tanto una discusión sobre cómo crear y administrar negocios exitosos como una guía para la formulación de políticas para reparar el sistema roto.</p>
 </details>
 
-## **[7. El Pasillo Estrecho de Daron Acemoglu y James A. Robinson](https://amzn.to/2wYy0av){:target="_blank"}**
+## **[7. El Pasillo Estrecho de Daron Acemoglu y James A. Robinson](https://amzn.to/2wYy0av){:target="_blank" rel="nofollow"}**
 
 El Pasillo Estrecho: Estados, Sociedades Y Cómo Alcanzar La Libertad.
 
@@ -197,7 +197,7 @@ Por lo contrario, Satya Nadella, preguntado por su opinión sobre la obra en el 
 <p>Hoy nos encontramos en un momento de desestabilización desgarradora. Necesitamos la libertad más que nunca y, sin embargo, el corredor hacia la libertad se está volviendo más estrecho y traicionero. El peligro en el horizonte no es "solo" la pérdida de nuestra libertad política, sino lo sombrío que es en sí mismo; También es la desintegración de la prosperidad y la seguridad lo que depende fundamentalmente de la libertad. Lo opuesto al corredor de la libertad es el camino a la ruina. (Menos)</p>
 </details>  
 
-## **[8. Remando como un solo hombre por Daniel James Brown](https://amzn.to/2Kt9MZf){:target="_blank"}**
+## **[8. Remando como un solo hombre por Daniel James Brown](https://amzn.to/2Kt9MZf){:target="_blank" rel="nofollow"}**
 
 El enfoque de escritura de Daniel James Brown es "dar vida a eventos históricos convincentes" y eso es, exactamente lo que se esfuerza por hacer en este libro; trabajó en Microsoft durante más de una década y ha enseñado escritura en la Universidad de Stanford y San José.
 
@@ -218,7 +218,7 @@ Nadella se refirió a este libro en un correo electrónico acerca de los cambios
 <p>Basándose en los diarios y diarios de los niños, sus fotos y recuerdos de un sueño compartido único en la vida, The Boys in the Boat es una historia irresistible sobre cómo vencer las dificultades y encontrar la esperanza en los momentos más desesperados: historia íntima e improbable de nueve niños de clase trabajadora del oeste americano que, en las profundidades de la Gran Depresión, le mostraron al mundo lo que realmente significaba la verdadera determinación. Será de interés para los lectores de Erik Larson, Timothy Egan, James Bradley y The Amateurs de David Halberstam.</p>
 </details>
 
-## **[9. Guía de un Astronauta para Vivir en la tierra de Chris Hadfield](https://amzn.to/3bxFUa0){:target="_blank"}**
+## **[9. Guía de un Astronauta para Vivir en la tierra de Chris Hadfield](https://amzn.to/3bxFUa0){:target="_blank" rel="nofollow"}**
 
 El astronauta coronel Chris Hadfield ha pasado más de 4.000 horas en el espacio y ha dedicado miles de horas más de entrenamiento para llegar allí. Su libro más vendido ofrece a los lectores una visión espacial de las aventuras de Hadfield y puede cambiar la forma en que piensan sobre sus vidas en la tierra.
 
@@ -237,7 +237,7 @@ El astronauta coronel Chris Hadfield ha pasado más de 4.000 horas en el espacio
 <p>Pero sus ideas vívidas y refrescantes te enseñarán a pensar como un astronauta, y cambiará por completo la forma en que ves la vida en la Tierra, especialmente la tuya.</p>
 </details>
 
-## **[10. La gran convergencia de Richard Baldwin](https://amzn.to/2xVcd3X){:target="_blank"}**
+## **[10. La gran convergencia de Richard Baldwin](https://amzn.to/2xVcd3X){:target="_blank" rel="nofollow"}**
 
 Richard Baldwin, profesor de economía internacional en Ginebra, explica que las nuevas tecnologías podrían permitir que las ideas se extiendan rápidamente por todo el mundo: la telepresencia y la telerobótica podrían cambiar la forma de trabajar y comunicarse, y las corporaciones y los países tendrán que ajustarse en consecuencia.
 
@@ -259,7 +259,7 @@ Nadella ve similitudes entre las ideas de este libro y la tecnología, como los 
 <p>Como muestra The Great Convergence, la nueva globalización presenta a las naciones ricas y en desarrollo por igual con desafíos políticos sin precedentes en sus esfuerzos por mantener un crecimiento confiable y la cohesión social.</p>
 </details>
 
-## **[11. La gran transformación» de Karl Polanyi](https://amzn.to/2VxNtHW){:target="_blank"}**
+## **[11. La gran transformación» de Karl Polanyi](https://amzn.to/2VxNtHW){:target="_blank" rel="nofollow"}**
 
 Por Fast Company, el padre de Nadella le recomendó este libro de 1944, hace mucho tiempo. El libro adopta la postura de que la sociedad debería impulsar el cambio económico y analiza el progreso de la economía de mercado de Inglaterra.
 
@@ -273,7 +273,7 @@ Polanyi fue un economista político húngaro-estadounidense que propuso la idea 
 <p>El nuevo material introductorio revela la importancia renovada del análisis seminal de Polanyi en una era de globalización y libre comercio.</p>
 </details>
 
-## **[12. El ascenso y la caída del crecimiento estadounidense de Robert J. Gordon](){:target="_blank"}**
+## **[12. El ascenso y la caída del crecimiento estadounidense de Robert J. Gordon](){:target="_blank" rel="nofollow"}**
 
 No traducido al español.
 
@@ -300,7 +300,7 @@ Pero, como Paul Krugman señaló en su review , tal vez la tecnología transform
 <p>Una voz crítica en los debates más apremiantes de nuestro tiempo, The Rise and Fall of American Growth es a la vez un tributo a un siglo de cambios radicales y un presagio de tiempos más difíciles por venir.</p>
 </details>
 
-## **[13. Aprendizaje Profundo de Ian Goodfellow, Yoshua Bengio y Aaron Courville](https://amzn.to/2Vv5czS){:target="_blank"}**
+## **[13. Aprendizaje Profundo de Ian Goodfellow, Yoshua Bengio y Aaron Courville](https://amzn.to/2Vv5czS){:target="_blank" rel="nofollow"}**
 
 No traducido al español.
 
@@ -327,7 +327,7 @@ Elon Musk y el jefe de AI de Facebook, Yann LeCun, también dijeron cosas buenas
 <p>El aprendizaje profundo puede ser utilizado por estudiantes universitarios o graduados que planean carreras en la industria o la investigación, y por ingenieros de software que desean comenzar a usar el aprendizaje profundo en sus productos o plataformas. Un sitio web ofrece material complementario para lectores e instructores.</p>
 </details>
 
-## **[14. El libro de los tres de Lloyd Alexander](https://amzn.to/2RZ9r4E){:target="_blank"}**
+## **[14. El libro de los tres de Lloyd Alexander](https://amzn.to/2RZ9r4E){:target="_blank" rel="nofollow"}**
 
 Nadella no ha recomendado por completo esta novela de fantasía para niños tanto como lo ha hecho citado de él: del Capítulo Uno, para ser específicos.
 

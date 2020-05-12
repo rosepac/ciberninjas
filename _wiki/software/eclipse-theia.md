@@ -47,14 +47,14 @@ En enero de 2019, JAXenter clasificó a Theia como el tercer entorno de desarrol
 **Desarrollador**: Typefox y Ericsson
 {: .notice--primary}
 
-**Licencia**: [Licencia Pública Eclipse 2.0 (EPL)](https://es.wikipedia.org/wiki/Eclipse_Public_License){:target="_blank"}
+**Licencia**: [Licencia Pública Eclipse 2.0 (EPL)](https://es.wikipedia.org/wiki/Eclipse_Public_License){:target="_blank" rel="nofollow"}
 {: .notice--primary}
 
-**Sitio Web**: [http://www.theia-ide.org/](http://www.theia-ide.org/ "Página web oficial del Framework de Entornos de Desarrollo Theia"){:target="_blank"}
+**Sitio Web**: [http://www.theia-ide.org/](http://www.theia-ide.org/ "Página web oficial del Framework de Entornos de Desarrollo Theia"){:target="_blank" rel="nofollow"}
 {: .notice--primary}
 
 **Categorías**: Entornos de Desarrollo Integrado
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Eclipse Theia](https://en.wikipedia.org/wiki/Eclipse_Theia){:target="_blank"} de la Wikipedia en inglés, versión del 22 de enero de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Eclipse_Theia&action=history){:target="_blank"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank"}.
+**INF.**: Esta obra contiene una traducción total derivada de [Eclipse Theia](https://en.wikipedia.org/wiki/Eclipse_Theia){:target="_blank" rel="nofollow"} de la Wikipedia en inglés, versión del 22 de enero de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Eclipse_Theia&action=history){:target="_blank" rel="nofollow"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow"}.
 {: .notice--info}

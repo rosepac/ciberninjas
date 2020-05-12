@@ -50,7 +50,7 @@ DevTools en acción
 
 ## ¿Cómo instalo DevTools?
 
-Consulte las páginas de [línea de comandos](https://flutter.dev/docs/development/tools/devtools/cli){:target="_blank"}, [Android Studio / IntelliJ](https://flutter.dev/docs/development/tools/devtools/android-studio){:target="_blank"}, [VS Code](https://flutter.dev/docs/development/tools/devtools/vscode){:target="_blank"} o [Command](https://flutter.dev/docs/development/tools/devtools/cli){:target="_blank"} para obtener instrucciones de instalación.
+Consulte las páginas de [línea de comandos](https://flutter.dev/docs/development/tools/devtools/cli){:target="_blank" rel="nofollow"}, [Android Studio / IntelliJ](https://flutter.dev/docs/development/tools/devtools/android-studio){:target="_blank" rel="nofollow"}, [VS Code](https://flutter.dev/docs/development/tools/devtools/vscode){:target="_blank" rel="nofollow"} o [Command](https://flutter.dev/docs/development/tools/devtools/cli){:target="_blank" rel="nofollow"} para obtener instrucciones de instalación.
 
 ## ¿Cómo pruebo DevTools escrito en Flutter?
 
@@ -60,11 +60,11 @@ Para probar la versión alfa de DevTools escrita en Flutter, haga clic en el ico
 
 ## Proveer retroalimentacion
 
-Pruebe DevTools, proporcione comentarios y problemas de archivos en el [rastreador de problemas de DevTools](https://github.com/flutter/devtools/issues){:target="_blank"}. ¡Gracias!
+Pruebe DevTools, proporcione comentarios y problemas de archivos en el [rastreador de problemas de DevTools](https://github.com/flutter/devtools/issues){:target="_blank" rel="nofollow"}. ¡Gracias!
 
 ## Otros recursos
 
-Para obtener más información sobre depuración y creación de perfiles de aplicaciones Flutter, consulte la página [Depuración](https://flutter.dev/docs/testing/debugging){:target="_blank"} y, en particular, su lista de [otros recursos](https://flutter.dev/docs/testing/debugging#other-resources){:target="_blank"}.
+Para obtener más información sobre depuración y creación de perfiles de aplicaciones Flutter, consulte la página [Depuración](https://flutter.dev/docs/testing/debugging){:target="_blank" rel="nofollow"} y, en particular, su lista de [otros recursos](https://flutter.dev/docs/testing/debugging#other-resources){:target="_blank" rel="nofollow"}.
 
 Para obtener más información sobre el uso de DevTools con las aplicaciones de línea de comandos Dart, consulte la [documentación de DevTools en dart.dev](https://dart.dev/tools/dart-devtools).
 
@@ -76,5 +76,5 @@ Para obtener más información sobre el uso de DevTools con las aplicaciones de 
 
 [🎓 Cursos en Español](/cursos-tecnologia/#flutter){: .btn .btn--warning .btn--large} [👉 Ejemplos de Aplicaciones](/flutter-aplicaciones-ejemplos/){: .btn .btn--inverse .btn--large} [⚓ Documentación en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large}
 
-**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank"}
+**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow"}
 {: .notice--info}

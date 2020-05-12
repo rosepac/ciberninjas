@@ -32,12 +32,12 @@ header:
 
 ---
 
-[📕 Libros BBDD 📂](https://kutt.it/bases-datos-libros){: .btn .btn--info .btn--large}{:target="_blank"}
- [🎓 Cursos BBDD 📂](https://kutt.it/bases-datos-cursos){: .btn .btn--info .btn--large}{:target="_blank"}  [📕 Libros en Inglés 📂](/biblioteca-de-programacion-y-tecnologia-ingles/#base-de-datos){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 📂](/cursos-tecnologia-ingles/#-bases-de-datos){: .btn .btn--info .btn--large}
+[📕 Libros BBDD 📂](https://kutt.it/bases-datos-libros){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow"}
+ [🎓 Cursos BBDD 📂](https://kutt.it/bases-datos-cursos){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow"}  [📕 Libros en Inglés 📂](/biblioteca-de-programacion-y-tecnologia-ingles/#base-de-datos){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 📂](/cursos-tecnologia-ingles/#-bases-de-datos){: .btn .btn--info .btn--large}
 
 ## Artículos en Español
 
-* SQL: [Conceptos Básicos](https://mulieres.com.mx/2018/03/01/sql-basico-conceptos-basicos/){:target="_blank"}, [Consultas Simples](https://mulieres.com.mx/2018/03/28/sql-basico-consultas-simples/){:target="_blank"}, [Consultas Multitablas](https://mulieres.com.mx/2018/04/30/sql-basico-consultas-multitablas/){:target="_blank"}, [Resumen de Consultas](https://mulieres.com.mx/2018/05/31/sql-basico-consultas-resumen/){:target="_blank"}, [Procedimientos Almacenados](https://mulieres.com.mx/2018/09/03/curso-sql-procedimientos-almacenados/){:target="_blank"}, [Triggers](https://mulieres.com.mx/2018/09/24/curso-sql-triggers/){:target="_blank"} por Mulieres Aequanimitas (2018)
+* SQL: [Conceptos Básicos](https://mulieres.com.mx/2018/03/01/sql-basico-conceptos-basicos/){:target="_blank" rel="nofollow"}, [Consultas Simples](https://mulieres.com.mx/2018/03/28/sql-basico-consultas-simples/){:target="_blank" rel="nofollow"}, [Consultas Multitablas](https://mulieres.com.mx/2018/04/30/sql-basico-consultas-multitablas/){:target="_blank" rel="nofollow"}, [Resumen de Consultas](https://mulieres.com.mx/2018/05/31/sql-basico-consultas-resumen/){:target="_blank" rel="nofollow"}, [Procedimientos Almacenados](https://mulieres.com.mx/2018/09/03/curso-sql-procedimientos-almacenados/){:target="_blank" rel="nofollow"}, [Triggers](https://mulieres.com.mx/2018/09/24/curso-sql-triggers/){:target="_blank" rel="nofollow"} por Mulieres Aequanimitas (2018)
 
 ## SQL Lite
 
@@ -47,7 +47,7 @@ https://3palmeras.wordpress.com/2018/02/17/sqlite-en-la-practica-2018/
 
 ## Blazing SQL
 
-- [BlazingSQL ha liberado su código fuente para el uso de GPUS para acelerar el procesamiento de datos](https://blog.desdelinux.net/blazingsql-ha-liberado-su-codigo-fuente-para-el-uso-de-gpus-para-acelerar-el-procesamiento-de-datos){:target="_blank"}
-- [Hacer una base de datos uniendo archivos CSV, con el uso de XSV](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/){:target="_blank"}
+- [BlazingSQL ha liberado su código fuente para el uso de GPUS para acelerar el procesamiento de datos](https://blog.desdelinux.net/blazingsql-ha-liberado-su-codigo-fuente-para-el-uso-de-gpus-para-acelerar-el-procesamiento-de-datos){:target="_blank" rel="nofollow"}
+- [Hacer una base de datos uniendo archivos CSV, con el uso de XSV](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/){:target="_blank" rel="nofollow"}
 
 ## Artículos en Ingles

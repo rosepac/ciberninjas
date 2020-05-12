@@ -35,57 +35,57 @@ Los cursos en español (sin certificado) pero igualmente gratuitos;  están rela
 
 ## **Cursos para Estudiantes Universitarios**
 
-- [Competencias Digitales. Herramientas de Ofimática](https://www.coursera.org/learn/competencias-digitales-ofimatica){:target="_blank"}
-- [Fundamentos de la escritura](https://www.coursera.org/learn/escritura-esp){:target="_blank"}
-- [Mi Primer Empleo](https://www.coursera.org/learn/mi-primer-empleo){:target="_blank"}
-- [Pensamiento Sistémico](https://www.coursera.org/learn/pensamiento-sistemico){:target="_blank"}
-- [Potenciando mi aprendizaje en el primer año de universidad](https://www.coursera.org/learn/potenciando-aprendizaje){:target="_blank"}
-- [Robótica](https://www.coursera.org/learn/robotica-inicial){:target="_blank"}
+- [Competencias Digitales. Herramientas de Ofimática](https://www.coursera.org/learn/competencias-digitales-ofimatica){:target="_blank" rel="nofollow"}
+- [Fundamentos de la escritura](https://www.coursera.org/learn/escritura-esp){:target="_blank" rel="nofollow"}
+- [Mi Primer Empleo](https://www.coursera.org/learn/mi-primer-empleo){:target="_blank" rel="nofollow"}
+- [Pensamiento Sistémico](https://www.coursera.org/learn/pensamiento-sistemico){:target="_blank" rel="nofollow"}
+- [Potenciando mi aprendizaje en el primer año de universidad](https://www.coursera.org/learn/potenciando-aprendizaje){:target="_blank" rel="nofollow"}
+- [Robótica](https://www.coursera.org/learn/robotica-inicial){:target="_blank" rel="nofollow"}
 
 ## **Cursos para Estudiantes de Bachillerato**
 
-- [El Cálculo - Modelo Lineal](https://www.coursera.org/learn/calculo-1){:target="_blank"}
-- [El Cálculo - Modelo Cuadrático](https://www.coursera.org/learn/calculo-2){:target="_blank"}
-- [El Cálculo - Modelo Cúbico](https://www.coursera.org/learn/calculo-3){:target="_blank"}
-- [El Cálculo - Otros Modelos](https://www.coursera.org/learn/calculo-4){:target="_blank"}
-- [Estadística y Probabilidad](https://www.coursera.org/learn/estadistica-probabilidad){:target="_blank"}
-- [Química en mi Casa](https://www.coursera.org/learn/quimica-en-mi-casa){:target="_blank"}
-- [PlanU: Escoge la mejor carrera y universidad para ti](https://www.coursera.org/learn/escoger-carrera-y-universidad){:target="_blank"}
-- [Pre-Calculus](https://www.coursera.org/learn/introduccion-al-calculo){:target="_blank"}
+- [El Cálculo - Modelo Lineal](https://www.coursera.org/learn/calculo-1){:target="_blank" rel="nofollow"}
+- [El Cálculo - Modelo Cuadrático](https://www.coursera.org/learn/calculo-2){:target="_blank" rel="nofollow"}
+- [El Cálculo - Modelo Cúbico](https://www.coursera.org/learn/calculo-3){:target="_blank" rel="nofollow"}
+- [El Cálculo - Otros Modelos](https://www.coursera.org/learn/calculo-4){:target="_blank" rel="nofollow"}
+- [Estadística y Probabilidad](https://www.coursera.org/learn/estadistica-probabilidad){:target="_blank" rel="nofollow"}
+- [Química en mi Casa](https://www.coursera.org/learn/quimica-en-mi-casa){:target="_blank" rel="nofollow"}
+- [PlanU: Escoge la mejor carrera y universidad para ti](https://www.coursera.org/learn/escoger-carrera-y-universidad){:target="_blank" rel="nofollow"}
+- [Pre-Calculus](https://www.coursera.org/learn/introduccion-al-calculo){:target="_blank" rel="nofollow"}
 
 ## **Curso de Desarrollo Profesional**
 
-- [A Programar: Una introducción a la programación](https://www.coursera.org/learn/a-programar){:target="_blank"}
-- [Cómo hablar bien en Público](https://www.coursera.org/learn/competencias-digitales-ofimatica){:target="_blank"}
-- [Competencias Digitales](https://www.coursera.org/learn/competencias-digitales-ofimatica){:target="_blank"}
-- [Desarrollo Rápido de Productos Innovadores](https://www.coursera.org/learn/innovacion){:target="_blank"}
-- [Emprender la emprendeduría](https://www.coursera.org/learn/emprender){:target="_blank"}
-- [Estrategia Empresarial](https://www.coursera.org/learn/estrategia-empresarial){:target="_blank"}
-- [Inteligencia Artificial para todos](https://www.coursera.org/learn/ai-for-everyone-es){:target="_blank"}
-- [Introducción a la Programación Orientada a Objetos](https://www.coursera.org/learn/introduccion-programacion-java){:target="_blank"}
-- [Liderazgo Instruccional: Perspectiva Global](https://www.coursera.org/learn/liderazgo-educativo){:target="_blank"}
+- [A Programar: Una introducción a la programación](https://www.coursera.org/learn/a-programar){:target="_blank" rel="nofollow"}
+- [Cómo hablar bien en Público](https://www.coursera.org/learn/competencias-digitales-ofimatica){:target="_blank" rel="nofollow"}
+- [Competencias Digitales](https://www.coursera.org/learn/competencias-digitales-ofimatica){:target="_blank" rel="nofollow"}
+- [Desarrollo Rápido de Productos Innovadores](https://www.coursera.org/learn/innovacion){:target="_blank" rel="nofollow"}
+- [Emprender la emprendeduría](https://www.coursera.org/learn/emprender){:target="_blank" rel="nofollow"}
+- [Estrategia Empresarial](https://www.coursera.org/learn/estrategia-empresarial){:target="_blank" rel="nofollow"}
+- [Inteligencia Artificial para todos](https://www.coursera.org/learn/ai-for-everyone-es){:target="_blank" rel="nofollow"}
+- [Introducción a la Programación Orientada a Objetos](https://www.coursera.org/learn/introduccion-programacion-java){:target="_blank" rel="nofollow"}
+- [Liderazgo Instruccional: Perspectiva Global](https://www.coursera.org/learn/liderazgo-educativo){:target="_blank" rel="nofollow"}
 
 ## **Cursos de Bienestar y Desarrollo Personal**
 
-- [Arte Público y Pedagogía](https://www.coursera.org/learn/arte-publico-pedagogia){:target="_blank"}
-- Mindshift: [Transforma tu mente para superar obstáculos en el aprendizaje y descubrir tu potencial oculto](https://www.coursera.org/learn/mindshift-transforma-mente){:target="_blank"}
-- [Bienestar, Equidad y Derechos Humanos](https://www.coursera.org/learn/bienestar-equidad-derechos-humanos){:target="_blank"}
-- [Improvisación de Jazz](https://www.coursera.org/learn/improvisacion-de-jazz){:target="_blank"}
-- [Introducción a la Guitarra](https://www.coursera.org/learn/guitarra){:target="_blank"}
-- [Trabajar para ser Feliz](https://www.coursera.org/learn/familia-trabajo-sociedad){:target="_blank"}
+- [Arte Público y Pedagogía](https://www.coursera.org/learn/arte-publico-pedagogia){:target="_blank" rel="nofollow"}
+- Mindshift: [Transforma tu mente para superar obstáculos en el aprendizaje y descubrir tu potencial oculto](https://www.coursera.org/learn/mindshift-transforma-mente){:target="_blank" rel="nofollow"}
+- [Bienestar, Equidad y Derechos Humanos](https://www.coursera.org/learn/bienestar-equidad-derechos-humanos){:target="_blank" rel="nofollow"}
+- [Improvisación de Jazz](https://www.coursera.org/learn/improvisacion-de-jazz){:target="_blank" rel="nofollow"}
+- [Introducción a la Guitarra](https://www.coursera.org/learn/guitarra){:target="_blank" rel="nofollow"}
+- [Trabajar para ser Feliz](https://www.coursera.org/learn/familia-trabajo-sociedad){:target="_blank" rel="nofollow"}
 
 ## **Cursos de Salud Pública**
 
-- [Actúa ante el Dolor Crónico](https://www.coursera.org/learn/actua-dolor-cronico){:target="_blank"}
-- [Cuidado de heridas en el ámbito Hospitalario](https://www.coursera.org/learn/cuidado-heridas){:target="_blank"}
-- [Cuidados y procedimientos generales en la atención del recién nacido](https://www.coursera.org/learn/cuidados-del-recien-nacido){:target="_blank"}
-- [Diseño de Proyectos para Promover el Bienestar](https://www.coursera.org/learn/diseno-proyectos-promocion-bienestar){:target="_blank"}
-- [Sexualidad y Educación](https://www.coursera.org/learn/sexualidad-y-educacion){:target="_blank"}
-- [Sexualidad.. Mucho más que sexo](https://www.coursera.org/learn/sexualidad){:target="_blank"}
-- [La Solución del Conflicto Ético](https://www.coursera.org/learn/etica){:target="_blank"}
-- [Primeros Auxilios Psicológicos (Especial Covid 19)](https://www.coursera.org/learn/pap-covid19){:target="_blank"}
+- [Actúa ante el Dolor Crónico](https://www.coursera.org/learn/actua-dolor-cronico){:target="_blank" rel="nofollow"}
+- [Cuidado de heridas en el ámbito Hospitalario](https://www.coursera.org/learn/cuidado-heridas){:target="_blank" rel="nofollow"}
+- [Cuidados y procedimientos generales en la atención del recién nacido](https://www.coursera.org/learn/cuidados-del-recien-nacido){:target="_blank" rel="nofollow"}
+- [Diseño de Proyectos para Promover el Bienestar](https://www.coursera.org/learn/diseno-proyectos-promocion-bienestar){:target="_blank" rel="nofollow"}
+- [Sexualidad y Educación](https://www.coursera.org/learn/sexualidad-y-educacion){:target="_blank" rel="nofollow"}
+- [Sexualidad.. Mucho más que sexo](https://www.coursera.org/learn/sexualidad){:target="_blank" rel="nofollow"}
+- [La Solución del Conflicto Ético](https://www.coursera.org/learn/etica){:target="_blank" rel="nofollow"}
+- [Primeros Auxilios Psicológicos (Especial Covid 19)](https://www.coursera.org/learn/pap-covid19){:target="_blank" rel="nofollow"}
 
-**Fuente**\: [Blog de Coursera](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/ "Blog de Coursera: Aprendizaje en línea gratuito durante el COVID-19"){:target="_blank"} traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
+**Fuente**\: [Blog de Coursera](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/ "Blog de Coursera: Aprendizaje en línea gratuito durante el COVID-19"){:target="_blank" rel="nofollow"} traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
 {: .notice--info}
 
 ### Relacionados

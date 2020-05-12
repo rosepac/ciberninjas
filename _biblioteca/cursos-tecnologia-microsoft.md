@@ -24,117 +24,117 @@ toc_sticky: true
 ---
 Estos son las diferentes rutas de aprendizaje formadas por varios de los infinitos módulos que existen dentro de la "Academia" de Microsoft.
 
-Si no me equivoco, dentro de estas "rutas" se incluyen todos los módulos en español existentes; por lo tanto, podremos tomarnos esto como un resumen más concreto de los 817 módulos que os he [compartido por la mañana](https://www.facebook.com/cibercursos/posts/936589840056890){:target="_blank"} a través de [Facebook](https://kutt.it/cibercursos).
+Si no me equivoco, dentro de estas "rutas" se incluyen todos los módulos en español existentes; por lo tanto, podremos tomarnos esto como un resumen más concreto de los 817 módulos que os he [compartido por la mañana](https://www.facebook.com/cibercursos/posts/936589840056890){:target="_blank" rel="nofollow"} a través de [Facebook](https://kutt.it/cibercursos).
 
-A tener en cuenta, que se debe iniciar sesión a través de una [cuenta de Outlook](https://kutt.it/cuentaoutlook){:target="_blank"} si se desea guardar el registro del avanza de los módulos.
+A tener en cuenta, que se debe iniciar sesión a través de una [cuenta de Outlook](https://kutt.it/cuentaoutlook){:target="_blank" rel="nofollow"} si se desea guardar el registro del avanza de los módulos.
 
 ## Metalistas
 
-* Repositorio de Blogs Antiguos de Microsoft [->](https://docs.microsoft.com/es-es/archive/blogs/){:target="_blank"}
+* Repositorio de Blogs Antiguos de Microsoft [->](https://docs.microsoft.com/es-es/archive/blogs/){:target="_blank" rel="nofollow"}
 
 ## 👨‍🏫 Cursos de Aprendizaje Academia Microsoft
 
 ## Aplicaciones de Windows 10
 
-* [Desarrollo de aplicaciones de Windows 10](https://docs.microsoft.com/es-es/learn/paths/develop-windows10-apps){:target="_blank"}
+* [Desarrollo de aplicaciones de Windows 10](https://docs.microsoft.com/es-es/learn/paths/develop-windows10-apps){:target="_blank" rel="nofollow"}
 
 ## Aprendizaje Profundo
 
-* [Compilación de soluciones de IA con Azure Machine Learning Service](https://docs.microsoft.com/es-es/learn/paths/build-ai-solutions-with-azure-ml-service){:target="_blank"}{:target="_blank"}
-* [Desarrollo de soluciones de IA con los servicios de ciencia de datos en Azure](https://docs.microsoft.com/es-es/learn/paths/explore-data-science-tools-in-azure){:target="_blank"}{:target="_blank"}
-* [Evaluación de texto con Azure Cognitive Language Services](https://docs.microsoft.com/es-es/learn/paths/evaluate-text-with-language-services){:target="_blank"}{:target="_blank"}
-* [Introducción a la solución Machine Learning con Python y Azure Notebooks](https://docs.microsoft.com/es-es/learn/paths/intro-to-ml-with-python){:target="_blank"}{:target="_blank"}
-* [Introducción a Machine Learning con Azure Data Science Virtual Machine](https://docs.microsoft.com/es-es/learn/paths/get-started-with-azure-dsvm){:target="_blank"}{:target="_blank"}
-* [Procesamiento y traducción de voz con Azure Cognitive Speech Services](https://docs.microsoft.com/es-es/learn/paths/translate-speech-with-speech-services){:target="_blank"}{:target="_blank"}
-* [Publicación de un experimento de Machine Learning con Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/es-es/learn/paths/publish-experiment-with-ml-studio){:target="_blank"}{:target="_blank"}
+* [Compilación de soluciones de IA con Azure Machine Learning Service](https://docs.microsoft.com/es-es/learn/paths/build-ai-solutions-with-azure-ml-service){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"}
+* [Desarrollo de soluciones de IA con los servicios de ciencia de datos en Azure](https://docs.microsoft.com/es-es/learn/paths/explore-data-science-tools-in-azure){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"}
+* [Evaluación de texto con Azure Cognitive Language Services](https://docs.microsoft.com/es-es/learn/paths/evaluate-text-with-language-services){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"}
+* [Introducción a la solución Machine Learning con Python y Azure Notebooks](https://docs.microsoft.com/es-es/learn/paths/intro-to-ml-with-python){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"}
+* [Introducción a Machine Learning con Azure Data Science Virtual Machine](https://docs.microsoft.com/es-es/learn/paths/get-started-with-azure-dsvm){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"}
+* [Procesamiento y traducción de voz con Azure Cognitive Speech Services](https://docs.microsoft.com/es-es/learn/paths/translate-speech-with-speech-services){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"}
+* [Publicación de un experimento de Machine Learning con Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/es-es/learn/paths/publish-experiment-with-ml-studio){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"}
 
 ## Azure
 
-* [Administración de contenedores en Azure](https://docs.microsoft.com/es-es/learn/paths/administer-containers-in-azure){:target="_blank"}
-* [Administración de la identidad y el acceso en Azure](https://docs.microsoft.com/es-es/learn/paths/manage-identity-and-access){:target="_blank"}
-* [Administración de operaciones de seguridad en Azure](https://docs.microsoft.com/es-es/learn/paths/manage-security-operations){:target="_blank"}
-* [Administración de recursos de infraestructura en Azure](https://docs.microsoft.com/es-es/learn/paths/administer-infrastructure-resources-in-azure){:target="_blank"}
-* [Administración de recursos en Azure](https://docs.microsoft.com/es-es/learn/paths/manage-resources-in-azure){:target="_blank"}
-* [Almacenamiento de datos en Azure](https://docs.microsoft.com/es-es/learn/paths/store-data-in-azure){:target="_blank"}
-* [Aspectos básicos de Azure](https://docs.microsoft.com/es-es/learn/paths/azure-fundamentals){:target="_blank"}
-* [Azure para ingenieros de datos](https://docs.microsoft.com/es-es/learn/paths/azure-for-the-data-engineer){:target="_blank"}
-* [Compilación de soluciones de IA con Azure Machine Learning Service](https://docs.microsoft.com/es-es/learn/paths/build-ai-solutions-with-azure-ml-service){:target="_blank"}
-* [Conexión de los servicios](https://docs.microsoft.com/es-es/learn/paths/connect-your-services-together){:target="_blank"}
-* [Creación de aplicaciones con Azure DevOps](https://docs.microsoft.com/es-es/learn/paths/build-applications-with-azure-devops){:target="_blank"}
-* [Creación de aplicaciones sin servidor](https://docs.microsoft.com/es-es/learn/paths/create-serverless-applications){:target="_blank"}
-* [Creación de bots inteligentes con Azure Bot Service](https://docs.microsoft.com/es-es/learn/paths/create-bots-with-the-azure-bot-service){:target="_blank"}
-* [Creación de flujos de trabajo automatizados para integrar datos y aplicaciones con Azure Logic Apps](https://docs.microsoft.com/es-es/learn/paths/build-workflows-with-logic-apps){:target="_blank"}
-* [Desarrollo de soluciones de IA con los servicios de ciencia de datos en Azure](https://docs.microsoft.com/es-es/learn/paths/explore-data-science-tools-in-azure){:target="_blank"}
-* [Descubrimiento de formas de fomentar una cultura preparada para la inteligencia artificial en su negocio](https://docs.microsoft.com/es-es/learn/paths/foster-ai-ready-culture){:target="_blank"}
-* [Diseño de soluciones excelentes en Azure](https://docs.microsoft.com/es-es/learn/paths/architect-great-solutions-in-azure){:target="_blank"}
-* [Evaluación de texto con Azure Cognitive Language Services](https://docs.microsoft.com/es-es/learn/paths/evaluate-text-with-language-services){:target="_blank"}
-* [Evolución de las prácticas de DevOps](https://docs.microsoft.com/es-es/learn/paths/evolve-your-devops-practices){:target="_blank"}
-* [Implementación de un almacenamiento de datos con Azure SQL Data Warehouse](https://docs.microsoft.com/es-es/learn/paths/implement-sql-data-warehouse){:target="_blank"}
-* [Implementación de un sitio web en Azure con Azure App Service](https://docs.microsoft.com/es-es/learn/paths/deploy-a-website-with-azure-app-service){:target="_blank"}
-* [Implementación de un sitio web con Azure Virtual Machines](https://docs.microsoft.com/es-es/learn/paths/deploy-a-website-with-azure-virtual-machines){:target="_blank"}
-* [Implementación de una solución de streaming de datos con Azure Stream Analytics](https://docs.microsoft.com/es-es/learn/paths/implement-data-streaming-with-asa){:target="_blank"}
-* [Información y conclusiones de los datos con Azure Databricks](https://docs.microsoft.com/es-es/learn/paths/data-science){:target="_blank"}
-* [Implementación de aplicaciones con Azure DevOps](https://docs.microsoft.com/es-es/learn/paths/deploy-applications-with-azure-devops){:target="_blank"}
-* [Implementación de la seguridad de administración de recursos en Azure](https://docs.microsoft.com/es-es/learn/paths/implement-resource-mgmt-security){:target="_blank"}
-* [Implementación de la seguridad de red en Azure](https://docs.microsoft.com/es-es/learn/paths/implement-network-security){:target="_blank"}
-* [Ingeniería de datos con Azure Databricks](https://docs.microsoft.com/es-es/learn/paths/data-engineering-with-databricks){:target="_blank"}
-* [Introducción a la solución Machine Learning con Python y Azure Notebooks](https://docs.microsoft.com/es-es/learn/paths/intro-to-ml-with-python){:target="_blank"}
-* [Introducción a Machine Learning con Azure Data Science Virtual Machine](https://docs.microsoft.com/es-es/learn/paths/get-started-with-azure-dsvm){:target="_blank"}
-* [Procesamiento y traducción de voz con Azure Cognitive Speech Services](https://docs.microsoft.com/es-es/learn/paths/translate-speech-with-speech-services){:target="_blank"}
-* [Publicación de un experimento de Machine Learning con Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/es-es/learn/paths/publish-experiment-with-ml-studio){:target="_blank"}
-* [Procesamiento de datos de gran escala con Azure Data Lake Storage Gen2](https://docs.microsoft.com/es-es/learn/paths/data-processing-with-azure-adls){:target="_blank"}
-* [Procesamiento y clasificación de imágenes con los servicios de Azure Cognitive Vision](https://docs.microsoft.com/es-es/learn/paths/classify-images-with-vision-services){:target="_blank"}
-* [Protección de los datos en la nube](https://docs.microsoft.com/es-es/learn/paths/secure-your-cloud-data){:target="_blank"}
-* [Protección de sus aplicaciones en la nube en Azure](https://docs.microsoft.com/es-es/learn/paths/secure-your-cloud-apps){:target="_blank"}
-* [Uso de datos NoSQL en Azure Cosmos DB](https://docs.microsoft.com/es-es/learn/paths/work-with-nosql-data-in-azure-cosmos-db){:target="_blank"}
-* [Uso de datos relacionales en Azure](https://docs.microsoft.com/es-es/learn/paths/work-with-relational-data-in-azure){:target="_blank"}
+* [Administración de contenedores en Azure](https://docs.microsoft.com/es-es/learn/paths/administer-containers-in-azure){:target="_blank" rel="nofollow"}
+* [Administración de la identidad y el acceso en Azure](https://docs.microsoft.com/es-es/learn/paths/manage-identity-and-access){:target="_blank" rel="nofollow"}
+* [Administración de operaciones de seguridad en Azure](https://docs.microsoft.com/es-es/learn/paths/manage-security-operations){:target="_blank" rel="nofollow"}
+* [Administración de recursos de infraestructura en Azure](https://docs.microsoft.com/es-es/learn/paths/administer-infrastructure-resources-in-azure){:target="_blank" rel="nofollow"}
+* [Administración de recursos en Azure](https://docs.microsoft.com/es-es/learn/paths/manage-resources-in-azure){:target="_blank" rel="nofollow"}
+* [Almacenamiento de datos en Azure](https://docs.microsoft.com/es-es/learn/paths/store-data-in-azure){:target="_blank" rel="nofollow"}
+* [Aspectos básicos de Azure](https://docs.microsoft.com/es-es/learn/paths/azure-fundamentals){:target="_blank" rel="nofollow"}
+* [Azure para ingenieros de datos](https://docs.microsoft.com/es-es/learn/paths/azure-for-the-data-engineer){:target="_blank" rel="nofollow"}
+* [Compilación de soluciones de IA con Azure Machine Learning Service](https://docs.microsoft.com/es-es/learn/paths/build-ai-solutions-with-azure-ml-service){:target="_blank" rel="nofollow"}
+* [Conexión de los servicios](https://docs.microsoft.com/es-es/learn/paths/connect-your-services-together){:target="_blank" rel="nofollow"}
+* [Creación de aplicaciones con Azure DevOps](https://docs.microsoft.com/es-es/learn/paths/build-applications-with-azure-devops){:target="_blank" rel="nofollow"}
+* [Creación de aplicaciones sin servidor](https://docs.microsoft.com/es-es/learn/paths/create-serverless-applications){:target="_blank" rel="nofollow"}
+* [Creación de bots inteligentes con Azure Bot Service](https://docs.microsoft.com/es-es/learn/paths/create-bots-with-the-azure-bot-service){:target="_blank" rel="nofollow"}
+* [Creación de flujos de trabajo automatizados para integrar datos y aplicaciones con Azure Logic Apps](https://docs.microsoft.com/es-es/learn/paths/build-workflows-with-logic-apps){:target="_blank" rel="nofollow"}
+* [Desarrollo de soluciones de IA con los servicios de ciencia de datos en Azure](https://docs.microsoft.com/es-es/learn/paths/explore-data-science-tools-in-azure){:target="_blank" rel="nofollow"}
+* [Descubrimiento de formas de fomentar una cultura preparada para la inteligencia artificial en su negocio](https://docs.microsoft.com/es-es/learn/paths/foster-ai-ready-culture){:target="_blank" rel="nofollow"}
+* [Diseño de soluciones excelentes en Azure](https://docs.microsoft.com/es-es/learn/paths/architect-great-solutions-in-azure){:target="_blank" rel="nofollow"}
+* [Evaluación de texto con Azure Cognitive Language Services](https://docs.microsoft.com/es-es/learn/paths/evaluate-text-with-language-services){:target="_blank" rel="nofollow"}
+* [Evolución de las prácticas de DevOps](https://docs.microsoft.com/es-es/learn/paths/evolve-your-devops-practices){:target="_blank" rel="nofollow"}
+* [Implementación de un almacenamiento de datos con Azure SQL Data Warehouse](https://docs.microsoft.com/es-es/learn/paths/implement-sql-data-warehouse){:target="_blank" rel="nofollow"}
+* [Implementación de un sitio web en Azure con Azure App Service](https://docs.microsoft.com/es-es/learn/paths/deploy-a-website-with-azure-app-service){:target="_blank" rel="nofollow"}
+* [Implementación de un sitio web con Azure Virtual Machines](https://docs.microsoft.com/es-es/learn/paths/deploy-a-website-with-azure-virtual-machines){:target="_blank" rel="nofollow"}
+* [Implementación de una solución de streaming de datos con Azure Stream Analytics](https://docs.microsoft.com/es-es/learn/paths/implement-data-streaming-with-asa){:target="_blank" rel="nofollow"}
+* [Información y conclusiones de los datos con Azure Databricks](https://docs.microsoft.com/es-es/learn/paths/data-science){:target="_blank" rel="nofollow"}
+* [Implementación de aplicaciones con Azure DevOps](https://docs.microsoft.com/es-es/learn/paths/deploy-applications-with-azure-devops){:target="_blank" rel="nofollow"}
+* [Implementación de la seguridad de administración de recursos en Azure](https://docs.microsoft.com/es-es/learn/paths/implement-resource-mgmt-security){:target="_blank" rel="nofollow"}
+* [Implementación de la seguridad de red en Azure](https://docs.microsoft.com/es-es/learn/paths/implement-network-security){:target="_blank" rel="nofollow"}
+* [Ingeniería de datos con Azure Databricks](https://docs.microsoft.com/es-es/learn/paths/data-engineering-with-databricks){:target="_blank" rel="nofollow"}
+* [Introducción a la solución Machine Learning con Python y Azure Notebooks](https://docs.microsoft.com/es-es/learn/paths/intro-to-ml-with-python){:target="_blank" rel="nofollow"}
+* [Introducción a Machine Learning con Azure Data Science Virtual Machine](https://docs.microsoft.com/es-es/learn/paths/get-started-with-azure-dsvm){:target="_blank" rel="nofollow"}
+* [Procesamiento y traducción de voz con Azure Cognitive Speech Services](https://docs.microsoft.com/es-es/learn/paths/translate-speech-with-speech-services){:target="_blank" rel="nofollow"}
+* [Publicación de un experimento de Machine Learning con Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/es-es/learn/paths/publish-experiment-with-ml-studio){:target="_blank" rel="nofollow"}
+* [Procesamiento de datos de gran escala con Azure Data Lake Storage Gen2](https://docs.microsoft.com/es-es/learn/paths/data-processing-with-azure-adls){:target="_blank" rel="nofollow"}
+* [Procesamiento y clasificación de imágenes con los servicios de Azure Cognitive Vision](https://docs.microsoft.com/es-es/learn/paths/classify-images-with-vision-services){:target="_blank" rel="nofollow"}
+* [Protección de los datos en la nube](https://docs.microsoft.com/es-es/learn/paths/secure-your-cloud-data){:target="_blank" rel="nofollow"}
+* [Protección de sus aplicaciones en la nube en Azure](https://docs.microsoft.com/es-es/learn/paths/secure-your-cloud-apps){:target="_blank" rel="nofollow"}
+* [Uso de datos NoSQL en Azure Cosmos DB](https://docs.microsoft.com/es-es/learn/paths/work-with-nosql-data-in-azure-cosmos-db){:target="_blank" rel="nofollow"}
+* [Uso de datos relacionales en Azure](https://docs.microsoft.com/es-es/learn/paths/work-with-relational-data-in-azure){:target="_blank" rel="nofollow"}
 
 ## Inteligencia Artificial
 
-* [Definición de una estrategia de inteligencia artificial para crear valor empresarial](https://docs.microsoft.com/es-es/learn/paths/ai-strategy-for-business-value){:target="_blank"}
-* [Descubrimiento de formas de fomentar una cultura preparada para la inteligencia artificial en su negocio](https://docs.microsoft.com/es-es/learn/paths/foster-ai-ready-culture){:target="_blank"}
-* [Elementos de la Inteligencia Artificial](https://www.elementsofai.com/eu2019fi){:target="_blank"} (Universidad de Helsinki)
-* [Escuela de negocios de inteligencia artificial para el sector educativo](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-education){:target="_blank"}
-* [Escuela de negocios de inteligencia artificial para el sector de fabricación](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-manufacturing){:target="_blank"}
-* [Escuela de negocios de inteligencia artificial para el sector gubernamental](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-government){:target="_blank"}
-* [Escuela de negocios de inteligencia artificial para el sector minorista](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-retail){:target="_blank"}
-* [Escuela de negocios de inteligencia artificial para el sector sanitario](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-healthcare){:target="_blank"}
-* [Escuela de negocios de inteligencia artificial para servicios financieros](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-financial-services){:target="_blank"}
-* [Identificación de los principios rectores para un manejo responsable de la inteligencia artificial](https://docs.microsoft.com/es-es/learn/paths/responsible-ai-business-principles){:target="_blank"}
-* [Identificación de los principios rectores para un manejo responsable de la inteligencia artificial en la Administración Pública](https://docs.microsoft.com/es-es/learn/paths/responsible-ai-government-principles){:target="_blank"}
-* [Introducción a la tecnología de inteligencia artificial para los líderes empresariales](https://docs.microsoft.com/es-es/learn/paths/ai-technology-for-business-leaders){:target="_blank"}
-* [Procesamiento y clasificación de imágenes con los servicios de Azure Cognitive Vision](https://docs.microsoft.com/es-es/learn/paths/classify-images-with-vision-services){:target="_blank"}
+* [Definición de una estrategia de inteligencia artificial para crear valor empresarial](https://docs.microsoft.com/es-es/learn/paths/ai-strategy-for-business-value){:target="_blank" rel="nofollow"}
+* [Descubrimiento de formas de fomentar una cultura preparada para la inteligencia artificial en su negocio](https://docs.microsoft.com/es-es/learn/paths/foster-ai-ready-culture){:target="_blank" rel="nofollow"}
+* [Elementos de la Inteligencia Artificial](https://www.elementsofai.com/eu2019fi){:target="_blank" rel="nofollow"} (Universidad de Helsinki)
+* [Escuela de negocios de inteligencia artificial para el sector educativo](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-education){:target="_blank" rel="nofollow"}
+* [Escuela de negocios de inteligencia artificial para el sector de fabricación](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-manufacturing){:target="_blank" rel="nofollow"}
+* [Escuela de negocios de inteligencia artificial para el sector gubernamental](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-government){:target="_blank" rel="nofollow"}
+* [Escuela de negocios de inteligencia artificial para el sector minorista](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-retail){:target="_blank" rel="nofollow"}
+* [Escuela de negocios de inteligencia artificial para el sector sanitario](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-healthcare){:target="_blank" rel="nofollow"}
+* [Escuela de negocios de inteligencia artificial para servicios financieros](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-financial-services){:target="_blank" rel="nofollow"}
+* [Identificación de los principios rectores para un manejo responsable de la inteligencia artificial](https://docs.microsoft.com/es-es/learn/paths/responsible-ai-business-principles){:target="_blank" rel="nofollow"}
+* [Identificación de los principios rectores para un manejo responsable de la inteligencia artificial en la Administración Pública](https://docs.microsoft.com/es-es/learn/paths/responsible-ai-government-principles){:target="_blank" rel="nofollow"}
+* [Introducción a la tecnología de inteligencia artificial para los líderes empresariales](https://docs.microsoft.com/es-es/learn/paths/ai-technology-for-business-leaders){:target="_blank" rel="nofollow"}
+* [Procesamiento y clasificación de imágenes con los servicios de Azure Cognitive Vision](https://docs.microsoft.com/es-es/learn/paths/classify-images-with-vision-services){:target="_blank" rel="nofollow"}
 
 ## Power Apps
 
-* [Creación de una aplicación controlada por modelos en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-app-models-business-processes){:target="_blank"}
-* [Creación de una aplicación de lienzo en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-powerapps){:target="_blank"}
-* [Dominio de técnicas avanzadas para aplicaciones de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/understand-advanced-topics){:target="_blank"}
-* [Trabajo con datos en una aplicación de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/work-with-data-in-a-canvas-app){:target="_blank"}
-* [Uso de conectores y opciones de datos avanzados en PowerApps](https://docs.microsoft.com/es-es/learn/paths/advanced-data-options-and-connectors){:target="_blank"}
-* [Uso de fórmulas básicas para conseguir mejores aplicaciones de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/use-basic-formulas-powerapps-canvas-app){:target="_blank"}
-* [Uso de la interfaz de usuario y controles en una aplicación de lienzo en PowerApps](https://docs.microsoft.com/es-es/learn/paths/ui-controls-canvas-app-powerapps){:target="_blank"}
+* [Creación de una aplicación controlada por modelos en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-app-models-business-processes){:target="_blank" rel="nofollow"}
+* [Creación de una aplicación de lienzo en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-powerapps){:target="_blank" rel="nofollow"}
+* [Dominio de técnicas avanzadas para aplicaciones de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/understand-advanced-topics){:target="_blank" rel="nofollow"}
+* [Trabajo con datos en una aplicación de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/work-with-data-in-a-canvas-app){:target="_blank" rel="nofollow"}
+* [Uso de conectores y opciones de datos avanzados en PowerApps](https://docs.microsoft.com/es-es/learn/paths/advanced-data-options-and-connectors){:target="_blank" rel="nofollow"}
+* [Uso de fórmulas básicas para conseguir mejores aplicaciones de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/use-basic-formulas-powerapps-canvas-app){:target="_blank" rel="nofollow"}
+* [Uso de la interfaz de usuario y controles en una aplicación de lienzo en PowerApps](https://docs.microsoft.com/es-es/learn/paths/ui-controls-canvas-app-powerapps){:target="_blank" rel="nofollow"}
 
 ## Power BI
 
-* [Creación y uso de informes de análisis con Power BI](https://docs.microsoft.com/es-es/learn/paths/create-use-analytics-reports-power-bi){:target="_blank"}
-* [Consumo de datos con Power BI](https://docs.microsoft.com/es-es/learn/paths/consume-data-with-power-bi){:target="_blank"}
+* [Creación y uso de informes de análisis con Power BI](https://docs.microsoft.com/es-es/learn/paths/create-use-analytics-reports-power-bi){:target="_blank" rel="nofollow"}
+* [Consumo de datos con Power BI](https://docs.microsoft.com/es-es/learn/paths/consume-data-with-power-bi){:target="_blank" rel="nofollow"}
 
 ## Productividad Microsoft
 
-* [Automatización de un proceso de negocio mediante Microsoft Flow](https://docs.microsoft.com/es-es/learn/paths/automate-process-using-flow){:target="_blank"}
+* [Automatización de un proceso de negocio mediante Microsoft Flow](https://docs.microsoft.com/es-es/learn/paths/automate-process-using-flow){:target="_blank" rel="nofollow"}
 
 ## SQL
 
-* [Actualizaciones de SQL Server](https://docs.microsoft.com/es-es/learn/paths/sql-server-2017-upgrades){:target="_blank"}
-* [SQL Server en Linux](https://docs.microsoft.com/es-es/learn/paths/sql-server-2017-on-linux){:target="_blank"}
+* [Actualizaciones de SQL Server](https://docs.microsoft.com/es-es/learn/paths/sql-server-2017-upgrades){:target="_blank" rel="nofollow"}
+* [SQL Server en Linux](https://docs.microsoft.com/es-es/learn/paths/sql-server-2017-on-linux){:target="_blank" rel="nofollow"}
 
 ## Xamarin
 
-* [Compilación de aplicaciones móviles con Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/build-mobile-apps-with-xamarin-forms){:target="_blank"}
-* [Personalización e incorporación de características avanzadas en aplicaciones de Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/customize-your-xamarin-forms-apps){:target="_blank"}
-* [Xamarin, curso gratuito](https://www.youtube.com/playlist?list=PLpOqH6AE0tNiZ1BoufjFfkBGC_bPBQWfA){:target="_blank"} (Código Facilito, YouTube)
-* [Xamarin desde cero, primeros pasos](https://www.youtube.com/playlist?list=PLnWAzeXp9V4mWNIq0wZ5fAR82Fi8MCmVf){:target="_blank"} (Formando Código, YouTube)
+* [Compilación de aplicaciones móviles con Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/build-mobile-apps-with-xamarin-forms){:target="_blank" rel="nofollow"}
+* [Personalización e incorporación de características avanzadas en aplicaciones de Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/customize-your-xamarin-forms-apps){:target="_blank" rel="nofollow"}
+* [Xamarin, curso gratuito](https://www.youtube.com/playlist?list=PLpOqH6AE0tNiZ1BoufjFfkBGC_bPBQWfA){:target="_blank" rel="nofollow"} (Código Facilito, YouTube)
+* [Xamarin desde cero, primeros pasos](https://www.youtube.com/playlist?list=PLnWAzeXp9V4mWNIq0wZ5fAR82Fi8MCmVf){:target="_blank" rel="nofollow"} (Formando Código, YouTube)
 
 ## 📹 Videotutoriales de Microsoft
 

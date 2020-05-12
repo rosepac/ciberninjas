@@ -23,14 +23,14 @@ author_profile: true
 #   nav: general
 ---
 
-Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas conocer un poco más sobre ello; hace algún tiempo escribí la historia del [origen de mi nombre en Internet](https://steemit.com/mysteemitname/@rosepac/el-origen-de-mi-nombre-rosepac "El Origen de mi Nombre/Nickname: ROSEPAC"){:target="_blank"} además, en la misma publicación puedes comenzar a conocer en profundidad una pequeña parte de mi y de mis pensamientos.
+Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas conocer un poco más sobre ello; hace algún tiempo escribí la historia del [origen de mi nombre en Internet](https://steemit.com/mysteemitname/@rosepac/el-origen-de-mi-nombre-rosepac "El Origen de mi Nombre/Nickname: ROSEPAC"){:target="_blank" rel="nofollow"} además, en la misma publicación puedes comenzar a conocer en profundidad una pequeña parte de mi y de mis pensamientos.
 
 👉 Puedes encontrar algunos de mis viejos trabajos [aquí](/proyectos/) e información sobre mis gustos e intereses personajes, por [aquí](/rosepac/)
 {: .notice--warning}
 
 ## Quién es _**rosepac**_
 
-Mi nombre real, es Pablo Álvarez Corredera, abreviado PAC. Soy asturiano; en mi [página web](https://www.pabloalvarezcorredera.com "Asturias, SEO y Posicionamiento. La Biblia del Seo y Posicionamiento en Español"){:target="_blank"} he creado un pequeño proyecto de prueba sobre el SEO, que va en camino del fracaso..
+Mi nombre real, es Pablo Álvarez Corredera, abreviado PAC. Soy asturiano; en mi [página web](https://www.pabloalvarezcorredera.com "Asturias, SEO y Posicionamiento. La Biblia del Seo y Posicionamiento en Español"){:target="_blank" rel="nofollow"} he creado un pequeño proyecto de prueba sobre el SEO, que va en camino del fracaso..
 
 Nunca he encontrado la fortuna alrededor de la web. Años intentando darle sentido a la creación de un blog, sin encontrar el lugar más idonio; una y otra vez. Siempre pensando en crear proyectos demasiado grandes para lo que uno podía hacer. Por dinero y tiempo.
 

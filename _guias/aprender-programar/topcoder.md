@@ -86,14 +86,14 @@ Los desafíos suelen comenzar a las 00:30 UTC -5 y duran 24 horas.
 
 Si deseas más información debes de seguir los pasos siguientes:
 
-[Para Competir](https://topcoder.com/lp/test-for-success/how-to-compete){:target="_blank"}, [Instalar APK](https://assets.ctfassets.net/b5f1djy59z3a/3uAT8oZSG46YwUIoIO00O2/01af4f8525ef6f910da7ee62875a14e6/How_To_Install_APK_Tutorial.pdf){:target="_blank"},  [Preguntas en el Foro](https://apps.topcoder.com/forums/?module=Thread&threadID=929523){:target="_blank"},  [Probar dispositivos junto a AWS](https://www.topcoder.com/blog/how-to-test-ios-android-apps-on-aws-device-farm-part-i/){:target="_blank"}, [Otros Desafíos](https://www.topcoder.com/challenges){:target="_blank"}
+[Para Competir](https://topcoder.com/lp/test-for-success/how-to-compete){:target="_blank" rel="nofollow"}, [Instalar APK](https://assets.ctfassets.net/b5f1djy59z3a/3uAT8oZSG46YwUIoIO00O2/01af4f8525ef6f910da7ee62875a14e6/How_To_Install_APK_Tutorial.pdf){:target="_blank" rel="nofollow"},  [Preguntas en el Foro](https://apps.topcoder.com/forums/?module=Thread&threadID=929523){:target="_blank" rel="nofollow"},  [Probar dispositivos junto a AWS](https://www.topcoder.com/blog/how-to-test-ios-android-apps-on-aws-device-farm-part-i/){:target="_blank" rel="nofollow"}, [Otros Desafíos](https://www.topcoder.com/challenges){:target="_blank" rel="nofollow"}
 
 ### Desafio de Computación Cuántica
 <!-- https://www.topcoder.com/lp/digitalannealer -->
 
 ¿Siempre has querido aprender cómo funciona la computación cuántica y cómo usarla para resolver problemas del mundo real? Bueno, ahora que Topcoder se está asociando con Fujitsu y su último sistema, Digital Annealer (DA), ¡puedes! Lanzaremos tres desafíos de aprendizaje y un Maratón Match, todos con premios en efectivo. ¡Gana dinero para aprender Quantum Computing!
 
-Existen una serie de retos que ahora se encuentran en un desafía denominado Maratón, cerrado a la inscripción hasta el 15 de Marzo que será su finalización. 👉 [Más información](https://www.topcoder.com/lp/digitalannealer){:target="_blank"}
+Existen una serie de retos que ahora se encuentran en un desafía denominado Maratón, cerrado a la inscripción hasta el 15 de Marzo que será su finalización. 👉 [Más información](https://www.topcoder.com/lp/digitalannealer){:target="_blank" rel="nofollow"}
 
 ## Torneo de Programación
 
@@ -133,8 +133,8 @@ Para el Topcoder Open 2019, se planean las siguientes pistas de competencia de D
 
 Si deseas competir en el TCO, todo lo que necesita hacer es competir en un concurso elegible para el TCO y se registrará automáticamente para el torneo.
 
-Lea aquí para obtener información sobre cómo competir en la [competencia de algoritmos](https://tco19.topcoder.com/algorithm){:target="_blank"} y aquí para las [competencias de maratón](https://tco19.topcoder.com/marathon){:target="_blank"}.
+Lea aquí para obtener información sobre cómo competir en la [competencia de algoritmos](https://tco19.topcoder.com/algorithm){:target="_blank" rel="nofollow"} y aquí para las [competencias de maratón](https://tco19.topcoder.com/marathon){:target="_blank" rel="nofollow"}.
 
 Tenga en cuenta que debe ser miembro de Topcoder y cumplir con todos los requisitos de elegibilidad publicados en las Reglas de TCO.
 
-[Ver las reglas actuales de la competencia TCO19](https://tco19.topcoder.com/competition-rules "Reglamentación de Participación dentro de los Concursos de TopCoder"){:target="_blank"}
+[Ver las reglas actuales de la competencia TCO19](https://tco19.topcoder.com/competition-rules "Reglamentación de Participación dentro de los Concursos de TopCoder"){:target="_blank" rel="nofollow"}

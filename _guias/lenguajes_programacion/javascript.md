@@ -107,11 +107,11 @@ En mayor o menor medida, casi todo el mundo que crea código que funciona sobre 
 
 ## Javascript Puro
 
-* [Aprender Vanilla Js](https://learnvanillajs.com/){:target="_blank"}
+* [Aprender Vanilla Js](https://learnvanillajs.com/){:target="_blank" rel="nofollow"}
 
 ## Listas de Correos
 
-* [Solamente Javascript](https://justjavascript.com/){:target="_blank"}
+* [Solamente Javascript](https://justjavascript.com/){:target="_blank" rel="nofollow"}
 
 [👩‍🚀 Recursos de javascript](/javascript-recursos/#page-title){: .btn .btn--warning .btn--large .align-center}
 [👩‍🚀 Noticias javascript](/javascript-directo/#page-title){: .btn .btn--warning .btn--large .align-center}
@@ -120,8 +120,8 @@ En mayor o menor medida, casi todo el mundo que crea código que funciona sobre 
 
 ## Las mejores páginas, noticias, foros y redes sociales de Javascript
 
-* [Los mejores proyectos de Javascript](https://bestofjs.org/){:target="_blank"}
-* [Javascript Hall of Fame](https://bestofjs.org/hall-of-fame){:target="_blank"}
-* [Open Source - PonyFOO](https://ponyfoo.com/opensource){:target="_blank"}
+* [Los mejores proyectos de Javascript](https://bestofjs.org/){:target="_blank" rel="nofollow"}
+* [Javascript Hall of Fame](https://bestofjs.org/hall-of-fame){:target="_blank" rel="nofollow"}
+* [Open Source - PonyFOO](https://ponyfoo.com/opensource){:target="_blank" rel="nofollow"}
 
 <!--  -->

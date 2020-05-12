@@ -29,7 +29,7 @@ Vídeo APRENDIZAJE PROFUNDO CON PYTORCH: UN BOMBARDEO DE 60 MINUTOS https://pyto
 
 ## Cheatsheets
 
-* [Chuleta Completa en Ingles - 8 hojas -](https://blog.finxter.com/python-cheat-sheets/){:target="_blank"} (Finxter)
+* [Chuleta Completa en Ingles - 8 hojas -](https://blog.finxter.com/python-cheat-sheets/){:target="_blank" rel="nofollow"} (Finxter)
 
 Esta es una chuleta que ya ha sido descargada por más de 23.000 programadores para aprender estos populares trucos de Python; se incluyen.. Las palabras clave, los tipos de datos básicos, los [tipos de datos complejos](/wiki/tipos-de-datos-complejos), clases, funciones y trucos, 14 preguntas comunes, librería NumPy y los términos de orientación a objetos.
 
@@ -58,42 +58,42 @@ Encuentra los 30 mejores blogs de Python en nuestro índice. Consulta también l
 
 1. Planeta Scipy
 
-👉 [Leer Artículos 📰](https://planet.scipy.org/# ""){:target="_blank"}
+👉 [Leer Artículos 📰](https://planet.scipy.org/# ""){:target="_blank" rel="nofollow"}
 
 2. s
 
-👉 [Leer Artículos 📰]( ""){:target="_blank"}
+👉 [Leer Artículos 📰]( ""){:target="_blank" rel="nofollow"}
 
 3. s
 
-👉 [Leer Artículos 📰]( ""){:target="_blank"}
+👉 [Leer Artículos 📰]( ""){:target="_blank" rel="nofollow"}
 
 4. s
 
-👉 [Leer Artículos 📰]( ""){:target="_blank"}
+👉 [Leer Artículos 📰]( ""){:target="_blank" rel="nofollow"}
 
 5. s
 
-👉 [Leer Artículos 📰]( ""){:target="_blank"}
+👉 [Leer Artículos 📰]( ""){:target="_blank" rel="nofollow"}
 
 6. s
 
-👉 [Leer Artículos 📰]( ""){:target="_blank"}
+👉 [Leer Artículos 📰]( ""){:target="_blank" rel="nofollow"}
 
 7. s
 
-👉 [Leer Artículos 📰]( ""){:target="_blank"}
+👉 [Leer Artículos 📰]( ""){:target="_blank" rel="nofollow"}
 
 8. s
 
-👉 [Leer Artículos 📰]( ""){:target="_blank"}
+👉 [Leer Artículos 📰]( ""){:target="_blank" rel="nofollow"}
 
 9.  ss
 10. s
 11. s
 12. s
 13. 
-👉 [Leer Artículos 📰]( ""){:target="_blank"}
+👉 [Leer Artículos 📰]( ""){:target="_blank" rel="nofollow"}
 
 ## Los Mejores 23 Canales de Youtube sobre Programación con Python en Inglés
 
@@ -101,105 +101,105 @@ Encuentra los 30 mejores blogs de Python en nuestro índice. Consulta también l
 
 Aprende acerca de la programación Python y el aprendizaje automático. Los tutoriales de programación de Python de Youtuber , yendo más allá de lo básico. Aprenda sobre aprendizaje automático, finanzas, análisis de datos, robótica, desarrollo web, desarrollo de juegos y más.
 
-👉 [Ver Canal 🎥](https://www.youtube.com/user/sentdex/videos "Sentdex. Aprender todo acerca de la programación en Python y el aprendizaje automático junto a Sentdex"){:target="_blank"}
+👉 [Ver Canal 🎥](https://www.youtube.com/user/sentdex/videos "Sentdex. Aprender todo acerca de la programación en Python y el aprendizaje automático junto a Sentdex"){:target="_blank" rel="nofollow"}
 
 2. Dan Bader
 
 Dan Bader ayuda a los desarrolladores de Python a llevar sus habilidades de codificación y productividad al siguiente nivel. Es ingeniero de software independiente, autor y orador. Además, ha estado desarrollando software durante 15 años, y le encanta la práctica de la enseñanza para convertirte en un programador Python más competente.
 
-👉 [Ver Canal 🎥](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA/videos ""){:target="_blank"}
+👉 [Ver Canal 🎥](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA/videos ""){:target="_blank" rel="nofollow"}
 
 3. Christian Thompson
 
 Programación de Python para principiantes. Este canal se centra en vídeos sobre todo lo necesario y más básico del inicio de la codificación con Python.
 
-👉 [Ver Canal 🎥](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg/videos ""){:target="_blank"}
+👉 [Ver Canal 🎥](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg/videos ""){:target="_blank" rel="nofollow"}
 
 4. Academia Amuls
 
 Amuls Academy ofrece tutoriales en vídeos gratuitos sobre lenguajes de programación informática y temas tecnológicos. Actualmente están haciendo tutoriales de Python y piensan en realizar otros idiomas proximámente.
 
-👉 [Ver Canal 🎥](https://www.youtube.com/channel/UCIgXF0FrYJL0a6sMsRIsLvA/videos ""){:target="_blank"}
+👉 [Ver Canal 🎥](https://www.youtube.com/channel/UCIgXF0FrYJL0a6sMsRIsLvA/videos ""){:target="_blank" rel="nofollow"}
 
 5. Python Bytes
 
 Python bytes, se enfoca en el lenguaje de programación Python y la construcción de aplicaciones -GUI- y sus framework web.
 
-👉 [Ver Canal 🎥](https://www.youtube.com/channel/UC486taQ8gRb6gHKvyzdmplg/videos ""){:target="_blank"}
+👉 [Ver Canal 🎥](https://www.youtube.com/channel/UC486taQ8gRb6gHKvyzdmplg/videos ""){:target="_blank" rel="nofollow"}
 
 6. Joe James
 
 Joe James te ayudará a aprender los fundamentos de las matemáticas y la informática, emitiendo desde Silicon Valley. James, posee un Doctorado en ciencias de la computación, vive en Fremont, California; y es un veterano de la industria tecnológica, actualmente trabajando como ingeniero de software en prácticas en Cisco.
 
-👉 [Ver Canal 🎥](https://www.youtube.com/user/joejamesusa/videos ""){:target="_blank"}
+👉 [Ver Canal 🎥](https://www.youtube.com/user/joejamesusa/videos ""){:target="_blank" rel="nofollow"}
 
 7. Conferencia Euro Python
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 8. Harshit vashisth
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 9. Australia PyCon
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 10. Usuarios de Python de Nueva Zelanda
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 11. SF Python
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 12. Hablando de Python
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 13. Python India
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 14. Python Montreal
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 15. Ciencia de Datos por Arpan Gupta
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 16. Python y Desarrollo Web desde Houston
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 17. Vamos Set Python
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 18. Python Irlanda
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 19. Los Mejores Cursos de Programación de Python
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 20. Programación en Python
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 21. Python Bahía Norte
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 22. Código Cool de Python
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 23. Conceptos Básicos de Python
 
-👉 [Ver Canal 🎥]( ""){:target="_blank"}
+👉 [Ver Canal 🎥]( ""){:target="_blank" rel="nofollow"}
 
 <!-- 
 Blogs https://blog.feedspot.com/python_blogs/

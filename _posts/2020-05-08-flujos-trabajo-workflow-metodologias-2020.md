@@ -46,24 +46,24 @@ published: false
 </details>
 <br />
 
-## **[](){:target="_blank"}**
+## **[](){:target="_blank" rel="nofollow"}**
 
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[](){:target="_blank"}**
+## **[](){:target="_blank" rel="nofollow"}**
 
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[](){:target="_blank"}**
+## **[](){:target="_blank" rel="nofollow"}**
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[](){:target="_blank"}**
+## **[](){:target="_blank" rel="nofollow"}**
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}

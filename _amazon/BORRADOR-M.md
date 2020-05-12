@@ -13,37 +13,37 @@ CODIGO EN SUCIO
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎯 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎯 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎯 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+
+[🎯 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 [🔝 REGRESAR 🔝](/videojuegos/#page-title){: .btn .btn--inverse .btn--x-large .align-center}
 
-[💣 BLACK FRIDAY 2019 💣](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank"}
+[💣 BLACK FRIDAY 2019 💣](/black-friday-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 
 
@@ -61,21 +61,21 @@ CODIGO EN SUCIO
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
 
-[🎧 ¡CÓMPRALO YA! 🎶](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎶 ¡CÓMPRALO YA! 🎧](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎧 ¡CÓMPRALO YA! 🎶](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
 
-[🎧 ¡CÓMPRALO YA! 🎶](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎶 ¡CÓMPRALO YA! 🎧](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+
+[🎧 ¡CÓMPRALO YA! 🎶](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 
 
@@ -83,27 +83,27 @@ CODIGO EN SUCIO
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 
 
@@ -111,32 +111,32 @@ CODIGO EN SUCIO
 
 ## GIGABYTE
 
-[![TITULO]()]( "XBox One"){:target="_blank"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎯 ¡CÓMPRALO YA! 🎮](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank"}
-
-[🎯 ¡CÓMPRALO YA! 🎮](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎯 ¡CÓMPRALO YA! 🎮](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+
+[🎯 ¡CÓMPRALO YA! 🎮](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
 
 [🔝 REGRESAR 🔝](/ordenadores-componentes/#page-title){: .btn .btn--inverse .btn--x-large .align-center}

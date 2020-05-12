@@ -33,11 +33,11 @@ Uno de los problemas con la distribución de Deepin Linux es que ofrece unos ser
 
 Otro problema, es que suelen ser raras las actualizaciones que existen dentro del sistema y, como consecuencia, puede traducirse en la obsolescencia tanto de las bibliotecas del sistema como de las aplicaciones individuales.
 
-Se pueden resolver estos problemas (y algunos otros) utilizando otras distribuciones con el entorno de trabajo Deepin. Por ejemplo, la [distribución de Manjaro](https://forum.manjaro.org/t/manjaro-deepin-18-0-2-released/70575){:target="_blank"} desarrollada por la comunidad, que ya ofrece un sistema más robusto con el entorno de trabajo específico de Deepin.
+Se pueden resolver estos problemas (y algunos otros) utilizando otras distribuciones con el entorno de trabajo Deepin. Por ejemplo, la [distribución de Manjaro](https://forum.manjaro.org/t/manjaro-deepin-18-0-2-released/70575){:target="_blank" rel="nofollow"} desarrollada por la comunidad, que ya ofrece un sistema más robusto con el entorno de trabajo específico de Deepin.
 
 Si eres fanático de las distribuciones basadas en Ubuntu y te gusta el entorno de trabajo de Deepin, entonces deberías probar la nueva distribución UbuntuDDE de Linux .
 
-🔥 Seguro también te interesa: [mejores sistemas para hacking](/7-mejores-distribuciones-escritorio-para-principiantes/){:target="_blank"} >> [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank"} >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/7-mejores-distribuciones-escritorio-para-principiantes/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+🔥 Seguro también te interesa: [mejores sistemas para hacking](/7-mejores-distribuciones-escritorio-para-principiantes/){:target="_blank" rel="nofollow"} >> [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank" rel="nofollow"} >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/7-mejores-distribuciones-escritorio-para-principiantes/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
 ## **¿Qué es UbuntuDDE Remix?**
@@ -61,7 +61,7 @@ A diferencia de Deepin Linux, UbuntuDDE no utiliza la tienda de aplicaciones de 
 
 ![Escritorio de UbuntuDDE](https://websetnet.b-cdn.net/wp-content/uploads/2020/04/ubuntu-deepin-edition-screenshot.jpg "Escritorio de UbuntuDDE")
 
-[⏩ Probar UbuntuDDE (NO recomendado en Producción)](https://ubuntudde.com/download/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⏩ Probar UbuntuDDE (NO recomendado en Producción)](https://ubuntudde.com/download/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ### Relacionados
 

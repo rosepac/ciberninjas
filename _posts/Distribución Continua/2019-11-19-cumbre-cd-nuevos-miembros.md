@@ -65,4 +65,4 @@ _____
 
 **Fuentes**:
 
-* [Noticias Tekton CD Fundación](https://cd.foundation/announcement/2019/11/18/continuous-delivery-foundation-hosts-cd-summit/){:target="_blank"}
+* [Noticias Tekton CD Fundación](https://cd.foundation/announcement/2019/11/18/continuous-delivery-foundation-hosts-cd-summit/){:target="_blank" rel="nofollow"}

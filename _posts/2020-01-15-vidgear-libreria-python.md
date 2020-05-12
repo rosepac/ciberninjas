@@ -421,10 +421,10 @@ La documentación completa para todas las clases y funciones de VidGear se puede
 
 Esta biblioteca tiene licencia bajo la licencia **[Apache 2.0](https://github.com/abhiTronix/vidgear/blob/master/LICENSE)** .
 
-[👉 Repositorio de Python 🐍](https://pypi.org/project/vidgear/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-[👉 Repositorio de Github: Vidgear 🐍](https://github.com/abhiTronix/vidgear#--){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Repositorio de Python 🐍](https://pypi.org/project/vidgear/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[👉 Repositorio de Github: Vidgear 🐍](https://github.com/abhiTronix/vidgear#--){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
 [👉 Aprender Python y Más Librerías 🐍](/python/){: .btn .btn--info .btn--large .align-center}
 
 _____
 
-**Fuente**: [Vidgear por Abhishek Thakur](https://github.com/abhiTronix/vidgear){:target="_blank"}
+**Fuente**: [Vidgear por Abhishek Thakur](https://github.com/abhiTronix/vidgear){:target="_blank" rel="nofollow"}

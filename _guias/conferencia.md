@@ -46,7 +46,7 @@ Las conferencias dirigidas por la comunidad se encuentran en el otro extremo del
 
 > Algunas conferencias son con fines de lucro. Otros ganan poco o nada de dinero para los organizadores, y en gran medida son un trabajo de amor para la comunidad. Algunas conferencias con fines de lucro se harán pasar por estas últimas. Asegúrese de saber cuál es la conferencia y si se siente cómodo con ella antes de aceptar. *[Nick Heiner](https://hackernoon.com/how-and-why-to-speak-at-tech-conferences-1d50a3f548e0)*
 
-Organizar una conferencia es notoriamente desafiante y costoso. Los organizadores tienen que coordinar muchos detalles; pagar por comida, espacio para eventos, oradores y personal; encontrar patrocinadores; vender entradas .. la lista continúa! Si está interesado en cómo se financia todo esto, [los organizadores de JS Conf Europe](https://2019.jsconf.eu/news/the-jsconf-cssconf-eu-finances/){:target="_blank"} escribieron una interesante descripción de sus finanzas el año pasado.
+Organizar una conferencia es notoriamente desafiante y costoso. Los organizadores tienen que coordinar muchos detalles; pagar por comida, espacio para eventos, oradores y personal; encontrar patrocinadores; vender entradas .. la lista continúa! Si está interesado en cómo se financia todo esto, [los organizadores de JS Conf Europe](https://2019.jsconf.eu/news/the-jsconf-cssconf-eu-finances/){:target="_blank" rel="nofollow"} escribieron una interesante descripción de sus finanzas el año pasado.
 
 ### ¿Por qué asistir?
 
@@ -180,4 +180,4 @@ Hacer que tu currículum destaque del resto es complicado y aportar la experienc
 ## 
 _____
 
-* **Fuente**: [Guía completa para hablar en conferencias tecnológicas en 2020 by Karl Hughes](https://www.cfpland.com/guides/speaking/){:target="_blank"} del [repositorio de conferencias](https://www.cfpland.com/){:target="_blank"}.
+* **Fuente**: [Guía completa para hablar en conferencias tecnológicas en 2020 by Karl Hughes](https://www.cfpland.com/guides/speaking/){:target="_blank" rel="nofollow"} del [repositorio de conferencias](https://www.cfpland.com/){:target="_blank" rel="nofollow"}.

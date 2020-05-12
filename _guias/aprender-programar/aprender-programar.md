@@ -26,7 +26,7 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 
 ➡ La guía se encuentran en constante actualización / ampliación / modificación.<br/>
 🔔 Se complementa a la perfección con [nuestro blog](https://ciberninjas.com/blog/), vas a encontrar múltiples artículos / guías / tutoriales, etc.<br />
-📰 Síguenos en tu lector de [RSS favorito](https://ciberninjas.com/feed.xml){:target="_blank"}<br />
+📰 Síguenos en tu lector de [RSS favorito](https://ciberninjas.com/feed.xml){:target="_blank" rel="nofollow"}<br />
 📢 Estamos en las RRSS: [🐦 Twitter](https://twitter.com/ciberninjas "Twitter") [📘 Comunidad FB](http://facebook.com/groups/ciberninjas "Facebook") [🎓 Cursos FC](https://facebook.com/cibercursos "Facebook Exclusivo de Cursos y Memes") [🌈 Instagram](https://instagram.com/ciberninjas "Instagram") [👨‍💻 Dev.to](https://dev.to/@rosepac "Blog en el sitio especializado: Dev.to") Bajo el usuario @ciberninjas
 {: .notice--info}
 

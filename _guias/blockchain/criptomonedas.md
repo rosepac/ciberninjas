@@ -20,35 +20,35 @@ toc_sticky: true
 
 ## Artículos
 
-* [Cómo elegir una cartera de Bitcoin y otras criptomonedas](https://www.criptonoticias.com/criptopedia/como-elegir-monedero-cartera-bitcoin-criptomonedas-criptoactivos/){:target="_blank"}
-* [Cómo utilizar Binance correctamente](https://forocoin.net/threads/como-utilizar-binance-correctamente-tutorial.624/){:target="_blank"}
-* [Desmintiendo mitos sobre Bitcoin – Nivel principiante (Parte I)](https://www.criptonoticias.com/educacion/desmintiendo-mitos-bitcoin-principiante-parte-i/){:target="_blank"}
-* [Desmintiendo mitos sobre Bitcoin – Nivel principiante (Parte II)](https://www.criptonoticias.com/educacion/desmintiendo-mitos-bitcoin-principiante-parte-ii/){:target="_blank"}
+* [Cómo elegir una cartera de Bitcoin y otras criptomonedas](https://www.criptonoticias.com/criptopedia/como-elegir-monedero-cartera-bitcoin-criptomonedas-criptoactivos/){:target="_blank" rel="nofollow"}
+* [Cómo utilizar Binance correctamente](https://forocoin.net/threads/como-utilizar-binance-correctamente-tutorial.624/){:target="_blank" rel="nofollow"}
+* [Desmintiendo mitos sobre Bitcoin – Nivel principiante (Parte I)](https://www.criptonoticias.com/educacion/desmintiendo-mitos-bitcoin-principiante-parte-i/){:target="_blank" rel="nofollow"}
+* [Desmintiendo mitos sobre Bitcoin – Nivel principiante (Parte II)](https://www.criptonoticias.com/educacion/desmintiendo-mitos-bitcoin-principiante-parte-ii/){:target="_blank" rel="nofollow"}
 
 ### 2019
 
-* [Desarrollan en EE.UU. una criptomoneda casi 10.000 veces más 'rápida' que el bitcoin](https://actualidad.rt.com/actualidad/302683-eeuu-nueva-criptomoneda-reemplazar-bitcoin){:target="_blank"}
+* [Desarrollan en EE.UU. una criptomoneda casi 10.000 veces más 'rápida' que el bitcoin](https://actualidad.rt.com/actualidad/302683-eeuu-nueva-criptomoneda-reemplazar-bitcoin){:target="_blank" rel="nofollow"}
 
 ## Los Mejores Blogs y Foros de Criptomonedas en Español
 
-* [Criptonoticias](https://www.criptonoticias.com/){:target="_blank"}
-* [ForoCoin](https://forocoin.net/){:target="_blank"}
-* [Criptonoticias](https://www.criptonoticias.com/){:target="_blank"}
-* [Criptonoticias](https://www.criptonoticias.com/){:target="_blank"}
+* [Criptonoticias](https://www.criptonoticias.com/){:target="_blank" rel="nofollow"}
+* [ForoCoin](https://forocoin.net/){:target="_blank" rel="nofollow"}
+* [Criptonoticias](https://www.criptonoticias.com/){:target="_blank" rel="nofollow"}
+* [Criptonoticias](https://www.criptonoticias.com/){:target="_blank" rel="nofollow"}
 
 ## Los Mejores Blogs en Inglés
 
-* [Coin Desk](https://www.coindesk.com/){:target="_blank"}
-* [Token Daily](https://www.tokendaily.co/){:target="_blank"}
+* [Coin Desk](https://www.coindesk.com/){:target="_blank" rel="nofollow"}
+* [Token Daily](https://www.tokendaily.co/){:target="_blank" rel="nofollow"}
 
 ## Los Mejores Blogs y Foros de Stellar
 
-* [Galactic Talk](https://galactictalk.org){:target="_blank"}
+* [Galactic Talk](https://galactictalk.org){:target="_blank" rel="nofollow"}
 Comunidad de usuarios, desarrolladores y comerciantes de Stellar
 
 ## Diferentes Criptomonedas
 
-* [Qué es Odyssey? [OCN] - Próximo Ecosistema Peer-to-Peer](https://forocoin.net/threads/que-es-odyssey-ocn-proximo-ecosistema-peer-to-peer.1811/){:target="_blank"}
+* [Qué es Odyssey? [OCN] - Próximo Ecosistema Peer-to-Peer](https://forocoin.net/threads/que-es-odyssey-ocn-proximo-ecosistema-peer-to-peer.1811/){:target="_blank" rel="nofollow"}
 
 ## Aplicaciones Android
 
@@ -58,8 +58,8 @@ Comunidad de usuarios, desarrolladores y comerciantes de Stellar
 
 Delta es la mejor aplicación de seguimiento de cartera de Bitcoin y criptomonedas. Realice un seguimiento de todas las criptomonedas, incluidas Bitcoin, Ethereum, Litecoin y más de 3000 altcoins. Use la aplicación gratuita para obtener los últimos precios de monedas y gráficos de mercado en su moneda local y reciba alertas para asegurarse de no perderse su próxima inversión en criptomonedas.
 
-[💰 DESCARGAR APP 💰](https://delta.app/){: .btn .btn--warning.btn--large .align-center}{:target="_blank"}
+[💰 DESCARGAR APP 💰](https://delta.app/){: .btn .btn--warning.btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## Intercambios de Criptomonedas
 
-* [Blockchain.com](https://www.blockchain.com/){:target="_blank"}
+* [Blockchain.com](https://www.blockchain.com/){:target="_blank" rel="nofollow"}

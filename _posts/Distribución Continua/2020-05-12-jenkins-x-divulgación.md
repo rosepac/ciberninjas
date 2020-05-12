@@ -39,7 +39,7 @@ Este blog puede ser útil para los principiantes que están asustados o yo dirí
 
 Hay algunos requisitos previos que pueden ayudar a ingresar mejor dentro del mundo del desarrollo de código abierto.
 
-- Aprenda los conceptos básicos de las operaciones de git; [Learn Git Branching](https://learngitbranching.js.org){:target="_blank"} puede ser un buen lugar.
+- Aprenda los conceptos básicos de las operaciones de git; [Learn Git Branching](https://learngitbranching.js.org){:target="_blank" rel="nofollow"} puede ser un buen lugar.
 - Intenta encontrar un proyecto de código abierto (recuerda: vas a contribuir a una parte de él, así que está bien si algunas / muchas cosas no tienen sentido al principio, porque es más fácil escribir código que entender el  código de otras personas).
 - A la hora de seleccionar un proyecto, puedes buscar información sobre Google-Summer-of-Code, Outreachy, Google-Code-In, RSoC y otros programas de código abierto y sus organizaciones que ayudan a las personas / estudiantes / aspirantes a desarrolladores a encontrar sus comunidades de mayor interés y proyectos
 

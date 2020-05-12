@@ -24,4 +24,4 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-* [Cómo crear un grupo de Facebook](https://neilpatel.com/es/blog/como-crear-un-grupo-de-facebook/){:target="_blank"}
+* [Cómo crear un grupo de Facebook](https://neilpatel.com/es/blog/como-crear-un-grupo-de-facebook/){:target="_blank" rel="nofollow"}

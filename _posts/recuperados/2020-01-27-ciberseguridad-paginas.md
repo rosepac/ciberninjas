@@ -16,21 +16,21 @@ permalink: >
 ---
 ## Páginas Web en Español
 
-1. 1024 Megas [🛡](https://www.1024megas.com/){:target="_blank"}
+1. 1024 Megas [🛡](https://www.1024megas.com/){:target="_blank" rel="nofollow"}
 
 ![](https://i.ibb.co/HYmqfNr/image.png)
 
-2. Enrique Dans [🛡](https://www.enriquedans.com/){:target="_blank"}
+2. Enrique Dans [🛡](https://www.enriquedans.com/){:target="_blank" rel="nofollow"}
 
 ![](https://i.ibb.co/ydRMrgL/image.png)
 
 ## Otras Páginas sobre Seguridad e Internet
 
-* [Derecho e Internet](http://derecho-internet.org/){:target="_blank"}
+* [Derecho e Internet](http://derecho-internet.org/){:target="_blank" rel="nofollow"}
 
 ## Páginas Web en Inglés
 
-1. **KitPloit** [🛡](https://www.kitploit.com/){:target="_blank"}
+1. **KitPloit** [🛡](https://www.kitploit.com/){:target="_blank" rel="nofollow"}
 
 ![](https://i.ibb.co/YcJHFT8/image.png)
 

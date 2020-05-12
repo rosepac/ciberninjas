@@ -22,7 +22,7 @@ header:
 Desde hace tiempo llevo realizando una pequeña colección de mis películas y series favoritas, más interesantes o pendientes que tengo por ver o revisar; por fin hoy haré publica esa pequeña lista.. 😸
 
 [💡 Más intereses personales..](/rosepac/)
-{:target="_blank"}
+{:target="_blank" rel="nofollow"}
 
 ## Películas Pendientes
 
@@ -116,14 +116,14 @@ La realidad es, que casi todas las películas deanimación me suelen gustar; has
 
 ## Series Pendientes
 
-* Devs [Jotdown Review](https://www.jotdown.es/2020/04/devs-es-una-joya-de-la-ciencia-ficcion-moderna/){:target="_blank"} (2020)
+* Devs [Jotdown Review](https://www.jotdown.es/2020/04/devs-es-una-joya-de-la-ciencia-ficcion-moderna/){:target="_blank" rel="nofollow"} (2020)
 * La Línea Invisible (2020)
 * Start Trek Picard (2020) - No soy muy fanático de Start Trek, pero.. 🙈 
-* Humandas (2015 - 2018) [*](https://www.imdb.com/title/tt4122068/){:target="_blank"}
-* La Conjura contra América [*](https://www.filmaffinity.com/es/film844505.html){:target="_blank"}
-* [10 Series sobre Ciencia de Datos e Inteligencia Artificial](https://www.analyticsvidhya.com/blog/2016/01/10-popular-tv-shows-data-science-artificial-intelligence/){:target="_blank"}
-* [10 grandes series y películas de ciencia ficción poética](https://www.elperiodico.com/es/ocio-y-cultura/20200504/mas-alla-de-devs-hbo-seleccion-diez-grandes-series-y-peliculas-de-ciencia-ficcion-poetica-7946379){:target="_blank"}
-* [Code 8 y Otras Siete Películas de Acción y Ciencia Ficción](https://cinemania.20minutos.es/noticias/code-8-y-otras-siete-peliculas-de-accion-y-ciencia-ficcion-de-bajo-presupuesto/){:target="_blank"}
+* Humandas (2015 - 2018) [*](https://www.imdb.com/title/tt4122068/){:target="_blank" rel="nofollow"}
+* La Conjura contra América [*](https://www.filmaffinity.com/es/film844505.html){:target="_blank" rel="nofollow"}
+* [10 Series sobre Ciencia de Datos e Inteligencia Artificial](https://www.analyticsvidhya.com/blog/2016/01/10-popular-tv-shows-data-science-artificial-intelligence/){:target="_blank" rel="nofollow"}
+* [10 grandes series y películas de ciencia ficción poética](https://www.elperiodico.com/es/ocio-y-cultura/20200504/mas-alla-de-devs-hbo-seleccion-diez-grandes-series-y-peliculas-de-ciencia-ficcion-poetica-7946379){:target="_blank" rel="nofollow"}
+* [Code 8 y Otras Siete Películas de Acción y Ciencia Ficción](https://cinemania.20minutos.es/noticias/code-8-y-otras-siete-peliculas-de-accion-y-ciencia-ficcion-de-bajo-presupuesto/){:target="_blank" rel="nofollow"}
   * Code 8. Freaks (2018). Guns Akimbo (2019). Upgrade - Ilimitado (2018). Overlord (2018). Hardcore Henry (2018). Turbo Kid (2015). Predestination (2014).
 * Dark (2017)
 
@@ -134,22 +134,22 @@ La realidad es, que casi todas las películas deanimación me suelen gustar; has
 
 ## Series 2019
 
-* Fleabag [*](https://www.imdb.com/title/tt5687612/){:target="_blank"}
-* Euphoria [*](https://www.imdb.com/title/tt8772296/){:target="_blank"}
-* Por 13 Razones [*](https://www.imdb.com/title/tt1837492/){:target="_blank"}
+* Fleabag [*](https://www.imdb.com/title/tt5687612/){:target="_blank" rel="nofollow"}
+* Euphoria [*](https://www.imdb.com/title/tt8772296/){:target="_blank" rel="nofollow"}
+* Por 13 Razones [*](https://www.imdb.com/title/tt1837492/){:target="_blank" rel="nofollow"}
 
 ## Series Siempre
 
-* Vikingos [*](http://www.imdb.com/title/tt2306299/){:target="_blank"}
-* Los Soprano [*](http://www.imdb.com/title/tt0141842/){:target="_blank"}
-* House [*](https://www.imdb.com/title/tt0412142/){:target="_blank"}
-* Mr. Robot [*](https://www.imdb.com/title/tt4158110/){:target="_blank"}
-* Better Call Saul  [*](https://www.imdb.com/title/tt3032476/){:target="_blank"}
-* Hijos de la Anarquía [*](https://www.imdb.com/title/tt1124373/){:target="_blank"}
-* Breaking Bad [*](https://www.imdb.com/title/tt0903747/){:target="_blank"}
-* The Wire [*](https://www.imdb.com/title/tt0306414/){:target="_blank"}
-* Chicas Buenas [*](https://www.imdb.com/title/tt6474378/){:target="_blank"}
-* La Casa de Papel [*](https://www.imdb.com/title/tt6468322/){:target="_blank"}
+* Vikingos [*](http://www.imdb.com/title/tt2306299/){:target="_blank" rel="nofollow"}
+* Los Soprano [*](http://www.imdb.com/title/tt0141842/){:target="_blank" rel="nofollow"}
+* House [*](https://www.imdb.com/title/tt0412142/){:target="_blank" rel="nofollow"}
+* Mr. Robot [*](https://www.imdb.com/title/tt4158110/){:target="_blank" rel="nofollow"}
+* Better Call Saul  [*](https://www.imdb.com/title/tt3032476/){:target="_blank" rel="nofollow"}
+* Hijos de la Anarquía [*](https://www.imdb.com/title/tt1124373/){:target="_blank" rel="nofollow"}
+* Breaking Bad [*](https://www.imdb.com/title/tt0903747/){:target="_blank" rel="nofollow"}
+* The Wire [*](https://www.imdb.com/title/tt0306414/){:target="_blank" rel="nofollow"}
+* Chicas Buenas [*](https://www.imdb.com/title/tt6474378/){:target="_blank" rel="nofollow"}
+* La Casa de Papel [*](https://www.imdb.com/title/tt6468322/){:target="_blank" rel="nofollow"}
 
 ## **Cortos de Animación**
 

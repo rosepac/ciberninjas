@@ -51,5 +51,5 @@ Dlinject se creo Inspirado por Cexigua y linux-inject, entre otros.
 **Categorías**: [Depuración](/wiki/categoria/depuracion)
 {:.notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Dlinject](https://github.com/DavidBuchanan314/dlinject#dlinjectpy){:target="_blank"} de Github en inglés, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Ptrace&action=history){:target="_blank"} bajo Licencia [MIT](https://github.com/DavidBuchanan314/dlinject/blob/master/LICENSE){:target="_blank"}{:target="_blank"}.
+**INF.**: Esta obra contiene una traducción total derivada de [Dlinject](https://github.com/DavidBuchanan314/dlinject#dlinjectpy){:target="_blank" rel="nofollow"} de Github en inglés, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Ptrace&action=history){:target="_blank" rel="nofollow"} bajo Licencia [MIT](https://github.com/DavidBuchanan314/dlinject/blob/master/LICENSE){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"}.
 {: .notice--info}

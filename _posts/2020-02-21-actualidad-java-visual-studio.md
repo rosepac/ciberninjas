@@ -146,9 +146,9 @@ Si estas trabajando con algunos de los Frameworks de Java más populares, como S
 
 A continuación se presentan los nuevos cambios disponibles a través de las siguientes extensiones:
 
-1. [Spring Boot Tools](https://marketplace.visualstudio.com/items/Pivotal.vscode-spring-boot){:target="_blank"} ahora informa fallas en la conexión en el modo emergente.
-2. El recientemente lanzado [MicroProfile Extension Pack](https://marketplace.visualstudio.com/items?itemName=MicroProfile-Community.vscode-microprofile-pack){:target="_blank"} ahora incluye [MicroProfile Starter](https://marketplace.visualstudio.com/items?itemName=MicroProfile-Community.mp-starter-vscode-ext) para que pueda generar rápidamente un proyecto MicroProfile Maven junto con herramientas de desarrollo para tiempos de ejecución como [Open Liberty](https://marketplace.visualstudio.com/items?itemName=Open-Liberty.liberty-dev-vscode-ext){:target="_blank"} y [Quarkus](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-quarkus){:target="_blank"} con muchas características nuevas.
-3. Si está trabajando con cualquier servidor Red Hat y productos de tiempo de ejecución como Wildfly o JBoss, consulte [Conector del servidor](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-server-connector){:target="_blank"} que le permite iniciar, detener e implementar en cualquiera de ellos.
+1. [Spring Boot Tools](https://marketplace.visualstudio.com/items/Pivotal.vscode-spring-boot){:target="_blank" rel="nofollow"} ahora informa fallas en la conexión en el modo emergente.
+2. El recientemente lanzado [MicroProfile Extension Pack](https://marketplace.visualstudio.com/items?itemName=MicroProfile-Community.vscode-microprofile-pack){:target="_blank" rel="nofollow"} ahora incluye [MicroProfile Starter](https://marketplace.visualstudio.com/items?itemName=MicroProfile-Community.mp-starter-vscode-ext) para que pueda generar rápidamente un proyecto MicroProfile Maven junto con herramientas de desarrollo para tiempos de ejecución como [Open Liberty](https://marketplace.visualstudio.com/items?itemName=Open-Liberty.liberty-dev-vscode-ext){:target="_blank" rel="nofollow"} y [Quarkus](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-quarkus){:target="_blank" rel="nofollow"} con muchas características nuevas.
+3. Si está trabajando con cualquier servidor Red Hat y productos de tiempo de ejecución como Wildfly o JBoss, consulte [Conector del servidor](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-server-connector){:target="_blank" rel="nofollow"} que le permite iniciar, detener e implementar en cualquiera de ellos.
 
 ## Más Mejoras
 
@@ -173,7 +173,7 @@ Las últimas actualizaciones también traen muchas otras mejoras para la experie
 6.  Depurador
 	- Proporcione el menú contextual para continuar / pausar todos / otros hilos.
 
-**Fuente**\: [Desarrolladores de Visual Studio Code - Microsoft](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-february-2020/ "Desarrolladores de Visual Studio Code - Microsoft"){:target="_blank"}
+**Fuente**\: [Desarrolladores de Visual Studio Code - Microsoft](https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-february-2020/ "Desarrolladores de Visual Studio Code - Microsoft"){:target="_blank" rel="nofollow"}
 {: .notice--info}
 
 ## Relacionados

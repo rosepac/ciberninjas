@@ -121,8 +121,8 @@ PHP es el lenguaje de programación en el que se escribe el software de Drupal, 
 
 ## **Distribuciones de Drupal**
 
-- **Open Publish** Distribución orientada a publicaciones de contenido multimedia como diarios, revistas, sitios multimedia, radios online , etc [openpublishapp.com](http://openpublishapp.com/){:target="_blank"}
-- **Drupal Commons** una distribución creada para gestionar intranets, grupos de trabajo o comunidades virtuales [www.acquia.com](http://www.acquia.com/products-services/drupal-commons-social-business-software){:target="_blank"}
-- **Open Atrium** es una herramienta pensada para el trabajo colaborativo [openatrium.com](http://openatrium.com/){:target="_blank"}
-- **Managing News**, es un gestor de noticias RSS con diversas funcionalidades [managingnews.com](http://managingnews.com/){:target="_blank"}
-- **Open Public** es una distribución orientada a sitios oficiales y/o políticos. Su principal función es que los sitios sean seguros, ampliables y transparentes. [openpublicapp.com](http://openpublicapp.com/){:target="_blank"}
+- **Open Publish** Distribución orientada a publicaciones de contenido multimedia como diarios, revistas, sitios multimedia, radios online , etc [openpublishapp.com](http://openpublishapp.com/){:target="_blank" rel="nofollow"}
+- **Drupal Commons** una distribución creada para gestionar intranets, grupos de trabajo o comunidades virtuales [www.acquia.com](http://www.acquia.com/products-services/drupal-commons-social-business-software){:target="_blank" rel="nofollow"}
+- **Open Atrium** es una herramienta pensada para el trabajo colaborativo [openatrium.com](http://openatrium.com/){:target="_blank" rel="nofollow"}
+- **Managing News**, es un gestor de noticias RSS con diversas funcionalidades [managingnews.com](http://managingnews.com/){:target="_blank" rel="nofollow"}
+- **Open Public** es una distribución orientada a sitios oficiales y/o políticos. Su principal función es que los sitios sean seguros, ampliables y transparentes. [openpublicapp.com](http://openpublicapp.com/){:target="_blank" rel="nofollow"}

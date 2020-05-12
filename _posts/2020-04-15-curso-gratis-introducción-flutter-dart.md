@@ -29,15 +29,15 @@ header:
 
 A medida que atravesamos juntos por la crisis global actual, sabemos que muchas personas desean **iniciarse en el desarrollo de nuevas habilidades**. Desde el equipo de desarrollo de Flutter, queremos aportar nuestro pequeño granito de arena.
 
-Así que hemos llegado a una asociación con App Brewery para **regalar [un nuevo curso de introducción](https://www.appbrewery.co/courses/intro-to-flutter){:target="_blank"} a Flutter**, ofreciendo **acceso gratuito al curso a quienes lo activen en los próximos tres meses**. Este curso no requiere experiencia previa en Flutter, y esperamos que le brinde la oportunidad de desarrollar nuevas habilidades de desarrollo para iOS, Android y la web.
+Así que hemos llegado a una asociación con App Brewery para **regalar [un nuevo curso de introducción](https://www.appbrewery.co/courses/intro-to-flutter){:target="_blank" rel="nofollow"} a Flutter**, ofreciendo **acceso gratuito al curso a quienes lo activen en los próximos tres meses**. Este curso no requiere experiencia previa en Flutter, y esperamos que le brinde la oportunidad de desarrollar nuevas habilidades de desarrollo para iOS, Android y la web.
 
-[Flutter](http://flutter.dev/){:target="_blank"} es el [kit de herramientas de interfaz de usuario de Google](/que-es-flutter-y-por-que-debes-aprenderlo/) para crear hermosas aplicaciones compiladas de forma nativa para dispositivos móviles, web y de escritorio desde una única base de código. Lo utilizan más de [un millón de desarrolladores en todo el mundo](https://youtu.be/REJDzio_h7o){:target="_blank"}, desde particulares y nuevas empresas hasta grandes empresas como Alibaba, Capital One y eBay.
+[Flutter](http://flutter.dev/){:target="_blank" rel="nofollow"} es el [kit de herramientas de interfaz de usuario de Google](/que-es-flutter-y-por-que-debes-aprenderlo/) para crear hermosas aplicaciones compiladas de forma nativa para dispositivos móviles, web y de escritorio desde una única base de código. Lo utilizan más de [un millón de desarrolladores en todo el mundo](https://youtu.be/REJDzio_h7o){:target="_blank" rel="nofollow"}, desde particulares y nuevas empresas hasta grandes empresas como Alibaba, Capital One y eBay.
 
-Estamos **regalando el curso de [*Introducción al desarrollo de Flutter*](https://www.appbrewery.co/courses/intro-to-flutter){:target="_blank"} de forma gratuita con acceso de por vida** si se activa durante los próximos tres meses. El curso cubre algunos de **los conceptos fundamentales para el desarrollo de Flutter**, enseñando **cómo codificar usando Dart** y guiandote a través de la construcción de nueve aplicaciones del mundo real que se ejecutan en iOS y Android, incluso si no tienes experiencia en programación.
+Estamos **regalando el curso de [*Introducción al desarrollo de Flutter*](https://www.appbrewery.co/courses/intro-to-flutter){:target="_blank" rel="nofollow"} de forma gratuita con acceso de por vida** si se activa durante los próximos tres meses. El curso cubre algunos de **los conceptos fundamentales para el desarrollo de Flutter**, enseñando **cómo codificar usando Dart** y guiandote a través de la construcción de nueve aplicaciones del mundo real que se ejecutan en iOS y Android, incluso si no tienes experiencia en programación.
 
 La instructora del curso, Angela Yu. Va a ser tu guía, paso a paso, a través de interesantes lecciones en línea bajo una experiencia práctica para tener éxito como un desarrollador de Flutter. El curso incluye más de 10 horas de video tutoriales y laboratorios, durante los cuales vas a desarrollar tus conocimiento de programación y crear aplicaciones aplicables al mundo real, como por ejemplo; un juego Choose Your Own Adventure y una aplicación de prueba. ¡Incluso podrás construir un instrumento musical!
 
-Al final de este curso, estarás listo para comenzar a crear tus propias aplicaciones de Flutter y en camino a convertirte en un desarrollador de Flutter de pleno derecho. Si completas este curso, hay muchos más módulos disponibles para aprender más sobre [App Brewery](https://www.appbrewery.co/){:target="_blank"} y vas a poder terminar el curso con un certificado de finalización, junto con una cartera de aplicaciones creadas con los fundamentos de Flutter y Dart.
+Al final de este curso, estarás listo para comenzar a crear tus propias aplicaciones de Flutter y en camino a convertirte en un desarrollador de Flutter de pleno derecho. Si completas este curso, hay muchos más módulos disponibles para aprender más sobre [App Brewery](https://www.appbrewery.co/){:target="_blank" rel="nofollow"} y vas a poder terminar el curso con un certificado de finalización, junto con una cartera de aplicaciones creadas con los fundamentos de Flutter y Dart.
 
 ### **Introducción al Desarrollo de Flutter con Dart**
 
@@ -108,7 +108,7 @@ Los contenidos separados por secciones son los siguientes:
 
 **Alistate al Curso**: [¡INICIA EL CURSO YA!](https://www.appbrewery.co/courses/intro-to-flutter)
 
-**Fuente**\: [Medium Oficial de Flutter](https://medium.com/flutter/learn-flutter-for-free-c9bc3b898c4d){:target="_blank"}, [App Brewery](https://www.appbrewery.co/p/intro-to-flutter){:target="_blank"}
+**Fuente**\: [Medium Oficial de Flutter](https://medium.com/flutter/learn-flutter-for-free-c9bc3b898c4d){:target="_blank" rel="nofollow"}, [App Brewery](https://www.appbrewery.co/p/intro-to-flutter){:target="_blank" rel="nofollow"}
 {: .notice--info}
 
 ## Guía Flutter

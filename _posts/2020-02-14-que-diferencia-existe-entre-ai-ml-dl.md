@@ -111,7 +111,7 @@ A continuación, vamos a intentar hacernos una idea para conocer un poco más de
 
 ## El proceso del aprendizaje automático
 
-Imagina que estás destinado a construir un programa que reconozca objetos. Para entrenar al modelo, usarás un "[clasificador](https://es.wikipedia.org/wiki/Clasificador_(matem%C3%A1ticas)){:target="_blank"}" Un clasificador usa las características de un objeto para intentar identificar la clase a la que pertenece.
+Imagina que estás destinado a construir un programa que reconozca objetos. Para entrenar al modelo, usarás un "[clasificador](https://es.wikipedia.org/wiki/Clasificador_(matem%C3%A1ticas)){:target="_blank" rel="nofollow"}" Un clasificador usa las características de un objeto para intentar identificar la clase a la que pertenece.
 
 En el ejemplo que verás representado más abajo, el clasificador será entrenado para detectar si la imagen es:
 

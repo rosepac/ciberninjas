@@ -53,13 +53,13 @@ El subproceso de la GPU ejecuta el código de gráficos del motor Flutter. Este 
 
 A veces, una escena da como resultado un árbol de capas que es fácil de construir, pero costoso renderizar en el hilo de la GPU. En este caso, necesitará averiguar qué está haciendo su código que hace que el código de procesamiento sea lento. Los tipos específicos de cargas de trabajo son más difíciles para la GPU. Pueden implicar llamadas innecesarias a `saveLayer()`, opacidades que se cruzan con múltiples objetos y clips o sombras en situaciones específicas.
 
-Para obtener más información sobre la creación de perfiles, consulte [Identificación de problemas en el gráfico de GPU](https://flutter.dev/docs/perf/rendering/ui-performance#identifying-problems-in-the-gpu-graph){:target="_blank"}.
+Para obtener más información sobre la creación de perfiles, consulte [Identificación de problemas en el gráfico de GPU](https://flutter.dev/docs/perf/rendering/ui-performance#identifying-problems-in-the-gpu-graph){:target="_blank" rel="nofollow"}.
 
 ### Jank
 
 El cuadro de representación de cuadros muestra jank con una superposición roja. Una trama se considera irregular si se tarda más de ~ 16 ms en completarse. Para lograr una velocidad de representación de cuadros de 60 FPS (cuadros por segundo), cada cuadro debe renderizarse en ~ 16 ms o menos. Cuando se pierde este objetivo, es posible que experimente un salto de interfaz de usuario o fotogramas caídos.
 
-Para obtener más información sobre cómo analizar el rendimiento de su aplicación, consulte [Perfiles de rendimiento de Flutter](https://flutter.dev/docs/perf/rendering/ui-performance){:target="_blank"}.
+Para obtener más información sobre cómo analizar el rendimiento de su aplicación, consulte [Perfiles de rendimiento de Flutter](https://flutter.dev/docs/perf/rendering/ui-performance){:target="_blank" rel="nofollow"}.
 
 ## Cuadro de eventos de marco
 
@@ -143,5 +143,5 @@ DevTools admite la importación y exportación de instantáneas de línea de tie
 
 [🎓 Cursos en Español](/cursos-tecnologia/#flutter){: .btn .btn--warning .btn--large} [👉 Ejemplos de Aplicaciones](/flutter-aplicaciones-ejemplos/){: .btn .btn--inverse .btn--large} [⚓ Documentación en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large}
 
-**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank"}
+**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow"}
 {: .notice--info}

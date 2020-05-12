@@ -38,7 +38,7 @@ Un generador de sitio estático adopta un enfoque diferente y genera todas las p
 
 StaticGen es una tabla de clasificación de los principales generadores de sitios estáticos de código abierto. Es administrado por Netlify, un servicio de alojamiento y automatización para sitios web estáticos y aplicaciones, como una forma de promover un enfoque estático para crear sitios web. El sitio en sí está construido con Gatsby, y Netlify lo construye e implementa con datos nuevos todos los días. Puede consultar la fuente en GitHub y las contribuciones son más que bienvenidas.
 
-[👉 Visitar StaticGen 🔩](https://www.staticgen.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[👉 Visitar StaticGen 🔩](https://www.staticgen.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## **Qué es JamStack**
 
@@ -68,7 +68,7 @@ Cuando su implementación equivale a una pila de archivos que se pueden servir e
 
 El acoplamiento flexible y la separación de los controles permiten un desarrollo y una depuración más específicos, y la selección cada vez mayor de opciones de CMS para los generadores de sitios elimina la necesidad de mantener una pila separada de contenido y marketing.
 
-[👉 Visitar StaticGen 🔩](https://www.staticgen.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[👉 Visitar StaticGen 🔩](https://www.staticgen.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## **Cómo saber que tu página web no es un sitio JamStack**
 
@@ -104,7 +104,7 @@ Cuando el ciclo de la compilación o implementación se lanza, debes saber que y
 
 ## **Qué CMS de contenidos JamStack existen**
 
-¡Es posible que ya hayas trabajado con anterioridad en un sitio de Jamstack! Se pueden construir a mano, o con Jekyll, Hugo, Nuxt, Next, Gatsby u otros muchos; puedes conocerlos a todos desde el listad de [JamStack CMS](https://headlesscms.org/){:target="_blank"}
+¡Es posible que ya hayas trabajado con anterioridad en un sitio de Jamstack! Se pueden construir a mano, o con Jekyll, Hugo, Nuxt, Next, Gatsby u otros muchos; puedes conocerlos a todos desde el listad de [JamStack CMS](https://headlesscms.org/){:target="_blank" rel="nofollow"}
 
 ______
 

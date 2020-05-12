@@ -44,12 +44,12 @@ Mejorar la productividad puede ayudarte a escalar su negocio y mantener el creci
 </nav>
 </details>
 
-🔥 Seguro también te interesa 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank"} 👉 [Cómo calcular la productividad](/como-calcular-la-productividad/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) 👉 [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n) 
+🔥 Seguro también te interesa 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank" rel="nofollow"} 👉 [Cómo calcular la productividad](/como-calcular-la-productividad/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) 👉 [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n) 
 {: .notice--danger}
 
 ## **Introducción sobre productividad**
 
-Un [informe de 2017](https://www.gallup.com/workplace/238079/state-global-workplace-2017.aspx){:target="_blank"} de Gallup encontró que solo el 15 por ciento de los adultos con trabajos a tiempo completo en 155 países están muy involucrados y entusiasmados con su trabajo y su lugar de trabajo. Dos tercios de los adultos que trabajan con trabajos de tiempo completo informaron que estaban dedicando tiempo a sus trabajos pero no energía o pasión porque no estaban comprometidos.
+Un [informe de 2017](https://www.gallup.com/workplace/238079/state-global-workplace-2017.aspx){:target="_blank" rel="nofollow"} de Gallup encontró que solo el 15 por ciento de los adultos con trabajos a tiempo completo en 155 países están muy involucrados y entusiasmados con su trabajo y su lugar de trabajo. Dos tercios de los adultos que trabajan con trabajos de tiempo completo informaron que estaban dedicando tiempo a sus trabajos pero no energía o pasión porque no estaban comprometidos.
 
 Como señaló el informe Gallup, esta desconexión constante entre los trabajadores a tiempo completo en todo el mundo "es una barrera para la creación de culturas de alto rendimiento" y, en general, "implica una sorprendente cantidad de potencial desperdiciado".
 
@@ -279,7 +279,7 @@ Esto es lo que pueden hacer las aplicaciones digitales modernas para su negocio.
 
 ### 1. Trello
 
-[Trello](https://trello.com/){:target="_blank"} es una aplicación de gestión y colaboración de proyectos que brinda a los usuarios la capacidad de organizar su trabajo de manera más intuitiva y compartir fácilmente las actualizaciones entre ellos.
+[Trello](https://trello.com/){:target="_blank" rel="nofollow"} es una aplicación de gestión y colaboración de proyectos que brinda a los usuarios la capacidad de organizar su trabajo de manera más intuitiva y compartir fácilmente las actualizaciones entre ellos.
 
 La solución es tan fácil de usar que puede usarla tan fácilmente para planificar sus próximas vacaciones como lo puede hacer un proyecto complejo de varios meses que requiere la participación de una docena de partes interesadas dentro de su negocio.
 
@@ -297,7 +297,7 @@ Trello facilita el mantenimiento de la productividad al ayudarlo a organizarse y
 
 ¿Cuánto tiempo suele pasar cada día moviendo una información de una aplicación a otra? Imagine que un cliente le envía un archivo adjunto con una actualización de un proyecto en curso. Debe descargar el archivo adjunto, moverlo a su aplicación para compartir archivos, abrir su aplicación para compartir archivos y usarlo para enviarlo a la cuenta de un usuario en la aplicación donde realmente realizan el trabajo.
 
-Hacer esto de vez en cuando no es realmente un problema. Pero realizar estas tareas a la escala que muchas empresas tienen que hacer para comunicar datos relevantes a diferentes partes interesadas en una variedad de aplicaciones es una gran pérdida de tiempo. También podrá hacer más cuando pase menos tiempo en este tipo de tareas administrativas y más tiempo y energía en el trabajo que realmente crea valor para su negocio. [Zapier](https://zapier.com/){:target="_blank"} resuelve este problema.
+Hacer esto de vez en cuando no es realmente un problema. Pero realizar estas tareas a la escala que muchas empresas tienen que hacer para comunicar datos relevantes a diferentes partes interesadas en una variedad de aplicaciones es una gran pérdida de tiempo. También podrá hacer más cuando pase menos tiempo en este tipo de tareas administrativas y más tiempo y energía en el trabajo que realmente crea valor para su negocio. [Zapier](https://zapier.com/){:target="_blank" rel="nofollow"} resuelve este problema.
 
 Zapier le permite configurar disparadores para flujos de trabajo automatizados que "Zap" la información entre aplicaciones. En el ejemplo mencionado anteriormente, Zapier reconocería un nuevo correo electrónico con un archivo adjunto como desencadenante, copiaría el archivo adjunto a una aplicación para compartir archivos y lo alertaría del proceso en una aplicación de colaboración. Esto mueve los datos al lugar correcto mientras lo mantiene al tanto y lo ayuda a evitar trabajos administrativos innecesarios.
 
@@ -313,7 +313,7 @@ Si hacer llegar los datos a las personas adecuadas en el momento adecuado es una
 
 No puedes automatizar todo. Los empleados a menudo necesitan tener conversaciones sobre el trabajo que están haciendo. Pero en los viejos tiempos de las herramientas digitales de nivel de entrada, las personas a menudo usaban una aplicación para atender una llamada de conferencia, abrir su propia versión del archivo y hablar sobre ediciones mientras trataban de mantenerse al día. Todo el mundo estaría haciendo cambios en su versión del archivo, o un tomador de notas se encargaría de eso, y luchando para mantenerse al día con una conversación natural.
 
-Los sistemas de administración de archivos y datos dispares dificultan la conexión de diferentes archivos a proyectos y tareas específicos, lo que agrega complejidad a la colaboración y perjudica la productividad. [Slack](https://www.jotform.com/apps/slack){:target="_blank"} apunta a este problema, brindando a las empresas un centro social centralizado donde los empleados pueden
+Los sistemas de administración de archivos y datos dispares dificultan la conexión de diferentes archivos a proyectos y tareas específicos, lo que agrega complejidad a la colaboración y perjudica la productividad. [Slack](https://www.jotform.com/apps/slack){:target="_blank" rel="nofollow"} apunta a este problema, brindando a las empresas un centro social centralizado donde los empleados pueden
 
 - Participe en chats de texto para discutir temas clave o proporcionar actualizaciones sobre proyectos.
 - Cree foros internos para discutir lo que está sucediendo en el lugar de trabajo (desde un foro que discute los mejores bocadillos para la oficina hasta un lugar serio para discutir ideas para el desarrollo de productos, los foros pueden proporcionar lugares intuitivos y totalmente buscables para comunicarse).
@@ -331,7 +331,7 @@ La idea de "trabajar de manera más inteligente, no más difícil" a menudo se t
 
 En muchos casos, la productividad se trata de simplificación. La programación de bloques simplifica el trabajo al ayudarlo a centrarse en áreas específicas de trabajo durante un período prolongado de su tiempo. Limpiar su escritorio elimina cosas innecesarias, lo que le permite concentrarse y evitar distraerse con desorden o artefactos. La integración de datos entre aplicaciones le permite simplificar las operaciones al garantizar que la información llegue a los usuarios donde están para que no tengan que moverse entre un conjunto de servicios diferentes.
 
-La simplicidad es a menudo un camino hacia la productividad porque ayuda a los usuarios a centrarse en la tarea en cuestión y realizarla rápidamente. [Doist](https://doist.com/){:target="_blank"} es una marca dedicada a la simplicidad, y ayuda a las empresas a simplificar el trabajo principalmente a través de dos soluciones:
+La simplicidad es a menudo un camino hacia la productividad porque ayuda a los usuarios a centrarse en la tarea en cuestión y realizarla rápidamente. [Doist](https://doist.com/){:target="_blank" rel="nofollow"} es una marca dedicada a la simplicidad, y ayuda a las empresas a simplificar el trabajo principalmente a través de dos soluciones:
 
 ### 5. Todoist
 
@@ -368,7 +368,7 @@ Casi todos los profesionales han trabajado con Microsoft Office. Muchos usaron W
 
 El costo de Office for Business llevó a muchas organizaciones a buscar opciones alternativas, incluso diferentes paquetes de Office, que proporcionaban funcionalidades clave a un costo menor. Pero en los viejos tiempos de las instalaciones individuales de Office en máquinas de usuarios finales, las empresas también necesitaban soluciones como Sharepoint para ayudarles a compartir archivos y colaborar. El resultado fue un ecosistema de productividad complejo y tecnológicamente especializado que muchas pequeñas empresas simplemente no podían justificar.
 
-[Office 365](https://products.office.com/en-us/business/office-365-business){:target="_blank"} cambió todo esto. Se entrega como un servicio de suscripción. No necesita comprar licencias de oficina a granel. En cambio, puede pagar una pequeña tarifa mensual por cada usuario en el sistema. Esto le permite mantener bajos los costos de entrada mientras accede a algunas de las mejores soluciones de productividad del mercado. Office 365 para empresas incluye
+[Office 365](https://products.office.com/en-us/business/office-365-business){:target="_blank" rel="nofollow"} cambió todo esto. Se entrega como un servicio de suscripción. No necesita comprar licencias de oficina a granel. En cambio, puede pagar una pequeña tarifa mensual por cada usuario en el sistema. Esto le permite mantener bajos los costos de entrada mientras accede a algunas de las mejores soluciones de productividad del mercado. Office 365 para empresas incluye
 
 - Outlook: una potente aplicación de correo electrónico con funciones sólidas de colaboración y gestión de horarios
 - OneDrive: una solución para compartir archivos líder en la industria
@@ -390,7 +390,7 @@ Microsoft Office ha sido durante mucho tiempo un líder de la industria en impul
 
 ### 2. G Suite
 
-[G Suite](https://gsuite.google.com/){:target="_blank"} es la respuesta de Google a Microsoft Office 365. Surgió en los primeros días de la nube como una forma simple para que las empresas accedan a aplicaciones de productividad a través de una interfaz web central. Hacía que las soluciones de procesamiento de texto, hojas de cálculo, calendarios, correo electrónico y presentaciones estuvieran disponibles en un solo lugar. Google Drive proporciona un centro central de almacenamiento de datos y archivos, mientras que aplicaciones como Google Docs, Google Slides, Gmail y Google Sheets proporcionan herramientas comparables a Office 365.
+[G Suite](https://gsuite.google.com/){:target="_blank" rel="nofollow"} es la respuesta de Google a Microsoft Office 365. Surgió en los primeros días de la nube como una forma simple para que las empresas accedan a aplicaciones de productividad a través de una interfaz web central. Hacía que las soluciones de procesamiento de texto, hojas de cálculo, calendarios, correo electrónico y presentaciones estuvieran disponibles en un solo lugar. Google Drive proporciona un centro central de almacenamiento de datos y archivos, mientras que aplicaciones como Google Docs, Google Slides, Gmail y Google Sheets proporcionan herramientas comparables a Office 365.
 
 No profundizaremos en las sutiles diferencias de características entre G Suite y Office 365, ya que las aplicaciones a menudo son similares y las distinciones, aunque a veces significativas, son con frecuencia una cuestión de preferencia. En última instancia, ambas soluciones pueden aumentar la productividad a través del acceso a aplicaciones de productividad intuitivas y fáciles de usar que permiten a sus empleados crear contenido de manera eficiente.
 
@@ -408,7 +408,7 @@ La productividad a menudo depende de la transformación digital. Cuanto más fá
 
 Muchos sistemas de software tradicionales dejaron mucho que desear en lo que respecta a la flexibilidad. Si ha estado operando un negocio por un tiempo, probablemente pueda recordar los días en que compró el software, pasó tiempo instalándolo en máquinas, capacitando a sus usuarios para que lo usen y luego alineando sus procesos comerciales con lo que el software le permite hacer.
 
-Muchos profesionales han estado en situaciones en las que saben que pueden mejorar un proceso o aumentar la productividad, pero su tecnología les impide enviar los datos correctos a las personas adecuadas o los ralentiza porque no pueden colaborar de manera efectiva. Trabajar dentro de los límites del software preconstruido que puede adaptarse a su industria, pero no a su negocio, puede poner un límite a su productividad. [Airtable](https://airtable.com/){:target="_blank"} ayuda a las empresas a superar ese límite al combinar las capacidades de las soluciones comunes de productividad en una solución de productividad y gestión de proyectos totalmente personalizable.
+Muchos profesionales han estado en situaciones en las que saben que pueden mejorar un proceso o aumentar la productividad, pero su tecnología les impide enviar los datos correctos a las personas adecuadas o los ralentiza porque no pueden colaborar de manera efectiva. Trabajar dentro de los límites del software preconstruido que puede adaptarse a su industria, pero no a su negocio, puede poner un límite a su productividad. [Airtable](https://airtable.com/){:target="_blank" rel="nofollow"} ayuda a las empresas a superar ese límite al combinar las capacidades de las soluciones comunes de productividad en una solución de productividad y gestión de proyectos totalmente personalizable.
 
 Airtable reúne capacidades de hojas de cálculo y bases de datos para ayudar a los usuarios a organizar sus operaciones de una manera que se alinee con su forma de trabajar. A nivel empresarial, puede crear procesos y flujos de trabajo personalizados y documentarlos en el software. Airtable contiene datos, archivos y herramientas relevantes para ayudar a los usuarios a interactuar con el proceso. A partir de ahí, los miembros del equipo pueden crear nuevas tareas y proyectos en una variedad de formatos, que incluyen
 
@@ -426,7 +426,7 @@ Los datos nos mantienen operando a plena capacidad cuando tenemos acceso a ellos
 
 ### 4. Asana
 
-Al igual que Airtable, [Asana](https://asana.com/product){:target="_blank"} es una herramienta de gestión de proyectos que ayuda a los usuarios a rastrear el progreso de las tareas clave y compartir datos en tiempo real. Pero cuando Airtable se basa en la filosofía de promover la flexibilidad y la personalización, Asana se centra en el trabajo en equipo.
+Al igual que Airtable, [Asana](https://asana.com/product){:target="_blank" rel="nofollow"} es una herramienta de gestión de proyectos que ayuda a los usuarios a rastrear el progreso de las tareas clave y compartir datos en tiempo real. Pero cuando Airtable se basa en la filosofía de promover la flexibilidad y la personalización, Asana se centra en el trabajo en equipo.
 
 El viejo dicho, "El trabajo en equipo hace que el sueño funcione", es un cliché por una razón, y no solo porque es increíblemente cursi. Las empresas dependen cada vez más de procesos que son demasiado complejos y especializados para que cualquier individuo los maneje por sí solo. Una sola ejecución de producción en una pequeña planta de fabricación puede requerir personas con experiencia en el abastecimiento de materiales, gestión de almacenes, programación de producción, programación de máquinas, pruebas de control de calidad y embalaje y envío. Y eso solo cubre la creación real de un bien, no la investigación de mercado, las ventas, el marketing y el trabajo de marca detrás de él.
 <!-- [investigación de mercado](https://www.noupe.com/inspiration/tutorials-inspiration/how-to-do-market-research.html) -->
@@ -451,7 +451,7 @@ El trabajo en equipo es esencial para realizar un trabajo de calidad en el compl
 
 ### 5. monday.com
 
-Al igual que Airtable y Asana, [monday.com](https://monday.com/lang/es/){:target="_blank"} es una solución de gestión de proyectos que brinda a los empleados y gerentes una visión del trabajo diario. La solución tiene una interfaz bastante minimalista, lo que facilita ver rápidamente proyectos en toda la empresa. Al brindar la información más importante a los miembros correctos del equipo, monday.com aumenta la productividad.
+Al igual que Airtable y Asana, [monday.com](https://monday.com/lang/es/){:target="_blank" rel="nofollow"} es una solución de gestión de proyectos que brinda a los empleados y gerentes una visión del trabajo diario. La solución tiene una interfaz bastante minimalista, lo que facilita ver rápidamente proyectos en toda la empresa. Al brindar la información más importante a los miembros correctos del equipo, monday.com aumenta la productividad.
 
 En muchos sentidos, mejorar la productividad en la era digital es una cuestión de eliminar el desorden de datos. Muchas personas son bombardeadas con información, dejándolas abrumadas y limitando su productividad. monday.com tiene como objetivo aliviar esta carga facilitando la planificación del trabajo, el seguimiento y la colaboración con los miembros del equipo sin crear demasiado desorden.
 

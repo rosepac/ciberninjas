@@ -123,7 +123,7 @@ No permitir: /
 
 Aunque no es parte de esta especificación, algunos códigos de ejemplo en Perl están disponibles en norobots.pl. Es un poco más flexible en su análisis que las especificaciones de este documento, y se proporciona tal cual, sin garantía.
 
-> **Nota:** este código ya no está disponible. En su lugar, recomiendo utilizar el código de exclusión de robots en la biblioteca Perl libwww-perl5, disponible desde [CPAN](http://www.cpan.org/){:target="_blank"} en el [directorio LWP](http://www.cpan.org/modules/by-module/LWP/){:target="_blank"}.
+> **Nota:** este código ya no está disponible. En su lugar, recomiendo utilizar el código de exclusión de robots en la biblioteca Perl libwww-perl5, disponible desde [CPAN](http://www.cpan.org/){:target="_blank" rel="nofollow"} en el [directorio LWP](http://www.cpan.org/modules/by-module/LWP/){:target="_blank" rel="nofollow"}.
 
 ### Dirección del autor
 

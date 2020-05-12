@@ -21,8 +21,8 @@ last_modified_at:
 permalink: /javascript-recursos/
 ---
 
-[📕 Libros Javascript](https://kutt.it/javascript-libros){: .btn .btn--info .btn--large}{:target="_blank"}
- [🎓 Cursos Javascript](https://kutt.it/javascript-cursos){: .btn .btn--info .btn--large}{:target="_blank"}  [📕 Libros en Inglés](/biblioteca-de-programacion-y-tecnologia-ingles/#-javascript){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés](/cursos-tecnologia-ingles/#javascript){: .btn .btn--info .btn--large}
+[📕 Libros Javascript](https://kutt.it/javascript-libros){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow"}
+ [🎓 Cursos Javascript](https://kutt.it/javascript-cursos){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow"}  [📕 Libros en Inglés](/biblioteca-de-programacion-y-tecnologia-ingles/#-javascript){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés](/cursos-tecnologia-ingles/#javascript){: .btn .btn--info .btn--large}
 
 [Artículos Python](/python-recursos/#los-mejores-artículos-de-javascript){: .btn .btn--inverse .btn--large} [Chuletas de Javascript](/#chuletas--de-consulta){: .btn .btn--inverse .btn--large}
 
@@ -85,14 +85,14 @@ Los mejores artículos de Javascript que puedes encontrar en todo Internet, con 
 
 ## Chuletas de Consulta
 
-* [Javascript Emezeta](https://www.emezeta.com/articulos/javascript-cheatsheet-chuleta-js){:target="_blank"} (PDF)
-* [Paradigma Digital](https://new.paradigmadigital.com/wp-content/uploads/2018/02/JSCheatsheetv1.1.pdf){:target="_blank"} (PDF)
+* [Javascript Emezeta](https://www.emezeta.com/articulos/javascript-cheatsheet-chuleta-js){:target="_blank" rel="nofollow"} (PDF)
+* [Paradigma Digital](https://new.paradigmadigital.com/wp-content/uploads/2018/02/JSCheatsheetv1.1.pdf){:target="_blank" rel="nofollow"} (PDF)
 
 ## Chuletas en Inglés
 
-* [Hoja de Trucos Moderna de Javascript](https://github.com/mbeaudru/modern-js-cheatsheet#modern-javascript-cheatsheet){:target="_blank"} (HTML)
-* [Chuleta Interactiva](https://htmlcheatsheet.com/js/){:target="_blank"} (Web Interactiva)
-* [API Abierto de Javascript](http://overapi.com/javascript){:target="_blank"} (Web Interactiva)
+* [Hoja de Trucos Moderna de Javascript](https://github.com/mbeaudru/modern-js-cheatsheet#modern-javascript-cheatsheet){:target="_blank" rel="nofollow"} (HTML)
+* [Chuleta Interactiva](https://htmlcheatsheet.com/js/){:target="_blank" rel="nofollow"} (Web Interactiva)
+* [API Abierto de Javascript](http://overapi.com/javascript){:target="_blank" rel="nofollow"} (Web Interactiva)
 * [Website Setup](https://websitesetup.org/wp-content/uploads/2018/04/wsu-js-cheat-sheet.pdf) (PDF)
 
 ## Otros Por Organizar
@@ -105,7 +105,7 @@ Verifique tipos, expresiones regulares, presencia, tiempo y más...
 
 * [JS Ilustrado: Promise](https://medium.com/front-end-weekly/js-illustrated-promises-c87efb8d27a9) (2019) (Medium) (Inglés)
 
-* [Mirage JS](https://miragejs.com/){:target="_blank"}
+* [Mirage JS](https://miragejs.com/){:target="_blank" rel="nofollow"}
 
 Mirage JS es una biblioteca de simulación de API que le permite crear, probar y compartir una aplicación JavaScript completa sin tener que depender de ningún servicio de fondo.
 

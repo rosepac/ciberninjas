@@ -39,7 +39,7 @@ Por ejemplo, esta política no se aplica a ZXDB (un depurador) porque ZXDB es un
 
 ## Definiciones
 
-El ***árbol fuente de la plataforma Fuchsia*** es el código fuente alojado en [fuchsia.googlesource.com](https://fuchsia.googlesource.com){:target="_blank"}.
+El ***árbol fuente de la plataforma Fuchsia*** es el código fuente alojado en [fuchsia.googlesource.com](https://fuchsia.googlesource.com){:target="_blank" rel="nofollow"}.
 
 Fuchsia Platform Source Tree puede absorber cambios más grandes en el sistema Fuchsia y sus tecnologías subyacentes que los desarrolladores finales porque los cambios que afectan solo al Fuchsia Platform Source Tree pueden ejecutarse sin coordinación con otros grupos de personas.
 
@@ -148,12 +148,12 @@ Fuchsia Platform Source Tree puede absorber cambios más grandes en el sistema F
 
 Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.org/wiki/Apache_License "Licencia Apache 2.0")**.
 
-**Fuente**\: [](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/master/docs/project/policy/programming_languages.md ""){:target="_blank"}
+**Fuente**\: [](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/master/docs/project/policy/programming_languages.md ""){:target="_blank" rel="nofollow"}
 {: .notice--info}
 
 ## Otros que te pueden interesar..
 
-**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank"}
+**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow"}
 {: .notice--primary}
 
 [▷ Editores de Texto](/categoria/#editor-de-texto) \ [Eclipse Theia](/wiki/eclipse-theia)

@@ -40,24 +40,24 @@ published: true
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-## **[](){:target="_blank"}**
+## **[](){:target="_blank" rel="nofollow"}**
 
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[](){:target="_blank"}**
+## **[](){:target="_blank" rel="nofollow"}**
 
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[](){:target="_blank"}**
+## **[](){:target="_blank" rel="nofollow"}**
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[](){:target="_blank"}**
+## **[](){:target="_blank" rel="nofollow"}**
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}

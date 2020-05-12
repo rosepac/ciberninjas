@@ -16,4 +16,4 @@ Herramientas de creación de diagramas, aplicaciones, software, textos, ayudas, 
 
 ![Yed. Captura de pantalla del software decreación de diagramas](https://i.ibb.co/J5PQ7bR/image.png "Yed. Captura de pantalla del software decreación de diagramas")
 
-* [yEd](https://www.yworks.com/products/yed){:target="_blank"}
+* [yEd](https://www.yworks.com/products/yed){:target="_blank" rel="nofollow"}

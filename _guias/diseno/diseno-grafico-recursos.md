@@ -45,21 +45,21 @@ Los mejores programas de diseño gráfico que existen..
 
 ## Blender
 
-* [Complementos de Blender para hacer el puente entre Blender y los datos geográficos](https://github.com/domlysz/BlenderGIS#blender-gis){:target="_blank"}
+* [Complementos de Blender para hacer el puente entre Blender y los datos geográficos](https://github.com/domlysz/BlenderGIS#blender-gis){:target="_blank" rel="nofollow"}
 
 ## Krita
 
-* [Krita](https://krita.org/es/){:target="_blank"} \ [Brochas](https://docs.krita.org/en/resources_page.html#brush-packs){:target="_blank"}
-  * [Plugin de Acciones](https://github.com/Larpon/krita-bulk-actions){:target="_blank"}
+* [Krita](https://krita.org/es/){:target="_blank" rel="nofollow"} \ [Brochas](https://docs.krita.org/en/resources_page.html#brush-packs){:target="_blank" rel="nofollow"}
+  * [Plugin de Acciones](https://github.com/Larpon/krita-bulk-actions){:target="_blank" rel="nofollow"}
 
 ## Otros
 
 * [Armor Paint](https://80.lv/articles/open-source-painting-tool-for-3d-artists/) \ Pintura 3D.
 
-* [Sweet Home 3D](http://www.sweethome3d.com/){:target="_blank"}
+* [Sweet Home 3D](http://www.sweethome3d.com/){:target="_blank" rel="nofollow"}
 <!-- tutoriales de sweet home 3d - buscar youtube -->
 
-* [Natron](https://natrongithub.github.io/){:target="_blank"} \ [Plugins](https://github.com/NatronGitHub/natron-plugins){:target="_blank"}
+* [Natron](https://natrongithub.github.io/){:target="_blank" rel="nofollow"} \ [Plugins](https://github.com/NatronGitHub/natron-plugins){:target="_blank" rel="nofollow"}
 
 Software de composición de código abierto para efectos visuales y gráficos en movimiento.
 
@@ -71,33 +71,33 @@ https://www.youtube.com/watch?v=N0aKrcXX64w&t=106s
 
 ### Programas de Pago
 
-* [Substance 3d](https://www.substance3d.com/){:target="_blank"}
+* [Substance 3d](https://www.substance3d.com/){:target="_blank" rel="nofollow"}
 
 ## Concursos de Diseño Gráfico
 
-* [ArtStation Concursos](https://www.artstation.com/contests){:target="_blank"}
+* [ArtStation Concursos](https://www.artstation.com/contests){:target="_blank" rel="nofollow"}
 
 ## Proyectos
 
-* [Morevna](https://morevnaproject.org/){:target="_blank"}
+* [Morevna](https://morevnaproject.org/){:target="_blank" rel="nofollow"}
 
 ## Recursos Videojuegos
 
-* [Open Game Art](https://opengameart.org/){:target="_blank"}
+* [Open Game Art](https://opengameart.org/){:target="_blank" rel="nofollow"}
 
 ## Crear Mallas
 
-* [Truco para la Creación de Mallas a través de Blender](https://www.youtube.com/watch?time_continue=335&v=kEx0aXH7Z5w&feature=emb_logo){:target="_blank"}
+* [Truco para la Creación de Mallas a través de Blender](https://www.youtube.com/watch?time_continue=335&v=kEx0aXH7Z5w&feature=emb_logo){:target="_blank" rel="nofollow"}
 
 ## Crear Portfolios
 
-* [Domesetika](https://www.domestika.org/ "Domestika es la comunidad de la Clase Creativa"){:target="_blank"}
-* [ArtStation](https://www.artstation.com/ "ArtStation le ofrece una manera simple pero poderosa de mostrar su cartera y ser visto por las personas adecuadas en la industria. "){:target="_blank"}
-* [Dribble](https://dribbble.com){:target="_blank"}
+* [Domesetika](https://www.domestika.org/ "Domestika es la comunidad de la Clase Creativa"){:target="_blank" rel="nofollow"}
+* [ArtStation](https://www.artstation.com/ "ArtStation le ofrece una manera simple pero poderosa de mostrar su cartera y ser visto por las personas adecuadas en la industria. "){:target="_blank" rel="nofollow"}
+* [Dribble](https://dribbble.com){:target="_blank" rel="nofollow"}
 
 ## Repositorios
 
-* [Biblioteca del patrimonio de la biodiversidad](https://www.flickr.com/photos/biodivlibrary/){:target="_blank"} 150.000 ilustraciones de animales y botánica en su cuenta de Flickr.
+* [Biblioteca del patrimonio de la biodiversidad](https://www.flickr.com/photos/biodivlibrary/){:target="_blank" rel="nofollow"} 150.000 ilustraciones de animales y botánica en su cuenta de Flickr.
 
 ## Repositorios 2D / 3D
 
@@ -111,12 +111,12 @@ Modelos 3D libres para su uso bajo licencias CC0 en formatos de Blender, Autodes
 
 ## Texturas y Patrones
 
-* [Patrones Top](https://www.toptal.com/designers/subtlepatterns/){:target="_blank"} 528 patrones diferentes
-* [Texturas Krita](https://docs.krita.org/en/resources_page.html#texture-packs){:target="_blank"}
+* [Patrones Top](https://www.toptal.com/designers/subtlepatterns/){:target="_blank" rel="nofollow"} 528 patrones diferentes
+* [Texturas Krita](https://docs.krita.org/en/resources_page.html#texture-packs){:target="_blank" rel="nofollow"}
 
 ## Mejores Blogs Olvidados
 
-* Amantes de las Marcas [->](http://amantesdelasmarcas.com/){:target="_blank"}
+* Amantes de las Marcas [->](http://amantesdelasmarcas.com/){:target="_blank" rel="nofollow"}
 
 ## Mejores Blogs de Inspiración
 
@@ -124,17 +124,17 @@ Modelos 3D libres para su uso bajo licencias CC0 en formatos de Blender, Autodes
 
 ## Foros
 
-* [Foro de Krita](https://krita-artists.org){:target="_blank"}
+* [Foro de Krita](https://krita-artists.org){:target="_blank" rel="nofollow"}
 
 ## Páginas Web
 
-* [Digital Synopsis](https://digitalsynopsis.com/){:target="_blank"}
+* [Digital Synopsis](https://digitalsynopsis.com/){:target="_blank" rel="nofollow"}
 
 ## Software de Pago
 
 ### Animación de "esqueletos" en 2D
 
-* [Spine 2D](http://esotericsoftware.com/){:target="_blank"}
+* [Spine 2D](http://esotericsoftware.com/){:target="_blank" rel="nofollow"}
 
 [🔝 REGRESAR 🔝](/diseño-grafico/#page-title){: .btn .btn--inverse .btn--large .align-center}
 

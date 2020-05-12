@@ -130,13 +130,13 @@ La propiedad anterior ahora proporcionan medios para cambiar la `font`, `backgro
 
 ## **4. DoubleTapGestureEventData**
 
-Este es un cambio impulsado por la comunidad (¡gracias a [MCurran16](https://github.com/MCurran16){:target="_blank"}!) Se han extendido los datos de eventos de doble clic que hasta ahora eran de tipo genérico (`GestureEventData`). El recién introducido `DoubleTapGestureEventData` amplía los datos comunes al proporcionar dos métodos para acceder a las coordenadas del evento de doble toque desencadenado. Los métodos son `getX()` y `getY()` que como te puedes imaginar, devolverán las coordenadas X e Y para la interacción actual. Los valores están en píxeles del dispositivo según el sistema de coordenadas de la plataforma específico.
+Este es un cambio impulsado por la comunidad (¡gracias a [MCurran16](https://github.com/MCurran16){:target="_blank" rel="nofollow"}!) Se han extendido los datos de eventos de doble clic que hasta ahora eran de tipo genérico (`GestureEventData`). El recién introducido `DoubleTapGestureEventData` amplía los datos comunes al proporcionar dos métodos para acceder a las coordenadas del evento de doble toque desencadenado. Los métodos son `getX()` y `getY()` que como te puedes imaginar, devolverán las coordenadas X e Y para la interacción actual. Los valores están en píxeles del dispositivo según el sistema de coordenadas de la plataforma específico.
 
 ## **5. Soporte experimental de KotlinJS**
 
-Con esta versión, continuamos apoyando a Kotlin, pero esta vez en el lado frontal del desarrollo de aplicaciones. Estamos presentando soporte *experimental* para escribir aplicaciones [NativeScript](https://kotlinlang.org/docs/reference/js-overview.html){:target="_blank"} con [KotlinJS](https://kotlinlang.org/docs/reference/js-overview.html){:target="_blank"}.
+Con esta versión, continuamos apoyando a Kotlin, pero esta vez en el lado frontal del desarrollo de aplicaciones. Estamos presentando soporte *experimental* para escribir aplicaciones [NativeScript](https://kotlinlang.org/docs/reference/js-overview.html){:target="_blank" rel="nofollow"} con [KotlinJS](https://kotlinlang.org/docs/reference/js-overview.html){:target="_blank" rel="nofollow"}.
 
-Debemos decir que esto es altamente experimental y está sujeto a cambios pero, sin embargo, estaríamos felices de que la comunidad eche un vistazo a la [muestra HelloWorld con KotlinJS](https://github.com/NativeScript/template-hello-world-kt){:target="_blank"}. Por favor, siga las instrucciones en el archivo `README.md` para usarlo. Pronto más documentación adicional.
+Debemos decir que esto es altamente experimental y está sujeto a cambios pero, sin embargo, estaríamos felices de que la comunidad eche un vistazo a la [muestra HelloWorld con KotlinJS](https://github.com/NativeScript/template-hello-world-kt){:target="_blank" rel="nofollow"}. Por favor, siga las instrucciones en el archivo `README.md` para usarlo. Pronto más documentación adicional.
 
 **Fuente**\: [NativeScript Blog Oficial](https://www.nativescript.org/blog/whats-new-in-nativescript-6-5 "Novedades de NativeScript 6.5: What´s new in nativescript 6.5") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://t.me/ciberninjas) bajo permiso del autor.
 {: .notice--info}

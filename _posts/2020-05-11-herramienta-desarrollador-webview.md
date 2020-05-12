@@ -35,9 +35,9 @@ Para resolver estos problemas más rápido, hoy anunciamos WebView DevTools, un 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-Para su comodidad, WebView DevTools viene incluido como parte de WebView. La forma más fácil de iniciar WebView Devtools es [probar WebView Beta](https://chromium.googlesource.com/chromium/src/+/HEAD/android_webview/docs/prerelease.md){:target="_blank"}.
+Para su comodidad, WebView DevTools viene incluido como parte de WebView. La forma más fácil de iniciar WebView Devtools es [probar WebView Beta](https://chromium.googlesource.com/chromium/src/+/HEAD/android_webview/docs/prerelease.md){:target="_blank" rel="nofollow"}.
 
-El programa beta de WebView es una forma para que los desarrolladores de aplicaciones obtengan WebView varias semanas antes de llegar a los usuarios, para un tiempo de espera adicional para [informar errores de compatibilidad a nuestro equipo](https://bugs.chromium.org/p/chromium/issues/entry?template=Webview+Bugs&labels=Via-WebView-Blog){:target="_blank"}.
+El programa beta de WebView es una forma para que los desarrolladores de aplicaciones obtengan WebView varias semanas antes de llegar a los usuarios, para un tiempo de espera adicional para [informar errores de compatibilidad a nuestro equipo](https://bugs.chromium.org/p/chromium/issues/entry?template=Webview+Bugs&labels=Via-WebView-Blog){:target="_blank" rel="nofollow"}.
 
 A partir de la versión de hoy (M83), WebView Beta incluye un icono de iniciador para WebView DevTools. Simplemente busque el ícono de engranaje de WebView azul y gris para comenzar a depurar WebView en su aplicación.
 
@@ -59,7 +59,7 @@ Inspirado por la herramienta ```chrome://flags``` de Google Chrome, que permite 
 
 Para comenzar, abra WebView DevTools, toque "flags", habilite o deshabilite las funciones disponibles, luego cierre y reinicie la aplicación basada en WebView que está probando. El uso de WebView DevTools nos ayudará a trabajar juntos para identificar al culpable y poder revertirlo.
 
-Esperamos que encuentre útiles las herramientas de desarrollo de WebView para informar fallas y realizar pruebas con las nuevas características de WebView. Instale WebView Beta hoy para comenzar a usar WebView DevTools y consulte [la guía del usuario](https://chromium.googlesource.com/chromium/src/+/HEAD/android_webview/docs/developer-ui.md){:target="_blank"} para obtener más sugerencias y trucos.
+Esperamos que encuentre útiles las herramientas de desarrollo de WebView para informar fallas y realizar pruebas con las nuevas características de WebView. Instale WebView Beta hoy para comenzar a usar WebView DevTools y consulte [la guía del usuario](https://chromium.googlesource.com/chromium/src/+/HEAD/android_webview/docs/developer-ui.md){:target="_blank" rel="nofollow"} para obtener más sugerencias y trucos.
 
 
 ### Relacionados

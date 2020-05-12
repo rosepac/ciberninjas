@@ -47,7 +47,7 @@ Estas son algunas de las características clave de la herramienta:
 - Soporte de bases de datos relacionales de múltiples proveedores
 - Integración con otros productos SolarWinds
 
-[⬇ Descarga Versión Gratuita](https://www.solarwinds.com/database-performance-analyzer/registration?){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⬇ Enlace Alternativo](https://www.solarwinds.com/free-tools/database-performance-analyzer-free){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/sql-mejores-herramientas-2020/#herramientas){: .btn .btn--inverse .btn--large .align-center}
+[⬇ Descarga Versión Gratuita](https://www.solarwinds.com/database-performance-analyzer/registration?){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⬇ Enlace Alternativo](https://www.solarwinds.com/free-tools/database-performance-analyzer-free){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/sql-mejores-herramientas-2020/#herramientas){: .btn .btn--inverse .btn--large .align-center}
 
 ## SQLGrease
 
@@ -64,7 +64,7 @@ A continuación se muestra un breve resumen del tipo de información que SQLGrea
 - Tempdb llena
 - Instantáneas de sesión
 
-[⬇ Descargar](https://sqlgrease.com/Home/PricingOptions?){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/sql-mejores-herramientas-2020/#herramientas){: .btn .btn--inverse .btn--large .align-center}
+[⬇ Descargar](https://sqlgrease.com/Home/PricingOptions?){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/sql-mejores-herramientas-2020/#herramientas){: .btn .btn--inverse .btn--large .align-center}
 
 ## Foglight
 
@@ -77,7 +77,7 @@ Estas son las cosas más importantes que puedes realizar con Foglight:
 - Predecir y solucionar problemas
 - Aumenta la salud de tu entorno de base de datos
 
-[⬇ Descargar](https://www.quest.com/register/55612/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/sql-mejores-herramientas-2020/#herramientas){: .btn .btn--inverse .btn--large .align-center}
+[⬇ Descargar](https://www.quest.com/register/55612/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/sql-mejores-herramientas-2020/#herramientas){: .btn .btn--inverse .btn--large .align-center}
 
 ## RedGate
 
@@ -89,7 +89,7 @@ En la industria, es necesario asegurarse de que los equipos de operaciones tenga
 - Identificar y responder a problemas de rendimiento relacionados con la implementación.
 - Mantener a los clientes contentos y sus datos seguros.
 
-[⬇ Descargar](https://www.red-gate.com/products/dba/sql-monitor/entrypage/improve-your-deployment-performance){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/sql-mejores-herramientas-2020/#herramientas){: .btn .btn--inverse .btn--large .align-center}
+[⬇ Descargar](https://www.red-gate.com/products/dba/sql-monitor/entrypage/improve-your-deployment-performance){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/sql-mejores-herramientas-2020/#herramientas){: .btn .btn--inverse .btn--large .align-center}
 
 ## Melissa
 
@@ -101,7 +101,7 @@ Esto es lo que podemos lograr fácilmente con esta herramienta:
 - Fácilmente a bordo, aplique estándares, aplique reglas, limpie y enriquezca Big Data
 - Ejecute la calidad de los datos en las instalaciones y en la nube
 
-[⬇ Descargar](https://www.melissa.com/pricing/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"} [⏫ Regresar al Inicio](/sql-mejores-herramientas-2020/#herramientas){: .btn .btn--inverse .btn--large .align-center}
+[⬇ Descargar](https://www.melissa.com/pricing/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/sql-mejores-herramientas-2020/#herramientas){: .btn .btn--inverse .btn--large .align-center}
 
 Estas son las herramientas más recomendables de usar para una múltiple variedad de tareas. Además, puedes avisarme si utilizas alguna otra y compartir así, tu experiencia conmigo; a través de Twitter o Facebook. 
 

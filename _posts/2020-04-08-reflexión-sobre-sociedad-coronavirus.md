@@ -32,7 +32,7 @@ Si la educación, en España. En concreto. Era de por si, una educación
 
 ## Prensa
 
-La prensa sigue a su rollo, siguen haciendo negocio; [incluso de los muertos](https://www.marca.com/tiramillas/actualidad/2020/04/08/5e8d7b23268e3e706f8b45f0.html){:target="_blank"} eso sí. Jamás, utilizan marca de agua a excepción de hoy, por si las moscas.
+La prensa sigue a su rollo, siguen haciendo negocio; [incluso de los muertos](https://www.marca.com/tiramillas/actualidad/2020/04/08/5e8d7b23268e3e706f8b45f0.html){:target="_blank" rel="nofollow"} eso sí. Jamás, utilizan marca de agua a excepción de hoy, por si las moscas.
 
 En fin..
 

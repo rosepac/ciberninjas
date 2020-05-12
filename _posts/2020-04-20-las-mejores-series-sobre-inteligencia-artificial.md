@@ -84,7 +84,7 @@ Hasta aquí el contenido que he visto. Así que ya no te sabría indicar bien. S
 - Epílogo película "El Plan"
 --------------------------
 
-[Todas las Películas](https://www.megadede.com/search/Battlestar%20Galactica){:target="_blank"}
+[Todas las Películas](https://www.megadede.com/search/Battlestar%20Galactica){:target="_blank" rel="nofollow"}
 
 <!-- 10 series populares sobre inteligencia artificial: https://www.analyticsvidhya.com/blog/2016/01/10-popular-tv-shows-data-science-artificial-intelligence/ -->
 <!-- 20 mejores serie de netflix de 2019 https://www.youtube.com/watch?v=9HGN2LsCwj0 -->

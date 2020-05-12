@@ -30,11 +30,11 @@ Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un 
 
 ## Montaje y Pruebas
 
-* [Supercarga las páginas de GitHub con Jekyll y Travis CI](https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075){:target="_blank"}
+* [Supercarga las páginas de GitHub con Jekyll y Travis CI](https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075){:target="_blank" rel="nofollow"}
 
 ## SEO
 
-* [Cómo usar Jekyll como un profesional: Mejorar el SEO](https://codeburst.io/use-jekyll-like-a-pro-improving-seo-c8cfb81781b7){:target="_blank"}
+* [Cómo usar Jekyll como un profesional: Mejorar el SEO](https://codeburst.io/use-jekyll-like-a-pro-improving-seo-c8cfb81781b7){:target="_blank" rel="nofollow"}
 
 ## Plantilla de Minimal Mistakes
 
@@ -152,9 +152,9 @@ Un CMS o Gestor de Contenidos es un software creado para poder ayudarte a la hor
 
 En el caso de Jekyll, no es que existan grandes CMS, más si existen variopintas posibilidades de gestionarlo si es que no deseas introducirte demasiado a crear absolutamente todo desde cero.
 
-En mi caso, decidí utilizar [Forestry](https://www.forestry.io){:target="_blank"} puesto qu es gratuito y permite gestionar el contenido desde una interfaz totalmente minimalista; además de ofrecer la posibilidad de generar plantillas para las diferentes entradas futuras que se deseen ir realizando; a lo que denominan _front matter._
+En mi caso, decidí utilizar [Forestry](https://www.forestry.io){:target="_blank" rel="nofollow"} puesto qu es gratuito y permite gestionar el contenido desde una interfaz totalmente minimalista; además de ofrecer la posibilidad de generar plantillas para las diferentes entradas futuras que se deseen ir realizando; a lo que denominan _front matter._
 
-[Soluciones de CMS para Jekyll](https://jekyllthemes.io/resources/jekyll-hosting-and-cms-solutions){:target="_blank"} en esta publicación puedes encontrar el mejor lugar para alojar tu sitio Jekyll o hacer que tu sitio web estático sea editable con estos excelentes servicios de administración de contenido.
+[Soluciones de CMS para Jekyll](https://jekyllthemes.io/resources/jekyll-hosting-and-cms-solutions){:target="_blank" rel="nofollow"} en esta publicación puedes encontrar el mejor lugar para alojar tu sitio Jekyll o hacer que tu sitio web estático sea editable con estos excelentes servicios de administración de contenido.
 
 ### Prose.io
 
@@ -166,21 +166,21 @@ Otro por menor, que te va a surgir a la hora de su utilización; es que deberas 
 
 ### Forestry, Enlaces Directos
 
-* [Documentación Completa](https://forestry.io/docs/welcome "Forestry: Documentación Completa"){:target="_blank"}
-* [Edición](https://forestry.io/docs/editing "Forestry: Edición"){:target="_blank"}
-* [Plantillas](https://forestry.io/docs/settings/front-matter-templates "Forestry: Plantillas"){:target="_blank"}
-* [Campos/Fields](https://forestry.io/docs/settings/fields/#text "Campos/Fields, utilizados en las plantillas de Forestry "){:target="_blank"}, utilizados en las plantillas
-* [Snippets](https://forestry.io/docs/settings/snippets "Forestry: Snippets"){:target="_blank"} similar a los "shortcodes" de Wordpress
+* [Documentación Completa](https://forestry.io/docs/welcome "Forestry: Documentación Completa"){:target="_blank" rel="nofollow"}
+* [Edición](https://forestry.io/docs/editing "Forestry: Edición"){:target="_blank" rel="nofollow"}
+* [Plantillas](https://forestry.io/docs/settings/front-matter-templates "Forestry: Plantillas"){:target="_blank" rel="nofollow"}
+* [Campos/Fields](https://forestry.io/docs/settings/fields/#text "Campos/Fields, utilizados en las plantillas de Forestry "){:target="_blank" rel="nofollow"}, utilizados en las plantillas
+* [Snippets](https://forestry.io/docs/settings/snippets "Forestry: Snippets"){:target="_blank" rel="nofollow"} similar a los "shortcodes" de Wordpress
 
 ### CloudCannon
 
-* [El CMS en la Nube para Jekyll](https://cloudcannon.com/){:target="_blank"}
+* [El CMS en la Nube para Jekyll](https://cloudcannon.com/){:target="_blank" rel="nofollow"}
 
 ## 🔄 Plugins de Importación
 
 Si deseas transportar tus datos de Wordpress a Jekyll, es posible que puedas terminar por volverte loco, puesto que a pesar de que existe un método que debería de ser sencillo desde la propia página de documentación de Jekyll; yo no he logrado hacerlo funcionar; por tanto decidí buscar alguna fórmula alternativa.
 
-En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Jekyll](https://github.com/FablabLannion/wordpress2jekyll){:target="_blank"}. Es bastante viejo, pero es lo único que me ha ayudado a guardar mi antiguo contenido hasta que pueda ir realojandolo dentro de mi nuevo blog.
+En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Jekyll](https://github.com/FablabLannion/wordpress2jekyll){:target="_blank" rel="nofollow"}. Es bastante viejo, pero es lo único que me ha ayudado a guardar mi antiguo contenido hasta que pueda ir realojandolo dentro de mi nuevo blog.
 
 ## 🔗 Enlaces Externos
 
@@ -188,60 +188,60 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 
 ### Enlaces de Chuletas
 
-* [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/ "Chuleta de todos los emoticonos suportados dentro de la Gema de Ruby Gemoji"){:target="_blank"}: Lista de Emojis / Emoticonos que pueden ser usados al estilo de los emoticones de Github :+1:
+* [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/ "Chuleta de todos los emoticonos suportados dentro de la Gema de Ruby Gemoji"){:target="_blank" rel="nofollow"}: Lista de Emojis / Emoticonos que pueden ser usados al estilo de los emoticones de Github :+1:
 
 ### 🛒 Comercio Electrónico
 
-* [Snipcart + Jekyll](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll "Snipcart, es un pequeño sistema de getión de comercios electrónicos que permite generar una tienda online estática"){:target="_blank"}
+* [Snipcart + Jekyll](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll "Snipcart, es un pequeño sistema de getión de comercios electrónicos que permite generar una tienda online estática"){:target="_blank" rel="nofollow"}
 
 POR INVESTIGAR
 {:notice-info}
 
 ### Lenguaje de Uso: Liquid
 
-* [¿Qué es Liquid?](https://shopify.github.io/liquid "Lenguaje generador de plantillas; seguro y orientado al cliente para aplicaciones web flexibles."){:target="_blank"}
-* [Versión de Liquid, usada por Github Pages](https://www.rubydoc.info/gems/liquid/2.2.2/Liquid/StandardFilters "Versión 2.2 la que utilizan desde Github Páginas en la actualidad"){:target="_blank"}
+* [¿Qué es Liquid?](https://shopify.github.io/liquid "Lenguaje generador de plantillas; seguro y orientado al cliente para aplicaciones web flexibles."){:target="_blank" rel="nofollow"}
+* [Versión de Liquid, usada por Github Pages](https://www.rubydoc.info/gems/liquid/2.2.2/Liquid/StandardFilters "Versión 2.2 la que utilizan desde Github Páginas en la actualidad"){:target="_blank" rel="nofollow"}
 
 ### Plugins de Jekyll
 
 Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir añadiéndole diferentes acciones o pedazos de código que vayan ejecutando diferentes opciones.
 
-* [Github: Jekyll - Twitter](https://github.com/rob-murray/jekyll-twitter-plugin "Plugin que permite trabajar a la API de Twitter desde Jekyll"){:target="_blank"}
-* [Algoria: Paso a Paso](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#algolia){:target="_blank"}
-* [Instalar Buscador Algoria + Travis CI](https://community.algolia.com/jekyll-algolia/github-pages.html){:target="_blank"}
+* [Github: Jekyll - Twitter](https://github.com/rob-murray/jekyll-twitter-plugin "Plugin que permite trabajar a la API de Twitter desde Jekyll"){:target="_blank" rel="nofollow"}
+* [Algoria: Paso a Paso](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#algolia){:target="_blank" rel="nofollow"}
+* [Instalar Buscador Algoria + Travis CI](https://community.algolia.com/jekyll-algolia/github-pages.html){:target="_blank" rel="nofollow"}
 
 ### 🎨 Temas de Jekyll
 
-* [Beautifull Jekyll](https://deanattali.com/beautiful-jekyll/ "Plantilla Hermosa y Sencilla de Jekyll para perfiles personales o portfolios, blogs sencillos"){:target="_blank"}
-* [Agregar un tema Jekyll](https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser "Agregar un tema o plantilla a tu página web creada con Jekyll y las Páginas de Github"){:target="_blank"} en Github Pages, con el Selector de temas de Jekyll
-* [Plantilla de Documentación Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/index.html "Plantilla de Documentación de Jekyll con diferentes Layouts"){:target="_blank"}
+* [Beautifull Jekyll](https://deanattali.com/beautiful-jekyll/ "Plantilla Hermosa y Sencilla de Jekyll para perfiles personales o portfolios, blogs sencillos"){:target="_blank" rel="nofollow"}
+* [Agregar un tema Jekyll](https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser "Agregar un tema o plantilla a tu página web creada con Jekyll y las Páginas de Github"){:target="_blank" rel="nofollow"} en Github Pages, con el Selector de temas de Jekyll
+* [Plantilla de Documentación Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/index.html "Plantilla de Documentación de Jekyll con diferentes Layouts"){:target="_blank" rel="nofollow"}
 
 ### 📹 Videotutoriales
 
-* [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso"){:target="_blank"}
+* [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso"){:target="_blank" rel="nofollow"}
 
 ## 🕵️‍♂️ Enlaces por Investigar y Organizar
 
-* [Jekyll Paginación 2](https://github.com/sverrirs/jekyll-paginate-v2){:target="_blank"}
-* [GDPR](https://github.com/mmistakes/minimal-mistakes/issues/1867#issuecomment-440663127){:target="_blank"} o como cumplir la legislación de Cookies de la Unión Europea.
-* [Configurar plantilla, buscador.. Y otros Ajustes del Tema](https://mmistakes.github.io/minimal-mistakes/docs/configuration "Configuración de la Plantilla"){:target="_blank"} (- por revisar la implementación de un mejor buscador ¿Algabia? y ajustar algunos otros distintos parámetros -)
+* [Jekyll Paginación 2](https://github.com/sverrirs/jekyll-paginate-v2){:target="_blank" rel="nofollow"}
+* [GDPR](https://github.com/mmistakes/minimal-mistakes/issues/1867#issuecomment-440663127){:target="_blank" rel="nofollow"} o como cumplir la legislación de Cookies de la Unión Europea.
+* [Configurar plantilla, buscador.. Y otros Ajustes del Tema](https://mmistakes.github.io/minimal-mistakes/docs/configuration "Configuración de la Plantilla"){:target="_blank" rel="nofollow"} (- por revisar la implementación de un mejor buscador ¿Algabia? y ajustar algunos otros distintos parámetros -)
 
-* [Jekyll Guía SEO](https://jsinibardy.com/optimize-seo-jekyll){:target="_blank"}
-* [Jekyll Comenzando](https://terminaladdict.com/linux/jekyll/bash/development/2018/10/17/Jekyll-Getting-Started.html "Jekyll comenzando, publicación creada en el blog Terminal Adicto"){:target="_blank"} (terminaladdict.com)
-  * [Usando Jekyll 2017](https://mademistakes.com/articles/using-jekyll-2017 "Usando Jekyl 2017. Cómo ir creando una plantilla por completo, paso a paso"){:target="_blank"}
-    * [Menú de Navegación](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/ "Cómo crear un menú de navegación en un blog estático con Jekyll"){:target="_blank"} - Jekyll Plugins con los que generar una plantilla.. ([jekyll-picture-tag](https://github.com/robwierzbowski/jekyll-picture-tag){:target="_blank"}, [sort_name](https://github.com/mmistakes/made-mistakes-jekyll/blob/master/src/_plugins/sort_name.rb){:target="_blank"}, [jekyll-archives](https://github.com/jekyll/jekyll-archives){:target="_blank"}, [jekyll-assets](https://github.com/jekyll/jekyll-assets){:target="_blank"}, [jekyll/tagging](https://github.com/pattex/jekyll-tagging){:target="_blank"}, [jekyll-tagging-related_posts](https://github.com/toshimaru/jekyll-tagging-related_posts){:target="_blank"}, [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap){:target="_blank"}, [jemoji](https://github.com/jekyll/jemoji){:target="_blank"}, [jekyll-category-post-navigation](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/){:target="_blank"}, and [jekyll-typogrify](https://github.com/myles/jekyll-typogrify){:target="_blank"}.)
-* [FULL Contenido de Publicación](https://mmistakes.github.io/minimal-mistakes/year-archive/ "Los trucos necesarios para generar una plantilla bien implementada sobre Jekyll"){:target="_blank"}, de mi Plantilla Minimal Mistake
-* [Documentación Plantilla Minimal Mistake](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide "Documentación de la plantilla Minimal Mistake para Jekyll, paso a paso todas las pautas para su funcionamiento"){:target="_blank"} [Layout: Sidebar + Menú](https://mmistakes.github.io/minimal-mistakes/layout-sidebar-nav-list){:target="_blank"}
-* [Cómo crear Colecciones con Jekyll](https://jekyllrb.com/docs/collections "Crear colecciones con Jekyll"){:target="_blank"} (jekyllrb.com)
-  * [Cómo crear Colecciones con Jekyll](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Jekyll con la plantilla Minimal Mistake"){:target="_blank"} (..en Plantilla Minimal Mistake)
+* [Jekyll Guía SEO](https://jsinibardy.com/optimize-seo-jekyll){:target="_blank" rel="nofollow"}
+* [Jekyll Comenzando](https://terminaladdict.com/linux/jekyll/bash/development/2018/10/17/Jekyll-Getting-Started.html "Jekyll comenzando, publicación creada en el blog Terminal Adicto"){:target="_blank" rel="nofollow"} (terminaladdict.com)
+  * [Usando Jekyll 2017](https://mademistakes.com/articles/using-jekyll-2017 "Usando Jekyl 2017. Cómo ir creando una plantilla por completo, paso a paso"){:target="_blank" rel="nofollow"}
+    * [Menú de Navegación](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/ "Cómo crear un menú de navegación en un blog estático con Jekyll"){:target="_blank" rel="nofollow"} - Jekyll Plugins con los que generar una plantilla.. ([jekyll-picture-tag](https://github.com/robwierzbowski/jekyll-picture-tag){:target="_blank" rel="nofollow"}, [sort_name](https://github.com/mmistakes/made-mistakes-jekyll/blob/master/src/_plugins/sort_name.rb){:target="_blank" rel="nofollow"}, [jekyll-archives](https://github.com/jekyll/jekyll-archives){:target="_blank" rel="nofollow"}, [jekyll-assets](https://github.com/jekyll/jekyll-assets){:target="_blank" rel="nofollow"}, [jekyll/tagging](https://github.com/pattex/jekyll-tagging){:target="_blank" rel="nofollow"}, [jekyll-tagging-related_posts](https://github.com/toshimaru/jekyll-tagging-related_posts){:target="_blank" rel="nofollow"}, [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap){:target="_blank" rel="nofollow"}, [jemoji](https://github.com/jekyll/jemoji){:target="_blank" rel="nofollow"}, [jekyll-category-post-navigation](http://ajclarkson.co.uk/blog/jekyll-category-post-navigation/){:target="_blank" rel="nofollow"}, and [jekyll-typogrify](https://github.com/myles/jekyll-typogrify){:target="_blank" rel="nofollow"}.)
+* [FULL Contenido de Publicación](https://mmistakes.github.io/minimal-mistakes/year-archive/ "Los trucos necesarios para generar una plantilla bien implementada sobre Jekyll"){:target="_blank" rel="nofollow"}, de mi Plantilla Minimal Mistake
+* [Documentación Plantilla Minimal Mistake](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide "Documentación de la plantilla Minimal Mistake para Jekyll, paso a paso todas las pautas para su funcionamiento"){:target="_blank" rel="nofollow"} [Layout: Sidebar + Menú](https://mmistakes.github.io/minimal-mistakes/layout-sidebar-nav-list){:target="_blank" rel="nofollow"}
+* [Cómo crear Colecciones con Jekyll](https://jekyllrb.com/docs/collections "Crear colecciones con Jekyll"){:target="_blank" rel="nofollow"} (jekyllrb.com)
+  * [Cómo crear Colecciones con Jekyll](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-collection "Cómo crear el layout o plantilla necesarios para generar colecciones de múltiples elementos dentro de Jekyll con la plantilla Minimal Mistake"){:target="_blank" rel="nofollow"} (..en Plantilla Minimal Mistake)
 * [Kramdown](https://kramdown.gettalong.org/converter/html.html "Kramdown, la librería de código de Ruby que implementa acciones desde el código a través de Markdown") (librería de Ruby, que permite implementar índices entre otras muchas cosas)
 * [Foro de Jekyll](https://talk.jekyllrb.com/ "El foro más grande que he encontrado sobre Jekyll")
-* [Buscador con Entradas sobre Jekyll](https://codeday.me/es){:target="_blank"}
-* [WebJeda](https://blog.webjeda.com/optimize-jekyll-seo){:target="_blank"} Muchos contenidos y entradas en relación a Jekyll.
-* [Enlaces nofollow en Jekyll - SEO](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/){:target="_blank"}
-* [Crear desplegables](https://github.com/deepchar/deepchar.github.io){:target="_blank"} [1](https://github.community/t5/GitHub-Pages/Collapsible-markdown-inside-lt-details-gt-lt-summary-gt-lt/m-p/13838#M1090){:target="_blank"}
-* [Ordenar Páginas en Jekyll](https://stackoverflow.com/questions/41087699/jekyll-how-to-change-the-default-ordering-of-collections){:target="_blank"}
-* [Crear listado con las publicaciones de una categoría .yml](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category){:target="_blank"}
+* [Buscador con Entradas sobre Jekyll](https://codeday.me/es){:target="_blank" rel="nofollow"}
+* [WebJeda](https://blog.webjeda.com/optimize-jekyll-seo){:target="_blank" rel="nofollow"} Muchos contenidos y entradas en relación a Jekyll.
+* [Enlaces nofollow en Jekyll - SEO](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/){:target="_blank" rel="nofollow"}
+* [Crear desplegables](https://github.com/deepchar/deepchar.github.io){:target="_blank" rel="nofollow"} [1](https://github.community/t5/GitHub-Pages/Collapsible-markdown-inside-lt-details-gt-lt-summary-gt-lt/m-p/13838#M1090){:target="_blank" rel="nofollow"}
+* [Ordenar Páginas en Jekyll](https://stackoverflow.com/questions/41087699/jekyll-how-to-change-the-default-ordering-of-collections){:target="_blank" rel="nofollow"}
+* [Crear listado con las publicaciones de una categoría .yml](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category){:target="_blank" rel="nofollow"}
 
 **La Primera Edición de esta Guía fue Editada el**: *16 de Marzo de 2020*
 {: .notice--info}

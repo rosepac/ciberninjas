@@ -49,4 +49,4 @@ _____
 
 **Fuentes**:
 
-* [WebPageTest](https://www.webpagetest.org/){:target="_blank"}
+* [WebPageTest](https://www.webpagetest.org/){:target="_blank" rel="nofollow"}

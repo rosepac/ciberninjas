@@ -24,7 +24,7 @@ toc_sticky: true
 
 ---
 
-Facebook [anunció](https://about.fb.com/news/2019/08/off-facebook-activity/){:target="_blank"} el lanzamiento de su herramienta de [Control de Actividad fuera de Facebook](https://www.facebook.com/off_facebook_activity/){:target="_blank"} (introducida con anterioridad como ["Borrador de historial"](https://www.facebook.com/zuck/posts/10104899855107881) hace casi dos años.
+Facebook [anunció](https://about.fb.com/news/2019/08/off-facebook-activity/){:target="_blank" rel="nofollow"} el lanzamiento de su herramienta de [Control de Actividad fuera de Facebook](https://www.facebook.com/off_facebook_activity/){:target="_blank" rel="nofollow"} (introducida con anterioridad como ["Borrador de historial"](https://www.facebook.com/zuck/posts/10104899855107881) hace casi dos años.
 
 Las herramientas muestran una lista de aplicaciones, sitios web y empresas que Facebook sabe que has visitado a través de sus [herramientas comerciales](https://www.facebook.com/help/331509497253087?helpref=faq_content) (incluido el inicio de sesión de Facebook, el seguimiento de Facebook Píxel, los widgets sociales como los botones Me gusta, Compartir y otras características menos visibles para los desarrolladores).
 

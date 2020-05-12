@@ -40,26 +40,26 @@ ELAN es desarrollado por el Instituto Max Planck de Psicolingüística en Nijmeg
 
 ## Enlaces Externos
 
-- [Official website](https://kutt.it/software-elan-web){:target="_blank"}
-- [ELAN recursos de terceros](https://kutt.it/software-elan-recursos-terceros){:target="_blank"} (Templates, Scripts, Tools, Flujos de Trabajo de Descripciones, HowTos)
+- [Official website](https://kutt.it/software-elan-web){:target="_blank" rel="nofollow"}
+- [ELAN recursos de terceros](https://kutt.it/software-elan-recursos-terceros){:target="_blank" rel="nofollow"} (Templates, Scripts, Tools, Flujos de Trabajo de Descripciones, HowTos)
 - Manuales:
-	- [Hellwig, B. (2017): ELAN - Anotador Lingüístico (Manual)](http://www.mpi.nl/corpus/manuals/manual-elan.pdf){:target="_blank"}
-	- [RedHenLab (2016). Cómo anotar con ELAN (Tutorial)](http://www.redhenlab.org/home/tutorials-and-educational-resources/-how-to-annotate-with-elan){:target="_blank"}
-	- [Rosenfelder, I. (2011): Una breve introducción a la transcripción con ELAN](http://fave.ling.upenn.edu/downloads/ELAN_Introduction.pdf){:target="_blank"}
-	- [Colletta J.M. (2009): Manual de Codificación – Transcripción y Anotación de Datos Multimodales con ELAN](http://lidilem.u-grenoble3.fr/IMG/pdf/anrmultimodalityresearch-codingmanual.pdf){:target="_blank"}
+	- [Hellwig, B. (2017): ELAN - Anotador Lingüístico (Manual)](http://www.mpi.nl/corpus/manuals/manual-elan.pdf){:target="_blank" rel="nofollow"}
+	- [RedHenLab (2016). Cómo anotar con ELAN (Tutorial)](http://www.redhenlab.org/home/tutorials-and-educational-resources/-how-to-annotate-with-elan){:target="_blank" rel="nofollow"}
+	- [Rosenfelder, I. (2011): Una breve introducción a la transcripción con ELAN](http://fave.ling.upenn.edu/downloads/ELAN_Introduction.pdf){:target="_blank" rel="nofollow"}
+	- [Colletta J.M. (2009): Manual de Codificación – Transcripción y Anotación de Datos Multimodales con ELAN](http://lidilem.u-grenoble3.fr/IMG/pdf/anrmultimodalityresearch-codingmanual.pdf){:target="_blank" rel="nofollow"}
 
-**Desarrollador**: [The Language Archive](https://tla.mpi.nl/ "Página web oficial del software ELAN"){:target="_blank"}
+**Desarrollador**: [The Language Archive](https://tla.mpi.nl/ "Página web oficial del software ELAN"){:target="_blank" rel="nofollow"}
 {: .notice--primary}
 
-**Licencia**: [GPLv3](https://es.wikipedia.org/wiki/GNU_General_Public_License#Versi%C3%B3n_3){:target="_blank"}
+**Licencia**: [GPLv3](https://es.wikipedia.org/wiki/GNU_General_Public_License#Versi%C3%B3n_3){:target="_blank" rel="nofollow"}
 {: .notice--primary}
 
-**Sitio Web**: [https://tla.mpi.nl/tools/tla-tools/elan/](https://tla.mpi.nl/tools/tla-tools/elan/ "Página web oficial del software ELAN"){:target="_blank"}
+**Sitio Web**: [https://tla.mpi.nl/tools/tla-tools/elan/](https://tla.mpi.nl/tools/tla-tools/elan/ "Página web oficial del software ELAN"){:target="_blank" rel="nofollow"}
 {: .notice--primary}
 
 <!-- POR TRADUCIR: https://en.wikipedia.org/wiki/ALGOL_68 -->
 **Categorías**: Software de Investigación Lingüistica
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Elan - Software](https://en.wikipedia.org/wiki/ELAN_software){:target="_blank"} de la Wikipedia en inglés, versión del 22 de enero de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=ELAN_software&action=history){:target="_blank"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank"}.
+**INF.**: Esta obra contiene una traducción total derivada de [Elan - Software](https://en.wikipedia.org/wiki/ELAN_software){:target="_blank" rel="nofollow"} de la Wikipedia en inglés, versión del 22 de enero de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=ELAN_software&action=history){:target="_blank" rel="nofollow"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow"}.
 {: .notice--info}

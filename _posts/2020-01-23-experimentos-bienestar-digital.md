@@ -48,7 +48,7 @@ Conozca cuánto tiempo pasa en su teléfono cada día.
 
 Screen Stopwatch le dice cuánto tiempo pasa en su teléfono cada día. Cada vez que desbloqueas tu teléfono, el cronómetro sigue contando.
 
-[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.screenstopwatch){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.screenstopwatch){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## Activity Bubbles / Búrbujas de Actividad
 
@@ -58,7 +58,7 @@ Descubre cómo se ve el uso de tu teléfono.
 
 Activity Bubbles te ayuda a descubrir cómo se ve el uso de tu teléfono en un día. Cada desbloqueo crea una nueva burbuja. Cuanto más tiempo permanezca en su teléfono, más grande será la burbuja.
 
-[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.activitybubbles){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.activitybubbles){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## Envelope / Sobre
 
@@ -74,8 +74,8 @@ Los botones impresos que se iluminan sutilmente le permiten marcar y tomar fotog
 
 Queríamos crear una versión más accesible de esto, que permitiera a las personas probar un día sin un teléfono sin comprometerse a comprar un nuevo dispositivo. Puede descargar este pdf e imprimirlo para hacer su propio sobre ahora mismo. Actualmente solo admitimos Google Pixel 3a. Puede descargar la aplicación en Play Store, y todo el código está disponible en Github.
 
-[👉 Página Web 📩](http://specialprojects.studio/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
-[👉 Repositorio Github <i class="fab fa-github"></i>](https://github.com/specialprojects-experiments/envelope#envelope){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[👉 Página Web 📩](http://specialprojects.studio/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[👉 Repositorio Github <i class="fab fa-github"></i>](https://github.com/specialprojects-experiments/envelope#envelope){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## Anchor / Ancla
 
@@ -89,13 +89,13 @@ Estamos pensando que esto podría adaptarse y expandirse fácilmente (¡por uste
 
 Piense en explorar cuevas, lanzarse en paracaídas, excavar hasta el centro de la Tierra ... Todo nuestro código está disponible en GitHub para que juegue y evolucione. Pruebe nuestro pequeño experimento y vea cómo es desplazarse hasta el fondo del océano.
 
-[👉 Repositorio Github <i class="fab fa-github"></i>](https://github.com/benjchan/Anchor#anchor){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[👉 Repositorio Github <i class="fab fa-github"></i>](https://github.com/benjchan/Anchor#anchor){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## Paper Phone / Teléfono de Papel
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/hgKRL4-ADO0?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.desertisland){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.desertisland){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## Desert Island / Isla Desierta
 
@@ -105,7 +105,7 @@ Encuentra el foco yendo un día solo con tus aplicaciones esenciales.
 
 Desert Island te ayuda a encontrar el foco, desafiándote a pasar un día solo con tus aplicaciones esenciales. Simplemente elija las aplicaciones que sean más importantes para usted y luego pruébelo durante 24 horas.
 
-[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.desertisland){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.desertisland){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## Unlock Clock / Desbloqueo de Reloj
 
@@ -117,7 +117,7 @@ Desbloquear reloj te ayuda a considerar su uso tecnológico, contando y mostrand
 
 Este experimento no aparecerá como una aplicación. Una vez descargado de Play Store, puede encontrarlo en su biblioteca Live Wallpaper.
 
-[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.unlockclock){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.unlockclock){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## Morph
 
@@ -127,7 +127,7 @@ Manténgase enfocado obteniendo las aplicaciones correctas en el momento correct
 
 Morph te ayuda a mantenerte enfocado, adaptando tu teléfono a lo que estás haciendo. Simplemente piense en cómo divide su tiempo y elija las aplicaciones que son más importantes para usted en cada modo. Según el tiempo o el lugar, su teléfono se adaptará automáticamente, brindándole las aplicaciones adecuadas en el momento adecuado.
 
-[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.morph){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.morph){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## Post Box / Buzón
 
@@ -138,7 +138,7 @@ Minimice las distracciones con notificaciones programadas.
 
 Post Box te ayuda a minimizar las distracciones al retener sus notificaciones hasta el momento que más le convenga. Simplemente elija con qué frecuencia desea que se envíen sus notificaciones. Cuando lleguen, estarán perfectamente organizados para que los atravieses. Tenga en cuenta que, dependiendo del modelo de su dispositivo, también se pueden retener funciones como llamadas telefónicas y alarmas.
 
-[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.postbox){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.postbox){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ## We Flip / Voltéame
 
@@ -148,12 +148,12 @@ Pase tiempo de calidad juntos desconectándose de la tecnología como grupo.
 
 We Flip te permite desconectarse de la tecnología como grupo, para pasar tiempo de calidad juntos. Simplemente espere a que todos se unan, luego active el interruptor para comenzar su sesión. Si alguien en el grupo se desbloquea, la sesión finalizará y podrás ver cómo lo hiciste.
 
-[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.weflip){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.weflip){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 _____
 
 **Fuentes**:
 
-* [Experimentos de Google](https://experiments.withgoogle.com/collection/digitalwellbeing){:target="_blank"}
+* [Experimentos de Google](https://experiments.withgoogle.com/collection/digitalwellbeing){:target="_blank" rel="nofollow"}
 
-[👉 Repositorio de Github <i class="fab fa-github"></i>](https://github.com/googlecreativelab/digital-wellbeing-experiments-toolkit#digital-wellbeing-experiments-toolkit){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[👉 Repositorio de Github <i class="fab fa-github"></i>](https://github.com/googlecreativelab/digital-wellbeing-experiments-toolkit#digital-wellbeing-experiments-toolkit){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}

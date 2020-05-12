@@ -61,7 +61,7 @@ A medida que las bases de datos se vuelven más voluminosas y complejas, las pla
 
 Con solo mirar la tipología, uno se da cuenta de que la base de datos no es un mundo al alcance de todos. Sin embargo, nos hemos atrevido a compilar algunos de los mejores programas gratuitos de bases de datos.
 
-## **[1. MariaDB](){:target="_blank"}**
+## **[1. MariaDB](){:target="_blank" rel="nofollow"}**
 
 MariaDB es uno de los servidores de bases de datos más populares del mundo. La solución fue desarrollada por los creadores originales de código abierto MySQL (considerada la base de datos de código abierto más importante del mundo), y es utilizada por gigantes de la tecnología como Wikipedia, WordPress o Google. Como se menciona en el sitio web MariaDB, convierte los datos en información estructurada en una amplia gama de aplicaciones, desde la banca a los sitios web. El programa es rápido, escalable y robusto, con un rico ecosistema de motores de almacenamiento, complementos y muchas otras herramientas que lo hacen muy versátil para una amplia variedad de casos de uso.
 
@@ -71,7 +71,7 @@ Según la compañía Arsys, “se puede usar en cualquier lugar donde se utiliz�
 [⏫ Regresar al Menú](/software-bases-datos-código-abierto-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[2. MySQL](){:target="_blank"}**
+## **[2. MySQL](){:target="_blank" rel="nofollow"}**
 
 MySQL ha estado en el mercado desde 1995 y actualmente es propiedad de Oracle. MySQL es un sistema de gestión de bases de datos que tiene una doble licencia. Por un lado, es de código abierto, pero por otro, tiene una versión comercial administrada por Oracle.
 
@@ -87,7 +87,7 @@ Entre las desventajas que algunos de sus usuarios comentan es el procesamiento l
 [⏫ Regresar al Menú](/software-bases-datos-código-abierto-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[3. PostgreSQL](){:target="_blank"}**
+## **[3. PostgreSQL](){:target="_blank" rel="nofollow"}**
 <!-- contenido -->
 
 PostgreSQL es un potente sistema de base de datos relacional de objetos de código abierto con más de 30 años de desarrollo activo que le ha valido una sólida reputación de fiabilidad, solidez y rendimiento. Al igual que muchos otros proyectos de código abierto, el desarrollo de PostgreSQL no lo lleva a cabo una empresa o persona específica, sino que está dirigido por una comunidad de desarrolladores.
@@ -101,7 +101,7 @@ Por el contrario, debe tenerse en cuenta que es relativamente lento insertar y a
 [⏫ Regresar al Menú](/software-bases-datos-código-abierto-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[4. MongoDB](){:target="_blank"}**
+## **[4. MongoDB](){:target="_blank" rel="nofollow"}**
 <!-- contenido -->
 
 Dentro de las bases de datos NoSQL, probablemente una de las más famosas es MongoDB. Es una base de datos NoSQL orientada a documentos de código abierto.
@@ -115,7 +115,7 @@ Sin embargo, el problema que algunos expertos señalan es el reciente cambio de 
 [⏫ Regresar al Menú](/software-bases-datos-código-abierto-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[5. SQLite](){:target="_blank"}**
+## **[5. SQLite](){:target="_blank" rel="nofollow"}**
 <!-- contenido -->
 
 Otro sistema de base de datos relacional, el código SQLite pertenece al dominio público y es gratuito para cualquier uso, ya sea comercial o privado. En su versión 3, SQLite permite bases de datos de hasta 2 terabytes de tamaño y también permite la inclusión de campos de tipo BLOB (objetos binarios grandes). Cada nuevo lanzamiento está precedido por numerosas pruebas y los usuarios se mantienen actualizados de todos los errores, lo que le da una reputación muy confiable.
@@ -127,7 +127,7 @@ La compañía se lanzó en 2000 y aunque reconocen que "el futuro siempre es dif
 [⏫ Regresar al Menú](/software-bases-datos-código-abierto-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[6. CouchBase Server](){:target="_blank"}**
+## **[6. CouchBase Server](){:target="_blank" rel="nofollow"}**
 <!-- contenido -->
 
 Couchbase Server es una base de datos gratuita creada por el proyecto Apache. No garantiza el 100% de integridad de los datos. Destaca su gran consola de administración en la que puede acceder a una gran cantidad de datos de una manera muy fácil. Está basado en la tecnología NoSQL.
@@ -137,7 +137,7 @@ Couchbase Server ofrece un rendimiento sin igual a cualquier escala, en cualquie
 [⏫ Regresar al Menú](/software-bases-datos-código-abierto-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[7. Firebird](){:target="_blank"}**
+## **[7. Firebird](){:target="_blank" rel="nofollow"}**
 
 Firebird es una base de datos relacional que ofrece muchas características estándar ANSI SQL que se ejecutan en Linux, Windows, MacOS y una variedad de plataformas Unix. Firebird ofrece una excelente concurrencia, alto rendimiento y un potente soporte de idiomas para procedimientos almacenados y disparadores. Se ha utilizado principalmente en sistemas de producción desde 1981.
 

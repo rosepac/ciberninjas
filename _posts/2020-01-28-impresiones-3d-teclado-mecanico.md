@@ -29,21 +29,21 @@ Enlaces relevantes:
 
 ### Personalizador de Thingiverse
 
-La forma más fácil (aunque no la mejor) de ejecutar este programa es iniciarlo en [el Personalizador de Thingiverse](https://www.thingiverse.com/apps/customizer/run?thing_id=2783650){:target="_blank"}. Se proporcionan explicaciones de cada opción, así como algunas variables predeterminadas. ¡Gira las variables para ver cómo cambia la tecla!
+La forma más fácil (aunque no la mejor) de ejecutar este programa es iniciarlo en [el Personalizador de Thingiverse](https://www.thingiverse.com/apps/customizer/run?thing_id=2783650){:target="_blank" rel="nofollow"}. Se proporcionan explicaciones de cada opción, así como algunas variables predeterminadas. ¡Gira las variables para ver cómo cambia la tecla!
 
 El personalizador no siempre se mantiene actualizado, por lo que recomiendo las siguientes opciones.
 
 ### Personalizador OpenSCAD
 
-Si descubre que el Personalizador de Thingiverse está agotando el tiempo de espera, pero no está técnicamente inclinado a comenzar a programar en OpenSCAD, puede buscar [el funcionamiento del personalizador de OpenSCAD](https://github.com/rsheldiii/KeyV2/wiki/Getting-the-OpenSCAD-Customizer-working){:target="_blank"}.
+Si descubre que el Personalizador de Thingiverse está agotando el tiempo de espera, pero no está técnicamente inclinado a comenzar a programar en OpenSCAD, puede buscar [el funcionamiento del personalizador de OpenSCAD](https://github.com/rsheldiii/KeyV2/wiki/Getting-the-OpenSCAD-Customizer-working){:target="_blank" rel="nofollow"}.
 
 ### OpenSCAD Proper
 
 Si tiene alguna inclinación técnica, esta es definitivamente la forma recomendada de ejecutar el código. ¡No es muy difícil!
 
-Primero, necesitará [OpenSCAD](http://www.OpenSCAD.org/downloads.html){:target="_blank"}. Recomiendo instalar la instantánea de desarrollo, ya que generalmente admiten más funciones y son relativamente estables. Las instantáneas de desarrollo se enumeran en su propia sección en la página de descargas.
+Primero, necesitará [OpenSCAD](http://www.OpenSCAD.org/downloads.html){:target="_blank" rel="nofollow"}. Recomiendo instalar la instantánea de desarrollo, ya que generalmente admiten más funciones y son relativamente estables. Las instantáneas de desarrollo se enumeran en su propia sección en la página de descargas.
 
-Después de instalar OpenSCAD, debe descargar el código y ejecutarlo. ejecutar `git clone https://github.com/rsheldiii/OpenSCAD-projects.git`si tiene git, o descargar [este zip](https://github.com/rsheldiii/OpenSCAD-projects/archive/master.zip){:target="_blank"} y extraer el directorio debería hacerlo. ¡Entonces todo lo que necesita hacer es abrir `keys.scad`con OpenSCAD y listo! Es posible editar este proyecto con un editor externo marcando Design => 'Automatic Reload and Preview' en OpenSCAD.
+Después de instalar OpenSCAD, debe descargar el código y ejecutarlo. ejecutar `git clone https://github.com/rsheldiii/OpenSCAD-projects.git`si tiene git, o descargar [este zip](https://github.com/rsheldiii/OpenSCAD-projects/archive/master.zip){:target="_blank" rel="nofollow"} y extraer el directorio debería hacerlo. ¡Entonces todo lo que necesita hacer es abrir `keys.scad`con OpenSCAD y listo! Es posible editar este proyecto con un editor externo marcando Design => 'Automatic Reload and Preview' en OpenSCAD.
 
 Todos los ejemplos a continuación suponen que está ejecutando la biblioteca en su computadora con OpenSCAD.
 
@@ -74,9 +74,9 @@ sa_row(2) 2u() key();
 
 ## Funciones modificadoras
 
-Hay una gran cantidad de funciones de soporte para personalizar sus teclas. Puede agregar un borde para imprimir más fácilmente el tallo `brimmed_stem_support`, hacer teclas de 2x2 con `2u() 2uh()`, agregar leyendas, rotar tallos y más. Todas estas funciones manipulan la configuración disponible para usted [`settings.scad`](https://github.com/rsheldiii/KeyV2/blob/master/src/settings.scad){:target="_blank"}, aunque [algunas de ellas](https://github.com/rsheldiii/KeyV2/blob/master/src/key_transformations.scad#L128){:target="_blank"} son bastante complejas.
+Hay una gran cantidad de funciones de soporte para personalizar sus teclas. Puede agregar un borde para imprimir más fácilmente el tallo `brimmed_stem_support`, hacer teclas de 2x2 con `2u() 2uh()`, agregar leyendas, rotar tallos y más. Todas estas funciones manipulan la configuración disponible para usted [`settings.scad`](https://github.com/rsheldiii/KeyV2/blob/master/src/settings.scad){:target="_blank" rel="nofollow"}, aunque [algunas de ellas](https://github.com/rsheldiii/KeyV2/blob/master/src/key_transformations.scad#L128){:target="_blank" rel="nofollow"} son bastante complejas.
 
-Estas funciones modificadoras se pueden encontrar [`key_profiles/`](https://github.com/rsheldiii/KeyV2/blob/master/src/key_profiles){:target="_blank"} para diferentes perfiles de [`key_types.scad`](https://github.com/rsheldiii/KeyV2/blob/master/src/key_types.scad){:target="_blank"} teclas , para configuraciones predefinidas para teclas comunes (barra espaciadora, desplazamiento a la izquierda, etc.), [`key_sizes.scad`](https://github.com/rsheldiii/KeyV2/blob/master/src/key_sizes.scad){:target="_blank"} para tamaños de unidades comunes y [`key_transformations.scad`](https://github.com/rsheldiii/KeyV2/blob/master/src/key_transformations.scad){:target="_blank"} para todo lo demás. Te animo a que hagas un poco de investigación, pero para obtener una lista de (la mayoría) de las funciones de ayuda con explicaciones, ¡consulta [la wiki!](https://github.com/rsheldiii/KeyV2/wiki/KeyV2-Helper-Documentation){:target="_blank"}.
+Estas funciones modificadoras se pueden encontrar [`key_profiles/`](https://github.com/rsheldiii/KeyV2/blob/master/src/key_profiles){:target="_blank" rel="nofollow"} para diferentes perfiles de [`key_types.scad`](https://github.com/rsheldiii/KeyV2/blob/master/src/key_types.scad){:target="_blank" rel="nofollow"} teclas , para configuraciones predefinidas para teclas comunes (barra espaciadora, desplazamiento a la izquierda, etc.), [`key_sizes.scad`](https://github.com/rsheldiii/KeyV2/blob/master/src/key_sizes.scad){:target="_blank" rel="nofollow"} para tamaños de unidades comunes y [`key_transformations.scad`](https://github.com/rsheldiii/KeyV2/blob/master/src/key_transformations.scad){:target="_blank" rel="nofollow"} para todo lo demás. Te animo a que hagas un poco de investigación, pero para obtener una lista de (la mayoría) de las funciones de ayuda con explicaciones, ¡consulta [la wiki!](https://github.com/rsheldiii/KeyV2/wiki/KeyV2-Helper-Documentation){:target="_blank" rel="nofollow"}.
 
 Es posible que estas funciones modificadoras no cubran todos los casos de uso; en ese caso, es posible que deba escribir SCAD usted mismo.
 
@@ -123,17 +123,17 @@ El soporte artesanal también permite *restar a los* niños haciendo `key(inset=
 
 ## Consejos y trucos
 
-¿Busca información o algo específico? puedes intentar consultar la sección de [consejos y trucos](https://github.com/rsheldiii/KeyV2/blob/master/TIPS_AND_TRICKS.md){:target="_blank"}.
+¿Busca información o algo específico? puedes intentar consultar la sección de [consejos y trucos](https://github.com/rsheldiii/KeyV2/blob/master/TIPS_AND_TRICKS.md){:target="_blank" rel="nofollow"}.
 
 ## ¿Qué pasa si quiero ser *realmente* técnico?
 
 Ahora estamos hablando!
 
-En el nivel base, este proyecto debería funcionar bien como una biblioteca intensiva de diseño de perfiles clave. cargando `src/key.scad`(aviso no s) puede modificar las variables `src/settings.scad`para crear prototipos de sus propios perfiles. `key.scad`Hay actualmente~~44~~una gran cantidad de configuraciones diferentes para ajustar, `src/settings.scad`incluido el ancho, la altura y la profundidad de la tapa del teclado, la inclinación del plato, la inclinación superior, las fuentes, el grosor de la pared, etc. Si desea ver la lista completa de configuraciones, siéntase libre de explorar el archivo: [configuraciones .scad](https://github.com/rsheldiii/KeyV2/blob/master/src/settings.scad){:target="_blank"} tiene muchos comentarios para ayudarlo a comenzar.
+En el nivel base, este proyecto debería funcionar bien como una biblioteca intensiva de diseño de perfiles clave. cargando `src/key.scad`(aviso no s) puede modificar las variables `src/settings.scad`para crear prototipos de sus propios perfiles. `key.scad`Hay actualmente~~44~~una gran cantidad de configuraciones diferentes para ajustar, `src/settings.scad`incluido el ancho, la altura y la profundidad de la tapa del teclado, la inclinación del plato, la inclinación superior, las fuentes, el grosor de la pared, etc. Si desea ver la lista completa de configuraciones, siéntase libre de explorar el archivo: [configuraciones .scad](https://github.com/rsheldiii/KeyV2/blob/master/src/settings.scad){:target="_blank" rel="nofollow"} tiene muchos comentarios para ayudarlo a comenzar.
 
 Esta biblioteca también debe ser lo suficientemente abstracta como para manejar nuevos tipos de platos, sistemas de claves, diseños de teclas, perfiles de teclas y formas de teclas, en caso de que desee diseñar sus propias teclas de estilo Typewriter, admitir teclados de resorte abrochados o diseñar algún tipo de perfil triangular. . `src/shapes.scad` `src/stems.scad`y `src/dishes.scad`todos tienen un módulo 'selector' que debería permitirle implementar sus propias creaciones junto con lo que ya existe en sus carpetas constituyentes.
 
-Si está interesado en esto, puede ser útil leer el [Diseño técnico de una](https://github.com/rsheldiii/KeyV2/wiki/Technical-Design-of-a-Keycap){:target="_blank"} página wiki de [keycap](https://github.com/rsheldiii/KeyV2/wiki/Technical-Design-of-a-Keycap){:target="_blank"}.
+Si está interesado en esto, puede ser útil leer el [Diseño técnico de una](https://github.com/rsheldiii/KeyV2/wiki/Technical-Design-of-a-Keycap){:target="_blank" rel="nofollow"} página wiki de [keycap](https://github.com/rsheldiii/KeyV2/wiki/Technical-Design-of-a-Keycap){:target="_blank" rel="nofollow"}.
 
 Aquí hay un ejemplo de cómo ajustar la configuración y el código para crear un perfil clave de 'señal de stop':
 
@@ -192,4 +192,4 @@ _____
 
 **Fuentes**:
 
-* [KeyV2: una biblioteca de teclas mecánicas paramétricas](https://github.com/rsheldiii/KeyV2#parametric-mechanical-keycap-library){:target="_blank"}
+* [KeyV2: una biblioteca de teclas mecánicas paramétricas](https://github.com/rsheldiii/KeyV2#parametric-mechanical-keycap-library){:target="_blank" rel="nofollow"}

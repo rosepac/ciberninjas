@@ -80,14 +80,14 @@ La más espectacular colección de libros científicos en pdf en inglés totalme
 - Ecología
 - Y mucho más..
 
-**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
+**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}
 
 ## **¿Qué es Springer?**
 
 Springer es una editorial encargada de impulsar las publicaciones, que lleva editando libros académicas desde 1842.
 
-El 10 de mayo de 1842 (cuando cumplió 25 años), [Julius Springer](https://kutt.it/wiki-springer){:target="_blank"}, fundó su librería y editorial en Berlín, sentando las bases de la empresa actual.
+El 10 de mayo de 1842 (cuando cumplió 25 años), [Julius Springer](https://kutt.it/wiki-springer){:target="_blank" rel="nofollow"}, fundó su librería y editorial en Berlín, sentando las bases de la empresa actual.
 
 Springer fundó la librería minorista Springer en la dirección Breite Strasse 20 (ahora número 11). Springer, junto su hijo Ferdinand, convirtieron una pequeña empresa de 4 empleados en la segunda editorial académica más importante de Alemania; llegando a tener hasta 65 empleados en tan solo 30 años.
 
@@ -100,7 +100,7 @@ Además, fue uno de los pioneros de la creación de los derecho de autor a nivel
 Después de 175 años de existencia, el nombre de Springer a tomado el significado de una editorial totalmente globalmente dedicada al avance de la ciencia, ofreciendo a sus autores y editores como centro de importancia alrededor de las actividades editoriales de la compañía.
 <!-- contenido -->
 
-**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
+**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}
 
 ## **¿Cómo descargar mi libro sobre ciencia?**
@@ -115,7 +115,7 @@ No se han incluido los enlaces directos por no sobrecargar la página web, por l
 
 ### **La opción alternativa y mucho más práctica es la de utilizar [este proyecto de Github](https://kutt.it/github-libros-ciencias){:target="blank"}**
 
-Donde han creado un script en Python para poder descargar los libros que desees, y solamente debes instalar la versión de Python más reciente y seguir [las siguientes instrucciones](https://kutt.it/github-libros-ciencias){:target="_blank"}.
+Donde han creado un script en Python para poder descargar los libros que desees, y solamente debes instalar la versión de Python más reciente y seguir [las siguientes instrucciones](https://kutt.it/github-libros-ciencias){:target="_blank" rel="nofollow"}.
 
 Aunque el método más sencillo, es tras la instalación de Python; descargar el proyecto completo de Github y ejecutar el archivo `run_VirtualEnv.bat` aunque eso, obviamente, descargará absolutamente todo.
 
@@ -123,7 +123,7 @@ El tiempo de la descarga completa puede ser de alrededor de 4 horas, un total de
 
 ## **¿Puede buscar un libro específico?**
 
-Sí, [aquí puedes encontrar](https://kutt.it/buscador-libros-ciencias){:target="_blank"} un buscador con la selección de todos los libros gratuitos, desde el que seleccionar, visualizar y elegir las ediciones que más te puedan interesar; también, puedes descargar el [archivo excel](https://kutt.it/excel-libros){:target="_blank"} de toda la lista de libros.
+Sí, [aquí puedes encontrar](https://kutt.it/buscador-libros-ciencias){:target="_blank" rel="nofollow"} un buscador con la selección de todos los libros gratuitos, desde el que seleccionar, visualizar y elegir las ediciones que más te puedan interesar; también, puedes descargar el [archivo excel](https://kutt.it/excel-libros){:target="_blank" rel="nofollow"} de toda la lista de libros.
 
 Siempre puedes usar el buscador del navegador web, a través del atajo de teclado: CNTRL + F y buscar una palabra concreta en inglés.
 
@@ -594,5 +594,5 @@ Los libros se encuentran por orden de publicación, desde más antiguos hasta m�
 
 [🥇 ▷ 5 Libros recomendados por Bill Gates, para El Día del Libro 2020](https://ciberninjas.com/los-mejores-libros-bill-gates-dia-del-libro-2020/)
 
-**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
+**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}

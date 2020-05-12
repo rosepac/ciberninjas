@@ -55,28 +55,28 @@ ___
 <a href="https://kutt.it/scribd-clasificacion-so">Clasificación de los Sistemas Operativos en Red</a>
 <a href="https://kutt.it/scribd-comandos-windows">Comandos Windows</a>
 <a href="https://kutt.it/scribd-crer-vpn-xp">Creando VPN en Windows XP</a>
-* [Funcionamiento del Comando Schtask en Windows.](https://es.scribd.com/document/346815883/Funcionamiento-de-los-comandos-schtask-en-Windows-y-at-y-crontab-en-linux){:target="_blank"}
-* [Instalar Programas en Windows. Paso a paso.](https://es.scribd.com/document/346816022/Instalar-programas-en-Windows){:target="_blank"}
-* [Software de Seguridad y su Utilización.](https://es.scribd.com/document/346788860/Software-de-seguridad-y-su-utilizacion){:target="_blank"}
-* [Wingate, funcionamiento del proxy y SSL, instalando Secure Sockets Layer.](https://es.scribd.com/document/346790045/Wingate-funcionamiento-del-proxy-y-SSL-instalando-Secure-Sockets-Layer){:target="_blank"}
+* [Funcionamiento del Comando Schtask en Windows.](https://es.scribd.com/document/346815883/Funcionamiento-de-los-comandos-schtask-en-Windows-y-at-y-crontab-en-linux){:target="_blank" rel="nofollow"}
+* [Instalar Programas en Windows. Paso a paso.](https://es.scribd.com/document/346816022/Instalar-programas-en-Windows){:target="_blank" rel="nofollow"}
+* [Software de Seguridad y su Utilización.](https://es.scribd.com/document/346788860/Software-de-seguridad-y-su-utilizacion){:target="_blank" rel="nofollow"}
+* [Wingate, funcionamiento del proxy y SSL, instalando Secure Sockets Layer.](https://es.scribd.com/document/346790045/Wingate-funcionamiento-del-proxy-y-SSL-instalando-Secure-Sockets-Layer){:target="_blank" rel="nofollow"}
 
 ___
 
 ## DISEÑO
 
-* [Recreación de Oficina sobre Floor Planner.](https://es.scribd.com/document/346791144/Oficina-recreada-a-traves-de-software-online){:target="_blank"}
+* [Recreación de Oficina sobre Floor Planner.](https://es.scribd.com/document/346791144/Oficina-recreada-a-traves-de-software-online){:target="_blank" rel="nofollow"}
 
 ___
 
 ## TRABAJOS FOL &amp; EMPRESA
 
-* [Análisis DAFO.](https://es.scribd.com/document/346790885/Analisis-DAFO){:target="_blank"}
+* [Análisis DAFO.](https://es.scribd.com/document/346790885/Analisis-DAFO){:target="_blank" rel="nofollow"}
 * Encuesta de Análisis:
-1. [Encuesta de Análisis de Mercado.](https://es.scribd.com/document/346790437/Encuesta-previa-creacion-de-una-nueva-empresa){:target="_blank"}
-2. [Encuesta Conclusiones Breves.](https://es.scribd.com/document/346791061/Encuesta-Conclusiones){:target="_blank"}
-3. [Gráficas de Resultados.](https://es.scribd.com/document/346791060/Encuesta-y-resultados-sobre-graficos){:target="_blank"}
-* [KanguPyme - Plan Empresarial.](https://es.scribd.com/document/346791430/Plan-Empresa-Final-Kangupyme){:target="_blank"}
-* [Organigrama de una Pequeña Pyme.](https://es.scribd.com/document/346790366/Organigrama-de-una-pequena-empresa-de-tecnologia-o-pyme-o-startup){:target="_blank"}
-* [Plan de Acción 'Clothing Store' - Análisis Centrado en sus Redes Sociales.](https://es.scribd.com/document/346790577/Plan-de-accion-sobre-un-negocio-enfocado-en-su-implantacion-en-las-nuevas-tecnologias){:target="_blank"}
-* [Plan de Acción 'Clothing Store' - Anexo I. Mini E-Commerce en Facebook](https://es.scribd.com/document/346790575/Anexo-a-el-plan-de-accion-sobre-un-negocio-enfocado-en-su-implantacion-en-las-nuevas-tecnologias){:target="_blank"}
-* [Plan de Motivación Laboral.](https://es.scribd.com/document/346790302/Plan-Motivacion-Laboral){:target="_blank"}
+1. [Encuesta de Análisis de Mercado.](https://es.scribd.com/document/346790437/Encuesta-previa-creacion-de-una-nueva-empresa){:target="_blank" rel="nofollow"}
+2. [Encuesta Conclusiones Breves.](https://es.scribd.com/document/346791061/Encuesta-Conclusiones){:target="_blank" rel="nofollow"}
+3. [Gráficas de Resultados.](https://es.scribd.com/document/346791060/Encuesta-y-resultados-sobre-graficos){:target="_blank" rel="nofollow"}
+* [KanguPyme - Plan Empresarial.](https://es.scribd.com/document/346791430/Plan-Empresa-Final-Kangupyme){:target="_blank" rel="nofollow"}
+* [Organigrama de una Pequeña Pyme.](https://es.scribd.com/document/346790366/Organigrama-de-una-pequena-empresa-de-tecnologia-o-pyme-o-startup){:target="_blank" rel="nofollow"}
+* [Plan de Acción 'Clothing Store' - Análisis Centrado en sus Redes Sociales.](https://es.scribd.com/document/346790577/Plan-de-accion-sobre-un-negocio-enfocado-en-su-implantacion-en-las-nuevas-tecnologias){:target="_blank" rel="nofollow"}
+* [Plan de Acción 'Clothing Store' - Anexo I. Mini E-Commerce en Facebook](https://es.scribd.com/document/346790575/Anexo-a-el-plan-de-accion-sobre-un-negocio-enfocado-en-su-implantacion-en-las-nuevas-tecnologias){:target="_blank" rel="nofollow"}
+* [Plan de Motivación Laboral.](https://es.scribd.com/document/346790302/Plan-Motivacion-Laboral){:target="_blank" rel="nofollow"}

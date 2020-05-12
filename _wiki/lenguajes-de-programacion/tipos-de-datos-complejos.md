@@ -56,14 +56,14 @@ PRINT SQRT(-4)
 
 ## Referencias
 
-1. [Documentación de Flash 8](https://web.archive.org/web/20090427044528/http://livedocs.adobe.com/flash/8/main/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Parts){:target="_blank"}. Archivado desde [el original](http://livedocs.adobe.com/flash/8/main/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Parts&file=00001179.html){:target="_blank"} el 27/04/2009. Consultado el 11/05/2009 .
-2. [Documentación de Python v2.6.5](https://docs.python.org/library/stdtypes.html){:target="_blank"}
-3. [Guía de diseño e implementación de la base de datos IBM Informix](https://archive.is/20120712140803/http://publib.boulder.ibm.com/infocenter/idshelp/v10/index.jsp?topic=/com.ibm.ddi.doc/ddi168.htm){:target="_blank"}
-4. [Una guía para la programación de Fortran IV](https://books.google.com/books?id=aNhWAAAAMAAJ&q=fortran+complex){:target="_blank"} Daniel D. McCracken - 1972 - 288 páginas. "La capacidad proporcionada por las operaciones complejas de Fortran es un gran ahorro en el esfuerzo de programación a la hora de resolver ciertos problemas".
+1. [Documentación de Flash 8](https://web.archive.org/web/20090427044528/http://livedocs.adobe.com/flash/8/main/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Parts){:target="_blank" rel="nofollow"}. Archivado desde [el original](http://livedocs.adobe.com/flash/8/main/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Parts&file=00001179.html){:target="_blank" rel="nofollow"} el 27/04/2009. Consultado el 11/05/2009 .
+2. [Documentación de Python v2.6.5](https://docs.python.org/library/stdtypes.html){:target="_blank" rel="nofollow"}
+3. [Guía de diseño e implementación de la base de datos IBM Informix](https://archive.is/20120712140803/http://publib.boulder.ibm.com/infocenter/idshelp/v10/index.jsp?topic=/com.ibm.ddi.doc/ddi168.htm){:target="_blank" rel="nofollow"}
+4. [Una guía para la programación de Fortran IV](https://books.google.com/books?id=aNhWAAAAMAAJ&q=fortran+complex){:target="_blank" rel="nofollow"} Daniel D. McCracken - 1972 - 288 páginas. "La capacidad proporcionada por las operaciones complejas de Fortran es un gran ahorro en el esfuerzo de programación a la hora de resolver ciertos problemas".
 
 **Categorías**: [Tipos de Datos](/wiki/categoria/tipos-de-datos "Categoría de Tipos de Datos WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas del Siglo 21")
 {:.notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Tipos de Datos Complejos](https://en.wikipedia.org/wiki/Complex_data_type){:target="_blank"} de la Wikipedia en inglés, versión del 20 de Septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Complex_data_type&action=history){:target="_blank"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank"}.
+**INF.**: Esta obra contiene una traducción total derivada de [Tipos de Datos Complejos](https://en.wikipedia.org/wiki/Complex_data_type){:target="_blank" rel="nofollow"} de la Wikipedia en inglés, versión del 20 de Septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Complex_data_type&action=history){:target="_blank" rel="nofollow"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow"}.
 {: .notice--info}
 <!-- https://en.wikipedia.org/wiki/Complex_data_type tipos de datos complejos -->

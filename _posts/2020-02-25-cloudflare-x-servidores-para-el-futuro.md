@@ -92,5 +92,5 @@ Pasamos de nuestro chasis de múltiples nodos a un factor de forma simple de 1U,
 
 Nuestra nueva generación de servidores nos brinda la flexibilidad para continuar construyendo nuestra red aún más cerca de cada usuario en la Tierra. Estamos orgullosos del arduo trabajo de todos los equipos de ingeniería en Gen X, y estamos agradecidos por el apoyo de nuestros socios. Esté atento a más blogs sobre estos servidores en los próximos días.
 
-**Fuente**\: []( ""){:target="_blank"}
+**Fuente**\: []( ""){:target="_blank" rel="nofollow"}
 {: .notice--info}

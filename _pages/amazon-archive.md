@@ -29,7 +29,7 @@ sidebar:
 
 ---
 
-[🎁 Las Mejores Ofertas y Productos Recomendados](https://www.amazon.es/shop/cibercursos){:target="_blank"}
+[🎁 Las Mejores Ofertas y Productos Recomendados](https://www.amazon.es/shop/cibercursos){:target="_blank" rel="nofollow"}
 
 <details>
 <summary><strong>Selección de Recomendaciones 👇</strong><span><a name="menu"></a></span></summary>

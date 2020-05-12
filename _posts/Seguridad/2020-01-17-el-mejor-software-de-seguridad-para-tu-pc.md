@@ -65,9 +65,9 @@ Por tanto, un software que necesitas sin ninguna duda: es un analizador de malwa
 
 El malware es todo aquello que está diseñado para pasar desapercibido a la aplicación de antivirus, por lo que vale la pena tener siempre a mano un buen escáner de malware. La mejor parte de todas, es que la mayoría de los escáneres de malware son gratuitos en sus funciones más básicos, que en principio va a ser todo lo que necesites.
 
-El más reconocido, utilizado y el que yo recomiendo es [Malwarebytes](https://es.malwarebytes.com/mwb-download/){:target="_blank"}.
+El más reconocido, utilizado y el que yo recomiendo es [Malwarebytes](https://es.malwarebytes.com/mwb-download/){:target="_blank" rel="nofollow"}.
 
-Dicho esto, también sería recomendado hacerse con algún software denominado AntiRootkit. La propia [Malwarebytes Anti Rootkits](https://es.malwarebytes.com/antirootkit/){:target="_blank"} ha creado uno. Si no, puedes usar [GMER](https://www.infospyware.com/antirootkits/gmer-antirootkit/){:target="_blank"}.
+Dicho esto, también sería recomendado hacerse con algún software denominado AntiRootkit. La propia [Malwarebytes Anti Rootkits](https://es.malwarebytes.com/antirootkit/){:target="_blank" rel="nofollow"} ha creado uno. Si no, puedes usar [GMER](https://www.infospyware.com/antirootkits/gmer-antirootkit/){:target="_blank" rel="nofollow"}.
 
 ¿Por qué es necesario esto? Bueno, un AntiRootkits escanea ciertas partes que ni el antivirus, ni el antimalwares son capaces de escanear; por ejemplo, detecta a los virus que atacan el MBR o Master Boot Record.
 
@@ -97,4 +97,4 @@ Como comenté al inicio de este artículo, hay muchas amenazas por Internet, per
 
 No dejes pasar más tiempo y preocúpate por tu seguridad en este año 2020, ¡Adelante y comienza a construir una base segura de tu tecnología!
 
-[👉 Visita las Guías de Seguridad de la EFF 🔐](/eff/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visita las Guías de Seguridad de la EFF 🔐](/eff/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}

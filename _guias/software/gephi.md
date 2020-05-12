@@ -106,11 +106,11 @@ El Centro de complementos incorporado obtiene automáticamente la lista de compl
 **Recursos**: Manejar Datos de [Twitter](/twitter/)
 {: .notice--primary}
 
-**Blog**: Blog Oficial de [Gephi](https://gephi.wordpress.com/ "Blog oficial de las noticias y actualizaciones de Gephi"){:target="_blank"}
+**Blog**: Blog Oficial de [Gephi](https://gephi.wordpress.com/ "Blog oficial de las noticias y actualizaciones de Gephi"){:target="_blank" rel="nofollow"}
 {: .notice--primary}
 
-**Código**: Ver [Github](https://github.com/gephi/gephi#gephi---the-open-graph-viz-platform "Ver el código fuente dentro del proyecto de Github"){:target="_blank"}
+**Código**: Ver [Github](https://github.com/gephi/gephi#gephi---the-open-graph-viz-platform "Ver el código fuente dentro del proyecto de Github"){:target="_blank" rel="nofollow"}
 {: .notice--primary}
 
-**Fuente**: Ver la [Página Web Oficial de Gephi]("Página web oficial de Gephi"){:target="_blank"}
+**Fuente**: Ver la [Página Web Oficial de Gephi]("Página web oficial de Gephi"){:target="_blank" rel="nofollow"}
 {: .notice--info}

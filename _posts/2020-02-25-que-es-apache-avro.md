@@ -224,7 +224,7 @@ Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.or
 
 **Apache Avro Repositorio**: https://avro.apache.org/releases.html Actualizado el 12 de Febrero de 2020.
 
-**Fuente**\: [](http://idarlington.github.io/2017/Getting-started-avro/ ""){:target="_blank"}
+**Fuente**\: [](http://idarlington.github.io/2017/Getting-started-avro/ ""){:target="_blank" rel="nofollow"}
 {: .notice--info}
 
 ## Relacionados

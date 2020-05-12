@@ -72,5 +72,5 @@ published: true
 
 Este contenido se encuentra bajo licencia **[Creative Commons](https://creativecommons.org/licenses/ "Licencia Licencia de Creative Commons")**.
 
-**Fuente**\: [Open Source](https://opensource.com/article/20/3/mac-linux "Por qué cambie de Mac a Linux por Lee Tusman"){:target="_blank"} por [Lee Tusman](https://twitter.com/2sman2sman){:target="_blank"}
+**Fuente**\: [Open Source](https://opensource.com/article/20/3/mac-linux "Por qué cambie de Mac a Linux por Lee Tusman"){:target="_blank" rel="nofollow"} por [Lee Tusman](https://twitter.com/2sman2sman){:target="_blank" rel="nofollow"}
 {: .notice--info}

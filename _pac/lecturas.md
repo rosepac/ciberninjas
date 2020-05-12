@@ -30,7 +30,7 @@ actions:
 ## Leyendo
 
 * Quién controla el futuro
-* [Edward Snowden: Vigilancia Permanente](https://ciberninjas.com/catalogo/vigilancia-permanente/){:target="_blank"}
+* [Edward Snowden: Vigilancia Permanente](https://ciberninjas.com/catalogo/vigilancia-permanente/){:target="_blank" rel="nofollow"}
 
 ## Pendientes
 

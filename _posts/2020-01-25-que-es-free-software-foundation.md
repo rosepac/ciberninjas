@@ -59,5 +59,5 @@ La FSF también proporciona recursos importantes a la comunidad, incluido el dir
 
 Este contenido se encuentra bajo licencia **[Creative Commons 3.0](http://creativecommons.org/licenses/by-sa/3.0/)**.
 
-**Fuente**: [Free Software Foundation Web](https://www.fsf.org/){:target="_blank"}
+**Fuente**: [Free Software Foundation Web](https://www.fsf.org/){:target="_blank" rel="nofollow"}
 {: .notice--info}

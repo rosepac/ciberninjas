@@ -23,26 +23,26 @@ toc_sticky: true
 
 ## Revistas
 
-* [Emprendedores: México](http://emprendedores.unam.mx/buscar.php?tipo=2){:target="_blank"}
+* [Emprendedores: México](http://emprendedores.unam.mx/buscar.php?tipo=2){:target="_blank" rel="nofollow"}
 http://www.bibliotic.unam.mx/revista.html
 * [En Marcha](https://www.cocemfe.es/informate/noticias/category/revista/) (Revista Informativa de la Discapacidad Física y Orgánica)
-* [Política y Sociedad](https://revistas.ucm.es/index.php/POSO){:target="_blank"} (Universidad Complutense de Madrid)
+* [Política y Sociedad](https://revistas.ucm.es/index.php/POSO){:target="_blank" rel="nofollow"} (Universidad Complutense de Madrid)
 
 ## Los Mejores Artículos de Educación
 
-* [Construcción y validación de instrumento para evaluar el avance del enfoque socioformativo y adopción de nuevos modelos educativos en el nivel superior en México](http://revistaespacios.com/a19v40n31/a19v40n31p05.pdf){:target="_blank"}
-* [Prácticas parentales y su relación con conductas prosociales y agresivas en niños, niñas y adolescentes de instituciones educativas](http://revistaespacios.com/a19v40n31/a19v40n31p08.pdf){:target="_blank"}
+* [Construcción y validación de instrumento para evaluar el avance del enfoque socioformativo y adopción de nuevos modelos educativos en el nivel superior en México](http://revistaespacios.com/a19v40n31/a19v40n31p05.pdf){:target="_blank" rel="nofollow"}
+* [Prácticas parentales y su relación con conductas prosociales y agresivas en niños, niñas y adolescentes de instituciones educativas](http://revistaespacios.com/a19v40n31/a19v40n31p08.pdf){:target="_blank" rel="nofollow"}
 * [Programa de entrenamiento para desarrollar habilidades sociales en
-estudiantes universitarios](http://revistaespacios.com/a19v40n31/a19v40n31p10.pdf){:target="_blank"}
-* [Tendencias emergentes de los postgrados en el Mundo](http://revistaespacios.com/a19v40n31/a19v40n31p09.pdf){:target="_blank"}
+estudiantes universitarios](http://revistaespacios.com/a19v40n31/a19v40n31p10.pdf){:target="_blank" rel="nofollow"}
+* [Tendencias emergentes de los postgrados en el Mundo](http://revistaespacios.com/a19v40n31/a19v40n31p09.pdf){:target="_blank" rel="nofollow"}
 * [La ciudad como espacio socializador y educativo: una mirada a las “Ciudades Educadoras”
-](http://revistaespacios.com/a19v40n31/a19v40n31p17.pdf){:target="_blank"}
-* [La importancia del docente: gestión eficaz del aula](http://revistaespacios.com/a19v40n31/a19v40n31p19.pdf){:target="_blank"}
-* [Niveles de inteligencia emocional según género de estudiantes en la educacion superior](http://revistaespacios.com/a19v40n31/a19v40n31p26.pdf){:target="_blank"}
-* [Gestión de la calidad de los procesos universitarios](http://revistaespacios.com/a19v40n31/a19v40n31p27.pdf){:target="_blank"}
+](http://revistaespacios.com/a19v40n31/a19v40n31p17.pdf){:target="_blank" rel="nofollow"}
+* [La importancia del docente: gestión eficaz del aula](http://revistaespacios.com/a19v40n31/a19v40n31p19.pdf){:target="_blank" rel="nofollow"}
+* [Niveles de inteligencia emocional según género de estudiantes en la educacion superior](http://revistaespacios.com/a19v40n31/a19v40n31p26.pdf){:target="_blank" rel="nofollow"}
+* [Gestión de la calidad de los procesos universitarios](http://revistaespacios.com/a19v40n31/a19v40n31p27.pdf){:target="_blank" rel="nofollow"}
 
 ## Educación e Inclusión
 
-* [Servicios de procesamiento de lenguaje natural en tecnología asistiva](http://revistaespacios.com/a19v40n30/a19v40n30p07.pdf){:target="_blank"}
+* [Servicios de procesamiento de lenguaje natural en tecnología asistiva](http://revistaespacios.com/a19v40n30/a19v40n30p07.pdf){:target="_blank" rel="nofollow"}
 
 * [Juventud, Emprendimiento y Universidad: Un reto a tres bandas.](http://www.redmotiva.com/wp-content/uploads/2019/07/Libro-Congreso-MOTIVA-27.05.pdf) (PDF) (Congreso MOTIVA 2019)

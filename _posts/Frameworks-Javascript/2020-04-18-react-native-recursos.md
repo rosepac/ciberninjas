@@ -66,7 +66,7 @@ Wallpapers
 - [Página Web](https://reactnative.dev/)
 
 ## **Github de React Native**
-- [Código Fuente](https://github.com/facebook/react-native){:target="_blank"}
+- [Código Fuente](https://github.com/facebook/react-native){:target="_blank" rel="nofollow"}
 
 Guía
 Documentación Oficial en Inglés
@@ -83,7 +83,7 @@ Twitter Oficial
 Hacker News
 Noticias relacionadas y actualizadas, día a día -en inglés-
 
-- [Hacker News React Native](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=react%20native&sort=byDate&type=story){:target="_blank"}
+- [Hacker News React Native](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=react%20native&sort=byDate&type=story){:target="_blank" rel="nofollow"}
 
 ## Stack Overflow de React Native
 Página de Consultas sobre el Framework React Native

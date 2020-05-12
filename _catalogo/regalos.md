@@ -26,12 +26,12 @@ sidebar:
 
 ## 🎁 Regalos Geeks Gratis
 
-- [Envia Postales con Fotografía](https://postcardmailer.herokuapp.com/){:target="_blank"} ¡GRATIS! \ [Otras Opciones](https://news.ycombinator.com/item?id=21924719){:target="_blank"}
+- [Envia Postales con Fotografía](https://postcardmailer.herokuapp.com/){:target="_blank" rel="nofollow"} ¡GRATIS! \ [Otras Opciones](https://news.ycombinator.com/item?id=21924719){:target="_blank" rel="nofollow"}
 
 ![](https://i.ibb.co/Pmqzh3T/image.png)
 
 <!-- agregar los comics del lol -->
-- [Descarga Las Banderas de Juegos de Tronos](https://drive.google.com/open?id=1tgs2lgVQOw-jsGogxZ7v0KdZ9yy6k9Ud){:target="_blank"}
+- [Descarga Las Banderas de Juegos de Tronos](https://drive.google.com/open?id=1tgs2lgVQOw-jsGogxZ7v0KdZ9yy6k9Ud){:target="_blank" rel="nofollow"}
 
 ![](https://i.ibb.co/685n71z/image.png) ![](https://i.ibb.co/L65Tjbh/image.png)
 

@@ -22,7 +22,7 @@ canonical_URL: https://ciberninjas.com/flutter-dart-devtools-vista-rendimiento/
 
 ---
 
-**Nota:** La vista de rendimiento solo funciona con aplicaciones móviles. Use Chrome DevTools para [analizar el rendimiento](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/){:target="_blank"} de una aplicación web.
+**Nota:** La vista de rendimiento solo funciona con aplicaciones móviles. Use Chrome DevTools para [analizar el rendimiento](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/){:target="_blank" rel="nofollow"} de una aplicación web.
 {: .notice--info}
 
 ## ¿Qué es la vista de rendimiento de DevTools?
@@ -101,5 +101,5 @@ Ruta del archivo para el sitio de llamada al método.![Captura de pantalla de un
 
 [🎓 Cursos en Español](/cursos-tecnologia/#flutter){: .btn .btn--warning .btn--large} [👉 Ejemplos de Aplicaciones](/flutter-aplicaciones-ejemplos/){: .btn .btn--inverse .btn--large} [⚓ Documentación en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large}
 
-**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank"}
+**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow"}
 {: .notice--info}

@@ -35,15 +35,15 @@ Al igual que cualquier otro tipo de reunión, **las reuniones virtuales pueden c
 
 ## **¿Qué hay de poder cambiar tu cara?**
 
-**Zoom no nos ofrece la posibilidad de cambiar nuestro aspecto**, aparte de su función de retoque de video, que suaviza sutilmente las líneas y borra las imperfecciones. Para cambiar tu apariencia de manera significativa **tendrás que recurrir a un software externo**, en este caso te proponemos, a **la empresa [Snap, Inc.](https://www.snapchat.com/l/es/create){:target="_blank"} que hizo de las cámaras de los teléfonos inteligentes una auténtica revolución gracias a sus asombrosos filtros**, los que posteriormente, todo el mundo ha ido copiando.
+**Zoom no nos ofrece la posibilidad de cambiar nuestro aspecto**, aparte de su función de retoque de video, que suaviza sutilmente las líneas y borra las imperfecciones. Para cambiar tu apariencia de manera significativa **tendrás que recurrir a un software externo**, en este caso te proponemos, a **la empresa [Snap, Inc.](https://www.snapchat.com/l/es/create){:target="_blank" rel="nofollow"} que hizo de las cámaras de los teléfonos inteligentes una auténtica revolución gracias a sus asombrosos filtros**, los que posteriormente, todo el mundo ha ido copiando.
 
 ![Vista previa de los filtros de snap camera en el escritorio del ordenador](/assets/images/blog/guia-snap-camera.webp "Vista previa de los filtros de snap camera en el escritorio del ordenador")
 
-La **aplicación de cámara de escritorio de [Snap](https://snapcamera.snapchat.com/){:target="_blank"}, [Snap Camera](https://snapcamera.snapchat.com/){:target="_blank"}**, es capaz de crear **los mismos locos y divertidos filtros** con los que llevas jugando durante años desde tu aplicación móvil de Snapchat. Con solamente una descarga y unos pocos clics, los usuarios de **Zoom podrán chatear como personajes de dibujos animados**.
+La **aplicación de cámara de escritorio de [Snap](https://snapcamera.snapchat.com/){:target="_blank" rel="nofollow"}, [Snap Camera](https://snapcamera.snapchat.com/){:target="_blank" rel="nofollow"}**, es capaz de crear **los mismos locos y divertidos filtros** con los que llevas jugando durante años desde tu aplicación móvil de Snapchat. Con solamente una descarga y unos pocos clics, los usuarios de **Zoom podrán chatear como personajes de dibujos animados**.
 
 ## **Cómo agregar Snap Camera junto a Zoom**
 
-1. **Debes [descargar la aplicación Snap Camera](https://snapcamera.snapchat.com/download/){:target="_blank"}** de su sitio web (está disponible para Windows y macOS). Además, debes otorgar a la aplicación los permisos que te pedirá (acceso a la cámara y al micrófono).
+1. **Debes [descargar la aplicación Snap Camera](https://snapcamera.snapchat.com/download/){:target="_blank" rel="nofollow"}** de su sitio web (está disponible para Windows y macOS). Además, debes otorgar a la aplicación los permisos que te pedirá (acceso a la cámara y al micrófono).
 2. **Iniciar la aplicación y se ejecutará la pantalla principal** desde la que podrás jugar y encontrar los filtros que más te gusten: hay muchos para elegir y tendrás que seleccionar uno dentro de la aplicación de Snap Camera, nunca en Zoom.
 3. Una vez que **tengas el filtro que te guste, abrirás Zoom, pero sin cerrar Snap Camera**: ambas aplicaciones deben estar ejecutándose para que Snap funcione con Zoom.
 4. Debes **buscar el ícono de ajustes en la esquina superior derecha de tu aplicación de Zoom**. Haz clic para abrir el menú de Configuración y luego haz clic en ***VÍDEO en el lado izquierdo** de la ventana de Configuración.
@@ -54,7 +54,7 @@ Eso es todo, ya puedes comenzar tu reunión transformando tu cara en una patata,
 
 **Snap Camera también funcionará con Skype, Microsoft Teams y la plataforma de videojuegos Twitch,** **¡A disfrutar!**
 
-**Fuente**\: [How to change your face in Zoom](How to change your face in Zoom "") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast){:target="_blank"}
+**Fuente**\: [How to change your face in Zoom](How to change your face in Zoom "") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast){:target="_blank" rel="nofollow"}
 {: .notice--info}
 
 ### Relacionados

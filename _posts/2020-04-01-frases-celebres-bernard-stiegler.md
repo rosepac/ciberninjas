@@ -66,9 +66,9 @@ Filósofo francés Bernard Stiegler..
 
 ## Artículos Relacionados
 
-- [Técnica, memoria e individuación: La perspectiva de Bernard Stiegler](https://revistas.ucm.es/index.php/ASEM/article/download/ASEM0404110337A/16106/0){:target="_blank"} (¡OJO!, Descarga Directa)
-- [Quebrar las reglas de la máquina](https://www.clarin.com/rn/ideas/Quebrar-reglas-maquina_0_BJfDhXcwXx.html){:target="_blank"}
-- [Bernard Stiegler, un filósofo interactivo](https://rebelion.org/bernard-stiegler-un-filosofo-interactivo/){:target="_blank"}
-- [Transformación antropológica y paradigma tecnológico](https://www.fuhem.es/papeles_articulo/transformacion-antropologica-y-paradigma-tecnologico/){:target="_blank"} (Página 19) * Santiago Alba Rico
-- [Revisión crítica del libro: En la interrupción](https://www.cairn.info/revue-francaise-d-ethique-appliquee-2017-2-page-126.htm#){:target="_blank"}
-- [La pesadilla de Einstein](http://ctheory.net/ctheory_wp/la-pesadilla-de-einstein-sobre-la-tecno-distopia-en-bernard-stiegler/){:target="_blank"} (Sobre la tecno-distopía en Bernard Stiegler)
+- [Técnica, memoria e individuación: La perspectiva de Bernard Stiegler](https://revistas.ucm.es/index.php/ASEM/article/download/ASEM0404110337A/16106/0){:target="_blank" rel="nofollow"} (¡OJO!, Descarga Directa)
+- [Quebrar las reglas de la máquina](https://www.clarin.com/rn/ideas/Quebrar-reglas-maquina_0_BJfDhXcwXx.html){:target="_blank" rel="nofollow"}
+- [Bernard Stiegler, un filósofo interactivo](https://rebelion.org/bernard-stiegler-un-filosofo-interactivo/){:target="_blank" rel="nofollow"}
+- [Transformación antropológica y paradigma tecnológico](https://www.fuhem.es/papeles_articulo/transformacion-antropologica-y-paradigma-tecnologico/){:target="_blank" rel="nofollow"} (Página 19) * Santiago Alba Rico
+- [Revisión crítica del libro: En la interrupción](https://www.cairn.info/revue-francaise-d-ethique-appliquee-2017-2-page-126.htm#){:target="_blank" rel="nofollow"}
+- [La pesadilla de Einstein](http://ctheory.net/ctheory_wp/la-pesadilla-de-einstein-sobre-la-tecno-distopia-en-bernard-stiegler/){:target="_blank" rel="nofollow"} (Sobre la tecno-distopía en Bernard Stiegler)

@@ -35,7 +35,7 @@ Las características que se han actualizado en la nueva Versión 12 se incluye:
 - Vista previa en vivo, que convierte en innecesario el alternar entre navegador y editor. Ahora puedes editar tu HTML y Markdown y probarlo sin necesidad de abandonar tu IDE.
 - Nuevo Universal Package Manager: El que accede a su administrador de paquetes con solamente un botón y ejecuta comandos directamente desde dentro del editor, con soporte para Python (pip), PHP (Composer), Perl (PPM), Ruby (Gem) y Node.js (npm y Yarn).
 
-Se deseas recibir información en mayor profundidad sobre las capacidades del IDE, puedes consultar las [características del IDE de Komodo](https://www.activestate.com/products/komodo-ide/features/){:target="_blank"}
+Se deseas recibir información en mayor profundidad sobre las capacidades del IDE, puedes consultar las [características del IDE de Komodo](https://www.activestate.com/products/komodo-ide/features/){:target="_blank" rel="nofollow"}
 
 ![](https://i.ibb.co/pj4qcQr/komodo1.jpg "Vista del IDE de Komodo")
 
@@ -43,9 +43,9 @@ Si tiene experiencia en otro IDE, te resultará fácil la migración, ya que Kom
 
 Otro apartado flexible es que no tienes porque usar las diferentes distribuciones de lenguajes de ActiveState, como ActivePython o ActivePerl. En Windows, por ejemplo, Komodo se puede usar con Strawberry Perl. Por otro lado, si opta por las contraprestaciones de ActiveState obtendrás ventajas adicionales, como tener acceso a paquetes / módulos preconstruidos y otras integraciones.
 
-[⬇ Descargar Komodo](https://www.activestate.com/products/komodo-ide/download-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
-[📖 Documentación de Komodo](http://docs.activestate.com/komodo/12/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
-[✍ Web Oficial de Komodo](https://www.activestate.com/products/komodo-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⬇ Descargar Komodo](https://www.activestate.com/products/komodo-ide/download-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[📖 Documentación de Komodo](http://docs.activestate.com/komodo/12/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[✍ Web Oficial de Komodo](https://www.activestate.com/products/komodo-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 <!-- https://www.activestate.com/products/komodo-ide/ -->
 <!-- https://www.i-programmer.info/news/90-tools/13411-activestate-komodo-ide-now-free.html -->

@@ -37,7 +37,7 @@ header:
   * Cómo hacer amigos en línea: https://guzey.com/how-to-make-friends-over-the-internet/
   * Deberías comenzar un blog: https://guzey.com/personal/why-have-a-blog/
 
-* [Patrick Collison](https://patrickcollison.com/progress){:target="_blank"} \ [Wiki](https://es.wikipedia.org/wiki/Patrick_Collison){:target="_blank"}
+* [Patrick Collison](https://patrickcollison.com/progress){:target="_blank" rel="nofollow"} \ [Wiki](https://es.wikipedia.org/wiki/Patrick_Collison){:target="_blank" rel="nofollow"}
 
 ## Filósofos / Políticos
 
@@ -51,13 +51,13 @@ header:
 
 ## Hegel
 
-* [Wikipedia Hegelianos](https://es.wikipedia.org/wiki/J%C3%B3venes_hegelianos) \ [Influencia de Hegel](https://es.wikipedia.org/wiki/Hegelianismo#Influencia_de_Hegel){:target="_blank"}
+* [Wikipedia Hegelianos](https://es.wikipedia.org/wiki/J%C3%B3venes_hegelianos) \ [Influencia de Hegel](https://es.wikipedia.org/wiki/Hegelianismo#Influencia_de_Hegel){:target="_blank" rel="nofollow"}
 
-* [David Harvey](https://www.eldiario.es/catalunya/David-Harvey-Veremos-resurgimiento-izquierda_0_908859916.html){:target="_blank"} Geógrafo y teórico social marxista británico.
+* [David Harvey](https://www.eldiario.es/catalunya/David-Harvey-Veremos-resurgimiento-izquierda_0_908859916.html){:target="_blank" rel="nofollow"} Geógrafo y teórico social marxista británico.
 
 ## Fredric Jameson
 
-* [Fredric Jameson](https://es.wikipedia.org/wiki/Fredric_Jameson){:target="_blank"} -> Fredric Jameson (14 de abril de 1934) es un crítico y teórico literario estadounidense de ideología marxista. [Charla con Fredric Jameson](https://www.march.es/videos/index?p0=5751){:target="_blank"}
+* [Fredric Jameson](https://es.wikipedia.org/wiki/Fredric_Jameson){:target="_blank" rel="nofollow"} -> Fredric Jameson (14 de abril de 1934) es un crítico y teórico literario estadounidense de ideología marxista. [Charla con Fredric Jameson](https://www.march.es/videos/index?p0=5751){:target="_blank" rel="nofollow"}
 
 ## Sartre
 

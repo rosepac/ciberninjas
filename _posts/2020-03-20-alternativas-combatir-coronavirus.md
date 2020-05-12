@@ -30,7 +30,7 @@ header:
 
 No, este artículo no es una cura contra el coronavirus; porque básicamente y por desgracia, no parecer tener una metodología de cura concreta.
 
-[HILO DE TWITTER CON TODAS LAS ACTIVIDADES, LIBROS, CÓMICS  Y ACTOS GRATUITOS DURANTE ESTOS DÍAS](https://twitter.com/ciberninjas/status/1241068631146016770){:target="_blank"} [😻](/quedateencasa-directo/)
+[HILO DE TWITTER CON TODAS LAS ACTIVIDADES, LIBROS, CÓMICS  Y ACTOS GRATUITOS DURANTE ESTOS DÍAS](https://twitter.com/ciberninjas/status/1241068631146016770){:target="_blank" rel="nofollow"} [😻](/quedateencasa-directo/)
 {: .notice--warning}
 
 💣 EN CONSTANTE EVOLUCIÓN (📰 Pendientes por Agregar -regresa pronto- 🤞) (Salvo que le pase algo al gatito ninja. Que esperemos que no..  😻)
@@ -38,9 +38,9 @@ No, este artículo no es una cura contra el coronavirus; porque básicamente y p
 
 Dicho esto, con el ya conocido problema que se ha ido contagiando por más de medio planeta; han nacido, no sé, si cientos de iniciativas (pero seguro que sí, decenas) de iniciativas de diferentes actividades que podemos realizar dentro de nuestra propia casa; puesto que es la única fórmula que parece funcionar para combatir este virus.
 
-**[#QuedateEnCasa](https://twitter.com/search?q=%23QuedateEnCasa&src=typeahead_click&f=live){:target="_blank"}** **[#FrenaLaCurva](https://frenalacurva.net/){:target="_blank"}** **[#YoMeQuedoEnCasa](https://twitter.com/search?q=%23YoMeQuedoEnCasa%20&src=typed_query&f=live){:target="_blank"}** **[#YoMeQuedoEnMiCasa](){:target="_blank"}** **[#QuedateEnLaCasa](){:target="_blank"}**  **[#quedatencasa](){:target="_blank"}** **[#CuarentenaCoronavirus](){:target="_blank"}**
+**[#QuedateEnCasa](https://twitter.com/search?q=%23QuedateEnCasa&src=typeahead_click&f=live){:target="_blank" rel="nofollow"}** **[#FrenaLaCurva](https://frenalacurva.net/){:target="_blank" rel="nofollow"}** **[#YoMeQuedoEnCasa](https://twitter.com/search?q=%23YoMeQuedoEnCasa%20&src=typed_query&f=live){:target="_blank" rel="nofollow"}** **[#YoMeQuedoEnMiCasa](){:target="_blank" rel="nofollow"}** **[#QuedateEnLaCasa](){:target="_blank" rel="nofollow"}**  **[#quedatencasa](){:target="_blank" rel="nofollow"}** **[#CuarentenaCoronavirus](){:target="_blank" rel="nofollow"}**
 
-Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría de casos; otros a través de Instagram; en la búsqueda de **los hastags anteriores**. Otras alternativas se basan en la descarga de productos digitales, para lo que te serán de ayuda estos sitios de [Creación de Correos Temporales](https://www.minds.com/newsfeed/1088519671710687232?referrer=rosepac){:target="_blank"}.
+Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría de casos; otros a través de Instagram; en la búsqueda de **los hastags anteriores**. Otras alternativas se basan en la descarga de productos digitales, para lo que te serán de ayuda estos sitios de [Creación de Correos Temporales](https://www.minds.com/newsfeed/1088519671710687232?referrer=rosepac){:target="_blank" rel="nofollow"}.
 
 ## Alternativas para combatir el coronavirus
 
@@ -58,93 +58,93 @@ Las diferentes iniciativas pueden seguirse a través de twitter, en la mayoría 
 
 ### **Alternativas Tecnológicas**
 
-<!-- - [](){:target="_blank"} [👉 Saber Más]() -->
+<!-- - [](){:target="_blank" rel="nofollow"} [👉 Saber Más]() -->
 
 ## **Charlas de Desarrolladores de Google España**
 
 - 🔐 Eventos de Seguridad Coronacon [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#evento-de-seguridad-coronacon)
 - 👩‍💻 Charlas de Tecnología por Miriadax [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#charlas-de-tecnología-por-miriadax)
-- [🔎 Curso Online de SEO](https://info.uvic.cat/seo/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#webinar-de-seo)
-- [💻 Charlas por streaming del GDG Spain durante el confinamiento por el Coronavirus #YoMeQuedoEnCasaGDG](https://steemit.com/hive-154806/@rosepac/-charlas-por-streaming-del-gdg-spain-durante-el-confinamiento-por-el-coronavirus-yomequedoencasagdg-1584549963){:target="_blank"}
+- [🔎 Curso Online de SEO](https://info.uvic.cat/seo/){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#webinar-de-seo)
+- [💻 Charlas por streaming del GDG Spain durante el confinamiento por el Coronavirus #YoMeQuedoEnCasaGDG](https://steemit.com/hive-154806/@rosepac/-charlas-por-streaming-del-gdg-spain-durante-el-confinamiento-por-el-coronavirus-yomequedoencasagdg-1584549963){:target="_blank" rel="nofollow"}
 
 ## Evento de Seguridad: Coronacon
 
 🔐 Evento de seguridad informática benéfico. Este virus lo hackeamos entre todos - 9? 10, 11 y 12 de Abril a través de Twitch. Más información próximamente..
 
-👉 [Usuario de Twitter](@C0r0n4CON){:target="_blank"}
+👉 [Usuario de Twitter](@C0r0n4CON){:target="_blank" rel="nofollow"}
 
 - **Página Web**: [Coronacon](https://c0r0n4con.com/)
 
 ## **Charlas de Tecnología por Miriadax**
 
-Las charlas organizadas por la "universidad digital" [Miriadax](https://www.instagram.com/p/B-R2N9po3Nh/){:target="_blank"}.
+Las charlas organizadas por la "universidad digital" [Miriadax](https://www.instagram.com/p/B-R2N9po3Nh/){:target="_blank" rel="nofollow"}.
 
-- Lunes, 30 de Marzo - 17 H. ESPAÑOLA: [DESMITIFICANDO LA CUARENTENA](https://www.instagram.com/kellpozo/){:target="_blank"}
+- Lunes, 30 de Marzo - 17 H. ESPAÑOLA: [DESMITIFICANDO LA CUARENTENA](https://www.instagram.com/kellpozo/){:target="_blank" rel="nofollow"}
 
-- Martes, 31 de Marzo - 17 H. ESPAÑOLA: [LA IMPORTANCIA DEL BI EN ESTOS TIEMPOS INCIERTOS](https://www.instagram.com/antoyuju/){:target="_blank"}
+- Martes, 31 de Marzo - 17 H. ESPAÑOLA: [LA IMPORTANCIA DEL BI EN ESTOS TIEMPOS INCIERTOS](https://www.instagram.com/antoyuju/){:target="_blank" rel="nofollow"}
 
-- Miércoles, 1 de Abril  - 17 H. ESPAÑOLA: [HAZTE UN CORTO](https://www.instagram.com/miriadax_ed/){:target="_blank"}
+- Miércoles, 1 de Abril  - 17 H. ESPAÑOLA: [HAZTE UN CORTO](https://www.instagram.com/miriadax_ed/){:target="_blank" rel="nofollow"}
 
-- Jueves, 2 de Abril  - 17 H. ESPAÑOLA: [DEL AULA AL MUNDO DIGITAL EN UN SEGUNDO](https://www.instagram.com/ednamanotas/){:target="_blank"}
+- Jueves, 2 de Abril  - 17 H. ESPAÑOLA: [DEL AULA AL MUNDO DIGITAL EN UN SEGUNDO](https://www.instagram.com/ednamanotas/){:target="_blank" rel="nofollow"}
 
-- Viernes, 3 de Abril  - 17 H. ESPAÑOLA: [ADMINISTRADORES DE SISTEMAS Y LA AMENAZA INVISIBLE](https://www.instagram.com/alexbaldo/){:target="_blank"}
+- Viernes, 3 de Abril  - 17 H. ESPAÑOLA: [ADMINISTRADORES DE SISTEMAS Y LA AMENAZA INVISIBLE](https://www.instagram.com/alexbaldo/){:target="_blank" rel="nofollow"}
 
 ## **Webinar de SEO**
 
-- [Enlace de Youtube al Curso de SEO](https://www.youtube.com/watch?v=EH93WYZqlZM&list=PLBYz4g4xZC-lvGEPIZz9idxf1ieX808oR){:target="_blank"}
-- [PDF con el Contenido del Webinar SEO](https://www.uvic.cat/formacio-continua/sites/default/files/seo_actualizacion_2020.pdf){:target="_blank"}
+- [Enlace de Youtube al Curso de SEO](https://www.youtube.com/watch?v=EH93WYZqlZM&list=PLBYz4g4xZC-lvGEPIZz9idxf1ieX808oR){:target="_blank" rel="nofollow"}
+- [PDF con el Contenido del Webinar SEO](https://www.uvic.cat/formacio-continua/sites/default/files/seo_actualizacion_2020.pdf){:target="_blank" rel="nofollow"}
 
 Universidad Central de Cataluña: Webinar de actualización: 06/04/2020 a las 18h (Central European Time (CET), UTC +1)
 
 ### **Alternativas Culturales**
 
-- [Revistar Computer Hoy y de la Editorial Axel Springer](https://www.minds.com/newsfeed/1087656671227920384?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
-- [Revista Kiosko y +](https://www.kioskoymas.com/other/landings/aviso/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-kiosko-más)
-- [Revistas Muy Interesante](https://www.muyinteresante.es/biblioteca){:target="_blank"}  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revista-muy-interesante)
-- [Revista Gigantes Kobe Bryant](https://www.gigantes.com/tienda/revistas/kobe-bryant-no1447-abril-2016-digital-2/){:target="_blank"}  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revista-gigantes-kobe-bryant)
-- [La Casa del Libro: Libros Gratis](https://www.minds.com/newsfeed/1087774182482681856?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libros-gratis-la-casa-del-libro)
-- [Editorial Planeta: Libros y Actividades](https://keepreadingencasa.planetadelibros.com/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-y-actividades)
+- [Revistar Computer Hoy y de la Editorial Axel Springer](https://www.minds.com/newsfeed/1087656671227920384?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-de-computer-hoy)
+- [Revista Kiosko y +](https://www.kioskoymas.com/other/landings/aviso/){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revistas-kiosko-más)
+- [Revistas Muy Interesante](https://www.muyinteresante.es/biblioteca){:target="_blank" rel="nofollow"}  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revista-muy-interesante)
+- [Revista Gigantes Kobe Bryant](https://www.gigantes.com/tienda/revistas/kobe-bryant-no1447-abril-2016-digital-2/){:target="_blank" rel="nofollow"}  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#revista-gigantes-kobe-bryant)
+- [La Casa del Libro: Libros Gratis](https://www.minds.com/newsfeed/1087774182482681856?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libros-gratis-la-casa-del-libro)
+- [Editorial Planeta: Libros y Actividades](https://keepreadingencasa.planetadelibros.com/){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-y-actividades)
 - Editorial Anagrama [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-anagrama)
-- [Editorial Errata Naturae](http://erratanaturae.com/8805-2/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-errata-naturae)
-- [Editorial DOLMEN: Libros Gratis](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
-- [Libro: Guerreras de la Ciencia](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
-- [Nubico: Lectura Online](https://www.nubico.es/prueba-gratis-nubico-premium){:target="_blank"} (Gratis por 15 Días: 50.000 libros y 80 revistas)
-- [TebeoSfera](https://asociacionculturaltebeosfera.blogspot.com/2020/03/tebeos-para-una-pandemia.html){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
-- [Cómics de Mujeres Legendarias](https://issuu.com/mujereslegendarias){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
-- [Lektu, Cultura Digital: La Traducción del Cómic](https://lektu.com/l/tebeosfera/la-traduccion-del-comic/12325){:target="_blank"} [Libros Gratis: 1.055](https://lektu.com/buscar?b=&precio=G&tipo=&idioma=){:target="_blank"} [Gratis Compartiendo: 1.596](https://lektu.com/buscar?b=&precio=S&tipo=&idioma=){:target="_blank"} 
-- [Cómics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-Cómics-gratis-de-league-of-legends-marvel){:target="_blank"}
-- [Cómics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank"}
-- [Cómics: Autor El Torres](https://www.dropbox.com/sh/29bc0r7sjgncwd6/AAADLT5frBFJCBgFhpDdOoOza?dl=0){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cómics-el-torres)
-- [One More Library](https://onemorelibrary.com/index.php/en/search-results?se=1&layout=blog&search=&se_regs=0&se_cats=93%2Cp93&se_102_min=&se_102_max=&se_103=&se_107=){:target="_blank"} (1.200 Clásicos en Español)
-- [Cómics Más de 700 Cómics en Inglés GRATIS](https://www.minds.com/newsfeed/1088166633788461056?referrer=rosepac){:target="_blank"}
-- [Biblioteca Nacional de Emergencia](https://archive.org/details/nationalemergencylibrary?and%5B%5D=languageSorter%3A%22Spanish%22&sort=-date){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
+- [Editorial Errata Naturae](http://erratanaturae.com/8805-2/){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-errata-naturae)
+- [Editorial DOLMEN: Libros Gratis](https://www.minds.com/newsfeed/1087428721634422784?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-dolmen)
+- [Libro: Guerreras de la Ciencia](https://steemit.com/hive-154806/@rosepac/libro-guerreras-de-la-ciencia-gratis-articulos-de-desarrollo-web-y-programacion-inside){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#libro-guerreras-de-la-ciencia) (Artículos de desarrollo web y programación - inside)
+- [Nubico: Lectura Online](https://www.nubico.es/prueba-gratis-nubico-premium){:target="_blank" rel="nofollow"} (Gratis por 15 Días: 50.000 libros y 80 revistas)
+- [TebeoSfera](https://asociacionculturaltebeosfera.blogspot.com/2020/03/tebeos-para-una-pandemia.html){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
+- [Cómics de Mujeres Legendarias](https://issuu.com/mujereslegendarias){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
+- [Lektu, Cultura Digital: La Traducción del Cómic](https://lektu.com/l/tebeosfera/la-traduccion-del-comic/12325){:target="_blank" rel="nofollow"} [Libros Gratis: 1.055](https://lektu.com/buscar?b=&precio=G&tipo=&idioma=){:target="_blank" rel="nofollow"} [Gratis Compartiendo: 1.596](https://lektu.com/buscar?b=&precio=S&tipo=&idioma=){:target="_blank" rel="nofollow"} 
+- [Cómics de Riot Games y Marvel sobre League of Legends](https://steemit.com/spanish/@rosepac/lectura-Cómics-gratis-de-league-of-legends-marvel){:target="_blank" rel="nofollow"}
+- [Cómics de Blizzard](https://www.minds.com/newsfeed/1088170990382850048?referrer=rosepac){:target="_blank" rel="nofollow"}
+- [Cómics: Autor El Torres](https://www.dropbox.com/sh/29bc0r7sjgncwd6/AAADLT5frBFJCBgFhpDdOoOza?dl=0){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cómics-el-torres)
+- [One More Library](https://onemorelibrary.com/index.php/en/search-results?se=1&layout=blog&search=&se_regs=0&se_cats=93%2Cp93&se_102_min=&se_102_max=&se_103=&se_107=){:target="_blank" rel="nofollow"} (1.200 Clásicos en Español)
+- [Cómics Más de 700 Cómics en Inglés GRATIS](https://www.minds.com/newsfeed/1088166633788461056?referrer=rosepac){:target="_blank" rel="nofollow"}
+- [Biblioteca Nacional de Emergencia](https://archive.org/details/nationalemergencylibrary?and%5B%5D=languageSorter%3A%22Spanish%22&sort=-date){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#tebeosfera)
 - [Bibliotecas y Revistas Virtuales en Español](/biblioteca-novela-poesia/) (Cientos e Incluso Miles de Libros Clásicos en Español)
-- [Juegos de Mesa Imprimibles](https://www.minds.com/newsfeed/1088859593176981504?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juegos-de-mesa-imprimibles)
-- [Partidos Históricos de Baloncesto NBA](https://www.youtube.com/playlist?list=PLtjs88_96K3k8osAmFzBNo5bm53pHkDrb){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-de-baloncesto-nba)
-- [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank"}{:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
+- [Juegos de Mesa Imprimibles](https://www.minds.com/newsfeed/1088859593176981504?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juegos-de-mesa-imprimibles)
+- [Partidos Históricos de Baloncesto NBA](https://www.youtube.com/playlist?list=PLtjs88_96K3k8osAmFzBNo5bm53pHkDrb){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-de-baloncesto-nba)
+- [Ver Partidos Históricos del Mundial](https://www.minds.com/newsfeed/1087686435716186112?referrer=rosepac){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#partidos-históricos-del-mundial)
 
 ## **Revistas de Computer Hoy**
 
 - **Computer Hoy**
-- Descargar [Computer Hoy 558](https://drive.google.com/open?id=1qvHw76PvBfx0Qf-F8P77KIMAtgSqXkEE){:target="_blank"}
-- Descargar [Computer Hoy 557](https://drive.google.com/open?id=15Qo3NCy8_xyNCjPXxMC-Bj2gfepYrTIz){:target="_blank"}
+- Descargar [Computer Hoy 558](https://drive.google.com/open?id=1qvHw76PvBfx0Qf-F8P77KIMAtgSqXkEE){:target="_blank" rel="nofollow"}
+- Descargar [Computer Hoy 557](https://drive.google.com/open?id=15Qo3NCy8_xyNCjPXxMC-Bj2gfepYrTIz){:target="_blank" rel="nofollow"}
 
 Otras Revistas de la línea editorial Axel Springer
 
 - **Hobby Consolas**
-  - Descargar [Hobby Consolas 343](https://drive.google.com/open?id=1y6R690SUV10OuYLxCGlgitvART83Idj9){:target="_blank"}
-  - Descargar [Hobby Consolas 342](https://drive.google.com/open?id=1P6sN7WjTSgM8orSFzy2qYbz-S4Q-8nYK){:target="_blank"}
+  - Descargar [Hobby Consolas 343](https://drive.google.com/open?id=1y6R690SUV10OuYLxCGlgitvART83Idj9){:target="_blank" rel="nofollow"}
+  - Descargar [Hobby Consolas 342](https://drive.google.com/open?id=1P6sN7WjTSgM8orSFzy2qYbz-S4Q-8nYK){:target="_blank" rel="nofollow"}
 
 - **Retro Gamer**
-  - Descargar [Retrogamer 30](https://drive.google.com/open?id=1RD3MbcC2K9xbHQs01E7u6rB61J-9RdW3){:target="_blank"}
+  - Descargar [Retrogamer 30](https://drive.google.com/open?id=1RD3MbcC2K9xbHQs01E7u6rB61J-9RdW3){:target="_blank" rel="nofollow"}
 
 - **Auto Bild**
-  - Descargar [Auto Bild 605](https://drive.google.com/open?id=1ggy96YVgpywRGLcjSks4wPseTR24DChT){:target="_blank"}
-  - Descargar [Auto Bild 604](https://drive.google.com/open?id=1NTlhFYMNv25VLKRSlq9uBQpKJuepyGwU){:target="_blank"}
+  - Descargar [Auto Bild 605](https://drive.google.com/open?id=1ggy96YVgpywRGLcjSks4wPseTR24DChT){:target="_blank" rel="nofollow"}
+  - Descargar [Auto Bild 604](https://drive.google.com/open?id=1NTlhFYMNv25VLKRSlq9uBQpKJuepyGwU){:target="_blank" rel="nofollow"}
 
 - **Top Gear**
-  - Descargar [Top Gear 22](https://drive.google.com/open?id=1vyZ-NLE2G62RN_QlU7QVh44jD8wzZt9n){:target="_blank"}
-  - Descargar [Top Gear 21](https://drive.google.com/open?id=1hASSq7c75noGdTCkQ8q_IgMiaVmes_BH){:target="_blank"}
+  - Descargar [Top Gear 22](https://drive.google.com/open?id=1vyZ-NLE2G62RN_QlU7QVh44jD8wzZt9n){:target="_blank" rel="nofollow"}
+  - Descargar [Top Gear 21](https://drive.google.com/open?id=1hASSq7c75noGdTCkQ8q_IgMiaVmes_BH){:target="_blank" rel="nofollow"}
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
@@ -177,7 +177,7 @@ La revista Gigantes ha decidido unirse al movimiento Quédate en Casa poniendo d
 
 ## **Libros Gratis: La Casa del Libro**
 
-Algunas editoriales han decidido poner sus ebooks gratuitos de forma solidaria, a través de la página de La Casa del Libro podrás descargar para cualquier E-Reader o Lector Electrónico. Por ejemplo, el [Kindle Paperwhite](https://amzn.to/2lCjLlR){:target="_blank"} o los nuevos Kindle Oasis; disponibles en [color negro](https://amzn.to/2jYgSLP){:target="_blank"} o [color dorado](https://amzn.to/2jZgBZ1){:target="_blank"}.
+Algunas editoriales han decidido poner sus ebooks gratuitos de forma solidaria, a través de la página de La Casa del Libro podrás descargar para cualquier E-Reader o Lector Electrónico. Por ejemplo, el [Kindle Paperwhite](https://amzn.to/2lCjLlR){:target="_blank" rel="nofollow"} o los nuevos Kindle Oasis; disponibles en [color negro](https://amzn.to/2jYgSLP){:target="_blank" rel="nofollow"} o [color dorado](https://amzn.to/2jZgBZ1){:target="_blank" rel="nofollow"}.
 
 Los libros disponibles son:
 
@@ -307,7 +307,7 @@ Los títulos son los siguientes: Una historia de Perros Viejos, Cómo Sobrevivir
 
 Libros GRATIS con los que Reflexionar estos días: El Poder de las Personas: Un ensayo para cambiar el mundo juntos, El Peligro de Creer y Futbolistas de Izquierdas.
 
-- [Léeme Libros](https://steemit.com/hive-154806/@rosepac/-libros-gratis-con-los-que-reflexionar-estos-das-yomequedoencasa-1584225813){:target="_blank"}
+- [Léeme Libros](https://steemit.com/hive-154806/@rosepac/-libros-gratis-con-los-que-reflexionar-estos-das-yomequedoencasa-1584225813){:target="_blank" rel="nofollow"}
 
 [📓 Vuelve a Alternativas Culturales](/alternativas-culturales-combatir-coronavirus/#alternativas-culturales){: .btn .btn--inverse .btn--large .align-center}
 
@@ -327,9 +327,9 @@ Recopilación de cientos de cómics que se han quedado libres de forma gratis po
 
 ## **Cómics Mujeres Legendarias**
 
-- [Mujeres Legendarias del Lejano Oeste: Primera Parte](https://issuu.com/mujereslegendarias/docs/fanzine_mujeres_legendarias_lejano_){:target="_blank"}
-- [Mujeres Legendarias del Lejano Oeste: Fanzine](https://issuu.com/mujereslegendarias/docs/fanzine_forajidas_completa_maqueta){:target="_blank"}
-- [Mujeres Legendarias de Ultramar](https://issuu.com/mujereslegendarias/docs/mujeres_legendarias_de_ultramar){:target="_blank"}
+- [Mujeres Legendarias del Lejano Oeste: Primera Parte](https://issuu.com/mujereslegendarias/docs/fanzine_mujeres_legendarias_lejano_){:target="_blank" rel="nofollow"}
+- [Mujeres Legendarias del Lejano Oeste: Fanzine](https://issuu.com/mujereslegendarias/docs/fanzine_forajidas_completa_maqueta){:target="_blank" rel="nofollow"}
+- [Mujeres Legendarias de Ultramar](https://issuu.com/mujereslegendarias/docs/mujeres_legendarias_de_ultramar){:target="_blank" rel="nofollow"}
 
 ## **Cómics de Riot Games**
 
@@ -354,7 +354,7 @@ Cervantes, Clarín, Julio Verne, Thomas Paine, Louisa May Alcott, Unamuno, Arist
 
 ## **Biblioteca Nacional de Emergencia**
 
-Al anunciar la [Biblioteca Nacional de Emergencia](http://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/){:target="_blank"}, se quedan en abierto una colección de libros que apoya la enseñanza remota de emergencia, actividades de investigación, becas independientes y estimulación intelectual, mientras que las universidades, escuelas, centros de capacitación y bibliotecas están cerrados.
+Al anunciar la [Biblioteca Nacional de Emergencia](http://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/){:target="_blank" rel="nofollow"}, se quedan en abierto una colección de libros que apoya la enseñanza remota de emergencia, actividades de investigación, becas independientes y estimulación intelectual, mientras que las universidades, escuelas, centros de capacitación y bibliotecas están cerrados.
 
 En concreto, dentro del idioma español, existen más de 19.000 documentos, son libros en préstamo durante 14 días que se deben devolver de forma interactiva; es un poco complicado encontrar los libros concretos que te interesan pero; al menos para libros infantiles y de adolescentes puede ser útil..
 
@@ -395,22 +395,22 @@ A través de la campaña #WorldCupAtHome , las repeticiones completas de más de
 ### **Alternativas Videojuegos**
 
 - Ubisoft Juegos Gratis [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#ubisoft-juegos-gratis)
-- [Festival de Juegos de Steam](https://www.minds.com/newsfeed/1087377917829427200?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#el-festival-de-juegos-de-steam)
-- [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#plataforma-gog-28-videojuegos-clásicos-gratis)
-- GoG: [Mable And The Wood](https://www.gog.com/?pp=4b1a62d54f5d635ceffa0118244d63e07779e04a#giveaway){:target="_blank"}
-- Epic Games: [Watch Dogs](https://www.epicgames.com/store/es-ES/product/watch-dogs/home){:target="_blank"} y [The Stanley Parable](https://www.epicgames.com/store/es-ES/product/the-stanley-parable/home){:target="_blank"}
-- Steam: [Tomb Raider 2013](https://store.steampowered.com/app/203160/Tomb_Raider/){:target="_blank"} + [Lara Croft and the Temple of Osiris](https://store.steampowered.com/app/289690/LARA_CROFT_AND_THE_TEMPLE_OF_OSIRIS/){:target="_blank"} (A partir de las 18 AM del 20 de Marzo)
-- Steam: [Deiland](https://store.steampowered.com/app/760620/Deiland/){:target="_blank"} + [Drawful 2](https://store.steampowered.com/app/442070/Drawful_2/){:target="_blank"}
-- [Gamivo: Un juego Aleatorio Gratis](https://www.gamivo.com/es/product/massive-ultimate-gamivo-clearance-extra-round-eight){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juego-aleatorio-gratis)
+- [Festival de Juegos de Steam](https://www.minds.com/newsfeed/1087377917829427200?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#el-festival-de-juegos-de-steam)
+- [28 Videojuegos Gratis de GOG](https://www.minds.com/newsfeed/1087416242261827584?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#plataforma-gog-28-videojuegos-clásicos-gratis)
+- GoG: [Mable And The Wood](https://www.gog.com/?pp=4b1a62d54f5d635ceffa0118244d63e07779e04a#giveaway){:target="_blank" rel="nofollow"}
+- Epic Games: [Watch Dogs](https://www.epicgames.com/store/es-ES/product/watch-dogs/home){:target="_blank" rel="nofollow"} y [The Stanley Parable](https://www.epicgames.com/store/es-ES/product/the-stanley-parable/home){:target="_blank" rel="nofollow"}
+- Steam: [Tomb Raider 2013](https://store.steampowered.com/app/203160/Tomb_Raider/){:target="_blank" rel="nofollow"} + [Lara Croft and the Temple of Osiris](https://store.steampowered.com/app/289690/LARA_CROFT_AND_THE_TEMPLE_OF_OSIRIS/){:target="_blank" rel="nofollow"} (A partir de las 18 AM del 20 de Marzo)
+- Steam: [Deiland](https://store.steampowered.com/app/760620/Deiland/){:target="_blank" rel="nofollow"} + [Drawful 2](https://store.steampowered.com/app/442070/Drawful_2/){:target="_blank" rel="nofollow"}
+- [Gamivo: Un juego Aleatorio Gratis](https://www.gamivo.com/es/product/massive-ultimate-gamivo-clearance-extra-round-eight){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#juego-aleatorio-gratis)
 - [Juegos GRATIS de Todas las Plataformas](/videojuegos-gratis/)
-<!-- - [](){:target="_blank"} [👉 Saber Más]() -->
+<!-- - [](){:target="_blank" rel="nofollow"} [👉 Saber Más]() -->
 
 ## **Ubisoft Juegos Gratis**
 
-- Child of Light 👉 [GO!](https://register.ubisoft.com/child-of-light/es-ES){:target="_blank"}
-- Ghost Recon Breakpoint 👉 [GO!](https://freeweekend.ubisoft.com/ghost-recon-breakpoint/es-ES){:target="_blank"}
-- Rabbids Coding 👉 [GO!](https://register.ubisoft.com/rabbids-coding/es-ES){:target="_blank"}
-- Might & Magic: Chess Royale 👉 [GO!](https://www.ubisoft.com/es-es/game/might-and-magic-chess-royale/){:target="_blank"}
+- Child of Light 👉 [GO!](https://register.ubisoft.com/child-of-light/es-ES){:target="_blank" rel="nofollow"}
+- Ghost Recon Breakpoint 👉 [GO!](https://freeweekend.ubisoft.com/ghost-recon-breakpoint/es-ES){:target="_blank" rel="nofollow"}
+- Rabbids Coding 👉 [GO!](https://register.ubisoft.com/rabbids-coding/es-ES){:target="_blank" rel="nofollow"}
+- Might & Magic: Chess Royale 👉 [GO!](https://www.ubisoft.com/es-es/game/might-and-magic-chess-royale/){:target="_blank" rel="nofollow"}
 
 ## **El Festival de Juegos de Steam**
 
@@ -441,21 +441,21 @@ De entre los movimientos que han ido naciendo, entre los más destacados se encu
 
 Las retransmisiones son emitidas a través de Instagram.
 
-- [Concierto Estopa](https://www.instagram.com/estopaoficial/?hl=es){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-estopa) (20.10 H.)
-- [Concierto por América](https://www.fox.com/the-iheart-living-room-concert-for-america/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-por-américa) (Domingo al Lunes. 4 AM)
-- [Conciertos Billboard](https://steemit.com/hive-154806/@rosepac/-msica-en-directo-por-streaming-lauren-jauregui-skip-marley-y-ms-listos-para-los-conciertos-en-vivo-de-billboard-lauren-jauregui-skip-marley-more-set-for-billboard-live-at-home-concerts-1585071117){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-billboard)
-- [Circo del Sol](https://www.cirquedusoleil.com/cirqueconnect) (3 Nuevos Espectáculos a las 20 H.){:target="_blank"} 
+- [Concierto Estopa](https://www.instagram.com/estopaoficial/?hl=es){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-estopa) (20.10 H.)
+- [Concierto por América](https://www.fox.com/the-iheart-living-room-concert-for-america/){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-por-américa) (Domingo al Lunes. 4 AM)
+- [Conciertos Billboard](https://steemit.com/hive-154806/@rosepac/-msica-en-directo-por-streaming-lauren-jauregui-skip-marley-y-ms-listos-para-los-conciertos-en-vivo-de-billboard-lauren-jauregui-skip-marley-more-set-for-billboard-live-at-home-concerts-1585071117){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-billboard)
+- [Circo del Sol](https://www.cirquedusoleil.com/cirqueconnect) (3 Nuevos Espectáculos a las 20 H.){:target="_blank" rel="nofollow"} 
 - [Dua Lipa: Lanzamiento en Directo de Su Nuevo Album](https://www.instagram.com/dualipa/?hl=es) - Viernes 27. LAnza Nuevo Single el día 25.
-- [Concierto DJ Dnice](https://www.instagram.com/dnice/){:target="_blank"} - Fiesta Electrónica el Martes 19 H. Española
-- [Concierto Colors - R & B y Hip Hop](https://www.youtube.com/watch?v=u4lxQlNyjY0){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-colors)
-- [Festival Yo Me quedo En Casa](https://www.minds.com/newsfeed/1087364534203822080?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#festival-yo-me-quedo-en-casa)
+- [Concierto DJ Dnice](https://www.instagram.com/dnice/){:target="_blank" rel="nofollow"} - Fiesta Electrónica el Martes 19 H. Española
+- [Concierto Colors - R & B y Hip Hop](https://www.youtube.com/watch?v=u4lxQlNyjY0){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#concierto-colors)
+- [Festival Yo Me quedo En Casa](https://www.minds.com/newsfeed/1087364534203822080?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#festival-yo-me-quedo-en-casa)
 - [Beatport: Carl Cox y Amigos](https://www.minds.com/newsfeed/1089012796786941952?referrer=rosepac) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#beatport-carl-cox-y-amigos)
-- [Festival Mantita Fest](https://www.minds.com/newsfeed/1087368673935732736?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest)
-- [Festival Mantita Fest Latinoámerica](https://www.instagram.com/p/B-Ljf91i2bS/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest-latinoámerica)
-- [Festival Cuarentena Fest](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac){:target="_blank"}
+- [Festival Mantita Fest](https://www.minds.com/newsfeed/1087368673935732736?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest)
+- [Festival Mantita Fest Latinoámerica](https://www.instagram.com/p/B-Ljf91i2bS/){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#mantita-fest-latinoámerica)
+- [Festival Cuarentena Fest](https://www.minds.com/newsfeed/1087370821931085824?referrer=rosepac){:target="_blank" rel="nofollow"}
  [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#cuarentena-fest)
-- [Conciertos Metallica](https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#conciertos-metallica)
-<!-- - [](){:target="_blank"} [👉 Saber Más]() -->
+- [Conciertos Metallica](https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#conciertos-metallica)
+<!-- - [](){:target="_blank" rel="nofollow"} [👉 Saber Más]() -->
 
 ## **Concierto Estopa**
 
@@ -517,7 +517,7 @@ Penny Necklace, Rafa Pons, FloridaBlanca, Colectivo Panamera, Julia Medina, Conc
 
 ### **Viernes 27 a las 21 Hora Española**
 
-Beatport, la tienda de música electrónica Online más importante del mundo. Va a organizar una fiesta electrónica a nivel mundial: 24 horas de música electrónica en vivo, sin parar. El viernes, Beatport [lanzará una transmisión](https://www.twitch.tv/beatport){:target="_blank"} en vivo de 24 horas con algunos de los Dj más grandes del mundo en vivo desde sus hogares y estudios. A partir de las 21:00 PM hora española en el canal Twitch de Beatport, 24 artistas, incluidos **Carl Cox, Bonobo, Nina Kraviz, Griz, Rüfüs Du Sol, A-Trak, Nicole Moudaber, Chris Liebing y Nora En Pure**, completarán un día completo en línea para entretener a todos los que estamos actualmente en cuarentena a lo largo de todo el mundo.
+Beatport, la tienda de música electrónica Online más importante del mundo. Va a organizar una fiesta electrónica a nivel mundial: 24 horas de música electrónica en vivo, sin parar. El viernes, Beatport [lanzará una transmisión](https://www.twitch.tv/beatport){:target="_blank" rel="nofollow"} en vivo de 24 horas con algunos de los Dj más grandes del mundo en vivo desde sus hogares y estudios. A partir de las 21:00 PM hora española en el canal Twitch de Beatport, 24 artistas, incluidos **Carl Cox, Bonobo, Nina Kraviz, Griz, Rüfüs Du Sol, A-Trak, Nicole Moudaber, Chris Liebing y Nora En Pure**, completarán un día completo en línea para entretener a todos los que estamos actualmente en cuarentena a lo largo de todo el mundo.
 
 "En las últimas semanas, hemos visto a tanta humanidad unirse para luchar contra la escalada del virus COVID-19 en un esfuerzo por proteger a los más vulnerables", dijo el CEO de Beatport, Robb McDaniels, en un comunicado. Muchos de nosotros nos refugiamos en nuestros hogares, deseando mantenernos conectados con la gente y la música que juega un papel tan positivo en nuestras vidas, Beatport y la apasionada comunidad de DJ con la que trabajamos a diario se sienten obligados a ofrecer una experiencia musical única directamente en hogares en todo el mundo.
 
@@ -575,13 +575,13 @@ Las madrugadas del lunes al martes a la 1 AM hora española, se emitirá a trav�
 
 ### **Alternativas Educativas e Infantiles**
 
-- [Aprendemos en Casa](https://www.educacionyfp.gob.es/prensa/actualidad/2020/03/20200321-mefprtve.html){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aprendemos-en-casa)
-- [Edelvives](https://www.edelvives.com/es/Noticias/d/edelvives-apoya-a-los-centros-en-plena-crisis-del-coronavirus){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-edelvives)
-- [Genially](https://www.edelvives.com/es/Noticias/d/edelvives-apoya-a-los-centros-en-plena-crisis-del-coronavirus){:target="_blank"} (Plantillas PRO para presentaciones y mapas interactivos)
-- [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
-- [Cursos de la Constitución Española para Opositores](https://www.minds.com/newsfeed/1087694009007644672?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#campus-mad-para-opositores)
-- [❌ Finalizado: Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
-<!-- - [](){:target="_blank"} [👉 Saber Más]() -->
+- [Aprendemos en Casa](https://www.educacionyfp.gob.es/prensa/actualidad/2020/03/20200321-mefprtve.html){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aprendemos-en-casa)
+- [Edelvives](https://www.edelvives.com/es/Noticias/d/edelvives-apoya-a-los-centros-en-plena-crisis-del-coronavirus){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-edelvives)
+- [Genially](https://www.edelvives.com/es/Noticias/d/edelvives-apoya-a-los-centros-en-plena-crisis-del-coronavirus){:target="_blank" rel="nofollow"} (Plantillas PRO para presentaciones y mapas interactivos)
+- [Scribd](https://www.minds.com/newsfeed/1087698413160554496?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#scribd) (Gratis en Abierto durante 30 días)
+- [Cursos de la Constitución Española para Opositores](https://www.minds.com/newsfeed/1087694009007644672?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#campus-mad-para-opositores)
+- [❌ Finalizado: Aplicaciones Mosa Lengua Gratis](https://www.minds.com/newsfeed/1087722285537796096?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-mosa-lingua-gratis)
+<!-- - [](){:target="_blank" rel="nofollow"} [👉 Saber Más]() -->
 
 Como no, nuestros recopilatorioes de cursos:
 - [Cursos de Programación, Desarrollo Web y Mucho Más](/cursos-tecnologia/)
@@ -646,12 +646,12 @@ Campus MAD ofrece gratuitos por un plazo de 40 días, tres cursos con los que pr
 
 ### **Alternativas Infantiles**
 
-- [Aula Planeta](https://www.aulaplaneta.com/contacto/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aula-planeta)
+- [Aula Planeta](https://www.aulaplaneta.com/contacto/){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aula-planeta)
 - [Aplicaciones sobre todo para Primaria](https://www.minds.com/newsfeed/1088200807123296256?referrer=rosepac) (Gratis Temporalmente) [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#aplicaciones-gratis-para-niños)
-- [Salvat: Audios y Libros Gratis](https://www.minds.com/newsfeed/1088515844003282944?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#salvat-regala-audiolibros-y-cuentos-para-niños)
-- [Libros Colorear Gratis del Planeta de los Libros](https://www.minds.com/newsfeed/1088875518647279616?referrer=rosepac){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-para-los-niños)
-- [Comic: Los Orígenes del Español](https://i.escrol.es/ILCYL/DOC/DCCF2278-B18F-902D-1E7906F48FC2A0A9.PDF){:target="_blank"}
-- [Editorial Errata Naturae: Para niños](http://erratanaturae.com/8805-2/){:target="_blank"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-errata-naturae-ideas-para-niños)
+- [Salvat: Audios y Libros Gratis](https://www.minds.com/newsfeed/1088515844003282944?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#salvat-regala-audiolibros-y-cuentos-para-niños)
+- [Libros Colorear Gratis del Planeta de los Libros](https://www.minds.com/newsfeed/1088875518647279616?referrer=rosepac){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-planeta-para-los-niños)
+- [Comic: Los Orígenes del Español](https://i.escrol.es/ILCYL/DOC/DCCF2278-B18F-902D-1E7906F48FC2A0A9.PDF){:target="_blank" rel="nofollow"}
+- [Editorial Errata Naturae: Para niños](http://erratanaturae.com/8805-2/){:target="_blank" rel="nofollow"} [👉 Saber Más](/alternativas-culturales-combatir-coronavirus/#editorial-errata-naturae-ideas-para-niños)
 
 ## **Aula Planeta**
 
@@ -689,8 +689,8 @@ Diferentes libros de colorear: Diario Elashow, Anna Kadabra, Núria Díaz, Ana L
 
 No son pocas las personas que se han hechado a crear diferentes rutinas de cardío para ayudar a que las personas puedan realizar deporte en casa tranquilamente. Algunos ejemplos, son los siguientes..
 
-- [Gym Virtual](https://gymvirtual.com/){:target="_blank"} (completo calendario de actividades, para realizar Gymnasio a diario desde casa)
-- [KimFrench87](https://www.instagram.com/p/B8rXjkuBtb8/){:target="_blank"} (rutina de 5 ejercicions con repeticiones cargando peso..)
-<!-- - [](){:target="_blank"} [👉 Saber Más]() -->
+- [Gym Virtual](https://gymvirtual.com/){:target="_blank" rel="nofollow"} (completo calendario de actividades, para realizar Gymnasio a diario desde casa)
+- [KimFrench87](https://www.instagram.com/p/B8rXjkuBtb8/){:target="_blank" rel="nofollow"} (rutina de 5 ejercicions con repeticiones cargando peso..)
+<!-- - [](){:target="_blank" rel="nofollow"} [👉 Saber Más]() -->
 
 [⛑ Regresar al Inicio](/alternativas-culturales-combatir-coronavirus/#alternativas-para-combatir-el-coronavirus){: .btn .btn--inverse .btn--large .align-center}

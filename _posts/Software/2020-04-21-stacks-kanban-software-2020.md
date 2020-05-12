@@ -35,7 +35,7 @@ Cuando escuchamos **las palabras kanban y tableros, inmediatamente se nos viene 
 
 Pero con todos sus méritos, que son innegables, **Trello no es perfecto**. Algunas funciones están disponibles solo en su modo de pago y además, sus aplicaciones de escritorio dejan aspectos que desear: puesto que son solamente versiones web llevadas al escritorio.
 
-Ahora se lanza **una nueva alternativa para Trello, un maravilloso gestor de proyectos, llamado [Stacks](https://stacks.rocks/){:target="_blank"}**.
+Ahora se lanza **una nueva alternativa para Trello, un maravilloso gestor de proyectos, llamado [Stacks](https://stacks.rocks/){:target="_blank" rel="nofollow"}**.
 
 **Stacks es un programa de escritorio completo, no una aplicación web**. Stacks almacena **tus tableros en modo local** y **no los transfiere a servidores de terceros**. Lo que pasa a ser una muy buena noticia, para quiénes trabajen en proyectos confindenciales.
 
@@ -49,7 +49,7 @@ Las listas de verificación, un contador de progreso y el tiempo transcurrido, l
 
 **Stacks es de código abierto** (o eso dicen a pesar de que su código aún no está en ninguna parte?) y además; **la aplicación es totalmente gratuita y sin limitaciones funcionales**. Stacks existe para todas las versiones de Sistemas Operativos: Windows, macOS y Linux.
 
-[⏩ Probar STACKS](https://stacks.rocks/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⏩ Probar STACKS](https://stacks.rocks/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 🔥 Seguro también te interesa: [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
 {: .notice--danger}

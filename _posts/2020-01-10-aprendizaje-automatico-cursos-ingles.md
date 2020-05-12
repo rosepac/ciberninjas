@@ -35,7 +35,7 @@ He dividido esta publicación en cuatro secciones: **Aprendizaje automático**, 
 
 Si hay ***buenos\*** tutoriales que sabe que me estoy perdiendo, ¡hágamelo saber! Estoy tratando de limitar cada tema a cinco o seis tutoriales ya que mucho más allá sería repetitivo. Cada enlace debe tener material diferente de los otros enlaces o presentar información de manera diferente (por ejemplo, código versus diapositivas versus formato largo) o desde una perspectiva diferente.
 
-**Firmado**: [@RobbieAllen](https://twitter.com/robbieallen){:target="_blank"}
+**Firmado**: [@RobbieAllen](https://twitter.com/robbieallen){:target="_blank" rel="nofollow"}
 
 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
@@ -477,7 +477,7 @@ Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/wo
 
 [Descripción general del cálculo](http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) (readthedocs.io)
 
-[🎓 Cursos Machine Learning en Español 🐍](https://ouo.io/QSlgGQ){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[🎓 Cursos Machine Learning en Español 🐍](https://ouo.io/QSlgGQ){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
@@ -492,4 +492,4 @@ Tutorial de Word2Vec: [el modelo Skip-Gram](http://mccormickml.com/2016/04/19/wo
 _____
 
 **Fuentes**:
-* [Medium](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc){:target="_blank"}
+* [Medium](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc){:target="_blank" rel="nofollow"}

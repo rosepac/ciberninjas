@@ -272,4 +272,4 @@ _____
 
 **Fuentes**:
 
-* [Google Help](https://support.google.com/android/?hl=es){:target="_blank"}
+* [Google Help](https://support.google.com/android/?hl=es){:target="_blank" rel="nofollow"}

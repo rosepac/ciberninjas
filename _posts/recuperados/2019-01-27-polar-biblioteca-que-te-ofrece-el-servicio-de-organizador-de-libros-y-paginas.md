@@ -15,7 +15,7 @@ permalink: /polar-biblioteca-que-te-ofrece-el-servicio-de-organizador-de-libros-
 
 **POLAR** es un potente navegador sin conexión para **Mac** , **Windows** y **Linux** para administrar todo su contenido web, libros y notas. En **Polar** se mantiene todo el contenido en un solo lugar, admite etiquetado, anotación, resaltado y realiza un seguimiento de su progreso de lectura.
 
-Anote documentos directamente mientras los lee y sincronice con sistemas de repetición espaciados como [Anki](https://ankiweb.net){:target="_blank"}.
+Anote documentos directamente mientras los lee y sincronice con sistemas de repetición espaciados como [Anki](https://ankiweb.net){:target="_blank" rel="nofollow"}.
 
 ![Software Polar, un perfecto organizador de documentos que te servirá de gestión. Mundo Framework por rosepac](https://mundoframework.com/wp-content/uploads/2019/01/polar-captura-1.png)<figcaption>Software Polar, un perfecto organizador de documentos que te servirá de gestión. Mundo Framework por rosepac</figcaption>
 

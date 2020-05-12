@@ -24,80 +24,80 @@ toc_sticky: false
 
 ### Meta Listas
 
-- [atariarchives.org](https://www.atariarchives.org/){:target="_blank"} atariarchives.org pone a disposición en la Web libros, información y software para Atari y otras computadoras clásicas.
-- [Bento](https://www.bento.io/){:target="_blank"}
-- [Bitsavers.org](https://bitsavers.trailing-edge.com/){:target="_blank"}
-- [Bookboon: se](https://bookboon.com/en/it-programming-ebooks){:target="_blank"} requiere cookie de [TI y programación](https://bookboon.com/en/it-programming-ebooks){:target="_blank"} . (dirección de correo electrónico *solicitada* , no requerida)
-- [Hojas de trucos (gratis)](https://dzone.com/refcardz){:target="_blank"}
-- [conceptf1.blogspot.com](https://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html){:target="_blank"}
-- [Libros gratuitos de Smalltalk, recopilados por Stéphane Ducasse](https://stephane.ducasse.free.fr/FreeBooks.html){:target="_blank"}
-- [Libros tecnológicos gratuitos](https://www.freetechbooks.com/){:target="_blank"}
-- [Goalkicker](https://goalkicker.com/){:target="_blank"} - Notas de programación para libros profesionales
-- [IBM Redbooks](https://www.redbooks.ibm.com/){:target="_blank"}
-- [InfoQ Minibooks](https://www.infoq.com/minibooks/){:target="_blank"}
-- [InTech: informática y ciencias de la información](https://www.intechopen.com/subjects/computer-and-information-science){:target="_blank"}
-- [JSBooks - directorio de libros electrónicos javascript gratuitos](https://github.com/revolunet/JSbooks){:target="_blank"}
-- [Aprende X en minutos Y](https://learnxinyminutes.com/){:target="_blank"}
-- [Programación de Recursos para Aprender Learneroo](https://www.learneroo.com/modules/12/nodes/96){:target="_blank"}
-- [Guías de Microsoft para el software](https://blogs.msdn.microsoft.com/mssmallbiz/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2/){:target="_blank"}
-- [Microsoft Press: libros electrónicos gratuitos](https://mva.microsoft.com/ebooks){:target="_blank"}
-- [Microsoft Technologies 1, que incluye libros sobre Windows Azure, SharePoint, Visual Studio Guide, desarrollo de teléfonos Windows, ASP.net, Office365, etc. colección de Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/){:target="_blank"}
-- [Microsoft Technologies 2, que incluye libros sobre Windows Azure, SharePoint, Visual Studio Guide, desarrollo de teléfonos Windows, ASP.net, etc. colección de Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/){:target="_blank"}
-- [Microsoft Technologies 3, incluidos libros sobre Windows Azure, SharePoint, Visual Studio Guide, desarrollo de teléfonos Windows, ASP.net, etc. colección de Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/){:target="_blank"}
-- [Proyecto de libros abiertos de O'Reilly](https://www.oreilly.com/openbook/){:target="_blank"}
-- [Papeles que amamos](https://github.com/papers-we-love/papers-we-love){:target="_blank"}
-- [Programación](https://en.wikibooks.org/wiki/Category%3aComputer_programming){:target="_blank"} - Wikilibros
-- [Libros de la puerta roja](https://www.red-gate.com/community/books/index){:target="_blank"}
-- [Libros en línea gratuitos de Smallftalk de Stef](https://stephane.ducasse.free.fr/FreeBooks/){:target="_blank"}
-- [TechBeamers.com](https://www.techbeamers.com/){:target="_blank"}
-- [TechBooksForFree.com](https://www.techbooksforfree.com/){:target="_blank"}
-- [La guía y lista definitiva de libros de C ++](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list){:target="_blank"}
-- [Theassayer.org](https://theassayer.org/){:target="_blank"}
-- [punto de tutoría](https://www.tutorialspoint.com/){:target="_blank"}
+- [atariarchives.org](https://www.atariarchives.org/){:target="_blank" rel="nofollow"} atariarchives.org pone a disposición en la Web libros, información y software para Atari y otras computadoras clásicas.
+- [Bento](https://www.bento.io/){:target="_blank" rel="nofollow"}
+- [Bitsavers.org](https://bitsavers.trailing-edge.com/){:target="_blank" rel="nofollow"}
+- [Bookboon: se](https://bookboon.com/en/it-programming-ebooks){:target="_blank" rel="nofollow"} requiere cookie de [TI y programación](https://bookboon.com/en/it-programming-ebooks){:target="_blank" rel="nofollow"} . (dirección de correo electrónico *solicitada* , no requerida)
+- [Hojas de trucos (gratis)](https://dzone.com/refcardz){:target="_blank" rel="nofollow"}
+- [conceptf1.blogspot.com](https://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html){:target="_blank" rel="nofollow"}
+- [Libros gratuitos de Smalltalk, recopilados por Stéphane Ducasse](https://stephane.ducasse.free.fr/FreeBooks.html){:target="_blank" rel="nofollow"}
+- [Libros tecnológicos gratuitos](https://www.freetechbooks.com/){:target="_blank" rel="nofollow"}
+- [Goalkicker](https://goalkicker.com/){:target="_blank" rel="nofollow"} - Notas de programación para libros profesionales
+- [IBM Redbooks](https://www.redbooks.ibm.com/){:target="_blank" rel="nofollow"}
+- [InfoQ Minibooks](https://www.infoq.com/minibooks/){:target="_blank" rel="nofollow"}
+- [InTech: informática y ciencias de la información](https://www.intechopen.com/subjects/computer-and-information-science){:target="_blank" rel="nofollow"}
+- [JSBooks - directorio de libros electrónicos javascript gratuitos](https://github.com/revolunet/JSbooks){:target="_blank" rel="nofollow"}
+- [Aprende X en minutos Y](https://learnxinyminutes.com/){:target="_blank" rel="nofollow"}
+- [Programación de Recursos para Aprender Learneroo](https://www.learneroo.com/modules/12/nodes/96){:target="_blank" rel="nofollow"}
+- [Guías de Microsoft para el software](https://blogs.msdn.microsoft.com/mssmallbiz/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2/){:target="_blank" rel="nofollow"}
+- [Microsoft Press: libros electrónicos gratuitos](https://mva.microsoft.com/ebooks){:target="_blank" rel="nofollow"}
+- [Microsoft Technologies 1, que incluye libros sobre Windows Azure, SharePoint, Visual Studio Guide, desarrollo de teléfonos Windows, ASP.net, Office365, etc. colección de Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/){:target="_blank" rel="nofollow"}
+- [Microsoft Technologies 2, que incluye libros sobre Windows Azure, SharePoint, Visual Studio Guide, desarrollo de teléfonos Windows, ASP.net, etc. colección de Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/){:target="_blank" rel="nofollow"}
+- [Microsoft Technologies 3, incluidos libros sobre Windows Azure, SharePoint, Visual Studio Guide, desarrollo de teléfonos Windows, ASP.net, etc. colección de Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/){:target="_blank" rel="nofollow"}
+- [Proyecto de libros abiertos de O'Reilly](https://www.oreilly.com/openbook/){:target="_blank" rel="nofollow"}
+- [Papeles que amamos](https://github.com/papers-we-love/papers-we-love){:target="_blank" rel="nofollow"}
+- [Programación](https://en.wikibooks.org/wiki/Category%3aComputer_programming){:target="_blank" rel="nofollow"} - Wikilibros
+- [Libros de la puerta roja](https://www.red-gate.com/community/books/index){:target="_blank" rel="nofollow"}
+- [Libros en línea gratuitos de Smallftalk de Stef](https://stephane.ducasse.free.fr/FreeBooks/){:target="_blank" rel="nofollow"}
+- [TechBeamers.com](https://www.techbeamers.com/){:target="_blank" rel="nofollow"}
+- [TechBooksForFree.com](https://www.techbooksforfree.com/){:target="_blank" rel="nofollow"}
+- [La guía y lista definitiva de libros de C ++](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list){:target="_blank" rel="nofollow"}
+- [Theassayer.org](https://theassayer.org/){:target="_blank" rel="nofollow"}
+- [punto de tutoría](https://www.tutorialspoint.com/){:target="_blank" rel="nofollow"}
 
 ### Programación Gráfica
 
-- [Blender 3D: novato a profesional](https://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro){:target="_blank"} - Wikilibros
-- [Gráficos por computadora desde cero](https://gabrielgambetta.com/computer-graphics-from-scratch){:target="_blank"} - Gabriel Gambetta (🚧 *en proceso* )
-- [Manual de DirectX](https://user.xmission.com/~legalize/book/download/index.html){:target="_blank"} (borrador)
-- [Gemas GPU](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html){:target="_blank"}
-- [Programación de gráficos Libro negro](https://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698){:target="_blank"} - Michael Abrash
-- [Introducción a OpenGL moderno](https://open.gl/){:target="_blank"}
-- [Aprende OpenGL](https://learnopengl.com/){:target="_blank"} - Joey de Vries
-- [Aprendizaje de la programación moderna de gráficos en 3D](https://web.archive.org/web/20150225192611/https://www.arcsynthesis.org/gltut/index.html){:target="_blank"} - Jason L. McKesson (borrador)
-- [OpenGL](https://www.songho.ca/opengl/index.html){:target="_blank"} - Conceptos e ilustraciones.
-- [Serie ShaderX](https://www.realtimerendering.com/resources/shaderx/){:target="_blank"} - Wolfgang Engel
-- [Tutoriales para OpenGL moderno](https://www.opengl-tutorial.org/){:target="_blank"}
-- [WebGL Insights](https://webglinsights.com/){:target="_blank"} - Patrick Cozzi y colaboradores
+- [Blender 3D: novato a profesional](https://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro){:target="_blank" rel="nofollow"} - Wikilibros
+- [Gráficos por computadora desde cero](https://gabrielgambetta.com/computer-graphics-from-scratch){:target="_blank" rel="nofollow"} - Gabriel Gambetta (🚧 *en proceso* )
+- [Manual de DirectX](https://user.xmission.com/~legalize/book/download/index.html){:target="_blank" rel="nofollow"} (borrador)
+- [Gemas GPU](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html){:target="_blank" rel="nofollow"}
+- [Programación de gráficos Libro negro](https://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698){:target="_blank" rel="nofollow"} - Michael Abrash
+- [Introducción a OpenGL moderno](https://open.gl/){:target="_blank" rel="nofollow"}
+- [Aprende OpenGL](https://learnopengl.com/){:target="_blank" rel="nofollow"} - Joey de Vries
+- [Aprendizaje de la programación moderna de gráficos en 3D](https://web.archive.org/web/20150225192611/https://www.arcsynthesis.org/gltut/index.html){:target="_blank" rel="nofollow"} - Jason L. McKesson (borrador)
+- [OpenGL](https://www.songho.ca/opengl/index.html){:target="_blank" rel="nofollow"} - Conceptos e ilustraciones.
+- [Serie ShaderX](https://www.realtimerendering.com/resources/shaderx/){:target="_blank" rel="nofollow"} - Wolfgang Engel
+- [Tutoriales para OpenGL moderno](https://www.opengl-tutorial.org/){:target="_blank" rel="nofollow"}
+- [WebGL Insights](https://webglinsights.com/){:target="_blank" rel="nofollow"} - Patrick Cozzi y colaboradores
 
 ### Interfaces gráficas de usuario
 
-- [Programación con gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/){:target="_blank"}
-- [Buscar interfaces de usuario](https://searchuserinterfaces.com/book/){:target="_blank"} - Marti A. Hearst
-- [La plataforma de desarrollo GLib / GTK +](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf){:target="_blank"} - Sébastien Wilmet (PDF)
+- [Programación con gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/){:target="_blank" rel="nofollow"}
+- [Buscar interfaces de usuario](https://searchuserinterfaces.com/book/){:target="_blank" rel="nofollow"} - Marti A. Hearst
+- [La plataforma de desarrollo GLib / GTK +](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf){:target="_blank" rel="nofollow"} - Sébastien Wilmet (PDF)
 
 ### GraphQL
 
-- [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql){:target="_blank"}
+- [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql){:target="_blank" rel="nofollow"}
 
 ### Lenguaje agnóstico
 
 #### Algoritmos y Estructuras de Datos
 
-- [Una guía de campo para la programación genética](https://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html){:target="_blank"} - Riccardo Poli et al.
-- [Teoría de grafos algorítmicos](https://code.google.com/p/graphbook/){:target="_blank"}
-- [Algoritmos](https://en.wikibooks.org/wiki/Algorithms){:target="_blank"} - Wikilibros
-- [Algoritmos, 4a edición](https://algs4.cs.princeton.edu/home/){:target="_blank"} - Robert Sedgewick y Kevin Wayne
-- [Algoritmos y Máquinas de Computación Automática (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines){:target="_blank"} - BA Trakhtenbrot
-- [Algoritmos y Complejidad](https://www.math.upenn.edu/~wilf/AlgoComp.pdf){:target="_blank"} - Herbert S. Wilf (PDF)
-- [Materiales del curso de algoritmos](https://jeffe.cs.illinois.edu/teaching/algorithms/){:target="_blank"} - Jeff Erickson
-- [Análisis y diseño de algoritmos](https://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html){:target="_blank"} - Sandeep Sen, IIT Delhi
-- [Algoritmo Animado y Visualización de Estructura de Datos](https://visualgo.net/){:target="_blank"} (Recurso)
-- [Algoritmos Anotados en Python: Aplicaciones en Física, Biología y Finanzas](https://github.com/mdipierro/nlib){:target="_blank"} - Massimo di Pierro
-- [Árboles binarios](https://cslibrary.stanford.edu/110/BinaryTrees.pdf){:target="_blank"} (PDF)
-- [Algoritmos inteligentes](https://www.cleveralgorithms.com/nature-inspired/){:target="_blank"} - Jason Brownlee
-- [CS Unplugged: informática sin computadora](https://csunplugged.org/books/){:target="_blank"}
-- [Estructuras de datos](https://www.cse.iitd.ernet.in/~suban/cs130/index.html){:target="_blank"} - Prof. Subhashis Banerjee, IIT Delhi
+- [Una guía de campo para la programación genética](https://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html){:target="_blank" rel="nofollow"} - Riccardo Poli et al.
+- [Teoría de grafos algorítmicos](https://code.google.com/p/graphbook/){:target="_blank" rel="nofollow"}
+- [Algoritmos](https://en.wikibooks.org/wiki/Algorithms){:target="_blank" rel="nofollow"} - Wikilibros
+- [Algoritmos, 4a edición](https://algs4.cs.princeton.edu/home/){:target="_blank" rel="nofollow"} - Robert Sedgewick y Kevin Wayne
+- [Algoritmos y Máquinas de Computación Automática (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines){:target="_blank" rel="nofollow"} - BA Trakhtenbrot
+- [Algoritmos y Complejidad](https://www.math.upenn.edu/~wilf/AlgoComp.pdf){:target="_blank" rel="nofollow"} - Herbert S. Wilf (PDF)
+- [Materiales del curso de algoritmos](https://jeffe.cs.illinois.edu/teaching/algorithms/){:target="_blank" rel="nofollow"} - Jeff Erickson
+- [Análisis y diseño de algoritmos](https://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html){:target="_blank" rel="nofollow"} - Sandeep Sen, IIT Delhi
+- [Algoritmo Animado y Visualización de Estructura de Datos](https://visualgo.net/){:target="_blank" rel="nofollow"} (Recurso)
+- [Algoritmos Anotados en Python: Aplicaciones en Física, Biología y Finanzas](https://github.com/mdipierro/nlib){:target="_blank" rel="nofollow"} - Massimo di Pierro
+- [Árboles binarios](https://cslibrary.stanford.edu/110/BinaryTrees.pdf){:target="_blank" rel="nofollow"} (PDF)
+- [Algoritmos inteligentes](https://www.cleveralgorithms.com/nature-inspired/){:target="_blank" rel="nofollow"} - Jason Brownlee
+- [CS Unplugged: informática sin computadora](https://csunplugged.org/books/){:target="_blank" rel="nofollow"}
+- [Estructuras de datos](https://www.cse.iitd.ernet.in/~suban/cs130/index.html){:target="_blank" rel="nofollow"} - Prof. Subhashis Banerjee, IIT Delhi
 - [Estructuras de datos (en Java) - Paul N. Hilfinger](https://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) (PDF)
 - [Estructuras de datos y algoritmos: referencia anotada con ejemplos](https://lib.mdp.ac.id/ebook/Karya Umum/Dsa.pdf) - G. Barnett y L. Del Tongo (PDF)
 - [Estructuras de datos sucintamente Parte 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) (dirección de correo electrónico *solicitada* , no requerida)
@@ -124,20 +124,20 @@ toc_sticky: false
 
 #### Autómata celular
 
-- [Un nuevo tipo de ciencia](https://www.wolframscience.com/nksonline/toc.html){:target="_blank"} - Stephen Wolfram
-- [Libros de autómatas celulares](https://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html){:target="_blank"}
+- [Un nuevo tipo de ciencia](https://www.wolframscience.com/nksonline/toc.html){:target="_blank" rel="nofollow"} - Stephen Wolfram
+- [Libros de autómatas celulares](https://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html){:target="_blank" rel="nofollow"}
 
 #### Computación en la nube
 
-- [Funciones de Azure de forma sucinta, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly){:target="_blank"} (PDF, Kindle) (dirección de correo electrónico solicitada, no requerida)
-- [Patrones de diseño en la nube](https://www.microsoft.com/en-us/download/details.aspx?id=42026){:target="_blank"}
-- [Diseño de sistemas distribuidos ](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/){:target="_blank"}*(se requiere cuenta)*
-- [Aprenda Azure en un mes de almuerzos](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf){:target="_blank"} - Iain Foulds (PDF)
-- [Monitoreo de la infraestructura moderna ](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/){:target="_blank"}*(se requiere cuenta)*
-- [Aplicaciones multiempresa para la nube, 3ra edición](https://www.microsoft.com/en-us/download/details.aspx?id=29263){:target="_blank"}
-- [Guía de operaciones de OpenStack](https://docs.openstack.org/ops-guide/index.html){:target="_blank"}
-- [Agilice la gestión de microservicios con Istio Service Mesh ](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/){:target="_blank"}*(se requiere cuenta)*
-- [La guía del desarrollador para Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/){:target="_blank"}
+- [Funciones de Azure de forma sucinta, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly){:target="_blank" rel="nofollow"} (PDF, Kindle) (dirección de correo electrónico solicitada, no requerida)
+- [Patrones de diseño en la nube](https://www.microsoft.com/en-us/download/details.aspx?id=42026){:target="_blank" rel="nofollow"}
+- [Diseño de sistemas distribuidos ](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/){:target="_blank" rel="nofollow"}*(se requiere cuenta)*
+- [Aprenda Azure en un mes de almuerzos](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf){:target="_blank" rel="nofollow"} - Iain Foulds (PDF)
+- [Monitoreo de la infraestructura moderna ](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/){:target="_blank" rel="nofollow"}*(se requiere cuenta)*
+- [Aplicaciones multiempresa para la nube, 3ra edición](https://www.microsoft.com/en-us/download/details.aspx?id=29263){:target="_blank" rel="nofollow"}
+- [Guía de operaciones de OpenStack](https://docs.openstack.org/ops-guide/index.html){:target="_blank" rel="nofollow"}
+- [Agilice la gestión de microservicios con Istio Service Mesh ](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/){:target="_blank" rel="nofollow"}*(se requiere cuenta)*
+- [La guía del desarrollador para Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/){:target="_blank" rel="nofollow"}
 
 #### Programación competitiva
 
@@ -146,18 +146,18 @@ toc_sticky: false
 
 #### Diseño del compilador
 
-- [Una introducción a GCC](https://www.network-theory.co.uk/docs/gccintro/){:target="_blank"}{:target="_blank"} - Brian Gough
-- [Conceptos básicos del diseño del compilador (Edición de aniversario)](https://www.diku.dk/~torbenm/Basics/){:target="_blank"}{:target="_blank"} - Torben Mogensen
-- [Construcción del compilador](https://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf){:target="_blank"}{:target="_blank"} (PDF)
-- [Diseño del compilador en C (1990)](https://www.holub.com/software/compiler.design.in.c.html){:target="_blank"}{:target="_blank"} - Allen Holub, Prentice Hall
-- [Diseño del compilador: teoría, herramientas y ejemplos, edición C / C ++](https://elvis.rowan.edu/~bergmann/books/cd/c_cpp/){:target="_blank"}{:target="_blank"} - Seth D. Bergmann
-- [Diseño del compilador: teoría, herramientas y ejemplos, edición de Java](https://elvis.rowan.edu/~bergmann/books/cd/java/){:target="_blank"}{:target="_blank"} - Seth D. Bergmann
-- [Compilación de Scala para la máquina virtual Java](https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf){:target="_blank"}{:target="_blank"} - Michel Schinz (PDF)
-- [Técnicas de compilación (1969)](https://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm){:target="_blank"}{:target="_blank"} - FRA Hopgood, Macdonald
-- [Intérpretes de artesanía (🚧)](https://www.craftinginterpreters.com/){:target="_blank"}{:target="_blank"} - Bob Nystrom (HTML)
-- [Implementación de lenguajes funcionales: un tutorial](https://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/){:target="_blank"}{:target="_blank"} - Simon Peyton Jones, David Lester
-- [Construyamos un compilador](https://www.stack.nl/~marcov/compiler.pdf){:target="_blank"}{:target="_blank"} (PDF)
-- [Aspectos prácticos y teóricos de la construcción del compilador](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/){:target="_blank"}{:target="_blank"} (clases magistrales y diapositivas)
+- [Una introducción a GCC](https://www.network-theory.co.uk/docs/gccintro/){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} - Brian Gough
+- [Conceptos básicos del diseño del compilador (Edición de aniversario)](https://www.diku.dk/~torbenm/Basics/){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} - Torben Mogensen
+- [Construcción del compilador](https://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} (PDF)
+- [Diseño del compilador en C (1990)](https://www.holub.com/software/compiler.design.in.c.html){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} - Allen Holub, Prentice Hall
+- [Diseño del compilador: teoría, herramientas y ejemplos, edición C / C ++](https://elvis.rowan.edu/~bergmann/books/cd/c_cpp/){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} - Seth D. Bergmann
+- [Diseño del compilador: teoría, herramientas y ejemplos, edición de Java](https://elvis.rowan.edu/~bergmann/books/cd/java/){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} - Seth D. Bergmann
+- [Compilación de Scala para la máquina virtual Java](https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} - Michel Schinz (PDF)
+- [Técnicas de compilación (1969)](https://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} - FRA Hopgood, Macdonald
+- [Intérpretes de artesanía (🚧)](https://www.craftinginterpreters.com/){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} - Bob Nystrom (HTML)
+- [Implementación de lenguajes funcionales: un tutorial](https://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} - Simon Peyton Jones, David Lester
+- [Construyamos un compilador](https://www.stack.nl/~marcov/compiler.pdf){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} (PDF)
+- [Aspectos prácticos y teóricos de la construcción del compilador](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"} (clases magistrales y diapositivas)
 
 #### Ciencias de la Computación
 
@@ -166,22 +166,22 @@ toc_sticky: false
 
 #### Visión por computador
 
-- [Visión por computadora](https://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm){:target="_blank"} - Dana Ballard, Chris Brown
-- [Visión por computadora: algoritmos y aplicaciones](https://szeliski.org/Book/){:target="_blank"} - Richard Szeliski
-- [Visión por computadora: modelos, aprendizaje e inferencia](https://www.computervisionmodels.com/){:target="_blank"} - Simon JD Prince
-- [Programación de la visión por computadora con Python](https://programmingcomputervision.com/){:target="_blank"} - Jan Erik Solem
+- [Visión por computadora](https://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm){:target="_blank" rel="nofollow"} - Dana Ballard, Chris Brown
+- [Visión por computadora: algoritmos y aplicaciones](https://szeliski.org/Book/){:target="_blank" rel="nofollow"} - Richard Szeliski
+- [Visión por computadora: modelos, aprendizaje e inferencia](https://www.computervisionmodels.com/){:target="_blank" rel="nofollow"} - Simon JD Prince
+- [Programación de la visión por computadora con Python](https://programmingcomputervision.com/){:target="_blank" rel="nofollow"} - Jan Erik Solem
 
 #### Base de datos
 
-- [Big Data Now: Perspectivas actuales del radar O'Reilly](https://shop.oreilly.com/product/0636920022640.do){:target="_blank"}
-- [Exploraciones de bases de datos](https://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf){:target="_blank"} (PDF)
-- [Fundamentos de la base de datos](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf){:target="_blank"} (PDF)
-- [Bases de datos, tipos y el modelo relacional: el tercer manifiesto](https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf){:target="_blank"} (PDF)
-- [Fundamentos de bases de datos](https://webdam.inria.fr/Alice/){:target="_blank"}
-- [Lecturas en sistemas de bases de datos, 5ª ed.](https://www.redbook.io/){:target="_blank"}
-- [Gestión de bases de datos temporales](https://people.cs.aau.dk/~csj/Thesis/){:target="_blank"} - Christian S. Jensen
-- [La teoría de las bases de datos relacionales](https://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html){:target="_blank"}
-- [¿Qué es el diseño de bases de datos, de todos modos?](https://www.oreilly.com/data/free/what-is-database-design-anyway.csp){:target="_blank"}
+- [Big Data Now: Perspectivas actuales del radar O'Reilly](https://shop.oreilly.com/product/0636920022640.do){:target="_blank" rel="nofollow"}
+- [Exploraciones de bases de datos](https://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf){:target="_blank" rel="nofollow"} (PDF)
+- [Fundamentos de la base de datos](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf){:target="_blank" rel="nofollow"} (PDF)
+- [Bases de datos, tipos y el modelo relacional: el tercer manifiesto](https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf){:target="_blank" rel="nofollow"} (PDF)
+- [Fundamentos de bases de datos](https://webdam.inria.fr/Alice/){:target="_blank" rel="nofollow"}
+- [Lecturas en sistemas de bases de datos, 5ª ed.](https://www.redbook.io/){:target="_blank" rel="nofollow"}
+- [Gestión de bases de datos temporales](https://people.cs.aau.dk/~csj/Thesis/){:target="_blank" rel="nofollow"} - Christian S. Jensen
+- [La teoría de las bases de datos relacionales](https://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html){:target="_blank" rel="nofollow"}
+- [¿Qué es el diseño de bases de datos, de todos modos?](https://www.oreilly.com/data/free/what-is-database-design-anyway.csp){:target="_blank" rel="nofollow"}
 
 #### Minería de Datos
 
@@ -2344,7 +2344,7 @@ toc_sticky: false
 
 ## 👨‍🎨 Diseño Web
 
-- [Hackear el Rendimiento Web](https://firt.mobi/HackingWebPerformance_eBook.pdf){:target="_blank"} (PDF) (2018)
+- [Hackear el Rendimiento Web](https://firt.mobi/HackingWebPerformance_eBook.pdf){:target="_blank" rel="nofollow"} (PDF) (2018)
 
 ## 👨‍💻 Lenguajes de Programación
 

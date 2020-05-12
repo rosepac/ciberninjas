@@ -139,7 +139,7 @@ Existen muchos proveedores de VPN, pero debes tener cuidado con cuál eliges. En
 
 Finalmente, debe usar un proveedor de correo electrónico que no lea sus correos electrónicos. Puede sonar bastante obvio. Pero debe recordar que todo lo que hace en Gmail está siendo leído por Google. Si no se siente cómodo con eso, hay muchos proveedores de correo electrónico seguros (y privados). 
 
-Uno de ellos es ProtonMail. Utilizamos [encriptación PGP](https://protonmail.com/blog/what-is-pgp-encryption/) para mantener sus correos electrónicos privados cuando están en tránsito, y [encriptación de acceso cero](https://protonmail.com/blog/zero-access-encryption/) para asegurar sus datos en reposo. Como resultado, nadie más que usted puede acceder a sus mensajes, ni siquiera nosotros. También es bastante fácil transferir sus datos desde Gmail usando la aplicación ProtonMail [Import-Export](https://protonmail.com/blog/import-export-beta/){:target="_blank"} (ahora en versión beta).
+Uno de ellos es ProtonMail. Utilizamos [encriptación PGP](https://protonmail.com/blog/what-is-pgp-encryption/) para mantener sus correos electrónicos privados cuando están en tránsito, y [encriptación de acceso cero](https://protonmail.com/blog/zero-access-encryption/) para asegurar sus datos en reposo. Como resultado, nadie más que usted puede acceder a sus mensajes, ni siquiera nosotros. También es bastante fácil transferir sus datos desde Gmail usando la aplicación ProtonMail [Import-Export](https://protonmail.com/blog/import-export-beta/){:target="_blank" rel="nofollow"} (ahora en versión beta).
 
 *[Obtenga más información: por qué ProtonMail es confiable](https://protonmail.com/blog/is-protonmail-trustworthy/)*
 
@@ -147,13 +147,13 @@ Uno de ellos es ProtonMail. Utilizamos [encriptación PGP](https://protonmail.co
 
 Para terminar, también vale la pena señalar que, aunque Android es un riesgo para su privacidad si no lo bloquea correctamente, los teléfonos inteligentes per se no son malos.
 
-De hecho, si se usan correctamente, pueden ser extremadamente útiles para asegurar otras partes de su vida en línea. El ejemplo más claro de esto es la [autenticación de dos factores](https://protonmail.com/blog/what-is-two-factor-authentication-how-to-use-it/){:target="_blank"} , en la que se requiere un código basado en el tiempo de una aplicación de teléfono inteligente además de su contraseña para iniciar sesión en su cuenta. (Siempre que sea posible, debe configurar este tipo de sistema para todas sus cuentas en línea).
+De hecho, si se usan correctamente, pueden ser extremadamente útiles para asegurar otras partes de su vida en línea. El ejemplo más claro de esto es la [autenticación de dos factores](https://protonmail.com/blog/what-is-two-factor-authentication-how-to-use-it/){:target="_blank" rel="nofollow"} , en la que se requiere un código basado en el tiempo de una aplicación de teléfono inteligente además de su contraseña para iniciar sesión en su cuenta. (Siempre que sea posible, debe configurar este tipo de sistema para todas sus cuentas en línea).
 
 El truco para usar un teléfono inteligente de forma segura, como con cualquier otro dispositivo, es tomarse el tiempo para descubrir cómo funciona realmente. De esa manera, puede deshabilitar las "funciones" de recopilación y uso compartido de datos que no necesita.
 
 _____
 
 **Fuentes**:
-* [ProtonMail](https://protonmail.com/blog/android-privacy/){:target="_blank"}
+* [ProtonMail](https://protonmail.com/blog/android-privacy/){:target="_blank" rel="nofollow"}
 
-[👉 Visita las Guías de Seguridad de la EFF 🔐](/eff/){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+[👉 Visita las Guías de Seguridad de la EFF 🔐](/eff/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}

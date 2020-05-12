@@ -113,7 +113,7 @@ Usar LightShot es muy conveniente para compartir capturas de pantalla; puesto qu
 
 La aplicación es gratuita, pero antes de instalarla te ofrece descargar software adicional. No te olvides de rechazarlo.
 
-[⏩ Probar Lightshot](https://kutt.it/capturas-lightshot){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⏩ Probar Lightshot](https://kutt.it/capturas-lightshot){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ### 2. **Nimbus**
 
@@ -129,7 +129,7 @@ Para tomar una captura de pantalla, simplemente tendrás que hacer Clic en el bo
 
 Las funciones enumeradas están disponibles de forma gratuita. Pero, si deseas adjuntar tu logotipo a las capturas de pantalla como marca de agua, guardar las capturas y vídeos en Dropbox o recibir soporte técnico, deberás suscribirte por 15 dólares al año.
 
-[⏩ Probar Nimbus](https://kutt.it/capturas-nimbus "Probar Nimbus, la extensión de Chrome para la creación de vídeos y capturas de pantalla"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⏩ Probar Nimbus](https://kutt.it/capturas-nimbus "Probar Nimbus, la extensión de Chrome para la creación de vídeos y capturas de pantalla"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 ### 3. **Picpick**
 
@@ -143,7 +143,7 @@ Puedes configurar teclas de acceso rápido y guardar el archivo en uno de los si
 
 El programa se puede usar de forma gratuita, pero en este caso, las nuevas versiones deberás descargarlas manualmente. Si deseas actualizaciones automáticas, deberás de realizar un único pago de 30 dólares para siempre.
 
-[⏩ Probar Picpick](https://kutt.it/capturas-picpick "Picpick hace exactamente lo mismo que el Paint, más un poquito más lejos a la hora de la edición; una maravilla ligera de programa"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[⏩ Probar Picpick](https://kutt.it/capturas-picpick "Picpick hace exactamente lo mismo que el Paint, más un poquito más lejos a la hora de la edición; una maravilla ligera de programa"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1](/black-friday-amazon/) >> [mejores regalos 2](/prime-day-amazon/)
 {: .notice--danger}
