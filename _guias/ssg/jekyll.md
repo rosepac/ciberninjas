@@ -1,7 +1,7 @@
 ---
-title: 🥇 ▷ Jekyll, Aprender desde Cero a Experto en 2020 👨‍💻
-description: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
-excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
+title: 🥇 ▷ Jekyll, Aprender desde Cero a Experto en 2020
+description: "🛠 Jekyll, el mejor generador de contenidos estático. Aprende desde cero todo lo que debes saber"
+excerpt: "🛠 Jekyll, el mejor generador de contenidos estático. Aprende desde cero todo lo que debes saber"
 date: 2020-05-12
 layout: splash
 last_modified_at:
@@ -10,7 +10,7 @@ canonical_URL: https://ciberninjas.com/jekyll/
 author_profile: false
 header:
   overlay_image: "/assets/images/paginas/jekyll-blog.webp"
-  overlay_filter: 0.4
+  overlay_filter: 0.2
   image_description: Jekyll, el mejor generador de contenidos estático | Ciberninjas
   caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"
   teaser: "/assets/images/jekyll-blog.jpg"
@@ -20,13 +20,15 @@ header:
 # toc_sticky: true
 ---
 
-Existe un gran cambio al modificar tus hábitos y desear cambiar desde un Sistema de Gestión de Contenidos como puede ser Wordpress hacía un Sistema de Contenidos de Generación Estática como puede ser Jekyll, por ello.
+Existe un gran cambio al modificar tus hábitos y buscar el cambio desde un [Sistema de Gestión de Contenidos](/glosario/cms/) (CMS) como por ejemplo: Wordpress. Hacía un [Sistema de Contenidos de Generación Estática](/wiki/generador-de-sitios-estaticos) (SSG) como por ejemplo: Jekyll.
 
-Creo este repositorio con todos los enlaces que me han ido ayudando a lo largo de la última semana, tanto con la importación de mi antiguo blog, como con la configuración de la nueva página estática.
+Buscando hacer ese paso un poco más sencillo, se ha creado este repositorio con todos los enlaces que me han ido siendo de utilidad, a lo largo del tiempo; tanto para la importación de un blog a otro, como para el desarrollo, configuración, gestión y mantenimiento de la nueva página estática.
 
-Además, adjunto enlaces de interes que espero que a pesar de no ser Jekyll; un Sistema ni tan desarrollado ni con una comunidad tan grande como la de Wordpress; puedan serme de ayuda en la implementación y me ofrezcan mejoras en mi nuevo página.
+Además, se incluyen enlaces a los lugares más importantes dentro de la Comunidad de Jekyll y un breve contenido de la utilización más práctica sobre uno de los temas de Jekyl más utilizados a nivel mundial: Minimal Mistakes.
 
-**¡A la almendrilla!**
+Espero que estos enlaces puedan ser de ayuda y ojalá; lleguen a suplir aunque solamente sean en parte, a la gran comunidad de Wordpress existente.
+
+> **¡A la almendrilla!**
 
 ## Montaje y Pruebas
 

@@ -8,8 +8,7 @@ classes: wide
 
 Un **sistema de gestión de contenido o CMS** es un sistema que proporciona una colección de procedimientos utilizados para gestionar el flujo de trabajo en un entorno de colaboración.
 
-Por ejemplo:
-* [Ver CMS de estilo SSG: Jekyll 👉](/jekyll/){: .btn .btn--inverse .btn--large .align-center}
+[CMS de estilo SSG: Jekyll 👉](/jekyll/){: .btn .btn--inverse .btn--large .align-center}
 
 [👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn--inverse .btn--large .align-center}
 
