@@ -3,6 +3,7 @@ title: "Hit: Definición del Término"
 description: "Hit"
 excerpt: "Cada solicitud de petición de cualquier tipo de archivo  realizada sobre el servidor web."
 permalink: /glosario/hit/
+canonical_URL: https://ciberninjas.com/glosario/hit/
 classes: wide
 
 ---

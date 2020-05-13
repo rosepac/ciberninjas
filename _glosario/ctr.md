@@ -3,6 +3,7 @@ title: "CTR: Definición del Término"
 description: "CTR"
 excerpt: "Es el ratio o tasa de clics logrados."
 permalink: /glosario/ctr/
+canonical_URL: https://ciberninjas.com/glosario/ctr/
 classes: wide
 ---
 

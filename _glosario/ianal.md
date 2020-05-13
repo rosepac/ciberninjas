@@ -3,6 +3,7 @@ title: "IANAL"
 description: "IANAL"
 excerpt: "El tráfico web es la cantidad de datos enviados y recibidos por los visitantes a un sitio web."
 permalink: /glosario/ianal/
+canonical_URL: https://ciberninjas.com/glosario/ianal/
 classes: wide
 
 ---

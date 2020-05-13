@@ -3,6 +3,7 @@ title: "Numerónimo: Definición del Término"
 description: "Numerónimo"
 excerpt: "Un numerónimo es una palabra basada en números.  Más comúnmente, un numerónimo es una palabra donde un número se usa para formar una abreviatura."
 permalink: /glosario/numeronimo/
+canonical_URL: https://ciberninjas.com/glosario/numeronimo/
 classes: wide
 ---
 

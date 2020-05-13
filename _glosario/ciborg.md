@@ -3,6 +3,7 @@ title: "Cíborg: Definición del Término"
 description: "Cíborg"
 excerpt: "Ser formado por la integración entre ser humano y máquina u otros derivados de la técnica, en sus diferentes versiones y vertientes."
 permalink: /glosario/ciborg/
+canonical_URL: https://ciberninjas.com/glosario/ciborg/
 classes: wide
 ---
 

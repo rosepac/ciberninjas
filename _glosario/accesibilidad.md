@@ -3,6 +3,7 @@ title: "Accesibilidad: Definición del Término"
 description: "Accesibilidad"
 excerpt: "La accesibilidad web es la práctica inclusiva de garantizar que no existan barreras que impidan la interacción."
 permalink: /glosario/accesibilidad/
+canonical_URL: https://ciberninjas.com/glosario/accesibilidad/
 classes: wide
 
 ---

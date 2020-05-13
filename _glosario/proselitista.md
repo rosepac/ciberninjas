@@ -3,6 +3,7 @@ title: "Proselitista: Definición del Término"
 description: "Proselitista"
 excerpt: "Proselitista, aquel que intenta convencer y ganar seguidores o partidarios para una causa o una doctrina."
 permalink: /glosario/proselitista/
+canonical_URL: https://ciberninjas.com/glosario/proselitista/
 classes: wide
 ---
 

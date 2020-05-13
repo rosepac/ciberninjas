@@ -3,6 +3,7 @@ title: "Clase: Definición del Término"
 description: "Clase"
 excerpt: "Palabra múltiples lenguajes de programación; por ejemplo, C# y Java."
 permalink: /glosario/clase/
+canonical_URL: https://ciberninjas.com/glosario/clase/
 classes: wide
 ---
 

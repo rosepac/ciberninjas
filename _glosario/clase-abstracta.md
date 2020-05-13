@@ -3,6 +3,7 @@ title: "Clase Abstracta: Definición del Término"
 description: "Clase Abstracta"
 excerpt: "Es una clase que deja parte de sí misma sin especificar."
 permalink: /glosario/clase-abstracta/
+canonical_URL: https://ciberninjas.com/glosario/clase-abstracta/
 classes: wide
 ---
 

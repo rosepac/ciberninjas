@@ -3,6 +3,7 @@ title: "Navbar: Definición del Término"
 description: "Navbar"
 excerpt: "Barra de Navegación."
 permalink: /glosario/navbar/
+canonical_URL: https://ciberninjas.com/glosario/navbar/
 classes: wide
 ---
 

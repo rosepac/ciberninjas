@@ -16,7 +16,7 @@ author_profile: true
 
 *****
 <!-- https://glossarytech.com/terms/python/page2 -->
-🔠 [A](/glosario/completo-tecnologias-python/#a) ➡ [C](/glosario/completo-tecnologias-python/#c) ➡ [D](/glosario/completo-tecnologias-python/#d) ➡ [E](/glosario/completo-tecnologias-python/#e) ➡ [G](/glosario/completo-tecnologias-python/#g) ➡ [H](/glosario/completo-tecnologias-python/#h) ➡ [I](/glosario/completo-tecnologias-python/#i) ➡ [J](/glosario/completo-tecnologias-python/#j) ➡ [L](/glosario/completo-tecnologias-python/#l) ➡ [M](/glosario/completo-tecnologias-python/#m) ➡ [O](/glosario/completo-tecnologias-python/#o) ➡ [P](/glosario/completo-tecnologias-python/#p) ➡ [R](/glosario/completo-tecnologias-python/#r) ➡ [S](/glosario/completo-tecnologias-python/#s) ➡ [T](/glosario/completo-tecnologias-python/#t) ➡ [U](/glosario/completo-tecnologias-python/#u) ➡ [V](/glosario/completo-tecnologias-python/#v) ➡ [X](/glosario/completo-tecnologias-python/#x)
+🔠 [A](/glosario/completo-tecnologias-python/#a) ➡ [C](/glosario/completo-tecnologias-python/#c) ➡ [D](/glosario/completo-tecnologias-python/#d) ➡ [G](/glosario/completo-tecnologias-python/#g) ➡ [J](/glosario/completo-tecnologias-python/#j) ➡ [K](/glosario/completo-tecnologias-python/#k) ➡ [M](/glosario/completo-tecnologias-python/#m) ➡ [P](/glosario/completo-tecnologias-python/#p) ➡ [S](/glosario/completo-tecnologias-python/#s) ➡ [T](/glosario/completo-tecnologias-python/#t) ➡ [V](/glosario/completo-tecnologias-python/#v) ➡ [W](/glosario/completo-tecnologias-python/#w)
 
 *****
 
@@ -83,10 +83,6 @@ Sistema de procesamiento de texto para procesar documentación de texto sin form
 ### **Flask**
 
 Un framework ligero de Python basado en Werkzeug y Jinja 2. Arquitectura de seguridad del sistema operativo que proporciona soporte flexible para políticas de seguridad. FLASK es un marco central en los sistemas operativos centrados en la seguridad, como el Linux de seguridad mejorada de la NSA (SELinux), OpenSolaris FMAC y TrustedBSD.
-
-[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-## G
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -231,6 +227,8 @@ Framework de programación de red basado en eventos escrito en Python y licencia
 ### **Virtualenv**
 
 Software, programa o sistema que implementa, gestiona y controla múltiples instancias de entorno virtual. Una herramienta para crear entornos aislados de Python . Virtualenv le permitirá definir entornos de tiempo de ejecución Python aislados sin dañar la instalación de Python raíz o del sistema.
+
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## W
 
