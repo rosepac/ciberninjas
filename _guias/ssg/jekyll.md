@@ -46,9 +46,9 @@ Espero que estos enlaces puedan ser de ayuda y ojalá; lleguen a suplir aunque s
   - [Forestry, Enlaces Directos](#forestry-enlaces-directos)
   - [CloudCannon](#cloudcannon)
 - [🔄 Plugins de Importación](#%f0%9f%94%84-plugins-de-importaci%c3%b3n)
-- [🔗 Enlaces Externos](#%f0%9f%94%97-enlaces-externos)
+- [Enlaces Externos 🔗](#enlaces-externos-%f0%9f%94%97)
   - [Enlaces de Chuletas](#enlaces-de-chuletas)
-  - [🛒 Comercio Electrónico](#%f0%9f%9b%92-comercio-electr%c3%b3nico)
+  - [Comercio Electrónico 🛒](#comercio-electr%c3%b3nico-%f0%9f%9b%92)
   - [Lenguaje de Uso: Liquid](#lenguaje-de-uso-liquid)
   - [Plugins de Jekyll](#plugins-de-jekyll)
   - [🎨 Temas de Jekyll](#%f0%9f%8e%a8-temas-de-jekyll)
@@ -212,7 +212,7 @@ Si deseas transportar tus datos de Wordpress a Jekyll, es posible que puedas ter
 
 En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Jekyll](https://github.com/FablabLannion/wordpress2jekyll){:target="_blank" rel="nofollow"}. Es bastante viejo, pero es lo único que me ha ayudado a guardar mi antiguo contenido hasta que pueda ir realojandolo dentro de mi nuevo blog.
 
-## 🔗 Enlaces Externos
+## Enlaces Externos 🔗
 
 Colección de enlaces que he ido guardando con los que poder aprender el uso lo más correcto posible de Jekyll, Ruby, Github Pages y Forestry.
 
@@ -220,7 +220,7 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 
 * [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/ "Chuleta de todos los emoticonos suportados dentro de la Gema de Ruby Gemoji"){:target="_blank" rel="nofollow"}: Lista de Emojis / Emoticonos que pueden ser usados al estilo de los emoticones de Github :+1:
 
-### 🛒 Comercio Electrónico
+### Comercio Electrónico 🛒
 
 * [Snipcart + Jekyll](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll "Snipcart, es un pequeño sistema de getión de comercios electrónicos que permite generar una tienda online estática"){:target="_blank" rel="nofollow"}
 
