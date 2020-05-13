@@ -7,11 +7,11 @@
 /* Variables */
 @import "minimal-mistakes/variables";
 
-$serif : "Francois One", "Helvetica Neue", 'Times New Roman', serif;
-$sans-serif : "Libre Baskerville", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", "Lucida Grande", Arial, sans-serif;
+$sans-serif : "Overpass", -apple-system, BlinkMacSystemFont, "Segoe UI", "Lucida Grande", Arial, sans-serif;
+$serif : "Francois One", 'Times New Roman', sans-serif;
 
-$global-font-family : $serif;
-$header-font-family : $sans-serif;
+$global-font-family : $sans-serif;
+$header-font-family : $serif;
 
 /* Mixins and functions */
 @import "minimal-mistakes/vendor/breakpoint/breakpoint";
