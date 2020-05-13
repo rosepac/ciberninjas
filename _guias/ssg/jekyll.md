@@ -149,7 +149,10 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
 ### Cómo cambiar la fuente tipográfica
 
 1. Cargar el enlace de las fuentes de Google, a través de la carpeta *includes* en el fichero ```_includes/head/custom.html```.
-2. Por ejemplo: ```<link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,300;0,600;1,400&display=swap" rel="stylesheet">```
+2. Por ejemplo: 
+`````
+<link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,300;0,600;1,400&display=swap" rel="stylesheet">
+`````
 3. Agregar al fichero de .scss las variables correspondientes. En ```_sass/minimal-mistakes.scss```
 
 En mi caso..
