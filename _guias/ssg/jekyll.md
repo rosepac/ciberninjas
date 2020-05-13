@@ -5,7 +5,7 @@ excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende d
 date: 2020-05-12
 layout: splash
 last_modified_at:
-permalink:  
+permalink:  /jekyll/
 canonical_URL: https://ciberninjas.com/jekyll/
 author_profile: false
 header:
@@ -138,6 +138,8 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
 2. Por ejemplo: ```<link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,300;0,600;1,400&display=swap" rel="stylesheet">```
 3. Agregar al fichero de .scss las variables correspondientes. En ```_sass/minimal-mistakes.scss```
 
+En mi caso..
+
 `````
 $serif              : 'Overpass', 'Times New Roman', serif;
 $sans-serif-narrow  : 'Overpass', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -145,6 +147,7 @@ $sans-serif-narrow  : 'Overpass', -apple-system, BlinkMacSystemFont, "Roboto", "
 $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
 `````
+4. Cambiar dentro del fichero, ```_sass/minimal-mistakes.scss``` las variables redactadas en el paso anterior.
 
 ## 👷‍♀️ CMS de Jekyll
 
