@@ -12,5 +12,5 @@ La  internacionalización es el proceso de diseño de una aplicación de softwar
 
 ## Otros Glosarios
 
-[⚙ Glosario de Interfaces de Programación](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}
+[⚙ Glosario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}

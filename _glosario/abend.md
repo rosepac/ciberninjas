@@ -13,5 +13,5 @@ Es un término usado para describir la finalización anormal de un programa.
 
 ## Otros Glosarios
 
-[⚙ Glosario de Interfaces de Programación](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}
+[⚙ Glosario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}

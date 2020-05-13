@@ -14,5 +14,5 @@ La tasa de clics, se calcula tomando el número de clics que recibe un enlace en
 
 ## Otros Glosarios
 
-[⚙ Glosario de Interfaces de Programación](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}
+[⚙ Glosario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}

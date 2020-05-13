@@ -12,7 +12,7 @@ published: true
 # toc_sticky: true
 sort_by: title
 sort_order: reverse
-author_profile: true
+author_profile: false
 entries_layout: grid
 classes: wide
 # sidebar:
