@@ -30,30 +30,9 @@ Espero que estos enlaces puedan ser de ayuda y ojalá; lleguen a suplir aunque s
 
 > **¡A la almendrilla!**
 
-- [Montaje y Pruebas](#montaje-y-pruebas)
-- [SEO](#seo)
-- [Plantilla de Minimal Mistakes](#plantilla-de-minimal-mistakes)
-  - [Publicar un Enlace](#publicar-un-enlace)
-  - [Publicar una Cita](#publicar-una-cita)
-  - [Actualizar la Fecha de Publicación](#actualizar-la-fecha-de-publicaci%c3%b3n)
-  - [Agregar Cajas de Avisos o Notas Informativas](#agregar-cajas-de-avisos-o-notas-informativas)
-    - [Nuevas características del sitio](#nuevas-caracter%c3%adsticas-del-sitio)
-  - [Agregar Etiqueta: more](#agregar-etiqueta-more)
-- [Plantilla Minimal Mistakes Configuración](#plantilla-minimal-mistakes-configuraci%c3%b3n)
-  - [Cómo cambiar la fuente tipográfica](#c%c3%b3mo-cambiar-la-fuente-tipogr%c3%a1fica)
-- [👷‍♀️ CMS para Jekyll](#%f0%9f%91%b7%e2%80%8d%e2%99%80%ef%b8%8f-cms-para-jekyll)
-  - [Prose.io](#proseio)
-  - [Forestry, Enlaces Directos](#forestry-enlaces-directos)
-  - [CloudCannon](#cloudcannon)
-- [🔄 Plugins de Importación](#%f0%9f%94%84-plugins-de-importaci%c3%b3n)
-- [Enlaces Externos 🔗](#enlaces-externos-%f0%9f%94%97)
-  - [Enlaces de Chuletas](#enlaces-de-chuletas)
-  - [Comercio Electrónico 🛒](#comercio-electr%c3%b3nico-%f0%9f%9b%92)
-  - [Lenguaje de Uso: Liquid](#lenguaje-de-uso-liquid)
-  - [Plugins de Jekyll](#plugins-de-jekyll)
-  - [🎨 Temas de Jekyll](#%f0%9f%8e%a8-temas-de-jekyll)
-  - [📹 Videotutoriales](#%f0%9f%93%b9-videotutoriales)
-- [🕵️‍♂️ Enlaces por Investigar y posteriormente Organizar](#%f0%9f%95%b5%ef%b8%8f%e2%80%8d%e2%99%82%ef%b8%8f-enlaces-por-investigar-y-posteriormente-organizar)
+#### Índice
+
+[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
 
 ## Montaje y Pruebas
 
@@ -62,6 +41,8 @@ Espero que estos enlaces puedan ser de ayuda y ojalá; lleguen a suplir aunque s
 ## SEO
 
 * [Cómo usar Jekyll como un profesional: Mejorar el SEO](https://codeburst.io/use-jekyll-like-a-pro-improving-seo-c8cfb81781b7){:target="_blank" rel="nofollow"}
+
+[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Plantilla de Minimal Mistakes
 
@@ -125,7 +106,10 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 
 {% capture notice-2 %}
 
-#### Nuevas características del sitio
+[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+
+### Nuevas características del sitio
 
 * Ahora puede tener imágenes de portada en las páginas del blog.
 * Los borradores ahora se guardarán automáticamente mientras escribes {% endcapture %}
@@ -153,7 +137,10 @@ Situándolo luego del primer o segundo párrafo, además debes aplicar en tu cab
 
     excerpt_separator: "<!--more-->"
 
-## Plantilla Minimal Mistakes Configuración
+[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+
+### Configuración de la Plantilla Minimal Mistakes
 
 Se puede cambiar absolutamente todo dentro de la plantilla, siempre y cuando la estés ejecutando de forma independiente y por tu cuenta. Existe, una limitación dentro de las posibles ediciones; si estás; son realizadas a través de Github Pages (como viendo siendo mi caso).
 
@@ -176,7 +163,10 @@ $header-font-family : $sans-serif-narrow;
 `````
 4. Cambiar dentro del fichero, ```_sass/minimal-mistakes.scss``` las variables redactadas en el paso anterior.
 
-## 👷‍♀️ CMS para Jekyll
+[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+
+## CMS para Jekyll
 
 Un CMS o Gestor de Contenidos es un software creado para poder ayudarte a la hora de la utilización de un blog, página o web en la que deseas agregar tus contenidos.
 
@@ -206,13 +196,16 @@ Otro por menor, que te va a surgir a la hora de su utilización; es que deberas 
 
 * [El CMS en la Nube para Jekyll](https://cloudcannon.com/){:target="_blank" rel="nofollow"}
 
-## 🔄 Plugins de Importación
+[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+
+## Plugins de Importación
 
 Si deseas transportar tus datos de Wordpress a Jekyll, es posible que puedas terminar por volverte loco, puesto que a pesar de que existe un método que debería de ser sencillo desde la propia página de documentación de Jekyll; yo no he logrado hacerlo funcionar; por tanto decidí buscar alguna fórmula alternativa.
 
 En mi caso, lo único que me funciono; fue este _plugin_: [Wordpress2Jekyll](https://github.com/FablabLannion/wordpress2jekyll){:target="_blank" rel="nofollow"}. Es bastante viejo, pero es lo único que me ha ayudado a guardar mi antiguo contenido hasta que pueda ir realojandolo dentro de mi nuevo blog.
 
-## Enlaces Externos 🔗
+## Enlaces Externos
 
 Colección de enlaces que he ido guardando con los que poder aprender el uso lo más correcto posible de Jekyll, Ruby, Github Pages y Forestry.
 
@@ -220,7 +213,10 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 
 * [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/ "Chuleta de todos los emoticonos suportados dentro de la Gema de Ruby Gemoji"){:target="_blank" rel="nofollow"}: Lista de Emojis / Emoticonos que pueden ser usados al estilo de los emoticones de Github :+1:
 
-### Comercio Electrónico 🛒
+[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+
+### Comercio Electrónico
 
 * [Snipcart + Jekyll](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll "Snipcart, es un pequeño sistema de getión de comercios electrónicos que permite generar una tienda online estática"){:target="_blank" rel="nofollow"}
 
@@ -240,17 +236,23 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 * [Algoria: Paso a Paso](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#algolia){:target="_blank" rel="nofollow"}
 * [Instalar Buscador Algoria + Travis CI](https://community.algolia.com/jekyll-algolia/github-pages.html){:target="_blank" rel="nofollow"}
 
-### 🎨 Temas de Jekyll
+[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+
+### Temas de Jekyll
 
 * [Beautifull Jekyll](https://deanattali.com/beautiful-jekyll/ "Plantilla Hermosa y Sencilla de Jekyll para perfiles personales o portfolios, blogs sencillos"){:target="_blank" rel="nofollow"}
 * [Agregar un tema Jekyll](https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser "Agregar un tema o plantilla a tu página web creada con Jekyll y las Páginas de Github"){:target="_blank" rel="nofollow"} en Github Pages, con el Selector de temas de Jekyll
 * [Plantilla de Documentación Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/index.html "Plantilla de Documentación de Jekyll con diferentes Layouts"){:target="_blank" rel="nofollow"}
 
-### 📹 Videotutoriales
+### Videotutoriales
 
 * [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso"){:target="_blank" rel="nofollow"}
 
-## 🕵️‍♂️ Enlaces por Investigar y posteriormente Organizar
+[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+
+## Enlaces por Investigar y posteriormente Organizar
 
 * [Jekyll Paginación 2](https://github.com/sverrirs/jekyll-paginate-v2){:target="_blank" rel="nofollow"}
 * [GDPR](https://github.com/mmistakes/minimal-mistakes/issues/1867#issuecomment-440663127){:target="_blank" rel="nofollow"} o como cumplir la legislación de Cookies de la Unión Europea.
@@ -273,5 +275,29 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 * [Ordenar Páginas en Jekyll](https://stackoverflow.com/questions/41087699/jekyll-how-to-change-the-default-ordering-of-collections){:target="_blank" rel="nofollow"}
 * [Crear listado con las publicaciones de una categoría .yml](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category){:target="_blank" rel="nofollow"}
 
-**La Primera Edición de esta Guía fue Editada el**: *16 de Marzo de 2020*
+**La Guía fue creada el** *16 de Marzo de 2020* **y su última edición el** *13 de Mayo de 2020***.**
 {: .notice--info}
+- [Montaje y Pruebas](#montaje-y-pruebas)
+- [SEO](#seo)
+- [Plantilla de Minimal Mistakes](#plantilla-de-minimal-mistakes)
+  - [Publicar un Enlace](#publicar-un-enlace)
+  - [Publicar una Cita](#publicar-una-cita)
+  - [Actualizar la Fecha de Publicación](#actualizar-la-fecha-de-publicaci%c3%b3n)
+  - [Agregar Cajas de Avisos o Notas Informativas](#agregar-cajas-de-avisos-o-notas-informativas)
+  - [Nuevas características del sitio](#nuevas-caracter%c3%adsticas-del-sitio)
+  - [Agregar Etiqueta: more](#agregar-etiqueta-more)
+  - [Configuración de la Plantilla Minimal Mistakes](#configuraci%c3%b3n-de-la-plantilla-minimal-mistakes)
+  - [Cómo cambiar la fuente tipográfica](#c%c3%b3mo-cambiar-la-fuente-tipogr%c3%a1fica)
+- [CMS para Jekyll](#cms-para-jekyll)
+  - [Prose.io](#proseio)
+  - [Forestry, Enlaces Directos](#forestry-enlaces-directos)
+  - [CloudCannon](#cloudcannon)
+- [Plugins de Importación](#plugins-de-importaci%c3%b3n)
+- [Enlaces Externos](#enlaces-externos)
+  - [Enlaces de Chuletas](#enlaces-de-chuletas)
+  - [Comercio Electrónico](#comercio-electr%c3%b3nico)
+  - [Lenguaje de Uso: Liquid](#lenguaje-de-uso-liquid)
+  - [Plugins de Jekyll](#plugins-de-jekyll)
+  - [Temas de Jekyll](#temas-de-jekyll)
+  - [Videotutoriales](#videotutoriales)
+- [Enlaces por Investigar y posteriormente Organizar](#enlaces-por-investigar-y-posteriormente-organizar)
