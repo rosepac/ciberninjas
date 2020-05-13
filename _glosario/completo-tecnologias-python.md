@@ -16,7 +16,7 @@ author_profile: true
 
 *****
 <!-- https://glossarytech.com/terms/python/page2 -->
-🔠 [A](/glosario/completo-interfaces-programacion/#a) ➡ [C](/glosario/completo-interfaces-programacion/#c) ➡ [D](/glosario/completo-interfaces-programacion/#d) ➡ [E](/glosario/completo-interfaces-programacion/#e) ➡ [G](/glosario/completo-interfaces-programacion/#g) ➡ [H](/glosario/completo-interfaces-programacion/#h) ➡ [I](/glosario/completo-interfaces-programacion/#i) ➡ [J](/glosario/completo-interfaces-programacion/#j) ➡ [L](/glosario/completo-interfaces-programacion/#l) ➡ [M](/glosario/completo-interfaces-programacion/#m) ➡ [O](/glosario/completo-interfaces-programacion/#o) ➡ [P](/glosario/completo-interfaces-programacion/#p) ➡ [R](/glosario/completo-interfaces-programacion/#r) ➡ [S](/glosario/completo-interfaces-programacion/#s) ➡ [T](/glosario/completo-interfaces-programacion/#t) ➡ [U](/glosario/completo-interfaces-programacion/#u) ➡ [V](/glosario/completo-interfaces-programacion/#v) ➡ [X](/glosario/completo-interfaces-programacion/#x)
+🔠 [A](/glosario/completo-tecnologias-python/#a) ➡ [C](/glosario/completo-tecnologias-python/#c) ➡ [D](/glosario/completo-tecnologias-python/#d) ➡ [E](/glosario/completo-tecnologias-python/#e) ➡ [G](/glosario/completo-tecnologias-python/#g) ➡ [H](/glosario/completo-tecnologias-python/#h) ➡ [I](/glosario/completo-tecnologias-python/#i) ➡ [J](/glosario/completo-tecnologias-python/#j) ➡ [L](/glosario/completo-tecnologias-python/#l) ➡ [M](/glosario/completo-tecnologias-python/#m) ➡ [O](/glosario/completo-tecnologias-python/#o) ➡ [P](/glosario/completo-tecnologias-python/#p) ➡ [R](/glosario/completo-tecnologias-python/#r) ➡ [S](/glosario/completo-tecnologias-python/#s) ➡ [T](/glosario/completo-tecnologias-python/#t) ➡ [U](/glosario/completo-tecnologias-python/#u) ➡ [V](/glosario/completo-tecnologias-python/#v) ➡ [X](/glosario/completo-tecnologias-python/#x)
 
 *****
 
@@ -26,7 +26,7 @@ author_profile: true
 
 Una biblioteca para escribir código concurrente utilizando la sintaxis async / await. Proporciona infraestructura para escribir código concurrente de un solo subproceso utilizando rutinas, multiplexando el acceso de E / S a través de sockets y otros recursos, ejecutando clientes y servidores de red y otras primitivas relacionadas.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## B
 
@@ -56,7 +56,7 @@ Framework de Python orientado a objetos orientado que permite a los desarrollado
 
 Implementación de referencia del lenguaje de programación Python. Escrito en C, CPython es la implementación predeterminada y más utilizada del lenguaje.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## D
 
@@ -76,7 +76,7 @@ Un proyecto oficial de Django. Extiende sus capacidades más allá del HTTP: Par
 
 Sistema de procesamiento de texto para procesar documentación de texto sin formato en formatos útiles, como HTML , LaTeX, páginas de manual, documento abierto o XML . Diseñado para trabajar de manera flexible con texto en varios idiomas (un idioma a la vez). Las características específicas del idioma están completamente parametrizadas.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## F
 
@@ -84,11 +84,11 @@ Sistema de procesamiento de texto para procesar documentación de texto sin form
 
 Un framework ligero de Python basado en Werkzeug y Jinja 2. Arquitectura de seguridad del sistema operativo que proporciona soporte flexible para políticas de seguridad. FLASK es un marco central en los sistemas operativos centrados en la seguridad, como el Linux de seguridad mejorada de la NSA (SELinux), OpenSolaris FMAC y TrustedBSD.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## G
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## J
 
@@ -100,7 +100,7 @@ Un motor de plantillas para Python . Ofrece un poderoso conjunto de herramientas
 
  Aplicación web que permite crear y compartir documentos que contienen código en vivo, ecuaciones, visualizaciones y texto narrativo. Los usos incluyen: limpieza y transformación de datos, simulación numérica, modelado estadístico, visualización de datos, aprendizaje automático y mucho más.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## K
 
@@ -108,7 +108,7 @@ Un motor de plantillas para Python . Ofrece un poderoso conjunto de herramientas
 
 Biblioteca de Python para el desarrollo rápido de aplicaciones que utilizan interfaces de usuario innovadoras, como aplicaciones multitáctiles. Se usa para hacer aplicaciones móviles con python. Puede ejecutarse en Android , iOS , Linux , OS X y Windows.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
 
 ## M
 
@@ -116,7 +116,7 @@ Biblioteca de Python para el desarrollo rápido de aplicaciones que utilizan int
 
 Biblioteca de trazado 2D de Python que produce cifras de calidad de publicación en una variedad de formatos impresos y entornos interactivos en todas las plataformas. Matplotlib se puede usar en scripts Python, el shell Python e IPython, el cuaderno jupyter, los servidores de aplicaciones web y cuatro kits de herramientas de interfaz gráfica de usuario.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
 
 ## N
 
@@ -124,7 +124,7 @@ Biblioteca de trazado 2D de Python que produce cifras de calidad de publicación
 
 Paquete fundamental para computación científica con Python . NumPy es la biblioteca principal en Python para la manipulación de matrices y, por lo tanto, una gran parte del cálculo numérico y científico basado en este lenguaje.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
 
 ## P
 
@@ -168,7 +168,7 @@ Lenguaje de programación de uso general popular cuya filosofía se centra princ
 
 Una biblioteca de aprendizaje automático de código abierto para Python . Proporciona una ruta perfecta desde la creación de prototipos de investigación hasta la implementación de producción. De acuerdo con la antorcha.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
 
 ## S
 
@@ -204,7 +204,7 @@ Es una biblioteca ligera de Python para computación simbólica. SymPy puede amp
 
 Herramienta de manipulación de bases de datos para python que se puede utilizar como biblioteca independiente para manipular bases de datos relacionales. La alquimia SQL proporciona expresiones sql básicas basadas en python y ORM basado en python orientado a objetos . También proporciona una sintaxis declarativa de alto nivel para ORM por simplicidad.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
 
 ## T
 
@@ -224,7 +224,7 @@ Una versión del servidor web escalable y sin bloqueo y las herramientas que imp
 
 Framework de programación de red basado en eventos escrito en Python y licenciado bajo la Licencia MIT. Los proyectos retorcidos son compatibles con TCP , UDP , SSL / TLS, multidifusión IP, sockets de dominio Unix, una gran cantidad de protocolos y mucho más.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
 
 ## V
 
@@ -246,6 +246,6 @@ Framework web para Python que es tan simple como poderoso. Web.py está en el do
 
  GUI toolkit para Python que es un contenedor alrededor de la biblioteca wxWidgets C ++ GUI. wxPython proporciona una gran variedad de tipos de ventanas y controles, todos implementados con una apariencia nativa (mediante el uso de widgets nativos) en las plataformas en las que es compatible.
 
-[🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 [👈 Regresar al Glosario](/glosario){: .btn .btn--inverse .btn--large .align-center}
