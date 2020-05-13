@@ -30,6 +30,31 @@ Espero que estos enlaces puedan ser de ayuda y ojalá; lleguen a suplir aunque s
 
 > **¡A la almendrilla!**
 
+- [Montaje y Pruebas](#montaje-y-pruebas)
+- [SEO](#seo)
+- [Plantilla de Minimal Mistakes](#plantilla-de-minimal-mistakes)
+  - [Publicar un Enlace](#publicar-un-enlace)
+  - [Publicar una Cita](#publicar-una-cita)
+  - [Actualizar la Fecha de Publicación](#actualizar-la-fecha-de-publicaci%c3%b3n)
+  - [Agregar Cajas de Avisos o Notas Informativas](#agregar-cajas-de-avisos-o-notas-informativas)
+    - [Nuevas características del sitio](#nuevas-caracter%c3%adsticas-del-sitio)
+  - [Agregar Etiqueta: more](#agregar-etiqueta-more)
+- [Plantilla Minimal Mistakes Configuración](#plantilla-minimal-mistakes-configuraci%c3%b3n)
+  - [Cómo cambiar la fuente tipográfica](#c%c3%b3mo-cambiar-la-fuente-tipogr%c3%a1fica)
+- [👷‍♀️ CMS para Jekyll](#%f0%9f%91%b7%e2%80%8d%e2%99%80%ef%b8%8f-cms-para-jekyll)
+  - [Prose.io](#proseio)
+  - [Forestry, Enlaces Directos](#forestry-enlaces-directos)
+  - [CloudCannon](#cloudcannon)
+- [🔄 Plugins de Importación](#%f0%9f%94%84-plugins-de-importaci%c3%b3n)
+- [🔗 Enlaces Externos](#%f0%9f%94%97-enlaces-externos)
+  - [Enlaces de Chuletas](#enlaces-de-chuletas)
+  - [🛒 Comercio Electrónico](#%f0%9f%9b%92-comercio-electr%c3%b3nico)
+  - [Lenguaje de Uso: Liquid](#lenguaje-de-uso-liquid)
+  - [Plugins de Jekyll](#plugins-de-jekyll)
+  - [🎨 Temas de Jekyll](#%f0%9f%8e%a8-temas-de-jekyll)
+  - [📹 Videotutoriales](#%f0%9f%93%b9-videotutoriales)
+- [🕵️‍♂️ Enlaces por Investigar y posteriormente Organizar](#%f0%9f%95%b5%ef%b8%8f%e2%80%8d%e2%99%82%ef%b8%8f-enlaces-por-investigar-y-posteriormente-organizar)
+
 ## Montaje y Pruebas
 
 * [Supercarga las páginas de GitHub con Jekyll y Travis CI](https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075){:target="_blank" rel="nofollow"}
@@ -100,10 +125,10 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 
 {% capture notice-2 %}
 
-#### New Site Features
+#### Nuevas características del sitio
 
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing {% endcapture %}
+* Ahora puede tener imágenes de portada en las páginas del blog.
+* Los borradores ahora se guardarán automáticamente mientras escribes {% endcapture %}
 
 <div class="notice"> {{ notice-2 | markdownify }} </div>
 
@@ -151,7 +176,7 @@ $header-font-family : $sans-serif-narrow;
 `````
 4. Cambiar dentro del fichero, ```_sass/minimal-mistakes.scss``` las variables redactadas en el paso anterior.
 
-## 👷‍♀️ CMS de Jekyll
+## 👷‍♀️ CMS para Jekyll
 
 Un CMS o Gestor de Contenidos es un software creado para poder ayudarte a la hora de la utilización de un blog, página o web en la que deseas agregar tus contenidos.
 
@@ -225,7 +250,7 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 
 * [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso"){:target="_blank" rel="nofollow"}
 
-## 🕵️‍♂️ Enlaces por Investigar y Organizar
+## 🕵️‍♂️ Enlaces por Investigar y posteriormente Organizar
 
 * [Jekyll Paginación 2](https://github.com/sverrirs/jekyll-paginate-v2){:target="_blank" rel="nofollow"}
 * [GDPR](https://github.com/mmistakes/minimal-mistakes/issues/1867#issuecomment-440663127){:target="_blank" rel="nofollow"} o como cumplir la legislación de Cookies de la Unión Europea.
