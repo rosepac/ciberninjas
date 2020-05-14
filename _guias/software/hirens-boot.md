@@ -27,7 +27,7 @@ Con estas herramientas útiles dentro de la ISO puedes resolver muchos problemas
 
 Después del arranque, la versión PE intenta instalar controladores como gráficos, sonido, tarjeta inalámbrica y ethernet para su hardware. Para que pueda conectarse a una red WIFI o Ethernet. Póngase en contacto con nosotros con su modelo de hardware si la versión PE no reconoce su tarjeta WIFI o Ethernet. Agregaremos los controladores necesarios en las nuevas versiones.
 
-Los lanzamientos oficiales de [las versiones antiguas](https://www.hirensbootcd.org/old-versions/){:target="_blank" rel="nofollow"} aún están disponibles. en nuestra  página de Versiones Antiguas.
+Los lanzamientos oficiales de [las versiones antiguas](https://www.hirensbootcd.org/old-versions/){:target="_blank" rel="nofollow,noreferrer"} aún están disponibles. en nuestra  página de Versiones Antiguas.
 
 ## 🏛 Sobre Hiren´s Boot CD
 
@@ -175,7 +175,7 @@ No hay bitcoin ni ningún otro minero infectado en nuestros archivos ISO o en nu
 
 Para evitar su uso como sistema operativo de producción, Windows PE detiene automáticamente la ejecución del shell y se reinicia después de 72 horas de uso continuo. Este período no es configurable.
 
-Fuente: Ver [Microsoft WinPE Introducción](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-intro){:target="_blank" rel="nofollow"}
+Fuente: Ver [Microsoft WinPE Introducción](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-intro){:target="_blank" rel="nofollow,noreferrer"}
 
 Windows PE no incluye ninguna clave de licencia de Windows. Además, Hiren's BootCD PE no viola los propósitos de Windows PE y no cambia la limitación de "72 horas de uso continuo". Por lo tanto, el uso de Windows PE en Hiren's BootCD PE es legal en términos de los propósitos de uso de Microsoft.
 
@@ -195,5 +195,5 @@ Los archivos que descarga de nuestro sitio web  NO contienen virus.  Si recibe u
 
 Lamentablemente, no podemos ofrecer ese tipo de ayuda con o sin precio.
 
-**Fuente**: Ver [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren"){:target="_blank" rel="nofollow"}
+**Fuente**: Ver [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

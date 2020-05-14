@@ -95,7 +95,7 @@ Personalmente no le he dado uso, puesto que mis tareas no son tan metódicas ni 
 
 Disfruta del mejor comparador de precios de Amazon desde dentro de la misma pestaña de las ventanas de Amazon.
 
-* [LinkClump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj){:target="_blank" rel="nofollow"}
+* [LinkClump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj){:target="_blank" rel="nofollow,noreferrer"}
 
 Abrir varios enlaces a la vez, de una sola selección.
 

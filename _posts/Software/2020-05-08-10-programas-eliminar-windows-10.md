@@ -63,7 +63,7 @@ Además, μTorrent fue pillado minando bitcoins sin permiso; a través de los or
 
 ### **Alternativas a μTorrent**
 
-Una aplicación simple como [Transmisión](https://kutt.it/torrentes-transmision){:target="_blank" rel="nofollow"} u incluso [qBittorrent](https://kutt.it/torrentes-qbitorrent){:target="_blank" rel="nofollow"}, que viene a ser un programa algo más avanzada; y nos ofrece una interfaz mucho más limpia e incluso permite ser usado como lector de noticias RSS. Ambas opciones, pueden realizar las mismas funciones que μTorrent, siendo más estables, cómodos, sin pedirte pagos constantemente y sin ninguna publicidad.
+Una aplicación simple como [Transmisión](https://kutt.it/torrentes-transmision){:target="_blank" rel="nofollow,noreferrer"} u incluso [qBittorrent](https://kutt.it/torrentes-qbitorrent){:target="_blank" rel="nofollow,noreferrer"}, que viene a ser un programa algo más avanzada; y nos ofrece una interfaz mucho más limpia e incluso permite ser usado como lector de noticias RSS. Ambas opciones, pueden realizar las mismas funciones que μTorrent, siendo más estables, cómodos, sin pedirte pagos constantemente y sin ninguna publicidad.
 
 ## 2. **MediaGet**
 
@@ -73,7 +73,7 @@ Se distribuye de manera dudosa y en algunos casos puede ser descargado sin tu co
 
 ### **Alternativas a Mediaget**
 
-Como anteriormente, [qBittorrent](https://kutt.it/torrentes-qbitorrent){:target="_blank" rel="nofollow"} sería una buena alternativa. Aparte, del siempre recomendado VLC que va a ser capaz de reproducir casi cualquier archivo que descargues e incluso te va a permitir mirar videos en Netflix u otros servicios de suscripción.
+Como anteriormente, [qBittorrent](https://kutt.it/torrentes-qbitorrent){:target="_blank" rel="nofollow,noreferrer"} sería una buena alternativa. Aparte, del siempre recomendado VLC que va a ser capaz de reproducir casi cualquier archivo que descargues e incluso te va a permitir mirar videos en Netflix u otros servicios de suscripción.
 <!-- https://lifehacker.ru/smotret-cherez-torrenty/ -->
 
 ## 3. **DriverPack y otras "colecciones de controladores"**
@@ -114,7 +114,7 @@ Pero naturalmente, tarde o temprano, irás notando como el sistema se acaba rale
 
 ### **Alternativas a **
 
-Haz clic en "Inicio" → "Configuración" → "Personalización" → "Temas" → "Otros temas en la tienda de Microsoft". Aquí tienes mucho más fondos de pantalla aburridos, y si quieres algo que se parezca más a Ubuntu o macOS: **Instala Linux o [compra un Mac](https://amzn.to/2Weh3CV){:target="_blank" rel="nofollow"}**.
+Haz clic en "Inicio" → "Configuración" → "Personalización" → "Temas" → "Otros temas en la tienda de Microsoft". Aquí tienes mucho más fondos de pantalla aburridos, y si quieres algo que se parezca más a Ubuntu o macOS: **Instala Linux o [compra un Mac](https://amzn.to/2Weh3CV){:target="_blank" rel="nofollow,noreferrer"}**.
 
 ## 6. **Fast Video Downloader y similares**
 
@@ -190,7 +190,7 @@ Simplemente procura mantener al día tus copias de recuperación y realiza algun
 
 Acompaña eso, junto a limpiezas periódicas de cookies, archivos temporales. Eso será más que suficiente.
 
-Si bien, si eres una persona sumamente descuidada que no te gusta estar realizando ciertas limpiezas de vez en cuando o totalmente principiante respecto a los ordenadores; siempre puedes tener un antivirus de baja consumo, como [ClamAV](https://www.clamav.net/){:target="_blank" rel="nofollow"}.
+Si bien, si eres una persona sumamente descuidada que no te gusta estar realizando ciertas limpiezas de vez en cuando o totalmente principiante respecto a los ordenadores; siempre puedes tener un antivirus de baja consumo, como [ClamAV](https://www.clamav.net/){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## 11. **Herramientas de virtualización**
 
@@ -202,7 +202,7 @@ Que ni hablar queda, de que son herramientas que fuerzan mucho todo el hardware 
 
 ### **Alternativas a las herramientas de virtualización**
 
-Siempre puedes probar alternativas de virtualización en la nube, aunque la gran mayoría son de pago. Por último, tienes páginas increíbles como por ejemplo: [DistroTest](https://distrotest.net/){:target="_blank" rel="nofollow"} que te permiten probar Sistemas Operativos sin la necesidad de que tu exijas un gran esfuerzo y desgaste a tu ordenador.
+Siempre puedes probar alternativas de virtualización en la nube, aunque la gran mayoría son de pago. Por último, tienes páginas increíbles como por ejemplo: [DistroTest](https://distrotest.net/){:target="_blank" rel="nofollow,noreferrer"} que te permiten probar Sistemas Operativos sin la necesidad de que tu exijas un gran esfuerzo y desgaste a tu ordenador.
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}

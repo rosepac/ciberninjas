@@ -33,7 +33,7 @@ Revery es un framework para aplicaciones GUI multiplataforma de carga rápida de
 Revery proporciona un enfoque funcional similar a React para modelar la interfaz de usuario, así como un andamiaje para administrar el ciclo de vida de la aplicación.
 <!-- contenido -->
 
-Revery comenzó como la base de [Onivim 2](https://v2.onivim.io/){:target="_blank" rel="nofollow"}, pero se [incluyó](https://v2.onivim.io/){:target="_blank" rel="nofollow"} en un conjunto de herramientas generales para las interfaces de usuario [ReasonML](/reason/){:target="_blank" rel="nofollow"}.
+Revery comenzó como la base de [Onivim 2](https://v2.onivim.io/){:target="_blank" rel="nofollow,noreferrer"}, pero se [incluyó](https://v2.onivim.io/){:target="_blank" rel="nofollow,noreferrer"} en un conjunto de herramientas generales para las interfaces de usuario [ReasonML](/reason/){:target="_blank" rel="nofollow,noreferrer"}.
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
@@ -42,7 +42,7 @@ Revery comenzó como la base de [Onivim 2](https://v2.onivim.io/){:target="_blan
 
 - React en código nativo.
 - Revery es liviano y está diseñado para crear aplicaciones rápidas: Un inicio rápido, ejecuciónrápida y compilación rápida.
-- Revery está inspirado en React y construido con [Reason](/reason/){:target="_blank" rel="nofollow"}. ¡Crea aplicaciones de código nativo con tus habilidades de ReactJS!
+- Revery está inspirado en React y construido con [Reason](/reason/){:target="_blank" rel="nofollow,noreferrer"}. ¡Crea aplicaciones de código nativo con tus habilidades de ReactJS!
 - Revery es multiplataforma, puede ser ejecutado sobre cualquier sistema operativo; y además, sobre cualquier navegador con WebGL.
 - Revery tiene licencia MIT y se construyó con la ayuda de sus contribuyentes.
 
@@ -51,8 +51,8 @@ Revery comenzó como la base de [Onivim 2](https://v2.onivim.io/){:target="_blan
 
 Hay dos formas de comenzar a probar el funcionamiento de Revery:
 
-- Puedes probar dentro del sitio de [prácticas](https://www.outrunlabs.com/revery/playground){:target="_blank" rel="nofollow"}
-- O bien, clonar y ejecutar [revery-quick-start](https://github.com/revery-ui/revery-quick-start){:target="_blank" rel="nofollow"}
+- Puedes probar dentro del sitio de [prácticas](https://www.outrunlabs.com/revery/playground){:target="_blank" rel="nofollow,noreferrer"}
+- O bien, clonar y ejecutar [revery-quick-start](https://github.com/revery-ui/revery-quick-start){:target="_blank" rel="nofollow,noreferrer"}
 
 	`git clone https://github.com/revery-ui/revery-quick-start`
 
@@ -64,10 +64,10 @@ Hay dos formas de comenzar a probar el funcionamiento de Revery:
 
 	`esy run`
 
-Puedes saber más, desde [la documentación](https://www.outrunlabs.com/revery/api/revery/#ComponentModel){:target="_blank" rel="nofollow"} de Revery.
+Puedes saber más, desde [la documentación](https://www.outrunlabs.com/revery/api/revery/#ComponentModel){:target="_blank" rel="nofollow,noreferrer"} de Revery.
 
-[⏩ Web Oficial de Revery](https://www.outrunlabs.com/revery/ "Página web del framework Revery"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Documentación Revery](https://www.outrunlabs.com/revery/api/revery/ "Página web del framework Revery"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Web Oficial de Revery](https://www.outrunlabs.com/revery/ "Página web del framework Revery"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Documentación Revery](https://www.outrunlabs.com/revery/api/revery/ "Página web del framework Revery"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}

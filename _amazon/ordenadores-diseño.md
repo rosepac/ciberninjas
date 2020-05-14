@@ -29,64 +29,64 @@ sidebar:
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## PANTALLAS GAMERS
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <!-- msi ordenadores: https://www.amazon.es/s?k=msi&i=black-friday&bbn=8987952031&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1574997619&ref=sr_pg_1 -->

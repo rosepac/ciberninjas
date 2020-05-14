@@ -41,5 +41,5 @@ Facebook reveló recientemente que en 2019 el número de contribuyentes a la pla
 
 Como era de esperar, una serie de proyectos principales de software de aprendizaje automático se construyen sobre PyTorch, incluidos Uber's Pyro y HuggingFace's Transformers. El desarrollador de software Preferred Networks se unió a las filas recientemente a la promesa de modificar su framework de desarrollo de inteligencia artificial a medida, Chainer, a PyTorch en un futuro cercano.
 
-**Fuente**\: [Venture Beat](https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/){:target="_blank" rel="nofollow"}
+**Fuente**\: [Venture Beat](https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

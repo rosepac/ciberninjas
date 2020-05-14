@@ -24,13 +24,13 @@ Bases de datos NoSQL existentes [MongoDB](https://es.wikipedia.org/wiki/MongoDB)
 <!-- basses datos no sql: https://es.wikipedia.org/wiki/NoSQL -->
 ## Los Mejores Artículos de NoSQL en Español
 
-* [Migra, es una herramienta de comparación de esquemas para PostgreSQL](https://migra.djrobstep.com/){:target="_blank" rel="nofollow"}
+* [Migra, es una herramienta de comparación de esquemas para PostgreSQL](https://migra.djrobstep.com/){:target="_blank" rel="nofollow,noreferrer"}
 
-## [CockroachDB ](https://www.cockroachlabs.com/blog/cockroachdb-2-0-release){:target="_blank" rel="nofollow"}
+## [CockroachDB ](https://www.cockroachlabs.com/blog/cockroachdb-2-0-release){:target="_blank" rel="nofollow,noreferrer"}
 
 CockroachDB debutó como la base de datos de código abierto que hizo posible la creación de aplicaciones en la nube masivas y confiables sin renunciar a SQL. Las empresas con visión de futuro lo adoptaron para ocultar la complejidad de lidiar con la escala distribuida, la resiliencia y los problemas de consistencia en la capa de la base de datos.
 
-* [Migrando a CockroachDB](https://www.openmymind.net/Migrating-To-CockroachDB/){:target="_blank" rel="nofollow"} 2020, Febrero
+* [Migrando a CockroachDB](https://www.openmymind.net/Migrating-To-CockroachDB/){:target="_blank" rel="nofollow,noreferrer"} 2020, Febrero
 
 :flag_us: Postgre página web oficial, muy completa [https://www.postgresql.org/]
 Mis consultas favoritas de PostgreSql y por qué son importantes: [https://severalnines.com/blog/my-favorite-postgresql-queries-and-why-they-matter]

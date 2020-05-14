@@ -68,13 +68,13 @@ TensorFlow mejora este concepto al ordenar las capas de datos llamadas nodos. Bu
 
 Google está en proceso de implementar TensorFlow 2.0, que incluye las siguientes mejoras:
 
-* Ayuda a que los componentes API se integren mejor con [tf.keras](https://www.tensorflow.org/api_docs/python/tf/keras){:target="_blank" rel="nofollow"} (una interfaz de alto nivel para redes neuronales que se ejecuta sobre múltiples backends).
-* Incluye la versión 1.0 de [TensorFlow.js](https://www.tensorflow.org/js){:target="_blank" rel="nofollow"}, que permite el uso de modelos JavaScript estándar, puede volver a capacitar los modelos JS existentes y permite la construcción y capacitación de modelos directamente en JavaScript.
-* Incluye [TensorFlow Federated](https://www.tensorflow.org/federated){:target="_blank" rel="nofollow"}, que es un framework de código abierto para experimentar con el aprendizaje automático (y otros cálculos) utilizando datos descentralizados.
-* Incluye [TF Privacy](https://github.com/tensorflow/privacy){:target="_blank" rel="nofollow"}, una biblioteca para entrenar modelos de aprendizaje automático con un enfoque en la privacidad para los datos de entrenamiento.
-* Presenta una [ejecución entusiasta](https://www.tensorflow.org/guide/eager){:target="_blank" rel="nofollow"}, que es un entorno de programación imperativo que evalúa las operaciones de inmediato, sin crear gráficos antes de devolver valores concretos.
-* Utiliza [tf.function](https://www.tensorflow.org/alpha/tutorials/eager/tf_function){:target="_blank" rel="nofollow"}, que le permite transformar un subconjunto de sintaxis de Python en gráficos portátiles de alto rendimiento y mejora el rendimiento y la capacidad de implementación de una ejecución ansiosa.
-* La experimentación avanzada será posible con nuevas extensiones de [Tensores irregulares](https://www.tensorflow.org/guide/ragged_tensors){:target="_blank" rel="nofollow"} (el equivalente TensorFlow de listas anidadas de longitud variable), [TensorFlow Probability](https://www.tensorflow.org/probability){:target="_blank" rel="nofollow"} (una biblioteca de Python construida en TensorFlow que facilita la combinación de modelos probabilísticos y aprendizaje profundo) y [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor){:target="_blank" rel="nofollow"} (una biblioteca de modelos de aprendizaje profundo y conjuntos de datos).
+* Ayuda a que los componentes API se integren mejor con [tf.keras](https://www.tensorflow.org/api_docs/python/tf/keras){:target="_blank" rel="nofollow,noreferrer"} (una interfaz de alto nivel para redes neuronales que se ejecuta sobre múltiples backends).
+* Incluye la versión 1.0 de [TensorFlow.js](https://www.tensorflow.org/js){:target="_blank" rel="nofollow,noreferrer"}, que permite el uso de modelos JavaScript estándar, puede volver a capacitar los modelos JS existentes y permite la construcción y capacitación de modelos directamente en JavaScript.
+* Incluye [TensorFlow Federated](https://www.tensorflow.org/federated){:target="_blank" rel="nofollow,noreferrer"}, que es un framework de código abierto para experimentar con el aprendizaje automático (y otros cálculos) utilizando datos descentralizados.
+* Incluye [TF Privacy](https://github.com/tensorflow/privacy){:target="_blank" rel="nofollow,noreferrer"}, una biblioteca para entrenar modelos de aprendizaje automático con un enfoque en la privacidad para los datos de entrenamiento.
+* Presenta una [ejecución entusiasta](https://www.tensorflow.org/guide/eager){:target="_blank" rel="nofollow,noreferrer"}, que es un entorno de programación imperativo que evalúa las operaciones de inmediato, sin crear gráficos antes de devolver valores concretos.
+* Utiliza [tf.function](https://www.tensorflow.org/alpha/tutorials/eager/tf_function){:target="_blank" rel="nofollow,noreferrer"}, que le permite transformar un subconjunto de sintaxis de Python en gráficos portátiles de alto rendimiento y mejora el rendimiento y la capacidad de implementación de una ejecución ansiosa.
+* La experimentación avanzada será posible con nuevas extensiones de [Tensores irregulares](https://www.tensorflow.org/guide/ragged_tensors){:target="_blank" rel="nofollow,noreferrer"} (el equivalente TensorFlow de listas anidadas de longitud variable), [TensorFlow Probability](https://www.tensorflow.org/probability){:target="_blank" rel="nofollow,noreferrer"} (una biblioteca de Python construida en TensorFlow que facilita la combinación de modelos probabilísticos y aprendizaje profundo) y [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor){:target="_blank" rel="nofollow,noreferrer"} (una biblioteca de modelos de aprendizaje profundo y conjuntos de datos).
 * Una herramienta de conversión que actualiza automáticamente el código de TensorFlow 1.x Python para que pueda usarse con las API compatibles con TensorFlow 2.0 (y marca los casos en los que dicho código no se puede convertir automáticamente).
 
 ## ¿Por qué importa TensorFlow?
@@ -85,11 +85,11 @@ El aprendizaje automático es la salsa secreta para la innovación del mañana. 
 * se basan en el aprendizaje de múltiples niveles de características o representaciones de los datos; y
 * Aprender múltiples niveles de representación correspondientes a diferentes niveles de abstracción.
 
-Gracias al aprendizaje automático, el software y los dispositivos siguen siendo más inteligentes. Con los exigentes consumidores actuales y el auge de los grandes datos, esta evolución se ha convertido en equivalente al éxito de un desarrollador y su producto. Y debido a que TensorFlow se hizo de código abierto, significa que cualquiera puede hacer uso de este increíble salto que Google ha dado vida. De hecho, TensorFlow es el primer framework serio para el aprendizaje profundo disponible a través de la [licencia Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0){:target="_blank" rel="nofollow"}.
+Gracias al aprendizaje automático, el software y los dispositivos siguen siendo más inteligentes. Con los exigentes consumidores actuales y el auge de los grandes datos, esta evolución se ha convertido en equivalente al éxito de un desarrollador y su producto. Y debido a que TensorFlow se hizo de código abierto, significa que cualquiera puede hacer uso de este increíble salto que Google ha dado vida. De hecho, TensorFlow es el primer framework serio para el aprendizaje profundo disponible a través de la [licencia Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0){:target="_blank" rel="nofollow,noreferrer"}.
 
 Con desarrolladores y compañías capaces de usar las bibliotecas TensorFlow, cada vez más aplicaciones y dispositivos se volverán más inteligentes, más rápidos y más confiables. TensorFlow podrá clasificar un gran número de imágenes a una velocidad sin precedentes.
 
-Debido a que Google hizo de código abierto TensorFlow, las bibliotecas pueden ser a la vez mejorado y ampliado a otros idiomas, tales como [Java](https://www.java.com/){:target="_blank" rel="nofollow"}, [Lua](https://www.lua.org/){:target="_blank" rel="nofollow"}, y [R](https://www.r-project.org/about.html){:target="_blank" rel="nofollow"}. Este movimiento lleva el aprendizaje automático (algo que hasta ahora solo estaba disponible para los institutos de investigación) a todos los desarrolladores, para que puedan enseñar a sus sistemas y software a reconocer imágenes o traducir el habla.
+Debido a que Google hizo de código abierto TensorFlow, las bibliotecas pueden ser a la vez mejorado y ampliado a otros idiomas, tales como [Java](https://www.java.com/){:target="_blank" rel="nofollow,noreferrer"}, [Lua](https://www.lua.org/){:target="_blank" rel="nofollow,noreferrer"}, y [R](https://www.r-project.org/about.html){:target="_blank" rel="nofollow,noreferrer"}. Este movimiento lleva el aprendizaje automático (algo que hasta ahora solo estaba disponible para los institutos de investigación) a todos los desarrolladores, para que puedan enseñar a sus sistemas y software a reconocer imágenes o traducir el habla.
 
 ## ¿A quién afecta TensorFlow?
 
@@ -97,32 +97,32 @@ TensorFlow no solo hace posible que los desarrolladores incluyan el botín de ap
 
 ## ¿Cuándo se lanzó TensorFlow?
 
-TensorFlow se lanzó originalmente el 9 de noviembre de 2015, y la versión estable se puso a disposición el 15 de febrero de 2017. [TensorFlow 2.0 alpha ya](https://www.tensorflow.org/alpha){:target="_blank" rel="nofollow"} está disponible, y la vista previa pública estará disponible próximamente. Puede obtener más información sobre el alfa TensorFlow 2.0 en la [guía](https://www.tensorflow.org/alpha/tutorials/quickstart/beginner){:target="_blank" rel="nofollow"} oficial [Comenzar con TensorFlow](https://www.tensorflow.org/alpha/tutorials/quickstart/beginner){:target="_blank" rel="nofollow"} .
+TensorFlow se lanzó originalmente el 9 de noviembre de 2015, y la versión estable se puso a disposición el 15 de febrero de 2017. [TensorFlow 2.0 alpha ya](https://www.tensorflow.org/alpha){:target="_blank" rel="nofollow,noreferrer"} está disponible, y la vista previa pública estará disponible próximamente. Puede obtener más información sobre el alfa TensorFlow 2.0 en la [guía](https://www.tensorflow.org/alpha/tutorials/quickstart/beginner){:target="_blank" rel="nofollow,noreferrer"} oficial [Comenzar con TensorFlow](https://www.tensorflow.org/alpha/tutorials/quickstart/beginner){:target="_blank" rel="nofollow,noreferrer"} .
 
-Las [bibliotecas](https://github.com/jtoy/awesome-tensorflow#libraries){:target="_blank" rel="nofollow"} , las [API](https://www.tensorflow.org/api_docs/){:target="_blank" rel="nofollow"} y [las guías de desarrollo](https://www.tensorflow.org/get_started/get_started){:target="_blank" rel="nofollow"} están disponibles ahora, por lo que los desarrolladores pueden comenzar a incluir TensorFlow en sus productos. Los usuarios ya están viendo los resultados de TensorFlow en Google Photos, Gmail, Google Search, Google Assistant y más.
+Las [bibliotecas](https://github.com/jtoy/awesome-tensorflow#libraries){:target="_blank" rel="nofollow,noreferrer"} , las [API](https://www.tensorflow.org/api_docs/){:target="_blank" rel="nofollow,noreferrer"} y [las guías de desarrollo](https://www.tensorflow.org/get_started/get_started){:target="_blank" rel="nofollow,noreferrer"} están disponibles ahora, por lo que los desarrolladores pueden comenzar a incluir TensorFlow en sus productos. Los usuarios ya están viendo los resultados de TensorFlow en Google Photos, Gmail, Google Search, Google Assistant y más.
 
 ## Competidores de TensorFlow
 
-TensorFlow no está solo en el campo de aprendizaje profundo; de hecho, hay varias otras empresas con frameworks de aprendizaje automático, incluidas las siguientes [bibliotecas de Python](/python/#bibliotecas-de-python) como [Theano](/python/#theano), [Keras](/python/#keras), [Pandas](/python/#pandas), etc. Entre algunas otras librerías aún no citadas como por ejemplo [Torch](https://github.com/torch/torch7){:target="_blank" rel="nofollow"}, [Caffe](https://github.com/BVLC/caffe){:target="_blank" rel="nofollow"}, [neon](https://github.com/NervanaSystems/neon){:target="_blank" rel="nofollow"} o [H2O.ai](https://www.h2o.ai/){:target="_blank" rel="nofollow"}
+TensorFlow no está solo en el campo de aprendizaje profundo; de hecho, hay varias otras empresas con frameworks de aprendizaje automático, incluidas las siguientes [bibliotecas de Python](/python/#bibliotecas-de-python) como [Theano](/python/#theano), [Keras](/python/#keras), [Pandas](/python/#pandas), etc. Entre algunas otras librerías aún no citadas como por ejemplo [Torch](https://github.com/torch/torch7){:target="_blank" rel="nofollow,noreferrer"}, [Caffe](https://github.com/BVLC/caffe){:target="_blank" rel="nofollow,noreferrer"}, [neon](https://github.com/NervanaSystems/neon){:target="_blank" rel="nofollow,noreferrer"} o [H2O.ai](https://www.h2o.ai/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## ¿Cómo empiezo a usar TensorFlow?
 
-Lo primero que debe hacer cualquier desarrollador es leer la [guía de inicio de TensorFlow](https://www.tensorflow.org/get_started/get_started){:target="_blank" rel="nofollow"}, que incluye un tutorial básico de TensorFlow. Si es nuevo en el aprendizaje automático, asegúrese de consultar las siguientes guías:
+Lo primero que debe hacer cualquier desarrollador es leer la [guía de inicio de TensorFlow](https://www.tensorflow.org/get_started/get_started){:target="_blank" rel="nofollow,noreferrer"}, que incluye un tutorial básico de TensorFlow. Si es nuevo en el aprendizaje automático, asegúrese de consultar las siguientes guías:
 
-* [MNIST para principiantes de ML](https://www.tensorflow.org/get_started/mnist/beginners){:target="_blank" rel="nofollow"}
-* [MNIST profundo para expertos](https://www.tensorflow.org/get_started/mnist/pros){:target="_blank" rel="nofollow"}
+* [MNIST para principiantes de ML](https://www.tensorflow.org/get_started/mnist/beginners){:target="_blank" rel="nofollow,noreferrer"}
+* [MNIST profundo para expertos](https://www.tensorflow.org/get_started/mnist/pros){:target="_blank" rel="nofollow,noreferrer"}
 
-Los desarrolladores pueden [instalar TensorFlow](https://www.tensorflow.org/install/){:target="_blank" rel="nofollow"} en Linux, Mac y Windows (o incluso instalar desde la fuente), o consultar sus diversas herramientas desde la [página](https://github.com/tensorflow){:target="_blank" rel="nofollow"} oficial de [TensorFlow GitHub](https://github.com/tensorflow){:target="_blank" rel="nofollow"}.
+Los desarrolladores pueden [instalar TensorFlow](https://www.tensorflow.org/install/){:target="_blank" rel="nofollow,noreferrer"} en Linux, Mac y Windows (o incluso instalar desde la fuente), o consultar sus diversas herramientas desde la [página](https://github.com/tensorflow){:target="_blank" rel="nofollow,noreferrer"} oficial de [TensorFlow GitHub](https://github.com/tensorflow){:target="_blank" rel="nofollow,noreferrer"}.
 
 Finalmente, los desarrolladores pueden aprovechar todas las guías de TensorFlow:
 
-* [TensorFlow Mechanics 101](https://www.tensorflow.org/get_started/mnist/mechanics){:target="_blank" rel="nofollow"}
-* [tf.contrib.learn Inicio rápido](https://www.tensorflow.org/get_started/tflearn){:target="_blank" rel="nofollow"}
-* [Creación de funciones de entrada con tf.contrib.learn](https://www.tensorflow.org/get_started/input_fn){:target="_blank" rel="nofollow"}
-* [TensorBoard: Visualizando el aprendizaje](https://www.tensorflow.org/get_started/summaries_and_tensorboard){:target="_blank" rel="nofollow"}
-* [TensorBoard: visualización de incrustación](https://www.tensorflow.org/get_started/embedding_viz){:target="_blank" rel="nofollow"}
-* [TensorBoard: visualización de gráficos](https://www.tensorflow.org/get_started/graph_viz){:target="_blank" rel="nofollow"}
-* [Conceptos básicos de registro y monitoreo con tf.contrib.learn](https://www.tensorflow.org/get_started/monitors){:target="_blank" rel="nofollow"}
+* [TensorFlow Mechanics 101](https://www.tensorflow.org/get_started/mnist/mechanics){:target="_blank" rel="nofollow,noreferrer"}
+* [tf.contrib.learn Inicio rápido](https://www.tensorflow.org/get_started/tflearn){:target="_blank" rel="nofollow,noreferrer"}
+* [Creación de funciones de entrada con tf.contrib.learn](https://www.tensorflow.org/get_started/input_fn){:target="_blank" rel="nofollow,noreferrer"}
+* [TensorBoard: Visualizando el aprendizaje](https://www.tensorflow.org/get_started/summaries_and_tensorboard){:target="_blank" rel="nofollow,noreferrer"}
+* [TensorBoard: visualización de incrustación](https://www.tensorflow.org/get_started/embedding_viz){:target="_blank" rel="nofollow,noreferrer"}
+* [TensorBoard: visualización de gráficos](https://www.tensorflow.org/get_started/graph_viz){:target="_blank" rel="nofollow,noreferrer"}
+* [Conceptos básicos de registro y monitoreo con tf.contrib.learn](https://www.tensorflow.org/get_started/monitors){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Relacionados
 
@@ -131,5 +131,5 @@ Finalmente, los desarrolladores pueden aprovechar todas las guías de TensorFlow
 * [▷ 11 Fórmulas de comenzar el proceso de aprender programación de Inteligencia Artificial para principiantes](/11-aprendizajes-principiantes-inteligencia-artificial/)
 * [▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
 
-**Fuente**\: [Tech Republic](https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/){:target="_blank" rel="nofollow"}
+**Fuente**\: [Tech Republic](https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

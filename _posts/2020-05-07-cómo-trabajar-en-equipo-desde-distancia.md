@@ -63,7 +63,7 @@ La semana 2 cubre los siguientes resultados de aprendizaje:
 <!-- cierro contenido por revisar -->
 ## **¿Cómo han cambiado las prácticas laborales?**
 
-A pesar que de que aún no existen datos, no cabe duda de que cuando se pueda realizar cualquier [estadística](https://www.expansion.com/economia/2020/03/10/5e676cd4e5fdea36358b45d9.html){:target="_blank" rel="nofollow"} sobre el trabajo remoto; las cifras se elevarán hasta niveles históricos tras la crisis del Covid-19.
+A pesar que de que aún no existen datos, no cabe duda de que cuando se pueda realizar cualquier [estadística](https://www.expansion.com/economia/2020/03/10/5e676cd4e5fdea36358b45d9.html){:target="_blank" rel="nofollow,noreferrer"} sobre el trabajo remoto; las cifras se elevarán hasta niveles históricos tras la crisis del Covid-19.
 
 Hasta el momento anterior a la crisis, en España solamente el 4,3% de los trabajadores realizaban las tareas a diario desde sus casas; que ya de por sí, eran porcentajes menores que en el resto de Europa. En donde los países con tasas más elevadas, pueden sobrepasar del 10% como son los casos de Holanda, Finlandia o Luxemburgo.
 
@@ -79,7 +79,7 @@ Por lo general, están conectados con el resto del equipo a través de las actua
 
 En el lugar de trabajo tradicional, la oficina, ya se están utilizando herramientas de colaboración y comunicación gracias a los trabajadores remotos. Los trabajadores de oficina utilizan habitualmente sistemas de gestión de proyectos, por ejemplo, Trello, para gestionar los proyectos y los procesos dentro de los equipos internos.
 
-Existen compañías globales como [Automattic](https://es.wikipedia.org/wiki/Automattic){:target="_blank" rel="nofollow"} (la encargada de gestionar Wordpress.com, WooCommerce, Jetpack, bbPress o BudyPress, Tumblr, Simplenote o Gravatar) ni siquiera tienen locales y todos sus empleados trabajan de forma remota alrededor de todo el mundo. Parece que eso deja claro que el futuro ya está aquí.
+Existen compañías globales como [Automattic](https://es.wikipedia.org/wiki/Automattic){:target="_blank" rel="nofollow,noreferrer"} (la encargada de gestionar Wordpress.com, WooCommerce, Jetpack, bbPress o BudyPress, Tumblr, Simplenote o Gravatar) ni siquiera tienen locales y todos sus empleados trabajan de forma remota alrededor de todo el mundo. Parece que eso deja claro que el futuro ya está aquí.
 
 Pero, **¿Cómo afecta esto a la productividad?**
 

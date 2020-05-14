@@ -60,7 +60,7 @@ Desarrollado por la tecnología Visual Studio, Codespaces en GitHub incluye una 
 
 El precio de los espacios de código aún no se ha finalizado. La funcionalidad de edición de código en GitHub siempre será gratuita, pero si usa entornos de nube Codespaces, planeamos ofrecer precios simples de pago por uso. Los espacios de código serán de uso gratuito durante la versión beta limitada.
 
-[⏩ Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Características de Codespaces**
 
@@ -79,7 +79,7 @@ Por ahora, no. Mientras esté en su versión BETA. Solamente estará disponible 
 
 Si eres incluido en la versión beta de Codespaces, verás un botón de "Código" en dentro de los repositorios compatibles.
 
-[⏩ Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Está disponible Codespaces para todos los repositorios?**
 
@@ -87,7 +87,7 @@ Mientras esté en versión beta limitada, Codespaces estará disponible en los r
 
 ## **Qué pasa si no quiero desarrollar en el navegador?**
 
-Si lo prefiere, puede abrir Codespaces en GitHub y luego [conectarte a través de Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline){:target="_blank" rel="nofollow"}.
+Si lo prefiere, puede abrir Codespaces en GitHub y luego [conectarte a través de Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## **Cuánto cuesta Codespaces?**
 
@@ -101,7 +101,7 @@ Codespaces configura un entorno de Visual Studio Code alojado en la nube, dentro
 
 Dentro de Codespaces, tendrá acceso a Visual Studio Code Marketplace , y puede precargar cualquier extensión que desee cargar en el lanzamiento utilizando un archivo de configuración devcontainer . También puede personalizar su espacio de código tirando de los archivos de puntos.
 
-[⏩ Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados
 

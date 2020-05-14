@@ -33,7 +33,7 @@ sidebar:
 
 ## Logitech MX Master
 
-[![Logitech MX Master](https://i.ibb.co/BPq62Lq/image.png)](https://amzn.to/2Y3Iv5I){:target="_blank" rel="nofollow"}
+[![Logitech MX Master](https://i.ibb.co/BPq62Lq/image.png)](https://amzn.to/2Y3Iv5I){:target="_blank" rel="nofollow,noreferrer"}
 
 El MX Master 2s está diseñado para adaptarse cómodamente a tu mano sin causar tensión durante largos períodos de uso.
 
@@ -45,11 +45,11 @@ La duración de la batería del mouse puede durar hasta 70 días desde una carga
 
 Hay botones ubicados en el costado del mouse que le permiten cambiar entre ventanas sin usar su teclado y también es fácilmente programable. Una rueda de desplazamiento en el costado del mouse le permite desplazarse a través de páginas web o documentos de manera rápida y fácil, dependiendo de qué tan rápido mueva la rueda.
 
-[⌨ ¡CÓMPRALO YA! 🖱](https://amzn.to/2Y3Iv5I){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[⌨ ¡CÓMPRALO YA! 🖱](https://amzn.to/2Y3Iv5I){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Apple Magic Mouse 2
 
-[![Apple Magic Mouse 2](https://i.ibb.co/PgYs8yR/image.png)](https://amzn.to/2R4z4S2){:target="_blank" rel="nofollow"}
+[![Apple Magic Mouse 2](https://i.ibb.co/PgYs8yR/image.png)](https://amzn.to/2R4z4S2){:target="_blank" rel="nofollow,noreferrer"}
 
 Las personas que prefieren trabajar con productos Apple saben que están comprando productos de alta calidad y tienen un diseño estéticamente agradable. Con su diseño súper liviano, el Magic Mouse 2 de Apple viene con la capacidad de seguimiento por láser que puede facilitar el cambio entre páginas y hacer cambios en su proyecto en casi cualquier superficie.
 
@@ -59,11 +59,11 @@ Un gran cambio que viene con Magic Mouse 2 es cómo se carga el mouse. Atrás qu
 
 A tener en cuenta, su diseño físico, que puede llevar algo de tiempo acostumbrarse. El diseño delgado no es ergonómicamente amigable y pone su mano en una posición extraña que no ocurre con otros ratones.
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2R4z4S2){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2R4z4S2){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Anker 98ANWVM-UBA
 
-[![Anker 98ANWVM-UBA](https://i.ibb.co/jWn0NrK/image.png)](https://amzn.to/34wiGNS){:target="_blank" rel="nofollow"}
+[![Anker 98ANWVM-UBA](https://i.ibb.co/jWn0NrK/image.png)](https://amzn.to/34wiGNS){:target="_blank" rel="nofollow,noreferrer"}
 
 El ratón óptico ergonómico vertical de Anker sin lugar a dudas destaca sobre todo por su innovador diseño que sin lugar a dudas salta a la vista.
 
@@ -73,11 +73,11 @@ Si pasas mucho tiempo haciendo diseños gráficos y utilizando principalmente un
 
 Además de su extraño diseño, el mouse óptico ergonómico Anker proporciona tres niveles diferentes de sensibilidad: 800, 1200 y 1600 ppp. para mejorar el rendimiento del mouse., y agrega un total de cinco botones que ofrecen amplia accesibilidad a la hora de desplazarse, hacer clic con el botón izquierdo y derecho, o realizar ls acciones siguiente o anterior.
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/34wiGNS){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/34wiGNS){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Logitech MX Ergo
 
-[![Logitech MX Ergo](https://i.ibb.co/s6x44CS/image.png)](https://amzn.to/2smNJxp){:target="_blank" rel="nofollow"}
+[![Logitech MX Ergo](https://i.ibb.co/s6x44CS/image.png)](https://amzn.to/2smNJxp){:target="_blank" rel="nofollow,noreferrer"}
 
 A primera vista, puede pensar que estas viendo un ratón que hemos guardado otra década, pero te equivocas. El Logitech MX Ergo Wireless puede parecer de estilo retro, pero eso es solo por el trackball. Muy pocos fabricantes de ratones fabrican periféricos con trackballs, y eligen crear ratones con un láser óptico.
 
@@ -85,11 +85,11 @@ Logitech continúa apoyando el trackball y muchos diseñadores gráficos están 
 
 Logitech MX Ergo Wireless tiene botones totalmente personalizables y con el sistema Logitech Flow, puedes controlar dos pantallas diferentes con el mismo mouse. Una carga completa de la batería dura cuatro meses, mientras que la carga de solo un minuto puede durar un día completo. Si erse una de esas personas acostumbradas al trackball, el MX Ergo será tu ratón.
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2smNJxp){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2smNJxp){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Microsoft – Bluetooth Mobile Mouse 3600
 
-[![Microsoft – Bluetooth Mobile Mouse 3600](https://i.ibb.co/PFjZ3dH/image.png)](https://amzn.to/34un93E){:target="_blank" rel="nofollow"}
+[![Microsoft – Bluetooth Mobile Mouse 3600](https://i.ibb.co/PFjZ3dH/image.png)](https://amzn.to/34un93E){:target="_blank" rel="nofollow,noreferrer"}
 
 Microsoft, poco a poco, cada vez más va acertando en sus dispositivos; este ratón es un ejemplo de ello. Microsoft logra presentar un "mouse" muy confiable, que bien es lo suficientemente pequeño como para que las personas con manos más pequeñas lo usen cómodamente a diario; y que sin lugar es una gran opción tomando en cuenta su calidad y su precio.
 
@@ -97,7 +97,7 @@ Un gran detalle en tener en cuenta, es que su diseño sirve perfectamente en cas
 
 Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva; para todos aquellos casos en los que se nos acaban las pilas, baterías o tengamos algún descuido.
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/34un93E){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/34un93E){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0761YL588&linkId=13ccc1a94e27b802f148d10d9185fa75"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B016UPAVDE&linkId=6377a50f1b28b75e66b859008e5d338b"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00BIFNTMC&linkId=b0b8f4e95ef30ad2ac0d1efa5b77340c"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B074W227RK&linkId=91de731293e50f072feab21543d40a62"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00FRDA27Q&linkId=d4ea76a76618e9c8ca3e451af1af94ca"></iframe>
 
@@ -107,33 +107,33 @@ Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva;
 
 ## MSI Vigor GK60 CR - Teclado Español (N-Key, Windows Key, Cherry MX Red), Color Negro
 
-[![MSI Vigor GK60 CR](https://i.ibb.co/dtp2jrL/image.png)](https://amzn.to/2L6RcH8){:target="_blank" rel="nofollow"}
+[![MSI Vigor GK60 CR](https://i.ibb.co/dtp2jrL/image.png)](https://amzn.to/2L6RcH8){:target="_blank" rel="nofollow,noreferrer"}
 
-[🖱 ¡CÓMPRALO YA! ⌨](https://amzn.to/2L6RcH8){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
-
-[⌨ ¡CÓMPRALO YA! 🖱](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🖱 ¡CÓMPRALO YA! ⌨](https://amzn.to/2L6RcH8){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[⌨ ¡CÓMPRALO YA! 🖱](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07N8WRTRJ&linkId=77db888c9cf5737ea1a5e9a93d1c3c18"></iframe>
 
@@ -143,33 +143,33 @@ Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva;
 
 ## MSI Clutch GM30 - Ratón (USB 2.0, 9 Efectos LED, Sensor óptico PAW-3327, Detalles con Dragon Center) Negro 
 
-[![MSI Clutch GM30](https://i.ibb.co/zNFRC0s/image.png)](https://amzn.to/2R2uGTo){:target="_blank" rel="nofollow"}
+[![MSI Clutch GM30](https://i.ibb.co/zNFRC0s/image.png)](https://amzn.to/2R2uGTo){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2R2uGTo){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2R2uGTo){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07XZC667B&linkId=fc11e285cbaaf42f6a1c24e5b4389562"></iframe>
 
@@ -179,33 +179,33 @@ Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva;
 
 ## MSI Agility GD30 - Alfombrilla de ratón para Videojuegos
 
-[![MSI Agility GD30](https://i.ibb.co/mSX5dWp/image.png)](https://amzn.to/2OusaUp){:target="_blank" rel="nofollow"}
+[![MSI Agility GD30](https://i.ibb.co/mSX5dWp/image.png)](https://amzn.to/2OusaUp){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2OusaUp){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](https://amzn.to/2OusaUp){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-
-## 
-
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
-
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 
 
-[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow"}
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 
+
+[![TITULO]()]( "XBox One"){:target="_blank" rel="nofollow,noreferrer"}
+
+[🎮 ¡CÓMPRALO YA! 🎯](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07S49XHNF&linkId=43ab25ea4e12e0b96e2ce279468e74ce"></iframe>
 
@@ -213,9 +213,9 @@ Además por su versatibilidad puede pasar por ser un muy buen ratón de reserva;
 
 ## 🎁 Más Black Friday
 
-[💻 TABLETS GRÁFICAS 💻](/tablets-graficas/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-[🎧 OFERTAS DE AURICULARES 🎧](/auriculares-dise%C3%B1o/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-[🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-[⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
-[💻 ¡OJEA MÁS OFERTAS! 💻](/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[💻 TABLETS GRÁFICAS 💻](/tablets-graficas/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎧 OFERTAS DE AURICULARES 🎧](/auriculares-dise%C3%B1o/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 OFERTAS DE CONSOLAS Y VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[📚 OFERTAS DE LIBROS 📚](/catalogo/libros/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 ¡OJEA MÁS OFERTAS! 💻](/amazon/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

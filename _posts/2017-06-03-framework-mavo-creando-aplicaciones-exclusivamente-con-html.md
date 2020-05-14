@@ -62,7 +62,7 @@ Mediante **MAVO** podrás hacer todas estas cosas (y muchas más…)
 
 Sin necesidad de codificar, ni de servidores para administrar los datos. Puedes hacer cualquier elemento editable, solamente incluyéndole un atributo. De hecho puedes almacenar los datos localmente sobre el navegador, **Github**, o **Dropbox**, o cualquier otro servicio simplemente cambiando un atributo **HTML**. También se puede convertir cualquier elemento **HTML** en una colección, con controles personalizables para añadir, eliminar elementos o re-organizar elementos mediante arrastrar y soltar. Los visitantes de tu sitio web podrían sugerir modificaciones sobre tus datos creando “_pull request_” a través del proyecto de **Github** desde dentro de tu misma _web_.
 
-**Mavo es un lenguaje que extiende HTML para describir aplicaciones que administran, almacenan y transforman datos.** Lo que se necesita para utilizar **MAVO** es únicamente incluir estos [dos archivos](http://mavo.io/get/){:target="_blank" rel="nofollow"} e insertarlos antes del cierre de la cabecera:
+**Mavo es un lenguaje que extiende HTML para describir aplicaciones que administran, almacenan y transforman datos.** Lo que se necesita para utilizar **MAVO** es únicamente incluir estos [dos archivos](http://mavo.io/get/){:target="_blank" rel="nofollow,noreferrer"} e insertarlos antes del cierre de la cabecera:
 
 No se trata de utilizar **HTML** como un simple acceso directo a **JavaScript**, sino como un idioma principal para crear aplicaciones web. Hemos hecho estudios de usuarios reales para demostrar que **MAVO** puede ser utilizado con éxito incluso por personas sin experiencia en programación.
 
@@ -74,8 +74,8 @@ El punto de vista que se busca, es que **JavaScript** y los servidores _**backen
 
 ---
 
-**Documentación**: [Manual](http://mavo.io/docs){:target="_blank" rel="nofollow"}
-**Proyecto:** [Blog Oficial del Framework Mavo](http://mavo.io){:target="_blank" rel="nofollow"}
-**Introducción:** [Artículo introductorio, en inglés](https://www.smashingmagazine.com/2017/05/introducing-mavo){:target="_blank" rel="nofollow"}
-**Repositorio:** [Github](https://github.com/mavoweb/mavo/){:target="_blank" rel="nofollow"}
-**Fuente:**  [_Lea Verou Blog_](http://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/){:target="_blank" rel="nofollow"}
+**Documentación**: [Manual](http://mavo.io/docs){:target="_blank" rel="nofollow,noreferrer"}
+**Proyecto:** [Blog Oficial del Framework Mavo](http://mavo.io){:target="_blank" rel="nofollow,noreferrer"}
+**Introducción:** [Artículo introductorio, en inglés](https://www.smashingmagazine.com/2017/05/introducing-mavo){:target="_blank" rel="nofollow,noreferrer"}
+**Repositorio:** [Github](https://github.com/mavoweb/mavo/){:target="_blank" rel="nofollow,noreferrer"}
+**Fuente:**  [_Lea Verou Blog_](http://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/){:target="_blank" rel="nofollow,noreferrer"}

@@ -61,9 +61,9 @@ La Interoperabilidad SIG tiene como objetivo permitir un diálogo en el área de
 
 Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.org/wiki/Apache_License)**.
 
-[👉 Repositorio de Github: Participación 🤞](https://github.com/cdfoundation/sig-interoperability#governance){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[👉 Repositorio de Github: Participación 🤞](https://github.com/cdfoundation/sig-interoperability#governance){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- wiki, integración continua: https://en.wikipedia.org/wiki/Continuous_integration#CI/CD -->
 
 _____
 
-**Fuente**: [Interoperabilidad CD Fundación](https://es.wikipedia.org/wiki/Apache_License){:target="_blank" rel="nofollow"}
+**Fuente**: [Interoperabilidad CD Fundación](https://es.wikipedia.org/wiki/Apache_License){:target="_blank" rel="nofollow,noreferrer"}

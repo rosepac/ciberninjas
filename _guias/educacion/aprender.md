@@ -30,11 +30,11 @@ header:
 
 ¿Quieres aprender algo nuevo? Con el coronavirus extendiéndose por todo el mundo y obligándonos a un estado de autoaislamiento, ahora es un momento tan bueno como cualquier otro. Y no hay escasez de recursos de bajo costo o completamente gratuitos a los que puede acceder desde la comodidad de su sofá: cursos en línea, podcasts, videos y libros electrónicos.
 
+<div><h2><p align="center"><strong><cite>"La autoeducación es, estoy convencido, el único tipo de educación que existe".</cite></strong> <br/>- Isaac Asimov</p></h2></div>
+
 En esta publicación he reunido todos lo necesario para que encuentres la inspiración en este viaje de autoeducación, he reunido todos los mejores recursos que conozco. Además, hice una lista de algunos temas específicos en los que te gustaría participar e incluí algunos consejos sobre las mejores formas de aprender.
 
 **¡Vamos a sumergirnos en el asombroso mundo de la educación digital!**
-
-<div><h2><p align="center"><strong><cite>"La autoeducación es, estoy convencido, el único tipo de educación que existe."</cite></strong> - Isaac Asimov</p></h2></div>
 
 ## **¿Cómo aprender?**
 
@@ -52,14 +52,44 @@ Debemos buscar cada recurso didáctico anterior en su lugar adecuado respecto a 
 
 Si partes desde cero, casi con cualquier recursos te servirá; puesto que la mayoría de contenidos empiezan desde cero hasta niveles medios. Aunque, igualmente deberías de investigar los medios explicativos más pausados, según tu capacidad de aprendizaje. Existen personas capaces de admitir conocimientos más velozmente que otras personas que son más lentas en ese aprendizaje.
 
-Si tu nivel es medio, o avanzado y lo que deseas es profundizar muy a fondo dentro de una temática; has de tener en cuenta de que será muy importante analizar los recursos didácticos antes de iniciar con ellos, además, de qué; es más que probable, que el mejor recurso que vayas a poder enconctrar sea bien la documentación oficial de lo que intentas aprender o bien, un libro técnico avanzado; que posiblemente, esté en ingles y además sea bastante caro.
-
+Si tu nivel es medio, o avanzado y lo que deseas es profundizar muy a fondo dentro de una temática; has de tener en cuenta de que será muy importante analizar los recursos didácticos antes de iniciar con ellos, además, de qué; es más que probable, que el mejor recurso que vayas a poder encontrar sea bien la documentación oficial de lo que intentas aprender o bien, un libro técnico avanzado; que posiblemente, esté en ingles y además sea bastante caro.
 
 ## **¿Dónde podemos aprender?**
 
+Aparte, claro está, de poder aprender todo lo que desees dentro del infinito mundo de los Ciberninjas. En el que podrás encontrar desde formación introductoria, cursos, videotutoriales y traducciones de guías, anuncios de nuevos proyectos e información básica.
 
+A continuación vamos a conocer un sinfin de los mejores y más impresionantes sitios en los que comenzar tu viaje sideral hacía el aprendizaje universal
+ 
+Los enlaces se encuentran seccionados por diferentes tipos de documentos y formación, en: los mejores cursos, los mejores vídeos, los mejores documentales, los mejores podcasts, los mejores libros y los mejores comunidades y grupos de Reddit, StackOverFlow y más.
 
+A continuación, comenzaremos con las mejores páginas en las que poder encontrar los mejores cursos gratuitos del mundo.
 
+## **Las Mejores Páginas Web de Cursos del Mundo**
+
+- [**Coursera**](https://www.coursera.org/){:target="_blank" rel="nofollow,noreferrer"}: Fundada en 2012 por Andrew Ng y Daphne Koller, Coursera tiene más de 47 millones de usuarios y casi 4,000 cursos. No hay costo si solo busca el contenido, pero también puede obtener certificados por un precio asequible, o incluso obtener un [título](https://www.coursera.org/degrees){:target="_blank" rel="nofollow,noreferrer"} bajo un pago específico, que variará según quién imparta el curso.
+
+Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**](https://www.classcentral.com/report/coursera-free-certificate-covid-19/){:target="_blank" rel="nofollow,noreferrer"}**, incluyendo su certificación).**
+- [**edX**](https://www.edx.org/){:target="_blank" rel="nofollow,noreferrer"}**:** creado conjuntamente entre Harvard y el MIT en 2012, edX es bastante similar a Coursera, ofreciendo cursos de universidades de gran prestigio sobre una amplia gama de temas. El acceso a los materiales es gratuito, con opciones de pago para aquellos después de certificados o títulos.
+- [**FutureLearn**](https://www.futurelearn.com/){:target="_blank" rel="nofollow,noreferrer"}**:** otra empresa fundada en 2012 (¡qué año para la educación en línea!), Con una amplia gama de cursos en línea abiertos masivos (MOOC) que se pueden tomar de forma gratuita, y tiene varias opciones pagas y actualizaciones disponibles.
+- [**Khan Academy**](https://www.khanacademy.org/){:target="_blank" rel="nofollow,noreferrer"}**:** creada en 2008 por Salman Khan, Khan Academy está llena de videos cortos sobre matemáticas, ciencias, economía y más. Las clases también están disponibles para niños desde la edad preescolar, y todo es gratis.
+- [**Skillshare**](https://www.skillshare.com/){:target="_blank" rel="nofollow,noreferrer"}**:** enfocado en campos creativos como cine, animación, diseño y música. Hay muchas[ clases gratuitas](https://www.skillshare.com/browse?enrollmentType=free&seeAll=1){:target="_blank" rel="nofollow,noreferrer"}, o puede suscribirse por $ 99 por un año o $ 15 por mes para obtener acceso ilimitado a todos los cursos.
+- [**Kadenze**](https://www.kadenze.com/){:target="_blank" rel="nofollow,noreferrer"}**:** Cursos de tecnología creativa, como producción de video, arte generativo y síntesis de sonido. Puede aprender sin costo, aunque hay una opción premium por $ 20 al mes.
+- [**Hubspot**](https://academy.hubspot.com/){:target="_blank" rel="nofollow,noreferrer"}**:** cursos gratuitos sobre temas relacionados con el marketing y certificados sin costo adicional.
+- [**LinkedIn**](https://www.linkedin.com/learning/){:target="_blank" rel="nofollow,noreferrer"}**:** en 2015, LinkedIn compró el sitio web[ Lynda.com](http://lynda.com/){:target="_blank" rel="nofollow,noreferrer"}y absorbió sus ofertas, que incluyen cursos en todo, desde marketing hasta redacción y desarrollo personal. Hay una prueba gratuita por un mes, luego las suscripciones cuestan entre $ 20 y 30 por mes.
+- [**Clase magistral**](https://www.masterclass.com/){:target="_blank" rel="nofollow,noreferrer"}**:** aprenda de maestros de alto perfil como Neil Gaiman, Steph Curry, Martin Scorsese, Gordon Ramsay, David Lynch y más. Regístrese por $ 15 al mes.
+- [**Great Courses Plus**](https://www.thegreatcoursesplus.com/){:target="_blank" rel="nofollow,noreferrer"}**:** una gran variedad de cursos de profesores reconocidos como Neil deGrasse Tyson y Robert Sapolsky. Los planes son de $ 10-20 por mes.
+- [**World Science U**](http://www.worldscienceu.com/){:target="_blank" rel="nofollow,noreferrer"}**:** Cursos gratuitos de ciencia de algunos de los mejores científicos del mundo, incluidos Carlo Rovelli sobre gravedad cuántica en bucle, Christoff Koch sobre biología de la conciencia y Max Tegmark sobre la historia y los misterios del universo.
+- [**Marginal Revolution University**](https://mru.org/){:target="_blank" rel="nofollow,noreferrer"}**:** centrada en la economía. Tome algunos cursos gratuitos de Tyler Cowen y otros.
+- [**Udacity**](https://www.udacity.com/){:target="_blank" rel="nofollow,noreferrer"}**:** Con un enfoque en ciencias de la computación, puede tomar muchos[ cursos](https://www.udacity.com/courses/all){:target="_blank" rel="nofollow,noreferrer"}de forma gratuita o ir a un "nanogrado" por $ 399. **(Debido a Covid-19, Udacity ofrece** [**un mes de acceso gratuito**](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html){:target="_blank" rel="nofollow,noreferrer"}**a los programas de nanogrado).**
+- [**Iversity**](https://iversity.org/en/courses){:target="_blank" rel="nofollow,noreferrer"}**:** Con sede en Berlín, Iversity ofrece cursos gratuitos, principalmente en inglés o alemán.
+- [**Udemy**](https://www.udemy.com/){:target="_blank" rel="nofollow,noreferrer"}**:** una amplia variedad de cursos que compra individualmente, desde $ 11 hasta $ 200 cada uno.
+- [**Anteproyecto**](https://www.mybluprint.com/){:target="_blank" rel="nofollow,noreferrer"}**:** Centrado en artes y oficios. Los cursos oscilan entre $ 20 y 70.
+- [**MIT Open Courseware**](https://ocw.mit.edu/index.htm){:target="_blank" rel="nofollow,noreferrer"}**:** Aquí encontrará notas de clase, materiales de estudio, lecturas y tareas para una gran selección de cursos en MIT.
+- [**Open University**](https://www.open.edu/openlearn/free-courses/full-catalogue){:target="_blank" rel="nofollow,noreferrer"}**:** cursos gratuitos sobre una variedad de temas, que van desde niveles introductorios hasta avanzados.
+- [**Moz Academy**](https://academy.moz.com/){:target="_blank" rel="nofollow,noreferrer"}**:** si desea optimizar su sitio web o mejorar su clasificación de búsqueda, Moz Academy es un buen lugar para buscar ayuda. El precio de cada curso varía de $ 49 en adelante. **(Debido a Covid-19, Moz Academy es** [**gratis hasta finales de mayo**](https://moz.com/blog/moz-academy-free) **).**
+- [**HighBrow**](https://gohighbrow.com/){:target="_blank" rel="nofollow,noreferrer"}: si desea obtener contenido interesante y educativo en su correo electrónico, HighBrow ofrece varios cursos que llegarán a intervalos regulares.
+- [**iTunes U**](https://apps.apple.com/us/app/itunes-u/id490217893){:target="_blank" rel="nofollow,noreferrer"}: esta aplicación tiene podcasts y cursos de muchas universidades que puedes descargar en tu teléfono inteligente o iPad.
+- [**CreativeLive**](https://www.creativelive.com/){:target="_blank" rel="nofollow,noreferrer"}: Vea las clases en vivo de forma gratuita, o compre clases pasadas con materiales adicionales. Los temas incluyen diseño, música, fotografía, manualidades y más.
 
 <!-- Crear paneles con apertura y efecto libro 3D visto en youtube daod me gusta con la cuenta de rosepac21. -->
 <!-- ENLACES DE INTERES: EN ESTE CASO A STEEMIT -->
@@ -351,44 +381,6 @@ Videotutoriales y artículos; **espero que próximamente**. Mucho más tengo en 
 
 <!-- MEDIUM ENTRADA: https://forge.medium.com/upgrade-your-mind-online-9301e5a911f4 -->
 <!-- PDF: https://drive.google.com/file/d/1Upj9ROp__vbXXtLwFF1X4hQ-oOtP7moK/view -->
-
-## ¿Dónde podemos aprender?
-
-Aparte, claro está, de poder aprender todo lo que desees dentro del infinito mundo de los Ciberninjas. En el que podrás encontrar desde formación introductoria, cursos, videotutoriales y traducciones de guías, anuncios de nuevos proyectos e información básica.
-
-Estos son algunos de los mejores y más impresionantes sitios en los que podrás comenzar tu viaje hacía el aprendizaje universal. Los enlaces se encuentran seccionados por diferentes tipos de documentos y formación, en: los mejores cursos, los mejores vídeos, los mejores documentales, los mejores podcasts, los mejores libros y los mejores comunidades y grupos de Reddit, StackOverFlow y más.
-
-A continuación, comenzaremos con las mejores páginas en las que poder encontrar los mejores cursos gratuitos del mundo.
-
-## **Las Mejores Páginas Web de Cursos del Mundo**
-
-- [**Coursera**](https://www.coursera.org/){:target="_blank" rel="nofollow"}: Fundada en 2012 por Andrew Ng y Daphne Koller, Coursera tiene más de 47 millones de usuarios y casi 4,000 cursos. No hay costo si solo busca el contenido, pero también puede obtener certificados por un precio asequible, o incluso obtener un [título](https://www.coursera.org/degrees){:target="_blank" rel="nofollow"} bajo un pago específico, que variará según quién imparta el curso.
-
-Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**](https://www.classcentral.com/report/coursera-free-certificate-covid-19/){:target="_blank" rel="nofollow"}**, incluyendo su certificación).**
-- [**edX**](https://www.edx.org/){:target="_blank" rel="nofollow"}**:** creado conjuntamente entre Harvard y el MIT en 2012, edX es bastante similar a Coursera, ofreciendo cursos de universidades de gran prestigio sobre una amplia gama de temas. El acceso a los materiales es gratuito, con opciones de pago para aquellos después de certificados o títulos.
-- [**FutureLearn**](https://www.futurelearn.com/){:target="_blank" rel="nofollow"}**:** otra empresa fundada en 2012 (¡qué año para la educación en línea!), Con una amplia gama de cursos en línea abiertos masivos (MOOC) que se pueden tomar de forma gratuita, y tiene varias opciones pagas y actualizaciones disponibles.
-- [**Khan Academy**](https://www.khanacademy.org/){:target="_blank" rel="nofollow"}**:** creada en 2008 por Salman Khan, Khan Academy está llena de videos cortos sobre matemáticas, ciencias, economía y más. Las clases también están disponibles para niños desde la edad preescolar, y todo es gratis.
-- [**Skillshare**](https://www.skillshare.com/){:target="_blank" rel="nofollow"}**:** enfocado en campos creativos como cine, animación, diseño y música. Hay muchas[ clases gratuitas](https://www.skillshare.com/browse?enrollmentType=free&seeAll=1){:target="_blank" rel="nofollow"}, o puede suscribirse por $ 99 por un año o $ 15 por mes para obtener acceso ilimitado a todos los cursos.
-- [**Kadenze**](https://www.kadenze.com/){:target="_blank" rel="nofollow"}**:** Cursos de tecnología creativa, como producción de video, arte generativo y síntesis de sonido. Puede aprender sin costo, aunque hay una opción premium por $ 20 al mes.
-- [**Hubspot**](https://academy.hubspot.com/){:target="_blank" rel="nofollow"}**:** cursos gratuitos sobre temas relacionados con el marketing y certificados sin costo adicional.
-- [**LinkedIn**](https://www.linkedin.com/learning/){:target="_blank" rel="nofollow"}**:** en 2015, LinkedIn compró el sitio web[ Lynda.com](http://lynda.com/){:target="_blank" rel="nofollow"}y absorbió sus ofertas, que incluyen cursos en todo, desde marketing hasta redacción y desarrollo personal. Hay una prueba gratuita por un mes, luego las suscripciones cuestan entre $ 20 y 30 por mes.
-- [**Clase magistral**](https://www.masterclass.com/){:target="_blank" rel="nofollow"}**:** aprenda de maestros de alto perfil como Neil Gaiman, Steph Curry, Martin Scorsese, Gordon Ramsay, David Lynch y más. Regístrese por $ 15 al mes.
-- [**Great Courses Plus**](https://www.thegreatcoursesplus.com/){:target="_blank" rel="nofollow"}**:** una gran variedad de cursos de profesores reconocidos como Neil deGrasse Tyson y Robert Sapolsky. Los planes son de $ 10-20 por mes.
-- [**World Science U**](http://www.worldscienceu.com/){:target="_blank" rel="nofollow"}**:** Cursos gratuitos de ciencia de algunos de los mejores científicos del mundo, incluidos Carlo Rovelli sobre gravedad cuántica en bucle, Christoff Koch sobre biología de la conciencia y Max Tegmark sobre la historia y los misterios del universo.
-- [**Marginal Revolution University**](https://mru.org/){:target="_blank" rel="nofollow"}**:** centrada en la economía. Tome algunos cursos gratuitos de Tyler Cowen y otros.
-- [**Udacity**](https://www.udacity.com/){:target="_blank" rel="nofollow"}**:** Con un enfoque en ciencias de la computación, puede tomar muchos[ cursos](https://www.udacity.com/courses/all){:target="_blank" rel="nofollow"}de forma gratuita o ir a un "nanogrado" por $ 399. **(Debido a Covid-19, Udacity ofrece** [**un mes de acceso gratuito**](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html){:target="_blank" rel="nofollow"}**a los programas de nanogrado).**
-- [**Iversity**](https://iversity.org/en/courses){:target="_blank" rel="nofollow"}**:** Con sede en Berlín, Iversity ofrece cursos gratuitos, principalmente en inglés o alemán.
-- [**Udemy**](https://www.udemy.com/){:target="_blank" rel="nofollow"}**:** una amplia variedad de cursos que compra individualmente, desde $ 11 hasta $ 200 cada uno.
-- [**Anteproyecto**](https://www.mybluprint.com/){:target="_blank" rel="nofollow"}**:** Centrado en artes y oficios. Los cursos oscilan entre $ 20 y 70.
-- [**MIT Open Courseware**](https://ocw.mit.edu/index.htm){:target="_blank" rel="nofollow"}**:** Aquí encontrará notas de clase, materiales de estudio, lecturas y tareas para una gran selección de cursos en MIT.
-- [**Open University**](https://www.open.edu/openlearn/free-courses/full-catalogue){:target="_blank" rel="nofollow"}**:** cursos gratuitos sobre una variedad de temas, que van desde niveles introductorios hasta avanzados.
-- [**Moz Academy**](https://academy.moz.com/){:target="_blank" rel="nofollow"}**:** si desea optimizar su sitio web o mejorar su clasificación de búsqueda, Moz Academy es un buen lugar para buscar ayuda. El precio de cada curso varía de $ 49 en adelante. **(Debido a Covid-19, Moz Academy es** [**gratis hasta finales de mayo**](https://moz.com/blog/moz-academy-free) **).**
-- [**HighBrow**](https://gohighbrow.com/){:target="_blank" rel="nofollow"}: si desea obtener contenido interesante y educativo en su correo electrónico, HighBrow ofrece varios cursos que llegarán a intervalos regulares.
-- [**iTunes U**](https://apps.apple.com/us/app/itunes-u/id490217893){:target="_blank" rel="nofollow"}: esta aplicación tiene podcasts y cursos de muchas universidades que puedes descargar en tu teléfono inteligente o iPad.
-- [**CreativeLive**](https://www.creativelive.com/){:target="_blank" rel="nofollow"}: Vea las clases en vivo de forma gratuita, o compre clases pasadas con materiales adicionales. Los temas incluyen diseño, música, fotografía, manualidades y más.
-
-
- 
  [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--x-large .align-center}
 [🛒 Catálogo de Libros 👨‍💻](/libros/#page-title){: .btn .btn--inverse .btn--x-large .align-center}

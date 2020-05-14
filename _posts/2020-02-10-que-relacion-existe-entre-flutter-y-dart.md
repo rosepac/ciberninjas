@@ -27,7 +27,7 @@ categories:
 
 En comparación con otras tecnologías de desarrollo de aplicaciones móviles, Flutter y Dart son dos de las nuevas palabras clave que están haciendo mucho ruido en la industria. Y con la ayuda de este artículo, le proporcionaremos la introducción básica de estas dos tecnologías emergentes desarrolladas por el propio gigante tecnológico de Google.
 
-**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow"}
+**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
 
 Este es un tema de tendencia a partir de hoy, las compañías de desarrollo de aplicaciones de flutter tienen demanda para diseñar y desarrollar aplicaciones móviles basadas en flutter que ofrezcan una interfaz de usuario (UI) increíble a sus respectivos usuarios.
@@ -66,7 +66,7 @@ Aparte de eso, las clases Dart solo admiten la herencia única, por lo que solo 
 
 Hasta aquí, nuestro primer vistazo a Dart y Flutter en conjunto.. 😉
 
-**Fuente**\: [Techno Bugg](https://www.technobugg.com/how-dart-language-is-related-to-flutter/){:target="_blank" rel="nofollow"}
+**Fuente**\: [Techno Bugg](https://www.technobugg.com/how-dart-language-is-related-to-flutter/){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}

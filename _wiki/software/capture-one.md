@@ -34,11 +34,11 @@ Las características incluyen edición del grano de película, capas de reparaci
 **Licencia**: Propietario
 {: .notice--primary}
 
-**Sitio Web**: [http://www.captureone.com/](http://www.captureone.com/ "Página Web Oficial del Programa Capture One"){:target="_blank" rel="nofollow"}
+**Sitio Web**: [http://www.captureone.com/](http://www.captureone.com/ "Página Web Oficial del Programa Capture One"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
 
 **Categorías**: Software de Fotografía
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Elan - Software](https://en.wikipedia.org/wiki/Capture_One){:target="_blank" rel="nofollow"} de la Wikipedia en inglés, versión del 28 de Septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Capture_One&action=history){:target="_blank" rel="nofollow"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow"}.
+**INF.**: Esta obra contiene una traducción total derivada de [Elan - Software](https://en.wikipedia.org/wiki/Capture_One){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 28 de Septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Capture_One&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.
 {: .notice--info}

@@ -21,7 +21,7 @@ header:
 
 ## Regístrate
 
-* [👉 Ir al Registro](https://kutt.it/registro-steemit){:target="_blank" rel="nofollow"}
+* [👉 Ir al Registro](https://kutt.it/registro-steemit){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Enlaces Referentes a Hive
 
@@ -34,14 +34,14 @@ header:
 ## Visores de Steemit
 
 * [Steemit Beta](https://beta.steemit.com/)
-* [Steemit](https://steemit.com){:target="_blank" rel="nofollow"}
-* [SteemStem](https://www.steemstem.io/){:target="_blank" rel="nofollow"}
-* [Busy](https://busy.org/){:target="_blank" rel="nofollow"}
+* [Steemit](https://steemit.com){:target="_blank" rel="nofollow,noreferrer"}
+* [SteemStem](https://www.steemstem.io/){:target="_blank" rel="nofollow,noreferrer"}
+* [Busy](https://busy.org/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Análisis de Usuarios
 
-* [Steemd](https://steemd.com/){:target="_blank" rel="nofollow"}
-* [Steem Now](https://steemnow.com/){:target="_blank" rel="nofollow"}
+* [Steemd](https://steemd.com/){:target="_blank" rel="nofollow,noreferrer"}
+* [Steem Now](https://steemnow.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Proyectos Más Estables
 
@@ -63,8 +63,8 @@ header:
 * [Calculadora de Steem - Steem Supply](https://steem.supply/)
 * [Revivir Publicaciones Antiguas de Steemit](steemrewarding.com)
 * [Steem Auto](https://steemauto.com/) Automatización de los votos ejecutados y "trails"
-* [Steemyy - Caja de Herramientas](https://steemyy.com/){:target="_blank" rel="nofollow"} [^2] Creado por [@justyy](https://steemit.com/@justyy){:target="_blank" rel="nofollow"}
-* [Steemyy - Herramienta de Delegación de SP](https://steemyy.com/sp-delegate-form/){:target="_blank" rel="nofollow"} [^1] Creado por [@justyy](https://steemit.com/@justyy){:target="_blank" rel="nofollow"}
+* [Steemyy - Caja de Herramientas](https://steemyy.com/){:target="_blank" rel="nofollow,noreferrer"} [^2] Creado por [@justyy](https://steemit.com/@justyy){:target="_blank" rel="nofollow,noreferrer"}
+* [Steemyy - Herramienta de Delegación de SP](https://steemyy.com/sp-delegate-form/){:target="_blank" rel="nofollow,noreferrer"} [^1] Creado por [@justyy](https://steemit.com/@justyy){:target="_blank" rel="nofollow,noreferrer"}
 * [Quasar Framework](https://quasar.dev/)
 * Pendiente de Revisión? (Se desconoce si se encuentra ACTIVO en la Actualidad) [Steem Follower](https://old.steemfollower.com/)
 

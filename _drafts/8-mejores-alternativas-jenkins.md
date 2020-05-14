@@ -21,7 +21,7 @@ Cada una de ellas ofrece algo diferente para que pueda encontrar la soluci&oacut
 
 ## M&aacute;s importantes herramientas de implementaci&oacute;n de software
 
-## [Buddy](https://buddy.works/){:target="_blank" rel="nofollow"}
+## [Buddy](https://buddy.works/){:target="_blank" rel="nofollow,noreferrer"}
 
 ![Logotipo de Budy](https://miro.medium.com/max/673/1*nR9qS7-ABEVejCgFOansyw.jpeg)
 
@@ -37,7 +37,7 @@ Buddy es una herramienta inteligente de CI / CD para desarrolladores web dise&nt
 * Se integra con AWS, Google, DigitalOcean, Azure, Shopify, WordPress y m&aacute;s
 * Admite paralelismo y configuraci&oacute;n YAML
 
-## [Travis CI](https://miro.medium.com/max/600/1*M-Kj85siknLr66JqJ71PRA.png){:target="_blank" rel="nofollow"}
+## [Travis CI](https://miro.medium.com/max/600/1*M-Kj85siknLr66JqJ71PRA.png){:target="_blank" rel="nofollow,noreferrer"}
 
 Travis CI es una herramienta de CI popular que es gratuita para proyectos de c&oacute;digo abierto. Como est&aacute; alojado, no tiene que depender de ninguna plataforma. Esta herramienta CI proporciona soporte para muchas configuraciones de compilaci&oacute;n y lenguajes como Node, PHP, Python, Java, Perl, etc.
 
@@ -50,7 +50,7 @@ Travis CI es una herramienta de CI popular que es gratuita para proyectos de c&o
 * F&aacute;cil instalaci&oacute;n, no requiere instalaci&oacute;n.
 * Potente herramienta de API y l&iacute;nea de comando
 
-## [Team City](https://www.jetbrains.com/teamcity/){:target="_blank" rel="nofollow"}
+## [Team City](https://www.jetbrains.com/teamcity/){:target="_blank" rel="nofollow,noreferrer"}
 
 ![](https://blog.elmah.io/content/images/2019/01/teamcity.png)
 
@@ -67,13 +67,13 @@ Team City es un servidor de integraci&oacute;n continua que admite muchas funcio
 * Informes de progreso de compilaci&oacute;n sobre la marcha
 * Ejecuci&oacute;n remota y confirmaci&oacute;n previamente probada
 
-## [Spinnaker](https://www.spinnaker.io/){:target="_blank" rel="nofollow"}
+## [Spinnaker](https://www.spinnaker.io/){:target="_blank" rel="nofollow,noreferrer"}
 
-## [Tekton](/que-es-tekton/){:target="_blank" rel="nofollow"}
+## [Tekton](/que-es-tekton/){:target="_blank" rel="nofollow,noreferrer"}
 
-## [CodeShip]{:target="_blank" rel="nofollow"}
+## [CodeShip]{:target="_blank" rel="nofollow,noreferrer"}
 
-## [Circle CI](){:target="_blank" rel="nofollow"}
+## [Circle CI](){:target="_blank" rel="nofollow,noreferrer"}
 
 Circle CI es una herramienta de CI flexible que se ejecuta en cualquier entorno como aplicaciones m&oacute;viles multiplataforma, servidor Python API o cl&uacute;ster Docker. Esta herramienta reduce errores y mejora la calidad de la aplicaci&oacute;n.
 
@@ -89,7 +89,7 @@ Circle CI es una herramienta de CI flexible que se ejecuta en cualquier entorno 
 * Cach&eacute; y paralelismo &oacute;ptimos para un rendimiento r&aacute;pido.
 * Integraci&oacute;n con herramientas VCS
 
-## [Strider CD](){:target="_blank" rel="nofollow"}
+## [Strider CD](){:target="_blank" rel="nofollow,noreferrer"}
 
 ![](https://i.ibb.co/c85wr4s/images-q-tbn-ANd9-Gc-Roz-VG59zfzv8ibug-Dz6k-U3xhx5g-Lxn-Kf-PEY9-Swk-A-Rh1-Yun-OXg-s.png)
 

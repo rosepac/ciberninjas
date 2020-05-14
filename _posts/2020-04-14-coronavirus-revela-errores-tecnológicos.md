@@ -67,7 +67,7 @@ El hilo conductor, aquí, **es que la pandemia de coronavirus y el desempleo res
 
 **Prepárense. Habrá más problemas por llegar, ya que tarde o temprano, se notarán las consecuencias de nuestro fracaso a la hora de actualizar nuestros sistemas y seguir dejando pasar el tiempo; mientras pensamos que todo se terminará resolviendo solo.**
 
-**Fuente**\: Redacción de [Steven J. Vaughan-Nichols](https://twitter.com/sjvn){:target="_blank" rel="nofollow"} en [Computer World](https://www.computerworld.com/article/3537558/the-coronavirus-is-revealing-our-technology-blunders.html#tk.rss_all "El coronavirus revela nuestros errores tecnológicos
+**Fuente**\: Redacción de [Steven J. Vaughan-Nichols](https://twitter.com/sjvn){:target="_blank" rel="nofollow,noreferrer"} en [Computer World](https://www.computerworld.com/article/3537558/the-coronavirus-is-revealing-our-technology-blunders.html#tk.rss_all "El coronavirus revela nuestros errores tecnológicos
 ") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
 {: .notice--info}
 

@@ -44,22 +44,22 @@ Storm no es más que una de las docenas de motores de procesamiento de flujo. Pa
 
 ## Enlaces Externos
 
-* [Página Web Oficial del Proyecto](https://kutt.it/apache-storm "Página web oficial del proyecto Apache Storm"){:target="_blank" rel="nofollow"}
+* [Página Web Oficial del Proyecto](https://kutt.it/apache-storm "Página web oficial del proyecto Apache Storm"){:target="_blank" rel="nofollow,noreferrer"}
 
 **Desarrollador**: Backtype, Twitter
 {: .notice--primary}
 
-**Licencia**: [Apache 2.0](https://es.wikipedia.org/wiki/Apache_License "Licencia de Apache 2.0"){:target="_blank" rel="nofollow"}
+**Licencia**: [Apache 2.0](https://es.wikipedia.org/wiki/Apache_License "Licencia de Apache 2.0"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
 
 **Escrito en**: Clojure y Java
 {: .notice--primary}
 
-**Sitio Web**: [https://storm.apache.org](https://storm.apache.org "Página web oficial del proyecto Apache Storm"){:target="_blank" rel="nofollow"}
+**Sitio Web**: [https://storm.apache.org](https://storm.apache.org "Página web oficial del proyecto Apache Storm"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
 
 **Categorías**: Aplicaciones Nube \ Computación Paralela \ Infraestructuras Nube
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Storm - Procesador de Eventos](https://en.wikipedia.org/wiki/Storm_(event_processor)){:target="_blank" rel="nofollow"} de la Wikipedia en inglés, versión del 12 de Septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Storm_(event_processor)&action=history){:target="_blank" rel="nofollow"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow"}.
+**INF.**: Esta obra contiene una traducción total derivada de [Storm - Procesador de Eventos](https://en.wikipedia.org/wiki/Storm_(event_processor)){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 12 de Septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Storm_(event_processor)&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.
 {: .notice--info}

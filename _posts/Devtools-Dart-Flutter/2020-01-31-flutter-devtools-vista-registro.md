@@ -39,7 +39,7 @@ Por defecto, la vista de registro muestra:
 
 ## Iniciar sesión desde su aplicación
 
-Para implementar el inicio de sesión en su código, consulte la sección [Registro](https://flutter.dev/docs/testing/code-debugging#logging){:target="_blank" rel="nofollow"} en la página de [programación de aplicaciones Depuración de Flutter](https://flutter.dev/docs/testing/code-debugging){:target="_blank" rel="nofollow"}.
+Para implementar el inicio de sesión en su código, consulte la sección [Registro](https://flutter.dev/docs/testing/code-debugging#logging){:target="_blank" rel="nofollow,noreferrer"} en la página de [programación de aplicaciones Depuración de Flutter](https://flutter.dev/docs/testing/code-debugging){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## Borrar registros
 
@@ -53,5 +53,5 @@ Para borrar las entradas de registro en la vista de registro, haga clic en el bo
 
 [🎓 Cursos en Español](/cursos-tecnologia/#flutter){: .btn .btn--warning .btn--large} [👉 Ejemplos de Aplicaciones](/flutter-aplicaciones-ejemplos/){: .btn .btn--inverse .btn--large} [⚓ Documentación en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large}
 
-**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow"}
+**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow,noreferrer"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

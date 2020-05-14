@@ -71,13 +71,13 @@ Estas son las 7 mejores distribuciones de escritorio de Linux de código abierto
 </nav>
 </details>
 
-🔥 Seguro también te interesa: [mejores sistemas para hacking](/7-mejores-distribuciones-escritorio-para-principiantes/){:target="_blank" rel="nofollow"} >> [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank" rel="nofollow"} >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/7-mejores-distribuciones-escritorio-para-principiantes/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+🔥 Seguro también te interesa: [mejores sistemas para hacking](/7-mejores-distribuciones-escritorio-para-principiantes/){:target="_blank" rel="nofollow,noreferrer"} >> [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank" rel="nofollow,noreferrer"} >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/7-mejores-distribuciones-escritorio-para-principiantes/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
 ## **1. Elementary OS**
 
 ![Escritorio principal de Elementary OS el Linux más similar a iOS de Mac y minimalista que existe en la actualidad](/assets/images/blog/elementary-5.webp "Escritorio principal de Elementary OS el Linux más similar a iOS de Mac y minimalista que existe en la actualidad")
-> **Fuente**: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/a/a0/Elementary_OS_Loki_0.4.png){:target="_blank" rel="nofollow"}
+> **Fuente**: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/a/a0/Elementary_OS_Loki_0.4.png){:target="_blank" rel="nofollow,noreferrer"}
 
 **Elementary OS, es una distribución liviana de Linux** que se encuentra en lo más alto de la lista de entre las distribuciones más recomendadas. ¿Por qué? Básicamente, por dos razones.
 
@@ -88,13 +88,13 @@ La segunda razón, **es la tienda de aplicaciones, práctica y sencilla que impl
 Junto con la simplicidad de la tienda de aplicaciones, es encomiable lo que el equipo de Elementary está haciendo. El sistema operativo elemental se basa en Ubuntu (que se basa en Debian) por lo que esta distribución de Linux también goza de una estabilidad notable, comparte repositorios de software similares, es increíblemente fácil de instalar, tiene el mismo nivel de reconocimiento de hardware y funciona muy bien en ordenadores de sobremesa y portátiles.
 
 [⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
-[⏩ Probar Elementary OS](https://kutt.it/linux-elementary-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Probar Elementary OS](https://kutt.it/linux-elementary-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- contenido -->
 
 ## **2. Mint**
 
 ![Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad](/assets/images/blog/mint-cinamon.webp "Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad")
-> **Fuente**: [Linux Mint Blog](https://www.linuxmint.com/){:target="_blank" rel="nofollow"}
+> **Fuente**: [Linux Mint Blog](https://www.linuxmint.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 Durante años **Linux Mint** ha sido la distribución número uno entre los usuarios de Distrowatch. Un lugar bien merecido, puesto que sin lugar a dudas: **Linux Mint es la versión de Linux más parecida a Windows que existe** (Windows 7). Lo que favorece de forma brutal, el aprendizaje de su manejo.
 
@@ -109,13 +109,13 @@ Además, **Mint es una distribución muy elegante y totalmente preparada para ut
 Esto son el nombre de tres interfaces de escritorio diferentes entre las que vas a encontrar cambios y pequeñas modificaciones entre sus iconos, los colores, el tamaño de sus elementos, etc.
 
 [⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
-[⏩ Probar Mint](https://www.linuxmint.com/download.php){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Probar Mint](https://www.linuxmint.com/download.php){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- contenido -->
 
 ## **3. Ubuntu**
 
 ![Escritorio principal de Ubuntu OS que es el Linux más recomendado y difundido entre los linuxeros, como sistema operativo para los principiantes](/assets/images/blog/ubuntu-19.webp "Escritorio principal de Ubuntu OS que es el Linux más recomendado y difundido entre los linuxeros, como sistema operativo para los principiantes")
-> **Fuente**: [Rucore](https://rucore.net/luchshij-linux-distributiv-v-2020-godu/){:target="_blank" rel="nofollow"}
+> **Fuente**: [Rucore](https://rucore.net/luchshij-linux-distributiv-v-2020-godu/){:target="_blank" rel="nofollow,noreferrer"}
 
 **Ubuntu**, ha reinado a lo largo de los últimos años, como la distribución de escritorio más recomendada hacía los principiantes y usuarios de ofimática sobre Linux y hay varias razones por las cuales ha sido así.
 
@@ -128,7 +128,7 @@ Con **Ubuntu Linux necesitas muy pocos ajustes para que el sistema operativo hag
 Ubuntu, es sin duda, la primera gran distribución de Unix en haber demostrado que puede ser utilizada Linux sin la necesidad del terminal, solamente por eso; se merece estar presente entre los puestos más altos de esta lista.
 
 [⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
-[⏩ Probar Ubuntu](https://kutt.it/linux-ubuntu-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Probar Ubuntu](https://kutt.it/linux-ubuntu-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- contenido -->
 <!-- https://www.techrepublic.com/article/best-linux-desktop-distributions/ -->
 
@@ -149,7 +149,7 @@ https://xubuntu.org/
 ## **4. Manjaro**
 
 ![Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo](/assets/images/blog/manjaro.webp "Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo")
-> **Fuente**: [Forum de Manjaro](https://forum.manjaro.org/t/manjaro-kde-19-0-pre4-stable-branch/121868){:target="_blank" rel="nofollow"}
+> **Fuente**: [Forum de Manjaro](https://forum.manjaro.org/t/manjaro-kde-19-0-pre4-stable-branch/121868){:target="_blank" rel="nofollow,noreferrer"}
 
 **Manjaro es una de las pocas distribuciones basadas en Arch para principiantes**. En circunstancias normales, no usarías una versión de Linux de escritorio basada en Arch para citar a las mejores versiones de Linux. ¿Por qué?
 
@@ -160,20 +160,20 @@ Manjaro ofrece varios escritorios diferentes, al igual que Mint. En este caso, s
 Si estás buscando introducirte en el uso de Arch Linux, no busque más. Manjaro, es la distribución que necesitas.
 
 [⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
-[⏩ Probar Manjaro](https://kutt.it/linux-manjaro-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Probar Manjaro](https://kutt.it/linux-manjaro-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **5. Zorin**
 
 ![Escritorio principal de Zorin OS](/assets/images/blog/zorin-os.webp "Escritorio principal de Zorin OS")
 
-**Fuente**: [WikiMedia](https://es.wikipedia.org/wiki/Zorin_OS#/media/Archivo:Zorin_OS_15.png){:target="_blank" rel="nofollow"}
+**Fuente**: [WikiMedia](https://es.wikipedia.org/wiki/Zorin_OS#/media/Archivo:Zorin_OS_15.png){:target="_blank" rel="nofollow,noreferrer"}
 
 **Zorin OS es una distribución de Linux altamente pulida basada en Ubuntu**, hecha completamente para refugiados de Windows. Aunque casi todas las distribuciones de Linux son utilizables por todos, algunas personas tienden a mostrarse reacias cuando el escritorio parece demasiado extraño. El sistema operativo Zorin esquiva este obstáculo debido a sus similitudes con Windows.
 
 Los gestores de paquetes son algo nuevo para los recién llegados de Linux. Es por eso que **Zorin OS viene con una lista enorme**, **realmente enorme de software preinstalado**. Cualquier cosa que necesite, es muy probable que ya esté instalada en el sistema operativo.
 
 [⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
-[⏩ Probar Zorin](https://zorinos.com/download/#core){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Probar Zorin](https://zorinos.com/download/#core){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **6. Deepin**
 
@@ -193,14 +193,14 @@ La gran noticia, es que, **la suite de ofimática WPS incluida en Deepin OS** es
 Por último, **Deepin extiende su elegancia al panel de control en forma de una barra lateral** que hace que sea increíblemente simple configurar cada aspecto del escritorio. Si buscas una interfaz de escritorio atractiva, seguramente **Deepin ofrece uno de los escritorios más atractivos de todos los sitemas operativos que existen** y encima, es funcional.
 
 [⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
-[⏩ Probar Deepin](https://kutt.it/linux-deepin-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⭐ Deepin, en Español](https://xn--deepinenespaol-1nb.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Probar Deepin](https://kutt.it/linux-deepin-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⭐ Deepin, en Español](https://xn--deepinenespaol-1nb.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- contenido -->
 
 ## **7. POP_OS!**
 
 ![Escritorio principal de POP OS](/assets/images/blog/pop-os.webp "Escritorio principal de POP OS")
-> **Fuente**: [Xtreme Rigs](https://www.xtremerigs.net/){:target="_blank" rel="nofollow"}
+> **Fuente**: [Xtreme Rigs](https://www.xtremerigs.net/){:target="_blank" rel="nofollow,noreferrer"}
 
 **Pop!_OS es la distribución interna de la empresa System76**. Está basado en Ubuntu, lo que esta ofrece una estabilidad de por sí.
 
@@ -213,7 +213,7 @@ También, POP!_OS ofrece una muy interesante opción a la hora de la instalació
 Finalmente, System76 ha agregado una forma simple de actualizar el firmware, algo que muy pocas distribuciones poseen.
 
 [⏫ Regresar al Menú](/7-mejores-distribuciones-escritorio-para-principiantes/#menu){: .btn .btn--inverse .btn--large .align-center}
-[⏩ Probar Pop OS!](https://kutt.it/linux-pop-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Probar Pop OS!](https://kutt.it/linux-pop-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- contenido -->
 
 ### Relacionados

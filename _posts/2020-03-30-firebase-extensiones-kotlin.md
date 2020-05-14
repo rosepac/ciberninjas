@@ -35,9 +35,9 @@ Sabemos que Kotlin es el futuro de Android y que los desarrolladores de Kotlin q
 
 ¿Qué cambios nuevos presentamos hoy?
 
-- Documentos de [referencia](https://firebase.google.com/docs/reference/kotlin/packages){:target="_blank" rel="nofollow"} completa para todas nuestras bibliotecas KTX.
-- Los fragmentos de Kotlin en nuestra [documentación](https://firebase.google.com/docs/guides){:target="_blank" rel="nofollow"} ahora usarán la sintaxis de KTX.
-- El código de Kotlin en nuestras [muestras](https://github.com/firebase/quickstart-android){:target="_blank" rel="nofollow"} ahora usará la sintaxis de KTX.
+- Documentos de [referencia](https://firebase.google.com/docs/reference/kotlin/packages){:target="_blank" rel="nofollow,noreferrer"} completa para todas nuestras bibliotecas KTX.
+- Los fragmentos de Kotlin en nuestra [documentación](https://firebase.google.com/docs/guides){:target="_blank" rel="nofollow,noreferrer"} ahora usarán la sintaxis de KTX.
+- El código de Kotlin en nuestras [muestras](https://github.com/firebase/quickstart-android){:target="_blank" rel="nofollow,noreferrer"} ahora usará la sintaxis de KTX.
 
 Para comenzar con nuestras bibliotecas KTX, busque el `-ktx` sufijo en la sección "Kotlin + KTX" de nuestras [bibliotecas de Android disponibles](https://firebase.google.com/support/release-notes/android). Como ejemplo, veamos cómo se ve configurar Remote Config con y sin la biblioteca KTX.
 
@@ -88,7 +88,7 @@ No hubiéramos podido lanzar estas bibliotecas KTX sin la ayuda de todos los ent
 
 ## Licencia
 
-**Fuente**\: [Se abren las extensiones de Firebase enfocadas a Kotlin](https://firebase.googleblog.com/2020/03/firebase-kotlin-ga.html "Se abren las extensiones de Firebase enfocadas a Kotlin"){:target="_blank" rel="nofollow"}
+**Fuente**\: [Se abren las extensiones de Firebase enfocadas a Kotlin](https://firebase.googleblog.com/2020/03/firebase-kotlin-ga.html "Se abren las extensiones de Firebase enfocadas a Kotlin"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
 ## Relacionados
@@ -99,4 +99,4 @@ No hubiéramos podido lanzar estas bibliotecas KTX sin la ayuda de todos los ent
 
 [▷ Wallpapers de Flutter](/wallpaper-flutter/)
 
-[▷ Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow"}
+[▷ Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow,noreferrer"}

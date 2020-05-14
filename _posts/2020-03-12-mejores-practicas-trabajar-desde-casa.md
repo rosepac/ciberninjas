@@ -63,7 +63,7 @@ Se capaz de marcar horarios de visitas o para los encuentros con tus amigos; y n
 
 Si pudiésemos.. 😿 Buscar fórmulas de separar el espacio de trabajo del espacio personal. Sí, aunque como en estos tiempos que corren - no se puede ir a lugares externos, como cafeterías - si tienes la suerte de poseer una casa amplia; intenta cambiar de espacio; puedes probar a cambiar de habitaciones de vez en cuando.. O al menos intentar transformar tu habitación, para sentirte en un ambiente diferente.
 
-Siempre puedes buscar una opción, como la de hacer el [gym en casa](https://gymvirtual.com/){:target="_blank" rel="nofollow"} con ayuda de Patri Jordan 😹
+Siempre puedes buscar una opción, como la de hacer el [gym en casa](https://gymvirtual.com/){:target="_blank" rel="nofollow,noreferrer"} con ayuda de Patri Jordan 😹
 
 ## **6. Crea un semáforo para la familia**
 

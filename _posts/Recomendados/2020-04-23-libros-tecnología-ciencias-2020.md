@@ -45,7 +45,7 @@ INTRODUCCION
 </nav>
 </details>
 
-## [](){:target="_blank" rel="nofollow"}
+## [](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -61,7 +61,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [](){:target="_blank" rel="nofollow"}
+## [](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -77,7 +77,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [](){:target="_blank" rel="nofollow"}
+## [](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -93,7 +93,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [](){:target="_blank" rel="nofollow"}
+## [](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 

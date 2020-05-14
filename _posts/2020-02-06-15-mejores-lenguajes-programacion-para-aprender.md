@@ -79,7 +79,7 @@ Ante todo esto, los principiantes suelen estar desconcertados con la pregunta de
 * La capa de acceso a la base de datos es algo inmadura.
 * El enhebrado no es bueno debido a GIL (Global Interpreter Lock).
 
-[⏩ Página Web de Python](https://www.python.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [🎓 Aprender Python](/python/){: .btn .btn--inverse .btn--large .align-center}  [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Python](https://www.python.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [🎓 Aprender Python](/python/){: .btn .btn--inverse .btn--large .align-center}  [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ### ***Libros para Aprender Python**
 
@@ -112,7 +112,7 @@ Java es otra opción popular entre las grandes organizaciones y lo ha sido duran
 * Gestión costosa de la memoria.
 * Más lento que los lenguajes de programación compilados de forma nativa, como C y C ++.
 
-[⏩ Página Web de Java](https://docs.oracle.com/javase/tutorial/java/index.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Java](https://docs.oracle.com/javase/tutorial/java/index.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ### ***Libros para Aprender Java**
 
@@ -156,7 +156,7 @@ C y C++ son como el pan y la mantequilla de la programación. Casi todos los sis
 * Plagado por los problemas de desbordamiento de búfer y corrupción de memoria C / C++.
 * Biblioteca estándar más pequeña C.
 
-[⏩ Página Web de C++](https://isocpp.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de C++](https://isocpp.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## Javascript
 
@@ -194,7 +194,7 @@ En estos días, muchas organizaciones, particularmente las nuevas empresas, est�
 No existe una web oficial de Javascript, por ende adjuntaremos la web de ECMAScript que es un estándar web que se supone crean y deben respetar todos los navegadores; y además, enlazaremos a las páginas oficiales de los motoroes de renderizado usados por los buscadores o empresas más potentes.
 {: .notice--info}
 
-[⏩ Estándar de Javascript: ECMAScript](https://www.ecma-international.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Estándar de Javascript: ECMAScript](https://www.ecma-international.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ### ***Libros para Aprender Javascript**
 
@@ -208,10 +208,10 @@ Otros, son SpiderMonkey el motor utilizado por Mozilla Firefox (Rhino, es un nue
 
 Existen [muchos más](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines), la mayoría enfocados a aspectos más concretos y desarrollados por la propia empresa que los requiere. Algunos otros han quedado en el olvido, como por ejemplo Carakan. Un motor creado en su día, por la empresa del navegador web: Opera.
 
-[⏩ Web de V8: Motor Javascript de Chromium](https://v8.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Web de SpiderMonkey: Motor Javascript de Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Web de JavascriptCore: Motor Javascript de Apple](https://developer.apple.com/documentation/javascriptcore){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Web de Hermes: Motor Javascript de Facebook](https://hermesengine.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⏩ Web de V8: Motor Javascript de Chromium](https://v8.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Web de SpiderMonkey: Motor Javascript de Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Web de JavascriptCore: Motor Javascript de Apple](https://developer.apple.com/documentation/javascriptcore){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Web de Hermes: Motor Javascript de Facebook](https://hermesengine.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Go
 
@@ -240,7 +240,7 @@ Carece de versatilidad.
 No hay biblioteca GUI
 Soporte de biblioteca desfavorecida
 
-[⏩ Página Web de Go](https://golang.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Go](https://golang.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## R
 
@@ -267,7 +267,7 @@ No hay pautas estrictas de programación
 Mala gestión de la memoria
 La calidad de algunos paquetes es deficiente
 
-[⏩ Página Web de R](https://www.r-project.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de R](https://www.r-project.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## Swift
 
@@ -297,7 +297,7 @@ Apoyo y recursos comunitarios limitados
 Algo inestable debido a una llegada relativamente nueva a la escena de la programación.
 No hay soporte para proyectos heredados; solo se puede usar para iOS7 o aplicaciones posteriores
 
-[⏩ Página Web de Swift](https://developer.apple.com/swift/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Swift](https://developer.apple.com/swift/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## PHP
 
@@ -325,7 +325,7 @@ Falta de seguridad.
 Mal manejo de errores
 Requiere extensiones en mayor medida
 
-[⏩ Página Web de PHP](https://www.php.net/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de PHP](https://www.php.net/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## C#
 
@@ -357,7 +357,7 @@ Ofrece menos flexibilidad que C ++
 Requiere un esfuerzo decente y tiempo para aprender
 Resolver errores requiere una gran experiencia y conocimiento.
 
-[⏩ Página Web de C#](https://docs.microsoft.com/es-es/dotnet/csharp/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de C#](https://docs.microsoft.com/es-es/dotnet/csharp/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## Matlab
 
@@ -379,7 +379,7 @@ Plataforma independiente
 
 ### **Contras de Matlab**
 
-[⏩ Página Web de Matlab](https://es.mathworks.com/help/matlab/language-fundamentals.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Matlab](https://es.mathworks.com/help/matlab/language-fundamentals.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 * No es de uso gratuito, requiere la compra de una licencia.
 * No hay mucha aplicación más allá del alcance de la computación numérica.
@@ -413,7 +413,7 @@ Dart es un lenguaje de herencia única orientado a objetos, fuertemente tipado, 
 * Actualmente no genera JavaScript expandible.
 * Una pequeña comunidad, poco impulso.
 
-[⏩ Página Web de Dart](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Dart](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## Ruby
 
@@ -438,7 +438,7 @@ Ruby es un lenguaje de programación orientado a objetos simple pero poderoso (t
 * En comparación con otros idiomas, Ruby tiene muy pocos recursos informativos para aprender el idioma.
 * Es más lento que otros idiomas, ya que es un lenguaje de script interpretado y los lenguajes de script son más lentos que los lenguajes compilados.
 
-[⏩ Página Web de Ruby](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Ruby](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## Haskell
 
@@ -465,7 +465,7 @@ Lo primero que debe saber sobre Haskell es que es un lenguaje funcional. Las fun
 * Alto tiempo de aprendizaje.
 * Carece de implementación generalizada.
 
-[⏩ Página Web de Haskell](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Haskell](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## Rust
 
@@ -495,7 +495,7 @@ Rust proporciona una seguridad de memoria garantizada y tiene un control complet
 * Una curva de aprendizaje elevada.
 * Es lento de compilar.
 
-[⏩ Página Web de Rust](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Rust](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
 ## OCaml
 
@@ -518,7 +518,7 @@ OCaml es esencialmente un lenguaje de programación funcional. Sin ofender a FP,
 * Menos bibliotecas en comparación con otros idiomas.
 * Un sistema de tipos que no es intuitivo.
 
-[⏩ Página Web de Ocaml](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+[⏩ Página Web de Ocaml](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 <!-- Agregar lua -->
 ### Resumiendo
 

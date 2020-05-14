@@ -28,7 +28,7 @@ header:
 
 ![Preguntas y respuestas sobre el covid 19 / coronavirus que Bill Gates a tenido el placer de responder a través de Reddit](/assets/images/blog/bill-gates-covid-19-2.webp "Preguntas y respuestas sobre el covid 19 / coronavirus que Bill Gates a tenido el placer de responder a través de Reddit")
 
-Ayer hice una sesión de Reddit [Ask Me Anything](https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/?sort=qa){:target="_blank" rel="nofollow"} en relación al COVID-19. Como de costumbre, los Redditors hicieron muchas preguntas inteligentes y fue una gran oportunidad para tener una discusión basada en hechos sobre esta pandemia y lo que podemos hacer para prevenir la próxima (Y como mencioné en [este intercambio](https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/fkumtd7?utm_source=share&utm_medium=web2x){:target="_blank" rel="nofollow"}, es bueno tener tantas interacciones positivas en un momento tan incierto).
+Ayer hice una sesión de Reddit [Ask Me Anything](https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/?sort=qa){:target="_blank" rel="nofollow,noreferrer"} en relación al COVID-19. Como de costumbre, los Redditors hicieron muchas preguntas inteligentes y fue una gran oportunidad para tener una discusión basada en hechos sobre esta pandemia y lo que podemos hacer para prevenir la próxima (Y como mencioné en [este intercambio](https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/fkumtd7?utm_source=share&utm_medium=web2x){:target="_blank" rel="nofollow,noreferrer"}, es bueno tener tantas interacciones positivas en un momento tan incierto).
 
 *A continuación se muestra una transcripción de todas las preguntas a las que pude responder (ligeramente editado por su larga extensión) junto a mis respuestas. Compartiré más sobre el COVID-19 aquí, en las Gates Notes y en mis canales sociales. Mientras tanto, ¡Manténgase saludable y siga lavándose las manos!*
 
@@ -50,7 +50,7 @@ Las primeras vacunas que recibamos irán a los trabajadores de la sanidad y trab
 
 **Me da la sensación de preguntar casi lo mismo, con respecto al plazo de tiempo de la existencia de una vacuna. Pero, ¿Cuándo se podría encontrar un medicamento que fuese eficaz contra el Covid 19?.**
 
-Un producto terapéutico podría estar disponible mucho antes que una vacuna. Esto debería de reducir la cantidad de personas que necesitan cuidados intensivos, incluidos los respiradores. La Fundación ha organizado un [acelerador terapéutico](https://www.gatesfoundation.org/TheOptimist/Articles/coronavirus-mark-suzman-therapeutics){:target="_blank" rel="nofollow"} para analizar todas las ideas más prometedoras y poner en marcha toda la capacidad que la industria pueda ofrecer. Así que espero que nazca algo bueno de ello. Podría ser un antiviral o anticuerpos u otra cosa.
+Un producto terapéutico podría estar disponible mucho antes que una vacuna. Esto debería de reducir la cantidad de personas que necesitan cuidados intensivos, incluidos los respiradores. La Fundación ha organizado un [acelerador terapéutico](https://www.gatesfoundation.org/TheOptimist/Articles/coronavirus-mark-suzman-therapeutics){:target="_blank" rel="nofollow,noreferrer"} para analizar todas las ideas más prometedoras y poner en marcha toda la capacidad que la industria pueda ofrecer. Así que espero que nazca algo bueno de ello. Podría ser un antiviral o anticuerpos u otra cosa.
 
 Una idea que se está explorando es usar la sangre (plasma) de las personas que se recuperan. Esto puede tener anticuerpos para proteger a las personas. Si funciona, sería la forma más rápida de proteger a los trabajadores de la sanidad y a los pacientes con enfermedades graves.
 
@@ -58,7 +58,7 @@ Una idea que se está explorando es usar la sangre (plasma) de las personas que 
 
 Es un gran problema que las escuelas cierren durante los próximos meses. Estoy impresionado por los enfoques creativos que muchos maestros están desarrollando para enseñar de forma remota (Si usted es un maestro que lee esto, gracias por el trabajo que está haciendo). Pero sé que no todos están preparados para enseñar de forma remota.
 
-Existen muchos buenos recursos en línea, como [Khan Academy](https://www.khanacademy.org/){:target="_blank" rel="nofollow"}, [CommonLit](https://www.commonlit.org/){:target="_blank" rel="nofollow"}, [Illustrative Mathematics](https://www.illustrativemathematics.org/){:target="_blank" rel="nofollow"}, [Zearn](https://www.zearn.org/){:target="_blank" rel="nofollow"} y [Scholastic.](https://classroommagazines.scholastic.com/support/learnathome.html){:target="_blank" rel="nofollow"}.
+Existen muchos buenos recursos en línea, como [Khan Academy](https://www.khanacademy.org/){:target="_blank" rel="nofollow,noreferrer"}, [CommonLit](https://www.commonlit.org/){:target="_blank" rel="nofollow,noreferrer"}, [Illustrative Mathematics](https://www.illustrativemathematics.org/){:target="_blank" rel="nofollow,noreferrer"}, [Zearn](https://www.zearn.org/){:target="_blank" rel="nofollow,noreferrer"} y [Scholastic.](https://classroommagazines.scholastic.com/support/learnathome.html){:target="_blank" rel="nofollow,noreferrer"}.
 
 Comcast y otros proveedores de conectividad a Internet están haciendo programas especiales para ayudar con el acceso a Internet. Microsoft y otras compañías están trabajando para producir ordenadores, pero la cadena de suministro está bastante limitada. Desafortunadamente, los estudiantes de familias con bajos ingresos se verán más afectados por la situación que otros, por lo que necesitamos intentar ayudarles de la mejor forma que podamos.
 
@@ -68,7 +68,7 @@ Después del 23 de enero, cuando se dieron cuenta de lo grave que era, hicieron 
 
 **En tu opinión, después de que esta pandemia finalice, ¿Cuál debería ser el primer paso que la Comunidad Global debería tomar para estar mejor preparados para la próxima pandemia?**
 
-La [charla TED](https://www.gatesnotes.com/Health/We-Are-Not-Ready-for-the-Next-Epidemic){:target="_blank" rel="nofollow"} que hice en 2015 habló sobre ello. Necesitamos tener la capacidad de escalar diagnósticos, medicamentos y vacunas muy rápidamente. Las tecnologías existen para hacerlo bien si se realizan las inversiones adecuadas. Los países pueden trabajar juntos en ello. Creamos el CEPI = [Coalition for Epidemic Preparedness Innovation](https://cepi.net/){:target="_blank" rel="nofollow"} que trabajó durante un tiempo en vacunas pero se necesita financiación muchísimo más alta para tener la capacidad de fabricación que pueda satisfacer a todo el mundo.
+La [charla TED](https://www.gatesnotes.com/Health/We-Are-Not-Ready-for-the-Next-Epidemic){:target="_blank" rel="nofollow,noreferrer"} que hice en 2015 habló sobre ello. Necesitamos tener la capacidad de escalar diagnósticos, medicamentos y vacunas muy rápidamente. Las tecnologías existen para hacerlo bien si se realizan las inversiones adecuadas. Los países pueden trabajar juntos en ello. Creamos el CEPI = [Coalition for Epidemic Preparedness Innovation](https://cepi.net/){:target="_blank" rel="nofollow,noreferrer"} que trabajó durante un tiempo en vacunas pero se necesita financiación muchísimo más alta para tener la capacidad de fabricación que pueda satisfacer a todo el mundo.
 
 **¿Por qué crees que la mayoría de los gobiernos mundiales no estaban preparados si tú y otros expertos advirtieron con anterioridad sobre eventos como este?**
 
@@ -80,7 +80,7 @@ La realización de tests en los Estados Unidos aún no están organizadas. En la
 
 Siempre que haya una prueba positiva, debería de poder verse para comprender dónde está la enfermedad y si necesitamos fortalecer el distanciamiento social. Corea del Sur hizo un gran trabajo al respecto, incluyendo el seguimiento de los contagios a través de aplicaciones digitales.
 
-**Leí el** **informe del** [**Equipo de Respuesta COVID-19**](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf){:target="_blank" rel="nofollow"} **del** [**Imperial College**](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf){:target="_blank" rel="nofollow"}**, así como** [esta explicación dentro de un contexto histórico.](https://twitter.com/jeremycyoung/status/1239975682643357696){:target="_blank" rel="nofollow"}**.
+**Leí el** **informe del** [**Equipo de Respuesta COVID-19**](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf){:target="_blank" rel="nofollow,noreferrer"} **del** [**Imperial College**](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf){:target="_blank" rel="nofollow,noreferrer"}**, así como** [esta explicación dentro de un contexto histórico.](https://twitter.com/jeremycyoung/status/1239975682643357696){:target="_blank" rel="nofollow,noreferrer"}**.
 
 Esencialmente, dice que al no hacer nada, hasta 4 millones de estadounidenses podrían llegar a morir. A través de la estrategia de mitigación, es decir, el distanciamiento social y el "aplanamiento de la curva", se dice que entre 1.1 y 2 millones de estadounidenses morirán. Sin embargo, también dice que la **estrategia de supresión** o "**cierre de todo**" durante 18 meses conduciría a sólo unos pocos de miles de personas muertas.**
 
@@ -100,11 +100,11 @@ El único modelo que se sabe que funciona es un serio esfuerzo en el distanciami
 
 **¿Pensamientos sobre cloroquina / hidroxicloroquina?**
 
-Se están examinando muchos medicamentos terapéuticos. Este es uno de muchos pero no está probado. Si funciona, tendremos que asegurarnos de que los suministros finitos se guarden para los pacientes que más lo necesitan. Tenemos un estudio para resolver esto. También tenemos un [esfuerzo de](https://www.gatesfoundation.org/TheOptimist/Articles/coronavirus-mark-suzman-therapeutics){:target="_blank" rel="nofollow"} detección [para analizar todas las ideas terapéuticas](https://www.gatesfoundation.org/TheOptimist/Articles/coronavirus-mark-suzman-therapeutics){:target="_blank" rel="nofollow"} porque el número de medicamentos que se propone es muy grande y solo los más prometedores deben probarse en pacientes. China estaba probando algunas cosas, pero ahora tienen tan pocos casos que esas pruebas deben trasladarse a otros lugares.
+Se están examinando muchos medicamentos terapéuticos. Este es uno de muchos pero no está probado. Si funciona, tendremos que asegurarnos de que los suministros finitos se guarden para los pacientes que más lo necesitan. Tenemos un estudio para resolver esto. También tenemos un [esfuerzo de](https://www.gatesfoundation.org/TheOptimist/Articles/coronavirus-mark-suzman-therapeutics){:target="_blank" rel="nofollow,noreferrer"} detección [para analizar todas las ideas terapéuticas](https://www.gatesfoundation.org/TheOptimist/Articles/coronavirus-mark-suzman-therapeutics){:target="_blank" rel="nofollow,noreferrer"} porque el número de medicamentos que se propone es muy grande y solo los más prometedores deben probarse en pacientes. China estaba probando algunas cosas, pero ahora tienen tan pocos casos que esas pruebas deben trasladarse a otros lugares.
 
 **¿Cómo está ayudando su fundación a la pandemia actual? ¿Está donando dinero o produciendo productos para trabajadores de la sanidad?**
 
-Nuestra fundación está trabajando con todos los grupos que realizan diagnósticos, terapias y vacunas para garantizar que se prioricen los esfuerzos correctos. Queremos asegurarnos de que todos los países tengan acceso a estas herramientas. Donamos [100 millones de dólares en Febrero](https://www.gatesfoundation.org/TheOptimist/coronavirus){:target="_blank" rel="nofollow"} para una variedad de cosas y vamos a hacer mucho más. Una prioridad es asegurarse de que haya suficiente capacidad de fabricación para terapias y vacunas. Tenemos otros esfuerzos como nuestro grupo educativo trabajando para asegurar que los recursos en línea para los estudiantes sean, lo más útiles posible.
+Nuestra fundación está trabajando con todos los grupos que realizan diagnósticos, terapias y vacunas para garantizar que se prioricen los esfuerzos correctos. Queremos asegurarnos de que todos los países tengan acceso a estas herramientas. Donamos [100 millones de dólares en Febrero](https://www.gatesfoundation.org/TheOptimist/coronavirus){:target="_blank" rel="nofollow,noreferrer"} para una variedad de cosas y vamos a hacer mucho más. Una prioridad es asegurarse de que haya suficiente capacidad de fabricación para terapias y vacunas. Tenemos otros esfuerzos como nuestro grupo educativo trabajando para asegurar que los recursos en línea para los estudiantes sean, lo más útiles posible.
 
 **¿Hay algo que pueda hacer para ayudar con la producción de respiradores?**
 
@@ -112,7 +112,7 @@ Hay muchos esfuerzos para hacer esto. Si hacemos el distanciamiento social ("cie
 
 **¿Debería haber un refugio posible a nivel nacional? ¿Por qué o por qué no?**
 
-La mayoría de las personas pueden refugiarse en sus hogares, pero para las personas que no lo tienen. Debería haber un sitio al que pudieran ir. [Estamos trabajando para ver si podemos enviar kits de pruebas a los hogares de las personas](https://www.gatesfoundation.org/TheOptimist/Articles/coronavirus-interview-dan-wattendorf){:target="_blank" rel="nofollow"} para que no tengan que salir y que las pruebas lleguen a las personas que son prioridad. Estados Unidos todavía no está organizado en cuanto a las pruebas.
+La mayoría de las personas pueden refugiarse en sus hogares, pero para las personas que no lo tienen. Debería haber un sitio al que pudieran ir. [Estamos trabajando para ver si podemos enviar kits de pruebas a los hogares de las personas](https://www.gatesfoundation.org/TheOptimist/Articles/coronavirus-interview-dan-wattendorf){:target="_blank" rel="nofollow,noreferrer"} para que no tengan que salir y que las pruebas lleguen a las personas que son prioridad. Estados Unidos todavía no está organizado en cuanto a las pruebas.
 
 **¿Qué cambios vamos a tener que hacer en la forma en que operan las empresas para mantener nuestra economía y proporcionar distanciamiento social?**
 
@@ -122,7 +122,7 @@ Eventualmente tendremos algunos certificados digitales para mostrar quién se re
 
 **Cuándo terminará todo esto?**
 
-Para eliminar exhaustivamente los casos a nivel mundial, necesitamos una vacuna. Muchos países ricos podrán mantener el número de casos a bajo nivel (incluidos los EE. UU.) siempre y cuando hagan lo correcto. Pero a los países en desarrollo les resultará muy difícil detener la propagación, por lo que una vacuna es crítica. Un grupo llamado [GAVI](https://www.gavi.org/){:target="_blank" rel="nofollow"} ayuda a comprar vacunas para los países en desarrollo y desempeñarán un papel clave una vez que tengamos una vacuna en volumen.
+Para eliminar exhaustivamente los casos a nivel mundial, necesitamos una vacuna. Muchos países ricos podrán mantener el número de casos a bajo nivel (incluidos los EE. UU.) siempre y cuando hagan lo correcto. Pero a los países en desarrollo les resultará muy difícil detener la propagación, por lo que una vacuna es crítica. Un grupo llamado [GAVI](https://www.gavi.org/){:target="_blank" rel="nofollow,noreferrer"} ayuda a comprar vacunas para los países en desarrollo y desempeñarán un papel clave una vez que tengamos una vacuna en volumen.
 
 **¿Cuánto tiempo durará esto?**
 
@@ -180,7 +180,7 @@ Si eventualmente. El impacto económico del "cierre" será grande, pero si se ha
 
 Creo que después de que esto esté bajo control, los gobiernos y otros invertirán mucho en estar listos para el próximo. Esto requerirá una cooperación global, particularmente para ayudar a los países en desarrollo que serán los más afectados. Un buen ejemplo es la necesidad de probar la terapéutica donde sea que esté la enfermedad para ayudar al mundo entero. El virus no respeta las fronteras nacionales.
 
-**Fuente**: [Gates Notes: 31 preguntas y respuestas sobre COVID-19, por Bill Gates](https://www.gatesnotes.com/Health/A-coronavirus-AMA "31 preguntas y respuestas sobre COVID-19, por Bill Gates"){:target="_blank" rel="nofollow"} traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
+**Fuente**: [Gates Notes: 31 preguntas y respuestas sobre COVID-19, por Bill Gates](https://www.gatesnotes.com/Health/A-coronavirus-AMA "31 preguntas y respuestas sobre COVID-19, por Bill Gates"){:target="_blank" rel="nofollow,noreferrer"} traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
 {: .notice--info}
 
 ### Relacionados

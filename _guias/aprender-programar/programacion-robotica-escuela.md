@@ -25,27 +25,27 @@ toc_sticky: true
 
 ## 👩‍💻 Lenguajes de Programación
 
-* [Scratch](https://scratch.mit.edu/){:target="_blank" rel="nofollow"}
-* [ScratchJR](https://www.scratchjr.org/){:target="_blank" rel="nofollow"}
+* [Scratch](https://scratch.mit.edu/){:target="_blank" rel="nofollow,noreferrer"}
+* [ScratchJR](https://www.scratchjr.org/){:target="_blank" rel="nofollow,noreferrer"}
 
 <!-- https://www.blog.andaluciaesdigital.es/programacion-para-ninos-beneficios-y-claves-para-comenzar/ -->
 
 ## 💻 Software y Herramientas
 
-* [BlocksCad Editor - Online](https://www.blockscad3d.com/editor/){:target="_blank" rel="nofollow"}
-* [Scratch - Descargar](https://scratch.mit.edu/download/){:target="_blank" rel="nofollow"}
-* [Scratch Online](https://scratch.mit.edu/projects/editor){:target="_blank" rel="nofollow"}
+* [BlocksCad Editor - Online](https://www.blockscad3d.com/editor/){:target="_blank" rel="nofollow,noreferrer"}
+* [Scratch - Descargar](https://scratch.mit.edu/download/){:target="_blank" rel="nofollow,noreferrer"}
+* [Scratch Online](https://scratch.mit.edu/projects/editor){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Las Mejores Páginas Web
 
-* [La Hora del Código](https://hourofcode.com/es){:target="_blank" rel="nofollow"} 👉 [Saber Más](){:target="_blank" rel="nofollow"}
+* [La Hora del Código](https://hourofcode.com/es){:target="_blank" rel="nofollow,noreferrer"} 👉 [Saber Más](){:target="_blank" rel="nofollow,noreferrer"}
 
 
-* [TecniCrea](https://tecnicrea.es){:target="_blank" rel="nofollow"}
-* [](){:target="_blank" rel="nofollow"}
-* [](){:target="_blank" rel="nofollow"}
-* [](){:target="_blank" rel="nofollow"}
+* [TecniCrea](https://tecnicrea.es){:target="_blank" rel="nofollow,noreferrer"}
+* [](){:target="_blank" rel="nofollow,noreferrer"}
+* [](){:target="_blank" rel="nofollow,noreferrer"}
+* [](){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Las MEjores Páginas Web en Inglés
 
-* [Code ORG](https://code.org/){:target="_blank" rel="nofollow"}
+* [Code ORG](https://code.org/){:target="_blank" rel="nofollow,noreferrer"}

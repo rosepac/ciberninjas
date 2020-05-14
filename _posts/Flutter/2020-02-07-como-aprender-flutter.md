@@ -24,7 +24,7 @@ categories:
 
 ![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/images/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp "Logotipo oficial del SDK multiplataforma de Flutter")
 
-**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow"}
+**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
 
 ## ¿Estás interesado en el desarrollo de aplicaciones móviles?
@@ -41,59 +41,59 @@ Entonces empecemos. Se incluye una breve explicación de cada recurso. Esa infor
 
 ### 📸 Videos / Cursos
 
-## [Tutorial de programación de Dart: Curso completo](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q){:target="_blank" rel="nofollow"}
+## [Tutorial de programación de Dart: Curso completo](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q){:target="_blank" rel="nofollow,noreferrer"}
 
 Un curso completo de FreeCodeCamp sobre Dart:
 
 * Aprende el lenguaje de programación Dart en este completo tutorial para principiantes. Dart es un lenguaje de programación estrictamente tipado que se utiliza en el framework de Flutter para desarrollar aplicaciones móviles multiplataforma.
 
-## [Curso de Flutter - Tutorial completo para principiantes (compilación de aplicaciones iOS y Android)](https://www.youtube.com/watch?v=pTJJsmejUOQ){:target="_blank" rel="nofollow"}
+## [Curso de Flutter - Tutorial completo para principiantes (compilación de aplicaciones iOS y Android)](https://www.youtube.com/watch?v=pTJJsmejUOQ){:target="_blank" rel="nofollow,noreferrer"}
 
 * Un tutorial completo de freeCodeCamp para principiantes. Este tutorial fue una de mis referencias favoritas cuando comencé con Flutter. Es una excelente introducción y te ayuda a comprender los primeros conceptos que te serán muy útiles:
 
-## [Curso intensivo de revoloteo](https://www.youtube.com/watch?v=1gDhl4leEzA&feature=youtu.be){:target="_blank" rel="nofollow"}
+## [Curso intensivo de revoloteo](https://www.youtube.com/watch?v=1gDhl4leEzA&feature=youtu.be){:target="_blank" rel="nofollow,noreferrer"}
 
-Aprenda Flutter, con el innovador framework de desarrollo móvil multiplataforma de Google, para crear aplicaciones para Android e iOS. En este curso, Nick Manning de [Flutter Crash Course](https://fluttercrashcourse.com/){:target="_blank" rel="nofollow"} te enseña cómo comenzar a usar Flutter de manera rápida y efectiva. Nick ha sido un ingeniero de Flutter desde 2017 y ha reducido este conocimiento del mundo real a un curso intensivo claro, realista y paso a paso.
+Aprenda Flutter, con el innovador framework de desarrollo móvil multiplataforma de Google, para crear aplicaciones para Android e iOS. En este curso, Nick Manning de [Flutter Crash Course](https://fluttercrashcourse.com/){:target="_blank" rel="nofollow,noreferrer"} te enseña cómo comenzar a usar Flutter de manera rápida y efectiva. Nick ha sido un ingeniero de Flutter desde 2017 y ha reducido este conocimiento del mundo real a un curso intensivo claro, realista y paso a paso.
 
 * En este curso intensivo, analizaremos Flutter para crear aplicaciones móviles nativas. Veremos qué es Flutter, cómo configurarlo, widgets integrados, widgets sin estado y con estado, enrutamiento y más.
 
-## [Flutter Tutorial para principiantes](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ){:target="_blank" rel="nofollow"}
+## [Flutter Tutorial para principiantes](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ){:target="_blank" rel="nofollow,noreferrer"}
 
 Una lista de reproducción de Youtube en Flutter para principiantes creada por The Net Ninja.
 
 * Descubrirá cómo usar Flutter (y Dart) para crear aplicaciones Android e IOS desde cero. ¡Aprenderá todo sobre widgets, paquetes, activos y código asincrónico para crear una aplicación de hora mundial, así como otras dos mini aplicaciones para aprovechar sus habilidades de Flutter!
 
-## [Flutter y Firebase App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC){:target="_blank" rel="nofollow"}
+## [Flutter y Firebase App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC){:target="_blank" rel="nofollow,noreferrer"}
 
 Una lista de reproducción de Youtube en Flutter y Firebase creada por The Net Ninja. Cuando quise usar Firebase en mi primera aplicación, primero tomé este curso. Fue exhaustivo y me dio una buena comprensión de cómo integrar esta herramienta con Flutter.
 
 * Aprenderá a crear una aplicación Flutter desde cero, utilizando Firebase Firestore (una base de datos en tiempo real) y Autenticación de Firebase. Esta lista de reproducción es para desarrolladores que ya conocen Flutter. 
 
-## [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA/featured){:target="_blank" rel="nofollow"}
+## [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA/featured){:target="_blank" rel="nofollow,noreferrer"}
 
 Un canal de Youtube dedicado a Flutter. Reso Coder creó muchos tutoriales para explicar cómo funciona el framework. Se explican varias herramientas que puede usar con Flutter para que pueda integrarlas en su proyecto. Incluso hay lecciones sobre arquitectura de código para Flutter.
 
 * Flutter está cambiando la escena del desarrollo de aplicaciones. ¡No te quedes atrás! Aprenda a desarrollar para dispositivos móviles y web multiplataforma. Aprenda de lecciones cuidadosamente dirigidas por proyectos y aplique inmediatamente lo que ha aprendido en sus propias aplicaciones.
 
-## [FilledStacks](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q/featured){:target="_blank" rel="nofollow"}
+## [FilledStacks](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q/featured){:target="_blank" rel="nofollow,noreferrer"}
 
 Un canal de Youtube dedicado a Flutter. Descubrirá muchos tutoriales en Flutter como Firebase, UI, arquitectura, etc. También hay lecciones móviles y web de Flutter.
 
 * Aprenda a crear aplicaciones móviles listas para la producción de alta calidad con Flutter.
 
-## [Code With Andrea](https://www.youtube.com/c/CodeWithAndrea){:target="_blank" rel="nofollow"}
+## [Code With Andrea](https://www.youtube.com/c/CodeWithAndrea){:target="_blank" rel="nofollow,noreferrer"}
 
 * Tutoriales sobre el aprendizaje de Flutter. Videos regulares que cubren todo lo relacionado con Flutter, incluida la administración del estado, diseños, pruebas y más. Este canal te ayudará a convertirte en un mejor desarrollador de Flutter.
 
 ### 👩‍💻 Google Codelabs
 
-También puedes aprender Flutter con el [sitio](https://codelabs.developers.google.com/?cat=Flutter){:target="_blank" rel="nofollow"} web de [Google Codelabs](https://codelabs.developers.google.com/?cat=Flutter){:target="_blank". El sitio web proporciona una experiencia de codificación guiada, basada en tutoriales y práctica. Acabo de descubrir este sitio. Incluso puedes usarlo fuera de Flutter. Hace referencia a todas las tecnologías de Google con muchos tutoriales para ayudarlo a usarlas.
+También puedes aprender Flutter con el [sitio](https://codelabs.developers.google.com/?cat=Flutter){:target="_blank" rel="nofollow,noreferrer"} web de [Google Codelabs](https://codelabs.developers.google.com/?cat=Flutter){:target="_blank". El sitio web proporciona una experiencia de codificación guiada, basada en tutoriales y práctica. Acabo de descubrir este sitio. Incluso puedes usarlo fuera de Flutter. Hace referencia a todas las tecnologías de Google con muchos tutoriales para ayudarlo a usarlas.
 
 * La mayoría de los codelabs lo guiarán a través del proceso de creación de una pequeña aplicación o de agregar una nueva característica a una aplicación existente. Cubren una amplia gama de temas como Android Wear, Google Compute Engine, Project Tango y Google APIs en iOS.
 
 ### 📄 Documentación
 
-Algo que me encanta de Flutter es la [documentación](https://flutter.dev/docs){:target="_blank" rel="nofollow"}. Está completo y puede ser útil cuando está aprendiendo o desarrollando una aplicación.
+Algo que me encanta de Flutter es la [documentación](https://flutter.dev/docs){:target="_blank" rel="nofollow,noreferrer"}. Está completo y puede ser útil cuando está aprendiendo o desarrollando una aplicación.
 
 La documentación aborda muchos temas, como por ejemplo:
 
@@ -106,16 +106,16 @@ La documentación aborda muchos temas, como por ejemplo:
 
 ### ✍ Artículos
 
-* [¿Cuándo debería usarAnimatedBuilder o AnimatedWidget?](https://medium.com/flutter/when-should-i-useanimatedbuilder-or-animatedwidget-57ecae0959e8){:target="_blank" rel="nofollow"}
-* [Animaciones básicas de animación con animaciones implícitas](https://medium.com/flutter/flutter-animation-basics-with-implicit-animations-95db481c5916){:target="_blank" rel="nofollow"}
-* [Animaciones direccionales con animaciones explícitas incorporadas](https://medium.com/flutter/directional-animations-with-built-in-explicit-animations-3e7c5e6fbbd7){:target="_blank" rel="nofollow"}
-* [Animaciones implícitas personalizadas en Flutter ... con TweenAnimationBuilder](https://medium.com/flutter/custom-implicit-animations-in-flutter-with-tweenanimationbuilder-c76540b47185){:target="_blank" rel="nofollow"}
-* [Cómo escribir un complemento web de Flutter](https://medium.com/flutter/how-to-write-a-flutter-web-plugin-5e26c689ea1){:target="_blank" rel="nofollow"}
-* [El soporte web para Flutter se vuelve beta](https://medium.com/flutter/web-support-for-flutter-goes-beta-35b64a1217c0){:target="_blank" rel="nofollow"}
+* [¿Cuándo debería usarAnimatedBuilder o AnimatedWidget?](https://medium.com/flutter/when-should-i-useanimatedbuilder-or-animatedwidget-57ecae0959e8){:target="_blank" rel="nofollow,noreferrer"}
+* [Animaciones básicas de animación con animaciones implícitas](https://medium.com/flutter/flutter-animation-basics-with-implicit-animations-95db481c5916){:target="_blank" rel="nofollow,noreferrer"}
+* [Animaciones direccionales con animaciones explícitas incorporadas](https://medium.com/flutter/directional-animations-with-built-in-explicit-animations-3e7c5e6fbbd7){:target="_blank" rel="nofollow,noreferrer"}
+* [Animaciones implícitas personalizadas en Flutter ... con TweenAnimationBuilder](https://medium.com/flutter/custom-implicit-animations-in-flutter-with-tweenanimationbuilder-c76540b47185){:target="_blank" rel="nofollow,noreferrer"}
+* [Cómo escribir un complemento web de Flutter](https://medium.com/flutter/how-to-write-a-flutter-web-plugin-5e26c689ea1){:target="_blank" rel="nofollow,noreferrer"}
+* [El soporte web para Flutter se vuelve beta](https://medium.com/flutter/web-support-for-flutter-goes-beta-35b64a1217c0){:target="_blank" rel="nofollow,noreferrer"}
 
 ### 🗃 Repositorios
 
-* [Flutter Police](https://flutterpolice.com/){:target="_blank" rel="nofollow"}
+* [Flutter Police](https://flutterpolice.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ### 📚 Libros
 
@@ -123,7 +123,7 @@ La documentación aborda muchos temas, como por ejemplo:
 
 Al buscar en la documentación de Flutter, encontré este libro. El autor crea una aplicación totalmente funcional, que le permite obtener una comprensión clara y concisa del framework. Se puede acceder a este libro, tenga o no experiencia en desarrollo móvil.
 
-[⬇ Descargar Libro en Inglés 📖](http://ebooks.syncfusion.com/downloads/flutter-succinctly/flutter-succinctly.pdf){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[⬇ Descargar Libro en Inglés 📖](http://ebooks.syncfusion.com/downloads/flutter-succinctly/flutter-succinctly.pdf){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## [Manual de tutoriales de Flutter](https://kodestat.gitbook.io/flutter/)
 
@@ -133,27 +133,27 @@ Este libro de aprendizaje contiene tutoriales (hasta 43 lecciones) que demuestra
 
 ### 📚 Libros
 
-## [Aprende Rápidamente Flutter de Google: Con 65 aplicaciones de ejemplo](https://amzn.to/37X6QOx){:target="_blank" rel="nofollow"}
+## [Aprende Rápidamente Flutter de Google: Con 65 aplicaciones de ejemplo](https://amzn.to/37X6QOx){:target="_blank" rel="nofollow,noreferrer"}
 
 Aprende Google Flutter con el ejemplo. Más de 65 mini aplicaciones de ejemplo. Los capítulos incluyen: Tres capítulos sobre lenguaje Dart. Introducción a Flutter. Instalando Flutter. Tu primera aplicación Flutter.
 
-## [Aprendiendo Flutter: Una guía práctica para el desarrollo de aplicaciones](https://amzn.to/2tqLKsZ){:target="_blank" rel="nofollow"}
+## [Aprendiendo Flutter: Una guía práctica para el desarrollo de aplicaciones](https://amzn.to/2tqLKsZ){:target="_blank" rel="nofollow,noreferrer"}
 
 Esta es una excelente introducción a Flutter para que pueda comenzar rápidamente y comprender los principios fundamentales. Si prefieres aprender a través de los libros, ¡no lo dudes!
 
 En Flutter, trabajarás con Dart, el lenguaje de programación elegido por los mejores desarrolladores de aplicaciones. Incluso si recién está comenzando en su carrera de desarrollo, puede aprender Dart rápidamente, eliminando la barrera de entrada para crear aplicaciones. Esta es una forma más eficiente de desarrollar y mantener aplicaciones móviles multiplataforma, y este libro hace que el proceso sea aún más fácil con un enfoque de enseñar por ejemplo.
 
-## [Flutter Práctico: Mejore su desarrollo móvil con el último SDK de código abierto de Google](https://amzn.to/2ShW52z){:target="_blank" rel="nofollow"}
+## [Flutter Práctico: Mejore su desarrollo móvil con el último SDK de código abierto de Google](https://amzn.to/2ShW52z){:target="_blank" rel="nofollow,noreferrer"}
 
 Explore lo que Flutter tiene para ofrecer, de dónde vino y hacia dónde va. El desarrollo móvil avanza a un ritmo rápido y con Flutter, un SDK de desarrollo de aplicaciones móviles de código abierto creado por Google, puede desarrollar aplicaciones para Android e iOS, así como Google Fuchsia. Aprenda a crear tres aplicaciones (un administrador de información personal, un sistema de chat y un proyecto de juego) que puede instalar en sus dispositivos móviles y usar de verdad.
 
-## [Flutter para Dummies](https://amzn.to/2RTUdy7){:target="_blank" rel="nofollow"}
+## [Flutter para Dummies](https://amzn.to/2RTUdy7){:target="_blank" rel="nofollow,noreferrer"}
 
 ¡Crea increíbles aplicaciones para iOS y Android con una sola herramienta! Flutter es el sueño de un desarrollador de aplicaciones hecho realidad. Con el kit de herramientas de código abierto de Google, puede crear fácilmente aplicaciones hermosas que funcionen perfectamente en todas las plataformas utilizando una única base de código.
 
 Este libro incluye cómo crear una interfaz de usuario intuitiva y sorprendente, agregue interactividad rica y extraiga datos fácilmente.
 
-**Fuente**\: [Here We Code](https://herewecode.io/){:target="_blank" rel="nofollow"}
+**Fuente**\: [Here We Code](https://herewecode.io/){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
 ## Guía Flutter

@@ -34,8 +34,8 @@ toc_sticky: true
 
 ## PostgreSQL
 
-* [3 formas de usar los comandos de PostgreSQL](https://opensource.com/article/20/2/postgresql-commands){:target="_blank" rel="nofollow"}
-* [Comenzando con PostgreSQL](https://opensource.com/article/19/11/getting-started-postgresql){:target="_blank" rel="nofollow"}
+* [3 formas de usar los comandos de PostgreSQL](https://opensource.com/article/20/2/postgresql-commands){:target="_blank" rel="nofollow,noreferrer"}
+* [Comenzando con PostgreSQL](https://opensource.com/article/19/11/getting-started-postgresql){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Sistemas de Bases de Datos SQL
 
@@ -73,7 +73,7 @@ Facebook comenzó los esfuerzos de desarrollo en Presto en 2012, y luego se unie
 
 Enlaces: [Sitio web oficial de ](https://prestodb.io/)  [Facebook ](https://www.facebook.com/prestodb)  [GitHub](https://github.com/prestodb/presto)
 
-## [Blazing SQL](https://www.blazingsql.com){:target="_blank" rel="nofollow"} Motor SQL de Alto Rendimiento en GPUS
+## [Blazing SQL](https://www.blazingsql.com){:target="_blank" rel="nofollow,noreferrer"} Motor SQL de Alto Rendimiento en GPUS
 
 BlazingSQL es un motor SQL acelerado por GPU creado sobre el ecosistema RAPIDS. RAPIDS se basa en el formato de memoria en columna de Apache Arrow, y cuDF es una biblioteca de GPU DataFrame para cargar, unir, agregar, filtrar y manipular datos.
 
@@ -88,5 +88,5 @@ Apache Drill es un motor de consulta SQL sin esquema para Hadoop, NoSQL y Cloud 
 
 Enlaces: [Sitio web oficial ](https://drill.apache.org/)  [Twitter ](https://twitter.com/apachedrill)  [GitHub](https://github.com/apache/drill/tree/1.16.0)
 
-[📕 Libros BBDD 📂](https://kutt.it/bases-datos-libros){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow"}
- [🎓 Cursos BBDD 📂](https://kutt.it/bases-datos-cursos){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow"}  [📕 Libros en Inglés 📂](/biblioteca-de-programacion-y-tecnologia-ingles/#base-de-datos){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 📂](/cursos-tecnologia-ingles/#-bases-de-datos){: .btn .btn--info .btn--large}
+[📕 Libros BBDD 📂](https://kutt.it/bases-datos-libros){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
+ [🎓 Cursos BBDD 📂](https://kutt.it/bases-datos-cursos){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}  [📕 Libros en Inglés 📂](/biblioteca-de-programacion-y-tecnologia-ingles/#base-de-datos){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 📂](/cursos-tecnologia-ingles/#-bases-de-datos){: .btn .btn--info .btn--large}

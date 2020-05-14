@@ -72,11 +72,11 @@ Aquí, vas a encontrar los libros que dieron forma a uno de los emprendedores m�
 <!-- https://www.cnbc.com/2017/02/21/billionaire-elon-musk-credits-his-success-to-these-8-books.html -->
 <!-- https://www.businessinsider.com/elon-musk-favorite-books-2015-10?IR=T -->
 
-**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> Barack Obama 2020 - [Saber Más](/libros-recomendados-elon-musk-2020/){:target="_blank" rel="nofollow"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank" rel="nofollow"}
+**🔥 Libros Recomendados Por..**: [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> Barack Obama 2020 - [Saber Más](/libros-recomendados-elon-musk-2020/){:target="_blank" rel="nofollow,noreferrer"} >> Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--danger}
 
 <!-- https://www.vbqspeakers.com/max-tegmark -->
-## **[1. Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc){:target="_blank" rel="nofollow"}**
+## **[1. Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc){:target="_blank" rel="nofollow,noreferrer"}**
 
 Si vas a encontrar un tema en común dentro de muchos de los libros de esta lista, es que **Musk está realmente interesado en explorar el futuro de la inteligencia artificial**.
 
@@ -84,20 +84,20 @@ En **Vida 3.0**, el profesor del MIT: **Max Tegmark**. Escribe sobre **cómo des
 
 Esté, va a ser uno de los pocos libros, si no el único. Entre los que Musk recomienda, en el que se aborda la posibilidad de que **la inteligencia artificial sea una evolución en búsqueda del bien** de la humanidad y no para crear el mal.
 
-De hecho, el propio firmó junto a otros científicos y personas importantes del mundo de la inteligencia artificial y la robótica, la siguiente [carta abierta](https://futureoflife.org/open-letter-autonomous-weapons#signatories){:target="_blank" rel="nofollow"}, en la se refleja el que la humanidad debería de estar preocupada.
+De hecho, el propio firmó junto a otros científicos y personas importantes del mundo de la inteligencia artificial y la robótica, la siguiente [carta abierta](https://futureoflife.org/open-letter-autonomous-weapons#signatories){:target="_blank" rel="nofollow,noreferrer"}, en la se refleja el que la humanidad debería de estar preocupada.
 
 > "La Inteligencia Artificial será lo mejor o lo peor para la humanidad, así que vamos a hacerlo bien".
 >
 > Elon Musk
 
-Otras personas importantes, como el astrofísico y divulgador científico Stephen Hawking. Escritor de incontables libros y escritos, como por ejemplo: [Breves respuestas a las grandes preguntas](https://amzn.to/2Y58xHs){:target="_blank" rel="nofollow"} o [La Clave Secreta del Universo](https://amzn.to/2XZfPws){:target="_blank" rel="nofollow"} o [La Teoría del Todo](https://amzn.to/2RWtn8c){:target="_blank" rel="nofollow"}.
+Otras personas importantes, como el astrofísico y divulgador científico Stephen Hawking. Escritor de incontables libros y escritos, como por ejemplo: [Breves respuestas a las grandes preguntas](https://amzn.to/2Y58xHs){:target="_blank" rel="nofollow,noreferrer"} o [La Clave Secreta del Universo](https://amzn.to/2XZfPws){:target="_blank" rel="nofollow,noreferrer"} o [La Teoría del Todo](https://amzn.to/2RWtn8c){:target="_blank" rel="nofollow,noreferrer"}.
 Ha dicho sobre Vida 3.0..
 
 > "Esta es la conversación más importante de nuestro tiempo, y el libro de reflexión de Tegmark te ayudará a unirte a ella".
 >
 > Stephen Hawking
 
-O el inventor inventor, autor y futurista. Escritor de [La Singularidad está cerca](https://amzn.to/2Ku2g0i){:target="_blank" rel="nofollow"} y [Cómo crear una mente](https://amzn.to/2VRUzGs){:target="_blank" rel="nofollow"}.
+O el inventor inventor, autor y futurista. Escritor de [La Singularidad está cerca](https://amzn.to/2Ku2g0i){:target="_blank" rel="nofollow,noreferrer"} y [Cómo crear una mente](https://amzn.to/2VRUzGs){:target="_blank" rel="nofollow,noreferrer"}.
 Ha dicho sobre Vida 3.0..
 
 > “El nuevo libro de Tegmark es una guía profundamente reflexiva sobre la conversación más importante de nuestro tiempo, sobre cómo crear una civilización futura benevolente a medida que fusionamos nuestro pensamiento biológico con una inteligencia aún mayor de nuestra propia creación”.
@@ -118,13 +118,13 @@ Ha dicho sobre Vida 3.0..
 <p>Este libro te permite unirte a lo que puede ser la conversación más importante de nuestro tiempo. No rehuye ninguna opinión respecto a los puntos de vista sobre los temas más controvertidos, desde la superinteligencia hasta el significado, la conciencia y los límites físicos de la vida dentro del cosmos.</p>
 </details>
 
-## **[2. Nuestra invención final de James Barrat](https://amzn.to/2XTdaEG){:target="_blank" rel="nofollow"}**
+## **[2. Nuestra invención final de James Barrat](https://amzn.to/2XTdaEG){:target="_blank" rel="nofollow,noreferrer"}**
 
 Musk ha advertido publicamente contra los peligros de la inteligencia artificial. En una entrevista de 2014 en el Simposio Centenario de AeroAstro en el MIT, calificó a la IA como "**nuestra mayor amenaza existencial**".
 
 Se puede ver reflejado ese pensamiento, con su inversión dentro de la empresa de inteligencia artificial DeepMind. Puesto qué, al propio Elon Musk, se le ha escuchado decir que esa era una inversión "exclusivamente para vigilar de cerca lo que va sucediendo con la inteligencia artificial" lo que no deja de ser un comentario bajo un "tono" que muestra preocupación hacía las nuevas tecnologías.
 
-Por lo tanto, no es sorprendente que **Elon haya elegido el libro "Nuestra invención final: La inteligencia artificial y el fin de la era humana"** como "un libro digno de leer" a través de [un tweet](https://twitter.com/elonmusk/status/496010572333580289){:target="_blank" rel="nofollow"}.
+Por lo tanto, no es sorprendente que **Elon haya elegido el libro "Nuestra invención final: La inteligencia artificial y el fin de la era humana"** como "un libro digno de leer" a través de [un tweet](https://twitter.com/elonmusk/status/496010572333580289){:target="_blank" rel="nofollow,noreferrer"}.
 
 En este libro, Barrat analiza el potencial de la IA, sopesando sus ventajas y desventajas. Según el propio autor en su página web, el libro trata, al menos en parte "**sobre la desventaja catastrófica de la inteligencia artificial, algo de lo que nunca oirás hablar de Google, Apple, IBM o DARPA**".
 
@@ -142,7 +142,7 @@ En este libro, Barrat analiza el potencial de la IA, sopesando sus ventajas y de
 <p>¿Podemos convivir con seres cuya inteligencia eclipsa la nuestra? ¿Nos lo permitirán?</p>
 </details>
 
-## **[3. La Fundación de Isaac Asimov](https://amzn.to/2VmcXYL){:target="_blank" rel="nofollow"}**
+## **[3. La Fundación de Isaac Asimov](https://amzn.to/2VmcXYL){:target="_blank" rel="nofollow,noreferrer"}**
 
 Es posible que **el interés de Musk por la tecnología de la exploración espacial** se deba a los días que paso leyendo ciencia ficción.
 <!-- tweet de 2020: https://twitter.com/elonmusk/status/1230293973673136129 -->
@@ -177,7 +177,7 @@ Como resultado, Musk comenzó SpaceX en 2002 (después de su segunda puesta en m
 <p>Hasta ahora, la Fundación estaba a salvo. Pero había una segunda fundación oculta para proteger a la primera. La Mula aún no lo ha encontrado, pero se estaba acercando todo el tiempo. Los hombres de la Fundación también buscaban escapar del control mental de Mule. Solo Arkady, una niña de 14 años parecía tener la respuesta, ¿o ella ...?</p>
 </details>
 
-## **[4. El Señor de los Anillos de JRR Tolkien](https://amzn.to/2wQkAgG){:target="_blank" rel="nofollow"}**
+## **[4. El Señor de los Anillos de JRR Tolkien](https://amzn.to/2wQkAgG){:target="_blank" rel="nofollow,noreferrer"}**
 
 Cuando de pequeñ, era maltratado por sus compañeros; Musk reecibía el feo apodo de Muskrat (Musk Rata). En una entrevista para el períodico "The New Yorker" el propio Musk, hablo sobre lo que hacía para poder abstraerse de los abusos que cometían sobre él.
 
@@ -199,7 +199,7 @@ Entre esos libros, como ya hemos citado, se encontraban los de Isaac Asimov; per
 </p>
 </details>
 
-## **[5. Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson](https://amzn.to/3eDVFOE){:target="_blank" rel="nofollow"}**
+## **[5. Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson](https://amzn.to/3eDVFOE){:target="_blank" rel="nofollow,noreferrer"}**
 
 Nikola Tesla hizo una importante contribución a la evolución de la electricidad, que transformó la vida cotidiana a principios del siglo XX. Sus inventos, patentes y trabajos científicos formaron la base de la electricidad moderna y contribuyeron al desarrollo de la radio y la televisión.
 
@@ -224,7 +224,7 @@ Siendo un astuto autorrelogador y un talentoso escaparate, cultivó la imagen de
 
 <!-- https://twitter.com/elonmusk/status/1007668113591005184 -->
 
-## **[6. Einstein: Su vida y su universo de Walter Isaacson](https://amzn.to/3bmQh08){:target="_blank" rel="nofollow"}**
+## **[6. Einstein: Su vida y su universo de Walter Isaacson](https://amzn.to/3bmQh08){:target="_blank" rel="nofollow,noreferrer"}**
 
 En una entrevista, Musk le dice a Kevin Rose (Youtuber Entrevistador) que fue influenciado por la biografía del físico teórico Albert Einstein, y está claro por qué.
 
@@ -238,7 +238,7 @@ Algunas de las citas más famosas de Einstein, como “Lo importante es no dejar
 <p></p>
 </details>
 
-## **[7. La Guía del Autoestopista Galáctico de Douglas Adams](https://amzn.to/3btdGx2){:target="_blank" rel="nofollow"}**
+## **[7. La Guía del Autoestopista Galáctico de Douglas Adams](https://amzn.to/3btdGx2){:target="_blank" rel="nofollow,noreferrer"}**
 
 Musk ha hablado en varias situaciones sobre su "crisis existencial" cuando tenía entre 12 y 15 años, encerrándose en un auto confinamiento forzado para leer a Friedrich Nietzsche, Arthur Schopenhauer y otros filósofos malhumorados, intentando encontrar el sentido de la vida en sus lecturas; y que no le sirvió de nada.
 
@@ -258,7 +258,7 @@ Esto fue instructivo para un joven Elon.
 <p>También se incluye en esta edición especial la Guía de Douglas Adams de la Guía del autoestopista Galáctico, emitida por primera vez en 1999, que analiza la génesis y el éxito fenomenal de la serie.</p>
 </details>
 
-## **[8. Superinteligencia: Caminos, Peligros, Estrategias de Nick Bostrom](https://amzn.to/3cvqOSr){:target="_blank" rel="nofollow"}**
+## **[8. Superinteligencia: Caminos, Peligros, Estrategias de Nick Bostrom](https://amzn.to/3cvqOSr){:target="_blank" rel="nofollow,noreferrer"}**
 
 Aunque Musk es futurista y está profundamente interesado en la inteligencia artificial, ha compartido **sus preocupaciones sobre los peligros potenciales** y **las preocupaciones éticas asociadas con la tecnología**.
 
@@ -278,7 +278,7 @@ Aunque Musk es futurista y está profundamente interesado en la inteligencia art
 <p>¿Será posible construir una Semilla de Inteligencia Artificial, diseñar condiciones iniciales para que una explosión de inteligencia pueda sobrevivir? ¿Cómo se puede lograr una detonación controlada?</p>
 </details>
 
-## **[9. Encendido! Una historia informal de los propulsores de cohetes líquidos de John D. Clark](/libros-recomendados-elon-musk-2020/#ignition-pdf){:target="_blank" rel="nofollow"}**
+## **[9. Encendido! Una historia informal de los propulsores de cohetes líquidos de John D. Clark](/libros-recomendados-elon-musk-2020/#ignition-pdf){:target="_blank" rel="nofollow,noreferrer"}**
 
 "¡Encendido!" en inglés "Ignition" es una historia complicado de reconstruir sobre la ciencia, basada en la búsqueda de un propulsor de cohete confiable para llevar al ser humano hacía el espacio.
 
@@ -286,7 +286,7 @@ Clark fue un químico estadounidense activo en el desarrollo de combustibles par
 
 Aunque el libro es difícil de encontrar, a la gente le suele gustar: Este libro tiene la combinación correcta de detalles técnicos, descripciones de experimentos con resultados espectaculares, información básica sobre por qué y cómo, y sobre la política involucrada.
 
-Es un libro muy interesante y estimulante porque Clark captó en él; mucho del entusiasmo que tenía por los cohetes. Elon Musk lo citó [en una entrevista](https://www.theguardian.com/technology/2013/jul/17/elon-musk-mission-mars-spacex){:target="_blank" rel="nofollow"} al diario The Guardian.
+Es un libro muy interesante y estimulante porque Clark captó en él; mucho del entusiasmo que tenía por los cohetes. Elon Musk lo citó [en una entrevista](https://www.theguardian.com/technology/2013/jul/17/elon-musk-mission-mars-spacex){:target="_blank" rel="nofollow,noreferrer"} al diario The Guardian.
 
 > "Hay un buen libro sobre cohetes llamado: ¡Encendido! de John Clark, que es muy divertido".
 >
@@ -294,9 +294,9 @@ Es un libro muy interesante y estimulante porque Clark captó en él; mucho del 
 
 ### Encendido - Leer Versión PDF Online
 
-Afortunadamente, este extraño libro está disponible en línea [aquí](http://library.sciencemadness.org/library/books/ignition.pdf){:target="_blank" rel="nofollow"} y [aquí](http://mikea.ath.cx/Ignition/){:target="_blank" rel="nofollow"} (aunque en inglés).
+Afortunadamente, este extraño libro está disponible en línea [aquí](http://library.sciencemadness.org/library/books/ignition.pdf){:target="_blank" rel="nofollow,noreferrer"} y [aquí](http://mikea.ath.cx/Ignition/){:target="_blank" rel="nofollow,noreferrer"} (aunque en inglés).
 
-## **[10. Benjamin Franklin: Una Vida Americana de Walter Isaacson](https://amzn.to/2KgNHNm){:target="_blank" rel="nofollow"}**
+## **[10. Benjamin Franklin: Una Vida Americana de Walter Isaacson](https://amzn.to/2KgNHNm){:target="_blank" rel="nofollow,noreferrer"}**
 
 **Ben Franklin, autor, inventor, científico y diplomático, es uno de los héroes de Musk**.
 
@@ -318,7 +318,7 @@ Algo sobre eso es similar a la historia de Musk: crecer en Pretoria (Sudáfrica)
 <p>En esta narrativa colorida e íntima, Isaacson ofrece la visión completa de la increíble vida de Franklin, desde sus días como impresor desbocado hasta sus triunfos como estadista, científico y padre fundador. Narra la tumultuosa relación de Franklin con su hijo y nieto ilegítimos, su matrimonio práctico y sus coqueteos con las damas de París. También muestra cómo Franklin ayudó a crear el personaje estadounidense y por qué tiene una resonancia particular en el siglo XXI.</p>
 </details>
 
-## **[11. Estructuras: O porque las cosas no se caen de J. E. Gordon](https://amzn.to/3anrcB1){:target="_blank" rel="nofollow"}**
+## **[11. Estructuras: O porque las cosas no se caen de J. E. Gordon](https://amzn.to/3anrcB1){:target="_blank" rel="nofollow,noreferrer"}**
 
 **Musk es un autodidacta comprometido, devorando los temas que necesita saber**.
 
@@ -342,7 +342,7 @@ Para cualquiera que alguna vez se haya preguntado por qué los puentes colgantes
 <p></p>
 </details>
 
-## **[12. Mercaderes de la Duda de Erik M. Conway y Naomi Oreskes](https://amzn.to/2RUchrx){:target="_blank" rel="nofollow"}**
+## **[12. Mercaderes de la Duda de Erik M. Conway y Naomi Oreskes](https://amzn.to/2RUchrx){:target="_blank" rel="nofollow,noreferrer"}**
 
 Musk recomendó el libro en 2013, en una Conferencia D11. El argumento que persiguen estos dos historiadores se basa en **su creencia de que científicos con conexiones políticas y corporativas han enturbiado los hechos en torno a muchos problemas de salud pública**, **como los efectos negativos del tabaquismo** o **la negación del cambio climático**.
 
@@ -354,7 +354,7 @@ Musk recomendó el libro en 2013, en una Conferencia D11. El argumento que persi
 <p>Naomi Oreskes y Erik M. Conway, historiadores de la ciencia, hacen retroceder la alfombra en este oscuro rincón de la comunidad científica estadounidense, mostrando cómo la ideología y los intereses corporativos, con la ayuda de medios demasiado conformes, han sesgado la comprensión pública de algunos de los más importantes. cuestiones urgentes de nuestra era.</p>
 </details>
 
-## [13. El Señor de las Moscas” de William Golding](https://amzn.to/3cyQZYy){:target="_blank" rel="nofollow"}
+## [13. El Señor de las Moscas” de William Golding](https://amzn.to/3cyQZYy){:target="_blank" rel="nofollow,noreferrer"}
 
 Esta **novela clásica sobre supervivencia**, **competencia y avaricia** dejó su huella en el emprendedor tecnológico.
 
@@ -370,7 +370,7 @@ Su **lucha es una historia de advertencia sobre lo que puede suceder** cuando lo
 <p></p>
 </details>
 
-## [14. De Cero a Uno: Cómo inventar el Futuro de Peter Thiel](https://amzn.to/2RTqzJ4){:target="_blank" rel="nofollow"}
+## [14. De Cero a Uno: Cómo inventar el Futuro de Peter Thiel](https://amzn.to/2RTqzJ4){:target="_blank" rel="nofollow,noreferrer"}
 
 El libro De cero a uno. Esta basado en notas de una clase popular que Peter Thiel enseñó en la Universidad de Stanford el año 2012 que se centra en **la necesidad de encontrar un pensamiento único** entre los emprendedores fundadores de startups.
 
@@ -387,7 +387,7 @@ Han dicho de él..
 >
 > Mark Zuckerberg
 
-O el escritor Nassim Nicholas Taleb; autor del [Cisne Negro](https://amzn.to/34W9gwg){:target="_blank" rel="nofollow"}
+O el escritor Nassim Nicholas Taleb; autor del [Cisne Negro](https://amzn.to/34W9gwg){:target="_blank" rel="nofollow,noreferrer"}
 
 > "Cuando un tomador de riesgos escribe un libro, léelo. En el caso de Peter Thiel, léelo dos veces. O, para estar seguro, tres veces. Es un clásico".
 >
@@ -404,7 +404,7 @@ O el escritor Nassim Nicholas Taleb; autor del [Cisne Negro](https://amzn.to/34W
 <p>Zero to One presenta a la vez una visión optimista del futuro del progreso en Estados Unidos y una nueva forma de pensar sobre la innovación: comienza aprendiendo a hacer las preguntas que lo llevan a encontrar valor en lugares inesperados.</p>
 </details>
 
-## **[15. Howard Hughes: Su vida y Locura de Donald L. Barlett y James B. Steele](0393326020){:target="_blank" rel="nofollow"}**
+## **[15. Howard Hughes: Su vida y Locura de Donald L. Barlett y James B. Steele](0393326020){:target="_blank" rel="nofollow,noreferrer"}**
 
 No disponible en español, por tanto si deseas disfrutar de este libro deberás saber inglés.
 {: .notice--info}
@@ -427,7 +427,7 @@ Pero es fácil ver por qué Musk se sentiría atraído por Hughes, que trabajó 
 <p></p>
 </details>
 
-## **[16. La Luna es una Cruel Amante de Robert Heinlein](https://amzn.to/2Kj940x){:target="_blank" rel="nofollow"}**
+## **[16. La Luna es una Cruel Amante de Robert Heinlein](https://amzn.to/2Kj940x){:target="_blank" rel="nofollow,noreferrer"}**
 
 Esta galardonada novela de ciencia ficción, publicada originalmente en 1966, pinta el cuadro de una distopía no muy lejana en el futuro. Es exactamente el tipo de mundo de fantasía vívido que satisfaría una imaginación activa como la de Musk.
 
@@ -446,7 +446,7 @@ En el libro, un grupo de personas ha sido exiliado de la tierra a la luna, donde
 <p>Es la historia de personas dispares, un técnico informático, una vigorosa joven agitadora y una académica de edad avanzada que se convierten en líderes del movimiento, y de Mike, la supercomputadora cuya sensibilidad es conocida solo por el círculo interno de la revuelta, que por razones de el suyo está comprometido con el éxito final de la revolución.</p>
 </details>
 
-## **[17. Cultura de Iain M. Banks](https://amzn.to/3eFHE2S){:target="_blank" rel="nofollow"}**
+## **[17. Cultura de Iain M. Banks](https://amzn.to/3eFHE2S){:target="_blank" rel="nofollow,noreferrer"}**
 
 Curiosa saga de nueva ficción, que no se encuentra en papel. Exclusivamente en nuevos formatos, ósea: Ebooks. La saga se divide en dos partes, y cada una a su vez en varios títulos diferentes.
 
@@ -468,5 +468,5 @@ Los libros cuentan la historia de una futura sociedad semi-anarquista llamada Cu
 <p></p>
 </details>
 
-**Fuentes**\: [Fresh Dialogues](http://www.freshdialogues.com/2013/02/07/transcript-of-elon-musk-interview-with-alison-van-diggelen-iron-man-growing-up-in-south-africa/){:target="_blank" rel="nofollow"}, [Kevin Rose Youtube](https://www.youtube.com/watch?v=L-s_3b5fRd8#t=38), [KCRW](https://www.kcrw.com/culture/articles/can-elon-musk-fix-the-405){:target="_blank" rel="nofollow"}, [Media Bistro](http://www.mediabistro.com/galleycat/the-science-fiction-books-that-inspired-elon-musk_b67209){:target="_blank" rel="nofollow"}, [CNN Youtube](https://www.youtube.com/watch?v=fQQ2xtXPLkU){:target="_blank" rel="nofollow"}, [The Guardian](http://www.theguardian.com/technology/2013/jul/17/elon-musk-mission-mars-spacex){:target="_blank" rel="nofollow"}, [Shitelonsays](http://shitelonsays.com/transcript/elon-musk-at-mits-aeroastro-centennial-part-6-of-6-2014-10-24){:target="_blank" rel="nofollow"}{:target="_blank" rel="nofollow"}
+**Fuentes**\: [Fresh Dialogues](http://www.freshdialogues.com/2013/02/07/transcript-of-elon-musk-interview-with-alison-van-diggelen-iron-man-growing-up-in-south-africa/){:target="_blank" rel="nofollow,noreferrer"}, [Kevin Rose Youtube](https://www.youtube.com/watch?v=L-s_3b5fRd8#t=38), [KCRW](https://www.kcrw.com/culture/articles/can-elon-musk-fix-the-405){:target="_blank" rel="nofollow,noreferrer"}, [Media Bistro](http://www.mediabistro.com/galleycat/the-science-fiction-books-that-inspired-elon-musk_b67209){:target="_blank" rel="nofollow,noreferrer"}, [CNN Youtube](https://www.youtube.com/watch?v=fQQ2xtXPLkU){:target="_blank" rel="nofollow,noreferrer"}, [The Guardian](http://www.theguardian.com/technology/2013/jul/17/elon-musk-mission-mars-spacex){:target="_blank" rel="nofollow,noreferrer"}, [Shitelonsays](http://shitelonsays.com/transcript/elon-musk-at-mits-aeroastro-centennial-part-6-of-6-2014-10-24){:target="_blank" rel="nofollow,noreferrer"}{:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

@@ -27,6 +27,6 @@ tags:
 
 Sheetfu fue creado para interactuar con Google Sheets con una API simple, intuitiva y rápida. El objetivo principal de esta biblioteca es adaptar la API de Google App Script para hojas de cálculo a Python. Con Sheetfu, puede obtener o establecer fácilmente valores de celda, colores de fondo, colores de fuente o cualquier otro atributo de celda.
 
-[👉 Repositorio de Python 🐍](https://pypi.org/project/sheetfu/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[👉 Repositorio de Github: Sheetfu 🐍](https://github.com/socialpoint-labs/sheetfu#sheetfu){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[👉 Repositorio de Python 🐍](https://pypi.org/project/sheetfu/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio de Github: Sheetfu 🐍](https://github.com/socialpoint-labs/sheetfu#sheetfu){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [👉 Aprender Python y Más Librerías 🐍](/python/){: .btn .btn--info .btn--large .align-center}

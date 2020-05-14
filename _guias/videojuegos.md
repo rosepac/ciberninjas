@@ -36,7 +36,7 @@ Los títulos notables hechos con Unreal Engine incluyen la serie Gears of War , 
 
 La fuerza de Unreal Engine es su capacidad de modificarse lo suficiente como para que los juegos puedan convertirse en experiencias muy únicas.
 
-Se dice que la última versión, [Unreal Engine 4](https://www.unrealengine.com/){:target="_blank" rel="nofollow"}, es la más fácil de usar en las herramientas manuales de un profesional. Sin embargo, hay otros motores disponibles que son más fáciles para los nuevos diseñadores.
+Se dice que la última versión, [Unreal Engine 4](https://www.unrealengine.com/){:target="_blank" rel="nofollow,noreferrer"}, es la más fácil de usar en las herramientas manuales de un profesional. Sin embargo, hay otros motores disponibles que son más fáciles para los nuevos diseñadores.
 
 2. Unity
 
@@ -184,27 +184,27 @@ Urho3D también aborda sus limitaciones, incluido el hecho de que necesitará ha
 
 Duktape es un motor Javascript incrustable , con un enfoque en la portabilidad y el tamaño compacto. Duktape es fácil de integrar en un proyecto C / C ++: agregue duktape.c, duktape.hy duk_config.ha su compilación, y use la API de Duktape para llamar a las funciones ECMAScript desde el código C y viceversa.
 
-[👉 Página Oficial](https://duktape.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[👉 Repositorio de Github <i class="fab fa-github"></i>](https://github.com/svaarala/duktape#duktape){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[👉 Descargar <i class="fas fa-download"></i>](https://duktape.org/download.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[👉 Página Oficial](https://duktape.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio de Github <i class="fab fa-github"></i>](https://github.com/svaarala/duktape#duktape){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Descargar <i class="fas fa-download"></i>](https://duktape.org/download.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Moddable
 
-* [Moddable](https://www.moddable.com/){:target="_blank" rel="nofollow"}
+* [Moddable](https://www.moddable.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ### Otros Motores de Javascript
 
-* [Espruino](https://github.com/espruino/Espruino){:target="_blank" rel="nofollow"} (MPL v2.0)
-* [JerryScript](http://jerryscript.net/){:target="_blank" rel="nofollow"} (licencia de Apache v2.0)
-* [MuJS](http://mujs.com/){:target="_blank" rel="nofollow"} (Affero LPG)
-* [Quad Wheel](https://code.google.com/p/quad-wheel/){:target="_blank" rel="nofollow"} (licencia MIT)
-* [QuickJS](https://bellard.org/quickjs/){:target="_blank" rel="nofollow"} (licencia MIT)
-* [Tiny-js](https://github.com/gfwilliams/tiny-js){:target="_blank" rel="nofollow"} (licencia MIT)
-* [v7](https://github.com/cesanta/v7){:target="_blank" rel="nofollow"} (GPL v2.0)
+* [Espruino](https://github.com/espruino/Espruino){:target="_blank" rel="nofollow,noreferrer"} (MPL v2.0)
+* [JerryScript](http://jerryscript.net/){:target="_blank" rel="nofollow,noreferrer"} (licencia de Apache v2.0)
+* [MuJS](http://mujs.com/){:target="_blank" rel="nofollow,noreferrer"} (Affero LPG)
+* [Quad Wheel](https://code.google.com/p/quad-wheel/){:target="_blank" rel="nofollow,noreferrer"} (licencia MIT)
+* [QuickJS](https://bellard.org/quickjs/){:target="_blank" rel="nofollow,noreferrer"} (licencia MIT)
+* [Tiny-js](https://github.com/gfwilliams/tiny-js){:target="_blank" rel="nofollow,noreferrer"} (licencia MIT)
+* [v7](https://github.com/cesanta/v7){:target="_blank" rel="nofollow,noreferrer"} (GPL v2.0)
 
 ## Artículos sobre Motores de Videojuegos
 
-* [Una Década en Retrospectiva y Futuro. Sobre el Motor Godot](https://godotengine.org/article/retrospective-and-future){:target="_blank" rel="nofollow"}
+* [Una Década en Retrospectiva y Futuro. Sobre el Motor Godot](https://godotengine.org/article/retrospective-and-future){:target="_blank" rel="nofollow,noreferrer"}
 
 <!-- 9 herramientas de software de diseño de juegos que deberías usar https://www.gamedesigning.org/career/software/ 15 dic. 2019 - Contenidos: Comience su carrera con un vídeo juego Diseño de grado. Los 10 mejores motores de videojuegos · 5 formas de proteger tu video -->
 <!-- https://news.ycombinator.com/item?id=21931224 -->

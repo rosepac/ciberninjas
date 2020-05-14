@@ -51,4 +51,4 @@ _____
 
 **Fuentes**:
 
-* [WebPageTest](https://www.webpagetest.org/){:target="_blank" rel="nofollow"}
+* [WebPageTest](https://www.webpagetest.org/){:target="_blank" rel="nofollow,noreferrer"}

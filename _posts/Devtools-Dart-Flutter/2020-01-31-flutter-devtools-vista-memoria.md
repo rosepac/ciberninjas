@@ -35,7 +35,7 @@ La creación de perfiles de memoria consta de cuatro partes, cada una de las cua
 - Clases de instantáneas
 - Instancias de clase
 
- **Nota:** **Use el [modo de perfil](https://flutter.dev/docs/testing/build-modes#profile){:target="_blank" rel="nofollow"} cuando ejecute su aplicación para analizar el rendimiento.** El uso de la memoria no es indicativo del rendimiento de la versión a menos que su aplicación se ejecute en modo de perfil. En general, el uso de la memoria es bastante preciso, en términos relativos, entre los modos de depuración, liberación o perfil. El modo de perfil puede mostrar un uso de memoria absoluto más alto porque se crea un aislamiento de servicio para perfilar su aplicación. Este aislamiento no existirá en el modo de lanzamiento. La memoria absoluta utilizada también podría ser mayor en el modo de depuración frente a liberación. En el modo de lanzamiento, el trabajo puede calcularse y optimizarse con anticipación, mientras que en el modo de depuración ese mismo trabajo podría calcularse en tiempo de ejecución, lo que requiere más información.
+ **Nota:** **Use el [modo de perfil](https://flutter.dev/docs/testing/build-modes#profile){:target="_blank" rel="nofollow,noreferrer"} cuando ejecute su aplicación para analizar el rendimiento.** El uso de la memoria no es indicativo del rendimiento de la versión a menos que su aplicación se ejecute en modo de perfil. En general, el uso de la memoria es bastante preciso, en términos relativos, entre los modos de depuración, liberación o perfil. El modo de perfil puede mostrar un uso de memoria absoluto más alto porque se crea un aislamiento de servicio para perfilar su aplicación. Este aislamiento no existirá en el modo de lanzamiento. La memoria absoluta utilizada también podría ser mayor en el modo de depuración frente a liberación. En el modo de lanzamiento, el trabajo puede calcularse y optimizarse con anticipación, mientras que en el modo de depuración ese mismo trabajo podría calcularse en tiempo de ejecución, lo que requiere más información.
  {: .notice--info}
 
 ## Anatomía de la memoria
@@ -74,7 +74,7 @@ Cuando se produjo una acción del usuario (como hacer clic en el botón Instant�
 
 - **Instantánea**
 
-Mostrar una tabla de objetos de memoria activa actuales (consulte [Clases de instantáneas](https://flutter.dev/docs/development/tools/devtools/memory#snapshot-classes){:target="_blank" rel="nofollow"} ).
+Mostrar una tabla de objetos de memoria activa actuales (consulte [Clases de instantáneas](https://flutter.dev/docs/development/tools/devtools/memory#snapshot-classes){:target="_blank" rel="nofollow,noreferrer"} ).
 
 - **Restablecer acumulador**
 
@@ -118,7 +118,7 @@ Capacidad actual del montón.
 
 - **GC**
 
-GC (recolección de basura) ha ocurrido. Para obtener más información sobre cómo Dart realiza la recolección de basura, vea [No tema al recolector de basura](https://medium.com/flutter/flutter-dont-fear-the-garbage-collector-d69b3ff1ca30){:target="_blank" rel="nofollow"}.
+GC (recolección de basura) ha ocurrido. Para obtener más información sobre cómo Dart realiza la recolección de basura, vea [No tema al recolector de basura](https://medium.com/flutter/flutter-dont-fear-the-garbage-collector-d69b3ff1ca30){:target="_blank" rel="nofollow,noreferrer"}.
 
 - **Usado**
 
@@ -126,7 +126,7 @@ Objetos (objetos Dart) en el montón.
 
 - **Externo**
 
-Memoria que no está en el montón de Dart pero que todavía es parte de la huella de memoria total. Los objetos en la memoria externa serían objetos nativos (por ejemplo, de una memoria leída de un archivo o una imagen decodificada). Los objetos nativos se exponen a la máquina virtual Dart desde el sistema operativo nativo (como Android, Linux, Windows, iOS) utilizando un integrador Dart. El insertador crea un contenedor Dart con un finalizador, lo que permite que el código Dart se comunique con estos recursos nativos. Flutter tiene un integrador para Android e iOS. Para obtener más información, consulte [Dart on the Server](https://dart-lang.github.io/server/server.html){:target="_blank" rel="nofollow"} o [Custom Flutter Engine Embedders](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders){:target="_blank" rel="nofollow"}
+Memoria que no está en el montón de Dart pero que todavía es parte de la huella de memoria total. Los objetos en la memoria externa serían objetos nativos (por ejemplo, de una memoria leída de un archivo o una imagen decodificada). Los objetos nativos se exponen a la máquina virtual Dart desde el sistema operativo nativo (como Android, Linux, Windows, iOS) utilizando un integrador Dart. El insertador crea un contenedor Dart con un finalizador, lo que permite que el código Dart se comunique con estos recursos nativos. Flutter tiene un integrador para Android e iOS. Para obtener más información, consulte [Dart on the Server](https://dart-lang.github.io/server/server.html){:target="_blank" rel="nofollow,noreferrer"} o [Custom Flutter Engine Embedders](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders){:target="_blank" rel="nofollow,noreferrer"}
     
 ![Captura de pantalla de la tabla de tamaño de conjunto residente](https://flutter.dev/assets/tools/devtools/memory_rss_chart-3c159500df160cf818ea66fcacc03e6b89098692a9bc4173fa546d29e59baa27.png)
     
@@ -134,7 +134,7 @@ Para ver RSS (tamaño de conjunto residente), haga clic en el nombre del RSS ubi
     
 - El tamaño del conjunto residente muestra la cantidad de memoria para un proceso. No incluye la memoria que se intercambia. Incluye memoria de bibliotecas compartidas que se cargan, así como toda la memoria de pila y montón.
     
-Para obtener más información, vea [Dart VM internos](https://mrale.ph/dartvm/){:target="_blank" rel="nofollow"}.
+Para obtener más información, vea [Dart VM internos](https://mrale.ph/dartvm/){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## Cronología del evento
 
@@ -218,7 +218,7 @@ Los objetos Dart que se asignan dinámicamente viven en una porción de memoria 
 
 - **Aislamientos**
 
-Dart admite la ejecución concurrente a través de aislamientos, que puede pensar en procesos sin la sobrecarga. Cada aislamiento tiene su propia memoria y código que no puede verse afectado por ningún otro aislamiento. Para obtener más información, vea [The Event Loop and Dart](https://dart.dev/articles/archive/event-loop){:target="_blank" rel="nofollow"}.
+Dart admite la ejecución concurrente a través de aislamientos, que puede pensar en procesos sin la sobrecarga. Cada aislamiento tiene su propia memoria y código que no puede verse afectado por ningún otro aislamiento. Para obtener más información, vea [The Event Loop and Dart](https://dart.dev/articles/archive/event-loop){:target="_blank" rel="nofollow,noreferrer"}.
 
 - **Pérdida de memoria**
 
@@ -236,5 +236,5 @@ La máquina virtual Dart es un software que ejecuta directamente el código Dart
 
 [🎓 Cursos en Español](/cursos-tecnologia/#flutter){: .btn .btn--warning .btn--large} [👉 Ejemplos de Aplicaciones](/flutter-aplicaciones-ejemplos/){: .btn .btn--inverse .btn--large} [⚓ Documentación en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large}
 
-**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow"}
+**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow,noreferrer"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

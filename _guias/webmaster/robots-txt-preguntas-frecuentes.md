@@ -72,7 +72,7 @@ Esta es una lista con preguntas frecuentes sobre **acerca de los robots web de l
 	</li>
     <li><a href="/robots-txt-preguntas-frecuentes/#acerca-de-las-etiquetas-meta">Acerca de las etiquetas META</a><details><summary>Ver Más</summary>
   		<ol>
-    		<li><a href="/robots-txt-preguntas-frecuentes/#qué-es-el-atributo-de-enlace-relnofollow">¿Qué es el atributo de enlace rel="nofollow"?</a></li>
+    		<li><a href="/robots-txt-preguntas-frecuentes/#qué-es-el-atributo-de-enlace-relnofollow">¿Qué es el atributo de enlace rel="nofollow,noreferrer"?</a></li>
 		</ol></details>
 	</li>
     <li><a href="/robots-txt-preguntas-frecuentes/#disponibilidad">Disponibilidad</a><details><summary>Ver Más</summary>
@@ -437,7 +437,7 @@ La verdadera respuesta es que /robots.txt no está diseñado para el control de 
 
 ### **Acerca de las etiquetas META**
 
-## **¿Qué es el atributo de enlace rel="nofollow"?**
+## **¿Qué es el atributo de enlace rel="nofollow,noreferrer"?**
 
 Es un atributo que se puede establecer en una etiqueta de enlace HTML, inventada por Google y adoptada por otros. Esos enlaces no obtendrán ningún crédito cuando Google clasifique los sitios web en los resultados de búsqueda, eliminando así el incentivo principal detrás de los robots de spammers de comentarios de blogs.
 <!-- https://www.searchenginewatch.com/ -->

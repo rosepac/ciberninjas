@@ -26,16 +26,16 @@ permalink: /go-recursos/
 -->
 ## Recursos
 
-### [Un recorrido por Go](https://tour.golang.org/){:target="_blank" rel="nofollow"}
+### [Un recorrido por Go](https://tour.golang.org/){:target="_blank" rel="nofollow,noreferrer"}
 
-### [Video: Aprenda la sintaxis Go en un video](http://www.youtube.com/watch?v=CF9S4QZuV30){:target="_blank" rel="nofollow"}
+### [Video: Aprenda la sintaxis Go en un video](http://www.youtube.com/watch?v=CF9S4QZuV30){:target="_blank" rel="nofollow,noreferrer"}
 
-### [Tutoriales: ve con el ejemplo](https://gobyexample.com/){:target="_blank" rel="nofollow"}
+### [Tutoriales: ve con el ejemplo](https://gobyexample.com/){:target="_blank" rel="nofollow,noreferrer"}
 
-### [Entrenamiento en video de Fundamentos](http://shop.oreilly.com/category/learning-path/go-fundamentals.do){:target="_blank" rel="nofollow"}
+### [Entrenamiento en video de Fundamentos](http://shop.oreilly.com/category/learning-path/go-fundamentals.do){:target="_blank" rel="nofollow,noreferrer"}
 
-### [Más libros sobre la marcha Wiki](https://github.com/golang/go/wiki/Books){:target="_blank" rel="nofollow"}
+### [Más libros sobre la marcha Wiki](https://github.com/golang/go/wiki/Books){:target="_blank" rel="nofollow,noreferrer"}
 
-### [Curso TutorialEdge.net](https://tutorialedge.net/course/golang/){:target="_blank" rel="nofollow"}
+### [Curso TutorialEdge.net](https://tutorialedge.net/course/golang/){:target="_blank" rel="nofollow,noreferrer"}
 
-### [Course: Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming){:target="_blank" rel="nofollow"}
+### [Course: Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming){:target="_blank" rel="nofollow,noreferrer"}

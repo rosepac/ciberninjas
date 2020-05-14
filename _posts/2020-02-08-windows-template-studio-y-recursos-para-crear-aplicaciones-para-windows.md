@@ -27,7 +27,7 @@ tags:
 
 Windows Template Studio (WinTS) es una extensión de Visual Studio 2017 y 2019 que acelera la creación de nuevas aplicaciones de la Plataforma universal de Windows (UWP) y Windows Presentation Foundation (WPF) utilizando una experiencia basada en un asistente. El proyecto resultante es un código legible y bien formado que incorpora excelentes características de desarrollo e implementa patrones comprobados y mejores prácticas. Esparcidos por todo el código generado, tenemos enlaces Docs, Stack Overflow y blogs para proporcionar información útil. WinTS admite la creación de aplicaciones en C # o VB.Net.
 
-❗️Las plantillas WPF todavía están en desarrollo y estarán disponibles a partir de la versión 3.6. Puede obtener una vista previa utilizando nuestra versión del Studio en Modo Oscuro. Encuentre más instrucciones sobre [cómo instalar dev-nightly](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/getting-started-extension.md#nightly--pre-release-feeds-for-windows-template -estudio){:target="_blank" rel="nofollow"} ❗️
+❗️Las plantillas WPF todavía están en desarrollo y estarán disponibles a partir de la versión 3.6. Puede obtener una vista previa utilizando nuestra versión del Studio en Modo Oscuro. Encuentre más instrucciones sobre [cómo instalar dev-nightly](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/getting-started-extension.md#nightly--pre-release-feeds-for-windows-template -estudio){:target="_blank" rel="nofollow,noreferrer"} ❗️
 
 ## Caracteristicas
 
@@ -37,15 +37,15 @@ Windows Template Studio se acerca a la creación de aplicaciones UWP y WPF utili
 
 Primero, ¿cómo desea que se comporte la navegación de la interfaz de usuario de su aplicación?
 
-- **UWP** : *[blanco](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/projectTypes/blank.md){:target="_blank" rel="nofollow"}* , *[panel de navegación](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/projectTypes/navigationpane.md){:target="_blank" rel="nofollow"}* , *[panel de exploración horizontal](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/projectTypes/horizontalnavigationpane.md){:target="_blank" rel="nofollow"}* , y una *[barra de menús](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/projectTypes/menubar.md){:target="_blank" rel="nofollow"}* .
-- **WPF** : en *[blanco](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/projectTypes/blank.md){:target="_blank" rel="nofollow"}* , *[panel de navegación](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/projectTypes/navigationpane.md){:target="_blank" rel="nofollow"}* , *[barra de menú](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/projectTypes/menubar.md){:target="_blank" rel="nofollow"}* y una *[cinta de opciones](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/projectTypes/ribbon.md){:target="_blank" rel="nofollow"}* .
+- **UWP** : *[blanco](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/projectTypes/blank.md){:target="_blank" rel="nofollow,noreferrer"}* , *[panel de navegación](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/projectTypes/navigationpane.md){:target="_blank" rel="nofollow,noreferrer"}* , *[panel de exploración horizontal](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/projectTypes/horizontalnavigationpane.md){:target="_blank" rel="nofollow,noreferrer"}* , y una *[barra de menús](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/projectTypes/menubar.md){:target="_blank" rel="nofollow,noreferrer"}* .
+- **WPF** : en *[blanco](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/projectTypes/blank.md){:target="_blank" rel="nofollow,noreferrer"}* , *[panel de navegación](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/projectTypes/navigationpane.md){:target="_blank" rel="nofollow,noreferrer"}* , *[barra de menú](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/projectTypes/menubar.md){:target="_blank" rel="nofollow,noreferrer"}* y una *[cinta de opciones](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/projectTypes/ribbon.md){:target="_blank" rel="nofollow,noreferrer"}* .
 
 ### **Patrón de diseño de la aplicación**
 
 A continuación, ¿qué patrón de codificación desea usar en su proyecto?
 
-- **UWP** : *[Code Behind](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/frameworks/codebehind.md){:target="_blank" rel="nofollow"}* , *[MVVM Basic](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/frameworks/mvvmbasic.md){:target="_blank" rel="nofollow"}* , *[MVVMLight](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/frameworks/mvvmlight.md){:target="_blank" rel="nofollow"}* , *[Caliburn.Micro](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/frameworks/caliburnmicro.md){:target="_blank" rel="nofollow"}* y *[Prism](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/frameworks/prism.md){:target="_blank" rel="nofollow"}* .
-- **WPF** : *[MVVM Basic](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/frameworks/mvvmbasic.md){:target="_blank" rel="nofollow"}* , *[MVVMLight](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/frameworks/mvvmlight.md){:target="_blank" rel="nofollow"}* y *[Prism](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/frameworks/prism.md){:target="_blank" rel="nofollow"}* .
+- **UWP** : *[Code Behind](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/frameworks/codebehind.md){:target="_blank" rel="nofollow,noreferrer"}* , *[MVVM Basic](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/frameworks/mvvmbasic.md){:target="_blank" rel="nofollow,noreferrer"}* , *[MVVMLight](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/frameworks/mvvmlight.md){:target="_blank" rel="nofollow,noreferrer"}* , *[Caliburn.Micro](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/frameworks/caliburnmicro.md){:target="_blank" rel="nofollow,noreferrer"}* y *[Prism](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/frameworks/prism.md){:target="_blank" rel="nofollow,noreferrer"}* .
+- **WPF** : *[MVVM Basic](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/frameworks/mvvmbasic.md){:target="_blank" rel="nofollow,noreferrer"}* , *[MVVMLight](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/frameworks/mvvmlight.md){:target="_blank" rel="nofollow,noreferrer"}* y *[Prism](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/frameworks/prism.md){:target="_blank" rel="nofollow,noreferrer"}* .
 
 ### **Páginas de la aplicación**
 
@@ -57,21 +57,21 @@ Especifique qué capacidades desea usar en su aplicación, y crearemos el framew
 
 ### **Servicios**
 
-Conéctese a los servicios de datos, configure servicios conectados a la nube para su aplicación y aplique las reglas con la extensión [XAML Styler](https://github.com/Xavalon/XamlStyler){:target="_blank" rel="nofollow"}.
+Conéctese a los servicios de datos, configure servicios conectados a la nube para su aplicación y aplique las reglas con la extensión [XAML Styler](https://github.com/Xavalon/XamlStyler){:target="_blank" rel="nofollow,noreferrer"}.
 
 ### **Pruebas automatizadas**
 
 Por último, puede incluir proyectos de prueba para que su aplicación ejecute pruebas unitarias o use la automatización de pruebas de IU tipo Selenium.
 
-Después de seleccionar los elementos deseados en su aplicación, puede extender el código generado en [UWP](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/getting-started-endusers.md){:target="_blank" rel="nofollow"} o [WPF](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/getting-started-endusers.md){:target="_blank" rel="nofollow"}.
+Después de seleccionar los elementos deseados en su aplicación, puede extender el código generado en [UWP](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/getting-started-endusers.md){:target="_blank" rel="nofollow,noreferrer"} o [WPF](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/getting-started-endusers.md){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## Documentación
 
-- [Instalar la extensión](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/getting-started-extension.md){:target="_blank" rel="nofollow"}
-- [Comprender los conceptos centrales](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/concepts.md){:target="_blank" rel="nofollow"}
-- [Usando WinTS para construir aplicaciones para UWP](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/getting-started-endusers.md){:target="_blank" rel="nofollow"}
-- [Usando WinTS para construir aplicaciones WPF](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/getting-started-endusers.md){:target="_blank" rel="nofollow"}
-- [Trabajando en WinTS](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/getting-started-developers.md){:target="_blank" rel="nofollow"}
+- [Instalar la extensión](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/getting-started-extension.md){:target="_blank" rel="nofollow,noreferrer"}
+- [Comprender los conceptos centrales](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/concepts.md){:target="_blank" rel="nofollow,noreferrer"}
+- [Usando WinTS para construir aplicaciones para UWP](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/UWP/getting-started-endusers.md){:target="_blank" rel="nofollow,noreferrer"}
+- [Usando WinTS para construir aplicaciones WPF](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/WPF/getting-started-endusers.md){:target="_blank" rel="nofollow,noreferrer"}
+- [Trabajando en WinTS](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/getting-started-developers.md){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Problemas conocidos
 
@@ -79,11 +79,11 @@ Después de seleccionar los elementos deseados en su aplicación, puede extender
 
 ## Comentarios, solicitudes y hoja de ruta
 
-Utilice los [problemas de GitHub](https://github.com/Microsoft/WindowsTemplateStudio/issues){:target="_blank" rel="nofollow"} para comentarios, preguntas o comentarios.
+Utilice los [problemas de GitHub](https://github.com/Microsoft/WindowsTemplateStudio/issues){:target="_blank" rel="nofollow,noreferrer"} para comentarios, preguntas o comentarios.
 
-Si tiene solicitudes de funciones específicas o desea votar sobre lo que otros recomiendan, vaya a la sección de [problemas de GitHub](https://github.com/Microsoft/WindowsTemplateStudio/issues){:target="_blank" rel="nofollow"} también. Nos encantaría ver lo que estás pensando.
+Si tiene solicitudes de funciones específicas o desea votar sobre lo que otros recomiendan, vaya a la sección de [problemas de GitHub](https://github.com/Microsoft/WindowsTemplateStudio/issues){:target="_blank" rel="nofollow,noreferrer"} también. Nos encantaría ver lo que estás pensando.
 
-Esto es lo que estamos pensando actualmente en nuestra [hoja de ruta](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/roadmap.md){:target="_blank" rel="nofollow"}.
+Esto es lo que estamos pensando actualmente en nuestra [hoja de ruta](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/roadmap.md){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## Principios
 
@@ -94,27 +94,27 @@ Esto es lo que estamos pensando actualmente en nuestra [hoja de ruta](https://gi
 5. Las plantillas deben tener comentarios para ayudar a los desarrolladores. Esto incluye enlaces a páginas de registro para claves, MSDN, blogs y procedimientos. Toda la orientación proporcionada debe validarse desde el creador del framework / SDK / biblioteca.
 6. Todas las funciones de UWP serán compatibles con las dos actualizaciones más recientes de RTM de Windows 10. Esas versiones compatibles son Windows 10 November 2019 Update (versión 1909) y Windows 10 May 2019 Update (versión 1903).
 7. Las plantillas lanzadas en producción intentarán adherirse al lenguaje de diseño utilizado en la versión actual de Windows 10.
-8. El código debe seguir el [estilo de codificación de .NET Core](https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md){:target="_blank" rel="nofollow"}.
+8. El código debe seguir el [estilo de codificación de .NET Core](https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md){:target="_blank" rel="nofollow,noreferrer"}.
 
-Este proyecto ha adoptado el código de conducta definido por el Pacto Colaborador para aclarar el comportamiento esperado en nuestra comunidad. Para obtener más información, consulte el [Código de conducta de .NET Foundation](https://dotnetfoundation.org/code-of-conduct){:target="_blank" rel="nofollow"}.
+Este proyecto ha adoptado el código de conducta definido por el Pacto Colaborador para aclarar el comportamiento esperado en nuestra comunidad. Para obtener más información, consulte el [Código de conducta de .NET Foundation](https://dotnetfoundation.org/code-of-conduct){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## Fundación .NET
 
-Este proyecto es apoyado por la [Fundación .NET](https://dotnetfoundation.org/){:target="_blank" rel="nofollow"}.
+Este proyecto es apoyado por la [Fundación .NET](https://dotnetfoundation.org/){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## Proyectos que nos gustan y colaboramos
 
-- [Web Template Studio](https://github.com/Microsoft/WebTemplateStudio){:target="_blank" rel="nofollow"}
-- [Kit de herramientas rápido de Xaml](https://github.com/Microsoft/Rapid-XAML-Toolkit){:target="_blank" rel="nofollow"}
-- [Kit de herramientas de la comunidad de Windows](https://github.com/Microsoft/WindowsCommunityToolkit){:target="_blank" rel="nofollow"}
-- [Editor de temas XAML fluido](https://github.com/Microsoft/fluent-xaml-theme-editor){:target="_blank" rel="nofollow"}
-- [XAML Styler](https://github.com/Xavalon/XamlStyler){:target="_blank" rel="nofollow"}
+- [Web Template Studio](https://github.com/Microsoft/WebTemplateStudio){:target="_blank" rel="nofollow,noreferrer"}
+- [Kit de herramientas rápido de Xaml](https://github.com/Microsoft/Rapid-XAML-Toolkit){:target="_blank" rel="nofollow,noreferrer"}
+- [Kit de herramientas de la comunidad de Windows](https://github.com/Microsoft/WindowsCommunityToolkit){:target="_blank" rel="nofollow,noreferrer"}
+- [Editor de temas XAML fluido](https://github.com/Microsoft/fluent-xaml-theme-editor){:target="_blank" rel="nofollow,noreferrer"}
+- [XAML Styler](https://github.com/Xavalon/XamlStyler){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Marcos y bibliotecas en código generado no creado por nuestro equipo
 
 ### Frameworks
 
-## [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro){:target="_blank" rel="nofollow"}
+## [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro){:target="_blank" rel="nofollow,noreferrer"}
 
 ![Captura de pantalla de la página de Caliburn Micro](/assets/images/blog/caliburn-micro-captura.webp "Captura de pantalla de la página de Caliburn Micro")
 
@@ -129,11 +129,11 @@ Un framework pequeño pero potente, diseñado para crear aplicaciones en todas l
 
 ### Cómo empezar con Caliburn Micro
 
-La forma más rápida de comenzar es bajar el último paquete de [Nuget](https://www.nuget.org/packages/Caliburn.Micro){:target="_blank" rel="nofollow"} y explorar la [documentación](https://caliburnmicro.com/documentation){:target="_blank" rel="nofollow"}. Si tiene problemas, consulte nuestra sección de [soporte](https://caliburnmicro.com/support){:target="_blank" rel="nofollow"}
+La forma más rápida de comenzar es bajar el último paquete de [Nuget](https://www.nuget.org/packages/Caliburn.Micro){:target="_blank" rel="nofollow,noreferrer"} y explorar la [documentación](https://caliburnmicro.com/documentation){:target="_blank" rel="nofollow,noreferrer"}. Si tiene problemas, consulte nuestra sección de [soporte](https://caliburnmicro.com/support){:target="_blank" rel="nofollow,noreferrer"}
 
-[📖 Página de Caliburn Micro](https://caliburnmicro.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[📖 Página de Caliburn Micro](https://caliburnmicro.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## [MVVMLight](https://github.com/lbugnion/mvvmlight){:target="_blank" rel="nofollow"}
+## [MVVMLight](https://github.com/lbugnion/mvvmlight){:target="_blank" rel="nofollow,noreferrer"}
 
 ![MVVM Light](/assets/images/blog/mvvm-light-toolkit.webp "Captura de la página de pantalla MVVM Light")
 
@@ -148,12 +148,12 @@ Este kit de herramientas pone un énfasis especial en la capacidad de designaci�
 
 ### Instalación
 
-Aquí [se describe el](http://www.mvvmlight.net/installing/){:target="_blank" rel="nofollow"} procedimiento de instalación de MVVM Light Toolkit (para el paquete completo) . Para crear una nueva aplicación MVVM Light, [consulte este artículo](http://www.mvvmlight.net/creating/){:target="_blank" rel="nofollow"}. Si prefiere usar Nuget para agregar MVVM Light a una aplicación existente, [consulte esta página](http://www.mvvmlight.net/installing/nuget/){:target="_blank" rel="nofollow"}. Para ver las últimas notas de la versión, [consulte esta página](http://www.mvvmlight.net/installing/changes){:target="_blank" rel="nofollow"}.
+Aquí [se describe el](http://www.mvvmlight.net/installing/){:target="_blank" rel="nofollow,noreferrer"} procedimiento de instalación de MVVM Light Toolkit (para el paquete completo) . Para crear una nueva aplicación MVVM Light, [consulte este artículo](http://www.mvvmlight.net/creating/){:target="_blank" rel="nofollow,noreferrer"}. Si prefiere usar Nuget para agregar MVVM Light a una aplicación existente, [consulte esta página](http://www.mvvmlight.net/installing/nuget/){:target="_blank" rel="nofollow,noreferrer"}. Para ver las últimas notas de la versión, [consulte esta página](http://www.mvvmlight.net/installing/changes){:target="_blank" rel="nofollow,noreferrer"}.
 
-[📖 Página de MVVM](http://www.mvvmlight.net/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[📖 Documentación de MVVM](http://www.mvvmlight.net/doc/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[📖 Página de MVVM](http://www.mvvmlight.net/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[📖 Documentación de MVVM](http://www.mvvmlight.net/doc/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## [Prism](https://github.com/PrismLibrary/Prism){:target="_blank" rel="nofollow"}
+## [Prism](https://github.com/PrismLibrary/Prism){:target="_blank" rel="nofollow,noreferrer"}
 
 ![]()
 
@@ -165,37 +165,37 @@ Prism 7 es una versión de código abierto de la guía Prism producida originalm
 
 ### Bibliotecas
 
-## [Microsoft AppCenter SDK](https://github.com/Microsoft/AppCenter-SDK-DotNet){:target="_blank" rel="nofollow"}
+## [Microsoft AppCenter SDK](https://github.com/Microsoft/AppCenter-SDK-DotNet){:target="_blank" rel="nofollow,noreferrer"}
 
 Repositorio de desarrollo para App Center SDK para plataformas .NET, incluido Xamarin. App Center es su solución de integración, entrega y aprendizaje continuo para aplicaciones iOS, Android y Windows. Obtenga ciclos de lanzamiento más rápidos, aplicaciones de mayor calidad y las ideas para crear lo que los usuarios desean.
 
 App Center SDK usa una arquitectura modular para que pueda usar cualquiera o todos los siguientes servicios: App Center Analytics, App Center Crashes, App Center Distribute y App Center Push.
 
-## [SDK de servicios de Microsoft Store](https://marketplace.visualstudio.com/items?itemName=AdMediator.MicrosoftStoreServicesSDK){:target="_blank" rel="nofollow"}
+## [SDK de servicios de Microsoft Store](https://marketplace.visualstudio.com/items?itemName=AdMediator.MicrosoftStoreServicesSDK){:target="_blank" rel="nofollow,noreferrer"}
 
 Use el SDK de Microsoft Store Services para agregar funciones a sus aplicaciones de la Plataforma universal de Windows (UWP) que lo ayuden a interactuar con sus clientes. Todas las API de este SDK son exclusivas de las aplicaciones UWP para Windows 10. La versión actual del SDK incluye API para las siguientes funciones:
 
-• [Cree pruebas A / B](https://msdn.microsoft.com/windows/uwp/monetize/run-app-experiments-with-a-b-testing){:target="_blank" rel="nofollow"} que pueda ejecutar y administrar en Dev Center.
-• [Inicie Feedback Hub](https://msdn.microsoft.com/windows/uwp/monetize/launch-feedback-hub-from-your-app){:target="_blank" rel="nofollow"} para que los clientes puedan enviar comentarios y votos a favor que usted pueda revisar en Dev Center.
-• [Envíe notificaciones push específicas](https://msdn.microsoft.com/windows/uwp/publish/send-push-notifications-to-your-apps-customers){:target="_blank" rel="nofollow"} a sus clientes desde Dev Center.
+• [Cree pruebas A / B](https://msdn.microsoft.com/windows/uwp/monetize/run-app-experiments-with-a-b-testing){:target="_blank" rel="nofollow,noreferrer"} que pueda ejecutar y administrar en Dev Center.
+• [Inicie Feedback Hub](https://msdn.microsoft.com/windows/uwp/monetize/launch-feedback-hub-from-your-app){:target="_blank" rel="nofollow,noreferrer"} para que los clientes puedan enviar comentarios y votos a favor que usted pueda revisar en Dev Center.
+• [Envíe notificaciones push específicas](https://msdn.microsoft.com/windows/uwp/publish/send-push-notifications-to-your-apps-customers){:target="_blank" rel="nofollow,noreferrer"} a sus clientes desde Dev Center.
 
-Para obtener más información sobre el uso de este SDK, [consulte la documentación](https://msdn.microsoft.com/windows/uwp/monetize/monetize-your-app-with-the-microsoft-store-engagement-and-monetization-sdk){:target="_blank" rel="nofollow"}. Para preguntas y respuestas, y discusiones generales sobre las API, consulte el [foro del marco de trabajo en MSDN](https://aka.ms/store-efw-forum){:target="_blank" rel="nofollow"}.
+Para obtener más información sobre el uso de este SDK, [consulte la documentación](https://msdn.microsoft.com/windows/uwp/monetize/monetize-your-app-with-the-microsoft-store-engagement-and-monetization-sdk){:target="_blank" rel="nofollow,noreferrer"}. Para preguntas y respuestas, y discusiones generales sobre las API, consulte el [foro del marco de trabajo en MSDN](https://aka.ms/store-efw-forum){:target="_blank" rel="nofollow,noreferrer"}.
 
-## [Microsoft Win2D](https://github.com/Microsoft/Win2D){:target="_blank" rel="nofollow"}
+## [Microsoft Win2D](https://github.com/Microsoft/Win2D){:target="_blank" rel="nofollow,noreferrer"}
 
 Win2D es una API de Windows Runtime fácil de usar para el procesamiento de gráficos 2D en modo inmediato con aceleración de GPU. Está disponible para desarrolladores de C #, C ++ y VB que escriben aplicaciones para la Plataforma Universal de Windows (UWP). Utiliza el poder de Direct2D y se integra a la perfección con XAML y CoreWindow.
 
 ### Donde conseguirlo
 
-- [Paquete NuGet](http://www.nuget.org/packages/Win2D.uwp){:target="_blank" rel="nofollow"}
-- [Código fuente](http://github.com/Microsoft/Win2D){:target="_blank" rel="nofollow"}
+- [Paquete NuGet](http://www.nuget.org/packages/Win2D.uwp){:target="_blank" rel="nofollow,noreferrer"}
+- [Código fuente](http://github.com/Microsoft/Win2D){:target="_blank" rel="nofollow,noreferrer"}
 
 ### Cómo usarlo
 
-- [Documentación](http://microsoft.github.io/Win2D){:target="_blank" rel="nofollow"}
-- [Código de muestra](http://github.com/Microsoft/Win2D-samples){:target="_blank" rel="nofollow"} : *también disponible en la [tienda](https://www.microsoft.com/store/apps/9NBLGGGXWT9F){:target="_blank" rel="nofollow"}*
+- [Documentación](http://microsoft.github.io/Win2D){:target="_blank" rel="nofollow,noreferrer"}
+- [Código de muestra](http://github.com/Microsoft/Win2D-samples){:target="_blank" rel="nofollow,noreferrer"} : *también disponible en la [tienda](https://www.microsoft.com/store/apps/9NBLGGGXWT9F){:target="_blank" rel="nofollow,noreferrer"}*
 
-## [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json){:target="_blank" rel="nofollow"}
+## [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json){:target="_blank" rel="nofollow,noreferrer"}
 
 ![Json NET framework de alto rendimiento popular para NET](/assets/images/blog/json-net-captura-ciberninjas.webp "Json NET framework de alto rendimiento popular para NET")
 
@@ -205,19 +205,19 @@ Win2D es una API de Windows Runtime fácil de usar para el procesamiento de grá
 * Alto rendimiento: 50% más rápido que DataContractJsonSerializer y 250% más rápido que JavaScriptSerializer.
 * Fácil de usar: Json.NET hace que lo simple sea fácil y lo complejo posible.
 * Soporte XML: Si lo necesita, Json.NET admite la conversión entre XML y JSON.
-* Código abierto: Json.NET es un software de código abierto y es completamente [gratuito para uso comercial](https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md){:target="_blank" rel="nofollow"}.
+* Código abierto: Json.NET es un software de código abierto y es completamente [gratuito para uso comercial](https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md){:target="_blank" rel="nofollow,noreferrer"}.
 
 * [Página principal](https://www.newtonsoft.com/json)
 * [Documentación](https://www.newtonsoft.com/json/help)
 * [Paquete NuGet](https://www.nuget.org/packages/Newtonsoft.Json)
 
-## [Telerik UI para UWP](https://github.com/telerik/UI-For-UWP){:target="_blank" rel="nofollow"}
+## [Telerik UI para UWP](https://github.com/telerik/UI-For-UWP){:target="_blank" rel="nofollow,noreferrer"}
 
 ![Framework Telerik ui para uwp](../assets/images/blog/telerik-ui-uwp.webp "Framework Telerik ui para uwp")
 
-Esta es una versión de código abierto de Telerik UI para Universal Windows Platform (UWP) de Progress. El proyecto es apoyado por la comunidad en [Stack Overflow](https://stackoverflow.com/questions/tagged/telerik+uwp){:target="_blank" rel="nofollow"}. El soporte comercial está disponible en [telerik.com/uwp](http://www.telerik.com/uwp){:target="_blank" rel="nofollow"} donde encontrará una prueba comercial compatible y opciones de precios. Visite [telerik.com](http://www.telerik.com/){:target="_blank" rel="nofollow"} para obtener herramientas de interfaz de usuario para ASP.NET, WPF, WinForms o JavaScript.
+Esta es una versión de código abierto de Telerik UI para Universal Windows Platform (UWP) de Progress. El proyecto es apoyado por la comunidad en [Stack Overflow](https://stackoverflow.com/questions/tagged/telerik+uwp){:target="_blank" rel="nofollow,noreferrer"}. El soporte comercial está disponible en [telerik.com/uwp](http://www.telerik.com/uwp){:target="_blank" rel="nofollow,noreferrer"} donde encontrará una prueba comercial compatible y opciones de precios. Visite [telerik.com](http://www.telerik.com/){:target="_blank" rel="nofollow,noreferrer"} para obtener herramientas de interfaz de usuario para ASP.NET, WPF, WinForms o JavaScript.
 
-## [Mensajería de Windows Azure administrada](https://www.nuget.org/packages/WindowsAzure.Messaging.Managed){:target="_blank" rel="nofollow"}
+## [Mensajería de Windows Azure administrada](https://www.nuget.org/packages/WindowsAzure.Messaging.Managed){:target="_blank" rel="nofollow,noreferrer"}
 
 Úselo con el registro del cliente de Windows Azure Service Bus y Notification Hubs (para aplicaciones de la Tienda Windows y Windows Phone 8). Agrega Microsoft.WindowsAzure.Messaging.Managed.dll a su proyecto.
 
@@ -225,7 +225,7 @@ Este paquete es para desarrollar aplicaciones de Windows Store y Windows Phone 8
 
 * web del paquete de nuget: https://www.nuget.org/packages/WindowsAzure.Messaging.Managed
 
-## [Kit de herramientas de la comunidad de Windows](https://github.com/Microsoft/WindowsCommunityToolkit){:target="_blank" rel="nofollow"}
+## [Kit de herramientas de la comunidad de Windows](https://github.com/Microsoft/WindowsCommunityToolkit){:target="_blank" rel="nofollow,noreferrer"}
 
 Windows Community Toolkit es una colección de funciones auxiliares, controles personalizados y servicios de aplicaciones. Simplifica y demuestra patrones comunes de desarrollador al crear experiencias para Windows 10.
 
@@ -233,7 +233,7 @@ Toda la documentación para el kit de herramientas está alojada en [Microsoft D
 
 ## Licencia
 
-Este código se distribuye bajo los términos y condiciones de la [licencia MIT](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/LICENSE.md){:target="_blank" rel="nofollow"}.
+Este código se distribuye bajo los términos y condiciones de la [licencia MIT](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/LICENSE.md){:target="_blank" rel="nofollow,noreferrer"}.
 
-**Fuente**\: [Github](https://github.com/Microsoft/WindowsTemplateStudio/ "Repositorio de Github de Windows Template Studio"){:target="_blank" rel="nofollow"}
+**Fuente**\: [Github](https://github.com/Microsoft/WindowsTemplateStudio/ "Repositorio de Github de Windows Template Studio"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

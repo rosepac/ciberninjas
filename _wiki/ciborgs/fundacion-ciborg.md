@@ -39,15 +39,15 @@ En 2016, junto con el investigador y activista electrónico de derechos civiles 
 
 ## Enlaces Externos
 
-- [Sitio web de la Fundación Cyborg](http://www.cyborgfoundation.com/){:target="_blank" rel="nofollow"}
-- [TED Global: "Escuchando a Picasso"](http://blog.ted.com/2012/06/27/listening-to-picasso-neil-harbisson-at-tedglobal2012){:target="_blank" rel="nofollow"}
-- [La Vanguardia: "Nace una fundación convertida a convertir humanos en ciborgs"](http://www.lavanguardia.es/vida/20110301/54121537968/nace-una-fundacion-dedicada-a-convertir-humanos-en-ciborgs.html){:target="_blank" rel="nofollow"}
-- [The New York Times: "Un implante quirúrgico para ver los colores a través del sonido"](http://bits.blogs.nytimes.com/2012/07/02/a-surgical-implant-for-seeing-colors-through-sound){:target="_blank" rel="nofollow"}
-- [Fundación Cyborg Rafel Duran Torrent](http://www.focusforwardfilms.com/contest/13/cyborg-foundation-rafel-duran-torrent){:target="_blank" rel="nofollow"}
-- [Guia de Fundacion](https://www.foundationguide.org/foundations-trust/the-cyborg-foundation/){:target="_blank" rel="nofollow"}
+- [Sitio web de la Fundación Cyborg](http://www.cyborgfoundation.com/){:target="_blank" rel="nofollow,noreferrer"}
+- [TED Global: "Escuchando a Picasso"](http://blog.ted.com/2012/06/27/listening-to-picasso-neil-harbisson-at-tedglobal2012){:target="_blank" rel="nofollow,noreferrer"}
+- [La Vanguardia: "Nace una fundación convertida a convertir humanos en ciborgs"](http://www.lavanguardia.es/vida/20110301/54121537968/nace-una-fundacion-dedicada-a-convertir-humanos-en-ciborgs.html){:target="_blank" rel="nofollow,noreferrer"}
+- [The New York Times: "Un implante quirúrgico para ver los colores a través del sonido"](http://bits.blogs.nytimes.com/2012/07/02/a-surgical-implant-for-seeing-colors-through-sound){:target="_blank" rel="nofollow,noreferrer"}
+- [Fundación Cyborg Rafel Duran Torrent](http://www.focusforwardfilms.com/contest/13/cyborg-foundation-rafel-duran-torrent){:target="_blank" rel="nofollow,noreferrer"}
+- [Guia de Fundacion](https://www.foundationguide.org/foundations-trust/the-cyborg-foundation/){:target="_blank" rel="nofollow,noreferrer"}
 
 **Categorías**: [Cambio Tecnológico](/wiki/categoria/cambio-tecnologico)
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Fundación Cíborg](https://en.wikipedia.org/wiki/cyborg_Foundation){:target="_blank" rel="nofollow"} de la Wikipedia en inglés, versión del 24 de Mayo de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=cyborg_Foundation&action=history){:target="_blank" rel="nofollow"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow"}.
+**INF.**: Esta obra contiene una traducción total derivada de [Fundación Cíborg](https://en.wikipedia.org/wiki/cyborg_Foundation){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 24 de Mayo de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=cyborg_Foundation&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.
 {: .notice--info}

@@ -39,7 +39,7 @@ published: false
 </details>
 <br />
 
-**🔥 Seguro también te interesa**: [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank" rel="nofollow"} >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+**🔥 Seguro también te interesa**: [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank" rel="nofollow,noreferrer"} >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
 ## 
@@ -54,7 +54,7 @@ published: false
 
 Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.org/wiki/Apache_License "Licencia Apache 2.0")**.
 
-**Fuente**\: []( ""){:target="_blank" rel="nofollow"}
+**Fuente**\: []( ""){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)

@@ -81,4 +81,4 @@ _____
 
 **Fuentes**:
 
-* [Google Help](https://support.google.com/android/?hl=es){:target="_blank" rel="nofollow"}
+* [Google Help](https://support.google.com/android/?hl=es){:target="_blank" rel="nofollow,noreferrer"}

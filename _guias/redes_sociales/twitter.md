@@ -25,25 +25,25 @@ toc_sticky: true
 
 ## Análisis
 
-* [Cómo buscar listas de Twitter en Google en una sola línea](https://www.mmadrigal.com/como-buscar-listas-de-twitter-en-google-en-una-sola-linea/){:target="_blank" rel="nofollow"}
-* [Guía: Análisis de redes de Twitter con Gephi 0.9.1](Guía: Análisis de redes de Twitter con Gephi 0.9.1){:target="_blank" rel="nofollow"}
-* [Cómo se usan los emojis en Twitter](https://emoji.enricmor.eu/){:target="_blank" rel="nofollow"}
+* [Cómo buscar listas de Twitter en Google en una sola línea](https://www.mmadrigal.com/como-buscar-listas-de-twitter-en-google-en-una-sola-linea/){:target="_blank" rel="nofollow,noreferrer"}
+* [Guía: Análisis de redes de Twitter con Gephi 0.9.1](Guía: Análisis de redes de Twitter con Gephi 0.9.1){:target="_blank" rel="nofollow,noreferrer"}
+* [Cómo se usan los emojis en Twitter](https://emoji.enricmor.eu/){:target="_blank" rel="nofollow,noreferrer"}
 
 <!-- Agregar Más Enlaces de Marcelono Madrigal -->
 
 ## Desarrollo
 
-* [Cómo incrustar cualquier contenido de Twitter en tu Página Web](https://publish.twitter.com/#){:target="_blank" rel="nofollow"}
-* [Cómo incrustar una línea de tiempo](https://help.twitter.com/en/using-twitter/embed-twitter-feed){:target="_blank" rel="nofollow"}
-* [Guías de Incrustación](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview){:target="_blank" rel="nofollow"}
+* [Cómo incrustar cualquier contenido de Twitter en tu Página Web](https://publish.twitter.com/#){:target="_blank" rel="nofollow,noreferrer"}
+* [Cómo incrustar una línea de tiempo](https://help.twitter.com/en/using-twitter/embed-twitter-feed){:target="_blank" rel="nofollow,noreferrer"}
+* [Guías de Incrustación](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview){:target="_blank" rel="nofollow,noreferrer"}
 
 ### Clientes de Twitter
 
-## [Cawbird](https://github.com/IBBoard/cawbird#cawbird-104){:target="_blank" rel="nofollow"}
+## [Cawbird](https://github.com/IBBoard/cawbird#cawbird-104){:target="_blank" rel="nofollow,noreferrer"}
 
 Solamente para Linux.
 
 ## Herramientas
 
-* [Gephi - Análisis de Twitter](https://gephi.org/){:target="_blank" rel="nofollow"}
-* [Recopilación de Tweets](https://guides.libraries.psu.edu/c.php?g=796631&p=5698003){:target="_blank" rel="nofollow"}
+* [Gephi - Análisis de Twitter](https://gephi.org/){:target="_blank" rel="nofollow,noreferrer"}
+* [Recopilación de Tweets](https://guides.libraries.psu.edu/c.php?g=796631&p=5698003){:target="_blank" rel="nofollow,noreferrer"}

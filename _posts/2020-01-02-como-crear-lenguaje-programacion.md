@@ -29,10 +29,10 @@ A partir de main(), creará un lenguaje que presenta una sintaxis rica, tipeo di
 
 Puedes leer todo el libro, gratis, en línea.. Si esta publicando un capítulo cada poco tiempo, si deseas recibir las actualizaciones debes suscribirte a la lista de correo que encontrarás en la portada del libro en la página html siguiente..
 
-[👉 Leer Libro 😺](http://craftinginterpreters.com/contents.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[👉 Leer Libro 😺](http://craftinginterpreters.com/contents.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 _____
 
 **Fuentes**:
-* [Crafting Intérpretes](http://craftinginterpreters.com/){:target="_blank" rel="nofollow"}
+* [Crafting Intérpretes](http://craftinginterpreters.com/){:target="_blank" rel="nofollow,noreferrer"}
 

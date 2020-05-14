@@ -102,7 +102,7 @@ Entonces, en lugar de dejar que los temores de "qué pasaría si" o "no soy lo s
 
 Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.org/wiki/Apache_License "Licencia Apache 2.0")**.
 
-**Fuente**\: [Medium](https://medium.com/@melissachu/7-reasons-why-smart-hardworking-people-dont-become-successful-d4d3b6119cbc ""){:target="_blank" rel="nofollow"} po [Melissa Chu](https://medium.com/@melissachu)
+**Fuente**\: [Medium](https://medium.com/@melissachu/7-reasons-why-smart-hardworking-people-dont-become-successful-d4d3b6119cbc ""){:target="_blank" rel="nofollow,noreferrer"} po [Melissa Chu](https://medium.com/@melissachu)
 {: .notice--info}
 
 ## Relacionados

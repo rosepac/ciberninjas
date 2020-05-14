@@ -45,33 +45,33 @@ Esta es una pequeña recopilación de las mejores páginas web en las que encont
 ## Páginas de Videojuegos Gratis 🎁
 
 Las mejores páginas web del mundo en las que vas a poder encontrar tanto los videojuegos que siempre son totalmente gratuitos; como así, las mejores promociones de juegos gratuitos periódicamente.
-* [Steem Videojuegos Gratis](https://kutt.it/videojuegos-gratis-steem){:target="_blank" rel="nofollow"} 87 Juegos
-* [Epic Games Videojuegos Gratis](https://kutt.it/videojuegos-gratis){:target="_blank" rel="nofollow"}
-* [GOG Videojuegos Gratis](https://kutt.it/videojuegos-gratis-gog){:target="_blank" rel="nofollow"}
-* [Indie Gala Juegos Gratis](https://kutt.it/videojuegos-gratis-indie-gala){:target="_blank" rel="nofollow"}: Se actualizan con frecuencia \ Actualmente: Die Young, The Fan, Waste Walker, Super Panda, Jasem Puzzle.
+* [Steem Videojuegos Gratis](https://kutt.it/videojuegos-gratis-steem){:target="_blank" rel="nofollow,noreferrer"} 87 Juegos
+* [Epic Games Videojuegos Gratis](https://kutt.it/videojuegos-gratis){:target="_blank" rel="nofollow,noreferrer"}
+* [GOG Videojuegos Gratis](https://kutt.it/videojuegos-gratis-gog){:target="_blank" rel="nofollow,noreferrer"}
+* [Indie Gala Juegos Gratis](https://kutt.it/videojuegos-gratis-indie-gala){:target="_blank" rel="nofollow,noreferrer"}: Se actualizan con frecuencia \ Actualmente: Die Young, The Fan, Waste Walker, Super Panda, Jasem Puzzle.
 * [Itch io](https://kutt.it/itch-videojuegos-alternativos-gratis) \ 
-* Reddit \ [FreeGameFindings](https://kutt.it/vg-reddit-1){:target="_blank" rel="nofollow"} \ [Free Games](https://kutt.it/vg-reddit-2){:target="_blank" rel="nofollow"} 
+* Reddit \ [FreeGameFindings](https://kutt.it/vg-reddit-1){:target="_blank" rel="nofollow,noreferrer"} \ [Free Games](https://kutt.it/vg-reddit-2){:target="_blank" rel="nofollow,noreferrer"} 
 
 ## Juegos Gratis para PC y Móviles 📲
 
-* Aplicaciones Android para Buscar APPS Gratis \ [Apps Free](https://play.google.com/store/apps/details?id=com.appsfree.android&hl=es_419){:target="_blank" rel="nofollow"} \ [App Sales](https://play.google.com/store/apps/details?id=net.tsapps.appsales){:target="_blank" rel="nofollow"}
-* [Boot de Twitter de Videojuegos Gratis](https://twitter.com/FreeGames_BOT){:target="_blank" rel="nofollow"}
+* Aplicaciones Android para Buscar APPS Gratis \ [Apps Free](https://play.google.com/store/apps/details?id=com.appsfree.android&hl=es_419){:target="_blank" rel="nofollow,noreferrer"} \ [App Sales](https://play.google.com/store/apps/details?id=net.tsapps.appsales){:target="_blank" rel="nofollow,noreferrer"}
+* [Boot de Twitter de Videojuegos Gratis](https://twitter.com/FreeGames_BOT){:target="_blank" rel="nofollow,noreferrer"}
 <!-- Actualizar https://www.fanbyte.com/trending/epic-games-store-free-games-list/ -->
 
 Juegos y Aplicaciones de Android. Actualmente: College Days, Zombie Age 3 PRemium, Slime Pang.. Starman in space
 
-[📲 JUEGOS DE ANDROID GRATIS A DIARIO 📲](https://android.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[📲 JUEGOS DE ANDROID GRATIS A DIARIO 📲](https://android.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Juegos y aplicaciones de Iphone. Actualmente: spinny Monster, NewfyMoji, Cross Section Engineer, Drop Flop!, A Florist, Shopkins..
 
-[📲 JUEGOS DE IPHONE GRATIS A DIARIO 📲](https://iphone.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[📲 JUEGOS DE IPHONE GRATIS A DIARIO 📲](https://iphone.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Más Páginas 🙀
 
-* [IntercambiosVirtuales](http://www.intercambiosvirtuales.org/category/juegos){:target="_blank" rel="nofollow"}
-* [PiviGames](https://pivigames.blog/){:target="_blank" rel="nofollow"}
+* [IntercambiosVirtuales](http://www.intercambiosvirtuales.org/category/juegos){:target="_blank" rel="nofollow,noreferrer"}
+* [PiviGames](https://pivigames.blog/){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -87,7 +87,7 @@ Epic Games tiene 2 videojuegos totalment gratis hasta el día 27 de Febrero: Fae
 
 ![Kingdom Come y Aztez. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games](https://i.ibb.co/vZpj3FV/image.png "Faeria y Assasin Creed Syndicate Gratuitos. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games")
 
-[🎮 DESCARGALOS 🎮](https://kutt.it/videojuegos-gratis){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 DESCARGALOS 🎮](https://kutt.it/videojuegos-gratis){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Otros Juegos Gratis de Epic Games
 
@@ -100,7 +100,7 @@ Además Epic Games suele tener otros juegos gratuitos de forma constante, ahora 
 
 ![](https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_1600/ru3bc7c3xrarc0xovpht.jpg)
 
-[🎮 DESCARGA AUTOCHESS 🎮](https://www.epicgames.com/store/es-ES/product/auto-chess/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 DESCARGA AUTOCHESS 🎮](https://www.epicgames.com/store/es-ES/product/auto-chess/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Battle Breakers
 
@@ -108,7 +108,7 @@ Además Epic Games suele tener otros juegos gratuitos de forma constante, ahora 
 
 Battle Breakers es un juego de rol táctico. El título tuvo un lanzamiento suave en países seleccionados en 2017. Ahora el juego es gratuito para todos. El juego se basa en que unos monstruos del espacio han atrapado a los héroes más grandes del mundo en cristal tecnológico, ¡y los héroes de Save The World están listos para unirse a la lucha!
 
-[🎮 DESCARGA BATTLE BREAKERS 🎮](https://www.epicgames.com/battlebreakers/es-ES/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 DESCARGA BATTLE BREAKERS 🎮](https://www.epicgames.com/battlebreakers/es-ES/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### The Cycle
 
@@ -118,7 +118,7 @@ The Cycle es un juego competitivo de disparos y misiones (JcEcJ) que ofrece una 
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/0ru30QgpAr8?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 DESCARGA THE CYCLE 🎮](https://thecycle.game/?lang=es){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 DESCARGA THE CYCLE 🎮](https://thecycle.game/?lang=es){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## VIDEOJUEGOS RETRO 🕹
 
@@ -129,7 +129,7 @@ The Cycle es un juego competitivo de disparos y misiones (JcEcJ) que ofrece una 
 En Die Young: Prologue juegas como Nehir, un agente de campo de un conocido partido político. 
 La agenda del partido es deconstruir y eliminar al Hermano n. 1, el líder de la comunidad de Island. Die Young: Prologue  es una aventura de acción con una estructura más lineal que el mundo abierto de Die Young , pero deja al jugador la posibilidad de utilizar diferentes enfoques y caminos para escapar.
 
-[🎮 DESCARGA GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/die-young-prologue/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 DESCARGA GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/die-young-prologue/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## JUEGOS DE ACCIÓN GRATIS 🪓
 
@@ -143,7 +143,7 @@ Está ambientado en un mundo compartido post-apocalíptico donde los jugadores s
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/YaM1xWe0nzE?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 GRATIS MIENTRAS SEA DEMO 🎮](https://store.steampowered.com/app/759510/Dreadlands_Beta/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 GRATIS MIENTRAS SEA DEMO 🎮](https://store.steampowered.com/app/759510/Dreadlands_Beta/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Alien Swarm: Reactive Drop \ Steam
 
@@ -151,7 +151,7 @@ Alien Swarm es un videojuego shotter y multijugador desarrollado por Valve. El o
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/vHMzjJP7RoI?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 INSTALAR GRATIS 🎮](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 INSTALAR GRATIS 🎮](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## FORTNITE & OTRAS ALTERNATIVAS 🔫
 
@@ -161,7 +161,7 @@ El juego de moda por excelencia es el Fortnite de eso no cabe duda alguna a esta
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/N56V7hd3Fqk?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 GRATIS 🎮](https://www.epicgames.com/fortnite/es-ES/download){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 GRATIS 🎮](https://www.epicgames.com/fortnite/es-ES/download){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Existen algunas otras alternativas, más o menos conocidas, la más destacable para mi son..
 
@@ -177,7 +177,7 @@ Se puede jugar como un jugador o cooperativamente con hasta cuatro personas.
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/TaXAD7Ccg8E?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 DESCARGAR DAUNTLESS 🎮](https://playdauntless.com/es_ES/landing/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 DESCARGAR DAUNTLESS 🎮](https://playdauntless.com/es_ES/landing/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Ring of Elysium
 
@@ -185,7 +185,7 @@ Un Battle Royal genial, y algo más ligero que el PUBG y que amplia el campo de 
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/B0xypLbxKc8?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 GRATIS RING OF ELYSIUM 🎮](https://store.steampowered.com/app/755790/Ring_of_Elysium/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 GRATIS RING OF ELYSIUM 🎮](https://store.steampowered.com/app/755790/Ring_of_Elysium/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## PUBG Lite & CS GO
 
@@ -195,13 +195,13 @@ Sin lugar a dudas estos dos, PUBG y CS GO, son las dos alternativas más clásic
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/MKwUi8MCOic?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 DESCARGAR PUGB LITE 🎮](https://lite.pubg.com/download/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 DESCARGAR PUGB LITE 🎮](https://lite.pubg.com/download/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### CS GO
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/liV1omi2Waw?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 DESCARGAR CS GO 🎮](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 DESCARGAR CS GO 🎮](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Knives Out
 
@@ -209,31 +209,31 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/MKwUi8MCOic?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 GRATIS 🎮](https://knivesout.163.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 GRATIS 🎮](https://knivesout.163.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Rules of Survival
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/liV1omi2Waw?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 GRATIS 🎮](https://www.rulesofsurvivalgame.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 GRATIS 🎮](https://www.rulesofsurvivalgame.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Apex Legends
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l-1PpqQqM4k?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 GRATIS 🎮](https://www.origin.com/esp/es-es/store/apex/apex){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 GRATIS 🎮](https://www.origin.com/esp/es-es/store/apex/apex){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## WarFrame
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/liV1omi2Waw?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 GRATIS 🎮](https://www.warframe.com/game){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 GRATIS 🎮](https://www.warframe.com/game){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Realm Royale
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/SN2vEAMb7N4?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 GRATIS 🎮](https://store.steampowered.com/app/813820/Realm_Royale/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 GRATIS 🎮](https://store.steampowered.com/app/813820/Realm_Royale/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -242,7 +242,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 🛑 Postal es un videojuego enfocado a personas mayores de 18 años
 {: .notice--warning}
 
-[🎮 + PORTAL 1 GRATIS 🎮](https://www.gog.com/game/postal_classic_and_uncut){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 + PORTAL 1 GRATIS 🎮](https://www.gog.com/game/postal_classic_and_uncut){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -258,7 +258,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 Theatre of War 2: Africa 1943 cubre los eventos de 1943 en Túnez, África del Norte. Al recuperarse de sus pérdidas después de la aplastante derrota y la posterior retirada después de la Segunda Batalla de El-Alamein, el alemán Afrika Korps, reforzado y ahora apoyado por el ejército italiano, se prepara una vez más para poner acero contra acero con los Aliados. Las fuerzas del Eje, bajo el mando del legendario general Erwin Rommel, tienen una oportunidad demasiado breve para tomar la victoria de las garras de sus fracasos anteriores. Los jugadores liderarán a Afrika Korps de Rommel en su última campaña militar a gran escala y comandarán a los ejércitos inglés y estadounidense mientras intentan expulsar a las fuerzas del Eje de África de una vez por todas.
 
-[🎮 DESCARGA OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/theatre-of-war-2-africa-1943/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 DESCARGA OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/theatre-of-war-2-africa-1943/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## UberSoldier II \ IndieGala
 
@@ -266,7 +266,7 @@ Theatre of War 2: Africa 1943 cubre los eventos de 1943 en Túnez, África del N
 
 Un grupo muy unido de generales y oficiales de las SS, involucrado en los hechos más atroces y oscuros, está buscando una manera de salvar a los restos del Tercer Imperio. Han conspirado para trasladar a los líderes del Reich, junto con recursos preciosos y equipo clasificado, a un escondite remoto en las montañas tibetanas.
 
-[🎮 DESCARGA OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/ubersoldier-ii/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 DESCARGA OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/ubersoldier-ii/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Mahjong Strip Solitario \ IndieGala
 
@@ -274,7 +274,7 @@ Un grupo muy unido de generales y oficiales de las SS, involucrado en los hechos
 
 Sencillo juego de Mahjong que integra como sus objetivos el dejar en bikini a diferentes personajes de aspecto Manga.
 
-[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/mahjong-strip-solitaire/?dev_id=freebies "Puzzle de Mahjong"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/mahjong-strip-solitaire/?dev_id=freebies "Puzzle de Mahjong"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Lady´s Hentai Mosaic \ IndieGala
 
@@ -286,7 +286,7 @@ Lady's Hentai Mosaic no es un producto de naturaleza pornográfica, por lo que n
 
 La función clave del juego es la descomposición de los fragmentos de mosaico. El progreso a través de los niveles llena la escala de desvestirse: el jugador abre gradualmente diferentes grados de desvestirse.
 
-[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/ladys-hentai-mosaic/?dev_id=freebies "Puzzle de Mosaicos Hentais"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/ladys-hentai-mosaic/?dev_id=freebies "Puzzle de Mosaicos Hentais"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Crab Due \ IndieGala
 
@@ -296,7 +296,7 @@ El objetivo final del proyecto es crear un ejército de Cangrejos Cibernéticos 
 
 ![](https://i.ibb.co/h7Mq9L0/image.png "Caracoles y cangrejos en su versión más pixelada xd")
 
-[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/crab-dub/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/crab-dub/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -308,7 +308,7 @@ Quibic Games celebra 15 años, la empresa desarrolladora de juegos para la conso
 
 Comienzan regalando Robonautas, y en los próximos días regalaran los siguientes videojuegos: Geki Yaba Runner, Puzzle Book, One Strike, Wreckin Ball Adventure, Koloro, RaceDieRun, Rekt, Maná Spark y un último juego sorpresa.
 
-[🎮 DESCARGAR GRATIS 🎮](https://qubicgames.com/15years/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 DESCARGAR GRATIS 🎮](https://qubicgames.com/15years/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### The Wolf Among Us \ Epic Games
 
@@ -318,7 +318,7 @@ Comienzan regalando Robonautas, y en los próximos días regalaran los siguiente
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/RTRDbQjaiWA?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 CADUCADO 🎮](https://www.epicgames.com/store/es-ES/product/the-wolf-among-us/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 CADUCADO 🎮](https://www.epicgames.com/store/es-ES/product/the-wolf-among-us/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### The Escapist \ Epic Games
 
@@ -328,7 +328,7 @@ Es un juego de estrategia jugado desde una perspectiva de shooter. El jugador, q
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/faFVy2kkiMI?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 CADUCADO 🎮](https://www.epicgames.com/store/es-ES/product/the-escapists/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 CADUCADO 🎮](https://www.epicgames.com/store/es-ES/product/the-escapists/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -342,7 +342,7 @@ Los jugadores actuarán como la última descendencia de la antigua familia Illia
 
 Los jugadores explorarán un nuevo mundo fascinante, lleno de enemigos y amigos. Tendrán que aplastar a las hordas de enemigos y encontrar nuevos seguidores para recuperar el título y ascender al trono.
 
-[🎮 CADUCADO 🎮](https://freebies.indiegala.com/ascension-to-the-throne/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 CADUCADO 🎮](https://freebies.indiegala.com/ascension-to-the-throne/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Haciendo Historia \ IndieGala
 
@@ -352,7 +352,7 @@ El juego te lleva a un rico mundo de la Segunda Guerra Mundial donde cada nació
 
 ![Haciendo Historia: La Calma y La Tormenta](https://i.ibb.co/dtqRDzD/image.png)
 
-[🎮 CADUCADO 🎮](https://freebies.indiegala.com/making-history-the-calm-and-the-storm/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 CADUCADO 🎮](https://freebies.indiegala.com/making-history-the-calm-and-the-storm/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Black Survival - Alpha \ Steam
 
@@ -362,7 +362,7 @@ Black Survival es el juego de supervivencia en tiempo real que juegan 10 persona
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/nn9ucBDo_rA?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 PLAZO FINALIZADO 🎮](https://store.steampowered.com/app/1201710/Black_Survival_Eternal_Return__4th_Alpha/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 PLAZO FINALIZADO 🎮](https://store.steampowered.com/app/1201710/Black_Survival_Eternal_Return__4th_Alpha/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Postal 2 \ GOG
 
@@ -379,7 +379,7 @@ Utiliza un arsenal de armas que van desde una humilde pala hasta un lanzacohetes
 💡 Requiere Registro en la Página Web de GOG
 {: .notice--info}
 
-[🎮 CADUCADO 🎮](https://www.gog.com/game/postal_2){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 CADUCADO 🎮](https://www.gog.com/game/postal_2){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Draw Slasher \ Steam
 
@@ -391,7 +391,7 @@ Deberás tomar el control de su asombrosa espada y ayudarle en la búsqueda para
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rOu2uBzhf5Y?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 CADUCADO 🎮](https://store.steampowered.com/app/418270/Draw_Slasher/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 CADUCADO 🎮](https://store.steampowered.com/app/418270/Draw_Slasher/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Wasteland 2
 
@@ -405,7 +405,7 @@ Los soldados buscaron refugio en la prisión, expulsaron a los reclusos e invita
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/6r7Vk1AgaJY?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 PLAZO FINALIZADO 🎮](https://www.gog.com/#giveaway){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 PLAZO FINALIZADO 🎮](https://www.gog.com/#giveaway){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Jotun: Valhalla \ Epic Games
 
@@ -417,21 +417,21 @@ La exploración generalmente implica explorar varias etapas, con algunos gigante
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rkYg2G4rjEs?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 PLAZO FINALIZADO 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 PLAZO FINALIZADO 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Rayman Legends \ Epic Games
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/geP6IKlKExI?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 PLAZO FINALIZADO 🎮](https://www.epicgames.com/store/es-ES/product/rayman-legends/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 PLAZO FINALIZADO 🎮](https://www.epicgames.com/store/es-ES/product/rayman-legends/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Zombie Driver HD \ Steam
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/wanxGDgwjnk?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-[🎮 PLAZO FINALIZADO 🎮](https://store.steampowered.com/app/220820/Zombie_Driver_HD/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[🎮 PLAZO FINALIZADO 🎮](https://store.steampowered.com/app/220820/Zombie_Driver_HD/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 [📰 Noticias Videojuegos](/directo/#-videojuegos){: .btn .btn--warning .btn--large .align-center}
-[🎨 Wallpapers](https://ibb.co/album/bKkgdv){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🎨 Wallpapers](https://ibb.co/album/bKkgdv){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

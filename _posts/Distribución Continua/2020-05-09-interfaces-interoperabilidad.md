@@ -55,11 +55,11 @@ Por ejemplo, una interfaz de prueba podría abstraer diferentes herramientas de 
 
 ![img](https://cd.foundation/wp-content/uploads/sites/78/2020/04/1_WtBsJ-nD33_R2o5Xjrlc6w.png)La interfaz resume las herramientas reales
 
-Estas interfaces de interoperabilidad son importantes y esto se confirma por el hecho de que Continuous Delivery Foundation ha implementado un grupo de trabajo dedicado sobre [interoperabilidad](/que-es-la-interoperabilidad-en-la-distribucion-continua/), así como el proyecto de código abierto [Eiffel](https://eiffel-community.github.io/){:target="_blank" rel="nofollow"}, que proporciona un protocolo basado en eventos que permite una comunicación especialmente tecnológica para tareas de integración continua.
+Estas interfaces de interoperabilidad son importantes y esto se confirma por el hecho de que Continuous Delivery Foundation ha implementado un grupo de trabajo dedicado sobre [interoperabilidad](/que-es-la-interoperabilidad-en-la-distribucion-continua/), así como el proyecto de código abierto [Eiffel](https://eiffel-community.github.io/){:target="_blank" rel="nofollow,noreferrer"}, que proporciona un protocolo basado en eventos que permite una comunicación especialmente tecnológica para tareas de integración continua.
 
 ## **Usar eventos como interfaces de interoperabilidad**
 
-Al implementar estas interfaces de interoperabilidad, definimos un conjunto estandarizado de eventos. Estos eventos se basan en [CloudEvents](https://cloudevents.io/){:target="_blank" rel="nofollow"} y nos permiten describir datos de eventos de una manera común.
+Al implementar estas interfaces de interoperabilidad, definimos un conjunto estandarizado de eventos. Estos eventos se basan en [CloudEvents](https://cloudevents.io/){:target="_blank" rel="nofollow,noreferrer"} y nos permiten describir datos de eventos de una manera común.
 
 El **primer objetivo** de nuestros esfuerzos de estandarización es definir un conjunto común de operaciones de automatización de CD y runbook. Identificamos las siguientes operaciones comunes (¡infórmenos si nos faltan operaciones importantes!):
 
@@ -70,4 +70,4 @@ Para cada una de estas operaciones, se requiere una interfaz que abstraiga las h
 
 El **segundo objetivo** es estandarizar los **datos** dentro del evento, que las herramientas necesitan para activar la operación respectiva. Por ejemplo, una herramienta de implementación necesitaría la información del artefacto para implementarse en el evento. Por lo tanto, el evento puede contener los recursos necesarios (por ejemplo, un gráfico Helm para k8s) o un URI para estos recursos.
 
-Ya definimos un primer conjunto de eventos [https://github.com/keptn/spec](https://github.com/keptn/spec){:target="_blank" rel="nofollow"}, que está específicamente diseñado para [Keptn](https://keptn.sh/){:target="_blank" rel="nofollow"}, un proyecto de código abierto que implementa un plano de control para la entrega continua y operaciones automatizadas. Sabemos que estos eventos están actualmente demasiado adaptados para Keptn y herramientas individuales. Así que por favor
+Ya definimos un primer conjunto de eventos [https://github.com/keptn/spec](https://github.com/keptn/spec){:target="_blank" rel="nofollow,noreferrer"}, que está específicamente diseñado para [Keptn](https://keptn.sh/){:target="_blank" rel="nofollow,noreferrer"}, un proyecto de código abierto que implementa un plano de control para la entrega continua y operaciones automatizadas. Sabemos que estos eventos están actualmente demasiado adaptados para Keptn y herramientas individuales. Así que por favor

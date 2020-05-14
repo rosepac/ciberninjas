@@ -26,7 +26,7 @@ categories:
 
 Este año, las aplicaciones móviles continuaron siendo cada vez más populares. Afortunadamente, hay muchas herramientas de programación disponibles para los desarrolladores que desean crearlas. Entre estas herramientas está Flutter, que se ha destacado por su mayor aceptación y uso últimamente.
 
-**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow"}
+**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
 
 ## ¿Qué es el Flutter?
@@ -119,7 +119,7 @@ La plataforma más grande para freelancers en Francia, llamada Malt, publicó re
 
 Bueno, ¿qué opinas de Flutter? ¿Comenzarás a aprenderlo el año que viene? Espero que esta introducción te haya interesado y motivado. Siéntete libre de compartir este artículo si te gustó.
 
-**Fuente**\: [Comunidad Microsoft](https://techcommunity.microsoft.com/t5/testingspot-blog/what-are-the-best-ui-test-automation-tools/ba-p/367781){:target="_blank" rel="nofollow"}
+**Fuente**\: [Comunidad Microsoft](https://techcommunity.microsoft.com/t5/testingspot-blog/what-are-the-best-ui-test-automation-tools/ba-p/367781){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
 ## Guía Flutter

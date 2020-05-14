@@ -36,4 +36,4 @@ Si bien los miembros de la comunidad ya han lanzado algunas compilaciones no ofi
 
 A partir de ahora, el equipo Open GApps solo ha lanzado paquetes pico y nano de aplicaciones de Google, pero el equipo también está trabajando para obtener los otros paquetes. Si está pensando en actualizar una ROM personalizada de Android 10 en su dispositivo, ahora puede descargar los paquetes Open GApps desde el siguiente enlace.
 
-[👉 Descargar Open GApps](https://opengapps.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[👉 Descargar Open GApps](https://opengapps.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

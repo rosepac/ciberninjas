@@ -23,7 +23,7 @@ toc_sticky: false
 
 Diseño Web y Optimización Web
 
-## [Web móvil de alto rendimiento](https://amzn.to/2NqoNMk){:target="_blank" rel="nofollow"} (2016)
+## [Web móvil de alto rendimiento](https://amzn.to/2NqoNMk){:target="_blank" rel="nofollow,noreferrer"} (2016)
 
 Optimice al máximo el rendimiento de sus sitios web móviles y aplicaciones web. Con este libro práctico, el veterano desarrollador móvil y web Maximiliano Firtman demuestra qué aspectos de su sitio o aplicación ralentizan la experiencia del usuario y qué puede hacer para lograr un rendimiento ultrarrápido. Hay mucho en juego: si desea aumentar la tasa de conversión de su aplicación, abordar los problemas de rendimiento es la mejor manera de comenzar.
 

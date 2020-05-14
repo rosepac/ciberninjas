@@ -62,7 +62,7 @@ Podríamos usar este tipo de enlaces para comprobar y mantener actualizados los 
 
 Para un usuario de ofimática principiante o no habitual de la PC:
   
-- Chrome, Malwarebytes, Spybot, Skype, Glary, VLC, Codecs K-Lite, Spotify, .NET 4.8, Dropbox, XnView, WinRAR, Foxit Reader: [Instalador de los Software Anteriormente Citado](https://ninite.com/.net4.8-chrome-dropbox-foxit-glary-klitecodecs-malwarebytes-skype-spotify-spybot2-vlc-winrar-xnview){:target="_blank" rel="nofollow"}
+- Chrome, Malwarebytes, Spybot, Skype, Glary, VLC, Codecs K-Lite, Spotify, .NET 4.8, Dropbox, XnView, WinRAR, Foxit Reader: [Instalador de los Software Anteriormente Citado](https://ninite.com/.net4.8-chrome-dropbox-foxit-glary-klitecodecs-malwarebytes-skype-spotify-spybot2-vlc-winrar-xnview){:target="_blank" rel="nofollow,noreferrer"}
 
 Para los amantes del Software y Código Libre:
   
@@ -80,7 +80,7 @@ De forma predeterminada, los instaladores Ninite instalan las aplicaciones en el
 
 Esto descarga e instala las aplicaciones en el idioma especificado. Para algunas aplicaciones, el idioma de la interfaz de usuario todavía tendrá que cambiarse manualmente en la configuración de la aplicación después de que se complete la instalación.
 
-Especifique el idioma y el código de país, por ejemplo, &#171;en-US&#187;, si deseas el idioma inglés. Las siglas usadas son las dos letras extraídas de la norma [ISO 639-1](https://es.wikipedia.org/wiki/ISO_639-1){:target="_blank" rel="nofollow"} equivalente al país correspondiente más las dos letras que correspondan al mismo país respecto a la norma [ISO 3166-1, Código Alfa 2](https://es.wikipedia.org/wiki/ISO_3166-1){:target="_blank" rel="nofollow"} o lo que es lo mismo, al Código ISO de 2 letras asignado a ese país o territorio.
+Especifique el idioma y el código de país, por ejemplo, &#171;en-US&#187;, si deseas el idioma inglés. Las siglas usadas son las dos letras extraídas de la norma [ISO 639-1](https://es.wikipedia.org/wiki/ISO_639-1){:target="_blank" rel="nofollow,noreferrer"} equivalente al país correspondiente más las dos letras que correspondan al mismo país respecto a la norma [ISO 3166-1, Código Alfa 2](https://es.wikipedia.org/wiki/ISO_3166-1){:target="_blank" rel="nofollow,noreferrer"} o lo que es lo mismo, al Código ISO de 2 letras asignado a ese país o territorio.
 
 ## 🔐 Detalles de Seguridad
 
@@ -162,12 +162,12 @@ Diferenciados en las áreas de funcionamiento y trabajo siguientes:
 
 Por si algunos despistados aún no conocíais esta interesante aplicación, la veremos de forma breve y paso a paso.
 
-El uso de Ninite es sumamente sencillo, nada más debemos entrar en [su web](https://kutt.it/ninite_instalador_multiple){:target="_blank" rel="nofollow"} y allí podremos seleccionar los diferentes Software que deseamos de una amplia selección, para posteriormente; instalarlos todos desde un único **.EXE**.
+El uso de Ninite es sumamente sencillo, nada más debemos entrar en [su web](https://kutt.it/ninite_instalador_multiple){:target="_blank" rel="nofollow,noreferrer"} y allí podremos seleccionar los diferentes Software que deseamos de una amplia selección, para posteriormente; instalarlos todos desde un único **.EXE**.
 
 ![Selección de programas que deseamos instalar, en Ninite | Ciberninjas
 ](/assets/images/ninite-seleccion-programas.png)
 
 El **.EXE** descargado será el encargado de instalar los programas, tras un par de Click´s incluso podremos mantener esos mismos software actualizados utilizando ese mismo **.EXE** descargado pasado el tiempo.
 
-Sitio Web Oficial: [Página web oficial de Ninite dentro del instalador múltiple de programas dentro de Windows](https://kutt.it/ninite_instalador_multiple){:target="_blank" rel="nofollow"}
+Sitio Web Oficial: [Página web oficial de Ninite dentro del instalador múltiple de programas dentro de Windows](https://kutt.it/ninite_instalador_multiple){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

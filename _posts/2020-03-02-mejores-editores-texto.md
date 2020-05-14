@@ -90,7 +90,7 @@ La comunidad de VS Code es increíblemente apasionada, y eso funciona en benefic
 
 Escrito en Node.js y Electron, puede estar seguro de que el código no quedará desactualizado o se retrasará a corto plazo.
 
-Además, para los más distanciados de cualquier gran empresa. Existe la posibilidad de poseer todo lo mejor de VSC pero sin "la vigilancia" de Microsoft, con [VSCodium](https://vscodium.com/){:target="_blank" rel="nofollow"}.
+Además, para los más distanciados de cualquier gran empresa. Existe la posibilidad de poseer todo lo mejor de VSC pero sin "la vigilancia" de Microsoft, con [VSCodium](https://vscodium.com/){:target="_blank" rel="nofollow,noreferrer"}.
 
 ¿Qué es VSCodium? Una distribución binaria impulsada por la comunidad y con licencia libre del editor VSCode de Microsoft.
 
@@ -118,8 +118,8 @@ VS Code funciona muy bien en todas las plataformas en los que lo pruebes, y no v
 El propio programa funciona bien desde el momento en que se ejecuta por primera vez, y tanto Git como el depurador integrados; simplemente funcionan. No hace falta configurar nada en absoluto, ni instalar nada extra, ni perder tiempo en jugar con complejas configuraciones.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Visual Studio Code](https://code.visualstudio.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar Visual Studio Code](https://code.visualstudio.com/download){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Visual Studio Code](https://code.visualstudio.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar Visual Studio Code](https://code.visualstudio.com/download){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **2. Sublime Text**
 
@@ -153,8 +153,8 @@ Una vez que te acostumbres a los atajos de teclado de Sublime, bueno, sublime, t
 Si prefieres una buena experiencia de usuario sobre todo lo demás. Eso no quiere decir que Sublime Text no tenga las características que necesites para casi todos los proyectos (sí las tiene). Es solo que  usar Sublime Text es la parte más impresionante de todo el programa, y hay muchos paquetes más dentro del proyecto.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Sublime Text](https://www.sublimetext.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar Sublime Text](https://www.sublimetext.com/3){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Sublime Text](https://www.sublimetext.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar Sublime Text](https://www.sublimetext.com/3){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **3. Notepad ++**
 
@@ -191,8 +191,8 @@ Si eres nuevo en el mundo de la programación, y trabajando con editores de cód
 Debido a lo simple y fácil que los desarrolladores lo han hecho, no vas a atascar tu sistema mientras trabajas. Eso significa que es posible que no esté cargando gigabytes de información a la vez, pero para las tareas de desarrollo web habituales, etc., Notepad ++ es más que suficiente.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Notepad++](https://notepad-plus-plus.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar Notepad ++](https://notepad-plus-plus.org/downloads/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Notepad++](https://notepad-plus-plus.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar Notepad ++](https://notepad-plus-plus.org/downloads/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331105903742928" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331105903742928" class="fb-xfbml-parse-ignore"><p>👩‍💻 Los mejores libros de Desarrollo de Software, Programación Correcta, Código Limpio, Metodologías Agile y Lean, etc 💼</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331105903742928">Martes, 3 de marzo de 2020</a></blockquote></div>
 
@@ -230,8 +230,8 @@ Para los desarrolladores front-end que trabajan en una agencia de diseño que ti
  Además, la herramienta de extracción hace que Brackets sea casi imprescindible para los desarrolladores front-end que trabajan con los PSD de los diseñadores.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Brackets](http://brackets.io/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar Brackets](https://github.com/adobe/brackets/releases){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Brackets](http://brackets.io/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar Brackets](https://github.com/adobe/brackets/releases){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **5. Atom**
 
@@ -278,8 +278,8 @@ Funciona muy bien desde el primer momento, pero su verdadero poder proviene de l
 Algunas personas se han desanimado por la adquisición de GitHub por parte de Microsoft, pero en los meses posteriores, Atom ha seguido creciendo.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Atom](https://atom.io/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar Atom](https://github.com/atom/atom/releases/tag/v1.44.0){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Atom](https://atom.io/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar Atom](https://github.com/atom/atom/releases/tag/v1.44.0){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **6. BlueJ**
 
@@ -299,8 +299,8 @@ Un entorno de desarrollo Java gratuito diseñado para principiantes, utilizado p
 Si estas comenzando a programar en Java.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial BlueJ](https://www.bluej.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar BlueJ](https://www.bluej.org/versions.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial BlueJ](https://www.bluej.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar BlueJ](https://www.bluej.org/versions.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331101370410048" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331101370410048" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331101370410048">Martes, 3 de marzo de 2020</a></blockquote></div>
 
@@ -340,8 +340,8 @@ Es posible que esta no sea la mejor opción para los programadores nuevos porque
 Con Bluefish, puedes hacer mucho si quieres esforzarte un poco por aprender a hacerlo cantar. No tiene el pulido de los IDE hechos por compañías como JetBrains (ver más abajo en la sección Premium), pero no mucho. Sin embargo, para una opción gratuita, es fenomenal.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial BlueFish](http://bluefish.openoffice.nl/index.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar Bluefish](http://bluefish.openoffice.nl/index.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial BlueFish](http://bluefish.openoffice.nl/index.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar Bluefish](http://bluefish.openoffice.nl/index.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **8. Codeshare.io**
 
@@ -380,7 +380,7 @@ Sus características disponibles lo hacen sentir estable y robusto, algo así co
 Simplemente no esperes un IDE de él.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Codeshare](https://codeshare.io/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Codeshare](https://codeshare.io/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **9. VIM**
 
@@ -398,7 +398,7 @@ Ver a la gente codificar en Vim es como ver a un pianista en un concierto. La in
 
 Luego de aprender VIM a un nivel más o menos elevado; si intentas volver a otra GUI visual de otro editor de texto, más temprano que tarde; te vas a sentir como un caracol.
 
-Debido a que Vim puede ser tan intenso de aprender, [crearon un juego para que juegues](https://vim-adventures.com/){:target="_blank" rel="nofollow"} y aprendas cómo funciona. No es un tutorial, realmente, pero es una forma de no abrumarte con todo lo que hace a Vim, Vim, ¡Es muy divertido!
+Debido a que Vim puede ser tan intenso de aprender, [crearon un juego para que juegues](https://vim-adventures.com/){:target="_blank" rel="nofollow,noreferrer"} y aprendas cómo funciona. No es un tutorial, realmente, pero es una forma de no abrumarte con todo lo que hace a Vim, Vim, ¡Es muy divertido!
 
 ### **Pros**
 
@@ -422,8 +422,8 @@ Si tienes alguna distribución de Linux que no sea Ubuntu, adorarás Vim; y esta
 Es tan poderoso como cualquier otro editor, seguramente incluso más, pero la interfaz de usuario minimalista puede parecerte desagradable; tendrás que ser paciente hasta atravesar esa fachada arisca y lograr llegar a su hermosa experiencia que te puede ofrecer.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Vim](https://www.vim.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar VIM](https://www.vim.org/download.php){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Vim](https://www.vim.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar VIM](https://www.vim.org/download.php){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331103423743176" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331103423743176" class="fb-xfbml-parse-ignore"><p>👩‍💻 Libros para Aprender el lenguaje de programación Dart, el SDK Flutter. Las tecnologías que podrás usar dentro del nuevo Sistema Operativo Fuchsia</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331103423743176">Martes, 3 de marzo de 2020</a></blockquote></div>
 
@@ -462,8 +462,8 @@ Si prefierse la funcionalidad por encima de la interfaz pero Vim es demasiado m�
 Definitivamente, este no es uno de los mejores editores de texto para novatos, pero si has estado incursionando en diferentes entornos durante un tiempo y deseas mejorar la eficiencia, Emacs es justo lo que estás buscando.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial GNU Emacs](https://www.gnu.org/software/emacs/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar GNU Emacs](https://www.gnu.org/software/emacs/download.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial GNU Emacs](https://www.gnu.org/software/emacs/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar GNU Emacs](https://www.gnu.org/software/emacs/download.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **11. Spacemacs**
 
@@ -499,8 +499,8 @@ git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 ```
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Spacemacs](https://www.spacemacs.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar Spacemacs](https://www.spacemacs.org/#){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Spacemacs](https://www.spacemacs.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar Spacemacs](https://www.spacemacs.org/#){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **12. Komodo IDE**
 
@@ -526,8 +526,8 @@ Recientemente liberado, el IDE de Komodo es una gran opción. Komodo 12 ahora es
 Si deseas probar algo diferente y nuevo al más alto nivel, sin lugar a dudas. Sobre todo, puede ser muy recomendable, si eres una persona que te manejas en varios lenguajes, por su alta compatibilidad.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Komodo](https://www.activestate.com/products/komodo-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar Komodo IDE](https://www.activestate.com/products/komodo-ide/download-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Komodo](https://www.activestate.com/products/komodo-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar Komodo IDE](https://www.activestate.com/products/komodo-ide/download-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
@@ -553,8 +553,8 @@ Si deseas conocer más, sobre [Eclipse Theia](/wiki/eclipse-theia)
 Si trabajas habitualmente a través de la nube, si estás familiarizado con la Fundación Eclipse o si quieres implicarte dentro de un proyecto nuevo, si deseas algo diferente.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Eclipse Theia](https://theia-ide.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar Eclipse Theia](https://theia-ide.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Eclipse Theia](https://theia-ide.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar Eclipse Theia](https://theia-ide.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **14. Light Table**
 
@@ -579,8 +579,8 @@ Aunque el programa comenzó por admitir solo Clojure, desde entonces ha tenido c
 Si buscas un editor diferente a los más utilizados; o bien uno enfocado en trabajar con Clojure, Python o JavaScript.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Light Table](http://lighttable.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar Light Table](http://lighttable.com/#){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Light Table](http://lighttable.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar Light Table](http://lighttable.com/#){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **15. Delphi Community Edition**
 
@@ -603,8 +603,8 @@ Delphi Community Edition, que se comparte gratuitamente con nuestra comunidad de
 Si programas con el lenguaje de programación específico hacía el que se enfoca el IDE: Delphi, que está basado en Object Pascal.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Delphi Embarcadero](https://www.embarcadero.com/es/products/delphi/starter){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[⏩ Probar Delphi Community Edition](https://www.embarcadero.com/es/products/delphi/starter/free-download){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Delphi Embarcadero](https://www.embarcadero.com/es/products/delphi/starter){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar Delphi Community Edition](https://www.embarcadero.com/es/products/delphi/starter/free-download){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331113580408827" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331113580408827" class="fb-xfbml-parse-ignore"><p>🧠 Libros de Reflexión Tecnológica en la Actualidad, el día a día de la Sociedad y la Tecnología 💡</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331113580408827">Martes, 3 de marzo de 2020</a></blockquote></div>
 
@@ -640,7 +640,7 @@ Solamente se encuentra disponible para Windows.
 Si eres escritor, redactor o creador de contenidos; y tienes la posibilidad de realizar tus artículos a través del lenguaje de marcado de Markdown (personalmente, te recomiendo al 100% de que te acostumbres a utilizarlo -markdown-) y quieres facilitar al máximo la edición y publicación de tus trabajos.
 
 [⏫ Regresar al Menú](/mejores-editores-texto/#menu){: .btn .btn--inverse .btn--large .align-center}
-[🏡 Web Oficial Markdown Monster](https://markdownmonster.west-wind.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🏡 Web Oficial Markdown Monster](https://markdownmonster.west-wind.com/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Probar Markdown](https://markdownmonster.west-wind.com/download.aspx){: .btn .btn--inverse .btn--large .align-center}
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)

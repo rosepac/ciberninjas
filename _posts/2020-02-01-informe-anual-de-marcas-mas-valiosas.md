@@ -35,9 +35,9 @@ Encuentra sobre esto y muchas más ideas en el informe completo, disponible para
 
 <iframe src="https://drive.google.com/file/d/1Ex-xK187wQQBOegUKSogBkrmofb5h4cA/preview" width="935" height="480"></iframe>
 
-[💲 Descargar Resumen del Informe ⬇](https://brandirectorypublic.s3.eu-west-2.amazonaws.com/reports_free/brand-finance-global-500-2020-preview.pdf){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[💲 Descargar Resumen del Informe ⬇](https://brandirectorypublic.s3.eu-west-2.amazonaws.com/reports_free/brand-finance-global-500-2020-preview.pdf){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 _____
 
-**Fuente**: [Global 500](https://brandirectory.com/rankings/global/){:target="_blank" rel="nofollow"}
+**Fuente**: [Global 500](https://brandirectory.com/rankings/global/){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

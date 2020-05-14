@@ -80,7 +80,7 @@ Cómo otros usaron las ventajas de Kite
 - Posibilita la búsqueda de tus cadenas de documentos
 - Kite indexa tus definiciones de clase para que tú y tu equipo puedan ver los mismos documentos al instante
 
-[👉 Copiloto de Kite 🤞](https://kite.com/copilot/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[👉 Copiloto de Kite 🤞](https://kite.com/copilot/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Editores Compatibles
 
@@ -94,10 +94,10 @@ Kite es capaz de integrarse con todos estos editores para mejorar la usabilidad 
 
 ## Descargar
 
-[👉 Descargar Kite 🤞](https://kite.com/download/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[👉 Descargar Kite 🤞](https://kite.com/download/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 _____
 
 **Fuentes**:
 
-* [Web Oficial Kite](https://kite.com/){:target="_blank" rel="nofollow"}
+* [Web Oficial Kite](https://kite.com/){:target="_blank" rel="nofollow,noreferrer"}

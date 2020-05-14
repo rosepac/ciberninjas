@@ -17,12 +17,12 @@ permalink: >
 
 ![](https://i.ibb.co/HYmqfNr/image.png)
 
-* 1024 Megas [🛡](https://www.1024megas.com/){:target="_blank" rel="nofollow"}
+* 1024 Megas [🛡](https://www.1024megas.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Páginas Web en Inglés
 
 ![](https://i.ibb.co/YcJHFT8/image.png)
 
-1. **KitPloit** [🛡](https://www.kitploit.com/){:target="_blank" rel="nofollow"}
+1. **KitPloit** [🛡](https://www.kitploit.com/){:target="_blank" rel="nofollow,noreferrer"}
    
 Herramientas de Pentesting y Hacking.

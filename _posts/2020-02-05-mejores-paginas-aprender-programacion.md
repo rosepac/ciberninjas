@@ -37,7 +37,7 @@ Por desgracia las mejores páginas web en la actualidad siguen siendo en inglés
 Lo de 20 mejores páginas web, se ha quedado corto ya antes de publicar el artículo. Más.. Los "titulares atractivos" son los que tocan, por desgracia 😉
 {: .notice--info}
 
-## 1. [FreeCodeCamp](https://www.freecodecamp.com/){:target="_blank" rel="nofollow"}
+## 1. [FreeCodeCamp](https://www.freecodecamp.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ![](https://i.ibb.co/cc6mYDb/image.png)
 
@@ -156,11 +156,11 @@ De isofacto, te aparecerán múltiples listas impresionantes creadas por los usu
 
 En estas listas en muchos casos, se incluyen los enlaces directos a la documentación de los proyectos. Artículos, libros, cursos, tutoriales, chuletas o notas importantes y código fuente de los proyectos.
 
-Existe la lista [Awesome creada por Sindreshorus](https://github.com/sindresorhus/awesome#contents){:target="_blank" rel="nofollow"} que es una lista que reune gran parte de estas listas, aunque si deseas encontrar contenidos más actualizados que seguramente aún no hallan sido agregados; yo aconsejo, realizar la búsqueda directamente sobre el buscador.
+Existe la lista [Awesome creada por Sindreshorus](https://github.com/sindresorhus/awesome#contents){:target="_blank" rel="nofollow,noreferrer"} que es una lista que reune gran parte de estas listas, aunque si deseas encontrar contenidos más actualizados que seguramente aún no hallan sido agregados; yo aconsejo, realizar la búsqueda directamente sobre el buscador.
 
-Además, existen proyectos exclusivos enfocados en reunir este tipo de listas; como por ejemplo [Pretty Awesome Lists](https://www.prettyawesomelists.com/lists){:target="_blank" rel="nofollow"}
+Además, existen proyectos exclusivos enfocados en reunir este tipo de listas; como por ejemplo [Pretty Awesome Lists](https://www.prettyawesomelists.com/lists){:target="_blank" rel="nofollow,noreferrer"}
 
-## 3. [Guru99](https://www.guru99.com/){:target="_blank" rel="nofollow"}
+## 3. [Guru99](https://www.guru99.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ![](https://i.ibb.co/09v17V0/image.png)
 
@@ -180,7 +180,7 @@ Por si esto fuese poco, también aporta tutoriales sobre Big Data de las tecnolo
 
 ¡Eahhh.. Todo eso e incluso más..!
 
-## 1. [Hackr.io](https://hackr.io/){:target="_blank" rel="nofollow"}
+## 1. [Hackr.io](https://hackr.io/){:target="_blank" rel="nofollow,noreferrer"}
 
 ![](https://i.ibb.co/MN8wGbT/image.png)
 
@@ -192,7 +192,7 @@ A pesar de ello, siguen manteniendo el buscador de recursos gratis y lo que en s
 
 Dentro de cada sección existen subsecciones que te permiten encontrar los recursos con una mayor claridad. Exclusivamente deberás buscar un nombre de un lenguaje de programacion o un framework o herramienta en cuestión y ¡Tachán, el buscador hará la magia!
 
-Los [ciberninjas](https://hackr.io/ciberninjas){:target="_blank" rel="nofollow"} tenemos nuestra cuenta por allí para recursos en español, a pesar de que han rechazado muchos de los enlaces intentados publicar..
+Los [ciberninjas](https://hackr.io/ciberninjas){:target="_blank" rel="nofollow,noreferrer"} tenemos nuestra cuenta por allí para recursos en español, a pesar de que han rechazado muchos de los enlaces intentados publicar..
 
 ## Code Academy
 
@@ -206,7 +206,7 @@ En Udacity existen cursos de gran instituciones de gran presencia a lo largo de 
 
 Algunos de los cursos puedes encontrarlos con un acceso gratuito para aprender, sin que se te devuelva ningún tipo de acreditación por ello; y una gran mayoría, son cursos de acceso limitado......
 
-## 5. [W3schools](https://www.w3schools.com/){:target="_blank" rel="nofollow"}
+## 5. [W3schools](https://www.w3schools.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ![](https://i.ibb.co/t8Ss1Vd/image.png)
 
@@ -229,7 +229,7 @@ Dicen las malas lenguas que al no formar parte de la página de los estándares 
 
 ### Los Blogs de Diseño Web
 
-* [A List Apart](https://alistapart.com/){:target="_blank" rel="nofollow"}
+* [A List Apart](https://alistapart.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Las Páginas Web de Tutoriales
 

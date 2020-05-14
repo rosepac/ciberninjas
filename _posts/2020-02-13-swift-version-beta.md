@@ -34,5 +34,5 @@ Algunos de los cambios introducidos se basan en:
 
 Si deseas ver ejemplos más específicos y prácticos para ver cómo ha evolucionado el código; puedes encontrarlos [aquí](https://www.hackingwithswift.com/articles/212/whats-new-in-swift-5-2) junto a otros muchos artículos e interesantes tutoriales sobre Swift.
 
-**Fuente**\: [Hacking with Swift](https://www.hackingwithswift.com/articles/212/whats-new-in-swift-5-2){:target="_blank" rel="nofollow"}
+**Fuente**\: [Hacking with Swift](https://www.hackingwithswift.com/articles/212/whats-new-in-swift-5-2){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

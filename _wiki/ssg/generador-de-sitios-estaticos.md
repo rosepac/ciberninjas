@@ -44,7 +44,7 @@ Un generador de sitio estático o SSG - viene de la abreviatura del significado 
 **Categorías**: [Generadores de Sitios Estáticos](/generadores-de-sitios-estaticos)
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Static Web Page](https://en.wikipedia.org/wiki/Static_web_page) de Wikipedia en inglés, versión del 19 de Diciembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Static_web_page&action=history){:target="_blank" rel="nofollow"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow"}.
+**INF.**: Esta obra contiene una traducción total derivada de [Static Web Page](https://en.wikipedia.org/wiki/Static_web_page) de Wikipedia en inglés, versión del 19 de Diciembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Static_web_page&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.
 {: .notice--info}
-<!-- > Fuente: <a href="https://en.wikipedia.org/wiki/Static_web_page" rel="nofollow">Wikipedia</a> -->
+<!-- > Fuente: <a href="https://en.wikipedia.org/wiki/Static_web_page" rel="nofollow,noreferrer">Wikipedia</a> -->
 <!-- https://wiki.python.org/moin/StaticSiteGenerator -->

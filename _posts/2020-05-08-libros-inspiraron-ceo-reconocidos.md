@@ -40,7 +40,7 @@ published: true
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-## [Mark Zuckerberg, Facebook: "Optimista racional"](){:target="_blank" rel="nofollow"}
+## [Mark Zuckerberg, Facebook: "Optimista racional"](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -56,7 +56,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [Jeff Bezos, Amazon: El resto del día](){:target="_blank" rel="nofollow"}
+## [Jeff Bezos, Amazon: El resto del día](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -72,7 +72,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [Jack Dorsey, Twitter: "Lista de verificación"](){:target="_blank" rel="nofollow"}
+## [Jack Dorsey, Twitter: "Lista de verificación"](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -88,7 +88,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [Steve Jobs, Apple: "El dilema del innovador"](){:target="_blank" rel="nofollow"}
+## [Steve Jobs, Apple: "El dilema del innovador"](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -104,7 +104,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [Tim Cook, Apple: "Competencia con el tiempo"](){:target="_blank" rel="nofollow"}
+## [Tim Cook, Apple: "Competencia con el tiempo"](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -120,7 +120,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [Marissa Meyer, Yahoo: "Diseño de cosas familiares"](){:target="_blank" rel="nofollow"}
+## [Marissa Meyer, Yahoo: "Diseño de cosas familiares"](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -136,7 +136,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [Craig Barrett, Intel: El marciano](){:target="_blank" rel="nofollow"}
+## [Craig Barrett, Intel: El marciano](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -152,7 +152,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [Dennis Young, Udemy: "No será fácil"](){:target="_blank" rel="nofollow"}
+## [Dennis Young, Udemy: "No será fácil"](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -168,7 +168,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [Indra Nuyi, PepsiCo: "El camino hacia el personaje"](){:target="_blank" rel="nofollow"}
+## [Indra Nuyi, PepsiCo: "El camino hacia el personaje"](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -184,7 +184,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [Richard Branson, Virgin Group: "Sé por qué un pájaro canta en una jaula"](){:target="_blank" rel="nofollow"}
+## [Richard Branson, Virgin Group: "Sé por qué un pájaro canta en una jaula"](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -200,7 +200,7 @@ CONTENIDO
 <p></p>
 </details>
 
-## [Ernie Sorenson, Marriott: “La tristeza de la luna. Encontrar Londres](){:target="_blank" rel="nofollow"}
+## [Ernie Sorenson, Marriott: “La tristeza de la luna. Encontrar Londres](){:target="_blank" rel="nofollow,noreferrer"}
 
 CONTENIDO
 
@@ -226,24 +226,24 @@ CONTENIDO
 
 
 
-## **[](){:target="_blank" rel="nofollow"}**
+## **[](){:target="_blank" rel="nofollow,noreferrer"}**
 
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[](){:target="_blank" rel="nofollow"}**
+## **[](){:target="_blank" rel="nofollow,noreferrer"}**
 
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[](){:target="_blank" rel="nofollow"}**
+## **[](){:target="_blank" rel="nofollow,noreferrer"}**
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 
-## **[](){:target="_blank" rel="nofollow"}**
+## **[](){:target="_blank" rel="nofollow,noreferrer"}**
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejores-sistemas-operativos-para-hackear/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}

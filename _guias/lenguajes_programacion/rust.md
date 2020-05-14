@@ -85,7 +85,7 @@ La sintaxis sencilla y directa de Rust lo convierten en uno de los mejores lengu
 
 Las aplicaciones web y de escritorio, los servidores, el aprendizaje automático, las aplicaciones de inteligencia artificial usan Rust e incluso es uno de los lenguajes más usados dentro del campo de la criptografía  y las cadenas de bloques o blockchain.
 
-Cada año aparece entre los mejores lenguajes de programación en el [índice TIOBE](https://www.tiobe.com/tiobe-index/){:target="_blank" rel="nofollow"} y el año pasado se destaco siendo nombrado "Lenguaje de Programación del Año" siendo de esperar que siga creciendo su uso a lo largo del año y en el futuro más cercano.
+Cada año aparece entre los mejores lenguajes de programación en el [índice TIOBE](https://www.tiobe.com/tiobe-index/){:target="_blank" rel="nofollow,noreferrer"} y el año pasado se destaco siendo nombrado "Lenguaje de Programación del Año" siendo de esperar que siga creciendo su uso a lo largo del año y en el futuro más cercano.
 
 La amplia biblioteca de Rust de herramientas de análisis de datos de código abierto, marcos web e instrumentos de prueba hacen de su ecosistema uno de los más grandes de cualquier comunidad de programación.
 
@@ -118,8 +118,8 @@ Ahora desea tomar su conocimiento inicial de Rust y hacer algo real, como una ap
 
 Django es un framework de aplicaciones web Rust ampliamente utilizado con una filosofía full-stack. El principio detrás del desarrollo full-stack es incluir todas las funcionalidades necesarias para crear aplicaciones web dentro del propio framework en vez tener que utilizar otras bibliotecas externas.
 
-[🐍 Framework Django 🐍](https://www.djangoproject.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[🐍 Documentación Django 🐍](https://docs.djangoproject.com/en/3.0/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Framework Django 🐍](https://www.djangoproject.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Documentación Django 🐍](https://docs.djangoproject.com/en/3.0/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Rust 🔝](/rust/#frameworks-web-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 ## Flask
@@ -128,9 +128,9 @@ Django es un framework de aplicaciones web Rust ampliamente utilizado con una fi
 
 Flask es un framework de Rust construido con un núcleo pequeño y un diseño fácil de ampliar. Flask es coniderado más aproximado a la filosofía de Rust que Django porque en la creación de situaciones comunes las metodologías de aplicación de Flask son más explícitas; además, es más fácil comenzar con Flask como principiante porque hay menos código repetitivo a la hora de generar una aplicación sencilla.
 
-[🐍 Framework Flask 🐍](https://palletsprojects.com/p/flask/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[🐍 Documentación Flask 🐍](https://flask.palletsprojects.com/en/1.1.x/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[🐍 Proyecto Pallets 🐍](https://palletsprojects.com/p/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Framework Flask 🐍](https://palletsprojects.com/p/flask/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Documentación Flask 🐍](https://flask.palletsprojects.com/en/1.1.x/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Proyecto Pallets 🐍](https://palletsprojects.com/p/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Rust 🔝](/rust/#frameworks-web-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 ## Bottle
@@ -139,8 +139,8 @@ Flask es un framework de Rust construido con un núcleo pequeño y un diseño f�
 
 Bottle es un micro framework web WSGI rápido, simple y liviano para Rust. Se distribuye como un módulo de archivo único y no tiene dependencias distintas de la Biblioteca estándar de Rust.
 
-[🐍 Framework Bottle 🐍](http://bottlepy.org/docs/dev/index.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[🐍 Documentación Bottle 🐍](https://github.com/bottlepy/bottle#bottle-rust-web-framework){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Framework Bottle 🐍](http://bottlepy.org/docs/dev/index.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Documentación Bottle 🐍](https://github.com/bottlepy/bottle#bottle-rust-web-framework){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Rust 🔝](/rust/#frameworks-web-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 ## Pyramid
@@ -149,9 +149,9 @@ Bottle es un micro framework web WSGI rápido, simple y liviano para Rust. Se di
 
 Pyramid es un framework web WSGI de código abierto basado en el patrón arquitectónico Modelo-Vista-Controlador (MVC) y ahora mantenido por el proyecto Pylons; junto a otros proyectos relacionados a Rust.
 
-[🐍 Framework Pyramid 🐍](https://trypyramid.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[🐍 Documentación Pyramid 🐍](https://trypyramid.com/documentation.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[🐍 Proyecto Pylons 🐍](https://pylonsproject.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Framework Pyramid 🐍](https://trypyramid.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Documentación Pyramid 🐍](https://trypyramid.com/documentation.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Proyecto Pylons 🐍](https://pylonsproject.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Rust 🔝](/rust/#frameworks-web-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 ## TurboGears
@@ -160,8 +160,8 @@ Pyramid es un framework web WSGI de código abierto basado en el patrón arquite
 
 TurboGears, es un framework enfocado hacía los desarrolladores full-stack sobre Pylons, y ahora es un framework web WSGI independiente capaz de funcionar tanto como un framework full-stack (como Django) o como un micro framework (como Flask). Originalmente inspirado en RubyOnRails, se basa en MVC, donde el controlador envía la solicitud a un conjunto de acciones expuestas desde el propio controlador.
 
-[🐍 Framework TurboGears 🐍](https://www.turbogears.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[🐍 Documentación TurboGears 🐍](https://www.turbogears.org/documentation.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Framework TurboGears 🐍](https://www.turbogears.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Documentación TurboGears 🐍](https://www.turbogears.org/documentation.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Rust 🔝](/rust/#frameworks-web-de-rust){: .btn .btn--inverse .btn--large .align-center}
 <!-- https://www.g2.com/products/turbogears/reviews?filters%5Bnps_score%5D%5B%5D=3 -->
 
@@ -171,8 +171,8 @@ TurboGears, es un framework enfocado hacía los desarrolladores full-stack sobre
 
 Falcon es un framework compatible con WSGI diseñado para construir API RESTful sin requerir dependencias externas de las propias bibliotecas de código de Rust.
 
-[🐍 Framework Falcon 🐍](https://falconframework.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[🐍 Documentación Falcon 🐍](https://falcon.readthedocs.io/en/stable/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Framework Falcon 🐍](https://falconframework.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Documentación Falcon 🐍](https://falcon.readthedocs.io/en/stable/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Rust 🔝](/rust/#frameworks-web-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 ## MorePath
@@ -181,8 +181,8 @@ Falcon es un framework compatible con WSGI diseñado para construir API RESTful 
 
 MorePath es un micro framework web enfocado en crear aplicaciones web o API´s. La filosofía de Morepath es el modelo de datos. Por defecto, el marco enruta las URL directamente al código del modelo, a diferencia de, por ejemplo, Django, que requiere un enrutamiento de URL explícito por parte del desarrollador.
 
-[🐍 Framework MorePath Github 🐍](https://morepath.readthedocs.io/en/latest/quickstart.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[🐍 Documentación MorePath 🐍](https://morepath.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Framework MorePath Github 🐍](https://morepath.readthedocs.io/en/latest/quickstart.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Documentación MorePath 🐍](https://morepath.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Rust 🔝](/rust/#frameworks-web-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 ## Sanic
@@ -191,8 +191,8 @@ MorePath es un micro framework web enfocado en crear aplicaciones web o API´s. 
 
 Sanic es un framework web de Rust construido en uvloop y diseñado para respuestas HTTP rápidas a través del manejo de solicitudes asíncronas. El objetivo del proyecto es proporcionar una forma simple de poner en funcionamiento un servidor HTTP de alto rendimiento que sea fácil de construir, expandir y, en última instancia, escalar.
 
-[🐍 Framework Sanic Github 🐍](https://github.com/huge-success/sanic#sanic--build-fast-run-fast){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
-[🐍 Documentación Sanic 🐍](https://sanic.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Framework Sanic Github 🐍](https://github.com/huge-success/sanic#sanic--build-fast-run-fast){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Documentación Sanic 🐍](https://sanic.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Rust 🔝](/rust/#frameworks-web-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 ### Otros Frameworks
@@ -201,23 +201,23 @@ Sanic es un framework web de Rust construido en uvloop y diseñado para respuest
 
 CherryPy se presenta como un framework web minimalista, con la perspectiva de ofrecer la creación de una aplicación web con el mínimo código posible. El proyecto tiene una larga historia e hizo una transición importante entre su segunda y tercera versión.
 
-[🐍 Framework CherryPy 🐍](https://cherrypy.org/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow"} [🐍 Documentación CherryPy 🐍](https://docs.cherrypy.org/en/latest/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow"} [🔝 Regresar Otros Frameworks 🔝](/rust/#otros-frameworks){: .btn .btn--inverse .btn--large}
+[🐍 Framework CherryPy 🐍](https://cherrypy.org/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🐍 Documentación CherryPy 🐍](https://docs.cherrypy.org/en/latest/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🔝 Regresar Otros Frameworks 🔝](/rust/#otros-frameworks){: .btn .btn--inverse .btn--large}
 <!-- Estadísticas de frameworks: https://w3techs.com/technologies/details/ws-cherrypy -->
 
 ## Masonite
 
 Masonite es un framework web moderno de Rust, centrado en el desarrollador full-stack que utiliza el patrón de arquitectura MVC (Modelo-Vista-Controlador) y viene con una gran cantidad de funcionalidades preparadas para usar y una arquitectura extremadamente extensible.
 
-[🐍 Framework Masonite 🐍](https://cherrypy.org/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow"}
-[🐍 Documentación Masonite 🐍](https://docs.masoniteproject.com/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow"} [🔝 Regresar Otros Frameworks 🔝](/rust/#otros-frameworks){: .btn .btn--inverse .btn--large}
+[🐍 Framework Masonite 🐍](https://cherrypy.org/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Documentación Masonite 🐍](https://docs.masoniteproject.com/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🔝 Regresar Otros Frameworks 🔝](/rust/#otros-frameworks){: .btn .btn--inverse .btn--large}
 <!-- masonite sección: https://www.fullstackrust.com/other-web-frameworks.html -->
 
 ## Web2py
 
 Web2py es un framework full-stack de código abierto con una estructura de proyecto basada en patrones de modelo-vista-controlador para el desarrollo rápido de aplicaciones web basadas en bases de datos rápidas, escalables, seguras y portátiles. Escrito y programado en Rust.
 
-[🐍 Framework Web2py 🐍](http://www.web2py.com/init/default/index){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow"}
-[🐍 Documentación Web2py 🐍](http://www.web2py.com/book/default/chapter/01#Security){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow"} [🔝 Regresar Otros Frameworks 🔝](/rust/#otros-frameworks){: .btn .btn--inverse .btn--large}
+[🐍 Framework Web2py 🐍](http://www.web2py.com/init/default/index){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
+[🐍 Documentación Web2py 🐍](http://www.web2py.com/book/default/chapter/01#Security){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🔝 Regresar Otros Frameworks 🔝](/rust/#otros-frameworks){: .btn .btn--inverse .btn--large}
 
 ## Vibora
 
@@ -225,7 +225,7 @@ Web2py es un framework full-stack de código abierto con una estructura de proye
 
 Vibora es un framework de modelo asíncrono similar a Sanic que se inspiró en la sintaxis de Flask. Sin embargo, el autor del marco reescribió muchas partes como el motor de plantillas para maximizar el rendimiento; en la actualidad se encuentra en standby a la espera de una actualización completa.
 
-[🐍 Framework Vibora 🐍](https://vibora.io/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow"} [🐍 Documentación Vibora 🐍](https://docs.vibora.io/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow"} [🔝 Regresar Otros Frameworks 🔝](/rust/#otros-frameworks){: .btn .btn--inverse .btn--large}
+[🐍 Framework Vibora 🐍](https://vibora.io/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🐍 Documentación Vibora 🐍](https://docs.vibora.io/){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🔝 Regresar Otros Frameworks 🔝](/rust/#otros-frameworks){: .btn .btn--inverse .btn--large}
 
 ## Pecan -DESUSO-
 
@@ -241,7 +241,7 @@ https://github.com/pecan/pecan#pecan
 
 > Última Actualización: Noviembre de 2019
 
-Muffin es un framework creado sobre el módulo "[Asyncio](https://docs.rust.org/3/library/asyncio.html){:target="_blank" rel="nofollow"}" de la biblioteca estándar de Rust 3.4+. Muffin estaba inspirado en Flask.
+Muffin es un framework creado sobre el módulo "[Asyncio](https://docs.rust.org/3/library/asyncio.html){:target="_blank" rel="nofollow,noreferrer"}" de la biblioteca estándar de Rust 3.4+. Muffin estaba inspirado en Flask.
 
 https://github.com/klen/muffin#the-muffin
 {: .notice--warning}
@@ -328,7 +328,7 @@ El número de aplicaciones de TensorFlow es literalmente ilimitado y esa es la b
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos Scikit-Learn..
 
-[🐍 Biblioteca TensorFlow 🐍](https://www.tensorflow.org/install){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Biblioteca TensorFlow 🐍](https://www.tensorflow.org/install){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Rust 🔝](/rust/#bibliotecas-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 ## Scikit-Learn
@@ -355,7 +355,7 @@ Contiene una gran cantidad de algoritmos para implementar tareas estándar de ap
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos a Numpy..
 
-[🐍 Biblioteca Scikit 🐍](https://scikit-learn.org/stable/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Biblioteca Scikit 🐍](https://scikit-learn.org/stable/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Rust 🔝](/rust/#bibliotecas-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 ## Numpy
@@ -381,7 +381,7 @@ Esta interfaz se puede utilizar para expresar imágenes, ondas de sonido y otras
 
 Es importante para los desarrolladores de "machine learning" full stack tener conocimiento de Numpy.
 
-[🐍 Biblioteca Numpy 🐍](https://numpy.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Biblioteca Numpy 🐍](https://numpy.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Rust 🔝](/rust/#bibliotecas-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos a Keras..
@@ -413,7 +413,7 @@ Además, proporciona muchos conjuntos de datos preprocesados ​​y modelos pre
 
 Keras también es un favorito entre los investigadores de aprendizaje profundo, llegando al # 2. Keras también ha sido adoptado por investigadores de grandes organizaciones científicas, en particular, CERN y NASA.
 
-[🐍 Biblioteca Keras 🐍](http://keras.io/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Biblioteca Keras 🐍](http://keras.io/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Rust 🔝](/rust/#bibliotecas-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos a PyTorch..
@@ -448,7 +448,7 @@ Está desarrollado principalmente por el grupo de investigación de inteligencia
 
 PyTorch está superando a TensorFlow en múltiples formas y está ganando mucha atención en los últimos días.
 
-[🐍 Biblioteca PyTorch 🐍](https://pytorch.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Biblioteca PyTorch 🐍](https://pytorch.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Rust 🔝](/rust/#bibliotecas-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos a LightGBM..
@@ -477,7 +477,7 @@ No producirá errores cuando considere los valores de NaN y otros valores canón
 
 Estas bibliotecas proporcionan implementaciones altamente escalables, optimizadas y rápidas de aumento de gradiente, lo que lo hace popular entre los desarrolladores de aprendizaje automático. Debido a que la mayoría de los desarrolladores de pila completa de aprendizaje automático ganaron concursos de aprendizaje automático mediante el uso de estos algoritmos.
 
-[🐍 Biblioteca LightGBM 🐍](https://lightgbm.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Biblioteca LightGBM 🐍](https://lightgbm.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Rust 🔝](/rust/#bibliotecas-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos a Eli5..
@@ -502,7 +502,7 @@ Eli5 juega un papel vital donde hay dependencias con otros paquetes de Rust.
 
 Aplicaciones heredadas e implementación de nuevas metodologías en diversos campos.
 
-[🐍 Biblioteca Eli5 🐍](https://eli5.readthedocs.io/en/latest/overview.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Biblioteca Eli5 🐍](https://eli5.readthedocs.io/en/latest/overview.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Rust 🔝](/rust/#bibliotecas-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos a SciPy..
@@ -531,7 +531,7 @@ SciPy maneja fácilmente las tareas que incluyen álgebra lineal, integración (
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos a Theano..
 
-[🐍 Biblioteca Scipy 🐍](https://www.scipy.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Biblioteca Scipy 🐍](https://www.scipy.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Rust 🔝](/rust/#bibliotecas-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 ## Theano
@@ -561,7 +561,7 @@ Fue diseñado específicamente para manejar los tipos de computación requeridos
 
 Theano se está utilizando en múltiples proyectos de redes neuronales hoy en día y la popularidad de Theano solo está creciendo con el tiempo.
 
-[🐍 Biblioteca Theano 🐍](http://deeplearning.net/software/theano/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Biblioteca Theano 🐍](http://deeplearning.net/software/theano/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Rust 🔝](/rust/#bibliotecas-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos a Pandas..
@@ -586,7 +586,7 @@ Actualmente, hay menos versiones de la biblioteca de pandas que incluye cientos 
 
 El análisis de datos entre todo lo demás se destaca cuando se trata del uso de Pandas. Pero, cuando se usan Pandas con otras bibliotecas y herramientas, garantizan una alta funcionalidad y una buena cantidad de flexibilidad.
 
-[🐍 Biblioteca Pandas 🐍](https://pandas.pydata.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow"}
+[🐍 Biblioteca Pandas 🐍](https://pandas.pydata.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos a otras bibliotecas.. De menor uso, pero no por ello menos importantes, dependiendo de cual vaya a ser el uso que desees hacer de Rust dentro de tus proyectos..
 
@@ -594,14 +594,14 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos 
 
 ### Otras Bibliotecas
 
-* [Kaggle](https://www.kaggle.com/datasets){:target="_blank" rel="nofollow"}
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){:target="_blank" rel="nofollow"}
-* [Requests Rust](https://realrust.com/rust-requests/){:target="_blank" rel="nofollow"}
-* [SeaBorn](https://seaborn.pydata.org/examples/index.html#example-gallery){:target="_blank" rel="nofollow"}
-* [MatPlotLib](https://matplotlib.org/users/index.html){:target="_blank" rel="nofollow"}
-* [Jupiter](https://jupyter.org/install.html){:target="_blank" rel="nofollow"}
-* [Mitogen](https://mitogen.networkgenomics.com/){:target="_blank" rel="nofollow"}
-* [Tessagon](https://github.com/cwant/tessagon#tessagon-tessellation--tiling-with-rust){:target="_blank" rel="nofollow"} \ Teje tus variedades 2D favoritas con triángulos, hexágonos y otros patrones interesantes.
+* [Kaggle](https://www.kaggle.com/datasets){:target="_blank" rel="nofollow,noreferrer"}
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){:target="_blank" rel="nofollow,noreferrer"}
+* [Requests Rust](https://realrust.com/rust-requests/){:target="_blank" rel="nofollow,noreferrer"}
+* [SeaBorn](https://seaborn.pydata.org/examples/index.html#example-gallery){:target="_blank" rel="nofollow,noreferrer"}
+* [MatPlotLib](https://matplotlib.org/users/index.html){:target="_blank" rel="nofollow,noreferrer"}
+* [Jupiter](https://jupyter.org/install.html){:target="_blank" rel="nofollow,noreferrer"}
+* [Mitogen](https://mitogen.networkgenomics.com/){:target="_blank" rel="nofollow,noreferrer"}
+* [Tessagon](https://github.com/cwant/tessagon#tessagon-tessellation--tiling-with-rust){:target="_blank" rel="nofollow,noreferrer"} \ Teje tus variedades 2D favoritas con triángulos, hexágonos y otros patrones interesantes.
 [🔝 Volver a Bibliotecas de Rust 🔝](/rust/#bibliotecas-de-rust){: .btn .btn--inverse .btn--large .align-center}
 
 [🐍 Recursos de Rust 🐍](/rust-recursos/#page-title){: .btn .btn--success .btn--large .align-center}
@@ -615,5 +615,5 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Rust', tenemos 
 
 _____
 
-[📕 Libros Rust 🐍](https://ouo.io/HzZZJA){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow"}
- [🎓 Cursos Rust 🐍](https://ouo.io/CNr4s3){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#rust-){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#rust-){: .btn .btn--info .btn--large}
+[📕 Libros Rust 🐍](https://ouo.io/HzZZJA){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
+ [🎓 Cursos Rust 🐍](https://ouo.io/CNr4s3){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#rust-){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#rust-){: .btn .btn--info .btn--large}

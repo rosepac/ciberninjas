@@ -35,7 +35,7 @@ Los casos de uso de la Inteligencia Artificial (IA) son muchos. Sin embargo, ind
 Estos siete campos son:
 
 ![Campos existentes dentro de la Inteligencia Artificial](https://i.ibb.co/JkH23bC/image.png "Campos existentes dentro de la Inteligencia Artificial. Fuente: Cognitive World")
-> **Fuente**: [Cognilitica LLC](https://www.cognilytica.com/){:target="_blank" rel="nofollow"}
+> **Fuente**: [Cognilitica LLC](https://www.cognilytica.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 La hiperpersonalización, los sistemas autónomos, el análisis predictivo y el soporte de decisiones, las interacciones conversacionales entre máquinas y humanas, la analítica de patrones y las anomalías, los sistemas autónomos y los sistemas dirigidos por objetivos.
 
@@ -49,7 +49,7 @@ Cualquier enfoque personalizado para la IA requerirá su propia programación y 
 
 ## Guías
 
-* [Guía UX para la Inteligencia Artificial](https://uxofai.com/){:target="_blank" rel="nofollow"}
+* [Guía UX para la Inteligencia Artificial](https://uxofai.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Artículos en Inglés
 
@@ -60,16 +60,16 @@ Cualquier enfoque personalizado para la IA requerirá su propia programación y 
 
 ## Blogs de Inteligencia Artificial
 
-* [MIT Technology Review en Español](https://www.technologyreview.es/){:target="_blank" rel="nofollow"}
+* [MIT Technology Review en Español](https://www.technologyreview.es/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Blogs de Inteligencia Artificial en Inglés
 
-* [Inteligencia Artificial en Abierto](https://openai.com/blog/){:target="_blank" rel="nofollow"}
+* [Inteligencia Artificial en Abierto](https://openai.com/blog/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Bases de Datos de Inteligencia Artificial
 
-* [ImageNET](http://www.image-net.org/){:target="_blank" rel="nofollow"}
-* [Datos de RoboNet](https://www.robonet.wiki/){:target="_blank" rel="nofollow"}
+* [ImageNET](http://www.image-net.org/){:target="_blank" rel="nofollow,noreferrer"}
+* [Datos de RoboNet](https://www.robonet.wiki/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Librerías
 

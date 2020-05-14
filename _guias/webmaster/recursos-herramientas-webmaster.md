@@ -21,7 +21,7 @@ toc_sticky: false
 
 ---
 
-👷‍♂️ Página bajo construcción. Quizás te interese visitar, nuestras herramientas en el [grupo de Facebook](https://kutt.it/recursos-globales){:target="_blank" rel="nofollow"}<br/>O cualquiera de las siguientes páginas.. 👇
+👷‍♂️ Página bajo construcción. Quizás te interese visitar, nuestras herramientas en el [grupo de Facebook](https://kutt.it/recursos-globales){:target="_blank" rel="nofollow,noreferrer"}<br/>O cualquiera de las siguientes páginas.. 👇
 {: .notice--info}
 
 
@@ -41,6 +41,6 @@ La mejor herramienta gratis para la creación de capturas de pantalla, captura d
 
 ## Herramientas de Edición Rápida de Imágenes
 
-* [Photopea](https://www.photopea.com/){:target="_blank" rel="nofollow"}
+* [Photopea](https://www.photopea.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>

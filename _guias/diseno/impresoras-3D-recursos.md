@@ -33,7 +33,7 @@ header:
 
 ## Meta-Listas de Recursos
 
-* [Listado de Artículos y Blogs](https://pablorubma.cc/recursos/educacion/){:target="_blank" rel="nofollow"}
+* [Listado de Artículos y Blogs](https://pablorubma.cc/recursos/educacion/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Software
 
@@ -41,24 +41,24 @@ header:
 
 ## Bibliotecas o Repositorios de Modelos 3D
 
-* [ThingiVerse](https://www.thingiverse.com/explore/collections){:target="_blank" rel="nofollow"}
-  * [Colección de Navidad](https://www.thingiverse.com/search?q=christmas&dwh=915df4d88a3d8ae){:target="_blank" rel="nofollow"} 
-* [Prusa Printers](https://www.prusaprinters.org/prints){:target="_blank" rel="nofollow"} (7768 Modelos)
-  * [Colección de Navidad](https://www.prusaprinters.org/social/16-prusa-research/collections/7050){:target="_blank" rel="nofollow"}
-* [Cults3D](https://cults3d.com/en/search?utf8=%E2%9C%93&q=free){:target="_blank" rel="nofollow"} (6498 Modelos Gratuitos) 
+* [ThingiVerse](https://www.thingiverse.com/explore/collections){:target="_blank" rel="nofollow,noreferrer"}
+  * [Colección de Navidad](https://www.thingiverse.com/search?q=christmas&dwh=915df4d88a3d8ae){:target="_blank" rel="nofollow,noreferrer"} 
+* [Prusa Printers](https://www.prusaprinters.org/prints){:target="_blank" rel="nofollow,noreferrer"} (7768 Modelos)
+  * [Colección de Navidad](https://www.prusaprinters.org/social/16-prusa-research/collections/7050){:target="_blank" rel="nofollow,noreferrer"}
+* [Cults3D](https://cults3d.com/en/search?utf8=%E2%9C%93&q=free){:target="_blank" rel="nofollow,noreferrer"} (6498 Modelos Gratuitos) 
 
-* [CGTrader](https://www.cgtrader.com/free-3d-models){:target="_blank" rel="nofollow"}
+* [CGTrader](https://www.cgtrader.com/free-3d-models){:target="_blank" rel="nofollow,noreferrer"}
 
 No es exclusivamente de modelos 3D. Ofrece: Modelos 3D gratuitos disponibles para descargar desde el automóvil a activos 3D humanos . Disponible en varios formatos de archivo, incluidos MAX, OBJ, FBX, 3DS, STL, C4D, BLEND, MA, MB. Encuentre modelos 3D profesionales para cualquier proyecto de diseño 3D como realidad virtual (VR), realidad aumentada (AR), juegos, visualización o animación de arquitectura 3D.
 
-* [GrabCAD](https://grabcad.com/library/category/3d-printing?page=1&per_page=20&time=all_time&sort=most_downloaded){:target="_blank" rel="nofollow"} Nos va a permitir descargar modelos espectaculares..
-* [3D Content Central](https://www.3dcontentcentral.com/Browse.aspx?eventSource=mnuFindContent){:target="_blank" rel="nofollow"}
+* [GrabCAD](https://grabcad.com/library/category/3d-printing?page=1&per_page=20&time=all_time&sort=most_downloaded){:target="_blank" rel="nofollow,noreferrer"} Nos va a permitir descargar modelos espectaculares..
+* [3D Content Central](https://www.3dcontentcentral.com/Browse.aspx?eventSource=mnuFindContent){:target="_blank" rel="nofollow,noreferrer"}
 
 3D ContentCentral es un servicio gratuito para localizar, configurar, descargar y solicitar piezas y ensamblajes 2D y 3D, bloques 2D, funciones de biblioteca y macros.  Únase a una comunidad activa de 1.997.305 usuarios de CAD que comparten y descargan piezas y ensamblajes 2D y 3D, bloques 2D, características de biblioteca y macros aportados por el usuario y certificados por el proveedor
 
 ## Modelaje de Teclados
 
-* [El teclado Dactyl](https://github.com/adereth/dactyl-keyboard#the-dactyl-keyboard){:target="_blank" rel="nofollow"}
+* [El teclado Dactyl](https://github.com/adereth/dactyl-keyboard#the-dactyl-keyboard){:target="_blank" rel="nofollow,noreferrer"}
 * [KeyV2: Crear Teclas para Teclado Mecánico](/impresiones-3d-teclado-mecanico/)
 
 ## Introducción

@@ -386,4 +386,4 @@ Gráfica que muestra los diferentes lenguajes de programación y frameworks, her
 
 <div class="flourish-embed flourish-Sankey chart" data-src="visualisation/956436"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-**Fuente**: [Gráfica gracias a Fundación Telefónica](https://twitter.com/EspacioFTef){:target="_blank" rel="nofollow"}
+**Fuente**: [Gráfica gracias a Fundación Telefónica](https://twitter.com/EspacioFTef){:target="_blank" rel="nofollow,noreferrer"}

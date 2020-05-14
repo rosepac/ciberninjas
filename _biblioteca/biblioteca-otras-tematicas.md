@@ -103,7 +103,7 @@ sidebar:
 
 ## Periodismo
 
-* [El Software Libre en la Radio](https://cempazuchitl.org/2020/01/22/manual-el-software-libre-en-la-radio/){:target="_blank" rel="nofollow"}
+* [El Software Libre en la Radio](https://cempazuchitl.org/2020/01/22/manual-el-software-libre-en-la-radio/){:target="_blank" rel="nofollow,noreferrer"}
 * [Internet, viajes y periodismo](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/268/4/Internet%2C%20viajes%20y%20periodismo_Bloque1.pdf)
 * [La Voz que Vuela: una guía práctica para comunicadoras comunitarias](https://cempazuchitl.org/2020/01/21/libro-la-voz-que-vuela-una-guia-practica-para-comunicadoras-comunitarias-comppa/) (Radio)
 

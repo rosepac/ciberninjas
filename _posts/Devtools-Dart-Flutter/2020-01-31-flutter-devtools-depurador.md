@@ -57,7 +57,7 @@ Además, el botón **Resume** continúa la ejecución regular de la aplicación.
 
 ## Salida de la consola
 
-La salida de la consola para la aplicación en ejecución (stdout y stderr) se muestra en la consola, debajo del área del código fuente. También puede ver el resultado en la [vista de Registro](https://flutter.dev/docs/development/tools/devtools/logging){:target="_blank" rel="nofollow"} o "Logging View".
+La salida de la consola para la aplicación en ejecución (stdout y stderr) se muestra en la consola, debajo del área del código fuente. También puede ver el resultado en la [vista de Registro](https://flutter.dev/docs/development/tools/devtools/logging){:target="_blank" rel="nofollow,noreferrer"} o "Logging View".
 
 ## Rompiendo excepciones
 
@@ -71,7 +71,7 @@ Al realizar un reinicio en caliente para una aplicación Flutter, los puntos de 
 
 ## Otros recursos
 
-Para obtener más información sobre depuración y creación de perfiles, consulte la página [Depuración](https://flutter.dev/docs/testing/debugging){:target="_blank" rel="nofollow"} o "Debugging".
+Para obtener más información sobre depuración y creación de perfiles, consulte la página [Depuración](https://flutter.dev/docs/testing/debugging){:target="_blank" rel="nofollow,noreferrer"} o "Debugging".
 
 ## Guía DevTools
 
@@ -81,5 +81,5 @@ Para obtener más información sobre depuración y creación de perfiles, consul
 
 [🎓 Cursos en Español](/cursos-tecnologia/#flutter){: .btn .btn--warning .btn--large} [👉 Ejemplos de Aplicaciones](/flutter-aplicaciones-ejemplos/){: .btn .btn--inverse .btn--large} [⚓ Documentación en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large}
 
-**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow"}
+**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow,noreferrer"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

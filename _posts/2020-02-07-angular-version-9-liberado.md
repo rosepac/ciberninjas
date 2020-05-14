@@ -34,5 +34,5 @@ Debes visitar [update.angular.io](https://update.angular.io/) para obtener la me
 
 Desde el blog de Angular muestran mucho optimismo con esta nueva actualización; y hablan de que con Ivy llegaran numerosas mejoras. Además, de anunciar nuevos componentes que van a permitir implementar con mayor comodidad los vídeos de Youtube o los mapas de Google. Entre otros cambios, que si deseas conocer, a continuación tienes la fuente.
 
-**Fuente**\: [Angular Blog](https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3){:target="_blank" rel="nofollow"}
+**Fuente**\: [Angular Blog](https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

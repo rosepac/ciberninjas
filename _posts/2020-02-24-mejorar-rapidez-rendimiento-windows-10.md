@@ -107,7 +107,7 @@ Cambiar memoria virtual..
 
 Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.org/wiki/Apache_License "Licencia Apache 2.0")**.
 
-**Fuente**\: []( ""){:target="_blank" rel="nofollow"}
+**Fuente**\: []( ""){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
 ## Relacionados

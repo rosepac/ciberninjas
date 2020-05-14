@@ -29,9 +29,9 @@ Lighthouse es una herramienta automatizada de código abierto para mejorar el re
 
 Cuando se audita una _app_ o página web, **Lighthouse** ejecuta un aluvión de pruebas contra la página y luego genera un informe sobre el desempeño de la página. Desde aquí, puede utilizar las pruebas fallidas como indicadores de lo que puede hacer para mejorar su aplicación.
 
-Guía de inicio rápido sobre el uso de Lighthoouse**: [Web de la documentación oficial](https://kutt.it/lighthouse){:target="_blank" rel="nofollow"}
+Guía de inicio rápido sobre el uso de Lighthoouse**: [Web de la documentación oficial](https://kutt.it/lighthouse){:target="_blank" rel="nofollow,noreferrer"}
 
-**Página web de la extensión de Chrome**: [Lighthouse](https://kutt.it/lighthousegithub){:target="_blank" rel="nofollow"}
+**Página web de la extensión de Chrome**: [Lighthouse](https://kutt.it/lighthousegithub){:target="_blank" rel="nofollow,noreferrer"}
 
-**Fuente**\: [Repositorio Github del Proyecto Lighthouse](https://kutt.it/lighthousedoc){:target="_blank" rel="nofollow"}
+**Fuente**\: [Repositorio Github del Proyecto Lighthouse](https://kutt.it/lighthousedoc){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

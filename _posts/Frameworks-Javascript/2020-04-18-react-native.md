@@ -58,25 +58,25 @@ Las aplicaciones React Native pueden apuntar a iOS 9.0 y Android 4.1 (API 16) o 
 
 ## **Construyendo tu primera aplicación React Native**
 
-Siga la [guía de introducción](https://facebook.github.io/react-native/docs/getting-started.html){:target="_blank" rel="nofollow"}. La forma recomendada de instalar React Native depende de su proyecto. Aquí puede encontrar guías cortas para los escenarios más comunes:
+Siga la [guía de introducción](https://facebook.github.io/react-native/docs/getting-started.html){:target="_blank" rel="nofollow,noreferrer"}. La forma recomendada de instalar React Native depende de su proyecto. Aquí puede encontrar guías cortas para los escenarios más comunes:
 
-- [Probando reaccionar nativo](https://snack.expo.io/@hramos/hello,-world!){:target="_blank" rel="nofollow"}
-- [Creando una nueva aplicación](https://facebook.github.io/react-native/docs/getting-started.html){:target="_blank" rel="nofollow"}
-- [Agregando React Native a una aplicación existente](https://facebook.github.io/react-native/docs/integration-with-existing-apps.html){:target="_blank" rel="nofollow"}
+- [Probando reaccionar nativo](https://snack.expo.io/@hramos/hello,-world!){:target="_blank" rel="nofollow,noreferrer"}
+- [Creando una nueva aplicación](https://facebook.github.io/react-native/docs/getting-started.html){:target="_blank" rel="nofollow,noreferrer"}
+- [Agregando React Native a una aplicación existente](https://facebook.github.io/react-native/docs/integration-with-existing-apps.html){:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Documentación**
 
-La documentación completa de React Native se puede encontrar en el [sitio web](https://facebook.github.io/react-native/docs/getting-started.html){:target="_blank" rel="nofollow"} .
+La documentación completa de React Native se puede encontrar en el [sitio web](https://facebook.github.io/react-native/docs/getting-started.html){:target="_blank" rel="nofollow,noreferrer"} .
 
 La documentación de React Native analiza los componentes, las API y los temas que son específicos de React Native. Para obtener más documentación sobre la API React que se comparte entre React Native y React DOM, consulte la [documentación de React](https://reactjs.org/docs/getting-started.html){:target=":blank"}.
 
-La fuente de la documentación y el sitio web de React Native se encuentra en un repositorio separado, [**@ facebook / react-native-website**](https://github.com/facebook/react-native-website){:target="_blank" rel="nofollow"}.
+La fuente de la documentación y el sitio web de React Native se encuentra en un repositorio separado, [**@ facebook / react-native-website**](https://github.com/facebook/react-native-website){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## **Actualización**
 
 La actualización a nuevas versiones de React Native puede brindarle acceso a más API, vistas, herramientas de desarrollo y otros recursos. Consulte la [Guía de actualización](https://facebook.github.io/react-native/docs/upgrading){:target="_blank}" para obtener instrucciones.
 
-Las versiones nativas de React se analizan en la comunidad nativa React, [**@ react-native-community / react-native-releases**](https://github.com/react-native-community/react-native-releases){:target="_blank" rel="nofollow"}.
+Las versiones nativas de React se analizan en la comunidad nativa React, [**@ react-native-community / react-native-releases**](https://github.com/react-native-community/react-native-releases){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## **Primer Hola Mundo con React Native**
 

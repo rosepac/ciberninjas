@@ -25,19 +25,19 @@ toc_sticky: true
 
 ## Bibliotecas Web
 
-* [Biblioteca Digital Hispánica](http://bdh.bne.es/bnesearch/Search.do?&destacadas1=Epub&home=true&languageView=es){:target="_blank" rel="nofollow"}
-* [Biblioteca Digital Mundial](https://www.wdl.org/es/){:target="_blank" rel="nofollow"} (+ 17.000 Documentos de la Historia. Gracias a Naciones Unidas)
-* [Dominio Público](http://www.dominiopublico.es){:target="_blank" rel="nofollow"}
+* [Biblioteca Digital Hispánica](http://bdh.bne.es/bnesearch/Search.do?&destacadas1=Epub&home=true&languageView=es){:target="_blank" rel="nofollow,noreferrer"}
+* [Biblioteca Digital Mundial](https://www.wdl.org/es/){:target="_blank" rel="nofollow,noreferrer"} (+ 17.000 Documentos de la Historia. Gracias a Naciones Unidas)
+* [Dominio Público](http://www.dominiopublico.es){:target="_blank" rel="nofollow,noreferrer"}
 * [EBiblio](https://www.culturaydeporte.gob.es/cultura/areas/bibliotecas/mc/eBiblio/inicio.html) Catálogo digital del Servicio Público de Bibliotecas de España.
 * [Gutenberg Proyecto, en Español](https://www.gutenberg.org/browse/languages/es)
-* [OMEGALFA](https://omegalfa.es/){:target="_blank" rel="nofollow"}
-  * [Autores - 1.264](https://omegalfa.es/autores.php){:target="_blank" rel="nofollow"}
-  * [Títulos - 3.675](https://omegalfa.es/titulos.php){:target="_blank" rel="nofollow"}
-  * [Temáticas - 72](https://omegalfa.es/temas.php){:target="_blank" rel="nofollow"}
-* [One More Library](https://onemorelibrary.com/index.php/en/languages/spanish){:target="_blank" rel="nofollow"} (1.200 Clásicos en Español)
-* [WikiSource](https://es.wikisource.org/wiki/Portada){:target="_blank" rel="nofollow"}
+* [OMEGALFA](https://omegalfa.es/){:target="_blank" rel="nofollow,noreferrer"}
+  * [Autores - 1.264](https://omegalfa.es/autores.php){:target="_blank" rel="nofollow,noreferrer"}
+  * [Títulos - 3.675](https://omegalfa.es/titulos.php){:target="_blank" rel="nofollow,noreferrer"}
+  * [Temáticas - 72](https://omegalfa.es/temas.php){:target="_blank" rel="nofollow,noreferrer"}
+* [One More Library](https://onemorelibrary.com/index.php/en/languages/spanish){:target="_blank" rel="nofollow,noreferrer"} (1.200 Clásicos en Español)
+* [WikiSource](https://es.wikisource.org/wiki/Portada){:target="_blank" rel="nofollow,noreferrer"}
 
-* [Biblioteca Científica Sci Hub](https://sci-hub.tw/){:target="_blank" rel="nofollow"}
+* [Biblioteca Científica Sci Hub](https://sci-hub.tw/){:target="_blank" rel="nofollow,noreferrer"}
 
 Sci-Hub es un sitio web que proporciona acceso gratuito a millones de artículos de investigación y libros, sin tener en cuenta los derechos de autor, al pasar por alto los muros de pago de los editores de varias maneras.
 
@@ -45,11 +45,11 @@ Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al
 
 ## Biblioteca Digital
 
-* [EFILM](https://efilm.online/){:target="_blank" rel="nofollow"}: Biblioteca pública GRATIS de préstamo de películas y series digitales para varias provincias de España.. 🎬
+* [EFILM](https://efilm.online/){:target="_blank" rel="nofollow,noreferrer"}: Biblioteca pública GRATIS de préstamo de películas y series digitales para varias provincias de España.. 🎬
 
 ## Bibliotecas Digitales en Abierto
 
-* [Biblioteca Virtual: Miguel de Cervantes](http://www.cervantesvirtual.com){:target="_blank" rel="nofollow"}
+* [Biblioteca Virtual: Miguel de Cervantes](http://www.cervantesvirtual.com){:target="_blank" rel="nofollow,noreferrer"}
 
   [Area de Catálogo y Enlaces](http://www.cervantesvirtual.com/areas/) a saber;
 
@@ -63,15 +63,15 @@ Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al
   * Personajes y Portales sobre la Historia de España.
   * Heméroteca de Revistas y Manuscritos Varios, Entre Otros Más.
 
-* [Biblioteca Americana](http://www.cervantesvirtual.com/portales/biblioteca_americana/){:target="_blank" rel="nofollow"}
+* [Biblioteca Americana](http://www.cervantesvirtual.com/portales/biblioteca_americana/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Bibliotecas Digitales Abiertas en América
 
-* [Biblioteca Ayacucho](https://www.clacso.org.ar/biblioteca_ayacucho/index.php){:target="_blank" rel="nofollow"} (CLACSO)
-* [Biblioteca Digital](http://bibliotecadigital.ilce.edu.mx/){:target="_blank" rel="nofollow"} [Obras Clásicas](https://bibliotecadigital.ilce.edu.mx/Colecciones/index.php?clave=ObrasClasicas){:target="_blank" rel="nofollow"} (ILCE)
-* [Biblioteca Universal Argentina](https://www.biblioteca.org.ar/catalogo.php){:target="_blank" rel="nofollow"} (37.229 Obras) [Biblioteca Básica Argentina - Descargar](http://www.bibliotecasrurales.org.ar/biblioteca-basica-argentina.php){:target="_blank" rel="nofollow"}
-* [Red de Bibliotecas Virtuales de Ciencias Sociales](http://biblioteca.clacso.edu.ar/){:target="_blank" rel="nofollow"} (CLACSO)
-* [Librería de 1.328 Documentos Gratis](https://www.clacso.org.ar/libreria-latinoamericana/inicio.php){:target="_blank" rel="nofollow"} (CLACSO)
+* [Biblioteca Ayacucho](https://www.clacso.org.ar/biblioteca_ayacucho/index.php){:target="_blank" rel="nofollow,noreferrer"} (CLACSO)
+* [Biblioteca Digital](http://bibliotecadigital.ilce.edu.mx/){:target="_blank" rel="nofollow,noreferrer"} [Obras Clásicas](https://bibliotecadigital.ilce.edu.mx/Colecciones/index.php?clave=ObrasClasicas){:target="_blank" rel="nofollow,noreferrer"} (ILCE)
+* [Biblioteca Universal Argentina](https://www.biblioteca.org.ar/catalogo.php){:target="_blank" rel="nofollow,noreferrer"} (37.229 Obras) [Biblioteca Básica Argentina - Descargar](http://www.bibliotecasrurales.org.ar/biblioteca-basica-argentina.php){:target="_blank" rel="nofollow,noreferrer"}
+* [Red de Bibliotecas Virtuales de Ciencias Sociales](http://biblioteca.clacso.edu.ar/){:target="_blank" rel="nofollow,noreferrer"} (CLACSO)
+* [Librería de 1.328 Documentos Gratis](https://www.clacso.org.ar/libreria-latinoamericana/inicio.php){:target="_blank" rel="nofollow,noreferrer"} (CLACSO)
 
 ## Bibliotecas Presentaciales
 
@@ -79,8 +79,8 @@ Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al
 
 ## Cuentos
 
-* [Cuentos para Niñ@s (Graciosos)](https://drive.google.com/drive/folders/1EZJxQ6ao5v9hlkvxNKzG2TXKkSUJIHcA){:target="_blank" rel="nofollow"}
-* [Cuentos ILCE](http://bibliotecadigital.ilce.edu.mx/Colecciones/index.php?clave=CuentosMas){:target="_blank" rel="nofollow"}
+* [Cuentos para Niñ@s (Graciosos)](https://drive.google.com/drive/folders/1EZJxQ6ao5v9hlkvxNKzG2TXKkSUJIHcA){:target="_blank" rel="nofollow,noreferrer"}
+* [Cuentos ILCE](http://bibliotecadigital.ilce.edu.mx/Colecciones/index.php?clave=CuentosMas){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Bibliotecas en Otros Lenguajes
 
@@ -91,7 +91,7 @@ Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al
 
 ## Podcasts
 
-* [Buscador de Podcasts](https://www.listennotes.com/){:target="_blank" rel="nofollow"} (Listen Notes)
+* [Buscador de Podcasts](https://www.listennotes.com/){:target="_blank" rel="nofollow,noreferrer"} (Listen Notes)
 
 ## Autores Destacados Personalmente *
 
@@ -102,8 +102,8 @@ Búsquedas Sugeridas: Poesía Crítica, Poesía Social, Buero Vallejo, Miguel He
 ## Artes y Bellas Artes
 
 * [Real Academia de Bellas Artes de San Fernando](http://www.realacademiabellasartessanfernando.com/es)
-  * [Calcografía Nacional](http://www.realacademiabellasartessanfernando.com/es/calcografia-nacional){:target="_blank" rel="nofollow"}
-  * [La Academia de Goya](http://www.realacademiabellasartessanfernando.com/es/goya/la-academia-y-goya){:target="_blank" rel="nofollow"}
+  * [Calcografía Nacional](http://www.realacademiabellasartessanfernando.com/es/calcografia-nacional){:target="_blank" rel="nofollow,noreferrer"}
+  * [La Academia de Goya](http://www.realacademiabellasartessanfernando.com/es/goya/la-academia-y-goya){:target="_blank" rel="nofollow,noreferrer"}
 
 ## SIGLAS
 

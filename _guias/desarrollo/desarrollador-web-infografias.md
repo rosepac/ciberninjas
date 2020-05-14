@@ -25,5 +25,5 @@ toc_sticky: true
 
 <a href="https://ibb.co/gjzTJ87" title="Ver en IMGBB" target="_blank"><img src="https://i.ibb.co/h7DWVNM/diferencia-nodejs-python.png" alt="Comparativa de diferencias entre node js y python" border="0"></a>
 
-**Fuente**: [@keen_ethics](https://twitter.com/keen_ethics){:target="_blank" rel="nofollow"}
+**Fuente**: [@keen_ethics](https://twitter.com/keen_ethics){:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar 🔝](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}

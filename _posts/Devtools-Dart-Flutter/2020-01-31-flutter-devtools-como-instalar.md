@@ -52,7 +52,7 @@ Cuando se abre con una acción IntelliJ, DevTools no está conectado a una aplic
 
 ## Instale las extensiones de Visual Studio Code
 
-Para usar DevTools de VS Code, necesita la [extensión Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code){:target="_blank" rel="nofollow"} y si está depurando aplicaciones de Flutter, también debe instalar la [extensión Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter){:target="_blank" rel="nofollow"}.
+Para usar DevTools de VS Code, necesita la [extensión Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code){:target="_blank" rel="nofollow,noreferrer"} y si está depurando aplicaciones de Flutter, también debe instalar la [extensión Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## Inicie una aplicación para depurar
 
@@ -152,5 +152,5 @@ Esta URL contiene un token de seguridad, por lo que será diferente para cada ej
 
 [🎓 Cursos en Español](/cursos-tecnologia/#flutter){: .btn .btn--warning .btn--large} [👉 Ejemplos de Aplicaciones](/flutter-aplicaciones-ejemplos/){: .btn .btn--inverse .btn--large} [⚓ Documentación en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large}
 
-**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow"}
+**Fuente**: Salvo que se indique lo contrario, este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0){:target="_blank" rel="nofollow,noreferrer"} y los ejemplos de código están licenciados bajo la licencia BSD. Creado por [Flutter Oficial](https://flutter.dev/docs/development/tools/devtools){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}

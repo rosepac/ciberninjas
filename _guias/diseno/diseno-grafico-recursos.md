@@ -45,21 +45,21 @@ Los mejores programas de diseño gráfico que existen..
 
 ## Blender
 
-* [Complementos de Blender para hacer el puente entre Blender y los datos geográficos](https://github.com/domlysz/BlenderGIS#blender-gis){:target="_blank" rel="nofollow"}
+* [Complementos de Blender para hacer el puente entre Blender y los datos geográficos](https://github.com/domlysz/BlenderGIS#blender-gis){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Krita
 
-* [Krita](https://krita.org/es/){:target="_blank" rel="nofollow"} \ [Brochas](https://docs.krita.org/en/resources_page.html#brush-packs){:target="_blank" rel="nofollow"}
-  * [Plugin de Acciones](https://github.com/Larpon/krita-bulk-actions){:target="_blank" rel="nofollow"}
+* [Krita](https://krita.org/es/){:target="_blank" rel="nofollow,noreferrer"} \ [Brochas](https://docs.krita.org/en/resources_page.html#brush-packs){:target="_blank" rel="nofollow,noreferrer"}
+  * [Plugin de Acciones](https://github.com/Larpon/krita-bulk-actions){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Otros
 
 * [Armor Paint](https://80.lv/articles/open-source-painting-tool-for-3d-artists/) \ Pintura 3D.
 
-* [Sweet Home 3D](http://www.sweethome3d.com/){:target="_blank" rel="nofollow"}
+* [Sweet Home 3D](http://www.sweethome3d.com/){:target="_blank" rel="nofollow,noreferrer"}
 <!-- tutoriales de sweet home 3d - buscar youtube -->
 
-* [Natron](https://natrongithub.github.io/){:target="_blank" rel="nofollow"} \ [Plugins](https://github.com/NatronGitHub/natron-plugins){:target="_blank" rel="nofollow"}
+* [Natron](https://natrongithub.github.io/){:target="_blank" rel="nofollow,noreferrer"} \ [Plugins](https://github.com/NatronGitHub/natron-plugins){:target="_blank" rel="nofollow,noreferrer"}
 
 Software de composición de código abierto para efectos visuales y gráficos en movimiento.
 
@@ -71,33 +71,33 @@ https://www.youtube.com/watch?v=N0aKrcXX64w&t=106s
 
 ### Programas de Pago
 
-* [Substance 3d](https://www.substance3d.com/){:target="_blank" rel="nofollow"}
+* [Substance 3d](https://www.substance3d.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Concursos de Diseño Gráfico
 
-* [ArtStation Concursos](https://www.artstation.com/contests){:target="_blank" rel="nofollow"}
+* [ArtStation Concursos](https://www.artstation.com/contests){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Proyectos
 
-* [Morevna](https://morevnaproject.org/){:target="_blank" rel="nofollow"}
+* [Morevna](https://morevnaproject.org/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Recursos Videojuegos
 
-* [Open Game Art](https://opengameart.org/){:target="_blank" rel="nofollow"}
+* [Open Game Art](https://opengameart.org/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Crear Mallas
 
-* [Truco para la Creación de Mallas a través de Blender](https://www.youtube.com/watch?time_continue=335&v=kEx0aXH7Z5w&feature=emb_logo){:target="_blank" rel="nofollow"}
+* [Truco para la Creación de Mallas a través de Blender](https://www.youtube.com/watch?time_continue=335&v=kEx0aXH7Z5w&feature=emb_logo){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Crear Portfolios
 
-* [Domesetika](https://www.domestika.org/ "Domestika es la comunidad de la Clase Creativa"){:target="_blank" rel="nofollow"}
-* [ArtStation](https://www.artstation.com/ "ArtStation le ofrece una manera simple pero poderosa de mostrar su cartera y ser visto por las personas adecuadas en la industria. "){:target="_blank" rel="nofollow"}
-* [Dribble](https://dribbble.com){:target="_blank" rel="nofollow"}
+* [Domesetika](https://www.domestika.org/ "Domestika es la comunidad de la Clase Creativa"){:target="_blank" rel="nofollow,noreferrer"}
+* [ArtStation](https://www.artstation.com/ "ArtStation le ofrece una manera simple pero poderosa de mostrar su cartera y ser visto por las personas adecuadas en la industria. "){:target="_blank" rel="nofollow,noreferrer"}
+* [Dribble](https://dribbble.com){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Repositorios
 
-* [Biblioteca del patrimonio de la biodiversidad](https://www.flickr.com/photos/biodivlibrary/){:target="_blank" rel="nofollow"} 150.000 ilustraciones de animales y botánica en su cuenta de Flickr.
+* [Biblioteca del patrimonio de la biodiversidad](https://www.flickr.com/photos/biodivlibrary/){:target="_blank" rel="nofollow,noreferrer"} 150.000 ilustraciones de animales y botánica en su cuenta de Flickr.
 
 ## Repositorios 2D / 3D
 
@@ -111,12 +111,12 @@ Modelos 3D libres para su uso bajo licencias CC0 en formatos de Blender, Autodes
 
 ## Texturas y Patrones
 
-* [Patrones Top](https://www.toptal.com/designers/subtlepatterns/){:target="_blank" rel="nofollow"} 528 patrones diferentes
-* [Texturas Krita](https://docs.krita.org/en/resources_page.html#texture-packs){:target="_blank" rel="nofollow"}
+* [Patrones Top](https://www.toptal.com/designers/subtlepatterns/){:target="_blank" rel="nofollow,noreferrer"} 528 patrones diferentes
+* [Texturas Krita](https://docs.krita.org/en/resources_page.html#texture-packs){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Mejores Blogs Olvidados
 
-* Amantes de las Marcas [->](http://amantesdelasmarcas.com/){:target="_blank" rel="nofollow"}
+* Amantes de las Marcas [->](http://amantesdelasmarcas.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Mejores Blogs de Inspiración
 
@@ -124,17 +124,17 @@ Modelos 3D libres para su uso bajo licencias CC0 en formatos de Blender, Autodes
 
 ## Foros
 
-* [Foro de Krita](https://krita-artists.org){:target="_blank" rel="nofollow"}
+* [Foro de Krita](https://krita-artists.org){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Páginas Web
 
-* [Digital Synopsis](https://digitalsynopsis.com/){:target="_blank" rel="nofollow"}
+* [Digital Synopsis](https://digitalsynopsis.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Software de Pago
 
 ### Animación de "esqueletos" en 2D
 
-* [Spine 2D](http://esotericsoftware.com/){:target="_blank" rel="nofollow"}
+* [Spine 2D](http://esotericsoftware.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/diseño-grafico/#page-title){: .btn .btn--inverse .btn--large .align-center}
 

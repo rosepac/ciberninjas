@@ -233,18 +233,18 @@ El índice se creó entre mediados y finales de 2016 a partir de ~3 millionrepos
 
 ## ¿Cómo se recopilaron los datos?
 
-Extraje](https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos){:target="_blank" rel="nofollow"} palabras individuales del conjunto de datos [github_repos](https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos){:target="_blank" rel="nofollow"} usando BigQuery. Se extrae una palabra junto con las 10 líneas principales de código donde apareció esta palabra.
+Extraje](https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos){:target="_blank" rel="nofollow,noreferrer"} palabras individuales del conjunto de datos [github_repos](https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos){:target="_blank" rel="nofollow,noreferrer"} usando BigQuery. Se extrae una palabra junto con las 10 líneas principales de código donde apareció esta palabra.
 
 Aplico varias restricciones antes de guardar palabras individuales:
 
 - La línea donde aparece esta palabra debe tener menos de 120 caracteres. Esto me ayuda a filtrar el código no escrito por un humano, como JavaScript minificado.
 - Ignoro la puntuación ( `, ; : .`), los operadores ( `+ - * ...`) y `numbers`. Entonces, si la línea es `a+b + 42`, entonces solo se extraen dos palabras: `a`y `b`.
-- Ignoro las líneas con "marcadores de licencia", palabras que aparecen predominantemente dentro del texto de la licencia (p `license`. Ej . `noninfringement`, [Etc.](https://github.com/anvaka/common-words/blob/master/data-extract/ignore/index.js){:target="_blank" rel="nofollow"} ). El texto de la licencia es muy común en el código. Fue interesante verlo al principio, pero abrumador al final, así que lo filtré.
+- Ignoro las líneas con "marcadores de licencia", palabras que aparecen predominantemente dentro del texto de la licencia (p `license`. Ej . `noninfringement`, [Etc.](https://github.com/anvaka/common-words/blob/master/data-extract/ignore/index.js){:target="_blank" rel="nofollow,noreferrer"} ). El texto de la licencia es muy común en el código. Fue interesante verlo al principio, pero abrumador al final, así que lo filtré.
 - Las palabras son mayúsculas y minúsculas: `This`y `this`se contarán como dos palabras separadas.
 
-> En esta sección profundizamos en la extracción de palabras. Si no está interesado, vaya [al algoritmo de nubes de palabras](https://github.com/anvaka/common-words#how-word-clouds-are-rendered){:target="_blank" rel="nofollow"}.
+> En esta sección profundizamos en la extracción de palabras. Si no está interesado, vaya [al algoritmo de nubes de palabras](https://github.com/anvaka/common-words#how-word-clouds-are-rendered){:target="_blank" rel="nofollow,noreferrer"}.
 
-Los datos provienen del conjunto de datos públicos de GitHub, indexados por BigQuery: [github_repos](https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos){:target="_blank" rel="nofollow"}.
+Los datos provienen del conjunto de datos públicos de GitHub, indexados por BigQuery: [github_repos](https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos){:target="_blank" rel="nofollow,noreferrer"}.
 
 BigQuery almacena el contenido de cada archivo indexado en una tabla como texto sin formato:
 
@@ -267,7 +267,7 @@ Desafortunadamente, este enfoque ingenuo hace exactamente lo que a la gente no l
 
 Quería evitar este problema y permitir que las personas exploren cada palabra junto con sus contextos.
 
-Para lograr esto, creé una tabla temporal ( [código](https://github.com/anvaka/common-words/blob/master/data-extract/sql/get_all_top_lines.sql){:target="_blank" rel="nofollow"} ), que en lugar de contar palabras individuales cuenta líneas:
+Para lograr esto, creé una tabla temporal ( [código](https://github.com/anvaka/common-words/blob/master/data-extract/sql/get_all_top_lines.sql){:target="_blank" rel="nofollow,noreferrer"} ), que en lugar de contar palabras individuales cuenta líneas:
 
 | Línea                      | Contar |
 | -------------------------- | ------ |
@@ -288,13 +288,13 @@ Para obtener las mejores palabras de esta tabla, podemos emplear la técnica men
 | #ifndef FOO                | FOO       |
 | ...                        | ...       |
 
-A partir de esta representación intermedia, podemos usar la función de ventana SQL para agrupar por palabra y obtener las 10 líneas principales para cada palabra (más información aquí: [Seleccione los 10 registros principales para cada categoría](http://stackoverflow.com/questions/176964/select-top-10-records-for-each-category){:target="_blank" rel="nofollow"} )
+A partir de esta representación intermedia, podemos usar la función de ventana SQL para agrupar por palabra y obtener las 10 líneas principales para cada palabra (más información aquí: [Seleccione los 10 registros principales para cada categoría](http://stackoverflow.com/questions/176964/select-top-10-records-for-each-category){:target="_blank" rel="nofollow,noreferrer"} )
 
-El código de extracción actual se puede encontrar aquí: [extract_words.sql](https://github.com/anvaka/common-words/blob/master/data-extract/sql/extract_words.sql){:target="_blank" rel="nofollow"}
+El código de extracción actual se puede encontrar aquí: [extract_words.sql](https://github.com/anvaka/common-words/blob/master/data-extract/sql/extract_words.sql){:target="_blank" rel="nofollow,noreferrer"}
 
 **Nota 1:** Mi SQL-fu está en el jardín de infantes, así que avíseme si encuentra un error o quizás la forma más adecuada de obtener los datos. Mientras el script actual está funcionando, creo que puede haber casos en que los resultados estén ligeramente sesgados.
 
-**Nota 2:** [BigQuery](https://bigquery.cloud.google.com/){:target="_blank" rel="nofollow"} es asombroso. Es potente, flexible y rápido. Enormes felicitaciones a las personas increíbles que trabajan en él.
+**Nota 2:** [BigQuery](https://bigquery.cloud.google.com/){:target="_blank" rel="nofollow,noreferrer"} es asombroso. Es potente, flexible y rápido. Enormes felicitaciones a las personas increíbles que trabajan en él.
 
 ## ¿Cómo se representan las nubes de palabras?
 
@@ -315,14 +315,14 @@ Obviamente, cuando el lienzo está muy ocupado, encontrar un lugar para un nuevo
 
 Varias implementaciones intentaron acelerar este algoritmo indexando el espacio ocupado:
 
-- Use la [tabla de área sumada](https://en.wikipedia.org/wiki/Summed_area_table){:target="_blank" rel="nofollow"} para determinar rápidamente, en el tiempo O (1), si un nuevo rectángulo candidato se cruza con algo debajo. La desventaja de este método es que cada actualización del lienzo requiere actualizar toda la tabla, lo que da un mal rendimiento;
-- Mantenga algún tipo de información [`R-tree`](https://en.wikipedia.org/wiki/R-tree){:target="_blank" rel="nofollow"} para saber rápidamente si un nuevo rectángulo candidato se cruza con algo debajo de él. La búsqueda de intersección en este enfoque es más lenta que en las tablas de área sumadas, pero el mantenimiento del índice es más rápido.
+- Use la [tabla de área sumada](https://en.wikipedia.org/wiki/Summed_area_table){:target="_blank" rel="nofollow,noreferrer"} para determinar rápidamente, en el tiempo O (1), si un nuevo rectángulo candidato se cruza con algo debajo. La desventaja de este método es que cada actualización del lienzo requiere actualizar toda la tabla, lo que da un mal rendimiento;
+- Mantenga algún tipo de información [`R-tree`](https://en.wikipedia.org/wiki/R-tree){:target="_blank" rel="nofollow,noreferrer"} para saber rápidamente si un nuevo rectángulo candidato se cruza con algo debajo de él. La búsqueda de intersección en este enfoque es más lenta que en las tablas de área sumadas, pero el mantenimiento del índice es más rápido.
 
 Creo que el principal inconveniente de estos dos métodos es que todavía podemos obtener un punto inicial incorrecto muchas veces antes de encontrar un lugar que se ajuste al nuevo rectángulo.
 
 Quería probar algo diferente. Quería crear un índice que me permitiera elegir rápidamente un rectángulo lo suficientemente grande como para caber en mis nuevos rectángulos entrantes. Haga un índice del espacio libre, no ocupado.
 
-Elijo un [quadtree](https://en.wikipedia.org/wiki/Quadtree){:target="_blank" rel="nofollow"} para ser mi índice. Cada nodo no hoja en el árbol contiene información sobre cuántos píxeles libres están disponibles debajo. En el nivel más básico, esto puede responder de inmediato a la pregunta: "¿Hay suficiente espacio para los `M` píxeles?". Si un quad tiene menos píxeles disponibles que `M`, entonces no hay necesidad de mirar adentro.
+Elijo un [quadtree](https://en.wikipedia.org/wiki/Quadtree){:target="_blank" rel="nofollow,noreferrer"} para ser mi índice. Cada nodo no hoja en el árbol contiene información sobre cuántos píxeles libres están disponibles debajo. En el nivel más básico, esto puede responder de inmediato a la pregunta: "¿Hay suficiente espacio para los `M` píxeles?". Si un quad tiene menos píxeles disponibles que `M`, entonces no hay necesidad de mirar adentro.
 
 Eche un vistazo a este árbol cuádruple para el logotipo de JavaScript:
 
@@ -346,27 +346,27 @@ De hecho, unir quads ayuda a encontrar lugares para nuevas palabras, además de 
 
 ### Renderizando texto
 
-En general, estuve [contento](https://twitter.com/anvaka/status/801869174502879232){:target="_blank" rel="nofollow"} con la velocidad alcanzada de generación de nube de palabras. Sin embargo, todavía era demasiado lento para el `common-words`sitio web.
+En general, estuve [contento](https://twitter.com/anvaka/status/801869174502879232){:target="_blank" rel="nofollow,noreferrer"} con la velocidad alcanzada de generación de nube de palabras. Sin embargo, todavía era demasiado lento para el `common-words`sitio web.
 
 Estoy usando SVG para representar cada palabra en una pantalla. Representar solo tantos elementos de texto puede detener el hilo de la interfaz de usuario durante un par de segundos. Simplemente no hay suficiente tiempo de CPU para exprimir el cálculo del diseño del texto. La buena noticia es que no tenemos que hacerlo.
 
 En lugar de calcular el diseño de las palabras una y otra vez cada vez que abres una página, decidí calcular el diseño una vez y almacenar los resultados en un archivo JSON. Esto me ayudó a centrarme en la optimización de hilos de la interfaz de usuario.
 
-Para evitar el bloqueo de la interfaz de usuario durante largos períodos de tiempo, necesitamos agregar palabras de forma asincrónica. Dentro de un ciclo de bucle de eventos, agregamos N palabras y permitimos que el navegador maneje los comandos y actualizaciones del usuario. En el segundo ciclo de bucle agregamos más, y así sucesivamente. Para estos fines, hice [anvaka / rafor](https://github.com/anvaka/rafor){:target="_blank" rel="nofollow"}, que es un `for`iterador de bucle asíncrono que se adapta y distribuye la carga de la CPU a través de múltiples ciclos de bucle de eventos.
+Para evitar el bloqueo de la interfaz de usuario durante largos períodos de tiempo, necesitamos agregar palabras de forma asincrónica. Dentro de un ciclo de bucle de eventos, agregamos N palabras y permitimos que el navegador maneje los comandos y actualizaciones del usuario. En el segundo ciclo de bucle agregamos más, y así sucesivamente. Para estos fines, hice [anvaka / rafor](https://github.com/anvaka/rafor){:target="_blank" rel="nofollow,noreferrer"}, que es un `for`iterador de bucle asíncrono que se adapta y distribuye la carga de la CPU a través de múltiples ciclos de bucle de eventos.
 
 ### Menú y zoom
 
-El sitio web admite mapas de Google como la navegación en la escena SVG. También es móvil y compatible con el teclado. Todas estas características son implementadas por la biblioteca [panzoom](https://github.com/anvaka/panzoom){:target="_blank" rel="nofollow"}.
+El sitio web admite mapas de Google como la navegación en la escena SVG. También es móvil y compatible con el teclado. Todas estas características son implementadas por la biblioteca [panzoom](https://github.com/anvaka/panzoom){:target="_blank" rel="nofollow,noreferrer"}.
 
 ### Estructura de aplicación
 
-Estoy usando [vue.js](https://vuejs.org/){:target="_blank" rel="nofollow"} como mi marco de representación. Principalmente porque es muy simple y rápido. Los componentes de un solo archivo y la recarga en caliente agilizan el desarrollo.
+Estoy usando [vue.js](https://vuejs.org/){:target="_blank" rel="nofollow,noreferrer"} como mi marco de representación. Principalmente porque es muy simple y rápido. Los componentes de un solo archivo y la recarga en caliente agilizan el desarrollo.
 
-Todo el estado de la aplicación se almacena en un [solo objeto](https://github.com/anvaka/common-words/blob/master/web/src/state/appState.js){:target="_blank" rel="nofollow"} y los archivos de idiomas individuales se cargan cuando el usuario selecciona el elemento correspondiente de un menú desplegable.
+Todo el estado de la aplicación se almacena en un [solo objeto](https://github.com/anvaka/common-words/blob/master/web/src/state/appState.js){:target="_blank" rel="nofollow,noreferrer"} y los archivos de idiomas individuales se cargan cuando el usuario selecciona el elemento correspondiente de un menú desplegable.
 
-Como mi despachador de mensajes, estoy usando [ngraph.events](https://github.com/anvaka/ngraph.events){:target="_blank" rel="nofollow"}, una biblioteca de mensajes muy pequeña que se enfoca en la velocidad.
+Como mi despachador de mensajes, estoy usando [ngraph.events](https://github.com/anvaka/ngraph.events){:target="_blank" rel="nofollow,noreferrer"}, una biblioteca de mensajes muy pequeña que se enfoca en la velocidad.
 
-Utilizo [anvaka / query-state](https://github.com/anvaka/query-state){:target="_blank" rel="nofollow"} para almacenar el idioma seleccionado actualmente en la cadena de consulta.
+Utilizo [anvaka / query-state](https://github.com/anvaka/query-state){:target="_blank" rel="nofollow,noreferrer"} para almacenar el idioma seleccionado actualmente en la cadena de consulta.
 
 [![estado de consulta](https://raw.githubusercontent.com/anvaka/common-words/master/docs/query-state.gif)](https://raw.githubusercontent.com/anvaka/common-words/master/docs/query-state.gif)
 
@@ -391,4 +391,4 @@ Pasé los últimos meses de mi tiempo libre desarrollando mi propio algoritmo de
 
 -----
 
-**Fuente**: [Repositorio de Github: Anvaka](https://anvaka.github.io/common-words/#?lang=js){:target="_blank" rel="nofollow"} bajo [Licencia MIT](https://github.com/anvaka/common-words/blob/master/LICENSE){:target="_blank" rel="nofollow"}
+**Fuente**: [Repositorio de Github: Anvaka](https://anvaka.github.io/common-words/#?lang=js){:target="_blank" rel="nofollow,noreferrer"} bajo [Licencia MIT](https://github.com/anvaka/common-words/blob/master/LICENSE){:target="_blank" rel="nofollow,noreferrer"}

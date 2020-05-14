@@ -21,5 +21,5 @@ toc_sticky: true
 
 Un directorio seleccionado de los libros más impactantes para ayudarte en tu viaje de inicio
 
-**Licencia**: Este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES){:target="_blank" rel="nofollow"} traducción de [Go Books](https://github.com/sger/ElixirBooks#awesome-elixir-books-){:target="_blank" rel="nofollow"}.
+**Licencia**: Este trabajo está licenciado bajo una [licencia internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES){:target="_blank" rel="nofollow,noreferrer"} traducción de [Go Books](https://github.com/sger/ElixirBooks#awesome-elixir-books-){:target="_blank" rel="nofollow,noreferrer"}.
 {: .notice--info}

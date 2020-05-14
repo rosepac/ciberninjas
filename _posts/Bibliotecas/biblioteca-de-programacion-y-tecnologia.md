@@ -897,10 +897,6 @@ Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://cibern
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-### **Nos Referencian**
-
-* [Consejo Escolar](https://www.consejoescolar.es/blog/libros-gratis-de-programacion){:target="_blank" rel="nofollow,noreferrer"}
-
 <a class="chollometro-deal" href="https://www.chollometro.com/visit/embeddedthread/88330" target="_blank" rel="nofollow noopener" >Libros de programación, criptomonedas, etc; todo en español</a>
 <script src="//www.chollometro.com/assets/js/share/thread-embed.js" async="true"></script>
 

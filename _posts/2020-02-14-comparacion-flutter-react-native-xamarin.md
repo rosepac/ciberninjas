@@ -36,7 +36,7 @@ Hay varios frameworks multiplataforma disponibles y las preguntas más habituale
 
 El inicio de este artículo parte de una investigación en profundidad sobre el uso de [Flutter](/como-aprender-flutter/) y una exhaustiva evaluación de sus posibilidades. Se ha intentado analizar cuanto de complicado podría ser llegar a aprenderlo; y posteriormente, se pensó en analizar también. Los frameworks considerados con un mayor crecimiento (sé, que se ha dejado aparacado a Vue, por ahora).
 
-Entre las soluciones para la creación de aplicaciones multiplataforma, existen otras muchas [más herramientas en el mercado](/mejores-sdk-multiplataforma-2019-20){:target="_blank" rel="nofollow"}, como en su día ya [analizamos aquí](/mejores-sdk-multiplataforma-2019-20){:target="_blank" rel="nofollow"}; en Ciberninjas.
+Entre las soluciones para la creación de aplicaciones multiplataforma, existen otras muchas [más herramientas en el mercado](/mejores-sdk-multiplataforma-2019-20){:target="_blank" rel="nofollow,noreferrer"}, como en su día ya [analizamos aquí](/mejores-sdk-multiplataforma-2019-20){:target="_blank" rel="nofollow,noreferrer"}; en Ciberninjas.
 
 Si repasamos el nombre de algunas de ellas en la actualidad, tendríamos que citar a: Flutter, React Native, Xamarin, Vue, PWA (aplicaciones web progresivas), Kotlin Native, J2Objective C (Doppl), Ionic, Cordoba (PhoneGap / Titanium), Unity.. y seguro que alguna más.
 
@@ -75,13 +75,13 @@ Flutter ha estado disponible desde hace menos de 5 años y lanzado oficialmente 
 
 Flutter es una tecnología desarrollada por Google que se basa en Dart y un motor portátil de C++ para implementar un potente framework de interfaz de usuario.
 
-A pesar de que Dart no recibió mucho cariño en la [encuesta de desarrolladores](https://insights.stackoverflow.com/survey/2017#most-loved-dreaded-and-wanted){:target="_blank" rel="nofollow"} de 2017 de Stack Overflow, las primeras publicaciones del blog de Flutter fueron recibidas con una mirada positiva.
+A pesar de que Dart no recibió mucho cariño en la [encuesta de desarrolladores](https://insights.stackoverflow.com/survey/2017#most-loved-dreaded-and-wanted){:target="_blank" rel="nofollow,noreferrer"} de 2017 de Stack Overflow, las primeras publicaciones del blog de Flutter fueron recibidas con una mirada positiva.
 
-No existe una hoja de ruta bien definida para Flutter, pero si te fijas lo suficiente, puedes encontrar sus [hitos](https://github.com/flutter/flutter/milestones){:target="_blank" rel="nofollow"} actuales y detalles específicos sobre en qué están trabajando a través de la [discusión de este tema](https://github.com/flutter/flutter/issues/13009#issuecomment-344308441){:target="_blank" rel="nofollow"} de Github.
+No existe una hoja de ruta bien definida para Flutter, pero si te fijas lo suficiente, puedes encontrar sus [hitos](https://github.com/flutter/flutter/milestones){:target="_blank" rel="nofollow,noreferrer"} actuales y detalles específicos sobre en qué están trabajando a través de la [discusión de este tema](https://github.com/flutter/flutter/issues/13009#issuecomment-344308441){:target="_blank" rel="nofollow,noreferrer"} de Github.
 
-El equipo de Flutter se encuentra manteniendo y dando asistencia dentro del [subreddit de FlutterDev](https://www.reddit.com/r/FlutterDev/){:target="_blank" rel="nofollow"} en el que se encuentran más de 29.000 usuarios y en el chat de [Gitter.im](https://gitter.im/flutter/flutter){:target="_blank" rel="nofollow"} donde puedes encontrar más de 10.000 usuarios.
+El equipo de Flutter se encuentra manteniendo y dando asistencia dentro del [subreddit de FlutterDev](https://www.reddit.com/r/FlutterDev/){:target="_blank" rel="nofollow,noreferrer"} en el que se encuentran más de 29.000 usuarios y en el chat de [Gitter.im](https://gitter.im/flutter/flutter){:target="_blank" rel="nofollow,noreferrer"} donde puedes encontrar más de 10.000 usuarios.
 
-Por último,  existe un [Foro de Grupo de Google con Devs de Flutter](https://groups.google.com/forum/#!forum/flutter-dev){:target="_blank" rel="nofollow"} en el que ya existen más de 3.800 temas abiertos; y también puedes encontrar a los desarrolladores especializados en Flutter dentro de Stack Overflow.
+Por último,  existe un [Foro de Grupo de Google con Devs de Flutter](https://groups.google.com/forum/#!forum/flutter-dev){:target="_blank" rel="nofollow,noreferrer"} en el que ya existen más de 3.800 temas abiertos; y también puedes encontrar a los desarrolladores especializados en Flutter dentro de Stack Overflow.
 
 Encontrar personal para desarrollar con Dart y Flutter no será fácil ya que la plataforma es bastante reciente y el lenguaje Dart es un lenguaje centrado específicamente en un aspecto muy concreto. Más, los desarrolladores de Java y Kotlin pueden aprenderlo fácilmente.
 
@@ -93,11 +93,11 @@ Además de las APIs de pagos, Bluetooth y NFC, la mayoría de las APIs de hardwa
 
 Cada vez, van existiendo muchos más complementos, pero algunas áreas aún aparecen pendientes de ser investigadas. Por ejemplo, el soporte para vídeos en línea y los mapas dinámicos todavía están en desarrollo a día de hoy; pero ya van naciendo proyectos experimentales con la capacidad de afrontar estos problemas.
 
-Dado que la interfaz de usuario personalizada y de alto rendimiento es el [foco principal](https://medium.com/@xster/why-flutter-doesnt-use-oem-widgets-94746e812510){:target="_blank" rel="nofollow"} de Flutter, el framework está orientado a proporcionar una interfaz de usuario profundamente personalizada, a semejanza de una interfaz nativa buscando el objetivo de que los usuarios no se sientan extraños.
+Dado que la interfaz de usuario personalizada y de alto rendimiento es el [foco principal](https://medium.com/@xster/why-flutter-doesnt-use-oem-widgets-94746e812510){:target="_blank" rel="nofollow,noreferrer"} de Flutter, el framework está orientado a proporcionar una interfaz de usuario profundamente personalizada, a semejanza de una interfaz nativa buscando el objetivo de que los usuarios no se sientan extraños.
 
 Flutter proporciona una implementación completa del cuerpo de la interfaz de usuario que no utiliza componentes de la interfaz de usuario nativos, para permitir así; el grado requerido de personalización, portabilidad y rendimiento.
 
-Si se desea una interfaz de usuario personalizada para cada plataforma, se debe detectar el [dispositivo actual](https://github.com/flutter/plugins/tree/master/packages/device_info){:target="_blank" rel="nofollow"} y decidir qué diseño crear, lo que podría ser extremadamente tedioso.
+Si se desea una interfaz de usuario personalizada para cada plataforma, se debe detectar el [dispositivo actual](https://github.com/flutter/plugins/tree/master/packages/device_info){:target="_blank" rel="nofollow,noreferrer"} y decidir qué diseño crear, lo que podría ser extremadamente tedioso.
 
 Es importante tener en cuenta que es posible incrustar un `FlutterView` muy fácilmente en un diseño nativo de Android, para mezclarlo con la interfaz de usuario nativa sobre una misma pantalla; y esto también es posible en iOS; pero hasta el momento, aún no se ha documentado.
 
@@ -111,7 +111,7 @@ Sin embargo, ejecutar pruebas de integración es algo complicado. Por último, F
 
 Flutter, es posiblemente considerada la mejor herramienta para el desarrollo móvil multiplataforma en un futuro cercano. Está desarrollada y respaldada por Google. Flutter usa Dart y una colección de widgets nativos para en conjunto crear impresionantes aplicaciones multiplataforma.
 
-**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Relación entre Flutter y Dart](/relacion-entre-dart-flutter/), [Guía DevTools](/flutter-dart-devtools/#gu%C3%ADa-devtools), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow"}
+**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Relación entre Flutter y Dart](/relacion-entre-dart-flutter/), [Guía DevTools](/flutter-dart-devtools/#gu%C3%ADa-devtools), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
 
 ## Ventajas de usar Flutter
@@ -152,9 +152,9 @@ Eso hace que el diseño de Flutter sea visible de inmediato.
 
 ![Las ventajas de flutter y aplicaciones, visto en Ciberninjas](/assets/images/wallpaper/react-native/reactive-native-logo.webp "Las ventajas de flutter y aplicaciones, visto en Ciberninjas")
 
-React Native se lanzó públicamente como código abierto a través de GitHub en 2015 y es el más popular de los tres frameworks en Stack Overflow y Google. A pesar de ser un framework bastante "viejo" ya, no existe una hoja de ruta clara, solo una [página dedicada en GitHub](https://github.com/facebook/react-native/wiki/Roadmap){:target="_blank" rel="nofollow"} que enumera los diferentes objetivos a alcanzar.
+React Native se lanzó públicamente como código abierto a través de GitHub en 2015 y es el más popular de los tres frameworks en Stack Overflow y Google. A pesar de ser un framework bastante "viejo" ya, no existe una hoja de ruta clara, solo una [página dedicada en GitHub](https://github.com/facebook/react-native/wiki/Roadmap){:target="_blank" rel="nofollow,noreferrer"} que enumera los diferentes objetivos a alcanzar.
 
-Existe una gran comunidad con (en el momento de la escritura) un [subreddit](https://www.reddit.com/r/reactnative/){:target="_blank" rel="nofollow"} de + 44.000 usuarios, un [chat de Discord](http://join.reactiflux.com/){:target="_blank" rel="nofollow"} de + 98.000 usuarios y un fuerte soporte en Stack Overflow. Encontrar apoyo entre la comunidad es mucho más fácil que con Flutter, pero los desarrolladores de React Native ciertamente no son tan comunes como puede parecer.
+Existe una gran comunidad con (en el momento de la escritura) un [subreddit](https://www.reddit.com/r/reactnative/){:target="_blank" rel="nofollow,noreferrer"} de + 44.000 usuarios, un [chat de Discord](http://join.reactiflux.com/){:target="_blank" rel="nofollow,noreferrer"} de + 98.000 usuarios y un fuerte soporte en Stack Overflow. Encontrar apoyo entre la comunidad es mucho más fácil que con Flutter, pero los desarrolladores de React Native ciertamente no son tan comunes como puede parecer.
 
 Llegar a encontrar desarrolladores móviles nativos que también tengan conocimiento de React y JavaScript podría ser una tarea difícil.
 
@@ -214,15 +214,15 @@ React Native es un framework de desarrollo móvil de código abierto para el des
 
 Xamarin es el más antiguo de los tres frameworks, ya lleva más de 8 años. Es de código abierto, pero bajo un desarrollo centrado en el equipo de Microsoft. No posee la mejor reputación de herramientas, estabilidad y rendimiento entre los desarrolladores móviles, pero los desarrolladores empresariales de .Net parecen felices con él.
 
-No existen hojas de ruta específicas para Xamarin o Android / iOS disponibles públicamente, pero hay una para [`Xamarin.Forms`](https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap){:target="_blank" rel="nofollow"}. Ser el framework más antiguo hace posible la existencia de una exhaustiva [documentación](https://developer.xamarin.com/){:target="_blank" rel="nofollow"}.
+No existen hojas de ruta específicas para Xamarin o Android / iOS disponibles públicamente, pero hay una para [`Xamarin.Forms`](https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap){:target="_blank" rel="nofollow,noreferrer"}. Ser el framework más antiguo hace posible la existencia de una exhaustiva [documentación](https://developer.xamarin.com/){:target="_blank" rel="nofollow,noreferrer"}.
 
-Además, cuenta con una [comunidad Slack](https://xamarinchat.herokuapp.com/){:target="_blank" rel="nofollow"} de más de 6.400 usuarios, muchas [reuniones](https://www.meetup.com/topics/xamarin/){:target="_blank" rel="nofollow"} / meetup y un sólido soporte a través de Stack Overflow.
+Además, cuenta con una [comunidad Slack](https://xamarinchat.herokuapp.com/){:target="_blank" rel="nofollow,noreferrer"} de más de 6.400 usuarios, muchas [reuniones](https://www.meetup.com/topics/xamarin/){:target="_blank" rel="nofollow,noreferrer"} / meetup y un sólido soporte a través de Stack Overflow.
 
 Encontrar ingenieros para el framework .Net no debe ser difícil, pero encontrar ingenieros .Net con los conocimientos móviles específicos para la creación de apps nativas seguramente resulte más complicado.
 
 Xamarin proporciona contenedores a varias bibliotecas de terceros, que generalmente ahorran mucho tiempo, ya que son un poco difíciles de crear, especialmente en iOS, donde no hay una herramienta automatizada para generar un punto de partida.
 
-Muchas de estas extensiones se recopilan en la biblioteca de [componentes de Xamarin](https://components.xamarin.com/){:target="_blank" rel="nofollow"}, donde puede encontrar enlaces para Play Services, Firebase, Adobe Analytics y varios otros servicios ampliamente utilizados.
+Muchas de estas extensiones se recopilan en la biblioteca de [componentes de Xamarin](https://components.xamarin.com/){:target="_blank" rel="nofollow,noreferrer"}, donde puede encontrar enlaces para Play Services, Firebase, Adobe Analytics y varios otros servicios ampliamente utilizados.
 
 La mayoría de los enlaces son gratuitos, algunos otros son de pago, por ejemplo; el componente de reproducción de vídeo. Dicho esto, la gran mayoría de los contenedores tienen bajas calificaciones de los usuarios, incluso los proporcionados por el equipo de Xamarin.
 
@@ -282,7 +282,7 @@ Partiendo de la base de que los frameworks multiplataforma no son la panacea del
 
 Seguramente, si son implementados bajo las situaciones en que se logré cubrir las necesidades y problemas fundamentales que nuestro cliente nos plantea, lograremos ver como estas herramientas brillan siendo la piedra angular de nuestros proyectos.
 
-**Fuentes**\: [HackerNoon](https://hackernoon.com/flutter-vs-react-native-vs-xamarin-for-cross-platform-development-5f92cfb178ff){:target="_blank" rel="nofollow"} + [Novoda](https://blog.novoda.com/react-native-flutter-xamarin-a-comparison/){:target="_blank" rel="nofollow"} + [Google](https://google.es/){:target="_blank" rel="nofollow"}
+**Fuentes**\: [HackerNoon](https://hackernoon.com/flutter-vs-react-native-vs-xamarin-for-cross-platform-development-5f92cfb178ff){:target="_blank" rel="nofollow,noreferrer"} + [Novoda](https://blog.novoda.com/react-native-flutter-xamarin-a-comparison/){:target="_blank" rel="nofollow,noreferrer"} + [Google](https://google.es/){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
 ## Mucho Más..

@@ -29,10 +29,10 @@ Rome es experimental y en desarrollo activo. Está abierto para contribuyentes y
 
 ## **Historia de Rome**
 
-- **Rome** fue iniciada por [Sebastian McKenzie](https://twitter.com/sebmck){:target="_blank" rel="nofollow"} , el autor de [Babel](https://babeljs.io/){:target="_blank" rel="nofollow"} and [Yarn](https://yarnpkg.com/){:target="_blank" rel="nofollow"}.
-- **Rome** es un proyecto del equipo [React Native](https://github.com/facebook/react-native/){:target="_blank" rel="nofollow"} de Facebook.
+- **Rome** fue iniciada por [Sebastian McKenzie](https://twitter.com/sebmck){:target="_blank" rel="nofollow,noreferrer"} , el autor de [Babel](https://babeljs.io/){:target="_blank" rel="nofollow,noreferrer"} and [Yarn](https://yarnpkg.com/){:target="_blank" rel="nofollow,noreferrer"}.
+- **Rome** es un proyecto del equipo [React Native](https://github.com/facebook/react-native/){:target="_blank" rel="nofollow,noreferrer"} de Facebook.
 - **Rome** recibe su nombre de proverbios como "Todos los caminos llevan a Rome", "Rome no se construyó en un día" y "Cuando en Rome, haga lo que hacen los Romenos". Esto se refiere al alcance expansivo y al deseo de conformidad en todo el proyecto. Comenzó como una bRome en la oficina.
-- **Rome** tiene el logotipo de un casco espartano griego antiguo. No es muy relevante ya que no es Romeno, pero se ve más genial que una [Galea](https://en.wikipedia.org/wiki/Galea_(helmet)){:target="_blank" rel="nofollow"}.
+- **Rome** tiene el logotipo de un casco espartano griego antiguo. No es muy relevante ya que no es Romeno, pero se ve más genial que una [Galea](https://en.wikipedia.org/wiki/Galea_(helmet)){:target="_blank" rel="nofollow,noreferrer"}.
 
 ## **Características de Rome**
 
@@ -46,9 +46,9 @@ Rome es experimental y en desarrollo activo. Está abierto para contribuyentes y
 ## **Código Base de Rome**
 
 - **Rome** está escrito completamente en TypeScript con un uso moderado de tipos sueltos.
-- **Rome** es un monorepo con [paquetes internos](https://github.com/facebookexperimental/rome/blob/master/packages/@romejs){:target="_blank" rel="nofollow"} para delinear los límites del código.
-- **Rome** es [autohospedada](https://en.wikipedia.org/wiki/Self-hosting_(compilers)){:target="_blank" rel="nofollow"} y se compila con una versión antigua.
-- **Rome** admite el procesamiento de [JSX](https://reactjs.org/docs/introducing-jsx.html){:target="_blank" rel="nofollow"}, así como el código anotado [Flow](https://flow.org/){:target="_blank" rel="nofollow"} y [TypeScript](https://www.typescriptlang.org/){:target="_blank" rel="nofollow"} .
+- **Rome** es un monorepo con [paquetes internos](https://github.com/facebookexperimental/rome/blob/master/packages/@romejs){:target="_blank" rel="nofollow,noreferrer"} para delinear los límites del código.
+- **Rome** es [autohospedada](https://en.wikipedia.org/wiki/Self-hosting_(compilers)){:target="_blank" rel="nofollow,noreferrer"} y se compila con una versión antigua.
+- **Rome** admite el procesamiento de [JSX](https://reactjs.org/docs/introducing-jsx.html){:target="_blank" rel="nofollow,noreferrer"}, así como el código anotado [Flow](https://flow.org/){:target="_blank" rel="nofollow,noreferrer"} y [TypeScript](https://www.typescriptlang.org/){:target="_blank" rel="nofollow,noreferrer"} .
 
 ## **Filosofía de Rome**
 
@@ -84,7 +84,7 @@ $ echo  ' {} '  > rome.json
 
 Este archivo se utiliza para configurar Rome e indica los límites de su proyecto.
 
-Consulte [los primeros pasos](https://github.com/facebookexperimental/rome/blob/master/docs/getting-started.md){:target="_blank" rel="nofollow"} para obtener más instrucciones de uso.
+Consulte [los primeros pasos](https://github.com/facebookexperimental/rome/blob/master/docs/getting-started.md){:target="_blank" rel="nofollow,noreferrer"} para obtener más instrucciones de uso.
 
 ## **Instalación de Rome**
 
@@ -92,7 +92,7 @@ Consulte [los primeros pasos](https://github.com/facebookexperimental/rome/blob/
 
 Para instalar Rome, debe tener `node` y `npm` instalado en su sistema. Si no tiene `node` e `npm` instalado, instálelos antes de continuar.
 
-## [Clonación y construcción](https://romejs.dev/docs/introduction/installation#cloning-and-building){:target="_blank" rel="nofollow"}
+## [Clonación y construcción](https://romejs.dev/docs/introduction/installation#cloning-and-building){:target="_blank" rel="nofollow,noreferrer"}
 
 Rome no está disponible a través de `npm` y debe instalarse desde GitHub. En una carpeta de su elección, clone el `rome` repositorio:
 
@@ -150,7 +150,7 @@ La ejecución `rome init` con la configuración recomendada crea un archivo de c
 
 Este archivo le dice a `rome` que debe ser al menos la versión 0.0.52 para trabajar con su proyecto, y que debe alinear su código. Si desea deshabilitar el linting o aplicar configuraciones avanzadas, consulte la documentacion con `rome init`.
 
-### **[Ejecutando su código](https://romejs.dev/docs/introduction/getting-started#running-your-code){:target="_blank" rel="nofollow"}**
+### **[Ejecutando su código](https://romejs.dev/docs/introduction/getting-started#running-your-code){:target="_blank" rel="nofollow,noreferrer"}**
 
 
 El comando `rome run` ejecutará cualquier archivo que se le pase. Use este comando con el archivo principal de su proyecto, por ejemplo:
@@ -159,7 +159,7 @@ El comando `rome run` ejecutará cualquier archivo que se le pase. Use este coma
 rome run index.js
 ```
 
-Rome todavía está en desarrollo activo y es posible que no pueda procesar correctamente todos los archivos fuente. Si puede ejecutar un archivo con `node` pero no con `rome`, [cree un problema](https://github.com/facebookexperimental/rome/issues/new?labels=bug&template=01_bug.md&title=){:target="_blank" rel="nofollow"}
+Rome todavía está en desarrollo activo y es posible que no pueda procesar correctamente todos los archivos fuente. Si puede ejecutar un archivo con `node` pero no con `rome`, [cree un problema](https://github.com/facebookexperimental/rome/issues/new?labels=bug&template=01_bug.md&title=){:target="_blank" rel="nofollow,noreferrer"}
 
 ## [Otros comandos](https://romejs.dev/docs/introduction/getting-started#other-commands)
 
@@ -189,8 +189,8 @@ rome parse file.js
 
 ## Licencia
 
-**Rome** tiene [licencia del MIT](https://github.com/facebookexperimental/rome/blob/master/LICENSE){:target="_blank" rel="nofollow"} y el proyecto se gestiona bajo el [Código de Conducta del Pacto](https://github.com/facebookexperimental/rome/blob/master/.github/CODE_OF_CONDUCT.md){:target="_blank" rel="nofollow"} del [Colaborador](https://github.com/facebookexperimental/rome/blob/master/.github/CODE_OF_CONDUCT.md){:target="_blank" rel="nofollow"}.
-**Fuente**\: [Repositorio de Github](https://github.com/facebookexperimental/rome "Repositorio de Github"){:target="_blank" rel="nofollow"}
+**Rome** tiene [licencia del MIT](https://github.com/facebookexperimental/rome/blob/master/LICENSE){:target="_blank" rel="nofollow,noreferrer"} y el proyecto se gestiona bajo el [Código de Conducta del Pacto](https://github.com/facebookexperimental/rome/blob/master/.github/CODE_OF_CONDUCT.md){:target="_blank" rel="nofollow,noreferrer"} del [Colaborador](https://github.com/facebookexperimental/rome/blob/master/.github/CODE_OF_CONDUCT.md){:target="_blank" rel="nofollow,noreferrer"}.
+**Fuente**\: [Repositorio de Github](https://github.com/facebookexperimental/rome "Repositorio de Github"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
 ## Relacionados

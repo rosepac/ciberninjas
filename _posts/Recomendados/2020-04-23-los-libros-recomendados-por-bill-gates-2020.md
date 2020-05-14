@@ -43,10 +43,10 @@ header:
 </nav>
 </details>
 
-**🔥 Libros Recomendados Por..**: Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank" rel="nofollow"} >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/){:target="_blank" rel="nofollow"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow"} >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
+**🔥 Libros Recomendados Por..**: Barack Obama 2019 - [Saber Más](/los-libros-de-obama-2019/){:target="_blank" rel="nofollow,noreferrer"} >> Barack Obama 2020 - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/){:target="_blank" rel="nofollow,noreferrer"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow,noreferrer"} >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}
 
-## **[1. Un matrimonio americano por Tayari Jones](https://amzn.to/2UNvZY4){:target="_blank" rel="nofollow"}**
+## **[1. Un matrimonio americano por Tayari Jones](https://amzn.to/2UNvZY4){:target="_blank" rel="nofollow,noreferrer"}**
 
 Los recién casados, Celestial y Roy, son la encarnación tanto del sueño americano como del nuevo sur. Él es un joven ejecutivo y ella es artista al borde de una carrera emocionante. Se están instalando en la rutina de su vida juntos, cuando son destrozados por circunstancias que ninguno de los dos podría haber imaginado.
 
@@ -66,7 +66,7 @@ Esta emocionante historia de amor es una mirada profundamente perspicaz a los co
 <p>Silver Sparrow fue nombrado # 1 Indie Next Pick por los libreros en 2011, y la NEA lo agregó a su Biblioteca de clásicos Big Read en 2016. Jones se graduó de Spelman College, University of Iowa y Arizona State University. Actualmente es profesora asociada en el programa MFA en la Universidad Rutgers-Newark.</p>
 </details>
 
-## **[2. Estas Verdades: Una Historia de EEUU](https://amzn.to/34dJPpq){:target="_blank" rel="nofollow"}**
+## **[2. Estas Verdades: Una Historia de EEUU](https://amzn.to/34dJPpq){:target="_blank" rel="nofollow,noreferrer"}**
 No traducido al español.
 
 Ampliamente aclamado por su "relato amplio y aleccionador del pasado estadounidense" ( New York Times Book Review ), la historia de un volumen de América de Jill Lepore coloca la verdad misma, una devoción a los hechos, pruebas y pruebas, en el centro de la nación.
@@ -90,7 +90,7 @@ Estas verdadescuenta esta historia exclusivamente estadounidense, que comenzó e
 <p>Su investigación ha sido financiada por el National Endowment for the Humanities, la Pew Foundation, el Gilder Lehrman Institute, el Charles Warren Center y la Woodrow Wilson Foundation. Se ha desempeñado como consultora para el Servicio de Parques Nacionales y actualmente es miembro de los consejos de la National Portrait Gallery y la Society of American Historians.</p>
 </details>
 
-## **[3. Crecimiento por Vaclav Smil](https://amzn.to/2x8yDhJ){:target="_blank" rel="nofollow"}**
+## **[3. Crecimiento por Vaclav Smil](https://amzn.to/2x8yDhJ){:target="_blank" rel="nofollow,noreferrer"}**
 
 Crecimientos: De microorganismos a megaciudades. El crecimiento ha sido tanto un objetivo tácito como explícito de nuestro esfuerzo individual y colectivo. Gobierna la vida de microorganismos y galaxias; da forma a las capacidades de nuestros cerebros extraordinariamente grandes y la fortuna de nuestras economías.
 
@@ -114,7 +114,7 @@ Considera los desafíos de rastrear el crecimiento de imperios y civilizaciones,
 <p>Ha trabajado como consultor para muchas instituciones estadounidenses, de la UE e internacionales, ha sido orador invitado en casi 400 conferencias y talleres en los EE. UU., Canadá, Europa, Asia y África, y ha dado conferencias en muchas universidades de América del Norte, Europa y Este de Asia. Su esposa Eva es médica y su hijo David es químico orgánico.</p>
 </details>
 
-## **[4. Preparado por Diane Tavenner](https://amzn.to/2wmS2vc){:target="_blank" rel="nofollow"}**
+## **[4. Preparado por Diane Tavenner](https://amzn.to/2wmS2vc){:target="_blank" rel="nofollow,noreferrer"}**
 
 Diane Tavenner, fundadora de las Escuelas Públicas de Summit, ofrece un plan para una mejor manera de educar a nuestros hijos, basado en las lecciones revolucionarias, las ideas y la metodología que ella y su facultad desarrollaron durante 15 años en sus famosas escuelas charter en California y Washington, que ahora se está presentando a los sistemas de escuelas públicas en todo el país con los que Summitt se está asociando para transformar la educación y preparar mejor a nuestros niños para llevar una vida plena y exitosa.
 
@@ -134,7 +134,7 @@ Hoy, Tavenner y las Escuelas Públicas de Summit se están asociando con 400 esc
 <p></p>
 </details>
 
-## **[5. ¿Por qué dormimos? por Matthew Walker](https://amzn.to/34gA5ee){:target="_blank" rel="nofollow"}**
+## **[5. ¿Por qué dormimos? por Matthew Walker](https://amzn.to/34gA5ee){:target="_blank" rel="nofollow,noreferrer"}**
 
 El primer libro sobre el sueño de un experto científico líder, el profesor Matthew Walker, director del Laboratorio de sueño y neuroimagen de la Universidad de Berkeley, revela su innovadora exploración del sueño, explicando cómo podemos aprovechar su poder transformador para cambiar nuestras vidas para mejor .
 

@@ -31,7 +31,7 @@ A si como de otros, como por ejemplo: los sistemas de integración continuada o 
 
 * [10 comandos más importantes de Git que todo desarrollador debe saber](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
 * [Automatice las actualizaciones de dependencia de GitHub con Dependabot](https://bolajiayodeji.com/automate-github-dependency-updates-with-dependabot-ck4u3kd2d00hktjs1llbiuf8d)
-* [Guía de principiantes para el control de versiones con Git y GitHub](https://medium.com/faun/beginners-guide-to-version-control-using-git-and-github-8bf44b421140){:target="_blank" rel="nofollow"}
+* [Guía de principiantes para el control de versiones con Git y GitHub](https://medium.com/faun/beginners-guide-to-version-control-using-git-and-github-8bf44b421140){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Chuletas
 
@@ -39,18 +39,18 @@ A si como de otros, como por ejemplo: los sistemas de integración continuada o 
 
 ## Github
 
-* [Github](https://help.github.com/es/github){:target="_blank" rel="nofollow"}
-* [Cómo utilizar .gitignore](https://desarrolloweb.com/articulos/archivo-gitignore.html){:target="_blank" rel="nofollow"}
-* [Cómo agregar un sponsor a tu repositorio](https://help.github.com/es/github/administering-a-repository/displaying-a-sponsor-button-in-your-repository){:target="_blank" rel="nofollow"}
+* [Github](https://help.github.com/es/github){:target="_blank" rel="nofollow,noreferrer"}
+* [Cómo utilizar .gitignore](https://desarrolloweb.com/articulos/archivo-gitignore.html){:target="_blank" rel="nofollow,noreferrer"}
+* [Cómo agregar un sponsor a tu repositorio](https://help.github.com/es/github/administering-a-repository/displaying-a-sponsor-button-in-your-repository){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Git
 
-* [Herramienta de Aprendizaje de Git](https://learngitbranching.js.org/?demo){:target="_blank" rel="nofollow"}
+* [Herramienta de Aprendizaje de Git](https://learngitbranching.js.org/?demo){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Sistemas de Integración Continua
 
-* [Travis CI Foro de Ayuda](https://travis-ci.community/latest){:target="_blank" rel="nofollow"}
-  * Travis Despliegue Nueva Versión 2.0 [v 2.0](https://docs.travis-ci.com/user/deployment-v2){:target="_blank" rel="nofollow"}
+* [Travis CI Foro de Ayuda](https://travis-ci.community/latest){:target="_blank" rel="nofollow,noreferrer"}
+  * Travis Despliegue Nueva Versión 2.0 [v 2.0](https://docs.travis-ci.com/user/deployment-v2){:target="_blank" rel="nofollow,noreferrer"}
 
 **Fuente**: Mis marcadores del navegador 😸 y tu aporte. Si te animas,  para eso tenemos los comentarios por allí abajo, todos los aportes son bien reecibidos.. 😉
 

@@ -25,40 +25,40 @@ categories:
 
 ---
 
-**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow"}
+**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
 
 ![Fondo de las nubes de palabras más importantes de Flutter de 2048 pixeles, visto en Ciberninjas](/assets/images/wallpaper/flutter/2048px-flutter-nube-palabras-y-logo.webp "Fondo de las nubes de palabras más importantes de Flutter de 2048 pixeles, visto en Ciberninjas")
 
-[⬇ Descargar Imagen Completa](https://ibb.co/wpPRymb){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[⬇ Descargar Imagen Completa](https://ibb.co/wpPRymb){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los mejores fondos de pantalla de flutter, visto en Ciberninjas](/assets/images/wallpaper/flutter/2048px-flutter-development-programming-language-programming-web-development.webp "Los mejores fondos de pantalla de flutter")
 
-[⬇ Descargar Imagen Completa](https://ibb.co/W2t8t84){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[⬇ Descargar Imagen Completa](https://ibb.co/W2t8t84){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Las ventajas de flutter y aplicaciones, visto en Ciberninjas](/assets/images/wallpaper/flutter/Top-Flutter-Advantages.webp "Las ventajas de flutter y aplicaciones, visto en Ciberninjas")
 
-[⬇ Descargar Imagen Completa](https://ibb.co/5cV2HDk){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[⬇ Descargar Imagen Completa](https://ibb.co/5cV2HDk){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![El mejor fondo de pantalla morado de Flutter, visto en Ciberninjas](/assets/images/wallpaper/flutter/flutter-wallpaper-morado.webp "El mejor fondo de pantalla morado de Flutter, visto en Ciberninjas")
 
-[⬇ Descargar Imagen Completa](https://ibb.co/THX754K){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[⬇ Descargar Imagen Completa](https://ibb.co/THX754K){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los mejores fondos de pantalla de flutter, visto en Ciberninjas](/assets/images/wallpaper/flutter/flutter-toda-pantalla.webp "Los mejores fondos de pantalla de flutter")
 
-[⬇ Descargar Imagen Completa](https://ibb.co/jDX1cR1){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[⬇ Descargar Imagen Completa](https://ibb.co/jDX1cR1){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los mejores fondos de pantalla de flutter, visto en Ciberninjas](/assets/images/wallpaper/flutter/flutter-ios-aplicacion.webp "Los mejores fondos de pantalla de flutter")
 
-[⬇ Descargar Imagen Completa](https://ibb.co/31jWWPD){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[⬇ Descargar Imagen Completa](https://ibb.co/31jWWPD){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los mejores fondos de pantalla de flutter, visto en Ciberninjas](/assets/images/wallpaper/flutter/flutter_entradas_pantalla_blog.webp "Los mejores fondos de pantalla de flutter")
 
-[⬇ Descargar Imagen Completa](https://ibb.co/8rY6RPy){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[⬇ Descargar Imagen Completa](https://ibb.co/8rY6RPy){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los mejores fondos de pantalla de Flutter, visto en Ciberninjas](/assets/images/wallpaper/flutter/flutter-introduccion.webp "Los mejores fondos de pantalla de flutter")
 
-[⬇ Descargar Imagen Completa](https://ibb.co/vhqPLHJ){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow"}
+[⬇ Descargar Imagen Completa](https://ibb.co/vhqPLHJ){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Guía Flutter
 

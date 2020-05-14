@@ -32,12 +32,12 @@ El diseño del lenguaje se enfoca fuertemente en la programación estructurada y
 **Sistema Operativo**: [Eumel](/wiki/eumel "Eumel, sistema operativo descontinuado inventado en Alemania en los años 70")
 {: .notice--primary}
 
-**Sitio Web**: [http://www.cs.ru.nl/elan/](http://www.cs.ru.nl/elan/ "Página web oficial del lenguaje de programación de Elan"){:target="_blank" rel="nofollow"}
+**Sitio Web**: [http://www.cs.ru.nl/elan/](http://www.cs.ru.nl/elan/ "Página web oficial del lenguaje de programación de Elan"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
 
 <!-- POR TRADUCIR: https://en.wikipedia.org/wiki/ALGOL_68 -->
 **Categorías**: Lenguaje de Programación \ Lenguajes de Programación Educativos
 {:.notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Elan - Lenguaje de Programación](https://en.wikipedia.org/wiki/ELAN_(programming_language)){:target="_blank" rel="nofollow"} de la Wikipedia en inglés, versión del 14 de Abril de 2014, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=ELAN_(programming_language)&action=history){:target="_blank" rel="nofollow"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow"}.
+**INF.**: Esta obra contiene una traducción total derivada de [Elan - Lenguaje de Programación](https://en.wikipedia.org/wiki/ELAN_(programming_language)){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 14 de Abril de 2014, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=ELAN_(programming_language)&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.
 {: .notice--info}

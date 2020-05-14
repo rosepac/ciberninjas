@@ -37,7 +37,7 @@ Por ello, desde la compañía no había creado merchandising del personaje Baby 
 
 He intentando encontrar algunos coleccionables del bebé Yoda, a pesar de que la mayoría están programados para su lanzamiento en mayo de 2020, los menos; ya pueden comprarse en EEUU pero en España aún no.
 
-Ahora, puedes encontrar un par de juguetes y productos que representan al bebé Yoda disponibles, incluso en [Amazon.com](https://amzn.to/2Q3LAz5){:target="_blank" rel="nofollow"}.
+Ahora, puedes encontrar un par de juguetes y productos que representan al bebé Yoda disponibles, incluso en [Amazon.com](https://amzn.to/2Q3LAz5){:target="_blank" rel="nofollow,noreferrer"}.
 
 Ahora, sin más dilación, los artículos del niño bebé Yoda de Star Wars que puedes comprar.
 

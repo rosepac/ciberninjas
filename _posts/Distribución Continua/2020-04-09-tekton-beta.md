@@ -44,11 +44,11 @@ Tekton es un proyecto de código abierto que crea un marco nativo de la nube que
 
 El desarrollo de Tekton comenzó como Knative Build antes de convertirse en un proyecto fundador de la Fundación CD bajo la Fundación Linux el año pasado.
 
-El proyecto [Tekton](https://kubernetes.io/docs/reference/using-api/deprecation-policy/){:target="_blank" rel="nofollow"} sigue las [políticas de desaprobación de Kubernetes](https://kubernetes.io/docs/reference/using-api/deprecation-policy/){:target="_blank" rel="nofollow"}. Con la actualización de Tekton Pipelines a beta, la mayoría de los CRD de Tekton Pipelines (Definición de recursos personalizados) ahora están en el nivel beta. 
+El proyecto [Tekton](https://kubernetes.io/docs/reference/using-api/deprecation-policy/){:target="_blank" rel="nofollow,noreferrer"} sigue las [políticas de desaprobación de Kubernetes](https://kubernetes.io/docs/reference/using-api/deprecation-policy/){:target="_blank" rel="nofollow,noreferrer"}. Con la actualización de Tekton Pipelines a beta, la mayoría de los CRD de Tekton Pipelines (Definición de recursos personalizados) ahora están en el nivel beta. 
 
 Esto significa que se puede confiar en la estabilidad general del nivel beta. Tenga en cuenta que los disparadores de Tekton, el tablero de instrumentos de Tekton, la CLI de Tekton Pipelines y otros componentes siguen siendo alfa y pueden seguir evolucionando de una versión a otra. 
 
-Tekton alienta a todos los proyectos y usuarios de Tekton a migrar sus integraciones a la nueva apiVersion. Los usuarios de Tekton pueden ver [la guía de migración](https://github.com/tektoncd/pipeline/blob/master/docs/migrating-v1alpha1-to-v1beta1.md){:target="_blank" rel="nofollow"} sobre cómo migrar de v1alpha1 a v1beta1.
+Tekton alienta a todos los proyectos y usuarios de Tekton a migrar sus integraciones a la nueva apiVersion. Los usuarios de Tekton pueden ver [la guía de migración](https://github.com/tektoncd/pipeline/blob/master/docs/migrating-v1alpha1-to-v1beta1.md){:target="_blank" rel="nofollow,noreferrer"} sobre cómo migrar de v1alpha1 a v1beta1.
 
 ## [Lista completa de características, avisos de obsolescencia, documentos, agradecimientos y mucho más](https://github.com/tektoncd/pipeline/releases/tag/v0.11.0-rc1)
 
@@ -56,13 +56,13 @@ Tekton alienta a todos los proyectos y usuarios de Tekton a migrar sus integraci
 
 Tekton se encuentra en su segundo año de desarrollo y actualmente está siendo utilizado por ofertas gratuitas y comerciales de múltiples compañías.
 
-- [Nebulosa del Proyecto de Marionetas](https://puppet.com/products/project-nebula/){:target="_blank" rel="nofollow"}
-- [Jenkins X](https://jenkins-x.io/){:target="_blank" rel="nofollow"}
-- [Red Hat OpenShift Pipelines](https://www.openshift.com/learn/topics/pipelines){:target="_blank" rel="nofollow"}
-- [Entrega continua en la nube de IBM](https://www.ibm.com/cloud/tekton){:target="_blank" rel="nofollow"}
-- [Kabanero](https://developer.ibm.com/open/projects/kabanero/){:target="_blank" rel="nofollow"} - proyecto de código abierto dirigido por IBM
-- [Rio](https://github.com/rancher/rio){:target="_blank" rel="nofollow"} - proyecto de código abierto dirigido por Rancher
-- [Kf](https://github.com/google/kf){:target="_blank" rel="nofollow"} - proyecto de código abierto liderado por Google
+- [Nebulosa del Proyecto de Marionetas](https://puppet.com/products/project-nebula/){:target="_blank" rel="nofollow,noreferrer"}
+- [Jenkins X](https://jenkins-x.io/){:target="_blank" rel="nofollow,noreferrer"}
+- [Red Hat OpenShift Pipelines](https://www.openshift.com/learn/topics/pipelines){:target="_blank" rel="nofollow,noreferrer"}
+- [Entrega continua en la nube de IBM](https://www.ibm.com/cloud/tekton){:target="_blank" rel="nofollow,noreferrer"}
+- [Kabanero](https://developer.ibm.com/open/projects/kabanero/){:target="_blank" rel="nofollow,noreferrer"} - proyecto de código abierto dirigido por IBM
+- [Rio](https://github.com/rancher/rio){:target="_blank" rel="nofollow,noreferrer"} - proyecto de código abierto dirigido por Rancher
+- [Kf](https://github.com/google/kf){:target="_blank" rel="nofollow,noreferrer"} - proyecto de código abierto liderado por Google
 
 ### Relacionados
 

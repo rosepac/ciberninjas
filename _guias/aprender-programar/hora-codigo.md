@@ -21,15 +21,15 @@ toc_sticky: true
 <!-- https://hourofcode.com/es/learn -->
 Actividades en español que difunde para su utilización e impartición en las diferentes actividades de la Hora del Código a lo largo de los diferentes puntos del planeta.
 
-## [La Fiesta del Baile](https://code.org/dance){:target="_blank" rel="nofollow"}
+## [La Fiesta del Baile](https://code.org/dance){:target="_blank" rel="nofollow,noreferrer"}
 
 [![La Fiesta del Baile](https://i.ibb.co/mN2G0zk/image.png)](https://i.ibb.co/mN2G0zk/image.png "Captura de Pantalla de La Fiesta del Baile de la Programación")
 
 Programa una Fiesta de baile y compártela con tus amigos. ¡Únete a programar junto a Katy Perry, Madonna, J. Balvin, Sia, Keith Urban, Ciara y 25 artistas más!
 
-| Más Recursos               | [ Notas del Profesor](https://curriculum.code.org/hoc/plugged/8){:target="_blank" rel="nofollow"} |
+| Más Recursos               | [ Notas del Profesor](https://curriculum.code.org/hoc/plugged/8){:target="_blank" rel="nofollow,noreferrer"} |
 | -------------------------- | ------------------------------------------------------------ |
-| Enlace corto               | [https://hourofcode.com/danceparty](https://hourofcode.com/danceparty){:target="_blank" rel="nofollow"}                            |
+| Enlace corto               | [https://hourofcode.com/danceparty](https://hourofcode.com/danceparty){:target="_blank" rel="nofollow,noreferrer"}                            |
 | Experiencia del estudiante | Principiante                                                 |
 | Tecnología de aula         | Todos los navegadores modernos, tablets Android, iPad        |
 | Temas                      | Sólo Informática                                             |
@@ -43,9 +43,9 @@ Programa una Fiesta de baile y compártela con tus amigos. ¡Únete a programar 
 
 Utiliza bloques de código para hacer que Alex o Steve participen en una aventura por el mundo de Minecraft a través de estos impresionantes tutoriales impulsados por Microsoft.
 
-| Más Recursos               | [ Notas del Profesor](https://code.org/hourofcode/mc){:target="_blank" rel="nofollow"} |
+| Más Recursos               | [ Notas del Profesor](https://code.org/hourofcode/mc){:target="_blank" rel="nofollow,noreferrer"} |
 | -------------------------- | ----------------------------------------------------- |
-| Enlace corto               | [https://hourofcode.com/mchoc](https://hourofcode.com/mchoc){:target="_blank" rel="nofollow"}                          |
+| Enlace corto               | [https://hourofcode.com/mchoc](https://hourofcode.com/mchoc){:target="_blank" rel="nofollow,noreferrer"}                          |
 | Experiencia del estudiante | Principiante                                          |
 | Tecnología de aula         | Todos los navegadores modernos, tablets Android, iPad |
 | Temas                      | Sólo Informática                                      |

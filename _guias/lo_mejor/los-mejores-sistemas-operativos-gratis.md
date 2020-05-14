@@ -67,12 +67,12 @@ Listado de Sistemas de Código Abierto..
 
 ## Mejores Blogs de Linux del Mundo en Español
 
-### [Desde Linux](https://blog.desdelinux.net/){:target="_blank" rel="nofollow"}
+### [Desde Linux](https://blog.desdelinux.net/){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Mejores Blogs de Linux del Mundo
 
-### [Linux Today](https://www.linuxtoday.com/){:target="_blank" rel="nofollow"}
-### [Lxer](http://lxer.com/){:target="_blank" rel="nofollow"}
+### [Linux Today](https://www.linuxtoday.com/){:target="_blank" rel="nofollow,noreferrer"}
+### [Lxer](http://lxer.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 
 ![Los mejores sistemas operativos gratuitos de código abierto](/assets/images/paginas/sistema-operativo-pagina.webp "Los mejores sistemas operativos gratuitos de código abierto")

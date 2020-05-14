@@ -44,7 +44,7 @@ A continuación, vamos a descubrir **los 12 atajos de teclado más útiles**:
 - **Alt + Espacio.**: Abre el menú de la ventana activa. Con él, no solo puede minimizar y cerrar ventanas, sino también cambiar el tamaño y moverla sin usar el ratón. Presiona Alt + Espacio, seleccione las teclas "Mover", presione Enter y mueva la ventana con las teclas de flechas. Esta técnica funcionará incluso si la ventana está fuera de la pantalla.
 - **Win + M.**: Minimiza **todas** las ventanas.
 - **Win + Shift + M.**: Restaura todas las ventanas minimizadas con el atajo **Win + M.**.
-- **Win + D.**: Minimiza **todas** las ventanas. Funciona incluso en aquellos donde [no hay un botón para minimizar](https://devblogs.microsoft.com/oldnewthing/20040527-00/?p=39153){:target="_blank" rel="nofollow"}.
+- **Win + D.**: Minimiza **todas** las ventanas. Funciona incluso en aquellos donde [no hay un botón para minimizar](https://devblogs.microsoft.com/oldnewthing/20040527-00/?p=39153){:target="_blank" rel="nofollow,noreferrer"}.
 - **Win + Inicio.**: Minimiza todo excepto la ventana activa. Útil si necesitas concentrarte en una única cosa.
 
 Ahora ya podrás trabajar cómodamente, incluso si tienes un incómodo panel táctil y no tienes un ratón al alcance. ¡Pruébalos!

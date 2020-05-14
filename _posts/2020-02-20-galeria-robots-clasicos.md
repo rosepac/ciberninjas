@@ -134,7 +134,7 @@ Niños en el norte de Hampshire, Inglaterra, se encuentran con un robot Charles 
 
 **Año 1981**: Robobuck Steve Brooks de Londres
 
-**Fuente**\: [Imágenes históricas del archivo de la página web MSHCDN](https://web.archive.org/web/20110119082648/http://mshcdn.com/ "Imágenes históricas del archivo de la página web MSHCDN"){:target="_blank" rel="nofollow"}
+**Fuente**\: [Imágenes históricas del archivo de la página web MSHCDN](https://web.archive.org/web/20110119082648/http://mshcdn.com/ "Imágenes históricas del archivo de la página web MSHCDN"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 <!-- https://fishki.net/1821784-1928-1981-rassvet-robotov.html , http://cyberneticzoo.com/robots/1980-mr-robotham-the-great-peter-holland-british/ -->
 ## Relacionados
