@@ -1,7 +1,8 @@
 ---
 title: "Noticias en Directo de Programación & Tecnología"
-description: "En Directo. Es la Sección de Noticias de los Ciberninjas, aquí vas a poder encontrar todas nuestras listas exclusivas de Twitter"
-excerpt: "En Directo. Es la Sección de Noticias de los Ciberninjas, aquí vas a poder encontrar todas nuestras listas exclusivas de Twitter"
+description: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter en las que se recogen todas las cuentas de mayor importancia de amplios campos de la informática."
+excerpt: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter en las que se recogen todas las cuentas de mayor importancia de amplios campos de la informática."
+layout: splash
 collection: directo
 permalink: /directo/
 canonical_URL: https://ciberninjas.com/directo/
@@ -18,12 +19,12 @@ classes: wide
 # sidebar:
 # - title: "Menú Principal"
 #   nav: general
-# header:
-#   teaser:
-#   overlay_filter: "0.2"
-#   overlay_image: /assets/images/chico-buscando-libro-biblioteca.jpg
-#   image_description: Logotipo de la Electronic Frontier Foundation \ Visto en Ciberninjas
-#  image_alt:
+header:
+  teaser: /assets/images/paginas/tecnologia-noticias.webp
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/paginas/tecnologia-noticias.webp
+  image_description: Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter en las que se recogen todas las cuentas de mayor importancia de amplios campos de la informática | Visto en Ciberninjas
+  image_alt:
 #  actions:
 #    - label: "🎓 Cursos"
 #      url: "/cursos-tecnologia/"
@@ -31,6 +32,14 @@ classes: wide
 #      url: "/biblioteca-de-programacion-y-tecnologia/"
 #  caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
 ---
+
+## Noticias de Tecnología
+
+[📰 Blogs más importantes de Tecnología](https://twitter.com/i/lists/931402106187239424?s=20){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
+
+## Noticias de Tecnología en Español
+
+[📰 Tecnología en Español](https://twitter.com/ciberninjas/lists/tecnolog-a-en-espa-ol){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🎤 Podcasts Geeks](https://twitter.com/ciberninjas/lists/podcast-geeks){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## ⭐ Destacados
 
@@ -40,10 +49,6 @@ classes: wide
 ## Desarrollo & Diseño Web
 
 [👩‍🎨 Desarrolladores / Front End Españoles 👨‍🎨](https://twitter.com/ciberninjas/lists/dw){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🎓 Academias de Cursos de Programación](https://twitter.com/i/lists/954486867495473152/){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
-
-## Noticias Tecnología en Español
-
-[📰 Tecnología en Español](https://twitter.com/ciberninjas/lists/tecnolog-a-en-espa-ol){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🎤 Podcasts Geeks](https://twitter.com/ciberninjas/lists/podcast-geeks){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Lenguajes de Programación
 
@@ -73,7 +78,7 @@ classes: wide
 
 ## 📰 Noticias Generalistas
 
-[Prensa Alternativa](https://twitter.com/ciberninjas/lists/prensa-alternativa){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}https://twitter.com/i/lists/1242058714900766726 [Prensa Alternativa](https://twitter.com/ciberninjas/lists/prensa-alternativa){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [Prensa Sensacionalista](https://twitter.com/ciberninjas/lists/prensa-radios){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
+[Prensa Alternativa](https://twitter.com/ciberninjas/lists/prensa-alternativa){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [CEO y Empresas](https://twitter.com/i/lists/1242058714900766726){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [Prensa Sensacionalista](https://twitter.com/ciberninjas/lists/prensa-radios){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 👩‍💻 Software
 
