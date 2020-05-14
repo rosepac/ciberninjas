@@ -1,7 +1,7 @@
 ---
-title: 🥇 ▷ Jekyll, Aprender desde Cero a Experto en 2020
-description: "🛠 Jekyll, el mejor generador de contenidos estático. Aprende desde cero todo lo que debes saber"
-excerpt: "🛠 Jekyll, el mejor generador de contenidos estático. Aprende desde cero todo lo que debes saber"
+title: "🥇 ▷ Jekyll: Crea blogs fácilmente y encuentra sus mejores plantillas"
+description: "Uno de los mejores generadores de contenidos estático (SSG)"
+excerpt: "Uno de los mejores generadores de contenidos estático (SSG)"
 date: 2020-05-12
 layout: splash
 last_modified_at:
@@ -13,7 +13,7 @@ header:
   overlay_filter: 0.2
   image_description: Jekyll, el mejor generador de contenidos estático | Ciberninjas
   caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"
-  teaser: "/assets/images/jekyll-blog.jpg"
+  teaser: "/assets/images/paginas/jekyll-blog.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -30,9 +30,7 @@ Espero que estos enlaces puedan ser de ayuda y ojalá; lleguen a suplir aunque s
 
 > **¡A la almendrilla!**
 
-#### Índice
-
-[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/jekyll/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 ## Montaje y Pruebas
 
@@ -42,7 +40,7 @@ Espero que estos enlaces puedan ser de ayuda y ojalá; lleguen a suplir aunque s
 
 * [Cómo usar Jekyll como un profesional: Mejorar el SEO](https://codeburst.io/use-jekyll-like-a-pro-improving-seo-c8cfb81781b7){:target="_blank" rel="nofollow"}
 
-[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## Plantilla de Minimal Mistakes
 
@@ -106,7 +104,9 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 
 {% capture notice-2 %}
 
-[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+<br />
+
+[🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
 
 ### Nuevas características del sitio
@@ -137,7 +137,7 @@ Situándolo luego del primer o segundo párrafo, además debes aplicar en tu cab
 
     excerpt_separator: "<!--more-->"
 
-[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
 
 ### Configuración de la Plantilla Minimal Mistakes
@@ -166,7 +166,7 @@ $header-font-family : $sans-serif-narrow;
 `````
 4. Cambiar dentro del fichero, ```_sass/minimal-mistakes.scss``` las variables redactadas en el paso anterior.
 
-[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
 
 ## CMS para Jekyll
@@ -199,7 +199,7 @@ Otro por menor, que te va a surgir a la hora de su utilización; es que deberas 
 
 * [El CMS en la Nube para Jekyll](https://cloudcannon.com/){:target="_blank" rel="nofollow"}
 
-[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
 
 ## Plugins de Importación
@@ -216,7 +216,7 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 
 * [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/ "Chuleta de todos los emoticonos suportados dentro de la Gema de Ruby Gemoji"){:target="_blank" rel="nofollow"}: Lista de Emojis / Emoticonos que pueden ser usados al estilo de los emoticones de Github :+1:
 
-[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
 
 ### Comercio Electrónico
@@ -239,7 +239,7 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 * [Algoria: Paso a Paso](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#algolia){:target="_blank" rel="nofollow"}
 * [Instalar Buscador Algoria + Travis CI](https://community.algolia.com/jekyll-algolia/github-pages.html){:target="_blank" rel="nofollow"}
 
-[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
 
 ### Temas de Jekyll
@@ -252,7 +252,7 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 
 * [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso"){:target="_blank" rel="nofollow"}
 
-[🔝 Inicio](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
 
 ## Enlaces por Investigar y posteriormente Organizar
@@ -278,8 +278,10 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 * [Ordenar Páginas en Jekyll](https://stackoverflow.com/questions/41087699/jekyll-how-to-change-the-default-ordering-of-collections){:target="_blank" rel="nofollow"}
 * [Crear listado con las publicaciones de una categoría .yml](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category){:target="_blank" rel="nofollow"}
 
-**La Guía fue creada el** *16 de Marzo de 2020* **y su última edición el** *13 de Mayo de 2020***.**
+**La **Guía de Jekyll** fue creada el** *16 de Marzo de 2020* **y su última edición fue realizada el** *13 de Mayo de 2020*.
 {: .notice--info}
+
+#### Índice <!-- omit in toc -->
 - [Montaje y Pruebas](#montaje-y-pruebas)
 - [SEO](#seo)
 - [Plantilla de Minimal Mistakes](#plantilla-de-minimal-mistakes)

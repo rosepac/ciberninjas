@@ -3,28 +3,30 @@ title: "👨‍💻 ▷ Drupal: Guía Completa de este excelente Gestor de Conte
 description: "Introducción y recursos de Drupal en cualquier momento y lugar"
 excerpt: "Introducción y recursos de Drupal en cualquier momento y lugar"
 date: 2020-04-18
+layout: splash
 last_modified_at: 
 classes: wide
 permalink: /drupal/
 published: true
 header:
   teaser: "/assets/images/paginas/drupal.webp"
-#   image: "/assets/images/paginas/drupal.webp"
-#   image_description: Jekyll, generador de sitios estáticos | Ciberninjas
-#   caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand)"
+  overlay_image: "/assets/images/paginas/drupal.webp"
+  overlay_filter: 0.2
+  image_description: Logotipo del CMS (gestor de contenidos) de Drupal visto en Ciberninjas | Ciberninjas
+#  caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand)"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
 # toc_sticky: true
 ---
 
-![Logotipo de Drupal visto en Ciberninjas](/assets/images/paginas/drupal.webp "Logotipo de drupal visto en Ciberninjas")
+> **Drupal es un CMS: Lleno de funciones y altamente personalizable.**
 
 ## ¿Qué es Drupal?
 
 Drupal es un sistema gratuito de gestión de contenido de código abierto (CMS) con una gran comunidad de apoyo. Millones de personas y organizaciones de todo el mundo lo utilizan para crear y mantener sus sitios web. Probablemente use Drupal todos los días sin saberlo, ya que muchas de las principales empresas y organizaciones gubernamentales utilizan Drupal, como el Gobierno de Australia, la Cruz Roja, Harvard, The Economist, BBC, NBC News, Whole Foods, Cisco, Twitter y muchos, muchos Más.
 
-Drupal es un software de código abierto lanzado bajo la Licencia Pública GNU . Esto significa que tiene beneficios inherentes (costo, flexibilidad, libertad, seguridad y responsabilidad) que no son comparables con el software propietario. Por ejemplo, Drupal se puede descargar gratis y cualquiera puede modificar y ampliar la plataforma. Esto garantiza la libertad del “bloqueo” del proveedor y permite a los usuarios de todo el mundo monitorear el código subyacente de Drupal para detectar problemas de cumplimiento y seguridad, y solucionarlos rápidamente.
+Drupal es un software de código abierto lanzado bajo la Licencia Pública GNU. Esto significa que tiene beneficios inherentes (costo, flexibilidad, libertad, seguridad y responsabilidad) que no son comparables con el software propietario. Por ejemplo, Drupal se puede descargar gratis y cualquiera puede modificar y ampliar la plataforma. Esto garantiza la libertad del “bloqueo” del proveedor y permite a los usuarios de todo el mundo monitorear el código subyacente de Drupal para detectar problemas de cumplimiento y seguridad, y solucionarlos rápidamente.
 
 > **Drupal es un CMS: Lleno de funciones y altamente personalizable.**
 
@@ -99,15 +101,15 @@ Si bien las habilidades de desarrollo generalmente no están involucradas en la 
 
 ## **Eventos Comunitarios de Drupal**
 
-Las sesiones de DrupalCon y otros eventos locales / regionales son una excelente manera de ponerse al día sobre lo último en desarrollo de Drupal. Todas las sesiones de DrupalCon se graban y están disponibles de forma gratuita en el [canal de YouTube de la Asociación Drupal](https://www.youtube.com/user/DrupalAssociation/playlists) . Muchos "campamentos" de Drupal (eventos comunitarios locales o regionales de Drupal) también registran sesiones. Para DrupalCon y muchos otros eventos de Drupal, las sesiones grabadas se incrustan en las páginas de descripción de la sesión en el sitio web del evento.
+Las sesiones de DrupalCon y otros eventos locales / regionales son una excelente manera de ponerse al día sobre lo último en desarrollo de Drupal. Todas las sesiones de DrupalCon se graban y están disponibles de forma gratuita en el [canal de YouTube de la Asociación Drupal](https://www.youtube.com/user/DrupalAssociation/playlists){:target="_blank" rel="noreferrer"}. Muchos "campamentos" de Drupal (eventos comunitarios locales o regionales de Drupal) también registran sesiones. Para DrupalCon y muchos otros eventos de Drupal, las sesiones grabadas se incrustan en las páginas de descripción de la sesión en el sitio web del evento.
 
 ## **Sitios Temáticos de Drupal**
 
 Un actor, también conocido como desarrollador front-end, se sienta entre el diseñador y el desarrollador en un proyecto. Son responsables de la arquitectura e implementación de las partes orientadas al cliente de un sitio web. Esto incluye trabajar con HTML, CSS, JavaScript y tecnologías relacionadas. Los terapeutas de Drupal también usan PHP en archivos de plantilla, y en Drupal 8, usan Twig. Los desarrolladores avanzados avanzados a menudo crean módulos de "código de pegamento" o funciones en PHP que exponen las opciones de configuración a los creadores de sitios. Los módulos de código de pegamento también alteran los datos almacenados en Drupal antes de que se presenten a un visitante del sitio en el navegador.
 
-- [DrupalCon](https://www.drupal.org/association/drupalcon/locations) : encuentre enlaces a DrupalCons pasados y futuros y grabaciones de sesiones.
-- [Drupical](http://www.drupical.com/) : filtre y encuentre campamentos de Drupal, sprints, grupos de usuarios y eventos de capacitación.
-- [Próximos eventos de la comunidad de Drupal](https://groups.drupal.org/events) : filtre y encuentre eventos relacionados con Drupal.
+- [DrupalCon](https://www.drupal.org/association/drupalcon/locations){:target="_blank"}: Encuentre enlaces a DrupalCons pasados y futuros y grabaciones de sesiones.
+- [Drupical](http://www.drupical.com/){:target="_blank" rel="noreferrer"}: Filtre y encuentre campamentos de Drupal, sprints, grupos de usuarios y eventos de capacitación.
+- [Próximos eventos de la comunidad de Drupal](https://groups.drupal.org/events){:target="_blank"}: Filtre y encuentre eventos relacionados con Drupal.
 
 ## **Desarrolladores de Sitios de Drupal**
 
@@ -126,3 +128,22 @@ PHP es el lenguaje de programación en el que se escribe el software de Drupal, 
 - **Open Atrium** es una herramienta pensada para el trabajo colaborativo [openatrium.com](http://openatrium.com/){:target="_blank" rel="nofollow"}
 - **Managing News**, es un gestor de noticias RSS con diversas funcionalidades [managingnews.com](http://managingnews.com/){:target="_blank" rel="nofollow"}
 - **Open Public** es una distribución orientada a sitios oficiales y/o políticos. Su principal función es que los sitios sean seguros, ampliables y transparentes. [openpublicapp.com](http://openpublicapp.com/){:target="_blank" rel="nofollow"}
+
+**La **Guía de Drupal** fue creada el** *21 de Abril de 2020* **y su última edición fue realizada el** *14 de Mayo de 2020*.
+{: .notice--info}
+
+#### Índice <!-- omit in toc -->
+- [¿Qué es Drupal?](#%c2%bfqu%c3%a9-es-drupal)
+- [**Cómo Aprender Drupal**](#c%c3%b3mo-aprender-drupal)
+  - [**Introducción a Drupal**](#introducci%c3%b3n-a-drupal)
+- [**¿Qué es un sistema de gestión de contenido (CMS) como Drupal?**](#%c2%bfqu%c3%a9-es-un-sistema-de-gesti%c3%b3n-de-contenido-cms-como-drupal)
+- [**¿Qué es el código abierto?**](#%c2%bfqu%c3%a9-es-el-c%c3%b3digo-abierto)
+- [**¿Qué significa el logo de Drupal?**](#%c2%bfqu%c3%a9-significa-el-logo-de-drupal)
+- [**Conceptos del Proyecto de Drupal**](#conceptos-del-proyecto-de-drupal)
+- [**Cómo empezar con Drupal**](#c%c3%b3mo-empezar-con-drupal)
+  - [**Construcción de Sitios Web con Drupal**](#construcci%c3%b3n-de-sitios-web-con-drupal)
+- [**Consejos de Aprendizaje**](#consejos-de-aprendizaje)
+- [**Eventos Comunitarios de Drupal**](#eventos-comunitarios-de-drupal)
+- [**Sitios Temáticos de Drupal**](#sitios-tem%c3%a1ticos-de-drupal)
+- [**Desarrolladores de Sitios de Drupal**](#desarrolladores-de-sitios-de-drupal)
+- [**Distribuciones de Drupal**](#distribuciones-de-drupal)
