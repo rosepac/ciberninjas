@@ -14,8 +14,8 @@ header:
   teaser: "/assets/images/chico-buscando-libro-biblioteca.jpg"
   overlay_image: "/assets/images/chico-buscando-libro-biblioteca.jpg"
   overlay_filter: 0.2
-  image_description: 'Aprender a programar con estos libros en pdf y online sobre desarrollo web y otras tecnologías | Ciberninjas'
-  image_alt: 'Aprender a programar con estos libros en pdf y online sobre desarrollo web y otras tecnologías | Ciberninjas'
+  image_description: 'Los Mejores Libros PDF Gratuitos de Informática - Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad. Exclusivamente aquí. | Ciberninjas'
+  image_alt: 'Los Mejores Libros PDF Gratuitos de Informática - Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad. Exclusivamente aquí. | Ciberninjas'
   caption: "Créditos: Unsplash de Dominio Público"
 #  actions:
 #    - label: "Black Friday 2019"
@@ -38,6 +38,23 @@ Aquí, **vas a encontrar libros enfocados hacía programadores**. Sobre todo par
 Los **desarrolladores web** y de **software**, junto a sus múltiples metodologías y cientos de tecnologías, van a encontrar recursos que les ayuden a aumentar y mejorar tanto sus técnicas (skills) como sus habilidades.
 
 Viendo fortalizidos así, sus aptitudes para llevar a cabo cualquier puesto de trabajo relacionado con [las nuevas profesiones digitales](/profesiones-digitales/).
+
+
+## **Mejores Libros Gratuitos PDF para Programar**
+
+Si tu profesión o futuro trabajo esta entre los siguientes campos como son: el campo de los desarrolladores web y multimedia, los desarrolladores de software, los programadores de aplicaciones, diseñadores gráficos y multimedia, administradores de sistemas y bases de datos, especialistas en seguridad informática o cualquier otro trabajo relacionado con el campo profesional de las nuevas tecnologías de la información y las comunicaciones.
+
+Incluso si deseas formarte para la profesión que realizan los analistas y consultores o profesional de publicidad y el marketing digital, e incluso los profesionales de gestión.
+
+Con toda seguridad aquí vas a encontrar libros que te ayudarán a seguir aprendiendo lo que más te gusta.
+
+Dentro de todos los campos que proponemos aprender desde Ciberninjas, vas a encontrar tantos puestos de trabajo y tecnologías como puedas imaginar.
+
+El listado es muy amplio:
+
+- Desarrollador web y multimedia, desarrollador frontend, desarrollador backend, desarrollador full stack, desarrollador de videojuegos, desarrollador móvil, especialista UI o también conocido como especialista de interfaces de usuario, diseñador gráfico, administrador de sistemas, diseñador o administrador de bases de datos, técnico de soporte TIC, especialista en ciberseguridad, digital producto manager, digital project manager. E incluso si tu desarrollo es el de consultor TIC, especialista de UX u experiencia de usuario, cientifico de datos, analista de datos o business intelligence.
+
+Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrellato.. 💪
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
@@ -872,25 +889,6 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
 
-## **Mejores libros de Programación y Tecnología en PDF**
-
-Omitir. salvo que desees conocer en mayor profundidad el contenido que puedes encontrar dentro de los diferentes enlaces que aparecen dentro de esta página web. Este contenido, unicamente es generado en post de la mejora del posicionamiento e indexación del mismo 😉
-{: .notice--info}
-
-Si tu profesión o futuro trabajo esta entre los siguientes campos como son: el campo de los desarrolladores web y multimedia, los desarrolladores de software, los programadores de aplicaciones, diseñadores gráficos y multimedia, administradores de sistemas y bases de datos, especialistas en seguridad informática o cualquier otro trabajo relacionado con el campo profesional de las nuevas tecnologías de la información y las comunicaciones.
-
-Incluso si deseas formarte para la profesión que realizan los analistas y consultores o profesional de publicidad y el marketing digital, e incluso los profesionales de gestión.
-
-Con toda seguridad aquí vas a encontrar libros que te ayudarán a seguir aprendiendo lo que más te gusta.
-
-Dentro de todos los campos que proponemos aprender desde Ciberninjas, vas a encontrar tantos puestos de trabajo y tecnologías como puedas imaginar.
-
-El listado es muy amplio:
-
-- Desarrollador web y multimedia, desarrollador frontend, desarrollador backend, desarrollador full stack, desarrollador de videojuegos, desarrollador móvil, especialista UI o también conocido como especialista de interfaces de usuario, diseñador gráfico, administrador de sistemas, diseñador o administrador de bases de datos, técnico de soporte TIC, especialista en ciberseguridad, digital producto manager, digital project manager. E incluso si tu desarrollo es el de consultor TIC, especialista de UX u experiencia de usuario, cientifico de datos, analista de datos o business intelligence.
-
-Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrellato.. 💪
-
 ## Licencia
 
 Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://ciberninjas.com/quien-soy){:target="_blank" rel="nofollow,noreferrer"}, los contribuidores de [Free Programming Books en Español](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md){:target="_blank" rel="nofollow,noreferrer"} especialmente, sobre una [Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.es_ES){:target="_blank" rel="nofollow,noreferrer"}.
@@ -900,6 +898,7 @@ Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://cibern
 ### **Nos Referencian**
 
 * [Consejo Escolar](https://www.consejoescolar.es/blog/libros-gratis-de-programacion){:target="_blank" rel="nofollow,noreferrer"}
+* [Libraries IO](https://www.consejoescolar.es/blog/libros-gratis-de-programacion){:target="_blank" rel="nofollow,noreferrer"}
 
 <a class="chollometro-deal" href="https://www.chollometro.com/visit/embeddedthread/88330" target="_blank" rel="nofollow noopener" >Libros de programación, criptomonedas, etc; todo en español</a>
 <script src="//www.chollometro.com/assets/js/share/thread-embed.js" async="true"></script>
