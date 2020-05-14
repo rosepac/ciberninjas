@@ -1,7 +1,7 @@
 ---
-title: "👨‍💻 ▷ Drupal: Guía Completa de este excelente Gestor de Contenidos"
+title: "👨‍💻 ▷ Drupal: Guía Completa del CMS"
 description: "Introducción y recursos de Drupal en cualquier momento y lugar"
-excerpt: "Introducción y recursos de Drupal en cualquier momento y lugar"
+excerpt: "Gestor de contenidos alternativa a Wordpress: Encuentra todos los recursos necesarios"
 date: 2020-05-14
 layout: splash
 last_modified_at: 
@@ -20,7 +20,11 @@ header:
 # toc_sticky: true
 ---
 
-> **Drupal es un CMS: Lleno de funciones y altamente personalizable.**
+Drupal es un gestor de contenidos, que va mucho más lejos de lo que es un CMS. Se podría llegar a denominar a Drupar como un marco de gestión de contenidos; puesto que permite ser utilizado para crear casi cualquier tipo de aplicación web que desees.
+
+Con Drupal puedes ser capaz de crear desde un sitio web, una intranet o un portal seguro.
+
+En definitiva; no existe nada que se pueda crear en PHP (Wordpress) y que no pueda ser creado desde dentro de Drupal, y es una buena alternativa a Wordpress; sobre todo si en tus pensamientos, se encuentra la idea de crear algo más que un blog sencillo.
 
 ## ¿Qué es Drupal?
 
@@ -89,6 +93,40 @@ El requisito previo más importante para la construcción del sitio de Drupal es
 
 Echa un vistazo a ¿Qué es un generador de sitios de Drupal? podcast para obtener más información sobre este papel.
 
+## **¿Por qué elegir Druparl?**
+
+### Ofrece una gran flexibilidad
+
+Como ya he comentado en la introducción de está guía, Drupal ofrece una gran flexibilidad de desarrollo; y desde dentro del propio CMS con algo de trabajo duro; serás capaz de desarrollar múltiples herramientas basadas en una interfaz web, más lejos de un sencillo blog.
+
+### Seguridad
+
+Dado que Drupal es una plataforma de código abierto, su base de código se analiza muy de cerca por una amplia comunidad. El código abierto significa que el código que lo habilita está disponible gratuitamente para que cualquiera lo vea, use, modifique y contribuya. Cuando se hace que el código fuente esté disponible de esta manera, debe asegurarse de que sea un código de primera clase.
+
+Como cualquiera puede contribuir a ello, y miles de personas en todo el mundo lo hacen, entonces obtienes un código que tiene miles de pares de ojos que lo vigilan en todo momento. Los fabricantes de códigos de propiedad no pueden dar esta garantía; cuando utiliza software de código cerrado, no tiene idea de qué posibles fallas de seguridad están presentes.
+
+### Un motor de búsqueda amigable
+
+El Drupal, listo para una utilización rápida, desde cero viene bien optimizado para los motores de búsqueda, especialmente a partir del lanzamiento de Drupal 7 (ya por el año 2011) que implementaba el soporte RDF habilitado por defecto.
+
+El código de Drupal está escrito semánticamente y su capacidad de usar etiquetas alt y title para las imágenes y otros medios cargados le da un gran impulso en términos de SEO.
+
+La brillantez de Drupal reside en los más de 20,000 módulos contribuidos que están disponibles para el CMS.
+
+Cuando se trata de SEO, no te van a faltar módulos con los que convertir algo que ya de por sí es bastante bueno, en algo excelente. Los módulos te aportarán cosas como el verificador de cumplimentación SEO, la lista de verificación SEO, redirección global, Metatag, Search 404, XML Sitemap y módulos de Pathauto por nombrar solo algunos de los 20 mejores módulos de Drupal.
+
+### Se mantiene a la última
+
+Cualquiera que sea la última tendencia emergente en el mundo del desarrollo de software, es la última tendencia emergente en el universo de Drupal. Drupal fue el primero en poner a disposición temas (básicos) receptivos para garantizar que cualquier sitio pueda beneficiarse de la mayor experiencia del usuario que trae consigo un sitio web optimizado para dispositivos móviles.
+
+En Drupal 8, todos los temas responderán de forma predeterminada. Fue el primer CMS importante en adoptar RDF para datos semánticos. También en Drupal 8 habrá la genialidad de la edición en línea: si desea cambiar el título de una página, puede hacerlo sin tener que cargar la pantalla de edición completa; lo mismo para elementos de menú, imágenes, enlaces de pie de página, copia, cualquier cosa.
+
+Quizás la característica más importante que vendrá en Drupal 8 será la configuración en el aspecto del código, por lo que ya no se almacenará la configuración en una base de datos (¡necesita el módulo de funciones para rescatarla!).
+
+### Es gratis
+
+Drupal es 100% gratis. No pagas por Drupal. No vas a pagar una tarifa de licencia para usarlo. No pagarás una tarifa de licencia repetitiva cada año. Es gratis, gratis, gratis. Esto significa que cualquiera puede descargarlo y crear un sitio web tan complejo como el de The Economist, The White House o la Universidad de Harvard. Todo lo que necesitas hacer es arremangarte y estar preparado para aprender algo nuevo y mientras te diviertes. De lo contrario, puede llamar a los expertos que ya han pasado por esa curva de aprendizaje.
+
 ## **Consejos de Aprendizaje**
 
 Si bien las habilidades de desarrollo generalmente no están involucradas en la construcción del sitio, necesitará tener un amplio conocimiento sobre el uso de proyectos aportados por Drupal y las mejores prácticas para construir un sitio Drupal. A medida que se familiarice con todas las opciones que Drupal tiene para ofrecer, aquí hay algunas cosas a tener en cuenta:
@@ -129,7 +167,7 @@ PHP es el lenguaje de programación en el que se escribe el software de Drupal, 
 - **Managing News**, es un gestor de noticias RSS con diversas funcionalidades [managingnews.com](http://managingnews.com/){:target="_blank" rel="nofollow"}
 - **Open Public** es una distribución orientada a sitios oficiales y/o políticos. Su principal función es que los sitios sean seguros, ampliables y transparentes. [openpublicapp.com](http://openpublicapp.com/){:target="_blank" rel="nofollow"}
 
-**La **Guía de Drupal** fue creada el** *21 de Abril de 2020* **y su última edición fue realizada el** *14 de Mayo de 2020*.
+La **Guía de Drupal** fue creada el *21 de Abril de 2020* y su última edición fue realizada el *14 de Mayo de 2020*.
 {: .notice--info}
 
 #### Índice <!-- omit in toc -->
@@ -142,6 +180,12 @@ PHP es el lenguaje de programación en el que se escribe el software de Drupal, 
 - [**Conceptos del Proyecto de Drupal**](#conceptos-del-proyecto-de-drupal)
 - [**Cómo empezar con Drupal**](#c%c3%b3mo-empezar-con-drupal)
   - [**Construcción de Sitios Web con Drupal**](#construcci%c3%b3n-de-sitios-web-con-drupal)
+- [**¿Por qué elegir Druparl?**](#%c2%bfpor-qu%c3%a9-elegir-druparl)
+  - [Ofrece una gran flexibilidad](#ofrece-una-gran-flexibilidad)
+  - [Seguridad](#seguridad)
+  - [Un motor de búsqueda amigable](#un-motor-de-b%c3%basqueda-amigable)
+  - [Se mantiene a la última](#se-mantiene-a-la-%c3%baltima)
+  - [Es gratis](#es-gratis)
 - [**Consejos de Aprendizaje**](#consejos-de-aprendizaje)
 - [**Eventos Comunitarios de Drupal**](#eventos-comunitarios-de-drupal)
 - [**Sitios Temáticos de Drupal**](#sitios-tem%c3%a1ticos-de-drupal)
