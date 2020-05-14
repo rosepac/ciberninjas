@@ -2,7 +2,7 @@
 title: "👨‍💻 ▷ Drupal: Guía Completa de este excelente Gestor de Contenidos"
 description: "Introducción y recursos de Drupal en cualquier momento y lugar"
 excerpt: "Introducción y recursos de Drupal en cualquier momento y lugar"
-date: 2020-04-18
+date: 2020-05-14
 layout: splash
 last_modified_at: 
 classes: wide
