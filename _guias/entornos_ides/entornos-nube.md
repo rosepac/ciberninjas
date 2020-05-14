@@ -1,6 +1,6 @@
 ---
 
-title: '👨‍🚀 ▷ Guía de Contenedores y Entornos en la Nube: Kubernetes, Docker, Webpack, AWS, Google Cloud, Azure, etc'
+title: "👨‍🚀 ▷ Guía de Contenedores y Entornos en la Nube: Kubernetes, Docker, Webpack, AWS, Google Cloud, Azure, etc"
 description: 'Cómo aprender a implementar, gestionar y mantener entornos de programación en la nube'
 excerpt: 'Cómo aprender a implementar, gestionar y mantener entornos de programación en la nube'
 layout: splash
@@ -13,7 +13,7 @@ permalink: /entornos-nube/
 canonical_URL: https://ciberninjas.com/entornos-nube/
 header:
   teaser: /assets/images/paginas/mar-docker-kubernetes.webp
-  overlay_image: '👨‍🚀 ▷ Guía de Contenedores y Entornos en la Nube: Kubernetes, Docker, Webpack, AWS, Google Cloud, Azure, etc'
+  overlay_image: /assets/images/paginas/mar-docker-kubernetes.webp
   overlay_filter: 0.2
   image_description: '👨‍🚀 ▷ Guía de Contenedores y Entornos en la Nube: Kubernetes, Docker, Webpack, AWS, Google Cloud, Azure, etc'
   image_alt: '👨‍🚀 ▷ Guía de Contenedores y Entornos en la Nube: Kubernetes, Docker, Webpack, AWS, Google Cloud, Azure, etc'
