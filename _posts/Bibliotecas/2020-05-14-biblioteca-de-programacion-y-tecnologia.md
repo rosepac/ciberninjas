@@ -47,7 +47,7 @@ Incluso si deseas formarte para la profesión que realizan los analistas y consu
 
 Dentro de todos los campos que proponemos aprender desde Ciberninjas, vas a encontrar tantos puestos de trabajo y tecnologías como puedas imaginar.
 
-El listado es muy amplio:
+El listado de contenidos es muy amplio:
 
 - Desarrollador web y multimedia, desarrollador frontend, desarrollador backend, desarrollador full stack, desarrollador de videojuegos, desarrollador móvil, especialista UI o también conocido como especialista de interfaces de usuario, diseñador gráfico, administrador de sistemas, diseñador o administrador de bases de datos, técnico de soporte TIC, especialista en ciberseguridad, digital producto manager, digital project manager. E incluso si tu desarrollo es el de consultor TIC, especialista de UX u experiencia de usuario, cientifico de datos, analista de datos o business intelligence.
 
@@ -66,6 +66,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Biblioteca Virtual: Miguel de Cervantes](https://www.cervantesvirtual.com){:target="_blank" rel="nofollow"}
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://kutt.it/apuntes-aplicaciones-web-comesana){:target="_blank" rel="nofollow"} - José Luis Comesaña (Github)
 * [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://kutt.it/web-javier-escobedo){:target="_blank" rel="nofollow"} - Javier García Escobedo
+* [Guerreras de la Ciencia](https://lookaside.fbsbx.com/file/guerreras-de-la-ciencia.pdf?token=AWw2Fq4Nkd--gT9h9m5qmfAfIXXND87ukxEAAyS-TroD8p6kI19TXyQnViQYpj1E4JGmMQ9vwPgpQkz65z88DTE_x9l6BIF64gKeFnA5jQFc4lTsFao6-JMEmOm5ew5xPvUrpFySmEloZeS1Ay6Qd0Nd-pbhWuJyCwhLK1ztdHFTMQ){:target="_blank" rel="nofollow"} (PDF) (2019)
 * [Gitbook - Libros útiles en español](https://kutt.it/gitbook-libros-espanol){:target="_blank" rel="nofollow"} (Github)
 * [Múltiples Cursos y Enlaces de Tecnología Informática](https://kutt.it/web-fernando-berzal){:target="_blank" rel="nofollow"} - Fernando Berzal
 * [OpenLibra - Biblioteca recopilatorio de libros libres](https://kutt.it/open-libra-espanol){:target="_blank" rel="nofollow"}
@@ -142,11 +143,11 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 ## Cadena de Bloques 🔗
 
-* [Análisis y Comparación de Monedas Criptográficas Basadas en la Tecnología Blockchain (2016)](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/56344/8/mmedinareyTFM0616memoria.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Análisis y Comparación de Monedas Criptográficas Basadas en la Tecnología Blockchain (2016)](https://lookaside.fbsbx.com/file/analisis-comparacion-monedas-2016.pdf?token=AWyBM7cScU8vEZ6bFuAaJysHVF8cq3c_5Y57YCovuod0N0MGRDsPcJifEkqFRjy9Rb1q2yPiRKJv58VKZqi-BTuEjlT9ao3wOjVCeAQ2c6lnTwicR-H-hzAzOaEa6wzGC84S_jScSobC5Zav7_reoA6VLl4eU5OpZqhCj2D6MOSO_A){:target="_blank" rel="nofollow"} (PDF)
 * [Aspectos jurídicos de las criptomonedas](https://blockchainintelligence.es/wp-content/uploads/2019/04/Art%C3%ADculo-doctrinal_Apectos-jur%C3%ADficos-de-las-criptomonedas-por-M-de-la-Concepci%C3%B3n-Chamorro-Rodr%C3%ADguez.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Blockchain en Salud, ¿Quimera o Realidad?](https://seis.es/wp-content/uploads/2018/04/128.pdf)
 * [Blockchain y las posibilidades que ofrece para una nueva economía urbana](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/93126/1/Sunyer%2C%20R._Blockchain.pdf) (PDF) (2018)
-* [La nueva economía blockchain y criptomonedas en 100 preguntas](https://www.nowtilus.com/descargas/FragmentoLanuevaeconomiablockchainycriptomonedas100.pdf) (PDF) 2019
+* [La nueva economía blockchain y criptomonedas en 100 preguntas](https://www.nowtilus.com/descargas/FragmentoLanuevaeconomiablockchainycriptomonedas100.pdf) (PDF) (2019)
 * [La Tecnología Blockchain en América Latina](https://www.iberoamericajournal.ru/sites/default/files/2019/3/naumenko.pdf) (PDF) (2019)
 * [Plataformas blockchain y escenarios de uso](https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/20541/1/tg-pereira-toscano-villar.pdf) (PDF) (2019)
 * [Tecnología blockchain, una nueva era para la empresa](https://accid.org/wp-content/uploads/2019/04/Tecnolog%C3%ADa_blockchain__una_nueva_era_para_la_empresa_L_Parrondologo.pdf) {:target="_blank" rel="nofollow"} (PDF) (2018)
@@ -155,8 +156,10 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 ## Criptomonedas 💰
 
+* [Análisis de las criptomonedas en la economía actual](https://lookaside.fbsbx.com/file/analisis-criptomonedas-2018-TFG-Zarraluqui%20Matos%2C%20IAigo.pdf?token=AWybo2fN3i9Vwjev4WcpqC5s1fR9L8YXIgK4_jTcWPbz5kguDM5ur-Oe5tIolO2nuqAwOFZVn_oRnCTahjh1r8YmiCQjGL8yAVIAKqFA1rOQgr-VbPrt5hab6J49sZknOb3lOdNgbQtr3zqtqT402v8vsUDS9dayj3zilLHaPbUTrA) (PDF)
 * [Criptomonedas (en especial, bitcoin) y blanqueo de dinero](https://criminet.ugr.es/recpc/21/recpc21-14.pdf) (PDF)
 * [Riesgos y beneficios de las criptomonedas en la Economía Global (2017)](https://munesen.org/wp-content/uploads/2016/02/BANCO-MUNDIAL.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Las criptomonedas en el sistema monetario actual (2017)](https://lookaside.fbsbx.com/file/CapitulocriptomonedasUAM-A.pdf?token=AWw_ZFF8EPnY8-Nk2z31lXSUKC5K3J_iFpvIeVJ-7EH89kus6E8-HgBmOwyExnnoI2ob3mrS5LbgJCgt9r43osu991kFz1zUI36RqCCxDtz-Mn8mGXZbJYnHEZJ4L7Amm5LjjYFdY2FLAGZz-tpDNPHin2HyoNN10ae0yGzaKKOr0A){:target="_blank" rel="nofollow"} (PDF)
 
 [⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -171,13 +174,13 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Blockchain para periodistas y medios de comunicación (2017)](https://incomchile.cl/wp-content/uploads/2012/03/Blockchain-periodismo.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Curso de Bitcoin, Blockchain, Icos $& Criptomonedas](https://guiabitcoin.com/wp-content/uploads/2018/01/MODULO-1-Tus-Primeros-Pasos-en-el-Mundo-de-las-Criptomonedas.pdf){:target="_blank" rel="nofollow"}
 * [La economía de Blockchain (2016)](https://trbc.es/wp-content/uploads/2017/10/La-economi%CC%81a-de-Blockchain.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [La era de las BLOCK punto COM](https://laeradelasblock.com/?download=490){:target="_blank" rel="nofollow"} (PDF) (descarga directa)
+* [La era de las BLOCK punto COM](https://lookaside.fbsbx.com/file/La-era-de-las-BLOCK-punto-COM-Jose-Felip-Daras-v1.0.1.pdf?token=AWw04Fayt5NAC19Ff0FuUtHBFOUce-PayphftsMYCXbfujWJzWg8qdWUZ6EkNckEBX1I3v1UdGJ5rhFMiplWXkYppQPqAMD7Tzy-qvcru0ZiCVkO9FqZ0gosRCA8V32YJ2bkC-69OaJxJcTABf4HpiyR4kZ6KsZqmvrinegj4bc9GQ){:target="_blank" rel="nofollow"} (PDF) (descarga directa)
 * [Mastering Bitcoin en Español](https://bitcoinbook.info/wp-content/translations/es/book.pdf){:target="_blank" rel="nofollow"}
 * [Tecnología Blockchain. Caso de estudio: el Bitcoin](https://lsi.vc.ehu.eus/wdocs/pdd/pdd-2017/pdf/04.pdf){:target="_blank" rel="nofollow"} (PDF)
 
 ### Ethereum <i class="fab fa-ethereum"></i>
 
-* [Guía básica de ETHEREUM](https://coinpy.net/assets/docs/eth-guide-es.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Guía Básica de ETHEREUM](https://lookaside.fbsbx.com/file/gu%C3%ADa-ethereum-es.pdf?token=AWwRSd69kRSRBGrrjSl_ITZa_kLRQvAMFMpcuiihuL4L93bASE99P0bZyp3jZA1gclULalRTvF9FdiWXCxDnG4GQl7F7aeBXiWt9oCr84BAdVMcaCRUpnzCFCfvZrhGk_fqF-h_3WqWJiuLCssvR7QJ0Ew4zAHbavWie9Vm7Eswviw){:target="_blank" rel="nofollow"} (PDF)
 
 [⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -250,7 +253,7 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [La definición de Software Libre](https://softlibre.unizar.es/manuales/softwarelibre/free-sw.es.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Libro blanco del Software Libre en España III](https://softlibre.unizar.es/manuales/softwarelibre/III_libro_blanco_del_software_libre.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Metabolismo, comunicación y evolución en redes bacterianas y tecnológicas](https://www.sindominio.net/~xabier/old/textos/autobact/autobact.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Migración al software libre. Guía de buenas prácticas](https://fortinux.com/wp-content/uploads/2010/12/migracionalsoftwarelibre.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Agenda Común de Migración a Sistemas Libres](https://lookaside.fbsbx.com/file/agenda-com%C3%BAn-de-migraci%C3%B3n-a-software-libre-2016.pdf?token=AWzl5ynxxRQoXlAf9B-2wyU1MZbvHR6eyK4F_lY3GwnQwNM6V5Wcw2D6F1q8kO3Y-RX2Fps4I6kIbviR4i2nqGR5Cz7s2fav6kkqX60nKhtv4PXE8jus48TBaL9fVSVTCApJjFjAAfqHKOCnHNoFRRMEuJ-3kX2evnkFUtiXsTzwwQ){:target="_blank" rel="nofollow"} (PDF)
 * [Posix de tiempo real (1993)](https://www.ctr.unican.es/publications/mgh-1993b.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Sistema Operativo GNU/Linux Básico](https://softlibre.unizar.es/manuales/linux/868.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Software libre para una sociedad libre](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf){:target="_blank" rel="nofollow"} (PDF) (Richard M. Stallman)
@@ -297,17 +300,19 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Control de versiones: Git y Github](https://www.acens.com/wp-content/images/2015/07/git-github-wp-acens.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Creación de jaulas chroot para el mantenimiento de aplicaciones Web mediante sistemas de control de versiones](https://www.researchgate.net/publication/333971451_Creacion_de_jaulas_chroot_para_el_mantenimiento_de_aplicaciones_Web_mediante_sistemas_de_control_de_versiones_SCV_distribuidos_sobre_Debian_GNULinux_7) (PDF) (2015)
 * [Desarrollo de Software en Equipo](https://csw-uniandes.gitbooks.io/isis2603-desarrollo-de-software-en-equipos/content) (HTML) (2018)
-* [Diseño Ágil con TDD](https://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Diseño Ágil con TDD](https://lookaside.fbsbx.com/file/diseno-agil-tdd.pdf?token=AWzhJC5AiZhciCEII7elo_yam_k0Oc4EOrTyv76UwXbXDqc9CtoOJLq79ZH9Uc3C57ac6aV2QocUiTfwQn59J5GoeYdHw_F9wmMsI_v1oSZpHb9nggvtLO-m6owHxTq3nwG6Le4VZToUq5bbGptIpEAiiri4SXgvmX7thKhLp8TqBg){:target="_blank" rel="nofollow"} (PDF) (2010)
 * [El Control de Versiones en el aprendizaje de la Ingeniería Informática: Un enfoque práctico](https://bioinfo.uib.es/~joemiro/aenui/procJenui/Jen2007/ruelco.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Entorno CASE para el desarrollo de sistemas de tiempo real (2003)](https://www.ctr.unican.es/publications/jlm-plm-jmd-2003.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Git y GitHub. Guía de Supervivencia](https://leanpub.com/gitygithub){:target="_blank" rel="nofollow"} (Descarga PDF)
 * [Guía a la galaxía de aplicaciones móviles](https://openlibra.com/es/book/download/guia-para-la-galaxia-de-aplicaciones-moviles){:target="_blank" rel="nofollow"} (PDF)
+* [Kanbal: Esencial Condensado](https://lookaside.fbsbx.com/file/Essential-Kanban-Condensed-Spanish.pdf?token=AWyYc-5c8aEs6i59Vr1nihcYLCjpdOZYOjKXBjG7zhCgInZGXHLGqEDbTT-YsjXnQru3331KIdspC4dwHE-T2cPDsf5YrEmMFrPiwQmkX37XbxwlOdxGaMZYh5UVR-rapxYYsYcqVffqMa-bKBsArWls9rahgoXW04G47oBxE8PBmg){:target="_blank" rel="nofollow"} (PDF) (2016)
 * [Kit de supervivencia para trabajar desde casa](https://www.carlosjonayss.com/wp-content/uploads/2020/03/guia_trabajo_remoto_1_0.pdf){:target="_blank" rel="nofollow"} (PDF) (2020)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/https://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Introducción a GIT](https://carloscarcamo.gitbooks.io/git-intro/content) (HTML) (2016)
+* [Lean Manufacturing](https://lookaside.fbsbx.com/file/Lean_Manufacturing_Versi%C3%B3n_2.2_Marzo%202019.pdf?token=AWxLg_hrPQDVENPfs--NKMfpAb1BBNSJaDITIzjX2uoI1NvTGrnGSdatRUxrpYVolVCrxId4uXu6mSB96EbVH4tW-V63S7x1_AR646uEVo-pLQF__w3_yLhnVDzrAp_Aa8ZVKjVykHwK_37dk7K3t98OtdL6deIo4iSYEeq4Fs4qrQ){:target="_blank" rel="nofollow"} (PDF) ()En ESpañol)
 * [Más allá de Google (2008)](https://www.infonomia.com/wp-content/uploads/2014/11/40.-Mas-alla-de-Google.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/https://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Scrum y XP desde las trincheras](https://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Scrum y XP desde las trincheras](https://lookaside.fbsbx.com/file/scrum-y-xp-desde-las-trincheras.pdf?token=AWwc3nzu7NxFOI59Z8uHnW42jr9EGDMjBf-OW4D677Ds4L7i-_Yj2guniUWxtw7HVPA83rHWTuUE0E7wXecS7keBVsZF9B01PZG25XocJ-sAobqA7DwvT2dSHMGk67F05V8pPtqFRSaVU45t2DP7K3FR87yWobkNYG4Jc-Qdpi1Ncg){:target="_blank" rel="nofollow"} (PDF) (2007)
 * [Sistemas para el Control de Versiones](https://rodin.uca.es/xmlui/bitstream/handle/10498/9785/trabajoSCV.pdf){:target="_blank" rel="nofollow"} (PDF)
 
 ## Misceláneos
@@ -320,6 +325,18 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 ### Montaje & Mantenimiento 🔧
 
 * [Armado y reparación de PC](https://nksistemas.com/curso-de-armado-y-reparacion-de-pc){:target="_blank" rel="nofollow"} (HTML)
+
+## 💻 Ofimática
+
+[Acces](/biblioteca-de-programacion-y-tecnologia/#acces){: .btn .btn--inverse .btn--large} [Excel](/biblioteca-de-programacion-y-tecnologia/#excel){: .btn .btn--inverse .btn--large} [Google Drive](/biblioteca-de-programacion-y-tecnologia/#google-drive){: .btn .btn--inverse .btn--large} [Presentaciones](/biblioteca-de-programacion-y-tecnologia/#presentaciones){: .btn .btn--inverse .btn--large} [Software Libre](/biblioteca-de-programacion-y-tecnologia/#software-libre){: .btn .btn--inverse .btn--large} [Otros](/biblioteca-de-programacion-y-tecnologia/#presentaciones){: .btn .btn--inverse .btn--large} [Word](/biblioteca-de-programacion-y-tecnologia/#word){: .btn .btn--inverse .btn--large}
+
+### Software Libre
+
+* [Guía de Jitsi](https://lookaside.fbsbx.com/file/jitsi-guia.pdf?token=AWwJD_WLH4AqHnO5CuUo2QSgfUWJW0HvWvKu4wTIudknIkBEoeSY82IwpiAL8Fz8bDd10JtIqgV90CD8ETkLOzw9QeW0eSzMIF9Is4YkI_1UjQHZ2Fk0bLP0B3W1VSb7rN2Sk2aoWzWVBUMOtjj9y_0CVZrXI4S0X1U594W8QUn2tA){:target="_blank" rel="nofollow"} - Para la utilización básica de Jitsi para videoconferias
+
+### Otros
+
+* [Avaloon usando Odoo](https://lookaside.fbsbx.com/file/avaloon-usando-odoo.pdf?token=AWy6m1FcI2UG2vyDU6C-HP0NywuUwEbNaCOA0IEn9zWXk0omxJk9q317PcCb6SeI7gWXnz_ZapW21Q7kErTtFm5lWFw9e0ZXoZzTSAne8fndNhwBbDaJ1ym_7aBDnnvVf4sYcetZgz9xwqyDgVSg9a-6n_vOFp346F2wuIygOKPAJA){:target="_blank" rel="nofollow"}
 
 ## 👨‍💻 Paradigmas de Programación
 
@@ -367,8 +384,8 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Diseño y configuración de IPS, IDS y SIEM en Sistemas de Control Industrial](https://www.certsi.es/sites/default/files/contenidos/guias/doc/certsi_diseno_configuracion_ips_ids_siem_en_sci.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Estudio de viabilidad, oportunidad y diseño de una red de centros de excelencia en I+D+I en ciberseguridad](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/informe_resumen_estudio_red_centros_excelencia.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Guía básica de protección de Infraestructuras Críticas: el puesto de operador](https://www.certsi.es/sites/default/files/contenidos/guias/doc/int_cnpic_proteccion_puesto_operador.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Guía básica de seguridad en Magento](https://www.certsi.es/sites/default/files/contenidos/guias/doc/cert_guia_seguridad_magento.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Guía básica para la securización del gestor de contenidos Joomla!](https://www.certsi.es/sites/default/files/contenidos/guias/doc/guia__securizando_joomla.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Guía básica de seguridad en Magento](https://lookaside.fbsbx.com/file/cert_guia_seguridad_magento.pdf?token=AWyxSdV6QAT6SQ0O-_2ABowYXiWnZqZfunc0rB84pZYuOrk6b9EN3U-GYN8fksD9PTm9d9iNjuBsMXw_DiToS_9L7CNKBQMpJNWw_3hA23mcQKv6nLoHN13_hI4Vb5WMNoXR3wIjP8IDxaK9JyAA5pq98PlHa_GBGKQBf_kfbx4lNg){:target="_blank" rel="nofollow"} (PDF)
+* [Guía básica para la securización del gestor de contenidos Joomla!](https://lookaside.fbsbx.com/file/guia__securizando_joomla.pdf?token=AWy20237tPTolTeBWSesHrc4VqD8CFu0OMfsWzysWqd3d3RNJrytmO0Vp5uZqA3-Z4wLIpDPe9jus7r6l4FAdFU2ZA5zuH21CbfQ5qDFemvZplhXR2xZ4T2eTdRUFKf3oZqLhp3EIPfuK_oCJEWW3maBCMYQwEnMtEuYtp1Sx6a3lQ){:target="_blank" rel="nofollow"} (PDF)
 * [Guía de Seguridad en Protocolos Industriales – Smart Grid](https://www.certsi.es/sites/default/files/contenidos/guias/doc/certsi_seguridad_protocolos_industriales_smartgrid.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Guia de Seguridad en servicios DNS](https://www.certsi.es/sites/default/files/contenidos/guias/doc/guia_de_seguridad_en_servicios_dns.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Guía de toma de evidencias en entornos Windows](https://www.certsi.es/guias-y-estudios/guias/toma-evidencias-windows){:target="_blank" rel="nofollow"} (PDF)
@@ -401,6 +418,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Aulas en red. Aplicaciones y servicios. Linux](https://www.ite.educacion.es/formacion/materiales/85/cd/linux/indice.htm){:target="_blank" rel="nofollow"}
 * [Aulas en red. Aplicaciones y servicios. Windows](https://www.ite.educacion.es/formacion/materiales/85/cd/windows/indice.htm){:target="_blank" rel="nofollow"}
+* [Charlas para DevOps](https://lookaside.fbsbx.com/file/devops.pdf?token=AWzqS0t11bV9S9X8d2D4Uo1-JT39NDBGgUHIJN19tlEZw8XR7Ir_NHBJLB8fa2onbXqjA_ceJo5iK931OQ9iZracvFG0W9bGSQJuU9FPloCNSFG0MBQQbHID2i8bCOJ039fCPQ-VbKik8DPgkJgMp7Qij03NrA5M1kQD0ZOgsR3bTA){:target="_blank" rel="nofollow"} (PDF)
 * [Redes. Contenido de Cisco: CCNA](https://nksistemas.com/curso-de-redes-online-contenidos-de-ccna){:target="_blank" rel="nofollow"} (HTML)
 * [Técnicas para armado de redes LAN utilizando Software Libre](https://fortinux.com/wp-content/uploads/2010/12/redes.pdf){:target="_blank" rel="nofollow"} (PDF)
 
@@ -477,10 +495,11 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Arduino. Manual de Programación](https://arduinobot.pbworks.com/f/Manual%2BProgramacion%2BArduino.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Escornabots: Robot de piezas 3D y Arduino](https://catedu.gitbooks.io/escornabots/content/){:target="_blank" rel="nofollow"} (PDF)
 * [Hacia un framework basado en ROS para la implementación de Sistemas Ciberfísicos](https://www.ehu.eus/documents/3444171/4484750/124.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Introducción a la arquitectura de computadores con QtARMSim y Arduino](https://lorca.act.uji.es/libro/introARM/introARM_ebook_2017.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Introducción a la arquitectura de computadores con QtARMSim y Arduino]([https://lorca.act.uji.es/libro/introARM/introARM_ebook_2017.pdf){:target="_blank" rel="nofollow"](https://lookaside.fbsbx.com/file/introARM_ebook_2017.pdf?token=AWzAxiB7qeSfB2Gy7vkEirhMdo6ECKvVIKBFwfi9g1p4wVHZ_7mOFCu7IFqUylAR4aZhnnQpWT6A-WQ5PvgSAbbad33D3l2HzxsAGw40IvIVCJQ15lGdT358TjuXJmd70i7G4lCJzI3N2JXYRRfERHAsIVVYhxZ9TW6tzC4TjnHVTg)} (PDF)
 * [Propuesta para grupo de investigación Autonomía Situada (2003)](https://www.sindominio.net/~xabier/old/textos/propuesta/propuesta.html){:target="_blank" rel="nofollow"} (HTML)
-* [Topos: Reconocimiento de patrones temporales en sonidos reales con redes neuronales de pulsos](https://lsi.vc.ehu.es/pablogn/investig/ficheros/albaTopos.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Utilizando Arduino Due en la docencia de la entrada/salida](https://bioinfo.uib.es/~joemiro/aenui/procJenui/Jen2015/ba_util.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Reconocimiento de patrones temporales en sonidos reales con redes neuronales de pulsos](https://lookaside.fbsbx.com/file/robot-arduino-controlado-por-sensores-lazarragaTFG0617memoria.pdf?token=AWyIghTT5liLbmWS2oaDhDpl3fzEB1b7wWSX4ofxL9LLPBB8ND2U0XyRty1-6KfPTGFlNBr0OCQc3NymJhi8P5XKWMYQ7wg5YQXaNEyjtXQAQL4CV4SrEoYJb2SGykIw52itPmdqo8cQfIX0efY9I8fe0VH0I375Mn9n1OKA6OXAeg){:target="_blank" rel="nofollow"} (PDF)
+* [Robot de Arduino controlado mediante sensores y con respuestas sobre actuadores](https://lsi.vc.ehu.es/pablogn/investig/ficheros/albaTopos.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Utilizando Arduino Due en la docencia de la entrada/salida](https://lookaside.fbsbx.com/file/Utilizando_Arduino_Due.pdf?token=AWyfCmQzCqTdm-mjJPMgon33FVOGe95bT0diczQ2YkSgPtEnLfYPgtshNHNoIp9GNDcUCQnPjMnsqPQYHATAfh4DME6PXSkgyCXzBL1tT0D329oQgN1RIx1NW6odZQgme_9PY0_TEFg398TtV791E2v7g2mYlM0oG2t5FUMrMEpNsg){:target="_blank" rel="nofollow"} (PDF)
 
 ## Casas Inteligentes 🏡
 
@@ -566,8 +585,9 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript){:target="_blank" rel="nofollow"} - Javi Jiménez (Descarga PDF)
 
-### Emacs
+### Emacs y Lisp
 
+* [Una Introducción a Emacs Lisp en Español](https://savannah.nongnu.org/git/?group=elisp-es){:target="_blank" rel="nofollow"} (HTML)
 * [Una Introducción a Emacs Lisp en Español](https://savannah.nongnu.org/git/?group=elisp-es){:target="_blank" rel="nofollow"} (HTML)
 
 ### Ensamblador
@@ -663,7 +683,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## <i class="fab fa-js"></i> JavaScript
 
-* [Fundamentos de Javascript](https://majoledesma.github.io/js-notes/){:target="_blank" rel="nofollow"} (PDF) (2020) [Anexo 1: Scope y Local Scope](https://twitter.com/MajoLedes/status/1234882045190561793){:target="_blank" rel="nofollow"} (2020)
+* [Fundamentos de Javascript](https://lookaside.fbsbx.com/file/js-notesByMajoLedesma.pdf?token=AWwMwTsvr7tH4eYfiuNntACHnAzUkhcDsClQ0-OgUnvSDUVdwB3ZIaUDZbyd28BQCtrwWtg0AFenNc5PBzIN8blL3gfhWmVbjN486OrhMcLRGIwHqAHX4lNi5OeeecN-lf0TVe9iyw5bN6X-n6HGzmr-r398NH4pNIr0W3fhxFAgzw){:target="_blank" rel="nofollow"} (PDF) (2020) [Anexo 1: Scope y Local Scope](https://twitter.com/MajoLedes/status/1234882045190561793){:target="_blank" rel="nofollow"} (2020)
 * [Guía de Javascript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide){:target="_blank" rel="nofollow"} (HTML)
 * [Introducción a AJAX](https://librosweb.es/libro/ajax){:target="_blank" rel="nofollow"} (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax){:target="_blank" rel="nofollow"}
 * [Introducción a JavaScript](https://librosweb.es/libro/javascript){:target="_blank" rel="nofollow"} (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript){:target="_blank" rel="nofollow"}
@@ -692,7 +712,8 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ### React <i class="fab fa-react"></i>
 
-* [Apuntes y Notas: ReactJS](https://majoledesma.github.io/react-apuntes/){:target="_blank" rel="nofollow"} (PDF) (2020)
+* [Fundamentos de ReactJS](https://lookaside.fbsbx.com/file/React-Notes-MajoLedesma.pdf?token=AWxLqjFoHPZLfLUfVPnZmpc61WJXY_4RHl8Rfj4tPTBR0CO58_Rt6OEmJck4_WDhPiW9rKX8sqGMzPvY9RqkUY3qXCyN3GcQ7cnoMxHCfOOEjBTR9XTs7nnIxxDx70RDbOjO4ncfOmNv1TliY5oOA1eMxtbi7YCt8yh29ykASBCT2A){:target="_blank" rel="nofollow"} (PDF) (2020)
+* [Fundamentos de ReactJS y Hooks](https://lookaside.fbsbx.com/file/hooks-MajoLedesma.pdf?token=AWxLzCQhwLd5WPbVSTOp97HJLxyjREGyS_wykNvLBFMtT295MW6QNrhkLGZZQGiY7qylxgdGgtGMEfOHbKjV_AIXTcWfGbdz32V9qESqSWL-5fWJVcvioefVnwfFyYWwUkqv2VqkXAjp1rGxPRwq3EB5WkLE2ocTBHVxtOb3usl0mw){:target="_blank" rel="nofollow"} (PDF) (2020)
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux?){:target="_blank" rel="nofollow"} (Descarga PDF)
 * [Descubre React](https://leanpub.com/descubre-react?){:target="_blank" rel="nofollow"} (Descarga PDF)
 * [El Camino para Aprender React](https://leanpub.com/the-road-to-learn-react-spanish?){:target="_blank" rel="nofollow"}
@@ -726,9 +747,15 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Symfony 1.4, la guía definitiva](https://librosweb.es/libro/symfony_1_4){:target="_blank" rel="nofollow"} (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva){:target="_blank" rel="nofollow"}
 * [Symfony 2.4, el libro oficial](https://librosweb.es/libro/symfony_2_4/){:target="_blank" rel="nofollow"} (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12){:target="_blank" rel="nofollow"}
 
+### Cake PHP
+
+* [CakePHP](https://lookaside.fbsbx.com/file/CakePHPCookbook.pdf?token=AWyFDalEcITnVtdOGUKjMhpxlOyhhMvu-9e2DsQwbkN8Mdm7g_L6DdvOV57rE8zfwkZvBtw1p8Y35z3JzN46qE0NMtDoTndZBu_GMUOYIIDSCqKWeKiKsUksaOesmAQVbBxe4v1zPTWnjre0Ox2yNI_C1o_RBz5DteVi0euKkepL1A){:target="_blank" rel="nofollow"} (PDF) (2020)
+
 ### Laravel <i class="fab fa-laravel"></i>
 
-* [Laravel 5](https://richos.gitbooks.io/laravel-5/content/){:target="_blank" rel="nofollow"} [PDF](https://legacy.gitbook.com/download/pdf/book/richos/laravel-5){:target="_blank" rel="nofollow"}
+* [Documentación de Laravel 6.0](https://lookaside.fbsbx.com/file/documentacion-de-laravel.pdf?token=AWxgc2kXPnguYTiOvb58Xp6s80I_YIj57JNfNdl8xZ_BmXoVdoRqNFMQy4hn5Lbzc6CdSEfdCesb_eU2X4HiqtVj7eDju-UlYTYsV3ujI0hMWbfw3JrO3vJ7Rvf1rsrkXIvrmy5lDqWZYGj91UvgC_GrCPGFcCodE9Hc5a6bx0V_lQ){:target="_blank" rel="nofollow"} (PDF) (1043 páginas)
+* [Laravel 5: Conceptos Básicos y Ejemplos](https://lookaside.fbsbx.com/file/laravel-5.pdf?token=AWzwgr1mH7p9_Q5W93UbkN6QFt5piI6VmIF7p70qAiA4u7TNf_WHB3qHChnHihr6u0se4Uc5XrA50SvY0DNNZDM7zAe2RrT7PNxCYm4-O7opZ7GhEAuX4ymt6n9J8kFB2C9Z-F2LaTAI2ALSKDXcmik1MuFl8r2U_91UTYMzJbaUOA){:target="_blank" rel="nofollow"} (PDF)
+* [Laravel 5: El PHP Framework](https://lookaside.fbsbx.com/file/0149-curso-laravel-5.pdf?token=AWwr_RJ6MnHGNFN1gNizBpOOC2OYpqZWr4ybIjnmxMQPr1rFlrsuOvdWG8LHrt0MPchKB1qRreKzqq8PZDkP18GNS1t57mcUHr4mHFWvjamz7Ow8VwuauoGkcPwNYgFfeawlPgcbaN3aInfVGbQ86bwVlf4h4roWqovk7-qOvL9tZA){:target="_blank" rel="nofollow"} (PDF) ()
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -744,6 +771,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Aprende Python desde cero a experto](https://leanpub.com/aprende-python/){:target="_blank" rel="nofollow"} (PDF) (2020)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](https://code.google.com/p/swfk-es/){:target="_blank" rel="nofollow"} (HTML)
+* [Fundamentos Básicos de Python](https://lookaside.fbsbx.com/file/python-MajoLedesma.pdf?token=AWzo5pjwx86I9wzvBtXijFOVeFgnXjgKm6lJQqx-jQ1e7iht1hqQdCeKgTLw0Ijh4idLkAr_mVGkPND06fpDzq2UfoWfuFY-KYZK0H5ASJpUvpzUIYVC_mtGsqSnEW-ZYRyvXKlVpcm73BIv7q1EDclkp9PAVnzOTcK_pdC6t6e_cg){:target="_blank" rel="nofollow"} (MajoLedesma) (HTML)
 * [Inmersión en Python](https://es.diveintopython.net/toc.html){:target="_blank" rel="nofollow"} (HTML)
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf){:target="_blank" rel="nofollow"} (PDF)(descarga directa)
 * [Introducción a la programación con Python](https://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf){:target="_blank" rel="nofollow"} (PDF)
@@ -809,7 +837,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## SVG
 
-* [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/){:target="_blank" rel="nofollow"} (Descarga PDF)
+* [Scalable: Un libro sobre SVG](https://lookaside.fbsbx.com/file/scalable.pdf?token=AWxNiz6LRucqQSrNUMf8ntZOEIDPzn1YO3DyPQbwJbE6KZJvBqzlRHHn5pgC4bwM4VbgaVG8KxCvSDrlSSsSZ3_svwdff0cGNrS9p98bylJI-X5itT4zgescpGGbQ-AdmWVIDQSH6_ZMTlzzb5eRxNkeREL81VUXSXajXV3gqfyc_w){:target="_blank" rel="nofollow"} (Descarga PDF) (2017)
 
 
 ## Swift <i class="fab fa-swift"></i>
