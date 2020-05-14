@@ -177,8 +177,9 @@ Como en los ejemplos siguientes:
 **Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.  
 {: .notice--success}
 
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
+¿Desea ajustar varios párrafos u otros elementos en un aviso? Usar Liquid para capturar el contenido y luego filtrarlo con `markdownify` es una buena manera de hacerlo.
 
+`````
     {% raw %}{% capture notice-2 %}
     #### New Site Features
     
@@ -189,11 +190,7 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
     <div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
 
 {% capture notice-2 %}
-
-<br />
-
-[🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+`````
 
 ### Nuevas características del sitio
 
@@ -278,7 +275,7 @@ $header-font-family : $sans-serif-narrow;
 * [Ordenar Páginas en Jekyll](https://stackoverflow.com/questions/41087699/jekyll-how-to-change-the-default-ordering-of-collections){:target="_blank" rel="nofollow"}
 * [Crear listado con las publicaciones de una categoría .yml](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category){:target="_blank" rel="nofollow"}
 
-**La **Guía de Jekyll** fue creada el** *16 de Marzo de 2020* **y su última edición fue realizada el** *13 de Mayo de 2020*.
+La **Guía de Jekyll** fue creada el *16 de Marzo de 2020* y su última edición fue realizada el *13 de Mayo de 2020*.
 {: .notice--info}
 
 #### Índice <!-- omit in toc -->

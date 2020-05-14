@@ -7,6 +7,7 @@ layout: splash
 last_modified_at: 
 classes: wide
 permalink: /drupal/
+canonical_URL: https://ciberninjas.com/drupal/
 published: true
 header:
   teaser: "/assets/images/paginas/drupal.webp"
