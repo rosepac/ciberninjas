@@ -37,11 +37,11 @@ $header-font-family : $serif;
     }
 
     @include breakpoint($large) {
-        font-size: 20px; // originally 20px
+        font-size: 19.6px; // originally 20px
     }
 
     @include breakpoint($x-large) {
-        font-size: 22px; // originally 22px
+        font-size: 21.6px; // originally 22px
     }
 }
 // Cambiar el subrayado del texto.
