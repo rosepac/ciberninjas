@@ -121,7 +121,7 @@ Aprenda sobre SDN, OpenFlow, NFV, conmutación de Whitebox, conmutadores de Face
 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
-### Relacionados
+### Relacionadoss
 
 [🎓 Cursos de tecnología en español](https://ciberninjas.com/cursos-tecnologia/)
 [📚 ▷ Más de 1.500 Libros PDF en Inglés](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia-ingles/)
