@@ -96,7 +96,9 @@ No te olvides, que si deseas apoyar y que se siga publicando muchos cursos y otr
 {: .notice--info}
 
 👨‍🏫 Linux Shell Scripting: Bashing, comandos de automatización, actualizados (caduca a las 19 H. del 15/05/20) 👇
+
 <a href='https://www.udemy.com/course/linux-shell-scripting-updated/?couponCode=SCRIPTFREE'>https://www.udemy.com/course/linux-shell-scripting-updated/?couponCode=SCRIPTFREE</a>
+{: .notice--info}
 
 👩‍🏫 Linux para ingenieros de redes: Linux práctico con GNS3 👇
 
@@ -133,12 +135,14 @@ Aprenda sobre SDN, OpenFlow, NFV, conmutación de Whitebox, conmutadores de Face
 👩‍🏫 Programación Orientada a Objetos Usando Java e Intellij Hands-On 👇
 
 <a href='https://www.udemy.com/course/object-oriented-programming-using-java-and-intellij-hands-on/'>https://www.udemy.com/course/object-oriented-programming-using-java-and-intellij-hands-on/</a>
+{: .notice--info}
 
 👩‍🏫 Java Multithreading: Conviértete en un maestro 👇
 
 <a href='https://www.udemy.com/course/easy-java-multithreading-become-a-master/?couponCode=A71EA2A3707D5B7727CD'>https://www.udemy.com/course/easy-java-multithreading-become-a-master/?couponCode=A71EA2A3707D5B7727CD</a>
 {: .notice--info}
-👩‍🏫 Aprenda patrones de diseño creacional en Java(en Inglés) 👇
+
+👩‍🏫 Aprende patrones de diseño creacional en Java(en Inglés) 👇
 
 <a href='https://www.udemy.com/course/creationalpatternsinjava/?couponCode=DESIGNPATTERNWITHSAM'>https://www.udemy.com/course/creationalpatternsinjava/?couponCode=DESIGNPATTERNWITHSAM</a>
 {: .notice--info}
