@@ -9,7 +9,7 @@ categories:
 - Cursos
 # header:
 #   teaser: /assets/images/blog/
-title: 'Los 100 Cursos GRATIS más nuevos de Udemy'
+title: 'Los 100 Cursos de Programación GRATIS más nuevos de Udemy'
 description: >-
   Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc.
 excerpt: >-
@@ -554,14 +554,21 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 ### Relacionados
 
 [🎓 Cursos de tecnología en español](https://ciberninjas.com/cursos-tecnologia/)
+
 [📚 ▷ Más de 1.500 Libros PDF en Inglés](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia-ingles/)
+
 [🥇 ▷ Cursos de Tecnología en Inglés](https://ciberninjas.com/cursos-tecnologia-ingles/)
+
 [🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
+
 [🥇 ▷ Cómo APRENDER a Programar GRATIS](https://ciberninjas.com/programar/)
+
 [🥇 ▷ Cómo APRENDER](https://ciberninjas.com/aprender/)
+
 [🥇 ▷ Profesiones Digitales](https://ciberninjas.com/profesiones-digitales/)
+
 [🥇 ▷ Los Mejores Libros PDF de Tecnología](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/)
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331109157075936" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331109157075936" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros con los que aprender a programar en Java y con Android, en Español</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a>
-{: .notice--info} en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331109157075936">Martes, 3 de marzo de 2020</a>
-{: .notice--info}</blockquote></div>
+ en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331109157075936">Martes, 3 de marzo de 2020</a>
+</blockquote></div>
