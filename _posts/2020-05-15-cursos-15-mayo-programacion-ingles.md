@@ -26,7 +26,8 @@ A continuación los mejores cursos gratuitos para el fin de semana, del 15 al 18
 
 Si lo que deseas son cursos en español, puedes revisar [dentro de la web](/cursos-tecnologia/), si lo que deseas los cursos en español con los más recientes cupones; son publicados a diario a través del [telegram de Ciberninjas](https://t.me/ciberninjas){:target="_blank" rel="nofollow,noreferrer"}, o bien, en el facebook [Cibercursos](https://www.facebook.com/cibercursos){:target="_blank" rel="nofollow,noreferrer"}.
 
-No te olvides, que si deseas apoyar y que se siga publicando muchos cursos y otras variadas publicaciones por durante mucho tiempo; puedse colaborar ojeando mis recomendaciones de [libros para el año 2020](https://www.amazon.es/shop/cibercursos).
+
+No te olvides, que si deseas apoyar y que se siga publicando muchos cursos y otras variadas publicaciones por durante mucho tiempo; puedes colaborar ojeando mis recomendaciones de [libros para el año 2020](https://www.amazon.es/shop/cibercursos) junto a las recomendaciones y libros leídos por importantes personajes del mundo tecnológico; como por ejemplo: Elon Musk o Satya Nadella.
 
 ¡Alé, a disfrutar..! Más tarde, una nueva publicación de cursos exclusivamente en español 🤘 🎉
 
