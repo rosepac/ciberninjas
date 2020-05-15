@@ -34,122 +34,138 @@ No te olvides, que si deseas apoyar y que se siga publicando muchos cursos y otr
 {: .notice--danger}
 
 👩‍🏫 JavaScript + ES6 + ES7 + ES8 + ES9 -> La guía completa (Valorado en 195 €) ¡15 Horas de Vídeos! 👇
+
 <a href='https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/?couponCode=JAVASCRIPT360'>https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/?couponCode=JAVASCRIPT360</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 Aprender Next.JS (Valorado en 199 €) 👇
 
 <a href='https://www.udemy.com/course/learn-nextjs/?couponCode=TRY10FREE11'>https://www.udemy.com/course/learn-nextjs/?couponCode=TRY10FREE11</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 Javascript para principiantes: Crea un juego de Snake 👇
 
 <a href='https://www.udemy.com/course/learn-modern-javascript-by-coding-a-snake-game/?couponCode=FREE-SNAKE-3-DAYS'>https://www.udemy.com/course/learn-modern-javascript-by-coding-a-snake-game/?couponCode=FREE-SNAKE-3-DAYS</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 JavaScript y jQuery - Curso de certificación para principiantes (Valorado en 150 €) 👇
 
 <a href='https://www.udemy.com/course/javascript-jquery-certification-course-for-beginners/?couponCode=YOUACCELGOLEARN'>https://www.udemy.com/course/javascript-jquery-certification-course-for-beginners/?couponCode=YOUACCELGOLEARN</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 Master MERN Stack: Construyendo un proyecto de blog completo(en Inglés) (Valorado en 200 €) ¡3 Horas de Vídeo! 👇
 
-<a href='https://www.udemy.com/course/master-mern-stack-by-building-complete-blog/?couponCode=FREE-SHELLEN'>https://www.udemy.com/course/master-mern-stack-by-building-complete-blog/?couponCode=FREE-SHELLEN</a>
-{: .notice--success}
-
 ¡Aprende construyendo la aplicación Full-stack React.js, Node.js, Express.js y MongoDB (MERN)!
+
+<a href='https://www.udemy.com/course/master-mern-stack-by-building-complete-blog/?couponCode=FREE-SHELLEN'>https://www.udemy.com/course/master-mern-stack-by-building-complete-blog/?couponCode=FREE-SHELLEN</a>
+{: .notice--info}
 
 👩‍🏫 Aprendizaje automático: regresión logística, LDA y K-NN en Python ¡7,5 Horas de Vídeos! 👇
 
 <a href='https://www.udemy.com/course/machine-learning-basics-classification-models-in-python/?couponCode=MAY20FRE'>https://www.udemy.com/course/machine-learning-basics-classification-models-in-python/?couponCode=MAY20FRE</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 Inteligencia Artificial Increíble: Edición de música con aprendizaje profundo 👇
+
 <a href='https://www.udemy.com/course/ai-music-editing/'>https://www.udemy.com/course/ai-music-editing/</a>
+{: .notice--info}
 
 👩‍🏫 Programación de redes con Python * para ingenieros de redes (Python 3)(en Inglés) (Valorado en 40 €) 👇
 
 <a href='https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/?couponCode=DBPYTHONMAY'>https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/?couponCode=DBPYTHONMAY</a> 
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 Curso para Principiantes de Angular 2020 👇
 
 <a href='https://www.udemy.com/course/the-angular-course-2020/?couponCode=ANOW11'>https://www.udemy.com/course/the-angular-course-2020/?couponCode=ANOW11</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 Curso para Principiantes de React 2020 👇
 
 <a href='https://www.udemy.com/course/react-beginners-bootcamp-2020/?couponCode=REACT-GO'>https://www.udemy.com/course/react-beginners-bootcamp-2020/?couponCode=REACT-GO</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 Aprenda SQL para principiantes: el completo campo de entrenamiento práctico 👇
 
 <a href='https://www.udemy.com/course/learn-sql-for-beginners/?couponCode=FD9B0BBB39203A043999'>https://www.udemy.com/course/learn-sql-for-beginners/?couponCode=FD9B0BBB39203A043999</a>
-{: .notice--success}
+{: .notice--info}
 
 👨‍🏫 NGINX, Apache, cifrado SSL (Valorado en 120 €) 👇
 
 <a href='https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCELGOLEARN'>https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCELGOLEARN</a>
-{: .notice--success}
+{: .notice--info}
 
 👨‍🏫 Linux Shell Scripting: Bashing, comandos de automatización, actualizados (caduca a las 19 H. del 15/05/20) 👇
 <a href='https://www.udemy.com/course/linux-shell-scripting-updated/?couponCode=SCRIPTFREE'>https://www.udemy.com/course/linux-shell-scripting-updated/?couponCode=SCRIPTFREE</a>
 
 👩‍🏫 Linux para ingenieros de redes: Linux práctico con GNS3 👇
+
 <a href='https://www.udemy.com/course/linux-for-network-engineers-practical-linux-with-gns3/?couponCode=DAVIDYOUTUBEMAY'>https://www.udemy.com/course/linux-for-network-engineers-practical-linux-with-gns3/?couponCode=DAVIDYOUTUBEMAY</a>
+{: .notice--info}
 
 👩‍🏫 SDN, NFV, conmutación de Whitebox y actualizaciones de OpenFlow Intro 2017 👇
-<a href='https://www.udemy.com/course/sdn-nfv-whitebox-switching-and-openflow-introduction/?couponCode=DBSDNMAY'>https://www.udemy.com/course/sdn-nfv-whitebox-switching-and-openflow-introduction/?couponCode=DBSDNMAY</a>
 
 Aprenda sobre SDN, OpenFlow, NFV, conmutación de Whitebox, conmutadores de Facebook, Cisco SD-WAN, OpenDaylight, Mininet y más..
+
+<a href='https://www.udemy.com/course/sdn-nfv-whitebox-switching-and-openflow-introduction/?couponCode=DBSDNMAY'>https://www.udemy.com/course/sdn-nfv-whitebox-switching-and-openflow-introduction/?couponCode=DBSDNMAY</a>
+{: .notice--info}
 
 👩‍🏫 Deep Web: la introducción completa a la web oculta 👇
 
 <a href='https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/?couponCode=DWEBMAY13-16'>https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/?couponCode=DWEBMAY13-16</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 Los fundamentos de la seguridad cibernética 2020 👇
+
 <a href='https://www.udemy.com/course/the-basics-of-cyber-security-2020/?couponCode=322C135B8EBD866144BB'>https://www.udemy.com/course/the-basics-of-cyber-security-2020/?couponCode=322C135B8EBD866144BB</a>
+{: .notice--info}
 
 👩‍🏫 Nuevas características de Windows Server 2019 explicadas 👇
+
 <a href='https://www.udemy.com/course/windows-server-2019-new-features-explained/?couponCode=E6002E0E42FC3052370C'>https://www.udemy.com/course/windows-server-2019-new-features-explained/?couponCode=E6002E0E42FC3052370C</a>
+{: .notice--info}
 
 👩‍🏫 Introducción a Internet de las cosas (IoT) usando Arduino 👇
+
 <a href='https://www.udemy.com/course/introduction-to-internet-of-things-iot-using-arduino/?couponCode=POSTCOVID'>https://www.udemy.com/course/introduction-to-internet-of-things-iot-using-arduino/?couponCode=POSTCOVID</a>
+{: .notice--info}
 
 👩‍🏫 Programación Orientada a Objetos Usando Java e Intellij Hands-On 👇
+
 <a href='https://www.udemy.com/course/object-oriented-programming-using-java-and-intellij-hands-on/'>https://www.udemy.com/course/object-oriented-programming-using-java-and-intellij-hands-on/</a>
 
 👩‍🏫 Java Multithreading: Conviértete en un maestro 👇
+
 <a href='https://www.udemy.com/course/easy-java-multithreading-become-a-master/?couponCode=A71EA2A3707D5B7727CD'>https://www.udemy.com/course/easy-java-multithreading-become-a-master/?couponCode=A71EA2A3707D5B7727CD</a>
-
+{: .notice--info}
 👩‍🏫 Aprenda patrones de diseño creacional en Java(en Inglés) 👇
-<a href='https://www.udemy.com/course/creationalpatternsinjava/?couponCode=DESIGNPATTERNWITHSAM'>https://www.udemy.com/course/creationalpatternsinjava/?couponCode=DESIGNPATTERNWITHSAM</a>
 
+<a href='https://www.udemy.com/course/creationalpatternsinjava/?couponCode=DESIGNPATTERNWITHSAM'>https://www.udemy.com/course/creationalpatternsinjava/?couponCode=DESIGNPATTERNWITHSAM</a>
+{: .notice--info}
 👩‍🏫 Solución avanzada de problemas de TI para técnicos de soporte técnico 👇
 
 <a href='https://www.udemy.com/course/advanced-it-troubleshooting-for-helpdesk-support-technicians/?couponCode=AITSPECIAL'>https://www.udemy.com/course/advanced-it-troubleshooting-for-helpdesk-support-technicians/?couponCode=AITSPECIAL</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 Creación rápida de prototipos móviles: cree una demostración en 1 hora 👇
 
 <a href='https://www.udemy.com/course/mobile-rapid-prototyping/?couponCode=MOBRAPID20'>https://www.udemy.com/course/mobile-rapid-prototyping/?couponCode=MOBRAPID20</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 Aprenda CUDA con Docker 👇
 
 <a href='https://www.udemy.com/course/learn-cuda/?couponCode=LEARNCUDAFREE-MAY20'>https://www.udemy.com/course/learn-cuda/?couponCode=LEARNCUDAFREE-MAY20</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 El curso de arquitectura y diseño de software para principiantes 👇
 
 <a href='https://www.udemy.com/course/the-software-architecture-and-design-course-for-beginners/'>https://www.udemy.com/course/the-software-architecture-and-design-course-for-beginners/</a>
-{: .notice--success}
+{: .notice--info}
 
 👩‍🏫 Cálculo paralelo de Java y Hadoop 👇
 
 <a href='https://www.udemy.com/course/java-parallel-computation-on-hadoop-in-4-hours/?couponCode=FREECOUPON'>https://www.udemy.com/course/java-parallel-computation-on-hadoop-in-4-hours/?couponCode=FREECOUPON</a>
-{: .notice--success}
+{: .notice--info}
 
 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
