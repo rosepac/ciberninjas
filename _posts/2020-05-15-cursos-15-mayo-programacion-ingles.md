@@ -34,7 +34,7 @@ No te olvides, que si deseas apoyar y que se siga publicando muchos cursos y otr
 {: .notice--danger}
 
 👩‍🏫 JavaScript + ES6 + ES7 + ES8 + ES9 -> La guía completa (Valorado en 195 €) ¡15 Horas de Vídeos! 👇
-<a href='https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/?couponCode=JAVASCRIPT360'>https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/?couponCode=JAVASCRIPT360</a>
+`<a href='https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/?couponCode=JAVASCRIPT360'>https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/?couponCode=JAVASCRIPT360</a>`
 
 👩‍🏫 Aprender Next.JS (Valorado en 199 €) 👇
 <a href='https://www.udemy.com/course/learn-nextjs/?couponCode=TRY10FREE11'>https://www.udemy.com/course/learn-nextjs/?couponCode=TRY10FREE11</a>
@@ -130,6 +130,6 @@ Aprenda sobre SDN, OpenFlow, NFV, conmutación de Whitebox, conmutadores de Face
 [🥇 ▷ Cómo APRENDER a Programar GRATIS](https://ciberninjas.com/programar/)
 [🥇 ▷ Cómo APRENDER](https://ciberninjas.com/aprender/)
 [🥇 ▷ Profesiones Digitales](https://ciberninjas.com/profesiones-digitales/)
-[🥇 ▷ Los Mejores Libros PDF de Tecnología](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/
+[🥇 ▷ Los Mejores Libros PDF de Tecnología](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/)
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331109157075936" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331109157075936" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros con los que aprender a programar en Java y con Android, en Español</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331109157075936">Martes, 3 de marzo de 2020</a></blockquote></div>
