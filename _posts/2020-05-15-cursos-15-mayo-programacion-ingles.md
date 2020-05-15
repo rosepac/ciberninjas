@@ -30,46 +30,67 @@ No te olvides, que si deseas apoyar y que se siga publicando muchos cursos y otr
 
 ¡Alé, a disfrutar..! Más tarde, una nueva publicación de cursos exclusivamente en español 🤘 🎉
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/)
 {: .notice--danger}
 
 👩‍🏫 JavaScript + ES6 + ES7 + ES8 + ES9 -> La guía completa (Valorado en 195 €) ¡15 Horas de Vídeos! 👇
-`<a href='https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/?couponCode=JAVASCRIPT360'>https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/?couponCode=JAVASCRIPT360</a>`
+<a href='https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/?couponCode=JAVASCRIPT360'>https://www.udemy.com/course/javascript-es6-es9-typescript-the-complete-guide/?couponCode=JAVASCRIPT360</a>
+{: .notice--success}
 
 👩‍🏫 Aprender Next.JS (Valorado en 199 €) 👇
+
 <a href='https://www.udemy.com/course/learn-nextjs/?couponCode=TRY10FREE11'>https://www.udemy.com/course/learn-nextjs/?couponCode=TRY10FREE11</a>
+{: .notice--success}
 
 👩‍🏫 Javascript para principiantes: Crea un juego de Snake 👇
+
 <a href='https://www.udemy.com/course/learn-modern-javascript-by-coding-a-snake-game/?couponCode=FREE-SNAKE-3-DAYS'>https://www.udemy.com/course/learn-modern-javascript-by-coding-a-snake-game/?couponCode=FREE-SNAKE-3-DAYS</a>
+{: .notice--success}
 
 👩‍🏫 JavaScript y jQuery - Curso de certificación para principiantes (Valorado en 150 €) 👇
+
 <a href='https://www.udemy.com/course/javascript-jquery-certification-course-for-beginners/?couponCode=YOUACCELGOLEARN'>https://www.udemy.com/course/javascript-jquery-certification-course-for-beginners/?couponCode=YOUACCELGOLEARN</a>
+{: .notice--success}
 
 👩‍🏫 Master MERN Stack: Construyendo un proyecto de blog completo(en Inglés) (Valorado en 200 €) ¡3 Horas de Vídeo! 👇
+
 <a href='https://www.udemy.com/course/master-mern-stack-by-building-complete-blog/?couponCode=FREE-SHELLEN'>https://www.udemy.com/course/master-mern-stack-by-building-complete-blog/?couponCode=FREE-SHELLEN</a>
+{: .notice--success}
 
 ¡Aprende construyendo la aplicación Full-stack React.js, Node.js, Express.js y MongoDB (MERN)!
 
 👩‍🏫 Aprendizaje automático: regresión logística, LDA y K-NN en Python ¡7,5 Horas de Vídeos! 👇
+
 <a href='https://www.udemy.com/course/machine-learning-basics-classification-models-in-python/?couponCode=MAY20FRE'>https://www.udemy.com/course/machine-learning-basics-classification-models-in-python/?couponCode=MAY20FRE</a>
+{: .notice--success}
 
 👩‍🏫 Inteligencia Artificial Increíble: Edición de música con aprendizaje profundo 👇
 <a href='https://www.udemy.com/course/ai-music-editing/'>https://www.udemy.com/course/ai-music-editing/</a>
 
 👩‍🏫 Programación de redes con Python * para ingenieros de redes (Python 3)(en Inglés) (Valorado en 40 €) 👇
+
 <a href='https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/?couponCode=DBPYTHONMAY'>https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/?couponCode=DBPYTHONMAY</a> 
+{: .notice--success}
 
 👩‍🏫 Curso para Principiantes de Angular 2020 👇
+
 <a href='https://www.udemy.com/course/the-angular-course-2020/?couponCode=ANOW11'>https://www.udemy.com/course/the-angular-course-2020/?couponCode=ANOW11</a>
+{: .notice--success}
 
 👩‍🏫 Curso para Principiantes de React 2020 👇
+
 <a href='https://www.udemy.com/course/react-beginners-bootcamp-2020/?couponCode=REACT-GO'>https://www.udemy.com/course/react-beginners-bootcamp-2020/?couponCode=REACT-GO</a>
+{: .notice--success}
 
 👩‍🏫 Aprenda SQL para principiantes: el completo campo de entrenamiento práctico 👇
+
 <a href='https://www.udemy.com/course/learn-sql-for-beginners/?couponCode=FD9B0BBB39203A043999'>https://www.udemy.com/course/learn-sql-for-beginners/?couponCode=FD9B0BBB39203A043999</a>
+{: .notice--success}
 
 👨‍🏫 NGINX, Apache, cifrado SSL (Valorado en 120 €) 👇
+
 <a href='https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCELGOLEARN'>https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCELGOLEARN</a>
+{: .notice--success}
 
 👨‍🏫 Linux Shell Scripting: Bashing, comandos de automatización, actualizados (caduca a las 19 H. del 15/05/20) 👇
 <a href='https://www.udemy.com/course/linux-shell-scripting-updated/?couponCode=SCRIPTFREE'>https://www.udemy.com/course/linux-shell-scripting-updated/?couponCode=SCRIPTFREE</a>
@@ -83,7 +104,9 @@ No te olvides, que si deseas apoyar y que se siga publicando muchos cursos y otr
 Aprenda sobre SDN, OpenFlow, NFV, conmutación de Whitebox, conmutadores de Facebook, Cisco SD-WAN, OpenDaylight, Mininet y más..
 
 👩‍🏫 Deep Web: la introducción completa a la web oculta 👇
+
 <a href='https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/?couponCode=DWEBMAY13-16'>https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/?couponCode=DWEBMAY13-16</a>
+{: .notice--success}
 
 👩‍🏫 Los fundamentos de la seguridad cibernética 2020 👇
 <a href='https://www.udemy.com/course/the-basics-of-cyber-security-2020/?couponCode=322C135B8EBD866144BB'>https://www.udemy.com/course/the-basics-of-cyber-security-2020/?couponCode=322C135B8EBD866144BB</a>
@@ -104,24 +127,34 @@ Aprenda sobre SDN, OpenFlow, NFV, conmutación de Whitebox, conmutadores de Face
 <a href='https://www.udemy.com/course/creationalpatternsinjava/?couponCode=DESIGNPATTERNWITHSAM'>https://www.udemy.com/course/creationalpatternsinjava/?couponCode=DESIGNPATTERNWITHSAM</a>
 
 👩‍🏫 Solución avanzada de problemas de TI para técnicos de soporte técnico 👇
+
 <a href='https://www.udemy.com/course/advanced-it-troubleshooting-for-helpdesk-support-technicians/?couponCode=AITSPECIAL'>https://www.udemy.com/course/advanced-it-troubleshooting-for-helpdesk-support-technicians/?couponCode=AITSPECIAL</a>
+{: .notice--success}
 
 👩‍🏫 Creación rápida de prototipos móviles: cree una demostración en 1 hora 👇
+
 <a href='https://www.udemy.com/course/mobile-rapid-prototyping/?couponCode=MOBRAPID20'>https://www.udemy.com/course/mobile-rapid-prototyping/?couponCode=MOBRAPID20</a>
+{: .notice--success}
 
 👩‍🏫 Aprenda CUDA con Docker 👇
+
 <a href='https://www.udemy.com/course/learn-cuda/?couponCode=LEARNCUDAFREE-MAY20'>https://www.udemy.com/course/learn-cuda/?couponCode=LEARNCUDAFREE-MAY20</a>
+{: .notice--success}
 
 👩‍🏫 El curso de arquitectura y diseño de software para principiantes 👇
+
 <a href='https://www.udemy.com/course/the-software-architecture-and-design-course-for-beginners/'>https://www.udemy.com/course/the-software-architecture-and-design-course-for-beginners/</a>
+{: .notice--success}
 
 👩‍🏫 Cálculo paralelo de Java y Hadoop 👇
+
 <a href='https://www.udemy.com/course/java-parallel-computation-on-hadoop-in-4-hours/?couponCode=FREECOUPON'>https://www.udemy.com/course/java-parallel-computation-on-hadoop-in-4-hours/?couponCode=FREECOUPON</a>
+{: .notice--success}
 
 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
-### Relacionadoss
+### Relacionados
 
 [🎓 Cursos de tecnología en español](https://ciberninjas.com/cursos-tecnologia/)
 [📚 ▷ Más de 1.500 Libros PDF en Inglés](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia-ingles/)
