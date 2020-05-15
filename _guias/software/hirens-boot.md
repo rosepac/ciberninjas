@@ -4,14 +4,15 @@ description: "🔨 Hiren´s BootCD PE, ISO con todas las herramientas necesarias
 excerpt: "🔨 Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
 date: 2019-10-19 14:25:00 +0200
 last_modified_at: 2019-10-19 16:25:00 +0200
-author_profile: true
+layout: splash
+author_profile: false
 permalink: /hirens-bootcd-pe/
 canonical_URL: https://ciberninjas.com/hirens-bootcd-pe/
 comments: false
 header:
-  teaser: "https://i.ibb.co/BNcB3fq/Hirens-Boot-CD-PE-1200x675.png"
-  overlay_image: "https://i.ibb.co/BNcB3fq/Hirens-Boot-CD-PE-1200x675.png"
-  image_description: Hiren´s BootCD PE, generador de sitios estáticos | Ciberninjas
+  teaser: "/assets/images/paginas/Hirens-Boot-CD.webp"
+  overlay_image: "/assets/images/paginas/Hirens-Boot-CD.webp"
+  image_description: Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación | Ciberninjas
   caption: "**Créditos**: Captura de Pantalla Propiedad de Hiren´s BootCD PE"
 toc: true
 toc_label: "Contenidos"
