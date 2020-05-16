@@ -15,8 +15,8 @@ description: >-
 excerpt: >-
   Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc.
 header:
-  teaser: /assets/images/blog/16-cursos-programacion.webp
-  overlay_image: /assets/images/blog/16-cursos-programacion.webp
+  teaser: /assets/images/blog/diseño-programacion-web.webp
+  overlay_image: /assets/images/blog/diseño-programacion-web.webp
   overlay_filter: 0.2
   image_description: "Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc."
   image_alt: "Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc."
