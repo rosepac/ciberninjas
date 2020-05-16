@@ -14,9 +14,15 @@ description: >-
   Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc.
 excerpt: >-
   Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc.
+header:
+  teaser: /assets/images/blog/16-cursos-programacion.webp
+  overlay_image: /assets/images/blog/16-cursos-programacion.webp
+  overlay_filter: 0.2
+  image_description: "Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc."
+  image_alt: "Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc."
 canonical_URL: https://ciberninjas.com/cursos-udemy-programación-más-actuales/
 permalink: /cursos-udemy-programación-más-actuales/
-date: 2020-05-15 21:05:32
+date: 2020-05-16 21:05:32
 last_modified_at: 
 published: true
 
