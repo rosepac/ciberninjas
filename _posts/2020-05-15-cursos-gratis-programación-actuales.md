@@ -78,7 +78,7 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 <a href='https://www.udemy.com/course/introduccion-vue-js-2-framework-javascript-desde-cero/'>https://www.udemy.com/course/introduccion-vue-js-2-framework-javascript-desde-cero/</a>
 {: .notice--info}
 
-🎓 Curso GRATIS de Udemy: Primeros pasos con Vue.js | Vue en ejercicios
+🎓 Curso GRATIS de Udemy: Primeros pasos con Vue.js (Vue en ejercicios)
 
 <a href='https://www.udemy.com/course/primeros-pasos-con-el-framework-vuejs/'>https://www.udemy.com/course/primeros-pasos-con-el-framework-vuejs/</a>
 {: .notice--info}
@@ -113,7 +113,7 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 <a href='https://www.udemy.com/course/curso-creacion-framework-con-selenium-spring-y-cucumber/'>https://www.udemy.com/course/curso-creacion-framework-con-selenium-spring-y-cucumber/</a>
 {: .notice--info}
 
-🎓 Curso GRATIS de Udemy: Aprende SQL desde CERO hasta AVANZADO como un PROFESIONAL
+🎓 Curso GRATIS de Udemy: Aprende SQL desde CERO hasta AVANZADO
 
 <a href='https://www.udemy.com/course/aprende-sql-desde-cero-hasta-avanzado-como-un-profesional/'>https://www.udemy.com/course/aprende-sql-desde-cero-hasta-avanzado-como-un-profesional/</a>
 {: .notice--info}
@@ -283,7 +283,7 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 <a href='https://www.udemy.com/course/introduccion-a-python/'>https://www.udemy.com/course/introduccion-a-python/</a>
 {: .notice--info}
 
-🎓 Curso GRATIS de Udemy: Curso Django 2.2 | Creando un Acortador URL
+🎓 Curso GRATIS de Udemy: Curso Django 2.2, Creando un Acortador URL
 
 <a href='https://www.udemy.com/course/curso-django-creando-un-acortador-url/'>https://www.udemy.com/course/curso-django-creando-un-acortador-url/</a>
 {: .notice--info}
@@ -293,7 +293,7 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 <a href='https://www.udemy.com/course/curso-basico-de-django-paginas-web-con-python/'>https://www.udemy.com/course/curso-basico-de-django-paginas-web-con-python/</a>
 {: .notice--info}
 
-🎓 Curso GRATIS de Udemy: Estructuras de datos en R [nivel básico] en Español
+🎓 Curso GRATIS de Udemy: Estructuras de datos en R básico en Español
 
 <a href='https://www.udemy.com/course/estructuras-de-datos-en-r-nivel-basico-en-espanol/'>https://www.udemy.com/course/estructuras-de-datos-en-r-nivel-basico-en-espanol/</a>
 {: .notice--info}
@@ -304,22 +304,27 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 {: .notice--info}
 
 🎓 Curso GRATIS de Udemy: Introducción al Desarrollo de Videojuegos con Unity 3D
+
 <a href='https://www.udemy.com/course/introduccion-al-desarrollo-de-videojuegos-con-unity-3d/'>https://www.udemy.com/course/introduccion-al-desarrollo-de-videojuegos-con-unity-3d/</a>
 {: .notice--info}
 
 🎓 Curso GRATIS de Udemy: Programación Unity [1] - Clase MonoBehaviour
+
 <a href='https://www.udemy.com/course/libreria-unity-engine-clase-monobehaviour/'>https://www.udemy.com/course/libreria-unity-engine-clase-monobehaviour/</a>
 {: .notice--info}
 
 🎓 Curso GRATIS de Udemy: Programación Unity [2] - Clases Time y Vector3
+
 <a href='https://www.udemy.com/course/libreria-unity-engine-2-clases-time-y-vector3/'>https://www.udemy.com/course/libreria-unity-engine-2-clases-time-y-vector3/</a>
 {: .notice--info}
 
 🎓 Curso GRATIS de Udemy: Programación Unity [3] - Clase Input
+
 <a href='https://www.udemy.com/course/libreria-unity-engine-3-clase-input/'>https://www.udemy.com/course/libreria-unity-engine-3-clase-input/</a>
 {: .notice--info}
 
 🎓 Curso GRATIS de Udemy: Programación Unity [4] - Clase Transform
+
 <a href='https://www.udemy.com/course/libreria-unity-engine-4-clase-transform/'>https://www.udemy.com/course/libreria-unity-engine-4-clase-transform/</a>
 {: .notice--info}
 
@@ -359,6 +364,7 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 {: .notice--info}
 
 🎓 Curso GRATIS de Udemy: Fundamentos de Programación Web para Principiantes
+
 <a href='https://www.udemy.com/course/fundamentos-de-programacion-web-para-principiantes/'>https://www.udemy.com/course/fundamentos-de-programacion-web-para-principiantes/</a>
 {: .notice--info}
 
@@ -367,7 +373,7 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 <a href='https://www.udemy.com/course/introduccion-al-desarrollo-backend-con-nodejs-y-express/'>https://www.udemy.com/course/introduccion-al-desarrollo-backend-con-nodejs-y-express/</a>
 {: .notice--info}
 
-🎓 Curso GRATIS de Udemy: Automatización Profesional con Arduino | Módulo 1
+🎓 Curso GRATIS de Udemy: Automatización Profesional con Arduino, Módulo 1
 
 <a href='https://www.udemy.com/course/automatizacion-profesional-con-arduino-modulo-1/'>https://www.udemy.com/course/automatizacion-profesional-con-arduino-modulo-1/</a>
 {: .notice--info}
@@ -383,14 +389,17 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 {: .notice--info}
 
 🎓 Curso GRATIS de Udemy: Tienda en línea con WordPress y WooCommerce - Guía Completa
+
 <a href='https://www.udemy.com/course/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa/'>https://www.udemy.com/course/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa/</a>
 {: .notice--info}
 
 🎓 Curso GRATIS de Udemy: WordPress Gutenberg: Introducción al nuevo editor
+
 <a href='https://www.udemy.com/course/wordpress-editor-gutenberg/'>https://www.udemy.com/course/wordpress-editor-gutenberg/</a>
 {: .notice--info}
 
 🎓 Curso GRATIS de Udemy: WordPress Introducción Practica a Gutenberg el Nuevo Editor
+
 <a href='https://www.udemy.com/course/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor/'>https://www.udemy.com/course/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor/</a>
 {: .notice--info}
 
@@ -444,7 +453,7 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 <a href='https://www.udemy.com/course/introduccion-a-crear-paginas-web-desde-cero-en-html-5/'>https://www.udemy.com/course/introduccion-a-crear-paginas-web-desde-cero-en-html-5/</a>
 {: .notice--info}
 
-🎓 Curso GRATIS de Udemy: Crea una página web profesional con HTML CSS y Javascript
+🎓 Curso GRATIS de Udemy: Crea una página web profesional con HTML, CSS y Javascript
 
 <a href='https://www.udemy.com/course/crea-una-pagina-web-profesional-con-html-css-y-javascript/'>https://www.udemy.com/course/crea-una-pagina-web-profesional-con-html-css-y-javascript/</a>
 {: .notice--info}
@@ -459,7 +468,7 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 <a href='https://www.udemy.com/course/introduccion-a-kotlin/'>https://www.udemy.com/course/introduccion-a-kotlin/</a>
 {: .notice--info}
 
-🎓 Curso GRATIS de Udemy: De Android a iOS - de Swift a Kotlin - Curso básico
+🎓 Curso GRATIS de Udemy: De Android a iOS de Swift a Kotlin - Curso básico
 
 <a href='https://www.udemy.com/course/de-android-a-ios-de-swift-a-kotlin/'>https://www.udemy.com/course/de-android-a-ios-de-swift-a-kotlin/</a>
 {: .notice--info}
@@ -504,7 +513,7 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 <a href='https://www.udemy.com/course/crear-apps-sin-programar-en-glide/'>https://www.udemy.com/course/crear-apps-sin-programar-en-glide/</a>
 {: .notice--info}
 
-🎓 Curso GRATIS de Udemy: Curso práctico de HTML y CSS avanzado: Crea Webs Reales
+🎓 Curso GRATIS de Udemy: Curso práctico de HTML y CSS avanzado, creando webs reales
 
 <a href='https://www.udemy.com/course/curso-practico-de-html5-y-css3-crea-paginas-reales/'>https://www.udemy.com/course/curso-practico-de-html5-y-css3-crea-paginas-reales/</a>
 {: .notice--info}
@@ -524,7 +533,7 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 <a href='https://www.udemy.com/course/html5-para-novatos-introduccion-al-diseno-web-moderno/'>https://www.udemy.com/course/html5-para-novatos-introduccion-al-diseno-web-moderno/</a>
 {: .notice--info}
 
-🎓 Curso GRATIS de Udemy: Curso de Desarrollo Web con HTML, CSS y JavaScript | Básico
+🎓 Curso GRATIS de Udemy: Curso de Desarrollo Web con HTML, CSS y JavaScript
 
 <a href='https://www.udemy.com/course/curso-de-desarrollo-web-con-html-css-y-javascript/'>https://www.udemy.com/course/curso-de-desarrollo-web-con-html-css-y-javascript/</a>
 {: .notice--info}
