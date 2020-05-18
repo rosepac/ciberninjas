@@ -15,7 +15,7 @@ header:
   overlay_filter: 0.2
   image_description: "6 Libros de ciencia que Mark Zuckerberg recomienda leer: El comienzo del infinito y La estructura de las revoluciones científicas 4 libros más de ciencia ficción, que Mark Zuckerberg aconseja leer."
   image_alt: "6 Libros de ciencia que Mark Zuckerberg recomienda leer: El comienzo del infinito y La estructura de las revoluciones científicas 4 libros más de ciencia ficción, que Mark Zuckerberg aconseja leer."
-title: '6 Libros de ciencia que Mark Zuckerberg recomienda leer'
+title: '6 Libros de ciencia que Mark Zuckerberg recomienda'
 description: >-
   El comienzo del infinito y La estructura de las revoluciones científicas 4 libros más de ciencia ficción, que Mark Zuckerberg aconseja leer.
 excerpt: >-
@@ -31,7 +31,7 @@ published: true
 El 14 de Mayo fue el cumpleaños del CEO de Facebook: Mark Zuckerberg. Aprovechando el acontecimiento se me ha ocurrido compartir algunos de [los libros recomendados, en el pasado, por Mark Zuckerberg](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY).
 <!-- https://lifehacker.ru/6-science-zuckerberg-books/ -->
 
-[📓 LIBROS DE CIENCIA RECOMENDADOS POR MARK ZUCKERBERG](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY){.btn .btn--success .btn--largre .align-center}
+[📓 LIBROS DE CIENCIA RECOMENDADOS POR MARK ZUCKERBERG](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY){.btn .btn--success .btn--large .align-center}
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
