@@ -9,7 +9,7 @@ permalink:  /jekyll/
 canonical_URL: https://ciberninjas.com/jekyll/
 author_profile: false
 header:
-  overlay_image: "/assets/images/paginas/jekyll-blog.webp"
+  overlay_image: "/assets/images/paginas/jekyll-arbol-documentos.webp"
   overlay_filter: 0.2
   image_description: Jekyll, el mejor generador de contenidos estático | Ciberninjas
   caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"
@@ -63,7 +63,7 @@ Otro por menor, que te va a surgir a la hora de su utilización; es que deberas 
 * [El CMS en la Nube para Jekyll](https://cloudcannon.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## Montaje y Pruebas
 
@@ -90,7 +90,7 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 * [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/ "Chuleta de todos los emoticonos suportados dentro de la Gema de Ruby Gemoji"){:target="_blank" rel="nofollow,noreferrer"}: Lista de Emojis / Emoticonos que pueden ser usados al estilo de los emoticones de Github :+1:
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ### Comercio Electrónico
 
@@ -113,7 +113,7 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 * [Instalar Buscador Algoria + Travis CI](https://community.algolia.com/jekyll-algolia/github-pages.html){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ### Temas de Jekyll
 
@@ -126,7 +126,7 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 * [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso"){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## Plantilla de Minimal Mistakes
 
@@ -221,7 +221,7 @@ Situándolo luego del primer o segundo párrafo, además debes aplicar en tu cab
     excerpt_separator: "<!--more-->"
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ### Configuración de la Plantilla Minimal Mistakes
 
@@ -250,7 +250,7 @@ $header-font-family : $sans-serif-narrow;
 4. Cambiar dentro del fichero, ```_sass/minimal-mistakes.scss``` las variables redactadas en el paso anterior.
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice]{: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## Enlaces por Investigar y por Organizar
 
