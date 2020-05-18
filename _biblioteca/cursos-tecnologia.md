@@ -1370,6 +1370,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [Automatización de redes sociales: Unifica tus publicaciones](https://www.udemy.com/automatizacion-de-redes-sociales-unifica-tus-publicaciones){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Branding para redes sociales](https://www.crehana.com/cursos/branding/branding-para-redes-sociales){:target="_blank" rel="nofollow,noreferrer"} (Crehana)
 * [Crea la imagen de una campaña digital](https://www.crehana.com/cursos/branding/crea-la-imagen-de-una-campana-digital){:target="_blank" rel="nofollow,noreferrer"} (Crehana)
+* [Master en Marketing Digital](https://campus.neetwork.com/p/master-gratuito-en-marketing-digital-y-analitica-web){:target="_blank" rel="nofollow,noreferrer"}
 
 ### Facebook <i class="fab fa-facebook-square"></i>
 
