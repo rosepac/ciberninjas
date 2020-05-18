@@ -111,22 +111,6 @@ Además de Mark. El CEO de Tesla y SpaceX, Elon Musk, también ha [recomendado l
 
 Iain M. Banks es un seudónimo de Iain Banks que el escritor decidió utilizar a la hora de publicar su serie de libros sobre Ciencia Ficción: [Cultura](https://amzn.to/3eFHE2S){:target="_blank" rel="nofollow,noreferrer"}.
 
-El padre de Banks era un oficial del Almirantazgo y su madre fue una vez patinadora profesional. Iain Banks se educó en la Universidad de Stirling, donde estudió Literatura Inglesa, Filosofía y Psicología. Se mudó a Londres y vivió en el sur de Inglaterra hasta 1988 cuando regresó a Escocia, viviendo en Edimburgo y luego en Fife.
-
-Banks conoció a su esposa Annie en Londres, antes del lanzamiento de su primer libro. Se casaron en Hawai en 1992. Sin embargo, anunció a principios de 2007 que, después de 25 años juntos, se habían separado. Vivió más recientemente en North Queensferry, una ciudad en el lado norte del Firth of Forth, cerca del puente Forth y el puente Forth Road.
-
-Al igual que con su amigo Ken MacLeod (otro escritor escocés de ciencia ficción técnica y social), una gran conciencia de la historia de izquierda se muestra en sus escritos. El argumento de que una economía de abundancia hace que la anarquía y la adhocracia sean viables (o incluso inevitables) atrae a muchos como un experimento potencial interesante, en caso de que alguna vez sea comprobable. Fue signatario de la Declaración de Calton Hill, que exige la independencia de Escocia.
-
-A fines de 2004, Banks era un miembro destacado de un grupo de políticos británicos y figuras de los medios que hicieron campaña para que el primer ministro Tony Blair fuera acusado tras la invasión de Irak en 2003. En protesta, cortó su pasaporte y lo publicó en 10 Downing Street. En una entrevista en Socialist Review, afirmó que hizo esto después de que "abandonó la idea de estrellar mi Land Rover a través de las puertas del astillero Fife, después de ver a los tipos armados con ametralladoras". Relató sus preocupaciones sobre la invasión de Iraq en su libro Raw Spirit , y el protagonista principal (Alban McGill) en la novela The Steep Approach to Garbadale confronta a otro personaje con argumentos similares.
-
-Entrevistado en la serie BBC Four de Mark Lawson, emitida por primera vez en el Reino Unido el 14 de noviembre de 2006, Banks explicó por qué sus novelas se publican con dos nombres diferentes. Sus padres deseaban llamarlo Iain Menzies Banks, pero su padre cometió un error al registrar el nacimiento y se registró oficialmente como Iain Banks.
-
-A pesar de esto, continuó usando su segundo nombre no oficial y fue como Iain M. Banks que envió The Wasp Factory para su publicación. Sin embargo, su editor le preguntó si le importaría dejar caer la 'M' ya que parecía "demasiado quisquillosa". El editor también estaba preocupado por la posible confusión con Rosie M. Banks, un personaje secundario en algunas de las novelas Jeeves de PG Wodehouse que es una novelista romántica.
-
-Después de sus primeras tres novelas convencionales, sus editores acordaron publicar su primera novela de SF,Considera Phlebas . Para distinguir entre las novelas mainstream y SF, Banks sugirió el regreso de la 'M', aunque en un momento consideró a John B. Macallan como su seudónimo de SF, el nombre derivado de sus whiskies favoritos: Johnnie Walker Black Label y The Macallan single malta.
-
-Su último libro fue una novela de ciencia ficción (SF) en la serie Culture, llamada The Hydrogen Sonata , publicada en 2012. El
-
 ## 4. [**La estructura de las revoluciones científicas por Thomas Kuhn**](https://amzn.to/3dXxCZL){:target="_blank" rel="nofollow,noreferrer"}
 
 > "Un hito en la historia intelectual que ha llamado mucho la atención más allá de su propio campo inmediato ... Está escrito con una combinación de profundidad y claridad que lo convierten en una serie casi ininterrumpida de aforismos ... Kuhn no permite que la verdad sea un criterio de teorías científicas, presumiblemente no afirmaría que su propia teoría es cierta. Pero si causar una revolución es el sello distintivo de un paradigma superior, este libro ha sido un éxito rotundo ".
