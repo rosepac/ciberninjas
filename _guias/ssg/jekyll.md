@@ -2,7 +2,7 @@
 title: "🥇 ▷ Jekyll: Crea blogs fácilmente y encuentra sus mejores plantillas"
 description: "Uno de los mejores generadores de contenidos estático (SSG)"
 excerpt: "Uno de los mejores generadores de contenidos estático (SSG)"
-date: 2020-05-12
+date: 2020-05-18
 layout: splash
 last_modified_at:
 permalink:  /jekyll/
@@ -134,9 +134,7 @@ Vamos a ver paso a paso, algunas de las pautas más importantes sobre como podem
 
 ### Publicar un Enlace
 
-Añadir a la cabecera YAML:
-
-    link: https://github.com
+Añadir a la cabecera YAML `link: https://github.com`
 
 ### Publicar una Cita
 
@@ -229,9 +227,6 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
 * [Ordenar Páginas en Jekyll](https://stackoverflow.com/questions/41087699/jekyll-how-to-change-the-default-ordering-of-collections){:target="_blank" rel="nofollow,noreferrer"}
 * [Crear listado con las publicaciones de una categoría .yml](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category){:target="_blank" rel="nofollow,noreferrer"}
 
-La **Guía de Jekyll** fue creada el *16 de Marzo de 2020* y su última edición fue realizada el *13 de Mayo de 2020*.
-{: .notice--info}
-
 #### Índice <!-- omit in toc -->
 - [CMS para Jekyll](#cms-para-jekyll)
   - [Prose.io](#proseio)
@@ -256,3 +251,6 @@ La **Guía de Jekyll** fue creada el *16 de Marzo de 2020* y su última edición
   - [Configuración de la Plantilla Minimal Mistakes](#configuraci%c3%b3n-de-la-plantilla-minimal-mistakes)
   - [Cómo cambiar la fuente tipográfica](#c%c3%b3mo-cambiar-la-fuente-tipogr%c3%a1fica)
 - [Enlaces por Investigar y por Organizar](#enlaces-por-investigar-y-por-organizar)
+
+La **Guía de Jekyll** fue creada el *16 de Marzo de 2020* y su última edición fue realizada el *18 de Mayo de 2020*.
+{: .notice--info}

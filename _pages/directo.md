@@ -1,6 +1,6 @@
 ---
 title: "Noticias en Directo de Programación & Tecnología"
-description: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter en las que se recogen todas las cuentas de mayor importancia de amplios campos de la informática."
+description: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una importante recopilación de listas de Twitter."
 excerpt: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter en las que se recogen todas las cuentas de mayor importancia de amplios campos de la informática."
 layout: splash
 collection: directo
@@ -33,6 +33,8 @@ header:
 #  caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
 ---
 
+En estas listas se intenta recoger las cuentas tecnológicas que se consideran de mayor importancia de amplios campos de la informática.
+
 ## Noticias de Tecnología
 
 [📰 Blogs más importantes de Tecnología](https://twitter.com/i/lists/931402106187239424?s=20){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
@@ -48,7 +50,7 @@ header:
 
 ## Desarrollo & Diseño Web
 
-[👩‍🎨 Desarrolladores / Front End Españoles 👨‍🎨](https://twitter.com/ciberninjas/lists/dw){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🎓 Academias de Cursos de Programación](https://twitter.com/i/lists/954486867495473152/){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
+[👩‍🎨 Desarrolladores / Front End Españoles 👨‍🎨](https://twitter.com/ciberninjas/lists/dw){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🎓 Cursos y Academias de Programación](https://twitter.com/i/lists/954486867495473152?s=20){: .btn .btn--inverse .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Lenguajes de Programación
 
