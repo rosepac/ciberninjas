@@ -142,15 +142,12 @@ Añadir a la cabecera YAML:
 
 Seguir el siguiente ejemplo, con el uso de >
 
-    > Cita o frase a incluir.
-    
-    > <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> Cita o frase a incluir.
+> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
 
 ### Actualizar la Fecha de Publicación
 
-Agregar en la cabecera YAML:
-
-    last_modified_at: 2016-03-09T16:20:02-05:00
+Agregar en la cabecera YAML `last_modified_at: 2016-03-09T16:20:02-05:00`
 
 ### Agregar Cajas de Avisos o Notas Informativas
 
@@ -160,7 +157,8 @@ Al utilizar Kramdown, se puede añadir `{: .notice}` después de una sentencia, 
 
 Como en los ejemplos siguientes:
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes. {: .notice}
+**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
+{: .notice}
 
 **Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.  
 {: .notice--primary}
