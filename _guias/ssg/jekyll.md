@@ -220,21 +220,21 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
 
 1. Cargar el enlace de las fuentes de Google, a través de la carpeta *includes* en el fichero ```_includes/head/custom.html```.
 2. Por ejemplo: 
-`````
+
 <link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,300;0,600;1,400&display=swap" rel="stylesheet">
-`````
-3. Agregar al fichero de .scss las variables correspondientes. En ```_sass/minimal-mistakes.scss```
+
+1. Agregar al fichero de .scss las variables correspondientes. En ```_sass/minimal-mistakes.scss```
 
 En mi caso..
 
-`````
 $serif              : 'Overpass', 'Times New Roman', serif;
 $sans-serif-narrow  : 'Overpass', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
-`````
-4. Cambiar dentro del fichero, ```_sass/minimal-mistakes.scss``` las variables redactadas en el paso anterior.
+
+
+1. Cambiar dentro del fichero, ```_sass/minimal-mistakes.scss``` las variables redactadas en el paso anterior.
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
