@@ -76,7 +76,7 @@ Aquí, vas a encontrar los libros que dieron forma a uno de los emprendedores m�
 {: .notice--danger}
 
 <!-- https://www.vbqspeakers.com/max-tegmark -->
-## **[1. Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc){:target="_blank" rel="nofollow,noreferrer"}**
+## 1. **[Vida 3.0 de Max Tegmark](https://amzn.to/3anv8Sc){:target="_blank" rel="nofollow,noreferrer"}**
 
 Si vas a encontrar un tema en común dentro de muchos de los libros de esta lista, es que **Musk está realmente interesado en explorar el futuro de la inteligencia artificial**.
 
@@ -118,7 +118,7 @@ Ha dicho sobre Vida 3.0..
 <p>Este libro te permite unirte a lo que puede ser la conversación más importante de nuestro tiempo. No rehuye ninguna opinión respecto a los puntos de vista sobre los temas más controvertidos, desde la superinteligencia hasta el significado, la conciencia y los límites físicos de la vida dentro del cosmos.</p>
 </details>
 
-## **[2. Nuestra invención final de James Barrat](https://amzn.to/2XTdaEG){:target="_blank" rel="nofollow,noreferrer"}**
+## 2. **[Nuestra invención final de James Barrat](https://amzn.to/2XTdaEG){:target="_blank" rel="nofollow,noreferrer"}**
 
 Musk ha advertido publicamente contra los peligros de la inteligencia artificial. En una entrevista de 2014 en el Simposio Centenario de AeroAstro en el MIT, calificó a la IA como "**nuestra mayor amenaza existencial**".
 
@@ -142,7 +142,7 @@ En este libro, Barrat analiza el potencial de la IA, sopesando sus ventajas y de
 <p>¿Podemos convivir con seres cuya inteligencia eclipsa la nuestra? ¿Nos lo permitirán?</p>
 </details>
 
-## **[3. La Fundación de Isaac Asimov](https://amzn.to/2VmcXYL){:target="_blank" rel="nofollow,noreferrer"}**
+## 3. **[La Fundación de Isaac Asimov](https://amzn.to/2VmcXYL){:target="_blank" rel="nofollow,noreferrer"}**
 
 Es posible que **el interés de Musk por la tecnología de la exploración espacial** se deba a los días que paso leyendo ciencia ficción.
 <!-- tweet de 2020: https://twitter.com/elonmusk/status/1230293973673136129 -->
@@ -177,7 +177,7 @@ Como resultado, Musk comenzó SpaceX en 2002 (después de su segunda puesta en m
 <p>Hasta ahora, la Fundación estaba a salvo. Pero había una segunda fundación oculta para proteger a la primera. La Mula aún no lo ha encontrado, pero se estaba acercando todo el tiempo. Los hombres de la Fundación también buscaban escapar del control mental de Mule. Solo Arkady, una niña de 14 años parecía tener la respuesta, ¿o ella ...?</p>
 </details>
 
-## **[4. El Señor de los Anillos de JRR Tolkien](https://amzn.to/2wQkAgG){:target="_blank" rel="nofollow,noreferrer"}**
+## 4. **[El Señor de los Anillos de JRR Tolkien](https://amzn.to/2wQkAgG){:target="_blank" rel="nofollow,noreferrer"}**
 
 Cuando de pequeñ, era maltratado por sus compañeros; Musk reecibía el feo apodo de Muskrat (Musk Rata). En una entrevista para el períodico "The New Yorker" el propio Musk, hablo sobre lo que hacía para poder abstraerse de los abusos que cometían sobre él.
 
@@ -199,7 +199,7 @@ Entre esos libros, como ya hemos citado, se encontraban los de Isaac Asimov; per
 </p>
 </details>
 
-## **[5. Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson](https://amzn.to/3eDVFOE){:target="_blank" rel="nofollow,noreferrer"}**
+## 5. **[Nikola Tesla: El Inventor de la Era Eléctrica por Walter Isaacson](https://amzn.to/3eDVFOE){:target="_blank" rel="nofollow,noreferrer"}**
 
 Nikola Tesla hizo una importante contribución a la evolución de la electricidad, que transformó la vida cotidiana a principios del siglo XX. Sus inventos, patentes y trabajos científicos formaron la base de la electricidad moderna y contribuyeron al desarrollo de la radio y la televisión.
 
@@ -224,7 +224,7 @@ Siendo un astuto autorrelogador y un talentoso escaparate, cultivó la imagen de
 
 <!-- https://twitter.com/elonmusk/status/1007668113591005184 -->
 
-## **[6. Einstein: Su vida y su universo de Walter Isaacson](https://amzn.to/3bmQh08){:target="_blank" rel="nofollow,noreferrer"}**
+## 6. **[Einstein: Su vida y su universo de Walter Isaacson](https://amzn.to/3bmQh08){:target="_blank" rel="nofollow,noreferrer"}**
 
 En una entrevista, Musk le dice a Kevin Rose (Youtuber Entrevistador) que fue influenciado por la biografía del físico teórico Albert Einstein, y está claro por qué.
 
@@ -238,7 +238,7 @@ Algunas de las citas más famosas de Einstein, como “Lo importante es no dejar
 <p></p>
 </details>
 
-## **[7. La Guía del Autoestopista Galáctico de Douglas Adams](https://amzn.to/3btdGx2){:target="_blank" rel="nofollow,noreferrer"}**
+## 7. **[La Guía del Autoestopista Galáctico de Douglas Adams](https://amzn.to/3btdGx2){:target="_blank" rel="nofollow,noreferrer"}**
 
 Musk ha hablado en varias situaciones sobre su "crisis existencial" cuando tenía entre 12 y 15 años, encerrándose en un auto confinamiento forzado para leer a Friedrich Nietzsche, Arthur Schopenhauer y otros filósofos malhumorados, intentando encontrar el sentido de la vida en sus lecturas; y que no le sirvió de nada.
 
@@ -258,7 +258,7 @@ Esto fue instructivo para un joven Elon.
 <p>También se incluye en esta edición especial la Guía de Douglas Adams de la Guía del autoestopista Galáctico, emitida por primera vez en 1999, que analiza la génesis y el éxito fenomenal de la serie.</p>
 </details>
 
-## **[8. Superinteligencia: Caminos, Peligros, Estrategias de Nick Bostrom](https://amzn.to/3cvqOSr){:target="_blank" rel="nofollow,noreferrer"}**
+## 8. **[Superinteligencia: Caminos, Peligros, Estrategias de Nick Bostrom](https://amzn.to/3cvqOSr){:target="_blank" rel="nofollow,noreferrer"}**
 
 Aunque Musk es futurista y está profundamente interesado en la inteligencia artificial, ha compartido **sus preocupaciones sobre los peligros potenciales** y **las preocupaciones éticas asociadas con la tecnología**.
 
@@ -278,7 +278,7 @@ Aunque Musk es futurista y está profundamente interesado en la inteligencia art
 <p>¿Será posible construir una Semilla de Inteligencia Artificial, diseñar condiciones iniciales para que una explosión de inteligencia pueda sobrevivir? ¿Cómo se puede lograr una detonación controlada?</p>
 </details>
 
-## **[9. Encendido! Una historia informal de los propulsores de cohetes líquidos de John D. Clark](/libros-recomendados-elon-musk-2020/#ignition-pdf){:target="_blank" rel="nofollow,noreferrer"}**
+## 9. **[Encendido! Una historia informal de los propulsores de cohetes líquidos de John D. Clark](/libros-recomendados-elon-musk-2020/#ignition-pdf){:target="_blank" rel="nofollow,noreferrer"}**
 
 "¡Encendido!" en inglés "Ignition" es una historia complicado de reconstruir sobre la ciencia, basada en la búsqueda de un propulsor de cohete confiable para llevar al ser humano hacía el espacio.
 
@@ -296,7 +296,7 @@ Es un libro muy interesante y estimulante porque Clark captó en él; mucho del 
 
 Afortunadamente, este extraño libro está disponible en línea [aquí](http://library.sciencemadness.org/library/books/ignition.pdf){:target="_blank" rel="nofollow,noreferrer"} y [aquí](http://mikea.ath.cx/Ignition/){:target="_blank" rel="nofollow,noreferrer"} (aunque en inglés).
 
-## **[10. Benjamin Franklin: Una Vida Americana de Walter Isaacson](https://amzn.to/2KgNHNm){:target="_blank" rel="nofollow,noreferrer"}**
+## 10. **[Benjamin Franklin: Una Vida Americana de Walter Isaacson](https://amzn.to/2KgNHNm){:target="_blank" rel="nofollow,noreferrer"}**
 
 **Ben Franklin, autor, inventor, científico y diplomático, es uno de los héroes de Musk**.
 
@@ -318,7 +318,7 @@ Algo sobre eso es similar a la historia de Musk: crecer en Pretoria (Sudáfrica)
 <p>En esta narrativa colorida e íntima, Isaacson ofrece la visión completa de la increíble vida de Franklin, desde sus días como impresor desbocado hasta sus triunfos como estadista, científico y padre fundador. Narra la tumultuosa relación de Franklin con su hijo y nieto ilegítimos, su matrimonio práctico y sus coqueteos con las damas de París. También muestra cómo Franklin ayudó a crear el personaje estadounidense y por qué tiene una resonancia particular en el siglo XXI.</p>
 </details>
 
-## **[11. Estructuras: O porque las cosas no se caen de J. E. Gordon](https://amzn.to/3anrcB1){:target="_blank" rel="nofollow,noreferrer"}**
+## 11. **[Estructuras: O porque las cosas no se caen de J. E. Gordon](https://amzn.to/3anrcB1){:target="_blank" rel="nofollow,noreferrer"}**
 
 **Musk es un autodidacta comprometido, devorando los temas que necesita saber**.
 
@@ -342,7 +342,7 @@ Para cualquiera que alguna vez se haya preguntado por qué los puentes colgantes
 <p></p>
 </details>
 
-## **[12. Mercaderes de la Duda de Erik M. Conway y Naomi Oreskes](https://amzn.to/2RUchrx){:target="_blank" rel="nofollow,noreferrer"}**
+## 12. **[Mercaderes de la Duda de Erik M. Conway y Naomi Oreskes](https://amzn.to/2RUchrx){:target="_blank" rel="nofollow,noreferrer"}**
 
 Musk recomendó el libro en 2013, en una Conferencia D11. El argumento que persiguen estos dos historiadores se basa en **su creencia de que científicos con conexiones políticas y corporativas han enturbiado los hechos en torno a muchos problemas de salud pública**, **como los efectos negativos del tabaquismo** o **la negación del cambio climático**.
 
@@ -354,7 +354,7 @@ Musk recomendó el libro en 2013, en una Conferencia D11. El argumento que persi
 <p>Naomi Oreskes y Erik M. Conway, historiadores de la ciencia, hacen retroceder la alfombra en este oscuro rincón de la comunidad científica estadounidense, mostrando cómo la ideología y los intereses corporativos, con la ayuda de medios demasiado conformes, han sesgado la comprensión pública de algunos de los más importantes. cuestiones urgentes de nuestra era.</p>
 </details>
 
-## [13. El Señor de las Moscas” de William Golding](https://amzn.to/3cyQZYy){:target="_blank" rel="nofollow,noreferrer"}
+## 13. [El Señor de las Moscas” de William Golding](https://amzn.to/3cyQZYy){:target="_blank" rel="nofollow,noreferrer"}
 
 Esta **novela clásica sobre supervivencia**, **competencia y avaricia** dejó su huella en el emprendedor tecnológico.
 
@@ -370,7 +370,7 @@ Su **lucha es una historia de advertencia sobre lo que puede suceder** cuando lo
 <p></p>
 </details>
 
-## [14. De Cero a Uno: Cómo inventar el Futuro de Peter Thiel](https://amzn.to/2RTqzJ4){:target="_blank" rel="nofollow,noreferrer"}
+## 14. [De Cero a Uno: Cómo inventar el Futuro de Peter Thiel](https://amzn.to/2RTqzJ4){:target="_blank" rel="nofollow,noreferrer"}
 
 El libro De cero a uno. Esta basado en notas de una clase popular que Peter Thiel enseñó en la Universidad de Stanford el año 2012 que se centra en **la necesidad de encontrar un pensamiento único** entre los emprendedores fundadores de startups.
 
@@ -404,7 +404,7 @@ O el escritor Nassim Nicholas Taleb; autor del [Cisne Negro](https://amzn.to/34W
 <p>Zero to One presenta a la vez una visión optimista del futuro del progreso en Estados Unidos y una nueva forma de pensar sobre la innovación: comienza aprendiendo a hacer las preguntas que lo llevan a encontrar valor en lugares inesperados.</p>
 </details>
 
-## **[15. Howard Hughes: Su vida y Locura de Donald L. Barlett y James B. Steele](0393326020){:target="_blank" rel="nofollow,noreferrer"}**
+## 15. **[Howard Hughes: Su vida y Locura de Donald L. Barlett y James B. Steele](0393326020){:target="_blank" rel="nofollow,noreferrer"}**
 
 No disponible en español, por tanto si deseas disfrutar de este libro deberás saber inglés.
 {: .notice--info}
@@ -427,7 +427,7 @@ Pero es fácil ver por qué Musk se sentiría atraído por Hughes, que trabajó 
 <p></p>
 </details>
 
-## **[16. La Luna es una Cruel Amante de Robert Heinlein](https://amzn.to/2Kj940x){:target="_blank" rel="nofollow,noreferrer"}**
+## 16. **[La Luna es una Cruel Amante de Robert Heinlein](https://amzn.to/2Kj940x){:target="_blank" rel="nofollow,noreferrer"}**
 
 Esta galardonada novela de ciencia ficción, publicada originalmente en 1966, pinta el cuadro de una distopía no muy lejana en el futuro. Es exactamente el tipo de mundo de fantasía vívido que satisfaría una imaginación activa como la de Musk.
 
@@ -446,7 +446,7 @@ En el libro, un grupo de personas ha sido exiliado de la tierra a la luna, donde
 <p>Es la historia de personas dispares, un técnico informático, una vigorosa joven agitadora y una académica de edad avanzada que se convierten en líderes del movimiento, y de Mike, la supercomputadora cuya sensibilidad es conocida solo por el círculo interno de la revuelta, que por razones de el suyo está comprometido con el éxito final de la revolución.</p>
 </details>
 
-## **[17. Cultura de Iain M. Banks](https://amzn.to/3eFHE2S){:target="_blank" rel="nofollow,noreferrer"}**
+## 17. **[Cultura de Iain M. Banks](https://amzn.to/3eFHE2S){:target="_blank" rel="nofollow,noreferrer"}**
 
 Curiosa saga de nueva ficción, que no se encuentra en papel. Exclusivamente en nuevos formatos, ósea: Ebooks. La saga se divide en dos partes, y cada una a su vez en varios títulos diferentes.
 
@@ -463,9 +463,29 @@ Los libros cuentan la historia de una futura sociedad semi-anarquista llamada Cu
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>El conjunto de la colección de libros de Iain m banks culture series 10 incluye títulos en este conjunto: - Considere Phlebas, The Player of Games, Use of Weapons, The State of the Art, Excess, Inversions, Look To Windward, Matter, Surface Detail, The Hydrogen Sonata . Descripción: Considera Phlebas: una novela cultural La guerra se extendió por toda la galaxia. Miles de millones habían muerto, miles de millones más estaban condenados. Las lunas, los planetas, las propias estrellas, se enfrentaron a la destrucción, a sangre fría, brutal y, lo que es peor, al azar. El jugador de Games The Culture, una sociedad simbiótica humano / máquina, ha arrojado muchos grandes jugadores y uno de los mejores es Gurgeh Uso de armas El dron conocido como Skaffen-Amtiskaw conocía a estas dos personas. El estado del arte La primera colección de la ficción corta de Iain M. Banks, este volumen incluye la aclamada novela, El estado del arte. Excesión (Cultura) Hace dos milenios y medio, el artefacto apareció en un rincón remoto del espacio, junto a un sol moribundo de un universo diferente de un billón de años. Inversiones (Cultura) En otro palacio al otro lado de las montañas, al servicio de El protector general regicida, el guardaespaldas jefe, también tiene sus enemigos. Mira hacia Barlovento (Cultura) El séptimo libro de Cultura de la asombrosa imaginación de Iain M. Banks, un maestro moderno de la ciencia ficción. Fue uno de los incidentes menos gloriosos de una guerra de hace mucho tiempo. Materia (Cultura) En un mundo de renombre dentro de una galaxia llena de maravillas, un crimen dentro de una guerra. Para un hombre, significa un vuelo desesperado, y una búsqueda de una, quizás dos, personas que puedan limpiar su nombre. Detalle de la superficie (Cultura) Lededje Y'breq es una de las personas intactas, su cuerpo marcado es testigo de una vergüenza familiar. , Su vida pertenece a un hombre cuya ansia de poder es ilimitada. La Sonata de Hidrógeno (Cultura) Un pueblo antiguo, organizado según principios militares y, sin embargo, casi perversamente pacífico, el Gzilt ayudó a establecer la Cultura diez mil años antes y fue casi una de sus sociedades fundadoras. </p>
-<p></p>
-<p></p>
+<p>El conjunto de la colección de libros de Iain m banks culture series 10 incluye títulos en este conjunto: - Considere Phlebas, The Player of Games, Use of Weapons, The State of the Art, Excess, Inversions, Look To Windward, Matter, Surface Detail, The Hydrogen Sonata.</p>
+<ol>
+<li>Considere Phlebas</li>
+<li>The Player of Games</li>
+<li>Use of Weapons</li>
+<li>The State of the Art</li>
+<li>Excess</li>
+<li>Inversions</li>
+<li>Look To Windward</li>
+<li>Matter</li>
+<li>Surface Detail</li>
+<li>The Hydrogen Sonata</li>
+</ol>
+<p>Descripción: Considera Phlebas: una novela cultural La guerra se extendió por toda la galaxia. Miles de millones habían muerto, miles de millones más estaban condenados. Las lunas, los planetas, las propias estrellas, se enfrentaron a la destrucción, a sangre fría, brutal y, lo que es peor, al azar.</p>
+<p>El jugador de Games The Culture, una sociedad simbiótica humano / máquina, ha arrojado muchos grandes jugadores y uno de los mejores es Gurgeh</p>
+<p>Uso de armas El dron conocido como Skaffen-Amtiskaw conocía a estas dos personas.</p>
+<p>El estado del arte La primera colección de la ficción corta de Iain M. Banks, este volumen incluye la aclamada novela, El estado del arte.</p>
+<p>Excesión (Cultura) Hace dos milenios y medio, el artefacto apareció en un rincón remoto del espacio, junto a un sol moribundo de un universo diferente de un billón de años.</p>
+<p>Inversiones (Cultura) En otro palacio al otro lado de las montañas, al servicio de El protector general regicida, el guardaespaldas jefe, también tiene sus enemigos.</p>
+<p>Mira hacia Barlovento (Cultura) El séptimo libro de Cultura de la asombrosa imaginación de Iain M. Banks, un maestro moderno de la ciencia ficción. Fue uno de los incidentes menos gloriosos de una guerra de hace mucho tiempo.</p>
+<p>Materia (Cultura) En un mundo de renombre dentro de una galaxia llena de maravillas, un crimen dentro de una guerra. Para un hombre, significa un vuelo desesperado, y una búsqueda de una, quizás dos, personas que puedan limpiar su nombre.</p>
+<p>Detalle de la superficie (Cultura) Lededje Y'breq es una de las personas intactas, su cuerpo marcado es testigo de una vergüenza familiar. , Su vida pertenece a un hombre cuya ansia de poder es ilimitada.</p>
+<p>La Sonata de Hidrógeno (Cultura) Un pueblo antiguo, organizado según principios militares y, sin embargo, casi perversamente pacífico, el Gzilt ayudó a establecer la Cultura diez mil años antes y fue casi una de sus sociedades fundadoras.</p>
 </details>
 
 **Fuentes**\: [Fresh Dialogues](http://www.freshdialogues.com/2013/02/07/transcript-of-elon-musk-interview-with-alison-van-diggelen-iron-man-growing-up-in-south-africa/){:target="_blank" rel="nofollow,noreferrer"}, [Kevin Rose Youtube](https://www.youtube.com/watch?v=L-s_3b5fRd8#t=38), [KCRW](https://www.kcrw.com/culture/articles/can-elon-musk-fix-the-405){:target="_blank" rel="nofollow,noreferrer"}, [Media Bistro](http://www.mediabistro.com/galleycat/the-science-fiction-books-that-inspired-elon-musk_b67209){:target="_blank" rel="nofollow,noreferrer"}, [CNN Youtube](https://www.youtube.com/watch?v=fQQ2xtXPLkU){:target="_blank" rel="nofollow,noreferrer"}, [The Guardian](http://www.theguardian.com/technology/2013/jul/17/elon-musk-mission-mars-spacex){:target="_blank" rel="nofollow,noreferrer"}, [Shitelonsays](http://shitelonsays.com/transcript/elon-musk-at-mits-aeroastro-centennial-part-6-of-6-2014-10-24){:target="_blank" rel="nofollow,noreferrer"}{:target="_blank" rel="nofollow,noreferrer"}
