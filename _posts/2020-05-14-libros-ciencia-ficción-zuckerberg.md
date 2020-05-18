@@ -28,7 +28,7 @@ published: true
 
 ---
 
-Hoy, 14 de Mayo es el cumpleaños del CEO de Facebook: Mark Zuckerberg; para celebrarlo vamos aprovechar el día y compartir algunos de los libros recomendados por el propio, Mark.
+El 14 de Mayo fue el cumpleaños del CEO de Facebook: Mark Zuckerberg; aprovechando ese día, compartir algunos de [los libros recomendados por Mark Zuckerberg](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY).
 <!-- https://lifehacker.ru/6-science-zuckerberg-books/ -->
 
 <details>
@@ -42,9 +42,7 @@ Hoy, 14 de Mayo es el cumpleaños del CEO de Facebook: Mark Zuckerberg; para cel
 </details>
 <br />
 
-Lista Completa de Amazon: https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY
-
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/libros-ciencias-zuckerberg/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+**🔥 Libros Recomendados Por..**: Barack Obama 2020 - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank" rel="nofollow,noreferrer"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}
 
 ## 1. [**Sapiens: Una breve historia de la humanidad por Yuval Noah Harari**](https://amzn.to/3fJZGSd){:target="_blank" rel="nofollow,noreferrer"}
