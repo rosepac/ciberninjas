@@ -179,19 +179,6 @@ Como en los ejemplos siguientes:
 
 ¿Desea ajustar varios párrafos u otros elementos en un aviso? Usar Liquid para capturar el contenido y luego filtrarlo con `markdownify` es una buena manera de hacerlo.
 
-`````
-    {% raw %}{% capture notice-2 %}
-    #### New Site Features
-    
-    * You can now have cover images on blog pages
-    * Drafts will now auto-save while writing
-    {% endcapture %}{% endraw %}
-    
-    <div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
-
-{% capture notice-2 %}
-`````
-
 ### Nuevas características del sitio
 
 * Ahora puede tener imágenes de portada en las páginas del blog.
