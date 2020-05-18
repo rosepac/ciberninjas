@@ -16,10 +16,7 @@ header:
 
 ---
 
-<figure>
-    <a href="https://images.computerhistory.org/fellows/jgosling.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/jgosling.jpg" width="200px" high="250px"></a>
-    <figcaption>James Gosling | Visto en Ciberninjas</figcaption>
-</figure>
+<img src="https://images.computerhistory.org/fellows/jgosling.jpg" width="200px" high="250px" alt="James Gosling | Visto en Ciberninjas" title="James Gosling | Visto en Ciberninjas" />
 
 ## All-Star Informático 2019
 

@@ -16,10 +16,7 @@ header:
 
 ---
 
-<figure>
-    <a href="https://computerhistory.org/wp-content/uploads/2020/01/1996_jay_forrester-e1580707602410.jpg" class="image-popup"><img src="https://images.computerhistory.org/fellows/jgosling.jpg" width="200px" high="250px"></a>
-    <figcaption>Jay W. Forrester | Visto en Ciberninjas</figcaption>
-</figure>
+<img src="https://images.computerhistory.org/fellows/jgosling.jpg" width="200px" high="250px" alt="Jay W. Forrester | Visto en Ciberninjas" title="Jay W. Forrester | Visto en Ciberninjas" />
 
 ## **Biografía de Jay W. Forrester**
 

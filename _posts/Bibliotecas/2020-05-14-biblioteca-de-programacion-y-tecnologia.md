@@ -491,14 +491,14 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## Arduino 🔦
 
 * [Arduino. Guía Completa](https://arduinobot.pbworks.com/w/page/10175775/FrontPage){:target="_blank" rel="nofollow"} (HTML)
-* [Arduino. Libro de Proyectos](https://es.slideshare.net/TinoFernndez/libro-de-proyectos-del-kit-oficial-de-arduino-en-castellano-completo-arduino-starter-kit-arduino-projects-book){:target="_blank" rel="nofollow"} (HTML)
-* [Arduino. Manual de Programación](https://arduinobot.pbworks.com/f/Manual%2BProgramacion%2BArduino.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Arduino. Libro de Proyectos](https://lookaside.fbsbx.com/file/Arduino-Libro-de-proyectos-87.pdf?token=AWyWTv2brzUB4Kb18VbD6mGXfeeB38-uFuYdloTpsp3_mYculQtj1nQKwVMa8s4GLvhcVuvx36ytmAh4z65lUOaK9uVStrJEbkFRtdk_yR7qT270IezL-8885UmD-RUy5O6bkzoAKVt-fEYv7cBAmsqr1eabDyJG-cILdCQUOxRP-g){:target="_blank" rel="nofollow"} (HTML) (2013)
+* [Arduino. Manual de Programación](https://lookaside.fbsbx.com/file/Manual%2BProgramacion%2BArduino.pdf?token=AWyDrgVJpUIL9m5QuqxN370fZrkT8jwQAAkBZGQ0rAhsWcJ5DSblE1M_ZE-HT-A2v4TvUBUk_4SsjTTwxl_C3SQ9UlIbyHJlycfAN5rqmxWwOMJcBOHTPLHs-eBFd9S_HVWN-DwaScWyBQZ1tOES9FrKRqdbEnb3HNBvratdA21TIg){:target="_blank" rel="nofollow"} (PDF) (2007)
 * [Escornabots: Robot de piezas 3D y Arduino](https://catedu.gitbooks.io/escornabots/content/){:target="_blank" rel="nofollow"} (PDF)
 * [Hacia un framework basado en ROS para la implementación de Sistemas Ciberfísicos](https://www.ehu.eus/documents/3444171/4484750/124.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Introducción a la arquitectura de computadores con QtARMSim y Arduino]([https://lorca.act.uji.es/libro/introARM/introARM_ebook_2017.pdf){:target="_blank" rel="nofollow"](https://lookaside.fbsbx.com/file/introARM_ebook_2017.pdf?token=AWzAxiB7qeSfB2Gy7vkEirhMdo6ECKvVIKBFwfi9g1p4wVHZ_7mOFCu7IFqUylAR4aZhnnQpWT6A-WQ5PvgSAbbad33D3l2HzxsAGw40IvIVCJQ15lGdT358TjuXJmd70i7G4lCJzI3N2JXYRRfERHAsIVVYhxZ9TW6tzC4TjnHVTg)} (PDF)
 * [Propuesta para grupo de investigación Autonomía Situada (2003)](https://www.sindominio.net/~xabier/old/textos/propuesta/propuesta.html){:target="_blank" rel="nofollow"} (HTML)
 * [Reconocimiento de patrones temporales en sonidos reales con redes neuronales de pulsos](https://lookaside.fbsbx.com/file/robot-arduino-controlado-por-sensores-lazarragaTFG0617memoria.pdf?token=AWyIghTT5liLbmWS2oaDhDpl3fzEB1b7wWSX4ofxL9LLPBB8ND2U0XyRty1-6KfPTGFlNBr0OCQc3NymJhi8P5XKWMYQ7wg5YQXaNEyjtXQAQL4CV4SrEoYJb2SGykIw52itPmdqo8cQfIX0efY9I8fe0VH0I375Mn9n1OKA6OXAeg){:target="_blank" rel="nofollow"} (PDF)
-* [Robot de Arduino controlado mediante sensores y con respuestas sobre actuadores](https://lsi.vc.ehu.es/pablogn/investig/ficheros/albaTopos.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Robot de Arduino controlado mediante sensores y con respuestas sobre actuadores](https://lookaside.fbsbx.com/file/robot-arduino-controlado-por-sensores-lazarragaTFG0617memoria.pdf?token=AWzQIOlxk93xPyvbo5-Qs861gHYCe6gBw4gCNSUGr6g0yifdPEqvv414Ybu75_dftKX3x8cH1L9blpx4KxwH_Y8tcV2hwOPHI7cnY9kWs1rkXWbxu2-WJ8GE1eDt6ZFTezn3tKM8ql5iMdomiZNDiWwZS7WVH-d2ZZ1_tP2swdhcHA){:target="_blank" rel="nofollow"} (PDF) (2017)
 * [Utilizando Arduino Due en la docencia de la entrada/salida](https://lookaside.fbsbx.com/file/Utilizando_Arduino_Due.pdf?token=AWyfCmQzCqTdm-mjJPMgon33FVOGe95bT0diczQ2YkSgPtEnLfYPgtshNHNoIp9GNDcUCQnPjMnsqPQYHATAfh4DME6PXSkgyCXzBL1tT0D329oQgN1RIx1NW6odZQgme_9PY0_TEFg398TtV791E2v7g2mYlM0oG2t5FUMrMEpNsg){:target="_blank" rel="nofollow"} (PDF)
 
 ## Casas Inteligentes 🏡
@@ -896,9 +896,12 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## Análitica Web 📈
 
+* [Analítica Web: Conceptos de Avinash Kaushik](https://lookaside.fbsbx.com/file/Analitica_Web_2.0_Conceptos_Avinash_Kaushik.pdf?token=AWyNI8IvnkSWm2iCHHkGwEd-wxsUUb_B-za--TpxVNk03ffK_litmpN9uw_J81QJ0vVBQO8MPpGbyWrB1Vw-b-bUCX85IvkN7jNZGmHN5ZjukiTc1R29LTCmUkJwsLNXYur3Pl4KBYAARu0fjIDIijRJ9WoXGi2e7s1KnZ69-go15Q){:target="_blank" rel="nofollow"}
+
 ## Marketing Digital 🏪
 
-* [Marca 4.0: El impacto de la digitalización en la internalización y la gestión de la marca](https://www.marcasrenombradas.com/wp-content/uploads/2019/03/Informe-Marca-4.0.pdf) ()
+* [Marca 4.0: El impacto de la digitalización en la internalización y la gestión de la marca](https://www.marcasrenombradas.com/wp-content/uploads/2019/03/Informe-Marca-4.0.pdf){:target="_blank" rel="nofollow"} ()
+* [Vender 2.0](https://lookaside.fbsbx.com/file/Vender_2.0_Redes_Sociales.pdf?token=AWxVeWmznQH8xIIQJsIWgGRCa7Cru6AD2KkxxkbFn0gudms_yNgBD5JZpc83NZPllsT61W1QaAf1fSAQ5vVzq-8j0RKPuWgx60s5OqftF7cojeYeEfpjnavo3VW-8M29uQFDYX0RRjGzCUtvwRJxCFwsom8kpOBE2iP-CtRt29HnRA) (Presentación) (2013)
 
 ### Instagram <i class="fab fa-instagram"></i>
 
