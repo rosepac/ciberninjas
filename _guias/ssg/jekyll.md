@@ -179,33 +179,11 @@ Como en los ejemplos siguientes:
 
 ¿Desea ajustar varios párrafos u otros elementos en un aviso? Usar Liquid para capturar el contenido y luego filtrarlo con `markdownify` es una buena manera de hacerlo.
 
-### Nuevas características del sitio
-
-* Ahora puede tener imágenes de portada en las páginas del blog.
-* Los borradores ahora se guardarán automáticamente mientras escribes {% endcapture %}
-
-<div class="notice"> {{ notice-2 | markdownify }} </div>
-
-O bien, podría saltar la captura y seguir con HTML puro.
-
-    <div class="notice">
-      <h4>Message</h4>
-      <p>A basic message.</p>
-    </div>
-
-<div class="notice"> <h4>Message</h4> <p>A basic message.</p> </div>
-
-<div class="notice--success"> <h4>Message</h4> <p>A basic message.</p> </div>
-
 ### Agregar Etiqueta: more
 
-Si deseas ingresa la etiqueta _más_ o también conocida como _more_ en tus publicaciones puedes ejecutar la etiqueta:
+Si deseas ingresa la etiqueta _más_ o también conocida como _more_ en tus publicaciones puedes ejecutar la etiqueta `<!--more-->` situándolo luego del primer o segundo párrafo, además debes aplicar en tu cabecera YAML:
 
-    <!--more-->
-
-Situándolo luego del primer o segundo párrafo, además debes aplicar en tu cabecera YAML:
-
-    excerpt_separator: "<!--more-->"
+`excerpt_separator: "<!--more-->"`
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
@@ -218,23 +196,14 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
 
 ### Cómo cambiar la fuente tipográfica
 
-1. Cargar el enlace de las fuentes de Google, a través de la carpeta *includes* en el fichero ```_includes/head/custom.html```.
+1. Cargar el enlace de las fuentes de Google, a través de la carpeta *includes* en el fichero `_includes/head/custom.html`.
 2. Por ejemplo: 
 
 <link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,300;0,600;1,400&display=swap" rel="stylesheet">
 
-1. Agregar al fichero de .scss las variables correspondientes. En ```_sass/minimal-mistakes.scss```
+1. Agregar al fichero de .scss las variables correspondientes para las variables `$serif` y `$sans-serif` que corresponden respectivamente a `$global-font-family : $serif;` y `$header-font-family : $sans-serif-narrow;` . En el documento: `_sass/minimal-mistakes.scss`
 
-En mi caso..
-
-$serif              : 'Overpass', 'Times New Roman', serif;
-$sans-serif-narrow  : 'Overpass', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-
-$global-font-family : $serif;
-$header-font-family : $sans-serif-narrow;
-
-
-1. Cambiar dentro del fichero, ```_sass/minimal-mistakes.scss``` las variables redactadas en el paso anterior.
+2. Cambiar dentro del fichero `_sass/minimal-mistakes.scss` las variables redactadas en el paso anterior citando la fuente adecuada.
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
@@ -285,7 +254,6 @@ La **Guía de Jekyll** fue creada el *16 de Marzo de 2020* y su última edición
   - [Publicar una Cita](#publicar-una-cita)
   - [Actualizar la Fecha de Publicación](#actualizar-la-fecha-de-publicaci%c3%b3n)
   - [Agregar Cajas de Avisos o Notas Informativas](#agregar-cajas-de-avisos-o-notas-informativas)
-  - [Nuevas características del sitio](#nuevas-caracter%c3%adsticas-del-sitio)
   - [Agregar Etiqueta: more](#agregar-etiqueta-more)
   - [Configuración de la Plantilla Minimal Mistakes](#configuraci%c3%b3n-de-la-plantilla-minimal-mistakes)
   - [Cómo cambiar la fuente tipográfica](#c%c3%b3mo-cambiar-la-fuente-tipogr%c3%a1fica)
