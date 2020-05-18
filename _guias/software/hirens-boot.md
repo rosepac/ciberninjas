@@ -1,9 +1,9 @@
 ---
 title: 👩‍🔧 ▷ Hiren´s BootCD PE, Aprender desde Cero
-description: "🔨 Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
-excerpt: "🔨 Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
-date: 2019-10-19 14:25:00 +0200
-last_modified_at: 2019-10-19 16:25:00 +0200
+description: "Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
+excerpt: "Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
+date: 2019-05-16 09:25:00 +0200
+last_modified_at: 
 layout: splash
 author_profile: false
 permalink: /hirens-bootcd-pe/
@@ -20,23 +20,25 @@ toc_icon: user-ninja
 toc_sticky: true
 ---
 
-Hiren's BootCD PE (entorno de preinstalación) es una edición restaurada del reconocido Hiren's BootCD basada en Windows 10 PE x64. Como no hay actualizaciones oficiales después de noviembre de 2012, los fanáticos de Hiren's BootCD están desarrollando la versión PE que incluye herramientas gratuitas, mejoras y actualizadas utilizadas en Hiren's BootCD. Se está desarrollando para las computadoras de la nueva era, admite el arranque UEFI y requiere un mínimo de 2 GB de RAM.
+Hiren's BootCD PE (entorno de preinstalación) es una edición restaurada del **reconocido Hiren's BootCD**basada en Windows 10 PE x64. Como no hay actualizaciones oficiales después de noviembre de 2012, **los fanáticos de Hiren's BootCD están desarrollando la versión PE que incluye herramientas gratuitas**, mejoras y actualizadas utilizadas en Hiren's BootCD. Se está desarrollando para las computadoras de la nueva era, admite el arranque UEFI y requiere un mínimo de 2 GB de RAM.
 
-## 👉 Introducción
+## Introducción 🥇
 
-Con estas herramientas útiles dentro de la ISO puedes resolver muchos problemas relacionados con tu computadora. No contiene ningún software pirateado, solo incluye software gratuito y legal.
+Con estas herramientas útiles dentro de la ISO puedes resolver muchos problemas relacionados con tu computadora, no contiene ningún software pirateado, solamente incluye software gratuito y legal.
 
-Después del arranque, la versión PE intenta instalar controladores como gráficos, sonido, tarjeta inalámbrica y ethernet para su hardware. Para que pueda conectarse a una red WIFI o Ethernet. Póngase en contacto con nosotros con su modelo de hardware si la versión PE no reconoce su tarjeta WIFI o Ethernet. Agregaremos los controladores necesarios en las nuevas versiones.
+Después del arranque, la versión PE intenta instalar controladores como gráficos, sonido, tarjeta inalámbrica y ethernet para su hardware. Para que pueda conectarse a una red WIFI o Ethernet. Póngase en contacto con nosotros con su modelo de hardware si la versión PE no reconoce su tarjeta WIFI o Ethernet; y se agregarán otros controladores necesarios en las nuevas versiones.
 
 Los lanzamientos oficiales de [las versiones antiguas](https://www.hirensbootcd.org/old-versions/){:target="_blank" rel="nofollow,noreferrer"} aún están disponibles. en nuestra  página de Versiones Antiguas.
 
-## 🏛 Sobre Hiren´s Boot CD
+## Sobre Hiren´s Boot CD 🏛
 
-Hiren's BootCD es una gran herramienta que ha ayudado a muchas personas a reparar sus problemas relacionados con el ordenador durante años. Dado que encontrar y descargar la versión oficiales de Hiren's BootCD fue un gran problema, el sitio web Hirensbootcd.org se desarrolló en 2010 para ayudar a las personas a encontrar y descargar este gran proyecto de manera segura y rápida.
+Hiren's BootCD es una gran herramienta que ha ayudado a muchas personas a reparar sus problemas relacionados con el ordenador durante años. Dado que encontrar y descargar la versión oficiales de Hiren's BootCD fue un gran problema, el sitio web Hirensbootcd.org se desarrolló en 2010 para ayudar a las personas a encontrar y descargar las ISO del proyecto de manera segura y rápida.
 
-Siempre alojamos las versiones oficiales originales y sin editar de Hiren's BootCD. Agradecemos a Hiren por desarrollar este gran BootCD y a todos los que ayudan a resolver sus problemas dentro de la comunidad.
+Habiendo alojado las versiones oficiales originales y sin editar de Hiren's BootCD. Agradecemos a Hiren por desarrollar este gran BootCD y a todos los que ayudan a resolver sus problemas dentro de la comunidad.
 
-Lamentablemente, Hiren's BootCD no se actualiza desde hace mucho tiempo. La última versión oficial 15.2 se lanzó en noviembre de 2012. Está desactualizada para superar las necesidades de hoy. Notamos que se han desarrollado muchas versiones recargadas y editadas del Hiren's BootCD en los últimos años. Pero no alojamos ninguno de ellos, ya que siempre alojamos las versiones originales de Hiren's BootCD y esperamos un nuevo lanzamiento oficial.
+Lamentablemente, el CD de Hiren's Boot no se actualiza desde hace mucho tiempo, la última versión oficial 15.2 se lanzó en noviembre de 2012; y se ha quedado desactualizado para ofrecer las necesidades de hoy en día.
+
+Existen muchas versiones editadas y reformuladas de Hiren's BootCD , por personas diferentes a las del proyecto original, durante los últimos años; pero ninguna llega a convencer realmente.
 
 Dado que la nueva versión se retrasó demasiado, como fanáticos de Hiren's BootCD, hemos decidido desarrollar un nuevo Windows 10 x64 PE BootCD que incluye las mejores herramientas de Hiren's BootCD actualizadas a las necesidades de hoy en día.
 
@@ -48,7 +50,7 @@ Sabemos que hay toneladas de software útil para propósitos de uso diario. Pero
 
 Hiren's BootCD PE debe incluir las herramientas gratuitas más pequeñas y mejores solo para los casos de emergencia.
 
-## 🔧 Software Incluidos
+## Software Incluidos 🔧
 
 ### Herramientas BCD-MBR
 
@@ -160,17 +162,17 @@ Hiren's BootCD PE debe incluir las herramientas gratuitas más pequeñas y mejor
 * Mozilla Firefox v60.0.1.6710
 * PENetwork v0.59.0.4
 
-## 💿 Descargar Hiren´s BootCD PE
+## Descargar Hiren´s BootCD PE 💿
 
 [⬇ DESCARGAR ⬇](https://www.hirensbootcd.org/files/HBCD_PE_x64.iso "Descarga Directa de la ISO de Hiren Boot CD PE x64 desde la Web Oficial"){: .btn .btn--inverse .btn--x-large .align-center}
 
-## ❔ Preguntas Frecuentes
+## Preguntas Frecuentes ❔
 
-👉 ¿Hay algún minero de bitcoin o software malicioso infectado en su ISO?
+### 👉 **¿Hay algún minero de bitcoin o software malicioso infectado en su ISO?**
 
 No hay bitcoin ni ningún otro minero infectado en nuestros archivos ISO o en nuestra herramienta ISO2USB. No hay software malicioso, el código está incluido en los archivos alojados en nuestro sitio web. Todo esta limpio.
 
-👉 ¿Es legal usar Windows PE?
+### 👉 **¿Es legal usar Windows PE?**
 
 “Windows PE no es un sistema operativo de propósito general. No puede usarse para ningún otro propósito que no sea la implementación y la recuperación. No debe usarse como un cliente ligero o un sistema operativo integrado. Existen otros productos de Microsoft, como Windows Embedded CE, que pueden usarse para estos fines.
 
@@ -180,21 +182,21 @@ Fuente: Ver [Microsoft WinPE Introducción](https://docs.microsoft.com/en-us/win
 
 Windows PE no incluye ninguna clave de licencia de Windows. Además, Hiren's BootCD PE no viola los propósitos de Windows PE y no cambia la limitación de "72 horas de uso continuo". Por lo tanto, el uso de Windows PE en Hiren's BootCD PE es legal en términos de los propósitos de uso de Microsoft.
 
-👉 HBCD PE incluye software como Acronis, ¿Es legal?
+### 👉 **HBCD PE incluye software como Acronis, ¿Es legal?**
 
 Acronis True Image 2018 en HBCD PE es la versión gratuita, de prueba y limitada. No permite realizar copias de seguridad, pero permite restaurar en modo de prueba. No hay software crackeado o pirateado en la ISO.
 
-👉 ¿Por qué el arranque de DVD se cuelga en la pantalla del logotipo de Windows?
+### 👉 **¿Por qué el arranque de DVD se cuelga en la pantalla del logotipo de Windows?**
 
 Tenga en cuenta que, recomendamos el arranque USB para las ediciones de Windows PE. Arrancar desde DVD puede hacer que espere mucho tiempo en la pantalla del logotipo de Windows en algunas computadoras. Si el arranque tarda entre 8 y 10 minutos, intente arrancar desde USB.
 
-👉 ¿Por qué recibo una advertencia de virus para un archivo descargado de su sitio web?
+### 👉 **¿Por qué recibo una advertencia de virus para un archivo descargado de su sitio web?**
 
 Los archivos que descarga de nuestro sitio web  NO contienen virus.  Si recibe una advertencia de virus, eso es un  falso positivo . Informe el archivo como un falso positivo a través de su software antivirus.
 
-👉 ¿Pueden enviarme una copia física del CD a mi dirección?
+### 👉 **¿Pueden enviarme una copia física del CD a mi dirección?**
 
 Lamentablemente, no podemos ofrecer ese tipo de ayuda con o sin precio.
 
-**Fuente**: Ver [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren"){:target="_blank" rel="nofollow,noreferrer"}
+**Fuente**: Ver [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren"){:target="_blank" rel="nofollow,noreferrer"}. **Edición**: Esta guía fue creada originalmente el 10 de Noviembre de 2019 y editada por última vez el 16 de Mayo de 2020.
 {: .notice--info}
