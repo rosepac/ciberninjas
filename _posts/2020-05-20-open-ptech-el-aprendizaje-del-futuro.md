@@ -69,7 +69,7 @@ Puedes registrarte dentro de P-Tech partiendo de una cuenta de Google, Linkedin 
 
 ### **¿Cómo acceder a P-Tech Online?**
 
-A través de la URL siguiente(https://kutt.it/ptech-plataforma){:target="_blank"} vas a tener acceso a la plataforma una vez te hallas registrado. Recomiendo, tener cuidado y paciencia, puesto que existe algún tipo de problema en el registro; y puedes quedarte recargando la página de acceso una y otra vez.
+A través de la [URL siguiente](https://kutt.it/ptech-plataforma){:target="_blank"} vas a tener acceso a la plataforma una vez te hayas registrado. Recomiendo, tener cuidado y paciencia, puesto que existe algún tipo de problema en el registro; y puedes quedarte recargando la página de acceso una y otra vez.
 
 **Mi Consejo**: Primero regístrate y posteriormente, genera una cuenta de IBMID o crearla a través de alguna de tus cuentas de redes sociales.
 
