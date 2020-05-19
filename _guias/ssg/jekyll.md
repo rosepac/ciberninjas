@@ -252,5 +252,7 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
   - [Cómo cambiar la fuente tipográfica](#c%c3%b3mo-cambiar-la-fuente-tipogr%c3%a1fica)
 - [Enlaces por Investigar y por Organizar](#enlaces-por-investigar-y-por-organizar)
 
+[🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
 La **Guía de Jekyll** fue creada el *16 de Marzo de 2020* y su última edición fue realizada el *18 de Mayo de 2020*.
 {: .notice--info}

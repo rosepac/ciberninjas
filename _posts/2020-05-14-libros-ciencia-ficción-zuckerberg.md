@@ -31,10 +31,7 @@ published: true
 El 14 de Mayo fue el cumpleaños del CEO de Facebook: Mark Zuckerberg. Aprovechando el acontecimiento se me ha ocurrido compartir algunos de [los libros recomendados, en el pasado, por Mark Zuckerberg](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY).
 <!-- https://lifehacker.ru/6-science-zuckerberg-books/ -->
 
-<a href="[/cursos-ingles-programacion-febrero/](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY)" title="Libros de ciencia recomendados por Mark Zuckerberg" class="btn btn--success btn--large">📓 LIBROS DE CIENCIA RECOMENDADOS POR MARK ZUCKERBERG</a>
-
-
-[📓 LIBROS DE CIENCIA RECOMENDADOS POR MARK ZUCKERBERG](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY "Libros de ciencia recomendados por Mark Zuckerberg"){: .btn .btn--inverse .btn--large .align-center}
+[📓 LIBROS DE CIENCIA RECOMENDADOS POR MARK ZUCKERBERG](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY "Libros de ciencia recomendados por Mark Zuckerberg"){: .btn .btn--success .btn--large .align-center}
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
