@@ -33,6 +33,9 @@ El 14 de Mayo fue el cumpleaños del CEO de Facebook: Mark Zuckerberg. Aprovecha
 
 <a href="[/cursos-ingles-programacion-febrero/](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY)" title="Libros de ciencia recomendados por Mark Zuckerberg" class="btn btn--success btn--large">📓 LIBROS DE CIENCIA RECOMENDADOS POR MARK ZUCKERBERG</a>
 
+
+[📓 LIBROS DE CIENCIA RECOMENDADOS POR MARK ZUCKERBERG](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY "Libros de ciencia recomendados por Mark Zuckerberg"){: .btn .btn--inverse .btn--large .align-center}
+
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
