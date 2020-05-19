@@ -67,7 +67,7 @@ IBM ha realizado un esfuerzo para poder ofrecer contenido en español, portugué
 
 Puedes registrarte dentro de P-Tech partiendo de una cuenta de Google, Linkedin o una ID perteneciente a una cuenta de IBM. Desde [el enlace](https://kutt.it/ptech-registro){:target="_blank"} podrás tener acceso a tu perfil personal y a las diferentes formaciones que existentes.
 
-[🔓 REGISTRO EN LA PLATAFORMA DE APRENDIZAJE DE IBM](https://kutt.it/ptech-registro){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[🔓 REGISTRO EN LA PLATAFORMA DE APRENDIZAJE DE IBM](https://kutt.it/ptech-registro){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 ### Cómo acceder a P-Tech Online?
 
@@ -77,7 +77,7 @@ A través de la [URL siguiente](https://kutt.it/ptech-plataforma){:target="_blan
 
 Accede desde la URL que desde aquí te ofrecemos, para que puedas acceder sin ningún problema. Además, vigilar desactivar tanto la protección contra Javascript, como Flash, como contra ventanas emergentes del navegador.
 
-[🚪 ACCEDER A LA PLATAFORMA DE APRENDIZAJE DE IBM](https://kutt.it/ptech-plataforma){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+[🚪 ACCEDER A LA PLATAFORMA DE APRENDIZAJE DE IBM](https://kutt.it/ptech-plataforma){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
 
 ## **Qué contenido nos ofrece IBM desde P-Tech Online?**
 
