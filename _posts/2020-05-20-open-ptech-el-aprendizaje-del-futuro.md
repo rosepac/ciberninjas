@@ -153,7 +153,7 @@ Este galardonado con la insignia ha desarrollado una comprensión de los princip
 
 ## **¿Cuál es el Curriculum de Ciberseguridad?**
 
-Las herramientas y las técnicas de ciberseguridad ayudan a proteger toda la información sensible almacenada y compartida en los ordenadores ¡Descubra cómo los profesionales de la seguridad cibernética se defienden de los malos actores y otras amenazas, al tiempo que adquiriere habilidades y conocimientos en el mundo de la seguridad digital!
+Las herramientas y las técnicas de ciberseguridad ayudan a proteger toda la información sensible almacenada y compartida en los ordenadores, ¡Descubre cómo los profesionales de la seguridad cibernética se defienden de las amenazas y los ataques, al mismo tiempo que adquirieres conocimientos y habilidades dentro del mundo de la seguridad digital!
 
 ### **¿Qué te van a enseñar sobre Ciberseguridad?**
 
@@ -186,7 +186,7 @@ La insignia siguiente demuestra una comprensión fundamental de los conceptos, o
 
 ### **¿Qué insignia de ciencia de datos te corresponderá?**
 
-Al final del mismo, estarás galardonado con la insignia que demuestra que comprendes las oportunidades y las posibilidades de la ciencia de datos, el análisis y el big data junto a las nuevas aplicaciones en cualquier industria.
+Al final del mismo, estarás galardonado con la insignia que demuestra que comprendes las oportunidades y las posibilidades de la ciencia de datos, el análisis y el big data junto a las nuevas aplicaciones de todo esto dentro de cualquier industria tecnológica.
 
 [👨‍🏫 Sección P-TECH sobre CIENCIA DE DATOS](https://kutt.it/canal-ciencia-datos){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Ciencia de Datos](https://kutt.it/badge-ciencia-datos){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
@@ -195,11 +195,9 @@ Al final del mismo, estarás galardonado con la insignia que demuestra que compr
 
 ## **¿Cuál es el Curriculum del Pensamiento de Diseño?**
 
-¿Realmente necesita saber cómo funciona Design Thinking? Absolutamente. Design Thinking es importante para cualquiera, independientemente del trabajo que busque. Es la infraestructura que utilizan las empresas, los negocios y las start-ups para todo tipo de tareas: colaborar, alinear equipos, solucionar problemas reales, mejorar la experiencia de usuario y responder rápidamente. En este canal, aprenderá los principios y los casos prácticos de Design Thinking, e incluso conseguirá una insignia si lo desea.
+**¿Realmente necesitas saber cómo funciona Design Thinking?** Absolutamente. Design Thinking es importante para cualquiera, independientemente del trabajo que busques. Es la infraestructura que utilizan las empresas, los negocios y las start-ups para todo tipo de tareas: colaborar, fortalecer los equipos, solucionar problemas, mejorar la experiencia de usuario y ofrecer respuestas rápidas.
 
-¿Te gustan las grandes ideas? ¿Quieres practicar pensando en una forma innovadora y creativa ?. El Design Thinking es un proceso que los diseñadores de productos, urbanistas e investigadores, utilizan para crear soluciones innovadoras. La comprensión de Design Thinking es la contrapartida perfecta para tu conjunto de habilidades técnicas.
-
-
+En esta sección, aprenderás los principios y los casos prácticos de Design Thinking e incluso conseguirás una insignia si lo desea.
 
 ### **¿Qué te van a enseñar sobre el Pensamiento de Diseño?**
 
@@ -207,8 +205,6 @@ Al final del mismo, estarás galardonado con la insignia que demuestra que compr
 - **¿Cómo se utiliza Design Thinking?** Explore cómo funciona Design Thinking en la práctica, lasactividades que forman los talleres de Design Thinking, y los tipos de herramientas y métodos que se utilizan en estas actividades.
 - **IBM y Design Thinking**: Aprenda ahora a aplicar Design Thinking. Explorará conceptos como la colaboración, la lluvia de ideas, la solución de problemas y cómo las personas utilizan Design Thinking en el lugar de trabajo. Tendrá la oportunidad de aplicar sus principios a aspectos de su propia vida.
 - **Profesional de Entreprise Design Thinking**: Enterprise Design Thinking es un enfoque de IBM a la aplicación del Design Thinking con la velocidad y la escala que requieren las empresas modernas. Ayuda a los equipos no solo a definir los objetivos, sino a ofrecer resultados para avanzar en desarrollos innovadores y mejorar la vida de las personas a las que sirven.
-
-  Tanto si está empezando su viaje de Design Thinking como si busca recursos para ampliar su experiencia, Enterprise Design Thinking es el mejor sitio donde empezar. Siga este curso y reciba su insignia de Profesional con este currículum en línea. También tendrá acceso a las herramientas necesarias para poner en práctica cada día el diseño centrado en las personas.
 
 ### **¿Qué insignia de pensamiento de diseño te corresponderá?**
 
@@ -235,7 +231,9 @@ Esta formación esta basada en 5 diferentes cursos o *módulos* con una duració
 
 ### **¿Qué insignia de habilidades profesionales te corresponderá?**
 
-La insignia de Trabajando en un mundo digital: habilidades profesionales: Este galardonado con la insignia comprende las habilidades clave para el éxito profesional y las habilidades básicas necesarias en la fuerza laboral de TI. Este conocimiento de habilidades y comportamientos incluye: crear y entregar presentaciones; usando enfoques ágiles para trabajar profesionalmente para entregar trabajo y experiencias de calidad a los clientes; colaborando eficazmente con equipos; comunicarse con impacto; lidiar con los desafíos de manera controlada y enfocada; y resolviendo problemas e implementando soluciones.
+La insignia de "Trabajando en un mundo digital: habilidades profesionales" demuestra que comprendes las habilidades clave para alcanzar el éxito profesional en el mundo laboral de TI. Estos conocimientos, comportamientos y habilidades incluyen:
+
+- Crear y entregar presentaciones, usar enfoques ágiles para trabajar profesionalmente con la entrega puntual de trabajos, ofrecer una experiencia de calidad a los clientes, colaborar eficazmente en equipo, comunicarte de forma impactante, afrontar desafíos de manera controlada y enfocada; y resolver problemas e implementar soluciones.
 
 [👩‍🏫 Sección P-TECH sobre HABILIDADES PROFESIONALES](https://kutt.it/canal-habilidades-profesionales){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Habilidades Profesionales](https://kutt.it/badge-habilidades-profesionales){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
