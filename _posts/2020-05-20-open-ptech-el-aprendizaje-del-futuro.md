@@ -67,6 +67,8 @@ IBM ha realizado un esfuerzo para poder ofrecer contenido en español, portugué
 
 Puedes registrarte dentro de P-Tech partiendo de una cuenta de Google, Linkedin o una ID perteneciente a una cuenta de IBM. Desde [el enlace](https://kutt.it/ptech-registro){:target="_blank"} podrás tener acceso a tu perfil personal y a las diferentes formaciones que existentes.
 
+[🔓 REGISTRO EN LA PLATAFORMA DE APRENDIZAJE DE IBM](https://kutt.it/ptech-registro){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
+
 ### Cómo acceder a P-Tech Online?
 
 A través de la [URL siguiente](https://kutt.it/ptech-plataforma){:target="_blank"} vas a tener acceso a la plataforma una vez te hayas registrado. Recomiendo, tener cuidado y paciencia, puesto que existe algún tipo de problema en el registro; y puedes quedarte recargando la página de acceso una y otra vez.
@@ -74,6 +76,8 @@ A través de la [URL siguiente](https://kutt.it/ptech-plataforma){:target="_blan
 **Mi Consejo**: Primero regístrate y posteriormente, genera una cuenta de IBM o creala a través de alguna de tus cuentas de redes sociales; pero posteriormente a crearla cambia a la URL de acceso.
 
 Accede desde la URL que desde aquí te ofrecemos, para que puedas acceder sin ningún problema. Además, vigilar desactivar tanto la protección contra Javascript, como Flash, como contra ventanas emergentes del navegador.
+
+[🚪 ACCEDER A LA PLATAFORMA DE APRENDIZAJE DE IBM](https://kutt.it/ptech-plataforma){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
 
 ## **Qué contenido nos ofrece IBM desde P-Tech Online?**
 
@@ -147,7 +151,7 @@ Blockchain es la base de las criptomonedas y también se utiliza en otros sector
 Este galardonado con la insignia ha desarrollado una comprensión de los principios y prácticas de Blockchain y cómo se pueden aplicar dentro de un entorno empresarial. Entienden Blockchain y los sistemas de contabilidad distribuida, los conceptos importantes y los casos de uso clave de Blockchain y cómo se pueden transferir los activos en una red Blockchain.
 
 [👩‍🏫 Sección P-TECH sobre BLOCKCHAIN](https://kutt.it/canal-blockchain){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
-[🏆 Reclamar Badge de Blockchain](https://kutt.it/badge-blockchain){: .btn .btn--danger .btn--large .align-center}
+[🏆 Reclamar Badge de Blockchain](https://kutt.it/badge-blockchain){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
 
