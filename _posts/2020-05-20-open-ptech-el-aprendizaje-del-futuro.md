@@ -32,7 +32,7 @@ published: true
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/libros-ciencias-zuckerberg/#1-sapiens-una-breve-historia-de-la-humanidad-por-yuval-noah-harari" title="Sapiens: Una breve historia de la humanidad por Yuval Noah Harari">Sapiens: Una breve historia de la humanidad por Yuval Noah Harari</a></li>
+    <li><a href="/open-ptech-el-aprendizaje-del-futuro/" title="Sapiens: Una breve historia de la humanidad por Yuval Noah Harari">Sapiens: Una breve historia de la humanidad por Yuval Noah Harari</a></li>
     <li><a href="/libros-ciencias-zuckerberg/#2-inmunidad-por-eula-biss" title="Inmunidad por Eula BissPermalink">Inmunidad por Eula Biss</a></li>
     <li><a href="/libros-ciencias-zuckerberg/#3-el-jugador-por-ian-banks" title="El jugador por Ian Banks">El jugador por Ian Banks</a></li>
     <li><a href="/libros-ciencias-zuckerberg/#4-la-estructura-de-las-revoluciones-científicas-por-thomas-kuhn" title="La estructura de las revoluciones científicas por Thomas Kuhn">La estructura de las revoluciones científicas por Thomas Kuhn</a></li>
