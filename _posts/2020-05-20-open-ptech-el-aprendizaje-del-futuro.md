@@ -71,9 +71,9 @@ Puedes registrarte dentro de P-Tech partiendo de una cuenta de Google, Linkedin 
 
 A través de la [URL siguiente](https://kutt.it/ptech-plataforma){:target="_blank"} vas a tener acceso a la plataforma una vez te hayas registrado. Recomiendo, tener cuidado y paciencia, puesto que existe algún tipo de problema en el registro; y puedes quedarte recargando la página de acceso una y otra vez.
 
-**Mi Consejo**: Primero regístrate y posteriormente, genera una cuenta de IBMID o crearla a través de alguna de tus cuentas de redes sociales.
+**Mi Consejo**: Primero regístrate y posteriormente, genera una cuenta de IBM o creala a través de alguna de tus cuentas de redes sociales; pero posteriormente a crearla cambia a la URL de acceso.
 
-Luego acceder desde la URL que desde aquí te ofrecemos, para que puedas acceder sin ningún problema. Además, vigilar desactivar tanto la protección contra Javascript, como Flash, como contra ventanas emergentes del navegador.
+Accede desde la URL que desde aquí te ofrecemos, para que puedas acceder sin ningún problema. Además, vigilar desactivar tanto la protección contra Javascript, como Flash, como contra ventanas emergentes del navegador.
 
 ## **¿Qué contenido nos ofrece IBM desde P-Tech Online?**
 
@@ -113,8 +113,6 @@ Las actividades incluidas dentro de esta sección, son las siguientes:
 
 ¿Crees que los robots van a tomar el control del mundo? En esta sección incluye una introducción al mundo de la inteligencia artificial, conocido como IA. Con actividades que describen desde los elementos fundacionales de la tecnología hasta las implicaciones éticas del desarrollo de IA, esta sección es una gran introducción a una de las tecnologías más controvertidas del futuro.
 
-[Sección P-TECH sobre INTELIGENCIA ARTIFICIAL](https://kutt.it/canal-ia){: .btn .btn--inverse .btn--large .align-center}{:target="_blank"}
-
 ### **¿Qué te van a enseñar sobre la Inteligencia Artificial?**
 
 Las temáticas a tratar son las siguientes:
@@ -128,16 +126,14 @@ Las temáticas a tratar son las siguientes:
 Construye tu propio Chatbot: Serás galardonado con la insigniaque demuestra que eres capaz de comprender la creación de Chatbots aprovechando el proyecto "Watson Conversation" y su implementación sobre WordPress.
 
 Al final del mismo, estarás galardonado con la insignia que demuestra que comprendes las oportunidades y las posibilidades de la ciencia de datos, el análisis y el big data junto a las nuevas aplicaciones en cualquier industria.
-
-[🏆 Reclamar Badge de Creación de un Chatbot](https://kutt.it/badge-chatbot){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
+[👨‍🏫 Sección P-TECH sobre INTELIGENCIA ARTIFICIAL](https://kutt.it/canal-ia){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[🏆 Reclamar Badge: Creación de Chatbot](https://kutt.it/badge-chatbot){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
+[🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 ## **¿Cuál es el Curriculum de Blockchain?**
 
 Blockchain es la base de las criptomonedas y también se utiliza en otros sectores de negocios, como la supervisión de la cadena de suministros o el procesamiento de pagos. Aprovecha la oportunidad para saber más sobre esta tecnología innovadora y sobre cómo se utiliza.
-
-[👩‍🏫 Sección P-TECH sobre BLOCKCHAIN](https://kutt.it/canal-blockchain){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
-[🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 ### **¿Qué te van a enseñar sobre el Blockchain?**
 
@@ -150,16 +146,14 @@ Blockchain es la base de las criptomonedas y también se utiliza en otros sector
 
 Este galardonado con la insignia ha desarrollado una comprensión de los principios y prácticas de Blockchain y cómo se pueden aplicar dentro de un entorno empresarial. Entienden Blockchain y los sistemas de contabilidad distribuida, los conceptos importantes y los casos de uso clave de Blockchain y cómo se pueden transferir los activos en una red Blockchain.
 
+[👩‍🏫 Sección P-TECH sobre BLOCKCHAIN](https://kutt.it/canal-blockchain){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Blockchain](https://kutt.it/badge-blockchain){: .btn .btn--danger .btn--large .align-center}
+[🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 ## **¿Cuál es el Curriculum de Ciberseguridad?**
 
 Las herramientas y las técnicas de ciberseguridad ayudan a proteger toda la información sensible almacenada y compartida en los ordenadores ¡Descubra cómo los profesionales de la seguridad cibernética se defienden de los malos actores y otras amenazas, al tiempo que adquiriere habilidades y conocimientos en el mundo de la seguridad digital!
-
-[👨‍🏫 Sección P-TECH sobre FUNDAMENTOS DE CIBERSEGURIDAD](https://kutt.it/canal-fundamentos-ciberseguridad){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
-[👩‍🏫 Sección P-TECH sobre CIBERSEGURIDAD](https://kutt.it/canal-fundamentos-ciberseguridad-1){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
-[🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 ### **¿Qué te van a enseñar sobre Ciberseguridad?**
 
@@ -171,15 +165,17 @@ Las herramientas y las técnicas de ciberseguridad ayudan a proteger toda la inf
 
 ### **¿Qué insignia de ciberseguridad te corresponderá?**
 
+La insignia siguiente demuestra una comprensión fundamental de los conceptos, objetivos y prácticas de ciberseguridad. Esto incluye grupos de amenazas cibernéticas, tipos de ataques, ingeniería social, estudios de casos, estrategias generales de seguridad, criptografía y enfoques comunes que las organizaciones toman para prevenir, detectar y responder a los ataques cibernéticos. Esto también incluye una conciencia del mercado laboral. Los ganadores de credenciales pueden usar este conocimiento para buscar educación adicional para una variedad de roles en ciberseguridad.
+
+[👨‍🏫 Sección P-TECH sobre FUNDAMENTOS DE CIBERSEGURIDAD](https://kutt.it/canal-fundamentos-ciberseguridad){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
+[👩‍🏫 Sección P-TECH sobre CIBERSEGURIDAD](https://kutt.it/canal-fundamentos-ciberseguridad-1){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Ciberseguridad](https://kutt.it/badge-ciberseguridad){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
+[🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 ## **¿Cuál es el Curriculum de Ciencia de Datos?**
 
 **¿Sabías que los datos pueden contar una historia?** Los datos son omnipresentes y cada día creamos más. Cada vez que consultamos el correo electrónico, buscamos algo en línea o utilizamos una aplicación en el teléfono, estamos creando datos. Ginni Rometty, de IBM, ha ido más lejos y ha dicho que “el Big Data es el recurso natural del mundo en el próximo siglo”. ¿Qué hacemos con todos estos datos? En este canal, aprenderá qué es la ciencia de datos y cómo se utiliza en distintos sectores como la música y la televisión en streaming. Consulte este canal para obtener más contexto sobre qué significa ser un experto en datos.
-
-[👨‍🏫 Sección P-TECH sobre CIENCIA DE DATOS](https://kutt.it/canal-ciencia-datos){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
-[🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 ### **¿Qué te van a enseñar sobre la Ciencia de los Datos?**
 
@@ -192,7 +188,10 @@ Las herramientas y las técnicas de ciberseguridad ayudan a proteger toda la inf
 
 Al final del mismo, estarás galardonado con la insignia que demuestra que comprendes las oportunidades y las posibilidades de la ciencia de datos, el análisis y el big data junto a las nuevas aplicaciones en cualquier industria.
 
+[👨‍🏫 Sección P-TECH sobre CIENCIA DE DATOS](https://kutt.it/canal-ciencia-datos){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Ciencia de Datos](https://kutt.it/badge-ciencia-datos){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
+[🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 ## **¿Cuál es el Curriculum del Pensamiento de Diseño?**
 
@@ -200,9 +199,7 @@ Al final del mismo, estarás galardonado con la insignia que demuestra que compr
 
 ¿Te gustan las grandes ideas? ¿Quieres practicar pensando en una forma innovadora y creativa ?. El Design Thinking es un proceso que los diseñadores de productos, urbanistas e investigadores, utilizan para crear soluciones innovadoras. La comprensión de Design Thinking es la contrapartida perfecta para tu conjunto de habilidades técnicas.
 
-[👩‍🏫 Sección P-TECH sobre PENSAMIENTO DE DISEÑO](https://kutt.it/canal-pensamiento-diseno){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
-[🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
+
 
 ### **¿Qué te van a enseñar sobre el Pensamiento de Diseño?**
 
@@ -217,17 +214,16 @@ Al final del mismo, estarás galardonado con la insignia que demuestra que compr
 
 El ganador ha adquirido conocimiento sobre la aplicación de Enterprise Design Thinking y su valor. Como practicante, el ganador de la insignia encuentra oportunidades para probarlo en su trabajo diario.
 
+[👩‍🏫 Sección P-TECH sobre PENSAMIENTO DE DISEÑO](https://kutt.it/canal-pensamiento-diseno){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Pensamiento de Diseño](https://kutt.it/badge-pensamiento-diseno){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
+[🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 ## **¿Cuál es el Curriculum de habilidades profesionales?**
 
 Los empleadores están de acuerdo en que, aunque las habilidades técnicas son importantes, las habilidades profesionales son las que hacen que un empleado tenga éxito en el mundo del trabajo. Obtenga más información acerca de los tipos de habilidades que le ayudarán a destacar en una entrevista y a ascender en la compañía.
 
 Esta formación esta basada en 5 diferentes cursos o *módulos* con una duración de entre 1 hora y cuarto y 2 horas cada uno. La suma de todos los módulos es denominado: *Trabaja en un mundo digital: Habilidades Profesionales*.
-
-[Sección P-TECH sobre HABILIDADES PROFESIONALES](https://kutt.it/canal-habilidades-profesionales){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
-[🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 ### **¿Qué te van a enseñar sobre habilidades profesionales?**
 
@@ -241,7 +237,10 @@ Esta formación esta basada en 5 diferentes cursos o *módulos* con una duració
 
 La insignia de Trabajando en un mundo digital: habilidades profesionales: Este galardonado con la insignia comprende las habilidades clave para el éxito profesional y las habilidades básicas necesarias en la fuerza laboral de TI. Este conocimiento de habilidades y comportamientos incluye: crear y entregar presentaciones; usando enfoques ágiles para trabajar profesionalmente para entregar trabajo y experiencias de calidad a los clientes; colaborando eficazmente con equipos; comunicarse con impacto; lidiar con los desafíos de manera controlada y enfocada; y resolviendo problemas e implementando soluciones.
 
+[👩‍🏫 Sección P-TECH sobre HABILIDADES PROFESIONALES](https://kutt.it/canal-habilidades-profesionales){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Habilidades Profesionales](https://kutt.it/badge-habilidades-profesionales){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
+[🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
 
 #### Índice
 - [**¿Qué es P-Tech?**](#%c2%bfqu%c3%a9-es-p-tech)
