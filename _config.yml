@@ -325,6 +325,9 @@ tag_archive:
 # Pie de Página
 footer:
   links:
+    - label: "Telegram"
+      icon: "fab fa-telegram-plane"
+      url: "https://t.me/ciberninjas"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ciberninjas"
