@@ -159,9 +159,11 @@ sidebar:
 * [Cursos Bitcoin y Trading de Criptomonedas](https://www.tutellus.com/tecnologia/blockchain/curso-bitcoin-y-trading-criptomonedas-20610){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 
 ### Dash
+
 * [Dash en Python](https://unipython.com/curso-de-dash){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
 
 ### Trading <i class="fas fa-chart-line"></i>
+
 * [Curso básico de trading](https://www.udemy.com/wisetradingacademy){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Curso de trading y bolsa desde cero](https://www.udemy.com/curso-de-trading-y-bolsa-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://www.udemy.com/curso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -779,6 +781,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Aprende Python desde cero](https://www.udemy.com/aprende-python-desde-cero-b){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Creación de APIs RESTful con Flask – Python](https://unipython.com/curso-de-creacion-de-api-restful-en-flask-python){:target="_blank" rel="nofollow,noreferrer"}
 * [Curso de Python desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
+* [Cursos Python](https://cursospython.com/){:target="_blank" rel="nofollow,noreferrer"} (HTML) - Página web en español
 * [Interfaz Gráfica con Tkinter](https://unipython.com/curso-de-tkinter){:target="_blank" rel="nofollow,noreferrer"}
 * [Master en Python3. Aprende de 0 a EXPERTO Practicando](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando){:target="_blank" rel="nofollow,noreferrer"}
 * [Procesamiento de Imágenes: OpenCV y Python](https://unipython.com/curso-procesamiento-imagenes-opencv-python){:target="_blank" rel="nofollow,noreferrer"}
