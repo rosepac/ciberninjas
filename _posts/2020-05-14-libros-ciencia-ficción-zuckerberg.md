@@ -31,8 +31,6 @@ published: true
 El 14 de Mayo fue el cumpleaños del CEO de Facebook: Mark Zuckerberg. Aprovechando el acontecimiento se me ha ocurrido compartir algunos de [los libros recomendados, en el pasado, por Mark Zuckerberg](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY).
 <!-- https://lifehacker.ru/6-science-zuckerberg-books/ -->
 
-[📓 LIBROS DE CIENCIA RECOMENDADOS POR MARK ZUCKERBERG](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY "Libros de ciencia recomendados por Mark Zuckerberg"){: .btn .btn--success .btn--large .align-center}
-
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
@@ -47,6 +45,8 @@ El 14 de Mayo fue el cumpleaños del CEO de Facebook: Mark Zuckerberg. Aprovecha
 </nav>
 </details>
 <br />
+
+[📓 LIBROS DE CIENCIA RECOMENDADOS POR MARK ZUCKERBERG](https://www.amazon.es/shop/cibercursos?listId=9KEJFAKIIQWY "Libros de ciencia recomendados por Mark Zuckerberg"){: .btn .btn--success .btn--large .align-center}
 
 **🔥 Libros Recomendados Por**: Barack Obama - [Saber Más](/los-mejores-libros-de-obama-inicio-2020/){:target="_blank" rel="nofollow,noreferrer"} >> [Bill Gates](https://www.amazon.es/shop/cibercursos?listId=DVQ91DQ86YU9){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/los-mejores-libros-bill-gates-dia-del-libro-2020/) >> [Elon Musk](https://www.amazon.es/shop/cibercursos?listId=3L0GYXQQNLRIQ){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-elon-musk-2020/) >> [Satya Nadella](https://www.amazon.es/shop/cibercursos?listId=2CSW8JJTQO47P){:target="_blank" rel="nofollow,noreferrer"} - [Saber Más](/libros-recomendados-satya-nadella-2020/) >> [Libros de Programación GRATIS](/biblioteca-de-programacion-y-tecnologia/)
 {: .notice--danger}
