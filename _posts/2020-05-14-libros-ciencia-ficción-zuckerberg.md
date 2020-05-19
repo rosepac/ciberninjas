@@ -171,7 +171,7 @@ Posiblemente el descubrimiento científico más significativo del nuevo siglo, e
 <details>
 <summary>Saber Más</summary>
 <br/>
-<p>Genome ofrece una visión extraordinaria de las ramificaciones de este avance increíble. Al elegir un gen recién descubierto de cada par de cromosomas y contar su historia, Matt Ridley relata la historia de nuestra especie y sus antepasados ​​desde los albores de la vida hasta el borde de la medicina futura.</p>
+<p>Genoma ofrece una visión extraordinaria de las ramificaciones de este avance increíble. Al elegir un gen recién descubierto de cada par de cromosomas y contar su historia, Matt Ridley relata la historia de nuestra especie y sus antepasados ​​desde los albores de la vida hasta el borde de la medicina futura.</p>
 <p>Desde la enfermedad de Huntington hasta el cáncer, desde las aplicaciones de la terapia génica hasta los horrores de la eugenesia, Matt Ridley investiga los problemas científicos, filosóficos y morales que surgen como resultado del mapeo del genoma. Le ayudará a comprender qué significa este hito científico para usted, para sus hijos y para la humanidad.</p>
 <p>El libro fue bien recibido por críticos en revistas como Nature y periódicos como The New York Times. La London Review of Books, sin embargo, encontró al libro "exasperante e instructivo por partes iguales".</p>
 </details>
