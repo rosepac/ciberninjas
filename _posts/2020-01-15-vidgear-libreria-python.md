@@ -1,11 +1,12 @@
 ---
-author_profile: true
+author_profile: false
 title: '▷ Vidgear: Librería de Python para el procesamiento de vídeo 🐍'
-description: "Librería de procesamiento de video en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"
-excerpt: "Librería de procesamiento de video en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"
+description: "Librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"
+excerpt: "Librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"
 published: true
 comments: false
-date: 2020-01-15 19:10:12
+date: 2020-05-20 19:10:12
+classes: wide
 last_modified_at: 
 canonical_URL: /vidgear-libreria-python/
 categories:
@@ -13,7 +14,11 @@ categories:
 tags:
 - Python
 header:
-  teaser: https://i.ibb.co/cFYs4Vd/vidgear-libreria-python.png
+  teaser: /assets/images/blog/vidgear-libreria-python.webp
+  overlay_image: /assets/images/blog/vidgear-libreria-python.webp
+  overlay_filteR: 0.2
+  image_description: Librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras
+  image_alt: Librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras
 # header:
 #  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 #   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
@@ -27,61 +32,23 @@ header:
 # toc_sticky: true
 ---
 
-![](https://i.ibb.co/cFYs4Vd/vidgear-libreria-python.png)
+![](/assets/images/blog/vidgear-libreria-python.webp "")
 
-VidGear es una poderosa biblioteca de procesamiento de video en Python construida con [**Gears de**](https://github.com/abhiTronix/vidgear#gears) subprocesos múltiples, cada uno con un conjunto único de características innovadoras. Estas API proporcionan un contenedor fácil de usar, altamente extensible y multihilo alrededor de muchas bibliotecas subyacentes de última generación como *[OpenCV ➶](https://github.com/opencv/opencv) , [FFmpeg ➶](https://www.ffmpeg.org/) , [picamera ➶](https://github.com/waveform80/picamera) , [pafy ➶](https://github.com/mps-youtube/pafy) , [pyzmq ➶](https://github.com/zeromq/pyzmq) y [python-mss ➶](https://github.com/BoboTiG/python-mss)*
+VidGear es una poderosa biblioteca de procesamiento de video en Python construida con [**Gears de**](https://github.com/abhiTronix/vidgear#gears){:target="_blank" rel="nofollow noreferrer"} subprocesos múltiples, cada uno con un conjunto único de características innovadoras. Estas API proporcionan un contenedor fácil de usar, altamente extensible y multihilo alrededor de muchas bibliotecas subyacentes de última generación como *[OpenCV ➶](https://github.com/opencv/opencv){:target="_blank" rel="nofollow noreferrer"}, [FFmpeg ➶](https://www.ffmpeg.org/){:target="_blank" rel="nofollow noreferrer"}, [picamera ➶](https://github.com/waveform80/picamera){:target="_blank" rel="nofollow noreferrer"}, [pafy ➶](https://github.com/mps-youtube/pafy){:target="_blank" rel="nofollow noreferrer"}, [pyzmq ➶](https://github.com/zeromq/pyzmq){:target="_blank" rel="nofollow noreferrer"} y [python-mss ➶](https://github.com/BoboTiG/python-mss){:target="_blank" rel="nofollow noreferrer"}*.
 
 El siguiente **diagrama de bloques funcional muestra** claramente el funcionamiento de la biblioteca VidGear:
 
 [![Diagrama de bloques funcionales de @Vidgear](https://camo.githubusercontent.com/7eb66b31e45072cd99ee988690242b93388705db/68747470733a2f2f6162686974726f6e69782e6769746875622e696f2f696d672f766964676561722f766964676561725f66756e6374696f6e322d30312e737667)](https://camo.githubusercontent.com/7eb66b31e45072cd99ee988690242b93388705db/68747470733a2f2f6162686974726f6e69782e6769746875622e696f2f696d672f766964676561722f766964676561725f66756e6374696f6e322d30312e737667)
 
-# Tabla de contenido
-
-[**TL; DR**](https://github.com/abhiTronix/vidgear#tldr)
-
-[**Engranajes: ¿Qué son estos?**](https://github.com/abhiTronix/vidgear#gears)
-
-- [**CamGear**](https://github.com/abhiTronix/vidgear#camgear)
-- [**PiGear**](https://github.com/abhiTronix/vidgear#pigear)
-- [**VideoGear**](https://github.com/abhiTronix/vidgear#videogear)
-- [**ScreenGear**](https://github.com/abhiTronix/vidgear#screengear)
-- [**WriteGear**](https://github.com/abhiTronix/vidgear#writegear)
-- [**NetGear**](https://github.com/abhiTronix/vidgear#netgear)
-
-[**Instalación**](https://github.com/abhiTronix/vidgear#installation)
-
-- [**Prerrequisitos**](https://github.com/abhiTronix/vidgear#prerequisites)
-- [**1 - Instalación de PyPI**](https://github.com/abhiTronix/vidgear#option-1-pypi-install)
-- [**2 - Descarga del archivo de lanzamiento**](https://github.com/abhiTronix/vidgear#option-2-release-archive-download)
-- [**3 - Clon Repo**](https://github.com/abhiTronix/vidgear#option-3-clone-the-repo)
-
-[**Nuevo lanzamiento SneekPeak: v0.1.6**](https://github.com/abhiTronix/vidgear#new-release-sneekpeak--vidgear-016)
-
-[**Documentación**](https://github.com/abhiTronix/vidgear#documentation)
-
-**Para desarrolladores / contribuyentes**
-
-- [**Pruebas**](https://github.com/abhiTronix/vidgear#testing)
-- [**Contribuyendo**](https://github.com/abhiTronix/vidgear#contributing)
-
-**Información adicional**
-
-- [**Legados de Python compatibles**](https://github.com/abhiTronix/vidgear#supported-python-legacies)
-- [**Registro de cambios**](https://github.com/abhiTronix/vidgear#changelog)
-- [**Citando**](https://github.com/abhiTronix/vidgear#citing)
-- [**Licencia**](https://github.com/abhiTronix/vidgear#license)
-
-## TL; DR
-
-#### ¿Qué es vidgear?
+## Qué es Vidgear?
 
 > ***"VidGear es una biblioteca Python de procesamiento de video completa [ultrarrápida](https://github.com/abhiTronix/vidgear/wiki/FAQ-&-Troubleshooting#2-vidgear-is-ultrafast-but-how) , compacta, flexible y fácil de adaptar".***
 
-#### ¿Qué hace?
+## Qué hace VidGear?
 
 > ***"VidGear puede leer, escribir, procesar, enviar y recibir cuadros de video desde varios dispositivos en tiempo real".***
 
-#### ¿Cual es su propósito?
+## Cuál es su propósito?
 
 > ***"Construido con la simplicidad en mente, VidGear permite a los programadores y desarrolladores de software integrar y realizar fácilmente tareas complejas de procesamiento de video en sus aplicaciones existentes o nuevas, sin pasar por la documentación de varias bibliotecas subyacentes y usar solo unas pocas líneas de código. Beneficioso para ambos, si eres nuevo en la programación con lenguaje Python o ya eres un profesional ".***
 
@@ -97,24 +64,26 @@ Cada una de estas API está diseñada exclusivamente para manejar / controlar di
 
 **A. Engranajes de VideoCapture:**
 
-- [**CamGear: Apunta a**](https://github.com/abhiTronix/vidgear#camgear) *varias cámaras IP-USB / Streams de red / YouTube-Video-URL.*
-- [**PiGear: apunta a**](https://github.com/abhiTronix/vidgear#pigear) *varios módulos de cámara Raspberry Pi.*
-- [**ScreenGear:**](https://github.com/abhiTronix/vidgear#screengear) *permite la* [**transmisión de**](https://github.com/abhiTronix/vidgear#screengear) *pantalla ultrarrápida.*
-- [**VideoGear:**](https://github.com/abhiTronix/vidgear#videogear) *una API común con envoltura de estabilizador de video.*
+- [**CamGear: Apunta a**](https://github.com/abhiTronix/vidgear#camgear){:target="_blank" rel="nofollow noreferrer"} *varias cámaras IP-USB / Streams de red / YouTube-Video-URL.*
+- [**PiGear: apunta a**](https://github.com/abhiTronix/vidgear#pigear){:target="_blank" rel="nofollow noreferrer"} *varios módulos de cámara Raspberry Pi.*
+- [**ScreenGear:**](https://github.com/abhiTronix/vidgear#screengear){:target="_blank" rel="nofollow noreferrer"} *permite la* [**transmisión de**](https://github.com/abhiTronix/vidgear#screengear){:target="_blank" rel="nofollow noreferrer"} *pantalla ultrarrápida.*
+- [**VideoGear:**](https://github.com/abhiTronix/vidgear#videogear){:target="_blank" rel="nofollow noreferrer"} *una API común con envoltura de estabilizador de video.*
 
 **B. Equipo de VideoWriter:**
 
-- [**WriteGear:**](https://github.com/abhiTronix/vidgear#writegear) *maneja la codificación y compresión de video sin pérdida fácil.*
+- [**WriteGear:**](https://github.com/abhiTronix/vidgear#writegear){:target="_blank" rel="nofollow noreferrer"} *maneja la codificación y compresión de video sin pérdida fácil.*
 
 **C. Equipo de red:**
 
-- [**NetGear: apunta a la**](https://github.com/abhiTronix/vidgear#netgear) *transferencia de cuadros de video síncronos / asíncronos entre sistemas de interconexión a través de la red.*
+- [**NetGear: apunta a la**](https://github.com/abhiTronix/vidgear#netgear){:target="_blank" rel="nofollow noreferrer"} *transferencia de cuadros de video síncronos / asíncronos entre sistemas de interconexión a través de la red.*
 
 ## CamGear
 
-> *CamGear puede capturar cuadros ultrarrápidos de una amplia gama de dispositivos / transmisiones, que incluye casi cualquier cámara IP / USB, formato de archivo de video multimedia ( [\*hasta 4k probado\*](https://github.com/abhiTronix/vidgear/blob/e0843720202b0921d1c26e2ce5b11fadefbec892/vidgear/tests/benchmark_tests/test_benchmark_playback.py#L65) ), varios protocolos de transmisión de red como `http(s), rtp, rstp, rtmp, mms, etc.`, además de soporte para la transmisión en vivo de Gstreamer y YouTube URLs de video / livestreams.*
+> *CamGear puede capturar cuadros ultrarrápidos de una amplia gama de dispositivos / transmisiones, que incluye casi cualquier cámara IP / USB, formato de archivo de video multimedia ( [\*hasta 4k probado\*](https://github.com/abhiTronix/vidgear/blob/e0843720202b0921d1c26e2ce5b11fadefbec892/vidgear/tests/benchmark_tests/test_benchmark_playback.py#L65){:target="_blank" rel="nofollow noreferrer"} ), varios protocolos de transmisión de red como `http(s), rtp, rstp, rtmp, mms, etc.`, además de soporte para la transmisión en vivo de Gstreamer y YouTube URLs de video / livestreams.*
 
-CamGear proporciona un contenedor multihilo flexible de alto nivel alrededor de la `OpenCV's` [clase VideoCapture](https://docs.opencv.org/master/d8/dfe/classcv_1_1VideoCapture.html#a57c0e81e83e60f36c83027dc2a188e80) con acceso a casi todos sus parámetros disponibles y también emplea [`pafy`](https://github.com/mps-youtube/pafy)API de Python para la transmisión en vivo de [YouTube](https://github.com/abhiTronix/vidgear/wiki/CamGear#2-camgear-api-with-live-youtube-piplineing-using-video-url) . Además, CamGear se implementa exclusivamente en [**modo de cola**](https://github.com/abhiTronix/vidgear/wiki/Threaded-Queue-Mode) enhebrada para un manejo de trama sincronizado, ultrarrápido y sin errores.
+CamGear proporciona un contenedor multihilo flexible de alto nivel alrededor de la `OpenCV's` [clase VideoCapture](https://docs.opencv.org/master/d8/dfe/classcv_1_1VideoCapture.html#a57c0e81e83e60f36c83027dc2a188e80){:target="_blank" rel="nofollow noreferrer"} con acceso a casi todos sus parámetros disponibles y también emplea [`pafy`](https://github.com/mps-youtube/pafy){:target="_blank" rel="nofollow noreferrer"} API de Python para la transmisión en vivo de [YouTube](https://github.com/abhiTronix/vidgear/wiki/CamGear#2-camgear-api-with-live-youtube-piplineing-using-video-url){:target="_blank" rel="nofollow noreferrer"}.
+
+Además, CamGear se implementa exclusivamente en [**modo de cola**](https://github.com/abhiTronix/vidgear/wiki/Threaded-Queue-Mode){:target="_blank" rel="nofollow noreferrer"} enhebrada para un manejo de trama sincronizado, ultrarrápido y sin errores.
 
 **El siguiente diagrama de bloques funcional simplificado muestra el funcionamiento generalizado de la API de CamGear:**
 
@@ -122,78 +91,85 @@ CamGear proporciona un contenedor multihilo flexible de alto nivel alrededor de 
 
 ### Guía API de CamGear:
 
-[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/CamGear#camgear-api)
-
- 
+[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/CamGear#camgear-api){:target="_blank" rel="nofollow noreferrer"}
 
 ## VideoGear
 
-> *VideoGear API proporciona un envoltorio interno especial alrededor de la clase exclusiva de [**estabilizador de video de**](https://github.com/abhiTronix/vidgear/wiki/Stabilizer-Class) VidGear .*
+> *VideoGear API proporciona un envoltorio interno especial alrededor de la clase exclusiva de* [*estabilizador de video de*](https://github.com/abhiTronix/vidgear/wiki/Stabilizer-Class){:target="_blank" rel="nofollow noreferrer"} *VidGear*.
 
-Además, la API VideoGear puede proporcionar acceso interno a las API [CamGear](https://github.com/abhiTronix/vidgear#camgear) y [PiGear](https://github.com/abhiTronix/vidgear#pigear) separadas por un indicador especial. Por lo tanto, *esta API tiene el poder exclusivo para cualquier VideoStream entrante de cualquier fuente, ya sea en vivo o no, para acceder y estabilizarlo directamente con latencia mínima y requisitos de memoria.*
+Además, la API VideoGear puede proporcionar acceso interno a las API [CamGear](https://github.com/abhiTronix/vidgear#camgear){:target="_blank" rel="nofollow noreferrer"} y [PiGear](https://github.com/abhiTronix/vidgear#pigear){:target="_blank" rel="nofollow noreferrer"} separadas por un indicador especial. Por lo tanto, *esta API tiene el poder exclusivo para cualquier VideoStream entrante de cualquier fuente, ya sea en vivo o no, para acceder y estabilizarlo directamente con latencia mínima y requisitos de memoria.*
 
 **A continuación se muestra una instantánea de un estabilizador de VideoGear en acción:**
 
 [![VideoGear Stabilizer en acción!](https://github.com/abhiTronix/Imbakup/raw/master/Images/stabilizer.gif)](https://github.com/abhiTronix/Imbakup/raw/master/Images/stabilizer.gif)
-*Video original cortesía de [@ SIGGRAPH2013](http://liushuaicheng.org/SIGGRAPH2013/database.html)*
+*Video original cortesía de [@ SIGGRAPH2013](http://liushuaicheng.org/SIGGRAPH2013/database.html){:target="_blank" rel="nofollow noreferrer"}*
 
-Código para generar el video estabilizado API VideoGear anterior ( *vea ejemplos de uso más detallados [aquí](https://github.com/abhiTronix/vidgear/wiki/Real-time-Video-Stabilization#usage)* ):
+Código para generar el video estabilizado API VideoGear anterior ( *vea ejemplos de uso más detallados [aquí](https://github.com/abhiTronix/vidgear/wiki/Real-time-Video-Stabilization#usage){:target="_blank" rel="nofollow noreferrer"}* ):
 
 ```
-# importar bibliotecas 
-de vidgear.gears importar VideoGear
- import numpy como np
- import cv2
+# import required libraries
+from vidgear.gears import VideoGear
+import numpy as np
+import cv2
 
-stream_stab = VideoGear ( source = ' test.mp4 ' , stabilize  =  True ) .start () # Para abrir cualquier transmisión de video válida con el indicador `estabilizar` establecido en True. 
-stream_org = VideoGear ( source = ' test.mp4 ' ) .start () # abre la misma secuencia sin estabilización para la comparación
+# open any valid video stream with stabilization enabled(`stabilize = True`)
+stream_stab = VideoGear(source = "test.mp4", stabilize = True).start()
 
-# bucle infinito 
-mientras es  verdadero :
-  
-  frame_stab = stream_stab.read ()
-   # leer marcos estabilizados
+# open same stream without stabilization for comparison
+stream_org = VideoGear(source = "test.mp4").start()
 
-  # comprueba si frame es None 
-  si frame_stab es  None :
-     # if True rompe el 
-    salto de bucle infinito
-  
-  # leer el marco original 
-  frame_org = stream_org.read ()
+# loop over
+while True:
 
-  # Concatenate ambos marcos 
-  output_frame = np.concatenate ((frame_org, frame_stab), eje = 1 )
+    # read stabilized frames
+    frame_stab = stream_stab.read()
 
-  # put text 
-  cv2.putText (output_frame, " Before " , ( 10 , output_frame.shape [ 0 ] -  10 ), cv2. FONT_HERSHEY_SIMPLEX , 0.6 , ( 0 , 255 , 0 ), 2 )
-  cv2.putText (output_frame, " After " , (output_frame.shape [ 1 ] // 2 + 10 , frame.shape [ 0 ] -  10 ), cv2. FONT_HERSHEY_SIMPLEX , 0.6 , ( 0 , 255 , 0 ), 2 )
-  
-  cv2.imshow ( " Marco estabilizado " , marco_salida)
-   # Mostrar ventana de salida
+    # check for stabilized frame if Nonetype
+    if frame_stab is None:
+        break
 
-  key = cv2.waitKey ( 1 ) &  0x FF 
-  # verifique 'q' presione la
-   tecla if key ==  ord ( " q " ):
-     # if 'q' presionó la tecla break 
-    break
+    # read un-stabilized frame
+    frame_org = stream_org.read()
 
-cv2.destroyAllWindows ()
-# cerrar ventana de salida
-stream_org.stop ()
-stream_stab.stop ()
-# cierra de forma segura las transmisiones de video.
+    # concatenate both frames
+    output_frame = np.concatenate((frame_org, frame_stab), axis=1)
+
+    # put text over concatenated frame
+    cv2.putText(
+        output_frame, "Before", (10, output_frame.shape[0] - 10), cv2.FONT_HERSHEY_SIMPLEX,
+        0.6, (0, 255, 0), 2,
+    )
+    cv2.putText(
+        output_frame, "After", (output_frame.shape[1] // 2 + 10, output_frame.shape[0] - 10),
+        cv2.FONT_HERSHEY_SIMPLEX,
+        0.6, (0, 255, 0), 2,
+    )
+
+    # Show output window
+    cv2.imshow("Stabilized Frame", output_frame)
+
+    # check for 'q' key if pressed
+    key = cv2.waitKey(1) & 0xFF
+    if key == ord("q"):
+        break
+
+# close output window
+cv2.destroyAllWindows()
+
+# safely close both video streams
+stream_org.stop()
+stream_stab.stop()
 ```
 
 ### VideoGear API Guide:
 
-[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/VideoGear#videogear-api)
+[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/VideoGear#videogear-api){:target="_blank" rel="nofollow noreferrer"}
 
 ## PiGear
 
-> *PiGear es similar a CamGear, pero está hecho para admitir varios módulos de cámara Raspberry Pi \*(como el [módulo de cámara OmniVision OV5647](https://github.com/techyian/MMALSharp/wiki/OmniVision-OV5647-Camera-Module) y el [módulo de cámara ](https://github.com/techyian/MMALSharp/wiki/OmniVision-OV5647-Camera-Module)[Sony IMX219](https://github.com/techyian/MMALSharp/wiki/Sony-IMX219-Camera-Module) )\* .*
+> *PiGear es similar a CamGear, pero está hecho para admitir varios módulos de cámara Raspberry Pi: (como el [módulo de cámara OmniVision OV5647](https://github.com/techyian/MMALSharp/wiki/OmniVision-OV5647-Camera-Module){:target="_blank" rel="nofollow noreferrer"} y el [módulo de cámara ](https://github.com/techyian/MMALSharp/wiki/OmniVision-OV5647-Camera-Module){:target="_blank" rel="nofollow noreferrer"}[Sony IMX219](https://github.com/techyian/MMALSharp/wiki/Sony-IMX219-Camera-Module){:target="_blank" rel="nofollow noreferrer"}.*
 
-PiGear proporciona una envoltura flexible de múltiples subprocesos alrededor de la biblioteca completa de Python [**picamera**](https://github.com/waveform80/picamera) para interactuar con estos módulos correctamente, y también otorga la capacidad de explotar sus diversas características `brightness, saturation, sensor_mode, etc.`sin esfuerzo.
+PiGear proporciona una envoltura flexible de múltiples subprocesos alrededor de la biblioteca completa de Python [**picamera**](https://github.com/waveform80/picamera){:target="_blank" rel="nofollow noreferrer"} para interactuar con estos módulos correctamente, y también otorga la capacidad de explotar sus diversas características `brightness, saturation, sensor_mode, etc.`sin esfuerzo.
 
 Lo mejor de todo es que la API de PiGear proporciona un excelente manejo de errores con características como un temporizador interno roscado que mantiene un seguimiento activo de cualquier subproceso congelado y maneja fallas de hardware / subprocesos congelados de manera robusta y, por lo tanto, saldrá de manera segura si se produce algún error. Entonces, si accidentalmente desconectó el cable del módulo de la cámara al ejecutar PiGear API en su secuencia de comandos, en lugar de entrar en posibles hilos de pánico / congelación del kernel, la API se cierra de manera segura para ahorrar recursos.
 
@@ -203,15 +179,13 @@ Lo mejor de todo es que la API de PiGear proporciona un excelente manejo de erro
 
 ### Guía de API de PiGear:
 
-[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/PiGear#pigear-api)
-
- 
+[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/PiGear#pigear-api){:target="_blank" rel="nofollow noreferrer"}
 
 ## ScreenGear
 
 > *ScreenGear API actúa como Screen Recorder, que puede capturar fotogramas de su monitor en tiempo real, ya sea definiendo un área en la pantalla de la computadora o en pantalla completa a expensas de una latencia insignificante. También proporciona soporte aparentemente para capturar cuadros de múltiples monitores.*
 
-ScreenGear proporciona un contenedor de subprocesos múltiples de alto nivel alrededor [**de la**](https://github.com/BoboTiG/python-mss) API de la biblioteca python [**python-mss**](https://github.com/BoboTiG/python-mss) y también admite una manipulación directa y flexible de parámetros internos.
+ScreenGear proporciona un contenedor de subprocesos múltiples de alto nivel alrededor [**de la**](https://github.com/BoboTiG/python-mss){:target="_blank" rel="nofollow noreferrer"} API de la biblioteca python [**python-mss**](https://github.com/BoboTiG/python-mss){:target="_blank" rel="nofollow noreferrer"} y también admite una manipulación directa y flexible de parámetros internos.
 
 **A continuación se muestra una instantánea de una API ScreenGear en acción:**
 
@@ -220,55 +194,61 @@ ScreenGear proporciona un contenedor de subprocesos múltiples de alto nivel alr
 Código para generar el resultado anterior:
 
 ```
-# importar bibliotecas 
-de vidgear.gears import ScreenGear
- import cv2
+# import required libraries
+from vidgear.gears import PiGear
+import cv2
 
-stream = ScreenGear (). start ()
+# add various Picamera tweak parameters to dictionary
+options = {"hflip": True, "exposure_mode": "auto", "iso": 800, "exposure_compensation": 15, "awb_mode": "horizon", "sensor_mode": 0}
 
-# bucle infinito 
-mientras es  verdadero :
-  
-  frame = stream.read ()
-   # marcos de lectura
+# open pi video stream with defined parameters
+stream = PiGear(resolution = (640, 480), framerate = 60, logging = True, **options).start() 
 
-  # comprobar si el cuadro es Ninguno 
-  si el cuadro es  Ninguno :
-     # si Verdadero romper el 
-    salto de bucle infinito
-  
-  cv2.imshow ( " Marco de salida " , marco)
-   # Mostrar ventana de salida
+# loop over
+while True:
 
-  key = cv2.waitKey ( 1 ) &  0x FF 
-  # verifique 'q' presione la
-   tecla if key ==  ord ( " q " ):
-     # if 'q' presionó la tecla break 
-    break
+    # read frames from stream
+    frame = stream.read()
 
-cv2.destroyAllWindows ()
-# cerrar ventana de salida
+    # check for frame if Nonetype
+    if frame is None:
+        break
 
-stream.stop ()
-# cerrar de forma segura la transmisión de video.
+
+    # {do something with the frame here}
+
+
+    # Show output window
+    cv2.imshow("Output Frame", frame)
+
+    # check for 'q' key if pressed
+    key = cv2.waitKey(1) & 0xFF
+    if key == ord("q"):
+        break
+
+# close output window
+cv2.destroyAllWindows()
+
+# safely close video stream
+stream.stop()
 ```
 
 ### Guía de la API de ScreenGear:
 
-[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/ScreenGear#screengear-api)
+[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/ScreenGear#screengear-api){:target="_blank" rel="nofollow noreferrer"}
 
 ## WriteGear
 
 > *WriteGear maneja varias poderosas herramientas de escritura que nos brindan la libertad de hacer casi cualquier cosa imaginada con archivos multimedia.*
 
-WriteGear API proporciona un contenedor completo, flexible y robusto en torno a [**FFmpeg**](https://www.ffmpeg.org/) , un marco multimedia líder. Con WriteGear, podemos procesar cuadros de video en tiempo real en un formato comprimido sin pérdidas con cualquier especificación adecuada en solo unas pocas [líneas de códigos](https://github.com/abhiTronix/vidgear/wiki/Compression-Mode:-FFmpeg#1-writegear-bare-minimum-examplecompression-mode) fáciles . Estas especificaciones incluyen la configuración de cualquier propiedad de video / audio, como `bitrate, codec, framerate, resolution, subtitles, etc.`tareas fáciles y complejas, como la multiplexación de video con audio en tiempo real (ver este [ejemplo wiki](https://github.com/abhiTronix/vidgear/wiki/Working-with-Audio#a-live-audio-input-to-writegear-class) ). Lo mejor de todo, WriteGear le otorga la libertad de jugar con cualquier parámetro FFmpeg con su exclusiva función de Comando personalizado (consulte este [ejemplo wiki](https://github.com/abhiTronix/vidgear/wiki/Custom-FFmpeg-Commands-in-WriteGear-API#custom-ffmpeg-commands-in-writegear-api) ), mientras maneja todos los errores de manera robusta.
+WriteGear API proporciona un contenedor completo, flexible y robusto en torno a [**FFmpeg**](https://www.ffmpeg.org/){:target="_blank" rel="nofollow noreferrer"}, un marco multimedia líder. Con WriteGear, podemos procesar cuadros de video en tiempo real en un formato comprimido sin pérdidas con cualquier especificación adecuada en solo unas pocas [líneas de códigos](https://github.com/abhiTronix/vidgear/wiki/Compression-Mode:-FFmpeg#1-writegear-bare-minimum-examplecompression-mode){:target="_blank" rel="nofollow noreferrer"} fáciles . Estas especificaciones incluyen la configuración de cualquier propiedad de video / audio, como `bitrate, codec, framerate, resolution, subtitles, etc.` para las tareas fáciles y complejas, como la multiplexación de video con audio en tiempo real (ver este [ejemplo wiki](https://github.com/abhiTronix/vidgear/wiki/Working-with-Audio#a-live-audio-input-to-writegear-class){:target="_blank" rel="nofollow noreferrer"} ). Lo mejor de todo, WriteGear le otorga la libertad de jugar con cualquier parámetro FFmpeg con su exclusiva función de Comando personalizado (consulte este [ejemplo wiki](https://github.com/abhiTronix/vidgear/wiki/Custom-FFmpeg-Commands-in-WriteGear-API#custom-ffmpeg-commands-in-writegear-api){:target="_blank" rel="nofollow noreferrer"} ), mientras maneja todos los errores de manera robusta.
 
-Además de esto, WriteGear también proporciona acceso flexible a [**la API VideoWriter de OpenCV**](https://docs.opencv.org/master/dd/d9e/classcv_1_1VideoWriter.html#ad59c61d8881ba2b2da22cff5487465b5) que proporciona algunas herramientas básicas para la codificación de cuadros de video pero sin compresión.
+Además de esto, WriteGear también proporciona acceso flexible a [**la API VideoWriter de OpenCV**](https://docs.opencv.org/master/dd/d9e/classcv_1_1VideoWriter.html#ad59c61d8881ba2b2da22cff5487465b5){:target="_blank" rel="nofollow noreferrer"} que proporciona algunas herramientas básicas para la codificación de cuadros de video pero sin compresión.
 
 **WriteGear opera principalmente en los siguientes dos modos:**
 
-- **Modo de compresión:** en este modo, WriteGear utiliza [**`FFmpeg's`**](https://www.ffmpeg.org/)codificadores incorporados para codificar archivos multimedia sin pérdidas. Nos brinda la capacidad de explotar casi todos los parámetros disponibles disponibles dentro de FFmpeg, con tanta facilidad y flexibilidad y, al mismo tiempo, maneja de manera robusta todos los errores / advertencias de manera silenciosa. **Puede encontrar más información sobre este modo [aquí](https://github.com/abhiTronix/vidgear/wiki/Compression-Mode:-FFmpeg)** .
-- **Modo sin compresión:** en este modo, WriteGear utiliza la [**API de VideoWriter**](https://docs.opencv.org/3.4/d8/dfe/classcv_1_1VideoCapture.html) incorporada de OpenCV básica . Similar al modo de compresión, WriteGear también admite la manipulación de todos los parámetros disponibles en la API VideoWriter de OpenCV. Pero este modo carece de la capacidad de manipular los parámetros de codificación y otras características importantes como la compresión de video, la codificación de audio, etc. **Puede obtener información sobre este modo [aquí](https://github.com/abhiTronix/vidgear/wiki/Non-Compression-Mode:-OpenCV)** .
+- **Modo de compresión:** en este modo, WriteGear utiliza [**`FFmpeg's`**](https://www.ffmpeg.org/){:target="_blank" rel="nofollow noreferrer"} codificadores incorporados para codificar archivos multimedia sin pérdidas. Nos brinda la capacidad de explotar casi todos los parámetros disponibles disponibles dentro de FFmpeg, con tanta facilidad y flexibilidad y, al mismo tiempo, maneja de manera robusta todos los errores / advertencias de manera silenciosa. **Puede encontrar más información sobre este modo [aquí](https://github.com/abhiTronix/vidgear/wiki/Compression-Mode:-FFmpeg){:target="_blank" rel="nofollow noreferrer"}** .
+- **Modo sin compresión:** en este modo, WriteGear utiliza la [**API de VideoWriter**](https://docs.opencv.org/3.4/d8/dfe/classcv_1_1VideoCapture.html){:target="_blank" rel="nofollow noreferrer"} incorporada de OpenCV básica . Similar al modo de compresión, WriteGear también admite la manipulación de todos los parámetros disponibles en la API VideoWriter de OpenCV. Pero este modo carece de la capacidad de manipular los parámetros de codificación y otras características importantes como la compresión de video, la codificación de audio, etc. **Puede obtener información sobre este modo [aquí](https://github.com/abhiTronix/vidgear/wiki/Non-Compression-Mode:-OpenCV){:target="_blank" rel="nofollow noreferrer"}** .
 
 **El siguiente diagrama de bloques funcional muestra el funcionamiento generalizado de la API WriteGear:**
 
@@ -276,13 +256,13 @@ Además de esto, WriteGear también proporciona acceso flexible a [**la API Vide
 
 ### WriteGear API Guide:
 
-[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/WriteGear#writegear-api)
+[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/WriteGear#writegear-api){:target="_blank" rel="nofollow noreferrer"}
 
 ## NetGear
 
 > *NetGear está diseñado exclusivamente para transferir cuadros de video de forma síncrona y asíncrona entre sistemas de interconexión a través de la red en tiempo real.*
 
-NetGear implementa un contenedor de alto nivel alrededor de la biblioteca [**PyZmQ**](https://github.com/zeromq/pyzmq) python que contiene enlaces python para [ZeroMQ](http://zeromq.org/) , una biblioteca de mensajería distribuida asincrónica de alto rendimiento que tiene como objetivo ser utilizada en aplicaciones distribuidas o concurrentes. Proporciona una cola de mensajes, pero a diferencia del middleware orientado a mensajes, un sistema ZeroMQ puede ejecutarse sin un intermediario de mensajes dedicado.
+NetGear implementa un contenedor de alto nivel alrededor de la biblioteca [**PyZmQ**](https://github.com/zeromq/pyzmq){:target="_blank" rel="nofollow noreferrer"} python que contiene enlaces python para [ZeroMQ](http://zeromq.org/){:target="_blank" rel="nofollow noreferrer"}, una biblioteca de mensajería distribuida asincrónica de alto rendimiento que tiene como objetivo ser utilizada en aplicaciones distribuidas o concurrentes. Proporciona una cola de mensajes, pero a diferencia del middleware orientado a mensajes, un sistema ZeroMQ puede ejecutarse sin un intermediario de mensajes dedicado.
 
 NetGear proporciona un soporte perfecto para la transmisión bidireccional de datos entre el receptor (cliente) y el remitente (servidor) a través de patrones de mensajes síncronos bidireccionales como zmq.PAIR *(Patrón de par ZMQ)* y zmq.REQ / zmq.REP *(Patrón de solicitud / respuesta ZMQ)* .
 
@@ -294,9 +274,9 @@ Lo mejor de todo es que NetGear puede manejar de manera robusta dispositivos de 
 
 **NetGear a partir de ahora admite sin problemas tres patrones de mensajería ZeroMQ:**
 
-- [**`zmq.PAIR`**](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/pair.html) *(Patrón de par ZMQ)*
-- [**`zmq.REQ/zmq.REP`**](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/client_server.html) *(Patrón de solicitud / respuesta de ZMQ)*
-- [**`zmq.PUB/zmq.SUB`**](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/pubsub.html) *(Patrón de publicación / suscripción de ZMQ)*
+- [**`zmq.PAIR`**](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/pair.html){:target="_blank" rel="nofollow noreferrer"} *(Patrón de par ZMQ)*
+- [**`zmq.REQ/zmq.REP`**](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/client_server.html){:target="_blank" rel="nofollow noreferrer"} *(Patrón de solicitud / respuesta de ZMQ)*
+- [**`zmq.PUB/zmq.SUB`**](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/pubsub.html){:target="_blank" rel="nofollow noreferrer"} *(Patrón de publicación / suscripción de ZMQ)*
 
 **El siguiente diagrama de bloques funcional muestra el funcionamiento generalizado de la API de NetGear:**
 
@@ -304,7 +284,7 @@ Lo mejor de todo es que NetGear puede manejar de manera robusta dispositivos de 
 
 ### Guía de API de NetGear:
 
-[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/NetGear#netgear-api)
+[**>>> Guía de uso**](https://github.com/abhiTronix/vidgear/wiki/NetGear#netgear-api){:target="_blank" rel="nofollow noreferrer"}
 
 ## Instalación
 
@@ -312,44 +292,21 @@ Lo mejor de todo es que NetGear puede manejar de manera robusta dispositivos de 
 
 Antes de instalar VidGear, debe verificar que se cumplan las siguientes dependencias:
 
-- ⚠️Debe usar solo [**legados de Python compatibles**](https://github.com/abhiTronix/vidgear#supported-python-legacies) y también [**pip**](https://pip.pypa.io/en/stable/installing/) ya instalado y configurado.
+- ⚠️Debe usar solo [**legados de Python compatibles**](https://github.com/abhiTronix/vidgear#supported-python-legacies){:target="_blank" rel="nofollow noreferrer"} y también [**pip**](https://pip.pypa.io/en/stable/installing/){:target="_blank" rel="nofollow noreferrer"} ya instalado y configurado.
 
-- **`OpenCV:`**VidGear debe requerir que los binarios habilitados para Python OpenCV (3.0+) estén instalados en su máquina para sus funciones principales. Para su instalación, puede seguir estos tutoriales en línea para [Linux](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/) y [Raspberry Pi](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/) , de lo contrario, instálelo a través de pip:
+- **`OpenCV:`**VidGear debe requerir que los binarios habilitados para Python OpenCV (3.0+) estén instalados en su máquina para sus funciones principales. Para su instalación, puede seguir estos tutoriales en línea para [Linux](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/){:target="_blank" rel="nofollow noreferrer"} y [Raspberry Pi](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/){:target="_blank" rel="nofollow noreferrer"}, de lo contrario, instálelo a través de pip:
 
-	```
-	  pip3 install -U opencv-python        # o instala opencv-contrib-python de manera similar
-	```
+  ```
+    $ pip install -U opencv-python       # or install `opencv-contrib-python` similarly
+  ```
 
 - **`FFmpeg:`** VidGear debe requerir FFmpeg por sus poderosas capacidades de compresión y codificación de video. 🌟Siga esta [**página wiki de FFmpeg**](https://github.com/abhiTronix/vidgear/wiki/FFmpeg-Installation) para su instalación.🌟
 
 - **`picamera:`**Se requiere si usa módulos de cámara Raspberry Pi ( *como el módulo de cámara OmniVision OV5647* ) con su máquina Raspberry Pi. Puede instalarlo fácilmente a través de pip:
 
 	```
-	  pip3 instalar picamera
+	  $ pip install picamera
 	```
-
-	Además, asegúrese de habilitar la configuración específica de hardware de Raspberry Pi antes de usar esta biblioteca.
-
-- **`mss:`**Se requiere para usar Screen Casting. Instalarlo a través de pip:
-
-	```
-	  pip3 instalar mss
-	```
-
-- **`pyzmq:`**Se requiere para transferir cuadros de video en vivo a través del *sistema de mensajería ZeroMQ a* través de la red. Instalarlo a través de pip:
-
-	```
-	  pip3 instalar pyzmq
-	```
-
-- **`pafy:`**Se requiere para las capacidades de transmisión directa de videos de YouTube. Ambas [`pafy`](https://github.com/mps-youtube/pafy)y las últimas bibliotecas [`youtube-dl`](https://github.com/ytdl-org/youtube-dl/)( *como backend de pafy* ) deben instalarse a través de pip de la siguiente manera:
-
-	```
-	  pip3 instalar pafy
-	  pip3 install -U youtube-dl
-	```
-
- 
 
 ## Opciones de instalación disponibles:
 
@@ -425,6 +382,50 @@ Esta biblioteca tiene licencia bajo la licencia **[Apache 2.0](https://github.co
 [👉 Repositorio de Github: Vidgear 🐍](https://github.com/abhiTronix/vidgear#--){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [👉 Aprender Python y Más Librerías 🐍](/python/){: .btn .btn--info .btn--large .align-center}
 
-_____
-
 **Fuente**: [Vidgear por Abhishek Thakur](https://github.com/abhiTronix/vidgear){:target="_blank" rel="nofollow,noreferrer"}
+
+#### Índice <!-- omit in toc -->
+- [Qué es Vidgear?](#qu%c3%a9-es-vidgear)
+- [Qué hace VidGear?](#qu%c3%a9-hace-vidgear)
+- [Cuál es su propósito?](#cu%c3%a1l-es-su-prop%c3%b3sito)
+- [Engranajes](#engranajes)
+- [CamGear](#camgear)
+  - [Guía API de CamGear:](#gu%c3%ada-api-de-camgear)
+- [VideoGear](#videogear)
+  - [VideoGear API Guide:](#videogear-api-guide)
+- [PiGear](#pigear)
+  - [Guía de API de PiGear:](#gu%c3%ada-de-api-de-pigear)
+- [ScreenGear](#screengear)
+  - [Guía de la API de ScreenGear:](#gu%c3%ada-de-la-api-de-screengear)
+- [WriteGear](#writegear)
+  - [WriteGear API Guide:](#writegear-api-guide)
+- [NetGear](#netgear)
+  - [Guía de API de NetGear:](#gu%c3%ada-de-api-de-netgear)
+- [Instalación](#instalaci%c3%b3n)
+- [Prerrequisitos:](#prerrequisitos)
+- [Opciones de instalación disponibles:](#opciones-de-instalaci%c3%b3n-disponibles)
+  - [Opción 1: instalación de PyPI](#opci%c3%b3n-1-instalaci%c3%b3n-de-pypi)
+  - [Opción 2: Descarga del archivo de lanzamiento](#opci%c3%b3n-2-descarga-del-archivo-de-lanzamiento)
+  - [Opción 3: clonar el repositorio](#opci%c3%b3n-3-clonar-el-repositorio)
+- [Documentación](#documentaci%c3%b3n)
+- [Pruebas](#pruebas)
+- [Legados de Python compatibles](#legados-de-python-compatibles)
+- [Licencia](#licencia)
+  - [Relacionados](#relacionados)
+
+### Relacionados
+
+[▷ Cómo Aprender Python en 2020 🐍](/python/)
+
+[▷ Los Mejores Recursos para Aprender Python 🐍](/python-recursos/)
+
+[▷ Guía de TensorFlow](/tensorflow-guia/)
+
+[¿Por qué Python es mejor que PHP?](/porque-python-es-mejor-que-php/)
+
+[▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python 🎓](/aprendizaje-automatico-cursos-ingles/)
+
+[🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/)
+
+La **Guía sobre la librería de Vidgear** fue creada el *15 de Enero de 2020* y su última edición fue realizada el *20 de Mayo de 2020*.
+{: .notice--info}

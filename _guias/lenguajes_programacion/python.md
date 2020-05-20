@@ -1,52 +1,46 @@
 ---
-title: ▷ Cómo Aprender Python en 2020 🐍 
-description: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
-excerpt: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
+title: 🥇 ▷ Cómo Aprender Python en 2020
+description: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para convertirte en un profesional'
+excerpt: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para convertirte en un profesional'
+layout: splash
 published: true
-author_profile: true
-author_profile: true
+author_profile: false
 classes: wide
 comments: false
-date: 2019-06-30 12:06:18
-last_modified_at: 2020-01-10
+date: 2020-05-20 12:06:18
+last_modified_at:
 permalink: /python/
 header:
-  teaser: https://i.ibb.co/fGg3nNT/def-python-wallpaper-self-by-defyance75-d870pdu.png
-  overlay_image: https://i.ibb.co/fGg3nNT/def-python-wallpaper-self-by-defyance75-d870pdu.png
+  teaser: /assets/images/lenguajes/python-programadora.webp
+  overlay_image: /assets/images/lenguajes/python-programadora.webp
   overlay_filter: 0.2
   image_description: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
   image_alt: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
-  caption: "Wallpaper de Dominio Público"
   actions:
     - label: "Recursos Python"
       url: "/python-recursos/"
 ---
 
-[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién usa Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large}
-<!-- [](){: .btn .btn--inverse .btn--large} -->
-
-
-## ¿Qué es Python?
-
-Python es un lenguaje de programación de propósito general creado por Guido Van Rossum. Python es muy elogiado por su elegante sintaxis y código legible, si recién está comenzando su carrera de programación, Python se adapta a sus necesidades.
-
-Python es una herramienta en la categoría de **Idiomas** de una pila tecnológica.
-
-Python es una herramienta de código abierto con **25.2K** estrellas GitHub y **10.4K** horquillas GitHub. Aquí hay un enlace al repositorio de código abierto de Python en [GitHub](https://github.com/python/cpython).
-
-## Sobre Python
-
-Python es quizás el lenguaje de programación más fácil de usar de todos los lenguajes de la "nueva era". A menudo se dice que la sintaxis de Python es clara, intuitiva y casi de estilo inglés, lo que, como Java, la convierte en una opción popular para los principiantes.
+Python es el lenguaje de programación más fácil de usar de todos los lenguajes de la nueva era. A menudo se dice que la sintaxis de Python es clara, intuitiva y casi de estilo inglés, lo que, como Java, lo convierte en una opción popular para los principiantes.
 
 También como Java, Python tiene una variedad de aplicaciones que lo convierten en una opción versátil y poderosa al elegir el mejor lenguaje de programación para su caso de uso. Si está interesado en el desarrollo web de back-end, por ejemplo, entonces el framework de código abierto Django, escrito en Python, es popular, fácil de aprender y con muchas funciones. Django se ha utilizado en el desarrollo de algunos sitios populares como Mozilla, Instagram y Spotify.
 
 Python también tiene paquetes como NumPy y SciPy que se usan comúnmente en los campos de la computación científica, las matemáticas y la ingeniería. Otras bibliotecas de Python, como TensorFlow, PyTorch, scikit-learn y OpenCV, se utilizan para crear programas en ciencia de datos, aprendizaje automático, procesamiento de imágenes y visión por computadora. Las aplicaciones de ciencia y datos de Python lo convierten en una excelente opción para los académicos.
 
-[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [¿Quién usa Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large}
+<!-- [](){: .btn .btn--inverse .btn--large} -->
+
+## ¿Qué es Python?
+
+Python es un lenguaje de programación de propósito general creado por Guido Van Rossum. Python es muy elogiado por su elegante sintaxis y código legible, si recién está comenzando su carrera de programación, Python se adapta a sus necesidades.
+
+Python es una herramienta en la categoría de **idiomas** dentreo de las diferentes tecnologías existentes en el mundo de la programación.
+
+Python es una herramienta de código abierto con **25.2K** estrellas GitHub y **10.4K** horquillas GitHub. Aquí hay un enlace al repositorio de código abierto de Python en [GitHub](https://github.com/python/cpython){:target="_blank"}.
 
 ## ¿Quién está usando Python?
 
-<!-- https://realpython.com/world-class-companies-using-python/ --> Es utilizado por la NASA y Reddit, y su marco web, Django, también forma parte de las aplicaciones web de Instagram y Pinterest.
+<!-- https://realpython.com/world-class-companies-using-python/ --> Es utilizado por Google, ILM, Facebook, Instagram, Spotify, Quora, Netflix, Dropbox, la NASA y Reddit, y su marco web, Django, también forma parte de las aplicaciones web de Instagram y Pinterest.
 
 ### Google
 
@@ -55,16 +49,6 @@ Google ha sido partidario de Python desde casi el principio. Al principio, los f
 Incluso cuando se escribieron otros scripts para Google en Perl o Bash, estos a menudo se recodificaban en Python. La razón se debió a la facilidad de implementación y lo sencillo que es mantener Python. De hecho, según [Steven Levy](http://www.stevenlevy.com/index.php/books/in-the-plex) , autor de "In the Plex", la primera araña de rastreo web de Google se escribió por primera vez en Java 1.0 y fue tan difícil que la reescribieron en Python.
 
 Python es ahora uno de los lenguajes oficiales del servidor de Google (C ++, Java y Go son los otros tres) que pueden implementarse en producción. Y en caso de que no esté realmente seguro de cuán importante es Python para Google, el propio BDFL de Python, [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) , trabajó en Google desde 2005 hasta 2012.
-
-<!--
-- Facebook
-- Instagram
-- Spotify
-- Quora
-- Netflix
-- Dropbox
-- Reddit
--->
 
 ### ILM
 
@@ -601,14 +585,17 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 
 ### Otras Bibliotecas
 
+* [CadQuery](/impresiones-3d-modulo-python-cadquery/){:target="_blank" rel="nofollow,noreferrer"}
 * [Kaggle](https://www.kaggle.com/datasets){:target="_blank" rel="nofollow,noreferrer"}
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){:target="_blank" rel="nofollow,noreferrer"}
 * [Requests Python](https://realpython.com/python-requests/){:target="_blank" rel="nofollow,noreferrer"}
 * [SeaBorn](https://seaborn.pydata.org/examples/index.html#example-gallery){:target="_blank" rel="nofollow,noreferrer"}
+* [Sheetfu](/sheetfu-libreria-python/){:target="_blank" rel="nofollow,noreferrer"}
 * [MatPlotLib](https://matplotlib.org/users/index.html){:target="_blank" rel="nofollow,noreferrer"}
 * [Jupiter](https://jupyter.org/install.html){:target="_blank" rel="nofollow,noreferrer"}
 * [Mitogen](https://mitogen.networkgenomics.com/){:target="_blank" rel="nofollow,noreferrer"}
 * [Tessagon](https://github.com/cwant/tessagon#tessagon-tessellation--tiling-with-python){:target="_blank" rel="nofollow,noreferrer"} \ Teje tus variedades 2D favoritas con triángulos, hexágonos y otros patrones interesantes.
+* [Vidgear](/vidgear-libreria-python/)
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
 [🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--warning .btn--large .align-center}
@@ -624,3 +611,6 @@ _____
 
 [📕 Libros Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
  [🎓 Cursos Python 🐍](https://ouo.io/CNr4s3){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--info .btn--large}
+
+La **Guía de Python** fue creada el *30 de Junio de 2019* y su última edición fue realizada el *20 de Mayo de 2020*.
+{: .notice--info}

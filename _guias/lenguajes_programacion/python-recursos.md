@@ -1,24 +1,35 @@
 ---
-title: ▷ Los Mejores Recursos para Aprender Python 🐍 
-description: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Python'
-excerpt: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Python'
+title: ▷ Los mejores recursos para aprender Python 2020
+description: '🔨 Documentación, notas, chuletas y enlaces con los que Aprender el lenguaje de programación Python'
+excerpt: '🔨 Documentación, notas, chuletas y enlaces con los que Aprender el lenguaje de programación Python'
 published: true
-author_profile: true
+author_profile: false
+layout: splash
 comments: false
-date: 2019-10-08 12:06:18
-last_modified_at: 2020-01-07 16:14:12
+date: 2020-05-20 12:06:18
+last_modified_at:
 permalink: /python-recursos/
 header:
-  teaser: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
-  overlay_image: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
+  teaser: /assets/images/lenguajes/python-serpiente-tablet.webp
+  overlay_image: /assets/images/lenguajes/python-serpiente-tablet.webp
   overlay_filter: 0.2
   image_description: 'Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
   image_alt: 'Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
-  caption: "Créditos: Unsplash"
   actions:
     - label: "Aprender Python"
       url: "/python/"
 ---
+
+En la página vas a poder encontrar los mejores y más actuales recursos con los que apoyarte a la hora de comenzar la compleja tarea de aprender el lenguaje de programación: Python.
+
+Encontrarás una extensa [introducción a Python](/python/) en nuestra guía, al igual que [los mejores frameworks](/python/#cómo-desarrollar-una-aplicación-web-con-python) y [las mejores bibliotecas](/python/#bibliotecas-de-python). Además, de una incontable cantidad de recursos, dentro de nuestra página web, como por ejemplo:
+
+* [¿Por qué Python es mejor que PHP?](/porque-python-es-mejor-que-php/)
+* [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python 🎓](/aprendizaje-automatico-cursos-ingles/)
+* [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/)
+* [▷ Guía de TensorFlow](/tensorflow-guia/)
+
+A continuación, tienes los enlaces directos de libros y cursos sobre Python; tanto en español, como en inglés..
 
 [📕 Libros Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
  [🎓 Cursos Python 🐍](https://kutt.it/python-cursos){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--info .btn--large}
@@ -144,3 +155,6 @@ Automatiza las cosas aburridas con Python
 Blogs https://blog.feedspot.com/python_blogs/
 Canales de Youtube https://blog.feedspot.com/python_youtube_channels/
 -->
+
+La **Guía de Recursos de Python** fue creada el *08 de Noviembre de 2019* y su última edición fue realizada el *20 de Mayo de 2020*.
+{: .notice--info}
