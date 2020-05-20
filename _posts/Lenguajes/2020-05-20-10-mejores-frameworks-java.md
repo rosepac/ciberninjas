@@ -27,7 +27,7 @@ canonical_URL: https://ciberninjas.com/10-mejores-frameworks-java/
 permalink: /10-mejores-frameworks-java/
 date: 2020-05-20
 last_modified_at: 
-published: false
+published: true
 
 ---
 
