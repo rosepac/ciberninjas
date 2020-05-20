@@ -1,14 +1,21 @@
 ---
+layout: splash
 title: "🐍 Glosario de Tecnologías de Python: Definiciones de Términos"
-description: "Glosario de Tecnologías de Python"
-excerpt: "Glosario de Tecnologías de Python"
+description: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción."
+excerpt: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción."
 permalink: /glosario/completo-tecnologias-python/
 canonical_URL: https://ciberninjas.com/glosario/completo-tecnologias-python/
+header:
+  teaser: /assets/images/lenguajes/python-diccionarios.webp
+  overlay_image: /assets/images/lenguajes/python-diccionarios.webp
+  overlay_filter: 0.2
+  image_description: 'Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción.'
+  image_alt: 'Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción.'
 published: true
-date: 2020-05-13
+date: 2020-05-20
 last_modified_at:
 classes: wide
-author_profile: true
+author_profile: false
 
 ---
 <!-- https://glossarytech.com/terms/python/ -->
@@ -36,7 +43,7 @@ Una biblioteca para escribir código concurrente utilizando la sintaxis async / 
 
 ### **Bokeh**
 
-Una biblioteca de visualización interactiva para Python. Proporciona una construcción elegante y concisa de gráficos versátiles. Ofrece interactividad de alto rendimiento para conjuntos de datos muy grandes o de transmisión. Permite una presentación visual hermosa y significativa de los datos en los navegadores web modernos.
+Una biblioteca de visualización interactiva para Python, que proporciona una construcción elegante y concisa de gráficos versátiles. Ofrece interactividad de alto rendimiento para conjuntos de datos muy grandes o de transmisión. Permite una presentación visual hermosa y significativa de los datos en los navegadores web modernos.
 
 ### **Bottle**
 
@@ -188,6 +195,12 @@ Ecosistema de software de código abierto basado en Python para matemáticas, ci
 
 Biblioteca de visualización de Python basada en matplotlib. Proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos. Está construido sobre matplotlib y está estrechamente integrado con la pila PyData, incluido el soporte para estructuras de datos numpy y pandas y rutinas estadísticas de scipy y statsmodels.
 
+### **Sheetfu**
+
+Sheetfu es una librería de Python creada para trabajar conjunto al servicio de hojas de cálculo de Google, Google Sheets.
+
+[▶ Saber Más sobre Seetfu](/sheetfu-libreria-python/){: .btn .btn--success .btn--large .align-center}
+
 ### **StatsModels**
 
 Paquete Python que permite a los usuarios explorar datos, estimar modelos estadísticos y realizar pruebas estadísticas. Proporciona el backend estadístico para otras bibliotecas de Python. Lanzado bajo la licencia BSD modificada de código abierto (3 cláusulas). 
@@ -224,6 +237,12 @@ Framework de programación de red basado en eventos escrito en Python y licencia
 
 ## V
 
+### **Vidgear**
+
+Vidgear, es una poderosa librería dedicada al procesamiento de vídeo construida de subprocesos múltiples de la API Gears.
+
+[▶ Saber Más sobre Vidgear](/vidgear-libreria-python/){: .btn .btn--success .btn--large .align-center}
+
 ### **Virtualenv**
 
 Software, programa o sistema que implementa, gestiona y controla múltiples instancias de entorno virtual. Una herramienta para crear entornos aislados de Python . Virtualenv le permitirá definir entornos de tiempo de ejecución Python aislados sin dañar la instalación de Python raíz o del sistema.
@@ -246,4 +265,7 @@ Framework web para Python que es tan simple como poderoso. Web.py está en el do
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-[👈 Regresar al Glosario](/glosario){: .btn .btn--inverse .btn--large .align-center}
+[👈 Regresar al Glosario de Ciberninjas](/glosario){: .btn .btn--inverse .btn--large .align-center}
+
+El **glosario de Python** fue creada el *13 de Mayo de 2020* y su última edición fue realizada el *20 de Mayo de 2020*.
+{: .notice--info}
