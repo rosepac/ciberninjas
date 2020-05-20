@@ -53,6 +53,8 @@ Java es un lenguaje robusto y cuando se combina con un framework, Java puede pro
 
 Si recién estás comenzando con Java, vea [Java en vivo en acción](/java/) en este blog que te guiará a través de todos los conceptos más importantes que necesitas saber para comenzar a trabajar con los frameworks Java.
 
+[Spring](/10-mejores-frameworks-java/#1-spring){: .btn .btn--inverse .btn--large} [Struts](/10-mejores-frameworks-java/#2-struts){: .btn .btn--inverse .btn--large} [Hibernate](/10-mejores-frameworks-java/#3-hibernate){: .btn .btn--inverse .btn--large} [Apache Wicket](/10-mejores-frameworks-java/#4-apache-wicket){: .btn .btn--inverse .btn--large} [Java Server Faces](/10-mejores-frameworks-java/#5-java-server-faces){: .btn .btn--inverse .btn--large} [Dropwizard](/10-mejores-frameworks-java/#6-dropwizard){: .btn .btn--inverse .btn--large} [Grails](/10-mejores-frameworks-java/#7-grails){: .btn .btn--inverse .btn--large} [ATG](/10-mejores-frameworks-java/#8-atg){: .btn .btn--inverse .btn--large} [Play](/10-mejores-frameworks-java/#9-play){: .btn .btn--inverse .btn--large} [Apache Hadoop](/10-mejores-frameworks-java/#10-apache-hadoop){: .btn .btn--inverse .btn--large}
+
 ## ¿Qué son los frameworks de Java?
 
 Un cuerpo de código preescrito que actúa como una plantilla o esqueleto, que un desarrollador puede usar y reutilizar para crear una aplicación completando su código según sea necesario para que la aplicación funcione como se pretende que se denomine Framework.
@@ -67,7 +69,9 @@ Depende del tipo de framework, el nivel de habilidad del programador, lo que est
 
 ## ¿Por qué usar un framework Java?
 
-Los frameworks dan una estructura a sus aplicaciones. Por ejemplo, si tenemos un framework adecuado para las pruebas, podemos automatizar muchas cosas y obtener resultados precisos y consistentes. De la misma manera, si existen frameworks para ORM, aplicaciones web, registro, gestión de datos, etc., simplificará la vida de un desarrollador y le ayudará a concentrarse más en la lógica de negocios en lugar de preocuparse por las piezas de código comunes utilizadas en un dominio o aplicación.
+Los frameworks dan una estructura a sus aplicaciones. Por ejemplo, si tenemos un framework adecuado para las pruebas, podemos automatizar muchas cosas y obtener resultados precisos y consistentes.
+
+De la misma manera, si existen frameworks para ORM, aplicaciones web, registro, gestión de datos, etc., simplificará la vida de un desarrollador y le ayudará a concentrarse más en la lógica de negocios en lugar de preocuparse por las piezas de código comunes utilizadas en un dominio o aplicación.
 <!-- [CONTENIDO INTRODUCCION](https://hackr.io/blog/java-frameworks) -->
 
 ## 10 mejores frameworks de Java
@@ -78,27 +82,27 @@ Aunque hay muchos frameworks construidos en Java, aquí hay algunos frameworks d
 
 Tenga en cuenta que cada uno de estos tiene sus propios beneficios y puede funcionar mejor para diferentes usos comerciales, casos de uso, y no se puede decir cuál es mejor, porque todos son buenos en diferentes escenarios.
 
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+{: .notice--danger}
+
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
     <li><a href="/10-mejores-frameworks-java/#1-spring"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
+    <li><a href="/10-mejores-frameworks-java/#2-struts"></a></li>
+    <li><a href="/10-mejores-frameworks-java/#3-hibernate"></a></li>
+    <li><a href="/10-mejores-frameworks-java/#4-apache-wicket"></a></li>
+    <li><a href="/10-mejores-frameworks-java/#5-java-server-faces"></a></li>
+    <li><a href="/10-mejores-frameworks-java/#6-dropwizard"></a></li>
+    <li><a href="/10-mejores-frameworks-java/#7-grails"></a></li>
+    <li><a href="/10-mejores-frameworks-java/#8-atg"></a></li>
+    <li><a href="/10-mejores-frameworks-java/#9-play"></a></li>
+    <li><a href="/10-mejores-frameworks-java/#10-apache-hadoop"></a></li>
   </ol>
 </nav>
 </details>
 <br />
-
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
-{: .notice--danger}
 
 ## 1. **Spring**
 

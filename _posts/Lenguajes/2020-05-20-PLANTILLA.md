@@ -1,16 +1,17 @@
 ---
 
-author_profile: true
+author_profile: false
 comments: false
 classes: wide
+layout: splash
 tags:
 - Hacking
 categories:
 - Sistemas Operativos
 header:
   teaser: /assets/images/lenguajes/frameworks-desarrollador-java.webp
-  overlay_image: '/assets/images/lenguajes/frameworks-desarrollador-java.webp'
-  overlay_filter: ''
+  overlay_image: /assets/images/lenguajes/frameworks-desarrollador-java.webp
+  overlay_filter: 0.2
   image_description: ''
   image_alt: ''
 title: 'Los 10 + 10 mejores frameworks Java para usar en 2020'
@@ -18,8 +19,8 @@ description: >-
   Elija entre los 10 mejores frameworks de Java para usar para el desarrollo web en 2020.
 excerpt: >-
   Elija entre los 10 mejores frameworks de Java para usar para el desarrollo web en 2020.
-canonical_URL: https://ciberninjas.com/10-mejores-frameworks-java/
-permalink: /10-mejores-frameworks-java/
+canonical_URL: https://ciberninjas.com//
+permalink: //
 date: 2020-05-20
 last_modified_at: 
 published: false
