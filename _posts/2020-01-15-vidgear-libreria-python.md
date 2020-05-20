@@ -41,27 +41,27 @@ El siguiente **diagrama de bloques funcional muestra** claramente el funcionamie
 
 [![Diagrama de bloques funcionales de @Vidgear](https://camo.githubusercontent.com/7eb66b31e45072cd99ee988690242b93388705db/68747470733a2f2f6162686974726f6e69782e6769746875622e696f2f696d672f766964676561722f766964676561725f66756e6374696f6e322d30312e737667)](https://camo.githubusercontent.com/7eb66b31e45072cd99ee988690242b93388705db/68747470733a2f2f6162686974726f6e69782e6769746875622e696f2f696d672f766964676561722f766964676561725f66756e6374696f6e322d30312e737667)
 
-## Qué es Vidgear?
+## **Qué es Vidgear?**
 
-> ***"VidGear es una biblioteca Python de procesamiento de video completa [ultrarrápida](https://github.com/abhiTronix/vidgear/wiki/FAQ-&-Troubleshooting#2-vidgear-is-ultrafast-but-how) , compacta, flexible y fácil de adaptar".***
+> *"VidGear es una biblioteca Python de procesamiento de video completa [ultrarrápida](https://github.com/abhiTronix/vidgear/wiki/FAQ-&-Troubleshooting#2-vidgear-is-ultrafast-but-how) , compacta, flexible y fácil de adaptar".
 
-## Qué hace VidGear?
+## **Qué hace VidGear?**
 
-> ***"VidGear puede leer, escribir, procesar, enviar y recibir cuadros de video desde varios dispositivos en tiempo real".***
+> *"VidGear puede leer, escribir, procesar, enviar y recibir cuadros de video desde varios dispositivos en tiempo real".*
 
-## Cuál es su propósito?
+## **Cuál es su propósito?**
 
-> ***"Construido con la simplicidad en mente, VidGear permite a los programadores y desarrolladores de software integrar y realizar fácilmente tareas complejas de procesamiento de video en sus aplicaciones existentes o nuevas, sin pasar por la documentación de varias bibliotecas subyacentes y usar solo unas pocas líneas de código. Beneficioso para ambos, si eres nuevo en la programación con lenguaje Python o ya eres un profesional ".***
+> *"Construido con la simplicidad en mente, VidGear permite a los programadores y desarrolladores de software integrar y realizar fácilmente tareas complejas de procesamiento de video en sus aplicaciones existentes o nuevas, sin pasar por la documentación de varias bibliotecas subyacentes y usar solo unas pocas líneas de código. Beneficioso para ambos, si eres nuevo en la programación con lenguaje Python o ya eres un profesional ".*
 
-**Para obtener información más avanzada, consulte la [\*documentación de Wiki ➶\*](https://github.com/abhiTronix/vidgear/wiki) .**
+Para obtener información más avanzada, consulte la [\*documentación de Wiki ➶\*](https://github.com/abhiTronix/vidgear/wiki) .
 
 ## Engranajes
 
-> **VidGear está construido con varias \**API de\** subprocesos \**múltiples\** \*(también conocidas como Gears),\* cada una con alguna función / mecanismo único.**
+> *VidGear está construido con varias API de subprocesos múltiples (también conocida como Gears), cada una con alguna función / mecanismo único.*
 
 Cada una de estas API está diseñada exclusivamente para manejar / controlar diferentes transmisiones de video, transmisiones de red y codificadores de medios específicos del dispositivo. Estas API proporcionan un contenedor fácil de usar, altamente extensible y multihilo alrededor de varias bibliotecas subyacentes para explotar sus características y funciones directamente mientras proporcionan un manejo robusto de errores.
 
-**Estos engranajes se pueden clasificar de la siguiente manera:**
+Estos engranajes se pueden clasificar de la siguiente manera:
 
 **A. Engranajes de VideoCapture:**
 
@@ -86,7 +86,7 @@ CamGear proporciona un contenedor multihilo flexible de alto nivel alrededor de 
 
 Además, CamGear se implementa exclusivamente en [**modo de cola**](https://github.com/abhiTronix/vidgear/wiki/Threaded-Queue-Mode){:target="_blank" rel="nofollow noreferrer"} enhebrada para un manejo de trama sincronizado, ultrarrápido y sin errores.
 
-**El siguiente diagrama de bloques funcional simplificado muestra el funcionamiento generalizado de la API de CamGear:**
+El siguiente diagrama de bloques funcional simplificado muestra el funcionamiento generalizado de la API de CamGear:
 
 [![Diagrama de bloque funcional CamGear](https://github.com/abhiTronix/Imbakup/raw/master/Images/CamGear.png)](https://github.com/abhiTronix/Imbakup/raw/master/Images/CamGear.png)
 
@@ -386,9 +386,9 @@ Esta biblioteca tiene licencia bajo la licencia **[Apache 2.0](https://github.co
 **Fuente**: [Vidgear por Abhishek Thakur](https://github.com/abhiTronix/vidgear){:target="_blank" rel="nofollow,noreferrer"}
 
 #### Índice <!-- omit in toc -->
-- [Qué es Vidgear?](#qu%c3%a9-es-vidgear)
-- [Qué hace VidGear?](#qu%c3%a9-hace-vidgear)
-- [Cuál es su propósito?](#cu%c3%a1l-es-su-prop%c3%b3sito)
+- [**Qué es Vidgear?**](#qu%c3%a9-es-vidgear)
+- [**Qué hace VidGear?**](#qu%c3%a9-hace-vidgear)
+- [**Cuál es su propósito?**](#cu%c3%a1l-es-su-prop%c3%b3sito)
 - [Engranajes](#engranajes)
 - [CamGear](#camgear)
   - [Guía API de CamGear:](#gu%c3%ada-api-de-camgear)

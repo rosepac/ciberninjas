@@ -23,11 +23,15 @@ header:
       url: "/glosario/completo-tecnologias-python/"
 ---
 
-Python es el lenguaje de programación más fácil de usar de todos los lenguajes de la nueva era. A menudo se dice que la sintaxis de Python es clara, intuitiva y casi de estilo inglés, lo que, como Java, lo convierte en una opción popular para los principiantes.
+Python es probablemente el lenguaje de programación más fácil de usar entre todos los lenguajes de la nueva era. A menudo se dice que la sintaxis de Python es clara e intuitiva; lo que, como Java, lo convierte en una opción popular para los programadores principiantes.
 
-También como Java, Python tiene una variedad de aplicaciones que lo convierten en una opción versátil y poderosa al elegir el mejor lenguaje de programación para su caso de uso. Si está interesado en el desarrollo web de back-end, por ejemplo, entonces el framework de código abierto Django, escrito en Python, es popular, fácil de aprender y con muchas funciones. Django se ha utilizado en el desarrollo de algunos sitios populares como Mozilla, Instagram y Spotify.
+Igual que Java, Python ofrece uuna variedad amplia en sus metodologías de aplicación, que lo convierten en una opción versátil y poderosa a la hora de elegir un lenguaje de programación adecuado para tu caso de uso.
 
-Python también tiene paquetes como NumPy y SciPy que se usan comúnmente en los campos de la computación científica, las matemáticas y la ingeniería. Otras bibliotecas de Python, como TensorFlow, PyTorch, scikit-learn y OpenCV, se utilizan para crear programas en ciencia de datos, aprendizaje automático, procesamiento de imágenes y visión por computadora. Las aplicaciones de ciencia y datos de Python lo convierten en una excelente opción para los académicos.
+Si estás interesado en el desarrollo web de back-end, por ejemplo, entonces el framework de código abierto Django (escrito en Python) es muy conocido, y además es fácil de aprender y posee muchas funciones; también Django, es utilizado en el desarrollo de aplicaciones y páginas web muy populares como por ejemplo: Instagram, Spotify o Mozilla.
+
+Python también tiene muchos "paquetes", "librerías" o "bibliotecas" de código; como NumPy y SciPy, que se usan comúnmente en los campos de la computación, las ciencias, las matemáticas y la ingeniería.
+
+Otras bibliotecas de Python, como TensorFlow, PyTorch, scikit-learn y OpenCV, se utilizan para crear programas en ciencia de datos, aprendizaje automático, procesamiento de imágenes y visión por computadora. Las aplicaciones de ciencia y datos de Python lo convierten en una excelente opción para los académicos.
 
 [¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [¿Quién usa Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large}
 <!-- [](){: .btn .btn--inverse .btn--large} -->
