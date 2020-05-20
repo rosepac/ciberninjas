@@ -1,5 +1,6 @@
 ---
 author_profile: false
+layout: splash
 title: '▷ Vidgear: Librería de Python para el procesamiento de vídeo 🐍'
 description: "Librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"
 excerpt: "Librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"
@@ -32,7 +33,7 @@ header:
 # toc_sticky: true
 ---
 
-![](/assets/images/blog/vidgear-libreria-python.webp "")
+![Vidgear, librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras](/assets/images/blog/vidgear-libreria-python.webp "Vidgear, librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras")
 
 VidGear es una poderosa biblioteca de procesamiento de video en Python construida con [**Gears de**](https://github.com/abhiTronix/vidgear#gears){:target="_blank" rel="nofollow noreferrer"} subprocesos múltiples, cada uno con un conjunto único de características innovadoras. Estas API proporcionan un contenedor fácil de usar, altamente extensible y multihilo alrededor de muchas bibliotecas subyacentes de última generación como *[OpenCV ➶](https://github.com/opencv/opencv){:target="_blank" rel="nofollow noreferrer"}, [FFmpeg ➶](https://www.ffmpeg.org/){:target="_blank" rel="nofollow noreferrer"}, [picamera ➶](https://github.com/waveform80/picamera){:target="_blank" rel="nofollow noreferrer"}, [pafy ➶](https://github.com/mps-youtube/pafy){:target="_blank" rel="nofollow noreferrer"}, [pyzmq ➶](https://github.com/zeromq/pyzmq){:target="_blank" rel="nofollow noreferrer"} y [python-mss ➶](https://github.com/BoboTiG/python-mss){:target="_blank" rel="nofollow noreferrer"}*.
 
