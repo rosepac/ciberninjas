@@ -3,6 +3,7 @@
 author_profile: false
 comments: false
 classes: wide
+layout: splash
 tags:
 - Java
 - Spring
