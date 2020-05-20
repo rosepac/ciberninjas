@@ -19,6 +19,8 @@ header:
   actions:
     - label: "Recursos Python"
       url: "/python-recursos/"
+    - label: "glosario Python"
+      url: "/glosario/completo-tecnologias-python/"
 ---
 
 Python es el lenguaje de programación más fácil de usar de todos los lenguajes de la nueva era. A menudo se dice que la sintaxis de Python es clara, intuitiva y casi de estilo inglés, lo que, como Java, lo convierte en una opción popular para los principiantes.

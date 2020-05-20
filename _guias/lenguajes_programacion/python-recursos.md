@@ -17,7 +17,9 @@ header:
   image_alt: 'Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
   actions:
     - label: "Aprender Python"
-      url: "/python/"
+	  url: "/python/"
+	- label: "Glosario Python"
+	  url: "/glosario/completo-tecnologias-python/"
 ---
 
 En la página vas a poder encontrar los mejores y más actuales recursos con los que apoyarte a la hora de comenzar la compleja tarea de aprender el lenguaje de programación: Python.
@@ -29,10 +31,9 @@ Encontrarás una extensa [introducción a Python](/python/) en nuestra guía, al
 * [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/)
 * [▷ Guía de TensorFlow](/tensorflow-guia/)
 
-A continuación, tienes los enlaces directos de libros y cursos sobre Python; tanto en español, como en inglés..
+A continuación, tienes los enlaces directos a libros y cursos sobre Python; tanto en español, como en inglés..
 
-[📕 Libros Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
- [🎓 Cursos Python 🐍](https://kutt.it/python-cursos){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--info .btn--large}
+[📕 Libros Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [🎓 Cursos Python 🐍](https://kutt.it/python-cursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}  [📕 Libros en Inglés 🐍](/biblioteca-de-programacion-y-tecnologia-ingles/#python-){: .btn .btn--info .btn--large .align-center} [🎓 Cursos en Inglés 🐍](/cursos-tecnologia-ingles/#python-){: .btn .btn--info .btn--large .align-center}
 
 [Artículos Python](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large} [Chuletas de Python](https://ciberninjas.com/python-recursos/#chuletas--de-consulta){: .btn .btn--inverse .btn--large} [Probar Código](/python-recursos/#probar-código){: .btn .btn--inverse .btn--large} [Artículos Python?](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large}
 
@@ -136,21 +137,15 @@ Esta es una chuleta que ya ha sido descargada por más de 23.000 programadores p
 
 <!-- wiki python en español: https://wiki.python.org/moin/SpanishLanguage) -->
 <!-- Búsqueda de librerías alternativas Python que debes conocer > https://www.google.com/search?q=20-python-libraries-you-arent-using-but-should&sourceid=ie7&rls=com.microsoft:en-US&ie=utf8&oe=utf8 -->
-
 <!-- Libro 20 bibliotecas que debes conocer > https://www.oreilly.com/library/view/20-python-libraries/9781492037866/ -->
+* [Wiki de Python en Español](https://wiki.python.org/moin/SpanishLanguage){:target="_blank" rel="nofollow,noreferrer"}
+* [Wiki de Python en Inglés](https://wiki.python.org/moin/FrontPage){:target="_blank" rel="nofollow,noreferrer"}
 
-* [Hackr.IO Python](https://hackr.io/tutorials/learn-python?sort=upvotes&type_tags%5B%5D=1&medium_tags%5B%5D=6&languages%5B%5D=en){:target="_blank" rel="nofollow,noreferrer"}
-
-## Saber Más..
+### Relacionados
 
 [🐍 Aprender Python 🐍](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-## Relacionados
-
 [🐍 Aprender Aprendizaje Profundo 🐍](/que-aprender-sobre-machine-learning-2020/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-Automatiza las cosas aburridas con Python
 <!-- 
 Blogs https://blog.feedspot.com/python_blogs/
 Canales de Youtube https://blog.feedspot.com/python_youtube_channels/

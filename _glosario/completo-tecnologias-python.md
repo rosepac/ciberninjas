@@ -11,6 +11,11 @@ header:
   overlay_filter: 0.2
   image_description: 'Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción.'
   image_alt: 'Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción.'
+  actions:
+    - label: "Recursos Python"
+	  url: "/python-recursos/"
+	- label: "Aprender Python"
+	  url: "/python/"
 published: true
 date: 2020-05-20
 last_modified_at:
@@ -19,7 +24,7 @@ author_profile: false
 
 ---
 <!-- https://glossarytech.com/terms/python/ -->
-[👈 Regresar al Glosario](/glosario){: .btn .btn--inverse .btn--large .align-center}
+[👈 Regresar al Glosario de Ciberninjas](/glosario){: .btn .btn--inverse .btn--large .align-center}
 
 *****
 <!-- https://glossarytech.com/terms/python/page2 -->
@@ -111,7 +116,7 @@ Un motor de plantillas para Python . Ofrece un poderoso conjunto de herramientas
 
 Biblioteca de Python para el desarrollo rápido de aplicaciones que utilizan interfaces de usuario innovadoras, como aplicaciones multitáctiles. Se usa para hacer aplicaciones móviles con python. Puede ejecutarse en Android , iOS , Linux , OS X y Windows.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## M
 
@@ -119,7 +124,7 @@ Biblioteca de Python para el desarrollo rápido de aplicaciones que utilizan int
 
 Biblioteca de trazado 2D de Python que produce cifras de calidad de publicación en una variedad de formatos impresos y entornos interactivos en todas las plataformas. Matplotlib se puede usar en scripts Python, el shell Python e IPython, el cuaderno jupyter, los servidores de aplicaciones web y cuatro kits de herramientas de interfaz gráfica de usuario.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## N
 
@@ -127,7 +132,7 @@ Biblioteca de trazado 2D de Python que produce cifras de calidad de publicación
 
 Paquete fundamental para computación científica con Python . NumPy es la biblioteca principal en Python para la manipulación de matrices y, por lo tanto, una gran parte del cálculo numérico y científico basado en este lenguaje.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## P
 
@@ -171,7 +176,7 @@ Lenguaje de programación de uso general popular cuya filosofía se centra princ
 
 Una biblioteca de aprendizaje automático de código abierto para Python . Proporciona una ruta perfecta desde la creación de prototipos de investigación hasta la implementación de producción. De acuerdo con la antorcha.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## S
 
@@ -199,7 +204,7 @@ Biblioteca de visualización de Python basada en matplotlib. Proporciona una int
 
 Sheetfu es una librería de Python creada para trabajar conjunto al servicio de hojas de cálculo de Google, Google Sheets.
 
-[▶ Saber Más sobre Seetfu](/sheetfu-libreria-python/){: .btn .btn--success .btn--large .align-center}
+[▶ Saber Más sobre Seetfu](/sheetfu-libreria-python/){: .btn .btn--danger .btn--large .align-center}
 
 ### **StatsModels**
 
@@ -213,7 +218,7 @@ Es una biblioteca ligera de Python para computación simbólica. SymPy puede amp
 
 Herramienta de manipulación de bases de datos para python que se puede utilizar como biblioteca independiente para manipular bases de datos relacionales. La alquimia SQL proporciona expresiones sql básicas basadas en python y ORM basado en python orientado a objetos . También proporciona una sintaxis declarativa de alto nivel para ORM por simplicidad.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## T
 
@@ -233,7 +238,7 @@ Una versión del servidor web escalable y sin bloqueo y las herramientas que imp
 
 Framework de programación de red basado en eventos escrito en Python y licenciado bajo la Licencia MIT. Los proyectos retorcidos son compatibles con TCP , UDP , SSL / TLS, multidifusión IP, sockets de dominio Unix, una gran cantidad de protocolos y mucho más.
 
-[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--large .btn--inverse}
+[🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## V
 
@@ -241,7 +246,7 @@ Framework de programación de red basado en eventos escrito en Python y licencia
 
 Vidgear, es una poderosa librería dedicada al procesamiento de vídeo construida de subprocesos múltiples de la API Gears.
 
-[▶ Saber Más sobre Vidgear](/vidgear-libreria-python/){: .btn .btn--success .btn--large .align-center}
+[▶ Saber Más sobre Vidgear](/vidgear-libreria-python/){: .btn .btn--danger .btn--large .align-center}
 
 ### **Virtualenv**
 
@@ -264,7 +269,6 @@ Framework web para Python que es tan simple como poderoso. Web.py está en el do
  GUI toolkit para Python que es un contenedor alrededor de la biblioteca wxWidgets C ++ GUI. wxPython proporciona una gran variedad de tipos de ventanas y controles, todos implementados con una apariencia nativa (mediante el uso de widgets nativos) en las plataformas en las que es compatible.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
 [👈 Regresar al Glosario de Ciberninjas](/glosario){: .btn .btn--inverse .btn--large .align-center}
 
 El **glosario de Python** fue creada el *13 de Mayo de 2020* y su última edición fue realizada el *20 de Mayo de 2020*.
