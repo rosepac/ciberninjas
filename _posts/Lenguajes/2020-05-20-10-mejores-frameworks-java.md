@@ -10,14 +10,31 @@ tags:
 - Hibernate
 - Grails
 - Apache Hadoop
+- Apache Wicket
+- Java Server Faces
+- Dropwizard
+- ATG
+- Play
+- Vaadin
+- Spark
+- OpenXava
+- Tapestry
+- Jersey
+- OSGI
+- Drools
+- MyBatis
+- Apache Mina
 categories:
 - Frameworks Multiplataforma
 header:
-  teaser: /assets/images/lenguajes/frameworks-desarrollador-java.webp
+  teaser: /assets/images/lenguajes/framework-desarrollador-java.webp
   overlay_image: /assets/images/lenguajes/frameworks-desarrollador-java.webp
   overlay_filter: 0.2
   image_description: 'Elija entre los 10 mejores frameworks de Java para usar para el desarrollo web en 2020.'
   image_alt: 'Elija entre los 10 mejores frameworks de Java para usar para el desarrollo web en 2020.'
+  actions:
+    - label: "Aprender Java"
+      url: "/java/"
 title: 'Los 10 + 10 mejores frameworks Java en 2020'
 description: >-
   Elija entre los 10 mejores frameworks de Java para usar para el desarrollo web en 2020.

@@ -19,7 +19,7 @@ header:
   actions:
     - label: "Recursos Python"
       url: "/python-recursos/"
-    - label: "glosario Python"
+    - label: "Glosario Python"
       url: "/glosario/completo-tecnologias-python/"
 ---
 
