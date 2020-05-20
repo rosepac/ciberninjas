@@ -30,7 +30,9 @@ Espero que estos enlaces puedan ser de ayuda y ojalá; lleguen a suplir aunque s
 
 > **¡A la almendrilla!**
 
-[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[CMS para Jekyll](/jekyll/#cms-para-jekyll){: .btn .btn--inverse .btn--large} [Montaje y Pruebas](/jekyll/#montaje-y-pruebas){: .btn .btn--inverse .btn--large} [SEO de Jekyll](/jekyll/#seo){: .btn .btn--inverse .btn--large} [Plugins de Jekyll](/jekyll/#plugins-de-importaci%c3%b3n){: .btn .btn--inverse .btn--large} [Enlaces Externos de Jekyll](/jekyll/#enlaces-externos){: .btn .btn--inverse .btn--large} [Minimal Mistakes](/jekyll/#plantilla-de-minimal-mistakes){: .btn .btn--inverse .btn--large} [Popurrí de Enlaces](/jekyll/#enlaces-por-investigar-y-por-organizar){: .btn .btn--inverse .btn--large}
+
+[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## CMS para Jekyll
 
@@ -63,7 +65,7 @@ Otro por menor, que te va a surgir a la hora de su utilización; es que deberas 
 * [El CMS en la Nube para Jekyll](https://cloudcannon.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## Montaje y Pruebas
 
@@ -90,7 +92,7 @@ Colección de enlaces que he ido guardando con los que poder aprender el uso lo 
 * [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/ "Chuleta de todos los emoticonos suportados dentro de la Gema de Ruby Gemoji"){:target="_blank" rel="nofollow,noreferrer"}: Lista de Emojis / Emoticonos que pueden ser usados al estilo de los emoticones de Github :+1:
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ### Comercio Electrónico
 
@@ -113,7 +115,7 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 * [Instalar Buscador Algoria + Travis CI](https://community.algolia.com/jekyll-algolia/github-pages.html){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ### Temas de Jekyll
 
@@ -126,7 +128,7 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 * [Videotutoriales de Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs "Videotutoriales en inglés sobre Jekyll paso a paso"){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## Plantilla de Minimal Mistakes
 
@@ -182,7 +184,7 @@ Si deseas ingresa la etiqueta _más_ o también conocida como _more_ en tus publ
 `excerpt_separator: "<!--more-->"`
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ### Configuración de la Plantilla Minimal Mistakes
 
@@ -202,7 +204,7 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
 2. Cambiar dentro del fichero `_sass/minimal-mistakes.scss` las variables redactadas en el paso anterior citando la fuente adecuada.
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## Enlaces por Investigar y por Organizar
 
