@@ -31,18 +31,16 @@ Si estás interesado en el desarrollo web de back-end, por ejemplo, entonces el 
 
 Python también tiene muchos "paquetes", "librerías" o "bibliotecas" de código; como NumPy y SciPy, que se usan comúnmente en los campos de la computación, las ciencias, las matemáticas y la ingeniería.
 
-Otras bibliotecas de Python, como TensorFlow, PyTorch, scikit-learn y OpenCV, se utilizan para crear programas en ciencia de datos, aprendizaje automático, procesamiento de imágenes y visión por computadora. Las aplicaciones de ciencia y datos de Python lo convierten en una excelente opción para los académicos.
+Otras bibliotecas de Python, como TensorFlow, PyTorch, scikit-learn y OpenCV; son utilizadas para crear programas en ciencia de datos, aprendizaje automático, procesamiento de imágenes y visión por computadora. Las aplicaciones de ciencia y datos de Python lo convierten en una excelente opción para los académicos.
 
 [¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [¿Quién usa Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large}
 <!-- [](){: .btn .btn--inverse .btn--large} -->
 
 ## ¿Qué es Python?
 
-Python es un lenguaje de programación de propósito general creado por Guido Van Rossum. Python es muy elogiado por su elegante sintaxis y código legible, si recién está comenzando su carrera de programación, Python se adapta a sus necesidades.
+Python, es un lenguaje de programación de propósito general creado por Guido Van Rossum. Python es muy elogiado por su elegante sintaxis y código legible, si recién está comenzando su carrera de programación, Python se adapta a sus necesidades.
 
-Python es una herramienta en la categoría de **idiomas** dentreo de las diferentes tecnologías existentes en el mundo de la programación.
-
-Python es una herramienta de código abierto con **25.2K** estrellas GitHub y **10.4K** horquillas GitHub. Aquí hay un enlace al repositorio de código abierto de Python en [GitHub](https://github.com/python/cpython){:target="_blank"}.
+Python, es un proyecto de código abierto que posee **25.2K** estrellas GitHub y **10.4K** horquillas GitHub. Aquí hay un enlace al repositorio de código abierto de Python en [GitHub](https://github.com/python/cpython){:target="_blank"}.
 
 ## ¿Quién está usando Python?
 
