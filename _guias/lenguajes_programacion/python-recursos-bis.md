@@ -8,6 +8,7 @@ comments: false
 date: 2019-10-08 12:06:18
 last_modified_at: 
 permalink: /python-recursos/
+canonical: 
 header:
   teaser: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
   overlay_image: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg

@@ -13,9 +13,9 @@ header:
   image_alt: 'Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción.'
   actions:
     - label: "Recursos Python"
-	  url: "/python-recursos/"
-	- label: "Aprender Python"
-	  url: "/python/"
+	    url: "/python-recursos/"
+	  - label: "Aprender Python"
+	    url: "/python/"
 published: true
 date: 2020-05-20
 last_modified_at:
