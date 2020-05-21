@@ -12,9 +12,9 @@ header:
   teaser: /assets/images/blog/javalin-framework-2.webp
   overlay_image: /assets/images/blog/javalin-framework-2.webp
   overlay_filter: 0.2
-  image_description: Javalin es un framework web liviano para Java y Kotlin diseñado para ser simple y bloqueador por defecto, admitiendo sockets web, HTTP2 y solicitudes asíncronas
-  image_alt: Javalin es un framework web liviano para Java y Kotlin diseñado para ser simple y bloqueador por defecto, admitiendo sockets web, HTTP2 y solicitudes asíncronas
-title: Javalin: Framework web ligero de Java y Kotlin. Cree API REST en Java o Kotlin fácilmente
+  image_description: 'Javalin es un framework web liviano para Java y Kotlin diseñado para ser simple y bloqueador por defecto, admitiendo sockets web, HTTP2 y solicitudes asíncronas'
+  image_alt: 'Javalin es un framework web liviano para Java y Kotlin diseñado para ser simple y bloqueador por defecto, admitiendo sockets web, HTTP2 y solicitudes asíncronas'
+title: 'Javalin: Framework web ligero de Java y Kotlin. Cree API REST en Java o Kotlin fácilmente'
 description: >-
   Javalin es un framework web liviano para Java y Kotlin diseñado para ser simple y bloqueador por defecto, admitiendo sockets web, HTTP2 y solicitudes asíncronas
 excerpt: >-

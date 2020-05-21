@@ -436,4 +436,4 @@ El mejor framework para su aplicación debe cumplir con los requisitos de su neg
 
 Por ejemplo, para un framework de desarrollo web de pila completa (full-stack) si se encuentra algo que deba ser cambiado, debería impactar menos sobre la aplicación, es decir, no deberías de tener que construir e implementar la aplicación nuevamente para la realización exclusiva de pequeños cambios. Solamente con un cambio de configuración deberías poder hacer la magia suficiente como para realizarlo. Dichas aplicaciones ahorran tiempo de inactividad y proporcionan flexibilidad.
 
-Elija el framework para la aplicación sabiamente, si quierse disfrutar de todas las características que te proporciona Java.
+Elija el framework para la aplicación sabiamente, si quieres disfrutar de todas las características que te proporciona Java.
