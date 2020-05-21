@@ -27,9 +27,9 @@ published: true
 
 ---
 
-![Logo del framework Javalin para trabajar de forma sencilla junto a Java y Kotlin](/assets/images/blog/javalin-framework.webp "Logo del framework Javalin para trabajar de forma sencilla junto a Java y Kotlin")
-
 ## **¿Qué es Javalin?**
+
+![Logo del framework Javalin para trabajar de forma sencilla junto a Java y Kotlin](/assets/images/blog/javalin-framework.webp "Logo del framework Javalin para trabajar de forma sencilla junto a Java y Kotlin")
 
 Javalin es un framework web liviano para Kotlin y Java diseñado para ser simple y bloqueador de forma predeterminada, admitiendo WebSockets, HTTP2 y solicitudes asíncronas. Javalin comenzó como una bifurcación del framework de SparkJava, pero rápidamente se convirtió en una reescritura desde cero influenciada por el framework de JavaScript koa.js.
 

@@ -17,7 +17,7 @@ header:
   image_alt: 'Los mejores recursos, chuletas y enlaces con los que aprender Python'
   actions:
     - label: 'Aprender Python'
-	  url: '/python/'
+      url: '/python/'
 	- label: 'Glosario Python'
 	  url: '/glosario/completo-tecnologias-python/'
 ---

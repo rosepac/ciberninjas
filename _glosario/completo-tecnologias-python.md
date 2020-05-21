@@ -19,7 +19,7 @@ header:
   actions:
     - label: 'Recursos Python'
       url: '/python-recursos/'
-	  - label: 'Aprender Python'
+    - label: 'Aprender Python'
       url: '/python/'
 
 ---
