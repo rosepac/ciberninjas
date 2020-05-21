@@ -89,16 +89,16 @@ Tenga en cuenta que cada uno de estos tiene sus propios beneficios y puede funci
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/10-mejores-frameworks-java/#1-spring"></a></li>
-    <li><a href="/10-mejores-frameworks-java/#2-struts"></a></li>
-    <li><a href="/10-mejores-frameworks-java/#3-hibernate"></a></li>
-    <li><a href="/10-mejores-frameworks-java/#4-apache-wicket"></a></li>
-    <li><a href="/10-mejores-frameworks-java/#5-java-server-faces"></a></li>
-    <li><a href="/10-mejores-frameworks-java/#6-dropwizard"></a></li>
-    <li><a href="/10-mejores-frameworks-java/#7-grails"></a></li>
-    <li><a href="/10-mejores-frameworks-java/#8-atg"></a></li>
-    <li><a href="/10-mejores-frameworks-java/#9-play"></a></li>
-    <li><a href="/10-mejores-frameworks-java/#10-apache-hadoop"></a></li>
+    <li><a href="/10-mejores-frameworks-java/#1-spring">Spring</a></li>
+    <li><a href="/10-mejores-frameworks-java/#2-struts">Struts</a></li>
+    <li><a href="/10-mejores-frameworks-java/#3-hibernate">Hibernate</a></li>
+    <li><a href="/10-mejores-frameworks-java/#4-apache-wicket">Apache Wicket</a></li>
+    <li><a href="/10-mejores-frameworks-java/#5-java-server-faces">Java Server Faces</a></li>
+    <li><a href="/10-mejores-frameworks-java/#6-dropwizard">Dropwizard</a></li>
+    <li><a href="/10-mejores-frameworks-java/#7-grails">Grails</a></li>
+    <li><a href="/10-mejores-frameworks-java/#8-atg">ATG</a></li>
+    <li><a href="/10-mejores-frameworks-java/#9-play">Play</a></li>
+    <li><a href="/10-mejores-frameworks-java/#10-apache-hadoop">Apache Hadoop</a></li>
   </ol>
 </nav>
 </details>
