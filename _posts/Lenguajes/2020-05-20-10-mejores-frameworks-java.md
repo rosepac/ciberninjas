@@ -106,6 +106,8 @@ Tenga en cuenta que cada uno de estos tiene sus propios beneficios y puede funci
 
 ## 1. **Spring**
 
+![Logotipo oficial del framework Java: Spring](/assets/images/framework-java/spring.webp "Logotipo oficial del framework Java: Spring")
+
 Con su concepto de inyección de dependencias y funciones de programación orientadas a aspectos, Spring asalto el mundo del desarrollo. Es un framework de código abierto utilizado para aplicaciones empresariales.
 
 Con Spring, los desarrolladores pueden crear módulos acoplados libremente donde las dependencias son manejadas por el framework en lugar de depender de las bibliotecas del código.
@@ -125,6 +127,8 @@ Con todo configurado, su código será limpio y fácil de comprender.
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 2. **Struts**
+
+![Logotipo oficial del framework Java: Struts](/assets/images/framework-java/apache-struts.webp "Logotipo oficial del framework Java: Struts")
 
 Apache Struts es otro framework robusto de código abierto para aplicaciones web. Sigue el modelo MVC (Modelo-Vista-Controlador) y extiende la API JSP.
 
@@ -146,6 +150,8 @@ Los puntales son fáciles de configurar y proporcionan mucha más flexibilidad y
 
 ## 3. **Hibernate**
 
+![Logotipo oficial del framework Java: Hibernate](/assets/images/framework-java/hibernate.webp "Logotipo oficial del framework Java: Hibernate")
+
 Aunque Hibernate no es un framework completo, cambió por completo la forma en que miramos la base de datos. Implementación de Java Persistence API (JPA), Hibernate es una base de datos Object-Relational-Mapping (ORM) para aplicaciones Java. Al igual que SQL, las consultas en Hibernate se llaman HQL (Hibernate Query Language).
 
 Hibernate asigna directamente las clases de Java a las tablas de bases de datos correspondientes y viceversa.
@@ -156,11 +162,13 @@ Hibernate resuelve los dos problemas principales con JDBC: JDBC no admite la rel
 
 Hibernate proporciona una capa de abstracción para que el código se acople libremente con la base de datos. Cosas como establecer una conexión de base de datos, Hibernate se encarga de realizar operaciones CRUD, por lo que los desarrolladores no necesitan implementar eso, por lo tanto, hacen que el código sea independiente de la base de datos utilizada.
 
-[💻 Framework Hibernate](https://hibernate.org/{: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💻 Framework Hibernate](https://hibernate.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [📑 Documentación Hibernate Framework](https://hibernate.org/orm/documentation/5.3/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 4. **Apache Wicket**
+
+![Logotipo oficial del framework Java: Apacke Wicket](/assets/images/framework-java/apache-wicket.webp "Logotipo oficial del framework Java: Apacke Wicket")
 
 Si ya ha trabajado con JSP, el wicket de aprendizaje será un juego de niños. Wicket, un framework de aplicaciones web simple, tiene una estructura orientada a componentes y todo lo que necesita saber es Java y HTML. ¡Absolutamente ningún XML o archivos de configuración!
 
@@ -173,6 +181,8 @@ Wicket es liviano y puedes crear aplicaciones realmente rápido. También es fá
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 5. **Java Server Faces**
+
+![Logotipo oficial del framework Java: Server Faces](/assets/images/framework-java/java-server.webp "Logotipo oficial del framework Java: Server Faces")
 
 No confunda JSF con JSP, que es solo un documento de texto que puede tener contenido estático y dinámico. Oracle desarrolla JSF como parte de Java Enterprise Edition 7.
 
@@ -188,6 +198,8 @@ JSF se puede integrar sin problemas con componentes habilitados para AJAX para e
 
 ## 6. **Dropwizard**
 
+![Logotipo oficial del framework Java Dropwizard](/assets/images/framework-java/dropwizard.webp "Logotipo oficial del framework Java Dropwizard")
+
 Otro framework de Java fiel a su nombre: asistente. Este framework liviano le permite completar su aplicación muy rápido debido a que es compatible con configuraciones avanzadas, registros, métricas de aplicaciones y mucho más. Puede crear aplicaciones web RESTful que ofrezcan un alto rendimiento, sean estables y confiables.
 
 Dropwizard es especialmente mágico porque reúne una gran cantidad de bibliotecas como Jetty, Guava, Jersey, Jackson y Metrics entre muchas otras del ecosistema Java en un solo framework y le brinda una aplicación ligera y ligera.
@@ -201,6 +213,8 @@ Dropwizard es un framework de código abierto que se incluye con las bibliotecas
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 7. **Grails**
+
+![Logotipo oficial del framework Java: Grails](/assets/images/framework-java/grails.webp "Logotipo oficial del framework Java: Grails")
 
 Grails es un framework completo fácil de aprender, muy adecuado para aquellos que recién comienzan su carrera de programación. Si bien Grails es un framework web escrito en lenguaje de programación Groovy, se ejecuta en la plataforma Java y es perfectamente compatible con la sintaxis Java. Este framework se basa en el patrón de diseño MVC.
 
@@ -217,6 +231,8 @@ La mejor manera de aprender Grails es configurar su propio entorno de desarrollo
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 8. **ATG**
+
+![Logotipo oficial del framework Java: ATG](/assets/images/framework-java/atg.webp "Logotipo oficial del framework Java: ATG")
 
 ATG es una plataforma de comercio web escrita en Java. Es un framework personalizable y configurable, particularmente útil para sitios web relacionados con el comercio electrónico. El producto es propiedad de Oracle y admite aplicaciones B2B y B2C que son complejas y enormes. Sin embargo, para aplicaciones a pequeña escala, podría ser costoso. Si está entrando en el desarrollo de sitios web de comercio electrónico, ATG es un buen framework para aprender y enriquecerá su conocimiento técnico y de dominio.
 
@@ -236,6 +252,8 @@ ATG es un framework extenso y necesita tiempo y paciencia para aprenderlo. Varia
 
 ## 9. **Play**
 
+![Logotipo oficial del framework Java: Play](/assets/images/framework-java/play.webp "Logotipo oficial del framework Java: Play")
+
 Play es un tipo de framework ligeramente convencional y único que sigue el enfoque de la convención sobre la configuración. Se basa en el patrón MVC y es un framework de aplicación web de código abierto. Además de Java, puede escribir aplicaciones web Play en [Scala](https://hackr.io/tutorials/learn-scala){:target="_blank" rel="nofollow,noreferrer"}.
 
 Play es similar a Django o Ruby on Rails o la arquitectura ASP.NET y no necesariamente sigue los estándares web J2EE.
@@ -254,6 +272,8 @@ Algunas características de Play son:
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 10. **Apache Hadoop**
+
+![](/assets/images/framework-java/.webp "Logotipo oficial del framework ")
 
 Aunque Apache Hadoop no es un framework completo, proporciona un framework de software y funciona en el modelo de programación MapReduce. Estas utilidades pueden manejar fácilmente grandes volúmenes de datos (Big Data), almacenarlos, analizarlos y procesarlos para proporcionar resultados más rápidos y más eficientes.
 

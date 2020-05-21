@@ -21,7 +21,7 @@ excerpt: >-
   'Javalin es un framework web liviano para Java y Kotlin diseñado para ser simple y bloqueador por defecto, admitiendo sockets web, HTTP2 y solicitudes asíncronas'
 canonical_URL: https://ciberninjas.com/javalin-framework/
 permalink: /javalin-framework/
-date: 2020-05-21 18:32:32
+date: 2020-05-21 11:32:32
 last_modified_at: 
 published: true
 
