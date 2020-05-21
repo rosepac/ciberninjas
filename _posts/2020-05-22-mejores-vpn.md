@@ -21,7 +21,7 @@ excerpt: >-
   Una VPN gratuita es un software que te da acceso a una red de servidor VPN, junto con el software necesario, sin tener que pagar nada.
 canonical_URL: https://ciberninjas.com/mejores-vpn-windows/
 permalink: /mejores-vpn-windows/
-date: 2020-05-22
+date: 2020-05-21 19:30:05
 last_modified_at: 
 published: true
 

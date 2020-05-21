@@ -53,7 +53,28 @@ Java es un lenguaje robusto y cuando se combina con un framework, Java puede pro
 
 Si recién estás comenzando con Java, vea [Java en vivo en acción](/java/) en este blog que te guiará a través de todos los conceptos más importantes que necesitas saber para comenzar a trabajar con los frameworks Java.
 
-[Spring](/10-mejores-frameworks-java/#1-spring){: .btn .btn--inverse .btn--large} [Struts](/10-mejores-frameworks-java/#2-struts){: .btn .btn--inverse .btn--large} [Hibernate](/10-mejores-frameworks-java/#3-hibernate){: .btn .btn--inverse .btn--large} [Apache Wicket](/10-mejores-frameworks-java/#4-apache-wicket){: .btn .btn--inverse .btn--large} [Java Server Faces](/10-mejores-frameworks-java/#5-java-server-faces){: .btn .btn--inverse .btn--large} [Dropwizard](/10-mejores-frameworks-java/#6-dropwizard){: .btn .btn--inverse .btn--large} [Grails](/10-mejores-frameworks-java/#7-grails){: .btn .btn--inverse .btn--large} [ATG](/10-mejores-frameworks-java/#8-atg){: .btn .btn--inverse .btn--large} [Play](/10-mejores-frameworks-java/#9-play){: .btn .btn--inverse .btn--large} [Apache Hadoop](/10-mejores-frameworks-java/#10-apache-hadoop){: .btn .btn--inverse .btn--large}
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li><a href="/10-mejores-frameworks-java/#qué-son-los-frameworks-de-java">¿Qué son los frameworks de Java?</a></li>
+    <li><a href="/10-mejores-frameworks-java//#por-qué-usar-un-framework-java">¿Por qué usar un framework Java?</a></li>
+    <li><a href="/10-mejores-frameworks-java//#10-mejores-frameworks-de-java">10 mejores frameworks de Java</a></li>
+    <li><a href="/10-mejores-frameworks-java/#1-spring">Spring</a></li>
+    <li><a href="/10-mejores-frameworks-java/#2-struts">Struts</a></li>
+    <li><a href="/10-mejores-frameworks-java/#3-hibernate">Hibernate</a></li>
+    <li><a href="/10-mejores-frameworks-java/#4-apache-wicket">Apache Wicket</a></li>
+    <li><a href="/10-mejores-frameworks-java/#5-java-server-faces">Java Server Faces</a></li>
+    <li><a href="/10-mejores-frameworks-java/#6-dropwizard">Dropwizard</a></li>
+    <li><a href="/10-mejores-frameworks-java/#7-grails">Grails</a></li>
+    <li><a href="/10-mejores-frameworks-java/#8-atg">ATG</a></li>
+    <li><a href="/10-mejores-frameworks-java/#9-play">Play</a></li>
+    <li><a href="/10-mejores-frameworks-java/#10-apache-hadoop">Apache Hadoop</a></li>
+    <li><a href="/10-mejores-frameworks-java/#más-frameworks-menos-utilizados">Más Frameworks (GWT, Vaadin, Spark, OpenXava, Vert.X, Tapestry, Jersey, OSGI, Drools, MyBatis, Apache Mina)</a></li>
+  </ol>
+</nav>
+</details>
+<br />
 
 ## ¿Qué son los frameworks de Java?
 
@@ -67,7 +88,7 @@ Los frameworks de trabajo de Java pueden incluir clases y funciones predefinidas
 
 Depende del tipo de framework, el nivel de habilidad del programador, lo que está tratando de lograr y sus preferencias.
 
-## ¿Por qué usar un framework Java?
+## **¿Por qué usar un framework Java?**
 
 Los frameworks dan una estructura a sus aplicaciones. Por ejemplo, si tenemos un framework adecuado para las pruebas, podemos automatizar muchas cosas y obtener resultados precisos y consistentes.
 
@@ -78,31 +99,14 @@ De la misma manera, si existen frameworks para ORM, aplicaciones web, registro, 
 
 Aunque hay muchos frameworks construidos en Java, aquí hay algunos frameworks de los más utilizados entre los diferentes tipos:
 
-- Aplicaciones web , aplicaciones de red, registro, pruebas, ORM, etc.
+- Aplicaciones web, aplicaciones de red, registro, pruebas, ORM, etc.
 
 Tenga en cuenta que cada uno de estos tiene sus propios beneficios y puede funcionar mejor para diferentes usos comerciales, casos de uso, y no se puede decir cuál es mejor, porque todos son buenos en diferentes escenarios.
 
+[Spring](/10-mejores-frameworks-java/#1-spring){: .btn .btn--inverse .btn--large} [Struts](/10-mejores-frameworks-java/#2-struts){: .btn .btn--inverse .btn--large} [Hibernate](/10-mejores-frameworks-java/#3-hibernate){: .btn .btn--inverse .btn--large} [Apache Wicket](/10-mejores-frameworks-java/#4-apache-wicket){: .btn .btn--inverse .btn--large} [Java Server Faces](/10-mejores-frameworks-java/#5-java-server-faces){: .btn .btn--inverse .btn--large} [Dropwizard](/10-mejores-frameworks-java/#6-dropwizard){: .btn .btn--inverse .btn--large} [Grails](/10-mejores-frameworks-java/#7-grails){: .btn .btn--inverse .btn--large} [ATG](/10-mejores-frameworks-java/#8-atg){: .btn .btn--inverse .btn--large} [Play](/10-mejores-frameworks-java/#9-play){: .btn .btn--inverse .btn--large} [Apache Hadoop](/10-mejores-frameworks-java/#10-apache-hadoop){: .btn .btn--inverse .btn--large}
+
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
-
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/10-mejores-frameworks-java/#1-spring">Spring</a></li>
-    <li><a href="/10-mejores-frameworks-java/#2-struts">Struts</a></li>
-    <li><a href="/10-mejores-frameworks-java/#3-hibernate">Hibernate</a></li>
-    <li><a href="/10-mejores-frameworks-java/#4-apache-wicket">Apache Wicket</a></li>
-    <li><a href="/10-mejores-frameworks-java/#5-java-server-faces">Java Server Faces</a></li>
-    <li><a href="/10-mejores-frameworks-java/#6-dropwizard">Dropwizard</a></li>
-    <li><a href="/10-mejores-frameworks-java/#7-grails">Grails</a></li>
-    <li><a href="/10-mejores-frameworks-java/#8-atg">ATG</a></li>
-    <li><a href="/10-mejores-frameworks-java/#9-play">Play</a></li>
-    <li><a href="/10-mejores-frameworks-java/#10-apache-hadoop">Apache Hadoop</a></li>
-  </ol>
-</nav>
-</details>
-<br />
 
 ## 1. **Spring**
 
