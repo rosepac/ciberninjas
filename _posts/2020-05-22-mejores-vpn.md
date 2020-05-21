@@ -106,7 +106,7 @@ El software CyberGhost le proporciona torrents P2P seguros. Puede desbloquear to
 - CyberGhost VPN le permite poner su privacidad primero y lo protege contra mineros de datos y piratas informáticos.
 
 [🔥 Descargar CyberGhost](https://www.cyberghostvpn.com/en_US/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Surfshark**
 
@@ -177,7 +177,7 @@ VPN Unlimited proporciona seguridad, independientemente de lo que use datos de t
 - Proporciona seguridad total, sea lo que sea que use Wi-Fi.
 
 [🔥 Descargar VPN Unlimited](https://www.vpnunlimitedapp.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **F-Secure**
 
@@ -260,7 +260,7 @@ TigerVPN le permite acceder a servicios que le gustaría bloquear el contenido o
 - Le permite proteger todos los dispositivos al mismo tiempo.
 
 [🔥 Descargar TigerVPN](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cómo funciona una VPN?**
 
