@@ -34,7 +34,7 @@ Pathways in Technology Early College High School (P-TECH) es una escuela secunda
 
 La escuela está centrada en la formación de postsecundaria (desde la finalización del Instituto hasta los dos primeros años universitarios) y dentro de ese período sus estudiantes emprenden un programa que combina la escuela secundaria y dos años de universidad centrado en las nuevas tecnologías.
 
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
@@ -88,7 +88,7 @@ Más, ahora quiere ofrecernos está pequeña Academia con la que poder acceder a
 Los cursos lanzados en español no son muy numerosos, pero también; podrás acceder desde está misma plataforma a otros numerosos recursos creados anteriormente por parte de IBM.
 
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Qué carrera o trabajo de futuro elegir?**
 
@@ -111,7 +111,7 @@ Las actividades incluidas dentro de esta sección, son las siguientes:
 
 [👩‍🏫 Sección P-TECH sobre Trabajos del Futuro](https://kutt.it/consejos-para-estudiar){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Cuál es el Curriculum de Inteligencia Artificial?**
 
@@ -133,7 +133,7 @@ Al final del mismo, estarás galardonado con la insignia que demuestra que compr
 [👨‍🏫 Sección P-TECH sobre INTELIGENCIA ARTIFICIAL](https://kutt.it/canal-ia){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge: Creación de Chatbot](https://kutt.it/badge-chatbot){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Cuál es el Curriculum de Blockchain?**
 
@@ -153,7 +153,7 @@ Este galardonado con la insignia ha desarrollado una comprensión de los princip
 [👩‍🏫 Sección P-TECH sobre BLOCKCHAIN](https://kutt.it/canal-blockchain){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Blockchain](https://kutt.it/badge-blockchain){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Cuál es el Curriculum de Ciberseguridad?**
 
@@ -175,7 +175,7 @@ La insignia siguiente demuestra una comprensión fundamental de los conceptos, o
 [👩‍🏫 Sección P-TECH sobre CIBERSEGURIDAD](https://kutt.it/canal-fundamentos-ciberseguridad-1){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Ciberseguridad](https://kutt.it/badge-ciberseguridad){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Cuál es el Curriculum de Ciencia de Datos?**
 
@@ -195,7 +195,7 @@ Al final del mismo, estarás galardonado con la insignia que demuestra que compr
 [👨‍🏫 Sección P-TECH sobre CIENCIA DE DATOS](https://kutt.it/canal-ciencia-datos){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Ciencia de Datos](https://kutt.it/badge-ciencia-datos){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Cuál es el Curriculum del Pensamiento de Diseño?**
 
@@ -217,7 +217,7 @@ El ganador ha adquirido conocimiento sobre la aplicación de Enterprise Design T
 [👩‍🏫 Sección P-TECH sobre PENSAMIENTO DE DISEÑO](https://kutt.it/canal-pensamiento-diseno){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Pensamiento de Diseño](https://kutt.it/badge-pensamiento-diseno){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 ## **Cuál es el Curriculum de habilidades profesionales?**
 
@@ -242,7 +242,7 @@ La insignia de "Trabajando en un mundo digital: habilidades profesionales" demue
 [👩‍🏫 Sección P-TECH sobre HABILIDADES PROFESIONALES](https://kutt.it/canal-habilidades-profesionales){: .btn .btn--warning .btn--large .align-center}{:target="_blank"}
 [🏆 Reclamar Badge de Habilidades Profesionales](https://kutt.it/badge-habilidades-profesionales){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice){: .btn .btn--inverse .btn--large .align-center}
+[🔖 Viajar al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
 #### Índice <!-- omit in toc -->
 - [**Qué es P-Tech?**](#qu%c3%a9-es-p-tech)
