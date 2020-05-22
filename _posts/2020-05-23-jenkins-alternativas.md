@@ -1,5 +1,4 @@
 ---
-
 author_profile: false
 comments: false
 classes: wide
