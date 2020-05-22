@@ -277,7 +277,7 @@ Algunas características de Play son:
 
 ## 10. **Apache Hadoop**
 
-![](/assets/images/framework-java/.webp "Logotipo oficial del framework ")
+![Logotipo oficial del framework Java: Apache Hadoop](/assets/images/framework-java/apache-hadoop.webp "Logotipo oficial del framework Java: Apache Hadoop")
 
 Aunque Apache Hadoop no es un framework completo, proporciona un framework de software y funciona en el modelo de programación MapReduce. Estas utilidades pueden manejar fácilmente grandes volúmenes de datos (Big Data), almacenarlos, analizarlos y procesarlos para proporcionar resultados más rápidos y más eficientes.
 
@@ -297,6 +297,8 @@ Si desea familiarizarse con Big Data y Data Science, Hadoop es su lugar para com
 
 ## 11. **GWT**
 
+![Logotipo oficial del framework Java: GWT](/assets/images/framework-java/gwt.webp "Logotipo oficial del framework Java: GWT")
+
 Google Web Toolkit (GWT) es un framework obviamente creado por Google para crear aplicaciones ricas de Internet en Java. Una de las mejores características de GWT es que convierte el código Java en código JavaScript, que también es un código personalizado basado en el navegador. Personalmente, me gusta esta característica porque, durante el desarrollo, solíamos dedicar mucho tiempo y esfuerzo a las pruebas del navegador antes. Con este conjunto de herramientas de código abierto, podemos escribir aplicaciones web de alto rendimiento en menos tiempo. Si ya tiene una base de código, puede integrarla fácilmente con GWT porque GWT también es compatible con Eclipse IDE, Maven y Junit. El framework también proporciona amplias bibliotecas de widgets que pueden realizar la mayoría de las tareas, lo que facilita que incluso un principiante en Java desarrolle lógica empresarial sin preocuparse demasiado por las cosas básicas.
 
 [💻 Framework GWT](http://www.gwtproject.org/gettingstarted.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
@@ -304,6 +306,8 @@ Google Web Toolkit (GWT) es un framework obviamente creado por Google para crear
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 12. **Vaadin**
+
+![Logotipo oficial del framework Java: Vaadin](/assets/images/framework-java/.webp "Logotipo oficial del framework Java: Vaadin")
 
 Vaadin es un producto emblemático y también una plataforma donde los desarrolladores pueden hacer la implementación de la interfaz de usuario web HTML5 utilizando Java. Es una plataforma de código abierto que incluye el framework web Java y un conjunto de componentes web junto con herramientas y arrancadores de aplicaciones. Estos componentes web forman el núcleo de Vaadin y se pueden personalizar para obtener un código versátil y de alto rendimiento para aplicaciones móviles y de escritorio.
 
@@ -316,6 +320,8 @@ Es un enfoque completamente nuevo para crear aplicaciones Java para que pueda co
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 13. **Spark**
+
+![Logotipo oficial del framework Java: Spark](/assets/images/framework-java/.webp "Logotipo oficial del framework Java: Spark")
 
 Otro golpe maestro de Apache, Spark es un framework de desarrollo web de código abierto que tiene características similares a Spring, Play y JAX-RS, pero es más potente y no sigue el patrón de diseño MVC tradicional.
 
@@ -331,6 +337,8 @@ No piense que Spark puede reemplazar a Hadoop, puede ser una extensión de las c
 
 ## 14. **OpenXava**
 
+![Logotipo oficial del framework Java: OpenXava](/assets/images/framework-java/openxava.webp "Logotipo oficial del framework Java: OpenXava")
+
 Una plataforma de código bajo para desarrollar aplicaciones web de manera rápida, puede poner en funcionamiento sus aplicaciones comerciales en un tiempo récord. Consiste en componentes comerciales que hacen que la creación de aplicaciones incluso complejas sea fácil y sin complicaciones para los desarrolladores. Extensible, personalizable y OO en sentido real, OpenXava utiliza clases de Java como núcleo para modelar el problema empresarial. Tal enfoque de desarrollo basado en modelos garantiza la encapsulación. Los desarrolladores solo definen el modelo como clases Java anotadas simples y las funcionalidades necesarias se generan durante el tiempo de ejecución.
 
 La estructura y la filosofía de OpenXava siguen una arquitectura de componentes comerciales en oposición a la arquitectura tradicional de MVC. Aquí todo es un concepto de negocio y todos los artefactos que contribuyen a un determinado concepto de negocio están en el mismo lugar, ya sea la Vista, Modelo o Controlador asociado.
@@ -340,6 +348,8 @@ La estructura y la filosofía de OpenXava siguen una arquitectura de componentes
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 15. **Vert.X**
+
+![Logotipo oficial del framework Java: Vert.X](/assets/images/framework-java/vertx.webp "Logotipo oficial del framework Java: Vert.X")
 
 Desarrollado por Eclipse, Vert.x es un framework de aplicación basado en eventos que utiliza muchos lenguajes como Java, JS, Groovy, Scala y más. Por lo tanto, es políglota en la naturaleza. Se basa en el modelo de programación asíncrono, lo que hace que las aplicaciones no se bloqueen y estén libres de subprocesos múltiples.
 
@@ -355,6 +365,8 @@ Lo mejor de Vert.x es su naturaleza sin bloqueo que hace que las aplicaciones we
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 16. **Tapestry**
+
+![Logotipo oficial del framework Java: Tapestry](/assets/images/framework-java/tapestry.webp "Logotipo oficial del framework Java: Tapestry")
 
 Conceptualmente, Tapestry es similar a JSF y Wicket. Es un framework de desarrollo de aplicaciones web de código abierto, multiplataforma y basado en componentes que puede crear aplicaciones altamente escalables. Construido sobre la rica API de Java Servlet, funciona en cualquier contenedor o servidor de aplicaciones. Tapestry es un verdadero framework orientado a objetos porque crea páginas HTML utilizando plantillas HTML puras o una clase (objetos) de Java simple. Casi no se requiere configuración XML, Tapestry utiliza anotaciones, lo que hace que el código sea simple y fácil de administrar.
 
@@ -382,6 +394,8 @@ Jersey también viene con una infraestructura de prueba fácil. Puede escribir p
 
 ## 18. **OSGI**
 
+![Logotipo oficial del framework Java: OSGI](/assets/images/framework-java/osgi.webp "Logotipo oficial del framework Java: OSGI")
+
 La iniciativa OSGi o Open Service Gateway define un sistema basado en componentes. Es un framework de trabajo de Java popular donde cada componente se llama paquete. Cada paquete tiene un ciclo de vida independiente y no depende de otros paquetes. Considere que el paquete es un archivo jar con encabezados específicos de OSGi. Los paquetes tienen que declarar explícitamente los paquetes a los que necesitan acceder sin los cuales la plataforma OSGi no se iniciará.
 
 Los paquetes usan el registro de servicio de nivel JVM para descubrir, publicar y enlazar paquetes como servicios. Esta es la esencia de OSGi: una arquitectura de aplicación modular que promueve la adaptabilidad y los cambios rápidos sin mucho tiempo de inactividad de la aplicación (flexibilidad de tiempo de ejecución).
@@ -396,6 +410,8 @@ OSGi tiene algunos buenos conceptos y beneficios, sin embargo, debido a los paqu
 
 ## 19. **Drools**
 
+![Logotipo oficial del framework Java: Drools](/assets/images/framework-java/drools.webp "Logotipo oficial del framework Java: Drools")
+
 Drools es un popular sistema de gestión de reglas comerciales. Tiene un motor de reglas de negocios (BRE), autoría, una aplicación de administración de reglas y soporte de tiempo de ejecución para los modelos de decisión y notación. La aplicación de gestión de reglas se llama como el banco de trabajo Drools. El proyecto está respaldado por RedHat y JBoss. Con Drools, los desarrolladores pueden separar fácilmente los datos de la lógica empresarial. Los dos pasos principales en Drools son:
 
 Autoría: creación de archivos de reglas. Tiempo de ejecución: donde ejecutas las reglas. La características más importantes de Drools es que se pueden eliminar y agregar nuevas reglas en cualquier momento sin reiniciar el servidor.
@@ -408,6 +424,8 @@ Drools es una opción adecuada para aplicaciones que dependen de muchas condicio
 
 ## 20. **MyBatis**
 
+![Logotipo oficial del framework Java: MyBatis](/assets/images/framework-java/mybatis.webp "Logotipo oficial del framework Java: MyBatis")
+
 MyBatis, un software gratuito de Apache, es un framework de persistencia en Java donde los métodos Java se asignan con sentencias SQL , a diferencia de ORM que asigna objetos Java a tablas en la base de datos. El motor de mapeo mapea los resultados de SQL en árboles de objetos usando descripciones XML o anotaciones de manera declarativa.
 
 En muchos sentidos, MyBatis es mejor que JDBC e Hibernate. MyBatis puede generar dinámicamente sentencias SQL que las separan del código. También ofrece almacenamiento en caché de consultas para facilitar el acceso. La API es muy simple y no necesita ser un experto en SQL o base de datos para poder escribir código MyBatis.
@@ -419,6 +437,8 @@ MyBatis es una buena alternativa a Hibernate y JDBC cuando su aplicación no es 
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 21. **Apache Mina**
+
+![Logotipo oficial del framework Java: Apache Mina](/assets/images/framework-java/apache-mina.webp "Logotipo oficial del framework Java: Apache Mina")
 
 Apache Mina es un framework de aplicación de red con el cual los desarrolladores pueden crear fácilmente aplicaciones de red altamente escalables y de alto rendimiento. Ya sea que use TCP / IP, UDP, LDAP, NTP, DNS, etc. o un protocolo personalizado, Mina tiene API unificadas para todos los transportes. El framework puede proporcionar API de red de alto y bajo nivel. Mina maneja completamente las operaciones de E / S, ayudando a los desarrolladores a concentrarse completamente en la lógica empresarial y otras necesidades de aplicaciones. Es fácil probar el código escrito con la ayuda de objetos simulados. Puedes aprender fácilmente Mina usando el Eclipse IDE. Se puede integrar con frameworks populares como Spring y PicoContainer, lo que lo convierte en una opción popular para aplicaciones de red.
 
