@@ -28,6 +28,9 @@ header:
   overlay_filter: 0.2
   image_description: Alternativas a Jenkins, la plataforma de integración continua de código abierto que se ha convertido en una herramienta crucial dentro del ciclo de vida de los DevOps.
   image_alt: Alternativas a Jenkins, la plataforma de integración continua de código abierto que se ha convertido en una herramienta crucial dentro del ciclo de vida de los DevOps.
+  actions:
+    - label: "Jenkins"
+      url: "/jenkins/"
 title: '15 Mejores alternativas a Jenkins en 2020'
 description: >-
   Alternativas a Jenkins, la plataforma de integración continua de código abierto que se ha convertido en una herramienta crucial dentro del ciclo de vida de los DevOps.
@@ -314,6 +317,8 @@ CruiseControl es tanto una herramienta de CI como un marco extensible. Se utiliz
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados
+
+[¿Qué es Jenkins?](https://ciberninjas.com/jenkins/)
 
 [▷ Jenkins X: Divulgación, solicitud y búsqueda de ayuda](https://ciberninjas.com/jenkins-x-divulgaci%C3%B3n/)
 
