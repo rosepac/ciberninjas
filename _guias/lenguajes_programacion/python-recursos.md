@@ -18,7 +18,7 @@ header:
   actions:
     - label: 'Aprender Python'
       url: '/python/'
-	- label: 'Glosario Python'
+    - label: 'Glosario Python'
 	  url: '/glosario/completo-tecnologias-python/'
 ---
 
