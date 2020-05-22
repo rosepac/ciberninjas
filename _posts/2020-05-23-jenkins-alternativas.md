@@ -53,58 +53,45 @@ En la lista se incluyen las herramienta de integración continua de código abie
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-## 1. **Buddy**
+## 1. **Strider CD**
 
-Buddy es una herramienta inteligente de CI / CD para desarrolladores web diseñada para reducir el umbral de entrada a DevOps. Utiliza canales de entrega para construir, probar e implementar software. Las tuberías se crean con más de 100 acciones listas para usar que se pueden organizar de cualquier manera, al igual que se construye una casa de ladrillos.
+![Nueva alternativa a Jenkins: Strider CD](/assets/images/alternativas-jenkins/strider.webp "Nueva alternativa a Jenkins: Strider CD")
 
-### **Características de Buddy**
+Strider es una herramienta de código abierto. Está escrito en Node.JS / JavaScript. Utiliza MongoDB como tienda de respaldo. Por lo tanto, MongoDB y Node.js son esenciales para instalar este CI. La herramienta ofrece soporte para diferentes complementos que modifican el esquema de la base de datos y registran rutas HTTP.
 
-- Configuración de 15 minutos en UI / UX clara y reveladora.
-- Despliegues rápidos como el rayo basados en conjuntos de cambios.
-- Las compilaciones se ejecutan en contenedores aislados con dependencias en caché.
-- Admite todos los lenguajes, marcos y administradores de tareas populares.
-- Lista dedicada de acciones de Docker / Kubernetes.
-- Se integra con AWS, Google, DigitalOcean, Azure, Shopify, WordPress y más.
-- Admite paralelismo y configuración YAML.
+### **Características de Strider CD**
 
-[🔥 Descargar Buddy](https://buddy.works/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+- Strider se integra con muchos proyectos como GitHub, BitBucket, Gitlab, etc.
+- Permite agregar ganchos para ejecutar acciones de construcción arbitrarias.
+- Cree y pruebe sus proyectos de software continuamente.
+- Se integra a la perfección con Github.
+- Publicar y suscribirse a eventos de socket.
+- Crear y modificar interfaces de usuario Striders.
+- Complementos potentes para personalizar las funciones predeterminadas.
+- Soporta Docker.
 
-## 2. **FinalBuilder**
+[🔥 Descargar Strider CD](https://github.com/Strider-CD/strider){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-FinalBuilder es la herramienta de compilación de Vsoft. Con Vsoft no hay necesidad de editar XML o escribir scripts. Puede definir y depurar scripts de compilación cuando los programe con el programador de Windows, o integre con Jenkins, Continua CI, etc.
+## 2. **Gitlab CI**
 
-### **Características de FinalBuilder**
+![Nueva alternativa a Jenkins: Gitlab CI](/assets/images/alternativas-jenkins/gitlab.webp "Nueva alternativa a Jenkins: Gitlab CI")
 
-- Presenta el proceso de construcción en una interfaz gráfica estructurada lógicamente.
-- Incluye acciones de prueba y captura para el manejo de errores localizado.
-- Proporciona una estrecha integración con el servicio de programación de Windows, que permite programar las compilaciones.
-- FinalBuilder admite más de una docena de sistemas de control de versiones.
-- Proporciona soporte para scripting.
-- El resultado de todas las acciones en el proceso de compilación se dirige al registro de compilación.
+GitLab CI es parte de GitLab. Es una aplicación web con una API que almacena su estado en una base de datos. Gestiona proyectos y proporciona una interfaz de usuario amigable, además de ofrecer la ventaja de todas las características de GitLab.
 
-[🔥 Descargar FinalBuilder](https://www.finalbuilder.com/downloads/finalbuilder){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+### **Características de Gitlab CI**
 
-## 3. **Windscribe**
+- GitLab Container Registry es un registro seguro para las imágenes de Docker
+- GitLab ofrece una forma conveniente de cambiar los metadatos de un problema o una solicitud de fusión sin agregar comandos de barra en el campo de comentarios
+- Proporciona API para la mayoría de las funciones, por lo que permite a los desarrolladores crear integraciones más profundas con el producto.
+- Ayuda a los desarrolladores a poner su idea en producción al encontrar áreas de mejora en su proceso de desarrollo
+- Le ayuda a mantener su información segura con problemas confidenciales
+- Los proyectos internos en GitLab permiten promover el abastecimiento interno de repositorios internos.
 
-Windscribe es tanto una herramienta de CI como un marco extensible. Se utiliza para construir un proceso de construcción continuo personalizado. Tiene muchos complementos para una variedad de controles de origen, tecnologías de compilación que incluyen correo electrónico y mensajería instantánea.
+[🔥 Descargar Gitlab CI](https://about.gitlab.com/installation/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-### **Características de Windscribe**
+## 3. **Go CD**
 
-- Integración con el navegador.
-- Integración con muchos sistemas diferentes de control de origen como vss, csv, svn, git, hg, perforce, clearcase, sistema de archivos, etc.
-- Permite construir múltiples proyectos en un solo servidor.
-- Integración con otras herramientas externas como NAnt, NDepend, NUnit, MSBuild, MBUnit y Visual Studio.
-- Brindar soporte para la gestión remota.
-
-[🔥 Descargar CruiseControl](https://windscribe.com/download){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-## 4. **Integrity**
-
-### **Características de Integrity**
-
-[🔥 Descargar Integrity](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-## 5. **Go CD**
+![Nueva alternativa a Jenkins: Go CD](/assets/images/alternativas-jenkins/gocd.webp "Nueva alternativa a Jenkins: Go CD")
 
 GoCD es un servidor de integración continua de código abierto. Se utiliza para modelar y visualizar flujos de trabajo complejos con facilidad. Esta herramienta de CI permite la entrega continua y proporciona una interfaz intuitiva para construir canalizaciones de CD.
 
@@ -120,9 +107,27 @@ GoCD es un servidor de integración continua de código abierto. Se utiliza para
 - Comunidad activa de ayuda y apoyo.
 
 [🔥 Descargar Go CD](https://www.gocd.org/download/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 6. **Urbancode**
+## 4. **FinalBuilder**
+
+![Nueva alternativa a Jenkins: Final Builder](/assets/images/alternativas-jenkins/finalbuilder.webp "Nueva alternativa a Jenkins: Final Builder")
+
+FinalBuilder es la herramienta de compilación de Vsoft. Con Vsoft no hay necesidad de editar XML o escribir scripts. Puede definir y depurar scripts de compilación cuando los programe con el programador de Windows, o integre con Jenkins, Continua CI, etc.
+
+### **Características de FinalBuilder**
+
+- Presenta el proceso de construcción en una interfaz gráfica estructurada lógicamente.
+- Incluye acciones de prueba y captura para el manejo de errores localizado.
+- Proporciona una estrecha integración con el servicio de programación de Windows, que permite programar las compilaciones.
+- FinalBuilder admite más de una docena de sistemas de control de versiones.
+- Proporciona soporte para scripting.
+- El resultado de todas las acciones en el proceso de compilación se dirige al registro de compilación.
+
+[🔥 Descargar FinalBuilder](https://www.finalbuilder.com/downloads/finalbuilder){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 5. **Urbancode**
+
+![Nueva alternativa a Jenkins: UrbanCode](/assets/images/alternativas-jenkins/urbancode.webp "Nueva alternativa a Jenkins: UrbanCode")
 
 IBM UrbanCode Deploy es una aplicación de CI. Combina visibilidad robusta, trazabilidad y funciones de auditoría en un solo paquete.
 
@@ -136,8 +141,11 @@ IBM UrbanCode Deploy es una aplicación de CI. Combina visibilidad robusta, traz
 - Automatización de arrastrar y soltar.
 
 [🔥 Descargar Urbancode](https://www.ibm.com/us-en/marketplace/application-release-automation){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 7. **Autorabit**
+## 6. **Autorabit**
+
+![Nueva alternativa a Jenkins: Autorabit](/assets/images/alternativas-jenkins/autorabit.webp "Nueva alternativa a Jenkins: Autorabit")
 
 AutoRABIT es una suite de entrega continua de extremo a extremo para acelerar el proceso de desarrollo. Agiliza el proceso de lanzamiento completo. Ayuda a la organización de cualquier tamaño a implementar la integración continua.
 
@@ -150,7 +158,9 @@ AutoRABIT es una suite de entrega continua de extremo a extremo para acelerar el
 
 [🔥 Descargar Autorabit](https://www.autorabit.com/tag/autorabit-download/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 8. **Circle CI**
+## 7. **Circle CI**
+
+![Nueva alternativa a Jenkins: Circle CI](/assets/images/alternativas-jenkins/circleci.webp "Nueva alternativa a Jenkins: Circle CI")
 
 Circle CI es una herramienta de CI flexible que se ejecuta en cualquier entorno como aplicaciones móviles multiplataforma, servidor Python API o clúster Docker. Esta herramienta reduce errores y mejora la calidad de la aplicación.
 
@@ -168,7 +178,28 @@ Circle CI es una herramienta de CI flexible que se ejecuta en cualquier entorno 
 
 [🔥 Descargar Circle CI](https://circleci.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
+## 8. **TeamCity**
+
+![Nueva alternativa a Jenkins: TeamCity](/assets/images/alternativas-jenkins/teamcity.webp "Nueva alternativa a Jenkins: TeamCity")
+
+TeamCity es un servidor de integración continua que admite muchas funciones potentes.
+
+### **Características de TeamCity**
+
+- Extensibilidad y personalización.
+- Proporciona una mejor calidad de código para cualquier proyecto.
+- Mantiene el servidor CI en buen estado y estable incluso cuando no se están ejecutando compilaciones.
+- Configurar compilaciones en DSL.
+- Perfiles de nube a nivel de proyecto.
+- Integración integral de VCS.
+- Informes de progreso de compilación sobre la marcha.
+- Ejecución remota y confirmación previamente probada.
+
+[🔥 Descargar TeamCity](https://www.jetbrains.com/teamcity/download/#section=windows){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## 9. **Buildkite**
+
+![Nueva alternativa a Jenkins: Builkite](/assets/images/alternativas-jenkins/buildkite.webp "Nueva alternativa a Jenkins: Builkite")
 
 El agente buildkite es un corredor de compilación confiable y multiplataforma. Esta herramienta de CI facilita la ejecución de compilaciones automatizadas en su infraestructura. Se utiliza principalmente para ejecutar trabajos de compilación, informar el código de estado y el registro de salida del trabajo.
 
@@ -183,16 +214,9 @@ El agente buildkite es un corredor de compilación confiable y multiplataforma. 
 
 [🔥 Descargar Buildkite](https://buildkite.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 10. **TeamCity**
+## 10. **Wercker**
 
-TeamCity es un servidor de integración continua que admite muchas funciones potentes.
-
-### **Características de TeamCity**
-
-[🔥 Descargar TeamCity](https://www.jetbrains.com/teamcity/download/#section=windows){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-## 11. **Wercker**
+![Nueva alternativa a Jenkins: Wercker](/assets/images/alternativas-jenkins/wercker.webp "Nueva alternativa a Jenkins: Wercker")
 
 Wercker es una herramienta de CI que automatiza las compilaciones y despliega el contenedor. Crea tuberías automatizadas que se pueden ejecutar a través de la interfaz de línea de comandos.
 
@@ -206,8 +230,11 @@ Wercker es una herramienta de CI que automatiza las compilaciones y despliega el
 - Recibir notificaciones del sistema en el producto y por correo electrónico.
 
 [🔥 Descargar Wercker](http://www.wercker.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 12. **Bitrise**
+## 11. **Bitrise**
+
+![Nueva alternativa a Jenkins: Bitrise](/assets/images/alternativas-jenkins/bitrise.webp "Nueva alternativa a Jenkins: Bitrise")
 
 Bitrise es una plataforma de integración y entrega continua como un servicio. Ofrece integración y entrega continua móvil para todo su equipo. Permite integraciones con muchos servicios populares como Slack, HipChat, HockeyApp, Crashlytics, etc.
 
@@ -221,7 +248,9 @@ Bitrise es una plataforma de integración y entrega continua como un servicio. O
 
 [🔥 Descargar Bitrise](https://github.com/bitrise-io/bitrise#install-and-setup){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 13. **Bamboo**
+## 12. **Bamboo**
+
+![Nueva alternativa a Jenkins: Bamboo](/assets/images/alternativas-jenkins/bamboo.webp "Nueva alternativa a Jenkins: Bamboo")
 
 Bamboo es un servidor de compilación de integración continua que realiza: compilación, prueba y lanzamientos automáticos en un solo lugar. Funciona a la perfección con el software JIRA y Bitbucket. Bamboo admite muchos idiomas y tecnologías como CodeDeply, Ducker, Git, SVN, Mercurial, AWS y Amazon S3.
 
@@ -237,37 +266,52 @@ Bamboo es un servidor de compilación de integración continua que realiza: comp
 
 [🔥 Descargar Bamboo](https://www.atlassian.com/software/bamboo){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 14. **Strider CD**
+## 13. **Buddy**
 
-Strider es una herramienta de código abierto. Está escrito en Node.JS / JavaScript. Utiliza MongoDB como tienda de respaldo. Por lo tanto, MongoDB y Node.js son esenciales para instalar este CI. La herramienta ofrece soporte para diferentes complementos que modifican el esquema de la base de datos y registran rutas HTTP.
+![Nueva alternativa a Jenkins: Budyy](/assets/images/alternativas-jenkins/buddy.webp "Nueva alternativa a Jenkins: Budyy")
 
-### **Características de Strider CD**
+Buddy es una herramienta inteligente de CI / CD para desarrolladores web diseñada para reducir el umbral de entrada a DevOps. Utiliza canales de entrega para construir, probar e implementar software. Las tuberías se crean con más de 100 acciones listas para usar que se pueden organizar de cualquier manera, al igual que se construye una casa de ladrillos.
 
-- Strider se integra con muchos proyectos como GitHub, BitBucket, Gitlab, etc.
-- Permite agregar ganchos para ejecutar acciones de construcción arbitrarias.
-- Cree y pruebe sus proyectos de software continuamente.
-- Se integra a la perfección con Github.
-- Publicar y suscribirse a eventos de socket.
-- Crear y modificar interfaces de usuario Striders.
-- Complementos potentes para personalizar las funciones predeterminadas.
-- Soporta Docker.
+### **Características de Buddy**
 
-[🔥 Descargar Strider CD](https://github.com/Strider-CD/strider){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+- Configuración de 15 minutos en UI / UX clara y reveladora.
+- Despliegues rápidos como el rayo basados en conjuntos de cambios.
+- Las compilaciones se ejecutan en contenedores aislados con dependencias en caché.
+- Admite todos los lenguajes, marcos y administradores de tareas populares.
+- Lista dedicada de acciones de Docker / Kubernetes.
+- Se integra con AWS, Google, DigitalOcean, Azure, Shopify, WordPress y más.
+- Admite paralelismo y configuración YAML.
 
-## 15. **Gitlab CI**
+[🔥 Descargar Buddy](https://buddy.works/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-GitLab CI es parte de GitLab. Es una aplicación web con una API que almacena su estado en una base de datos. Gestiona proyectos y proporciona una interfaz de usuario amigable, además de ofrecer la ventaja de todas las características de GitLab.
+## 14. **Integrity**
 
-### **Características de Gitlab CI**
+![Nueva alternativa a Jenkins: Integrity](/assets/images/alternativas-jenkins/integrity.webp "Nueva alternativa a Jenkins: Integrity")
 
-- GitLab Container Registry es un registro seguro para las imágenes de Docker
-- GitLab ofrece una forma conveniente de cambiar los metadatos de un problema o una solicitud de fusión sin agregar comandos de barra en el campo de comentarios
-- Proporciona API para la mayoría de las funciones, por lo que permite a los desarrolladores crear integraciones más profundas con el producto.
-- Ayuda a los desarrolladores a poner su idea en producción al encontrar áreas de mejora en su proceso de desarrollo
-- Le ayuda a mantener su información segura con problemas confidenciales
-- Los proyectos internos en GitLab permiten promover el abastecimiento interno de repositorios internos.
+Integrity es un servidor de integración continua que solo funciona con GitHub. En esta herramienta de CI cada vez que los usuarios confirman los códigos, construye y ejecuta el código. También genera los informes y proporciona notificaciones al usuario.
 
-[🔥 Descargar Gitlab CI](https://about.gitlab.com/installation/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+### **Características de Integrity**
+
+- Esta herramienta de CI actualmente solo funciona con git, pero puede reflejarse fácilmente con otros SCM.
+- Esta herramienta de CI admite varios mecanismos de notificación como AMQP, correo electrónico, HTTP, Amazon SES, Flowdock, Shell y TCP.
+- La función Notificador HTTP envía una solicitud POST HTTP a la URL específica.
+
+[🔥 Descargar Integrity](http://integrity.github.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 15. **CruiseControl**
+
+![Nueva alternativa a Jenkins: CruiseControl](/assets/images/alternativas-jenkins/cruisecontrol.webp "Nueva alternativa a Jenkins: CruiseControl")
+
+CruiseControl es tanto una herramienta de CI como un marco extensible. Se utiliza para construir un proceso de construcción continuo personalizado. Tiene muchos complementos para una variedad de controles de origen, tecnologías de compilación que incluyen correo electrónico y mensajería instantánea.
+
+### **Características de CruiseControl**
+
+- Integración con muchos sistemas diferentes de control de origen como vss, csv, svn, git, hg, perforce, clearcase, sistema de archivos, etc.
+- Permite construir múltiples proyectos en un solo servidor.
+- Integración con otras herramientas externas como NAnt, NDepend, NUnit, MSBuild, MBUnit y Visual Studio.
+- Brindar soporte para la gestión remota.
+
+[🔥 Descargar CruiseControl](http://cruisecontrol.sourceforge.net/download.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados
