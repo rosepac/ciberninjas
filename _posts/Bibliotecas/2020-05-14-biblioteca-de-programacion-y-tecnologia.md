@@ -788,6 +788,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Python para la administración de sistemas GNU/Linux](https://www.researchgate.net/publication/333968724_Python_para_la_administracion_de_sistemas_GNULinux_Shell_scripting_introduction_in_Python_for_Linux_Systems_administration) (PDF) (2018)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Python. No muerde, yo sí.](https://media.readthedocs.org/pdf/python-no-muerde/latest/python-no-muerde.pdf){:target="_blank" rel="nofollow"} (PDF) [(HTML)](https://python-no-muerde.readthedocs.io/es/latest){:target="_blank" rel="nofollow"}
+* [Tutorial de Python 3.6](https://tutorial.python.org.ar/_/downloads/en/latest/pdf/){:target="_blank" rel="nofollow"} (2020)
 * [Tryton: gestión de empresas](https://media.readthedocs.org/pdf/tryton-ar/latest/tryton-ar.pdf){:target="_blank" rel="nofollow"} (PDF) [(HTML)](https://tryton-ar.readthedocs.io/es/latest/introduccion.html){:target="_blank" rel="nofollow"}
 
 ## Python Frameworks <i class="fab fa-python"></i>
