@@ -93,11 +93,11 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 [Big Data 👨‍👩‍👦](/biblioteca-de-programacion-y-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn--inverse .btn--large} [NoSQL](/biblioteca-de-programacion-y-tecnologia/#nosql){: .btn .btn--inverse .btn--large} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn--inverse .btn--large} [SQL](/biblioteca-de-programacion-y-tecnologia/#sql){: .btn .btn--inverse .btn--large}
 
-* [Apuntes Básicas de SQL](https://openlibra.com/es/book/download/apuntes-basicos-de-sql){:target="_blank" rel="nofollow"} - Unai Estébanez (PDF)
-* [Apuntes de Base de Datos 1](https://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf){:target="_blank" rel="nofollow"} - Univ. Alicante (PDF)
-* [Base de Datos (2005)](https://www.uoc.edu/masters/oficiales/img/913.pdf){:target="_blank" rel="nofollow"} - Mercedes Marqués (PDF)
-* [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2){:target="_blank" rel="nofollow"} - Mercedes Marqués (PDF)
-* [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas){:target="_blank" rel="nofollow"} - Aramburu & Sanz Blasco (PDF)
+* [Apuntes Básicos de SQL](https://drive.google.com/file/d/11JtEKAQWPgDynT3A7jkYp1d4YvMCn4Hs/view?usp=sharing){:target="_blank" rel="nofollow"} - Unai Estébanez (PDF) (2008)
+* [Apuntes de Bases de Datos 1](https://drive.google.com/file/d/12eJNPqLa0fE5VjUVtIVEYJc-k0lHlC-v/view?usp=sharing){:target="_blank" rel="nofollow"} - Univ. Alicante (PDF)
+* [Base de Datos (2005)](https://drive.google.com/file/d/10A328aloGtpUQZNvSli72KJx3zzNqkEE/view?usp=sharing){:target="_blank" rel="nofollow"} (PDF) (2005)
+* [Base de Datos (2011)](https://drive.google.com/file/d/1R2MbP0uldOvFRER37NCOAzPNA8fhxudj/view?usp=sharing){:target="_blank" rel="nofollow"} - Mercedes Marqués (PDF)
+* [Base de Datos Avanzadas (2013)](https://drive.google.com/file/d/1GZlfXH303ZdnB_kxFkx2rnid7uoLooWe/view?usp=sharing){:target="_blank" rel="nofollow"} - Aramburu & Sanz Blasco (PDF)
 * [Bases de datos NoSq. Qué son y tipos que nos podemos encontrar](https://www.acens.com/wp-content/images/2014/02/bbdd-nosql-wp-acens.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos){:target="_blank" rel="nofollow"} (PDF)
 * [Diseño e implementación de una base de datos relacional para la gestión de la red de bibliotecas.](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/13921/1/jordibs_TFC_0610.pdf){:target="_blank" rel="nofollow"} (PDF)
