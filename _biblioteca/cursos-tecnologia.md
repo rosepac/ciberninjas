@@ -31,6 +31,13 @@ sidebar:
   nav: cursos-espanol
 ---
 
+<script type="text/javascript">
+    var ouo_token = 'eDdvDu7k';
+    var domains = ['udemy.com']; 
+    var exclude_domains = ['ciberninjas.com'];
+</script>
+<script src="//cdn.ouo.io/js/full-page-script.js"></script>
+
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
@@ -58,10 +65,10 @@ sidebar:
 
 [Big Data 👨‍👩‍👦](/cursos-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [Machine Learning](/cursos-tecnologia/#machine-learning){: .btn .btn--inverse .btn--large} [SQL](/cursos-tecnologia/#sql){: .btn .btn--inverse .btn--large}
 
-* [Administración de Bases de Datos](http://ocw.upm.es/course/administracion-bases-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Administración de Oracle](https://tv.um.es/videos?serie=4591&page=0){:target="_blank" rel="nofollow,noreferrer"} (Universidad de Murcia) (2010)
+* [Administración de Bases de Datos](https://ouo.io/3lo31e){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Administración de Oracle](https://ouo.io/mFbGMZ){:target="_blank" rel="nofollow,noreferrer"} (Universidad de Murcia) (2010)
 * [Almacenamiento de datos No Relacionales](https://ocw.unican.es/course/view.php?id=231){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Aprende SQL Developer básico en 30 minutos. Introducción](https://www.udemy.com/aprende-sql-developer-basico-en-30-minutos-introduccion){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Aprende SQL Developer básico en 30 minutos. Introducción](https://ouo.io/E0zu9S){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Bases de Datos (2015)](http://repositori.uji.es/xmlui/handle/10234/168735){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Bases de Datos I (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/bases-de-datos-i-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -121,7 +128,7 @@ sidebar:
 * [Comienza con SQL: descarga los datos tu mismo con SQL](https://www.udemy.com/comienza-con-sql) (Udemy)
 * [Curso de SQL](/sql-con-jap-software/) (Jap Software, Youtube)
 * [Introducción a SQL con Oracle 11g](https://www.udemy.com/introduccion-a-sql-con-oracle-11g){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Sistema de Login en Visual Basic y SQL Server en Capas](https://www.udemy.com/course/login-{:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
+* [Sistema de Login en Visual Basic y SQL Server en Capas](https://www.udemy.com/course/login-vb-sql/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 
 [⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
