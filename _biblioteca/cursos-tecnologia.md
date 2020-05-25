@@ -31,13 +31,6 @@ sidebar:
   nav: cursos-espanol
 ---
 
-<script type="text/javascript">
-    var ouo_token = 'eDdvDu7k';
-    var domains = ['udemy.com']; 
-    var exclude_domains = ['ciberninjas.com'];
-</script>
-<script src="//cdn.ouo.io/js/full-page-script.js"></script>
-
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
@@ -84,9 +77,9 @@ sidebar:
 * [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Fundamentos de las bases de datos (2012)](http://ocw.uc3m.es/ingenieria-informatica/fundamentos-de-las-bases-de-datos){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Introducción a BBDD relacionales, SQL & MySQL](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-bbdd-sql-mysql){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-* [Introducción a las consultas SQL Server](https://www.udemy.com/introduccion-a-las-consultas-sql-server){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Introducción a las consultas SQL Server](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-las-consultas-sql-server%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Oracle 12c](https://www.youtube.com/playlist?list=PLC7Ec2r5tkJA50X4rn6wffybgaGqYBlTA){:target="_blank" rel="nofollow,noreferrer"} (Ninja Web, YouTube)
-* [PHP y MySql: Aprende a trabajar con base de datos](https://www.youtube.com/playlist?list=PLPl81lqbj-4IGS74m9lv1zLOWJzsLjWC_){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube) [Udemy](https://www.udemy.com/curso-php-y-mysql){:target="_blank" rel="nofollow,noreferrer"}
+* [PHP y MySql: Aprende a trabajar con base de datos](https://www.youtube.com/playlist?list=PLPl81lqbj-4IGS74m9lv1zLOWJzsLjWC_){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube) [Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-php-y-mysql%2F){:target="_blank" rel="nofollow,noreferrer"}
 * [Recuperación y Acceso a la Información (2017)](http://ocw.uc3m.es/ingenieria-informatica/recuperacion-acceso-informacion){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Sistemas Avanzados de Recuperación de Información (2009)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Tratamiento Inteligente de Datos](https://campusvirtual.ull.es/ocw/course/view.php?id=134){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -99,7 +92,7 @@ sidebar:
 * [Análisis de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
 * [Big Data, el valor añadido de los datos de un negocio](https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Big Data Marketing](https://miriadax.net/web/big-data-marketing){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Big Data Sin Misterios](https://www.EDX.org/course/big-data-sin-misterios){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Banco Interamericano de Desarrollo)
+* [Big Data Sin Misterios](https://www.edx.org/course/big-data-sin-misterios){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Banco Interamericano de Desarrollo)
 * [Big Data para una ciudad inteligente](https://miriadax.net/web/big-data-para-una-ciudad-inteligente-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Introducción a Big Data. Tecnologías Libres](https://campusvirtual.ull.es/ocw/course/view.php?id=95){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Introducción al Bussiness Intelligence y al Big data](https://miriadax.net/web/introduccion-al-business-intelligence-y-al-big-data-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
@@ -112,23 +105,23 @@ sidebar:
 * [Aprendizaje Automático](https://www.coursera.org/learn/machine-learning){:target="_blank" rel="nofollow,noreferrer"} (Coursera) (2014) (en inglés con subtítulos en español)
 * [Aprendizaje Automático](http://ocw.uc3m.es/ingenieria-informatica/aprendizaje-automatico){:target="_blank" rel="nofollow,noreferrer"} (OCW) (2009)
 * [Aprendizaje Automático con Python: Una introducción práctica](https://www.edx.org/es/course/machine-learning-aprendizaje-automatico-con-python){:target="_blank" rel="nofollow,noreferrer"} (IBM)
-* [Aprendizaje Automático y Ciencia de Datos](https://www.EDX.org/course/aprendizaje-automatico-y-ciencia-de-datos){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
+* [Aprendizaje Automático y Ciencia de Datos](https://www.edx.org/course/aprendizaje-automatico-y-ciencia-de-datos){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
 * [Curso de Redes Neuronales: pix2pix](/redes-neuronales-pix2pix-con-jap-software/) (Jap Software, Youtube)
 * [Curso de Tensorflow](/tensorflow-con-jap-software/) (Jap Software, Youtube)
 * [Curso Intensivo de Aprendizaje Autómatico - Google](https://developers.google.com/machine-learning/crash-course){:target="_blank" rel="nofollow,noreferrer"} (Google Developers)
 * [Chatbot con Tensorflow](/chatbot-tensorflow-con-jap-software/){:target="_blank" rel="nofollow,noreferrer"} (Jap Software, Youtube)
 * [Introducción al Machine Learning](https://miriadax.net/web/introduccion-al-machine-learning-8-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://www.udemy.com/course/curso-machine-learning){:target="_blank" rel="nofollow,noreferrer"}
+* [Machine Learning: Numpy, Pandas, Seaborn, Matplotlib, Plotly y Sckit-Learn](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-machine-learning%2F){:target="_blank" rel="nofollow,noreferrer"}
 * [Machine Learning: ¿Qué es y cómo funciona?](https://www.unimooc.com/cursos/machine-learning){:target="_blank" rel="nofollow,noreferrer"}
 
 [⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## SQL
 
-* [Comienza con SQL: descarga los datos tu mismo con SQL](https://www.udemy.com/comienza-con-sql) (Udemy)
+* [Comienza con SQL: descarga los datos tu mismo con SQL](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomienza-con-sql%2F) (Udemy)
 * [Curso de SQL](/sql-con-jap-software/) (Jap Software, Youtube)
-* [Introducción a SQL con Oracle 11g](https://www.udemy.com/introduccion-a-sql-con-oracle-11g){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Sistema de Login en Visual Basic y SQL Server en Capas](https://www.udemy.com/course/login-vb-sql/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
+* [Introducción a SQL con Oracle 11g](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-sql-con-oracle-11g%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Sistema de Login en Visual Basic y SQL Server en Capas](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flogin-vb-sql%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 
 [⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -159,9 +152,8 @@ sidebar:
 
 ### Bitcoin <i class="fab fa-bitcoin"></i>
 
-* [Bitcoin: Conceptos, tecnología y usos](https://www.unimooc.com/cursos/bitcoin){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Bitcoin: Qué es y como comprarlo](https://www.udemy.com/bitcoin-){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Bitcoin Construye un imperio minando en la nube](https://www.udemy.com/bitcoin-construye-un-imperio-minando-en-la-nube){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Bitcoin: Conceptos, tecnología y usos](https://www.unimooc.com/cursos/bitcoin){:target="_blank" rel="nofollow,noreferrer"} (Unimooc)
+* [Bitcoin Construye un imperio minando en la nube](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbitcoin-construye-un-imperio-minando-en-la-nube%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Bitcoin como Activo de Inversión](https://www.tutellus.com/tecnologia/blockchain/bitcoin-como-activo-de-inversion-19751){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 * [Cursos Bitcoin y Trading de Criptomonedas](https://www.tutellus.com/tecnologia/blockchain/curso-bitcoin-y-trading-criptomonedas-20610){:target="_blank" rel="nofollow,noreferrer"} (Tutellus)
 
@@ -171,10 +163,10 @@ sidebar:
 
 ### Trading <i class="fas fa-chart-line"></i>
 
-* [Curso básico de trading](https://www.udemy.com/wisetradingacademy){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Curso de trading y bolsa desde cero](https://www.udemy.com/curso-de-trading-y-bolsa-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://www.udemy.com/curso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Trading Forex para principiantes - Estrategias Clave](https://www.udemy.com/estrategias-trading-forex-y-operaciones-bursatiles){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Curso básico de trading](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwisetradingacademy%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Curso de trading y bolsa desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-trading-y-bolsa-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Curso inicial en Criptomonedas y trading: Bitcoin, Ethereum, Tron](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-inicial-en-criptomonedas-y-trading-bitcoins-eth-trx%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Trading Forex para principiantes - Estrategias Clave](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Festrategias-trading-forex-y-operaciones-bursatiles%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [⏫ Subir a Blockchain](/cursos-tecnologia/#-blockchain){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -183,9 +175,9 @@ sidebar:
 * [Algoritmo Avanzado (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/algoritmia-avanzada-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Algoritmos y estructuras de datos](https://www.youtube.com/playlist?list=PLeWI3XlFEVOXMwSCkvJinRVEnLksnBOPr){:target="_blank" rel="nofollow,noreferrer"} (CodeJobs, YouTube)
 * [Análisis de Sistemas](http://www.fceia.unr.edu.ar/asist){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Aplicaciones de la Teoría de Grafos a la Vida Real (I)](https://www.EDX.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-1-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-* [Aplicaciones de la Teoría de Grafos a la vida real II](https://www.EDX.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-2-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-* [Aprende a programar desde las bases](https://www.udemy.com/course/aprende-a-programar-desde-las-bases/) (Udemy) (2019)
+* [Aplicaciones de la Teoría de Grafos a la Vida Real (I)](https://www.edx.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-1-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Aplicaciones de la Teoría de Grafos a la vida real II](https://www.edx.org/course/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-2-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Aprende a programar desde las bases](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-programar-desde-las-bases%2F) (Udemy) (2019)
 * [Aprendizaje del Software Estadístico R: un entorno para simulación y computación estadística (2007)](http://ocw.uc3m.es/estadistica/aprendizaje-del-software-estadistico-r-un-entorno-para-simulacion-y-computacion-estadistica){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Arquitectura de Computadoras (2009)](https://ocw.ua.es/es/ingenieria-y-arquitectura/arquitectura-de-computadores-2009.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Arquitectura de Computadoras (2012)](http://ocw.uc3m.es/ingenieria-informatica/arquitectura-de-computadores-ii){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -195,7 +187,7 @@ sidebar:
 * [Arquitectura y tecnología de los sistemas embarcados (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=7364&p_caca=2010){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Arquitecturas Reconfigurables (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/arquitecturas-reconfigurables-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Bases Matemáticas: Álgebra](https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-2){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-* [Básico de Iniciación SAP](https://www.udemy.com/iniciacion-al-sistema-sap){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Básico de Iniciación SAP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finiciacion-al-sistema-sap%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Computadores y programación (2008)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=7250&p_caca=2008){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Control por computador (2009)](https://ocw.ua.es/es/ingenieria-y-arquitectura/control-por-computador-2009.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Curso de R básico](https://ocw.uca.es/course/view.php?id=62){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -205,8 +197,8 @@ sidebar:
 * [Diseño de sistemas operativos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6068&p_caca=2010){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Diseño de software avanzado (2010)](http://ocw.uc3m.es/ingenieria-informatica/diseno-de-software-avanzado){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Diseño y aplicaciones de sistemas distribuidos (2008)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6069&p_caca=2008){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Dispositivos móviles para la Gestión del Territorio](https://www.EDX.org/course/dispositivos-moviles-para-la-gestion-del-upvalenciax-dmt201x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-* [El ABC del cálculo estructural](https://www.udemy.com/el-abc-del-calculo-estructural){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Dispositivos móviles para la Gestión del Territorio](https://www.edx.org/course/dispositivos-moviles-para-la-gestion-del-upvalenciax-dmt201x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [El ABC del cálculo estructural](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fel-abc-del-calculo-estructural%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Estadística básica con R y R-Commander](https://ocw.uca.es/course/view.php?id=11){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Estructura de computadores (2010)](http://ocw.uc3m.es/ingenieria-informatica/estructura-de-computadores){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Estructura de computadores (2015)](https://ocw.ehu.eus/course/view.php?id=378){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -220,10 +212,10 @@ sidebar:
 * [Fundamentos de Computabilidad (2011)](https://ocw.ehu.eus/course/view.php?id=8){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Fundamentos de Computación (2010)](https://ocw.unican.es/course/view.php?id=194){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Fundamentos de Computadores (2009)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=3143&p_caca=2009){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Fundamentos de Comunicaciones Ópticas](https://www.EDX.org/course/fundamentos-de-comunicaciones-opticas-upvalenciax-fco201x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Fundamentos de Comunicaciones Ópticas](https://www.edx.org/course/fundamentos-de-comunicaciones-opticas-upvalenciax-fco201x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 * [Fundamentos de Ingeniería del Software](http://dis.um.es/~jnicolas/09BK_FIS.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Fundamentos de Programación: Algoritmos en Java y Javascript](https://www.udemy.com/fundamentos-de-programacion-algoritmos-en-java-y-javascript) (Udemy)
-* [Fundamentos de Programación: PseInt, PHP y JavaScript](https://www.udemy.com/fundamentos-de-programacion-aprende-con-pseudocodigo-pseint){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Fundamentos de Programación: Algoritmos en Java y Javascript](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffundamentos-de-programacion-algoritmos-en-java-y-javascript%2F) (Udemy)
+* [Fundamentos de Programación: PseInt, PHP y JavaScript](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffundamentos-de-programacion-aprende-con-pseudocodigo-pseint%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Fundamentos Físicos de la Informática (2010)](http://ocw.uv.es/ingenieria-y-arquitectura/1-4/Course_listing){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Fundamentos Físicos de la Informática (2013)](http://ocw.uma.es/ingenierias/fundamentos-fisicos-de-la-informatica-1){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Historia de la informática y metodología de la ciencia (2008)](https://ocw.ua.es/es/ingenieria-y-arquitectura/historia-de-la-informatica-y-metodologia-de-la-ciencia-2007.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -235,17 +227,17 @@ sidebar:
 * [Ingeniería del Software II](http://www.fceia.unr.edu.ar/ingsoft){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Ingeniería del Software III (2008)](http://ocw.uc3m.es/ingenieria-informatica/ingeniera-del-software-iii){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Ingieniería Electrónica y Automática - PLC (2014)](http://isa.uniovi.es/docencia/iea/){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Iniciándonos en el Álgebra](https://www.udemy.com/iniciandonos-en-el-algebra){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Iniciándonos en el Álgebra](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finiciandonos-en-el-algebra%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Introducción a la informática: Codificación de la información (2015)](http://ocw.uji.es/curso/922898){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Introducción a la programación para ciencias e ingieniería](https://miriadax.net/web/introduccion-programacion-ciencias-ingenieria-2edicion) (MiriadaX)
 * [Introducción a la teoría de autómatas (2014)](https://ocw.ehu.eus/course/view.php?id=296){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Introducción a la teoría de códigos (2107)](https://ocw.ehu.eus/course/view.php?id=446){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Introducción a los PLC](https://www.udemy.com/introduccion-a-los-automatas-plc){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Introducción a los PLC](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-los-automatas-plc%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Introducción a los sistemas de tiempo real](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/introduccion-a-los-sistemas-de-tiempo-real){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Lenguajes, tecnologías y paradigmas de la programación (2015)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=11557&p_caca=2015){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Lenguajes unificado de modelado: UML (2016)](https://campusvirtual.ull.es/ocw/course/view.php?id=132){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Lenguajes y paradigmas de programación (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/lenguajes-y-paradigmas-de-programacion-2006.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Lógica de programación](https://www.udemy.com/course/logica-de-programacion/) (Udemy) (2019)
+* [Lógica de programación](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flogica-de-programacion%2F) (Udemy) (2019)
 * [Matemática introductoria para el Grado en Ingeniería Informática (2011)](http://ocw.uc3m.es/cursos-cero/matematicas-mathbridge){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Matlab y Octave para ingenieros y científicos](https://miriadax.net/web/matlab-y-octave-para-ingenieros-y-cientificos){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Metodología y Tecnología de la Programación (2006)](http://ocw.uji.es/curso/5126){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -258,8 +250,8 @@ sidebar:
 * [Programación Estadística, Programación en R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
 * [Programación Multimedia (2013)](http://ocw.uv.es/ingenieria-y-arquitectura/programacionmultimedia/Course_listing){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Programación y Estructuras de Datos (2009)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-y-estructuras-de-datos-2009.html){:target="_blank" rel="nofollow,noreferrer"} (OWC)
-* [Python para trading e inversiones (2.017)](https://www.udemy.com/python-para-trading-e-inversiones){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Redes de difracción en comunicaciones ópticas](https://www.EDX.org/course/redes-de-difraccion-en-comunicaciones-upvalenciax-rdo301x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Python para trading e inversiones (2.017)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-para-trading-e-inversiones%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Redes de difracción en comunicaciones ópticas](https://www.edx.org/course/redes-de-difraccion-en-comunicaciones-upvalenciax-rdo301x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 * [Siete habilidades clave en la era digital](https://miriadax.net/web/siete-habilidades-clave-en-la-era-digital-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiridaX)
 * [Sistemas de telecomunicación (2007)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/sistemas-de-telecomunicacion){:target="_blank" rel="nofollow,noreferrer"} (OCW) [(2011)](http://ocw.upm.es/teoria-de-la-senal-y-comunicaciones-1/sistemas-de-telecomunicacion-2011){:target="_blank" rel="nofollow,noreferrer"}
 * [Sistemas Electrónicos para el Tratamiento de la Información (2011)](http://ocw.uv.es/ingenieria-y-arquitectura/1-4/Course_listing){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -267,8 +259,8 @@ sidebar:
 * [Tecnologías Grid](http://ocw.uniovi.es/course/view.php?id=123){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Teoría de autómatas y lenguajes formales (2009)](http://ocw.uma.es/ingenierias/teoria-de-automatas-y-lenguajes-formales){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Teoría de autómatas y lenguajes formales (2012)](http://ocw.uc3m.es/ingenieria-informatica/teoria-de-automatas-y-lenguajes-formales){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [UML. Fundamentos, diagramas. Caso de estudio](https://www.udemy.com/uml-fundamentos-5-diagramas-caso-de-estudio){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Variable compleja para métodos matemáticos. Parte 1](https://www.udemy.com/variable-compleja-para-metodos-matematicos-parte-1){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [UML. Fundamentos, diagramas. Caso de estudio](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fuml-fundamentos-5-diagramas-caso-de-estudio%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Variable compleja para métodos matemáticos. Parte 1](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvariable-compleja-para-metodos-matematicos-parte-1%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [⏫ Subir a Ciencias 🔬](/cursos-tecnologia/#-ciencias-de-la-computación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -276,29 +268,29 @@ sidebar:
 
 [Prestashop](/cursos-tecnologia/#prestashop){: .btn .btn--inverse .btn--large} [WooCommerce](/cursos-tecnologia/#woocommerce){: .btn .btn--inverse .btn--large} [Ir a Marketing Digital 🏪](/cursos-tecnologia/#marketing-digital-){: .btn .btn--inverse .btn--large}
 
-* [¿Cómo vender cualquier producto en Internet?](https://www.udemy.com/como-vender-cualquier-producto-en-internet){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Aprende a crear tu propia tienda Online](https://www.udemy.com/aprende-a-crear-tu-tienda-online){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Cómo vender en redes sociales](https://www.udemy.com/como-vender-en-redes-sociales){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [¿Cómo vender cualquier producto en Internet?](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-vender-cualquier-producto-en-internet%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Aprende a crear tu propia tienda Online](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-crear-tu-tienda-online%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Cómo vender en redes sociales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-vender-en-redes-sociales%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Cómo vender por redes sociales](http://www.bmooc.com/como-vender-en-las-redes-sociales/){:target="_blank" rel="nofollow,noreferrer"} (Bmooc)
-* [Crea tu plan de marketing paso a paso](https://www.udemy.com/crea-tu-plan-de-marketing-online-en-6-pasos){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Dropshipping AliExpress, crea tu propia tienda con WordPress](https://www.udemy.com/dropshipping-aliexpress-crea-tu-propia-tienda-con-wordpress){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Crea tu plan de marketing paso a paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-tu-plan-de-marketing-online-en-6-pasos%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Dropshipping AliExpress, crea tu propia tienda con WordPress](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdropshipping-aliexpress-crea-tu-propia-tienda-con-wordpress){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Google Actívate: Marketing digital, Comercio Electrónico, Transformación digital, Cloud Computing, Desarrollo de Apps, Desarrollo Web I, II, Productividad Personal](https://www.google.es/landing/activate/home){:target="_blank" rel="nofollow,noreferrer"} (Campus Google Actívate)
 * [Growth Hacking](https://miriadax.net/web/growth-hacking/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Marketing Digital](https://miriadax.net/web/marketing-digital-2-edicion-/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Marketing Digital](/👨‍🏫-curso-marketing-digital-david-rodriguez) (David Rodriguez, Youtube)
-* [Mercadeo en Red o Network Marketing](https://www.udemy.com/mercadeo-en-red-o-network-maketing){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Mercadeo en Red o Network Marketing](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fmercadeo-en-red-o-network-maketing){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ### Prestashop
 
-* [Desarrollo de Módulos para Prestashop](https://www.udemy.com/crear-modulos-para-prestashop){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Prestashop: tienda e-commerce desde cero](https://www.udemy.com/prestashop-tienda-ecommerce-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Desarrollo de Módulos para Prestashop](	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcrear-modulos-para-prestashop	){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Prestashop: tienda e-commerce desde cero](	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fprestashop-tienda-ecommerce-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ### WooCommerce
 
-* [Crear una tienda Online desde cero con Divi y WooCommerce](https://www.udemy.com/crear-una-tienda-online-desde-cero-con-divi-y-woocommerce){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Procesar pagos con Wompi para Tiendas Virtuales Woocommerce](https://www.udemy.com/course/procesar-pagos-con-wompi-para-tiendas-virtuales-woocommerce/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://www.udemy.com/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Tienda Online con WooCommerce desde cero](https://www.udemy.com/tienda-online-con-woocommerce-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Crear una tienda Online desde cero con Divi y WooCommerce](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcrear-una-tienda-online-desde-cero-con-divi-y-woocommerce){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Procesar pagos con Wompi para Tiendas Virtuales Woocommerce](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprocesar-pagos-con-wompi-para-tiendas-virtuales-woocommerce%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Tienda en línea con Wordpress y WooCommerce - Guía Completa](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ftienda-en-linea-con-wordpress-y-woocommerce-guia-completa){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Tienda Online con WooCommerce desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ftienda-online-con-woocommerce-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [⏫ Subir a E-Commerce 🛒](/cursos-tecnologia/#-comercio-electrónico){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -308,15 +300,15 @@ sidebar:
 
 * [Curso básico de Backbone.js](https://devcode.la/cursos/curso-basico-de-backbonejs){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
 * [Curso de Firebase](https://www.youtube.com/playlist?list=PLEtcGQaT56chIjXff_cAEglfe6gBSNFHj) (Jesús Conde, Youtube)
-* [De Novato a Desarrollador Exitoso](https://www.udemy.com/de-novato-a-desarrollador-exitoso){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [De Novato a Desarrollador Exitoso](	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fde-novato-a-desarrollador-exitoso	){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Introducción al desarrollo web](https://www.youtube.com/playlist?list=PLfYLq8pbpMkBrFwrC-G2yI2GgCwClEouj){:target="_blank" rel="nofollow,noreferrer"} (iDESWEB, YouTube)
 
 ## Android <i class="fab fa-android"></i>
 
-* [Android: Fundamentos para crear tus primeras apps de calidad](https://www.udemy.com/fundamentos-de-android-para-crear-apps-de-calidad){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Android Studio: Instalación, emuladores, git, plugins y tips](https://www.udemy.com/android-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ffundamentos-de-android-para-crear-apps-de-calidad){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Android Studio: Instalación, emuladores, git, plugins y tips](plugins-y-tips	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56chEhBYGzWJo8V5mmQABmRJe){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
-* [Aprende a programar tu primera app](https://www.EDX.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 * [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Curso básico de Android](https://devcode.la/cursos/curso-basico-de-android){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
 * [Curso de Android con Android Studio](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
@@ -324,7 +316,7 @@ sidebar:
 * [Curso de Aplicaciones Android](https://www.youtube.com/playlist?list=PL7EA29F3B739286CA){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 * [Desarrollo en HTML5, CSS y JavaScript de Apps Web, Android..](https://miriadax.net/web/html5mooc/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Introducción a fundamentos Android, ¡Desarrolla una app completa!](https://plataforma.keepcoding.io/p/curso-gratis-fundamentos-android-online){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-* [Introducción a la programación Android](https://www.EDX.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 * [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 
@@ -336,20 +328,20 @@ sidebar:
 
 ## Angular <i class="fab fa-angular"></i>
 
-* [Angular: Convierte cualquier template HTML en una WebAPP](https://www.udemy.com/html-hacia-angular){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Angular: Fundamentos desde cero](https://www.udemy.com/curso-angular){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Angular: Convierte cualquier template HTML en una WebAPP](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fhtml-hacia-angular){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Angular: Fundamentos desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcurso-angular){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Angular 2 básico](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, YouTube)
-* [Angular 2 y 4, componentes](https://www.udemy.com/componentes-angular-101){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Angular 4: convertir un template HTML en una aplicación web](https://www.udemy.com/html-hacia-angular){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Angular 4: instalación y componentes](https://www.udemy.com/introduccion-a-angular-4){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Angular 5 y TypeScript; Introducción](https://www.udemy.com/angular-5-y-typescript-curso-de-introduccion-paso-a-paso){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2.017)
-* [Compodoc: crea documentación en proyectos Angular/Ionic](https://www.udemy.com/compodoc-crea-documentacion-en-angular-ionic){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Angular 2 y 4, componentes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcomponentes-angular-101){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Angular 4: convertir un template HTML en una aplicación web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fhtml-hacia-angular){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Angular 4: instalación y componentes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fintroduccion-a-angular-4){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Angular 5 y TypeScript; Introducción](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fangular-5-y-typescript-curso-de-introduccion-paso-a-paso){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2.017)
+* [Compodoc: Crear documentación en proyectos Angular / Ionic](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcompodoc-crea-documentacion-en-angular-ionic){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Curso de Angular 2](https://www.youtube.com/playlist?list=PLIcuwIrm4rKfkfJjKZ45oIskF9pI9p9n6){:target="_blank" rel="nofollow,noreferrer"} (Desarrolloweb.com, Youtube)
 * [Curso de Angular 2](https://www.youtube.com/playlist?list=PLEtcGQaT56ch63VgSUCOle6QNBqK8ewvd){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 * [Curso de Angular 4](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8-9vxaY4BHRB9wlzUgPzD1){:target="_blank" rel="nofollow,noreferrer"} (Eduardo Ibarra, Youtube)
 * [Curso de Angular 4](https://www.youtube.com/playlist?list=PLEtcGQaT56chhi-qsqxIrUG_n9pXYCZ8z){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 * [Curso de Angular JS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgHfdvGguisToK90z321pRl){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
-* [Empezando con Angular 5](https://www.udemy.com/empezando-con-angular-5){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Empezando con Angular 5](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fempezando-con-angular-5){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Introducción a Angular 6](https://plataforma.keepcoding.io/p/curso_angular_6_intro){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 * [Introducción curso fundamentos Angular JS + HTML5 + CSS3](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-html5-css3-angular){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 
@@ -360,8 +352,8 @@ sidebar:
 * [Curso de Docker](https://www.youtube.com/playlist?list=PLEtcGQaT56chIpnSavOSvaU2ZGAW7d1vE){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 * [Creación de una Imagen con Docker](/spring-boot-docker-con-albert-coronado/) (Albert Coronado, Youtube) (2019)
 * [Docker](https://www.youtube.com/playlist?list=PLn5IkU1ZhgiZl4EH7AFkqs-pqF6ZUz_iS){:target="_blank" rel="nofollow,noreferrer"} (JGAITPro, YouTube)
-* [Iniciando con Containers en Dockers](https://www.udemy.com/iniciando-con-containers-en-docker){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Introducción al backend en PHP y MySQL (+ Docker)](https://www.udemy.com/course/introduccion-al-backend-en-php-y-mysql-docker){:target="_blank" rel="nofollow,noreferrer"}
+* [Iniciando con Containers en Dockers](	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Finiciando-con-containers-en-docker){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Introducción al backend en PHP y MySQL (+ Docker)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-al-backend-en-php-y-mysql-docker){:target="_blank" rel="nofollow,noreferrer"}
 
 [⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -374,17 +366,17 @@ sidebar:
 * [Curso de Ionic Framework](https://www.youtube.com/playlist?list=PLYPjmy5IVxT-7FV0uzpG2izFhGoE0Hq2y) (Eduardo Ibarra, Youtube)
 * [Curso de Ionic: Acceso a base de datos MySql y Laravel 5.3](https://www.youtube.com/playlist?list=PLYPjmy5IVxT_EvelYctg_9Euxdhrnq3He){:target="_blank" rel="nofollow,noreferrer"} (Eduardo Ibarra, Youtube)
 * [Ionic](https://www.youtube.com/playlist?list=PLEtcGQaT56chdXOZeYY8uyFeHqDZQqgVg){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, YouTube)
-* [Ionic: crear una aplicación iOS o Android](https://www.udemy.com/curso-de-ionic-aprende-a-crear-una-aplicacion-ios-o-android){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Ionic: crear una aplicación iOS o Android](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcurso-de-ionic-aprende-a-crear-una-aplicacion-ios-o-android){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Ionic, introducción y creación de una app](https://www.youtube.com/playlist?list=PLEtcGQaT56chdXOZeYY8uyFeHqDZQqgVg){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 
 ## JQuery
 
-* [JQuery para implementar tus aplicaciones web (2017)](https://www.udemy.com/aprende-jquery-para-implementar-tus-aplicaciones-web){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [jQuery UI - Amplia los límites de jQuery](https://www.udemy.com/jquery-ui-amplia-los-limites-de-jquery){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [JQuery para implementar tus aplicaciones web (2017)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faprende-jquery-para-implementar-tus-aplicaciones-web){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [jQuery UI - Amplia los límites de jQuery](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjquery-ui-amplia-los-limites-de-jquery){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ## Node <i class="fab fa-node-js"></i>
 
-* [Crear una REST API desde Cero con NodeJS y AdonisJS](https://www.udemy.com/course/curso-crea-una-rest-api-desde-cero-con-nodejs-y-adonisjs/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
+* [Crear una REST API desde Cero con NodeJS y AdonisJS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-crea-una-rest-api-desde-cero-con-nodejs-y-adonisjs%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 * [Curso de NodeJS](https://www.youtube.com/playlist?list=PL38CA7BD8CB5F3FF9){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 * [Desarrollo API Web Restful con NodeJS](https://www.youtube.com/playlist?list=PLEtcGQaT56cgMsG-eOksskBHIb9Rq4VUG){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, YouTube)
 * [Desarrollo de servicios en la nube con HTML5, JavaScript y node.js](https://miriadax.net/web/desarrollo-de-servicios-en-la-nube-con-html5-javascript-y-nodejs-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
@@ -792,7 +784,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Interfaz Gráfica con Tkinter](https://unipython.com/curso-de-tkinter){:target="_blank" rel="nofollow,noreferrer"}
 * [Master en Python3. Aprende de 0 a EXPERTO Practicando](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando){:target="_blank" rel="nofollow,noreferrer"}
 * [Procesamiento de Imágenes: OpenCV y Python](https://unipython.com/curso-procesamiento-imagenes-opencv-python){:target="_blank" rel="nofollow,noreferrer"}
-* [Programación para todos (empezando con Python)](https://www.EDX.org/es/course/programacion-para-todos-empezando-con-python){:target="_blank" rel="nofollow,noreferrer"} (2019) (EDX \ Universidad de Michigan)
+* [Programación para todos (empezando con Python)](https://www.edx.org/es/course/programacion-para-todos-empezando-con-python){:target="_blank" rel="nofollow,noreferrer"} (2019) (EDX \ Universidad de Michigan)
 * [Python Avanzado con Dlib & OpenCV](https://unipython.com/curso-de-python-avanzado-con-dlib-opencv){:target="_blank" rel="nofollow,noreferrer"}
 * [Python 3. Curso completo de Python 3. Aprende desde cero](https://www.udemy.com/course/curso-python){:target="_blank" rel="nofollow,noreferrer"}
 * [Selenium con Python](https://unipython.com/curso-selenium){:target="_blank" rel="nofollow,noreferrer"}
@@ -833,7 +825,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Aspectos básicos de la planificación y la gestión de proyectos](https://www.coursera.org/learn/uva-darden-project-management-es){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
-* [Cómo implantar grupos de mejora de procesos](https://www.EDX.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 * [Curso de Git y Github](https://www.youtube.com/playlist?list=PL353A30C7CCE5098F){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 * [Curso de Patrones de Diseño de Software](/crear-patrones-de-dise%C3%B1o-de-software-con-jap-software/) (Jap Software, Youtube)
 * [De la idea al plan de proyectos en 10 pasos (2014)](https://ocw.ehu.eus/course/view.php?id=336){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -842,7 +834,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Gestión de proyectos con metodologías ágiles y enfoques Lean](https://miriadax.net/web/gestion-de-proyectos-con-metodologias-agiles-y-enfoques-lean-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Gestión de proyectos Software con Git y Github](https://miriadax.net/web/gitmooc/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Gestión Participativa](https://www.EDX.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Gestión Participativa](https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 * [Git y Github Avanzado](https://www.youtube.com/playlist?list=PLxyfMWnjW2kvHLzz87dMz7vy2At2pYlj_){:target="_blank" rel="nofollow,noreferrer"} (Make it Real, YouTube)
 * [Groupware en la gestión del conocimiento (2014)](https://ocw.ehu.eus/course/view.php?id=326){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Ingeniería del Software I (2011)](https://ocw.unican.es/course/view.php?id=169){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -850,7 +842,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Integración continua con Github Education y Travis](https://www.udemy.com/integracion-continua-con-github-education-y-travis){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Introducción a experimentación Lean](https://www.udemy.com/introduccion-a-experimentacion-lean){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Introducción a Git, Github & SourceTree](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-git-github-sourcetree){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
-* [Introducción a la Gestión de Proyectos](https://www.EDX.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Introducción a la Gestión de Proyectos](https://www.edx.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 * [Introducción a Ingeniería del Software](https://www.edx.org/course/introduccion-a-la-ingenieria-del-software){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Autónoma de Madrid)
 * [JUnit: Pruebas unitarias para Java](https://www.makigas.es/series/junit){:target="_blank" rel="nofollow,noreferrer"} (makigas)
 * [Metodología de Desarrollo Visual (2012)](http://ocw.uc3m.es/ingenieria-informatica/metodologia-de-desarrollo-visual){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -896,8 +888,8 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Curso de Excel 2010 Básico](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkCs-P-AnQhxsSyxSxv9jfI){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 * [Curso VBA Excel](https://www.youtube.com/playlist?list=PLF79C9D65E1EC4807){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 * [Domina Excel 2013; Básico e Intermedio](https://www.udemy.com/domina-excel-2013-basico-intermedio-en-menos-de-4-horas){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Excel 1 (Básico)](https://www.EDX.org/course/excel-upvalenciax-xls101x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-* [Excel 2 (Gestión de Datos)](https://www.EDX.org/course/excel-2-gestion-de-datos-upvalenciax-xls201x){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Excel 1 (Básico)](https://www.edx.org/course/excel-upvalenciax-xls101x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Excel 2 (Gestión de Datos)](https://www.edx.org/course/excel-2-gestion-de-datos-upvalenciax-xls201x){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 * [Excel 2013: Intermedio/Avanzado](https://www.youtube.com/playlist?list=PLmJE_P_j3_IedCBho8XsiqJ_7zNpdRHuX){:target="_blank" rel="nofollow,noreferrer"} (WHYGS, YouTube)
 * [Excel 2016 Avanzado](https://www.youtube.com/playlist?list=PLLniqWgyb4HGYSJQySM46YNNRHF0_2POA){:target="_blank" rel="nofollow,noreferrer"} (Dostin Hurtado, YouTube)
 * [Funciones de Excel. Píldoras Rápidas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnCoBbzTNcA756BvMREA6Hl){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
@@ -910,7 +902,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 ### Powerpoint
 
 * [Curso Powerpoint 2013](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmWjtgpPMSVRKu-g8SoAntx){:target="_blank" rel="nofollow,noreferrer"} (Pildoras Informáticas, Youtube)
-* [Diseña presentaciones eficaces con PowerPoint](https://www.EDX.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
+* [Diseña presentaciones eficaces con PowerPoint](https://www.edx.org/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
 * [Introducción a PowerPoint 2010](https://www.udemy.com/introduccion-a-powerpoint-2010){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Introducción al PowerPoint 2013](https://www.udemy.com/introduccion-al-powerpoint-2013){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Microsoft Powerpoint 2013](https://www.youtube.com/playlist?list=PL5vjFJ0wFekJnqeP2qZNHGft7SoIGJu8B) (Yoney Gallardo, YouTube)
@@ -920,7 +912,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Curso de Word 2010 Avanzado](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnPxtSjts4Tieg4AbIRYz1K){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube)
 * [Introducción a Word 2010](https://www.udemy.com/introduccion-a-word-2010){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Microsoft Word 2013](https://www.youtube.com/playlist?list=PLomN84AdULIAyCVh5aH55gkbANr7dBctW){:target="_blank" rel="nofollow,noreferrer"} (Aula Click, YouTube)
-* [Word intermedio: herramientas de formato y productividad](https://www.EDX.org/es/course/word-intermedio-herramientas-de-formato-y-producti){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
+* [Word intermedio: herramientas de formato y productividad](https://www.edx.org/es/course/word-intermedio-herramientas-de-formato-y-producti){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
 
 ### Google Drive
 
@@ -1066,7 +1058,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [Diseño, organización y evaluación de videojuegos y gamificación](https://miriadax.net/web/diseno-organizacion-y-evaluacion-de-videojuegos-y-gamificacion-3-edicion-_201604220800){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Diseño y Creación de Videojuegos](https://www.coursera.org/specializations/diseno-videojuegos#courses){:target="_blank" rel="nofollow,noreferrer"} (Coursera) (6 Cursos en 1)
 * [Introducción a la gamificación sobre casos prácticos](https://miriadax.net/web/introduccion-a-la-gamificacion-a-traves-de-casos-practicos){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Introducción al desarrollo de videojuegos con Unity](https://www.EDX.org/course/introduccion-al-desarrollo-de-upvalenciax-uny201-x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
+* [Introducción al desarrollo de videojuegos con Unity](https://www.edx.org/course/introduccion-al-desarrollo-de-upvalenciax-uny201-x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX)
 * [Introducción al desarrollo de videojuegos con Unity3D (2016)](http://ocw.uji.es/curso/1434149){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Introducción al diseño de videojuegos](https://miriadax.net/web/introduccion-al-diseno-de-videojuegos-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Kinect básico](https://www.youtube.com/playlist?list=PLGlfxrSj1dRflUF3tknkcE2Xs9k7cMsre){:target="_blank" rel="nofollow,noreferrer"} (Yazir Solis, YouTube)
@@ -1110,7 +1102,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [Fundamentos de las redes de comunicaciones: de las aplicaciones a los bits (2007)](http://ocw.uc3m.es/ingenieria-telematica/fundamentos-de-las-redes-de-comunicaciones-de-las-aplicaciones-a-los-bits){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [GNS3 Network Emulator: Instalación y configuración](https://www.udemy.com/gns3-network-emulator-instalacion-y-configuracion){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Inteligencia en redes de comunicaciones (2011)](http://ocw.uc3m.es/ingenieria-telematica/inteligencia-en-redes-de-comunicaciones){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Introducción al Internet de las Cosas y sus Aplicaciones](https://www.EDX.org/es/course/introduccion-al-internet-de-las-cosas-iot-y-sus-ap){:target="_blank" rel="nofollow,noreferrer"} (2019) (EDX \ Universidad de Rosario)
+* [Introducción al Internet de las Cosas y sus Aplicaciones](https://www.edx.org/es/course/introduccion-al-internet-de-las-cosas-iot-y-sus-ap){:target="_blank" rel="nofollow,noreferrer"} (2019) (EDX \ Universidad de Rosario)
 * [Introducción a la Internet de las Cosas](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/ingenieria-telematica/introduccion-a-la-internet-de-las-cosas){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Introducción a la Internet de las Cosas](https://www.edx.org/course/introduccion-al-internet-de-las-cosas-iot){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
 * [Introducción a la Internet de las Cosas (IoT)](https://mva.microsoft.com/es-es/training-courses/introduccin-a-internet-de-las-cosas-iot-16907){:target="_blank" rel="nofollow,noreferrer"} (OCW)
@@ -1196,7 +1188,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 [Arduino 🔦](/cursos-tecnologia/#arduino-){: .btn .btn--inverse .btn--large} [Casas Inteligentes 🏡](/cursos-tecnologia/#casas-inteligentes-){: .btn .btn--inverse .btn--large}  [Inteligencia Artificial](/cursos-tecnologia/#inteligencia-artificial){: .btn .btn--inverse .btn--large} [Raspberry Pi](/biblioteca-de-programacion-y-tecnologia/#raspberry-pi){: .btn .btn--inverse .btn--large}
 
 * [Chatbots con Chatfuel para principiantes](https://www.udemy.com/curso-chatfuel-gratis){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Diseña, fabrica y programa tu propio robot](https://www.EDX.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
+* [Diseña, fabrica y programa tu propio robot](https://www.edx.org/course/disena-fabrica-y-programa-tu-propio-upvalenciax-dyor101x){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
 * [Diseño y fabricación de un robot móvil](https://www.youtube.com/playlist?list=PL9A2AEC3E2F1BD975){:target="_blank" rel="nofollow,noreferrer"} (entivoo, YouTube)
 * [Empleo del ordenador personal en la instrumentación de panel (2012)](https://ocw.ehu.eus/course/view.php?id=54){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Iniciación al mundo de los aeronaves tripulados en remoto (drones)](https://miriadax.net/web/iniciacion-al-mundo-de-las-aeronaves-tripuladas-en-remoto-drones-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
@@ -1236,7 +1228,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [Herramientas de la Inteligencia Artificial (2010)](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Inteligencia artificial: Clips (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=112){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Inteligencia artificial: Prolog (2011)](https://campusvirtual.ull.es/ocw/course/view.php?id=104){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Introducción a la Inteligencia Artificial](https://www.EDX.org/course/introduccion-a-la-inteligencia-artificial){:target="_blank" rel="nofollow,noreferrer"} (2019) (EDX \ Universidad de Anáhuac - México)
+* [Introducción a la Inteligencia Artificial](https://www.edx.org/course/introduccion-a-la-inteligencia-artificial){:target="_blank" rel="nofollow,noreferrer"} (2019) (EDX \ Universidad de Anáhuac - México)
 * [Técnicas de inteligencia artificial (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnicas-de-inteligencia-artificial-2010.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
@@ -1277,7 +1269,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 * [Administración de sistemas operativos (2010)](http://www.upv.es/pls/oalu/sic_asi.ficha_asig_ocw?p_rama=T&p_idioma=c&p_vista=MSE&p_asi=6842&p_caca=2010) (OCW)
 * [Cobre, el fiel amigo de la comunicación](https://miriadax.net/web/cobre-el-fiel-amigo-de-la-comunicacion-2-edicion-/inicio) (MiriadaX)
-* [Codificación de audio: más allá del MP3](https://www.EDX.org/es/course/codificacion-de-audio-mas-alla-del-mp3-upvalenciax-mp3201x-0) (EDX)
+* [Codificación de audio: más allá del MP3](https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3-upvalenciax-mp3201x-0) (EDX)
 * [Compresión de vídeo (2017)](https://ocw.unican.es/course/view.php?id=13) (OCW)
 * [Conectando el futuro con fibra óptica](https://miriadax.net/web/conectando-el-futuro-con-fibra-optica-11-edicion-/inicio) (MiriadaX)
 * [Desarrollo de sistemas de información (2013)](https://ocw.unican.es/course/view.php?id=99) (OCW)
@@ -1292,11 +1284,11 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [Particiones y Raid](https://www.youtube.com/playlist?list=PLssmz9LfwThzw8dnKqbbdsH1xdoovqZmi) (Tecnoges, YouTube)
 * [Reparación y mantenimiento de dispositivos móviles](https://www.youtube.com/playlist?list=PLfWJBWUqkmeAV6JifEr0BuibOlS7_NI01) (Tecnología Capacitate, YouTube)
 * [Sistemas Abiertos: Unix](http://ocw.upm.es/arquitectura-y-tecnologia-de-computadores/sistemas-abiertos-unix) (OCW)
-* [Sistemas de Información y ordenadores, Parte 1: Sistemas de información para la empresa](https://www.EDX.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-1x) (EDX)
-* [Sistemas de Información y ordenadores, Parte 2: Hardware](https://www.EDX.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-2x) (EDX)
-* [Sistemas de Información y ordenadores, Parte 3: Desarrollo de software](https://www.EDX.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-3x) (EDX)
-* [Sistemas de Información y ordenadores, Parte 4: Programación](https://www.EDX.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-4x) (EDX)
-* [Sistemas de información y ordenadores, Parte 5: Implicaciones sociales de las TIC](https://www.EDX.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-5x) (EDX)
+* [Sistemas de Información y ordenadores, Parte 1: Sistemas de información para la empresa](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-1x) (EDX)
+* [Sistemas de Información y ordenadores, Parte 2: Hardware](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-2x) (EDX)
+* [Sistemas de Información y ordenadores, Parte 3: Desarrollo de software](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-3x) (EDX)
+* [Sistemas de Información y ordenadores, Parte 4: Programación](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-4x) (EDX)
+* [Sistemas de información y ordenadores, Parte 5: Implicaciones sociales de las TIC](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-5x) (EDX)
 * [Sistemas Distribuidos (2013)](http://ocw.uc3m.es/ingenieria-informatica/sistemas-distribuidos-2013) (OCW)
 * [Sistemas Multimedia (2009)](https://poliformat.upv.es/portal/tool/f682ea53-3e5c-411c-0097-a0a16d5fb6a9?panel=Main) (OCW)
 * [Sistemas Operativos 'chmod - bash' (2014)](https://campusvirtual.ull.es/ocw/course/view.php?id=105) (OCW)
@@ -1319,7 +1311,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [3 Claves para convertir tu idea en dinero](https://www.udemy.com/3-claves-para-convertir-tu-idea-en-dinero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [5 Estrategias para invertir en acciones, crypto y forex](https://www.udemy.com/5-estrategias-para-invertir-en-acciones-forex-y-criptomedas){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Buenas prácticas en el uso académico de la propiedad intelectual](https://miriadax.net/web/buenas-practicas-en-el-uso-academico-de-la-propiedad-intelectual-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Buscar en Internet](https://www.EDX.org/course/buscar-en-internet-upvalenciax-bi101x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
+* [Buscar en Internet](https://www.edx.org/course/buscar-en-internet-upvalenciax-bi101x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
 * [Búsqueda y Gestión de la Información en la Web](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion-en-la-web-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX \ Universidad de Santiago de Chile)
 * [Búsqueda y Gestión de la Información para la Elaboración de un Trabajos Académicos](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX \ Universidad Católica de Valencia)
 * [Creación de encuestas](https://www.udemy.com/creacion-de-encuestas){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -1333,7 +1325,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 * [Desarrollo de negocios exitosos en Internet](https://www.udemy.com/desarrollo-correcto-de-un-negocio-online){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [El cibermercado en el espacio Internet (2010)](https://ocw.ehu.eus/file.php/123/cibermercado/Course_listing.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Encontrando tesoros en la red](https://miriadax.net/web/encontrando-tesoros-en-la-red-4-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Escribir para Convencer](https://www.EDX.org/es/course/escribir-para-convencer){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Pontificia Universidad Javeriana)
+* [Escribir para Convencer](https://www.edx.org/es/course/escribir-para-convencer){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Pontificia Universidad Javeriana)
 * [Escribir un ensayo](https://www.udemy.com/escribir-un-ensayo){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Experto en Email Marketing con GetResponse](https://www.udemy.com/curso-de-email-marketing-con-getresponse){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Google AdWords 2018 desde fundamentos hasta optimización](https://www.udemy.com/google-adwords-2018-desde-fundamentos-hasta-optimizacion){:target="_blank" rel="nofollow,noreferrer"} (Udemy)

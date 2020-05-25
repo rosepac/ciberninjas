@@ -27,6 +27,7 @@ url: "https://ciberninjas.com"
 repository: "rosepac/ciberninjas"
 head_scripts:
   - /assets/js/lazysizes.min.js
+  - /assets/js/afiliados.js
 teaser: "/assets/images/logos/desarrollador-full-stack-1.webp"
 logo: "/assets/images/logos/emoji-ciberninjas.png"
 masthead_title: "Ciberninjas"
