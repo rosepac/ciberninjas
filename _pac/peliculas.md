@@ -49,6 +49,7 @@ Desde hace tiempo llevo realizando una pequeña colección de mis películas y s
 * Sin amigos: Dark Web (2018) (Terror)
 * El mejor verano de mi vida (2018)
 * Amor a Medianoche (2018) (Romántica / Drama)
+* Red Sparrow (2018)
 
 ## Películas Siempre
 
