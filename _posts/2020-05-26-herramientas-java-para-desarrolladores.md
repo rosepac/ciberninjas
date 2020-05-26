@@ -42,7 +42,7 @@ canonical_URL: https://ciberninjas.com/java-herramientas-para-desarrolladores/
 permalink: /java-herramientas-para-desarrolladores/
 date: 2020-05-27
 last_modified_at: 
-published: false
+published: true
 
 ---
 
