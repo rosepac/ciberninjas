@@ -38,7 +38,7 @@ header:
       url: "/java/"
     - label: "Framework Java"
       url: "/java-herramientas-para-desarrolladores/"
-title: 'Las 20 mejores herramientas Java para desarrolladores de 2020'
+title: 'Las 20 mejores herramientas Java para desarrolladores 2020'
 description: >-
   Hay muchas herramientas disponibles para la gestión de Java. Este software facilita todo el proceso de desarrollo, prueba e implementación en Java. Aquí, algunos nombres principales con sus características y enlaces de descarga.
 excerpt: >-
