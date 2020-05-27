@@ -38,7 +38,6 @@ Sea cual sea la época que estes buscando: la edad media, la edad moderna o la e
 * [Biblioteca Digital Hispánica](http://bdh.bne.es/bnesearch/Search.do?&destacadas1=Epub&home=true&languageView=es){:target="_blank" rel="nofollow,noreferrer"}
 * [Biblioteca Digital Mundial](https://www.wdl.org/es/){:target="_blank" rel="nofollow,noreferrer"} (+ 17.000 Documentos de la Historia. Gracias a Naciones Unidas)
 * [CSIC: Ciencia Abierta](https://www.csic.es/es/ciencia-abierta){:target="_blank" rel="nofollow,noreferrer"}
-  * [Biblioteca Virtual y Archivo del CSIC](http://bibliotecas.csic.es/){:target="_blank" rel="nofollow,noreferrer"} (59 bibliotecas, 14 archivos científicos, más de 565.000 documentos electrónicos)
 * [Dominio Público](http://www.dominiopublico.es){:target="_blank" rel="nofollow,noreferrer"}
 * [EBiblio](https://www.culturaydeporte.gob.es/cultura/areas/bibliotecas/mc/eBiblio/inicio.html){:target="_blank" rel="nofollow,noreferrer"} Catálogo digital del Servicio Público de Bibliotecas de España.
 * [Elejandría](https://www.elejandria.com/){:target="_blank" rel="nofollow,noreferrer"}
@@ -56,6 +55,7 @@ Re edición en ebook de autores olvidados de los que sus obras se encuentran en 
   * [Temáticas - 72](https://omegalfa.es/temas.php){:target="_blank" rel="nofollow,noreferrer"}
 * [One More Library](https://onemorelibrary.com/index.php/en/languages/spanish){:target="_blank" rel="nofollow,noreferrer"} (1.200 Clásicos en Español)
 * [Planeta Libro](https://planetalibro.net/){:target="_blank" rel="nofollow,noreferrer"}
+* [Recolecta](https://buscador.recolecta.fecyt.es/){:target="_blank" rel="nofollow,noreferrer"} (Buscador de documentos sobre ciencia y tecnología en abierto, más de 2.000.000 de documentos de 142 ficheros indexados)
 * [Textos Info](https://www.textos.info/){:target="_blank" rel="nofollow,noreferrer"}
 * [WikiSource](https://es.wikisource.org/wiki/Portada){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -65,10 +65,19 @@ Sci-Hub es un sitio web que proporciona acceso gratuito a millones de artículos
 
 Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al alto costo de los trabajos de investigación detrás de los muros de pago. El sitio es ampliamente utilizado tanto en países desarrollados como en desarrollo. A partir de octubre de 2019, afirmó contener 76 millones de artículos académicos y atender aproximadamente 400,000 solicitudes por día.
 
-## **Bibliotecas Documentos Digitales**
+## **Repositorios Documentales Digitales**
 
+* 🗃 [Archivo Digital del CSIC](http://bibliotecas.csic.es/){:target="_blank" rel="nofollow,noreferrer"} (59 bibliotecas, 14 archivos científicos, más de 565.000 documentos electrónicos)
+* 🗃 [Biblioteca Digital del Patrimonio Bibliográfico](https://bvpb.mcu.es/es/consulta/busqueda.cmd){:target="_blank" rel="nofollow,noreferrer"}{:target="_blank" rel="nofollow,noreferrer"}
+* 🗃 [Biblioteca Digital del Patrimonio Iberoamericano](http://www.iberoamericadigital.net/BDPI/Advanced.do?idxTab=3&languageView=es){:target="_blank" rel="nofollow,noreferrer"}{:target="_blank" rel="nofollow,noreferrer"}
 * 🎬 [Efilm](https://efilm.online/){:target="_blank" rel="nofollow,noreferrer"}: Biblioteca pública GRATIS de préstamo de películas y series digitales para varias provincias de España.
-* 🔊 [Europeana](https://www.europeana.eu/es/search?page=1&qf=MEDIA%3Atrue&qf=TEXT_FULLTEXT%3Atrue&qf=TYPE%3A%22TEXT%22&qf=RIGHTS%3Ahttp%2a%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fmark%2a&query=&reusability=open&view=grid){:target="_blank" rel="nofollow,noreferrer"} (repositorio de más de 580.000 documentos, entre textos, imágenes, sonidos y vídeos)
+* 🖼 [Europeana](https://www.europeana.eu/es/search?page=1&qf=MEDIA%3Atrue&qf=TEXT_FULLTEXT%3Atrue&qf=TYPE%3A%22TEXT%22&qf=RIGHTS%3Ahttp%2a%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fmark%2a&query=&reusability=open&view=grid){:target="_blank" rel="nofollow,noreferrer"} (repositorio de más de 580.000 documentos, entre textos, imágenes, sonidos y vídeos)
+* 🗃 [Gallica](https://gallica.bnf.fr/accueil/es/content/accueil-es?mode=desktop){:target="_blank" rel="nofollow,noreferrer"} (Casi 350.000 documentos del archivo francés)
+* 🗃 [Hispana: Archivos Históricos del Patrimonio Cultural](https://hispana.mcu.es/es/comunidades/directorio.do){:target="_blank" rel="nofollow,noreferrer"} (581 Audiolibros, en su gran mayoría clásicos)
+* 🗃 [Librería Pública Digital de América](https://dp.la/){:target="_blank" rel="nofollow,noreferrer"}{:target="_blank" rel="nofollow,noreferrer"}
+
+Descubre 37,136,118 imágenes, textos, videos y sonidos de todo Estados Unidos.
+
 * 🔊 [LibriVox](https://librivox.org/search?primary_key=5&search_category=language&search_page=1&search_form=get_results){:target="_blank" rel="nofollow,noreferrer"} (581 Audiolibros, en su gran mayoría clásicos)
 
 ## **Bibliotecas Online en Abierto**
@@ -140,7 +149,7 @@ Búsquedas Sugeridas: Poesía Crítica, Poesía Social, Buero Vallejo, Miguel He
 ### Índice
 
 - [**Bibliotecas Online**](#bibliotecas-online)
-- [**Bibliotecas Documentos Digitales**](#bibliotecas-documentos-digitales)
+- [**Repositorios Documentales Digitales**](#repositorios-documentales-digitales)
 - [**Bibliotecas Online en Abierto**](#bibliotecas-online-en-abierto)
 - [**Bibliotecas Online Abiertas de América**](#bibliotecas-online-abiertas-de-am%c3%a9rica)
 - [**Bibliotecas Presenciales**](#bibliotecas-presenciales)
