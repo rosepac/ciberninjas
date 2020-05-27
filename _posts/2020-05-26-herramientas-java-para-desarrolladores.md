@@ -36,8 +36,8 @@ header:
   actions:
     - label: "Qué es Java"
       url: "/java/"
-    - label: "Framework Java"
-      url: "/java-herramientas-para-desarrolladores/"
+    - label: "Frameworks Java"
+      url: "/10-mejores-frameworks-java/"
 title: 'Las 20 mejores herramientas Java para desarrolladores 2020'
 description: >-
   Hay muchas herramientas disponibles para la gestión de Java. Este software facilita todo el proceso de desarrollo, prueba e implementación en Java. Aquí, algunos nombres principales con sus características y enlaces de descarga.
@@ -57,26 +57,26 @@ Hay muchas herramientas disponibles para la gestión de Java. Este software faci
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/java-herramientas-para-desarrolladores/#1-junit"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#2-apache-netbeans"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#3-mockito"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#4-gradle"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#5-oracle-jdeveloper"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#6-groovy"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#7-apache-maven"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#8-yourkit"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#9-spark"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#10-eclipse"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#11-visualvm"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#12-idea-intellij"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#13-apache-jmeter"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#14-kit-de-desarrollo-de-java"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#15-java-decompiler"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#16-jrat"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#17-clover"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#18-cobertura"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#19-ehcache"></a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#20-findbugs"></a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#1-junit">1. Junit</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#2-apache-netbeans">2. Apache Netbeans</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#3-mockito">3. Mockito</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#4-gradle">4. Gradle</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#5-oracle-jdeveloper">5. Oracle Jdeveloper</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#6-groovy">6. Groovy</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#7-apache-maven">7. Apache Maven</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#8-yourkit">8. Yourkit</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#9-spark">9. Spark</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#10-eclipse">10. Eclipse</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#11-visualvm">11. Visual VM</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#12-idea-intellij">12. Idea IntelliJ</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#13-apache-jmeter">13. Apache JMeter</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#14-kit-de-desarrollo-de-java">14. Kit de Desarrollo de Java</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#15-java-decompiler">15. Java Decompiler</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#16-jrat">16. JRat</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#17-clover">17. Clover</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#18-cobertura">18. Cobertura</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#19-ehcache">19. Ehcache</a></li>
+    <li><a href="/java-herramientas-para-desarrolladores/#20-findbugs">20. Findbugs</a></li>
   </ol>
 </nav>
 </details>
@@ -165,6 +165,7 @@ Oracle J Developer es un IDE de desarrollo Java gratuito. Permite a los desarrol
 - Permite especificar una clase de configuración para contener los metadatos
 
 [🔥 Descargar Oracle JDeveloper](https://www.oracle.com/tools/downloads/Jdeveloper-12c-downloads.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Inicio](/java-herramientas-para-desarrolladores/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Groovy**
@@ -215,7 +216,7 @@ YourKit es una herramienta innovadora para perfilar aplicaciones Java y .NET. Es
 - Ofrece monitoreo web de alto nivel, base de datos, E / S
 - Resultados de perfiles de alto nivel para ver el panorama general y descubrir los problemas exactos
 
-[🔥 Descargar YourKit](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar YourKit](https://www.yourkit.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Spark**
 
@@ -230,7 +231,7 @@ Spark es un framework robusto basado en Java para desarrollar aplicaciones web. 
 - Tiene una disposición para el procesamiento de flujo en tiempo real
 - Comunidad activa, progresiva y de mayor expansión.
 
-[🔥 Descargar Spark](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Spark](https://spark.apache.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **Eclipse**
 
@@ -245,6 +246,7 @@ Eclipse es un entorno de desarrollo integrado de código abierto para Java. Ofre
 - Eclipse ofrece las mejores herramientas para proyectos JEE
 
 [🔥 Descargar Eclipse](https://www.eclipse.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Inicio](/java-herramientas-para-desarrolladores/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **VisualVM**
@@ -291,7 +293,7 @@ JMeter es una herramienta de prueba de carga de código abierto. Está diseñado
 - El análisis de datos y los complementos de visualización permiten la extensibilidad y la personalización.
 - Las funciones deben proporcionar una entrada dinámica para probar la manipulación de datos
 
-[🔥 Descargar JMeter](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar JMeter](http://jmeter.apache.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 14. **Kit de desarrollo de Java**
 
@@ -319,6 +321,7 @@ Java Decompiler es una herramienta gratuita de Java que reconstruye el código f
 - Funciona para casi todas las versiones de Java
 
 [🔥 Descargar Java Decompiler](http://java-decompiler.github.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Inicio](/java-herramientas-para-desarrolladores/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 16. **JRat**
@@ -391,6 +394,7 @@ FindBugs es un proyecto Java de código abierto para análisis estático. Escane
 - Admite la detección de problemas identificados por anotaciones JSR-305
 
 [🔥 Descargar FindBugs](http://findbugs.sourceforge.net/downloads.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔝 Inicio](/java-herramientas-para-desarrolladores/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados
@@ -412,4 +416,5 @@ FindBugs es un proyecto Java de código abierto para análisis estático. Escane
 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
+[🔝 Inicio](/java-herramientas-para-desarrolladores/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
