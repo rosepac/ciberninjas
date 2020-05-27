@@ -25,29 +25,26 @@ header:
 
 En esta página vas a poder encontrar todos los libros que necesites de literatura clásica española, novela o poesía; sea lo que sea lo que busques desde aquí vas a poder encontrar lo necesario.
 
-Encontrarás dentro de estas diferentes páginas webs sin lugar a dudas a todos los autores de la literatura clásica española o en español; siempre y cuando halla transcurrido cierto tiempo desde el fallecimiento del mismo; o por lo contrario, si sus obras están bajo licencias de dominio público.
+Encontrarás dentro de estas diferentes páginas webs sin lugar a dudas a todos los autores de la literatura clásica española o en español; siempre y cuando haya transcurrido cierto tiempo desde el fallecimiento del mismo, o por lo contrario, si sus obras se encuentran bajo licencias de dominio público.
 
-Entre los muchos autores de la literatura española que te podrás encontrar, están los escritores de todas las difentes épocas históricas de a lo largo y ancho de la historia de España.
-
-Sea cual sea la época que estes buscando: la edad media, la edad moderna o la edad contemporánea; en cualquiera de sus épocas o siglos; si deseas más información, puedes seguir leyendo en la [parte inferior de la publicación](#introducci%c3%b3n).
+Entre los muchos autores de la literatura española que te podrás encontrar, están los escritores de todas las difentes épocas históricas de lo largo y ancho de la historia de España. Sea cual sea la época que estes buscando: la edad media, la edad moderna o la edad contemporánea; en cualquiera de sus épocas o siglos; si deseas más información, puedes seguir leyendo en la [parte inferior de la publicación](#introducci%c3%b3n).
 
 <!-- <div class="flourish-embed" data-src="story/198324"><script src="https://public.flourish.studio/resources/embed.js"></script></div> -->
-
 ## **Bibliotecas Online**
 
 * [Biblioteca Digital Hispánica](http://bdh.bne.es/bnesearch/Search.do?&destacadas1=Epub&home=true&languageView=es){:target="_blank" rel="nofollow,noreferrer"}
-* [Biblioteca Digital Mundial](https://www.wdl.org/es/){:target="_blank" rel="nofollow,noreferrer"} (+ 17.000 Documentos de la Historia. Gracias a Naciones Unidas)
+* [Biblioteca Digital Mundial](https://www.wdl.org/es/){:target="_blank" rel="nofollow,noreferrer"} >> (+ 17.000 Documentos de la Historia. Gracias a Naciones Unidas)
 * [CSIC: Ciencia Abierta](https://www.csic.es/es/ciencia-abierta){:target="_blank" rel="nofollow,noreferrer"}
 * [Dominio Público](http://www.dominiopublico.es){:target="_blank" rel="nofollow,noreferrer"}
-* [EBiblio](https://www.culturaydeporte.gob.es/cultura/areas/bibliotecas/mc/eBiblio/inicio.html){:target="_blank" rel="nofollow,noreferrer"} Catálogo digital del Servicio Público de Bibliotecas de España.
+* [EBiblio](https://www.culturaydeporte.gob.es/cultura/areas/bibliotecas/mc/eBiblio/inicio.html){:target="_blank" rel="nofollow,noreferrer"} >> (Catálogo digital del Servicio Público de Bibliotecas de España).
 * [Elejandría](https://www.elejandria.com/){:target="_blank" rel="nofollow,noreferrer"}
-* [Feedbooks](https://es.feedbooks.com/books/top?lang=es&page=1){:target="_blank" rel="nofollow,noreferrer"} (4.000 libros de dominio público)
-* [Ganso y Pulpo](https://gansoypulpo.com/autor/){:target="_blank" rel="nofollow,noreferrer"}
+* [Feedbooks](https://es.feedbooks.com/books/top?lang=es&page=1){:target="_blank" rel="nofollow,noreferrer"} >> (4.000 libros de dominio público).
+* [Ganso y Pulpo](https://gansoypulpo.com/autor/){:target="_blank" rel="nofollow,noreferrer"} 👇
 
 Re edición en ebook de autores olvidados de los que sus obras se encuentran en dominio público, como son los casos de: Mauricio Bacarisse, la Baronesa de Wilson, Pedro María Barrera, Joaquín Belda, Ricardo Blanco Asenjo, Tomás Carretero, Carlos Coello, Vicente Colorado, Joaquín Dicenta, José de Echgaray, Pedro Escamilla, José Fernández Bremón, Ramón García Sánchez, Emilio Gutiérrez Gamero, Ricardo Hernández Bermúdez, Luis Mariano de Larra, Alejandro Larrubiera, Eduardo López Bago, Leopoldo López de Saá, Eduardo de Lustonó, Fernando Martínez Pedrosa, José María Matheu, Joaquín Mazas, Florencio Moreno Godino, José Ortega Munilla, Alejandro Pérez Lugín, Juan Pérez Zúniga, Josefa Pujol de Collado, Rodríguez Chaves, José de Siles, Torcuato Tárrago y Mateos y José Zahonero.
 
 * [Gutenberg Proyecto, en Español](https://www.gutenberg.org/browse/languages/es){:target="_blank" rel="nofollow,noreferrer"}
-* [Libros CSIC](http://libros.csic.es/freebooks.php){:target="_blank" rel="nofollow,noreferrer"} (485 libros del Consejo Superior de Investigaciones Científicas)
+* [Libros CSIC](http://libros.csic.es/freebooks.php){:target="_blank" rel="nofollow,noreferrer"} >> (485 documentos editados por el Consejo Superior de Investigaciones Científicas)
 * [Literanda](https://www.literanda.com/){:target="_blank" rel="nofollow,noreferrer"}
 * [OMEGALFA](https://omegalfa.es/){:target="_blank" rel="nofollow,noreferrer"}
   * [Autores - 1.264](https://omegalfa.es/autores.php){:target="_blank" rel="nofollow,noreferrer"}
@@ -67,16 +64,14 @@ Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al
 
 ## **Repositorios Documentales Digitales**
 
-* 🗃 [Archivo Digital del CSIC](http://bibliotecas.csic.es/){:target="_blank" rel="nofollow,noreferrer"} (59 bibliotecas, 14 archivos científicos, más de 565.000 documentos electrónicos)
+* 🗃 [Archivo Digital del CSIC](http://bibliotecas.csic.es/){:target="_blank" rel="nofollow,noreferrer"} >> (59 bibliotecas, 14 archivos científicos, más de 565.000 documentos electrónicos).
 * 🗃 [Biblioteca Digital del Patrimonio Bibliográfico](https://bvpb.mcu.es/es/consulta/busqueda.cmd){:target="_blank" rel="nofollow,noreferrer"}{:target="_blank" rel="nofollow,noreferrer"}
 * 🗃 [Biblioteca Digital del Patrimonio Iberoamericano](http://www.iberoamericadigital.net/BDPI/Advanced.do?idxTab=3&languageView=es){:target="_blank" rel="nofollow,noreferrer"}{:target="_blank" rel="nofollow,noreferrer"}
-* 🎬 [Efilm](https://efilm.online/){:target="_blank" rel="nofollow,noreferrer"}: Biblioteca pública GRATIS de préstamo de películas y series digitales para varias provincias de España.
-* 🖼 [Europeana](https://www.europeana.eu/es/search?page=1&qf=MEDIA%3Atrue&qf=TEXT_FULLTEXT%3Atrue&qf=TYPE%3A%22TEXT%22&qf=RIGHTS%3Ahttp%2a%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fmark%2a&query=&reusability=open&view=grid){:target="_blank" rel="nofollow,noreferrer"} (repositorio de más de 580.000 documentos, entre textos, imágenes, sonidos y vídeos)
-* 🗃 [Gallica](https://gallica.bnf.fr/accueil/es/content/accueil-es?mode=desktop){:target="_blank" rel="nofollow,noreferrer"} (Casi 350.000 documentos del archivo francés)
-* 🗃 [Hispana: Archivos Históricos del Patrimonio Cultural](https://hispana.mcu.es/es/comunidades/directorio.do){:target="_blank" rel="nofollow,noreferrer"} (581 Audiolibros, en su gran mayoría clásicos)
-* 🗃 [Librería Pública Digital de América](https://dp.la/){:target="_blank" rel="nofollow,noreferrer"}{:target="_blank" rel="nofollow,noreferrer"}
-
-Descubre 37,136,118 imágenes, textos, videos y sonidos de todo Estados Unidos.
+* 🎬 [Efilm](https://efilm.online/){:target="_blank" rel="nofollow,noreferrer"} >> (Biblioteca pública GRATIS de préstamo de películas y series digitales para varias provincias de España).
+* 🖼 [Europeana](https://www.europeana.eu/es/search?page=1&qf=MEDIA%3Atrue&qf=TEXT_FULLTEXT%3Atrue&qf=TYPE%3A%22TEXT%22&qf=RIGHTS%3Ahttp%2a%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fmark%2a&query=&reusability=open&view=grid){:target="_blank" rel="nofollow,noreferrer" >> (Repositorio de más de 580.000 documentos, entre textos, imágenes, sonidos y vídeos).
+* 🗃 [Gallica](https://gallica.bnf.fr/accueil/es/content/accueil-es?mode=desktop){:target="_blank" rel="nofollow,noreferrer"} >> (Casi 350.000 documentos del archivo francés).
+* 🗃 [Hispana: Archivos Históricos del Patrimonio Cultural](https://hispana.mcu.es/es/comunidades/directorio.do){:target="_blank" rel="nofollow,noreferrer"} (581 Audiolibros, en su gran mayoría clásicos).
+* 🗃 [Librería Pública Digital de América](https://dp.la/){:target="_blank" rel="nofollow,noreferrer"}{:target="_blank" rel="nofollow,noreferrer"} >> (Descubre 37,136,118 imágenes, textos, videos y sonidos de todo Estados Unidos).
 
 * 🔊 [LibriVox](https://librivox.org/search?primary_key=5&search_category=language&search_page=1&search_form=get_results){:target="_blank" rel="nofollow,noreferrer"} (581 Audiolibros, en su gran mayoría clásicos)
 
@@ -100,11 +95,11 @@ Descubre 37,136,118 imágenes, textos, videos y sonidos de todo Estados Unidos.
 
 ## **Bibliotecas Online Abiertas de América**
 
-* [Biblioteca Ayacucho](https://www.clacso.org.ar/biblioteca_ayacucho/index.php){:target="_blank" rel="nofollow,noreferrer"} (CLACSO)
-* [Biblioteca Digital](http://bibliotecadigital.ilce.edu.mx/){:target="_blank" rel="nofollow,noreferrer"} [Obras Clásicas](https://bibliotecadigital.ilce.edu.mx/Colecciones/index.php?clave=ObrasClasicas){:target="_blank" rel="nofollow,noreferrer"} (ILCE)
+* [Biblioteca Ayacucho](https://www.clacso.org.ar/biblioteca_ayacucho/index.php){:target="_blank" rel="nofollow,noreferrer"} (CLACSO [*](/biblioteca-novela-poesia/#siglas))
+* [Biblioteca Digital](http://bibliotecadigital.ilce.edu.mx/){:target="_blank" rel="nofollow,noreferrer"} [Obras Clásicas](https://bibliotecadigital.ilce.edu.mx/Colecciones/index.php?clave=ObrasClasicas){:target="_blank" rel="nofollow,noreferrer"} (ILCE [*](/biblioteca-novela-poesia/#siglas))
 * [Biblioteca Universal Argentina](https://www.biblioteca.org.ar/catalogo.php){:target="_blank" rel="nofollow,noreferrer"} (37.229 Obras) [Biblioteca Básica Argentina - Descargar](http://www.bibliotecasrurales.org.ar/biblioteca-basica-argentina.php){:target="_blank" rel="nofollow,noreferrer"}
-* [Red de Bibliotecas Virtuales de Ciencias Sociales](http://biblioteca.clacso.edu.ar/){:target="_blank" rel="nofollow,noreferrer"} (CLACSO)
-* [Librería de 1.328 Documentos Gratis](https://www.clacso.org.ar/libreria-latinoamericana/inicio.php){:target="_blank" rel="nofollow,noreferrer"} (CLACSO)
+* [Red de Bibliotecas Virtuales de Ciencias Sociales](http://biblioteca.clacso.edu.ar/){:target="_blank" rel="nofollow,noreferrer"} (CLACSO [*](/biblioteca-novela-poesia/#siglas))
+* [Librería de 1.328 Documentos Gratis](https://www.clacso.org.ar/libreria-latinoamericana/inicio.php){:target="_blank" rel="nofollow,noreferrer"} (CLACSO [*](/biblioteca-novela-poesia/#siglas))
 
 ## **Bibliotecas Presenciales**
 
@@ -115,7 +110,7 @@ Descubre 37,136,118 imágenes, textos, videos y sonidos de todo Estados Unidos.
 ## **Cuentos**
 
 * [Cuentos para Niñ@s (Graciosos)](https://drive.google.com/drive/folders/1EZJxQ6ao5v9hlkvxNKzG2TXKkSUJIHcA){:target="_blank" rel="nofollow,noreferrer"}
-* [Cuentos ILCE](http://bibliotecadigital.ilce.edu.mx/Colecciones/index.php?clave=CuentosMas){:target="_blank" rel="nofollow,noreferrer"}
+* [Cuentos ILCE](http://bibliotecadigital.ilce.edu.mx/Colecciones/index.php?clave=CuentosMas){:target="_blank" rel="nofollow,noreferrer"} (ILCE [*](/biblioteca-novela-poesia/#siglas))
 
 ## **Bibliotecas en Otros Lenguajes**
 
@@ -129,11 +124,9 @@ Descubre 37,136,118 imágenes, textos, videos y sonidos de todo Estados Unidos.
 
 * [Buscador de Podcasts](https://www.listennotes.com/){:target="_blank" rel="nofollow,noreferrer"} (Listen Notes)
 
-### **Autores Destacados Personalmente**
+### **Autores Recomendados**
 
-* [OMEGALFA](https://omegalfa.es/buscador.php){:target="_blank" rel="nofollow,noreferrer"}
-
-Búsquedas Sugeridas: Poesía Crítica, Poesía Social, Buero Vallejo, Miguel Hernández
+* [OMEGALFA](https://omegalfa.es/buscador.php){:target="_blank" rel="nofollow,noreferrer"} >> (Búsquedas Sugeridas: Poesía Crítica, Poesía Social, Buero Vallejo, Miguel Hernández, etc).
 
 ## **Bibliotecas y Repositorios de Artes y Bellas Artes**
 
@@ -141,13 +134,13 @@ Búsquedas Sugeridas: Poesía Crítica, Poesía Social, Buero Vallejo, Miguel He
   * [Calcografía Nacional](http://www.realacademiabellasartessanfernando.com/es/calcografia-nacional){:target="_blank" rel="nofollow,noreferrer"}
   * [La Academia de Goya](http://www.realacademiabellasartessanfernando.com/es/goya/la-academia-y-goya){:target="_blank" rel="nofollow,noreferrer"}
 
-## **SIGLAS**
+## **Siglas**
 
-* CLACSO: Consejo Latinoamericano de Ciencias Sociales
-* ILCE: Instituto Latinoamericano de la Comunidad Educativa
+* **CLACSO**: Consejo Latinoamericano de Ciencias Sociales
+* **CSIC**: Consejo Superior de Investigaciones Científicas
+* **ILCE**: Instituto Latinoamericano de la Comunidad Educativa
 
-### Índice
-
+### Índice <!-- omit in toc -->
 - [**Bibliotecas Online**](#bibliotecas-online)
 - [**Repositorios Documentales Digitales**](#repositorios-documentales-digitales)
 - [**Bibliotecas Online en Abierto**](#bibliotecas-online-en-abierto)
@@ -157,10 +150,9 @@ Búsquedas Sugeridas: Poesía Crítica, Poesía Social, Buero Vallejo, Miguel He
 - [**Cuentos**](#cuentos)
 - [**Bibliotecas en Otros Lenguajes**](#bibliotecas-en-otros-lenguajes)
 - [**Podcasts**](#podcasts)
-  - [**Autores Destacados Personalmente**](#autores-destacados-personalmente)
+  - [**Autores Recomendados**](#autores-recomendados)
 - [**Bibliotecas y Repositorios de Artes y Bellas Artes**](#bibliotecas-y-repositorios-de-artes-y-bellas-artes)
-- [**SIGLAS**](#siglas)
-  - [Índice](#%c3%8dndice)
+- [**Siglas**](#siglas)
 - [**Presentación**](#presentaci%c3%b3n)
 
 ## **Presentación**
@@ -172,7 +164,7 @@ Desde el siglo X hasta los siglos más actuales pasando por los siglos más impo
 
 Lee y disfruta de los primeros textos que se conocen en español, hasta las fructuosas épocas del renacimiento, el barroco o la ilustración. Dejate influenciar de toda la magia de los textos que podrás encontrar entre el romanticismo, el realismo o el naturalismo de la literatura española.
 
-Las influencias del modernismo, las diferentes vanguardias nacidas alrededor del siglo XX. El postmodernismo, la generación del 27, la generación del 98, el novecentismo, la época de la posquera de los 40 y 50, la renovación literaria de los 60 y 70; hasta la etapa actual.
+Las influencias del modernismo, las diferentes vanguardias nacidas alrededor del siglo XX. El postmodernismo, la generación del 27, la generación del 98, el novecentismo, la época de la posquera de los 40 y 50, la renovación literaria de los 60 y 70; hasta las etapas más actuales.
 
 Los autores más clásicos como:
 
@@ -181,5 +173,5 @@ Los autores más clásicos como:
 <!-- https://www.genbeta.com/web/las-7-mejores-webs-de-libros-para-leer-libros-gratis -->
 <!-- raspberrypi tutoriales http://www.bujarra.com/raspberry-pi/ -->
 
-La **Guía de Bibliotecas** fue creada el *20 de Marzo de 2020* y su última edición fue realizada el *26 de Mayo de 2020*.
+La **Guía de Bibliotecas** fue creada el *20 de Marzo de 2020* y su última edición fue realizada el *27 de Mayo de 2020*.
 {: .notice--info}
