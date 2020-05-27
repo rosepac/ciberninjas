@@ -27,8 +27,8 @@ header:
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
 # toc_sticky: false
-sidebar:
-  nav: libros-espanol
+# sidebar:
+#   nav: libros-espanol
 
 ---
 
