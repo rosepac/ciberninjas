@@ -49,6 +49,7 @@ Re edición en ebook de autores olvidados de los que sus obras se encuentran en 
   * [Títulos - 3.675](https://omegalfa.es/titulos.php){:target="_blank" rel="nofollow,noreferrer"}
   * [Temáticas - 72](https://omegalfa.es/temas.php){:target="_blank" rel="nofollow,noreferrer"}
 * [One More Library](https://onemorelibrary.com/index.php/en/languages/spanish){:target="_blank" rel="nofollow,noreferrer"} (1.200 Clásicos en Español)
+* [Textos Info](https://www.textos.info/){:target="_blank" rel="nofollow,noreferrer"}
 * [WikiSource](https://es.wikisource.org/wiki/Portada){:target="_blank" rel="nofollow,noreferrer"}
 
 * [Biblioteca Científica Sci Hub](https://sci-hub.tw/){:target="_blank" rel="nofollow,noreferrer"}
@@ -57,9 +58,10 @@ Sci-Hub es un sitio web que proporciona acceso gratuito a millones de artículos
 
 Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al alto costo de los trabajos de investigación detrás de los muros de pago. El sitio es ampliamente utilizado tanto en países desarrollados como en desarrollo. A partir de octubre de 2019, afirmó contener 76 millones de artículos académicos y atender aproximadamente 400,000 solicitudes por día.
 
-## **Bibliotecas de Documentación Digital**
+## **Bibliotecas Documentos Digitales**
 
-* [EFILM](https://efilm.online/){:target="_blank" rel="nofollow,noreferrer"}: Biblioteca pública GRATIS de préstamo de películas y series digitales para varias provincias de España.. 🎬
+* 🎬 [Efilm](https://efilm.online/){:target="_blank" rel="nofollow,noreferrer"}: Biblioteca pública GRATIS de préstamo de películas y series digitales para varias provincias de España.
+* 🔊 [LibriVox](https://librivox.org/search?primary_key=5&search_category=language&search_page=1&search_form=get_results){:target="_blank" rel="nofollow,noreferrer"} (581 Audiolibros, en su gran mayoría clásicos)
 
 ## **Bibliotecas Online en Abierto**
 
@@ -129,7 +131,7 @@ Búsquedas Sugeridas: Poesía Crítica, Poesía Social, Buero Vallejo, Miguel He
 ### Índice
 
 - [**Bibliotecas Online**](#bibliotecas-online)
-- [**Bibliotecas de Documentación Digital**](#bibliotecas-de-documentaci%c3%b3n-digital)
+- [**Bibliotecas Documentos Digitales**](#bibliotecas-documentos-digitales)
 - [**Bibliotecas Online en Abierto**](#bibliotecas-online-en-abierto)
 - [**Bibliotecas Online Abiertas de América**](#bibliotecas-online-abiertas-de-am%c3%a9rica)
 - [**Bibliotecas Presenciales**](#bibliotecas-presenciales)
