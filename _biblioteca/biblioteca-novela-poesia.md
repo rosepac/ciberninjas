@@ -3,6 +3,7 @@ title: ▷ Bibliotecas Online GRATIS PDF y Online, encuentra lo que deseas entre
 description: "Miles de libros PDF gratuitos y de dominio publico, novelas clásicas, ciencia, cuentos, revistas y mucho más."
 excerpt: "Miles de libros PDF gratuitos y de dominio publico novelas clásicas, ciencia, cuentos, revistas y mucho más."
 author_profile: false
+layout: splash
 published: true
 classes: wide
 comments: false
@@ -36,6 +37,8 @@ Sea cual sea la época que estes buscando: la edad media, la edad moderna o la e
 
 * [Biblioteca Digital Hispánica](http://bdh.bne.es/bnesearch/Search.do?&destacadas1=Epub&home=true&languageView=es){:target="_blank" rel="nofollow,noreferrer"}
 * [Biblioteca Digital Mundial](https://www.wdl.org/es/){:target="_blank" rel="nofollow,noreferrer"} (+ 17.000 Documentos de la Historia. Gracias a Naciones Unidas)
+* [CSIC: Ciencia Abierta](https://www.csic.es/es/ciencia-abierta){:target="_blank" rel="nofollow,noreferrer"}
+  * [Biblioteca Virtual y Archivo del CSIC](http://bibliotecas.csic.es/){:target="_blank" rel="nofollow,noreferrer"} (59 bibliotecas, 14 archivos científicos, más de 565.000 documentos electrónicos)
 * [Dominio Público](http://www.dominiopublico.es){:target="_blank" rel="nofollow,noreferrer"}
 * [EBiblio](https://www.culturaydeporte.gob.es/cultura/areas/bibliotecas/mc/eBiblio/inicio.html){:target="_blank" rel="nofollow,noreferrer"} Catálogo digital del Servicio Público de Bibliotecas de España.
 * [Elejandría](https://www.elejandria.com/){:target="_blank" rel="nofollow,noreferrer"}
@@ -45,6 +48,7 @@ Sea cual sea la época que estes buscando: la edad media, la edad moderna o la e
 Re edición en ebook de autores olvidados de los que sus obras se encuentran en dominio público, como son los casos de: Mauricio Bacarisse, la Baronesa de Wilson, Pedro María Barrera, Joaquín Belda, Ricardo Blanco Asenjo, Tomás Carretero, Carlos Coello, Vicente Colorado, Joaquín Dicenta, José de Echgaray, Pedro Escamilla, José Fernández Bremón, Ramón García Sánchez, Emilio Gutiérrez Gamero, Ricardo Hernández Bermúdez, Luis Mariano de Larra, Alejandro Larrubiera, Eduardo López Bago, Leopoldo López de Saá, Eduardo de Lustonó, Fernando Martínez Pedrosa, José María Matheu, Joaquín Mazas, Florencio Moreno Godino, José Ortega Munilla, Alejandro Pérez Lugín, Juan Pérez Zúniga, Josefa Pujol de Collado, Rodríguez Chaves, José de Siles, Torcuato Tárrago y Mateos y José Zahonero.
 
 * [Gutenberg Proyecto, en Español](https://www.gutenberg.org/browse/languages/es){:target="_blank" rel="nofollow,noreferrer"}
+* [Libros CSIC](http://libros.csic.es/freebooks.php){:target="_blank" rel="nofollow,noreferrer"} (485 libros del Consejo Superior de Investigaciones Científicas)
 * [Literanda](https://www.literanda.com/){:target="_blank" rel="nofollow,noreferrer"}
 * [OMEGALFA](https://omegalfa.es/){:target="_blank" rel="nofollow,noreferrer"}
   * [Autores - 1.264](https://omegalfa.es/autores.php){:target="_blank" rel="nofollow,noreferrer"}
