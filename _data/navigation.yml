@@ -168,47 +168,47 @@ vtuto:
 #     - title:
 #     url:
 
-libros-espanol:
-  - title: Secciones
-    children:
-      - title: "🗃 Meta-Listas"
-        url: /biblioteca-de-programacion-y-tecnologia/#-meta-listas
-      - title: "📁 Bases de Datos"
-        url: /biblioteca-de-programacion-y-tecnologia/#-bases-de-datos
-      - title: "⛓ Blockchain"
-        url: /biblioteca-de-programacion-y-tecnologia/#-blockchain
-      - title: "🔬 Ciencias de la Computación"
-        url: /biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación
-      - title: "🛒 Comercio Electrónico"
-        url: /biblioteca-de-programacion-y-tecnologia/#-comercio-electrónico
-      - title: "👩‍💻 Desarrollo Web"
-        url: /biblioteca-de-programacion-y-tecnologia/#-desarrollo-web
-      - title: "👨‍🎨 Diseño Web"
-        url: /biblioteca-de-programacion-y-tecnologia/#-diseño-web
-      - title: "🐧 Ecosistema de Software Libre"
-        url: /biblioteca-de-programacion-y-tecnologia/#-ecosistema-de-software-libre
-      - title: "👨‍💻 Lenguajes de Programación"
-        url: /biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programación
-      - title: "💼 Metodologías de Desarrollo"
-        url: /biblioteca-de-programacion-y-tecnologia/#-metodologías-de-desarrollo
-      - title: "👦 Programación Infantil"
-        url: /biblioteca-de-programacion-y-tecnologia/#-programación-infantil
-      - title: "🎮 Programación Videojuegos"
-        url: /biblioteca-de-programacion-y-tecnologia/#-programación-videojuegos
-      - title: "🕸 Redes"
-        url: /biblioteca-de-programacion-y-tecnologia/#-redes
-      - title: "🤖 Robótica"
-        url: /biblioteca-de-programacion-y-tecnologia/#-robótica
-      - title: "👮‍♀️ Seguridad"
-        url: /biblioteca-de-programacion-y-tecnologia/#️-seguridad
-      - title: "👨‍🔧 Técnico de Software & Hardware"
-        url: /biblioteca-de-programacion-y-tecnologia/#-técnico-de-software--hardware        
-      - title: "👷‍♂️ Webmaster"
-        url: /biblioteca-de-programacion-y-tecnologia/#️-webmaster
-      - title: "📚 LIBRERÍA"
-        url: /catalogo/
-      - title: "🛒 TIENDA"
-        url: /amazon/
+#libros-espanol:
+#  - title: Secciones
+#    children:
+#      - title: "🗃 Meta-Listas"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-meta-listas
+#      - title: "📁 Bases de Datos"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-bases-de-datos
+#      - title: "⛓ Blockchain"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-blockchain
+#      - title: "🔬 Ciencias de la Computación"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación
+#      - title: "🛒 Comercio Electrónico"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-comercio-electrónico
+#      - title: "👩‍💻 Desarrollo Web"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-desarrollo-web
+#      - title: "👨‍🎨 Diseño Web"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-diseño-web
+#      - title: "🐧 Ecosistema de Software Libre"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-ecosistema-de-software-libre
+#      - title: "👨‍💻 Lenguajes de Programación"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-lenguajes-de-programación
+#      - title: "💼 Metodologías de Desarrollo"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-metodologías-de-desarrollo
+#      - title: "👦 Programación Infantil"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-programación-infantil
+#      - title: "🎮 Programación Videojuegos"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-programación-videojuegos
+#      - title: "🕸 Redes"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-redes
+#      - title: "🤖 Robótica"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-robótica
+#      - title: "👮‍♀️ Seguridad"
+#        url: /biblioteca-de-programacion-y-tecnologia/#️-seguridad
+#      - title: "👨‍🔧 Técnico de Software & Hardware"
+#        url: /biblioteca-de-programacion-y-tecnologia/#-técnico-de-software--hardware        
+#      - title: "👷‍♂️ Webmaster"
+#        url: /biblioteca-de-programacion-y-tecnologia/#️-webmaster
+#      - title: "📚 LIBRERÍA"
+#        url: /catalogo/
+#      - title: "🛒 TIENDA"
+#        url: /amazon/
 
 cursos-espanol:
   - title: Secciones
