@@ -64,13 +64,15 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 * [Apuntes Completos de Desarrollo Web](https://kutt.it/apuntes-desarrollo-web-jorge){:target="_blank" rel="nofollow"} - Jorge Sánchez
 * [Bibliotecas de Libros Digitales en Abierto](/biblioteca-novela-poesia/){:target="_blank" rel="nofollow"}
 * [Biblioteca Virtual: Miguel de Cervantes](https://www.cervantesvirtual.com){:target="_blank" rel="nofollow"}
+* [CSIC: Ciencia Abierta](https://www.csic.es/es/ciencia-abierta){:target="_blank" rel="nofollow,noreferrer"}
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://kutt.it/apuntes-aplicaciones-web-comesana){:target="_blank" rel="nofollow"} - José Luis Comesaña (Github)
 * [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://kutt.it/web-javier-escobedo){:target="_blank" rel="nofollow"} - Javier García Escobedo
 * [Guerreras de la Ciencia](https://lookaside.fbsbx.com/file/guerreras-de-la-ciencia.pdf?token=AWw2Fq4Nkd--gT9h9m5qmfAfIXXND87ukxEAAyS-TroD8p6kI19TXyQnViQYpj1E4JGmMQ9vwPgpQkz65z88DTE_x9l6BIF64gKeFnA5jQFc4lTsFao6-JMEmOm5ew5xPvUrpFySmEloZeS1Ay6Qd0Nd-pbhWuJyCwhLK1ztdHFTMQ){:target="_blank" rel="nofollow"} (PDF) (2019)
 * [Gitbook - Libros útiles en español](https://kutt.it/gitbook-libros-espanol){:target="_blank" rel="nofollow"} (Github)
 * [Múltiples Cursos y Enlaces de Tecnología Informática](https://kutt.it/web-fernando-berzal){:target="_blank" rel="nofollow"} - Fernando Berzal
 * [OpenLibra - Biblioteca recopilatorio de libros libres](https://kutt.it/open-libra-espanol){:target="_blank" rel="nofollow"}
-* [Revistas Científicas de Iberoamérica](https://www.latindex.unam.mx/latindex/inicio){:target="_blank" rel="nofollow"} [9700 Revistas](https://www.latindex.unam.mx/latindex/bAvanzada){:target="_blank" rel="nofollow"}
+* [Recolecta](https://buscador.recolecta.fecyt.es/){:target="_blank" rel="nofollow,noreferrer"} (Buscador de documentos sobre ciencia y tecnología en abierto, más de 2.000.000 de documentos de 142 ficheros indexados)
+* [Revistas Científicas de Iberoamérica](https://www.latindex.unam.mx/latindex/inicio){:target="_blank" rel="nofollow"} >> [9700 Revistas](https://www.latindex.unam.mx/latindex/bAvanzada){:target="_blank" rel="nofollow"} >> 👀 [Revistas Seleccionadas](/biblioteca-de-programacion-y-tecnologia/#-revistas)
 * [TLDP: servicios editoriales para la documentación libre en español (2007)](https://es.tldp.org/index.html){:target="_blank" rel="nofollow"} (CICA)
 * [Universidad Autónoma de Mexico - Plan (2016)](https://kutt.it/apuntes-pdf-universidad-mexico){:target="_blank" rel="nofollow"}
 <!-- https://biblioweb.tic.unam.mx/ , https://www.julianmarquina.es/22-grandes-bibliotecas-digitales-en-espana-aunque-hay-muchas-mas/ https://portal.uned.es/portal/page?_pageid=93,511995&_dad=portal&_schema=PORTAL -->
