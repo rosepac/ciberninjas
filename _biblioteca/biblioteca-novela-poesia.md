@@ -2,8 +2,9 @@
 title: ▷ Bibliotecas Online GRATIS PDF y Online, encuentra lo que deseas entre miles de novelas y repositorios gratuitos 
 description: "Miles de libros PDF gratuitos y de dominio publico, novelas clásicas, ciencia, cuentos, revistas y mucho más."
 excerpt: "Miles de libros PDF gratuitos y de dominio publico novelas clásicas, ciencia, cuentos, revistas y mucho más."
-author_profile: true
+author_profile: false
 published: true
+classes: wide
 comments: false
 date: 2020-05-27
 last_modified_at: 
@@ -38,6 +39,7 @@ Sea cual sea la época que estes buscando: la edad media, la edad moderna o la e
 * [Dominio Público](http://www.dominiopublico.es){:target="_blank" rel="nofollow,noreferrer"}
 * [EBiblio](https://www.culturaydeporte.gob.es/cultura/areas/bibliotecas/mc/eBiblio/inicio.html){:target="_blank" rel="nofollow,noreferrer"} Catálogo digital del Servicio Público de Bibliotecas de España.
 * [Elejandría](https://www.elejandria.com/){:target="_blank" rel="nofollow,noreferrer"}
+* [Feedbooks](https://es.feedbooks.com/books/top?lang=es&page=1){:target="_blank" rel="nofollow,noreferrer"} (4.000 libros de dominio público)
 * [Ganso y Pulpo](https://gansoypulpo.com/autor/){:target="_blank" rel="nofollow,noreferrer"}
 
 Re edición en ebook de autores olvidados de los que sus obras se encuentran en dominio público, como son los casos de: Mauricio Bacarisse, la Baronesa de Wilson, Pedro María Barrera, Joaquín Belda, Ricardo Blanco Asenjo, Tomás Carretero, Carlos Coello, Vicente Colorado, Joaquín Dicenta, José de Echgaray, Pedro Escamilla, José Fernández Bremón, Ramón García Sánchez, Emilio Gutiérrez Gamero, Ricardo Hernández Bermúdez, Luis Mariano de Larra, Alejandro Larrubiera, Eduardo López Bago, Leopoldo López de Saá, Eduardo de Lustonó, Fernando Martínez Pedrosa, José María Matheu, Joaquín Mazas, Florencio Moreno Godino, José Ortega Munilla, Alejandro Pérez Lugín, Juan Pérez Zúniga, Josefa Pujol de Collado, Rodríguez Chaves, José de Siles, Torcuato Tárrago y Mateos y José Zahonero.
@@ -49,6 +51,7 @@ Re edición en ebook de autores olvidados de los que sus obras se encuentran en 
   * [Títulos - 3.675](https://omegalfa.es/titulos.php){:target="_blank" rel="nofollow,noreferrer"}
   * [Temáticas - 72](https://omegalfa.es/temas.php){:target="_blank" rel="nofollow,noreferrer"}
 * [One More Library](https://onemorelibrary.com/index.php/en/languages/spanish){:target="_blank" rel="nofollow,noreferrer"} (1.200 Clásicos en Español)
+* [Planeta Libro](https://planetalibro.net/){:target="_blank" rel="nofollow,noreferrer"}
 * [Textos Info](https://www.textos.info/){:target="_blank" rel="nofollow,noreferrer"}
 * [WikiSource](https://es.wikisource.org/wiki/Portada){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -61,6 +64,7 @@ Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al
 ## **Bibliotecas Documentos Digitales**
 
 * 🎬 [Efilm](https://efilm.online/){:target="_blank" rel="nofollow,noreferrer"}: Biblioteca pública GRATIS de préstamo de películas y series digitales para varias provincias de España.
+* 🔊 [Europeana](https://www.europeana.eu/es/search?page=1&qf=MEDIA%3Atrue&qf=TEXT_FULLTEXT%3Atrue&qf=TYPE%3A%22TEXT%22&qf=RIGHTS%3Ahttp%2a%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fmark%2a&query=&reusability=open&view=grid){:target="_blank" rel="nofollow,noreferrer"} (repositorio de más de 580.000 documentos, entre textos, imágenes, sonidos y vídeos)
 * 🔊 [LibriVox](https://librivox.org/search?primary_key=5&search_category=language&search_page=1&search_form=get_results){:target="_blank" rel="nofollow,noreferrer"} (581 Audiolibros, en su gran mayoría clásicos)
 
 ## **Bibliotecas Online en Abierto**
@@ -102,6 +106,7 @@ Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al
 
 ## **Bibliotecas en Otros Lenguajes**
 
+* [Archivo de Internet](https://archive.org/details/texts){:target="_blank" rel="nofollow,noreferrer"}
 * [Literatura Clásica Nórdica - Proyecto Runeberg](http://runeberg.org/katalog.html){:target="_blank" rel="nofollow,noreferrer"} (5.586 Libros Disponibles en Danés, Finés, Sueco, Noruego, Alemán e Inglés)
 * [Liber Liber - Proyecto Italiano](https://www.liberliber.it/online/autori/){:target="_blank" rel="nofollow,noreferrer"}
 * [Dodecaedro.it](http://www.dodecaedro.it/biblioteca.php){:target="_blank" rel="nofollow,noreferrer"} (Libros de dominio público en italiano) (Archivos en formato .it)
