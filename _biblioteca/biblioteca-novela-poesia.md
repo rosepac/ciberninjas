@@ -23,11 +23,15 @@ header:
 
 ---
 
-En esta página vas a poder encontrar todos los libros que necesites de literatura clásica española, novela o poesía; sea lo que sea lo que busques desde aquí vas a poder encontrar lo necesario.
+En esta página vas a poder encontrar todos los libros que necesites de literatura clásica española, novela o poesía; sea lo que sea lo que busques desde aquí vas a poder encontrarlo.
 
-Encontrarás dentro de estas diferentes páginas webs sin lugar a dudas a todos los autores de la literatura clásica española o en español; siempre y cuando haya transcurrido cierto tiempo desde el fallecimiento del mismo, o por lo contrario, si sus obras se encuentran bajo licencias de dominio público.
+Encontrarás dentro de los diferentes sitios web, a todos los autores de la literatura clásica española y en español; siempre y cuando haya transcurrido cierto tiempo desde el fallecimiento del mismo, o por lo contrario, si sus obras se encuentran bajo licencias de dominio público.
 
-Entre los muchos autores de la literatura española que te podrás encontrar, están los escritores de todas las difentes épocas históricas de lo largo y ancho de la historia de España. Sea cual sea la época que estes buscando: la edad media, la edad moderna o la edad contemporánea; en cualquiera de sus épocas o siglos; si deseas más información, puedes seguir leyendo en la [parte inferior de la publicación](#introducci%c3%b3n).
+Entre los muchos autores de la literatura española que te podrás encontrar, están los escritores de todas las difentes épocas históricas de lo largo y ancho de la historia de España.
+
+Sea cual sea la época que busques: La edad media, la edad moderna o la edad contemporánea.
+
+En cualquiera de sus épocas o siglos; si deseas más información, puedes seguir leyendo en la [parte inferior de la publicación](#introducci%c3%b3n).
 
 <!-- <div class="flourish-embed" data-src="story/198324"><script src="https://public.flourish.studio/resources/embed.js"></script></div> -->
 ## **Bibliotecas Online**
