@@ -23,7 +23,7 @@ canonical_URL: https://ciberninjas.com/java-vs-python-diferencias/
 permalink: /java-vs-python-diferencias/
 date: 2020-05-28 18:32:32
 last_modified_at: 
-published: false
+published: true
 ---
 
 Comparativa e introducción entre dos de los lenguajes de programación más utilizados en la actualidad, como son: Javascript y Python

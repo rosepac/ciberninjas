@@ -7,7 +7,7 @@ classes: wide
 permalink: /películas/
 canonical_URL: https://ciberninjas.com/películas/
 comments: false
-date: 2020-05-06 18:00:00 +0100
+date: 2020-05-26 18:00:00 +0100
 published: true
 header:
   teaser: /assets/images/rosepac/cortos-de-animacion-solitario-social.webp

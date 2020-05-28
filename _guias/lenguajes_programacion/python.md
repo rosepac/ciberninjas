@@ -10,6 +10,7 @@ comments: false
 date: 2020-05-20 12:06:18
 last_modified_at:
 permalink: /python/
+canonical_URL: https://ciberninjas.com/python/
 header:
   teaser: /assets/images/lenguajes/python-programadora.webp
   overlay_image: /assets/images/lenguajes/python-programadora.webp
@@ -73,6 +74,7 @@ A pesar de las numerosas revisiones, ILM continúa considerando que Python es la
 Existen otras muchas empresas reconocidas que confian en Python como uno de sus lenguajes principales, por sus ideales características, entre ellas: la NASA, Mozilla, PayPal, Pinterest, SendGrid, Zappier, Udemy, Uber, Instacart, 8GAG, Asana, Intuit, Keen IO, Disqus, Pandora, BillGuard, Back End, imgix, AdRoll, Chartio, WePay, Chartbeat, Brika, Circa, Kippt, Thingr, Hipmunk, y un largo etc. más.
 
 [🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## ¿Por qué aprender Python?
 
@@ -89,6 +91,7 @@ Python es un lenguaje accesible para nuevos programadores porque la comunidad pr
 En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrados en Python a través de la web Indeed.com.
 
 [🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## ¿Cómo desarrollar una aplicación web con Python?
 <!-- https://www.fullstackpython.com/ -->
@@ -252,6 +255,7 @@ https://rayframework.github.io/site/
 {: .notice--warning}
 [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large .align-center}
 [🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Bibliotecas de Python
 
@@ -445,6 +449,7 @@ PyTorch está superando a TensorFlow en múltiples formas y está ganando mucha 
 
 [🐍 Biblioteca PyTorch 🐍](https://pytorch.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a LightGBM..
 
@@ -586,6 +591,7 @@ El análisis de datos entre todo lo demás se destaca cuando se trata del uso de
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a otras bibliotecas.. De menor uso, pero no por ello menos importantes, dependiendo de cual vaya a ser el uso que desees hacer de Python dentro de tus proyectos..
 
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Otras Bibliotecas
 
@@ -600,7 +606,9 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 * [Mitogen](https://mitogen.networkgenomics.com/){:target="_blank" rel="nofollow,noreferrer"}
 * [Tessagon](https://github.com/cwant/tessagon#tessagon-tessellation--tiling-with-python){:target="_blank" rel="nofollow,noreferrer"} \ Teje tus variedades 2D favoritas con triángulos, hexágonos y otros patrones interesantes.
 * [Vidgear](/vidgear-libreria-python/)
+
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--warning .btn--large .align-center}
 [🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--warning .btn--large .align-center}
@@ -618,3 +626,5 @@ _____
 
 La **Guía de Python** fue creada el *30 de Junio de 2019* y su última edición fue realizada el *20 de Mayo de 2020*.
 {: .notice--info}
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
