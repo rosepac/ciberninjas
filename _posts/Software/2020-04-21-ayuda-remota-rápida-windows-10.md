@@ -58,10 +58,32 @@ Por tanto, ya sabes, a partir de ahora cuando tus padres, familiares o amigos te
 🔥 Seguro también te interesa: [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
 {: .notice--danger}
 
-### Relacionados
+### **Relacionados**
 
-[🥇 ▷ Las 18 mejores prácticas para teletrabajar en 2020](/mejores-practicas-trabajar-desde-casa/)
-[🥇 ▷ TIPS: Las 11 Mejores CONSEJOS para trabajar en casa 2020 🏡](/mejores-consejos-trabajar-desde-casa/)
-[🥇 ▷ Quédate en Casa](/alternativas-culturales-combatir-coronavirus/)
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/)
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331109157075936" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331109157075936" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros con los que aprender a programar en Java y con Android, en Español</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331109157075936">Martes, 3 de marzo de 2020</a></blockquote></div>
+[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/)
+
+[▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10](https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/)
+
+[10 Mejores VPN GRATIS para Windows en 2020](https://ciberninjas.com/mejores-vpn-windows/)
+
+[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
+
+[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/)
+
+[💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
+
+[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/)
+
+[🍫 ▷ Chocolatey, Aprender Desde Cero](https://ciberninjas.com/chocolatey/)
+
+[🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez](https://ciberninjas.com/ninite/)
+
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo](https://ciberninjas.com/mejor-software-dibujo-windows-android/)
+
+[👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/)
+
+[Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

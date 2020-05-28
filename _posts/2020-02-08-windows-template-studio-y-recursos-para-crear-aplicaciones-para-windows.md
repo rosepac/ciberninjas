@@ -231,9 +231,32 @@ Windows Community Toolkit es una colección de funciones auxiliares, controles p
 
 Toda la documentación para el kit de herramientas está alojada en [Microsoft Docs](https://docs.microsoft.com/windows/communitytoolkit/) . Toda la documentación de la API se puede encontrar en el [.NET API Browser](https://docs.microsoft.com/dotnet/api/?view=win-comm-toolkit-dotnet-stable).
 
-## Licencia
+### **Relacionados**
 
-Este código se distribuye bajo los términos y condiciones de la [licencia MIT](https://github.com/microsoft/WindowsTemplateStudio/blob/dev/LICENSE.md){:target="_blank" rel="nofollow,noreferrer"}.
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/)
 
-**Fuente**\: [Github](https://github.com/Microsoft/WindowsTemplateStudio/ "Repositorio de Github de Windows Template Studio"){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
+[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/)
+
+[▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10](https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/)
+
+[10 Mejores VPN GRATIS para Windows en 2020](https://ciberninjas.com/mejores-vpn-windows/)
+
+[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
+
+[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/)
+
+[💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
+
+[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/)
+
+[🍫 ▷ Chocolatey, Aprender Desde Cero](https://ciberninjas.com/chocolatey/)
+
+[🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez](https://ciberninjas.com/ninite/)
+
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo](https://ciberninjas.com/mejor-software-dibujo-windows-android/)
+
+[👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/)
+
+[Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

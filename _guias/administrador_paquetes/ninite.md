@@ -40,6 +40,8 @@ Esto se logra mediante la descarga de una lista actualizada de aplicaciones y su
 
 Los beneficios de usar Ninite en lugar de los instaladores de las aplicaciones individuales incluyen: instalaciones sin Adware de barras de herramientas, la capacidad de actualizar múltiples aplicaciones a la vez, selección automática de arquitectura (64 bits 0 32 bits), selección de idioma según el idioma del sistema operativo e informe de errores, en el caso de que una de las instalaciones falle.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## ⚙ Funcionamiento
 
 En la página web de Ninite, el usuario elige el software de su preferencia al activar las casillas de verificación y continúa con la descarga del instalador ejecutable, que está preconfigurado para la selección personalizada de los usuarios. Al ejecutar el instalador, el software elegido previamente es desatendido (sin ninguna interacción solicitada por el usuario) instalado en la computadora.
@@ -70,6 +72,8 @@ Para los amantes del Software y Código Libre:
 
 Estos tipo de enlaces son excelentes para hacer soporte técnico remoto en ordenadores de amigos y familiares.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## 🏳 Selección de Idioma
 
 De forma predeterminada, los instaladores Ninite instalan las aplicaciones en el idioma actual del sistema operativo del usuario. Esto se puede anular con el comando modificador /locale; por ejemplo (para francés) ejecuta desde la consola o CMD:
@@ -99,6 +103,8 @@ Siempre que Ninite agrega nuevas versiones a l catálogo, se encargan de verific
 Ninite siempre ha declinado las variadas ofertas de insertar barras de herramientas o software no deseado dentro de sus instaladores.
 
 Si existen advertencias irrelevantes o experimentes fallos en la descarga si tienes un software de seguridad configurado para advertir sobre la mera presencia de ofertas no deseadas en los instaladores. Es seguro ignorar esto sin problemas porque Ninite opta por no instalar nada de toda esa basura.
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## ✅ Software Ofrecido
 
@@ -171,3 +177,33 @@ El **.EXE** descargado será el encargado de instalar los programas, tras un par
 
 Sitio Web Oficial: [Página web oficial de Ninite dentro del instalador múltiple de programas dentro de Windows](https://kutt.it/ninite_instalador_multiple){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
+
+### **Relacionados**
+
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/)
+
+[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/)
+
+[▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10](https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/)
+
+[10 Mejores VPN GRATIS para Windows en 2020](https://ciberninjas.com/mejores-vpn-windows/)
+
+[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
+
+[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/)
+
+[💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
+
+[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/)
+
+[🍫 ▷ Chocolatey, Aprender Desde Cero](https://ciberninjas.com/chocolatey/)
+
+[🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez](https://ciberninjas.com/ninite/)
+
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo](https://ciberninjas.com/mejor-software-dibujo-windows-android/)
+
+[👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/)
+
+[Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

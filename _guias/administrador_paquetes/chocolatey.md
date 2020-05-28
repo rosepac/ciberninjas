@@ -36,6 +36,8 @@ El motor de ejecución utiliza la infraestructura de empaquetado de NuGet y Wind
 
 El nombre es una extensión en un juego de palabras de NuGet (de &#171;nougat&#187; en español, turrón) porque todo el mundo ama Chocolatey (de &#171;nougat chocolat&#187; en español, turrón de chocolate).
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## 📋 Requisitos
 
 ### Clientes de Chocolatey
@@ -65,6 +67,8 @@ Para los clientes de Chocolatey, necesitarás lo siguiente:
 - Chocolatey CLI solo se ejecuta cuando se llama. Cae en la memoria administrada, por lo que puede funcionar en entornos con poca cantidad de memoria siempre que tengan suficiente memoria disponible para administrar las instalaciones de software.
 - Chocolatey GUI solo se ejecuta cuando la aplicación está abierta y también está en la memoria administrada. Puede funcionar en sistemas con poca memoria.
 - Al menos 2 GB de RAM como mínimo, pero se recomienda al menos 8 GB para administrar las instalaciones.
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 💭 Hablemos de Chocolatey
 
@@ -111,6 +115,9 @@ Si quieres conocer todos los comandos existentes dentro de Chocolatey, solo debe
 - _**optimize**_: optimiza la instalación, reduciendo el uso de espacio
 
 Por favor, se debe ejecutar chocolate con ```choco command -help``` para mostrar la ayuda específica de cada comando.
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## 🛠 Instalación de Chocolatey
 
 Para la instalación existen dos opciones, podemos abrir el **Cmd.exe** o bien el **PowerShell.exe** de Windows.
@@ -154,7 +161,9 @@ Ejecutando la siguiente línea:
 ![Ejecución del comando de instalación de Zeal sobre PowerShell \ Visto en Ciberninjas](https://i.ibb.co/Czw2hwQ/1-74-B-D0hg-Tua-H1e-FExwkq-Fg.png)
     
 Luego de ver los diferentes procesos que **Chocolatey** va realizando sobre la consola, tendremos el Software instalado y preparado para funcionar!
-    
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## 🎁 Off-topic: Zeal
     
 El programa que hemos aprendido a instalar, se denomina Zeal.
@@ -184,3 +193,33 @@ Espero presentarlo en una entrada más completa 💘
  [2]: https://cdn-images-1.medium.com/max/800/1*c_Zwtu7DvFddUnHspVKl1Q.png
  [3]: https://kutt.it/chocolatey_paquetes
  [4]: https://cdn-images-1.medium.com/max/800/1*tkVouRrDr0_fVNJUILJTVw.png
+
+### **Relacionados**
+
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/)
+
+[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/)
+
+[▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10](https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/)
+
+[10 Mejores VPN GRATIS para Windows en 2020](https://ciberninjas.com/mejores-vpn-windows/)
+
+[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
+
+[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/)
+
+[💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
+
+[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/)
+
+[🍫 ▷ Chocolatey, Aprender Desde Cero](https://ciberninjas.com/chocolatey/)
+
+[🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez](https://ciberninjas.com/ninite/)
+
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo](https://ciberninjas.com/mejor-software-dibujo-windows-android/)
+
+[👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/)
+
+[Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
