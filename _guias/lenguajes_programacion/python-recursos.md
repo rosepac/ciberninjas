@@ -19,7 +19,7 @@ header:
     - label: 'Aprender Python'
       url: '/python/'
     - label: 'Glosario Python'
-	  url: '/glosario/completo-tecnologias-python/'
+      url: '/glosario/completo-tecnologias-python/'
 ---
 
 En la página vas a poder encontrar los mejores y más actuales recursos con los que apoyarte a la hora de comenzar la compleja tarea de aprender el lenguaje de programación: Python.

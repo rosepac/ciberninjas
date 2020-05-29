@@ -1,8 +1,7 @@
 ---
-author_profile: false
+author_profile: true
 comments: false
 classes: wide
-layout: splash
 tags:
 - Java
 - Python
