@@ -15,9 +15,9 @@ header:
   image_alt: 'La tipografía es una parte integral del diseño del sitio web. La tipografía y las fuentes que utiliza juegan un papel muy importante en múltiples aspectos del diseño de un sitio web.'
 title: '19 Bibliotecas de Javascript para jugar con las tipografías'
 description: >-
-  La tipografía es una parte integral del diseño del sitio web. La tipografía y las fuentes que utiliza juegan un papel muy importante en múltiples aspectos del diseño de un sitio web.
+  La tipografía y las fuentes que utiliza juegan un papel muy importante en múltiples aspectos del diseño de un sitio web.
 excerpt: >-
-  La tipografía es una parte integral del diseño del sitio web. La tipografía y las fuentes que utiliza juegan un papel muy importante en múltiples aspectos del diseño de un sitio web.
+  La tipografía y las fuentes que utiliza juegan un papel muy importante en múltiples aspectos del diseño de un sitio web.
 canonical_URL: https://ciberninjas.com/javascript-jugar-tipografías/
 permalink: /javascript-jugar-tipografías/
 date: 2020-05-29
@@ -58,7 +58,7 @@ Textillate.js es un complemento simple para crear animaciones de texto CSS3. El 
 
 ## 4. **Widowtamer.js**
 
-Widowtamer.js es un complemento de JavaScript que corregiría automáticamente las líneas viudas (explicación [Wiki][https://es.wikipedia.org/wiki/Viuda_y_hu%C3%A9rfana]{:target="_blank" rel="nofollow"}) de la tipografía de tus páginas web. El complemento está diseñado para funcionar solo con sitios receptivos.
+Widowtamer.js es un complemento de JavaScript que corregiría automáticamente las líneas viudas (explicación [Wiki](https://es.wikipedia.org/wiki/Viuda_y_hu%C3%A9rfana){:target="_blank" rel="nofollow"}) de la tipografía de tus páginas web. El complemento está diseñado para funcionar solo con sitios receptivos.
 
 [🔥 Probar Widowtamer](https://responsivedesign.is/resources/typography/widowtamer-js/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
