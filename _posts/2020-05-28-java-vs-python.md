@@ -36,7 +36,7 @@ Java es un lenguaje de programación multiplataforma, orientado a objetos y cent
 
 Java también se utilizó como plataforma informática, y Sun Microsystem la lanzó por primera vez en 1995. Más tarde fue adquirida por Oracle Corporation.
 
-## **¿Qué es python?**
+## **¿Qué es Python?**
 
 Python es un lenguaje de programación orientado a objetos de alto nivel, que tiene estructuras de datos integradas, combinadas junto a enlaces dinámicos y tipeo, lo que lo convierte en una opción ideal para el desarrollo rápido de aplicaciones.
 
