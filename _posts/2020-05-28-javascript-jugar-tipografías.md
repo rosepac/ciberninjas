@@ -67,7 +67,6 @@ Widowtamer.js es un complemento de JavaScript que corregiría automáticamente l
 JQuery WidowFix es un complemento de jQuery para ayudarte a reparar las viudas. Las arregla agregando un espacio sin interrupciones entre las dos últimas palabras. La herramienta es ligera y fácil de usar.
 
 [🔥 Probar jQuery WidowFix](https://matthewlein.com/tools/widowfix){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Slab Text**
@@ -99,7 +98,6 @@ React Text Gradient es un complemento genial que te permite agregar degradados d
 Typed.js es una biblioteca de JavaScript que escribe oraciones en un navegador, las elimina y pasa a la siguiente cadena. La herramienta es bastante fácil de usar y puede crear un número ilimitado de cadenas. La biblioteca es genial para contar historias.
 
 [🔥 Probar Typed](https://mattboldt.com/demos/typed-js/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **FitText**
@@ -131,7 +129,6 @@ Font Flex es un complemento jQuery para tamaños de fuente dinámicos. El comple
 TextTailor.js es un complemento de jQuery que permite que el texto llene la altura del elemento principal o lo trunca cuando no encaja. Funciona perfectamente con publicaciones que tienen imágenes y fuentes fijas.
 
 [🔥 Probar TextTailor](https://jpntex.github.io/TextTailor.js/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 16. **Type Rendering Mix**
