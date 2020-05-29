@@ -12,9 +12,9 @@ header:
   teaser: /assets/images/blog/
 title: 'PHP vs NodeJS'
 description: >-
-  'Breve análisis sobre .'
+  Breve análisis básico sobre PHP y NodeJS.
 excerpt: >-
-  'Breve análisis sobre .'
+  Breve análisis básico sobre PHP y NodeJS.
 canonical_URL: https://ciberninjas.com/php-vs-nodejs/
 permalink: /php-vs-nodejs/
 date: 2020-05-28 09:46:32
@@ -23,12 +23,8 @@ published: true
 
 ---
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 <!-- https://www.geeksforgeeks.org/php-vs-node-js/ -->
 PHP y Node.js se utilizan para el desarrollo del lado del servidor y, por lo tanto, se han convertido en competidores entre sí. A continuación se presentan algunas diferencias basadas en diferentes parámetros para comprender los dos y tomar una decisión entre uno de los dos gigantes.
-
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Sobre PHP**
 
@@ -39,6 +35,8 @@ PHP es un acrónimo de Hyptertext Preprocessor creado por Rasmus Lerdorf en 1994
 Node.js es un entorno de tiempo de ejecución Javascript de código abierto del lado del servidor creado en el motor JavaScript de Chrome (V8) . Node.js se utiliza para crear aplicaciones rápidas y escalables y es un modelo de E / S sin bloqueo controlado por eventos. Los archivos Node.js tienen la extensión .js y contienen solo Javascript.
 
 Su autor original es Ryan Dahl y fue lanzado inicialmente el 27 de mayo de 2009. Con el nacimiento de Node.js, brinda a los usuarios la posibilidad de crear aplicaciones completamente basadas en Javascript .
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Sintaxis y acceso a la línea de comandos**
 
@@ -75,6 +73,8 @@ En Javascript, a veces, si es necesario encadenar muchas funciones; los programa
 
 En Node.js, sin embargo, puedes resolverlo gracias a su funcionamiento asíncrono y sus funciones "Async / Await" que te permiten que un bloque de código se ejecute sincrónicamente a pesar de que en bloques anteriores existan posibles errores.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Interruptores de Contexto de PHP y NodeJS**
 
 Al escribir el código final en PHP, el usuario cambia continuamente entre diferentes idiomas y sintaxis. Esto se debe a que PHP se usa predominantemente como parte de la pila LAMP que incluye MySQL (para la base de datos), PHP (para el código del lado del servidor) y Linux; y todos tienen una sintaxis diferente y se requiere un buen conocimiento de HTML, CSS y Javascript.
@@ -89,6 +89,8 @@ PHP utiliza tecnologías de instalación de módulos como PEAR (un sistema de pa
 - Composer es una herramienta para la gestión de dependencias en PHP que permite a los usuarios declarar las bibliotecas de las que depende el proyecto y las administrará (instalará / actualizará) para facilitar esos pasos al usuario.
 
 Node.js viene incluido con un sistema de administración de paquetes llamado NPM (Node Package Manager) y es fácil de usar y publicar a través de comandos.
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Frameworks de PHP y NodeJS**
 
@@ -105,6 +107,8 @@ Node.js funciona perfectamente con bases de datos NoSQL (no solo SQL) como Mongo
 Puntos negativos de PHP respecto a los sistemas de bases de datos. Las bases de datos MySQL son especialmente propensos a ataques por inyecciones SQL, scripting cruzado (XSS) y otros.
 
 Puntos negativos de Node.js respecto a los sistemas de bases de datos. Aunque no son tan comunes, los ataques de inyección NoSQL son una vulnerabilidad documentada; pero en comparación con las inyecciones SQL, son insignificantes. La razón principal de esto es que son software más nuevos y sus diseños de código es tal, que son inherentemente resistentes a tales ataques.
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Servidores Web para PHP y Node.js**
 
@@ -133,8 +137,18 @@ PHP debe usarse en aplicaciones en las que el cliente no tiene que interactuar c
 - Es usado masivamente en aplicaciones en tiempo real como aplicaciones de chat, blogs, aplicaciones de transmisión de video.
 - Se utiliza en el desarrollo de aplicaciones de una sola página, como carteras de currículums, sitios web estáticos, etc.
 
-#### Relacionados
+### **Relacionados**
+
+[Java vs Python: ¿Cuál es su diferencia?](https://ciberninjas.com/java-vs-python-diferencias/)
 
 [¿Por qué Python es mejor que PHP?](https://ciberninjas.com/porque-python-es-mejor-que-php/)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[Python vs PHP: Introducción básica](https://ciberninjas.com/python-vs-php/)
+
+[Breve introducción a PHP y HTML](https://ciberninjas.com/php-vs-html/)
+
+[PHP vs NodeJS](https://ciberninjas.com/php-vs-nodejs/)
+
+[Rust vs C++: ¿Rust reemplazará a C++ en el futuro?](https://ciberninjas.com/rust-vs-c-m%C3%A1s/)
+
+[🥇 ▷ Los Mejores EDITORES de TEXTO para programar](https://ciberninjas.com/mejores-editores-texto/)

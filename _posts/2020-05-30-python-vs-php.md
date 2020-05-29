@@ -1,20 +1,25 @@
 ---
 
-author_profile: true
+author_profile: false
 comments: false
 classes: wide
+layout: splash
 tags:
 - Python
 - PHP
 categories:
 - Lenguajes de Programación
 header:
-  teaser: /assets/images/blog/
-title: 'Python vs PHP: Introducción básica a 2 de los lenguajes de programación de más importantse de la actualidad'
+  teaser: /assets/images/lenguajes-vs/python-vs-php-2.webp
+  overlay_image: /assets/images/lenguajes-vs/python-vs-php-2.webp
+  overlay_filter: 0.2
+  image_description: 'Python vs PHP: Introducción básica a 2 de los lenguajes de programación de más importantes de la actualidad'
+  image_alt: 'Python vs PHP: Introducción básica a 2 de los lenguajes de programación de más importantes de la actualidad'
+title: 'Python vs PHP: Introducción básica a 2 de los lenguajes de programación de más importantes de la actualidad'
 description: >-
-  'Vamos a intentar realizar una pequeña introducción y comparativa como medio introductorio a estos dos lenguajes de programación, tomando en cuenta sus distancias y diferencias, de por sí; ya existentes.'
+  Vamos a realizar una pequeña introducción y comparativa entre Python y PHP, como medio introductorio a estos dos lenguajes de programación.
 excerpt: >-
-  'Vamos a intentar realizar una pequeña introducción y comparativa como medio introductorio a estos dos lenguajes de programación, tomando en cuenta sus distancias y diferencias, de por sí; ya existentes.'
+  Vamos a realizar una pequeña introducción y comparativa entre Python y PHP, como medio introductorio a estos dos lenguajes de programación.
 canonical_URL: https://ciberninjas.com/python-vs-php/
 permalink: /python-vs-php/
 date: 2020-05-28 09:32:32
@@ -25,7 +30,6 @@ published: true
 
 Vamos a intentar realizar una pequeña introducción y comparativa como medio introductorio a estos dos lenguajes de programación, tomando en cuenta sus distancias y diferencias, de por sí; ya existentes.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- https://www.geeksforgeeks.org/python-vs-php/ -->
 ## **¿Qué es Python?**
 
@@ -37,6 +41,8 @@ Php es un lenguaje de scripting, que significa preprocesador de hipertexto, inve
 
 Como lenguaje de secuencias de comandos desde el lado del servidor, se utiliza para crear contenidos HTML dinámicos a través de la web; se utiliza popularmente para generar documentos XML, animaciones Flash, gráficos, archivos PDF y mucho más.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Facilidad de uso de Python**
 
 Python es potente, portátil, de código abierto y es relativamente fácil de aprender y divertido de usar; tiene muchas características que otros lenguajes de programación no admiten. Su sintaxis es más simple y el código es más legible en Python en comparación con otros lenguajes de programación como PHP, C y C ++.
@@ -44,8 +50,6 @@ Python es potente, portátil, de código abierto y es relativamente fácil de ap
 ## **Facilidad de uso de PHP**
 
 PHP no se usa para programación de propósito general, y solo se usa para crear contenido web dinámico con html; la única razón para seguir con PHP es su facilidad de uso.
-
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Comparación entre Python y PHP**
 
@@ -60,6 +64,8 @@ Las claves de Python, son que te hará utilizar menos líneas de código para es
 Python es un lenguaje de propósito general más utilizado para tareas de aprendizaje automático, en el mundo de la ciencia de datos, la inteligencia artificial y la automatización de procesos y tareas; en cambio, PHP es un lengaje enfocado, principalmente, al desarrollo web.
 
 A pesar de que PHP en los últimos años parece que ha comenzado a perder algo de popularidad entre la Comunidad, sigue siendo el lenguaje del mundo web más utilizado para la creación de sitios web; en el caso de Python, desde el año 2016 hasta en la actualidad, la popularidad de Python ha ido aumentando día a día, y sigue haciéndolo en la actualidad.
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Soporte comunitario de Python y PHP**
 
@@ -82,10 +88,20 @@ Las razones para seguir con PHP son su mayor sencillez, su facilidad de uso y ro
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-### Relacionados
+### **Relacionados**
+
+[Java vs Python: ¿Cuál es su diferencia?](https://ciberninjas.com/java-vs-python-diferencias/)
+
+[¿Por qué Python es mejor que PHP?](https://ciberninjas.com/porque-python-es-mejor-que-php/)
+
+[Python vs PHP: Introducción básica](https://ciberninjas.com/python-vs-php/)
 
 [Breve introducción a PHP y HTML](https://ciberninjas.com/php-vs-html/)
 
-[¿Por qué Python es mejor que PHP?](https://ciberninjas.com/porque-python-es-mejor-que-php/)
+[PHP vs NodeJS](https://ciberninjas.com/php-vs-nodejs/)
+
+[Rust vs C++: ¿Rust reemplazará a C++ en el futuro?](https://ciberninjas.com/rust-vs-c-m%C3%A1s/)
+
+[🥇 ▷ Los Mejores EDITORES de TEXTO para programar](https://ciberninjas.com/mejores-editores-texto/)
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

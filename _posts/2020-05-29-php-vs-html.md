@@ -12,9 +12,9 @@ header:
   teaser: /assets/images/blog/
 title: 'Breve introducción a PHP y HTML'
 description: >-
-  'Breve introducción al lenguaje de programación PHP y el lenguaje de marcado de hipertexto HTML.'
+  Breve introducción al lenguaje de programación PHP y el lenguaje de marcado de hipertexto HTML.
 excerpt: >-
-  'Breve introducción al lenguaje de programación PHP y el lenguaje de marcado de hipertexto HTML.'
+  Breve introducción al lenguaje de programación PHP y el lenguaje de marcado de hipertexto HTML.
 canonical_URL: https://ciberninjas.com/php-vs-html/
 permalink: /php-vs-html/
 date: 2020-05-28 09:36:32
@@ -25,8 +25,6 @@ published: true
 
 Una breve comparativa entre PHP y HTML, salvando las distancias y diferencias obvias que se pueden encontrar entre ellos.
 <!-- https://www.geeksforgeeks.org/php-vs-html/ -->
-
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué es PHP?**
 
@@ -42,9 +40,13 @@ echo "Bienvenido a Ciberninjas";
 ?>
 ```
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **¿Qué es HTML?**
 
 HTML significa lenguaje de marcado de hipertexto. Ayuda en la creación de sitios web. Influye en el código front-end de casi todos los sitios web de la web; la forma en que se muestra el contenido en un navegador se representa a través de HTML. Los archivos HTML usan "etiquetas" para la transmisión de la información hacía el navegador que lo transforma en lo que el usuario visualiza.
+
+## **Ejemplo de Código HTML**
 
 ```
 <!DOCTYPE html>
@@ -80,17 +82,32 @@ HTML significa lenguaje de marcado de hipertexto. Ayuda en la creación de sitio
 - HTML se puede usar en un archivo PHP.
 - Las extensiones de HTML son .html, .htm.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Algunos datos interesantes**
 
 - Sitios web famosos como Facebook, Technorati, Yahoo, Wikipedia.org, WordPress.org, Twitter.com, Flickr, etc., funcionan con PHP.
 - PHP se implementa en más de 244 millones de sitios web (Encuesta web de Netcraft 2013)
 - Cuando se desarrolló PHP, significaba Página de Inicio Personal (Personal Home Page).
 
+
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-### Relacionados
+### **Relacionados**
+
+[Java vs Python: ¿Cuál es su diferencia?](https://ciberninjas.com/java-vs-python-diferencias/)
 
 [¿Por qué Python es mejor que PHP?](https://ciberninjas.com/porque-python-es-mejor-que-php/)
+
+[Python vs PHP: Introducción básica](https://ciberninjas.com/python-vs-php/)
+
+[Breve introducción a PHP y HTML](https://ciberninjas.com/php-vs-html/)
+
+[PHP vs NodeJS](https://ciberninjas.com/php-vs-nodejs/)
+
+[Rust vs C++: ¿Rust reemplazará a C++ en el futuro?](https://ciberninjas.com/rust-vs-c-m%C3%A1s/)
+
+[🥇 ▷ Los Mejores EDITORES de TEXTO para programar](https://ciberninjas.com/mejores-editores-texto/)
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

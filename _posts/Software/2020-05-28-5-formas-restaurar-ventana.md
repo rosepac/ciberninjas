@@ -38,7 +38,6 @@ Verás el borde inferior de la ventana pero no podrás acceder al marco en el qu
 - [3. **Ventanas en cascada**](#3-ventanas-en-cascada)
 - [4. **Cambia la resolución de pantalla**](#4-cambia-la-resoluci%c3%b3n-de-pantalla)
 - [5. **Aplica la opción de detección de pantalla**](#5-aplica-la-opci%c3%b3n-de-detecci%c3%b3n-de-pantalla)
-  - [**Relacionados**](#relacionados)
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -48,7 +47,7 @@ Desplázate sobre el icono del programa abierto en la barra de tareas, hasta que
 
 ## 2. **Usa los atajos del teclado**
 
-Presiona `Alt+Tabulador` y ve presionando la tecla de `Tabulador` hasta llegar a la ventana deseada. Luego presiona `Alt+Espacio+X` para expandir la ventana a pantalla completa, posteriormente podrás moverla donde te sea necesario, ajustarle el tamaño o cerrarla; si es lo que deseas.
+Presiona `Alt + Tabulador` y ve presionando la tecla de `Tabulador` hasta llegar a la ventana deseada. Luego presiona `Alt + Espacio + X` para expandir la ventana a pantalla completa, posteriormente podrás moverla donde te sea necesario, ajustarle el tamaño o cerrarla; si es lo que deseas.
 
 ## 3. **Ventanas en cascada**
 
@@ -68,7 +67,7 @@ La opción siguiente, es óptima, si el problema es derivado de haber tenido var
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1](/black-friday-amazon/) >> [mejores regalos 2](/prime-day-amazon/)
 {: .notice--danger}
 
-### **Relacionados**
+### **Relacionados** <!-- omit in toc -->
 
 [👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/)
 
