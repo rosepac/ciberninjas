@@ -29,6 +29,19 @@ La característica más importante es la compatibilidad total con **FastTracker 
 [Fasttracker II](https://en.wikipedia.org/wiki/FastTracker_2) fue una herramienta de creación de música para DOS, lanzada en 1994 y se convirtió en el estándar durante mucho tiempo para la música basada en secuenciadores.
 1994 fue también el año en que Commodore fue a desahucio, arrastrando a Amiga con ellos, así que muchos músicos de Amiga dieron el salto a la PC en ese momento, encontrando a **Fasttracker 2** como el perfecto sucesor de **Protracker**.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 **Fasttracker** es un poco más complejo que un simple "secuenciador". Agregó lo necesario a los instrumentos que los hace sonar mucho más naturales y admitieron muestras de 16 bits, un gran avance en la calidad.
 Se admiten hasta 32 canales, 128 instrumentos, 2 efectos de canales concurrentes y mucho más ... ¡Fue muy divertido de implementar!
 
@@ -39,6 +52,19 @@ Otros grandes cambios son:
 - Edición de patrones mejorada: use rangos y corte / copie / pegue para editar rápidamente
 - Exporta tu canción a .wav o .mp3.
 - Un montón de actualizaciones de la interfaz de usuario de lujo.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Puedes realizar todo eso desde [Basson](https://kutt.it/bassoon) un sencillo reproductor imitación a los antiguos programas de mesas de mezclas, y creado a base de javascript y CERO dependencias; podrás escuchar antiguas canciones que seguramente te van a ser familiares. Solamente debes entrar en los enlaces y hacer **clic al play**:
 
@@ -62,3 +88,16 @@ Puedes realizar todo eso desde [Basson](https://kutt.it/bassoon) un sencillo rep
 **Reproductor**: [Audio Lotus 2](https://www.stef.be/bassoontracker/?file=demomods%2Flotus20.mod)
 **Fuente Original**: [Blog.Stef.be](http://blog.stef.be/bassoontracker030)
 {: .notice--info}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

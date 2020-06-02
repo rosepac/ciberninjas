@@ -49,7 +49,20 @@ Y si me permite presentar la evidencia de mi caso
 Lo comprobaré
  
 ¡Proceda!
- 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Exposición A: Aquí hay un teléfono moderno, ¿lo reconoce?
 Aquí hay un teléfono de hace 150 años
 Gran diferencia ¿no?
@@ -64,7 +77,20 @@ Y aun así dices preparar a los estudiantes para el futuro
 pero con evidencia como esta
 debo de preguntar:
 ¿Preparas a los estudiantes para el futuro o para el pasado?
- 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Te hice una verificación de antecedentes
 Y los récords muestran que fuiste creada para entrenar a personas para trabajar en fábricas
 Lo que comprueba el porque pones a los estudiantes en filas bonitas y acomodadas
@@ -87,7 +113,20 @@ innovadamente,
 críticamente,
 independientemente
 con la habilidad de conectarse
- 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Veras, todo científico te dirá que no hay dos cerebros iguales
 Y cada padre con dos o más hijos confirmara esto
 Así que explícanos
@@ -97,7 +136,20 @@ O con gorras de snapback, con mierda de “una sola talla”
 ¡Cuida tu vocabulario!
  
 ¡Disculpe su Señoría!
- 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Pero si un doctor recetara la misma medicina a todos sus pacientes
 El resultado sería trágico
 Mucha gente se enfermaría
@@ -113,9 +165,22 @@ Y les enseñan lo mismo y de la misma manera,
 Eso es horroroso
 Señoras y señores, el acusado no debe ser absuelto
 Esta puede ser una de las peores ofensas criminales que se hayan cometido
- 
+
 Y vamos a mencionar la manera en la que tratas a tus empleados
- 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ¡Objeción!
 Objeción anulada. ¡Quiero escuchar esto!
  
@@ -127,7 +192,20 @@ Seamos honestos
 Los maestros deben de ser pagados tanto como los doctores
 Porque un doctor puede hacer cirugía de corazón y salvar la vida de un niño
 Pero un buen maestro puede llegar al corazón de un niño y dejarlo vivir verdaderamente
- 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Verán, los maestros son héroes que usualmente son culpados
 Pero ellos no son el problema
 Ellos trabajan en un sistema sin muchas opciones o derechos
@@ -172,7 +250,20 @@ En otros lugares como en Singapur están teniendo éxito rápidamente
 Escuelas como Montessori
 Programas como La Academia Khan
 No existe una sola solución.
- 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Pero hay que movernos porque mientras solo el 20% de la población son estudiantes
 100% de ellos son nuestro futuro
 Así que vamos a atender a sus sueños
@@ -182,3 +273,16 @@ Un mundo en el que los peces no son forzado a escalar arboles
 A las pruebas me remito, no hay mas preguntas.
 
 > Fuente [Lyrics Translate](https://lyricstranslate.com) Transcripción por [lolaeocho](https://lyricstranslate.com/es/translator/lolaeocho)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

@@ -27,6 +27,19 @@ sidebar:
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/DEMYlPA5Q7g?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/dlb0aUZKQpk?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The final chapter arrives. <a href="https://twitter.com/hashtag/StarWars?src=hash&amp;ref_src=twsrc%5Etfw">#StarWars</a>: <a href="https://twitter.com/hashtag/TheRiseOfSkywalker?src=hash&amp;ref_src=twsrc%5Etfw">#TheRiseOfSkywalker</a> is in theaters December 20. Get your tickets: <a href="https://t.co/EbJ0vDHKyt">https://t.co/EbJ0vDHKyt</a> <a href="https://t.co/fbq975tFs8">pic.twitter.com/fbq975tFs8</a></p>&mdash; Star Wars (@starwars) <a href="https://twitter.com/starwars/status/1200097021656322049?ref_src=twsrc%5Etfw">November 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -37,6 +50,18 @@ sidebar:
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/OXcCTxUQ7lk?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!--
 https://www.youtube.com/watch?v=OXcCTxUQ7lk
 https://www.youtube.com/watch?v=H9uitAy3ziQ

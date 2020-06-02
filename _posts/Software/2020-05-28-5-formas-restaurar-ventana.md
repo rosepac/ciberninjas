@@ -36,10 +36,21 @@ Verás el borde inferior de la ventana pero no podrás acceder al marco en el qu
 - [1. **Restaura la ventana desde la Barra de tareas**](#1-restaura-la-ventana-desde-la-barra-de-tareas)
 - [2. **Usa los atajos del teclado**](#2-usa-los-atajos-del-teclado)
 - [3. **Ventanas en cascada**](#3-ventanas-en-cascada)
-- [4. **Cambia la resolución de pantalla**](#4-cambia-la-resoluci%c3%b3n-de-pantalla)
-- [5. **Aplica la opción de detección de pantalla**](#5-aplica-la-opci%c3%b3n-de-detecci%c3%b3n-de-pantalla)
+- [4. **Cambia la resolución de pantalla**](#4-cambia-la-resolución-de-pantalla)
+- [5. **Aplica la opción de detección de pantalla**](#5-aplica-la-opción-de-detección-de-pantalla)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 1. **Restaura la ventana desde la Barra de tareas**
 
@@ -53,6 +64,17 @@ Presiona `Alt + Tabulador` y ve presionando la tecla de `Tabulador` hasta llegar
 
 Haz Clic derecho sobre la barra de tareas y posteriormente selecciona la opcion de "Mostrar Ventanas en Cascada" y de isofacto, todos los programas abiertos aparecerán frente a ti, y tendrás la opción de ordenarlos a tu gusto.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## 4. **Cambia la resolución de pantalla**
 
 Haciendo Clic en el botón derecho en el escritorio y luego Clic en "Configuración de pantalla". Dentro de la ventana de opciones que se abrirá, podrás cambiar la resolución a otra disponible para tu monitor.
@@ -62,10 +84,20 @@ Entonces, Windows moverá todas las ventanas fuera de la ventana a la pantalla r
 
 La opción siguiente, es óptima, si el problema es derivado de haber tenido varios monitores conectados. Haz clic derecho en el escritorio y selecciona "Configuración de pantalla". Luego haz clic en "Detectar" y Windows devolverá todas las ventanas que faltan a tu monitor actual.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1](/black-friday-amazon/) >> [mejores regalos 2](/prime-day-amazon/)
-{: .notice--danger}
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
 
 ### **Relacionados** <!-- omit in toc -->
 
@@ -94,5 +126,16 @@ La opción siguiente, es óptima, si el problema es derivado de haber tenido var
 [👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/)
 
 [Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
