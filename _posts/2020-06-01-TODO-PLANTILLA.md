@@ -21,7 +21,7 @@ excerpt: >-
   ''
 canonical_URL: https://ciberninjas.com//
 permalink: //
-date: 2020-05-21 18:32:32
+date: 2020-06-01 18:32:32
 last_modified_at: 
 published: false
 
