@@ -52,7 +52,7 @@ El listado de contenidos es muy amplio:
 
 - Desarrollador web y multimedia, desarrollador frontend, desarrollador backend, desarrollador full stack, desarrollador de videojuegos, desarrollador móvil, especialista UI o también conocido como especialista de interfaces de usuario, diseñador gráfico, administrador de sistemas, diseñador o administrador de bases de datos, técnico de soporte TIC, especialista en ciberseguridad, digital producto manager, digital project manager. E incluso si tu desarrollo es el de consultor TIC, especialista de UX u experiencia de usuario, cientifico de datos, analista de datos o business intelligence.
 
-Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrellato.. Solamente debesde buscar el libro adecuado dentro de [nuestra impresionante lista de publicaciones gratuitas](/biblioteca-de-programacion-y-tecnologia/#índice-de-libros) 💪
+Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrellato.. Solamente debes de buscar el libro adecuado dentro de [nuestra impresionante lista de publicaciones gratuitas](/biblioteca-de-programacion-y-tecnologia/#índice-de-libros) 💪
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}

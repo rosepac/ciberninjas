@@ -58,7 +58,6 @@ Otro apartado flexible es que no tienes porque usar las diferentes distribucione
 [📖 Documentación de Komodo](http://docs.activestate.com/komodo/12/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [✍ Web Oficial de Komodo](https://www.activestate.com/products/komodo-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -70,6 +69,8 @@ Otro apartado flexible es que no tienes porque usar las diferentes distribucione
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- https://www.activestate.com/products/komodo-ide/ -->
 <!-- https://www.i-programmer.info/news/90-tools/13411-activestate-komodo-ide-now-free.html -->
 <!-- https://www.i-programmer.info/news/90-tools/13117-cyberchef-the-developers-ultimate-toolbox.html -->
