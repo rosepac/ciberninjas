@@ -26,9 +26,9 @@ header:
   image_alt: 'Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida'
 title: '11 Mejores entornos de desarrollo para Python 2020'
 description: >-
-  Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida.
+  Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente.
 excerpt: >-
-  Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida.
+  Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente.
 canonical_URL: https://ciberninjas.com/mejores-ide-python/
 permalink: /mejores-ide-python/
 date: 2020-06-02
@@ -49,22 +49,23 @@ Editores, con características populares y últimos enlaces de descarga. La list
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/mejores-ide-python/#1-spring"></a></li>
-    <li><a href="/mejores-ide-python/"></a></li>
-    <li><a href="/mejores-ide-python/"></a></li>
-    <li><a href="/mejores-ide-python/"></a></li>
-    <li><a href="/mejores-ide-python/"></a></li>
-    <li><a href="/mejores-ide-python/"></a></li>
-    <li><a href="/mejores-ide-python/"></a></li>
-    <li><a href="/mejores-ide-python/"></a></li>
-    <li><a href="/mejores-ide-python/"></a></li>
-    <li><a href="/mejores-ide-python/"></a></li>
+    <li>1. <a href="/mejores-ide-python/#1-pycharm"><strong>Pycharm</strong></a></li>
+    <li>2. <a href="/mejores-ide-python/#2-spyder"><strong>Spyder</strong></a></li>
+    <li>3. <a href="/mejores-ide-python/#3-idle"><strong>Python Idle</strong></a></li>
+    <li>4. <a href="/mejores-ide-python/#4-sublime-text-3">Sublime Text Studio</a></li>
+    <li>5. <a href="/mejores-ide-python/#5-visual-studio-code"><strong>Visual Studio Code</strong></a></li>
+    <li>6. <a href="/mejores-ide-python/#6-atom"><strong>Atom</strong></a></li>
+    <li>7. <a href="/mejores-ide-python/#7-jupyter"><strong>Jupyter</strong></a></li>
+    <li>8. <a href="/mejores-ide-python/#8-pydev"><strong>Pydev</strong></a></li>
+    <li>9. <a href="/mejores-ide-python/#9-thonny"><strong>Thonny</strong></a></li>
+    <li>10. <a href="/mejores-ide-python/#10-wing"><strong>wing</strong></a></li>
+    <li>11. <a href="/mejores-ide-python/#11-komodo-active-python"><strong>Komodo Active State para Python</strong></a></li>
   </ol>
 </nav>
 </details>
 <br />
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+🔥 Seguro también te interesa: [¿Qué es Python?](/python/#qué-es-python) >> [¿Quién usa Python?](/python/#quién-está-usando-python) >> [¿Por qué aprender Python?](/python/#por-qué-aprender-python) >> [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python) >> [Bibliotecas de Python](/python/#bibliotecas-de-python)
 {: .notice--danger}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -204,7 +205,7 @@ Atom es una herramienta útil de editor de código preferida por los programador
 
 ![Logotipo del entorno de desarrollo o IDE denominado Jupyter](/assets/images/blog/python-ide/jupyter.webp "Logotipo del entorno de desarrollo o IDE denominado Jupyter")
 
-Jupyter es una herramienta para las personas que acaban de comenzar con la ciencia de datos. Es un IDE interactivo de ciencia de datos fácil de usar en muchos lenguajes de programación que simplemente no funcionan como editor, sino también como una herramienta educativa o presentación.
+Jupyter es una herramienta para las personas que acaban de comenzar con la ciencia de datos. Es un IDE interactivo de ciencia de datos fácil de usar en muchos lenguajes de programación que simplemente no funcionan como editor, sino también como una herramienta educativa o para la creación de presentaciones.
 
 ### **Características de Jupyter**
 
