@@ -26,9 +26,9 @@ header:
   image_alt: 'Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida'
 title: '11 Mejores entornos de desarrollo para Python 2020'
 description: >-
-  Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida
+  Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida.
 excerpt: >-
-  Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida
+  Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida.
 canonical_URL: https://ciberninjas.com/mejores-ide-python/
 permalink: /mejores-ide-python/
 date: 2020-06-02

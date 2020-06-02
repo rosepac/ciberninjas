@@ -9,7 +9,7 @@ comments: false
 date: 2020-02-01 16:30:12
 last_modified_at: 
 header:
-  teaser: https://i.ibb.co/cw05Njb/komodo-ide-blog-hero.png
+  teaser: /assets/images/blog/python-ide/komodo-ide.webp
 permalink: /ide-komodo-gratis/
 canonical_URL: https://ciberninjas.com/ide-komodo-gratis/
 classes: wide
@@ -21,11 +21,22 @@ tags:
 
 ---
 
-![](https://i.ibb.co/cw05Njb/komodo-ide-blog-hero.png "Logotipo del software / editor de texto Komodo IDE")
+![Logotipo del entorno de desarrollo o IDE denominado Komodo IDE](/assets/images/blog/python-ide/komodo-ide.webp "Logotipo del entorno de desarrollo o IDE denominado Komodo IDE")
 
 Desde hace unos días, en concreto el 23 de Enero se informa de que el IDE Komodo dejará de ser de pago. Este IDE multilinguaje que sirve para Python, PHP, JavaScript, HTML5, CSS, Node.js, Golang, Ruby, Perl y una variedad de otros lenguajes y frameworks.
 
 Con el lanzamiento de su última versión: Komodo 12, ya se pueden obtener de forma gratuita, todas las funcionalidades básicas que se requieren para programar con comodidad. Como son las pruebas unitarias, la colaboración e integración con pruebas unitarias de los sistemas de compilación, y además el acceso a la plataforma ActiveState integrada con la que puedes crear automáticamente entornos de tiempo de ejecución simplemente eligiendo los paquetes que deseas, así como la herramienta de estado con la que se puede implementar de forma instantánea y local todo el entorno de ejecución.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Lo único que se requiere es abrir una cuenta en ActiveState para registrar tu copia del Software. Aunque la opción de recibir soporte técnico, sigue siendo una oferta de pago.
 
@@ -37,7 +48,7 @@ Las características que se han actualizado en la nueva Versión 12 se incluye:
 
 Se deseas recibir información en mayor profundidad sobre las capacidades del IDE, puedes consultar las [características del IDE de Komodo](https://www.activestate.com/products/komodo-ide/features/){:target="_blank" rel="nofollow,noreferrer"}
 
-![](https://i.ibb.co/pj4qcQr/komodo1.jpg "Vista del IDE de Komodo")
+![Vista del entorno de desarrollo de Komodo](/assets/images/blog/komodo1.jpg "Vista del entorno de desarrollo de Komodo")
 
 Si tiene experiencia en otro IDE, te resultará fácil la migración, ya que Komodo viene precargado con las asociaciones de teclas más populares que suelen encontrarse en otros editores. Por ejemplo, si está familiarizado con Vi, puede configurar a Komodo para que actúe como tal y así, aprovechar tu experiencia para disfrutar de mayor comodidad en su uso desde el primer día.
 
@@ -47,6 +58,18 @@ Otro apartado flexible es que no tienes porque usar las diferentes distribucione
 [📖 Documentación de Komodo](http://docs.activestate.com/komodo/12/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [✍ Web Oficial de Komodo](https://www.activestate.com/products/komodo-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <!-- https://www.activestate.com/products/komodo-ide/ -->
 <!-- https://www.i-programmer.info/news/90-tools/13411-activestate-komodo-ide-now-free.html -->
 <!-- https://www.i-programmer.info/news/90-tools/13117-cyberchef-the-developers-ultimate-toolbox.html -->
