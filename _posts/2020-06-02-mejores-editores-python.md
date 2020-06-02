@@ -49,35 +49,23 @@ Editores, con características populares y últimos enlaces de descarga. La list
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li>1. <a href="/mejores-ide-python/#1-pycharm"><strong>Pycharm</strong></a></li>
-    <li>2. <a href="/mejores-ide-python/#2-spyder"><strong>Spyder</strong></a></li>
-    <li>3. <a href="/mejores-ide-python/#3-idle"><strong>Python Idle</strong></a></li>
+    <li>1. <a href="/mejores-ide-python/#1-pycharm">Pycharm</a></li>
+    <li>2. <a href="/mejores-ide-python/#2-spyder">Spyder</a></li>
+    <li>3. <a href="/mejores-ide-python/#3-idle">Python Idle</a></li>
     <li>4. <a href="/mejores-ide-python/#4-sublime-text-3">Sublime Text Studio</a></li>
-    <li>5. <a href="/mejores-ide-python/#5-visual-studio-code"><strong>Visual Studio Code</strong></a></li>
-    <li>6. <a href="/mejores-ide-python/#6-atom"><strong>Atom</strong></a></li>
-    <li>7. <a href="/mejores-ide-python/#7-jupyter"><strong>Jupyter</strong></a></li>
-    <li>8. <a href="/mejores-ide-python/#8-pydev"><strong>Pydev</strong></a></li>
-    <li>9. <a href="/mejores-ide-python/#9-thonny"><strong>Thonny</strong></a></li>
-    <li>10. <a href="/mejores-ide-python/#10-wing"><strong>wing</strong></a></li>
-    <li>11. <a href="/mejores-ide-python/#11-komodo-active-python"><strong>Komodo Active State para Python</strong></a></li>
+    <li>5. <a href="/mejores-ide-python/#5-visual-studio-code">Visual Studio Code</a></li>
+    <li>6. <a href="/mejores-ide-python/#6-atom">Atom</a></li>
+    <li>7. <a href="/mejores-ide-python/#7-jupyter">Jupyter</a></li>
+    <li>8. <a href="/mejores-ide-python/#8-pydev">Pydev</a></li>
+    <li>9. <a href="/mejores-ide-python/#9-thonny">Thonny</a></li>
+    <li>10. <a href="/mejores-ide-python/#10-wing">Wing</a></li>
+    <li>11. <a href="/mejores-ide-python/#11-komodo-active-python">Komodo Active State para Python</a></li>
   </ol>
 </nav>
 </details>
-<br />
 
 🔥 Seguro también te interesa: [¿Qué es Python?](/python/#qué-es-python) >> [¿Quién usa Python?](/python/#quién-está-usando-python) >> [¿Por qué aprender Python?](/python/#por-qué-aprender-python) >> [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python) >> [Bibliotecas de Python](/python/#bibliotecas-de-python)
 {: .notice--danger}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## 1. **PyCharm**
 
@@ -112,6 +100,17 @@ Spyder es un entorno de desarrollo científico integrado escrito en Python. Este
 - Una forma interactiva de rastrear cada paso de la ejecución del código Python.
 
 [🔥 Descargar Spyder](https://www.spyder-ide.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 3. **IDLE**
 
