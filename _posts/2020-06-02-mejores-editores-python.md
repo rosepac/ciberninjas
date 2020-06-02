@@ -5,15 +5,25 @@ comments: false
 classes: wide
 layout: splash
 tags:
-- VPN
+- Python
+- Sublime Text
+- Pycharm
+- Atom
+- Jupyter
+- Pydev
+- Spyder
+- Komodo
+- Thonny
+- Visual Studio Code
+- Wing
 categories:
-- Software
+- Editores de Texto
 header:
-  teaser: /assets/images/.webp
-  overlay_image: /assets/images/.webp
+  teaser: /assets/images/blog/python-ide/python-editores-scrapy.webp
+  overlay_image: /assets/images/blog/python-ide/python-editores-scrapy.webp
   overlay_filter: 0.2
-  image_description: ''
-  image_alt: ''
+  image_description: 'Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida'
+  image_alt: 'Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida'
 title: '11 Mejores entornos de desarrollo para Python 2020'
 description: >-
   Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida
@@ -23,7 +33,7 @@ canonical_URL: https://ciberninjas.com/mejores-ide-python/
 permalink: /mejores-ide-python/
 date: 2020-06-02
 last_modified_at: 
-published: false
+published: true
 
 ---
 
@@ -56,6 +66,17 @@ Editores, con características populares y últimos enlaces de descarga. La list
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 1. **PyCharm**
 
@@ -137,6 +158,19 @@ Visual Studio Code (VS Code) es un entorno de código abierto desarrollado por M
 
 [🔥 Descargar Visual Studio Code](https://code.visualstudio.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## 6. **Atom**
 
 ![Logotipo del entorno de desarrollo o IDE denominado Atom](/assets/images/blog/python-ide/atom-ide.webp "Logotipo del entorno de desarrollo o IDE denominado Atom")
@@ -165,7 +199,6 @@ Atom es una herramienta útil de editor de código preferida por los programador
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 ## 7. **Jupyter**
 
@@ -263,7 +296,6 @@ Precio: Gratis para la comunidad, sin embargo. Las versiones empresariales son d
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}

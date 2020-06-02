@@ -76,6 +76,17 @@ Existen otras muchas empresas reconocidas que confian en Python como uno de sus 
 [🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## ¿Por qué aprender Python?
 
 La sintaxis sencilla y directa de Python lo convierten en uno de los mejores lenguajes, entre los de propósito general, que comenzar a aprender en lo que resta del 2020. Python cuenta con un sistema de tipado dinámico, gestión automática de su memoria dinámica y admite múltiples paradigmas de programación como orientado a objetos, funcional e imperativo. En muchos dominios de aplicación utilizan su biblioteca estándar integral.
@@ -92,6 +103,18 @@ En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrad
 
 [🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## ¿Cómo desarrollar una aplicación web con Python?
 <!-- https://www.fullstackpython.com/ -->
@@ -256,6 +279,18 @@ https://rayframework.github.io/site/
 [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large .align-center}
 [🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## Bibliotecas de Python
 
@@ -451,6 +486,17 @@ PyTorch está superando a TensorFlow en múltiples formas y está ganando mucha 
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a LightGBM..
 
 ## LightGBM
@@ -593,6 +639,17 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Otras Bibliotecas
 
 * [CadQuery](/impresiones-3d-modulo-python-cadquery/){:target="_blank" rel="nofollow,noreferrer"}
@@ -609,6 +666,17 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 [🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--warning .btn--large .align-center}
 [🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--warning .btn--large .align-center}
@@ -628,3 +696,14 @@ La **Guía de Python** fue creada el *30 de Junio de 2019* y su última edición
 {: .notice--info}
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
