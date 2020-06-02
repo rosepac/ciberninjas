@@ -35,6 +35,19 @@ Las noticias están en inglés. Si las deseas en español debes mantener el trad
 
 ¡Al lío!
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## [La Palabra "Hacker por Paul Graham"](http://www.paulgraham.com/gba.html){:target="_blank" rel="nofollow,noreferrer"}
 
 Ensayo sobre la palabra Hacker escrito por Paul Graham.
@@ -51,6 +64,19 @@ Esta guía fue creada originalmente por Prashant Varanasi y Simon Newton como un
 
 Esto documenta recoge las convenciones idiomáticas en el código Go que seguimos en Uber. Muchas de estas son pautas generales para Go, mientras que otras se extienden a recursos externos.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## [Convierta la sintaxis de curl a Python, Ansible URI, Node.js, R, PHP, Strest, Go, Dart, JSON, Rust](https://curl.trillworks.com/#){:target="_blank" rel="nofollow,noreferrer"}
 
 [![img](https://i.ibb.co/RySSp4Z/image.png)](https://i.ibb.co/RySSp4Z/image.png "Convertidor de la sintaxis de curl a varios lenguajes de programación en su código de destino")
@@ -63,6 +89,19 @@ A través de un commit de Github nos muestran, como definitivamente, el lenguaje
 
 Casi hace un año, ya se hablaba sobre esto. De hecho, ya [existían documentos](https://marketing.perl6.org/id/1541379592/pdf_digital){:target="_blank" rel="nofollow,noreferrer"} donde aparecen juntos ambos denominaciones, como bien quedo registrado [a través de Reddit](https://www.reddit.com/r/perl/comments/9u9ywm/announce_raku_perl_6_diwali_6d_language/){:target="_blank" rel="nofollow,noreferrer"} hace 11 meses. Más, parece que ahora se realiza el cambio definitivamente a Raku.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## [Nueva Versión del Reconocido Hiren´s Boot](https://www.hirensbootcd.org/){:target="_blank" rel="nofollow,noreferrer"}
 
 [![img](https://i.ibb.co/bHw4Z6h/image.png)](https://i.ibb.co/bHw4Z6h/image.png "Página web oficial de Hirens Boot CD PE")
@@ -74,6 +113,19 @@ Basado en el [entorno de preinstalación de Windows o Windows PE](/wiki/windows-
 [![img](https://i.ibb.co/F5QSTqq/Sand-Dance-opiate1-dropped-5d9f5897070e7.png)](https://i.ibb.co/F5QSTqq/Sand-Dance-opiate1-dropped-5d9f5897070e7.png "Microsoft Open Source Sandance Herramienta de Exploración de Datos Visuales")
 
 SandDance, la querida herramienta de visualización de datos de Microsoft Research, ha sido relanzada como un proyecto de [código abierto en GitHub](https://github.com/Microsoft/SandDance#sanddance){:target="_blank" rel="nofollow,noreferrer"}. Esta nueva versión de SandDance ha sido reescrita desde cero como un componente integrable que funciona con cadenas de herramientas JavaScript modernas.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## [BodyPix - Segmentación de personas en el navegador](https://github.com/tensorflow/tfjs-models/tree/master/body-pix#bodypix---person-segmentation-in-the-browser "Segmentación de personas desde tu propio navegador a través de la Inteligencia Artificial"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -96,3 +148,16 @@ Complementación al artículo de la noticia de NetBlocks. [Internet, interrumpid
 [![img](https://i.ibb.co/KVWrh60/0-Mw2-Lc-LV8y1-x-IMe4.png)](https://i.ibb.co/KVWrh60/0-Mw2-Lc-LV8y1-x-IMe4.png "Los archivos de la computadora se están extinguiendo")
 
 Un pensamiento y una mirada diferente hacía los archivos de las computadoras.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

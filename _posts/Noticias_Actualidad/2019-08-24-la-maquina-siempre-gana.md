@@ -32,6 +32,17 @@ A continuación cito algunos de los extractos que me han parecido más destacabl
 
 > "El problema es que el conocimiento generalizado de los peligros de la adicción no impide que ocurra; del mismo modo; sabemos, que si las plataformas de redes sociales nos vuelven adictos, están funcionando bien. Cuanto más destruyen nuestras vidas, mejor funcionan."
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 > "Las plataformas como las máquinas de juegos, son expertas en disfrazar las pérdidas como ganancias. Si el hábito amenaza con aplastarnos, podemos fantasear con que un día una gran victoria nos salvará."
 
 > "Las plataformas nos tratan mal y nos mantienen interesados"
@@ -47,3 +58,16 @@ A continuación cito algunos de los extractos que me han parecido más destacabl
 > "Nos bombardean con estímulos, aprendiendo de nuestras respuestas.."
 
 Espero que lean el artículo completo, ¡Y nunca dejen de reflexionar!
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

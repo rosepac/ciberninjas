@@ -20,3 +20,16 @@ link: https://www.vpnmentor.com/blog/report-biostar2-leak
 "Dirigidos por los investigadores de privacidad de Internet Noam Rotem y Ran Locar, el equipo de vpnMentor descubrió recientemente una gran violación de datos en la plataforma de seguridad BioStar 2.."
 
 > Fuente: [The Guardian](https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
