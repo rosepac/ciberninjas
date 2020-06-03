@@ -38,23 +38,14 @@ Y hay otro roce. Puede instalar tantas extensiones que puede detener el navegado
 
 Así que me planteé un desafío: una lista corta de las siete extensiones imprescindibles.
 
-Aquí está la lista que se me ocurrió.
-
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/chrome-extensiones-1-2020/#1-spring"></a></li>
-    <li><a href="/chrome-extensiones-1-2020/"></a></li>
-    <li><a href="/chrome-extensiones-1-2020/"></a></li>
-    <li><a href="/chrome-extensiones-1-2020/"></a></li>
-    <li><a href="/chrome-extensiones-1-2020/"></a></li>
-    <li><a href="/chrome-extensiones-1-2020/"></a></li>
-    <li><a href="/chrome-extensiones-1-2020/"></a></li>
-  </ol>
-</nav>
-</details>
-<br />
+Aquí está la lista que se me ocurrió:
+- [1. **Tab Wranger**](#1-tab-wranger)
+- [2. **The Great Suspender**](#2-the-great-suspender)
+- [3. **FoxClocks**](#3-foxclocks)
+- [4. **LastPass**](#4-lastpass)
+- [5. **Nimbus Note**](#5-nimbus-note)
+- [6. **Ghostery**](#6-ghostery)
+- [7. **Adblock Plus**](#7-adblock-plus)
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
 {: .notice--danger}
@@ -140,9 +131,7 @@ Nimbus es la extensión del futuro, que más tarde o temprano va a lograr sustit
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Conclusión
-
-### Relacionados
+### Relacionados <!-- omit in toc -->
 
 [👨‍🔧 5 formas de restaurar las ventanas de Windows](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/)
 
