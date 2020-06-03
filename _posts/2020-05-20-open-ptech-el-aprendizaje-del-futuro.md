@@ -36,6 +36,19 @@ La escuela está centrada en la formación de postsecundaria (desde la finalizac
 
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
@@ -55,6 +68,19 @@ En octubre de 2013, el presidente Barack Obama visitó la escuela secundaria de 
 
 En enero de 2015, gracias a la asociación de Google y Paramount Pictures, así como con la asistencia de Bruce Gordon y Tawana Tibbs: P-TECH High School se convirtió en la única escuela de Estados Unidos en recibir una proyección gratuita y privada de la película SELMA.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Qué es la Plataforma Online P-Tech?**
 
 Habiendo leído lo anterior, podemos hacernos una pequeña idea como para enfocar la idea de la escuela Online creada por IBM, junto a otras organizaciones dedicadas al STEM y denominada P-Tech.
@@ -68,6 +94,19 @@ IBM ha realizado un esfuerzo para poder ofrecer contenido en español, portugué
 Puedes registrarte dentro de P-Tech partiendo de una cuenta de Google, Linkedin o una ID perteneciente a una cuenta de IBM. Desde [el enlace](https://kutt.it/ptech-registro){:target="_blank"} podrás tener acceso a tu perfil personal y a las diferentes formaciones que existentes.
 
 [🔓 REGISTRO EN LA PLATAFORMA DE APRENDIZAJE DE IBM](https://kutt.it/ptech-registro){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Cómo acceder a P-Tech Online?
 
@@ -89,6 +128,19 @@ Los cursos lanzados en español no son muy numerosos, pero también; podrás acc
 
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Qué carrera o trabajo de futuro elegir?**
 
@@ -113,6 +165,19 @@ Las actividades incluidas dentro de esta sección, son las siguientes:
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Cuál es el Curriculum de Inteligencia Artificial?**
 
 ¿Crees que los robots van a tomar el control del mundo? En esta sección incluye una introducción al mundo de la inteligencia artificial, conocido como IA. Con actividades que describen desde los elementos fundacionales de la tecnología hasta las implicaciones éticas del desarrollo de IA, esta sección es una gran introducción a una de las tecnologías más controvertidas del futuro.
@@ -135,6 +200,19 @@ Al final del mismo, estarás galardonado con la insignia que demuestra que compr
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Cuál es el Curriculum de Blockchain?**
 
 Blockchain es la base de las criptomonedas y también se utiliza en otros sectores de negocios, como la supervisión de la cadena de suministros o el procesamiento de pagos. Aprovecha la oportunidad para saber más sobre esta tecnología innovadora y sobre cómo se utiliza.
@@ -154,6 +232,19 @@ Este galardonado con la insignia ha desarrollado una comprensión de los princip
 [🏆 Reclamar Badge de Blockchain](https://kutt.it/badge-blockchain){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Cuál es el Curriculum de Ciberseguridad?**
 
@@ -177,6 +268,19 @@ La insignia siguiente demuestra una comprensión fundamental de los conceptos, o
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Cuál es el Curriculum de Ciencia de Datos?**
 
 **¿Sabías que los datos pueden contar una historia?** Los datos son omnipresentes y cada día creamos más. Cada vez que consultamos el correo electrónico, buscamos algo en línea o utilizamos una aplicación en el teléfono, estamos creando datos. Ginni Rometty, de IBM, ha ido más lejos y ha dicho que “el Big Data es el recurso natural del mundo en el próximo siglo”. ¿Qué hacemos con todos estos datos? En este canal, aprenderá qué es la ciencia de datos y cómo se utiliza en distintos sectores como la música y la televisión en streaming. Consulte este canal para obtener más contexto sobre qué significa ser un experto en datos.
@@ -196,6 +300,19 @@ Al final del mismo, estarás galardonado con la insignia que demuestra que compr
 [🏆 Reclamar Badge de Ciencia de Datos](https://kutt.it/badge-ciencia-datos){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Cuál es el Curriculum del Pensamiento de Diseño?**
 
@@ -218,6 +335,19 @@ El ganador ha adquirido conocimiento sobre la aplicación de Enterprise Design T
 [🏆 Reclamar Badge de Pensamiento de Diseño](https://kutt.it/badge-pensamiento-diseno){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Cuál es el Curriculum de habilidades profesionales?**
 
@@ -244,33 +374,59 @@ La insignia de "Trabajando en un mundo digital: habilidades profesionales" demue
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 #### Índice <!-- omit in toc -->
-- [**Qué es P-Tech?**](#qu%c3%a9-es-p-tech)
-  - [Qué trabajo realiza la escuela P-Tech?](#qu%c3%a9-trabajo-realiza-la-escuela-p-tech)
+- [**Qué es P-Tech?**](#qué-es-p-tech)
+  - [Qué trabajo realiza la escuela P-Tech?](#qué-trabajo-realiza-la-escuela-p-tech)
   - [Momentos destacados dentro de la historia de P-Tech](#momentos-destacados-dentro-de-la-historia-de-p-tech)
-- [**Qué es la Plataforma Online P-Tech?**](#qu%c3%a9-es-la-plataforma-online-p-tech)
-  - [Cómo puedo registrarme en P-Tech Online?](#c%c3%b3mo-puedo-registrarme-en-p-tech-online)
-  - [Cómo acceder a P-Tech Online?](#c%c3%b3mo-acceder-a-p-tech-online)
-- [**Qué contenido nos ofrece IBM desde P-Tech Online?**](#qu%c3%a9-contenido-nos-ofrece-ibm-desde-p-tech-online)
-- [**Qué carrera o trabajo de futuro elegir?**](#qu%c3%a9-carrera-o-trabajo-de-futuro-elegir)
-- [**Cuál es el Curriculum de Inteligencia Artificial?**](#cu%c3%a1l-es-el-curriculum-de-inteligencia-artificial)
-  - [Qué te van a enseñar sobre la Inteligencia Artificial?](#qu%c3%a9-te-van-a-ense%c3%b1ar-sobre-la-inteligencia-artificial)
-  - [Qué insignia de Inteligencia Artificial te corresponderá?](#qu%c3%a9-insignia-de-inteligencia-artificial-te-corresponder%c3%a1)
-- [**Cuál es el Curriculum de Blockchain?**](#cu%c3%a1l-es-el-curriculum-de-blockchain)
-  - [Qué te van a enseñar sobre el Blockchain?](#qu%c3%a9-te-van-a-ense%c3%b1ar-sobre-el-blockchain)
-  - [Qué insignia de Blockchain te corresponderá?](#qu%c3%a9-insignia-de-blockchain-te-corresponder%c3%a1)
-- [**Cuál es el Curriculum de Ciberseguridad?**](#cu%c3%a1l-es-el-curriculum-de-ciberseguridad)
-  - [Qué te van a enseñar sobre Ciberseguridad?](#qu%c3%a9-te-van-a-ense%c3%b1ar-sobre-ciberseguridad)
-  - [Qué insignia de ciberseguridad te corresponderá?](#qu%c3%a9-insignia-de-ciberseguridad-te-corresponder%c3%a1)
-- [**Cuál es el Curriculum de Ciencia de Datos?**](#cu%c3%a1l-es-el-curriculum-de-ciencia-de-datos)
-  - [Qué te van a enseñar sobre la Ciencia de los Datos?](#qu%c3%a9-te-van-a-ense%c3%b1ar-sobre-la-ciencia-de-los-datos)
-  - [Qué insignia de ciencia de datos te corresponderá?](#qu%c3%a9-insignia-de-ciencia-de-datos-te-corresponder%c3%a1)
-- [**Cuál es el Curriculum del Pensamiento de Diseño?**](#cu%c3%a1l-es-el-curriculum-del-pensamiento-de-dise%c3%b1o)
-  - [Qué te van a enseñar sobre el Pensamiento de Diseño?](#qu%c3%a9-te-van-a-ense%c3%b1ar-sobre-el-pensamiento-de-dise%c3%b1o)
-  - [Qué insignia de pensamiento de diseño te corresponderá?](#qu%c3%a9-insignia-de-pensamiento-de-dise%c3%b1o-te-corresponder%c3%a1)
-- [**Cuál es el Curriculum de habilidades profesionales?**](#cu%c3%a1l-es-el-curriculum-de-habilidades-profesionales)
-  - [Qué te van a enseñar sobre habilidades profesionales?](#qu%c3%a9-te-van-a-ense%c3%b1ar-sobre-habilidades-profesionales)
-  - [Qué insignia de habilidades profesionales te corresponderá?](#qu%c3%a9-insignia-de-habilidades-profesionales-te-corresponder%c3%a1)
+- [**Qué es la Plataforma Online P-Tech?**](#qué-es-la-plataforma-online-p-tech)
+  - [Cómo puedo registrarme en P-Tech Online?](#cómo-puedo-registrarme-en-p-tech-online)
+  - [Cómo acceder a P-Tech Online?](#cómo-acceder-a-p-tech-online)
+- [**Qué contenido nos ofrece IBM desde P-Tech Online?**](#qué-contenido-nos-ofrece-ibm-desde-p-tech-online)
+- [**Qué carrera o trabajo de futuro elegir?**](#qué-carrera-o-trabajo-de-futuro-elegir)
+- [**Cuál es el Curriculum de Inteligencia Artificial?**](#cuál-es-el-curriculum-de-inteligencia-artificial)
+  - [Qué te van a enseñar sobre la Inteligencia Artificial?](#qué-te-van-a-enseñar-sobre-la-inteligencia-artificial)
+  - [Qué insignia de Inteligencia Artificial te corresponderá?](#qué-insignia-de-inteligencia-artificial-te-corresponderá)
+- [**Cuál es el Curriculum de Blockchain?**](#cuál-es-el-curriculum-de-blockchain)
+  - [Qué te van a enseñar sobre el Blockchain?](#qué-te-van-a-enseñar-sobre-el-blockchain)
+  - [Qué insignia de Blockchain te corresponderá?](#qué-insignia-de-blockchain-te-corresponderá)
+- [**Cuál es el Curriculum de Ciberseguridad?**](#cuál-es-el-curriculum-de-ciberseguridad)
+  - [Qué te van a enseñar sobre Ciberseguridad?](#qué-te-van-a-enseñar-sobre-ciberseguridad)
+  - [Qué insignia de ciberseguridad te corresponderá?](#qué-insignia-de-ciberseguridad-te-corresponderá)
+- [**Cuál es el Curriculum de Ciencia de Datos?**](#cuál-es-el-curriculum-de-ciencia-de-datos)
+  - [Qué te van a enseñar sobre la Ciencia de los Datos?](#qué-te-van-a-enseñar-sobre-la-ciencia-de-los-datos)
+  - [Qué insignia de ciencia de datos te corresponderá?](#qué-insignia-de-ciencia-de-datos-te-corresponderá)
+- [**Cuál es el Curriculum del Pensamiento de Diseño?**](#cuál-es-el-curriculum-del-pensamiento-de-diseño)
+  - [Qué te van a enseñar sobre el Pensamiento de Diseño?](#qué-te-van-a-enseñar-sobre-el-pensamiento-de-diseño)
+  - [Qué insignia de pensamiento de diseño te corresponderá?](#qué-insignia-de-pensamiento-de-diseño-te-corresponderá)
+- [**Cuál es el Curriculum de habilidades profesionales?**](#cuál-es-el-curriculum-de-habilidades-profesionales)
+  - [Qué te van a enseñar sobre habilidades profesionales?](#qué-te-van-a-enseñar-sobre-habilidades-profesionales)
+  - [Qué insignia de habilidades profesionales te corresponderá?](#qué-insignia-de-habilidades-profesionales-te-corresponderá)
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

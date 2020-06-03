@@ -51,6 +51,18 @@ Javalin ofrece una serie de muy interesantes características, que son las sigui
 - **Integración OpenAPI**: Muchos frameworks web ligeros de Java y Kotlin no son compatibles con OpenAPI, pero Javalin tiene una integración completa, que incluye Swagger UI y redoc para mostrar los documentos generados. Obtenga más información en la página dedicada del [complemento OpenAPI](https://javalin.io/plugins/openapi){:target="_blank" rel="nofollow noreferrer"}.
 
 [▶ Web Oficial de Javalin](https://javalin.io){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
@@ -209,6 +221,17 @@ Javalin también tiene una página dedicada exclusivamente a los educadores, don
 Hay una serie de tutoriales disponibles, como [Running on GraalVM](https://javalin.io/2018/09/27/javalin-graalvm-example.html){:target="_blank" rel="nofollow noreferrer"} y [Kotlin CRUD REST API](https://javalin.io/tutorials/simple-kotlin-example){:target="_blank" rel="nofollow noreferrer"}. La lista completa se puede encontrar en [la página de tutoriales](https://javalin.io/tutorials/){:target="_blank" rel="nofollow noreferrer"}.
 
 Puede encontrar más detalles sobre Javalin en [la página de documentación](https://javalin.io/documentation){:target="_blank" rel="nofollow noreferrer"}. Los usuarios pueden descargar Javalin a través de Maven o manualmente desde [la Central de Maven](https://repo1.maven.org/maven2/io/javalin/javalin/){:target="_blank" rel="nofollow noreferrer"}.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
