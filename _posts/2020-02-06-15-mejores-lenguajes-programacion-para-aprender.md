@@ -41,6 +41,17 @@ Una de las habilidades más importantes para aprender en el mundo de hoy en día
 
 Además, con los ordenadores, la organización de todas las empresas, organizaciones y estructuras de información del mundo se han renovado. Lejos, se quedan ya los días de la pluma y el papel. Hoy, para almacenar, gestionar, acceder y comprobar la información se necesitan a los sistemas informáticos.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Las comunidades de programadores y desarrolladores están surgiendo y creciendo a un ritmo extraordinariamente sorprendente, más rápido de lo que nunca antes habían crecido; por ello. Han ido surgiendo numerosos lenguajes de programación nuevos que son adecuados para diferentes categorías de desarrolladores (principiantes, intermedios y expertos), así como para diferentes casos de uso (aplicación web, aplicaciones móviles, desarrollo de juegos, sistemas distribuidos, etc.).
 
 Ante todo esto, los principiantes suelen estar desconcertados con la pregunta de "¿Qué lenguaje de programación debo aprender?" Echemos un vistazo a los mejores lenguajes de programación para aprender en 2020 si quieren aumentar sus perspectivas futuras o simplemente aumentar sus conocimientos.
@@ -81,6 +92,17 @@ Ante todo esto, los principiantes suelen estar desconcertados con la pregunta de
 
 [⏩ Página Web de Python](https://www.python.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [🎓 Aprender Python](/python/){: .btn .btn--inverse .btn--large .align-center}  [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### ***Libros para Aprender Python**
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
@@ -113,6 +135,17 @@ Java es otra opción popular entre las grandes organizaciones y lo ha sido duran
 * Más lento que los lenguajes de programación compilados de forma nativa, como C y C ++.
 
 [⏩ Página Web de Java](https://docs.oracle.com/javase/tutorial/java/index.html){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### ***Libros para Aprender Java**
 
@@ -158,6 +191,17 @@ C y C++ son como el pan y la mantequilla de la programación. Casi todos los sis
 
 [⏩ Página Web de C++](https://isocpp.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Javascript
 
 ![Javascript logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/javascript-logotipo_1280x720.webp "Javascript logotipo del lenguaje de programación")
@@ -196,6 +240,17 @@ No existe una web oficial de Javascript, por ende adjuntaremos la web de ECMAScr
 
 [⏩ Estándar de Javascript: ECMAScript](https://www.ecma-international.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### ***Libros para Aprender Javascript**
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331101370410048" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331101370410048" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331101370410048">Martes, 3 de marzo de 2020</a></blockquote></div>
@@ -212,6 +267,17 @@ Existen [muchos más](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines),
 [⏩ Web de SpiderMonkey: Motor Javascript de Mozilla](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Web de JavascriptCore: Motor Javascript de Apple](https://developer.apple.com/documentation/javascriptcore){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [⏩ Web de Hermes: Motor Javascript de Facebook](https://hermesengine.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Go
 
@@ -241,6 +307,17 @@ No hay biblioteca GUI
 Soporte de biblioteca desfavorecida
 
 [⏩ Página Web de Go](https://golang.org/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## R
 
@@ -298,6 +375,17 @@ Algo inestable debido a una llegada relativamente nueva a la escena de la progra
 No hay soporte para proyectos heredados; solo se puede usar para iOS7 o aplicaciones posteriores
 
 [⏩ Página Web de Swift](https://developer.apple.com/swift/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## PHP
 
@@ -359,6 +447,17 @@ Resolver errores requiere una gran experiencia y conocimiento.
 
 [⏩ Página Web de C#](https://docs.microsoft.com/es-es/dotnet/csharp/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Matlab
 
 ![Matlab logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/matlab-logotipo-oficial.webp "Matlab logotipo del lenguaje de programación")
@@ -415,6 +514,17 @@ Dart es un lenguaje de herencia única orientado a objetos, fuertemente tipado, 
 
 [⏩ Página Web de Dart](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Ruby
 
 ![Ruby logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/ruby--logotipo-oficial.webp "Ruby logotipo del lenguaje de programación")
@@ -466,6 +576,17 @@ Lo primero que debe saber sobre Haskell es que es un lenguaje funcional. Las fun
 * Carece de implementación generalizada.
 
 [⏩ Página Web de Haskell](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Rust
 
@@ -519,7 +640,19 @@ OCaml es esencialmente un lenguaje de programación funcional. Sin ofender a FP,
 * Un sistema de tipos que no es intuitivo.
 
 [⏩ Página Web de Ocaml](https://dart.dev/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"} [⏫ Regresar al Inicio](/15-mejores-lenguajes-programacion/#los-15-mejores-lenguajes){: .btn .btn--inverse .btn--large .align-center}
+
 <!-- Agregar lua -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Resumiendo
 
 Python y JavaScript están de moda, sobre todo dentro del mundo de las Startups. Muchas startups usan Django (Python), Flask (Python) y NodeJS (JavaScript) como sus frameworks de back-end. Python y JavaScript son fáciles de aprender y, por lo tanto, se consideran los mejores lenguajes de programación para principiantes. Además, ambos también ofrecen una gran oportunidad de mercado. Por lo tanto, aquellos que buscan un cambio de trabajo también pueden considerar aprenderlos.
