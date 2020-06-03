@@ -1,12 +1,13 @@
 ---
 
-author_profile: false
+author_profile: true
 comments: false
 classes: wide
-layout: splash
+# layout: splash
 tags:
 - Ranking
 - Rust
+- Tiobe
 categories:
 - Lenguajes de Programación
 header:
