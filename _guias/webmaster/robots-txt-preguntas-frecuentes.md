@@ -90,6 +90,19 @@ Esta es una lista con preguntas frecuentes sobre **acerca de los robots web de l
 🔥 Seguro también te interesa: [guía de robots.txt](/robots-txt/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### Acerca de los robots WWW
 
 ## **¿Qué es un robot WWW?**
@@ -118,6 +131,19 @@ Son programas que ayudan a los usuarios con cosas, como elegir un producto, o gu
 Es un nombre técnico para programas que realizan tareas de red para un usuario, como agentes de usuario web como Netscape Navigator y Microsoft Internet Explorer, y agente de usuario de correo electrónico como Qualcomm Eudora, etc.
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué es un buscador?**
 
@@ -154,6 +180,19 @@ Esto solo son nombres para el mismo tipo de cosas, con connotaciones ligeramente
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **¿Son los robots malos para la web?**
 
 Hay algunas razones por las cuales las personas creen que los robots son malos para la Web:
@@ -179,7 +218,18 @@ Sí, existen algunos; lo más complicado es encontrarlos en español.
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Dónde puedo encontrar más información sobre robots?**
 
@@ -215,6 +265,19 @@ Esto depende de la compaía creadora de cada buscador. Muchos servicios tienen u
 - [Yahoo](https://kutt.it/webmaster-yahoo "Herramientas de Webmaster Gratuitas ofrecidas por el buscador Yahoo")
 - [Duck Duck Go](https://kutt.it/duckduckgo-subir-pagina "Herramientas de Webmaster Gratuitas ofrecidas por el buscador Duck Duck Go")
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **¿Cómo obtengo un mejor posicionamiento en los motores de búsqueda?**
 
 Esto se conoce como "SEO" o Optimización de motores de búsqueda. Existen muchos sitios web, foros y empresas que tienen como objetivo / afirman ayudar con eso.
@@ -233,8 +296,6 @@ Ver también:
 - [Consola de Buscadores / Search Console: Primeros Pasos](https://kutt.it/search-console-primeros-pasos)
 - [Blog para Webmasters](https://kutt.it/webmaster-blog-google-rastreo-indexacion) por Google, noticias sobre indexación y rastreo de páginas web a través del buscador Google
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
-
 ### **Para administradores de servidores**
 
 ## **¿Cómo sé si me ha visitado un robot?**
@@ -249,6 +310,19 @@ Finalmente, si observa que un sitio busca repetidamente el archivo '/robots.txt'
 
 Si cree que ha descubierto un nuevo robot (es decir, uno que no figura en la lista de robots activos y que hace más que visitas esporádicas, envíeme un mensaje para que pueda anotarlo para futuras referencias. Pero no lo haga ¡No me cuentes sobre todos los robots que pasan!
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **¡Un robot rastrea mi sitio demasiado habitualmente!**
 
 Esto se llama "rastreo rápido" y las personas generalmente lo notan si están monitoreando o analizando un archivo de registro de acceso.
@@ -257,10 +331,33 @@ En primer lugar, compruebe si es un problema comprobando la carga de su servidor
 
 Sin embargo, puede tener problemas si tiene un sitio de bajo rendimiento, como su propia PC de escritorio o Mac en la que está trabajando, o ejecuta un software de servidor de bajo rendimiento, o si tiene muchas recuperaciones largas (como scripts CGI o documentos grandes ) Estos problemas se manifiestan en conexiones rechazadas, una alta carga, ralentizaciones del rendimiento o, en casos extremos, un bloqueo del sistema.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Si esto sucede, hay algunas cosas que debe hacer. Lo más importante, comience a registrar información: cuándo se dio cuenta, qué sucedió, qué dicen sus registros, qué está haciendo en respuesta, etc. Esto ayuda a investigar el problema más adelante. En segundo lugar, intente averiguar de dónde vino el robot, qué direcciones IP o dominios DNS, y vea si se mencionan en la lista de robots activos . Si puede identificar un sitio de esta manera, puede enviar un correo electrónico a la persona responsable y preguntarle qué pasa. Si esto no ayuda, pruebe su propio sitio para obtener números de teléfono o envíe un correo al administrador de correo en su dominio.
 
 Si el robot no está en la lista, envíeme un correo electrónico con toda la información que ha recopilado, incluidas las acciones de su parte. Si no puedo ayudar, al menos puedo anotarlo para otros.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- ### ¿Cómo mantengo un robot fuera de mi servidor? -->
 ### **Normas de exclusión de robots**
 
@@ -284,6 +381,19 @@ Esto solo se cumplirá con robots con buen comportamiento.
 Ver también:
 
 - [¿Puedo bloquear solo robots malos?](/robots-txt-preguntas-frecuentes/#se-puede-bloquear-solo-a-los-robots-malos)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Dónde descubro cómo funcionan los archivos /robots.txt?**
 
@@ -320,6 +430,19 @@ No debe colocar más de una ruta en una línea Disallow (esto puede cambiar en u
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **¿Qué programa debo usar para crear /robots.txt?**
 
 con cualquier **editor de texto** de los que puedes encontrar en [nuestra guía](/mejores-editores-texto/) o software que produzca un archivo simple de texto, te será suficiente.
@@ -349,6 +472,19 @@ Si comparte un host con otras personas y tiene una URL como: http://www.ejemplo.
 Si desea más control, cambie de proveedor a un host virtual.
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué pasa si no puedo crear un archivo robots.txt?**
 
@@ -380,6 +516,19 @@ Si las copias del robot funcionan en muchas direcciones IP diferentes, como las 
 Podría ser que estuviese escrito por un redactor / desarrollador de software sin experiencia. Ocasionalmente, se asigna a personas inexpertas la tarea de "escribir un robot web". Más, es más probable que el robot esté escrito explícitamente para escanear su sitio en busca de información con la que realizar spam posteriormente: podría estar recopilando direcciones de correo electrónico para enviar correo no deseado, buscar formularios para publicar enlaces ["spamdexing"](/glosario/spamdexing/) o buscando agujeros de seguridad que explotar.
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Se puede usar un documento /robots.txt ante un juicio?**
 
@@ -433,7 +582,18 @@ La verdadera respuesta es que /robots.txt no está diseñado para el control de 
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Acerca de las etiquetas META**
 
@@ -465,6 +625,19 @@ Si por lo contrario, te refieres a un archivo [robots.txt](/robots.txt)
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **¿Dónde puedo obtener el código fuente de un robot?**
 
 Existen múltiples formas de implementar un software similar al de un buscador a través de compilar código o implementar diferentes librerías; en el artículo de los [motores de búsqueda de código abierto](/los-mejores-motores-busqueda-codigo-abierto) vas a tener la oportunidad de conocer más sobre cómo hacerlo y sobre todo algunas diferentes opciones.
@@ -487,5 +660,15 @@ Este documento especifica un Localizador Uniforme de Recursos (URL), la sintaxis
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
-<!-- He escrito un robot, ¿Cómo lo enumero? -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

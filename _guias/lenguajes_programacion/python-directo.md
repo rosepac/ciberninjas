@@ -22,6 +22,19 @@ permalink: /python-directo/
 
 <a class="twitter-timeline" data-lang="es" data-theme="light" href="https://twitter.com/ciberninjas/lists/python-relacionado1?ref_src=twsrc%5Etfw">A Twitter List by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 [🐍 Aprender Python 🐍](/python/){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Recursos Python 🐍](/python-recursos/){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}

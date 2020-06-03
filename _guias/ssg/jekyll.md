@@ -30,6 +30,20 @@ Espero que estos enlaces puedan ser de ayuda y ojalá; lleguen a suplir aunque s
 
 > **¡A la almendrilla!**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 [CMS para Jekyll](/jekyll/#cms-para-jekyll){: .btn .btn--inverse .btn--large} [Montaje y Pruebas](/jekyll/#montaje-y-pruebas){: .btn .btn--inverse .btn--large} [SEO de Jekyll](/jekyll/#seo){: .btn .btn--inverse .btn--large} [Plugins de Jekyll](/jekyll/#plugins-de-importaci%c3%b3n){: .btn .btn--inverse .btn--large} [Enlaces Externos de Jekyll](/jekyll/#enlaces-externos){: .btn .btn--inverse .btn--large} [Minimal Mistakes](/jekyll/#plantilla-de-minimal-mistakes){: .btn .btn--inverse .btn--large} [Popurrí de Enlaces](/jekyll/#enlaces-por-investigar-y-por-organizar){: .btn .btn--inverse .btn--large}
 
 [🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
@@ -66,6 +80,19 @@ Otro por menor, que te va a surgir a la hora de su utilización; es que deberas 
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Montaje y Pruebas
 
@@ -106,6 +133,19 @@ POR INVESTIGAR
 * [¿Qué es Liquid?](https://shopify.github.io/liquid "Lenguaje generador de plantillas; seguro y orientado al cliente para aplicaciones web flexibles."){:target="_blank" rel="nofollow,noreferrer"}
 * [Versión de Liquid, usada por Github Pages](https://www.rubydoc.info/gems/liquid/2.2.2/Liquid/StandardFilters "Versión 2.2 la que utilizan desde Github Páginas en la actualidad"){:target="_blank" rel="nofollow,noreferrer"}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### Plugins de Jekyll
 
 Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir añadiéndole diferentes acciones o pedazos de código que vayan ejecutando diferentes opciones.
@@ -130,6 +170,19 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## Plantilla de Minimal Mistakes
 
 Vamos a ver paso a paso, algunas de las pautas más importantes sobre como podemos realizar nuestras publicaciones comodamente en está, una de las plantillas más reconocidas usadas de Jekyll.
@@ -148,6 +201,19 @@ Seguir el siguiente ejemplo, con el uso de >
 ### Actualizar la Fecha de Publicación
 
 Agregar en la cabecera YAML `last_modified_at: 2016-03-09T16:20:02-05:00`
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Agregar Cajas de Avisos o Notas Informativas
 
@@ -192,6 +258,19 @@ Se puede cambiar absolutamente todo dentro de la plantilla, siempre y cuando la 
 
 Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar pequeños cambios dentro de la plantilla Minimal Mistakes instalada sobre las páginas de Github.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### Cómo cambiar la fuente tipográfica
 
 1. Cargar el enlace de las fuentes de Google, a través de la carpeta *includes* en el fichero `_includes/head/custom.html`.
@@ -229,6 +308,19 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
 * [Ordenar Páginas en Jekyll](https://stackoverflow.com/questions/41087699/jekyll-how-to-change-the-default-ordering-of-collections){:target="_blank" rel="nofollow,noreferrer"}
 * [Crear listado con las publicaciones de una categoría .yml](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category){:target="_blank" rel="nofollow,noreferrer"}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 #### Índice <!-- omit in toc -->
 - [CMS para Jekyll](#cms-para-jekyll)
   - [Prose.io](#proseio)
@@ -236,10 +328,10 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
   - [CloudCannon](#cloudcannon)
 - [Montaje y Pruebas](#montaje-y-pruebas)
 - [SEO](#seo)
-- [Plugins de Importación](#plugins-de-importaci%c3%b3n)
+- [Plugins de Importación](#plugins-de-importación)
 - [Enlaces Externos](#enlaces-externos)
   - [Enlaces de Chuletas](#enlaces-de-chuletas)
-  - [Comercio Electrónico](#comercio-electr%c3%b3nico)
+  - [Comercio Electrónico](#comercio-electrónico)
   - [Lenguaje de Uso: Liquid](#lenguaje-de-uso-liquid)
   - [Plugins de Jekyll](#plugins-de-jekyll)
   - [Temas de Jekyll](#temas-de-jekyll)
@@ -247,11 +339,11 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
 - [Plantilla de Minimal Mistakes](#plantilla-de-minimal-mistakes)
   - [Publicar un Enlace](#publicar-un-enlace)
   - [Publicar una Cita](#publicar-una-cita)
-  - [Actualizar la Fecha de Publicación](#actualizar-la-fecha-de-publicaci%c3%b3n)
+  - [Actualizar la Fecha de Publicación](#actualizar-la-fecha-de-publicación)
   - [Agregar Cajas de Avisos o Notas Informativas](#agregar-cajas-de-avisos-o-notas-informativas)
   - [Agregar Etiqueta: more](#agregar-etiqueta-more)
-  - [Configuración de la Plantilla Minimal Mistakes](#configuraci%c3%b3n-de-la-plantilla-minimal-mistakes)
-  - [Cómo cambiar la fuente tipográfica](#c%c3%b3mo-cambiar-la-fuente-tipogr%c3%a1fica)
+  - [Configuración de la Plantilla Minimal Mistakes](#configuración-de-la-plantilla-minimal-mistakes)
+  - [Cómo cambiar la fuente tipográfica](#cómo-cambiar-la-fuente-tipográfica)
 - [Enlaces por Investigar y por Organizar](#enlaces-por-investigar-y-por-organizar)
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}

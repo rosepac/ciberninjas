@@ -24,10 +24,23 @@ header:
 
 Las búsquedas a través de los buscadores están en constante cambio, más siempre se puede aprender los conocimientos necesarios que hagan marcar la diferencia; de lo contrario, si todo esto te parecen cuentos chinos o tu tiempo es demasiado valioso como para dedicarte a ello; puedes contar conmigo.
 
-[Historia del SEO](/posicionamiento-web-seo/#la-historia-del-seo){: .btn .btn--inverse .btn--large} [Estructura Básica](/posicionamiento-web-seo/#la-estructura-básica-y-fundamental){: .btn .btn--inverse .btn--large} [Qué es y por qué es importante el SEO](/posicionamiento-web-seo/#qué-es-y-por-qué-es-importante-el-seo){: .btn .btn--inverse .btn--large} [Cuplir la intención del usuario](/posicionamiento-web-seo/#cumplir-la-intención-del-usuario){: .btn .btn--inverse .btn--large} [Sobre los motores de búsqueda](/posicionamiento-web-seo/#sobre-los-motores-de-búsqueda){: .btn .btn--inverse .btn--large} [Google Search Console](/posicionamiento-web-seo/#definiendo-parámetros-de-url-en-google-search-console){: .btn .btn--inverse .btn--large} [Consejos para tu negocio](/posicionamiento-web-seo/#consejos-importantes-para-posicionar-tu-negocio-local){: .btn .btn--inverse .btn--large} [análisis de Keywords Express](/posicionamiento-web-seo/#análisis-de-keywords-express){: .btn .btn--inverse .btn--large}
-
 🔥 Seguro también te interesa: [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+[Historia del SEO](/posicionamiento-web-seo/#la-historia-del-seo){: .btn .btn--inverse .btn--large} [Estructura Básica](/posicionamiento-web-seo/#la-estructura-básica-y-fundamental){: .btn .btn--inverse .btn--large} [Qué es y por qué es importante el SEO](/posicionamiento-web-seo/#qué-es-y-por-qué-es-importante-el-seo){: .btn .btn--inverse .btn--large} [Cuplir la intención del usuario](/posicionamiento-web-seo/#cumplir-la-intención-del-usuario){: .btn .btn--inverse .btn--large} [Sobre los motores de búsqueda](/posicionamiento-web-seo/#sobre-los-motores-de-búsqueda){: .btn .btn--inverse .btn--large} [Google Search Console](/posicionamiento-web-seo/#definiendo-parámetros-de-url-en-google-search-console){: .btn .btn--inverse .btn--large} [Consejos para tu negocio](/posicionamiento-web-seo/#consejos-importantes-para-posicionar-tu-negocio-local){: .btn .btn--inverse .btn--large} [análisis de Keywords Express](/posicionamiento-web-seo/#análisis-de-keywords-express){: .btn .btn--inverse .btn--large}
 
 ## La Historia del SEO
 
@@ -55,6 +68,19 @@ Los primeros motores de búsqueda, como Altavista e Infoseek, fueron ajustando s
 
 Al confiar tanto en factores como la densidad de palabras clave que estaban exclusivamente bajo el control de los creadores y webmaster, los primeros motores de búsqueda sufrieron un constante abuso y manipulación de sus ranking. 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Ante el deseo de ofrecer mejores resultados a sus usuarios, los motores de búsqueda tuvieron que adaptarse una y otra vez para garantizar que sus páginas de resultados mostraban realmente los resultados de búsqueda más relevantes, en lugar de páginas no relacionadas.
 
 Debieron pelear en búsqueda de una solución para que las páginas repletas de numerosas palabras clave generadas sin ningún tipo de escrúpulo por los webmasters dominaran las búsquedas.
@@ -81,6 +107,19 @@ En 2015, se ofreció que Google estaba desarrollando y promocionando la búsqued
 
 En 1998, dos estudiantes graduados de la Universidad de Stanford, Larry Page y Sergey Brin, desarrollaron "Backrub", un motor de búsqueda que se basó en un algoritmo matemático para calificar la importancia de las páginas web.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 El número calculado por el algoritmo, PageRank , es una función de la cantidad y la fuerza del enlace entrante . PageRank estima la probabilidad de que un usuario web acceda a una página de condición previa que navegue aleatoriamente por la web y siga los enlaces de una página a otra.
 
 En efecto, esto significa que algunos enlaces son más fuertes que otros, ya que es más probable que un internauta aleatorio llegue a una página de PageRank más alta.
@@ -88,6 +127,19 @@ En efecto, esto significa que algunos enlaces son más fuertes que otros, ya que
 Page y Brin fundaron Google en 1998. Google atrajo una lealtad posterior o como una declaración de. entre el creciente número de usuarios de Internet, a los que les gustó su diseño simple. Se consideraron los factores fuera de la página (a) como el PageRank y el análisis de hipervínculos, así como los factores en la página, como la frecuencia de palabras clave, metaetiquetas, encabezados, enlaces y clasificación de sitios para garantizar que Google evite recoger los datos de la manipulación que se ve en los motores de búsqueda que solo consideró los factores en la página para sus clasificaciones.
 
 Aunque el sistema PageRank era más difícil de jugar , los webmasters ya habían desarrollado herramientas y esquemas de creación de conexiones para influir en la compañía Inktomimotor de búsqueda, y estos métodos demostraron ser igualmente relevantes para el PageRank de juegos. muchos sitios se centraron en intercambiar, comprar y vender enlaces, a menudo a gran escala. Algunos de estos esquemas, o granja de enlaces , involucraban la determinación de miles de sitios con el único objetivo de Spamdexing .
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 En 2004, los motores de búsqueda habían incorporado una amplia gama de factores no revelados en sus algoritmos de clasificación para reducir el impacto de la manipulación de la conexión. En junio de 2007, Saul Hansell , del New York Times, declaró que Google clasifica los sitios que utilizan más de 200 señales diferentes.
 
@@ -103,6 +155,19 @@ Como efecto de este cambio, la propiedad de nofollow condujo a la evaporación d
 
 Además, se han sugerido varias soluciones que incluyen el uso de Iframe , animación Flash y Javascript.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 En diciembre de 2009, Google anunció que utilizaría el historial de búsqueda web de todos sus usuarios en el posicionamiento para completar los resultados de búsqueda.
 
 El 8 de junio de 2010, se anunció un nuevo sistema de indexación web que solicitó Google Caffeine, diseñado para permitir a los usuarios encontrar resultados de noticias, publicaciones en foros y otro contenido mucho antes de publicarlo que antes, la cafeína de Google fue una modificación a la forma en que Google actualizó su índice en diseño para hacer que las cosas se mostraran más rápido en Google que antes.
@@ -115,6 +180,19 @@ En febrero de 2011, Google anunció la actualización de Google Panda , que pena
 
 Históricamente, los sitios web han copiado contenido unos de otros y se han beneficiado en las clasificaciones de los motores de búsqueda al participar en esta práctica. Sin embargo, Google implementó un nuevo sistema que castiga a los sitios cuyo contenido no es único.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 El 2012 Penguin de Google intentó penalizar a los sitios web que usaban técnicas de manipulación para reclasificar sus clasificaciones en el motor de búsqueda.
 
 Aunque Google Penguin se ha presentado como un algoritmo destinado a combatir el spam web, realmente se centra en los enlaces de spam midiendo la calidad de los sitios de los que provienen los enlaces.
@@ -124,6 +202,19 @@ El colibrí de Google 2013La actualización incluyó una modificación de algori
 El sistema de procesamiento de lenguaje de Hummingbird se encuentra bajo el término recientemente reconocido de ' Búsqueda conversacional', donde el sistema presta más atención a cada palabra en la consulta para que las páginas coincidan mejor con el significado de la consulta en lugar de unas pocas palabras.
 
 Con respecto al giro dado a la optimización de motores de búsqueda, para editores y escritores de contenido, Hummingbird tiene la responsabilidad de resolver problemas eliminando el contenido irrelevante y el correo no deseado, lo que permite a Google producir contenido de alta calidad y confiar en que sean autores 'confiables'.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Métodos
 
@@ -136,6 +227,19 @@ El Yahoo! Directory y DMOZ , dos directorios principales que cerraron en 2014 y 
 Yahoo! operaba previamente un servicio de envío pagado que garantizaba el rastreo de un pago por clic ; Sin embargo, esta práctica se suspendió en 2009.
 
 Los rastreadores de motores de búsqueda web pueden observar varios factores diferentes cuando rastrean un sitio. No todas las páginas están indexadas por los motores de búsqueda. La distancia de las páginas desde el directorio raíz de un sitio también puede ser un elemento en si las páginas se rastrean o no.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Hoy, casi la gente está buscando en Google usando un dispositivo móvil. En noviembre de 2016, Google anunció una modificación importante en la forma de rastrear sitios web y comenzó a hacer que su índice sea el primero en dispositivos móviles, lo que significa que la relación móvil de su sitio web se convierte en el punto de partida de lo que Google incluye en su índice.
 
@@ -153,6 +257,19 @@ Escribir contenido que incluya frases de palabras clave buscadas con frecuencia,
 
 Actualizar el contenido para que los motores de búsqueda se rastreen con frecuencia puede dar un peso extra a un sitio.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Agregar palabras clave relevantes a los metadatos de una página web, incluida la etiqueta HEAD , tenderá a mejorar la relevancia de las listas de búsqueda de un sitio, aumentando así el tráfico. Canonicalización de URL de páginas web accesibles mediante URL combinadas, utilizando el elemento conectivo canónicoo mediante la redirección 301 puede ayudar a que ciertos enlaces a diferentes versiones de la URL cuenten para el puntaje de popularidad de asociación de la página.
 
 Las técnicas de SEO se pueden clasificar en dos grandes categorías: técnicas que los motores de búsqueda recomiendan como componentes del buen diseño de "sombrero blanco", y aquellas técnicas en las que los motores de búsqueda no aprueban el "sombrero negro". Los motores de búsqueda intentan minimizar el efecto de este último, entre ellos Spamdexing.
@@ -160,6 +277,19 @@ Las técnicas de SEO se pueden clasificar en dos grandes categorías: técnicas 
 Los comentaristas de la industria han clasificado estos métodos, y los profesionales que los emplean, como SEO de seguridad informática de sombrero blanco o SEO de piratería de sombrero negro . Los sombreros blancos tienden a producir resultados que duran mucho tiempo, mientras que los sombreros negros anticipan que sus sitios eventualmente pueden ser prohibidos temporal o permanentemente una vez que los motores de búsqueda descubran lo que están haciendo.
 
 Una técnica de SEO se considera un sombrero blanco si se ajusta a las pautas de los motores de búsqueda y no implica engaño. Como las directrices del motor de búsqueda no están escritas como una serie de reglas o mandamientos, esta es una distinción importante a tener en cuenta. White hat SEO no se trata solo de venir después o como resultado de directrices, pero se trata de garantizar que el contenido que indexa un motor de búsqueda y que posteriormente clasifica sea el mismo contenido que verá un usuario.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Sombrero blanco un cuerpo o proceso por el cual la energía o un componente particular ingresa a un sistema. se resume libremente como crear contenido para los usuarios, no para los motores de búsqueda, y luego crear ese contenido fácilmente accesible para los algoritmos de "araña" en línea, en lugar de intentar engañar al algoritmo desde su objetivo.
 
@@ -175,17 +305,60 @@ Dichas sanciones pueden aplicarse automáticamente mediante los algoritmos de lo
 
 Sin embargo, ambas compañías se disculparon rápidamente, arreglaron las páginas ofensivas y fueron restauradas a la página de resultados del motor de búsqueda de Google.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### ¿Cómo estrategia de marketing?
 
 El SEO no es una estrategia adecuada para todos los sitios web, y otras estrategias de marketing en Internet pueden ser más efectivas, como la publicidad paga a través de campañas de pago por clic , según los objetivos del operador del sitio. Marketing de motores de búsquedaes la práctica de diseñar, ejecutar y optimizar campañas de ofertas de motores de búsqueda. Su diferencia con el SEO se representa casi simplemente como la diferencia entre la clasificación de precedencia pagada y no pagada en los resultados de búsqueda. Su objetivo se refiere más a la prominencia que a la relevancia; Los desarrolladores de sitios web deben considerar a SEM con la mayor importancia teniendo en cuenta la visibilidad, ya que la mayoría navega a los listados principales de su búsqueda. Una campaña exitosa de marketing en Internet también puede depender de la creación de páginas web de alta calidad para atraer y persuadir, presentando análisis web a todos para permitir que los propietarios de los sitios obtengan resultados y mejore la tasa de conversión de un sitio . En noviembre de 2015, Googlelanzó al público una versión completa de 160 páginas de sus Pautas de calificación de calidad de búsqueda, que reveló un cambio en su enfoque hacia la "utilidad" y la búsqueda móvil . En los últimos años, el mercado móvil ha explotado, superando el uso de computadoras de escritorio, como lo mostró StatCounter en octubre de 2016, donde analizaron 2.5 millones de sitios web y descubrieron que el 51.3% de las páginas fueron cargadas por un dispositivo móvil. Google ha sido uno de los múltiples que está utilizando la popularidad del uso de dispositivos móviles al alentar a los sitios web a usar su Google Search Console , la Prueba móvil amigable , que permite a las empresas medir su sitio web según los resultados del motor de búsqueda y su facilidad de uso. es.
 
-SEO puede generar un adecuado retorno de la inversión . Sin embargo, a los motores de búsqueda no se les paga por el tráfico de búsqueda orgánica, sus algoritmos cambian y no hay garantías de referencias continuas. Debido a esta falta de garantías y certeza, una empresa que depende en gran medida del tráfico de los motores de búsqueda puede sufrir grandes pérdidas si los motores de búsqueda dejan de enviar visitantes. Los motores de búsqueda pueden cambiar sus algoritmos, afectando la ubicación de un sitio web, posiblemente resultando en una pérdida de tráfico grave. Según el CEO de Google, Eric Schmidt, en 2010, Google realizó más de 500 cambios de algoritmos, casi 1.5 por día. Se considera una práctica comercial inteligente que los operadores de sitios web se liberen de la dependencia del tráfico de los motores de búsqueda. Además de la accesibilidad en términos de rastreadores web mencionados anteriormente, el usuarioLa accesibilidad web se ha vuelto cada vez más importante para el SEO.
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+SEO puede generar un adecuado retorno de la inversión. Sin embargo, a los motores de búsqueda no se les paga por el tráfico de búsqueda orgánica, sus algoritmos cambian y no hay garantías de referencias continuas. Debido a esta falta de garantías y certeza, una empresa que depende en gran medida del tráfico de los motores de búsqueda puede sufrir grandes pérdidas si los motores de búsqueda dejan de enviar visitantes.
+
+Los motores de búsqueda pueden cambiar sus algoritmos, afectando la ubicación de un sitio web, posiblemente resultando en una pérdida de tráfico grave. Según el CEO de Google, Eric Schmidt, en 2010, Google realizó más de 500 cambios de algoritmos, casi 1.5 por día. Se considera una práctica comercial inteligente que los operadores de sitios web se liberen de la dependencia del tráfico de los motores de búsqueda. Además de la accesibilidad en términos de rastreadores web mencionados anteriormente, el usuarioLa accesibilidad web se ha vuelto cada vez más importante para el SEO.
 
 ### Mercados internacionales
 
-Las técnicas de optimización están muy adaptadas a los motores de búsqueda dominantes en el mercado cotizado. Las cuotas de mercado de los motores de búsqueda cambian de mercado a mercado, al igual que la competencia. En 2003, el tecnólogo Danny Sullivan declaró que Google representaba alrededor del 75% de todas las búsquedas. En los mercados fuera de los Estados Unidos, la participación de Google es a menudo mayor, y Google sigue siendo el motor de búsqueda dominante en todo el mundo a partir de 2007. A partir de 2006, Google tenía una cuota de mercado del 85-90% en Alemania. Si bien había cientos de empresas de SEO en los Estados Unidos en ese momento, solo había unas cinco en Alemania. A partir de junio de 2008, la participación de mercado de Google en el Reino Unido era cercana al 90% según Hitwise . Esa cuota de mercado se logra en varios países.
+Las técnicas de optimización están muy adaptadas a los motores de búsqueda dominantes en el mercado cotizado. Las cuotas de mercado de los motores de búsqueda cambian de mercado a mercado, al igual que la competencia. En 2003, el tecnólogo Danny Sullivan declaró que Google representaba alrededor del 75% de todas las búsquedas.
+
+En los mercados fuera de los Estados Unidos, la participación de Google es a menudo mayor, y Google sigue siendo el motor de búsqueda dominante en todo el mundo a partir de 2007. A partir de 2006, Google tenía una cuota de mercado del 85-90% en Alemania. Si bien había cientos de empresas de SEO en los Estados Unidos en ese momento, solo había unas cinco en Alemania. A partir de junio de 2008, la participación de mercado de Google en el Reino Unido era cercana al 90% según Hitwise . Esa cuota de mercado se logra en varios países.
 
 A partir de 2009, solo hay unos pocos mercados grandes donde Google no es el principal motor de búsqueda. En la mayoría de los casos, cuando Google no está liderando en un mercado de supuestos, este es el jugador más lento que un jugador local. Los mercados de ejemplo más notables son China, Japón, Corea del Sur, Rusia y la República Checa, donde respectivamente Baidu , Yahoo! Japón , Naver , Yandex y Seznam son líderes del mercado.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 La optimización de búsqueda exitosa para los mercados internacionales puede requerir una persona ocupada por teléfono o calificada en una profesión. Traducción de idiomas de páginas web, registro de un nombre de dominio con un dominio de nivel superior en el mercado objetivo y alojamiento web que proporciona una dirección IP local . De lo contrario, los elementos fundamentales de la optimización de búsqueda son esencialmente los mismos, independientemente del idioma.
 
@@ -195,7 +368,18 @@ El 17 de octubre de 2002, SearchKing presentó una demanda en el Tribunal de Dis
 
 En marzo de 2006, KinderStart presentó una demanda contra Google por el ranking de los motores de búsqueda. El sitio web de KinderStart fue eliminado del índice de Google antes de la demanda y la cantidad de tráfico al sitio se redujo en un 70%. El 16 de marzo de 2007, el Tribunal de Distrito de los Estados Unidos para el Distrito Norte de California , División de San José, California, desestimó la queja de KinderStart sin permiso para enmendar, y concedió parcialmente la moción de Google para las sanciones de las Reglas Federales de Procedimiento Civil contra el abogado de KinderStart, exigiéndole que pague el elemento de los gastos legales de Google.
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## La estructura básica y fundamental
 
@@ -215,6 +399,19 @@ En sexto lugar, y ya para finalizar; el apartado que se aproxima más a la progr
 
 > Si logramos todo esto, paso a paso, seremos unos auténticos CRACKs del SEO y alcanzaremos con nuestra web, el 1ª lugar (que es lo que intento hacer yo, con esta mega, hiper, super,ultra, artículo/guía/publicación sobre SEO.. Aunque sea difícil competir desde blogger contra Wordpress 😼)
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## ¿Qué es y por qué es importante el SEO?
 
 A continuación veamos los conceptos más básicos y algunas de las mejores prácticas en Google y Bing, a continuación.
@@ -223,14 +420,27 @@ A continuación veamos los conceptos más básicos y algunas de las mejores prá
 
 El significado del SEO es "optimización de los motores de búsqueda" y nace de las siglas de las palabras en inglés "Search Engine Optimization" el concepto en sí; se ha enfocado y ha pasado a utilizarse como denominación del conjunto de prácticas aplicados que generan un aumento del tráfico y la calidad de esté, sobre una aplicación o página web a través de resultados de búsquedas "orgánicas" también conocidas como búsquedas generadas de forma natural.
 
-
 > El SEO tiene que ver tanto con las personas como con los buscadores. 
 
 Un consultor SEO trata de conocer las respuestas y anticiparse a ofrecer las soluciones a base de tratar comprender lo que las personas buscan, de encontrar las palabras que pueden ser utilizadas en los motores de búsqueda, de pensar en las respuestas que el individuo necesita y del tipo de contenido que el usuario desea consumir.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Conocer la intención de la audiencia es una de las partes más importante del SEO, además de investigar como devolver de la forma más ágil, coherente y veloz posible los contenidos generados a través de las "arañas" que se encargan de organizar toda la materia de la gran red, de Internet.
 
 ### ¿Por qué el SEO es importante?
+
 Si bien es cierto que hoy en día, tanto las redes sociales como la publicidad de pago e incluso otras plataformas en línea (por ejemplo: chats, foros o plataformas de contenidos multimedia) son capaces de generar mucho tráfico web. La mayoría del tráfico en línea sigue estando dirigido por los motores de búsqueda.
 
 Los resultados de búsquedas orgánicas siguen siendo mucho más creíbles y confiables; también siguen recibiendo una mayor cantidad de Click´s que los resultados de anuncios pagados.
@@ -239,6 +449,19 @@ A largo plazo, el SEO pasa a ser el mejor medio de Marketing que existe; puesto 
 
 Los motores de búsqueda siguen necesitando nuestra ayuda a pesar de que cada vez son más inteligentes.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## Cumplir la intención del usuario
 
 Nuestro objetivo, como SEO siempre será proporcionar rápidamente al usuario el contenido que desea.
@@ -246,11 +469,35 @@ Por ello debemos ir apartándonos de todas las malas prácticas posibles anterio
 
 Por ejemplo, se puede aprender a analizar el comportamiento del usuario a través de Google con los datos que el propio buscador ya nos ofrece. Realizando breves búsquedas de lo que creemos que el usuario podría buscar y analizando los contenidos que nos devuelve; si el buscador nos regresa una infografía, una contestación a una pregunta, un vídeo o una galería de imágenes.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Seguramente, lo que los usuarios desean encontrar en referencia a nuestra búsqueda; es precisamente eso. Con este breve trabajo más un pequeño rastreo de lo que ofrecen tus más directos competidores de alto rango, será más que suficiente con lo que generar contenido de alta calidad y de relevancia que te ayude a lograr una mejor calificación en los resultados de búsqueda; y lo que es más importante aún, a ganar confianza y credibilidad de tu audiencia en línea.
 
 Antes de comenzar con el SEO, es importante establecer los objetivos correctos a los que deseas alcanzar. Establecer unos objetivos inteligentes y que seas capaz de controlar para tus clientes.
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Sobre los motores de búsqueda
 
@@ -274,6 +521,19 @@ A continuación, podemos destacar algunos puntos a considerar a la hora de traba
 - Piensa en hacer tu página web, en un sitio atractivo, único y valioso.
 
 Así como también podemos reflejar algunas de las malas prácticas que no son nada aconsejables de seguir:
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Las peores prácticas ante los ojos de Google & otros buscadores
 
@@ -301,6 +561,18 @@ Los motores de búsqueda tienen tres funciones principales:
 2. Indexar: Almacenar y organizar el contenido encontrado durante el proceso de rastreado. Una vez que una página entra al índice, se comienza a mostrar como un posible resultado hacía las consultas que se realizan.
 3. Clasificar: Proporcionar los extractos de contenido que mejor responden a las consultas sobre la caja de búsqueda, lo que significa que los resultados son ordenados de más relevantes a menos.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Qué es el rastreo de los motores de búsqueda?
 
@@ -322,6 +594,19 @@ Cuando alguien realiza una búsqueda, los motores rastrean su índice en busca d
 
 Es posible bloquear los rastreadores de una parte o de la totalidad de tu sitio, o educar a los motores de búsqueda en que eviten almacenar ciertas páginas en su índice. Si bien puede haber razones para hacer esto, si quieres que tu contenido sea encontrado, primero debes asegurarte de que sea accesible para los rastreadores e indexable. De lo contrario, será un sitio invisible.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### En SEO, no todos los motores de búsqueda son iguales
 
 Muchos principiantes se preocupan de la posible relevancia de los diferentes motores. La mayoría de la gente sabe que Google tiene la mayor cuota de mercado, aunque ¿Será también importante optimizar para Bing, Yahoo y otros?
@@ -336,6 +621,19 @@ Una forma de verificar tus páginas indexadas es utilizar el operador de búsque
 La cantidad de resultados que muestre Google ("Aproximadamente XXX resultados") no es exacta, pero te da una idea sólida de qué páginas están indexadas en tu sitio y cómo se muestran actualmente en los resultados de búsqueda.
 
 Si deseas obtener resultados más precisos, deberás supervisar y usar el informe de cobertura del índice en la Consola de Búsquedas de Google. Registrarse y obtener una cuenta es gratuito, solamente debes dirigirte a "Google Search Console" y con esta herramienta podrás enviar "sitemaps" de tu sitio y controlar cuántas páginas enviadas realmente se han agregado al índice, entre otras muchas más cosas.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Si no aparece en los resultados de la búsqueda, existen las siguientes razones posibles:
 
@@ -353,7 +651,18 @@ La mayoría de las personas piensa en asegurarse de que Google puede encontrar s
 
 Si deseas alejar a GoogleBot de ciertas páginas o secciones completas, solo debes utilizar el archivo: robots.txt.
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Robots.txt
 
@@ -372,6 +681,19 @@ Si Googlebot encuentra un error al intentar acceder al archivo robots.txt de tu 
 
 El presupuesto de rastreo es el número promedio de URL que Googlebot rastreará en tu sitio antes de irse, por lo que la optimización del presupuesto de rastreo garantiza que Googlebot no pierda tiempo en rastrear tus páginas sin importancia y corra el riesgo de ignorar tus páginas importantes. El presupuesto de rastreo es más importante en sitios muy grandes con decenas de miles de URL, pero nunca es una mala idea bloquear el acceso de los rastreadores al contenido que definitivamente no le importa. Solo asegúrese de no bloquear el acceso de un rastreador a las páginas en las que ha agregado otras directivas, como las etiquetas canónicas o noindex. Si Googlebot está bloqueado desde una página, no podrá ver las instrucciones en esa página.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 No todos los robots web siguen a robots.txt. Las personas con malas intenciones (por ejemplo, los raspadores de direcciones de correo electrónico) crean robots que no siguen este protocolo. De hecho, algunos hackers malos utilizan archivos robots.txt para encontrar dónde ha localizado tu contenido privado. Aunque parezca lógico bloquear los rastreadores desde páginas privadas, como las páginas de inicio de sesión y administración, para que no aparezcan en el índice, colocar la ubicación de esas URL en un archivo robots.txt de acceso público también significa que las personas con intenciones maliciosas pueden encontrarlos más fácilmente. Es mejor no indexar estas páginas y colocarlas detrás de un formulario de inicio de sesión en lugar de colocarlas en el archivo robots.txt.
 
 ## Definiendo parámetros de URL en Google Search Console
@@ -389,6 +711,19 @@ https://www.ejemplo.com/productos/mujer?categoria=vestidos&color=verde 
 https://ejemplo.com/shopindex.php? producto_id = 32 & highlight = verde + vestido
 
 ¿Cómo sabe Google qué versión de la URL debe servir a los usuarios? Google hace un buen trabajo para averiguar la URL representativa por sí misma, pero puedes utilizar la función Parámetros de URL en la Consola de Búsqueda de Google para decirle a Google exactamente cómo quieres que trate tus páginas. Si usas esta función para indicar a Googlebot que "no rastree las URL con el parámetro ____", entonces esencialmente estas pidiendo que se oculte este contenido de Googlebot, lo que podría resultar en la eliminación de esas páginas de los resultados de búsqueda. Eso es lo que deseas si esos parámetros crean páginas duplicadas, pero no es lo ideal si deseas que esas páginas se indexen.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ¿Los rastreadores pueden encontrar todo tu contenido importante?
 
@@ -414,6 +749,19 @@ Los formularios multimedia que no sean de texto (imágenes, videos, GIF, etc.) n
 
 Al igual que un rastreador necesita descubrir tu sitio a través de enlaces de otros sitios, necesita una ruta de enlaces en tu propio sitio para guiarlo de una página a otra. Si tiene una página que desea que los motores de búsqueda encuentren pero no está vinculada a ninguna otra página, es virtualmente invisible. Muchos sitios cometen el error crítico de estructurar su navegación en formas que son inaccesibles para los motores de búsqueda, lo que dificulta su capacidad para aparecer en los resultados de búsqueda.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### Errores de navegación comunes que pueden impedir que los rastreadores vean todo tu sitio
 
 Tener una navegación móvil que muestra resultados diferentes a los de escritorio.
@@ -437,6 +785,19 @@ Un "sitemap" o mapa del sitio, es exactamente lo que su propio nombre indica: un
 Si la empresa en cuestión, ya bien sea una tienda o un negocio que recurra a la ubicación del usuario para ofrecer sus servicios. Quiere decir que se requiere de realizar SEO local, donde se trabajará principalmente a través de Google My Busines y otras plataformas centradas en la agregación de negocios por zonas concretas.
 
 A la hora de utilizar Google My Business se debe tener en cuenta que Google siga ciertas pautas, entre algunas de ellas:
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Principios básicos para mejorar tu posicionamiento local
 
@@ -473,4 +834,15 @@ Las empresas locales querrán destacar por posicionar con palabras claves del ti
 🔥 Seguro también te interesa: [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

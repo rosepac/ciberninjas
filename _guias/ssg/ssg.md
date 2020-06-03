@@ -34,6 +34,19 @@ Un generador de sitio estático adopta un enfoque diferente y genera todas las p
 
 [👉 Saber Más en Nuestra Wiki 🔨](/wiki/generador-de-sitios-estaticos){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Qué es StaticGen**
 
 StaticGen es una tabla de clasificación de los principales generadores de sitios estáticos de código abierto. Es administrado por Netlify, un servicio de alojamiento y automatización para sitios web estáticos y aplicaciones, como una forma de promover un enfoque estático para crear sitios web. El sitio en sí está construido con Gatsby, y Netlify lo construye e implementa con datos nuevos todos los días. Puede consultar la fuente en GitHub y las contribuciones son más que bienvenidas.
@@ -50,6 +63,19 @@ El Jamstack no se trata de tecnologías específicas. Es una nueva forma de crea
 
 Los sitios preprocesados ​​se pueden mejorar con JavaScript y las capacidades crecientes de los navegadores y servicios disponibles a través de API.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Por qué el Jamstack**
 
 ### **Mejor interpretación**
@@ -63,6 +89,19 @@ Con los procesos del lado del servidor abstraídos en las API de microservicio, 
 ### **Escala más barata y fácil**
 
 Cuando su implementación equivale a una pila de archivos que se pueden servir en cualquier lugar, el escalado es una cuestión de servir esos archivos en más lugares. Las CDN son perfectas para esto y, a menudo, incluyen la escala en todos sus planes.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Mejor experiencia de desarrollador**
 
@@ -82,6 +121,19 @@ Cualquier proyecto que se base en un acoplamiento estrecho entre el cliente y el
 
 Este es un listado de las mejores prácticas a seguir si deseas montar tu sitio JamStack. A la hora de crear proyectos Jamstack, realmente puedes aprovechar al máximo si prosigues algunas prácticas recomendadas; como por ejemplo, pueden ser las siguientes..
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### **Monta tu proyecto por completo sobre un CDN 🖐**
 
 Debido a que los proyectos Jamstack no se basan en el código del lado del servidor, se pueden distribuir en lugar de vivir en un solo servidor. Servir directamente desde un CDN desbloquea velocidades y rendimiento que no se pueden superar. Cuanta más al límite puedas llevar la aplicación, mejor será la experiencia del usuario.
@@ -95,6 +147,20 @@ Aproveche el mundo de las herramientas de construcción modernas. Puede ser una 
 ### **Construcciones automatizadas 🖐**
 
 Debido a que el marcado Jamstack está preconstruido, los cambios de contenido no se activarán hasta que ejecute otra compilación. Automatizar este proceso te ahorrará mucha frustración. Puede hacerlo usted mismo con webhooks, o usar una plataforma de publicación que incluya el servicio automáticamente.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### **Despliegues atómicos 🖐**
 
 A medida que los proyectos de Jamstack crecen mucho, los nuevos cambios pueden requerir la implementación de cientos de archivos. Cargar estos archivos de una sola vez puede causar un estado inconsistente mientras se completa el proceso. Se puede evitar esto con un sistema que le permite hacer "implementaciones atómicas", donde no se activan los cambios hasta que se hayan cargado todos los archivos modificados.
@@ -106,7 +172,15 @@ Cuando el ciclo de la compilación o implementación se lanza, debes saber que y
 
 ¡Es posible que ya hayas trabajado con anterioridad en un sitio de Jamstack! Se pueden construir a mano, o con Jekyll, Hugo, Nuxt, Next, Gatsby u otros muchos; puedes conocerlos a todos desde el listad de [JamStack CMS](https://headlesscms.org/){:target="_blank" rel="nofollow,noreferrer"}
 
-______
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
-**Licencia**: [MIT](/licencia/mit/)
-<!-- https://www.staticgen.com/about , https://headlesscms.org/ -->
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

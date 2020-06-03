@@ -41,20 +41,61 @@ sidebar:
     
 ---
 
-
-## 🙋‍♀️ Descripción Completa
-
 ¿Google nos está haciendo estúpidos? Cuando Nicholas Carr se hizo esa pregunta, en una famosa portada de Atlantic Monthly, se enterró de un pozo de ansiedad sobre cómo Internet nos está cambiando. También cristalizó uno de los debates más importantes de nuestro tiempo: a medida que disfrutamos de las recompensas de la Red, ¿estamos sacrificando nuestra capacidad de leer y pensar profundamente?
 
 Ahora, Carr amplía su argumento en la exploración más convincente de las consecuencias intelectuales y culturales de Internet hasta ahora publicadas. Mientras describe cómo el pensamiento humano ha sido moldeado a través de los siglos por "herramientas de la mente", desde el alfabeto hasta los mapas, la imprenta, el reloj y la computadora, Carr entrelaza un relato fascinante de los descubrimientos recientes en neurociencia por tales pioneros como Michael Merzenich y Eric Kandel. Nuestros cerebros, revela la evidencia histórica y científica, cambian en respuesta a nuestras experiencias. Las tecnologías que utilizamos para buscar, almacenar y compartir información pueden literalmente redirigir nuestras vías neuronales.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 🙋‍♀️ Descripción Completa
 
 Sobre la base de las ideas de los pensadores desde Platón hasta McLuhan, Carr presenta un caso convincente de que cada tecnología de la información tiene una ética intelectual: un conjunto de suposiciones sobre la naturaleza del conocimiento y la inteligencia. Explica cómo el libro impreso sirvió para enfocar nuestra atención, promoviendo un pensamiento profundo y creativo. En marcado contraste, Internet fomenta el muestreo rápido y distraído de pequeños fragmentos de información de muchas fuentes. Su ética es la del industrial, una ética de velocidad y eficiencia, de producción y consumo optimizados, y ahora la Red nos está rehaciendo a su propia imagen. Nos estamos volviendo cada vez más expertos en escanear y desnatar, pero lo que estamos perdiendo es nuestra capacidad de concentración, contemplación y reflexión. 
 
 Parte de la historia intelectual, parte de la ciencia popular y parte de la crítica cultural,El Shallows brilla con viñetas memorables: Friedrich Nietzsche luchando con una máquina de escribir, Sigmund Freud diseccionando los cerebros de las criaturas marinas, Nathaniel Hawthorne contemplando el enfoque atronador de una locomotora de vapor, incluso mientras plantea profundas preguntas sobre el estado de nuestra psique moderna. Este es un libro que alterará para siempre la forma en que pensamos sobre los medios y nuestras mentes.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## ✍ Biografía del Autor
 
 Nicholas Carr es el autor del finalista del Premio Pulitzer: The Shallows, el éxito de ventas The Big Switch, e ¿Importa IT? Su aclamado nuevo libro, The Glass Cage: Automation and Us, examina las consecuencias personales y sociales de nuestra creciente dependencia de las computadoras y el software. Ex editor ejecutivo de Harvard Business Review, ha escrito para The Atlantic, New York Times, Wall Street Journal y Wired . El vive en Colorado.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🕵️‍♂️ Índice del Libro
 
@@ -78,12 +119,40 @@ Nicholas Carr es el autor del finalista del Premio Pulitzer: The Shallows, el é
 **Digresión**: [Ver Glosario](/glosario/digresion)
 {: .notice--info}
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## 📝 Otros Detalles
 
 - Formato disponible: Tapa Blanda, Ebook.
 - Los precios NO INCLUYEN gastos de envío.
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=premium&banner=1E7ZEBFW3E0G3W1WXZ82&f=ifr&linkID=36c6741f8667c2eb2286cb8ca0062ecb&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🎁 Muestra Gratis
 
@@ -105,7 +174,16 @@ Nicholas Carr es el autor del finalista del Premio Pulitzer: The Shallows, el é
 
 <p><center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=0K8KMRM0NM2Y5A191Z02&f=ifr&linkID=211f5ada1acf9b558138a9115015fccc&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=1MY6V4BGBKF24MPVQ382&f=ifr&linkID=bc72cdf8c85667d9cf8d99ac40b234cf&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=fire_tablets&banner=09F0X29YE5A28P2Z02G2&f=ifr&linkID=99987810c2d699e6b1a4becf63ee659b&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle_oasis&banner=0NJNYNMJ9TB937AZFHG2&f=ifr&linkID=a42c1c2fd452f496c7105f18b28d8c61&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center></p>
 
-## 📚 Catálogo Completo
-[🕸 Administraci&oacute;n y Redes](/categoria/#administración-y-redes "Libros de Redes y Administración"){: .btn.btn--success.btn--large} [🌄 Ciencias de la Tierra](/categoria/#ciencias-de-la-tierra "Libros de Categoría de Ciencias de la Tierra"){: .btn.btn--success.btn--large} [🔬 Ciencias Informáticas](/categoria/#ciencias-informáticas "Libros de Categoría Ciencias Informáticas"){: .btn.btn--success.btn--large} [💪 Desarrollo Personal](/categoria/#desarrollo-personal "Libros de Categoría Desarrollo Personal"){: .btn.btn--success.btn--large} [🧠 Neuropsicolog&iacute;a](/categoria/#neuropsicología "Libros relacionados con la neurociencia y la psicología"){: .btn.btn--success.btn--large} [👨‍💻 Programación Móvil](/categoria/#programación-móvil "Libros de Frameworks de Creación de Aplicaciones Móviles Multiplataforma"){: .btn.btn--success.btn--large} [⭐ Recomendaciones](/categoria/#recomendaciones "Libros recomendados por diferentes personajes famosos de influencia"){: .btn.btn--success.btn--large} [🌐 Red e Internet](/categoria/#red-e-internet "Libros en relación a las Redes e Internet"){: .btn.btn--success.btn--large} [🔐 Seguridad Inform&aacute;tica](/categoria/#seguridad-inform%C3%A1tica "Libros de Categoría Seguridad Informática"){: .btn.btn--success.btn--large} [🤼 Sociología](/categoria/#sociología "Libros de Categoría Sociología"){: .btn.btn--success.btn--large}
 
-<center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=libros&banner=16R3XS8RQ89N3YJR4B02&f=ifr&linkID=56cd664728c9a7de32cbacd0aafc13ca&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

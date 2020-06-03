@@ -48,6 +48,19 @@ En la era actual de la información, las estructuras del poder se han vuelto inv
 
 Las cosas han cambiado y no precisamente a mejor: el poder geopolítico que antes ostentaba el estado se concentra ahora en manos de las redes de comunicación.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## 🙋‍♀️ Descripción Completa
 
 La red no es libre, ni abierta ni democrática. Es un conjunto de servidores, conmutadores, satélites, antenas, routers y cables de fibra óptica controlados por un número cada vez más pequeño de empresas.
@@ -58,6 +71,19 @@ Si la consideramos un único proyecto llamado internet, podemos decir que es la 
 
 Su tecnología está oculta, enterrada, sumergida o camuflada; sus algoritmos son opacos; sus microdecisiones son irrastreables. Los centros de datos que almacenan y procesan la información están ocultos y protegidos por armas, criptografía, propiedad intelectual y alambre de espino.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 La infraestructura crítica de nuestro tiempo está fuera de nuestra vista. No podemos comprender la lógica, la intención y el objetivo de lo que no vemos. Todas las conversaciones que tenemos sobre esa infraestructura son en realidad conversaciones sobre su interfaz, un conjunto de metáforas que se interpone entre nosotros y el sistema.
 
 Un lenguaje diseñado, no para facilitar nuestra comprensión de esa infraestructura, sino para ofuscarla. El enemigo conoce el sistema pero nosotros no.
@@ -66,6 +92,19 @@ Este libro te ayudará a conocerlo, y a comprender por qué la herramienta más 
 
 Solo así podremos convertirla en lo que más falta nos hace: una herramienta para gestionar la crisis que se avecina de la manera más humana posible. No tenemos un segundo que perder.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## ✍ Biografía del Autor
 
 Marta Peirano es periodista. Fundó las secciones de Cultura de ADN y eldiario.es, donde ha sido jefa de Cultura y Tecnología y adjunta al director, además de haber sido codirectora de Copyfight y cofundadora de Hack Hackers Berlin y de Cryptoparty Berlin.
@@ -73,6 +112,19 @@ Marta Peirano es periodista. Fundó las secciones de Cultura de ADN y eldiario.e
 Ha escrito libros sobre autómatas, sistemas de notación y un ensayo sobre vigilancia y criptografía llamado: [El Pequeño Libro Rojo del Activista en la Red](/catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/ "El pequeño libro rojo del activista en la red: todo lo que no quieres pero necesitas saber sobre el poder, la economía, la sociedad y las telecomunicaciones en la era de la información."), con un prólogo escrito por el mismo: Edward Snowden.
 
 Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigilan-si-no-soy-nadie/ "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano..")», supera ya los dos millones de visitas. Se la puede ver en los debates de radio y televisión hablando de vigilancia, infraestructuras, soberanía tecnológica, propaganda computacional y cambio climático.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🕵️‍♂️ Índice del Libro
 
@@ -130,7 +182,20 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigila
 - Sobre este libro
 - Sobre la autora
 - Créditos
-    
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## 📝 Otros Detalles
 
 - Formatos disponibles: Kindle y Tapa Blanda
@@ -146,6 +211,19 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigila
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=kindle_unlimited&banner=0PYAB72K9B5NAJAM0H82&f=ifr&linkID=caea859e44b57ca1e1ab932433cdda90&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## 💖 Comprar Libro
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=gift_certificates&banner=0YM2726C1ESR66Q7QG02&f=ifr&linkID=b74ea8b6b0434619f53785a367d3de3d&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
@@ -157,10 +235,15 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigila
 <p><center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=0K8KMRM0NM2Y5A191Z02&f=ifr&linkID=211f5ada1acf9b558138a9115015fccc&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=1MY6V4BGBKF24MPVQ382&f=ifr&linkID=bc72cdf8c85667d9cf8d99ac40b234cf&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=fire_tablets&banner=09F0X29YE5A28P2Z02G2&f=ifr&linkID=99987810c2d699e6b1a4becf63ee659b&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle_oasis&banner=0NJNYNMJ9TB937AZFHG2&f=ifr&linkID=a42c1c2fd452f496c7105f18b28d8c61&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center></p>
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=kindlestore&banner=0P95N768FCV2P0732CG2&f=ifr&linkID=75656190f347ab8c55ea09e0b6f57418&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
-## 📚 Catálogo Completo
-[🕸 Administraci&oacute;n y Redes](/categoria/#administración-y-redes "Libros de Redes y Administración"){: .btn.btn--success.btn--large} [🌄 Ciencias de la Tierra](/categoria/#ciencias-de-la-tierra "Libros de Categoría de Ciencias de la Tierra"){: .btn.btn--success.btn--large} [🔬 Ciencias Informáticas](/categoria/#ciencias-informáticas "Libros de Categoría Ciencias Informáticas"){: .btn.btn--success.btn--large} [💪 Desarrollo Personal](/categoria/#desarrollo-personal "Libros de Categoría Desarrollo Personal"){: .btn.btn--success.btn--large} [🧠 Neuropsicolog&iacute;a](/categoria/#neuropsicología "Libros relacionados con la neurociencia y la psicología"){: .btn.btn--success.btn--large} [👨‍💻 Programación Móvil](/categoria/#programación-móvil "Libros de Frameworks de Creación de Aplicaciones Móviles Multiplataforma"){: .btn.btn--success.btn--large} [⭐ Recomendaciones](/categoria/#recomendaciones "Libros recomendados por diferentes personajes famosos de influencia"){: .btn.btn--success.btn--large} [🌐 Red e Internet](/categoria/#red-e-internet "Libros en relación a las Redes e Internet"){: .btn.btn--success.btn--large} [🔐 Seguridad Inform&aacute;tica](/categoria/#seguridad-inform%C3%A1tica "Libros de Categoría Seguridad Informática"){: .btn.btn--success.btn--large} [🤼 Sociología](/categoria/#sociología "Libros de Categoría Sociología"){: .btn.btn--success.btn--large}
-
-<center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=libros&banner=16R3XS8RQ89N3YJR4B02&f=ifr&linkID=56cd664728c9a7de32cbacd0aafc13ca&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
-
-<!-- <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> <a href="https://leanpub.com/web-hacking-101-es" class="btn btn--danger btn--large">🔐 Seguridad Informática</a> -->
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

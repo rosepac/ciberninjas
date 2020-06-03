@@ -46,6 +46,19 @@ Con esta página traemos toda la información necesaria para ser todo un maestro
 🔥 Seguro también te interesa: [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **¿Qué es robots.txt?**
 
 Los propietarios de sitios web usan el archivo /robots.txt para dar instrucciones sobre su sitio a los robots web; esto se llama el protocolo de exclusión de robots.
@@ -73,7 +86,7 @@ Por tanto, no intentes usar /robots.txt para ocultar información.
 👉 Ver también:<br/>>>[¿Puedo bloquear solo robots malos?](/robots-txt-preguntas-frecuentes/#se-puede-bloquear-solo-a-los-robots-malos)<br/>>> [¿Por qué este robot ignoró mi /robots.txt?](/robots-txt-preguntas-frecuentes/#por-qué-este-robot-ignoró-mi-robotstxt)<br/>>> [¿Cuáles son las implicaciones de seguridad de /robots.txt?](/robots-txt-preguntas-frecuentes/#seguramente-enumerar-archivos-confidenciales-es-un-problema)
 {: .notice--danger}
 
-### **Al detalle**
+### **Robots.txt al detalle**
 
 Robots.txt es un estándar de facto y no es propiedad de ningún organismo de estándares. Hay dos descripciones históricas:
 
@@ -85,6 +98,19 @@ Robots.txt es un estándar de facto y no es propiedad de ningún organismo de es
 El estándar /robots.txt no se desarrolla activamente. Consulte [¿Qué pasa con el desarrollo posterior de /robots.txt? ](https://www.robotstxt.org/faq/future.html)para más discusión
 
 El resto de esta página ofrece una descripción general de cómo usar /robots.txt en su servidor, con algunas recetas simples. Para obtener más información, consulte también las [preguntas frecuentes](https://www.robotstxt.org/faq.html) .
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cómo crear un archivo /robots.txt?**
 
@@ -142,6 +168,19 @@ Disallow:
 
 (o simplemente cree un archivo "/robots.txt" vacío, o no use ninguno)
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### **Para excluir todos los robots de parte del servidor**
 
 ```
@@ -190,7 +229,18 @@ Disallow: /~carpeta-personal/bar.html
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Acerca de la META etiqueta robots**
 
@@ -222,6 +272,19 @@ Al igual que /robots.txt, la etiqueta META de robots es un estándar de facto. S
 La etiqueta META también se describe en [la especificación HTML 4.01, Apéndice B.4.1](http://www.w3.org/TR/html401/appendix/notes.html#h-B.4.1.2){:target="_blank" rel="nofollow,noreferrer"}.
 
 A continuación se ofrece una descripción general de cómo usar las etiquetas <META> de robots en tu página web, con algunos ejemplos simples. Para obtener más información, consulta nuestra página de [preguntas frecuentes o FAQ](https://www.robotstxt.org/faq.html).
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cómo escribir una metaetiqueta de robots?**
 
@@ -255,6 +318,19 @@ Muchas personas terminan en este sitio porque tienen preguntas sobre robots y mo
 - [Centro de ayuda de Google Web Search en Español](https://support.google.com/webmasters/search?q=robots){:target="_blank" rel="nofollow,noreferrer"}
 - [Centro de ayuda para webmasters de Google](https://www.google.com/intl/es/webmasters/#?modal_active=none){:target="_blank" rel="nofollow,noreferrer"}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### **Sitios sobre motores de búsqueda**
 
 Sitios muy útiles para webmasters:
@@ -285,6 +361,19 @@ Sitios muy útiles para webmasters:
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Rastreadores de código abierto**
 
 - [Frontera](https://en.wikipedia.org/wiki/Frontera_(web_crawling)){:target="_blank" rel="nofollow,noreferrer"} es un framework de rastreo web que implementa el componente de [frontera de rastreo](https://en.wikipedia.org/wiki/Crawl_frontier){:target="_blank" rel="nofollow,noreferrer"} y proporciona primitivas de escalabilidad para aplicaciones de [rastreo](https://en.wikipedia.org/wiki/Crawl_frontier){:target="_blank" rel="nofollow,noreferrer"} web.
@@ -308,7 +397,18 @@ Sitios muy útiles para webmasters:
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1336704793183039" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1336704793183039" class="fb-xfbml-parse-ignore"><p>🔍 Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección Los Mejores Libros sobre SEO, Posicionamiento y Marketing Digital; en una sola Colección 🕵️‍♂️</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1336704793183039">Martes, 10 de marzo de 2020</a></blockquote></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- https://www.keycdn.com/blog/web-crawlers los 10 rastreadores web más conocidos. -->
 <!-- https://prowebscraper.com/blog/50-best-open-source-web-crawlers/ Los 50 Rastreadores Web Más -->
 <!-- https://www.nichemarket.co.za/blog/nichemarket-advice/6-web-crawling-tools 6 herramientas de web rastreo -->

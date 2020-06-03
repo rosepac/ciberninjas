@@ -31,6 +31,19 @@ Esta es la página perfecta donde poder resolver todas las dudas que desees resp
 
 [¿Qué es Javascript?](/javascript/#qué-es-javascript){: .btn .btn--inverse .btn--large} [Sobre Javascript](/javascript/#sobre-javascript){: .btn .btn--inverse .btn--large} [¿Quién esta usando Javascript?](/javascript/#quién-está-usando-javascript){: .btn .btn--inverse .btn--large} [¿Por qué aprender Javascript?](/javascript/#por-qué-aprender-javascript){: .btn .btn--inverse .btn--large} [Frameworks de Javascript](/javascript/#frameworks-web-de-javascript){: .btn .btn--inverse .btn--large} [Listas de Correos de Javascript](/javascript/#listas-de-correos){: .btn .btn--inverse .btn--large}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## ¿Qué es Javascript?
 
 JavaScript se creó inicialmente para "dar vida a las páginas web". Es un lenguaje de programación orientado a objetos diseñado para hacer que el desarrollo web sea más fácil y más atractivo.
@@ -39,13 +52,35 @@ En la mayoría de los casos, JavaScript se usa para crear elementos receptivos e
 
 Los programas en este lenguaje se llaman scripts . Se pueden escribir directamente en el HTML de una página web y ejecutarse automáticamente a medida que se carga la página. Los scripts se proporcionan y ejecutan como texto sin formato. No necesitan preparación especial o compilación para correr.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 En este aspecto, JavaScript es muy diferente de otro lenguaje llamado Java.
 
 Es el lenguaje de programación perfecto para la web, es capaz de actualizar y cambiar tanto HTML como CSS y además puede calcular , manipular y validar datos.
 
 Si desea ser un desarrollador web front-end , debe desarrollar un conocimiento sólido de estos tres idiomas. Aunque este artículo se centrará en JavaScript para el resto, sería mejor si investiga un poco más sobre HTML y CSS si aún no está familiarizado con ellos.
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331101370410048" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331101370410048" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331101370410048">Martes, 3 de marzo de 2020</a></blockquote></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Sobre Javascript
 
@@ -66,6 +101,19 @@ Cuando se creó JavaScript, inicialmente tenía otro nombre: "LiveScript". Pero 
 
 Pero a medida que evolucionó, JavaScript se convirtió en un lenguaje totalmente independiente con su propia especificación llamada ECMAScript , y ahora no tiene ninguna relación con Java.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## ¿Por qué aprender Javascript?
 
 Es versátil y se puede aplicar en casi cualquier campo de software, es uno de los principales idiomas de front-end de la World Wide Web. JavaScript también permite páginas web interactivas y es esencial para la mayoría de las aplicaciones web.
@@ -82,6 +130,19 @@ Aunque generalmente se habla de JavaScript como un lenguaje diseñado principalm
 
 Aunque la mayoría del desarrollo de aplicaciones móviles se realiza con lenguajes específicos del sistema operativo como Swift (iOS) o Java (Android), no hay ninguna razón por la que no pueda crear aplicaciones con JavaScript. La implementación de frameworks como Phonegap y React Native ha hecho posible crear aplicaciones móviles para múltiples sistemas operativos usando el mismo código. JavaScript parece ser una gran opción para el desarrollo de aplicaciones móviles en el futuro.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### Aplicaciones web y de servidor
 
 Nuevamente, la respuesta más común a la pregunta " ¿Para qué se usa JavaScript?" es algo así como 'crear elementos web interactivos'. Pero esto no es todo. La creación de nuevas bibliotecas y marcos permite a los desarrolladores web crear muchos programas de back-end con JavaScript. Estos incluyen cosas como aplicaciones web y aplicaciones de servidor. JavaScript se está volviendo tan esencial para los desarrolladores web back-end como lo es para los desarrolladores front-end.
@@ -94,7 +155,18 @@ Construir tus juegos simples también es una excelente manera de practicar tus c
 
 > Tenga en cuenta que esta no es una lista exhaustiva. JavaScript es un lenguaje poderoso, y la mayoría de las cosas solo estarán limitadas por tu imaginación. 
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331101370410048" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331101370410048" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros para Aprender Javascript y más, en español 💻</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331101370410048">Martes, 3 de marzo de 2020</a></blockquote></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Quién está usando Javascript
 
@@ -124,4 +196,15 @@ En mayor o menor medida, casi todo el mundo que crea código que funciona sobre 
 * [Javascript Hall of Fame](https://bestofjs.org/hall-of-fame){:target="_blank" rel="nofollow,noreferrer"}
 * [Open Source - PonyFOO](https://ponyfoo.com/opensource){:target="_blank" rel="nofollow,noreferrer"}
 
-<!--  -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

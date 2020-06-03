@@ -28,11 +28,35 @@ Python es probablemente el lenguaje de programación más fácil de usar entre t
 
 Igual que Java, Python ofrece uuna variedad amplia en sus metodologías de aplicación, que lo convierten en una opción versátil y poderosa a la hora de elegir un lenguaje de programación adecuado para tu caso de uso.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Si estás interesado en el desarrollo web de back-end, por ejemplo, entonces el framework de código abierto Django (escrito en Python) es muy conocido, y además es fácil de aprender y posee muchas funciones; también Django, es utilizado en el desarrollo de aplicaciones y páginas web muy populares como por ejemplo: Instagram, Spotify o Mozilla.
 
 Python también tiene muchos "paquetes", "librerías" o "bibliotecas" de código; como NumPy y SciPy, que se usan comúnmente en los campos de la computación, las ciencias, las matemáticas y la ingeniería.
 
 Otras bibliotecas de Python, como TensorFlow, PyTorch, scikit-learn y OpenCV; son utilizadas para crear programas en ciencia de datos, aprendizaje automático, procesamiento de imágenes y visión por computadora. Las aplicaciones de ciencia y datos de Python lo convierten en una excelente opción para los académicos.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [¿Quién usa Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large}
 <!-- [](){: .btn .btn--inverse .btn--large} -->
@@ -55,6 +79,19 @@ Incluso cuando se escribieron otros scripts para Google en Perl o Bash, estos a 
 
 Python es ahora uno de los lenguajes oficiales del servidor de Google (C ++, Java y Go son los otros tres) que pueden implementarse en producción. Y en caso de que no esté realmente seguro de cuán importante es Python para Google, el propio BDFL de Python, [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) , trabajó en Google desde 2005 hasta 2012.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### ILM
 
 Industrial Light and Magic (ILM) es la potencia mundial de efectos especiales que fue fundada en 1975 por George Lucas para crear el FX para *Star Wars* . Desde entonces, se han convertido en sinónimo de FX, ganando múltiples premios por su trabajo en películas y comerciales.
@@ -64,17 +101,6 @@ En sus primeros días, ILM se centró en los efectos prácticos, pero pronto se 
 Originalmente, el estudio CGI de ILM se ejecutaba desde un shell de Unix, pero esto solo estaba manejando una cantidad relativamente baja de trabajo. Debido a que el estudio preveía el futuro de CGI, comenzaron a buscar un sistema que pudiera manejar la ampliación agresiva que vieron en el futuro.
 
 ILM eligió Python 1.4 sobre Perl y Tcl, optando por usar Python porque era mucho más rápido de integrar en su infraestructura existente. Debido a la fácil interoperabilidad de Python con C y C ++ , fue simple para ILM importar Python a su software de iluminación patentado. Esto les permitió poner Python en más lugares, usándolo para envolver componentes de software y extender sus aplicaciones de gráficos estándar.
-
-El estudio ha usado Python en muchas otras facetas de su trabajo. Los desarrolladores utilizan Python para rastrear y auditar la funcionalidad de la tubería, manteniendo una base de datos de cada imagen producida para cada película. Como Python controlaba más y más de los programas de ILM, creó un conjunto de herramientas unificadas más simple que permitía una producción más efectiva. Para un ejemplo del mundo real, no busque más allá de [OpenEXR](http://www.openexr.com/index.html) , un formato de archivo HD utilizado por ILM. Como parte del paquete, [PyIlmBase](https://github.com/openexr/openexr/tree/develop/PyIlmBase) está incluido (aunque tiene una dependencia de Boost).
-
-A pesar de las numerosas revisiones, ILM continúa considerando que Python es la mejor solución para sus necesidades. La combinación de un código de fuente abierta combinada con la capacidad de realizar cambios garantiza que Python continuará satisfaciendo las necesidades de ILM durante mucho tiempo.
-
-### Otros Muchos Más
-
-Existen otras muchas empresas reconocidas que confian en Python como uno de sus lenguajes principales, por sus ideales características, entre ellas: la NASA, Mozilla, PayPal, Pinterest, SendGrid, Zappier, Udemy, Uber, Instacart, 8GAG, Asana, Intuit, Keen IO, Disqus, Pandora, BillGuard, Back End, imgix, AdRoll, Chartio, WePay, Chartbeat, Brika, Circa, Kippt, Thingr, Hipmunk, y un largo etc. más.
-
-[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -86,6 +112,31 @@ Existen otras muchas empresas reconocidas que confian en Python como uno de sus 
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+El estudio ha usado Python en muchas otras facetas de su trabajo. Los desarrolladores utilizan Python para rastrear y auditar la funcionalidad de la tubería, manteniendo una base de datos de cada imagen producida para cada película. Como Python controlaba más y más de los programas de ILM, creó un conjunto de herramientas unificadas más simple que permitía una producción más efectiva. Para un ejemplo del mundo real, no busque más allá de [OpenEXR](http://www.openexr.com/index.html) , un formato de archivo HD utilizado por ILM. Como parte del paquete, [PyIlmBase](https://github.com/openexr/openexr/tree/develop/PyIlmBase) está incluido (aunque tiene una dependencia de Boost).
+
+A pesar de las numerosas revisiones, ILM continúa considerando que Python es la mejor solución para sus necesidades. La combinación de un código de fuente abierta combinada con la capacidad de realizar cambios garantiza que Python continuará satisfaciendo las necesidades de ILM durante mucho tiempo.
+
+### Otros Muchos Más
+
+Existen otras muchas empresas reconocidas que confian en Python como uno de sus lenguajes principales, por sus ideales características, entre ellas: la NASA, Mozilla, PayPal, Pinterest, SendGrid, Zappier, Udemy, Uber, Instacart, 8GAG, Asana, Intuit, Keen IO, Disqus, Pandora, BillGuard, Back End, imgix, AdRoll, Chartio, WePay, Chartbeat, Brika, Circa, Kippt, Thingr, Hipmunk, y un largo etc. más.
+
+[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## ¿Por qué aprender Python?
 
@@ -102,7 +153,6 @@ Python es un lenguaje accesible para nuevos programadores porque la comunidad pr
 En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrados en Python a través de la web Indeed.com.
 
 [🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -115,6 +165,7 @@ En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrad
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## ¿Cómo desarrollar una aplicación web con Python?
 <!-- https://www.fullstackpython.com/ -->
@@ -154,6 +205,19 @@ Flask es un framework de Python construido con un núcleo pequeño y un diseño 
 [🐍 Proyecto Pallets 🐍](https://palletsprojects.com/p/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## Bottle
 
 ![](https://i.ibb.co/yfMJzp7/1200px-Bottle-logo-svg.png "Logotipo del framework de python: bottle")
@@ -186,6 +250,19 @@ TurboGears, es un framework enfocado hacía los desarrolladores full-stack sobre
 [🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 <!-- https://www.g2.com/products/turbogears/reviews?filters%5Bnps_score%5D%5B%5D=3 -->
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## Falcon
 
 ![](https://i.ibb.co/qjgRkbY/banner.jpg "Logotipo del framework de python: falcon")
@@ -216,6 +293,19 @@ Sanic es un framework web de Python construido en uvloop y diseñado para respue
 [🐍 Documentación Sanic 🐍](https://sanic.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### Otros Frameworks
 
 ## CherryPy
@@ -239,6 +329,19 @@ Web2py es un framework full-stack de código abierto con una estructura de proye
 
 [🐍 Framework Web2py 🐍](http://www.web2py.com/init/default/index){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
 [🐍 Documentación Web2py 🐍](http://www.web2py.com/book/default/chapter/01#Security){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Vibora
 
@@ -268,6 +371,19 @@ https://github.com/klen/muffin#the-muffin
 {: .notice--warning}
 [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## Ray -DESUSO-
 
 > Última Actualización: En 2018
@@ -278,7 +394,6 @@ https://rayframework.github.io/site/
 {: .notice--warning}
 [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large .align-center}
 [🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -291,6 +406,7 @@ https://rayframework.github.io/site/
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Bibliotecas de Python
 
@@ -324,11 +440,22 @@ La simplicidad de Python ha atraído a muchos desarrolladores a crear nuevas bib
 
 Entonces, la primera biblioteca en nuestro blog de las 10 mejores bibliotecas de Python es TensorFlow.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## TensorFlow
 
 ![](https://i.ibb.co/mqd50yP/tensorflow-e1551699437694.jpg)
 
-**¿Qué es TensorFlow?**
+### **¿Qué es TensorFlow?**
 
 Si actualmente está trabajando en un proyecto de aprendizaje automático en Python, es posible que haya escuchado sobre esta popular biblioteca de código abierto conocida como TensorFlow.
 
@@ -336,7 +463,18 @@ Esta biblioteca fue desarrollada por Google en colaboración con Brain Team. Ten
 
 TensorFlow funciona como una biblioteca computacional para escribir nuevos algoritmos que involucran una gran cantidad de operaciones de tensor, ya que las redes neuronales pueden expresarse fácilmente como gráficos computacionales, pueden implementarse usando TensorFlow como una serie de operaciones en tensores. Además, los tensores son matrices N-dimensionales que representan sus datos.
 
-**Características de TensorFlow**
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+### **Características de TensorFlow**
 
 TensorFlow está optimizado para la velocidad, utiliza técnicas como XLA para operaciones rápidas de álgebra lineal.
 
@@ -365,17 +503,30 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 [🐍 Biblioteca TensorFlow 🐍](https://www.tensorflow.org/install){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## Scikit-Learn
 
 ![](https://i.ibb.co/JBSKbHj/scikit-learn-logo.png)
 
-**¿Qué es Scikit-learn?**
+### **¿Qué es Scikit-learn?**
 
 Es una biblioteca de Python asociada con NumPy y SciPy. Se considera una de las mejores bibliotecas para trabajar con datos complejos.
 
 Se están realizando muchos cambios en esta biblioteca. Una modificación es la función de validación cruzada, que proporciona la capacidad de usar más de una métrica. Muchos métodos de capacitación como la regresión logística y los vecinos más cercanos han recibido algunas pequeñas mejoras.
 
-**Características de Scikit-Learn**
+### **Características de Scikit-Learn**
 
 1. **Validación cruzada**:  Existen varios métodos para verificar la precisión de los modelos supervisados ​​en datos no vistos.
 
@@ -417,6 +568,19 @@ Es importante para los desarrolladores de "machine learning" full stack tener co
 
 [🐍 Biblioteca Numpy 🐍](https://numpy.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Keras..
 
@@ -526,6 +690,19 @@ Estas bibliotecas proporcionan implementaciones altamente escalables, optimizada
 [🐍 Biblioteca LightGBM 🐍](https://lightgbm.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Eli5..
 
 ## Eli5
@@ -610,6 +787,19 @@ Theano se está utilizando en múltiples proyectos de redes neuronales hoy en d�
 [🐍 Biblioteca Theano 🐍](http://deeplearning.net/software/theano/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Pandas..
 
 ## Pandas
@@ -637,7 +827,6 @@ El análisis de datos entre todo lo demás se destaca cuando se trata del uso de
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a otras bibliotecas.. De menor uso, pero no por ello menos importantes, dependiendo de cual vaya a ser el uso que desees hacer de Python dentro de tus proyectos..
 
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -649,6 +838,8 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Otras Bibliotecas
 
@@ -665,7 +856,11 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 * [Vidgear](/vidgear-libreria-python/)
 
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--warning .btn--large .align-center}
+[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--warning .btn--large .align-center}
+[🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn--warning .btn--large .align-center}
+[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -678,10 +873,7 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-[🐍 Recursos de Python 🐍](/python-recursos/#page-title){: .btn .btn--warning .btn--large .align-center}
-[🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--warning .btn--large .align-center}
-[🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn--warning .btn--large .align-center}
-[🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Relacionados
 
@@ -695,8 +887,6 @@ _____
 La **Guía de Python** fue creada el *30 de Junio de 2019* y su última edición fue realizada el *20 de Mayo de 2020*.
 {: .notice--info}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -707,3 +897,5 @@ La **Guía de Python** fue creada el *30 de Junio de 2019* y su última edición
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
