@@ -29,6 +29,17 @@ Encabezado que le permite al servidor saber qué tipo de software está haciendo
 
 Es originalmente un acrónimo, Asynchronous JavaScript and XML, permite al cliente enviar y recuperar datos del servidor sin volver a cargar la página.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### **Apoderado**
 
 Un intermediario para solicitudes de clientes y servidores que proporcionan recursos.
@@ -46,6 +57,19 @@ API son las interfaces de programación que permiten al software interactuar con
 Identificar al usuario de la API. Las técnicas comunes para la autenticación incluyen API Keys y OAuth.
 
 [🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## C
 
@@ -115,6 +139,19 @@ Un encabezado que le dice al cliente que puede almacenar en caché una respuesta
 
 [🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## G
 
 **Gateway o 'Puerta'**
@@ -155,6 +192,17 @@ El Protocolo seguro de transferencia de hipertexto es la forma en que los sitios
 
 [🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## I
 
 **Idempotente**
@@ -182,6 +230,19 @@ Un tipo hipermedia que normaliza el hipervínculo y la incorporación de recurso
 JSON con relleno es una técnica utilizada para superar las restricciones de dominio cruzado impuestas por los navegadores para permitir que los datos se recuperen de sistemas distintos al que sirve la página.
 
 [🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## L
 
@@ -254,6 +315,19 @@ La transferencia de estado representativo es un patrón arquitectónico para int
 Marco de descripción de recursos. Marco enfocado en contenido semántico.
 
 [🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## S
 
@@ -337,3 +411,4 @@ XML es un lenguaje de marcado extensible que se utiliza para describir documento
 ## Otros Glosarios
 
 [🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

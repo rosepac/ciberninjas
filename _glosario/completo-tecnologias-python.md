@@ -50,6 +50,17 @@ Una biblioteca para escribir código concurrente utilizando la sintaxis async / 
 
 Una biblioteca de visualización interactiva para Python, que proporciona una construcción elegante y concisa de gráficos versátiles. Ofrece interactividad de alto rendimiento para conjuntos de datos muy grandes o de transmisión. Permite una presentación visual hermosa y significativa de los datos en los navegadores web modernos.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### **Bottle**
 
 Framework web micro WSGI rápido, simple y ligero para Python. Ofrece requests de solicitudes (enrutamiento de URL) con soporte de parámetros de URL, plantillas, un servidor HTTP incorporado y adaptadores para muchos motores de plantillas y servidores WSGI / HTTP de terceros, todo en un solo archivo y sin dependencias que no sean las propias de la biblioteca de Python.
@@ -70,6 +81,17 @@ Implementación de referencia del lenguaje de programación Python. Escrito en C
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## D
 
 ### **Dask**
@@ -89,6 +111,7 @@ Un proyecto oficial de Django. Extiende sus capacidades más allá del HTTP: Par
 Sistema de procesamiento de texto para procesar documentación de texto sin formato en formatos útiles, como HTML , LaTeX, páginas de manual, documento abierto o XML . Diseñado para trabajar de manera flexible con texto en varios idiomas (un idioma a la vez). Las características específicas del idioma están completamente parametrizadas.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## F
 
@@ -97,6 +120,17 @@ Sistema de procesamiento de texto para procesar documentación de texto sin form
 Un framework ligero de Python basado en Werkzeug y Jinja 2. Arquitectura de seguridad del sistema operativo que proporciona soporte flexible para políticas de seguridad. FLASK es un marco central en los sistemas operativos centrados en la seguridad, como el Linux de seguridad mejorada de la NSA (SELinux), OpenSolaris FMAC y TrustedBSD.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## J
 
@@ -117,6 +151,7 @@ Un motor de plantillas para Python . Ofrece un poderoso conjunto de herramientas
 Biblioteca de Python para el desarrollo rápido de aplicaciones que utilizan interfaces de usuario innovadoras, como aplicaciones multitáctiles. Se usa para hacer aplicaciones móviles con python. Puede ejecutarse en Android , iOS , Linux , OS X y Windows.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## M
 
@@ -133,6 +168,17 @@ Biblioteca de trazado 2D de Python que produce cifras de calidad de publicación
 Paquete fundamental para computación científica con Python . NumPy es la biblioteca principal en Python para la manipulación de matrices y, por lo tanto, una gran parte del cálculo numérico y científico basado en este lenguaje.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## P
 
@@ -160,6 +206,17 @@ Framework de aplicación para la web, escrito en Python . Hace una gran utilizac
 
 Framework de análisis de descenso recursivo para el lenguaje de programación Python . Enfoque alternativo para crear y ejecutar gramáticas simples, en comparación con el enfoque tradicional lex / yacc, o el uso de expresiones regulares.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### **Pyramid**
 
 Framework web Python que surgió del proyecto Pylons. Está diseñado para facilitar la creación de aplicaciones web. Pyramid proporciona solo las herramientas básicas necesarias para casi todas las aplicaciones web: mapear URL a código, seguridad y servir activos estáticos (archivos como JavaScript y CSS ).
@@ -177,6 +234,7 @@ Lenguaje de programación de uso general popular cuya filosofía se centra princ
 Una biblioteca de aprendizaje automático de código abierto para Python . Proporciona una ruta perfecta desde la creación de prototipos de investigación hasta la implementación de producción. De acuerdo con la antorcha.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## S
 
@@ -205,6 +263,17 @@ Biblioteca de visualización de Python basada en matplotlib. Proporciona una int
 Sheetfu es una librería de Python creada para trabajar conjunto al servicio de hojas de cálculo de Google, Google Sheets.
 
 [▶ Saber Más sobre Seetfu](/sheetfu-libreria-python/){: .btn .btn--danger .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### **StatsModels**
 
@@ -240,6 +309,17 @@ Framework de programación de red basado en eventos escrito en Python y licencia
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## V
 
 ### **Vidgear**
@@ -253,6 +333,7 @@ Vidgear, es una poderosa librería dedicada al procesamiento de vídeo construid
 Software, programa o sistema que implementa, gestiona y controla múltiples instancias de entorno virtual. Una herramienta para crear entornos aislados de Python . Virtualenv le permitirá definir entornos de tiempo de ejecución Python aislados sin dañar la instalación de Python raíz o del sistema.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## W
 
@@ -271,5 +352,18 @@ Framework web para Python que es tan simple como poderoso. Web.py está en el do
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [👈 Regresar al Glosario de Ciberninjas](/glosario){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 El **glosario de Python** fue creada el *13 de Mayo de 2020* y su última edición fue realizada el *20 de Mayo de 2020*.
 {: .notice--info}
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
