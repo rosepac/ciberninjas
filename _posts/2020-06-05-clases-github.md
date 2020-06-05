@@ -23,7 +23,7 @@ canonical_URL: https://ciberninjas.com/github-classroom/
 permalink: /github-classroom/
 date: 2020-06-05
 last_modified_at: 
-published: false
+published: true
 
 ---
 
