@@ -1,8 +1,9 @@
 ---
-author_profile: true
-title: "🥇 ▷ Videojuegos gratis para descargar 2020"
-description: "🔥 Las mejores páginas de videojuegos gratuitos para jugar en PC, online o descargar durante todos los meses del año"
-excerpt: "🔥 Las mejores páginas de videojuegos gratuitos para jugar en PC, online o descargar durante todos los meses del año"
+author_profile: false
+classes: wide
+title: "🥇 ▷ Los mejores 45 juegos gratis para PC 2020: Los más espectaculares videojuegos gratuitos para descargar"
+description: "Jugar los mejores juegos gratis es el camino más rápido para ahorrar mucho dinero en efectivo y al mismo tiempo obtener la mejor experiencia de juego. Elegimos 45 de los mejores juegos gratuitos que se ofrecen en este momento, por lo que puede elegir en 2020."
+excerpt: "Jugar los mejores juegos gratis es el camino más rápido para ahorrar mucho dinero en efectivo y al mismo tiempo obtener la mejor experiencia de juego. Elegimos 45 de los mejores juegos gratuitos que se ofrecen en este momento, por lo que puede elegir en 2020."
 permalink: /videojuegos-gratis/
 canonical_URL: https://ciberninjas.com/videojuegos-gratis/
 classes: wide
@@ -10,19 +11,17 @@ header:
   teaser: https://i.ibb.co/cvCZqW2/gamer-jugando.gif
   overlay_image: https://i.ibb.co/N22jWGY/gamer-girl.jpg
   overlay_filter: 0.2
-  image_description: 'Las mejores páginas de videojuegos gratuitos para jugar en PC, online o descargar durante todos los meses del año'
-  image_alt: 'Las mejores páginas de videojuegos gratuitos para jugar en PC, online o descargar durante todos los meses del año'
+  image_description: 'Jugar los mejores juegos gratis es el camino más rápido para ahorrar mucho dinero en efectivo y al mismo tiempo obtener la mejor experiencia de juego. Elegimos 45 de los mejores juegos gratuitos que se ofrecen en este momento, por lo que puede elegir en 2020.'
+  image_alt: 'Jugar los mejores juegos gratis es el camino más rápido para ahorrar mucho dinero en efectivo y al mismo tiempo obtener la mejor experiencia de juego. Elegimos 45 de los mejores juegos gratuitos que se ofrecen en este momento, por lo que puede elegir en 2020.'
   caption: "**Flickr**: [@ awee_19](https://www.flickr.com/photos/mystical-mii/)"
-#  actions:
-#    - label: "Black Friday 2019"
-#      url: "/black-friday-amazon/"
-#    - label: "Consolas & Videojuegos"
-#      url: "/videojuegos/"
-#    - label: "Disney"
-#      url: "/disney-frozen-amazon/"
+  actions:
+    - label: "🎁 Mejores Novedades de 2020"
+      url: "https://www.amazon.es/shop/cibercursos?listId=3LKJC0W67ZV12"
+    - label: "🎮 Novedades Playstation 4"
+      url: "https://www.amazon.es/shop/cibercursos?listId=3UW0R0XIP0RL4"
 comments: false
-date: 2019-12-05 18:00:00 +0200
-last_modified_at: 2020-02-21 13:39:18 +0200
+date: 2020-05-26 18:00:00 +0200
+last_modified_at: 
 published: true
 tags:
   - Videojuegos
@@ -40,8 +39,45 @@ categories:
 🤞 Este artículo se irá actualizando a lo largo del tiempo.. 🕹
 {: .notice--info}
 
-Esta es una pequeña recopilación de las mejores páginas web en las que encontrar videojuegos totalmente gratis, además de páginas que eventualmente van publicitando algunos juegos gratis temporalmente.
+Esta es una colección de los 45 mejores juegos gratis para el año 2020. Además, vas a poder encontrar todos los enlaces a las mejores páginas web  de videojuegos gratuitos de Internet, desde las que encontrar los mejores videojuegos totalmente gratis.
 
+Además de otras páginas web, que eventualmente van publicando juegos gratis de forma constante.
+
+### **Los mejores 45 videojuegos gratuitos**
+
+## 1. **Fortnite Battle Royale**
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/N56V7hd3Fqk?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
+
+Battle Royale es el juego más importante en estos momentos, y Epic Games lo ha refinado a la perfección con su nueva versión Fortnite Battle Royale. Originalmente diseñado como una especie de complemento para Fortnite, Battle Royale explotó de una manera que nadie esperaba, convirtiéndose rápidamente en uno de los mejores juegos gratuitos de 2020.
+
+Fortnite Battle Royale se basa completamente en un espacio abierto: te dejan caer en un mapa con otros 99 jugadores en un combate cuerpo a cuerpo, y el último que logra quedar en pie al finalizar el tiempo; gana. Debido a su éxito meteórico, Epic Games está trabajando duro para integrar constantemente nuevos modos de juego y nuevas funciones.Como el modo Zona de Juegos, por ejemplo: que te deja en el mapa y te permite construir estructuras durante un tiempo determinado antes de que se abran la veda y comience la carnicería entre los jugadores.
+
+Lo que es absolutamente genial es que con Fortnite, puedes jugar con tus amigos, independientemente de la plataforma en la que te encuentres; ya sea que estés en PC, Xbox One, iOS, Android o PS4, podrás enfrentarte a millones de otros jugadores de todas las demás plataformas.
+
+[🎮 GRATIS 🎮](https://www.epicgames.com/fortnite/es-ES/download){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 2. **Dota 2**
+
+El universo Dota puede haber evolucionado a partir de un mod de WarCraft 3, pero Dota 2 posee en gran medida su propia entidad y se ha convertido, por merecimiento propio, en uno de los mejores juegos gratuitos de 2020.
+
+Este videojuego de arenas, ha atraído a fondos multimillonarios para la creación de torneos profesionales muy serios; y sin embargo, Dota sigue teniendo lugar para los jugadores más hardcore y experimentados, como para los más aprendices y más inexpertos.
+
+Un breve tutorial te muestra cómo jugar, al igual que la Comunidad Steam que ofrece te guías para el MOBA original. No esperes una cálida bienvenida o una curva de aprendizaje fácil gracias a su compleja mecánica de juego. Sin embargo, puedes juntarte con tus amigos y Dota 2 te tendrá enganchado a una de las mayores locuras en la historia de las PC durante mucho tiempo.
+
+[🎮 GRATIS 🎮](https://blog.dota2.com/?l=english){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 3. **Planetside 2**
+
+Dos años antes de Destiny, tuvimos Planetside 2, una auténtica batalla épica en primera persona que es tan increíble que querrás pellizcarte cada vez que lo inicies solo para recordarte que este juego tan increíble es completamente gratis. Hay compras dentro del juego, naturalmente, pero sin embargo; aún puedes entrar al campo de batalla más grande de los juegos y aún podrás pasara muchos momentazos divertidos con tu set de inicio.
+
+Simplemente no hay nada tan emocionante como participar en un asalto masivo a una base enemiga y salir hacía la cima, o existir dentro de un mundo donde un convoy enemigo podría saquearte desde el horizonte, en cualquier momento. Planetside 2 es una prueba de que "gratis" no significa prosaico.
+
+[🎮 GRATIS 🎮](https://www.planetside2.com/register){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 GRATIS 🎮](https://www.epicgames.com/fortnite/es-ES/download){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 GRATIS 🎮](https://www.epicgames.com/fortnite/es-ES/download){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+<!-- https://www.techradar.com/news/gaming/top-40-best-free-games-you-should-play-today-695473 -->
 ## Páginas de Videojuegos Gratis 🎁
 
 Las mejores páginas web del mundo en las que vas a poder encontrar tanto los videojuegos que siempre son totalmente gratuitos; como así, las mejores promociones de juegos gratuitos periódicamente.
@@ -51,6 +87,8 @@ Las mejores páginas web del mundo en las que vas a poder encontrar tanto los vi
 * [Indie Gala Juegos Gratis](https://kutt.it/videojuegos-gratis-indie-gala){:target="_blank" rel="nofollow,noreferrer"}: Se actualizan con frecuencia \ Actualmente: Die Young, The Fan, Waste Walker, Super Panda, Jasem Puzzle.
 * [Itch io](https://kutt.it/itch-videojuegos-alternativos-gratis) \ 
 * Reddit \ [FreeGameFindings](https://kutt.it/vg-reddit-1){:target="_blank" rel="nofollow,noreferrer"} \ [Free Games](https://kutt.it/vg-reddit-2){:target="_blank" rel="nofollow,noreferrer"} 
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Juegos Gratis para PC y Móviles 📲
 
@@ -67,6 +105,7 @@ Juegos y aplicaciones de Iphone. Actualmente: spinny Monster, NewfyMoji, Cross S
 [📲 JUEGOS DE IPHONE GRATIS A DIARIO 📲](https://iphone.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Más Páginas 🙀
 
@@ -74,6 +113,7 @@ Juegos y aplicaciones de Iphone. Actualmente: spinny Monster, NewfyMoji, Cross S
 * [PiviGames](https://pivigames.blog/){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## JUEGOS CLÁSICOS 🕹
 
@@ -120,6 +160,8 @@ The Cycle es un juego competitivo de disparos y misiones (JcEcJ) que ofrece una 
 
 [🎮 DESCARGA THE CYCLE 🎮](https://thecycle.game/?lang=es){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## VIDEOJUEGOS RETRO 🕹
 
 ## Die Young: Prólogo \ IndieGala
@@ -154,14 +196,6 @@ Alien Swarm es un videojuego shotter y multijugador desarrollado por Valve. El o
 [🎮 INSTALAR GRATIS 🎮](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## FORTNITE & OTRAS ALTERNATIVAS 🔫
-
-El juego de moda por excelencia es el Fortnite de eso no cabe duda alguna a estas alturas del año 2019..
-
-## Fortnite
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/N56V7hd3Fqk?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
-
-[🎮 GRATIS 🎮](https://www.epicgames.com/fortnite/es-ES/download){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Existen algunas otras alternativas, más o menos conocidas, la más destacable para mi son..
 
@@ -236,6 +270,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 [🎮 GRATIS 🎮](https://store.steampowered.com/app/813820/Realm_Royale/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Postal \ GOG
 
@@ -245,7 +280,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 [🎮 + PORTAL 1 GRATIS 🎮](https://www.gog.com/game/postal_classic_and_uncut){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- ## PRÓXIMAMENTE 💣 -->
 <!-- Ahora mismo no existen juegos gratuitos pendientes de ser liberados..
 {: .notice--info} -->
@@ -435,3 +470,54 @@ La exploración generalmente implica explorar varias etapas, con algunos gigante
 
 [📰 Noticias Videojuegos](/directo/#-videojuegos){: .btn .btn--warning .btn--large .align-center}
 [🎨 Wallpapers](https://ibb.co/album/bKkgdv){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+### Índice <!-- omit in toc -->
+- [1. **Fortnite Battle Royale**](#1-fortnite-battle-royale)
+- [2. **Dota 2**](#2-dota-2)
+- [3. **Planetside 2**](#3-planetside-2)
+- [Páginas de Videojuegos Gratis 🎁](#p%c3%a1ginas-de-videojuegos-gratis-%f0%9f%8e%81)
+- [Juegos Gratis para PC y Móviles 📲](#juegos-gratis-para-pc-y-m%c3%b3viles-%f0%9f%93%b2)
+- [Más Páginas 🙀](#m%c3%a1s-p%c3%a1ginas-%f0%9f%99%80)
+- [JUEGOS CLÁSICOS 🕹](#juegos-cl%c3%81sicos-%f0%9f%95%b9)
+- [GRATIS AHORA 🎉](#gratis-ahora-%f0%9f%8e%89)
+- [Epic Games](#epic-games)
+- [Otros Juegos Gratis de Epic Games](#otros-juegos-gratis-de-epic-games)
+  - [Auto Chess](#auto-chess)
+  - [Battle Breakers](#battle-breakers)
+  - [The Cycle](#the-cycle)
+- [VIDEOJUEGOS RETRO 🕹](#videojuegos-retro-%f0%9f%95%b9)
+- [Die Young: Prólogo \ IndieGala](#die-young-pr%c3%b3logo--indiegala)
+- [JUEGOS DE ACCIÓN GRATIS 🪓](#juegos-de-acci%c3%93n-gratis-%f0%9f%aa%93)
+- [DreadLands Beta \ Steam](#dreadlands-beta--steam)
+- [Alien Swarm: Reactive Drop \ Steam](#alien-swarm-reactive-drop--steam)
+- [FORTNITE & OTRAS ALTERNATIVAS 🔫](#fortnite--otras-alternativas-%f0%9f%94%ab)
+- [Dauntless \ RPG de Cacería](#dauntless--rpg-de-cacer%c3%ada)
+- [Ring of Elysium](#ring-of-elysium)
+- [PUBG Lite & CS GO](#pubg-lite--cs-go)
+  - [PUBG Lite](#pubg-lite)
+  - [CS GO](#cs-go)
+- [Knives Out](#knives-out)
+- [Rules of Survival](#rules-of-survival)
+- [Apex Legends](#apex-legends)
+- [WarFrame](#warframe)
+- [Realm Royale](#realm-royale)
+- [Postal \ GOG](#postal--gog)
+- [REGALADOS CON ANTERIORIDAD 😿](#regalados-con-anterioridad-%f0%9f%98%bf)
+- [Teatro de Guerra 2: África 1943 \ IndieGala](#teatro-de-guerra-2-%c3%81frica-1943--indiegala)
+- [UberSoldier II \ IndieGala](#ubersoldier-ii--indiegala)
+- [Mahjong Strip Solitario \ IndieGala](#mahjong-strip-solitario--indiegala)
+- [Lady´s Hentai Mosaic \ IndieGala](#lady%c2%b4s-hentai-mosaic--indiegala)
+- [Crab Due \ IndieGala](#crab-due--indiegala)
+  - [Quibic: Juego Gratis Cada Día](#quibic-juego-gratis-cada-d%c3%ada)
+  - [The Wolf Among Us \ Epic Games](#the-wolf-among-us--epic-games)
+  - [The Escapist \ Epic Games](#the-escapist--epic-games)
+- [Ascension al Trono \ IndieGala](#ascension-al-trono--indiegala)
+- [Haciendo Historia \ IndieGala](#haciendo-historia--indiegala)
+- [Black Survival - Alpha \ Steam](#black-survival---alpha--steam)
+- [Postal 2 \ GOG](#postal-2--gog)
+  - [Draw Slasher \ Steam](#draw-slasher--steam)
+  - [Wasteland 2](#wasteland-2)
+  - [Jotun: Valhalla \ Epic Games](#jotun-valhalla--epic-games)
+  - [Rayman Legends \ Epic Games](#rayman-legends--epic-games)
+  - [Zombie Driver HD \ Steam](#zombie-driver-hd--steam)
