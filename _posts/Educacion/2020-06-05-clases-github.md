@@ -3,7 +3,6 @@
 author_profile: true
 comments: false
 classes: wide
-layout: splash
 tags:
 - Github
 categories:
