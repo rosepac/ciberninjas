@@ -73,6 +73,8 @@ Solamente debes conectarte con tu cuenta de Github o entrar desde el apartado de
 
 [🎓 Probar Github Classroom](https://classroom.github.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
+[🛠 Visita Nuestros Recursos](https://kutt.it/recursos-flujos-trabajo){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
