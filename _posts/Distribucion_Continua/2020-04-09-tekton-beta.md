@@ -1,6 +1,5 @@
 ---
-author_profile: false
-layout: splash
+author_profile: true
 classes: wide
 title: "¡Disponible Tekton Beta! ¡El proyecto Tekton se encuentra buscando colaboradores, beta testers y más!"
 description: "Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo al estado beta con el lanzamiento de v0.11.0 esta semana. Tekton es un proyecto de código abierto que crea una nube nativa.."
@@ -8,7 +7,7 @@ excerpt: "Tekton Pipelines, el componente central del proyecto Tekton, se está 
 published: true
 comments: false
 date: 2020-05-11 19:10:12
-last_modified_at: 2020-05-12 19:10:12
+last_modified_at: 2020-06-09 19:10:12
 header:
   teaser: /assets/images/blog/pagina-tekton.webp
   image_description: '¡Tekton Beta disponible ahora! ¡Busca colaboradores del Catálogo de tareas de Tekton, beta testers y más'
@@ -40,6 +39,17 @@ Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo a
 
 Tekton es un proyecto de código abierto que crea un marco nativo de la nube que puede usar para configurar y ejecutar tuberías de integración continua y entrega continua (CI / CD) dentro de un clúster de Kubernetes.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## [¡Prueba Tekton ahora!](https://github.com/tektoncd/pipeline)
 
 El desarrollo de Tekton comenzó como Knative Build antes de convertirse en un proyecto fundador de la Fundación CD bajo la Fundación Linux el año pasado.
@@ -48,9 +58,20 @@ El proyecto [Tekton](https://kubernetes.io/docs/reference/using-api/deprecation-
 
 Esto significa que se puede confiar en la estabilidad general del nivel beta. Tenga en cuenta que los disparadores de Tekton, el tablero de instrumentos de Tekton, la CLI de Tekton Pipelines y otros componentes siguen siendo alfa y pueden seguir evolucionando de una versión a otra. 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Tekton alienta a todos los proyectos y usuarios de Tekton a migrar sus integraciones a la nueva apiVersion. Los usuarios de Tekton pueden ver [la guía de migración](https://github.com/tektoncd/pipeline/blob/master/docs/migrating-v1alpha1-to-v1beta1.md){:target="_blank" rel="nofollow,noreferrer"} sobre cómo migrar de v1alpha1 a v1beta1.
 
-## [Lista completa de características, avisos de obsolescencia, documentos, agradecimientos y mucho más](https://github.com/tektoncd/pipeline/releases/tag/v0.11.0-rc1)
+### [Lista completa de características, avisos de obsolescencia, documentos, agradecimientos y mucho más](https://github.com/tektoncd/pipeline/releases/tag/v0.11.0-rc1){:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Quién está usando Tekton?**
 
@@ -71,3 +92,16 @@ Tekton se encuentra en su segundo año de desarrollo y actualmente está siendo 
 [Historia de entrega continua de Dailymotion con Jenkins, Jenkins X y Tekton](https://ciberninjas.com/dailymotin-jenkins-tekton/)
 
 [▷ Se celebra la Cumbre de la Fundación CD](https://ciberninjas.com/cumbre-cd-nuevos-miembros/)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
