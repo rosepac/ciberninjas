@@ -8,8 +8,8 @@ tags:
 categories:
 - Distribución Continua
 header:
-  teaser: /assets/images/blog/
-  overlay_image: /assets/images/blog/
+  teaser: /assets/images/blog/google-summer-code-2.webp
+  overlay_image: /assets/images/blog/google-summer-code-2.webp
   overlay_filter: 0.2
   image_description: 'La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.'
   image_alt: 'La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.'
@@ -133,9 +133,6 @@ Supratik Das: [Mejora la integración SCM](https://summerofcode.withgoogle.com/p
 
 - Las dos áreas clave en las que se mejorará Destornillador son la introducción de claves de implementación para el manejo continuo de repositorios privados y la activación de compilaciones desde repositorios SCM externos.
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
-{: .notice--danger}
-
 🔥 Seguro también te interesa: [15 Mejores alternativas a Jenkins en 2020](https://ciberninjas.com/jenkins-alternativas/) >> [▷ ¿Qué es Tekton? Novedades y Cambios](https://ciberninjas.com/que-es-tekton/) >> [▷ Introducción a Zuul para mejorar el CI / CD](https://ciberninjas.com/introduccion-zuul-open-source/)
 {: .notice--danger}
 
@@ -149,5 +146,7 @@ Supratik Das: [Mejora la integración SCM](https://summerofcode.withgoogle.com/p
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+![La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.](/assets/images/blog/google-summer-code-2.webp "La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
