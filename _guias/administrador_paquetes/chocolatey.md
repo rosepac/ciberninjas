@@ -3,6 +3,7 @@ title: 🍫 ▷ Chocolatey, Aprender Desde Cero
 description: "📌 Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows."
 excerpt: "📌 Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows."
 classes: wide
+author_profile: true
 published: true
 comments: false
 date: 2020-06-09 13:03:36
@@ -21,11 +22,25 @@ header:
 # toc_icon: user-ninja
 # toc_sticky: true
 ---
+
+Chocolatey es el mejor instalador múltiple y administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows.
+
 ## 📌 Introducción
 
 Si eres un auténtico **ciberninja** seguro que eres un amante de probar todo software que encuentras, te parece interesante o te aconsejan.
 
 Lo que con toda seguridad más de un día, te habrá hecho echar humo, al terminar harto de pulsar siguiente, siguiente, siguiente en la instalación de ese engorroso programa o de realizar constantes actualizaciones de los software.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Muchas veces nos obligan a descargar de nuevo archivos **_.exe_** para poder actualizar. Si te ha ocurrido algo de lo arriba citado: **Chocolatey**, es la solución perfecta a todo ello.
 
@@ -36,6 +51,17 @@ Igual que desde hace ya bastante tiempo, existe el instalador múltiple de [Nini
 Chocolatey es un gestor de paquetes e instalador a nivel de máquina para paquetes de software, creado para la plataforma Windows.
 
 El motor de ejecución utiliza la infraestructura de empaquetado de NuGet y Windows PowerShell para proporcionar una herramienta de automatización e instalar software en máquinas Windows y fue diseñado para simplificar el proceso desde la perspectiva del usuario.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 El nombre es una extensión en un juego de palabras de NuGet (de &#171;nougat&#187; en español, turrón) porque todo el mundo ama Chocolatey (de &#171;nougat chocolat&#187; en español, turrón de chocolate).
 
@@ -63,7 +89,22 @@ Para los clientes de Chocolatey, necesitarás lo siguiente:
 - La CLI de Chocolatey tiene un impacto de 15 MB en la instalación predeterminada más el espacio que utilizan los paquetes instalados.
 - Chocolatey GUI ocupa otros 50–100 MB de espacio en la instalación predeterminada.
 - Recomendación de Espacio a la Hora de realizar instalaciones de programas grandes.
-- Recomendamos suficiente espacio libre para las aplicaciones que instalará más 1 GB adicional para permitir que Chocolatey procese eso. Deseará activar el Reductor de paquetes (ediciones comerciales) si lo tiene para reducir realmente el impacto de los paquetes integrados, lo que brinda confiabilidad pero también aumenta la huella (a menos que tenga el Reductor de paquetes). Si no tiene Package Reducer y está incrustando binarios en nupkgs, necesitará 3 veces el espacio de lo que está instalando a menos que limpie explícitamente los instaladores / zips extraídos en sus scripts automatizados, entonces necesitará 2 veces más espacio cuando se considera que nupkg seguirá conteniendo binarios incrustados (y el nupkg debe permanecer). Desafortunadamente, esto será un cálculo para comprender los requisitos de espacio exactos y realmente depende de lo que instalará.
+- Recomendamos suficiente espacio libre para las aplicaciones que instalará más 1 GB adicional para permitir que Chocolatey procese eso.
+ 
+Deseará activar el Reductor de paquetes (ediciones comerciales) si lo tiene para reducir realmente el impacto de los paquetes integrados, lo que brinda confiabilidad pero también aumenta la huella (a menos que tenga el Reductor de paquetes).
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Si no tiene Package Reducer y está incrustando binarios en nupkgs, necesitará 3 veces el espacio de lo que está instalando a menos que limpie explícitamente los instaladores / zips extraídos en sus scripts automatizados, entonces necesitará 2 veces más espacio cuando se considera que nupkg seguirá conteniendo binarios incrustados (y el nupkg debe permanecer). Desafortunadamente, esto será un cálculo para comprender los requisitos de espacio exactos y realmente depende de lo que instalará.
 
 ### Requisitos de Memoria Ram
 
@@ -78,6 +119,17 @@ Para los clientes de Chocolatey, necesitarás lo siguiente:
 Con **Chocolatey** solo debes redactar una pequeña línea de código agregando los comandos adecuados posteriormente a la propia instalación -de Chocolatey en sí- e instantáneamente tendremos el programa instalado. **Así de fácil**.
 
 Si eres un usuario de Linux ya estarás acostumbrado a este estilo de instalaciones; puesto que **Chocolatey,** viene a traer a **Windows**; una metodología de instalación y actualización similar a la usada sobre los Sistemas Operativos de Linux desde hace ya, mucho tiempo atrás.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 El enfoque es la búsqueda de facilitar al máximo las instalaciones a los usuarios de Windows.
 
@@ -118,6 +170,17 @@ Si quieres conocer todos los comandos existentes dentro de Chocolatey, solo debe
 - _**optimize**_: optimiza la instalación, reduciendo el uso de espacio
 
 Por favor, se debe ejecutar chocolate con ```choco command -help``` para mostrar la ayuda específica de cada comando.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
