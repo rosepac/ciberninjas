@@ -2,14 +2,26 @@
 
 title: Polar, biblioteca que te ofrece el servicio de organizador de libros y páginas
 published: true
+layout: splash
+classes: hide
+header:
+  teaser: /assets/images/blog/polar-software.webp
+  overlay_image: /assets/images/blog/polar-software.webp
+  overlay_filter: 0.2
+  image_description: 'POLAR es un potente navegador sin conexión para Mac , Windows y Linux para administrar todo su contenido web, libros y notas.'
+  image_alt: 'POLAR es un potente navegador sin conexión para Mac , Windows y Linux para administrar todo su contenido web, libros y notas.'
+description: >-
+  POLAR es un potente navegador sin conexión para Mac , Windows y Linux para administrar todo su contenido web, libros y notas. En Polar se mantiene todo el contenido en un solo lugar, admite etiquetado, anotación, resaltado y realiza un seguimiento de su progreso de lectura.
+excerpt: >-
+  POLAR es un potente navegador sin conexión para Mac , Windows y Linux para administrar todo su contenido web, libros y notas. En Polar se mantiene todo el contenido en un solo lugar, admite etiquetado, anotación, resaltado y realiza un seguimiento de su progreso de lectura.
 author_profile: true
 comments: false
-date: 2019-01-27 10:01:33
+date: 2020-06-08 10:01:33
 tags:
     - Ofimática
 categories:
     - Software
-permalink: /polar-biblioteca-que-te-ofrece-el-servicio-de-organizador-de-libros-y-paginas
+permalink: /polar-biblioteca/
 
 ---
 
@@ -17,7 +29,16 @@ permalink: /polar-biblioteca-que-te-ofrece-el-servicio-de-organizador-de-libros-
 
 Anote documentos directamente mientras los lee y sincronice con sistemas de repetición espaciados como [Anki](https://ankiweb.net){:target="_blank" rel="nofollow,noreferrer"}.
 
-![Software Polar, un perfecto organizador de documentos que te servirá de gestión. Mundo Framework por rosepac](https://mundoframework.com/wp-content/uploads/2019/01/polar-captura-1.png)<figcaption>Software Polar, un perfecto organizador de documentos que te servirá de gestión. Mundo Framework por rosepac</figcaption>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Características
 
@@ -33,14 +54,23 @@ Realice fácilmente un seguimiento de lo que está leyendo y el progreso de cada
 El contenido se almacena localmente, lo que significa que puedes usar **Polar** sin conexión. Además, la sincronización a través de la nube te permite su uso en otras computadoras.
 - **Hackeable**  
 El sistema se basa en [Electron](https://kutt.it/electron), [Node](https://kutt.it/nodejs), [pdf.js](https://kutt.it/pdfjs), y [React](https://kutt.it/reactrosepac)
-- **Basado en estándares**  
+- **Basado en estándares** 
 El contenido se almacena como [JSON](https://kutt.it/json) en un esquema bien documentado. Las anotaciones nunca cambian el contenido original que mantiene seguro el repositorio de documentos.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Anotaciones
 
 Las anotaciones son una característica central de **POLAR**. Mientras lees documentos, puedes subrayar el texto o crear áreas destacadas.
-
-![Diferentes métodos de anotación, y barra lateral que las muestra. Mundo Framework por rosepac](https://mundoframework.com/wp-content/uploads/2019/01/polar-captura-anotaciones.png)<figcaption>Diferentes métodos de anotación, y barra lateral que las muestra. Mundo Framework por rosepac</figcaption>
 
 Una vez creado, puede adjuntar metadatos adicionales a las anotaciones, como comentarios y _flashcards_.
 
@@ -50,20 +80,28 @@ Las anotaciones son fácilmente accesibles en la barra lateral. Puede crear tarj
 
 ## Contenido web
 
-**Polar** admite la lectura y anotación de documentos **HTML**. Llamamos a este proceso ‘capturar’ contenido y almacenamos el documento permanentemente en su propio archivo privado.  
+**Polar** admite la lectura y anotación de documentos **HTML**. Llamamos a este proceso ‘capturar’ contenido y almacenamos el documento permanentemente en su propio archivo privado.
+
 Como la mayoría de las páginas no están diseñadas para leer y tienen anuncios, y otras molestias dentro de la página, representamos el contenido como un dispositivo de tableta para que el contenido sea más legible.
 
 ## Estadísticas de etiquetas
 
 Un curioso apartado, es el apartado de estadísticas que te muestra sobre un gráfico la utilización de las etiquetas que vas incluyendo dentro de tus documentos.
 
-![Gráfica de la estadística de etiquetas. Mundo Framework por rosepac](https://mundoframework.com/wp-content/uploads/2019/01/polar-stats.png)<figcaption>Gráfica de la estadística de etiquetas. Mundo Framework por rosepac</figcaption>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Repositorio de documentos
 
 El repositorio de documentos te permite administrar tus documentos en un solo lugar: ordénalos por progreso de lectura o agregados, archiva y filtra los documentos marcados. Permite la inclusión de etiquetas en cada documento específico.
-
-![Apartado encargado de gestionar las etiquetas, que funciona perfectamente dentro de Polar. Mundo Framework por rosepac](https://mundoframework.com/wp-content/uploads/2019/01/polar-etiquetas.png)<figcaption>Apartado encargado de gestionar las etiquetas, que funciona perfectamente dentro de Polar. Mundo Framework por rosepac</figcaption>
 
 Los documentos se pueden abrir haciendo doble clic sobre ellos para abrir en una nueva ventana.
 
@@ -78,8 +116,6 @@ En su versión gratis, te permite hasta 100 documentos de almacenamiento para tu
 En este vídeo podemos apreciar cómo funciona la captura de páginas web.
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/wx2gRb695yo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-***
 
 **Página web & Descarga** : _[Polar](https://getpolarized.io/)_
 {: .notice--info}

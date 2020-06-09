@@ -2,21 +2,24 @@
 title: 🍫 ▷ Chocolatey, Aprender Desde Cero
 description: "📌 Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows."
 excerpt: "📌 Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows."
+classes: wide
 published: true
 comments: false
-date: 2018-03-01 07:03:36
-last_modified_at: 2019-10-11T18:29:02-05:00
+date: 2020-06-09 13:03:36
+last_modified_at:
 permalink: /chocolatey/
 canonical_URL: https://ciberninjas.com/chocolatey/
 header:
-  image: "/assets/images/chocolatey-ciberninjas.jpg"
-  image_description: Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows
+  overlay_image: "/assets/images/blog/chocolatey-ciberninjas.webp"
+  overlay_filter: 0.2
+  image_description: Chocolatey es el mejor instalador múltiple y administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows
+  image_alt: Chocolatey es el mejor instalador múltiple y administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows
   caption: "**Créditos**: Creación Propia"
-  teaser: "/assets/images/chocolatey-ciberninjas.jpg"  
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+  teaser: "/assets/images/blog/chocolatey-ciberninjas.webp"  
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
 ---
 ## 📌 Introducción
 
@@ -140,7 +143,7 @@ En ambos casos debemos de tener en cuenta que deben ser ejecutadas como administ
 
 Luego simplemente pegar el código y pulsar **ENTER**. Finalmente solo deberemos entrar [aquí][3]:
 
-![Página del Software a disposición en Chocolatey \ Visto en Ciberninjas](https://i.ibb.co/6W80PSc/1-tk-Vou-Rr-Dr0-f-VNJUILJTVw.png)
+![Página de la lista del Software a disposición en Chocolatey \ Visto en Ciberninjas](/assets/images/blog/chocolatey-software.webp "Página de la lista del Software a disposición en Chocolatey \ Visto en Ciberninjas")
 
 Desde está página debemos ir buscando el Software o ‘Package’ que deseamos utilizar para poder copiar la línea de código adecuada o bien podríamos probar suerte, puesto que la línea de código es siempre la misma y bien sencilla, simplemente los comandos siguientes:
 
@@ -158,7 +161,7 @@ Ejecutando la siguiente línea:
 
 > Enter!!! 💻 
     
-![Ejecución del comando de instalación de Zeal sobre PowerShell \ Visto en Ciberninjas](https://i.ibb.co/Czw2hwQ/1-74-B-D0hg-Tua-H1e-FExwkq-Fg.png)
+![Ejecución del comando de instalación de Zeal sobre PowerShell \ Visto en Ciberninjas](/assets/images/blog/chocolatey-powershell.webp "Ejecución del comando de instalación de Zeal sobre PowerShell \ Visto en Ciberninjas")
     
 Luego de ver los diferentes procesos que **Chocolatey** va realizando sobre la consola, tendremos el Software instalado y preparado para funcionar!
 
@@ -168,9 +171,9 @@ Luego de ver los diferentes procesos que **Chocolatey** va realizando sobre la c
     
 El programa que hemos aprendido a instalar, se denomina Zeal.
     
-![Zeal Software Instalado \ Visto en Ciberninjas](https://i.ibb.co/JmLK4Jz/1-v-UPK-nw-5q-Oxugca-Ba-RAhg.png)
-    
-Zeal es un programa muy interesante para todas las personas del mundo de la programación, que se basa en la creación de un navegador de documentación fuera de línea para desarrolladores de software.
+![Programa gestor de repositorios de documentación Zeal \ Visto en Ciberninjas](/assets/images/blog/zeal-4.webp "Programa gestor de repositorios de documentación Zeal \ Visto en Ciberninjas")
+
+Zeal es un aplicación muy interesante para todas las personas del mundo de la programación, que se basa en la creación de un navegador de documentación fuera de línea para desarrolladores de software.
 
 Espero presentarlo en una entrada más completa 💘
 
@@ -193,6 +196,11 @@ Espero presentarlo en una entrada más completa 💘
  [2]: https://cdn-images-1.medium.com/max/800/1*c_Zwtu7DvFddUnHspVKl1Q.png
  [3]: https://kutt.it/chocolatey_paquetes
  [4]: https://cdn-images-1.medium.com/max/800/1*tkVouRrDr0_fVNJUILJTVw.png
+
+![Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows](/assets/images/blog/chocolatey-ciberninjas.webp "Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows")
+
+Esta guía fue creada originalmente el *01 de Marzo de 2018* y actualizado por última vez el *09 de Mayo de 2020*.
+{: .notice--info}
 
 ### **Relacionados**
 
