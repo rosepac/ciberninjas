@@ -23,7 +23,7 @@ canonical_URL: https://ciberninjas.com/documental-helvetica/
 permalink: /documental-helvetica/
 date: 2020-06-08 19:32:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
