@@ -24,6 +24,19 @@ header:
 
 Guía completa y extensa de aprendizaje e introducción a la programación y el desarrollo web más actual. La estructura de la guía se basa en diferentes apartados que se han ido considerando importantes con el paso del tiempo, así como se ha considerado también importante incluir una extensa guía explicativa sobre todos los diferentes empleos relacionados con el ámbito tecnológico, entre otros puntos importantes; a saber.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ➡ La guía se encuentran en constante actualización / ampliación / modificación.<br/>
 🔔 Se complementa a la perfección con [nuestro blog](https://ciberninjas.com/blog/), vas a encontrar múltiples artículos / guías / tutoriales, etc.<br />
 📰 Síguenos en tu lector de [RSS favorito](https://ciberninjas.com/feed.xml){:target="_blank" rel="nofollow,noreferrer"}<br />
@@ -49,9 +62,6 @@ Guía completa y extensa de aprendizaje e introducción a la programación y el 
 </details>
 <br />
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
-{: .notice--danger}
-
 ## Cómo aprender a programar código
 
 En esta primera sección, vamos a intentar realizar un resumen de los pasos que podemos seguir si estamos pensando en aprender a programar.
@@ -69,6 +79,18 @@ En esta primera sección, vamos a intentar realizar un resumen de los pasos que 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OPlGMplfEbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 [🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
 ## ¿En qué campo de la informática trabajar?
@@ -79,11 +101,15 @@ Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, e
 
 Según uno de los últimos [informes publicados por Github](https://github.blog/2020-01-24-the-state-of-the-octoverse-machine-learning/). Python es el lenguaje más utilizado para el aprendizaje automático combinado junto a la biblioteca TensorFlow, si eres capaz de aprender ambos junto al dominio del idioma del inglés; muy probablemente te vas a encontrar en una posición muy favorable con la que poder lograr un trabajo importante en el futuro.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Además, siempre que hablemos de machine learning no podemos dejar olvidado al eficaz lenguaje de R. Sin lugar a dudas el más importante en el cometido de generar estadísticas; este lenguaje capaz de analizar y manipular datos de forma masiva sin ningún tipo de problemas, ofrece varios paquetes que simplifican la implementación de algoritmos alrededor del flujo de trabajo del aprendizaje automático.
 
 ### Inteligencia Artificial / Deap Learning
 
 Si bien, lo que deseamos es trabajar en el campo de la inteligencia artificial, primero que nada debemos de saber que es un ámbito muy extenso; por todos los diferentes paradigmas que abarca. Casi podríamos agrupar todas las tecnologías del mundo de la programación y la robótica en el interior de cualquier proyecto que trabaje en la creación de una máquina inteligente; te serán requeridos los más avanzados conocimientos si deseas profundizar en este campo.
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Partiendo de la base más sólida posible de lógica computación, conjunto a una amplia base matemática (no totalmente indispensable pero si que es recomendable) junto a un buen entendimiento de muchas técnicas de "devops" y el más alto y avanzado nivel exigible del manejo, gestión y manipulación de los datos y las librerías tecnológicas dedicadas a indexar y manejar grandes masas críticas de información.
 
@@ -96,6 +122,17 @@ Si tu interés, es el de desarrollar aplicaciones móviles. Lo ideal sería que 
 
 Con la elección de Android, tu mejor apuesta sin lugar a dudas es el lenguaje de Java (al menos, por ahora) sin embargo, debes tener en cuenta que el desarrollo y despliegue de  Java enfocado en dispositivos móviles es diferente al de la programación en Java genérica. Por ejemplo, una aplicación de Android se puede cerrar en cualquier momento si no se ejecuta en primer plano, mientras que un programa de Java normal se mantiene en ejecución hasta ser cerrado.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 En cuanto a la programación para iOS es recomendable centrarse en el idioma oficial de Apple: Swift. Que recientemente, en Abril de 2020, ha alcanzado su versión 5. Este lenguaje es usado en toda la gama de productos de la compañía,  sobre iOS, macOS y otros códigos de múltiples productos más. Habrá personas que puedan sugerir Objective-C con el que es posible crear marcos e interfaces gráficas de usuario llenas de funciones, más, personalmente optaría por Swift puesto esta respaldado por la propia Apple y en principio, debería ser más fácil de estudiar.
 
 La tercera opción y quién sabe si pudiese ser la más práctica, sobre todo; quizás, en la situación de que lo que desees sea realizar una aplicación personal en vez de formarte con el objetivo de lograr entrar en una gran empresa: es Javascript.
@@ -105,7 +142,20 @@ Javascript, en combinación con HTML y CSS te permite crear aplicaciones que pue
 ## ¿Qué lenguaje aprender?
 
 Si algo está claro, es que es el tiempo del código. No existen dudas de que es el mejor campo de formación y trabajo en el involucrarse y dedicar todo tu tiempo.
+
 Al decidir qué lenguaje de programación aprender, es importante no quedar atrapado en tendencias llamativas y concursos de popularidad. Los mejores lenguajes de programación para aprender en 2020 son probablemente los mismos que fueron los mejores para aprender en 2017 y 2018, y eso seguirá siendo cierto durante los próximos años.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Aunque el campo de la programación de computadoras cambia rápidamente, todos los lenguajes que en esta página citamos tienen mucho poder de permanencia. Al aprender uno o más de estos idiomas, estarás en una posición excelente no solo para este año, sino en los próximos años.
 Al comenzar su viaje hacia la programación, solo tú puedes responder la pregunta de cual es el mejor lenguaje de programación para aprender. Realiza tu selección en función de tus intereses y el tipo de desarrollo de software que deseas. Aquí tienes un breve resumen de diferentes posibilidades:
 
@@ -122,11 +172,22 @@ El contenido de este listado es totalmente orientativo, un poco más abajo puede
 
 La buena noticia es que no hay una forma única de aprender a codificar y se hace más fácil a medida que uno avanza en el aprendizaje. Al igual que aprender español te ayudará con la gramática y el vocabulario francés, aprender un lenguaje de programación te ayudará a construir una base de conocimientos que hará más fácil aprender el siguiente.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Si descubres que un idioma determinado no es una buena opción, no es una causa perdida, puedes utilizar lo que ya has aprendido para aprender el siguiente. Procura aplicar activamente tu conjunto de habilidades y mejorar tus habilidades de codificación, todo lo que necesitas hacer es comenzar desde ya.
 
 ## ¿Qué lenguajes evitar?
 
-Existen muchos más lenguajes de programación, entre los más populares ahora se encuentran Rust, Go, Scala, Typescript o C ++. No obstante, si estas comenzando a desenvolverte en la creación de software has de considerar que muchos idiomas son avanzados, complejos, conllevan una curva de aprendizaje muy elevada o están enfocados en un solo dominio de aplicación; por lo que requieren un consumo de horas de capacitación, lectura y práctica altísimo, siendo sus ofertas laborales más reducidas. Claro esta, todas sus desventajas, tienen sus ventajas; es posible que sean las plazas laborables más y mejor remuneradas.
+Existen muchos más lenguajes de programación, entre los más populares ahora se encuentran Rust, Go, Scala, Typescript o C ++. No obstante, si estas comenzando a desenvolverte en la creación de software has de considerar que muchos idiomas son avanzados, complejos, conllevan una curva de aprendizaje muy elevada o están enfocados en un solo dominio de aplicación; por lo que requieren un consumo de horas de capacitación, lectura y práctica altísimo, siendo sus ofertas laborales más reducidas. Claro está, todas sus desventajas, tienen sus ventajas; es posible que sean las plazas laborables más y mejor remuneradas.
 
 > Aprender a programar, es la clave de la era digital
 
@@ -147,6 +208,17 @@ Un buen plan de estudio, podría ser Javascript, React, Ruby y Ruby and Rails; p
 
 [🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## ¿Qué puestos de trabajo existen?
 
 Dentro de las profesiones digitales existen un cuantioso número de empleos bien diferenciados; como pueden ser, a saber:
@@ -164,6 +236,17 @@ Cada puesto de trabajo te exigira que conozcas ciertas herramientas, además de 
 Posteriormente, vamos a realizar una pequeña revisión de las diferentes herramientas que más útiles te serán a la hora de realizar las tareas exigidas dentro de cada posición de trabajo o desarrollo y elaboración de las tareas requeridas por cada empresa.
 
 [👉 Tecnologías por Puesto de Trabajo Profesional](/profesiones-digitales/#qu%C3%A9-tecnolog%C3%ADas-requiere-cada-una-de-las-profesiones){: .btn .btn--warning .btn--large .align-center}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Los Lenguajes Imprescindibles de 2020
 
@@ -194,6 +277,17 @@ Llegados ya a 2020 debemos de citar en este punto: WebAssambly.
 Hay numerosos lenguajes de programación que por una u otra razón, siguen usándose de forma máxima como pueden ser el caso de los lenguajes más "antiguos" que siguen en uso dentro de las empresas más importantes, puesto que o bien se considera que su uso favorece la seguridad o porque bien se considera que es demasiado complicado transformar toda la arquitectura ya existente a nuevos lenguajes.
 
 Además, hay otros lenguajes como por ejemplo C ++, C, Basic, Delphi, Objective C que siempre han sido utilizados en la creación de los Sistemas Operativos más importantes; como son Windows o Linux y por tanto su implementación es sumamente alta dentro de todos los software programados hasta la actualidad y por ello, siguen y seguirán durante un tiempo siendo utilizados a nivel empresarial.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Otros, son aún más utilizados a través de los navegadores por su masificación hasta ahora a través de los CMS más difundidos. Como pueden ser los casos de PHP gracias al gestor de contenidos: Wordpress y su afianzamiento a lo largo de los años; al igual que las bases de datos SQL que se han afianzado casi desde los inicios del nacimiento de los navegadores web y que se ha mostrado casi como herramienta indiscutible a la hora de realizar proyectos que manejen grandes cantidades de datos hasta la actualidad, y que además amenaza con seguir siendo importante en el futuro.
 
@@ -248,6 +342,17 @@ Entre estos "lenguajes" destacan HTML y CSS, que forman una de las partes más i
 <!-- ## Qué es Programar -->
 [🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Declaración Ciberninjas
 
 Amamos y casi hasta el punto de la adicción, los lenguajes de programación más modernos en conjunto a sus técnicas más creativas y novedosas de implementarlos en la sociedad actual.
@@ -266,3 +371,5 @@ Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer má
 [👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#cómo-aprender-a-programar){: .btn .btn--inverse .btn--x-large .align-center}
 [👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
 [🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

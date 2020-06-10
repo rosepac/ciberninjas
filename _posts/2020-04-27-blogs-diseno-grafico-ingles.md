@@ -28,10 +28,20 @@ Siempre se puede trabajar en fomentar más la creatividad y el talento, aunque e
 
 Los diseñadores encuentran la inspiración por todas partes. Cuando están fuera de casa, en libros y revistas, galerías y exposiciones y, por supuesto, a través de Internet. La siguiente lista puede ahorrarte el camino, hacía el encuentro de nuevos brillantes enfoques de diseño.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Aquí está la lista de los mejores blogs de diseño, a seguir y visitar asiduamente para el 2020.
 
-🔥 Seguro también te interesa 👉 [Cómo Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) 👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/) 👉 [Aprender Diseño Web](/diseño-web/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
-{: .notice--danger}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[1. Smashing Magazine](https://www.smashingmagazine.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -44,6 +54,17 @@ Un sitio web profesional de UX. La diferencia entre este y Smashing Magazine es 
 ## **[3. UX Magazine](https://uxmag.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Los artículos son cortos y contundentes con un caso de diseño popular para explicar el conocimiento teórico, y la inferencia en los artículos es muy convincente.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## **[4. Design Modo](http://designmodo.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -67,6 +88,8 @@ Mira What es presentado por Say What Studio , un dúo de diseño gráfico con se
 
 La mayoría de nosotros hemos usado el servicio de intercambio de archivos Dropbox en algún momento de nuestras vidas, pero ¿sabías que también tiene un blog? Es excelente, con una variedad de artículos sobre el tema de UX, con temas que incluyen investigación de usuarios, gestión de proyectos y herramientas de diseño.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[9. Design week](https://www.designweek.co.uk/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Fundada en 1986, Design Week fue la revista de diseño líder del Reino Unido hasta 2011, cuando se convirtió solo en línea. Continúa brindándole noticias e inspiración bien escritas y de alta calidad en gráficos, marcas, interiores, digital, productos, muebles y más.
@@ -88,6 +111,17 @@ Fundada en 1980, Creative Review es la revista mensual líder mundial en publici
 ## **[13. Dieline](http://www.thedieline.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Para cualquiera que trabaje en el diseño de empaques, The Dieline lo tiene todo envuelto. Básicamente es la Biblia del sector: un lugar donde la comunidad puede revisar, criticar y mantenerse informado de las últimas tendencias de la industria, y ver los proyectos de diseño que se están creando en el campo
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## **[14. InspoFinds](https://inspofinds.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -111,6 +145,8 @@ La interfaz de este blog es muy simple y limpia. Todos los artículos tratan los
 
 Artículos útiles sobre cómo crear experiencias de usuario efectivas.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[19. DesignModo UX](http://designmodo.com/design/ux-design/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Sitio completo que cubre los elementos estéticos, comerciales y psicológicos de UX.
@@ -132,6 +168,17 @@ Invision, una de las principales plataformas de creación de prototipos, colabor
 ## **[23. Shillington Blog](https://www.shillingtoneducation.com/blog/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Shillington es una red de universidades que ofrece un enfoque innovador para la educación del diseño basado en cursos cortos e intensivos y aprendizaje práctico centrado en la industria. Y también tiene su propio blog, que presenta una gama de trabajos de diseño inspiradores y artículos interesantes.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## **[24. Under Consideration: New Brand](https://www.underconsideration.com/brandnew/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -155,6 +202,8 @@ Un blog más de Under Consideration que vale la pena mencionar. For Print Only c
 
 El Blog de diseño tiene que ver con la inspiración visual. Fundada, diseñada y comisariada por Ena Baćanović, un diseñador con sede en Zagreb, Croacia, presenta el trabajo de diseñadores y estudios de diseño de todo el mundo, centrándose principalmente en jóvenes diseñadores y estudiantes.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[29. BP&O](https://bpando.org/){:target="_blank" rel="nofollow,noreferrer"}**
 
 BP&O significa Branding, Packaging y Opinion, y cumple con todas estas cosas, con una combinación de imágenes inspiradoras y análisis en profundidad. Es el hijo del cerebro de Richard Baird, un diseñador y escritor independiente británico que se especializa en identidades de marca y empaques.
@@ -176,6 +225,17 @@ Fonts In Use es un archivo público de tipografía indexado por tipo de letra, f
 ## **[33. Design Made in Japan](http://designmadeinjapan.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 La cultura japonesa está teniendo una gran influencia global en este momento, y Design Made In Japan es el lugar perfecto para mantenerse actualizado con su producción de diseño. Hay una gran cantidad de diseños editoriales, de productos y empaques en exhibición e incluso una bolsa de trabajo de diseño para aquellos que desean trabajar en Japón.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## **[34. Wix](https://www.wix.com/blog/creative){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -199,6 +259,8 @@ Typeroom es una cartera curada para fanáticos de la tipografía, que presenta h
 
 Bellamente diseñado, liderado por la industria y uno de los mejores recursos para mantenerse al tanto del arte, la ilustración y el diseño gráfico en todas partes, It's Nice That sigue siendo una de nuestras publicaciones en línea favoritas.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[39. Designer News](https://www.designernews.co/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Describiéndose a sí mismo como "donde se reúne la comunidad de diseño", Designer News presenta las últimas publicaciones interesantes de toda la web, desde Behance y Medium hasta sitios web de diseñadores individuales. La comunidad luego los vota a favor y en contra, y agrega sus propios comentarios.
@@ -220,6 +282,17 @@ Otro blog bellamente diseñado por David Airey, esta vez centrado en diseños de
 ## **[43. The Inspiration Grid](http://theinspirationgrid.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 The Inspiration Grid es una revista en línea que celebra el talento creativo de todo el mundo y proporciona una solución diaria de arte, ilustración, tipografía, fotografía y ... por supuesto, diseño gráfico. Tiene un diseño limpio y atractivo y todo es fácil de encontrar. Uno de nuestros favoritos.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## **[44. Visuelle](http://www.visuelle.co.uk/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -243,6 +316,8 @@ Curada por Alessandro Scarpellini, diseñador y director de arte de Italia, Visu
 
 Webflow es un producto utilizado para crear sitios web visualmente, sin codificación. Ya sea que esté utilizando Webflow o no, su blog está repleto de excelentes artículos sobre temas más amplios relacionados con el diseño web y la experiencia de usuario, y bien merece una visita.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[49. Ambalaj](http://www.ambalaj.se/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Fundada por la diseñadora sueca Kristina de Verdier en 2008, Ambalaj es predominantemente un blog de diseño de envases, pero también tiende a compartir las últimas innovaciones de diseño.
@@ -260,6 +335,17 @@ Swissmiss es obra de Tina Roth Eisenberg, una diseñadora suiza en Nueva York qu
 ## **[52. Wrap Magazine](http://wrapmagazine.tumblr.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Principalmente una revista impresa, Wrap se publica cada dos años y defiende la ilustración contemporánea. También tiene un excelente blog en Tumblr donde comparte trabajos coloridos y extravagantes de ilustradores y diseñadores gráficos de todo el mundo.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## **[53. Design Taxi](http://designtaxi.com/category/Graphic%20Design){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -283,6 +369,8 @@ Este es el blog que visitarás una y otra vez. Presentado por el galardonado dis
 
 Underpinned es una plataforma en línea de herramientas y servicios para freelancers y su blog asociado tiene una variedad de artículos sobre todos los aspectos de ser freelance. Los temas van desde consejos sobre cómo perseguir pagos hasta cómo hacer que su fotografía se destaque.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **[58. Identity Designed](https://identitydesigned.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Este blog limpio y elegante de David Airey es una muestra de las mejores identidades de marca de todo el mundo. Es solo uno de los muchos blogs de diseño exitosos que dirige: también vea el número 37 en nuestra lista.
@@ -300,6 +388,17 @@ This is Paper es un hermoso blog y revista impresa centrada en la creatividad, c
 ## **[61. GoodDesignMakesMeHappy](http://www.gooddesignmakesmehappy.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
 Good Design Makes Me Happy comenzó su vida en 2009 como un diario de inspiración para la diseñadora gráfica Hannah Dollery. Como su nombre indica, es un blog lleno de pasión por su tema, y ​​el trabajo cuidadosamente seleccionado siempre es de alta calidad.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## **[62. Aisleone](http://www.aisleone.net/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -336,3 +435,16 @@ UX artículos y recursos.
 [🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D](/cursos-animacion-diseno/)
 
 [👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario](/diferencias-entre-ui-ux/)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
