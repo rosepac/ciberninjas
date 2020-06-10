@@ -29,25 +29,6 @@ published: true
 
 Las Leyes de Experiencia de Usuario, son una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.
 
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/10-mejores-frameworks-java/#1-spring"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-    <li><a href="/10-mejores-frameworks-java/"></a></li>
-  </ol>
-</nav>
-</details>
-<br />
-
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
@@ -62,6 +43,24 @@ Las Leyes de Experiencia de Usuario, son una colección de los principios y las 
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<details>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
+<nav class="menu">
+  <ol>
+    <li><a href="/leyes-ux-experiencia-usuario/#1-efecto-de-usabilidad-estética"></a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#3-ley-de-fitts"></a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#7-ley-de-prägnanz"></a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
+  </ol>
+</nav>
+</details>
+
 ## 1. **Efecto de usabilidad estética**
 
 **Los usuarios a menudo perciben un diseño estéticamente agradable como un diseño más útil.**
@@ -74,17 +73,6 @@ Las Leyes de Experiencia de Usuario, son una colección de los principios y las 
 
 El efecto de usabilidad estética se estudió por primera vez en el campo de la interacción humano-computadora en 1995. Los investigadores Masaaki Kurosu y Kaori Kashimura del Centro de Diseño Hitachi probaron 26 variaciones de una interfaz de usuario ATM, pidiendo a los 252 participantes del estudio que calificaran cada diseño con facilidad. uso, así como atractivo estético.
 
-Encontraron una correlación más fuerte entre las calificaciones de los participantes de atractivo estético y la facilidad de uso percibida que la correlación entre sus calificaciones de atractivo estético y la facilidad de uso real. Kurosu y Kashimura concluyeron que los usuarios están fuertemente influenciados por la estética de cualquier interfaz, incluso cuando intentan evaluar la funcionalidad subyacente del sistema.
-<!-- https://www.nngroup.com/articles/aesthetic-usability-effect/ -->
-
-### **Artículos sobre la Usabilidad Estética**
-
-- [El efecto de la usabilidad estética](https://www.nngroup.com/articles/aesthetic-usability-effect/){:target="_blank" rel="nofollow,noreferrer"} por Kate Moran
-- [El efecto de la usabilidad estética](https://markboulton.co.uk/journal/aesthetic-usability-effect){:target="_blank" rel="nofollow,noreferrer"} por Mark Boulton
-- [El efecto de la usabilidad estética](https://medium.com/coffee-and-junk/design-psychology-aesthetic-usability-effect-494ed0f22571){:target="_blank" rel="nofollow,noreferrer"} por Abhishek Chakraborty
-
-[👉 Fuente](https://en.wikipedia.org/wiki/Aesthetic_usability_effect){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -95,6 +83,17 @@ Encontraron una correlación más fuerte entre las calificaciones de los partici
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+Encontraron una correlación más fuerte entre las calificaciones de los participantes de atractivo estético y la facilidad de uso percibida que la correlación entre sus calificaciones de atractivo estético y la facilidad de uso real. Kurosu y Kashimura concluyeron que los usuarios están fuertemente influenciados por la estética de cualquier interfaz, incluso cuando intentan evaluar la funcionalidad subyacente del sistema.
+<!-- https://www.nngroup.com/articles/aesthetic-usability-effect/ -->
+
+### **Artículos sobre la Usabilidad Estética**
+
+- [El efecto de la usabilidad estética](https://www.nngroup.com/articles/aesthetic-usability-effect/){:target="_blank" rel="nofollow,noreferrer"} por Kate Moran
+- [El efecto de la usabilidad estética](https://markboulton.co.uk/journal/aesthetic-usability-effect){:target="_blank" rel="nofollow,noreferrer"} por Mark Boulton
+- [El efecto de la usabilidad estética](https://medium.com/coffee-and-junk/design-psychology-aesthetic-usability-effect-494ed0f22571){:target="_blank" rel="nofollow,noreferrer"} por Abhishek Chakraborty
+
+[👉 Fuente](https://en.wikipedia.org/wiki/Aesthetic_usability_effect){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Umbral Doherty**
 
@@ -112,8 +111,7 @@ En 1982, Walter J. Doherty y Ahrvind J. Thadani publicaron, en el IBM Systems Jo
 - [El valor económico del tiempo de respuesta rápido](https://jlelliotton.blogspot.ca/p/the-economic-value-of-rapid-response.html){:target="_blank" rel="nofollow,noreferrer"}
 - [Esta joya UX de los 70 que todavía se aplican hoy en día](https://medium.com/@Gugel/the-doherty-threshold-5471ca990de6){:target="_blank" rel="nofollow,noreferrer"}
 
-[👉 Fuente](https://www.linkedin.com/pulse/gamification-training-how-doherty-threshold-ruining-hendershot/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
+[👉 Fuente](https://www.linkedin.com/pulse/gamification-training-how-doherty-threshold-ruining-hendershot/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **Ley de Fitts**
@@ -128,14 +126,6 @@ En 1982, Walter J. Doherty y Ahrvind J. Thadani publicaron, en el IBM Systems Jo
 
 En 1954, el psicólogo Paul Fitts, al examinar el sistema motor humano, mostró que el tiempo requerido para moverse a un objetivo depende de la distancia al mismo, pero se relaciona inversamente con su tamaño. Según su ley, los movimientos rápidos y los objetivos pequeños resultan en mayores tasas de error, debido a la compensación de precisión de velocidad. Aunque existen múltiples variantes de la ley de Fitts, todas abarcan esta idea.
 
-La ley de Fitts se aplica ampliamente en la experiencia del usuario (UX) y el diseño de la interfaz de usuario (UI). Por ejemplo, esta ley influyó en la convención de hacer que los botones interactivos sean grandes (especialmente en dispositivos móviles que funcionan con los dedos): los botones más pequeños son más difíciles (y requieren más tiempo) para hacer clic. Del mismo modo, la distancia entre el área de tareas / atención de un usuario y el botón relacionado con la tarea debe mantenerse lo más corta posible.
-
-### **Artículos sobre Ley de Fitts**
-
-- [La ley de Fitt](https://www.interaction-design.org/literature/topics/fitts-law){:target="_blank" rel="nofollow,noreferrer"}
-
-[👉 Fuente](https://en.wikipedia.org/wiki/Fitts%27s_law){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -146,6 +136,14 @@ La ley de Fitts se aplica ampliamente en la experiencia del usuario (UX) y el di
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+La ley de Fitts se aplica ampliamente en la experiencia del usuario (UX) y el diseño de la interfaz de usuario (UI). Por ejemplo, esta ley influyó en la convención de hacer que los botones interactivos sean grandes (especialmente en dispositivos móviles que funcionan con los dedos): los botones más pequeños son más difíciles (y requieren más tiempo) para hacer clic. Del mismo modo, la distancia entre el área de tareas / atención de un usuario y el botón relacionado con la tarea debe mantenerse lo más corta posible.
+
+### **Artículos sobre Ley de Fitts**
+
+- [La ley de Fitt](https://www.interaction-design.org/literature/topics/fitts-law){:target="_blank" rel="nofollow,noreferrer"}
+
+[👉 Fuente](https://en.wikipedia.org/wiki/Fitts%27s_law){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **Ley de Hick**
 
@@ -165,8 +163,7 @@ La Ley de Hick (o la Ley de Hick-Hyman) lleva el nombre de un equipo de psicólo
 - [Ley de Hick - Toma de decisiones rápidas](https://uxplanet.org/design-principles-hicks-law-quick-decision-making-3dcc1b1a0632){:target="_blank" rel="nofollow,noreferrer"} por
 - [Los principios de psicología que todo diseñador de UI / UX](https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/){:target="_blank" rel="nofollow,noreferrer"} por Thanasis Rigopoulus
 
-[👉 Fuente](https://en.wikipedia.org/wiki/Hick%27s_law){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
+[👉 Fuente](https://en.wikipedia.org/wiki/Hick%27s_law){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Ley de Jakob**
@@ -181,13 +178,6 @@ La Ley de Hick (o la Ley de Hick-Hyman) lleva el nombre de un equipo de psicólo
 
 La Ley de Jakob fue acuñada por Jakob Nielsen, defensor de los usuarios y director del Grupo Nielsen Norman, que cofundó con el Dr. Donald A. Norman (ex vicepresidente de investigación de Apple Computer). El Dr. Nielsen estableció el movimiento de 'ingeniería de usabilidad de descuento' para mejoras rápidas y baratas de las interfaces de usuario y ha inventado varios métodos de usabilidad, incluida la evaluación heurística.
 
-### **Artículos sobre la Ley de Jakob**
-
-- [Ley de Jakob de la experiencia del usuario de Internet](https://www.nngroup.com/videos/jakobs-law-internet-ux/){:target="_blank" rel="nofollow,noreferrer"} por Jakobs Law
-- [Los 10 errores principales en el diseño web](https://www.nngroup.com/articles/top-10-mistakes-web-design/){:target="_blank" rel="nofollow,noreferrer"}
-
-[👉 Fuente](https://www.nngroup.com/people/jakob-nielsen/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -198,6 +188,13 @@ La Ley de Jakob fue acuñada por Jakob Nielsen, defensor de los usuarios y direc
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+### **Artículos sobre la Ley de Jakob**
+
+- [Ley de Jakob de la experiencia del usuario de Internet](https://www.nngroup.com/videos/jakobs-law-internet-ux/){:target="_blank" rel="nofollow,noreferrer"} por Jakobs Law
+- [Los 10 errores principales en el diseño web](https://www.nngroup.com/articles/top-10-mistakes-web-design/){:target="_blank" rel="nofollow,noreferrer"}
+
+[👉 Fuente](https://www.nngroup.com/people/jakob-nielsen/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -219,8 +216,7 @@ Los psicólogos de la Gestalt argumentaron que estos principios existen porque l
 - [Principios de diseño: percepción visual y los principios de la Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/){:target="_blank" rel="nofollow,noreferrer"} por Steven Bradley
 - [Principios de la Gestalt](http://www.scholarpedia.org/article/Gestalt_principles){:target="_blank" rel="nofollow,noreferrer"}
 
-[👉 Fuente](https://en.wikipedia.org/wiki/Principles_of_grouping){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
+[👉 Fuente](https://en.wikipedia.org/wiki/Principles_of_grouping){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **Ley de Prägnanz**
@@ -234,14 +230,6 @@ Los psicólogos de la Gestalt argumentaron que estos principios existen porque l
 
 En 1910, el psicólogo Max Wertheimer tuvo una idea cuando observó una serie de luces que se encendían y apagaban en un cruce de ferrocarril. Fue similar a cómo se encienden y apagan las luces que rodean una carpa de cine. Para el observador, parece como si una sola luz se moviera alrededor de la carpa, viajando de bombilla a bombilla, cuando en realidad es una serie de bombillas encendidas y apagadas y las luces no lo mueven todo.
 
-Esta observación condujo a un conjunto de principios descriptivos sobre cómo percibimos visualmente los objetos. Estos principios se encuentran en el corazón de casi todo lo que hacemos gráficamente como diseñadores.
-
-### **Artículos sobre la Ley de Prägnanz**
-
-- [Las leyes de la figura / tierra, Prägnanz, cierre y destino común](https://www.interaction-design.org/literature/article/the-laws-of-figure-ground-praegnanz-closure-and-common-fate-gestalt-principles-3){:target="_blank" rel="nofollow,noreferrer"} por
-
-[👉 Fuente](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -252,6 +240,14 @@ Esta observación condujo a un conjunto de principios descriptivos sobre cómo p
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+Esta observación condujo a un conjunto de principios descriptivos sobre cómo percibimos visualmente los objetos. Estos principios se encuentran en el corazón de casi todo lo que hacemos gráficamente como diseñadores.
+
+### **Artículos sobre la Ley de Prägnanz**
+
+- [Las leyes de la figura / tierra, Prägnanz, cierre y destino común](https://www.interaction-design.org/literature/article/the-laws-of-figure-ground-praegnanz-closure-and-common-fate-gestalt-principles-3){:target="_blank" rel="nofollow,noreferrer"} por
+
+[👉 Fuente](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. **Ley de la Proximidad**
 
@@ -272,8 +268,7 @@ Los psicólogos de la Gestalt argumentaron que estos principios existen porque l
 - [Los principios de psicología que todo diseñador de UI / UX necesita saber](https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/){:target="_blank" rel="nofollow,noreferrer"} por Thanasis Rigopoulos
 - [Principios de diseño: percepción visual y los principios de la Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/){:target="_blank" rel="nofollow,noreferrer"} por Steven Bradley
 
-[👉 Fuente](https://en.wikipedia.org/wiki/Principles_of_grouping){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
+[👉 Fuente](https://en.wikipedia.org/wiki/Principles_of_grouping){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Ley de Similitud**
@@ -286,16 +281,6 @@ Asegúrese de que los enlaces y los sistemas de navegación se diferencien visua
 
 Los principios de agrupación (o leyes de agrupación de la Gestalt) son un conjunto de principios en psicología, propuestos por primera vez por los psicólogos de la Gestalt para explicar la observación de que los humanos perciben naturalmente los objetos como patrones y objetos organizados, un principio conocido como Prägnanz.
 
-Los psicólogos de la Gestalt argumentaron que estos principios existen porque la mente tiene una disposición innata para percibir patrones en el estímulo basados ​​en ciertas reglas. Estos principios están organizados en cinco categorías: Proximidad, Similitud, Continuidad, Cierre y Conectividad.
-
-### **Artículos sobre la Ley de la Similitud**
-
-- [La Ley de Similitud - Principios de la Gestalt](https://www.interaction-design.org/literature/article/the-law-of-similarity-gestalt-principles-1){:target="_blank" rel="nofollow,noreferrer"} por
-- [Principios de diseño: percepción visual y los principios de la Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/){:target="_blank" rel="nofollow,noreferrer"} por
-- [Use las leyes de Gestalt para mejorar su experiencia de usuario](http://blog.usabilla.com/gestalt-laws-start-with-thinking-basic/){:target="_blank" rel="nofollow,noreferrer"} por
-
-[👉 Fuente](https://en.wikipedia.org/wiki/Principles_of_grouping){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -306,6 +291,16 @@ Los psicólogos de la Gestalt argumentaron que estos principios existen porque l
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+Los psicólogos de la Gestalt argumentaron que estos principios existen porque la mente tiene una disposición innata para percibir patrones en el estímulo basados ​​en ciertas reglas. Estos principios están organizados en cinco categorías: Proximidad, Similitud, Continuidad, Cierre y Conectividad.
+
+### **Artículos sobre la Ley de la Similitud**
+
+- [La Ley de Similitud - Principios de la Gestalt](https://www.interaction-design.org/literature/article/the-law-of-similarity-gestalt-principles-1){:target="_blank" rel="nofollow,noreferrer"} por
+- [Principios de diseño: percepción visual y los principios de la Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/){:target="_blank" rel="nofollow,noreferrer"} por
+- [Use las leyes de Gestalt para mejorar su experiencia de usuario](http://blog.usabilla.com/gestalt-laws-start-with-thinking-basic/){:target="_blank" rel="nofollow,noreferrer"} por
+
+[👉 Fuente](https://en.wikipedia.org/wiki/Principles_of_grouping){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **Ley de la Conectividad Uniforme**
 
@@ -325,8 +320,7 @@ Los psicólogos de la Gestalt argumentaron que estos principios existen porque l
 - [Leyes de proximidad, conexión uniforme y continuación](https://www.interaction-design.org/literature/article/laws-of-proximity-uniform-connectedness-and-continuation-gestalt-principles-2){:target="_blank" rel="nofollow,noreferrer"} por
 - [Principios de diseño: percepción visual y los principios de la Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/){:target="_blank" rel="nofollow,noreferrer"} por
 
-[👉 Fuente](https://en.wikipedia.org/wiki/Principles_of_grouping){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
+[👉 Fuente](https://en.wikipedia.org/wiki/Principles_of_grouping){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **Ley de Miller**
@@ -341,15 +335,6 @@ En 1956, George Miller afirmó que el lapso de la memoria inmediata y el juicio 
 
 Asimismo, 4 bits de información es una decisión entre 16 alternativas binarias (4 decisiones binarias sucesivas).
 
-El punto donde la confusión crea un juicio incorrecto es la capacidad del canal. En otras palabras, la cantidad de bits que se pueden transmitir de manera confiable a través de un canal, dentro de un cierto período de tiempo.
-
-### **Artículos sobre la Ley de Miller**
-
-- [La ley de Miller, la fragmentación y la capacidad de la memoria de trabajo](https://www.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut/e/miller-s-law--chunking--and-the-capacity-of-working-memory){:target="_blank" rel="nofollow,noreferrer"} por
-- [Principios de diseño para reducir la carga cognitiva](https://blog.prototypr.io/design-principles-for-reducing-cognitive-load-84e82ca61abd){:target="_blank" rel="nofollow,noreferrer"} por
-
-[👉 Fuente](https://en.wikipedia.org/wiki/Miller%27s_law){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -360,6 +345,15 @@ El punto donde la confusión crea un juicio incorrecto es la capacidad del canal
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+El punto donde la confusión crea un juicio incorrecto es la capacidad del canal. En otras palabras, la cantidad de bits que se pueden transmitir de manera confiable a través de un canal, dentro de un cierto período de tiempo.
+
+### **Artículos sobre la Ley de Miller**
+
+- [La ley de Miller, la fragmentación y la capacidad de la memoria de trabajo](https://www.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut/e/miller-s-law--chunking--and-the-capacity-of-working-memory){:target="_blank" rel="nofollow,noreferrer"} por
+- [Principios de diseño para reducir la carga cognitiva](https://blog.prototypr.io/design-principles-for-reducing-cognitive-load-84e82ca61abd){:target="_blank" rel="nofollow,noreferrer"} por
+
+[👉 Fuente](https://en.wikipedia.org/wiki/Miller%27s_law){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 12. **La navaja de Occam**
 
@@ -391,14 +385,6 @@ Concentre la mayor parte del esfuerzo en las áreas que brindarán los mayores b
 
 Sus orígenes se remontan a Vilfredo Pareto, un economista que notó que el 80% de las tierras de Italia era propiedad del 20% de la población. Aunque parezca vago, la forma de pensar 80/20 puede proporcionar un análisis perspicaz y de aplicación infinita de los sistemas asimétricos, incluida la estrategia de experiencia del usuario.
 
-### **Artículos sobre **
-
-- [La regla 80/20 en la experiencia del usuario](https://medium.com/design-ibm/the-80-20-rule-in-user-experience-1695de32aaae){:target="_blank" rel="nofollow,noreferrer"} por
-- [Aplicando el Principio de Pareto a la Experiencia del Usuario](https://measuringu.com/pareto-ux/){:target="_blank" rel="nofollow,noreferrer"} por
-- [El principio de Pareto y su experiencia de usuario funcionan](https://www.interaction-design.org/literature/article/the-pareto-principle-and-your-user-experience-work){:target="_blank" rel="nofollow,noreferrer"} por
-
-[👉 Fuente](https://en.wikipedia.org/wiki/Pareto_principle){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -409,6 +395,14 @@ Sus orígenes se remontan a Vilfredo Pareto, un economista que notó que el 80% 
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+### **Artículos sobre El Principio de Pareto**
+
+- [La regla 80/20 en la experiencia del usuario](https://medium.com/design-ibm/the-80-20-rule-in-user-experience-1695de32aaae){:target="_blank" rel="nofollow,noreferrer"} por
+- [Aplicando el Principio de Pareto a la Experiencia del Usuario](https://measuringu.com/pareto-ux/){:target="_blank" rel="nofollow,noreferrer"} por
+- [El principio de Pareto y su experiencia de usuario funcionan](https://www.interaction-design.org/literature/article/the-pareto-principle-and-your-user-experience-work){:target="_blank" rel="nofollow,noreferrer"} por
+
+[👉 Fuente](https://en.wikipedia.org/wiki/Pareto_principle){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 14. **Ley de Parkinson**
 
@@ -422,7 +416,7 @@ Articulado por Cyril Northcote Parkinson como parte de la primera oración de un
 
 - [Ley de Parkinson: por qué las restricciones son la mejor cosa con la que puedes trabajar](https://medium.com/the-mission/parkinsons-law-why-constraints-are-the-best-thing-you-can-work-with-4fad6e0e91cf){:target="_blank" rel="nofollow,noreferrer"} por Louis Chew
 
-[👉 Fuente](https://en.wikipedia.org/wiki/Parkinson%27s_law){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Fuente](https://en.wikipedia.org/wiki/Parkinson%27s_law){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -439,16 +433,6 @@ Articulado por Cyril Northcote Parkinson como parte de la primera oración de un
 Un estudio de 1993 titulado “Cuando se prefiere más dolor que menos: agregar un mejor fin” por Kahneman, Fredrickson, Charles Schreiber y Donald Redelmeier proporcionó evidencia innovadora de la regla de punta y punta. Los participantes fueron sometidos a dos versiones diferentes de una sola experiencia desagradable.
 
 La primera prueba hizo que los sujetos sumergieran una mano en agua a 14 ° C durante 60 segundos.
-La segunda prueba hizo que los sujetos sumergieran la otra mano en agua a 14 ° C durante 60 segundos, pero luego mantuvieran la mano sumergida durante 30 segundos adicionales, durante los cuales la temperatura se elevó a 15 ° C.
-
-A los sujetos se les ofreció la opción de qué ensayo repetir. Contra la ley de la monotonicidad temporal, los sujetos estaban más dispuestos a repetir el segundo ensayo, a pesar de una exposición prolongada a temperaturas incómodas. Kahneman y col.
-
-### **Artículos sobre la regal del fin de pico**
-
-- [La regla Peak-End: cómo las impresiones se convierten en recuerdos](https://www.nngroup.com/articles/peak-end-rule/){:target="_blank" rel="nofollow,noreferrer"}
-- [¿Qué es la teoría del pico-fin? Un psicólogo explica cómo nos engaña nuestra memoria](https://positivepsychology.com/what-is-peak-end-theory/){:target="_blank" rel="nofollow,noreferrer"}
-
-[👉 Fuente](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -460,6 +444,17 @@ A los sujetos se les ofreció la opción de qué ensayo repetir. Contra la ley d
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+La segunda prueba hizo que los sujetos sumergieran la otra mano en agua a 14 ° C durante 60 segundos, pero luego mantuvieran la mano sumergida durante 30 segundos adicionales, durante los cuales la temperatura se elevó a 15 ° C.
+
+A los sujetos se les ofreció la opción de qué ensayo repetir. Contra la ley de la monotonicidad temporal, los sujetos estaban más dispuestos a repetir el segundo ensayo, a pesar de una exposición prolongada a temperaturas incómodas. Kahneman y col.
+
+### **Artículos sobre la regal del fin de pico**
+
+- [La regla Peak-End: cómo las impresiones se convierten en recuerdos](https://www.nngroup.com/articles/peak-end-rule/){:target="_blank" rel="nofollow,noreferrer"}
+- [¿Qué es la teoría del pico-fin? Un psicólogo explica cómo nos engaña nuestra memoria](https://positivepsychology.com/what-is-peak-end-theory/){:target="_blank" rel="nofollow,noreferrer"}
+
+[👉 Fuente](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 16. **Ley de Postel**
 
@@ -479,8 +474,7 @@ La Ley de Postel (también conocida como Principio de Robustez) fue formulada po
 - [Diseñar con datos difíciles](https://alistapart.com/article/design-with-difficult-data/){:target="_blank" rel="nofollow,noreferrer"} por Steven Garrity
 - [](){:target="_blank" rel="nofollow,noreferrer"}
 
-[👉 Fuente](https://en.wikipedia.org/wiki/Robustness_principle){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
+[👉 Fuente](https://en.wikipedia.org/wiki/Robustness_principle){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 17. **Efecto del posicionamiento en serie**
@@ -501,7 +495,7 @@ La manipulación del efecto de posición en serie para crear mejores experiencia
 - [El efecto de posición en serie: por qué ABC y XYZ se destacan más entre todos los alfabetos](https://medium.com/coffee-and-junk/design-psychology-serial-position-effect-ca0e4cf299cb){:target="_blank" rel="nofollow,noreferrer"} por Abhishek Chakraborty
 - [Psicología en el diseño (Parte 1)](https://blog.prototypr.io/psychology-in-design-part-1-cdc63229cbe4){:target="_blank" rel="nofollow,noreferrer"} por Andri Budzinsky
 
-[👉 Fuente](https://en.wikipedia.org/wiki/Serial-position_effect){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Fuente](https://en.wikipedia.org/wiki/Serial-position_effect){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -533,8 +527,7 @@ Sin embargo, Bruce Tognazzini propone que las personas resistan las reducciones 
 - [La simplicidad está sobrevalorada](https://blog.marvelapp.com/simplicity-is-overrated/){:target="_blank" rel="nofollow,noreferrer"} por Gabriel Colomo
 - [Nadie quiere usar su producto](https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/){:target="_blank" rel="nofollow,noreferrer"} por Goran Peuc
 
-[👉 Fuente](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
+[👉 Fuente](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 19. **Efecto Von Restorff**
@@ -547,13 +540,6 @@ Sin embargo, Bruce Tognazzini propone que las personas resistan las reducciones 
 
 La teoría fue acuñada por el psiquiatra y pediatra alemán Hedwig von Restorff (1906-1962), quien, en su estudio de 1933, descubrió que cuando a los participantes se les presentaba una lista de elementos categóricamente similares con un elemento distintivo y aislado en la lista, memoria para El artículo fue mejorado.
 
-### **Artículos sobre el Efecto Von Restorff**
-
-- [Psicología en el diseño (Parte 1)](https://blog.prototypr.io/psychology-in-design-part-1-cdc63229cbe4){:target="_blank" rel="nofollow,noreferrer"} por Andri Budzinskiy
-- [Los principios de psicología que todo diseñador de UI / UX necesita saber](https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/){:target="_blank" rel="nofollow,noreferrer"} por Thanasis Rigopoulus
-
-[👉 Fuente](https://en.wikipedia.org/wiki/Von_Restorff_effect){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -564,6 +550,13 @@ La teoría fue acuñada por el psiquiatra y pediatra alemán Hedwig von Restorff
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+### **Artículos sobre el Efecto Von Restorff**
+
+- [Psicología en el diseño (Parte 1)](https://blog.prototypr.io/psychology-in-design-part-1-cdc63229cbe4){:target="_blank" rel="nofollow,noreferrer"} por Andri Budzinskiy
+- [Los principios de psicología que todo diseñador de UI / UX necesita saber](https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/){:target="_blank" rel="nofollow,noreferrer"} por Thanasis Rigopoulus
+
+[👉 Fuente](https://en.wikipedia.org/wiki/Von_Restorff_effect){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 20. **Efecto Zeigarnik**
 
@@ -584,19 +577,7 @@ Más tarde comenzó a trabajar en el Instituto de Actividad Nerviosa Superior, q
 - [El efecto Zeigarnik: por qué es tan difícil dejar las cosas incompletas](https://medium.com/coffee-and-junk/design-psychology-zeigarnik-effect-a53688b7f6d1){:target="_blank" rel="nofollow,noreferrer"} por Abhishek Chakraborty
 - [Efecto Zeigarnik](http://coglode.com/gem/zeigarnik-effect){:target="_blank" rel="nofollow,noreferrer"} por 
 
-[👉 Fuente](https://en.wikipedia.org/wiki/Bluma_Zeigarnik){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
+[👉 Fuente](https://en.wikipedia.org/wiki/Bluma_Zeigarnik){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Conclusión
@@ -605,7 +586,7 @@ Más tarde comenzó a trabajar en el Instituto de Actividad Nerviosa Superior, q
 
 [🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20)
 
-[👨‍💻 Los 10 + 10 mejores frameworks Java en 2020](https://ciberninjas.com/10-mejores-frameworks-java/)
+[👨‍💻 Los 10 + 10 mejores frameworks Java en 2020](https://ciberninjas.com/leyes-ux-experiencia-usuario/)
 
 [🚀 ▷ Lanzamiento de las extensiones de Firebase para Kotlin](https://ciberninjas.com/firebase-extensiones-kotlin/)
 
