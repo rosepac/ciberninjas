@@ -29,19 +29,8 @@ published: true
 
 Las Leyes de Experiencia de Usuario, son una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+🔥 Seguro también te interesa: [Mejores Blogs de Diseño](/blogs-diseno-grafico-espanol/) >> [Mejores Blogs en Inglés](/blogs-diseno-grafico-ingles/) >> [Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) >> [Cursos Animación y Diseño](/cursos-animacion-diseno/)
 {: .notice--danger}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
@@ -64,12 +53,23 @@ Las Leyes de Experiencia de Usuario, son una colección de los principios y las 
     <li><a href="/leyes-ux-experiencia-usuario/#15-regla-de-fin-de-pico">15. Regla de Fin de Pico</a></li>
     <li><a href="/leyes-ux-experiencia-usuario/#16-ley-de-postel">16. Ley de Postel</a></li>
     <li><a href="/leyes-ux-experiencia-usuario/#17-efecto-del-posicionamiento-en-serie">17. Efecto del Posicionamiento en Serie</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/">18. </a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#18-ley-de-tesler">18. Ley de Tesler</a></li>
     <li><a href="/leyes-ux-experiencia-usuario/#19-efecto-von-restorff">19. Efecto Von Restorff</a></li>
     <li><a href="/leyes-ux-experiencia-usuario/#20-efecto-zeigarnik">20. Efecto Zeigarnik</a></li>
   </ol>
 </nav>
 </details>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 1. **Efecto de usabilidad estética**
 
@@ -422,7 +422,7 @@ Sus orígenes se remontan a Vilfredo Pareto, un economista que notó que el 80% 
 
 Articulado por Cyril Northcote Parkinson como parte de la primera oración de un ensayo humorístico publicado en The Economist en 1955 y reeditado en línea, fue reimpreso con otros ensayos en el libro La ley de Parkinson: La búsqueda del progreso (Londres, John Murray, 1958) . Derivó el dictamen de su amplia experiencia en el Servicio Civil Británico.
 
-### **Artículos sobre **
+### **Artículos sobre la Ley de Parkinson**
 
 - [Ley de Parkinson: por qué las restricciones son la mejor cosa con la que puedes trabajar](https://medium.com/the-mission/parkinsons-law-why-constraints-are-the-best-thing-you-can-work-with-4fad6e0e91cf){:target="_blank" rel="nofollow,noreferrer"} por Louis Chew
 
@@ -459,7 +459,7 @@ La segunda prueba hizo que los sujetos sumergieran la otra mano en agua a 14 ° 
 
 A los sujetos se les ofreció la opción de qué ensayo repetir. Contra la ley de la monotonicidad temporal, los sujetos estaban más dispuestos a repetir el segundo ensayo, a pesar de una exposición prolongada a temperaturas incómodas. Kahneman y col.
 
-### **Artículos sobre la regal del fin de pico**
+### **Artículos sobre la Regla del Fin de Pico**
 
 - [La regla Peak-End: cómo las impresiones se convierten en recuerdos](https://www.nngroup.com/articles/peak-end-rule/){:target="_blank" rel="nofollow,noreferrer"}
 - [¿Qué es la teoría del pico-fin? Un psicólogo explica cómo nos engaña nuestra memoria](https://positivepsychology.com/what-is-peak-end-theory/){:target="_blank" rel="nofollow,noreferrer"}
