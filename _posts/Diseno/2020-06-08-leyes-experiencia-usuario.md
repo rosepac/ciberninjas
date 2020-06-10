@@ -590,33 +590,28 @@ Más tarde comenzó a trabajar en el Instituto de Actividad Nerviosa Superior, q
 [👉 Fuente](https://en.wikipedia.org/wiki/Bluma_Zeigarnik){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Conclusión
-
-### Relacionados
-
-[🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20)
-
-[👨‍💻 Los 10 + 10 mejores frameworks Java en 2020](https://ciberninjas.com/leyes-ux-experiencia-usuario/)
-
-[🚀 ▷ Lanzamiento de las extensiones de Firebase para Kotlin](https://ciberninjas.com/firebase-extensiones-kotlin/)
-
-[💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020](https://ciberninjas.com/actualidad-java-visual-studio/)
-
-[📄 ▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java ](https://ciberninjas.com/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
-
-[👨‍🎨 Palabras más usadas en cada lenguaje de programación](https://ciberninjas.com/palabras-lenguajes-programacion/)
-
-[🥇 ▷ Cómo APRENDER a Programar GRATIS en 2020: Mejores libros recomendados para programadores](https://ciberninjas.com/programar/)
-
-[🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
-
-🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
-{: .notice--danger}
+### Licencia
 
 **Fuente**: [Las leyes de la Experiencia de Usuario](https://lawsofux.com/){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
-![Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.]("Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.")
+### Relacionados
+
+[🥇 ▷ Los 18 mejores blogs de diseño gráfico en español 2020](/blogs-diseno-grafico-espanol/)
+
+[🥇 ▷ Los 66 mejores blogs de diseño gráfico del mundo 2020](/blogs-diseno-grafico-ingles/)
+
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2020](/mejor-software-dibujo-windows-android/)
+
+[🥇 ▷ Cómo aprender Diseño Gráfico en 2020 👩‍🎨](/dise%C3%B1o-grafico/)
+
+[🎨 ▷ Recursos de Diseño Gráfico](/dise%C3%B1o-grafico-recursos/)
+
+[🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D](/cursos-animacion-diseno/)
+
+[👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario](/diferencias-entre-ui-ux/)
+
+![Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.](/assets/images/blog/ux-disenador.webp "Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.")
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
