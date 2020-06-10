@@ -11,7 +11,7 @@ categories:
 header:
   teaser: /assets/images/blog/ux-disenador.webp
   overlay_image: /assets/images/blog/ux-disenador.webp
-  overlay_filter: 0.4
+  overlay_filter: 0.3
   image_description: 'Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.'
   image_alt: 'Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.'
 title: '🥇 ▷ Las Leyes de la Experiencia de Usuario'
