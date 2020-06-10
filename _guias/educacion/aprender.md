@@ -72,8 +72,8 @@ Si partes desde cero, casi con cualquier recursos te servirá; puesto que la may
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-Si tu nivel es medio, o avanzado y lo que deseas es profundizar muy a fondo dentro de una temática; has de tener en cuenta de que será muy importante analizar los recursos didácticos antes de iniciar con ellos, además, de qué; es más que probable, que el mejor recurso que vayas a poder encontrar sea bien la documentación oficial de lo que intentas aprender o bien, un libro técnico avanzado; que posiblemente, esté en ingles y además sea bastante caro.
+<br>
+Si tu nivel es medio u avanzado y lo que deseas es profundizar muy a fondo dentro de una temática; has de tener en cuenta de que será muy importante analizar los recursos didácticos antes de iniciar con ellos, además, de qué; es más que probable, que el mejor recurso que vayas a poder encontrar sea bien la documentación oficial de lo que intentas aprender o bien, un libro técnico avanzado; que posiblemente, esté en ingles y además sea bastante caro.
 
 ## **¿Dónde podemos aprender?**
 
@@ -123,6 +123,8 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - [**iTunes U**](https://apps.apple.com/us/app/itunes-u/id490217893){:target="_blank" rel="nofollow,noreferrer"}: esta aplicación tiene podcasts y cursos de muchas universidades que puedes descargar en tu teléfono inteligente o iPad.
 - [**CreativeLive**](https://www.creativelive.com/){:target="_blank" rel="nofollow,noreferrer"}: Vea las clases en vivo de forma gratuita, o compre clases pasadas con materiales adicionales. Los temas incluyen diseño, música, fotografía, manualidades y más.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -133,8 +135,6 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Las mejores páginas web de vídeos para aprender**
 
@@ -145,6 +145,8 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - [**Aeon**](https://aeon.co/videos){:target="_blank" rel="nofollow,noreferrer"}: Si bien Aeon publica artículos interesantes, también tienen una gran variedad de videos cortos sobre ciencia, filosofía, historia y más.
 - [***Wired\***](https://www.wired.com/video){:target="_blank" rel="nofollow,noreferrer"}: Otra publicación más conocida por sus artículos,*Wired*produce algunos videos divertidos e interesantes también.
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -155,8 +157,6 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Youtube: El mayor canal de vídeos del mundo**
 
@@ -178,6 +178,8 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 <!-- MEDIUM ENTRADA: https://forge.medium.com/upgrade-your-mind-online-9301e5a911f4 -->
 <!-- PDF: https://drive.google.com/file/d/1Upj9ROp__vbXXtLwFF1X4hQ-oOtP7moK/view -->
 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -188,8 +190,6 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Documentales**
 
@@ -231,6 +231,8 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - [***Einstein para todos\***](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/index.html){:target="_blank" rel="nofollow,noreferrer"}:John D. Norton escribió y lanzó este libro explorando las ideas y logros de Einstein. Los 46 capítulos son completamente gratuitos y en línea.
 - [***La vida que puedes salvar\***](https://www.thelifeyoucansave.org/the-book/?fbclid=IwAR3--62DB6Qt8OyDxtydgx4fyj1mQqVzqtLz3bP3HO8E_t9QwwO8y8-IYWc){:target="_blank" rel="nofollow,noreferrer"}:para el décimo aniversario de este libro sobre la pobreza mundial, el filósofo moral Peter Singer lo lanzó de forma gratuita, junto con una versión en audio que incluye lecturas de Stephen Fry, Kristen Bell y Paul Simon.
 - [**Guías**](https://guides.co/){:target="_blank" rel="nofollow,noreferrer"}: Lea guías detalladas sobre temas como hábitos, jardinería orgánica y los fundamentos del ajedrez, o puede crear su propia guía sobre cualquier tema que conozca mejor.
+- 
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -242,8 +244,6 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Comunidades de Reddit**
 
