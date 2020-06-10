@@ -47,16 +47,26 @@ Las Leyes de Experiencia de Usuario, son una colección de los principios y las 
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/leyes-ux-experiencia-usuario/#1-efecto-de-usabilidad-estética"></a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#3-ley-de-fitts"></a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#7-ley-de-prägnanz"></a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/"></a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#1-efecto-de-usabilidad-estética">1. Efecto de Usabilidad Estético</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#2-umbral-doherty"></a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#3-ley-de-fitts">3. Ley de Fitts</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#4-ley-de-hick">4. Ley de Hick</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#5-ley-de-jakob">5. Ley de Jakob</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#6-ley-de-la-región-común">6. Ley de la Región Común</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#7-ley-de-prägnanz">7. Ley de Prägnanz</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#8-ley-de-la-proximidad">8. Ley de la Proximidad</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#9-ley-de-similitud">9. Ley de la Similitud</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#10-ley-de-la-conectividad-uniforme">10. Ley de la Conectividad Uniforme</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#11-ley-de-miller">11. Ley de Miller</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#12-la-navaja-de-occam">12. La Navaja de Occam</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#13-el-principio-de-pareto">13. El Principio de Pareto</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#14-ley-de-parkinson">14. Ley de Parkinson</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#15-regla-de-fin-de-pico">15. Regla de Fin de Pico</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#16-ley-de-postel">16. Ley de Postel</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#17-efecto-del-posicionamiento-en-serie">17. Efecto del Posicionamiento en Serie</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/">18. </a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#19-efecto-von-restorff">19. Efecto Von Restorff</a></li>
+    <li><a href="/leyes-ux-experiencia-usuario/#20-efecto-zeigarnik">20. Efecto Zeigarnik</a></li>
   </ol>
 </nav>
 </details>
@@ -487,16 +497,6 @@ Colocar los elementos menos importantes en el medio de las listas puede ser úti
 
 El efecto del posicionamiento en serie, es un término acuñado por Herman Ebbinghaus, que describe cómo la posición de un elemento en una secuencia afecta la precisión del recuerdo. Los dos conceptos involucrados, el efecto de primacía y el efecto de actualidad, explican cómo los elementos presentados al comienzo de una secuencia y al final de una secuencia se recuerdan con mayor precisión que los elementos en el medio de una lista.
 
-La manipulación del efecto de posición en serie para crear mejores experiencias de usuario se refleja en muchos diseños populares de compañías exitosas como Apple, Electronic Arts y Nike.
-
-### **Artículos sobre el Efecto de Posicionamiento en Serie**
-
-- [Efecto de posición en serie: cómo crear mejores interfaces de usuario](https://www.interaction-design.org/literature/article/serial-position-effect-how-to-create-better-user-interfaces){:target="_blank" rel="nofollow,noreferrer"} por Euphemia Wong
-- [El efecto de posición en serie: por qué ABC y XYZ se destacan más entre todos los alfabetos](https://medium.com/coffee-and-junk/design-psychology-serial-position-effect-ca0e4cf299cb){:target="_blank" rel="nofollow,noreferrer"} por Abhishek Chakraborty
-- [Psicología en el diseño (Parte 1)](https://blog.prototypr.io/psychology-in-design-part-1-cdc63229cbe4){:target="_blank" rel="nofollow,noreferrer"} por Andri Budzinsky
-
-[👉 Fuente](https://en.wikipedia.org/wiki/Serial-position_effect){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -507,6 +507,16 @@ La manipulación del efecto de posición en serie para crear mejores experiencia
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+La manipulación del efecto de posición en serie para crear mejores experiencias de usuario se refleja en muchos diseños populares de compañías exitosas como Apple, Electronic Arts y Nike.
+
+### **Artículos sobre el Efecto de Posicionamiento en Serie**
+
+- [Efecto de posición en serie: cómo crear mejores interfaces de usuario](https://www.interaction-design.org/literature/article/serial-position-effect-how-to-create-better-user-interfaces){:target="_blank" rel="nofollow,noreferrer"} por Euphemia Wong
+- [El efecto de posición en serie: por qué ABC y XYZ se destacan más entre todos los alfabetos](https://medium.com/coffee-and-junk/design-psychology-serial-position-effect-ca0e4cf299cb){:target="_blank" rel="nofollow,noreferrer"} por Abhishek Chakraborty
+- [Psicología en el diseño (Parte 1)](https://blog.prototypr.io/psychology-in-design-part-1-cdc63229cbe4){:target="_blank" rel="nofollow,noreferrer"} por Andri Budzinsky
+
+[👉 Fuente](https://en.wikipedia.org/wiki/Serial-position_effect){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 18. **Ley de Tesler**
 
