@@ -32,21 +32,8 @@ En el curso de la optimización, el sistema operativo o el desarrollo integrado,
 
 Creemos que esta nueva sintaxis tiene un camino hacia la estabilización en el futuro.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Nightly Rust ha tenido una sintaxis para "ensamblaje en línea" basadada en `asm!` durante mucho tiempo; sin embargo, esta sintaxis acaba de exponer una versión muy cruda de la construcción de ensamblaje de LLVM, sin existir garantías suficientes con las que ayudar a los desarrolladores para usarla. Obtener cualquier detalle de esta sintaxis, puede llegar a ser incluso erróneo, puesto que tiende a producir un Error interno del compilador (ICE) en lugar del tipo de mensaje de error amigable que se espera de rustc.
 
-Esta sintaxis también era propensa a errores por otra razón: se parece a la sintaxis de ensamblaje en línea de GCC, pero tiene diferencias sutiles (como los nombres en las restricciones de registro). Esta sintaxis además, tiene poca o ninguna esperanza de ser compatible con cualquier back-end que no sea LLVM. Como resultado de todas estas limitaciones, era muy poco probable que la sintaxis `asm!` se estabilizará en Nightly Rust.
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -57,6 +44,8 @@ Esta sintaxis también era propensa a errores por otra razón: se parece a la si
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+Esta sintaxis también era propensa a errores por otra razón: se parece a la sintaxis de ensamblaje en línea de GCC, pero tiene diferencias sutiles (como los nombres en las restricciones de registro). Esta sintaxis además, tiene poca o ninguna esperanza de ser compatible con cualquier back-end que no sea LLVM. Como resultado de todas estas limitaciones, era muy poco probable que la sintaxis `asm!` se estabilizará en Nightly Rust.
 
 En un esfuerzo por mejorar `asm!` y acercarlo a los usuarios, Amanieu d'Antras diseñó e implementó una nueva sintaxis más amigable para `asm!` y esta sintaxis ha tenido un largo camino desde su conceptualización y hasta su implementación como compilador:
 
@@ -136,17 +125,6 @@ fn main() {
 ```
 
 [👨‍💻 Probar el Código](https://play.rust-lang.org/?version=nightly&mode=release&edition=2018&gist=38874735e48aa20289f23f5a3cbeae0c){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Ten en cuenta que este código sirve para demostrar el ensamblaje en línea, no para demostrar una implementación eficiente de ningún algoritmo en particular).
 
