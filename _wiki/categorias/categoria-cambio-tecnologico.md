@@ -8,8 +8,9 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: true
-author_profile: false
-permalink: /wiki/categoria/cambio-tecnologico
+author_profile: true
+classes: wide
+permalink: /wiki/categoria/cambio-tecnologico/
 
 ---
 

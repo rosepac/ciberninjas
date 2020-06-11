@@ -8,8 +8,9 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: false
-author_profile: false
-permalink: /wiki/categoria/generadores-de-sitios-web-estaticos
+author_profile: true
+classes: wide
+permalink: /wiki/categoria/generadores-de-sitios-web-estaticos/
 
 ---
 

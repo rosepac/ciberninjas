@@ -5,9 +5,10 @@ description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnol�
 excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Dlinject"
 date: 2020-01-15 01:55:07
 published: true
-author_profile: false
-permalink: /wiki/dlinject
-canonical_URL: https://ciberninjas.com/wiki/dlinject
+author_profile: true
+classes: wide
+permalink: /wiki/dlinject/
+canonical_URL: https://ciberninjas.com/wiki/dlinject/
 
 ---
 
@@ -48,7 +49,7 @@ Dlinject se creo Inspirado por Cexigua y linux-inject, entre otros.
 - Requiere root o configuración de YAMA relajada ( `echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope`es útil al realizar pruebas).
 - Si el proceso de destino está protegido (por ejemplo, filtros seccomp), es posible que no tenga permiso para `mmap()`el shellcode de la segunda etapa o para `dlopen()`la biblioteca.
 
-**Categorías**: [Depuración](/wiki/categoria/depuracion)
+**Categorías**: [Depuración](/wiki/categoria/depuracion/)
 {:.notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Dlinject](https://github.com/DavidBuchanan314/dlinject#dlinjectpy){:target="_blank" rel="nofollow,noreferrer"} de Github en inglés, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Ptrace&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo Licencia [MIT](https://github.com/DavidBuchanan314/dlinject/blob/master/LICENSE){:target="_blank" rel="nofollow,noreferrer"}{:target="_blank" rel="nofollow,noreferrer"}.

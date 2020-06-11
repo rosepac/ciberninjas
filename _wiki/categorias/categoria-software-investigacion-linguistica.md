@@ -8,8 +8,9 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: false
-author_profile: false
-permalink: /wiki/categoria/software-de-investigacion-linguistica
+author_profile: true
+classes: wide
+permalink: /wiki/categoria/software-de-investigacion-linguistica/
 
 ---
 

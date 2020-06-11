@@ -9,9 +9,10 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: true
-author_profile: false
-permalink: /wiki/elan-software
-canonical_URL: https://ciberninjas.com/wiki/elan-software
+author_profile: true
+classes: wide
+permalink: /wiki/elan-software/
+canonical_URL: https://ciberninjas.com/wiki/elan-software/
 
 ---
 

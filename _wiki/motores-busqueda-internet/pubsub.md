@@ -5,9 +5,10 @@ description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnol�
 excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: PubSub"
 date: 2019-10-02 01:55:07
 published: true
-author_profile: false
-permalink: /wiki/pubsub
-canonical_URL: https://ciberninjas.com/wiki/pubsub
+author_profile: true
+classes: wide
+permalink: /wiki/pubsub/
+canonical_URL: https://ciberninjas.com/wiki/pubsub/
 
 ---
 

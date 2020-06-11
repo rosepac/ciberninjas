@@ -6,9 +6,10 @@ excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológic
 date: 2019-10-10 11:50:07
 last_modified_at: 2019-10-10 19:51:30
 published: true
-author_profile: false
-permalink: /wiki/tipos-de-datos-complejos
-canonical_URL: https://ciberninjas.com/wiki/tipos-de-datos-complejos
+author_profile: true
+classes: wide
+permalink: /wiki/tipos-de-datos-complejos/
+canonical_URL: https://ciberninjas.com/wiki/tipos-de-datos-complejos/
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
@@ -61,7 +62,7 @@ PRINT SQRT(-4)
 3. [Guía de diseño e implementación de la base de datos IBM Informix](https://archive.is/20120712140803/http://publib.boulder.ibm.com/infocenter/idshelp/v10/index.jsp?topic=/com.ibm.ddi.doc/ddi168.htm){:target="_blank" rel="nofollow,noreferrer"}
 4. [Una guía para la programación de Fortran IV](https://books.google.com/books?id=aNhWAAAAMAAJ&q=fortran+complex){:target="_blank" rel="nofollow,noreferrer"} Daniel D. McCracken - 1972 - 288 páginas. "La capacidad proporcionada por las operaciones complejas de Fortran es un gran ahorro en el esfuerzo de programación a la hora de resolver ciertos problemas".
 
-**Categorías**: [Tipos de Datos](/wiki/categoria/tipos-de-datos "Categoría de Tipos de Datos WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas del Siglo 21")
+**Categorías**: [Tipos de Datos](/wiki/categoria/tipos-de-datos/ "Categoría de Tipos de Datos WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas del Siglo 21")
 {:.notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Tipos de Datos Complejos](https://en.wikipedia.org/wiki/Complex_data_type){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 20 de Septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Complex_data_type&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.

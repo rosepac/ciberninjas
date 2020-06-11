@@ -6,9 +6,10 @@ excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológic
 date: 2019-10-04 03:28:07
 last_modified_at: 2020-02-18T06:10:42-05:00
 published: true
-author_profile: false
-permalink: /wiki/fundacion-ciborg
-canonical_URL: https://ciberninjas.com/wiki/fundacion-ciborg
+author_profile: true
+classes: wide
+permalink: /wiki/fundacion-ciborg/
+canonical_URL: https://ciberninjas.com/wiki/fundacion-ciborg/
 
 ---
 
@@ -46,7 +47,7 @@ En 2016, junto con el investigador y activista electrónico de derechos civiles 
 - [Fundación Cyborg Rafel Duran Torrent](http://www.focusforwardfilms.com/contest/13/cyborg-foundation-rafel-duran-torrent){:target="_blank" rel="nofollow,noreferrer"}
 - [Guia de Fundacion](https://www.foundationguide.org/foundations-trust/the-cyborg-foundation/){:target="_blank" rel="nofollow,noreferrer"}
 
-**Categorías**: [Cambio Tecnológico](/wiki/categoria/cambio-tecnologico)
+**Categorías**: [Cambio Tecnológico](/wiki/categoria/cambio-tecnologico/)
 {: .notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Fundación Cíborg](https://en.wikipedia.org/wiki/cyborg_Foundation){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 24 de Mayo de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=cyborg_Foundation&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.

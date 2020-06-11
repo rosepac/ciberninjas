@@ -10,8 +10,9 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: true
-author_profile: false
-permalink: /wiki/generador-de-sitios-estaticos
+author_profile: true
+classes: wide
+permalink: /wiki/generador-de-sitios-estaticos/
 
 ---
 

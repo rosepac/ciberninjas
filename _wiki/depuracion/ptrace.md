@@ -5,9 +5,10 @@ description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnol�
 excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Ptrace"
 date: 2020-01-15 01:55:07
 published: true
-author_profile: false
-permalink: /wiki/ptrace
-canonical_URL: https://ciberninjas.com/wiki/ptrace
+author_profile: true
+classes: wide
+permalink: /wiki/ptrace/
+canonical_URL: https://ciberninjas.com/wiki/ptrace/
 
 ---
 
@@ -47,7 +48,7 @@ Linux también brinda a los procesos la capacidad de evitar que otros procesos s
 
 Para algunos teléfonos Android con un cargador de arranque bloqueado, ptrace se usa para obtener control sobre el proceso de inicio para habilitar un 'segundo arranque' y reemplazar los archivos del sistema.
 
-**Categorías**: [Depuración](/wiki/categoria/depuracion)
+**Categorías**: [Depuración](/wiki/categoria/depuracion/)
 {:.notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Ptrace](https://en.wikipedia.org/wiki/Ptrace){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 1 de Noviembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Ptrace&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.

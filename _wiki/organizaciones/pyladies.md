@@ -10,9 +10,10 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: true
-author_profile: false
-permalink: /wiki/pyladies
-canonical_URL: https://ciberninjas.com/wiki/pyladies
+author_profile: true
+classes: wide
+permalink: /wiki/pyladies/
+canonical_URL: https://ciberninjas.com/wiki/pyladies/
 pyladies-1:
   - url: https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg
     image_path: https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg

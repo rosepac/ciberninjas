@@ -9,9 +9,10 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: true
-author_profile: false
-permalink: /wiki/apache-storm
-canonical_URL: https://ciberninjas.com/wiki/apache-storm
+author_profile: true
+permalink: /wiki/apache-storm/
+canonical_URL: https://ciberninjas.com/wiki/apache-storm/
+classes: wide
 
 ---
 

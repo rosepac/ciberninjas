@@ -7,9 +7,10 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-published: false
-author_profile: false
-permalink: /wiki/categoria/depuracion
+published: true
+author_profile: true
+classes: wide
+permalink: /wiki/categoria/depuracion/
 
 ---
 <!-- EN CONSTRUCCIÓN -->

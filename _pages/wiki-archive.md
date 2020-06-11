@@ -1,5 +1,7 @@
 ---
 layout: collection
+classes: wide
+author_profile: true
 title: "WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas"
 description: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
 excerpt: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"

@@ -5,9 +5,10 @@ description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnol�
 excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Cambio Técnico"
 date: 2019-10-04 01:55:07
 published: true
-author_profile: false
+author_profile: true
+classes: wide
 permalink: /wiki/cambio-tecnico
-canonical_URL: https://ciberninjas.com/wiki/cambio-tecnico
+canonical_URL: https://ciberninjas.com/wiki/cambio-tecnico/
 
 ---
 
@@ -27,7 +28,7 @@ En consecuencia, los aumentos en el PIB proporcionan una medida sustantiva que d
 
 El "proceso natural" del capitalismo (incluida la destrucción creativa) es objeto de gran contención por parte de los partidarios de otros sistemas de organización macroeconómica que ven el resultado final de la obsolescencia programada como la creación de una subclase permanente que tiene un nivel desigual de acceso al capital de inversión, los recursos educativos que no son necesariamente de su propia creación, mientras que otros buscan crear un resultado igual para insumos laborales o de capital desproporcionados que aún no han podido demostrar un modelo viable que pueda competir contra las economías de libre mercado en un futuro cercano a largo plazo.
 
-**Categorías**: [Cambio Tecnológico](/wiki/categoria/cambio-tecnologico)
+**Categorías**: [Cambio Tecnológico](/wiki/categoria/cambio-tecnologico/)
 {: .notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Cambio Técnico](https://en.wikipedia.org/wiki/Technical_change){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 12 de Julio de 2018, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Technical_change&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.

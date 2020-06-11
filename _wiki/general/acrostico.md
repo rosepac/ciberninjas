@@ -5,9 +5,10 @@ description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnol�
 excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Arte Cíborg"
 date: 2019-10-04 03:55:07
 published: false
-author_profile: false
-permalink: /wiki/arte-ciborg
-canonical_URL: https://ciberninjas.com/wiki/arte-ciborg
+author_profile: true
+classes: wide
+permalink: /wiki/arte-ciborg/
+canonical_URL: https://ciberninjas.com/wiki/arte-ciborg/
 
 ---
 

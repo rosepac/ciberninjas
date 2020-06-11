@@ -10,9 +10,10 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: true
-author_profile: false
-permalink: /wiki/eclipse-theia
-canonical_URL: https://ciberninjas.com/wiki/eclipse-theia
+author_profile: true
+classes: wide
+permalink: /wiki/eclipse-theia/
+canonical_URL: https://ciberninjas.com/wiki/eclipse-theia/
 
 ---
 

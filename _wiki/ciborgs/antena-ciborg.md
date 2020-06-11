@@ -5,9 +5,10 @@ description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnol�
 excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Antena Cíborg"
 date: 2019-10-04 04:51:07
 published: true
-author_profile: false
-permalink: /wiki/antena-ciborg
-canonical_URL: https://ciberninjas.com/wiki/antena-ciborg
+author_profile: true
+classes: wide
+permalink: /wiki/antena-ciborg/
+canonical_URL: https://ciberninjas.com/wiki/antena-ciborg/
 
 ---
 
@@ -43,7 +44,7 @@ En 2011, el vicepresidente de Ecuador, Lenin Moreno, anunció que su gobierno co
 
 Las antenas se están tratando actualmente como partes del cuerpo y no como dispositivos.
 
-**Categorías**: Cibernética \ [Cíborgs](/wiki/categoria/cambio-tecnologico)
+**Categorías**: Cibernética \ [Cíborgs](/wiki/categoria/cambio-tecnologico/)
 {: .notice--success}
 
 **INF.**: Esta obra contiene una traducción total derivada de [Antena Cíborg](https://en.wikipedia.org/wiki/Cyborg_antenna){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 12 de Julio de 2018, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Cyborg_antenna&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.

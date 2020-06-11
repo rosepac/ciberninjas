@@ -9,8 +9,10 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: true
-author_profile: false
-permalink: /wiki/categoria/tipos-de-datos
+author_profile: true
+classes: wide
+permalink: /wiki/categoria/tipos-de-datos/
+canonical_URL: https://ciberninjas.com/wiki/categoria/tipos-de-datos/
 
 ---
 
