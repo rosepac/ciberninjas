@@ -141,8 +141,6 @@ Continuous Delivery Foundation está trabajando para definir los controladores g
 
 Puede encontrar más información sobre [la hoja de ruta aquí](/hoja-ruta-mlops/).
 
-![MLOps (un compuesto de Machine Learning y "tecnología de la información OPERACIONES") es una nueva disciplina / enfoque / práctica para la colaboración y comunicación entre científicos de datos y tecnología de la información.](/assets/images/blog/mlops-logo.webp "MLOps (un compuesto de Machine Learning y "tecnología de la información OPERACIONES") es una nueva disciplina / enfoque / práctica para la colaboración y comunicación entre científicos de datos y tecnología de la información.")
-
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
