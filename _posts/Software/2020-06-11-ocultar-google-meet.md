@@ -26,9 +26,9 @@ published: true
 
 ---
 
-En caso de que no desee ver el acceso directo de Google Meet cada día que revises tu correo electrónico. Hoy, vamos a comprobar como se puede ocultar.
+En caso de que no desees ver el acceso directo de Google Meet cada día que revises tu correo electrónico, siempre podrás ocultarlo; y hoy vamos a explicarte como se hace.
 
-Google lanzó recientemente Google Meet , una versión renovada de su programa de video chat Hangouts Meet, y puso la aplicación a disposición de cualquier persona con una cuenta de Google. Puede iniciar o unirse a una videoconferencia Meet directamente desde su bandeja de entrada de Gmail , utilizando los botones que Google ha colocado en el lado izquierdo de la página.
+Google lanzó recientemente Google Meet, una versión renovada de su programa de video y chat de Hangouts Meet y puso la aplicación a disposición de cualquier persona que tenga una cuenta de Google; además de implementar un acceso rápido a iniciar una videoconferencia desde Meet desde la bandeja de entrada de Gmail; utilizando unos nuevos botones colocados en el lado izquierdo de la página de Gmail.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -41,23 +41,24 @@ Google lanzó recientemente Google Meet , una versión renovada de su programa d
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Pero, ¿Qué pasa si no tienes la intención de usar Meet, o incluso si simplemente no quiere que esté allí todo el tiempo? No se preocupe, puede ocultar los botones. (Nota: si tiene una cuenta corporativa de G Suite, es posible que no pueda cambiar esto, dependiendo de la configuración de su administrador).
+Pero, ¿Qué pasa si no tienes la intención de usar Meet, o incluso si simplemente no quieres esos botones estén allí? Pues, no te preocupes porque Google nos va a permitir ocultar los molestos botones.
 
-Aquí se explica cómo ocultar Google Meet en Gmail:
-- Abre Gmail
-- Haga clic en el icono del engranaje en la esquina superior derecha.
-- Haga clic en "Configuración" en el menú desplegable.
-- Haga clic en la pestaña "Chat and Meet".
-- Junto a la etiqueta "Meet:", seleccione "Ocultar la sección Meet en el menú principal".
-- Haga clic en "Guardar cambios".
+> Nota: Si tienes una cuenta corporativa de G Suite, es posible que no puedas cambiarlo; todo depende de la configuración del administrador.
+{: .notice--primary}
 
-¡Listo! Y siempre podrás acceder a Meet yendo al enlace de [Google Meet](https://meet.google.com/){:target="_blank" rel="nofollow,noreferrer"} a pesar de tener el acceso directo desde Gmail.
+Aquí te explicamos paso a paso cómo ocultar Google Meet en Gmail:
+- Abre Gmail,
+- Haz Clic en el icono del engranaje en la esquina superior derecha.
+- Haz Clic en "Configuración" dentro del menú desplegable.
+- Haz Clic en la pestaña de "Chat and Meet".
+- Junto a la etiqueta de "Meet:", selecciona "Ocultar la sección de Meet en el menú principal".
+- Haz clic en "Guardar cambios".
+
+¡Listo! Siempre podrás acceder a Meet a través del enlace de [Google Meet](https://meet.google.com/){:target="_blank" rel="nofollow,noreferrer"} a pesar de tener el acceso directo desde Gmail ocultado.
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados
-
-### Relacionados <!-- omit in toc -->
 
 [👨‍🔧 5 formas de restaurar las ventanas de Windows](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/)
 
