@@ -245,7 +245,7 @@ Hoy, casi la gente está buscando en Google usando un dispositivo móvil. En nov
 
 Para evitar contenido no deseado en los índices de búsqueda, los webmasters pueden indicar a las arañas que no rastreen archivos o directorios seguros a través del archivo Robots.txt de especificaciones en el directorio raíz del dominio. 
 
-Además, una página puede excluirse explícitamente de la base de datos de un motor de búsqueda mediante el uso de una etiqueta Meta específica para robots comúnmente `````<meta name= "robots" content = "noindex">`````. Cuando un motor de búsqueda visita un sitio, el archivo robots.txt ubicado en el directorio raízes el primer archivo rastreado.
+Además, una página puede excluirse explícitamente de la base de datos de un motor de búsqueda mediante el uso de una etiqueta Meta específica para robots comúnmente ```< meta name= "robots" content = " noindex " >```. Cuando un motor de búsqueda visita un sitio, el archivo robots.txt ubicado en el directorio raízes el primer archivo rastreado.
 
 El archivo robots.txt se analiza y le indica al robot qué páginas no se deben rastrear. Como un rastreador de motores de búsqueda puede mantener una copia en caché de este archivo, en ocasiones puede rastrear páginas que un webmaster no desea rastrear.
 
@@ -710,7 +710,7 @@ https://www.ejemplo.com/productos/mujer?categoria=vestidos&color=verde 
 
 https://ejemplo.com/shopindex.php? producto_id = 32 & highlight = verde + vestido
 
-¿Cómo sabe Google qué versión de la URL debe servir a los usuarios? Google hace un buen trabajo para averiguar la URL representativa por sí misma, pero puedes utilizar la función Parámetros de URL en la Consola de Búsqueda de Google para decirle a Google exactamente cómo quieres que trate tus páginas. Si usas esta función para indicar a Googlebot que "no rastree las URL con el parámetro ____", entonces esencialmente estas pidiendo que se oculte este contenido de Googlebot, lo que podría resultar en la eliminación de esas páginas de los resultados de búsqueda. Eso es lo que deseas si esos parámetros crean páginas duplicadas, pero no es lo ideal si deseas que esas páginas se indexen.
+¿Cómo sabe Google qué versión de la URL debe servir a los usuarios? Google hace un buen trabajo para averiguar la URL representativa por sí misma, pero puedes utilizar la función Parámetros de URL en la Consola de Búsqueda de Google para decirle a Google exactamente cómo quieres que trate tus páginas.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -722,6 +722,8 @@ https://ejemplo.com/shopindex.php? producto_id = 32 & highlight = verde + vestid
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+Si usas esta función para indicar a Googlebot que "no rastree las URL con el parámetro xxx", entonces esencialmente estas pidiendo que se oculte este contenido de Googlebot, lo que podría resultar en la eliminación de esas páginas de los resultados de búsqueda. Eso es lo que deseas si esos parámetros crean páginas duplicadas, pero no es lo ideal si deseas que esas páginas se indexen.
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
