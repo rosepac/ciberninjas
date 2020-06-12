@@ -14,7 +14,20 @@ canonical_URL: https://ciberninjas.com/wiki/arte-ciborg/
 
 El arte cíborg, también conocido como ciborgismo es un movimiento artístico que comenzó a mediados de la década de 2000 en Gran Bretaña. Se basa en la creación y adición de nuevos sentidos al cuerpo a través de implantes cibernéticos y la creación de obras de arte a través de nuevos sentidos.
 
-Las obras de arte cíborg son creadas por artistas cíborg; artistas cuyos sentidos se han mejorado voluntariamente mediante implantes cibernéticos. Entre los primeros artistas que dieron forma al movimiento artístico cíborg se encuentran Neil Harbisson, cuyo implante de antena le permite percibir los colores ultravioleta e infrarrojo, y Moon Ribas que le permiten sentir todos los terremotos del mundo a tiempo real a través de sus implantes en sus pies.
+Las obras de arte cíborg son creadas por artistas cíborg; artistas cuyos sentidos se han mejorado voluntariamente mediante implantes cibernéticos.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Entre los primeros artistas que dieron forma al movimiento artístico cíborg se encuentran Neil Harbisson, cuyo implante de antena le permite percibir los colores ultravioleta e infrarrojo, y Moon Ribas que le permiten sentir todos los terremotos del mundo a tiempo real a través de sus implantes en sus pies.
 
 Otros artistas cíborg incluyen a:
 

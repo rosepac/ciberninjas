@@ -20,6 +20,17 @@ El Entorno de preinstalación de Windows (también conocido como Windows PE y Wi
 
 Está destinado a reemplazar los discos de arranque de MS-DOS y se puede iniciar a través de una unidad flash USB, PXE, iPXE, CD-ROM o disco duro.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Usado tradicionalmente por grandes corporaciones y OEM (para preinstalar Sistemas operativos cliente de Windows en PC durante la fabricación), ahora está ampliamente disponible de forma gratuita a través del Kit de instalación automatizada de Windows (WAIK).
 
 ## Descripción
@@ -30,7 +41,20 @@ WinPE originalmente estaba destinado a usarse solo como una plataforma de preins
 * Plataforma de recuperación para ejecutar herramientas de recuperación de 32 o 64 bits como Winternals ERD Commander o Windows Recovery Environment (Windows RE).
 * Plataforma para ejecutar utilidades de clonación de discos de 32 o 64 bits de terceros.
 
-El paquete se puede usar para pruebas de desarrollador o como un CD / DVD de recuperación para administradores de sistemas. Muchos voluntarios de CD de arranque WinPE empaquetados con aplicaciones de terceros para diferentes usos ahora están disponibles a través de Internet a través de voluntarios. El paquete también se puede utilizar como base de una investigación forense para capturar una imagen de disco o ejecutar herramientas de análisis sin montar ningún disco disponible y, por lo tanto, cambiar de estado.
+El paquete se puede usar para pruebas de desarrollador o como un CD / DVD de recuperación para administradores de sistemas. Muchos voluntarios de CD de arranque WinPE empaquetados con aplicaciones de terceros para diferentes usos ahora están disponibles a través de Internet a través de voluntarios.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+El paquete también se puede utilizar como base de una investigación forense para capturar una imagen de disco o ejecutar herramientas de análisis sin montar ningún disco disponible y, por lo tanto, cambiar de estado.
 
 La versión 2.0 introdujo una serie de mejoras y extendió la disponibilidad de WinPE a todos los clientes, no solo a los clientes corporativos corporativos al descargar e instalar el Kit de instalación automatizada de Windows (WAIK) de Microsoft.
 

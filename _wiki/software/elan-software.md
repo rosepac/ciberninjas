@@ -16,7 +16,20 @@ canonical_URL: https://ciberninjas.com/wiki/elan-software/
 
 ---
 
-ELAN es un software informático, una herramienta profesional para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video. Tiene un modelo de datos basado en niveles que admite anotaciones de múltiples niveles y múltiples participantes de medios basados en el tiempo. Se aplica en la investigación en humanidades y ciencias sociales (documentación de lenguaje, lenguaje de señas e investigación de gestos) con el propósito de documentación y análisis cualitativo y cuantitativo. Se distribuye como software libre y de código abierto bajo la Licencia Pública General de GNU, versión 3.
+ELAN es un software informático, una herramienta profesional para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video. Tiene un modelo de datos basado en niveles que admite anotaciones de múltiples niveles y múltiples participantes de medios basados en el tiempo.
+
+Se aplica en la investigación en humanidades y ciencias sociales (documentación de lenguaje, lenguaje de señas e investigación de gestos) con el propósito de documentación y análisis cualitativo y cuantitativo. Se distribuye como software libre y de código abierto bajo la Licencia Pública General de GNU, versión 3.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ELAN es un software de nivel profesional bien establecido y es ampliamente utilizado en la academia. Ha sido bien recibido en varias disciplinas académicas, por ejemplo, en psicología, medicina, psiquiatría, educación y estudios de comportamiento, sobre temas como la interacción humano-computadora, lenguaje de señas y conversación análisis, interacciones grupales , musicoterapia, bilingüismoy adquisición del lenguaje infantil, análisis de comunicación no verbal y análisis de gestos, y comportamiento animal.
 

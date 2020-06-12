@@ -21,7 +21,18 @@ t-IANAL es una expresión en jerga informática que significa: No soy un abogado
 
 La expresión puede ser utilizada por personas que no sean abogados que busquen evitar acusaciones de práctica legal no autorizada y no hagan ninguna recomendación al destinatario particular de sus comentarios.
 
-Existe na abreviatura relacionada, TINLA, que significa "Esto no es asesoramiento legal". Una y otra a menudo preceden opiniones sobre la ley. El uso de estas expresiones sirve como una advertencia para que el lector no tome la opinión como asesoramiento legal profesional.
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Existe una abreviatura relacionada, TINLA, que significa "Esto no es asesoramiento legal". Una y otra a menudo preceden opiniones sobre la ley. El uso de estas expresiones sirve como una advertencia para que el lector no tome la opinión como asesoramiento legal profesional.
 
 Muchas jurisdicciones tienen restricciones legales para ofrecer consejos legales, o ejercer como abogado sin calificaciones legales y registro oficial. La prestación de asesoramiento legal por parte de una persona que no tiene licencia para hacerlo puede ser la base de una práctica legal no autorizada.
 
@@ -32,9 +43,24 @@ El término parece estar inspirado en un comercial de la década de 1980 para el
 
 Se informa que el término IANAL era común en Usenet a fines de los años ochenta y principios de los noventa.
 
-Otra variante de IANAL es IANYL ("No soy tu abogado"). El término puede ser utilizado por un abogado que publique comentarios en un tablero de mensajes para indicar que el comentarista es, de hecho, un abogado, pero para enfatizar que el comentarista no representa al lector y para indicar que los comentarios no están protegidos por un abogado; y que el comentarista niega cualquier negligencia u otra responsabilidad extracontractual si la sugerencia se sigue con resultados indeseables. IAAL ("Soy un abogado") a veces se usa también, generalmente con una descargo de responsabilidad explícito como "IAAL, pero no soy tu abogado".
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
-El estándar de jurisprudencia para determinar qué comentarios cruzan la línea es generalmente "la aplicación de la ley a hechos específicos de un individuo que busca asesoramiento legal". Los abogados pueden usar una exención de responsabilidad para reducir la confusión, y "No soy su abogado" es parte de una exención de responsabilidad típica. Existen "obligaciones importantes" que van junto con la creación de una relación abogado-cliente, particularmente si un "intercambio en línea incluye asesoramiento legal relacionado con los hechos específicos del cliente". Tribunales han sostenido que (en el caso de los números 900 ) repetitivo renuncias sin acciones claras para indicar su asentimiento no se puede evitar la creación de una relación abogado-cliente.
+Otra variante de IANAL es IANYL ("No soy tu abogado"). El término puede ser utilizado por un abogado que publique comentarios en un tablero de mensajes para indicar que el comentarista es, de hecho, un abogado, pero para enfatizar que el comentarista no representa al lector y para indicar que los comentarios no están protegidos por un abogado; y que el comentarista niega cualquier negligencia u otra responsabilidad extracontractual si la sugerencia se sigue con resultados indeseables.
+
+IAAL ("Soy un abogado") a veces se usa también, generalmente con una descargo de responsabilidad explícito como "IAAL, pero no soy tu abogado".
+
+El estándar de jurisprudencia para determinar qué comentarios cruzan la línea es generalmente "la aplicación de la ley a hechos específicos de un individuo que busca asesoramiento legal". Los abogados pueden usar una exención de responsabilidad para reducir la confusión, y "No soy su abogado" es parte de una exención de responsabilidad típica.
+
+Existen "obligaciones importantes" que van junto con la creación de una relación abogado-cliente, particularmente si un "intercambio en línea incluye asesoramiento legal relacionado con los hechos específicos del cliente". Tribunales han sostenido que (en el caso de los números 900 ) repetitivo renuncias sin acciones claras para indicar su asentimiento no se puede evitar la creación de una relación abogado-cliente.
 
 Las variaciones de IANAL se pueden aplicar a diferentes campos, como IANAMD para "No soy médico" o IANAP para "No soy físico". Estas expresiones tienen el mismo propósito general que IANAL: desalentar el uso de La información como asesoramiento profesional.
 

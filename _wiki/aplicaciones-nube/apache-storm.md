@@ -20,9 +20,31 @@ Apache Storm es un marco de cálculo de procesamiento de flujo distribuido escri
 
 Utiliza "spouts" y "bolts" creados a medida para definir las fuentes de información y las manipulaciones para permitir el procesamiento por lotes y distribuido de datos de transmisión. El lanzamiento inicial fue el 17 de septiembre de 2011.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Una aplicación Storm está diseñada como una "topología" en forma de un gráfico acíclico dirigido (DAG) con boquillas y tornillos que actúan como los vértices del gráfico. Los bordes del gráfico se denominan flujos y datos directos de un nodo a otro. En conjunto, la topología actúa como una tubería de transformación de datos.
 
 En un nivel superficial, la estructura de topología general es similar a un trabajo de MapReduce , con la principal diferencia de que los datos se procesan en tiempo real en lugar de en lotes individuales. Además, las topologías de Storm se ejecutan indefinidamente hasta que se eliminan, mientras que un DAG de trabajo MapReduce finalmente debe finalizar.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Storm se convirtió en un proyecto de nivel superior de Apache en septiembre de 2014 y anteriormente estaba en incubación desde septiembre de 2013.
 

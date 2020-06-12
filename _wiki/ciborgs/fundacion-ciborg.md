@@ -17,13 +17,43 @@ La Fundación cíborg es una organización sin fines de lucro creada en 2010 por
 
 La Fundación Cíborg se alojó por primera vez en el Parque Científico Tecnocampus (Barcelona) y actualmente tiene su sede en la ciudad de Nueva York . Colabora con varias instituciones, universidades y centros de investigación de todo el mundo.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Su misión es ayudar a los humanos a convertirse en cíborgs, promover el uso de la cibernética como parte del cuerpo humano y defender los derechos de los cíborg. Han donado [antenas cíborg](/wiki/antena-ciborg) a comunidades ciegas y ha enseñado el color a los niños ciegos para ayudarlos a desarrollar el sentido del color. La fundación cree que algunas extensiones cibernéticas deben tratarse como partes del cuerpo, no como dispositivos.
 
 ## Historia
 
-La fundación fue creada como respuesta al creciente número de cartas y correos electrónicos que recibió Neil Harbisson de personas de todo el mundo interesadas en convertirse en un cíborg. Desde su creación, la fundación ha puesto en marcha varios proyectos de desarrollo de nuevo sentido y ha donado [antenas cíborg](/wiki/antena-ciborg) a comunidades ciegas en Europa, Asia y América.
+La fundación fue creada como respuesta al creciente número de cartas y correos electrónicos que recibió Neil Harbisson de personas de todo el mundo interesadas en convertirse en un cíborg.
 
-La primera persona ciega en probar un eyeborg fue Sabriye Tenberken, seguida por estudiantes ciegos de Braille Sin Fronteras en el Tíbet y miembros de la Sociedad de Ciegos de Pichincha en Ecuador. En 2010, la fundación fue la ganadora general de los Premios Cre @ tic, organizados por Tecnocampus Mataró. En 2012, el director de cine español Rafel Duran Torrent, creó un cortometraje sobre la Fundación Cíborg. En 2013, la película ganó el Gran Premio del Jurado en lacompetencia Focus Forward Filmmakers Competitiondel Festival de Cine de Sundance.
+Desde su creación, la fundación ha puesto en marcha varios proyectos de desarrollo de nuevo sentido y ha donado [antenas cíborg](/wiki/antena-ciborg) a comunidades ciegas en Europa, Asia y América.
+
+La primera persona ciega en probar un eyeborg fue Sabriye Tenberken, seguida por estudiantes ciegos de Braille Sin Fronteras en el Tíbet y miembros de la Sociedad de Ciegos de Pichincha en Ecuador.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+En 2010, la fundación fue la ganadora general de los Premios Cre @ tic, organizados por Tecnocampus Mataró.
+
+En 2012, el director de cine español Rafel Duran Torrent, creó un cortometraje sobre la Fundación Cíborg.
+
+En 2013, la película ganó el Gran Premio del Jurado en lacompetencia Focus Forward Filmmakers Competitiondel Festival de Cine de Sundance.
 
 ### Asociaciones y Colaboraciones
 
@@ -36,7 +66,9 @@ La primera persona ciega en probar un eyeborg fue Sabriye Tenberken, seguida por
 
 En 2014, la Fundación Cíborg participó en la comisión de la Unión Europea para leyes robóticas.
 
-En 2016, junto con el investigador y activista electrónico de derechos civiles y libertades civiles Rich MacKinnon, se propuso una lista de Derechos Civiles de Cíborg en South by Southwest . Esta lista describe la redefinición y defensa de las libertades civiles cíborg y la santidad de los cuerpos cíborg. También previó una batalla por la propiedad, licencia y control de anatomías aumentadas, alternativas y sintéticas; la comunicación, datos y telemetría producidos por ellos; y la definición misma de lo que significa ser humano.
+En 2016, junto con el investigador y activista electrónico de derechos civiles y libertades civiles Rich MacKinnon, se propuso una lista de Derechos Civiles de Cíborg en South by Southwest.
+
+Esta lista describe la redefinición y defensa de las libertades civiles cíborg y la santidad de los cuerpos cíborg. También previó una batalla por la propiedad, licencia y control de anatomías aumentadas, alternativas y sintéticas; la comunicación, datos y telemetría producidos por ellos; y la definición misma de lo que significa ser humano.
 
 ## Enlaces Externos
 

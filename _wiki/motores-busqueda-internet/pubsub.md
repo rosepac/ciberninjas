@@ -16,6 +16,17 @@ PubSub.com fue un motor de búsqueda prospectivo para buscar blogs , comunicados
 
 El sitio, fundado en 2002 por Bob Wyman y Salim Ismail, operaba almacenando el término de búsqueda de un usuario, convirtiéndolo en una suscripción y verificándolo en publicaciones en blogs que hacen ping al motor de búsqueda. Cuando se encontró una nueva coincidencia, se notificó al usuario, incluso si ocurrió meses después de la búsqueda inicial. Esta característica llevó a PubSub a llamarse un motor de coincidencias.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Los resultados se podian leer en el sitio web del servicio o en una barra lateral opcional, disponible para Internet Explorer y Mozilla Firefox, escrita por Malcolm Pollack y Duncan A. Werner respectivamente, o por RSS.
 
 Los resultados también se podian enviar a sistemas remotos a través del API de Restful, correo electrónico o XMPP.

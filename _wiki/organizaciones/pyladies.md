@@ -22,11 +22,22 @@ pyladies-1:
 
 ---
 
-PyLadies es un grupo internacional de mentoras / consejeras / orientadoras, principalmente mujeres,  que se enfoca en ayudar e introducir a otras mujeres en la participación activa dentro de la comunidad de código abierto de Python. Son parte de la Fundación del Software Python. Se inició en Los Ángeles en 2011. La misión del grupo es crear una comunidad diversa de Python a través de actividades de divulgación , educación, conferencias y reuniones sociales.
+PyLadies es un grupo internacional de mentoras / consejeras / orientadoras, principalmente mujeres,  que se enfoca en ayudar e introducir a otras mujeres en la participación activa dentro de la comunidad de código abierto de Python. Son parte de la Fundación del Software Python. Se inició en Los Ángeles en 2011.
 
-PyLadies también proporciona fondos para que las mujeres asistan a conferencias de código abierto.
+La misión del grupo es crear una comunidad diversa de Python a través de actividades de divulgación , educación, conferencias y reuniones sociales.
 
-El objetivo de PyLadies es aumentar la participación de las mujeres en la informática. PyLadies se convirtió en una organización de varias de egaciones tras la fundación de la delegación de Washington DC en Agosto de 2011. El grupo cuenta actualmente con [más de 100 delegaciones](/wiki/pyladies/#enlaces-externos "Más de 100 delegaciones de PyLadies que existen a lo largo de todo el mundo") en todo el mundo. 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+PyLadies también proporciona fondos para que las mujeres asistan a conferencias de código abierto. El objetivo de PyLadies es aumentar la participación de las mujeres en la informática. PyLadies se convirtió en una organización de varias de egaciones tras la fundación de la delegación de Washington DC en Agosto de 2011. El grupo cuenta actualmente con [más de 100 delegaciones](/wiki/pyladies/#enlaces-externos "Más de 100 delegaciones de PyLadies que existen a lo largo de todo el mundo") en todo el mundo. 
 
 ## Historia
 
@@ -35,6 +46,17 @@ La organización fue creada en Los Ángeles en abril de 2011 por siete mujeres: 
 ## Sobre
 
 PyLadies ha llevado a cabo eventos de divulgación para principiantes y usuari@s experimentad@s, además de realizar numerosos hackatones, noches sociales y talleres para entusiastas de Python.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Cada delegación es libre de organizarse como lo desee, siempre y cuando se centren en el objetivo de empoderar a las mujeres y a otros géneros marginados en el ámbito de la tecnología. Las mujeres constituyen la mayoría del grupo, pero la membresía no se limita a las mujeres y el grupo siempre está abierto a apoyar a personas que también se identifiquen con otras identidades de género en exclusión.
 

@@ -23,3 +23,13 @@ Páginas pertenecientes a esta categoría: 1
 
 - [Tipos de Datos Complejos](/wiki/tipos-de-datos-complejos "Tipos de Datos Complejos. Visto en WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas del Siglo 21")
 <!-- https://en.wikipedia.org/wiki/Category:Data_types -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
