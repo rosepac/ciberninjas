@@ -23,7 +23,7 @@ header:
   overlay_filter: 0.2
   image_description: 'Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida'
   image_alt: 'Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida'
-title: '11 Mejores entornos de desarrollo para Python 2020'
+title: '11 Mejores editores de código Python y entornos de desarrollo IDE 2020'
 description: >-
   Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente.
 excerpt: >-
