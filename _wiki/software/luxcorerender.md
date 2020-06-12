@@ -19,11 +19,22 @@ canonical_URL: https://ciberninjas.com/wiki/luxcorerender/
 
 LuxCoreRender es un software de renderización 3D de código abierto y libre. LuxRender comenzó bajo la denominaciónde LuxRender en 2008 antes de cambiar su nombre a LuxCoreRender en 2017 como parte de un reinicio del proyecto. El software LuxCoreRender puede instalarse sobre Linux, Mac OS X y Microsoft Windows.
 
-## Des
+## Descripción General
 
 LuxCoreRender presenta un sistema completo de renderización 3D basado en otros programas de modelado 3D de creación de escenas renderizadas, incluidos los modelos, los materiales, las luces y las cámaras. Este contenido se puede exportar desde la aplicación para su representación.
 
 Luxrender posee plugins totalmente funcionales con los que exportar sus diseño hacía Blender y Daz Studio; y solamente parcialmente en el caso de que deseemos trabajar conjunto a software como Cinema 4D, Maya, SketchUp o XSI.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Luxrender también es totalmente compatible como renderizador de producción en 3DS Max. LuxCoreRender y Blender son compatibles a través del complemento BlendLuxCore. Después de abrir el archivo exportado, LuxCoreRender renderizará la escena.
 
@@ -36,6 +47,17 @@ Se pueden configurar varios ajustes para la configuración del procesamiento pos
 LuxCoreRender comenzó originalmente como LuxRender en 2008 basado en PBRT, un programa de representación basada en la física. Aunque PBRT es muy capaz y está bien estructurado, se centra en el uso académico y los artistas digitales no lo pueden utilizar fácilmente.
 
 Como PBRT tiene su licencia bajo la Licencia BSD, fue posible iniciar un nuevo programa basado en el código fuente de PBRT; desde ese punto de partida y con la bendición de los autores originales de PBRT nació definitivamente LuxRender.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 En sus inicios, en septiembre de 2007, un pequeño grupo de programadores comenzó a crear el nuevo programa que se centraría sobre todo en un enfoque y uso artístico. Desde su etapa inicial, el programa ha atraído a un pequeño puñado de programadores de todo el mundo.
 
@@ -52,6 +74,17 @@ Durante el invierno de 2017, LuxCoreRender v2.0 se definió como un paquete de r
 ### ¿Por qué el proyecto de Lux Core Render Versión 2?
 
 El proyecto LuxRender se estaba muriendo bajo el peso de muchos viejos códigos abandonados, y todos los desarrolladores activos tenían la fuerte sensación de que se requería un nuevo comienzo. El "núcleo" entre "Lux" y "Render" está ahí para resaltar el nuevo enfoque del proyecto.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Sin embargo, la versión 2.0 comienza con el enfoque de la continuidad, y una hoja de ruta pautada por 10 años de desarrollo y experiencia.
 
@@ -135,5 +168,5 @@ Las características principales de LuxRender a partir de la versión 0.8 incluy
 **Categorías**: Software de gráficos 3D gratis | Sistemas de renderizado | Software de renderizado 3D para Linux | Software de iluminación global
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Elan - Software](https://en.wikipedia.org/wiki/Capture_One){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 28 de Septiembre de 2019, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Capture_One&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.
+**INF.**: Esta obra contiene una traducción total derivada de [LuxCoreRender](https://en.wikipedia.org/wiki/LuxCoreRender){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 23 de MAyo de 2020, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=LuxCoreRender&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.
 {: .notice--info}
