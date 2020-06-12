@@ -21,7 +21,7 @@ excerpt: >-
   Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.
 canonical_URL: https://ciberninjas.com/leyes-ux-experiencia-usuario/
 permalink: /leyes-ux-experiencia-usuario/
-date: 2020-06-10
+date: 2020-06-11
 last_modified_at: 
 published: true
 
@@ -31,6 +31,17 @@ Las Leyes de Experiencia de Usuario, son una colección de los principios y las 
 
 🔥 Seguro también te interesa: [Mejores Blogs de Diseño](/blogs-diseno-grafico-espanol/) >> [Mejores Blogs en Inglés](/blogs-diseno-grafico-ingles/) >> [Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) >> [Cursos Animación y Diseño](/cursos-animacion-diseno/)
 {: .notice--danger}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
@@ -59,17 +70,6 @@ Las Leyes de Experiencia de Usuario, son una colección de los principios y las 
   </ol>
 </nav>
 </details>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## 1. **Efecto de usabilidad estética**
 
