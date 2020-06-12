@@ -49,19 +49,20 @@ Cualquiera de estos editores será perfecto, al igual que cualquiera de los edit
 {: .notice--danger}
 
 <details>
-<summary><strong>MENÚ 👇 -👷‍♂️ EN CONSTRUCCIÓN 🤞- </strong><span><a name="menu"></a></span></summary>
+<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
     <li><a href="/mejores-editores-php/#1-komodo-php"></a></li>
     <li><a href="/mejores-editores-php/#2-eclipse-php"></a></li>
     <li><a href="/mejores-editores-php/#3-netbeans"></a></li>
-    <li><a href="/mejores-editores-php/"></a></li>
+    <li><a href="/mejores-editores-php/#4-codelobster"></a></li>
     <li><a href="/mejores-editores-php/#5-cloud-9"></a></li>
     <li><a href="/mejores-editores-php/#6-codelite"></a></li>
-    <li><a href="/mejores-editores-php/"></a></li>
-    <li><a href="/mejores-editores-php/"></a></li>
-    <li><a href="/mejores-editores-php/"></a></li>
-    <li><a href="/mejores-editores-php/"></a></li>
+    <li><a href="/mejores-editores-php/#7-geany"></a></li>
+    <li><a href="/mejores-editores-php/#8-storm-php"></a></li>
+    <li><a href="/mejores-editores-php/#9-textmate"></a></li>
+    <li><a href="/mejores-editores-php/#10-zend-studio"></a></li>
+    <li><a href="/mejores-editores-php/#11-kwrite"></a></li>
   </ol>
 </nav>
 </details>
