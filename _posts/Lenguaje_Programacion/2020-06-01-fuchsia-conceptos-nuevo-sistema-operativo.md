@@ -31,19 +31,6 @@ En el interior de esta guía vas a encontrar la introducción más extensa al nu
 
 [🔖 Ir al Índice](/sistema-operativo-fuchsia-conceptos/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
 {: .notice--danger}
 
@@ -54,6 +41,17 @@ Del Rosa más el Púrpura, nace el Fuchsia. Fuchsia, es un nuevo sistema operati
 Primero se dio a conocer al público cuando el proyecto apareció en un repositorio de git alojada en agosto de 2016 sin ningún anuncio oficial.
 
 La documentación de la fuente oficial de Fuchsia describe las razones de su nombre, "rosa más púrpura == fuchsia: Un nuevo sistema operativo" referenciando mediante los colores a otros sistemas operativos.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 El Rosa de Apple, por ser el primer microkernel orientado a objetos y el púrpura, nombre del código original del iPhone; en diferencia de los sistemas operativos anteriores de Google como Android y Chrome OS (basados en el kernel de Linux) el nuevo sistema operativo Fuchsia, se basa en un nuevo microkernel llamado Zircon, denominado así por el mineral de mismo nombre.
 

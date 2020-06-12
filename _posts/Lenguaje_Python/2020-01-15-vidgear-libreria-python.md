@@ -61,6 +61,17 @@ Para obtener información más avanzada, consulte la [\*documentación de Wiki �
 
 Cada una de estas API está diseñada exclusivamente para manejar / controlar diferentes transmisiones de video, transmisiones de red y codificadores de medios específicos del dispositivo. Estas API proporcionan un contenedor fácil de usar, altamente extensible y multihilo alrededor de varias bibliotecas subyacentes para explotar sus características y funciones directamente mientras proporcionan un manejo robusto de errores.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Estos engranajes se pueden clasificar de la siguiente manera:
 
 **A. Engranajes de VideoCapture:**
@@ -83,6 +94,17 @@ Estos engranajes se pueden clasificar de la siguiente manera:
 > *CamGear puede capturar cuadros ultrarrápidos de una amplia gama de dispositivos / transmisiones, que incluye casi cualquier cámara IP / USB, formato de archivo de video multimedia ( [\*hasta 4k probado\*](https://github.com/abhiTronix/vidgear/blob/e0843720202b0921d1c26e2ce5b11fadefbec892/vidgear/tests/benchmark_tests/test_benchmark_playback.py#L65){:target="_blank" rel="nofollow noreferrer"} ), varios protocolos de transmisión de red como `http(s), rtp, rstp, rtmp, mms, etc.`, además de soporte para la transmisión en vivo de Gstreamer y YouTube URLs de video / livestreams.*
 
 CamGear proporciona un contenedor multihilo flexible de alto nivel alrededor de la `OpenCV's` [clase VideoCapture](https://docs.opencv.org/master/d8/dfe/classcv_1_1VideoCapture.html#a57c0e81e83e60f36c83027dc2a188e80){:target="_blank" rel="nofollow noreferrer"} con acceso a casi todos sus parámetros disponibles y también emplea [`pafy`](https://github.com/mps-youtube/pafy){:target="_blank" rel="nofollow noreferrer"} API de Python para la transmisión en vivo de [YouTube](https://github.com/abhiTronix/vidgear/wiki/CamGear#2-camgear-api-with-live-youtube-piplineing-using-video-url){:target="_blank" rel="nofollow noreferrer"}.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Además, CamGear se implementa exclusivamente en [**modo de cola**](https://github.com/abhiTronix/vidgear/wiki/Threaded-Queue-Mode){:target="_blank" rel="nofollow noreferrer"} enhebrada para un manejo de trama sincronizado, ultrarrápido y sin errores.
 
@@ -172,7 +194,20 @@ stream_stab.stop()
 
 PiGear proporciona una envoltura flexible de múltiples subprocesos alrededor de la biblioteca completa de Python [**picamera**](https://github.com/waveform80/picamera){:target="_blank" rel="nofollow noreferrer"} para interactuar con estos módulos correctamente, y también otorga la capacidad de explotar sus diversas características `brightness, saturation, sensor_mode, etc.`sin esfuerzo.
 
-Lo mejor de todo es que la API de PiGear proporciona un excelente manejo de errores con características como un temporizador interno roscado que mantiene un seguimiento activo de cualquier subproceso congelado y maneja fallas de hardware / subprocesos congelados de manera robusta y, por lo tanto, saldrá de manera segura si se produce algún error. Entonces, si accidentalmente desconectó el cable del módulo de la cámara al ejecutar PiGear API en su secuencia de comandos, en lugar de entrar en posibles hilos de pánico / congelación del kernel, la API se cierra de manera segura para ahorrar recursos.
+Lo mejor de todo es que la API de PiGear proporciona un excelente manejo de errores con características como un temporizador interno roscado que mantiene un seguimiento activo de cualquier subproceso congelado y maneja fallas de hardware / subprocesos congelados de manera robusta y, por lo tanto, saldrá de manera segura si se produce algún error.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Entonces, si accidentalmente desconectó el cable del módulo de la cámara al ejecutar PiGear API en su secuencia de comandos, en lugar de entrar en posibles hilos de pánico / congelación del kernel, la API se cierra de manera segura para ahorrar recursos.
 
 **El siguiente diagrama de bloques funcional simplificado muestra la API de PiGear:**
 
@@ -386,29 +421,29 @@ Esta biblioteca tiene licencia bajo la licencia **[Apache 2.0](https://github.co
 **Fuente**: [Vidgear por Abhishek Thakur](https://github.com/abhiTronix/vidgear){:target="_blank" rel="nofollow,noreferrer"}
 
 #### Índice <!-- omit in toc -->
-- [**Qué es Vidgear?**](#qu%c3%a9-es-vidgear)
-- [**Qué hace VidGear?**](#qu%c3%a9-hace-vidgear)
-- [**Cuál es su propósito?**](#cu%c3%a1l-es-su-prop%c3%b3sito)
+- [**Qué es Vidgear?**](#qué-es-vidgear)
+- [**Qué hace VidGear?**](#qué-hace-vidgear)
+- [**Cuál es su propósito?**](#cuál-es-su-propósito)
 - [Engranajes](#engranajes)
 - [CamGear](#camgear)
-  - [Guía API de CamGear:](#gu%c3%ada-api-de-camgear)
+  - [Guía API de CamGear:](#guía-api-de-camgear)
 - [VideoGear](#videogear)
   - [VideoGear API Guide:](#videogear-api-guide)
 - [PiGear](#pigear)
-  - [Guía de API de PiGear:](#gu%c3%ada-de-api-de-pigear)
+  - [Guía de API de PiGear:](#guía-de-api-de-pigear)
 - [ScreenGear](#screengear)
-  - [Guía de la API de ScreenGear:](#gu%c3%ada-de-la-api-de-screengear)
+  - [Guía de la API de ScreenGear:](#guía-de-la-api-de-screengear)
 - [WriteGear](#writegear)
   - [WriteGear API Guide:](#writegear-api-guide)
 - [NetGear](#netgear)
-  - [Guía de API de NetGear:](#gu%c3%ada-de-api-de-netgear)
-- [Instalación](#instalaci%c3%b3n)
+  - [Guía de API de NetGear:](#guía-de-api-de-netgear)
+- [Instalación](#instalación)
 - [Prerrequisitos:](#prerrequisitos)
-- [Opciones de instalación disponibles:](#opciones-de-instalaci%c3%b3n-disponibles)
-  - [Opción 1: instalación de PyPI](#opci%c3%b3n-1-instalaci%c3%b3n-de-pypi)
-  - [Opción 2: Descarga del archivo de lanzamiento](#opci%c3%b3n-2-descarga-del-archivo-de-lanzamiento)
-  - [Opción 3: clonar el repositorio](#opci%c3%b3n-3-clonar-el-repositorio)
-- [Documentación](#documentaci%c3%b3n)
+- [Opciones de instalación disponibles:](#opciones-de-instalación-disponibles)
+  - [Opción 1: instalación de PyPI](#opción-1-instalación-de-pypi)
+  - [Opción 2: Descarga del archivo de lanzamiento](#opción-2-descarga-del-archivo-de-lanzamiento)
+  - [Opción 3: clonar el repositorio](#opción-3-clonar-el-repositorio)
+- [Documentación](#documentación)
 - [Pruebas](#pruebas)
 - [Legados de Python compatibles](#legados-de-python-compatibles)
 - [Licencia](#licencia)
