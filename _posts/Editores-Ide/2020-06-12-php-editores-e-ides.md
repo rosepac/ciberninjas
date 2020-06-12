@@ -45,6 +45,9 @@ A continuación se incluye una lista cuidadosamente seleccionada de los mejores 
 
 Cualquiera de estos editores será perfecto, al igual que cualquiera de los editores de código ya [vistos con anterioridad](https://ciberninjas.com/mejores-editores-texto/) en Ciberninjas.
 
+🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/)
+{: .notice--danger}
+
 <details>
 <summary><strong>MENÚ 👇 -👷‍♂️ EN CONSTRUCCIÓN 🤞- </strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
@@ -53,8 +56,8 @@ Cualquiera de estos editores será perfecto, al igual que cualquiera de los edit
     <li><a href="/mejores-editores-php/#2-eclipse-php"></a></li>
     <li><a href="/mejores-editores-php/#3-netbeans"></a></li>
     <li><a href="/mejores-editores-php/"></a></li>
-    <li><a href="/mejores-editores-php/"></a></li>
-    <li><a href="/mejores-editores-php/"></a></li>
+    <li><a href="/mejores-editores-php/#5-cloud-9"></a></li>
+    <li><a href="/mejores-editores-php/#6-codelite"></a></li>
     <li><a href="/mejores-editores-php/"></a></li>
     <li><a href="/mejores-editores-php/"></a></li>
     <li><a href="/mejores-editores-php/"></a></li>
@@ -63,9 +66,6 @@ Cualquiera de estos editores será perfecto, al igual que cualquiera de los edit
 </nav>
 </details>
 <br />
-
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/)
-{: .notice--danger}
 
 ## 1. **Komodo PHP**
 
@@ -113,34 +113,22 @@ NetBeans es un entorno de desarrollo integrado para escribir programas PHP. Tien
 - Ofrece plantillas preparadas para escribir un guión.
 - Existen ventanas de servicio que muestran los servicios externos disponibles.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🔥 Descargar Netbeans](https://netbeans.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<br>
 
 ## 4. **CodeLobster**
 
 Codelobster es un entorno de desarrollo integrado para PHP. Es compatible con numerosos complementos, incluidos JQuery, Facebook, etc.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### **Características de CodeLobster**
 
@@ -168,21 +156,11 @@ Cloud9 es un editor basado en la nube que te permite escribir, ejecutar y depura
 - Ofrece un editor de imágenes incorporado para cambiar el tamaño, recortar o rotar imágenes.
 
 [🔥 Comenzar con Cloud 9](https://aws.amazon.com/es/cloud9/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **CodeLite**
 
 CodeLite es una herramienta de código abierto para escribir programas en PHP. Que te ayudará a destacar la sintaxis y se puede instalar sobre sistemas operativos de Windows y de Mac.
-
-### **Características de CodeLite**
-
-- Codelite se puede integrar conjunto a Cscope (interfaz basada en texto para buscar un código).
-- Permite personalizar los colores de la sintaxis del código.
-- Codelite te ayuda a encontrar archivos sin esfuerzo usando una vista de árbol.
-- Ofrece una amplia gama de comandos con las funcionalidades de ordenar, cambiar la sintaxis, etc.
-
-[🔥 Descargar CodeLite](https://codelite.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -194,7 +172,15 @@ CodeLite es una herramienta de código abierto para escribir programas en PHP. Q
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<br>
+
+### **Características de CodeLite**
+
+- Codelite se puede integrar conjunto a Cscope (interfaz basada en texto para buscar un código).
+- Permite personalizar los colores de la sintaxis del código.
+- Codelite te ayuda a encontrar archivos sin esfuerzo usando una vista de árbol.
+- Ofrece una amplia gama de comandos con las funcionalidades de ordenar, cambiar la sintaxis, etc.
+
+[🔥 Descargar CodeLite](https://codelite.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **Geany**
 
@@ -214,6 +200,17 @@ Geany es un editor PHP que utiliza el kit de herramientas de código abierto GTK
 ## 8. **Storm PHP**
 
 PHPStorm es un IDE multiplataforma para PHP, que permite utilizar tecnología front-end como HTML, CSS, Sass y más. Además, permite realizar pruebas unitarias individuales para pequeños pedazos de código fuente.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### **Características de Storm PHP**
 
@@ -238,6 +235,11 @@ TextMate es un editor desarrollado para macOS. Le ayuda a intercambiar fácilmen
 - Puede controlar la versión del archivo PHP con facilidad.
 
 [🔥 Descargar TextMate](https://macromates.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 10. **Zend Studio**
+
+Zend Studio es un entorno de desarrollo integrado para desarrollar una aplicación en PHP. Ofrece terminación de código inteligente y valida errores en tiempo real.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -249,10 +251,6 @@ TextMate es un editor desarrollado para macOS. Le ayuda a intercambiar fácilmen
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-## 10. **Zend Studio**
-
-Zend Studio es un entorno de desarrollo integrado para desarrollar una aplicación en PHP. Ofrece terminación de código inteligente y valida errores en tiempo real.
 
 ### **Características de Zend Studio**
 
@@ -276,19 +274,6 @@ KWrite es una herramienta ligera para escribir código PHP. Esta herramienta est
 - El editor ofrece autocompletado basado en palabras o frases que ya ha visto en el resto de las partes del resto del código.
 
 [🔥 Descargar KWrite](https://kde.org/applications/utilities/org.kde.kwrite "Descargar el editor de texto KWrite"){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados
 
