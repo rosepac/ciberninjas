@@ -52,21 +52,20 @@ Cualquiera de estos editores será perfecto, al igual que cualquiera de los edit
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/mejores-editores-php/#1-komodo-php"></a></li>
-    <li><a href="/mejores-editores-php/#2-eclipse-php"></a></li>
-    <li><a href="/mejores-editores-php/#3-netbeans"></a></li>
-    <li><a href="/mejores-editores-php/#4-codelobster"></a></li>
-    <li><a href="/mejores-editores-php/#5-cloud-9"></a></li>
-    <li><a href="/mejores-editores-php/#6-codelite"></a></li>
-    <li><a href="/mejores-editores-php/#7-geany"></a></li>
-    <li><a href="/mejores-editores-php/#8-storm-php"></a></li>
-    <li><a href="/mejores-editores-php/#9-textmate"></a></li>
-    <li><a href="/mejores-editores-php/#10-zend-studio"></a></li>
-    <li><a href="/mejores-editores-php/#11-kwrite"></a></li>
+    <li><a href="/mejores-editores-php/#1-komodo-php">1. Komodo PHP</a></li>
+    <li><a href="/mejores-editores-php/#2-eclipse-php">2. Eclipse PHP</a></li>
+    <li><a href="/mejores-editores-php/#3-netbeans">3. Netbeans</a></li>
+    <li><a href="/mejores-editores-php/#4-codelobster">4. CodeLobster</a></li>
+    <li><a href="/mejores-editores-php/#5-cloud-9">5. cloud 9</a></li>
+    <li><a href="/mejores-editores-php/#6-codelite">6. CodeLite</a></li>
+    <li><a href="/mejores-editores-php/#7-geany">7. Geany</a></li>
+    <li><a href="/mejores-editores-php/#8-storm-php">8. Storm PHP</a></li>
+    <li><a href="/mejores-editores-php/#9-textmate">9. TextMate</a></li>
+    <li><a href="/mejores-editores-php/#10-zend-studio">10. Zend Studio</a></li>
+    <li><a href="/mejores-editores-php/#11-kwrite">11. KWrite</a></li>
   </ol>
 </nav>
 </details>
-<br />
 
 ## 1. **Komodo PHP**
 
