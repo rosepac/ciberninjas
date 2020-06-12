@@ -30,6 +30,17 @@ ZooKeeper es un servicio centralizado para mantener la información de configura
 
 Cada vez que se implementan, se necesita mucho trabajo para solucionar los errores y las condiciones de carrera que son inevitables.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Debido a la dificultad de implementar este tipo de servicios, las aplicaciones inicialmente suelen escatimar en ellos, lo que los hace frágiles en presencia de cambios y difíciles de administrar; incluso cuando se realiza correctamente, las diferentes implementaciones de estos servicios conducen a una complejidad de gestión cuando se implementan las aplicaciones.
 
 ## Empezando

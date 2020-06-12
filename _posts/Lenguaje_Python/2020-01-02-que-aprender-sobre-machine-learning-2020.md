@@ -25,6 +25,12 @@ header:
 # toc_sticky: true
 ---
 
+Con esta publicación vamos a crear una línea de aprendizaje que seguir para la creación de un proyecto de aprendizaje automático durante el nuevo año 2020.
+
+### Cómo aprender aprendizaje automático en 2020
+
+Existen variopintos campos relacionados al respecto; Aprendizaje profundo, Inteligencia Artificial, teoría estadística, cognitivo computacional y más.. En este caso nos centraremos únicamente en Machine Learning.
+
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
@@ -41,13 +47,6 @@ header:
   </ol>
 </nav>
 </details>
-<br />
-
-Con esta publicación vamos a crear una línea de aprendizaje que seguir para la creación de un proyecto de aprendizaje automático durante el nuevo año 2020.
-
-### Cómo aprender aprendizaje automático en 2020
-
-Existen variopintos campos relacionados al respecto; Aprendizaje profundo, Inteligencia Artificial, teoría estadística, cognitivo computacional y más.. En este caso nos centraremos únicamente en Machine Learning.
 
 🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
