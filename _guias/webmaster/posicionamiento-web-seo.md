@@ -6,15 +6,16 @@ excerpt: "📌 Posicionamiento Web y SEO 🔍 Aprender desde cero a experto todo
 published: true
 comments: false
 classes: wide
-date: 2020-03-11
+date: 2020-06-12
 last_modified_at:
 permalink: /posicionamiento-web-seo/
 canonical_URL: https://ciberninjas.com/posicionamiento-web-seo/
 header:
   overlay_image: "/assets/images/seo-posicionamiento-ciberninjas.webp"
-  image_description: El SEO y el Posicionamiento, vamos a aprender desde cero todo lo que debemos saber | Ciberninjas
+  image_description: El SEO y el Posicionamiento, vamos a aprender desde cero todo lo que debemos saber. Visto en Ciberninjas.
+  image_alt: El SEO y el Posicionamiento, vamos a aprender desde cero todo lo que debemos saber. Visto en Ciberninjas.
   caption: "**Créditos**: Edición Personal Sobre Foto de Merakist en Unsplash"
-  teaser: "/assets/images/seo-posicionamiento-ciberninjas.webp"
+  teaser: /assets/images/seo-posicionamiento-ciberninjas.webp
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -50,6 +51,19 @@ Inicialmente, todos los webmasters solo necesitaban enviar el elemento de refere
 
 Ese proceso involucra una araña del motor de búsqueda que descarga una página y la almacena en el propio servidor del motor de búsqueda. Un segundo programa, denominado como indexación de motores de búsqueda.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 Que es el encargado de extraer toda la información aproximadamente de la página, como además, también de todas las palabras que contiene, dónde se encuentran y valorar "el peso o importancia" sobre cada palabra específica usada, por último también se encarga de rastrear todos los enlaces que contiene la página; toda esa información se coloca en un software de programación indexado pendiente de rastrear en una fecha posterior.
 
 Los propietarios de sitios web rápidamente se dieron cuenta de las posibilidades de poseer un alto ranking y alta visibilidad dentro de los motores de búsqueda, por lo que se tomaron este hecho como una gran oportunidad de negocio; así como el mundo de la seguridad informática.
@@ -66,8 +80,6 @@ Para 1997, los diseñadores de motores de búsqueda reconocieron que los Webmast
 
 Los primeros motores de búsqueda, como Altavista e Infoseek, fueron ajustando sus algoritmos para evitar que los webmasters manipularan sus clasificaciones.
 
-Al confiar tanto en factores como la densidad de palabras clave que estaban exclusivamente bajo el control de los creadores y webmaster, los primeros motores de búsqueda sufrieron un constante abuso y manipulación de sus ranking. 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -81,6 +93,8 @@ Al confiar tanto en factores como la densidad de palabras clave que estaban excl
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
+Al confiar tanto en factores como la densidad de palabras clave que estaban exclusivamente bajo el control de los creadores y webmaster, los primeros motores de búsqueda sufrieron un constante abuso y manipulación de sus ranking. 
+
 Ante el deseo de ofrecer mejores resultados a sus usuarios, los motores de búsqueda tuvieron que adaptarse una y otra vez para garantizar que sus páginas de resultados mostraban realmente los resultados de búsqueda más relevantes, en lugar de páginas no relacionadas.
 
 Debieron pelear en búsqueda de una solución para que las páginas repletas de numerosas palabras clave generadas sin ningún tipo de escrúpulo por los webmasters dominaran las búsquedas.
@@ -88,6 +102,19 @@ Debieron pelear en búsqueda de una solución para que las páginas repletas de 
 Esto significo alejarse de la dependencia de la densidad de los términos hacia un proceso más holístico en el que prevaleciese la importancia de la semántica.
 
 Dado que el éxito y la popularidad de un motor de búsqueda está determinado por su capacidad de obtener resultados casi relevantes para cualquier búsqueda, los resultados de búsqueda pobres o irrelevantes podrían llevar a los usuarios a buscar en otras fuentes de búsqueda, y poco a poco, los motores de búsqueda respondieron desarrollando algoritmos de clasificación más complejos en los que se tienen en cuenta muchos factores adicionales en los que los webmasters estaban desorientados y así, no pudiesen manipular el contenido que creaban.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 En 2005, se creó una conferencia anual, la AIRWeb "Recuperación de Información Adversa en la Web" para reunir a profesionales e investigadores interesados ​​en la optimización de motores de búsqueda y temas relacionados.
 
@@ -124,9 +151,13 @@ El número calculado por el algoritmo, PageRank , es una función de la cantidad
 
 En efecto, esto significa que algunos enlaces son más fuertes que otros, ya que es más probable que un internauta aleatorio llegue a una página de PageRank más alta.
 
-Page y Brin fundaron Google en 1998. Google atrajo una lealtad posterior o como una declaración de. entre el creciente número de usuarios de Internet, a los que les gustó su diseño simple. Se consideraron los factores fuera de la página (a) como el PageRank y el análisis de hipervínculos, así como los factores en la página, como la frecuencia de palabras clave, metaetiquetas, encabezados, enlaces y clasificación de sitios para garantizar que Google evite recoger los datos de la manipulación que se ve en los motores de búsqueda que solo consideró los factores en la página para sus clasificaciones.
+Page y Brin fundaron Google en 1998. Google atrajo una lealtad posterior o como una declaración de. entre el creciente número de usuarios de Internet, a los que les gustó su diseño simple.
 
-Aunque el sistema PageRank era más difícil de jugar , los webmasters ya habían desarrollado herramientas y esquemas de creación de conexiones para influir en la compañía Inktomimotor de búsqueda, y estos métodos demostraron ser igualmente relevantes para el PageRank de juegos. muchos sitios se centraron en intercambiar, comprar y vender enlaces, a menudo a gran escala. Algunos de estos esquemas, o granja de enlaces , involucraban la determinación de miles de sitios con el único objetivo de Spamdexing .
+Se consideraron los factores fuera de la página (a) como el PageRank y el análisis de hipervínculos, así como los factores en la página, como la frecuencia de palabras clave, metaetiquetas, encabezados, enlaces y clasificación de sitios para garantizar que Google evite recoger los datos de la manipulación que se ve en los motores de búsqueda que solo consideró los factores en la página para sus clasificaciones.
+
+Aunque el sistema PageRank era más difícil de jugar , los webmasters ya habían desarrollado herramientas y esquemas de creación de conexiones para influir en la compañía Inktomimotor de búsqueda, y estos métodos demostraron ser igualmente relevantes para el PageRank de juegos. muchos sitios se centraron en intercambiar, comprar y vender enlaces, a menudo a gran escala.
+
+Algunos de estos esquemas, o granja de enlaces , involucraban la determinación de miles de sitios con el único objetivo de Spamdexing .
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -245,7 +276,7 @@ Hoy, casi la gente está buscando en Google usando un dispositivo móvil. En nov
 
 Para evitar contenido no deseado en los índices de búsqueda, los webmasters pueden indicar a las arañas que no rastreen archivos o directorios seguros a través del archivo Robots.txt de especificaciones en el directorio raíz del dominio. 
 
-Además, una página puede excluirse explícitamente de la base de datos de un motor de búsqueda mediante el uso de una etiqueta Meta específica para robots comúnmente ```< meta name= "robots" content = " noindex " >```. Cuando un motor de búsqueda visita un sitio, el archivo robots.txt ubicado en el directorio raízes el primer archivo rastreado.
+Además, una página puede excluirse explícitamente de la base de datos de un motor de búsqueda mediante el uso de una etiqueta Meta específica para robots comúnmente ```/< meta name= "robots" content = " noindex " />```. Cuando un motor de búsqueda visita un sitio, el archivo robots.txt ubicado en el directorio raízes el primer archivo rastreado.
 
 El archivo robots.txt se analiza y le indica al robot qué páginas no se deben rastrear. Como un rastreador de motores de búsqueda puede mantener una copia en caché de este archivo, en ocasiones puede rastrear páginas que un webmaster no desea rastrear.
 
