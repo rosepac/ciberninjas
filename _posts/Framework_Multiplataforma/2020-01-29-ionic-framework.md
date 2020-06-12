@@ -30,7 +30,20 @@ canonical_URL: https://ciberninjas.com/ionic-framework/
 
 Ionic Framework es un kit de herramientas de interfaz de usuario de código abierto para crear aplicaciones móviles y de escritorio de alta calidad y de alto rendimiento utilizando tecnologías web (HTML, CSS y JavaScript).
 
-Ionic Framework se centra en la experiencia del usuario frontend o la interacción de la interfaz de usuario de una aplicación (controles, interacciones, gestos, animaciones). Es fácil de aprender y se integra muy bien con otras bibliotecas o marcos, como Angular, o se puede usar de forma independiente sin un marco frontend con un script simple.
+Ionic Framework se centra en la experiencia del usuario frontend o la interacción de la interfaz de usuario de una aplicación (controles, interacciones, gestos, animaciones).
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Es fácil de aprender y se integra muy bien con otras bibliotecas o marcos, como Angular, o se puede usar de forma independiente sin un marco frontend con un script simple.
 
 Actualmente, Ionic Framework tiene integraciones oficiales con Angular y React, y el soporte para Vue está en desarrollo. Si desea obtener más información sobre Ionic Framework antes de sumergirse, creamos un video para guiarlo a través de los conceptos básicos.
 
@@ -42,7 +55,20 @@ Crea e implementa aplicaciones que funcionen en múltiples plataformas, como iOS
 
 ### Basado en estándares web
 
-Ionic Framework está construido sobre una base confiable, tecnologías web estandarizadas: HTML, CSS y JavaScript, utilizando API web modernas como Custom Elements y Shadow DOM. Debido a esto, los componentes iónicos tienen una API estable y no están a la orden de un único proveedor de plataformas.
+Ionic Framework está construido sobre una base confiable, tecnologías web estandarizadas: HTML, CSS y JavaScript, utilizando API web modernas como Custom Elements y Shadow DOM.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Debido a esto, los componentes iónicos tienen una API estable y no están a la orden de un único proveedor de plataformas.
 
 ### Hermoso diseño
 
@@ -52,31 +78,55 @@ Limpio, simple y funcional. Ionic Framework está diseñado para funcionar y mos
 
 Ionic Framework está construido desde el punto de vista de la simplicidad, de modo que la creación de aplicaciones Ionic es agradable, fácil de aprender y accesible para casi cualquier persona con habilidades de desarrollo web.
 
-## Licencia
-
-Ionic Framework es un proyecto gratuito y de código abierto, publicado bajo la [licencia MIT](https://opensource.org/licenses/MIT) permitida . Esto significa que puede usarse en proyectos personales o comerciales de forma gratuita. MIT es la misma licencia utilizada por proyectos tan populares como jQuery y Ruby on Rails.
-
-El contenido de esta documentación (que se encuentra en el repositorio de [ionic-docs](https://github.com/ionic-team/ionic-docs) ) está licenciado bajo la [licencia Apache](https://www.apache.org/licenses/LICENSE-2.0)El contenido de esta documentación (que se encuentra en el repositorio de [ionic-docs](https://github.com/ionic-team/ionic-docs) ) está licenciado bajo la [licencia Apache 2](https://www.apache.org/licenses/LICENSE-2.0).
-
 ## CLI Ionic
 
 El oficial [CLI iónico](https://ionicframework.com/docs/cli), o Command Line Interface, es una herramienta que andamia rápidamente las aplicaciones de Ionic y proporciona una serie de comandos útiles para los desarrolladores de Ionic. Además de instalar y actualizar Ionic, la CLI viene con un servidor de desarrollo integrado, herramientas de compilación y depuración, y mucho más. Si es miembro de [Ionic Appflow](https://ionicframework.com/docs/intro#ionic-appflow) , la CLI se puede utilizar para realizar compilaciones e implementaciones en la nube y administrar su cuenta.
 
 ## Compatibilidad del Framework
 
-Mientras que las versiones anteriores de Ionic estaban estrechamente relacionadas con Angular, V4 del marco fue rediseñado para funcionar como una biblioteca de componentes web independiente, con integraciones para los últimos marcos de JavaScript, como Angular. Ionic se puede utilizar con éxito en la mayoría de los marcos frontend, incluidos React y Vue, aunque algunos marcos necesitan una compatibilidad para soporte completo de componentes web.
+Mientras que las versiones anteriores de Ionic estaban estrechamente relacionadas con Angular, V4 del marco fue rediseñado para funcionar como una biblioteca de componentes web independiente, con integraciones para los últimos marcos de JavaScript, como Angular.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Ionic se puede utilizar con éxito en la mayoría de los marcos frontend, incluidos React y Vue, aunque algunos marcos necesitan una compatibilidad para soporte completo de componentes web.
 
 ### Javascript
 
-Uno de los objetivos principales con Ionic 4 era eliminar cualquier requisito difícil en un solo marco para alojar los componentes. Esto significa que los componentes principales pueden funcionar de forma independiente con solo una etiqueta de script en una página web. Si bien trabajar con frameworks puede ser excelente para equipos más grandes y aplicaciones más grandes, ahora es posible usar Ionic como una biblioteca independiente en una sola página, incluso en un contexto como WordPress.
+Uno de los objetivos principales con Ionic 4 era eliminar cualquier requisito difícil en un solo marco para alojar los componentes. Esto significa que los componentes principales pueden funcionar de forma independiente con solo una etiqueta de script en una página web.
+
+Si bien trabajar con frameworks puede ser excelente para equipos más grandes y aplicaciones más grandes, ahora es posible usar Ionic como una biblioteca independiente en una sola página, incluso en un contexto como WordPress.
 
 ### Angular
 
-Angular siempre ha estado en el centro de lo que hace grande a Ionic. Si bien los componentes principales se han escrito para que funcionen como una biblioteca de componentes web independiente, el `@ionic/angular`paquete hace que la integración con el ecosistema angular sea muy sencilla. `@ionic/angular`incluye toda la funcionalidad que los desarrolladores de Angular esperarían de Ionic 2/3, y se integra con las bibliotecas principales de Angular, como el enrutador Angular.
+Angular siempre ha estado en el centro de lo que hace grande a Ionic. Si bien los componentes principales se han escrito para que funcionen como una biblioteca de componentes web independiente, el paquete `@ionic/angular` hace que la integración con el ecosistema angular sea muy sencilla.
+
+Se incluye `@ionic/angular` con toda la funcionalidad que los desarrolladores de Angular esperarían de Ionic 2/3, y se integra con las bibliotecas principales de Angular, como el enrutador Angular.
 
 ### React
 
-Ionic ahora tiene soporte oficial para la popular biblioteca React. Ionic React permite a los desarrolladores de React usar sus habilidades web existentes para crear aplicaciones que se dirigen a iOS, Android, la web y el escritorio. Con `@ionic/react`, puedes usar todos los componentes principales de Ionic, pero de una manera que se siente como usar componentes nativos de React.
+Ionic ahora tiene soporte oficial para la popular biblioteca React.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Ionic React permite a los desarrolladores de React usar sus habilidades web existentes para crear aplicaciones que se dirigen a iOS, Android, la web y el escritorio. Con `@ionic/react`, puedes usar todos los componentes principales de Ionic, pero de una manera que se siente como usar componentes nativos de React.
 
 ### Soporte Futuro
 
@@ -84,13 +134,15 @@ Se espera soporte para otros frameworks en futuras versiones. Actualmente se est
 
 ## Framework Ionic Versión 4+
 
-Ionic Framework V4 es un avance importante en la tecnología subyacente y las capacidades del proyecto, con un enfoque en el rendimiento, la compatibilidad y la extensibilidad general. Aunque V4 todavía se integra profundamente con Angular a través del `@ionic/angular`paquete, ahora también es independiente del framework, lo que significa que puede funcionar con cualquier otro framework de JavaScript (Vue, React, Preact, etc.), o sin ningún framework.
+Ionic Framework V4 es un avance importante en la tecnología subyacente y las capacidades del proyecto, con un enfoque en el rendimiento, la compatibilidad y la extensibilidad general. Aunque V4 todavía se integra profundamente con Angular a través del paquete `@ionic/angular` ahora también es independiente del framework, lo que significa que puede funcionar con cualquier otro framework de JavaScript (Vue, React, Preact, etc.), o sin ningún framework.
 
 Al pasar a los estándares web, V4 permite que el núcleo de Ionic confíe en el modelo de componente estándar compatible con los navegadores modernos, en lugar de un modelo específico del framework. Esto puede significar un tiempo de carga más rápido, un mejor rendimiento y menos código general.
 
 ## Ecosistema
 
-Ionic Framework es desarrollado y mantenido activamente a tiempo completo por un equipo central, y su ecosistema está guiado por una comunidad internacional de desarrolladores y contribuyentes que impulsan su crecimiento y adopción. Los desarrolladores y las empresas pequeñas y grandes usan Ionic para crear y enviar aplicaciones increíbles que se ejecutan en todas partes.
+Ionic Framework es desarrollado y mantenido activamente a tiempo completo por un equipo central, y su ecosistema está guiado por una comunidad internacional de desarrolladores y contribuyentes que impulsan su crecimiento y adopción.
+
+Los desarrolladores y las empresas pequeñas y grandes usan Ionic para crear y enviar aplicaciones increíbles que se ejecutan en todas partes.
 
 ## Únete a la Comunidad
 

@@ -26,6 +26,17 @@ published: true
 
 JavaScript ES6 trae una nueva sintaxis y nuevas características increíbles para hacer que su código sea más moderno y más legible. Le permite escribir menos código y hacer más. ES6 nos presenta muchas características excelentes.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 En este artículo, exploraremos cinco de estas características de ES6 y consideraremos cómo podemos utilizarlas para mejorar nuestro código JavaScript. Estas son las características de interés:
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
@@ -36,6 +47,17 @@ En este artículo, exploraremos cinco de estas características de ES6 y conside
 En ES6, se introdujeron literales de plantilla para abordar algunos desafíos asociados con el formato y la representación de cadenas. Con los literales de plantilla, puede crear cadenas de varias líneas con facilidad. También permite realizar sustituciones mejoradas de cadenas y un formato adecuado de cadenas aparentemente peligrosas, como las cadenas que se incrustarán en HTML.
 
 Antes de ES6, las cadenas están delimitadas por un par de *comillas simples* ( `‘string’`) o un par de *comillas dobles* ( `“string”`). En ES6, las cadenas también se pueden delimitar mediante un par de *ticks* de *retroceso* ( `string`). Tales cadenas se llaman **literales de plantilla** .
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Al igual que con los delimitadores de comillas simples y dobles, las marcas de retroceso también se pueden escapar en literales de plantilla si la cadena contiene un carácter de marca de retroceso. Para escapar de un carácter de retroceso en una plantilla literal, se debe colocar una barra diagonal () antes del carácter de retroceso. Sin embargo, tenga en cuenta que las comillas simples y dobles no necesitan escaparse en literales de plantilla.
 

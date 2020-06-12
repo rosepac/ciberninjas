@@ -29,6 +29,17 @@ Con m&aacute;s de 500 millones de cuentas en Instagram, las campa&ntilde;as de m
 
 Entre toda esa masa social, existen estimaciones que barajan la posibilidad de que quiz&aacute;s m&aacute;s de un 30 % de todas lor perfiles son o bien cuentas inactivas o cuentas generadas a trav&eacute;s **bots**.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Por todo esto, nace el proyecto de Hypervertise, centrado en la b&uacute;squeda de una f&oacute;rmula sencilla y simple de verificar si la audiencia de los **‘influenciers’** es realmente un p&uacute;blico genuino, aut&eacute;ntica y participativa o es un p&uacute;blico falso e inactivo.
 
 La herramienta nos ofrece numerosos an&aacute;lisis diferentes, hasta 15, encargados de rastrear cada cuenta de las que audita y a sus seguidores; intentando reflejar la realidad de las cuentas.
@@ -51,6 +62,17 @@ Se analizan los seguidores del usuario, los **likes** , comentarios, fotograf&ia
 
 Se adquiere una muestra porcentual del total de los seguidores del usuario sobre el que se realiza la auditor&iacute;a e igualmente, se implementan los algoritmos sobre cada uno de ellos.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Entre otros muchos c&aacute;lculos, se toma en cuenta la proporci&oacute;n de los seguidores y sus tiempos de actividad, y es con los resultados de todo esto; con lo que se determina si los seguidores son de baja calidad o buena.
 
 ## &iquest;Por qu&eacute; tengo tantos seguidores de baja calidad?
@@ -64,6 +86,17 @@ El par&aacute;metro de alcance indica el porcentaje de probabilidad de interacci
 ## &iquest;Es precisa la herramienta?
 
 La herramienta se basa en muestras de cuentas que se podr&iacute;an considerar leg&iacute;timas e ileg&iacute;timas con las que contrastar la legitimidad de la cuenta que se audita.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Adem&aacute;s es capaz de diferenciar una cuenta real de una falsa tras analizar sus comportamientos en la plataforma.
 

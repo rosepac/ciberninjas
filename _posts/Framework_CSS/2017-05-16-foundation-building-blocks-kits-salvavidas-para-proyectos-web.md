@@ -23,9 +23,10 @@ categories:
 - Código Abierto
 - Framework CSS
 ---
-## Construye bloque a bloque
 
 Desde el **Framework Foundation**, y desde Abril nos presentan un importante repositorio de elementos ya pre-diseñados denominado [Foundation Building Blocks](https://kutt.it/foundationuso), lo cual servirá de gran ayuda para las personas que se inicien con dicho **Framework** e incluso para ahorrar mucho tiempo en el desarrollo de personas ya experimentadas.
+
+## Construye bloque a bloque
 
 El equipo de **Foundation** se ha propuesto reducir el tiempo del desarrollo de un proyecto, lanzando [Foundation Building Blocks](   https://kutt.it/foundationblocks)  — una completa biblioteca de componentes UI (interfaces de usuario) de código abierto, formado por elementos que pueden ser utilizados casi por norma en cualquier proyecto dentro del **Framework Foundation**.
 
@@ -39,6 +40,17 @@ La biblioteca ha sido creada a partir de 0 con más de cientos de _snippets_ o f
 </figure>
 
 Generando así, plantillas y patrones de todos los elementos más importantes y comunes utilizados dentro de una interfaz de usuario web.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Solo se debe buscar la librería, seleccionar el bloque que se necesite y copiar y pegar el código a tu proyecto.
 
@@ -61,7 +73,20 @@ Probado por los diseñadores y desarrolladores a lo largo de todo el mundo y rev
 
 ## Código que reducirá el tiempo de desarrollo
 
-Los bloques o elementos están construidos específicamente para _Foundation_ por lo que no tendrás que preocuparte por problemas de compatibilidades o dependencias. Solo se encontrarán componentes reales, útiles, prácticos y que cubren las necesidades de cada diseño web proyectado.
+Los bloques o elementos están construidos específicamente para _Foundation_ por lo que no tendrás que preocuparte por problemas de compatibilidades o dependencias.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Solo se encontrarán componentes reales, útiles, prácticos y que cubren las necesidades de cada diseño web proyectado.
 
 ## Instalación desde el terminal
 

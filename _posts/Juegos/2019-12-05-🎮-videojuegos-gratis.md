@@ -41,6 +41,17 @@ categories:
 
 Esta es una colección de los 45 mejores juegos gratis para el año 2020. Además, vas a poder encontrar todos los enlaces a las mejores páginas web  de videojuegos gratuitos de Internet, desde las que encontrar los mejores videojuegos totalmente gratis.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Además de otras páginas web, que eventualmente van publicando juegos gratis de forma constante.
 
 ### **Los mejores 45 videojuegos gratuitos**
@@ -53,6 +64,17 @@ Battle Royale es el juego más importante en estos momentos, y Epic Games lo ha 
 
 Fortnite Battle Royale se basa completamente en un espacio abierto: te dejan caer en un mapa con otros 99 jugadores en un combate cuerpo a cuerpo, y el último que logra quedar en pie al finalizar el tiempo; gana. Debido a su éxito meteórico, Epic Games está trabajando duro para integrar constantemente nuevos modos de juego y nuevas funciones.Como el modo Zona de Juegos, por ejemplo: que te deja en el mapa y te permite construir estructuras durante un tiempo determinado antes de que se abran la veda y comience la carnicería entre los jugadores.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Lo que es absolutamente genial es que con Fortnite, puedes jugar con tus amigos, independientemente de la plataforma en la que te encuentres; ya sea que estés en PC, Xbox One, iOS, Android o PS4, podrás enfrentarte a millones de otros jugadores de todas las demás plataformas.
 
 [🎮 GRATIS 🎮](https://www.epicgames.com/fortnite/es-ES/download){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
@@ -62,6 +84,17 @@ Lo que es absolutamente genial es que con Fortnite, puedes jugar con tus amigos,
 El universo Dota puede haber evolucionado a partir de un mod de WarCraft 3, pero Dota 2 posee en gran medida su propia entidad y se ha convertido, por merecimiento propio, en uno de los mejores juegos gratuitos de 2020.
 
 Este videojuego de arenas, ha atraído a fondos multimillonarios para la creación de torneos profesionales muy serios; y sin embargo, Dota sigue teniendo lugar para los jugadores más hardcore y experimentados, como para los más aprendices y más inexpertos.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Un breve tutorial te muestra cómo jugar, al igual que la Comunidad Steam que ofrece te guías para el MOBA original. No esperes una cálida bienvenida o una curva de aprendizaje fácil gracias a su compleja mecánica de juego. Sin embargo, puedes juntarte con tus amigos y Dota 2 te tendrá enganchado a una de las mayores locuras en la historia de las PC durante mucho tiempo.
 
@@ -476,23 +509,23 @@ La exploración generalmente implica explorar varias etapas, con algunos gigante
 - [1. **Fortnite Battle Royale**](#1-fortnite-battle-royale)
 - [2. **Dota 2**](#2-dota-2)
 - [3. **Planetside 2**](#3-planetside-2)
-- [Páginas de Videojuegos Gratis 🎁](#p%c3%a1ginas-de-videojuegos-gratis-%f0%9f%8e%81)
-- [Juegos Gratis para PC y Móviles 📲](#juegos-gratis-para-pc-y-m%c3%b3viles-%f0%9f%93%b2)
-- [Más Páginas 🙀](#m%c3%a1s-p%c3%a1ginas-%f0%9f%99%80)
-- [JUEGOS CLÁSICOS 🕹](#juegos-cl%c3%81sicos-%f0%9f%95%b9)
-- [GRATIS AHORA 🎉](#gratis-ahora-%f0%9f%8e%89)
+- [Páginas de Videojuegos Gratis 🎁](#páginas-de-videojuegos-gratis-)
+- [Juegos Gratis para PC y Móviles 📲](#juegos-gratis-para-pc-y-móviles-)
+- [Más Páginas 🙀](#más-páginas-)
+- [JUEGOS CLÁSICOS 🕹](#juegos-clásicos-)
+- [GRATIS AHORA 🎉](#gratis-ahora-)
 - [Epic Games](#epic-games)
 - [Otros Juegos Gratis de Epic Games](#otros-juegos-gratis-de-epic-games)
   - [Auto Chess](#auto-chess)
   - [Battle Breakers](#battle-breakers)
   - [The Cycle](#the-cycle)
-- [VIDEOJUEGOS RETRO 🕹](#videojuegos-retro-%f0%9f%95%b9)
-- [Die Young: Prólogo \ IndieGala](#die-young-pr%c3%b3logo--indiegala)
-- [JUEGOS DE ACCIÓN GRATIS 🪓](#juegos-de-acci%c3%93n-gratis-%f0%9f%aa%93)
+- [VIDEOJUEGOS RETRO 🕹](#videojuegos-retro-)
+- [Die Young: Prólogo \ IndieGala](#die-young-prólogo--indiegala)
+- [JUEGOS DE ACCIÓN GRATIS 🪓](#juegos-de-acción-gratis-)
 - [DreadLands Beta \ Steam](#dreadlands-beta--steam)
 - [Alien Swarm: Reactive Drop \ Steam](#alien-swarm-reactive-drop--steam)
-- [FORTNITE & OTRAS ALTERNATIVAS 🔫](#fortnite--otras-alternativas-%f0%9f%94%ab)
-- [Dauntless \ RPG de Cacería](#dauntless--rpg-de-cacer%c3%ada)
+- [FORTNITE & OTRAS ALTERNATIVAS 🔫](#fortnite--otras-alternativas-)
+- [Dauntless \ RPG de Cacería](#dauntless--rpg-de-cacería)
 - [Ring of Elysium](#ring-of-elysium)
 - [PUBG Lite & CS GO](#pubg-lite--cs-go)
   - [PUBG Lite](#pubg-lite)
@@ -503,13 +536,13 @@ La exploración generalmente implica explorar varias etapas, con algunos gigante
 - [WarFrame](#warframe)
 - [Realm Royale](#realm-royale)
 - [Postal \ GOG](#postal--gog)
-- [REGALADOS CON ANTERIORIDAD 😿](#regalados-con-anterioridad-%f0%9f%98%bf)
-- [Teatro de Guerra 2: África 1943 \ IndieGala](#teatro-de-guerra-2-%c3%81frica-1943--indiegala)
+- [REGALADOS CON ANTERIORIDAD 😿](#regalados-con-anterioridad-)
+- [Teatro de Guerra 2: África 1943 \ IndieGala](#teatro-de-guerra-2-áfrica-1943--indiegala)
 - [UberSoldier II \ IndieGala](#ubersoldier-ii--indiegala)
 - [Mahjong Strip Solitario \ IndieGala](#mahjong-strip-solitario--indiegala)
-- [Lady´s Hentai Mosaic \ IndieGala](#lady%c2%b4s-hentai-mosaic--indiegala)
+- [Lady´s Hentai Mosaic \ IndieGala](#ladys-hentai-mosaic--indiegala)
 - [Crab Due \ IndieGala](#crab-due--indiegala)
-  - [Quibic: Juego Gratis Cada Día](#quibic-juego-gratis-cada-d%c3%ada)
+  - [Quibic: Juego Gratis Cada Día](#quibic-juego-gratis-cada-día)
   - [The Wolf Among Us \ Epic Games](#the-wolf-among-us--epic-games)
   - [The Escapist \ Epic Games](#the-escapist--epic-games)
 - [Ascension al Trono \ IndieGala](#ascension-al-trono--indiegala)

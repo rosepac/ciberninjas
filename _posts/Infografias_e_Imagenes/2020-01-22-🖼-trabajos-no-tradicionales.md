@@ -31,17 +31,52 @@ Infografía que te muestra todas las aplicaciones que existen para realizar trab
 
 <a href="https://ibb.co/ZHfLJyh"><img src="https://i.ibb.co/vscwB2J/56c8474c-how-to-earn-money-without-traditional-job-3-compressed.png" alt="psicologia-de-los-colores" border="0" /></a>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <center><a href="https://ibb.co/ZHfLJyh" class="btn btn--success btn--large" title="Aplicaciones excelentes desde las que realizar tu trabajo bajo una situación diferente | Visto en Ciberninjas">🕵️‍♀️ TAMAÑO COMPLETO 🔍</a></center>
 
 Descubre las mejores aplicaciones del mundo desde las que poder ganar dinero en muchos casos desde casa o nuevos trabajos del Siglo XXI. 
 
-¿No tienes un trabajo de 9 a 5? Eso no es un problema. Aquí se explica cómo ganar dinero sin un trabajo a tiempo completo. Hemos reunido la lista de las 150 mejores aplicaciones de sitios Online que con tu esfuerzo pueden ayudarte a pagar las facturas. Hay cientos de cosas diferentes que puede hacer para ganar dinero, miles de tareas fáciles de hacer y docenas de aplicaciones útiles disponibles en las que investigar.
+¿No tienes un trabajo de 9 a 5? Eso no es un problema. Aquí se explica cómo ganar dinero sin un trabajo a tiempo completo. Hemos reunido la lista de las 150 mejores aplicaciones de sitios Online que con tu esfuerzo pueden ayudarte a pagar las facturas.
+
+Hay cientos de cosas diferentes que puede hacer para ganar dinero, miles de tareas fáciles de hacer y docenas de aplicaciones útiles disponibles en las que investigar.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Entre todas las numerosas aplicaciones se segregan en varios núcleos diferentes de temáticas, como son, a saber; la entrega de comestibles, el transporte compartido, la entrega de alimentos, otras entregas, tareas simples, tareas físicas, alquiler de automóviles, alquiler de estacionamientos, tutoría, cuidado de perros, encuestas en línea, venta de cosas viejas, alquiler de cosas, cuidado de niños, inversión, alquiler de casas, redacción de libros electrónicos o blogs , arte, diseño y elaboración, creación de revisiones, venta de fotos, talentos específicos, videos, trabajos de voz.
 
 Las aplicaciones para Freelance de Desarrollo, Diseño Web y Webmasters son Fiverr y Upwork, Spare5.
 
 Las aplicaciones de Sitios Freelance de Arte, Diseño y otros Creadores: Amazon handmade, Artfire, Zibbet, Redbubble, Folsky, Society6, TuningArt, ArtYah, Zazzle, Yokaboo, Saatchi, CafePress, Cargoh, UncommonGoods, Aftcra, Etsy, RubyLane, Spoonflower.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Aplicaciones para escritores: Kindle Direct, Lulu, iBooks Author, Blurb, Smashwords, Nook Press, Bubok, Listverse, Mental Floss, ProBlogger, Contently. Scribendi, Gramlee, Scribbr, Proofread Anywhere.
 

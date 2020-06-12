@@ -47,6 +47,17 @@ Todo lo que no quieres pero necesitas saber sobre el poder, la economía, la soc
 
 En la era actual de la información, las estructuras del poder se han vuelto invisibles, subterráneas. Sospechosamente conveniente, ¿verdad?
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Las cosas han cambiado y no precisamente a mejor: el poder geopolítico que antes ostentaba el estado se concentra ahora en manos de las redes de comunicación.
 
 ## 🙋‍♀️ Descripción Completa
@@ -58,6 +69,17 @@ Es un lenguaje y una burocracia de protocolos que hacen que las máquinas hablen
 Si la consideramos un único proyecto llamado internet, podemos decir que es la infraestructura más grande jamás construida, y el sistema que define todos los aspectos de nuestra sociedad, y sin embargo es secreta.
 
 Su tecnología está oculta, enterrada, sumergida o camuflada; sus algoritmos son opacos; sus microdecisiones son irrastreables. Los centros de datos que almacenan y procesan la información están ocultos y protegidos por armas, criptografía, propiedad intelectual y alambre de espino.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 La infraestructura crítica de nuestro tiempo está fuera de nuestra vista. No podemos comprender la lógica, la intención y el objetivo de lo que no vemos. Todas las conversaciones que tenemos sobre esa infraestructura son en realidad conversaciones sobre su interfaz, un conjunto de metáforas que se interpone entre nosotros y el sistema.
 
@@ -72,6 +94,17 @@ Solo así podremos convertirla en lo que más falta nos hace: una herramienta pa
 Abhishek Nalwaya y Akshat Paul es periodista. Fundó las secciones de Cultura de ADN y eldiario.es, donde ha sido jefa de Cultura y Tecnología y adjunta al director, además de haber sido codirectora de Copyfight y cofundadora de Hack Hackers Berlin y de Cryptoparty Berlin.
 
 Ha escrito libros sobre autómatas, sistemas de notación y un ensayo sobre vigilancia y criptografía llamado: [El Pequeño Libro Rojo del Activista en la Red](/catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/ "El pequeño libro rojo del activista en la red: todo lo que no quieres pero necesitas saber sobre el poder, la economía, la sociedad y las telecomunicaciones en la era de la información."), con un prólogo escrito por el mismo: Edward Snowden.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigilan-si-no-soy-nadie/ "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Abhishek Nalwaya y Akshat Paul..")», supera ya los dos millones de visitas. Se la puede ver en los debates de radio y televisión hablando de vigilancia, infraestructuras, soberanía tecnológica, propaganda computacional y cambio climático.
 

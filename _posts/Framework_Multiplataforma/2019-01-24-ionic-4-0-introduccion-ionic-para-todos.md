@@ -25,6 +25,17 @@ En la noticia original, se nos informa del paso de un proyecto enfocado principa
 
 Dentro del _framework_ de **Ionic 4** podrás encontrar una librería **UI** (interfaz de usuario) formada por más de 100 componentes web que mezcla los elementos personalizados creados por el [equipo de Ionic](https://kutt.it/ionic) junto a la **API** oficial del [Shadow DOM](https://kutt.it/domshadow) que incluyen todos los navegadores actuales y se enfoca en los navegadores móviles del futuro.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Todo ello, con miras hacía que todos los desarrolladores puedan crear aplicaciones que funcionen dentro de los mismos navegadores usando unicámente etiquetas de HTML.
 
 En esta nueva versión se ha buscado además mejorar la velocidad de carga, creando versiones específicas de cada componente enfocadas para **iOS** o **Material Design** ; haciendo que **Ionic** sea un marco de trabajo perfecto en la creación de interfaces de usuario enfocado hacía las aplicaciones: [PWA o _Progresive Web App_](https://kutt.it/pwaes).
@@ -32,6 +43,17 @@ En esta nueva versión se ha buscado además mejorar la velocidad de carga, crea
 **Ionic**, se presenta con una nueva capa de **CSS** personalizada que identifica a la compañía desde el comienzo de sus inicios. EL **CSS** lo han trabajado a través de **SASS** y no hace falta decir, que es totalmente personalizable siempre y cuando se desee.
 
 Pensando en esto, desde **Ionic** han presentado una completa y [reformada documentación](https://kutt.it/ionicdocs).
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Obviamente, podrás utilizar **Ionic** junto a las librerías de **JavaScript** que desees, **Angular** , **Vue** , **React**, etc y junto a todas las herramientas a las que necesites recurrir para mejorar tu flujo de trabajo al respecto y prometen estar trabajando desde ya, en la documentación e implementación de como compaginar el uso de estas librerias junto a la nueva versión de **Ionic**.
 

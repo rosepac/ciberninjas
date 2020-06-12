@@ -27,7 +27,20 @@ published: true
 ---
 
 <!-- https://www.webdesignerdepot.com/2020/05/19-js-libraries-plugins-for-typography/ -->
-La tipografía es una parte integral del diseño de un sitio web. La tipografía y las fuentes que se utilizan juegan un papel muy importante en múltiples aspectos del diseño de un sitio web. Afecta a importantes factores como la legibilidad, la experiencia del usuario e incluso la longitud percibida de un artículo o página. Es muy importante que los diseñadores web acierten con la tipografía para transmitir adecuadamente el propósito del sitio web y su contenido.
+La tipografía es una parte integral del diseño de un sitio web. La tipografía y las fuentes que se utilizan juegan un papel muy importante en múltiples aspectos del diseño de un sitio web; afecta a importantes factores como la legibilidad, la experiencia del usuario e incluso la longitud percibida de un artículo o página.
+
+Es muy importante que los diseñadores web acierten con la tipografía para transmitir adecuadamente el propósito del sitio web y su contenido.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Como con casi todas las partes del diseño web, hay varias herramientas disponibles para ayudarlo a ser más efectivo. En el caso de las fuentes tipográficas no es diferente.
 

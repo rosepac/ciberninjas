@@ -21,11 +21,41 @@ permalink: /los-mejores-motores-busqueda-codigo-abierto
 
 ---
 
-¿Le gustaría tener un motor de búsqueda como Google para su empresa? Entonces el código abierto podría tener una solución para usted. Hay un par de conocidos software de motor de búsqueda; puede llamarlos el mejor software de motor de búsqueda de código abierto para empresas porque le permiten buscar información dentro del dominio de su empresa. Pueden buscar datos de múltiples bases de datos e intranets, diseñados para trabajar y guardar los datos importantes de su empresa y otros datos.
+¿Le gustaría tener un motor de búsqueda como Google para su empresa? Entonces el código abierto podría tener una solución para usted. Hay un par de conocidos software de motor de búsqueda; puede llamarlos el mejor software de motor de búsqueda de código abierto para empresas porque le permiten buscar información dentro del dominio de su empresa.
 
-El software de estos servidores de motor de búsqueda empresarial se puede instalar en una computadora portátil para probar y luego en sus servidores. La funcionalidad de estos motores de código abierto es como Google y Yahoo, pero particularmente para un negocio o empresas de nueva creación. Como te dije anteriormente, estos motores de búsqueda pueden indexar desde múltiples bases de datos e intranets, pero no se limitan solo a ellas; También es posible indexar archivos de documentos de diferentes sistemas de archivos, sistemas de gestión de documentos y correos electrónicos.
+Pueden buscar datos de múltiples bases de datos e intranets, diseñados para trabajar y guardar los datos importantes de su empresa y otros datos.
 
-El software de búsqueda de Big data de código abierto también puede recopilar la estructura y los datos no estructurados. El administrador también puede usar políticas de seguridad para restringir el acceso de los usuarios a cualquier colección particular de información. Ahora, sin perder mucho tiempo, vamos al mejor software de motor de búsqueda de código abierto disponible.
+El software de estos servidores de motor de búsqueda empresarial se puede instalar en una computadora portátil para probar y luego en sus servidores.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+La funcionalidad de estos motores de código abierto es como Google y Yahoo, pero particularmente para un negocio o empresas de nueva creación. Como te dije anteriormente, estos motores de búsqueda pueden indexar desde múltiples bases de datos e intranets, pero no se limitan solo a ellas.
+
+También es posible indexar archivos de documentos de diferentes sistemas de archivos, sistemas de gestión de documentos y correos electrónicos.
+
+El software de búsqueda de Big data de código abierto también puede recopilar la estructura y los datos no estructurados.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+El administrador también puede usar políticas de seguridad para restringir el acceso de los usuarios a cualquier colección particular de información. Ahora, sin perder mucho tiempo, vamos al mejor software de motor de búsqueda de código abierto disponible.
 
 **Nota** : No soy un experto en software de motores de búsqueda y cualquiera que sea la información que se proporciona aquí, basada en Wikipedia y otras investigaciones en Internet. Si crees que me perdí algún otro gran software de motor de búsqueda que se encuentre en la categoría de código abierto, por favor, ayúdame a completar esta lista ...
 
