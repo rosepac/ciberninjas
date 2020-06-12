@@ -8,8 +8,8 @@ tags:
 categories:
 - Editores de Texto
 header:
-  teaser: /assets/images/blog/php-ide.webp
-  overlay_image: /assets/images/blog/php-ide.webp
+  teaser: /assets/images/blog/php-ide/php-editores.webp
+  overlay_image: /assets/images/blog/php-ide/php-editores.webp
   overlay_filter: 0.2
   image_description: 'Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.'
   image_alt: 'Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.'
@@ -49,9 +49,9 @@ Cualquiera de estos editores será perfecto, al igual que cualquiera de los edit
 <summary><strong>MENÚ 👇 -👷‍♂️ EN CONSTRUCCIÓN 🤞- </strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
   <ol>
-    <li><a href="/mejores-editores-php/"></a></li>
-    <li><a href="/mejores-editores-php/"></a></li>
-    <li><a href="/mejores-editores-php/"></a></li>
+    <li><a href="/mejores-editores-php/#1-komodo-php"></a></li>
+    <li><a href="/mejores-editores-php/#2-eclipse-php"></a></li>
+    <li><a href="/mejores-editores-php/#3-netbeans"></a></li>
     <li><a href="/mejores-editores-php/"></a></li>
     <li><a href="/mejores-editores-php/"></a></li>
     <li><a href="/mejores-editores-php/"></a></li>
@@ -113,6 +113,17 @@ NetBeans es un entorno de desarrollo integrado para escribir programas PHP. Tien
 - Ofrece plantillas preparadas para escribir un guión.
 - Existen ventanas de servicio que muestran los servicios externos disponibles.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9630764103400456"
+     data-ad-slot="3229974124"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 [🔥 Descargar Netbeans](https://netbeans.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -125,6 +136,7 @@ NetBeans es un entorno de desarrollo integrado para escribir programas PHP. Tien
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<br>
 
 ## 4. **CodeLobster**
 
@@ -182,6 +194,7 @@ CodeLite es una herramienta de código abierto para escribir programas en PHP. Q
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<br>
 
 ## 7. **Geany**
 
@@ -262,7 +275,7 @@ KWrite es una herramienta ligera para escribir código PHP. Esta herramienta est
 - Es compatible con el complemento KIPI para exportar imágenes.
 - El editor ofrece autocompletado basado en palabras o frases que ya ha visto en el resto de las partes del resto del código.
 
-[🔥 Descargar KWrite](https://kde.org/applications/utilities/org.kde.kwrite){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar KWrite](https://kde.org/applications/utilities/org.kde.kwrite "Descargar el editor de texto KWrite"){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -285,6 +298,6 @@ KWrite es una herramienta ligera para escribir código PHP. Esta herramienta est
 
 [🥇 Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/)
 
-![Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.](/assets/images/blog/php-ide.webp "Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.")
+![Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.](/assets/images/blog/php-ide/php-editores.webp "Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
