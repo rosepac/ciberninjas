@@ -23,15 +23,4 @@ sidebar:
 
 <div style="width:100%;padding-top:64%;position:relative;border-bottom:1px solid #aaa;display:inline-block;background:#eee;background:rgba(255,255,255,0.9);">    <iframe src="https://secure-embed.rtve.es/drmn/embed/video/2950830" name="&#039;Camino a la escuela&#039; narra las adversidades que cuatro niños tienen que superar para ir al colegio" style="width:100%;height:90%;position:absolute;left:0;top:0;overflow:hidden;border:none;background-color:transparent;" scrolling="no" allowfullscreen="allowfullscreen"></iframe>    <div style="position:absolute;bottom:0;left:0;font-family:arial,helvetica,sans-serif;font-size:12px;line-height:1.833;display:inline-block;padding:5px 0 5px 10px;">        <span style="float:left;margin-right:10px;">        	<img style="height:20px;width:auto;background: transparent;padding:0;margin:0;" src="https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVEes.png" alt="" />        </span>       	<a style="color:#333;font-weight:bold;" title="&#039;Camino a la escuela&#039; narra las adversidades que cuatro niños tienen que superar para ir al colegio" href="http://www.rtve.es/alacarta/videos/telediario/td2-docu-escuelas-130115/2950830/">            <strong>&#039;Camino a la escuela&#039; narra las adversidades que cuatro niños tienen que superar para ir al colegio</strong>		</a>	</div></div>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

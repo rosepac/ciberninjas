@@ -1,3 +1,4 @@
+
 ---
 layout: splash
 title: "🐍 Glosario de Tecnologías de Python: Definiciones de Términos"
@@ -50,17 +51,6 @@ Una biblioteca para escribir código concurrente utilizando la sintaxis async / 
 
 Una biblioteca de visualización interactiva para Python, que proporciona una construcción elegante y concisa de gráficos versátiles. Ofrece interactividad de alto rendimiento para conjuntos de datos muy grandes o de transmisión. Permite una presentación visual hermosa y significativa de los datos en los navegadores web modernos.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ### **Bottle**
 
 Framework web micro WSGI rápido, simple y ligero para Python. Ofrece requests de solicitudes (enrutamiento de URL) con soporte de parámetros de URL, plantillas, un servidor HTTP incorporado y adaptadores para muchos motores de plantillas y servidores WSGI / HTTP de terceros, todo en un solo archivo y sin dependencias que no sean las propias de la biblioteca de Python.
@@ -80,17 +70,6 @@ Framework de Python orientado a objetos orientado que permite a los desarrollado
 Implementación de referencia del lenguaje de programación Python. Escrito en C, CPython es la implementación predeterminada y más utilizada del lenguaje.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## D
 
@@ -120,17 +99,6 @@ Sistema de procesamiento de texto para procesar documentación de texto sin form
 Un framework ligero de Python basado en Werkzeug y Jinja 2. Arquitectura de seguridad del sistema operativo que proporciona soporte flexible para políticas de seguridad. FLASK es un marco central en los sistemas operativos centrados en la seguridad, como el Linux de seguridad mejorada de la NSA (SELinux), OpenSolaris FMAC y TrustedBSD.
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## J
 
@@ -169,17 +137,6 @@ Paquete fundamental para computación científica con Python . NumPy es la bibli
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## P
 
 ### **Pandas**
@@ -205,17 +162,6 @@ Framework de aplicación para la web, escrito en Python . Hace una gran utilizac
 ### **Pyparsing**
 
 Framework de análisis de descenso recursivo para el lenguaje de programación Python . Enfoque alternativo para crear y ejecutar gramáticas simples, en comparación con el enfoque tradicional lex / yacc, o el uso de expresiones regulares.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### **Pyramid**
 
@@ -264,17 +210,6 @@ Sheetfu es una librería de Python creada para trabajar conjunto al servicio de 
 
 [▶ Saber Más sobre Seetfu](/sheetfu-libreria-python/){: .btn .btn--danger .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ### **StatsModels**
 
 Paquete Python que permite a los usuarios explorar datos, estimar modelos estadísticos y realizar pruebas estadísticas. Proporciona el backend estadístico para otras bibliotecas de Python. Lanzado bajo la licencia BSD modificada de código abierto (3 cláusulas). 
@@ -309,17 +244,6 @@ Framework de programación de red basado en eventos escrito en Python y licencia
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## V
 
 ### **Vidgear**
@@ -351,17 +275,6 @@ Framework web para Python que es tan simple como poderoso. Web.py está en el do
 
 [🔝 Índice](/glosario/completo-tecnologias-python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [👈 Regresar al Glosario de Ciberninjas](/glosario){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 El **glosario de Python** fue creada el *13 de Mayo de 2020* y su última edición fue realizada el *20 de Mayo de 2020*.
 {: .notice--info}

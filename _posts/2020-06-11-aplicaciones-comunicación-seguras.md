@@ -32,17 +32,6 @@ A medida que las protestas contra la brutalidad policial se han extendido por to
 
 Después del asesinato de George Floyd por un oficial de policía de Minneapolis la semana pasada, la gente ha acudido en cantidades récord a las aplicaciones de escáner de la policía, donde pueden escuchar la comunicación por radio de la policía. También se apresuraron a descargar Signal, una aplicación de mensajería segura, y Citizen, una aplicación de seguridad comunitaria que envía alertas policiales. Mientras tanto, a principios de esta semana, Twitter se estaba descargando más que Facebook e Instagram, lo que no suele ser muy normal.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Desde el 25 de mayo, Citizen se ha descargado 234,000 veces y Signal se ha descargado 121,000 veces dentro de los EE. UU.
 
 Según Apptopia: ambas aplicaciones continúan estableciendo registros máximos del número de descargas diarias. A principios de esta semana, Citizen fue la cuarta aplicación para iOS más descargada, según App Annie.
@@ -58,17 +47,6 @@ La gente ha usado durante mucho tiempo el hardware enfocado a ser usado como esc
 Citizen no es una aplicación de escáner policial, per se, pero puede servir para un propósito similar. El uso entre manifestantes también representaría una pequeña evolución del uso de Citizen. La primera versión de la aplicación se lanzó en 2016 con la misión de "abrir el sistema 911" para que "todos puedan hacer su parte". Muchos, incluido el Departamento de Policía de Nueva York, argumentaron en ese momento que la aplicación fomentaba la vigilancia de la justicia, entonces la aplicación literalmente se la llamaba Vigilante, y se relanzó en 2017 como Citizen.
 
 Desde entonces, la aplicación Citizen ha sido muy criticada. Aunque la huella de la aplicación ha seguido creciendo y actualmente está disponible en la ciudad de Nueva York, el área de la Bahía de San Francisco, Baltimore, Los Ángeles y Filadelfia.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 La gran mayoría de las actualizaciones en Citizen provienen de empleados que monitorean varias transmisiones de policía y bomberos disponibles al público y luego publican incidentes seleccionados en la aplicación y notifican a los usuarios cercanos. Citizen también alienta a los usuarios a comentar y grabar imágenes de crímenes e incidentes de seguridad que ocurren cerca. Ese video podría ayudar a los manifestantes, así como a los residentes no involucrados, a encontrar información en tiempo real sobre el terreno sobre lo que sucede con las protestas. Por supuesto, es probable que muchas personas usen estas aplicaciones pasivamente para monitorear lo que sucede en sus vecindarios en medio de protestas y acciones policiales.
 

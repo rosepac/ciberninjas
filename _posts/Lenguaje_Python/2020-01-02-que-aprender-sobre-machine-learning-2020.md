@@ -57,17 +57,6 @@ Analizando las diferentes posibilidades el punto de enfoque más indicado sería
 
 Luego se puede seguir desde Github, buscando código que resuelvan ese posible problema u otros similares. Descargar ese código y seguramente, ese sea el punto de partida de tu trabajo.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Desde comenzar a trabajar, cambiándolo e experimentando sobre el código. Toda la teoría y todo lo demás esta muy bien; pero es inútil en su mayoría.
 
 Es demasiada cantidad de información para aprender desde cero y probablemente vas a terminar usando muy poco de entre ello. Hay tanto código sobre aprendizaje automático en Github desde el que aprender, que esa base va a ser realmente la mejor fórmula de partida.
@@ -78,17 +67,6 @@ Dentro del campo del machine learning, seguramente tendrás que ir trabajando de
 
 Debes de tener en cuenta de que existen los cursos Online como [fast.ai](https://www.fast.ai/){:target="_blank" rel="nofollow,noreferrer"} o fast.ai desde este [otro enlace](http://course18.fast.ai/ml.html){:target="_blank" rel="nofollow,noreferrer"} antes de otros que se venden mucho más caros a pesar de enseñarte solamente preguntas que Google es capaz de responderte, sin ningún tipo de problema.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Siempre puedes comenzar visualizando uno o dos videos cortos sobre la propagación hacia atrás. No es necesario que te confundas con la teoría y las matemáticas, puedes ser productivo de inmediato. Una vez que comience a jugar con los modelos de Pytorch y Tensorflow (entrene usted mismo o realice el aprendizaje por transferencia), comenzará a desarrollar una intuición sobre cómo encajan los gráficos de red. También recogerás herramientas como tensorboard.
 
 Procura siempre ir transfiriendo el aprendizaje hacía la práctica. Es increíble entrenar en un conjunto grande de datos y de alta calidad, existen bases de datos disponibles públicamente; si eres capaz de terminar resolviendo los problemas sobre un gran conjunto de datos te será mucho más sencillo aplicarlo sobre tu propio conjunto de datos; con seguridad, mucho más pequeño.
@@ -96,17 +74,6 @@ Procura siempre ir transfiriendo el aprendizaje hacía la práctica. Es increíb
 En la actualidad, da la sensación de que el aprendizaje profundo sera como la ingeniería de hoy; donde puedes aprender haciendo y sin necesidad de un título u otros estudios formales para poder llegar a ser productivo y ser capaz de crear tus propias redes.
 
 Puedes ser capaz de diseñar redes de conversión de voz y TTS, por ejemplo, sin necesidad de estudios específicos; y posteriormente, si comienzas a leer páginas y artículos sobre redes similares a la que tu deseas crear; puedes llegar a ese punto más simple desde el que ir avanzando.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Con seguridad, te será útil comenzar con algo de teoría, aunque solo sea para adaptarte al vocabulario con el que pensar y obtener ayuda con los problemas que te encuentres. A riesgo de sonar como un disco rayado, la **clase gratis** de [Andrew Ng en Coursera](https://ouo.io/QSlgGQ){:target="_blank" rel="nofollow,noreferrer"} (en inglés, aunque esta disponible con **subtítulos en español**) y disponible en [Youtube](https://ouo.io/QSlgGQ) las personas que lo han realizado lo aconsejan y dicen que es bastante bueno: esto te dará acceso a un poco de conocimiento básico de cálculo (todo lo que necesitas son derivadas simples de una variable y derivadas parciales) y álgebra lineal básica (como la multiplicación de matrices).
 
@@ -150,33 +117,11 @@ Mientras aprende esto, juegue con la regresión lineal y sus variantes: polinomi
 
 Es sencillo, rápido, puede ver qué sucede con los datos (como qué transformaciones debe realizar o dónde le faltan datos), y es interpretable. Es bueno tener algunos resultados preliminares para mostrar y discutir mientras todos los demás luchan por obtener resultados no terribles de sus redes neuronales.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Entonces realmente puedes meterte en la carne con el aprendizaje automático. Primero comenzaría con los modelos basados ​​en árboles. Son más directos y compasivos que las redes neuronales. Puede explorar cómo la complejidad de sus modelos afecta las predicciones y comenzar a tener una idea de la optimización de hiper parámetros.
 
 Comience con árboles básicos y luego entre en bosques aleatorios en scikit-learn. Luego explore los árboles impulsados ​​por gradiente con XGBoost. Y puedes obtener resultados realmente buenos con los árboles. En mi grupo, rara vez vemos que las redes neuronales superen a los modelos construidos en XGBoost en datos tabulares.
 
 La mayoría de las publicaciones de blog apestan. La mayoría de los papeles son inútiles. Recomiendo el aprendizaje automático de Geron.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Luego exploraría el amplio mundo de las redes neuronales. Comience con Keras, que realmente enfatiza la construcción de modelos de una manera amigable, y luego continúe con PyTorch a medida que se sienta cómodo depurando Keras. Ataque algunos problemas de clasificación de objetos con y sin backends pre-entrenados, luego entre en detección y PNL. Juegue con la regularización de peso, la norma de lotes y la norma de grupo, diferentes tasas de aprendizaje, etc. Si realmente desea profundizar en las cosas, también aprenda algo de programación de CUDA.
 

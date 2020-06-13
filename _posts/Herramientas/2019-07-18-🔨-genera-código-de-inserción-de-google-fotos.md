@@ -25,17 +25,6 @@ Si has estado utilizando Google Photos para hacer una copia de seguridad de tus 
 
 Esta aplicaci&oacute;n te ayudar&aacute; de forma simple y sencilla. Abre cualquier imagen en el sitio web de Google Fotos, haz clic en el bot&oacute;n de Compartir y luego haz clic en Obtener enlace, con ese de la imagen generado.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Posteriormente pegarlo en el cuadro dentro de [la p&aacute;gina CtrlQ](https://ctrlq.org/google/photos) y autom&aacute;ticamente se generar&aacute; el c&oacute;digo HTML necesario de inserci&oacute;n, todo con un solo clic.
 
 ![Código generado en HTML para la inserción de las fotografías de Google Photos deseadas, visto en Ciberninjas](/assets/images/Codigo-generado-en-HTML-para-la-insercion-de-la-fotografia-de-Google-Photos-deseada.jpg "Código generado en HTML para la inserción de las fotografías de Google Photos deseadas, visto en Ciberninjas"){: width="1280" height="720"}
@@ -59,17 +48,6 @@ La imagen en cuesti&oacute;n insertada se ver&iacute;a as&iacute;:
 &nbsp;
 
 Este c&oacute;digo HTML, puedes incluso utilizarlo dentro de correos electr&oacute;nicos; usando otras herramientas como por ejemplo: Gmail Mail Merge, HTML Mail, Google Form Emails, File Upload Forms o en cualquier otro lugar que admita el lenguaje de marcado de HTML.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 La herramienta de inserci&oacute;n solo funciona para im&aacute;genes individuales y no para &aacute;lbumes de fotos. Si proporcionas un enlace a un &aacute;lbum de Google Fotos, la imagen de portada se usar&aacute; para vincular al &aacute;lbum subyacente.
 

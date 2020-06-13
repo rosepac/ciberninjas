@@ -35,17 +35,6 @@ Desde el siguiente Twitter:
 
 <figure><a class="image-popup" href="/assets/images/harmony-os.jpg"><img src="/assets/images/harmony-os.jpg" /></a><figcaption>Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones | Ciberninjas</figcaption></figure>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Harmony de Huawei ser&aacute; de c&oacute;digo abierto y tendr&aacute; su propio compilador ARK
@@ -53,17 +42,6 @@ Desde el siguiente Twitter:
 Huawei revel&oacute; m&aacute;s detalles sobre su sistema operativo desarrollado internamente, **Harmony**, junto a su nueva interfaz de usuario, **EMUI** 10, en un evento realizado en China en un intento por reducir su dependencia de las compa&ntilde;&iacute;as tecnol&oacute;gicas estadounidenses, especialmente el Android de Google.
 
 Richard Yu, CEO del Grupo de Negocios del Consumidor de Huawei, hablando en la Conferencia de Desarrolladores de 2019, dijo que tiene la intenci&oacute;n de seguir usando Android para sus tel&eacute;fonos inteligentes, pero si no, Huawei es capaz de implementar su nuevo sistema operativo en dos d&iacute;as.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -84,16 +62,5 @@ Las aplicaciones para tel&eacute;fonos inteligentes tienen 3.9 millones de aplic
 Harmony es un sistema operativo orientado al futuro con baja latencia, alto rendimiento y alta confiabilidad.
 
 El primer compilador est&aacute;tico de Huawei, ARK Compiler, admitir&aacute; la compilaci&oacute;n unificada en varios idiomas (C / C ++, Java, Javascript, Kotlin, etc.) para aumentar la productividad del desarrollo.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

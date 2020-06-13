@@ -45,17 +45,6 @@ En tiempos de fascismo, todos somos disidentes. Y nuestras trincheras están en 
 
 Creado en forma de manual para proteger tus comunicaciones, cifrar tus correos, borrar tus búsquedas y dispersar las células de datos que generan tus tarjetas de red, en el caso de que, al igual que Manning, Assange o Snowden, decidas arriesgarlo todo por el bien de tu comunidad.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🙋‍♀️ Descripción Completa
@@ -63,17 +52,6 @@ Creado en forma de manual para proteger tus comunicaciones, cifrar tus correos, 
 Bradley Manning es un soldado raso que no quiso aceptar los crímenes de guerra como daños colaterales. Julian Assange es un informático que ha decidido hacer un trabajo al que los grandes periódicos han renunciado. Edward Snowden es un técnico informático que, ante la evidencia de un abuso contra los derechos de sus conciudadanos, decidió denunciar.
 
 Los tres son ciudadanos ordinarios que, enfrentados a circunstancias extraordinarias, decidieron cumplir con su deber civil. Las consecuencias para ellos no podrían ser más graves ni más reveladoras: son víctimas de una campaña internacional de descrédito personal cuya intención es convencer a los espectadores de que lo importante son las apariencias y no los hechos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -86,17 +64,6 @@ El Pequeño Libro Rojo del Activista en la Red es un manual para proteger sus co
 Marta Peirano es periodista. Fundó las secciones de Cultura de ADN y eldiario.es, donde ha sido jefa de Cultura y Tecnología y adjunta al director, además de haber sido codirectora de Copyfight y cofundadora de Hack Hackers Berlin y de Cryptoparty Berlin.
 
 Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigilan-si-no-soy-nadie/ "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano..")», supera ya los dos millones de visitas. Se la puede ver en los debates de radio y televisión hablando de vigilancia, infraestructuras, soberanía tecnológica, propaganda computacional y cambio climático.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -123,17 +90,6 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigila
 - Publicar sin ser visto
 - Una solución de bolsillo: Tails
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 📝 Otros Detalles
@@ -151,17 +107,6 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigila
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=kindle_unlimited&banner=0PYAB72K9B5NAJAM0H82&f=ifr&linkID=caea859e44b57ca1e1ab932433cdda90&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 💖 Comprar Libro
@@ -174,16 +119,5 @@ Su charla TED, «[Por qué me vigilan si no soy nadie](/charla-por-que-me-vigila
 
 <p><center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=0K8KMRM0NM2Y5A191Z02&f=ifr&linkID=211f5ada1acf9b558138a9115015fccc&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=1MY6V4BGBKF24MPVQ382&f=ifr&linkID=bc72cdf8c85667d9cf8d99ac40b234cf&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=fire_tablets&banner=09F0X29YE5A28P2Z02G2&f=ifr&linkID=99987810c2d699e6b1a4becf63ee659b&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle_oasis&banner=0NJNYNMJ9TB937AZFHG2&f=ifr&linkID=a42c1c2fd452f496c7105f18b28d8c61&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center></p>
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=kindlestore&banner=0P95N768FCV2P0732CG2&f=ifr&linkID=75656190f347ab8c55ea09e0b6f57418&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

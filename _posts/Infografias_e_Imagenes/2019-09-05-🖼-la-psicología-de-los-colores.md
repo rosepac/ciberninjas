@@ -33,17 +33,6 @@ Infograf&iacute;a asociativa de los colores respecto a los sentimientos y tem&aa
 
 <center><a href="https://ibb.co/xGjR6VK" class="btn btn--success btn--large" title="La psicología de los colores dentro del marketing | Visto en Ciberninjas">🕵️‍♀️ TAMAÑO COMPLETO 🔍</a></center>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Descubre las percepciones y mejor utilizaci&oacute;n para cada determinado color; entre los colores blanco, gris claro, gris medio o gris oscuro, negro, morado, fucsia, marr&oacute;n, rojo, magenta, naranja, verde, oro, amarillo, y los distintos tonos de azul.
 
 <!-- Fuente -->

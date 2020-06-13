@@ -30,17 +30,6 @@ Cometemos tres errores: El primero es infravalorar la cantidad de información q
 
 Y es verdad que la NSA tiene el mayor acceso, los mejores recursos, las mejores herramientas, pero no les hace falta nada de eso para espiarnos a nosotros, porque nosotros lo tenemos todo ahí. Vivimos en casas de cristal.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Este es Malte Spitz, miembro del Partido Verde alemán, y en 2009, Malte le pidió a su compañía telefónica que le mandara todos los datos que tenía sobre él. Y la Deutsche Telekom, que era su compañía, le dijo que no.
@@ -53,17 +42,6 @@ A Malte le dieron seis meses como diciendo "esto es todo lo que tenemos porque n
 
 Entonces, Malte, que no podía leer máquina, se lo mandó a un semanario que a su vez, contactó con una agencia devisualización de datos para hacer algo con esto, ¿no? 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Entonces ellos cogieron estos datos de Deustche Telekom y otros datos de Malte que eran públicos como, por ejemplo, de su cuenta de Twitter o de su blog. Y con esto hicieron este mapa que estáis viendo ahora, que más que un mapa, es como un diario automático y terrorífico de la vida de Malte.
@@ -74,17 +52,6 @@ Esto está en la Web, eh. Lo podéis ver.
 
 El motivo por el que pasa esto es que Malte tiene un teléfono en el bolsillo que cada cinco minutos hace un ping a la antena que tenga más cerca y le dice: "¿Tienes algo para mí? ¿Tengo algún correo? ¿Tengo algún mensaje de WhatsApp? ¿Ha pasado algo en el mundo?"
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Levantad la mano los que tenéis un teléfono en el bolsillo que hace lo mismo.
@@ -93,17 +60,6 @@ Entonces, nuestros teléfonos, cada cinco minutos, están diciendo: "estoy aquí
 
 El equivalente directo es esto que tenéis ahora en la pantalla. Esto es el perfil de una persona vigilada por la Stasi durante años. Es como una servilleta, ¿no?
 Con 46 post its ahí que incluyen a su tía, el lechero, el cura de su parroquia... Esto son cinco minutos en la vida de Malte Spitz, y esta información es automática. Y lo peor es que esto es solo la información sobre Malte, pero Malte está rodeado de gente como nosotros con teléfonos como el suyo, que están produciendo la misma información; y esa compañía los ve todos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -114,17 +70,6 @@ Sabemos incluso si están en el 4° piso o están abajo en la plaza. Esto es com
 Entonces, si tenemos control sobre estas, digamos, telecomunicaciones, sobre esta red, podemos hacer cosas como, por ejemplo, apagar los nodos de esta plaza, es decir, aislar a las personas que reúnen a todos los demás, de todos los demás.
 
 También podemos hacer lo que hizo el gobierno de Ucrania hace año y medio y mandarles un mensaje que ponga: "Queridos usuarios, ha sido usted registrado como partícipe en una manifestación ilegal masiva". No nos comportamos igual cuando sabemos que nos vigilan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -140,17 +85,6 @@ No estamos hablando de lo que tenemos en la cartera.
 
 Hace 20 años, la base de datos personal más grande del mundo no la tenía la NSA, y no la tenía la Stasi, pobrecita; la tenía Walmart, la cadena de supermercados estadounidense. ¿Por qué? Porque cuando te dan una tarjeta de puntos, lo que estás haciendo es decirle a una empresa quién eres, dónde vives, cuánto ganas, en qué te lo gastas, qué comes, cuántos hijos tienes, cuándo te vas de vacaciones, cuándo te pones enfermo... Y todo con la esperanza de que, dentro de seis meses o de un año, si te gastas mucho dinero, te dan un tupper[ware]. (Risas)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Y no es distinto de lo que hacemos en la red, porque Deutsche Telekom es una empresa legítima y europea, que tiene que obedecer la Ley de Protección de Datos, igual que Telefónica.
@@ -161,17 +95,6 @@ Telefónica, aquí, tiene que obedecer leyes de protección de datos, pero las e
 A nuestros vigilantes no les importa que no seamos nadie, que no seamos importantes, porque son algoritmos, no son personas y nuestro perfil es automático; existe aunque nadie lo mire. Y el dia que alguien lo mire y te cambia la suerte, tu perfil, tu historial, se convierte en tus antecedentes.
 
 Puedes acabar atascado en el aeropuerto de uno de los 75 países donde ser homosexual es ilegal. O puedes acabar en un país donde echarle una foto a una farmacia de producción masiva desde el otro lado de la carretera es terrorismo; esto pasa en Estados Unidos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -184,17 +107,6 @@ Hay mil maneras de estar en el sitio equivocado en el momento equivocado y a vec
 Querían saber cuántos protestantes, cuántos católicos y cuántos judíos tenían, para saber cuánto dinero tenían que poner en cada comunidad, en cada iglesia o sinagoga.
 
 ¿Qué pasa? Que cuando llegaron los nazis, ya tenían los deberes hechos. Solo el 10% de los judíos holandeses sobrevivieron a la Segunda Guerra Mundial.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -211,16 +123,5 @@ Empezar a pensarlo bien cada vez  que alguien nos ofrece una tarjeta de puntos, 
 No solo por nosotros, porque además, este estado de vigilancia es una de las peores enfermedades que tiene una democracia. Así que, os convido a llegar a casa, empezar a usar Tor, y si alguien quiere ver lo que estáis haciendo, que pida una orden de registro. Muchas gracias. (Aplausos)
 
 > Fuente: [TED Talks](https://www.ted.com/talks/marta_peirano_the_surveillance_device_you_carry_around_all_day)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

@@ -20,17 +20,6 @@ Un generador de sitio estático o SSG - viene de la abreviatura del significado 
 
 Este sitio web HTML se sirve a través de su servidor web, igual que antiguamente. Esto generalmente se logra utilizando lenguajes de plantilla y código que separa el diseño del sitio web de su contenido y estilos.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 A continuación vamos a ver las ventajas y desventajas de la utilización de una página web estática.
 
 ## Ventajas de un generador de sitio estático o SSG

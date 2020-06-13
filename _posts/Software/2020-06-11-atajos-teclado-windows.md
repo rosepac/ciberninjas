@@ -56,17 +56,6 @@ En la lista a continuación, puede encontrar ambos métodos abreviados de teclad
 
 **Win + 0 ... 9**: inicia una aplicación desde la barra de tareas cuyo icono está fijo en la posición correspondiente al número.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## **Moverse por Windows 10**
 
 **Win + E**: ejecuta el administrador de archivos.
@@ -92,17 +81,6 @@ En la lista a continuación, puede encontrar ambos métodos abreviados de teclad
 **Win + Ctrl + F4**: cierra el escritorio virtual usado.
 
 **Win + Tab**: muestra todos los escritorios y aplicaciones en ellos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## **Ventanas de Windows 10**
 

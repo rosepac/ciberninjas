@@ -27,17 +27,6 @@ En esta publicación vas a poder encontrar todos los mejores enlaces sobre conte
 🔥 Seguro también te interesa: [aprender posicionamiento web](/posicionamiento-web-seo/) >> [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Los Mejores Artículos de SEO
@@ -50,17 +39,6 @@ En esta publicación vas a poder encontrar todos los mejores enlaces sobre conte
 - [Google introduce dos nuevos atributos de enlace: “ugc” y “sponsored”](https://useo.es/ugc-sponsored-nofollow){:target="_blank" rel="nofollow,noreferrer"}
 - [Guía de Robots.txt de Ciberninjas](/robots-txt/)
 - [Guí de Optimización de CSS](https://www.humanlevel.com/articulos/desarrollo-web/optimizacion-de-css.html){:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -97,17 +75,6 @@ En esta publicación vas a poder encontrar todos los mejores enlaces sobre conte
 
 - [Exportar Palabras Clave](https://www.mecagoenlos.com/tools/){:target="_blank" rel="nofollow,noreferrer"} 1- Exporta hasta 50.000 KWs de Google Search Console. 2- Exporta también las URLs (query + page).3- Totalmente gratis. (2020)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Las Mejores Herramientas de Redes Sociales
@@ -134,16 +101,5 @@ En esta publicación vas a poder encontrar todos los mejores enlaces sobre conte
 - [Contador de Palabras](https://www.palabrasque.com/contador-de-palabras){:target="_blank" rel="nofollow,noreferrer"}
 - [Días Internacionales, Día a Día](https://www.diainternacionalde.com){:target="_blank" rel="nofollow,noreferrer"}
 - [Días Internacionales: Unesco](http://www.unesco.org/new/es/unesco/events/prizes-and-celebrations/celebrations/international-days/){:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

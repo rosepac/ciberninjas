@@ -77,17 +77,6 @@ Si recién estás comenzando con Java, vea [Java en vivo en acción](/java/) en 
 </nav>
 </details>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## ¿Qué son los frameworks de Java?
@@ -108,17 +97,6 @@ Los frameworks dan una estructura a sus aplicaciones. Por ejemplo, si tenemos un
 
 De la misma manera, si existen frameworks para ORM, aplicaciones web, registro, gestión de datos, etc., simplificará la vida de un desarrollador y le ayudará a concentrarse más en la lógica de negocios en lugar de preocuparse por las piezas de código comunes utilizadas en un dominio o aplicación.
 <!-- [CONTENIDO INTRODUCCION](https://hackr.io/blog/java-frameworks) -->
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -179,17 +157,6 @@ Los puntales son fáciles de configurar y proporcionan mucha más flexibilidad y
 [📑 Documentación Struts Framework](https://struts.apache.org/getting-started/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **Hibernate**
@@ -224,17 +191,6 @@ Wicket es liviano y puedes crear aplicaciones realmente rápido. También es fá
 [📑 Documentación Apache Wicket Framework](https://wicket.apache.org/learn/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Java Server Faces**
@@ -268,17 +224,6 @@ Dropwizard es un framework de código abierto que se incluye con las bibliotecas
 [💻 Framework Dropwizard](https://www.dropwizard.io/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [📑 Documentación Dropwizard Framework](https://javadoc.io/doc/io.dropwizard/dropwizard-project/latest/index.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -319,17 +264,6 @@ ATG es un framework extenso y necesita tiempo y paciencia para aprenderlo. Varia
 [💻 Framework ATG](https://docs.oracle.com/cd/E24152_01/index.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [📑 Documentación ATG Framework](https://docs.oracle.com/cd/E24152_01/Platform.10-1/ATGMultiApp/html/s0102abouttheoracleatgwebcommerceplat01.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -372,17 +306,6 @@ Si desea familiarizarse con Big Data y Data Science, Hadoop es su lugar para com
 [📑 Documentación Apache Hadoop Framework](https://hadoop.apache.org/docs/r2.10.0/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Más Frameworks (Menos Utilizados)
@@ -410,17 +333,6 @@ Es un enfoque completamente nuevo para crear aplicaciones Java para que pueda co
 [💻 Framework Vaadin](https://vaadin.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [📑 Documentación Vaadin Framework](https://vaadin.com/docs){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -451,17 +363,6 @@ La estructura y la filosofía de OpenXava siguen una arquitectura de componentes
 [💻 Framework OpenXava](https://www.openxava.org/OpenXavaDoc/docs/getting-started_en.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [📑 Documentación OpenXava Framework](https://www.openxava.org/OpenXavaDoc/docs/philosophy_en.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -498,17 +399,6 @@ Es fácil integrar el código de Tapestry con frameworks de back-end como Spring
 [📑 Documentación Tapestry Framework](https://tapestry.apache.org/documentation.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 17. **Jersey**
@@ -538,17 +428,6 @@ OSGi tiene algunos buenos conceptos y beneficios, sin embargo, debido a los paqu
 [💻 Framework OSGI](https://www.osgi.org/developer/downloads/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [📑 Documentación OSGI Framework](https://www.osgi.org/osgi-release-7-javadoc/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -580,17 +459,6 @@ MyBatis es una buena alternativa a Hibernate y JDBC cuando su aplicación no es 
 [📑 Documentación MyBatis Framework](https://mybatis.org/mybatis-3/es/index.html){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver al Inicio 🔝](/10-mejores-frameworks-java/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 21. **Apache Mina**
@@ -614,16 +482,5 @@ El mejor framework para su aplicación debe cumplir con los requisitos de su neg
 Por ejemplo, para un framework de desarrollo web de pila completa (full-stack) si se encuentra algo que deba ser cambiado, debería impactar menos sobre la aplicación, es decir, no deberías de tener que construir e implementar la aplicación nuevamente para la realización exclusiva de pequeños cambios. Solamente con un cambio de configuración deberías poder hacer la magia suficiente como para realizarlo. Dichas aplicaciones ahorran tiempo de inactividad y proporcionan flexibilidad.
 
 Elija el framework para la aplicación sabiamente, si quieres disfrutar de todas las características que te proporciona Java.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

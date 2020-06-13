@@ -27,17 +27,6 @@ Este libro contiene todo lo que necesita para implementar un lenguaje de script 
 
 A partir de main(), creará un lenguaje que presenta una sintaxis rica, tipeo dinámico, recolección de basura, alcance léxico, funciones de primera clase, cierres, clases y herencia. Todo empaquetado en unos pocos miles de líneas de código limpio y rápido que comprenderá a fondo porque usted mismo escribió cada una.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Puedes leer todo el libro, gratis, en línea.. Si esta publicando un capítulo cada poco tiempo, si deseas recibir las actualizaciones debes suscribirte a la lista de correo que encontrarás en la portada del libro en la página html siguiente..
 
 [👉 Leer Libro 😺](http://craftinginterpreters.com/contents.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

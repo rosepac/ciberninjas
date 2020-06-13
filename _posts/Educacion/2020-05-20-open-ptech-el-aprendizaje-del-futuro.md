@@ -36,17 +36,6 @@ La escuela está centrada en la formación de postsecundaria (desde la finalizac
 
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
@@ -68,17 +57,6 @@ En octubre de 2013, el presidente Barack Obama visitó la escuela secundaria de 
 
 En enero de 2015, gracias a la asociación de Google y Paramount Pictures, así como con la asistencia de Bruce Gordon y Tawana Tibbs: P-TECH High School se convirtió en la única escuela de Estados Unidos en recibir una proyección gratuita y privada de la película SELMA.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Qué es la Plataforma Online P-Tech?**
@@ -94,17 +72,6 @@ IBM ha realizado un esfuerzo para poder ofrecer contenido en español, portugué
 Puedes registrarte dentro de P-Tech partiendo de una cuenta de Google, Linkedin o una ID perteneciente a una cuenta de IBM. Desde [el enlace](https://kutt.it/ptech-registro){:target="_blank"} podrás tener acceso a tu perfil personal y a las diferentes formaciones que existentes.
 
 [🔓 REGISTRO EN LA PLATAFORMA DE APRENDIZAJE DE IBM](https://kutt.it/ptech-registro){: .btn .btn--info .btn--large .align-center}{:target="_blank"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -128,17 +95,6 @@ Los cursos lanzados en español no son muy numerosos, pero también; podrás acc
 
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -165,17 +121,6 @@ Las actividades incluidas dentro de esta sección, son las siguientes:
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Cuál es el Curriculum de Inteligencia Artificial?**
@@ -200,17 +145,6 @@ Al final del mismo, estarás galardonado con la insignia que demuestra que compr
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Cuál es el Curriculum de Blockchain?**
@@ -232,17 +166,6 @@ Este galardonado con la insignia ha desarrollado una comprensión de los princip
 [🏆 Reclamar Badge de Blockchain](https://kutt.it/badge-blockchain){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -268,17 +191,6 @@ La insignia siguiente demuestra una comprensión fundamental de los conceptos, o
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Cuál es el Curriculum de Ciencia de Datos?**
@@ -300,17 +212,6 @@ Al final del mismo, estarás galardonado con la insignia que demuestra que compr
 [🏆 Reclamar Badge de Ciencia de Datos](https://kutt.it/badge-ciencia-datos){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -335,17 +236,6 @@ El ganador ha adquirido conocimiento sobre la aplicación de Enterprise Design T
 [🏆 Reclamar Badge de Pensamiento de Diseño](https://kutt.it/badge-pensamiento-diseno){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -373,17 +263,6 @@ La insignia de "Trabajando en un mundo digital: habilidades profesionales" demue
 [🏆 Reclamar Badge de Habilidades Profesionales](https://kutt.it/badge-habilidades-profesionales){: .btn .btn--danger .btn--large .align-center}{:target="_blank"}
 [🔝 Inicio](/open-ptech-el-aprendizaje-del-futuro/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/open-ptech-el-aprendizaje-del-futuro/#índice-){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -417,16 +296,5 @@ La insignia de "Trabajando en un mundo digital: habilidades profesionales" demue
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

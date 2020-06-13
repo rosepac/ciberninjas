@@ -34,17 +34,6 @@ Para aquellos completamente nuevos en el desarrollo de aplicaciones de Ionic, pu
 
 Ionic Framework es una biblioteca de componentes de la interfaz de usuario, que son elementos reutilizables que sirven como bloques de construcción para una aplicación. Los componentes iónicos están construidos sobre [estándares web](https://ionicframework.com/docs/faq/glossary#web-standards) usando HTML, CSS y JavaScript.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Aunque los componentes están preconstruidos, están diseñados desde cero para ser altamente personalizables para que las aplicaciones puedan hacer que cada componente sea propio, permitiendo que cada aplicación tenga su propia apariencia.
 
 Más específicamente, los componentes iónicos pueden ser fácilmente temáticos para cambiar globalmente la apariencia en toda una aplicación. Para obtener más información sobre cómo personalizar el aspecto, consulte[Temática](https://ionicframework.com/docs/theming/basics).
@@ -54,17 +43,6 @@ Más específicamente, los componentes iónicos pueden ser fácilmente temático
 Adaptive Styling es una característica incorporada de Ionic Framework que permite a los desarrolladores de aplicaciones usar la misma base de código para múltiples plataformas.
 
 Cada componente iónico adapta su aspecto a la plataforma en la que se ejecuta la aplicación. Por ejemplo, los dispositivos de Apple, como el iPhone y el iPad, usan el [lenguaje de diseño iOS de](https://www.apple.com/ios) Apple . Del mismo modo, los dispositivos Android utilizan el lenguaje de diseño de Google llamado [Material Design](https://material.io/guidelines/).
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Al realizar sutiles cambios de diseño entre las plataformas, los usuarios reciben una experiencia de aplicación familiar.
 
@@ -80,17 +58,6 @@ Las aplicaciones web tradicionales usan un historial lineal, lo que significa qu
 
 En contraste, las aplicaciones móviles a menudo utilizan navegación paralela "no lineal". Por ejemplo, una interfaz con pestañas puede tener pilas de navegación separadas para cada pestaña, asegurándose de que el usuario nunca pierda su lugar mientras navega y cambia entre pestañas.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Las aplicaciones iónicas adoptan este enfoque de navegación móvil, soportando historiales de navegación paralelos que también pueden anidarse, todo mientras mantienen los conceptos de navegación de estilo de navegador con los que los desarrolladores web están familiarizados.
 
 Para las aplicaciones que están construidas con Angular y `@ionic/angular`, recomendamos usar el[ Enrutador Angular](https://angular.io/guide/router) que viene de fábrica para cada nueva aplicación Ionic 4 Angular. Las versiones anteriores de Ionic se enviaron con nuestro propio enrutador personalizado, pero con el fin de proporcionar la mejor experiencia de herramientas y desarrollador, hemos pasado a utilizar el enrutador recomendado por el marco.
@@ -100,17 +67,6 @@ Para las aplicaciones que están construidas con Angular y `@ionic/angular`, rec
 Una característica sorprendente de las aplicaciones creadas con tecnologías web (como las aplicaciones Ionic) es que puede ejecutarse en prácticamente cualquier plataforma: computadoras de escritorio, teléfonos, tabletas, automóviles, refrigeradores y mucho más.
 
 La misma base de código para las aplicaciones Ionic puede funcionar en muchas plataformas porque se basa en estándares web y API comunes que se comparten en estas plataformas.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Uno de los casos de uso más comunes para Ionic es crear una aplicación que se pueda descargar desde[ App Store](https://www.apple.com/ios/app-store/) y [Play Store](https://play.google.com/) . Los kits de desarrollo de software (SDK) de iOS y Android proporcionan[Vistas web](https://ionicframework.com/docs/building/webview)que procesan cualquier aplicación Ionic, mientras permiten *el* acceso *completo al* SDK nativo.
 

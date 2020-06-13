@@ -100,17 +100,6 @@ Spyder es un entorno de desarrollo científico integrado escrito en Python. Este
 
 [🔥 Descargar Spyder](https://www.spyder-ide.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## 3. **IDLE**
 
 ![Logotipo del entorno de desarrollo o IDE denominado Python IDLE](/assets/images/blog/python-ide/python-idle.webp "Logotipo del entorno de desarrollo o IDE denominado Python IDLE")
@@ -157,17 +146,6 @@ Visual Studio Code (VS Code) es un entorno de código abierto desarrollado por M
 
 [🔥 Descargar Visual Studio Code](https://code.visualstudio.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Atom**
@@ -185,17 +163,6 @@ Atom es una herramienta útil de editor de código preferida por los programador
 - Permitir edición multiplataforma
 
 [🔥 Descargar Atom](https://atom.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -284,17 +251,6 @@ Precio: Gratis para la comunidad, sin embargo. Las versiones empresariales son d
 [🔥 Descargar ActivePython](https://www.activestate.com/products/python/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
@@ -321,16 +277,5 @@ Precio: Gratis para la comunidad, sin embargo. Las versiones empresariales son d
 [🥇 ▷ Cómo APRENDER a Programar GRATIS en 2020: Mejores libros recomendados para programadores](https://ciberninjas.com/programar/)
 
 [🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

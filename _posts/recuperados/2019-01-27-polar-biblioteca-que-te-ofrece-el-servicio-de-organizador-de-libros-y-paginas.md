@@ -29,17 +29,6 @@ permalink: /polar-biblioteca/
 
 Anote documentos directamente mientras los lee y sincronice con sistemas de repetición espaciados como [Anki](https://ankiweb.net){:target="_blank" rel="nofollow,noreferrer"}.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## Características
 
 Estas son algunas de las principales características que presenta el programa de gestión de documentos **Polar** :
@@ -56,17 +45,6 @@ El contenido se almacena localmente, lo que significa que puedes usar **Polar** 
 El sistema se basa en [Electron](https://kutt.it/electron), [Node](https://kutt.it/nodejs), [pdf.js](https://kutt.it/pdfjs), y [React](https://kutt.it/reactrosepac)
 - **Basado en estándares** 
 El contenido se almacena como [JSON](https://kutt.it/json) en un esquema bien documentado. Las anotaciones nunca cambian el contenido original que mantiene seguro el repositorio de documentos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## Anotaciones
 
@@ -88,17 +66,6 @@ Como la mayoría de las páginas no están diseñadas para leer y tienen anuncio
 
 Un curioso apartado, es el apartado de estadísticas que te muestra sobre un gráfico la utilización de las etiquetas que vas incluyendo dentro de tus documentos.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## Repositorio de documentos
 
 El repositorio de documentos te permite administrar tus documentos en un solo lugar: ordénalos por progreso de lectura o agregados, archiva y filtra los documentos marcados. Permite la inclusión de etiquetas en cada documento específico.
@@ -119,16 +86,5 @@ En este vídeo podemos apreciar cómo funciona la captura de páginas web.
 
 **Página web & Descarga** : _[Polar](https://getpolarized.io/)_
 {: .notice--info}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

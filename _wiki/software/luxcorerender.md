@@ -25,17 +25,6 @@ LuxCoreRender presenta un sistema completo de renderización 3D basado en otros 
 
 Luxrender posee plugins totalmente funcionales con los que exportar sus diseño hacía Blender y Daz Studio; y solamente parcialmente en el caso de que deseemos trabajar conjunto a software como Cinema 4D, Maya, SketchUp o XSI.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Luxrender también es totalmente compatible como renderizador de producción en 3DS Max. LuxCoreRender y Blender son compatibles a través del complemento BlendLuxCore. Después de abrir el archivo exportado, LuxCoreRender renderizará la escena.
 
 Se pueden configurar varios ajustes para la configuración del procesamiento posterior a través de la interfaz gráfica de usuario y el archivo de control de la escena. Una característica importante de LuxCoreRender es que el usuario puede cambiar el equilibrio de diferentes luces mientras la imagen aún se está procesando.
@@ -47,17 +36,6 @@ Se pueden configurar varios ajustes para la configuración del procesamiento pos
 LuxCoreRender comenzó originalmente como LuxRender en 2008 basado en PBRT, un programa de representación basada en la física. Aunque PBRT es muy capaz y está bien estructurado, se centra en el uso académico y los artistas digitales no lo pueden utilizar fácilmente.
 
 Como PBRT tiene su licencia bajo la Licencia BSD, fue posible iniciar un nuevo programa basado en el código fuente de PBRT; desde ese punto de partida y con la bendición de los autores originales de PBRT nació definitivamente LuxRender.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 En sus inicios, en septiembre de 2007, un pequeño grupo de programadores comenzó a crear el nuevo programa que se centraría sobre todo en un enfoque y uso artístico. Desde su etapa inicial, el programa ha atraído a un pequeño puñado de programadores de todo el mundo.
 
@@ -74,17 +52,6 @@ Durante el invierno de 2017, LuxCoreRender v2.0 se definió como un paquete de r
 ### ¿Por qué el proyecto de Lux Core Render Versión 2?
 
 El proyecto LuxRender se estaba muriendo bajo el peso de muchos viejos códigos abandonados, y todos los desarrolladores activos tenían la fuerte sensación de que se requería un nuevo comienzo. El "núcleo" entre "Lux" y "Render" está ahí para resaltar el nuevo enfoque del proyecto.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Sin embargo, la versión 2.0 comienza con el enfoque de la continuidad, y una hoja de ruta pautada por 10 años de desarrollo y experiencia.
 

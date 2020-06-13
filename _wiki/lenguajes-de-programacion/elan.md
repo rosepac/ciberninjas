@@ -16,17 +16,6 @@ ELAN es un lenguaje de programación educativo para aprender y enseñar programa
 
 Fue desarrollado en 1974 por CHA Koster y un grupo de la Universidad Técnica de Berlín como una alternativa a BASIC en la enseñanza, y aprobado por el "Arbeitskreis Schulsprache" para su uso en las escuelas secundarias de Alemania. Se utiliza en varias escuelas en Alemania, Bélgica, los Países Bajos y Hungría para la enseñanza de informática en educación secundaria, y se utiliza en la Universidad Radboud de Nijmegen en los Países Bajos para enseñar programación sistemática a estudiantes de diversas disciplinas y en cursos para docentes.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 El diseño del lenguaje se enfoca fuertemente en la programación estructurada y tiene una construcción especial para el refinamiento gradual, permitiendo a los estudiantes enfocarse en el diseño de arriba hacia abajo y la codificación de abajo hacia arriba.
 
 **Creador**: CHA Koster (et al.)

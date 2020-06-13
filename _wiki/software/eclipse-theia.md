@@ -32,17 +32,6 @@ Theia fue desarrollado por TypeFox y Ericsson con contribuciones adicionales de 
 
 Theia se basa en el Language Server Protocol (LSP) o lo que es lo mismo el Protocolo del Servidor de Idiomas y admite toda una variedad de lenguajes de programación. Se puede usar como una aplicación de escritorio, una aplicación web o una aplicación híbrida con front-end y back-end separados.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Todas las características de Theia se implementan como extensiones, lo que permite a los desarrolladores externos modificar las funcionalidades de Theia utilizando las mismas interfaces de programación de aplicaciones (API) que los componentes predeterminados de la aplicación. El diseño de funcionamiento de Theia se basa en arrastrar y soltar.
 <!-- Protocolo del servidor de idiomas https://en.wikipedia.org/wiki/Language_Server_Protocol  https://microsoft.github.io/language-server-protocol/ Protocolos de Comunicaciones https://en.wikipedia.org/wiki/Category:Communications_protocols-->
 

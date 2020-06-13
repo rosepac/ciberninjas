@@ -30,17 +30,6 @@ En caso de que no desees ver el acceso directo de Google Meet cada día que revi
 
 Google lanzó recientemente Google Meet, una versión renovada de su programa de video y chat de Hangouts Meet y puso la aplicación a disposición de cualquier persona que tenga una cuenta de Google; además de implementar un acceso rápido a iniciar una videoconferencia desde Meet desde la bandeja de entrada de Gmail; utilizando unos nuevos botones colocados en el lado izquierdo de la página de Gmail.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Pero, ¿Qué pasa si no tienes la intención de usar Meet, o incluso si simplemente no quieres esos botones estén allí? Pues, no te preocupes porque Google nos va a permitir ocultar los molestos botones.
 
 > Nota: Si tienes una cuenta corporativa de G Suite, es posible que no puedas cambiarlo; todo depende de la configuración del administrador.

@@ -44,17 +44,6 @@ Estos incidentes indicaron la necesidad de mecanismos establecidos para los serv
 🔥 Seguro también te interesa: [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--warning}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Estado de este documento
@@ -78,17 +67,6 @@ La elección de la URL fue motivada por varios criterios:
 - El nombre del archivo debe indicar el propósito del archivo y ser fácil de recordar.
 - La probabilidad de un choque con los archivos existentes debe ser mínima.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## El formato
@@ -110,17 +88,6 @@ El registro comienza con una o más `User-agent` líneas, seguido de una o más 
 	El valor de este campo especifica una URL parcial que no se debe visitar. Esta puede ser una ruta completa o una ruta parcial; no se recuperará ninguna URL que comience con este valor. Por ejemplo, `Disallow: /help` no permite ambos `/help.html`y `/help/index.html`, mientras `Disallow: /help/`que no `/help/index.html` permitiría pero permitiría `/help.html`.Cualquier valor vacío indica que se pueden recuperar todas las URL. Al menos un campo Disallow debe estar presente en un registro.
 
 La presencia de un " `/robots.txt`" archivo vacío no tiene una semántica asociada explícita, se tratará como si no estuviera presente, es decir, todos los robots se considerarán bienvenidos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -158,17 +125,6 @@ Agente de usuario: *
 No permitir: /
 ```
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Código de ejemplo
@@ -184,16 +140,5 @@ Aunque no es parte de esta especificación, algunos códigos de ejemplo en Perl 
 [⏪ Regresa a La Guía de Robots.txt](/robots-txt/)
 {: .notice--info}
 <!-- https://www.robotstxt.org/orig.html -->
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

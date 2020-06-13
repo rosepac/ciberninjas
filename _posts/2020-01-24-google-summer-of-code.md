@@ -26,17 +26,6 @@ Las parejas de GSoC aceptaron la solicitud de estudiantes con mentores de los pr
 
 A su vez, las organizaciones participantes pueden identificar y atraer nuevos desarrolladores más fácilmente. Lo mejor de todo es que se crea y libera más código fuente para uso y beneficio de todos; todo el código producido como parte del programa se publica bajo una licencia de código abierto.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Este programa ha reunido a miles de estudiantes y mentores de más de 118 países en todo el mundo. Más de 680 proyectos de código abierto, de áreas tan diversas como sistemas operativos y servicios comunitarios, han participado como organizaciones mentoras para el programa. Los estudiantes exitosos han informado ampliamente que su participación en GSoC los hizo más atractivos para los empleadores potenciales y que el programa los ha ayudado enormemente al emprender sus carreras técnicas.
 
 ## Objetivos del programa
@@ -54,17 +43,6 @@ El programa en sí, tiene varios objetivos:
 Google Summer of Code comenzó en 2005 como un experimento complejo con un objetivo simple: ayudar a los estudiantes a encontrar trabajo relacionado con sus actividades académicas durante sus vacaciones escolares. En el primer año de GSoC, participaron 40 proyectos y 400 estudiantes.
 
 Al concluir el decimoquinto Google Summer of Code en 2019, más de 15,000 estudiantes han sido aceptados en el programa. Lo mejor de todo es que la mayoría de las organizaciones participantes informaron que el programa les ayudó a encontrar nuevos miembros de la comunidad, comprometidos y activos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## Roles de los participantes
 
@@ -84,17 +62,6 @@ En términos más generales, los administradores del programa brindan consejos �
 
 Los administradores de la organización son los "pastores de principiantes" para los proyectos de código abierto de GSoC. Estas personas envían la solicitud de la organización para participar en el programa a Google, se aseguran de que los mentores completen las evaluaciones de manera oportuna y, en general, organizan la participación de su proyecto en GSoC.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 El administrador de la organización actúa como la persona de referencia de Google si surge algún problema. También hay algunas tareas administrativas triviales en el sistema en línea de GSoC que solo pueden ser completadas por los administradores de la organización.
 
 Algunos administradores de organizaciones también son mentores de los estudiantes durante GSoC, y eso está perfectamente bien; es muy recomendable que la gente sepa que tiene tiempo suficiente para ejecutar ambos roles simultáneamente.
@@ -109,33 +76,11 @@ Los mentores son personas de la comunidad que se ofrecen como voluntarios para t
 
 Algunas organizaciones optan por asignar más de un mentor a cada uno de sus estudiantes. Muchos miembros de la comunidad brindan orientación a los estudiantes de GSoC de su proyecto sin ser oficialmente sus tutores, de la misma manera que responden las preguntas de cualquiera en las listas de correos del proyecto o en el canal IRC.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ### **Estudiantes**
 
 Un estudiante participante en GSoC es típicamente un estudiante universitario o universitaria. El único requisito académico es que los solicitantes aceptados se inscriban en una institución académica acreditada. Los estudiantes también deben tener al menos 18 años de edad para poder participar.
 
 Los estudiantes provienen de una variedad de antecedentes académicos, y aunque la mayoría de los estudiantes están inscritos en un programa de Ciencias de la Computación, eso no es un requisito exclusivo. Los antiguos estudiantes participantes en GSoC provienen de disciplinas tan variadas como la ecología, la medicina y la música.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Los estudiantes presentan propuestas de proyectos a las diversas organizaciones que participan en GSoC. Las organizaciones seleccionan qué propuestas de estudiantes les gustaría ver financiadas por Google. Muchos estudiantes participantes se han convertido en miembros importantes de la comunidad de código abierto. Muchos estudiantes también se han convertido en mentores e incluso administradores de organizaciones para el programa.
 
@@ -153,17 +98,6 @@ Se alienta a los estudiantes a comenzar a hablar con las organizaciones particip
 
 Esto les ayuda a refinar sus ideas para que produzcan una propuesta de mejor calidad. Se le pide a cada organización que proporcione una plantilla de propuesta, pero las mejores aplicaciones para estudiantes van mucho más allá de la plantilla y la lista de ideas de una organización. Los estudiantes reciben aproximadamente 2 semanas para completar sus solicitudes.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Después de la fecha límite de solicitud de los estudiantes, las organizaciones comienzan a revisar las propuestas que recibieron. Durante la fase de revisión, las organizaciones mantienen un diálogo abierto con sus estudiantes solicitantes. Esto puede implicar preguntas aclaratorias con respecto a las propuestas finales para garantizar que los estudiantes y las organizaciones tengan la misma comprensión de la propuesta.
 
 Es importante tener en cuenta que la propuesta de un estudiante no puede modificarse después de la fecha límite de presentación final, y las organizaciones de mentores no deben intentar hacerlo durante el período de revisión.
@@ -177,17 +111,6 @@ Algunas veces un estudiante tiene propuestas aceptadas por más de una organizac
 Antes de que se espere que los estudiantes comiencen a trabajar, hay un período de tres a cuatro semanas integrado en el programa para permitirles ponerse al día sin la presión de ejecutar sus propuestas. Durante este tiempo, se espera que los estudiantes conozcan sus comunidades de proyecto y participen en la discusión del proyecto.
 
 Durante este tiempo, los estudiantes también deben configurar sus entornos de desarrollo, aprender cómo funciona el control de origen de su proyecto, refinar sus planes de proyecto, leer cualquier documentación necesaria y prepararse para completar sus propuestas de proyecto. Los mentores deben pasar este tiempo ayudando a sus alumnos a comprender qué recursos les serán más útiles, presentándolos a los miembros de la comunidad que serán más útiles con sus proyectos y, en general, culturizándolos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### **Inicio de la codificación**
 
@@ -210,16 +133,5 @@ _____
 **Fuente**:
 
 * [GSOC Guía de Mentores](https://google.github.io/gsocguides/mentor/){:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

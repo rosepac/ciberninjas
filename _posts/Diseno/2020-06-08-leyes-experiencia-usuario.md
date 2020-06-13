@@ -32,17 +32,6 @@ Las Leyes de Experiencia de Usuario, son una colección de los principios y las 
 🔥 Seguro también te interesa: [Mejores Blogs de Diseño](/blogs-diseno-grafico-espanol/) >> [Mejores Blogs en Inglés](/blogs-diseno-grafico-ingles/) >> [Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) >> [Cursos Animación y Diseño](/cursos-animacion-diseno/)
 {: .notice--danger}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
 <nav class="menu">
@@ -82,17 +71,6 @@ Las Leyes de Experiencia de Usuario, son una colección de los principios y las 
 ### **Orígenes**
 
 El efecto de usabilidad estética se estudió por primera vez en el campo de la interacción humano-computadora en 1995. Los investigadores Masaaki Kurosu y Kaori Kashimura del Centro de Diseño Hitachi probaron 26 variaciones de una interfaz de usuario ATM, pidiendo a los 252 participantes del estudio que calificaran cada diseño con facilidad. uso, así como atractivo estético.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Encontraron una correlación más fuerte entre las calificaciones de los participantes de atractivo estético y la facilidad de uso percibida que la correlación entre sus calificaciones de atractivo estético y la facilidad de uso real. Kurosu y Kashimura concluyeron que los usuarios están fuertemente influenciados por la estética de cualquier interfaz, incluso cuando intentan evaluar la funcionalidad subyacente del sistema.
 <!-- https://www.nngroup.com/articles/aesthetic-usability-effect/ -->
@@ -136,17 +114,6 @@ En 1982, Walter J. Doherty y Ahrvind J. Thadani publicaron, en el IBM Systems Jo
 
 En 1954, el psicólogo Paul Fitts, al examinar el sistema motor humano, mostró que el tiempo requerido para moverse a un objetivo depende de la distancia al mismo, pero se relaciona inversamente con su tamaño. Según su ley, los movimientos rápidos y los objetivos pequeños resultan en mayores tasas de error, debido a la compensación de precisión de velocidad. Aunque existen múltiples variantes de la ley de Fitts, todas abarcan esta idea.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 La ley de Fitts se aplica ampliamente en la experiencia del usuario (UX) y el diseño de la interfaz de usuario (UI). Por ejemplo, esta ley influyó en la convención de hacer que los botones interactivos sean grandes (especialmente en dispositivos móviles que funcionan con los dedos): los botones más pequeños son más difíciles (y requieren más tiempo) para hacer clic. Del mismo modo, la distancia entre el área de tareas / atención de un usuario y el botón relacionado con la tarea debe mantenerse lo más corta posible.
 
 ### **Artículos sobre Ley de Fitts**
@@ -187,17 +154,6 @@ La Ley de Hick (o la Ley de Hick-Hyman) lleva el nombre de un equipo de psicólo
 ### **Orígenes**
 
 La Ley de Jakob fue acuñada por Jakob Nielsen, defensor de los usuarios y director del Grupo Nielsen Norman, que cofundó con el Dr. Donald A. Norman (ex vicepresidente de investigación de Apple Computer). El Dr. Nielsen estableció el movimiento de 'ingeniería de usabilidad de descuento' para mejoras rápidas y baratas de las interfaces de usuario y ha inventado varios métodos de usabilidad, incluida la evaluación heurística.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### **Artículos sobre la Ley de Jakob**
 
@@ -240,17 +196,6 @@ Los psicólogos de la Gestalt argumentaron que estos principios existen porque l
 
 En 1910, el psicólogo Max Wertheimer tuvo una idea cuando observó una serie de luces que se encendían y apagaban en un cruce de ferrocarril. Fue similar a cómo se encienden y apagan las luces que rodean una carpa de cine. Para el observador, parece como si una sola luz se moviera alrededor de la carpa, viajando de bombilla a bombilla, cuando en realidad es una serie de bombillas encendidas y apagadas y las luces no lo mueven todo.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Esta observación condujo a un conjunto de principios descriptivos sobre cómo percibimos visualmente los objetos. Estos principios se encuentran en el corazón de casi todo lo que hacemos gráficamente como diseñadores.
 
 ### **Artículos sobre la Ley de Prägnanz**
@@ -290,17 +235,6 @@ Asegúrese de que los enlaces y los sistemas de navegación se diferencien visua
 ### **Orígenes**
 
 Los principios de agrupación (o leyes de agrupación de la Gestalt) son un conjunto de principios en psicología, propuestos por primera vez por los psicólogos de la Gestalt para explicar la observación de que los humanos perciben naturalmente los objetos como patrones y objetos organizados, un principio conocido como Prägnanz.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Los psicólogos de la Gestalt argumentaron que estos principios existen porque la mente tiene una disposición innata para percibir patrones en el estímulo basados ​​en ciertas reglas. Estos principios están organizados en cinco categorías: Proximidad, Similitud, Continuidad, Cierre y Conectividad.
 
@@ -345,17 +279,6 @@ En 1956, George Miller afirmó que el lapso de la memoria inmediata y el juicio 
 
 Asimismo, 4 bits de información es una decisión entre 16 alternativas binarias (4 decisiones binarias sucesivas).
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 El punto donde la confusión crea un juicio incorrecto es la capacidad del canal. En otras palabras, la cantidad de bits que se pueden transmitir de manera confiable a través de un canal, dentro de un cierto período de tiempo.
 
 ### **Artículos sobre la Ley de Miller**
@@ -395,17 +318,6 @@ Concentre la mayor parte del esfuerzo en las áreas que brindarán los mayores b
 
 Sus orígenes se remontan a Vilfredo Pareto, un economista que notó que el 80% de las tierras de Italia era propiedad del 20% de la población. Aunque parezca vago, la forma de pensar 80/20 puede proporcionar un análisis perspicaz y de aplicación infinita de los sistemas asimétricos, incluida la estrategia de experiencia del usuario.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ### **Artículos sobre El Principio de Pareto**
 
 - [La regla 80/20 en la experiencia del usuario](https://medium.com/design-ibm/the-80-20-rule-in-user-experience-1695de32aaae){:target="_blank" rel="nofollow,noreferrer"} por
@@ -443,17 +355,6 @@ Articulado por Cyril Northcote Parkinson como parte de la primera oración de un
 Un estudio de 1993 titulado “Cuando se prefiere más dolor que menos: agregar un mejor fin” por Kahneman, Fredrickson, Charles Schreiber y Donald Redelmeier proporcionó evidencia innovadora de la regla de punta y punta. Los participantes fueron sometidos a dos versiones diferentes de una sola experiencia desagradable.
 
 La primera prueba hizo que los sujetos sumergieran una mano en agua a 14 ° C durante 60 segundos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 La segunda prueba hizo que los sujetos sumergieran la otra mano en agua a 14 ° C durante 60 segundos, pero luego mantuvieran la mano sumergida durante 30 segundos adicionales, durante los cuales la temperatura se elevó a 15 ° C.
 
@@ -497,17 +398,6 @@ Colocar los elementos menos importantes en el medio de las listas puede ser úti
 
 El efecto del posicionamiento en serie, es un término acuñado por Herman Ebbinghaus, que describe cómo la posición de un elemento en una secuencia afecta la precisión del recuerdo. Los dos conceptos involucrados, el efecto de primacía y el efecto de actualidad, explican cómo los elementos presentados al comienzo de una secuencia y al final de una secuencia se recuerdan con mayor precisión que los elementos en el medio de una lista.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 La manipulación del efecto de posición en serie para crear mejores experiencias de usuario se refleja en muchos diseños populares de compañías exitosas como Apple, Electronic Arts y Nike.
 
 ### **Artículos sobre el Efecto de Posicionamiento en Serie**
@@ -549,17 +439,6 @@ Sin embargo, Bruce Tognazzini propone que las personas resistan las reducciones 
 ### **Orígenes**
 
 La teoría fue acuñada por el psiquiatra y pediatra alemán Hedwig von Restorff (1906-1962), quien, en su estudio de 1933, descubrió que cuando a los participantes se les presentaba una lista de elementos categóricamente similares con un elemento distintivo y aislado en la lista, memoria para El artículo fue mejorado.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### **Artículos sobre el Efecto Von Restorff**
 
@@ -612,16 +491,5 @@ Más tarde comenzó a trabajar en el Instituto de Actividad Nerviosa Superior, q
 [👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario](/diferencias-entre-ui-ux/)
 
 ![Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.](/assets/images/blog/ux-disenador.webp "Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.")
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

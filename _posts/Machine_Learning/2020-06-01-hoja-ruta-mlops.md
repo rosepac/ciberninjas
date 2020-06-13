@@ -35,50 +35,17 @@ Consideramos a MLOps como la extensión de la metodología DevOps incluyendo act
 
 Los productos prácticos del mundo real incluyen la necesidad de componentes convencionales y de Machine Learning (ML), por lo que es fundamental poder administrar todos estos componentes de manera consistente como activos comúnes dentro del alcance de una solución tecnológica dada.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Los MLOps deben verse como una práctica para administrar consistentemente los aspectos de LD (live developmente o desarrollo a tiempo real) de los productos de manera unificada con todos los demás elementos técnicos y no técnicos necesarios para comercializar con éxito esos productos con el máximo potencial de viabilidad en el mercado.
 
 Esto también incluye DataOps, ya que Machine Learning sin datos completos, consistentes, semánticamente válidos, correctos, oportunos e imparciales es problemático o conduce a soluciones defectuosas que pueden exacerbar los sesgos incorporados.
 
 En la actualidad, la gestión de los activos de ML en producción permanece en una etapa muy temprana de madurez, y la mayoría de las organizaciones se ven obligadas a construir soluciones a medida para su implementación o a limitarse a herramientas altamente específicas de la ciencia de datos que tratan los componentes de ML como datos no controlados. conjuntos.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 En este punto del desarrollo de la práctica, gran parte de la actividad de investigación y desarrollo de ML e IA ha sido impulsada por Data Science más que por equipos de Computer Science. Con la creación de la Hoja de ruta de MLOps, esperamos poder aprovechar las lecciones de los últimos setenta años de administración de activos de software en entornos comerciales para acelerar la viabilidad de administrar activos de ML en productos del mundo real.
 
 Existe una brecha significativa entre el esfuerzo requerido para crear una prueba de concepto viable de un modelo ML capacitado en una computadora portátil de Data Scientist frente a lo que se necesita para poder hacer una transición segura de ese activo a un producto comercial en entornos de producción, y la falta Un buen proceso, experiencia y herramientas para respaldar ese trabajo significa que actualmente la mayoría de los experimentos de ML no logran entrar en producción.
 
 Para agravar este desafío, las soluciones de Machine Learning tienden a ser sistemas de toma de decisiones en lugar de solo sistemas de procesamiento de datos y, por lo tanto, deberán rendir cuentas a estándares mucho más altos que los aplicados a los proyectos de entrega de software de mejor calidad.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Por lo tanto, la barra para los procesos de calidad y gobernanza es muy alta, en muchos casos representa procesos de cumplimiento legal exigidos por la legislación regional.
 
@@ -105,17 +72,6 @@ Sin embargo, el espacio del problema MLOps presenta algunos desafíos nuevos, ta
 - Garantizar la explicabilidad de las decisiones.
 - Garantizar la equidad en las decisiones.
 - Facilitar la auditabilidad de los datos de capacitación, modelos y conjuntos de pruebas.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 El alcance del aprendizaje automático abarca mucho más que simplemente mover un modelo simple de la computadora portátil de un científico de datos a la nube. Los ejemplos prácticos ya incluyen la necesidad de poder volver a entrenar modelos diariamente, utilizando petabytes de datos de entrenamiento, y luego llevar estos modelos entrenados a teléfonos móviles, vehículos, maquinaria, dispositivos portátiles y otros dispositivos periféricos altamente especializados para hacer inferencias en tiempo real.
 

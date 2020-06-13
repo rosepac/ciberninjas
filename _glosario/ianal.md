@@ -13,17 +13,6 @@ IANAL es una expresión en jerga informática que significa: No soy un abogado. 
 [Saber Más sobre Ianal 👉](/wiki-ninjas/ianal){: .btn .btn--inverse .btn--large .align-center}
 [👈 Regresar al Glosario Tecnológico](/glosario/){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## Otros Glosarios
 
 [⚙ Glosario de Interfaces de Programación](/glosario/completo-interfaces-programacion/){: .btn .btn--inverse .btn--large .align-center}

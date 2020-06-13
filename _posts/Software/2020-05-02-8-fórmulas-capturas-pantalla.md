@@ -42,17 +42,6 @@ Existen dos formas diferentes para realizar capturas de pantalla de la manera m�
   - [**Relacionados**](#relacionados)
 <!-- [CONTENIDO INTRODUCCION](https://lifehacker.ru/screenshot-windows-10/) -->
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## **Herramientas Nativas de Windows 10**
 
 Las 5 mejores técnicas para realizar capturas de pantalla con los atajos de teclado y aplicaciones que Windows 10 incluye por defecto.
@@ -76,17 +65,6 @@ Presione la tecla Impr Pant y Windows tomará una captura de pantalla, pero no l
 Para ver la captura de pantalla, tendrás que iniciar Paint y pegar la imagen en la ventana del programa con las teclas Ctrl + V. Si es necesario, podrás realizar cambios con el editor antes de guardarla.
 
 Haz Clic en Archivo → Guardar como y guarda la captura de pantalla en el formato que desees. La imagen aparecerá en la carpeta elegida. En lugar de Paint, puede usar cualquier otro editor de gráficos instalado en su PC.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -121,17 +99,6 @@ Para abrir "Recorte y Anotación" debes presionar la combinación: Win + Shift +
 Para visualizar la captura de pantalla realizada, puedes apretar en la notificación que te aparece una vez realizada la misma; para que se te abra un nuevo editor de Windows 10. Con el que podrás realizar pequeñas anotaciones y ajustes sobre la imagen.
 
 O en su defecto, abrir Paint y presionar Ctrl + V. Cuando la imagen ya este en el programa, podrás editarla o guardarla en el disco duro sin problemas.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -185,17 +152,6 @@ El programa se puede usar de forma gratuita, pero en este caso, las nuevas versi
 
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados**
@@ -225,16 +181,5 @@ El programa se puede usar de forma gratuita, pero en este caso, las nuevas versi
 [👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/)
 
 [Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

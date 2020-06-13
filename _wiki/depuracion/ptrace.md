@@ -20,31 +20,9 @@ Ptrace es utilizado por los depuradores (como gdb y dbx), mediante herramientas 
 
 Ptrace también es utilizado por programas especializados para parchear programas en ejecución, para evitar errores no corregidos o para superar características de seguridad. Se puede utilizar además como un sandbox y como un simulador de entorno de tiempo de ejecución (como emular el acceso de root para software no root).
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Al conectarse a otro proceso utilizando la llamada ptrace, una herramienta tiene un control extenso sobre el funcionamiento de su objetivo. Esto incluye la manipulación de sus descriptores de archivo , memoria y registros . Puede avanzar un paso por el código del objetivo, puede observar e interceptar llamadas del sistema y sus resultados, y puede manipular los manejadores de señal del objetivo y recibir y enviar señales en su nombre.
 
 La capacidad de escribir en la memoria del objetivo permite no solo cambiar su almacén de datos, sino también el propio segmento de código de la aplicación , lo que permite que el controlador instale puntos de interrupción y aplique el código de ejecución del objetivo.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Como la capacidad de inspeccionar y alterar otro proceso es muy poderosa, ptrace solo puede conectarse a procesos a los que el propietario puede enviar señales (generalmente solo sus propios procesos); la cuenta de superusuario puede rastrear casi cualquier proceso (excepto init en los núcleos anteriores a 2.6.26).
 
@@ -55,17 +33,6 @@ En los sistemas Linux que cuentan con seguridad basada en capacidades , la capac
 Las comunicaciones entre el controlador y el objetivo se realizan utilizando llamadas repetidas de ptrace, pasando un pequeño bloque de memoria de tamaño fijo entre los dos (se necesitan dos cambios de contexto por llamada); Esto es extremadamente ineficiente cuando se accede a grandes cantidades de memoria del objetivo, ya que esto solo se puede hacer en bloques de tamaño de palabra (con una llamada de seguimiento para cada palabra).
 
 Por esta razón, la octava edición de Unix introdujo procfs , que permite a los procesos permitidos el acceso directo a la memoria de otro proceso, seguido de 4.4BSD, y Solaris, BSD y AIX heredaron el uso de / proc para el soporte del depurador. y principalmente copiado por Linux.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Algunos, como Solaris, han eliminado ptrace como una llamada al sistema, reteniéndola como una llamada a la biblioteca que reinterpreta las llamadas a ptrace en términos de los procesos de la plataforma. Dichos sistemas utilizan ioctls en el descriptor de archivo del archivo abierto / proc para emitir comandos al proceso controlado. FreeBSD , por otro lado, extendió el sitio para eliminar los problemas mencionados y declaró que los procedimientos eran obsoletos debido a sus problemas de diseño inherentes.
 

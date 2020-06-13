@@ -30,17 +30,6 @@ El uso de un sistema operativo obsoleto conlleva muchos problemas y con el tiemp
 
 El 14 de enero de 2020, Microsoft  dejó de ofrecer soporte para Windows 7. Eso significa que el sistema dejó de recibir actualizaciones y muy pronto, muchas aplicaciones necesarias serán incompatibles con él, además, dejarán de existir los parches de seguridad y el sistema se convertirá, en un sistema más vulnerable a virus y otras posibles amenazas.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Sin embargo, muchos todavía no están listos para cambiar a las versiones más modernas de Windows 10 y seguir usando el software anterior. Según las estadísticas de NetMarketShare a partir de abril de 2020, Windows 7 todavía estaría instalado en el 29.43% de los propietarios de PC y ¡Eso es casi un tercio de las personas de Internet!
 
 **¡Ha llegado el momento de que Windows 7 pase a la historia!** Si todavía estas utilizando en un sistema operativo antiguo, aquí hay cinco buenas razones para qe finalmente actualices tu sistema operativo.
@@ -60,17 +49,6 @@ Por ejemplo, el software de Google Chrome solo se actualizará en Windows 7 hast
 ## 3. **Nuevos videojuegos**
 
 Otra ventaja por la que debes instalar Windows 10, son los videojuegos. En Windows 10, puedes jugar a los videojuegos más nuevos y además, a cualquier otro videojuego más viejos. Pero para Windows 7, cada día que se anuncia un nuevo videojuego, parece que cada día que pasa se encuentra destinado a tener un futuro más complicado.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Algunos desarrolladores ya exgen Windows 8.1 o Windows 10 como sistema operativo mínimo, entre los requisitos del sistema necesario para reproducir sus juegos; y las nuevas tecnologías, como DirectX 12, ya no  son compatibles con el SO de Windows 7.
 

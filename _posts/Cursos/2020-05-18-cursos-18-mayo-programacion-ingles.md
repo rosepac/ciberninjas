@@ -34,17 +34,6 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/)
 {: .notice--danger}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 🎓 Curso GRATIS Udemy: Aprende React desde cero (En inglés)
@@ -61,17 +50,6 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 
 <a href='https://www.udemy.com/course/hardcore-java-with-android-and-sql-applications/?couponCode=F11ABC616E5F9C6F63CF'>https://www.udemy.com/course/hardcore-java-with-android-and-sql-applications/?couponCode=F11ABC616E5F9C6F63CF</a>
 {: .notice--info}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -95,17 +73,6 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 <a href='https://www.udemy.com/course/create-amazon-alexa-flash-briefing-skill/?couponCode=3DAYPROMO'>https://www.udemy.com/course/create-amazon-alexa-flash-briefing-skill/?couponCode=3DAYPROMO</a>
 {: .notice--info}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 🎓 Curso GRATIS Udemy: Adobe Premiere Pro, Edición de video para principiantes (En inglés)
@@ -122,17 +89,6 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 
 <a href='https://www.udemy.com/course/create-logos-and-promo-videos-without-technical-knowledge/'>https://www.udemy.com/course/create-logos-and-promo-videos-without-technical-knowledge/</a>
 {: .notice--info}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -161,17 +117,6 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 <a href='https://www.udemy.com/course/ansible-on-centos-linux-8/'>https://www.udemy.com/course/ansible-on-centos-linux-8/</a>
 {: .notice--info}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 🎓 Curso GRATIS Udemy: Setup CentOS Linux 8 and Ubuntu 20.04 (En inglés)
@@ -193,17 +138,6 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 
 <a href='https://www.udemy.com/course/google-adsense-youtube-everything-you-need-to-know/?couponCode=STAYHOMEEDUENGTEAM'>https://www.udemy.com/course/google-adsense-youtube-everything-you-need-to-know/?couponCode=STAYHOMEEDUENGTEAM</a>
 {: .notice--info}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -227,17 +161,6 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 <a href='https://www.udemy.com/course/socket-programming-in-python-socket-programming-course/'>https://www.udemy.com/course/socket-programming-in-python-socket-programming-course/</a>
 {: .notice--info}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 🎓 Curso GRATIS Udemy: WordPress, crea un sitio web profesional sin codificación (En inglés)
@@ -259,17 +182,6 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 
 <a href='https://www.udemy.com/course/simulate-arduino-boards-and-start-testing-your-codes-freely/?couponCode=STAYHOMEEDUENGTEAM'>https://www.udemy.com/course/simulate-arduino-boards-and-start-testing-your-codes-freely/?couponCode=STAYHOMEEDUENGTEAM</a>
 {: .notice--info}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -297,17 +209,6 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 
 <a href='https://www.udemy.com/course/3d-painting-using-flowscape-paint-dream-worlds-in-3d/?couponCode=11C182D2AA7E92FA0C41'>https://www.udemy.com/course/3d-painting-using-flowscape-paint-dream-worlds-in-3d/?couponCode=11C182D2AA7E92FA0C41</a>
 {: .notice--info}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -343,17 +244,6 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 
 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 

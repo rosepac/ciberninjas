@@ -30,17 +30,6 @@ PHP es un lenguaje de secuencias de comandos del lado del servidor de código ab
 
 Existen numerosos IDE de PHP que ofrecen terminación de código inteligente y validan errores en tiempo real. Estas herramientas tienen un verificador y depurador de sintaxis para desarrollar rápidamente un script PHP.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 A continuación se incluye una lista cuidadosamente seleccionada de los mejores IDE específicos para el lenguaje de programación PHP, con sus características más populares y los enlaces a sus sitios web. La lista contiene software de código abierto (gratis) y comercial (pago).
 
 Cualquiera de estos editores será perfecto, al igual que cualquiera de los editores de código ya [vistos con anterioridad](https://ciberninjas.com/mejores-editores-texto/) en Ciberninjas.
@@ -119,17 +108,6 @@ NetBeans es un entorno de desarrollo integrado para escribir programas PHP. Tien
 
 Codelobster es un entorno de desarrollo integrado para PHP. Es compatible con numerosos complementos, incluidos JQuery, Facebook, etc.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ### **Características de CodeLobster**
 
 - Se puede resaltar pares de corchetes.
@@ -162,17 +140,6 @@ Cloud9 es un editor basado en la nube que te permite escribir, ejecutar y depura
 
 CodeLite es una herramienta de código abierto para escribir programas en PHP. Que te ayudará a destacar la sintaxis y se puede instalar sobre sistemas operativos de Windows y de Mac.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ### **Características de CodeLite**
 
 - Codelite se puede integrar conjunto a Cscope (interfaz basada en texto para buscar un código).
@@ -200,17 +167,6 @@ Geany es un editor PHP que utiliza el kit de herramientas de código abierto GTK
 ## 8. **Storm PHP**
 
 PHPStorm es un IDE multiplataforma para PHP, que permite utilizar tecnología front-end como HTML, CSS, Sass y más. Además, permite realizar pruebas unitarias individuales para pequeños pedazos de código fuente.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### **Características de Storm PHP**
 
@@ -240,17 +196,6 @@ TextMate es un editor desarrollado para macOS. Le ayuda a intercambiar fácilmen
 ## 10. **Zend Studio**
 
 Zend Studio es un entorno de desarrollo integrado para desarrollar una aplicación en PHP. Ofrece terminación de código inteligente y valida errores en tiempo real.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### **Características de Zend Studio**
 

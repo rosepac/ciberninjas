@@ -23,17 +23,6 @@ Capture One (también conocido como Capture One Pro) es un software de edición 
 
 Capture One 12 está disponible para macOS y Microsoft Windows . Está traducido para chino (simplificado), checo, inglés, francés, alemán, italiano, japonés, coreano, español y sueco.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Hay una versión disponible para propietarios de respaldos de cámaras digitales de Phase One , Mamiya y Leaf llamada Capture One DB (solo respaldo digital).
 
 Las versiones del software que funcionan solo con las imágenes en bruto de las cámaras digitales Sony o Fujifilm están disponibles como Capture One Pro / Express Sony y Capture One Pro / Express Fujifilm, respectivamente.

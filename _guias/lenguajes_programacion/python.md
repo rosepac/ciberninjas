@@ -28,33 +28,11 @@ Python es probablemente el lenguaje de programación más fácil de usar entre t
 
 Igual que Java, Python ofrece uuna variedad amplia en sus metodologías de aplicación, que lo convierten en una opción versátil y poderosa a la hora de elegir un lenguaje de programación adecuado para tu caso de uso.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Si estás interesado en el desarrollo web de back-end, por ejemplo, entonces el framework de código abierto Django (escrito en Python) es muy conocido, y además es fácil de aprender y posee muchas funciones; también Django, es utilizado en el desarrollo de aplicaciones y páginas web muy populares como por ejemplo: Instagram, Spotify o Mozilla.
 
 Python también tiene muchos "paquetes", "librerías" o "bibliotecas" de código; como NumPy y SciPy, que se usan comúnmente en los campos de la computación, las ciencias, las matemáticas y la ingeniería.
 
 Otras bibliotecas de Python, como TensorFlow, PyTorch, scikit-learn y OpenCV; son utilizadas para crear programas en ciencia de datos, aprendizaje automático, procesamiento de imágenes y visión por computadora. Las aplicaciones de ciencia y datos de Python lo convierten en una excelente opción para los académicos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -79,17 +57,6 @@ Incluso cuando se escribieron otros scripts para Google en Perl o Bash, estos a 
 
 Python es ahora uno de los lenguajes oficiales del servidor de Google (C ++, Java y Go son los otros tres) que pueden implementarse en producción. Y en caso de que no esté realmente seguro de cuán importante es Python para Google, el propio BDFL de Python, [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) , trabajó en Google desde 2005 hasta 2012.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### ILM
@@ -102,17 +69,6 @@ Originalmente, el estudio CGI de ILM se ejecutaba desde un shell de Unix, pero e
 
 ILM eligió Python 1.4 sobre Perl y Tcl, optando por usar Python porque era mucho más rápido de integrar en su infraestructura existente. Debido a la fácil interoperabilidad de Python con C y C ++ , fue simple para ILM importar Python a su software de iluminación patentado. Esto les permitió poner Python en más lugares, usándolo para envolver componentes de software y extender sus aplicaciones de gráficos estándar.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 El estudio ha usado Python en muchas otras facetas de su trabajo. Los desarrolladores utilizan Python para rastrear y auditar la funcionalidad de la tubería, manteniendo una base de datos de cada imagen producida para cada película. Como Python controlaba más y más de los programas de ILM, creó un conjunto de herramientas unificadas más simple que permitía una producción más efectiva. Para un ejemplo del mundo real, no busque más allá de [OpenEXR](http://www.openexr.com/index.html) , un formato de archivo HD utilizado por ILM. Como parte del paquete, [PyIlmBase](https://github.com/openexr/openexr/tree/develop/PyIlmBase) está incluido (aunque tiene una dependencia de Boost).
@@ -124,17 +80,6 @@ A pesar de las numerosas revisiones, ILM continúa considerando que Python es la
 Existen otras muchas empresas reconocidas que confian en Python como uno de sus lenguajes principales, por sus ideales características, entre ellas: la NASA, Mozilla, PayPal, Pinterest, SendGrid, Zappier, Udemy, Uber, Instacart, 8GAG, Asana, Intuit, Keen IO, Disqus, Pandora, BillGuard, Back End, imgix, AdRoll, Chartio, WePay, Chartbeat, Brika, Circa, Kippt, Thingr, Hipmunk, y un largo etc. más.
 
 [🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -153,17 +98,6 @@ Python es un lenguaje accesible para nuevos programadores porque la comunidad pr
 En la actualidad, las empresas ofrecen más de 66.000 puestos de trabajo centrados en Python a través de la web Indeed.com.
 
 [🔝 REGRESAR 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -205,17 +139,6 @@ Flask es un framework de Python construido con un núcleo pequeño y un diseño 
 [🐍 Proyecto Pallets 🐍](https://palletsprojects.com/p/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Bottle
@@ -250,17 +173,6 @@ TurboGears, es un framework enfocado hacía los desarrolladores full-stack sobre
 [🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 <!-- https://www.g2.com/products/turbogears/reviews?filters%5Bnps_score%5D%5B%5D=3 -->
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Falcon
@@ -293,17 +205,6 @@ Sanic es un framework web de Python construido en uvloop y diseñado para respue
 [🐍 Documentación Sanic 🐍](https://sanic.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Regresar Frameworks Web de Python 🔝](/python/#frameworks-web-de-python){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Otros Frameworks
@@ -329,17 +230,6 @@ Web2py es un framework full-stack de código abierto con una estructura de proye
 
 [🐍 Framework Web2py 🐍](http://www.web2py.com/init/default/index){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
 [🐍 Documentación Web2py 🐍](http://www.web2py.com/book/default/chapter/01#Security){: .btn .btn--warning .btn--large}{:target="_blank" rel="nofollow,noreferrer"} [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -371,17 +261,6 @@ https://github.com/klen/muffin#the-muffin
 {: .notice--warning}
 [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Ray -DESUSO-
@@ -394,17 +273,6 @@ https://rayframework.github.io/site/
 {: .notice--warning}
 [🔝 Regresar Otros Frameworks 🔝](/python/#otros-frameworks){: .btn .btn--inverse .btn--large .align-center}
 [🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -440,17 +308,6 @@ La simplicidad de Python ha atraído a muchos desarrolladores a crear nuevas bib
 
 Entonces, la primera biblioteca en nuestro blog de las 10 mejores bibliotecas de Python es TensorFlow.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## TensorFlow
 
 ![](https://i.ibb.co/mqd50yP/tensorflow-e1551699437694.jpg)
@@ -462,17 +319,6 @@ Si actualmente está trabajando en un proyecto de aprendizaje automático en Pyt
 Esta biblioteca fue desarrollada por Google en colaboración con Brain Team. TensorFlow se usa en casi todas las aplicaciones de Google para el aprendizaje automático.
 
 TensorFlow funciona como una biblioteca computacional para escribir nuevos algoritmos que involucran una gran cantidad de operaciones de tensor, ya que las redes neuronales pueden expresarse fácilmente como gráficos computacionales, pueden implementarse usando TensorFlow como una serie de operaciones en tensores. Además, los tensores son matrices N-dimensionales que representan sus datos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### **Características de TensorFlow**
 
@@ -502,17 +348,6 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 
 [🐍 Biblioteca TensorFlow 🐍](https://www.tensorflow.org/install){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -568,17 +403,6 @@ Es importante para los desarrolladores de "machine learning" full stack tener co
 
 [🐍 Biblioteca Numpy 🐍](https://numpy.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -650,17 +474,6 @@ PyTorch está superando a TensorFlow en múltiples formas y está ganando mucha 
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a LightGBM..
 
 ## LightGBM
@@ -689,17 +502,6 @@ Estas bibliotecas proporcionan implementaciones altamente escalables, optimizada
 
 [🐍 Biblioteca LightGBM 🐍](https://lightgbm.readthedocs.io/en/latest/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -787,17 +589,6 @@ Theano se está utilizando en múltiples proyectos de redes neuronales hoy en d�
 [🐍 Biblioteca Theano 🐍](http://deeplearning.net/software/theano/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a Pandas..
@@ -828,17 +619,6 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Otras Bibliotecas
@@ -862,17 +642,6 @@ A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemo
 [🐍 Biblioteca de Python 🐍](/libros/#python){: .btn .btn--warning .btn--large .align-center}
 [🔝 Regresar al Inicio 🔝](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Relacionados
@@ -886,16 +655,5 @@ _____
 
 La **Guía de Python** fue creada el *30 de Junio de 2019* y su última edición fue realizada el *20 de Mayo de 2020*.
 {: .notice--info}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

@@ -42,17 +42,6 @@ sidebar:
 ---
 Hasta Febrero 2017, Twitter ha pagado más de $640,000 USD a hackers éticos por reportar vulnerabilidades en su plataforma. Google, Facebook, Shopify, Dropbox, y muchos más, solicitan hackers éticos que busquen fallos de seguridad en sus sitios y pagarles por sus hallazgos. Este libro te enseñará cómo iniciarte en el hacking ético.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🙋‍♀️ Descripción Completa
@@ -60,17 +49,6 @@ Hasta Febrero 2017, Twitter ha pagado más de $640,000 USD a hackers éticos por
 Con un Prefacio escrito por los Co-fundadores de HackerOne Michiel Prins y Jobert Abma, Web Hacking 101 en Español trata sobre la exploración ética del software en busca de fallos de seguridad, pero aprender a hackear no siempre es fácil.
 
 A pesar de unas cuantas excepciones, los libros existentes son demasiado técnicos y solamente dedican un solo capítulo a las vulnerabilidades de sitios web o no incluyen ni un solo ejemplo del mundo real. Este libro es totalmente diferente.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -89,17 +67,6 @@ Este libro cubre temas como:
 
 Cada ejemplo incluye una clasificación del ataque, un enlace del informe, una descripción de fácil entendimiento sobre la falla, la recompensa obtenida (la mayoría de veces es una recompensa monetaria, otras son menciones en los salones de la fama de los hackers éticos en los sitios donde la vulnerabilidad fue encontrada, y otras veces la recompensa puede ser una camiseta o sudadera), y al final, se encuentran recomendaciones importantes para búsquedas futuras de ese mismo fallo.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Después de leer el libro, tus ojos serán abiertos al amplio margen de vulnerabilidades web que existen y probablemente nunca volverás a ver un sitio web o una API de la misma manera.
@@ -111,17 +78,6 @@ Peter Yaworski, es un desarrollador autodidacta que comenzó a "desarrollar" sit
 Desde entonces se mudó a Rails y Android antes de desarrollar un gran interés en la seguridad del software. En este momento, está enfocado en desarrollar Dailylearns.com , donde es el desarrollador principal, y continuar aprendiendo sobre las mejores prácticas de desarrollo de software.
 
 Gamliel Hernández, investigador de seguridad de la información. Jugador de pirateo web. Bug Bounty Hunter. Me gusta romper cosas y ver cómo funciona.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -269,17 +225,6 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 - Vulnerabilidades en la lógica de la Aplicación
 - Apéndice B - Registro de cambios en Web Hacking 101
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 📝 Otros Detalles
@@ -302,16 +247,5 @@ Gamliel Hernández, investigador de seguridad de la información. Jugador de pir
 
 <p><center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=0K8KMRM0NM2Y5A191Z02&f=ifr&linkID=211f5ada1acf9b558138a9115015fccc&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle&banner=1MY6V4BGBKF24MPVQ382&f=ifr&linkID=bc72cdf8c85667d9cf8d99ac40b234cf&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=fire_tablets&banner=09F0X29YE5A28P2Z02G2&f=ifr&linkID=99987810c2d699e6b1a4becf63ee659b&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe> <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=20&l=ur1&category=kindle_oasis&banner=0NJNYNMJ9TB937AZFHG2&f=ifr&linkID=a42c1c2fd452f496c7105f18b28d8c61&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center></p>
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=13&l=ur1&category=kindlestore&banner=0P95N768FCV2P0732CG2&f=ifr&linkID=75656190f347ab8c55ea09e0b6f57418&t=ciberninjas07-21&tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

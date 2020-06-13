@@ -19,17 +19,6 @@ permalink: /wiki/eumel/
 
 Fue creado en 1979 por Jochen Liedtke en la Universidad de Bielefeld. EUMEL inicialmente se ejecutó en el procesador Z80 de 8 bits, y luego fue portado a muchas arquitecturas diferentes.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 EUMEL se basa en una máquina virtual que utiliza un código de bits y logra un rendimiento y una funcionalidad notables. Los sistemas EUMEL basados en Z80 proporcionan una operación multitarea multiusuario completa con administración de memoria virtual y aislamiento completo de un proceso contra todos los demás.
 
 Estos sistemas generalmente ejecutan programas ELAN más rápido que los programas equivalentes escritos en lenguajes como BASIC, Pascal o Cobol y compilados en lenguaje máquina Z80 en otros sistemas operativos.
@@ -37,17 +26,6 @@ Estos sistemas generalmente ejecutan programas ELAN más rápido que los program
 Una de las características principales de EUMEL es que es persistente y utiliza una lógica de punto fijo / reinicio.
 
 Esto significa que si falla la alimentación, solo pierde un par de minutos de trabajo: al reiniciar, continúe trabajando desde el punto de fijación anterior con todo el estado del programa completamente intacto. Esto también se conoce como persistencia ortogonal.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 EUMEL fue seguido por L3 y luego L4.
 

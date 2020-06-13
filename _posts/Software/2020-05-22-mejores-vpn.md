@@ -107,17 +107,6 @@ El software CyberGhost le proporciona torrents P2P seguros. Puede desbloquear to
 
 [🔥 Descargar CyberGhost](https://www.cyberghostvpn.com/en_US/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Surfshark**
@@ -189,17 +178,6 @@ VPN Unlimited proporciona seguridad, independientemente de lo que use datos de t
 - Proporciona seguridad total, sea lo que sea que use Wi-Fi.
 
 [🔥 Descargar VPN Unlimited](https://www.vpnunlimitedapp.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -285,17 +263,6 @@ TigerVPN le permite acceder a servicios que le gustaría bloquear el contenido o
 
 [🔥 Descargar TigerVPN](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cómo funciona una VPN?**
@@ -329,16 +296,5 @@ Una VPN funciona al enrutar la conexión a Internet de su dispositivo selecciona
 [👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/)
 
 [Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

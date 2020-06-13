@@ -27,33 +27,11 @@ Pueden buscar datos de múltiples bases de datos e intranets, diseñados para tr
 
 El software de estos servidores de motor de búsqueda empresarial se puede instalar en una computadora portátil para probar y luego en sus servidores.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 La funcionalidad de estos motores de código abierto es como Google y Yahoo, pero particularmente para un negocio o empresas de nueva creación. Como te dije anteriormente, estos motores de búsqueda pueden indexar desde múltiples bases de datos e intranets, pero no se limitan solo a ellas.
 
 También es posible indexar archivos de documentos de diferentes sistemas de archivos, sistemas de gestión de documentos y correos electrónicos.
 
 El software de búsqueda de Big data de código abierto también puede recopilar la estructura y los datos no estructurados.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 El administrador también puede usar políticas de seguridad para restringir el acceso de los usuarios a cualquier colección particular de información. Ahora, sin perder mucho tiempo, vamos al mejor software de motor de búsqueda de código abierto disponible.
 

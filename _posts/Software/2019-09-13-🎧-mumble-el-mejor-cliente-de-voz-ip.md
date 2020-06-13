@@ -27,17 +27,6 @@ Mumble est&aacute; **destinado principalmente a los jugadores** , y fue el prime
 
 Escuchamos a usuarios que graban podcasts con nuestra grabadora de audio multicanal, jugadores que buscan realismo con nuestro audio posicional en los juegos, jugadores de Eve Online con enormes comunidades de m&aacute;s de 100 participantes de voz simult&aacute;neos (apuesto a que hacen un buen uso de nuestro extenso sistema de permisos 😄 ), la comunidad competitiva de Team Fortress 2 nos convierte en su plataforma de comunicaci&oacute;n de voz requerida, usuarios de transmisi&oacute;n de radio hobby y una variedad de lugares de trabajo que adaptan Mumble para satisfacer sus necesidades, ya sean dispositivos m&oacute;viles en la cabeza o se comunican a trav&eacute;s de pa&iacute;ses o en aviones.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Los administradores aprecian a Mumble por poder **poseer sus datos y los de sus usuarios** . Algunos hacen uso del extenso sistema de permisos para escenarios complejos (por ejemplo, separando dos grupos pero los l&iacute;deres pueden hablar con ambos). A algunos les encanta proporcionar a sus usuarios funcionalidades adicionales con scripts que hacen uso de las API del servidor u host bots de m&uacute;sica y similares que se conectan al servidor. Aquellos que tienen una base de datos de usuarios existente a menudo utilizan autenticadores para permitir la autentdesicaci&oacute;n con los datos de inicio de sesi&oacute;n de la cuenta existente.
@@ -45,17 +34,6 @@ Los administradores aprecian a Mumble por poder **poseer sus datos y los de sus 
 ## **Caracteristicas de Mumble**
 
 Diferentes grupos de usuarios est&aacute;n interesados en diferentes capacidades y, por lo tanto, describimos algunas de las caracter&iacute;sticas espec&iacute;ficas de cada tipo de usuario.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -100,17 +78,6 @@ Para comenzar, puede consultar nuestra [gu&iacute;a del servidor](https://wiki.m
 
 Para ver las opciones de configuraci&oacute;n, consulte [Murmur.ini](https://wiki.mumble.info/wiki/Murmur.ini) y nuestra documentaci&oacute;n sobre software de administraci&oacute;n de terceros, scripts y bots.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Para los anfitriones de Mumble**
@@ -126,16 +93,5 @@ Para ver las opciones de configuraci&oacute;n, consulte [Murmur.ini](https://wik
   * O empoderar a los usuarios al proporcionar la interfaz Ice o GRPC
 
 Para comenzar, puede consultar nuestra [gu&iacute;a del servidor](https://wiki.mumble.info/wiki/Murmurguide).
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

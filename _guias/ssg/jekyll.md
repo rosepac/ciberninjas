@@ -31,17 +31,6 @@ Espero que estos enlaces puedan ser de ayuda y ojalá; lleguen a suplir aunque s
 > **¡A la almendrilla!**
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [CMS para Jekyll](/jekyll/#cms-para-jekyll){: .btn .btn--inverse .btn--large} [Montaje y Pruebas](/jekyll/#montaje-y-pruebas){: .btn .btn--inverse .btn--large} [SEO de Jekyll](/jekyll/#seo){: .btn .btn--inverse .btn--large} [Plugins de Jekyll](/jekyll/#plugins-de-importaci%c3%b3n){: .btn .btn--inverse .btn--large} [Enlaces Externos de Jekyll](/jekyll/#enlaces-externos){: .btn .btn--inverse .btn--large} [Minimal Mistakes](/jekyll/#plantilla-de-minimal-mistakes){: .btn .btn--inverse .btn--large} [Popurrí de Enlaces](/jekyll/#enlaces-por-investigar-y-por-organizar){: .btn .btn--inverse .btn--large}
@@ -80,17 +69,6 @@ Otro por menor, que te va a surgir a la hora de su utilización; es que deberas 
 
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -133,17 +111,6 @@ POR INVESTIGAR
 * [¿Qué es Liquid?](https://shopify.github.io/liquid "Lenguaje generador de plantillas; seguro y orientado al cliente para aplicaciones web flexibles."){:target="_blank" rel="nofollow,noreferrer"}
 * [Versión de Liquid, usada por Github Pages](https://www.rubydoc.info/gems/liquid/2.2.2/Liquid/StandardFilters "Versión 2.2 la que utilizan desde Github Páginas en la actualidad"){:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Plugins de Jekyll
@@ -170,17 +137,6 @@ Si bien Jekyll no posee tanto repertorio como Wordpress, si que es posible ir a�
 [🔝 Inicio](/jekyll/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔖 Ir al Índice](/jekyll/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Plantilla de Minimal Mistakes
@@ -201,17 +157,6 @@ Seguir el siguiente ejemplo, con el uso de >
 ### Actualizar la Fecha de Publicación
 
 Agregar en la cabecera YAML `last_modified_at: 2016-03-09T16:20:02-05:00`
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -258,17 +203,6 @@ Se puede cambiar absolutamente todo dentro de la plantilla, siempre y cuando la 
 
 Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar pequeños cambios dentro de la plantilla Minimal Mistakes instalada sobre las páginas de Github.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Cómo cambiar la fuente tipográfica
@@ -307,17 +241,6 @@ Por tanto, y una vez diferenciadas ambas situaciones, veamos como poder realizar
 * [Crear desplegables](https://github.com/deepchar/deepchar.github.io){:target="_blank" rel="nofollow,noreferrer"} [1](https://github.community/t5/GitHub-Pages/Collapsible-markdown-inside-lt-details-gt-lt-summary-gt-lt/m-p/13838#M1090){:target="_blank" rel="nofollow,noreferrer"}
 * [Ordenar Páginas en Jekyll](https://stackoverflow.com/questions/41087699/jekyll-how-to-change-the-default-ordering-of-collections){:target="_blank" rel="nofollow,noreferrer"}
 * [Crear listado con las publicaciones de una categoría .yml](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category){:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 

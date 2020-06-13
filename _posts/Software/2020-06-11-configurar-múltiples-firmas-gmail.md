@@ -30,17 +30,6 @@ En el siguiente paso a paso, vamos a lograr que dejes de configurar manualmente 
 
 Google ha agregado recientemente soporte para gestionar múltiples firmas desde dentro del propio cliente de correo electrónico. Si bien,  unos años costaba trabajo configurar el correo electrónico de Google y usar extensiones de terceros, ahora todo lo que necesita está dentro de las opciones de configuración del propio correo.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## **Cómo configurar las firmas en Gmail**
 
 - Abre Gmail en un navegador.
@@ -53,17 +42,6 @@ Google ha agregado recientemente soporte para gestionar múltiples firmas desde 
 Después de seguir esos sencillos pasos, al enviar un mensaje, podras cambiar de firma a través de un pequeño icono con forma de bolígrafo que aparece al final de los botones de los correos electrónicos denominado "Insertar Firma".
 
 Por ahora, esta función no se encuentra funcional en las aplicaciones en Android e iOS: pero se puede gestionar la configuración de una firma concreta para los dispositivos móviles.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Desde la configuración de Google Gmail, siguiendo a la ruta (Configuración → Configuración de firma → Firma móvil) no te permitirá crear varias versiones de firmas; pero si una para todos los emails que respondas desde el móvil.
 

@@ -18,33 +18,11 @@ Es posible medir el cambio técnico como el cambio en la producción por unidad 
 
 En las economías de libre mercado, los avances tecnológicos conducen a aumentos en la productividad, pero a expensas de los medios de producción más antiguos y menos eficientes , creando un nivel de riesgo subjetivo para el cual la compensación (en teoría) es el rendimiento del capital.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Esta tasa o rendimiento es un reflejo de todos los riesgos percibidos asociados con la financiación de capital de los medios de producción, incluidos los riesgos tecnológicos. Desde el punto de vista de las finanzas de capital, los avances tecnológicos son la definición clásica de riesgo de mercado sistémico.
 
 La salida de esta condición es la "[destrucción creativa](/wiki/destruccion-creativa)"de una parte de los medios de producción, como lo demuestran las empresas que suspenden la producción de productos obsoletos y / o el cese de actividades comerciales que ya no son rentables.
 
 En su forma más pura, el capitalismo conlleva un nivel constante de destrucción creativa de una parte de los medios de producción y el aumento del Producto Interno Bruto(PIB) de la economía en cuestión refleja el crecimiento después de que las pérdidas debidas a la obsolescencia económica se hayan reconciliado.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 En consecuencia, los aumentos en el PIB proporcionan una medida sustantiva que demuestra que el capitalismo no crea en efecto una construcción económica en la que una parte solo puede obtener una ganancia a expensas de la otra parte (es decir, si una parte solo puede obtener ganancias a expensas de otra partido, entonces sería imposible lograr un crecimiento nominal del PIB).
 

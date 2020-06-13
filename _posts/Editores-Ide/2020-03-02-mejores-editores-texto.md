@@ -86,17 +86,6 @@ Visual Studio Code (o VS Code) se ha convertido rápidamente en  el estándar pa
 
 Eso significa que los desarrolladores en Mac, Windows y Linux pueden usar esta herramienta increíblemente poderosa, que no es exactamente un IDE (que en realidad es un producto completamente diferente), VS Code puede asumir la mayoría de las tareas de un IDE con la configuración correcta y la biblioteca de complementos.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 La comunidad de VS Code es increíblemente apasionada, y eso funciona en beneficio de todos; dado que VS Code es de código abierto, esa comunidad trabaja excepcionalmente duro para mantener a VS Code competitivo.
 
 Escrito en Node.js y Electron, puede estar seguro de que el código no quedará desactualizado o se retrasará a corto plazo.
@@ -140,17 +129,6 @@ Sublime Text está bastante cerca del estándar de la industria de los editores 
 
 Al igual que Atom y VS Code, Sublime Text tiene un repositorio de paquetes increíblemente activo que extiende sus características mucho más allá de la descarga inicial. Sublime Text es un hermoso editor de código rico en funciones.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Quizás el mayor atractivo es que le da una gran importancia a la experiencia del usuario, su UX es probablemente el más minimalista de todas los enumerados a lo largo de la lista.
 
 Esto se debe a características como el modo de escritura sin distracciones, accesos directos rápidos / búsqueda, edición dividida y mucho más. Una de las características más importantes que los usuarios hacen alarde es el sistema de atajo de teclado ridículamente intuitivo.
@@ -187,17 +165,6 @@ Notepad ++ es un editor de texto extremadamente popular. Esto se debe en parte a
 Sin embargo, incluso más que eso, la razón por la que es uno de los mejores editores de texto es que es simple.
 
 No intenta ser Atom o VS Code o Sublime Text. Es un editor de código, simple y llanamente. Los principiantes y los veteranos pueden obtener todo lo que necesitan de él.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Los programadores y desarrolladores a menudo recomiendan esta opción como una excelente opción para alguien que solo está entrando en la edición de código y podría verse abrumado por el entorno ofrecido por otros.
 
@@ -237,17 +204,6 @@ Brackets es otro editor gratuito y de código abierto. Esta vez, no se trata sim
 
 Sí, el adobe. De Photoshop, Illustrator, etc. Por eso, espere pulido y poder. Brackets está diseñado para ser mínimo pero potente. Sin embargo, ofrece algunas características únicas y útiles.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Una de esas características es Extraer, una herramienta que le permite extraer información como colores, fuentes, gradientes, medidas, directamente desde PSD como CSS limpio.
 
 Para los desarrolladores front-end que trabajan en una agencia de diseño que tienen que recrear sitios perfectos para píxeles a partir de maquetas, puede que no haya una mejor herramienta para usted.
@@ -286,17 +242,6 @@ Atom, un proyecto iniciado por  Github y, por lo tanto, ahora propiedad de Micro
 La mejor parte es que Atom es totalmente gratuito, de código abierto y altamente personalizable.
 
 Construido alrededor de una base de código mínimo, Atom viene con múltiples paquetes integrados enfocados en diferentes idiomas de programación y además, la comunidad ha ido escribiendo numerosas bibliotecas con el paso de los años.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Atom es tan completo y robusto como necesites: si el editor no es capaz de ofrecer lo que tu necesitas, tu puedes crear esa función.
 
@@ -367,17 +312,6 @@ Bluefish es más un  IDE  que un editor de texto real, lo que significa que pued
 
 Es gratis, admite casi todos los idiomas porque es de código abierto y viene con una amplia variedad de características útiles para usar en muchas plataformas. La comunidad lo actualiza constantemente y se basa en el editor y puede manejar algunas bases de código bastante complejas.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Puede editar en pantalla completa o ajustar el texto como desee, y la poderosa herramienta de búsqueda y reemplazo mantiene las cosas ordenadas.
 
 El IDE también admite muchas conexiones seguras, por lo que no tendrá que preocuparse por un cliente FTP separado, ya que puede trabajar en sus sitios y repositorios de forma remota desde el propio Bluefish.
@@ -419,17 +353,6 @@ Si creas una cuenta, incluso puedes guardar tu código. Codeshare no es una herr
 
 Pero si a menudo te encuentras en la situación de estar en ordenadores diferentes, o pasas mucho tiempo programando fuera de casa; por ejemplo, en la Universidad. Tal vez, necesites compartir tu código contigo mismo o requieras de la ayuda de otras personas, a través de la búsqueda de solucionar este tipo de problemas nació: Codeshare.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 La compañía, también cita, que puede ser un buen soporte para la realización de entrevistas; puesto que incluye la opción de que las personas codifiquen y realicen una videollamada a la vez.
 
 Los docentes o profesores, también podrían aprovechar mucho esta herramienta; que además incluye docenas de temas y resaltados de sintaxis para todos los idiomas principales. Los métodos de atajo de teclado también están integrados, y puedes elegir un conjunto favorito de ellos: en similitud con Sublime, VIM o Emacs.
@@ -468,17 +391,6 @@ Vim es hardcore. Seamos claros acerca de eso por adelantado. Cuando Sublime Text
 Desde el sitio web oficial del software en sí, ya se advierte, de que Vim es una herramienta de programación, creada por programadores y para programadores.
 
 Una vez que pierdas el miedo de los primeros usos y te adaptes a su interfaz, tras esa primera curva de aprendizaje mucho mayor que en otros casos, te darás cuenta de por qué el editor de texto VIM está diseñado de la manera en la que está.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Hace aproximadamente todo lo que pueden hacer los demás mejores editores de texto. Pero más que cualquier otra cosa en la lista, está diseñado para ofrecer funcionalidad y eficacia.
 
@@ -525,17 +437,6 @@ Son casi dos caras de la misma moneda, ya que están absolutamente diseñados pa
 
 Emacs es liviano, está basado en la línea de comandos y forma parte de GNU; lo vas a encontrar disponible totalmente gratis en una gran cantidad de sistemas operativos.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Emacs adopta un enfoque de edición un poco más atractivo visualmente que Vim, sin embargo, eso no significa que pierda potencia o funcionalidad.
 
 Si te encuentras en el mercado buscando un editor de texto y un IDE incondicional que estará prácticamente para siempre, Emacs es definitivamente una opción. Después de todo, el núcleo surgió en 1976 y esta iteración particular (GNU Emacs) se ha actualizado regularmente desde 1984.
@@ -573,17 +474,6 @@ Ahora que está familiarizado con VIM y Emacs, permítanos presentarle Spacemacs
 En lugar de tener que elegir entre los editores de código, Pepsi o Coca-Cola, ya sabes. Obtienes lo mejor de ambos mundos en un nuevo editor de código abierto. El hecho de que combine los dos en un paquete más agradable que cualquiera de los dos no significa que sea más accesible.
 
 Spacemacs todavía no es un editor enfocado hacía principiantes. Es complejo y está lleno de funcionalidad por encima de su diseño, pero toda esa funcionalidad no llega a ser tan agresiva; como en los casos de sus padres.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 El equipo de desarrollo y la comunidad han creado un conjunto de convenciones y accesos directos para el editor que lo hacen tan rápido como Emacs o VIM.
 

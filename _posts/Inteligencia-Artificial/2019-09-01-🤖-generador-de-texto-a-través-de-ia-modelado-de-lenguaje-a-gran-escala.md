@@ -23,17 +23,6 @@ No soy ning&uacute;n -pro- en la materia, perd&oacute;n por mis errores.
 
 Ellos lo definen como: "Entrenamos un modelo de lenguaje no supervisado a gran escala que genera p&aacute;rrafos de texto coherentes, logra un rendimiento de vanguardia en muchos puntos de referencia de modelado de lenguaje y realiza una comprensi&oacute;n de lectura rudimentaria, traducci&oacute;n autom&aacute;tica, respuesta a preguntas y resumen, todo sin entrenamiento de tareas espec&iacute;ficas."
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Un poco m&aacute;s del proyecto, GPT-2 muestra un amplio conjunto de capacidades, incluida la capacidad de generar muestras de texto sint&eacute;tico condicional de calidad sin precedentes, donde imprimamos el modelo con una entrada y hacemos que genere una larga continuaci&oacute;n.
 
 Adem&aacute;s, GPT-2 supera a otros modelos de idiomas capacitados en dominios espec&iacute;ficos (como Wikipedia, noticias o libros) sin necesidad de utilizar estos conjuntos de datos de capacitaci&oacute;n espec&iacute;ficos de dominio.

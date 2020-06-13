@@ -37,17 +37,6 @@ tags:
 
 En este análisis se compara a través del puntaje de estrellas de Github a las más importantes librerías de Javascript del mundo; todo ello siguiendo una línea de agrupamiento por temáticas de uso.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Las categorías en las que los proyectos están clasificados son las siguientes: Los proyectos más populares del año, frameworks Front-End, frameworks Node.js, ecosistema de React, ecosistema de Vue, ecosistema de Angular, librerías de Desarrollo Móvil, compiladores JS, librerías de montaje, bibliotecas de testing, editores de trabajo y picado de código, CSS en Javascript y SSG o [Generadores de Sitios Estáticos](/wiki/generador-de-sitios-estaticos).
 
 ## Visualizar Análisis de 2019

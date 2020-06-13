@@ -21,17 +21,6 @@ permalink: /wiki/cornelis-h-a-koster/
 
 Nacido en Haarlem , su familia se mudó a Yakarta después de la guerra. A los 11 años regresó a los Países Bajos por su cuenta. Después de estudiar en la Universidad de Amsterdam , trabajó en el Mathematisch Centrum (MC) en Amsterdam con Adriaan van Wijngaarden.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Allí fue uno de los editores del Informe original sobre el lenguaje algorítmico ALGOL 68, siendo responsable del diseño de la transferencia de ALGOL 68, y fue el creador del lenguaje original de descripción del compilador (CDL).
 
 Koster también es el creador de las gramáticas Affix, que son una variante de las gramáticas Van Wijngaarden. En cierto sentido, CDL es una gramática de afijo ejecutable determinista, mientras que Prolog es una gramática de afijo ejecutable no determinista (un enlace reconocido por los implementadores del intérprete original de Prolog).
@@ -45,17 +34,6 @@ PHASAR, búsqueda y recuperación de alta precisión basada en frases.
 PHASAR es un nuevo tipo de motor de búsqueda, que no considera consultas y documentos como bolsas de palabras, sino que se basa en un profundo análisis lingüístico e indexación tanto de documentos como de consultas. Está destinado a diversas formas de búsqueda profesional, que no es compatible con los motores de búsqueda actuales basados en palabras.
 
 El motor PHASAR proporciona a sus usuarios una forma completamente nueva de búsqueda, utilizando términos de búsqueda con motivación lingüística, que le da al usuario un control estricto sobre la precisión y el recuerdo (evitando largas listas de resultados espurios) y brindando un respaldo sin precedentes del proceso de búsqueda mediante la información del índice y el tesauro.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 El motor de búsqueda PHASAR todavía está en la etapa de prototipo. Su primera aplicación, como motor de búsqueda de literatura experimental para BioInformatics que da acceso a los resúmenes de Medline, es solo un anticipo del futuro, limitado por la falta de madurez e incompletitud del software y lingware.
 

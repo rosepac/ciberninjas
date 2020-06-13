@@ -37,17 +37,6 @@ React Native es un framework para la creación de aplicaciones móviles de códi
 
 React Native es una librería de código de Facebook que te ayuda a crear aplicaciones móviles utilizando solo Javascript.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Mientras que otras librerías de creación de aplicaciones crea solo versiones híbridas, web o HTML de las aplicaciones móviles, React Native en realidad crea aplicaciones móviles que son casi idénticas a las aplicaciones móviles Javascript y Objective-C.
 
 La librería React Native puede hacer esto porque emplea la misma tecnología de UI y los componentes básicos que utilizan las aplicaciones de Android y IOS.
@@ -60,17 +49,6 @@ La librería React Native puede hacer esto porque emplea la misma tecnología de
 En 2012, Mark Zuckerberg comentó: "El mayor error que cometimos como empresa fue apostar demasiado en HTML en lugar de en nativo". Prometió que Facebook pronto ofrecería una mejor experiencia móvil.
 
 Dentro de Facebook , Jordan Walke encontró una manera de generar elementos de interfaz de usuario para iOS a partir de un hilo de JavaScript en segundo plano. Decidieron organizar un Hackathon interno para perfeccionar este prototipo y poder crear aplicaciones nativas con esta tecnología.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Después de meses de desarrollo, Facebook lanzó la primera versión de React JavaScript Configuration en 2015. Durante una charla técnica, Christopher Chedeau explicó que Facebook ya estaba usando React Native en producción para su aplicación de grupo y su aplicación de administrador de anuncios.
 

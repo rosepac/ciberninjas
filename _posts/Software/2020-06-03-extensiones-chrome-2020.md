@@ -50,17 +50,6 @@ Aquí está la lista que se me ocurrió:
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
 {: .notice--danger}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## 1. **Tab Wranger**
 
 Cierra las pestañas que han estado abiertas durante demasiado tiempo, pero las mantiene a mano para cuando las necesites. Si eres un fanático de las pestañas, esto es imprescindible y te permite mantener docenas de pestañas abiertas o "en reserva" sin la necesidad de que el rendimiento se vea afectado.
@@ -93,17 +82,6 @@ Nimbus es la extensión del futuro, que más tarde o temprano va a lograr sustit
 
 [🔥 Probar Nimbus Note](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Ghostery**
@@ -117,17 +95,6 @@ Nimbus es la extensión del futuro, que más tarde o temprano va a lograr sustit
 ¡El abuelo de los bloqueadores de anuncios! Descargado más de 500 millones de veces, es sin duda una de las extensiones más confiables que existen; te permite bloquear anuncios de vídeos y todos los banners más molestos (no como los nuestros, que son soportables.. 😝) además lucha contra la publicidad más maliciosa y te permite bloquear los anuncios de forma personalizada dentro de cada una de las páginas webs que visites.
 
 [🔥 Probar Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 

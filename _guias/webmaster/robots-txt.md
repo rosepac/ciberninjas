@@ -46,17 +46,6 @@ Con esta página traemos toda la información necesaria para ser todo un maestro
 🔥 Seguro también te interesa: [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué es robots.txt?**
@@ -98,17 +87,6 @@ Robots.txt es un estándar de facto y no es propiedad de ningún organismo de es
 El estándar /robots.txt no se desarrolla activamente. Consulte [¿Qué pasa con el desarrollo posterior de /robots.txt? ](https://www.robotstxt.org/faq/future.html)para más discusión
 
 El resto de esta página ofrece una descripción general de cómo usar /robots.txt en su servidor, con algunas recetas simples. Para obtener más información, consulte también las [preguntas frecuentes](https://www.robotstxt.org/faq.html) .
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -168,17 +146,6 @@ Disallow:
 
 (o simplemente cree un archivo "/robots.txt" vacío, o no use ninguno)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Para excluir todos los robots de parte del servidor**
@@ -229,17 +196,6 @@ Disallow: /~carpeta-personal/bar.html
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Acerca de la META etiqueta robots**
@@ -272,17 +228,6 @@ Al igual que /robots.txt, la etiqueta META de robots es un estándar de facto. S
 La etiqueta META también se describe en [la especificación HTML 4.01, Apéndice B.4.1](http://www.w3.org/TR/html401/appendix/notes.html#h-B.4.1.2){:target="_blank" rel="nofollow,noreferrer"}.
 
 A continuación se ofrece una descripción general de cómo usar las etiquetas <META> de robots en tu página web, con algunos ejemplos simples. Para obtener más información, consulta nuestra página de [preguntas frecuentes o FAQ](https://www.robotstxt.org/faq.html).
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -318,17 +263,6 @@ Muchas personas terminan en este sitio porque tienen preguntas sobre robots y mo
 - [Centro de ayuda de Google Web Search en Español](https://support.google.com/webmasters/search?q=robots){:target="_blank" rel="nofollow,noreferrer"}
 - [Centro de ayuda para webmasters de Google](https://www.google.com/intl/es/webmasters/#?modal_active=none){:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Sitios sobre motores de búsqueda**
@@ -361,17 +295,6 @@ Sitios muy útiles para webmasters:
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Rastreadores de código abierto**
@@ -396,17 +319,6 @@ Sitios muy útiles para webmasters:
 - [Trandoshan](https://github.com/trandoshan-io){:target="_blank" rel="nofollow,noreferrer"}, un rastreador web distribuido de código abierto y gratuito diseñado para la web profunda.
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- https://www.keycdn.com/blog/web-crawlers los 10 rastreadores web más conocidos. -->

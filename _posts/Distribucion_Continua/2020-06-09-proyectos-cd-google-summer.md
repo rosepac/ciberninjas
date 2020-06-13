@@ -30,17 +30,6 @@ La Fundación CD se ha unido a la lista de organizaciones que participan en el [
 
 En total, se aceptaron 7 proyectos Jenkins, 2 proyectos Spinnaker y 1 destornillador en el programa de este verano. Mentores de muchas organizaciones diferentes en todo el mundo están colaborando, incluidos los embajadores de la Fundación CD.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 “La Fundación CD se dedica a apoyar proyectos de entrega continua de código abierto en todo el mundo. Parte de esa misión incluye apoyar y alentar a la próxima generación de desarrolladores talentosos en todo el mundo, dijo Tara Hernández, Gerente de Ingeniería Senior, Google Cloud Platform y miembro del Comité de Supervisión Técnica de la Fundación CD. “Gracias a los estudiantes y mentores que trabajan incansablemente para crear e innovar para el GSoC. Esperamos que todos pasen un tiempo fantástico codificando y aprendiendo este verano. ¡Felicidades!"
 
 🔥 Seguro también te interesa: [¿Qué es Jenkins? Herramienta de Integración Continua](https://ciberninjas.com/jenkins/) >> [▷ Jenkins X - Solicitud y búsqueda de ayuda: Divulgación](https://ciberninjas.com/jenkins-x-divulgaci%C3%B3n/) >> [▷ Introducción a Zuul para mejorar el CI / CD](https://ciberninjas.com/introduccion-zuul-open-source/) >> [Qué es Tekton](https://ciberninjas.com/tekton-beta/) >> [Tekton Beta](https://ciberninjas.com/tekton-beta/)
@@ -57,17 +46,6 @@ Loghi Perinpanayagam: Complemento de [aprendizaje automático Jenkins para cienc
 Kezhi Xiong: [API de](https://summerofcode.withgoogle.com/projects/#5139745388101632){:target="_blank" rel="nofollow,noreferrer"} comprobaciones de [GitHub para complementos de Jenkins](https://summerofcode.withgoogle.com/projects/#5139745388101632){:target="_blank" rel="nofollow,noreferrer"}
 
 - La API de GitHub Checks permite a los desarrolladores informar la información detallada de las integraciones de CI en lugar del estado de compilación binaria de aprobación / falla en las páginas de GitHub.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Stellargo: [Almacenamiento externo de huellas digitales para Jenkins](https://summerofcode.withgoogle.com/projects/#5558369944862720){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -88,17 +66,6 @@ Zixuan Liu: [Jenkins X: consolidar el uso de aplicaciones / complementos](https:
 
 - El objetivo principal del proyecto es consolidar aplicaciones y complementos dentro de Jenkins X para evitar confusiones.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Sladyn Nunes: [Servicio de construcción de distribución de Jenkins personalizado de](https://summerofcode.withgoogle.com/projects/#6628501043544064){:target="_blank" rel="nofollow,noreferrer"}
 
 - La idea principal detrás del proyecto es crear un servicio de distribución de Jenkins personalizable que se pueda utilizar para crear distribuciones de Jenkins a medida.
@@ -113,17 +80,6 @@ Moki Daniel: ["Entrega continua, implementaciones continuas con Spinnaker"](http
 
 - Esta idea de proyecto tendrá como objetivo garantizar la entrega continua y las implementaciones continuas, presentando lanzamientos automatizados, implementando implementaciones en múltiples proveedores de la nube y dominando las mejores prácticas de implementaciones integradas de Spinnaker.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## **Proyectos de Screwdriver**
 
 ¿Qué es [Screwdriver](https://ciberninjas.com/screwdriver-plataforma-escalable-entrega-continua/){:target="_blank" rel="nofollow,noreferrer"}?
@@ -135,17 +91,6 @@ Supratik Das: [Mejora la integración SCM](https://summerofcode.withgoogle.com/p
 
 🔥 Seguro también te interesa: [15 Mejores alternativas a Jenkins en 2020](https://ciberninjas.com/jenkins-alternativas/) >> [▷ ¿Qué es Tekton? Novedades y Cambios](https://ciberninjas.com/que-es-tekton/) >> [▷ Introducción a Zuul para mejorar el CI / CD](https://ciberninjas.com/introduccion-zuul-open-source/)
 {: .notice--danger}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ![La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.](/assets/images/blog/google-summer-code-2.webp "La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.")
 

@@ -25,17 +25,6 @@ Esta página está destinada a recopilar los mejores artículos sobre aprender a
 
 Igualmente, vas a poder encontrar enlaces sobre los mejores sistemas de integración continua y sistemas de despliegue continuo.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [Artículos](/github-git-recursos/#artículos){: .btn .btn--inverse .btn--large} [Chuletas](/github-git-recursos/#chuletas){: .btn .btn--inverse .btn--large} [Github](/github-git-recursos/#github){: .btn .btn--inverse .btn--large} [Git](/github-git-recursos/#git){: .btn .btn--inverse .btn--large} [Sistemas de Integración Continua](/github-git-recursos/#sistemas-de-integración-continua){: .btn .btn--inverse .btn--large}
 
 [🛠 Visita Nuestros Recursos](https://kutt.it/recursos-flujos-trabajo){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
@@ -69,17 +58,6 @@ Igualmente, vas a poder encontrar enlaces sobre los mejores sistemas de integrac
 * [Personalizar tu flujo de trabajo en Github](https://help.github.com/es/github/customizing-your-github-workflow){:target="_blank" rel="nofollow,noreferrer"}
 * [Cómo utilizar .gitignore](https://desarrolloweb.com/articulos/archivo-gitignore.html){:target="_blank" rel="nofollow,noreferrer"}
 * [Cómo agregar un sponsor a tu repositorio](https://help.github.com/es/github/administering-a-repository/displaying-a-sponsor-button-in-your-repository){:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## Git
 

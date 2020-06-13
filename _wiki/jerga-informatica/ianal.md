@@ -21,17 +21,6 @@ t-IANAL es una expresión en jerga informática que significa: No soy un abogado
 
 La expresión puede ser utilizada por personas que no sean abogados que busquen evitar acusaciones de práctica legal no autorizada y no hagan ninguna recomendación al destinatario particular de sus comentarios.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Existe una abreviatura relacionada, TINLA, que significa "Esto no es asesoramiento legal". Una y otra a menudo preceden opiniones sobre la ley. El uso de estas expresiones sirve como una advertencia para que el lector no tome la opinión como asesoramiento legal profesional.
 
 Muchas jurisdicciones tienen restricciones legales para ofrecer consejos legales, o ejercer como abogado sin calificaciones legales y registro oficial. La prestación de asesoramiento legal por parte de una persona que no tiene licencia para hacerlo puede ser la base de una práctica legal no autorizada.
@@ -42,17 +31,6 @@ Muchas jurisdicciones tienen restricciones legales para ofrecer consejos legales
 El término parece estar inspirado en un comercial de la década de 1980 para el jarabe para la tos Vicks Formula 44, en el que dos portavoces lanzaron sucesivamente el medicamento de venta libre con la frase: "No soy médico, pero juego a serlo en la televisión". Los autores fueron los actores de telenovelas Chris Robinson (quien interpretó al Dr. Rick Webber en el Hospital General) y Peter Bergman (quien interpretó al Dr. Cliff Warner en All My Children). La transferencia de médico a abogado es un ejemplo de una plantilla de cliché. 
 
 Se informa que el término IANAL era común en Usenet a fines de los años ochenta y principios de los noventa.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Otra variante de IANAL es IANYL ("No soy tu abogado"). El término puede ser utilizado por un abogado que publique comentarios en un tablero de mensajes para indicar que el comentarista es, de hecho, un abogado, pero para enfatizar que el comentarista no representa al lector y para indicar que los comentarios no están protegidos por un abogado; y que el comentarista niega cualquier negligencia u otra responsabilidad extracontractual si la sugerencia se sigue con resultados indeseables.
 

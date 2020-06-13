@@ -31,17 +31,6 @@ El artículo contiene el mejor contenido ***tutorial\*** que he encontrado hasta
 
 Por ***tutorial\*** , me refiero al contenido introductorio que pretende enseñar un concepto sucintamente. He evitado incluir capítulos de libros, que tienen una mayor cobertura, y trabajos de investigación, que generalmente no hacen un buen trabajo en la enseñanza de conceptos. ¿Por qué no solo comprar un libro? Los tutoriales son útiles cuando intentas aprender un tema de nicho específico o quieres obtener diferentes perspectivas.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 He dividido esta publicación en cuatro secciones: **Aprendizaje automático**, **PNL**, **Python** y **Matemáticas**. Incluí una muestra de temas dentro de cada sección, pero dada la inmensidad del material, no puedo incluir todos los temas posibles.
 
 Si hay ***buenos\*** tutoriales que sabe que me estoy perdiendo, ¡hágamelo saber! Estoy tratando de limitar cada tema a cinco o seis tutoriales ya que mucho más allá sería repetitivo. Cada enlace debe tener material diferente de los otros enlaces o presentar información de manera diferente (por ejemplo, código versus diapositivas versus formato largo) o desde una perspectiva diferente.
@@ -63,17 +52,6 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [Una introducción a la teoría del aprendizaje automático y sus aplicaciones: un tutorial visual con ejemplos](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer) (toptal.com)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [Una guía suave para el aprendizaje automático](https://monkeylearn.com/blog/a-gentle-guide-to-machine-learning/) (monkeylearn.com)
 
 [¿Qué algoritmo de aprendizaje automático debo usar? ](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)(sas.com)
@@ -91,17 +69,6 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 [¿Cuál es el papel de la función de activación en una red neuronal?](https://www.quora.com/What-is-the-role-of-the-activation-function-in-a-neural-network)(quora.com)
 
 [Lista completa de funciones de activación en redes neuronales con pros / contras](https://stats.stackexchange.com/questions/115258/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons) (stats.stackexchange.com)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [Funciones de activación y sus tipos: ¿cuál es mejor?](https://medium.com/towards-data-science/activation-functions-and-its-types-which-is-better-a9a5310cc8f)(medium.com)
 
@@ -147,17 +114,6 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 
 [Regresión lineal](http://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html) (readthedocs.io)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [Regresión logística](http://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) (readthedocs.io)
 
 [Tutorial simple de regresión lineal para Machine Learning](http://machinelearningmastery.com/simple-linear-regression-tutorial-for-machine-learning/) (machinelearningmastery.com)
@@ -175,17 +131,6 @@ Curso intensivo de aprendizaje automático: [Parte I](https://ml.berkeley.edu/bl
 [Descenso de gradiente](http://iamtrask.github.io/2015/07/27/python-network-part2/) (iamtrask.github.io)
 
 [Cómo entender el algoritmo de descenso de gradiente](http://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html) (kdnuggets.com)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [Una visión general de los algoritmos de optimización de descenso de gradiente](http://sebastianruder.com/optimizing-gradient-descent/) (sebastianruder.com)
 

@@ -17,17 +17,6 @@ La Fundación cíborg es una organización sin fines de lucro creada en 2010 por
 
 La Fundación Cíborg se alojó por primera vez en el Parque Científico Tecnocampus (Barcelona) y actualmente tiene su sede en la ciudad de Nueva York . Colabora con varias instituciones, universidades y centros de investigación de todo el mundo.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Su misión es ayudar a los humanos a convertirse en cíborgs, promover el uso de la cibernética como parte del cuerpo humano y defender los derechos de los cíborg. Han donado [antenas cíborg](/wiki/antena-ciborg) a comunidades ciegas y ha enseñado el color a los niños ciegos para ayudarlos a desarrollar el sentido del color. La fundación cree que algunas extensiones cibernéticas deben tratarse como partes del cuerpo, no como dispositivos.
 
 ## Historia
@@ -37,17 +26,6 @@ La fundación fue creada como respuesta al creciente número de cartas y correos
 Desde su creación, la fundación ha puesto en marcha varios proyectos de desarrollo de nuevo sentido y ha donado [antenas cíborg](/wiki/antena-ciborg) a comunidades ciegas en Europa, Asia y América.
 
 La primera persona ciega en probar un eyeborg fue Sabriye Tenberken, seguida por estudiantes ciegos de Braille Sin Fronteras en el Tíbet y miembros de la Sociedad de Ciegos de Pichincha en Ecuador.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 En 2010, la fundación fue la ganadora general de los Premios Cre @ tic, organizados por Tecnocampus Mataró.
 

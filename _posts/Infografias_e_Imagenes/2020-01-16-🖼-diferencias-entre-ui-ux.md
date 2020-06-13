@@ -34,15 +34,4 @@ En cambio, los UX o encargados de la Experiencia del Usuario se dedican a realiz
 
 <center><a href="https://ibb.co/pWsLcBZ" class="btn btn--success btn--large" title="Nube de palabras representativa de las diferentes entre UX y UI | Visto en Ciberninjas">🕵️‍♀️ TAMAÑO COMPLETO 🔍</a></center>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Descubre las diferencias más representativas entre dos de los puestos más confudidos dentro de los papeles de los que pueden encargar los diseñadores web; como son, los User Interface y User Experience.

@@ -41,17 +41,6 @@ categories:
 
 Esta es una colección de los 45 mejores juegos gratis para el año 2020. Además, vas a poder encontrar todos los enlaces a las mejores páginas web  de videojuegos gratuitos de Internet, desde las que encontrar los mejores videojuegos totalmente gratis.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Además de otras páginas web, que eventualmente van publicando juegos gratis de forma constante.
 
 ### **Los mejores 45 videojuegos gratuitos**
@@ -64,17 +53,6 @@ Battle Royale es el juego más importante en estos momentos, y Epic Games lo ha 
 
 Fortnite Battle Royale se basa completamente en un espacio abierto: te dejan caer en un mapa con otros 99 jugadores en un combate cuerpo a cuerpo, y el último que logra quedar en pie al finalizar el tiempo; gana. Debido a su éxito meteórico, Epic Games está trabajando duro para integrar constantemente nuevos modos de juego y nuevas funciones.Como el modo Zona de Juegos, por ejemplo: que te deja en el mapa y te permite construir estructuras durante un tiempo determinado antes de que se abran la veda y comience la carnicería entre los jugadores.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Lo que es absolutamente genial es que con Fortnite, puedes jugar con tus amigos, independientemente de la plataforma en la que te encuentres; ya sea que estés en PC, Xbox One, iOS, Android o PS4, podrás enfrentarte a millones de otros jugadores de todas las demás plataformas.
 
 [🎮 GRATIS 🎮](https://www.epicgames.com/fortnite/es-ES/download){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
@@ -84,17 +62,6 @@ Lo que es absolutamente genial es que con Fortnite, puedes jugar con tus amigos,
 El universo Dota puede haber evolucionado a partir de un mod de WarCraft 3, pero Dota 2 posee en gran medida su propia entidad y se ha convertido, por merecimiento propio, en uno de los mejores juegos gratuitos de 2020.
 
 Este videojuego de arenas, ha atraído a fondos multimillonarios para la creación de torneos profesionales muy serios; y sin embargo, Dota sigue teniendo lugar para los jugadores más hardcore y experimentados, como para los más aprendices y más inexpertos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Un breve tutorial te muestra cómo jugar, al igual que la Comunidad Steam que ofrece te guías para el MOBA original. No esperes una cálida bienvenida o una curva de aprendizaje fácil gracias a su compleja mecánica de juego. Sin embargo, puedes juntarte con tus amigos y Dota 2 te tendrá enganchado a una de las mayores locuras en la historia de las PC durante mucho tiempo.
 

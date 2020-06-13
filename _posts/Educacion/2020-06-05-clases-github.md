@@ -30,17 +30,6 @@ Github crea con Github Classroom una herramienta perfecta para facilitar las cla
 
 Con las aulas de Github, se ofrece la oportunidad de que los tutores puedan enfocarse más en la enseñanza y tengan que dedicar menos tiempo en la creación de una herramienta con la que enseñar.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 A partir de ahora organizar y administrar las clases será más fácil a través de GitHub Classroom, cada profesor podrá administrar y rastrear todas las tareas de cada alumno mediante un tablero único, también podrá calificar el trabajo casi automáticamente y ayudar a los estudiantes cuando no encuentren la fórmula con la que progresar con sus tareas.
 
 A su vez, los alumnos usarán la herramienta de Github, una de las aplicaciones más usadas por los desarrolladores de la industria de la programación; aportándoles de forma práctica, una enseñanza añadida e incluso ayudándoles a comenzar a crear sus propios repositorios de código abierto con un enfoque de futuro.
@@ -50,17 +39,6 @@ A su vez, los alumnos usarán la herramienta de Github, una de las aplicaciones 
 - **Ofrecer valiosos comentarios**: El profesor será capaz de solicitar cambios, dejar comentarios grupales o incluir comentarios personalizados dentro de cada línea de código.
 - **Evaluar tareas automáticamente**: Podrás ahorrar tiempo usando pruebas automatizadas que califiquen las tareas. Las pruebas se ejecutan con cada subida, lo que permite a los estudiantes ver los resultados de inmediato e ir haciendo los cambios necesarios.
 - **Obtener información completa de los trabajos**: A través del control de versiones, vas a poder ayudar a tus alumnos. Detectando el punto exacto más indicado al que hacerles regresar y dentro de las tareas grupales, vas a poder comprobar la contribución individual de cada estudiante.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### **Agiliza el flujo de trabajo de las tareas**
 
@@ -79,17 +57,6 @@ Solamente debes conectarte con tu cuenta de Github o entrar desde el apartado de
 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados
@@ -97,16 +64,5 @@ Solamente debes conectarte con tu cuenta de Github o entrar desde el apartado de
 [Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/)
 
 [Artículos de Git y Github](https://ciberninjas.com/github-git-recursos/)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

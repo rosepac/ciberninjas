@@ -18,17 +18,6 @@ toc_sticky: true
 
 Algunos lenguajes de programación proporcionan un tipo de datos complejo para el almacenamiento de números complejos y la aritmética como un tipo de datos incorporado (primitivo).
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 En algunos entornos de programación, el término tipo de datos complejo (en contraste con los tipos de datos primitivos ) es sinónimo del tipo de datos compuesto.
 
 ## Aritmética de Números Complejos

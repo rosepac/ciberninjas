@@ -86,17 +86,6 @@ toc_sticky: true
 
 All courses are in English \! [😺](https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f63a.png) Estos son los cursos con cupones gratuitos que me han parecido m&aacute;s interesantes y existen en la actualidad dentro de la plataforma Online de Udemy.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Los contenidos en los que est&aacute;n organizados se reparten en: las criptomonedas, el dise&ntilde;o gr&aacute;fico, la programaci&oacute;n y el dise&ntilde;o web, ofim&aacute;tica, productividad, marketing y SEO, las redes y la rob&oacute;tica
@@ -112,17 +101,6 @@ El listado final se forma de 175 cursos en ingl&eacute;s. Seleccionados principa
 * [Introducci&oacute;n a Cardano](https://www.udemy.com/introduction-to-cardano/?couponCode=BBH2018APRIL)
 * [Lanzar tokens y crowdsales de Ethereum sin codificaci&oacute;n](https://www.udemy.com/launch-ethereum-tokens-crowdsales-smart-contracts-without-coding/?couponCode=SPECIALFREE)
 * [Programaci&oacute;n en Solidity: Construir una aplicaci&oacute;n Blockchain descentralizada](https://www.udemy.com/solidity-programming-build-a-decentralised-blockchain-app/?couponCode=Codemad)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -178,17 +156,6 @@ El listado final se forma de 175 cursos en ingl&eacute;s. Seleccionados principa
 * [Teor&iacute;a del dise&ntilde;o Blitz: Comprender r&aacute;pidamente GRAN Dise&ntilde;o](https://www.udemy.com/graphic-design-theory-blitz/?couponCode=BP2BUNDLEFREE)
 * [Tipograf&iacute;as en After Effects: Curso de Motion Graphics](https://www.udemy.com/kinetic-typography-crash-course/?couponCode=FREEFORFRIENDS2018)
 * [Word Swag: Crear impresionantes im&aacute;genes con la aplicaci&oacute;n Word Swag](https://www.udemy.com/word-swag/?couponCode=FREECOUPONS)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -274,17 +241,6 @@ El listado final se forma de 175 cursos en ingl&eacute;s. Seleccionados principa
 * [WordPressPlugins: Construir tu propio plugin](https://www.udemy.com/wp-plugin-development-build-your-own-plugin/?couponCode=ONCEALIFETIME)
 * [Zend Framework Versi&oacute;n 4.0: Pruebas pr&aacute;cticas](https://www.udemy.com/zend-framework-certification-version-40-practice-test/?couponCode=ZFVCPT)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Ofim&aacute;tica
@@ -310,17 +266,6 @@ El listado final se forma de 175 cursos en ingl&eacute;s. Seleccionados principa
 * [C&oacute;mo los Hackers crean Malware e Infectan las m&aacute;quinas de sus v&iacute;ctimas](https://www.udemy.com/how-hackers-create-malware-and-infiltrate-victim-machines/?couponCode=FREEBIES)
 * [C&oacute;mo los Hackers crean Malware y Virus Indetectables](https://www.udemy.com/undetectable-malware/?couponCode=FREEBIES)
 * [C&oacute;mo los Hackers se Infiltran en las Computadoras usando Troyanos](https://www.udemy.com/hacking-tools/?couponCode=FREEBIES)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -349,17 +294,6 @@ El listado final se forma de 175 cursos en ingl&eacute;s. Seleccionados principa
 * [Grabaci&oacute;n de Voz: Aprende a grabar tu voz como un profesional](https://www.udemy.com/voicerecord/?couponCode=VOFREE)
 * [Liderazgo Transformacional: Curso de liderazgo definitivo](https://www.udemy.com/transformational-leadership-training-course/?couponCode=ONCEALIFETIME)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Webmaster & SEO & Redes Sociales
@@ -373,17 +307,6 @@ El listado final se forma de 175 cursos en ingl&eacute;s. Seleccionados principa
 * [Yoast SEO: Escribir art&iacute;culos optimizados para SEO en 10 minutos](https://www.udemy.com/write-seo-optimized-articles-that-rank1st-in-search-engine/?couponCode=UDEMYLAUNCH)
 
 ---
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -399,16 +322,5 @@ Si necesitas m&aacute;s Info. siempre puedes unirte a la conversaci&oacute;n den
 {: .notice--info}
 
 La entrada [Cursos de Udemy con Cup&oacute;n Gratuito 2019 (en Ingl&eacute;s)(parte 2)](https://ciberninjas.com/cursos-de-udemy-con-cupon-gratuito-2019-en-ingles-2/) se public&oacute; primero en [Ciberninjas](https://ciberninjas.com).
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

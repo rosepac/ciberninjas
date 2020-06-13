@@ -37,17 +37,6 @@ A continuación, tienes los enlaces directos a libros y cursos sobre Python; tan
 
 [Artículos Python](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large} [Chuletas de Python](https://ciberninjas.com/python-recursos/#chuletas--de-consulta){: .btn .btn--inverse .btn--large} [Probar Código](/python-recursos/#probar-código){: .btn .btn--inverse .btn--large} [Artículos Python?](/python-recursos/#artículos-de-python){: .btn .btn--inverse .btn--large}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Artículos de Python
@@ -69,17 +58,6 @@ A continuación, tienes los enlaces directos a libros y cursos sobre Python; tan
 * [Cómo leer archivos PDF con Python](http://theautomatic.net/2020/01/21/how-to-read-pdf-files-with-python/){:target="_blank" rel="nofollow,noreferrer"}
 * [Cree tu primera aplicación web Flask con Python](https://medium.com/bhavaniravi/build-your-1st-python-web-app-with-flask-b039d11f101c){:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Listados de Artículos en Blogs
@@ -99,17 +77,6 @@ A continuación, tienes los enlaces directos a libros y cursos sobre Python; tan
 
 * [Scraping web práctico: construcción de su conjunto de datos de Twitter con Python y Scrapy](https://towardsdatascience.com/hands-on-web-scraping-building-your-own-twitter-dataset-with-python-and-scrapy-8823fb7d0598){:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Videotutoriales Youtube
@@ -123,17 +90,6 @@ A continuación, tienes los enlaces directos a libros y cursos sobre Python; tan
 ## Cheatsheets
 <!-- https://www.rankred.com/python-cheat-sheet/ -->
 Una hoja de trucos puede ser realmente útil cuando intentas un conjunto de ejercicios relacionados con un tema específico o cuando trabajas en un proyecto. Como solo puede incluir tanta información en una sola hoja de papel, la mayoría de las hojas de trucos son una simple lista de reglas de sintaxis. Este conjunto de hojas de trucos tiene como objetivo recordarle las reglas de sintaxis, pero también recordarle conceptos importantes.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Puede descargar cualquier hoja de trucos individual, o descargar todas las hojas de trucos en [un documento](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf){:target="_blank" rel="nofollow,noreferrer"}.
 
@@ -162,17 +118,6 @@ Puede descargar cualquier hoja de trucos individual, o descargar todas las hojas
 * [Hoja de trucos de Python para principiantes - Django](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_django.pdf){:target="_blank" rel="nofollow,noreferrer"}
 	* Se enfoca en crear aplicaciones web con Django. Instalar Django e iniciar un proyecto, trabajar con modelos, crear una página de inicio, usar plantillas, usar datos y crear cuentas de usuario.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 * [Mejor Chuleta de Python](https://gto76.github.io/python-cheatsheet/){:target="_blank" rel="nofollow,noreferrer"} \ [Versión Móvil](https://github.com/gto76/python-cheatsheet/blob/master/README.md){:target="_blank" rel="nofollow,noreferrer"}
 
 Esta es una chuleta que ya ha sido descargada por más de 23.000 programadores para aprender estos populares trucos de Python; se incluyen.. Las palabras clave, los tipos de datos básicos, los [tipos de datos complejos](/wiki/tipos-de-datos-complejos), clases, funciones y trucos, 14 preguntas comunes, librería NumPy y los términos de orientación a objetos.
@@ -194,17 +139,6 @@ Esta es una chuleta que ya ha sido descargada por más de 23.000 programadores p
 * [Libros](https://nbviewer.jupyter.org/){:target="_blank" rel="nofollow,noreferrer"}
 * [Libros en inglés](https://www.topfreebooks.org/best-free-python-tutorials-ebooks-pdf-to-learn-programming-online/){:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## Wiki Python
 
 <!-- wiki python en español: https://wiki.python.org/moin/SpanishLanguage) -->
@@ -225,16 +159,5 @@ Canales de Youtube https://blog.feedspot.com/python_youtube_channels/
 
 La **Guía de Recursos de Python** fue creada el *08 de Noviembre de 2019* y su última edición fue realizada el *20 de Mayo de 2020*.
 {: .notice--info}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

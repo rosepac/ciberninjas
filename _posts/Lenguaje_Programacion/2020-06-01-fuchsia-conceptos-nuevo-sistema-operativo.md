@@ -42,17 +42,6 @@ Primero se dio a conocer al público cuando el proyecto apareció en un reposito
 
 La documentación de la fuente oficial de Fuchsia describe las razones de su nombre, "rosa más púrpura == fuchsia: Un nuevo sistema operativo" referenciando mediante los colores a otros sistemas operativos.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 El Rosa de Apple, por ser el primer microkernel orientado a objetos y el púrpura, nombre del código original del iPhone; en diferencia de los sistemas operativos anteriores de Google como Android y Chrome OS (basados en el kernel de Linux) el nuevo sistema operativo Fuchsia, se basa en un nuevo microkernel llamado Zircon, denominado así por el mineral de mismo nombre.
 
 Fuchsia se enfoca en poder ser funcional dentro de varios dispositivos y plataformas diferentes, desde ordenadores de sobremesa hasta teléfonos inteligentes.
@@ -65,17 +54,6 @@ El 1 de julio de 2019, Google anunció la página de inicio del proyecto, fuchsi
 
 **Nota:** La fuente Fuchsia incluye [Zircon](https://fuchsia.googlesource.com/fuchsia/+/master/zircon/README.md){:target="_blank" rel="nofollow,noreferrer"}, la plataforma central que sustenta a Fuchsia. Para trabajar en Zircon, consulte [Introducción a Zircon](https://fuchsia.dev/docs/development/kernel/getting_started){:target="_blank" rel="nofollow,noreferrer"}.
 {: .notice--info}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -101,17 +79,6 @@ fx set core.x64
 El comando `fx set` toma un argumento `PRODUCT.BOARD`, que define la configuración del [producto y la placa](https://fuchsia.dev/docs/concepts/build_system/boards_and_products){:target="_blank" rel="nofollow,noreferrer"} de su compilación. Esta configuración informa al sistema de compilación qué paquetes construir para su dispositivo Fuchsia. `core` es un producto con un conjunto mínimo de características, que incluye capacidades comunes de red. `x64` se refiere a la arquitectura x64.
 
 Consulte como [configurar una compilación](https://fuchsia.dev/docs/development/build/fx#configure-a-build){:target="_blank" rel="nofollow,noreferrer"} para obtener más opciones.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -162,17 +129,6 @@ Consulte como [ejecutar una compilación](https://fuchsia.dev/docs/development/b
 
 [🔖 Ir al Índice](/sistema-operativo-fuchsia-conceptos/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Configurar un dispositivo Fuchsia**
@@ -188,17 +144,6 @@ Para que Fuchsia se ejecute en hardware, consulte como [Instalar Fuchsia en un d
 Si no tiene hardware compatible, puedes ejecutar Fuchsia sobre un emulador usando [FEMU](https://fuchsia.dev/docs/development/run/femu){:target="_blank" rel="nofollow,noreferrer"}.
 
 [🔖 Ir al Índice](/sistema-operativo-fuchsia-conceptos/#índice-){: .btn .btn--inverse .btn--large .align-center}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -278,17 +223,6 @@ Consulte [Servir una compilación](https://fuchsia.dev/docs/development/build/fx
 
 [🔖 Ir al Índice](/sistema-operativo-fuchsia-conceptos/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Explorar Fuchsia**
@@ -325,17 +259,6 @@ Los siguientes métodos abreviados de teclado lo ayudan a navegar por el termina
 
 [🔖 Ir al Índice](/sistema-operativo-fuchsia-conceptos/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Ejecutar pruebas**
@@ -363,17 +286,6 @@ Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.or
 
 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### Índice <!-- omit in toc -->
 - [**Qué es Fuchsia**](#qué-es-fuchsia)

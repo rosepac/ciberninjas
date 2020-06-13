@@ -41,17 +41,6 @@ En esta publicación he reunido todos lo necesario para que encuentres la inspir
 6. Podcasts
 7. Comunidades
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cómo aprender?**
@@ -61,17 +50,6 @@ Existen diferentes recursos didácticos desde los que comenzar a profundizar den
 Debemos buscar cada recurso didáctico anterior en su lugar adecuado respecto a la temática que deseemos aprender en cuestión indicada. Para ello, primero debemos de conocer exactamente lo que deseamos aprender; esto parece una tontería. Más, es bastante importante, puesto que según tu nivel inicial tendrás que enfocarte en encontrar los recursos más indicados.
 
 Si partes desde cero, casi con cualquier recursos te servirá; puesto que la mayoría de contenidos empiezan desde cero hasta niveles medios. Aunque, igualmente deberías de investigar los medios explicativos más pausados, según tu capacidad de aprendizaje. Existen personas capaces de admitir conocimientos más velozmente que otras personas que son más lentas en ese aprendizaje.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 <br>
 Si tu nivel es medio u avanzado y lo que deseas es profundizar muy a fondo dentro de una temática; has de tener en cuenta de que será muy importante analizar los recursos didácticos antes de iniciar con ellos, además, de qué; es más que probable, que el mejor recurso que vayas a poder encontrar sea bien la documentación oficial de lo que intentas aprender o bien, un libro técnico avanzado; que posiblemente, esté en ingles y además sea bastante caro.
 
@@ -84,17 +62,6 @@ A continuación vamos a conocer un sinfin de los mejores y más impresionantes s
 Los enlaces se encuentran seccionados por diferentes tipos de documentos y formación, en: los mejores cursos, los mejores vídeos, los mejores documentales, los mejores podcasts, los mejores libros y los mejores comunidades y grupos de Reddit, StackOverFlow y más.
 
 A continuación, comenzaremos con las mejores páginas en las que poder encontrar los mejores cursos gratuitos del mundo.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## **Las mejores páginas de cursos del mundo**
 
@@ -125,17 +92,6 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## **Las mejores páginas web de vídeos para aprender**
 
 - [**TED**](https://www.ted.com/){:target="_blank" rel="nofollow,noreferrer"}: Probablemente ya esté familiarizado con las conversaciones TED, pero en caso de que no lo esté, puede ver una gran cantidad de charlas de expertos en cualquier campo que se le ocurra. El lema de TED es "ideas que vale la pena difundir".
@@ -146,17 +102,6 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - [***Wired\***](https://www.wired.com/video){:target="_blank" rel="nofollow,noreferrer"}: Otra publicación más conocida por sus artículos,*Wired*produce algunos videos divertidos e interesantes también.
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### **Youtube: El mayor canal de vídeos del mundo**
 
@@ -180,17 +125,6 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## **Documentales**
 
 - **Transmita documentales en línea:** consulte [Documental Addict](https://documentaryaddict.com/){:target="_blank" rel="nofollow,noreferrer"} , [Top Documentary Films](https://topdocumentaryfilms.com/){:target="_blank" rel="nofollow,noreferrer"} o [Documentary Storm](https://www.documentarystorm.com/){:target="_blank" rel="nofollow,noreferrer"}. Juntos, ofrecen una gran variedad de opciones.
@@ -209,17 +143,6 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - [**Hablando racionalmente**](http://rationallyspeakingpodcast.org/archive/){:target="_blank" rel="nofollow,noreferrer"}: Julia Galef explora las fronteras entre la razón y el sinsentido, probable e improbable, y la ciencia y la pseudociencia.
 - **Y mucho más:** el mundo de los podcasts ha explotado en los últimos años. Los pocos que he enumerado aquí son los que elegí porque los conozco y representan una variedad de temas. Seguramente encontrará algo que le interese con una búsqueda rápida, o puede consultar otras listas, por ejemplo, [aquí](https://www.wired.co.uk/article/best-podcasts){:target="_blank" rel="nofollow,noreferrer"} , [aquí](https://www.theatlantic.com/entertainment/archive/2019/12/50-best-podcasts-2019/604165/){:target="_blank" rel="nofollow,noreferrer"} y [aquí](https://medium.com/the-mission/the-25-best-history-podcasts-you-need-to-listen-to-ccf98527bdda){:target="_blank" rel="nofollow,noreferrer"}.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Libros**
@@ -234,17 +157,6 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## **Comunidades de Reddit**
 
 - [**Conferencias**](https://www.reddit.com/r/lectures/){:target="_blank" rel="nofollow,noreferrer"}: Las conferencias pueden ser aburridas, pero cuando consigues un buen maestro, todo eso puede cambiar. Esta comunidad de Reddit está en busca de grandes.
@@ -255,17 +167,6 @@ Además, Coursera **debido al Covid-19 está** [**ofreciendo 85 cursos gratis**]
 - [**Gifs educativos**](https://www.reddit.com/r/educationalgifs/){:target="_blank" rel="nofollow,noreferrer"}: gifs animados cortos diseñados para enseñarte algo.
 - [**ELi5 (Explique como si tuviera cinco años)**](https://www.reddit.com/r/explainlikeimfive/){:target="_blank" rel="nofollow,noreferrer"}: esta comunidad de Reddit intenta explicar diferentes temas en inglés simple.
 - [**Hoy aprendí**](https://www.reddit.com/r/todayilearned/){:target="_blank" rel="nofollow,noreferrer"}: deje que otros Redditors compartan sus ideas y sorpresas diarias con usted.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -278,17 +179,6 @@ Si todavía no está seguro por dónde comenzar, aquí hay un resumen de cursos 
 - **Codificación:** [Codeacademy](https://www.codecademy.com/){:target="_blank" rel="nofollow,noreferrer"} tiene una plataforma increíble con una opción gratuita o un plan profesional por $ 16 al mes; en Coursera, está la [Especialización de aprendizaje profundo](https://www.coursera.org/specializations/deep-learning){:target="_blank" rel="nofollow,noreferrer"} , que consta de cuatro cursos y es impartida por el cofundador de Coursera, Andrew Ng.
 - **Matemáticas:** Puedes encontrar prácticamente todo lo que quieras en [Khan Academy](https://www.khanacademy.org/math){:target="_blank" rel="nofollow,noreferrer"}. También puedes probar [Fat Chance: Probability from the Ground Up](https://www.edx.org/course/fat-chance-probability-from-the-ground-up-2){:target="_blank" rel="nofollow,noreferrer"} desde edX; o [Una introducción a las matemáticas recreativas: diversión, juegos y rompecabezas](https://www.futurelearn.com/courses/recreational-math){:target="_blank" rel="nofollow,noreferrer"}.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Habilidades Creativas
@@ -298,17 +188,6 @@ Si todavía no está seguro por dónde comenzar, aquí hay un resumen de cursos 
 - **Artes:** [Técnicas de productividad de Photoshop](https://www.skillshare.com/classes/Photoshop-CC-2020-Productivity-Techniques/144789829?via=browse-trending-all-layout-grid){:target="_blank" rel="nofollow,noreferrer"} ; [Fundamentos del diseño gráfico](https://www.coursera.org/learn/fundamentals-of-graphic-design?specialization=graphic-design){:target="_blank" rel="nofollow,noreferrer"} ; [Dibujo Naturaleza, Ciencia y Cultura](https://www.edx.org/course/drawing-nature-science-and-culture-natural-history){:target="_blank" rel="nofollow,noreferrer"}.
 - **Cocina:** [Pasta Grannies](https://www.youtube.com/user/pastagrannies/featured): aprende a hacer pasta con abuelas italianas. [Binging with Babish](https://www.youtube.com/user/bgfilms/featured){:target="_blank" rel="nofollow,noreferrer"}: recrea los alimentos que siempre quisiste probar en películas y televisión.
 - **Negocios:** cualquier cosa de [Hubspot](https://academy.hubspot.com/courses?page=1){:target="_blank" rel="nofollow,noreferrer"}.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 

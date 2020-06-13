@@ -50,17 +50,6 @@ Edward Snowden, el hombre que arriesg&oacute; todo para exponer el sistema de vi
 En 2013, Edward Snowden, de veintinueve a&ntilde;os, conmocion&oacute; al mundo cuando rompi&oacute; con el establecimiento de inteligencia estadounidense y revel&oacute; que el gobierno de los Estados Unidos estaba buscando secretamente los medios para recoger cada llamada telef&oacute;nica, mensaje de texto y correo electr&oacute;nico. El resultado ser&iacute;a un sistema de vigilancia masiva sin precedentes con la capacidad de entrometerse en la vida privada de cada persona en la tierra. Seis a&ntilde;os m&aacute;s tarde, Snowden revela por primera vez c&oacute;mo ayud&oacute; a construir este sistema y por qu&eacute; se movi&oacute; para exponerlo.
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 Abarcando los suburbios buc&oacute;licos de Beltway de su infancia y las publicaciones clandestinas de la CIA y la NSA de su edad adulta, Registro Permanentees el relato extraordinario de un joven brillante que creci&oacute; en l&iacute;nea: un hombre que se convirti&oacute; en esp&iacute;a, en denunciante y, en el exilio, en la conciencia de Internet. Escrito con ingenio, gracia, pasi&oacute;n y una franqueza inquebrantable, el Registro permanente es una memoria crucial de nuestra era digital y est&aacute; destinado a ser un cl&aacute;sico.
@@ -76,17 +65,6 @@ Edward Joseph "Ed" Snowden es un profesional inform&aacute;tico estadounidense q
 * Siete cosas que aprendimos del nuevo libro de Edward Snowden. [Wired](https://www.wired.co.uk/article/edward-snowden-book-permanent-record-review)
 * Las memorias de Edward Snowden, Vigilancia Permanente, saldr&aacute;n el pr&oacute;ximo mes [TheVerge](https://www.theverge.com/2019/8/1/20750383/edward-snowden-memoir-permanent-record-nsa-whistleblower)
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -113,16 +91,5 @@ Edward Joseph "Ed" Snowden es un profesional inform&aacute;tico estadounidense q
 
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=13&amp;l=ur1&amp;category=kindlestore&amp;banner=0P95N768FCV2P0732CG2&amp;f=ifr&amp;linkID=75656190f347ab8c55ea09e0b6f57418&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

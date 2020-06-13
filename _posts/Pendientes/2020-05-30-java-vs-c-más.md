@@ -42,17 +42,6 @@ Python es un lenguaje de programación orientado a objetos de alto nivel. Tiene 
 
 Es uno de los lenguajes de programación más rápidos, ya que requiere muy pocas líneas de código. Su énfasis está en la legibilidad y la simplicidad, lo que lo convierte en una excelente opción para principiantes.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Por qué necesitas Java?**
@@ -83,17 +72,6 @@ Aquí, hay beneficios / ventajas de usar Java
 - Soporta programación imperativa y funcional.
 - Python es famoso por su uso en IoT.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Historia de Java**
@@ -113,17 +91,6 @@ Aquí, hay puntos de referencia importantes para el lenguaje Python:
 - Rossum publicó la primera versión de Python (0.9.0) en febrero de 1999
 - Se deriva del lenguaje de programación ABC, que es un lenguaje de programación de propósito general.
 - Hoy en día, Python es mantenido por un equipo de desarrollo central, aunque Rossum todavía juega un papel vital en la dirección de su progreso.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -148,17 +115,6 @@ Aquí, hay características importantes de Python
 - Es compatible con un modo interactivo de prueba y depuración.
 - Ofrece tipos de datos dinámicos de alto nivel y también admite la verificación de tipos dinámicos.
 - El lenguaje Python se puede integrar con el código de programación Java, C y C ++.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -190,17 +146,6 @@ Aquí están las principales diferencias entre Java y Python.
 | Empresas que lo usan                       | Docker, Android SDK, Spring Boot, Senty, etc.                | Django, Flask, Pycharm, CircleCI, etc.                       |
 | Salarios                                   | El salario promedio de un desarrollador de Java es de $ 103,464 por año en los Estados Unidos. | El salario promedio de un desarrollador de Python es de $ 118,626 por año en los Estados Unidos. |
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Desventajas de Java**
@@ -222,17 +167,6 @@ Inconvenientes / inconvenientes de usar el lenguaje Python
 - Science Python es dinámico, aparecen más errores en tiempo de ejecución
 - Capa de acceso a la base de datos primitiva y subdesarrollada
 - Ausencia de apoyo comercial.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -274,17 +208,6 @@ La selección de un idioma entre estos se reduce a la naturaleza y al costo del 
 [Frameworks Java](/10-mejores-frameworks-java/)
 
 [Herramientas Java](/java-herramientas-para-desarrolladores/)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 

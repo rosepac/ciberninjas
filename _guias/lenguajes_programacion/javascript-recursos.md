@@ -26,17 +26,6 @@ Los mejores enlaces sobre Javascript que puedes ir encontrando a lo largo de Int
 [📕 Libros Javascript](https://kutt.it/javascript-libros){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}
  [🎓 Cursos Javascript](https://kutt.it/javascript-cursos){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}  [📕 Libros en Inglés](/biblioteca-de-programacion-y-tecnologia-ingles/#-javascript){: .btn .btn--info .btn--large} [🎓 Cursos en Inglés](/cursos-tecnologia-ingles/#javascript){: .btn .btn--info .btn--large}
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [Artículos Python](/python-recursos/#los-mejores-artículos-de-javascript){: .btn .btn--inverse .btn--large} [Chuletas de Javascript](/#chuletas--de-consulta){: .btn .btn--inverse .btn--large}
@@ -98,17 +87,6 @@ Los mejores artículos de Javascript que puedes encontrar en todo Internet, con 
 | Propiedades internas en JavaScript                           | [Leer](https://yeisondaza.com/propiedades-internas-en-javascript) |      Yeison Daza       | Español | 2016 |
 | Búsqueda Fuzzy sobre un Array Object en Javascript con Underscore | [Leer](https://medium.com/@peraferrer/search-fuzzy-into-array-object-for-javascript-5e08c2c18eb4) |   Germán Peraferrer    | Español | 2015 |
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Chuletas de Consulta
@@ -122,17 +100,6 @@ Los mejores artículos de Javascript que puedes encontrar en todo Internet, con 
 * [Chuleta Interactiva](https://htmlcheatsheet.com/js/){:target="_blank" rel="nofollow,noreferrer"} (Web Interactiva)
 * [API Abierto de Javascript](http://overapi.com/javascript){:target="_blank" rel="nofollow,noreferrer"} (Web Interactiva)
 * [Website Setup](https://websitesetup.org/wp-content/uploads/2018/04/wsu-js-cheat-sheet.pdf) (PDF)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -155,16 +122,5 @@ Mirage JS es una biblioteca de simulación de API que le permite crear, probar y
 Cree gráficos con una apariencia dibujada a mano, incompleta.
 
 * [Saber si algún método sobre arrays en JavaScript muta el array original]: https://doesitmutate.xyz 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

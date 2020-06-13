@@ -27,17 +27,6 @@ Desde hace unos días, en concreto el 23 de Enero se informa de que el IDE Komod
 
 Con el lanzamiento de su última versión: Komodo 12, ya se pueden obtener de forma gratuita, todas las funcionalidades básicas que se requieren para programar con comodidad. Como son las pruebas unitarias, la colaboración e integración con pruebas unitarias de los sistemas de compilación, y además el acceso a la plataforma ActiveState integrada con la que puedes crear automáticamente entornos de tiempo de ejecución simplemente eligiendo los paquetes que deseas, así como la herramienta de estado con la que se puede implementar de forma instantánea y local todo el entorno de ejecución.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Lo único que se requiere es abrir una cuenta en ActiveState para registrar tu copia del Software. Aunque la opción de recibir soporte técnico, sigue siendo una oferta de pago.
 
 Las características que se han actualizado en la nueva Versión 12 se incluye:
@@ -58,17 +47,6 @@ Otro apartado flexible es que no tienes porque usar las diferentes distribucione
 [📖 Documentación de Komodo](http://docs.activestate.com/komodo/12/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [✍ Web Oficial de Komodo](https://www.activestate.com/products/komodo-ide/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- https://www.activestate.com/products/komodo-ide/ -->

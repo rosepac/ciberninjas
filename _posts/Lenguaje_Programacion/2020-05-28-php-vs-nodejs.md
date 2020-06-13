@@ -36,17 +36,6 @@ Node.js es un entorno de tiempo de ejecución Javascript de código abierto del 
 
 Su autor original es Ryan Dahl y fue lanzado inicialmente el 27 de mayo de 2009. Con el nacimiento de Node.js, brinda a los usuarios la posibilidad de crear aplicaciones completamente basadas en Javascript .
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Sintaxis y acceso a la línea de comandos**
@@ -84,17 +73,6 @@ En Javascript, a veces, si es necesario encadenar muchas funciones; los programa
 
 En Node.js, sin embargo, puedes resolverlo gracias a su funcionamiento asíncrono y sus funciones "Async / Await" que te permiten que un bloque de código se ejecute sincrónicamente a pesar de que en bloques anteriores existan posibles errores.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Interruptores de Contexto de PHP y NodeJS**
@@ -111,17 +89,6 @@ PHP utiliza tecnologías de instalación de módulos como PEAR (un sistema de pa
 - Composer es una herramienta para la gestión de dependencias en PHP que permite a los usuarios declarar las bibliotecas de las que depende el proyecto y las administrará (instalará / actualizará) para facilitar esos pasos al usuario.
 
 Node.js viene incluido con un sistema de administración de paquetes llamado NPM (Node Package Manager) y es fácil de usar y publicar a través de comandos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -140,17 +107,6 @@ Node.js funciona perfectamente con bases de datos NoSQL (no solo SQL) como Mongo
 Puntos negativos de PHP respecto a los sistemas de bases de datos. Las bases de datos MySQL son especialmente propensos a ataques por inyecciones SQL, scripting cruzado (XSS) y otros.
 
 Puntos negativos de Node.js respecto a los sistemas de bases de datos. Aunque no son tan comunes, los ataques de inyección NoSQL son una vulnerabilidad documentada; pero en comparación con las inyecciones SQL, son insignificantes. La razón principal de esto es que son software más nuevos y sus diseños de código es tal, que son inherentemente resistentes a tales ataques.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 

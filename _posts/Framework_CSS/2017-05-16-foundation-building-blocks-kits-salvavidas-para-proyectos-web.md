@@ -41,17 +41,6 @@ La biblioteca ha sido creada a partir de 0 con más de cientos de _snippets_ o f
 
 Generando así, plantillas y patrones de todos los elementos más importantes y comunes utilizados dentro de una interfaz de usuario web.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Solo se debe buscar la librería, seleccionar el bloque que se necesite y copiar y pegar el código a tu proyecto.
 
 ## Kit salvavidas para crear una variedad de sitios
@@ -74,17 +63,6 @@ Probado por los diseñadores y desarrolladores a lo largo de todo el mundo y rev
 ## Código que reducirá el tiempo de desarrollo
 
 Los bloques o elementos están construidos específicamente para _Foundation_ por lo que no tendrás que preocuparte por problemas de compatibilidades o dependencias.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9630764103400456"
-     data-ad-slot="3229974124"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Solo se encontrarán componentes reales, útiles, prácticos y que cubren las necesidades de cada diseño web proyectado.
 
