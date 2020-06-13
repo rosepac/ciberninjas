@@ -1,8 +1,8 @@
 ---
 
 title: "Dlinject"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Dlinject"
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Dlinject"
+description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Dlinject"
+excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Dlinject"
 date: 2020-01-15 01:55:07
 published: true
 author_profile: true

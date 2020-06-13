@@ -1,8 +1,8 @@
 ---
 
 title: "LuxCoreRender"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: LuxCoreRender, es un software de renderización 3D."
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: LuxCoreRender, es un software de renderización 3D."
+description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: LuxCoreRender, es un software de renderización 3D."
+excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: LuxCoreRender, es un software de renderización 3D."
 date: 2020-06-12 01:20:59
 last_modified_at:
 toc: true

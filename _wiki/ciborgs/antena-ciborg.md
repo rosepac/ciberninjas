@@ -1,8 +1,8 @@
 ---
 
 title: "Antena Cíborg"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Antena Cíborg"
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Antena Cíborg"
+description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Antena Cíborg"
+excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Antena Cíborg"
 date: 2019-10-04 04:51:07
 published: true
 author_profile: true

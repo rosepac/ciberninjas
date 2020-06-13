@@ -1,8 +1,8 @@
 ---
 
 title: "PyLadies"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: PyLadies, grupo de mujeres consejeras u orientadoras encargadas de ayudar a otras mujeres en la participación activa dentro de la comunidad de código abierto de Python."
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: PyLadies, grupo de mujeres consejeras u orientadoras encargadas de ayudar a otras mujeres en la participación activa dentro de la comunidad de código abierto de Python."
+description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: PyLadies, grupo de mujeres consejeras u orientadoras encargadas de ayudar a otras mujeres en la participación activa dentro de la comunidad de código abierto de Python."
+excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: PyLadies, grupo de mujeres consejeras u orientadoras encargadas de ayudar a otras mujeres en la participación activa dentro de la comunidad de código abierto de Python."
 date: 2019-10-10 19:58:30
 last_modified_at: 2019-10-11 01:40:30
 toc: true

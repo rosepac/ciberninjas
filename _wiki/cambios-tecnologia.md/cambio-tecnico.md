@@ -1,8 +1,8 @@
 ---
 
 title: "Cambio Técnico"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Cambio Técnico"
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Cambio Técnico"
+description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Cambio Técnico"
+excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Cambio Técnico"
 date: 2019-10-04 01:55:07
 published: true
 author_profile: true

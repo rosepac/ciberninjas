@@ -1,8 +1,8 @@
 ---
 
 title: "Windows PE o Entorno de Preinstalación de Windows"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Windows PE o Entorno de Preinstalación de Windows"
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Windows PE o Entorno de Preinstalación de Windows"
+description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Windows PE o Entorno de Preinstalación de Windows"
+excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Windows PE o Entorno de Preinstalación de Windows"
 date: 2019-10-19 16:40:05
 toc: true
 toc_label: "Contenidos"

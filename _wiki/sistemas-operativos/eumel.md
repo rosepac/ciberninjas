@@ -1,8 +1,8 @@
 ---
 
 title: "Eumel, Sistema Operativo"
-description: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Eumel, Sistema Operativo"
-excerpt: "📖 👨‍💻  WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Eumel, Sistema Operativo"
+description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Eumel, Sistema Operativo"
+excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Eumel, Sistema Operativo"
 date: 2019-08-28 09:07:07
 toc: true
 toc_label: "Contenidos"
