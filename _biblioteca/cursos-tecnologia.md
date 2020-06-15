@@ -450,7 +450,7 @@ _____
 * [Curso de Diseño Web](https://www.youtube.com/playlist?list=PLhSj3UTs2_yXDfpTsKGd2iZTXZnsOTC8h) (Falcon Masters, Youtube)
 * [Desarrolla una página web con HTML y CSS](https://www.crehana.com/cursos/diseno-web/desarrolla-una-pagina-web-con-html-y-css){:target="_blank" rel="nofollow,noreferrer"} (Crehana)
 * [Diseño web con HTML5+CSS](https://miriadax.net/web/diseno-web-con-html5-css-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Diseño web creando un sitio web, paso a paso (2.017)](https://www.udemy.com/diseno-web-aprende-creando-un-sitio-web){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Diseño web creando un sitio web, paso a paso (2.017)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdiseno-web-aprende-creando-un-sitio-web%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Fundamentos del diseño UX](https://www.crehana.com/cursos/uxui/fundamentos-del-diseno-ux){:target="_blank" rel="nofollow,noreferrer"} (Crehana)
 * [Interfaces de usuario (2009)](http://ocw.uc3m.es/ingenieria-informatica/interfaces-de-usuario){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Menus responsive](http://jotajotavm.com/Menus-Responsive-00-Introduccion.html){:target="_blank" rel="nofollow,noreferrer"} (jotajotavm)
@@ -458,9 +458,7 @@ _____
 
 ## Bootstrap <i class="fab fa-bootstrap"></i>
 
-* [Aprende a crear Landing Pages con Bootstrap 3 o Instapage](https://www.udemy.com/crea-una-landing-page-que-enamore-sin-saber-programar) (Udemy)
-* [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4) (Udemy)
-* [Bootstrap 4! Desde Cero](https://www.udemy.com/bootstrap-4-curso-desde-cero-2017-espanol) (Udemy)
+* [Aprende a crear Landing Pages con Bootstrap 3 o Instapage](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-una-landing-page-que-enamore-sin-saber-programar%2F) (Udemy)
 * [Bootstrap 4. Fundamentos: crea tu primer sitio responsive](https://www.udemy.com/curso-fundamentos-de-bootstrap-4) (Udemy)
 * [Crear temas para Wordpress utilizando Bootstrap 4](/👨‍🏫-curso-creacion-tema-wordpress-bootstrap-bluuweb) (Bluuweb!, YouTube)
 * [Curso completo de Boostrap 4! 2017 desde cero](https://www.youtube.com/playlist?list=PLPl81lqbj-4IcaAluUlCTmbYz0h9XQ8U1) (Bluuweb!, Youtube)
@@ -471,8 +469,8 @@ _____
 * [Curso de Bootstrap 4](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-4-falcon-masters) (Falcon Masters, YouTube)
 * [Curso de Bootstrap 4](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-bootstrap-4-yoney-gallardo) (Yoney Gallardo, Youtube) (1 Vídeo)
 * [Curso de Material Design y Boostrap 4 por Bluuweb](/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-curso-material-design-bootstrap-4-bluuweb) (Bluuweb!, YouTube)
-* [La biblia perdida de Bootstrap 4](https://www.udemy.com/curso-la-biblia-perdida-de-bootstrap-4) (Udemy)
-* [PSD a HTML con Bootstrap 4!](https://www.udemy.com/curso-de-psd-a-html-con-bootstrap-4) (Udemy)
+* [Fundamentos de Bootstrap 4](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-fundamentos-de-bootstrap-4%2F) (Udemy)
+* [La biblia perdida de Bootstrap 4](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-fundamentos-de-bootstrap-4%2F) (Udemy)
 
 ## Dreamweaver <i class="fab fa-adobe"></i>
 
