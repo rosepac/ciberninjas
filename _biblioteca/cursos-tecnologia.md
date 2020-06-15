@@ -416,7 +416,7 @@ sidebar:
 * [Hoja de Ruta de Vue: Paso a paso](https://escuelavue.es/como-aprender-vue/){:target="_blank" rel="nofollow,noreferrer"} (Escuela VUE)
 * [Introducción Vue js 2 framework JAVASCRIPT desde CERO](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-vue-js-2-framework-javascript-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Laravel y Vue Js avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-vue-js-avanzado%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Primeros pasos con Vue.js | Vue en ejercicios](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprimeros-pasos-con-el-framework-vuejs%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Primeros pasos con Vue.js: Vue en ejercicios](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprimeros-pasos-con-el-framework-vuejs%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Vue, JavaScript y desarrollo Web moderno](https://escuelavue.es/series){:target="_blank" rel="nofollow,noreferrer"} (Escuela VUE)
 
 [⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
