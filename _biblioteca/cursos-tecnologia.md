@@ -31,13 +31,38 @@ sidebar:
   nav: cursos-espanol
 ---
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+Actualmente son más de 700 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
+
+Los cursos están creados e impartidos por entre otras universidades; la Universidad Carlos III de Madrid, la Universidad de Alicante, la Universidad de Cantabria, la Universidad de La Laguna de Tenerife, la Universidad de Málaga, la Universidad Jaime I de Castellón, la Universidad Nacional de Rosario \ Argentina, la Universidad Politécnica de Madrid, la Universidad Politécnica de Valencia..
+
+Los cursos recorren todo el sector de la tecnología 4.0 en global y contienen las siguientes temáticas principales
+
+Sobre Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo introducidos en la sección de metodologías de desarrollo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.
+
+Además, se agrega un apartado denominado metalistas, en el que podemos encontrar otras páginas web con variados y múltiples recursos sobre una única tecnología o varias. Por lo que se considera más importante citar a la página web en sí adjuntando una breve explicación[^] que el trabajo que requeriría ir añadiendo cada uno de los recursos al listado de forma diferenciada.
+
+> 🔥 Seguro también te interesa: [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/) >> [los mejores componentes](https://www.amazon.es/shop/cibercursos)
 {: .notice--danger}
 
-## 🗃 Meta-Listas
+## 🗃 Aprendizaje Global
 
-* [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/){:target="_blank" rel="nofollow,noreferrer"} [^1]
+* [¿Cómo aprender absolutamente todo lo que quieras?](/aprender/){:target="_blank"}
+* [Aprender Aprendizaje Automático](/que-aprender-sobre-machine-learning-2020/){:target="_blank"}
+* [Aprender Diseño Gráfico](/dise%C3%B1o-grafico/){:target="_blank"}
+* [Aprender Entornos de Desarrollo en la Nube](/entornos-nube/){:target="_blank"}
+* [Aprender Flutter](/como-aprender-flutter/){:target="_blank"}
+* [Aprender Git y Github](/github-git-recursos/){:target="_blank"}
+* [Aprender Inteligencia Artificial](/inteligencia-artificial/){:target="_blank"}
+* [Aprender Javascript](/javascript/){:target="_blank"}
+* [Aprender Posicionamiento y SEO](/posicionamiento-web-seo/){:target="_blank"}
+* [Aprender Python](/python/){:target="_blank"}
+* [Aprender Wordpress](/wordpress/){:target="_blank"}
+* [Cursos de Animación, Diseño, Diseño 3D, etc](/cursos-animacion-diseno/){:target="_blank"} [^1]
+* [Cursos de la Academia Microsoft](/cursos-tecnologia-microsoft/){:target="_blank"} [^1]
+* [Cursos de Otras Temáticas](https://ciberninjas.com/cursos-otras-tematicas/){:target="_blank"} (Github)
 * [Cursos de Programación Organizados (+ 850)](https://github.com/rosepac/biblioteca-espanol-gratis#%C3%ADndice-global){:target="_blank" rel="nofollow,noreferrer"} (Github)
+* [Cursos de Programación en Inglés](/cursos-tecnologia-ingles/){:target="_blank" rel="nofollow,noreferrer"} (Github)
+* [100 Cursos en Esapñol Más Nuevos](/cursos-udemy-programaci%C3%B3n-m%C3%A1s-actuales/){:target="_blank" rel="nofollow,noreferrer"} (Github)
 <!-- [Cursos en Inglés]() (Hackr io) -->
 
 ### 🌐 Cursos Masivos en Línea
@@ -1479,23 +1504,6 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 ## Web Scraping 🕸
 
 * [Web Scraping](/web-scraping-c-sharp-con-jap-software/) (Jap Software, Youtube)
-
-[🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
-## Introducción
-
-Omitir. salvo que desees conocer en mayor profundidad el contenido que puedes encontrar dentro de los diferentes enlaces que aparecen dentro de esta página web. Este contenido, unicamente es generado en post de la mejora del posicionamiento e indexación del mismo 😉
-{: .notice--info}
-
-Actualmente son más de 700 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
-
-Los cursos están creados e impartidos por entre otras universidades; la Universidad Carlos III de Madrid, la Universidad de Alicante, la Universidad de Cantabria, la Universidad de La Laguna de Tenerife, la Universidad de Málaga, la Universidad Jaime I de Castellón, la Universidad Nacional de Rosario \ Argentina, la Universidad Politécnica de Madrid, la Universidad Politécnica de Valencia..
-
-Los cursos recorren todo el sector de la tecnología 4.0 en global; y contienen las siguientes temáticas principales
-
- Sobre Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo introducidos en la sección de metodologías de desarrollo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.
-
- Además, se agrega un apartado denominado metalistas, en el que podemos encontrar otras páginas web con variados y múltiples recursos sobre una única tecnología o varias. Por lo que se considera más importante citar a la página web en sí adjuntando una breve explicación[^] que el trabajo que requeriría ir añadiendo cada uno de los recursos al listado de forma diferenciada.
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
