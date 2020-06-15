@@ -15,9 +15,9 @@ header:
   image_alt: 'Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas'
 title: '▷ Qué es Markdown y sus 7 mejores editores de texto'
 description: >-
-  Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas
+  Los 7 mejores editores de código para editar publicaciones en Markdown
 excerpt: >-
-  Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas
+  Los 7 mejores editores de código para editar publicaciones en Markdown
 canonical_URL: https://ciberninjas.com/editores-markdown/
 permalink: /editores-markdown/
 date: 2020-06-15 18:32:32
