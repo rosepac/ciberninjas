@@ -30,15 +30,15 @@ Vamos a echar un vistazo a los editores creados por y para ser usados con el len
 
 - [**¿Qué es Markdown?**](#qué-es-markdown)
 - [**¿Por qué usar Markdown?**](#por-qué-usar-markdown)
-- [1. Typora](#1-typora)
-- [2. MarkDown Monster{:target="_blank" rel="nofollow,noreferrer"}](#2-markdown-monstertarget_blank-relnofollownoreferrer)
-- [3. Boostnote{:target="_blank" rel="nofollow,noreferrer"}](#3-boostnotetarget_blank-relnofollownoreferrer)
-- [4. Haroopad{:target="_blank" rel="nofollow,noreferrer"}](#4-haroopadtarget_blank-relnofollownoreferrer)
-- [5. Editores de texto en línea](#5-editores-de-texto-en-línea)
-  - [5.1 StackEdit{:target="_blank" rel="nofollow,noreferrer"}](#51-stackedittarget_blank-relnofollownoreferrer)
-  - [5.2 Dillinger{:target="_blank" rel="nofollow,noreferrer"}](#52-dillingertarget_blank-relnofollownoreferrer)
-  - [5.3 Hackmd.io{:target="_blank" rel="nofollow,noreferrer"}](#53-hackmdiotarget_blank-relnofollownoreferrer)
-- [Enlaces derecursos sobre MarkDown](#enlaces-derecursos-sobre-markdown)
+- [1. **Typora**](#1-typora)
+- [2. **MarkDown Monster**](#2-markdown-monster)
+- [3. **Boostnote**](#3-boostnote)
+- [4. **Haroopad**](#4-haroopad)
+- [5. **Editores de Makrdown en Línea**](#5-editores-de-makrdown-en-línea)
+  - [5.1 **StackEdit**](#51-stackedit)
+  - [5.2 **Dillinger**](#52-dillinger)
+  - [5.3 **Hackmd.io**](#53-hackmdio)
+- [**Enlaces a recursos sobre MarkDown**](#enlaces-a-recursos-sobre-markdown)
 
 ## **¿Qué es Markdown?**
 
@@ -106,11 +106,11 @@ Aparte, vas a encontrarte 3 opciones online con las que poder probar Markdown si
 
 > **¡Adelante, vamos al lío y practiquemos Markdown!**
 
-## 1. Typora
+## 1. **Typora**
 
 Sin lugar a dudas, para mi el mejor editor de los que he probado. Sencillo, simple, útil; visualmente muy, muy agradable. Su minimalismo y su modo a pantalla completa, es perfecto para centrarse en escribir.
 
-![Interfaz de typora](/assets/images/blog/markdown_typora_captura_1)
+![Interfaz de typora](/assets/images/blog/markdown_typora_captura_1.webp)
 
 La vista previa es instantánea y se va mostrando según redactamos, aunque también soporta un modo de *'código'* donde nos muestra el contenido junto a los símbolos del lenguaje.
 
@@ -130,7 +130,7 @@ Podremos hacerle aprender palabras nuevas, haciendo 'click' sobre una palabra y 
 
 [🔥 Probar Typora](https://typora.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 2. [MarkDown Monster](https://markdownmonster.west-wind.com/){:target="_blank" rel="nofollow,noreferrer"}
+## 2. **MarkDown Monster**
 
 Este editor, **MarkDown Monster**, probablemente sea el más completo. En principio es un *software* de pago, aunque existe una versión gratuita que creo no existe problema alguna por utilizar de manera constante (salvo algún anuncio de la versión de pago).
 
@@ -155,7 +155,9 @@ En la cinta de botones encontramos todas las opciones de **MarkDown** y además,
 
 No posee un mundo 'full screen 100%' pero si un modo de escritura sin distracciones bastante agradable, tienen corrector ortográfico en español y otro detalle importante; existe una versión **portable**. 
 
-## 3. [Boostnote](https://boostnote.io/){:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Markdown Monster](https://markdownmonster.west-wind.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 3. **Boostnote**
 
 **Boostnote**, es el editor más complicado. Su forma de crear y gestionar documentos es un tanto rígida; por lo qué, una vez te acostumbres puede ser una ventaja.
 
@@ -164,7 +166,9 @@ Pero hasta que llegue ese momento, es un tanto extraño. Debemos sumarle, que su
 
 Podríamos decir que es un proyecto claramente enfocado en ser un bloc de notas, ofreciéndonos una opción de marcar notas como favoritas o añadir etiquetas. 
 
-## 4. [Haroopad](http://pad.haroopress.com/){:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Bootsnote](https://boostnote.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 4. **Haroopad**
 
 **Haroopad**, es posiblemente un editor más enfocado  a usuarios que se dedique a la programación; puesto que visualmente su interfaz se asemeja más a la de un editor 'clásico'.
 
@@ -174,11 +178,13 @@ Por defecto tiene una pequeña 'chuletilla' de **MarkDown** que puedes o bien ma
 
 Una pega, es que no tiene corrector (o eso creo)  no se lo he encontrado.
 
-## 5. Editores de texto en línea
+[🔥 Probar Haroopad](http://pad.haroopress.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## 5. **Editores de Makrdown en Línea**
 
 Aplicaciones excelentes sobre todo en las situaciones que deseamos trabajar fuera de casa, desde otros ordenadores que no sean el nuestro o colaborar junto a otras personas.
 
-### 5.1 [StackEdit](https://stackedit.io/){:target="_blank" rel="nofollow,noreferrer"}
+### 5.1 **StackEdit**
 
 Nos permite tres opciones rápidas de visualización; pantalla completa, mitad de pantalla para edición y la otra para la visualización o simplemente, ver una visualización final. 
 
@@ -188,7 +194,9 @@ Barra de botones con opciones rápidas a atajos de elementos de **MarkDown** inc
 
 El corrector ortográfico del navegador funciona perfectamente.
 
-### 5.2 [Dillinger](https://dillinger.io/){:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar StackEdit](https://stackedit.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+### 5.2 **Dillinger**
 
 Otra muy buena opción, en este caso nos encontramos con una opción de pantalla completa más discreta; aunque de cualquier forma es visualmente muy elegante.
 
@@ -196,7 +204,9 @@ Otra muy buena opción, en este caso nos encontramos con una opción de pantalla
 
 Permite conectarse, importar y exportar, a través de múltiples cuentas. Lo peor de todo, el corrector ortográfico se desactiva al escribir. 
 
-### 5.3 [Hackmd.io](https://hackmd.io){:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Dillinger](https://dillinger.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+### 5.3 **Hackmd.io**
 
 Como las opciones anteriores, posee un aspecto muy agradable; y amplias opciones de usabilidad, incluso de tablas. Conexión, exportación e importación por varias cuentas.
 
@@ -204,7 +214,9 @@ Como las opciones anteriores, posee un aspecto muy agradable; y amplias opciones
 
 La parte extra de **Hackmd** es que permite el trabajo compartido online, compartir una nota y editarla de forma grupal; y un panel de 'portada' desde el que podremos gestionar las publicaciones trabajando con etiquetas o palabras claves.
 
-## Enlaces derecursos sobre MarkDown
+[🔥 Probar HackMD](https://hackmd.io){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+## **Enlaces a recursos sobre MarkDown**
 
 Por último, aquí os dejo unos enlaces interesantes sobre MarkDown:
 
