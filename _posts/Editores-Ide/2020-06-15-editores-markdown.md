@@ -42,9 +42,11 @@ Vamos a echar un vistazo a los editores creados por y para ser usados con el len
 
 ## **¿Qué es Markdown?**
 
-Markdown es una sintaxis de formato de texto sin formato destinada a facilitar la escritura en Internet. La filosofía detrás de Markdown es que los documentos de texto sin formato deben ser legibles sin que las etiquetas desglosen todo, pero aún debe haber formas de agregar modificadores de texto como listas, negrita, cursiva, etc.
+Markdown es una sintaxis de formato de texto sin etiquetas destinada a facilitar la escritura en Internet, este lenguaje de marcado ligero fue creado en 2004, por John Gruber con una ayuda importante de Aaron Swartz para la creación de su sintaxis.
 
-Es una alternativa a WYSIWYG (lo que ve es lo que usted ve). obtener) editores, que utilizan texto enriquecido que luego se convierte a HTML adecuado. Es posible que hayas encontrado Markdown sin darte cuenta; en sitiios como el chat de Facebook, Skype y Reddit te permiten usar diferentes tipos de Markdown para formatear tus mensajes.
+La filosofía detrás de Markdown es que los documentos de texto sin formato deben ser legibles sin que las etiquetas desglosen todo, pero aún debe haber formas de agregar modificadores de texto como listas, negrita, cursiva, etc.
+
+Es una alternativa a los editores WYSIWYG (lo que ves es lo que se obtiene) que utilizan texto enriquecido que luego se convierte a HTML adecuado. Es posible que hayas encontrado Markdown sin darte cuenta; en sitiios como el chat de Facebook, Skype y Reddit te permiten usar diferentes tipos de Markdown para formatear tus mensajes.
 
 Aquí hay un ejemplo rápido: para poner palabras en negrita usando Markdown, simplemente enciérrelas en * (asteriscos). Entonces, * palabra en negrita * se vería como una palabra en negrita cuando todo está dicho y hecho.
 
@@ -223,6 +225,7 @@ Por último, aquí os dejo unos enlaces interesantes sobre MarkDown:
 - [Tutorial de Aprendizaje de Markdown](https://www.markdowntutorial.com/es/){:target="_blank" rel="nofollow,noreferrer"}
 - [Cursos de Markdown](https://ciberninjas.com/cursos-tecnologia/#markdown-){:target="_blank"}
 - [Libro de Markdown](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/#lenguajes-de-marcado-){:target="_blank"}
+- [Markdown IT: Crea y personaliza tu propio lenguaje de Markdown](https://github.com/markdown-it/markdown-it){:target="_blank" rel="nofollow,noreferrer"}
 - [MarkDown Chuleta](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf){:target="_blank" rel="nofollow,noreferrer"}
 - [Generador de tablas MarkDown](https://www.tablesgenerator.com/markdown_tables#){:target="_blank" rel="nofollow,noreferrer"}
 - [Crear correos electrónicos con MarkDown](https://markdown-here.com/){:target="_blank" rel="nofollow,noreferrer"}
