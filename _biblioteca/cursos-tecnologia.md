@@ -10,8 +10,8 @@ permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
 classes: wide
 header:
-  teaser: "https://i.ibb.co/PznX1z2/tecnologia-programando.jpg"
-  overlay_image: "https://i.ibb.co/PznX1z2/tecnologia-programando.jpg"
+  teaser: "/assets/images/blog/tecnologia-programando.webp"
+  overlay_image: "/assets/images/blog/tecnologia-programando.webp"
   overlay_filter: 0.2
   image_description: 'Los mejores cursos con los que aprender a programar y cualquier otra tecnología web | Ciberninjas'
   image_alt: 'Los mejores cursos con los que aprender a programar y cualquier otra tecnología web | Ciberninjas'
@@ -298,7 +298,7 @@ sidebar:
 
 ## 👩‍💻 Desarrollo Web
 
-[Android <i class="fab fa-android"></i>](/cursos-tecnologia/#android-){: .btn .btn--inverse .btn--large} [Angular <i class="fab fa-angular"></i>](/cursos-tecnologia/#angular-){: .btn .btn--inverse .btn--large} [PHP Framework <i class="fab fa-php"></i>](/cursos-tecnologia/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/cursos-tecnologia/#docker-){: .btn .btn--inverse .btn--large} [Ionic](/cursos-tecnologia/#ionic){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/cursos-tecnologia/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/cursos-tecnologia/#swift-){: .btn .btn--inverse .btn--large}
+[Android <i class="fab fa-android"></i>](/cursos-tecnologia/#android-){: .btn .btn--inverse .btn--large} [Angular <i class="fab fa-angular"></i>](/cursos-tecnologia/#angular-){: .btn .btn--inverse .btn--large} [PHP Framework <i class="fab fa-php"></i>](/cursos-tecnologia/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/cursos-tecnologia/#docker-){: .btn .btn--inverse .btn--large} [Ionic](/cursos-tecnologia/#ionic){: .btn .btn--inverse .btn--large} [JQuery](/cursos-tecnologia/#jquery){: .btn .btn--inverse .btn--large} [Node <i class="fab fa-node-js"></i>](/cursos-tecnologia/#node-){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/cursos-tecnologia/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [React <i class="fab fa-react"></i>](/cursos-tecnologia/#react-){: .btn .btn--inverse .btn--large} [React Native](/cursos-tecnologia/#react-native){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/cursos-tecnologia/#swift-){: .btn .btn--inverse .btn--large} [Vue <i class="fab fa-vuejs"></i>](/cursos-tecnologia/#vue-){: .btn .btn--inverse .btn--large} [Editores de Código](/cursos-tecnologia/#vue-){: .btn .btn--inverse .btn--large} [Navegadores](/cursos-tecnologia/#vue-){: .btn .btn--inverse .btn--large}
 
 * [Curso básico de Backbone.js](https://devcode.la/cursos/curso-basico-de-backbonejs){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
 * [Curso de Firebase](https://www.youtube.com/playlist?list=PLEtcGQaT56chIjXff_cAEglfe6gBSNFHj) (Jesús Conde, Youtube)
@@ -407,6 +407,20 @@ sidebar:
 * [React Native con Mario Díez](/react-native-con-mario-diez/){:target="_blank" rel="nofollow,noreferrer"}
 * [React Native por Ciencia del Aprendizaje Fácil](/react-native-desde-ciencia-del-aprendizaje-facil/){:target="_blank" rel="nofollow,noreferrer"}
 
+## Vue <i class="fab fa-vuejs"></i>
+
+* [Aprende VUE2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso){:target="_blank" rel="nofollow,noreferrer"} (Anticuado, ver más actual: Escuela Vue) (WMedia)
+* [Curso de Vue JS](https://www.youtube.com/playlist?list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT){:target="_blank" rel="nofollow,noreferrer"} (BluuWeb, Youtube) (2018)
+* [Curso de Vue JS](https://www.youtube.com/playlist?list=PLUdlARNXMVkk7VotfS3YVxcghSdJR7E2A){:target="_blank" rel="nofollow,noreferrer"} (Carlos Azaustre, Youtube) (2018)
+* [Vue.JS con CLI 3](https://www.youtube.com/playlist?list=PLEtcGQaT56ch3jHPeZfakUT3zRm9QfVQi){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube) (2018)
+* [Hoja de Ruta de Vue: Paso a paso](https://escuelavue.es/como-aprender-vue/){:target="_blank" rel="nofollow,noreferrer"} (Escuela VUE)
+* [Introducción Vue js 2 framework JAVASCRIPT desde CERO](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-vue-js-2-framework-javascript-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Laravel y Vue Js avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-vue-js-avanzado%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Primeros pasos con Vue.js | Vue en ejercicios](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprimeros-pasos-con-el-framework-vuejs%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Vue, JavaScript y desarrollo Web moderno](https://escuelavue.es/series){:target="_blank" rel="nofollow,noreferrer"} (Escuela VUE)
+
+[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
 ## Software
 
 ### Editores de Código
@@ -421,21 +435,7 @@ sidebar:
 
 ### Navegadores
 
-* [Los Mejores Trucos con las Herramientas de Desarrollo de Chrome](/trucos-herramientas-desarrollo-de-chrome/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-
-## Vue <i class="fab fa-vuejs"></i>
-
-* [Aprende VUE2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso){:target="_blank" rel="nofollow,noreferrer"} (Anticuado, ver más actual: Escuela Vue) (WMedia)
-* [Curso de Vue JS](https://www.youtube.com/playlist?list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT){:target="_blank" rel="nofollow,noreferrer"} (BluuWeb, Youtube) (2018)
-* [Curso de Vue JS](https://www.youtube.com/playlist?list=PLUdlARNXMVkk7VotfS3YVxcghSdJR7E2A){:target="_blank" rel="nofollow,noreferrer"} (Carlos Azaustre, Youtube) (2018)
-* [Vue.JS con CLI 3](https://www.youtube.com/playlist?list=PLEtcGQaT56ch3jHPeZfakUT3zRm9QfVQi){:target="_blank" rel="nofollow,noreferrer"} (Jesús Conde, Youtube) (2018)
-* [Hoja de Ruta de Vue: Paso a paso](https://escuelavue.es/como-aprender-vue/){:target="_blank" rel="nofollow,noreferrer"} (Escuela VUE)
-* [Introducción Vue js 2 framework JAVASCRIPT desde CERO](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-vue-js-2-framework-javascript-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Laravel y Vue Js avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-vue-js-avanzado%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Primeros pasos con Vue.js | Vue en ejercicios](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprimeros-pasos-con-el-framework-vuejs%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Vue, JavaScript y desarrollo Web moderno](https://escuelavue.es/series){:target="_blank" rel="nofollow,noreferrer"} (Escuela VUE)
-
-[⏫ Subir a Desarrollo Web 👩‍💻](/cursos-tecnologia/#-desarrollo-web){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+* [Los Mejores Trucos con las Herramientas de Desarrollo de Chrome](/trucos-herramientas-desarrollo-de-chrome/){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
 
 ## 👨‍🎨 Diseño Web
 
