@@ -32,7 +32,7 @@ En total, se aceptaron 7 proyectos Jenkins, 2 proyectos Spinnaker y 1 destornill
 
 “La Fundación CD se dedica a apoyar proyectos de entrega continua de código abierto en todo el mundo. Parte de esa misión incluye apoyar y alentar a la próxima generación de desarrolladores talentosos en todo el mundo, dijo Tara Hernández, Gerente de Ingeniería Senior, Google Cloud Platform y miembro del Comité de Supervisión Técnica de la Fundación CD. “Gracias a los estudiantes y mentores que trabajan incansablemente para crear e innovar para el GSoC. Esperamos que todos pasen un tiempo fantástico codificando y aprendiendo este verano. ¡Felicidades!"
 
-🔥 Seguro también te interesa: [¿Qué es Jenkins? Herramienta de Integración Continua](https://ciberninjas.com/jenkins/) >> [▷ Jenkins X - Solicitud y búsqueda de ayuda: Divulgación](https://ciberninjas.com/jenkins-x-divulgaci%C3%B3n/) >> [▷ Introducción a Zuul para mejorar el CI / CD](https://ciberninjas.com/introduccion-zuul-open-source/) >> [Qué es Tekton](https://ciberninjas.com/tekton-beta/) >> [Tekton Beta](https://ciberninjas.com/tekton-beta/)
+> 🔥 Seguro también te interesa: [¿Qué es Jenkins? Herramienta de Integración Continua](https://ciberninjas.com/jenkins/) >> [▷ Jenkins X - Solicitud y búsqueda de ayuda: Divulgación](https://ciberninjas.com/jenkins-x-divulgaci%C3%B3n/) >> [▷ Introducción a Zuul para mejorar el CI / CD](https://ciberninjas.com/introduccion-zuul-open-source/) >> [Qué es Tekton](https://ciberninjas.com/tekton-beta/) >> [Tekton Beta](https://ciberninjas.com/tekton-beta/)
 {: .notice--danger}
 
 La siguiente es una lista de los proyectos aceptados y enlaces a la descripción de cada proyecto y los mentores asociados.
@@ -89,7 +89,7 @@ Supratik Das: [Mejora la integración SCM](https://summerofcode.withgoogle.com/p
 
 - Las dos áreas clave en las que se mejorará Destornillador son la introducción de claves de implementación para el manejo continuo de repositorios privados y la activación de compilaciones desde repositorios SCM externos.
 
-🔥 Seguro también te interesa: [15 Mejores alternativas a Jenkins en 2020](https://ciberninjas.com/jenkins-alternativas/) >> [▷ ¿Qué es Tekton? Novedades y Cambios](https://ciberninjas.com/que-es-tekton/) >> [▷ Introducción a Zuul para mejorar el CI / CD](https://ciberninjas.com/introduccion-zuul-open-source/)
+> 🔥 Seguro también te interesa: [15 Mejores alternativas a Jenkins en 2020](https://ciberninjas.com/jenkins-alternativas/) >> [▷ ¿Qué es Tekton? Novedades y Cambios](https://ciberninjas.com/que-es-tekton/) >> [▷ Introducción a Zuul para mejorar el CI / CD](https://ciberninjas.com/introduccion-zuul-open-source/)
 {: .notice--danger}
 
 ![La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.](/assets/images/blog/google-summer-code-2.webp "La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.")

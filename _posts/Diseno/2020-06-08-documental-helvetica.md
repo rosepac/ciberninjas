@@ -12,13 +12,13 @@ header:
   teaser: /assets/images/blog/fuente-helvetica-res.webp
   overlay_image: /assets/images/blog/fuente-helvetica-res.webp
   overlay_filter: 0.2
-  image_description: ''
-  image_alt: ''
+  image_description: 'Helvetica es un documental de larga duración sobre tipografía, diseño gráfico y cultura visual global. Considera la proliferación de un tipo de letra como parte de una conversación más amplia sobre la forma en que el tipo afecta nuestras vidas.'
+  image_alt: 'Helvetica es un documental de larga duración sobre tipografía, diseño gráfico y cultura visual global. Considera la proliferación de un tipo de letra como parte de una conversación más amplia sobre la forma en que el tipo afecta nuestras vidas.'
 title: 'Documental sobre la tipografía Helvetica'
 description: >-
-  'Helvetica es un documental de larga duración sobre tipografía, diseño gráfico y cultura visual global. Considera la proliferación de un tipo de letra como parte de una conversación más amplia sobre la forma en que el tipo afecta nuestras vidas.'
+  Helvetica es un documental de larga duración sobre tipografía, diseño gráfico y cultura visual global. Considera la proliferación de un tipo de letra como parte de una conversación más amplia sobre la forma en que el tipo afecta nuestras vidas.
 excerpt: >-
-  'Helvetica es un documental de larga duración sobre tipografía, diseño gráfico y cultura visual global. Considera la proliferación de un tipo de letra como parte de una conversación más amplia sobre la forma en que el tipo afecta nuestras vidas.'
+  Helvetica es un documental de larga duración sobre tipografía, diseño gráfico y cultura visual global. Considera la proliferación de un tipo de letra como parte de una conversación más amplia sobre la forma en que el tipo afecta nuestras vidas.
 canonical_URL: https://ciberninjas.com/documental-helvetica/
 permalink: /documental-helvetica/
 date: 2020-06-08 19:32:32
@@ -29,7 +29,7 @@ published: true
 
 **Helvetica es un documental de larga duración sobre tipografía, diseño gráfico y cultura visual global. Considera la proliferación de un tipo de letra como parte de una conversación más amplia sobre la forma en que el tipo afecta nuestras vidas.**
 
-🔥 Seguro también te interesa: [Aprender Diseño Gráfico](/diseño-grafico/) >> [Mejores blogs de diseño gráfico](/blogs-diseno-grafico-espanol/) >> [Mejores blogs en inglés](/blogs-diseno-grafico-ingles/)
+> 🔥 Seguro también te interesa: [Aprender Diseño Gráfico](/diseño-grafico/) >> [Mejores blogs de diseño gráfico](/blogs-diseno-grafico-espanol/) >> [Mejores blogs en inglés](/blogs-diseno-grafico-ingles/)
 {: .notice--danger}
 
 El docuemtanl Helvetica, es una exploración cinemática de espacios urbanos en las principales ciudades y el tipo que los habita, y una discusión fluida con diseñadores de renombre sobre su trabajo, el proceso creativo y las elecciones y la estética detrás del uso de la tipografía en cuestión. Helvetica  abarca los mundos del diseño, la publicidad, la psicología y la comunicación y nos invita a echar un segundo vistazo a las miles de palabras que vemos cada día.
@@ -56,7 +56,7 @@ Introducida en medio de la ola de popularidad del diseño suizo y alimentado por
 
 [👀 Visualizar Documental](https://www.veoh.com/list-c/documentales-de-educacin?fbclid=IwAR1fkwJdf9_uy1VtU3FUGslgoRpAUgoGhcssLWM7kI8XYbHQsnWmgEpy2QA){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-🔥 Seguro también te interesa: [Aprender Diseño Gráfico](/diseño-grafico/) >> [Mejores blogs de diseño gráfico](/blogs-diseno-grafico-espanol/) >> [Mejores blogs en inglés](/blogs-diseno-grafico-ingles/)
+> 🔥 Seguro también te interesa: [Aprender Diseño Gráfico](/diseño-grafico/) >> [Mejores blogs de diseño gráfico](/blogs-diseno-grafico-espanol/) >> [Mejores blogs en inglés](/blogs-diseno-grafico-ingles/)
 {: .notice--danger}
 
 ![Helvetica es un documental de larga duración sobre tipografía, diseño gráfico y cultura visual global. Considera la proliferación de un tipo de letra como parte de una conversación más amplia sobre la forma en que el tipo afecta nuestras vidas.](/assets/images/blog/fuente-helvetica-res.webp "Helvetica es un documental de larga duración sobre tipografía, diseño gráfico y cultura visual global. Considera la proliferación de un tipo de letra como parte de una conversación más amplia sobre la forma en que el tipo afecta nuestras vidas.")

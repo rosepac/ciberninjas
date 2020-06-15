@@ -26,7 +26,7 @@ published: true
 
 ![Lanzamiento de las extensiones de Firebase para Kotlin](/assets/images/blog/firebase-kotlin-1.webp "Lanzamiento de las extensiones de Firebase para Kotlin")
 
-🔥 Seguro también te interesa: [Comparación Flutter, React, Xamarin](/comparacion-flutter-react-native-xamarin/) >> [Palabras de Kotlin](/palabras-lenguajes-programacion/#nube-de-palabras-de-kotlin) [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/)
+> 🔥 Seguro también te interesa: [Comparación Flutter, React, Xamarin](/comparacion-flutter-react-native-xamarin/) >> [Palabras de Kotlin](/palabras-lenguajes-programacion/#nube-de-palabras-de-kotlin) [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/)
 {: .notice--danger}
 
 Sabemos que Kotlin es el futuro de Android y que los desarrolladores de Kotlin quieren API limpias e idiomáticas cuando usan Firebase en sus aplicaciones. Durante el año pasado, hemos lanzado las bibliotecas de extensión Firebase Kotlin (KTX) junto con nuestros SDK de Java para Android para brindar a los desarrolladores de Kotlin lo mejor de ambos mundos.

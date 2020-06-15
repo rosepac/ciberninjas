@@ -24,7 +24,7 @@ toc_sticky: false
 
 En esta publicación vas a poder encontrar todos los mejores enlaces sobre contenidos de SEO, posicionamiento y otros temas relacionados. Junto a nuestra guía de Posicionamiento y nuestra guía de Robots.txt vas a poder transformar por completo tu página web para aplicarle todos los principios y mejores trucos con los que mejorar la indexación para alcanzar los primeros lugares de Google.
 
-🔥 Seguro también te interesa: [aprender posicionamiento web](/posicionamiento-web-seo/) >> [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
+> 🔥 Seguro también te interesa: [aprender posicionamiento web](/posicionamiento-web-seo/) >> [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

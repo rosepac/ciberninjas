@@ -28,7 +28,7 @@ published: true
 
 Pose Animator es una librería capaz de tomar una ilustración vectorial en 2D y animar las líneas de sus curvas en tiempo real en función del resultado de reconocimiento del reconocimiento realizado por las librerías PoseNet y FaceMesh; se ha tomado prestada la idea de las animaciones basadas en esqueletos creadas mediante gráficos a través de ordenador.
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
 En la animación de esqueletos, un personaje se representa a través de dos partes: Una superficie es utilizada para dibujar el personaje y basándose en el conjunto de la jerarquía de los huesos conectados, esa idea es utilizada para poder animar la superficie.
@@ -95,5 +95,5 @@ Las demostraciones son compatibles con Desktop Chrome y iOS Safari; también deb
 
 6. Abra la [demo de la cámara Pose Animator](https://pose-animator-demo.firebaseapp.com/camera.html){:target="_blank" rel="nofollow,noreferrer"}. Una vez que todo se carga, suelte su archivo SVG en la pestaña del navegador. Deberías poder verlo cobrar vida: D
 
-🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}

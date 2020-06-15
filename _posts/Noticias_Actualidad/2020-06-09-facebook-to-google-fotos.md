@@ -41,7 +41,7 @@ Por ahora los usuarios solamente pueden traspasar sus fotografías hacía Google
 
 Esta iniciativa se estableció en 2018 entre Google, Facebook, Microsoft y Twitter y está diseñada para fomentar esfuerzos conjuntos en torno a herramientas mejoradas para compartir datos, tanto entre las empresas como para los consumidores. Más tarde, Apple se unió al proyecto denominado Proyecto de transferencia de datos, en 2019. Sin embargo, no está claro cuándo Facebook agregará soporte para el resto de compañías.
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
 ![La herramienta de Facebook para transferir medios a Google Photos ahora está disponible paramedall](/assets/images/blog/facebook-to-google.webp "Como parte de una iniciativa de intercambio de datos unida por compañías como Apple y Google, Facebook dice que su herramienta que permite a las personas transferir fotos y videos a una cuenta vinculada de Google Photos ahora está disponible a nivel mundial.")

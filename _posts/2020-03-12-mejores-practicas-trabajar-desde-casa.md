@@ -32,7 +32,7 @@ Existen una gran cantidad de herramientas gratuitas hacen que sea muy fácil reg
 
 Pero también hay desafíos, ¿Cómo evitas distraerte con las tareas domésticas? ¿Cómo hacer si tienes niños cerca? ¿Cómo concentrarte exclusivamente en tu trabajo?
 
-🔥 Seguro también te interesa: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
+> 🔥 Seguro también te interesa: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
 {: .notice--danger}
 
 ### **18 Mejores prácticas para aumentar tu productividad desde el teletrabajo**

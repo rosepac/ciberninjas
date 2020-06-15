@@ -35,7 +35,7 @@ Accidentalmente, en lugar de pegar, haces clic nuevamente en copiar u sin darte 
 
 Por tanto, **el texto que habías escrito desaparece en el limbo**. Esa situación extremadamente desagradable, ya no tiene porque volver a pasar, ahora tiene solución gracias a **una herramienta de portapapeles interna de Windows 10**.
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
+> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
 
 ## ¿Qué debo hacer para activar el portapapeles de Windows 10?
 
@@ -47,7 +47,7 @@ Una vez activado. Posiciona el puntero donde deseas recuperar el contenido y usa
 
 Más consejitos, otro día Ciberninjas.. 🤞
 
-🔥 Seguro también te interesa: [💻 ▷ Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida](/ayuda-control-remoto-windows-10/), [🍫 ▷ Chocolatey, Aprender Desde Cero](/chocolatey/), [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
+> 🔥 Seguro también te interesa: [💻 ▷ Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida](/ayuda-control-remoto-windows-10/), [🍫 ▷ Chocolatey, Aprender Desde Cero](/chocolatey/), [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
 {: .notice--danger}
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

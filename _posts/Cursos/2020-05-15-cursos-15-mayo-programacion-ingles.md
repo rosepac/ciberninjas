@@ -31,7 +31,7 @@ No te olvides, que si deseas apoyar y que se siga publicando muchos cursos y otr
 
 ¡Alé, a disfrutar..! Más tarde, una nueva publicación de cursos exclusivamente en español 🤘 🎉
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/)
+> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/)
 {: .notice--danger}
 
 👩‍🏫 JavaScript + ES6 + ES7 + ES8 + ES9 -> La guía completa (Valorado en 195 €) ¡15 Horas de Vídeos!
@@ -172,7 +172,7 @@ Aprenda sobre SDN, OpenFlow, NFV, conmutación de Whitebox, conmutadores de Face
 <a href='https://www.udemy.com/course/java-parallel-computation-on-hadoop-in-4-hours/?couponCode=FREECOUPON'>https://www.udemy.com/course/java-parallel-computation-on-hadoop-in-4-hours/?couponCode=FREECOUPON</a>
 {: .notice--info}
 
-🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
 ### Relacionados

@@ -34,7 +34,7 @@ A continuación se incluye una lista cuidadosamente seleccionada de los mejores 
 
 Cualquiera de estos editores será perfecto, al igual que cualquiera de los editores de código ya [vistos con anterioridad](https://ciberninjas.com/mejores-editores-texto/) en Ciberninjas.
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/)
+> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/)
 {: .notice--danger}
 
 <details>

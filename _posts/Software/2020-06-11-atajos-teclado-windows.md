@@ -118,7 +118,7 @@ En la lista a continuación, puede encontrar ambos métodos abreviados de teclad
 
 ¿Utilizas métodos abreviados de teclado en el trabajo? Yo sí, ¡Ánimo a todos que comiencen a utilizarlos para facilitar sus tareas!
 
-🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
 ![En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.](/assets/images/blog/windows-atajos-teclado.webp "En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.")

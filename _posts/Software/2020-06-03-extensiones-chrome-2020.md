@@ -47,7 +47,7 @@ Aquí está la lista que se me ocurrió:
 - [6. **Ghostery**](#6-ghostery)
 - [7. **Adblock Plus**](#7-adblock-plus)
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
+> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
 {: .notice--danger}
 
 ## 1. **Tab Wranger**
@@ -118,7 +118,7 @@ Nimbus es la extensión del futuro, que más tarde o temprano va a lograr sustit
 
 [💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/)
 
-🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
 ![Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.](/assets/images/blog/chrome-extensiones.webp "Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.")

@@ -57,7 +57,7 @@ Muchas compañías, especialmente las tecnológicas como Twitter, Google, Facebo
 <!-- INTRODUCCION AL CONTENIDO DE LA PÁGINA WEB -->
 ¿Eres nuevo en teletrabajo? Hoy, he recopilado algunas ideas básicas de lo que puedes necesitar para recrear a la perfección, la mejor experiencia posible de crear tu propia oficina en casa.
 
-🔥 Seguro también te interesa: [Mejores Prácticas para Teletrabajar](/mejores-practicas-trabajar-desde-casa/)
+> 🔥 Seguro también te interesa: [Mejores Prácticas para Teletrabajar](/mejores-practicas-trabajar-desde-casa/)
 {: .notice--danger}
 
 ## **1. Buena conexión a internet**

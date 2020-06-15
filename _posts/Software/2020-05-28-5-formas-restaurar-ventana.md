@@ -31,7 +31,7 @@ Esto sucede con mayor frecuencia si usas u ordenador portátil con un monitor ex
 
 Verás el borde inferior de la ventana pero no podrás acceder al marco en el que se encuentran los botones de control. Hoy, vamos a ver un par de fórmulas con las que resolver este problema.
 
-🔥 Seguro también te interesa: [💻 ▷ Controlar otro ordenador de forma remota](/ayuda-control-remoto-windows-10/), [Portapapeles de Windows 10](/portapapeles-windows-10/), [💻 ▷ 12 Teclas de acceso rápido para cambiar de ventanas](/atajos-teclado-ventanas-windows-10/), [👩‍🔧 ▷ Hiren´s BootCD PE, Aprender desde Cero](/hirens-bootcd-pe/), [🥇 ▷ Las 8 mejores aplicaciones de dibujo](/mejor-software-dibujo-windows-android/)
+> 🔥 Seguro también te interesa: [💻 ▷ Controlar otro ordenador de forma remota](/ayuda-control-remoto-windows-10/), [Portapapeles de Windows 10](/portapapeles-windows-10/), [💻 ▷ 12 Teclas de acceso rápido para cambiar de ventanas](/atajos-teclado-ventanas-windows-10/), [👩‍🔧 ▷ Hiren´s BootCD PE, Aprender desde Cero](/hirens-bootcd-pe/), [🥇 ▷ Las 8 mejores aplicaciones de dibujo](/mejor-software-dibujo-windows-android/)
 {: .notice--danger}
 - [1. **Restaura la ventana desde la Barra de tareas**](#1-restaura-la-ventana-desde-la-barra-de-tareas)
 - [2. **Usa los atajos del teclado**](#2-usa-los-atajos-del-teclado)
@@ -64,7 +64,7 @@ La opción siguiente, es óptima, si el problema es derivado de haber tenido var
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
+> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
 
 ### **Relacionados** <!-- omit in toc -->
 

@@ -48,7 +48,7 @@ Existen variopintos campos relacionados al respecto; Aprendizaje profundo, Intel
 </nav>
 </details>
 
-🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+> 🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
 ## ¿Por dónde comenzar con el aprendizaje automático?
@@ -98,7 +98,7 @@ El modelo de aprendizaje seguido dentro de este curso; es el siguiente. El curso
 
 [⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+> 🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
 ## El Aprendizaje Automático: Paso a Paso
@@ -307,7 +307,7 @@ Podemos destacar por ejemplo, el libro de: Arquitecturas del Aprendizaje Profund
 
 [⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+> 🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
 ## Proyectos Educativos de Github sobre Aprendizaje Automático
@@ -385,7 +385,7 @@ Las Conferencias que se incluyen son: Conferencia sobre sistemas de procesamient
 
 [⏫ Regresar al Menú](/que-aprender-sobre-machine-learning-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+> 🔥 Seguro también te interesa: [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
 ## Otros Proyectos Github de Aprendizaje Automático

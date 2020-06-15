@@ -34,7 +34,7 @@ header:
 
 Contribuir con código a una comunidad puede ser difícil. Cada repositorio tiene su propia forma de configurar un entorno de desarrollo, que a menudo requiere docenas de pasos antes de poder escribir cualquier código. Peor aún, a veces el entorno de dos proyectos en los que está trabajando entra en conflicto entre sí. Codespaces le brinda un entorno de desarrollo con todas las funciones alojado en la nube que gira en segundos, directamente dentro de GitHub, para que pueda comenzar a contribuir a un proyecto de inmediato.
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
 - [**Qué es Codespaces?**](#qu%c3%a9-es-codespaces)

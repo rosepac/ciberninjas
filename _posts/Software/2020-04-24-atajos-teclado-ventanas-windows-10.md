@@ -29,7 +29,7 @@ Existen casi **infinitos atajos de teclado** con los que **poder cambiar entre v
 
 A pesar de que **administrar las ventanas con el ratón en Windows 10 no es difícil**, **existen métodos de hacerlo mucho más rápido**, **que aumentarán tu productividad**; por esa razón, es **mucho mejor usar atajos de teclas a través de las teclas de acceso rápido**.
 
-🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
+> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/)
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -50,7 +50,7 @@ A continuación, vamos a descubrir **los 12 atajos de teclado más útiles**:
 
 Ahora ya podrás trabajar cómodamente, incluso si tienes un incómodo panel táctil y no tienes un ratón al alcance. ¡Pruébalos!
 
-🔥 Seguro también te interesa: [💻 ▷ Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida](/ayuda-control-remoto-windows-10/), [🍫 ▷ Chocolatey, Aprender Desde Cero](/chocolatey/), [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
+> 🔥 Seguro también te interesa: [💻 ▷ Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida](/ayuda-control-remoto-windows-10/), [🍫 ▷ Chocolatey, Aprender Desde Cero](/chocolatey/), [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
 {: .notice--danger}
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

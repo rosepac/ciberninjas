@@ -151,6 +151,6 @@ No hay una única forma de trabajo remoto; Es un viaje individual. Todos los que
 - [¿Quién trabaja de forma remota?](#%c2%bfqui%c3%a9n-trabaja-de-forma-remota)
   - [Índice <!-- omit in toc-->](#%c3%8dndice)
 
-🔥 Seguro también te interesa: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
+> 🔥 Seguro también te interesa: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
 {: .notice--danger}
 

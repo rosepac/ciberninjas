@@ -28,7 +28,7 @@ categories:
 
 Los sistemas de inteligencia artificial representan un amplio área de estudio bastante emocionante: hay una gran demanda de personal que requiere unas habilidades necesarias específicas para estos puestos de trabajo, sobre nuevas tecnologías que aún están en crecimiento y desarrollo. Sin embargo, puede ser difícil descubrir la mejor fórmula con la que introducirse en estás nuevas tecnologías, especialmente si se quiere aprender por cuenta propia.
 
-🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
+> 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
 Afortunadamente, hay muchos recursos disponibles para que los principiantes desarrollen sus conocimientos y habilidades e incluso para que descubran si el camino de la inteligencia artificial es para ellos.

@@ -63,7 +63,7 @@ Editores, con características populares y últimos enlaces de descarga. La list
 </nav>
 </details>
 
-🔥 Seguro también te interesa: [¿Qué es Python?](/python/#qué-es-python) >> [¿Quién usa Python?](/python/#quién-está-usando-python) >> [¿Por qué aprender Python?](/python/#por-qué-aprender-python) >> [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python) >> [Bibliotecas de Python](/python/#bibliotecas-de-python)
+> 🔥 Seguro también te interesa: [¿Qué es Python?](/python/#qué-es-python) >> [¿Quién usa Python?](/python/#quién-está-usando-python) >> [¿Por qué aprender Python?](/python/#por-qué-aprender-python) >> [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python) >> [Bibliotecas de Python](/python/#bibliotecas-de-python)
 {: .notice--danger}
 
 ## 1. **PyCharm**
@@ -253,7 +253,7 @@ Precio: Gratis para la comunidad, sin embargo. Las versiones empresariales son d
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
+> 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
 ### Relacionados
