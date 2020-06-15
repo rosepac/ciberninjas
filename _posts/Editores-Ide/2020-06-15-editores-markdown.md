@@ -230,7 +230,7 @@ Por último, aquí os dejo unos enlaces interesantes sobre MarkDown:
 - [Generador de tablas MarkDown](https://www.tablesgenerator.com/markdown_tables#){:target="_blank" rel="nofollow,noreferrer"}
 - [Crear correos electrónicos con MarkDown](https://markdown-here.com/){:target="_blank" rel="nofollow,noreferrer"}
 
-> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
+> 🔥 Seguro también te interesa: [mejores editores de código](/mejores-editores-texto/) >> [mejores editores de python](/mejores-ide-python/) >> [mejores editores de PHP](/mejores-editores-php/)
 {: .notice--danger}
 
 ![Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas](/assets/images/blog/editores_negro.webp "Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas")
