@@ -29,11 +29,9 @@ sidebar:
 
 ---
 
-[🎁 Las Mejores Ofertas y Productos Recomendados](https://www.amazon.es/shop/cibercursos){:target="_blank" rel="nofollow,noreferrer"}
+[🤗 ¡Ayúdanos! 🎁 Visita Nuestro Canal de Afiliados de Amazon 🤘](https://www.amazon.es/shop/cibercursos){:target="_blank" rel="nofollow,noreferrer"}
 
-<details>
-<summary><strong>Selección de Recomendaciones 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
+<h2><strong>Las Más Espectaculares Ofertas y Chollos de Productos Seleccionados 👇</strong></h2>
   <ol>
     <li> PROGRAMACIÓN Y APRENDIZAJE DE TECNOLOGÍAS
       <ol>
@@ -86,5 +84,3 @@ sidebar:
       </ol>
     </li>
   </ol>
-</nav>
-</details>
