@@ -195,6 +195,8 @@ FocusFox es un editor en línea gratuito **simple e inteligente** con sonidos de
 
 La biblioteca de sonidas te ayudará a concentrarte, e incluye una opción de corrector ortográfico para los ~~ errores ~~ además de ofrecer el modo de escritura de minimalista y el modo oscuro de escritura.
 
+[🔥 Probar FocuxFox](https://www.focusfox.co/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
 ### 5.2 **StackEdit**
 
 Nos permite tres opciones rápidas de visualización; pantalla completa, mitad de pantalla para edición y la otra para la visualización o simplemente, ver una visualización final. 
