@@ -63,6 +63,7 @@ header:
 * [Autodesk Maya 2015. Curso Completo](https://www.youtube.com/playlist?list=PLmJE_P_j3_Ifg7yx6Fy6TStqdc-9uIun7){:target="_blank" rel="nofollow,noreferrer"}
 * [Autodesk Maya: Introducción al 3D](https://www.crehana.com/cursos/3D/autodesk-maya-introduccion-al-3d){:target="_blank" rel="nofollow,noreferrer"} (Crehana)
 * [Autodesk Revit Básico](https://www.youtube.com/playlist?list=PLl1Fp7RMXFoUlGiJ01KHjqV-1MtT4Ktku){:target="_blank" rel="nofollow,noreferrer"}
+* [Autodesk Revit Introducción](https://www.espaciobim.com/cursos/bim/revit-gratis){:target="_blank" rel="nofollow,noreferrer"}
 * [Dibujo en AutoDesk sketchbook pro](https://www.youtube.com/playlist?list=PLECF6E9C208E7D3A5){:target="_blank" rel="nofollow,noreferrer"} (somosDI, YouTube)
 
 ### Blender
