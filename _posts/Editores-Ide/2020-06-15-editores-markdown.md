@@ -35,9 +35,10 @@ Vamos a echar un vistazo a los editores creados por y para ser usados con el len
 - [3. **Boostnote**](#3-boostnote)
 - [4. **Haroopad**](#4-haroopad)
 - [5. **Editores de Makrdown en Línea**](#5-editores-de-makrdown-en-línea)
-  - [5.1 **StackEdit**](#51-stackedit)
-  - [5.2 **Dillinger**](#52-dillinger)
-  - [5.3 **Hackmd.io**](#53-hackmdio)
+  - [5.1 **FocuxFox**](#51-focuxfox)
+  - [5.2 **StackEdit**](#52-stackedit)
+  - [5.3 **Dillinger**](#53-dillinger)
+  - [5.4 **Hackmd.io**](#54-hackmdio)
 - [**Enlaces a recursos sobre MarkDown**](#enlaces-a-recursos-sobre-markdown)
 
 ## **¿Qué es Markdown?**
@@ -186,7 +187,15 @@ Una pega, es que no tiene corrector (o eso creo)  no se lo he encontrado.
 
 Aplicaciones excelentes sobre todo en las situaciones que deseamos trabajar fuera de casa, desde otros ordenadores que no sean el nuestro o colaborar junto a otras personas.
 
-### 5.1 **StackEdit**
+### 5.1 **FocuxFox**
+
+FocusFox es un editor en línea gratuito **simple e inteligente** con sonidos de fondo para ayudarte a *enfocarte* exclusivamente en lo que necesitas, que utiliza las funciones de Markdown para agregar rápidamente el formato al texto sin formato; y además, agrega botones y una amplia chuleta de Markdown para los más principiantes.
+
+![visión del editor online de FocuxFox](/assets/images/blog/focuxfox-1.webp)
+
+La biblioteca de sonidas te ayudará a concentrarte, e incluye una opción de corrector ortográfico para los ~~ errores ~~ además de ofrecer el modo de escritura de minimalista y el modo oscuro de escritura.
+
+### 5.2 **StackEdit**
 
 Nos permite tres opciones rápidas de visualización; pantalla completa, mitad de pantalla para edición y la otra para la visualización o simplemente, ver una visualización final. 
 
@@ -198,7 +207,7 @@ El corrector ortográfico del navegador funciona perfectamente.
 
 [🔥 Probar StackEdit](https://stackedit.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-### 5.2 **Dillinger**
+### 5.3 **Dillinger**
 
 Otra muy buena opción, en este caso nos encontramos con una opción de pantalla completa más discreta; aunque de cualquier forma es visualmente muy elegante.
 
@@ -208,7 +217,7 @@ Permite conectarse, importar y exportar, a través de múltiples cuentas. Lo peo
 
 [🔥 Probar Dillinger](https://dillinger.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-### 5.3 **Hackmd.io**
+### 5.4 **Hackmd.io**
 
 Como las opciones anteriores, posee un aspecto muy agradable; y amplias opciones de usabilidad, incluso de tablas. Conexión, exportación e importación por varias cuentas.
 
