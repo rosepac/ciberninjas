@@ -24,15 +24,15 @@ header:
   caption: "Créditos: Unsplash"
   actions:
     - label: "Recursos Diseño Web"
-      url: "/diseño-grafico-recursos/"
+      url: "/cursos-animacion-diseno/"
 
 ---
 
-[Diseño Gráfico Recursos](/diseño-grafico-recursos/){: .btn .btn--inverse .btn--large} [Aprender Diseño Gráfico](/diseño-grafico/){: .btn .btn--inverse .btn--large} [Diseño Web Recursos](/diseño-web-recursos/){: .btn .btn--inverse .btn--large} [Aprender Diseño Web](/diseño-web/){: .btn .btn--inverse .btn--large}
+[Diseño Gráfico Recursos](/cursos-animacion-diseno/){: .btn .btn--inverse .btn--large} [Aprender Diseño Gráfico](/diseño-grafico/){: .btn .btn--inverse .btn--large} [Diseño Web Recursos](/diseño-web-recursos/){: .btn .btn--inverse .btn--large} [Aprender Diseño Web](/diseño-web/){: .btn .btn--inverse .btn--large}
 
 ### Índice
 
-[Animación & 3D 🔳](/diseño-grafico-recursos/#animaci%c3%b3n--3d){: .btn .btn--inverse .btn--large} [Arquitectura 🏗](/diseño-grafico-recursos/#arquitectura){: .btn .btn--inverse .btn--large} [Arte & Cultura 🎨](/diseño-grafico-recursos/#arte--cultura){: .btn .btn--inverse .btn--large} [Comunicaciones & Sonido 📞](/diseño-grafico-recursos/#comunicaciones--sonido){: .btn .btn--inverse .btn--large} [Dibujo 🖌](/diseño-grafico-recursos/#dibujo) [Diseño 👩‍🎨](/diseño-grafico-recursos/#dise%c3%b1o){: .btn .btn--inverse .btn--large} [Diseño Editorial 📐](/diseño-grafico-recursos/#dise%c3%b1o-editorial){: .btn .btn--inverse .btn--large} [Diseño Photoshop & Gimp 👨‍🎨](/diseño-grafico-recursos/#dise%c3%b1o-photoshop--gimp){: .btn .btn--inverse .btn--large} [Diseño Vectorial ✏](/diseño-grafico-recursos/#dise%c3%b1o-vectorial){: .btn .btn--inverse .btn--large} [Fotografía´📸](/diseño-grafico-recursos/#fotograf%c3%ada){: .btn .btn--inverse .btn--large} [Sonido 🔊](/diseño-grafico-recursos/#sonido){: .btn .btn--inverse .btn--large} [Vídeo 📹](/diseño-grafico-recursos/#v%c3%addeo){: .btn .btn--inverse .btn--large}
+[Animación & 3D 🔳](/cursos-animacion-diseno/#animaci%c3%b3n--3d){: .btn .btn--inverse .btn--large} [Arquitectura 🏗](/cursos-animacion-diseno/#arquitectura){: .btn .btn--inverse .btn--large} [Arte & Cultura 🎨](/cursos-animacion-diseno/#arte--cultura){: .btn .btn--inverse .btn--large} [Comunicaciones & Sonido 📞](/cursos-animacion-diseno/#comunicaciones--sonido){: .btn .btn--inverse .btn--large} [Dibujo 🖌](/cursos-animacion-diseno/#dibujo){: .btn .btn--inverse .btn--large} [Diseño 👩‍🎨](/cursos-animacion-diseno/#dise%c3%b1o){: .btn .btn--inverse .btn--large} [Diseño Editorial 📐](/cursos-animacion-diseno/#diseño-editorial){: .btn .btn--inverse .btn--large} [Diseño Photoshop & Gimp 👨‍🎨](/cursos-animacion-diseno/#dise%c3%b1o-photoshop--gimp){: .btn .btn--inverse .btn--large} [Diseño Vectorial ✏](/cursos-animacion-diseno/#dise%c3%b1o-vectorial){: .btn .btn--inverse .btn--large} [Fotografía´📸](/cursos-animacion-diseno/#fotograf%c3%ada){: .btn .btn--inverse .btn--large} [Sonido 🔊](/cursos-animacion-diseno/#sonido){: .btn .btn--inverse .btn--large} [Vídeo 📹](/cursos-animacion-diseno/#v%c3%addeo){: .btn .btn--inverse .btn--large}
 
 ## Animación & 3D
 
