@@ -1,14 +1,14 @@
 main:
   - title: "🔗 Secciones"
     url: /aprender/
-  - title: "🎁 Tienda"
-    url: /amazon/
-  - title: "📚 Librería"
-    url: /catalogo/
+  - title: "👨‍🏫 Cursos"
+    url: /cursos-tecnologia/
+  - title: "📕 Biblioteca"
+    url: /biblioteca-de-programacion-y-tecnologia/
   - title: "💘 Guías"
     url: /guias/
-  - title: "🧰 Recursos"
-    url: https://kutt.it/recursos-globales"
+  - title: "🛒 Tienda"
+    url: "/amazon/"
 # Cambiar enlace de recursos por el enlace de recursos de mi página de programas y dentro de ella añadir este enlace de Notion
 # Menú del Catálogo de Productos en Venta
 # catalogo:
