@@ -273,13 +273,13 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 09 / 07 / 2020
 
-⏰ DojoConf | Conferencias GRATIS (9 de Julio - 15:30) 👇
+⏰ DojoConf: Conferencia(9 de Julio - 15:30) 👇
 
 <a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ## Eventos para el 12 de Julio de 2020
 
-⏰ DojoConf | Conferencias GRATIS (12 de Julio - 20:00) 👇
+⏰ DojoConf: Conferencia (12 de Julio - 20:00) 👇
 
 <a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
@@ -313,11 +313,13 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 ### Eventos para el 12 de Agosto de 2020
 
 ⏰ Neo4J - 13h00 - Neo4j Introducción y Modelo de Datos - con partner GraphEverywhere
+
 <a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ### Eventos para el 15 de Agosto de 2020
 
 ⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española)
+
 <a href='https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
