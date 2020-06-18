@@ -9,6 +9,7 @@ last_modified_at:
 classes: wide
 # Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 header:
+  teaser: "/assets/images/blog/final_sdk_varios.webp"
   overlay_image: "/assets/images/blog/final_sdk_varios.webp"
   overlay_filter: "0.2"
   image_description: "Los Mejores SDK Multiplaforma que existen para el año 2020 \ Visto en Ciberninjas"
