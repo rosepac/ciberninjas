@@ -32,34 +32,34 @@ header:
 #  caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
 ---
 
-Esta página se encarga de mostrarte todos los eventos de tecnología y en habla hispana para los próximos días, con el objetivo de ofrecer a todos los amantes de la tecnología. Si deseas participar y agregar algún evento, solamente informa del mismo a: [rosepac21@gmail.com](mailto:rosepac21@gmail.com "Correo electrónico del Webmaster"){target="_blank"}. Esta página se actualiza a diario.. 🤞
+Esta página se encarga de mostrarte todos los eventos de tecnología y en habla hispana para los próximos días, con el objetivo de ofrecer a todos los amantes de la tecnología. Si deseas participar y agregar algún evento, solamente informa del mismo a: [rosepac21@gmail.com](mailto:rosepac21@gmail.com "Correo electrónico del Webmaster"){:target="_blank"}. Esta página se actualiza a diario.. 🤞
 
 > **Las horas aquí publicadas referencian a la hora española: Argentina (5 Horas Menos). Venezuela (6 Horas Menos). México, Colombia (7 Horas Menos)**
 {: .notice--primary}
 
 ## **Eventos tecnológicos de Junio**
 
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o [tu próximo dispositivo en Amazon] a través de mi <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlace de afiliado.**
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
 ### Eventos para el 18 de Junio de 2020
 
 ⏰ Neo4J (13 H. Española)
-https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
+<a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ⏰ Webinar | ¡El loco, loco loco mundo de JavaScript! (Hoy, a las 16:00 H. Española)
-https://www.eventbrite.es/e/entradas-webinar-el-loco-loco-loco-mundo-de-javascript-106773891584?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
+<a href='https://www.eventbrite.es/e/entradas-webinar-el-loco-loco-loco-mundo-de-javascript-106773891584?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-webinar-el-loco-loco-loco-mundo-de-javascript-106773891584?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ⏰ Webinar CACE - Nuevos procesos ágiles de innovación (Hoy, a las 16:00 H. Española)
-https://www.eventbrite.com.ar/e/webinar-cace-nuevos-procesos-agiles-de-innovacion-tickets-108731721506?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
+<a href='https://www.eventbrite.com.ar/e/webinar-cace-nuevos-procesos-agiles-de-innovacion-tickets-108731721506?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/webinar-cace-nuevos-procesos-agiles-de-innovacion-tickets-108731721506?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ⏰ Herramientas de Infraworks y Civil 3D | TMK (16 H. Española)
-https://www.eventbrite.es/e/18-junio-herramientas-de-infraworks-y-civil-3d-tmk-tickets-107827880092?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
+<a href='https://www.eventbrite.es/e/18-junio-herramientas-de-infraworks-y-civil-3d-tmk-tickets-107827880092?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/18-junio-herramientas-de-infraworks-y-civil-3d-tmk-tickets-107827880092?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ⏰ Creación musical original para cine, corto o video (16 H. Española)
-https://www.eventbrite.com.mx/e/registro-creacion-musical-original-para-cine-corto-o-video-109441059154?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
+<a href='https://www.eventbrite.com.mx/e/registro-creacion-musical-original-para-cine-corto-o-video-109441059154?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.mx/e/registro-creacion-musical-original-para-cine-corto-o-video-109441059154?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o [tu próximo dispositivo en Amazon] a través de mi <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlace de afiliado.**
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
 ⏰ Historias de Juegos Digitales en Cooperativas (17:00 H. Española)
@@ -95,7 +95,7 @@ https://www.eventbrite.es/e/entradas-ingenieria-social-ciberseguridad-1054599876
 ⏰ Charla introductoria a Bitcoin y Blockchain (19:00 H. Española)
 https://www.eventbrite.com.ar/e/charla-introductoria-a-bitcoin-y-blockchain-tickets-106640298002?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
 
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o [tu próximo dispositivo en Amazon] a través de mi <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlace de afiliado.**
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
 ⏰ Ataques Avanzados Sobre Pasarelas de Pago (22:00 Horas)
@@ -124,7 +124,7 @@ https://www.eventbrite.com.mx/e/taller-de-mezcla-digital-tickets-102849836630?ut
 ⏰ IOT y Blockchain - Activation Programme | Powering Disruption (11:00 Horas)
 https://www.eventbrite.es/e/entradas-activation-programme-powering-disruption-109281521974?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
 
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o [tu próximo dispositivo en Amazon] a través de mi <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlace de afiliado.**
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
 ⏰ Workflow de maya a Substance painter (18:00 H.)
@@ -169,7 +169,7 @@ https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-10370
 
 ## **Eventos tecnológicos de Agosto**
 
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o [tu próximo dispositivo en Amazon] a través de mi <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlace de afiliado.**
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
 ### Eventos para el 12 de Agosto de 2020
@@ -182,7 +182,7 @@ https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-10370
 ⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española)
 https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
 
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o [tu próximo dispositivo en Amazon] a través de mi <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlace de afiliado.**
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
 ## **Calendario de Eventos Tecnológicos en Inglés 📆**
