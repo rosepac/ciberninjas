@@ -1,7 +1,7 @@
 ---
 title: "Noticias en Directo de Programación & Tecnología"
-description: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una importante recopilación de listas de Twitter."
-excerpt: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter en las que se recogen todas las cuentas de mayor importancia de amplios campos de la informática."
+description: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter sobre información tecnológica."
+excerpt: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter sobre información tecnológica."
 layout: splash
 collection: directo
 permalink: /directo/
@@ -24,7 +24,7 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/paginas/tecnologia-noticias.webp
   image_description: Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter en las que se recogen todas las cuentas de mayor importancia de amplios campos de la informática | Visto en Ciberninjas
-  image_alt:
+  image_alt: Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter en las que se recogen todas las cuentas de mayor importancia de amplios campos de la informática | Visto en Ciberninjas
 #  actions:
 #    - label: "🎓 Cursos"
 #      url: "/cursos-tecnologia/"
