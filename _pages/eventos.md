@@ -1,5 +1,5 @@
 ---
-title: "Eventos de Hoy sobre Programación, Diseño, Tecnología y Ciencias"
+title: "Eventos de Hoy sobre Tecnología, Programación, Diseño"
 description: "Los eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
 excerpt: "Los eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
 layout: splash
@@ -37,10 +37,9 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 > **Las horas aquí publicadas referencian a la hora española: Argentina (5 Horas Menos). Venezuela (6 Horas Menos). México, Colombia (7 Horas Menos)**
 {: .notice--primary}
 
-## **Eventos tecnológicos de Junio**
+<!-- ⏰ (:) 👇 https://www.eventbrite.com.ar/d/online/free--science-and-tech--events/?lang=es&page=1 , https://www.eventbrite.com.ar/d/online/free--classes/?lang=es&page=1 -->
 
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
-{: .notice--warning}
+## **Eventos tecnológicos de Junio**
 
 ### Eventos para el 18 de Junio de 2020
 
@@ -56,6 +55,9 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 <a href='https://www.eventbrite.com.ar/e/webinar-cace-nuevos-procesos-agiles-de-innovacion-tickets-108731721506?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/webinar-cace-nuevos-procesos-agiles-de-innovacion-tickets-108731721506?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
+{: .notice--warning}
+
 ⏰ **Herramientas de Infraworks y Civil 3D: TMK** (16 H. Española) 👇
 
 <a href='https://www.eventbrite.es/e/18-junio-herramientas-de-infraworks-y-civil-3d-tmk-tickets-107827880092?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/18-junio-herramientas-de-infraworks-y-civil-3d-tmk-tickets-107827880092?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
@@ -63,9 +65,6 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 ⏰ **Creación musical original para cine, corto o video** (16 H. Española) 👇
 
 <a href='https://www.eventbrite.com.mx/e/registro-creacion-musical-original-para-cine-corto-o-video-109441059154?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.mx/e/registro-creacion-musical-original-para-cine-corto-o-video-109441059154?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
-{: .notice--warning}
 
 ⏰ **Historias de Juegos Digitales en Cooperativas** (17:00 H. Española) 👇
 
@@ -78,6 +77,9 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 ⏰ **Webinar Estamos CiberExpuestos Te contaremos como protegerte** (17:00 H. Española) 👇
 
 <a href='https://www.eventbrite.co/e/webinar-estamos-ciberexpuestos-te-contaremos-como-protegerte-tickets-107555294782?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.co/e/webinar-estamos-ciberexpuestos-te-contaremos-como-protegerte-tickets-107555294782?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
+{: .notice--warning}
 
 ⏰ **Virtual Info Session • Music Business** (17:00 H. Española) 👇
 
@@ -99,6 +101,9 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 <a href='https://www.eventbrite.es/e/entradas-hackbeers-remakes-vol-3-109315700202?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-hackbeers-remakes-vol-3-109315700202?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
+{: .notice--warning}
+
 ⏰ **Evolución de los perfiles profesionales DATA** (19:00) 👇
 
 <a href='https://www.eventbrite.es/e/entradas-charla-abierta-evolucion-de-los-perfiles-profesionales-data-108850825750?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-charla-abierta-evolucion-de-los-perfiles-profesionales-data-108850825750?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
@@ -115,9 +120,6 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 <a href='https://www.eventbrite.com.ar/e/charla-introductoria-a-bitcoin-y-blockchain-tickets-106640298002?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/charla-introductoria-a-bitcoin-y-blockchain-tickets-106640298002?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
-{: .notice--warning}
-
 ⏰ **Ataques Avanzados Sobre Pasarelas de Pago** (22:00 Horas) 👇
 
 <a href='https://www.eventbrite.es/e/entradas-ataques-avanzados-sobre-pasarelas-de-pago-109038456960?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-ataques-avanzados-sobre-pasarelas-de-pago-109038456960?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
@@ -125,6 +127,9 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 ⏰ **Blockchain desde una perspectiva de negocios** (22:10 Horas) 👇
 
 <a href='https://www.eventbrite.com.ar/e/blockchain-desde-una-perspectiva-de-negocios-tickets-109856567952?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/blockchain-desde-una-perspectiva-de-negocios-tickets-109856567952?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
+{: .notice--warning}
 
 ⏰ **Diseñar productos para Ciudades Inteligentes** (22:30 Horas) 👇
 
@@ -152,9 +157,6 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 <a href='https://www.eventbrite.es/e/entradas-activation-programme-powering-disruption-109281521974?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-activation-programme-powering-disruption-109281521974?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
-{: .notice--warning}
-
 ⏰ **Ciclo de Webinars sobre Agilidad: El Scrum Master más allá de las ceremonias** (13:00 H.) 👇
 
 <a href='https://www.eventbrite.com.ar/e/registro-ciclo-de-webinars-sobre-agilidad-103235650610?aff=estw&utm_source=tw&utm_medium=discovery&utm_content=attendeeshare&utm_campaign=social&utm_term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/registro-ciclo-de-webinars-sobre-agilidad-103235650610?aff=estw&utm_source=tw&utm_medium=discovery&utm_content=attendeeshare&utm_campaign=social&utm_term=listing</a>
@@ -166,6 +168,9 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 ⏰ **Vue Vixens MX Online** (19:00)
 
 <a href='https://www.eventbrite.com.mx/e/vue-vixens-mx-online-junio-tickets-109321373170?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.mx/e/vue-vixens-mx-online-junio-tickets-109321373170?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
+{: .notice--warning}
 
 ⏰ **Capacitación Google sites para hacer tus propios sitios gratis** (21:00 Horas) 👇
 
@@ -197,6 +202,9 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ⏰ **Sistemas de Diseño para Principiantes: Producto Digital** (18:30 Hora española) 👇
 <a href='https://www.eventbrite.es/e/entradas-sistemas-de-diseno-producto-digital-105455235448?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-sistemas-de-diseno-producto-digital-105455235448?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+> **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
+{: .notice--warning}
 
 ⏰ **Aprende Microservicios con Spring Boot** (19:00 Hora española) 👇
 
@@ -288,10 +296,6 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 ⏰ Jump! Tecnología (18 y 19 - 14:00) 👇
 
 <a href='https://www.eventbrite.com.ar/e/jump-tecnologia-tickets-94891504043?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/jump-tecnologia-tickets-94891504043?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ (:) 👇
-⏰ (:) 👇
-⏰ (:) 👇
 
 ## Eventos para el 23 de Julio de 2020
 
