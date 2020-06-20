@@ -51,21 +51,13 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 <a href='https://www.eventbrite.es/e/entradas-taller-de-autodesk-inventor-104067197790?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-taller-de-autodesk-inventor-104067197790?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-⏰ **** (00:00 Hora española) 👇
-⏰ **** (00:00 Hora española) 👇
-⏰ **** (00:00 Hora española) 👇
-⏰ **JUEGO LATINOAMERICANO DE EXCEL : HABILIDADES PARA LA VIDA** (21:00 Hora española) 👇
+⏰ **Juego Latinoaméricano de Excel: Habilidades para la Vida** (21:00 Hora española) 👇
 
 <a href='https://www.eventbrite.co/e/registro-juego-latinoamericano-de-excel-habilidades-para-la-vida-1-edicion-105238824156?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co/e/registro-juego-latinoamericano-de-excel-habilidades-para-la-vida-1-edicion-105238824156?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ⏰ **React Workshop 101** por Carolina Bustos (22:30 Hora española) 👇
 
 <a href='https://www.eventbrite.com.ar/e/react-workshop-101-4-tickets-109960659292?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/react-workshop-101-4-tickets-109960659292?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **** (00:00 Hora española) 👇
-⏰ **** (00:00 Hora española) 👇
-⏰ **** (00:00 Hora española) 👇
-⏰ **** (00:00 Hora española) 👇
 
 ### Eventos para el 21 de Junio de 2020
 
