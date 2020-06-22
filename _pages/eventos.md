@@ -41,35 +41,45 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ## **Eventos tecnológicos de Junio**
 
-### Eventos para el 20 de Junio de 2020
+### Eventos para el 22 de Junio de 2020
 
-⏰ **Ekoparty University 2020** (17:00 Hora española) 👇
+⏰ **Administración Pública: una relación con futuro**  por Itziar Leguinazabal y Santiago Segarra (12:00 Hora española) 👇
 
-<a href='https://www.eventbrite.com.ar/e/ekoparty-university-talks-chile-2020-tickets-106388691440?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/ekoparty-university-talks-chile-2020-tickets-106388691440?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+<a href='https://www.eventbrite.co.uk/e/los-lunes-con-inteligencia-artificial-ibm-tickets-103456164172?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co.uk/e/los-lunes-con-inteligencia-artificial-ibm-tickets-103456164172?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-⏰ **Taller de Autodesk Inventor** (19:00 Hora española) 👇
+⏰ **Model Creator: optimización en el preparado de modelos para impresión 3D** (13:00 Hora española) 👇
 
-<a href='https://www.eventbrite.es/e/entradas-taller-de-autodesk-inventor-104067197790?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-taller-de-autodesk-inventor-104067197790?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+<a href='https://www.eventbrite.es/e/entradas-model-creator-optimizacion-en-el-preparado-de-modelos-para-impresion-3d-86105859945?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-model-creator-optimizacion-en-el-preparado-de-modelos-para-impresion-3d-86105859945?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-⏰ **Juego Latinoaméricano de Excel: Habilidades para la Vida** (21:00 Hora española) 👇
+⏰ **IBM:  Agiliza la atención del centro de contacto con IA** (17:00 Hora española) 👇
 
-<a href='https://www.eventbrite.co/e/registro-juego-latinoamericano-de-excel-habilidades-para-la-vida-1-edicion-105238824156?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co/e/registro-juego-latinoamericano-de-excel-habilidades-para-la-vida-1-edicion-105238824156?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+<a href='https://www.eventbrite.com.mx/e/for-start-ups-corps-agiliza-la-atencion-del-centro-de-contacto-con-ia-tickets-107122401988?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.mx/e/for-start-ups-corps-agiliza-la-atencion-del-centro-de-contacto-con-ia-tickets-107122401988?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-⏰ **React Workshop 101** por Carolina Bustos (22:30 Hora española) 👇
+⏰ **Search Ads 360: Novedades en Search Ads 360** por Álvaro Verdeja (17:30 Hora española) 👇
 
-<a href='https://www.eventbrite.com.ar/e/react-workshop-101-4-tickets-109960659292?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/react-workshop-101-4-tickets-109960659292?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+<a href='https://www.eventbrite.es/e/registro-gmp-search-ads-360-novedades-en-search-ads-360-101282215834?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/registro-gmp-search-ads-360-novedades-en-search-ads-360-101282215834?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-### Eventos para el 21 de Junio de 2020
+⏰ **Animación con celular y Filmigo** (19:00 Hora española) 👇
 
-⏰ **Mr.Coin Vr Meetup** (00:00 Hora española) 👇
+<a href='https://www.eventbrite.com.mx/e/animacion-con-celular-y-filmigo-registration-109739752554?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.mx/e/animacion-con-celular-y-filmigo-registration-109739752554?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-<a href='https://www.eventbrite.es/e/entradas-mrcoin-vr-meetup-108503131788?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-mrcoin-vr-meetup-108503131788?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+⏰ **Sesiones virtuales de Mindfulness - Despliega tu mente creativa** (20:00 Hora española) 👇
 
-⏰ **React Workshop 101** por Carolina Bustos (00:30 Hora española) 👇
+<a href='https://www.eventbrite.es/e/entradas-sesiones-virtuales-de-mindfulness-despliega-tu-mente-creativa-109192858780?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-sesiones-virtuales-de-mindfulness-despliega-tu-mente-creativa-109192858780?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-<a href='https://www.eventbrite.com.ar/e/react-workshop-101-4-tickets-109960659292?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/react-workshop-101-4-tickets-109960659292?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+⏰ **Hablemos de Fintech: Qué son y su situación en Argentina** - JavaScript Linter Bot, Reutilización de Código, Elegante camino hacía las variables Fonts (23:00 Hora española) 👇
+
+<a href='https://www.eventbrite.com.ar/e/hablemos-de-fintech-que-son-y-su-situacion-en-argentina-tickets-109182204914?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/hablemos-de-fintech-que-son-y-su-situacion-en-argentina-tickets-109182204914?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+⏰ **#EncuentrosWebConf | Sesión 03: Bots, reutilizando código, Variable Fonts** - JavaScript Linter Bot, Reutilización de Código, Elegante camino hacía las variables Fonts (23:30 Hora española) 👇
+
+<a href='https://www.eventbrite.com.ar/e/encuentroswebconf-sesion-03-bots-reutilizando-codigo-variable-fonts-registration-110167963344?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/encuentroswebconf-sesion-03-bots-reutilizando-codigo-variable-fonts-registration-110167963344?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ### Eventos para el 23 de Junio de 2020
+
+⏰ **Aprendiendo a usar Teams** (01:00 Hora española) 👇
+
+<a href='https://www.eventbrite.com.mx/e/aprendiendo-a-usar-teams-registration-109680348876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.mx/e/aprendiendo-a-usar-teams-registration-109680348876?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ⏰ **Tableau para Aplicaciones Móviles** (14:00 Hora española) 👇
 
@@ -125,13 +135,17 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ### Eventos para el 29 de Junio de 2020
 
-⏰ Aprende Linux desde Cero (19:00 H.) 👇
+⏰ Empleabilidad en lnteligencia Artificial: hype vs realidad, por Maite Iniesta (12:00 H.) 👇
 
-<a href='https://www.eventbrite.es/e/entradas-webinar-aprende-linux-desde-cero-108969450560?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-webinar-aprende-linux-desde-cero-108969450560?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+<a href='https://www.eventbrite.co.uk/e/los-lunes-con-inteligencia-artificial-ibm-tickets-103456164172?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co.uk/e/los-lunes-con-inteligencia-artificial-ibm-tickets-103456164172?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ⏰ Machine Learning 101 Webinar (16:00 H.) 👇
 
 <a href='https://www.eventbrite.com/e/registro-machine-learning-101-webinar-108077643140?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-machine-learning-101-webinar-108077643140?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+⏰ Aprende Linux desde Cero (19:00 H.) 👇
+
+<a href='https://www.eventbrite.es/e/entradas-webinar-aprende-linux-desde-cero-108969450560?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-webinar-aprende-linux-desde-cero-108969450560?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ### Eventos para el 30 de Junio de 2020
 
@@ -149,6 +163,12 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 ⏰ Ciclo de Webinars sobre Agilidad: Mi evolución como Scrum Master a Líder Servil (13:00 H.)
 
 <a href='https://www.eventbrite.com.ar/e/registro-ciclo-de-webinars-sobre-agilidad-103235650610?aff=estw&utm_source=tw&utm_medium=discovery&utm_content=attendeeshare&utm_campaign=social&utm_term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/registro-ciclo-de-webinars-sobre-agilidad-103235650610?aff=estw&utm_source=tw&utm_medium=discovery&utm_content=attendeeshare&utm_campaign=social&utm_term=listing</a>
+
+## Eventos para el 06 de Julio de 2020
+
+⏰ Startups y las APIs (Días 6, 8 y 10)
+
+<a href='https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
 ## Eventos para el 08 de Julio de 2020
 
@@ -268,3 +288,14 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 - ⏰ **Autos Inteligentes con AWS Greengrass - Parte 1 AWS Lambda para IoT** (00:00 Hora española -madrugada del viernes al sábado-) 
 - ⏰ **Introducción al Diseño Interior** (00:00 Hora española -madrugada del viernes al sábado-)
 - ⏰ **Design thinking** (01:30 Hora española -madrugada del viernes al sábado-)
+- ### Eventos para el 20 de Junio de 2020
+
+- ⏰ **Ekoparty University 2020** (17:00 Hora española)
+- ⏰ **Taller de Autodesk Inventor** (19:00 Hora española)
+- ⏰ **Juego Latinoaméricano de Excel: Habilidades para la Vida** (21:00 Hora española)
+- ⏰ **React Workshop 101** por Carolina Bustos (22:30 Hora española)
+
+### Eventos para el 21 de Junio de 2020
+
+- ⏰ **Mr.Coin Vr Meetup** (00:00 Hora española)
+- ⏰ **React Workshop 101** por Carolina Bustos (00:30 Hora española)
