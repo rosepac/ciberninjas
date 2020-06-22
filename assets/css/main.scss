@@ -51,10 +51,10 @@ $header-font-family : $serif;
 // Cambiar el subrayado del texto.
 @import "{{ site.theme }}";
 ::selection {
-    background: rgb(236, 55, 50) !important;
+    background: rgb(0,131,0) !important;
     color: rgb(255, 255, 255) !important;
 }
 ::-moz-selection {
-    background:rgb(236, 55, 50) !important;
+    background:rgb(0,131,0) !important;
     color: rgb(255, 255, 255) !important;
 }
