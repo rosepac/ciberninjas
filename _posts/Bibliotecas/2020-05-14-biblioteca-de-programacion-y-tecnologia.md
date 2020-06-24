@@ -422,8 +422,10 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 * [Crear Juego de Persecución](https://resources.scratch.mit.edu/www/cards/es/chase-cards.pdf){:target="_blank" rel="nofollow"} [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/ChaseGuide.pdf){:target="_blank" rel="nofollow"} [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=chase-game){:target="_blank" rel="nofollow"}
 * [Crear Música](https://resources.scratch.mit.edu/www/cards/es/music-cards.pdf){:target="_blank" rel="nofollow"} [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/MusicGuide.pdf){:target="_blank" rel="nofollow"} [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=music){:target="_blank" rel="nofollow"}
 * [Guía de Referencia de Scratch 2.0](https://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/ScratchGuiaReferencia.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Informática Creativa](https://drive.google.com/file/d/1bYwxm0MdV2uB_Ymuu6uoOVd9Ew_nKN0l/view?usp=sharing){:target="_blank" rel="nofollow"} (PDF)
 * [Manual de Scratch](https://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/manual%20scratch.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Manual de Scratch 2](https://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf){:target="_blank" rel="nofollow"}  (PDF)
+* [Scratch al Sur](https://scratchalsur.org/assets/computaci%C3%B3n-creativa.pdf){:target="_blank" rel="nofollow"}
 * [Sensor de Vídeo](https://resources.scratch.mit.edu/www/cards/es/video-cards.pdf){:target="_blank" rel="nofollow"} [Guía Profesor, en Inglés](https://resources.scratch.mit.edu/www/guides/en/VideoGuide.pdf){:target="_blank" rel="nofollow"} [Practicar](https://scratch.mit.edu/projects/editor/?tutorial=video-sensing){:target="_blank" rel="nofollow"}
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
