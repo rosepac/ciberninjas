@@ -114,6 +114,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 [Herramientas 🧰](/biblioteca-de-programacion-y-tecnologia/#-meta-listas-herramientas){: .btn .btn--inverse .btn--large} [Cursos Online 🌐](/biblioteca-de-programacion-y-tecnologia/#-cursos-masivos-en-línea){: .btn .btn--inverse .btn--large}
 
 * [Aprender Python](https://kutt.it/meta-aprendiendo-python){:target="_blank" rel="nofollow"} - Python Argentina
+* [Aprender Java](http://www.javahispano.org/documentacion/){:target="_blank" rel="nofollow"} - Java Hispano
 * [Apuntes Completos de Desarrollo Web](https://kutt.it/apuntes-desarrollo-web-jorge){:target="_blank" rel="nofollow"} - Jorge Sánchez
 * [Bibliotecas de Libros Digitales en Abierto](/biblioteca-novela-poesia/){:target="_blank" rel="nofollow"}
 * [Biblioteca Virtual: Miguel de Cervantes](https://www.cervantesvirtual.com){:target="_blank" rel="nofollow"}
@@ -729,6 +730,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Aprenda Java como si estuviera en primero](https://fiwiki.org/images/9/9c/Aprenda_Java_como_si_estuviera_en_primero.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Aprendiendo Java y POO (2008)](https://www.decom-uv.cl/~roberto/apuntes/java/AprendiendoJava.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) (PDF)
 * [Desarrollo de proyectos informáticos con Java](https://www3.uji.es/~belfern/libroJava.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java){:target="_blank" rel="nofollow"} - F.M. Pérez Montes (PDF)
 * [Java](https://www.arkaitzgarro.com/java){:target="_blank" rel="nofollow"} (HTML)
@@ -824,6 +826,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ## Perl
 
 * [La programación de Perl para Unix (1997)](https://www.el.bqto.unexpo.edu.ve/~jaguero/docs/varios/perlMexico.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Piensa en Perl 6](https://gitlab.com/uzluisf/piensaperl6/raw/master/PDF/piensaperl6.pdf) (PDF)
 * [Tutorial Perl](https://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Tutorial Perl](https://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Tutoriales de Perl](https://perlenespanol.com/tutoriales/){:target="_blank" rel="nofollow"} (HTML)
