@@ -145,6 +145,21 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
+## Algoritmos 🔡
+
+* [Algoritmos y Programación (Guía para docentes)](https://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Aprenda a programar como si estuviera en primero](https://openlibra.com/es/book/download/aprenda-a-programar-como-si-estuviera-en-primero){:target="_blank" rel="nofollow"} (PDF)
+* [Apuntes de Algoritmos y Estructuras de Datos](https://146fd953-a-62cb3a1a-s-sites.googlegroups.com/site/prog3unlp/home/exp_algoritmos.pdf?attachauth=ANoY7cpP-tS9_7vAio7Zm7sr3kuK_rfKNFRjLCLT99k8BTxN1ZNUtYwkeTHPmCXHGmk3ruFmw6gXJxFI7eUElxP-6__Z28cUtYQDYg0HzZ104WMkc1i3TbQ2NMyQejkUvw1Xj5jY4tig4ghNyQhesMV2yogm33JkaNyVIQsKFu7J6mn__taPYsCcgzb5GwdhQECVJYrA3RBakA9jTXXWx6gA9p7i8hb_je8g9W3r35eN9AE0I9uGb8U%3D&attredirects=0){:target="_blank" rel="nofollow"} (PDF)
+* [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [DevOps: La Perspectiva de las Operaciones](https://leanpub.com/devops-the-ops-perspective-spanish?){:target="_blank" rel="nofollow"} (PDF)
+* [Fundamentos de Informática y Programación](https://robotica.uv.es/Libro/Indice.html){:target="_blank" rel="nofollow"} (HTML)
+* [Fundamentos de la Programación](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Introducción al desarrollo del software](https://softlibre.unizar.es/manuales/linux/reference.es.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos){:target="_blank" rel="nofollow"} (Bubok)
+
+[⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
+
 ## 📁 Bases de Datos
 
 [Big Data 👨‍👩‍👦](/biblioteca-de-programacion-y-tecnologia/#big-data-){: .btn .btn--inverse .btn--large} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn--inverse .btn--large} [NoSQL](/biblioteca-de-programacion-y-tecnologia/#nosql){: .btn .btn--inverse .btn--large} [MySQL](/biblioteca-de-programacion-y-tecnologia/#mysql){: .btn .btn--inverse .btn--large} [SQL](/biblioteca-de-programacion-y-tecnologia/#sql){: .btn .btn--inverse .btn--large}
@@ -258,21 +273,6 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 [⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Algoritmos 🔡
-
-* [Algoritmos y Programación (Guía para docentes)](https://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Aprenda a programar como si estuviera en primero](https://openlibra.com/es/book/download/aprenda-a-programar-como-si-estuviera-en-primero){:target="_blank" rel="nofollow"} (PDF)
-* [Apuntes de Algoritmos y Estructuras de Datos](https://146fd953-a-62cb3a1a-s-sites.googlegroups.com/site/prog3unlp/home/exp_algoritmos.pdf?attachauth=ANoY7cpP-tS9_7vAio7Zm7sr3kuK_rfKNFRjLCLT99k8BTxN1ZNUtYwkeTHPmCXHGmk3ruFmw6gXJxFI7eUElxP-6__Z28cUtYQDYg0HzZ104WMkc1i3TbQ2NMyQejkUvw1Xj5jY4tig4ghNyQhesMV2yogm33JkaNyVIQsKFu7J6mn__taPYsCcgzb5GwdhQECVJYrA3RBakA9jTXXWx6gA9p7i8hb_je8g9W3r35eN9AE0I9uGb8U%3D&attredirects=0){:target="_blank" rel="nofollow"} (PDF)
-* [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [DevOps: La Perspectiva de las Operaciones](https://leanpub.com/devops-the-ops-perspective-spanish?){:target="_blank" rel="nofollow"} (PDF)
-* [Fundamentos de Informática y Programación](https://robotica.uv.es/Libro/Indice.html){:target="_blank" rel="nofollow"} (HTML)
-* [Fundamentos de la Programación](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Introducción al desarrollo del software](https://softlibre.unizar.es/manuales/linux/reference.es.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos){:target="_blank" rel="nofollow"} (Bubok)
-
-[⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
 ## 🛒 Comercio Electrónico
 
 * [¿Cuál es la mejor plataforma de comercio electrónico para emprendedores?](https://www.prochile.gob.cl/wp-content/uploads/2019/03/2-Cual-es-la-mejor-plataforma-de-comercio-electronico-para-emprendedores.pdf) (PDF) (2018)
@@ -323,7 +323,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 * [Tostadores y Posix (1999)](https://www.ctr.unican.es/publications/mgh-cdl-1997a.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Trampa en el Cyberespacio](https://fortinux.com/wp-content/uploads/2010/12/trampacyberespacio.pdf){:target="_blank" rel="nofollow"} (PDF)
 
-## Hacktivismo
+### Hacktivismo
 
 * [El Kit de la Lucha en Internet](https://www.traficantes.net/sites/default/files/pdfs/El%20kit%20de%20la%20lucha%20en%20Internet-TdS.pdf){:target="_blank" rel="nofollow"} (2012)
 
@@ -431,6 +431,22 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
+## 🕸 Redes
+
+* [Configuración manual con DHCP de redes WLAN protegidas con WPA/WPA2 en Debian 7.9](https://www.researchgate.net/publication/333971201_Configuracion_manual_con_DHCP_de_redes_WLAN_protegidas_con_WPAWPA2_en_Debian_79) (PDF) (2015)
+
+### Servicios en red
+
+* [Aulas en red. Aplicaciones y servicios. Linux](https://www.ite.educacion.es/formacion/materiales/85/cd/linux/indice.htm){:target="_blank" rel="nofollow"}
+* [Aulas en red. Aplicaciones y servicios. Windows](https://www.ite.educacion.es/formacion/materiales/85/cd/windows/indice.htm){:target="_blank" rel="nofollow"}
+* [Charlas para DevOps](https://lookaside.fbsbx.com/file/devops.pdf?token=AWzqS0t11bV9S9X8d2D4Uo1-JT39NDBGgUHIJN19tlEZw8XR7Ir_NHBJLB8fa2onbXqjA_ceJo5iK931OQ9iZracvFG0W9bGSQJuU9FPloCNSFG0MBQQbHID2i8bCOJ039fCPQ-VbKik8DPgkJgMp7Qij03NrA5M1kQD0ZOgsR3bTA){:target="_blank" rel="nofollow"} (PDF)
+* [Redes. Contenido de Cisco: CCNA](https://nksistemas.com/curso-de-redes-online-contenidos-de-ccna){:target="_blank" rel="nofollow"} (HTML)
+* [Técnicas para armado de redes LAN utilizando Software Libre](https://fortinux.com/wp-content/uploads/2010/12/redes.pdf){:target="_blank" rel="nofollow"} (PDF)
+
+### Virtualización
+
+* [VMWare por Expertos - Por una buena causa](https://drive.google.com/drive/folders/1gTWuEAMN503ytNiWRtFePVRD8KZOEe18) (PDF) ([Donativo](https://www.ceafa.es/es/colaborar/donaciones))
+
 ## 👮‍♀️ Seguridad
 
 [Criptografía 🔓](/biblioteca-de-programacion-y-tecnologia/#criptografía-){: .btn .btn--inverse .btn--large}
@@ -468,26 +484,10 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## Criptografía 🔓
 
-* [Alnum: sistema de codificación de caracteres alfanuméricos](https://www.researchgate.net/publication/333967818_Alnum_alphanumeric_character_encoding_system_CIDSI_2018)
-* [Sistema de Autenticación por credenciales criptográficas disociadas](https://www.researchgate.net/publication/333967679_SACRED_-_Sistema_de_Autenticacion_por_credenciales_criptograficas_disociadas_Authentication_system_by_dissociation_of_cryptographic_credentials_CIDSI_2018) (PDF) (2018)
+* [Alnum: sistema de codificación de caracteres alfanuméricos](https://www.researchgate.net/publication/333967818_Alnum_alphanumeric_character_encoding_system_CIDSI_2018){:target="_blank" rel="nofollow"}
+* [Sistema de Autenticación por credenciales criptográficas disociadas](https://www.researchgate.net/publication/333967679_SACRED_-_Sistema_de_Autenticacion_por_credenciales_criptograficas_disociadas_Authentication_system_by_dissociation_of_cryptographic_credentials_CIDSI_2018){:target="_blank" rel="nofollow"} (PDF) (2018)
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
-## 🕸 Redes
-
-* [Configuración manual con DHCP de redes WLAN protegidas con WPA/WPA2 en Debian 7.9](https://www.researchgate.net/publication/333971201_Configuracion_manual_con_DHCP_de_redes_WLAN_protegidas_con_WPAWPA2_en_Debian_79) (PDF) (2015)
-
-### Servicios en red
-
-* [Aulas en red. Aplicaciones y servicios. Linux](https://www.ite.educacion.es/formacion/materiales/85/cd/linux/indice.htm){:target="_blank" rel="nofollow"}
-* [Aulas en red. Aplicaciones y servicios. Windows](https://www.ite.educacion.es/formacion/materiales/85/cd/windows/indice.htm){:target="_blank" rel="nofollow"}
-* [Charlas para DevOps](https://lookaside.fbsbx.com/file/devops.pdf?token=AWzqS0t11bV9S9X8d2D4Uo1-JT39NDBGgUHIJN19tlEZw8XR7Ir_NHBJLB8fa2onbXqjA_ceJo5iK931OQ9iZracvFG0W9bGSQJuU9FPloCNSFG0MBQQbHID2i8bCOJ039fCPQ-VbKik8DPgkJgMp7Qij03NrA5M1kQD0ZOgsR3bTA){:target="_blank" rel="nofollow"} (PDF)
-* [Redes. Contenido de Cisco: CCNA](https://nksistemas.com/curso-de-redes-online-contenidos-de-ccna){:target="_blank" rel="nofollow"} (HTML)
-* [Técnicas para armado de redes LAN utilizando Software Libre](https://fortinux.com/wp-content/uploads/2010/12/redes.pdf){:target="_blank" rel="nofollow"} (PDF)
-
-### Virtualización
-
-* [VMWare por Expertos - Por una buena causa](https://drive.google.com/drive/folders/1gTWuEAMN503ytNiWRtFePVRD8KZOEe18) (PDF) ([Donativo](https://www.ceafa.es/es/colaborar/donaciones))
 
 ## Sistemas Operativos
 
@@ -758,7 +758,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ### Angular <i class="fab fa-angular"></i>
 
-* [Cómo aprender AngularJS](https://raulexposito.com/documentos/como-aprender-angularjs){:target="_blank" rel="nofollow"} (HTML)
+* [Cómo aprender AngularJS](https://drive.google.com/file/d/1Fa4cnjBLDvzLGIVIFtE5B22_Hubl2FmN/view?usp=sharing){:target="_blank" rel="nofollow"} (HTML)
 
 ### D3.js
 
@@ -791,7 +791,9 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## Vue <i class="fab fa-vuejs"></i>
 
-
+* [Aprendizaje VueJS](https://drive.google.com/file/d/1uj6RmzfUUzZ2J2gOV8GK0rL3ZsILkTuA/view?usp=sharing){:target="_blank" rel="nofollow"}
+* [Desarrolla aplicaciones con VueJS](https://drive.google.com/file/d/11mxEOrRmZCZTPyJMegrKHGA7NwqwbZYY/view?usp=sharing){:target="_blank" rel="nofollow"} - [Gitbook](https://legacy.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details){:target="_blank" rel="nofollow"}
+* [Documentación Oficial de Vue en Español](https://es.vuejs.org/v2/cookbook/){:target="_blank" rel="nofollow"}
 
 ## .NET (C# / Visual Studio)
 
@@ -861,6 +863,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 ### Django
 
 * [Django. Documentación](https://media.readthedocs.org/pdf/djangotutorial/1.8/djangotutorial.pdf){:target="_blank" rel="nofollow"} (PDF)
+* [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/){:target="_blank" rel="nofollow"} (PDF)
 
 
 ### Web2py
