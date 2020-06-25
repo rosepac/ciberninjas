@@ -21,7 +21,7 @@ excerpt: >-
   Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.
 canonical_URL: https://ciberninjas.com/github-super-linter/
 permalink: /github-super-linter/
-date: 2020-06-24 18:32:32
+date: 2020-06-25 11:42:32
 last_modified_at: 
 published: true
 
@@ -32,12 +32,12 @@ Configurar un nuevo repositorio con todas las linternas correctas para los difer
 Se necesitan tantas herramientas y configuraciones que a menudo se requieren más de un lintera para cubrir todos los idiomas utilizados dentro de un solo proyecto de código.
 
 GitHub Super Linter fue construido por el equipo de ingenieros de GitHub Servicios DevOps para intentar tapar ese problema, y ahora pasa a ser de código abierto.
-- [**¿Qué es Github Super Lint?**](#qué-es-github-super-lint)
-- [**¿Cómo funciona Github Super Lint?**](#cómo-funciona-github-super-lint)
+- [**¿Qué es la Super Linterna de Github?**](#qué-es-la-super-linterna-de-github)
+- [**¿Cómo funciona la super linterna de Github?**](#cómo-funciona-la-super-linterna-de-github)
 - [**Características de Github Super Lint**](#características-de-github-super-lint)
-- [**¿Reglas predeterminadas de la super linterna de Github?**](#reglas-predeterminadas-de-la-super-linterna-de-github)
+- [**Reglas predeterminadas de la super linterna de Github**](#reglas-predeterminadas-de-la-super-linterna-de-github)
 
-## **¿Qué es Github Super Lint?**
+## **¿Qué es la Super Linterna de Github?**
 
 Super Linter es un repositorio de código fuente  que está empaquetado en un contenedor Docker y llamado por GitHub Actions. 
 
@@ -47,7 +47,7 @@ El Super Linter admitirá actualmente muchos idiomas y más en el futuro; por ah
 
 - Ansible, CSS, CoffeeScrip, Dockerfile, Golang, JavaScript, JSON, Markdown, Perl, Python3, Ruby, Shell, Terraform, TypeScript, XML, YAML y ENV.
 
-## **¿Cómo funciona Github Super Lint?**
+## **¿Cómo funciona la super linterna de Github?**
 
 Cuando hayas configurado tu repositorio para comenzar a ejecutar esta acción, cada vez que abras una solicitud de extracción, comenzarás a alinear el commit del código y regresará a través de la API de estado.
 
@@ -81,7 +81,7 @@ Super Linter logra resolver muchos problemas a través de la automatización, of
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **¿Reglas predeterminadas de la super linterna de Github?**
+## **Reglas predeterminadas de la super linterna de Github**
 
 La estandarización de un conjunto de reglas en la Super Linterna ha sido un desafío interesante, ya que cada desarrollador es único en su forma de codificar.
 
