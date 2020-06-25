@@ -13,7 +13,7 @@ header:
   overlay_filter: 0.2
   image_description: 'Desde Adobe han creado el proyecto Creative Residency Community Fund o Fondo de Ayuda a Creadores de Adobe. El proyecto se basa en apoyar a los creadores digitales de arte visual repartiendo subvenciones de ayuda de entre 500 y 5.000 dólares.'
   image_alt: 'Desde Adobe han creado el proyecto Creative Residency Community Fund o Fondo de Ayuda a Creadores de Adobe. El proyecto se basa en apoyar a los creadores digitales de arte visual repartiendo subvenciones de ayuda de entre 500 y 5.000 dólares.'
-title: '¿Qué es y cómo participar en el Fondo de Ayuda para Creadores Visuales de Adobe?'
+title: '▷ ¿Qué es y cómo participar en el Fondo de Ayuda para Creadores Visuales de Adobe?'
 description: >-
   Desde Adobe han creado el proyecto Creative Residency Community Fund o Fondo de Ayuda a Creadores de Adobe. El proyecto se basa en apoyar a los creadores digitales de arte visual repartiendo subvenciones de ayuda de entre 500 y 5.000 dólares.
 excerpt: >-
