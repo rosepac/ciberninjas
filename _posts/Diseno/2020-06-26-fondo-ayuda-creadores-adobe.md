@@ -27,6 +27,16 @@ published: true
 ---
 
 Desde Adobe han creado el proyecto Creative Residency Community Fund o **Fondo de Ayuda a Creadores de Adobe**. El proyecto se basa en apoyar a los creadores digitales de arte visual repartiendo subvenciones de ayuda de entre 500 y 5.000 dólares a utilizar en un proyecto creativo o en su defecto, la realización de un trabajo para Adobe pagado.
+- [**¿Quién es elegible para las becas de Adobe?**](#quién-es-elegible-para-las-becas-de-adobe)
+- [**¿A qué campos creativos desea ayudar Adobe?**](#a-qué-campos-creativos-desea-ayudar-adobe)
+- [**¿A qué puedes optar?**](#a-qué-puedes-optar)
+  - [**Proyectos creativos financiados**](#proyectos-creativos-financiados)
+  - [**Comisiones por trabajar para Adobe**](#comisiones-por-trabajar-para-adobe)
+- [**¿Qué debe incluir tu solicitud?**](#qué-debe-incluir-tu-solicitud)
+- [**¿Qué más información debes incluir?**](#qué-más-información-debes-incluir)
+- [**¿Qué licencias deberá tener el trabajo final?**](#qué-licencias-deberá-tener-el-trabajo-final)
+- [**¿Cuáles son las fechas del proyecto?**](#cuáles-son-las-fechas-del-proyecto)
+- [**Otras preguntas posibles**](#otras-preguntas-posibles)
 
 El programa dura 12 meses y ya ha comenzado en Mayo de 2020 y las solicitudes serán aceptadas y revisadas mensualmente.
 
@@ -118,7 +128,7 @@ Si eres seleccionado para recibir la "subvención" o ayuda económica para tu pr
 
 ![Desde Adobe han creado el proyecto Creative Residency Community Fund o Fondo de Ayuda a Creadores de Adobe. El proyecto se basa en apoyar a los creadores digitales de arte visual repartiendo subvenciones de ayuda de entre 500 y 5.000 dólares.](/assets/images/blog/adobe-becas.webp "Desde Adobe han creado el proyecto Creative Residency Community Fund o Fondo de Ayuda a Creadores de Adobe. El proyecto se basa en apoyar a los creadores digitales de arte visual repartiendo subvenciones de ayuda de entre 500 y 5.000 dólares.")
 
-### Relacionados
+### Relacionados <!-- omit in toc -->
 
 [▷ Adobe lanza Photoshop Camera](https://ciberninjas.com/adobe-photoshop-camera/)
 
