@@ -161,7 +161,11 @@ En el #FlutterDayEs donde mostraremos aplicaciones de la comunidad y después po
 
 <a href='https://www.eventbrite.es/e/entradas-taller-de-autodesk-inventor-107191769468?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-taller-de-autodesk-inventor-107191769468?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-⏰ React Workshop 101 por Carolina Bustos (23:00 H.)
+⏰ **Charla sobre VUE JS** por Nacho Anaya (22:00 H.)
+
+<a href='https://www.eventbrite.com/e/vue-talks-2-tickets-110989408308?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com/e/vue-talks-2-tickets-110989408308?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+⏰ **React Workshop 101React Workshop 101** por Carolina Bustos (23:00 H.)
 
 **Canal de Twitch**: <a href='https://www.twitch.tv/reactcba'>https://www.twitch.tv/reactcba</a>
 
