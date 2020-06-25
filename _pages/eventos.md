@@ -55,7 +55,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 <a href='https://www.eventbrite.com.ar/e/como-hacer-cloud-computing-inteligente-y-migrar-su-aplicacion-a-la-nube-tickets-110023479188?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/como-hacer-cloud-computing-inteligente-y-migrar-su-aplicacion-a-la-nube-tickets-110023479188?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-⏰ **Masterclass con Fernando Lagreca: Cajas de Ritmo y Grooveboxes** por Álvaro Verdeja (17:00) 👇
+⏰ **Masterclass con Fernando Lagreca: Cajas de Ritmo y Grooveboxes** (17:00) 👇
 
 <a href='https://www.eventbrite.co.uk/e/entradas-masterclass-con-fernando-lagreca-cajas-de-ritmo-y-grooveboxes-108832805852?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co.uk/e/entradas-masterclass-con-fernando-lagreca-cajas-de-ritmo-y-grooveboxes-108832805852?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
