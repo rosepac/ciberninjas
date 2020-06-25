@@ -20,7 +20,7 @@ excerpt: >-
   En respuesta a la crisis de Covid-19, Adobe busca aumentar su apoyo a la comunidad de creadores mundial mediante el lanzamiento de un nuevo Fondo Comunitario de su proyecto Residencia Creativa.
 canonical_URL: https://ciberninjas.com/adobe-fondo-creadores/
 permalink: /adobe-fondo-creadores/
-date: 2020-06-25
+date: 2020-06-25  19:47:08
 last_modified_at: 
 published: true
 

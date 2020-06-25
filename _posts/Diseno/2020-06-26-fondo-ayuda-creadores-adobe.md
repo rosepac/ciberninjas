@@ -20,9 +20,9 @@ excerpt: >-
   Desde Adobe han creado el proyecto Creative Residency Community Fund o Fondo de Ayuda a Creadores de Adobe. El proyecto se basa en apoyar a los creadores digitales de arte visual repartiendo subvenciones de ayuda de entre 500 y 5.000 dólares.
 canonical_URL: https://ciberninjas.com/fondo-ayuda-creadores-adobe/
 permalink: /fondo-ayuda-creadores-adobe/
-date: 2020-06-25
+date: 2020-06-25 19:45:08
 last_modified_at: 
-published: false
+published: true
 
 ---
 
