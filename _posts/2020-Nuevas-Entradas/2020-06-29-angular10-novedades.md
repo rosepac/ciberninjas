@@ -26,9 +26,38 @@ published: true
 
 ---
 
-La actualización del framework Angular desarrollado por Google se centra más en las mejoras del ecosistema que en las nuevas características. Angular 10 está configurado para ser más pequeño que las versiones anteriores. Las características clave en los últimos lanzamientos preliminares hasta ahora incluyen:
+La actualización del framework Angular desarrollado por Google se centra más en las mejoras del ecosistema que en las nuevas características. Angular 10 está configurado para ser más pequeño que las versiones anteriores.
 
-Además, las configuraciones opcionales más estrictas ofrecen una configuración de proyecto más estricta al crear un nuevo espacio de trabajo con `ng new`, via `ng new -- strict`. Al habilitar este indicador, se inicializa un nuevo proyecto con una nueva configuración para mejorar la capacidad de mantenimiento, ayudar a detectar errores y permitir que la CLI realice optimizaciones avanzadas en una aplicación.
+Además, las configuraciones opcionales más estrictas ofrecen una configuración de proyecto más estricta al crear un nuevo espacio de trabajo con `ng new`, via `ng new -- strict`.
+
+Al habilitar este indicador, se inicializa un nuevo proyecto con una nueva configuración para mejorar la capacidad de mantenimiento, ayudar a detectar errores y permitir que la CLI realice optimizaciones avanzadas en una aplicación.
+- [**Nuevas características de Angular 10**](#nuevas-características-de-angular-10)
+- [**Mejoras de Rendimiento en Angular 10**](#mejoras-de-rendimiento-en-angular-10)
+- [**Cambios rompedores**](#cambios-rompedores)
+- [**¿Cómo descargar Angular 10?**](#cómo-descargar-angular-10)
+- [**Cómo actualizar a Angular 10**](#cómo-actualizar-a-angular-10)
+- [**Nuevos Conceptos de Angular 10**](#nuevos-conceptos-de-angular-10)
+  - [**Microsintaxis**](#microsintaxis)
+  - [**Expresión vinculante**](#expresión-vinculante)
+  - [**Árbol de sintaxis abstracta (AST)**](#árbol-de-sintaxis-abstracta-ast)
+  - [**terser**](#terser)
+  - [**'UrlMatcher'**](#urlmatcher)
+  - [**Bazel**](#bazel)
+  - [**Servicio del lenguaje Angular**](#servicio-del-lenguaje-angular)
+- [**Filosofía del nuevo compilador de Angular**](#filosofía-del-nuevo-compilador-de-angular)
+  - [**La Arquitectura del transpilador TypeScript**](#la-arquitectura-del-transpilador-typescript)
+  - [**Los pasos de Compilación de Angular**](#los-pasos-de-compilación-de-angular)
+  - [**Los dos nuevos puntos de entrada del compilador**](#los-dos-nuevos-puntos-de-entrada-del-compilador)
+    - [NGTSC](#ngtsc)
+    - [Flujo de compilación de NGTSC](#flujo-de-compilación-de-ngtsc)
+    - [NGCC](#ngcc)
+    - [Cómo utilizar ngcc](#cómo-utilizar-ngcc)
+- [**Corrección de errores**](#corrección-de-errores)
+  - [**El problema de la compatibilidad del compilador**](#el-problema-de-la-compatibilidad-del-compilador)
+  - [**Convertir el código anterior a Ivy**](#convertir-el-código-anterior-a-ivy)
+- [](#)
+- [](#-1)
+  - [Licencia](#licencia)
 
 ## **Nuevas características de Angular 10**
 
