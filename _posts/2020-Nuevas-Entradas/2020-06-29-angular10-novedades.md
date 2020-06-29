@@ -55,9 +55,6 @@ Al habilitar este indicador, se inicializa un nuevo proyecto con una nueva confi
 - [**Corrección de errores**](#corrección-de-errores)
   - [**El problema de la compatibilidad del compilador**](#el-problema-de-la-compatibilidad-del-compilador)
   - [**Convertir el código anterior a Ivy**](#convertir-el-código-anterior-a-ivy)
-- [](#)
-- [](#-1)
-  - [Licencia](#licencia)
 
 ## **Nuevas características de Angular 10**
 
@@ -301,34 +298,4 @@ Dado que el código Ivy solo se puede vincular con otro código Ivy, para compil
 
 Esta transformación debe suceder como un precursor para ejecutarse ngtscen la aplicación, y las futuras operaciones de compilación y vinculación deben realizarse contra esta versión transformada de las dependencias.
 
-
-
-
-
-
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
-> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
-{: .notice--danger}
-
-## 
-
-<!-- contenido -->
-
-## 
-
-<!-- contenido -->
-
-### Licencia
-
-Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.org/wiki/Apache_License "Licencia Apache 2.0")**.
-
-**Fuente**\: []( ""){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
-
-> 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
-{: .notice--danger}
-
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-
