@@ -617,7 +617,7 @@ _____
 
 ## 👨‍💻 Lenguajes de Programación
 
-[C, C#, C++](/cursos-tecnologia/#c-c-c){: .btn .btn--inverse .btn--large} [Dart](/cursos-tecnologia/#dart){: .btn .btn--inverse .btn--large} [Ensamblador](/cursos-tecnologia/#ensamblador){: .btn .btn--inverse .btn--large} [Go](/cursos-tecnologia/#go){: .btn .btn--inverse .btn--large} [Java <i class="fab fa-java"></i>](/cursos-tecnologia/#java-){: .btn .btn--inverse .btn--large} [<i class="fab fa-js"></i> Javascript](/cursos-tecnologia/#-javascript){: .btn .btn--inverse .btn--large} [Perl](/cursos-tecnologia/#perl){: .btn .btn--inverse .btn--large} [PHP <i class="fab fa-php"></i>](/cursos-tecnologia/#php-){: .btn .btn--inverse .btn--large} [PHP Frameworks <i class="fab fa-php"></i>](/cursos-tecnologia/#php-frameworks-){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Laravel <i class="fab fa-laravel"></i>](/cursos-tecnologia/#laravel-){: .btn .btn--inverse .btn--large} [Python <i class="fab fa-python"></i>](/cursos-tecnologia/#python-){: .btn .btn--inverse .btn--large} [Python Frameworks <i class="fab fa-python"></i>](/cursos-tecnologia/#python-frameworks-){: .btn .btn--inverse .btn--large} [Ruby](/cursos-tecnologia/#ruby-){: .btn .btn--inverse .btn--large}
+[C, C#, C++](/cursos-tecnologia/#c-c-c){: .btn .btn--inverse .btn--large} [Dart](/cursos-tecnologia/#dart){: .btn .btn--inverse .btn--large} [Ensamblador](/cursos-tecnologia/#ensamblador){: .btn .btn--inverse .btn--large} [Go](/cursos-tecnologia/#go){: .btn .btn--inverse .btn--large} [Java <i class="fab fa-java"></i>](/cursos-tecnologia/#java-){: .btn .btn--inverse .btn--large} [Java Frameworks <i class="fab fa-java"></i>](/cursos-tecnologia/#java-){: .btn .btn--inverse .btn--large} [Javascript <i class="fab fa-js"></i>](/cursos-tecnologia/#javascript-){: .btn .btn--inverse .btn--large} [Javascript Frameworks <i class="fab fa-js"></i>](/cursos-tecnologia/#javascript-frameworks-){: .btn .btn--inverse .btn--large} [Perl](/cursos-tecnologia/#perl){: .btn .btn--inverse .btn--large} [PHP <i class="fab fa-php"></i>](/cursos-tecnologia/#php-){: .btn .btn--inverse .btn--large} [PHP Frameworks <i class="fab fa-php"></i>](/cursos-tecnologia/#php-frameworks-){: .btn .btn--inverse .btn--large} [Python <i class="fab fa-python"></i>](/cursos-tecnologia/#python-){: .btn .btn--inverse .btn--large} [Python Frameworks <i class="fab fa-python"></i>](/cursos-tecnologia/#python-frameworks-){: .btn .btn--inverse .btn--large} [Ruby <i class="fas fa-gem"></i>](/cursos-tecnologia/#ruby-){: .btn .btn--inverse .btn--large} [Ruby Frameworks <i class="fas fa-gem"></i>](/cursos-tecnologia/#python-frameworks-){: .btn .btn--inverse .btn--large}
 
 ## C, C#, C++
 
@@ -650,13 +650,19 @@ _____
 
 * [Programación COBOL con VSCode](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.md#cobol-programming-with-vscode){:target="_blank" rel="nofollow,noreferrer"}
 
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
+
 ## Dart
 
 * [Curso básico de Dart](https://www.youtube.com/watch?v=dDZ-NOTjXiA&list=PLl_hIu4u7P65q3qDQfwoGF6sK9upzi3Jf){:target="_blank" rel="nofollow,noreferrer"} (Gyga Code, Youtube)
 
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
+
 ## Ensamblador
 
 * [Programación en ensamblador 8086 con proteus](https://www.udemy.com/course/programacion-en-ensamblador-8086-con-proteus/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
 ## Go
 
@@ -664,6 +670,8 @@ _____
 * [Curso Interactivo de Go](https://gotour-es.appspot.com/#1) (HTML)
 * [Desarrollo Web con GoLang](https://www.youtube.com/playlist?list=PLl_hIu4u7P64sjDc4TlbUT050tWyqi6MG){:target="_blank" rel="nofollow,noreferrer"} (Gyga Code, YouTube)
 * [Introducción a Go desde cero](https://plataforma.keepcoding.io/p/curso-gratis-introduccion-go-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
+
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
 ## Java <i class="fab fa-java"></i>
 
@@ -714,9 +722,11 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Spring Boot + Docker](/spring-boot-docker-con-abel-fresnillo/) (Abel Fresnillo, Youtube) (2019)
 * [Spring Boot: recetas para el trabajo diario (introducción)](https://www.udemy.com/spring-boot-recetas-para-el-trabajo-diario-introduccion){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-## Struts
+### Struts
 
 * [Struts 2 con MySql](https://www.youtube.com/playlist?list=PLnWAzeXp9V4lMLj8KykMtPYb5jfUcKJ7n){:target="_blank" rel="nofollow,noreferrer"} (Formando Código, YouTube)
+
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
 ## Javascript <i class="fab fa-js"></i>
 
@@ -748,9 +758,13 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Introducción a Kotlin avanzado](https://plataforma.keepcoding.io/p/introduccion-desarrollo-de-aplicaciones-android-en-kotlin-gratis){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 * [Introducción a Kotlin desde cero](https://plataforma.keepcoding.io/p/curso_kotlin_desde_cero_introductorio){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
+
 ## Perl
 
 * [Introducción a Perl(2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=43){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
 ## PHP <i class="fab fa-php"></i>
 
@@ -769,6 +783,8 @@ http://ocw.upm.es/course/programacion-en-java-i
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## PHP Frameworks <i class="fab fa-php"></i>
+
+[CakePHP](/cursos-tecnologia/#cakephp){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Laravel <i class="fab fa-laravel"></i>](/cursos-tecnologia/#laravel-){: .btn .btn--inverse .btn--large} [Symfony <i class="fab fa-symfony"></i>](/cursos-tecnologia/#symfony-){: .btn .btn--inverse .btn--large} [Zend](/cursos-tecnologia/#zend){: .btn .btn--inverse .btn--large}
 
 * [Introducción teórica a los frameworks de desarrollo para PHP](https://www.udemy.com/introduccion-teorica-a-los-framework-de-desarrollo-para-php){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
@@ -804,11 +820,11 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [PHP, Symfony y Desarrollo Web](https://diego.com.es){:target="_blank" rel="nofollow,noreferrer"} (HTML)
 * [Symfony 3: en producción. Subir y publicar proyectos web](https://www.udemy.com/symfony-3-en-produccion-subir-y-publicar-proyectos-web){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
-
 ### Zend
 
 * [Zend Framework 2 Avanzado](https://www.youtube.com/playlist?list=PLbP-b3gf8hAVzaEa3Gy6YocAofN4TuGbC){:target="_blank" rel="nofollow,noreferrer"} (César Cancino, YouTube)
+
+[⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Python <i class="fab fa-python"></i>
 
