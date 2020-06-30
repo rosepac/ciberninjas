@@ -41,158 +41,13 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ## **Eventos tecnológicos de Junio**
 
-### Eventos para el 25 de Junio de 2020
-
-⏰ **Tecnología Multicluster** (15:30) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-webinar-tecnologia-multicluster-107795316694?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-webinar-tecnologia-multicluster-107795316694?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Sesión informativa online curso de programación de septiembre de Adalab** (16:00) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-sesion-informativa-online-curso-de-programacion-de-septiembre-de-adalab-109654872676?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-sesion-informativa-online-curso-de-programacion-de-septiembre-de-adalab-109654872676?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Cómo hacer Cloud Computing Inteligente y migrar su aplicación a la nube** (16:00) 👇
-
-<a href='https://www.eventbrite.com.ar/e/como-hacer-cloud-computing-inteligente-y-migrar-su-aplicacion-a-la-nube-tickets-110023479188?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/como-hacer-cloud-computing-inteligente-y-migrar-su-aplicacion-a-la-nube-tickets-110023479188?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Masterclass con Fernando Lagreca: Cajas de Ritmo y Grooveboxes** (17:00) 👇
-
-<a href='https://www.eventbrite.co.uk/e/entradas-masterclass-con-fernando-lagreca-cajas-de-ritmo-y-grooveboxes-108832805852?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co.uk/e/entradas-masterclass-con-fernando-lagreca-cajas-de-ritmo-y-grooveboxes-108832805852?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Google Marketing: Flujos de trabajo de aprobación** por Álvaro Verdeja (17:30) 👇
-
-<a href='https://www.eventbrite.es/e/registro-gmp-gtm360-approval-workflows-101214258572?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/registro-gmp-gtm360-approval-workflows-101214258572?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Mailchimp Meetup Madrid - Marketing automático para negocios B2B** (17:30) 👇
-
-<a href='https://www.eventbrite.com/e/registro-mailchimp-meetup-madrid-marketing-automatico-para-negocios-b2b-107540582778?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com/e/registro-mailchimp-meetup-madrid-marketing-automatico-para-negocios-b2b-107540582778?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Inteligencia Artificial en las startups** (18:00) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-inteligencia-artificial-en-el-edge-108887397136?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-inteligencia-artificial-en-el-edge-108887397136?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **ESET Webinar: Soluciones de Seguridad** (18:00) 👇
-
-<a href='https://www.eventbrite.com.mx/e/webinar-eset-tickets-110329813442?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.mx/e/webinar-eset-tickets-110329813442?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **¿Cómo crear una buena marca?** (18:00) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-como-crear-una-buena-marca-110390502966?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-como-crear-una-buena-marca-110390502966?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Flutter Day Marbella** (19:00) 👇
-
-En el #FlutterDayEs donde mostraremos aplicaciones de la comunidad y después podréis entrar al #AskMeEs con nosotros
-
-**Canal de Youtube**: <a href='https://www.youtube.com/watch?v=DBTb6c-1gyU'>https://www.youtube.com/watch?v=DBTb6c-1gyU</a>
-
-⏰ **Crea tu tienda online: 10 pasos para crear un ecommerce.** (19:00) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-crea-tu-tienda-online-10-pasos-para-crear-un-ecommerce-109954980306?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-crea-tu-tienda-online-10-pasos-para-crear-un-ecommerce-109954980306?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **¿Cómo lidiar con los problemas desbalanceados en ML?** (19:00) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-webinar-gratuito-como-lidiar-con-los-problemas-desbalanceados-en-ml-109345475260?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-webinar-gratuito-como-lidiar-con-los-problemas-desbalanceados-en-ml-109345475260?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **5 buenas prácticas para ITSM (Gestión de Servicios IT)** (19:00) 👇
-
-<a href='https://www.eventbrite.com.mx/e/for-start-ups-corps-5-buenas-practicas-para-itsm-tickets-107122969686?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.mx/e/for-start-ups-corps-5-buenas-practicas-para-itsm-tickets-107122969686?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Visualizando Juego de Tronos con D3.js** (19:00) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-webinar-visualizando-juego-de-tronos-con-d3js-109935471956?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-webinar-visualizando-juego-de-tronos-con-d3js-109935471956?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **¿Cómo diseñar productos y experiencias memorables en remoto?** (19:00) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-como-disenar-productos-y-experiencias-memorables-en-remoto-109935985492?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-como-disenar-productos-y-experiencias-memorables-en-remoto-109935985492?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **¿Cómo medir la salud de tu start-up en base a los DATOS?** (19:00) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-webinar-como-medir-la-salud-de-tu-start-up-en-base-a-los-datos-108876486502?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-webinar-como-medir-la-salud-de-tu-start-up-en-base-a-los-datos-108876486502?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-### Eventos para el 26 de Junio de 2020
-
-⏰ **Serverless,la computación sin servidor y la eficiencia de recursos** con Rahjut Fernández (00:00 AM)
-
-<a href='https://www.eventbrite.es/e/webinar-serverlessla-computacion-sin-servidor-y-la-eficiencia-de-recursos-registration-110331871598?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/webinar-serverlessla-computacion-sin-servidor-y-la-eficiencia-de-recursos-registration-110331871598?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Agile desde el principio** (00:00 AM)
-
-<a href='https://www.eventbrite.com.ar/e/agile-desde-el-principio-tickets-109053371570?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/agile-desde-el-principio-tickets-109053371570?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Charla introductoria a Bitcoin y Blockchain** (00:00 AM)
-
-<a href='https://www.eventbrite.com.ar/e/charla-introductoria-a-bitcoin-y-blockchain-tickets-106640298002?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/charla-introductoria-a-bitcoin-y-blockchain-tickets-106640298002?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Autos Inteligentes con AWS Greengrass - [Parte 1 AWS Lambda para IoT]** (00:00 AM)
-
-**Canal de Youtube**: <a href='https://www.youtube.com/channel/UCxwlzAH3kyDoDxTAzotlaYw'>https://www.youtube.com/channel/UCxwlzAH3kyDoDxTAzotlaYw</a>
-
-⏰ **3 pasos para ROCKEARLA con Photoshop** con Abigail Levy (00:00 AM)
-
-<a href='https://www.eventbrite.com.ar/e/3-pasos-para-rockearla-con-photoshop-amateur-tickets-110411513810?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.ar/e/3-pasos-para-rockearla-con-photoshop-amateur-tickets-110411513810?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Sound Design: Importancia del sonido en las piezas audiovisuales** (01:00 AM)
-
-<a href='https://www.eventbrite.es/e/entradas-sound-design-importancia-del-sonido-en-las-piezas-audiovisuales-109346584578?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-sound-design-importancia-del-sonido-en-las-piezas-audiovisuales-109346584578?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Javascript Orientado a Objetos** por Salvador Mora (02:00 AM)
-
-<a href='https://www.eventbrite.com.mx/e/javascript-orientado-a-objetos-tickets-110431282940?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.mx/e/javascript-orientado-a-objetos-tickets-110431282940?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Ciberseguridad en tiempos del COVID-19** (02:00 AM)
-
-<a href='https://www.eventbrite.com.mx/e/ciberseguridad-en-tiempos-del-covid-19-tickets-110229736108?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com.mx/e/ciberseguridad-en-tiempos-del-covid-19-tickets-110229736108?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Ciclo de Webinars sobre Agilidad: El Product Owner virtuoso, rol como ventaja competitiva** (13:00 H.)
-
-<a href='https://www.eventbrite.com.ar/e/registro-ciclo-de-webinars-sobre-agilidad-103235650610?aff=estw&utm_source=tw&utm_medium=discovery&utm_content=attendeeshare&utm_campaign=social&utm_term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/registro-ciclo-de-webinars-sobre-agilidad-103235650610?aff=estw&utm_source=tw&utm_medium=discovery&utm_content=attendeeshare&utm_campaign=social&utm_term=listing</a>
-
-### Eventos para el 27 de Junio de 2020
-
-⏰ **Desenredando la Inteligencia Artificial** (16:00 H.)
-
-<a href='https://www.eventbrite.co/e/desenredando-la-inteligencia-artificial-tickets-110854651246?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co/e/desenredando-la-inteligencia-artificial-tickets-110854651246?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Festival Disruptivo Digital: Blockchain, Industrias Creativas y Desarrollo** (18:00 H. + 01:00 AM)
-
-<a href='https://www.eventbrite.es/e/entradas-festival-disruptivo-digital-109879761324?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-festival-disruptivo-digital-109879761324?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Taller de Autodesk Inventor** (19:00)
-
-<a href='https://www.eventbrite.es/e/entradas-taller-de-autodesk-inventor-107191769468?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-taller-de-autodesk-inventor-107191769468?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **Charla sobre VUE JS** por Nacho Anaya (22:00 H.)
-
-<a href='https://www.eventbrite.com/e/vue-talks-2-tickets-110989408308?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.com/e/vue-talks-2-tickets-110989408308?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ **React Workshop 101React Workshop 101** por Carolina Bustos (23:00 H.)
-
-**Canal de Twitch**: <a href='https://www.twitch.tv/reactcba'>https://www.twitch.tv/reactcba</a>
-
-### Eventos para el 28 de Junio de 2020
-
-⏰ **Festival Disruptivo Digital: Blockchain, Industrias Creativas y Desarrollo** (01:00 H.)
-
-<a href='https://www.eventbrite.es/e/entradas-festival-disruptivo-digital-109879761324?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.es/e/entradas-festival-disruptivo-digital-109879761324?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-### Eventos para el 29 de Junio de 2020
-
-⏰ Empleabilidad en lnteligencia Artificial: hype vs realidad, por Maite Iniesta (12:00 H.) 👇
-
-<a href='https://www.eventbrite.co.uk/e/los-lunes-con-inteligencia-artificial-ibm-tickets-103456164172?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co.uk/e/los-lunes-con-inteligencia-artificial-ibm-tickets-103456164172?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ Machine Learning 101 Webinar (16:00 H.) 👇
-
-<a href='https://www.eventbrite.com/e/registro-machine-learning-101-webinar-108077643140?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-machine-learning-101-webinar-108077643140?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ Aprende Linux desde Cero (19:00 H.) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-webinar-aprende-linux-desde-cero-108969450560?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-webinar-aprende-linux-desde-cero-108969450560?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
 ### Eventos para el 30 de Junio de 2020
 
 ⏰ NASA Spaceapps AI Bootcamp (10:00 AM)👇
 <a href='https://www.eventbrite.es/e/entradas-nasa-spaceapps-ai-bootcamp-99508705216?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-nasa-spaceapps-ai-bootcamp-99508705216?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+⏰ Virtual Lab: Serverless (30 de Junio, 17:00 H. Española)
+ 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
 ⏰ Python Fundamentals aplicado: Data Science (18:30 AM)👇
 
@@ -232,6 +87,11 @@ En el #FlutterDayEs donde mostraremos aplicaciones de la comunidad y después po
 
 <a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
+## Eventos para el 13 de Julio de 2020
+
+⏰ Virtual Lab: Despliegue de Aplicaciones en Kubernetes (13 de Julio, 17:00 H. Española)
+ 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
+
 ## Eventos para el 18 de Julio de 2020
 
 ⏰ Jump! Tecnología (18 y 19 - 14:00) 👇
@@ -244,6 +104,11 @@ En el #FlutterDayEs donde mostraremos aplicaciones de la comunidad y después po
 
 <a href='https://www.eventbrite.com.ar/e/cyber-security-evolution-tickets-90633377873?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/cyber-security-evolution-tickets-90633377873?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
+## Eventos para el 28 de Julio de 2020
+
+⏰ Virtual Lab: CI / CD en Kubernetes con Tekton Pipelines (28 de Julio, 17:00 H. Española)
+ 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
+
 ## Eventos para el 29 de Julio de 2020
 
 ⏰ Neo4J - 13h00 - Graph Data Science Library 👇
@@ -254,6 +119,11 @@ En el #FlutterDayEs donde mostraremos aplicaciones de la comunidad y después po
 
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
+
+### Eventos para el 11 de Agosto de 2020
+
+⏰ Virtual Lab: Envió y Recepción de Mensajes con IBM Event Streams (11 de Agosto, 17:00 H. Española)
+ 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
 ### Eventos para el 12 de Agosto de 2020
 
@@ -373,3 +243,52 @@ En el #FlutterDayEs donde mostraremos aplicaciones de la comunidad y después po
 
 - ⏰ Neo4J - Spring Data Neo4j RX
 - ⏰ Día Azure
+
+### Eventos para el 25 de Junio de 2020
+
+- ⏰ Tecnología Multicluster
+- ⏰ Sesión informativa online curso de programación de septiembre de Adalab
+- ⏰ Cómo hacer Cloud Computing Inteligente y migrar su aplicación a la nube
+- ⏰ Masterclass con Fernando Lagreca: Cajas de Ritmo y Grooveboxes
+- ⏰ Google Marketing: Flujos de trabajo de aprobación por Álvaro Verdeja
+- ⏰ Mailchimp Meetup Madrid - Marketing automático para negocios B2B
+- ⏰ Inteligencia Artificial en las startups
+- ⏰ ESET Webinar: Soluciones de Seguridad
+- ⏰ ¿Cómo crear una buena marca?
+- ⏰ Flutter Day Marbella
+- ⏰ Crea tu tienda online: 10 pasos para crear un ecommerce
+- ⏰ ¿Cómo lidiar con los problemas desbalanceados en ML?
+- ⏰ 5 buenas prácticas para ITSM (Gestión de Servicios IT)
+- ⏰ Visualizando Juego de Tronos con D3.js
+- ⏰ ¿Cómo diseñar productos y experiencias memorables en remoto?
+- ⏰ ¿Cómo medir la salud de tu start-up en base a los DATOS?
+
+### Eventos para el 26 de Junio de 2020
+
+- ⏰ Serverless,la computación sin servidor y la eficiencia de recursos con Rahjut Fernández
+- ⏰ Agile desde el principio
+- ⏰ Charla introductoria a Bitcoin y Blockchain
+- ⏰ Autos Inteligentes con AWS Greengrass - [Parte 1 AWS Lambda para IoT]
+- ⏰ 3 pasos para ROCKEARLA con Photoshop** con Abigail Levy (00:00 AM)
+- ⏰ Sound Design: Importancia del sonido en las piezas audiovisuales
+- ⏰ Javascript Orientado a Objetos** por Salvador Mora
+- ⏰ Ciberseguridad en tiempos del COVID-19
+- ⏰ Ciclo de Webinars sobre Agilidad: El Product Owner virtuoso, rol como ventaja competitiva
+
+### Eventos para el 27 de Junio de 2020
+
+- ⏰ Desenredando la Inteligencia Artificial
+- ⏰ Festival Disruptivo Digital: Blockchain, Industrias Creativas y Desarrollo
+- ⏰ Taller de Autodesk Inventor
+- ⏰ Charla sobre VUE JS por Nacho Anaya
+- ⏰ React Workshop 101React Workshop 101 por Carolina Bustos
+
+### Eventos para el 28 de Junio de 2020
+
+- ⏰ Festival Disruptivo Digital: Blockchain, Industrias Creativas y Desarrollo
+
+### Eventos para el 29 de Junio de 2020
+
+- ⏰ Empleabilidad en lnteligencia Artificial: hype vs realidad, por Maite Iniesta
+- ⏰ Machine Learning 101 Webinar
+- ⏰ Aprende Linux desde Cero
