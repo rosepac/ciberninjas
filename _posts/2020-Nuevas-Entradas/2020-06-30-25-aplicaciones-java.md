@@ -39,9 +39,11 @@ Hoy, millones de desarrolladores programan en Java. Aunque Java continúa evoluc
 
 Lo que sigue es una lista de las 25 aplicaciones Java más ingeniosas e influyentes jamás escritas, desde Wikipedia Search hasta Ghidra de la Agencia de Seguridad Nacional de EE. UU. El alcance de estas aplicaciones abarca toda la gama: exploración espacial, videojuegos, aprendizaje automático, genómica, automoción, ciberseguridad y más.
 
-La lista de aplicaciones ha sido creada por [Alexa Weber Morales](https://twitter.com/WorlWindWriting){:target="_blank" rel="nofollow,noreferrer"}, directora de contenido para desarrolladores en Oracle; tras realizar una exahaustiva investigación conjunto a la ayuda de Andrew Binstock, el ex editor en jefe de la revista Java; Margaret Harrist, ex-estratega de marketing de contenidos de la división de software de Sun y diferentes miembros de la comunidad Java más; entre los que se incluyen: Jeanne Boyarsky, Sharat Chander, Aurelio García-Ribeyro, Manish Gupta, Manish Kapur, Stuart Marks, Mani Sarkar, Venkat Subramaniam y Dalibor Topic.
+La lista de aplicaciones ha sido creada por [Alexa Weber Morales](https://twitter.com/WorlWindWriting){:target="_blank" rel="nofollow,noreferrer"}, directora de contenido para desarrolladores en Oracle; tras realizar una exahaustiva investigación conjunto a la ayuda de Andrew Binstock, el ex editor en jefe de la revista Java; Margaret Harrist, ex-estratega de marketing de contenidos de la división de software de Sun.
 
-Finalmente, la lista de las 25 aplicaciones Java más increíbles jamás creadas.
+Además de diferentes miembros de la comunidad Java más; entre los que se incluyen: Jeanne Boyarsky, Sharat Chander, Aurelio García-Ribeyro, Manish Gupta, Manish Kapur, Stuart Marks, Mani Sarkar, Venkat Subramaniam y Dalibor Topic.
+
+Finalmente, y ya sin más deambulación, la lista de las 25 aplicaciones Java más increíbles jamás creadas.
 
 - [**Frontera Espacial**](#frontera-espacial)
   - [1. **Controlador Maestro Mars Rover**](#1-controlador-maestro-mars-rover)
@@ -341,8 +343,6 @@ La empresa fue adquirida por Samsung Electronics en 2014 por la friolera de 200 
 ### Conclusión <!-- omit in toc -->
 
 Hasta aquí la impresionante recopilación de programas creados por el lenguaje de programación Java, si hechas en falta algún gran software Java; puedes contactarme a través de las redes sociales @ciberninjas en todas ellas; ¡¡¡Hasta la vista, Ciberninjas!!!
-
-
 
 **Fuente**: [Blog de Oracle](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written#anchor_4){:target="_blank" rel="nofollow,noreferrer"} por Alexa Morales directora de contenido para desarrolladores en [Oracle](@OracleJavaMag){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
