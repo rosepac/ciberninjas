@@ -39,9 +39,13 @@ Esta es la página perfecta donde poder resolver todas las dudas que desees resp
   - [**Aplicaciones móviles**](#aplicaciones-móviles)
   - [**Aplicaciones web y de servidor**](#aplicaciones-web-y-de-servidor)
   - [**Juegos**](#juegos)
-- [**Quién está usando Javascript**](#quién-está-usando-javascript)
+- [**Frameworks Multiplataforma de Javascript**](#frameworks-multiplataforma-de-javascript)
+  - [Angular](#angular)
+  - [React](#react)
 - [Javascript Puro](#javascript-puro)
+- [**Quién está usando Javascript**](#quién-está-usando-javascript)
 - [Las mejores páginas, noticias, foros y redes sociales de Javascript](#las-mejores-páginas-noticias-foros-y-redes-sociales-de-javascript)
+  - [Relacionados](#relacionados)
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -152,18 +156,32 @@ Construir tus juegos simples también es una excelente manera de practicar tus c
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **Quién está usando Javascript**
+## **Frameworks Multiplataforma de Javascript**
 
-En mayor o menor medida, casi todo el mundo que crea código que funciona sobre una página web; casi en su totalidad usan Javascript.
+- [🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20/)
 
-## Frameworks Web de Javascript <!-- omit in toc -->
+### Angular
 
-👷‍♂️ EN CONSTRUCCIÓN 👷‍♂️ Angular, React, Vue.. Se crearán páginas independientes para cada uno de ellos.. 👷‍♂️ EN CONSTRUCCIÓN 👷‍♂️
-{: .notice--warning}
+- [Angular 10: Conoce todas las novedades del framework desarrollado en Typescript por Google](https://ciberninjas.com/angular-10-novedades/)
+- [▷ Angular 9: Nueva versión del Framework Javascript](https://ciberninjas.com/angular-version-9-liberado/)
+
+### React
+
+- [React: ¿Cómo aprender todo sobre uno de los mejores frameworks Javascript?](https://ciberninjas.com/react/)
+- [React Native: Aprende todo sobre el Framework Javascript de Facebook](https://ciberninjas.com/react-native/)
+
+### Vue <!-- omit in toc -->
+
+👷‍♂️ SEGUIMOS EN CONSTRUCCIÓN.. 👷‍♂️
+{: .notice--info}
 
 ## Javascript Puro
 
 * [Aprender Vanilla Js](https://learnvanillajs.com/){:target="_blank" rel="nofollow,noreferrer"}
+
+## **Quién está usando Javascript**
+
+En mayor o menor medida, casi todo el mundo que crea código que funciona sobre una página web; casi en su totalidad usan Javascript.
 
 ## Listas de Correos <!-- omit in toc -->
 
@@ -179,5 +197,9 @@ En mayor o menor medida, casi todo el mundo que crea código que funciona sobre 
 * [Los mejores proyectos de Javascript](https://bestofjs.org/){:target="_blank" rel="nofollow,noreferrer"}
 * [Javascript Hall of Fame](https://bestofjs.org/hall-of-fame){:target="_blank" rel="nofollow,noreferrer"}
 * [Open Source - PonyFOO](https://ponyfoo.com/opensource){:target="_blank" rel="nofollow,noreferrer"}
+
+### Relacionados
+
+[▷ Introducción a las nuevas características de Javascript 6](https://ciberninjas.com/javascript-6/)
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
