@@ -28,7 +28,7 @@ permalink: /javascript/
 ---
 
 Esta es la página perfecta donde poder resolver todas las dudas que desees respecto a JavaScript. En el siguiente contenido podrás encontrar todo lo necesario, y lo mejor de todo es que el listado irá creciendo con el paso del tiempo; así que ya sabes. Piensa en guardártelo.. 😉
-- [**¿Cómo aprender Javascript?](#cómo-aprender-javascript)
+- [**¿Cómo aprender Javascript?**](#cómo-aprender-javascript)
 - [**¿Por dónde comenzar con Javascript?**](#por-dónde-comenzar-con-javascript)
 - [**¿Cómo reforzar mis conocimientos?**](#cómo-reforzar-mis-conocimientos)
 - [**¿Qué es Javascript?**](#qué-es-javascript)
@@ -49,7 +49,7 @@ Esta es la página perfecta donde poder resolver todas las dudas que desees resp
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **¿Cómo aprender Javascript?
+## **¿Cómo aprender Javascript?**
 
 Javascript es un lenguaje totalmente en alza, por lo que en la actualidad es muy importante poder encontrar una ruta de aprendizaje sencilla con la que poder alcanzar el dominio de JS lo suficientemente como para posteriormente, poder trabajar con cualquiera de los frameworks de Javascript que decidas utilizar.
 

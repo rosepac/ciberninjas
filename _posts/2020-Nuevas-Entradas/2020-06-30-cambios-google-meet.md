@@ -42,4 +42,8 @@ Con la medida de Google de levantar el límite de tiempo en las llamadas gratuit
 
 ![Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail](/assets/images/2020-news/30-google-meet.webp "Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail")
 
+### Relacionados
+
+[Cómo ocultar Google Meet en Gmail](https://ciberninjas.com/ocultar-google-meet/)
+
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
