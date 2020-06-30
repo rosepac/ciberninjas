@@ -13,7 +13,7 @@ header:
   overlay_filter: 0.2
   image_description: 'Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail.'
   image_alt: 'Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail.'
-title: "▷ Google Meet\: Prepara nuevas y divertidas próximas funciones"
+title: "▷ Google Meet: Prepara nuevas y divertidas próximas funciones"
 description: >-
   Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail.
 excerpt: >-

@@ -1,6 +1,6 @@
 ---
 # Página Base
-title: "🥇 ▷ Los mejores LIBROS para PROGRAMACIÓN pdf GATIS 2020"
+title: "🥇 ▷ Los mejores LIBROS para PROGRAMACIÓN pdf GRATIS 2020"
 description: "Los Mejores Libros PDF Gratuitos de Informática - Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
 excerpt: "Los Mejores Libros PDF Gratuitos de Informática - Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
 author_profile: false
