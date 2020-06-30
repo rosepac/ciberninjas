@@ -43,73 +43,86 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ### Eventos para el 30 de Junio de 2020
 
-⏰ NASA Spaceapps AI Bootcamp (10:00 AM)👇
-<a href='https://www.eventbrite.es/e/entradas-nasa-spaceapps-ai-bootcamp-99508705216?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-nasa-spaceapps-ai-bootcamp-99508705216?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-⏰ Virtual Lab: Serverless (30 de Junio, 17:00 H. Española)
- 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
-
-⏰ Python Fundamentals aplicado: Data Science (18:30 AM)👇
-
-<a href='https://www.eventbrite.es/e/entradas-python-fundamentals-aplicado-data-science-105375043592?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-python-fundamentals-aplicado-data-science-105375043592?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+- ⏰ **NASA Spaceapps AI Bootcamp** (10:00 AM) 👉 (<a href='https://kutt.it/nasa-space-bootcamp'>https://kutt.it/nasa-space-bootcamp</a>)
+- ⏰ **Virtual Lab: Serverless** (17:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
+- ⏰ **Python Fundamentals aplicado: Data Science** (18:30) 👉 (<a href='https://kutt.it/30-junio-python'>https://kutt.it/30-junio-python</a>)
+- ⏰ **Webinar: Tecnologías Emergentes** (19:00 PM) 👉 <a href='https://kutt.it/tecnologia-emergente'>https://kutt.it/tecnologia-emergente</a>
+- ⏰ **Webinar: Análisis y Conclusiones del WWDC 2020** (19:00 PM) 👉 <a href='https://kutt.it/wwdc-keep-coding'>https://kutt.it/wwdc-keep-coding</a>
 
 ## **Eventos tecnológicos de Julio**
 
-## Eventos para el 03 de Julio de 2020
+### Eventos para el 01 de Julio de 2020
 
-⏰ Ciclo de Webinars sobre Agilidad: Mi evolución como Scrum Master a Líder Servil (13:00 H.)
+- ⏰ **Webinar: Metodología Kanban** (01:30 H. AM) 👉 <a href='https://kutt.it/kanban-training-talent'>https://kutt.it/kanban-training-talent</a>
+- ⏰ **Análisis de oportunidades SEO y Auditoría de backlinks** (19:00 H.) 👉 <a href='https://kutt.it/semrush-punto-rojo'>https://kutt.it/semrush-punto-rojo</a>
+- ⏰ **UX en las organizaciones** (18:00 H.) 👉 <a href='https://kutt.it/ux-loom'>https://kutt.it/ux-loom</a>
+- ⏰ **Publicidad Digital: estrategias para aumentar ingresos** (19:00 H.) 👉 <a href='https://kutt.it/publi-unesdi'>https://kutt.it/publi-unesdi</a>
 
-<a href='https://www.eventbrite.com.ar/e/registro-ciclo-de-webinars-sobre-agilidad-103235650610?aff=estw&utm_source=tw&utm_medium=discovery&utm_content=attendeeshare&utm_campaign=social&utm_term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/registro-ciclo-de-webinars-sobre-agilidad-103235650610?aff=estw&utm_source=tw&utm_medium=discovery&utm_content=attendeeshare&utm_campaign=social&utm_term=listing</a>
+### Eventos para el 02 de Julio de 2020
 
-## Eventos para el 06 de Julio de 2020
+- ⏰ **Machine Learning. ¿Cómo empezar?/Sesiones en vivo** (02:00 H. AM) 👉 <a href='https://kutt.it/ml-ses-1-bedu'>https://kutt.it/ml-ses-1-bedu</a>
+- ⏰ **Webinar CACE - Primeros pasos para crear anuncios en Facebook e Instagram** (16:00 H.) 👉 <a href='https://kutt.it/tecnologia-anuncios-face-insta'>https://kutt.it/tecnologia-anuncios-face-insta</a>
 
-⏰ Startups y las APIs (Días 6, 8 y 10)
+### Eventos para el 03 de Julio de 2020
+
+- ⏰ **Ciclo de Webinars sobre Agilidad: Mi evolución como Scrum Master a Líder Servil** (13:00 H.) 👉 <a href='https://kutt.it/web-agile-master'>https://kutt.it/web-agile-master</a>
+- ⏰ **Webinar: Transformación Digital** (16:00 H.) 👉 <a href='https://kutt.it/trans-digital-fund-global'>https://kutt.it/trans-digital-fund-global</a>
+
+### Eventos para el 06 de Julio de 2020
+
+⏰ **Startups y las APIs** (Días 6, 8 y 10)
 
 <a href='https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-## Eventos para el 08 de Julio de 2020
+### Eventos para el 07 de Julio de 2020
+
+- ⏰ **Webinar: inteligencia artificial aplicada a correos electrónicos** (19:00 H.) 👉 <a href='https://kutt.it/ai-mail-keepcoding'>https://kutt.it/ai-mail-keepcoding</a>
+
+### Eventos para el 08 de Julio de 2020
 
 ⏰ Neo4J - 13h00 - Neo4j Bloom 👇
 
 <a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-## Eventos para el 09 de Julio de 2020
-
-09 / 07 / 2020
+### Eventos para el 09 de Julio de 2020
 
 ⏰ DojoConf: Conferencia(9 de Julio - 15:30) 👇
 
 <a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-## Eventos para el 12 de Julio de 2020
+### Eventos para el 10 de Julio de 2020
+
+⏰ Webinar: Introducción a Linkedin (21:00 PM) 👉 <a href='https://kutt.it/intr-linkedin-grup-nucleo'>https://kutt.it/intr-linkedin-grup-nucleo</a>
+
+### Eventos para el 12 de Julio de 2020
 
 ⏰ DojoConf: Conferencia (12 de Julio - 20:00) 👇
 
 <a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-## Eventos para el 13 de Julio de 2020
+### Eventos para el 13 de Julio de 2020
 
 ⏰ Virtual Lab: Despliegue de Aplicaciones en Kubernetes (13 de Julio, 17:00 H. Española)
  👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
-## Eventos para el 18 de Julio de 2020
+### Eventos para el 18 de Julio de 2020
 
 ⏰ Jump! Tecnología (18 y 19 - 14:00) 👇
 
 <a href='https://www.eventbrite.com.ar/e/jump-tecnologia-tickets-94891504043?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/jump-tecnologia-tickets-94891504043?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-## Eventos para el 23 de Julio de 2020
+### Eventos para el 23 de Julio de 2020
 
 ⏰ Evolución de la Ciberseguridad (23 y 24 - 15:30) 👇
 
 <a href='https://www.eventbrite.com.ar/e/cyber-security-evolution-tickets-90633377873?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/cyber-security-evolution-tickets-90633377873?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
-## Eventos para el 28 de Julio de 2020
+### Eventos para el 28 de Julio de 2020
 
 ⏰ Virtual Lab: CI / CD en Kubernetes con Tekton Pipelines (28 de Julio, 17:00 H. Española)
  👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
-## Eventos para el 29 de Julio de 2020
+### Eventos para el 29 de Julio de 2020
 
 ⏰ Neo4J - 13h00 - Graph Data Science Library 👇
 
@@ -150,7 +163,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ## **Eventos de Tecnología Anteriores**
 
-### Eventos para el 18 de Junio de 2020
+### Eventos del 18 de Junio de 2020
 
 - ⏰ Investigación en fuentes abiertas (OSINT) para empresas de seguridad privado
 - ⏰ ¡El loco, loco loco mundo de JavaScript!
@@ -177,7 +190,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
-### Eventos para el 19 de Junio de 2020
+### Eventos del 19 de Junio de 2020
 
 - ⏰ Para nuevas empresas: hackers / fundadores - Meetup de LatAm
 - ⏰ ¿Cuándo es posible delegar decisiones a un algoritmo?
@@ -185,7 +198,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 - ⏰ IOT y Blockchain - Activation Programme
 - ⏰ Ciclo de Webinars sobre Agilidad: El Scrum Master más allá de las ceremonias
 
-### Eventos para el 19 de Junio de 2020
+### Eventos del 19 de Junio de 2020
 
 - ⏰ **Workflow de maya a Substance painter** (18:00 H.) 👇
 - ⏰ **Vue Vixens MX Online** (19:00)
@@ -195,26 +208,26 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
 
-### Eventos para el 20 de Junio de 2020
+### Eventos del 20 de Junio de 2020
 
 - ⏰ Autos Inteligentes con AWS Greengrass - Parte 1 AWS Lambda para IoT
 - ⏰ Introducción al Diseño Interior
 - ⏰ Design thinking
 
 
-### Eventos para el 20 de Junio de 2020
+### Eventos del 20 de Junio de 2020
 
 - ⏰ Ekoparty University 2020
 - ⏰ Taller de Autodesk Inventor
 - ⏰ Juego Latinoaméricano de Excel: Habilidades para la Vida
 - ⏰ React Workshop 101 por Carolina Bustos
 
-### Eventos para el 21 de Junio de 2020
+### Eventos del 21 de Junio de 2020
 
 - ⏰ Mr.Coin Vr Meetup
 - ⏰ React Workshop 101 por Carolina Bustos
 
-### Eventos para el 22 de Junio de 2020
+### Eventos del 22 de Junio de 2020
 
 - ⏰ Administración Pública: una relación con futuro  por Itziar Leguinazabal y Santiago Segarra
 - ⏰ Model Creator: optimización en el preparado de modelos para impresión 3D
@@ -225,7 +238,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 - ⏰ Hablemos de Fintech: Qué son y su situación en Argentina** - JavaScript Linter Bot, Reutilización de Código, Elegante. 
 - ⏰ #EncuentrosWebConf | Sesión 03: Bots, reutilizando código, Variable Fonts** - JavaScript Linter Bot, Reutilización de Código, Elegante camino hacía las variables Fonts
 
-### Eventos para el 23 de Junio de 2020
+### Eventos del 23 de Junio de 2020
 
 - ⏰ Aprendiendo a usar Teams
 - ⏰ Tableau para Aplicaciones Móviles
@@ -239,12 +252,12 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 - ⏰ ¿Por qué Estudiar Ciencias de la Computación?
 - ⏰ Ilustración de personajes a partir de siluetas
 
-### Eventos para el 24 de Junio de 2020
+### Eventos del 24 de Junio de 2020
 
 - ⏰ Neo4J - Spring Data Neo4j RX
 - ⏰ Día Azure
 
-### Eventos para el 25 de Junio de 2020
+### Eventos del 25 de Junio de 2020
 
 - ⏰ Tecnología Multicluster
 - ⏰ Sesión informativa online curso de programación de septiembre de Adalab
@@ -263,7 +276,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 - ⏰ ¿Cómo diseñar productos y experiencias memorables en remoto?
 - ⏰ ¿Cómo medir la salud de tu start-up en base a los DATOS?
 
-### Eventos para el 26 de Junio de 2020
+### Eventos del 26 de Junio de 2020
 
 - ⏰ Serverless,la computación sin servidor y la eficiencia de recursos con Rahjut Fernández
 - ⏰ Agile desde el principio
@@ -275,7 +288,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 - ⏰ Ciberseguridad en tiempos del COVID-19
 - ⏰ Ciclo de Webinars sobre Agilidad: El Product Owner virtuoso, rol como ventaja competitiva
 
-### Eventos para el 27 de Junio de 2020
+### Eventos del 27 de Junio de 2020
 
 - ⏰ Desenredando la Inteligencia Artificial
 - ⏰ Festival Disruptivo Digital: Blockchain, Industrias Creativas y Desarrollo
@@ -283,11 +296,11 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 - ⏰ Charla sobre VUE JS por Nacho Anaya
 - ⏰ React Workshop 101React Workshop 101 por Carolina Bustos
 
-### Eventos para el 28 de Junio de 2020
+### Eventos del 28 de Junio de 2020
 
 - ⏰ Festival Disruptivo Digital: Blockchain, Industrias Creativas y Desarrollo
 
-### Eventos para el 29 de Junio de 2020
+### Eventos del 29 de Junio de 2020
 
 - ⏰ Empleabilidad en lnteligencia Artificial: hype vs realidad, por Maite Iniesta
 - ⏰ Machine Learning 101 Webinar
