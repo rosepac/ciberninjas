@@ -13,7 +13,7 @@ header:
   overlay_filter: 0.2
   image_description: 'Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail.'
   image_alt: 'Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail.'
-title: '▷ Google Meet: Prepara nuevas y divertidas Próximas funciones'
+title: "▷ Google Meet\: Prepara nuevas y divertidas Próximas funciones"
 description: >-
   Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail.
 excerpt: >-
@@ -40,6 +40,6 @@ Según los datos de Google, el número de usuarios que utiliza Google Meet ha me
 
 Con la medida de Google de levantar el límite de tiempo en las llamadas gratuitas hasta el 30 de septiembre, también ha atraído a más usuarios a utilizar Google Met, además del añadido de las funciones avanzadas para los usuarios de  G Suite Esentials: como por ejemplo, agregado de números de teléfonos, reuniones de más usuarios, grabaciones de reuniones junto a Google Drive, Docs, etc, que permiten la creación de contenido y colaboración en tiempo real.
 
-![Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail.](/assets/images/2020-news/30-google-meet.webp "Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail.")
+![Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail](/assets/images/2020-news/30-google-meet.webp "Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
