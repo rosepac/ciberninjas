@@ -20,7 +20,7 @@ excerpt: >-
   Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail.
 canonical_URL: https://ciberninjas.com/cambios-google-meet/
 permalink: /cambios-google-meet/
-date: 2020-06-30 116:32:32
+date: 2020-06-30 16:32:32
 last_modified_at: 
 published: true
 
