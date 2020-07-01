@@ -13,10 +13,14 @@ author_profile: true
 permalink: /wiki/fediverso/
 canonical_URL: https://ciberninjas.com/wiki/fediverso/
 classes: wide
+header:
+  teaser: /assets/images/2020-news/fediverso.webp
 
 ---
 
 El Fediverso, palabra nacida del acrónimo de "federación" y "Universo" es el conjunto de redes federadas (es decir interconectados) mediante servidores alojados independientemente, que son utilizados para generar publicaciones web (es decir, redes sociales, microblogging, blogs o páginas web completas) y de alojamiento de archivos, pero que además; son capaces de comunicarse entre sí.
+
+![WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Fediverso es un conjunto de servidores federados  dedicados para realizar publicaciones web alojados de forma independiente](/assets/images/2020-news/fediverso.webp "WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Fediverso es un conjunto de servidores federados  dedicados para realizar publicaciones web alojados de forma independiente")
 
 En los diferentes servidores (instancias) los usuarios pueden crear las llamadas identidades y esas identidades pueden comunicarse más allá de los límites de las instancias porque el software que se ejecuta en los servidores admite uno o más protocolos de comunicación que siguen un estándar abierto.
 
