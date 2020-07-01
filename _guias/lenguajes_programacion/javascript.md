@@ -59,7 +59,7 @@ Desde Ciberninjas, ya hemos publicado infinitos recursos con los que poder apren
 
 Antes de nada, me gustaría resaltar, [**la importancia decentrarse en 3 recursos concretos principalmente**](https://ciberninjas.com/programar/#c%C3%B3mo-aprender-a-programar-c%C3%B3digo), intentar limitar los recursos utilizados y procurar llegar al final de los mismos, antes de comenzar con otros.
 
-Esto puede ser complementado a la perfección, a través de múltiples tutoriales que desarrollen exactamente lo que necesites ejecutar y el seguimiento de eventos (charlas, tutoriales, webinars online) que te harán ir profundizando cada vez más dentro del mundo de Javascript, y harán que te familiarices con la jerga de la programación e incluso descubrir nuevos trucos, detalles o librerías; que más tarde, con seguridad aplicarás.
+Esto puede ser complementado a la perfección, a través de múltiples tutoriales que desarrollen exactamente lo que necesites ejecutar y el seguimiento de eventos (charlas, tutoriales, webinars online) que te harán ir profundizando cada vez más dentro del mundo de Javascript y harán que te familiarices con la jerga de la programación e incluso descubrir nuevos trucos, detalles o librerías; que más tarde, con seguridad aplicarás.
 
 Dicho esto, si deseas aprender Javascript. Deberías comenzar por aprender Javascript puro o lo que denominan Javascript Vainilla o Javascript simple, sin la dependencia de librerías o código extra más que el que tú, seas capaz de ir creando desde cero.
 
