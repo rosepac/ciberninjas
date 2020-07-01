@@ -38,7 +38,7 @@ En esta publicación, vamos a analizar una lista software que considero inútil 
 - [4. **IObit Smart Defrag y otros desfragmentadores**](#4-iobit-smart-defrag-y-otros-desfragmentadores)
   - [**Alternativas a los programas desfragmentadores**](#alternativas-a-los-programas-desfragmentadores)
 - [5. **Programas de Stardock y similares**](#5-programas-de-stardock-y-similares)
-  - [**Alternativas a **](#alternativas-a-)
+  - [**Alternativas a Stardock**](#alternativas-a-stardock)
 - [6. **Fast Video Downloader y similares**](#6-fast-video-downloader-y-similares)
   - [**Alternativas a Fast Video Downloader**](#alternativas-a-fast-video-downloader)
 - [7. **"Instaladores" y "actualizadores" de programas**](#7-instaladores-y-actualizadores-de-programas)
@@ -116,7 +116,7 @@ Los programas como Object Desktop, ObjectDock, IconPackager, que están diseñad
 
 Pero naturalmente, tarde o temprano, irás notando como el sistema se acaba ralentizando terriblemente; e incluso, a veces termina por saturarse por completo.
 
-### **Alternativas a **
+### **Alternativas a Stardock**
 
 Haz clic en "Inicio" → "Configuración" → "Personalización" → "Temas" → "Otros temas en la tienda de Microsoft". Aquí tienes mucho más fondos de pantalla aburridos, y si quieres algo que se parezca más a Ubuntu o macOS: **Instala Linux o [compra un Mac](https://amzn.to/2Weh3CV){:target="_blank" rel="nofollow,noreferrer"}**.
 
