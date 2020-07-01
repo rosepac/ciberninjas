@@ -62,4 +62,3 @@ Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.or
 {: .notice--danger}
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-

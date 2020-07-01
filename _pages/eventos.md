@@ -44,7 +44,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 ### Eventos para el 30 de Junio de 2020
 
 - ⏰ **NASA Spaceapps AI Bootcamp** (10:00 AM) 👉 (<a href='https://kutt.it/nasa-space-bootcamp'>https://kutt.it/nasa-space-bootcamp</a>)
-- ⏰ **Virtual Lab: Serverless** (17:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
+- ⏰ **Virtual Lab: Serverless** (22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 - ⏰ **Python Fundamentals aplicado: Data Science** (18:30) 👉 (<a href='https://kutt.it/30-junio-python'>https://kutt.it/30-junio-python</a>)
 - ⏰ **Webinar: Tecnologías Emergentes** (19:00 PM) 👉 <a href='https://kutt.it/tecnologia-emergente'>https://kutt.it/tecnologia-emergente</a>
 - ⏰ **Webinar: Análisis y Conclusiones del WWDC 2020** (19:00 PM) 👉 <a href='https://kutt.it/wwdc-keep-coding'>https://kutt.it/wwdc-keep-coding</a>
@@ -102,7 +102,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ### Eventos para el 13 de Julio de 2020
 
-⏰ Virtual Lab: Despliegue de Aplicaciones en Kubernetes (13 de Julio, 17:00 H. Española)
+⏰ Virtual Lab: Despliegue de Aplicaciones en Kubernetes (13 de Julio, 22:00 H. Española)
  👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
 ### Eventos para el 18 de Julio de 2020
@@ -119,7 +119,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ### Eventos para el 28 de Julio de 2020
 
-⏰ Virtual Lab: CI / CD en Kubernetes con Tekton Pipelines (28 de Julio, 17:00 H. Española)
+⏰ Virtual Lab: CI / CD en Kubernetes con Tekton Pipelines (28 de Julio, 22:00 H. Española)
  👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
 ### Eventos para el 29 de Julio de 2020
@@ -135,7 +135,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ### Eventos para el 11 de Agosto de 2020
 
-⏰ Virtual Lab: Envió y Recepción de Mensajes con IBM Event Streams (11 de Agosto, 17:00 H. Española)
+⏰ Virtual Lab: Envió y Recepción de Mensajes con IBM Event Streams (11 de Agosto, 22:00 H. Española)
  👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
 ### Eventos para el 12 de Agosto de 2020
