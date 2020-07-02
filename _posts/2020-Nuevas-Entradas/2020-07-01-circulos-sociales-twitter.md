@@ -13,7 +13,7 @@ header:
   overlay_filter: 0.2
   image_description: 'Descubre tus mejores amigos y el círculo de las personas más importantes con relación a tu actividad de Twitter.'
   image_alt: 'Descubre tus mejores amigos y el círculo de las personas más importantes con relación a tu actividad de Twitter.'
-title: "▷ Chirpty\: Conoce tu círculo de interacción de Twitter"
+title: "▷ Chirpty: Conoce tu círculo de interacción de Twitter"
 description: >-
   Descubre tus mejores amigos y el círculo de las personas más importantes con relación a tu actividad de Twitter.
 excerpt: >-
