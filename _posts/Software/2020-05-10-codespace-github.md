@@ -9,7 +9,7 @@ permalink: /codespace-editor-github/
 classes: wide
 published: true
 categories:
-  - Editor de Texto
+  - Editores de Texto
 tags:
   - Github
   - Codespace
@@ -30,23 +30,27 @@ header:
 
 ---
 
+Contribuir con código a una comunidad puede ser difícil. Cada repositorio tiene su propia forma de configurar un entorno de desarrollo, que a menudo requiere docenas de pasos antes de poder escribir cualquier código.
+
+Peor aún, a veces el entorno de dos proyectos en los que está trabajando entra en conflicto entre sí.
+
 ![Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios](/assets/images/blog/10-codespace-editor-github.webp "Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios")
 
-Contribuir con código a una comunidad puede ser difícil. Cada repositorio tiene su propia forma de configurar un entorno de desarrollo, que a menudo requiere docenas de pasos antes de poder escribir cualquier código. Peor aún, a veces el entorno de dos proyectos en los que está trabajando entra en conflicto entre sí. Codespaces le brinda un entorno de desarrollo con todas las funciones alojado en la nube que gira en segundos, directamente dentro de GitHub, para que pueda comenzar a contribuir a un proyecto de inmediato.
+Codespaces le brinda un entorno de desarrollo con todas las funciones alojado en la nube que gira en segundos, directamente dentro de GitHub, para que pueda comenzar a contribuir a un proyecto de inmediato.
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-- [**Qué es Codespaces?**](#qu%c3%a9-es-codespaces)
-- [**Qué permitirá hacer Codespaces?**](#qu%c3%a9-permitir%c3%a1-hacer-codespaces)
-- [**Características de Codespaces**](#caracter%c3%adsticas-de-codespaces)
-- [**Codespaces está disponible para todos?**](#codespaces-est%c3%a1-disponible-para-todos)
-- [**Cómo empiezo a usar Codespaces?**](#c%c3%b3mo-empiezo-a-usar-codespaces)
-- [**Está disponible Codespaces para todos los repositorios?**](#est%c3%a1-disponible-codespaces-para-todos-los-repositorios)
-- [**Qué pasa si no quiero desarrollar en el navegador?**](#qu%c3%a9-pasa-si-no-quiero-desarrollar-en-el-navegador)
-- [**Cuánto cuesta Codespaces?**](#cu%c3%a1nto-cuesta-codespaces)
+- [**Qué es Codespaces?**](#qué-es-codespaces)
+- [**Qué permitirá hacer Codespaces?**](#qué-permitirá-hacer-codespaces)
+- [**Características de Codespaces**](#características-de-codespaces)
+- [**Codespaces está disponible para todos?**](#codespaces-está-disponible-para-todos)
+- [**Cómo empiezo a usar Codespaces?**](#cómo-empiezo-a-usar-codespaces)
+- [**Está disponible Codespaces para todos los repositorios?**](#está-disponible-codespaces-para-todos-los-repositorios)
+- [**Qué pasa si no quiero desarrollar en el navegador?**](#qué-pasa-si-no-quiero-desarrollar-en-el-navegador)
+- [**Cuánto cuesta Codespaces?**](#cuánto-cuesta-codespaces)
 - [**Diferentes entre Codespaces y Visual Studio Code**](#diferentes-entre-codespaces-y-visual-studio-code)
-- [**Cómo puedo configurar Codespaces?**](#c%c3%b3mo-puedo-configurar-codespaces)
+- [**Cómo puedo configurar Codespaces?**](#cómo-puedo-configurar-codespaces)
   - [Relacionados](#relacionados)
 
 ## **Qué es Codespaces?**

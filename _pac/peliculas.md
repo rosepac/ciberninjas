@@ -126,7 +126,7 @@ La realidad es, que casi todas las películas deanimación me suelen gustar; has
 * [10 grandes series y películas de ciencia ficción poética](https://www.elperiodico.com/es/ocio-y-cultura/20200504/mas-alla-de-devs-hbo-seleccion-diez-grandes-series-y-peliculas-de-ciencia-ficcion-poetica-7946379){:target="_blank" rel="nofollow,noreferrer"}
 * [Code 8 y Otras Siete Películas de Acción y Ciencia Ficción](https://cinemania.20minutos.es/noticias/code-8-y-otras-siete-peliculas-de-accion-y-ciencia-ficcion-de-bajo-presupuesto/){:target="_blank" rel="nofollow,noreferrer"}
   * Code 8. Freaks (2018). Guns Akimbo (2019). Upgrade - Ilimitado (2018). Overlord (2018). Hardcore Henry (2018). Turbo Kid (2015). Predestination (2014).
-* Dark (2017)
+* Dark (2017) [Wikipedia Información](https://en.wikipedia.org/wiki/Dark_(TV_series))
 
 ## Series Actuales
 

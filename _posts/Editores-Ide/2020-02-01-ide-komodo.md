@@ -15,7 +15,7 @@ canonical_URL: https://ciberninjas.com/ide-komodo-gratis/
 classes: wide
 categories:
 - SDK Multiplataforma
-- Editor de Texto
+- Editores de Texto
 tags:
 - Komodo
 
