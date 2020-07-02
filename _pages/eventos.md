@@ -41,30 +41,16 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ## **Eventos tecnológicos de Junio**
 
-### Eventos para el 30 de Junio de 2020
-
-- ⏰ **NASA Spaceapps AI Bootcamp** (10:00 AM) 👉 (<a href='https://kutt.it/nasa-space-bootcamp'>https://kutt.it/nasa-space-bootcamp</a>)
-- ⏰ **Virtual Lab: Serverless** (22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
-- ⏰ **Python Fundamentals aplicado: Data Science** (18:30) 👉 (<a href='https://kutt.it/30-junio-python'>https://kutt.it/30-junio-python</a>)
-- ⏰ **Webinar: Tecnologías Emergentes** (19:00 PM) 👉 <a href='https://kutt.it/tecnologia-emergente'>https://kutt.it/tecnologia-emergente</a>
-- ⏰ **Webinar: Análisis y Conclusiones del WWDC 2020** (19:00 PM) 👉 <a href='https://kutt.it/wwdc-keep-coding'>https://kutt.it/wwdc-keep-coding</a>
-
-## **Eventos tecnológicos de Julio**
-
-### Eventos para el 01 de Julio de 2020
-
-- ⏰ **Webinar: Metodología Kanban** (01:30 H. AM) 👉 <a href='https://kutt.it/kanban-training-talent'>https://kutt.it/kanban-training-talent</a>
-- ⏰ **Análisis de oportunidades SEO y Auditoría de backlinks** (19:00 H.) 👉 <a href='https://kutt.it/semrush-punto-rojo'>https://kutt.it/semrush-punto-rojo</a>
-- ⏰ **UX en las organizaciones** (18:00 H.) 👉 <a href='https://kutt.it/ux-loom'>https://kutt.it/ux-loom</a>
-- ⏰ **Publicidad Digital: estrategias para aumentar ingresos** (19:00 H.) 👉 <a href='https://kutt.it/publi-unesdi'>https://kutt.it/publi-unesdi</a>
-
 ### Eventos para el 02 de Julio de 2020
 
 - ⏰ **Machine Learning. ¿Cómo empezar?/Sesiones en vivo** (02:00 H. AM) 👉 <a href='https://kutt.it/ml-ses-1-bedu'>https://kutt.it/ml-ses-1-bedu</a>
 - ⏰ **Webinar CACE - Primeros pasos para crear anuncios en Facebook e Instagram** (16:00 H.) 👉 <a href='https://kutt.it/tecnologia-anuncios-face-insta'>https://kutt.it/tecnologia-anuncios-face-insta</a>
+- ⏰ **Webinar: Qué habilidades necesitas para conseguir Tu Primer Empleo Tech!** (16:00 H.) 👉 <a href='https://kutt.it/empleo-tech-codenotch'>https://kutt.it/empleo-tech-codenotch</a>
 
 ### Eventos para el 03 de Julio de 2020
 
+- ⏰ **Javascript 101** (02:00 H. AM) 👉 <a href='https://www.eventbrite.com.mx/e/javascript-101-tickets-111057690542?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>Javascript 101</a>
+- ⏰ **TypeScript en el BackEnd con NestJS** (13:00 H.) 👉 <a href='https://www.eventbrite.es/e/entradas-typescript-en-el-backend-con-nestjs-110797115154?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>TypeScript en el BackEnd con NestJS</a>
 - ⏰ **Ciclo de Webinars sobre Agilidad: Mi evolución como Scrum Master a Líder Servil** (13:00 H.) 👉 <a href='https://kutt.it/web-agile-master'>https://kutt.it/web-agile-master</a>
 - ⏰ **Webinar: Transformación Digital** (16:00 H.) 👉 <a href='https://kutt.it/trans-digital-fund-global'>https://kutt.it/trans-digital-fund-global</a>
 
@@ -124,7 +110,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ### Eventos para el 29 de Julio de 2020
 
-⏰ Neo4J - 13h00 - Graph Data Science Library 👇
+⏰ Neo4J: Graph Data Science Library (13:00 H.) 👇
 
 <a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
 
@@ -305,3 +291,20 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 - ⏰ Empleabilidad en lnteligencia Artificial: hype vs realidad, por Maite Iniesta
 - ⏰ Machine Learning 101 Webinar
 - ⏰ Aprende Linux desde Cero
+
+### Eventos para el 30 de Junio de 2020
+
+- ⏰ **NASA Spaceapps AI Bootcamp** (10:00 AM) 👉 (<a href='https://kutt.it/nasa-space-bootcamp'>https://kutt.it/nasa-space-bootcamp</a>)
+- ⏰ **Virtual Lab: Serverless** (22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
+- ⏰ **Python Fundamentals aplicado: Data Science** (18:30) 👉 (<a href='https://kutt.it/30-junio-python'>https://kutt.it/30-junio-python</a>)
+- ⏰ **Webinar: Tecnologías Emergentes** (19:00 PM) 👉 <a href='https://kutt.it/tecnologia-emergente'>https://kutt.it/tecnologia-emergente</a>
+- ⏰ **Webinar: Análisis y Conclusiones del WWDC 2020** (19:00 PM) 👉 <a href='https://kutt.it/wwdc-keep-coding'>https://kutt.it/wwdc-keep-coding</a>
+
+## **Eventos tecnológicos de Julio**
+
+### Eventos para el 01 de Julio de 2020
+
+- ⏰ **Webinar: Metodología Kanban** (01:30 H. AM) 👉 <a href='https://kutt.it/kanban-training-talent'>https://kutt.it/kanban-training-talent</a>
+- ⏰ **Análisis de oportunidades SEO y Auditoría de backlinks** (19:00 H.) 👉 <a href='https://kutt.it/semrush-punto-rojo'>https://kutt.it/semrush-punto-rojo</a>
+- ⏰ **UX en las organizaciones** (18:00 H.) 👉 <a href='https://kutt.it/ux-loom'>https://kutt.it/ux-loom</a>
+- ⏰ **Publicidad Digital: estrategias para aumentar ingresos** (19:00 H.) 👉 <a href='https://kutt.it/publi-unesdi'>https://kutt.it/publi-unesdi</a>
