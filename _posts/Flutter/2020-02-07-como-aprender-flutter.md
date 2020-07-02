@@ -1,11 +1,11 @@
 ---
 
 author_profile: true
-title: "🥇 ▷ Cómo aprender Flutter en 2020"
+title: "🥇 ▷ ¿Cómo aprender Flutter en 2020?"
 description: >-
-  ✅ Flutter es una tecnología que es tendencia este año. Este artículo sugiere algunas formas gratuitas para aprender a desarrollar aplicaciones iOS y Android con Flutter
+  ✅ Flutter es una tecnología que es tendencia este año. Este artículo sugiere algunas formas gratuitas para aprender a desarrollar aplicaciones iOS y Android con Flutter.
 excerpt: >-
-  ✅ Flutter es una tecnología que es tendencia este año. Este artículo sugiere algunas formas gratuitas para aprender a desarrollar aplicaciones iOS y Android con Flutter
+  ✅ Flutter es una tecnología que es tendencia este año. Este artículo sugiere algunas formas gratuitas para aprender a desarrollar aplicaciones iOS y Android con Flutter.
 published: true
 comments: false
 date: 2020-02-07 14:50:12
@@ -22,9 +22,35 @@ categories:
 
 ---
 
-![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/images/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp "Logotipo oficial del SDK multiplataforma de Flutter")
+Flutter es un framework SDK multiplataforma de interfaz de usuario móvil gratuito y de código abierto creado por Google y lanzado en mayo de 2017. En pocas palabras, esto te va a permitir crear una aplicación móvil nativa con un solo código, lo que significa que vas a poder utilizar un mismo lenguaje de programación y una única base de código para crear dos o más aplicaciones diferentes (IOS, Android, web, escritorio).
 
-Flutter es un framework SDK multiplataforma de interfaz de usuario móvil gratuito y de código abierto creado por Google y lanzado en mayo de 2017. En pocas palabras, esto le permite crear una aplicación móvil nativa con un solo código. Significa que puede usar un lenguaje de programación y una base de código para crear dos aplicaciones diferentes (IOS y Android).
+![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/images/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp "Logotipo oficial del SDK multiplataforma de Flutter")
+- [¿Estás interesado en el desarrollo de aplicaciones móviles?](#estás-interesado-en-el-desarrollo-de-aplicaciones-móviles)
+- [🆓 Contenido gratuito](#-contenido-gratuito)
+  - [📸 Videos / Cursos](#-videos--cursos)
+- [Tutorial de programación de Dart: Curso completo{:target="_blank" rel="nofollow,noreferrer"}](#tutorial-de-programación-de-dart-curso-completotarget_blank-relnofollownoreferrer)
+- [Curso de Flutter - Tutorial completo para principiantes (compilación de aplicaciones iOS y Android){:target="_blank" rel="nofollow,noreferrer"}](#curso-de-flutter---tutorial-completo-para-principiantes-compilación-de-aplicaciones-ios-y-androidtarget_blank-relnofollownoreferrer)
+- [Curso intensivo de revoloteo{:target="_blank" rel="nofollow,noreferrer"}](#curso-intensivo-de-revoloteotarget_blank-relnofollownoreferrer)
+- [Flutter Tutorial para principiantes{:target="_blank" rel="nofollow,noreferrer"}](#flutter-tutorial-para-principiantestarget_blank-relnofollownoreferrer)
+- [Flutter y Firebase App Build{:target="_blank" rel="nofollow,noreferrer"}](#flutter-y-firebase-app-buildtarget_blank-relnofollownoreferrer)
+- [Reso Coder{:target="_blank" rel="nofollow,noreferrer"}](#reso-codertarget_blank-relnofollownoreferrer)
+- [FilledStacks{:target="_blank" rel="nofollow,noreferrer"}](#filledstackstarget_blank-relnofollownoreferrer)
+- [Code With Andrea{:target="_blank" rel="nofollow,noreferrer"}](#code-with-andreatarget_blank-relnofollownoreferrer)
+  - [👩‍💻 Google Codelabs](#-google-codelabs)
+  - [📄 Documentación](#-documentación)
+  - [✍ Artículos](#-artículos)
+  - [🗃 Repositorios](#-repositorios)
+  - [📚 Libros](#-libros)
+- [Flutter Concisamente](#flutter-concisamente)
+- [Manual de tutoriales de Flutter](#manual-de-tutoriales-de-flutter)
+- [💰 Contenido Pagado](#-contenido-pagado)
+  - [📚 Libros](#-libros-1)
+- [Aprende Rápidamente Flutter de Google: Con 65 aplicaciones de ejemplo{:target="_blank" rel="nofollow,noreferrer"}](#aprende-rápidamente-flutter-de-google-con-65-aplicaciones-de-ejemplotarget_blank-relnofollownoreferrer)
+- [Aprendiendo Flutter: Una guía práctica para el desarrollo de aplicaciones{:target="_blank" rel="nofollow,noreferrer"}](#aprendiendo-flutter-una-guía-práctica-para-el-desarrollo-de-aplicacionestarget_blank-relnofollownoreferrer)
+- [Flutter Práctico: Mejore su desarrollo móvil con el último SDK de código abierto de Google{:target="_blank" rel="nofollow,noreferrer"}](#flutter-práctico-mejore-su-desarrollo-móvil-con-el-último-sdk-de-código-abierto-de-googletarget_blank-relnofollownoreferrer)
+- [Flutter para Dummies{:target="_blank" rel="nofollow,noreferrer"}](#flutter-para-dummiestarget_blank-relnofollownoreferrer)
+- [Guía Flutter](#guía-flutter)
+- [Mucho Más..](#mucho-más)
 
 **Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}

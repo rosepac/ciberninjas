@@ -25,9 +25,9 @@ header:
 # toc_sticky: true
 ---
 
-![Curso Introducción al desarrollo de Flutter con Dart, Totalmente GRATIS. Más de 10 horas de video y tutoriales prácticos de Flutter y el lenguaje de programación Dart](/assets/images/blog/curso-inicio-flutter-dart.webp "Curso Introducción al desarrollo de Flutter con Dart, Totalmente GRATIS. Más de 10 horas de video y tutoriales prácticos de Flutter y el lenguaje de programación Dart")
-
 A medida que atravesamos juntos por la crisis global actual, sabemos que muchas personas desean **iniciarse en el desarrollo de nuevas habilidades**. Desde el equipo de desarrollo de Flutter, queremos aportar nuestro pequeño granito de arena.
+
+![Curso Introducción al desarrollo de Flutter con Dart, Totalmente GRATIS. Más de 10 horas de video y tutoriales prácticos de Flutter y el lenguaje de programación Dart](/assets/images/blog/curso-inicio-flutter-dart.webp "Curso Introducción al desarrollo de Flutter con Dart, Totalmente GRATIS. Más de 10 horas de video y tutoriales prácticos de Flutter y el lenguaje de programación Dart")
 
 Así que hemos llegado a una asociación con App Brewery para **regalar [un nuevo curso de introducción](https://www.appbrewery.co/courses/intro-to-flutter){:target="_blank" rel="nofollow,noreferrer"} a Flutter**, ofreciendo **acceso gratuito al curso a quienes lo activen en los próximos tres meses**. Este curso no requiere experiencia previa en Flutter, y esperamos que le brinde la oportunidad de desarrollar nuevas habilidades de desarrollo para iOS, Android y la web.
 

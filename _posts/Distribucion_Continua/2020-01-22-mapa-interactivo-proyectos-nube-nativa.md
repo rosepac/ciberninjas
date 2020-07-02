@@ -6,16 +6,16 @@ excerpt: "🌟 Panórama de todas las empresas y proyectos que existen relaciona
 published: true
 comments: false
 classes: wide
-date: 2020-01-22 17:27:12
+date: 2020-07-01 17:27:12
 last_modified_at: 
 header:
-  teaser: https://i.ibb.co/ZzFxyfq/cncf-landscape-horizontal-color.png
-  overlay_image: https://i.ibb.co/ZzFxyfq/cncf-landscape-horizontal-color.png
+  teaser: /assets/images/2020-news/cncf-landscape-horizontal-color.webp
+  overlay_image: /assets/images/2020-news/cncf-landscape-horizontal-color.webp
   overlay_filter: 0.2
   image_description: '🌟 Panórama de todas las empresas y proyectos que existen relacionados con la Nube Nativa o Cloud Native'
   image_alt: '🌟 Panórama de todas las empresas y proyectos que existen relacionados con la Nube Nativa o Cloud Native'
   caption: "Créditos: [CNFC](https://github.com/cncf/landscape#cloud-native-landscape)"
-canonical_URL: /mapa-interactivo-proyectos-nube-nativa/
+canonical_URL: https://ciberninjas.com/mapa-interactivo-proyectos-nube-nativa/
 classes: wide
 categories:
 - Distribución Continua
@@ -35,9 +35,11 @@ tags:
 # toc_sticky: true
 ---
 
-El Proyecto de Paisaje Cloud Native o CNCF está diseñado como un mapa a través del terreno previamente desconocido de las tecnologías nativas en la nube. Esto intenta clasificar la mayoría de los proyectos y ofertas de productos en el espacio nativo de la nube. Existen muchas rutas para implementar una aplicación nativa en la nube, y los proyectos CNCF representan una ruta particularmente transitada. Ha sido construido en colaboración con Redpoint Ventures y Amplify Partners .
+El Proyecto de Paisaje Cloud Native o CNCF está diseñado como un mapa a través del terreno previamente desconocido de las tecnologías nativas en la nube. Esto intenta clasificar la mayoría de los proyectos y ofertas de productos en el espacio nativo de la nube.
 
-El software para el paisaje interactivo se ha extraído a https://github.com/cncf/landscapeapp, donde también se usa para otros paisajes. Este repositorio incluye todos los datos e imágenes específicos de los paisajes de CNCF.
+Existen muchas rutas para implementar una aplicación nativa en la nube, y los proyectos CNCF representan una ruta particularmente transitada. Ha sido construido en colaboración con Redpoint Ventures y Amplify Partners .
+
+El software para el paisaje interactivo se ha extraído de [Landscape APP](https://github.com/cncf/landscapeapp){:target="_blank rel="nofollow,noreferrer""}, donde también se usa para otros paisajes. Este repositorio incluye todos los datos e imágenes específicos de los paisajes de CNCF.
 
 
 ## Visualizar Mapa del Cloud Native 2020
@@ -45,7 +47,6 @@ El software para el paisaje interactivo se ha extraído a https://github.com/cnc
 <iframe src="https://drive.google.com/file/d/1rJYvT8stuQGdC9flxfS6YZIM6tvfwLlx/preview" width="935" height="480"></iframe>
 
 [👉 Mapa Versión Interactiva Cloud Native 2020 🔨](https://landscape.cncf.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[👉 Ver Versión PNG](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Empresas de Cloud Native 2020
 
@@ -67,4 +68,4 @@ El software para el paisaje interactivo se ha extraído a https://github.com/cnc
 * [Cloud Native Landscape](https://landscape.cncf.io/){:target="_blank" rel="nofollow,noreferrer"}
 * [Repositorio de Github](https://github.com/cncf/landscape#cloud-native-landscape){:target="_blank" rel="nofollow,noreferrer"}
 
-![Logotipo de la CNFC o Cloud Native Computing Foundation](https://i.ibb.co/ZzFxyfq/cncf-landscape-horizontal-color.png)
+![Logotipo de la CNFC o Cloud Native Computing Foundation](/assets/images/2020-news/cncf-landscape-horizontal-color.png)

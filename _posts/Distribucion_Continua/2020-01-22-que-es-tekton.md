@@ -1,16 +1,16 @@
 ---
 author_profile: true
 title: "▷ ¿Qué es Tekton? Novedades y Cambios"
-description: "Descubre este recurso de organización para el trabajo de la integración continua"
-excerpt: "Vas a encontrarte explicado el concepto de interoperabilidad dentro del mundo CI / CD además del equipo de trabajo sobre el desarrollo del término en sí"
+description: "Tekton, es un recurso de canalización nativo para Kubernetes. El proyecto de tuberías de Tekton proporciona recursos de Kubernetes para declarar tuberías de integración y depuración continua."
+excerpt: "Tekton, es un recurso de canalización nativo para Kubernetes. El proyecto de tuberías de Tekton proporciona recursos de Kubernetes para declarar tuberías de integración y depuración continua."
 published: true
 comments: false
 date: 2020-01-22 19:10:12
 last_modified_at: 2020-05-04 19:10:12
 header:
   teaser: /assets/images/blog/pagina-tekton.webp
-  image_description: 'Qué es Tekton: El recurso de canalización nativo para Kubernetes'
-  image_alt: 'Qué es Tekton: El recurso de canalización nativo para Kubernetes'
+  image_description: 'Tekton, es un recurso de canalización nativo para Kubernetes. El proyecto de tuberías de Tekton proporciona recursos de Kubernetes para declarar tuberías de integración y depuración continua.'
+  image_alt: 'Tekton, es un recurso de canalización nativo para Kubernetes. El proyecto de tuberías de Tekton proporciona recursos de Kubernetes para declarar tuberías de integración y depuración continua.'
 canonical_URL: https://ciberninjas.com/que-es-tekton/
 permalink: /que-es-tekton/
 classes: wide

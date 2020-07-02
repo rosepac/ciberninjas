@@ -9,8 +9,8 @@ tags:
 categories:
 - Java
 header:
-  teaser: /assets/images/blog/
-  overlay_image: /assets/images/blog/
+  teaser: /assets/images/2020-news/
+  overlay_image: /assets/images/2020-news/
   overlay_filter: 0.2
   image_description: ''
   image_alt: ''
@@ -21,7 +21,7 @@ excerpt: >-
   ''
 canonical_URL: https://ciberninjas.com//
 permalink: //
-date: 2020-06-01 18:32:32
+date: 2020-07-02 10:38:32
 last_modified_at: 
 published: false
 

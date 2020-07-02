@@ -7,10 +7,10 @@ published: true
 author_profile: true
 comments: false
 classes: wide
-date: 2020-01-31 12:05:33
+date: 2020-06-28 12:05:33
 last_modified_at: 
 header:
-  teaser: https://i.ibb.co/2Sk0Kdr/vscode-show-in-browser-4848ba01b78de1138104589c726b1dd8a845364356b9d50dffdffd36dbf20887.png
+  teaser: /assets/images/2020-news/vscode-show-in-browser.webp
 tags:
 - Flutter
 - Dart
@@ -22,17 +22,18 @@ canonical_URL: https://ciberninjas.com/flutter-dart-devtools/
 
 ---
 
-![Herramienta de desarrolladores Dart DevTools](https://i.ibb.co/2Sk0Kdr/vscode-show-in-browser-4848ba01b78de1138104589c726b1dd8a845364356b9d50dffdffd36dbf20887.png "Herramienta de desarrolladores Dart DevTools")
-
-## ¿Qué es DevTools?
-
 DevTools es un conjunto de herramientas de rendimiento y depuración para Dart y Flutter. Actualmente está en versión preliminar, pero está en desarrollo activo.
 
-![Captura de pantalla del modo oscuro de la línea de tiempo](https://flutter.dev/assets/tools/devtools/timeline-dark-mode-900678f534f0bd55edd3f75c129c40005720bbd674c09f72126b3931b4509b02.png)
+![Herramienta de desarrolladores Dart DevTools. Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.](/assets/images/2020-news/vscode-show-in-browser.webp "Herramienta de desarrolladores Dart DevTools. Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.")
+- [**¿Qué puedo hacer con DevTools?**](#qué-puedo-hacer-con-devtools)
+- [**¿Cómo instalo DevTools?**](#cómo-instalo-devtools)
+- [**¿Cómo pruebo DevTools escrito en Flutter?**](#cómo-pruebo-devtools-escrito-en-flutter)
+- [**Proveer retroalimentacion**](#proveer-retroalimentacion)
+- [**Otros recursos**](#otros-recursos)
+- [**Guía DevTools**](#guía-devtools)
+- [Relacionados](#relacionados)
 
-Vista de la línea de tiempo de DevTools en modo oscuro
-
-## ¿Qué puedo hacer con DevTools?
+## **¿Qué puedo hacer con DevTools?**
 
 Estas son algunas de las cosas que puede hacer con DevTools:
 
@@ -46,29 +47,25 @@ Esperamos que use DevTools junto con su flujo de trabajo de desarrollo basado en
 
 ![GIF que muestra las características de DevTools](https://flutter.dev/assets/tools/devtools/inspector-3e6fa95156e6a794c715af44e0a85e45609c710f3fe20a24dfac5002fa8d58e0.gif)
 
-DevTools en acción
-
-## ¿Cómo instalo DevTools?
+## **¿Cómo instalo DevTools?**
 
 Consulte las páginas de [línea de comandos](https://flutter.dev/docs/development/tools/devtools/cli){:target="_blank" rel="nofollow,noreferrer"}, [Android Studio / IntelliJ](https://flutter.dev/docs/development/tools/devtools/android-studio){:target="_blank" rel="nofollow,noreferrer"}, [VS Code](https://flutter.dev/docs/development/tools/devtools/vscode){:target="_blank" rel="nofollow,noreferrer"} o [Command](https://flutter.dev/docs/development/tools/devtools/cli){:target="_blank" rel="nofollow,noreferrer"} para obtener instrucciones de instalación.
 
-## ¿Cómo pruebo DevTools escrito en Flutter?
+## **¿Cómo pruebo DevTools escrito en Flutter?**
 
 Para probar la versión alfa de DevTools escrita en Flutter, haga clic en el icono "vaso de precipitados" en la esquina superior derecha de DevTools. Esto lanzará DevTools que se ejecuta en la web Flutter. Esta versión está en versión preliminar temprana con solo la función de pestaña de inspector completa. Está en desarrollo activo.
 
-![Captura de pantalla del punto de entrada alfa de DevTools](https://flutter.dev/assets/tools/devtools/devtools_alpha_entrypoint-f608a371abb52b896949f65675ae57929da0dfaba428020b1504e3acb25f732f.png)
-
-## Proveer retroalimentacion
+## **Proveer retroalimentacion**
 
 Pruebe DevTools, proporcione comentarios y problemas de archivos en el [rastreador de problemas de DevTools](https://github.com/flutter/devtools/issues){:target="_blank" rel="nofollow,noreferrer"}. ¡Gracias!
 
-## Otros recursos
+## **Otros recursos**
 
 Para obtener más información sobre depuración y creación de perfiles de aplicaciones Flutter, consulte la página [Depuración](https://flutter.dev/docs/testing/debugging){:target="_blank" rel="nofollow,noreferrer"} y, en particular, su lista de [otros recursos](https://flutter.dev/docs/testing/debugging#other-resources){:target="_blank" rel="nofollow,noreferrer"}.
 
 Para obtener más información sobre el uso de DevTools con las aplicaciones de línea de comandos Dart, consulte la [documentación de DevTools en dart.dev](https://dart.dev/tools/dart-devtools).
 
-## Guía DevTools
+## **Guía DevTools**
 
 [📌 ¿Qué es DevTools?](/flutter-dart-devtools/){: .btn .btn--light-outline .btn--large} [👉 ¿Cómo instalar DevTools?](/flutter-dart-devtools-como-instalar/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar el inspector de DevTools?](/flutter-dart-devtools-inspector/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar la línea de tiempo de DevTools?](/flutter-dart-devtools-linea-tiempo/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar la vista de memoria de DevTools?](/flutter-dart-devtools-vista-memoria/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar la vista de rendimiento de DevTools?](/flutter-dart-devtools-vista-rendimiento/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar el depurador de DevTools?](/flutter-dart-devtools-depurador/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar la vista de registro de DevTools?](/flutter-dart-devtools-vista-registro/){: .btn .btn--inverse .btn--large} [👉 Guía Flutter?](/que-es-flutter-y-por-que-debes-aprenderlo/){: .btn .btn--inverse .btn--large}
 

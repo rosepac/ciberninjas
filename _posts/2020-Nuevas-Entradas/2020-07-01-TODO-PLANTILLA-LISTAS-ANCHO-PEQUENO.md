@@ -20,7 +20,7 @@ excerpt: >-
   .
 canonical_URL: https://ciberninjas.com//
 permalink: //
-date: 2020-06-01
+date: 2020-07-02
 last_modified_at: 
 published: false
 

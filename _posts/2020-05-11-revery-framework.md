@@ -11,7 +11,7 @@ categories:
 - SDK Multiplataforma
 header:
   teaser: /assets/images/blog/11-framework-revery.webp
-title: '🚀 ▷ Revery: Aplicaciones nativas, de alto rendimiento y multiplataforma, creadas con Reason'
+title: '🥇 ▷ Revery: Framework para crear aplicaciones nativas, de alto rendimiento y multiplataforma con Reason'
 description: >-
   Revery es un framework para crear aplicaciones GUI multiplataforma. Revery proporciona un enfoque funcional similar a React para modelar la interfaz de usuario, así como un andamiaje para administrar el ciclo de vida de la aplicación.
 excerpt: >-
@@ -24,7 +24,13 @@ published: true
 
 ---
 
+Revery es como una versión de Electrón nativo súper rápido, con React integrado, Redux y un sistema de construcción rápido, ¡todo listo para funcionar!
+
 ![Revery: Aplicaciones nativas, de alto rendimiento y multiplataforma, creadas con Reason, un framework para crear aplicaciones GUI multiplataforma](/assets/images/blog/11-framework-revery.webp "Revery: Aplicaciones nativas, de alto rendimiento y multiplataforma, creadas con Reason, un framework para crear aplicaciones GUI multiplataforma")
+- [**¿Qué es Revery?**](#qué-es-revery)
+- [**Características de Revery**](#características-de-revery)
+- [**¿Cómo comenzar con Revery?**](#cómo-comenzar-con-revery)
+	- [Otros](#otros)
 
 ## **¿Qué es Revery?**
 
