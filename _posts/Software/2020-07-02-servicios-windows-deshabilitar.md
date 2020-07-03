@@ -88,8 +88,6 @@ Los nombres exactos de los servicios pueden diferir en algo a los que encuentres
 
 [Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/)
 
-[Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/)
-
 ![Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.](/assets/images/2020-news/windows-servicios-des.webp "Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
