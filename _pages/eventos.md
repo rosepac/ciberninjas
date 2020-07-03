@@ -49,7 +49,7 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ### Eventos para el 03 de Julio de 2020
 
-- ⏰ **Javascript 101** (02:00 H. AM) 👉 <a href='https://www.eventbrite.com.mx/e/javascript-101-tickets-111057690542?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>Javascript 101</a>
+- ⏰ **Javascript 101** (02:00 H. AM) 👉 <a href='https://kutt.it/javascript-101-julio'>Javascript 101</a>
 - ⏰ **TypeScript en el BackEnd con NestJS** (13:00 H.) 👉 <a href='https://www.eventbrite.es/e/entradas-typescript-en-el-backend-con-nestjs-110797115154?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>TypeScript en el BackEnd con NestJS</a>
 - ⏰ **Ciclo de Webinars sobre Agilidad: Mi evolución como Scrum Master a Líder Servil** (13:00 H.) 👉 <a href='https://kutt.it/web-agile-master'>https://kutt.it/web-agile-master</a>
 - ⏰ **Webinar: Transformación Digital** (16:00 H.) 👉 <a href='https://kutt.it/trans-digital-fund-global'>https://kutt.it/trans-digital-fund-global</a>
