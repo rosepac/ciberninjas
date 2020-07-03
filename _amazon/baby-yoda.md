@@ -27,7 +27,9 @@ sidebar:
   nav: tienda
 ---
 
-Los serie The Mandalorian estrenada por Disney+ el 12 de noviembre de 2019 en EEUU. Se ubica en el universo de Star Wars creado por George Lucas, la serie tiene lugar unos años después de los eventos de Return of the Jedi, y sigue a un solitario pistolero más allá de los alcances de la República. Jon Favreau se desempeñó como guionista, creador y showrunner para la serie. La serie se enfoca en entremezclar la simbología y enfoque de todo el mundo de Star Wars junto a una pizca de acción que nos hará recordar a los westerns estadounidenses más clásicos.
+Los serie The Mandalorian estrenada por Disney+ el 12 de noviembre de 2019 en EEUU. Se ubica en el universo de Star Wars creado por George Lucas, la serie tiene lugar unos años después de los eventos de Return of the Jedi, y sigue a un solitario pistolero más allá de los alcances de la República.
+
+Jon Favreau se desempeñó como guionista, creador y showrunner para la serie. La serie se enfoca en entremezclar la simbología y enfoque de todo el mundo de Star Wars junto a una pizca de acción que nos hará recordar a los westerns estadounidenses más clásicos.
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/IqZ48OcUHD8?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe><br />
 
