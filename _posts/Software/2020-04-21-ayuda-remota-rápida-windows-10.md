@@ -1,15 +1,15 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Control Remoto
 - Windows
 categories:
 - Software
-header:
-  teaser: /assets/images/blog/captura-asistencia-rapida-2.webp
+thumbnail: /assets/img/blog/captura-asistencia-rapida-2.webp
+thumbnail2: /assets/img/blog/captura-asistencia-rapida-2.webp
 title: '💻 ▷ Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida de Windows 10'
 description: >-
   Olvídate de TeamViewer, el programa de Asistencia Rápida pasa a ser la mejor opción para ofrecer ayuda a tus amigos o familiares; entre dos sistemas operativos de Windows 10.
@@ -23,7 +23,7 @@ published: true
 
 ---
 
-![Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida de Windows 10](/assets/images/blog/captura-asistencia-rapida-2.webp "Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida de Windows 10")
+![Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida de Windows 10](/assets/img/blog/captura-asistencia-rapida-2.webp "Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida de Windows 10")
 
 Cuando tus familiares te solicitan ayuda con un su ordenador por teléfono, probablemente pienses inmediatamente en utilizar el software de TeamViewer. Este programa es tan popular que ya está inconscientemente asociado con el acceso remoto.
 

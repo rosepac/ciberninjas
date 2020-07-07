@@ -3,7 +3,7 @@ title: "📰 El mercado de la Inteligencia Articial está creciendo, pero ¿Qué
 excerpt: "🤖 El mercado de la Inteligencia Articial está creciendo, pero ¿Qué tan rápido lo hace?"
 description: "🤖 El mercado de la Inteligencia Articial está creciendo, pero ¿Qué tan rápido lo hace?"
 published: true
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-01-22 06:01:35
 tags:

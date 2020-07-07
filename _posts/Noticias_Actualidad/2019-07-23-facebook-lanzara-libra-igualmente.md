@@ -8,18 +8,13 @@ categories:
 tags:
 - Libra
 link: https://www.bbc.com/news/technology-49092713
-header:
-  teaser: "/assets/images/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"
-  overlay_image: "/assets/images/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"
-  overlay_filter: "0.2"
-  image_description: "Facebook mantiene un pulso contra la posible legislación americana de las criptomonedas | Ciberninjas"
-  caption: "**Créditos**: PxHere"
-
+thumbnail: "/assets/img/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"
+feature-img: "/assets/img/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"
 ---
 > Facebook No Descarta el Lanzamiento de Libra sin la Aprobación de EE. UU.
 
 <figure>
-    <a href="/assets/images/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg" class="image-popup"><img src="/assets/images/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"></a>
+    <a href="/assets/img/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg" class="image-popup"><img src="/assets/img/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"></a>
     <figcaption>Facebook mantiene un pulso contra la posible legislación americana de las criptomonedas | Ciberninjas</figcaption>
 </figure>
 

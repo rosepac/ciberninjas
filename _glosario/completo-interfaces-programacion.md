@@ -6,9 +6,7 @@ permalink: /glosario/completo-interfaces-programacion/
 published: true
 date: 2019-10-24
 last_modified_at: 2020-01-23
-classes: wide
-author_profile: true
-
+author: rosepac
 ---
 
 [👈 Regresar al Glosario Tecnológico](/glosario){: .btn .btn--inverse .btn--large .align-center}

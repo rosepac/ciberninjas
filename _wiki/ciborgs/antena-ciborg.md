@@ -5,8 +5,7 @@ description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica 
 excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Antena Cíborg"
 date: 2019-10-04 04:51:07
 published: true
-author_profile: true
-classes: wide
+author: rosepac
 permalink: /wiki/antena-ciborg/
 canonical_URL: https://ciberninjas.com/wiki/antena-ciborg/
 

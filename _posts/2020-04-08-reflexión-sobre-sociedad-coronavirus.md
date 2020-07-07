@@ -5,15 +5,15 @@ excerpt: ""
 date: 2020-04-08 11:11:00 +0100
 canonical_URL: https://ciberninjas.com/reflexión-sobre-sociedad-coronavirus/
 permalink: /reflexión-sobre-sociedad-coronavirus/
-published: true
+published: false
 categories:
   - Reflexión Sociedad
 tags:
   - Programar
   - Realidad
 # header:
-#   teaser: /assets/images/
-#  overlay_image: /assets/images/
+#   teaser: /assets/img/
+#feature-img: /assets/img/
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-

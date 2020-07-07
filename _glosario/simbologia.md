@@ -4,8 +4,6 @@ description: "Simbología"
 excerpt: "Conjunto o sistema de símbolos."
 permalink: /glosario/simbologia/
 canonical_URL: https://ciberninjas.com/glosario/simbologia/
-classes: wide
-
 ---
 
 Conjunto o sistema de símbolos.

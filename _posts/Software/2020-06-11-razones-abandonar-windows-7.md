@@ -1,18 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Windows 10
 categories:
 - Software
-header:
-  teaser: /assets/images/blog/windows-10.webp
-  overlay_image: /assets/images/blog/windows-10.webp
-  overlay_filter: 0.2
-  image_description: 'Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.'
-  image_alt: 'Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.'
+thumbnail: /assets/img/blog/windows-10.webp
+feature-img: /assets/img/blog/windows-10.webp
 title: '▷ 5 razones para abandonar Windows 7 y actualizar a Windows 10'
 description: >-
   Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.
@@ -94,6 +90,6 @@ Ahora que comprendes porque necesitas actualizar a Windows 10, debes elegir una 
 
 [Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/)
 
-![Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.](/assets/images/blog/windows-10.webp "Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.")
+![Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.](/assets/img/blog/windows-10.webp "Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

@@ -9,13 +9,8 @@ date: 2019-12-14T13:32:42+01:00
 last_modified_at: 2019-12-14T16:42:42+01:00
 permalink: /impresoras-3d-recursos/
 canonical_URL: https://ciberninjas.com/impresoras-3d-recursos/
-header:
-  teaser: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
-  overlay_image: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
-  overlay_filter: 0.2
-  image_description: 'Los Mejores Recursos para Impresoras 3D Gratis | Ciberninjas'
-  image_alt: 'Los Mejores Recursos para Impresoras 3D Gratis | Ciberninjas'
-  caption: "Créditos: Unsplash, de Dominio Público"
+thumbnail: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
+feature-img: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
 #   width: 1024

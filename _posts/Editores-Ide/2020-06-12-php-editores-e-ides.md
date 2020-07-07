@@ -1,18 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - PHP
 categories:
 - Editores de Texto
-header:
-  teaser: /assets/images/blog/php-ide/php-editores.webp
-  overlay_image: /assets/images/blog/php-ide/php-editores.webp
-  overlay_filter: 0.2
-  image_description: 'Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.'
-  image_alt: 'Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.'
+thumbnail: /assets/img/blog/php-ide/php-editores.webp
+feature-img: /assets/img/blog/php-ide/php-editores.webp
 title: '▷ 11 Mejores editores de código PHP y entornos de desarrollo 2020'
 description: >-
   Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.
@@ -228,6 +224,6 @@ KWrite es una herramienta ligera para escribir código PHP. Esta herramienta est
 
 [🥇 Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/)
 
-![Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.](/assets/images/blog/php-ide/php-editores.webp "Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.")
+![Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.](/assets/img/blog/php-ide/php-editores.webp "Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

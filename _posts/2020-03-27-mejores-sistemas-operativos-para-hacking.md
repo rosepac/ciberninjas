@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Hacking
 categories:
 - Sistemas Operativos
-header:
-  teaser: /assets/images/blog/marzo-hacking-wallpaper-pc-so.webp
+thumbnail: /assets/img/blog/marzo-hacking-wallpaper-pc-so.webp
+thumbnail2: /assets/img/blog/marzo-hacking-wallpaper-pc-so.webp
 title: '🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2020'
 description: >-
   🔥 Los más impresionantes Sistemas Operativos Gratis para Hacking Ético en 2020 más actualizados con la gama de herramientas más grande
@@ -22,10 +21,10 @@ published: true
 
 ---
 
-![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/images/blog/marzo-hacking-wallpaper-pc-so.webp "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
-
 Si alguna vez te has preguntado **¿Cuál es el mejor sistema operativo para hackear en 2020?** 
 Este es exactamente el lugar donde deberías de estar, además de en tu habitación, ¡Claro esta! Porque seguimos quietos en casa 🤞
+
+![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/img/blog/marzo-hacking-wallpaper-pc-so.webp "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
 
 La **seguridad y la piratería** siempre han sido una de las **pasiones de los ciberninjas informáticos** que se acercan al mundo de la tecnología, y estoy seguro de que tú también has querido **convertirte en un hacker** en algún momento de tu vida, aunque solo halla sido por un tiempo.
 
@@ -66,7 +65,7 @@ A continuación, **los 11 mejores sistemas operativos para hackear** y no te olv
 
 ## **1. Kali Linux**
 
-![Captura de pantalla del Sistema Operativo Kali Linux, Ciberninjas](/assets/images/paginas/so-hack/1-kali-linux-captura.webp "Captura de pantalla del Sistema Operativo Kali Linux, Ciberninjas")
+![Captura de pantalla del Sistema Operativo Kali Linux, Ciberninjas](/assets/img/paginas/so-hack/1-kali-linux-captura.webp "Captura de pantalla del Sistema Operativo Kali Linux, Ciberninjas")
 > **Fuente**: [Yo Androide](https://www.youtube.com/watch?v=Isg3repK9bQ){:target="_blank" rel="nofollow,noreferrer"}
 
 Estoy seguro de que no muchos de ustedes discutirán esto, quiero decir, incluso un hacker, que no es un hacker y que nunca ha querido ser uno, ha oído hablar de Kali Linux, ¿No es así?
@@ -97,7 +96,7 @@ En pocas palabras, **Kali está diseñado para pentestings y hackers**. La mayor
 
 ## **2. Black Arch Linux**
 
-![Captura de pantalla del Sistema Operativo Black Arch, Ciberninjas](/assets/images/paginas/so-hack/11-black-arch.webp "Captura de pantalla del Sistema Operativo Black Arch, Ciberninjas")
+![Captura de pantalla del Sistema Operativo Black Arch, Ciberninjas](/assets/img/paginas/so-hack/11-black-arch.webp "Captura de pantalla del Sistema Operativo Black Arch, Ciberninjas")
 
 **Black Arch, es un sistema operativo especialmente diseñado para Pentesters derivado de Arch Linux.**
 
@@ -118,7 +117,7 @@ También permite la instalación individual de estas herramientas; o mediante pe
 
 ## **3. Parrot Sec**
 
-![Captura de pantalla del Sistema Operativo Parrot Sec, Ciberninjas](/assets/images/paginas/so-hack/3-parrot-sec.webp "Captura de pantalla del Sistema Operativo Parrot Sec, Ciberninjas")
+![Captura de pantalla del Sistema Operativo Parrot Sec, Ciberninjas](/assets/img/paginas/so-hack/3-parrot-sec.webp "Captura de pantalla del Sistema Operativo Parrot Sec, Ciberninjas")
 > **Fuente** : [Twitter Parrot Sec](https://twitter.com/ParrotSec){:target="_blank" rel="nofollow,noreferrer"}
 
 Parrot Sec tiene mucho en común con Kali Linux, comenzando por el hecho de que ambos **son distribuciones de Linux basadas en GNU** y obviamente ambos: **son excelentes herramientas de pentesting**.
@@ -149,7 +148,7 @@ Puede o no ser el mejor sistema operativo para hackear dependiendo de cómo lo v
 
 ## **4. Backbox**
 
-![Captura de pantalla del Sistema Operativo Backbox, Ciberninjas](/assets/images/paginas/so-hack/2-backbox-6.webp "Captura de pantalla del Sistema Operativo Backbox, Ciberninjas")
+![Captura de pantalla del Sistema Operativo Backbox, Ciberninjas](/assets/img/paginas/so-hack/2-backbox-6.webp "Captura de pantalla del Sistema Operativo Backbox, Ciberninjas")
 
 Backbox, es uno de los nombres que más aparece cada vez que buscas algo relacionado con alternativas de Kali Linux.
 
@@ -176,7 +175,7 @@ En pocas palabras, **Backbox tiene todo el potencial requerido para ser el mejor
 
 ## **5. CAINE**
 
-![Captura de pantalla del Sistema Operativo Caine SO, Ciberninjas](/assets/images/paginas/so-hack/12-caine-11.webp "Captura de pantalla del Sistema Operativo Caine SO, Ciberninjas")
+![Captura de pantalla del Sistema Operativo Caine SO, Ciberninjas](/assets/img/paginas/so-hack/12-caine-11.webp "Captura de pantalla del Sistema Operativo Caine SO, Ciberninjas")
 
 **Caine, es un sistema operativo forense informático que significa: entorno de investigación asistido por ordenador**. Fue diseñado principalmente para **las agencias de la aplicación de la ley, militares, agencias corporativas** o solo personas que deseen usar una computadora para algunos de sus "potenciales extendidos" en lugar de simplemente navegar por la web.
 
@@ -200,7 +199,7 @@ Existe la posibilidad de ejecutarlo tanto desde un disco en vivo como instalarlo
 
 ## **6. Network Security**
 
-![Captura de pantalla del Sistema Operativo Network Security, Ciberninjas](/assets/images/paginas/so-hack/nst-1.webp "Captura de pantalla del Sistema Operativo Network Security, Ciberninjas")
+![Captura de pantalla del Sistema Operativo Network Security, Ciberninjas](/assets/img/paginas/so-hack/nst-1.webp "Captura de pantalla del Sistema Operativo Network Security, Ciberninjas")
 
 **Network Security Toolkit**, también abreviado como NST, **es un sistema operativo "LIVE" basado en Fedora**. En otras palabras, no requiere de una instalación fija, y es posible arrancarlo desde cualquier USB o CD en el que se encuentre grabado.
 
@@ -223,7 +222,7 @@ Con todo, un sistema operativo bastante extenso que permitirá realizar la mayor
 
 ## **7. Arch Strike**
 
-![Captura de pantalla del Sistema Operativo Arch Stricke, Ciberninjas](/assets/images/paginas/so-hack/arch-stricke-1.webp "Captura de pantalla del Sistema Operativo Arch Stricke, Ciberninjas")
+![Captura de pantalla del Sistema Operativo Arch Stricke, Ciberninjas](/assets/img/paginas/so-hack/arch-stricke-1.webp "Captura de pantalla del Sistema Operativo Arch Stricke, Ciberninjas")
 
 **Arch Strike es una distribución de Linux diseñada específicamente para profesionales de la ciberseguridad y pentesters**. Ofrece un total de más de 5.000 paquetes que te permiten jugar con toda la extensión y amplitud de la piratería que existe.
 
@@ -249,7 +248,7 @@ Es un sistema operativo LIVE y se puede grabar sobre memorias USB o unidades de 
 
 ## **8. Dracos Linux**
 
-![Captura de pantalla del Sistema Operativo DracOS, Ciberninjas](/assets/images/paginas/so-hack/13-dracos-v2.webp "Captura de pantalla del Sistema Operativo DracOS, Ciberninjas")
+![Captura de pantalla del Sistema Operativo DracOS, Ciberninjas](/assets/img/paginas/so-hack/13-dracos-v2.webp "Captura de pantalla del Sistema Operativo DracOS, Ciberninjas")
 
 Otro de **los mejores sistemas operativos para piratear es Dracos Linux, basado en LFS** (Linux from Scratch). Es de código abierto y se trata de un proyecto, totalmente confiable. Con sede en Indonesia, el objetivo principal con el que se creó **Dracos Linux es proporcionar una herramienta de Pentesting amplia y potente en sus ejecuciones**.
 
@@ -274,7 +273,7 @@ En pocas palabras, pruébalo si deseas obtener la menor experiencia de Pentestin
 
 ## **9. DEFT Linux**
 
-![Captura de pantalla del Sistema Operativo Deft Linux, Ciberninjas](/assets/images/paginas/so-hack/5-deft-pantalla.webp "Captura de pantalla del Sistema Operativo Deft Linux, Ciberninjas")
+![Captura de pantalla del Sistema Operativo Deft Linux, Ciberninjas](/assets/img/paginas/so-hack/5-deft-pantalla.webp "Captura de pantalla del Sistema Operativo Deft Linux, Ciberninjas")
 > **Fuente**: [Welive Security](https://www.welivesecurity.com/la-es/2016/02/23/distribuciones-gratuitas-analisis-forense/){:target="_blank" rel="nofollow,noreferrer"}
 
 DEFT son las siglas de Digital Evidence and Forensic Toolkit. Entonces, déjame aclarar aquí que **el Sistema DEFT puede ayudarte a hackear o realizar pentesting"** pero es mejor usarlo como un **"rastreador" o "analizador"**.
@@ -301,7 +300,7 @@ Junto con estas herramientas que lo convierten en uno de los mejores sistemas op
 
 ## **10. Pentoo**
 
-![Captura de pantalla del Sistema Operativo de Pentoo Live, Ciberninjas](/assets/images/paginas/so-hack/7-pentoo-live.webp "Captura de pantalla del Sistema Operativo de Pentoo Live, Ciberninjas")
+![Captura de pantalla del Sistema Operativo de Pentoo Live, Ciberninjas](/assets/img/paginas/so-hack/7-pentoo-live.webp "Captura de pantalla del Sistema Operativo de Pentoo Live, Ciberninjas")
 > **Fuente**: [Wikipedia](https://es.wikipedia.org/wiki/Pentoo#/media/Archivo:Pentoo-screen.png){:target="_blank" rel="nofollow,noreferrer"}
 
 Basado en Gentoo Linux, seguramente es uno de los SO preferidos de la mayoría de los piratas informáticos, o entre uno de **los mejores sistemas operativos para entre los entusiastas de la seguridad hacker**.
@@ -325,7 +324,7 @@ En pocas palabras, puede que no sea el mejor Linux para hackear, pero sin duda e
 
 ## **11. Samurai Web Testing Framework**
 
-![Captura de pantalla del Sistema Operativo de Samurai Web Testing, Ciberninjas](/assets/images/paginas/so-hack/4-samurai.webp "Captura de pantalla del Sistema Operativo de Samurai Web Testing, Ciberninjas")
+![Captura de pantalla del Sistema Operativo de Samurai Web Testing, Ciberninjas](/assets/img/paginas/so-hack/4-samurai.webp "Captura de pantalla del Sistema Operativo de Samurai Web Testing, Ciberninjas")
 
 Como su nombre indica, el Sistema Operativo: **Samurai Web Testing Framework, es claramente una solución de pruebas enfocado hacía la Web**.
 

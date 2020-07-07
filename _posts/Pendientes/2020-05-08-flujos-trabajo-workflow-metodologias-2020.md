@@ -1,8 +1,8 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Metodologías
 - Kanban
@@ -13,8 +13,7 @@ tags:
 - Comunicaciones
 categories:
 - Flujos de Trabajo
-header:
-  teaser: /assets/images/blog/marzo-hacking-wallpaper-pc-so
+thumbnail: /assets/img/blog/marzo-hacking-wallpaper-pc-so
 title: '🥇 ▷ Recursos para Mejorar las Metodologías y Workflow del Trabajo en Equipos de Programación en 2020 💼'
 description: >-
   Libros, artículos y herramoeitnas sobre todas las diferentes metodologías de software (Lean, Kanban) herramientas de control de versiones (Git, Github, Gitlab, etc) y herramientas de gestión y organización de equipos de programación.
@@ -28,7 +27,7 @@ published: false
 
 ---
 
-![Los mejores recursos; herramientas y libros sobre metodologías, control de versiones y workflow de gestión y organización de grupos de trabajo informáticos para 2020](/assets/images/blog/marzo-hacking-wallpaper-pc-so "Los mejores recursos; herramientas y libros sobre metodologías, control de versiones y workflow de gestión y organización de grupos de trabajo informáticos para 2020")
+![Los mejores recursos; herramientas y libros sobre metodologías, control de versiones y workflow de gestión y organización de grupos de trabajo informáticos para 2020](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los mejores recursos; herramientas y libros sobre metodologías, control de versiones y workflow de gestión y organización de grupos de trabajo informáticos para 2020")
 
 <!-- CONTENIDO INTRODUCCION -->
 

@@ -15,18 +15,8 @@ description: >-
   🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida.
 excerpt: >-
   🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida.
-header:
-  teaser: /assets/images/catalogo/encuentra-tu-elemento.webp
-  overlay_image: /assets/images/catalogo/encuentra-tu-elemento.webp
-  image_description: >-
-    🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida.
-  overlay_filter: 0.3
-  caption: 'Créditos: **Amazon**'
-  actions:
-    - label: + EDUCACIÓN
-      url: '/categoria/#educación'
-    - label: "\U0001F6D2 COMPRAR"
-      url: 'https://amzn.to/379OIzX'
+thumbnail: /assets/img/catalogo/encuentra-tu-elemento.webp
+feature-img: /assets/img/catalogo/encuentra-tu-elemento.webp
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
@@ -34,7 +24,7 @@ toc_sticky: true
 author_profile: false
 sidebar:
   - title: Autor
-    image: /assets/images/catalogo/encuentra-tu-elemento-min.webp
+    image: /assets/img/catalogo/encuentra-tu-elemento-min.webp
     image_alt: >-
       🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida.
     text: Ken Robinson

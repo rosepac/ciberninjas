@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "Grace Murray Hopper"
 description: 'Grace Murray Hopper, por sus contribuciones al desarrollo de lenguajes de programación, por esfuerzos de estandarización y por servicio naval de por vida.'
 excerpt: 'Grace Murray Hopper, por sus contribuciones al desarrollo de lenguajes de programación, por esfuerzos de estandarización y por servicio naval de por vida.'
@@ -7,9 +7,7 @@ date: 2019-04-05
 published: true
 permalink: /personajes-historicos/grace-murray-hopper/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/grace-murray-hopper/
-classes: wide
-header:
-  teaser: https://images.computerhistory.org/fellows/gracehopper.jpg
+thumbnail: https://images.computerhistory.org/fellows/gracehopper.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

@@ -2,7 +2,7 @@
 layout: post
 title: 'Cursos de Programación Web & Móvil en Español'
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-02-05 05:02:11
 tags:

@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Isaac Newton
 categories:
 - Citas Célebres
-header:
-  teaser: /assets/images/blog/isaac-newton.webp
+thumbnail: /assets/img/blog/isaac-newton.webp
+feature-img: /assets/img/blog/isaac-newton.webp
 title: '📢 ▷ Las Mejores Frases de Isaac Newton'
 description: >-
   Citas célebres del físico, teólogo, inventor, alquimista y matemático inglés Isaac Newton.
@@ -22,7 +21,7 @@ published: true
 
 ---
 
-![Retrato del físico, teólogo, inventor, alquimista y matemático inglés Isaac Newton](/assets/images/blog/isaac-newton.webp "Retrato del físico, teólogo, inventor, alquimista y matemático inglés Isaac Newton")
+![Retrato del físico, teólogo, inventor, alquimista y matemático inglés Isaac Newton](/assets/img/blog/isaac-newton.webp "Retrato del físico, teólogo, inventor, alquimista y matemático inglés Isaac Newton")
 
 Físico, teólogo, inventor, alquimista y matemático inglés Isaac Newton.
 

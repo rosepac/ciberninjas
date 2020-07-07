@@ -4,8 +4,6 @@ description: "IANAL"
 excerpt: "El tráfico web es la cantidad de datos enviados y recibidos por los visitantes a un sitio web."
 permalink: /glosario/ianal/
 canonical_URL: https://ciberninjas.com/glosario/ianal/
-classes: wide
-
 ---
 
 IANAL es una expresión en jerga informática que significa: No soy un abogado. Derivado de formar un acrónimo de las iniciales de la frase en inglés: I am not a lawyer.

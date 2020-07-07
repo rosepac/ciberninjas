@@ -5,16 +5,16 @@ excerpt: "Vamos a conocer los cambios que nos ofrece la nueva versión del Frame
 date: 2020-04-15 14:01:00 +0100
 canonical_URL: https://ciberninjas.com/nativescript-framework-6-5/
 permalink: /nativescript-framework-6-5/
-classes: wide
+
 published: true
 categories:
   - Framework Multiplataforma
 tags:
   - NativeScript
   - Kotlin
-header:
-  teaser: /assets/images/blog/nativescript-app-1.webp
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/blog/nativescript-app-1.webp
+feature-img: /assets/img/blog/nativescript-app-1.webp
+#feature-img: /assets/img/
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -25,9 +25,9 @@ header:
 # toc_sticky: true
 ---
 
-![](/assets/images/blog/nativescript-app-1.webp "Novedades de NativeScript 6.5")
-
 ¡Bienvenido a otro lanzamiento del framework de desarrollo de aplicaciones multiplataforma NativeScript! La versión 6.5 de NativeScript ofrece algunos importantes cambios.
+
+![](/assets/img/blog/nativescript-app-1.webp "Novedades de NativeScript 6.5")
 
 Antes de nada debemos actualizar nuestra versión de NativeScript, a la nueva versión 6.5:
 

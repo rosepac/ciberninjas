@@ -7,9 +7,8 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/lynn-conway/
 canonical_URL: https://computerhistory.org/profile/lynn-conway/
-classes: wide
-header:
-  teaser: /assets/images/personajes-historicos/2014_conway_lynn.webp
+
+thumbnail: /assets/images/personajes-historicos/2014_conway_lynn.webp
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

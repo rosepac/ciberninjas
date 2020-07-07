@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Windows 10
 categories:
 - Ofimática
-header:
-  teaser: /assets/images/blog/win-lib-1.webp
+thumbnail: /assets/img/blog/win-lib-1.webp
+thumbnail2: /assets/img/blog/win-lib-1.webp
 title: '👨‍🔧 ▷ Cómo mejorar el rendimiento y hacer más rápido Windows 10 en 2020'
 description: >-
   Los mejores consejos que vas a encontrar para lograr que tu Windows 10 se convierta en un auténtico cohete.
@@ -22,7 +21,7 @@ published: false
 
 ---
 
-![](/assets/images/blog/win-lib-1.webp "")
+![](/assets/img/blog/win-lib-1.webp "")
 
 ## 1. Organizar y Guardar
 
@@ -42,7 +41,7 @@ Windows no muestra los archivos de las Actualizaciones del Sistema la priemra ve
 
 ### 👉 Abrimos Liberador de Espacio en Disco
 
-![](/assets/images/blog/win-lib-1.webp "")
+![](/assets/img/blog/win-lib-1.webp "")
 
 En principio, seleccionar todo para pasar a realizar la limpieza
 
@@ -51,7 +50,7 @@ En principio, seleccionar todo para pasar a realizar la limpieza
 
 ### 👉 Seleccionamos lo deseado y pasamos a Limpiar Archivos
 
-![](/assets/images/blog/win-lib-2.webp "")
+![](/assets/img/blog/win-lib-2.webp "")
 
 Vean eso, en mi caso: Podría liberar hasta 74 Gb de espacio. Solo entre Descargas, Papelera y las Miniaturas del Sistema.
 
@@ -59,7 +58,7 @@ Vean eso, en mi caso: Podría liberar hasta 74 Gb de espacio. Solo entre Descarg
 
 <!-- https://www.makeuseof.com/tag/windows-10-faster-performance/ -->
 
-![](/assets/images/blog/win-lib-3.webp "La cantidad de archivos limpiados sube hasta los 78,6 GB")
+![](/assets/img/blog/win-lib-3.webp "La cantidad de archivos limpiados sube hasta los 78,6 GB")
 
 Al pulsar, la opción de liberar; el liberador se vuelve abrir añadiendo ahora las opciones de los archivos de las actualizaciones de Windows; haciendo aumentar el espacio a liberar de forma considerable.
 

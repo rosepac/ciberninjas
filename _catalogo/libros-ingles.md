@@ -5,12 +5,7 @@ excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología e
 published: false
 date: 2019-09-23 22:10:09
 last_modified_at: 2020-02-14
-author_profile: true
-classes: wide
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: false
+author: rosepac
 permalink: /libros-ingles/
 canonical_URL: https://ciberninjas.com/libros-ingles/
 sidebar:

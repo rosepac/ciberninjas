@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ KeyV2: Biblioteca de teclas mecánicas paramétricas"
 description: "Esta biblioteca es una biblioteca de construcción de teclados y teclados para teclados mecánicos, escrita en OpenSCAD."
 excerpt: "Esta biblioteca es una biblioteca de construcción de teclados y teclados para teclados mecánicos, escrita en OpenSCAD."
@@ -9,7 +9,6 @@ date: 2020-01-28 17:20:12
 last_modified_at: 
 published: true
 canonical_URL: /impresiones-3d-teclado-mecanico/
-classes: wide
 categories:
 - Biblioteca Impresoras 3D
 tags:

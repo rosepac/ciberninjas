@@ -8,13 +8,8 @@ canonical_URL: https://ciberninjas.com/teclados-ratones-diseño/
 published: true
 comments: false
 date: 2019-11-29 22:14:00 +0200
-header:
-  teaser: 'https://i.ibb.co/XtXfLzh/raton-ordenador.gif'
-  overlay_image: 'https://i.ibb.co/B4R7crh/teclado-mesa-pcx1280.jpg'
-  overlay_filter: 0.2
-  image_description: 'Las Mejores Ofertas de Ratones y Teclados | Ciberninjas'
-  image_alt: 'Las Mejores Ofertas de Ratones y Teclados | Ciberninjas'
-  caption: "**Créditos**: Unsplash"
+thumbnail: 'https://i.ibb.co/XtXfLzh/raton-ordenador.gif'
+feature-img: 'https://i.ibb.co/B4R7crh/teclado-mesa-pcx1280.jpg'
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

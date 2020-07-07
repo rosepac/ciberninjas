@@ -2,7 +2,7 @@
 layout: post
 title: 'Harry Potter: Wizards Unite, trailer de nuevo videojuego'
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-07-13 01:07:32
 tags:

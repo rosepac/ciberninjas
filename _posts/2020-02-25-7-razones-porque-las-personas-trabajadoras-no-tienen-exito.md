@@ -1,14 +1,12 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - 
 categories:
 - Java
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
 title: '💡 ▷ 7 Razones por las que las personas inteligentes y trabajadoras no tienen éxito'
 description: >-
   ''
@@ -22,7 +20,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 Durante mucho tiempo, creí que si las personas inteligentes trabajaban duro y crecían en un entorno razonablemente acogedor, el éxito llegaría con el tiempo.
 

@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ ¿Qué es Google Summer of Code?"
 description: "Información sobre el programa de Google Summer of Code, similar a un campamento de verano para la programación, el mentoring y la propulsión del código abierto organizado por Google."
 excerpt: "Información sobre el programa de Google Summer of Code, similar a un campamento de verano para la programación, el mentoring y la propulsión del código abierto organizado por Google."
@@ -7,10 +7,9 @@ published: true
 comments: false
 date: 2020-06-09 17:10:12
 last_modified_at: 
-header:
-  teaser: /assets/images/blog/google-summer-code.webp
+thumbnail: /assets/img/blog/google-summer-code.webp
+thumbnail2: /assets/img/blog/google-summer-code.webp
 canonical_URL: /que-es-google-summer-of-code/
-classes: wide
 categories:
 - Google
 tags:
@@ -18,9 +17,9 @@ tags:
 
 ---
 
-![Logotipo del programa de estudio y tutorías de aprendizaje de Google Summer of Code](/assets/images/blog/google-summer-code.webp "Logotipo del programa de estudio y tutorías de aprendizaje de Google Summer of Code")
-
 Google Summer of Code (GSoC) es un programa que une a las organizaciones de mentores con los desarrolladores de estudiantes de colegios y universidades a quienes se les paga por escribir código fuente abierto. Cada año, Google trabaja con muchos grupos de código abierto, software libre y relacionados con la tecnología para identificar y financiar propuestas de proyectos de código abierto para estudiantes.
+
+![Logotipo del programa de estudio y tutorías de aprendizaje de Google Summer of Code](/assets/img/blog/google-summer-code.webp "Logotipo del programa de estudio y tutorías de aprendizaje de Google Summer of Code")
 
 Las parejas de GSoC aceptaron la solicitud de estudiantes con mentores de los proyectos participantes. Los estudiantes aceptados obtienen exposición al desarrollo de software del mundo real y una oportunidad de empleo en áreas relacionadas con sus actividades académicas.
 

@@ -15,7 +15,6 @@ tags:
 - Celaá
 - Competencias
 - FP
-
 ---
 > 📰 🎓 Se plantea un plan de digitalización de la educación con una inversión de 226 millones de euros, por [Agencia EFE](https://www.efe.com)
 

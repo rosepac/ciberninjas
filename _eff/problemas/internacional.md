@@ -6,7 +6,6 @@ permalink: /eff/creatividad-e-innovacion/
 canonical_URL: https://ciberninjas.com/eff/creatividad-e-innovacion/
 date: 2019-10-08
 published: false
-
 ---
 
 <figure>

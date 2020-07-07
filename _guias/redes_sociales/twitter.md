@@ -6,13 +6,8 @@ date: 2019-10-16T21:00:00.000+00:00
 last_modified_at: 2019-12-10
 permalink: /twitter/
 canonical_URL: https://ciberninjas.com/twitter/
-header:
-  teaser: https://i.ibb.co/JF0PGRS/twitter-pajaro-feliz.gif
-  overlay_image: https://i.ibb.co/Vt92M9W/photo-1551817958-20204d6ab212-ixlib-rb-1-2.jpg
-  overlay_filter: "0.1"
-  image_description: "Recursos sobre Twitter en Ciberninjas"
-  image_alt: "Recursos sobre Twitter en Ciberninjas"
-  caption: "Créditos: Unsplash"
+thumbnail: https://i.ibb.co/JF0PGRS/twitter-pajaro-feliz.gif
+feature-img: https://i.ibb.co/Vt92M9W/photo-1551817958-20204d6ab212-ixlib-rb-1-2.jpg
 #  image: "/assets/images/jekyll-blog.jpg"
 #  image_description: Jekyll, generador de sitios estáticos | Ciberninjas
 #  caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"

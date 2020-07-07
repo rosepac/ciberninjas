@@ -1,8 +1,7 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Linux
 - Elementary
@@ -16,8 +15,8 @@ tags:
 - Distribuciones
 categories:
 - Sistemas Operativos
-header:
-  teaser: /assets/images/blog/linux-mejor-sistema-operativo.webp
+thumbnail: /assets/img/blog/linux-mejor-sistema-operativo.webp
+feature-img: /assets/img/blog/linux-mejor-sistema-operativo.webp
 title: '🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux (unix) para Principiantes del Código Abierto'
 description: >-
   ✅ Las distribuciones perfectos de código abierto basados en Linux, enfocados en principiantes (dummies) de Unix
@@ -31,7 +30,7 @@ published: true
 
 ---
 
-![Los 7 Mejores Distribuciones de Linux para principiantes con las que dejar atrás y olvidarse de Windows para siempre](/assets/images/blog/linux-mejor-sistema-operativo.webp "Los 7 Mejores Distribuciones de Linux para principiantes con las que dejar atrás y olvidarse de Windows para siempre")
+![Los 7 Mejores Distribuciones de Linux para principiantes con las que dejar atrás y olvidarse de Windows para siempre](/assets/img/blog/linux-mejor-sistema-operativo.webp "Los 7 Mejores Distribuciones de Linux para principiantes con las que dejar atrás y olvidarse de Windows para siempre")
 
 Elegir a una distribución de **Linux como Sistema Operativo principal para tu ordenador** de trabajo o estudo. Es como aportar tu pequeño gran granito de arena hacía la evolución del código abierto dentro del planeta tierra.
 
@@ -76,7 +75,7 @@ Estas son las 7 mejores distribuciones de escritorio de Linux de código abierto
 
 ## **1. Elementary OS**
 
-![Escritorio principal de Elementary OS el Linux más similar a iOS de Mac y minimalista que existe en la actualidad](/assets/images/blog/elementary-5.webp "Escritorio principal de Elementary OS el Linux más similar a iOS de Mac y minimalista que existe en la actualidad")
+![Escritorio principal de Elementary OS el Linux más similar a iOS de Mac y minimalista que existe en la actualidad](/assets/img/blog/elementary-5.webp "Escritorio principal de Elementary OS el Linux más similar a iOS de Mac y minimalista que existe en la actualidad")
 > **Fuente**: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/a/a0/Elementary_OS_Loki_0.4.png){:target="_blank" rel="nofollow,noreferrer"}
 
 **Elementary OS, es una distribución liviana de Linux** que se encuentra en lo más alto de la lista de entre las distribuciones más recomendadas. ¿Por qué? Básicamente, por dos razones.
@@ -93,7 +92,7 @@ Junto con la simplicidad de la tienda de aplicaciones, es encomiable lo que el e
 
 ## **2. Mint**
 
-![Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad](/assets/images/blog/mint-cinamon.webp "Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad")
+![Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad](/assets/img/blog/mint-cinamon.webp "Escritorio principal de Mint Cinnamon, uno de los Linux para principiantes más usados en la actualidad")
 > **Fuente**: [Linux Mint Blog](https://www.linuxmint.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 Durante años **Linux Mint** ha sido la distribución número uno entre los usuarios de Distrowatch. Un lugar bien merecido, puesto que sin lugar a dudas: **Linux Mint es la versión de Linux más parecida a Windows que existe** (Windows 7). Lo que favorece de forma brutal, el aprendizaje de su manejo.
@@ -114,7 +113,7 @@ Esto son el nombre de tres interfaces de escritorio diferentes entre las que vas
 
 ## **3. Ubuntu**
 
-![Escritorio principal de Ubuntu OS que es el Linux más recomendado y difundido entre los linuxeros, como sistema operativo para los principiantes](/assets/images/blog/ubuntu-19.webp "Escritorio principal de Ubuntu OS que es el Linux más recomendado y difundido entre los linuxeros, como sistema operativo para los principiantes")
+![Escritorio principal de Ubuntu OS que es el Linux más recomendado y difundido entre los linuxeros, como sistema operativo para los principiantes](/assets/img/blog/ubuntu-19.webp "Escritorio principal de Ubuntu OS que es el Linux más recomendado y difundido entre los linuxeros, como sistema operativo para los principiantes")
 > **Fuente**: [Rucore](https://rucore.net/luchshij-linux-distributiv-v-2020-godu/){:target="_blank" rel="nofollow,noreferrer"}
 
 **Ubuntu**, ha reinado a lo largo de los últimos años, como la distribución de escritorio más recomendada hacía los principiantes y usuarios de ofimática sobre Linux y hay varias razones por las cuales ha sido así.
@@ -148,7 +147,7 @@ https://xubuntu.org/
 
 ## **4. Manjaro**
 
-![Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo](/assets/images/blog/manjaro.webp "Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo")
+![Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo](/assets/img/blog/manjaro.webp "Escritorio principal de Manjaro OS la mejor distribución basada en Arch del mundo")
 > **Fuente**: [Forum de Manjaro](https://forum.manjaro.org/t/manjaro-kde-19-0-pre4-stable-branch/121868){:target="_blank" rel="nofollow,noreferrer"}
 
 **Manjaro es una de las pocas distribuciones basadas en Arch para principiantes**. En circunstancias normales, no usarías una versión de Linux de escritorio basada en Arch para citar a las mejores versiones de Linux. ¿Por qué?
@@ -164,7 +163,7 @@ Si estás buscando introducirte en el uso de Arch Linux, no busque más. Manjaro
 
 ## **5. Zorin**
 
-![Escritorio principal de Zorin OS](/assets/images/blog/zorin-os.webp "Escritorio principal de Zorin OS")
+![Escritorio principal de Zorin OS](/assets/img/blog/zorin-os.webp "Escritorio principal de Zorin OS")
 
 **Fuente**: [WikiMedia](https://es.wikipedia.org/wiki/Zorin_OS#/media/Archivo:Zorin_OS_15.png){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -177,7 +176,7 @@ Los gestores de paquetes son algo nuevo para los recién llegados de Linux. Es p
 
 ## **6. Deepin**
 
-![Escritorio principal de Deepin OS](/assets/images/blog/deepin.webp "Escritorio principal de Deepin OS")
+![Escritorio principal de Deepin OS](/assets/img/blog/deepin.webp "Escritorio principal de Deepin OS")
 > **Fuente**: Youtube
 
 **Deepin utiliza Deepin Desktop como la interfaz de usuario predeterminada**, que a menudo se considera el escritorio más hermoso del mercado. De hecho, ningún escritorio se acerca a la belleza que se encuentra en este "sabor" de Linux, ni GNOME, KDE, Mate, Cinnamon ... ni cualquier otro escritorio en cualquier distribución de Linux.
@@ -199,7 +198,7 @@ Por último, **Deepin extiende su elegancia al panel de control en forma de una 
 
 ## **7. POP_OS!**
 
-![Escritorio principal de POP OS](/assets/images/blog/pop-os.webp "Escritorio principal de POP OS")
+![Escritorio principal de POP OS](/assets/img/blog/pop-os.webp "Escritorio principal de POP OS")
 > **Fuente**: [Xtreme Rigs](https://www.xtremerigs.net/){:target="_blank" rel="nofollow,noreferrer"}
 
 **Pop!_OS es la distribución interna de la empresa System76**. Está basado en Ubuntu, lo que esta ofrece una estabilidad de por sí.

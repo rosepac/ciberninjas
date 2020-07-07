@@ -1,5 +1,4 @@
 ---
-
 title: "▷ Ionic: Conociendo a este genial SDK Multiplataforma completo"
 description: "👩‍🚀 ▷ Crea aplicaciones móviles híbridas con un conjunto de componentes web que unidos a tu framework favorit (Angular , Reaccionar o Vue.js) crearás las mejores apps"
 excerpt: "👩‍🚀 ▷ Crea aplicaciones móviles híbridas con un conjunto de componentes web que unidos a tu framework favorit (Angular , Reaccionar o Vue.js) crearás las mejores apps"
@@ -8,8 +7,7 @@ comments: false
 date: 2020-02-07
 last_modified_at: 
 permalink: /ionic/
-header:
-  teaser: 
+thumbnail: 
   image: 
 #   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
 #   caption: "**Créditos**: Creación Propia"
@@ -17,7 +15,6 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-
 ---
 
 Si deseas saber más, puedes [pasarte por aquí](/mejores-sdk-multiplataforma-2019-20/#ionic){:target="_blank" rel="nofollow,noreferrer"}

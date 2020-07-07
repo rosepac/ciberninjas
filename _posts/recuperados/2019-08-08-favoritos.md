@@ -2,7 +2,7 @@
 layout: post
 title: Mis Favoritos
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-05-23 06:05:53
 tags: [ ]

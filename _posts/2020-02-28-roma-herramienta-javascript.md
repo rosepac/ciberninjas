@@ -1,15 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Herramientas Javascript
 - Facebook
 categories:
 - Javascript
-header:
-  teaser: /assets/images/blog/roma-tool-transparente.webp
+thumbnail: /assets/img/blog/roma-tool-transparente.webp
+thumbnail2: /assets/img/blog/roma-tool-transparente.webp
 title: '🔥 ▷ Rome, ¿La Mejor Herramienta para Javascript jamás creada?'
 description: >-
   Rome, un todo en uno para Javascript. Posiblemente, la mejor herramientas jamás creada para el uso de JavaScript; incluye un conjunto de: compilador, linterna, formateador, bundler, marco de pruebas y más.
@@ -23,9 +22,9 @@ published: true
 
 ---
 
-![Rome: La herramienta perfecta para Javascript creada por el equipo del Framework React de Facebook](/assets/images/blog/roma-tool-transparente.webp "Rome: La herramienta perfecta para Javascript creada por el equipo del Framework React de Facebook")
-
 Rome es experimental y en desarrollo activo. Está abierto para contribuyentes y aquellos interesados ​​en herramientas experimentales.
+
+![Rome: La herramienta perfecta para Javascript creada por el equipo del Framework React de Facebook](/assets/img/blog/roma-tool-transparente.webp "Rome: La herramienta perfecta para Javascript creada por el equipo del Framework React de Facebook")
 
 ## **Historia de Rome**
 

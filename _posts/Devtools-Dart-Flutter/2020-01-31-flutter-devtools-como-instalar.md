@@ -4,13 +4,12 @@ title: '🚀 ¿Cómo instalar Dart DevTools para Flutter? Aprende a instalar la 
 excerpt: '👩‍🚀 Instalando DevTools para Dart y Flutter creada por Google.'
 description: '👩‍🚀 Instalando DevTools para Dart y Flutter creada por Google.'
 published: true
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 date: 2020-01-31 12:05:33
 last_modified_at: 
-header:
-  teaser: https://flutter.dev/assets/tools/vs-code/vscode_install_prompt-1394c21ae2249e60eade893fb259aed7b2a64e293919cd33d98cbf2cdbc11272.png
+thumbnail: https://flutter.dev/assets/tools/vs-code/vscode_install_prompt-1394c21ae2249e60eade893fb259aed7b2a64e293919cd33d98cbf2cdbc11272.png
+thumbnail2: https://flutter.dev/assets/tools/vs-code/vscode_install_prompt-1394c21ae2249e60eade893fb259aed7b2a64e293919cd33d98cbf2cdbc11272.png
 tags:
 - Flutter
 - Dart

@@ -1,24 +1,14 @@
 ---
 author_profile: false
-classes: wide
+
 title: "🥇 ▷ Los mejores 45 juegos gratis para PC 2020: Los más espectaculares videojuegos gratuitos para descargar"
 description: "Jugar los mejores juegos gratis es el camino más rápido para ahorrar mucho dinero en efectivo y al mismo tiempo obtener la mejor experiencia de juego. Elegimos 45 de los mejores juegos gratuitos que se ofrecen en este momento, por lo que puede elegir en 2020."
 excerpt: "Jugar los mejores juegos gratis es el camino más rápido para ahorrar mucho dinero en efectivo y al mismo tiempo obtener la mejor experiencia de juego. Elegimos 45 de los mejores juegos gratuitos que se ofrecen en este momento, por lo que puede elegir en 2020."
 permalink: /videojuegos-gratis/
 canonical_URL: https://ciberninjas.com/videojuegos-gratis/
-classes: wide
-header:
-  teaser: https://i.ibb.co/cvCZqW2/gamer-jugando.gif
-  overlay_image: https://i.ibb.co/N22jWGY/gamer-girl.jpg
-  overlay_filter: 0.2
-  image_description: 'Jugar los mejores juegos gratis es el camino más rápido para ahorrar mucho dinero en efectivo y al mismo tiempo obtener la mejor experiencia de juego. Elegimos 45 de los mejores juegos gratuitos que se ofrecen en este momento, por lo que puede elegir en 2020.'
-  image_alt: 'Jugar los mejores juegos gratis es el camino más rápido para ahorrar mucho dinero en efectivo y al mismo tiempo obtener la mejor experiencia de juego. Elegimos 45 de los mejores juegos gratuitos que se ofrecen en este momento, por lo que puede elegir en 2020.'
-  caption: "**Flickr**: [@ awee_19](https://www.flickr.com/photos/mystical-mii/)"
-  actions:
-    - label: "🎁 Mejores Novedades de 2020"
-      url: "https://www.amazon.es/shop/cibercursos?listId=3LKJC0W67ZV12"
-    - label: "🎮 Novedades Playstation 4"
-      url: "https://www.amazon.es/shop/cibercursos?listId=3UW0R0XIP0RL4"
+
+thumbnail: https://i.ibb.co/cvCZqW2/gamer-jugando.gif
+feature-img: https://i.ibb.co/N22jWGY/gamer-girl.jpg
 comments: false
 date: 2020-05-26 18:00:00 +0200
 last_modified_at: 
@@ -27,13 +17,6 @@ tags:
   - Videojuegos
 categories:
   - Gratis Videojuegos
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: false
-# sidebar:
-#   - title: Menú Videotutoriales
-#     nav: vtuto
 ---
 
 🤞 Este artículo se irá actualizando a lo largo del tiempo.. 🕹

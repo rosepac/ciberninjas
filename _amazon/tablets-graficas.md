@@ -8,13 +8,8 @@ canonical_URL: https://ciberninjas.com/tablets-graficas/
 published: true
 comments: false
 date: 2019-11-29 22:14:00 +0200
-header:
-  teaser: 'https://i.ibb.co/s9sNcjL/tablet-diseno-grafico.gif'
-  overlay_image: 'https://i.ibb.co/qnvJDdL/tablet-graficax1280.jpg'
-  overlay_filter: 0.2
-  image_description: 'Las Mejores Ofertas de Tablets Gráficas en el Black Friday | Ciberninjas'
-  image_alt: 'Las Mejores Ofertas de Tablets Gráficas en el Black Friday | Ciberninjas'
-  caption: "**Créditos**: Creación propia Ciberninjas"
+thumbnail: 'https://i.ibb.co/s9sNcjL/tablet-diseno-grafico.gif'
+feature-img: 'https://i.ibb.co/qnvJDdL/tablet-graficax1280.jpg'
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

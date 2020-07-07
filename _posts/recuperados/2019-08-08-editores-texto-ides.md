@@ -2,7 +2,7 @@
 layout: post
 title: Los mejores editores de texto e IDE´s
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2018-12-15 06:12:26
 tags: [ ]

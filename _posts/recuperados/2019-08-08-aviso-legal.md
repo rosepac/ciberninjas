@@ -2,7 +2,7 @@
 layout: post
 title: Política de Privacidad
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2018-12-01 05:12:44
 tags: [ ]

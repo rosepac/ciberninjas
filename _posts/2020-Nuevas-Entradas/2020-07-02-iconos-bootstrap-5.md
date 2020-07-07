@@ -1,19 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Bootstrap
 - Iconos
 categories:
 - Framework CSS
-header:
-  teaser: /assets/images/2020-news/donb-iconos.webp
-  overlay_image: /assets/images/2020-news/donb-iconos.webp
-  overlay_filter: 0.2
-  image_description: 'Sale a la luz la quinta y última versión alfa de Bootstrap Iconos. Después de la versión alfa de hoy, llegará una versión final, definitiva y estable.'
-  image_alt: 'Sale a la luz la quinta y última versión alfa de Bootstrap Iconos. Después de la versión alfa de hoy, llegará una versión final, definitiva y estable.'
+thumbnail: /assets/img/2020-news/donb-iconos.webp
+feature-img: /assets/img/2020-news/donb-iconos.webp
 title: '▷ Bootstrap 5 Iconos: Nueva versión Alpha'
 description: >-
   Sale a la luz la quinta y última versión alfa de Bootstrap Iconos. Después de la versión alfa de hoy, llegará una versión final, definitiva y estable.
@@ -29,7 +24,7 @@ published: true
 
 La nueva versión de los iconos de Bootstrap 5 agregará casi 300 iconos nuevos, haciendo que el número final resultante de iconos incluidos en la librería sobrepase los 1.000 iconos. Se añadirán nuevos iconos de calendario para utilizar a la hora de agregar eventos y rangos de fechas, también un amplio conjunto de nuevos íconos de teléfonos y de nuevos dispositivos e íconos dedicados a representar elementos de hardware, docenas de nuevas insignias y muchos elementos más.
 
-![Sale a la luz la quinta y última versión alfa de Bootstrap Iconos. Después de la versión alfa de hoy, llegará una versión final, definitiva y estable.](/assets/images/2020-news/donb-iconos.webp "Sale a la luz la quinta y última versión alfa de Bootstrap Iconos. Después de la versión alfa de hoy, llegará una versión final, definitiva y estable.")
+![Sale a la luz la quinta y última versión alfa de Bootstrap Iconos. Después de la versión alfa de hoy, llegará una versión final, definitiva y estable.](/assets/img/2020-news/donb-iconos.webp "Sale a la luz la quinta y última versión alfa de Bootstrap Iconos. Después de la versión alfa de hoy, llegará una versión final, definitiva y estable.")
 
 Luego de las anteriores versiones de Boostrap 5 Alpha, no solamente se incluirán nuevos iconos, sino que también se incluirán docenas de correcciones y mejoras en los iconos de Bootstrap ya existentes.
 

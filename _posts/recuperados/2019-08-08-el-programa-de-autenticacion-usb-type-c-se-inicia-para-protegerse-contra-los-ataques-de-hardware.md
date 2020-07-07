@@ -4,7 +4,7 @@ title: >
     El programa de autenticación USB Type-C se inicia para
     protegerse contra los ataques de hardware
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-01-13 12:01:20
 tags:

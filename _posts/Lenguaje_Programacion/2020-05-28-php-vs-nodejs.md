@@ -1,15 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - PHP
 - Nodejs
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
 title: 'PHP vs NodeJS'
 description: >-
   Breve análisis básico sobre PHP y NodeJS.

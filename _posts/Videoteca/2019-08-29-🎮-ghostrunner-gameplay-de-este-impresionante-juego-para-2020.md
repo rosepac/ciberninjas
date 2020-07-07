@@ -9,7 +9,7 @@ header:
     provider: youtube
 comments: false
 date: 2019-08-29 00:00:00 +0200
-classes: wide
+
 tags:
   - Acción
   - Fantasía

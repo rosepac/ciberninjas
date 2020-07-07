@@ -9,13 +9,8 @@ last_modified_at: 2019-12-13T12:42:42+01:00
 permalink: /biblioteca-otras-tematicas/
 canonical_URL: https://ciberninjas.com/biblioteca-otras-tematicas/
 published: false
-header:
-  teaser: "/assets/images/chico-buscando-libro-biblioteca.jpg"
-  overlay_image: "/assets/images/chico-buscando-libro-biblioteca.jpg"
-  overlay_filter: 0.2
-  image_description: 'Aprender a programar con estos libros en pdf y online sobre desarrollo web y otras tecnologíases | Ciberninjas'
-  image_alt: 'Aprender a programar con estos libros en pdf y online sobre desarrollo web y otras tecnologíases | Ciberninjas'
-  caption: "Créditos: Unsplash de Dominio Público"
+thumbnail: "/assets/images/chico-buscando-libro-biblioteca.jpg"
+feature-img: "/assets/images/chico-buscando-libro-biblioteca.jpg"
 #  actions:
 #    - label: "Black Friday 2019"
 #      url: "/black-friday-amazon/"

@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Computación Nube
 categories:
 - GOCT
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
 title: 'Computación en la nube: Una sencilla introducción'
 description: >-
   Una introducción fácil de entender a la computación en la nube. ¿Es mejor que usar su propio equipo informático? ¿Cuáles son los beneficios y las desventajas?
@@ -22,7 +21,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 La historia tiene una forma divertida de repetirse, o eso dicen. Pero puede resultar sorprendente encontrar que este viejo cliché se aplica tanto a la historia de las computadorasen cuanto a guerras, revoluciones, reyes y reinas. Durante las últimas tres décadas, una tendencia en la informática ha sido fuerte y clara: los grandes sistemas centralizados y mainframe han estado fuera.
 

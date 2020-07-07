@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ Black Friday 2019, todo lo que necesitas saber"
 description: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."
 excerpt: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."
@@ -8,13 +8,8 @@ canonical_URL: https://ciberninjas.com/ordenadores-diseño/
 published: false
 comments: false
 date: 2019-11-23 07:30:00 +0200
-header:
-  teaser: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
-  overlay_image: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
-  overlay_filter: 0.2
-  image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
-  image_alt: 'Las Mejores Ofertas del Prime Day de Amazon 2019 | Ciberninjas'
-  caption: "**Créditos**: Creación propia Ciberninjas"
+thumbnail: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
+feature-img: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

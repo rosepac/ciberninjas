@@ -6,7 +6,7 @@ date: 2019-10-11 02:20:00 +0200
 last_modified_at: 2019-10-16 20:25:10 +0200
 permalink: /los-libros-mas-impresionantes-sobre-go/
 canonical_URL: https://ciberninjas.com/los-libros-mas-impresionantes-sobre-go/
-author_profile: true
+author: rosepac
 published: true
 # header:
 #   image: /assets/images/jekyll-blog.jpg

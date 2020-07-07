@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "Ken Olsen"
 description: 'Ken Olsen, por su introducción de la minicomputadora como cofundador de Digital Equipment Corporation.'
 excerpt: 'Ken Olsen, por su introducción de la minicomputadora como cofundador de Digital Equipment Corporation.'
@@ -7,9 +7,7 @@ date: 2003-04-05
 published: true
 permalink: /personajes-historicos/ken-olsen/
 canonical_URL: https://computerhistory.org/profile/ken-olsen/
-classes: wide
-header:
-  teaser: https://computerhistory.org/wp-content/uploads/2020/01/1996_ken_olsen-e1580707624613.jpg
+thumbnail: https://computerhistory.org/wp-content/uploads/2020/01/1996_ken_olsen-e1580707624613.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Historia Ordenadores
 categories:
 - GOCT
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
 title: 'Breve historia de los ordenadores'
 description: >-
   Una historia de computadoras fácil de entender, desde el ábaco hasta Internet y iPhone.
@@ -22,7 +21,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 Las computadoras realmente se convirtieron en grandes inventos en las últimas dos décadas del siglo XX. Pero su historia se remonta más de 2500 años atrás al ábaco: una calculadora simple hecha de cuentas y alambres, que todavía se usa en algunas partes del mundo en la actualidad. La diferencia entre un ábaco antiguo y una computadora moderna parece enorme, pero el principio, hacer cálculos repetidos más rápidamente que el cerebro humano, es exactamente el mismo.
 

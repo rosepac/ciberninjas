@@ -7,13 +7,8 @@ canonical_URL: https://ciberninjas.com/eff/como-configurar-actividad-fuera-faceb
 date: 2020-01-29
 last_modified_at:
 published: true
-header:
-   overlay_image: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
-   overlay_filter: "0.2"
-   image_description: "➡ Cambia, consulta o desvincula la actividad de Facebook respecto a las empresas y organizaciones que visitas fuera de Facebook \ Visto en Ciberninjas"
-   image_alt: "➡ Cambia, consulta o desvincula la actividad de Facebook respecto a las empresas y organizaciones que visitas fuera de Facebook \ Visto en Ciberninjas"
-   caption: "**Créditos**: EFF Creative Commons 3.0"
-   teaser: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
+thumbnail: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
+feature-img: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

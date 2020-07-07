@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "Gordon Moore"
 description: 'Gordon Moore, por su trabajo inicial fundamental en el diseño y producción de dispositivos semiconductores como cofundador de Fairchild e Intel.'
 excerpt: 'Gordon Moore, por su trabajo inicial fundamental en el diseño y producción de dispositivos semiconductores como cofundador de Fairchild e Intel.'
@@ -7,9 +7,7 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/gordon-moore/
 canonical_URL: https://computerhistory.org/profile/gordon-moore/
-classes: wide
-header:
-  teaser: https://computerhistory.org/wp-content/uploads/2020/01/1998_gordon_moore-e1580707779947.jpg
+thumbnail: https://computerhistory.org/wp-content/uploads/2020/01/1998_gordon_moore-e1580707779947.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

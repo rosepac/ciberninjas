@@ -4,7 +4,6 @@ description: "Navbar"
 excerpt: "Barra de Navegación."
 permalink: /glosario/navbar/
 canonical_URL: https://ciberninjas.com/glosario/navbar/
-classes: wide
 ---
 
 Una **barra de navegación** (o sistema de navegación) es una sección de una interfaz gráfica de usuario diseñada para ayudar a los visitantes a acceder a la información.

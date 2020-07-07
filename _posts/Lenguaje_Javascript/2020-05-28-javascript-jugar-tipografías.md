@@ -1,18 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Tipografías
 categories:
 - Librerías Javascript
-header:
-  teaser: /assets/images/blog/lettering-love.webp
-  overlay_image: /assets/images/blog/lettering-love.webp
-  overlay_filter: 0.2
-  image_description: 'La tipografía es una parte integral del diseño del sitio web. La tipografía y las fuentes que utiliza juegan un papel muy importante en múltiples aspectos del diseño de un sitio web.'
-  image_alt: 'La tipografía es una parte integral del diseño del sitio web. La tipografía y las fuentes que utiliza juegan un papel muy importante en múltiples aspectos del diseño de un sitio web.'
+thumbnail: /assets/img/blog/lettering-love.webp
+feature-img: /assets/img/blog/lettering-love.webp
 title: '19 Bibliotecas de Javascript para jugar con las tipografías'
 description: >-
   La tipografía y las fuentes que utiliza juegan un papel muy importante en múltiples aspectos del diseño de un sitio web.

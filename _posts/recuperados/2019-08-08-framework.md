@@ -2,7 +2,7 @@
 layout: post
 title: Framework, Qué es un framework y +
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-06-14 06:06:13
 tags: [ ]

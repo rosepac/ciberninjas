@@ -6,16 +6,8 @@ date: 2020-01-14 15:00:05
 last_modified_at:
 published: true
 author_profile: false
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: false
 permalink: /regalos-funkos/
 canonical_URL: https://ciberninjas.com/regalos-funkos/
-# header:
-#   overlay_image: "https://i.ibb.co/NSyLZ1P/star-wars-militar-mirando.jpg"
-#   image_alt: "⚔ Regalos, comics, gifts, juguetes, tazas, camisetas, merchadising, muñecos de colección y más.."
-#   image_description: "⚔ Regalos, comics, gifts, juguetes, tazas, camisetas, merchadising, muñecos de colección y más.."
 sidebar:
 - title: "Catálogo"
   nav: tienda

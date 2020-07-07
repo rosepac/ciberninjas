@@ -1,16 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - VPN
 categories:
 - Software
-header:
-  teaser: /assets/images/.webp
-  overlay_image: /assets/images/.webp
-  overlay_filter: 0.2
+thumbnail: /assets/img/.webp
+feature-img: /assets/img/.webp
   image_description: ''
   image_alt: ''
 title: ''

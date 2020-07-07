@@ -6,16 +6,16 @@ date: 2020-03-26
 canonical_URL: https://ciberninjas.com/alternativas-culturales-combatir-coronavirus/
 permalink: /alternativas-culturales-combatir-coronavirus/
 published: true
-classes: wide
+
 categories:
   - Especial
 tags:
   - Cultura
   - Actividades
   - Coronavirus
-header:
-  teaser: /assets/images/blog/stop-coronavirus.webp
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/blog/stop-coronavirus.webp
+thumbnail2: /assets/img/blog/stop-coronavirus.webp
+#feature-img: /assets/img/
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -26,9 +26,9 @@ header:
 # toc_sticky: true
 ---
 
-![🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus](/assets/images/blog/stop-coronavirus.webp "🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus")
-
 No, este artículo no es una cura contra el coronavirus; porque básicamente y por desgracia, no parecer tener una metodología de cura concreta.
+
+![🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus](/assets/img/blog/stop-coronavirus.webp "🥇 ▷ Las Mejores Alternativas Culturales para Combatir el Coronavirus")
 
 [HILO DE TWITTER CON TODAS LAS ACTIVIDADES, LIBROS, CÓMICS  Y ACTOS GRATUITOS DURANTE ESTOS DÍAS](https://twitter.com/ciberninjas/status/1241068631146016770){:target="_blank" rel="nofollow,noreferrer"} [😻](/quedateencasa-directo/)
 {: .notice--warning}
@@ -497,19 +497,19 @@ Sin lugar a dudas la iniciativa musical más brillante de todas las que se han l
 
 Alberto Torres, Malva, Naranja, Alejandro Martínez (Sumando Voces), Ele, St. Woods, Mabu, Ruiperez (M Clan), Los Fesser, 84, Edurne, La Pegatina, Coque Malla, Rulo, Ariel Rot, Sidecars, Los Secretos, Sidecars, Miki Nuñez, Sinsinati.
 
-![](/assets/images/blog/22-musica.webp)
+![](/assets/img/blog/22-musica.webp)
 
 ### Día 21
 
 Juan Cid, Gritando en Silencio, Alex Gómez, Coco Green, El Verbo Odiado, Basanta, Luis Brea, Adriana Moragues, Rodrigo Cueevas, Ruth Lorenzo, David Demaría, Pastora Soler, Luis Ramiro, Bely Basarte, Fredi Leis, Mikel Erentxun, Amaral, Guitarrica de la Fuente, Sidonie, Coti, Siloé, DJ Nano.
 
-![](/assets/images/blog/21-musica.webp)
+![](/assets/img/blog/21-musica.webp)
 
 ### Día 20
 
 Penny Necklace, Rafa Pons, FloridaBlanca, Colectivo Panamera, Julia Medina, Conchita, Marlon, Los Vinagres, Luis Fercán, Elefantes, Vanesa Martín, Beret, Álvaro Soler, Efecto Pasillo, Álex Úbago, Smile, Monarchy.
 
-![](/assets/images/blog/20-musica.webp)
+![](/assets/img/blog/20-musica.webp)
 
 [🎶 Vuelve a Alternativas Musicales](/alternativas-culturales-combatir-coronavirus/#alternativas-musicales){: .btn .btn--inverse .btn--large .align-center}
 
@@ -591,7 +591,7 @@ Como no, nuestros recopilatorioes de cursos:
 
 ## **Aprendemos en Casa**
 
-![](/assets/images/blog/aprendemos-casa-horario.webp "Horario de las clases a través de la televisión española de Clan y La 2")
+![](/assets/img/blog/aprendemos-casa-horario.webp "Horario de las clases a través de la televisión española de Clan y La 2")
 
 Desde la Televisión Pública Española lanzan la iniciativa Aprendemos en Casa, en la que se incluyen clases de diferentes materias escolares, con las que poder apoyar los contenidos del curriculum escolar que se supone deberían de estar dando los niños en esta época del año.
 

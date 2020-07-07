@@ -4,7 +4,7 @@ title: >
     Thunderbird 2019, el gestor de correo electrónico por
     excelencia
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-01-14 06:01:24
 tags:

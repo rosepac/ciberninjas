@@ -3,7 +3,7 @@ title: 👨‍🚀 ▷ Recursos \ Cómo Aprender Go
 description: '🔨 🐍 Los Mejores Recursos con los que Aprender Go'
 excerpt: '🔨 🐍 Los Mejores Recursos con los que Aprender Go'
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-10-15 12:06:18
 last_modified_at: 

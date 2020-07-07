@@ -13,23 +13,14 @@ categories:
 permalink: /catalogo/el-arte-de-la-invisibilidad/
 description: "El Arte de la Invisibilidad de Kevin Mitnick"
 excerpt: "El Arte de la Invisibilidad de Kevin Mitnick"
-header:
-  overlay_image: /assets/images/catalogo/arte-invisibilidad.jpg
-  image_description: "El Arte de la Invisibilidad de Kevin Mitnick | Ciberninjas"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Amazon**"
-  actions:
-    - label: "+ SEGURIDAD INFORMÁTICA"
-      url: "/categoria/#seguridad-inform%C3%A1tica"
-    - label: "🛒 COMPRAR"
-      url: "https://amzn.to/2KOZuCA"
+feature-img: /assets/img/catalogo/arte-invisibilidad.jpg
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 sidebar:
   - title: "Autor"
-    image: /assets/images/catalogo/arte-invisibilidadx250.jpg
+    image: /assets/img/catalogo/arte-invisibilidadx250.jpg
     image_alt: "El Arte de la Invisibilidad de Kevin Mitnick: Ciberninjas"
     text: "Kevin Mitnick"
   - title: "Precio Papel"

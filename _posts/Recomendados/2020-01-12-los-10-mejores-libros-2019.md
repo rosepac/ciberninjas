@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "📖 Los mejores libros de la última década del Siglo XXI"
 description: 'Los libros recomendados por Obama en 2019. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
 excerpt: 'Los libros recomendados por Obama en 2019. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
@@ -11,13 +11,8 @@ categories:
 tags:
 - Libro
 - Barack Obama
-header:
-  teaser: /assets/images/obama-leyendo.jpg
-  overlay_image: /assets/images/obama-leyendo.jpg
-  overlay_filter: "0.2"
-  image_alt: "Barack Obama, lee sus libros recomendados durante el año 2019 en la Casa Blanca | Visto en Ciberninjas"
-  image_description: "Barack Obama, lee sus libros recomendados durante el año 2019 en la Casa Blanca | Visto en Ciberninjas"
-  caption: "**Créditos**: [Obama White House](https://www.flickr.com/photos/obamawhitehouse/8109908571), es una [Obra del Gobierno de Estados Unidos](https://www.usa.gov/government-works) bajo sus propidas condiciones de [licencia](https://www.usa.gov/government-works)"
+thumbnail: /assets/img/obama-leyendo.jpg
+feature-img: /assets/img/obama-leyendo.jpg
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

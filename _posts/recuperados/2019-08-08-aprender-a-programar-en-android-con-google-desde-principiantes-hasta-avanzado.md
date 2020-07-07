@@ -4,7 +4,7 @@ title: >
     Aprender a programar en Android con Google, desde
     principiantes hasta avanzado
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2018-12-12 02:12:49
 tags:

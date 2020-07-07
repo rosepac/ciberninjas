@@ -4,17 +4,15 @@ title: Polar, biblioteca que te ofrece el servicio de organizador de libros y p�
 published: true
 layout: splash
 classes: hide
-header:
-  teaser: /assets/images/blog/polar-software.webp
-  overlay_image: /assets/images/blog/polar-software.webp
-  overlay_filter: 0.2
+thumbnail: /assets/img/blog/polar-software.webp
+feature-img: /assets/img/blog/polar-software.webp
   image_description: 'POLAR es un potente navegador sin conexi처n para Mac , Windows y Linux para administrar todo su contenido web, libros y notas.'
   image_alt: 'POLAR es un potente navegador sin conexi처n para Mac , Windows y Linux para administrar todo su contenido web, libros y notas.'
 description: >-
   POLAR es un potente navegador sin conexi처n para Mac , Windows y Linux para administrar todo su contenido web, libros y notas. En Polar se mantiene todo el contenido en un solo lugar, admite etiquetado, anotaci처n, resaltado y realiza un seguimiento de su progreso de lectura.
 excerpt: >-
   POLAR es un potente navegador sin conexi처n para Mac , Windows y Linux para administrar todo su contenido web, libros y notas. En Polar se mantiene todo el contenido en un solo lugar, admite etiquetado, anotaci처n, resaltado y realiza un seguimiento de su progreso de lectura.
-author_profile: true
+author: rosepac
 comments: false
 date: 2020-06-08 10:01:33
 tags:

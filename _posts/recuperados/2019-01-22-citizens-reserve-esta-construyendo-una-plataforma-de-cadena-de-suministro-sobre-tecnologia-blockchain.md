@@ -3,7 +3,7 @@ title: "📰 Citizens Reserve: Construye una plataforma de cadena de suministro 
 excerpt: "🏗 Citizens Reserve: Construye una plataforma de cadena de suministro sobre tecnología blockchain"
 description: "🏗  Citizens Reserve: Construye una plataforma de cadena de suministro sobre tecnología blockchain"
 published: true
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-01-22 05:01:30
 tags:

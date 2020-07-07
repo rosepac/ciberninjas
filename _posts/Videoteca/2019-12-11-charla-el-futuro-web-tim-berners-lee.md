@@ -9,7 +9,7 @@ header:
     provider: youtube
 comments: false
 date: 2019-12-11 20:28:02
-classes: wide
+
 tags:
 - Tim Berners Lee
 - Datos

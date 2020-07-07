@@ -1,6 +1,5 @@
 ---
-
-author_profile: true
+author: rosepac
 title: '▷ ZooKeeper: Proyectos de Software de la Fundación Apache'
 description: "Qué es Zookeeper Apache, una vista rápida al proyecto"
 excerpt: "Qué es Zookeeper Apache, una vista rápida al proyecto"
@@ -8,19 +7,19 @@ published: true
 comments: false
 date: 2020-02-07 11:30:12
 last_modified_at: 
-header:
-  teaser: /assets/images/apache/apache-zookeeper-ciberninjas.png
+thumbnail: /assets/img/apache/apache-zookeeper-ciberninjas.png
+thumbnail2: /assets/img/apache/apache-zookeeper-ciberninjas.png
 permalink: /que-es-apache-zookeeper/
 canonical_URL: https://ciberninjas.com/que-es-apache-zookeeper/
-classes: wide
+permalink: /que-es-apache-zookeeper/
+
 categories:
 - Apache
 tags:
 - ZooKeeper
-
 ---
 
-![](/assets/images/apache/apache-zookeeper-ciberninjas.png "Logotipo del proyecto ZooKeeper")
+![](/assets/img/apache/apache-zookeeper-ciberninjas.png "Logotipo del proyecto ZooKeeper")
 
 Apache ZooKeeper es un esfuerzo por desarrollar y mantener un servidor de código abierto que permita una coordinación distribuida altamente confiable. El proyecto esta dentro del mismo proyecto que Hadoop.
 

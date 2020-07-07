@@ -9,10 +9,8 @@ tags:
   - Comunicaciones
 permalink: /mumble/
 header:
-  overlay_image: /uploads/captura-mumbre-pagina-web.jpg
-  overlay_filter: '0.2'
-  image_description: Página Web Oficial del Cliente de Voz IP Mumble | Ciberninjas
-  caption: '**Créditos**: Captura creada por ROSEPAC'
+thumbnail: /assets/img/blog/captura-mumbre-pagina-web.jpg
+feature-img: /assets/img/blog/captura-mumbre-pagina-web.jpg
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja

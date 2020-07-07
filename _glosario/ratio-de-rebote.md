@@ -4,8 +4,6 @@ description: "Ratio de Rebote"
 excerpt: "Porcentaje de visitantes a un sitio web en particular que se aleja fuera del sitio después tras visualizar únicamente una sola página."
 permalink: /glosario/ratio-de-rebote/
 canonical_URL: https://ciberninjas.com/glosario/ratio-de-rebote/
-classes: wide
-
 ---
 
 Porcentaje de visitantes a un sitio web en particular que se aleja fuera del sitio después tras visualizar únicamente una sola página.

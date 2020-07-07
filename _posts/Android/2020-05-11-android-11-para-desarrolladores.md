@@ -3,13 +3,13 @@
 author_profile: false
 layout: splash
 comments: false
-classes: wide
+
 tags:
 - Android
 categories:
 - Sistema Operativo
-header:
-  teaser: /assets/images/blog/11-android-11-desarrolladores.webp
+thumbnail: /assets/img/blog/11-android-11-desarrolladores.webp
+thumbnail2: /assets/img/blog/11-android-11-desarrolladores.webp
 title: '📱 ▷ Vista previa de Android 11 para desarrolladores'
 description: >-
   Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios.
@@ -23,7 +23,7 @@ published: true
 
 ---
 
-![Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios](/assets/images/blog/11-android-11-desarrolladores.webp "Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios")
+![Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios](/assets/img/blog/11-android-11-desarrolladores.webp "Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios")
 
 El equipo de desarrolladores de Android ha compartido a principios de Mayo, una vista sobre todo lo avanzado en Android 11, desde el enfoque de vista de los desarrolladores que trabajan con el Sistema Operativo de Android.
 

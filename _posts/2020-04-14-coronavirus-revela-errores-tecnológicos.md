@@ -5,7 +5,7 @@ excerpt: "Desde los interminables agujeros de seguridad de Zoom hasta la revelac
 date: 2020-04-14 20:15:00 +0100
 canonical_URL: https://ciberninjas.com/coronavirus-revela-errores-tecnológicos/
 permalink: /coronavirus-revela-errores-tecnológicos/
-classes: wide
+
 published: true
 categories:
   - Reflexión Sociedad
@@ -14,9 +14,8 @@ tags:
   - Cobol
   - Zoom
   - Errores de Software
-header:
-  teaser: /assets/images/blog/covid-19-usa.webp
-#  overlay_image: /assets/images/covid-19-usa.webp
+thumbnail: /assets/img/blog/covid-19-usa.webp
+feature-img: /assets/img/blog/covid-19-usa.webp
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -27,9 +26,9 @@ header:
 # toc_sticky: true
 ---
 
-![El coronavirus revela nuestros errores tecnológicos. Desde los interminables agujeros de seguridad de Zoom hasta la revelación de que Cobol sigue vivo y enfermo dentro de nuestra infraestructura crítica del gobierno, estamos descubriendo para nuestra disgusto que mucha de nuestra tecnología está lejos de ser a prueba de desastres.](/assets/images/blog/covid-19-usa.webp "El coronavirus revela nuestros errores tecnológicos. Desde los interminables agujeros de seguridad de Zoom hasta la revelación de que Cobol sigue vivo y enfermo dentro de nuestra infraestructura crítica del gobierno, estamos descubriendo para nuestra disgusto que mucha de nuestra tecnología está lejos de ser a prueba de desastres.")
-
 Has perdido tu trabajo y ahora te enfrentas a un sistema de desempleo obsoleto y lento que parece que fue escrito en la década de 1950. En realidad, es más que un sentimiento. Si estás en Nueva Jersey, Nueva York o Connecticut, tu sistema de desempleo **fue escrito en el lenguaje de programación Cobol, hace 60 años**.
+
+![El coronavirus revela nuestros errores tecnológicos. Desde los interminables agujeros de seguridad de Zoom hasta la revelación de que Cobol sigue vivo y enfermo dentro de nuestra infraestructura crítica del gobierno, estamos descubriendo para nuestra disgusto que mucha de nuestra tecnología está lejos de ser a prueba de desastres.](/assets/img/blog/covid-19-usa.webp "El coronavirus revela nuestros errores tecnológicos. Desde los interminables agujeros de seguridad de Zoom hasta la revelación de que Cobol sigue vivo y enfermo dentro de nuestra infraestructura crítica del gobierno, estamos descubriendo para nuestra disgusto que mucha de nuestra tecnología está lejos de ser a prueba de desastres.")
 
 Mientras tanto, si deseas solicitar beneficios de desempleo en línea en Washington. DC, **el sistema insiste en que uses Internet Explorer**. Según recuerdo, IE fue dejado de actualizar hace ya cinco años.
 

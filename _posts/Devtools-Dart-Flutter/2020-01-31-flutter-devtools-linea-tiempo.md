@@ -4,13 +4,12 @@ title: '🚀 ¿Cómo usar la línea de tiempo de DevTools con Flutter?'
 excerpt: '👩‍🚀 Primeros pasos de uso de la línea de tiempo de DevTools sobre Flutter.'
 description: '👩‍🚀 Primeros pasos de uso de la línea de tiempo de DevTools sobre Flutter.'
 published: true
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 date: 2020-01-31 12:45:33
 last_modified_at: 
-header:
-  teaser: https://flutter.dev/assets/tools/devtools/timeline_frame_events_chart-3339ef25e6f5c09c32fc7fd0cf043585dca937a2d138ef1e0650762a9240296e.png
+thumbnail: https://flutter.dev/assets/tools/devtools/timeline_frame_events_chart-3339ef25e6f5c09c32fc7fd0cf043585dca937a2d138ef1e0650762a9240296e.png
+thumbnail2: https://flutter.dev/assets/tools/devtools/timeline_frame_events_chart-3339ef25e6f5c09c32fc7fd0cf043585dca937a2d138ef1e0650762a9240296e.png
 tags:
 - Flutter
 - Dart

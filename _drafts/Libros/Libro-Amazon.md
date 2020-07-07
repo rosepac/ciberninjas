@@ -17,7 +17,7 @@ date: 2019-09-14 09:34:54
 permalink: /catalogo/
 canonical_URL: https://ciberninjas.com/
 header:
-  overlay_image: 
+feature-img: 
   image_description: "TITULO en Español: Los mejores libros de seguridad informática y ciberseguridad | Ciberninjas"
   overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **LeanPub**"

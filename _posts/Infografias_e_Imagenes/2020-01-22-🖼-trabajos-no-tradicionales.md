@@ -7,15 +7,14 @@ comments: false
 date: 2020-01-22 15:43:00 +0200
 permalink: /no-necesitas-trabajo-tradicional-para-ganar-dinero/
 canonical_URL: https://ciberninjas.com/no-necesitas-trabajo-tradicional-para-ganar-dinero/
-classes: wide
+
 tags:
   - Trabajo
   - Aplicaciones
 categories:
   - Imagen Negocios
-header:
-  teaser: https://i.ibb.co/vscwB2J/56c8474c-how-to-earn-money-without-traditional-job-3-compressed.png
-  overlay_image: https://i.ibb.co/vscwB2J/56c8474c-how-to-earn-money-without-traditional-job-3-compressed.png
+thumbnail: https://i.ibb.co/vscwB2J/56c8474c-how-to-earn-money-without-traditional-job-3-compressed.png
+feature-img: https://i.ibb.co/vscwB2J/56c8474c-how-to-earn-money-without-traditional-job-3-compressed.png
   image_description: "Infografía que te muestra todas las aplicaciones que existen para realizar trabajos no convencionales a través de las nuevas tecnologías | Visto en Ciberninjas"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **TitleMax**"

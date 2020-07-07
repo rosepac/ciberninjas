@@ -1,15 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - HTML
 - PHP
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
 title: 'Breve introducción a PHP y HTML'
 description: >-
   Breve introducción al lenguaje de programación PHP y el lenguaje de marcado de hipertexto HTML.

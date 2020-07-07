@@ -7,16 +7,8 @@ last_modified_at:
 permalink: /wordpress/
 canonical_URL: https://ciberninjas.com/wordpress/
 published: true
-header:
-  teaser: "/assets/images/paginas/02-29-wordpress-all-in.webp"
-  overlay_image: "/assets/images/paginas/02-29-wordpress-all-in.webp"
-  image_description: Wordpress All In, es el mayor repositorio de enlaces de aprendizaje para Wordpress que vas a poder contrar en todo internet
-  caption: "Creación Propia"
-classes: wide
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+thumbnail: "/assets/images/paginas/02-29-wordpress-all-in.webp"
+feature-img: "/assets/images/paginas/02-29-wordpress-all-in.webp"
 ---
 
 Este guía fue creada hace ya más de 2 años, más aún es perfectamente valido la gran mayoría de sus contenidos. Por ende, he decidido subirla a mi web. 

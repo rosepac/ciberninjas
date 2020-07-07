@@ -3,18 +3,14 @@
 author_profile: false
 layout: splash
 comments: false
-classes: wide
+
 tags:
 - Libros
 - Mark Zuckerberg
 categories:
 - Recomendaciones
-header:
-  teaser: /assets/images/blog/14-facebook-creador.webp
-  overlay_image: /assets/images/blog/14-facebook-creador.webp
-  overlay_filter: 0.2
-  image_description: "6 Libros de ciencia que Mark Zuckerberg recomienda leer: El comienzo del infinito y La estructura de las revoluciones científicas 4 libros más de ciencia ficción, que Mark Zuckerberg aconseja leer."
-  image_alt: "6 Libros de ciencia que Mark Zuckerberg recomienda leer: El comienzo del infinito y La estructura de las revoluciones científicas 4 libros más de ciencia ficción, que Mark Zuckerberg aconseja leer."
+thumbnail: /assets/img/blog/14-facebook-creador.webp
+feature-img: /assets/img/blog/14-facebook-creador.webp
 title: '6 Libros de ciencia que Mark Zuckerberg recomienda'
 description: >-
   El comienzo del infinito y La estructura de las revoluciones científicas 4 libros más de ciencia ficción, que Mark Zuckerberg aconseja leer.

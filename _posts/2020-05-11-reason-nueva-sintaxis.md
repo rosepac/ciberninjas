@@ -3,13 +3,13 @@
 author_profile: false
 comments: false
 layout: splash
-classes: wide
+
 tags:
 - Reason
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/blog/11-reason.webp
+thumbnail: /assets/img/blog/11-reason.webp
+feature-img: /assets/img/blog/11-reason.webp
 title: '👨‍💻 ▷ Reason te permite escribir código seguro de tipo simple, rápido y de calidad mientras aprovecha los ecosistemas JavaScript y OCaml'
 description: >-
   Reason no es un lenguaje nuevo; Es una nueva sintaxis y cadena de herramientas impulsada por el lenguaje probado en batalla, OCaml . La razón le da a OCaml una sintaxis familiar orientada a los programadores de JavaScript, y atiende al flujo de trabajo existente de NPM / Yarn que la gente ya conoce.
@@ -23,15 +23,20 @@ published: true
 
 ---
 
-![Reason no es un lenguaje nuevo; Es una nueva sintaxis y cadena de herramientas impulsada por el lenguaje probado en batalla, OCaml . La razón le da a OCaml una sintaxis familiar orientada a los programadores de JavaScript, y atiende al flujo de trabajo existente de NPM / Yarn que la gente ya conoce.](/assets/images/blog/11-reason.webp "Reason no es un lenguaje nuevo; Es una nueva sintaxis y cadena de herramientas impulsada por el lenguaje probado en batalla, OCaml . La razón le da a OCaml una sintaxis familiar orientada a los programadores de JavaScript, y atiende al flujo de trabajo existente de NPM / Yarn que la gente ya conoce.")
+Reason compila a JavaScript gracias a nuestro proyecto asociado, [BuckleScript](https://bucklescript.github.io/){:target="_blank" rel="nofollow,noreferrer"}, que compila OCaml / Reason en JavaScript legible con interoperabilidad fluida. La razón también se compila para un ensamblaje rápido y básico, gracias a OCaml.
+
+![Reason no es un lenguaje nuevo; Es una nueva sintaxis y cadena de herramientas impulsada por el lenguaje probado en batalla, OCaml . La razón le da a OCaml una sintaxis familiar orientada a los programadores de JavaScript, y atiende al flujo de trabajo existente de NPM / Yarn que la gente ya conoce.](/assets/img/blog/11-reason.webp "Reason no es un lenguaje nuevo; Es una nueva sintaxis y cadena de herramientas impulsada por el lenguaje probado en batalla, OCaml . La razón le da a OCaml una sintaxis familiar orientada a los programadores de JavaScript, y atiende al flujo de trabajo existente de NPM / Yarn que la gente ya conoce.")
+- [**¿Qué es Reason?**](#qué-es-reason)
+- [**¿Por qué Reason?**](#por-qué-reason)
+- [**¿Por qué OCaml como lenguaje de respaldo?**](#por-qué-ocaml-como-lenguaje-de-respaldo)
+- [**¿Reason no es para ti?**](#reason-no-es-para-ti)
+  - [Relacionados](#relacionados)
 
 ## **¿Qué es Reason?**
 
 Reason no es un lenguaje nuevo. Es una nueva sintaxis y cadena de herramientas impulsada por el lenguaje probado en batalla, OCaml . La razón le da a OCaml una sintaxis familiar orientada a los programadores de JavaScript, y atiende al flujo de trabajo existente de NPM / Yarn que la gente ya conoce.
 
 En ese sentido, Reason se puede considerar como un primo de JavaScript sólido, estáticamente tipado, más rápido y más simple, menos los problemas históricos, más las características de ES2030 que puede usar hoy, ¡y con acceso tanto al ecosistema JS como al OCaml!
-
-Reason compila a JavaScript gracias a nuestro proyecto asociado, [BuckleScript](https://bucklescript.github.io/){:target="_blank" rel="nofollow,noreferrer"}, que compila OCaml / Reason en JavaScript legible con interoperabilidad fluida. La razón también se compila para un ensamblaje rápido y básico, gracias a OCaml.
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
@@ -80,7 +85,7 @@ Aquí hay algunas alternativas que comparten algunos conceptos / linajes similar
 > 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
-### Otros
+### Relacionados <!-- Omit in toc -->
 
 [🥇 ▷ Los Mejores EDITORES de TEXTO para programar en 2020](https://ciberninjas.com/mejores-editores-texto/)
 

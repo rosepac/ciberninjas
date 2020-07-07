@@ -5,24 +5,16 @@ excerpt: ""
 date: 2020-02-20 01:00:00 +0100
 canonical_URL: https://ciberninjas.com//
 permalink: //
-classes: wide
+
 published: false
 categories:
   - Reflexión Programar
 tags:
   - Programar
   - Realidad
-header:
-  teaser: /assets/images/
-#  overlay_image: /assets/images/
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+thumbnail: /assets/img/
+thumbnail2: /assets/img/
+
 ---
 
 ![]("")

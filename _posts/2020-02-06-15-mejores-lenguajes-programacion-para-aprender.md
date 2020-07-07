@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "🥇 ▷ Los 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020"
 description: >-
   🔥 Descripción de los 15 lenguajes más usados y con mayor crecimiento para poder aprender a programar en 2020: Python, Java, C++, Javascript, Go, Rust, R, Swift, PHP, Matlab
@@ -10,11 +10,10 @@ published: true
 comments: false
 date: 2020-02-06 16:15:12
 last_modified_at: 
-header:
-  teaser: /assets/images/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp
+thumbnail: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp
+thumbnail2: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp
 permalink: /15-mejores-lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/15-mejores-lenguajes-programacion/
-classes: wide
 tags:
 - Python
 - Java
@@ -35,9 +34,11 @@ categories:
 
 ---
 
-![Los 15 mejores lenguajes de programación que más te interesa aprender durante el 2020](/assets/images/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp "Los 10 lenguajes de programación que más te interesa aprender durante el 2020")
+Una de las habilidades más importantes para aprender en el mundo de hoy en día, es [saber cómo codificar](/programar/) con un lenguaje de programación. En la actualidad, las computadoras han entrado en casi todas las industrias, desde el piloto automático de un avión hasta el velocímetro digital de una bicicleta pasando por la inclusión del Internet de las cosas en los pequeños electrodomésticos.
 
-Una de las habilidades más importantes para aprender en el mundo de hoy en día, es [saber cómo codificar](/programar/) con un lenguaje de programación. En la actualidad, las computadoras han entrado en casi todas las industrias, desde el piloto automático de un avión hasta el velocímetro digital de una bicicleta pasando por la inclusión del Internet de las cosas en los pequeños electrodomésticos. Casi todo lo que nos rodea, en menor o mayor forma está creado por ordenadores y pequeños chips configurados, y por ende programados.
+![Los 15 mejores lenguajes de programación que más te interesa aprender durante el 2020](/assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp "Los 10 lenguajes de programación que más te interesa aprender durante el 2020")
+
+Casi todo lo que nos rodea, en menor o mayor forma está creado por ordenadores y pequeños chips configurados, y por ende programados.
 
 Además, con los ordenadores, la organización de todas las empresas, organizaciones y estructuras de información del mundo se han renovado. Lejos, se quedan ya los días de la pluma y el papel. Hoy, para almacenar, gestionar, acceder y comprobar la información se necesitan a los sistemas informáticos.
 
@@ -54,7 +55,7 @@ Ante todo esto, los principiantes suelen estar desconcertados con la pregunta de
 
 ## Python
 
-![Python logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/python--logotipo-oficial.webp "Python logotipo del lenguaje de programación")
+![Python logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/python--logotipo-oficial.webp "Python logotipo del lenguaje de programación")
 
 [Python](/python/), sin duda, encabeza la lista. Es ampliamente aceptado como el mejor lenguaje de programación para aprender primero. Python es un lenguaje de programación rápido, fácil de usar y fácil de implementar que se está utilizando ampliamente para desarrollar aplicaciones web escalables. YouTube, Instagram, Pinterest, SurveyMonkey están integrados en Python. Python proporciona un excelente soporte de biblioteca y tiene una gran comunidad de desarrolladores. El lenguaje de programación proporciona un excelente punto de partida para principiantes, si eres de aquellos que buscan un mejor trabajo, ¡definitivamente debes aprender Python lo antes posible! Muchas nuevas empresas están utilizando Python como su tecnología principal de back-end y, por lo tanto, esto abre una grandes oportunidades a todos los desarrolladores full-stack de Python. Cualquiera que desee unirse a una startup en 2020 debe dominar la programación de Python.
 
@@ -87,7 +88,7 @@ Ante todo esto, los principiantes suelen estar desconcertados con la pregunta de
 
 ## Java
 
-![Java logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/java-logotipo_1280x720.webp "Java logotipo del lenguaje de programación")
+![Java logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/java-logotipo_1280x720.webp "Java logotipo del lenguaje de programación")
 
 Java es otra opción popular entre las grandes organizaciones y lo ha sido durante décadas. Java es ampliamente utilizado para construir aplicaciones web a escala empresarial. Se sabe que Java es extremadamente estable, por lo que muchas grandes empresas lo han adoptado. Si está buscando un trabajo basado en el desarrollo en una organización grande, Java es el lenguaje que debe aprender. Java también se usa ampliamente en el desarrollo de aplicaciones de Android y casi todas las empresas de hoy necesitan una aplicación de Android debido al hecho de que actualmente hay miles de millones de usuarios de Android. Esto abre una gran oportunidad para los desarrolladores de Java dado el hecho de que Google ha creado un excelente framework de desarrollo de Android basado en Java: Android Studio.
 
@@ -120,7 +121,7 @@ Java es otra opción popular entre las grandes organizaciones y lo ha sido duran
 
 ## C++
 
-![C++ logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/c-mas-logotipo_1280x720.webp "C++ logotipo del lenguaje de programación")
+![C++ logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/c-mas-logotipo_1280x720.webp "C++ logotipo del lenguaje de programación")
 
 C y C++ son como el pan y la mantequilla de la programación. Casi todos los sistemas de bajo nivel como los sistemas operativos, sistemas de archivos, etc. están escritos en C o C++. Si desea ser un programador a nivel de sistemas, C y C++ son el lenguaje que debes aprender. C++ también es ampliamente utilizado por programadores competitivos debido al hecho de que es extremadamente rápido y estable. C++ también proporciona algo llamado STL (biblioteca de plantillas estándar) que es un conjunto de bibliotecas listas para usar para diversas diferentes estructuras de datos, operaciones aritméticas y algoritmos. El soporte de estas bibliotecas y la velocidad del lenguaje lo convierten en una opción muy popular entre la comunidad comercial de HFT. Si te preguntas, ¿Qué es  HFT o comercio de alta frecuencia?  Es un método de comercio que utiliza potentes programas informáticos para realizar una gran cantidad de pedidos en fracciones de segundo.
 
@@ -160,7 +161,7 @@ C y C++ son como el pan y la mantequilla de la programación. Casi todos los sis
 
 ## Javascript
 
-![Javascript logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/javascript-logotipo_1280x720.webp "Javascript logotipo del lenguaje de programación")
+![Javascript logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/javascript-logotipo_1280x720.webp "Javascript logotipo del lenguaje de programación")
 
 JavaScript es el lenguaje de programación "frontend" por excelencia, a día de hoy, en cualquier código enfocado a aplicaciones móviles o Internet te terminarás encontrando algo de JS. Es usado ampliamente para diseñar aplicaciones frontend interactivas. Por ejemplo, cuando hace clic en un botón que abre una ventana emergente, la lógica se implementa a través de JavaScript.
 
@@ -215,7 +216,7 @@ Existen [muchos más](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines),
 
 ## Go
 
-![Go logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/go-logotipo_1280x720.webp "Go logotipo del lenguaje de programación")
+![Go logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/go-logotipo_1280x720.webp "Go logotipo del lenguaje de programación")
 
 Go, también conocido como Golang, es un lenguaje de programación creado por Google. Go proporciona un excelente soporte para subprocesos múltiples y, por lo tanto, está siendo utilizado por muchas empresas que dependen en gran medida de los sistemas distribuidos. Go es ampliamente utilizado en startups de Silicon Valley. Sin embargo, aún no ha sido adoptado por las empresas / startups de muchos otros países. Aquellos que deseen unirse a una startup de Silicon Valley especializada en sistemas centralizados deberán dominar Golang.
 
@@ -244,7 +245,7 @@ Soporte de biblioteca desfavorecida
 
 ## R
 
-![R logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/r--logotipo-oficial.webp "R logotipo del lenguaje de programación")
+![R logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/r--logotipo-oficial.webp "R logotipo del lenguaje de programación")
 
 El lenguaje de programación R es uno de los lenguajes de programación más utilizados para el análisis de datos y el aprendizaje automático. R proporciona un marco excelente y bibliotecas integradas para desarrollar potentes algoritmos de Machine Learning. R también se usa para computación estadística general, así como para gráficos. R ha sido bien adoptado por las empresas. Aquellos que deseen unirse al equipo de "Análisis" de una gran organización definitivamente debe aprender R.
 
@@ -271,7 +272,7 @@ La calidad de algunos paquetes es deficiente
 
 ## Swift
 
-![Swift logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/swift-logotipo.webp "Swift logotipo del lenguaje de programación")
+![Swift logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/swift-logotipo.webp "Swift logotipo del lenguaje de programación")
 
 Swift es el lenguaje de programación que se utiliza para desarrollar aplicaciones iOS. Los dispositivos basados ​​en iOS son cada vez más populares. El iPhone de Apple, por ejemplo, ha capturado una importante cuota de mercado y está dando una dura competencia a Android. Por lo tanto, aquellos que quieran servir a esta comunidad pueden aprender la programación de Swift.
 
@@ -301,7 +302,7 @@ No hay soporte para proyectos heredados; solo se puede usar para iOS7 o aplicaci
 
 ## PHP
 
-![PHP logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/php--logotipo-oficial.webp "PHP logotipo del lenguaje de programación")
+![PHP logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/php--logotipo-oficial.webp "PHP logotipo del lenguaje de programación")
 
 PHP es uno de los lenguajes de programación de backend más populares. Aunque PHP se enfrenta a una dura competencia frente a Python y JavaScript, el mercado aún necesita una gran cantidad de desarrolladores de PHP. Aquellos que deseen unirse a una organización razonablemente antigua como desarrollador de backend debe comenzar a aprender programación PHP.
 
@@ -329,7 +330,7 @@ Requiere extensiones en mayor medida
 
 ## C#
 
-![C# logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/c-sharp-logotipo_1280x720.webp "C# logotipo del lenguaje de programación")
+![C# logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/c-sharp-logotipo_1280x720.webp "C# logotipo del lenguaje de programación")
 
 C# también conocido por C Sharp, es un lenguaje de programación de propósito general desarrollado por Microsoft. C# se usa ampliamente para la programación de backend, la creación de juegos (junto a Unity), la creación de aplicaciones de Windows para teléfonos móviles y muchos otros casos de uso.
 
@@ -361,7 +362,7 @@ Resolver errores requiere una gran experiencia y conocimiento.
 
 ## Matlab
 
-![Matlab logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/matlab-logotipo-oficial.webp "Matlab logotipo del lenguaje de programación")
+![Matlab logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/matlab-logotipo-oficial.webp "Matlab logotipo del lenguaje de programación")
 
 MATLAB es una herramienta de análisis estadístico que se utiliza en varias industrias para el análisis de datos. MATLAB también se usa ampliamente en la industria de procesamiento de imágenes y visión por computadora.
 
@@ -388,7 +389,7 @@ Plataforma independiente
 
 ## Dart
 
-![Dart logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/dart-logotipo_1280x720.webp "Dart logotipo del lenguaje de programación")
+![Dart logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/dart-logotipo_1280x720.webp "Dart logotipo del lenguaje de programación")
 
 Dart es un lenguaje de programación de propósito general desarrollado originalmente por Google y luego aprobado como estándar por la organización Ecma. Se utiliza para crear aplicaciones web, de servidor y móviles.
 Dart es un lenguaje de herencia única orientado a objetos, fuertemente tipado, que utiliza una sintaxis de estilo C que transcompila (compilador que convierte el código fuente de un programa a otro idioma) opcionalmente en JavaScript. Admite clases, interfaces, polimorfismo, clases abstractas, genéricos, tipado estático y sistema fuertemente tipado.
@@ -417,7 +418,7 @@ Dart es un lenguaje de herencia única orientado a objetos, fuertemente tipado, 
 
 ## Ruby
 
-![Ruby logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/ruby--logotipo-oficial.webp "Ruby logotipo del lenguaje de programación")
+![Ruby logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/ruby--logotipo-oficial.webp "Ruby logotipo del lenguaje de programación")
 
 Ruby es un lenguaje de programación orientado a objetos simple pero poderoso (todo en Ruby es un objeto), creado por Yukihiro Matsumoto, quien se conoce con el nombre en línea "Matz". Los programas de Ruby son compactos, pero legibles y mantenibles. Ruby ofrece características como bloques, iteradores, metaclases y otros. Se puede usar para escribir servidores , experimentar con prototipos y para tareas de programación cotidianas. Ruby es de código abierto y está disponible de forma gratuita tanto para el desarrollo como para la implementación.
 
@@ -442,7 +443,7 @@ Ruby es un lenguaje de programación orientado a objetos simple pero poderoso (t
 
 ## Haskell
 
-![Haskell logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/haskell-logotipo_1280x720.webp "Haskell logotipo del lenguaje de programación")
+![Haskell logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/haskell-logotipo_1280x720.webp "Haskell logotipo del lenguaje de programación")
 
 Lo primero que debe saber sobre Haskell es que es un lenguaje funcional. Las funciones en Haskell se describen mejor como relaciones entre datos de entrada y salida. Haskell es un lenguaje declarativo. Este principio se puede demostrar mejor en comparación con los lenguajes imperativos tradicionales como Java o Python. La diferencia entre ellos es que los lenguajes imperativos describen a la máquina cómo debe realizar una determinada acción, mientras que en Haskell solo dices lo que quieres y esperas el resultado. ¿No es asombroso? Incluso si no tienes experiencia en programación, muchas personas recomiendan que comiencen a aprender este idioma.
 
@@ -469,7 +470,7 @@ Lo primero que debe saber sobre Haskell es que es un lenguaje funcional. Las fun
 
 ## Rust
 
-![Rust logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/rust-logotipo_1280x720.webp "Rust logotipo del lenguaje de programación")
+![Rust logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/rust-logotipo_1280x720.webp "Rust logotipo del lenguaje de programación")
 
 Rust es el tercer lenguaje de programación de más rápido crecimiento después de Python . Es un lenguaje de programación del sistema que es seguro, concurrente y práctico. Rust es una extensión avanzada de los lenguajes ML. Tiene un rendimiento rápido con una mayor corrección en tiempo de compilación.
 
@@ -499,7 +500,7 @@ Rust proporciona una seguridad de memoria garantizada y tiene un control complet
 
 ## OCaml
 
-![OCaml logotipo visto en Ciberninjas](/assets/images/lenguajes_y_mas_1280x720/ocaml--logotipo-oficial.webp "OCaml logotipo del lenguaje de programación")
+![OCaml logotipo visto en Ciberninjas](/assets/img/lenguajes_y_mas_1280x720/ocaml--logotipo-oficial.webp "OCaml logotipo del lenguaje de programación")
 
 OCaml es esencialmente un lenguaje de programación funcional. Sin ofender a FP, pero las principales industrias parecen haber abandonado los lenguajes de FP. Sin embargo, muchas empresas más pequeñas (e incluso algunos gigantes) han reconocido el poder de la FP y están revolucionando su trabajo utilizando lenguajes como Haskell, OCaml, etc. Pero aquí también, OCaml desaparece y Haskell domina. Pero debido al apoyo de varios paradigmas (funcional, imperativo, OO), muchas empresas recurren a OCaml. Dicho esto, OCaml es un lenguaje de programación de propósito general y se puede usar donde sea que se usen otros lenguajes de programación de propósito general como Python, Java, etc.
 

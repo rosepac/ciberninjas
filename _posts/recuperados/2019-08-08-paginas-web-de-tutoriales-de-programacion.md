@@ -2,7 +2,7 @@
 layout: post
 title: Páginas Web de Tutoriales de Programación en Español
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-07-17 08:07:39
 tags: [ ]

@@ -5,15 +5,14 @@ excerpt: "Existen muchas series sobre tecnología, pero no tantas concretas sobr
 date: 2020-04-20 13:05:00 +0100
 canonical_URL: https://ciberninjas.com/mejores-series-inteligencia-artificial/
 permalink: /mejores-series-inteligencia-artificial/
-classes: wide
+
 published: false
 categories:
   - Series
 tags:
   - Inteligencia Artificial
-header:
-  teaser: /assets/images/
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/
+#feature-img: /assets/img/
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-

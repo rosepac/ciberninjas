@@ -7,7 +7,7 @@ date: 2020-04-21
 published: true
 permalink: /cronograma/
 canonical_URL: "https://www.computerhistory.org/timeline/"
-classes: wide
+
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

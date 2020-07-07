@@ -1,1 +1,0 @@
-var ouo_token = 'eDdvDu7k'; var domains = ['udemy.com','click.linksynergy.com','edx.com','miriadax.net','devcode.la','crehana.com'];

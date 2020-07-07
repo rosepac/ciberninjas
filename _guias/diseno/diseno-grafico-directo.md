@@ -3,14 +3,14 @@ title: 👨‍🎨 ▷ Noticias en Directo sobre Diseño Gráfico
 description: '📰 🎨 El Mejor Canal de Noticias sobre Diseño Web en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Diseño Web'
 excerpt: '📰 🎨 El Mejor Canal de Noticias sobre Diseño Web en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Diseño Web'
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2020-01-08 09:10:18
 last_modified_at: 
 permalink: /diseno-grafico-directo/
 # header:
 #   teaser: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
-#   overlay_image: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
+# feature-img: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
 #   overlay_filter: 0.2
 #   image_description: '🔨 🐍 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Diseño Web'
 #   image_alt: '🔨 🐍 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Diseño Web'

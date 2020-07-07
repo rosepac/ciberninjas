@@ -13,12 +13,8 @@ tags:
 - Twitter
 - Diaspora
 - Mastodon
-header:
-  overlay_image: "/assets/images/amigos-redes-sociales.webp"
-  overlay_filter: "0.2"
-  image_description: "Haz amigos en las nuevas redes sociales alternativas a Facebook y Twitter, como son Diaspora o Mastodon | ROSEPAC"
-  caption: "**Créditos**: Fotografía de [Hannah Rodrigo](https://unsplash.com/photos/mf_3yZnC6ug) en [Unsplash](https://unsplash.com/@hannahrodrigo)"
-
+thumbnail: "/assets/img/amigos-redes-sociales.webp"
+feature-img: "/assets/img/amigos-redes-sociales.webp"
 ---
 > Las alternativas reales a Facebook o Twitter son Diaspora, Mastodon o Quitter; aunque siempre carecen de la falta de masa social existente en las dos grandes empresas mayoritarias
 
@@ -154,6 +150,6 @@ Podríamos definir RSS como la red social del solitario.
 Los lectores de RSS y apps de visualización de RSS sobre Android, siempre han sido mi primera opción y siempre lo serán.
 
 <!-- <figure>
-    <a href="/assets/images/Fx636.jpg" class="image-popup"><img src="/assets/images/F.jpg"></a>
+    <a href="/assets/img/Fx636.jpg" class="image-popup"><img src="/assets/img/F.jpg"></a>
     <figcaption>DS | Ciberninjas</figcaption>
 </figure> -->

@@ -1,6 +1,6 @@
 ---
 title: 🥇 ▷ La Mejor Caja de Herramientas de Webmaster para 2020 🧰
-author_profile: true
+author: rosepac
 description: "📌 Las mejores herramientas para Webmaster, conviértete en el mejor gestor de páginas web del mundo"
 excerpt: "📌 Las mejores herramientas para Webmaster, conviértete en el mejor gestor de páginas web del mundo"
 published: true
@@ -9,11 +9,8 @@ date: 2020-02-27
 last_modified_at: 
 permalink: /recursos-herramientas-webmaster/
 canonical_URL: https://ciberninjas.com/recursos-herramientas-webmaster/
-header:
-  teaser: "/assets/images/paginas/webmaster.webp"
-  overlay_image: "/assets/images/paginas/webmaster.webp"
-  image_description: Enlaces a herramientas necesarias en el día a día de cualquier webmaster
-  image_alt: Enlaces a herramientas necesarias en el día a día de cualquier webmaster
+thumbnail: "/assets/images/paginas/webmaster.webp"
+feature-img: "/assets/images/paginas/webmaster.webp"
 toc: false
 toc_label: "Contenidos"
 toc_icon: user-ninja

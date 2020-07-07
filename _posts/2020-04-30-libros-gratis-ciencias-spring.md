@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Libros
 categories:
 - Repositorios
-header:
-  teaser: /assets/images/blog/springer-editorial.webp
+thumbnail: /assets/img/blog/springer-editorial.webp
+feature-img: /assets/img/blog/springer-editorial.webp
 title: '👨‍🔬 ▷ 408 Libros en PDF sobre Ciencias, programación, robótica, electrónica, álgebra y más. De la Editorial Springer (en inglés) totalmente gratis'
 description: >-
   Biblioteca de libros totalmente gratuita en formato pdf con la que convertirte un auténtico profesional de la ciencias, programación, robótica, electrónica, álgebra, matemáticas, astronomía, sociología, biomécanica
@@ -22,7 +21,7 @@ published: true
 
 ---
 
-![👨‍🔬 ▷ 408 Libros sobre Ciencia de la Editorial Springer (en inglés) totalmente gratis](/assets/images/blog/springer-editorial.webp "👨‍🔬 ▷ 408 Libros sobre Ciencia de la Editorial Springer (en inglés) totalmente gratis")
+![👨‍🔬 ▷ 408 Libros sobre Ciencia de la Editorial Springer (en inglés) totalmente gratis](/assets/img/blog/springer-editorial.webp "👨‍🔬 ▷ 408 Libros sobre Ciencia de la Editorial Springer (en inglés) totalmente gratis")
 
 La más espectacular colección de libros científicos en pdf en inglés totalmente gratuitos. Entre las lecturas que vas a poder encontrar, infinitas excelentes editoriales universitarias (en inglés) sobre todas las siguientes temáticas, y muchísimo más:
 

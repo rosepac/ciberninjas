@@ -1,14 +1,12 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Apache Avro
 categories:
 - Apache Hadoop
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
 title: '🚀 ▷ ¿Qué es Apache Avro para Apache Haddop?'
 description: >-
   ''
@@ -22,7 +20,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 ## ¿Qué es avro?
 

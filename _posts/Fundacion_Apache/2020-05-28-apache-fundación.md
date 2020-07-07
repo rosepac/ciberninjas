@@ -2,16 +2,14 @@
 
 author_profile: false
 comments: false
-classes: wide
+
 layout: splash
 tags:
 - 
 categories:
 - Java
-header:
-  teaser: /assets/images/blog/
-  overlay_image: /assets/images/blog/
-  overlay_filter: 0.2
+thumbnail: /assets/img/blog/
+feature-img: /assets/img/blog/
   image_description: ''
   image_alt: ''
 title: '¿Qué es la fundación Apac?'
@@ -27,7 +25,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 <!-- https://www.apache.org/foundation/ -->
 <!-- FAQ: https://www.apache.org/foundation/preFAQ.html -->
 <!-- Glosario: https://www.apache.org/foundation/glossary.html -->

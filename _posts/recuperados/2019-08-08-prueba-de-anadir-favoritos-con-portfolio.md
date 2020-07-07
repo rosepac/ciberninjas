@@ -2,7 +2,7 @@
 layout: post
 title: prueba de añadir favoritos con portfolio
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-06-03 09:06:57
 tags: [ ]

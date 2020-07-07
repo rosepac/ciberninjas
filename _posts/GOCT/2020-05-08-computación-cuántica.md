@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Computación Nube
 categories:
 - GOCT
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
 title: 'Computación Cuántica: Una sencilla introducción'
 description: >-
   Una introducción fácil de entender a la computación cuántica. ¿Cómo es diferente de la informática convencional? ¿Será más rápido y mejor?
@@ -22,7 +21,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 ¿Cómo puede obtener más y más de menos y menos? A medida que las computadoras más pequeñas se vuelven, más poderosas parecen volverse: hay más capacidad de descifrar números en un teléfono celular del siglo XXI de lo que habría encontrado en una computadora militar del tamaño de una habitación hace 50 años. 
 

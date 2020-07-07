@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Memoria Flash
 categories:
 - Inventor
-header:
-  teaser: /assets/images/blog/8-inventor-memoria.webp
+thumbnail: /assets/img/blog/8-inventor-memoria.webp
+feature-img: /assets/img/blog/8-inventor-memoria.webp
 title: '¿Quién es Fujio Masuoka? El creador de las memorias flash'
 description: >-
   Los chips de memoria flash, que almacenan datos en teléfonos celulares, cámaras digitales y reproductores de música, no llegaron exactamente en un instante. A Fujio Masuoka, le debemos el haberlas creado. Además, de las memorias DRAM.
@@ -22,10 +21,10 @@ published: true
 
 ---
 
-![¿Quién es Fujio Masuoka? El creador de las memorias flash](/assets/images/blog/8-inventor-memoria.webp "¿Quién es Fujio Masuoka? El creador de las memorias flash")
+![¿Quién es Fujio Masuoka? El creador de las memorias flash](/assets/img/blog/8-inventor-memoria.webp "¿Quién es Fujio Masuoka? El creador de las memorias flash")
 
-- [**Biografía Completa**](#biograf%c3%ada-completa)
-- [**EL Héroe Anónimo: Una historia en profundidad**](#el-h%c3%a9roe-an%c3%b3nimo-una-historia-en-profundidad)
+- [**Biografía Completa**](#biografía-completa)
+- [**EL Héroe Anónimo: Una historia en profundidad**](#el-héroe-anónimo-una-historia-en-profundidad)
 
 > 🔥 Seguro también te interesa: [La Historia de los Ordenadores](/cronograma/) >> [Personajes Históricos en la Historia de los Ordenadores](/personajes-historicos/) >> [Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/) >> [Una espectacular galería de robots históricos](/galeria-de-robots/)
 {: .notice--danger}

@@ -13,23 +13,14 @@ categories:
 permalink: /catalogo/el-libro-blanco-del-hacker/
 description: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar"
 excerpt: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar"
-header:
-  overlay_image: /assets/images/catalogo/libro-blanco-hacker.jpg
-  image_description: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar | Ciberninjas"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Amazon**"
-  actions:
-    - label: "+ SEGURIDAD INFORMÁTICA"
-      url: "/categoria/#seguridad-inform%C3%A1tica"
-    - label: "🛒 COMPRAR"
-      url: "https://amzn.to/2N5EkCS"
+feature-img: /assets/img/catalogo/libro-blanco-hacker.jpg
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 sidebar:
   - title: "Autor"
-    image: /assets/images/catalogo/libro-blanco-hackerx250.jpg
+    image: /assets/img/catalogo/libro-blanco-hackerx250.jpg
     image_alt: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar: Ciberninjas"
     text: "Pablo Gutiérrez Salazar"
   - title: "Precio Papel"

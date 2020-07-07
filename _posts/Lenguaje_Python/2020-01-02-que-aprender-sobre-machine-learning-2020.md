@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖"
 description: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje automático durante 2020"
 excerpt: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje automático durante 2020"
@@ -9,20 +9,11 @@ date: 2020-03-13 11:22:12
 last_modified_at: 2020-01-13 11:02:12
 canonical_URL: https://ciberninjas.com/que-aprender-sobre-machine-learning-2020/
 permalink: /que-aprender-sobre-machine-learning-2020/
-classes: wide
+
 categories:
 - Aprendizaje Automático
-header:
-  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-  overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-  overlay_filter: 0.2
-  image_description: '🤖 Cómo empezar con el aprendizaje automático o machine learning en 2020'
-  image_alt: '🤖 Cómo empezar con el aprendizaje automático o machine learning en 2020'
-  caption: "Créditos: Unsplash"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+thumbnail: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
+feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 ---
 
 Con esta publicación vamos a crear una línea de aprendizaje que seguir para la creación de un proyecto de aprendizaje automático durante el nuevo año 2020.

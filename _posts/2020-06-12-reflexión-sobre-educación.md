@@ -1,18 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Internet
 categories:
 - Reflexión
-header:
-  teaser: /assets/images/blog/
-  overlay_image: /assets/images/blog/
-  overlay_filter: 0.2
-  image_description: ''
-  image_alt: ''
+thumbnail: /assets/img/blog/
+feature-img: /assets/img/blog/
 title: '▷ La extrapolación subrealista del mundo virtual al mundo real (Explicada?)'
 description: >-
   
@@ -46,7 +41,7 @@ La nueva educación se basa en "profesores" que no son más que estudiantes poco
 
 Realmente, se puede llamar profesor a este tipo de personas.. Soy la primera persona, que me encargo en difundir los recursos para fomentar una educación diferente al paradigma educativo "normal", pero.. considero 
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>

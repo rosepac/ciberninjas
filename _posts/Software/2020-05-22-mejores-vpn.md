@@ -2,18 +2,14 @@
 
 author_profile: false
 comments: false
-classes: wide
+
 layout: splash
 tags:
 - VPN
 categories:
 - Software
-header:
-  teaser: /assets/images/blog/mejor-vpn.webp
-  overlay_image: /assets/images/blog/mejor-vpn.webp
-  overlay_filter: 0.2
-  image_description: 'Una VPN gratuita es un software que te da acceso a una red de servidor VPN, junto con el software necesario, sin tener que pagar nada.'
-  image_alt: 'Una VPN gratuita es un software que te da acceso a una red de servidor VPN, junto con el software necesario, sin tener que pagar nada.'
+thumbnail: /assets/img/blog/mejor-vpn.webp
+feature-img: /assets/img/blog/mejor-vpn.webp
 title: '10 Mejores VPN GRATIS para Windows en 2020'
 description: >-
   Una VPN gratuita es un software que te da acceso a una red de servidor VPN, junto con el software necesario, sin tener que pagar nada.

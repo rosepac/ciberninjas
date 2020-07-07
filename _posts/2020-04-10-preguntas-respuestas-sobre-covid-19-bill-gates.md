@@ -6,16 +6,15 @@ date: 2020-04-11 13:30:00 +0100
 canonical_URL: https://ciberninjas.com/preguntas-respuestas-sobre-covid-19-bill-gates/
 permalink: /preguntas-respuestas-sobre-covid-19-bill-gates/
 published: true
-classes: wide
+
 categories:
   - Reflexión Sociedad
 tags:
   - Sociedad
   - Coronavirus
   - Bill Gates
-header:
-  teaser: /assets/images/blog/bill-gates-covid-19-2.webp
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/blog/bill-gates-covid-19-2.webp
+feature-img: /assets/img/blog/bill-gates-covid-19-2.webp
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -26,11 +25,11 @@ header:
 # toc_sticky: true
 ---
 
-![Preguntas y respuestas sobre el covid 19 / coronavirus que Bill Gates a tenido el placer de responder a través de Reddit](/assets/images/blog/bill-gates-covid-19-2.webp "Preguntas y respuestas sobre el covid 19 / coronavirus que Bill Gates a tenido el placer de responder a través de Reddit")
-
 Ayer hice una sesión de Reddit [Ask Me Anything](https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/?sort=qa){:target="_blank" rel="nofollow,noreferrer"} en relación al COVID-19. Como de costumbre, los Redditors hicieron muchas preguntas inteligentes y fue una gran oportunidad para tener una discusión basada en hechos sobre esta pandemia y lo que podemos hacer para prevenir la próxima (Y como mencioné en [este intercambio](https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/fkumtd7?utm_source=share&utm_medium=web2x){:target="_blank" rel="nofollow,noreferrer"}, es bueno tener tantas interacciones positivas en un momento tan incierto).
 
-*A continuación se muestra una transcripción de todas las preguntas a las que pude responder (ligeramente editado por su larga extensión) junto a mis respuestas. Compartiré más sobre el COVID-19 aquí, en las Gates Notes y en mis canales sociales. Mientras tanto, ¡Manténgase saludable y siga lavándose las manos!*
+![Preguntas y respuestas sobre el covid 19 / coronavirus que Bill Gates a tenido el placer de responder a través de Reddit](/assets/img/blog/bill-gates-covid-19-2.webp "Preguntas y respuestas sobre el covid 19 / coronavirus que Bill Gates a tenido el placer de responder a través de Reddit")
+
+> *A continuación se muestra una transcripción de todas las preguntas a las que pude responder (ligeramente editado por su larga extensión) junto a mis respuestas. Compartiré más sobre el COVID-19 aquí, en las Gates Notes y en mis canales sociales. Mientras tanto, ¡Manténgase saludable y siga lavándose las manos!*
 
 ![Un coronavirus AMA](https://media.gatesnotes.com/-/media/Images/Articles/Health/A-coronavirus-AMA/AMA2020-handwashing-loop.ashx)
 

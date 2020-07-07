@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Consejos
 categories:
 - Teletrabajo
-header:
-  teaser: /assets/images/blog/trabajo-desde-casa-teletrabajo.webp
+thumbnail: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
+thumbnail2: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
 title: '🥇 ▷ Las 18 mejores prácticas para teletrabajar en 2020'
 description: >-
   ✅ Los trabajadores remotos evalúan lo que les ayuda a aumentar la productividad y mantenerse en contacto con la oficina.
@@ -22,9 +21,9 @@ published: true
 
 ---
 
-![Los mejores consejos para ser eficaz en el teletrabajo en 2020](/assets/images/blog/trabajo-desde-casa-teletrabajo.webp "Los mejores consejos para ser eficaz en el teletrabajo en 2020")
-
 Trabajar desde casa es excelente en muchos niveles. No tener que viajar, ahorrar dinero y tiempo y, de hecho; puede hacerte más feliz. Aunque la mayoría de personas descubran el teletrabajo por una mala situación; como es esté, coronavirus / enfermedad.
+
+![Los mejores consejos para ser eficaz en el teletrabajo en 2020](/assets/img/blog/trabajo-desde-casa-teletrabajo.webp "Los mejores consejos para ser eficaz en el teletrabajo en 2020")
 
 El teletrabajo ha sido una gran herramienta para miles de personas a lo largo de los últimos años, hasta la época actual; incluso, ha ayudado a las grandes empresas a poder contratar en sus plantillas a los mejores profesionales aún estén al otro lado del mundo.
 

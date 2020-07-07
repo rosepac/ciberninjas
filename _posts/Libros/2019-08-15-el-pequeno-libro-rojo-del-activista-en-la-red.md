@@ -15,23 +15,14 @@ categories:
 permalink: /catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/
 description: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano"
 excerpt: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano"
-header:
-  overlay_image: /assets/images/catalogo/pequeno-libro-rojo-activista-red-marta-peirano.jpg
-  image_description: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano | Ciberninjas"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Amazon**"
-  actions:
-    - label: "+ SEGURIDAD INFORMÁTICA"
-      url: "/categoria/#seguridad-inform%C3%A1tica"
-    - label: "🛒 COMPRAR"
-      url: "https://amzn.to/2YQharj"
+feature-img: /assets/img/catalogo/pequeno-libro-rojo-activista-red-marta-peirano.jpg
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 sidebar:
   - title: "Autora"
-    image: /assets/images/catalogo/pequeno-libro-rojo-activista-red-marta-peiranox250.jpg
+    image: /assets/img/catalogo/pequeno-libro-rojo-activista-red-marta-peiranox250.jpg
     image_alt: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano: Ciberninjas"
     text: "Marta Peirano"
   - title: "Precio Papel"

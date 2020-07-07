@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "Historia de entrega continua de Dailymotion con Jenkins, Jenkins X y Tekton"
 description: "Descubre este recurso de organización para el trabajo de la integración continua"
 excerpt: "Vas a encontrarte explicado el concepto de interoperabilidad dentro del mundo CI / CD además del equipo de trabajo sobre el desarrollo del término en sí"
@@ -7,35 +7,22 @@ published: true
 comments: false
 date: 2020-03-30 19:10:12
 last_modified_at: 
-# header:
-#   teaser: /assets/images/blog/10-dailymotion.webp
-#   image_description: 'Qué es Tekton: El recurso de canalización nativo para Kubernetes'
-#   image_alt: 'Qué es Tekton: El recurso de canalización nativo para Kubernetes'
+thumbnail: /assets/img/blog/10-dailymotion.webp
+thumbnail2: /assets/img/blog/10-dailymotion.webp
 canonical_URL: https://ciberninjas.com/dailymotin-jenkins-tekton/
 permalink: /dailymotin-jenkins-tekton/
-classes: wide
+
 categories:
 - Distribución Continua
 tags:
 - CD Fundación
 - Tekton
 - Jenkins
-# header:
-#  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_filter: 0.2
-#   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
-#   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'
-#   caption: "Créditos: Unsplash"
-# toc: false
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
-![](/assets/images/blog/10-dailymotion.webp)
-
 En Dailymotion, alojamos y entregamos contenido de video premium a usuarios de todo el mundo. Constantemente estamos creando una gran variedad de software para impulsar el servicio, desde nuestro reproductor o sitio web de [Dailymotion](https://www.dailymotion.com/){:target="_blank" rel="nofollow,noreferrer"} hasta nuestra API GraphQL o plataforma de tecnología publicitaria.
+
+![](/assets/img/blog/10-dailymotion.webp)
 
 La entrega continua es una práctica central en nuestra organización, lo que nos permite impulsar nuevas funciones de forma rápida e iterativa.
 

@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Swift
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/blog/swift-google.webp
+thumbnail: /assets/img/blog/swift-google.webp
+feature-img: /assets/img/blog/swift-google.webp
 title: '🥇 ▷ Swift: La apuesta de Google en la Programación Diferenciable'
 description: >-
   🍏 Análisis y trabajo de desarrollo de Google en la implementación de Swift en vez de Python para el aprendizaje automático
@@ -21,9 +20,9 @@ last_modified_at:
 published: true
 ---
 
-![Análisis y trabajo de desarrollo de Google en la implementación de Swift en vez de Python para el aprendizaje automático](/assets/images/blog/swift-google.webp "🍏 Análisis y trabajo de desarrollo de Google en la implementación de Swift en vez de Python para el aprendizaje automático")
-
 Hace dos años, un pequeño equipo de Google comenzó a trabajar para **hacer de Swift el primer lenguaje principal** con **capacidades de programación diferenciables integradas en un lenguaje de primera clase**. El alcance y los resultados iniciales del proyecto han sido notables.
+
+![Análisis y trabajo de desarrollo de Google en la implementación de Swift en vez de Python para el aprendizaje automático](/assets/img/blog/swift-google.webp "🍏 Análisis y trabajo de desarrollo de Google en la implementación de Swift en vez de Python para el aprendizaje automático")
 
 A pesar de esto, el proyecto no ha recibido mucho interés en la comunidad de aprendizaje automático y sigue siendo desconocido para la mayoría de los profesionales. Esto se puede atribuir en parte a la elección del idioma, que en gran medida se ha encontrado con confusión e indiferencia, ya que **Swift casi no tiene presencia en el ecosistema de ciencia de datos** y **se ha utilizado principalmente para crear aplicaciones iOS**.
 

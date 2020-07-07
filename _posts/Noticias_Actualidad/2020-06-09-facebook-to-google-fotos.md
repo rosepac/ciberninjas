@@ -1,19 +1,15 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Facebook
 - Google Fotos
 categories:
 - Redes Sociales
-header:
-  teaser: /assets/images/blog/facebook-to-google.webp
-  overlay_image: /assets/images/blog/facebook-to-google.webp
-  overlay_filter: 0.2
-  image_description: 'Como parte de una iniciativa de intercambio de datos unida por compañías como Apple y Google, Facebook dice que su herramienta que permite a las personas transferir fotos y videos a una cuenta vinculada de Google Photos ahora está disponible a nivel mundial.'
-  image_alt: 'Como parte de una iniciativa de intercambio de datos unida por compañías como Apple y Google, Facebook dice que su herramienta que permite a las personas transferir fotos y videos a una cuenta vinculada de Google Photos ahora está disponible a nivel mundial.'
+thumbnail: /assets/img/blog/facebook-to-google.webp
+feature-img: /assets/img/blog/facebook-to-google.webp
 title: '🥇 ▷ Herramienta de Facebook para transferir todas tus fotografías y vídeos a Google Photos'
 description: >-
   Como parte de una iniciativa de intercambio de datos unida por compañías como Apple y Google, Facebook dice que su herramienta que permite a las personas transferir fotos y videos a una cuenta vinculada de Google Photos ahora está disponible a nivel mundial.
@@ -44,6 +40,6 @@ Esta iniciativa se estableció en 2018 entre Google, Facebook, Microsoft y Twitt
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-![La herramienta de Facebook para transferir medios a Google Photos ahora está disponible paramedall](/assets/images/blog/facebook-to-google.webp "Como parte de una iniciativa de intercambio de datos unida por compañías como Apple y Google, Facebook dice que su herramienta que permite a las personas transferir fotos y videos a una cuenta vinculada de Google Photos ahora está disponible a nivel mundial.")
+![La herramienta de Facebook para transferir medios a Google Photos ahora está disponible paramedall](/assets/img/blog/facebook-to-google.webp "Como parte de una iniciativa de intercambio de datos unida por compañías como Apple y Google, Facebook dice que su herramienta que permite a las personas transferir fotos y videos a una cuenta vinculada de Google Photos ahora está disponible a nivel mundial.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

@@ -1,15 +1,26 @@
-# .travis.yml
-# This file should be at the root of your project   
-
 language: ruby
 rvm:
- - 2.5.3
-cache: bundler
+  - 2.4.0
+  - 2.5.3
+#  - 2.5.5
+#  - 2.6.3
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+notifications:
+  email: false
+
 before_install:
+#  - gem update --system
   - gem install bundler
+
 script:
+  - bundle install
   - bundle exec jekyll build
-branches:
-  only:
-    # Change this to gh-pages if you're deploying using the gh-pages branch
-    - master
+
+after_script:
+  - gem install type-on-strap
+  - gem install jekyll-theme-type-on-strap
+#  - docker pull sylhare/type-on-strap

@@ -6,8 +6,6 @@ name: "Snippet"
 position: "Programación"
 permalink: /glosario/snippet/
 canonical_URL: https://ciberninjas.com/glosario/snippet/
-classes: wide
-
 ---
 
 Es un fragmento de código fuente, código de máquina o texto reutilizable.

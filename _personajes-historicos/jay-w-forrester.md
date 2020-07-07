@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "Jay W. Forrester"
 description: 'Jay W. Forrester, por su perfeccionamiento de la tecnología de memoria central en un práctico dispositivo de memoria de computadora y sus contribuciones fundamentales al diseño y desarrollo temprano de los sistemas informáticos.'
 excerpt: 'Jay W. Forrester, por su perfeccionamiento de la tecnología de memoria central en un práctico dispositivo de memoria de computadora y sus contribuciones fundamentales al diseño y desarrollo temprano de los sistemas informáticos.'
@@ -7,9 +7,7 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/jay-w-forrester/
 canonical_url: 'https://computerhistory.org/profile/jay-w-forrester/'
-classes: wide
-header:
-  teaser: https://computerhistory.org/wp-content/uploads/2020/01/1996_jay_forrester-e1580707602410.jpg
+thumbnail: https://computerhistory.org/wp-content/uploads/2020/01/1996_jay_forrester-e1580707602410.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

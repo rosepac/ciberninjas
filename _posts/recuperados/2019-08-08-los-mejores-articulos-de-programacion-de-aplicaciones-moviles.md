@@ -4,7 +4,7 @@ title: >
     Los mejores artículos de programación de aplicaciones
     móviles
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-03-25 12:03:06
 tags: [ ]

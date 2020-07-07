@@ -15,18 +15,8 @@ description: >-
   🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Escuelas creativas: Se intenta transmitir un punto revolucionario con el que cambiar la educación.
 excerpt: >-
   🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Escuelas creativas: Se intenta transmitir un punto revolucionario con el que cambiar la educación.
-header:
-  teaser: /assets/images/catalogo/escuelas-creativas.webp
-  overlay_image: /assets/images/catalogo/escuelas-creativas.webp
-  image_description: >-
-    🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Escuelas creativas: Se intenta transmitir un punto revolucionario con el que cambiar la educación.
-  overlay_filter: 0.3
-  caption: 'Créditos: **Youtube**'
-  actions:
-    - label: + EDUCACIÓN
-      url: '/categoria/#educación'
-    - label: "\U0001F6D2 COMPRAR"
-      url: 'https://amzn.to/3bp0zNR'
+thumbnail: /assets/img/catalogo/escuelas-creativas.webp
+feature-img: /assets/img/catalogo/escuelas-creativas.webp
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
@@ -34,7 +24,7 @@ toc_sticky: true
 author_profile: false
 sidebar:
   - title: Autor
-    image: /assets/images/catalogo/escuelas-creativas-mini.webp
+    image: /assets/img/catalogo/escuelas-creativas-mini.webp
     image_alt: >-
       🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal en Escuelas creativas: Se intenta transmitir un punto revolucionario con el que cambiar la educación.
     text: Ken Robinson

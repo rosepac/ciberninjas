@@ -8,18 +8,13 @@ canonical_URL: https://ciberninjas.com/black-friday-amazon/
 published: false
 comments: false
 date: 2019-11-29 05:26:00 +0200
-header:
-  teaser: 'https://i.ibb.co/R2WZfKG/black-friday-day.gif'
-  overlay_image: 'https://i.ibb.co/nMt3KBQ/amazon-alexa-1.jpg'
-  overlay_filter: 0.2
-  image_description: 'Las Mejores Ofertas del Cyber Monday de Amazon 2019 | Ciberninjas'
-  image_alt: 'Las Mejores Ofertas del Cyber Monday de Amazon 2019 | Ciberninjas'
-  caption: "**Créditos**: Creación propia Ciberninjas"
-  actions:
-    - label: "Consolas & Videojuegos"
-      url: "/videojuegos/"
-    - label: "Disney"
-      url: "/disney-frozen-amazon/"
+thumbnail: 'https://i.ibb.co/R2WZfKG/black-friday-day.gif'
+feature-img: 'https://i.ibb.co/nMt3KBQ/amazon-alexa-1.jpg'
+actions:
+  - label: "Consolas & Videojuegos"
+    url: "/videojuegos/"
+  - label: "Disney"
+    url: "/disney-frozen-amazon/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "John Backus"
 description: 'John Backus, por su desarrollo de FORTRAN, y por sus contribuciones a la teoría de sistemas informáticos y la gestión de proyectos de software.'
 excerpt: 'John Backus, por su desarrollo de FORTRAN, y por sus contribuciones a la teoría de sistemas informáticos y la gestión de proyectos de software.'
@@ -7,9 +7,7 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/john-backus/
 canonical_URL: https://computerhistory.org/profile/john-backus/
-classes: wide
-header:
-  teaser: https://computerhistory.org/wp-content/uploads/2020/01/1997_john_backus-e1580707691677.jpg
+thumbnail: https://computerhistory.org/wp-content/uploads/2020/01/1997_john_backus-e1580707691677.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

@@ -9,7 +9,7 @@ header:
     provider: youtube
 comments: false
 date: 2019-07-13 22:06:12
-classes: wide
+
 tags:
 - Realidad Virtual
 - Trailer

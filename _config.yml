@@ -1,343 +1,84 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# SITE CONFIGURATION
+baseurl: "/ciberninjas"
+url: "https://rosepac.github.io"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-# Configuración de la Web
-locale: "es-ES"
-# github: [metadata]
-title: 🥇 Educación Digital >> Desarrollo Móvil y Web >> Programación y Robótica >> Herramientas del Mundo Tecnológico
-# subtitle: Escuela Laboratorio de Tecnología
-email: rosepac21@gmail.com
-name: "Pablo Alvarez Corredera"
-description: >- # this means to ignore newlines until "baseurl:"
-  'Aprender programación y tecnología con los mejores recursos, libros PDF, cursos y videotutoriales del mundo. Programar desde cero a experto, deja de ser un principiante y conviértete en un auténtico profesional.'
-url: "https://ciberninjas.com"
-# baseurl:
-repository: "rosepac/ciberninjas"
-head_scripts:
-  - /assets/js/lazysizes.min.js
-  - /assets/js/afiliados.js
-  - https://cdn.ouo.io/js/full-page-script.js
-teaser: "/assets/images/logos/desarrollador-full-stack-1.webp"
-logo: "/assets/images/logos/emoji-ciberninjas.png"
-masthead_title: "Ciberninjas"
-twitter_username: ciberaprendiz
-github_username: Pablo Álvarez Corredera
-minimal_mistakes_skin: default # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
-# Configuración del Autor
-author:
-  name   : "Pablo Álvarez Corredera"
-  avatar : "/assets/images/logos/jd-160px.webp"
-  bio    : "Documentalista Digital. Educación Siglo XXI. Bibliotecario de Internet."
-  links:
-    - label: "Correo"
-      icon: "far fa-envelope"
-      url: "mailto:rosepac21@gmail.com"    
-    - label: "Pajarito"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/ciberninjas"
-    - label: "Telegram"
-      icon: "fab fa-telegram"
-      url: "https://t.me/ciberninjas"
-    - label: "Comunidad"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://kutt.it/recursos-globales"
-    - label: "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/rosepac"
-search: true
-search_full_content: true
-google:
-  search_engine_id: 011189616958132448188:saiveewehsx
-show_excerpts: true
-# search_provider: algolia
-# algolia:
-#   application_id: XV7A2DHT2U # YOUR_APPLICATION_ID
-#   index_name: ciberninjas # YOUR_INDEX_NAME
-#   search_only_api_key: 5e5cf6a882e0e96a52942bbd15eb7fe2 # YOUR_SEARCH_ONLY_API_KEY
-#   powered_by: false # true (default), false
-#   files_to_exclude:
-#     # - _posts/2019-09-11-las-mejores-agendas-escolares-2019.md 
-#     # - _posts/2017-11-28-post-exclude-search.md
-#     - _pages/mapa-web.md
+# Configuración
+title: Ciberninjas
+description: El Jardín Digital del Saber Ninja 🌱 Los mejores recursos para aprender programación, desarrollo y diseño web: Libros PDF, cursos, tutoriales y eventos, todo lo que necesitas para pasar de principiante a un auténtico experto ninja.
+avatar: /assets/images/logos/ciberninjas-emoji-160px.png
+favicon: assets/images/logos/ciberninjas-emoji-64px.ico
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:title/
-paginate: 10 # amount of posts to show
-paginate_path: /page:num/
-timezone: "Europe/Madrid"
+# Header and footer text
+header_text: El Jardín Digital del Saber Ninja
+header_feature_image: assets/img/jardin-digital.webp
+footer_text: >
+  © 2020 Ciberninjas. Recursos de Programación, Diseño y Tecnología
 
-include:
-  - _pages
-#  - _glosario
+# Blog
+excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-- vendor/bundle/
-- vendor/cache/
-- vendor/gems/
-- vendor/ruby/
-- editorial
-- _staff-miembros
-- .vscode
-# Excluido por peticion del buscador algoria
-# exclude: [vendor]
+# Features
+katex: false                                            # Enable if using math markup
+google_analytics: UA-142542230-1                        # Tracking ID, e.g. "UA-000000-01"
+cookie_consent: false                                   # To respect the usage of cookies
+cookie_consent_disclaimer: Nos gustaría utilizar cookies y scripts de terceros para mejorar la funcionalidad de este sitio web.
+disqus_shortname:                                       # Your discus shortname for comments
+layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
+footer_icons:                                           # In _data/social.yml
+share_buttons:                                          # In _data/social.yml
+authors:                                                # In _data/authors.yml
+language:                                               # In _data/language.yml
 
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-include-cache
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-#  - jekyll-sitemap
+# PAGINATION
+paginate: 5
+paginate_path: "/blog/page:num"
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-142542230-1"
-    anonymize_ip: true # default
-    
-naver_site_verification: "6c9e3c9861eb717f29638c631ff91d7de609f9d4"
-
-# Colecciones / Secciones Creadas
+# PORTFOLIO
 collections:
-    guias:
-        output: true
-        permalink: /:collection/:path
-    catalogo:
-        output: true
-        permalink: /:collection/:path
-    biblioteca:
-        output: true
-        permalink: /:collection/:path
-#    staff-miembros:
-#        output: true
-#        permalink: /:collection/:path
-    glosario:
-        output: true
-        permalink: /:collection/:path
-    wiki:
-        output: true
-        permalink: /:collection/:path
-    historia-computadora:
-        output: true
-        permalink: /:collection/:path
-    personajes-historicos:
-        output: true
-        permalink: /:collection/:path
-    eff:
-        output: true
-        permalink: /:collection/:path
-    pac:
-        output: true
-        permalink: /:collection/:path
-    amazon:
-        output: true
-        permalink: /:collection/:path
-    videotutoriales:
-        output: true
-        permalink: /:collection/:path
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+  guias:
+    output: true
+    permalink: /:collection/:path
+  eff:
+    output: true
+    permalink: /:collection/:path
+  biblioteca:
+    output: true
+    permalink: /:collection/:path
+  wiki:
+    output: true
+    permalink: /:collection/:path
+  glosario:
+    output: true
+    permalink: /:collection/:path
+  catalogo:
+    output: true
+    permalink: /:collection/:path
+  historia-computadora:
+    output: true
+    permalink: /:collection/:path
+  personajes-historicos:
+    output: true
+    permalink: /:collection/:path
+  pac:
+    output: true
+    permalink: /:collection/:path
+  amazon:
+    output: true
+    permalink: /:collection/:path
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", "vendor/*", ".travis.yml",
+          "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
 
-defaults:
-    # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      red_time: true
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: false
-  # _staff-miembros
-#  - scope:
-#      path: ""
-#      type: staff-miembros
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: false
-#      share: true
-#      related: false
-  # _guias
-  - scope:
-      path: "_guias"
-      type: guias
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: false
-  # _catalogo
-  - scope:
-      path: "_catalogo"
-      type: catalogo
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: false
-    # _biblioteca
-  - scope:
-      path: "_biblioteca"
-      type: biblioteca
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: false
-  # _glosario
-  - scope:
-      path: "_glosario"
-      type: glosario
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: false
-      # sidebar:
-      # nav: main
-      # sidebar:
-        # nav: "docs"
-  # _wiki
-  - scope:
-      path: "_wiki"
-      type: wiki
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: false
-  # _historia-computadora
-  - scope:
-      path: "_historia-computadora"
-      type: historia-computadora
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: false
-  # _personajes-historicos
-  - scope:
-      path: "_personajes-historicos"
-      type: personajes-historicos
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: false
-    # _electronic-frontier-foundation
-  - scope:
-      path: "_eff"
-      type: eff
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: false
-  - scope:
-      path: "_pac"
-      type: pac
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: false
-  - scope:
-      path: "_amazon"
-      type: amazon
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: false
-  - scope:
-      path: "_videotutoriales"
-      type: videotutoriales
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: false
-
-category_archive:
-  type: liquid
-  path: /categoria/
-tag_archive:
-  type: liquid
-  path: /etiqueta/
-
-# comments:
-#   provider: "facebook"
-#   facebook:
-#     num_posts: 10 # 5 (default)
-
-# Pie de Página
-footer:
-  links:
-    - label: "Cervecita!"
-      icon: "fas fa-beer"
-      url: "https://kutt.it/donativo"
-    - label: "Recursos Globales"
-      icon: "fab fa-facebook"
-      url: "https://kutt.it/recursos-globales"
-    - label: "CiberCursos"
-      icon: "fab fa-facebook"
-      url: "https://facebook.com/cibercursos"
-    - label: "Aviso Legal"
-      icon: "fas fa-shield-alt"
-      url: "/aviso-legal/"
-      
-# Final de la Configuración
+# theme: type-on-strap                                  # if using the theme as a jekyll theme gem
+remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github

@@ -5,15 +5,15 @@ excerpt: "Cursos relacionados con el estudio universitario, el estudio de bachil
 date: 2020-04-17 14:25:00 +0100
 canonical_URL: https://ciberninjas.com/cursos-coursera-gratis-español/
 permalink: /cursos-coursera-gratis-español/
-classes: wide
+
 published: true
 categories:
   - Cursos
 tags:
   - Coursera
-header:
-  teaser: /assets/images/blog/coursera-2.webp
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/blog/coursera-2.webp
+feature-img: /assets/img/blog/coursera-2.webp
+#feature-img: /assets/img/
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -24,9 +24,9 @@ header:
 # toc_sticky: true
 ---
 
-![Cursos relacionados con el estudio universitario, el estudio de bachillerato, el desarrollo profesional, el bienestar y desarrollo personal y por último, la salud pública](/assets/images/blog/coursera-2.webp "Cursos relacionados con el estudio universitario, el estudio de bachillerato, el desarrollo profesional, el bienestar y desarrollo personal y por último, la salud pública")
-
 El proveedor de cursos a distancia (MOOC) más grande del mundo, Coursera, ofrece nuevos cursos en español y en abierto, para poder realizarlos sin la necesidad de pago.
+
+![Cursos relacionados con el estudio universitario, el estudio de bachillerato, el desarrollo profesional, el bienestar y desarrollo personal y por último, la salud pública](/assets/img/blog/coursera-2.webp "Cursos relacionados con el estudio universitario, el estudio de bachillerato, el desarrollo profesional, el bienestar y desarrollo personal y por último, la salud pública")
 
 Los cursos en español (sin certificado) pero igualmente gratuitos;  están relacionados con el estudio universitario, el estudio de bachillerato, el desarrollo profesional, el bienestar y desarrollo personal y por último, la salud pública.
 

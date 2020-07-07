@@ -2,7 +2,7 @@
 
 author_profile: false
 comments: false
-classes: wide
+
 layout: splash
 tags:
 - Java
@@ -27,17 +27,8 @@ tags:
 - Apache Mina
 categories:
 - Frameworks Multiplataforma
-header:
-  teaser: /assets/images/lenguajes/framework-desarrollador-java.webp
-  overlay_image: /assets/images/lenguajes/framework-desarrollador-java.webp
-  overlay_filter: 0.2
-  image_description: 'Elija entre los 10 mejores frameworks de Java para usar para el desarrollo web en 2020.'
-  image_alt: 'Elija entre los 10 mejores frameworks de Java para usar para el desarrollo web en 2020.'
-  actions:
-    - label: "Aprender Java"
-      url: "/java/"
-    - label: "Herramientas Java"
-      url: "/java-herramientas-para-desarrolladores/"
+thumbnail: /assets/img/lenguajes/framework-desarrollador-java.webp
+feature-img: /assets/img/lenguajes/framework-desarrollador-java.webp
 title: 'Los 10 + 10 mejores frameworks Java en 2020'
 description: >-
   Elija entre los 10 mejores frameworks de Java para usar para el desarrollo web en 2020.
@@ -115,7 +106,7 @@ Tenga en cuenta que cada uno de estos tiene sus propios beneficios y puede funci
 
 ## 1. **Spring**
 
-![Logotipo oficial del framework Java: Spring](/assets/images/framework-java/spring.webp "Logotipo oficial del framework Java: Spring")
+![Logotipo oficial del framework Java: Spring](/assets/img/framework-java/spring.webp "Logotipo oficial del framework Java: Spring")
 
 Con su concepto de inyección de dependencias y funciones de programación orientadas a aspectos, Spring asalto el mundo del desarrollo. Es un framework de código abierto utilizado para aplicaciones empresariales.
 
@@ -137,7 +128,7 @@ Con todo configurado, su código será limpio y fácil de comprender.
 
 ## 2. **Struts**
 
-![Logotipo oficial del framework Java: Struts](/assets/images/framework-java/apache-struts.webp "Logotipo oficial del framework Java: Struts")
+![Logotipo oficial del framework Java: Struts](/assets/img/framework-java/apache-struts.webp "Logotipo oficial del framework Java: Struts")
 
 Apache Struts es otro framework robusto de código abierto para aplicaciones web. Sigue el modelo MVC (Modelo-Vista-Controlador) y extiende la API JSP.
 
@@ -161,7 +152,7 @@ Los puntales son fáciles de configurar y proporcionan mucha más flexibilidad y
 
 ## 3. **Hibernate**
 
-![Logotipo oficial del framework Java: Hibernate](/assets/images/framework-java/hibernate.webp "Logotipo oficial del framework Java: Hibernate")
+![Logotipo oficial del framework Java: Hibernate](/assets/img/framework-java/hibernate.webp "Logotipo oficial del framework Java: Hibernate")
 
 Aunque Hibernate no es un framework completo, cambió por completo la forma en que miramos la base de datos. Implementación de Java Persistence API (JPA), Hibernate es una base de datos Object-Relational-Mapping (ORM) para aplicaciones Java. Al igual que SQL, las consultas en Hibernate se llaman HQL (Hibernate Query Language).
 
@@ -179,7 +170,7 @@ Hibernate proporciona una capa de abstracción para que el código se acople lib
 
 ## 4. **Apache Wicket**
 
-![Logotipo oficial del framework Java: Apacke Wicket](/assets/images/framework-java/apache-wicket.webp "Logotipo oficial del framework Java: Apacke Wicket")
+![Logotipo oficial del framework Java: Apacke Wicket](/assets/img/framework-java/apache-wicket.webp "Logotipo oficial del framework Java: Apacke Wicket")
 
 Si ya ha trabajado con JSP, el wicket de aprendizaje será un juego de niños. Wicket, un framework de aplicaciones web simple, tiene una estructura orientada a componentes y todo lo que necesita saber es Java y HTML. ¡Absolutamente ningún XML o archivos de configuración!
 
@@ -195,7 +186,7 @@ Wicket es liviano y puedes crear aplicaciones realmente rápido. También es fá
 
 ## 5. **Java Server Faces**
 
-![Logotipo oficial del framework Java: Server Faces](/assets/images/framework-java/java-server.webp "Logotipo oficial del framework Java: Server Faces")
+![Logotipo oficial del framework Java: Server Faces](/assets/img/framework-java/java-server.webp "Logotipo oficial del framework Java: Server Faces")
 
 No confunda JSF con JSP, que es solo un documento de texto que puede tener contenido estático y dinámico. Oracle desarrolla JSF como parte de Java Enterprise Edition 7.
 
@@ -211,7 +202,7 @@ JSF se puede integrar sin problemas con componentes habilitados para AJAX para e
 
 ## 6. **Dropwizard**
 
-![Logotipo oficial del framework Java Dropwizard](/assets/images/framework-java/dropwizard.webp "Logotipo oficial del framework Java Dropwizard")
+![Logotipo oficial del framework Java Dropwizard](/assets/img/framework-java/dropwizard.webp "Logotipo oficial del framework Java Dropwizard")
 
 Otro framework de Java fiel a su nombre: asistente. Este framework liviano le permite completar su aplicación muy rápido debido a que es compatible con configuraciones avanzadas, registros, métricas de aplicaciones y mucho más. Puede crear aplicaciones web RESTful que ofrezcan un alto rendimiento, sean estables y confiables.
 
@@ -229,7 +220,7 @@ Dropwizard es un framework de código abierto que se incluye con las bibliotecas
 
 ## 7. **Grails**
 
-![Logotipo oficial del framework Java: Grails](/assets/images/framework-java/grails.webp "Logotipo oficial del framework Java: Grails")
+![Logotipo oficial del framework Java: Grails](/assets/img/framework-java/grails.webp "Logotipo oficial del framework Java: Grails")
 
 Grails es un framework completo fácil de aprender, muy adecuado para aquellos que recién comienzan su carrera de programación. Si bien Grails es un framework web escrito en lenguaje de programación Groovy, se ejecuta en la plataforma Java y es perfectamente compatible con la sintaxis Java. Este framework se basa en el patrón de diseño MVC.
 
@@ -247,7 +238,7 @@ La mejor manera de aprender Grails es configurar su propio entorno de desarrollo
 
 ## 8. **ATG**
 
-![Logotipo oficial del framework Java: ATG](/assets/images/framework-java/atg.webp "Logotipo oficial del framework Java: ATG")
+![Logotipo oficial del framework Java: ATG](/assets/img/framework-java/atg.webp "Logotipo oficial del framework Java: ATG")
 
 ATG es una plataforma de comercio web escrita en Java. Es un framework personalizable y configurable, particularmente útil para sitios web relacionados con el comercio electrónico. El producto es propiedad de Oracle y admite aplicaciones B2B y B2C que son complejas y enormes. Sin embargo, para aplicaciones a pequeña escala, podría ser costoso. Si está entrando en el desarrollo de sitios web de comercio electrónico, ATG es un buen framework para aprender y enriquecerá su conocimiento técnico y de dominio.
 
@@ -269,7 +260,7 @@ ATG es un framework extenso y necesita tiempo y paciencia para aprenderlo. Varia
 
 ## 9. **Play**
 
-![Logotipo oficial del framework Java: Play](/assets/images/framework-java/play.webp "Logotipo oficial del framework Java: Play")
+![Logotipo oficial del framework Java: Play](/assets/img/framework-java/play.webp "Logotipo oficial del framework Java: Play")
 
 Play es un tipo de framework ligeramente convencional y único que sigue el enfoque de la convención sobre la configuración. Se basa en el patrón MVC y es un framework de aplicación web de código abierto. Además de Java, puede escribir aplicaciones web Play en [Scala](https://hackr.io/tutorials/learn-scala){:target="_blank" rel="nofollow,noreferrer"}.
 
@@ -290,7 +281,7 @@ Algunas características de Play son:
 
 ## 10. **Apache Hadoop**
 
-![Logotipo oficial del framework Java: Apache Hadoop](/assets/images/framework-java/apache-hadoop.webp "Logotipo oficial del framework Java: Apache Hadoop")
+![Logotipo oficial del framework Java: Apache Hadoop](/assets/img/framework-java/apache-hadoop.webp "Logotipo oficial del framework Java: Apache Hadoop")
 
 Aunque Apache Hadoop no es un framework completo, proporciona un framework de software y funciona en el modelo de programación MapReduce. Estas utilidades pueden manejar fácilmente grandes volúmenes de datos (Big Data), almacenarlos, analizarlos y procesarlos para proporcionar resultados más rápidos y más eficientes.
 
@@ -312,7 +303,7 @@ Si desea familiarizarse con Big Data y Data Science, Hadoop es su lugar para com
 
 ## 11. **GWT**
 
-![Logotipo oficial del framework Java: GWT](/assets/images/framework-java/gwt.webp "Logotipo oficial del framework Java: GWT")
+![Logotipo oficial del framework Java: GWT](/assets/img/framework-java/gwt.webp "Logotipo oficial del framework Java: GWT")
 
 Google Web Toolkit (GWT) es un framework obviamente creado por Google para crear aplicaciones ricas de Internet en Java. Una de las mejores características de GWT es que convierte el código Java en código JavaScript, que también es un código personalizado basado en el navegador. Personalmente, me gusta esta característica porque, durante el desarrollo, solíamos dedicar mucho tiempo y esfuerzo a las pruebas del navegador antes. Con este conjunto de herramientas de código abierto, podemos escribir aplicaciones web de alto rendimiento en menos tiempo. Si ya tiene una base de código, puede integrarla fácilmente con GWT porque GWT también es compatible con Eclipse IDE, Maven y Junit. El framework también proporciona amplias bibliotecas de widgets que pueden realizar la mayoría de las tareas, lo que facilita que incluso un principiante en Java desarrolle lógica empresarial sin preocuparse demasiado por las cosas básicas.
 
@@ -322,7 +313,7 @@ Google Web Toolkit (GWT) es un framework obviamente creado por Google para crear
 
 ## 12. **Vaadin**
 
-![Logotipo oficial del framework Java: Vaadin](/assets/images/framework-java/.webp "Logotipo oficial del framework Java: Vaadin")
+![Logotipo oficial del framework Java: Vaadin](/assets/img/framework-java/.webp "Logotipo oficial del framework Java: Vaadin")
 
 Vaadin es un producto emblemático y también una plataforma donde los desarrolladores pueden hacer la implementación de la interfaz de usuario web HTML5 utilizando Java. Es una plataforma de código abierto que incluye el framework web Java y un conjunto de componentes web junto con herramientas y arrancadores de aplicaciones. Estos componentes web forman el núcleo de Vaadin y se pueden personalizar para obtener un código versátil y de alto rendimiento para aplicaciones móviles y de escritorio.
 
@@ -338,7 +329,7 @@ Es un enfoque completamente nuevo para crear aplicaciones Java para que pueda co
 
 ## 13. **Spark**
 
-![Logotipo oficial del framework Java: Spark](/assets/images/framework-java/.webp "Logotipo oficial del framework Java: Spark")
+![Logotipo oficial del framework Java: Spark](/assets/img/framework-java/.webp "Logotipo oficial del framework Java: Spark")
 
 Otro golpe maestro de Apache, Spark es un framework de desarrollo web de código abierto que tiene características similares a Spring, Play y JAX-RS, pero es más potente y no sigue el patrón de diseño MVC tradicional.
 
@@ -354,7 +345,7 @@ No piense que Spark puede reemplazar a Hadoop, puede ser una extensión de las c
 
 ## 14. **OpenXava**
 
-![Logotipo oficial del framework Java: OpenXava](/assets/images/framework-java/openxava.webp "Logotipo oficial del framework Java: OpenXava")
+![Logotipo oficial del framework Java: OpenXava](/assets/img/framework-java/openxava.webp "Logotipo oficial del framework Java: OpenXava")
 
 Una plataforma de código bajo para desarrollar aplicaciones web de manera rápida, puede poner en funcionamiento sus aplicaciones comerciales en un tiempo récord. Consiste en componentes comerciales que hacen que la creación de aplicaciones incluso complejas sea fácil y sin complicaciones para los desarrolladores. Extensible, personalizable y OO en sentido real, OpenXava utiliza clases de Java como núcleo para modelar el problema empresarial. Tal enfoque de desarrollo basado en modelos garantiza la encapsulación. Los desarrolladores solo definen el modelo como clases Java anotadas simples y las funcionalidades necesarias se generan durante el tiempo de ejecución.
 
@@ -368,7 +359,7 @@ La estructura y la filosofía de OpenXava siguen una arquitectura de componentes
 
 ## 15. **Vert.X**
 
-![Logotipo oficial del framework Java: Vert.X](/assets/images/framework-java/vertx.webp "Logotipo oficial del framework Java: Vert.X")
+![Logotipo oficial del framework Java: Vert.X](/assets/img/framework-java/vertx.webp "Logotipo oficial del framework Java: Vert.X")
 
 Desarrollado por Eclipse, Vert.x es un framework de aplicación basado en eventos que utiliza muchos lenguajes como Java, JS, Groovy, Scala y más. Por lo tanto, es políglota en la naturaleza. Se basa en el modelo de programación asíncrono, lo que hace que las aplicaciones no se bloqueen y estén libres de subprocesos múltiples.
 
@@ -385,7 +376,7 @@ Lo mejor de Vert.x es su naturaleza sin bloqueo que hace que las aplicaciones we
 
 ## 16. **Tapestry**
 
-![Logotipo oficial del framework Java: Tapestry](/assets/images/framework-java/tapestry.webp "Logotipo oficial del framework Java: Tapestry")
+![Logotipo oficial del framework Java: Tapestry](/assets/img/framework-java/tapestry.webp "Logotipo oficial del framework Java: Tapestry")
 
 Conceptualmente, Tapestry es similar a JSF y Wicket. Es un framework de desarrollo de aplicaciones web de código abierto, multiplataforma y basado en componentes que puede crear aplicaciones altamente escalables. Construido sobre la rica API de Java Servlet, funciona en cualquier contenedor o servidor de aplicaciones. Tapestry es un verdadero framework orientado a objetos porque crea páginas HTML utilizando plantillas HTML puras o una clase (objetos) de Java simple. Casi no se requiere configuración XML, Tapestry utiliza anotaciones, lo que hace que el código sea simple y fácil de administrar.
 
@@ -415,7 +406,7 @@ Jersey también viene con una infraestructura de prueba fácil. Puede escribir p
 
 ## 18. **OSGI**
 
-![Logotipo oficial del framework Java: OSGI](/assets/images/framework-java/osgi.webp "Logotipo oficial del framework Java: OSGI")
+![Logotipo oficial del framework Java: OSGI](/assets/img/framework-java/osgi.webp "Logotipo oficial del framework Java: OSGI")
 
 La iniciativa OSGi o Open Service Gateway define un sistema basado en componentes. Es un framework de trabajo de Java popular donde cada componente se llama paquete. Cada paquete tiene un ciclo de vida independiente y no depende de otros paquetes. Considere que el paquete es un archivo jar con encabezados específicos de OSGi. Los paquetes tienen que declarar explícitamente los paquetes a los que necesitan acceder sin los cuales la plataforma OSGi no se iniciará.
 
@@ -433,7 +424,7 @@ OSGi tiene algunos buenos conceptos y beneficios, sin embargo, debido a los paqu
 
 ## 19. **Drools**
 
-![Logotipo oficial del framework Java: Drools](/assets/images/framework-java/drools.webp "Logotipo oficial del framework Java: Drools")
+![Logotipo oficial del framework Java: Drools](/assets/img/framework-java/drools.webp "Logotipo oficial del framework Java: Drools")
 
 Drools es un popular sistema de gestión de reglas comerciales. Tiene un motor de reglas de negocios (BRE), autoría, una aplicación de administración de reglas y soporte de tiempo de ejecución para los modelos de decisión y notación. La aplicación de gestión de reglas se llama como el banco de trabajo Drools. El proyecto está respaldado por RedHat y JBoss. Con Drools, los desarrolladores pueden separar fácilmente los datos de la lógica empresarial. Los dos pasos principales en Drools son:
 
@@ -447,7 +438,7 @@ Drools es una opción adecuada para aplicaciones que dependen de muchas condicio
 
 ## 20. **MyBatis**
 
-![Logotipo oficial del framework Java: MyBatis](/assets/images/framework-java/mybatis.webp "Logotipo oficial del framework Java: MyBatis")
+![Logotipo oficial del framework Java: MyBatis](/assets/img/framework-java/mybatis.webp "Logotipo oficial del framework Java: MyBatis")
 
 MyBatis, un software gratuito de Apache, es un framework de persistencia en Java donde los métodos Java se asignan con sentencias SQL , a diferencia de ORM que asigna objetos Java a tablas en la base de datos. El motor de mapeo mapea los resultados de SQL en árboles de objetos usando descripciones XML o anotaciones de manera declarativa.
 
@@ -463,7 +454,7 @@ MyBatis es una buena alternativa a Hibernate y JDBC cuando su aplicación no es 
 
 ## 21. **Apache Mina**
 
-![Logotipo oficial del framework Java: Apache Mina](/assets/images/framework-java/apache-mina.webp "Logotipo oficial del framework Java: Apache Mina")
+![Logotipo oficial del framework Java: Apache Mina](/assets/img/framework-java/apache-mina.webp "Logotipo oficial del framework Java: Apache Mina")
 
 Apache Mina es un framework de aplicación de red con el cual los desarrolladores pueden crear fácilmente aplicaciones de red altamente escalables y de alto rendimiento. Ya sea que use TCP / IP, UDP, LDAP, NTP, DNS, etc. o un protocolo personalizado, Mina tiene API unificadas para todos los transportes. El framework puede proporcionar API de red de alto y bajo nivel. Mina maneja completamente las operaciones de E / S, ayudando a los desarrolladores a concentrarse completamente en la lógica empresarial y otras necesidades de aplicaciones. Es fácil probar el código escrito con la ayuda de objetos simulados. Puedes aprender fácilmente Mina usando el Eclipse IDE. Se puede integrar con frameworks populares como Spring y PicoContainer, lo que lo convierte en una opción popular para aplicaciones de red.
 

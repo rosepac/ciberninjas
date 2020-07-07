@@ -1,8 +1,8 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 # layout: splash
 tags:
 - Ranking
@@ -10,12 +10,8 @@ tags:
 - Tiobe
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/blog/lenguaje-rust.webp
-  overlay_image: /assets/images/blog/lenguaje-rust.webp
-  overlay_filter: 0.2
-  image_description: 'El lenguaje de programación de sistemas con seguridad de memoria Rust finalmente está captando la atención de muchos desarrolladores.'
-  image_alt: 'El lenguaje de programación de sistemas con seguridad de memoria Rust finalmente está captando la atención de muchos desarrolladores.'
+thumbnail: /assets/img/blog/lenguaje-rust.webp
+feature-img: /assets/img/blog/lenguaje-rust.webp
 title: 'El lenguaje de programación Rust entra por primera vez, dentro de los 20 lenguajes más populares'
 description: >-
   El lenguaje de programación de sistemas de memoria segura Rust finalmente está captando la atención de muchos desarrolladores.
@@ -75,7 +71,7 @@ La adopción de TypeScript está siendo impulsada por una gran cantidad de códi
 
 Los 10 lenguajes de programación principales de Tiobe para Junio de 2020 son C, Java, Python, C++, C#, Visual Basic, JavaScript, PHP, R y SQL. 
 
-![Lenguaje de programación Rust ha visto su clasificación aumentar considerablemente en Tiobe, de 38 el año pasado a 20 hoy](/assets/images/blog/tiobe-junio-2020.webp "Lenguaje de programación Rust ha visto su clasificación aumentar considerablemente en Tiobe, de 38 el año pasado a 20 hoy")
+![Lenguaje de programación Rust ha visto su clasificación aumentar considerablemente en Tiobe, de 38 el año pasado a 20 hoy](/assets/img/blog/tiobe-junio-2020.webp "Lenguaje de programación Rust ha visto su clasificación aumentar considerablemente en Tiobe, de 38 el año pasado a 20 hoy")
 
 Las clasificaciones, más o menos, se acerca a la lista de idiomas más utilizados creada por Stack Overflow, que eran JavaScript, HTML / CSS, SQL, Python, Java, Bash / Shell / PowerShell, C#, PHP, TypeScript, C++, C y Go.
 

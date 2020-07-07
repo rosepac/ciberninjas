@@ -5,8 +5,7 @@ description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica 
 excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Dlinject"
 date: 2020-01-15 01:55:07
 published: true
-author_profile: true
-classes: wide
+author: rosepac
 permalink: /wiki/dlinject/
 canonical_URL: https://ciberninjas.com/wiki/dlinject/
 

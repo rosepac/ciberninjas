@@ -1,14 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Frank Owen Gehry
 categories:
 - Citas Célebres
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
+thumbnail2: /assets/img/blog/
 title: '📢 ▷ Las Mejores Frases Motivadores (o buscar otro adjetivo) de Frank Owen Gehry'
 description: >-
   Citas célebres del arquitecto canadiense Frank Owen Gehry. Motivación, creatividad y trabajo -escribir algo más, usa -
@@ -22,7 +22,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 
 <h2><p align="center"><cite>"Ríe siempre que puedas. Es una medicina barata."</cite></p></h2>

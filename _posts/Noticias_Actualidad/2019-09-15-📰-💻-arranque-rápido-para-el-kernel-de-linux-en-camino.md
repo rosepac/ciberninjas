@@ -12,11 +12,8 @@ link: >-
 tags:
   - Sistemas Operativos
   - Linux
-header:
-  overlay_image: 'https://fossbytes.com/wp-content/uploads/2017/01/clear-linux-steam.jpg'
-  overlay_filter: '0.2'
-  image_description: Captura de Pantalla realizada por FossBytes.com | Ciberninjas
-  caption: '**Créditos**: Foto de [FossBytes](https://fossbytes.com)'
+thumbnail: 'https://fossbytes.com/wp-content/uploads/2017/01/clear-linux-steam.jpg'
+feature-img: 'https://fossbytes.com/wp-content/uploads/2017/01/clear-linux-steam.jpg'
 ---
 
 El ingeniero de Intel Feng Tang habl&oacute; en la Conferencia de Plomeros de Linux de esta semana en Lisboa, Portugal, sobre c&oacute;mo el equipo de Clear Linux logr&oacute; arrancar su kernel m&aacute;s r&aacute;pido. Comenzaron con un tiempo de arranque de kernel de aproximadamente tres segundos, pero lo redujeron a solo 300 ms.

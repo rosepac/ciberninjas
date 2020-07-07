@@ -5,20 +5,12 @@ excerpt: "Gestor de contenidos alternativa a Wordpress: Encuentra todos los recu
 date: 2020-05-14
 layout: splash
 last_modified_at: 
-classes: wide
+
 permalink: /drupal/
 canonical_URL: https://ciberninjas.com/drupal/
 published: true
-header:
-  teaser: "/assets/images/paginas/drupal.webp"
-  overlay_image: "/assets/images/paginas/drupal.webp"
-  overlay_filter: 0.2
-  image_description: Logotipo del CMS (gestor de contenidos) de Drupal visto en Ciberninjas | Ciberninjas
-#  caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand)"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+thumbnail: "/assets/images/paginas/drupal.webp"
+feature-img: "/assets/images/paginas/drupal.webp"
 ---
 
 Drupal es un gestor de contenidos, que va mucho más lejos de lo que es un CMS. Se podría llegar a denominar a Drupar como un marco de gestión de contenidos; puesto que permite ser utilizado para crear casi cualquier tipo de aplicación web que desees.

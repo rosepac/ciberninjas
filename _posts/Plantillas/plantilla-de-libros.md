@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "🥇 ▷ Los Libros Recomendados por Barack Obama este 2019 📖"
 description: 'Los libros recomendados por Obama hace del 2020 un año mejor. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
 excerpt: 'Los libros recomendados por Obama hace del 2020 un año mejor. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
@@ -14,17 +14,8 @@ tags:
 classed: wide
 permalink: /los-mejores-libros-de-obama-inicio-2020/
 canonical_URL: https://ciberninjas.com/los-mejores-libros-de-obama-inicio-2020/
-header:
-  teaser: /assets/images/obama-leyendo.jpg
-  overlay_image: /assets/images/obama-leyendo.jpg
-  overlay_filter: "0.2"
-  image_alt: "Barack Obama, libros recomendados para el inicio de 2020 | Visto en Ciberninjas"
-  image_description: "Barack Obama, libros recomendados para el inicio de 2020  | Visto en Ciberninjas"
-  caption: "**Créditos**: [Obama White House](https://www.flickr.com/photos/obamawhitehouse/8109908571), es una [Obra del Gobierno de Estados Unidos](https://www.usa.gov/government-works) bajo sus propidas condiciones de [licencia](https://www.usa.gov/government-works)"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+thumbnail: /assets/img/obama-leyendo.jpg
+feature-img: /assets/img/obama-leyendo.jpg
 
 ---
 

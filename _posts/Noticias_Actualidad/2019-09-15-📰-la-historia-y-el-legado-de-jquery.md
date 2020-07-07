@@ -12,13 +12,9 @@ tags:
   - Angular
   - React
   - Vue
-header:
-  teaser: https://i0.wp.com/blog.logrocket.com/wp-content/uploads/2019/08/history-legacy-jquery.jpeg
-  overlay_image: >-
+thumbnail: https://i0.wp.com/blog.logrocket.com/wp-content/uploads/2019/08/history-legacy-jquery.jpeg
+feature-img: >-
     https://i0.wp.com/blog.logrocket.com/wp-content/uploads/2019/08/history-legacy-jquery.jpeg
-  overlay_filter: '0.2'
-  image_description: Logotipo de JQuery `pr ÑpgRpcket | Visto en Ciberninjas
-  caption: '**Créditos**: Foto de [LogRocket](https://blog.logrocket.com)'
 ---
 
 > 📰 🚀 La historia y el legado de jQuery: Breve Historia. Cambios. NuevosFrameworks. &iquest;Cu&aacute;ndo debemos usar JQuery?, por [Danny Guo](https://blog.logrocket.com/author/dannyguo/)

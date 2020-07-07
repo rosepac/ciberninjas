@@ -12,10 +12,8 @@ toc_icon: user-ninja
 toc_sticky: false
 permalink: /regalos/
 canonical_URL: https://ciberninjas.com/regalos/
-header:
-  overlay_image: "https://i.ibb.co/NSyLZ1P/star-wars-militar-mirando.jpg"
-  image_alt: "⚔ Regalos, comics, gifts, juguetes, tazas, camisetas, merchadising, muñecos de colección y más.."
-  image_description: "⚔ Regalos, comics, gifts, juguetes, tazas, camisetas, merchadising, muñecos de colección y más.."
+thumbnail: "https://i.ibb.co/NSyLZ1P/star-wars-militar-mirando.jpg"
+feature-img: "https://i.ibb.co/NSyLZ1P/star-wars-militar-mirando.jpg"
 sidebar:
 - title: "Catálogo"
   nav: tienda

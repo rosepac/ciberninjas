@@ -5,7 +5,7 @@ excerpt: "📌  Las mejores infografías para desarrolladores web."
 published: true
 comments: false
 date: 2019-12-20
-classes: wide
+
 last_modified_at: 2019-12-20
 permalink: /desarrollador-web-infografias/
 # header:

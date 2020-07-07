@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "💰 Cómo Hackear las Cadenas de Bloques: Fumblechain"
 description: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
 excerpt: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
@@ -11,13 +11,8 @@ tags:
 - Hacking
 - CTF
 header:
-  overlay_image: /assets/images/cadena-bloques-fumblechain.jpg
-  overlay_filter: "0.2"
-  image_description: "Fumblechain, hackea la Cadena de Bloques. Aprender seguridad de Blockchain | Ciberninjas"
-  caption: "**Créditos**: Captura creada por ROSEPAC"
-  actions:
-    - label: "VISITAR FUMBLECHAIN"
-      url: "https://resources.kudelskisecurity.com/fumblechain"
+feature-img: /assets/img/cadena-bloques-fumblechain.jpg
+thumbnail: /assets/img/cadena-bloques-fumblechain.jpg
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

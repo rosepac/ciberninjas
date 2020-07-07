@@ -2,7 +2,7 @@
 layout: post
 title: 'Diario #3: Reforma de Ordenador. Actualizando a placa MSI y procesador actual con vistas de futuro'
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-01-13 06:01:45
 tags:

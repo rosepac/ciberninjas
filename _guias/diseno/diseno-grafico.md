@@ -3,27 +3,21 @@ title: '🥇 ▷ Cómo aprender Diseño Gráfico en 2020 👩‍🎨'
 description: '👩‍🎨 ▷ Conoce paso a paso; todo lo que un diseñador, animador, dibujante o desarrollador gráfico necesita para convertirse en un profesional'
 excerpt: '👩‍🎨 ▷ Conoce paso a paso; todo lo que un diseñador, animador, dibujante o desarrollador gráfico necesita para convertirse en un profesional'
 published: true
-author_profile: true
+author: rosepac
 comments: false
 date: 2020-03-21
 last_modified_at: 
 permalink: /diseño-grafico/
 canonical_URL: https://ciberninjas.com/diseño-grafico/
-classes: wide
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
 # toc_sticky: true
-header:
-  teaser: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
-  overlay_image: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
-  overlay_filter: "0.1"
-  image_description: "Cómo Aprender Diseño Gráfico en 2020"
-  image_alt: "Cómo Aprender Diseño Gráfico en 2020"
-  caption: "Créditos: Unsplash"
-  actions:
-    - label: "Recursos Diseño Web"
-      url: "/diseño-grafico-recursos/"
+thumbnail: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
+feature-img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
+actions:
+  - label: "Recursos Diseño Web"
+    url: "/diseño-grafico-recursos/"
 ---
 
 👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/)

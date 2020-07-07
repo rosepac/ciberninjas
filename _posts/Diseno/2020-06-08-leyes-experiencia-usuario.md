@@ -2,18 +2,14 @@
 
 author_profile: false
 comments: false
-classes: wide
+
 layout: splash
 tags:
 - Guías
 categories:
 - Diseño
-header:
-  teaser: /assets/images/blog/ux-disenador.webp
-  overlay_image: /assets/images/blog/ux-disenador.webp
-  overlay_filter: 0.3
-  image_description: 'Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.'
-  image_alt: 'Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.'
+thumbnail: /assets/img/blog/ux-disenador.webp
+feature-img: /assets/img/blog/ux-disenador.webp
 title: '🥇 ▷ Las Leyes de la Experiencia de Usuario'
 description: >-
   Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.
@@ -490,6 +486,6 @@ Más tarde comenzó a trabajar en el Instituto de Actividad Nerviosa Superior, q
 
 [👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario](/diferencias-entre-ui-ux/)
 
-![Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.](/assets/images/blog/ux-disenador.webp "Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.")
+![Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.](/assets/img/blog/ux-disenador.webp "Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

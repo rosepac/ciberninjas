@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Bernard Stiegler
 categories:
 - Citas Célebres
-header:
-  teaser: /assets/images/blog/bernard-stiegler.webp
+thumbnail: /assets/img/blog/bernard-stiegler.webp
+feature-img: /assets/img/blog/bernard-stiegler.webp
 title: '📢 ▷ Las Mejores Frases para Reflexionar de Bernard Stiegler'
 description: >-
   Citas célebres del filósofo francés Bernard Stiegler con las que reflexionar sobre la sociedad.
@@ -22,7 +21,7 @@ published: true
 
 ---
 
-![Retrato del filósofo francés Bernard Stiegler](/assets/images/blog/bernard-stiegler.webp "Retrato del filósofo francés Bernard Stiegler")
+![Retrato del filósofo francés Bernard Stiegler](/assets/img/blog/bernard-stiegler.webp "Retrato del filósofo francés Bernard Stiegler")
 
 Filósofo francés Bernard Stiegler..
 

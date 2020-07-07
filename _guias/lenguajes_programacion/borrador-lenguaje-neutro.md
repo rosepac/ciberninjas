@@ -3,23 +3,17 @@ title: ▷ Cómo Aprender Python en 2020 🐍
 description: 'Cómo Aprender Python desde cero a experto en 2020'
 excerpt: 'Cómo Aprender Python desde cero a experto en 2020'
 published: false
-author_profile: true
-author_profile: true
-classes: wide
+author: rosepac
+author: rosepac
 comments: false
 date: 2019-06-30 12:06:18
 last_modified_at: 2020-01-10
 permalink: /python/
-header:
-  teaser: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
-  overlay_image: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
-  overlay_filter: 0.2
-  image_description: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
-  image_alt: '👨‍💻 ▷ Cómo Aprender Python desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
-  caption: "Wallpaper de Dominio Público"
-  actions:
-    - label: "Recursos Python"
-      url: "/python-recursos/"
+thumbnail: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
+feature-img: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
+actions:
+  - label: "Recursos Python"
+    url: "/python-recursos/"
 ---
 
 [¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién usa Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#librerías-de-python){: .btn .btn--inverse .btn--large}

@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "▷ Las 10 Mejores Herramientas de Automatización de Prueba de Interfaz de Usuario en 2020"
 description: >-
   Vamos a conocer las mejores tecnologías de realización de pruebas automatizadas sobre UI: Como Selenium, Appium, Junit, CodedUI, Etc.
@@ -10,11 +10,10 @@ published: true
 comments: false
 date: 2020-02-03 12:15:12
 last_modified_at: 
-header:
-  teaser: https://i.ibb.co/tHQsW8r/ui-testing.jpg
+thumbnail: https://i.ibb.co/tHQsW8r/ui-testing.jpg
+thumbnail2: https://i.ibb.co/tHQsW8r/ui-testing.jpg
 permalink: /10-mejores-herramientas-pruebas-ui/
 canonical_URL: https://ciberninjas.com/10-mejores-herramientas-pruebas-ui/
-classes: wide
 tags:
 - Pruebas
 - Testing
@@ -26,9 +25,10 @@ categories:
 - Interfaz de Usuario
 
 ---
-![Las 10 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020](https://i.ibb.co/tHQsW8r/ui-testing.jpg "Las 10 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020")
 
 ¿Eres un profesional de pruebas de software? Si es así, ¿Qué herramienta de pruebas utilizas? Como la mayoría de las personas cuando comienzan en el control de calidad, es posible que tenga que dominar solo una o dos herramientas de prueba porque está restringido a lo que se está utilizando en su empresa, o lo que es mejor para probar una aplicación específica o tal vez porque está alineada mejor con la pila de herramientas ALM de sus equipos.
+
+![Las 10 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020](https://i.ibb.co/tHQsW8r/ui-testing.jpg "Las 10 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020")
 
 Cualquiera que sea la razón, si usted es un profesional experimentado, puede beneficiarse de tener una visión más amplia de lo que existe en el mercado de herramientas de prueba de software a nivel empresarial. Si usted es un recién llegado a la automatización del control de calidad, el objetivo de esta guía sería brindarle orientación para encontrar una buena herramienta que satisfaga sus necesidades de prueba.
 

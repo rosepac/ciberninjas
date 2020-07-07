@@ -1,19 +1,15 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Aprendizaje Profundo
 - Ciencia de Datos
 categories:
 - Análisis
-header:
-  teaser: /assets/images/blog/ruta-mlops.webp
-  overlay_image: /assets/images/blog/ruta-mlops.webp
-  overlay_filter: 0.2
-  image_description: 'Hoja de ruta a seguir por los desarrolladores del machine learning y la ciencia de datos con la intención de exponer una imagen del estado actual pra los próximos 5 años.'
-  image_alt: 'Hoja de ruta a seguir por los desarrolladores del machine learning y la ciencia de datos con la intención de exponer una imagen del estado actual pra los próximos 5 años.'
+thumbnail: /assets/img/blog/ruta-mlops.webp
+feature-img: /assets/img/blog/ruta-mlops.webp
 title: 'Hoja de Ruta del aprendizaje profundo y la ciencia de datos para los próximos 5 años'
 description: >-
   Hoja de ruta a seguir por los desarrolladores del machine learning y la ciencia de datos con la intención de exponer una imagen del estado actual pra los próximos 5 años.
@@ -88,6 +84,6 @@ El Roadmap se gestiona dentro del CDF MLOps SIG, que también alberga una serie 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-![Hoja de ruta a seguir por los desarrolladores del machine learning y la ciencia de datos con la intención de exponer una imagen del estado actual pra los próximos 5 años.](/assets/images/blog/ruta-mlops.webp "Hoja de ruta a seguir por los desarrolladores del machine learning y la ciencia de datos con la intención de exponer una imagen del estado actual pra los próximos 5 años.")
+![Hoja de ruta a seguir por los desarrolladores del machine learning y la ciencia de datos con la intención de exponer una imagen del estado actual pra los próximos 5 años.](/assets/img/blog/ruta-mlops.webp "Hoja de ruta a seguir por los desarrolladores del machine learning y la ciencia de datos con la intención de exponer una imagen del estado actual pra los próximos 5 años.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

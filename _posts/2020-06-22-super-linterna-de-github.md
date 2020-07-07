@@ -1,19 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Linterna
 - Github
 categories:
 - Herramientas
-header:
-  teaser: /assets/images/blog/github-investigador.webp
-  overlay_image: /assets/images/blog/github-investigador.webp
-  overlay_filter: 0.2
-  image_description: 'Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.'
-  image_alt: 'Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.'
+thumbnail: /assets/img/blog/github-investigador.webp
+feature-img: /assets/img/blog/github-investigador.webp
 title: '▷ GitHub Super Linter: Una linterna para gobernarlas a todas'
 description: >-
   Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.
@@ -100,7 +95,7 @@ Si deseas tener acceso a diferentes plantillas de trabajo, solamente debes ir a 
 [📁 Plantillas predefinidas para la Linterna](https://github.com/github/super-linter/tree/master/TEMPLATES
 ){: .btn .btn--primary .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.](/assets/images/blog/github-investigador.webp "Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.")
+![Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.](/assets/img/blog/github-investigador.webp "Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.")
 
 ### Relacionados <!-- omit in toc -->
 

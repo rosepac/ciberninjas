@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻 "
 description: "Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación de proyectos de aprendizaje profundo"
 excerpt: "Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación de proyectos de aprendizaje profundo"
@@ -10,24 +10,13 @@ last_modified_at:
 canonical_URL: /deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/
 categories:
 - Aprendizaje Profundo
-header:
-    teaser: https://i.ibb.co/k0C7sKf/deepjavalibrary.png
-# header:
-#  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_filter: 0.2
-#   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
-#   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'
-#   caption: "Créditos: Unsplash"
-# toc: false
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+thumbnail: https://i.ibb.co/k0C7sKf/deepjavalibrary.png
+thumbnail2: https://i.ibb.co/k0C7sKf/deepjavalibrary.png
 ---
 
-![](https://i.ibb.co/k0C7sKf/deepjavalibrary.png)
-
 En la conferencia de AWS: Invent 2019, Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la predicción con modelos de aprendizaje profundo.
+
+![](https://i.ibb.co/k0C7sKf/deepjavalibrary.png)
 
 Si bien Java sigue siendo el primer o segundo lenguaje de programación más popular desde finales de los 90, Python es el lenguaje más utilizado para el aprendizaje automático, con numerosos recursos y marcos de aprendizaje profundo.
 

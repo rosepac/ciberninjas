@@ -4,7 +4,6 @@ description: "Xtend"
 excerpt: "Xtend, es un lenguaje de programación de alto nivel de propósito general para la Máquina Virtual de Java."
 permalink: /glosario/xtend/
 canonical_URL: https://es.wikipedia.org/wiki/Xtend
-classes: wide
 ---
 
 Xtend es un lenguaje de programación de alto nivel de propósito general para la Máquina Virtual de Java. Xtend tiene sus raíces en el lenguaje de programación Java, tanto en la forma sintáctica como semántica, pero tiene una sintaxis más concisa y algunas funciones adicionales, como la inferencia de tipos, los métodos de extensión y la sobrecarga de operadores.

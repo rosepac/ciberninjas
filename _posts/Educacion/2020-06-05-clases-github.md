@@ -1,18 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Github
 categories:
 - Educación
-header:
-  teaser: /assets/images/blog/github-classroom.webp
-  overlay_image: /assets/images/blog/github-classroom.webp
-  overlay_filter: 0.2
-  image_description: 'GitHub Classroom automatiza la creación de repositorios y el control de acceso, facilitando a los maestros la distribución del código de inicio y la recopilación de tareas en GitHub.'
-  image_alt: 'GitHub Classroom automatiza la creación de repositorios y el control de acceso, facilitando a los maestros la distribución del código de inicio y la recopilación de tareas en GitHub.'
+thumbnail: /assets/img/blog/github-classroom.webp
+feature-img: /assets/img/blog/github-classroom.webp
 title: '🎓 Aulas de Github: La automatización de las clases de programación'
 description: >-
   GitHub Classroom automatiza la creación de repositorios y el control de acceso, facilitando a los maestros la distribución del código de inicio y la recopilación de tareas en GitHub.

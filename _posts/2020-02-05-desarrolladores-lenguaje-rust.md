@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "▷ A los desarrolladores les encanta el lenguaje de programación Rust: He aquí por qué"
 description: >-
   El lenguaje de programación Rust creado por Mozilla ha alcanzado un punto óptimo en el mundo de la programación de sistemas.
@@ -10,11 +10,10 @@ published: true
 comments: false
 date: 2020-02-05 10:31:12
 last_modified_at: 
-header:
-  teaser: https://i.ibb.co/PFtL0KL/rust-1-0-is-the-programming-language-of-mozillas-servo.jpg
+thumbnail: https://i.ibb.co/PFtL0KL/rust-1-0-is-the-programming-language-of-mozillas-servo.jpg
+thumbnail2: https://i.ibb.co/PFtL0KL/rust-1-0-is-the-programming-language-of-mozillas-servo.jpg
 permalink: /desarrolladores-lenguaje-rust/
 canonical_URL: https://ciberninjas.com/desarrolladores-lenguaje-rust/
-classes: wide
 tags:
 - Rust
 - Mozilla
@@ -22,9 +21,9 @@ categories:
 - Lenguajes de Programación
 ---
 
-![](https://i.ibb.co/PFtL0KL/rust-1-0-is-the-programming-language-of-mozillas-servo.jpg "El lenguaje de programación Rust creado por Mozilla ha alcanzado un punto óptimo en el mundo de la programación de sistemas.")
-
 El lenguaje de programación Python podría ser la vía más rápida para un trabajo tecnológico en cualquier parte del mundo en la actualidad, Pero, según el sitio de intercambio de conocimientos para desarrolladores Stack Overflow, el lenguaje más querido de todos es Rust, un lenguaje de programación de código abierto creado por los pioneros tecnológicos. en Mozilla en 2010.
+
+![](https://i.ibb.co/PFtL0KL/rust-1-0-is-the-programming-language-of-mozillas-servo.jpg "El lenguaje de programación Rust creado por Mozilla ha alcanzado un punto óptimo en el mundo de la programación de sistemas.")
 
 De hecho, Rust ha sido [votado como el idioma más querido](https://insights.stackoverflow.com/survey/2019?__hstc=188987252.bb5099e81a6033c3d7dd420f804cddbd.1579595011245.1579595011245.1579606677634.2&__hssc=188987252.2.1579606677634&__hsfp=790236177){:target="_blank" rel="nofollow,noreferrer"} durante los últimos cuatro años en las encuestas anuales de desarrolladores de Stack Overflow, aunque el 97% de los encuestados no lo ha utilizado. Entonces, ¿cómo se ha convertido en el lenguaje de programación más querido?
 

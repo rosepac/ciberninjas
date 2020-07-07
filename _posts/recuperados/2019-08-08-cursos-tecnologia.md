@@ -2,7 +2,7 @@
 layout: post
 title: Cursos de Programación y Tecnología
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2018-12-29 08:12:36
 tags: [ ]

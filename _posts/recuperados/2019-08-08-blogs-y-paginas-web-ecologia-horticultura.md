@@ -2,7 +2,7 @@
 layout: post
 title: Blog´s y Páginas Web de Ecología y Horticultura
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-02-02 09:02:36
 tags: [ ]

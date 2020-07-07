@@ -2,7 +2,7 @@
 layout: post
 title: 'Favoritos y Enlaces de Desarrollo & Diseño Web'
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2018-12-15 06:12:03
 tags: [ ]

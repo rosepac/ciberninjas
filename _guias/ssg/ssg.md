@@ -4,13 +4,12 @@ description: "🔨 Cómo aprender desde cero todo sobre los generadores páginas
 excerpt: "🔨 Cómo aprender desde cero todo sobre los generadores páginas web estáticos"
 date: 2020-03-16
 last_modified_at:
-classes: wide
-author_profile: true
+author: rosepac
 published: true
 permalink: /ssg/
 canonical_URL: https://ciberninjas.com/ssg/
-header:
-  teaser: "/assets/images/paginas/sitios-estaticos.webp"
+thumbnail: "/assets/images/paginas/sitios-estaticos.webp"
+thumbnail2: "/assets/images/paginas/sitios-estaticos.webp"
 # header:
 #   image: "/assets/images/jekyll-blog.jpg"
 #   image_description: Jekyll, generador de sitios estáticos | Ciberninjas

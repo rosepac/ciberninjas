@@ -9,7 +9,7 @@ header:
     provider: youtube
 comments: false
 date: 2019-09-18 00:00:00 +0200
-classes: wide
+
 tags:
   - Ken Robinson
   - Paradigmas

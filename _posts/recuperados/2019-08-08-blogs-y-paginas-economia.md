@@ -2,7 +2,7 @@
 layout: post
 title: Blogs de Economía
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-03-30 01:03:49
 tags: [ ]

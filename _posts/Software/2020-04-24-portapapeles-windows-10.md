@@ -1,15 +1,15 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Portapapeles
 - Windows
 categories:
 - Software
-header:
-  teaser: /assets/images/blog/windows-portapapeles.webp
+thumbnail: /assets/img/blog/windows-portapapeles.webp
+thumbnail2: /assets/img/blog/windows-portapapeles.webp
 title: '🥇 ▷ Deja de perder texto e imágenes de forma permanente con el portapapeles de Windows 10'
 description: >-
   Cambia de forma ágil de ventana a ventana y entre diferentes pantallas de Windows 10.
@@ -23,7 +23,7 @@ published: true
 
 ---
 
-![Deja de perder texto e imágenes de forma permanente con el portapapeles de Windows 10](/assets/images/blog/windows-portapapeles.webp "Deja de perder texto e imágenes de forma permanente con el portapapeles de Windows 10")
+![Deja de perder texto e imágenes de forma permanente con el portapapeles de Windows 10](/assets/img/blog/windows-portapapeles.webp "Deja de perder texto e imágenes de forma permanente con el portapapeles de Windows 10")
 
 ¡Por fin! Windows se ha dignado a dar solución a uno de los mayores problemas jamás solucionado en el Sistema Operativo más usado del mundo.
 

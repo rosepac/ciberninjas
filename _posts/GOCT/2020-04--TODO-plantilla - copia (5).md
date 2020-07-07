@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - 
 categories:
 - Java
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
 title: '🚀 ▷ '
 description: >-
   ''
@@ -22,7 +21,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>

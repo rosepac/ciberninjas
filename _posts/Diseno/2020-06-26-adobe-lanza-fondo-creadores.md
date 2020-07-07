@@ -1,18 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Adobe
 categories:
 - Noticias
-header:
-  teaser: /assets/images/blog/25-adobe-creative-1.webp
-  overlay_image: /assets/images/blog/25-adobe-creative-1.webp
-  overlay_filter: 0.2
-  image_description: 'En respuesta a la crisis de Covid-19, Adobe busca aumentar su apoyo a la comunidad de creadores mundial mediante el lanzamiento de un nuevo Fondo Comunitario de su proyecto Residencia Creativa.'
-  image_alt: 'En respuesta a la crisis de Covid-19, Adobe busca aumentar su apoyo a la comunidad de creadores mundial mediante el lanzamiento de un nuevo Fondo Comunitario de su proyecto Residencia Creativa.'
+thumbnail: /assets/img/blog/25-adobe-creative-1.webp
+feature-img: /assets/img/blog/25-adobe-creative-1.webp
 title: '▷ Adobe ofrece 1 millón de dólares como fondo de ayuda para proyectos de creadores de diseño'
 description: >-
   En respuesta a la crisis de Covid-19, Adobe busca aumentar su apoyo a la comunidad de creadores mundial mediante el lanzamiento de un nuevo Fondo Comunitario de su proyecto Residencia Creativa.
@@ -56,7 +52,7 @@ Aparte de eso, el único requisito es que seas un creador visual; dentro del cam
 
 Si quieres, puedes encontrar todos los detalles sobre cómo presentar tu [solicitud aquí](https://ciberninjas.com/fondo-ayuda-creadores-adobe/).
 
-![En respuesta a la crisis de Covid-19, Adobe busca aumentar su apoyo a la comunidad de creadores mundial mediante el lanzamiento de un nuevo Fondo Comunitario de su proyecto Residencia Creativa.](/assets/images/blog/25-adobe-creative-1.webp "En respuesta a la crisis de Covid-19, Adobe busca aumentar su apoyo a la comunidad de creadores mundial mediante el lanzamiento de un nuevo Fondo Comunitario de su proyecto Residencia Creativa.")
+![En respuesta a la crisis de Covid-19, Adobe busca aumentar su apoyo a la comunidad de creadores mundial mediante el lanzamiento de un nuevo Fondo Comunitario de su proyecto Residencia Creativa.](/assets/img/blog/25-adobe-creative-1.webp "En respuesta a la crisis de Covid-19, Adobe busca aumentar su apoyo a la comunidad de creadores mundial mediante el lanzamiento de un nuevo Fondo Comunitario de su proyecto Residencia Creativa.")
 
 ### Relacionados
 

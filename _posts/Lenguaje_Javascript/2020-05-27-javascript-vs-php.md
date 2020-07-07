@@ -1,15 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Javascript
 - PHP
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
 title: 'Diferencias entre Javascript y PHP'
 description: >-
   'Breve comparativa e introducción entre los lenguajes de programación: Javascript y PHP.'

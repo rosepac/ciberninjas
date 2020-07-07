@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 # title: "▷ Los Mejores Descuentos del Prime Day 2020 💥"
 # description: "♥ Prime Day Amazon 2020 🔥 todas las mejores ofertas."
 # excerpt: "♥ Prime Day Amazon 2020 🔥 todas las mejores ofertas."
@@ -11,18 +11,13 @@ canonical_URL: https://ciberninjas.com/prime-day-amazon/
 published: true
 comments: false
 date: 2020-09-01 10:30:00 +0200
-header:
-  teaser: https://i.ibb.co/0rXN63g/amazon-prime-day.gif
-  overlay_image: /assets/images/ciberninjas-prime-day.jpg
-  overlay_filter: 0.2
-  image_description: 'Las Mejores Ofertas del Prime Day de Amazon 2020 | Ciberninjas'
-  image_alt: 'Las Mejores Ofertas del Prime Day de Amazon 2020 | Ciberninjas'
-  caption: "**Créditos**: Creación propia Ciberninjas"
-  actions:
-    - label: "Black Friday 2020"
-      url: "/black-friday-amazon/"
-    - label: "Disney"
-      url: "/disney-frozen-amazon/"
+thumbnail: https://i.ibb.co/0rXN63g/amazon-prime-day.gif
+feature-img: /assets/images/ciberninjas-prime-day.jpg
+actions:
+  - label: "Black Friday 2020"
+    url: "/black-friday-amazon/"
+  - label: "Disney"
+    url: "/disney-frozen-amazon/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

@@ -4,7 +4,6 @@ description: "Digresión"
 excerpt: "Acción y efecto de romper el hilo del discurso y de introducir en él cosas que no tengan aparente relación directa con el asunto principal."
 permalink: /glosario/digresion/
 canonical_URL: https://ciberninjas.com/glosario/digresion/
-classes: wide
 ---
 
 Acción y efecto de romper el hilo del discurso y de introducir en él cosas que no tengan aparente relación directa con el asunto principal.

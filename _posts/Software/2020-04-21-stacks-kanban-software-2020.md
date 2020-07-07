@@ -1,16 +1,16 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Kanban
 - Stacks
 categories:
 - Software
 - Flujos de Trabajo
-header:
-  teaser: /assets/images/blog/software-stacks.webp
+thumbnail: /assets/img/blog/software-stacks.webp
+thumbnail2: /assets/img/blog/software-stacks.webp
 title: '💼 ▷ Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux'
 description: >-
   Con este nuevo software, denominado Stacks y basado en la metodología kanban. Puedes administrar tus asuntos desde cualquier sistema operativo, de forma totalmente gratuita y sin ningún tipo de restricciones.
@@ -25,7 +25,7 @@ published: true
 
 ---
 
-![💼 ▷ Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux](/assets/images/blog/software-stacks.webp "Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux")
+![💼 ▷ Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux](/assets/img/blog/software-stacks.webp "Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux")
 <!-- https://lifehacker.ru/stacks-alternativa-trello/ -->
 
 Cuando escuchamos **las palabras kanban y tableros, inmediatamente se nos viene a la mente la herramienta de trabajo Trello**. Sin duda alguna, el servicio más popular de su tipología.

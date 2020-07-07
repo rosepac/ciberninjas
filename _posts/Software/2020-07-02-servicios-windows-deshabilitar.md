@@ -1,18 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Windows 10
 categories:
 - Software
-header:
-  teaser: /assets/images/2020-news/windows-servicios-des.webp
-  overlay_image: /assets/images/2020-news/windows-servicios-des.webp
-  overlay_filter: 0.2
-  image_description: 'Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.'
-  image_alt: 'Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.'
+thumbnail: /assets/img/2020-news/windows-servicios-des.webp
+feature-img: /assets/img/2020-news/windows-servicios-des.webp
 title: '▷ ¿Qué servicios de Windows se pueden deshabilitar para acelerar el sistema?'
 description: >-
   Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.
@@ -29,6 +24,9 @@ published: true
 Windows administra muchos servicios (programas que se ejecutan en segundo plano) lo que garantiza el funcionamiento normal de la computadora. Pero algunos de ellos son necesarios solo para tareas específicas y son inútiles para la mayoría de los usuarios. Al deshabilitar estos servicios, puede mejorar el rendimiento de una PC débil.
 
 Hoy, vamos a ver como hacer para evitar que la PC desperdicie recursos en acciones de servicios innecesarios.
+- [**¿Cómo configurar los servicios de Windows?**](#cómo-configurar-los-servicios-de-windows)
+- [**¿Qué servicios de Windows se pueden deshabilitar?**](#qué-servicios-de-windows-se-pueden-deshabilitar)
+  - [Relacionados](#relacionados)
 
 ## **¿Cómo configurar los servicios de Windows?**
 
@@ -88,6 +86,6 @@ Los nombres exactos de los servicios pueden diferir en algo a los que encuentres
 
 [Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/)
 
-![Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.](/assets/images/2020-news/windows-servicios-des.webp "Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.")
+![Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.](/assets/img/2020-news/windows-servicios-des.webp "Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

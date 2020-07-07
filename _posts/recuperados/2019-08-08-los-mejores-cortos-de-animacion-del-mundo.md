@@ -2,7 +2,7 @@
 layout: post
 title: Los mejores cortos de Animación del mundo
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-02-02 09:02:36
 tags: [ ]

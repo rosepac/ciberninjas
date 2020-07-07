@@ -1,20 +1,15 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Rust
 - Nightle
 - Firefox
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/blog/rust-lenguaje.webp
-  overlay_image: /assets/images/blog/rust-lenguaje.webp
-  overlay_filter: 0.2
-  image_description: 'Empoderar con Rust y Mozilla Firefox, para construir software confiable y eficiente.'
-  image_alt: 'Empoderar con Rust y Mozilla Firefox, para construir software confiable y eficiente.'
+thumbnail: /assets/img/blog/rust-lenguaje.webp
+feature-img: /assets/img/blog/rust-lenguaje.webp
 title: '▷ Nueva sintaxis de ensamblaje para Rust dentro de Nightly'
 description: >-
   Empoderar con Rust y Mozilla Firefox, para construir software confiable y eficiente.

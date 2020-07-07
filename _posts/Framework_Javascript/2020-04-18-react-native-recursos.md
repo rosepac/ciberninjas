@@ -5,26 +5,17 @@ excerpt: "React Native: Los recursos más útiles, libros, tutoriales, videotuto
 date: 2020-04-18 01:00:00 +0100
 canonical_URL: https://ciberninjas.com/react-native-recursos/
 permalink: /react-native-recursos/
-classes: wide
+
 published: true
 categories:
   - Framework Multiplataforma
 tags:
   - React Native
-header:
-  teaser: /assets/images/frameworks-multiplataforma/react-native-ciberninjas-recursos.webp
-#  overlay_image: /assets/images/frameworks-multiplataforma/react-native-ciberninjas.webp
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+thumbnail: /assets/img/frameworks-multiplataforma/react-native-ciberninjas-recursos.webp
+feature-img: /assets/img/frameworks-multiplataforma/react-native-ciberninjas.webp
 ---
 
-![React Native: Recursos para Aprender todo sobre el Framework Javascript de Facebook](/assets/images/frameworks-multiplataforma/react-native-ciberninjas-recursos.webp "React Native: Recursos para Aprender todo sobre el Framework Javascript de Facebook")
+![React Native: Recursos para Aprender todo sobre el Framework Javascript de Facebook](/assets/img/frameworks-multiplataforma/react-native-ciberninjas-recursos.webp "React Native: Recursos para Aprender todo sobre el Framework Javascript de Facebook")
 
 Saber Más
 

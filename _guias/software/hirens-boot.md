@@ -9,11 +9,8 @@ author_profile: false
 permalink: /hirens-bootcd-pe/
 canonical_URL: https://ciberninjas.com/hirens-bootcd-pe/
 comments: false
-header:
-  teaser: "/assets/images/paginas/Hirens-Boot-CD.webp"
-  overlay_image: "/assets/images/paginas/Hirens-Boot-CD.webp"
-  image_description: Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación | Ciberninjas
-  caption: "**Créditos**: Captura de Pantalla Propiedad de Hiren´s BootCD PE"
+thumbnail: "/assets/images/paginas/Hirens-Boot-CD.webp"
+feature-img: "/assets/images/paginas/Hirens-Boot-CD.webp"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

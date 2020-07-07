@@ -1,19 +1,15 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Unity
 - Gratis
 categories:
 - Educación
-header:
-  teaser: /assets/images/blog/unity-learn.webp
-  overlay_image: /assets/images/blog/unity-learn.webp
-  overlay_filter: 0.2
-  image_description: 'Accede a la academia oficial de Unity de forma gratuita, Unity Learn Premium disponible sin costo alguno.'
-  image_alt: 'Accede a la academia oficial de Unity de forma gratuita, Unity Learn Premium disponible sin costo alguno.'
+thumbnail: /assets/img/blog/unity-learn.webp
+feature-img: /assets/img/blog/unity-learn.webp
 title: '▷ Unity: La Academia de aprendizaje Premium de Unity totalmente gratis y para todos'
 description: >-
   Accede a la academia premium oficial de Unity de forma gratuita, Unity Learn Premium disponible sin costo alguno.
@@ -68,6 +64,6 @@ A continuación vas a encontrar algunos de los mejore recursos que te va a ofrec
 
 [👩‍🏫 Entra a la Plataforma GRATIS Premium de Unity](https://unity.com/products/learn-premium){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Accede a la academia premium oficial de Unity de forma gratuita, Unity Learn Premium disponible sin costo alguno.](/assets/images/blog/unity-learn.webp "Accede a la academia premium oficial de Unity de forma gratuita, Unity Learn Premium disponible sin costo alguno.")
+![Accede a la academia premium oficial de Unity de forma gratuita, Unity Learn Premium disponible sin costo alguno.](/assets/img/blog/unity-learn.webp "Accede a la academia premium oficial de Unity de forma gratuita, Unity Learn Premium disponible sin costo alguno.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

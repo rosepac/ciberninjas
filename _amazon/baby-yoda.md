@@ -8,16 +8,8 @@ canonical_URL: https://ciberninjas.com/disney-baby-yoda/
 published: false
 comments: false
 date: 2019-12-20 17:30:00 +0200
-header:
-  teaser: https://i.ibb.co/mhcTS2j/baby-yoda-gif.gif
-  overlay_image: https://i.ibb.co/r3V9HRW/34605751714-d713169d14-b.jpg
-  overlay_filter: 0.2
-  image_description: 'Regalos de las Guerras de las Galaxias, Juguetes del adorable Bebe Yoda | Ciberninjas'
-  image_alt: 'Regalos de las Guerras de las Galaxias, Juguetes del adorable Bebe Yoda | Ciberninjas'
-  caption: "Créditos: Flickr, de Dominio Público"
-  actions:
-    - label: "🎁 Regalos"
-      url: "/amazon/"
+thumbnail: https://i.ibb.co/mhcTS2j/baby-yoda-gif.gif
+feature-img: https://i.ibb.co/r3V9HRW/34605751714-d713169d14-b.jpg
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

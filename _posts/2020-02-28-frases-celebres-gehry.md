@@ -1,15 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 title: '📢 ▷ Las Mejores Frases Motivadoras del Reconocido Arquitecto Frank Owen Gehry'
 tags:
 - Frank Owen Gehry
 categories:
 - Citas Célebres
-header:
-  teaser: /assets/images/blog/geotagged-las-vegas-pxhere.com_2048.webp
+thumbnail: /assets/img/blog/geotagged-las-vegas-pxhere.com_2048.webp
+thumbnail2: /assets/img/blog/geotagged-las-vegas-pxhere.com_2048.webp
 description: >-
   Citas célebres del arquitecto canadiense Frank Owen Gehry. Motivación, creatividad y trabajo a raudales. De este creador del Museo Guggenhein entre otros edificios característicos
 excerpt: >-
@@ -22,7 +21,7 @@ published: true
 
 ---
 
-![Obra arquitectónica realizada por Frank Owen Gehry en Las Vegas](/assets/images/blog/geotagged-las-vegas-pxhere.com_2048.webp "Obra arquitectónica realizada por Frank Owen Gehry en Las Vegas")
+![Obra arquitectónica realizada por Frank Owen Gehry en Las Vegas](/assets/img/blog/geotagged-las-vegas-pxhere.com_2048.webp "Obra arquitectónica realizada por Frank Owen Gehry en Las Vegas")
 
 <h2><p align="center"><cite>"Tienes que ser optimista. Todavía tengo dudas y conflictos, <br>pero la conclusión es que creo en el futuro".</cite></p></h2>
 

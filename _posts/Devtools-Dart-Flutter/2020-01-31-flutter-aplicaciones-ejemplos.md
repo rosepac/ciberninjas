@@ -4,17 +4,12 @@ title: '🚀 ¿Qué puedo crear con Flutter? La mejor lista de colecciones y apl
 excerpt: '👩‍🚀 Lista de apps y código fuente abierto y gratis de las mejores aplicaciones desarrolladas hasta ahora con Flutter y el lenguaje de programación Dart.'
 description: '👩‍🚀 Lista de apps y código fuente abierto y gratis de las mejores aplicaciones desarrolladas hasta ahora con Flutter y el lenguaje de programación Dart.'
 published: true
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 date: 2020-06-13 01:32:33
 last_modified_at: 
-header:
-  teaser: /assets/images/blog/flutter-1024x486.webp
-  overlay_image: /assets/images/blog/flutter-1024x486.webp
-  overlay_filter: 0.3
-  image_description: Lista de apps y código fuente abierto y gratis de las mejores aplicaciones desarrolladas hasta ahora con Flutter y el lenguaje de programación Dart.
-  image_alt: Lista de apps y código fuente abierto y gratis de las mejores aplicaciones desarrolladas hasta ahora con Flutter y el lenguaje de programación Dart.
+thumbnail: /assets/img/blog/flutter-1024x486.webp
+feature-img: /assets/img/blog/flutter-1024x486.webp
 tags:
 - Flutter
 - Móviles
@@ -133,7 +128,7 @@ La galería oficial de Flutter. Hay toneladas de cosas allí. Solo toneladas.
 
 [👉 ¿Qué es DevTools?](/flutter-dart-devtools/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo instalar DevTools?](/flutter-dart-devtools-como-instalar/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar el inspector de DevTools?](/flutter-dart-devtools-inspector/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar la línea de tiempo de DevTools?](/flutter-dart-devtools-linea-tiempo/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar la vista de memoria de DevTools?](/flutter-dart-devtools-vista-memoria/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar la vista de rendimiento de DevTools?](/flutter-dart-devtools-vista-rendimiento/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar el depurador de DevTools?](/flutter-dart-devtools-depurador/){: .btn .btn--inverse .btn--large} [👉 ¿Cómo usar la vista de registro de DevTools?](/flutter-dart-devtools-vista-registro/){: .btn .btn--inverse .btn--large} [👉 Guía Flutter?](/que-es-flutter-y-por-que-debes-aprenderlo/){: .btn .btn--inverse .btn--large}
 
-![Logotipo del SDK Multiplataforma de Flutter](/assets/images/blog/flutter-1024x486.webp "Logotipo del SDK de Flutter")
+![Logotipo del SDK Multiplataforma de Flutter](/assets/img/blog/flutter-1024x486.webp "Logotipo del SDK de Flutter")
 
 #### Relacionados
 

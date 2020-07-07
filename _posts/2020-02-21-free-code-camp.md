@@ -1,14 +1,12 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Java
 categories:
 - Actualidad
-header:
-  teaser: /assets/images/blog/java-visual-studio.webp
+thumbnail: /assets/img/blog/java-visual-studio.webp
 title: '💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020'
 description: >-
   Mejoras y cambios insertados en el editor de texto de Visaul Studio Code respecto al uso de Java y sus librerías
@@ -22,7 +20,7 @@ published: false
 
 ---
 
-![Visual Studio Code, el mejor editor de texto para utilizar a la hora de programar en Java](/assets/images/blog/java-visual-studio.webp "Visual Studio Code, el mejor editor de texto para utilizar a la hora de programar en Java")
+![Visual Studio Code, el mejor editor de texto para utilizar a la hora de programar en Java](/assets/img/blog/java-visual-studio.webp "Visual Studio Code, el mejor editor de texto para utilizar a la hora de programar en Java")
 
 En esta actualización, le mostraremos las nuevas formas de administrar sus dependencias y configurar el JDK múltiple. Aprender las herramientas adicionales que se pueden aprovechar para utilizar frameworks y mejorar los tiempos de ejecución. Además, existen algunos cambios más dentro de esta actualización.
 
@@ -34,13 +32,13 @@ Ya sea que use o no una herramienta de compilación, Java Dependency Viewer ahor
 
 Si está utilizando Maven, ahora es muy conveniente agregar dependencias para su proyecto Maven a través del explorador de dependencias de Java haciendo clic en el  botón + como se muestra a continuación.
 
-![](/assets/images/blog/vsc-captura-maven.webp)
+![](/assets/img/blog/vsc-captura-maven.webp)
 
 ## Otros proyectos
 
 Si no estas utilizando ninguna herramienta de compilación como Maven o Gradle, y deseas hacer referencia a dependencias binarias dentro del sistema de archivos local, la ejecución es muy similar a la situación anterior.
 
-![](/assets/images/blog/vsc-manage_dependencies.webp)
+![](/assets/img/blog/vsc-manage_dependencies.webp)
 
 Se ha incluido un nuevo espacio predeterminado denominado `java.project.referencedLibaries` . A continuación se muestra cómo se puede acceder a personalizar este espacio, desde la propia configuración del programa.
 

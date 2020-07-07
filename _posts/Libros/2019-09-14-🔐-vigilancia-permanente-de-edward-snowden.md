@@ -16,18 +16,7 @@ description: >-
 excerpt: >-
   El mayor escándalo diplomático de la historia. Una vida al servicio de la
   verdad. Las memorias que agitarán la geopolítica mundial.
-header:
-  overlay_image: /assets/images/catalogo/edward-snowden-vigilancia-permanente.jpg
-  image_description: >-
-    Vigilancia Permanente en Español: Una biografía de Edward Snowden que
-    agitará el mundo de la política | Ciberninjas
-  overlay_filter: 0.3
-  caption: 'Créditos: **LeanPub**'
-  actions:
-    - label: + SEGURIDAD INFORMÁTICA
-      url: '/categoria/#seguridad-inform%C3%A1tica'
-    - label: "\U0001F6D2 COMPRAR"
-      url: 'https://amzn.to/2Lxt9Sd'
+feature-img: /assets/img/catalogo/edward-snowden-vigilancia-permanente.jpg
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
@@ -35,7 +24,7 @@ toc_sticky: true
 author_profile: false
 sidebar:
   - title: Autor
-    image: /assets/images/catalogo/edward-snowden-vigilancia-permanentex250.jpg
+    image: /assets/img/catalogo/edward-snowden-vigilancia-permanentex250.jpg
     image_alt: >-
       Vigilancia Permanente en Español: Una biografía de Edward Snowden que
       agitará el mundo de la política | Ciberninjas

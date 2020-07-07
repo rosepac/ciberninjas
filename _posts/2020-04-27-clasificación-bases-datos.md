@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Tipologías Datos
 categories:
 - Bases Datos
-header:
-  teaser: /assets/images/blog/tipologias-bases-datos.webp
+thumbnail: /assets/img/blog/tipologias-bases-datos.webp
+feature-img: /assets/img/blog/tipologias-bases-datos.webp
 title: '🥇 ▷ Clasificación de las 4 Tipologías Diferentes de las Bases de Datos 2020'
 description: >-
   Diferentes tipos existentes de bases de datos.
@@ -22,27 +21,22 @@ published: true
 
 ---
 
-![Clasificación de las Tipologías de las Bases de Datos 2020](/assets/images/blog/tipologias-bases-datos.webp "Clasificación de las Tipologías de las Bases de Datos 2020")
+Un sistema de administración de bases de datos es un paquete de software para crear y administrar bases de datos. Existen muchos tipos diferentes de sistemas de bases de datos en función de cómo gestionan la estructura de la base de datos.
 
+![Clasificación de las Tipologías de las Bases de Datos 2020](/assets/img/blog/tipologias-bases-datos.webp "Clasificación de las Tipologías de las Bases de Datos 2020")
+
+En la siguiente publicación vas a poder conocer las diferentes tipologías de bases de datos que existen en la actualidad; como son: las bases de datos relacionales, las bases de datos NoSQL, las bases orientadas a objetos y las bases de datos distribuidas.
+
+<!-- https://dataguide.prisma.io/intro/comparing-database-types -->
+<!-- https://www.nibusinessinfo.co.uk/content/types-database-system -->
 <!-- CONTENIDO INTRODUCCION -->
-
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/clasificación-bases-datos/#1-bases-de-datos-relacionales"><strong>Bases de Datos Relacionales</strong></a></li>
-    <li><a href="/clasificación-bases-datos/#2-bases-de-datos-nosql"><strong>Bases de Datos NoSQL</strong></a></li>
-    <li><a href="/clasificación-bases-datos/#3-bases-de-datos-orientadas-a-objetos"><strong>Bases de Datos Orientadas a Objetos</strong></a></li>
-    <li><a href="/clasificación-bases-datos/#4-bases-de-datos-distribuidas-y-centralizadas"><strong>Baes de Datos Distribuidas y Centralizadas</strong></a></li>
-  </ol>
-</nav>
-</details>
-<br />
+- [**1. Bases de Datos Relacionales**](#1-bases-de-datos-relacionales)
+- [**2. Bases de datos NoSQL**](#2-bases-de-datos-nosql)
+- [**3. Bases de datos orientadas a objetos**](#3-bases-de-datos-orientadas-a-objetos)
+- [**4. Bases de datos distribuidas y centralizadas**](#4-bases-de-datos-distribuidas-y-centralizadas)
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/clasificación-bases-datos/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
-
-### **Clasificación de Tipologías de Bases de Datos**
 
 ## **1. Bases de Datos Relacionales**
 

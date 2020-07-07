@@ -2,19 +2,16 @@
 title: "🥇 ▷ Cómo APRENDER a Programar GRATIS en 2020: Mejores libros recomendados para programadores"
 description: "✅ Los mejores libros y herramientas para aprender a programar como un auténtico profesional"
 excerpt: "✅ Los mejores libros y herramientas para aprender a programar como un auténtico profesional"
-author_profile: true
+author: rosepac
 published: true
-author_profile: true
+author: rosepac
 comments: false
 date: 2020-02-27
 last_modified_at: 
 permalink: /programar/
 canonical_URL: https://ciberninjas.com/programar/
-classes: wide
-header:
-  teaser: "/assets/images/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp"
-  overlay_image: "/assets/images/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp"
-  image_description: "Aprende todo lo necesario para convertirte en un profesional de la programación, aprende a programar y todos los puestos de trabajo relacionados con la programación 2020"
+thumbnail: "/assets/images/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp"
+feature-img: "/assets/images/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp"
 #  caption: "**Créditos**: Desconocido"
 # toc: true
 # toc_label: "Contenidos"

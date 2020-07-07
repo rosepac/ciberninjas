@@ -1,18 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Twitter
 categories:
 - Aplicaciones
-header:
-  teaser: /assets/images/2020-news/chirpy-2.webp
-  overlay_image: /assets/images/2020-news/chirpy-2.webp
-  overlay_filter: 0.2
-  image_description: 'Descubre tus mejores amigos y el círculo de las personas más importantes con relación a tu actividad de Twitter.'
-  image_alt: 'Descubre tus mejores amigos y el círculo de las personas más importantes con relación a tu actividad de Twitter.'
+thumbnail: /assets/img/2020-news/chirpy-2.webp
+feature-img: /assets/img/2020-news/chirpy-2.webp
 title: "▷ Chirpty: Conoce tu círculo de interacción de Twitter"
 description: >-
   Descubre tus mejores amigos y el círculo de las personas más importantes con relación a tu actividad de Twitter.
@@ -34,7 +29,7 @@ Los círculos de interacción creados por la aplicación de Chirpty, no son más
 
 La imagen que se muestra a continuación está creada con Chirpty..
 
-![Círculo de interacción Chirpty creado desde la cuenta Ciberninjas](/assets/images/2020-news/chirpy-1.webp "Círculo de interacción Chirpty creado desde la cuenta Ciberninjas")
+![Círculo de interacción Chirpty creado desde la cuenta Ciberninjas](/assets/img/2020-news/chirpy-1.webp "Círculo de interacción Chirpty creado desde la cuenta Ciberninjas")
 
 Aclara que, Chirpty NO utiliza ningún inicio de sesión, ni requiere permisos. Chirpty usa solamente datos disponibles públicamente, y la aplicación no esta afiliada a ninguna otra aplicación.
 
@@ -53,7 +48,7 @@ Si deseas crear tu propio proyecto, [puedes seguir este tutorial del creador](ht
 
 Al creador de Chirpty, Simone, puedes encontrarlo en [Twitter](https://twitter.com/Duiker101){:target="_blank" rel="nofollow,noreferrer"} y [Github](https://github.com/duiker101){:target="_blank" rel="nofollow,noreferrer"}.
 
-![Descubre tus mejores amigos y el círculo de las personas más importantes con relación a tu actividad de Twitter.](/assets/images/2020-news/chirpy-2.webp "Descubre tus mejores amigos y el círculo de las personas más importantes con relación a tu actividad de Twitter.")
+![Descubre tus mejores amigos y el círculo de las personas más importantes con relación a tu actividad de Twitter.](/assets/img/2020-news/chirpy-2.webp "Descubre tus mejores amigos y el círculo de las personas más importantes con relación a tu actividad de Twitter.")
 
 [🌍 Prueba Chirpty](https://chirpty.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [📋 Código de Chirpty](https://github.com/duiker101/twitter-interaction-circles){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

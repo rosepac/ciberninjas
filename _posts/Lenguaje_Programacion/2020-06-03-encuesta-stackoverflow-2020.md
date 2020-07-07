@@ -1,20 +1,16 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 # layout: splash
 tags:
 - Ranking
 - Stackoverflow
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/blog/stackoverflow.webp
-  overlay_image: /assets/images/blog/stackoverflow.webp
-  overlay_filter: 0.2
-  image_description: 'Rust y la extensión de Javascript, Typescript, superan a Python como lenguaje de programación favorito por la comunidad de desarrolladores de Stack Overflow.'
-  image_alt: 'Rust y la extensión de Javascript, Typescript, superan a Python como lenguaje de programación favorito por la comunidad de desarrolladores de Stack Overflow.'
+thumbnail: /assets/img/blog/stackoverflow.webp
+feature-img: /assets/img/blog/stackoverflow.webp
 title: 'Resultados de la encuesta de Stack Overflow 2020: Rust y Typescript pasan a estar entre los favoritos'
 description: >-
   Rust y la extensión de Javascript, Typescript, superan a Python como lenguaje de programación más importantes por la comunidad de desarrolladores de Stack Overflow.

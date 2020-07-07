@@ -15,12 +15,8 @@ tags:
 - Universidad
 - Tareas
 - Exámenes
-header:
-  teaser: /assets/images/escuela-aplicaciones-calendario-peque.jpg
-  overlay_image: /assets/images/escuela-aplicaciones-calendario-peque.jpg
-  image_description: "El mejor listado de las mejores aplicaciones escolares de seguimiento de tareas para el curso de 2019 | Ciberninjas"
-  overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Free Range**"
+thumbnail: /assets/img/escuela-aplicaciones-calendario-peque.jpg
+feature-img: /assets/img/escuela-aplicaciones-calendario-peque.jpg
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -37,7 +33,7 @@ Si eres de los estudiantes más clásicos y prefieres tener una original y hermo
 ## Agenda Escolar
 
 <figure>
-    <a href="/assets/images/schooll_planner.webp" class="image-popup"><img src="/assets/images/schooll_planner.webp"></a>
+    <a href="/assets/img/schooll_planner.webp" class="image-popup"><img src="/assets/img/schooll_planner.webp"></a>
     <figcaption>Agenda Escolar o School Planner: app práctica específica para organizar tu vida académica, sin versión web por desgracia | Ciberninjas</figcaption>
 </figure>
 
@@ -52,7 +48,7 @@ Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id
 ## Mi Planificador de Deberes
 
 <figure>
-    <a href="/assets/images/my_home_work.jpg" class="image-popup"><img src="/assets/images/my_home_work.jpg"></a>
+    <a href="/assets/img/my_home_work.jpg" class="image-popup"><img src="/assets/img/my_home_work.jpg"></a>
     <figcaption>Mi Planificador de Deberes o My Homework: Es la mejor app de gestión de calendario, horarios, deberes y tareas para durante el curso escolar | Ciberninjas</figcaption>
 </figure>
 
@@ -67,7 +63,7 @@ Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id
 ## Horario de Clases
 
 <figure>
-    <a href="/assets/images/class_timetable.jpg" class="image-popup"><img src="/assets/images/class_timetable.jpg"></a>
+    <a href="/assets/img/class_timetable.jpg" class="image-popup"><img src="/assets/img/class_timetable.jpg"></a>
     <figcaption>Horario de Clases o Class Timetable: Es la aplicación perfecta para la escuela, colegio y universidad; administrar horarios, organizar tareas y recibir notificaciones | Ciberninjas</figcaption>
 </figure>
 
@@ -82,7 +78,7 @@ Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id
 ## Mi Vida de Estudiante
 
 <figure>
-    <a href="/assets/images/my_study_life.jpg" class="image-popup"><img src="/assets/images/my_study_life.jpg"></a>
+    <a href="/assets/img/my_study_life.jpg" class="image-popup"><img src="/assets/img/my_study_life.jpg"></a>
     <figcaption>Mi Vida de Estudiante o My Study Life:  | Ciberninjas</figcaption>
 </figure>
 

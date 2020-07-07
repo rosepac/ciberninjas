@@ -1,15 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Ubuntu
 - Deepin
 categories:
 - Sistemas Operativos
-header:
-  teaser: /assets/images/blog/captura-pantalla-ubuntudde.webp
+thumbnail: /assets/img/blog/captura-pantalla-ubuntudde.webp
+feature-img: /assets/img/blog/captura-pantalla-ubuntudde.webp
 title: '💻 ▷ UbuntuDDE: Potente SO de Ubuntu con la interfaz más bella de Deepin'
 description: >-
   Deepin (DDE) es un entorno de trabajo con una interfaz intuitiva. El proyecto UbuntuDDE combina el poder de Ubuntu con la belleza de Deepin.
@@ -23,7 +22,7 @@ published: true
 
 ---
 
-![Deepin (DDE) es un entorno de trabajo con una interfaz intuitiva. El proyecto UbuntuDDE combina el poder de Ubuntu con la belleza de Deepin](/assets/images/blog/captura-pantalla-ubuntudde.webp "Deepin (DDE) es un entorno de trabajo con una interfaz intuitiva. El proyecto UbuntuDDE combina el poder de Ubuntu con la belleza de Deepin")
+![Deepin (DDE) es un entorno de trabajo con una interfaz intuitiva. El proyecto UbuntuDDE combina el poder de Ubuntu con la belleza de Deepin](/assets/img/blog/captura-pantalla-ubuntudde.webp "Deepin (DDE) es un entorno de trabajo con una interfaz intuitiva. El proyecto UbuntuDDE combina el poder de Ubuntu con la belleza de Deepin")
 
 <!-- https://www.comss.ru/page.php?id=7290 -->
 

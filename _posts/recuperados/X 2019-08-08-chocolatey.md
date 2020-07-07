@@ -4,7 +4,7 @@ title: >
     Chocolatey, el mejor instalador y actualizador de
     aplicaciones
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2018-03-01 07:03:36
 tags:

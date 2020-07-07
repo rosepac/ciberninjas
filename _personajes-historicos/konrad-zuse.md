@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "Konrad Zuse"
 description: 'Konrad Zuse, por su invención de la primera computadora digital, electromecánica controlada por programa y el primer lenguaje de programación de alto nivel, "Plankalkul".'
 excerpt: 'Konrad Zuse, por su invención de la primera computadora digital, electromecánica controlada por programa y el primer lenguaje de programación de alto nivel, "Plankalkul".'
@@ -7,9 +7,7 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/konrad-zuse/
 canonical_URL: https://computerhistory.org/profile/konrad-zuse/
-classes: wide
-header:
-  teaser: https://computerhistory.org/wp-content/uploads/2020/01/1999_konrad_zuse-e1580707862366.jpg
+thumbnail: https://computerhistory.org/wp-content/uploads/2020/01/1999_konrad_zuse-e1580707862366.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

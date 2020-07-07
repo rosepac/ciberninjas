@@ -16,23 +16,14 @@ categories:
 permalink: /catalogo/el-enemigo-conoce-el-sistema/
 description: "El enemigo conoce el sistema: Manipulación de ideas, personas e influencias después de la economía de la atención de Marta Peirano"
 excerpt: "El enemigo conoce el sistema: Manipulación de ideas, personas e influencias después de la economía de la atención de Marta Peirano"
-header:
-  overlay_image: /assets/images/catalogo/el-enemigo-conoce-el-sistemaxgrande.jpg
-  image_description: "El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención | Ciberninjas"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Amazon**"
-  actions:
-    - label: "+ SEGURIDAD INFORMÁTICA"
-      url: "/categoria/#seguridad-inform%C3%A1tica"
-    - label: "🛒 COMPRAR"
-      url: "https://amzn.to/2Z46eBx"
+feature-img: /assets/img/catalogo/el-enemigo-conoce-el-sistemaxgrande.jpg
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 sidebar:
   - title: "Autora"
-    image: /assets/images/catalogo/el-enemigo-conoce-el-sistemax250.jpg
+    image: /assets/img/catalogo/el-enemigo-conoce-el-sistemax250.jpg
     image_alt: "El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención: Ciberninjas"
     text: "Marta Peirano"
   - title: "Precio Papel"

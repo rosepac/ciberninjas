@@ -3,19 +3,13 @@ title: 💻 ▷ Cómo Aprender Diseño Web
 description: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera página web hasta lograr ser diseñadores web expertos'
 excerpt: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera página web hasta lograr ser diseñadores web expertos'
 published: true
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
-header:
-  teaser: /assets/images/paginas/diseno-web-unsplash.webp
-  overlay_image: /assets/images/paginas/diseno-web-unsplash.webp
-  overlay_filter: "0.1"
-  image_description: "Recursos de Diseño Web en Ciberninjas"
-  image_alt: "Recursos de Diseño Web en Ciberninjas"
-  caption: "Créditos: Unsplash"
-  actions:
-    - label: "Recursos Diseño Web"
-      url: "/diseño-web-recursos/"
+thumbnail: /assets/images/paginas/diseno-web-unsplash.webp
+feature-img: /assets/images/paginas/diseno-web-unsplash.webp
+actions:
+  - label: "Recursos Diseño Web"
+    url: "/diseño-web-recursos/"
 date: 2020-02-11 09:11:18
 last_modified_at:  2020-02-29 18:15:18
 permalink: /diseño-web/

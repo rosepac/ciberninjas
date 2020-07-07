@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ CadQuery: Módulo Python similar a OpenSCAD"
 description: "CadQuery es un módulo Python intuitivo y fácil de usar para construir modelos CAD paramétricos en 3D."
 excerpt: "CadQuery es un módulo Python intuitivo y fácil de usar para construir modelos CAD paramétricos en 3D."
@@ -9,14 +9,13 @@ date: 2020-01-28 17:28:12
 last_modified_at: 
 published: true
 canonical_URL: /impresiones-3d-modulo-python-cadquery/
-classes: wide
 categories:
 - Biblioteca Impresoras 3D
 tags:
 - Módulo Python
 # header:
 #  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
+# feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 #   overlay_filter: 0.2
 #   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
 #   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'

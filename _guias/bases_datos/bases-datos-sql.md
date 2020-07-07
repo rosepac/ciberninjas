@@ -5,22 +5,13 @@ description: "📁 Aprende desde cero todo lo que debes saber"
 excerpt: "📁 Aprende desde cero todo lo que debes saber"
 published: true
 last_modified_at: 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 date: 2020-02-07T19:10:00
 permalink: /bases-datos/
 canonical_URL: https://ciberninjas.com/bases-datos/
-header:
-  teaser: "/assets/images/paginas/sql-imagen-ciberninjasx1280.webp"
-  overlay_image: "/assets/images/paginas/sql-imagen-ciberninjasx1280.webp"
-  overlay_filter: 0.1
-  image_description: "Logotipo de SQL visto en Ciberninjas"
-  image_alt: "Logotipo de SQL visto en Ciberninjas"
-  caption: "Logotipo"
-  actions:
-    - label: "Aprender BBDD"
-      url: "/bases-datos-recursos/"
+thumbnail: "/assets/images/paginas/sql-imagen-ciberninjasx1280.webp"
+feature-img: "/assets/images/paginas/sql-imagen-ciberninjasx1280.webp"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

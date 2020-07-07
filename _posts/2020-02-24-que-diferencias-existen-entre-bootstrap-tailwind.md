@@ -1,15 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Bootstrap
 - Tailwind CSS
 categories:
 - Framework CSS
-header:
-  teaser: /assets/images/lenguajes-vs/tailwindcss-vs-bootstrap-framework.webp
+thumbnail: /assets/img/lenguajes-vs/tailwindcss-vs-bootstrap-framework.webp
+thumbnail2: /assets/img/lenguajes-vs/tailwindcss-vs-bootstrap-framework.webp
 title: '🎨 ▷ ¿Qué diferencias existen entre el framework de Boostrap y el framework de Tailwind CSS?'
 description: >-
   Vamos a repasar las diferencias existentes entre estos dos frameworks CSS desde el punto de vista de conocer cual de los dos es más útil
@@ -23,25 +22,25 @@ published: true
 
 ---
 
-![¿Qué diferencias existen entre el framework de Boostrap y el framework de Tailwind CSS?](/assets/images/lenguajes-vs/tailwindcss-vs-bootstrap-framework.webp "¿Qué diferencias existen entre el framework de Boostrap y el framework de Tailwind CSS?")
-
 En los últimos tiempos Tailwind CSS ha ganado mucha reputación entre los desarrolladores front end, siendo un numeroso grupo, los que tras probarlo deciden seguir usándolo como framework CSS de referencia dentro de sus "stacks", pilas o cajas de utilidades; llámenlo como prefieran.
+
+![¿Qué diferencias existen entre el framework de Boostrap y el framework de Tailwind CSS?](/assets/img/lenguajes-vs/tailwindcss-vs-bootstrap-framework.webp "¿Qué diferencias existen entre el framework de Boostrap y el framework de Tailwind CSS?")
 
 En este artículo se van a explorar las diferencias entre Bootstrap y Tailwind para tratar de transmitir la mayor información posible hacía las personas que aún tengan dudas sobre que herramienta utilizar.
 
-## Bootstrap
+## **Bootstrap**
 
 El framework de Bootstrap fue lanzado inicialmente el 19 de Agosto de 2011, ya hace casi 9 años. Como curiosidad, contar que fue desarrollado por el equipo de desarrollo de Twitter y posteriormente, siguió siendo desarrollado y mantenido por Mark Otto, Jacob Thornton y otro pequeño grupo de desarrolladores.
 
 En poco tiempo se convirtió en uno de los Frameworks CSS más populares y actualmente es el sexto proyecto más destacado en GitHub y sin lugar a dudas, se puede decir que miles y miles de desarrolladores y millones de proyectos lo incluyen en sus proyectos.
 
-## Tailwind CSS
+## **Tailwind CSS**
 
 Según la lista de contribuyentes del proyecto en Github, el proyecto fue desarrollado originalmente por Adam Wathan y su primer lanzamiento fue del 22 de octubre de 2019.
 
 Se describe como un framework CSS de "primera utilidad" y afirman que a la hora de su utilización: El desarrollo, es mucho más fluido, al implementar su "nuevo método".
 
-## Desarrollando con Bootstrap
+## **Desarrollando con Bootstrap**
 
 Bootstrap se basa en una metodología de CSS orientada a objetos, que se ha convertido en una de las formas más populares de administrar las hojas de estilo y sus clases. Antes de OOCSS, se creaban las clases y estilos por separado para cada uno de los componentes que requerían un aspecto diferente. Por ejemplo, si tenías 10 botones en una aplicación, se creaban 10 clases diferentes.
 
@@ -51,7 +50,7 @@ Aparte de esto, Bootstrap también incluye en su proyecto, a los preprocesadores
 
 Por ejemplo: Si tu color primario es el rojo, en un archivo CSS normal ese mismo color se va a repetir en todas las declaraciones. Con SASS, puede adjudicar esa propiedad a una variable, por lo que si una vez avanzado el proyecto deseas cambiar el color rojo, simplemente debes cambiarlo en un único punto del documento y ese cambio; se hará efectivo sobre toda la aplicación.
 
-## Desarrollando con Tailwind
+## **Desarrollando con Tailwind**
 
 Desde el proyecto de Tailwind CSS se definen como un framework de "primera utilidad". ¿Qué significa esto? Pues que se supone que en vez de escribir mucho CSS, escribirás muchas clases para los elementos HTML.
 
@@ -61,13 +60,13 @@ En Tailwind CSS tienes clases para casi todos los tipos de márgenes, rellenos, 
 
 Ahora, echemos un vistazo a cómo el marcado de un botón primario difiere entre Bootstrap y Tailwind CSS:
 <!-- contenido -->
-## Botón principal de Bootstrap
+## **Botón principal de Bootstrap**
 
 ```
 <button type="button" class="btn btn-primary">Primary</button>
 ```
 
-## Botón de Tailwind CSS
+## **Botón de Tailwind CSS**
 
 ```
 <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">

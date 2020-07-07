@@ -1,6 +1,6 @@
 ---
 title: "📰 TITULO"
-author_profile: true
+author: rosepac
 description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 date: FECHA

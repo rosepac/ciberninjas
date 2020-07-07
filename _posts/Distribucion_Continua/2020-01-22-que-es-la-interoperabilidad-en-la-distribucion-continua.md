@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ ¿Qué es la interoperabilidad dentro de la distribución continua?"
 description: "Vas a encontrarte explicado el concepto de interoperabilidad dentro del mundo CI / CD además del equipo de trabajo sobre el desarrollo del término en sí"
 excerpt: "Vas a encontrarte explicado el concepto de interoperabilidad dentro del mundo CI / CD además del equipo de trabajo sobre el desarrollo del término en sí"
@@ -9,22 +9,11 @@ date: 2020-01-22 19:10:12
 last_modified_at: 
 canonical_URL: https://ciberninjas.com/que-es-la-interoperabilidad-en-la-distribucion-continua/
 permalink: /que-es-la-interoperabilidad-en-la-distribucion-continua/
-classes: wide
+
 categories:
 - Distribución Continua
 tags:
 - CD Fundación
-# header:
-#  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_filter: 0.2
-#   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
-#   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'
-#   caption: "Créditos: Unsplash"
-# toc: false
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 El surgimiento de nuevas tecnologías y metodologías abiertas, como el desarrollo nativo sobre la nube y los microservicios, ha dado lugar a grandes avances en la industria de la programación y ha permitido agilizar los procesos de desarrollo además de implementar nuevas características y servicios; también mejorar los tiempos de entrega del producto final al usuario.

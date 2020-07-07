@@ -4,7 +4,7 @@ title: 🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Dise�
 description: '🔨 Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo'
 excerpt: '🔨 Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo'
 published: true
-author_profile: true
+author: rosepac
 comments: false
 date: 2020-05-07 10:13:18
 last_modified_at:
@@ -14,17 +14,11 @@ toc: false
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
 # toc_sticky: true
-classes: wide
-header:
-  teaser: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
-  overlay_image: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
-  overlay_filter: "0.1"
-  image_description: "Recursos de Diseño Gráfico en Ciberninjas"
-  image_alt: "Recursos de Diseño Gráfico en Ciberninjas"
-  caption: "Créditos: Unsplash"
-  actions:
-    - label: "Recursos Diseño Web"
-      url: "/cursos-animacion-diseno/"
+thumbnail: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
+feature-img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
+actions:
+  - label: "Recursos Diseño Web"
+    url: "/cursos-animacion-diseno/"
 
 ---
 

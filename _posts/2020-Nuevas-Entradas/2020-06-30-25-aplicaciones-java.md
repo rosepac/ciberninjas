@@ -1,19 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Java
 - Aplicaciones
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/2020-news/java-aplicaciones.webp
-  overlay_image: /assets/images/2020-news/java-aplicaciones.webp
-  overlay_filter: 0.2
-  image_description: 'Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría.'
-  image_alt: 'Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría.'
+thumbnail: /assets/img/2020-news/java-aplicaciones.webp
+feature-img: /assets/img/2020-news/java-aplicaciones.webp
 title: '▷ Las 25 mejores aplicaciones Java jamás programadas'
 description: >-
   Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría.
@@ -347,7 +342,7 @@ Hasta aquí la impresionante recopilación de programas creados por el lenguaje 
 **Fuente**: [Blog de Oracle](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written#anchor_4){:target="_blank" rel="nofollow,noreferrer"} por Alexa Morales directora de contenido para desarrolladores en [Oracle](@OracleJavaMag){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
-![Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría](/assets/images/2020-news/java-aplicaciones.webp "Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría")
+![Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría](/assets/img/2020-news/java-aplicaciones.webp "Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría")
 
 ### Relacionados
 

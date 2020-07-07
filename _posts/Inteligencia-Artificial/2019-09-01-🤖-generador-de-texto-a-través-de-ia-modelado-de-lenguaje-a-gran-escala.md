@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "\U0001F916 Generador de Texto a través de IA: Modelado de Lenguaje a Gran Escala"
 description: >-
   Actualización dentro del proyecto de Inteligencia Artificial capaz de predecir

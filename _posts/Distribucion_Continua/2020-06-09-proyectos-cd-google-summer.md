@@ -1,18 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Proyectos CD
 categories:
 - Distribución Continua
-header:
-  teaser: /assets/images/blog/google-summer-code-2.webp
-  overlay_image: /assets/images/blog/google-summer-code-2.webp
-  overlay_filter: 0.2
-  image_description: 'La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.'
-  image_alt: 'La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.'
+thumbnail: /assets/img/blog/google-summer-code-2.webp
+feature-img: /assets/img/blog/google-summer-code-2.webp
 title: '9 proyectos de la Fundación CD que participan en el Google Summer of Code de este año'
 description: >-
   La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.
@@ -92,6 +88,6 @@ Supratik Das: [Mejora la integración SCM](https://summerofcode.withgoogle.com/p
 > 🔥 Seguro también te interesa: [15 Mejores alternativas a Jenkins en 2020](https://ciberninjas.com/jenkins-alternativas/) >> [▷ ¿Qué es Tekton? Novedades y Cambios](https://ciberninjas.com/que-es-tekton/) >> [▷ Introducción a Zuul para mejorar el CI / CD](https://ciberninjas.com/introduccion-zuul-open-source/)
 {: .notice--danger}
 
-![La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.](/assets/images/blog/google-summer-code-2.webp "La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.")
+![La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.](/assets/img/blog/google-summer-code-2.webp "La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

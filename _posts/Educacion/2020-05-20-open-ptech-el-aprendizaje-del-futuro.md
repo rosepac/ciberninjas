@@ -3,18 +3,14 @@
 author_profile: false
 layout: splash
 comments: false
-classes: wide
+
 tags:
 - IBM
 - Cursos
 categories:
 - Educación
-header:
-  teaser: /assets/images/blog/ibm-ai-study.webp
-  overlay_image: /assets/images/blog/ibm-ai-study.webp
-  overlay_filter: 0.2
-  image_description: "Una plataforma de aprendizaje en línea gratuita sobre tecnologías líderes en la industria y habilidades profesionales del mañana."
-  image_alt: "Una plataforma de aprendizaje en línea gratuita sobre tecnologías líderes en la industria y habilidades profesionales del mañana."
+thumbnail: /assets/img/blog/ibm-ai-study.webp
+feature-img: /assets/img/blog/ibm-ai-study.webp
 title: 'Open P-Tech: Aprendizaje digital gratis de habilidades técnicas para el futuro'
 description: >-
   Una plataforma de aprendizaje en línea gratuita sobre tecnologías líderes en la industria y habilidades profesionales del mañana.

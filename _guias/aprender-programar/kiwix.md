@@ -1,10 +1,9 @@
 ---
 
 title: "\U0001F528 Guía Kiwix: La Wikipedia y sus Repositorios Offline"
-author_profile: true
+author: rosepac
 description: "\U0001F4DA Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado"
 excerpt: "\U0001F4DA Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado"
-classes: wide
 published: true
 date: 2019-09-27 01:10:23
 permalink: /kiwix/

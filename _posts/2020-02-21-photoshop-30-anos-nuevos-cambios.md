@@ -1,15 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Photoshop
 categories:
 - Aplicaciones
 - Inteligencia Artificial
-header:
-  teaser: /assets/images/blog/adobe-photoshop-1.webp
+thumbnail: /assets/img/blog/adobe-photoshop-1.webp
+thumbnail2: /assets/img/blog/adobe-photoshop-1.webp
 title: '🔥 ▷ Adobe Photoshop cumple 30 años, celebrándolo con nuevas funciones basadas en la Inteligencia Artificial'
 description: >-
   El software de diseño y fotografía Photoshop crea nuevas funciones basadas en la inteligencia artificial para celebrar su aniversario de su 30 cumpleaños
@@ -23,15 +22,15 @@ published: true
 
 ---
 
-![Adobe Photoshop cumple 30 años en su máximo explendor y muestra nuevas y mejores herramientas gracias a la inteligencia artificial](/assets/images/blog/adobe-photoshop-1.webp "Adobe Photoshop cumple 30 años en su máximo explendor y muestra nuevas y mejores herramientas gracias a la inteligencia artificial")
-
 El software más usado del mundo a la hora de manipular y editar imágenes: Adobe Photoshop, ha cumplido 30 años. Después de sus últimas novedades como el lanzamiento de su aplicación para iPad a lo largo del año pasado, la compañía desea ir ampliando su gama de productos enfocados hacía nuevos dispositivos durante este 2020. Pero para eso, aún habrá que esperar.
+
+![Adobe Photoshop cumple 30 años en su máximo explendor y muestra nuevas y mejores herramientas gracias a la inteligencia artificial](/assets/img/blog/adobe-photoshop-1.webp "Adobe Photoshop cumple 30 años en su máximo explendor y muestra nuevas y mejores herramientas gracias a la inteligencia artificial")
 
 Por ahora, lo que si que han presentado desde Adobe, son cuatro nuevas funciones que implementa la tecnología de inteligencia artificial dentro de sus aplicaciones de escritorio e iPad.
 
 En un anuncio, hace unos días, los ejecutivos de Adobe Photoshoop se pronunciaban respecto al hecho y la importancia del avance de la inteligencia artificial; y por tanto, están centrados, en el desarrollo constante de nuevas funciones centradas en el uso del motor, denominado Sensei, que la propia aplicación / software implementa integrada en su core.
 
-![Innovaciones de Adobe Photoshop durante sus 30 años de vida](/assets/images/blog/adobe-30-1.webp "Innovaciones de Adobe Photoshop durante sus 30 años de vida")
+![Innovaciones de Adobe Photoshop durante sus 30 años de vida](/assets/img/blog/adobe-30-1.webp "Innovaciones de Adobe Photoshop durante sus 30 años de vida")
 
 Enfocado en su software más potente, el de escritorio, la compañía ofrece ahora la función de relleno del contenido sobre múltiples objetos a la vez. Con esta característica, Photoshop te va a permitir eliminar varios objetos a la vez y mientras tanto, ir rellenando el espacio con el contenido del fondo o sustituirlo con el contenido de otra parte de la fotografía.
 
@@ -50,7 +49,7 @@ Con seguridad las nuevas versiones de software más rápidas y enfocadas incluso
 **Fuente**\: [The Next Web](https://thenextweb.com/apps/2020/02/19/adobe-photoshop-completes-30-years-launches-new-ai-powered-features/ "Adobe Photoshop completa 30 años, lanza nuevas funciones basadas en IA"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
-## Relacionados
+### Relacionados
 
 * [🎨 ▷ Recursos de Diseño Gráfico](/dise%C3%B1o-grafico-recursos/)
 * [💻 ▷ Recursos \ Cómo Aprender Diseño Web](/diseño-web/)

@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "Lecturas"
 description: 'Lecturas Pendientes o En Proceso.'
 excerpt: 'Lecturas Pendientes o En Proceso.'
@@ -7,15 +7,9 @@ date: 2019-10-21
 last_modified_at: 2019-11-28 05:50:20
 published: true
 permalink: /lecturas/
-classes: wide
 canonical_URL: https://ciberninjas.com/lecturas/
-header:
-  teaser: https://i.ibb.co/1XCx7jG/libro-interesantes.gif
-  overlay_image: https://i.ibb.co/yqymDJj/photo-1505489304219-85ce17010209-ixlib-rb-1-2.jpg
-  overlay_filter: "0.2"
-  image_description: "Chica leyendo relajada con su café: Unsplash & Ciberninjas"
-  image_alt: "Chica leyendo relajada con su café: Unsplash & Ciberninjas"
-  caption: "Chica leyendo relajada con su café: Unsplash & Ciberninjas"
+thumbnail: https://i.ibb.co/1XCx7jG/libro-interesantes.gif
+feature-img: https://i.ibb.co/yqymDJj/photo-1505489304219-85ce17010209-ixlib-rb-1-2.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

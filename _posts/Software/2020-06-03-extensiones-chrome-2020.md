@@ -1,20 +1,16 @@
 ---
 
-author_profile: true     
+author: rosepac     
 comments: false
-classes: wide
+
 layout: splash
 tags:
 - Chrome
 - Extensiones
 categories:
 - Navegadores
-header:
-  teaser: /assets/images/blog/chrome-extensiones.webp
-  overlay_image: /assets/images/blog/chrome-extensiones.webp
-  overlay_filter: 0.2
-  image_description: 'Aumenta el potencial de tu navegador Google Chrome con estas espectaculares extensiones y haz crecer tu productividad, eficiencia y seguridad.'
-  image_alt: 'Aumenta el potencial de tu navegador Google Chrome con estas espectaculares extensiones y haz crecer tu productividad, eficiencia y seguridad.'
+thumbnail: /assets/img/blog/chrome-extensiones.webp
+feature-img: /assets/img/blog/chrome-extensiones.webp
 title: 'Las 7 mejores extensiones de Google Chrome 2020'
 description: >-
   Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.
@@ -121,6 +117,6 @@ Nimbus es la extensión del futuro, que más tarde o temprano va a lograr sustit
 > 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
-![Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.](/assets/images/blog/chrome-extensiones.webp "Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.")
+![Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.](/assets/img/blog/chrome-extensiones.webp "Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

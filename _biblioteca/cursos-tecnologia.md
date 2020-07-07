@@ -8,25 +8,8 @@ date: 2020-03-13T22:00:00.000+02:00
 last_modified_at: 
 permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
-classes: wide
-header:
-  teaser: "/assets/images/blog/tecnologia-programando.webp"
-  overlay_image: "/assets/images/blog/tecnologia-programando.webp"
-  overlay_filter: 0.2
-  image_description: 'Los mejores cursos con los que aprender a programar y cualquier otra tecnología web | Ciberninjas'
-  image_alt: 'Los mejores cursos con los que aprender a programar y cualquier otra tecnología web | Ciberninjas'
-  caption: "Créditos: Unsplash, de Dominio Público"
-# image: 
-#   path: &image /assets/images/imac-glitch-feature.jpg
-#   width: 1024
-#   height: 512
-#   feature: *image
-# twitter:
-#   card: summary_large_image
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: false
+thumbnail: "/assets/images/blog/tecnologia-programando.webp"
+thumbnail2: "/assets/images/blog/tecnologia-programando.webp"
 sidebar:
   nav: cursos-espanol
 ---
