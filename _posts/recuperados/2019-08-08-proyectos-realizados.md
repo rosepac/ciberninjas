@@ -2,7 +2,7 @@
 layout: post
 title: Proyectos Realizados
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2018-12-01 02:12:14
 tags: [ ]

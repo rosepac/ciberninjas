@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python 🎓"
 description: "Los mejores tutoriales, cursos y artículos sobre machine learning / aprendizaje profundo para 2020"
 excerpt: "Los mejores tutoriales, cursos y artículos sobre machine learning / aprendizaje profundo para 2020"
@@ -14,17 +14,8 @@ tags:
 - Python
 - PNL
 - Recursos
-header:
-  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-  overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-  overlay_filter: 0.2
-  image_description: '🤖 Cómo empezar con el aprendizaje automático o machine learning en 2020'
-  image_alt: '🤖 Cómo empezar con el aprendizaje automático o machine learning en 2020'
-  caption: "Créditos: Unsplash"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+thumbnail: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
+feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 ---
 
 El artículo contiene el mejor contenido ***tutorial\*** que he encontrado hasta ahora. De ninguna manera es una lista exhaustiva de todos los tutoriales relacionados con ML en la web, eso sería abrumador y duplicativo. Además, hay un montón de contenido mediocre por ahí. Mi objetivo era vincularme a los mejores tutoriales que encontré sobre los subtemas importantes dentro del aprendizaje automático y la PNL.

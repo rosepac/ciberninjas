@@ -1,8 +1,7 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - MariaDB
 - MySQL
@@ -13,8 +12,8 @@ tags:
 - Firebird
 categories:
 - Bases Datos
-header:
-  teaser: /assets/images/blog/marzo-hacking-wallpaper-pc-so
+thumbnail: /assets/img/blog/marzo-hacking-wallpaper-pc-so
+feature-img: /assets/img/blog/marzo-hacking-wallpaper-pc-so
 title: '🥇 ▷ Los 7 mejores software de bases de datos de código abierto 2020'
 description: >-
   Lista de los mejores sistemas de bases de datos de software libre en 2020: MariaDB, MySQL, PostgreSQL, MongoDB, SQLite, CouchBase, Firebird
@@ -28,36 +27,19 @@ published: false
 
 ---
 
-![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/images/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
+El objetivo básico de cualquier base de datos debe ser recopilar información, organizarla y proporcionar acceso rápido a ella. Las bases de datos son la columna vertebral de todas las aplicaciones empresariales modernas. A continuación vas a poder encontrarte con el software de base de datos basado en código abierto más popular.
 
-<!-- CONTENIDO INTRODUCCION -->
+![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
 
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/software-bases-datos-código-abierto-2020/"></a></li>
-    <li><a href="/software-bases-datos-código-abierto-2020/"></a></li>
-    <li><a href="/software-bases-datos-código-abierto-2020/"></a></li>
-    <li><a href="/software-bases-datos-código-abierto-2020/"></a></li>
-    <li><a href="/software-bases-datos-código-abierto-2020/"></a></li>
-    <li><a href="/software-bases-datos-código-abierto-2020/"></a></li>
-    <li><a href="/software-bases-datos-código-abierto-2020/"></a></li>
-  </ol>
-</nav>
-</details>
-<br />
+- [El software de base de datos de código abierto más popular](#el-software-de-base-de-datos-de-código-abierto-más-popular)
+- [
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/software-bases-datos-código-abierto-2020/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-El objetivo básico de cualquier base de datos debe ser recopilar información, organizarla y proporcionar acceso rápido a ella. Las bases de datos son la columna vertebral de todas las aplicaciones empresariales modernas.
-
 Las bases de datos de código abierto inicialmente parecen ser una alternativa atractiva a las costosas soluciones de Oracle, Microsoft o IBM.
 
 A medida que las bases de datos se vuelven más voluminosas y complejas, las plataformas de código abierto como MySQL o PostgreSQL compiten cada vez más con productos patentados en áreas específicas. En este artículo, describiremos el mejor software de base de datos de código abierto más utilizado.
-
-### El software de base de datos de código abierto más popular
 
 Con solo mirar la tipología, uno se da cuenta de que la base de datos no es un mundo al alcance de todos. Sin embargo, nos hemos atrevido a compilar algunos de los mejores programas gratuitos de bases de datos.
 

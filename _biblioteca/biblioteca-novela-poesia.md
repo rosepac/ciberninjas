@@ -5,17 +5,13 @@ excerpt: "Miles de libros PDF gratuitos y de dominio publico novelas clásicas, 
 author_profile: false
 layout: splash
 published: true
-classes: wide
 comments: false
 date: 2020-05-27
 last_modified_at: 
 permalink: /biblioteca-novela-poesia/
 canonical_URL: https://ciberninjas.com/biblioteca-novela-poesia/
-header:
-  teaser: "/assets/images/paginas/libros-clasicos-novelas-historia-revistas.webp"
-  overlay_image: "/assets/images/paginas/libros-clasicos-novelas-historia-revistas.webp"
-  image_alt: "📚 Enlaces a Miles de libros PDF gratuitos y de dominio publico."
-  image_description: "📚 Enlaces a Miles de libros PDF gratuitos y de dominio publico."
+thumbnail: "/assets/images/paginas/libros-clasicos-novelas-historia-revistas.webp"
+feature-img: "/assets/images/paginas/libros-clasicos-novelas-historia-revistas.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

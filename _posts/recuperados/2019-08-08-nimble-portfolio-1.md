@@ -2,7 +2,7 @@
 layout: post
 title: NIMBLE PORTFOLIO 1
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-05-31 10:05:43
 tags: [ ]

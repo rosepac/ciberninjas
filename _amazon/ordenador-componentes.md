@@ -1,22 +1,15 @@
 ---
-
-author_profile: true
+author: rosepac
 title: "🥇 ▷ Las Mejores Ofertas de Componentes para Ordenadores de 2020 🖥"
 description: "Las mejores piezas, calidad / precio, necesarias para mejorar tu PC de sobremesa y lograr convertirlo en un auténtico cohete"
 excerpt: "Las mejores piezas, calidad / precio, necesarias para mejorar tu PC de sobremesa y lograr convertirlo en un auténtico cohete"
 permalink: /ordenadores-componentes/
 canonical_URL: https://ciberninjas.com/ordenadores-componentes/
 published: true
-classes: wide
 comments: false
 date: 2020-03-20 23:16:00 +0200
-header:
-  teaser: 'https://i.ibb.co/dghC7JV/ordenador-componentes.gif'
-  overlay_image: 'https://i.ibb.co/gmjL2qb/photo-1513366884929-f0b3bedfb653-ixlib-rb-1-2.jpg'
-  overlay_filter: 0.2
-  image_description: 'Las mejores piezas, calidad / precio, necesarias para mejorar tu PC de sobremesa y lograr convertirlo en un auténtico cohete'
-  image_alt: 'Las mejores piezas, calidad / precio, necesarias para mejorar tu PC de sobremesa y lograr convertirlo en un auténtico cohete'
-  caption: "**Créditos**: Creación propia Ciberninjas"
+thumbnail: 'https://i.ibb.co/dghC7JV/ordenador-componentes.gif'
+feature-img: 'https://i.ibb.co/gmjL2qb/photo-1513366884929-f0b3bedfb653-ixlib-rb-1-2.jpg'
 toc: false
 toc_label: "Contenidos"
 toc_icon: user-ninja

@@ -2,7 +2,7 @@
 layout: post
 title: Biblioteca de estudio CISCO y temario de redes locales y servicios en red
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2017-11-18 08:11:38
 tags: [ ]

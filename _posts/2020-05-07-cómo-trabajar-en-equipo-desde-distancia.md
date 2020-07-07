@@ -2,13 +2,13 @@
 
 author_profile: false
 comments: false
-classes: wide
+
 tags:
 - Consejos
 categories:
 - Teletrabajo
-header:
-  teaser: /assets/images/blog/trabajo-desde-casa-teletrabajo.webp
+thumbnail: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
+feature-img: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
 title: '¿Cómo aprender a trabajar productivamente en equipo desde la distancia?'
 description: >-
   ✅ Curso completo para trabajar adecuadamente de forma remota, uniendo y fortaleciendo al grupo de personas implicadas.

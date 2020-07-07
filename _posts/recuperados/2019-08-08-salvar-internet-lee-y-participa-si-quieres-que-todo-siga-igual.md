@@ -4,7 +4,7 @@ title: >
     Salvar Internet, ¡lee y participa si quieres que todo siga
     igual!
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2018-12-03 07:12:32
 tags:

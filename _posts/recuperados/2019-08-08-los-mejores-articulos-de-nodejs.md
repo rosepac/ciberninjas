@@ -2,7 +2,7 @@
 layout: post
 title: Los mejores artículos de NodeJS
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-03-20 04:03:28
 tags: [ ]

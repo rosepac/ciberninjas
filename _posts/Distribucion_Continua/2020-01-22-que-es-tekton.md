@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ ¿Qué es Tekton? Novedades y Cambios"
 description: "Tekton, es un recurso de canalización nativo para Kubernetes. El proyecto de tuberías de Tekton proporciona recursos de Kubernetes para declarar tuberías de integración y depuración continua."
 excerpt: "Tekton, es un recurso de canalización nativo para Kubernetes. El proyecto de tuberías de Tekton proporciona recursos de Kubernetes para declarar tuberías de integración y depuración continua."
@@ -7,13 +7,11 @@ published: true
 comments: false
 date: 2020-01-22 19:10:12
 last_modified_at: 2020-05-04 19:10:12
-header:
-  teaser: /assets/images/blog/pagina-tekton.webp
-  image_description: 'Tekton, es un recurso de canalización nativo para Kubernetes. El proyecto de tuberías de Tekton proporciona recursos de Kubernetes para declarar tuberías de integración y depuración continua.'
-  image_alt: 'Tekton, es un recurso de canalización nativo para Kubernetes. El proyecto de tuberías de Tekton proporciona recursos de Kubernetes para declarar tuberías de integración y depuración continua.'
+thumbnail: /assets/img/blog/pagina-tekton.webp
+thumbnail2: /assets/img/blog/pagina-tekton.webp
 canonical_URL: https://ciberninjas.com/que-es-tekton/
 permalink: /que-es-tekton/
-classes: wide
+
 categories:
 - Distribución Continua
 tags:
@@ -21,7 +19,7 @@ tags:
 - Tekton
 # header:
 #  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
+# feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 #   overlay_filter: 0.2
 #   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
 #   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'
@@ -32,7 +30,7 @@ tags:
 # toc_sticky: true
 ---
 
-![Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes](/assets/images/blog/pagina-tekton.webp "Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes")
+![Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes](/assets/img/blog/pagina-tekton.webp "Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes")
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>

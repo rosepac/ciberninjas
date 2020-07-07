@@ -15,16 +15,7 @@ date: 2019-10-13 22:25:54
 permalink: /catalogo/nuestra-casa-esta-ardiendo
 description: '🌼 La historia de Greta Thunberg y su familia enfrentada a una crisis que nunca habían previsto. Su hija menor ha dejado de comer y hablar por ver su futuro en peligro en un planeta que se calienta demasiado.'
 excerpt: '🌼 La historia de Greta Thunberg y su familia enfrentada a una crisis que nunca habían previsto. Su hija menor ha dejado de comer y hablar por ver su futuro en peligro en un planeta que se calienta demasiado.'
-header:
-  overlay_image: /assets/images/catalogo/greta-nuestra-casa-esta-ardiendo.jpg
-  image_description: "Nuestra Casa Está Ardiendo en Español: Los mejores libros de Medio Ambiente y Sociología | Ciberninjas"
-  overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Amazon**"
-  actions:
-    - label: "+ SOCIOLOGÍA"
-      url: "/categoria/#sociología"
-    - label: "🛒 COMPRAR"
-      url: "https://amzn.to/2MenQqY"
+feature-img: /assets/img/catalogo/greta-nuestra-casa-esta-ardiendo.jpg
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -33,7 +24,7 @@ author_profile: false
 # IMAGEN DE TAMAÑO REDUCIDO X250 DE ANCHO MÁXIMO
 sidebar:
   - title: "Autor"
-    image: /assets/images/catalogo/greta-nuestra-casa-esta-ardiendox225.jpg
+    image: /assets/img/catalogo/greta-nuestra-casa-esta-ardiendox225.jpg
     image_alt: "🌼 La historia de Greta Thunberg y su familia enfrentada a una crisis que nunca habían previsto. Su hija menor ha dejado de comer y hablar por ver su futuro en peligro en un planeta que se calienta demasiado."
     text: "Greta Thunberg"
     nav: catalogo

@@ -2,18 +2,14 @@
 
 author_profile: false
 comments: false
-classes: wide
+
 layout: splash
 tags:
 - VPN
 categories:
 - Software
-header:
-  teaser: /assets/images/.webp
-  overlay_image: /assets/images/.webp
-  overlay_filter: 0.2
-  image_description: ''
-  image_alt: ''
+thumbnail: /assets/img/.webp
+feature-img: /assets/img/.webp
 title: ''
 description: >-
   .

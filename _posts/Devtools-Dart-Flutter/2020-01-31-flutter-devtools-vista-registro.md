@@ -4,13 +4,12 @@ title: '🚀 ¿Cómo usar la vista de registro de DevTools con Flutter?'
 excerpt: '👩‍🚀 Primeros pasos de uso de la vista de registro de DevTools sobre Flutter.'
 description: '👩‍🚀 Primeros pasos de uso de la vista de registro de DevTools sobre Flutter.'
 published: true
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 date: 2020-01-31 14:45:33
 last_modified_at: 
-header:
-  teaser: https://flutter.dev/assets/tools/devtools/logging_log_entries-04dfd1e7ef59a7205de628a99ffc0780e9a382c4b9aca66a275aa72548f88484.png
+thumbnail: https://flutter.dev/assets/tools/devtools/logging_log_entries-04dfd1e7ef59a7205de628a99ffc0780e9a382c4b9aca66a275aa72548f88484.png
+thumbnail2: https://flutter.dev/assets/tools/devtools/logging_log_entries-04dfd1e7ef59a7205de628a99ffc0780e9a382c4b9aca66a275aa72548f88484.png
 tags:
 - Flutter
 - Dart

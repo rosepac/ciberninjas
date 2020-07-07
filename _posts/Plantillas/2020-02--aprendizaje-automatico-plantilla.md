@@ -1,14 +1,13 @@
 ---
-
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - 
 categories:
 - Aprendizaje Automático
-header:
-  teaser: /assets/images/frameworks-ai/tensorflow-ciberninjas.png
+thumbnail: /assets/img/frameworks-ai/tensorflow-ciberninjas.png
+thumbnail2: /assets/img/frameworks-ai/tensorflow-ciberninjas.png
 title: '🤖 ▷ '
 description: >-
   ''
@@ -19,10 +18,9 @@ permalink: //
 date: 2020-02-24 00:32:32
 last_modified_at: 
 published: false
-
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 * [****]()
 

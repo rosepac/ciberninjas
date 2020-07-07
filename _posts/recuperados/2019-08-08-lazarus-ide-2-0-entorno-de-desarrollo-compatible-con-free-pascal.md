@@ -4,7 +4,7 @@ title: >
     Lazarus IDE 2.0, entorno de desarrollo compatible con Free
     Pascal
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-02-07 05:02:39
 tags:

@@ -14,7 +14,7 @@ categories:
   - Marketing
   - Psicología
 header:
-  overlay_image: /.jpg
+feature-img: /.jpg
   image_description: "TITULO - DESCRIPCION | Visto en Ciberninjas"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: ****"

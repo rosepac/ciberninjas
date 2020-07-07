@@ -1,18 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Diagramas
 categories:
 - Herramientas
-header:
-  teaser: /assets/images/blog/diagramas-texto.webp
-  overlay_image: /assets/images/blog/diagramas-texto.webp
-  overlay_filter: 0.2
-  image_description: 'Una lista completa de varias herramientas de texto a diagrama.'
-  image_alt: 'Una lista completa de varias herramientas de texto a diagrama.'
+thumbnail: /assets/img/blog/diagramas-texto.webp
+feature-img: /assets/img/blog/diagramas-texto.webp
 title: '▷ Herramientas para transferir texto a diagrama'
 description: >-
   Una lista completa de varias herramientas de texto a diagrama.
@@ -26,7 +21,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 https://smusamashah.github.io/text-to-diagram
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>

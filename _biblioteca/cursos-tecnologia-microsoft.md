@@ -3,16 +3,11 @@
 title: "▷ Cursos Múltiples de Microsoft, por Diferentes Rutas de Aprendizaje 🎓"
 description: "👩‍🏫 Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
 excerpt: "👩‍🏫 Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
-author_profile: true
+author: rosepac
 date: 2019-10-14T15:03:00
 last_modified_at: 2019-11-27T22:05:10
-header:
-  overlay_image: "/assets/images/academia-microsoft-ciberninjas.webp"
-  overlay_filter: 0.2
-  image_description: Cursos Múltiples de Microsoft. Catalogados por Diferentes Rutas de Aprendizaje e Intereses | Ciberninjas
-  image_alt: Cursos Múltiples de Microsoft. Catalogados por Diferentes Rutas de Aprendizaje e Intereses | Ciberninjas
-  caption: "**Créditos**: Photo by [Ashkan Forouzani](https://unsplash.com/@ashkfor121?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/microsoft?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) editado por Ciberninjas"
-  teaser: "/assets/images/academia-microsoft-ciberninjas.webp"
+thumbnail: "/assets/images/academia-microsoft-ciberninjas.webp"
+feature-img: "/assets/images/academia-microsoft-ciberninjas.webp"
 published: true
 permalink: /cursos-tecnologia-microsoft/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia-microsoft/

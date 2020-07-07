@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Diseño Gráfico
 categories:
 - Software
-header:
-  teaser: /assets/images/blog/abril-programas-diseno.webp
+thumbnail: /assets/img/blog/abril-programas-diseno.webp
+feature-img: /assets/img/blog/abril-programas-diseno.webp
 title: '🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2020'
 description: >-
   Programas para crear realizar diseño gráfico y crear dibujos en Windows o Android.
@@ -22,7 +21,7 @@ published: true
 
 ---
 
-![Programas para crear realizar diseño gráfico y crear dibujos en Windows o Android 2020](/assets/images/blog/abril-programas-diseno.webp "Programas para crear realizar diseño gráfico y crear dibujos en Windows o Android 2020")
+![Programas para crear realizar diseño gráfico y crear dibujos en Windows o Android 2020](/assets/img/blog/abril-programas-diseno.webp "Programas para crear realizar diseño gráfico y crear dibujos en Windows o Android 2020")
 
 Hoy, 27 de Abril, es el día mundial del diseño gráfico; y por ello, voy a elegir las mejores aplicaciones de diseño gráfico para Windows y Android. Espero que esta publicación sea una oportunidad increíble para aumentar tu gama de aplicaciones de dibujo, tanto para los ordenadores con sistema operativo de Windows como para móviles con el sistema de Android.
 
@@ -56,7 +55,7 @@ A continuación, voy a intentar seleccionar las aplicaciones que más me han gus
 
 ## **[1. Krita](https://krita.org/es/){:target="_blank" rel="nofollow,noreferrer"}**
 
-![1. Krita, uno de los mejores programas de diseño para Windows o Android 2020](/assets/images/blog/programas-diseno/programa-diseno-1.webp "1. Krita, uno de los mejores programas de diseño para Windows o Android 2020")
+![1. Krita, uno de los mejores programas de diseño para Windows o Android 2020](/assets/img/blog/programas-diseno/programa-diseno-1.webp "1. Krita, uno de los mejores programas de diseño para Windows o Android 2020")
 
 **Krita es un programa de dibujo y pintura de código abierto**, y es gratis. Tiene **una interfaz de usuario excelente y personalizable**. Puede mover los acopladores y paneles y colocarlos en cualquier lugar de acuerdo con su flujo de trabajo. Krita también tiene una rueda de colores y un panel de referencia integrado. Hay más de 9 motores de pincel para ayudarlo a personalizar su pincel. También puede usar el Administrador de recursos para importar paquetes de pinceles y texturas de otros artistas.
 
@@ -65,7 +64,7 @@ A continuación, voy a intentar seleccionar las aplicaciones que más me han gus
 
 ## **[2. Autodesk Sketchbook](https://sketchbook.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
-![2. Autodesk Sketchbook, uno de los mejores programas de diseño para Windows o Android 2020](/assets/images/blog/programas-diseno/programa-diseno-2.webp "2. Autodesk Sketchbook, uno de los mejores programas de diseño para Windows o Android 2020")
+![2. Autodesk Sketchbook, uno de los mejores programas de diseño para Windows o Android 2020](/assets/img/blog/programas-diseno/programa-diseno-2.webp "2. Autodesk Sketchbook, uno de los mejores programas de diseño para Windows o Android 2020")
 
 **AutoDesk Sketchbook es una gran herramienta que presenta varias tintas**, **lápices**, **marcadores y más de 190 pinceles que puede personalizar**. También puede acceder a la exclusiva biblioteca de colores Copic®, que alberga una selección de muestras de colores. Es posible exportar sus dibujos como PSD, JPG, PNG, BMP y TIFF. La interfaz es fácil de usar, por lo que aprovechará al máximo en poco tiempo. Por último, pero no menos importante, el AutoDesk Sketchbook solía pagarse, ¡pero ahora es completamente gratis!
 
@@ -76,7 +75,7 @@ A continuación, voy a intentar seleccionar las aplicaciones que más me han gus
 
 ## **[3. Fire Alpaca](https://firealpaca.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
-![3. Fire Alpaca, uno de los mejores programas de diseño para Windows o Android 2020](/assets/images/blog/programas-diseno/programa-diseno-3.webp "3. Fire Alpaca, uno de los mejores programas de diseño para Windows o Android 2020")
+![3. Fire Alpaca, uno de los mejores programas de diseño para Windows o Android 2020](/assets/img/blog/programas-diseno/programa-diseno-3.webp "3. Fire Alpaca, uno de los mejores programas de diseño para Windows o Android 2020")
 
 FireAlpaca también es de código abierto y está disponible tanto en Mac como en Windows. Es de uso gratuito y está disponible en 10 idiomas. Es bastante fácil de aprender y usar. FireAlpaca sobresale en efectos de capa. Puede encontrar las herramientas de capas más populares que están disponibles en muchos servicios premium. Además de eso, los creadores también han estado creando sus propias herramientas de capas. Puede dibujar con pluma y tinta y también utilizar acuarela, colores pastel y tiza. Es una gran herramienta gratuita para artistas.
 
@@ -87,7 +86,7 @@ Puede crear su propia obra de arte digital con estas excelentes alternativas de 
 
 ## **[4. MediBang Paint](https://medibangpaint.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
-![4. Medibang Paint, uno de los mejores programas de diseño para Windows o Android 2020](/assets/images/blog/programas-diseno/programa-diseno-4.webp "4. Medibang Paint, uno de los mejores programas de diseño para Windows o Android 2020")
+![4. Medibang Paint, uno de los mejores programas de diseño para Windows o Android 2020](/assets/img/blog/programas-diseno/programa-diseno-4.webp "4. Medibang Paint, uno de los mejores programas de diseño para Windows o Android 2020")
 
 Si está buscando una herramienta para crear su próxima serie de cómics, MediBang Paint es la solución perfecta.
 
@@ -100,7 +99,7 @@ Familiarizarse con la herramienta no debería llevar demasiado tiempo ya que hay
 
 ## **[5. MyPaint 2.0](http://mypaint.org/){:target="_blank" rel="nofollow,noreferrer"}**
 
-![5. MyPaint 2.0 uno de los mejores programas de diseño para Windows o Android 2020](/assets/images/blog/programas-diseno/programa-diseno-5.webp "5. MyPaint 2.0 uno de los mejores programas de diseño para Windows o Android 2020")
+![5. MyPaint 2.0 uno de los mejores programas de diseño para Windows o Android 2020](/assets/img/blog/programas-diseno/programa-diseno-5.webp "5. MyPaint 2.0 uno de los mejores programas de diseño para Windows o Android 2020")
 
 MyPaint comenzó en 2004 cuando Martin Renold se compró una tableta gráfica Wacom. Se dio cuenta de que el programa que estaba usando a veces dejaba caer un trazo cuando garabateaba demasiado rápido. Pensó que podría ser más expresivo si su pincel reaccionara de manera diferente a la presión y la velocidad.
 
@@ -116,7 +115,7 @@ El modo de pantalla completa ordena la interfaz, dejándote solo con tu pincel y
 
 ## **[6. ArtFlow](http://artflowstudio.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
-![6. ArtFlow, uno de los mejores programas de diseño para Windows o Android 2020](/assets/images/blog/programas-diseno/programa-diseno-6.webp "6. ArtFlow, uno de los mejores programas de diseño para Windows o Android 2020")
+![6. ArtFlow, uno de los mejores programas de diseño para Windows o Android 2020](/assets/img/blog/programas-diseno/programa-diseno-6.webp "6. ArtFlow, uno de los mejores programas de diseño para Windows o Android 2020")
 
 ArtFlow es un estudio de diseño exclusivo de Android. La versión gratuita incluye nueve pinceles personalizables, un selector de color, una herramienta de simetría y soporte para dos capas que es más que suficiente para un cajón de hobby. Las características premium de ArtFlow son más para artistas digitales experimentados y aspirantes que buscan una aplicación de dibujo de Android.
 
@@ -125,7 +124,7 @@ ArtFlow es un estudio de diseño exclusivo de Android. La versión gratuita incl
 
 ## **[7. Adobe Illustrator Draw](https://www.adobe.com/products/draw.html){:target="_blank" rel="nofollow,noreferrer"}**
 
-![7. Adobe Illustrator Draw, uno de los mejores programas de diseño para Windows o Android 2020](/assets/images/blog/programas-diseno/programa-diseno-7.webp "7. Adobe Illustrator Draw, uno de los mejores programas de diseño para Windows o Android 2020")
+![7. Adobe Illustrator Draw, uno de los mejores programas de diseño para Windows o Android 2020](/assets/img/blog/programas-diseno/programa-diseno-7.webp "7. Adobe Illustrator Draw, uno de los mejores programas de diseño para Windows o Android 2020")
 
 Una aplicación de dibujo de gráficos vectoriales de Adobe (Android e iOS) se puede mejorar con la integración de Creative Cloud. Hay 5 bolígrafos personalizables, soporte de stylus para dispositivos populares. Puede guardar su trabajo en su dispositivo móvil y abrirlo en la versión de escritorio de Illustrator más adelante. Se sincroniza con Photoshop mediante la exportación de los archivos PNG, y los activos se pueden importar de Color CC y Shape CC, lo que le ayuda a trabajar donde desee.
 
@@ -134,7 +133,7 @@ Una aplicación de dibujo de gráficos vectoriales de Adobe (Android e iOS) se p
 
 ## **[8. Adobe Photoshop Sketch](https://play.google.com/store/apps/details?id=com.adobe.creativeapps.sketch){:target="_blank" rel="nofollow,noreferrer"}**
 
-![8. Adobe Photoshop Sketch, uno de los mejores programas de diseño para Windows o Android 2020](/assets/images/blog/programas-diseno/programa-diseno-8.webp "8. Adobe Photoshop Sketch, uno de los mejores programas de diseño para Windows o Android 2020")
+![8. Adobe Photoshop Sketch, uno de los mejores programas de diseño para Windows o Android 2020](/assets/img/blog/programas-diseno/programa-diseno-8.webp "8. Adobe Photoshop Sketch, uno de los mejores programas de diseño para Windows o Android 2020")
 
 Desde lápices hasta acrílicos gruesos, Adobe Photoshop Sketch lo cubrió. Puede acceder a 11 herramientas que pueden ajustar la configuración de tamaño, color, opacidad y fusión. También puede crear sus propios pinceles con Capture. Una vez más, si utiliza los servicios de Creative Cloud, puede aprovechar muchos otros servicios.
 

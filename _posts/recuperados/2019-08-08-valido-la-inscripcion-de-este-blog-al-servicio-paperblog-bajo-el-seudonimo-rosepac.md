@@ -4,7 +4,7 @@ title: >
     Valido la inscripción de este blog al servicio Paperblog
     bajo el seudónimo rosepac
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-01-15 07:01:20
 tags:

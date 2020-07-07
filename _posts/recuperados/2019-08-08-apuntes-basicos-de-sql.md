@@ -2,7 +2,7 @@
 layout: post
 title: Apuntes Básicos de SQL
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-02-13 06:02:20
 tags:

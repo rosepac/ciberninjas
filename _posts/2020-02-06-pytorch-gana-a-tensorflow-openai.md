@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "▷ La apuesta de Open AI por PyTorch en vez de Tensorflow, es una pequeña batalla ganada de Facebook contra Google"
 description: >-
   🤖 Facebook vs. Google, Pytorch vs. Tensorflow, parece ser que la primera gran batalla es ganada por Facebook dentro del campo de la inteligencia artificial
@@ -10,11 +10,10 @@ published: true
 comments: false
 date: 2020-02-06 15:30:12
 last_modified_at: 
-header:
-  teaser: https://i.ibb.co/yPJKQXx/pytorch.png
+thumbnail: https://i.ibb.co/yPJKQXx/pytorch.png
+thumbnail2: https://i.ibb.co/yPJKQXx/pytorch.png
 permalink: /pytorch-gana-a-tensorflow-openai/
 canonical_URL: https://ciberninjas.com/pytorch-gana-a-tensorflow-openai/
-classes: wide
 tags:
 - PyTorch
 - TensorFlow
@@ -23,9 +22,9 @@ categories:
 
 ---
 
-![](https://i.ibb.co/yPJKQXx/pytorch.png "La apuesta de Open AI por PyTorch en vez de Tensorflow, es una batalla ganada de Facebook contra Google")
-
 OpenAI anunció que migrará al [framework de aprendizaje automático de PyTorch](/openai-pytorch/) y ello se podría considerar como una pequeña victoria por parte de Facebook sobre Google, puesto que desde OpenAI estarían evitando el uso de la plataforma TensorFlow de Google.
+
+![](https://i.ibb.co/yPJKQXx/pytorch.png "La apuesta de Open AI por PyTorch en vez de Tensorflow, es una batalla ganada de Facebook contra Google")
 
 OpenAI, es una gran empresa de investigación de inteligencia artificial con sede en San Francisco cofundada por el CTO Greg Brockman, el científico en jefe Ilya Sutskever, Elon Musk y otros, con el respaldo de visionarios como el cofundador de LinkedIn, Reid Hoffman, y el ex presidente de Y Combinator, Sam Altman. En [la noticia adjunta], la propia compañía de AI resalto la eficiencia y escalabilidad de PyTorch como las razones principales de su decisión.
 

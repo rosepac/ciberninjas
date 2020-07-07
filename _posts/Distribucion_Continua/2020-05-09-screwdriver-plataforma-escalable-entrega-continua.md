@@ -1,6 +1,5 @@
 ---
-
-author_profile: true
+author: rosepac
 title: '🥇 ▷ Screwdriver: Una plataforma de construcción escalable para entrega continua'
 description: "La plataforma de compilación de código abierto surgió de la búsqueda de Yahoo para encontrar una plataforma CI / CD para satisfacer sus crecientes requisitos de desarrollador."
 excerpt: "La plataforma de compilación de código abierto surgió de la búsqueda de Yahoo para encontrar una plataforma CI / CD para satisfacer sus crecientes requisitos de desarrollador."
@@ -8,32 +7,31 @@ published: true
 comments: false
 date: 2020-05-09 10:20:12
 last_modified_at: 
-header:
-  teaser: /assets/images/blog/10-captura-destornillador.webp
+thumbnail: /assets/img/blog/10-captura-destornillador.webp
+thumbnail2: /assets/img/blog/10-captura-destornillador.webp
 permalink: /screwdriver-plataforma-escalable-entrega-continua/
 canonical_URL: https://ciberninjas.com/screwdriver-plataforma-escalable-entrega-continua/
-classes: wide
+
 categories:
 - Distribución Continua
 tags:
 - Screwdriver
 - Software CD
-
 ---
-
-![](/assets/images/blog/10-captura-destornillador.webp "Las tuberías o programas para la gestión continua del código")
-
-- [**Screwdriver es altamente personalizable**](#screwdriver-es-altamente-personalizable)
-- [**Tubería como código**](#tuber%c3%ada-como-c%c3%b3digo)
-- [**Compartir las mejores prácticas a través de plantillas y comandos**](#compartir-las-mejores-pr%c3%a1cticas-a-trav%c3%a9s-de-plantillas-y-comandos)
-- [**Seguridad**](#seguridad)
-- [**Empezando**](#empezando)
 
 En 2012, después de experimentar limitaciones de rendimiento y escala con la solución CI / CD que estábamos usando, mi equipo de Yahoo comenzó a buscar otra plataforma. No encontramos una solución que satisfaga nuestras necesidades de rápido crecimiento del desarrollador, por lo que creamos Screwdriver.
 
 Es el producto de nuestro viaje de CI / CD a escala, lecciones aprendidas en el camino y enormes cantidades de comentarios de nuestros desarrolladores internos. Después de ver el valor agregado de Screwdriver, decidimos abrirlo en 2016 para compartir nuestra solución con la comunidad global de DevOps.
 
 [Screwdriver](http://screwdriver.cd/){:target="_blank" rel="nofollow,noreferrer"} es una plataforma de construcción diseñada para entrega continua a escala. Admite una lista en expansión de servicios de código fuente, motores de ejecución y bases de datos, ya que no está vinculada a ninguna plataforma informática específica. Screwdriver tiene una API completamente documentada y una creciente comunidad de código abierto. Una demostración de Screwdriver está [disponible aquí](https://cd.screwdriver.cd/){:target="_blank" rel="nofollow,noreferrer"}.
+
+![](/assets/img/blog/10-captura-destornillador.webp "Las tuberías o programas para la gestión continua del código")
+
+- [**Screwdriver es altamente personalizable**](#screwdriver-es-altamente-personalizable)
+- [**Tubería como código**](#tuber%c3%ada-como-c%c3%b3digo)
+- [**Compartir las mejores prácticas a través de plantillas y comandos**](#compartir-las-mejores-pr%c3%a1cticas-a-trav%c3%a9s-de-plantillas-y-comandos)
+- [**Seguridad**](#seguridad)
+- [**Empezando**](#empezando)
 
 ## **Screwdriver es altamente personalizable**
 

@@ -2,13 +2,13 @@
 title: "🔨 Las Mejores Extensiones de Navegadores: Brave / Chromiun / Chrome"
 description: '🔨 Las Mejores Extensiones de Brave / Chromiun / Chrome'
 excerpt: '🔨 Las Mejores Extensiones de Brave / Chromiun / Chrome'
-author_profile: true
+author: rosepac
 published: false
 date: 2019-10-30
 permalink: /las-mejores-extensiones-navegadores/
 canonical_URL: https://ciberninjas.com/las-mejores-extensiones-navegadores/
 # header:
-#   overlay_image: "/assets/images/.jpg"
+# feature-img: "/assets/images/.jpg"
 #   overlay_filter: "0.2"
 #   image_description: "DESCRIPCION IMAGEN | Ciberninjas"
 # caption: "**Créditos**: Captura de Pantalla Propia creada por Ciberninjas"

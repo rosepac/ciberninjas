@@ -3,9 +3,9 @@ title: '📰 Ionic 4.0: Introducción Ionic para todos'
 excerpt: '🚀 Ayer fue lanzada la versión del Framework basado en la creación de aplicaciones híbridas: Ionic 4. Enfocado en la creación de componentes web, y las PWA.'
 description: '🚀 Ayer fue lanzada la versión del Framework basado en la creación de aplicaciones híbridas: Ionic 4. Enfocado en la creación de componentes web, y las PWA.'
 published: true
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 date: 2019-01-24 07:01:33
 last_modified_at: 2019-10-30T09:36:00
 tags:
@@ -15,7 +15,8 @@ tags:
 categories:
 - SDK Multiplataforma
 - Actualidad
-permalink: /ionic-4-0-introduccion-ionic-para-todos
+permalink: /ionic-4-0-introduccion-ionic-para-todos/
+canonical_URL: /ionic-4-0-introduccion-ionic-para-todos/
 ---
 Ayer fue lanzada la nueva versión del _framework_ basado en la creación de aplicaciones híbridas: Ionic 4.0.
 

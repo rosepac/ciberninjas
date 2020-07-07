@@ -6,16 +6,15 @@ date: 2020-04-10 22:30:00 +0100
 canonical_URL: https://ciberninjas.com/reflexión-sobre-covid-19-bill-gates/
 permalink: /reflexión-sobre-covid-19-bill-gates/
 published: true
-classes: wide
+
 categories:
   - Reflexión Sociedad
 tags:
   - Sociedad
   - Coronavirus
   - Bill Gates
-header:
-  teaser: /assets/images/blog/virus-bill-gates.webp
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/blog/virus-bill-gates.webp
+feature-img: /assets/img/blog/virus-bill-gates.webp
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -26,9 +25,9 @@ header:
 # toc_sticky: true
 ---
 
-![Las reflexiones que Bill Gates respecto a las decisiones que afectarán el curso de la enfermedad COVID-19 o coronavirus](/assets/images/blog/virus-bill-gates.webp "Las reflexiones que Bill Gates respecto a las decisiones que afectarán el curso de la enfermedad COVID-19 o coronavirus")
-
 No hay duda de que Estados Unidos perdió la oportunidad de adelantarse al nuevo coronavirus. Pero la ventana para tomar decisiones importantes no se ha cerrado. Las elecciones que hagamos nosotros y nuestros líderes ahora tendrán un enorme impacto en qué tan pronto comienzan a bajar los números de casos, cuánto tiempo la economía permanece cerrada y cuántos estadounidenses tendrán que enterrar a un ser querido debido a COVID-19.
+
+![Las reflexiones que Bill Gates respecto a las decisiones que afectarán el curso de la enfermedad COVID-19 o coronavirus](/assets/img/blog/virus-bill-gates.webp "Las reflexiones que Bill Gates respecto a las decisiones que afectarán el curso de la enfermedad COVID-19 o coronavirus")
 
 Nuestra fundación ha estado trabajando para frenar el brote durante varios meses. Hasta la fecha, hemos invertido $ 105 millones en esfuerzos para crear nuevas terapias, ampliar el acceso a las pruebas y limitar el impacto del virus aquí en Seattle.
 

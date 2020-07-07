@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ ¿Qué es la Free Software Foundation?"
 description: "Introducción y explicación de quién es y qué hace la Fundación de Software Libre."
 excerpt: "Introducción y explicación de quién es y qué hace la Fundación de Software Libre."
@@ -7,11 +7,10 @@ published: true
 comments: false
 date: 2020-01-25 15:10:12
 last_modified_at: 
-header:
-  teaser: /assets/images/blog/fsf-svg.webp
+thumbnail: /assets/img/blog/fsf-svg.webp
+thumbnail2: /assets/img/blog/fsf-svg.webp
 permalink: /que-es-free-software-foundation/
 canonical_URL: https://ciberninjas.com/que-es-free-software-foundation/
-classes: wide
 categories:
 - Fundaciones
 tags:
@@ -19,7 +18,14 @@ tags:
 
 ---
 
-![Logotipo de la Fundación de Software Libre](/assets/images/blog/fsf-svg.webp "Logotipo de la Fundación de Software Libre")
+La Free Software Foundation se estableció para alentar el desarrollo de software libre. El movimiento del software libre, que liberó a los usuarios para crear y compartir libremente su software y programas, fue uno de los principales impulsores de esta fundación. El objetivo principal de FSF es instigar el rechazo de software de propiedad que no se puede compartir, publicar o alterar legalmente.
+
+La FSF también mantiene un equipo de programadores de software internos que desarrollan software y aplicaciones que pueden ser revisados ​​y distribuidos por los usuarios finales, y que están disponibles bajo la Licencia Pública General de GNU (GPL).
+
+![Logotipo de la Fundación de Software Libre](/assets/img/blog/fsf-svg.webp "Logotipo de la Fundación de Software Libre")
+- [¿Qué es la Free Foundation Software?](#qué-es-la-free-foundation-software)
+- [Nuestro trabajo principal](#nuestro-trabajo-principal)
+- [Licencia](#licencia)
 
 ## ¿Qué es la Free Foundation Software?
 

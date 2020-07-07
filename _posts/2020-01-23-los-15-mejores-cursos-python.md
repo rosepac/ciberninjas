@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ Herramienta para Webmaster: Utilizar WebPageTest"
 description: "Webpagetest es una de las herramientas más populares y gratuitas para medir el rendimiento de la página web."
 excerpt: "Webpagetest es una de las herramientas más populares y gratuitas para medir el rendimiento de la página web."
@@ -8,14 +8,13 @@ comments: false
 date: 2020-01-23 11:10:12
 last_modified_at: 
 canonical_URL: /tutorial-webmaster-webpagetest/
-classes: wide
 categories:
 - Tutorial Webmaster
 tags:
 - Webpagetest
 # header:
 #  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
+# feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 #   overlay_filter: 0.2
 #   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
 #   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'

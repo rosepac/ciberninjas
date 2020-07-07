@@ -5,15 +5,15 @@ excerpt: "Hoy estoy encantado de anunciar el lanzamiento de Capacitor 2.0. El ti
 date: 2020-04-15 01:00:00 +0100
 canonical_URL: https://ciberninjas.com/ionic-anuncia-capacitor-2/
 permalink: /ionic-anuncia-capacitor-2/
-classes: wide
+
 published: true
 categories:
   - Framework Multiplataforma
 tags:
   - Ionic
-header:
-  teaser: /assets/images/blog/capacitor-2-img.webp
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/blog/capacitor-2-img.webp
+feature-img: /assets/img/blog/capacitor-2-img.webp
+#feature-img: /assets/img/
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -24,7 +24,7 @@ header:
 # toc_sticky: true
 ---
 
-![🚀 Ionic: Anuncia cambios importantes y presenta Capacitor 2.0. El tiempo de ejecución nativo de Ionic, que va a facilitar la creación de aplicaciones web que se ejecutan en Android, iOS y sobre la web como aplicaciones web progresivas, todo con una única base de código](/assets/images/blog/capacitor-2-img.webp "🚀 Ionic: Anuncia cambios importantes y presenta Capacitor 2.0. El tiempo de ejecución nativo de Ionic, que va a facilitar la creación de aplicaciones web que se ejecutan en Android, iOS y sobre la web como aplicaciones web progresivas, todo con una única base de código")
+![🚀 Ionic: Anuncia cambios importantes y presenta Capacitor 2.0. El tiempo de ejecución nativo de Ionic, que va a facilitar la creación de aplicaciones web que se ejecutan en Android, iOS y sobre la web como aplicaciones web progresivas, todo con una única base de código](/assets/img/blog/capacitor-2-img.webp "🚀 Ionic: Anuncia cambios importantes y presenta Capacitor 2.0. El tiempo de ejecución nativo de Ionic, que va a facilitar la creación de aplicaciones web que se ejecutan en Android, iOS y sobre la web como aplicaciones web progresivas, todo con una única base de código")
 
 Los desarrolladores usan Capacitor como contenedor de aplicaciones nativas para empaquetar e implementar sus aplicaciones Ionic en varias plataformas móviles y de escritorio. Capacitor, te permite acceder a funciones nativas como la cámara usando el mismo código en todas las plataformas, sin tener que preocuparte por los detalles más específicos de cada plataforma.
 

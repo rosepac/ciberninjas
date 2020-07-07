@@ -6,7 +6,7 @@ date: 2020-04-12 08:37:00 +0100
 canonical_URL: https://ciberninjas.com/cómo-tener-conversaciones-divertidas-zoom/
 permalink: /cómo-tener-conversaciones-divertidas-zoom/
 published: true
-classes: wide
+
 categories:
   - Software
   - Redes Sociales
@@ -14,9 +14,8 @@ tags:
   - Cámara
   - Snapchat
   - Zoom
-header:
-  teaser: /assets/images/blog/1-snap-camera.webp
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/blog/1-snap-camera.webp
+feature-img: /assets/img/blog/1-snap-camera.webp
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -27,9 +26,9 @@ header:
 # toc_sticky: true
 ---
 
-![Cómo crear videollamadas divertidas a través de Zoom usando la aplicación de cámara de Snapchat](/assets/images/blog/1-snap-camera.webp "Cómo crear videollamadas divertidas a través de Zoom usando la aplicación de cámara de Snapchat")
-
 Zoom puede estar enfrentándose a pequeños problemas por sus deficiencias de seguridad, pero desde el estallido del COVID-19 y **el cambio de metodologías de trabajo que implica cambiar la oficina por el hogar**, prácticamente ha hecho que **Zoom se convierta en un software indispensable a la hora de crear reuniones mediante vídeo llamadas**.
+
+![Cómo crear videollamadas divertidas a través de Zoom usando la aplicación de cámara de Snapchat](/assets/img/blog/1-snap-camera.webp "Cómo crear videollamadas divertidas a través de Zoom usando la aplicación de cámara de Snapchat")
 
 Al igual que cualquier otro tipo de reunión, **las reuniones virtuales pueden convertirse en monótonas y aburridas**, para eso Zoom incluye sus propias formas de intentar dar vida a las vídeo llamadas: es posible que ya hayas probado a **utilizar los fondos virtuales de Zoom** o incluso **hayas intentado crear los tuyos propios**. Si bien, cambiar la habitación detrás de ti es algo muy divertido.
 
@@ -37,7 +36,7 @@ Al igual que cualquier otro tipo de reunión, **las reuniones virtuales pueden c
 
 **Zoom no nos ofrece la posibilidad de cambiar nuestro aspecto**, aparte de su función de retoque de video, que suaviza sutilmente las líneas y borra las imperfecciones. Para cambiar tu apariencia de manera significativa **tendrás que recurrir a un software externo**, en este caso te proponemos, a **la empresa [Snap, Inc.](https://www.snapchat.com/l/es/create){:target="_blank" rel="nofollow,noreferrer"} que hizo de las cámaras de los teléfonos inteligentes una auténtica revolución gracias a sus asombrosos filtros**, los que posteriormente, todo el mundo ha ido copiando.
 
-![Vista previa de los filtros de snap camera en el escritorio del ordenador](/assets/images/blog/guia-snap-camera.webp "Vista previa de los filtros de snap camera en el escritorio del ordenador")
+![Vista previa de los filtros de snap camera en el escritorio del ordenador](/assets/img/blog/guia-snap-camera.webp "Vista previa de los filtros de snap camera en el escritorio del ordenador")
 
 La **aplicación de cámara de escritorio de [Snap](https://snapcamera.snapchat.com/){:target="_blank" rel="nofollow,noreferrer"}, [Snap Camera](https://snapcamera.snapchat.com/){:target="_blank" rel="nofollow,noreferrer"}**, es capaz de crear **los mismos locos y divertidos filtros** con los que llevas jugando durante años desde tu aplicación móvil de Snapchat. Con solamente una descarga y unos pocos clics, los usuarios de **Zoom podrán chatear como personajes de dibujos animados**.
 

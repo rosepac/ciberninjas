@@ -2,7 +2,7 @@
 layout: post
 title: React Native
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-06-14 06:06:37
 tags: [ ]

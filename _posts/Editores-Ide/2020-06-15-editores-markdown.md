@@ -1,18 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - 
 categories:
 - Java
-header:
-  teaser: /assets/images/blog/editores_negro.webp
-  overlay_image: /assets/images/blog/editores_negro.webp
-  overlay_filter: 0.2
-  image_description: 'Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas'
-  image_alt: 'Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas'
+thumbnail: /assets/img/blog/editores_negro.webp
+feature-img: /assets/img/blog/editores_negro.webp
 title: '▷ Qué es Markdown y sus 7 mejores editores de texto'
 description: >-
   Los 7 mejores editores de código para editar publicaciones en Markdown
@@ -113,7 +109,7 @@ Aparte, vas a encontrarte 3 opciones online con las que poder probar Markdown si
 
 Sin lugar a dudas, para mi el mejor editor de los que he probado. Sencillo, simple, útil; visualmente muy, muy agradable. Su minimalismo y su modo a pantalla completa, es perfecto para centrarse en escribir.
 
-![Interfaz de typora](/assets/images/blog/markdown_typora_captura_1.webp)
+![Interfaz de typora](/assets/img/blog/markdown_typora_captura_1.webp)
 
 La vista previa es instantánea y se va mostrando según redactamos, aunque también soporta un modo de *'código'* donde nos muestra el contenido junto a los símbolos del lenguaje.
 
@@ -139,7 +135,7 @@ Este editor, **MarkDown Monster**, probablemente sea el más completo. En princi
 
 Visualmente, posee un aspecto muy moderno y muy agradable. Permite cambiar de 'piel' tanto de la ventana del programa en sí (modo claro,modo oscuro) como de la ventana de escritura (toda una paleta de colores).
 
-![interfaz de markdown monster](/assets/images/blog/monster_1.webp)
+![interfaz de markdown monster](/assets/img/blog/monster_1.webp)
 
 Se trabaja sobre una ventana mientras muestra una pre-visualización en la otra.
 
@@ -147,11 +143,11 @@ En la cinta de botones encontramos todas las opciones de **MarkDown** y además,
 
 - Agregar tablas con el lenguaje de MarkDown sencillamente.
 
-![Aplicación de creación de tablas en markdown monster](/assets/images/blog/mosnter_3_tablas.webp)
+![Aplicación de creación de tablas en markdown monster](/assets/img/blog/mosnter_3_tablas.webp)
 
 - Una pequeña aplicación para realizar capturas de pantalla. 
 
-![Aplicación para creación de capturas en markdown monster](/assets/images/blog/mosnter_4.webp)
+![Aplicación para creación de capturas en markdown monster](/assets/img/blog/mosnter_4.webp)
 
 - Opciones de publicar/bloguear directamente sobre WordPress u otro tipos de blogs desde el propio programa (creo que en steemit no lo permite). 
 - Agregar emoticonos.
@@ -164,7 +160,7 @@ No posee un mundo 'full screen 100%' pero si un modo de escritura sin distraccio
 
 **Boostnote**, es el editor más complicado. Su forma de crear y gestionar documentos es un tanto rígida; por lo qué, una vez te acostumbres puede ser una ventaja.
 
-![interfaz del editor de texto boostnote](/assets/images/blog/boost_1.webp)
+![interfaz del editor de texto boostnote](/assets/img/blog/boost_1.webp)
 Pero hasta que llegue ese momento, es un tanto extraño. Debemos sumarle, que su interfaz por defecto, dividida en 4 apartados, no es del todo agradable. A pesar de que se pueden mover las ventanas, es incómodo excepto que desees crear notas cortas y rápidas.
 
 Podríamos decir que es un proyecto claramente enfocado en ser un bloc de notas, ofreciéndonos una opción de marcar notas como favoritas o añadir etiquetas. 
@@ -175,7 +171,7 @@ Podríamos decir que es un proyecto claramente enfocado en ser un bloc de notas,
 
 **Haroopad**, es posiblemente un editor más enfocado  a usuarios que se dedique a la programación; puesto que visualmente su interfaz se asemeja más a la de un editor 'clásico'.
 
-![interfaz del software, editor de texto Haroopad](/assets/images/blog/haropad_captura_1.webp)
+![interfaz del software, editor de texto Haroopad](/assets/img/blog/haropad_captura_1.webp)
 
 Por defecto tiene una pequeña 'chuletilla' de **MarkDown** que puedes o bien mantener a la vista, o si no; estará a mano de un solo 'Click' abajo a la izquierda de la ventana.
 
@@ -191,7 +187,7 @@ Aplicaciones excelentes sobre todo en las situaciones que deseamos trabajar fuer
 
 FocusFox es un editor en línea gratuito **simple e inteligente** con sonidos de fondo para ayudarte a *enfocarte* exclusivamente en lo que necesitas, que utiliza las funciones de Markdown para agregar rápidamente el formato al texto sin formato; y además, agrega botones y una amplia chuleta de Markdown para los más principiantes.
 
-![visión del editor online de FocuxFox](/assets/images/blog/focuxfox-1.webp)
+![visión del editor online de FocuxFox](/assets/img/blog/focuxfox-1.webp)
 
 La biblioteca de sonidas te ayudará a concentrarte, e incluye una opción de corrector ortográfico para los ~~ errores ~~ además de ofrecer el modo de escritura de minimalista y el modo oscuro de escritura.
 
@@ -201,7 +197,7 @@ La biblioteca de sonidas te ayudará a concentrarte, e incluye una opción de co
 
 Nos permite tres opciones rápidas de visualización; pantalla completa, mitad de pantalla para edición y la otra para la visualización o simplemente, ver una visualización final. 
 
-![visión del editor online de Stackedit](/assets/images/blog/stackedit.webp)
+![visión del editor online de Stackedit](/assets/img/blog/stackedit.webp)
 
 Barra de botones con opciones rápidas a atajos de elementos de **MarkDown** incluso para la creación de tablas y con opciones de publicar lo editado de forma rápida.
 
@@ -213,7 +209,7 @@ El corrector ortográfico del navegador funciona perfectamente.
 
 Otra muy buena opción, en este caso nos encontramos con una opción de pantalla completa más discreta; aunque de cualquier forma es visualmente muy elegante.
 
-![Visión de la web del editor online dillinger](/assets/images/blog/dillinger_1.webp)
+![Visión de la web del editor online dillinger](/assets/img/blog/dillinger_1.webp)
 
 Permite conectarse, importar y exportar, a través de múltiples cuentas. Lo peor de todo, el corrector ortográfico se desactiva al escribir. 
 
@@ -223,7 +219,7 @@ Permite conectarse, importar y exportar, a través de múltiples cuentas. Lo peo
 
 Como las opciones anteriores, posee un aspecto muy agradable; y amplias opciones de usabilidad, incluso de tablas. Conexión, exportación e importación por varias cuentas.
 
-![Visión de la página del editor online de markdown, Hackmd](/assets/images/blog/ultimo_online.webp)
+![Visión de la página del editor online de markdown, Hackmd](/assets/img/blog/ultimo_online.webp)
 
 La parte extra de **Hackmd** es que permite el trabajo compartido online, compartir una nota y editarla de forma grupal; y un panel de 'portada' desde el que podremos gestionar las publicaciones trabajando con etiquetas o palabras claves.
 
@@ -244,6 +240,6 @@ Por último, aquí os dejo unos enlaces interesantes sobre MarkDown:
 > 🔥 Seguro también te interesa: [mejores editores de código](/mejores-editores-texto/) >> [mejores editores de python](/mejores-ide-python/) >> [mejores editores de PHP](/mejores-editores-php/)
 {: .notice--danger}
 
-![Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas](/assets/images/blog/editores_negro.webp "Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas")
+![Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas](/assets/img/blog/editores_negro.webp "Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

@@ -1,16 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - 
 categories:
 - Java
-header:
-  teaser: /assets/images/2020-news/
-  overlay_image: /assets/images/2020-news/
-  overlay_filter: 0.2
+thumbnail: /assets/img/2020-news/
+feature-img: /assets/img/2020-news/
   image_description: ''
   image_alt: ''
 title: '🚀 ▷ '
@@ -26,7 +23,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>

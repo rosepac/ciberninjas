@@ -7,16 +7,8 @@ last_modified_at: 2019-10-11 10:18:10
 permalink: /eff/autodefensa/
 canonical_URL: https://ciberninjas.com/eff/autodefensa/
 published: true
-header:
-   overlay_image: "https://i.ibb.co/yh0r3V9/logo.png"
-   overlay_filter: "0.2"
-   image_description: "Defiéndete de la Vigilancia Tecnológica por la Fundación Frontera Electrónica \ Visto en Ciberninjas"
-   image_alt: "Defiéndete de la Vigilancia Tecnológica por la Fundación Frontera Electrónica \ Visto en Ciberninjas"
-   caption: " Créditos: EFF Creative Commons 3.0"
-   teaser: "https://i.ibb.co/yh0r3V9/logo.png"
-# sidebar:
-# - title: "Catálogo"
-#   nav: tienda
+thumbnail: "https://i.ibb.co/yh0r3V9/logo.png"
+feature-img: "https://i.ibb.co/yh0r3V9/logo.png"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

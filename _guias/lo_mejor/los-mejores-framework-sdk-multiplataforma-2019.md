@@ -1,21 +1,14 @@
 ---
 title: "🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻"
-author_profile: true
+author: rosepac
 description: '🚀 Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
 excerpt: '🚀 Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
 published: true
 date: 2020-06-16
 last_modified_at: 
-classes: wide
 # Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
-header:
-  teaser: "/assets/images/blog/final_sdk_varios.webp"
-  overlay_image: "/assets/images/blog/final_sdk_varios.webp"
-  overlay_filter: "0.2"
-  image_description: "Los Mejores SDK Multiplaforma que existen para el año 2020 \ Visto en Ciberninjas"
-  image_alt: "Los Mejores SDK Multiplaforma que existen para el año 2020 \ Visto en Ciberninjas"
-  caption: "**Créditos**: Montaje Propio. Cada logotipo es propiedad de su correspondiente empresa."
-  teaser: "/assets/images/final_sdk_varios.webp"
+thumbnail: "/assets/images/blog/final_sdk_varios.webp"
+feature-img: "/assets/images/blog/final_sdk_varios.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

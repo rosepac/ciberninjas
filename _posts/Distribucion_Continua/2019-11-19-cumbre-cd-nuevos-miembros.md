@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ Se celebra la Cumbre de la Fundación CD: Nuevos miembros y los objetivos estratégicos para 2020"
 description: "La membresía de CD Foundation crece a 33 compañías en todo el mundo, incluidos los miembros Premier CapitalOne, CircleCI, Cloudbees, Google, Huawei, IBM, jFrog, Netflix y Salesforce"
 excerpt: "La membresía de CD Foundation crece a 33 compañías en todo el mundo, incluidos los miembros Premier CapitalOne, CircleCI, Cloudbees, Google, Huawei, IBM, jFrog, Netflix y Salesforce"
@@ -8,23 +8,11 @@ comments: false
 date: 2019-11-19 19:10:12
 last_modified_at: 
 canonical_URL: /cumbre-cd-nuevos-miembros/
-classes: wide
 categories:
 - Distribución Continua
 tags:
 - CD Fundación
 - Tekton
-# header:
-#  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_filter: 0.2
-#   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
-#   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'
-#   caption: "Créditos: Unsplash"
-# toc: false
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 La Fundación de la Distribución Continua (CDF), el hogar neutral para los proveedores de muchos de los proyectos de más rápido crecimiento para la entrega continua, anunció hoy una gran cantidad de información que destaca el impresionante crecimiento en membresía, planificación, gobierno, seguridad y construcción de comunidad. El CDF se estableció en marzo de 2019. Los proyectos actuales alojados son Jenkins, Jenkins X, Spinnaker y Tekton.

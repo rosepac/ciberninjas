@@ -2,24 +2,15 @@
 title: "🥇 ▷ Profesiones Digitales más Demandadas en 2020 👨‍💻 Dentro del mundo de la Tecnología"
 description: "📌 Lista completa de todas las profesiones del campo de la tecnología existentes y todas las tecnologías requeridas para cada puesto de trabajo indicado 😜."
 excerpt: "📌 Lista completa de todas las profesiones del campo de la tecnología existentes y todas las tecnologías requeridas para cada puesto de trabajo indicado 😜."
-author_profile: true
+author: rosepac
 published: true
 comments: false
 date: 2020-03-13
 last_modified_at:
 permalink: /profesiones-digitales/
 canonical_URL: https://ciberninjas.com/profesiones-digitales/
-classes: wide
-header:
-  teaser: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
-  overlay_image: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
-  image_description: "Conoce todos los puestos de trabajo del mundo de la prorgramación y todas las tecnologías que deberías de estudiar para cada empleo indicado en 2020"
-  caption: "**Créditos**: [Sabdo Purnomo](https://dribbble.com/sabdopurnomo)"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: false
-
+thumbnail: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
+feature-img: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
 ---
 
 A medida que las empresas se esfuerzan por adaptarse a un mercado laboral de TI más desarrollado, se amplian cada vez los campos profesionales específicos en cada ámbito profesional de la tecnología en cuestión.

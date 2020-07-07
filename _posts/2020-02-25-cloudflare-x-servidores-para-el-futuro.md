@@ -1,14 +1,12 @@
 ---
 
 comments: false
-classes: wide
-author_profile: true
+author: rosepac
 tags:
 - Cloudflare
 categories:
 - Servidores
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
 title: "🚀 ▷ Cloudflare's Gen X: Servidores para un futuro acelerado"
 description: >-
   ""
@@ -22,7 +20,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 > *"Cada servidor puede ejecutar todos los servicios".*
 

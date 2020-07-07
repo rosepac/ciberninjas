@@ -1,6 +1,6 @@
 ---
 title: "📰 TITULO"
-author_profile: true
+author: rosepac
 description: 'ICONO-TEMATICA RESUMEN'
 excerpt: 'ICONO-TEMATICA RESUMEN'
 published: false

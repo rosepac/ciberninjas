@@ -1,4 +1,3 @@
-
 ---
 layout: splash
 title: "🐍 Glosario de Tecnologías de Python: Definiciones de Términos"
@@ -7,22 +6,16 @@ excerpt: "Conoce todas las tecnologías de Python, frameworks y librerías junto
 published: true
 date: 2020-05-20
 last_modified_at:
-classes: wide
-author_profile: false
+author: rosepac
 permalink: /glosario/completo-tecnologias-python/
 canonical_URL: https://ciberninjas.com/glosario/completo-tecnologias-python/
-header:
-  teaser: /assets/images/lenguajes/python-diccionarios.webp
-  overlay_image: /assets/images/lenguajes/python-diccionarios.webp
-  overlay_filter: 0.2
-  image_description: 'Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción.'
-  image_alt: 'Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción.'
-  actions:
-    - label: 'Recursos Python'
-      url: '/python-recursos/'
-    - label: 'Aprender Python'
-      url: '/python/'
-
+thumbnail: /assets/images/lenguajes/python-diccionarios.webp
+feature-img: /assets/images/lenguajes/python-diccionarios.webp
+actions:
+  - label: 'Recursos Python'
+    url: '/python-recursos/'
+  - label: 'Aprender Python'
+    url: '/python/'
 ---
 <!-- https://glossarytech.com/terms/python/ -->
 [👈 Regresar al Glosario de Ciberninjas](/glosario){: .btn .btn--inverse .btn--large .align-center}

@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "🥇 ▷ Los mejores libros sobre tecnología y ciencias de 2020"
 description: 'Una selección de lecturas obligatorias para ayudarte a comprender la actualidad sobre el mundo tecnológica y las ciencias.'
 excerpt: 'Una selección de lecturas obligatorias para ayudarte a comprender la actualidad sobre el mundo tecnológica y las ciencias.'
@@ -14,13 +14,8 @@ tags:
 classed: wide
 permalink: /libros-tecnología-2020/
 canonical_URL: https://ciberninjas.com/libros-tecnología-2020/
-header:
-  teaser: /assets/images/obama-leyendo.jpg
-  overlay_image: /assets/images/obama-leyendo.jpg
-  overlay_filter: "0.2"
-  image_alt: "Barack Obama, libros recomendados para el inicio de 2020 | Visto en Ciberninjas"
-  image_description: "Barack Obama, libros recomendados para el inicio de 2020  | Visto en Ciberninjas"
-  caption: "**Créditos**: [Obama White House](https://www.flickr.com/photos/obamawhitehouse/8109908571), es una [Obra del Gobierno de Estados Unidos](https://www.usa.gov/government-works) bajo sus propidas condiciones de [licencia](https://www.usa.gov/government-works)"
+thumbnail: /assets/img/obama-leyendo.jpg
+feature-img: /assets/img/obama-leyendo.jpg
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

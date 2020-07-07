@@ -12,13 +12,8 @@ tags:
 - Adicción
 - Datos
 - Reflexión
-header:
-  teaser: "/assets/images/facebook-pastillas.jpg"
-  overlay_image: "/assets/images/facebook-pastillas.jpg"
-  overlay_filter: "0.2"
-  image_description: "La adicción a las pastillas que son las redes sociales, está en crecimiento en la actualidad del día a día | Ciberninjas"
-  caption: "**Créditos**: Foto de [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/collections/8502157/news?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-
+thumbnail: "/assets/img/facebook-pastillas.jpg"
+feature-img: "/assets/img/facebook-pastillas.jpg"
 ---
 > 📰 💊 La Máquina Siempre Gana: Lo que impulsa nuestra adicción a las redes sociales, por [Richard Seymour](https://twitter.com/leninology)
 

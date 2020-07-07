@@ -17,13 +17,8 @@ categories:
  - Redes Sociales
  - Navegadores
 permalink: '/como-publicar-en-instagram-%f0%9f%93%b8-desde-el-ordenador-%f0%9f%96%a5-extension-de-chrome-mobile-browser-emulator/'
-header:
-  teaser: https://i.ibb.co/Gxkyp1k/image.png
-  overlay_image: https://i.ibb.co/Gxkyp1k/image.png
-  overlay_filter: "0.2"
-  image_description: "Extensión de Chrome Mobile Browser Emulator, testing y simulación de móviles"
-  caption: "Extensión de Chrome Mobile Browser Emulator, testing y simulación de móviles"
-
+thumbnail: https://i.ibb.co/Gxkyp1k/image.png
+feature-img: https://i.ibb.co/Gxkyp1k/image.png
 ---
 
 Cada día que pasa los dueños de **Instagram** dificultan más el realizar publicaciones desde el ordenador.

@@ -1,8 +1,7 @@
 ---
-
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Python
 - Sublime Text
@@ -17,12 +16,8 @@ tags:
 - Wing
 categories:
 - Editores de Texto
-header:
-  teaser: /assets/images/blog/python-ide/python-editores-scrapy.webp
-  overlay_image: /assets/images/blog/python-ide/python-editores-scrapy.webp
-  overlay_filter: 0.2
-  image_description: 'Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida'
-  image_alt: 'Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida'
+thumbnail: /assets/img/blog/python-ide/python-editores-scrapy.webp
+feature-img: /assets/img/blog/python-ide/python-editores-scrapy.webp
 title: '11 Mejores editores de código Python y entornos de desarrollo IDE 2020'
 description: >-
   Los editores de código de Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente.
@@ -33,7 +28,6 @@ permalink: /mejores-ide-python/
 date: 2020-06-02
 last_modified_at: 
 published: true
-
 ---
 
 Los mejores editores de código Python están diseñados para que los desarrolladores codifiquen y depuren programas fácilmente. Usando estos Python IDE (Entorno de desarrollo integrado), puede administrar una gran base de código y lograr una implementación rápida.
@@ -68,7 +62,7 @@ Editores, con características populares y últimos enlaces de descarga. La list
 
 ## 1. **PyCharm**
 
-![Logotipo del entorno de desarrollo o IDE denominado PyCharm](/assets/images/blog/python-ide/pycharm.webp "Logotipo del entorno de desarrollo o IDE denominado PyCharm")
+![Logotipo del entorno de desarrollo o IDE denominado PyCharm](/assets/img/blog/python-ide/pycharm.webp "Logotipo del entorno de desarrollo o IDE denominado PyCharm")
 
 PyCharm es un IDE multiplataforma utilizado para la programación de Python. Este editor se puede usar en Windows, macOS y Linux. Este software contiene API que los desarrolladores pueden usar para escribir sus propios complementos de Python para que puedan ampliar las funcionalidades básicas.
 
@@ -86,7 +80,7 @@ Además, gratuito.
 
 ## 2. **Spyder**
 
-![Logotipo del entorno de desarrollo o IDE denominado Spyder](/assets/images/blog/python-ide/spyder-logo.webp "Logotipo del entorno de desarrollo o IDE denominado Spyder")
+![Logotipo del entorno de desarrollo o IDE denominado Spyder](/assets/img/blog/python-ide/spyder-logo.webp "Logotipo del entorno de desarrollo o IDE denominado Spyder")
 
 Spyder es un entorno de desarrollo científico integrado escrito en Python. Este software está diseñado para y por científicos que pueden integrarse con Matplotlib, SciPy, NumPy, Pandas, Cython, IPython, SymPy y otro software de código abierto. Spyder está disponible a través de la distribución Anaconda (sistema de distribución de código abierto) en Windows, macOS y Linux.
 
@@ -102,7 +96,7 @@ Spyder es un entorno de desarrollo científico integrado escrito en Python. Este
 
 ## 3. **IDLE**
 
-![Logotipo del entorno de desarrollo o IDE denominado Python IDLE](/assets/images/blog/python-ide/python-idle.webp "Logotipo del entorno de desarrollo o IDE denominado Python IDLE")
+![Logotipo del entorno de desarrollo o IDE denominado Python IDLE](/assets/img/blog/python-ide/python-idle.webp "Logotipo del entorno de desarrollo o IDE denominado Python IDLE")
 
 IDLE (Integrated Development and Learning Environment) es un editor predeterminado que viene con Python. Este software ayuda a un principiante a aprender Python fácilmente. El paquete de software IDLE es opcional para muchas distribuciones de Linux. La herramienta se puede usar en Windows, macOS y Unix.
 
@@ -117,7 +111,7 @@ IDLE (Integrated Development and Learning Environment) es un editor predetermina
 
 ## 4. **Sublime Text 3**
 
-![Logotipo del entorno de desarrollo o IDE denominado Sublime Text](/assets/images/blog/python-ide/sublime-text.webp "Logotipo del entorno de desarrollo o IDE denominado Sublime Text")
+![Logotipo del entorno de desarrollo o IDE denominado Sublime Text](/assets/img/blog/python-ide/sublime-text.webp "Logotipo del entorno de desarrollo o IDE denominado Sublime Text")
 
 Sublime Text 3 es un editor de código que admite muchos idiomas, incluido Python. Tiene soporte básico incorporado para Python. La personalización de Sublime Text 3 está disponible para crear un entorno de programación Python completo. El editor es compatible con los sistemas operativos OS X, Windows y Linux.
 
@@ -133,7 +127,7 @@ Sublime Text 3 es un editor de código que admite muchos idiomas, incluido Pytho
 
 ## 5. **Visual Studio Code**
 
-![Logotipo del entorno de desarrollo o IDE denominado Visual Studio Code para Python](/assets/images/blog/python-ide/vsc-python.webp "Logotipo del entorno de desarrollo o IDE denominado Visual Studio Code para Python")
+![Logotipo del entorno de desarrollo o IDE denominado Visual Studio Code para Python](/assets/img/blog/python-ide/vsc-python.webp "Logotipo del entorno de desarrollo o IDE denominado Visual Studio Code para Python")
 
 Visual Studio Code (VS Code) es un entorno de código abierto desarrollado por Microsoft. Este IDE se puede usar para el desarrollo de Python. Visual Studio Code se basa en Electron, que es un marco para implementar aplicaciones Node JS para la computadora que se ejecuta en el motor del navegador Blink.
 
@@ -150,7 +144,7 @@ Visual Studio Code (VS Code) es un entorno de código abierto desarrollado por M
 
 ## 6. **Atom**
 
-![Logotipo del entorno de desarrollo o IDE denominado Atom](/assets/images/blog/python-ide/atom-ide.webp "Logotipo del entorno de desarrollo o IDE denominado Atom")
+![Logotipo del entorno de desarrollo o IDE denominado Atom](/assets/img/blog/python-ide/atom-ide.webp "Logotipo del entorno de desarrollo o IDE denominado Atom")
 
 Atom es una herramienta útil de editor de código preferida por los programadores debido a su interfaz simple en comparación con los otros editores. Los usuarios de Atom pueden enviar paquetes y ellos para el software.
 
@@ -168,7 +162,7 @@ Atom es una herramienta útil de editor de código preferida por los programador
 
 ## 7. **Jupyter**
 
-![Logotipo del entorno de desarrollo o IDE denominado Jupyter](/assets/images/blog/python-ide/jupyter.webp "Logotipo del entorno de desarrollo o IDE denominado Jupyter")
+![Logotipo del entorno de desarrollo o IDE denominado Jupyter](/assets/img/blog/python-ide/jupyter.webp "Logotipo del entorno de desarrollo o IDE denominado Jupyter")
 
 Jupyter es una herramienta para las personas que acaban de comenzar con la ciencia de datos. Es un IDE interactivo de ciencia de datos fácil de usar en muchos lenguajes de programación que simplemente no funcionan como editor, sino también como una herramienta educativa o para la creación de presentaciones.
 
@@ -183,7 +177,7 @@ Jupyter es una herramienta para las personas que acaban de comenzar con la cienc
 
 ## 8. **Pydev**
 
-![Logotipo del entorno de desarrollo o IDE denominado Pydev](/assets/images/blog/python-ide/Pydev.webp "Logotipo del entorno de desarrollo o IDE denominado Pydev")
+![Logotipo del entorno de desarrollo o IDE denominado Pydev](/assets/img/blog/python-ide/Pydev.webp "Logotipo del entorno de desarrollo o IDE denominado Pydev")
 
 PyDev es un editor de Python de terceros para Eclipse. Este editor puede usarse no solo en Python sino también en el desarrollo de IronPython y Jython.
 
@@ -199,7 +193,7 @@ PyDev es un editor de Python de terceros para Eclipse. Este editor puede usarse 
 
 ## 9. **Thonny**
 
-![Logotipo del entorno de desarrollo o IDE denominado Thonny](/assets/images/blog/python-ide/thonny.webp "Logotipo del entorno de desarrollo o IDE denominado Thonny")
+![Logotipo del entorno de desarrollo o IDE denominado Thonny](/assets/img/blog/python-ide/thonny.webp "Logotipo del entorno de desarrollo o IDE denominado Thonny")
 
 Thonny es un IDE para la programación de aprendizaje y enseñanza, especialmente diseñado con el entorno principiante de secuencias de comandos Pythonista. Está desarrollado en la Universidad de Tartu, que puedes descargar gratis en el repositorio de Bitbucket para Windows, Linux y Mac.
 
@@ -215,7 +209,7 @@ Thonny es un IDE para la programación de aprendizaje y enseñanza, especialment
 
 ## 10. **Wing**
 
-![Logotipo del entorno de desarrollo o IDE denominado Wing](/assets/images/blog/python-ide/wing-ide.webp "Logotipo del entorno de desarrollo o IDE denominado Wing")
+![Logotipo del entorno de desarrollo o IDE denominado Wing](/assets/img/blog/python-ide/wing-ide.webp "Logotipo del entorno de desarrollo o IDE denominado Wing")
 
 Wing es un entorno ligero de Python diseñado para brindarle una experiencia de desarrollo productiva.
 
@@ -232,7 +226,7 @@ Precio: la prueba Wing Pro es gratuita. Wind Personal y Wing 101 son versiones p
 
 ## 11. **Komodo Active Python**
 
-![Logotipo del entorno de desarrollo o IDE denominado Komodo IDE](/assets/images/blog/python-ide/komodo-ide.webp "Logotipo del entorno de desarrollo o IDE denominado Komodo IDE")
+![Logotipo del entorno de desarrollo o IDE denominado Komodo IDE](/assets/img/blog/python-ide/komodo-ide.webp "Logotipo del entorno de desarrollo o IDE denominado Komodo IDE")
 
 Aumenta la productividad en el desarrollo de software relacionado a la ciencia de datos con una distribución de Python segura y compatible. Active State es un software que consiste en facilitar la instalación de la implementación de Python CPython y un conjunto de varias extensiones más. Además, existe la posibilidad de realizar esa misma practica sobre otros lenguajes: Perl, TCL, Golang y Ruby.
 

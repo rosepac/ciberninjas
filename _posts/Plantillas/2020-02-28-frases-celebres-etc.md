@@ -9,18 +9,18 @@ permalink: /frases-celebres-nombre-autor/
 date: 2020-02-28 14:10:32
 last_modified_at: 
 published: false
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Frank Owen Gehry
 categories:
 - Citas Célebres
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
+thumbnail2: /assets/img/blog/
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 
 <h2><p align="center"><cite>"Ríe siempre que puedas. Es una medicina barata."</cite></p></h2>

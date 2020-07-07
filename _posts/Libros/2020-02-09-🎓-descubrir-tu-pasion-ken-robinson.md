@@ -14,18 +14,8 @@ description: >-
   🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, El Elemento: Descubrir tu pasión lo cambia todo es un libro innovador sobre talento y pasión.
 excerpt: >-
   🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, El Elemento: Descubrir tu pasión lo cambia todo es un libro innovador sobre talento y pasión.
-header:
-  teaser: /assets/images/catalogo/el-elemento-descubrir-tu-pasion-b.webp
-  overlay_image: /assets/images/catalogo/el-elemento-descubrir-tu-pasion-b.webp
-  image_description: >-
-    🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, El Elemento: Descubrir tu pasión lo cambia todo es un libro innovador sobre talento y pasión
-  overlay_filter: 0.3
-  caption: 'Créditos: **Youtube**'
-  actions:
-    - label: + DESARROLLO PERSONAL
-      url: '/categoria/#desarrollo-personal'
-    - label: "\U0001F6D2 COMPRAR"
-      url: 'https://amzn.to/2S9RL6K'
+thumbnail: /assets/img/catalogo/el-elemento-descubrir-tu-pasion-b.webp
+feature-img: /assets/img/catalogo/el-elemento-descubrir-tu-pasion-b.webp
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
@@ -33,7 +23,7 @@ toc_sticky: true
 author_profile: false
 sidebar:
   - title: Autor
-    image: /assets/images/catalogo/el-elemento-descubrir-tu-pasion.webp
+    image: /assets/img/catalogo/el-elemento-descubrir-tu-pasion.webp
     image_alt: >-
       🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, El Elemento: Descubrir tu pasión lo cambia todo es un libro innovador sobre talento y pasión
     text: Ken Robinson

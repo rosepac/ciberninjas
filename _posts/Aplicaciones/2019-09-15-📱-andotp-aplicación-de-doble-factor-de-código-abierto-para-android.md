@@ -10,17 +10,8 @@ categories:
 tags:
   - Autentificación
   - Doble Factor
-header:
-  teaser: /assets/images/aplicacion-andotp.webp
-  overlay_image: /assets/images/aplicacion-andotp.webp
-  overlay_filter: '0.2'
-  image_description: >-
-    Aplicación de doble autentificación en Android AndOTP | Montaje creado por
-    Ciberninjas
-  caption: '**Créditos**: Portada Creada por Ciberninjas'
-  actions:
-    - label: DESCARGAR ANDOTP
-      url: 'https://kutt.it/andotp-android'
+thumbnail: /assets/img/aplicacion-andotp.webp
+feature-img: /assets/img/aplicacion-andotp.webp
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja

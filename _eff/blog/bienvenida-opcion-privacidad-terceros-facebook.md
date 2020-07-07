@@ -7,21 +7,12 @@ canonical_URL: https://ciberninjas.com/eff/bienvenida-opcion-privacidad-terceros
 date: 2020-01-29
 last_modified_at:
 published: true
-header:
-   overlay_image: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
-   overlay_filter: "0.2"
-   image_description: "➡ Introducción y reflexión sobre los cambios en las opciones de control de terceros de Facebook \ Visto en Ciberninjas"
-   image_alt: "➡ Introducción y reflexión sobre los cambios en las opciones de control de terceros de Facebook \ Visto en Ciberninjas"
-   caption: "**Créditos**: EFF Creative Commons 3.0"
-   teaser: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
+thumbnail: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
+feature-img: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-# sidebar:
-# - title: "Catálogo"
-#   nav: tienda
-
 ---
 
 Facebook [anunció](https://about.fb.com/news/2019/08/off-facebook-activity/){:target="_blank" rel="nofollow,noreferrer"} el lanzamiento de su herramienta de [Control de Actividad fuera de Facebook](https://www.facebook.com/off_facebook_activity/){:target="_blank" rel="nofollow,noreferrer"} (introducida con anterioridad como ["Borrador de historial"](https://www.facebook.com/zuck/posts/10104899855107881) hace casi dos años.

@@ -1,15 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Kubernetes
 - Kubenav
 categories:
 - Despliegue
-header:
-  teaser: /assets/images/blog/kubenav-gestor-kubernetes.webp
+thumbnail: /assets/img/blog/kubenav-gestor-kubernetes.webp
+thumbnail2: /assets/img/blog/kubenav-gestor-kubernetes.webp
 title: '🚀 ▷ '
 description: >-
   ''
@@ -23,15 +22,16 @@ published: false
 
 ---
 
-![Kubenav, una aplicación perfecta para gestionar todos tus proyectos dentro de Kubernetes](/assets/images/blog/kubenav-gestor-kubernetes.webp "Kubenav, una aplicación perfecta para gestionar todos tus proyectos dentro de Kubernetes")
-
 **Kubenav** es el navegador para tener tus grupos de **Kubernetes** en tu bolsillo. Kubenav es una aplicación de **móvil y de escritorio** creada con el objetivo de ayudar a los desarrolladores de back end, facilitando la administración de los clústers de Kubernetes y ofreciendo un soporte, desde el que estar constantemente informado de todo lo que sucede dentro de tus proyectos.
+
+![Kubenav, una aplicación perfecta para gestionar todos tus proyectos dentro de Kubernetes](/assets/img/blog/kubenav-gestor-kubernetes.webp "Kubenav, una aplicación perfecta para gestionar todos tus proyectos dentro de Kubernetes")
+
+Kubenav, también facilita la vigilancia sobre las cargas de trabajo, y contiene todos los eventos y registros necesarios como para depurar los clústers en caso de fuese necesario, y también, da la opción de editar u eliminar recursos de dentro de la aplicación.
 
 [![img](https://github.com/kubenav/kubenav/raw/master/docs/assets/app-store-badge.png)](https://apps.apple.com/us/app/kubenav/id1494512160) [![img](https://github.com/kubenav/kubenav/raw/master/docs/assets/google-play-badge.png)](https://play.google.com/store/apps/details?id=io.kubenav.kubenav) [![img](https://github.com/kubenav/kubenav/raw/master/docs/assets/desktop-badge.png)](https://github.com/kubenav/kubenav/releases)
 
 [![img](https://github.com/kubenav/kubenav/raw/master/docs/assets/github-screenshot.png)](https://github.com/kubenav/kubenav/blob/master/docs/assets/github-screenshot.png)
 
-Kubenav, también facilita la vigilancia sobre las cargas de trabajo, y contiene todos los eventos y registros necesarios como para depurar los clústers en caso de fuese necesario, y también, da la opción de editar u eliminar recursos de dentro de la aplicación.
 <!-- Reeleer hasta abajo https://github.com/kubenav/kubenav -->
 The app is developed using [Ionic Framework](https://ionicframework.com/) and [Capacitor](https://capacitor.ionicframework.com/). The most parts of the app are implemented using React functional component and TypeScript. So we can achieve nearly 100% code sharing between the mobile and desktop implementation.
 

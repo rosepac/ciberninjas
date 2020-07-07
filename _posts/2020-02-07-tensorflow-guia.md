@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "▷ Guía de TensorFlow: La biblioteca de software de código abierto para el aprendizaje automático"
 description: >-
   🤖 TensorFlow es una biblioteca de software de código abierto desarrollada por Google para el cálculo numérico con gráficos de flujo de datos. Esta guía TensorFlow cubre por qué la biblioteca es importante, cómo usarla y más.
@@ -10,11 +10,10 @@ published: true
 comments: false
 date: 2020-03-13 13:08:12
 last_modified_at: 
-header:
-  teaser: /assets/images/frameworks-ai/tensorflow-ciberninjas.png
+thumbnail: /assets/img/frameworks-ai/tensorflow-ciberninjas.png
+thumbnail2: /assets/img/frameworks-ai/tensorflow-ciberninjas.png
 permalink: /tensorflow-guia/
 canonical_URL: https://ciberninjas.com/tensorflow-guia/
-classes: wide
 tags:
 - TensorFlow
 categories:
@@ -22,9 +21,9 @@ categories:
 
 ---
 
-![](/assets/images/frameworks-ai/tensorflow-ciberninjas.png "Logotipo de la biblioteca de código abierto Tensorflow para la Inteligencia Artificial")
-
 TensorFlow fue originalmente un proyecto de investigación de aprendizaje profundo del equipo de Google Brain que desde entonces se ha convertido, en colaboración con 50 equipos más de Google, en una nueva biblioteca de código abierto implementada en todo el ecosistema de Google, incluido Google Assistant, Google Photos, Gmail , en su buscador y más.
+
+![](/assets/img/frameworks-ai/tensorflow-ciberninjas.png "Logotipo de la biblioteca de código abierto Tensorflow para la Inteligencia Artificial")
 
 Con TensorFlow en su lugar, Google puede aplicar el aprendizaje profundo en numerosas áreas utilizando tareas de percepción y comprensión del lenguaje.
 

@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "▷ Los Mejores Cuadernos y Agendas para Programadores en 2020"
 description: >-
   Las mejores libretas y agendas específicas y personalizadas para programadores, desarrolladores y diseñadores.
@@ -10,11 +10,9 @@ published: false
 comments: false
 date: 2020-02-12 10:31:12
 last_modified_at: 
-header:
-  teaser: https://i.ibb.co/cXZ8rBn/mejores-paginas-aprender-programacion.jpg
+thumbnail: https://i.ibb.co/cXZ8rBn/mejores-paginas-aprender-programacion.jpg
 permalink: /mejores-paginas-aprender-programacion/
 canonical_URL: https://ciberninjas.com/mejores-paginas-aprender-programacion/
-classes: wide
 tags:
 - Cuadernos
 - Programación

@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "Mitckell Kapor"
 description: 'Mitckell Kapor, por su desarrollo de Lotus 1-2-3, una aplicación de software innovadora para la PC de IBM.'
 excerpt: 'Mitckell Kapor, por su desarrollo de Lotus 1-2-3, una aplicación de software innovadora para la PC de IBM.'
@@ -7,9 +7,7 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/mitchell-kapor/
 canonical_URL: https://computerhistory.org/profile/mitchell-kapor/
-classes: wide
-header:
-  teaser: https://computerhistory.org/wp-content/uploads/2020/01/1996_mitch_kapor-e1580707645149.jpg
+thumbnail: https://computerhistory.org/wp-content/uploads/2020/01/1996_mitch_kapor-e1580707645149.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

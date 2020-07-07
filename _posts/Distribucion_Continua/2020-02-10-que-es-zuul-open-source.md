@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: '▷ Introducción a Zuul para mejorar el CI / CD'
 description: "Una historia rápida de cómo y por qué Zuul está reemplazando a Jenkins en las pruebas de CI en la comunidad OpenStack"
 excerpt: "Una historia rápida de cómo y por qué Zuul está reemplazando a Jenkins en las pruebas de CI en la comunidad OpenStack"
@@ -8,11 +8,11 @@ published: true
 comments: false
 date: 2020-02-10 10:20:12
 last_modified_at: 
-header:
-  teaser: /assets/images/blog/ci-cd-zuul.webp
+thumbnail: /assets/img/blog/ci-cd-zuul.webp
+thumbnail2: /assets/img/blog/ci-cd-zuul.webp
 permalink: /introduccion-zuul-open-source/
 canonical_URL: https://ciberninjas.com/introduccion-zuul-open-source/
-classes: wide
+
 categories:
 - Distribución Continua
 tags:
@@ -22,7 +22,7 @@ tags:
 
 ---
 
-![](/assets/images/blog/ci-cd-zuul.webp "Las tuberías o programas para la gestión continua del código")
+![](/assets/img/blog/ci-cd-zuul.webp "Las tuberías o programas para la gestión continua del código")
 
 [Jenkins](https://jenkins.io/){:target="_blank" rel="nofollow,noreferrer"} es una maravillosa pieza de software. Como motor de ejecución y automatización, es uno de los mejores que encontrarás. Jenkins sirve como un componente clave en innumerables sistemas de integración continua (CI), y esto es un testimonio del valor de lo que su comunidad ha construido a lo largo de los años. Pero eso es lo que es: un componente. Jenkins no es un sistema de CI en sí mismo; solo funciona las cosas para ti. Lo hace realmente bien y tiene una variedad de elementos integrados y un ecosistema vibrante de complementos para ayudarlo a decirle qué ejecutar, cuándo y dónde.
 

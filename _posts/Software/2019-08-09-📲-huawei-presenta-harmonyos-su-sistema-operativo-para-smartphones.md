@@ -10,13 +10,8 @@ tags:
   - Móviles
   - Lanzamiento
 link: 'https://twitter.com/HuaweiMobile/status/1159720783855460352'
-header:
-  overlay_image: /assets/images/harmony-os.jpg
-  overlay_filter: '0.2'
-  image_description: >-
-    Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones |
-    Ciberninjas
-  caption: '**Créditos**: Captura creada por ROSEPAC'
+thumbnail: /assets/img/harmony-os.jpg
+feature-img: /assets/img/harmony-os.jpg
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
@@ -33,7 +28,7 @@ Desde el siguiente Twitter:
 
 > C&oacute;mo vamos a construir un ecosistema inteligente y experiencia para todo escenario? &iquest;C&oacute;mo superaremos los desaf&iacute;os del sistema operativo futuro para las cosas conectadas? Estate atento a nosotros para averiguarlo.
 
-<figure><a class="image-popup" href="/assets/images/harmony-os.jpg"><img src="/assets/images/harmony-os.jpg" /></a><figcaption>Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones | Ciberninjas</figcaption></figure>
+<figure><a class="image-popup" href="/assets/img/harmony-os.jpg"><img src="/assets/img/harmony-os.jpg" /></a><figcaption>Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones | Ciberninjas</figcaption></figure>
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 

@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "Sobre Sociología, Neurología y Otros"
 description: 'Sobre Sociología, Neurología y Otros, influencias y abridores de mente.'
 excerpt: 'Sobre Sociología, Neurología y Otros, influencias y abridores de mente.'
@@ -7,12 +7,6 @@ date: 2018-10-21
 published: false
 permalink: /sociologia-neurologia/
 canonical_URL: https://ciberninjas.com/sociologia-neurologia/
-header:
-  teaser: 
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
 ---
 
 [Kim Peek](https://es.wikipedia.org/wiki/Kim_Peek)

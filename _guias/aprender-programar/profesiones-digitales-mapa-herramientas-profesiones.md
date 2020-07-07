@@ -8,18 +8,6 @@ canonical_URL: https://ciberninjas.com/profesiones-digitales-mapa-herramientas-p
 date: 2020-02-12
 published: true
 author_profile: false
-# header:
-#   teaser: /assets/images/paginas/progmb.webp
-#   overlay_color: "#000"
-#   overlay_filter: "0.1"
-#   overlay_image: /assets/images/paginas/progmb.webp
-#  actions:
-#    - label: "🎓 Cursos"
-#      url: "/cursos-tecnologia/"
-#    - label: "👨‍💻 Libros"
-#      url: "/biblioteca-de-programacion-y-tecnologia/"
-#  caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
-#  excerpt: "Cómo aprender cada uno de los lenguajes de programación que existen ¡Entra y conviértete en un auténtico ciberninja!"
 ---
 <br />
 # Mapa de Habilidades Requeridas para Trabajar en cada Profesión Digital

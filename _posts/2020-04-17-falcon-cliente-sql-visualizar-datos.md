@@ -5,7 +5,7 @@ excerpt: "Falcon es un editor SQL gratuito de código abierto con visualización
 date: 2020-04-17 11:35:00 +0100
 canonical_URL: https://ciberninjas.com/falcon-cliente-sql-visualizar-datos/
 permalink: /falcon-cliente-sql-visualizar-datos/
-classes: wide
+
 published: true
 categories:
   - Software
@@ -13,9 +13,9 @@ categories:
 tags:
   - Visualizar Datos
   - Falcon
-header:
-  teaser: /assets/images/blog/falcon-logo-by-plotly-stripe.webp
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/blog/falcon-logo-by-plotly-stripe.webp
+feature-img: /assets/img/blog/falcon-logo-by-plotly-stripe.webp
+#feature-img: /assets/img/
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -26,13 +26,13 @@ header:
 # toc_sticky: true
 ---
 
-![Falcon: Genial Editor SQL con Visualización de Datos, gratuito y código abierto](/assets/images/blog/falcon-logo-by-plotly-stripe.webp "Falcon: Genial Editor SQL con Visualización de Datos, gratuito y código abierto")
+![Falcon: Genial Editor SQL con Visualización de Datos, gratuito y código abierto](/assets/img/blog/falcon-logo-by-plotly-stripe.webp "Falcon: Genial Editor SQL con Visualización de Datos, gratuito y código abierto")
 
 ## **¿Qué es Falcon?**
 
 Falcon es un editor SQL gratuito de código abierto con visualización de datos en línea. Actualmente es compatible con la conexión a **RedShift**, **MySQL**, **PostgreSQL**, **IBM DB2**, **Impala**, **MS SQL**, **Oracle**, **SQLite** y más (para conectarse a Oracle, consulte [aquí](https://github.com/plotly/falcon-sql-client/blob/master/ORACLE.md){:target="_blank" rel="nofollow,noreferrer"} las instrucciones para instalar el Oracle Instant Client gratuito requerido).
 
-![](../assets/images/blog/falcon-1.webp)
+![](../assets/img/blog/falcon-1.webp)
 
 ## **Configurar una conexión a sus bases de datos**
 

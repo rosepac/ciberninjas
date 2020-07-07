@@ -4,11 +4,8 @@ title: "🎧 Música para programar 2019: Versión 1"
 description: "🎧 Las mejores canciones 🎶 con las que centrarte en programar 👨‍💻 Desde la música más actual a canciones de los🕹 más clásicos"
 excerpt: "🎧 Las mejores canciones 🎶 con las que centrarte en programar 👨‍💻 Desde la música más actual a canciones de los🕹 más clásicos"
 permalink: /musica-para-programar-2019-version-1
-header:
-  teaser: "/assets/images/musica/music_radio.jpg"
-  image: "/assets/images/musica/music_radio.jpg"
-  image_description: La mejor música para programar en 2019. Gramola Ciberninjas
-  caption: "**Créditos**: Chica descansa escuchando la Radio de la Gramola Ciberninjas. Creación propia."
+thumbnail: "/assets/img/musica/music_radio.jpg"
+thumbnail2: "/assets/img/musica/music_radio.jpg"
 comments: false
 date: 2019-06-05 23:11:12
 tags:

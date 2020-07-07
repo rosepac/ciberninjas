@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "Gene Myron Amdahl"
 description: 'Gene Myron Amdahl, por su trabajo fundamental en arquitectura y diseño de computadoras, gestión de proyectos y liderazgo.'
 excerpt: 'Gene Myron Amdahl, por su trabajo fundamental en arquitectura y diseño de computadoras, gestión de proyectos y liderazgo.'
@@ -7,9 +7,7 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/gene-myron-amdahl/
 canonical_URL: https://computerhistory.org/profile/gene-myron-amdahl/
-classes: wide
-header:
-  teaser: https://computerhistory.org/wp-content/uploads/2020/01/1998_gene_amdahl-e1580707756539-155x155-c-default.jpg
+thumbnail: https://computerhistory.org/wp-content/uploads/2020/01/1998_gene_amdahl-e1580707756539-155x155-c-default.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

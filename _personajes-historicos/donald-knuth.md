@@ -7,9 +7,8 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/donald-knuth/
 canonical_URL: https://computerhistory.org/profile/donald-knuth/
-classes: wide
-header:
-  teaser: /assets/images/personajes-historicos/1998_donald_knuth.webp
+
+thumbnail: /assets/images/personajes-historicos/1998_donald_knuth.webp
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

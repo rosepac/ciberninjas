@@ -1,14 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Guía
 categories:
 - Productividad
-header:
-  teaser: /assets/images/blog/calcular-productividad.webp
+thumbnail: /assets/img/blog/calcular-productividad.webp
+thumbnail2: /assets/img/blog/calcular-productividad.webp
 title: '💼 ▷ ¿Cómo calcular la productividad?'
 description: >-
   Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?
@@ -22,7 +22,7 @@ published: true
 
 ---
 
-![Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?](/assets/images/blog/calcular-productividad.webp "Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?")
+![Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?](/assets/img/blog/calcular-productividad.webp "Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?")
 <!-- https://www.investopedia.com/ask/answers/040715/how-productivity-calculated.asp -->
 
 La productividad mide la eficiencia del proceso de producción de una empresa. Se calcula dividiendo los resultados producidos por una empresa por los insumos utilizados en su proceso de producción. Los insumos comunes son horas laborales, capital y recursos naturales, mientras que los productos generalmente se miden en ventas o en la cantidad de bienes y servicios producidos. La productividad se puede calcular midiendo el número de unidades producidas en relación con las horas laborales de los empleados o midiendo las ventas netas de una empresa en relación con las horas laborales de los empleados.

@@ -6,23 +6,17 @@ excerpt: "🎶 Ofertas de Auriculares para Diseñadores y Gamers del Black Frida
 permalink: /auriculares-diseño/
 canonical_URL: https://ciberninjas.com/auriculares-diseño/
 published: true
-classes: wide
 comments: false
 date: 2019-11-29 15:32:01 +0200
-header:
-  teaser: /assets/images/paginas/los-mejores-dispositivos/auriculares-diseno.webp
-  overlay_image: /assets/images/paginas/los-mejores-dispositivos/auriculares-beats-6.webp
-  overlay_filter: 0.2
-  image_description: 'Las Mejores Auriculares para Diseñar, Programar o Jugar en el Ordenador | Ciberninjas'
-  image_alt: 'Las Mejores Auriculares para Diseñar, Programar o Jugar en el Ordenador | Ciberninjas'
-  caption: "**Créditos**: Creación propia Ciberninjas"
-  actions:
-    - label: "Black Friday 2019"
-      url: "/black-friday-amazon/"
-    - label: "Consolas & Videojuegos"
-      url: "/videojuegos/"
-    - label: "Disney"
-      url: "/disney-frozen-amazon/"
+thumbnail: /assets/images/paginas/los-mejores-dispositivos/auriculares-diseno.webp
+feature-img: /assets/images/paginas/los-mejores-dispositivos/auriculares-beats-6.webp
+actions:
+  - label: "Black Friday 2019"
+    url: "/black-friday-amazon/"
+  - label: "Consolas & Videojuegos"
+    url: "/videojuegos/"
+  - label: "Disney"
+    url: "/disney-frozen-amazon/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

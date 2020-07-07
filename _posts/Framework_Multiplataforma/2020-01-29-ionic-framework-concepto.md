@@ -4,13 +4,13 @@ title: '🚀 Ionic: Conceptos Básicos del Framework'
 excerpt: '👩‍🚀 Conoce los conceptos básicos en los que se basa el framework de Ionic; sus metas, su licencia, su CLI, su compatibilidad con otros frameworks y sus novedades.'
 description: '👩‍🚀 Conoce los conceptos básicos en los que se basa el framework de Ionic; sus metas, su licencia, su CLI, su compatibilidad con otros frameworks y sus novedades.'
 published: true
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 date: 2020-01-31 11:20:33
 last_modified_at: 
-header:
-  teaser: https://i.ibb.co/3SbbVS3/ionic-framework-og.png
+thumbnail: https://i.ibb.co/3SbbVS3/ionic-framework-og.png
+thumbnail2: https://i.ibb.co/3SbbVS3/ionic-framework-og.png
 tags:
 - Ionic
 - Componentes

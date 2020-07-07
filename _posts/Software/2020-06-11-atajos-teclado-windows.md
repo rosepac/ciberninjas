@@ -1,18 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Windows 10
 categories:
 - Software
-header:
-  teaser: /assets/images/blog/windows-atajos-teclado.webp
-  overlay_image: /assets/images/blog/windows-atajos-teclado.webp
-  overlay_filter: 0.2
-  image_description: '  En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.'
-  image_alt: '  En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.'
+thumbnail: /assets/img/blog/windows-atajos-teclado.webp
+feature-img: /assets/img/blog/windows-atajos-teclado.webp
 title: '🥇 ▷ Atajos de teclado de acceso rápido para Windows 10'
 description: >-
   En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.
@@ -121,6 +117,6 @@ En la lista a continuación, puede encontrar ambos métodos abreviados de teclad
 > 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
-![En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.](/assets/images/blog/windows-atajos-teclado.webp "En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.")
+![En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.](/assets/img/blog/windows-atajos-teclado.webp "En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

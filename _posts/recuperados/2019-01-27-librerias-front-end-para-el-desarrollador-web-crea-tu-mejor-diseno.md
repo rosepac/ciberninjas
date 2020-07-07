@@ -3,7 +3,7 @@ title: '🎨 Librerías de Javascript para Front End de Generación de Animacion
 description: '👨‍🎨 Las mejores librerías Js que podrás aprovechar para dar el mejor aspecto a todos tus proyectos volviéndolos mucho más espectaculares.' 
 excerpt: '👨‍🎨 Las mejores librerías Js que podrás aprovechar para dar el mejor aspecto a todos tus proyectos volviéndolos mucho más espectaculares.' 
 published: true
-author_profile: true
+author: rosepac
 author: true
 comments: false
 date: 2019-01-27 07:01:02

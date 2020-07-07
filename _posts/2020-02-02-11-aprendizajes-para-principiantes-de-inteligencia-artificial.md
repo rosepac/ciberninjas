@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "▷ 11 Fórmulas de comenzar el proceso de aprender programación de Inteligencia Artificial para principiantes"
 description: >-
   \U0001F916 Hay muchos recursos disponibles para que los principiantes desarrollen sus conocimientos y habilidades, o incluso descubran si este camino es para ellos..
@@ -10,11 +10,10 @@ published: true
 comments: false
 date: 2020-03-13 10:30:12
 last_modified_at: 
-header:
-  teaser: https://i.ibb.co/qY90TdR/photo-1531746790731-6c087fecd65a-ixlib-rb-1-2.jpg
+thumbnail: https://i.ibb.co/qY90TdR/photo-1531746790731-6c087fecd65a-ixlib-rb-1-2.jpg
+thumbnail2: https://i.ibb.co/qY90TdR/photo-1531746790731-6c087fecd65a-ixlib-rb-1-2.jpg
 permalink: /11-aprendizajes-principiantes-inteligencia-artificial/
 canonical_URL: https://ciberninjas.com/11-aprendizajes-principiantes-inteligencia-artificial/
-classes: wide
 tags:
 - Aprender
 - Lenguaje
@@ -24,9 +23,11 @@ categories:
 
 ---
 
+Los sistemas de inteligencia artificial representan un amplio área de estudio bastante emocionante: hay una gran demanda de personal que requiere unas habilidades necesarias específicas para estos puestos de trabajo, sobre nuevas tecnologías que aún están en crecimiento y desarrollo.
+
 ![](https://i.ibb.co/qY90TdR/photo-1531746790731-6c087fecd65a-ixlib-rb-1-2.jpg "11 formas de iniciarse en el aprendizaje de la inteligencia artificial para principiantes")
 
-Los sistemas de inteligencia artificial representan un amplio área de estudio bastante emocionante: hay una gran demanda de personal que requiere unas habilidades necesarias específicas para estos puestos de trabajo, sobre nuevas tecnologías que aún están en crecimiento y desarrollo. Sin embargo, puede ser difícil descubrir la mejor fórmula con la que introducirse en estás nuevas tecnologías, especialmente si se quiere aprender por cuenta propia.
+Sin embargo, puede ser difícil descubrir la mejor fórmula con la que introducirse en estás nuevas tecnologías, especialmente si se quiere aprender por cuenta propia.
 
 > 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [diferencia entre AI, ML e DS](/diferencias-entre-ai-ml-dl/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}

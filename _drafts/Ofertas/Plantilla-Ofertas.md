@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "😻 TITULO"
 description: >-
   Las mejores ofertas que existen alrededor de Internet.
@@ -15,7 +15,7 @@ tags:
 categories:
   - Catálogo
 header:
-  overlay_image: '/assets/images/*.jpg'
+feature-img: '/assets/images/*.jpg'
   overlay_filter: 0.2
   image_description: 'DESCRIPCION | Ciberninjas'
   image_alt: 'DESCRIPCION | Ciberninjas'

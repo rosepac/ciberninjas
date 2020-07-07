@@ -1,6 +1,6 @@
 ---
 title: "👩‍💻 Gitpod: Editor de Código Online, ¡Vamos a Programar Desde el Navegador!"
-author_profile: true
+author: rosepac
 description: '👩‍💻 Gitpod: Editor de Código Online, ¡Vamos a Programar Desde el Navegador!'
 excerpt: '👩‍💻 Gitpod: Editor de Código Online, ¡Vamos a Programar Desde el Navegador!'
 published: false
@@ -15,11 +15,8 @@ tags:
 - Online
 - Programar
 - Código
-header:
-  teaser: "/assets/images/gitpod-typefox.jpg"
-  image: "/assets/images/gitpod-typefox.jpg"
-  image_description: "Gitpod: Editor de código online gratis basado en Visual Basic \ Visto en Ciberninjas"
-  caption: "**Créditos**: Capturas de Pantalla by ROSEPAC."
+thumbnail: "/assets/img/gitpod-typefox.jpg"
+thumbnail2: "/assets/img/gitpod-typefox.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

@@ -65,18 +65,8 @@ tags:
 - Yii
 - Yoast
 - Zend
-header:
-  teaser: /assets/images/cursos_estudiar_ideas_2.webp
-  overlay_image: /assets/images/cursos_estudiar_ideas_2.webp
-  overlay_filter: '0.2'
-  image_description: >-
-    Cursos de inglés con cupones gratuitos a través de Udemy - Parte 2 |
-    Ciberninjas
-  caption: '**Créditos**: Creación Propia Ciberninjas'
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+thumbnail: /assets/img/cursos_estudiar_ideas_2.webp
+feature-img: /assets/img/cursos_estudiar_ideas_2.webp
 ---
 
 **&iexcl;&iexcl;&iexcl;LOS CUPONES DE ESTOS CURSOS YA HAN CADUCADO\!\!\!**

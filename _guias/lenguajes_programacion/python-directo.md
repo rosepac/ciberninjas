@@ -3,21 +3,12 @@ title: 🐍 ▷ Noticias en Directo sobre Python
 description: '📰 🐍 El Mejor Canal de Noticias sobre Python en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Lenguaje de Programación Python'
 excerpt: '📰 🐍 El Mejor Canal de Noticias sobre Python en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Lenguaje de Programación Python'
 published: true
-author_profile: true
+author: rosepac
 comments: false
 date: 2020-01-07 15:20:18
 last_modified_at: 2020-01-09
 permalink: /python-directo/
-# header:
-#   teaser: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
-#   overlay_image: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
-#   overlay_filter: 0.2
-#   image_description: '🔨 🐍 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
-#   image_alt: '🔨 🐍 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
-#   caption: "Créditos: Unsplash"
-#   actions:
-#     - label: "Aprender Python"
-#       url: "/python/"
+canonical_URL: https://ciberninjas.com/python-directo/
 ---
 
 <a class="twitter-timeline" data-lang="es" data-theme="light" href="https://twitter.com/ciberninjas/lists/python-relacionado1?ref_src=twsrc%5Etfw">A Twitter List by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

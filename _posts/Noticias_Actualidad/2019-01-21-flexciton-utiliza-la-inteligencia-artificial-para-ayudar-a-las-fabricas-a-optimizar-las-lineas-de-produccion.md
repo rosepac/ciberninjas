@@ -2,7 +2,7 @@
 title: >
     Flexciton utiliza la inteligencia artificial para ayudar a las fábricas a optimizar las líneas de producción
 published: true
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-01-21 06:01:35
 tags:

@@ -1,14 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Productividad
 categories:
 - Cursos
-header:
-  teaser: /assets/images/blog/eficiencia.webp
+thumbnail: /assets/img/blog/eficiencia.webp
+thumbnail2: /assets/img/blog/eficiencia.webp
 title: '🥇 ▷ Los 50 mejores cursos gratis sobre productividad, meditación, relajación, vida y negocios'
 description: >-
   Encuentra las mejores enseñanzas gratuitas con las que aumentar tu eficacia en las horas de trabajo y aprende a concentrarte y utilizar todo tu potencial en cada momento
@@ -22,7 +22,7 @@ published: true
 
 ---
 
-![Los 50 mejores cursos gratis sobre productividad, meditación, relajación, vida y mejoras de negocio](/assets/images/blog/eficiencia.webp "Los 50 mejores cursos gratis sobre productividad, meditación, relajación, vida y mejoras de negocio")
+![Los 50 mejores cursos gratis sobre productividad, meditación, relajación, vida y mejoras de negocio](/assets/img/blog/eficiencia.webp "Los 50 mejores cursos gratis sobre productividad, meditación, relajación, vida y mejoras de negocio")
 
 Vamos a aprovechar el Día Internacional del Trabajador para recopilar los mejores cursos sobre trabajo, productividad, reflexión, meditación, desarrollo personal, y negocios con los que mejorar la eficiencia de tu tiempo y tu actividad diaria.
 

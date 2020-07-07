@@ -4,12 +4,12 @@ title: '▷ 540 Cursos Gratis de Udemy en Inglés: Vamos a Estudiar Programació
 excerpt: '👨‍💻 Los mejores cursos de programación gratis en inglés para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.'
 description: '👨‍💻 Los mejores cursos de programación gratis en inglés para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.'
 published: true
-author_profile: true
+author: rosepac
 comments: false
 date: 2020-01-31 17:00:33
 last_modified_at: 
-header:
-  teaser: https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg
+thumbnail: https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg
+thumbnail2: https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg
 tags:
 - Programación
 categories:

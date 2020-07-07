@@ -1,18 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - 
 categories:
 - Java
-header:
-  teaser: /assets/images/blog/aplicaciones-seguridad.webp
-  overlay_image: /assets/images/blog/aplicaciones-seguridad.webp
-  overlay_filter: 0.2
-  image_description: ''
-  image_alt: ''
+thumbnail: /assets/img/blog/aplicaciones-seguridad.webp
+feature-img: /assets/img/blog/aplicaciones-seguridad.webp
 title: '▷ Signal y Citizen, las aplicaciones más populares entre las protestas de Estados Unidos y medio mundo'
 description: >-
   El crecimiento de las descargas de aplicaciones más utilizadas dentro de las manifestaciones de protesta.

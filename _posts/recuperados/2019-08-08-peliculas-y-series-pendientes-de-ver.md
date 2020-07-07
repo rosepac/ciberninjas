@@ -4,7 +4,7 @@ title: >
     Películas y Series. Estrenos Próximos o Recomendables de
     Ver
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-02-02 10:02:59
 tags: [ ]

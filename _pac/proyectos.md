@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "Proyectos (antiguos) realizados por Pablo Álvarez Corredera"
 description: 'Aquí se pueden encontrar algunos viejos trabajos realizados en la época en la que era estudiante de formación profesional.'
 excerpt: 'Aquí se pueden encontrar algunos viejos trabajos realizados en la época en la que era estudiante de formación profesional.'
@@ -7,19 +7,9 @@ date: 2020-04-18
 last_modified_at: 
 published: true
 permalink: /proyectos/
-classes: wide
 canonical_URL: https://ciberninjas.com/proyectos/
-header:
-  teaser: /assets/images/paginas/chico-trabajando.webp
-  overlay_image: /assets/images/paginas/chico-trabajando.webp
-  overlay_filter: "0.2"
-  image_description: "Aquí se pueden encontrar algunos viejos trabajos realizados en la época en la que era estudiante de formación profesional."
-  image_alt: "Aquí se pueden encontrar algunos viejos trabajos realizados en la época en la que era estudiante de formación profesional."
-  caption: "Aquí se pueden encontrar algunos viejos trabajos realizados en la época en la que era estudiante de formación profesional."
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+thumbnail: /assets/images/paginas/chico-trabajando.webp
+feature-img: /assets/images/paginas/chico-trabajando.webp
 ---
 
 ## Biblioteca de Tecnología

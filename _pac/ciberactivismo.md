@@ -1,12 +1,12 @@
 ---
-author_profile: true
+author: rosepac
 title: "Ciberactivismo o Activismo Digital"
 description: "💪 Las mejores páginas web del mundo, para la protesta y la defensa del mundo de la tecnología y la seguridad digital de las personas"
 excerpt: "💪 Las mejores páginas web del mundo, para la protesta y la defensa del mundo de la tecnología y la seguridad digital de las personas"
 permalink: /activismo-digital/
 # header:
 #   teaser: /assets/images/gifs-colecciones/pensamiento-ecologia.gif
-#   overlay_image: https://i.ibb.co/30rww15/photo-1562786992-4db45ffdbcd3-ixlib-rb-1-2.jpg
+# feature-img: https://i.ibb.co/30rww15/photo-1562786992-4db45ffdbcd3-ixlib-rb-1-2.jpg
 #   overlay_filter: "0.2"
 #   image_description: "Noticias sobre la actualidad de la Ecología"
 #   image_alt: "Noticias sobre la actualidad de la Ecología"

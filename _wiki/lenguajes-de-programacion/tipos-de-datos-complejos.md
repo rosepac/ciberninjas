@@ -6,8 +6,7 @@ excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Cibe
 date: 2019-10-10 11:50:07
 last_modified_at: 2019-10-10 19:51:30
 published: true
-author_profile: true
-classes: wide
+author: rosepac
 permalink: /wiki/tipos-de-datos-complejos/
 canonical_URL: https://ciberninjas.com/wiki/tipos-de-datos-complejos/
 toc_label: "Contenidos"

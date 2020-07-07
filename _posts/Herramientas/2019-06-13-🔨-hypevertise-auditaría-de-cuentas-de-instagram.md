@@ -11,16 +11,12 @@ canonical_URL: https://ciberninjas.com/hypevertise-auditaria-de-cuentas-de-insta
 tags:
 - Instagram
 - Auditoría
-header:
-  overlay_image: "/assets/images/auditoria_instagram_marca.jpg"
-  overlay_filter: "0.2"
-  image_description: "Hypervertise, auditorías, minimalista análisis y control sobre cuentas de Instagram | Visto en Ciberninjas"
-  caption: "**Créditos**: Captura de Pantalla Propia creada por Ciberninjas"
+thumbnail: "/assets/img/auditoria_instagram_marca.jpg"
+feature-img: "/assets/img/auditoria_instagram_marca.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-
 ---
 
 > 📊 Este proyecto denominado **Hypevertise** nos permite revisar en profundidad cualquier cuenta de Instagram, creando una auditor&iacute;a sobre ella, siempre y cuando tenga m&aacute;s de 100 seguidores.
@@ -37,11 +33,11 @@ La herramienta nos ofrece numerosos an&aacute;lisis diferentes, hasta 15, encarg
 
 Estas son im&aacute;genes de un ejemplo realizado sobre una cuenta de una cantante de relevancia a nivel mundial. En concreto, de la exitosa cantante de R & B: Rihanna.
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![Resultados de auditor&amp;iacute;a creada sobre una cuenta de relevancia, visto en Ciberninjas](/assets/images/auditoria_1_marca.jpg "Resultados de auditor&amp;iacute;a creada sobre una cuenta de relevancia, visto en Ciberninjas"){: width="1280" height="720"}
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![Resultados de auditor&amp;iacute;a creada sobre una cuenta de relevancia, visto en Ciberninjas](/assets/img/auditoria_1_marca.jpg "Resultados de auditor&amp;iacute;a creada sobre una cuenta de relevancia, visto en Ciberninjas"){: width="1280" height="720"}
 
-![Resultados gr&amp;aacute;ficos generados de una auditor&amp;iacute;a en una cuenta de millones de usuarios, visto en Ciberninjas](/assets/images/auditoria_2_marca.jpg "Resultados gr&amp;aacute;ficos generados de una auditor&amp;iacute;a en una cuenta de millones de usuarios, visto en Ciberninjas"){: width="1280" height="720"}
+![Resultados gr&amp;aacute;ficos generados de una auditor&amp;iacute;a en una cuenta de millones de usuarios, visto en Ciberninjas](/assets/img/auditoria_2_marca.jpg "Resultados gr&amp;aacute;ficos generados de una auditor&amp;iacute;a en una cuenta de millones de usuarios, visto en Ciberninjas"){: width="1280" height="720"}
 
-![Auditor&amp;iacute;a ejecutada en una importante cuenta de Instagram, visto en Ciberninjas](/assets/images/auditoria_3_marca.jpg "Auditor&amp;iacute;a ejecutada en una importante cuenta de Instagram, visto en Ciberninjas"){: width="1280" height="720"}
+![Auditor&amp;iacute;a ejecutada en una importante cuenta de Instagram, visto en Ciberninjas](/assets/img/auditoria_3_marca.jpg "Auditor&amp;iacute;a ejecutada en una importante cuenta de Instagram, visto en Ciberninjas"){: width="1280" height="720"}
 
 ## &iquest;C&oacute;mo funciona?
 

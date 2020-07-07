@@ -4,13 +4,13 @@ title: '🚀 ¿Qué es DevTools para Flutter y Dart? Aprende sobre la nueva herr
 excerpt: '👩‍🚀 Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.'
 description: '👩‍🚀 Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.'
 published: true
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 date: 2020-06-28 12:05:33
 last_modified_at: 
-header:
-  teaser: /assets/images/2020-news/vscode-show-in-browser.webp
+thumbnail: /assets/img/2020-news/vscode-show-in-browser.webp
+thumbnail2: /assets/img/2020-news/vscode-show-in-browser.webp
 tags:
 - Flutter
 - Dart
@@ -24,7 +24,7 @@ canonical_URL: https://ciberninjas.com/flutter-dart-devtools/
 
 DevTools es un conjunto de herramientas de rendimiento y depuración para Dart y Flutter. Actualmente está en versión preliminar, pero está en desarrollo activo.
 
-![Herramienta de desarrolladores Dart DevTools. Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.](/assets/images/2020-news/vscode-show-in-browser.webp "Herramienta de desarrolladores Dart DevTools. Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.")
+![Herramienta de desarrolladores Dart DevTools. Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.](/assets/img/2020-news/vscode-show-in-browser.webp "Herramienta de desarrolladores Dart DevTools. Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.")
 - [**¿Qué puedo hacer con DevTools?**](#qué-puedo-hacer-con-devtools)
 - [**¿Cómo instalo DevTools?**](#cómo-instalo-devtools)
 - [**¿Cómo pruebo DevTools escrito en Flutter?**](#cómo-pruebo-devtools-escrito-en-flutter)

@@ -1,12 +1,12 @@
 ---
-author_profile: true
+author: rosepac
 title: "🥇 ▷ Los libros favoritos y recomendados por Satya Nadella, para el día del libro 2020"
 description: 'Los lecturas favoritas que han servido de inspiración al actual CEO de Microsoft: Satya Nadella'
 excerpt: 'Los lecturas favoritas que han servido de inspiración al actual CEO de Microsoft: Satya Nadella'
 date: 2020-04-23 12:30:59
 last_modified_at: 
 published: true
-classes: wide
+
 categories:
 - Recomendaciones
 tags:
@@ -15,13 +15,8 @@ tags:
 classed: wide
 permalink: /libros-recomendados-satya-nadella-2020/
 canonical_URL: https://ciberninjas.com/libros-recomendados-satya-nadella-2020/
-header:
-  teaser: /assets/images/blog/abril-satya-nadella.webp
-  overlay_image: /assets/images/blog/abril-satya-nadella.webp
-  overlay_filter: "0.2"
-  image_alt: "Satya Nadella, libros recomendados para el inicio de 2020 | Visto en Ciberninjas"
-  image_description: "Satya Nadella, libros recomendados para el inicio de 2020  | Visto en Ciberninjas"
-  caption: "**Créditos**: [Satya Nadella White House](https://www.flickr.com/photos/Satya Nadellawhitehouse/8109908571), es una [Obra del Gobierno de Estados Unidos](https://www.usa.gov/government-works) bajo sus propidas condiciones de [licencia](https://www.usa.gov/government-works)"
+thumbnail: /assets/img/blog/abril-satya-nadella.webp
+feature-img: /assets/img/blog/abril-satya-nadella.webp
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

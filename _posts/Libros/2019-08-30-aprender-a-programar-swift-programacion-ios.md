@@ -13,23 +13,10 @@ categories:
 permalink: /catalogo/aprende-a-programar-swift-programacion-ios/
 description: "🍏 Aprende a programar con el Sistema Operativo de Apple y su lenguaje de programación específico: Swift"
 excerpt: "🍏 Aprende a programar con el Sistema Operativo de Apple y su lenguaje de programación específico: Swift"
-header:
-  overlay_image: /assets/images/catalogo/aprende-a-programar-swift-grande.jpg
-  image_description: "Aprender a programar Swift, el lenguaje de programación de Apple e iOS | Visto en ciberninjas"
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Amazon**"
-  actions:
-    - label: "+ PROGRAMACIÓN MÓVIL"
-      url: "/categoria/#programación-móvil"
-    - label: "🛒 COMPRAR"
-      url: "https://amzn.to/2PjhGJV"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+feature-img: /assets/img/catalogo/aprende-a-programar-swift-grande.jpg
 sidebar:
   - title: "Autor"
-    image: /assets/images/catalogo/aprende-a-programar-swift-peque.jpg
+    image: /assets/img/catalogo/aprende-a-programar-swift-peque.jpg
     image_alt: "Aprender a programar Swift, el lenguaje de programación de Apple e iOS | Visto en ciberninjas"
     text: "Enrique Flores"
   - title: "Precio Papel"

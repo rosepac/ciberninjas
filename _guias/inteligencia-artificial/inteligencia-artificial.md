@@ -3,19 +3,14 @@ title: 🧠 ▷ Cómo Aprender Inteligencia Artificial
 description: '💡 Los Mejores Recursos con los que Aprender Inteligencia Artificial'
 excerpt: '💡 Los Mejores Recursos con los que Aprender Inteligencia Artificial'
 published: true
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-12-22 01:06:18
 last_modified_at: 
 permalink: /inteligencia-artificial/
 canonical_URL: https://ciberninjas.com/inteligencia-artificial/
-header:
-  teaser: /assets/images/tematicas/nube-palabras-inteligencia-artificial-min.jpg
-  overlay_image: /assets/images/tematicas/nube-palabras-inteligencia-artificial-min.jpg
-  overlay_filter: "0.2"
-  image_description: "Cómo aprender la Inteligencia Artificial en Ciberninjas"
-  image_alt: "Cómo aprender la Inteligencia Artificial en Ciberninjas"
-  caption: "Créditos: Ben Taylor: [Flickr](https://www.flickr.com/photos/182229932@N07/48688109908) bajo [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)"
+thumbnail: /assets/images/tematicas/nube-palabras-inteligencia-artificial-min.jpg
+feature-img: /assets/images/tematicas/nube-palabras-inteligencia-artificial-min.jpg
 #  actions:
 #    - label: ""
 #      url: "//"

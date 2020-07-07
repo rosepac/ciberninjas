@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - CEO Famosos
 categories:
 - Recomendaciones
-header:
-  teaser: /assets/images/blog/marzo-hacking-wallpaper-pc-so
+thumbnail: /assets/img/blog/marzo-hacking-wallpaper-pc-so
 title: '11  Libros que inspiraron a 11 de los CEO de las empresas más importantes: Mark Zuckerberg, Jeff Bezos, Jack Dorsey, etc.'
 description: >-
   🔥 Lista de Sistemas Operativos Gratuitos para Hacker en 2020
@@ -22,7 +21,7 @@ published: true
 
 ---
 
-![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/images/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
+![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
 
 <!-- https://lifehacker.ru/ceo-books/ -->
 

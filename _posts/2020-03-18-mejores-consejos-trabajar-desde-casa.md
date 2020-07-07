@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Consejos
 categories:
 - Teletrabajo
-header:
-  teaser: /assets/images/blog/trabajo-relajante-2.webp
+thumbnail: /assets/img/blog/trabajo-relajante-2.webp
+thumbnail2: /assets/img/blog/trabajo-relajante-2.webp
 title: '🥇 ▷ TIPS: Las 11 Mejores CONSEJOS para trabajar en casa 2020 🏡'
 description: >-
   Los consejos perfectos para trabajar y construir tu propia oficina en casa.
@@ -22,9 +21,9 @@ published: true
 
 ---
 
-![Los mejores consejos para ser eficaz en el teletrabajo en 2020](/assets/images/blog/trabajo-relajante-2.webp "Los mejores consejos para ser eficaz en el teletrabajo en 2020")
-
 Muchas compañías, especialmente las tecnológicas como Twitter, Google, Facebook, Amazon y otras más; han ido recomendando trabajar en casa para su personal a raíz del maldito coronavirus.
+
+![Los mejores consejos para ser eficaz en el teletrabajo en 2020](/assets/img/blog/trabajo-relajante-2.webp "Los mejores consejos para ser eficaz en el teletrabajo en 2020")
 
 <!-- 12+1 https://eu.usatoday.com/story/tech/2020/03/05/working-at-home-13-tips-tools-best-practices/4955847002/ -->
 <!-- https://www.google.com/search?q=best+mousepad+for+2020&sourceid=ie7&rls=com.microsoft:en-US&ie=utf8&oe=utf8 -->

@@ -1,19 +1,15 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Adobe
 - Cámaras
 categories:
 - Aplicaciones
-header:
-  teaser: /assets/images/blog/app-camara-photoshop.webp
-  overlay_image: /assets/images/blog/app-camara-photoshop.webp
-  overlay_filter: 0.2
-  image_description: 'Adobe Photoshop Camera se lanza hoy en iOS y Android. La aplicación es gratuita y ofrece filtros faciales y fotográficos, incluido uno realizado en colaboración con Billie Eilish.'
-  image_alt: 'Adobe Photoshop Camera se lanza hoy en iOS y Android. La aplicación es gratuita y ofrece filtros faciales y fotográficos, incluido uno realizado en colaboración con Billie Eilish.'
+thumbnail: /assets/img/blog/app-camara-photoshop.webp
+feature-img: /assets/img/blog/app-camara-photoshop.webp
 title: '▷ Adobe lanza Photoshop Camera, una aplicación gratuita con toneladas de elaborados filtros faciales'
 description: >-
   Adobe Photoshop Camera se lanza hoy en iOS y Android. La aplicación es gratuita y ofrece filtros faciales y fotográficos, incluido uno realizado en colaboración con Billie Eilish.
@@ -48,7 +44,7 @@ Adobe tiene la intención de agregar más filtros con el tiempo, algunos de los 
 Para Adobe, el objetivo también es introducir a las personas a tu ecosistema a través de aplicaciones más pequeñas y menos intimidantes, con la esperanza de convertir algunas de ellas en tus herramientas profesionales pagas. La estrategia está "funcionando bien", dijo Parasnis, "y Photoshop Camera es la próxima en ese viaje para nosotros".
 
 ![  Adobe Photoshop Camera se lanza hoy en iOS y Android. La aplicación es gratuita y ofrece filtros faciales y fotográficos, incluido uno realizado en colaboración con Billie Eilish.
-](/assets/images/blog/app-camara-photoshop.webp "  Adobe Photoshop Camera se lanza hoy en iOS y Android. La aplicación es gratuita y ofrece filtros faciales y fotográficos, incluido uno realizado en colaboración con Billie Eilish.
+](/assets/img/blog/app-camara-photoshop.webp "  Adobe Photoshop Camera se lanza hoy en iOS y Android. La aplicación es gratuita y ofrece filtros faciales y fotográficos, incluido uno realizado en colaboración con Billie Eilish.
 ")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

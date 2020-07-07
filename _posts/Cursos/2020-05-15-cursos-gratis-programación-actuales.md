@@ -1,25 +1,20 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Udemy
 categories:
 - Cursos
 # header:
-#   teaser: /assets/images/blog/
+#   teaser: /assets/img/blog/
 title: 'Los 100 Cursos de Programación GRATIS más nuevos de Udemy'
 description: >-
   Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc.
 excerpt: >-
   Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc.
-header:
-  teaser: /assets/images/blog/diseño-programacion-web.webp
-  overlay_image: /assets/images/blog/diseño-programacion-web.webp
-  overlay_filter: 0.2
-  image_description: "Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc."
-  image_alt: "Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc."
+thumbnail: /assets/img/blog/diseño-programacion-web.webp
+feature-img: /assets/img/blog/diseño-programacion-web.webp
 canonical_URL: https://ciberninjas.com/cursos-udemy-programación-más-actuales/
 permalink: /cursos-udemy-programación-más-actuales/
 date: 2020-05-16 21:05:32

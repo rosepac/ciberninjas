@@ -1,16 +1,14 @@
 ---
-author_profile: true
+author: rosepac
 title: "Sobre Política"
 description: 'Política, influencias y abridores de mente.'
 excerpt: 'Política, influencias y abridores de mente.'
 date: 2019-11-14
 last_modified_at: 2019-11-14 13:30:02
 published: false
-classes: wide
 permalink: 
 canonical_URL: 
-header:
-  teaser: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
+thumbnail: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

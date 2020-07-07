@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ El mejor software de seguridad para tu PC en 2020 🔐"
 description: "Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos"
 excerpt: "Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos"
@@ -7,15 +7,10 @@ published: true
 comments: false
 date: 2020-01-17 09:30:12
 last_modified_at: 
-classes: wide
+
 canonical_URL: /el-mejor-software-seguridad-2020/
-header:
-  teaser: https://i.ibb.co/ypm2bDJ/photo-1560854350-13c0b47a3180.jpg
-  overlay_image: https://i.ibb.co/ypm2bDJ/photo-1560854350-13c0b47a3180.jpg
-  overlay_filter: 0.2
-  image_description: 'Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos'
-  image_alt: 'Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos'
-  caption: "Créditos: Unsplash"
+thumbnail: https://i.ibb.co/ypm2bDJ/photo-1560854350-13c0b47a3180.jpg
+feature-img: https://i.ibb.co/ypm2bDJ/photo-1560854350-13c0b47a3180.jpg
 categories:
 - Software
 - Seguridad
@@ -26,7 +21,7 @@ tags:
 - Router
 # header:
 #  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
+# feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 #   overlay_filter: 0.2
 #   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
 #   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'

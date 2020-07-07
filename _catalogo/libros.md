@@ -6,16 +6,10 @@ published: true
 date: 2019-09-23 22:10:09
 last_modified_at: 2019-12-10
 author_profile: false
-classes: wide
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: false
 permalink: /libros/
 canonical_URL: https://ciberninjas.com/libros/
-header:
-  teaser: https://i.ibb.co/BGJ9jjL/libros-mariposa.gif
-  overlay_image: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
+thumbnail: https://i.ibb.co/BGJ9jjL/libros-mariposa.gif
+feature-img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
   overlay_filter: 0.2
   image_description: 'Los mejores libros de aprendizaje tecnológico | Ciberninjas'
   image_alt: 'Los mejores libros de aprendizaje tecnológico | Ciberninjas'

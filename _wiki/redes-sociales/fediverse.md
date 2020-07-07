@@ -9,12 +9,10 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: true
-author_profile: true
+author: rosepac
 permalink: /wiki/fediverso/
 canonical_URL: https://ciberninjas.com/wiki/fediverso/
-classes: wide
-header:
-  teaser: /assets/images/2020-news/fediverso.webp
+thumbnail: /assets/images/2020-news/fediverso.webp
 
 ---
 

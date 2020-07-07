@@ -4,7 +4,7 @@ title: >
     Complemento oficial de AMP versión estable 1.0 para
     Wordpress
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-01-08 12:01:01
 tags:

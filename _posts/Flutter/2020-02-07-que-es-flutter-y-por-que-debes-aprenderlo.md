@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "🥇 ▷ ¿Qué es el kit de desarrollo multiplataforma Flutter?"
 description: >-
   🚀 Flutter es un framework multiplataforma, tecnología de desarrollo de aplicaciones móviles que se encuentra en crecimiento durante el año 2020.
@@ -10,11 +10,11 @@ published: true
 comments: false
 date: 2020-02-07 14:44:12
 last_modified_at: 
-header:
-  teaser: /assets/images/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
+thumbnail: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
+thumbnail2: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
 permalink: /que-es-flutter-y-por-que-debes-aprenderlo/
 canonical_URL: https://ciberninjas.com/que-es-flutter-y-por-que-debes-aprenderlo/
-classes: wide
+
 tags:
 - Flutter
 categories:
@@ -24,7 +24,7 @@ categories:
 
 Este año, las aplicaciones móviles continuaron siendo cada vez más populares. Afortunadamente, hay muchas herramientas de programación disponibles para los desarrolladores que desean crearlas. Entre estas herramientas está Flutter, que se ha destacado por su mayor aceptación y uso últimamente.
 
-![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/images/frameworks-multiplataforma/flutter-logo-animation-v1-2.webp "Logotipo oficial del SDK multiplataforma de Flutter")
+![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/img/frameworks-multiplataforma/flutter-logo-animation-v1-2.webp "Logotipo oficial del SDK multiplataforma de Flutter")
 - [**¿Qué es el kit de desarrollo Flutter?**](#qué-es-el-kit-de-desarrollo-flutter)
 - [**¿Por qué deberías aprender Flutter?**](#por-qué-deberías-aprender-flutter)
 - [**Flutter Es simple de aprender y usar**](#flutter-es-simple-de-aprender-y-usar)

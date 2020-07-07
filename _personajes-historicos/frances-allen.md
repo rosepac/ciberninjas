@@ -7,9 +7,8 @@ date: 2020-02-11
 published: true
 permalink: /personajes-historicos/frances-allen/
 canonical_URL: https://computerhistory.org/profile/frances-allen/
-classes: wide
-header:
-  teaser: /assets/images/personajes-historicos/2000_frances_allen.webp
+
+thumbnail: /assets/images/personajes-historicos/2000_frances_allen.webp
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

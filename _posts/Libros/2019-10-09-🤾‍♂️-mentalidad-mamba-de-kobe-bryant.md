@@ -16,17 +16,7 @@ description: >-
   🏀 ¿Cómo juego? Reflexiones y consejos de uno de los mejores.
 excerpt: >-
   🏀 ¿Cómo juego? Reflexiones y consejos de uno de los mejores.
-header:
-  overlay_image: https://i.ibb.co/18jHPqY/kobe-the-mamba-mentality.jpg
-  image_description: >-
-    Mentalidad Mamba en Español: Mentalidad Mamba de Kobe Bryant, reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto | Ciberninjas
-  overlay_filter: 0.3
-  caption: 'Créditos: **LeanPub**'
-  actions:
-    - label: + DESARROLLO PERSONAL
-      url: '/categoria/#desarrollo-personal'
-    - label: "\U0001F6D2 COMPRAR"
-      url: 'https://amzn.to/2pQYs1R'
+feature-img: https://i.ibb.co/18jHPqY/kobe-the-mamba-mentality.jpg
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
@@ -34,7 +24,7 @@ toc_sticky: true
 author_profile: false
 sidebar:
   - title: Autor
-    image: /assets/images/catalogo/mentalidad-mamba-kobe-bryantx250.jpg
+    image: /assets/img/catalogo/mentalidad-mamba-kobe-bryantx250.jpg
     image_alt: >-
       Mentalidad Mamba de Kobe Bryant, reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto | Ciberninjas
     text: Kobe Bryant y María Maestro Cuadrado

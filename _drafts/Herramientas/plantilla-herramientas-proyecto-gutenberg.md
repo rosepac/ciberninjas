@@ -1,6 +1,6 @@
 ---
 title: "🔨 TITULO"
-author_profile: true
+author: rosepac
 description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 date: 
@@ -11,7 +11,7 @@ canonical_URL:
 tags:
 - ETIQUETAS
 header:
-  overlay_image: "/assets/images/.jpg"
+feature-img: "/assets/images/.jpg"
   overlay_filter: "0.2"
   image_description: "DESCRIPCION IMAGEN | Ciberninjas"
 caption: "**Créditos**: Captura de Pantalla Propia creada por Ciberninjas"

@@ -8,13 +8,9 @@ date: 2020-03-10
 last_modified_at: 
 permalink: /robots-txt/
 canonical_URL: https://ciberninjas.com/robots-txt/
-classes: wide
-author_profile: true
-header:
-  overlay_image: "/assets/images/robots-txt-lupa-ciberninjas.webp"
-  image_description: Robots txt, la configuración de tu página para los rastreadores de los buscadores más importantes | Ciberninjas
-  caption: "**Créditos**: Edición Personal Sobre Foto de Emiliano Vittoriosi en Unsplash"
-  teaser: "/assets/images/robots-txt-lupa-ciberninjas.webp"
+author: rosepac
+thumbnail: "/assets/images/robots-txt-lupa-ciberninjas.webp"
+feature-img: "/assets/images/robots-txt-lupa-ciberninjas.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

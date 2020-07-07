@@ -3,22 +3,19 @@ title: "\U0001F528 Genera Código de Inserción de Google Fotos"
 description: "\U0001F39E Inserta tus imágenes favoritas de Google Fotos en tu página web o sitio Online favorito a través de un código de inserción en HTML generado automáticamente."
 excerpt: "\U0001F39E Inserta tus imágenes favoritas de Google Fotos en tu página web o sitio Online favorito a través de un código de inserción en HTML generado automáticamente."
 published: true
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-07-18 07:07:00 +0200
 header:
-  overlay_image: /assets/images/Generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg
-  overlay_filter: 0.2
-  image_description: >-
-    Generar código para insertar una imagen o fotografía de Google Photos |
-    ROSEPAC
-  caption: '**Créditos**: Creación propia / ROSEPAC'
+thumbnail: /assets/img/Generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg
+feature-img: /assets/img/Generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg
 tags:
   - Imágenes
   - Google Photos
 categories:
   - Herramientas
-permalink: /genera-codigo-insercion-google-fotos
+permalink: /genera-codigo-insercion-google-fotos/
+canonical_URL: /genera-codigo-insercion-google-fotos/
 ---
 
 Si has estado utilizando Google Photos para hacer una copia de seguridad de tus fotos en la nube, pero Google no ofrece ninguna opci&oacute;n para que incrustes tus im&aacute;genes subidas dentro de tu sitio web.
@@ -27,7 +24,7 @@ Esta aplicaci&oacute;n te ayudar&aacute; de forma simple y sencilla. Abre cualqu
 
 Posteriormente pegarlo en el cuadro dentro de [la p&aacute;gina CtrlQ](https://ctrlq.org/google/photos) y autom&aacute;ticamente se generar&aacute; el c&oacute;digo HTML necesario de inserci&oacute;n, todo con un solo clic.
 
-![Código generado en HTML para la inserción de las fotografías de Google Photos deseadas, visto en Ciberninjas](/assets/images/Codigo-generado-en-HTML-para-la-insercion-de-la-fotografia-de-Google-Photos-deseada.jpg "Código generado en HTML para la inserción de las fotografías de Google Photos deseadas, visto en Ciberninjas"){: width="1280" height="720"}
+![Código generado en HTML para la inserción de las fotografías de Google Photos deseadas, visto en Ciberninjas](/assets/img/Codigo-generado-en-HTML-para-la-insercion-de-la-fotografia-de-Google-Photos-deseada.jpg "Código generado en HTML para la inserción de las fotografías de Google Photos deseadas, visto en Ciberninjas"){: width="1280" height="720"}
 
 El resultado son dos enlaces; uno directo a la imagen que podr&aacute;s usar donde desees.
 

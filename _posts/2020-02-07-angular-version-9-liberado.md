@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: '▷ Angular 9: Nueva versión del Framework Javascript'
 description: "Novedades de la nueva versión del framework Angular"
 excerpt: "Novedades de la nueva versión del framework Angular"
@@ -8,11 +8,10 @@ published: true
 comments: false
 date: 2020-02-07 12:15:12
 last_modified_at: 
-header:
-  teaser: /assets/images/frameworks-multiplataforma/angular-framework.jpg
+thumbnail: /assets/img/frameworks-multiplataforma/angular-framework.jpg
+thumbnail2: /assets/img/frameworks-multiplataforma/angular-framework.jpg
 permalink: /angular-version-9-liberado/
 canonical_URL: https://ciberninjas.com/angular-version-9-liberado/
-classes: wide
 categories:
 - Framework Multiplataforma
 tags:
@@ -20,9 +19,9 @@ tags:
 
 ---
 
-![](/assets/images/frameworks-multiplataforma/angular-framework.jpg "Logotipo del framework multiplataforma Angular")
-
 Se acaba de anunciar el lanzamiento de una nueva versión del framework multiplataforma Angular con importantes cambios e implementaciones; entre las que se incluye un compilador denominado: Ivy.
+
+![](/assets/img/frameworks-multiplataforma/angular-framework.jpg "Logotipo del framework multiplataforma Angular")
 
 La nueva versión trae reformas en toda la plataforma, dese el framework, la librería de Interfaz de Usuario paralelea "Angular Material" y la CLI o interfaz de línea de comandos de Angular. La nueva versión va a utilizar el compilador Ivy de forma predeterminada e introduce cambios y mejoras en las técnicas usadas para la realización de pruebas de los componentes de Angular.
 

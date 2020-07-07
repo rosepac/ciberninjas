@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - 
 categories:
 - Java
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
+thumbnail2: /assets/img/blog/
 title: '🥇 ▷ ¿Por qué cambie de Mac a Linux?'
 description: >-
   '💻 Breve reflexión sobre el cambio positivo de sistema operativo como iOS hacia Linux'
@@ -28,7 +27,7 @@ Lee Tusman es un artista, programador y educador de nuevos medios interesado en 
 
 Su producción artística incluye medios interactivos, videoarte, net art, videojuegos experimentales, arte sonoro, sitios web, bots de twitter y estaciones de radio de micropoder.
 
-![Por qué deberías cambiar del sistema operativo de MAC al sistema operativo de Linux](/assets/images/blog/cambiar-mac-linux.webp "Por qué deberías cambiar del sistema operativo de MAC al sistema operativo de Linux")
+![Por qué deberías cambiar del sistema operativo de MAC al sistema operativo de Linux](/assets/img/blog/cambiar-mac-linux.webp "Por qué deberías cambiar del sistema operativo de MAC al sistema operativo de Linux")
 
 En 1994, mi familia compró una Macintosh Performa 475 como computadora doméstica. Había usado computadoras Macintosh SE en la escuela y aprendí a escribir con Mavis Beacon Teaches Typing, así que he sido usuario de Mac por más de 25 años.
 

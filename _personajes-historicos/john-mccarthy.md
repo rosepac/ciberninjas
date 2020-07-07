@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "John McCarthy"
 description: 'John McCarthy, por ser el cofundador de la Inteligencia Artificial (IA) y sistemas de tiempo compartido, y por sus importantes contribuciones a las matemáticas y la informática.'
 excerpt: 'John McCarthy, por ser el cofundador de la Inteligencia Artificial (IA) y sistemas de tiempo compartido, y por sus importantes contribuciones a las matemáticas y la informática.'
@@ -7,9 +7,7 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/john-mccarthy/
 canonical_URL: https://computerhistory.org/profile/john-mccarthy/
-classes: wide
-header:
-  teaser: https://computerhistory.org/wp-content/uploads/2019/07/jmccarthy.jpg
+thumbnail: https://computerhistory.org/wp-content/uploads/2019/07/jmccarthy.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

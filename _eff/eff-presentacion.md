@@ -7,13 +7,8 @@ last_modified_at:
 permalink: /eff/fundacion-frontera-electronica/
 canonical_URL: https://ciberninjas.com/eff/fundacion-frontera-electronica/
 published: true
-header:
-   overlay_image: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
-   overlay_filter: "0.2"
-   image_description: "Conoce todo lo que debes saber sobre la Fundación Frontera Electrónica \ Visto en Ciberninjas"
-   image_alt: "Conoce todo lo que debes saber sobre la Fundación Frontera Electrónica \ Visto en Ciberninjas"
-   caption: "**Créditos**: EFF Creative Commons 3.0"
-   teaser: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
+thumbnail: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
+feature-img: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
 # sidebar:
 # - title: "Catálogo"
 #   nav: tienda

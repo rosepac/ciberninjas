@@ -6,9 +6,8 @@ last_modified_at: 2019-12-10
 permalink: /instagram/
 canonical_URL: https://ciberninjas.com/instagram/
 published: false
-header:
-  teaser: https://i.ibb.co/JF0PGRS/twitter-pajaro-feliz.gif
-  overlay_image: https://i.ibb.co/Vt92M9W/photo-1551817958-20204d6ab212-ixlib-rb-1-2.jpg
+thumbnail: https://i.ibb.co/JF0PGRS/twitter-pajaro-feliz.gif
+feature-img: https://i.ibb.co/Vt92M9W/photo-1551817958-20204d6ab212-ixlib-rb-1-2.jpg
   overlay_filter: "0.1"
   image_description: "Recursos sobre  Instagram en Ciberninjas"
   image_alt: "Recursos sobre Instagram en Ciberninjas"

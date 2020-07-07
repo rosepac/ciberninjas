@@ -17,23 +17,15 @@ permalink: /catalogo/react-native-para-el-desarrollo-movil/
 published: false
 description: "🚀 React Native para el Desarrollo Móvil de Abhishek Nalwaya y Akshat Paul"
 excerpt: "🚀 React Native para el Desarrollo Móvil de Abhishek Nalwaya y Akshat Paul"
-header:
-  overlay_image: /assets/images/catalogo/el-enemigo-conoce-el-sistemaxgrande.jpg
-  image_description: "React Native para el Desarrollo Móvil | Ciberninjas"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Amazon**"
-  actions:
-    - label: "+ SEGURIDAD INFORMÁTICA"
-      url: "/categoria/#seguridad-inform%C3%A1tica"
-    - label: "🛒 COMPRAR"
-      url: "https://amzn.to/2Z46eBx"
+thumbnail: /assets/img/catalogo/el-enemigo-conoce-el-sistemaxgrande.jpg
+feature-img: /assets/img/catalogo/el-enemigo-conoce-el-sistemaxgrande.jpg
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 sidebar:
   - title: "Autora"
-    image: /assets/images/catalogo/el-enemigo-conoce-el-sistemax250.jpg
+    image: /assets/img/catalogo/el-enemigo-conoce-el-sistemax250.jpg
     image_alt: "React Native para el Desarrollo Móvil: Ciberninjas"
     text: "Abhishek Nalwaya y Akshat Paul"
   - title: "Precio Papel"

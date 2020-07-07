@@ -1,7 +1,7 @@
 ---
 author_profile: false
 comments: false
-classes: wide
+
 layout: splash
 tags:
 - Jenkins
@@ -22,15 +22,8 @@ tags:
 - Gitlab CI
 categories:
 - Distribución Continua
-header:
-  teaser: /assets/images/blog/devops-ciclo.webp
-  overlay_image: /assets/images/blog/devops-ciclo.webp
-  overlay_filter: 0.2
-  image_description: Alternativas a Jenkins, la plataforma de integración continua de código abierto que se ha convertido en una herramienta crucial dentro del ciclo de vida de los DevOps.
-  image_alt: Alternativas a Jenkins, la plataforma de integración continua de código abierto que se ha convertido en una herramienta crucial dentro del ciclo de vida de los DevOps.
-  actions:
-    - label: "Jenkins"
-      url: "/jenkins/"
+thumbnail: /assets/img/blog/devops-ciclo.webp
+feature-img: /assets/img/blog/devops-ciclo.webp
 title: '15 Mejores alternativas a Jenkins en 2020'
 description: >-
   Alternativas a Jenkins, la plataforma de integración continua de código abierto que se ha convertido en una herramienta crucial dentro del ciclo de vida de los DevOps.
@@ -57,7 +50,7 @@ En la lista se incluyen las herramienta de integración continua de código abie
 
 ## 1. **Strider CD**
 
-![Nueva alternativa a Jenkins: Strider CD](/assets/images/alternativas-jenkins/strider.webp "Nueva alternativa a Jenkins: Strider CD")
+![Nueva alternativa a Jenkins: Strider CD](/assets/img/alternativas-jenkins/strider.webp "Nueva alternativa a Jenkins: Strider CD")
 
 Strider es una herramienta de código abierto. Está escrito en Node.JS / JavaScript. Utiliza MongoDB como tienda de respaldo. Por lo tanto, MongoDB y Node.js son esenciales para instalar este CI. La herramienta ofrece soporte para diferentes complementos que modifican el esquema de la base de datos y registran rutas HTTP.
 
@@ -76,7 +69,7 @@ Strider es una herramienta de código abierto. Está escrito en Node.JS / JavaSc
 
 ## 2. **Gitlab CI**
 
-![Nueva alternativa a Jenkins: Gitlab CI](/assets/images/alternativas-jenkins/gitlab.webp "Nueva alternativa a Jenkins: Gitlab CI")
+![Nueva alternativa a Jenkins: Gitlab CI](/assets/img/alternativas-jenkins/gitlab.webp "Nueva alternativa a Jenkins: Gitlab CI")
 
 GitLab CI es parte de GitLab. Es una aplicación web con una API que almacena su estado en una base de datos. Gestiona proyectos y proporciona una interfaz de usuario amigable, además de ofrecer la ventaja de todas las características de GitLab.
 
@@ -95,7 +88,7 @@ GitLab CI es parte de GitLab. Es una aplicación web con una API que almacena su
 
 ## 3. **Go CD**
 
-![Nueva alternativa a Jenkins: Go CD](/assets/images/alternativas-jenkins/gocd.webp "Nueva alternativa a Jenkins: Go CD")
+![Nueva alternativa a Jenkins: Go CD](/assets/img/alternativas-jenkins/gocd.webp "Nueva alternativa a Jenkins: Go CD")
 
 GoCD es un servidor de integración continua de código abierto. Se utiliza para modelar y visualizar flujos de trabajo complejos con facilidad. Esta herramienta de CI permite la entrega continua y proporciona una interfaz intuitiva para construir canalizaciones de CD.
 
@@ -114,7 +107,7 @@ GoCD es un servidor de integración continua de código abierto. Se utiliza para
 
 ## 4. **FinalBuilder**
 
-![Nueva alternativa a Jenkins: Final Builder](/assets/images/alternativas-jenkins/finalbuilder.webp "Nueva alternativa a Jenkins: Final Builder")
+![Nueva alternativa a Jenkins: Final Builder](/assets/img/alternativas-jenkins/finalbuilder.webp "Nueva alternativa a Jenkins: Final Builder")
 
 FinalBuilder es la herramienta de compilación de Vsoft. Con Vsoft no hay necesidad de editar XML o escribir scripts. Puede definir y depurar scripts de compilación cuando los programe con el programador de Windows, o integre con Jenkins, Continua CI, etc.
 
@@ -131,7 +124,7 @@ FinalBuilder es la herramienta de compilación de Vsoft. Con Vsoft no hay necesi
 
 ## 5. **Urbancode**
 
-![Nueva alternativa a Jenkins: UrbanCode](/assets/images/alternativas-jenkins/urbancode.webp "Nueva alternativa a Jenkins: UrbanCode")
+![Nueva alternativa a Jenkins: UrbanCode](/assets/img/alternativas-jenkins/urbancode.webp "Nueva alternativa a Jenkins: UrbanCode")
 
 IBM UrbanCode Deploy es una aplicación de CI. Combina visibilidad robusta, trazabilidad y funciones de auditoría en un solo paquete.
 
@@ -150,7 +143,7 @@ IBM UrbanCode Deploy es una aplicación de CI. Combina visibilidad robusta, traz
 
 ## 6. **Autorabit**
 
-![Nueva alternativa a Jenkins: Autorabit](/assets/images/alternativas-jenkins/autorabit.webp "Nueva alternativa a Jenkins: Autorabit")
+![Nueva alternativa a Jenkins: Autorabit](/assets/img/alternativas-jenkins/autorabit.webp "Nueva alternativa a Jenkins: Autorabit")
 
 AutoRABIT es una suite de entrega continua de extremo a extremo para acelerar el proceso de desarrollo. Agiliza el proceso de lanzamiento completo. Ayuda a la organización de cualquier tamaño a implementar la integración continua.
 
@@ -165,7 +158,7 @@ AutoRABIT es una suite de entrega continua de extremo a extremo para acelerar el
 
 ## 7. **Circle CI**
 
-![Nueva alternativa a Jenkins: Circle CI](/assets/images/alternativas-jenkins/circleci.webp "Nueva alternativa a Jenkins: Circle CI")
+![Nueva alternativa a Jenkins: Circle CI](/assets/img/alternativas-jenkins/circleci.webp "Nueva alternativa a Jenkins: Circle CI")
 
 Circle CI es una herramienta de CI flexible que se ejecuta en cualquier entorno como aplicaciones móviles multiplataforma, servidor Python API o clúster Docker. Esta herramienta reduce errores y mejora la calidad de la aplicación.
 
@@ -185,7 +178,7 @@ Circle CI es una herramienta de CI flexible que se ejecuta en cualquier entorno 
 
 ## 8. **TeamCity**
 
-![Nueva alternativa a Jenkins: TeamCity](/assets/images/alternativas-jenkins/teamcity.webp "Nueva alternativa a Jenkins: TeamCity")
+![Nueva alternativa a Jenkins: TeamCity](/assets/img/alternativas-jenkins/teamcity.webp "Nueva alternativa a Jenkins: TeamCity")
 
 TeamCity es un servidor de integración continua que admite muchas funciones potentes.
 
@@ -206,7 +199,7 @@ TeamCity es un servidor de integración continua que admite muchas funciones pot
 
 ## 9. **Buildkite**
 
-![Nueva alternativa a Jenkins: Builkite](/assets/images/alternativas-jenkins/buildkite.webp "Nueva alternativa a Jenkins: Builkite")
+![Nueva alternativa a Jenkins: Builkite](/assets/img/alternativas-jenkins/buildkite.webp "Nueva alternativa a Jenkins: Builkite")
 
 El agente buildkite es un corredor de compilación confiable y multiplataforma. Esta herramienta de CI facilita la ejecución de compilaciones automatizadas en su infraestructura. Se utiliza principalmente para ejecutar trabajos de compilación, informar el código de estado y el registro de salida del trabajo.
 
@@ -223,7 +216,7 @@ El agente buildkite es un corredor de compilación confiable y multiplataforma. 
 
 ## 10. **Wercker**
 
-![Nueva alternativa a Jenkins: Wercker](/assets/images/alternativas-jenkins/wercker.webp "Nueva alternativa a Jenkins: Wercker")
+![Nueva alternativa a Jenkins: Wercker](/assets/img/alternativas-jenkins/wercker.webp "Nueva alternativa a Jenkins: Wercker")
 
 Wercker es una herramienta de CI que automatiza las compilaciones y despliega el contenedor. Crea tuberías automatizadas que se pueden ejecutar a través de la interfaz de línea de comandos.
 
@@ -242,7 +235,7 @@ Wercker es una herramienta de CI que automatiza las compilaciones y despliega el
 
 ## 11. **Bitrise**
 
-![Nueva alternativa a Jenkins: Bitrise](/assets/images/alternativas-jenkins/bitrise.webp "Nueva alternativa a Jenkins: Bitrise")
+![Nueva alternativa a Jenkins: Bitrise](/assets/img/alternativas-jenkins/bitrise.webp "Nueva alternativa a Jenkins: Bitrise")
 
 Bitrise es una plataforma de integración y entrega continua como un servicio. Ofrece integración y entrega continua móvil para todo su equipo. Permite integraciones con muchos servicios populares como Slack, HipChat, HockeyApp, Crashlytics, etc.
 
@@ -258,7 +251,7 @@ Bitrise es una plataforma de integración y entrega continua como un servicio. O
 
 ## 12. **Bamboo**
 
-![Nueva alternativa a Jenkins: Bamboo](/assets/images/alternativas-jenkins/bamboo.webp "Nueva alternativa a Jenkins: Bamboo")
+![Nueva alternativa a Jenkins: Bamboo](/assets/img/alternativas-jenkins/bamboo.webp "Nueva alternativa a Jenkins: Bamboo")
 
 Bamboo es un servidor de compilación de integración continua que realiza: compilación, prueba y lanzamientos automáticos en un solo lugar. Funciona a la perfección con el software JIRA y Bitbucket. Bamboo admite muchos idiomas y tecnologías como CodeDeply, Ducker, Git, SVN, Mercurial, AWS y Amazon S3.
 
@@ -276,7 +269,7 @@ Bamboo es un servidor de compilación de integración continua que realiza: comp
 
 ## 13. **Buddy**
 
-![Nueva alternativa a Jenkins: Budyy](/assets/images/alternativas-jenkins/buddy.webp "Nueva alternativa a Jenkins: Budyy")
+![Nueva alternativa a Jenkins: Budyy](/assets/img/alternativas-jenkins/buddy.webp "Nueva alternativa a Jenkins: Budyy")
 
 Buddy es una herramienta inteligente de CI / CD para desarrolladores web diseñada para reducir el umbral de entrada a DevOps. Utiliza canales de entrega para construir, probar e implementar software. Las tuberías se crean con más de 100 acciones listas para usar que se pueden organizar de cualquier manera, al igual que se construye una casa de ladrillos.
 
@@ -296,7 +289,7 @@ Buddy es una herramienta inteligente de CI / CD para desarrolladores web diseña
 
 ## 14. **Integrity**
 
-![Nueva alternativa a Jenkins: Integrity](/assets/images/alternativas-jenkins/integrity.webp "Nueva alternativa a Jenkins: Integrity")
+![Nueva alternativa a Jenkins: Integrity](/assets/img/alternativas-jenkins/integrity.webp "Nueva alternativa a Jenkins: Integrity")
 
 Integrity es un servidor de integración continua que solo funciona con GitHub. En esta herramienta de CI cada vez que los usuarios confirman los códigos, construye y ejecuta el código. También genera los informes y proporciona notificaciones al usuario.
 
@@ -310,7 +303,7 @@ Integrity es un servidor de integración continua que solo funciona con GitHub. 
 
 ## 15. **CruiseControl**
 
-![Nueva alternativa a Jenkins: CruiseControl](/assets/images/alternativas-jenkins/cruisecontrol.webp "Nueva alternativa a Jenkins: CruiseControl")
+![Nueva alternativa a Jenkins: CruiseControl](/assets/img/alternativas-jenkins/cruisecontrol.webp "Nueva alternativa a Jenkins: CruiseControl")
 
 CruiseControl es tanto una herramienta de CI como un marco extensible. Se utiliza para construir un proceso de construcción continuo personalizado. Tiene muchos complementos para una variedad de controles de origen, tecnologías de compilación que incluyen correo electrónico y mensajería instantánea.
 

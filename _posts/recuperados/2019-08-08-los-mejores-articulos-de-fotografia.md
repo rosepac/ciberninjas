@@ -2,7 +2,7 @@
 layout: post
 title: Los mejores artículos de fotografía 📸
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-03-20 12:03:23
 tags: [ ]

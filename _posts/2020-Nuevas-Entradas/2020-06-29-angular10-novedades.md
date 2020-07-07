@@ -1,18 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Angular
 categories:
 - Frameworks Multiplataforma
-header:
-  teaser: /assets/images/2020-news/angular-10.webp
-  overlay_image: /assets/images/2020-news/angular-10.webp
-  overlay_filter: 0.2
-  image_description: 'Angular 10: Conoce todas las novedades del framework desarrollado en Typescript por Google'
-  image_alt: 'Angular 10: Conoce todas las novedades del framework desarrollado en Typescript por Google'
+thumbnail: /assets/img/2020-news/angular-10.webp
+feature-img: /assets/img/2020-news/angular-10.webp
 title: '🥇 ▷ Angular 10: Conoce todas las novedades del framework desarrollado en Typescript por Google'
 description: >-
   La actualización principal del popular framework web, Angular, creado por Google ahora es lanzado como versión estable para su uso en producción.
@@ -205,7 +200,7 @@ Para comprender cómo está configurado el compilador, es útil comprender la ar
 
 El siguiente diagrama muestra elflujo normal del `tsc` y los pasos para transpilar un archivo `.ts` en uno `.js` ( `tsc`es de la CLI de Typecript y compila el proyecto más cercano definido por `tsconfig.json`).
 
-![](/assets/images/2020-news/angular-10-1.webp "")
+![](/assets/img/2020-news/angular-10-1.webp "")
 
 Aquí hay una breve explicación de este flujo:
 

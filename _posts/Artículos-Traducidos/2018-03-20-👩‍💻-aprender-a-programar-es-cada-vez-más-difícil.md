@@ -9,16 +9,8 @@ categories:
 tags:
   - Programar
   - Realidad
-header:
-  teaser: /assets/images/chico-buscando-libro-biblioteca.jpg
-  overlay_image: /assets/images/chico-buscando-libro-biblioteca.jpg
-  overlay_filter: '0.2'
-  image_description: >-
-    Un chico perdido entre libros buscando su inspiración, cada vez es más
-    difícil encontrar el camino perfecto a aprender a programar | Ciberninjas
-  caption: >-
-    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64)
-    en [Unsplash](https://unsplash.com/@reddangelo)
+thumbnail: /assets/img/chico-buscando-libro-biblioteca.jpg
+feature-img: /assets/img/chico-buscando-libro-biblioteca.jpg
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

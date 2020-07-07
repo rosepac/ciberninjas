@@ -1,15 +1,15 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Atajos Teclado
 - Windows
 categories:
 - Software
-header:
-  teaser: /assets/images/blog/tecla-windows.webp
+thumbnail: /assets/img/blog/tecla-windows.webp
+thumbnail2: /assets/img/blog/tecla-windows.webp
 title: '💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas de Windows'
 description: >-
   Cambia de forma ágil de ventana a ventana y entre diferentes pantallas de Windows 10.
@@ -23,7 +23,7 @@ published: true
 
 ---
 
-![Cambia de forma ágil de ventana a ventana y entre diferentes pantallas de Windows 10](/assets/images/blog/tecla-windows.webp "Cambia de forma ágil de ventana a ventana y entre diferentes pantallas de Windows 10")
+![Cambia de forma ágil de ventana a ventana y entre diferentes pantallas de Windows 10](/assets/img/blog/tecla-windows.webp "Cambia de forma ágil de ventana a ventana y entre diferentes pantallas de Windows 10")
 
 Existen casi **infinitos atajos de teclado** con los que **poder cambiar entre ventanas dentro de Windows 10**. Hoy, vamos a hacer un repaso de todos los atajos que podemos encontrar, ¿Conocerás todos?
 

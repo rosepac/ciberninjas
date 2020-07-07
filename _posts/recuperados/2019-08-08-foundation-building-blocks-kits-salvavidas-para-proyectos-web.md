@@ -2,7 +2,7 @@
 layout: post
 title: 'Foundation Building Blocks: kits salvavidas para proyectos web'
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2017-05-16 03:05:35
 tags:

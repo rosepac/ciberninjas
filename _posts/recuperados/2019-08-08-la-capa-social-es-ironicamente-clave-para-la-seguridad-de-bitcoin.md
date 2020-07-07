@@ -4,7 +4,7 @@ title: >
     La capa social es irónicamente clave para la seguridad de
     Bitcoin
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-01-20 08:01:57
 tags:

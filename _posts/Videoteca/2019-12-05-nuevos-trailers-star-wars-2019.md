@@ -3,14 +3,13 @@ author_profile: false
 title: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta ahora"
 description: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta ahora"
 excerpt: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta ahora"
-header:
-  teaser: https://i.ibb.co/7nVGVkn/star-wars-2019-rise.gif
+thumbnail: https://i.ibb.co/7nVGVkn/star-wars-2019-rise.gif
   video:
     id: xwg_J00DQF0
     provider: youtube
 comments: false
 date: 2019-12-05 01:06:12
-classes: wide
+
 tags:
 - Trailer
 - Star Wars

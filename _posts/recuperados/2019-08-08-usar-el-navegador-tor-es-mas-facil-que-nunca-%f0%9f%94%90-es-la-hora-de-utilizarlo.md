@@ -4,7 +4,7 @@ title: >
     Usar el navegador Tor es más fácil que nunca 🔐 ¡Es la
     hora de utilizarlo!
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-01-06 07:01:10
 tags:

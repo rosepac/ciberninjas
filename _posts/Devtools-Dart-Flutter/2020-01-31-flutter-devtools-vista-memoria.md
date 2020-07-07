@@ -4,13 +4,13 @@ title: '🚀 ¿Cómo usar la vista de memoria de DevTools con Flutter?'
 excerpt: '👩‍🚀 Primeros pasos de uso de la vista de memoria de DevTools sobre Flutter.'
 description: '👩‍🚀 Primeros pasos de uso de la vista de memoria de DevTools sobre Flutter.'
 published: true
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 date: 2020-01-31 13:20:33
 last_modified_at: 
-header:
-  teaser: https://i.ibb.co/2Sk0Kdr/vscode-show-in-browser-4848ba01b78de1138104589c726b1dd8a845364356b9d50dffdffd36dbf20887.png
+thumbnail: https://i.ibb.co/2Sk0Kdr/vscode-show-in-browser-4848ba01b78de1138104589c726b1dd8a845364356b9d50dffdffd36dbf20887.png
+thumbnail2: https://i.ibb.co/2Sk0Kdr/vscode-show-in-browser-4848ba01b78de1138104589c726b1dd8a845364356b9d50dffdffd36dbf20887.png
 tags:
 - Flutter
 - Dart

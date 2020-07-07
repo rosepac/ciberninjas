@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: '▷ Swift: Nueva versión Beta 5.2'
 description: "Qué hay de nuevo en la versión beta 5.2 del lenguaje de programación Swift"
 excerpt: "Qué hay de nuevo en la versión beta 5.2 del lenguaje de programación Swift"
@@ -8,11 +8,10 @@ published: true
 comments: false
 date: 2020-02-13 15:10:12
 last_modified_at: 
-header:
-  teaser: /assets/images/blog/swift-open-source_2048.webp
+thumbnail: /assets/img/blog/swift-open-source_2048.webp
+thumbnail2: /assets/img/blog/swift-open-source_2048.webp
 permalink: /swift-version-beta-5-2/
 canonical_URL: https://ciberninjas.com/swift-version-beta-5-2/
-classes: wide
 categories:
 - Novedades
 - Lenguajes de Programación
@@ -21,9 +20,9 @@ tags:
 
 ---
 
-![Logotipo del lanzamiento 5.2 del lenguaje de Programación de Apple: Swift](/assets/images/blog/swift-open-source_2048.webp "Logotipo del lanzamiento 5.2 del lenguaje de Programación de Apple: Swift")
-
 La primera versión beta de Swift 5.2 acaba de lanzarse junto con Xcode 11.4 beta e incluye varios cambios del idioma junto con la reducción del tamaño del código y una mejoría del uso de la memoria, además de una nueva arquitectura de diagnóstico que debe ayudar a diagnosticar errores en el código, mucho más rápido.
+
+![Logotipo del lanzamiento 5.2 del lenguaje de Programación de Apple: Swift](/assets/img/blog/swift-open-source_2048.webp "Logotipo del lanzamiento 5.2 del lenguaje de Programación de Apple: Swift")
 
 Algunos de los cambios introducidos se basan en:
 

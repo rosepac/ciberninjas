@@ -1,8 +1,7 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Fuchsia
 - Go
@@ -13,8 +12,8 @@ tags:
 - Go
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/blog/google-fuchsia-logo-fondo.webp
+thumbnail: /assets/img/blog/google-fuchsia-logo-fondo.webp
+thumbnail2: /assets/img/blog/google-fuchsia-logo-fondo.webp
 title: '🚀 ▷ ¿Qué lenguajes de programación permite utilizar el Sistema Operativo Fuchsia?'
 description: >-
   Políticas de aplicación para los lenguajes de programación recomendados dentro del sistema operativo Fuchsia, esos lenguajes son: C, C++, Dart, Rust, Go y Python
@@ -27,11 +26,11 @@ last_modified_at:
 published: true
 
 ---
-
-![Logotipo del Sistema Operativo Fuchsia, el nuevo SO para Android de Google](/assets/images/blog/google-fuchsia-logo-fondo.webp "Logotipo del Sistema Operativo Fuchsia, el nuevo SO para Android de Google")
 <!-- https://fuchsia.googlesource.com/fuchsia/+/refs/heads/master/docs/project/policy/programming_languages.md -->
 
 Este documento describe qué lenguajes de programación admite y usa el proyecto Fuchsia para el software de producción sobre el dispositivo de destino, y habla sobre sus pros / beneficios y contras / perjuicios que puede conllevar programar con un cierto lenguaje u otro sobre Fuchsia.
+
+![Logotipo del Sistema Operativo Fuchsia, el nuevo SO para Android de Google](/assets/img/blog/google-fuchsia-logo-fondo.webp "Logotipo del Sistema Operativo Fuchsia, el nuevo SO para Android de Google")
 
 Estas políticas no se aplican a las herramientas de los desarrolladores, siempre que estás, se ejecuten desde dispositivos de destino o host, u otros casos similares.
 

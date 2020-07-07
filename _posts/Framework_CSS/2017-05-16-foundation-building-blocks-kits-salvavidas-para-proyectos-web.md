@@ -4,15 +4,11 @@ title: '👨‍💻 ▷ Foundation Building Blocks: kits salvavidas para proyect
 description: "✅ Foundation Building Blocks ⚡️ Una completa biblioteca de componentes con la que generar interfaces de usuario de código abierto con el Framework Foundation"
 excerpt: "✅ Foundation Building Blocks ⚡️ Una completa biblioteca de componentes con la que generar interfaces de usuario de código abierto con el Framework Foundation"
 date: 2017-05-16T03:05:35.000+00:00
-permalink: /foundation-building-blocks-kits-salvavidas-para-proyectos-web
-canonical_URL: https://ciberninjas.com/foundation-building-blocks-kits-salvavidas-para-proyectos-web
-classes: wide
-header:
-  teaser: "/assets/images/foundation_1.jpg"
-  overlay_image: "/assets/images/foundation_1.jpg"
-  image_description: 'descripcion de la puta imagen xd '
-  caption: 'Créditos: [**Unsplash**](https://unsplash.com)'
-  overlay_filter: "0.3"
+permalink: /foundation-building-blocks-kits-salvavidas-para-proyectos-web/
+canonical_URL: https://ciberninjas.com/foundation-building-blocks-kits-salvavidas-para-proyectos-web/
+
+thumbnail: "/assets/img/foundation_1.jpg"
+feature-img: "/assets/img/foundation_1.jpg"
 tags:
 - Componentes
 - Elementos
@@ -35,7 +31,7 @@ El equipo de **Foundation** se ha propuesto reducir el tiempo del desarrollo de 
 La biblioteca ha sido creada a partir de 0 con más de cientos de _snippets_ o fragmentos de código. Distribuidos en 6 categorías: navegación, estado, media, contenedores, formularios y control o botones.
 
 <figure>
-    <a href="/assets/images/foundation-separacion-elementos.png" class="image-popup"><img src="/assets/images/foundation-separacion-elementos.png"></a>
+    <a href="/assets/img/foundation-separacion-elementos.png" class="image-popup"><img src="/assets/img/foundation-separacion-elementos.png"></a>
     <figcaption>Framework Foundation, separación de elementos en el kit | Ciberninjas</figcaption>
 </figure>
 
@@ -48,7 +44,7 @@ Solo se debe buscar la librería, seleccionar el bloque que se necesite y copiar
 Descarga de bloques de construcción o [_Kits de construcción_](https://kutt.it/foundationkits) que están organizados por tipos de proyectos pre-determinados y pre-diseñados, con lo que necesitas para diseñar un determinado tipo de sitio web o aplicación.
 
 <figure>
-    <a href="/assets/images/multiples-bloques.png" class="image-popup"><img src="/assets/images/multiples-bloques.png"></a>
+    <a href="/assets/img/multiples-bloques.png" class="image-popup"><img src="/assets/img/multiples-bloques.png"></a>
     <figcaption>Múltiples conjuntos de bloques existentes en el Kit de Foundation | Ciberninjas</figcaption>
 </figure>
 

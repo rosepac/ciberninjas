@@ -2,7 +2,7 @@
 layout: post
 title: Juegos Android gratis para mitad de Enero 🎮 😻
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-01-13 10:01:48
 tags:

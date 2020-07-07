@@ -2,7 +2,7 @@
 layout: post
 title: Cursos de Robótica, Bots y Arduino Gratis y en Español
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-02-07 03:02:52
 tags:

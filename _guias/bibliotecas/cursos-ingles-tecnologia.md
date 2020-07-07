@@ -4,11 +4,11 @@ title: "🥇 ▷ Cursos de Tecnología en Inglés 🔥 con los que aprender Desa
 description: "🎓 Los mejores cursos online en inglés con los que estudiar desarrollo web, seguridad, robótica, redes, criptomonedas, domótica, y mucho más ¡💥 100% GRATIS!"
 excerpt: "Los mejores cursos online en inglés con los que estudiar desarrollo web, seguridad, robótica, redes, criptomonedas, domótica, y mucho más ¡💥 100% GRATIS!"
 published: true
-author_profile: true
-classes: wide
+author: rosepac
 date: 2020-03-16
 last_modified_at: 2020-02-07
 permalink: /cursos-tecnologia-ingles/
+canonical_URL: https://ciberninjas.com/cursos-tecnologia-ingles/
 # image: 
 #   path: &image /assets/images/imac-glitch-feature.jpg
 #   width: 1024

@@ -7,14 +7,13 @@ comments: false
 date: 2020-01-21 06:43:00 +0200
 permalink: /palabras-lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/palabras-lenguajes-programacion/
-classes: wide
+
 tags:
   - Lenguajes de Programación
 categories:
   - Imagen Programación
-header:
-  teaser: https://i.ibb.co/1TdpCGP/image.png
-  overlay_image: https://i.ibb.co/1TdpCGP/image.png
+thumbnail: https://i.ibb.co/1TdpCGP/image.png
+feature-img: https://i.ibb.co/1TdpCGP/image.png
   image_description: "Nubes de palabras más usadas dentro de los lenguajes de programación Javascript, React, CSS, HTML, Java, Python, Lua, PHP, Ruby, C+, Perl, C#, etc. a través de datos extraídos de Github | Visto en Ciberninjas"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **Anvaka Github**"

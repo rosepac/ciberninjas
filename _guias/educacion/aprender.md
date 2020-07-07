@@ -5,17 +5,14 @@ title: "¿Cómo aprender todo sobre tecnología?"
 description: 'Los mejores libros, recursos y herramientas para aprender programación y diseño gráfico desde cero hasta nivel experto'
 excerpt: 'Los mejores libros, recursos y herramientas para aprender programación y diseño gráfico desde cero hasta nivel experto'
 published: true
-classes: wide
-author_profile: true
+author: rosepac
 comments: false
 date: 2020-03-18
 permalink: /aprender/
 canonical_URL: https://ciberninjas.com/aprender/
-header:
-  teaser: /assets/images/portada/2020-02-cursos-free-programming-2.webp
+thumbnail: /assets/images/portada/2020-02-cursos-free-programming-2.webp
   overlay_filter: "0.2"
-  overlay_image: /assets/images/portada/2020-02-cursos-free-programming-2.webp
-  image_alt: Recursos de Tecnología para todos los publicos
+feature-img: /assets/images/portada/2020-02-cursos-free-programming-2.webp
 #  actions:
 #    - label: "🎓 Cursos"
 #      url: "/cursos-tecnologia/"

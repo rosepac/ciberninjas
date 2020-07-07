@@ -8,18 +8,13 @@ canonical_URL: https://ciberninjas.com/disney-frozen-amazon/
 published: true
 comments: false
 date: 2019-11-23 08:50:00 +0200
-header:
-  teaser: https://i.ibb.co/pdvtTgP/olaf-comiendo-xd.gif
-  overlay_image: https://i.ibb.co/r3V9HRW/34605751714-d713169d14-b.jpg
-  overlay_filter: 0.2
-  image_description: '👸 Los mejores ofertas de juguetes de Frozen en Amazon | Ciberninjas'
-  image_alt: '👸 Los mejores ofertas de juguetes de Frozen en Amazon | Ciberninjas'
-  caption: "Créditos: Flickr, de Dominio Público"
-  actions:
-    - label: "Black Friday 2019"
-      url: "/black-friday-amazon/"
-    - label: "Consolas & Videojuegos"
-      url: "/videojuegos/"
+thumbnail: https://i.ibb.co/pdvtTgP/olaf-comiendo-xd.gif
+feature-img: https://i.ibb.co/r3V9HRW/34605751714-d713169d14-b.jpg
+actions:
+  - label: "Black Friday 2019"
+    url: "/black-friday-amazon/"
+  - label: "Consolas & Videojuegos"
+    url: "/videojuegos/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

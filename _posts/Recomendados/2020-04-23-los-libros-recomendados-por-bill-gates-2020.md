@@ -1,12 +1,11 @@
 ---
-author_profile: true
+author: rosepac
 title: "🥇 ▷ 5 Libros recomendados por Bill Gates, para El Día del Libro 2020"
 description: 'Los mejores libros para la primera mitad del año 2020 gracias a las recomendaciones del magnate Bill Gates: Informático y multi millonario, co creador de Windows'
 excerpt: 'Los mejores libros para la primera mitad del año 2020 gracias a las recomendaciones del magnate Bill Gates: Informático y multi millonario, co creador de Windows'
 date: 2020-04-23 22:45:59
 last_modified_at: 
 published: true
-classes: wide
 categories:
 - Recomendaciones
 tags:
@@ -15,12 +14,8 @@ tags:
 classed: wide
 permalink: /los-mejores-libros-bill-gates-dia-del-libro-2020/
 canonical_URL: https://ciberninjas.com/los-mejores-libros-bill-gates-dia-del-libro-2020/
-header:
-  teaser: /assets/images/blog/bill-gates-abril-2020.webp
-  overlay_image: /assets/images/blog/bill-gates-abril-2020.webp
-  overlay_filter: "0.2"
-  image_alt: "Bill Gates, disfruta leyendo alguna de sus obras recomendadas para el 2020 | Visto en Ciberninjas"
-  image_description: "Bill Gates, disfruta leyendo alguna de sus obras recomendadas para el 2020  | Visto en Ciberninjas"
+thumbnail: /assets/img/blog/bill-gates-abril-2020.webp
+feature-img: /assets/img/blog/bill-gates-abril-2020.webp
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

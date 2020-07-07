@@ -3,23 +3,17 @@ title: 👩‍🎨 ▷ Recursos de Diseño Web
 description: 'El mejor software de diseño web, herramientas y recursos gratuitos 🔨 🎨'
 excerpt: 'El mejor software de diseño web, herramientas y recursos gratuitos 🔨 🎨'
 published: true
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-10-08 12:06:18
 last_modified_at: 2019-12-20 15:36:18
 permalink: /diseño-web-recursos/
 canonical_URL: https://ciberninjas.com/diseño-web-recursos/
-classes: wide
-header:
-  teaser: /assets/images/paginas/diseno-web-unsplash.webp
-  overlay_image: /assets/images/paginas/diseno-web-unsplash.webp
-  overlay_filter: "0.1"
-  image_description: "Recursos de Diseño Web en Ciberninjas"
-  image_alt: "Recursos de Diseño Web en Ciberninjas"
-  caption: "Créditos: Unsplash"
-  actions:
-    - label: "Aprender Diseño Web"
-      url: "/diseño-web/"
+thumbnail: /assets/images/paginas/diseno-web-unsplash.webp
+feature-img: /assets/images/paginas/diseno-web-unsplash.webp
+actions:
+  - label: "Aprender Diseño Web"
+    url: "/diseño-web/"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

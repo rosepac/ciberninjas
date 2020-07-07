@@ -4,17 +4,13 @@ title: '🚀 ¿Qué es Ionic? Conoce este espectacular framework multiplataforma
 excerpt: '👩‍🚀 Conocer todo sobre el framework de Ionic, sus metas, su licencia, su CLI, su compatibilidad con otros frameworks y sus novedades.'
 description: '👩‍🚀 Conocer todo sobre el framework de Ionic, sus metas, su licencia, su CLI, su compatibilidad con otros frameworks y sus novedades.'
 published: true
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 date: 2020-06-28 11:15:33
 last_modified_at: 
-header:
-  teaser: /assets/images/2020-news/ionic-4-2020.webp
-  overlay_image: /assets/images/2020-news/ionic-4-2020.webp
-  overlay_filter: 0.2
-  image_description: Conocer todo sobre el framework de Ionic, sus metas, su licencia, su CLI, su compatibilidad con otros frameworks y sus novedades.
-  image_alt: Conocer todo sobre el framework de Ionic, sus metas, su licencia, su CLI, su compatibilidad con otros frameworks y sus novedades.
+thumbnail: /assets/img/2020-news/ionic-4-2020.webp
+feature-img: /assets/img/2020-news/ionic-4-2020.webp
 tags:
 - Ionic
 - Componentes

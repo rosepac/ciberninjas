@@ -1,8 +1,7 @@
 ---
-
 author_profile: false
 comments: false
-classes: wide
+
 layout: splash
 tags:
 - Java
@@ -27,17 +26,8 @@ tags:
 - Apache
 categories:
 - Software
-header:
-  teaser: /assets/images/herramientas-java/java-herramientas.webp
-  overlay_image: /assets/images/herramientas-java/java-herramientas.webp
-  overlay_filter: 0.2
-  image_description: 'Hay muchas herramientas disponibles para la gestión de Java. Este software facilita todo el proceso de desarrollo, prueba e implementación en Java. Aquí, algunos nombres principales con sus características y enlaces de descarga.'
-  image_alt: 'Hay muchas herramientas disponibles para la gestión de Java. Este software facilita todo el proceso de desarrollo, prueba e implementación en Java. Aquí, algunos nombres principales con sus características y enlaces de descarga.'
-  actions:
-    - label: "Qué es Java"
-      url: "/java/"
-    - label: "Frameworks Java"
-      url: "/10-mejores-frameworks-java/"
+thumbnail: /assets/img/herramientas-java/java-herramientas.webp
+feature-img: /assets/img/herramientas-java/java-herramientas.webp
 title: 'Las 20 mejores herramientas Java para desarrolladores 2020'
 description: >-
   Hay muchas herramientas disponibles para la gestión de Java. Este software facilita todo el proceso de desarrollo, prueba e implementación en Java. Aquí, algunos nombres principales con sus características y enlaces de descarga.
@@ -48,39 +38,49 @@ permalink: /java-herramientas-para-desarrolladores/
 date: 2020-05-27
 last_modified_at: 
 published: true
-
 ---
 
 Hay muchas herramientas disponibles para la gestión de Java. Este software facilita todo el proceso de desarrollo, prueba e implementación en Java. Aquí está la lista de las principales herramientas con sus características y enlaces de descarga.
-
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/java-herramientas-para-desarrolladores/#1-junit">1. Junit</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#2-apache-netbeans">2. Apache Netbeans</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#3-mockito">3. Mockito</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#4-gradle">4. Gradle</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#5-oracle-jdeveloper">5. Oracle Jdeveloper</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#6-groovy">6. Groovy</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#7-apache-maven">7. Apache Maven</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#8-yourkit">8. Yourkit</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#9-spark">9. Spark</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#10-eclipse">10. Eclipse</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#11-visualvm">11. Visual VM</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#12-idea-intellij">12. Idea IntelliJ</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#13-apache-jmeter">13. Apache JMeter</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#14-kit-de-desarrollo-de-java">14. Kit de Desarrollo de Java</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#15-java-decompiler">15. Java Decompiler</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#16-jrat">16. JRat</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#17-clover">17. Clover</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#18-cobertura">18. Cobertura</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#19-ehcache">19. Ehcache</a></li>
-    <li><a href="/java-herramientas-para-desarrolladores/#20-findbugs">20. Findbugs</a></li>
-  </ol>
-</nav>
-</details>
-<br />
+- [1. **JUnit**](#1-junit)
+  - [**Características de JUnit**](#características-de-junit)
+- [2. **Apache NetBeans**](#2-apache-netbeans)
+  - [**Características de Apache NetBeans**](#características-de-apache-netbeans)
+- [3. **Mockito**](#3-mockito)
+  - [**Características de Mockito**](#características-de-mockito)
+- [4. **Gradle**](#4-gradle)
+  - [**Características de Gradle**](#características-de-gradle)
+- [5. **Oracle JDeveloper**](#5-oracle-jdeveloper)
+  - [**Características de Oracle JDeveloper**](#características-de-oracle-jdeveloper)
+- [6. **Groovy**](#6-groovy)
+  - [**Características de Groovy**](#características-de-groovy)
+- [7. **Apache Maven**](#7-apache-maven)
+  - [**Características de Apache Maven**](#características-de-apache-maven)
+- [8. **YourKit**](#8-yourkit)
+  - [**Características de YourKit**](#características-de-yourkit)
+- [9. **Spark**](#9-spark)
+  - [**Características de Spark**](#características-de-spark)
+- [10. **Eclipse**](#10-eclipse)
+  - [**Características de Eclipse**](#características-de-eclipse)
+- [11. **VisualVM**](#11-visualvm)
+  - [**Características de VisualVM**](#características-de-visualvm)
+- [12. **Idea IntelliJ**](#12-idea-intellij)
+  - [**Características de IntelliJ**](#características-de-intellij)
+- [13. **Apache JMeter**](#13-apache-jmeter)
+  - [**Características de JMeter**](#características-de-jmeter)
+- [14. **Kit de desarrollo de Java**](#14-kit-de-desarrollo-de-java)
+  - [**Características de Kit de Desarrollo Java**](#características-de-kit-de-desarrollo-java)
+- [15. **Java Decompiler**](#15-java-decompiler)
+  - [**Características de Java Decompiler**](#características-de-java-decompiler)
+- [16. **JRat**](#16-jrat)
+  - [**Características de JRat**](#características-de-jrat)
+- [17. **Clover**](#17-clover)
+  - [**Características de Clover**](#características-de-clover)
+- [18. **Cobertura**](#18-cobertura)
+  - [**Características de Cobertura**](#características-de-cobertura)
+- [19. **Ehcache**](#19-ehcache)
+  - [**Características de Ehcache**](#características-de-ehcache)
+- [20. **FindBugs**](#20-findbugs)
+  - [**Características de FindBugs**](#características-de-findbugs)
 
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
@@ -90,7 +90,7 @@ Hay muchas herramientas disponibles para la gestión de Java. Este software faci
 
 ## 1. **JUnit**
 
-![Junit una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/images/herramientas-java/junit-5.webp "Junit una de las mejores herramientas de Java para desarrolladores y testers en 2020")
+![Junit una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/img/herramientas-java/junit-5.webp "Junit una de las mejores herramientas de Java para desarrolladores y testers en 2020")
 
 JUnit es una herramienta de prueba de unidad de código abierto para el lenguaje de programación Java. Es una herramienta importante para el desarrollo y la implementación basados ​​en pruebas.
 
@@ -108,7 +108,7 @@ JUnit es una herramienta de prueba de unidad de código abierto para el lenguaje
 
 ## 2. **Apache NetBeans**
 
-![Apache Netbeans una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/images/herramientas-java/apache-netbeans.webp "Apache Netbeans una de las mejores herramientas de Java para desarrolladores y testers en 2020")
+![Apache Netbeans una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/img/herramientas-java/apache-netbeans.webp "Apache Netbeans una de las mejores herramientas de Java para desarrolladores y testers en 2020")
 
 NetBeans es un IDE GRATUITO de código abierto. Permite desarrollar aplicaciones de escritorio, móviles y web.
 
@@ -128,7 +128,7 @@ NetBeans es un IDE GRATUITO de código abierto. Permite desarrollar aplicaciones
 
 ## 3. **Mockito**
 
-![Mockito una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/images/herramientas-java/mockito.webp "Mockito una de las mejores herramientas de Java para desarrolladores y testers en 2020")
+![Mockito una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/img/herramientas-java/mockito.webp "Mockito una de las mejores herramientas de Java para desarrolladores y testers en 2020")
 
 Mockito es una herramienta de prueba de unidad y burla de código abierto de Java. Mockito es un popular framework de burla de código abierto de Java. Ayuda a los desarrolladores a escribir código limpio, bien diseñado y poco acoplado.
 
@@ -142,7 +142,7 @@ Mockito es una herramienta de prueba de unidad y burla de código abierto de Jav
 
 ## 4. **Gradle**
 
-![Gradle una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/images/herramientas-java/gradle.webp "Gradle una de las mejores herramientas de Java para desarrolladores y testers en 2020")
+![Gradle una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/img/herramientas-java/gradle.webp "Gradle una de las mejores herramientas de Java para desarrolladores y testers en 2020")
 
 Gradle es una herramienta Java de automatización de proyectos. Se basa en las características de Apache Ant y Apache Maven. También sirve como la herramienta de compilación predeterminada para la plataforma Android.
 
@@ -174,7 +174,7 @@ Oracle J Developer es un IDE de desarrollo Java gratuito. Permite a los desarrol
 
 ## 6. **Groovy**
 
-![Groovy una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/images/herramientas-java/groovy.webp "Groovy una de las mejores herramientas de Java para desarrolladores y testers en 2020")
+![Groovy una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/img/herramientas-java/groovy.webp "Groovy una de las mejores herramientas de Java para desarrolladores y testers en 2020")
 
 Groovy es un lenguaje poderoso con capacidades de tipeo estático y compilación. Está dirigido a mejorar la productividad del desarrollador.
 
@@ -190,7 +190,7 @@ Groovy es un lenguaje poderoso con capacidades de tipeo estático y compilación
 
 ## 7. **Apache Maven**
 
-![Apache Maven una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/images/herramientas-java/apache-maven.webp "Apache Maven una de las mejores herramientas de Java para desarrolladores y testers en 2020")
+![Apache Maven una de las mejores herramientas de Java para desarrolladores y testers en 2020](/assets/img/herramientas-java/apache-maven.webp "Apache Maven una de las mejores herramientas de Java para desarrolladores y testers en 2020")
 
 Apache Maven es una herramienta de gestión de proyectos de software. Se basa en el concepto del Modelo de objetos del proyecto (POM).
 
@@ -406,7 +406,7 @@ FindBugs es un proyecto Java de código abierto para análisis estático. Escane
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados
+### Relacionados <!-- omit in toc -->
 
 [▷ ¿Qué es Java? Una guía para principiantes sobre Java](https://ciberninjas.com/java/)
 

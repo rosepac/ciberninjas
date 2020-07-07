@@ -5,15 +5,15 @@ excerpt: "Los mejores cursos de Cursera y ahora, por tiempo limitado; hasta fina
 date: 2020-04-17 14:25:00 +0100
 canonical_URL: https://ciberninjas.com/cursos-certificado-gratuito-coursera/
 permalink: /cursos-certificado-gratuito-coursera/
-classes: wide
+
 published: true
 categories:
   - Cursos
 tags:
   - Coursera
-header:
-  teaser: /assets/images/blog/coursera-1.webp
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/blog/coursera-1.webp
+feature-img: /assets/img/blog/coursera-1.webp
+#feature-img: /assets/img/
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -24,9 +24,9 @@ header:
 # toc_sticky: true
 ---
 
-![Los mejores cursos de Cursera y ahora, por tiempo limitado; hasta finales de Mayo con el Certificado totalmente gratuita](/assets/images/blog/coursera-1.webp "Los mejores cursos de Cursera y ahora, por tiempo limitado; hasta finales de Mayo con el Certificado totalmente gratuita")
-
 El proveedor de MOOC (cursos a distancia) más grande del mundo, Coursera, [anunció](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/){:target="_blank" rel="nofollow,noreferrer"} que ofrecerá 100 cursos con certificado gratuito en respuesta a la crisis del coronavirus / Covid-19.
+
+![Los mejores cursos de Cursera y ahora, por tiempo limitado; hasta finales de Mayo con el Certificado totalmente gratuita](/assets/img/blog/coursera-1.webp "Los mejores cursos de Cursera y ahora, por tiempo limitado; hasta finales de Mayo con el Certificado totalmente gratuita")
 
 Esta oferta solo es válida hasta finales de mayo de 2020. Una vez que realices la compra gratis, tendrás 180 días para obtener un certificado.
 

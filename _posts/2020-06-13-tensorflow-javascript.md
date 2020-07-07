@@ -1,19 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Tensorflow
 - Javascript
 categories:
 - Aprendizaje Automático
-header:
-  teaser: /assets/images/blog/javascript-tf.webp
-  overlay_image: /assets/images/blog/javascript-tf.webp
-  overlay_filter: 0.2
-  image_description: 'Capacite e implemente modelos en el navegador, Node.js o Google Cloud Platform. TensorFlow.js es una plataforma ML de código abierto para Javascript y desarrollo web.'
-  image_alt: 'Capacite e implemente modelos en el navegador, Node.js o Google Cloud Platform. TensorFlow.js es una plataforma ML de código abierto para Javascript y desarrollo web.'
+thumbnail: /assets/img/blog/javascript-tf.webp
+feature-img: /assets/img/blog/javascript-tf.webp
 title: '▷ TensorFlow.js una biblioteca para añadir aprendizaje automático a través de JavaScript'
 description: >-
   Capacite e implemente modelos en el navegador, Node.js o Google Cloud Platform. TensorFlow.js es una plataforma ML de código abierto para Javascript y desarrollo web.
@@ -91,7 +86,7 @@ TensorFlow.js es una biblioteca para el aprendizaje automático en JavaScript"){
 > 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
-![Capacite e implemente modelos en el navegador, Node.js o Google Cloud Platform. TensorFlow.js es una plataforma ML de código abierto para Javascript y desarrollo web.](/assets/images/blog/javascript-tf.webp "Capacite e implemente modelos en el navegador, Node.js o Google Cloud Platform. TensorFlow.js es una plataforma ML de código abierto para Javascript y desarrollo web.")
+![Capacite e implemente modelos en el navegador, Node.js o Google Cloud Platform. TensorFlow.js es una plataforma ML de código abierto para Javascript y desarrollo web.](/assets/img/blog/javascript-tf.webp "Capacite e implemente modelos en el navegador, Node.js o Google Cloud Platform. TensorFlow.js es una plataforma ML de código abierto para Javascript y desarrollo web.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 

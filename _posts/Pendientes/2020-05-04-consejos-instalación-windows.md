@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Hacking
 categories:
 - Sistemas Operativos
-header:
-  teaser: /assets/images/blog/marzo-hacking-wallpaper-pc-so
+thumbnail: /assets/img/blog/marzo-hacking-wallpaper-pc-so
 title: '9 Consejos ante un fallo en la instalación del programa que deseas instalar en Windows 10'
 description: >-
   🔥 Lista de Sistemas Operativos Gratuitos para Hacker en 2020
@@ -22,7 +21,7 @@ published: false
 
 ---
 
-![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/images/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
+![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
 
 <!-- [CONTENIDO INTRODUCCION](https://lifehacker.ru/ne-ustanavlivaytsya-programmy/) -->
 

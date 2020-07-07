@@ -3,18 +3,12 @@ title: ▷ Los Mejores Recursos para Aprender Javascript 👨‍🚀
 description: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Javascript'
 excerpt: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Javascript'
 published: true
-classes: wide
-header:
-  teaser: /assets/images/paginas/javascript-recursos.webp
-  overlay_image: /assets/images/paginas/javascript-recursos.webp
-  overlay_filter: 0.2
-  image_description: '👨‍💻 ▷ Cómo Aprender Javascript desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
-  image_alt: '👨‍💻 ▷ Cómo Aprender Javascript desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
-  caption: "Wallpaper de Dominio Público"
-  actions:
-    - label: "Aprender Javascript"
-      url: "/javascript/"
-author_profile: true
+thumbnail: /assets/images/paginas/javascript-recursos.webp
+feature-img: /assets/images/paginas/javascript-recursos.webp
+actions:
+  - label: "Aprender Javascript"
+    url: "/javascript/"
+author: rosepac
 comments: false
 date: 2020-02-28 18:15:18
 last_modified_at: 

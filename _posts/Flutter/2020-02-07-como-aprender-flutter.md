@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "🥇 ▷ ¿Cómo aprender Flutter en 2020?"
 description: >-
   ✅ Flutter es una tecnología que es tendencia este año. Este artículo sugiere algunas formas gratuitas para aprender a desarrollar aplicaciones iOS y Android con Flutter.
@@ -10,11 +10,11 @@ published: true
 comments: false
 date: 2020-02-07 14:50:12
 last_modified_at: 
-header:
-  teaser: /assets/images/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
+thumbnail: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
+thumbnail2: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
 permalink: /como-aprender-flutter/
 canonical_URL: https://ciberninjas.com/como-aprender-flutter/
-classes: wide
+
 tags:
 - Flutter
 categories:
@@ -24,7 +24,7 @@ categories:
 
 Flutter es un framework SDK multiplataforma de interfaz de usuario móvil gratuito y de código abierto creado por Google y lanzado en mayo de 2017. En pocas palabras, esto te va a permitir crear una aplicación móvil nativa con un solo código, lo que significa que vas a poder utilizar un mismo lenguaje de programación y una única base de código para crear dos o más aplicaciones diferentes (IOS, Android, web, escritorio).
 
-![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/images/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp "Logotipo oficial del SDK multiplataforma de Flutter")
+![Logotipo oficial del SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp "Logotipo oficial del SDK multiplataforma de Flutter")
 - [¿Estás interesado en el desarrollo de aplicaciones móviles?](#estás-interesado-en-el-desarrollo-de-aplicaciones-móviles)
 - [🆓 Contenido gratuito](#-contenido-gratuito)
   - [📸 Videos / Cursos](#-videos--cursos)

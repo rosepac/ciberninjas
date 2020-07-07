@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Historia Robótica
 categories:
 - Robótica
-header:
-  teaser: /assets/images/blog/rur-robot_perviy.webp
+thumbnail: /assets/img/blog/rur-robot_perviy.webp
+thumbnail2: /assets/img/blog/rur-robot_perviy.webp
 title: '🤖 ▷ Cuándo y dónde aparece por primera vez la palabra robots'
 description: >-
   Conocer dónde y cuándo aparece por primera vez la denominación de robots
@@ -22,9 +21,9 @@ published: true
 
 ---
 
-![Robot que aparece en la histórica obra de teatro creada por Karel Capek](/assets/images/blog/rur-robot_perviy.webp "Robot que aparece en la histórica obra de teatro creada por Karel Capek")
-
 En la actualidad, estamos muy familiarizados con **los robots**: esas máquinas que poseen inteligencia artificial y realizan tareas que los humanos encuentran arduas o simplemente poco atractivas. Lo que quizás no sepas es que **la palabra robot** nace derivada de las palabras usadas en checo para definir el trabajo forzado / "forced labour".
+
+![Robot que aparece en la histórica obra de teatro creada por Karel Capek](/assets/img/blog/rur-robot_perviy.webp "Robot que aparece en la histórica obra de teatro creada por Karel Capek")
 
 La palabra robot en sí, se utilizó por primera vez para referirse a un humanoide artificial en **la obra teatral RUR** escrita en 1920 por **Karel Čapek**, que se estrenó el 25 de enero de 1921. Hace ya más de 100 años. El acrónimo es equivalente al significado de  "Rossumovi Univerzální Roboti"  y traducido al español vendría a ser: Los Robots Universales de Rossum. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Cursos de Comercio Electrónico/E-Commerce en Español
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-02-03 08:02:35
 tags:

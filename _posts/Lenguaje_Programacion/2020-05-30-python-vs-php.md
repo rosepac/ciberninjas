@@ -1,19 +1,15 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Python
 - PHP
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/lenguajes-vs/python-vs-php-2.webp
-  overlay_image: /assets/images/lenguajes-vs/python-vs-php-2.webp
-  overlay_filter: 0.2
-  image_description: 'Python vs PHP: Introducción básica a 2 de los lenguajes de programación de más importantes de la actualidad'
-  image_alt: 'Python vs PHP: Introducción básica a 2 de los lenguajes de programación de más importantes de la actualidad'
+thumbnail: /assets/img/lenguajes-vs/python-vs-php-2.webp
+feature-img: /assets/img/lenguajes-vs/python-vs-php-2.webp
 title: 'Python vs PHP: Introducción básica a 2 de los lenguajes de programación de más importantes de la actualidad'
 description: >-
   Vamos a realizar una pequeña introducción y comparativa entre Python y PHP, como medio introductorio a estos dos lenguajes de programación.

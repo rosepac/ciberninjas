@@ -7,33 +7,17 @@ excerpt: "Librería de procesamiento de vídeo en Python construida con Gears de
 published: true
 comments: false
 date: 2020-05-20 19:10:12
-classes: wide
 last_modified_at: 
 canonical_URL: /vidgear-libreria-python/
 categories:
 - Librería Python
 tags:
 - Python
-header:
-  teaser: /assets/images/blog/vidgear-libreria-python.webp
-  overlay_image: /assets/images/blog/vidgear-libreria-python.webp
-  overlay_filteR: 0.2
-  image_description: Librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras
-  image_alt: Librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras
-# header:
-#  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_filter: 0.2
-#   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
-#   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'
-#   caption: "Créditos: Unsplash"
-# toc: false
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+thumbnail: /assets/img/blog/vidgear-libreria-python.webp
+feature-img: /assets/img/blog/vidgear-libreria-python.webp
 ---
 
-![Vidgear, librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras](/assets/images/blog/vidgear-libreria-python.webp "Vidgear, librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras")
+![Vidgear, librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras](/assets/img/blog/vidgear-libreria-python.webp "Vidgear, librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras")
 
 VidGear es una poderosa biblioteca de procesamiento de video en Python construida con [**Gears de**](https://github.com/abhiTronix/vidgear#gears){:target="_blank" rel="nofollow noreferrer"} subprocesos múltiples, cada uno con un conjunto único de características innovadoras. Estas API proporcionan un contenedor fácil de usar, altamente extensible y multihilo alrededor de muchas bibliotecas subyacentes de última generación como *[OpenCV ➶](https://github.com/opencv/opencv){:target="_blank" rel="nofollow noreferrer"}, [FFmpeg ➶](https://www.ffmpeg.org/){:target="_blank" rel="nofollow noreferrer"}, [picamera ➶](https://github.com/waveform80/picamera){:target="_blank" rel="nofollow noreferrer"}, [pafy ➶](https://github.com/mps-youtube/pafy){:target="_blank" rel="nofollow noreferrer"}, [pyzmq ➶](https://github.com/zeromq/pyzmq){:target="_blank" rel="nofollow noreferrer"} y [python-mss ➶](https://github.com/BoboTiG/python-mss){:target="_blank" rel="nofollow noreferrer"}*.
 

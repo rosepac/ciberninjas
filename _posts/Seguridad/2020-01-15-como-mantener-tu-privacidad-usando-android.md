@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ Cómo mantener tu privacidad en un teléfono Android 📲"
 description: "Android es una de las herramientas más importantes de Google para recopilar datos sobre los usuarios. Esta guía lo ayudará a mejorar su privacidad en los dispositivos Android"
 excerpt: "Android es una de las herramientas más importantes de Google para recopilar datos sobre los usuarios. Esta guía lo ayudará a mejorar su privacidad en los dispositivos Android"
@@ -10,18 +10,13 @@ last_modified_at:
 canonical_URL: /como-mantener-tu-privacidad-usando-android/
 categories:
 - Seguridad
-header:
-  teaser: https://i.ibb.co/ysmZJM8/smartphone-technology-telephone-gadget-mobile-phone-android-618203-pxhere-com.jpg
-  overlay_image: https://i.ibb.co/ysmZJM8/smartphone-technology-telephone-gadget-mobile-phone-android-618203-pxhere-com.jpg
-  overlay_filter: 0.2
-  image_description: 'Android es una de las herramientas más importantes de Google para recopilar datos sobre los usuarios. Esta guía lo ayudará a mejorar su privacidad en los dispositivos Android'
-  image_alt: 'Android es una de las herramientas más importantes de Google para recopilar datos sobre los usuarios. Esta guía lo ayudará a mejorar su privacidad en los dispositivos Android'
-  caption: "Créditos: PXHere"
+thumbnail: https://i.ibb.co/ysmZJM8/smartphone-technology-telephone-gadget-mobile-phone-android-618203-pxhere-com.jpg
+feature-img: https://i.ibb.co/ysmZJM8/smartphone-technology-telephone-gadget-mobile-phone-android-618203-pxhere-com.jpg
 # toc: false
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
 # toc_sticky: true
-classes: wide
+
 
 ---
 

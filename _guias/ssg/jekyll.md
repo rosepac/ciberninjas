@@ -9,11 +9,8 @@ permalink:  /jekyll/
 canonical_URL: https://ciberninjas.com/jekyll/
 author_profile: false
 header:
-  overlay_image: "/assets/images/paginas/jekyll-arbol-documentos.webp"
-  overlay_filter: 0.2
-  image_description: Jekyll, el mejor generador de contenidos estático | Ciberninjas
-  caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"
-  teaser: "/assets/images/paginas/jekyll-blog.webp"
+thumbnail: "/assets/images/paginas/jekyll-arbol-documentos.webp"
+feature-img: "/assets/images/paginas/jekyll-arbol-documentos.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

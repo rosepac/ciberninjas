@@ -5,15 +5,15 @@ excerpt: "Los mejores hábitos y más sencillos con los que centrarte en el desa
 date: 2020-02-24 18:20:00 +0100
 canonical_URL: https://ciberninjas.com/hábitos-basicos-desarrollador-software/
 permalink: /hábitos-basicos-desarrollador-software/
-classes: wide
+
 categories:
   - Reflexión Programar
 tags:
   - Programar
   - Software
-header:
-  teaser: /assets/images/blog/imagen-pensando-chicos.webp
-#  image: /assets/images/blog/imagen-pensando-chicos.webp
+thumbnail: /assets/img/blog/imagen-pensando-chicos.webp
+thumbnail2: /assets/img/blog/imagen-pensando-chicos.webp
+#  image: /assets/img/blog/imagen-pensando-chicos.webp
 #  image_description: >-
 #    5 hábitos básicos para fortalecer tus habilidades a la hora de programar software
 #  title: >-
@@ -24,11 +24,11 @@ header:
 # toc_sticky: true
 ---
 
-![5 Hábitos básicos para aprender a programar software](/assets/images/blog/imagen-pensando-chicos.webp "5 hábitos básicos para aprender a programar software")
+Sea cual sea el tipo de trabajo de programación, existe un conjunto específico de habilidades más básicas e imprescindibles para lograr resolver los posibles altercados que se te presenten. Por ende, se debe de moldear la personalidad del desarrollador web; aquí vamos a encontrar unos hábitos muy básicos y simples enfocados en los desarrolladores de software y cualquier otro desarrollador.
 
-> Sea cual sea el tipo de trabajo de programación, existe un conjunto específico de habilidades más básicas e imprescindibles para lograr resolver los posibles altercados que se te presenten. Por ende, se debe de moldear la personalidad del desarrollador web; aquí vamos a encontrar unos hábitos muy básicos y simples enfocados en los desarrolladores de software y cualquier otro desarrollador. Estos hábitos ya no son una excepción: se ha convertido en una necesidad.
+![5 Hábitos básicos para aprender a programar software](/assets/img/blog/imagen-pensando-chicos.webp "5 hábitos básicos para aprender a programar software")
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331105903742928" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331105903742928" class="fb-xfbml-parse-ignore"><p>👩‍💻 Los mejores libros de Desarrollo de Software, Programación Correcta, Código Limpio, Metodologías Agile y Lean, etc 💼</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331105903742928">Martes, 3 de marzo de 2020</a></blockquote></div>
+Estos hábitos ya no son una excepción: se ha convertido en una necesidad.
 
 Imagínate en un modo de piloto automático, cepillándote los dientes, tomando café, desplazándote a través de correos electrónicos del día y de tu lista de pendientes. ¿Cómo te sientes? Bastante monótono o aburrido, ¿Verdad?
 
@@ -38,13 +38,19 @@ Por ejemplo, Mark Zuckerberg tiene el hábito común de usar la misma ropa para 
 
 Con los albores de la revolución digital, la demanda de los desarrolladores de software ha aumentado como nunca.
 
-A continuación, me gustaría mencionar citar algunos elementos imprescindibles que comparten todos los programadores. Estos pequeños fragmentos de sabiduría, en conjunto te harán pasar de ser un pequeño saltamontes a un gran águila imperial.
+A continuación, me gustaría mencionar algunos elementos imprescindibles que comparten todos los programadores. Estos pequeños fragmentos de sabiduría, en conjunto te harán pasar de ser un pequeño saltamontes a un gran águila imperial.
+- [1. Aprovecha al máximo Google](#1-aprovecha-al-máximo-google)
+- [2. Las microdecisiones importan](#2-las-microdecisiones-importan)
+- [3. Analiza las pistas](#3-analiza-las-pistas)
+- [4. Sé responsable](#4-sé-responsable)
+- [5. Sé un líder / que no un jefe](#5-sé-un-líder--que-no-un-jefe)
+- [Pensamientos finales](#pensamientos-finales)
 
 ## 1. Aprovecha al máximo Google
 
 Como profesional, debes saber cómo formular consultas de búsqueda, revisar el código de otro desarrollador y aplicarlo al problema que estás tratando de resolver. Además de esto, intenta conocer las mejores herramientas de investigación disponibles en la web para 2020.
 
-## 2. Las micro decisiones importan
+## 2. Las microdecisiones importan
 
 A la hora de escribir programas, puede parecer que hay que tomar un billón de decisiones, incluso cuando se trata de agregar una pequeña característica. Tomemos un ejemplo, cosas como nombrar variables, llamar funciones, nombrar propiedades CSS, usar un hash versus usar una matriz y otras cosas aparentemente pequeñas pueden tener un impacto significativo.
 
@@ -87,7 +93,7 @@ Nunca olvides que, **¡El aprendizaje es un proceso continuo!** ¡Entonces, A qu
 **Fuente**\: [The Broodle](https://thebroodle.com/tech/5-vital-elements-required-to-become-a-software-developer/ "5 elementos vitales necesarios para convertirse en desarrollador de software")
 {: .notice--info}
 
-## Relacionados
+### Relacionados <!-- omit in toc -->
 
 [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020 "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
 [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")

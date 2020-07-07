@@ -9,7 +9,7 @@ canonical_URL: https://ciberninjas.com/software-directo/
 published: false
 # header:
 #   teaser: https://i.ibb.co/JF0PGRS/twitter-pajaro-feliz.gif
-#   overlay_image: https://i.ibb.co/Vt92M9Wphoto-1551817958-20204d6ab212-ixlib-rb-1-2.jpg
+# feature-img: https://i.ibb.co/Vt92M9Wphoto-1551817958-20204d6ab212-ixlib-rb-1-2.jpg
 #   overlay_filter: "0.1"
 #   image_description: "Recursos sobre Twitter en Ciberninjas"
 #   image_alt: "Recursos sobre Twitter en Ciberninjas"

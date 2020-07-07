@@ -11,9 +11,8 @@ categories:
 tags:
   - Programar
   - Realidad
-header:
-  teaser: /assets/images/
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/
+#feature-img: /assets/img/
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-

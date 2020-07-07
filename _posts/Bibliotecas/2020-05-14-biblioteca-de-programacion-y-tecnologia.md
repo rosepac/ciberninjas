@@ -9,27 +9,10 @@ date: 2020-05-27T22:00:00.000+00:00
 last_modified_at:
 permalink: /biblioteca-de-programacion-y-tecnologia/
 canonical_URL: https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/
-classes: wide
-published: true
-header:
-  teaser: "/assets/images/chico-buscando-libro-biblioteca.jpg"
-  overlay_image: "/assets/images/chico-buscando-libro-biblioteca.jpg"
-  overlay_filter: 0.2
-  image_description: 'Los Mejores Libros PDF Gratuitos de Informática - Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad. Exclusivamente aquí. | Ciberninjas'
-  image_alt: 'Los Mejores Libros PDF Gratuitos de Informática - Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad. Exclusivamente aquí. | Ciberninjas'
-  caption: "Créditos: Unsplash de Dominio Público"
-#  actions:
-#    - label: "Black Friday 2019"
-#      url: "/black-friday-amazon/"
-#    - label: "Prime Day 2019"
-#      url: "/prime-day-amazon/"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: false
-# sidebar:
-#   nav: libros-espanol
 
+published: true
+thumbnail: "/assets/img/chico-buscando-libro-biblioteca.jpg"
+feature-img: "/assets/img/chico-buscando-libro-biblioteca.jpg"
 ---
 
 Esta es **la mejor lista de libros de programación en PDF en español del mundo**. Una completa **biblioteca recopilada de cientos** y cientos de libros en PDF que no encontrarás en ninguna parte más. 

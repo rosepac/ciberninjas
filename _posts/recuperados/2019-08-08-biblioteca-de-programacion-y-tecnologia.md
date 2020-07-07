@@ -2,7 +2,7 @@
 layout: post
 title: Biblioteca de libros de programación y tecnología
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-03-19 03:03:30
 tags: [ ]

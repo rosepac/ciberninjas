@@ -6,7 +6,7 @@ excerpt: "Codespaces le brinda un entorno de desarrollo con todas las funciones 
 date: 2020-05-09 02:35:00 +0100
 canonical_URL: https://ciberninjas.com/codespace-editor-github/
 permalink: /codespace-editor-github/
-classes: wide
+
 published: true
 categories:
   - Editores de Texto
@@ -14,11 +14,8 @@ tags:
   - Github
   - Codespace
   - Visual Studio
-header:
-  teaser: /assets/images/blog/10-codespace-editor-github.webp
-  image_description: "Codespaces le brinda un entorno de desarrollo con todas las funciones alojado en la nube que gira en segundos, directamente dentro de GitHub, para que pueda comenzar a contribuir a un proyecto de inmediato"
-  image_alt: "Codespaces le brinda un entorno de desarrollo con todas las funciones alojado en la nube que gira en segundos, directamente dentro de GitHub, para que pueda comenzar a contribuir a un proyecto de inmediato"
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/blog/10-codespace-editor-github.webp
+feature-img: **¿Cómo configurar los servicios de Windows?**
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -34,7 +31,7 @@ Contribuir con código a una comunidad puede ser difícil. Cada repositorio tien
 
 Peor aún, a veces el entorno de dos proyectos en los que está trabajando entra en conflicto entre sí.
 
-![Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios](/assets/images/blog/10-codespace-editor-github.webp "Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios")
+![Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios](/assets/img/blog/10-codespace-editor-github.webp "Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios")
 
 Codespaces le brinda un entorno de desarrollo con todas las funciones alojado en la nube que gira en segundos, directamente dentro de GitHub, para que pueda comenzar a contribuir a un proyecto de inmediato.
 

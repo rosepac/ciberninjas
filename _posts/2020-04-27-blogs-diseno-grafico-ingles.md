@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Blogs
 categories:
 - Diseño Gráfico
-header:
-  teaser: /assets/images/blog/abril-inspiracion-paginas-web.webp
+thumbnail: /assets/img/blog/abril-inspiracion-paginas-web.webp
+feature-img: /assets/img/blog/abril-inspiracion-paginas-web.webp
 title: '🥇 ▷ Los 66 mejores blogs de diseño gráfico 2020'
 description: >-
   Siempre es bueno mantener tu enfoque de diseño despierto. Los diseñadores encuentran la inspiración en todas partes. Prueba a visitar a diario estos espectaculares blogs.
@@ -22,9 +21,9 @@ published: true
 
 ---
 
-![Los 66 mejores blogs de diseño gráfico del mundo 2020](/assets/images/blog/abril-inspiracion-paginas-web.webp "Los 66 mejores blogs de diseño gráfico del mundo 2020")
-
 Siempre se puede trabajar en fomentar más la creatividad y el talento, aunque estés inspirado la mayor parte del tiempo; gracias a Internet, el encontrar nuevos conocimiento y consejos, es totalmente gratuito. Es bueno mantener los diseños actuales y frescos.
+
+![Los 66 mejores blogs de diseño gráfico del mundo 2020](/assets/img/blog/abril-inspiracion-paginas-web.webp "Los 66 mejores blogs de diseño gráfico del mundo 2020")
 
 Los diseñadores encuentran la inspiración por todas partes. Cuando están fuera de casa, en libros y revistas, galerías y exposiciones y, por supuesto, a través de Internet. La siguiente lista puede ahorrarte el camino, hacía el encuentro de nuevos brillantes enfoques de diseño.
 

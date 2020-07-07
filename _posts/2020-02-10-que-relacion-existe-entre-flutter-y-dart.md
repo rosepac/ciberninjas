@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "▷ Cómo se relaciona el lenguaje de programación Dart con Flutter"
 description: >-
   🚀 Conocer la relación que existe entre el Sdk multiplataforma de Flutter y el lenguaje de programación creado por Google, Dart
@@ -10,11 +10,10 @@ published: true
 comments: false
 date: 2020-02-10 17:25:12
 last_modified_at: 
-header:
-  teaser: /assets/images/blog/relacion-flutter-y-dart.webp
+thumbnail: /assets/img/blog/relacion-flutter-y-dart.webp
+thumbnail2: /assets/img/blog/relacion-flutter-y-dart.webp
 permalink: /relacion-entre-dart-flutter/
 canonical_URL: https://ciberninjas.com/relacion-entre-dart-flutter/
-classes: wide
 tags:
 - Flutter
 - Dart
@@ -23,9 +22,9 @@ categories:
 
 ---
 
-![Cómo se relaciona el lenguaje de programación Dart respecto a el SDK multiplataforma Flutter](/assets/images/blog/relacion-flutter-y-dart.webp "Cómo se relaciona el lenguaje de programación Dart respecto a el SDK multiplataforma Flutter")
-
 En comparación con otras tecnologías de desarrollo de aplicaciones móviles, Flutter y Dart son dos de las nuevas palabras clave que están haciendo mucho ruido en la industria. Y con la ayuda de este artículo, le proporcionaremos la introducción básica de estas dos tecnologías emergentes desarrolladas por el propio gigante tecnológico de Google.
+
+![Cómo se relaciona el lenguaje de programación Dart respecto a el SDK multiplataforma Flutter](/assets/img/blog/relacion-flutter-y-dart.webp "Cómo se relaciona el lenguaje de programación Dart respecto a el SDK multiplataforma Flutter")
 
 **Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}

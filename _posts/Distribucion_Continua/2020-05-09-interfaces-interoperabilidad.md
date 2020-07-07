@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "▷ Escalado de entrega continua y la automatización de runbooks a través de las interfaces de interoperabilidad de las herramientas"
 description: "Originalmente publicado en Medium por un miembro de la comunidad, Andreas Grimmer Continuous Delivery (CD) y Runbook Automation son medios estándar para implementar, operar y administrar artefactos de software a lo largo del ciclo de vida del software ..."
 excerpt: "Originalmente publicado en Medium por un miembro de la comunidad, Andreas Grimmer Continuous Delivery (CD) y Runbook Automation son medios estándar para implementar, operar y administrar artefactos de software a lo largo del ciclo de vida del software ..."
@@ -10,14 +10,14 @@ date: 2020-05-09 19:10:12
 last_modified_at: 
 canonical_URL: https://ciberninjas.com/escalado-cd-interfaces-interoperabilidad/
 permalink: /escalado-cd-interfaces-interoperabilidad/
-classes: wide
+
 categories:
 - Distribución Continua
 tags:
 - CD Fundación
 # header:
 #  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_image: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
+# feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 #   overlay_filter: 0.2
 #   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
 #   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'

@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ ¿Qué diferencia existe entre Inteligencia Artificial, Aprendizaje Automático y Aprendizaje Profundo?"
 description: "Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)"
 excerpt: "Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)"
@@ -7,11 +7,10 @@ published: true
 comments: false
 date: 2020-03-13 15:30:12
 last_modified_at: 
-header:
-  teaser: /assets/images/lenguajes-vs/ai-vs-ml-vs-dp.webp
+thumbnail: /assets/img/lenguajes-vs/ai-vs-ml-vs-dp.webp
+thumbnail2: /assets/img/lenguajes-vs/ai-vs-ml-vs-dp.webp
 permalink: /diferencias-entre-ai-ml-dl/
 canonical_URL: https://ciberninjas.com/diferencias-entre-ai-ml-dl/
-classes: wide
 categories:
 - Inteligencia Artificial
 - Aprendizaje Profundo
@@ -24,32 +23,25 @@ tags:
 
 ---
 
-![Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)](/assets/images/lenguajes-vs/ai-vs-ml-vs-dp.webp "Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)")
-
 A lo largo de esta publicación vamos intentar comprender las diferencias entre algunos de los términos de tecnología más de moda en la actualidad; y que se supone, serán el presente y futuro de todos los nuevos avances tecnológicos.
 
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/diferencias-entre-ai-ml-dl/#qué-es-la-inteligencia-artificial">¿Qué es la Inteligencia Artificial?</a></li>
-    <li><a href="/diferencias-entre-ai-ml-dl/#qué-es-el-aprendizaje-automático">¿Qué es el Aprendizaje Automático?</a></li>
-    <li><a href="/diferencias-entre-ai-ml-dl/#qué-es-el-aprendizaje-profundo">¿Qué es el Aprendizaje Profundo?</a></li>
-    <li><a href="/diferencias-entre-ai-ml-dl/#cómo-han-crecido-estas-ramas-tecnológicas">¿Cómo han crecido estas nuevas ramas de la tecnología?</a></li>
-    <li><a href="/diferencias-entre-ai-ml-dl/#el-proceso-del-aprendizaje-automático">¿Cómo funciona el aprendizaje automático?</a></li>
-    <li><a href="/diferencias-entre-ai-ml-dl/#el-proceso-del-aprendizaje-profundo">¿Cómo funciona el aprendizaje profundo?</a></li>
-    <li><a href="/diferencias-entre-ai-ml-dl/#diferencias-entre-aprendizaje-automático-y-aprendizaje-profundo">Diferencias entre el Aprendizaje Automático y el Aprendizaje Profundo</a></li>
-    <li><a href="/diferencias-entre-ai-ml-dl/#cuándo-usar-machine-learning-o-deep-learning">¿Cuándo usar aprendizaje automático y cuándo usar aprendizaje profundo?</a></li>
-    <li><a href="/diferencias-entre-ai-ml-dl/#resumen">Conclusión final</a></li>
-  </ol>
-</nav>
-</details>
-<br />
+![Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)](/assets/img/lenguajes-vs/ai-vs-ml-vs-dp.webp "Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)")
 
 > 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
+- [**¿Qué es la inteligencia artificial?**](#qué-es-la-inteligencia-artificial)
+- [**¿Qué es el aprendizaje automático?**](#qué-es-el-aprendizaje-automático)
+- [**¿Qué es el aprendizaje profundo?**](#qué-es-el-aprendizaje-profundo)
+  - [Anotación](#anotación)
+- [**Cómo han crecido estas ramas tecnológicas**](#cómo-han-crecido-estas-ramas-tecnológicas)
+- [**Cómo funcionan**](#cómo-funcionan)
+- [**El proceso del aprendizaje automático**](#el-proceso-del-aprendizaje-automático)
+- [**El proceso del aprendizaje profundo**](#el-proceso-del-aprendizaje-profundo)
+  - [Automatizar la extracción de características con DL](#automatizar-la-extracción-de-características-con-dl)
+- [**Diferencias entre aprendizaje automático y aprendizaje profundo**](#diferencias-entre-aprendizaje-automático-y-aprendizaje-profundo)
+- [**¿Cuándo usar Machine Learning o Deep Learning?**](#cuándo-usar-machine-learning-o-deep-learning)
 
-## ¿Qué es la inteligencia artificial?
+## **¿Qué es la inteligencia artificial?**
 
 La inteligencia artificial es el intento de acercarse a lograr generar capacidad cognitiva dentro una máquina. El punto de referencia para la inteligencia artificial es la inteligencia humana respecto al razonamiento, el habla y la visión. A día de hoy, aún se está bastante lejos de alcanzar algo semejante; por ahora, aún se debe seguir esperando a que la tecnología siga avanzando.
 
@@ -61,7 +53,7 @@ Si deseamos profundizar un poco más sobre el propio concepto de inteligencia ar
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
-## ¿Qué es el aprendizaje automático?
+## **¿Qué es el aprendizaje automático?**
 
 El aprendizaje automático es la mejor herramienta que se conoce para comprender, analizar e identificar un patrón formado por datos. Una de las ideas principales detrás del aprendizaje automático es que los ordenadores pueden ser entrenados para automatizar tareas exhaustivas e imposibles para un ser humano.
 
@@ -71,7 +63,7 @@ El aprendizaje automático utiliza los datos para alimentar un algoritmo capaz d
 
 > 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 
-## ¿Qué es el aprendizaje profundo?
+## **¿Qué es el aprendizaje profundo?**
 
 El aprendizaje profundo es un software que imita una red neuronal del cerebro humano.
 
@@ -88,28 +80,28 @@ A día de hoy. Se podría decir que este es el estado más alto al que ha llegad
 **Saber Más**: Referencias sobre, ¿Qué es un cyborg?: [Somos Cyborgs](/somos-cyborgs/), [Arte Cíborg](/wiki/arte-ciborg), [Fundación Cíborg](/wiki/fundacion-ciborg), [Antena Cíborg](/wiki/antena-ciborg), [Cíborg](/wiki/ciborg), 
 {: .notice--primary}
 
-## Cómo han crecido estas ramas tecnológicas
+## **Cómo han crecido estas ramas tecnológicas**
 
-![Análisis del crecimiento de las preguntas sobre AI, ML y DL en los últimos años dentro de Stackoverflow](/assets/images/blog/encuesta-crecimiento.webp "Análisis del crecimiento de las preguntas sobre AI, ML y DL en los últimos años dentro de Stackoverflow")
+![Análisis del crecimiento de las preguntas sobre AI, ML y DL en los últimos años dentro de Stackoverflow](/assets/img/blog/encuesta-crecimiento.webp "Análisis del crecimiento de las preguntas sobre AI, ML y DL en los últimos años dentro de Stackoverflow")
 
 En la gráfica anterior se puede apreciar claramente el amplio crecimiento de interés, sobre todo en las ramas de ML y DL, en los dos años anteriores al 2018. Si analizamos los dos últimos años hasta la actualidad en la Encuesta anual de la propia web: Stackoverflow.
 
-![Porcentaje de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019](/assets/images/blog/stack-machine-learning.webp "Porcentaje de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019")
+![Porcentaje de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019](/assets/img/blog/stack-machine-learning.webp "Porcentaje de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019")
 * Porcentaje de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019
 
-![Salarios de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019](/assets/images/blog/stack-machine-learning-salarios.webp "Salarios de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019")
+![Salarios de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019](/assets/img/blog/stack-machine-learning-salarios.webp "Salarios de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019")
 * Salarios de los puestos de trabajo entre las personas que han votado dentro de la encuesta de stackoverflow de 2019
 
 De las gráficas anteriores podemos comprobar cómo la profesión de científico de datos es una de las profesiones que más crecimiento ha tenido; y poco a poco, además, se va convirtiendo en una de los puestos de trabajo mejores pagadas entre las diferentes profesiones digitales existentes.
 
-## Cómo funcionan
+## **Cómo funcionan**
 
 A continuación, vamos a intentar hacernos una idea para conocer un poco más del cómo funcionan estos nuevos campos tecnológicos.
 
 > 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
-## El proceso del aprendizaje automático
+## **El proceso del aprendizaje automático**
 
 Imagina que estás destinado a construir un programa que reconozca objetos. Para entrenar al modelo, usarás un "[clasificador](https://es.wikipedia.org/wiki/Clasificador_(matem%C3%A1ticas)){:target="_blank" rel="nofollow,noreferrer"}" Un clasificador usa las características de un objeto para intentar identificar la clase a la que pertenece.
 
@@ -131,7 +123,7 @@ El primer paso es necesario, puesto que elegir los datos correctos hará que el 
 
 Cada imagen es una fila de los datos, mientras que cada píxel es una columna. Si su imagen tiene un tamaño de 28x28, el conjunto de datos contiene 784 columnas (28x28). En la imagen a continuación, cada imagen se ha transformado en un vector de características. La etiqueta le dice a la computadora qué objeto está en la imagen.
 
-![Caso práctico del funcionamiento del aprendizaje automático](/assets/images/blog/2020-02-18-ml-1.webp "Caso práctico del funcionamiento del aprendizaje automático")
+![Caso práctico del funcionamiento del aprendizaje automático](/assets/img/blog/2020-02-18-ml-1.webp "Caso práctico del funcionamiento del aprendizaje automático")
 
 El objetivo es utilizar estos datos de entrenamiento para clasificar el tipo de objetos.
 
@@ -144,7 +136,7 @@ Para cada nueva imagen que ingrese al modelo, la máquina predecirá la clase a 
 **Saber Más**: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--primary}
 
-## El proceso del aprendizaje profundo
+## **El proceso del aprendizaje profundo**
 
 En el aprendizaje profundo, la fase de aprendizaje se realiza a través de una red neuronal. Una red neuronal es una arquitectura donde las capas se apilan unas encima de otras.
 
@@ -154,7 +146,7 @@ Cada entrada entra en una neurona y se multiplica por un peso.
 
 El resultado de la multiplicación fluye a la siguiente capa y se convierte en la entrada. Este proceso se repite para cada capa de la red. La capa final se denomina capa de salida; proporciona un valor real para la tarea de regresión y una probabilidad de cada clase para la tarea de clasificación.
 
-![Caso práctico del funcionamiento del aprendizaje automático](/assets/images/blog/2020-02-18-ml-2.webp "Caso práctico del funcionamiento del aprendizaje automático")
+![Caso práctico del funcionamiento del aprendizaje automático](/assets/img/blog/2020-02-18-ml-2.webp "Caso práctico del funcionamiento del aprendizaje automático")
 
 La red neuronal utiliza un algoritmo matemático para actualizar los pesos de todas las neuronas.
 
@@ -185,7 +177,7 @@ Si hay una coincidencia, la red usará este filtro. Por lo tanto, el proceso de 
 > 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
-## Diferencias entre aprendizaje automático y aprendizaje profundo
+## **Diferencias entre aprendizaje automático y aprendizaje profundo**
 
 |                                   | **Aprendizaje automático**                                                                                               | **Aprendizaje profundo**                                                                                                  |
 |-----------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -197,7 +189,7 @@ Si hay una coincidencia, la red usará este filtro. Por lo tanto, el proceso de 
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331125377074314" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331125377074314" class="fb-xfbml-parse-ignore"><p>👩‍🔬 Libros sobre Python 🐍 Análisis, Estadísticas 📊 Datos 🗂 Big Data y Más 👨‍🔬</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331125377074314">Martes, 3 de marzo de 2020</a></blockquote></div>
 
-## ¿Cuándo usar Machine Learning o Deep Learning?
+## **¿Cuándo usar Machine Learning o Deep Learning?**
 
 En la tabla siguiente, se resumen, las diferencias entre el aprendizaje automático y el aprendizaje profundo.
 
@@ -220,7 +212,7 @@ No necesita comprender qué características son la mejor representación de los
 > 🔥 Seguro también te interesa: [cómo aprender aprendizaje automático](/que-aprender-sobre-machine-learning-2020/) >> [aprender inteligencia artificial](/11-aprendizajes-principiantes-inteligencia-artificial/) >> [guía de tensorflow](/tensorflow-guia/) >> [mejores tutoriales de pnl, aprendizaje automático y python](/aprendizaje-automatico-cursos-ingles/) >> [cómo aprender python](/python/) >> [aprender a programar](/programar/)
 {: .notice--danger}
 
-## Resumen
+### Resumen <!-- omit in toc -->
 
 La inteligencia artificial consiste en llegar a recrear una capacidad cognitiva sobre una máquina. Los primeros sistemas de Inteligencia Artificial utilizaron patrones de coincidencias.
 

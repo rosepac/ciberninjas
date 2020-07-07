@@ -1,18 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - 
 categories:
 - Java
-header:
-  teaser: /assets/images/blog/
-  overlay_image: /assets/images/blog/
-  overlay_filter: 0.2
-  image_description: ''
-  image_alt: ''
+thumbnail: /assets/img/blog/
+feature-img: /assets/img/blog/
 title: '▷ ¿La educación virtual existe en realidad?'
 description: >-
   
@@ -40,7 +35,7 @@ La nueva educación se basa en "profesores" que no son más que estudiantes poco
 
 Realmente, se puede llamar profesor a este tipo de personas. 
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>

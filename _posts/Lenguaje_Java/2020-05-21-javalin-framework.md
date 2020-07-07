@@ -1,19 +1,15 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 layout: splash
 tags:
 - Javalin
 categories:
 - Framework
-header:
-  teaser: /assets/images/blog/javalin-framework-2.webp
-  overlay_image: /assets/images/blog/javalin-framework-2.webp
-  overlay_filter: 0.2
-  image_description: 'Javalin es un framework web liviano para Java y Kotlin diseñado para ser simple y bloqueador por defecto, admitiendo sockets web, HTTP2 y solicitudes asíncronas'
-  image_alt: 'Javalin es un framework web liviano para Java y Kotlin diseñado para ser simple y bloqueador por defecto, admitiendo sockets web, HTTP2 y solicitudes asíncronas'
+thumbnail: /assets/img/blog/javalin-framework-2.webp
+feature-img: /assets/img/blog/javalin-framework-2.webp
 title: 'Javalin: Framework web ligero de Java y Kotlin. Cree API REST en Java o Kotlin fácilmente'
 description: >-
   Javalin es un framework web liviano para Java y Kotlin diseñado para ser simple y bloqueador por defecto, admitiendo sockets web, HTTP2 y solicitudes asíncronas
@@ -27,15 +23,19 @@ published: true
 
 ---
 
-## **¿Qué es Javalin?**
-
-![Logo del framework Javalin para trabajar de forma sencilla junto a Java y Kotlin](/assets/images/blog/javalin-framework.webp "Logo del framework Javalin para trabajar de forma sencilla junto a Java y Kotlin")
-
-Javalin es un framework web liviano para Kotlin y Java diseñado para ser simple y bloqueador de forma predeterminada, admitiendo WebSockets, HTTP2 y solicitudes asíncronas.
-
 Javalin comenzó como una bifurcación del framework de SparkJava, pero rápidamente se convirtió en una reescritura desde cero influenciada por el framework de JavaScript koa.js.
 
 Javalin está construido sobre Jetty y su rendimiento es equivalente al código de Jetty sin procesar.
+
+![Logo del framework Javalin para trabajar de forma sencilla junto a Java y Kotlin](/assets/img/blog/javalin-framework.webp "Logo del framework Javalin para trabajar de forma sencilla junto a Java y Kotlin")
+- [**¿Qué es Javalin?**](#qué-es-javalin)
+- [**¿Por qué usar Javalin?**](#por-qué-usar-javalin)
+- [**Características de Javalin**](#características-de-javalin)
+- [**Comenzando con Javalin**](#comenzando-con-javalin)
+
+## **¿Qué es Javalin?**
+
+Javalin es un framework web liviano para Kotlin y Java diseñado para ser simple y bloqueador de forma predeterminada, admitiendo WebSockets, HTTP2 y solicitudes asíncronas.
 
 Además, los desarrolladores no necesitan extender ninguna clase, usar @Annotations o incluso descargar una versión diferente de Javalin para Java y otra para Kotlin.
 
@@ -217,7 +217,7 @@ Puede encontrar más detalles sobre Javalin en [la página de documentación](ht
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados
+### Relacionados <!-- omit in toc -->
 
 [🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20)
 

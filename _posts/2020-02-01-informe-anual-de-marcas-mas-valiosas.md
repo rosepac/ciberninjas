@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: '▷ Global 500: Informe Anual sobre las Marcas Más Valiosas del Mundo de la Tecnología en 2020'
 description: "Informes que proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor global de las marcas tecnológicas más valiosas"
 excerpt: "Informes que proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor global de las marcas tecnológicas más valiosas"
@@ -7,11 +7,10 @@ published: true
 comments: false
 date: 2020-02-01 12:10:12
 last_modified_at: 
-header:
-  teaser: https://i.ibb.co/98gzyBQ/image.jpg
+thumbnail: https://i.ibb.co/98gzyBQ/image.jpg
+thumbnail2: https://i.ibb.co/98gzyBQ/image.jpg
 permalink: /informe-anual-de-marcas-mas-valiosas/
 canonical_URL: https://ciberninjas.com/informe-anual-de-marcas-mas-valiosas/
-classes: wide
 categories:
 - Informes
 tags:
@@ -20,9 +19,9 @@ tags:
 
 ---
 
-![](https://i.ibb.co/98gzyBQ/image.jpg "Global 500, las quinientas empresas más importantes del mundo de la tecnología")
-
 El informe proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor de su marca.
+
+![](https://i.ibb.co/98gzyBQ/image.jpg "Global 500, las quinientas empresas más importantes del mundo de la tecnología")
 
 - Amazon hace historia como la primera marca en superar la marca de valor de US $ 200 mil millones y retiene el título de la marca más valiosa del mundo por tercer año consecutivo
 - Lidl y Aldi son marcas de mayor crecimiento en el sector minorista, lo que demuestra que el comercio electrónico ya no es solo la ruta hacia el éxito en el sector.

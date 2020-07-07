@@ -5,16 +5,15 @@ excerpt: "Los nuevos y audaces diseños de reactores SMR prometen electricidad l
 date: 2020-04-14 13:10:00 +0100
 canonical_URL: https://ciberninjas.com/sobre-la-nueva-energía-nuclear/
 permalink: /sobre-la-nueva-energía-nuclear/
-classes: wide
+
 published: true
 categories:
   - Energías Futuras
 tags:
   - Nuclear
   - Bill Gates
-header:
-  teaser: /assets/images/blog/nueva-energia-nuclear.webp
-#  overlay_image: /assets/images/
+thumbnail: /assets/img/blog/nueva-energia-nuclear.webp
+feature-img: /assets/img/blog/nueva-energia-nuclear.webp
 #  overlay_filter: '0.2'
 #  image_description: >-
 #  caption: >-
@@ -25,9 +24,9 @@ header:
 # toc_sticky: true
 ---
 
-![Energía nuclear de próxima generación: Los nuevos y audaces diseños de reactores prometen electricidad limpia y segura](/assets/images/blog/nueva-energia-nuclear.webp "Energía nuclear de próxima generación: Los nuevos y audaces diseños de reactores prometen electricidad limpia y segura")
-
 En algún momento de 2021, si todo va según lo planeado, el equipo de movimiento de tierras llegará a un lugar azotado y desaliñado por el viento en el Este de Idaho y comenzará a excavar un gran agujero.
+
+![Energía nuclear de próxima generación: Los nuevos y audaces diseños de reactores prometen electricidad limpia y segura](/assets/img/blog/nueva-energia-nuclear.webp "Energía nuclear de próxima generación: Los nuevos y audaces diseños de reactores prometen electricidad limpia y segura")
 
 El **Desierto de Artemisa**, el punto en el que se escavará, **no se encuentra demasiado lejos de la "Ciudad Atómica" de Idaho**. La ciudad, en la actualidad, **no tiene mucho que ver con lo que era en la antigüedad**. Quedan menos de 30 residentes en ella y la única estación de servicio que existe, ya no vende gas. 
 

@@ -1,18 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Gmail
 categories:
 - Software
-header:
-  teaser: /assets/images/blog/gmail-correo.webp
-  overlay_image: /assets/images/blog/gmail-correo.webp
-  overlay_filter: 0.2
-  image_description: 'Si hace unos años costaba trabajo configurar el correo electrónico de Google y usar extensiones de terceros, ahora todo lo que necesita está dentro de las opciones de configuración de Gmail.'
-  image_alt: 'Si hace unos años costaba trabajo configurar el correo electrónico de Google y usar extensiones de terceros, ahora todo lo que necesita está dentro de las opciones de configuración de Gmail.'
+thumbnail: /assets/img/blog/gmail-correo.webp
+feature-img: /assets/img/blog/gmail-correo.webp
 title: '▷ Cómo configurar múltiples firmas en Gmail'
 description: >-
   Si hace unos años costaba trabajo configurar el correo electrónico de Google y usar extensiones de terceros, ahora todo lo que necesita está dentro de las opciones de configuración de Gmail.
@@ -45,6 +41,6 @@ Por ahora, esta función no se encuentra funcional en las aplicaciones en Androi
 
 Desde la configuración de Google Gmail, siguiendo a la ruta (Configuración → Configuración de firma → Firma móvil) no te permitirá crear varias versiones de firmas; pero si una para todos los emails que respondas desde el móvil.
 
-![Si hace unos años costaba trabajo configurar el correo electrónico de Google y usar extensiones de terceros, ahora todo lo que necesita está dentro de las opciones de configuración de Gmail.](/assets/images/blog/gmail-correo.webp "  Si hace unos años costaba trabajo configurar el correo electrónico de Google y usar extensiones de terceros, ahora todo lo que necesita está dentro de las opciones de configuración de Gmail.")
+![Si hace unos años costaba trabajo configurar el correo electrónico de Google y usar extensiones de terceros, ahora todo lo que necesita está dentro de las opciones de configuración de Gmail.](/assets/img/blog/gmail-correo.webp "  Si hace unos años costaba trabajo configurar el correo electrónico de Google y usar extensiones de terceros, ahora todo lo que necesita está dentro de las opciones de configuración de Gmail.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

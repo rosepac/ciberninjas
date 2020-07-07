@@ -1,6 +1,6 @@
 ---
 title: "👨‍💻 Los 14 Mejores Framework / SDK de Desarrollo de Aplicaciones 2019 / 2020"
-author_profile: true
+author: rosepac
 description: '🚀 Ojeamos los frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2019 / 2020.'
 excerpt: '🚀 Ojeamos los frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2019 / 2020.'
 published: false

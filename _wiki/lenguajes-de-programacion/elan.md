@@ -5,8 +5,7 @@ description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica 
 excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: ELAN, lenguaje de programación educativo para aprender y enseñar programación sistemática"
 date: 2019-09-11 09:07:07
 published: true
-author_profile: true
-classes: wide
+author: rosepac
 permalink: /wiki/elan/
 canonical_URL: https://ciberninjas.com/wiki/elan/
 

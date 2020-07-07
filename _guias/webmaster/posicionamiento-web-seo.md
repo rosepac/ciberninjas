@@ -1,21 +1,16 @@
 ---
 title: 🕵️‍♂️ ▷ Posicionamiento Web y SEO, aprender desde cero todo lo que debes saber 
-author_profile: true
+author: rosepac
 description: "📌 Posicionamiento Web y SEO 🔍 Aprender desde cero a experto todo lo que debes saber"
 excerpt: "📌 Posicionamiento Web y SEO 🔍 Aprender desde cero a experto todo lo que debes saber"
 published: true
 comments: false
-classes: wide
 date: 2020-06-12
 last_modified_at:
 permalink: /posicionamiento-web-seo/
 canonical_URL: https://ciberninjas.com/posicionamiento-web-seo/
-header:
-  overlay_image: "/assets/images/seo-posicionamiento-ciberninjas.webp"
-  image_description: El SEO y el Posicionamiento, vamos a aprender desde cero todo lo que debemos saber. Visto en Ciberninjas.
-  image_alt: El SEO y el Posicionamiento, vamos a aprender desde cero todo lo que debemos saber. Visto en Ciberninjas.
-  caption: "**Créditos**: Edición Personal Sobre Foto de Merakist en Unsplash"
-  teaser: /assets/images/seo-posicionamiento-ciberninjas.webp
+thumbnail: "/assets/images/seo-posicionamiento-ciberninjas.webp"
+feature-img: "/assets/images/seo-posicionamiento-ciberninjas.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

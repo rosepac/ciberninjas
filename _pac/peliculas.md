@@ -1,22 +1,15 @@
 ---
-author_profile: true
+author: rosepac
 title: "🎬 El Arte del Cine y la Televisión"
 description: "Las mejores películas, series y programas u espaciones de televisión que recomienda el menda de Pablete, ele"
 excerpt: "Las mejores películas, series y programas u espaciones de televisión que recomienda el menda de Pablete, ele"
-classes: wide
 permalink: /películas/
 canonical_URL: https://ciberninjas.com/películas/
 comments: false
 date: 2020-05-26 18:00:00 +0100
 published: true
-header:
-  teaser: /assets/images/rosepac/cortos-de-animacion-solitario-social.webp
-  overlay_image: /assets/images/rosepac/projector-cine-antiguo-reducida.webp
-  overlay_filter: "0.2"
-  image_description: "El Arte del Cine, las Series y la Televisión en Ciberninjas"
-  image_alt: "El Arte del Cine, las Series y la Televisión en Ciberninjas"
-  caption: "El Arte del Cine, las Series y la Televisión en Ciberninjas"
-
+thumbnail: /assets/images/rosepac/cortos-de-animacion-solitario-social.webp
+feature-img: /assets/images/rosepac/projector-cine-antiguo-reducida.webp
 ---
 
 Desde hace tiempo llevo realizando una pequeña colección de mis películas y series favoritas, más interesantes o pendientes que tengo por ver o revisar; por fin hoy haré publica esa pequeña lista.. 😸

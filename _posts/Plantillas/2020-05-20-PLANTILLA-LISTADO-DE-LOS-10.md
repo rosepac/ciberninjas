@@ -1,14 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Hacking
 categories:
 - Sistemas Operativos
-header:
-  teaser: /assets/images/blog/marzo-hacking-wallpaper-pc-so
+thumbnail: /assets/img/blog/marzo-hacking-wallpaper-pc-so
+thumbnail2: /assets/img/blog/marzo-hacking-wallpaper-pc-so
 title: 'Los 10 + 10 mejores frameworks Java para usar en 2020'
 description: >-
   Elija entre los 10 mejores marcos de Java para usar para el desarrollo web en 2020.
@@ -22,7 +22,7 @@ published: false
 
 ---
 
-![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/images/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
+![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
 
 <!-- [CONTENIDO INTRODUCCION](https://hackr.io/blog/java-frameworks) -->
 

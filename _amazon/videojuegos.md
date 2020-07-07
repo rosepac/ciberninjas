@@ -9,18 +9,13 @@ published: true
 comments: false
 date: 2019-11-29 04:44:00 +0100
 last_modified_at: 2020-02-20 21:40:00 +0100
-header:
-  teaser: https://i.ibb.co/gRGCvXw/battlefield-1-gif.gif
-  overlay_image: https://i.ibb.co/PjPSZcf/consola-mando-joystick-1.jpg
-  overlay_filter: 0.2
-  image_description: '🎮 Las mejores ofertas de videojuegos y videoconsolas de 2020'
-  image_alt: '🎮 Las mejores ofertas de videojuegos y videoconsolas de 2020'
-  caption: "Créditos: Unsplash de Dominio Público"
-  actions:
-    - label: "Black Friday 2019"
-      url: "/black-friday-amazon/"
-    - label: "Disney"
-      url: "/disney-frozen-amazon/"
+thumbnail: https://i.ibb.co/gRGCvXw/battlefield-1-gif.gif
+feature-img: https://i.ibb.co/PjPSZcf/consola-mando-joystick-1.jpg
+actions:
+  - label: "Black Friday 2019"
+    url: "/black-friday-amazon/"
+  - label: "Disney"
+    url: "/disney-frozen-amazon/"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

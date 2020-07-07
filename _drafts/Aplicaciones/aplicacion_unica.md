@@ -1,6 +1,6 @@
 ---
 title: "📱 TITULO"
-author_profile: true
+author: rosepac
 description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 date: FECHA
@@ -12,7 +12,7 @@ categories:
 tags:
 - 
 header:
-  overlay_image: /asets/images/*.jpg
+feature-img: /asets/images/*.jpg
   overlay_filter: "0.2"
   image_description: "DESCRIPCION IMAGEN | Montaje creado por Ciberninjas"
   caption: "**Créditos**: Captura creada por Ciberninjas"

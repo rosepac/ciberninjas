@@ -1,6 +1,6 @@
 ---
 
-author_profile: true
+author: rosepac
 title: "▷ Comparación entre 3 de los frameworks web más de moda en 2020: Flutter, React Native y Xamarin"
 description: >-
   🔍 Xamarin, React Native y Flutter: Analizamos las ventajas y desventajas entre tres de los frameworks o SDK multiplataforma más potentes y usados en 2019/2020
@@ -10,11 +10,10 @@ published: true
 comments: false
 date: 2020-02-14 14:10:12
 last_modified_at: 
-header:
-  teaser: /assets/images/lenguajes-vs/flutter-vsreact-vs-xamarin.webp
+thumbnail: /assets/img/lenguajes-vs/flutter-vsreact-vs-xamarin.webp
+thumbnail2: /assets/img/lenguajes-vs/flutter-vsreact-vs-xamarin.webp
 permalink: /comparacion-flutter-react-native-xamarin/
 canonical_URL: https://ciberninjas.com/comparacion-flutter-react-native-xamarin/
-classes: wide
 tags:
 - Flutter
 - React Native
@@ -24,9 +23,9 @@ categories:
 
 ---
 
-![Flutter, React Native y Xamarin: Son 3 de los Frameworks más usadas y que mayor crecimiento han tenido durante 2019](/assets/images/lenguajes-vs/flutter-vsreact-vs-xamarin.webp "Flutter, React Native y Xamarin: Son 3 de los Frameworks más usadas y que mayor crecimiento han tenido durante 2019")
-
 En este artículo vamos a investigar el estado actual de los framework multiplataforma más populares para la creación de aplicaciones en Android e iOS.
+
+![Flutter, React Native y Xamarin: Son 3 de los Frameworks más usadas y que mayor crecimiento han tenido durante 2019](/assets/img/lenguajes-vs/flutter-vsreact-vs-xamarin.webp "Flutter, React Native y Xamarin: Son 3 de los Frameworks más usadas y que mayor crecimiento han tenido durante 2019")
 
 A la hora de usar un framework multiplataforma el objetivo final, siempre es el mismo, facilitar y permitir que un mismo equipo de programadores trabaje en escribir una única base de código que al final pueda ser implementado sobre múltiples plataformas.
 
@@ -69,7 +68,7 @@ A pesar de todos los inconvenientes, las personas continuaron eligiendo el desar
 
 ## Flutter
 
-![Las ventajas y desventajas de trabajar con el SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/images/wallpaper/flutter/Top-Flutter-Advantages.webp "Las ventajas de flutter y aplicaciones, visto en Ciberninjas")
+![Las ventajas y desventajas de trabajar con el SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/img/wallpaper/flutter/Top-Flutter-Advantages.webp "Las ventajas de flutter y aplicaciones, visto en Ciberninjas")
 
 Flutter ha estado disponible desde hace menos de 5 años y lanzado oficialmente desde hace menos de 3 años; pero solo comenzó a ganar visibilidad entre la comunidad de desarrollo aproximadamente desde el último año.
 
@@ -150,7 +149,7 @@ Eso hace que el diseño de Flutter sea visible de inmediato.
 
 ## React Native
 
-![Las ventajas de flutter y aplicaciones, visto en Ciberninjas](/assets/images/wallpaper/react-native/reactive-native-logo.webp "Las ventajas de flutter y aplicaciones, visto en Ciberninjas")
+![Las ventajas de flutter y aplicaciones, visto en Ciberninjas](/assets/img/wallpaper/react-native/reactive-native-logo.webp "Las ventajas de flutter y aplicaciones, visto en Ciberninjas")
 
 React Native se lanzó públicamente como código abierto a través de GitHub en 2015 y es el más popular de los tres frameworks en Stack Overflow y Google. A pesar de ser un framework bastante "viejo" ya, no existe una hoja de ruta clara, solo una [página dedicada en GitHub](https://github.com/facebook/react-native/wiki/Roadmap){:target="_blank" rel="nofollow,noreferrer"} que enumera los diferentes objetivos a alcanzar.
 
@@ -210,7 +209,7 @@ React Native es un framework de desarrollo móvil de código abierto para el des
 
 ## Xamarin
 
-![Las ventajas y desventajas de utilizar Xamarin, visto en Ciberninjas](/assets/images/wallpaper/microsoft-xamarin/xamarin-logo.webp "Las ventajas y desventajas de utilizar Xamarin, visto en Ciberninjas")
+![Las ventajas y desventajas de utilizar Xamarin, visto en Ciberninjas](/assets/img/wallpaper/microsoft-xamarin/xamarin-logo.webp "Las ventajas y desventajas de utilizar Xamarin, visto en Ciberninjas")
 
 Xamarin es el más antiguo de los tres frameworks, ya lleva más de 8 años. Es de código abierto, pero bajo un desarrollo centrado en el equipo de Microsoft. No posee la mejor reputación de herramientas, estabilidad y rendimiento entre los desarrolladores móviles, pero los desarrolladores empresariales de .Net parecen felices con él.
 

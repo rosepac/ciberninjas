@@ -2,18 +2,14 @@
 
 author_profile: false
 comments: false
-classes: wide
+
 layout: splash
 tags:
 - Fuchsia
 categories:
 - Sistema Operativo
-header:
-  teaser: /assets/images/blog/fuchsia-so.webp
-  overlay_image: /assets/images/blog/fuchsia-so.webp
-  overlay_filter: 0.2
-  image_description: 'En el interior de esta guía vas a encontrar la introducción más extensa al nuevo sistema operativo de Fuchsia, así como un comienzo a su desarrollo y programación.'
-  image_alt: 'En el interior de esta guía vas a encontrar la introducción más extensa al nuevo sistema operativo de Fuchsia, así como un comienzo a su desarrollo y programación.'
+thumbnail: /assets/img/blog/fuchsia-so.webp
+feature-img: /assets/img/blog/fuchsia-so.webp
 title: '¿Qué es Fuchsia y cuáles son sus conceptos más importantes?'
 description: >-
   En el interior de esta guía vas a encontrar la introducción más extensa al nuevo sistema operativo de Fuchsia, así como un comienzo a su desarrollo y programación.

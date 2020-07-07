@@ -1,19 +1,15 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Aprendizaje Profundo
 - Ciencia de Datos
 categories:
 - Análisis
-header:
-  teaser: /assets/images/blog/mlops-logo.webp
-  overlay_image: /assets/images/blog/mlops-logo.webp
-  overlay_filter: 0.3
-  image_description: 'MLOps (un compuesto de Machine Learning y "tecnología de la información OPERACIONES") es una nueva disciplina / enfoque / práctica para la colaboración y comunicación entre científicos de datos y tecnología de la información.'
-  image_alt: 'MLOps (un compuesto de Machine Learning y "tecnología de la información OPERACIONES") es una nueva disciplina / enfoque / práctica para la colaboración y comunicación entre científicos de datos y tecnología de la información.'
+thumbnail: /assets/img/blog/mlops-logo.webp
+feature-img: /assets/img/blog/mlops-logo.webp
 title: 'Introducción a MLOps'
 description: >-
   MLOps (un compuesto de Machine Learning y "tecnología de la información OPERACIONES") es una nueva disciplina / enfoque / práctica para la colaboración y comunicación entre científicos de datos y tecnología de la información.
@@ -89,6 +85,6 @@ Puede encontrar más información sobre [la hoja de ruta aquí](/hoja-ruta-mlops
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
 {: .notice--danger}
 
-![MLOps (un compuesto de Machine Learning y "tecnología de la información OPERACIONES") es una nueva disciplina / enfoque / práctica para la colaboración y comunicación entre científicos de datos y tecnología de la información.](/assets/images/blog/mlops-logo.webp "MLOps (un compuesto de Machine Learning y "tecnología de la información OPERACIONES") es una nueva disciplina / enfoque / práctica para la colaboración y comunicación entre científicos de datos y tecnología de la información.")
+![MLOps (un compuesto de Machine Learning y "tecnología de la información OPERACIONES") es una nueva disciplina / enfoque / práctica para la colaboración y comunicación entre científicos de datos y tecnología de la información.](/assets/img/blog/mlops-logo.webp "MLOps (un compuesto de Machine Learning y "tecnología de la información OPERACIONES") es una nueva disciplina / enfoque / práctica para la colaboración y comunicación entre científicos de datos y tecnología de la información.")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

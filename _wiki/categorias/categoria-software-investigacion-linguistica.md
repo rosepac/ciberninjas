@@ -8,8 +8,7 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: false
-author_profile: true
-classes: wide
+author: rosepac
 permalink: /wiki/categoria/software-de-investigacion-linguistica/
 
 ---

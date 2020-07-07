@@ -16,7 +16,7 @@ permalink: /catalogo/*
 description: '.'
 excerpt: '.'
 header:
-  overlay_image: 
+feature-img: 
   image_description: "TITULO en Español: Los mejores libros de seguridad informática y ciberseguridad | Ciberninjas"
   overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
   caption: "Créditos: **LeanPub**"

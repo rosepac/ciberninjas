@@ -9,8 +9,7 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 published: true
-author_profile: true
-classes: wide
+author: rosepac
 permalink: /wiki/eumel/
 
 ---

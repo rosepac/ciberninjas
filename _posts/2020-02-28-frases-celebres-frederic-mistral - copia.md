@@ -1,14 +1,13 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
 tags:
 - Frederic Mistral
 categories:
 - Citas Célebres
-header:
-  teaser: /assets/images/blog/frederic-mistral.webp
+thumbnail: /assets/img/blog/frederic-mistral.webp
+thumbnail2: /assets/img/blog/frederic-mistral.webp
 title: '📢 ▷ Las Mejores Frases Motivadores (o buscar otro adjetivo) de Frederic Mistall'
 description: >-
   Citas célebres del escritor francés Frederic Mistral.
@@ -22,7 +21,7 @@ published: false
 
 ---
 
-![Retrato del escritor francés Frederic Mistral](/assets/images/blog/frederic-mistral.webp "Retrato del escritor francés Frederic Mistral")
+![Retrato del escritor francés Frederic Mistral](/assets/img/blog/frederic-mistral.webp "Retrato del escritor francés Frederic Mistral")
 
 Autor por el que la escritora Gabriela Mistral uso el apellido Mistral como seudónimo.
 

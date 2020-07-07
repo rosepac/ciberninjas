@@ -1,16 +1,15 @@
 ---
-author_profile: true
+author: rosepac
 title: 8 Mejores Alternativas de Jenkins en 2020
 description: 8 Mejores Alternativas de Jenkins en 2020
 excerpt: 8 Mejores Alternativas de Jenkins en 2020
 comments: false
-classes: wide
 date: 2020-10-24 17:50:00 +0200
 tags:
 - Jenkins Alternativas
 categories:
 - Distribución Continua
-
+published: false
 ---
 
 Las herramientas de implementaci&oacute;n de software son el mejor amigo de un profesional de IT. Mejoran los servicios de actualizaci&oacute;n existentes, automatizan las tareas de implementaci&oacute;n, implementan las mejores pr&aacute;cticas de seguridad y monitorean la actividad del usuario y el funcionamiento de las aplicaciones. Sin estas herramientas, los equipos de IT pasan horas implementando y rastreando implementaciones manualmente. Esto quita tiempo y recursos de otras tareas m&aacute;s importantes.

@@ -1,18 +1,14 @@
 ---
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - Java
 - Python
 categories:
 - Lenguajes de Programación
-header:
-  teaser: /assets/images/lenguajes-vs/java-vs-python.webp
-  overlay_image: /assets/images/lenguajes-vs/java-vs-python.webp
-  overlay_filter: 0.2
-  image_description: 'Comparativa e introducción entre los lenguajes de programación: Python y Java.'
-  image_alt: 'Comparativa e introducción entre los lenguajes de programación: Python y Java.'
+thumbnail: /assets/img/lenguajes-vs/java-vs-python.webp
+feature-img: /assets/img/lenguajes-vs/java-vs-python.webp
 title: 'Java vs Python: ¿Cuál es su diferencia?'
 description: >-
   Comparativa e introducción entre los lenguajes de programación: Python y Java.

@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author: rosepac
 title: "▷ ¿Por qué Python es Mejor que PHP?"
 description: "Razones por las que Python es mejor que PHP en este 2020."
 excerpt: "Razones por las que Python es mejor que PHP en este 2020."
@@ -7,10 +7,9 @@ published: true
 comments: false
 date: 2020-01-25 01:33:12
 last_modified_at: 
-header:
-  teaser: https://i.ibb.co/XWvDrTF/Why-Python-Is-Better-Than-PHP-1024x576.png
+thumbnail: https://i.ibb.co/XWvDrTF/Why-Python-Is-Better-Than-PHP-1024x576.png
+thumbnail2: https://i.ibb.co/XWvDrTF/Why-Python-Is-Better-Than-PHP-1024x576.png
 canonical_URL: /porque-python-es-mejor-que-php/
-classes: wide
 categories:
 - Lenguajes de Programación
 tags:

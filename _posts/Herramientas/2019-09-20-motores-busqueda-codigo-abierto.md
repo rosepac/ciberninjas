@@ -1,24 +1,20 @@
 ---
-
 title:  '🔨 Los Mejores Motores de Búsqueda de Código Abierto'
 description: '🔍 El software de motor de búsqueda de datos de código abierto puede recopilar datos estructurados y no estructurados. Aquí está el mejor software de motor de búsqueda de código abierto disponible.'
 excerpt: '🔍 El software de motor de búsqueda de datos de código abierto puede recopilar datos estructurados y no estructurados. Aquí está el mejor software de motor de búsqueda de código abierto disponible.'
 published: false
-author_profile: true
+author: rosepac
 comments: false
 date: 2019-07-18 05:07:26
-header:
-  overlay_image: '/assets/images/generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg'
-  overlay_filter: 0.2
-  image_description: 'Generar código para insertar una imagen o fotografía de Google Photos | ROSEPAC'
-  caption: "**Créditos**: Creación propia / ROSEPAC"
+thumbnail: '/assets/img/generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg'
+feature-img: '/assets/img/generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg'
 tags:
 - Motores
 - Búsqueda
 categories:
 - Herramientas
-permalink: /los-mejores-motores-busqueda-codigo-abierto
-
+permalink: /los-mejores-motores-busqueda-codigo-abierto/
+canonical_URL: /los-mejores-motores-busqueda-codigo-abierto/
 ---
 
 ¿Le gustaría tener un motor de búsqueda como Google para su empresa? Entonces el código abierto podría tener una solución para usted. Hay un par de conocidos software de motor de búsqueda; puede llamarlos el mejor software de motor de búsqueda de código abierto para empresas porque le permiten buscar información dentro del dominio de su empresa.

@@ -1,14 +1,14 @@
 ---
 
-author_profile: true
+author: rosepac
 comments: false
-classes: wide
+
 tags:
 - 
 categories:
 - Java
-header:
-  teaser: /assets/images/blog/
+thumbnail: /assets/img/blog/
+thumbnail2: /assets/img/blog/
 title: '🚀 ▷ '
 description: >-
   ''
@@ -22,7 +22,7 @@ published: false
 
 ---
 
-![](/assets/images/ "")
+![](/assets/img/ "")
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
