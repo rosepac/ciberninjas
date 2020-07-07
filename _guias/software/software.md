@@ -1,7 +1,7 @@
 ---
 
 published: false
-classes: wide
+
 
 ---
 

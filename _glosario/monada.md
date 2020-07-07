@@ -4,7 +4,6 @@ description: "Mónada"
 excerpt: "Construcciones de programación funcional que capturan varias nociones diferentes de computación. * Término Avanzado."
 permalink: /glosario/monada/
 canonical_URL: https://ciberninjas.com/glosario/monada/
-classes: wide
 ---
 
 Construcciones de programación funcional que capturan varias nociones diferentes de computación. * Término Avanzado.

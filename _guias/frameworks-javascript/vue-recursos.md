@@ -1,5 +1,4 @@
 ---
-
 title: "👨‍💻 ▷ Hacker News, Toda la Información que Necesitas desde Cero"
 description: "👨‍💻 ▷ Hacker News, Toda la Información que Necesitas desde Cero."
 excerpt: "👨‍💻 ▷ Hacker News, Toda la Información que Necesitas desde Cero."
@@ -16,7 +15,6 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-
 ---
 
 Listado de muy buenos artículos de VUE [*](https://madewithvuejs.com/blog/vue-3-roundup){:target="_blank" rel="nofollow,noreferrer"}

@@ -10,11 +10,8 @@ categories:
   - Actualidad
 tags:
   - Hacker News
-header:
-  overlay_image: "https://i.ibb.co/9vwpm3k/hackernews-logo.png" 
-  overlay_filter: "0.1"
-  image_description: "Logotipo de Hacker News"
-caption: "Créditos: Propiedad de la propia web"
+thumbnail: "https://i.ibb.co/9vwpm3k/hackernews-logo.png" 
+feature-img: "https://i.ibb.co/9vwpm3k/hackernews-logo.png"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

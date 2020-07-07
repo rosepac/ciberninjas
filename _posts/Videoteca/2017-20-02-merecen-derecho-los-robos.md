@@ -9,7 +9,7 @@ header:
     provider: youtube
 comments: false
 date: 2017-02-20 08:10:02
-classes: wide
+
 tags:
 - Kurzgesagt
 - Robótica

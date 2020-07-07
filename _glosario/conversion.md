@@ -4,7 +4,6 @@ description: "Conversión"
 excerpt: "Cada vez que una actividad logra su objetivo final o se cumplen los resultados deseados respecto a una llamada a la acción creada con anterioridad."
 permalink: /glosario/conversion/
 canonical_URL: https://ciberninjas.com/glosario/conversion/
-classes: wide
 ---
 
 Cada vez que una actividad logra su objetivo final o se cumplen los resultados deseados respecto a una llamada a la acción creada con anterioridad.

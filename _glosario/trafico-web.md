@@ -4,8 +4,6 @@ description: "Tráfico Web"
 excerpt: "El tráfico web es la cantidad de datos enviados y recibidos por los visitantes a un sitio web."
 permalink: /glosario/trafico-web/
 canonical_URL: https://ciberninjas.com/glosario/trafico-web/
-classes: wide
-
 ---
 
 El tráfico web es la cantidad de datos enviados y recibidos por los visitantes a un sitio web.

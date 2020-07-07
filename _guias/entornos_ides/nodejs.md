@@ -15,7 +15,6 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-
 ---
 
 ## Los Mejores Artículos de NodeJS

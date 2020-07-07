@@ -10,7 +10,7 @@ header:
 comments: false
 canonical_URL: https://ciberninjas.com/configuracion-software-cuestion-politica/
 date: 2020-01-27 09:55:02
-classes: wide
+
 tags:
 - Javier De La Cueva
 - Software Libre

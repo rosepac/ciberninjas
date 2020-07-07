@@ -11,7 +11,6 @@ tags:
 - Huellas Digitales
 - Violación de Datos
 link: https://www.vpnmentor.com/blog/report-biostar2-leak
-
 ---
 > Las bases de datos de huellas digitales, reconocimiento facial y otra información personal de Biostar 2 quedan al descubierto al público
 

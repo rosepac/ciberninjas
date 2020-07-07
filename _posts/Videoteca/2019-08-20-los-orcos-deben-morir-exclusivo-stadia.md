@@ -9,7 +9,7 @@ header:
     provider: youtube
 comments: false
 date: 2019-08-20 17:06:12
-classes: wide
+
 tags:
 - Acción
 - Aventura

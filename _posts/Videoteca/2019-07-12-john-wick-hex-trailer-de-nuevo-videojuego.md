@@ -9,7 +9,7 @@ header:
     provider: youtube
 comments: false
 date: 2019-07-12 22:11:12
-classes: wide
+
 tags:
 - Acción
 - Trailer

@@ -5,13 +5,9 @@ excerpt: "📌 Aprende a crear las mejores aplicaciones móviles, web y de escri
 published: false
 comments: false
 date: 2019-12-20
-# classes: wide
+# 
 last_modified_at: 2019-12-20
 permalink: /desarrollador-web/
-# header:
-#   image: "/assets/images/chocolatey-ciberninjas.jpg"
-#   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
-#   caption: "**Créditos**: Creación Propia"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
