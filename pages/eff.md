@@ -3,7 +3,6 @@ layout: page
 title: "EFF: Fundación Frontera Electrónica"
 description: "EFF: Fundación Frontera Electrónica, traducción por Pablo Álvarez Corredera: Ciberninjas"
 excerpt: "EFF: Fundación Frontera Electrónica, traducción por Pablo Álvarez Corredera: Ciberninjas"
-collection: eff
 permalink: /eff/
 canonical_URL: https://ciberninjas.com/eff/
 published: true

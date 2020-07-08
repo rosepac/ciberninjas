@@ -11,8 +11,6 @@ last_modified_at: 2019-10-30T15:40:02-05:00
 permalink: /personajes-historicos/
 canonical_URL: https://ciberninjas.com/personajes-historicos/
 published: true
-author: rosepac
-bootstrap: true
 ---
 
 **IMPORTANTE**: El contenido en esta página incluido y traducido además de las páginas adyacentes sobre el directorio de ```/personajes-historicos/``` así como las fotografías incluidas se encuentran bajo los derechos de autoría y Copyright © 2019 de Computer History Museum. NO COPIAR, NI REPRODUCIR sin su consentimiento previo.

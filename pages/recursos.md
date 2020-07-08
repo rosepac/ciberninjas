@@ -5,8 +5,6 @@ title: "🌟 Mis Aplicaciones & Recursos Favoritos 🛠"
 description: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
 excerpt: "👷‍♂️ 🔨 Recursos: Mis Programas y Aplicaciones Online Favoritos ⭐ La caja de mis herramientas preferidas para el desarrollo web y trabajo personal de todo Internet."
 published: true
-author: rosepac
-bootstrap: true
 comments: false
 date: 2019-07-17 08:07:47
 last_modified_at: 2019-10-29T18:10:42-05:00
@@ -14,6 +12,7 @@ permalink: /recursos/
 canonical_URL: htpps://ciberninjas.com/recursos/
 
 ---
+
 <!-- AGREGAR CAPTURAS DE PANTALLA A LOS DIFERENTES SOFTWARE -->
 En esta página, encontrarás una descripción general de todos las aplicaciones y herramientas que uso o he usado regularmente o por un largo período de tiempo como para tomarme la molestia de recomendarlos. La razón principal de su selección es que me han ayudado a organizarme en todos los aspectos y a optimizar mis tareas.
 <!-- los mejroes recopilatorios del mundo: https://www.prototypr.io/ >>> Revisar su Blog , https://devawesome.lusaxweb.net/, -->

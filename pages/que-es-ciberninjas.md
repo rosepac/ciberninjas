@@ -6,23 +6,6 @@ canonical_URL: htpps://ciberninjas.com/que-es-ciberninjas/
 description: "Ciberninjas es la escuela de formación digital que fomenta el aprendizaje autodidacta de las profesiones digitales de las nuevas tecnologías como el desarrollo web y el diseño gráfico."
 excerpt: "Ciberninjas es la escuela de formación digital que fomenta el aprendizaje autodidacta de las profesiones digitales de las nuevas tecnologías como el desarrollo web y el diseño gráfico."
 last_modified_at: 2019-10-04T20:40:42-05:00
-# image: 
-#   path: &image /assets/img/imac-glitch-feature.jpg
-#   width: 1024
-#   height: 512
-#   feature: *image
-# twitter:
-#   card: summary_large_image
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-author: rosepac
-bootstrap: true
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 
 ---
 

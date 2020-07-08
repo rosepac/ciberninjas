@@ -6,8 +6,6 @@ date: 2018-12-01T12:42:42-05:00
 last_modified_at: 2019-08-09T12:42:42-05:00
 permalink: /politica-comentarios/
 title: "Sobre la Política de Comentarios"
-author: rosepac
-bootstrap: true
 ---
 
 1. Respeto. Política de tolerancia cero con todo aquello que se pueda considerar como “discurso del odio”.

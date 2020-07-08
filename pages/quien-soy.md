@@ -7,12 +7,6 @@ last_modified_at:
 canonical_URL: htpps://ciberninjas.com/quien-soy/
 description: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
 excerpt: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-author: rosepac
-bootstrap: true
 ---
 
 Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas conocer un poco más sobre ello; hace algún tiempo escribí la historia del [origen de mi nombre en Internet](https://steemit.com/mysteemitname/@rosepac/el-origen-de-mi-nombre-rosepac "El Origen de mi Nombre/Nickname: ROSEPAC"){:target="_blank" rel="nofollow,noreferrer"} además, en la misma publicación puedes comenzar a conocer en profundidad una pequeña parte de mi y de mis pensamientos.

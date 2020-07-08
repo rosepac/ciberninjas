@@ -1,16 +1,11 @@
 ---
 layout: page
-author: rosepac
-bootstrap: true
 title: "WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas"
 description: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
 excerpt: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
-collection: wiki
 permalink: /wiki/
 canonical_URL: https://ciberninjas.com/wiki/
 published: true
-author: rosepac
-bootstrap: true
 ---
 
 Índice de diferentes artículos de la Wikipedia de la tecnología en español aún sin traducción hasta ahora..
