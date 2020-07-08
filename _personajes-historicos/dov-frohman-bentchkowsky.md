@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Dov Frohman-Bentchkowsky"
 description: 'Dov Frohman-Bentchkowsky, inventor de la invención de la primera memoria comercial de solo lectura programable y borrable.'
 excerpt: 'Dov Frohman-Bentchkowsky, inventor de la invención de la primera memoria comercial de solo lectura programable y borrable.'
@@ -8,11 +9,8 @@ date: 2018-04-05
 published: true
 permalink: /personajes-historicos/dov-frohman-bentchkowsky/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/dov-frohman-bentchkowsky/
-thumbnail: https://images.computerhistory.org/fellows/dfrohmanbentchkowsky.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+feature-img: https://images.computerhistory.org/fellows/dfrohmanbentchkowsky.jpg
+img: https://images.computerhistory.org/fellows/dfrohmanbentchkowsky.jpg
 ---
 
 <img src="https://images.computerhistory.org/fellows/dfrohmanbentchkowsky.jpg" width="200px" high="250px" title="Dov Frohman-Bentchkowsky | Visto en Ciberninjas" alt="Dov Frohman-Bentchkowsky | Visto en Ciberninjas" />

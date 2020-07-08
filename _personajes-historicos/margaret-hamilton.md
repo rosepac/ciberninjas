@@ -7,12 +7,8 @@ date: 2020-02-11
 published: true
 permalink: /personajes-historicos/margaret-hamilton/
 canonical_URL: https://computerhistory.org/profile/margaret-hamilton/
-
-thumbnail: /assets/img/personajes-historicos/2017_margaret-hamilton.webp
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+feature-img: /assets/img/personajes-historicos/2017_margaret-hamilton.webp
+img: /assets/img/personajes-historicos/2017_margaret-hamilton.webp
 ---
 
  <img src="/assets/img/personajes-historicos/2017_margaret-hamilton.webp" width="200px" high="250px" alt="Margaret Hamilton" title="Margaret Hamilton">

@@ -8,8 +8,10 @@ last_modified_at: 2020-02-18T06:10:42-05:00
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/ciborg/
-
+feature-img: /assets/img/2020-news/fediverso.webp
+img: /assets/img/2020-news/fediverso.webp
 ---
 
 <!-- http://laaventuradeaprender.intef.es/-/ciborg-fernando-broncano -->

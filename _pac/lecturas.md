@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Lecturas"
 description: 'Lecturas Pendientes o En Proceso.'
 excerpt: 'Lecturas Pendientes o En Proceso.'
@@ -11,6 +12,7 @@ permalink: /lecturas/
 canonical_URL: https://ciberninjas.com/lecturas/
 thumbnail: https://i.ibb.co/1XCx7jG/libro-interesantes.gif
 feature-img: https://i.ibb.co/yqymDJj/photo-1505489304219-85ce17010209-ixlib-rb-1-2.jpg
+img: https://i.ibb.co/yqymDJj/photo-1505489304219-85ce17010209-ixlib-rb-1-2.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

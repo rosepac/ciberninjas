@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Ciberactivismo o Activismo Digital"
 description: "💪 Las mejores páginas web del mundo, para la protesta y la defensa del mundo de la tecnología y la seguridad digital de las personas"
 excerpt: "💪 Las mejores páginas web del mundo, para la protesta y la defensa del mundo de la tecnología y la seguridad digital de las personas"

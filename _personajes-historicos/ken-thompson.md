@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Ken Thompson"
 description: 'Ken Thompson, por su co-creación, junto a Dennis Ritchie, del sistema operativo UNIX, y por el desarrollo del lenguaje de programación C.'
 excerpt: 'Ken Thompson, por su co-creación, junto a Dennis Ritchie, del sistema operativo UNIX, y por el desarrollo del lenguaje de programación C.'
@@ -8,11 +9,8 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/ken-thompson/
 canonical_URL: https://computerhistory.org/profile/ken-thompson/
-thumbnail: https://computerhistory.org/wp-content/uploads/2020/01/1997_ken_thompson-e1580707711292.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+feature-img: https://computerhistory.org/wp-content/uploads/2020/01/1997_ken_thompson-e1580707711292.jpg
+img: https://computerhistory.org/wp-content/uploads/2020/01/1997_ken_thompson-e1580707711292.jpg
 ---
 
 <img src="https://computerhistory.org/wp-content/uploads/2020/01/1997_ken_thompson-e1580707711292.jpg" width="200px" high="250px" alt="Ken Thompson | Visto en Ciberninjas" title="Ken Thompson | Visto en Ciberninjas" />

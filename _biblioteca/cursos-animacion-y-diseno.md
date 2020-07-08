@@ -1,5 +1,6 @@
 ---
 
+layout: post
 title: 🎓 ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Sonido Vídeo y +
 description: '🔨 Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo'
 excerpt: '🔨 Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Fotografía, Sonido y Vídeo'
@@ -17,6 +18,7 @@ toc: false
 # toc_sticky: true
 thumbnail: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
 feature-img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
+img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
 actions:
   - label: "Recursos Diseño Web"
     url: "/cursos-animacion-diseno/"

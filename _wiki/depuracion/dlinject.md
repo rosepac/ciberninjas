@@ -7,8 +7,11 @@ date: 2020-01-15 01:55:07
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/dlinject/
 canonical_URL: https://ciberninjas.com/wiki/dlinject/
+feature-img: /assets/img/2020-news/fediverso.webp
+img: /assets/img/2020-news/fediverso.webp
 
 ---
 

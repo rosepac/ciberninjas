@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "🎈 Funkos Pop: Los muñecos más de moda de tus superheroes favoritos"
 description: "Estas hermosas figuritas decoraran a la perfección tu habitación"
 excerpt: "Estas hermosas figuritas decoraran a la perfección tu habitación"
@@ -9,6 +10,9 @@ author: rosepac
 bootstrap: true
 permalink: /regalos-funkos/
 canonical_URL: https://ciberninjas.com/regalos-funkos/
+thumbnail: https://i.ibb.co/BGJ9jjL/libros-mariposa.gif
+feature-img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
+img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 sidebar:
 - title: "Catálogo"
   nav: tienda

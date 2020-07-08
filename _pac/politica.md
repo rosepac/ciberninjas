@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Sobre Política"
 description: 'Política, influencias y abridores de mente.'
 excerpt: 'Política, influencias y abridores de mente.'
@@ -11,6 +12,7 @@ permalink: /politica/
 canonical_URL: https://ciberninjas.com/politica/
 thumbnail: https://i.ibb.co/mrnCQ0r/paz-gif.gif
 feature-img: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
+img: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
 ---
 
 Los enlaces aquí indicados solamente son referentes históricos sobre ciertos actos políticos, declaraciones o situaciones; en cuanto algunas situaciones de interés general política.

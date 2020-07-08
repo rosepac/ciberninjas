@@ -1,14 +1,17 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 author: rosepac
 bootstrap: true
+layout: post
 title: "Sobre Ecología"
 description: "🌄 Noticias sobre la actualidad de la Ecología"
 excerpt: "🌄 Noticias sobre la actualidad de la Ecología"
 permalink: /ecologia/
 thumbnail: /assets/img/gifs-colecciones/pensamiento-ecologia.gif
 feature-img: https://i.ibb.co/30rww15/photo-1562786992-4db45ffdbcd3-ixlib-rb-1-2.jpg
+img: https://i.ibb.co/30rww15/photo-1562786992-4db45ffdbcd3-ixlib-rb-1-2.jpg
 comments: false
 date: 2020-01-02 12:02:00 +0100
 last_modified_at: 2020-01-02 22:28:02 +0100

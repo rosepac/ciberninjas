@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "🛒 Catálogo de Los Mejores Libros de Tecnología para 2020 y en español"
 description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
 excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología & Mucho Más Objetos de Regalos Geeks"
@@ -11,6 +12,7 @@ permalink: /libros/
 canonical_URL: https://ciberninjas.com/libros/
 thumbnail: https://i.ibb.co/BGJ9jjL/libros-mariposa.gif
 feature-img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
+img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 sidebar:
   nav: libros
 ---

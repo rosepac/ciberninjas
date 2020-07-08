@@ -11,8 +11,11 @@ toc_sticky: true
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/windows-pe/
 canonical_URL: https://ciberninjas.com/wiki/windows-pe/
+feature-img: /assets/img/2020-news/fediverso.webp
+img: /assets/img/2020-news/fediverso.webp
 
 ---
 

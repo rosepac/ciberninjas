@@ -10,6 +10,7 @@ toc_sticky: true
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/categoria/cambio-tecnologico/
 
 ---

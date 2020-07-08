@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Guido Van Rossum"
 description: 'Guido Van Rossum, creación y evolución del lenguaje de programación Python y para el liderazgo de su comunidad.'
 excerpt: 'Guido Van Rossum, creación y evolución del lenguaje de programación Python y para el liderazgo de su comunidad.'
@@ -8,11 +9,8 @@ date: 2018-08-29
 published: true
 permalink: /personajes-historicos/guido-van-rossum/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/guido-van-rossum/
-thumbnail: https://images.computerhistory.org/fellows/gvanrossum.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+feature-img: https://images.computerhistory.org/fellows/gvanrossum.jpg
+img: https://images.computerhistory.org/fellows/gvanrossum.jpg
 ---
 
 <img src="https://images.computerhistory.org/fellows/gvanrossum.jpg" width="200px" high="250px" alt="Guido Van Rossum | Visto en Ciberninjas" title="Guido Van Rossum | Visto en Ciberninjas" />

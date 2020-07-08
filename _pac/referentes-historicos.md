@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Personajes y Referentes"
 description: 'Personajes y Referentes, de influencia o interés de sus pensamientos.'
 excerpt: 'Personajes y Referentes, de influencia o interés de sus pensamientos.'
@@ -10,6 +11,7 @@ permalink: /referentes-historicos/
 canonical_URL: https://ciberninjas.com/referentes-historicos/
 thumbnail: https://i.ibb.co/rv8wcTJ/give-love-heart-corazon-rosa.gif
 feature-img: https://i.ibb.co/4SRwrzW/petalos-rosas-unsplash.jpg
+img: https://i.ibb.co/4SRwrzW/petalos-rosas-unsplash.jpg
 ---
 
 ## Personajes Tecnológicos

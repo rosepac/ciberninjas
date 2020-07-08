@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: 'Cronograma de la Historia de la Computación'
 description: 'Cronograma o Línea de Tiempo de la Historia de la Computación'
 excerpt: 'Cronograma o Línea de Tiempo de la Historia de la Computación'

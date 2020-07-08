@@ -1,5 +1,6 @@
 ---
 # Página Base
+layout: post
 title: "▷ Cursos de Diferentes Temáticas 💥 100% GRATIS y en ESPAÑOL 💥! 🎓 "
 excerpt: "🔥 Comienza a aprender sobre Agricultura, Ciencias, Cocina, Medio Ambiente, Economía, Negocios, Salud, Servicios Sociales 💥 100% GRATIS y en ESPAÑOL 💥!"
 descriptio: "🔥 Comienza a aprender sobre Agricultura, Ciencias, Cocina, Medio Ambiente, Economía, Negocios, Salud, Servicios Sociales 💥 100% GRATIS y en ESPAÑOL 💥!"

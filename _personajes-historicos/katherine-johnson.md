@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Katherine Johnson"
 description: 'Katherine Johnson, premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.'
 excerpt: 'Katherine Johnson, premiada por sus cálculos excepcionales durante los programas espaciales de EE. UU. Que llevaron a los primeros humanos a la Luna.'
@@ -8,11 +9,8 @@ date: 2019-04-05
 published: true
 permalink: /personajes-historicos/katherine-johnson/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/katherine-johnson/
-thumbnail: https://images.computerhistory.org/fellows/kjohnson.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+feature-img: https://images.computerhistory.org/fellows/kjohnson.jpg
+img: https://images.computerhistory.org/fellows/kjohnson.jpg
 ---
 
 <img src="https://images.computerhistory.org/fellows/kjohnson.jpg" width="200px" high="250px" alt="Katherine Johnson | Visto en Ciberninjas" title="Katherine Johnson | Visto en Ciberninjas" />

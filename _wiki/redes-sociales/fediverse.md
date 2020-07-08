@@ -11,9 +11,11 @@ toc_sticky: true
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/fediverso/
 canonical_URL: https://ciberninjas.com/wiki/fediverso/
-thumbnail: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/2020-news/fediverso.webp
+img: /assets/img/2020-news/fediverso.webp
 
 ---
 

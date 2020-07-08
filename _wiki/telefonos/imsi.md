@@ -12,9 +12,11 @@ toc_sticky: true
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/imsi/
 canonical_URL: https://ciberninjas.com/wiki/imsi/
-
+feature-img: /assets/img/2020-news/fediverso.webp
+img: /assets/img/2020-news/fediverso.webp
 ---
 
 La Identidad Internacional del Abonado Móvil o IMSI es un número que identifica de forma única a cada usuario de una red celular. Se almacena como un campo de 64 bits y el dispositivo móvil lo envía a la red. También se utiliza para adquirir otros detalles del móvil en el registro de ubicación de la red (HLR) o como se copia localmente en el registro de ubicación del visitante. Para evitar que los espías identifiquen y rastreen al suscriptor mediante la interfaz de radio, el IMSI se envía bajo la menor frecuencia posible y en su lugar se envía un TMSI generado aleatoriamente.

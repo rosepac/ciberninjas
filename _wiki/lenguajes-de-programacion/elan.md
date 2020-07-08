@@ -7,8 +7,11 @@ date: 2019-09-11 09:07:07
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/elan/
 canonical_URL: https://ciberninjas.com/wiki/elan/
+feature-img: /assets/img/2020-news/fediverso.webp
+img: /assets/img/2020-news/fediverso.webp
 
 ---
 

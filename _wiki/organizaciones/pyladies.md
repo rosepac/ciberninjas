@@ -12,17 +12,17 @@ toc_sticky: true
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/pyladies/
 canonical_URL: https://ciberninjas.com/wiki/pyladies/
-pyladies-1:
-  - url: https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg
-    image_path: https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg
-    alt: "Dennis Rex bajo [Licencia Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)"
-    title: "Autor: Dennis Rex bajo [Licencia Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)"
+feature-img: [/assets/img/2020-news/fediverso.webp](https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg)
+img: [/assets/img/2020-news/fediverso.webp](https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg)
 
 ---
 
 PyLadies es un grupo internacional de mentoras / consejeras / orientadoras, principalmente mujeres,  que se enfoca en ayudar e introducir a otras mujeres en la participación activa dentro de la comunidad de código abierto de Python. Son parte de la Fundación del Software Python. Se inició en Los Ángeles en 2011.
+
+<!-- https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg Dennis Rex bajo [Licencia Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/) Autor: Dennis Rex bajo [Licencia Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/) -->
 
 La misión del grupo es crear una comunidad diversa de Python a través de actividades de divulgación , educación, conferencias y reuniones sociales.
 

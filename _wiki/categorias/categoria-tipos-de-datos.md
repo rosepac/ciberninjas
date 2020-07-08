@@ -11,6 +11,7 @@ toc_sticky: true
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/categoria/tipos-de-datos/
 canonical_URL: https://ciberninjas.com/wiki/categoria/tipos-de-datos/
 

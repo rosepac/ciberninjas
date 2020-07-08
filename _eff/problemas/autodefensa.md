@@ -4,11 +4,13 @@ description: "⚔ La Autodefensa de la Vigilancia por la Fundación Frontera Ele
 excerpt: "⚔ La Autodefensa de la Vigilancia por la Fundación Frontera Electrónica."
 date: 2019-10-08 18:00:10
 last_modified_at: 2019-10-11 10:18:10
+layout: post
 permalink: /eff/autodefensa/
 canonical_URL: https://ciberninjas.com/eff/autodefensa/
 published: true
 thumbnail: "https://i.ibb.co/yh0r3V9/logo.png"
 feature-img: "https://i.ibb.co/yh0r3V9/logo.png"
+img: "https://i.ibb.co/yh0r3V9/logo.png"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

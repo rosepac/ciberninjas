@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Steve Wozniak"
 description: 'Steve Wozniak, por cofundar Apple Computer e inventar la computadora personal Apple I.'
 excerpt: 'Steve Wozniak, por cofundar Apple Computer e inventar la computadora personal Apple I.'
@@ -8,11 +9,8 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/steve-wozniak/
 canonical_URL: https://computerhistory.org/profile/steve-wozniak/
-thumbnail: https://computerhistory.org/wp-content/uploads/2019/07/swozniak.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+feature-img: https://computerhistory.org/wp-content/uploads/2019/07/swozniak.jpg
+img: https://computerhistory.org/wp-content/uploads/2019/07/swozniak.jpg
 ---
 
 <img src="https://computerhistory.org/wp-content/uploads/2019/07/swozniak.jpg" width="200px" high="250px" alt="Steve Wozniak | Visto en Ciberninjas" title="Steve Wozniak | Visto en Ciberninjas" />

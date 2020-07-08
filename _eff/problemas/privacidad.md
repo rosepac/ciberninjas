@@ -2,12 +2,14 @@
 title: "🚨 La Privacidad según la EFF"
 description: "🛡 La Privacidad según la EFF."
 excerpt: "🛡 La Privacidad según la EFF."
+layout: post
 permalink: /eff/privacidad/
 canonical_URL: https://ciberninjas.com/eff/privacidad/
 date: 2019-10-08
 published: true
 thumbnail: "https://i.ibb.co/McrB0m8/icon-privacy-1-0.png"
 feature-img: "https://i.ibb.co/McrB0m8/icon-privacy-1-0.png"
+img: "https://i.ibb.co/McrB0m8/icon-privacy-1-0.png"
 ---
 
 Las nuevas tecnologías están abriendo radicalmente nuestras nuestras posibilidades de libertad, pero también están permitiendo invasiones de privacidad sin igual.

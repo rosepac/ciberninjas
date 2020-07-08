@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Jay W. Forrester"
 description: 'Jay W. Forrester, por su perfeccionamiento de la tecnología de memoria central en un práctico dispositivo de memoria de computadora y sus contribuciones fundamentales al diseño y desarrollo temprano de los sistemas informáticos.'
 excerpt: 'Jay W. Forrester, por su perfeccionamiento de la tecnología de memoria central en un práctico dispositivo de memoria de computadora y sus contribuciones fundamentales al diseño y desarrollo temprano de los sistemas informáticos.'
@@ -8,11 +9,8 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/jay-w-forrester/
 canonical_url: 'https://computerhistory.org/profile/jay-w-forrester/'
-thumbnail: https://computerhistory.org/wp-content/uploads/2020/01/1996_jay_forrester-e1580707602410.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+feature-img: https://computerhistory.org/wp-content/uploads/2020/01/1996_jay_forrester-e1580707602410.jpg
+img: https://computerhistory.org/wp-content/uploads/2020/01/1996_jay_forrester-e1580707602410.jpg
 ---
 
 <img src="https://images.computerhistory.org/fellows/jgosling.jpg" width="200px" high="250px" alt="Jay W. Forrester | Visto en Ciberninjas" title="Jay W. Forrester | Visto en Ciberninjas" />

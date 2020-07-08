@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "James Gosling"
 description: 'James Gosling, premiado por la concepción, diseño e implementación del lenguaje de programación Java.'
 excerpt: 'James Gosling, premiado por la concepción, diseño e implementación del lenguaje de programación Java.'
@@ -8,11 +9,8 @@ date: 2019-04-05
 published: true
 permalink: /personajes-historicos/james-gosling/
 canonical_url: 'https://www.computerhistory.org/fellowawards/hall/james-gosling/'
-thumbnail: 'https://images.computerhistory.org/fellows/jgosling.jpg'
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+feature-img: 'https://images.computerhistory.org/fellows/jgosling.jpg'
+img: 'https://images.computerhistory.org/fellows/jgosling.jpg'
 ---
 
 <img src="https://images.computerhistory.org/fellows/jgosling.jpg" width="200px" high="250px" alt="James Gosling | Visto en Ciberninjas" title="James Gosling | Visto en Ciberninjas" />

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "🛒 Catálogo de Libros de Tecnología en Inglés"
 description: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología en Inglés"
 excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología en Inglés"
@@ -9,6 +10,9 @@ author: rosepac
 bootstrap: true
 permalink: /libros-ingles/
 canonical_URL: https://ciberninjas.com/libros-ingles/
+thumbnail: https://i.ibb.co/BGJ9jjL/libros-mariposa.gif
+feature-img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
+img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 sidebar:
   nav: libros
 ---

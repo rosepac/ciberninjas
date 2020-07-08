@@ -1,8 +1,5 @@
 ---
-
-
 published: false
-
 ---
 
 En Eclipse theia: https://en.wikipedia.org/wiki/Language_Server_Protocol

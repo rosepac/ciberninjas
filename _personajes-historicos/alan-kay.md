@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Alan Kay"
 description: 'Alan Kay, por sus contribuciones fundamentales a la informática personal y al desarrollo de la interfaz hombre-computadora.'
 excerpt: 'Alan Kay, por sus contribuciones fundamentales a la informática personal y al desarrollo de la interfaz hombre-computadora.'
@@ -8,11 +9,11 @@ date: 2020-04-17
 published: true
 permalink: /personajes-historicos/alan-kay/
 canonical_URL: https://computerhistory.org/profile/alan-kay/
-thumbnail: https://computerhistory.org/wp-content/uploads/2020/01/1999_alan_kay-e1580707822558.jpg
+feature-img: https://computerhistory.org/wp-content/uploads/2020/01/1999_alan_kay-e1580707822558.jpg
+img: https://computerhistory.org/wp-content/uploads/2020/01/1999_alan_kay-e1580707822558.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia
-
 ---
 
 <img src="https://computerhistory.org/wp-content/uploads/2020/01/1999_alan_kay-e1580707822558.jpg" width="200px" high="250px" alt="Alan Kay | Visto en Ciberninjas" title="Alan Kay | Visto en Ciberninjas" />

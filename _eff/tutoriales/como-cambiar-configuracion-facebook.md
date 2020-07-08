@@ -2,6 +2,7 @@
 title: "📢 Cómo cambiar tu configuración de actividad fuera de Facebook"
 description: "➡ Cambia, consulta o desvincula la actividad de Facebook respecto a las empresas y organizaciones que visitas fuera de Facebook."
 excerpt: "➡ Cambia, consulta o desvincula la actividad de Facebook respecto a las empresas y organizaciones que visitas fuera de Facebook."
+layout: post
 permalink: /eff/como-configurar-actividad-fuera-facebook/
 canonical_URL: https://ciberninjas.com/eff/como-configurar-actividad-fuera-facebook/
 date: 2020-01-29
@@ -9,6 +10,7 @@ last_modified_at:
 published: true
 thumbnail: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
 feature-img: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
+img: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

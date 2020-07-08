@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Leslie Lamport"
 description: 'Leslie Lamport, premiado por sus contribuciones al análisis y diseño de sistemas informáticos distribuidos, y por la creación inicial del sistema de producción de documentos LaTeX.'
 excerpt: 'Leslie Lamport, premiado por sus contribuciones al análisis y diseño de sistemas informáticos distribuidos, y por la creación inicial del sistema de producción de documentos LaTeX.'
@@ -8,11 +9,8 @@ date: 2019-04-05
 published: true
 permalink: /personajes-historicos/leslie-lamport/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/leslie-lamport/
-thumbnail: https://images.computerhistory.org/fellows/leslie-lamport.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+feature-img: https://images.computerhistory.org/fellows/leslie-lamport.jpg
+img: https://images.computerhistory.org/fellows/leslie-lamport.jpg
 ---
 
 <img src="https://images.computerhistory.org/fellows/leslie-lamport.jpg" width="200px" high="250px" alt="Leslie Lamport | Visto en Ciberninjas" title="Leslie Lamport | Visto en Ciberninjas" />

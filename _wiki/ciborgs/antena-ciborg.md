@@ -7,8 +7,11 @@ date: 2019-10-04 04:51:07
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/antena-ciborg/
 canonical_URL: https://ciberninjas.com/wiki/antena-ciborg/
+feature-img: /assets/img/2020-news/fediverso.webp
+img: /assets/img/2020-news/fediverso.webp
 
 ---
 

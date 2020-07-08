@@ -11,8 +11,11 @@ toc_sticky: true
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/apache-storm/
 canonical_URL: https://ciberninjas.com/wiki/apache-storm/
+feature-img: /assets/img/2020-news/fediverso.webp
+img: /assets/img/2020-news/fediverso.webp
 
 ---
 

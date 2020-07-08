@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Artículos"
 description: 'Artículos redactados durante los últimos años.'
 excerpt: 'Artículos redactados durante los últimos años.'
@@ -11,6 +12,7 @@ permalink: /articulos/
 canonical_URL: https://ciberninjas.com/articulos/
 thumbnail: https://i.ibb.co/p0WnjwY/zorrito-escritor-navegadores-plugins.gif
 feature-img: https://i.ibb.co/sQ75Zqy/IMG-1568-3.jpg
+img: https://i.ibb.co/sQ75Zqy/IMG-1568-3.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

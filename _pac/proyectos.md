@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Proyectos (antiguos) realizados por Pablo Álvarez Corredera"
 description: 'Aquí se pueden encontrar algunos viejos trabajos realizados en la época en la que era estudiante de formación profesional.'
 excerpt: 'Aquí se pueden encontrar algunos viejos trabajos realizados en la época en la que era estudiante de formación profesional.'
@@ -11,6 +12,7 @@ permalink: /proyectos/
 canonical_URL: https://ciberninjas.com/proyectos/
 thumbnail: /assets/img/paginas/chico-trabajando.webp
 feature-img: /assets/img/paginas/chico-trabajando.webp
+img: /assets/img/paginas/chico-trabajando.webp
 ---
 
 ## Biblioteca de Tecnología

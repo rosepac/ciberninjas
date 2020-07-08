@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "👩‍🏫 Catálogo de Libros Educativos"
 description: "👩‍🎓 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
 excerpt: "👩‍🎓 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
@@ -13,6 +14,7 @@ toc_icon: user-ninja
 toc_sticky: false
 thumbnail: "https://i.ibb.co/NtwSytg/libros-educativos.gif"
 feature-img: "https://i.ibb.co/MCjCSdR/photo-1550376026-33cbee34f79e-ixlib-rb-1-2.jpg"
+img: "https://i.ibb.co/MCjCSdR/photo-1550376026-33cbee34f79e-ixlib-rb-1-2.jpg"
 permalink: /libros-texto/
 canonical_URL: https://ciberninjas.com/libros-texto/
 sidebar:

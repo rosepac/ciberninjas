@@ -2,6 +2,7 @@
 title: "📢 El Anonimato según la EFF"
 description: "🗣 El Anonimato según la EFF."
 excerpt: "🗣 El Anonimato según la EFF."
+layout: post
 permalink: /eff/anonimato/
 canonical_URL: https://ciberninjas.com/eff/anonimato/
 date: 2019-10-11

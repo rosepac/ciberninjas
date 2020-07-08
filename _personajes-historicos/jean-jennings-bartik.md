@@ -7,12 +7,8 @@ date: 2020-02-11
 published: true
 permalink: /personajes-historicos/jean-bartik/
 canonical_URL: https://computerhistory.org/profile/jean-jennings-bartik/
-
-thumbnail: /assets/img/personajes-historicos/2008_jean_bartik.webp
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+feature-img: /assets/img/personajes-historicos/2008_jean_bartik.webp
+img: /assets/img/personajes-historicos/2008_jean_bartik.webp
 ---
 
  <img src="/assets/img/personajes-historicos/2008_jean_bartik.webp" width="200px" high="250px" alt="Jean Jennings Bartik" title="Jean Jennings Bartik">

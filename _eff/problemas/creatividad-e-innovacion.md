@@ -2,6 +2,7 @@
 title: "🚨 Creatividad e Innovación según la EFF"
 description: "🚨 Creatividad e Innovación según la EFF. Visto en Ciberninjas"
 excerpt: "🚨 Creatividad e Innovación según la EFF. Visto en Ciberninjas"
+layout: post
 permalink: /eff/creatividad-e-innovacion/
 canonical_URL: https://ciberninjas.com/eff/creatividad-e-innovacion/
 date: 2019-10-08

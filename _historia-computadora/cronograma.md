@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: '🥇 ▷ La Historia de los Ordenadores'
 description: 'Los acontecimientos tecnológicos más importantes del Siglo XX. La computación, la telefonía, y las ciencias electrónicas'
 excerpt: 'Cronograma o Línea de Tiempo de la Historia de la Computación'
@@ -8,7 +9,6 @@ date: 2020-04-21
 published: true
 permalink: /cronograma/
 canonical_URL: "https://www.computerhistory.org/timeline/"
-
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

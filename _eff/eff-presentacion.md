@@ -1,14 +1,17 @@
 ---
+
 title: "🚨 Fundación Frontera Electrónica"
 description: "👮‍♀️ Lee todo lo que debes saber sobre el proyecto de la EFF."
 excerpt: "👮‍♀️ Conoce todo lo que debes saber sobre la EFF."
 date: 2019-10-08 18:40:10
 last_modified_at: 
+layout: post
 permalink: /eff/fundacion-frontera-electronica/
 canonical_URL: https://ciberninjas.com/eff/fundacion-frontera-electronica/
 published: true
 thumbnail: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
 feature-img: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
+img: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
 # sidebar:
 # - title: "Catálogo"
 #   nav: tienda

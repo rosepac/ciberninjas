@@ -1,5 +1,6 @@
 ---
 # Página Base
+layout: post
 title: "▷ Los Mejores Cursos de Programación y Tecnología de 2020 Gratis 🎓 "
 description: "🚀 Repositorio de cursos online actualizados: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Repositorio de cursos online actualizados: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
@@ -11,6 +12,7 @@ permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
 thumbnail: "/assets/img/blog/tecnologia-programando.webp"
 feature-img: "/assets/img/blog/tecnologia-programando.webp"
+img: "/assets/img/blog/tecnologia-programando.webp"
 sidebar:
   nav: cursos-espanol
 ---

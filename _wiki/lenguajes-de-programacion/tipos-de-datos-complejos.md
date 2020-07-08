@@ -8,11 +8,14 @@ last_modified_at: 2019-10-10 19:51:30
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/tipos-de-datos-complejos/
 canonical_URL: https://ciberninjas.com/wiki/tipos-de-datos-complejos/
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
+feature-img: /assets/img/2020-news/fediverso.webp
+img: /assets/img/2020-news/fediverso.webp
 
 ---
 

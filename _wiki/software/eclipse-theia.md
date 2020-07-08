@@ -12,9 +12,11 @@ toc_sticky: true
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/eclipse-theia/
 canonical_URL: https://ciberninjas.com/wiki/eclipse-theia/
-
+feature-img: /assets/img/2020-news/fediverso.webp
+img: /assets/img/2020-news/fediverso.webp
 ---
 
 Eclipse Theia es un Framework de entorno de desarrollo integrado o IDE. Gratuito y de código abierto enfocado en las aplicaciones de escritorio y web. Se implementa en TypeScript y esta basado en el código de Visual Studio y destaca en él, sus posibilidades de ampliación.

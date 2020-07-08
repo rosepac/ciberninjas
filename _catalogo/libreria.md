@@ -1,9 +1,13 @@
 ---
+layout: post
 title: "\U0001F4DA La Librería de Novelas Recomendadas"
 description: "\U0001F3EA La Librería de Libros Recomendados Más Completa & Mucho Más"
 excerpt: "\U0001F4DA La Librería de Libros Recomendados Más Completa & Mucho Más"
 permalink: /libreria/
 canonical_URL: https://ciberninjas.com/libreria/
+thumbnail: https://i.ibb.co/BGJ9jjL/libros-mariposa.gif
+feature-img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
+img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 sidebar:
 - title: "Catálogo"
   nav: tienda

@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "🎬 El Arte del Cine y la Televisión"
 description: "Las mejores películas, series y programas u espaciones de televisión que recomienda el menda de Pablete, ele"
 excerpt: "Las mejores películas, series y programas u espaciones de televisión que recomienda el menda de Pablete, ele"
@@ -11,6 +12,7 @@ date: 2020-05-26 18:00:00 +0100
 published: true
 thumbnail: /assets/img/rosepac/cortos-de-animacion-solitario-social.webp
 feature-img: /assets/img/rosepac/projector-cine-antiguo-reducida.webp
+img: /assets/img/rosepac/projector-cine-antiguo-reducida.webp
 ---
 
 Desde hace tiempo llevo realizando una pequeña colección de mis películas y series favoritas, más interesantes o pendientes que tengo por ver o revisar; por fin hoy haré publica esa pequeña lista.. 😸

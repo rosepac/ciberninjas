@@ -10,6 +10,7 @@ toc_sticky: true
 published: false
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/categoria/generadores-de-sitios-web-estaticos/
 
 ---

@@ -2,6 +2,7 @@
 title: "📢 La Libertad de Expresión según la EFF"
 description: "🗣 La Libertad de Expresión según la EFF."
 excerpt: "🗣 La Libertad de Expresión según la EFF."
+layout: post
 permalink: /eff/libertad-expresion/
 canonical_URL: https://ciberninjas.com/eff/libertad-expresion/
 date: 2019-10-08

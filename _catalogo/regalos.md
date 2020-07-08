@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "🎈 Regalos Ciberninjas"
 description: "Regalos, Objetos y Curiosidades Interesantes para Geeks e incluso Gratis"
 excerpt: "Regalos, Objetos y Curiosidades Interesantes para Geeks e incluso Gratis"
@@ -15,6 +16,7 @@ permalink: /regalos/
 canonical_URL: https://ciberninjas.com/regalos/
 thumbnail: "https://i.ibb.co/NSyLZ1P/star-wars-militar-mirando.jpg"
 feature-img: "https://i.ibb.co/NSyLZ1P/star-wars-militar-mirando.jpg"
+img: "https://i.ibb.co/NSyLZ1P/star-wars-militar-mirando.jpg"
 sidebar:
 - title: "Catálogo"
   nav: tienda

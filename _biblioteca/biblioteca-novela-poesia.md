@@ -1,10 +1,10 @@
 ---
+layout: post
 title: ▷ Bibliotecas Online GRATIS PDF y Online, encuentra lo que deseas entre miles de novelas y repositorios gratuitos 
 description: "Miles de libros PDF gratuitos y de dominio publico, novelas clásicas, ciencia, cuentos, revistas y mucho más."
 excerpt: "Miles de libros PDF gratuitos y de dominio publico novelas clásicas, ciencia, cuentos, revistas y mucho más."
 author: rosepac
 bootstrap: true
-layout: splash
 published: true
 comments: false
 date: 2020-05-27
@@ -13,6 +13,7 @@ permalink: /biblioteca-novela-poesia/
 canonical_URL: https://ciberninjas.com/biblioteca-novela-poesia/
 thumbnail: "/assets/img/paginas/libros-clasicos-novelas-historia-revistas.webp"
 feature-img: "/assets/img/paginas/libros-clasicos-novelas-historia-revistas.webp"
+img: "/assets/img/paginas/libros-clasicos-novelas-historia-revistas.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -441,47 +442,47 @@ Sci-Hub fue fundada por Alexandra Elbakyan en 2011 en Kazajstán en respuesta al
 
 ### Índice <!-- omit in toc -->
 - [**Resumen**](#resumen)
-- [**La Historia de la Literatura Española**](#la-historia-de-la-literatura-espa%c3%b1ola)
-- [**Literatura española en la Edad Media**](#literatura-espa%c3%b1ola-en-la-edad-media)
-  - [**Orígenes del latín**](#or%c3%adgenes-del-lat%c3%adn)
-  - [**El crecimiento de la poesía heroica**](#el-crecimiento-de-la-poes%c3%ada-heroica)
+- [**La Historia de la Literatura Española**](#la-historia-de-la-literatura-española)
+- [**Literatura española en la Edad Media**](#literatura-española-en-la-edad-media)
+  - [**Orígenes del latín**](#orígenes-del-latín)
+  - [**El crecimiento de la poesía heroica**](#el-crecimiento-de-la-poesía-heroica)
   - [**Los inicios de la prosa**](#los-inicios-de-la-prosa)
-  - [**La Poesía narrativa aprendida**](#la-poes%c3%ada-narrativa-aprendida)
-  - [**El Siglo XIV de la Literatura Española**](#el-siglo-xiv-de-la-literatura-espa%c3%b1ola)
-  - [**El Siglo XV de la Literatura Española**](#el-siglo-xv-de-la-literatura-espa%c3%b1ola)
-- [**El Renacimiento en la Literatura Española**](#el-renacimiento-en-la-literatura-espa%c3%b1ola)
-  - [**La Poesía del Renacimiento Español**](#la-poes%c3%ada-del-renacimiento-espa%c3%b1ol)
-  - [**La introducción del drama en la Literatura Española**](#la-introducci%c3%b3n-del-drama-en-la-literatura-espa%c3%b1ola)
-  - [**La prosa en la escritura española**](#la-prosa-en-la-escritura-espa%c3%b1ola)
-  - [**La aparición de la novela en la cultura española**](#la-aparici%c3%b3n-de-la-novela-en-la-cultura-espa%c3%b1ola)
+  - [**La Poesía narrativa aprendida**](#la-poesía-narrativa-aprendida)
+  - [**El Siglo XIV de la Literatura Española**](#el-siglo-xiv-de-la-literatura-española)
+  - [**El Siglo XV de la Literatura Española**](#el-siglo-xv-de-la-literatura-española)
+- [**El Renacimiento en la Literatura Española**](#el-renacimiento-en-la-literatura-española)
+  - [**La Poesía del Renacimiento Español**](#la-poesía-del-renacimiento-español)
+  - [**La introducción del drama en la Literatura Española**](#la-introducción-del-drama-en-la-literatura-española)
+  - [**La prosa en la escritura española**](#la-prosa-en-la-escritura-española)
+  - [**La aparición de la novela en la cultura española**](#la-aparición-de-la-novela-en-la-cultura-española)
   - [**La escritura espiritual**](#la-escritura-espiritual)
   - [**La escritura a la mujer**](#la-escritura-a-la-mujer)
-  - [**El auge del dram en la escritura española**](#el-auge-del-dram-en-la-escritura-espa%c3%b1ola)
-  - [**El Barroco español**](#el-barroco-espa%c3%b1ol)
-  - [**La importancia de Calderón**](#la-importancia-de-calder%c3%b3n)
-- [**El Siglo XIIX de la Literatura Española**](#el-siglo-xiix-de-la-literatura-espa%c3%b1ola)
-  - [**Un nuevo enfoque crítico^^](#un-nuevo-enfoque-cr%c3%adtico)
+  - [**El auge del dram en la escritura española**](#el-auge-del-dram-en-la-escritura-española)
+  - [**El Barroco español**](#el-barroco-español)
+  - [**La importancia de Calderón**](#la-importancia-de-calderón)
+- [**El Siglo XIIX de la Literatura Española**](#el-siglo-xiix-de-la-literatura-española)
+  - [**Un nuevo enfoque crítico^^](#un-nuevo-enfoque-crítico)
   - [**Lsa mujeres escritoras**](#lsa-mujeres-escritoras)
-- [**El Siglo XIX de la Literatura Española**](#el-siglo-xix-de-la-literatura-espa%c3%b1ola)
-  - [**La aparición del romanticismo**](#la-aparici%c3%b3n-del-romanticismo)
-  - [**El Costumbrismo en la Literatura Española**](#el-costumbrismo-en-la-literatura-espa%c3%b1ola)
-  - [**El renacimiento de la novela española**](#el-renacimiento-de-la-novela-espa%c3%b1ola)
-  - [**La drama y poesía del posrománticismo**](#la-drama-y-poes%c3%ada-del-posrom%c3%a1nticismo)
-- [**La Época Moderna**](#la-%c3%89poca-moderna)
-  - [**La Novela de la Generación del 98**](#la-novela-de-la-generaci%c3%b3n-del-98)
-  - [**La Poesía de la Generación del 98**](#la-poes%c3%ada-de-la-generaci%c3%b3n-del-98)
-  - [**El drama en la Generación del 98**](#el-drama-en-la-generaci%c3%b3n-del-98)
-  - [**El Novecentismo en la literatura española**](#el-novecentismo-en-la-literatura-espa%c3%b1ola)
-  - [**La Generación del 27**](#la-generaci%c3%b3n-del-27)
-  - [**La mujer escritora durante la Generación del 27**](#la-mujer-escritora-durante-la-generaci%c3%b3n-del-27)
+- [**El Siglo XIX de la Literatura Española**](#el-siglo-xix-de-la-literatura-española)
+  - [**La aparición del romanticismo**](#la-aparición-del-romanticismo)
+  - [**El Costumbrismo en la Literatura Española**](#el-costumbrismo-en-la-literatura-española)
+  - [**El renacimiento de la novela española**](#el-renacimiento-de-la-novela-española)
+  - [**La drama y poesía del posrománticismo**](#la-drama-y-poesía-del-posrománticismo)
+- [**La Época Moderna**](#la-época-moderna)
+  - [**La Novela de la Generación del 98**](#la-novela-de-la-generación-del-98)
+  - [**La Poesía de la Generación del 98**](#la-poesía-de-la-generación-del-98)
+  - [**El drama en la Generación del 98**](#el-drama-en-la-generación-del-98)
+  - [**El Novecentismo en la literatura española**](#el-novecentismo-en-la-literatura-española)
+  - [**La Generación del 27**](#la-generación-del-27)
+  - [**La mujer escritora durante la Generación del 27**](#la-mujer-escritora-durante-la-generación-del-27)
   - [**La reforma del drama**](#la-reforma-del-drama)
-  - [**La guerra civil española**](#la-guerra-civil-espa%c3%b1ola)
+  - [**La guerra civil española**](#la-guerra-civil-española)
   - [**El teatro tras la guerra civil**](#el-teatro-tras-la-guerra-civil)
-  - [**La poesía tras la guerra civil**](#la-poes%c3%ada-tras-la-guerra-civil)
+  - [**La poesía tras la guerra civil**](#la-poesía-tras-la-guerra-civil)
 - [**Bibliotecas Online**](#bibliotecas-online)
 - [**Repositorios Documentales Digitales**](#repositorios-documentales-digitales)
 - [**Bibliotecas Online en Abierto**](#bibliotecas-online-en-abierto)
-- [**Bibliotecas Online Abiertas de América**](#bibliotecas-online-abiertas-de-am%c3%a9rica)
+- [**Bibliotecas Online Abiertas de América**](#bibliotecas-online-abiertas-de-américa)
 - [**Bibliotecas Presenciales**](#bibliotecas-presenciales)
 - [**Cuentos**](#cuentos)
 - [**Bibliotecas en Otros Lenguajes**](#bibliotecas-en-otros-lenguajes)

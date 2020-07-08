@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Tim Berners-Lee"
 description: 'Tim Berners-Lee, por ser el padre de la WWW gracias a sus contribuciones en su desarrollo.'
 excerpt: 'Tim Berners-Lee, por ser el padre de la WWW gracias a sus contribuciones en su desarrollo.'
@@ -8,11 +9,8 @@ date: 2003-04-05
 published: true
 permalink: /personajes-historicos/tim-berners-lee/
 canonical_URL: https://www.computerhistory.org/fellowawards/hall/sir-tim-berners-lee/
-thumbnail: https://images.computerhistory.org/fellows/2003_tim_berners-lee.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
+feature-img: https://images.computerhistory.org/fellows/2003_tim_berners-lee.jpg
+img: https://images.computerhistory.org/fellows/2003_tim_berners-lee.jpg
 ---
 
 <img src="https://images.computerhistory.org/fellows/2003_tim_berners-lee.jpg" width="200px" high="250px" alt="Tim Berners-Lee | Visto en Ciberninjas" title="Tim Berners-Lee | Visto en Ciberninjas" />

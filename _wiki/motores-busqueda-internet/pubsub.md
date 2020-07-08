@@ -7,8 +7,11 @@ date: 2019-10-02 01:55:07
 published: true
 author: rosepac
 bootstrap: true
+layout: post
 permalink: /wiki/pubsub/
 canonical_URL: https://ciberninjas.com/wiki/pubsub/
+feature-img: /assets/img/2020-news/fediverso.webp
+img: /assets/img/2020-news/fediverso.webp
 
 ---
 

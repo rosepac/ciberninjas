@@ -2,6 +2,7 @@
 title: "Bienvenidas las nuevas opciones de control de terceros de Facebook, pero insuficientes"
 description: "➡ Introducción y reflexión sobre los cambios en las opciones de control de terceros de Facebook."
 excerpt: "➡ Introducción y reflexión sobre los cambios en las opciones de control de terceros de Facebook."
+layout: post
 permalink: /eff/bienvenida-opcion-privacidad-terceros-facebook/
 canonical_URL: https://ciberninjas.com/eff/bienvenida-opcion-privacidad-terceros-facebook/
 date: 2020-01-29
@@ -9,6 +10,7 @@ last_modified_at:
 published: true
 thumbnail: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
 feature-img: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
+img: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

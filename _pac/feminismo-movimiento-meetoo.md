@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: post
 title: "Sobre Feminismo y Movimiento Meeto"
 description: 'Sobre Feminismo y Movimiento Meeto, influencias y abridores de mente.'
 excerpt: 'Sobre Feminismo y Movimiento Meeto, influencias y abridores de mente.'
@@ -11,6 +12,7 @@ permalink: /feminismo-movimiento-meeto/
 canonical_URL: https://ciberninjas.com/feminismo-movimiento-meeto/
 thumbnail: https://i.ibb.co/mNpqQXy/nathan-wright-GUTg-IIOwg-Ww-unsplash.jpg
 feature-img: https://i.ibb.co/mNpqQXy/nathan-wright-GUTg-IIOwg-Ww-unsplash.jpg
+img: https://i.ibb.co/mNpqQXy/nathan-wright-GUTg-IIOwg-Ww-unsplash.jpg
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia
