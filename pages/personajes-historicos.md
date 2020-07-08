@@ -64,5 +64,3 @@ Estos premios buscan honrar a los hombres y las mujeres que han ofrecido ideas c
 </details>
 
 ## 🔥 Biografías Agregadas Más Recientes.. 👇
-
-{% include personajes-historicos.html %}
