@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Sobre Sociología, Neurología y Otros"
 description: 'Sobre Sociología, Neurología y Otros, influencias y abridores de mente.'
 excerpt: 'Sobre Sociología, Neurología y Otros, influencias y abridores de mente.'

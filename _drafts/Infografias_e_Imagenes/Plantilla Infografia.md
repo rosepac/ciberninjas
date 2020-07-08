@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🎨 TÍTULO"
 description: "ICONO TEMÁTICA - DESCRIPCIÓN"
 excerpt: "ICONO TEMÁTICA - DESCRIPCIÓN"
@@ -15,12 +16,9 @@ categories:
   - Psicología
 header:
 feature-img: /.jpg
-  image_description: "TITULO - DESCRIPCION | Visto en Ciberninjas"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: ****"
-  actions:
-    - label: "📸 VER ÁLBUM"
-      url: "https://ibb.co/album/deUOov"
+actions:
+  - label: "📸 VER ÁLBUM"
+    url: "https://ibb.co/album/deUOov"
 sidebar:
   - title: "👨‍🎨 Infografías"
     nav: infog

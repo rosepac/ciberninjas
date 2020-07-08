@@ -1,6 +1,7 @@
 ---
 title: ''
 author: rosepac
+bootstrap: true
 description: ''
 excerpt: ''
 categories:
@@ -8,11 +9,7 @@ categories:
 tags:
 - 
 permalink: /
-header:
 feature-img: ''
-  overlay_filter: "0.2"
-  image_description: '| Ciberninjas'
-  caption: "**Créditos**: Captura creada por Ciberninjas"
 
 ---
 

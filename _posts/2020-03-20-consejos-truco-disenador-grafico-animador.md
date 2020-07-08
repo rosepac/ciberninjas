@@ -1,13 +1,14 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Consejos
 categories:
 - Teletrabajo
 thumbnail: /assets/img/blog/trabajo-relajante-2.webp
-thumbnail2: /assets/img/blog/trabajo-relajante-2.webp
+feature-img: /assets/img/blog/trabajo-relajante-2.webp
 title: '🥇 ▷ Consejos y Trucos para Animadores y Diseñadores Gráficos Principiantes'
 description: >-
   Los consejos perfectos para trabajar y construir tu propia oficina en casa.

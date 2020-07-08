@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F469‍\U0001F3EB Curso de Spring Boot + Docker con Abel Fresnillo"
 description: >-
   ▷ Aprender a utilizar Spring Boot junto a Docker ✌️ Con el curso impartido por Abel Fresnillo ⭐️

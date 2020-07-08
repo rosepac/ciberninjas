@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -10,7 +11,7 @@ categories:
 - Software
 - Flujos de Trabajo
 thumbnail: /assets/img/blog/software-stacks.webp
-thumbnail2: /assets/img/blog/software-stacks.webp
+feature-img: /assets/img/blog/software-stacks.webp
 title: '💼 ▷ Stacks: Una aplicación alternativa a Trello para Windows, macOS y Linux'
 description: >-
   Con este nuevo software, denominado Stacks y basado en la metodología kanban. Puedes administrar tus asuntos desde cualquier sistema operativo, de forma totalmente gratuita y sin ningún tipo de restricciones.

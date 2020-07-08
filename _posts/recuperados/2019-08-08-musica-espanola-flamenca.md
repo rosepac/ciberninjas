@@ -3,6 +3,7 @@ layout: post
 title: Música Española Flamenca
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-12-19 01:12:32
 tags:

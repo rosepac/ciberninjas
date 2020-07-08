@@ -3,6 +3,7 @@ title: 🍫 ▷ Chocolatey, Aprender Desde Cero
 description: "📌 Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows."
 excerpt: "📌 Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows."
 author: rosepac
+bootstrap: true
 published: true
 comments: false
 date: 2020-06-09 13:03:36
@@ -10,8 +11,8 @@ last_modified_at:
 permalink: /chocolatey/
 canonical_URL: https://ciberninjas.com/chocolatey/
 header:
-thumbnail: "/assets/images/blog/chocolatey-ciberninjas.webp"
-feature-img: "/assets/images/blog/chocolatey-ciberninjas.webp"
+thumbnail: "/assets/img/blog/chocolatey-ciberninjas.webp"
+feature-img: "/assets/img/blog/chocolatey-ciberninjas.webp"
 ---
 
 Chocolatey es el mejor instalador múltiple y administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows.
@@ -142,7 +143,7 @@ En ambos casos debemos de tener en cuenta que deben ser ejecutadas como administ
 
 Luego simplemente pegar el código y pulsar **ENTER**. Finalmente solo deberemos entrar [aquí][3]:
 
-![Página de la lista del Software a disposición en Chocolatey \ Visto en Ciberninjas](/assets/images/blog/chocolatey-software.webp "Página de la lista del Software a disposición en Chocolatey \ Visto en Ciberninjas")
+![Página de la lista del Software a disposición en Chocolatey \ Visto en Ciberninjas](/assets/img/blog/chocolatey-software.webp "Página de la lista del Software a disposición en Chocolatey \ Visto en Ciberninjas")
 
 Desde está página debemos ir buscando el Software o ‘Package’ que deseamos utilizar para poder copiar la línea de código adecuada o bien podríamos probar suerte, puesto que la línea de código es siempre la misma y bien sencilla, simplemente los comandos siguientes:
 
@@ -160,7 +161,7 @@ Ejecutando la siguiente línea:
 
 > Enter!!! 💻 
     
-![Ejecución del comando de instalación de Zeal sobre PowerShell \ Visto en Ciberninjas](/assets/images/blog/chocolatey-powershell.webp "Ejecución del comando de instalación de Zeal sobre PowerShell \ Visto en Ciberninjas")
+![Ejecución del comando de instalación de Zeal sobre PowerShell \ Visto en Ciberninjas](/assets/img/blog/chocolatey-powershell.webp "Ejecución del comando de instalación de Zeal sobre PowerShell \ Visto en Ciberninjas")
     
 Luego de ver los diferentes procesos que **Chocolatey** va realizando sobre la consola, tendremos el Software instalado y preparado para funcionar!
 
@@ -170,7 +171,7 @@ Luego de ver los diferentes procesos que **Chocolatey** va realizando sobre la c
     
 El programa que hemos aprendido a instalar, se denomina Zeal.
     
-![Programa gestor de repositorios de documentación Zeal \ Visto en Ciberninjas](/assets/images/blog/zeal-4.webp "Programa gestor de repositorios de documentación Zeal \ Visto en Ciberninjas")
+![Programa gestor de repositorios de documentación Zeal \ Visto en Ciberninjas](/assets/img/blog/zeal-4.webp "Programa gestor de repositorios de documentación Zeal \ Visto en Ciberninjas")
 
 Zeal es un aplicación muy interesante para todas las personas del mundo de la programación, que se basa en la creación de un navegador de documentación fuera de línea para desarrolladores de software.
 
@@ -196,7 +197,7 @@ Espero presentarlo en una entrada más completa 💘
  [3]: https://kutt.it/chocolatey_paquetes
  [4]: https://cdn-images-1.medium.com/max/800/1*tkVouRrDr0_fVNJUILJTVw.png
 
-![Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows](/assets/images/blog/chocolatey-ciberninjas.webp "Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows")
+![Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows](/assets/img/blog/chocolatey-ciberninjas.webp "Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows")
 
 Esta guía fue creada originalmente el *01 de Marzo de 2018* y actualizado por última vez el *09 de Mayo de 2020*.
 {: .notice--info}

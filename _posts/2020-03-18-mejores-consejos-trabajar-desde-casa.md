@@ -1,13 +1,14 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Consejos
 categories:
 - Teletrabajo
 thumbnail: /assets/img/blog/trabajo-relajante-2.webp
-thumbnail2: /assets/img/blog/trabajo-relajante-2.webp
+feature-img: /assets/img/blog/trabajo-relajante-2.webp
 title: '🥇 ▷ TIPS: Las 11 Mejores CONSEJOS para trabajar en casa 2020 🏡'
 description: >-
   Los consejos perfectos para trabajar y construir tu propia oficina en casa.

@@ -7,8 +7,8 @@ last_modified_at:
 permalink: /wordpress/
 canonical_URL: https://ciberninjas.com/wordpress/
 published: true
-thumbnail: "/assets/images/paginas/02-29-wordpress-all-in.webp"
-feature-img: "/assets/images/paginas/02-29-wordpress-all-in.webp"
+thumbnail: "/assets/img/paginas/02-29-wordpress-all-in.webp"
+feature-img: "/assets/img/paginas/02-29-wordpress-all-in.webp"
 ---
 
 Este guía fue creada hace ya más de 2 años, más aún es perfectamente valido la gran mayoría de sus contenidos. Por ende, he decidido subirla a mi web. 
@@ -262,4 +262,4 @@ Su URL original era, [este artículo de Steemit](https://steemit.com/spanish/@ro
 
 - [Web Empresa](https://www.webempresa.com/blog.html)
 
-![Aprender wordpress y todas las herramientas que necesitas para ser un auténtico webmaster profesional](/assets/images/paginas/02-29-wordpress-all-in.webp)
+![Aprender wordpress y todas las herramientas que necesitas para ser un auténtico webmaster profesional](/assets/img/paginas/02-29-wordpress-all-in.webp)

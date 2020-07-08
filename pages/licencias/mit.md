@@ -6,15 +6,6 @@ date: 2020-01-13T22:27:00.000+00:00
 last_modified_at: 2020-01-13T22:28:02-05:00
 permalink: /licencia/mit/
 canonical_URL: https://ciberninjas.com/licencia/mit/
-# header:
-#   image: "/assets/images/jekyll-blog.jpg"
-#   image_description: Jekyll, generador de sitios estáticos | Ciberninjas
-#   caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"
-#   teaser: "/assets/images/jekyll-blog.jpg"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 Copyright (c) 2020 Ciberninjas <rosepac21@gmail.com>

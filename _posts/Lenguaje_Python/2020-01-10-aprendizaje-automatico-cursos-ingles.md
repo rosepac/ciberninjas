@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python 🎓"
 description: "Los mejores tutoriales, cursos y artículos sobre machine learning / aprendizaje profundo para 2020"
 excerpt: "Los mejores tutoriales, cursos y artículos sobre machine learning / aprendizaje profundo para 2020"

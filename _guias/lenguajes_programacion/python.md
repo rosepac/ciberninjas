@@ -4,15 +4,16 @@ description: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesa
 excerpt: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para convertirte en un profesional'
 layout: splash
 published: true
-author_profile: false
+author: rosepac
+bootstrap: true
 
 comments: false
 date: 2020-05-20 12:06:18
 last_modified_at:
 permalink: /python/
 canonical_URL: https://ciberninjas.com/python/
-thumbnail: /assets/images/lenguajes/python-programadora.webp
-feature-img: /assets/images/lenguajes/python-programadora.webp
+thumbnail: /assets/img/lenguajes/python-programadora.webp
+feature-img: /assets/img/lenguajes/python-programadora.webp
 actions:
   - label: "Recursos Python"
     url: "/python-recursos/"

@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Ken Olsen"
 description: 'Ken Olsen, por su introducción de la minicomputadora como cofundador de Digital Equipment Corporation.'
 excerpt: 'Ken Olsen, por su introducción de la minicomputadora como cofundador de Digital Equipment Corporation.'

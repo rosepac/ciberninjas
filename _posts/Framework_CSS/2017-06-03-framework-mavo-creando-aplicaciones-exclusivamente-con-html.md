@@ -5,6 +5,7 @@ published: true
 description: "✅ Con el framework MAVO serás capaz de crear aplicaciones simplemente desde la construcción a través del uso más avanzado del HTML"
 excerpt: "✅ Con el framework MAVO serás capaz de crear aplicaciones simplemente desde la construcción a través del uso más avanzado del HTML"
 author: rosepac
+bootstrap: true
 comments: false
 
 date: 2017-06-03 03:06:40
@@ -15,7 +16,7 @@ categories:
 permalink: /framework-mavo-creando-aplicaciones-exclusivamente-con-html/
 canonical_URL: https://ciberninjas.com/framework-mavo-creando-aplicaciones-exclusivamente-con-html/
 thumbnail: /assets/img/blog/mavo-framework-ciberninjas-png.webp
-thumbnail2: /assets/img/blog/mavo-framework-ciberninjas-png.webp
+feature-img: /assets/img/blog/mavo-framework-ciberninjas-png.webp
 ---
 
 > _Crear aplicaciones web sin Javascript ahora ya es posible, con el_ **_Framework Mavo_** 

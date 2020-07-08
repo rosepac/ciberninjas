@@ -4,6 +4,7 @@ description: 'Cómo Aprender Ciberseguridad y Hacking Ético desde cero a expert
 excerpt: 'Cómo Aprender Ciberseguridad y Hacking Ético desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional.'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-01-27 08:07:25
 tags:

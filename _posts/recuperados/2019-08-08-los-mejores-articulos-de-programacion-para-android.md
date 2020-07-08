@@ -3,6 +3,7 @@ layout: post
 title: Los mejores artículos de programación para Android
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-03-25 12:03:59
 tags: [ ]

@@ -5,6 +5,7 @@ title: >
     visibilidad a Steem
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-12-19 05:12:31
 tags:

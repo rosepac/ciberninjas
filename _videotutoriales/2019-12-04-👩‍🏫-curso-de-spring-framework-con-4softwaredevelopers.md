@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F469‍\U0001F3EB Curso de Spring Framework de 4SoftwareDevelopers"
 description: >-
   ▷ Aprender a utilizar el Framework Spring ✌️ Con el curso impartido por 4SoftwareDevelopers ⭐️

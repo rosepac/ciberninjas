@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F468‍\U0001F3EB Curso de Javascript con Falcon Masters"
 description: >-
   ▷ Aprender a programar Javascript, tutorial desde cero por Carlos Arturo

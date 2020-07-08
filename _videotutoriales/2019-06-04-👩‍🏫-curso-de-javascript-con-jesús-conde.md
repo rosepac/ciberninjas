@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F469‍\U0001F3EB Curso de Javascript con Jesús Conde"
 description: >-
   ▷ Aprender a programar Javascript ✌️ Con el curso impartido por Jesús Conde ⭐️

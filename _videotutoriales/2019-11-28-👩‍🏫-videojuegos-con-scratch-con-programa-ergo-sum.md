@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👩‍🏫 Videojuegos con Scratch con Programo Ergo Sum"
 description: "👩‍🏫 Videojuegos con Scratch con Programo Ergo Sum, programación para niñas / niños."
 excerpt: "👩‍🏫 Videojuegos con Scratch con Programo Ergo Sum, programación para niñas / niños."

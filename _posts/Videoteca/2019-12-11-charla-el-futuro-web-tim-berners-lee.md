@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "📹 El Futuro de la Web por Tim Berners Lee 🌐"
 description: "En 2009 Tim Berners-Lee revisaba a través de esta charla de TEDx lo que sería la web de hoy en día Internet y la Web."
 excerpt: "En 2009 Tim Berners-Lee revisaba a través de esta charla de TEDx lo que sería la web de hoy en día Internet y la Web."

@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: 'Jenkins X, Acelerar la Integración Continua en Kubernetes'
 description: 'Jenkins X, Acelerar la Integración Continua en Kubernetes'
 excerpt: 'Jenkins X, Acelerar la Integración Continua en Kubernetes'

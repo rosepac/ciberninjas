@@ -4,20 +4,18 @@ description: 'Cómo Aprender Rust desde cero a experto en 2020, todo lo necesari
 excerpt: 'Cómo Aprender Rust desde cero a experto en 2020, todo lo necesario para ayudarte a convertirte en un profesional'
 published: false
 author: rosepac
+bootstrap: true
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-01-27 12:06:18
 last_modified_at: 
 permalink: /rust/
 thumbnail: https://i.ibb.co/wYvF8nT/wall-text-logo-symmetry-code-rust-109795-wallhere-com.png
 feature-img: https://i.ibb.co/wYvF8nT/wall-text-logo-symmetry-code-rust-109795-wallhere-com.png
-  overlay_filter: 0.2
-  image_description: '👨‍💻 ▷ Cómo Aprender Rust desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
-  image_alt: '👨‍💻 ▷ Cómo Aprender Rust desde cero a experto, todo lo necesario para ayudarte a convertirte en un profesional'
-  caption: "Wallpaper de Dominio Público"
-  actions:
-    - label: "Recursos Rust"
-      url: "/rust-recursos/"
+actions:
+  - label: "Recursos Rust"
+    url: "/rust-recursos/"
 ---
 
 [¿Qué es Rust?](/rust/#qué-es-rust){: .btn .btn--inverse .btn--large} [Sobre Rust](/rust/#sobre-rust){: .btn .btn--inverse .btn--large} [¿Quién usa Rust?](/rust/#quién-está-usando-rust){: .btn .btn--inverse .btn--large} [¿Por qué aprender Rust?](/rust/#por-qué-aprender-rust){: .btn .btn--inverse .btn--large} [Frameworks de Rust](/rust/#cómo-desarrollar-una-aplicación-web-con-rust){: .btn .btn--inverse .btn--large} [Bibliotecas de Rust](/rust/#librerías-de-rust){: .btn .btn--inverse .btn--large}

@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Sobre Feminismo y Movimiento Meeto"
 description: 'Sobre Feminismo y Movimiento Meeto, influencias y abridores de mente.'
 excerpt: 'Sobre Feminismo y Movimiento Meeto, influencias y abridores de mente.'

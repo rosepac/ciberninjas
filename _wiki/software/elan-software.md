@@ -10,6 +10,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: true
 author: rosepac
+bootstrap: true
 permalink: /wiki/elan-software/
 canonical_URL: https://ciberninjas.com/wiki/elan-software/
 

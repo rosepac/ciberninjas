@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: "▷ A los desarrolladores les encanta el lenguaje de programación Rust: He aquí por qué"
 description: >-
   El lenguaje de programación Rust creado por Mozilla ha alcanzado un punto óptimo en el mundo de la programación de sistemas.
@@ -11,7 +12,7 @@ comments: false
 date: 2020-02-05 10:31:12
 last_modified_at: 
 thumbnail: https://i.ibb.co/PFtL0KL/rust-1-0-is-the-programming-language-of-mozillas-servo.jpg
-thumbnail2: https://i.ibb.co/PFtL0KL/rust-1-0-is-the-programming-language-of-mozillas-servo.jpg
+feature-img: https://i.ibb.co/PFtL0KL/rust-1-0-is-the-programming-language-of-mozillas-servo.jpg
 permalink: /desarrolladores-lenguaje-rust/
 canonical_URL: https://ciberninjas.com/desarrolladores-lenguaje-rust/
 tags:

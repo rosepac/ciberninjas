@@ -1,6 +1,7 @@
 ---
 
-author_profile: false
+author: rosepac
+bootstrap: true
 layout: splash
 comments: false
 
@@ -9,7 +10,7 @@ tags:
 categories:
 - Sistema Operativo
 thumbnail: /assets/img/blog/11-android-11-desarrolladores.webp
-thumbnail2: /assets/img/blog/11-android-11-desarrolladores.webp
+feature-img: /assets/img/blog/11-android-11-desarrolladores.webp
 title: '📱 ▷ Vista previa de Android 11 para desarrolladores'
 description: >-
   Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios.

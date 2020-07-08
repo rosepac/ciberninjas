@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "John McCarthy"
 description: 'John McCarthy, por ser el cofundador de la Inteligencia Artificial (IA) y sistemas de tiempo compartido, y por sus importantes contribuciones a las matemáticas y la informática.'
 excerpt: 'John McCarthy, por ser el cofundador de la Inteligencia Artificial (IA) y sistemas de tiempo compartido, y por sus importantes contribuciones a las matemáticas y la informática.'

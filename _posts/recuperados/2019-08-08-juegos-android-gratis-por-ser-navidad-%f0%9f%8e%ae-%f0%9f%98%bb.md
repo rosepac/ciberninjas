@@ -3,6 +3,7 @@ layout: post
 title: ¡Juegos Android gratis por ser Navidad! 🎮 😻
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-12-28 08:12:05
 tags:

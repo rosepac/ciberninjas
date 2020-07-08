@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: CodeScene
 description: CodeScene
 excerpt: CodeScene

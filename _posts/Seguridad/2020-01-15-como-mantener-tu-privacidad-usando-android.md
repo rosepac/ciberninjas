@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "▷ Cómo mantener tu privacidad en un teléfono Android 📲"
 description: "Android es una de las herramientas más importantes de Google para recopilar datos sobre los usuarios. Esta guía lo ayudará a mejorar su privacidad en los dispositivos Android"
 excerpt: "Android es una de las herramientas más importantes de Google para recopilar datos sobre los usuarios. Esta guía lo ayudará a mejorar su privacidad en los dispositivos Android"

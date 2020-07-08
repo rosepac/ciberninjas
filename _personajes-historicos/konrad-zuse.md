@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Konrad Zuse"
 description: 'Konrad Zuse, por su invención de la primera computadora digital, electromecánica controlada por programa y el primer lenguaje de programación de alto nivel, "Plankalkul".'
 excerpt: 'Konrad Zuse, por su invención de la primera computadora digital, electromecánica controlada por programa y el primer lenguaje de programación de alto nivel, "Plankalkul".'

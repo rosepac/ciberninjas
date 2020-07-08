@@ -5,23 +5,15 @@ excerpt: "🔨 Cómo aprender desde cero todo sobre los generadores páginas web
 date: 2020-03-16
 last_modified_at:
 author: rosepac
+bootstrap: true
 published: true
 permalink: /ssg/
 canonical_URL: https://ciberninjas.com/ssg/
-thumbnail: "/assets/images/paginas/sitios-estaticos.webp"
-thumbnail2: "/assets/images/paginas/sitios-estaticos.webp"
-# header:
-#   image: "/assets/images/jekyll-blog.jpg"
-#   image_description: Jekyll, generador de sitios estáticos | Ciberninjas
-#   caption: "**Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia"
-#   teaser: "/assets/images/jekyll-blog.jpg"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+thumbnail: "/assets/img/paginas/sitios-estaticos.webp"
+feature-img: "/assets/img/paginas/sitios-estaticos.webp"
 ---
 
-![Guía Completa de Generadores de sitios estáticos en Ciberninjas](/assets/images/paginas/sitios-estaticos.webp)
+![Guía Completa de Generadores de sitios estáticos en Ciberninjas](/assets/img/paginas/sitios-estaticos.webp)
 
 La gente a veces pregunta si los sitios estáticos tienen sentido para algo más allá de un localizador. ¡Esta tabla de clasificación destaca los principales proyectos de código abierto, en muchos idiomas diferentes, que hacen que los sitios estáticos no solo sean viables, sino también una opción atractiva para crear sitios web sofisticados!
 

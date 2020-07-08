@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎧 Normani - Motivación: R & B Americano"
 description: "🎧 Normani - Motivación: R & B Americano"
 excerpt: "🎧 Normani - Motivación: R & B Americano"

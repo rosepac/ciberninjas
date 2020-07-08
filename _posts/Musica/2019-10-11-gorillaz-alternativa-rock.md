@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎧 Gorillaz. La Mejor Banda de Rock Alternativo Británico"
 description: "🎧 Gorillaz. La Mejor Banda de Rock Alternativo Británico"
 excerpt: "🎧 Gorillaz. La Mejor Banda de Rock Alternativo Británico  "

@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🏫 Curso de App Inventor y Android con Programamos"
 description: "📲 Crea Tu Primera Aplicación Web: Curso de App Inventor / Android con Programamos"
 excerpt: "📲 Crea Tu Primera Aplicación Web: Curso de App Inventor / Android con Programamos"

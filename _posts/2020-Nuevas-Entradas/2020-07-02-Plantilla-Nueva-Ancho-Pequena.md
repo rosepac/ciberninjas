@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - 
@@ -8,13 +9,9 @@ categories:
 - Java
 thumbnail: /assets/img/2020-news/
 feature-img: /assets/img/2020-news/
-  image_description: ''
-  image_alt: ''
 title: '🚀 ▷ '
-description: >-
-  
-excerpt: >-
-  
+description: 
+excerpt: 
 canonical_URL: https://ciberninjas.com//
 permalink: //
 date: 2020-07-02 11:01:32

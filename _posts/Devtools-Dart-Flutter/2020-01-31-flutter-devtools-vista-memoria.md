@@ -5,12 +5,13 @@ excerpt: '👩‍🚀 Primeros pasos de uso de la vista de memoria de DevTools s
 description: '👩‍🚀 Primeros pasos de uso de la vista de memoria de DevTools sobre Flutter.'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
 
 date: 2020-01-31 13:20:33
 last_modified_at: 
 thumbnail: https://i.ibb.co/2Sk0Kdr/vscode-show-in-browser-4848ba01b78de1138104589c726b1dd8a845364356b9d50dffdffd36dbf20887.png
-thumbnail2: https://i.ibb.co/2Sk0Kdr/vscode-show-in-browser-4848ba01b78de1138104589c726b1dd8a845364356b9d50dffdffd36dbf20887.png
+feature-img: https://i.ibb.co/2Sk0Kdr/vscode-show-in-browser-4848ba01b78de1138104589c726b1dd8a845364356b9d50dffdffd36dbf20887.png
 tags:
 - Flutter
 - Dart

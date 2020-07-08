@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "📹 Configuración del software como cuestión política 🔐"
 description: "Comparecencia en el Congreso de Javier de la Cueva para informar sobre ciberseguridad y la importancia de la posesión del código fuente como requisito fundamental para la seguridad estratégica del Estado"
 excerpt: "Comparecencia en el Congreso de Javier de la Cueva para informar sobre ciberseguridad y la importancia de la posesión del código fuente como requisito fundamental para la seguridad estratégica del Estado"

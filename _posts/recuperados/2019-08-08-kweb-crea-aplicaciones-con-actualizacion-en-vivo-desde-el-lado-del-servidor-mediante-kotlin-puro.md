@@ -3,6 +3,7 @@ layout: post
 title: 'Kweb: Crea aplicaciones con actualización en vivo desde el lado del servidor mediante Kotlin puro'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-12-09 08:12:51
 tags:

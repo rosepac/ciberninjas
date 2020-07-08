@@ -6,13 +6,12 @@ layout: splash
 classes: hide
 thumbnail: /assets/img/blog/polar-software.webp
 feature-img: /assets/img/blog/polar-software.webp
-  image_description: 'POLAR es un potente navegador sin conexión para Mac , Windows y Linux para administrar todo su contenido web, libros y notas.'
-  image_alt: 'POLAR es un potente navegador sin conexión para Mac , Windows y Linux para administrar todo su contenido web, libros y notas.'
 description: >-
   POLAR es un potente navegador sin conexión para Mac , Windows y Linux para administrar todo su contenido web, libros y notas. En Polar se mantiene todo el contenido en un solo lugar, admite etiquetado, anotación, resaltado y realiza un seguimiento de su progreso de lectura.
 excerpt: >-
   POLAR es un potente navegador sin conexión para Mac , Windows y Linux para administrar todo su contenido web, libros y notas. En Polar se mantiene todo el contenido en un solo lugar, admite etiquetado, anotación, resaltado y realiza un seguimiento de su progreso de lectura.
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-06-08 10:01:33
 tags:

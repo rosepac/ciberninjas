@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Guido Van Rossum"
 description: 'Guido Van Rossum, creación y evolución del lenguaje de programación Python y para el liderazgo de su comunidad.'
 excerpt: 'Guido Van Rossum, creación y evolución del lenguaje de programación Python y para el liderazgo de su comunidad.'

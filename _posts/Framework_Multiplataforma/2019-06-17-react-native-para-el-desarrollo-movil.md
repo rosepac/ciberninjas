@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👩‍💻 React Native para el Desarrollo Móvil"
 comments: false
 date: 2019-06-17 20:24:54

@@ -5,6 +5,7 @@ title: >
     excelencia
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-14 06:01:24
 tags:

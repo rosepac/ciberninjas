@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍💻 Aprende a Programar Swift - Programación iOS"
 comments: false
 date: 2019-08-30 09:40:55

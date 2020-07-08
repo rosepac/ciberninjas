@@ -1,6 +1,7 @@
 ---
 title: 🕵️‍♂️ ▷ Recursos y Herramientas de Posicionamiento Web y SEO 
 author: rosepac
+bootstrap: true
 description: "📌 Posicionamiento Web y SEO. Los mejores enlaces, aplicaciones y herramientas que existen."
 excerpt: "📌 Posicionamiento Web y SEO. Los mejores enlaces, aplicaciones y herramientas que existen."
 published: true
@@ -9,8 +10,8 @@ date: 2020-03-11
 last_modified_at: 
 permalink: /posicionamiento-seo-recursos/
 canonical_URL: https://ciberninjas.com/posicionamiento-seo-recursos/
-thumbnail: "/assets/images/paginas/seo-portada.webp"
-feature-img: "/assets/images/paginas/seo-portada.webp"
+thumbnail: "/assets/img/paginas/seo-portada.webp"
+feature-img: "/assets/img/paginas/seo-portada.webp"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

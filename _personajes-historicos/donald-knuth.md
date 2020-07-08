@@ -8,14 +8,14 @@ published: true
 permalink: /personajes-historicos/donald-knuth/
 canonical_URL: https://computerhistory.org/profile/donald-knuth/
 
-thumbnail: /assets/images/personajes-historicos/1998_donald_knuth.webp
+thumbnail: /assets/img/personajes-historicos/1998_donald_knuth.webp
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia
 
 ---
 
- <img src="/assets/images/personajes-historicos/1998_donald_knuth.webp" width="200px" high="250px" alt="Retrato de Donal Knuth" title="Retrato de Donal Knuth">
+ <img src="/assets/img/personajes-historicos/1998_donald_knuth.webp" width="200px" high="250px" alt="Retrato de Donal Knuth" title="Retrato de Donal Knuth">
 
 ## **Biografía de Donald Knuth**
 

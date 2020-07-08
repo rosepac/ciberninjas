@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: "▷ Open AI, comienza a usar PyTorch como framework principal"
 description: >-
   🤖 Estamos estandarizando el framework de aprendizaje profundo de OpenAI: PyTorch. En el pasado, implementamos proyectos en muchos frameworks dependientes de la inteligencia artificial..
@@ -11,7 +12,7 @@ comments: false
 date: 2020-02-02 02:30:12
 last_modified_at: 
 thumbnail: https://i.ibb.co/LxBMjP4/Screen-Shot-2019-12-12-at-4-27-26-PM.png
-thumbnail2: https://i.ibb.co/LxBMjP4/Screen-Shot-2019-12-12-at-4-27-26-PM.png
+feature-img: https://i.ibb.co/LxBMjP4/Screen-Shot-2019-12-12-at-4-27-26-PM.png
 permalink: /openai-pytorch/
 canonical_URL: https://ciberninjas.com/openai-pytorch/
 tags:

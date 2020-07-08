@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: 8 Mejores Alternativas de Jenkins en 2020
 description: 8 Mejores Alternativas de Jenkins en 2020
 excerpt: 8 Mejores Alternativas de Jenkins en 2020

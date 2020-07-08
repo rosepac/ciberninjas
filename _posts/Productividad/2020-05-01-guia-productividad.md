@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -8,7 +9,7 @@ tags:
 categories:
 - Productividad
 thumbnail: /assets/img/blog/guia-productividad-1.webp
-thumbnail2: /assets/img/blog/guia-productividad-1.webp
+feature-img: /assets/img/blog/guia-productividad-1.webp
 title: '💼 ▷ Guía de productividad definitiva 2020'
 description: >-
   La productividad es un tema candente para casi todas las empresas. Si su organización no es productiva, ¿cómo puede realmente esperar crecer?

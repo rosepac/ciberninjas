@@ -3,6 +3,7 @@ layout: post
 title: Cursos de Big Data en Español
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-12-01 08:12:57
 tags:

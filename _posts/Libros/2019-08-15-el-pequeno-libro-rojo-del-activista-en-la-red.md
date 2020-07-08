@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🔐 El Pequeño Libro Rojo del Activista en la Red"
 comments: false
 date: 2019-08-15 07:55:54

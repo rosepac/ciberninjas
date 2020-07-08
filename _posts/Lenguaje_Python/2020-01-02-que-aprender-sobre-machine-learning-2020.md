@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖"
 description: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje automático durante 2020"
 excerpt: "🤖 Los Mejores Consejos y Recursos para aprender apendizaje automático durante 2020"

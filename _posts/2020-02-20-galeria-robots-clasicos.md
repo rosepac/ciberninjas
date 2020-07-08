@@ -1,13 +1,14 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Historia Robótica
 categories:
 - Robótica
 thumbnail: /assets/img/blog/robots/2-bis-robots-2.jpg
-thumbnail2: /assets/img/blog/robots/2-bis-robots-2.jpg
+feature-img: /assets/img/blog/robots/2-bis-robots-2.jpg
 title: '🤖 ▷ Una espectacular galería de robots históricos'
 description: >-
   Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro

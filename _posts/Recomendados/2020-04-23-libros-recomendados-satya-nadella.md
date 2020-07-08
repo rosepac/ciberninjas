@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "🥇 ▷ Los libros favoritos y recomendados por Satya Nadella, para el día del libro 2020"
 description: 'Los lecturas favoritas que han servido de inspiración al actual CEO de Microsoft: Satya Nadella'
 excerpt: 'Los lecturas favoritas que han servido de inspiración al actual CEO de Microsoft: Satya Nadella'

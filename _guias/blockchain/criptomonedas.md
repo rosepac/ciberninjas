@@ -7,10 +7,6 @@ comments: false
 date: 2019-12-11T22:00:00.000+01:00
 last_modified_at: 2020-02-07
 permalink: /criptomonedas/
-# header:
-#   image: "/assets/images/chocolatey-ciberninjas.jpg"
-#   image_description: Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows
-#   caption: "**Créditos**: Creación Propia"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

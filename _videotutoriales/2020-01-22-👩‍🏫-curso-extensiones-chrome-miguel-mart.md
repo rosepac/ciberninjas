@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F469‍\U0001F3EB Las Mejores Extensiones de Chrome con Miguel Mart"
 description: >-
   ▷ Extensiones más  básicas y útiles para Google Chrome: Regla, Descargar Documentos, Bloquear Publicidad, Colores, Contraseñas, Etc

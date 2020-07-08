@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: '🥇 ▷ La Historia de los Ordenadores'
 description: 'Los acontecimientos tecnológicos más importantes del Siglo XX. La computación, la telefonía, y las ciencias electrónicas'
 excerpt: 'Cronograma o Línea de Tiempo de la Historia de la Computación'

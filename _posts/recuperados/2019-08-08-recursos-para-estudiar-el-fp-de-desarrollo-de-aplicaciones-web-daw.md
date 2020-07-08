@@ -5,6 +5,7 @@ title: >
     Web. DAW
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-27 07:01:53
 tags: [ ]

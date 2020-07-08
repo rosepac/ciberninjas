@@ -3,6 +3,7 @@ layout: post
 title: React Native con Mario Díez
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-06-23 07:06:35
 tags:

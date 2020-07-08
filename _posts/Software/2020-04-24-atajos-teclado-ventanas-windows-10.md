@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -9,7 +10,7 @@ tags:
 categories:
 - Software
 thumbnail: /assets/img/blog/tecla-windows.webp
-thumbnail2: /assets/img/blog/tecla-windows.webp
+feature-img: /assets/img/blog/tecla-windows.webp
 title: '💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas de Windows'
 description: >-
   Cambia de forma ágil de ventana a ventana y entre diferentes pantallas de Windows 10.

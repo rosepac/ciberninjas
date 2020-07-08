@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F469‍\U0001F3EB Curso de Desarrollo Web con Spring Boot gracias a Byte Code"
 description: >-
   ▷ Aprender desarrollo web con el Framework Spring, Spring Boot ✌️ Con este curso impartido por Byte Code ⭐️

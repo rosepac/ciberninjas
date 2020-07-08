@@ -5,6 +5,7 @@ title: >
     compatible con las aplicaciones de Android
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-06 06:01:38
 tags:

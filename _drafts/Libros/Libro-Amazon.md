@@ -16,21 +16,18 @@ comments: false
 date: 2019-09-14 09:34:54
 permalink: /catalogo/
 canonical_URL: https://ciberninjas.com/
-header:
-feature-img: 
-  image_description: "TITULO en Español: Los mejores libros de seguridad informática y ciberseguridad | Ciberninjas"
-  overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **LeanPub**"
-  actions:
-    - label: "+ SEGURIDAD INFORMÁTICA"
-      url: "/categoria/#seguridad-inform%C3%A1tica"
-    - label: "🛒 COMPRAR"
-      url: "ENLACE-AMAZON"
+feature-img:
+actions:
+  - label: "+ SEGURIDAD INFORMÁTICA"
+    url: "/categoria/#seguridad-inform%C3%A1tica"
+  - label: "🛒 COMPRAR"
+    url: "ENLACE-AMAZON"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-author_profile: false
+author: rosepac
+bootstrap: true
 # IMAGEN DE TAMAÑO REDUCIDO X250 DE ANCHO MÁXIMO
 sidebar:
   - title: "Autor"

@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "▷ Los Mejores Ratones y Teclados para Diseñar y Jugar 🖱"
 description: "⌨ Las mejores ofertas de Ratones y Teclados para Diseñar y Jugar."
 excerpt: "⌨ Las mejores ofertas de Ratones y Teclados para Diseñar y Jugar."

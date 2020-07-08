@@ -1,13 +1,14 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Frederic Mistral
 categories:
 - Citas Célebres
 thumbnail: /assets/img/blog/frederic-mistral.webp
-thumbnail2: /assets/img/blog/frederic-mistral.webp
+feature-img: /assets/img/blog/frederic-mistral.webp
 title: '📢 ▷ Las Mejores Frases de Frederic Mistall'
 description: >-
   Citas célebres del escritor francés Frederic Mistral.

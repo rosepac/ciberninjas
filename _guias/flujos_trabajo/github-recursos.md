@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "🥇 ▷ Aprender Git y Github desde cero"
 description: "Los mejores enlaces sobre el software de control de versiones Git, Github, integración continua y despliegue continuo."
 excerpt: "Los mejores enlaces sobre Git, Github, integración continua y despliegue continuo."
@@ -8,8 +9,8 @@ last_modified_at: 2019-12-22 01:10:00 +0200
 permalink: /github-git-recursos/
 canonical_URL: https://ciberninjas.com/github-git-recursos/
 published: true
-thumbnail: /assets/images/blog/2020-git-github.webp
-feature-img: /assets/images/blog/2020-git-github.webp
+thumbnail: /assets/img/blog/2020-git-github.webp
+feature-img: /assets/img/blog/2020-git-github.webp
 toc: false
 toc_label: Contenidos
 toc_icon: user-ninja
@@ -68,4 +69,4 @@ Igualmente, vas a poder encontrar enlaces sobre los mejores sistemas de integrac
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Los mejores artículos y enlaces sobre Git, Github, integración continua y más: Visto en Ciberninjas](/assets/images/blog/2020-git-github.webp "Los mejores artículos y enlaces sobre Git, Github, integración continua y más: Visto en Ciberninjas")
+![Los mejores artículos y enlaces sobre Git, Github, integración continua y más: Visto en Ciberninjas](/assets/img/blog/2020-git-github.webp "Los mejores artículos y enlaces sobre Git, Github, integración continua y más: Visto en Ciberninjas")

@@ -14,15 +14,6 @@ tags:
   - Dart
 thumbnail: /assets/img/blog/curso-inicio-flutter-dart.webp
 feature-img: /assets/img/blog/curso-inicio-flutter-dart.webp
-#feature-img: /assets/img/
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 A medida que atravesamos juntos por la crisis global actual, sabemos que muchas personas desean **iniciarse en el desarrollo de nuevas habilidades**. Desde el equipo de desarrollo de Flutter, queremos aportar nuestro pequeño granito de arena.

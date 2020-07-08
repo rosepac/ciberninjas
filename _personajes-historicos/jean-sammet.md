@@ -8,14 +8,14 @@ published: true
 permalink: /personajes-historicos/jean-sammet/
 canonical_URL: https://computerhistory.org/profile/jean-sammet/
 
-thumbnail: /assets/images/personajes-historicos/2001_jean_sammet.webp
+thumbnail: /assets/img/personajes-historicos/2001_jean_sammet.webp
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia
 
 ---
 
- <img src="/assets/images/personajes-historicos/2001_jean_sammet.webp" width="200px" high="250px" alt="Jean Sammet" title="Jean Sammet">
+ <img src="/assets/img/personajes-historicos/2001_jean_sammet.webp" width="200px" high="250px" alt="Jean Sammet" title="Jean Sammet">
 
 ## **Biografía de Jean Sammet**
 

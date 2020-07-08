@@ -3,6 +3,7 @@ layout: post
 title: 'Truco: El más fácil uso de los emojis que jamás te han contado; decora tus comentarios, publicaciones o mensajes'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-12-19 09:12:20
 tags:

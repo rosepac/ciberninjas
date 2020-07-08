@@ -4,6 +4,7 @@ description: 'La historia y breve explicación del funcionamiento del servicio q
 excerpt: 'La historia y breve explicación del funcionamiento del servicio que ofrecen los contenedores de Kubernetes.'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-01-02 12:06:18
 last_modified_at: 

@@ -1,13 +1,14 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Historia Robótica
 categories:
 - Robótica
 thumbnail: /assets/img/blog/rur-robot_perviy.webp
-thumbnail2: /assets/img/blog/rur-robot_perviy.webp
+feature-img: /assets/img/blog/rur-robot_perviy.webp
 title: '🤖 ▷ Cuándo y dónde aparece por primera vez la palabra robots'
 description: >-
   Conocer dónde y cuándo aparece por primera vez la denominación de robots

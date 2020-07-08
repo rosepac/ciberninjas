@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Sobre Política"
 description: 'Política, influencias y abridores de mente.'
 excerpt: 'Política, influencias y abridores de mente.'

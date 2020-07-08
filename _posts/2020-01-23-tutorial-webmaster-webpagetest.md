@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "▷ Herramienta para Webmaster: Utilizar WebPageTest"
 description: "Webpagetest es una de las herramientas más populares y gratuitas para medir el rendimiento de la página web."
 excerpt: "Webpagetest es una de las herramientas más populares y gratuitas para medir el rendimiento de la página web."
@@ -8,7 +9,7 @@ comments: false
 date: 2020-01-28 17:10:12
 last_modified_at: 
 thumbnail: https://i.ibb.co/Bq4mpn4/image.png
-thumbnail2: https://i.ibb.co/Bq4mpn4/image.png
+feature-img: https://i.ibb.co/Bq4mpn4/image.png
 canonical_URL: /tutorial-webmaster-webpagetest/
 categories:
 - Tutorial Webmaster

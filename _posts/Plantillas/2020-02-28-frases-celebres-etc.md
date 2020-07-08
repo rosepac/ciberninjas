@@ -10,6 +10,7 @@ date: 2020-02-28 14:10:32
 last_modified_at: 
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -17,7 +18,7 @@ tags:
 categories:
 - Citas Célebres
 thumbnail: /assets/img/blog/
-thumbnail2: /assets/img/blog/
+feature-img: /assets/img/blog/
 ---
 
 ![](/assets/img/ "")

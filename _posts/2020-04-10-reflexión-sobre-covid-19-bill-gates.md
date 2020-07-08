@@ -15,14 +15,6 @@ tags:
   - Bill Gates
 thumbnail: /assets/img/blog/virus-bill-gates.webp
 feature-img: /assets/img/blog/virus-bill-gates.webp
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 No hay duda de que Estados Unidos perdió la oportunidad de adelantarse al nuevo coronavirus. Pero la ventana para tomar decisiones importantes no se ha cerrado. Las elecciones que hagamos nosotros y nuestros líderes ahora tendrán un enorme impacto en qué tan pronto comienzan a bajar los números de casos, cuánto tiempo la economía permanece cerrada y cuántos estadounidenses tendrán que enterrar a un ser querido debido a COVID-19.

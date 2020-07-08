@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -10,7 +11,7 @@ tags:
 categories:
 - Librerías
 thumbnail: /assets/img/blog/avatar-pose-imagen.webp
-thumbnail2: /assets/img/blog/avatar-pose-imagen.webp
+feature-img: /assets/img/blog/avatar-pose-imagen.webp
 title: 'Pose Animator: Una herramienta de animación SVG en tiempo real que utiliza modelos TensorFlow.js'
 description: >-
   Pose Animator toma una ilustración vectorial 2D y anima sus curvas que contienen en tiempo real en función del resultado de reconocimiento de PoseNet y FaceMesh. Toma prestada la idea de la animación basada en esqueletos de los gráficos de computadora y la aplica a los caracteres vectoriales.

@@ -1,6 +1,7 @@
 ---
 title: "👩‍💻 Gitpod: Editor de Código Online, ¡Vamos a Programar Desde el Navegador!"
 author: rosepac
+bootstrap: true
 description: '👩‍💻 Gitpod: Editor de Código Online, ¡Vamos a Programar Desde el Navegador!'
 excerpt: '👩‍💻 Gitpod: Editor de Código Online, ¡Vamos a Programar Desde el Navegador!'
 published: false
@@ -16,7 +17,7 @@ tags:
 - Programar
 - Código
 thumbnail: "/assets/img/gitpod-typefox.jpg"
-thumbnail2: "/assets/img/gitpod-typefox.jpg"
+feature-img: "/assets/img/gitpod-typefox.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

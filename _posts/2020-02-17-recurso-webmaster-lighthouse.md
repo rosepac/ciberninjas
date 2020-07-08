@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: '▷ Lighthouse: Herramienta de auditoría de aplicaciones web de Google'
 description: "Qué hay de nuevo en la versión beta 5.2 del lenguaje de programación Swift"
 excerpt: "Qué hay de nuevo en la versión beta 5.2 del lenguaje de programación Swift"
@@ -9,7 +10,7 @@ comments: false
 date: 2020-02-13 15:10:12
 last_modified_at: 
 thumbnail: /assets/img/blog/webmaster-herramientas-lighthouse.webp
-thumbnail2: /assets/img/blog/webmaster-herramientas-lighthouse.webp
+feature-img: /assets/img/blog/webmaster-herramientas-lighthouse.webp
 permalink: /recurso-webmaster-lighthouse/
 canonical_URL: https://ciberninjas.com/recurso-webmaster-lighthouse/
 categories:

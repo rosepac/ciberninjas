@@ -8,14 +8,14 @@ published: true
 permalink: /personajes-historicos/sophie-wilson/
 canonical_URL: https://computerhistory.org/profile/sophie-wilson/
 
-thumbnail: /assets/images/personajes-historicos/2012_sophie_wilson.webp
+thumbnail: /assets/img/personajes-historicos/2012_sophie_wilson.webp
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia
 
 ---
 
- <img src="/assets/images/personajes-historicos/2012_sophie_wilson.webp" width="200px" high="250px" alt="Sophie Wilson" title="Sophie Wilson">
+ <img src="/assets/img/personajes-historicos/2012_sophie_wilson.webp" width="200px" high="250px" alt="Sophie Wilson" title="Sophie Wilson">
 
 ## **Biografía de Sophie Wilson**
 

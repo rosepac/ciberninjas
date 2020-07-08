@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎮 Cyberpunk 2077, el Juego de Acción y Aventura de Mundo Abierto"
 description: "🎮 Cyberpunk 2077, el Juego de Acción y Aventura de Mundo Abierto"
 excerpt: "🎮 Cyberpunk 2077, el Juego de Acción y Aventura de Mundo Abierto"

@@ -6,13 +6,14 @@ description: 'Los mejores libros, recursos y herramientas para aprender programa
 excerpt: 'Los mejores libros, recursos y herramientas para aprender programación y diseño gráfico desde cero hasta nivel experto'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-03-18
 permalink: /aprender/
 canonical_URL: https://ciberninjas.com/aprender/
-thumbnail: /assets/images/portada/2020-02-cursos-free-programming-2.webp
+thumbnail: /assets/img/portada/2020-02-cursos-free-programming-2.webp
   overlay_filter: "0.2"
-feature-img: /assets/images/portada/2020-02-cursos-free-programming-2.webp
+feature-img: /assets/img/portada/2020-02-cursos-free-programming-2.webp
 #  actions:
 #    - label: "🎓 Cursos"
 #      url: "/cursos-tecnologia/"
@@ -285,7 +286,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
     <div class="feature__item--left">
         <div class="archive__item">
             <div class="archive__item-teaser">
-                <a href="/diseño-web/" title="Cómo aprender desde cero a ser el mejor desarrollador web del mundo y los recursos necesarios para desarrolladores web"><img src="/assets/images/portada/centrate-focus-animation.webp" alt="Cómo aprender desde cero a ser el mejor desarrollador web del mundo y los recursos necesarios para desarrolladores web"></a>
+                <a href="/diseño-web/" title="Cómo aprender desde cero a ser el mejor desarrollador web del mundo y los recursos necesarios para desarrolladores web"><img src="/assets/img/portada/centrate-focus-animation.webp" alt="Cómo aprender desde cero a ser el mejor desarrollador web del mundo y los recursos necesarios para desarrolladores web"></a>
             </div>
             <div class="archive__item-body">
                 <h2 class="archive__item-title">El sitio perfecto para desarrolladores web</h2>
@@ -306,7 +307,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/programar/" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web"><img src="/assets/images/portada/programador-cool-frente-1250.webp" alt="Aprende a programar y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
+            <a href="/programar/" title="Cómo aprender a programar desde cero para principiantes y recursos para programadores y desarrolladores web"><img src="/assets/img/portada/programador-cool-frente-1250.webp" alt="Aprende a programar y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">A programar desde cero, mis Ciberninjas</h2>
@@ -345,7 +346,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/diseño-grafico-recursos/" title="Recursos para diseñadores gráficos"><img src="/assets/images/portada/colores-paleta.webp" alt="Recursos para diseñadores gráficos, diseñador enloquecido buscando su inspiración"></a>
+            <a href="/diseño-grafico-recursos/" title="Recursos para diseñadores gráficos"><img src="/assets/img/portada/colores-paleta.webp" alt="Recursos para diseñadores gráficos, diseñador enloquecido buscando su inspiración"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Recursos Perfectos para Diseñadores Gráficos</h2>
@@ -366,7 +367,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/catalogo/" title="El Catálogo de la Librería de Ciberninjas"><img src="/assets/images/portada/libros-apilados.webp" alt="Los mejores libros de programación, desarrollo web y tecnología del mundo"></a>
+            <a href="/catalogo/" title="El Catálogo de la Librería de Ciberninjas"><img src="/assets/img/portada/libros-apilados.webp" alt="Los mejores libros de programación, desarrollo web y tecnología del mundo"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Catálogo de la Librería Ciberninjas</h2>
@@ -387,7 +388,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/amazon/" title="El Regalazo de Navidad para Geeks"><img src="/assets/images/portada/regalo-pequeno-disfrutando.webp" alt="Me encanta y amo este pedazo de regalo"></a>
+            <a href="/amazon/" title="El Regalazo de Navidad para Geeks"><img src="/assets/img/portada/regalo-pequeno-disfrutando.webp" alt="Me encanta y amo este pedazo de regalo"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Regalazos Navideños para Geeks</h2>
@@ -404,7 +405,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/amazon/" title="El Regalazo de Navidad para Geeks"><img src="/assets/images/portada/regalo-pequeno-disfrutando.webp" alt="Me encanta y amo este pedazo de regalo"></a>
+            <a href="/amazon/" title="El Regalazo de Navidad para Geeks"><img src="/assets/img/portada/regalo-pequeno-disfrutando.webp" alt="Me encanta y amo este pedazo de regalo"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Regalazos Navideños para Geeks</h2>
@@ -421,7 +422,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/cursos-educacion/" title="Conoce las mejores herramientas, software y recursos para profesores, docentes y estudiantes"><img src="/assets/images/portada/school-3-kit8-net.webp" alt="Conoce las mejores herramientas, software y recursos para profesores, docentes y estudiantes"></a>
+            <a href="/cursos-educacion/" title="Conoce las mejores herramientas, software y recursos para profesores, docentes y estudiantes"><img src="/assets/img/portada/school-3-kit8-net.webp" alt="Conoce las mejores herramientas, software y recursos para profesores, docentes y estudiantes"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Recursos para estudiantes y profesores / docentes</h2>
@@ -438,7 +439,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/directo/" title="Noticias en Directo"><img src="/assets/images/portada/ultima-hora-rojo.webp" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
+            <a href="/directo/" title="Noticias en Directo"><img src="/assets/img/portada/ultima-hora-rojo.webp" alt="Noticias de programación en directo, encuentra todo lo que necesitas saber sobre la tecnología"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Noticias Tecnológicas en Directo</h2>
@@ -455,7 +456,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/historia-computadora/" title="Aprendiendo con Ciberninjas la Historia de la Computación Informática y los Personajes más importantes de la misma"><img src="/assets/images/portada/creando-codigo-antiguo.webp" alt="Aprendiendo con Ciberninjas la Historia de la Computación Informática y los Personajes más importantes de la misma"></a>
+            <a href="/historia-computadora/" title="Aprendiendo con Ciberninjas la Historia de la Computación Informática y los Personajes más importantes de la misma"><img src="/assets/img/portada/creando-codigo-antiguo.webp" alt="Aprendiendo con Ciberninjas la Historia de la Computación Informática y los Personajes más importantes de la misma"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Historia y Personajes de la Computación</h2>
@@ -472,7 +473,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/eff/" title="Entra y lee todos los artículos de la Fundación Frontera Electrónica en Español"><img src="/assets/images/portada/peligro-candado.webp" alt="Guías de seguridad y ciberseguridad creadas por la Fundación en Defensa de Internet, Fundación Frontera Electrónica"></a>
+            <a href="/eff/" title="Entra y lee todos los artículos de la Fundación Frontera Electrónica en Español"><img src="/assets/img/portada/peligro-candado.webp" alt="Guías de seguridad y ciberseguridad creadas por la Fundación en Defensa de Internet, Fundación Frontera Electrónica"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Ciberseguridad y Privacidad en Internet</h2>
@@ -490,7 +491,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/rosepac/" title="Mi Reflexión Personal de Ciberninjas"><img src="/assets/images/portada/relax-animacion.webp" alt="Enlaces personales, sobre lecturas, información, política, opinión, critica, aficiones y otros gustos personales"></a>
+            <a href="/rosepac/" title="Mi Reflexión Personal de Ciberninjas"><img src="/assets/img/portada/relax-animacion.webp" alt="Enlaces personales, sobre lecturas, información, política, opinión, critica, aficiones y otros gustos personales"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Mi Amaca Personal</h2>
@@ -507,7 +508,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/images/portada/baby-yoda-guiño.webp" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
+            <a href="/que-es-ciberninjas/" title="Qué es Ciberninjas"><img src="/assets/img/portada/baby-yoda-guiño.webp" alt="Conociendo que es Ciberninjas, el porque y para que ha sido creado"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Conócenos</h2>
@@ -536,7 +537,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
         </div>
     </div>
     </div>
-<!-- /assets/images/logos/ciberninjas-emoji-160-110px.png - https://i.ibb.co/kDrKP82/hola-mundo-ciberninjas.jpg -->
+<!-- /assets/img/logos/ciberninjas-emoji-160-110px.png - https://i.ibb.co/kDrKP82/hola-mundo-ciberninjas.jpg -->
 
 Esta página es una sencilla introducción al aprendizaje de la tecnología que desees, paso a paso, desde aquí podrás adquirir todos los conocimientos que desees. Aprender, ¿Qué hermoso verbo verdad? Si deseas con todas tus ganas **aprender todo lo necesario** para ser un autentico **ciberninja**.
 

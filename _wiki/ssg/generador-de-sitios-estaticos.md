@@ -11,6 +11,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: true
 author: rosepac
+bootstrap: true
 permalink: /wiki/generador-de-sitios-estaticos/
 
 ---

@@ -7,7 +7,8 @@ permalink: /profesiones-digitales-mapa-herramientas-profesiones/
 canonical_URL: https://ciberninjas.com/profesiones-digitales-mapa-herramientas-profesiones/
 date: 2020-02-12
 published: true
-author_profile: false
+author: rosepac
+bootstrap: true
 ---
 <br />
 # Mapa de Habilidades Requeridas para Trabajar en cada Profesión Digital

@@ -4,6 +4,7 @@ description: '👨‍🎨 Las mejores librerías Js que podrás aprovechar para 
 excerpt: '👨‍🎨 Las mejores librerías Js que podrás aprovechar para dar el mejor aspecto a todos tus proyectos volviéndolos mucho más espectaculares.' 
 published: true
 author: rosepac
+bootstrap: true
 author: true
 comments: false
 date: 2019-01-27 07:01:02

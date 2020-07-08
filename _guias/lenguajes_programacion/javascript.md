@@ -3,12 +3,13 @@ title: ▷ Cómo Aprender Javascript en 2020 👨‍🚀
 description: Cómo Aprender Javascript desde cero a profesional en 2020, todo lo necesario para ayudarte a convertirte en un profesional
 excerpt: Cómo Aprender Javascript desde cero a profesional en 2020, todo lo necesario para ayudarte a convertirte en un profesional
 published: true
-thumbnail: /assets/images/paginas/javascript-logo-maxima-resolucion.webp
-feature-img: /assets/images/paginas/javascript-logo-maxima-resolucion.webp
+thumbnail: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
+feature-img: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
 actions:
   - label: "Recursos Javascript"
     url: "/javascript-recursos/"
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-02-28 12:00:03
 last_modified_at: 

@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "📖 Los mejores libros de la última década del Siglo XXI"
 description: 'Los libros recomendados por Obama en 2019. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
 excerpt: 'Los libros recomendados por Obama en 2019. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'

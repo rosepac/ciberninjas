@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🔐 Web Hacking 101: Cómo hacer Dinero Hackeando Éticamente"
 comments: false
 date: 2019-08-12 09:34:54

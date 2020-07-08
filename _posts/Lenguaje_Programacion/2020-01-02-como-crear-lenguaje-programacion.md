@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "👨‍💻 Cómo crear un lenguaje de programación desde cero"
 description: "Manual y Consejos de para crear un lenguaje de programación por completo"
 excerpt: "Manual y Consejos de para crear un lenguaje de programación por completo"

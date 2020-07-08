@@ -13,15 +13,6 @@ tags:
   - Coursera
 thumbnail: /assets/img/blog/coursera-2.webp
 feature-img: /assets/img/blog/coursera-2.webp
-#feature-img: /assets/img/
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 El proveedor de cursos a distancia (MOOC) más grande del mundo, Coursera, ofrece nuevos cursos en español y en abierto, para poder realizarlos sin la necesidad de pago.

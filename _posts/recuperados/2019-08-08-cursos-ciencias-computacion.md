@@ -3,6 +3,7 @@ layout: post
 title: Cursos de Ciencias de la Computación en Español
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-12-01 10:12:34
 tags:

@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "John Backus"
 description: 'John Backus, por su desarrollo de FORTRAN, y por sus contribuciones a la teoría de sistemas informáticos y la gestión de proyectos de software.'
 excerpt: 'John Backus, por su desarrollo de FORTRAN, y por sus contribuciones a la teoría de sistemas informáticos y la gestión de proyectos de software.'

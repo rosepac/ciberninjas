@@ -7,6 +7,7 @@ published: true
 date: 2019-10-24
 last_modified_at: 2020-01-23
 author: rosepac
+bootstrap: true
 ---
 
 [👈 Regresar al Glosario Tecnológico](/glosario){: .btn .btn--inverse .btn--large .align-center}

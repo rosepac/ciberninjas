@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎥 Billions - Trailer Serie Interesante Relacionada con los Negocios y las Finanzas"
 description: "🎥 Billions - Trailer Serie Interesante Relacionada con los Negocios y las Finanzas"
 excerpt: "🎥 Billions - Trailer Serie Interesante Relacionada con los Negocios y las Finanzas"

@@ -14,14 +14,6 @@ tags:
   - Bill Gates
 thumbnail: /assets/img/blog/nueva-energia-nuclear.webp
 feature-img: /assets/img/blog/nueva-energia-nuclear.webp
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 En algún momento de 2021, si todo va según lo planeado, el equipo de movimiento de tierras llegará a un lugar azotado y desaliñado por el viento en el Este de Idaho y comenzará a excavar un gran agujero.

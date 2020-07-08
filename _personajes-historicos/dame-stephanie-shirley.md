@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Dame Stephanie Shirley"
 description: 'Dame Stephanie Shirley, por toda una vida de emprendimiento promoviendo el crecimiento de la industria del software y el avance de las mujeres en la informática.'
 excerpt: 'Dame Stephanie Shirley, por toda una vida de emprendimiento promoviendo el crecimiento de la industria del software y el avance de las mujeres en la informática.'

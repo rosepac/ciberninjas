@@ -4,6 +4,7 @@ description: '⛅ Los Mejores Recursos para Manejar las Aplicaciones en Nube'
 excerpt: '⛅ Los Mejores Recursos para Manejar las Aplicaciones en Nube'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-01-02 12:06:18
 last_modified_at: 

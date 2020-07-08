@@ -6,6 +6,7 @@ excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Cibe
 date: 2020-01-15 01:55:07
 published: true
 author: rosepac
+bootstrap: true
 permalink: /wiki/dlinject/
 canonical_URL: https://ciberninjas.com/wiki/dlinject/
 

@@ -6,6 +6,7 @@ excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Cibe
 date: 2019-10-04 04:51:07
 published: true
 author: rosepac
+bootstrap: true
 permalink: /wiki/antena-ciborg/
 canonical_URL: https://ciberninjas.com/wiki/antena-ciborg/
 

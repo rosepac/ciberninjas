@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: '▷ Angular 9: Nueva versión del Framework Javascript'
 description: "Novedades de la nueva versión del framework Angular"
 excerpt: "Novedades de la nueva versión del framework Angular"
@@ -9,7 +10,7 @@ comments: false
 date: 2020-02-07 12:15:12
 last_modified_at: 
 thumbnail: /assets/img/frameworks-multiplataforma/angular-framework.jpg
-thumbnail2: /assets/img/frameworks-multiplataforma/angular-framework.jpg
+feature-img: /assets/img/frameworks-multiplataforma/angular-framework.jpg
 permalink: /angular-version-9-liberado/
 canonical_URL: https://ciberninjas.com/angular-version-9-liberado/
 categories:

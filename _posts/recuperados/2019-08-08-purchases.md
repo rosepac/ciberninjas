@@ -3,6 +3,7 @@ layout: post
 title: Purchases
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-06-09 05:06:53
 tags: [ ]

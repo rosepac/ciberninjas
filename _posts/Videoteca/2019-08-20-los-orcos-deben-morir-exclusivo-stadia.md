@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎮 Los Orcos Deben Morir 3, Nuevo Juego Exclusivo en Stadia Temporalmente"
 description: "🎮 Los Orcos Deben Morir 3, Nuevo Juego Exclusivo en Stadia Temporalmente"
 excerpt: "🎮 Los Orcos Deben Morir 3, Nuevo Juego Exclusivo en Stadia Temporalmente"

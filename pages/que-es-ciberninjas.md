@@ -6,7 +6,7 @@ description: "Ciberninjas es la escuela de formación digital que fomenta el apr
 excerpt: "Ciberninjas es la escuela de formación digital que fomenta el aprendizaje autodidacta de las profesiones digitales de las nuevas tecnologías como el desarrollo web y el diseño gráfico."
 last_modified_at: 2019-10-04T20:40:42-05:00
 # image: 
-#   path: &image /assets/images/imac-glitch-feature.jpg
+#   path: &image /assets/img/imac-glitch-feature.jpg
 #   width: 1024
 #   height: 512
 #   feature: *image
@@ -17,13 +17,7 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 author: rosepac
-# sidebar:
-# - title: "Menú Principal"
-#   nav: general
-# header:
-#   image: "/assets/images/final_sdk_varios.jpg"
-#   image_description: "Los Mejores SDK Multiplaforma que existen para el año 2020 \ Visto en Ciberninjas"
-#   caption: "**Créditos**: Montaje Propio. Cada logotipo es propiedad de su correspondiente empresa."
+bootstrap: true
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

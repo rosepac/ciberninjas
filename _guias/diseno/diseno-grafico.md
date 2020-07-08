@@ -4,6 +4,7 @@ description: '👩‍🎨 ▷ Conoce paso a paso; todo lo que un diseñador, ani
 excerpt: '👩‍🎨 ▷ Conoce paso a paso; todo lo que un diseñador, animador, dibujante o desarrollador gráfico necesita para convertirse en un profesional'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-03-21
 last_modified_at: 

@@ -3,6 +3,7 @@ layout: post
 title: Cursos de Servidores y Servicios en la Nube
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-02-07 02:02:18
 tags:

@@ -5,6 +5,7 @@ title: >
     gobiernos?
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-02-02 05:02:54
 tags:

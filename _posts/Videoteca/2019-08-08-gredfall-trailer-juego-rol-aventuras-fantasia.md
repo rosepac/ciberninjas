@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎮 GreedFall, trailer del nuevo juego de acción y aventuras"
 description: "🎮 GreedFall, trailer del nuevo juego de acción y aventuras"
 excerpt: "🎮 GreedFall, trailer del nuevo juego de acción y aventuras"

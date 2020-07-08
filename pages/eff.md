@@ -14,15 +14,13 @@ toc_sticky: true
 sort_by: title
 sort_order: reverse
 author: rosepac
+bootstrap: true
 entries_layout: grid
 # sidebar:
 # - title: "Menú Principal"
 #   nav: general
 thumbnail: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
 feature-img: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
-  image_description: Logotipo de la Electronic Frontier Foundation \ Visto en Ciberninjas
-  caption: "**Créditos**: Logotipo de la EFF \ Creative Commons 3.0"
-
 ---
 
 La EFF es la principal organización sin fines de lucro que defiende la privacidad digital, la libertad de expresión y la innovación.

@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -7,7 +8,7 @@ tags:
 categories:
 - Aprendizaje Automático
 thumbnail: /assets/img/frameworks-ai/tensorflow-ciberninjas.png
-thumbnail2: /assets/img/frameworks-ai/tensorflow-ciberninjas.png
+feature-img: /assets/img/frameworks-ai/tensorflow-ciberninjas.png
 title: '🤖 ▷ '
 description: >-
   ''

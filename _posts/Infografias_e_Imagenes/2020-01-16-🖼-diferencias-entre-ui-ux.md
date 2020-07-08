@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario"
 description: "\U0001F3A8 Nube de palabras representativa de las diferentes entre User Experience e User Interface"
 excerpt: "\U0001F3A8 Nube de palabras representativa de las diferentes entre User Experience e User Interface"
@@ -12,12 +13,9 @@ categories:
   - Imagen Diseño Web
 thumbnail: https://i.ibb.co/db35Fw6/ui-ux-propiedades.jpg
 feature-img: https://i.ibb.co/db35Fw6/ui-ux-propiedades.jpg
-  image_description: "Infografía asociativa de los colores respecto a sus sentimientos y temáticas más reflejadas respecto a la visión social; blanco, gris, fucsia, negro, morado, marrón, azul, naranja, verde, rojo | Visto en Ciberninjas"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Ten Tu Logo**"
-  actions:
-    - label: "📸 VER ÁLBUM"
-      url: "https://ibb.co/album/deUOov"
+actions:
+  - label: "📸 VER ÁLBUM"
+    url: "https://ibb.co/album/deUOov"
 sidebar:
   - title: "👨‍🎨 Infografías"
     nav: infog

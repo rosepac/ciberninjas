@@ -4,13 +4,14 @@ title: "📚 ▷ Más de 1.500 Libros PDF en Inglés de Desarrollo Web, Programa
 description: "🚀 Biblioteca de libros PDF Online en Inglés, con los que aprender Desarrollo Web, Seguridad, Robótica, Redes, Criptomonedas, Domótica, & Más ¡💥 100% GRATIS 💥!"
 excerpt: "🚀 Biblioteca de libros PDF Online en Inglés, con los que aprender Desarrollo Web, Seguridad, Robótica, Redes, Criptomonedas, Domótica, & Más ¡💥 100% GRATIS 💥!"
 author: rosepac
+bootstrap: true
 date: 2019-12-27T14:40:00.000+00:00
 last_modified_at: 2020-01-10T10:42:42-05:00
 permalink: /biblioteca-de-programacion-y-tecnologia-ingles/
 canonical_URL: https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia-ingles/
 published: true
 # image: 
-#   path: &image /assets/images/imac-glitch-feature.jpg
+#   path: &image /assets/img/imac-glitch-feature.jpg
 #   width: 1024
 #   height: 512
 #   feature: *image

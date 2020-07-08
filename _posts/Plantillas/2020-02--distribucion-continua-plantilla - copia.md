@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -7,7 +8,7 @@ tags:
 categories:
 - Distribución Continua
 thumbnail: /assets/img/blog/
-thumbnail2: /assets/img/blog/
+feature-img: /assets/img/blog/
 title: '🚀 ▷ '
 description: >-
   ''

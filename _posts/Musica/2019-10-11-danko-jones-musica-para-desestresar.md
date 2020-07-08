@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎧 Danko Jones. El Mejor Rock Roll Star Vivo"
 description: "🎧 Danko Jones. El Mejor Rock Roll Star Vivo"
 excerpt: "🎧 Danko Jones. El Mejor Rock Roll Star Vivo  "

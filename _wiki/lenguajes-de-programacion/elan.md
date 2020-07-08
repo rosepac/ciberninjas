@@ -6,6 +6,7 @@ excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Cibe
 date: 2019-09-11 09:07:07
 published: true
 author: rosepac
+bootstrap: true
 permalink: /wiki/elan/
 canonical_URL: https://ciberninjas.com/wiki/elan/
 

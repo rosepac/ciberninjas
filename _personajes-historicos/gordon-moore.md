@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Gordon Moore"
 description: 'Gordon Moore, por su trabajo inicial fundamental en el diseño y producción de dispositivos semiconductores como cofundador de Fairchild e Intel.'
 excerpt: 'Gordon Moore, por su trabajo inicial fundamental en el diseño y producción de dispositivos semiconductores como cofundador de Fairchild e Intel.'

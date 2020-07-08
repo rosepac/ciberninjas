@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Gene Myron Amdahl"
 description: 'Gene Myron Amdahl, por su trabajo fundamental en arquitectura y diseño de computadoras, gestión de proyectos y liderazgo.'
 excerpt: 'Gene Myron Amdahl, por su trabajo fundamental en arquitectura y diseño de computadoras, gestión de proyectos y liderazgo.'

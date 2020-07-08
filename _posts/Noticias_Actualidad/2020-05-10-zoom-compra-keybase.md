@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -9,7 +10,7 @@ tags:
 categories:
 - Startups
 thumbnail: /assets/img/blog/zoom-keybase.webp
-thumbnail2: /assets/img/blog/zoom-keybase.webp
+feature-img: /assets/img/blog/zoom-keybase.webp
 title: '🥇 ▷ Zoom adquiere Keybase y anuncia el objetivo de desarrollar la oferta de cifrado de extremo a extremo empresarial más utilizada'
 description: >-
   Zoom anuncia la adquisición de Keybase y anuncia un plan para construir un cifrado de extremo a extremo que pueda alcanzar la escalabilidad actual de Zoom.

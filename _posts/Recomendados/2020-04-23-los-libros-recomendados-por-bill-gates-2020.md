@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "🥇 ▷ 5 Libros recomendados por Bill Gates, para El Día del Libro 2020"
 description: 'Los mejores libros para la primera mitad del año 2020 gracias a las recomendaciones del magnate Bill Gates: Informático y multi millonario, co creador de Windows'
 excerpt: 'Los mejores libros para la primera mitad del año 2020 gracias a las recomendaciones del magnate Bill Gates: Informático y multi millonario, co creador de Windows'

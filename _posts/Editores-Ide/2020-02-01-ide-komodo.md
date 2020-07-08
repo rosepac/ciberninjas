@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: '▷ Komodo IDE: Versión extensa gratis a partir de 2020'
 description: "Komodo IDE dejará de ser un editor de pago; IDE multilingüe para Python, PHP, JavaScript, HTML5, CSS, Node.js, Golang, Ruby, Perl y una variedad de otros lenguajes y frameworks"
 excerpt: "Komodo IDE dejará de ser un editor de pago; IDE multilingüe para Python, PHP, JavaScript, HTML5, CSS, Node.js, Golang, Ruby, Perl y una variedad de otros lenguajes y frameworks"
@@ -9,7 +10,7 @@ comments: false
 date: 2020-02-01 16:30:12
 last_modified_at: 
 thumbnail: /assets/img/blog/python-ide/komodo-ide.webp
-thumbnail2: /assets/img/blog/python-ide/komodo-ide.webp
+feature-img: /assets/img/blog/python-ide/komodo-ide.webp
 permalink: /ide-komodo-gratis/
 canonical_URL: https://ciberninjas.com/ide-komodo-gratis/
 categories:

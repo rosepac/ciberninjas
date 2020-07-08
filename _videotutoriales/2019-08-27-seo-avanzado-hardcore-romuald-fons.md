@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🏫 SEO Avanzado - Nivel Hardcore con Romuald Fons"
 description: "🚀 SEO Avanzado - Nivel Hardcore con Romuald Fons"
 excerpt: "🚀 SEO Avanzado - Nivel Hardcore con Romuald Fons"

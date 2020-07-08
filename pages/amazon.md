@@ -12,20 +12,12 @@ toc_icon: user-ninja
 toc_sticky: true
 sort_by: date
 sort_order: reverse
-author_profile: false
+author: rosepac
+bootstrap: true
 entries_layout: grid
-
 sidebar:
 - title: "Catálogo"
   nav: tienda
-# sidebar:
-# - title: "Menú Principal"
-#   nav: general
-# header:
-#   image: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
-#   image_description: Logotipo de la Electronic Frontier Foundation \ Visto en Ciberninjas
-#   caption: "**Créditos**: Logotipo de la EFF \ Creative Commons 3.0"
-
 ---
 
 

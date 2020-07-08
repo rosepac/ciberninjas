@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Jay W. Forrester"
 description: 'Jay W. Forrester, por su perfeccionamiento de la tecnología de memoria central en un práctico dispositivo de memoria de computadora y sus contribuciones fundamentales al diseño y desarrollo temprano de los sistemas informáticos.'
 excerpt: 'Jay W. Forrester, por su perfeccionamiento de la tecnología de memoria central en un práctico dispositivo de memoria de computadora y sus contribuciones fundamentales al diseño y desarrollo temprano de los sistemas informáticos.'

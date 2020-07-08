@@ -5,7 +5,8 @@ excerpt: "Regalos, Objetos y Curiosidades Interesantes para Geeks e incluso Grat
 date: 2019-09-22 11:11:05
 last_modified_at: 2020-01-08
 published: true
-author_profile: false
+author: rosepac
+bootstrap: true
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

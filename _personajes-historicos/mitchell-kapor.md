@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Mitckell Kapor"
 description: 'Mitckell Kapor, por su desarrollo de Lotus 1-2-3, una aplicación de software innovadora para la PC de IBM.'
 excerpt: 'Mitckell Kapor, por su desarrollo de Lotus 1-2-3, una aplicación de software innovadora para la PC de IBM.'

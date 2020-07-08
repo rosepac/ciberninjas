@@ -2,6 +2,7 @@
 title: Drupal
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-07-17 09:07:07
 permalink: /drupal/

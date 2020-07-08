@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: "▷ La apuesta de Open AI por PyTorch en vez de Tensorflow, es una pequeña batalla ganada de Facebook contra Google"
 description: >-
   🤖 Facebook vs. Google, Pytorch vs. Tensorflow, parece ser que la primera gran batalla es ganada por Facebook dentro del campo de la inteligencia artificial
@@ -11,7 +12,7 @@ comments: false
 date: 2020-02-06 15:30:12
 last_modified_at: 
 thumbnail: https://i.ibb.co/yPJKQXx/pytorch.png
-thumbnail2: https://i.ibb.co/yPJKQXx/pytorch.png
+feature-img: https://i.ibb.co/yPJKQXx/pytorch.png
 permalink: /pytorch-gana-a-tensorflow-openai/
 canonical_URL: https://ciberninjas.com/pytorch-gana-a-tensorflow-openai/
 tags:

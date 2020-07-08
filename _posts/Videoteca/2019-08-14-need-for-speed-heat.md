@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎮  Need for Speed™ Heat"
 description: "🎮  Need for Speed™ Heat"
 excerpt: "🎮  Need for Speed™ Heat"

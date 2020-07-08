@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -9,7 +10,7 @@ tags:
 categories:
 - Software
 thumbnail: /assets/img/blog/windows-portapapeles.webp
-thumbnail2: /assets/img/blog/windows-portapapeles.webp
+feature-img: /assets/img/blog/windows-portapapeles.webp
 title: '🥇 ▷ Deja de perder texto e imágenes de forma permanente con el portapapeles de Windows 10'
 description: >-
   Cambia de forma ágil de ventana a ventana y entre diferentes pantallas de Windows 10.

@@ -5,6 +5,7 @@ title: >
     hora de utilizarlo!
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-06 07:01:10
 tags:

@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🔐 El Libro Blanco del Hacker"
 comments: false
 date: 2019-08-17 11:27:55

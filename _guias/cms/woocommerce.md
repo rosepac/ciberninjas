@@ -7,8 +7,8 @@ last_modified_at: 2019-08-20T16:20:02-05:00
 
 permalink: /woocommerce/
 published: false
-thumbnail: "/assets/images/jekyll-blog.jpg"
-thumbnail2: "/assets/images/jekyll-blog.jpg"
+thumbnail: "/assets/img/jekyll-blog.jpg"
+feature-img: "/assets/img/jekyll-blog.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

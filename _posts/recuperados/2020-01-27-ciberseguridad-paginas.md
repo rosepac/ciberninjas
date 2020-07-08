@@ -4,6 +4,7 @@ description: 'Las mejores páginas web en español e inglés que existen sobre c
 excerpt: 'Las mejores páginas web en español e inglés que existen sobre ciberseguridad, seguridad digital, hacking ético y técnicas y metodologias hackers.'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-01-27 08:07:25
 tags:

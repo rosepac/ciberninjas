@@ -4,11 +4,6 @@ description: '😿 Siento que no haya sido de tu agrado.'
 excerpt: '😿 Siento que no haya sido de tu agrado.'
 date: 2019-10-08 12:00:56
 published: true
-# header:
-# feature-img: "/assets/images/F.jpg"
-#   overlay_filter: "0.2"
-#   image_description: "DS | Ciberninjas"
-#   caption: "**Créditos**: "
 permalink: /upsss/
 canonical_URL: https://ciberninjas.com/upsss/
 sidebar:
@@ -22,7 +17,7 @@ Quizás estés más interesado en comprar alguno de los libros que promocionamos
 **¡¡¡Mil Gracias & Mil Abrazos Por Tu Visita!!!**
 
 # <figure>
-#     <a href="/assets/images/Fx636.jpg" class="image-popup"><img src="/assets/images/F.jpg"></a>
+#     <a href="/assets/img/Fx636.jpg" class="image-popup"><img src="/assets/img/F.jpg"></a>
 #     <figcaption>DS | Ciberninjas</figcaption>
 # </figure>
 

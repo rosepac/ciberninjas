@@ -9,8 +9,8 @@ last_modified_at:
 permalink: /drupal/
 canonical_URL: https://ciberninjas.com/drupal/
 published: true
-thumbnail: "/assets/images/paginas/drupal.webp"
-feature-img: "/assets/images/paginas/drupal.webp"
+thumbnail: "/assets/img/paginas/drupal.webp"
+feature-img: "/assets/img/paginas/drupal.webp"
 ---
 
 Drupal es un gestor de contenidos, que va mucho más lejos de lo que es un CMS. Se podría llegar a denominar a Drupar como un marco de gestión de contenidos; puesto que permite ser utilizado para crear casi cualquier tipo de aplicación web que desees.

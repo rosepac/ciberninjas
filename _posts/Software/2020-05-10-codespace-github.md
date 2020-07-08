@@ -16,14 +16,6 @@ tags:
   - Visual Studio
 thumbnail: /assets/img/blog/10-codespace-editor-github.webp
 feature-img: **¿Cómo configurar los servicios de Windows?**
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 
 ---
 

@@ -9,7 +9,7 @@ published: false
 permalink: /documentacion-tecnologia-microsoft/
 canonical_URL: https://ciberninjas.com/documentacion-tecnologia-microsoft/
 # image: 
-#   path: &image /assets/images/imac-glitch-feature.jpg
+#   path: &image /assets/img/imac-glitch-feature.jpg
 #   width: 1024
 #   height: 512
 #   feature: *image

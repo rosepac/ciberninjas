@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🥇 Curso de React Native con Iván B. Trujillo"
 description: "👨‍💻 ▷ Aprender a crear aplicaciones 📲 con React Native ✌️ con Iván B. Trujillo. Conoce uno de los frameworks más importantes creador de apps móviles nativas ⭐️"
 excerpt: "👨‍💻 ▷ Aprender a crear aplicaciones 📲 con React Native ✌️ con Iván B. Trujillo. Conoce uno de los frameworks más importantes creador de apps móviles nativas ⭐️"

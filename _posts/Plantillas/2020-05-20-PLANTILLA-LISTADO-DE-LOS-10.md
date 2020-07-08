@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -8,7 +9,7 @@ tags:
 categories:
 - Sistemas Operativos
 thumbnail: /assets/img/blog/marzo-hacking-wallpaper-pc-so
-thumbnail2: /assets/img/blog/marzo-hacking-wallpaper-pc-so
+feature-img: /assets/img/blog/marzo-hacking-wallpaper-pc-so
 title: 'Los 10 + 10 mejores frameworks Java para usar en 2020'
 description: >-
   Elija entre los 10 mejores marcos de Java para usar para el desarrollo web en 2020.

@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "🥇 ▷ Los Libros Recomendados por Barack Obama este 2019 📖"
 description: 'Los libros recomendados por Obama hace del 2020 un año mejor. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'
 excerpt: 'Los libros recomendados por Obama hace del 2020 un año mejor. Lecturas favoritas del ex-presidente de Estados Unidos, Barack: Premio Nobel de la Paz'

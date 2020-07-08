@@ -1,6 +1,7 @@
 ---
 title: "📰 TITULO"
 author: rosepac
+bootstrap: true
 description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 date: 
@@ -9,11 +10,7 @@ categories:
 link: ENLACE A LA NOTICIA
 tags:
 - ETIQUETAS
-header:
-feature-img: "/assets/images/.jpg"
-  overlay_filter: "0.2"
-  image_description: "DESCRIPCION IMAGEN | Ciberninjas"
-  caption: "**Créditos**: Foto de [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/collections/8502157/news?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+feature-img: "/assets/img/.jpg"
 
 ---
 > 📰 ICONO-TEMATICA RESUMEN, por [AUTOR](ENLACE AL ESCRITOR)

@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "🥇 ▷ Los mejores libros sobre tecnología y ciencias de 2020"
 description: 'Una selección de lecturas obligatorias para ayudarte a comprender la actualidad sobre el mundo tecnológica y las ciencias.'
 excerpt: 'Una selección de lecturas obligatorias para ayudarte a comprender la actualidad sobre el mundo tecnológica y las ciencias.'

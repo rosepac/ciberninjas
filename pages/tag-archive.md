@@ -3,7 +3,8 @@ title: "Publicaciones por Etiquetas"
 permalink: /etiqueta/
 
 layout: tags
-author_profile: false
+author: rosepac
+bootstrap: true
 sidebar:
 - title: "Menú Principal"
   nav: general

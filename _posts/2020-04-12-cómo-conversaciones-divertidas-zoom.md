@@ -16,14 +16,6 @@ tags:
   - Zoom
 thumbnail: /assets/img/blog/1-snap-camera.webp
 feature-img: /assets/img/blog/1-snap-camera.webp
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 Zoom puede estar enfrentándose a pequeños problemas por sus deficiencias de seguridad, pero desde el estallido del COVID-19 y **el cambio de metodologías de trabajo que implica cambiar la oficina por el hogar**, prácticamente ha hecho que **Zoom se convierta en un software indispensable a la hora de crear reuniones mediante vídeo llamadas**.

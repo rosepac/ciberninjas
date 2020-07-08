@@ -4,6 +4,7 @@ description: '🔨 🐍 Los Mejores Recursos en Creación de Diagramas de Flujo'
 excerpt: '🔨 🐍 Los Mejores Recursos con los que Aprender Go'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-10-15 12:06:18
 last_modified_at: 

@@ -3,6 +3,7 @@ layout: post
 title: 'Un libro gratis al día, en inglés. Hoy: Learning Docker'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-12-19 06:12:10
 tags:

@@ -1,6 +1,7 @@
 ---
 
-author_profile: false
+author: rosepac
+bootstrap: true
 comments: false
 
 layout: splash
@@ -10,8 +11,6 @@ categories:
 - Java
 thumbnail: /assets/img/blog/
 feature-img: /assets/img/blog/
-  image_description: ''
-  image_alt: ''
 title: '¿Qué es la fundación Apac?'
 description: >-
   ''

@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "▷ La Psicología de los Colores"
 description: "\U0001F3A8 Infografía que asocia cada color junto a los sentimientos y temáticas que mejor reflejan dentro de la sociedad"
 excerpt: "\U0001F3A8 Infografía que asocia cada color junto a los sentimientos y temáticas que mejor reflejan dentro de la sociedad"
@@ -15,12 +16,9 @@ categories:
   - Psicología
 thumbnail: https://tentulogo.com/wp-content/uploads/2017/11/Psicologia-de-los-colores.jpg
 feature-img: https://tentulogo.com/wp-content/uploads/2017/11/Psicologia-de-los-colores.jpg
-  image_description: "Infografía asociativa de los colores respecto a sus sentimientos y temáticas más reflejadas respecto a la visión social; blanco, gris, fucsia, negro, morado, marrón, azul, naranja, verde, rojo | Visto en Ciberninjas"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Ten Tu Logo**"
-  actions:
-    - label: "📸 VER ÁLBUM"
-      url: "https://ibb.co/album/deUOov"
+actions:
+  - label: "📸 VER ÁLBUM"
+    url: "https://ibb.co/album/deUOov"
 sidebar:
   - title: "👨‍🎨 Infografías"
     nav: infog

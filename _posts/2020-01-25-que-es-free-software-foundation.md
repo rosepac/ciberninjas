@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "▷ ¿Qué es la Free Software Foundation?"
 description: "Introducción y explicación de quién es y qué hace la Fundación de Software Libre."
 excerpt: "Introducción y explicación de quién es y qué hace la Fundación de Software Libre."
@@ -8,7 +9,7 @@ comments: false
 date: 2020-01-25 15:10:12
 last_modified_at: 
 thumbnail: /assets/img/blog/fsf-svg.webp
-thumbnail2: /assets/img/blog/fsf-svg.webp
+feature-img: /assets/img/blog/fsf-svg.webp
 permalink: /que-es-free-software-foundation/
 canonical_URL: https://ciberninjas.com/que-es-free-software-foundation/
 categories:

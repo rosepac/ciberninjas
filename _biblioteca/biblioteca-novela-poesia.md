@@ -2,7 +2,8 @@
 title: ▷ Bibliotecas Online GRATIS PDF y Online, encuentra lo que deseas entre miles de novelas y repositorios gratuitos 
 description: "Miles de libros PDF gratuitos y de dominio publico, novelas clásicas, ciencia, cuentos, revistas y mucho más."
 excerpt: "Miles de libros PDF gratuitos y de dominio publico novelas clásicas, ciencia, cuentos, revistas y mucho más."
-author_profile: false
+author: rosepac
+bootstrap: true
 layout: splash
 published: true
 comments: false
@@ -10,8 +11,8 @@ date: 2020-05-27
 last_modified_at: 
 permalink: /biblioteca-novela-poesia/
 canonical_URL: https://ciberninjas.com/biblioteca-novela-poesia/
-thumbnail: "/assets/images/paginas/libros-clasicos-novelas-historia-revistas.webp"
-feature-img: "/assets/images/paginas/libros-clasicos-novelas-historia-revistas.webp"
+thumbnail: "/assets/img/paginas/libros-clasicos-novelas-historia-revistas.webp"
+feature-img: "/assets/img/paginas/libros-clasicos-novelas-historia-revistas.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Bootstrap
@@ -8,7 +9,7 @@ tags:
 categories:
 - Framework CSS
 thumbnail: /assets/img/lenguajes-vs/tailwindcss-vs-bootstrap-framework.webp
-thumbnail2: /assets/img/lenguajes-vs/tailwindcss-vs-bootstrap-framework.webp
+feature-img: /assets/img/lenguajes-vs/tailwindcss-vs-bootstrap-framework.webp
 title: '🎨 ▷ ¿Qué diferencias existen entre el framework de Boostrap y el framework de Tailwind CSS?'
 description: >-
   Vamos a repasar las diferencias existentes entre estos dos frameworks CSS desde el punto de vista de conocer cual de los dos es más útil

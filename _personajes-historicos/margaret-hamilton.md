@@ -8,14 +8,14 @@ published: true
 permalink: /personajes-historicos/margaret-hamilton/
 canonical_URL: https://computerhistory.org/profile/margaret-hamilton/
 
-thumbnail: /assets/images/personajes-historicos/2017_margaret-hamilton.webp
+thumbnail: /assets/img/personajes-historicos/2017_margaret-hamilton.webp
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia
 
 ---
 
- <img src="/assets/images/personajes-historicos/2017_margaret-hamilton.webp" width="200px" high="250px" alt="Margaret Hamilton" title="Margaret Hamilton">
+ <img src="/assets/img/personajes-historicos/2017_margaret-hamilton.webp" width="200px" high="250px" alt="Margaret Hamilton" title="Margaret Hamilton">
 
 ## **Biografía de Margaret Hamilton**
 

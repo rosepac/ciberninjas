@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Leslie Lamport"
 description: 'Leslie Lamport, premiado por sus contribuciones al análisis y diseño de sistemas informáticos distribuidos, y por la creación inicial del sistema de producción de documentos LaTeX.'
 excerpt: 'Leslie Lamport, premiado por sus contribuciones al análisis y diseño de sistemas informáticos distribuidos, y por la creación inicial del sistema de producción de documentos LaTeX.'

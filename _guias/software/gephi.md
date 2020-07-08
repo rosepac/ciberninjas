@@ -5,6 +5,7 @@ excerpt: "📊 Gephi: La plataforma de Gráficos Abierta."
 date: 2019-10-19T19:06:00.000+00:00
 last_modified_at: 2020-01-02T19:46:00.000+00:00
 author: rosepac
+bootstrap: true
 permalink: /gephi/
 canonical_URL: https://ciberninjas.com/gephi/
 thumbnail: "https://i.ibb.co/z7HxWMB/graphi-graficos-creados-cuentas.jpg"

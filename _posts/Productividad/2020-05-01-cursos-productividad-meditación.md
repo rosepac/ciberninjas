@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -8,7 +9,7 @@ tags:
 categories:
 - Cursos
 thumbnail: /assets/img/blog/eficiencia.webp
-thumbnail2: /assets/img/blog/eficiencia.webp
+feature-img: /assets/img/blog/eficiencia.webp
 title: '🥇 ▷ Los 50 mejores cursos gratis sobre productividad, meditación, relajación, vida y negocios'
 description: >-
   Encuentra las mejores enseñanzas gratuitas con las que aumentar tu eficacia en las horas de trabajo y aprende a concentrarte y utilizar todo tu potencial en cada momento

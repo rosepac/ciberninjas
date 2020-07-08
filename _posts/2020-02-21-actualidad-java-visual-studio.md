@@ -1,13 +1,14 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Java
 categories:
 - Actualidad
 thumbnail: /assets/img/blog/java-visual-studio.webp
-thumbnail2: /assets/img/blog/java-visual-studio.webp
+feature-img: /assets/img/blog/java-visual-studio.webp
 title: '💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020'
 description: >-
   Mejoras y cambios insertados en el editor de texto de Visaul Studio Code respecto al uso de Java y sus librerías

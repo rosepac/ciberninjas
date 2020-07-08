@@ -11,6 +11,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: true
 author: rosepac
+bootstrap: true
 permalink: /wiki/pyladies/
 canonical_URL: https://ciberninjas.com/wiki/pyladies/
 pyladies-1:

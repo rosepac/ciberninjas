@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: '▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10'
 description: "Numerosas herramientas con las que vas a poder generar las mejores apps y aplicaciones para Windows 10 desde cero"
 excerpt: "Numerosas herramientas con las que vas a poder generar las mejores apps y aplicaciones para Windows 10 desde cero"
@@ -9,7 +10,7 @@ comments: false
 date: 2020-02-08 09:23:12
 last_modified_at: 
 thumbnail: /assets/img/apache/apache-zookeeper-ciberninjas.webp
-thumbnail2: /assets/img/apache/apache-zookeeper-ciberninjas.webp
+feature-img: /assets/img/apache/apache-zookeeper-ciberninjas.webp
 permalink: /windows-template-studio-recursos-para-aplicaciones-con-xaml-net/
 canonical_URL: https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/
 categories:

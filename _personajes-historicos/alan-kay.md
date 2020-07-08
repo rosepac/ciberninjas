@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Alan Kay"
 description: 'Alan Kay, por sus contribuciones fundamentales a la informática personal y al desarrollo de la interfaz hombre-computadora.'
 excerpt: 'Alan Kay, por sus contribuciones fundamentales a la informática personal y al desarrollo de la interfaz hombre-computadora.'

@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: 'Los Mejores RSS'
 description: 'Los Mejores RSS'
 excerpt: 'Los Mejores RSS'

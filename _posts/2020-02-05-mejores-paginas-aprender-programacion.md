@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: "▷ 20 + Mejores Páginas Web para Aprender Programación GRATIS en 2020"
 description: >-
   Vamos a recopilar los mejores sitios web gratuitos en los que se reunen y comparten los mejores recursos del mundo y tutoriales con los que poder aprender a programar cualquier tecnología.
@@ -11,7 +12,7 @@ comments: false
 date: 2020-02-05 10:31:12
 last_modified_at: 
 thumbnail: https://i.ibb.co/cXZ8rBn/mejores-paginas-aprender-programacion.jpg
-thumbnail2: https://i.ibb.co/cXZ8rBn/mejores-paginas-aprender-programacion.jpg
+feature-img: https://i.ibb.co/cXZ8rBn/mejores-paginas-aprender-programacion.jpg
 permalink: /mejores-paginas-aprender-programacion/
 canonical_URL: https://ciberninjas.com/mejores-paginas-aprender-programacion/
 tags:

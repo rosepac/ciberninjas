@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "▷ Black Friday 2019, todo lo que necesitas saber"
 description: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."
 excerpt: "🎁 Las mejores ofertas Amazon del Black Friday 2019 en productos tecnológicos."

@@ -5,11 +5,12 @@ permalink: /lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/lenguajes-programacion/
 
 published: false
-author_profile: false
-thumbnail: /assets/images/paginas/progmb.webp
+author: rosepac
+bootstrap: true
+thumbnail: /assets/img/paginas/progmb.webp
   overlay_color: "#000"
   overlay_filter: "0.1"
-feature-img: /assets/images/paginas/progmb.webp
+feature-img: /assets/img/paginas/progmb.webp
 #  actions:
 #    - label: "🎓 Cursos"
 #      url: "/cursos-tecnologia/"

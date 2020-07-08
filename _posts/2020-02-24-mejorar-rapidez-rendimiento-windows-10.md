@@ -1,13 +1,14 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Windows 10
 categories:
 - Ofimática
 thumbnail: /assets/img/blog/win-lib-1.webp
-thumbnail2: /assets/img/blog/win-lib-1.webp
+feature-img: /assets/img/blog/win-lib-1.webp
 title: '👨‍🔧 ▷ Cómo mejorar el rendimiento y hacer más rápido Windows 10 en 2020'
 description: >-
   Los mejores consejos que vas a encontrar para lograr que tu Windows 10 se convierta en un auténtico cohete.

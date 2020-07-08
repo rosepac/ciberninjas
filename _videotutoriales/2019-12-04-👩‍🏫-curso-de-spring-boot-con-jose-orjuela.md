@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F469‍\U0001F3EB Curso de Spring Boot con José Orjuela"
 description: >-
   ▷ Aprender a utilizar Spring Boot ✌️ Con el curso impartido por José Orjuela ⭐️

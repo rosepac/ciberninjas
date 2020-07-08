@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta ahora"
 description: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta ahora"
 excerpt: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta ahora"

@@ -7,7 +7,8 @@ permalink: /profesiones-digitales-mapas-habilidades/
 canonical_URL: https://ciberninjas.com/profesiones-digitales-mapas-habilidades/
 date: 2020-02-12
 published: true
-author_profile: false
+author: rosepac
+bootstrap: true
 ---
 
 <br />

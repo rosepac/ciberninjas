@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🏫 Seguridad en Wordpress con Manuel Camacho"
 description: "🔐 Seguridad en Wordpress con Manuel Camacho"
 excerpt: "🔐 Seguridad en Wordpress con Manuel Camacho"

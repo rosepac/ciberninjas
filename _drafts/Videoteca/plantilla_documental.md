@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "📹 TITULO 🎓"
 description: "ICONO-TEMA DESCRIPCION"
 excerpt: "ICONO-TEMA DESCRIPCION"

@@ -1,13 +1,10 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎧 Bassontracker: Creador de música retro  inspirado en Amiga Protracker"
 description: "🎧 Bassoontracker es una mesa de mezclas basada en una antiguo software creada para los ordenadores Amiga denominado Fasttracker."
 excerpt: "🎧 Bassoontracker es una mesa de mezclas basada en una antiguo software creada para los ordenadores Amiga denominado Fasttracker."
-permalink: /creador-de-musica-retro-inspirado-en-amiga-protracker-bassontracker
-# header:
-#   image: "/assets/img/musica/music_radio.jpg"
-#   image_description: La mejor música para programar en 2019: Gramola Ciberninjas
-#   caption: "**Créditos**: Chica descansa escuchando la Radio de la Gramola Ciberninjas / Creación propia."
+permalink: /creador-de-musica-retro-inspirado-en-amiga-protracker-bassontracker/
 comments: false
 date: 2019-06-05 23:11:12
 tags:

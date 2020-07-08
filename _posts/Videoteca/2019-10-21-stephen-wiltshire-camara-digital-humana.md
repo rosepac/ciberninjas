@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🧠 Stephen Wiltshire: La cámara humana"
 description: "🧠 Stephen Wiltshire: La cámara humana"
 excerpt: "🧠 Stephen Wiltshire: La cámara humana"

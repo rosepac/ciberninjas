@@ -3,7 +3,8 @@ title: "👩‍🏫 Catálogo de Libros Educativos"
 description: "👩‍🎓 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
 excerpt: "👩‍🎓 Compra tus Libros de Texto de Formación Profesional / Ciclos Formativos sobre Programación, Informática, Tecnología y Artes Gráficas."
 published: true
-author_profile: false
+author: rosepac
+bootstrap: true
 date: 2019-09-22 11:11:05
 last_modified_at: 2019-09-24
 toc: true

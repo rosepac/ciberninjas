@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "▷ ¿Qué diferencia existe entre Inteligencia Artificial, Aprendizaje Automático y Aprendizaje Profundo?"
 description: "Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)"
 excerpt: "Conocer las diferencias que existen entre AI (artificial intelligence), ML (machine learning) y DL (deep learning)"
@@ -8,7 +9,7 @@ comments: false
 date: 2020-03-13 15:30:12
 last_modified_at: 
 thumbnail: /assets/img/lenguajes-vs/ai-vs-ml-vs-dp.webp
-thumbnail2: /assets/img/lenguajes-vs/ai-vs-ml-vs-dp.webp
+feature-img: /assets/img/lenguajes-vs/ai-vs-ml-vs-dp.webp
 permalink: /diferencias-entre-ai-ml-dl/
 canonical_URL: https://ciberninjas.com/diferencias-entre-ai-ml-dl/
 categories:

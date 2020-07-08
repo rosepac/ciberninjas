@@ -9,8 +9,8 @@ classed: wide
 permalink: /steemit/
 canonical_URL: https://ciberninjas.com/steemit/
 published: true
-thumbnail: "/assets/images/blog/steemit-publicaciones-1-1.webp"
-feature-img: "/assets/images/blog/steemit-publicaciones-1-1.webp"
+thumbnail: "/assets/img/blog/steemit-publicaciones-1-1.webp"
+feature-img: "/assets/img/blog/steemit-publicaciones-1-1.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

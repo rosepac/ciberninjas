@@ -1,6 +1,7 @@
 ---
 
-author_profile: false
+author: rosepac
+bootstrap: true
 layout: splash
 comments: false
 

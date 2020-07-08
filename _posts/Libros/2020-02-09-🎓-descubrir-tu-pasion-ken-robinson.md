@@ -20,7 +20,8 @@ toc: true
 toc_label: Contenidos
 toc_icon: user-ninja
 toc_sticky: true
-author_profile: false
+author: rosepac
+bootstrap: true
 sidebar:
   - title: Autor
     image: /assets/img/catalogo/el-elemento-descubrir-tu-pasion.webp

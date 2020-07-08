@@ -1,14 +1,15 @@
 ---
 title: "🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻"
 author: rosepac
+bootstrap: true
 description: '🚀 Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
 excerpt: '🚀 Frameworks más impresionantes y populares de desarrollo de aplicaciones móviles populares que son la mejor herramienta del desarrollador en 2020.'
 published: true
 date: 2020-06-16
 last_modified_at: 
 # Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
-thumbnail: "/assets/images/blog/final_sdk_varios.webp"
-feature-img: "/assets/images/blog/final_sdk_varios.webp"
+thumbnail: "/assets/img/blog/final_sdk_varios.webp"
+feature-img: "/assets/img/blog/final_sdk_varios.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -53,7 +54,7 @@ Hoy me gustaría ojear y listar los frameworks más importantes, que sin lugar a
 Si he decidido colocar a Flutter como el primero en esta lista, es porque supuestamente debe terminar siendo el SDK sobre el que se construya por completo los nuevos dispositivos Android; que dicho sea de paso, sigue siendo por gran mayoría el Sistema Operativo más utilizado en los smartphones y a día de hoy, casi con toda seguridad; el SO más utilizada en todo el mundo.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/flutter_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/flutter_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/flutter_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/flutter_1.webp"></a>
     <figcaption>Flutter, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -69,7 +70,7 @@ A lo largo del año 2020, sin lugar a dudas, será el año de un reformulado And
 Ionic es bastante popular entre los framework de desarrollo de aplicaciones, probablemente el que más. Ionic es básicamente una red front-end que ayuda a construir aplicaciones móviles nativas con HTML, CSS3 y Javascript.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/ionic_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/ionic_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/ionic_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/ionic_1.webp"></a>
     <figcaption>Ionic, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -90,7 +91,7 @@ Debido a su capacidad para construir aplicaciones tanto nativas como multiplataf
 React Native, es sin duda una de las plataformas favoritas entre muchas de las grandes empresas y StartUps, tanto utilizado para construir aplicaciones Android como iOS, el desarrollo React Native permite a los desarrolladores de aplicaciones móviles crear aplicaciones de alto rendimiento en ciclos de desarrollo más cortos y tiempos de implementación más rápidos.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/react_native_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/react_native_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/react_native_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/react_native_1.webp"></a>
     <figcaption>React Native, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -105,7 +106,7 @@ Además, React Native es altamente compatible con complementos de terceros, como
 Xamarin es un Framework propiedad de Microsoft que facilita el desarrollo de las aplicaciones multiplataforma, pudiendo poder aprovechar casi en su totalidad el código de una aplicación a otra.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/xamarin_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/xamarin_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/xamarin_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/xamarin_1.webp"></a>
     <figcaption>Xamarin, visto en Ciberninjas</figcaption>
 </figure>
  
@@ -121,7 +122,7 @@ A través de su API te permite generar apps esteticamente similares a las nativa
 El Framework de PhoneGap, en la actualidad comprado por Adobe; con anterioridad conocido por Apache Cordoba por formar parte del universo de desarrollo de la Fundación Apache. Ofrece como su mayor diferenciación el desarrollo de aplicaciones móviles mediante la visualización de sus cambios de forma instantanea.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/phonegap_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/phonegap_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/phonegap_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/phonegap_1.webp"></a>
     <figcaption>PhoneGap, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -134,7 +135,7 @@ Además, es totalmente compatible con las funciones integradas del dispositivo, 
 Nombrado como el mejor framework de aplicaciones híbridas 2019-2020, Native Scripts está respaldado por una compañía de software búlgara, Telerik. Fue creado originalmente por Progress. Las aplicaciones creadas con Native Scripts usan las mismas API que si estuvieran construidas con Xcode o Android studio.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/nativescript_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/nativescript_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/nativescript_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/nativescript_1.webp"></a>
     <figcaption>Native Script, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -148,7 +149,7 @@ El sitio web oficial de Native Scripts proporciona continuamente recursos y tuto
 Appcelerator Titanium utiliza una combinación de PhoneGap y Xamarin. Este marco utiliza JavaScript para escribir el código y es compatible con plataformas Android e iOS. Sin embargo, no viene con framework de CSS y HTML ni nada que lo implemente de forma directa.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/appcelerator_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/appcelerator_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/appcelerator_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/appcelerator_1.webp"></a>
     <figcaption>Appcelerator Titanium, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -165,7 +166,7 @@ Appcelerator ofrece varias herramientas para el desarrollo rápido de aplicacion
 JQuery es un framework HTML5 enfocado en buscar el funcionamiento perfecto dentro de un sitio web o una aplicación movil. Su mayor ventaja radica en el hecho de que con una sola versión de código no solo puede ejecutarse en todos los dispositivos independientemente de su sistema operativo, si no que también; es capaz de ser ejectuado sin problemas en los sistemas operativos Android, iOS, Blackberry, Windows, Kindle e incluso otros menos conocidos; como Nook o MeeGo.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/jquery_movil_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/jquery_movil_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/jquery_movil_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/jquery_movil_1.webp"></a>
     <figcaption>jQuery, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -181,7 +182,7 @@ El código escrito con JQuery, en comparación con otros códigos que ofrezcan l
 Móvil Angular es un framework de código abierto que ayuda a desarrollar algunas de las aplicaciones más importantes de Internet; al ser compatible con varios navegadores, Mobile Angular UI maneja automáticamente el código JavaScript adecuado para cada navegador.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/angular_ui_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/angular_ui_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/angular_ui_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/angular_ui_1.webp"></a>
     <figcaption>Angular UI, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -196,7 +197,7 @@ Especialmente indicado para los desarrolladores que prefieran Angular y Boostrap
 Weex es un framework que permite a los desarrolladores utilizar habilidades modernas de desarrollo web para crear aplicaciones de Android, iOS y web con una única base de código. En la práctica, puede usar JavaScript con marcos front-end modernos para desarrollar aplicaciones móviles.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/weex_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/weex_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/weex_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/weex_1.webp"></a>
     <figcaption>Weex, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -214,7 +215,7 @@ Weex nos ofrece toda una aplicación de prácticas y código, denominada [Playgr
 Corona SDK ayuda a los desarrolladores a crear una sola base de código que funciona increíblemente bien con Android e iOS, se dice que es capaz de proporcionar un desarrollo 10 veces más rápido que cualquier otro framework; esto es debido a que su back-end es compatible con el lenguaje de programación Lua; un lenguaje altamente ligero que se enfoca en ser veloz, flexible y fácil de usar.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/corona_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/corona_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/corona_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/corona_1.webp"></a>
     <figcaption>Corona, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -229,7 +230,7 @@ Utilizando sus características, Corona SDK es altamente capaz de incluir intera
 Unity y Unity 3D, es uno de los repositorios más importantes enfocado en la creación de los videojuegos.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/unity_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/unity_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/unity_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/unity_1.webp"></a>
     <figcaption>Unity, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -245,7 +246,7 @@ He considerado incluirlo aquí, como esponsor de los SDK enfocados a la creació
 Qt es un framework de desarrollo multiplataforma que nos permite la creación de aplicaciones con múltiples lenguajes de programación; Python, C++, Qt QML, R o GO a través de su herramienta propia: Qt Creator.
 
 <figure>
-    <a href="/assets/images/sdk_paginas/qt_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/qt_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/qt_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/qt_1.webp"></a>
     <figcaption>Qt, visto en Ciberninjas</figcaption>
 </figure>
 
@@ -259,7 +260,7 @@ Entre otras: Una consolidada API de ubicación, acceso a sensores a través de h
 
 ## 14. **Intel System Studio**
 <figure>
-    <a href="/assets/images/sdk_paginas/intel_sdk_1.webp" class="image-popup"><img src="/assets/images/sdk_paginas/intel_sdk_1.webp"></a>
+    <a href="/assets/img/sdk_paginas/intel_sdk_1.webp" class="image-popup"><img src="/assets/img/sdk_paginas/intel_sdk_1.webp"></a>
     <figcaption>Intel XDK, visto en Ciberninjas</figcaption>
 </figure>
 

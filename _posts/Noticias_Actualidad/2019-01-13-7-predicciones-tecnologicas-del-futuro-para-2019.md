@@ -5,7 +5,7 @@ excerpt: "▷ Las novedades tecnológicas 👩‍💻 más impresionantes del A�
 comments: false
 date: 2019-01-13 07:01:10
 thumbnail: /assets/img/internet-de-las-cosas.webp
-thumbnail2: /assets/img/internet-de-las-cosas.webp
+feature-img: /assets/img/internet-de-las-cosas.webp
 tags:
     - Almacenamiento Nube
     - Inteligencia Artificial

@@ -8,10 +8,6 @@ date: 2019-10-17
 last_modified_at: 
 permalink: /prensa-alternativa/
 canonical_URL: https://ciberninjas.com/prensa-alternativa/
-# header:
-#   image: "/assets/images/chocolatey-ciberninjas.jpg"
-#   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
-#   caption: "**Créditos**: Creación Propia"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

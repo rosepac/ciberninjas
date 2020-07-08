@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -9,7 +10,7 @@ tags:
 categories:
 - Software
 thumbnail: /assets/img/blog/8-capturas-pantalla.webp
-thumbnail2: /assets/img/blog/8-capturas-pantalla.webp
+feature-img: /assets/img/blog/8-capturas-pantalla.webp
 title: '5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio'
 description: >-
   En Windows, a veces, la ventana de un programa aparece fuera de la pantalla y el mouse no es capaz de alcanzarla; aquí tienes las 5 mejores formas de restaurar una ventana al área visible.

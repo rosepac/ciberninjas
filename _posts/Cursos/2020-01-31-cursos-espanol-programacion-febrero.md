@@ -5,11 +5,12 @@ excerpt: '👨‍💻 Los mejores cursos de programación gratis en español par
 description: '👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-01-31 17:07:33
 last_modified_at: 
 thumbnail: https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg
-thumbnail2: https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg
+feature-img: https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg
 tags:
 - Programación
 categories:

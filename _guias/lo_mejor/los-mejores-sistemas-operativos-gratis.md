@@ -4,13 +4,14 @@ description: "🔥 Lista de Sistemas Operativos Gratuitos de Código Abierto sus
 excerpt: "🔥  Lista de Sistemas Operativos Gratuitos de Código Abierto sustitutos de Windows"
 date: 2019-08-29 00:00:00 +0200
 author: rosepac
+bootstrap: true
 date: 2020-03-10
 last_modified_at: 
 permalink: /los-mejores-sistemas-operativos-gratis/
 canonical_URL: https://ciberninjas.com/los-mejores-sistemas-operativos-gratis/
 published: true
-thumbnail: /assets/images/paginas/sistema-operativo-pagina.webp
-feature-img: /assets/images/paginas/sistema-operativo-pagina.webp
+thumbnail: /assets/img/paginas/sistema-operativo-pagina.webp
+feature-img: /assets/img/paginas/sistema-operativo-pagina.webp
 #   caption: >-
 #     **Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia
 # toc: true
@@ -72,4 +73,4 @@ Listado de Sistemas de Código Abierto..
 ### [Lxer](http://lxer.com/){:target="_blank" rel="nofollow,noreferrer"}
 
 
-![Los mejores sistemas operativos gratuitos de código abierto](/assets/images/paginas/sistema-operativo-pagina.webp "Los mejores sistemas operativos gratuitos de código abierto")
+![Los mejores sistemas operativos gratuitos de código abierto](/assets/img/paginas/sistema-operativo-pagina.webp "Los mejores sistemas operativos gratuitos de código abierto")

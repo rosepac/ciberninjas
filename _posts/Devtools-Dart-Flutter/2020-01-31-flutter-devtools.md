@@ -5,12 +5,13 @@ excerpt: '👩‍🚀 Implementa mejoras en el desarrollo de Dart y Flutter con 
 description: '👩‍🚀 Implementa mejoras en el desarrollo de Dart y Flutter con la herramienta DevTools creada por Google.'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
 
 date: 2020-06-28 12:05:33
 last_modified_at: 
 thumbnail: /assets/img/2020-news/vscode-show-in-browser.webp
-thumbnail2: /assets/img/2020-news/vscode-show-in-browser.webp
+feature-img: /assets/img/2020-news/vscode-show-in-browser.webp
 tags:
 - Flutter
 - Dart

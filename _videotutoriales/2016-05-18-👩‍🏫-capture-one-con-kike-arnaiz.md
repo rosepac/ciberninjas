@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👩‍🏫 Curso de Capture One 2016 con Kike Arnaiz"
 description: "📸 Curso de Capture One 2016 con Kike Arnaiz"
 excerpt: "📸 Curso de Capture One 2016 con Kike Arnaiz"

@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F468‍\U0001F3EB Curso de Análisis de datos con Power BI Nivel Intermedio de Microsoft TV"
 description: "\U0001F4CA Curso de Análisis de datos con Power BI Nivel Intermedio de Microsoft TV"
 excerpt: "\U0001F4CA Curso de Análisis de datos con Power BI Nivel Intermedio de Microsoft TV"

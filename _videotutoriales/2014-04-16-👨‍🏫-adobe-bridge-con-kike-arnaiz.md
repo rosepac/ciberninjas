@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👩‍🏫 Curso de Adobe Bridge con Kike Arnaiz"
 description: "📸 Curso de Adobe Bridge, el Software de Organización de Fotografías con Kike Arnaiz"
 excerpt: "📸 Curso de Adobe Bridge, el Software de Organización de Fotografías con Kike Arnaiz"

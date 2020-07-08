@@ -10,6 +10,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: true
 author: rosepac
+bootstrap: true
 permalink: /wiki/apache-storm/
 canonical_URL: https://ciberninjas.com/wiki/apache-storm/
 

@@ -7,10 +7,11 @@ layout: splash
 last_modified_at:
 permalink:  /jekyll/
 canonical_URL: https://ciberninjas.com/jekyll/
-author_profile: false
+author: rosepac
+bootstrap: true
 header:
-thumbnail: "/assets/images/paginas/jekyll-arbol-documentos.webp"
-feature-img: "/assets/images/paginas/jekyll-arbol-documentos.webp"
+thumbnail: "/assets/img/paginas/jekyll-arbol-documentos.webp"
+feature-img: "/assets/img/paginas/jekyll-arbol-documentos.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

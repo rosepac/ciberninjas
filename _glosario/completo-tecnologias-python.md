@@ -7,10 +7,11 @@ published: true
 date: 2020-05-20
 last_modified_at:
 author: rosepac
+bootstrap: true
 permalink: /glosario/completo-tecnologias-python/
 canonical_URL: https://ciberninjas.com/glosario/completo-tecnologias-python/
-thumbnail: /assets/images/lenguajes/python-diccionarios.webp
-feature-img: /assets/images/lenguajes/python-diccionarios.webp
+thumbnail: /assets/img/lenguajes/python-diccionarios.webp
+feature-img: /assets/img/lenguajes/python-diccionarios.webp
 actions:
   - label: 'Recursos Python'
     url: '/python-recursos/'

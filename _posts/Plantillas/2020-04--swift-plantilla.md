@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -8,7 +9,7 @@ tags:
 categories:
 - Lenguajes de Programación
 thumbnail: /assets/img/blog/
-thumbnail2: /assets/img/blog/
+feature-img: /assets/img/blog/
 title: '🥇 ▷ '
 description: >-
   🍏

@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F469‍\U0001F3EB Curso de Javascript con Píldoras Informáticas"
 description: >-
   ▷ Aprender a programar Javascript desde cero a experto con Juan Díaz el

@@ -3,6 +3,7 @@ title: "🥇 ▷ Profesiones Digitales más Demandadas en 2020 👨‍💻 Dentr
 description: "📌 Lista completa de todas las profesiones del campo de la tecnología existentes y todas las tecnologías requeridas para cada puesto de trabajo indicado 😜."
 excerpt: "📌 Lista completa de todas las profesiones del campo de la tecnología existentes y todas las tecnologías requeridas para cada puesto de trabajo indicado 😜."
 author: rosepac
+bootstrap: true
 published: true
 comments: false
 date: 2020-03-13

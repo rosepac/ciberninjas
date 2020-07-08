@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: 'CD Foundation, un estándar para los Sistemas de Integración Continua'
 description: 'CD Foundation, un estándar para los Sistemas de Integración Continua'
 excerpt: 'CD Foundation, un estándar para los Sistemas de Integración Continua'

@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 date: 2018-12-01T12:42:42-05:00
 description: "Aviso Legal y Políticas de Privacidad · Política de Comentarios · Créditos y Reconocimientos · Proyectos Realizados; ¿Qué es Ciberninjas?"
 excerpt: "Aviso Legal y Políticas de Privacidad · Política de Comentarios · Créditos y Reconocimientos · Proyectos Realizados; ¿Qué es Ciberninjas?"

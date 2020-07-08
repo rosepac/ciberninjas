@@ -5,6 +5,7 @@ title: >
     principiantes hasta avanzado
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-12-12 02:12:49
 tags:

@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - VPN
@@ -8,8 +9,6 @@ categories:
 - Software
 thumbnail: /assets/img/.webp
 feature-img: /assets/img/.webp
-  image_description: ''
-  image_alt: ''
 title: ''
 description: >-
   .

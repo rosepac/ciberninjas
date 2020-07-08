@@ -5,6 +5,7 @@ excerpt: '👩‍🚀 Lista de apps y código fuente abierto y gratis de las mej
 description: '👩‍🚀 Lista de apps y código fuente abierto y gratis de las mejores aplicaciones desarrolladas hasta ahora con Flutter y el lenguaje de programación Dart.'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-06-13 01:32:33
 last_modified_at: 

@@ -1,11 +1,12 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎧 Música para programar 2019: Versión 1"
 description: "🎧 Las mejores canciones 🎶 con las que centrarte en programar 👨‍💻 Desde la música más actual a canciones de los🕹 más clásicos"
 excerpt: "🎧 Las mejores canciones 🎶 con las que centrarte en programar 👨‍💻 Desde la música más actual a canciones de los🕹 más clásicos"
 permalink: /musica-para-programar-2019-version-1
 thumbnail: "/assets/img/musica/music_radio.jpg"
-thumbnail2: "/assets/img/musica/music_radio.jpg"
+feature-img: "/assets/img/musica/music_radio.jpg"
 comments: false
 date: 2019-06-05 23:11:12
 tags:

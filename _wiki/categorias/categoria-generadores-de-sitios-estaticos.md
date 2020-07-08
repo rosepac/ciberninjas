@@ -9,6 +9,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: false
 author: rosepac
+bootstrap: true
 permalink: /wiki/categoria/generadores-de-sitios-web-estaticos/
 
 ---

@@ -3,6 +3,7 @@ title: "👨‍🏫 ▷ Cursos de Educación Específicos para Docentes y Profes
 description: "🎓 ▷ Colección de 66 cursos y recursos de aprendizaje, educación, pedagogía, metodologías."
 excerpt: "🎓 ▷ Colección de 66 cursos y recursos de aprendizaje, educación, pedagogía, metodologías."
 author: rosepac
+bootstrap: true
 published: true
 date: 2019-10-04T17:00:00.000+01:00
 last_modified_at: 2019-11-27T10:32:00.000+01:00

@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "James Gosling"
 description: 'James Gosling, premiado por la concepción, diseño e implementación del lenguaje de programación Java.'
 excerpt: 'James Gosling, premiado por la concepción, diseño e implementación del lenguaje de programación Java.'

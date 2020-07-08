@@ -3,6 +3,7 @@ layout: post
 title: Bases de Datos
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-02-13 08:02:47
 tags:

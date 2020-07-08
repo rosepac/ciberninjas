@@ -3,7 +3,8 @@ layout: page
 title: "🗃 Biblioteca de Libros y Cursos de Tecnología"
 description: Libros y Cursos Listados en Español alojados en Ciberninjas sobre tecnología, de Programación, Software y Otros Contenidos Tecnológicos
 excerpt: "Libros y Cursos Listados en Español alojados en Ciberninjas sobre tecnología, de Programación, Software y Otros Contenidos Tecnológicos"
-author_profile: false
+author: rosepac
+bootstrap: true
 permalink: /biblioteca/
 canonical_URL: https://ciberninjas.com/biblioteca/
 sort_by: date

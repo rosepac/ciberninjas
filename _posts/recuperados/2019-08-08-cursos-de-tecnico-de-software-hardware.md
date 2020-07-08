@@ -3,6 +3,7 @@ layout: post
 title: Cursos de Técnico de Software y Hardware
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-02-12 03:02:09
 tags:

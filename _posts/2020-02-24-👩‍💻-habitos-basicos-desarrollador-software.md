@@ -12,16 +12,7 @@ tags:
   - Programar
   - Software
 thumbnail: /assets/img/blog/imagen-pensando-chicos.webp
-thumbnail2: /assets/img/blog/imagen-pensando-chicos.webp
-#  image: /assets/img/blog/imagen-pensando-chicos.webp
-#  image_description: >-
-#    5 hábitos básicos para fortalecer tus habilidades a la hora de programar software
-#  title: >-
-#    5 hábitos básicos para fortalecer tus habilidades a la hora de programar software
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+feature-img: /assets/img/blog/imagen-pensando-chicos.webp
 ---
 
 Sea cual sea el tipo de trabajo de programación, existe un conjunto específico de habilidades más básicas e imprescindibles para lograr resolver los posibles altercados que se te presenten. Por ende, se debe de moldear la personalidad del desarrollador web; aquí vamos a encontrar unos hábitos muy básicos y simples enfocados en los desarrolladores de software y cualquier otro desarrollador.

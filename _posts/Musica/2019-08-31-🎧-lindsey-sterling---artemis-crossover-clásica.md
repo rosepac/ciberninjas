@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F3A7  Lindsey Sterling - Artemis: Crossover Clásica"
 description: "\U0001F3A7 Lindsey Sterling - Artemis: Crossover Clásica"
 excerpt: "\U0001F3A7 Lindsey Sterling - Artemis: Crossover Clásica"

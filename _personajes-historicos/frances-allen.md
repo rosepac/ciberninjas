@@ -8,14 +8,14 @@ published: true
 permalink: /personajes-historicos/frances-allen/
 canonical_URL: https://computerhistory.org/profile/frances-allen/
 
-thumbnail: /assets/images/personajes-historicos/2000_frances_allen.webp
+thumbnail: /assets/img/personajes-historicos/2000_frances_allen.webp
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia
 
 ---
 
- <img src="/assets/images/personajes-historicos/2000_frances_allen.webp" width="200px" high="250px" alt="Frances Allen" title="Frances Allen">
+ <img src="/assets/img/personajes-historicos/2000_frances_allen.webp" width="200px" high="250px" alt="Frances Allen" title="Frances Allen">
 
 ## **Biografía de Frances Allen**
 

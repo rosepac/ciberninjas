@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: "▷ 11 Fórmulas de comenzar el proceso de aprender programación de Inteligencia Artificial para principiantes"
 description: >-
   \U0001F916 Hay muchos recursos disponibles para que los principiantes desarrollen sus conocimientos y habilidades, o incluso descubran si este camino es para ellos..
@@ -11,7 +12,7 @@ comments: false
 date: 2020-03-13 10:30:12
 last_modified_at: 
 thumbnail: https://i.ibb.co/qY90TdR/photo-1531746790731-6c087fecd65a-ixlib-rb-1-2.jpg
-thumbnail2: https://i.ibb.co/qY90TdR/photo-1531746790731-6c087fecd65a-ixlib-rb-1-2.jpg
+feature-img: https://i.ibb.co/qY90TdR/photo-1531746790731-6c087fecd65a-ixlib-rb-1-2.jpg
 permalink: /11-aprendizajes-principiantes-inteligencia-artificial/
 canonical_URL: https://ciberninjas.com/11-aprendizajes-principiantes-inteligencia-artificial/
 tags:

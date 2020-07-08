@@ -5,7 +5,8 @@ excerpt: "Estas hermosas figuritas decoraran a la perfección tu habitación"
 date: 2020-01-14 15:00:05
 last_modified_at:
 published: true
-author_profile: false
+author: rosepac
+bootstrap: true
 permalink: /regalos-funkos/
 canonical_URL: https://ciberninjas.com/regalos-funkos/
 sidebar:

@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎮 SuperHot, Videojuego Indie Arcade en Realidad Virtual"
 description: "🎮 SuperHot, Videojuego Indie Arcade en Realidad Virtual"
 excerpt: "🎮 SuperHot, Videojuego Indie Arcade en Realidad Virtual"

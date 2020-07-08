@@ -3,7 +3,8 @@ title: "Publicaciones por Categorías"
 layout: categories
 permalink: "/categoria/"
 
-author_profile: false
+author: rosepac
+bootstrap: true
 sidebar:
 - title: "Menú Principal"
   nav: general

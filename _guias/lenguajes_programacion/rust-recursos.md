@@ -4,6 +4,7 @@ description: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender
 excerpt: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Rust'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-01-27 17:06:18
 last_modified_at:

@@ -4,13 +4,14 @@ description: '📁 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender
 excerpt: '📁 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender a Manejar Bases de Datos'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-02-07T19:16:00
 last_modified_at: 
 permalink: /bases-datos-recursos/
 canonical_URL: https://ciberninjas.com/bases-datos-recursos/
-thumbnail: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
-feature-img: "/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.png"
+thumbnail: "/assets/img/lenguajes_y_mas_1280x720/sql-logo-fake.png"
+feature-img: "/assets/img/lenguajes_y_mas_1280x720/sql-logo-fake.png"
 ---
 
 [📕 Libros BBDD 📂](https://kutt.it/bases-datos-libros){: .btn .btn--info .btn--large}{:target="_blank" rel="nofollow,noreferrer"}

@@ -9,7 +9,7 @@ published: true
 permalink: /cursos-otras-tematicas/
 canonical_URL: https://ciberninjas.com/cursos-otras-tematicas/
 # image: 
-#   path: &image /assets/images/imac-glitch-feature.jpg
+#   path: &image /assets/img/imac-glitch-feature.jpg
 #   width: 1024
 #   height: 512
 #   feature: *image

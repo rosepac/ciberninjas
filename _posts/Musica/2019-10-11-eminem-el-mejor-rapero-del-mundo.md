@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎧 Eminem. El Mejor Rapero de la Historia junto a 2PAC"
 description: "🎧 Eminem. El Mejor Rapero de la Historia junto a 2PAC"
 excerpt: "🎧 Eminem. El Mejor Rapero de la Historia junto a 2PAC"

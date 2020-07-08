@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -8,7 +9,7 @@ tags:
 categories:
 - Software
 thumbnail: /assets/img/blog/programas-peligrosos.webp
-thumbnail2: /assets/img/blog/programas-peligrosos.webp
+feature-img: /assets/img/blog/programas-peligrosos.webp
 title: '👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador'
 description: >-
   Aplicaciones y programas que son inútiles e incluso dañinos y que deberías de suprimir de Windows 10

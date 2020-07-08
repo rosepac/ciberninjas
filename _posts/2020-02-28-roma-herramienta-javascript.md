@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Herramientas Javascript
@@ -8,7 +9,7 @@ tags:
 categories:
 - Javascript
 thumbnail: /assets/img/blog/roma-tool-transparente.webp
-thumbnail2: /assets/img/blog/roma-tool-transparente.webp
+feature-img: /assets/img/blog/roma-tool-transparente.webp
 title: '🔥 ▷ Rome, ¿La Mejor Herramienta para Javascript jamás creada?'
 description: >-
   Rome, un todo en uno para Javascript. Posiblemente, la mejor herramientas jamás creada para el uso de JavaScript; incluye un conjunto de: compilador, linterna, formateador, bundler, marco de pruebas y más.

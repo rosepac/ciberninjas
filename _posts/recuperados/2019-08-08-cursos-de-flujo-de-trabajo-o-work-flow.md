@@ -3,6 +3,7 @@ layout: post
 title: Cursos de Flujo de Trabajo o Work Flow en Español
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-02-03 08:02:22
 tags:

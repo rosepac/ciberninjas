@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F3A5 The Mandalorian - Nuevo Trailer de la Serie de Star Wars"
 description: "👽 The Mandalorian - Nuevo Trailer de la Serie de Star Wars"
 excerpt: "👽 The Mandalorian - Nuevo Trailer de la Serie de Star Wars"

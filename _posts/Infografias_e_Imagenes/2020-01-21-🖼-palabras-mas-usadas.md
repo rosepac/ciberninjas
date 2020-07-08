@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🎨 Palabras más usadas en cada lenguaje de programación"
 description: "\U0001F3A8 Nubes de palabras más utilizadas en cada uno de los diferentes lenguajes de programación"
 excerpt: "\U0001F3A8 Nubes de palabras más utilizadas en cada uno de los diferentes lenguajes de programación"
@@ -14,12 +15,9 @@ categories:
   - Imagen Programación
 thumbnail: https://i.ibb.co/1TdpCGP/image.png
 feature-img: https://i.ibb.co/1TdpCGP/image.png
-  image_description: "Nubes de palabras más usadas dentro de los lenguajes de programación Javascript, React, CSS, HTML, Java, Python, Lua, PHP, Ruby, C+, Perl, C#, etc. a través de datos extraídos de Github | Visto en Ciberninjas"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **Anvaka Github**"
-  actions:
-    - label: "📸 VER ÁLBUM"
-      url: "https://ibb.co/album/bUjmTv"
+actions:
+  - label: "📸 VER ÁLBUM"
+    url: "https://ibb.co/album/bUjmTv"
 sidebar:
   - title: "👨‍🎨 Infografías"
     nav: infog

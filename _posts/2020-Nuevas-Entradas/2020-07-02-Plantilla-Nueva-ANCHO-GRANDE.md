@@ -1,6 +1,7 @@
 ---
 
-author_profile: false
+author: rosepac
+bootstrap: true
 comments: false
 
 layout: splash
@@ -10,8 +11,6 @@ categories:
 - Java
 thumbnail: /assets/img/2020-news/
 feature-img: /assets/img/2020-news/
-  image_description: ''
-  image_alt: ''
 title: '🚀 ▷ '
 description: >-
   ''

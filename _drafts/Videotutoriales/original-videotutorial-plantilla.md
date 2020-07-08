@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🏫 Curso de TITULO con AUTOR"
 description: "🚀 Curso de TITULO con AUTOR"
 excerpt: "🚀 Curso de TITULO con AUTOR"

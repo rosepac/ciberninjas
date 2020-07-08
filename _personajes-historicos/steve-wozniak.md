@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Steve Wozniak"
 description: 'Steve Wozniak, por cofundar Apple Computer e inventar la computadora personal Apple I.'
 excerpt: 'Steve Wozniak, por cofundar Apple Computer e inventar la computadora personal Apple I.'

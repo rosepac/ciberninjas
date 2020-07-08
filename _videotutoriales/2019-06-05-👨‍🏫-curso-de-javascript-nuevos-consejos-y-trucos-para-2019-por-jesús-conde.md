@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F468‍\U0001F3EB Curso de Javascript, Nuevos Consejos y Trucos para 2019 por Jesús Conde"
 description: "✅ Aprender nuevas técnicas de Javascript 2019 ✌️ Con los videotutoriales impartidos por Jesús Conde \U0001F947 PWA, Git, Linternas, TensorFlow, Service Workers."
 excerpt: "✅ Aprender nuevas técnicas de Javascript 2019 ✌️ Con los videotutoriales impartidos por Jesús Conde \U0001F947 PWA, Git, Linternas, TensorFlow, Service Workers."

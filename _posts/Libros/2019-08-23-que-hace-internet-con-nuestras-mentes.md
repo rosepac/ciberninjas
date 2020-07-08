@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🧠 Superficiales: Qué está haciendo Internet con nuestras mentes"
 comments: false
 date: 2019-08-23 02:08:55

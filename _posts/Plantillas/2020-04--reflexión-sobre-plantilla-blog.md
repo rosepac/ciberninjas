@@ -13,7 +13,7 @@ tags:
   - Programar
   - Realidad
 thumbnail: /assets/img/
-thumbnail2: /assets/img/
+feature-img: /assets/img/
 
 ---
 

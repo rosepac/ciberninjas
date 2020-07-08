@@ -8,9 +8,7 @@ date: 2020-02-07
 last_modified_at: 
 permalink: /ionic/
 thumbnail: 
-  image: 
-#   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
-#   caption: "**Créditos**: Creación Propia"
+feature-img: 
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -18,7 +16,7 @@ toc_sticky: true
 ---
 
 Si deseas saber más, puedes [pasarte por aquí](/mejores-sdk-multiplataforma-2019-20/#ionic){:target="_blank" rel="nofollow,noreferrer"}
-/assets/images/sdk_paginas/ionic_1.jpg
+/assets/img/sdk_paginas/ionic_1.jpg
 
 * 🔥 5 paquetes de animación que puedes usar inmediatamente dentro de tu aplicación creada con Ionic..
  https://devdactic.com/5-animation-packages-ionic/ vía @schlimmson

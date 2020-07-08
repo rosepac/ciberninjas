@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 
 title: "¡Disponible Tekton Beta! ¡El proyecto Tekton se encuentra buscando colaboradores, beta testers y más!"
 description: "Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo al estado beta con el lanzamiento de v0.11.0 esta semana. Tekton es un proyecto de código abierto que crea una nube nativa.."
@@ -9,7 +10,7 @@ comments: false
 date: 2020-05-11 19:10:12
 last_modified_at: 2020-06-09 19:10:12
 thumbnail: /assets/img/blog/pagina-tekton.webp
-thumbnail2: /assets/img/blog/pagina-tekton.webp
+feature-img: /assets/img/blog/pagina-tekton.webp
 canonical_URL: https://ciberninjas.com/tekton-beta/
 permalink: /tekton-beta/
 
@@ -18,17 +19,6 @@ categories:
 tags:
 - CD Fundación
 - Tekton
-# header:
-#  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-# feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_filter: 0.2
-#   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
-#   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'
-#   caption: "Créditos: Unsplash"
-# toc: false
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 ![Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes](/assets/img/blog/pagina-tekton.webp "Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes")

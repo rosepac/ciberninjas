@@ -1,6 +1,7 @@
 ---
 title: 🥇 ▷ La Mejor Caja de Herramientas de Webmaster para 2020 🧰
 author: rosepac
+bootstrap: true
 description: "📌 Las mejores herramientas para Webmaster, conviértete en el mejor gestor de páginas web del mundo"
 excerpt: "📌 Las mejores herramientas para Webmaster, conviértete en el mejor gestor de páginas web del mundo"
 published: true
@@ -9,8 +10,8 @@ date: 2020-02-27
 last_modified_at: 
 permalink: /recursos-herramientas-webmaster/
 canonical_URL: https://ciberninjas.com/recursos-herramientas-webmaster/
-thumbnail: "/assets/images/paginas/webmaster.webp"
-feature-img: "/assets/images/paginas/webmaster.webp"
+thumbnail: "/assets/img/paginas/webmaster.webp"
+feature-img: "/assets/img/paginas/webmaster.webp"
 toc: false
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -31,7 +32,7 @@ Un pequeño listado de las mejores herramientas que nos van a facilitar los trab
 
 ## [Screen To Gif](https://www.screentogif.com/)
 
-![](/assets/images/paginas/webmaster/screentogif-capturador-pantalla.webp)
+![](/assets/img/paginas/webmaster/screentogif-capturador-pantalla.webp)
 
 La mejor herramienta gratis para la creación de capturas de pantalla, captura de cámara web y grabadora de gif´s con un editor integrado.
 

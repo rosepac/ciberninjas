@@ -8,8 +8,8 @@ date: 2019-09-26 19:03:36
 last_modified_at: 2019-09-26T19:29:02-05:00
 permalink: /apache-storm/
 canonical_URL: https://ciberninjas.com/apache-storm/
-thumbnail: "/assets/images/chocolatey-ciberninjas.jpg"
-thumbnail2: "/assets/images/chocolatey-ciberninjas.jpg"
+thumbnail: "/assets/img/chocolatey-ciberninjas.jpg"
+feature-img: "/assets/img/chocolatey-ciberninjas.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

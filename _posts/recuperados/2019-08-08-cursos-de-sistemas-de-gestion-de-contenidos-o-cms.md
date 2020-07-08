@@ -3,6 +3,7 @@ layout: post
 title: Cursos de Sistemas de Gestión de Contenidos/CMS
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-02-12 03:02:23
 tags:

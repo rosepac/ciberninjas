@@ -5,11 +5,12 @@ excerpt: '👩‍🚀 Primeros pasos de uso de el depurador de DevTools sobre Fl
 description: '👩‍🚀 Primeros pasos de uso de el depurador de DevTools sobre Flutter.'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-01-31 13:34:33
 last_modified_at: 
 thumbnail: https://flutter.dev/assets/tools/devtools/debugger_screenshot-e0e87a8a45952b4c109a24213a0d01143e58fa17384f2a64c951e2d900cd87ca.png
-thumbnail2: https://flutter.dev/assets/tools/devtools/debugger_screenshot-e0e87a8a45952b4c109a24213a0d01143e58fa17384f2a64c951e2d900cd87ca.png
+feature-img: https://flutter.dev/assets/tools/devtools/debugger_screenshot-e0e87a8a45952b4c109a24213a0d01143e58fa17384f2a64c951e2d900cd87ca.png
 tags:
 - Flutter
 - Dart

@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -8,7 +9,7 @@ tags:
 categories:
 - Citas Célebres
 thumbnail: /assets/img/blog/
-thumbnail2: /assets/img/blog/
+feature-img: /assets/img/blog/
 title: '📢 ▷ Las Mejores Frases del Poeta Dejan Stojanovic'
 description: >-
   Citas célebres del arquitecto canadiense Frank Owen Gehry. Motivación, creatividad y trabajo -escribir algo más, usa -

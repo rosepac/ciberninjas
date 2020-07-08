@@ -1,6 +1,7 @@
 ---
 
-author_profile: false
+author: rosepac
+bootstrap: true
 comments: false
 
 layout: splash
@@ -10,8 +11,6 @@ categories:
 - Software
 thumbnail: /assets/img/.webp
 feature-img: /assets/img/.webp
-  image_description: ''
-  image_alt: ''
 title: ''
 description: >-
   .

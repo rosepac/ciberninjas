@@ -4,11 +4,12 @@ title: 'Aprender Todos los Lenguajes de Programación'
 permalink: /lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/lenguajes-programacion/
 published: true
-author_profile: false
-thumbnail: /assets/images/paginas/progmb.webp
+author: rosepac
+bootstrap: true
+thumbnail: /assets/img/paginas/progmb.webp
   overlay_color: "#000"
   overlay_filter: "0.1"
-feature-img: /assets/images/paginas/progmb.webp
+feature-img: /assets/img/paginas/progmb.webp
 #  actions:
 #    - label: "🎓 Cursos"
 #      url: "/cursos-tecnologia/"
@@ -23,7 +24,7 @@ excerpt: "Cómo aprender cada uno de los lenguajes de programación que existen 
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/python/" title="Cómo aprender a programar en Python desde cero para principiantes y recursos para programadores y desarrolladores web"><img src="/assets/images/paginas/python-by-photoartmedia-dbmejle.webp" alt="Aprende a programar a Python y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
+            <a href="/python/" title="Cómo aprender a programar en Python desde cero para principiantes y recursos para programadores y desarrolladores web"><img src="/assets/img/paginas/python-by-photoartmedia-dbmejle.webp" alt="Aprende a programar a Python y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Aprender Python</h2>
@@ -40,7 +41,7 @@ excerpt: "Cómo aprender cada uno de los lenguajes de programación que existen 
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/javascript/" title="Aprende a programar Javascript y todo lo que debes conocer para comenzar a ser un programador profesional"><img src="/assets/images/wallpaper/javascript/javascript-colmena.webp" alt="Aprende a programar Javascript y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
+            <a href="/javascript/" title="Aprende a programar Javascript y todo lo que debes conocer para comenzar a ser un programador profesional"><img src="/assets/img/wallpaper/javascript/javascript-colmena.webp" alt="Aprende a programar Javascript y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Aprender Javascript</h2>
@@ -61,7 +62,7 @@ excerpt: "Cómo aprender cada uno de los lenguajes de programación que existen 
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/bases-datos-recursos/" title="Aprende el lenguaje de bases de datos SQL y todo lo que debes conocer para comenzar a ser un programador profesional"><img src="/assets/images/lenguajes_y_mas_1280x720/sql-logo-fake.webp" alt="Aprende el lenguaje de bases de datos SQL y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
+            <a href="/bases-datos-recursos/" title="Aprende el lenguaje de bases de datos SQL y todo lo que debes conocer para comenzar a ser un programador profesional"><img src="/assets/img/lenguajes_y_mas_1280x720/sql-logo-fake.webp" alt="Aprende el lenguaje de bases de datos SQL y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Aprender SQL</h2>
@@ -78,7 +79,7 @@ excerpt: "Cómo aprender cada uno de los lenguajes de programación que existen 
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/bases-datos-recursos/" title="Aprende Blockchain y todo lo que debes conocer para comenzar a ser un programador profesional"><img src="/assets/images/paginas/blockchain-red.webp" alt="Aprende Blockchain y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
+            <a href="/bases-datos-recursos/" title="Aprende Blockchain y todo lo que debes conocer para comenzar a ser un programador profesional"><img src="/assets/img/paginas/blockchain-red.webp" alt="Aprende Blockchain y todo lo que debes conocer para comenzar a ser un programador profesional"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Aprender Blockchain</h2>

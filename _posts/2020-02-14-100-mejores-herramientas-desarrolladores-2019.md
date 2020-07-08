@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: '▷ Las Más de 100 Mejores Herramientas para Desarrolladores de 2019'
 description: "Qué hay de nuevo en la versión beta 5.2 del lenguaje de programación Swift"
 excerpt: "Qué hay de nuevo en la versión beta 5.2 del lenguaje de programación Swift"
@@ -9,7 +10,7 @@ comments: false
 date: 2020-02-14 15:10:12
 last_modified_at: 
 thumbnail: /assets/img/blog/swift-open-source_2048.webp
-thumbnail2: /assets/img/blog/swift-open-source_2048.webp
+feature-img: /assets/img/blog/swift-open-source_2048.webp
 permalink: /swift-version-beta-5-2/
 canonical_URL: https://ciberninjas.com/swift-version-beta-5-2/
 categories:

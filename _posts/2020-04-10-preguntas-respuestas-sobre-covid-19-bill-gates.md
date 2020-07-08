@@ -15,14 +15,6 @@ tags:
   - Bill Gates
 thumbnail: /assets/img/blog/bill-gates-covid-19-2.webp
 feature-img: /assets/img/blog/bill-gates-covid-19-2.webp
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 Ayer hice una sesión de Reddit [Ask Me Anything](https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/?sort=qa){:target="_blank" rel="nofollow,noreferrer"} en relación al COVID-19. Como de costumbre, los Redditors hicieron muchas preguntas inteligentes y fue una gran oportunidad para tener una discusión basada en hechos sobre esta pandemia y lo que podemos hacer para prevenir la próxima (Y como mencioné en [este intercambio](https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/fkumtd7?utm_source=share&utm_medium=web2x){:target="_blank" rel="nofollow,noreferrer"}, es bueno tener tantas interacciones positivas en un momento tan incierto).

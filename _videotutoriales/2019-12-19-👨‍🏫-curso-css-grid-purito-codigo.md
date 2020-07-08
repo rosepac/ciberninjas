@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🏫 Curso de CSS Grid por Purito Código"
 description: "👩‍🎨 Curso de CSS Grid por Purito Código"
 excerpt: "👩‍🎨 Curso de CSS Grid por Purito Código"

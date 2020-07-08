@@ -5,17 +5,12 @@ excerpt: "🚀 El mejor Chat en español de tecnología, todo el cibermundo en u
 date: 2019-05-15T22:00:00.000+00:00
 last_modified_at: 2019-12-13T15:50:02-01:00
 permalink: /chat-discord/
-thumbnail: "/assets/images/ciberninjas-chat-discord.jpg"
-feature-img: "/assets/images/ciberninjas-chat-discord.jpg"
-  image_description: El mejor chat de programación y tecnología en español que existe en toda la red de Internet, invitación a través de Disboard| Comunicación Ciberninjas
-  image_alt: El mejor chat de programación y tecnología en español que existe en toda la red de Internet, invitación a través de Disboard| Comunicación Ciberninjas
+thumbnail: "/assets/img/ciberninjas-chat-discord.jpg"
+feature-img: "/assets/img/ciberninjas-chat-discord.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-# sidebar:
-# - title: "Menú Principal"
-#   nav: general
 
 ---
 

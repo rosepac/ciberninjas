@@ -1,6 +1,7 @@
 ---
 
-author_profile: false
+author: rosepac
+bootstrap: true
 layout: splash
 title: "▷ Jenkins X: Divulgación, solicitud y búsqueda de ayuda"
 description: "Neha Gupta está agregando soporte para Kustomize en Jenkins X, para habilitar la gestión de configuración nativa de Kubernetes, mientras participa en Outreachy.."
@@ -16,17 +17,6 @@ categories:
 - Distribución Continua
 tags:
 - CD Fundación
-# header:
-#  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-# feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_filter: 0.2
-#   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
-#   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'
-#   caption: "Créditos: Unsplash"
-# toc: false
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 
 ---
 <br/>

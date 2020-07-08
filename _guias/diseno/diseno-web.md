@@ -4,9 +4,10 @@ description: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera
 excerpt: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera página web hasta lograr ser diseñadores web expertos'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
-thumbnail: /assets/images/paginas/diseno-web-unsplash.webp
-feature-img: /assets/images/paginas/diseno-web-unsplash.webp
+thumbnail: /assets/img/paginas/diseno-web-unsplash.webp
+feature-img: /assets/img/paginas/diseno-web-unsplash.webp
 actions:
   - label: "Recursos Diseño Web"
     url: "/diseño-web-recursos/"

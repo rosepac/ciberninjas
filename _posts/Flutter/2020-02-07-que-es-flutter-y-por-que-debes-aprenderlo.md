@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: "🥇 ▷ ¿Qué es el kit de desarrollo multiplataforma Flutter?"
 description: >-
   🚀 Flutter es un framework multiplataforma, tecnología de desarrollo de aplicaciones móviles que se encuentra en crecimiento durante el año 2020.
@@ -11,7 +12,7 @@ comments: false
 date: 2020-02-07 14:44:12
 last_modified_at: 
 thumbnail: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
-thumbnail2: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
+feature-img: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
 permalink: /que-es-flutter-y-por-que-debes-aprenderlo/
 canonical_URL: https://ciberninjas.com/que-es-flutter-y-por-que-debes-aprenderlo/
 

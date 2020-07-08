@@ -13,15 +13,6 @@ tags:
   - Ionic
 thumbnail: /assets/img/blog/capacitor-2-img.webp
 feature-img: /assets/img/blog/capacitor-2-img.webp
-#feature-img: /assets/img/
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 ![🚀 Ionic: Anuncia cambios importantes y presenta Capacitor 2.0. El tiempo de ejecución nativo de Ionic, que va a facilitar la creación de aplicaciones web que se ejecutan en Android, iOS y sobre la web como aplicaciones web progresivas, todo con una única base de código](/assets/img/blog/capacitor-2-img.webp "🚀 Ionic: Anuncia cambios importantes y presenta Capacitor 2.0. El tiempo de ejecución nativo de Ionic, que va a facilitar la creación de aplicaciones web que se ejecutan en Android, iOS y sobre la web como aplicaciones web progresivas, todo con una única base de código")

@@ -5,6 +5,7 @@ title: >
     criptográficos, ahora Tailandia
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-09 07:01:14
 tags:

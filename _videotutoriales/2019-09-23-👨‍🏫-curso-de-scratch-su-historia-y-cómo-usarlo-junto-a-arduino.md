@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F468‍\U0001F3EB Curso de Scratch, su Historia y Cómo usarlo junto a Arduino"
 description: "\U0001F63C Curso de utilización de Arduino junto a Scratch. Introducción, su historia y técnicas de uso paso a paso"
 excerpt: "\U0001F63C Curso de utilización de Arduino junto a Scratch. Introducción, su historia y técnicas de uso paso a paso"

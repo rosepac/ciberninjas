@@ -10,6 +10,7 @@ sort_by: date # (default) title
 sort_order: reverse
 published: true
 author: rosepac
+bootstrap: true
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia

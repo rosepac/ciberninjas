@@ -3,6 +3,7 @@ layout: post
 title: 'Un libro gratis al día, en inglés. Hoy: Python High Performance'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-12-18 04:12:12
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: Cursos de Ofimática gratis en Español
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-02-03 09:02:51
 tags:

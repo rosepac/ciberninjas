@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Historia de entrega continua de Dailymotion con Jenkins, Jenkins X y Tekton"
 description: "Descubre este recurso de organización para el trabajo de la integración continua"
 excerpt: "Vas a encontrarte explicado el concepto de interoperabilidad dentro del mundo CI / CD además del equipo de trabajo sobre el desarrollo del término en sí"
@@ -8,7 +9,7 @@ comments: false
 date: 2020-03-30 19:10:12
 last_modified_at: 
 thumbnail: /assets/img/blog/10-dailymotion.webp
-thumbnail2: /assets/img/blog/10-dailymotion.webp
+feature-img: /assets/img/blog/10-dailymotion.webp
 canonical_URL: https://ciberninjas.com/dailymotin-jenkins-tekton/
 permalink: /dailymotin-jenkins-tekton/
 

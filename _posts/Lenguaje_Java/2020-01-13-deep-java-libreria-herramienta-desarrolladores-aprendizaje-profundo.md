@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻 "
 description: "Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación de proyectos de aprendizaje profundo"
 excerpt: "Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación de proyectos de aprendizaje profundo"
@@ -11,7 +12,7 @@ canonical_URL: /deep-java-libreria-herramienta-desarrolladores-aprendizaje-profu
 categories:
 - Aprendizaje Profundo
 thumbnail: https://i.ibb.co/k0C7sKf/deepjavalibrary.png
-thumbnail2: https://i.ibb.co/k0C7sKf/deepjavalibrary.png
+feature-img: https://i.ibb.co/k0C7sKf/deepjavalibrary.png
 ---
 
 En la conferencia de AWS: Invent 2019, Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la predicción con modelos de aprendizaje profundo.

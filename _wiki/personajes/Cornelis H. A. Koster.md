@@ -10,6 +10,7 @@ toc_icon: user-ninja
 toc_sticky: true
 published: true
 author: rosepac
+bootstrap: true
 permalink: /wiki/cornelis-h-a-koster/
 
 ---

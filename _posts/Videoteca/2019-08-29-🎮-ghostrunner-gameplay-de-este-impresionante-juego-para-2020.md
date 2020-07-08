@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F3AE  Ghostrunner, gameplay de este impresionante juego para 2020"
 description: "\U0001F47B Ghostrunner, gameplay de este impresionante juego para 2020"
 excerpt: "\U0001F47B  Ghostrunner, gameplay de este impresionante juego para 2020"

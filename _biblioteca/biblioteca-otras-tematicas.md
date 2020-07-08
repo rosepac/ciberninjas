@@ -3,14 +3,15 @@
 title: "▷ Los Mejores Libros PDF de Programación de 2019 para Desarrolladores 📚"
 description: "🚀 Biblioteca de PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Biblioteca de Libros PDF Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡100% GRATIS y en ESPAÑOL 💥!"
-author_profile: false
+author: rosepac
+bootstrap: true
 date: 2019-12-13TT12:42:42+01:00
 last_modified_at: 2019-12-13T12:42:42+01:00
 permalink: /biblioteca-otras-tematicas/
 canonical_URL: https://ciberninjas.com/biblioteca-otras-tematicas/
 published: false
-thumbnail: "/assets/images/chico-buscando-libro-biblioteca.jpg"
-feature-img: "/assets/images/chico-buscando-libro-biblioteca.jpg"
+thumbnail: "/assets/img/chico-buscando-libro-biblioteca.jpg"
+feature-img: "/assets/img/chico-buscando-libro-biblioteca.jpg"
 #  actions:
 #    - label: "Black Friday 2019"
 #      url: "/black-friday-amazon/"

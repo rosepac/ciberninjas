@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🎧 Alabama Shakes. Grupo Estadounidense de Blues Rock"
 description: "🎧 Alabama Shakes. Grupo Estadounidense de Blues Rock"
 excerpt: "🎧 Alabama Shakes. Grupo Estadounidense de Blues Rock"

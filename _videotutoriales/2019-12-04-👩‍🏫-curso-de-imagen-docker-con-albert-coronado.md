@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F469‍\U0001F3EB Curso de Creación de una Imagen con Docker con Albert Coronado"
 description: >-
   ▷ Aprende a crear una Imagen de Docker ✌️ Curso impartido por Albert Coronado ⭐️

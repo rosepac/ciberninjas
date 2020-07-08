@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "Ken Thompson"
 description: 'Ken Thompson, por su co-creación, junto a Dennis Ritchie, del sistema operativo UNIX, y por el desarrollo del lenguaje de programación C.'
 excerpt: 'Ken Thompson, por su co-creación, junto a Dennis Ritchie, del sistema operativo UNIX, y por el desarrollo del lenguaje de programación C.'

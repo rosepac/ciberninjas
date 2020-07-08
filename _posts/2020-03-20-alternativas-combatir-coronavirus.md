@@ -14,16 +14,7 @@ tags:
   - Actividades
   - Coronavirus
 thumbnail: /assets/img/blog/stop-coronavirus.webp
-thumbnail2: /assets/img/blog/stop-coronavirus.webp
-#feature-img: /assets/img/
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+feature-img: /assets/img/blog/stop-coronavirus.webp
 ---
 
 No, este artículo no es una cura contra el coronavirus; porque básicamente y por desgracia, no parecer tener una metodología de cura concreta.

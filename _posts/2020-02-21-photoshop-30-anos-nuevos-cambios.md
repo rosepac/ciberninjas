@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Photoshop
@@ -8,7 +9,7 @@ categories:
 - Aplicaciones
 - Inteligencia Artificial
 thumbnail: /assets/img/blog/adobe-photoshop-1.webp
-thumbnail2: /assets/img/blog/adobe-photoshop-1.webp
+feature-img: /assets/img/blog/adobe-photoshop-1.webp
 title: '🔥 ▷ Adobe Photoshop cumple 30 años, celebrándolo con nuevas funciones basadas en la Inteligencia Artificial'
 description: >-
   El software de diseño y fotografía Photoshop crea nuevas funciones basadas en la inteligencia artificial para celebrar su aniversario de su 30 cumpleaños

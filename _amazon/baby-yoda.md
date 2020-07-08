@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "Regalos de las Guerras de las Galaxias, Juguetes del adorable Bebe Yoda"
 description: "Regalos de las Guerras de las Galaxias, Juguetes del adorable Bebe Yoda"
 excerpt: "Regalos de las Guerras de las Galaxias, Juguetes del adorable Bebe Yoda"

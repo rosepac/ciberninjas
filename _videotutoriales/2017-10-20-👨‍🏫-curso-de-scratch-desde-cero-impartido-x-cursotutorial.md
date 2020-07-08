@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🏫 Curso de Scratch desde Cero impartido x CursoTutorial"
 description: "😼 Curso de Scratch desde Cero impartido x CursoTutorial"
 excerpt: "😼 Curso de Scratch desde Cero impartido x CursoTutorial"

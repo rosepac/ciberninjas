@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "Juguetes de Frozen 2, tu Mejor Regalo por Navidad ⛄"
 description: "👸 Ofertas de juguetes en Black Friday."
 excerpt: "👸 Ofertas de juguetes en Black Friday."

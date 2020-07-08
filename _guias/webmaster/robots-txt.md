@@ -9,8 +9,9 @@ last_modified_at:
 permalink: /robots-txt/
 canonical_URL: https://ciberninjas.com/robots-txt/
 author: rosepac
-thumbnail: "/assets/images/robots-txt-lupa-ciberninjas.webp"
-feature-img: "/assets/images/robots-txt-lupa-ciberninjas.webp"
+bootstrap: true
+thumbnail: "/assets/img/robots-txt-lupa-ciberninjas.webp"
+feature-img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

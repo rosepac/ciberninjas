@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🏫 Curso de Adobe Lightroom CC 2019 con Kike Arnaiz"
 description: "📸 Curso de Adobe Lightroom CC 2019 con Kike Arnaiz"
 excerpt: "📸 Curso de Adobe Lightroom CC 2019 con Kike Arnaiz"

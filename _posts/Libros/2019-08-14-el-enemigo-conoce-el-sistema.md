@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🔐 El Enemigo Conoce el Sistema"
 comments: false
 date: 2019-08-14 20:24:54

@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "😻 TITULO"
 description: >-
   Las mejores ofertas que existen alrededor de Internet.
@@ -15,11 +16,7 @@ tags:
 categories:
   - Catálogo
 header:
-feature-img: '/assets/images/*.jpg'
-  overlay_filter: 0.2
-  image_description: 'DESCRIPCION | Ciberninjas'
-  image_alt: 'DESCRIPCION | Ciberninjas'
-  caption: "**Créditos**: Creación propia Ciberninjas"
+feature-img: '/assets/img/*.jpg'
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

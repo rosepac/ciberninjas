@@ -5,6 +5,7 @@ title: >
     móviles
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-03-25 12:03:06
 tags: [ ]

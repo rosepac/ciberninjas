@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 title: "🥇 ▷ ¿Cómo aprender Flutter en 2020?"
 description: >-
   ✅ Flutter es una tecnología que es tendencia este año. Este artículo sugiere algunas formas gratuitas para aprender a desarrollar aplicaciones iOS y Android con Flutter.
@@ -11,7 +12,7 @@ comments: false
 date: 2020-02-07 14:50:12
 last_modified_at: 
 thumbnail: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
-thumbnail2: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
+feature-img: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
 permalink: /como-aprender-flutter/
 canonical_URL: https://ciberninjas.com/como-aprender-flutter/
 

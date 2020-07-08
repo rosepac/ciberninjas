@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🧠 Kim Peek: El Auténtico Rain Man"
 description: "🧠 Kim Peek: El Auténtico Rain Man"
 excerpt: "🧠 Kim Peek: El Auténtico Rain Man"

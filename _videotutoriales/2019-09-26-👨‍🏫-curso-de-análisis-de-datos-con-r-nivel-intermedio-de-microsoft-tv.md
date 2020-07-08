@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F468‍\U0001F3EB Curso de Análisis de Datos con R Nivel intermedio de Microsoft TV"
 description: "\U0001F9E0 Curso de Análisis de Datos con R Nivel intermedio de Microsoft TV"
 excerpt: "\U0001F9E0 Curso de Análisis de Datos con R Nivel intermedio de Microsoft TV"

@@ -5,6 +5,7 @@ title: >
     ¿Qué tan rápido lo hace?
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-22 06:01:35
 tags:

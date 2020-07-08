@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🔥 Las mejores ofertas de los más esperados videojuegos de 2020"
 description: "Las ofertas de juegos más espectaculares y novedososos para 2020 junto a las mejores videoconsolas y ordenadores para disfrutar de ellos"
 excerpt: "Las ofertas de juegos más espectaculares y novedososos para 2020 junto a las mejores videoconsolas y ordenadores para disfrutar de ellos"

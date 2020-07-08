@@ -3,6 +3,7 @@ layout: post
 title: 'MOSS: programa de premios a proyectos de código abierto; revisión del año 2018'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-06 02:01:26
 tags:

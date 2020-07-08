@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 comments: false
 
 layout: splash
@@ -10,8 +11,6 @@ categories:
 - Lenguajes de Programación
 thumbnail: /assets/img/lenguajes-vs/java-vs-python.webp
 feature-img: /assets/img/lenguajes-vs/java-vs-python.webp
-  image_description: 'Comparativa e introducción entre los lenguajes de programación: Javascript y Python.'
-  image_alt: 'Comparativa e introducción entre los lenguajes de programación: Javascript y Python.'
 title: 'Java vs Python: ¿Cuál es su diferencia?'
 description: >-
   'Comparativa e introducción entre los lenguajes de programación: Javascript y Python.'

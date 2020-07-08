@@ -1,13 +1,14 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - 
 categories:
 - Java
 thumbnail: /assets/img/blog/
-thumbnail2: /assets/img/blog/
+feature-img: /assets/img/blog/
 title: '🥇 ▷ ¿Por qué cambie de Mac a Linux?'
 description: >-
   '💻 Breve reflexión sobre el cambio positivo de sistema operativo como iOS hacia Linux'

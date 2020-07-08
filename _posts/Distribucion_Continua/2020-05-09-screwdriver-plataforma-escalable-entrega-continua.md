@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: '🥇 ▷ Screwdriver: Una plataforma de construcción escalable para entrega continua'
 description: "La plataforma de compilación de código abierto surgió de la búsqueda de Yahoo para encontrar una plataforma CI / CD para satisfacer sus crecientes requisitos de desarrollador."
 excerpt: "La plataforma de compilación de código abierto surgió de la búsqueda de Yahoo para encontrar una plataforma CI / CD para satisfacer sus crecientes requisitos de desarrollador."
@@ -8,7 +9,7 @@ comments: false
 date: 2020-05-09 10:20:12
 last_modified_at: 
 thumbnail: /assets/img/blog/10-captura-destornillador.webp
-thumbnail2: /assets/img/blog/10-captura-destornillador.webp
+feature-img: /assets/img/blog/10-captura-destornillador.webp
 permalink: /screwdriver-plataforma-escalable-entrega-continua/
 canonical_URL: https://ciberninjas.com/screwdriver-plataforma-escalable-entrega-continua/
 

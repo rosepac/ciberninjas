@@ -6,12 +6,13 @@ excerpt: "📁 Aprende desde cero todo lo que debes saber"
 published: true
 last_modified_at: 
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-02-07T19:10:00
 permalink: /bases-datos/
 canonical_URL: https://ciberninjas.com/bases-datos/
-thumbnail: "/assets/images/paginas/sql-imagen-ciberninjasx1280.webp"
-feature-img: "/assets/images/paginas/sql-imagen-ciberninjasx1280.webp"
+thumbnail: "/assets/img/paginas/sql-imagen-ciberninjasx1280.webp"
+feature-img: "/assets/img/paginas/sql-imagen-ciberninjasx1280.webp"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

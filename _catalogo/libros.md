@@ -5,15 +5,12 @@ excerpt: "Catálogo Completo: Lista de Libros Más Recomendados de Tecnología &
 published: true
 date: 2019-09-23 22:10:09
 last_modified_at: 2019-12-10
-author_profile: false
+author: rosepac
+bootstrap: true
 permalink: /libros/
 canonical_URL: https://ciberninjas.com/libros/
 thumbnail: https://i.ibb.co/BGJ9jjL/libros-mariposa.gif
 feature-img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
-  overlay_filter: 0.2
-  image_description: 'Los mejores libros de aprendizaje tecnológico | Ciberninjas'
-  image_alt: 'Los mejores libros de aprendizaje tecnológico | Ciberninjas'
-  caption: "Créditos: Unsplash, de Dominio Público"
 sidebar:
   nav: libros
 ---

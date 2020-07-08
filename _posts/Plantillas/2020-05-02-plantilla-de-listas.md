@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -8,7 +9,7 @@ tags:
 categories:
 - Sistemas Operativos
 thumbnail: /assets/img/blog/marzo-hacking-wallpaper-pc-so
-thumbnail2: /assets/img/blog/marzo-hacking-wallpaper-pc-so
+feature-img: /assets/img/blog/marzo-hacking-wallpaper-pc-so
 title: '🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2020'
 description: >-
   🔥 Lista de Sistemas Operativos Gratuitos para Hacker en 2020

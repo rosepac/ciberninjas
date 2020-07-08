@@ -16,14 +16,6 @@ tags:
   - Errores de Software
 thumbnail: /assets/img/blog/covid-19-usa.webp
 feature-img: /assets/img/blog/covid-19-usa.webp
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 Has perdido tu trabajo y ahora te enfrentas a un sistema de desempleo obsoleto y lento que parece que fue escrito en la década de 1950. En realidad, es más que un sentimiento. Si estás en Nueva Jersey, Nueva York o Connecticut, tu sistema de desempleo **fue escrito en el lenguaje de programación Cobol, hace 60 años**.

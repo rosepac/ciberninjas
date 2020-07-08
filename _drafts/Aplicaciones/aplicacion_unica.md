@@ -1,6 +1,7 @@
 ---
 title: "📱 TITULO"
 author: rosepac
+bootstrap: true
 description: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 excerpt: 'ICONO-TEMATICA RESUMEN, por AUTOR'
 date: FECHA
@@ -11,14 +12,10 @@ categories:
 # Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
 tags:
 - 
-header:
 feature-img: /asets/images/*.jpg
-  overlay_filter: "0.2"
-  image_description: "DESCRIPCION IMAGEN | Montaje creado por Ciberninjas"
-  caption: "**Créditos**: Captura creada por Ciberninjas"
-  actions:
-    - label: "DESCARGAR NOMBRE-PROYECTO"
-      url: "ENLACE-PROYECTO"
+actions:
+  - label: "DESCARGAR NOMBRE-PROYECTO"
+    url: "ENLACE-PROYECTO"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

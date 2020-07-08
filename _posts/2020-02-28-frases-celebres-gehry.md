@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 title: '📢 ▷ Las Mejores Frases Motivadoras del Reconocido Arquitecto Frank Owen Gehry'
 tags:
@@ -8,7 +9,7 @@ tags:
 categories:
 - Citas Célebres
 thumbnail: /assets/img/blog/geotagged-las-vegas-pxhere.com_2048.webp
-thumbnail2: /assets/img/blog/geotagged-las-vegas-pxhere.com_2048.webp
+feature-img: /assets/img/blog/geotagged-las-vegas-pxhere.com_2048.webp
 description: >-
   Citas célebres del arquitecto canadiense Frank Owen Gehry. Motivación, creatividad y trabajo a raudales. De este creador del Museo Guggenhein entre otros edificios característicos
 excerpt: >-

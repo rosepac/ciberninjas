@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "🥇 ▷ Los libros favoritos y más recomendados por Elon Musk, para el día del libro 2020"
 description: 'Las lecturas de inspiración perfectas para llegar a ser uno de los inventores y emprendedores más importantes del Siglo XXI.'
 excerpt: 'Las lecturas de inspiración perfectas para llegar a ser uno de los inventores y emprendedores más importantes del Siglo XXI.'

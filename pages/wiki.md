@@ -1,6 +1,7 @@
 ---
 layout: page
 author: rosepac
+bootstrap: true
 title: "WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas"
 description: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
 excerpt: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
@@ -14,7 +15,8 @@ toc_icon: user-ninja
 toc_sticky: true
 sort_by: date
 sort_order: reverse
-author_profile: false
+author: rosepac
+bootstrap: true
 # sidebar:
 # - title: "Menú Principal"
 #   nav: general

@@ -5,11 +5,12 @@ excerpt: '👩‍🚀 Primeros pasos de uso del inspector de DevTools sobre Flut
 description: '👩‍🚀 Primeros pasos de uso del inspector de DevTools sobre Flutter.'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-01-31 12:32:33
 last_modified_at: 
 thumbnail: https://flutter.dev/assets/tools/devtools/inspector_screenshot-20506a87233698df68d6ba223034f3e95b3e4e11773da7d748a3c6fdd6ca8bf8.png
-thumbnail2: https://flutter.dev/assets/tools/devtools/inspector_screenshot-20506a87233698df68d6ba223034f3e95b3e4e11773da7d748a3c6fdd6ca8bf8.png
+feature-img: https://flutter.dev/assets/tools/devtools/inspector_screenshot-20506a87233698df68d6ba223034f3e95b3e4e11773da7d748a3c6fdd6ca8bf8.png
 tags:
 - Flutter
 - Dart

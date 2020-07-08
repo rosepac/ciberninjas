@@ -25,7 +25,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 ## 👩‍🎓 Guías Básicas
 
 <figure>
-    <img src="/assets/images/eff/eff-guias-basicas.jpg" alt="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas" title="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas">
+    <img src="/assets/img/eff/eff-guias-basicas.jpg" alt="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas" title="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas">
 </figure>
 
 👉 ¿Por qué son importantes los metadatos? ➛ [Entrar](https://kutt.it/eff-ImportanteMetadatos "Por qué los metadatos son importantes"){:target="_blank" rel="nofollow,noreferrer"}
@@ -63,7 +63,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 ## 🔧 Guías de Herramientas
 
 <figure>
-    <img src="/assets/images/eff/eff-guias-herramientas.jpg" alt="Aprende a manejar las herramientas más útiles y necesarias para tu autodefensa personal digital \ Visto en Ciberninjas" title="Aprende a manejar las herramientas más útiles y necesarias para tu autodefensa personal digital \ Visto en Ciberninjas">
+    <img src="/assets/img/eff/eff-guias-herramientas.jpg" alt="Aprende a manejar las herramientas más útiles y necesarias para tu autodefensa personal digital \ Visto en Ciberninjas" title="Aprende a manejar las herramientas más útiles y necesarias para tu autodefensa personal digital \ Visto en Ciberninjas">
 </figure>
 
 👉 ¿Cómo evitar los ataques de phishing o suplantación de identidad? ➛ [Entrar](https://kutt.it/eff-EvitarAtaquesPhising "Cómo evitar los ataques de phishing o suplantación de identidad"){:target="_blank" rel="nofollow,noreferrer"}

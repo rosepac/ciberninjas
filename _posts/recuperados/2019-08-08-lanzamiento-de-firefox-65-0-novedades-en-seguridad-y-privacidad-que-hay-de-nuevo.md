@@ -5,6 +5,7 @@ title: >
     privacidad
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-29 06:01:30
 tags:

@@ -3,7 +3,8 @@
 title: "🔨 ▷ Los Mejores Recursos para Impresoras 3D"
 description: "🔨 ▷ Los Mejores Recursos para Impresoras 3D Gratis"
 excerpt: "🔨 ▷ Los Mejores Recursos para Impresoras 3D Gratis"
-author_profile: false
+author: rosepac
+bootstrap: true
 published: true
 date: 2019-12-14T13:32:42+01:00
 last_modified_at: 2019-12-14T16:42:42+01:00
@@ -12,7 +13,7 @@ canonical_URL: https://ciberninjas.com/impresoras-3d-recursos/
 thumbnail: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
 feature-img: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
 # image: 
-#   path: &image /assets/images/imac-glitch-feature.jpg
+#   path: &image /assets/img/imac-glitch-feature.jpg
 #   width: 1024
 #   height: 512
 #   feature: *image

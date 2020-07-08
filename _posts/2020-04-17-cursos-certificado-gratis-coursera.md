@@ -13,15 +13,6 @@ tags:
   - Coursera
 thumbnail: /assets/img/blog/coursera-1.webp
 feature-img: /assets/img/blog/coursera-1.webp
-#feature-img: /assets/img/
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 El proveedor de MOOC (cursos a distancia) más grande del mundo, Coursera, [anunció](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/){:target="_blank" rel="nofollow,noreferrer"} que ofrecerá 100 cursos con certificado gratuito en respuesta a la crisis del coronavirus / Covid-19.

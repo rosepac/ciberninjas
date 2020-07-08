@@ -2,7 +2,8 @@
 title: 👨‍💻 ▷ Reflexiones sobre la programación y el software en 2020
 description: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF y ebook en nuestro catálogo,incluso gratis 😜."
 excerpt: "📌 Aprende a programar y formate con múltiples lenguajes y frameworks. Los mejores libros PDF y ebooks en nuestro catálogo, incluso gratis 😜."
-author_profile: false
+author: rosepac
+bootstrap: true
 published: false
 comments: false
 date: 2018-03-01

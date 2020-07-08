@@ -12,23 +12,11 @@ published: true
 # toc_sticky: true
 sort_by: title
 sort_order: reverse
-author_profile: false
+author: rosepac
+bootstrap: true
 entries_layout: grid
-
-# sidebar:
-# - title: "Menú Principal"
-#   nav: general
-thumbnail: /assets/images/blog/reloj-hoy.webp
-  overlay_filter: "0.2"
-feature-img: /assets/images/blog/reloj-hoy.webp
-  image_description: Los eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc.
-  image_alt: Los eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc.
-#  actions:
-#    - label: "🎓 Cursos"
-#      url: "/cursos-tecnologia/"
-#    - label: "📖 Libros"
-#      url: "/biblioteca-de-programacion-y-tecnologia/"
-#  caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
+thumbnail: /assets/img/blog/reloj-hoy.webp
+feature-img: /assets/img/blog/reloj-hoy.webp
 ---
 
 Esta página se encarga de mostrarte todos los eventos de tecnología y en habla hispana para los próximos días, con el objetivo de ofrecer a todos los amantes de la tecnología. Si deseas participar y agregar algún evento, solamente informa del mismo a: [rosepac21@gmail.com](mailto:rosepac21@gmail.com "Correo electrónico del Webmaster"){:target="_blank"}. Esta página se actualiza a diario.. 🤞

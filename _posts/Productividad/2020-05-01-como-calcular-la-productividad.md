@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -8,7 +9,7 @@ tags:
 categories:
 - Productividad
 thumbnail: /assets/img/blog/calcular-productividad.webp
-thumbnail2: /assets/img/blog/calcular-productividad.webp
+feature-img: /assets/img/blog/calcular-productividad.webp
 title: '💼 ▷ ¿Cómo calcular la productividad?'
 description: >-
   Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?

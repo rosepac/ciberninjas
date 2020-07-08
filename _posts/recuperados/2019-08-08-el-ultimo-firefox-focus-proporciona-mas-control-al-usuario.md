@@ -3,6 +3,7 @@ layout: post
 title: El último Firefox Focus proporciona más control al usuario
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-09 12:01:48
 tags:

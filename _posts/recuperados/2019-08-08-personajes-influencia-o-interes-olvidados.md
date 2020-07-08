@@ -5,6 +5,7 @@ title: >
     pensamientos
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-02-02 09:02:22
 tags: [ ]

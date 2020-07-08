@@ -7,11 +7,6 @@ date: 2019-10-15 11:00:00 +0200
 last_modified_at: 2019-10-15 13:46:00 +0200
 permalink: /el-mejor-listado-programas-codigo-abierto/
 published: false
-# header:
-#   image: /assets/images/jekyll-blog.jpg
-#   image_description: 'Jekyll, generador de sitios estáticos | Ciberninjas'
-#   caption: >-
-#     **Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja

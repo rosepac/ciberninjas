@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "🥇 ▷ Las Mejores Ofertas de Componentes para Ordenadores de 2020 🖥"
 description: "Las mejores piezas, calidad / precio, necesarias para mejorar tu PC de sobremesa y lograr convertirlo en un auténtico cohete"
 excerpt: "Las mejores piezas, calidad / precio, necesarias para mejorar tu PC de sobremesa y lograr convertirlo en un auténtico cohete"

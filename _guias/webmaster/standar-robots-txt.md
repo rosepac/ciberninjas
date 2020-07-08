@@ -5,12 +5,13 @@ excerpt: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por
 published: true
 comments: false
 author: rosepac
+bootstrap: true
 date: 2020-03-10
 last_modified_at: 
 permalink: /standar-original-robots-txt/
 canonical_URL: https://ciberninjas.com/standar-original-robots-txt/
-thumbnail: "/assets/images/robots-txt-lupa-ciberninjas.webp"
-feature-img: "/assets/images/robots-txt-lupa-ciberninjas.webp"
+thumbnail: "/assets/img/robots-txt-lupa-ciberninjas.webp"
+feature-img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

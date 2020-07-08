@@ -7,6 +7,7 @@ date: 2019-08-28 09:07:07
 last_modified_at: 2020-02-18T06:10:42-05:00
 published: true
 author: rosepac
+bootstrap: true
 permalink: /wiki/ciborg/
 
 ---

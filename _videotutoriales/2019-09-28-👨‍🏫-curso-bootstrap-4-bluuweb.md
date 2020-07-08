@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🏫 Curso de Bootstrap 4 por Bluuweb"
 description: "👩‍🎨 Curso de Bootstrap 4 por Bluuweb"
 excerpt: "👩‍🎨 Curso de Creación de Bootstrap 4 por Bluuweb"

@@ -15,15 +15,6 @@ tags:
   - Falcon
 thumbnail: /assets/img/blog/falcon-logo-by-plotly-stripe.webp
 feature-img: /assets/img/blog/falcon-logo-by-plotly-stripe.webp
-#feature-img: /assets/img/
-#  overlay_filter: '0.2'
-#  image_description: >-
-#  caption: >-
-#    **Créditos**: Foto de [Redd Angelo](https://unsplash.com/photos/9o8YdYGTT64) en [Unsplash](https://unsplash.com/@reddangelo)
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 ![Falcon: Genial Editor SQL con Visualización de Datos, gratuito y código abierto](/assets/img/blog/falcon-logo-by-plotly-stripe.webp "Falcon: Genial Editor SQL con Visualización de Datos, gratuito y código abierto")

@@ -5,12 +5,13 @@ excerpt: "Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una
 date: 2019-05-16 09:25:00 +0200
 last_modified_at: 
 layout: splash
-author_profile: false
+author: rosepac
+bootstrap: true
 permalink: /hirens-bootcd-pe/
 canonical_URL: https://ciberninjas.com/hirens-bootcd-pe/
 comments: false
-thumbnail: "/assets/images/paginas/Hirens-Boot-CD.webp"
-feature-img: "/assets/images/paginas/Hirens-Boot-CD.webp"
+thumbnail: "/assets/img/paginas/Hirens-Boot-CD.webp"
+feature-img: "/assets/img/paginas/Hirens-Boot-CD.webp"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

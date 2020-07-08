@@ -13,23 +13,15 @@ published: true
 # toc_sticky: true
 sort_by: title
 sort_order: reverse
-author_profile: false
+author: rosepac
+bootstrap: true
 entries_layout: grid
 
 # sidebar:
 # - title: "Menú Principal"
 #   nav: general
-thumbnail: /assets/images/paginas/tecnologia-noticias.webp
-  overlay_filter: "0.2"
-feature-img: /assets/images/paginas/tecnologia-noticias.webp
-  image_description: Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter en las que se recogen todas las cuentas de mayor importancia de amplios campos de la informática | Visto en Ciberninjas
-  image_alt: Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter en las que se recogen todas las cuentas de mayor importancia de amplios campos de la informática | Visto en Ciberninjas
-#  actions:
-#    - label: "🎓 Cursos"
-#      url: "/cursos-tecnologia/"
-#    - label: "📖 Libros"
-#      url: "/biblioteca-de-programacion-y-tecnologia/"
-#  caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
+thumbnail: /assets/img/paginas/tecnologia-noticias.webp
+feature-img: /assets/img/paginas/tecnologia-noticias.webp
 ---
 
 En estas listas se intenta recoger las cuentas tecnológicas que se consideran de mayor importancia de amplios campos de la informática.

@@ -4,6 +4,7 @@ description: '📰 🐍 El Mejor Canal de Noticias sobre Python en Directo, las 
 excerpt: '📰 🐍 El Mejor Canal de Noticias sobre Python en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Lenguaje de Programación Python'
 published: true
 author: rosepac
+bootstrap: true
 comments: false
 date: 2020-01-07 15:20:18
 last_modified_at: 2020-01-09

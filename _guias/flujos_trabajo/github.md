@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "\U0001F468‍\U0001F4BB ▷ Cómo aprender todo sobre Git y Github"
 description: "\U0001F468‍\U0001F4BB ▷ Cómo aprender todo sobre Git y Github"
 excerpt: "\U0001F468‍\U0001F4BB ▷ Cómo aprender todo sobre Git y Github"
@@ -9,9 +10,6 @@ permalink: /github-git/
 published: false
 thumbnail: https://i.ibb.co/7Jkb16t/git-github-logos-min.jpg
 feature-img: https://i.ibb.co/7Jkb16t/git-github-logos-min.jpg
-  image_description: 'Git y Github | Ciberninjas'
-#   caption: >-
-#     **Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia
 toc: true
 toc_label: Contenidos
 toc_icon: user-ninja

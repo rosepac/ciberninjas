@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "▷ KeyV2: Biblioteca de teclas mecánicas paramétricas"
 description: "Esta biblioteca es una biblioteca de construcción de teclados y teclados para teclados mecánicos, escrita en OpenSCAD."
 excerpt: "Esta biblioteca es una biblioteca de construcción de teclados y teclados para teclados mecánicos, escrita en OpenSCAD."

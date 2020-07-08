@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -8,7 +9,7 @@ tags:
 categories:
 - Lenguajes Programación
 thumbnail: /assets/img/blog/javascript-6.webp
-thumbnail2: /assets/img/blog/javascript-6.webp
+feature-img: /assets/img/blog/javascript-6.webp
 title: '🚀 ▷ Introducción a las nuevas características de Javascript 6'
 description: >-
   JavaScript ES6 trae una nueva sintaxis y nuevas características increíbles para hacer que su código sea más moderno y más legible. 

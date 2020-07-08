@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🔐 El Arte de la Invisibilidad"
 comments: false
 date: 2019-08-17 10:57:30

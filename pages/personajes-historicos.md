@@ -1,6 +1,7 @@
 ---
 layout: page
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "Personajes Históricos en la Historia de las Computadoras"
 description: '🏛 Los personajes históricos más importantes en la historia de la creación de las computadoras'
 excerpt: '🏛 Los personajes históricos más importantes en la historia de la creación de las computadoras'
@@ -14,6 +15,7 @@ sort_order: reverse
 entries_layout: grid
 published: true
 # author: rosepac
+bootstrap: true
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja

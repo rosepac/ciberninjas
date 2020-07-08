@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: '▷ Global 500: Informe Anual sobre las Marcas Más Valiosas del Mundo de la Tecnología en 2020'
 description: "Informes que proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor global de las marcas tecnológicas más valiosas"
 excerpt: "Informes que proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor global de las marcas tecnológicas más valiosas"
@@ -8,7 +9,7 @@ comments: false
 date: 2020-02-01 12:10:12
 last_modified_at: 
 thumbnail: https://i.ibb.co/98gzyBQ/image.jpg
-thumbnail2: https://i.ibb.co/98gzyBQ/image.jpg
+feature-img: https://i.ibb.co/98gzyBQ/image.jpg
 permalink: /informe-anual-de-marcas-mas-valiosas/
 canonical_URL: https://ciberninjas.com/informe-anual-de-marcas-mas-valiosas/
 categories:

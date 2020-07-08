@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 
 tags:
@@ -9,7 +10,7 @@ tags:
 categories:
 - Software
 thumbnail: /assets/img/blog/captura-asistencia-rapida-2.webp
-thumbnail2: /assets/img/blog/captura-asistencia-rapida-2.webp
+feature-img: /assets/img/blog/captura-asistencia-rapida-2.webp
 title: '💻 ▷ Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida de Windows 10'
 description: >-
   Olvídate de TeamViewer, el programa de Asistencia Rápida pasa a ser la mejor opción para ofrecer ayuda a tus amigos o familiares; entre dos sistemas operativos de Windows 10.

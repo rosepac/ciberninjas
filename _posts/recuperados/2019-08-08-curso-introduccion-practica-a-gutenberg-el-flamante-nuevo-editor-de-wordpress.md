@@ -5,6 +5,7 @@ title: >
     editor de Wordpress
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-12-19 12:12:45
 tags:

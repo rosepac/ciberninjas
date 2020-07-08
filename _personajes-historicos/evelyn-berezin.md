@@ -8,14 +8,14 @@ published: true
 permalink: /personajes-historicos/evelyn-berezin/
 canonical_URL: https://computerhistory.org/profile/evelyn-berezin/
 
-thumbnail: /assets/images/personajes-historicos/2015_evelyn_berezin.webp
+thumbnail: /assets/img/personajes-historicos/2015_evelyn_berezin.webp
 # sidebar:
 # - title: "Historia Computadora"
 #   nav: historia
 
 ---
 
-<img src="/assets/images/personajes-historicos/2015_evelyn_berezin.webp" width="200px" high="250px" alt="Evelyn Berezin" title="Evelyn Berezin">
+<img src="/assets/img/personajes-historicos/2015_evelyn_berezin.webp" width="200px" high="250px" alt="Evelyn Berezin" title="Evelyn Berezin">
 
 ## **Biografía de Evelyn Berezin**
 

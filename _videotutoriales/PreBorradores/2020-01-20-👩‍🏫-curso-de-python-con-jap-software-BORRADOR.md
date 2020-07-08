@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "\U0001F469‍\U0001F3EB Curso de Python con Jap Software"
 description: >-
   ▷ Aprender a programar Python ✌️ Con el curso impartido por Jap Software

@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 # title: "▷ Los Mejores Descuentos del Prime Day 2020 💥"
 # description: "♥ Prime Day Amazon 2020 🔥 todas las mejores ofertas."
 # excerpt: "♥ Prime Day Amazon 2020 🔥 todas las mejores ofertas."
@@ -12,7 +13,7 @@ published: true
 comments: false
 date: 2020-09-01 10:30:00 +0200
 thumbnail: https://i.ibb.co/0rXN63g/amazon-prime-day.gif
-feature-img: /assets/images/ciberninjas-prime-day.jpg
+feature-img: /assets/img/ciberninjas-prime-day.jpg
 actions:
   - label: "Black Friday 2020"
     url: "/black-friday-amazon/"

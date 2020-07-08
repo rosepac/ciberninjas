@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "🔝 Las Mejores Redes Sociales y Servicios de Streaming"
 description: "💱 Las Mejores Redes Sociales y Servicios de Streaming"
 excerpt: "💱 Las Mejores Redes Sociales y Servicios de Streaming"

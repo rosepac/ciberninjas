@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🏫 Posicionamiento Web y SEO - Herramientas Técnicas que Merecen la Pena"
 description: "🚀 Posicionamiento Web y SEO - Herramientas Técnicas que Merecen la Pena"
 excerpt: "🚀 Posicionamiento Web y SEO - Herramientas Técnicas que Merecen la Pena"

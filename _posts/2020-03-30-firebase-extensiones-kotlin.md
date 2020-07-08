@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Firebase
@@ -9,7 +10,7 @@ tags:
 categories:
 - Android
 thumbnail: /assets/img/blog/firebase-kotlin-1.webp
-thumbnail2: /assets/img/blog/firebase-kotlin-1.webp
+feature-img: /assets/img/blog/firebase-kotlin-1.webp
 title: '🚀 ▷ Lanzamiento de las extensiones de Firebase para Kotlin'
 description: >-
   'Se anuncia que están disponibles las bibliotecas de KTX y se comienza a recomendar para todos los desarrolladores de Firebase que se use Kotlin en sus aplicaciones de Android.'

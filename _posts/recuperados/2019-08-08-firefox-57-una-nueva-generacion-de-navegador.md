@@ -3,6 +3,7 @@ layout: post
 title: Firefox 57, una nueva generación de navegador
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2017-09-05 03:09:31
 tags:

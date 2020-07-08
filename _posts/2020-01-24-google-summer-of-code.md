@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "▷ ¿Qué es Google Summer of Code?"
 description: "Información sobre el programa de Google Summer of Code, similar a un campamento de verano para la programación, el mentoring y la propulsión del código abierto organizado por Google."
 excerpt: "Información sobre el programa de Google Summer of Code, similar a un campamento de verano para la programación, el mentoring y la propulsión del código abierto organizado por Google."
@@ -8,7 +9,7 @@ comments: false
 date: 2020-06-09 17:10:12
 last_modified_at: 
 thumbnail: /assets/img/blog/google-summer-code.webp
-thumbnail2: /assets/img/blog/google-summer-code.webp
+feature-img: /assets/img/blog/google-summer-code.webp
 canonical_URL: /que-es-google-summer-of-code/
 categories:
 - Google

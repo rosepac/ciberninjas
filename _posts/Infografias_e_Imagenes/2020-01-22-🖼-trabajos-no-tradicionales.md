@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🎨 ¿Por qué no necesitas un trabajo tradicional para ganar dinero?"
 description: "\U0001F3A8 150 Aplicaciones excelentes desde las que realizar tu trabajo bajo una situación diferente"
 excerpt: "\U0001F3A8 150 Aplicaciones excelentes desde las que realizar tu trabajo bajo una situación diferente"
@@ -15,12 +16,9 @@ categories:
   - Imagen Negocios
 thumbnail: https://i.ibb.co/vscwB2J/56c8474c-how-to-earn-money-without-traditional-job-3-compressed.png
 feature-img: https://i.ibb.co/vscwB2J/56c8474c-how-to-earn-money-without-traditional-job-3-compressed.png
-  image_description: "Infografía que te muestra todas las aplicaciones que existen para realizar trabajos no convencionales a través de las nuevas tecnologías | Visto en Ciberninjas"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Créditos: **TitleMax**"
-  actions:
-    - label: "📸 VER ÁLBUM"
-      url: "https://ibb.co/album/nKHC1F"
+actions:
+  - label: "📸 VER ÁLBUM"
+    url: "https://ibb.co/album/nKHC1F"
 sidebar:
   - title: "👨‍🎨 Infografías"
     nav: infog

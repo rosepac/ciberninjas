@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "▷ ¿Qué es la interoperabilidad dentro de la distribución continua?"
 description: "Vas a encontrarte explicado el concepto de interoperabilidad dentro del mundo CI / CD además del equipo de trabajo sobre el desarrollo del término en sí"
 excerpt: "Vas a encontrarte explicado el concepto de interoperabilidad dentro del mundo CI / CD además del equipo de trabajo sobre el desarrollo del término en sí"

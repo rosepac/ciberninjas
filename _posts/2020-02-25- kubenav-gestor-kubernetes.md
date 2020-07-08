@@ -1,6 +1,7 @@
 ---
 
 author: rosepac
+bootstrap: true
 comments: false
 tags:
 - Kubernetes
@@ -8,7 +9,7 @@ tags:
 categories:
 - Despliegue
 thumbnail: /assets/img/blog/kubenav-gestor-kubernetes.webp
-thumbnail2: /assets/img/blog/kubenav-gestor-kubernetes.webp
+feature-img: /assets/img/blog/kubenav-gestor-kubernetes.webp
 title: '🚀 ▷ '
 description: >-
   ''

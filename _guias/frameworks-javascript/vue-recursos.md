@@ -7,10 +7,6 @@ comments: false
 date: 2018-10-23
 last_modified_at: 
 permalink: /hacker-news/
-# header:
-#   image: "/assets/images/chocolatey-ciberninjas.jpg"
-#   image_description: Vamos a estudiar los más interesantes lenguajes de programación y frameworks de 2019
-#   caption: "**Créditos**: Creación Propia"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

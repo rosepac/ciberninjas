@@ -3,6 +3,7 @@ layout: post
 title: 'Diario #1: Despertando del letargo..'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2018-11-28 01:11:47
 tags:

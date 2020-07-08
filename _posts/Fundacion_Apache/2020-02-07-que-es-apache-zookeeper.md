@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: '▷ ZooKeeper: Proyectos de Software de la Fundación Apache'
 description: "Qué es Zookeeper Apache, una vista rápida al proyecto"
 excerpt: "Qué es Zookeeper Apache, una vista rápida al proyecto"
@@ -8,7 +9,7 @@ comments: false
 date: 2020-02-07 11:30:12
 last_modified_at: 
 thumbnail: /assets/img/apache/apache-zookeeper-ciberninjas.png
-thumbnail2: /assets/img/apache/apache-zookeeper-ciberninjas.png
+feature-img: /assets/img/apache/apache-zookeeper-ciberninjas.png
 permalink: /que-es-apache-zookeeper/
 canonical_URL: https://ciberninjas.com/que-es-apache-zookeeper/
 permalink: /que-es-apache-zookeeper/

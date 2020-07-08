@@ -1,5 +1,6 @@
 ---
 author: rosepac
+bootstrap: true
 title: "▷ Preguntas Frecuentes sobre la CDF o Fundación de Distribución Continua"
 description: "Preguntas y dudas más habituales que pueden surgir sobre el proyecto de CDF o agrupación de empresas por la mejora de la gestión del software implicado en la distrubición continua del código para la mejora del desarrollo"
 excerpt: "Preguntas y dudas más habituales que pueden surgir sobre el proyecto de CDF o agrupación de empresas por la mejora de la gestión del software implicado en la distrubición continua del código para la mejora del desarrollo"
@@ -14,17 +15,6 @@ categories:
 tags:
 - CD Fundación
 - Tekton
-# header:
-#  teaser: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-# feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
-#   overlay_filter: 0.2
-#   image_description: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2020'
-#   image_alt: 'Amazon lanzó Deep Java Library (DJL), una biblioteca de código abierto con API de Java para simplificar la capacitación, las pruebas, la implementación y la creación en 2002'
-#   caption: "Créditos: Unsplash"
-# toc: false
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 ## ¿Qué es la entrega continua (CD)?

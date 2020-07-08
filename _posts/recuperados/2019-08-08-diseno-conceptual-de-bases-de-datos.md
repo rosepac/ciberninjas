@@ -3,6 +3,7 @@ layout: post
 title: Diseño Conceptual de Bases de Datos
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-27 07:01:03
 tags:

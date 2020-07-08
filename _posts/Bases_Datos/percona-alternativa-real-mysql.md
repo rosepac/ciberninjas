@@ -1,6 +1,7 @@
 ---
 title: "🗃 Percona, la Alternativa Real a MySql"
 author: rosepac
+bootstrap: true
 description: '🗃 Percona, la Alternativa Real a MySql.'
 excerpt: '🗃 Percona, la Alternativa Real a MySql.'
 published: true
@@ -14,7 +15,7 @@ tags:
 - Percona
 - MySql
 thumbnail: "/assets/img/final_sdk_varios.jpg"
-thumbnail2: "/assets/img/final_sdk_varios.jpg"
+feature-img: "/assets/img/final_sdk_varios.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

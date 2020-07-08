@@ -3,6 +3,7 @@ layout: post
 title: 'Creador de música retro  inspirado en Amiga Protracker: Bassontracker'
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-31 01:01:38
 tags:

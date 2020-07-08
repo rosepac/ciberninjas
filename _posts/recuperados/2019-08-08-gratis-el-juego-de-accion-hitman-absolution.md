@@ -3,6 +3,7 @@ layout: post
 title: Gratis, el juego de acción Hitman Absolution
 published: false
 author: rosepac
+bootstrap: true
 comments: false
 date: 2019-01-18 08:01:25
 tags:

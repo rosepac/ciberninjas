@@ -2,6 +2,7 @@
 
 comments: false
 author: rosepac
+bootstrap: true
 tags:
 - Cloudflare
 categories:

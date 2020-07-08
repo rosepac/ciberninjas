@@ -7,7 +7,7 @@ canonical_URL: htpps://ciberninjas.com/quien-soy/
 description: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
 excerpt: "ROSEPAC 😈 es Pablo Álvarez Corredera 👨‍💻 Un webmaster, oficialmente técnico informático asturiano que le gusta pensar que es un documentalista digital; aunque solo sea por ocultar su adicción a las nuevas tecnologías."
 # image: 
-#   path: &image /assets/images/imac-glitch-feature.jpg
+#   path: &image /assets/img/imac-glitch-feature.jpg
 #   width: 1024
 #   height: 512
 #   feature: *image
@@ -18,6 +18,7 @@ toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 author: rosepac
+bootstrap: true
 # sidebar:
 # - title: "Menú Principal"
 #   nav: general

@@ -20,7 +20,8 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-author_profile: false
+author: rosepac
+bootstrap: true
 # IMAGEN DE TAMAÑO REDUCIDO X250 DE ANCHO MÁXIMO
 sidebar:
   - title: "Autor"

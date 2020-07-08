@@ -1,5 +1,6 @@
 ---
-author_profile: false
+author: rosepac
+bootstrap: true
 title: "👨‍🏫 Curso de TITULO de Microsoft TV"
 description: "🚀 Curso de TITULO de Microsoft TV"
 excerpt: "🚀 Curso de TITULO de Microsoft TV"
