@@ -38,7 +38,7 @@ Cada delegación es libre de organizarse como lo desee, siempre y cuando se cent
 
 ## Galería
 
-{% include gallery id="pyladies-1" layout="half" caption="Fotografías de PyLadies bajo Creative Commons 2.0" %}
+🚧
 
 ## Enlaces Externos
 

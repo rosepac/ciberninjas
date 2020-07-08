@@ -10,7 +10,8 @@ comments: false
 date: 2020-01-31 17:00:33
 last_modified_at: 
 thumbnail: https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg
-feature-img: https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpgtags:
+feature-img: https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg
+tags:
 - Programación
 categories:
 - Repositorios
