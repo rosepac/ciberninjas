@@ -18,9 +18,9 @@ before_install:
 
 script:
   - bundle install
-  - bundle exec jekyll --trace build
+  - bundle exec jekyll build -t
 
 after_script:
   - gem install type-on-strap
   - gem install jekyll-theme-type-on-strap
-#  - docker pull sylhare/type-on-strap
+# - docker pull sylhare/type-on-strap
