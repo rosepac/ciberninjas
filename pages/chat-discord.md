@@ -1,5 +1,5 @@
 ---
-title: ✅ Únete al Chat de Programación y Tecnología 👌
+title: "✅ Únete al Chat de Programación y Tecnología 👌"
 description: "🚀 El mejor Chat en español de tecnología, todo el cibermundo en un único espacio."
 excerpt: "🚀 El mejor Chat en español de tecnología, todo el cibermundo en un único espacio."
 date: 2019-05-15T22:00:00.000+00:00
@@ -11,7 +11,6 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-
 ---
 
 ## ¡ÚNETE A NUESTRA COMUNIDAD!

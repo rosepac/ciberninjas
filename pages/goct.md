@@ -1,22 +1,12 @@
 ---
-layout: splash
 title: 'Documentación de Ordenadores, Comunicación y Tecnología'
-permalink: /lenguajes-programacion/
-canonical_URL: https://ciberninjas.com/lenguajes-programacion/
-
+permalink: /goct/
+canonical_URL: https://ciberninjas.com/goct/
 published: false
 author: rosepac
 bootstrap: true
 thumbnail: /assets/img/paginas/progmb.webp
-  overlay_color: "#000"
-  overlay_filter: "0.1"
 feature-img: /assets/img/paginas/progmb.webp
-#  actions:
-#    - label: "🎓 Cursos"
-#      url: "/cursos-tecnologia/"
-#    - label: "👨‍💻 Libros"
-#      url: "/biblioteca-de-programacion-y-tecnologia/"
-#  caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
 excerpt: "La documentación sobre ordenadores, comunicaciones y tecnología más completa del mundo"
 description: "La documentación sobre ordenadores, comunicaciones y tecnología más completa del mundo"
 

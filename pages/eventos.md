@@ -14,7 +14,6 @@ sort_by: title
 sort_order: reverse
 author: rosepac
 bootstrap: true
-entries_layout: grid
 thumbnail: /assets/img/blog/reloj-hoy.webp
 feature-img: /assets/img/blog/reloj-hoy.webp
 ---

@@ -1,5 +1,4 @@
 ---
-layout: splash
 title: 'Aprender Todos los Lenguajes de Programación'
 permalink: /lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/lenguajes-programacion/
@@ -7,15 +6,7 @@ published: true
 author: rosepac
 bootstrap: true
 thumbnail: /assets/img/paginas/progmb.webp
-  overlay_color: "#000"
-  overlay_filter: "0.1"
 feature-img: /assets/img/paginas/progmb.webp
-#  actions:
-#    - label: "🎓 Cursos"
-#      url: "/cursos-tecnologia/"
-#    - label: "👨‍💻 Libros"
-#      url: "/biblioteca-de-programacion-y-tecnologia/"
-  caption: "[**Ciberninjas**](https://twitter.com/ciberninjas)"
 excerpt: "Cómo aprender cada uno de los lenguajes de programación que existen ¡Entra y conviértete en un auténtico ciberninja!"
 ---
 

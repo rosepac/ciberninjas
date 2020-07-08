@@ -2,8 +2,6 @@
 title: "Noticias en Directo de Programación & Tecnología"
 description: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter sobre información tecnológica."
 excerpt: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter sobre información tecnológica."
-layout: splash
-collection: directo
 permalink: /directo/
 canonical_URL: https://ciberninjas.com/directo/
 published: true
@@ -15,11 +13,6 @@ sort_by: title
 sort_order: reverse
 author: rosepac
 bootstrap: true
-entries_layout: grid
-
-# sidebar:
-# - title: "Menú Principal"
-#   nav: general
 thumbnail: /assets/img/paginas/tecnologia-noticias.webp
 feature-img: /assets/img/paginas/tecnologia-noticias.webp
 ---
