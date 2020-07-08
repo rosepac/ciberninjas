@@ -15,12 +15,6 @@ categories:
   - Imagen Negocios
 thumbnail: https://i.ibb.co/vscwB2J/56c8474c-how-to-earn-money-without-traditional-job-3-compressed.png
 feature-img: https://i.ibb.co/vscwB2J/56c8474c-how-to-earn-money-without-traditional-job-3-compressed.png
-actions:
-  - label: "📸 VER ÁLBUM"
-    url: "https://ibb.co/album/nKHC1F"
-sidebar:
-  - title: "👨‍🎨 Infografías"
-    nav: infog
 ---
 
 Infografía que te muestra todas las aplicaciones que existen para realizar trabajos no convencionales a través de las nuevas tecnologías.

@@ -1,5 +1,5 @@
 ---
-# 🕸 Administración y Redes, 🔬 Ciencias Informáticas, 💪 Desarrollo Personal, 🧠 Neuropsicología, 👨‍💻 Programación Móvil, ⭐ Recomendaciones,🌐 Red e Internet, 🔐 Seguridad Informática, 🤼 Sociología
+published: true
 title: "🌄 Nuestra Casa Está Ardiendo: Historia de una familia y de un planeta en crisis"
 categories:
 - Catálogo
@@ -16,21 +16,8 @@ permalink: /catalogo/nuestra-casa-esta-ardiendo
 description: '🌼 La historia de Greta Thunberg y su familia enfrentada a una crisis que nunca habían previsto. Su hija menor ha dejado de comer y hablar por ver su futuro en peligro en un planeta que se calienta demasiado.'
 excerpt: '🌼 La historia de Greta Thunberg y su familia enfrentada a una crisis que nunca habían previsto. Su hija menor ha dejado de comer y hablar por ver su futuro en peligro en un planeta que se calienta demasiado.'
 feature-img: /assets/img/catalogo/greta-nuestra-casa-esta-ardiendo.jpg
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 author: rosepac
 bootstrap: true
-# IMAGEN DE TAMAÑO REDUCIDO X250 DE ANCHO MÁXIMO
-sidebar:
-  - title: "Autor"
-    image: /assets/img/catalogo/greta-nuestra-casa-esta-ardiendox225.jpg
-    image_alt: "🌼 La historia de Greta Thunberg y su familia enfrentada a una crisis que nunca habían previsto. Su hija menor ha dejado de comer y hablar por ver su futuro en peligro en un planeta que se calienta demasiado."
-    text: "Greta Thunberg"
-    nav: catalogo
-published: true
-
 ---
 
 INTRODUCCION

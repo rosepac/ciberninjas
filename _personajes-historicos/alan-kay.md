@@ -11,9 +11,6 @@ permalink: /personajes-historicos/alan-kay/
 canonical_URL: https://computerhistory.org/profile/alan-kay/
 feature-img: https://computerhistory.org/wp-content/uploads/2020/01/1999_alan_kay-e1580707822558.jpg
 img: https://computerhistory.org/wp-content/uploads/2020/01/1999_alan_kay-e1580707822558.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
 ---
 
 <img src="https://computerhistory.org/wp-content/uploads/2020/01/1999_alan_kay-e1580707822558.jpg" width="200px" high="250px" alt="Alan Kay | Visto en Ciberninjas" title="Alan Kay | Visto en Ciberninjas" />

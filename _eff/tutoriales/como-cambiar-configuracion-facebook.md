@@ -11,14 +11,6 @@ published: true
 thumbnail: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
 feature-img: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
 img: "https://i.ibb.co/sCjPLsV/facebook-eyes-1-0.png"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-# sidebar:
-# - title: "Catálogo"
-#   nav: tienda
-
 ---
 
 La tan esperada herramienta del control de la actividad fuera de Facebook usada por el propio Facebook. [Comenzó a implementarse](https://about.fb.com/news/2019/08/off-facebook-activity/){:target="_blank" rel="nofollow,noreferrer"}. Si bien, no es una medida perfecta, y aún se necesitan leyes más estrictas de privacidad de datos, esta es una herramienta que ofrece un buen paso hacia una mayor transparencia y control del usuario con respecto al seguimiento de terceros. Esperamos que otras compañías sigan su ejemplo, y alentamos a los usuarios a aprovecharlo.

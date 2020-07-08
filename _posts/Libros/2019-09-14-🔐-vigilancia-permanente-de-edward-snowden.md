@@ -23,14 +23,6 @@ toc_icon: user-ninja
 toc_sticky: true
 author: rosepac
 bootstrap: true
-sidebar:
-  - title: Autor
-    image: /assets/img/catalogo/edward-snowden-vigilancia-permanentex250.jpg
-    image_alt: >-
-      Vigilancia Permanente en Español: Una biografía de Edward Snowden que
-      agitará el mundo de la política | Ciberninjas
-    text: Edward Snowden
-    nav: catalogo
 ---
 
 ## 🙋‍♀️ Descripci&oacute;n Completa

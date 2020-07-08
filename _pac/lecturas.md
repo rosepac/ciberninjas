@@ -13,15 +13,6 @@ canonical_URL: https://ciberninjas.com/lecturas/
 thumbnail: https://i.ibb.co/1XCx7jG/libro-interesantes.gif
 feature-img: https://i.ibb.co/yqymDJj/photo-1505489304219-85ce17010209-ixlib-rb-1-2.jpg
 img: https://i.ibb.co/yqymDJj/photo-1505489304219-85ce17010209-ixlib-rb-1-2.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-actions:
-    - label: + POLÍTICA
-      url: '/politica/'
-    - label: + REFERENTES
-      url: '/referentes-historicos/'
-
 ---
 
 ## Leyendo

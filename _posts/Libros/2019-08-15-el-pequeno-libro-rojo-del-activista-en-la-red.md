@@ -21,17 +21,6 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-sidebar:
-  - title: "Autora"
-    image: /assets/img/catalogo/pequeno-libro-rojo-activista-red-marta-peiranox250.jpg
-    image_alt: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano: Ciberninjas"
-    text: "Marta Peirano"
-  - title: "Precio Papel"
-    text: "9,40 €"
-  - title: "Precio Digital / Kindle"
-    text: "2,37 €"
-    nav: catalogo
-    
 ---
 En tiempos de fascismo, todos somos disidentes. Y nuestras trincheras están en la Red. El pequeño Libro Rojo del activista en la Red que ha escrito la periodista Marta Peirano es un interesante libro que tras una adecuada información sobre el tema.
 

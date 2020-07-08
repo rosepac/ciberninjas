@@ -15,19 +15,6 @@ permalink: /catalogo/introduccion-a-swift-programacion-ios/
 description: "🍏 Introducción a Swift: Aprende Swift desde Cero de forma Práctica"
 excerpt: "🍏 Introducción a Swift: Aprende Swift desde Cero de forma Práctica"
 feature-img: /assets/img/catalogo/introduccion-a-swift-apple-grande.jpg
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-  - title: "Autor"
-    image: /assets/img/catalogo/introduccion-a-swift-apple-peque.jpg
-    image_alt: "Introducción al lenguaje de programación de apple Swift desde cero | Visto en ciberninjas"
-    text: "Luis Rollón"
-  - title: "Precio Ebook"
-    text: "9,99 €"
-    nav: catalogo
-    
 ---
 
 

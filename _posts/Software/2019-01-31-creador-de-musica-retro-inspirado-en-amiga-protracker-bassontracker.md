@@ -8,15 +8,11 @@ permalink: /creador-de-musica-retro-inspirado-en-amiga-protracker-bassontracker/
 comments: false
 date: 2019-06-05 23:11:12
 tags:
+- Software
 - Reproductor
 - Retro
 - Amiga
 - Emulador
-categories:
-- Software
-# sidebar:
-# - title: "📻 Gramola "
-#   nav: radio
 ---
 
 Durante los últimos meses he estado **haciendo pequeños** retoques en **Bassoontracker**, mi herramienta de música retro basada en el navegador. Hoy, está listo para un próximo gran lanzamiento: ¡Ya salió la versión 0.3.0!

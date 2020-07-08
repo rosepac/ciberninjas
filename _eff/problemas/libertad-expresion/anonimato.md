@@ -10,13 +10,6 @@ last_modified_at: 2019-10-11
 published: false
 thumbnail: "https://i.ibb.co/L6FfrxY/secret-identity-2-0.png"
 feature-img: "https://i.ibb.co/L6FfrxY/secret-identity-2-0.png"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-# sidebar:
-# - title: "Catálogo"
-#   nav: tienda
 ---
 
 Muchas personas no quieren que las cosas que dicen en línea estén conectadas con sus identidades fuera de línea. Pueden estar preocupados por posibles represalias políticas o económicas, acoso o incluso amenazas a sus vidas. Los denunciantes informan sobre noticias que las empresas y los gobiernos preferirían suprimir; los trabajadores de derechos humanos luchan contra los gobiernos represivos; los padres intentan crear una forma segura para que los niños exploren; las víctimas de violencia doméstica intentan reconstruir sus vidas donde los abusadores no puedan seguirlas.

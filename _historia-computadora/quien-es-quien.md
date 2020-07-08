@@ -9,13 +9,6 @@ date: 2018-09-11
 published: false
 permalink: /quien-es-quien-computacion/
 canonical_URL: https://www.computerhistory.org/timeline/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
 ---
 
 Denis Ritchie

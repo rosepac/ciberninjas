@@ -17,13 +17,6 @@ excerpt: >-
   🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, en este libro: Tú, tu hijo y la escuela: Se busca el mejor camino para ofrecer la mejor educación a tus hijos.
 thumbnail: /assets/img/catalogo/tu-tu-hijo-y-la-escuela.webp
 feature-img: /assets/img/catalogo/tu-tu-hijo-y-la-escuela.webp
-sidebar:
-  - title: Autor
-    image: /assets/img/catalogo/tu-tu-hijo-y-la-escuela.webp
-    image_alt: >-
-      🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, en este libro: Tú, tu hijo y la escuela: Se busca el mejor camino para ofrecer la mejor educación a tus hijos.
-    text: Ken Robinson
-    nav: catalogo
 ---
 
 De uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, un libro innovador que busca transmitir a los padres las mejores pautas para ofrecer la mejor educación a sus hijos.

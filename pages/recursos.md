@@ -12,9 +12,6 @@ date: 2019-07-17 08:07:47
 last_modified_at: 2019-10-29T18:10:42-05:00
 permalink: /recursos/
 canonical_URL: htpps://ciberninjas.com/recursos/
-sidebar:
-- title: "Menú Principal"
-  nav: general
 
 ---
 <!-- AGREGAR CAPTURAS DE PANTALLA A LOS DIFERENTES SOFTWARE -->

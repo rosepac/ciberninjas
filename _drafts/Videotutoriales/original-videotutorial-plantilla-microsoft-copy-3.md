@@ -15,12 +15,6 @@ date: 2019-09-26
 tags:
 # Creador, Editorial, Temática, Tipo de Música
 - Microsoft
-- TEMA
-categories:
-- Videotutorial Power BI
-sidebar:
-- title: "Menú Videotutoriales"
-  nav: vtuto
 ---
 
 ## Índice

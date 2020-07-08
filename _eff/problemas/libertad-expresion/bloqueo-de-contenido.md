@@ -10,11 +10,4 @@ last_modified_at: 2019-10-11
 published: false
 thumbnail: "https://i.ibb.co/v4gmbnC/icon-free-speech-1.png"
 feature-img: "https://i.ibb.co/v4gmbnC/icon-free-speech-1.png"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-# sidebar:
-# - title: "Catálogo"
-#   nav: tienda
 ---

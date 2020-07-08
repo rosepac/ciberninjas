@@ -16,22 +16,8 @@ permalink: /catalogo/web-hacking-101-como-hacer-dinero-hackeando-eticamente/
 description: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
 excerpt: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
 feature-img: /assets/img/catalogo/Web-Hacking-101-en-Espanol-600x769.jpg
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-  - title: "Autores"
-    image: /assets/img/catalogo/Web-Hacking-101x250.jpg
-    image_alt: "image"
-    text: "Peter Yaworski, Gamliel Hernández"
-  - title: "Precio Sugerido"
-    text: "18, 07 €"
-  - title: "Precio Mínimo"
-    text: "9,03 €"
-    nav: catalogo
-    
 ---
+
 Hasta Febrero 2017, Twitter ha pagado más de $640,000 USD a hackers éticos por reportar vulnerabilidades en su plataforma. Google, Facebook, Shopify, Dropbox, y muchos más, solicitan hackers éticos que busquen fallos de seguridad en sus sitios y pagarles por sus hallazgos. Este libro te enseñará cómo iniciarte en el hacking ético.
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

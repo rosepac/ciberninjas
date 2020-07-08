@@ -16,11 +16,7 @@ tags:
 # Creador, Editorial, Temática, Tipo de Música
 - AUTOR
 - TEMA
-categories:
-- Videotutorial TEMATICA
-sidebar:
-- title: "Menú Videotutoriales"
-  nav: vtuto
+published: false
 ---
 
 ## Índice

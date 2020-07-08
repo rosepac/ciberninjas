@@ -15,20 +15,8 @@ permalink: /catalogo/el-libro-blanco-del-hacker/
 description: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar"
 excerpt: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar"
 feature-img: /assets/img/catalogo/libro-blanco-hacker.jpg
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-  - title: "Autor"
-    image: /assets/img/catalogo/libro-blanco-hackerx250.jpg
-    image_alt: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar: Ciberninjas"
-    text: "Pablo Gutiérrez Salazar"
-  - title: "Precio Papel"
-    text: "23,65 €"
-    nav: catalogo
-    
 ---
+
 Guía práctica de las técnicas de un hacker profesional que te hará descubrir como ser capaz de profesionalizarte dentro del mundo de la ciberseguridad.
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

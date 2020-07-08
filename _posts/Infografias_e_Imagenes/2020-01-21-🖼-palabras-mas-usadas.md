@@ -14,12 +14,6 @@ categories:
   - Imagen Programación
 thumbnail: https://i.ibb.co/1TdpCGP/image.png
 feature-img: https://i.ibb.co/1TdpCGP/image.png
-actions:
-  - label: "📸 VER ÁLBUM"
-    url: "https://ibb.co/album/bUjmTv"
-sidebar:
-  - title: "👨‍🎨 Infografías"
-    nav: infog
 ---
 
 ## Introducción

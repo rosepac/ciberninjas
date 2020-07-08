@@ -15,19 +15,6 @@ permalink: /catalogo/el-arte-de-la-invisibilidad/
 description: "El Arte de la Invisibilidad de Kevin Mitnick"
 excerpt: "El Arte de la Invisibilidad de Kevin Mitnick"
 feature-img: /assets/img/catalogo/arte-invisibilidad.jpg
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-  - title: "Autor"
-    image: /assets/img/catalogo/arte-invisibilidadx250.jpg
-    image_alt: "El Arte de la Invisibilidad de Kevin Mitnick: Ciberninjas"
-    text: "Kevin Mitnick"
-  - title: "Precio Papel"
-    text: "23,70 €"
-    nav: catalogo
-    
 ---
 
 Nos guste o no, todos sus movimientos están siendo observados y analizados. Las identidades del consumidor están siendo robadas, y cada paso de una persona está siendo rastreado y almacenado. Lo que una vez pudo haber sido descartado como paranoia es ahora una verdad dura, y la privacidad es un lujo que pocos pueden permitirse o comprender.

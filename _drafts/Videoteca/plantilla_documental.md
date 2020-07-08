@@ -15,12 +15,6 @@ tags:
 - AUTOR
 - Reflexión
 - Sistema Educativo
-# Vídeo Educación. Vídeo Seguridad Informática. Vídeo Conciencia Ciudadana. Vídeo Películas. Vídeo Series. Vídeo Videojuegos Vídeo Robótica
-categories:
-- 
-sidebar:
-- title: "Menú Videoteca"
-  nav: vteca
 ---
 
 ## Redacción

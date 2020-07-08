@@ -16,12 +16,6 @@ categories:
   - Psicología
 header:
 feature-img: /.jpg
-actions:
-  - label: "📸 VER ÁLBUM"
-    url: "https://ibb.co/album/deUOov"
-sidebar:
-  - title: "👨‍🎨 Infografías"
-    nav: infog
 ---
 
 CONTENIDO

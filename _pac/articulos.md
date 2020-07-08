@@ -13,15 +13,6 @@ canonical_URL: https://ciberninjas.com/articulos/
 thumbnail: https://i.ibb.co/p0WnjwY/zorrito-escritor-navegadores-plugins.gif
 feature-img: https://i.ibb.co/sQ75Zqy/IMG-1568-3.jpg
 img: https://i.ibb.co/sQ75Zqy/IMG-1568-3.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-actions:
-    - label: + POLÍTICA
-      url: '/politica/'
-    - label: + REFERENTES
-      url: '/referentes-historicos/'
-
 ---
 
 ## 🐱‍🏍 Qué es Ciberninjas

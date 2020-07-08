@@ -23,13 +23,6 @@ toc_icon: user-ninja
 toc_sticky: true
 author: rosepac
 bootstrap: true
-sidebar:
-  - title: Autor
-    image: /assets/img/catalogo/mentalidad-mamba-kobe-bryantx250.jpg
-    image_alt: >-
-      Mentalidad Mamba de Kobe Bryant, reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto | Ciberninjas
-    text: Kobe Bryant y María Maestro Cuadrado
-    nav: catalogo
 ---
 
 Reflexiones y consejos de uno de los mejores jugadores de la historia del baloncesto. Con introducción de Phil Jackson y prólogo de Pau Gasol.

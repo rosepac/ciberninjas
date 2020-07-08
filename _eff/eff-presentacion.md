@@ -12,13 +12,6 @@ published: true
 thumbnail: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
 feature-img: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
 img: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
-# sidebar:
-# - title: "Catálogo"
-#   nav: tienda
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 
 ---
 

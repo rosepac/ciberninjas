@@ -18,22 +18,8 @@ permalink: /catalogo/el-enemigo-conoce-el-sistema/
 description: "El enemigo conoce el sistema: Manipulación de ideas, personas e influencias después de la economía de la atención de Marta Peirano"
 excerpt: "El enemigo conoce el sistema: Manipulación de ideas, personas e influencias después de la economía de la atención de Marta Peirano"
 feature-img: /assets/img/catalogo/el-enemigo-conoce-el-sistemaxgrande.jpg
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-  - title: "Autora"
-    image: /assets/img/catalogo/el-enemigo-conoce-el-sistemax250.jpg
-    image_alt: "El Enemigo Conoce el Sistema: Manipulación de Ideas, Personas e Influencias después de la Economía de la Atención: Ciberninjas"
-    text: "Marta Peirano"
-  - title: "Precio Papel"
-    text: "17,00 €"
-  - title: "Precio Digital / Kindle"
-    text: "9,49 €"
-    nav: catalogo
-    
 ---
+
 Todo lo que no quieres pero necesitas saber sobre el poder, la economía, la sociedad y las telecomunicaciones en la era de la información.
 
 En la era actual de la información, las estructuras del poder se han vuelto invisibles, subterráneas. Sospechosamente conveniente, ¿verdad?

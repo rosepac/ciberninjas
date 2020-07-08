@@ -16,21 +16,6 @@ permalink: /catalogo/que-hace-internet-con-nuestras-mentes/
 description: "Superficiales, ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
 excerpt: "Superficiales, ¿Qué está haciendo Internet con Nuestras Mentes? The Shallows, recomendado por Barack Obama"
 feature-img: /assets/img/catalogo/que-hace-internet.jpg
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-  - title: "Autor"
-    image: /assets/img/catalogo/que-hace-internet-3.webp
-    image_alt: "Qué hace internet con nuestras mentes, en inglés The Shallows. Libro recomendado por el presidente Barack Obama"
-    text: "Nicholas Carr"
-  - title: "Precio Papel"
-    text: "18,52 €"
-  - title: "Precio Ebook"
-    text: "9,49"
-    nav: catalogo
-    
 ---
 
 ¿Google nos está haciendo estúpidos? Cuando Nicholas Carr se hizo esa pregunta, en una famosa portada de Atlantic Monthly, se enterró de un pozo de ansiedad sobre cómo Internet nos está cambiando. También cristalizó uno de los debates más importantes de nuestro tiempo: a medida que disfrutamos de las recompensas de la Red, ¿estamos sacrificando nuestra capacidad de leer y pensar profundamente?

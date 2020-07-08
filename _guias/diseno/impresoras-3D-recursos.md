@@ -12,19 +12,6 @@ permalink: /impresoras-3d-recursos/
 canonical_URL: https://ciberninjas.com/impresoras-3d-recursos/
 thumbnail: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
 feature-img: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
-# image: 
-#   path: &image /assets/img/imac-glitch-feature.jpg
-#   width: 1024
-#   height: 512
-#   feature: *image
-# twitter:
-#   card: summary_large_image
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: false
-# sidebar:
-#   nav: cursos-espanol
 ---
 
 ## Meta-Listas de Recursos

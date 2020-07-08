@@ -16,12 +16,6 @@ categories:
   - Psicología
 thumbnail: https://tentulogo.com/wp-content/uploads/2017/11/Psicologia-de-los-colores.jpg
 feature-img: https://tentulogo.com/wp-content/uploads/2017/11/Psicologia-de-los-colores.jpg
-actions:
-  - label: "📸 VER ÁLBUM"
-    url: "https://ibb.co/album/deUOov"
-sidebar:
-  - title: "👨‍🎨 Infografías"
-    nav: infog
 ---
 
 Infograf&iacute;a asociativa de los colores respecto a los sentimientos y tem&aacute;ticas que m&aacute;s simbolizan dentro de la sociedad, y pueden representar enfocado a un posible proyecto.

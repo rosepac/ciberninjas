@@ -13,10 +13,6 @@ canonical_URL: https://ciberninjas.com/feminismo-movimiento-meeto/
 thumbnail: https://i.ibb.co/mNpqQXy/nathan-wright-GUTg-IIOwg-Ww-unsplash.jpg
 feature-img: https://i.ibb.co/mNpqQXy/nathan-wright-GUTg-IIOwg-Ww-unsplash.jpg
 img: https://i.ibb.co/mNpqQXy/nathan-wright-GUTg-IIOwg-Ww-unsplash.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
 ---
 
 ## Anotaciones

@@ -13,12 +13,6 @@ categories:
   - Imagen Diseño Web
 thumbnail: https://i.ibb.co/db35Fw6/ui-ux-propiedades.jpg
 feature-img: https://i.ibb.co/db35Fw6/ui-ux-propiedades.jpg
-actions:
-  - label: "📸 VER ÁLBUM"
-    url: "https://ibb.co/album/deUOov"
-sidebar:
-  - title: "👨‍🎨 Infografías"
-    nav: infog
 ---
 
 Muy buena comparativa entre las temáticas de las que se encarga el UI o el UX.

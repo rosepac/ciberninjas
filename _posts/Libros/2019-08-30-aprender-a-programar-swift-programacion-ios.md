@@ -15,17 +15,7 @@ permalink: /catalogo/aprende-a-programar-swift-programacion-ios/
 description: "🍏 Aprende a programar con el Sistema Operativo de Apple y su lenguaje de programación específico: Swift"
 excerpt: "🍏 Aprende a programar con el Sistema Operativo de Apple y su lenguaje de programación específico: Swift"
 feature-img: /assets/img/catalogo/aprende-a-programar-swift-grande.jpg
-sidebar:
-  - title: "Autor"
-    image: /assets/img/catalogo/aprende-a-programar-swift-peque.jpg
-    image_alt: "Aprender a programar Swift, el lenguaje de programación de Apple e iOS | Visto en ciberninjas"
-    text: "Enrique Flores"
-  - title: "Precio Papel"
-    text: "12,43 €"
-    nav: catalogo
-    
 ---
-
 
 ## 🙋‍♀️ Descripción Completa
 

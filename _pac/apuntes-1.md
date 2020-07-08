@@ -13,10 +13,6 @@ canonical_URL:
 feature-img: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
 img: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
 thumbnail: https://i.ibb.co/fXZ0gR7/photo-1485182317254-4d42489e041b-ixlib-rb-1-2.jpg
-# sidebar:
-# - title: "Historia Computadora"
-#   nav: historia
-
 ---
 
 ## Reflexión sobre la Intolerancia

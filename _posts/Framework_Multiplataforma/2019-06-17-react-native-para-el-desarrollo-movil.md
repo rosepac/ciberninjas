@@ -20,21 +20,6 @@ description: "🚀 React Native para el Desarrollo Móvil de Abhishek Nalwaya y 
 excerpt: "🚀 React Native para el Desarrollo Móvil de Abhishek Nalwaya y Akshat Paul"
 thumbnail: /assets/img/catalogo/el-enemigo-conoce-el-sistemaxgrande.jpg
 feature-img: /assets/img/catalogo/el-enemigo-conoce-el-sistemaxgrande.jpg
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-  - title: "Autora"
-    image: /assets/img/catalogo/el-enemigo-conoce-el-sistemax250.jpg
-    image_alt: "React Native para el Desarrollo Móvil: Ciberninjas"
-    text: "Abhishek Nalwaya y Akshat Paul"
-  - title: "Precio Papel"
-    text: "17,00 €"
-  - title: "Precio Digital / Kindle"
-    text: "9,49 €"
-    nav: catalogo
-    
 ---
 Todo lo que no quieres pero necesitas saber sobre el poder, la economía, la sociedad y las telecomunicaciones en la era de la información.
 

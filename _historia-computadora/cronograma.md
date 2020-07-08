@@ -9,14 +9,6 @@ date: 2020-04-21
 published: true
 permalink: /cronograma/
 canonical_URL: "https://www.computerhistory.org/timeline/"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: false
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
-
 ---
 
 <!-- [1950s 🕙](/cronograma/#1950s- ""){: .btn .btn--inverses .btn--large} -->
