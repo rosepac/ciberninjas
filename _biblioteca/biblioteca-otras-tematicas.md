@@ -14,17 +14,6 @@ published: false
 thumbnail: "/assets/img/chico-buscando-libro-biblioteca.jpg"
 feature-img: "/assets/img/chico-buscando-libro-biblioteca.jpg"
 img: "/assets/img/chico-buscando-libro-biblioteca.jpg"
-#  actions:
-#    - label: "Black Friday 2019"
-#      url: "/black-friday-amazon/"
-#    - label: "Prime Day 2019"
-#      url: "/prime-day-amazon/"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
-sidebar:
-  nav: libros-espanol
 
 ---
 

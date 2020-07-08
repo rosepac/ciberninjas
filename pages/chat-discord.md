@@ -8,10 +8,6 @@ last_modified_at: 2019-12-13T15:50:02-01:00
 permalink: /chat-discord/
 thumbnail: "/assets/img/ciberninjas-chat-discord.jpg"
 feature-img: "/assets/img/ciberninjas-chat-discord.jpg"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 ---
 
 ## ¡ÚNETE A NUESTRA COMUNIDAD!

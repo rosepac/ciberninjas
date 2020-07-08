@@ -11,20 +11,6 @@ comments: false
 date: 2019-11-29 15:32:01 +0200
 thumbnail: /assets/img/paginas/los-mejores-dispositivos/auriculares-diseno.webp
 feature-img: /assets/img/paginas/los-mejores-dispositivos/auriculares-beats-6.webp
-actions:
-  - label: "Black Friday 2019"
-    url: "/black-friday-amazon/"
-  - label: "Consolas & Videojuegos"
-    url: "/videojuegos/"
-  - label: "Disney"
-    url: "/disney-frozen-amazon/"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-- title: "Catálogo"
-  nav: tienda
 ---
 
 En esta publicación vamos a realizar un repaso, entre algunos de los más espectaculares y mejores auriculares para diseñadores, los gamers y todo aquel que ame la tecnología al máximo.. 😻

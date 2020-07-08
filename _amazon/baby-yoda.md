@@ -11,13 +11,6 @@ comments: false
 date: 2019-12-20 17:30:00 +0200
 thumbnail: https://i.ibb.co/mhcTS2j/baby-yoda-gif.gif
 feature-img: https://i.ibb.co/r3V9HRW/34605751714-d713169d14-b.jpg
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-- title: "Catálogo"
-  nav: tienda
 ---
 
 Los serie The Mandalorian estrenada por Disney+ el 12 de noviembre de 2019 en EEUU. Se ubica en el universo de Star Wars creado por George Lucas, la serie tiene lugar unos años después de los eventos de Return of the Jedi, y sigue a un solitario pistolero más allá de los alcances de la República.

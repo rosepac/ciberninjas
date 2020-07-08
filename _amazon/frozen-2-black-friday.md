@@ -11,18 +11,6 @@ comments: false
 date: 2019-11-23 08:50:00 +0200
 thumbnail: https://i.ibb.co/pdvtTgP/olaf-comiendo-xd.gif
 feature-img: https://i.ibb.co/r3V9HRW/34605751714-d713169d14-b.jpg
-actions:
-  - label: "Black Friday 2019"
-    url: "/black-friday-amazon/"
-  - label: "Consolas & Videojuegos"
-    url: "/videojuegos/"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-- title: "Catálogo"
-  nav: tienda
 ---
 
 El actual estreno de Frozen 2 hará de sus personajes el mejor regalo para todos los pequeños y no tan pequeños durante estas Navidades que ya están a la vuelta de la esquina.

@@ -9,17 +9,8 @@ collection: wiki
 permalink: /wiki/
 canonical_URL: https://ciberninjas.com/wiki/
 published: true
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sort_by: date
-sort_order: reverse
 author: rosepac
 bootstrap: true
-# sidebar:
-# - title: "Menú Principal"
-#   nav: general
 ---
 
 Índice de diferentes artículos de la Wikipedia de la tecnología en español aún sin traducción hasta ahora..

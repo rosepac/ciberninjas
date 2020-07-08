@@ -7,12 +7,6 @@ collection: eff
 permalink: /eff/
 canonical_URL: https://ciberninjas.com/eff/
 published: true
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sort_by: title
-sort_order: reverse
 author: rosepac
 bootstrap: true
 thumbnail: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"

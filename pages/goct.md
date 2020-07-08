@@ -10,7 +10,6 @@ thumbnail: /assets/img/paginas/progmb.webp
 feature-img: /assets/img/paginas/progmb.webp
 excerpt: "La documentación sobre ordenadores, comunicaciones y tecnología más completa del mundo"
 description: "La documentación sobre ordenadores, comunicaciones y tecnología más completa del mundo"
-
 ---
 
 ## Ordenadores

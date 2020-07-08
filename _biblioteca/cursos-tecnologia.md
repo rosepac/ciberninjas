@@ -13,8 +13,6 @@ canonical_URL: https://ciberninjas.com/cursos-tecnologia/
 thumbnail: "/assets/img/blog/tecnologia-programando.webp"
 feature-img: "/assets/img/blog/tecnologia-programando.webp"
 img: "/assets/img/blog/tecnologia-programando.webp"
-sidebar:
-  nav: cursos-espanol
 ---
 
 Actualmente son más de 700 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.

@@ -8,9 +8,6 @@ permalink: /politica-comentarios/
 title: "Sobre la Política de Comentarios"
 author: rosepac
 bootstrap: true
-sidebar:
-- title: "Menú Principal"
-  nav: general
 ---
 
 1. Respeto. Política de tolerancia cero con todo aquello que se pueda considerar como “discurso del odio”.
@@ -19,7 +16,7 @@ sidebar:
 3. No se admitirá propaganda de productos, servicios, organizaciones u otras entidades comerciales.
 4. Se eliminarán aquellas publicaciones que sólo contengan un enlace o que éste no refuerce los argumentos publicados junto a él.
 5. Relevancia: Se ruega a los usuarios que sus opiniones sean relevantes con la noticia que se esté comentando.
-7. Información personal. Rogamos no compartir ningún tipo de información personal, números de teléfono, correos electrónicos, páginas web, redes sociales.
+6. Información personal. Rogamos no compartir ningún tipo de información personal, números de teléfono, correos electrónicos, páginas web, redes sociales.
 
 Atentamente, el CiberAprendiz;
 

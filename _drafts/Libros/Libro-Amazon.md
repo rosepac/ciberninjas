@@ -1,5 +1,4 @@
 ---
-# 🕸 Administración y Redes, 🌄 Ciencias de la Tierra, 🔬 Ciencias Informáticas, 💪 Desarrollo Personal, 🧠 Neuropsicología, 👨‍💻 Programación Móvil, ⭐ Recomendaciones,🌐 Red e Internet, 🔐 Seguridad Informática, 🤼 Sociología
 title: "ICONO-CATEGORIA TITULO"
 description: ''
 published: false
@@ -17,29 +16,8 @@ date: 2019-09-14 09:34:54
 permalink: /catalogo/
 canonical_URL: https://ciberninjas.com/
 feature-img:
-actions:
-  - label: "+ SEGURIDAD INFORMÁTICA"
-    url: "/categoria/#seguridad-inform%C3%A1tica"
-  - label: "🛒 COMPRAR"
-    url: "ENLACE-AMAZON"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 author: rosepac
 bootstrap: true
-# IMAGEN DE TAMAÑO REDUCIDO X250 DE ANCHO MÁXIMO
-sidebar:
-  - title: "Autor"
-    image: 
-    image_alt: "DESCRIPCION"
-    text: "AUTOR"
-  - title: "Precio Sugerido"
-    text: " €"
-  - title: "Precio Mínimo"
-    text: " €"
-    nav: catalogo
-    
 ---
 
 INTRODUCCION

@@ -11,8 +11,6 @@ toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-sort_by: title
-sort_order: reverse
 author: rosepac
 bootstrap: true
 ---

@@ -7,9 +7,6 @@ date: 2019-10-08 12:00:56
 published: true
 permalink: /upsss/
 canonical_URL: https://ciberninjas.com/upsss/
-sidebar:
-- title: "Menú Principal"
-  nav: general
 ---
 > 😿 Siento que no haya sido de tu agrado
 

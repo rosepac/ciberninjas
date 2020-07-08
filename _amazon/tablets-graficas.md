@@ -11,13 +11,6 @@ comments: false
 date: 2019-11-29 22:14:00 +0200
 thumbnail: 'https://i.ibb.co/s9sNcjL/tablet-diseno-grafico.gif'
 feature-img: 'https://i.ibb.co/qnvJDdL/tablet-graficax1280.jpg'
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-- title: "Catálogo"
-  nav: tienda
 ---
 
 ## HUION

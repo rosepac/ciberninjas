@@ -8,14 +8,6 @@ excerpt: "Aviso Legal y Políticas de Privacidad · Política de Comentarios · 
 last_modified_at: 2019-08-16T12:42:42-05:00
 permalink: "/aviso-legal/"
 title: "Política de Privacidad"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-- title: "Menú Principal"
-  nav: general
-
 ---
 
 ## Quiénes somos

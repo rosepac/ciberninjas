@@ -11,13 +11,6 @@ comments: false
 date: 2019-11-23 07:30:00 +0200
 thumbnail: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
 feature-img: 'https://i.ibb.co/S5PqsHW/black-friday-2925476-1280.jpg'
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-- title: "Catálogo"
-  nav: tienda
 ---
 
 

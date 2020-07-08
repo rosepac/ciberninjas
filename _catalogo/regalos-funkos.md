@@ -13,9 +13,6 @@ canonical_URL: https://ciberninjas.com/regalos-funkos/
 thumbnail: https://i.ibb.co/BGJ9jjL/libros-mariposa.gif
 feature-img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
-sidebar:
-- title: "Catálogo"
-  nav: tienda
 ---
 
 [Dragon Ball](/regalos-funkos/#dragon-ball){: .btn .btn--inverse .btn--large} [Cómo Entrenar a tu Dragon](/regalos-funkos/#cómo-entrenar-a-tu-dragón){: .btn .btn--inverse .btn--large} [Disney](/regalos-funkos/#dragon-ball){: .btn .btn--info .btn--large}

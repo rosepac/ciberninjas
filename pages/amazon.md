@@ -6,18 +6,6 @@ excerpt: "Las Mejores Ofertas de Amazon durante Todo el Año"
 permalink: /amazon/
 canonical_URL: https://ciberninjas.com/amazon/
 published: true
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sort_by: date
-sort_order: reverse
-author: rosepac
-bootstrap: true
-entries_layout: grid
-sidebar:
-- title: "Catálogo"
-  nav: tienda
 ---
 
 

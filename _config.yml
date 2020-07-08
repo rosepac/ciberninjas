@@ -1,24 +1,24 @@
 # SITE CONFIGURATION
-baseurl: "/ciberninjas"
+baseurl: "/ciberninjas/"
 url: "https://rosepac.github.io"
 
 # Configuración
 title: Ciberninjas
 description: "El Jardín Digital del Saber Ninja 🌱 Los mejores recursos para aprender programación, desarrollo y diseño web"
 # : Libros PDF, cursos, tutoriales y eventos
-avatar: "assets/images/logos/ciberninjas-emoji-160px.png"
-favicon: "assets/images/logos/ciberninjas-emoji-64px.ico"
+avatar: "/assets/images/logos/ciberninjas-emoji-160px.png"
+favicon: "/assets/images/logos/ciberninjas-emoji-64px.ico"
 
 # Header and footer text
 header_text: "El Jardín Digital del Saber Ninja"
-header_feature_image: assets/img/jardin-digital.webp
+header_feature_image: /assets/img/jardin-digital.webp
 footer_text: >
   © 2020 Ciberninjas. Recursos de Programación, Diseño y Tecnología
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
-color_image: assets/img/lineart.png                    # A bit transparent for color posts.
+color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
 # Features
 katex: false                                            # Enable if using math markup

@@ -8,9 +8,6 @@ canonical_URL: https://ciberninjas.com/libreria/
 thumbnail: https://i.ibb.co/BGJ9jjL/libros-mariposa.gif
 feature-img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
-sidebar:
-- title: "Catálogo"
-  nav: tienda
 ---
 
 Aquí se encuentran los libros que están fuera de lo relacionado a la temática de la tecnología; en general novelas y novelas en inglés; que en la mayoría de casos aparecen dentro de los distintos listados de las publicaciones de recomendaciones de libros de personajes reconocidos.

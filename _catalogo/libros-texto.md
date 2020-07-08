@@ -17,9 +17,6 @@ feature-img: "https://i.ibb.co/MCjCSdR/photo-1550376026-33cbee34f79e-ixlib-rb-1-
 img: "https://i.ibb.co/MCjCSdR/photo-1550376026-33cbee34f79e-ixlib-rb-1-2.jpg"
 permalink: /libros-texto/
 canonical_URL: https://ciberninjas.com/libros-texto/
-sidebar:
-- title: "Catálogo"
-  nav: tienda
 ---
 
 ## 🕵️‍♂️ Saber Más

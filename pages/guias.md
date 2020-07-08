@@ -9,12 +9,6 @@ permalink: /guias/
 canonical_URL: https://ciberninjas.com/guias/
 author: rosepac
 bootstrap: true
-entries_layout: grid
-sort_by: date
-sort_order: reverse
-# sidebar:
-# - title: "Menú Principal"
-#   nav: general
 ---
 
 Guías de brotes verdes con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales.

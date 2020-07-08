@@ -11,13 +11,6 @@ comments: false
 date: 2020-03-20 23:16:00 +0200
 thumbnail: 'https://i.ibb.co/dghC7JV/ordenador-componentes.gif'
 feature-img: 'https://i.ibb.co/gmjL2qb/photo-1513366884929-f0b3bedfb653-ixlib-rb-1-2.jpg'
-toc: false
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-- title: "Catálogo"
-  nav: tienda
 ---
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)

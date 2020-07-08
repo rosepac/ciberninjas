@@ -3,16 +3,9 @@ layout: page
 title: "Eventos de Hoy sobre Tecnología, Programación, Diseño"
 description: "Los eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
 excerpt: "Los eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
-
 permalink: /eventos/
 canonical_URL: https://ciberninjas.com/eventos/
 published: true
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
-sort_by: title
-sort_order: reverse
 author: rosepac
 bootstrap: true
 thumbnail: /assets/img/blog/reloj-hoy.webp

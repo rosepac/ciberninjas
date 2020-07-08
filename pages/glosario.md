@@ -6,12 +6,6 @@ excerpt: "🔠 Glosario Tecnológico de los Ciberninjas"
 permalink: /glosario/
 author: rosepac
 bootstrap: true
-
-sort_by: date # (default) title
-sort_order: reverse
-sidebar:
-- title: "Menú Principal"
-  nav: general
 ---
 
 Lista de las palabras y entradas más recientes, agregadas a mi `glosario`.

@@ -9,7 +9,4 @@ bootstrap: true
 comments: false
 date: 2019-07-17 08:07:47
 permalink: /mapa-web/
-sidebar:
-- title: "Menú Principal"
-  nav: general
 ---

@@ -7,11 +7,6 @@ author: rosepac
 bootstrap: true
 permalink: /biblioteca/
 canonical_URL: https://ciberninjas.com/biblioteca/
-sort_by: date
-sort_order: reverse
-sidebar:
-- title: "Menú Principal"
-  nav: general
 ---
 
 Los libros y cursos aquí mostrados son documentos de vital importancia para el aprendizaje del desarrollo web en español. Los mejores recursos en tu idioma preferido 😻

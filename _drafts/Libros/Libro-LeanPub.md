@@ -1,9 +1,7 @@
 ---
-# 🕸 Administración y Redes, 🧠 Neuropsicología, ⭐ ecomendaciones, 🔐 Seguridad Informática
 title: "🔐 TITULO"
 categories:
 - Catálogo
-# MODIFICAR CATEGORÍA
 - Seguridad Informática
 tags:
 - Libro
@@ -15,30 +13,13 @@ date: 2019-09-14 09:34:54
 permalink: /catalogo/*
 description: '.'
 excerpt: '.'
-feature-img: 
-actions:
-  - label: "+ SEGURIDAD INFORMÁTICA"
-    url: "/categoria/#seguridad-inform%C3%A1tica"
-  - label: "🛒 COMPRAR"
-    url: "ENLACE LEANPUB"
+feature-img:
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
 author: rosepac
 bootstrap: true
-# IMAGEN DE TAMAÑO REDUCIDO X250 DE ANCHO MÁXIMO
-sidebar:
-  - title: "Autores"
-    image: /assets/img/catalogo/Web-Hacking-101x250.jpg
-    image_alt: "DESCRIPCION"
-    text: "AUTOR"
-  - title: "Precio Sugerido"
-    text: " €"
-  - title: "Precio Mínimo"
-    text: " €"
-    nav: catalogo
-    
 ---
 
 Hasta Febrero 2017, Twitter ha pagado más de $640,000 USD a hackers éticos por reportar vulnerabilidades en su plataforma. Google, Facebook, Shopify, Dropbox, y muchos más, solicitan hackers éticos que busquen fallos de seguridad en sus sitios y pagarles por sus hallazgos. Este libro te enseñará cómo iniciarte en el hacking ético.

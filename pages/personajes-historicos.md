@@ -10,19 +10,9 @@ date: 2019-09-11T16:18:02-05:00
 last_modified_at: 2019-10-30T15:40:02-05:00
 permalink: /personajes-historicos/
 canonical_URL: https://ciberninjas.com/personajes-historicos/
-sort_by: date # (default) title
-sort_order: reverse
-entries_layout: grid
 published: true
-# author: rosepac
+author: rosepac
 bootstrap: true
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
-sidebar:
-- title: "Historia Computadora"
-  nav: historia
 ---
 
 **IMPORTANTE**: El contenido en esta página incluido y traducido además de las páginas adyacentes sobre el directorio de ```/personajes-historicos/``` así como las fotografías incluidas se encuentran bajo los derechos de autoría y Copyright © 2019 de Computer History Museum. NO COPIAR, NI REPRODUCIR sin su consentimiento previo.

@@ -23,4 +23,4 @@ script:
 after_script:
   - gem install type-on-strap
   - gem install jekyll-theme-type-on-strap
-  - docker pull sylhare/type-on-strap
+# - docker pull sylhare/type-on-strap

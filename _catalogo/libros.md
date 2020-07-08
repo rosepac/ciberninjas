@@ -13,8 +13,6 @@ canonical_URL: https://ciberninjas.com/libros/
 thumbnail: https://i.ibb.co/BGJ9jjL/libros-mariposa.gif
 feature-img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
-sidebar:
-  nav: libros
 ---
 <!-- IMPORTANTE: RECORDAR NO CAMBIAR TITULOS POR SI HAN SIDO COMPARTIDOS EN OTRO LUGAR, COLOCAR ICONO AL FINAL DE ENLACES DE CATEGORIAS. SOLO AL PRINCIPIO DENTRO DE LAS CATEGORIAS GLOBALES. TITULOS DE NIVEL 3, ICONOS DE FONT AWESOME -->
 <!-- [](){: .btn .btn--inverse .btn--large}  -->

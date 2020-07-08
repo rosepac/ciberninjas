@@ -7,9 +7,6 @@ date: 2019-10-08 12:00:10
 published: true
 permalink: /gracias/
 canonical_URL: https://ciberninjas.com/gracias/
-sidebar:
-- title: "Menú Principal"
-  nav: general
 ---
 
 **😻 Mil Gracias, ¡Los Ciberninjas Te Queremos!**

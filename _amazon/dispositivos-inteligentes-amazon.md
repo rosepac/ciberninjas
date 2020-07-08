@@ -11,18 +11,6 @@ comments: false
 date: 2019-11-29 05:26:00 +0200
 thumbnail: 'https://i.ibb.co/R2WZfKG/black-friday-day.gif'
 feature-img: 'https://i.ibb.co/nMt3KBQ/amazon-alexa-1.jpg'
-actions:
-  - label: "Consolas & Videojuegos"
-    url: "/videojuegos/"
-  - label: "Disney"
-    url: "/disney-frozen-amazon/"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-sidebar:
-- title: "Catálogo"
-  nav: tienda
 ---
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
