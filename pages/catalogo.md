@@ -1,5 +1,4 @@
 ---
-
 layout: page
 title: "🛒 Catálogo Ciberninjas"
 description: Catálogo Completo de Los Libros Más Recomendados en Programación y Tecnología
@@ -16,7 +15,6 @@ toc_sticky: false
 permalink: /catalogo/
 canonical_URL: https://ciberninjas.com/catalogo/
 entries_layout: grid
-
 sidebar:
 - title: "Catálogo"
   nav: tienda

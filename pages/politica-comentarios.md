@@ -1,4 +1,5 @@
 ---
+layout: page
 description: "Respecto y Pautas a seguir respecto al uso de los comentarios dentro de la página web: Ciberninjas, siendo un buen Internauta"
 excerpt: "Respecto y Pautas a seguir respecto al uso de los comentarios dentro de la página web: Ciberninjas, siendo un buen Internauta"
 date: 2018-12-01T12:42:42-05:00

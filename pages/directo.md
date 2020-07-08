@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Noticias en Directo de Programación & Tecnología"
 description: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter sobre información tecnológica."
 excerpt: "Sección de  todas las noticias de tecnología más importantes a tiempo real. Una completa recopilación de listas de Twitter sobre información tecnológica."

@@ -1,4 +1,5 @@
 ---
+layout: page
 author: rosepac
 bootstrap: true
 date: 2018-12-01T12:42:42-05:00

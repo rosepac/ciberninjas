@@ -1,8 +1,7 @@
 ---
 title: "Publicaciones por Etiquetas"
 permalink: /etiqueta/
-
-layout: tags
+layout: page
 author: rosepac
 bootstrap: true
 sidebar:

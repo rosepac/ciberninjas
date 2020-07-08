@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: page
 title: "Videotutoriales: Archivo de los Mejores Videotutoriales del Mundo en Español"
 description: "Cientos de tutoriales sobre tecnología de Youtube organizados por diferentes temáticas"
 excerpt: "Cientos de tutoriales sobre tecnología de Youtube organizados por diferentes temáticas"
@@ -15,7 +15,6 @@ sort_by: title
 sort_order: reverse
 author: rosepac
 bootstrap: true
-entries_layout: grid
 ---
 
 <a href="/categoria/#videotutorial-scratch" title="Mejores Videotutoriales y Más Actuales sobre Programación para Niños / Niñas con Scratch" class="btn btn--success btn--large"><i class="fas fa-cat"></i> Programación Infantil</a> <a href="/categoria/#videotutorial-seo-y-posicionamiento" title="Mejores Videotutoriales y Más Actuales sobre el SEO y el Posicionamiento Web" class="btn btn--success btn--large"><i class="fas fa-arrow-circle-up"></i> Seo & Posicionamiento</a> <a href="/categoria/#videotutorial-android-studio" title="Mejores Videotutoriales y Más Actuales sobre el SEO y el Posicionamiento Web" class="btn btn--success btn--large"><i class="fab fa-android"></i> Android Studio</a> <a href="/categoria/#videotutorial-javascript" title="Mejores Videotutoriales y Más Actuales sobre Javascript" class="btn btn--success btn--large"><i class="fab fa-js-square"></i> Javascript</a> <a href="/categoria/#videotutorial-wordpress" title="Mejores Videotutoriales de Wordpress y diseño de plantillas Wordpress" class="btn btn--success btn--large"><i class="fab fa-wordpress"></i> Wordpress</a> <a href="/categoria/#videotutorial-seguridad" title="Mejores Videotutoriales de Seguridad Informática Sobre Frameworks y CMS" class="btn btn--success btn--large"><i class="fas fa-lock"></i> Seguridad</a>

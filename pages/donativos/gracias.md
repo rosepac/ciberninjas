@@ -1,4 +1,5 @@
-# ---
+---
+layout: page
 title: "😻 Mil Gracias, ¡Los Ciberninjas Te Queremos!"
 description: '😻 Mil Gracias, ¡Los Ciberninjas Te Queremos!'
 excerpt: '😻 Mil Gracias, ¡Los Ciberninjas Te Queremos!'

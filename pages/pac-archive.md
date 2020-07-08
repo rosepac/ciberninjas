@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: page
 title: "😻 Pensamiento Libre, Pensamientos de Libertad 😻"
 description: "📰 Pensamiento Libre, Pensamientos de Libertad: Mis Colecciones"
 excerpt: "📰 Pensamiento Libre, Pensamientos de Libertad: Mis Colecciones"

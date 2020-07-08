@@ -1,8 +1,7 @@
 ---
+layout: page
 title: "Publicaciones por Categorías"
-layout: categories
 permalink: "/categoria/"
-
 author: rosepac
 bootstrap: true
 sidebar:

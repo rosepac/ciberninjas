@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "😿 Siento que no haya sido de tu agrado"
 description: '😿 Siento que no haya sido de tu agrado.'
 excerpt: '😿 Siento que no haya sido de tu agrado.'

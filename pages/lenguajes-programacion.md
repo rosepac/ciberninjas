@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Aprender Todos los Lenguajes de Programación'
 permalink: /lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/lenguajes-programacion/

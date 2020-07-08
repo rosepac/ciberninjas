@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "✅ Únete al Chat de Programación y Tecnología 👌"
 description: "🚀 El mejor Chat en español de tecnología, todo el cibermundo en un único espacio."
 excerpt: "🚀 El mejor Chat en español de tecnología, todo el cibermundo en un único espacio."
