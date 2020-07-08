@@ -3,10 +3,10 @@ title: '📖 Un libro gratis al día, en inglés. Hoy: Learning Docker'
 comments: false
 date: 2018-12-19 06:12:10
 tags:
-    - Libro
-    - Packtpub
+  - Libro
+  - Packtpub
 categories:
-    - Otros
+  - Otros
 permalink: /un-libro-gratis-al-dia-en-ingles-hoy-learning-docker
 ---
 ## Aprender a Controlar Docker

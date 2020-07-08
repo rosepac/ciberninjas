@@ -7,7 +7,6 @@ published: true
 author: rosepac
 bootstrap: true
 comments: false
-
 date: 2020-01-31 11:20:33
 last_modified_at: 
 thumbnail: https://i.ibb.co/3SbbVS3/ionic-framework-og.png

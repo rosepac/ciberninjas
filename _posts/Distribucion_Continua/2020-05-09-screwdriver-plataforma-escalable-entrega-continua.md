@@ -12,7 +12,6 @@ thumbnail: /assets/img/blog/10-captura-destornillador.webp
 feature-img: /assets/img/blog/10-captura-destornillador.webp
 permalink: /screwdriver-plataforma-escalable-entrega-continua/
 canonical_URL: https://ciberninjas.com/screwdriver-plataforma-escalable-entrega-continua/
-
 categories:
 - Distribución Continua
 tags:

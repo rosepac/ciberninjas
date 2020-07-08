@@ -6,11 +6,8 @@ description: 'ICONO-TEMATICA RESUMEN'
 excerpt: 'ICONO-TEMATICA RESUMEN'
 published: false
 date: 2019-09-30 18:50:00
-# Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
-- SDK Multiplataforma
-# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
-tags:
+- SDK Multiplataformatags:
 - Ionic
 - Phonegap
 - Xamarin
@@ -41,15 +38,15 @@ Ember, Backbone, Aurelia, Polymer, Mithril, <!-- https://raygun.com/blog/popular
 Semantic UI
 Pure CSS
 UIKit
-15. Onsen UI
-16. Framework 7
-17. Tailwind CSS
-18. Skeleton
-19. Montage http://montagejs.org/
-20. TouchStone JS
-21. Milligram
-22. Siimple <!-- https://www.siimple.xyz/ -->
-23. Cardinal <!-- https://cardinalcss.com/ -->
+1.  Onsen UI
+2.  Framework 7
+3.  Tailwind CSS
+4.  Skeleton
+5.  Montage http://montagejs.org/
+6.  TouchStone JS
+7.  Milligram
+8.  Siimple <!-- https://www.siimple.xyz/ -->
+9.  Cardinal <!-- https://cardinalcss.com/ -->
 Susy
 Bootflat <!-- http://bootflat.github.io/ -->
 Groundwork <!-- https://groundworkcss.github.io/ -->

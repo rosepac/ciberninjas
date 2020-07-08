@@ -7,7 +7,6 @@ published: true
 author: rosepac
 bootstrap: true
 comments: false
-
 date: 2020-06-28 11:15:33
 last_modified_at: 
 thumbnail: /assets/img/2020-news/ionic-4-2020.webp

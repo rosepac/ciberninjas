@@ -7,8 +7,6 @@ tags:
 - Udemy
 categories:
 - Cursos
-# header:
-#   teaser: /assets/img/blog/
 title: 'Los 100 Cursos de Programación GRATIS más nuevos de Udemy'
 description: >-
   Los cursos más novedosos y totalmente gratuitos en español de React, Angular, Javascript, Java, Vue, Xamarin, SQL, Python, Django, Kotlin, Swift, HTML, CSS, etc.

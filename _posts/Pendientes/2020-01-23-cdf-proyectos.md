@@ -10,7 +10,6 @@ date: 2019-11-19 19:10:12
 last_modified_at: 
 published: false
 canonical_URL: /cumbre-cd-nuevos-miembros/
-
 categories:
 - Distribución Continua
 tags:

@@ -7,8 +7,6 @@ tags:
 - Udemy
 categories:
 - Cursos
-# header:
-#   teaser: /assets/img/blog/
 title: '21 Cursos Más GRATUITOS de programación en inglés (17 al 20 de Mayo)'
 description: >-
   Los mejores cupones gratuitos de Udemy para Mayo: Java, Javascript, React, Angular, Docker, Linux y mucho más

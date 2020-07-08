@@ -9,7 +9,7 @@ published: true
 categories:
 - Actualidad
 - Educación
-# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
+# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK
 tags:
 - Ministra
 - Celaá

@@ -2,7 +2,6 @@
 author: rosepac
 bootstrap: true
 comments: false
-
 tags:
 - Java
 - Python

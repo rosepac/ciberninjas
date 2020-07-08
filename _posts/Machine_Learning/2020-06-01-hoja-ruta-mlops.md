@@ -3,7 +3,6 @@
 author: rosepac
 bootstrap: true
 comments: false
-
 tags:
 - Aprendizaje Profundo
 - Ciencia de Datos

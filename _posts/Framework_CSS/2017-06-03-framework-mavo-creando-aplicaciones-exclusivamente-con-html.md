@@ -6,7 +6,6 @@ excerpt: "✅ Con el framework MAVO serás capaz de crear aplicaciones simplemen
 author: rosepac
 bootstrap: true
 comments: false
-
 date: 2017-06-03 03:06:40
 tags:
 - HTML

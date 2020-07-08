@@ -6,7 +6,6 @@ description: "🌟 Panórama de todas las empresas y proyectos que existen relac
 excerpt: "🌟 Panórama de todas las empresas y proyectos que existen relacionados con la Nube Nativa o Cloud Native"
 published: true
 comments: false
-
 date: 2020-07-01 17:27:12
 last_modified_at: 
 thumbnail: /assets/img/2020-news/cncf-landscape-horizontal-color.webp

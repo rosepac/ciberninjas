@@ -2,9 +2,7 @@
 
 author: rosepac
 bootstrap: true
-
 comments: false
-
 tags:
 - Libros
 - Mark Zuckerberg

@@ -10,9 +10,10 @@ date: 2020-03-13 11:22:12
 last_modified_at: 2020-01-13 11:02:12
 canonical_URL: https://ciberninjas.com/que-aprender-sobre-machine-learning-2020/
 permalink: /que-aprender-sobre-machine-learning-2020/
-
 categories:
 - Aprendizaje Automático
+tags:
+- aprender
 thumbnail: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 ---

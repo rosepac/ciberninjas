@@ -15,7 +15,6 @@ thumbnail: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1
 feature-img: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo-1280x700.webp
 permalink: /como-aprender-flutter/
 canonical_URL: https://ciberninjas.com/como-aprender-flutter/
-
 tags:
 - Flutter
 categories:

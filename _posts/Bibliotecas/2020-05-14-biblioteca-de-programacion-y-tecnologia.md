@@ -5,12 +5,10 @@ description: "Los Mejores Libros PDF Gratuitos de Informática - Programar para 
 excerpt: "Los Mejores Libros PDF Gratuitos de Informática - Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
 author: rosepac
 bootstrap: true
-
 date: 2020-05-27T22:00:00.000+00:00
 last_modified_at:
 permalink: /biblioteca-de-programacion-y-tecnologia/
 canonical_URL: https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/
-
 published: true
 thumbnail: "/assets/img/chico-buscando-libro-biblioteca.jpg"
 feature-img: "/assets/img/chico-buscando-libro-biblioteca.jpg"

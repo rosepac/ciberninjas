@@ -5,7 +5,6 @@ excerpt: "React Native, aprende todo lo que debes saber sbore este impresionante
 date: 2020-04-18 01:00:00 +0100
 canonical_URL: https://ciberninjas.com/react-native/
 permalink: /react-native/
-
 published: true
 categories:
   - Framework Multiplataforma

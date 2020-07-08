@@ -7,8 +7,6 @@ tags:
 - Udemy
 categories:
 - Cursos
-# header:
-#   teaser: /assets/img/blog/
 title: '38 Nuevos Cursos de Udemy del 18 al 20 de Mayo'
 description: >-
   Los mejores cupones gratuitos de Udemy para Mayo: Desarrollo, Arduino, Edición de Vídeo, SEO, Seguridad, Agile, CSS, Afiliados, Blockchain..

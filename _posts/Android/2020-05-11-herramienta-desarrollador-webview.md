@@ -3,12 +3,10 @@
 author: rosepac
 bootstrap: true
 comments: false
-
 tags:
 - Android
 categories:
 - Sistema Operativo
-
 thumbnail: /assets/img/blog/11-android-11-desarrolladores.webp
 feature-img: /assets/img/blog/11-android-11-desarrolladores.webp
 title: '🔩 ▷ Webview en Beta: Herramienta de depuración para desarrolladores Android'

@@ -3,10 +3,10 @@ title: '📹 Libro o vídeo gratis al día, en inglés. Hoy: videotutorial sobre
 comments: false
 date: 2019-02-27 04:02:28
 tags:
-    - Packtpub
-    - Vídeo
+- Packtpub
+- Vídeo
 categories:
-    - Otros
+- Otros
 permalink: /libro-o-video-gratis-al-dia-en-ingles-hoy-procesamiento-del-lenguaje-natural-de-proxima-generacion-con-python
 ---
 ## Procesamiento de lenguaje natural de próxima generación con Python, videotutorial.

@@ -7,7 +7,6 @@ description: "Jugar los mejores juegos gratis es el camino más rápido para aho
 excerpt: "Jugar los mejores juegos gratis es el camino más rápido para ahorrar mucho dinero en efectivo y al mismo tiempo obtener la mejor experiencia de juego. Elegimos 45 de los mejores juegos gratuitos que se ofrecen en este momento, por lo que puede elegir en 2020."
 permalink: /videojuegos-gratis/
 canonical_URL: https://ciberninjas.com/videojuegos-gratis/
-
 thumbnail: https://i.ibb.co/cvCZqW2/gamer-jugando.gif
 feature-img: https://i.ibb.co/N22jWGY/gamer-girl.jpg
 comments: false

@@ -8,7 +8,6 @@ comments: false
 date: 2020-01-21 06:43:00 +0200
 permalink: /palabras-lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/palabras-lenguajes-programacion/
-
 tags:
   - Lenguajes de Programación
 categories:

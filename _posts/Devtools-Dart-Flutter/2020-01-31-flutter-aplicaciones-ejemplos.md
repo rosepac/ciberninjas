@@ -10,8 +10,7 @@ comments: false
 date: 2020-06-13 01:32:33
 last_modified_at: 
 thumbnail: /assets/img/blog/flutter-1024x486.webp
-feature-img: /assets/img/blog/flutter-1024x486.webp
-tags:
+feature-img: /assets/img/blog/flutter-1024x486.webptags:
 - Flutter
 - Móviles
 - Aplicaciones

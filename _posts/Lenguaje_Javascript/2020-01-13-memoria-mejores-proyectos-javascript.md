@@ -6,13 +6,11 @@ description: "🌟 Las librerías de Javascript de código abierto más usadas y
 excerpt: "🌟 Las librerías de Javascript de código abierto más usadas y premiadas dentro de Github, análisis de seguimiento anual"
 published: true
 comments: false
-
 date: 2020-01-13 23:27:12
 last_modified_at: 
 thumbnail: https://i.ibb.co/WzMT6DF/javascript-logos-proyectos.png
 feature-img: https://i.ibb.co/WzMT6DF/javascript-logos-proyectos.png
 canonical_URL: /memoria-mejores-proyectos-javascript/
-
 categories:
 - Librerías Javascript
 tags:

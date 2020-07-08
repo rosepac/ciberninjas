@@ -8,8 +8,7 @@ published: true
 categories:
 - Educación
 - Aplicaciones
-# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
-tags:
+# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.tags:
 - Calendario
 - Escuela
 - Universidad

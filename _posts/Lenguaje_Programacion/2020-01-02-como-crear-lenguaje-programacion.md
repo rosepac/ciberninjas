@@ -11,6 +11,9 @@ last_modified_at: 2020-01-02 17:45:12
 canonical_URL: /manual-crear-lenguaje-programacion/
 thumbnail: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
 feature-img: https://i.ibb.co/q1xYTvG/photo-1480843669328-3f7e37d196ae-ixlib-rb-1-2.jpg
+tags:
+- programación
+- reflexión
 toc: false
 toc_label: "Contenidos"
 toc_icon: user-ninja

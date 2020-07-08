@@ -5,7 +5,6 @@ excerpt: "✅ Foundation Building Blocks ⚡️ Una completa biblioteca de compo
 date: 2017-05-16T03:05:35.000+00:00
 permalink: /foundation-building-blocks-kits-salvavidas-para-proyectos-web/
 canonical_URL: https://ciberninjas.com/foundation-building-blocks-kits-salvavidas-para-proyectos-web/
-
 thumbnail: "/assets/img/foundation_1.jpg"
 feature-img: "/assets/img/foundation_1.jpg"
 tags:

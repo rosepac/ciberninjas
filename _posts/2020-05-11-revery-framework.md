@@ -3,8 +3,6 @@
 author: rosepac
 bootstrap: true
 comments: false
-
-
 tags:
 - Revery
 - React

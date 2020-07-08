@@ -6,8 +6,7 @@ date: 2019-09-15 18:47:00 +0200
 categories:
   - Actualidad
   - Aplicaciones
-  - Seguridad
-tags:
+  - Seguridadtags:
   - Autentificación
   - Doble Factor
 thumbnail: /assets/img/aplicacion-andotp.webp

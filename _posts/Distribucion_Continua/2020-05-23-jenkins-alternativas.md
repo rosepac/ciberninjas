@@ -1,9 +1,8 @@
 ---
+
 author: rosepac
 bootstrap: true
 comments: false
-
-
 tags:
 - Jenkins
 - Buddy

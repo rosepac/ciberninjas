@@ -7,11 +7,11 @@ bootstrap: true
 comments: false
 date: 2019-01-21 06:01:35
 tags:
-    - Inteligencia Artificial
-    - Fabricación
-    - Industrialización
+- Inteligencia Artificial
+- Fabricación
+- Industrialización
 categories:
-    - Inteligencia Artificial
+- Inteligencia Artificial
 permalink: >
     /flexciton-utiliza-la-inteligencia-artificial-para-ayudar-a-las-fabricas-a-optimizar-las-lineas-de-produccion
 ---

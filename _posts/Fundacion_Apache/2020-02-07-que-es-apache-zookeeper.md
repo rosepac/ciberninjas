@@ -13,7 +13,6 @@ feature-img: /assets/img/apache/apache-zookeeper-ciberninjas.png
 permalink: /que-es-apache-zookeeper/
 canonical_URL: https://ciberninjas.com/que-es-apache-zookeeper/
 permalink: /que-es-apache-zookeeper/
-
 categories:
 - Apache
 tags:

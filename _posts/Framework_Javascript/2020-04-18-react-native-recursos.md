@@ -5,7 +5,6 @@ excerpt: "React Native: Los recursos más útiles, libros, tutoriales, videotuto
 date: 2020-04-18 01:00:00 +0100
 canonical_URL: https://ciberninjas.com/react-native-recursos/
 permalink: /react-native-recursos/
-
 published: true
 categories:
   - Framework Multiplataforma

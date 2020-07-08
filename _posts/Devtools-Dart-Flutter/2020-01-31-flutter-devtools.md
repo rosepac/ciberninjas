@@ -7,12 +7,10 @@ published: true
 author: rosepac
 bootstrap: true
 comments: false
-
 date: 2020-06-28 12:05:33
 last_modified_at: 
 thumbnail: /assets/img/2020-news/vscode-show-in-browser.webp
-feature-img: /assets/img/2020-news/vscode-show-in-browser.webp
-tags:
+feature-img: /assets/img/2020-news/vscode-show-in-browser.webptags:
 - Flutter
 - Dart
 categories:

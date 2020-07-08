@@ -1,7 +1,6 @@
 ---
 author: rosepac
 bootstrap: true
-
 title: "¡Disponible Tekton Beta! ¡El proyecto Tekton se encuentra buscando colaboradores, beta testers y más!"
 description: "Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo al estado beta con el lanzamiento de v0.11.0 esta semana. Tekton es un proyecto de código abierto que crea una nube nativa.."
 excerpt: "Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo al estado beta con el lanzamiento de v0.11.0 esta semana. Tekton es un proyecto de código abierto que crea una nube nativa.."
@@ -13,7 +12,6 @@ thumbnail: /assets/img/blog/pagina-tekton.webp
 feature-img: /assets/img/blog/pagina-tekton.webp
 canonical_URL: https://ciberninjas.com/tekton-beta/
 permalink: /tekton-beta/
-
 categories:
 - Distribución Continua
 tags:

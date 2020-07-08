@@ -9,7 +9,7 @@ comments: false
 date: 2020-01-15 09:58:12
 last_modified_at: 
 canonical_URL: /como-mantener-tu-privacidad-usando-android/
-categories:
+tags:
 - Seguridad
 thumbnail: https://i.ibb.co/ysmZJM8/smartphone-technology-telephone-gadget-mobile-phone-android-618203-pxhere-com.jpg
 feature-img: https://i.ibb.co/ysmZJM8/smartphone-technology-telephone-gadget-mobile-phone-android-618203-pxhere-com.jpg

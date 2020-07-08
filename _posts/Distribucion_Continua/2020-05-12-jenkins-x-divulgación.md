@@ -2,7 +2,6 @@
 
 author: rosepac
 bootstrap: true
-
 title: "▷ Jenkins X: Divulgación, solicitud y búsqueda de ayuda"
 description: "Neha Gupta está agregando soporte para Kustomize en Jenkins X, para habilitar la gestión de configuración nativa de Kubernetes, mientras participa en Outreachy.."
 excerpt: "Neha Gupta está agregando soporte para Kustomize en Jenkins X, para habilitar la gestión de configuración nativa de Kubernetes, mientras participa en Outreachy.."
@@ -12,7 +11,6 @@ date: 2020-05-12 19:10:12
 last_modified_at: 
 canonical_URL: https://ciberninjas.com/jenkins-x-divulgación/
 permalink: /jenkins-x-divulgación/
-
 categories:
 - Distribución Continua
 tags:

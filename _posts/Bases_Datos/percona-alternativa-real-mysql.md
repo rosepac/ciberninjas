@@ -7,11 +7,8 @@ excerpt: '🗃 Percona, la Alternativa Real a MySql.'
 published: true
 date: 2019-10-07 17:45:02
 last_modified_at: 2019-10-07 07:20:10
-# Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
-- BBDD
-# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
-tags:
+- BBDDtags:
 - Percona
 - MySql
 thumbnail: "/assets/img/final_sdk_varios.jpg"

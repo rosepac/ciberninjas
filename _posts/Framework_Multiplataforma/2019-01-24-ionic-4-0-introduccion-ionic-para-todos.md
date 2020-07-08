@@ -6,7 +6,6 @@ published: true
 author: rosepac
 bootstrap: true
 comments: false
-
 date: 2019-01-24 07:01:33
 last_modified_at: 2019-10-30T09:36:00
 tags:

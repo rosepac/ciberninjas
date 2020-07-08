@@ -9,7 +9,6 @@ comments: false
 date: 2020-01-22 16:40:12
 last_modified_at: 
 canonical_URL: /cumbre-cd-nuevos-miembros/
-
 categories:
 - Distribución Continua
 tags:

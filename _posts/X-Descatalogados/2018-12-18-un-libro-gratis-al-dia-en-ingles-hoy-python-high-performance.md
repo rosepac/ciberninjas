@@ -3,10 +3,10 @@ title: '📖 Un libro gratis al día, en inglés. Hoy: Python High Performance'
 comments: false
 date: 2018-12-18 04:12:12
 tags:
-    - Libro
-    - Packtpub
+  - Libro
+  - Packtpub
 categories:
-    - Otros
+  - Otros
 permalink: /un-libro-gratis-al-dia-en-ingles-hoy-python-high-performance
 ---
 ## Aprender a programar en Python

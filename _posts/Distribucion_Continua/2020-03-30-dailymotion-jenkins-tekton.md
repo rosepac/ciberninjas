@@ -12,7 +12,6 @@ thumbnail: /assets/img/blog/10-dailymotion.webp
 feature-img: /assets/img/blog/10-dailymotion.webp
 canonical_URL: https://ciberninjas.com/dailymotin-jenkins-tekton/
 permalink: /dailymotin-jenkins-tekton/
-
 categories:
 - Distribución Continua
 tags:
