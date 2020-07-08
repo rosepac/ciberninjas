@@ -97,7 +97,7 @@ Los cursos lanzados en español no son muy numerosos, pero también; podrás acc
 
 En estos vídeos cortos, desde IBM, se pretende ofrecer una pequeña visión de diferentes puestos de trabajos con potencial de cara al futuro.
 
-{% include video id="playlist?list=PL8M1frRRqO_qaWzkZMZKjk8c7j09nHv8k" provider="youtube" %}
+https://www.youtube.com/playlist?list=PL8M1frRRqO_qaWzkZMZKjk8c7j09nHv8k
 
 Estos vídeos, están incluidos dentro de la plataforma P Tech y [puedes visualizarlos](https://kutt.it/consejos-para-estudiar){:target="_blank"} como si fuesen parte de una actividad.
 
