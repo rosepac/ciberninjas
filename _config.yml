@@ -21,7 +21,7 @@ post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
 # Features
-katex: false                                            # Enable if using math markup
+katex: true                                          # Enable if using math markup
 google_analytics: UA-142542230-1                        # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: false                                   # To respect the usage of cookies
 cookie_consent_disclaimer: false
