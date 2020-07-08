@@ -6,9 +6,6 @@ excerpt: "Sección de  todas las noticias de tecnología más importantes a tiem
 permalink: /directo/
 canonical_URL: https://ciberninjas.com/directo/
 published: true
-author: rosepac
-bootstrap: true
-thumbnail: /assets/img/paginas/tecnologia-noticias.webp
 feature-img: /assets/img/paginas/tecnologia-noticias.webp
 ---
 

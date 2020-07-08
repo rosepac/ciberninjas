@@ -4,9 +4,6 @@ title: 'Documentación de Ordenadores, Comunicación y Tecnología'
 permalink: /goct/
 canonical_URL: https://ciberninjas.com/goct/
 published: false
-author: rosepac
-bootstrap: true
-thumbnail: /assets/img/paginas/progmb.webp
 feature-img: /assets/img/paginas/progmb.webp
 excerpt: "La documentación sobre ordenadores, comunicaciones y tecnología más completa del mundo"
 description: "La documentación sobre ordenadores, comunicaciones y tecnología más completa del mundo"

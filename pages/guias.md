@@ -7,8 +7,6 @@ description: "Guías de brotes verdes con los que transmitir la información nec
 excerpt: "Guías de brotes verdes con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales."
 permalink: /guias/
 canonical_URL: https://ciberninjas.com/guias/
-author: rosepac
-bootstrap: true
 ---
 
 Guías de brotes verdes con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales.
@@ -28,5 +26,3 @@ Si te agradan estos contenidos puedes regar mi jardín echándome una mano a cui
 
 > Mi jardín se construye poco a poco, desde hace ya más de dos años. A pesar de ello, los contenidos aquí recopilados van cambiando; si deseas participar en esos cambios, siempre puedes contactarme a través de mis redes sociales (nickanme: ciberninjas), ¡Saludos y espero que lo disfrutéis!
 {: .notice--warning}
-
-{% include guias.html %}

@@ -6,9 +6,6 @@ excerpt: "Los eventos diarios en directo que se van realizando sobre las temáti
 permalink: /eventos/
 canonical_URL: https://ciberninjas.com/eventos/
 published: true
-author: rosepac
-bootstrap: true
-thumbnail: /assets/img/blog/reloj-hoy.webp
 feature-img: /assets/img/blog/reloj-hoy.webp
 ---
 

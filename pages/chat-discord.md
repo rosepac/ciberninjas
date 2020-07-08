@@ -6,7 +6,6 @@ excerpt: "🚀 El mejor Chat en español de tecnología, todo el cibermundo en u
 date: 2019-05-15T22:00:00.000+00:00
 last_modified_at: 2019-12-13T15:50:02-01:00
 permalink: /chat-discord/
-thumbnail: "/assets/img/ciberninjas-chat-discord.jpg"
 feature-img: "/assets/img/ciberninjas-chat-discord.jpg"
 ---
 
