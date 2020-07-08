@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/ciberninjas/"
+baseurl: "/"
 url: "https://rosepac.github.io"
 
 # Configuración
