@@ -41,36 +41,36 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:name
-#  guias:
-#    output: true
-#    permalink: /:collection/:name
-#  eff:
-#    output: true
-#    permalink: /:collection/:name
-#  biblioteca:
-#    output: true
-#    permalink: /:collection/:name
+  guias:
+    output: true
+    permalink: /:collection/:name
+  eff:
+    output: true
+    permalink: /:collection/:name
+  biblioteca:
+    output: true
+    permalink: /:collection/:name
   wiki:
     output: true
     permalink: /:collection/:name
-#  glosario:
-#    output: true
-#    permalink: /:collection/:name
-#  catalogo:
-#    output: true
-#    permalink: /:collection/:name
-#  historia-computadora:
-#    output: true
-#    permalink: /:collection/:name
-#  personajes-historicos:
-#    output: true
-#    permalink: /:collection/:name
-#  pac:
-#    output: true
-#    permalink: /:collection/:name
-#  amazon:
-#    output: true
-#    permalink: /:collection/:name
+  glosario:
+    output: true
+    permalink: /:collection/:name
+  catalogo:
+    output: true
+    permalink: /:collection/:name
+  historia-computadora:
+    output: true
+    permalink: /:collection/:name
+  personajes-historicos:
+    output: true
+    permalink: /:collection/:name
+  pac:
+    output: true
+    permalink: /:collection/:name
+  amazon:
+    output: true
+    permalink: /:collection/:name
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge

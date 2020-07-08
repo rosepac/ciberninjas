@@ -7,3 +7,5 @@ permalink: /glosario/
 ---
 
 Lista de las palabras y entradas más recientes, agregadas a mi `glosario`.
+
+{% include glosario.html %}

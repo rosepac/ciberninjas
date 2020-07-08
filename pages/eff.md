@@ -3,9 +3,13 @@ layout: page
 title: "EFF: Fundación Frontera Electrónica"
 description: "EFF: Fundación Frontera Electrónica, traducción por Pablo Álvarez Corredera: Ciberninjas"
 excerpt: "EFF: Fundación Frontera Electrónica, traducción por Pablo Álvarez Corredera: Ciberninjas"
+collection: eff
 permalink: /eff/
 canonical_URL: https://ciberninjas.com/eff/
 published: true
+author: rosepac
+bootstrap: true
+thumbnail: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
 feature-img: "https://www.eff.org/files/2018/07/17/logo-web-1920.png"
 ---
 
@@ -24,3 +28,5 @@ Además de todo esto, la EFF difunde y promueve diferentes proyectos y herramien
 {: .notice--info}
 
 ## 🔥 Últimas Actualizaciones.. 👇
+
+{% include eff.html %}

@@ -8,6 +8,9 @@ canonical_URL: https://ciberninjas.com/amazon/
 published: true
 ---
 
+
+{% include amazon.html %}
+
 [🤗 ¡Ayúdanos! 🎁 Visita Nuestro Canal de Afiliados de Amazon 🤘](https://www.amazon.es/shop/cibercursos){:target="_blank" rel="nofollow,noreferrer"}
 
 <h2><strong>Las Más Espectaculares Ofertas y Chollos de Productos Seleccionados 👇</strong></h2>

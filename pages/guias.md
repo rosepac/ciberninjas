@@ -26,3 +26,5 @@ Si te agradan estos contenidos puedes regar mi jardín echándome una mano a cui
 
 > Mi jardín se construye poco a poco, desde hace ya más de dos años. A pesar de ello, los contenidos aquí recopilados van cambiando; si deseas participar en esos cambios, siempre puedes contactarme a través de mis redes sociales (nickanme: ciberninjas), ¡Saludos y espero que lo disfrutéis!
 {: .notice--warning}
+
+{% include guias.html %}
