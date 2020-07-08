@@ -1,1 +1,0 @@
-* Xinu, que no Unix [*](https://xinu.cs.purdue.edu/)

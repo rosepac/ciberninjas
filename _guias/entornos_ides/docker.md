@@ -1,1 +1,0 @@
-* [Chuleta de Docker](https://i.ibb.co/CM8j1f4/chuleta-docker.jpg) por [Yodra Lopez](https://twitter.com/yodralopez)

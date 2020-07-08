@@ -1,1 +1,0 @@
-* [Sobre React](https://overreacted.io/){:target="_blank" rel="nofollow,noreferrer"}

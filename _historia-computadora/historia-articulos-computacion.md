@@ -1,1 +1,0 @@
-* [La medalla OBE de Alan Turing, el certificado de doctorado, otros artículos faltantes encontrados en la casa de los súper fanáticos en Colorado por agentes, dice el gobierno de EE. UU.](https://www.theregister.co.uk/2020/01/22/alan_turing_belongings_found/)
