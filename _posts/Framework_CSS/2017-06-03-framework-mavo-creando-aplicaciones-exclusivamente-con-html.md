@@ -1,5 +1,4 @@
 ---
-layout: single
 title: '👨‍💻 ▷Framework MAVO: Creando aplicaciones exclusivamente con HTML'
 published: true
 description: "✅ Con el framework MAVO serás capaz de crear aplicaciones simplemente desde la construcción a través del uso más avanzado del HTML"

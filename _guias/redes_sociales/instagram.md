@@ -1,6 +1,7 @@
 ---
 title: 🐤 ▷ Instagram, Aprender desde Cero
-description: "Aprende a Manejar y Los Mejores Trucos sobre Instagram. Desde cero todo lo que debes saber"excerpt: "Aprende a Manejar y Los Mejores Trucos sobre Instagram. Desde cero todo lo que debes saber"
+description: "Aprende a Manejar y Los Mejores Trucos sobre Instagram. Desde cero todo lo que debes saber"
+excerpt: "Aprende a Manejar y Los Mejores Trucos sobre Instagram. Desde cero todo lo que debes saber"
 date: 2019-10-16T21:00:00.000+00:00
 last_modified_at: 2019-12-10
 permalink: /instagram/

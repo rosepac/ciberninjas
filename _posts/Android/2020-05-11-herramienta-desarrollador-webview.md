@@ -8,7 +8,7 @@ tags:
 - Android
 categories:
 - Sistema Operativo
-layout: splash
+
 thumbnail: /assets/img/blog/11-android-11-desarrolladores.webp
 feature-img: /assets/img/blog/11-android-11-desarrolladores.webp
 title: '🔩 ▷ Webview en Beta: Herramienta de depuración para desarrolladores Android'

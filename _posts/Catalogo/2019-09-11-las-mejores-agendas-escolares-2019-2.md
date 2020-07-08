@@ -125,7 +125,7 @@ agenda-monica-1:
 
 > "Para Dejar de Hacer la Croqueta"
 
-{% include gallery id="agenda-croqueta-1" layout="half" caption="Agenda Escolar del videojuego Fortnite 2019/2020. Visto en Ciberninjas" %}
+{% include gallery2 id="agenda-croqueta-1" layout="half" caption="Agenda Escolar del videojuego Fortnite 2019/2020. Visto en Ciberninjas" %}
 
 Geniales agendas que nos ofrecen desde TanTanFan de un tamaño de A5. En este caso adornada con las divertidas ilustraciones de Ana Oncina basados en 'Croquetas y Empanadillas'.
 
@@ -139,7 +139,7 @@ Este vídeo nos ofrece la presentación del proyecto del Comic de Croquetas y Em
 
 ## Agenda Escolar del Escritor Defreds 2019/2020
 
-{% include gallery id="agenda-defreds-1" layout="half" caption="Agenda Escolar del escritor web digital Defreuds 2019/2020. Visto en Ciberninjas" %}
+{% include gallery2 id="agenda-defreds-1" layout="half" caption="Agenda Escolar del escritor web digital Defreuds 2019/2020. Visto en Ciberninjas" %}
 
 Geniales agendas que nos ofrecen desde TanTanFan de un tamaño de A5. En este caso con un decorado repleto de frases del escritor Defreuds, que incluye tapa dura con cantos redondos de color menta, una vista de dos páginas por semana, 8 páginas de pegatinas, página de pósits y un bolsillo doble para guardar tus cosas. Apartado de notas y más extras.
 
@@ -147,7 +147,7 @@ Geniales agendas que nos ofrecen desde TanTanFan de un tamaño de A5. En este ca
 
 ## Agenda de la Muser Lucía Bellido 2019/2020
 
-{% include gallery id="agenda-lucia-1" layout="half" caption="Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020. Visto en Ciberninjas" %}
+{% include gallery2 id="agenda-lucia-1" layout="half" caption="Agenda Escolar de la muser (de musically) y youtuber Lucía Bellido 2019/2020. Visto en Ciberninjas" %}
 
 Geniales agendas que nos ofrecen desde TanTanFan de un tamaño de A5. En este caso basada en las ilustraciones de la Youtuber, muser (amante de Musically) y escritora Lucía Bellido.
 
@@ -159,7 +159,7 @@ Esta agenda incluye tapa dura con cantos redondos de color menta, una vista de d
 
 > "Yo Organizaré los Días por Ti"
 
-{% include gallery id="agenda-lyona-1" layout="half" caption="Agenda Escolar del videojuego Fortnite 2019/2020. Visto en Ciberninjas" %}
+{% include gallery2 id="agenda-lyona-1" layout="half" caption="Agenda Escolar del videojuego Fortnite 2019/2020. Visto en Ciberninjas" %}
 
 Geniales agendas que nos ofrecen desde TanTanFan de un tamaño de A5. En este caso basada en las ilustraciones monstruosas de Lyona.
 
@@ -169,7 +169,7 @@ Esta agenda incluye tapa dura con cantos redondos con el detalle de un ¡**monst
 
 ## Agenda Escolar de Moderna de Pueblo 2019/2020
 
-{% include gallery id="agenda-moderna-1" layout="half" caption="Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas" %}
+{% include gallery2 id="agenda-moderna-1" layout="half" caption="Agenda Escolar de la ilustradora y youtuber: Moderna de Pueblo 2019/2020 | Visto en Ciberninjas" %}
 
 Geniales agendas que nos ofrecen desde TanTanFan de un tamaño de A5. En este caso basada en las ilustraciones de la ilustradora y youtuber: Moderna de Pueblo.
 
@@ -179,7 +179,7 @@ Esta agenda incluye tapa dura con cantos redondos de color azul con ilustración
 
 ## Agenda Escolar de la reina de TikTok y Musically: Mónica Morán 2019/2020
 
-{% include gallery id="agenda-monica-1" caption="Agenda Escolar de la reina de Musically y TikTok Mónica Morán 2019/2020 | Visto en Ciberninjas" %}
+{% include gallery2 id="agenda-monica-1" caption="Agenda Escolar de la reina de Musically y TikTok Mónica Morán 2019/2020 | Visto en Ciberninjas" %}
 
 Genial agenda de un tamaño de A5. Basada en la muser, reina de Musically y TikTok: Mónica Morán con geniales ilustraciones y repleta de frases motivadoras.
 

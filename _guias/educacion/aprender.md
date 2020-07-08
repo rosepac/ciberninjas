@@ -1,6 +1,5 @@
 ---
 
-layout: splash
 title: "¿Cómo aprender todo sobre tecnología?"
 description: 'Los mejores libros, recursos y herramientas para aprender programación y diseño gráfico desde cero hasta nivel experto'
 excerpt: 'Los mejores libros, recursos y herramientas para aprender programación y diseño gráfico desde cero hasta nivel experto'
@@ -12,7 +11,6 @@ date: 2020-03-18
 permalink: /aprender/
 canonical_URL: https://ciberninjas.com/aprender/
 thumbnail: /assets/img/portada/2020-02-cursos-free-programming-2.webp
-  overlay_filter: "0.2"
 feature-img: /assets/img/portada/2020-02-cursos-free-programming-2.webp
 #  actions:
 #    - label: "🎓 Cursos"
@@ -20,7 +18,6 @@ feature-img: /assets/img/portada/2020-02-cursos-free-programming-2.webp
 #    - label: "👨‍💻 Libros"
 #      url: "/biblioteca-de-programacion-y-tecnologia/"
   caption: "Ciberninjas"
-
 ---
 
 ¿Quieres aprender algo nuevo? Con el coronavirus extendiéndose por todo el mundo y obligándonos a un estado de autoaislamiento, ahora es un momento tan bueno como cualquier otro. Y no hay escasez de recursos de bajo costo o completamente gratuitos a los que puede acceder desde la comodidad de su sofá: cursos en línea, podcasts, videos y libros electrónicos.

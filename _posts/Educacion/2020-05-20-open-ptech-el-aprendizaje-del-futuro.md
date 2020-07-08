@@ -2,7 +2,7 @@
 
 author: rosepac
 bootstrap: true
-layout: splash
+
 comments: false
 
 tags:

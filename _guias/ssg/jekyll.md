@@ -3,7 +3,7 @@ title: "🥇 ▷ Jekyll: Crea blogs fácilmente y encuentra sus mejores plantill
 description: "Uno de los mejores generadores de contenidos estático (SSG)"
 excerpt: "Uno de los mejores generadores de contenidos estático (SSG)"
 date: 2020-05-18
-layout: splash
+
 last_modified_at:
 permalink:  /jekyll/
 canonical_URL: https://ciberninjas.com/jekyll/

@@ -2,7 +2,7 @@
 title: "👨‍🚀 ▷ Guía de Contenedores y Entornos en la Nube: Kubernetes, Docker, Webpack, AWS, Google Cloud, Azure, etc"
 description: 'Cómo aprender a implementar, gestionar y mantener entornos de programación en la nube'
 excerpt: 'Cómo aprender a implementar, gestionar y mantener entornos de programación en la nube'
-layout: splash
+
 published: true
 author: rosepac
 bootstrap: true

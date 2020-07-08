@@ -1,5 +1,4 @@
 ---
-
 title: "PyLadies"
 description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: PyLadies, grupo de mujeres consejeras u orientadoras encargadas de ayudar a otras mujeres en la participación activa dentro de la comunidad de código abierto de Python."
 excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: PyLadies, grupo de mujeres consejeras u orientadoras encargadas de ayudar a otras mujeres en la participación activa dentro de la comunidad de código abierto de Python."
@@ -15,9 +14,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/pyladies/
 canonical_URL: https://ciberninjas.com/wiki/pyladies/
-feature-img: [/assets/img/2020-news/fediverso.webp](https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg)
-img: [/assets/img/2020-news/fediverso.webp](https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg)
-
+feature-img: https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg
+img: https://upload.wikimedia.org/wikipedia/commons/d/db/Scale_10x_DSC_0050_%286737986619%29.jpg
 ---
 
 PyLadies es un grupo internacional de mentoras / consejeras / orientadoras, principalmente mujeres,  que se enfoca en ayudar e introducir a otras mujeres en la participación activa dentro de la comunidad de código abierto de Python. Son parte de la Fundación del Software Python. Se inició en Los Ángeles en 2011.

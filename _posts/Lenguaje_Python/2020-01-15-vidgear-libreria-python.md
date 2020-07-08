@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-layout: splash
+
 title: '▷ Vidgear: Librería de Python para el procesamiento de vídeo 🐍'
 description: "Librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"
 excerpt: "Librería de procesamiento de vídeo en Python construida con Gears de subprocesos múltiples, cada uno con un conjunto único de características innovadoras"

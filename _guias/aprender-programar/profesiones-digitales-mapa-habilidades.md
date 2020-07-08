@@ -1,5 +1,5 @@
 ---
-layout: splash
+
 title: 'Mapa de Habilidades Requeridas para Trabajar en cada Profesión Digital'
 description: 'Conoce todas las habilidades y tecnologías que se requieren para todos los puestos de trabajo dentro del mundo de la tecnología'
 excerpt: 'Conoce todas las habilidades y tecnologías que se requieren para todos los puestos de trabajo dentro del mundo de la tecnología'

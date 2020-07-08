@@ -2,7 +2,7 @@
 
 title: Polar, biblioteca que te ofrece el servicio de organizador de libros y páginas
 published: true
-layout: splash
+
 classes: hide
 thumbnail: /assets/img/blog/polar-software.webp
 feature-img: /assets/img/blog/polar-software.webp

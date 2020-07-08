@@ -5,7 +5,7 @@ excerpt: '🔨 Documentación, notas, chuletas y enlaces con los que aprender el
 published: true
 author: rosepac
 bootstrap: true
-layout: splash
+
 comments: false
 date: 2020-05-20 12:06:18
 last_modified_at:

@@ -4,7 +4,7 @@ description: "Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras
 excerpt: "Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
 date: 2019-05-16 09:25:00 +0200
 last_modified_at: 
-layout: splash
+
 author: rosepac
 bootstrap: true
 permalink: /hirens-bootcd-pe/

@@ -3,7 +3,7 @@ title: "👨‍💻 ▷ Drupal: Guía Completa del CMS"
 description: "Introducción y recursos de Drupal en cualquier momento y lugar"
 excerpt: "Gestor de contenidos alternativa a Wordpress: Encuentra todos los recursos necesarios"
 date: 2020-05-14
-layout: splash
+
 last_modified_at: 
 
 permalink: /drupal/

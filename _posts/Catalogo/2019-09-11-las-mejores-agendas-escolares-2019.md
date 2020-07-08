@@ -101,7 +101,7 @@ Hoy, me gustaría mostrarte algunas de las Agendas más divertidas que he encont
 
 ## Agenda Escolar de Star Wars 2019/2020
 
-{% include gallery id="agenda-wars-1" layout="half" caption="Agenda Escolar Star Wars 2019/2020. Visto en Ciberninjas" %}
+{% include gallery2 id="agenda-wars-1" layout="half" caption="Agenda Escolar Star Wars 2019/2020. Visto en Ciberninjas" %}
 
 La agenda de nuestras películas de ciencia ficción favoritas: Star Wars. Ofrece 10 meses de uso, y galáxicas pegatinas.
 
@@ -109,7 +109,7 @@ La agenda de nuestras películas de ciencia ficción favoritas: Star Wars. Ofrec
 
 ## Agenda Escolar de Fortnite 2019/2020
 
-{% include gallery id="agenda-fortnite-1" caption="Agenda Escolar Retro Gamer -modelo 2- 2019/2020. Visto en Ciberninjas" %}
+{% include gallery2 id="agenda-fortnite-1" caption="Agenda Escolar Retro Gamer -modelo 2- 2019/2020. Visto en Ciberninjas" %}
 
 Divertida agenda con la que podrás llevarte tu juego favorito a la escuela, que incluye numerosos apartados: horario, calendario de vacaciones, plannings mensuales, espacio para redes sociales, viajes, listas de objetivos,tareas y notas; 2 páginas de pegatinas, 254 páginas con esquinas cuadradas y microperforadas y un sobre de papel para guardar cosas pequeñas.
 
@@ -117,7 +117,7 @@ Divertida agenda con la que podrás llevarte tu juego favorito a la escuela, que
 
 ## Agenda Escolar PacMan 2019/2020 (M. 1)
 
-{% include gallery id="agenda-gamer-1" layout="half" caption="Agenda Escolar del videojuego retro PACMAN 2019/2020. Visto en Ciberninjas" %}
+{% include gallery2 id="agenda-gamer-1" layout="half" caption="Agenda Escolar del videojuego retro PACMAN 2019/2020. Visto en Ciberninjas" %}
 
 Agenda escolar de 10 meses de un curso 2019/2020 - desde septiembre 2019 hasta junio 2020 – que organiza tu día a día con espacio suficiente, tapa blanda de gran calidad, banda elástica para mantenerla cerrada, con medidas de 11,4 x 16 cm, encuadernación tipo wire-o que aporta un diseño gamer para los que no pueden vivir sin sus videojuegos preferidos.
 
@@ -129,7 +129,7 @@ De regalo incluye una regla que te servirá de marca páginas y 5 fundas de plá
 
 ## Agenda Escolar Retro Gamer 2019/2020 (M. 2)
 
-{% include gallery id="agenda-gamer-2" layout="half" caption="Agenda Escolar Retro Gamer PacMan -modelo 1- 2019/2020. Visto en Ciberninjas" %}
+{% include gallery2 id="agenda-gamer-2" layout="half" caption="Agenda Escolar Retro Gamer PacMan -modelo 1- 2019/2020. Visto en Ciberninjas" %}
 
 La misma agenda que la anterior, que se diferencia en los diseños de portada y tapa trasera; incluyendo las mismas pegatinas, y otros.
 

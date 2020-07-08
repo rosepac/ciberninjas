@@ -1,5 +1,5 @@
 ---
-layout: splash
+
 title: 'Mapa de las Herramientas y Plataformas Requeridas Cada una de las Diferentes Profesiones Digitales'
 description: 'Conoce todas las habilidades y tecnologías que se requieren para cada uno de los puestos de trabajo asociados a la tecnología'
 excerpt: 'Conoce todas las habilidades y tecnologías que se requieren para cada uno de los puestos de trabajo asociados a la tecnología'

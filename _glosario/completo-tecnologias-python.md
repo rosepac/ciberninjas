@@ -1,5 +1,5 @@
 ---
-layout: splash
+
 title: "🐍 Glosario de Tecnologías de Python: Definiciones de Términos"
 description: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción."
 excerpt: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción."
