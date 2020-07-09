@@ -4,13 +4,13 @@
 <footer>
   <div class="tag-list">
     {% if tags.size == 1 %}
-      <div class="meta">Tag</div>
+      <div class="meta">Etiqueta</div>
     {% else %}
-      <div class="meta">Tags</div>
+      <div class="meta">Etiquetas</div>
     {% endif %}
 
     {% for tag in tags %}
-    <a class="button" href="{{ "/tags" | relative_url }}#{{ tag | cgi_escape }}">
+    <a class="button" href="{{ "/etiqueta" | relative_url }}#{{ tag | cgi_escape }}">
       <p><i class="fa fa-tag fa-fw"></i> {{ tag }}</p>
     </a>
     {% endfor %}
