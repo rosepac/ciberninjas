@@ -15,7 +15,7 @@ description: >-
 excerpt: >-
   Conferencias sobre ciberseguridad Dojoconf´ 2020 desde Panamá con expertos reunidos desde varios países de latinoamérica, como son Panamá, Perú, República Dominicana, México, Guatemala, Argentina, Costa Rica o España.
 canonical_URL: https://ciberninjas.com/conferencia-dojoconf/
-permalink: /deno-1/
+permalink: /conferencia-dojoconf/
 date: 2020-07-10 19:18:32
 last_modified_at: 
 published: true
@@ -28,33 +28,33 @@ Las conferencias y los horarios son los siguientes, puede ver la agenda completa
 
 ## **DojoConf: Viernes 10 de Julio**
 
-- Transformación Digital, algo impostergable (16:00 H. Panamá) (23 H. Española). Registro: https://event.webinarjam.com/register/31/plxoqfxq
-- Herramientas para una estrategia de Comercio Electrónico (17:00 H. Panamá) (00 H. Española). Registro: https://event.webinarjam.com/register/31/plxoqfxq
-- Wordpress Supercargado en Azure (18:00 H. Panamá) (01 H. Española). Registro: https://event.webinarjam.com/register/33/6k5z2h5o
-- Hackeando Aplicaciones Móviles de Seguridad (19:00 H. Panamá) (02 H. Española). Registro: https://event.webinarjam.com/register/34/xq78xbm1
-- Seguridad para Wordpress (19:00 H. Panamá) (02 H. Española). Registro: https://event.webinarjam.com/register/35/lpkw9fyr
+- Transformación Digital, algo impostergable (16:00 H. Panamá) (23 H. Española). [Registro 🤞](https://event.webinarjam.com/register/31/plxoqfxq){:target="_blank" rel="nofollow,noreferrer"}
+- Herramientas para una estrategia de Comercio Electrónico (17:00 H. Panamá) (00 H. Española). [Registro 🤞](https://event.webinarjam.com/register/31/plxoqfxq){:target="_blank" rel="nofollow,noreferrer"}
+- Wordpress Supercargado en Azure (18:00 H. Panamá) (01 H. Española). [Registro 🤞](https://event.webinarjam.com/register/33/6k5z2h5o){:target="_blank" rel="nofollow,noreferrer"}
+- Hackeando Aplicaciones Móviles de Seguridad (19:00 H. Panamá) (02 H. Española). [Registro 🤞](https://event.webinarjam.com/register/34/xq78xbm1){:target="_blank" rel="nofollow,noreferrer"}
+- Seguridad para Wordpress (19:00 H. Panamá) (02 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/35/lpkw9fyr
 
 ## **DojoConf: Sábado 11 de Julio**
 
-- Biometría de Comportamiento y sus casos de aplicación (08:15 H. Panamá) (15:15 H. Española). Registro: https://event.webinarjam.com/register/36/7w5z4u78
- - Ciberseguridad en vehículos autónomos y vehículos modernos (09:00 H. Panamá) (16:00 H. Española). Registro: https://event.webinarjam.com/register/37/4qzw4bxr
-- The Sweet Spot between security and customer experience - Plataforma low-code no-code (10:00 H. Panamá) (17:00 H. Española). Registro: https://event.webinarjam.com/register/39/n6r9of7w
-- Ataques OAuth: Evolución de la ingeniería social (11:00 H. Panamá) (18:00 H. Española). Registro: https://event.webinarjam.com/register/40/515z4s31
- - Detectando tráfico C2 sobre DNS utilizando EDR (14:00 H. Panamá) (21:00 H. Española). Registro: https://event.webinarjam.com/register/41/zk91nhx1
-- Seguridad en un mundo de APIs (15:00 H. Panamá) (22:00 H. Española). Registro: https://event.webinarjam.com/register/42/gq06mbxq
-- Protegiendo el Active Directory: Mitigando riesgos de robo de credenciales de cuentas con privilegios (16:00 H. Panamá) (22:00 H. Española). Registro: https://event.webinarjam.com/register/43/y13qlsqx
-- Descubriendo más credenciales con Mimikatz (17:00 H. Panamá) (23:00 H. Española). Registro: https://event.webinarjam.com/register/44/2om24smo
-- Microsoft Intune como herramienta de seguridad en tu empresa (18:00 H. Panamá) (00:00 H. Española). Registro: https://event.webinarjam.com/register/45/385w4fl1
-- Mobile Banking Malware: Exploiting mobiles phones y bypass 2FA Authentication (18:00 H. Panamá) (00:00 H. Española). Registro: https://event.webinarjam.com/register/46/9p5z4fgl
+- Biometría de Comportamiento y sus casos de aplicación (08:15 H. Panamá) (15:15 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/36/7w5z4u78
+ - Ciberseguridad en vehículos autónomos y vehículos modernos (09:00 H. Panamá) (16:00 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/37/4qzw4bxr
+- The Sweet Spot between security and customer experience - Plataforma low-code no-code (10:00 H. Panamá) (17:00 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/39/n6r9of7w
+- Ataques OAuth: Evolución de la ingeniería social (11:00 H. Panamá) (18:00 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/40/515z4s31
+ - Detectando tráfico C2 sobre DNS utilizando EDR (14:00 H. Panamá) (21:00 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/41/zk91nhx1
+- Seguridad en un mundo de APIs (15:00 H. Panamá) (22:00 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/42/gq06mbxq
+- Protegiendo el Active Directory: Mitigando riesgos de robo de credenciales de cuentas con privilegios (16:00 H. Panamá) (22:00 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/43/y13qlsqx
+- Descubriendo más credenciales con Mimikatz (17:00 H. Panamá) (23:00 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/44/2om24smo
+- Microsoft Intune como herramienta de seguridad en tu empresa (18:00 H. Panamá) (00:00 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/45/385w4fl1
+- Mobile Banking Malware: Exploiting mobiles phones y bypass 2FA Authentication (18:00 H. Panamá) (00:00 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/46/9p5z4fgl
 
 ## **DojoConf: Domingo 12 de Julio**
 
-- BioHacking 101 (08:30 H. Panamá) (15:30 H. Española). Registro: https://event.webinarjam.com/register/47/09mwnf81
-- Análisis de Malware con REmnux (09:15 H. Panamá) (16:15 H. Española). Registro: https://event.webinarjam.com/register/48/oxv08fm2
-- Cazarrecompensas Digital: Ganando dinero reportando (10:00 H. Panamá) (17:00 H. Española). Registro: https://event.webinarjam.com/register/49/8r524cyn
-- Seguridad en Microsoft 365 (11:00 H. Panamá) (18:00 H. Española). Registro: https://event.webinarjam.com/register/50/q7x81cmm
-- Microsoft Exchange Control Panel: The RCE Vulnerability (13:30 H. Panamá) (19:30 H. Española). Registro: https://event.webinarjam.com/register/51/10mpzfy3
-- Evalúa la seguridad de tu entorno con Infection Monkey (14:30 H. Panamá) (20:30 H. Española). Registro: https://event.webinarjam.com/register/52/kr1w3czv
+- BioHacking 101 (08:30 H. Panamá) (15:30 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/47/09mwnf81
+- Análisis de Malware con REmnux (09:15 H. Panamá) (16:15 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/48/oxv08fm2
+- Cazarrecompensas Digital: Ganando dinero reportando (10:00 H. Panamá) (17:00 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/49/8r524cyn
+- Seguridad en Microsoft 365 (11:00 H. Panamá) (18:00 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/50/q7x81cmm
+- Microsoft Exchange Control Panel: The RCE Vulnerability (13:30 H. Panamá) (19:30 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/51/10mpzfy3
+- Evalúa la seguridad de tu entorno con Infection Monkey (14:30 H. Panamá) (20:30 H. Española). [Registro 🤞](){:target="_blank" rel="nofollow,noreferrer"} https://event.webinarjam.com/register/52/kr1w3czv
 
 <!-- Enlaces de acceso - https://event.webinarjam.com/go/live/30/xq78xbmxfzxhv0hg6w -->
 ![Conferencias sobre ciberseguridad Dojoconf´ 2020 desde Panamá con expertos reunidos desde varios países de latinoamérica, como son Panamá, Perú, República Dominicana, México, Guatemala, Argentina, Costa Rica o España.](/assets/img/2020-news/09-dojoconf.webp "Conferencias sobre ciberseguridad Dojoconf´ 2020 desde Panamá con expertos reunidos desde varios países de latinoamérica, como son Panamá, Perú, República Dominicana, México, Guatemala, Argentina, Costa Rica o España.")
