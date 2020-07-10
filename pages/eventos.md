@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 title: "Eventos de Hoy sobre Tecnología, Programación, Diseño"
 description: "Los eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."
 excerpt: "Los eventos diarios en directo que se van realizando sobre las temáticas de desarrollo, tecnología, ciberseguridad, ciencia, diseño, etc."

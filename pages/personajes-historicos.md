@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 author: rosepac
 bootstrap: true
 title: "Personajes Históricos en la Historia de las Computadoras"

@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 title: ▷ Licencia para Proyectos Licencia MIT 👨‍💻 
 description: "🔨 Licencia MIT para las páginas que la requieran"
 excerpt: "🔨 Licencia MIT para las páginas que la requieran"

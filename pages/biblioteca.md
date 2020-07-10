@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 title: "🗃 Biblioteca de Libros y Cursos de Tecnología"
 description: Libros y Cursos Listados en Español alojados en Ciberninjas sobre tecnología, de Programación, Software y Otros Contenidos Tecnológicos
 excerpt: "Libros y Cursos Listados en Español alojados en Ciberninjas sobre tecnología, de Programación, Software y Otros Contenidos Tecnológicos"

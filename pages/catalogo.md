@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 title: "🛒 Catálogo Ciberninjas"
 description: Catálogo Completo de Los Libros Más Recomendados en Programación y Tecnología
 excerpt: "Catálogo Completo de Los Libros Más Recomendados en Programación y Tecnología"

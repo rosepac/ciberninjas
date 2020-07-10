@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 title: '¿Qué es Ciberninjas?'
 permalink: '/que-es-ciberninjas/'
 canonical_URL: htpps://ciberninjas.com/que-es-ciberninjas/

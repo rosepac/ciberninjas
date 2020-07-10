@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 title: 'Documentación de Ordenadores, Comunicación y Tecnología'
 permalink: /goct/
 canonical_URL: https://ciberninjas.com/goct/

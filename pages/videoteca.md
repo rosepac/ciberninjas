@@ -1,6 +1,7 @@
 ---
 
 layout: page
+hide: true
 title: '🎥 Videoteca'
 description: '🎦 ▷ Videoteca de Documentales Más Interesantes dentro de Múltiples Temáticas que Puedes Encontrar en Internet.'
 excerpt: '🎦 ▷ Videoteca de Documentales Más Interesantes dentro de Múltiples Temáticas que Puedes Encontrar en Internet.'
