@@ -61,4 +61,6 @@
     <!-- seo tags -->
     {% seo %}
     <meta property="og:image" content="{{ '/' | absolute_url }}{% if page.thumbnail %}page.thumbnail{% else %}{{ page.feature-img | default: site.header_feature_image }}{% endif %} " />
+	<!-- Google Adsense -->
+	{% include adsense.html %} 
 </head>
