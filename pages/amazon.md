@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 title: "Las Mejores Ofertas de Amazon durante Todo el Año"
 description: "Las Mejores Ofertas de Amazon durante Todo el Año"
 excerpt: "Las Mejores Ofertas de Amazon durante Todo el Año"
