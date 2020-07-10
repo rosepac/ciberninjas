@@ -14,7 +14,7 @@ description: >-
   Conferencias sobre ciberseguridad Dojoconf´ 2020 desde Panamá con expertos reunidos desde varios países de latinoamérica, como son Panamá, Perú, República Dominicana, México, Guatemala, Argentina, Costa Rica o España.
 excerpt: >-
   Conferencias sobre ciberseguridad Dojoconf´ 2020 desde Panamá con expertos reunidos desde varios países de latinoamérica, como son Panamá, Perú, República Dominicana, México, Guatemala, Argentina, Costa Rica o España.
-canonical_URL: https://ciberninjas.com/deno-1/
+canonical_URL: https://ciberninjas.com/conferencia-dojoconf/
 permalink: /deno-1/
 date: 2020-07-10 19:18:32
 last_modified_at: 
