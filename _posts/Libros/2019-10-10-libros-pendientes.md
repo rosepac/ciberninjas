@@ -19,7 +19,7 @@ sociologia:
 https://www.casadellibro.com/libro-sexo-drogas-y-postureo/9788417932015/10013756
 
 snowden, sociologia, politica social..
-https://www.casadellibro.com/libros/ciencias-politicas-y-sociales/politica/politica-internacional/105002008
+https://www.casadellibro.com/catalogo/ciencias-politicas-y-sociales/politica/politica-internacional/105002008
 
 https://www.casadellibro.com/libro-todos-somos-greta/9788417922498/9861430
 https://www.casadellibro.com/libro-algo-va-mal/9788466349277/9676962

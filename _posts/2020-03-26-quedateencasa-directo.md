@@ -23,5 +23,5 @@ tags:
 [🐍 Cursos de Machine Learning 🐍](https://ouo.io/QSlgGQ){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Libros de Python 🐍](https://ouo.io/HzZZJA){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Cursos de Python 🐍](https://ouo.io/CNr4s3){: .btn .btn--inverse .btn--large .align-center}
-[🐍 Catálogo de Python 🐍](/libros/#python){: .btn .btn--inverse .btn--large .align-center}
+[🐍 Catálogo de Python 🐍](/catalogo/#python){: .btn .btn--inverse .btn--large .align-center}
 -->

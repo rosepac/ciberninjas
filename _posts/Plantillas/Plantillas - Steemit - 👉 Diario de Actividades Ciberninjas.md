@@ -189,7 +189,7 @@ https://www.comparitech.com/blog/information-security/267-million-phone-numbers-
 
 ### Libros Recomendados
 
-* [Diez razones para borrar tus redes sociales de inmediato](https://amzn.to/2SKdceW) (2020) \ [Ver Más de Jaror Lainer](https://ciberninjas.com/libros/#jaror-lainer)
+* [Diez razones para borrar tus redes sociales de inmediato](https://amzn.to/2SKdceW) (2020) \ [Ver Más de Jaror Lainer](https://ciberninjas.com/catalogo/#jaror-lainer)
 
 * [Superpotencias de la inteligencia artificial: China, Silicon Vall](https://amzn.to/3bNQBWw) - Kai Fu Lee
 * [Hola mundo: Cómo seguir siendo humanos en la era de los algoritmos](https://amzn.to/39GAyrr) - Hannah Fry (2019)

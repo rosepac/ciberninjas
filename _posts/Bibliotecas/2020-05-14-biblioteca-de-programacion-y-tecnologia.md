@@ -138,7 +138,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 * [Fundamentos de la Programación](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Introducción al desarrollo del software](https://softlibre.unizar.es/manuales/linux/reference.es.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos){:target="_blank" rel="nofollow"} (Bubok)
+* [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/catalogo/219288/Teoria-sintacticogramatical-de-objetos){:target="_blank" rel="nofollow"} (Bubok)
 
 [⏫ Subir a Ciencias 🔬](/biblioteca-de-programacion-y-tecnologia/#-ciencias-de-la-computación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
@@ -455,7 +455,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Identificación y reporte de incidentes de seguridad para operadores estratégicos: Guía básica de protección de Infraestructuras Críticas](https://www.certsi.es/guias-y-estudios/guias/inteco-publica-guia-reporte-incidentes-iicc){:target="_blank" rel="nofollow"} (PDF)
 * [Principales vulnerabilidades de los sistemas de automatización industrial y posibles acciones para evitar ciberataques](https://www.ehu.eus/documents/3444171/4484751/121.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Protocolos y seguridad de red en SCI](https://www.certsi.es/sites/default/files/contenidos/guias/doc/incibe_protocolos_seguridad_red_sci.pdf){:target="_blank" rel="nofollow"} (PDF)
-* [Seguridad del Protocolo SSL / TLS: Ataques criptoanalíticos modernos](https://github.com/mindcrypt/libros/blob/master/Book.%20Seguridad%20en%20el%20protocolo%20SSL-TLS.%20Ataques%20criptoanaliticos%20modernos.%20Dr.%20Alfonso%20Mu%C3%B1oz.pdf){:target="_blank" rel="nofollow"} (PDF) (2020)
+* [Seguridad del Protocolo SSL / TLS: Ataques criptoanalíticos modernos](https://github.com/mindcrypt/catalogo/blob/master/Book.%20Seguridad%20en%20el%20protocolo%20SSL-TLS.%20Ataques%20criptoanaliticos%20modernos.%20Dr.%20Alfonso%20Mu%C3%B1oz.pdf){:target="_blank" rel="nofollow"} (PDF) (2020)
 * [Seguridad en aplicaciones web](https://openaccess.uoc.edu/webapps/o2/bitstream/10609/33721/6/isidoro_ciervaTFM0614memoria.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Seguridad en Redes Wifi](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-de-seguridad-en-redes-wifi.pdf) (PDF)
 * [Seguridad en servicios de almacenamiento: Análisis de Dropbox y Mega](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/incibe_seguridad_almacenamiento_dropbox_mega.pdf){:target="_blank" rel="nofollow"} (PDF)
@@ -788,7 +788,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Patrones de diseño: Zend Framework, Sympfony2, Doctrine2](https://media.readthedocs.org/pdf/designpatternsphp-es-mx/latest/designpatternsphp-es-mx.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [PHP en 2019](https://www.jesusamieiro.com/wp-content/uploads/2019/11/20191122-Commit-Conf-PHP-en-2019-r2.pdf)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/){:target="_blank" rel="nofollow"} (HTML)
-* [POO y MVC en PHP](https://www.bubok.es/libros/205199/POO-y-MVC-en-PHP){:target="_blank" rel="nofollow"} (Bubok)
+* [POO y MVC en PHP](https://www.bubok.es/catalogo/205199/POO-y-MVC-en-PHP){:target="_blank" rel="nofollow"} (Bubok)
 * [Programación PHP](https://www.matpec.com.ar/desde0/desde0-programacion-php-6.htm){:target="_blank" rel="nofollow"} (HTML)
 * [Programación web avanzada: ajax y google maps](https://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Silex, el manual oficial](https://librosweb.es/libro/silex){:target="_blank" rel="nofollow"} (HTML) 
@@ -982,7 +982,7 @@ Este repositorio esta bajo autoría de [Pablo Álvarez Corredera](https://cibern
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--large .align-center}
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large .align-center}
-[🛒 Catálogo de Libros 👨‍💻](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🛒 Catálogo de Libros 👨‍💻](/catalogo/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [👨‍💻 Guías Tecnológicas 👩‍💻](/guias/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--large .align-center}

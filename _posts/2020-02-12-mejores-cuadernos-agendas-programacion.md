@@ -49,4 +49,4 @@ categories:
 * [Agenda escolar 2019-2020 Moderna de Pueblo](https://amzn.to/2Pn6R9B){:target="_blank" rel="nofollow,noreferrer"}
 * [Agenda escolar 2019-2020 Mónica Morán](https://amzn.to/2ZBSvly){:target="_blank" rel="nofollow,noreferrer"}
 
-[🔝 REGRESAR 🔝](/catalogo/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
+[🔝 REGRESAR 🔝](/catalogo/#page-title){: .btn .btn--inverse .btn--large .align-center}
