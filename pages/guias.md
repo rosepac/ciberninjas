@@ -15,7 +15,7 @@ Estas ciberguías han sido elaboradas tras haber realizado un profundo rastreo y
 
 Las guías ciberninjas han sido creadas con el máximo cariño y espero de corazón, que sirvan para lograr aumentar los conocimientos de quién les de uso y así, poder ver brotar los nuevos brotes verdes de la primavera en su máximo explendor.
 
-Si te agradan estos contenidos puedes regar mi jardín echándome una mano a cuidarlo. Solamente debes realizar [tu próxima compra en Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o [tu próximo dispositivo en Amazon] a través de mis <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlaces de afiliado</a>.</p>
+Si te agradan estos contenidos puedes regar mi jardín echándome una mano a cuidarlo. Solamente debes realizar [tu próxima compra en Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o [tu próximo dispositivo en Amazon] a través de mis <a href="/catalogo/" title="Enlaces a los Productos de la Tienda de Programación y Tecnología Ciberninjas">enlaces de afiliado</a>.
 
 <details>
 <summary>Saber Más</summary>
