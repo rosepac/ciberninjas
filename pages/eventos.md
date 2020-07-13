@@ -69,6 +69,12 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 ⏰ Virtual Lab: Despliegue de Aplicaciones en Kubernetes (13 de Julio, 22:00 H. Española)
  👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
+### Eventos para el 15 de Julio de 2020
+
+⏰  La importancia de los videotutoriales en procesos formativos 👉 <a href='https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702</a>
+
+⏰ Evento de Presentación de XIAOMI (22:00 PM H. Española) 👉  <a href='https://event.mi.com/global/launch2020/ecosystem#/a' target="_blank" rel="nofollow,noreferrer">https://event.mi.com/global/launch2020/ecosystem#/a</a>
+
 ### Eventos para el 18 de Julio de 2020
 
 ⏰ Jump! Tecnología (18 y 19 - 14:00) 👇
@@ -272,17 +278,23 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 ### Eventos para el 30 de Junio de 2020
 
-- ⏰ **NASA Spaceapps AI Bootcamp** (10:00 AM) 👉 (<a href='https://kutt.it/nasa-space-bootcamp'>https://kutt.it/nasa-space-bootcamp</a>)
-- ⏰ **Virtual Lab: Serverless** (22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
-- ⏰ **Python Fundamentals aplicado: Data Science** (18:30) 👉 (<a href='https://kutt.it/30-junio-python'>https://kutt.it/30-junio-python</a>)
-- ⏰ **Webinar: Tecnologías Emergentes** (19:00 PM) 👉 <a href='https://kutt.it/tecnologia-emergente'>https://kutt.it/tecnologia-emergente</a>
-- ⏰ **Webinar: Análisis y Conclusiones del WWDC 2020** (19:00 PM) 👉 <a href='https://kutt.it/wwdc-keep-coding'>https://kutt.it/wwdc-keep-coding</a>
+- ⏰ **NASA Spaceapps AI Bootcamp** (10:00 AM) 👉 (<a href='https://kutt.it/nasa-space-bootcamp' target="_blank" rel="nofollow,noreferrer">https://kutt.it/nasa-space-bootcamp</a>)
+- ⏰ **Virtual Lab: Serverless** (22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar' target="_blank" rel="nofollow,noreferrer">https://kutt.it/eventos-ibm-ar</a>)
+- ⏰ **Python Fundamentals aplicado: Data Science** (18:30) 👉 (<a href='https://kutt.it/30-junio-python' target="_blank" rel="nofollow,noreferrer">https://kutt.it/30-junio-python</a>)
+- ⏰ **Webinar: Tecnologías Emergentes** (19:00 PM) 👉 <a href='https://kutt.it/tecnologia-emergente' target="_blank" rel="nofollow,noreferrer">https://kutt.it/tecnologia-emergente</a>
+- ⏰ **Webinar: Análisis y Conclusiones del WWDC 2020** (19:00 PM) 👉 <a href='https://kutt.it/wwdc-keep-coding' target="_blank" rel="nofollow,noreferrer">https://kutt.it/wwdc-keep-coding</a>
 
 ## **Eventos tecnológicos de Julio**
 
 ### Eventos para el 01 de Julio de 2020
 
-- ⏰ **Webinar: Metodología Kanban** (01:30 H. AM) 👉 <a href='https://kutt.it/kanban-training-talent'>https://kutt.it/kanban-training-talent</a>
-- ⏰ **Análisis de oportunidades SEO y Auditoría de backlinks** (19:00 H.) 👉 <a href='https://kutt.it/semrush-punto-rojo'>https://kutt.it/semrush-punto-rojo</a>
-- ⏰ **UX en las organizaciones** (18:00 H.) 👉 <a href='https://kutt.it/ux-loom'>https://kutt.it/ux-loom</a>
-- ⏰ **Publicidad Digital: estrategias para aumentar ingresos** (19:00 H.) 👉 <a href='https://kutt.it/publi-unesdi'>https://kutt.it/publi-unesdi</a>
+- ⏰ **Webinar: Metodología Kanban** (01:30 H. AM) 👉 <a href='https://kutt.it/kanban-training-talent' target="_blank" rel="nofollow,noreferrer">https://kutt.it/kanban-training-talent</a>
+- ⏰ **Análisis de oportunidades SEO y Auditoría de backlinks** (19:00 H.) 👉 <a href='https://kutt.it/semrush-punto-rojo' target="_blank" rel="nofollow,noreferrer">https://kutt.it/semrush-punto-rojo</a>
+- ⏰ **UX en las organizaciones** (18:00 H.) 👉 <a href='https://kutt.it/ux-loom' target="_blank" rel="nofollow,noreferrer">https://kutt.it/ux-loom</a>
+- ⏰ **Publicidad Digital: estrategias para aumentar ingresos** (19:00 H.) 👉 <a href='https://kutt.it/publi-unesdi' target="_blank" rel="nofollow,noreferrer">https://kutt.it/publi-unesdi</a>
+
+## **Eventos tecnológicos de Octubre**
+
+### **Tarugconf: 22, 23, 24 de Octubre**
+
+- ⏰ **Tarugoconf** (Inscripciones de Pago) 👉 <a href='https://www.tarugoconf.com/' target="_blank" rel="nofollow,noreferrer">https://www.tarugoconf.com/</a> <a href="https://www.tarugoconf.com/#tickets" target="_blank" rel="nofollow,noreferrer">🎟 Entradas</a>
