@@ -11,7 +11,8 @@ last_modified_at:
 permalink: /tutorial-webmaster-webpagetest/
 canonical_URL: https://ciberninjas.com/tutorial-webmaster-webpagetest/
 categories:
-- Tutorial Androidtags:
+- Tutorial Android
+tags:
 - Android
 ---
 
