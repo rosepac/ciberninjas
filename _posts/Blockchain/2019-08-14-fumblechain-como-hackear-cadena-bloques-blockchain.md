@@ -7,7 +7,8 @@ excerpt: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permit
 date: 2019-08-14 22:50:59
 categories:
 - Blockchain
-- Seguridadtags:
+- Seguridad
+tags:
 - Hacking
 - CTF
 header:

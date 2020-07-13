@@ -1,5 +1,17 @@
 ---
 title: "Marcapaginas para tus libros del Año Nuevo 2020"
+author: rosepac
+bootstrap: true
+title: "Calendarios Gratuitos"
+description: ''
+excerpt: ''
+date: 2019-08-14 22:50:59
+tags:
+- Libros
+header:
+feature-img: 
+thumbnail: 
+color: red
 published: false
 permalink: /marcapaginas-libros/
 ---

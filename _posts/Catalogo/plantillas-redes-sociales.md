@@ -1,13 +1,16 @@
 ---
 author: rosepac
 bootstrap: true
-title: "borrador"
-description: "🌟 borrador navidad"
-excerpt: "🌟 borrador navidad"
-permalink:
-comments: false
-date: 2019-12-05 18:00:00 +0100
-published: false
+title: "Plantillas para Redes Sociales"
+description: ''
+excerpt: ''
+date: 2019-08-14 22:50:59
+tags:
+- Plantillas
+header:
+feature-img: 
+thumbnail: 
+color: red
 ---
 
 * [Plantillas para Storys de Instagram by Mr. Wonderfull](https://muymolon.com/descargables/plantillas-gratis-para-stories/)

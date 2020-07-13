@@ -9,7 +9,8 @@ date: 2019-10-07 16:30:02
 # Categoría de la temáticade la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
 categories:
 - Editor Código
-# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.tags:
+# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
+tags:
 - Visual Basic
 - Gitpod
 - Online

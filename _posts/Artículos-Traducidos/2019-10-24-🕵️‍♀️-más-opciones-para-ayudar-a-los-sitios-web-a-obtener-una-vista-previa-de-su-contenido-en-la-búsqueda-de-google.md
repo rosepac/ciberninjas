@@ -7,7 +7,8 @@ permalink: /opciones-ayudar-sitios-web-vista-previa
 canonical_URL: 'https://ciberninjas.com/opciones-ayudar-sitios-web-vista-previa'
 categories:
   - Actualidad
-  - Google Webmastertags:
+  - Google Webmaster
+tags:
   - Ayudar
   - Sitio Web
   - Búsqueda
