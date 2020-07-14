@@ -17,61 +17,17 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 
 <!-- ⏰ (:) 👇 https://www.eventbrite.com.ar/d/online/free--science-and-tech--events/?lang=es&page=1 , https://www.eventbrite.com.ar/d/online/free--classes/?lang=es&page=1 -->
 
-## **Eventos tecnológicos de Junio**
-
-### Eventos para el 02 de Julio de 2020
-
-- ⏰ **Machine Learning. ¿Cómo empezar?/Sesiones en vivo** (02:00 H. AM) 👉 <a href='https://kutt.it/ml-ses-1-bedu'>https://kutt.it/ml-ses-1-bedu</a>
-- ⏰ **Webinar CACE - Primeros pasos para crear anuncios en Facebook e Instagram** (16:00 H.) 👉 <a href='https://kutt.it/tecnologia-anuncios-face-insta'>https://kutt.it/tecnologia-anuncios-face-insta</a>
-- ⏰ **Webinar: Qué habilidades necesitas para conseguir Tu Primer Empleo Tech!** (16:00 H.) 👉 <a href='https://kutt.it/empleo-tech-codenotch'>https://kutt.it/empleo-tech-codenotch</a>
-
-### Eventos para el 03 de Julio de 2020
-
-- ⏰ **Javascript 101** (02:00 H. AM) 👉 <a href='https://kutt.it/javascript-101-julio'>Javascript 101</a>
-- ⏰ **TypeScript en el BackEnd con NestJS** (13:00 H.) 👉 <a href='https://www.eventbrite.es/e/entradas-typescript-en-el-backend-con-nestjs-110797115154?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>TypeScript en el BackEnd con NestJS</a>
-- ⏰ **Ciclo de Webinars sobre Agilidad: Mi evolución como Scrum Master a Líder Servil** (13:00 H.) 👉 <a href='https://kutt.it/web-agile-master'>https://kutt.it/web-agile-master</a>
-- ⏰ **Webinar: Transformación Digital** (16:00 H.) 👉 <a href='https://kutt.it/trans-digital-fund-global'>https://kutt.it/trans-digital-fund-global</a>
-
-### Eventos para el 06 de Julio de 2020
-
-⏰ **Startups y las APIs** (Días 6, 8 y 10)
-
-<a href='https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-### Eventos para el 07 de Julio de 2020
-
-- ⏰ **Webinar: inteligencia artificial aplicada a correos electrónicos** (19:00 H.) 👉 <a href='https://kutt.it/ai-mail-keepcoding'>https://kutt.it/ai-mail-keepcoding</a>
-
-### Eventos para el 08 de Julio de 2020
-
-⏰ Neo4J - 13h00 - Neo4j Bloom 👇
-
-<a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-### Eventos para el 09 de Julio de 2020
-
-⏰ DojoConf: Conferencia(9 de Julio - 15:30) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
-
-### Eventos para el 10 de Julio de 2020
-
-⏰ Webinar: Introducción a Linkedin (21:00 PM) 👉 <a href='https://kutt.it/intr-linkedin-grup-nucleo'>https://kutt.it/intr-linkedin-grup-nucleo</a>
-
-### Eventos para el 12 de Julio de 2020
-
-⏰ DojoConf: Conferencia (12 de Julio - 20:00) 👇
-
-<a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+## **Eventos tecnológicos de Julio**
 
 ### Eventos para el 13 de Julio de 2020
 
-⏰ Virtual Lab: Despliegue de Aplicaciones en Kubernetes (13 de Julio, 22:00 H. Española)
- 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
+- ⏰ Introducción al diseño de mundos urbanos para videojuegos (13 de Julio, 17:00 H. Española) 👉 (<a href='https://kutt.it/h4w8AR'>https://kutt.it/h4w8AR</a>) / https://www.sae.edu/esp/es/open-days-bcn
+- ⏰ ¿Por qué enseñar machine learning a los más chicos? (13 de Julio, 21:30 H. Española) 👉 (<a href='https://kutt.it/Nd3Tjt'>https://kutt.it/Nd3Tjt</a>)
+- ⏰ Virtual Lab: Despliegue de Aplicaciones en Kubernetes (13 de Julio, 22:00 H. Española) 👉 (<a href='https://kutt.it/eventos-ibm-ar'>https://kutt.it/eventos-ibm-ar</a>)
 
 ### Eventos para el 15 de Julio de 2020
 
-⏰  La importancia de los videotutoriales en procesos formativos 👉 <a href='https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702</a>
+⏰ La importancia de los videotutoriales en procesos formativos 👉 <a href='https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com.ar/e/encuentroscodear-el-videotutorial-en-la-educacion-registration-113277048702</a>
 
 ⏰ Evento de Presentación de XIAOMI (22:00 PM H. Española) 👉  <a href='https://event.mi.com/global/launch2020/ecosystem#/a' target="_blank" rel="nofollow,noreferrer">https://event.mi.com/global/launch2020/ecosystem#/a</a>
 
@@ -119,6 +75,13 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 ⏰ Azure Live Latam 2020 (Sábado 15 - 15:00 Hora española)
 
 <a href='https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.co/e/azure-live-latam-2020-tickets-102293723280?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+
+## **Eventos tecnológicos de Octubre**
+
+### **Tarugconf: 22, 23, 24 de Octubre**
+
+- ⏰ **Tarugoconf** (Inscripciones de Pago) 👉 <a href='https://www.tarugoconf.com/' target="_blank" rel="nofollow,noreferrer">https://www.tarugoconf.com/</a> <a href="https://www.tarugoconf.com/#tickets" target="_blank" rel="nofollow,noreferrer">🎟 Entradas</a>
 
 > **Si te agradan estos contenidos, siempre puedes regarme con un poco de abono y agua, realizando [tu próxima compra de Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"} o tu próximo dispositivo en Amazon a través de mis [enlaces de afiliado](/catalogo/).**
 {: .notice--warning}
@@ -293,8 +256,48 @@ Esta página se encarga de mostrarte todos los eventos de tecnología y en habla
 - ⏰ **UX en las organizaciones** (18:00 H.) 👉 <a href='https://kutt.it/ux-loom' target="_blank" rel="nofollow,noreferrer">https://kutt.it/ux-loom</a>
 - ⏰ **Publicidad Digital: estrategias para aumentar ingresos** (19:00 H.) 👉 <a href='https://kutt.it/publi-unesdi' target="_blank" rel="nofollow,noreferrer">https://kutt.it/publi-unesdi</a>
 
-## **Eventos tecnológicos de Octubre**
 
-### **Tarugconf: 22, 23, 24 de Octubre**
+### Eventos para el 02 de Julio de 2020
 
-- ⏰ **Tarugoconf** (Inscripciones de Pago) 👉 <a href='https://www.tarugoconf.com/' target="_blank" rel="nofollow,noreferrer">https://www.tarugoconf.com/</a> <a href="https://www.tarugoconf.com/#tickets" target="_blank" rel="nofollow,noreferrer">🎟 Entradas</a>
+- ⏰ **Machine Learning. ¿Cómo empezar?/Sesiones en vivo** (02:00 H. AM) 👉 <a href='https://kutt.it/ml-ses-1-bedu'>https://kutt.it/ml-ses-1-bedu</a>
+- ⏰ **Webinar CACE - Primeros pasos para crear anuncios en Facebook e Instagram** (16:00 H.) 👉 <a href='https://kutt.it/tecnologia-anuncios-face-insta'>https://kutt.it/tecnologia-anuncios-face-insta</a>
+- ⏰ **Webinar: Qué habilidades necesitas para conseguir Tu Primer Empleo Tech!** (16:00 H.) 👉 <a href='https://kutt.it/empleo-tech-codenotch'>https://kutt.it/empleo-tech-codenotch</a>
+
+### Eventos para el 03 de Julio de 2020
+
+- ⏰ **Javascript 101** (02:00 H. AM) 👉 <a href='https://kutt.it/javascript-101-julio'>Javascript 101</a>
+- ⏰ **TypeScript en el BackEnd con NestJS** (13:00 H.) 👉 <a href='https://www.eventbrite.es/e/entradas-typescript-en-el-backend-con-nestjs-110797115154?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>TypeScript en el BackEnd con NestJS</a>
+- ⏰ **Ciclo de Webinars sobre Agilidad: Mi evolución como Scrum Master a Líder Servil** (13:00 H.) 👉 <a href='https://kutt.it/web-agile-master'>https://kutt.it/web-agile-master</a>
+- ⏰ **Webinar: Transformación Digital** (16:00 H.) 👉 <a href='https://kutt.it/trans-digital-fund-global'>https://kutt.it/trans-digital-fund-global</a>
+
+### Eventos para el 06 de Julio de 2020
+
+⏰ **Startups y las APIs** (Días 6, 8 y 10)
+
+<a href='https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing'>https://www.eventbrite.co.uk/e/entradas-startups-y-las-apis-106977705196?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+### Eventos para el 07 de Julio de 2020
+
+- ⏰ **Webinar: inteligencia artificial aplicada a correos electrónicos** (19:00 H.) 👉 <a href='https://kutt.it/ai-mail-keepcoding'>https://kutt.it/ai-mail-keepcoding</a>
+
+### Eventos para el 08 de Julio de 2020
+
+⏰ Neo4J - 13h00 - Neo4j Bloom 👇
+
+<a href='https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.com/e/registro-neo4j-sesiones-virtuales-para-espana-103707806842?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+### Eventos para el 09 de Julio de 2020
+
+⏰ DojoConf: Conferencia(9 de Julio - 15:30) 👇
+
+<a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
+
+### Eventos para el 10 de Julio de 2020
+
+⏰ Webinar: Introducción a Linkedin (21:00 PM) 👉 <a href='https://kutt.it/intr-linkedin-grup-nucleo'>https://kutt.it/intr-linkedin-grup-nucleo</a>
+
+### Eventos para el 12 de Julio de 2020
+
+⏰ DojoConf: Conferencia (12 de Julio - 20:00) 👇
+
+<a href='https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing' target="_blank" rel="nofollow,noreferrer">https://www.eventbrite.es/e/entradas-dojoconf-conferencias-gratis-108703111934?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing</a>
