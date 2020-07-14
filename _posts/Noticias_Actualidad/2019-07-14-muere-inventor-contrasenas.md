@@ -1,7 +1,14 @@
 ---
+
+author: rosepac
+bootstrap: true
+comments: false
 title: "🏛 Muere el Inventor de las Contraseñas de Computadora a los 93 años"
 description: 'Muere el inventor de las contraseñas de computadora a los 93 años'
 excerpt: 'Muere el inventor de las contraseñas de computadora a los 93 años'
+published: true
+permalink: /muere-inventor-contrasenas/
+canonical_URL: https://ciberninjas.com/muere-inventor-contrasenas/
 categories:
 - Seguridad Informática
 - Historia Informática
@@ -11,8 +18,11 @@ tags:
 link: https://www.fayerwayer.com/2019/07/muere-inventor-contrasenas-computadora
 thumbnail: "/assets/img/historia-seguridad-corbato-contrasena.jpg"
 feature-img: "/assets/img/historia-seguridad-corbato-contrasena.jpg"
+
 ---
 > Muere, Fernando Corbató, el inventor de las contraseñas de computadora a los 93 años
+
+[🔎 Enlace a la Noticia](https://www.fayerwayer.com/2019/07/muere-inventor-contrasenas-computadora){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 <figure>
     <a href="/assets/img/historia-seguridad-corbato-contrasenax636.jpg" class="image-popup"><img src="/assets/img/historia-seguridad-corbato-contrasena.jpg"></a>
