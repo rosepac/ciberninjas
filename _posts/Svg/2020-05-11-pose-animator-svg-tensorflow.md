@@ -28,7 +28,7 @@ Pose Animator es una librería capaz de tomar una ilustración vectorial en 2D y
 
 ![Pose Animator: Una herramienta de animación SVG en tiempo real que utiliza modelos TensorFlow.js](/assets/img/blog/avatar-pose-1.webp "Pose Animator: Una herramienta de animación SVG en tiempo real que utiliza modelos TensorFlow.js")
 
-> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--danger}
 
 En la animación de esqueletos, un personaje se representa a través de dos partes: Una superficie es utilizada para dibujar el personaje y basándose en el conjunto de la jerarquía de los huesos conectados, esa idea es utilizada para poder animar la superficie.

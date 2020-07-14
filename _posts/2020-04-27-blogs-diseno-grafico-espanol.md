@@ -34,7 +34,7 @@ Sin lugar a dudas, **necesitas un lugar mejor donde inspirarte**.
 
 En este artículo, te mostraré **los mejores blogs en español con los que aumentar y explorar** el extenso campo del **diseño gráfico** y con los que lograrás llevar tu inspiración a cotas superiores; **¡¡¡Detrás de cada enlace te espera una grata sorpresa!!!**
 
-🔥 Seguro también te interesa 👉 [Cómo Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) 👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/) 👉 [Aprender Diseño Web](/diseño-web/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+🔥 Seguro también te interesa 👉 [Cómo Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) 👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/) 👉 [Aprender Diseño Web](/diseño-web/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--danger}
 
 ## [**1. Graffica**](https://graffica.info/){:target="_blank" rel="nofollow,noreferrer"}
@@ -115,7 +115,7 @@ En este artículo, te mostraré **los mejores blogs en español con los que aume
 
 [⏫ Regresar al Menú](/blogs-diseno-grafico-espanol/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-🔥 Seguro también te interesa 👉 [Cómo Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) 👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/) 👉 [Aprender Diseño Web](/diseño-web/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
+🔥 Seguro también te interesa 👉 [Cómo Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) 👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/) 👉 [Aprender Diseño Web](/diseño-web/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--danger}
 
 ### Relacionados
