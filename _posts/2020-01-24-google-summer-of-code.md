@@ -122,7 +122,7 @@ En la fecha límite final para la codificación, los estudiantes son bienvenidos
 
 El objetivo de Google Summer of Code es que los estudiantes participantes se queden mucho tiempo después de que el programa haya finalizado y continúen contribuyendo a sus comunidades de proyecto. Los grandes mentores continúan trabajando con sus alumnos para alentarlos a hacerlo. También es habitual durante este tiempo que las organizaciones publiquen un informe final posterior al GSoC.
 
-[👉 Google Summer Code 2020 Plazo Abierto](https://opensource.googleblog.com/2020/01/google-summer-of-code-2020-is-now-open.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Google Summer Code 2020 Plazo Abierto](https://opensource.googleblog.com/2020/01/google-summer-of-code-2020-is-now-open.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Licencia
 
@@ -134,4 +134,4 @@ _____
 
 * [GSOC Guía de Mentores](https://google.github.io/gsocguides/mentor/){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

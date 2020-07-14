@@ -103,7 +103,7 @@ JUnit es una herramienta de prueba de unidad de código abierto para el lenguaje
 - Proporciona aserciones para probar los resultados esperados.
 - Las pruebas JUnit permiten escribir códigos más rápido, lo que aumenta la calidad.
 
-[🔥 Descargar JUnit](https://junit.org/junit4/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar JUnit](https://junit.org/junit4/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Apache NetBeans**
 
@@ -121,7 +121,7 @@ NetBeans es un IDE GRATUITO de código abierto. Permite desarrollar aplicaciones
 - NetBeans IDE ofrece soporte superior para desarrolladores de C / C ++ y PHP
 - NetBeans IDE se puede instalar en cualquier sistema operativo que admita Java, desde Windows a Linux a sistemas Mac OS X
 
-[🔥 Descargar Apache NetBeans](https://netbeans.apache.org/download/index.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Apache NetBeans](https://netbeans.apache.org/download/index.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -137,7 +137,7 @@ Mockito es una herramienta de prueba de unidad y burla de código abierto de Jav
 - Ofrece una buena sintaxis fácil de leer. También proporciona algunas anotaciones necesarias para reducir el código repetitivo
 - Mockito permite escribir pruebas relajadas
 
-[🔥 Descargar Mockito](https://site.mockito.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Mockito](https://site.mockito.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **Gradle**
 
@@ -154,7 +154,7 @@ Gradle es una herramienta Java de automatización de proyectos. Se basa en las c
 - Se puede adaptar fácilmente a cualquier estructura.
 - Su classpath inteligente ayuda a evitar compilaciones innecesarias cuando la interfaz binaria de una biblioteca no cambia
 
-[🔥 Descargar Gradle](https://gradle.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Gradle](https://gradle.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Oracle JDeveloper**
 
@@ -166,7 +166,7 @@ Oracle J Developer es un IDE de desarrollo Java gratuito. Permite a los desarrol
 - Admite la creación y edición de anotaciones de Web Socket de clases Java
 - Permite especificar una clase de configuración para contener los metadatos
 
-[🔥 Descargar Oracle JDeveloper](https://www.oracle.com/tools/downloads/Jdeveloper-12c-downloads.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Oracle JDeveloper](https://www.oracle.com/tools/downloads/Jdeveloper-12c-downloads.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Inicio](/java-herramientas-para-desarrolladores/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -185,7 +185,7 @@ Groovy es un lenguaje poderoso con capacidades de tipeo estático y compilación
 - Sintaxis flexible y maleable, integración avanzada y personalización
 - Excelente para escribir pruebas concisas y mantenibles
 
-[🔥 Descargar Groovy](http://groovy-lang.org/download.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Groovy](http://groovy-lang.org/download.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **Apache Maven**
 
@@ -202,7 +202,7 @@ Apache Maven es una herramienta de gestión de proyectos de software. Se basa en
 - Publicación de gestión y distribución de versiones.
 - Fomenta el uso de un repositorio central de JAR y otras dependencias.
 
-[🔥 Descargar Apache Maven](http://maven.apache.org/download.cgi){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Apache Maven](http://maven.apache.org/download.cgi){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -221,7 +221,7 @@ YourKit es una herramienta innovadora para perfilar aplicaciones Java y .NET. Es
 - Ofrece monitoreo web de alto nivel, base de datos, E / S
 - Resultados de perfiles de alto nivel para ver el panorama general y descubrir los problemas exactos
 
-[🔥 Descargar YourKit](https://www.yourkit.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar YourKit](https://www.yourkit.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Spark**
 
@@ -236,7 +236,7 @@ Spark es un framework robusto basado en Java para desarrollar aplicaciones web. 
 - Tiene una disposición para el procesamiento de flujo en tiempo real
 - Comunidad activa, progresiva y de mayor expansión.
 
-[🔥 Descargar Spark](https://spark.apache.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Spark](https://spark.apache.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **Eclipse**
 
@@ -250,7 +250,7 @@ Eclipse es un entorno de desarrollo integrado de código abierto para Java. Ofre
 - También es fácil de personalizar. En combinación con el servidor de informes de errores automatizados Ctrlflow
 - Eclipse ofrece las mejores herramientas para proyectos JEE
 
-[🔥 Descargar Eclipse](https://www.eclipse.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Eclipse](https://www.eclipse.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Inicio](/java-herramientas-para-desarrolladores/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -269,7 +269,7 @@ VisualVM es una herramienta visual para integrar herramientas JDK de línea de c
 - Puede leer información básica sobre el proceso de Java bloqueado
 - Ayuda a analizar los volcados del núcleo
 
-[🔥 Descargar VisualVM](https://visualvm.github.io/download.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar VisualVM](https://visualvm.github.io/download.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 12. **Idea IntelliJ**
 
@@ -285,7 +285,7 @@ IntelliJ IDEA es un IDE multipropósito que se centra en el desarrollo de Java. 
 - Entorno centrado en el editor
 - Permite al usuario usar métodos estáticos o constantes fácilmente
 
-[🔥 Descargar IntelliJ](https://www.jetbrains.com/idea/download/download-thanks.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar IntelliJ](https://www.jetbrains.com/idea/download/download-thanks.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 13. **Apache JMeter**
 
@@ -299,7 +299,7 @@ JMeter es una herramienta de prueba de carga de código abierto. Está diseñado
 - El análisis de datos y los complementos de visualización permiten la extensibilidad y la personalización.
 - Las funciones deben proporcionar una entrada dinámica para probar la manipulación de datos
 
-[🔥 Descargar JMeter](http://jmeter.apache.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar JMeter](http://jmeter.apache.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 14. **Kit de desarrollo de Java**
 
@@ -314,7 +314,7 @@ Java Development Kit (JDK) es una herramienta para escribir applets y aplicacion
 - Declaración de prueba con recursos
 - Inferencia automática de tipos en la creación de instancias de objetos genéricos
 
-[🔥 Descargar Kit de Desarrollo Java](https://java.com/en/download/faq/develop.xml){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Kit de Desarrollo Java](https://java.com/en/download/faq/develop.xml){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 15. **Java Decompiler**
 
@@ -326,7 +326,7 @@ Java Decompiler es una herramienta gratuita de Java que reconstruye el código f
 - Muestra el código fuente codificado por color
 - Funciona para casi todas las versiones de Java
 
-[🔥 Descargar Java Decompiler](http://java-decompiler.github.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Java Decompiler](http://java-decompiler.github.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Inicio](/java-herramientas-para-desarrolladores/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -344,7 +344,7 @@ JRat es un kit de herramientas de análisis de tiempo de ejecución de Java. Es 
 - Ayuda a los usuarios a procesar en sus sistemas
 - Tomar capturas de pantalla le permite al administrador mantener un registro de problemas en la computadora del cliente
 
-[🔥 Descargar JRat](https://sourceforge.net/projects/jrat/files/JRat/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar JRat](https://sourceforge.net/projects/jrat/files/JRat/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 17. **Clover**
 
@@ -358,7 +358,7 @@ Clover es una herramienta de Java para generar informes de cobertura de código 
 - La anotación en línea ayuda a resaltar visualmente la cobertura a nivel de declaración
 - La función de optimización de prueba hace que sea sencillo ejecutar el paquete de prueba antes de cada check-in
 
-[🔥 Descargar Clover](https://www.atlassian.com/software/clover/download){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Clover](https://www.atlassian.com/software/clover/download){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 18. **Cobertura**
 
@@ -374,7 +374,7 @@ Cobertura es una herramienta gratuita de Java que calcula el porcentaje de códi
 - Permite generar informes en HTML o XML
 - Muestra el porcentaje de líneas, ramas cubiertas para cada clase, paquete y todo el proyecto.
 
-[🔥 Descargar Cobertura](http://cobertura.github.io/cobertura/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Cobertura](http://cobertura.github.io/cobertura/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 19. **Ehcache**
 
@@ -388,7 +388,7 @@ Ehcache es una herramienta de almacenamiento en caché de código abierto basada
 - Escalable a cientos de cachés
 - Permite la integración de Box Spring Caching e Hibernate con soporte javax.cache
 
-[🔥 Descargar Ehcache](http://www.ehcache.org/downloads/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Ehcache](http://www.ehcache.org/downloads/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 20. **FindBugs**
 
@@ -400,7 +400,7 @@ FindBugs es un proyecto Java de código abierto para análisis estático. Escane
 - Proporciona soporte para la biblioteca Guava, reconociendo muchos patrones comunes de mal uso.
 - Admite la detección de problemas identificados por anotaciones JSR-305
 
-[🔥 Descargar FindBugs](http://findbugs.sourceforge.net/downloads.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar FindBugs](http://findbugs.sourceforge.net/downloads.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Inicio](/java-herramientas-para-desarrolladores/#page-title "Regresar al Inicio"){: .btn .btn--inverse .btn--large .align-center}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -436,4 +436,4 @@ FindBugs es un proyecto Java de código abierto para análisis estático. Escane
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

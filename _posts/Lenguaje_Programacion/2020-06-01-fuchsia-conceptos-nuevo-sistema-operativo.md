@@ -50,7 +50,7 @@ El 1 de julio de 2019, Google anunció la página de inicio del proyecto, fuchsi
 **Nota:** La fuente Fuchsia incluye [Zircon](https://fuchsia.googlesource.com/fuchsia/+/master/zircon/README.md){:target="_blank" rel="nofollow,noreferrer"}, la plataforma central que sustenta a Fuchsia. Para trabajar en Zircon, consulte [Introducción a Zircon](https://fuchsia.dev/docs/development/kernel/getting_started){:target="_blank" rel="nofollow,noreferrer"}.
 {: .notice--info}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Obtén el código fuente de Fuchsia
 
@@ -75,7 +75,7 @@ El comando `fx set` toma un argumento `PRODUCT.BOARD`, que define la configuraci
 
 Consulte como [configurar una compilación](https://fuchsia.dev/docs/development/build/fx#configure-a-build){:target="_blank" rel="nofollow,noreferrer"} para obtener más opciones.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 #### **Acelera la construcción con ccache**
 
@@ -124,7 +124,7 @@ Consulte como [ejecutar una compilación](https://fuchsia.dev/docs/development/b
 
 [🔖 Ir al Índice](/sistema-operativo-fuchsia-conceptos/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Configurar un dispositivo Fuchsia**
 
@@ -140,7 +140,7 @@ Si no tiene hardware compatible, puedes ejecutar Fuchsia sobre un emulador usand
 
 [🔖 Ir al Índice](/sistema-operativo-fuchsia-conceptos/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 #### **Configurar la red**
 
@@ -218,7 +218,7 @@ Consulte [Servir una compilación](https://fuchsia.dev/docs/development/build/fx
 
 [🔖 Ir al Índice](/sistema-operativo-fuchsia-conceptos/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Explorar Fuchsia**
 
@@ -254,7 +254,7 @@ Los siguientes métodos abreviados de teclado lo ayudan a navegar por el termina
 
 [🔖 Ir al Índice](/sistema-operativo-fuchsia-conceptos/#índice-){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Ejecutar pruebas**
 
@@ -305,5 +305,5 @@ Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.or
 - [**Lanzar un componente gráfico**](#lanzar-un-componente-gráfico)
   - [Licencia](#licencia)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

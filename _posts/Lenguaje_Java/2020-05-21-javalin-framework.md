@@ -53,7 +53,7 @@ Javalin ofrece una serie de muy interesantes características, que son las sigui
 - **Educativo**: Visite nuestra [página de educadores](https://javalin.io/for-educators){:target="_blank" rel="nofollow noreferrer"} si está enseñando programación web y está buscando un framework web que se salga de su camino y le permita concentrarse en los conceptos centrales de su plan de estudios.
 - **Integración OpenAPI**: Muchos frameworks web ligeros de Java y Kotlin no son compatibles con OpenAPI, pero Javalin tiene una integración completa, que incluye Swagger UI y redoc para mostrar los documentos generados. Obtenga más información en la página dedicada del [complemento OpenAPI](https://javalin.io/plugins/openapi){:target="_blank" rel="nofollow noreferrer"}.
 
-[▶ Web Oficial de Javalin](https://javalin.io){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[▶ Web Oficial de Javalin](https://javalin.io){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

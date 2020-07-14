@@ -103,7 +103,7 @@ Esto hace que las tuberías de entrega sean más difíciles de escribir, compren
 
 Notarás que hay muchas menos líneas de repetitivo. Ya no es necesario especificar args, un punto de entrada o recordar la parte difícil "-c". Simplemente especifique el intérprete que desea usar y los comandos para ejecutar. ¡Esto ya nos ha permitido simplificar docenas de casos de prueba y ejemplos!
 
-[👉 Request Correspondiente 👉](https://github.com/tektoncd/pipeline/pull/1432){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Request Correspondiente 👉](https://github.com/tektoncd/pipeline/pull/1432){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Actualización de Rendimiento**
 
@@ -111,7 +111,7 @@ Tekton ha sufrido durante mucho tiempo un bajo rendimiento al iniciar PipelineRu
 
 [Scott Seaward](http://github.com/sbwsg){:target="_blank" rel="nofollow,noreferrer"} está manejando una solución más general a más largo plazo y el esfuerzo de recursos, pero decidí tomar otra puñalada en una solución a corto plazo. Los dedos cruzaron que funciona, pero las pruebas iniciales muestran mejoras de entre 5 y 20 segundos por PipelineRun.
 
-[👉 Request Correspondiente 👉](https://github.com/tektoncd/pipeline/pull/1432){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Request Correspondiente 👉](https://github.com/tektoncd/pipeline/pull/1432){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Cambios de API**
 
@@ -149,7 +149,7 @@ La comunidad de Tekton ha estado trabajando arduamente para enviar las API y los
 
 Este contenido se encuentra bajo licencia **[Apache 2.0](https://es.wikipedia.org/wiki/Apache_License)**.
 
-[👉 Repositorio de Tekton 🤞](https://github.com/tektoncd){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio de Tekton 🤞](https://github.com/tektoncd){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- wiki, integración continua: https://en.wikipedia.org/wiki/Continuous_integration#CI/CD -->
 <!-- - [Instalación de tuberías de Tekton](https://github.com/tektoncd/pipeline/blob/master/docs/install.md) - ¡Salta con [el tutorial!](https://github.com/tektoncd/pipeline/blob/master/docs/tutorial.md) -->
 

@@ -120,7 +120,7 @@ Si eres seleccionado para recibir la "subvención" o ayuda económica para tu pr
 
 **¿Qué debo entregar al final?** Después de completar el proyecto o el trabajo pagaod, se enviará un enlace a la web de Behance, Youtube, u artículo en línea que incluya el Hashtag #adoberesidency y deberás compartir tu obra de arte final en una carpeta concreta proporcionada por el equipo de Adobe Creative.
 
-[💪 Enviar Solicitud](https://www.adobe.com/about-adobe/creative-residency/community-fund.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💪 Enviar Solicitud](https://www.adobe.com/about-adobe/creative-residency/community-fund.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Desde Adobe han creado el proyecto Creative Residency Community Fund o Fondo de Ayuda a Creadores de Adobe. El proyecto se basa en apoyar a los creadores digitales de arte visual repartiendo subvenciones de ayuda de entre 500 y 5.000 dólares.](/assets/img/blog/adobe-becas.webp "Desde Adobe han creado el proyecto Creative Residency Community Fund o Fondo de Ayuda a Creadores de Adobe. El proyecto se basa en apoyar a los creadores digitales de arte visual repartiendo subvenciones de ayuda de entre 500 y 5.000 dólares.")
 
@@ -136,4 +136,4 @@ Si eres seleccionado para recibir la "subvención" o ayuda económica para tu pr
 
 [ ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Etc.](https://ciberninjas.com/cursos-animacion-diseno/)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

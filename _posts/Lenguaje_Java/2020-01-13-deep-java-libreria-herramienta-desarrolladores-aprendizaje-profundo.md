@@ -61,9 +61,9 @@ No tiene que ser experto en aprendizaje automático / aprendizaje profundo para 
 
 Debido a que DJL es independiente del marco de aprendizaje profundo, no tiene que elegir entre marcos al crear sus proyectos. Puede cambiar marcos en cualquier momento. Para garantizar el mejor rendimiento, DJL también ofrece opciones automáticas de CPU / GPU basadas en la configuración del hardware.
 
-[👉 Visitar Biblioteca Deep Java Librería 🤖](https://djl.ai/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[👉 Repositorio de Github: Deep Java Librería 🤖](https://github.com/awslabs/djl#deep-java-library-djl){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[👉 Repositorio de Github: Deep Java Librería 🤖](https://github.com/awslabs/djl#getting-started){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Visitar Biblioteca Deep Java Librería 🤖](https://djl.ai/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio de Github: Deep Java Librería 🤖](https://github.com/awslabs/djl#deep-java-library-djl){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio de Github: Deep Java Librería 🤖](https://github.com/awslabs/djl#getting-started){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 _____
 

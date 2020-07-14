@@ -67,7 +67,7 @@ Komodo es un IDE de PHP que admite tecnologías web, incluidos HTML, JavaScript,
 - Destaca y detecta múltiples idiomas dentro de un archivo.
 - Se pueden verificar la aparición de variables en el código.
 
-[🔥 Descargar Komodo](https://ciberninjas.com/ide-komodo-gratis/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Komodo](https://ciberninjas.com/ide-komodo-gratis/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Eclipse PHP**
 
@@ -81,8 +81,8 @@ Eclipse PHP es una herramienta de desarrollo de sitios web para PHP. Destaca la 
 - Permite administrar el proyecto de forma remota.
 - Se puede usar en Windows, Linux y OS X.
 
-[🔥 Descargar Eclipse PHP](https://www.eclipse.org/pdt/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Eclipse PHP](https://www.eclipse.org/pdt/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **Netbeans**
 
@@ -98,7 +98,7 @@ NetBeans es un entorno de desarrollo integrado para escribir programas PHP. Tien
 - Ofrece plantillas preparadas para escribir un guión.
 - Existen ventanas de servicio que muestran los servicios externos disponibles.
 
-[🔥 Descargar Netbeans](https://netbeans.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Netbeans](https://netbeans.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **CodeLobster**
 
@@ -113,7 +113,7 @@ Codelobster es un entorno de desarrollo integrado para PHP. Es compatible con nu
 - Permite ocultar bloques de código en los que no está trabajando actualmente.
 - Se puede contraer el código para ver el código en detalle.
 
-[🔥 Descargar CodeLobster](http://www.codelobster.com/php_editing.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar CodeLobster](http://www.codelobster.com/php_editing.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Cloud 9**
 
@@ -129,8 +129,8 @@ Cloud9 es un editor basado en la nube que te permite escribir, ejecutar y depura
 - Cloud9 ofrece una amplia variedad de temas.
 - Ofrece un editor de imágenes incorporado para cambiar el tamaño, recortar o rotar imágenes.
 
-[🔥 Comenzar con Cloud 9](https://aws.amazon.com/es/cloud9/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Comenzar con Cloud 9](https://aws.amazon.com/es/cloud9/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **CodeLite**
 
@@ -143,7 +143,7 @@ CodeLite es una herramienta de código abierto para escribir programas en PHP. Q
 - Codelite te ayuda a encontrar archivos sin esfuerzo usando una vista de árbol.
 - Ofrece una amplia gama de comandos con las funcionalidades de ordenar, cambiar la sintaxis, etc.
 
-[🔥 Descargar CodeLite](https://codelite.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar CodeLite](https://codelite.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **Geany**
 
@@ -157,8 +157,8 @@ Geany es un editor PHP que utiliza el kit de herramientas de código abierto GTK
 - Puede cerrar automáticamente las etiquetas HTML y XML.
 - Geany proporciona una lista de símbolos que te ayuda a saber dónde se define el símbolo.
 
-[🔥 Descargar Geany](https://www.geany.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Geany](https://www.geany.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. **Storm PHP**
 
@@ -172,7 +172,7 @@ PHPStorm es un IDE multiplataforma para PHP, que permite utilizar tecnología fr
 - PHPStorm proporciona sugerencias para variables y métodos.
 - Completa automáticamente el código.
 
-[🔥 Descargar Storm PHP](https://www.jetbrains.com/phpstorm/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Storm PHP](https://www.jetbrains.com/phpstorm/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **TextMate**
 
@@ -186,8 +186,8 @@ TextMate es un editor desarrollado para macOS. Le ayuda a intercambiar fácilmen
 - El texto o código previamente copiado se puede ver en el historial del portapapeles.
 - Puede controlar la versión del archivo PHP con facilidad.
 
-[🔥 Descargar TextMate](https://macromates.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar TextMate](https://macromates.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **Zend Studio**
 
@@ -201,7 +201,7 @@ Zend Studio es un entorno de desarrollo integrado para desarrollar una aplicaci�
 - Es compatible con el Framework de Laravel y Symfony.
 - Zend Studio puede trabajar con plataformas en la nube como Red Hat OpenShift o Microsoft Azure.
 
-[🔥 Descargar Zend Studio](https://www.zend.com/products/zend-studio){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Zend Studio](https://www.zend.com/products/zend-studio){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **Kwrite**
 
@@ -214,7 +214,7 @@ KWrite es una herramienta ligera para escribir código PHP. Esta herramienta est
 - Es compatible con el complemento KIPI para exportar imágenes.
 - El editor ofrece autocompletado basado en palabras o frases que ya ha visto en el resto de las partes del resto del código.
 
-[🔥 Descargar KWrite](https://kde.org/applications/utilities/org.kde.kwrite "Descargar el editor de texto KWrite"){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar KWrite](https://kde.org/applications/utilities/org.kde.kwrite "Descargar el editor de texto KWrite"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados
 
@@ -226,4 +226,4 @@ KWrite es una herramienta ligera para escribir código PHP. Esta herramienta est
 
 ![Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.](/assets/img/blog/php-ide/php-editores.webp "Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.")
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

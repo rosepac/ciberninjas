@@ -152,4 +152,4 @@ _____
 **Fuentes**:
 * [ProtonMail](https://protonmail.com/blog/android-privacy/){:target="_blank" rel="nofollow,noreferrer"}
 
-[👉 Visita las Guías de Seguridad de la EFF 🔐](/eff/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Visita las Guías de Seguridad de la EFF 🔐](/eff/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

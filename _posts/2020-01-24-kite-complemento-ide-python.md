@@ -83,7 +83,7 @@ Kite es capaz de integrarse con todos estos editores para mejorar la usabilidad 
 
 ## Descargar
 
-[👉 Descargar Kite 🤞](https://kite.com/download/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Descargar Kite 🤞](https://kite.com/download/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 _____
 

@@ -127,7 +127,7 @@ Esto hará funcionar el corrector ortográfico en español. A pesar de todo, las
 
 Podremos hacerle aprender palabras nuevas, haciendo 'click' sobre una palabra y seleccionando en el menú secundario, la opción **'Learn Spelling'**.
 
-[🔥 Probar Typora](https://typora.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Typora](https://typora.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **MarkDown Monster**
 
@@ -154,7 +154,7 @@ En la cinta de botones encontramos todas las opciones de **MarkDown** y además,
 
 No posee un mundo 'full screen 100%' pero si un modo de escritura sin distracciones bastante agradable, tienen corrector ortográfico en español y otro detalle importante; existe una versión **portable**. 
 
-[🔥 Probar Markdown Monster](https://markdownmonster.west-wind.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Markdown Monster](https://markdownmonster.west-wind.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **Boostnote**
 
@@ -165,7 +165,7 @@ Pero hasta que llegue ese momento, es un tanto extraño. Debemos sumarle, que su
 
 Podríamos decir que es un proyecto claramente enfocado en ser un bloc de notas, ofreciéndonos una opción de marcar notas como favoritas o añadir etiquetas. 
 
-[🔥 Probar Bootsnote](https://boostnote.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Bootsnote](https://boostnote.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **Haroopad**
 
@@ -177,7 +177,7 @@ Por defecto tiene una pequeña 'chuletilla' de **MarkDown** que puedes o bien ma
 
 Una pega, es que no tiene corrector (o eso creo)  no se lo he encontrado.
 
-[🔥 Probar Haroopad](http://pad.haroopress.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Haroopad](http://pad.haroopress.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Editores de Makrdown en Línea**
 
@@ -191,7 +191,7 @@ FocusFox es un editor en línea gratuito **simple e inteligente** con sonidos de
 
 La biblioteca de sonidas te ayudará a concentrarte, e incluye una opción de corrector ortográfico para los ~~ errores ~~ además de ofrecer el modo de escritura de minimalista y el modo oscuro de escritura.
 
-[🔥 Probar FocuxFox](https://www.focusfox.co/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar FocuxFox](https://www.focusfox.co/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 5.2 **StackEdit**
 
@@ -203,7 +203,7 @@ Barra de botones con opciones rápidas a atajos de elementos de **MarkDown** inc
 
 El corrector ortográfico del navegador funciona perfectamente.
 
-[🔥 Probar StackEdit](https://stackedit.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar StackEdit](https://stackedit.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 5.3 **Dillinger**
 
@@ -213,7 +213,7 @@ Otra muy buena opción, en este caso nos encontramos con una opción de pantalla
 
 Permite conectarse, importar y exportar, a través de múltiples cuentas. Lo peor de todo, el corrector ortográfico se desactiva al escribir. 
 
-[🔥 Probar Dillinger](https://dillinger.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Dillinger](https://dillinger.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 5.4 **Hackmd.io**
 
@@ -223,7 +223,7 @@ Como las opciones anteriores, posee un aspecto muy agradable; y amplias opciones
 
 La parte extra de **Hackmd** es que permite el trabajo compartido online, compartir una nota y editarla de forma grupal; y un panel de 'portada' desde el que podremos gestionar las publicaciones trabajando con etiquetas o palabras claves.
 
-[🔥 Probar HackMD](https://hackmd.io){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar HackMD](https://hackmd.io){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Enlaces a recursos sobre MarkDown**
 

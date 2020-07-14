@@ -65,7 +65,7 @@ Strider es una herramienta de código abierto. Está escrito en Node.JS / JavaSc
 - Complementos potentes para personalizar las funciones predeterminadas.
 - Soporta Docker.
 
-[🔥 Descargar Strider CD](https://github.com/Strider-CD/strider){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Strider CD](https://github.com/Strider-CD/strider){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Gitlab CI**
 
@@ -82,7 +82,7 @@ GitLab CI es parte de GitLab. Es una aplicación web con una API que almacena su
 - Le ayuda a mantener su información segura con problemas confidenciales
 - Los proyectos internos en GitLab permiten promover el abastecimiento interno de repositorios internos.
 
-[🔥 Descargar Gitlab CI](https://about.gitlab.com/installation/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Gitlab CI](https://about.gitlab.com/installation/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -103,7 +103,7 @@ GoCD es un servidor de integración continua de código abierto. Se utiliza para
 - Toneladas de complementos para mejorar la funcionalidad.
 - Comunidad activa de ayuda y apoyo.
 
-[🔥 Descargar Go CD](https://www.gocd.org/download/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Go CD](https://www.gocd.org/download/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **FinalBuilder**
 
@@ -120,7 +120,7 @@ FinalBuilder es la herramienta de compilación de Vsoft. Con Vsoft no hay necesi
 - Proporciona soporte para scripting.
 - El resultado de todas las acciones en el proceso de compilación se dirige al registro de compilación.
 
-[🔥 Descargar FinalBuilder](https://www.finalbuilder.com/downloads/finalbuilder){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar FinalBuilder](https://www.finalbuilder.com/downloads/finalbuilder){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Urbancode**
 
@@ -137,7 +137,7 @@ IBM UrbanCode Deploy es una aplicación de CI. Combina visibilidad robusta, traz
 - Modelado de entorno de nube híbrida.
 - Automatización de arrastrar y soltar.
 
-[🔥 Descargar Urbancode](https://www.ibm.com/us-en/marketplace/application-release-automation){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Urbancode](https://www.ibm.com/us-en/marketplace/application-release-automation){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -154,7 +154,7 @@ AutoRABIT es una suite de entrega continua de extremo a extremo para acelerar el
 - Obtenga cambios del Sistema de control de versiones e impleméntelos en Sandbox automáticamente.
 - Los cambios de confirmación automática en el sistema de control de versiones directamente desde Sandbox.
 
-[🔥 Descargar Autorabit](https://www.autorabit.com/tag/autorabit-download/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Autorabit](https://www.autorabit.com/tag/autorabit-download/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **Circle CI**
 
@@ -174,7 +174,7 @@ Circle CI es una herramienta de CI flexible que se ejecuta en cualquier entorno 
 - Caché y paralelismo óptimos para un rendimiento rápido.
 - Integración con herramientas VCS.
 
-[🔥 Descargar Circle CI](https://circleci.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Circle CI](https://circleci.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. **TeamCity**
 
@@ -193,7 +193,7 @@ TeamCity es un servidor de integración continua que admite muchas funciones pot
 - Informes de progreso de compilación sobre la marcha.
 - Ejecución remota y confirmación previamente probada.
 
-[🔥 Descargar TeamCity](https://www.jetbrains.com/teamcity/download/#section=windows){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar TeamCity](https://www.jetbrains.com/teamcity/download/#section=windows){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -212,7 +212,7 @@ El agente buildkite es un corredor de compilación confiable y multiplataforma. 
 - Buildkite nunca ve el código fuente o las claves secretas.
 - Ofrece infraestructura estable.
 
-[🔥 Descargar Buildkite](https://buildkite.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Buildkite](https://buildkite.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **Wercker**
 
@@ -229,7 +229,7 @@ Wercker es una herramienta de CI que automatiza las compilaciones y despliega el
 - Integre con cientos de herramientas externas.
 - Recibir notificaciones del sistema en el producto y por correo electrónico.
 
-[🔥 Descargar Wercker](http://www.wercker.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Wercker](http://www.wercker.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -247,7 +247,7 @@ Bitrise es una plataforma de integración y entrega continua como un servicio. O
 - Soporte para pruebas de terceros y servicios de implementación.
 - Soporte para solicitud de extracción de GitHub.
 
-[🔥 Descargar Bitrise](https://github.com/bitrise-io/bitrise#install-and-setup){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Bitrise](https://github.com/bitrise-io/bitrise#install-and-setup){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 12. **Bamboo**
 
@@ -265,7 +265,7 @@ Bamboo es un servidor de compilación de integración continua que realiza: comp
 - Facilita la colaboración en tiempo real y se integra con HipChat.
 - Incorporación de ramificaciones y flujos de trabajo de Git. Fusiona automáticamente las ramas.
 
-[🔥 Descargar Bamboo](https://www.atlassian.com/software/bamboo){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Bamboo](https://www.atlassian.com/software/bamboo){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 13. **Buddy**
 
@@ -283,7 +283,7 @@ Buddy es una herramienta inteligente de CI / CD para desarrolladores web diseña
 - Se integra con AWS, Google, DigitalOcean, Azure, Shopify, WordPress y más.
 - Admite paralelismo y configuración YAML.
 
-[🔥 Descargar Buddy](https://buddy.works/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Buddy](https://buddy.works/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -299,7 +299,7 @@ Integrity es un servidor de integración continua que solo funciona con GitHub. 
 - Esta herramienta de CI admite varios mecanismos de notificación como AMQP, correo electrónico, HTTP, Amazon SES, Flowdock, Shell y TCP.
 - La función Notificador HTTP envía una solicitud POST HTTP a la URL específica.
 
-[🔥 Descargar Integrity](http://integrity.github.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Integrity](http://integrity.github.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 15. **CruiseControl**
 
@@ -314,7 +314,7 @@ CruiseControl es tanto una herramienta de CI como un marco extensible. Se utiliz
 - Integración con otras herramientas externas como NAnt, NDepend, NUnit, MSBuild, MBUnit y Visual Studio.
 - Brindar soporte para la gestión remota.
 
-[🔥 Descargar CruiseControl](http://cruisecontrol.sourceforge.net/download.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar CruiseControl](http://cruisecontrol.sourceforge.net/download.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

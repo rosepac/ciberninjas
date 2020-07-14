@@ -81,11 +81,11 @@ Las mejores páginas web del mundo en las que vas a poder encontrar tanto los vi
 
 Juegos y Aplicaciones de Android. Actualmente: College Days, Zombie Age 3 PRemium, Slime Pang.. Starman in space
 
-[📲 JUEGOS DE ANDROID GRATIS A DIARIO 📲](https://android.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[📲 JUEGOS DE ANDROID GRATIS A DIARIO 📲](https://android.giveawayoftheday.com/?lang=es){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Juegos y aplicaciones de Iphone. Actualmente: spinny Monster, NewfyMoji, Cross Section Engineer, Drop Flop!, A Florist, Shopkins..
 
-[📲 JUEGOS DE IPHONE GRATIS A DIARIO 📲](https://iphone.giveawayoftheday.com/?lang=es){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[📲 JUEGOS DE IPHONE GRATIS A DIARIO 📲](https://iphone.giveawayoftheday.com/?lang=es){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

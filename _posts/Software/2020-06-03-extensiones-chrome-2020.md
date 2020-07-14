@@ -49,19 +49,19 @@ Aquí está la lista que se me ocurrió:
 
 Cierra las pestañas que han estado abiertas durante demasiado tiempo, pero las mantiene a mano para cuando las necesites. Si eres un fanático de las pestañas, esto es imprescindible y te permite mantener docenas de pestañas abiertas o "en reserva" sin la necesidad de que el rendimiento se vea afectado.
 
-[🔥 Probar Tab Wranger](https://chrome.google.com/webstore/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Tab Wranger](https://chrome.google.com/webstore/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **The Great Suspender**
 
 Otra herramienta imprescindible para mejorar el consumo. Esto es un poco diferente a Tab Wrangler en que toma pestañas que no han estado inactivas durante un período específico y las suspende "automáticamente" liberando los recursos de RAM y CPU.
 
-[🔥 Probar The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **FoxClocks**
 
 Si requieres controlar o estar pendientes de diferentes zonas horarias, entonces tener varios relojes en la barra de estado del navegador te ayudará a estar informado y pendiente constantemente. Simplemente haciendo clic en el icono de la extensión de FoxClocks junto a la barra de direcciones podrás acceder rápidamente a tus relojes, sin necesidad de salir de la página web actual.
 
-[🔥 Probar FoxClocks](https://chrome.google.com/webstore/detail/foxclocks/obcbigljfpgappaaofailjjoabiikckk){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar FoxClocks](https://chrome.google.com/webstore/detail/foxclocks/obcbigljfpgappaaofailjjoabiikckk){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **LastPass**
 
@@ -69,29 +69,29 @@ Una herramienta indispensable hoy en día, si manejas varios dispositivos; es un
 
 La extensión no solo da acceso a las contraseñas guardadas, sino que también te va a permitir crear nuevas contraseñas seguras y también administrar tu cuenta. Si no estás utilizando un administrador de contraseñas, ¡Realmente deberías comenzar hoy con uno! y yo te recomiendo que pruebes LastPass.
 
-[🔥 Probar LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Nimbus Note**
 
 Nimbus es la extensión del futuro, que más tarde o temprano va a lograr sustituir a Evernote. Nimbus te permite [crear capturas de pantalla](https://ciberninjas.com/capturas-pantalla-windows-10/) de múltiples formas como [ya te hemos contado](https://ciberninjas.com/capturas-pantalla-windows-10/) con anterioridad en Ciberninjas, y además; crear pequeños clips sobre las páginas web, tomar capturas de pantalla completas, incluso grabar vídeos o compartir la pantalla directamente desde la propia extensión; una absoluta y total maravilla; si aún no has probado Nimbus o te gustaría probar algo con lo que sustituir Evernote: Debes de instalar ya está aplicación y verás que rápido vas a comenzar a extraerle su máximo rendimiento con sus infinitas posibilidades.
 
-[🔥 Probar Nimbus Note](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Nimbus Note](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Ghostery**
 
 ¿Qué hace Ghostery? En pocas palabras, bloquea los anuncios, detiene a los rastreadores y acelera los sitios web. El Anti Tracking mejorado también anonimiza tus datos para proteger aún más tu privacidad. Eso sí, por favor, procura desbloquear Ghostery o cualquier otra app de anuncios dentro de nuestra página web 😜
 
-[🔥 Probar Ghostery](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Ghostery](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **Adblock Plus**
 
 ¡El abuelo de los bloqueadores de anuncios! Descargado más de 500 millones de veces, es sin duda una de las extensiones más confiables que existen; te permite bloquear anuncios de vídeos y todos los banners más molestos (no como los nuestros, que son soportables.. 😝) además lucha contra la publicidad más maliciosa y te permite bloquear los anuncios de forma personalizada dentro de cada una de las páginas webs que visites.
 
-[🔥 Probar Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Probar Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados <!-- omit in toc -->
 
@@ -118,4 +118,4 @@ Nimbus es la extensión del futuro, que más tarde o temprano va a lograr sustit
 
 ![Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.](/assets/img/blog/chrome-extensiones.webp "Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.")
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -82,4 +82,4 @@ Como comenté al inicio de este artículo, hay muchas amenazas por Internet, per
 
 No dejes pasar más tiempo y preocúpate por tu seguridad en este año 2020, ¡Adelante y comienza a construir una base segura de tu tecnología!
 
-[👉 Visita las Guías de Seguridad de la EFF 🔐](/eff/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Visita las Guías de Seguridad de la EFF 🔐](/eff/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

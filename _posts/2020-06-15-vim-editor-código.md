@@ -476,7 +476,7 @@ Aquí hay algunos ejemplos para mostrarle el poder del editor. No podemos enseñ
 
 
 
-[🔥 Descargar ](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. ****
 
@@ -488,7 +488,7 @@ Aquí hay algunos ejemplos para mostrarle el poder del editor. No podemos enseñ
 
 
 
-[🔥 Descargar ](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. ****
 
@@ -500,7 +500,7 @@ Aquí hay algunos ejemplos para mostrarle el poder del editor. No podemos enseñ
 
 
 
-[🔥 Descargar ](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. ****
 
@@ -512,7 +512,7 @@ Aquí hay algunos ejemplos para mostrarle el poder del editor. No podemos enseñ
 
 
 
-[🔥 Descargar ](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. ****
 
@@ -524,9 +524,9 @@ Aquí hay algunos ejemplos para mostrarle el poder del editor. No podemos enseñ
 
 
 
-[🔥 Descargar ](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. ****
 
@@ -538,7 +538,7 @@ Aquí hay algunos ejemplos para mostrarle el poder del editor. No podemos enseñ
 
 
 
-[🔥 Descargar ](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. ****
 
@@ -550,7 +550,7 @@ Aquí hay algunos ejemplos para mostrarle el poder del editor. No podemos enseñ
 
 
 
-[🔥 Descargar ](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. ****
 
@@ -562,7 +562,7 @@ Aquí hay algunos ejemplos para mostrarle el poder del editor. No podemos enseñ
 
 
 
-[🔥 Descargar ](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. ****
 
@@ -574,7 +574,7 @@ Aquí hay algunos ejemplos para mostrarle el poder del editor. No podemos enseñ
 
 
 
-[🔥 Descargar ](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. ****
 
@@ -586,9 +586,9 @@ Aquí hay algunos ejemplos para mostrarle el poder del editor. No podemos enseñ
 
 
 
-[🔥 Descargar ](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Conclusión
 
@@ -613,4 +613,4 @@ Aquí hay algunos ejemplos para mostrarle el poder del editor. No podemos enseñ
 > 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

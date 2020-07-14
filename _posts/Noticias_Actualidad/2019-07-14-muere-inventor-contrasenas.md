@@ -22,7 +22,7 @@ feature-img: "/assets/img/2020-news/historia-seguridad-corbato-contrasena.webp"
 ---
 > Muere, Fernando Corbató, el inventor de las contraseñas de computadora a los 93 años
 
-[🔎 Enlace a la Noticia](https://www.fayerwayer.com/2019/07/muere-inventor-contrasenas-computadora){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔎 Enlace a la Noticia](https://www.fayerwayer.com/2019/07/muere-inventor-contrasenas-computadora){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <figure>
     <a href="/assets/img/historia-seguridad-corbato-contrasenax636.jpg" class="image-popup"><img src="/assets/img/historia-seguridad-corbato-contrasena.jpg"></a>

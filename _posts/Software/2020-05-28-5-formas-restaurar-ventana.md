@@ -39,7 +39,7 @@ Verás el borde inferior de la ventana pero no podrás acceder al marco en el qu
 - [4. **Cambia la resolución de pantalla**](#4-cambia-la-resolución-de-pantalla)
 - [5. **Aplica la opción de detección de pantalla**](#5-aplica-la-opción-de-detección-de-pantalla)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 1. **Restaura la ventana desde la Barra de tareas**
 

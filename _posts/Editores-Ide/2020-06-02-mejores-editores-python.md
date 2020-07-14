@@ -76,7 +76,7 @@ Además, gratuito.
 - Ofrece una refactorización de código rápida y segura.
 - Le permite acceder a PostgreSQL, Oracle, MySQL, SQL Server y muchas otras bases de datos desde el IDE.
 
-[🔥 Descargar PyCharm](https://www.jetbrains.com/pycharm/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar PyCharm](https://www.jetbrains.com/pycharm/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **Spyder**
 
@@ -92,7 +92,7 @@ Spyder es un entorno de desarrollo científico integrado escrito en Python. Este
 - Encuentra y elimina cuellos de botella
 - Una forma interactiva de rastrear cada paso de la ejecución del código Python.
 
-[🔥 Descargar Spyder](https://www.spyder-ide.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Spyder](https://www.spyder-ide.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **IDLE**
 
@@ -107,7 +107,7 @@ IDLE (Integrated Development and Learning Environment) es un editor predetermina
 - Admite sangría inteligente, deshacer, sugerencias de llamadas y autocompletado.
 - Le permite buscar y reemplazar dentro de cualquier ventana.
 
-[🔥 Descargar IDLE](https://docs.python.org/3/library/idle.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar IDLE](https://docs.python.org/3/library/idle.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **Sublime Text 3**
 
@@ -123,7 +123,7 @@ Sublime Text 3 es un editor de código que admite muchos idiomas, incluido Pytho
 - Mostrar insignias para carpetas y archivos para indicar el estado de Git
 - Los cambios en un archivo están representados por marcadores disponibles en la canaleta.
 
-[🔥 Descargar Sublime Text 3](https://www.sublimetext.com/3){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Sublime Text 3](https://www.sublimetext.com/3){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **Visual Studio Code**
 
@@ -138,9 +138,9 @@ Visual Studio Code (VS Code) es un entorno de código abierto desarrollado por M
 - Le permite depurar el código del editor.
 - Proporciona extensiones para agregar nuevos idiomas, depuradores, temas para obtener la ventaja de servicios adicionales.
 
-[🔥 Descargar Visual Studio Code](https://code.visualstudio.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Visual Studio Code](https://code.visualstudio.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 6. **Atom**
 
@@ -156,9 +156,9 @@ Atom es una herramienta útil de editor de código preferida por los programador
 - Paneles múltiples
 - Permitir edición multiplataforma
 
-[🔥 Descargar Atom](https://atom.io/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Atom](https://atom.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **Jupyter**
 
@@ -173,7 +173,7 @@ Jupyter es una herramienta para las personas que acaban de comenzar con la cienc
 - Soporte para muchos lenguajes de programación.
 - Bibliotecas integradas de ciencia de datos (matplotlib, NumPy, Pandas).
 
-[🔥 Descargar Jupyter](https://jupyter.org/install.html){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Jupyter](https://jupyter.org/install.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. **Pydev**
 
@@ -189,7 +189,7 @@ PyDev es un editor de Python de terceros para Eclipse. Este editor puede usarse 
 - Importa automáticamente el código para completarlo.
 - Puede configurar la integración de Django.
 
-[🔥 Descargar Pydev](https://www.pydev.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Pydev](https://www.pydev.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Thonny**
 
@@ -205,7 +205,7 @@ Thonny es un IDE para la programación de aprendizaje y enseñanza, especialment
 - La llamada a la función Python abre una nueva ventana con una tabla de variables locales separada, así como un puntero de código.
 - Detecta automáticamente el error de sintaxis.
 
-[🔥 Descargar Thonny](https://thonny.org/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Thonny](https://thonny.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **Wing**
 
@@ -222,7 +222,7 @@ Precio: la prueba Wing Pro es gratuita. Wind Personal y Wing 101 son versiones p
 - Puede verificar los datos de depuración y probar las correcciones de errores de forma interactiva sin reiniciar su aplicación.
 - Wing admite el desarrollo basado en pruebas con varios marcos como unittest, pytest, nose, doctest y Django.
 
-[🔥 Descargar Wing](https://wingware.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Wing](https://wingware.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 11. **Komodo Active Python**
 
@@ -242,10 +242,10 @@ Precio: Gratis para la comunidad, sin embargo. Las versiones empresariales son d
 - Compatible con Python de código abierto para que pueda evitar el bloqueo del proveedor.
 - Utiliza el parche OpenSSL por seguridad.
 
-[🔥 Descargar ActivePython](https://www.activestate.com/products/python/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ActivePython](https://www.activestate.com/products/python/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
@@ -272,4 +272,4 @@ Precio: Gratis para la comunidad, sin embargo. Las versiones empresariales son d
 
 [🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

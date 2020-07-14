@@ -25,19 +25,19 @@ Las categorías en las que los proyectos están clasificados son las siguientes:
 
 <iframe src="https://drive.google.com/file/d/1nqmlNNwEMemrTMCpUNn5G9yf2cAocM0k/preview" width="935" height="480"></iframe>
 
-[👉 Visitar Versión Interactiva 2019 🔨](https://risingstars.js.org/2019/es/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Visitar Versión Interactiva 2019 🔨](https://risingstars.js.org/2019/es/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Visualizar Análisis de 2018
 
 <iframe src="https://drive.google.com/file/d/15_qTQZuHDALwCX8ukA4mgvcbMNrrwpbC/preview" width="935" height="480"></iframe>
 
-[👉 Visitar Versión Interactiva 2018 🔨](https://risingstars.js.org/2018/es){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Visitar Versión Interactiva 2018 🔨](https://risingstars.js.org/2018/es){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Visualizar Análisis de 2017
 
 <iframe src="https://drive.google.com/file/d/1MfjlT72IDe7r_seh8117WxZUsZ8oAB-G/preview" width="935" height="480"></iframe>
 
-[👉 Visitar Versión Interactiva 2017 🔨](https://risingstars.js.org/2017/es/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Visitar Versión Interactiva 2017 🔨](https://risingstars.js.org/2017/es/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 -----
 

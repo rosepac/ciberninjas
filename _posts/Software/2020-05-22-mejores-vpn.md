@@ -41,7 +41,7 @@ La herramienta PureVPN proporciona una forma segura de acceder a cualquier cosa 
 - Soporte en vivo amigable las 24 horas.
 - Proporciona servicios habilitados para P2P mediante la optimización de servidores con un recurso compartido de archivos seguro.
 
-[🔥 Descargar PureVPN](https://www.purevpn.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar PureVPN](https://www.purevpn.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 2. **SaferVPN**
 
@@ -56,7 +56,7 @@ SaferVPN proporciona aplicaciones VPN perfectas para Windows, iOS, Mac, Android,
 - Proporciona conmutación de servidor ilimitada.
 - Le ayuda a llamar a otras personas de forma segura utilizando aplicaciones como Telegram, Whatsapp y Viber.
 
-[🔥 Descargar SaferVPN](https://www.safervpn.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar SaferVPN](https://www.safervpn.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 3. **NordVPN**
 
@@ -70,7 +70,7 @@ NordVPN es un software que no rastrea, recopila o comparte datos. Está disponib
 - NordVPN no mantiene la actividad de registro en línea.
 - Ofrece soporte de productos 24/7.
 
-[🔥 Descargar NordVPN](https://nordvpn.com){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar NordVPN](https://nordvpn.com){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 4. **ExpressVPN**
 
@@ -85,7 +85,7 @@ ExpressVPN asegura la navegación por Internet contra agencias de tres letras y 
 - La asistencia está disponible las 24 horas del día, los 7 días de la semana, por correo electrónico y por chat en vivo.
 - Pague con Bitcoin y use Tor para acceder a sitios ocultos.
 
-[🔥 Descargar ExpressVPN](https://www.expressvpn.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ExpressVPN](https://www.expressvpn.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 5. **CyberGhost**
 
@@ -100,7 +100,7 @@ El software CyberGhost le proporciona torrents P2P seguros. Puede desbloquear to
 - Proporciona ancho de banda ilimitado.
 - CyberGhost VPN le permite poner su privacidad primero y lo protege contra mineros de datos y piratas informáticos.
 
-[🔥 Descargar CyberGhost](https://www.cyberghostvpn.com/en_US/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar CyberGhost](https://www.cyberghostvpn.com/en_US/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -115,7 +115,7 @@ Surfshark proporciona acceso rápido y seguro al contenido web. Hace que su ubic
 - Proteja su confidencialidad ocultando su dirección IP real.
 - Este software no registra su IP, WebRTC y evita fugas de DNS.
 
-[🔥 Descargar Surfshark](https://surfshark.com){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Surfshark](https://surfshark.com){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 7. **ProtonVPN**
 
@@ -129,7 +129,7 @@ ProtonVPN le permite utilizar la web de forma anónima, desbloquear sitios web y
 - Se puede integrar con la red de anonimato tor.
 - Pase el tráfico de usuarios a través de una red central segura en países como Islandia y Suiza.
 
-[🔥 Descargar ProtonVPN](https://protonvpn.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar ProtonVPN](https://protonvpn.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 8. **Unlocator**
 
@@ -143,7 +143,7 @@ Unlocator le permite navegar por Internet manteniendo la privacidad sin ninguna 
 - Ofrece privacidad de VPN con la facilidad de transmisión de DNS inteligente.
 - Proteja su privacidad de manera efectiva sin IP DNS o fugas WebRTC.
 
-[🔥 Descargar Unlocator](https://unlocator.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Unlocator](https://unlocator.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 9. **Astrill**
 
@@ -158,7 +158,7 @@ Astrill es otro software VPN sin registro que le permite compartir la conexión 
 - Ayuda a proteger su tráfico de Internet de piratas informáticos y espías a través del cifrado SSL.
 - El software es compatible con BitCoin.
 
-[🔥 Descargar Astrill](https://www.astrill.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Astrill](https://www.astrill.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 10. **VPN Unlimited**
 
@@ -172,7 +172,7 @@ VPN Unlimited proporciona seguridad, independientemente de lo que use datos de t
 - Protege tu privacidad, cambiando tu dirección IP.
 - Proporciona seguridad total, sea lo que sea que use Wi-Fi.
 
-[🔥 Descargar VPN Unlimited](https://www.vpnunlimitedapp.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar VPN Unlimited](https://www.vpnunlimitedapp.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -187,7 +187,7 @@ F-Secure Freedom oculta su dirección IP al reubicarla en otra ubicación. Este 
 - No se necesita registro ni cuenta para usar este software.
 - Impide que su proveedor de Internet lo rastree a usted y a sus actividades en línea.
 
-[🔥 Descargar F-Secure](https://www.f-secure.com/en/home/products/freedome){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar F-Secure](https://www.f-secure.com/en/home/products/freedome){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 12. **Hexatech**
 
@@ -201,7 +201,7 @@ HexaTech ofrece acceso privado y seguro a todo su contenido en todo el mundo. Co
 - Ofrece una toma web preventiva inteligente.
 - No es necesario registrarse ni iniciar sesión para usar esta herramienta.
 
-[🔥 Descargar Hexatech](https://www.hexatechvpn.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Hexatech](https://www.hexatechvpn.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 13. **Bitdefender VPN**
 
@@ -215,7 +215,7 @@ Bitdefender VPN es un software de seguridad reconocido por expertos informático
 - Control centralizado basado en la nube para múltiples dispositivos.
 - Evita que software malicioso y piratas informáticos intenten vulnerabilidades en su sistema.
 
-[🔥 Descargar Bitdefender VPN](https://www.bitdefender.com/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Bitdefender VPN](https://www.bitdefender.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 14. **Browsec**
 
@@ -229,7 +229,7 @@ Browsec le permite acceder a cualquier sitio, en cualquier lugar. Este software 
 - Si el servidor VPN no está disponible, mata la conexión por motivos de seguridad.
 - Tiene una función de configuración inteligente que le permite ocultar su identidad cuando visita ciertos sitios web.
 
-[🔥 Descargar Browsec](https://browsec.com/en/){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Browsec](https://browsec.com/en/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 15. **Hidemyass**
 
@@ -242,7 +242,7 @@ Hidemyass proporciona transacciones bancarias seguras. Puede obtener protección
 - Brinda privacidad al ocultar sus búsquedas y el historial de navegación.
 - Desbloquee contenido restringido sin problemas.
 
-[🔥 Descargar Hidemyass](https://www.hidemyass.com/en-in/index){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Hidemyass](https://www.hidemyass.com/en-in/index){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 16. **TigerVPN**
 
@@ -256,7 +256,7 @@ TigerVPN le permite acceder a servicios que le gustaría bloquear el contenido o
 - Direcciones IP malladas para mejorar la privacidad.
 - Le permite proteger todos los dispositivos al mismo tiempo.
 
-[🔥 Descargar TigerVPN](){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar TigerVPN](){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -292,4 +292,4 @@ Una VPN funciona al enrutar la conexión a Internet de su dispositivo selecciona
 
 [Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

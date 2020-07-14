@@ -77,7 +77,7 @@ Entonces, si 2019 fue el año de Jenkins X en Dailymotion, 2020 definitivamente 
 
 Es por eso que planeamos reemplazar todas nuestras instancias de Jenkins con Tekton, que fue realmente construido para Kubernetes y nos permitirá escalar nuestras prácticas de Entrega Continua.
 
-[👉 Repositorio de Tekton 🤞](https://github.com/tektoncd){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[👉 Repositorio de Tekton 🤞](https://github.com/tektoncd){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- wiki, integración continua: https://en.wikipedia.org/wiki/Continuous_integration#CI/CD -->
 <!-- - [Instalación de tuberías de Tekton](https://github.com/tektoncd/pipeline/blob/master/docs/install.md) - ¡Salta con [el tutorial!](https://github.com/tektoncd/pipeline/blob/master/docs/tutorial.md) -->
 
