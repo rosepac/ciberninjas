@@ -40,7 +40,7 @@ Python también ofrece soporte para módulos y paquetes, lo que permite la modul
 
 Es uno de los lenguajes de programación más rápidos, ya que requiere muy pocas líneas de código. Su énfasis está en la legibilidad y la simplicidad, lo que lo convierte en una excelente opción para principiantes.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Por qué necesitas Java?**
 
@@ -72,7 +72,7 @@ A continuación vas a poder conocer los beneficios de usar Python:
 - Soporta programación imperativa y funcional.
 - Python es famoso por su uso en IoT.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Historia de Java**
 
@@ -92,7 +92,7 @@ Python no tiene una historia menos corta, a pesar de que en la actualidad, es cu
 - Se deriva del lenguaje de programación ABC, que es un lenguaje de programación de propósito general.
 - Hoy en día, Python es mantenido por un equipo de desarrollo central, aunque Rossum todavía juega un papel vital en la dirección de su progreso.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Características de Java**
 
@@ -116,7 +116,7 @@ Aquí están las características más importantes de Python:
 - Ofrece tipos de datos dinámicos de alto nivel y también admite la verificación de tipos dinámicos.
 - El lenguaje Python se puede integrar con el código de programación Java, C y C ++.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Comparativa entre Java y Python**
 
@@ -146,7 +146,7 @@ Aquí están las principales diferencias entre Java y Python.
 | Empresas que lo usan                       | Docker, Android SDK, Spring Boot, Senty, etc.                | Django, Flask, Pycharm, CircleCI, etc.                       |
 | Salarios                                   | El salario promedio de un desarrollador de Java es de $ 103,464 por año en los Estados Unidos. | El salario promedio de un desarrollador de Python es de $ 118,626 por año en los Estados Unidos. |
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Desventajas de Java**
 
@@ -168,7 +168,7 @@ Inconvenientes de usar el lenguaje de programación Python:
 - Capa de acceso a la base de datos primitiva y subdesarrollada
 - Ausencia de apoyo comercial.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué lenguaje es mejor entre Java y Python?**
 
@@ -209,5 +209,5 @@ La selección de un idioma entre estos se reduce a la naturaleza y al costo del 
 
 [Herramientas Java](/java-herramientas-para-desarrolladores/)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 

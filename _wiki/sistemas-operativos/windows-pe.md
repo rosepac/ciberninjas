@@ -45,7 +45,7 @@ Originalmente fue diseñado y construido por un pequeño equipo de ingenieros en
 
 El entorno de recuperación de Windows (WinRE) es un conjunto de herramientas basadas en Windows PE para ayudar a diagnosticar y recuperarse de errores graves que pueden impedir que Windows se inicie correctamente. Windows RE se instala junto con Windows Vista y posterior, y se puede iniciar desde discos duros, medios ópticos (como un disco de instalación del sistema operativo) y PXE (por ejemplo, Servicios de implementación de Windows). <!-- seccion de windows RE en un apartado de nuevo de software de microsoft https://en.wikipedia.org/wiki/Windows_Preinstallation_Environment -->
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Ver También
 
@@ -94,4 +94,4 @@ El entorno de recuperación de Windows (WinRE) es un conjunto de herramientas ba
 
 [Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

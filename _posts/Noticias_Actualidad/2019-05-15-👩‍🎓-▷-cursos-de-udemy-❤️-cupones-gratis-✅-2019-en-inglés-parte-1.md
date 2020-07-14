@@ -45,7 +45,7 @@ feature-img: /assets/img/cursos_estudiar_ideas.webp
 
 Selecci&oacute;n de los mejores cursos del listado publicado en [Cibercursos](https://kutt.it/cibercursos) extra&iacute;do de la web: [Chollometro](https://kutt.it/chollometro). Las tem&aacute;ticas m&aacute;s tratadas son los negocios en l&iacute;nea general (afiliados, redes sociales, motivaci&oacute;n, ideas, trading); las criptomonedas; programaci&oacute;n y dise&ntilde;o.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ingl&eacute;s. Han sido seleccionados por ser los m&aacute;s curiosos, m&aacute;s innovadores, tener la puntuaci&oacute;n m&aacute;s alta o los formadores que he pensado son m&aacute;s profesionales dentro de su &aacute;mbito profesional.
 
@@ -67,7 +67,7 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 * [Inversi&oacute;n con Criptomonedas para Principiantes](https://www.udemy.com/cryptocurrencyforbeginners/?couponCode=CRYPTOFREE)
 * [Litecoin & Bitcoin](https://www.udemy.com/bitcoin-litecoin-bundle/?couponCode=S1T1H1)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Emprendimiento e Innovaci&oacute;n
 
@@ -85,7 +85,7 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 
 * [Fundamentos de An&aacute;lisis de Datos utilizando Excel](https://www.udemy.com/business-data-analysis-excel/?couponCode=FIVERRLIMITED)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Negocios Online
 
@@ -112,7 +112,7 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 * [Pinterest para Empresas](https://www.udemy.com/pinterest-marketing-for-business/?couponCode=--PINTERESTMARKETING)
 * [Planes de Membres&iacute;as Personales para tu Sitio](https://www.udemy.com/monthly-membership/?couponCode=FREE_LIMITED)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Productividad & Proyectos
 
@@ -149,7 +149,7 @@ Al final he reducido el listado a aproximadamente +- 80 cursos, todos son en ing
 * [Machine Learning: El arte de excavar datos](https://www.udemy.com/machine-learning-the-art-of-digging-data/?couponCode=FREEML10)
 * [Microsoft Windows Server 2016: Capacitaci&oacute;n pr&aacute;ctica Parte I](https://www.udemy.com/server-2016-hands-on-training/?couponCode=SERVER2016PROMO)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Trading
 
@@ -171,4 +171,4 @@ Entre ma&ntilde;ana y pasado estar&eacute; publicando otro listado, **&iexcl;Sal
 
 Si lo que buscas son cursos gratis y en espa&ntilde;ol, puedes visitar mi secci&oacute;n de [cursos de tecnolog&iacute;a](https://ciberninjas.com/cursos-tecnologia) o unirte y visitarme al [Chat de Ciberninjas](https://kutt.it/ciberninjas_discord) en Discord.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -42,4 +42,4 @@ Con la medida de Google de levantar el límite de tiempo en las llamadas gratuit
 
 [Cómo ocultar Google Meet en Gmail](https://ciberninjas.com/ocultar-google-meet/)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

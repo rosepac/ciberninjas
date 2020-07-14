@@ -59,4 +59,4 @@ Las conferencias y los horarios son los siguientes, puede ver la agenda completa
 <!-- Enlaces de acceso - https://event.webinarjam.com/go/live/30/xq78xbmxfzxhv0hg6w -->
 ![Conferencias sobre ciberseguridad Dojoconf´ 2020 desde Panamá con expertos reunidos desde varios países de latinoamérica, como son Panamá, Perú, República Dominicana, México, Guatemala, Argentina, Costa Rica o España.](/assets/img/2020-news/09-dojoconf.webp "Conferencias sobre ciberseguridad Dojoconf´ 2020 desde Panamá con expertos reunidos desde varios países de latinoamérica, como son Panamá, Perú, República Dominicana, México, Guatemala, Argentina, Costa Rica o España.")
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

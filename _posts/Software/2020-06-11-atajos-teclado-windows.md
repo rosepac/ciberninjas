@@ -119,4 +119,4 @@ En la lista a continuación, puede encontrar ambos métodos abreviados de teclad
 
 ![En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.](/assets/img/blog/windows-atajos-teclado.webp "En este artículo, he compilado las teclas de acceso rápido de Windows 10 más útiles que serán prácticos para todos los usuarios sin excepción.")
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

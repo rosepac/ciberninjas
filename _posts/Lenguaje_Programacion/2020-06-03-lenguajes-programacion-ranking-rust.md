@@ -38,7 +38,7 @@ Paul Jansen, CEO del software Tiobe, dijo que el aumento de Rust se debe a que e
 
 "Así que no hay recolección de basura que de repente se activa; tenemos los lenguajes de D, Lua y Julia tratando de ganar a C y C++; pero Rust parece ser el alumno aventajado en la partida".
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Sin embargo, Rust exige mucha más dedicación para aprender que otros lenguajes, los desarrolladores de Microsoft Azure inicialmente avanzaron muchos menos en sus proyectos, a la hora de utilizar Rust en vez de Go, pero posteriormente, dedicaron mucho menos tiempo en su depuración final y en la búsqueda manual de corregir los posibles errores que con Go hubiesen sido altamente complicados de encontrar y solucionar.
 
@@ -52,7 +52,7 @@ En una encuesta más reciente entre más de 16,000 desarrolladores se descubrió
 
 Según la encuesta de Stack Overflow, el salario de un programador de Go o Rust podría estar alrededor de 120,000 $ al año, en un puesto de trabajo en EE. UU.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Otro lenguaje que ha alcanzado el top 20 dentro del Índice Tiobe, es el lenguaje de Scratch, este lenguaje de programación visual desarrollado por los Laboratorios MIT Media centrado en la enseñanza de la programación para los niños.
 
@@ -66,7 +66,7 @@ Curiosamente, TypeScript de Microsoft solamente ocupa el puesto 44 en el índice
 
 La adopción de TypeScript está siendo impulsada por una gran cantidad de código JavaScript y también es muy popular entre los desarrolladores; pero parece que aún no alcanzado tanta dosis de popularidad como se creía.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Los 10 lenguajes de programación principales de Tiobe para Junio de 2020 son C, Java, Python, C++, C#, Visual Basic, JavaScript, PHP, R y SQL. 
 
@@ -85,4 +85,4 @@ Las clasificaciones, más o menos, se acerca a la lista de idiomas más utilizad
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

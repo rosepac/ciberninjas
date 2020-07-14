@@ -89,4 +89,4 @@ Los nombres exactos de los servicios pueden diferir en algo a los que encuentres
 
 ![Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.](/assets/img/2020-news/windows-servicios-des.webp "Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.")
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

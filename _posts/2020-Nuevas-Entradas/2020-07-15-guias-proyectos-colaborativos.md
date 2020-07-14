@@ -59,6 +59,6 @@ Las temáticas para las que podrás encontrar guías de alrededor de 25 hojas ca
 - Cómo coser.
 
 [👨‍🏫 Entra para Ver las Guías](http://laaventuradeaprender.intef.es/guias/proyectos-colaborativos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Desde la Aventura de Aprender, una sección dentro de la página web del proyecto Intef del Gobierno español enfocado hacía la formación del profesorado y cuerpo docente, han publicado numerosas guías en relación a proyectos colaborativos y el cómo se pueden llegar a crear los mismos.](/assets/img/2020-news/15-guias-aprendizaje-colaborativo.webp "Desde la Aventura de Aprender, una sección dentro de la página web del proyecto Intef del Gobierno español enfocado hacía la formación del profesorado y cuerpo docente, han publicado numerosas guías en relación a proyectos colaborativos y el cómo se pueden llegar a crear los mismos.")

@@ -43,7 +43,7 @@ Botón de la aplicación Mobile Browser Emulator en el navegador de Chrome.
 
 Una vez elegida la opción de tamaño **PORTRAIT 414&#215;736** se te abrirá una pequeña ventana donde deberás loguearte con tu cuenta de **Instagram**.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [![Vista de la herramienta de la extensión abierta](https://i.ibb.co/2t5K56H/image.png)](https://i.ibb.co/2t5K56H/image.png
  "Ventana de Instagram vista desde el Emulador Móvil generado por la extensión de Chrome")
@@ -57,6 +57,6 @@ Espero les sea útil y practico este pequeño truco &#x1f63b;&#x1f63b;&#x1f63b;
 **Enlace a la extensión de Chrome**: [Mobile Browser Emulator][1]
 {: .notice--info}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [1]: https://kutt.it/mobileemulator

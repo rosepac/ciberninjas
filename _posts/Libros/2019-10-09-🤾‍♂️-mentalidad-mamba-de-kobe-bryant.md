@@ -34,7 +34,7 @@ A raíz de su retiro del baloncesto profesional, Kobe "The Black Mamba" Bryant h
 Muchos grandes han pisado la cancha de baloncesto y han liderado carreras legendarias, pero no creo que la mentalidad de ningún jugador se compare con la de Kobe Bryant. La Mamba Negra y su "Mentalidad Mamba" han inspirado mucho a otros deportistas e hicieron de Kobe el "asesino" que era. En el libro tenemos la oportunidad de adentrarnos en su cerebro.
 
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 La Mentalidad de la Mamba, nos lleva a la mente de uno de los jugadores de baloncesto más inteligentes, analíticos y creativos de la historia.
 
@@ -44,7 +44,7 @@ La atención a cada detalle que vas a encontrar en este libro es impresionante, 
 
 Kobe describe todos los aspectos buenos y malos de su carrera y no deja absolutamente nada por revisar. Incluso indica el hecho de que leyó el manual de árbitros y aprendió todas las posiciones de los Árbitros en cada situación del juego, citando Kobe: "Ganaría en cada movimiento y en todo tipo de infracciones menores simplemente porque me tomé el tiempo de comprender las limitaciones del arbitraje" y ofrece cada detalle de todos sus movimientos, describiendo cómo los jugadores rivales le defendian o cómo el lo lograba contrarestar.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Este libro te hará abrir los ojos, contemplando la pelea total de una persona por lograr el máximo dentro de su profesión.
 
@@ -55,7 +55,7 @@ Por último, los relatos detallados de Bryant se combinan con impresionantes fot
 Kobe Bryant es un narrador y creador de contenido galardonado con un Premio de la Academia. Pasa sus días construyendo historias para inspirar a la próxima generación de atletas a dar las mejores versiones de sí mismos. Anteriormente, Kobe fue cinco veces campeón de la NBA, dos veces MVP de las Finales de la NBA, MVP de la NBA y dos veces medallista de oro olímpico. Espera compartir todo lo que aprendió con jóvenes atletas de todo el mundo.
 
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 📝 Otros Detalles
 
@@ -81,4 +81,4 @@ Kobe Bryant es un narrador y creador de contenido galardonado con un Premio de l
 <center><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=13&amp;l=ur1&amp;category=kindlestore&amp;banner=0P95N768FCV2P0732CG2&amp;f=ifr&amp;linkID=75656190f347ab8c55ea09e0b6f57418&amp;t=ciberninjas07-21&amp;tracking_id=ciberninjas07-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

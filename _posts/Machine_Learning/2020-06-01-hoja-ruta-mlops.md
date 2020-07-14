@@ -86,4 +86,4 @@ El Roadmap se gestiona dentro del CDF MLOps SIG, que también alberga una serie 
 
 ![Hoja de ruta a seguir por los desarrolladores del machine learning y la ciencia de datos con la intención de exponer una imagen del estado actual pra los próximos 5 años.](/assets/img/blog/ruta-mlops.webp "Hoja de ruta a seguir por los desarrolladores del machine learning y la ciencia de datos con la intención de exponer una imagen del estado actual pra los próximos 5 años.")
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
