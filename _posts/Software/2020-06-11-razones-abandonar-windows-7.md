@@ -80,16 +80,11 @@ Ahora que comprendes porque necesitas actualizar a Windows 10, debes elegir una 
 
 ### Relacionados
 
-[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar](https://ciberninjas.com/10-programas-eliminar-windows-10/)
-
-[Atajos de teclado de acceso rápido para Windows 10]((https://ciberninjas.com/atajos-teclado-windows-10/))
-
-[Aprende a utilizar el portapapeles de Windows 10](https://ciberninjas.com/portapapeles-windows-10/)
-
-[Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/)
-
-[Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/)
-
-![Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.](/assets/img/blog/windows-10.webp "Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.")
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar](https://ciberninjas.com/10-programas-eliminar-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
+[Atajos de teclado de acceso rápido para Windows 10]((https://ciberninjas.com/atajos-teclado-windows-10/)){: .btn .btn-outline-warning .btn-lg .btn-block}
+[Aprende a utilizar el portapapeles de Windows 10](https://ciberninjas.com/portapapeles-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
+[Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/){: .btn .btn-outline-warning .btn-lg .btn-block}
 
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+![Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.](/assets/img/blog/windows-10.webp "Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.")
