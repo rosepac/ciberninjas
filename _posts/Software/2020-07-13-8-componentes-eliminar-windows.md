@@ -14,8 +14,8 @@ description: >-
   He compilado los componentes integrados más inútiles de Windows 10 y describimos cómo deshabilitarlos para liberar espacio en el disco.
 excerpt: >-
   Hemos compilado los componentes integrados más inútiles de Windows 10 y describimos cómo deshabilitarlos para liberar espacio en el disco.
-canonical_URL: https://ciberninjas.com/10-componentes-eliminar-de-windows/
-permalink: /10-componentes-eliminar-de-windows/
+canonical_URL: https://ciberninjas.com/8-componentes-eliminar-de-windows/
+permalink: /8-componentes-eliminar-de-windows/
 date: 2020-07-13 09:12:32
 last_modified_at: 
 published: true
