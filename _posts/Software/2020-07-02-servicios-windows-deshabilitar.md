@@ -77,13 +77,13 @@ Los nombres exactos de los servicios pueden diferir en algo a los que encuentres
 - Fax.
 - Servicio de red Xbox Live (Servicio de red Xbox Live) y otros servicios con la palabra Xbox en el nombre, si no eres jugador de videojuegos.
 
-### Relacionados
-
-[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar](https://ciberninjas.com/10-programas-eliminar-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
-[Atajos de teclado de acceso rápido para Windows 10](https://ciberninjas.com/atajos-teclado-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
-[Aprende a utilizar el portapapeles de Windows 10](https://ciberninjas.com/portapapeles-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
-[Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/){: .btn .btn-outline-warning .btn-lg .btn-block}
-
 [💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.](/assets/img/2020-news/windows-servicios-des.webp "Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.")
+
+### Relacionados
+
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar](https://ciberninjas.com/10-programas-eliminar-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Atajos de teclado de acceso rápido para Windows 10](https://ciberninjas.com/atajos-teclado-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Aprende a utilizar el portapapeles de Windows 10](https://ciberninjas.com/portapapeles-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/){: .btn .btn-outline-dark .btn-lg .btn-block}

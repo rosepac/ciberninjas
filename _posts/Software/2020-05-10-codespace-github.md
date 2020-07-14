@@ -24,13 +24,7 @@ Contribuir con código a una comunidad puede ser difícil. Cada repositorio tien
 
 Peor aún, a veces el entorno de dos proyectos en los que está trabajando entra en conflicto entre sí.
 
-![Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios](/assets/img/blog/10-codespace-editor-github.webp "Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios")
-
-Codespaces le brinda un entorno de desarrollo con todas las funciones alojado en la nube que gira en segundos, directamente dentro de GitHub, para que pueda comenzar a contribuir a un proyecto de inmediato.
-
-> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
-{: .notice--danger}
-
+Codespaces te brinda un entorno de desarrollo con todas las funciones alojado en la nube que gira en segundos, directamente dentro de GitHub, para que pueda comenzar a contribuir a un proyecto de inmediato.
 - [**Qué es Codespaces?**](#qué-es-codespaces)
 - [**Qué permitirá hacer Codespaces?**](#qué-permitirá-hacer-codespaces)
 - [**Características de Codespaces**](#características-de-codespaces)
@@ -41,7 +35,6 @@ Codespaces le brinda un entorno de desarrollo con todas las funciones alojado en
 - [**Cuánto cuesta Codespaces?**](#cuánto-cuesta-codespaces)
 - [**Diferentes entre Codespaces y Visual Studio Code**](#diferentes-entre-codespaces-y-visual-studio-code)
 - [**Cómo puedo configurar Codespaces?**](#cómo-puedo-configurar-codespaces)
-  - [Relacionados](#relacionados)
 
 ## **Qué es Codespaces?**
 
@@ -54,7 +47,7 @@ Desarrollado por la tecnología Visual Studio, Codespaces en GitHub incluye una 
 
 El precio de los espacios de código aún no se ha finalizado. La funcionalidad de edición de código en GitHub siempre será gratuita, pero si usa entornos de nube Codespaces, planeamos ofrecer precios simples de pago por uso. Los espacios de código serán de uso gratuito durante la versión beta limitada.
 
-[�?Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔨 Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Características de Codespaces**
 
@@ -73,7 +66,7 @@ Por ahora, no. Mientras esté en su versión BETA. Solamente estará disponible 
 
 Si eres incluido en la versión beta de Codespaces, verás un botón de "Código" en dentro de los repositorios compatibles.
 
-[�?Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔨 Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Está disponible Codespaces para todos los repositorios?**
 
@@ -95,10 +88,14 @@ Codespaces configura un entorno de Visual Studio Code alojado en la nube, dentro
 
 Dentro de Codespaces, tendrá acceso a Visual Studio Code Marketplace , y puede precargar cualquier extensión que desee cargar en el lanzamiento utilizando un archivo de configuración devcontainer . También puede personalizar su espacio de código tirando de los archivos de puntos.
 
-[�?Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🔨 Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados
+![Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios](/assets/img/blog/10-codespace-editor-github.webp "Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios")
 
-[🥇 �?Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](/mejores-editores-texto/)
+### Relacionados <!-- omit in toc -->
 
-[�?Komodo IDE: Versión extensa gratis a partir de 2020](/ide-komodo-gratis/)
+[🥇 Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](/mejores-editores-texto/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Komodo IDE: Versión extensa gratis a partir de 2020](/ide-komodo-gratis/){: .btn .btn-outline-dark .btn-lg .btn-block}
+
+> 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)

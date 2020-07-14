@@ -93,29 +93,16 @@ Nimbus es la extensión del futuro, que más tarde o temprano va a lograr sustit
 
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados <!-- omit in toc -->
-
-[👨‍🔧 5 formas de restaurar las ventanas de Windows](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/)
-
-[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/)
-
-[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/)
-
-[▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10](https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/)
-
-[10 Mejores VPN GRATIS para Windows en 2020](https://ciberninjas.com/mejores-vpn-windows/)
-
-[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
-
-[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/)
-
-[💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
-
-[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/)
-
-> 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
-{: .notice--danger}
-
 ![Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.](/assets/img/blog/chrome-extensiones.webp "Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.")
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+### Relacionados <!-- omit in toc -->
+
+[👨‍🔧 5 formas de restaurar las ventanas de Windows](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
+[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
+[▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10](https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/){: .btn .btn-outline-warning .btn-lg .btn-block}
+[10 Mejores VPN GRATIS para Windows en 2020](https://ciberninjas.com/mejores-vpn-windows/){: .btn .btn-outline-warning .btn-lg .btn-block}
+[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
+[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
+[💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
+[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
