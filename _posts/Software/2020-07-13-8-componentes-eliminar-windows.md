@@ -114,6 +114,22 @@ Además, si algún día decides restaurar alguna de las aplicaciones vas a poder
 
 Recuerda, solamente debes utilizar este comando si deseas reinstalar TODAS las aplicaciones de Microsoft.. 🤞
 
-![He compilado los componentes integrados más inútiles de Windows 10 y describimos cómo deshabilitarlos para liberar espacio en el disco.](/assets/img/2020-news/limpiar-aplicaciones-windows10.webp "He compilado los componentes integrados más inútiles de Windows 10 y describimos cómo deshabilitarlos para liberar espacio en el disco.")
-
 [🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-secondary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-success .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-info .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-light .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-secondary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-success .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-danger .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-info .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-light .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+![He compilado los componentes integrados más inútiles de Windows 10 y describimos cómo deshabilitarlos para liberar espacio en el disco.](/assets/img/2020-news/limpiar-aplicaciones-windows10.webp "He compilado los componentes integrados más inútiles de Windows 10 y describimos cómo deshabilitarlos para liberar espacio en el disco.")
