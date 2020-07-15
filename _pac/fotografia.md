@@ -1,0 +1,1 @@
+GANPaint Studio: https://www.dpreview.com/news/7545535551/ganpaint-studio-uses-neural-network-to-paint-new-elements-into-images

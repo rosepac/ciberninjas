@@ -1,0 +1,1 @@
+<!-- Cómo automatizo mi casa con un apple y su Homekit https://news.ycombinator.com/item?id=21927804 -->
