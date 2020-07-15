@@ -13,7 +13,6 @@ tags:
 - 4G
 - Cifrado de Whatshapp
 - Ghidra
-link: https://techcrunch.com/2019/08/10/were-all-doomed-2019-edition/
 
 ---
 > Publicación realizada por el blog TechCrunch donde se recogen algunas de las mejores investigaciones /charlas sobre seguridad indicadas desde la Foundación BlackHat.
@@ -30,3 +29,5 @@ Las diferentes temáticas de las charlas son:
 - Explotación remota de SQLite y Curl
 
 > Fuente: [BlackHat](https://www.blackhat.com/us-19/briefings/schedule/ "Enlaces a todas las charlas y sesiones del evento creado por Blackhat con sus respectivos archivos adjuntos: Ciberninjas")
+
+[📰 Ver la Noticia Completa](https://techcrunch.com/2019/08/10/were-all-doomed-2019-edition/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

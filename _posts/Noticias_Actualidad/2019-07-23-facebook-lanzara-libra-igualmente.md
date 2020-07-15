@@ -7,15 +7,16 @@ categories:
 - Criptomonedas
 tags:
 - Libra
-link: https://www.bbc.com/news/technology-49092713
 thumbnail: "/assets/img/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"
 feature-img: "/assets/img/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"
 ---
-> Facebook No Descarta el Lanzamiento de Libra sin la Aprobación de EE. UU.
+
+Facebook No Descarta el Lanzamiento de Libra sin la Aprobación de EE. UU.
 
 <figure>
     <a href="/assets/img/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg" class="image-popup"><img src="/assets/img/facebook-mantiene-pulso-legislacion-eeuu-libra.jpg"></a>
     <figcaption>Facebook mantiene un pulso contra la posible legislación americana de las criptomonedas | Ciberninjas</figcaption>
 </figure>
 
+[📰 Ver la Noticia Completa](https://www.bbc.com/news/technology-49092713){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

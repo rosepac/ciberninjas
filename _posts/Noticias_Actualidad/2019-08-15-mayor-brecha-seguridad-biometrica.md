@@ -1,4 +1,5 @@
 ---
+
 title: "📰 🔐 Mayor Brecha de Seguridad Biométrica de la Historia"
 description: 'Los investigadores de privacidad de Internet Noam Rotem y Ran Locar descubren la mayor brecha de seguridad biométrica de la historia'
 excerpt: 'Los investigadores de privacidad de Internet Noam Rotem y Ran Locar descubren la mayor brecha de seguridad biométrica de la historia'
@@ -10,7 +11,9 @@ tags:
 - Reconocimiento Facial
 - Huellas Digitales
 - Violación de Datos
-link: https://www.vpnmentor.com/blog/report-biostar2-leak
+permalink: /mayor-brecha-seguridad-biometrica/
+canonical_URL: https://ciberninjas.com/mayor-brecha-seguridad-biometrica/
+
 ---
 > Las bases de datos de huellas digitales, reconocimiento facial y otra información personal de Biostar 2 quedan al descubierto al público
 
@@ -18,6 +21,8 @@ link: https://www.vpnmentor.com/blog/report-biostar2-leak
 
 "Dirigidos por los investigadores de privacidad de Internet Noam Rotem y Ran Locar, el equipo de vpnMentor descubrió recientemente una gran violación de datos en la plataforma de seguridad BioStar 2.."
 
-> Fuente: [The Guardian](https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms)
+[📰 Ver la Noticia Completa](https://www.vpnmentor.com/blog/report-biostar2-leak){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+> Fuente: [The Guardian](https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms)

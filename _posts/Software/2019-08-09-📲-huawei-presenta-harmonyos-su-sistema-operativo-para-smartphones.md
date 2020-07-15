@@ -9,7 +9,6 @@ tags:
   - Sistemas Operativos
   - Móviles
   - Lanzamiento
-link: 'https://twitter.com/HuaweiMobile/status/1159720783855460352'
 thumbnail: /assets/img/harmony-os.jpg
 feature-img: /assets/img/harmony-os.jpg
 toc: true
@@ -59,3 +58,4 @@ Harmony es un sistema operativo orientado al futuro con baja latencia, alto rend
 El primer compilador est&aacute;tico de Huawei, ARK Compiler, admitir&aacute; la compilaci&oacute;n unificada en varios idiomas (C / C ++, Java, Javascript, Kotlin, etc.) para aumentar la productividad del desarrollo.
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[📰 Ver la Noticia Completa](https://twitter.com/HuaweiMobile/status/1159720783855460352){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -7,8 +7,6 @@ published: true
 categories:
   - Actualidad
   - Software
-link: >-
-  https://www.phoronix.com/scan.php?page=news_item&px=Clear-Linux-Kernel-3s-to-300ms
 tags:
   - Sistemas Operativos
   - Linux
@@ -20,13 +18,11 @@ El ingeniero de Intel Feng Tang habl&oacute; en la Conferencia de Plomeros de Li
 
 Entre las optimizaciones llevadas a cabo para acelerar realmente su tiempo de arranque se encontraban garantizar una mayor exploraci&oacute;n as&iacute;ncrona del controlador, solo inicializando una peque&ntilde;a cantidad de RAM al inicio y luego, despu&eacute;s del arranque en caliente, el resto en paralelo a trav&eacute;s de systemd, sistema de archivos ra&iacute;z optimizado montaje, desactivaci&oacute;n de m&oacute;dulos innecesarios del n&uacute;cleo y enfoques similares.
 
-[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
 En el futuro, todav&iacute;a est&aacute;n buscando optimizaciones para el proceso de arranque en torno a la inicializaci&oacute;n de memoria diferida en el n&uacute;cleo, los cambios de inicializaci&oacute;n de SMP, los ajustes de ACPI y las optimizaciones de espacio de usuario / systemd.
 
 Aquellos que quieran aprender m&aacute;s sobre el arte de Intel para arrancar el kernel de Linux lo m&aacute;s r&aacute;pido posible, pero no en LPC2019, pueden ver [la plataforma de diapositivas de Feng](https://www.linuxplumbersconf.org/event/4/contributions/281/attachments/216/435/LPC_2019_kernel_fastboot_on_the_way.pdf) (PDF) con una descripci&oacute;n general de estas optimizaciones Clear Linux actuales y posibles.
 
-**Fuente**\: [C&oacute;mo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms](https://www.phoronix.com/scan.php?page=news_item&amp;px=Clear-Linux-Kernel-3s-to-300ms "Cómo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms")
-{: .notice--info}
-
+[📰 Ver la Noticia Completa](https://www.phoronix.com/scan.php?page=news_item&px=Clear-Linux-Kernel-3s-to-300ms){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+> **Fuente**\: [C&oacute;mo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms](https://www.phoronix.com/scan.php?page=news_item&amp;px=Clear-Linux-Kernel-3s-to-300ms "Cómo el equipo Clear Linux de Intel redujo el tiempo de arranque del kernel de 3 segundos a 300 ms")

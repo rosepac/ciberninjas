@@ -15,20 +15,19 @@ categories:
 tags:
 - Inventor
 - Contraseña
-link: https://www.fayerwayer.com/2019/07/muere-inventor-contrasenas-computadora
 thumbnail: "/assets/img/2020-news/historia-seguridad-corbato-contrasena.webp"
 feature-img: "/assets/img/2020-news/historia-seguridad-corbato-contrasena.webp"
 
 ---
-> Muere, Fernando Corbató, el inventor de las contraseñas de computadora a los 93 años
 
-[🔎 Enlace a la Noticia](https://www.fayerwayer.com/2019/07/muere-inventor-contrasenas-computadora){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+Muere, Fernando Corbató, el inventor de las contraseñas de computadora a los 93 años
 
 <figure>
     <a href="/assets/img/historia-seguridad-corbato-contrasenax636.jpg" class="image-popup"><img src="/assets/img/historia-seguridad-corbato-contrasena.jpg"></a>
     <figcaption>Fotografía de Fernando Corbató del Archivo de MIT CSAIL | Ciberninjas</figcaption>
 </figure>
 
-> Fuente: [Computer History](https://www.nytimes.com/2019/07/12/science/fernando-corbato-dead.html "Fotografía del Archivo de MIT CSAIL")
-
+[📰 Ver la Noticia Completa](https://www.fayerwayer.com/2019/07/muere-inventor-contrasenas-computadora){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+> Fuente: [Computer History](https://www.nytimes.com/2019/07/12/science/fernando-corbato-dead.html "Fotografía del Archivo de MIT CSAIL")
