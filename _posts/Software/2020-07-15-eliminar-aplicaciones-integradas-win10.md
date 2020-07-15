@@ -22,97 +22,77 @@ published: true
 
 ---
 
-El sistema operativo Windows 10 incorpora una serie de aplicaciones integradas: calendario, cliente de correo electrónico, reproductor de música, etc. Te gustarán algunos, otros los considerarás absolutamente inútiles. Pero deshacerse de ellos no es tan fácil si no conoce el método descrito en este artículo.
+El sistema operativo Windows 10 incorpora una serie de aplicaciones integradas: calendario, cliente de correo electrónico, reproductor de música, etc. Te gustarán algunos, pero otras las considerarás absolutamente inútiles; pero a veces no es fácil deshacerse de ellas.
 
-Cada versión del sistema operativo de Microsoft está equipado con un conjunto completo de software preinstalado, que, tal como lo concibieron los desarrolladores, debería permitir a los usuarios comenzar de inmediato. Sin embargo, en realidad, muy pocas personas usan estos programas para los fines previstos, y generalmente solo ocupan espacio en disco. En Windows 10, las llamadas aplicaciones universales se agregaron al conjunto tradicional de utilidades: "Calendario", "Correo", "Noticias", "Mapas", "Cámara" y otros.
+En este artículo vas a conocer la fórmula adecuada de como desinstalarlas sin problemas.
 
-Algunas de estas aplicaciones se pueden eliminar fácilmente directamente desde el menú de inicio. Para hacer esto, haga clic en "Inicio", busque el mosaico de la aplicación universal que no necesita, haga clic derecho sobre él y seleccione el elemento "Eliminar".
+Como ya sabes, cada versión del sistema operativo de Microsoft está equipado con un conjunto completo de software preinstalado, tal y como lo concibieron los desarrolladores, deberían ser aplicaciones que permitan a los usuarios realizar las actividades mínimas necesarias de inmediato.
 
-Pero de esta manera puede decir adiós solo a un número limitado de programas. Para eliminar el resto, debes hacer un poco de magia con la línea de comando. Aquí hay una guía paso a paso para ayudarlo a eliminar programas como 3D Builder, Cámara, Música Groove, Fotos y más de Windows 10.
+Sin embargo, en realidad, muy pocas personas usan estos programas para los fines para las que fueron diseñadas y generalmente solamente ocupan espacio del disco, las llamadas aplicaciones universales se agregaron al conjunto tradicional de utilidades de un usuario "normal" enfocado en la ofimática: como el calendario, el correo, las noticias", los mapas, la cámara y muchas más.
 
-1. Haga clic en el icono de búsqueda en la barra de tareas e ingrese PowerShell.
+Algunas de estas aplicaciones se pueden eliminar fácilmente directamente desde el menú de inicio; para hacerlo, solamente haz Clic en "Inicio", busca el icono de la aplicación universal que no necesitas y haz Clic sobre el botón derecho del icono; para posteriormente, presionar la opción de "Eliminar".
 
-2. En los resultados de búsqueda, seleccione la línea Windows PowerShell (aplicación clásica), haga clic derecho sobre ella y luego haga clic en el elemento "Ejecutar como administrador" en el menú contextual.
+Más, a través de estos pasos, solamente podrás deshacerte de un número limitado de programas. Si deseas eliminar el resto, debes hacer un poco de magia a través de la línea de comando. A continuación, vamos a ver paso a paso, como eliminar los programas de 3D Builder, la Cámara, la app de música Groove, la app de fotos y algunas otras aplicaciones de Windows 10.
 
-3. Aparece una ventana con un cursor de línea de comando parpadeante. Para eliminar el programa universal de Windows 10, debe copiar y pegar un comando especial y luego presionar "Enter".
+1. Haz Clic en el icono de búsqueda en la barra de tareas y busca la consola de PowerShell.
+
+2. En los resultados de búsqueda, selecciona la aplicación de Windows PowerShell y haz Clic -botón derecho- sobre ella y luego haz Clic en la opción de "Ejecutar como administrador" en el menú contextual.
+
+3. Aparecerá una ventana con un cursor de línea de comandos parpadeando, para eliminar cada aplicación universal de Windows 10, debes copiar y pegar los comandos que se especifican a continuación y luego presionar "Enter".
 
 **Visor 3D**
 
-```
-Get-AppxPackage *3d* | Remove-AppxPackage
-```
+`Get-AppxPackage *3d* | Remove-AppxPackage`
 
 **Cámara**
 
-```
-Get-AppxPackage *camera* | Remove-AppxPackage
-```
+`Get-AppxPackage *camera* | Remove-AppxPackage`
 
 **Correo y calendario**
 
-```
-Get-AppxPackage *communi* | Remove-AppxPackage
-```
+`Get-AppxPackage *communi* | Remove-AppxPackage`
 
 **Dinero, deportes, noticias**
 
-```
-Get-AppxPackage *bing* | Remove-AppxPackage
-```
+`Get-AppxPackage *bing* | Remove-AppxPackage`
 
 **Música groove**
 
-```
-Get-AppxPackage *zune* | Remove-AppxPackage
-```
+`Get-AppxPackage *zune* | Remove-AppxPackage`
 
 **Compañero de teléfono**
 
-```
-Get-AppxPackage *phone* | Remove-AppxPackage
-```
+`Get-AppxPackage *phone* | Remove-AppxPackage`
 
 **Fotos**
 
-```
-Get-AppxPackage *photo* | Remove-AppxPackage
-```
+`Get-AppxPackage *photo* | Remove-AppxPackage`
 
 **Colección de solitario**
 
-```
-Get-AppxPackage *solit* | Remove-AppxPackage
-```
+`Get-AppxPackage *solit* | Remove-AppxPackage`
 
 **Grabadora de voz**
 
-```
-Get-AppxPackage *soundrec* | Remove-AppxPackage
-```
+`Get-AppxPackage *soundrec* | Remove-AppxPackage`
 
 **Xbox**
 
-```
-Get-AppxPackage *x-box* | Remove-AppxPackage
-```
+`Get-AppxPackage *x-box* | Remove-AppxPackage`
 
 **Mapas**
 
-```
-Get-AppxPackage * mapas * | Remove-AppxPackage
-```
+`Get-AppxPackage * maps* | Remove-AppxPackage`
 
 **Alarmas**
 
-```
-Get-AppxPackage * alarmas * | Remove-AppxPackage
-```
+`Get-AppxPackage * alarms* | Remove-AppxPackage`
 
-Puede recuperar cualquiera de los programas eliminados utilizando la tienda de aplicaciones de la Tienda Windows. Si encuentra algún problema, inicie PowerShell nuevamente e ingrese un comando que devuelva todo el conjunto de utilidades preinstaladas a su lugar.
+Si lo deseas, puedes recuperar cualquiera de los programas eliminados utilizando la tienda de aplicaciones de Windows. Si encuentras algún problema, puedes iniciar nuevamente la consola de PowerShell e ingresar el comando siguiente que devolverá todas las utilidades preinstaladas a tu sistema operativo. El comando es el siguiente:
 
 `Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$ ($ _. InstallLocation) \ AppXManifest.xml"}`
 
-Si deseas seguir optimizando tu sistema operativo de Windows 10 puedes seguir leyendo, sobre como [deshabilitar aplicaciones inservibles de Windows 10](https://ciberninjas.com/8-componentes-eliminar-de-windows/).
+Si deseas seguir optimizando tu sistema operativo de Windows 10 puedes seguir leyendo, sobre como [deshabilitar aplicaciones inservibles](https://ciberninjas.com/8-componentes-eliminar-de-windows/). de Windows 10.
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
