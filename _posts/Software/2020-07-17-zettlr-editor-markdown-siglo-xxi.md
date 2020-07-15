@@ -31,15 +31,46 @@ Zettlr, es un editor de Markdown perfecto para escribir texto y organizar todos 
 
 Los propios desarrolladores del software dicen del mismo, que es un editor enfocado hacía el Siglo XXI, rápido y versátil y enfocado en permitir la concentración del usuario en la redacción. Un editor sin distracciones.
 
-## ¿Qué hace especial a Zettlr?
+Pero, ¿Qué hace tan especial a Zettlr?
 
-Mejorar el flujo de trabajo. Zettlr implementa 3 características principales que permiten generar un flujo de trabajo mucho mejor, que el que puedes encontrar dentro de cualquier otro editor; te permite generar identificadores para los archivos, vincultar archivos y búsquedas y etiquetar cada nota.
+## Mejora tu flujo de trabajo
 
-Zettlr te permite conectar cada pieza de tu información utilizando la metodología Zettelkasten basada en el método Zettelkasten. ¿Enlaces? Cheque. ID de archivo? Cheque. Etiquetado de archivos? También consultar.
+Zettlr implementa 3 características principales que permiten generar un flujo de trabajo mucho mejor, que el que puedes encontrar dentro de cualquier otro editor; te permite generar identificadores para los archivos, vincultar archivos y búsquedas y etiquetar cada nota.
 
-## 
-¡Hola, y gracias por elegir Zettlr! 🎉 Hemos compilado este pequeño tutorial interactivo para Zettlr para que pueda sumergirse directamente en el uso de la aplicación sin tener que echar un vistazo a todos los documentos. Sin embargo, Zettlr es capaz de mucho más de lo que se describe en esta breve introducción, por lo que le recomendamos que también eche un vistazo a [🔗 la extensa documentación] (https://docs.zettlr.com/) (mantenga presionado `Cmd` o `Ctrl` para abrir el enlace), que está disponible en muchos idiomas diferentes, para ayudarlo a navegar a través del amplio conjunto de características. Siempre puede abrir la documentación en línea presionando `F1` o seleccionando el elemento de menú correspondiente en el menú Ayuda.
+Zettlr te permite conectar cada pieza de tu información utilizando la [metodología Zettelkasten](https://ciberninjas.com/wiki/zettelkasten/).
+
+Zettlr admite casi todas las formas posibles de crear enlaces e identificar tus archivos. En otras palabras: no importa de que otro sistema vengas, todos los Zettelkästen son hermosos y cuentan con el apoyo de Zettlr.
+
+## Integra gestores de referencias
+
+Zettlr se integra bien con gestionadores de referencias como Zotero, JabRef o Juris-M. Simplemente carga tu biblioteca en Zettlr y comienza a realizar citas. Zettlr se adhiere estrictamente a los estándares establecidos.
+
+Las citas se pueden cargar usando CSL-JSON o BibTex y el procesador de citas solo usa Citation Style Language, el estándar de facto de la industria para las citas, ¡Esto te permite utilizar más de 9,000 estilos diferentes desde el repositorio oficial de Zotero!
+
+## Modo oscuro
+
+Debido a su flexibilidad de diseño, Zettlr admite un modo oscuro en todo el software. Así como muchos otros temas diferentes, adaptados a las necesidades de cada usuario. Cambiar de plantilla de color, es tan fácil como presionar un único botón.
+
+Ademas, ¿Si no estás satisfecho con las plantillas proporcionados? No hay problema, porque Zettlr te permite la personalización completa de cada elemento. ¡Incluso puedes crear temas completamente nuevos a través de un CSS totalmente personalizado!
+
+## Olvídate del desorden
+
+No importa si trabaja con muchas notas, como un Zettelkasten o si simplemente tiene muchos archivos con diferentes contenidos importantes: la revolucionaria búsqueda de mapas de calor de Zettlr te permite encontrar cada nota que hayas escrito. ¡No más confusión sobre dónde estabas cada cita!
+
+## Más que hastags
+
+Twitter los inventó y, desde entonces, todas las plataformas los adoptaron: Sí, ¡Hablamos de los Hashtags!
+
+Zettlr va un paso más allá, no solo permitiéndote clasificar y vincultar tus notas usando etiquetas, sino que proporcionando la opción de que puedas asignar colores a las etiquetas, y que seas capaz de visualizar las notas deseadas inmediatamente.
+
+## Poder ilimitado
+
+Zettlr se adapta bien a tus necesidades y requirimientos. Lo podrás usar para cualquier cosa que desees, desde realizar tus primeros textos universitarios hasta para tu tesis doctoral. Con las características avanzadas de Zettlr adaptadas para los investigadores, los periodistas y los novelistas; todo te será más sencillo.
+
+Es tan fácil como crear un nuevo proyecto y comenzar a crear. Zettlr nunca se interpondrá en su camino, y así es como debería ser siempre una buena aplicación.
+
+[💪 Comienza a Usar Zettlr](https://kutt.it/zettlr){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Windows 10 tiene una serie de aplicaciones integradas. Y deshacerse de ellos no es tan simple. Este método lo ayudará a desinstalar aplicaciones integradas en Windows 10.](/assets/img/2020-news/zettlr-editor-texto.webp "Windows 10 tiene una serie de aplicaciones integradas. Y deshacerse de ellos no es tan simple. Este método lo ayudará a desinstalar aplicaciones integradas en Windows 10.")
+![Zettlr, un editor de Markdown perfecto para escribir texto y organizar todos tus archivos, así como para personalizar tu experiencia a la hora de organizar tus documentos.](/assets/img/2020-news/zettlr-editor-texto.webp "Zettlr, un editor de Markdown perfecto para escribir texto y organizar todos tus archivos, así como para personalizar tu experiencia a la hora de organizar tus documentos.")

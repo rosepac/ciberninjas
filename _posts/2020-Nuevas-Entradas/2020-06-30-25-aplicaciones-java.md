@@ -31,7 +31,7 @@ Después de unos años de desarrollo secreto dirigido por James Gosling, Sun lan
 
 Hoy, millones de desarrolladores programan en Java. Aunque Java continúa evolucionando a un ritmo cada vez más rápido , con motivo del 25 aniversario de la plataforma, Java Magazine decidió echar un vistazo a cómo Java moldeó nuestro planeta.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Lo que sigue es una lista de las 25 aplicaciones Java más ingeniosas e influyentes jamás escritas, desde Wikipedia Search hasta Ghidra de la Agencia de Seguridad Nacional de EE. UU. El alcance de estas aplicaciones abarca toda la gama: exploración espacial, videojuegos, aprendizaje automático, genómica, automoción, ciberseguridad y más.
 
@@ -102,7 +102,7 @@ Algo así, como un Google Earth de todo el espacio; todos los datos geoespaciale
 
 Según el sitio web: "Las organizaciones de todo el mundo usan WorldWind para monitorear los patrones climáticos, visualizar ciudades y terrenos, rastrear el movimiento de vehículos, analizar datos geoespaciales y educar a la humanidad sobre lo que ocurre con la Tierra".
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 4. **JMARS y JMoon**
 
@@ -168,7 +168,7 @@ Desarrollado en Java por Markus "Notch" Persson y lanzado en su versión alfa en
 
 El uso de Java en los videojuegos también permite a los programadores crear sus modificaciones propias, desde sus propias casas o en el ámbito educativo.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 11. **Jitter Robot y LeJOS**
 
@@ -234,7 +234,7 @@ Escrito en Java, Jenkins ayuda a construir, probar e implementar aplicaciones de
 
 [Jenkins](https://ciberninjas.com/jenkins/) junto a sus más de 1500 complementos aportados por la comunidad abordan innumerables tareas de implementación y testing, desde la implementación del trabajo a través de GitHub, pasando por el apoya a los desarrolladores daltónicos, hasta la generación de archivos JAR de MySQL.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 17. **GraalVM**
 
@@ -304,7 +304,7 @@ El navegador de código abierto Integrated Genome ha permitido y permite en la a
 
 De acuerdo con este esfuerzo mundial, nace una herramienta similar proviene de la Universidad de California Santa Cruz en forma del navegador Genome, administrado por Jim Kent.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 23. **BioJava**
 
@@ -357,4 +357,4 @@ Hasta aquí la impresionante recopilación de programas creados por el lenguaje 
 
 [🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

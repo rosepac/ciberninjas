@@ -30,7 +30,7 @@ Los diseñadores encuentran la inspiración por todas partes. Cuando están fuer
 
 Aquí está la lista de los mejores blogs de diseño, a seguir y visitar asiduamente para el 2020.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[1. Smashing Magazine](https://www.smashingmagazine.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -66,7 +66,7 @@ Mira What es presentado por Say What Studio , un dúo de diseño gráfico con se
 
 La mayoría de nosotros hemos usado el servicio de intercambio de archivos Dropbox en algún momento de nuestras vidas, pero ¿sabías que también tiene un blog? Es excelente, con una variedad de artículos sobre el tema de UX, con temas que incluyen investigación de usuarios, gestión de proyectos y herramientas de diseño.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[9. Design week](https://www.designweek.co.uk/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -112,7 +112,7 @@ La interfaz de este blog es muy simple y limpia. Todos los artículos tratan los
 
 Artículos útiles sobre cómo crear experiencias de usuario efectivas.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[19. DesignModo UX](http://designmodo.com/design/ux-design/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -158,7 +158,7 @@ Un blog más de Under Consideration que vale la pena mencionar. For Print Only c
 
 El Blog de diseño tiene que ver con la inspiración visual. Fundada, diseñada y comisariada por Ena Baćanović, un diseñador con sede en Zagreb, Croacia, presenta el trabajo de diseñadores y estudios de diseño de todo el mundo, centrándose principalmente en jóvenes diseñadores y estudiantes.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[29. BP&O](https://bpando.org/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -204,7 +204,7 @@ Typeroom es una cartera curada para fanáticos de la tipografía, que presenta h
 
 Bellamente diseñado, liderado por la industria y uno de los mejores recursos para mantenerse al tanto del arte, la ilustración y el diseño gráfico en todas partes, It's Nice That sigue siendo una de nuestras publicaciones en línea favoritas.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[39. Designer News](https://www.designernews.co/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -250,7 +250,7 @@ Curada por Alessandro Scarpellini, diseñador y director de arte de Italia, Visu
 
 Webflow es un producto utilizado para crear sitios web visualmente, sin codificación. Ya sea que esté utilizando Webflow o no, su blog está repleto de excelentes artículos sobre temas más amplios relacionados con el diseño web y la experiencia de usuario, y bien merece una visita.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[49. Ambalaj](http://www.ambalaj.se/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -292,7 +292,7 @@ Este es el blog que visitarás una y otra vez. Presentado por el galardonado dis
 
 Underpinned es una plataforma en línea de herramientas y servicios para freelancers y su blog asociado tiene una variedad de artículos sobre todos los aspectos de ser freelance. Los temas van desde consejos sobre cómo perseguir pagos hasta cómo hacer que su fotografía se destaque.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[58. Identity Designed](https://identitydesigned.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -349,4 +349,4 @@ UX artículos y recursos.
 
 [👨‍🎨 Las Diferencias entre la experiencia del usuario y la interfaz del usuario](/diferencias-entre-ui-ux/)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -66,4 +66,4 @@ Si quieres, puedes encontrar todos los detalles sobre cómo presentar tu [solici
 
 [ ▷ Los Mejores Cursos Gratis de Animación, Diseño Gráfico, Diseño 3D, Etc.](https://ciberninjas.com/cursos-animacion-diseno/)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

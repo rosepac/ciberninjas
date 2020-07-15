@@ -29,34 +29,38 @@ Existen numerosos IDE de PHP que ofrecen terminación de código inteligente y v
 A continuación se incluye una lista cuidadosamente seleccionada de los mejores IDE específicos para el lenguaje de programación PHP, con sus características más populares y los enlaces a sus sitios web. La lista contiene software de código abierto (gratis) y comercial (pago).
 
 Cualquiera de estos editores será perfecto, al igual que cualquiera de los editores de código ya [vistos con anterioridad](https://ciberninjas.com/mejores-editores-texto/) en Ciberninjas.
+- [**1. Komodo PHP**](#1-komodo-php)
+  - [Características de Komodo PHP](#características-de-komodo-php)
+- [**2. Eclipse PHP**](#2-eclipse-php)
+  - [Características de Eclipse PHP](#características-de-eclipse-php)
+- [**3. Netbeans**](#3-netbeans)
+  - [Características de Netbeans](#características-de-netbeans)
+- [**4. CodeLobster**](#4-codelobster)
+  - [Características de CodeLobster](#características-de-codelobster)
+- [**5. Cloud 9**](#5-cloud-9)
+  - [Características de Cloud 9](#características-de-cloud-9)
+- [**6. CodeLite**](#6-codelite)
+  - [Características de CodeLite](#características-de-codelite)
+- [**7. Geany**](#7-geany)
+  - [Características de Geany](#características-de-geany)
+- [**8. Storm PHP**](#8-storm-php)
+  - [Características de Storm PHP](#características-de-storm-php)
+- [**9. TextMate**](#9-textmate)
+  - [Características de TextMate](#características-de-textmate)
+- [**10. Zend Studio**](#10-zend-studio)
+  - [Características de Zend Studio](#características-de-zend-studio)
+- [**11. Kwrite**](#11-kwrite)
+  - [Características de Kwrite](#características-de-kwrite)
+  - [Relacionados](#relacionados)
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/)
 {: .notice--danger}
 
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/mejores-editores-php/#1-komodo-php">1. Komodo PHP</a></li>
-    <li><a href="/mejores-editores-php/#2-eclipse-php">2. Eclipse PHP</a></li>
-    <li><a href="/mejores-editores-php/#3-netbeans">3. Netbeans</a></li>
-    <li><a href="/mejores-editores-php/#4-codelobster">4. CodeLobster</a></li>
-    <li><a href="/mejores-editores-php/#5-cloud-9">5. cloud 9</a></li>
-    <li><a href="/mejores-editores-php/#6-codelite">6. CodeLite</a></li>
-    <li><a href="/mejores-editores-php/#7-geany">7. Geany</a></li>
-    <li><a href="/mejores-editores-php/#8-storm-php">8. Storm PHP</a></li>
-    <li><a href="/mejores-editores-php/#9-textmate">9. TextMate</a></li>
-    <li><a href="/mejores-editores-php/#10-zend-studio">10. Zend Studio</a></li>
-    <li><a href="/mejores-editores-php/#11-kwrite">11. KWrite</a></li>
-  </ol>
-</nav>
-</details>
-
-## 1. **Komodo PHP**
+## **1. Komodo PHP**
 
 Komodo es un IDE de PHP que admite tecnologías web, incluidos HTML, JavaScript, CSS, Drupal, Zend, etc. Este software te ayuda a depurar el programa PHP de forma rápida y sencilla.
 
-### **Características de Komodo PHP**
+### Características de Komodo PHP
 
 - Ayuda a depurar, inspeccionar y probar el código.
 - Esta aplicación tiene toneladas de complementos para personalizar las funciones.
@@ -69,11 +73,11 @@ Komodo es un IDE de PHP que admite tecnologías web, incluidos HTML, JavaScript,
 
 [🔥 Descargar Komodo](https://ciberninjas.com/ide-komodo-gratis/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 2. **Eclipse PHP**
+## **2. Eclipse PHP**
 
 Eclipse PHP es una herramienta de desarrollo de sitios web para PHP. Destaca la sintaxis que ha escrito. Esta herramienta te permite depurar fácilmente el programa.
 
-### **Características de Eclipse PHP**
+### Características de Eclipse PHP
 
 - Proporciona plantillas de código listas para usar.
 - Valida automáticamente la sintaxis.
@@ -82,13 +86,13 @@ Eclipse PHP es una herramienta de desarrollo de sitios web para PHP. Destaca la 
 - Se puede usar en Windows, Linux y OS X.
 
 [🔥 Descargar Eclipse PHP](https://www.eclipse.org/pdt/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 3. **Netbeans**
+## **3. Netbeans**
 
 NetBeans es un entorno de desarrollo integrado para escribir programas PHP. Tiene una ventana de proyectos que te muestra la lista de proyectos actualmente existentes.
 
-### **Características de Netbeans**
+### Características de Netbeans
 
 - Se puede ver fácilmente la estructura de las clase PHP.
 - Destaca las variables y palabras clave de PHP.
@@ -100,11 +104,11 @@ NetBeans es un entorno de desarrollo integrado para escribir programas PHP. Tien
 
 [🔥 Descargar Netbeans](https://netbeans.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 4. **CodeLobster**
+## **4. CodeLobster**
 
 Codelobster es un entorno de desarrollo integrado para PHP. Es compatible con numerosos complementos, incluidos JQuery, Facebook, etc.
 
-### **Características de CodeLobster**
+### Características de CodeLobster
 
 - Se puede resaltar pares de corchetes.
 - CodeLobster muestra una lista emergente que contiene constantes y variables.
@@ -113,13 +117,13 @@ Codelobster es un entorno de desarrollo integrado para PHP. Es compatible con nu
 - Permite ocultar bloques de código en los que no está trabajando actualmente.
 - Se puede contraer el código para ver el código en detalle.
 
-[🔥 Descargar CodeLobster](http://www.codelobster.com/php_editing.html){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar CodeLobster](https://kutt.it/codelobster){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 5. **Cloud 9**
+## **5. Cloud 9**
 
 Cloud9 es un editor basado en la nube que te permite escribir, ejecutar y depurar código con cualquier navegador; ayudándote a trabajar desde cualquier lugar utilizando una máquina conectada a Internet. Cloud 9 es un proyecto de Amazon Web Services.
 
-### **Características de Cloud 9**
+### Características de Cloud 9
 
 - Se pueden ajustar los paneles en cualquier dirección simplemente arrastrando y soltando.
 - Depurador integrado para establecer un punto de interrupción.
@@ -130,13 +134,13 @@ Cloud9 es un editor basado en la nube que te permite escribir, ejecutar y depura
 - Ofrece un editor de imágenes incorporado para cambiar el tamaño, recortar o rotar imágenes.
 
 [🔥 Comenzar con Cloud 9](https://aws.amazon.com/es/cloud9/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 6. **CodeLite**
+## **6. CodeLite**
 
 CodeLite es una herramienta de código abierto para escribir programas en PHP. Que te ayudará a destacar la sintaxis y se puede instalar sobre sistemas operativos de Windows y de Mac.
 
-### **Características de CodeLite**
+### Características de CodeLite
 
 - Codelite se puede integrar conjunto a Cscope (interfaz basada en texto para buscar un código).
 - Permite personalizar los colores de la sintaxis del código.
@@ -145,11 +149,11 @@ CodeLite es una herramienta de código abierto para escribir programas en PHP. Q
 
 [🔥 Descargar CodeLite](https://codelite.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 7. **Geany**
+## **7. Geany**
 
 Geany es un editor PHP que utiliza el kit de herramientas de código abierto GTK. Este editor completa automáticamente palabras o corchetes. Es compatible con numerosos tipos de archivos, incluidos PHP, Perl, HTML, etc.
 
-### **Características de Geany**
+### Características de Geany
 
 - Puede compilar y ejecutar código fácilmente.
 - Simplifica la gestión de proyectos.
@@ -158,13 +162,13 @@ Geany es un editor PHP que utiliza el kit de herramientas de código abierto GTK
 - Geany proporciona una lista de símbolos que te ayuda a saber dónde se define el símbolo.
 
 [🔥 Descargar Geany](https://www.geany.org/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 8. **Storm PHP**
+## **8. Storm PHP**
 
 PHPStorm es un IDE multiplataforma para PHP, que permite utilizar tecnología front-end como HTML, CSS, Sass y más. Además, permite realizar pruebas unitarias individuales para pequeños pedazos de código fuente.
 
-### **Características de Storm PHP**
+### Características de Storm PHP
 
 - Es compatible con MySQL (lenguaje de consulta de estructura).
 - Puede trabajar con marcos basados en PHP como Joomla, Magento, CakePHP, etc.
@@ -174,11 +178,11 @@ PHPStorm es un IDE multiplataforma para PHP, que permite utilizar tecnología fr
 
 [🔥 Descargar Storm PHP](https://www.jetbrains.com/phpstorm/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 9. **TextMate**
+## **9. TextMate**
 
 TextMate es un editor desarrollado para macOS. Le ayuda a intercambiar fácilmente un fragmento de código por otro y puedes buscar partes específicas dentro de los archivos sin problemas.
 
-### **Características de TextMate**
+### Características de TextMate
 
 - Puede ver qué archivos se modifican en la vista del explorador de archivos.
 - Le ayuda a eliminar el trabajo repetido con macros.
@@ -187,13 +191,13 @@ TextMate es un editor desarrollado para macOS. Le ayuda a intercambiar fácilmen
 - Puede controlar la versión del archivo PHP con facilidad.
 
 [🔥 Descargar TextMate](https://macromates.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 10. **Zend Studio**
+## **10. Zend Studio**
 
 Zend Studio es un entorno de desarrollo integrado para desarrollar una aplicación en PHP. Ofrece terminación de código inteligente y valida errores en tiempo real.
 
-### **Características de Zend Studio**
+### Características de Zend Studio
 
 - Es compatible con la última versión de PHP, HTML, JavaScript y CSS.
 - Esta herramienta tiene una integración de control de fuente mejorada que te va ayudar a trabajar con SVN (Apache Subversion).
@@ -203,11 +207,11 @@ Zend Studio es un entorno de desarrollo integrado para desarrollar una aplicaci�
 
 [🔥 Descargar Zend Studio](https://www.zend.com/products/zend-studio){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 11. **Kwrite**
+## **11. Kwrite**
 
 KWrite es una herramienta ligera para escribir código PHP. Esta herramienta está desarrollada por la comunidad de software de KDE. Tiene dos modos de entrada diferentes, es decir, modo de inserción de texto y modo de comando.
 
-### **Características de Kwrite**
+### Características de Kwrite
 
 - Destaca automáticamente la sintaxis según el tipo de archivo
 - Ajusta automático la sangría (espacios vacíos al comienzo del código)
@@ -215,15 +219,13 @@ KWrite es una herramienta ligera para escribir código PHP. Esta herramienta est
 - El editor ofrece autocompletado basado en palabras o frases que ya ha visto en el resto de las partes del resto del código.
 
 [🔥 Descargar KWrite](https://kde.org/applications/utilities/org.kde.kwrite "Descargar el editor de texto KWrite"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
-### Relacionados
-
-[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
-
-[11 Mejores entornos de desarrollo para Python 2020](https://ciberninjas.com/mejores-ide-python/)
-
-[🥇 Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/)
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.](/assets/img/blog/php-ide/php-editores.webp "Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.")
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+### Relacionados
+
+[▷ Zettlr: Editor de Markdown hecho a medida para el Siglo XXI](https://ciberninjas.com/zeetlr-editor-markdown/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[11 Mejores entornos de desarrollo para Python 2020](https://ciberninjas.com/mejores-ide-python/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🥇 Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/){: .btn .btn-outline-dark .btn-lg .btn-block}
