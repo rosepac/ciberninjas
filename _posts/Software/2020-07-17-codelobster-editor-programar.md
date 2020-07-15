@@ -7,13 +7,13 @@ tags:
 - PHP
 categories:
 - Editores de Texto
-thumbnail: /assets/img/2020-news/zettlr-editor-texto.webp
-feature-img: /assets/img/2020-news/zettlr-editor-texto.webp
+thumbnail: /assets/img/2020-news/codelobster-ide-1.webp
+feature-img: /assets/img/2020-news/codelobster-ide-1.webp
 title: '▷ Codelobster IDE: Editor de PHP, HTML, CSS, JavaScript'
 description: >-
-  Zettlr, un editor de Markdown perfecto para escribir texto y organizar todos tus archivos, así como para personalizar tu experiencia a la hora de organizar tus documentos.
+  Codelobster IDE te permite editar archivos PHP, HTML, CSS y JavaScript, resalta la sintaxis y da pistas para las etiquetas, las funciones y sus parámetros. El editor maneja fácilmente aquellos archivos que contienen un contenido mixto.
 excerpt: >-
-  Zettlr, un editor de Markdown perfecto para escribir texto y organizar todos tus archivos, así como para personalizar tu experiencia a la hora de organizar tus documentos.
+  Codelobster IDE te permite editar archivos PHP, HTML, CSS y JavaScript, resalta la sintaxis y da pistas para las etiquetas, las funciones y sus parámetros. El editor maneja fácilmente aquellos archivos que contienen un contenido mixto.
 canonical_URL: https://ciberninjas.com/zeetlr-editor-markdown/
 permalink: /zeetlr-editor-markdown/
 date: 2020-07-17 09:12:32
@@ -26,7 +26,9 @@ A lo largo del tiempo, en Ciberninjas ya hemos estado viendo numerosos editores 
 
 Además, hemos revisado algún editor alternativo y menos conocido más a fondo, como por ejemplo: Zettlr.
 
-En este artículo, vamos a ojear el IDE Codelobster, que posee una versión gratuito bastante interesante. Codelobster, se presento en el mercado del software desde hace ya algún tiempo y ha ido ganando bastantes fanáticos.
+En este artículo, vamos a ojear el IDE Codelobster, que posee una versión gratuito bastante interesante. Codelobster, es un editor conocido sobre todo centrado en el lenguaje de PHP. Codelobster, existe dentro del mercado del software desde hace ya algún tiempo y ha ido ganando bastantes fanáticos.
+
+## **Características de Codelobster**
 
 Codelobster IDE te permite editar archivos PHP, HTML, CSS y JavaScript, resalta la sintaxis y da pistas para las etiquetas, las funciones y sus parámetros. El editor maneja fácilmente aquellos archivos que contienen un contenido mixto.
 
@@ -68,4 +70,4 @@ Codelobster IDE funciona rápido, no se bloquea y permite trabajar incluso con g
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Zettlr, un editor de Markdown perfecto para escribir texto y organizar todos tus archivos, así como para personalizar tu experiencia a la hora de organizar tus documentos.](/assets/img/2020-news/zettlr-editor-texto.webp "Zettlr, un editor de Markdown perfecto para escribir texto y organizar todos tus archivos, así como para personalizar tu experiencia a la hora de organizar tus documentos.")
+![Codelobster IDE te permite editar archivos PHP, HTML, CSS y JavaScript, resalta la sintaxis y da pistas para las etiquetas, las funciones y sus parámetros. El editor maneja fácilmente aquellos archivos que contienen un contenido mixto.](/assets/img/2020-news/codelobster-ide-1.webp "Codelobster IDE te permite editar archivos PHP, HTML, CSS y JavaScript, resalta la sintaxis y da pistas para las etiquetas, las funciones y sus parámetros. El editor maneja fácilmente aquellos archivos que contienen un contenido mixto.")
