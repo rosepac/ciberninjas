@@ -63,7 +63,7 @@ Esta herramienta también puede ser útil para cualquier repositorio donde convi
 
 [📂 Repositorio de Github Super Lintern](https://github.com/github/super-linter/){: .btn .btn--primaryx .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔠 Wiki Super Lintern](https://github.com/github/super-linter/wiki){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Características de Github Super Lint**
 
@@ -75,7 +75,7 @@ Super Linter logra resolver muchos problemas a través de la automatización, of
 - Automatiza el proceso para ayudar a simplificar las revisiones de código.
 - Con estos criterios básicos, deberíamos enviar un código mejor, más limpio y más estable internamente y a nuestros clientes y socios.
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Reglas predeterminadas de la super linterna de Github**
 
@@ -106,4 +106,4 @@ Si deseas tener acceso a diferentes plantillas de trabajo, solamente debes ir a 
 
 [🥇 Visual Studio integrado en Github: Codespaces](https://ciberninjas.com/codespace-editor-github/)
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -89,7 +89,7 @@ Codespaces configura un entorno de Visual Studio Code alojado en la nube, dentro
 Dentro de Codespaces, tendrá acceso a Visual Studio Code Marketplace , y puede precargar cualquier extensión que desee cargar en el lanzamiento utilizando un archivo de configuración devcontainer . También puede personalizar su espacio de código tirando de los archivos de puntos.
 
 [🔨 Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios](/assets/img/blog/10-codespace-editor-github.webp "Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios")
 

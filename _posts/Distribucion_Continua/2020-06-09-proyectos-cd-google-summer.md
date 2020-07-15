@@ -90,4 +90,4 @@ Supratik Das: [Mejora la integración SCM](https://summerofcode.withgoogle.com/p
 
 ![La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.](/assets/img/blog/google-summer-code-2.webp "La Fundación CD se ha unido a la lista de organizaciones que participan en el Summer of Code (GSoc) de Google este año. GSoC es un programa anual destinado a atraer a más estudiantes desarrolladores.")
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

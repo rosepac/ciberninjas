@@ -24,4 +24,4 @@ Sin lugar a dudas una tecnología revolucionaria que puede cambiar la historia d
 **Fuente**: [¿Es hora de regular el biohacking? California cree que sí](https://www.vox.com/future-perfect/2019/8/13/20802059/california-crispr-biohacking-illegal-josiah-zayner "¿Es hora de regular el biohacking? California cree que sí")
 {: .notice--info}
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

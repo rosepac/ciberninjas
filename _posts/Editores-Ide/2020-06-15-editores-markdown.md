@@ -242,4 +242,4 @@ Por último, aquí os dejo unos enlaces interesantes sobre MarkDown:
 
 ![Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas](/assets/img/blog/editores_negro.webp "Los 7 mejores editores de código para editar publicaciones en Markdown del mundo, visto en Ciberninjas")
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

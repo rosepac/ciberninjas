@@ -78,7 +78,7 @@ Ahora que comprendes porque necesitas actualizar a Windows 10, debes elegir una 
 2. Si tu ordenador tiene problemas para actualizar y trabajar con Windows 10. Como regla general, Windows 10 suele funcionar fácilmente incluso en procesadores y en los discos duros mecánicos más antiguos; pero un disco duro lento puede provocar congelaciones. Instalando un SSD, incluso de los más económicos, será suficiente.
 3. La última opción es: Instalar Linux. Esto es ideal si no deseas comprar nuevo hardware y Windows 10 hace que tu computadora sufra. Linux está magníficamente optimizado y funciona muy rápido incluso sobre un hardware más antiguo.
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.](/assets/img/blog/windows-10.webp "Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.")
 

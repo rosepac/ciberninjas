@@ -294,4 +294,4 @@ Dado que el código Ivy solo se puede vincular con otro código Ivy, para compil
 
 Esta transformación debe suceder como un precursor para ejecutarse ngtscen la aplicación, y las futuras operaciones de compilación y vinculación deben realizarse contra esta versión transformada de las dependencias.
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -30,7 +30,7 @@ Desde el siguiente Twitter:
 
 <figure><a class="image-popup" href="/assets/img/harmony-os.jpg"><img src="/assets/img/harmony-os.jpg" /></a><figcaption>Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones | Ciberninjas</figcaption></figure>
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Harmony de Huawei ser&aacute; de c&oacute;digo abierto y tendr&aacute; su propio compilador ARK
 
@@ -38,7 +38,7 @@ Huawei revel&oacute; m&aacute;s detalles sobre su sistema operativo desarrollado
 
 Richard Yu, CEO del Grupo de Negocios del Consumidor de Huawei, hablando en la Conferencia de Desarrolladores de 2019, dijo que tiene la intenci&oacute;n de seguir usando Android para sus tel&eacute;fonos inteligentes, pero si no, Huawei es capaz de implementar su nuevo sistema operativo en dos d&iacute;as.
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Harmony usar&aacute; menos c&oacute;digos que Android
 
@@ -58,4 +58,4 @@ Harmony es un sistema operativo orientado al futuro con baja latencia, alto rend
 
 El primer compilador est&aacute;tico de Huawei, ARK Compiler, admitir&aacute; la compilaci&oacute;n unificada en varios idiomas (C / C ++, Java, Javascript, Kotlin, etc.) para aumentar la productividad del desarrollo.
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -108,6 +108,6 @@ O eliminar el "Xbox Console Companion" con:
 
 `Get-AppxPackage *xboxapp* | Remove-AppxPackage`
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![He compilado los componentes integrados más inútiles de Windows 10 y vamos a conocer cómo deshabilitarlos o eliminarlos para liberar espacio en el disco.](/assets/img/2020-news/aplicaciones-windows.webp "He compilado los componentes integrados más inútiles de Windows 10 y vamos a conocer cómo deshabilitarlos o eliminarlos para liberar espacio en el disco.")

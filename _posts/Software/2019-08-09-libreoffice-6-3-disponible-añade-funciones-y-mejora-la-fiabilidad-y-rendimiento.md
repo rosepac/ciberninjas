@@ -23,4 +23,4 @@ feature-img: "/assets/img/libre-office.jpg"
 > Fuente: [Wiki LibreOffice](https://wiki.documentfoundation.org/ReleaseNotes/6.3 "Wiki de la Fundación de LibreOffice: Ciberninjas")  
 > Licencia:  [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/ "Licencia del contenido de las imágenes de LibreOffice: Ciberninjas")
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -50,7 +50,7 @@ Más consejitos, otro día Ciberninjas.. 🤞
 > 🔥 Seguro también te interesa: [💻 ▷ Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida](/ayuda-control-remoto-windows-10/), [🍫 ▷ Chocolatey, Aprender Desde Cero](/chocolatey/), [▷ ¿Qué es la Free Software Foundation?](/que-es-free-software-foundation/), [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/), [📹 Configuración del software como cuestión política 🔐](/ciberseguridad-comparecencia-congreso/), [📹 Cómo crear videollamadas divertidas](/cómo-tener-conversaciones-divertidas-zoom/)
 {: .notice--danger}
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados
 
@@ -60,4 +60,4 @@ Más consejitos, otro día Ciberninjas.. 🤞
 
 <div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331109157075936" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331109157075936" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros con los que aprender a programar en Java y con Android, en Español</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331109157075936">Martes, 3 de marzo de 2020</a></blockquote></div>
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

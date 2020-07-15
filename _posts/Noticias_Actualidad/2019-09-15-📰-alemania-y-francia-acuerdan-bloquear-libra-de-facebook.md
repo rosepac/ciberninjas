@@ -19,4 +19,4 @@ feature-img: /assets/img/blog/libra-facebook.jpg
 **Fuente**\: [Alemania y Francia acuerdan bloquear Libra de Facebook](https://www.reuters.com/article/us-facebook-cryptocurrency-france-german/france-and-germany-agree-to-block-facebooks-libra-idUSKCN1VY1XU "Francia y Alemania acordaron bloquear la criptomoneda Libra de Facebook, dijo el viernes el ministerio de finanzas francés, por Laurence Frost; edición por Richard Lough")
 {: .notice--info}
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

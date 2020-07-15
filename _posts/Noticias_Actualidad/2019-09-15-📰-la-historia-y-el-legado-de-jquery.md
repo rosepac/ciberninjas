@@ -22,4 +22,4 @@ feature-img: >-
 **Fuente**\: [La historia y el legado de jQuery](https://blog.logrocket.com/the-history-and-legacy-of-jquery/ "La historia y el legado de jQuery")
 {: .notice--info}
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -31,4 +31,4 @@ feature-img: "/assets/img/2020-news/historia-seguridad-corbato-contrasena.webp"
 
 > Fuente: [Computer History](https://www.nytimes.com/2019/07/12/science/fernando-corbato-dead.html "Fotografía del Archivo de MIT CSAIL")
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -71,7 +71,7 @@ Las mejores páginas web del mundo en las que vas a poder encontrar tanto los vi
 * [Itch io](https://kutt.it/itch-videojuegos-alternativos-gratis) \ 
 * Reddit \ [FreeGameFindings](https://kutt.it/vg-reddit-1){:target="_blank" rel="nofollow,noreferrer"} \ [Free Games](https://kutt.it/vg-reddit-2){:target="_blank" rel="nofollow,noreferrer"} 
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Juegos Gratis para PC y Móviles 📲
 
@@ -88,7 +88,7 @@ Juegos y aplicaciones de Iphone. Actualmente: spinny Monster, NewfyMoji, Cross S
 [📲 JUEGOS DE IPHONE GRATIS A DIARIO 📲](https://iphone.giveawayoftheday.com/?lang=es){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Más Páginas 🙀
 
@@ -96,7 +96,7 @@ Juegos y aplicaciones de Iphone. Actualmente: spinny Monster, NewfyMoji, Cross S
 * [PiviGames](https://pivigames.blog/){:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## JUEGOS CLÁSICOS 🕹
 
@@ -143,7 +143,7 @@ The Cycle es un juego competitivo de disparos y misiones (JcEcJ) que ofrece una 
 
 [🎮 DESCARGA THE CYCLE 🎮](https://thecycle.game/?lang=es){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## VIDEOJUEGOS RETRO 🕹
 
@@ -253,7 +253,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 [🎮 GRATIS 🎮](https://store.steampowered.com/app/813820/Realm_Royale/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Postal \ GOG
 
@@ -263,7 +263,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 [🎮 + PORTAL 1 GRATIS 🎮](https://www.gog.com/game/postal_classic_and_uncut){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- ## PRÓXIMAMENTE 💣 -->
 <!-- Ahora mismo no existen juegos gratuitos pendientes de ser liberados..
 {: .notice--info} -->
@@ -453,7 +453,7 @@ La exploración generalmente implica explorar varias etapas, con algunos gigante
 
 [📰 Noticias Videojuegos](/directo/#-videojuegos){: .btn .btn--warning .btn--large .align-center}
 [🎨 Wallpapers](https://ibb.co/album/bKkgdv){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Índice <!-- omit in toc -->
 - [1. **Fortnite Battle Royale**](#1-fortnite-battle-royale)

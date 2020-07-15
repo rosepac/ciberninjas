@@ -61,7 +61,7 @@ Entonces, Windows moverá todas las ventanas fuera de la ventana a la pantalla r
 
 La opción siguiente, es óptima, si el problema es derivado de haber tenido varios monitores conectados. Haz clic derecho en el escritorio y selecciona "Configuración de pantalla". Luego haz clic en "Detectar" y Windows devolverá todas las ventanas que faltan a tu monitor actual.
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![En Windows, a veces, la ventana de un programa aparece fuera de la pantalla y el mouse no es capaz de alcanzarla; aquí tienes las 5 mejores formas de restaurar una ventana al área visible.](/assets/img/blog/8-capturas-pantalla.webp "En Windows, a veces, la ventana de un programa aparece fuera de la pantalla y el mouse no es capaz de alcanzarla; aquí tienes las 5 mejores formas de restaurar una ventana al área visible.")
 

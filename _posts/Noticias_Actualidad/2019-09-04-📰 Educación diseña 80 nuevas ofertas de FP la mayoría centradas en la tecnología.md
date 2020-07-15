@@ -23,4 +23,4 @@ _"Se han empezado a diseñar 80 nuevas ofertas de FP asociadas, entre otras, a l
 **Fuente**: [Educación diseña 80 nuevas ofertas de FP la mayoría centrados en la tecnología](https://www.efe.com/efe/espana/sociedad/celaa-avanza-un-plan-para-digitalizar-la-educacion-que-requerira-226-millones/10004-4055529 "Educación diseña 80 nuevas ofertas de FP la mayoría centrados en la tecnología")
 {: .notice--info}
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

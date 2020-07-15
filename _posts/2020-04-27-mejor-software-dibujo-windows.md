@@ -72,7 +72,7 @@ A continuación, voy a intentar seleccionar las aplicaciones que más me han gus
 <!-- contenido -->
 [⏫ Regresar al Menú](/mejor-software-dibujo-windows-android/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar Sketchbook](https://sketchbook.com/thankyou){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[3. Fire Alpaca](https://firealpaca.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -112,7 +112,7 @@ El modo de pantalla completa ordena la interfaz, dejándote solo con tu pincel y
 
 [⏫ Regresar al Menú](/mejor-software-dibujo-windows-android/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar My Paint Versión 2.0](http://mypaint.org/downloads/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **[6. ArtFlow](http://artflowstudio.com/){:target="_blank" rel="nofollow,noreferrer"}**
 
@@ -169,4 +169,4 @@ Desde lápices hasta acrílicos gruesos, Adobe Photoshop Sketch lo cubrió. Pued
 
 [Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
 
-[💣 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-outline-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
