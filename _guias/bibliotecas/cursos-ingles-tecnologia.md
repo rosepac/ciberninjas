@@ -1,5 +1,5 @@
 ---
-# Página Base
+layout: page
 title: "🥇 ▷ Cursos de Tecnología en Inglés 🔥 con los que aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica en Inglés"
 description: "🎓 Los mejores cursos online en inglés con los que estudiar desarrollo web, seguridad, robótica, redes, criptomonedas, domótica, y mucho más ¡💥 100% GRATIS!"
 excerpt: "Los mejores cursos online en inglés con los que estudiar desarrollo web, seguridad, robótica, redes, criptomonedas, domótica, y mucho más ¡💥 100% GRATIS!"
@@ -10,18 +10,6 @@ date: 2020-03-16
 last_modified_at: 2020-02-07
 permalink: /cursos-tecnologia-ingles/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia-ingles/
-# image: 
-#   path: &image /assets/img/imac-glitch-feature.jpg
-#   width: 1024
-#   height: 512
-#   feature: *image
-# twitter:
-#   card: summary_large_image
-toc: false
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
-
 ---
 
 <!-- 

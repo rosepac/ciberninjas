@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👷‍♂️ ▷ Dónde Trabajar Como Programador Online
 description: "📌 Aprende a programar con múltiples lenguajes y frameworks. Los mejores libros PDF y ebook en nuestro catálogo e incluso gratis 😜."
 excerpt: "📌 Aprende a programar con múltiples lenguajes y frameworks. Los mejores libros PDF y ebooks en nuestro catálogo e incluso gratis 😜."

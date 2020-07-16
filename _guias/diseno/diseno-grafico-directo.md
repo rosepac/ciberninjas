@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👨‍🎨 ▷ Noticias en Directo sobre Diseño Gráfico
 description: '📰 🎨 El Mejor Canal de Noticias sobre Diseño Web en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Diseño Web'
 excerpt: '📰 🎨 El Mejor Canal de Noticias sobre Diseño Web en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Diseño Web'

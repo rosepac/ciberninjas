@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: " 🥇 ▷ Steemit, Cómo conocer todo sobre está plataforma 👨‍💻 sin morir en el intento"
 description: "🔨 Steemit, cómo convertirte en un maestro de Steemit sin morir en el intento"
 excerpt: "🔨 Steemit, cómo crear tu blog en una gran comunidad de contenidos sociales y artísticos gratis y criptomonedas"
@@ -11,10 +11,7 @@ canonical_URL: https://ciberninjas.com/steemit/
 published: true
 thumbnail: "/assets/img/blog/steemit-publicaciones-1-1.webp"
 feature-img: "/assets/img/blog/steemit-publicaciones-1-1.webp"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+img: "/assets/img/blog/steemit-publicaciones-1-1.webp"
 ---
 
 ## Regístrate

@@ -1,5 +1,5 @@
 ---
-# Página Base
+layout: page
 title: "🎓 ▷ Más de 800 Cursos 🔥 Aprender Desarrollo Web, Seguridad, Robótica, Blockchain, Domótica"
 description: "🚀 Biblia de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
 excerpt: "🚀 Biblia de Cursos Online: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
@@ -8,16 +8,4 @@ last_modified_at: 2018-08-07T12:42:42-05:00
 published: false
 permalink: /documentacion-tecnologia-microsoft/
 canonical_URL: https://ciberninjas.com/documentacion-tecnologia-microsoft/
-# image: 
-#   path: &image /assets/img/imac-glitch-feature.jpg
-#   width: 1024
-#   height: 512
-#   feature: *image
-# twitter:
-#   card: summary_large_image
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
-
 ---

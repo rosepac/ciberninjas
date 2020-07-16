@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "👨‍💻 ▷ La Hora del Código: Cómo Aprender a Programar a los Niños y Niñas"
 description: "😼  Cómo Aprender Programación y Robótica a las Niñas y Niños con La Hora del Código."
 excerpt: "😼 Cómo Aprender Programación y Robótica a las Niñas y Niños con La Hora del Código."
@@ -8,10 +9,6 @@ date: 2019-10-31 10:00:05
 last_modified_at: 2019-10-31 11:07:30
 permalink: /hora-codigo/
 canonical_URL: https://ciberninjas.com/hora-codigo/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 
 ---
 <!-- https://hourofcode.com/es/learn -->

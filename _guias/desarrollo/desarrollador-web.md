@@ -1,18 +1,13 @@
 ---
+layout: page
 title: 👨‍💻 ▷ ¿Cómo ser desarrollador web?
 description: "📌  Cómo ser el mejor desarrollador web exitoso."
 excerpt: "📌 Aprende a crear las mejores aplicaciones móviles, web y de escritorio con los mejores frameworks del mundo."
 published: false
 comments: false
 date: 2019-12-20
-# 
 last_modified_at: 2019-12-20
 permalink: /desarrollador-web/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-
 ---
 
 <!-- https://www.learnhowtobecome.org/computer-careers/web-development/ -->

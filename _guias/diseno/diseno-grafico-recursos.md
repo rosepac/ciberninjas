@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🎨 ▷ Recursos de Diseño Gráfico
 description: '🔨 Las Mejores Herramientas, Repositorios, Librerías y Recursos para Diseñadores Gráficos'
 excerpt: '🔨 Las Mejores Herramientas, Repositorios, Librerías y Recursos para Diseñadores Gráficos'

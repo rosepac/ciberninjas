@@ -1,3 +1,16 @@
+---
+layout: page
+title: 👨‍💻 ▷ Infografías de Desarrollo Web
+description: "📌  Las mejores infografías para desarrolladores web."
+excerpt: "📌  Las mejores infografías para desarrolladores web."
+published: false
+comments: false
+date: 2019-12-20
+last_modified_at: 2019-12-20
+permalink: /desarrollador-web-infografias/
+
+---
+
 ## Librerías
 
 * [LibCamara: Librería de Control para la Cámara](http://libcamera.org/){:target="_blank" rel="nofollow,noreferrer"}

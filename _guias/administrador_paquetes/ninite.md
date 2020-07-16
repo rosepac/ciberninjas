@@ -12,15 +12,9 @@ last_modified_at: 2019-10-11
 permalink: /ninite/
 canonical_URL: https://ciberninjas.com/ninite/
 thumbnail: "/assets/img/ninite-ciberninjas.jpg"
-feature-img: "/assets/img/ninite-ciberninjas.jpg"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true    
-
+feature-img: "/assets/img/ninite-ciberninjas.jpg"  
+img: "/assets/img/ninite-ciberninjas.jpg"  
 ---
-
-## 👨‍💻 ¿Qué es Ninite?
 
 **Ninite** es un sistema de gestión de paquetes que ofrece a los usuarios la instalación automática de aplicaciones populares en el Sistema Operativo de Windows.
 

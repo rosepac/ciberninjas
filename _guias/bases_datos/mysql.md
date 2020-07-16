@@ -1,3 +1,23 @@
+---
+
+layout: page
+title: ▷ Aprender Bases de Datos desde Cero
+description: "📁 Aprende desde cero todo lo que debes saber"
+excerpt: "📁 Aprende desde cero todo lo que debes saber"
+published: false
+last_modified_at: 
+author: rosepac
+bootstrap: true
+comments: false
+date: 2020-02-07T19:10:00
+permalink: /bases-datos/
+canonical_URL: https://ciberninjas.com/bases-datos/
+thumbnail: "/assets/img/paginas/sql-imagen-ciberninjasx1280.webp"
+feature-img: "/assets/img/paginas/sql-imagen-ciberninjasx1280.webp"
+img: "/assets/img/paginas/sql-imagen-ciberninjasx1280.webp"
+
+---
+
 Página web de Oracle MySql en español:
 https://www.oracle.com/es/mysql/index.html
 -----

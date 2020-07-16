@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 💰 ▷ Criptomonedas, Aprender Desde Cero Todo Lo Que Debes Saber
 description: '📌 👨‍💻 Los mejores artículos de criptomonedas más impresionantes y espectaculares que puedes encontrar en todo Internet.'
 excerpt: '📌 👨‍💻 Los mejores artículos de criptomonedas más impresionantes y espectaculares que puedes encontrar en todo Internet.'
@@ -7,11 +8,6 @@ comments: false
 date: 2019-12-11T22:00:00.000+01:00
 last_modified_at: 2020-02-07
 permalink: /criptomonedas/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-
 ---
 
 ## Artículos

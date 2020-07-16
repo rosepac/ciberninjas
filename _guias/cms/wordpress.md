@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🥇 ▷ Wordpress, Aprender desde Cero
 description: "Wordpress el CMS más utilizado del mundo. Guía completa y definitiva 👨‍💻 ▷ Cómo aprender todo sobre Wordpress"
 excerpt: "Wordpress el CMS más utilizado del mundo. Guía completa y definitiva 👨‍💻 ▷ Cómo aprender todo sobre Wordpress"
@@ -9,6 +10,7 @@ canonical_URL: https://ciberninjas.com/wordpress/
 published: true
 thumbnail: "/assets/img/paginas/02-29-wordpress-all-in.webp"
 feature-img: "/assets/img/paginas/02-29-wordpress-all-in.webp"
+img: "/assets/img/paginas/02-29-wordpress-all-in.webp"
 ---
 
 Este guía fue creada hace ya más de 2 años, más aún es perfectamente valido la gran mayoría de sus contenidos. Por ende, he decidido subirla a mi web. 

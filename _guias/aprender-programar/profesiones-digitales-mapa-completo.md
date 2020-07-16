@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: 'Mapa de Lenguajes de Programación, Herramientas y Plataformas y Disciplinas y Conceptos usados en todas las profesiones digitales que existen'
 description: 'Conoce todos los lenguajes de programación, herramientas, plataformas y displicinas diferentes que existen dentro del mundo de la tecnología'
 excerpt: 'Conoce todos los lenguajes de programación, herramientas, plataformas y displicinas diferentes que existen dentro del mundo de la tecnología'
@@ -10,8 +10,8 @@ published: true
 author: rosepac
 bootstrap: true
 ---
-<br />
-# Mapa de Lenguajes de Programación, Herramientas y Plataformas y Disciplinas y Conceptos usados en todas las profesiones digitales que existen
+
+Mapa de Lenguajes de Programación, Herramientas y Plataformas y Disciplinas y Conceptos usados en todas las profesiones digitales que existen
 
 🔎 RECOMENDABLE VISUALIZAR HABIENDO PULSADO: F 11
 {: .notice--info}

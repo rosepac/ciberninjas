@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👨‍💻 ▷ Jekyll, Aprender desde Cero
 description: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
 excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
@@ -8,10 +9,7 @@ permalink: /woocommerce/
 published: false
 thumbnail: "/assets/img/jekyll-blog.jpg"
 feature-img: "/assets/img/jekyll-blog.jpg"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+img: "/assets/img/jekyll-blog.jpg"
 ---
 
 Bases de datos NoSq. Qué son y tipos que nos podemos encontrar: https://www.acens.com/wp-content/images/2014/02/bbdd-nosql-wp-acens.pdf : PDF

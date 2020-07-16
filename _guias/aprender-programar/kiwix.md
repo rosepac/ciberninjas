@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: "\U0001F528 Guía Kiwix: La Wikipedia y sus Repositorios Offline"
 author: rosepac
 bootstrap: true
@@ -9,11 +9,9 @@ published: true
 date: 2019-09-27 01:10:23
 permalink: /kiwix/
 canonical_URL: https://ciberninjas.com/kiwix/
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
-
+thumbnail: https://steemitimages.com/DQmXas5sn8FPxTajG3MqvDTHKU38hb9btFpPwmnzN32rzYd/1200px-Kiwix_logo.svg.png
+feature-img: https://steemitimages.com/DQmXas5sn8FPxTajG3MqvDTHKU38hb9btFpPwmnzN32rzYd/1200px-Kiwix_logo.svg.png
+img: https://steemitimages.com/DQmXas5sn8FPxTajG3MqvDTHKU38hb9btFpPwmnzN32rzYd/1200px-Kiwix_logo.svg.png
 ---
 
 ![1200px-Kiwix_logo.svg.png](https://steemitimages.com/DQmXas5sn8FPxTajG3MqvDTHKU38hb9btFpPwmnzN32rzYd/1200px-Kiwix_logo.svg.png)
@@ -23,13 +21,13 @@ canonical_URL: https://ciberninjas.com/kiwix/
 > 📚 Kiwix te permite acceder al conocimiento universal - incluso desconectado
 
 ## Índice <!-- omit in toc -->
-- [**Introducción**](#introducci%c3%b3n)
+- [**Introducción**](#introducción)
 - [**Historia de Kiwix**](#historia-de-kiwix)
 - [**Descargar Kiwix**](#descargar-kiwix)
 - [Lector de Kiwix](#lector-de-kiwix)
 - [**Paquetes de Contenidos**](#paquetes-de-contenidos)
 - [**Archivos .zim disponibles**](#archivos-zim-disponibles)
-- [**Archivos .ZIM Disponibles en Español**](#archivos-zim-disponibles-en-espa%c3%b1ol)
+- [**Archivos .ZIM Disponibles en Español**](#archivos-zim-disponibles-en-español)
   - [Wikipedia](#wikipedia)
 - [Wiktionary](#wiktionary)
 - [Wikivoyage](#wikivoyage)

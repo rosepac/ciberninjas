@@ -1,5 +1,6 @@
 ---
 
+layout: page
 title: ▷ Aprender Bases de Datos desde Cero
 description: "📁 Aprende desde cero todo lo que debes saber"
 excerpt: "📁 Aprende desde cero todo lo que debes saber"
@@ -13,10 +14,7 @@ permalink: /bases-datos/
 canonical_URL: https://ciberninjas.com/bases-datos/
 thumbnail: "/assets/img/paginas/sql-imagen-ciberninjasx1280.webp"
 feature-img: "/assets/img/paginas/sql-imagen-ciberninjasx1280.webp"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+img: "/assets/img/paginas/sql-imagen-ciberninjasx1280.webp"
 
 ---
 
