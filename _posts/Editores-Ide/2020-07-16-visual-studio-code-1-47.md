@@ -9,13 +9,13 @@ categories:
 - Software
 thumbnail: /assets/img/2020-news/caract-windows-10.webp
 feature-img: /assets/img/2020-news/caract-windows-10.webp
-title: '▷ 6 Características útiles de Windows 10 que quizás no conozcas'
+title: '▷ Visual Studio Code 1.47: Actualización y cambios'
 description: >-
   He recopilado algunos tips ocultos de Windows 10 que te van a facilitar trabajar con una gran cantidad de ventanas, descargar el menú de Inicio y aprenderte a ser capaz de grabar videos desde la pantalla del escritorio.
 excerpt: >-
   He recopilado algunos tips ocultos de Windows 10 que te van a facilitar trabajar con una gran cantidad de ventanas, descargar el menú de Inicio y aprenderte a ser capaz de grabar videos desde la pantalla del escritorio.
-canonical_URL: https://ciberninjas.com/cosas-utiles-windows-10/
-permalink: /cosas-utiles-windows-10/
+canonical_URL: https://ciberninjas.com/visual-studio-code-1-47/
+permalink: /visual-studio-code-1-47/
 date: 2020-07-20 09:12:32
 last_modified_at: 
 published: false

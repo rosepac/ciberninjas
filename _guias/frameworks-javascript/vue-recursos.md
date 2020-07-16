@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "👨‍💻 ▷ Hacker News, Toda la Información que Necesitas desde Cero"
 description: "👨‍💻 ▷ Hacker News, Toda la Información que Necesitas desde Cero."
 excerpt: "👨‍💻 ▷ Hacker News, Toda la Información que Necesitas desde Cero."

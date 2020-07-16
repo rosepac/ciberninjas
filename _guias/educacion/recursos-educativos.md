@@ -1,5 +1,5 @@
 ---
-# Página Base
+layout: page
 title: "👨‍🏫 ▷ Recursos Educativos para Estudiantes"
 description: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
 excerpt: "🎓 ▷ Colección de 66 cursos y repositorio de recursos sobre aprendizaje, educación, pedagogía, metodologías; y enfocados a la mejora de la enseñanza."
@@ -8,11 +8,6 @@ date: 2019-10-04T17:00:00.000+00:00
 last_modified_at: 2019-10-04T19:10:42-05:00
 permalink: /recursos-educacion/
 canonical_URL: https://ciberninjas.com/recursos-educacion/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
-
 ---
 
 ## Metalistas

@@ -1,5 +1,6 @@
 ---
 
+layout: page
 title: "Arte Cíborg"
 description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Arte Cíborg"
 excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Arte Cíborg"

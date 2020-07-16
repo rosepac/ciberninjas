@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "▷ Ionic: Conociendo a este genial SDK Multiplataforma completo"
 description: "👩‍🚀 ▷ Crea aplicaciones móviles híbridas con un conjunto de componentes web que unidos a tu framework favorit (Angular , Reaccionar o Vue.js) crearás las mejores apps"
 excerpt: "👩‍🚀 ▷ Crea aplicaciones móviles híbridas con un conjunto de componentes web que unidos a tu framework favorit (Angular , Reaccionar o Vue.js) crearás las mejores apps"
@@ -9,10 +10,7 @@ last_modified_at:
 permalink: /ionic/
 thumbnail: 
 feature-img: 
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+img: 
 ---
 
 Si deseas saber más, puedes [pasarte por aquí](/mejores-sdk-multiplataforma-2019-20/#ionic){:target="_blank" rel="nofollow,noreferrer"}

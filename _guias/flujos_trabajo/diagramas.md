@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👨‍🚀 ▷ Recursos \ Cómo crear diagramas de flujo para programación
 description: '🔨 🐍 Los Mejores Recursos en Creación de Diagramas de Flujo'
 excerpt: '🔨 🐍 Los Mejores Recursos con los que Aprender Go'

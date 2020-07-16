@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👨‍🚀 ▷ Cómo Aprender Ruby
 published: false
 author: rosepac

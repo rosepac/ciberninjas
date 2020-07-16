@@ -1,5 +1,6 @@
 ---
 
+layout: page
 title: "\U0001F468‍\U0001F4BB ▷ Los Mejores Programas y Aplicaciones de Código Abierto Gratis 2020"
 description: "\U0001F528 Los Mejores Programas y Aplicaciones de Código Abierto Gratis 2020"
 excerpt: "\U0001F528 Los Mejores Programas y Aplicaciones de Código Abierto Gratis 2020"

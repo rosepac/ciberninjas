@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👨‍🚀 ▷ Recursos \ Cómo Aprender Go
 description: '🔨 🐍 Los Mejores Recursos con los que Aprender Go'
 excerpt: '🔨 🐍 Los Mejores Recursos con los que Aprender Go'

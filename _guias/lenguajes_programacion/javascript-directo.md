@@ -10,8 +10,9 @@ comments: false
 date: 2020-02-28 15:20:18
 last_modified_at: 
 permalink: /javascript-directo/
-# thumbnail: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
-# feature-img: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
+thumbnail: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
+feature-img: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
+img: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
 ---
 
 <a class="twitter-timeline" data-lang="es" data-theme="light" href="https://twitter.com/i/lists/897262127232299010?ref_src=twsrc%5Etfw">A Twitter List by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

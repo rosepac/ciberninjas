@@ -1,4 +1,5 @@
 ---
+layout: page
 title: '👨‍🚀 ▷ ¿Qué es Kubernetes?.'
 description: 'La historia y breve explicación del funcionamiento del servicio que ofrecen los contenedores de Kubernetes.'
 excerpt: 'La historia y breve explicación del funcionamiento del servicio que ofrecen los contenedores de Kubernetes.'
@@ -10,7 +11,6 @@ date: 2020-01-02 12:06:18
 last_modified_at: 
 permalink: /qué-es-kubernetes/
 canonical_URL: https://ciberninjas.com/qué-es-kubernetes/
-
 ---
 
 ## **¿Qué es Kubernetes?

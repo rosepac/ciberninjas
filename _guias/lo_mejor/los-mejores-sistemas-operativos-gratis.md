@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "🥇 ▷ Los Mejores Sistemas Operativos de Código Abierto Gratis en 2020"
 description: "🔥 Lista de Sistemas Operativos Gratuitos de Código Abierto sustitutos de Windows"
 excerpt: "🔥  Lista de Sistemas Operativos Gratuitos de Código Abierto sustitutos de Windows"
@@ -12,12 +13,7 @@ canonical_URL: https://ciberninjas.com/los-mejores-sistemas-operativos-gratis/
 published: true
 thumbnail: /assets/img/paginas/sistema-operativo-pagina.webp
 feature-img: /assets/img/paginas/sistema-operativo-pagina.webp
-#   caption: >-
-#     **Créditos**: [Logotipo de Jekyll](https://github.com/jekyll/brand) extraído del repositorio de Marketing de Jekyll. Edición y montaje de Elaboración Propia
-# toc: true
-# toc_label: Contenidos
-# toc_icon: user-ninja
-# toc_sticky: true
+img: /assets/img/paginas/sistema-operativo-pagina.webp
 
 ---
 

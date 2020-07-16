@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "🎁 📚 ▷ Los Libros Más Impresionantes Sobre Elixir"
 description: "👨‍💻Los Libros Más Impresionantes Sobre Elixir."
 excerpt: "👨‍💻Los Libros Más Impresionantes Sobre Elixir."

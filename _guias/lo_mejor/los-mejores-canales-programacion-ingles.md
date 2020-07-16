@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👨‍🚀 ▷ Recursos \ Los Mejores Canales de Youtube de Programación y Desarrollo Web
 description: '👩‍💻 Los Mejores Canales de Youtube de Programación y Desarrollo Web Móvil en Inglés'
 excerpt: '👩‍💻 Los Mejores Canales de Youtube de Programación y Desarrollo Web Móvil en Inglés'

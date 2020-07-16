@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👩‍🏫 ▷ Libros sobre Educación
 description: "👩‍🏫 ▷ Para docentes, maestros y profesores: Los Mejores Libros sobre Educación."
 excerpt: "👩‍🏫 ▷ Para docentes, maestros y profesores: Los Mejores Libros sobre Educación."
@@ -8,11 +9,6 @@ date: 2019-10-17
 last_modified_at: 
 permalink: /biblioteca-educacion/
 canonical_URL: https://ciberninjas.com/biblioteca-educacion/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-
 ---
 
 [📚 Cursos](/cursos-educacion/){: .btn .btn--primary .bt--large} \ [📚 Libros](/libros-educacion/){: .btn .btn--primary .bt--large} \ [✒](/biblioteca-novela-poesia/) \ [🧰 Recursos](/recursos-educacion/){: .btn .btn--primary .bt--large}

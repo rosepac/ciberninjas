@@ -1,4 +1,5 @@
 ---
+layout: page
 author: rosepac
 bootstrap: true
 title: "🥇 ▷ Aprender Git y Github desde cero"
@@ -11,6 +12,7 @@ canonical_URL: https://ciberninjas.com/github-git-recursos/
 published: true
 thumbnail: /assets/img/blog/2020-git-github.webp
 feature-img: /assets/img/blog/2020-git-github.webp
+img: /assets/img/blog/2020-git-github.webp
 toc: false
 toc_label: Contenidos
 toc_icon: user-ninja

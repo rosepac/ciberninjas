@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🐍 ▷ Recursos para Aprender Python
 description: '🔨 🐍 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
 excerpt: '🔨 🐍 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender Python'
@@ -12,9 +13,7 @@ permalink: /python-recursos/
 canonical: 
 thumbnail: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
 feature-img: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
-actions:
-  - label: "Aprender Python"
-    url: "/python/"
+img: https://i.ibb.co/F8y9t82/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg
 ---
 
 ## Artículos de Python 

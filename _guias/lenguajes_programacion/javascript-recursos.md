@@ -12,6 +12,9 @@ date: 2020-02-28 18:15:18
 last_modified_at: 
 permalink: /javascript-recursos/
 canonical_URL: https://ciberninjas.com/javascript-recursos/
+thumbnail: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
+feature-img: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
+img: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
 ---
 
 Los mejores enlaces sobre Javascript que puedes ir encontrando a lo largo de Internet. Desde los mejores enlaces hasta los mejores cursos y botones que te van a llevar hacía los mejores cursos y libros gratuitos del mundo en español para poder aprender Javascript.

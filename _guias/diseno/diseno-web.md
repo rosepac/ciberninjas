@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 💻 ▷ Cómo Aprender Diseño Web
 description: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera página web hasta lograr ser diseñadores web expertos'
 excerpt: '🔨 Vamos a aprender paso a paso, la creación de nuestra primera página web hasta lograr ser diseñadores web expertos'

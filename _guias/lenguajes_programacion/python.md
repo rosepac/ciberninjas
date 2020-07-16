@@ -1,12 +1,11 @@
 ---
+layout: page
 title: 🥇 ▷ Cómo Aprender Python en 2020
 description: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para convertirte en un profesional'
 excerpt: 'Cómo Aprender Python desde cero a experto en 2020, todo lo necesario para convertirte en un profesional'
-
 published: true
 author: rosepac
 bootstrap: true
-
 comments: false
 date: 2020-05-20 12:06:18
 last_modified_at:
@@ -14,11 +13,7 @@ permalink: /python/
 canonical_URL: https://ciberninjas.com/python/
 thumbnail: /assets/img/lenguajes/python-programadora.webp
 feature-img: /assets/img/lenguajes/python-programadora.webp
-actions:
-  - label: "Recursos Python"
-    url: "/python-recursos/"
-  - label: "Glosario Python"
-    url: "/glosario/completo-tecnologias-python/"
+img: /assets/img/lenguajes/python-programadora.webp
 ---
 
 Python es probablemente el lenguaje de programación más fácil de usar entre todos los lenguajes de la nueva era. A menudo se dice que la sintaxis de Python es clara e intuitiva; lo que, como Java, lo convierte en una opción popular para los programadores principiantes.

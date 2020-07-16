@@ -1,5 +1,5 @@
 ---
-# Página Base
+layout: page
 title: "🔨 ▷ Los Mejores Recursos para Impresoras 3D"
 description: "🔨 ▷ Los Mejores Recursos para Impresoras 3D Gratis"
 excerpt: "🔨 ▷ Los Mejores Recursos para Impresoras 3D Gratis"
@@ -12,6 +12,7 @@ permalink: /impresoras-3d-recursos/
 canonical_URL: https://ciberninjas.com/impresoras-3d-recursos/
 thumbnail: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
 feature-img: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
+img: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
 ---
 
 ## Meta-Listas de Recursos

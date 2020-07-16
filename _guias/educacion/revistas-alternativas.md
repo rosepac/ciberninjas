@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🗞 ▷ Prensa y Revistas Alternativas de España
 description: "🗞 ▷ Prensa y Revistas Alternativas de España."
 excerpt: "🗞 ▷ Prensa y Revistas Alternativas de España."
@@ -8,11 +9,6 @@ date: 2019-10-17
 last_modified_at: 
 permalink: /prensa-alternativa/
 canonical_URL: https://ciberninjas.com/prensa-alternativa/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-
 ---
 
 ## [Contrainformación: El periodismo incómodo](http://contrainformacion.es/){:target="_blank" rel="nofollow,noreferrer"}

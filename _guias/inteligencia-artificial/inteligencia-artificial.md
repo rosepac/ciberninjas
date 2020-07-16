@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🧠 ▷ Cómo Aprender Inteligencia Artificial
 description: '💡 Los Mejores Recursos con los que Aprender Inteligencia Artificial'
 excerpt: '💡 Los Mejores Recursos con los que Aprender Inteligencia Artificial'
@@ -12,6 +13,7 @@ permalink: /inteligencia-artificial/
 canonical_URL: https://ciberninjas.com/inteligencia-artificial/
 thumbnail: /assets/img/tematicas/nube-palabras-inteligencia-artificial-min.jpg
 feature-img: /assets/img/tematicas/nube-palabras-inteligencia-artificial-min.jpg
+img: /assets/img/tematicas/nube-palabras-inteligencia-artificial-min.jpg
 #  actions:
 #    - label: ""
 #      url: "//"

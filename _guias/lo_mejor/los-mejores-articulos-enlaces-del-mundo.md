@@ -1,4 +1,5 @@
 ---
+layout: page
 author: rosepac
 bootstrap: true
 title: "\U0001F468‍\U0001F4BB ▷ Los Mejores 📰 Artículos y 🔗 Enlaces del Mundo Sobre, el Recopilatorio Definitivo"

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "📚 ▷ Los Libros del Lenguaje de Programación Go"
 description: "📖 👩‍💻 Los Libros Más Impresionantes Sobre Go catalogados, tanto cronológicamente como por su dificultad de aprendizaje."
 excerpt: "📖 👩‍💻 Los Libros Más Impresionantes Sobre Go catalogados, tanto cronológicamente como por su dificultad de aprendizaje."

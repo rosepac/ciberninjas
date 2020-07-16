@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👩‍🎨 ▷ Recursos de Diseño Web
 description: 'El mejor software de diseño web, herramientas y recursos gratuitos 🔨 🎨'
 excerpt: 'El mejor software de diseño web, herramientas y recursos gratuitos 🔨 🎨'
@@ -12,13 +13,7 @@ permalink: /diseño-web-recursos/
 canonical_URL: https://ciberninjas.com/diseño-web-recursos/
 thumbnail: /assets/img/paginas/diseno-web-unsplash.webp
 feature-img: /assets/img/paginas/diseno-web-unsplash.webp
-actions:
-  - label: "Aprender Diseño Web"
-    url: "/diseño-web/"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+img: /assets/img/paginas/diseno-web-unsplash.webp
 ---
 
 👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/)

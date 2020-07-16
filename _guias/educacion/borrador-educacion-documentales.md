@@ -1,4 +1,5 @@
 ---
+layout: page
 title: '¿Qué es la educación 4.0? A partir de 2020'
 description: 'Qué es la educación 4.0 para 2020, aprender a estudiar desde casa y sin ayuda de profesores'
 excerpt: 'Qué es la educación 4.0 para 2020, aprender a estudiar desde casa y sin ayuda de profesores'

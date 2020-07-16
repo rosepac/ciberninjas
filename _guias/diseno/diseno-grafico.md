@@ -11,10 +11,6 @@ date: 2020-03-21
 last_modified_at: 
 permalink: /diseño-grafico/
 canonical_URL: https://ciberninjas.com/diseño-grafico/
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 thumbnail: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
 feature-img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
 img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg

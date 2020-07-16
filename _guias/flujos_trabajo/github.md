@@ -1,4 +1,5 @@
 ---
+layout: page
 author: rosepac
 bootstrap: true
 title: "\U0001F468‍\U0001F4BB ▷ Cómo aprender todo sobre Git y Github"

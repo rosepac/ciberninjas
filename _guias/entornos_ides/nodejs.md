@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👩‍🚀 🔩 ▷ NodeJS, Aprender Desde Cero Todo Lo Que Debes Saber
 description: '📌 👨‍💻 Los mejores artículos de NodeJS, librerías, plugins y aotros añadidos de NodeJS más impresionantes y espectaculares que puedes encontrar en todo Internet.'
 excerpt: '📌 👨‍💻 Los mejores artículos de NodeJS, librerías, plugins y aotros añadidos de NodeJS más impresionantes y espectaculares que puedes encontrar en todo Internet.'
@@ -7,10 +8,6 @@ comments: false
 date: 2018-03-01
 last_modified_at: 2019-09-12 12:45:10
 permalink: /nodejs/
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 ---
 
 ## Los Mejores Artículos de NodeJS

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: ▷ Cómo aprender a usar los mejores entornos en nube para desarrollar 👨‍💻 
 description: '⛅ Los Mejores Recursos para Manejar las Aplicaciones en Nube'
 excerpt: '⛅ Los Mejores Recursos para Manejar las Aplicaciones en Nube'

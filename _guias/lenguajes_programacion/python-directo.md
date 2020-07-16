@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🐍 ▷ Noticias en Directo sobre Python
 description: '📰 🐍 El Mejor Canal de Noticias sobre Python en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Lenguaje de Programación Python'
 excerpt: '📰 🐍 El Mejor Canal de Noticias sobre Python en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Lenguaje de Programación Python'

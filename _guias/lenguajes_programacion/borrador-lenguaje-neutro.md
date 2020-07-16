@@ -1,4 +1,5 @@
 ---
+layout: page
 title: ▷ Cómo Aprender Python en 2020 🐍 
 description: 'Cómo Aprender Python desde cero a experto en 2020'
 excerpt: 'Cómo Aprender Python desde cero a experto en 2020'
@@ -13,9 +14,7 @@ last_modified_at: 2020-01-10
 permalink: /python/
 thumbnail: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
 feature-img: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
-actions:
-  - label: "Recursos Python"
-    url: "/python-recursos/"
+img: https://i.ibb.co/TBZ1Y79/wallpaper-python-hello.jpg
 ---
 
 [¿Qué es Python?](/python/#qué-es-python){: .btn .btn--inverse .btn--large} [Sobre Python](/python/#sobre-python){: .btn .btn--inverse .btn--large} [¿Quién usa Python?](/python/#quién-está-usando-python){: .btn .btn--inverse .btn--large} [¿Por qué aprender Python?](/python/#por-qué-aprender-python){: .btn .btn--inverse .btn--large} [Frameworks de Python](/python/#cómo-desarrollar-una-aplicación-web-con-python){: .btn .btn--inverse .btn--large} [Bibliotecas de Python](/python/#librerías-de-python){: .btn .btn--inverse .btn--large}

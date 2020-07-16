@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👨‍🚀 ▷ Cómo Aprender Swift
 published: false
 author: rosepac

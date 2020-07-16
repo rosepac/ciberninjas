@@ -1,4 +1,5 @@
 ---
+layout: page
 title: '▷ Los mejores recursos para aprender Python 2020'
 description: '🔨 Documentación, notas, chuletas y enlaces con los que aprender el lenguaje de programación Python'
 excerpt: '🔨 Documentación, notas, chuletas y enlaces con los que aprender el lenguaje de programación Python'
@@ -12,11 +13,7 @@ last_modified_at:
 permalink: /python-recursos/
 thumbnail: /assets/img/lenguajes/python-serpiente-tablet.webp
 feature-img: /assets/img/lenguajes/python-serpiente-tablet.webp
-actions:
-  - label: 'Aprender Python'
-    url: '/python/'
-  - label: 'Glosario Python'
-    url: '/glosario/completo-tecnologias-python/'
+img: /assets/img/lenguajes/python-serpiente-tablet.webp
 ---
 
 En la página vas a poder encontrar los mejores y más actuales recursos con los que apoyarte a la hora de comenzar la compleja tarea de aprender el lenguaje de programación: Python.

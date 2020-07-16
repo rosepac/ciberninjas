@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "👨‍🏫 ▷ Cursos de Educación Específicos para Docentes y Profesorado"
 description: "🎓 ▷ Colección de 66 cursos y recursos de aprendizaje, educación, pedagogía, metodologías."
 excerpt: "🎓 ▷ Colección de 66 cursos y recursos de aprendizaje, educación, pedagogía, metodologías."
@@ -11,11 +12,7 @@ permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
 thumbnail: https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg
 feature-img: https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg
-actions:
-  - label: "Cursos Tecnología"
-    url: "/cursos-tecnologia/"
-  - label: "Cursos Microsoft"
-    url: "/cursos-tecnologia-microsoft/"
+img: https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg
 ---
 
 [📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#diversidad){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#recursos-educativos){: .btn .btn--inverse .btn--large} [😼 Más Recursos](/cursos-educacion/#más-recursos){: .btn .btn--inverse .btn--large} [Educación Primaria](/cursos-educacion/#educación-primaria){: .btn .btn--inverse .btn--large}
