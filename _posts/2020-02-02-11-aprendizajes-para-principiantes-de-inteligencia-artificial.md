@@ -4,9 +4,9 @@ author: rosepac
 bootstrap: true
 title: "▷ 11 Fórmulas de comenzar el proceso de aprender programación de Inteligencia Artificial para principiantes"
 description: >-
-  \U0001F916 Hay muchos recursos disponibles para que los principiantes desarrollen sus conocimientos y habilidades, o incluso descubran si este camino es para ellos..
+  Hay muchos recursos disponibles para que los principiantes desarrollen sus conocimientos y habilidades, o incluso descubran si este camino es para ellos..
 excerpt: >-
-  \U0001F916 Hay muchos recursos disponibles para que los principiantes desarrollen sus conocimientos y habilidades, o incluso descubran si este camino es para ellos..
+  Hay muchos recursos disponibles para que los principiantes desarrollen sus conocimientos y habilidades, o incluso descubran si este camino es para ellos..
 published: true
 comments: false
 date: 2020-03-13 10:30:12
@@ -16,11 +16,10 @@ feature-img: https://i.ibb.co/qY90TdR/photo-1531746790731-6c087fecd65a-ixlib-rb-
 permalink: /11-aprendizajes-principiantes-inteligencia-artificial/
 canonical_URL: https://ciberninjas.com/11-aprendizajes-principiantes-inteligencia-artificial/
 tags:
+- Inteligencia Artificial
 - Aprender
 - Lenguaje
 - Automático
-categories:
-- Inteligencia Artificial
 
 ---
 
@@ -105,7 +104,4 @@ La inteligencia artificial tiene tantos sectores diferentes que puedes estudiar 
 
 Hoy en día, hay un gran despliegue publicitario en torno al desarrollo de IA que está causando que las personas exageren su potencial actual. Aunque es una frontera muy emocionante para el desarrollo de software y los negocios, cualquiera que busque aprender más sobre esta  tecnología  descubrirá rápidamente sus limitaciones. Es  importante  abordar este tema con expectativas razonables si no deseas perder el interés rápidamente.
 
-> [Bryce Welker](https://twitter.com/brycewelker1){:target="_blank" rel="nofollow,noreferrer"},  Las 4 grandes firmas contables
-
-**Fuente**\: [The Newxt Web](https://thenextweb.com/podium/2019/09/13/11-ways-novices-can-start-the-process-of-learning-ai-programming/){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
+> **Fuente**\: [The Newxt Web](https://thenextweb.com/podium/2019/09/13/11-ways-novices-can-start-the-process-of-learning-ai-programming/){:target="_blank" rel="nofollow,noreferrer"}

@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- PHP
-categories:
 - Editores de Texto
+- PHP
 thumbnail: /assets/img/blog/php-ide/php-editores.webp
 feature-img: /assets/img/blog/php-ide/php-editores.webp
 title: '▷ 11 Mejores editores de código PHP y entornos de desarrollo 2020'
@@ -51,14 +50,13 @@ Cualquiera de estos editores será perfecto, al igual que cualquiera de los edit
   - [Características de Zend Studio](#características-de-zend-studio)
 - [**11. Kwrite**](#11-kwrite)
   - [Características de Kwrite](#características-de-kwrite)
-  - [Relacionados](#relacionados)
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/)
 {: .notice--danger}
 
 ## **1. Komodo PHP**
 
-Komodo es un IDE de PHP que admite tecnologías web, incluidos HTML, JavaScript, CSS, Drupal, Zend, etc. Este software te ayuda a depurar el programa PHP de forma rápida y sencilla.
+Komodo es un IDE de PHP que admite tecnologías web, incluidos HTML, JavaScript, CSS, Drupal, Zend, etc. Este software te ayuda a depurar el programa PHP de forma rápida y sencilla. Si lo deseas puedes [conocer más a fondo sobre Komodo](https://ciberninjas.com/ide-komodo-gratis/).
 
 ### Características de Komodo PHP
 
@@ -71,7 +69,8 @@ Komodo es un IDE de PHP que admite tecnologías web, incluidos HTML, JavaScript,
 - Destaca y detecta múltiples idiomas dentro de un archivo.
 - Se pueden verificar la aparición de variables en el código.
 
-[🔥 Descargar Komodo](https://ciberninjas.com/ide-komodo-gratis/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Conoce Más sobre Komodo](https://ciberninjas.com/ide-komodo-gratis/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[🔥 Descargar Komodo](https://www.activestate.com/products/komodo-ide/downloads/edit/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **2. Eclipse PHP**
 
@@ -106,7 +105,7 @@ NetBeans es un entorno de desarrollo integrado para escribir programas PHP. Tien
 
 ## **4. CodeLobster**
 
-Codelobster es un entorno de desarrollo integrado para PHP. Es compatible con numerosos complementos, incluidos JQuery, Facebook, etc.
+Codelobster es un entorno de desarrollo integrado para PHP. Es compatible con numerosos complementos, incluidos JQuery, Facebook, etc. Si lo deseas puedes conocer mucho [más y a fondo sobre Codelobster](https://ciberninjas.com/codelobster-editor-php/) en nuestra presentación del editor 👌.
 
 ### Características de CodeLobster
 
@@ -117,6 +116,7 @@ Codelobster es un entorno de desarrollo integrado para PHP. Es compatible con nu
 - Permite ocultar bloques de código en los que no está trabajando actualmente.
 - Se puede contraer el código para ver el código en detalle.
 
+[🔥 Conoce Más sobre CodeLobster](https://ciberninjas.com/codelobster-editor-php/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔥 Descargar CodeLobster](https://kutt.it/codelobster){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **5. Cloud 9**
@@ -221,11 +221,16 @@ KWrite es una herramienta ligera para escribir código PHP. Esta herramienta est
 [🔥 Descargar KWrite](https://kde.org/applications/utilities/org.kde.kwrite "Descargar el editor de texto KWrite"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.](/assets/img/blog/php-ide/php-editores.webp "Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.")
+### **Relacionados** <!-- omit in toc -->
 
-### Relacionados
-
-[▷ Zettlr: Editor de Markdown hecho a medida para el Siglo XXI](https://ciberninjas.com/zeetlr-editor-markdown/){: .btn .btn-outline-dark .btn-lg .btn-block}
 [▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[11 Mejores entornos de desarrollo para Python 2020](https://ciberninjas.com/mejores-ide-python/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[▷ Codelobster IDE: Editor de PHP, HTML, CSS, JavaScript](https://ciberninjas.com/zeetlr-editor-markdown/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[▷ Zettlr: Editor de Markdown hecho a medida para el Siglo XXI](https://ciberninjas.com/zeetlr-editor-markdown/){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🥇 Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🥇 ▷ Los 15 Mejores Lenguajes de Programación](https://ciberninjas.com/15-mejores-lenguajes-programacion/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Breve introducción a PHP y HTML](https://ciberninjas.com/php-vs-html/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Python vs PHP](https://ciberninjas.com/python-vs-php/){: .btn .btn-outline-dark .btn-lg .btn-block}
+
+![Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.](/assets/img/blog/php-ide/php-editores.webp "Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.")
