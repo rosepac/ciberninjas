@@ -14,8 +14,8 @@ description: >-
   Codelobster IDE te permite editar archivos PHP, HTML, CSS y JavaScript, resalta la sintaxis y da pistas para las etiquetas, las funciones y sus parámetros. El editor maneja fácilmente aquellos archivos que contienen un contenido mixto.
 excerpt: >-
   Codelobster IDE te permite editar archivos PHP, HTML, CSS y JavaScript, resalta la sintaxis y da pistas para las etiquetas, las funciones y sus parámetros. El editor maneja fácilmente aquellos archivos que contienen un contenido mixto.
-canonical_URL: https://ciberninjas.com/zeetlr-editor-markdown/
-permalink: /zeetlr-editor-markdown/
+canonical_URL: https://ciberninjas.com/codelobster-editor-php/
+permalink: /codelobster-editor-php/
 date: 2020-07-17 09:12:32
 last_modified_at: 
 published: true
