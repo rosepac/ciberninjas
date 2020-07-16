@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👩‍🚀 ▷ Noticias Directo sobre Javascript
 description: '📰 👩‍🚀 El Mejor Canal de Noticias sobre Javascript en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Lenguaje de Programación Javascript'
 excerpt: '📰 👩‍🚀 El Mejor Canal de Noticias sobre Javascript en Directo, las mejores Cuentas de Twitter y Personas relacionadas con el Lenguaje de Programación Javascript'
