@@ -1,15 +1,13 @@
 ---
+author: rosepac
+bootstrap: true
 title: ▷ Los Mejores Recursos para Aprender Javascript 👨‍🚀 
 description: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Javascript'
 excerpt: '🔨 Los Mejores Recursos, Chuletas y Enlaces con los que Aprender el lenguaje de programación Javascript'
 published: true
 thumbnail: /assets/img/paginas/javascript-recursos.webp
 feature-img: /assets/img/paginas/javascript-recursos.webp
-actions:
-  - label: "Aprender Javascript"
-    url: "/javascript/"
-author: rosepac
-bootstrap: true
+img: /assets/img/paginas/javascript-recursos.webp
 comments: false
 date: 2020-02-28 18:15:18
 last_modified_at: 
