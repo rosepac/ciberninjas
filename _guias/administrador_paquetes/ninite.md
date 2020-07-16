@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez
 description: "👷‍♂️ ¿Qué es Ninite? Ninite es un sistema de gestión de paquetes que ofrece la instalación automática de aplicaciones populares en el SO: Windows"
 excerpt: "👷‍♂️ ¿Qué es Ninite? Ninite es un sistema de gestión de paquetes que ofrece la instalación automática de aplicaciones populares en el SO: Windows"

@@ -14,11 +14,6 @@ comments: false
 date: 2020-02-28 12:00:03
 last_modified_at: 
 permalink: /javascript/
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
-
 ---
 
 Esta es la página perfecta donde poder resolver todas las dudas que desees respecto a JavaScript. En el siguiente contenido podrás encontrar todo lo necesario, y lo mejor de todo es que el listado irá creciendo con el paso del tiempo; así que ya sabes. Piensa en guardártelo.. 😉

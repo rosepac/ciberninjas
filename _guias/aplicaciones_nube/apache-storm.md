@@ -10,8 +10,5 @@ permalink: /apache-storm/
 canonical_URL: https://ciberninjas.com/apache-storm/
 thumbnail: "/assets/img/chocolatey-ciberninjas.jpg"
 feature-img: "/assets/img/chocolatey-ciberninjas.jpg"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+
 ---
