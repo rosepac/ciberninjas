@@ -57,11 +57,6 @@ Breve resumen de las mejores ofertas del mundo sobre los videojuegos más espect
 
 [💻 PC 🎯](https://amzn.to/2Lj2zfh){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 PS 4 🎯](https://amzn.to/2XVuHtT){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"} [🎮 XBox 🎯](https://amzn.to/33r5BEd){: .btn .btn--warning .btn--x-large}{:target="_blank" rel="nofollow,noreferrer"}
 
-
-
-
-
-
 ## 🎯 VIDEOCONSOLAS
 
 ## PlayStation 4 (PS4) +FIFA20/FUTVCH/PS y 14 días VCH/PS4 1TBF/SPA, Slim 1TB

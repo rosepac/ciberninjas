@@ -1,10 +1,10 @@
 ---
 author: rosepac
 bootstrap: true
-layout: post
-title: "🚀 ▷ Los Mejores Auriculares de 2020 🎧 "
-description: "🎶  Auriculares para trabajar, jugar o disfrutar Desarrolladores, Diseñadores y Gamers para sus mejores momentos a ."
-excerpt: "🎶 Ofertas de Auriculares para Diseñadores y Gamers del Black Friday 2019."
+layout: page
+title: 🚀 ▷ Los Mejores Auriculares de 2020 🎧
+description: 🎶  Auriculares para trabajar, jugar o disfrutar Desarrolladores, Diseñadores y Gamers
+excerpt: 🎶 Ofertas de Auriculares para Diseñadores y Gamers del Black Friday 2019
 permalink: /auriculares-diseño/
 canonical_URL: https://ciberninjas.com/auriculares-diseño/
 published: true
