@@ -35,7 +35,7 @@ Esta es la página perfecta donde poder resolver todas las dudas que desees resp
 - [Las mejores páginas, noticias, foros y redes sociales de Javascript](#las-mejores-páginas-noticias-foros-y-redes-sociales-de-javascript)
   - [Relacionados](#relacionados)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cómo aprender Javascript?**
 
@@ -89,7 +89,7 @@ Es el lenguaje de programación perfecto para la web, es capaz de actualizar y c
 
 Si desea ser un desarrollador web front-end , debe desarrollar un conocimiento sólido de estos tres idiomas. Aunque este artículo se centrará en JavaScript para el resto, sería mejor si investiga un poco más sobre HTML y CSS si aún no está familiarizado con ellos.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Sobre Javascript**
 
@@ -110,7 +110,7 @@ Cuando se creó JavaScript, inicialmente tenía otro nombre: "LiveScript". Pero 
 
 Pero a medida que evolucionó, JavaScript se convirtió en un lenguaje totalmente independiente con su propia especificación llamada ECMAScript , y ahora no tiene ninguna relación con Java.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Por qué aprender Javascript?**
 
@@ -128,7 +128,7 @@ Aunque generalmente se habla de JavaScript como un lenguaje diseñado principalm
 
 Aunque la mayoría del desarrollo de aplicaciones móviles se realiza con lenguajes específicos del sistema operativo como Swift (iOS) o Java (Android), no hay ninguna razón por la que no pueda crear aplicaciones con JavaScript. La implementación de frameworks como Phonegap y React Native ha hecho posible crear aplicaciones móviles para múltiples sistemas operativos usando el mismo código. JavaScript parece ser una gran opción para el desarrollo de aplicaciones móviles en el futuro.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Aplicaciones web y de servidor**
 
@@ -142,7 +142,7 @@ Construir tus juegos simples también es una excelente manera de practicar tus c
 
 > Tenga en cuenta que esta no es una lista exhaustiva. JavaScript es un lenguaje poderoso, y la mayoría de las cosas solo estarán limitadas por tu imaginación. 
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Frameworks Multiplataforma de Javascript**
 
@@ -190,4 +190,4 @@ En mayor o menor medida, casi todo el mundo que crea código que funciona sobre 
 
 [▷ Introducción a las nuevas características de Javascript 6](https://ciberninjas.com/javascript-6/)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

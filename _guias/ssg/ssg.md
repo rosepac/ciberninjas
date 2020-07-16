@@ -1,7 +1,8 @@
 ---
+layout: page
 title: 🥇 ▷ Guía Completa de Generadores de Sitios Estáticos o SSG y JamStack en 2020 👨‍💻
-description: "🔨 Cómo aprender desde cero todo sobre los generadores páginas web estáticos"
-excerpt: "🔨 Cómo aprender desde cero todo sobre los generadores páginas web estáticos"
+description: 🔨 Cómo aprender desde cero todo sobre los generadores páginas web estáticos
+excerpt: 🔨 Cómo aprender desde cero todo sobre los generadores páginas web estáticos
 date: 2020-03-16
 last_modified_at:
 author: rosepac
@@ -9,8 +10,9 @@ bootstrap: true
 published: true
 permalink: /ssg/
 canonical_URL: https://ciberninjas.com/ssg/
-thumbnail: "/assets/img/paginas/sitios-estaticos.webp"
-feature-img: "/assets/img/paginas/sitios-estaticos.webp"
+thumbnail: /assets/img/paginas/sitios-estaticos.webp
+feature-img: /assets/img/paginas/sitios-estaticos.webp
+img: /assets/img/paginas/sitios-estaticos.webp
 ---
 
 ![Guía Completa de Generadores de sitios estáticos en Ciberninjas](/assets/img/paginas/sitios-estaticos.webp)
@@ -25,7 +27,7 @@ Un generador de sitio estático adopta un enfoque diferente y genera todas las p
 
 [👉 Saber Más en Nuestra Wiki 🔨](/wiki/generador-de-sitios-estaticos){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Qué es StaticGen**
 
@@ -43,7 +45,7 @@ El Jamstack no se trata de tecnologías específicas. Es una nueva forma de crea
 
 Los sitios preprocesados ​​se pueden mejorar con JavaScript y las capacidades crecientes de los navegadores y servicios disponibles a través de API.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Por qué el Jamstack**
 
@@ -59,7 +61,7 @@ Con los procesos del lado del servidor abstraídos en las API de microservicio, 
 
 Cuando su implementación equivale a una pila de archivos que se pueden servir en cualquier lugar, el escalado es una cuestión de servir esos archivos en más lugares. Las CDN son perfectas para esto y, a menudo, incluyen la escala en todos sus planes.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Mejor experiencia de desarrollador**
 
@@ -79,7 +81,7 @@ Cualquier proyecto que se base en un acoplamiento estrecho entre el cliente y el
 
 Este es un listado de las mejores prácticas a seguir si deseas montar tu sitio JamStack. A la hora de crear proyectos Jamstack, realmente puedes aprovechar al máximo si prosigues algunas prácticas recomendadas; como por ejemplo, pueden ser las siguientes..
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Monta tu proyecto por completo sobre un CDN 🖐**
 
@@ -95,7 +97,7 @@ Aproveche el mundo de las herramientas de construcción modernas. Puede ser una 
 
 Debido a que el marcado Jamstack está preconstruido, los cambios de contenido no se activarán hasta que ejecute otra compilación. Automatizar este proceso te ahorrará mucha frustración. Puede hacerlo usted mismo con webhooks, o usar una plataforma de publicación que incluya el servicio automáticamente.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Despliegues atómicos 🖐**
 
@@ -108,4 +110,4 @@ Cuando el ciclo de la compilación o implementación se lanza, debes saber que y
 
 ¡Es posible que ya hayas trabajado con anterioridad en un sitio de Jamstack! Se pueden construir a mano, o con Jekyll, Hugo, Nuxt, Next, Gatsby u otros muchos; puedes conocerlos a todos desde el listad de [JamStack CMS](https://headlesscms.org/){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

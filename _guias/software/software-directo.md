@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 💻 ▷ En Directo, las Actualizaciones & Novedades Sobre los Mejores Programas de Software
 description: "💻 ▷ En Directo, las Actualizaciones & Novedades Sobre los Mejores Programas de Software"
 excerpt: "💻 ▷ En Directo, las Actualizaciones & Novedades Sobre los Mejores Programas de Software"

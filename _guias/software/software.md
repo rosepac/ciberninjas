@@ -1,8 +1,14 @@
 ---
-
+layout: page
+title: "🔨 Las Mejores Extensiones de Navegadores: Brave / Chromiun / Chrome"
+description: '🔨 Las Mejores Extensiones de Brave / Chromiun / Chrome'
+excerpt: '🔨 Las Mejores Extensiones de Brave / Chromiun / Chrome'
+author: rosepac
+bootstrap: true
 published: false
-
-
+date: 2019-10-30
+permalink: /las-mejores-extensiones-navegadores/
+canonical_URL: https://ciberninjas.com/las-mejores-extensiones-navegadores/
 ---
 
 ## Software

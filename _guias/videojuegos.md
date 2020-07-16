@@ -1,4 +1,5 @@
 ---
+layout: page
 title: ▷ Los 10 mejores motores de videojuegos 🎮
 description: 'Descubre cuáles son los 3 mejores motores de videojuegos para diseñadores de juegos de todos los niveles y conjuntos de habilidades. ¿Unity sigue siendo uno de los mejores, pero existen más?'
 excerpt: 'Descubre cuáles son los 3 mejores motores de videojuegos para diseñadores de juegos de todos los niveles y conjuntos de habilidades. ¿Unity sigue siendo uno de los mejores, pero existen más?'
@@ -9,6 +10,7 @@ comments: false
 date: 2020-01-14 22:22:22
 last_modified_at: 
 permalink: /videojuegos/
+canonical_URL: https://ciberninjas.com/videojuegos/
 ---
 <!-- https://www.gamedesigning.org/career/video-game-engines/ -->
 ## ¿Qué es un motor de videojuegos?

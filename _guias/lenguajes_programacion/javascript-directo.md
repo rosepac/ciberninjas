@@ -17,7 +17,7 @@ img: /assets/img/paginas/javascript-logo-maxima-resolucion.webp
 
 <a class="twitter-timeline" data-lang="es" data-theme="light" href="https://twitter.com/i/lists/897262127232299010?ref_src=twsrc%5Etfw">A Twitter List by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [👩‍🚀 Aprender Javascript 👩‍🚀](/javascript/){: .btn .btn--inverse .btn--large .align-center}
 [👩‍🚀 Recursos Javascript 👩‍🚀](/javascript-recursos/){: .btn .btn--inverse .btn--large .align-center}

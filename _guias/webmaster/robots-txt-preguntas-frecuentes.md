@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🤖 ▷ Preguntas Frecuentes Sobre robots.txt
 description: "🕷 Preguntas Frecuentes Sobre robots.txt"
 excerpt: "🕷 Preguntas Frecuentes Sobre robots.txt"
@@ -12,6 +13,7 @@ author: rosepac
 bootstrap: true
 thumbnail: "/assets/img/robots-txt-lupa-ciberninjas.webp"
 feature-img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
+img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -87,7 +89,7 @@ Esta es una lista con preguntas frecuentes sobre **acerca de los robots web de l
 > 🔥 Seguro también te interesa: [guía de robots.txt](/robots-txt/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Acerca de los robots WWW
 
@@ -118,7 +120,7 @@ Es un nombre técnico para programas que realizan tareas de red para un usuario,
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué es un buscador?**
 
@@ -155,7 +157,7 @@ Esto solo son nombres para el mismo tipo de cosas, con connotaciones ligeramente
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Son los robots malos para la web?**
 
@@ -182,7 +184,7 @@ Sí, existen algunos; lo más complicado es encontrarlos en español.
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Dónde puedo encontrar más información sobre robots?**
 
@@ -218,7 +220,7 @@ Esto depende de la compaía creadora de cada buscador. Muchos servicios tienen u
 - [Yahoo](https://kutt.it/webmaster-yahoo "Herramientas de Webmaster Gratuitas ofrecidas por el buscador Yahoo")
 - [Duck Duck Go](https://kutt.it/duckduckgo-subir-pagina "Herramientas de Webmaster Gratuitas ofrecidas por el buscador Duck Duck Go")
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cómo obtengo un mejor posicionamiento en los motores de búsqueda?**
 
@@ -252,7 +254,7 @@ Finalmente, si observa que un sitio busca repetidamente el archivo '/robots.txt'
 
 Si cree que ha descubierto un nuevo robot (es decir, uno que no figura en la lista de robots activos y que hace más que visitas esporádicas, envíeme un mensaje para que pueda anotarlo para futuras referencias. Pero no lo haga ¡No me cuentes sobre todos los robots que pasan!
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¡Un robot rastrea mi sitio demasiado habitualmente!**
 
@@ -266,7 +268,7 @@ Si esto sucede, hay algunas cosas que debe hacer. Lo más importante, comience a
 
 Si el robot no está en la lista, envíeme un correo electrónico con toda la información que ha recopilado, incluidas las acciones de su parte. Si no puedo ayudar, al menos puedo anotarlo para otros.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- ### ¿Cómo mantengo un robot fuera de mi servidor? -->
 ### **Normas de exclusión de robots**
 
@@ -291,7 +293,7 @@ Ver también:
 
 - [¿Puedo bloquear solo robots malos?](/robots-txt-preguntas-frecuentes/#se-puede-bloquear-solo-a-los-robots-malos)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Dónde descubro cómo funcionan los archivos /robots.txt?**
 
@@ -328,7 +330,7 @@ No debe colocar más de una ruta en una línea Disallow (esto puede cambiar en u
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué programa debo usar para crear /robots.txt?**
 
@@ -360,7 +362,7 @@ Si desea más control, cambie de proveedor a un host virtual.
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué pasa si no puedo crear un archivo robots.txt?**
 
@@ -393,7 +395,7 @@ Podría ser que estuviese escrito por un redactor / desarrollador de software si
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Se puede usar un documento /robots.txt ante un juicio?**
 
@@ -447,7 +449,7 @@ La verdadera respuesta es que /robots.txt no está diseñado para el control de 
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Acerca de las etiquetas META**
 
@@ -479,7 +481,7 @@ Si por lo contrario, te refieres a un archivo [robots.txt](/robots.txt)
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Dónde puedo obtener el código fuente de un robot?**
 
@@ -503,4 +505,4 @@ Este documento especifica un Localizador Uniforme de Recursos (URL), la sintaxis
 
 [⏫ Regresar al Menú](/robots-txt-preguntas-frecuentes/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

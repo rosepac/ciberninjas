@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Drupal
 published: false
 author: rosepac
@@ -6,8 +7,8 @@ bootstrap: true
 comments: false
 date: 2019-07-17 09:07:07
 permalink: /drupal/
-
 ---
+
 ## ¿Qué es Drupal?
 
 Drupal es un sistema gratuito de gestión de contenido de código abierto (CMS) con una gran comunidad de apoyo. Millones de personas y organizaciones de todo el mundo lo utilizan para crear y mantener sus sitios web. Probablemente use Drupal todos los días sin saberlo, ya que muchas de las principales empresas y organizaciones gubernamentales utilizan Drupal, como el Gobierno de Australia, la Cruz Roja, Harvard, The Economist, BBC, NBC News, Whole Foods, Cisco, Twitter y muchos, muchos Más.

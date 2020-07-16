@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🥇 ▷ La Guía Web Completa de Rastreadores Web y robots.txt 🤖
 description: "✅ Buscadores, rastreadores web, arañas, robots y bots; aprende todo para mejorar tu página web"
 excerpt: "✅ Buscadores, rastreadores web, arañas, robots y bots; aprende todo para mejorar tu página web"
@@ -12,6 +13,7 @@ author: rosepac
 bootstrap: true
 thumbnail: "/assets/img/robots-txt-lupa-ciberninjas.webp"
 feature-img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
+img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -43,7 +45,7 @@ Con esta página traemos toda la información necesaria para ser todo un maestro
 > 🔥 Seguro también te interesa: [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Qué es robots.txt?**
 
@@ -85,7 +87,7 @@ El estándar /robots.txt no se desarrolla activamente. Consulte [¿Qué pasa con
 
 El resto de esta página ofrece una descripción general de cómo usar /robots.txt en su servidor, con algunas recetas simples. Para obtener más información, consulte también las [preguntas frecuentes](https://www.robotstxt.org/faq.html) .
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cómo crear un archivo /robots.txt?**
 
@@ -143,7 +145,7 @@ Disallow:
 
 (o simplemente cree un archivo "/robots.txt" vacío, o no use ninguno)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Para excluir todos los robots de parte del servidor**
 
@@ -193,7 +195,7 @@ Disallow: /~carpeta-personal/bar.html
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Acerca de la META etiqueta robots**
 
@@ -226,7 +228,7 @@ La etiqueta META también se describe en [la especificación HTML 4.01, Apéndic
 
 A continuación se ofrece una descripción general de cómo usar las etiquetas <META> de robots en tu página web, con algunos ejemplos simples. Para obtener más información, consulta nuestra página de [preguntas frecuentes o FAQ](https://www.robotstxt.org/faq.html).
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **¿Cómo escribir una metaetiqueta de robots?**
 
@@ -260,7 +262,7 @@ Muchas personas terminan en este sitio porque tienen preguntas sobre robots y mo
 - [Centro de ayuda de Google Web Search en Español](https://support.google.com/webmasters/search?q=robots){:target="_blank" rel="nofollow,noreferrer"}
 - [Centro de ayuda para webmasters de Google](https://www.google.com/intl/es/webmasters/#?modal_active=none){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Sitios sobre motores de búsqueda**
 
@@ -292,7 +294,7 @@ Sitios muy útiles para webmasters:
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## **Rastreadores de código abierto**
 
@@ -317,7 +319,7 @@ Sitios muy útiles para webmasters:
 
 [⏫ Regresar al Menú](/robots-txt/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- https://www.keycdn.com/blog/web-crawlers los 10 rastreadores web más conocidos. -->
 <!-- https://prowebscraper.com/blog/50-best-open-source-web-crawlers/ Los 50 Rastreadores Web Más -->
 <!-- https://www.nichemarket.co.za/blog/nichemarket-advice/6-web-crawling-tools 6 herramientas de web rastreo -->

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "🤖 ▷ Robots.txt: Un estándar para la exclusión de robots"
 description: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
 excerpt: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
@@ -12,6 +13,7 @@ permalink: /standar-original-robots-txt/
 canonical_URL: https://ciberninjas.com/standar-original-robots-txt/
 thumbnail: "/assets/img/robots-txt-lupa-ciberninjas.webp"
 feature-img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
+img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
 # toc: true
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
@@ -41,7 +43,7 @@ Estos incidentes indicaron la necesidad de mecanismos establecidos para los serv
 > 🔥 Seguro también te interesa: [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [aprender posicionamiento web](/posicionamiento-web-seo/) >> [recursos de posicionamiento y seo](/posicionamiento-seo-recursos/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--warning}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Estado de este documento
 
@@ -64,7 +66,7 @@ La elección de la URL fue motivada por varios criterios:
 - El nombre del archivo debe indicar el propósito del archivo y ser fácil de recordar.
 - La probabilidad de un choque con los archivos existentes debe ser mínima.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## El formato
 
@@ -86,7 +88,7 @@ El registro comienza con una o más `User-agent` líneas, seguido de una o más 
 
 La presencia de un " `/robots.txt`" archivo vacío no tiene una semántica asociada explícita, se tratará como si no estuviera presente, es decir, todos los robots se considerarán bienvenidos.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Ejemplos
 
@@ -122,7 +124,7 @@ Agente de usuario: *
 No permitir: /
 ```
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Código de ejemplo
 
@@ -138,4 +140,4 @@ Aunque no es parte de esta especificación, algunos códigos de ejemplo en Perl 
 {: .notice--info}
 <!-- https://www.robotstxt.org/orig.html -->
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

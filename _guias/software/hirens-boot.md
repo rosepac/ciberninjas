@@ -1,17 +1,18 @@
 ---
+layout: page
 title: 👩‍🔧 ▷ Hiren´s BootCD PE, Aprender desde Cero
 description: "Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
 excerpt: "Hiren´s BootCD PE, ISO con todas las herramientas necesarias tras una instalación."
 date: 2019-05-16 09:25:00 +0200
 last_modified_at: 
-
 author: rosepac
 bootstrap: true
 permalink: /hirens-bootcd-pe/
 canonical_URL: https://ciberninjas.com/hirens-bootcd-pe/
 comments: false
-thumbnail: "/assets/img/paginas/Hirens-Boot-CD.webp"
-feature-img: "/assets/img/paginas/Hirens-Boot-CD.webp"
+thumbnail: /assets/img/paginas/Hirens-Boot-CD.webp
+feature-img: /assets/img/paginas/Hirens-Boot-CD.webp
+img: /assets/img/paginas/Hirens-Boot-CD.webp
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -20,7 +21,28 @@ toc_sticky: true
 
 Hiren's BootCD PE (entorno de preinstalación) es una edición restaurada del **reconocido Hiren's BootCD**basada en Windows 10 PE x64. Como no hay actualizaciones oficiales después de noviembre de 2012, **los fanáticos de Hiren's BootCD están desarrollando la versión PE que incluye herramientas gratuitas**, mejoras y actualizadas utilizadas en Hiren's BootCD. Se está desarrollando para las computadoras de la nueva era, admite el arranque UEFI y requiere un mínimo de 2 GB de RAM.
 
-## Introducción 🥇
+- [**Introducción a Hiren´s Boot CD**](#introducción-a-hirens-boot-cd)
+- [**Sobre Hiren´s Boot CD 🏛**](#sobre-hirens-boot-cd-)
+- [**Software Incluidos 🔧**](#software-incluidos-)
+  - [Herramientas BCD-MBR](#herramientas-bcd-mbr)
+  - [Recuperación de Datos](#recuperación-de-datos)
+  - [Herramientas de Disco Duro](#herramientas-de-disco-duro)
+  - [Recuperación de Windows](#recuperación-de-windows)
+  - [Otras herramientas](#otras-herramientas)
+  - [Herramientas de Extraíbles](#herramientas-de-extraíbles)
+  - [Seguridad](#seguridad)
+  - [Herramientas de Sistema](#herramientas-de-sistema)
+  - [Red](#red)
+- [**Descargar Hiren´s BootCD PE 💿**](#descargar-hirens-bootcd-pe-)
+- [**Preguntas Frecuentes sobre Hiren´s Boot ❔**](#preguntas-frecuentes-sobre-hirens-boot-)
+  - [👉 **¿Hay algún minero de bitcoin o software malicioso infectado en su ISO?**](#-hay-algún-minero-de-bitcoin-o-software-malicioso-infectado-en-su-iso)
+  - [👉 **¿Es legal usar Windows PE?**](#-es-legal-usar-windows-pe)
+  - [👉 **HBCD PE incluye software como Acronis, ¿Es legal?**](#-hbcd-pe-incluye-software-como-acronis-es-legal)
+  - [👉 **¿Por qué el arranque de DVD se cuelga en la pantalla del logotipo de Windows?**](#-por-qué-el-arranque-de-dvd-se-cuelga-en-la-pantalla-del-logotipo-de-windows)
+  - [👉 **¿Por qué recibo una advertencia de virus para un archivo descargado de su sitio web?**](#-por-qué-recibo-una-advertencia-de-virus-para-un-archivo-descargado-de-su-sitio-web)
+  - [👉 **¿Pueden enviarme una copia física del CD a mi dirección?**](#-pueden-enviarme-una-copia-física-del-cd-a-mi-dirección)
+
+## **Introducción a Hiren´s Boot CD**
 
 Con estas herramientas útiles dentro de la ISO puedes resolver muchos problemas relacionados con tu computadora, no contiene ningún software pirateado, solamente incluye software gratuito y legal.
 
@@ -28,7 +50,7 @@ Después del arranque, la versión PE intenta instalar controladores como gráfi
 
 Los lanzamientos oficiales de [las versiones antiguas](https://www.hirensbootcd.org/old-versions/){:target="_blank" rel="nofollow,noreferrer"} aún están disponibles. en nuestra  página de Versiones Antiguas.
 
-## Sobre Hiren´s Boot CD 🏛
+## **Sobre Hiren´s Boot CD 🏛**
 
 Hiren's BootCD es una gran herramienta que ha ayudado a muchas personas a reparar sus problemas relacionados con el ordenador durante años. Dado que encontrar y descargar la versión oficiales de Hiren's BootCD fue un gran problema, el sitio web Hirensbootcd.org se desarrolló en 2010 para ayudar a las personas a encontrar y descargar las ISO del proyecto de manera segura y rápida.
 
@@ -48,9 +70,9 @@ Sabemos que hay toneladas de software útil para propósitos de uso diario. Pero
 
 Hiren's BootCD PE debe incluir las herramientas gratuitas más pequeñas y mejores solo para los casos de emergencia.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## Software Incluidos 🔧
+## **Software Incluidos 🔧**
 
 ### Herramientas BCD-MBR
 
@@ -162,19 +184,19 @@ Hiren's BootCD PE debe incluir las herramientas gratuitas más pequeñas y mejor
 * Mozilla Firefox v60.0.1.6710
 * PENetwork v0.59.0.4
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## Descargar Hiren´s BootCD PE 💿
+## **Descargar Hiren´s BootCD PE 💿**
 
 [⬇ DESCARGAR ⬇](https://www.hirensbootcd.org/files/HBCD_PE_x64.iso "Descarga Directa de la ISO de Hiren Boot CD PE x64 desde la Web Oficial"){: .btn .btn--inverse .btn--x-large .align-center}
 
-## Preguntas Frecuentes ❔
+## **Preguntas Frecuentes sobre Hiren´s Boot ❔**
 
 ### 👉 **¿Hay algún minero de bitcoin o software malicioso infectado en su ISO?**
 
 No hay bitcoin ni ningún otro minero infectado en nuestros archivos ISO o en nuestra herramienta ISO2USB. No hay software malicioso, el código está incluido en los archivos alojados en nuestro sitio web. Todo esta limpio.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 👉 **¿Es legal usar Windows PE?**
 
@@ -205,34 +227,23 @@ Lamentablemente, no podemos ofrecer ese tipo de ayuda con o sin precio.
 **Fuente**: Ver [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren"){:target="_blank" rel="nofollow,noreferrer"}. **Edición**: Esta guía fue creada originalmente el 10 de Noviembre de 2019 y editada por última vez el 16 de Mayo de 2020.
 {: .notice--info}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### **Relacionados**
+### **Relacionados** <!-- omit in toc -->
 
-[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/)
-
-[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/)
-
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
 [▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10](https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/)
 
-[10 Mejores VPN GRATIS para Windows en 2020](https://ciberninjas.com/mejores-vpn-windows/)
+[10 Mejores VPN GRATIS para Windows en 2020](https://ciberninjas.com/mejores-vpn-windows/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🍫 ▷ Chocolatey, Aprender Desde Cero](https://ciberninjas.com/chocolatey/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez](https://ciberninjas.com/ninite/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo](https://ciberninjas.com/mejor-software-dibujo-windows-android/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
-
-[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/)
-
-[💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
-
-[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/)
-
-[🍫 ▷ Chocolatey, Aprender Desde Cero](https://ciberninjas.com/chocolatey/)
-
-[🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez](https://ciberninjas.com/ninite/)
-
-[🥇 ▷ Las 8 mejores aplicaciones de dibujo](https://ciberninjas.com/mejor-software-dibujo-windows-android/)
-
-[👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/)
-
-[Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
-
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

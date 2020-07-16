@@ -1,3 +1,24 @@
+---
+layout: page
+title: "🤖 ▷ Robots.txt: Un estándar para la exclusión de robots"
+description: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
+excerpt: "🕷 Esta página muestra el primer Standar creado en 1994 escrito por Martijn Koster"
+published: false
+comments: false
+author: rosepac
+bootstrap: true
+date: 2020-03-10
+last_modified_at: 
+permalink: /standar-original-robots-txt/
+canonical_URL: https://ciberninjas.com/standar-original-robots-txt/
+thumbnail: "/assets/img/robots-txt-lupa-ciberninjas.webp"
+feature-img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
+img: "/assets/img/robots-txt-lupa-ciberninjas.webp"
+# toc: true
+# toc_label: "Contenidos"
+# toc_icon: user-ninja
+# toc_sticky: true
+---
 
 Bien sea que se esté preparando para su primer compromiso de hablar, o para hablar en su evento número 100 o no esté seguro de cómo comenzar, esta guía lo llevará por el camino correcto. He recopilado consejos de más de 30 entrevistas que he hecho con conferenciantes, docenas de publicaciones de blog que leí y mi propia experiencia como orador para crear esta guía integral para hablar en conferencias de tecnología.
 

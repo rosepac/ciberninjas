@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 👨‍💻 ▷ Gravite, Aprender desde Cero
 description: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"
 excerpt: "🛠 Jekyll, el mejor generador ⭐ de contenidos estático. Aprende desde cero todo lo que debes saber"

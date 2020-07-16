@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🥇 ▷ La Mejor Caja de Herramientas de Webmaster para 2020 🧰
 author: rosepac
 bootstrap: true
@@ -12,6 +13,7 @@ permalink: /recursos-herramientas-webmaster/
 canonical_URL: https://ciberninjas.com/recursos-herramientas-webmaster/
 thumbnail: "/assets/img/paginas/webmaster.webp"
 feature-img: "/assets/img/paginas/webmaster.webp"
+img: "/assets/img/paginas/webmaster.webp"
 toc: false
 toc_label: "Contenidos"
 toc_icon: user-ninja

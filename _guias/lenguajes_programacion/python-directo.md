@@ -15,7 +15,7 @@ canonical_URL: https://ciberninjas.com/python-directo/
 
 <a class="twitter-timeline" data-lang="es" data-theme="light" href="https://twitter.com/ciberninjas/lists/python-relacionado1?ref_src=twsrc%5Etfw">A Twitter List by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🐍 Aprender Python 🐍](/python/){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Recursos Python 🐍](/python-recursos/){: .btn .btn--inverse .btn--large .align-center}

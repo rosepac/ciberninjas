@@ -32,7 +32,7 @@ Esto se logra mediante la descarga de una lista actualizada de aplicaciones y su
 
 Los beneficios de usar Ninite en lugar de los instaladores de las aplicaciones individuales incluyen: instalaciones sin Adware de barras de herramientas, la capacidad de actualizar múltiples aplicaciones a la vez, selección automática de arquitectura (64 bits 0 32 bits), selección de idioma según el idioma del sistema operativo e informe de errores, en el caso de que una de las instalaciones falle.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## ⚙ Funcionamiento
 
@@ -64,7 +64,7 @@ Para los amantes del Software y Código Libre:
 
 Estos tipo de enlaces son excelentes para hacer soporte técnico remoto en ordenadores de amigos y familiares.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## 🏳 Selección de Idioma
 
@@ -96,7 +96,7 @@ Ninite siempre ha declinado las variadas ofertas de insertar barras de herramien
 
 Si existen advertencias irrelevantes o experimentes fallos en la descarga si tienes un software de seguridad configurado para advertir sobre la mera presencia de ofertas no deseadas en los instaladores. Es seguro ignorar esto sin problemas porque Ninite opta por no instalar nada de toda esa basura.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## ✅ Software Ofrecido
 
@@ -198,4 +198,4 @@ Sitio Web Oficial: [Página web oficial de Ninite dentro del instalador múltipl
 
 [Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

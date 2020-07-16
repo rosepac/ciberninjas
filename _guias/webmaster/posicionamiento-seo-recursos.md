@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🕵️‍♂️ ▷ Recursos y Herramientas de Posicionamiento Web y SEO 
 author: rosepac
 bootstrap: true
@@ -12,6 +13,7 @@ permalink: /posicionamiento-seo-recursos/
 canonical_URL: https://ciberninjas.com/posicionamiento-seo-recursos/
 thumbnail: "/assets/img/paginas/seo-portada.webp"
 feature-img: "/assets/img/paginas/seo-portada.webp"
+img: "/assets/img/paginas/seo-portada.webp"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -24,7 +26,7 @@ En esta publicación vas a poder encontrar todos los mejores enlaces sobre conte
 > 🔥 Seguro también te interesa: [aprender posicionamiento web](/posicionamiento-web-seo/) >> [guía de robots.txt](/robots-txt/) >> [preguntas frecuentes sobre robots.txt](/robots-txt-preguntas-frecuentes/) >> [recursos webmaster](/recursos-herramientas-webmaster/) >> [cursos gratis de seo](/cursos-tecnologia/#seo-y-posicionamiento-) >> >> [libros gratis de seo](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-) >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/)
 {: .notice--danger}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Los Mejores Artículos de SEO
 
@@ -37,7 +39,7 @@ En esta publicación vas a poder encontrar todos los mejores enlaces sobre conte
 - [Guía de Robots.txt de Ciberninjas](/robots-txt/)
 - [Guí de Optimización de CSS](https://www.humanlevel.com/articulos/desarrollo-web/optimizacion-de-css.html){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Los Mejores Artículos de SEO en Inglés
 
@@ -72,7 +74,7 @@ En esta publicación vas a poder encontrar todos los mejores enlaces sobre conte
 
 - [Exportar Palabras Clave](https://www.mecagoenlos.com/tools/){:target="_blank" rel="nofollow,noreferrer"} 1- Exporta hasta 50.000 KWs de Google Search Console. 2- Exporta también las URLs (query + page).3- Totalmente gratis. (2020)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Las Mejores Herramientas de Redes Sociales
 
@@ -99,4 +101,4 @@ En esta publicación vas a poder encontrar todos los mejores enlaces sobre conte
 - [Días Internacionales, Día a Día](https://www.diainternacionalde.com){:target="_blank" rel="nofollow,noreferrer"}
 - [Días Internacionales: Unesco](http://www.unesco.org/new/es/unesco/events/prizes-and-celebrations/celebrations/international-days/){:target="_blank" rel="nofollow,noreferrer"}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
