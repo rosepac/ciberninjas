@@ -1,6 +1,6 @@
 ---
 
-title: '🚀 ¿Qué es Ionic? Conoce este espectacular framework multiplataforma'
+title: '🚀 ¿Qué es Ionic? Un espectacular framework multiplataforma'
 excerpt: '👩‍🚀 Conocer todo sobre el framework de Ionic, sus metas, su licencia, su CLI, su compatibilidad con otros frameworks y sus novedades.'
 description: '👩‍🚀 Conocer todo sobre el framework de Ionic, sus metas, su licencia, su CLI, su compatibilidad con otros frameworks y sus novedades.'
 published: true
@@ -25,8 +25,6 @@ canonical_URL: https://ciberninjas.com/ionic-framework/
 ---
 
 Ionic es un SDK front-end de código abierto para desarrollar aplicaciones móviles híbridas que utilizan tecnologías web como HTML, CSS y JavaScript. Proporciona componentes basados ​​en tecnología web optimizada para dispositivos móviles, así como API nativas que utilizan Cordova e Ionic Native.
-
-![Logotipo del Framework Ionic](https://i.ibb.co/3SbbVS3/ionic-framework-og.png "Logotipo del Framework Ionic")
 - [**¿Qué es el Framework Ionic?**](#qué-es-el-framework-ionic)
 - [**El enfoque Multiplataforma de Ionic**](#el-enfoque-multiplataforma-de-ionic)
 - [**Ionic se basa en estándares web**](#ionic-se-basa-en-estándares-web)
@@ -72,7 +70,7 @@ Ionic Framework está construido desde el punto de vista de la simplicidad, de m
 
 ## **CLI Ionic**
 
-El oficial [CLI iónico](https://ionicframework.com/docs/cli), o Command Line Interface, es una herramienta que andamia rápidamente las aplicaciones de Ionic y proporciona una serie de comandos útiles para los desarrolladores de Ionic. Además de instalar y actualizar Ionic, la CLI viene con un servidor de desarrollo integrado, herramientas de compilación y depuración, y mucho más. Si es miembro de [Ionic Appflow](https://ionicframework.com/docs/intro#ionic-appflow) , la CLI se puede utilizar para realizar compilaciones e implementaciones en la nube y administrar su cuenta.
+El oficial [CLI iónico](https://ionicframework.com/docs/cli){:target="_blank" rel="nofollow,noreferrer"}, o Command Line Interface, es una herramienta que andamia rápidamente las aplicaciones de Ionic y proporciona una serie de comandos útiles para los desarrolladores de Ionic. Además de instalar y actualizar Ionic, la CLI viene con un servidor de desarrollo integrado, herramientas de compilación y depuración, y mucho más. Si es miembro de [Ionic Appflow](https://ionicframework.com/docs/intro#ionic-appflow){:target="_blank" rel="nofollow,noreferrer"}, la CLI se puede utilizar para realizar compilaciones e implementaciones en la nube y administrar su cuenta.
 
 ## **Compatibilidad del Framework Ionic**
 
@@ -96,7 +94,7 @@ Se incluye `@ionic/angular` con toda la funcionalidad que los desarrolladores de
 
 Ionic ahora tiene soporte oficial para la popular biblioteca React.
 
-Ionic React permite a los desarrolladores de React usar sus habilidades web existentes para crear aplicaciones que se dirigen a iOS, Android, la web y el escritorio. Con `@ionic/react`, puedes usar todos los componentes principales de Ionic, pero de una manera que se siente como usar componentes nativos de React.
+Ionic React permite a los desarrolladores de React usar sus habilidades web existentes para crear aplicaciones que se dirigen a iOS, Android, la web y el escritorio. Con `@ionic/react` puedes usar todos los componentes principales de Ionic, pero de una manera que se siente como usar componentes nativos de React.
 
 ## **El futuro de Ionic**
 
@@ -104,7 +102,7 @@ Se espera soporte para otros frameworks en futuras versiones. Actualmente se est
 
 ## **La versión 4+ de Ionic**
 
-Ionic Framework V4 es un avance importante en la tecnología subyacente y las capacidades del proyecto, con un enfoque en el rendimiento, la compatibilidad y la extensibilidad general. Aunque V4 todavía se integra profundamente con Angular a través del paquete `@ionic/angular` ahora también es independiente del framework, lo que significa que puede funcionar con cualquier otro framework de JavaScript (Vue, React, Preact, etc.), o sin ningún framework.
+Ionic Framework V4 es un avance importante en la tecnología subyacente y las capacidades del proyecto, con un enfoque en el rendimiento, la compatibilidad y la extensibilidad general. Aunque V4 todavía se integra profundamente con Angular a través del paquete `@ionic/angular` que ahora también es independiente del framework, lo que significa que puede funcionar con cualquier otro framework de JavaScript (Vue, React, Preact, etc.), o sin ningún framework.
 
 Al pasar a los estándares web, V4 permite que el núcleo de Ionic confíe en el modelo de componente estándar compatible con los navegadores modernos, en lugar de un modelo específico del framework. Esto puede significar un tiempo de carga más rápido, un mejor rendimiento y menos código general.
 
@@ -124,8 +122,11 @@ Hay millones de desarrolladores de Ionic en más de 200 países en todo el mundo
 - [GitHub:](https://github.com/ionic-team/ionic) para informar errores o solicitar nuevas funciones, cree un problema aquí. PRs bienvenidos!
 - [Autoría de contenido:](https://ionicframework.com/contributors) escriba un blog técnico o comparta su historia con la comunidad de Ionic.
 
-[👉 Conceptos Básicos de Ionic](/ionic-framework-concepto/){: .btn .btn--inverse .btn--x-large .align-center}
-[👉 Introducción a Ionic](/ionic-4-0-introduccion-ionic-para-todos){: .btn .btn--inverse .btn--x-large .align-center}
-  
-**Fuente**: [Doc. Ionic](https://ionicframework.com/docs)
+![Ionic es un SDK front-end de código abierto para desarrollar aplicaciones móviles híbridas que utilizan tecnologías web como HTML, CSS y JavaScript. Proporciona componentes basados ​​en tecnología web optimizada para dispositivos móviles, así como API nativas que utilizan Cordova e Ionic Native.](/assets/img/2020-news/ionic-4-2020.webp "Ionic es un SDK front-end de código abierto para desarrollar aplicaciones móviles híbridas que utilizan tecnologías web como HTML, CSS y JavaScript. Proporciona componentes basados ​​en tecnología web optimizada para dispositivos móviles, así como API nativas que utilizan Cordova e Ionic Native.")
+
+[👉 Conceptos Básicos de Ionic](/ionic-framework-concepto/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Introducción a Ionic](/ionic-4-0-introduccion-ionic-para-todos){: .btn .btn-outline-light .btn-lg .btn-block}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+> **Fuente**: [Documentación Oficial de Ionic](https://ionicframework.com/docs)
 {: .notice--info}
