@@ -1,9 +1,8 @@
 ---
+
 author: rosepac
 bootstrap: true
-# title: "▷ Los Mejores Descuentos del Prime Day 2020 💥"
-# description: "♥ Prime Day Amazon 2020 🔥 todas las mejores ofertas."
-# excerpt: "♥ Prime Day Amazon 2020 🔥 todas las mejores ofertas."
+layout: page
 title: "🔥 ▷ Los Mejores Descuentos en Flash en Informática y Electrónica durante todo 2020"
 description: "📢 Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos"
 excerpt: "📢 Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos"
@@ -14,15 +13,7 @@ comments: false
 date: 2020-09-01 10:30:00 +0200
 thumbnail: https://i.ibb.co/0rXN63g/amazon-prime-day.gif
 feature-img: /assets/img/ciberninjas-prime-day.jpg
-actions:
-  - label: "Black Friday 2020"
-    url: "/black-friday-amazon/"
-  - label: "Disney"
-    url: "/disney-frozen-amazon/"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: false
+
 ---
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)

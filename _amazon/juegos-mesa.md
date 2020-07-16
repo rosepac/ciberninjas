@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: page
 title: "borrador"
 description: "🌟 borrador navidad"
 excerpt: "🌟 borrador navidad"

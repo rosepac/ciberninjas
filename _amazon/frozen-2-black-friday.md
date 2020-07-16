@@ -1,6 +1,8 @@
 ---
+
 author: rosepac
 bootstrap: true
+layout: page
 title: "Juguetes de Frozen 2, tu Mejor Regalo por Navidad ⛄"
 description: "👸 Ofertas de juguetes en Black Friday."
 excerpt: "👸 Ofertas de juguetes en Black Friday."
@@ -11,6 +13,7 @@ comments: false
 date: 2019-11-23 08:50:00 +0200
 thumbnail: https://i.ibb.co/pdvtTgP/olaf-comiendo-xd.gif
 feature-img: https://i.ibb.co/r3V9HRW/34605751714-d713169d14-b.jpg
+
 ---
 
 El actual estreno de Frozen 2 hará de sus personajes el mejor regalo para todos los pequeños y no tan pequeños durante estas Navidades que ya están a la vuelta de la esquina.

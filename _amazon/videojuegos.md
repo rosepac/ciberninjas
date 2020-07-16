@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: page
 title: "🔥 Las mejores ofertas de los más esperados videojuegos de 2020"
 description: "Las ofertas de juegos más espectaculares y novedososos para 2020 junto a las mejores videoconsolas y ordenadores para disfrutar de ellos"
 excerpt: "Las ofertas de juegos más espectaculares y novedososos para 2020 junto a las mejores videoconsolas y ordenadores para disfrutar de ellos"
@@ -10,8 +11,8 @@ published: true
 comments: false
 date: 2019-11-29 04:44:00 +0100
 last_modified_at: 2020-02-20 21:40:00 +0100
-thumbnail: https://i.ibb.co/gRGCvXw/battlefield-1-gif.gif
-feature-img: https://i.ibb.co/PjPSZcf/consola-mando-joystick-1.jpg
+thumbnail: /assets/img/amazon/consola-mando-joystick-1.webp
+feature-img: /assets/img/amazon/consola-mando-joystick-1.webp
 ---
 
 [🎯 Videoconsolas](/videojuegos/#-videoconsolas){: .btn .btn--inverse .btn--large} [🎮 Videojuegos](/videojuegos/#-videojuegos){: .btn .btn--inverse .btn--large}

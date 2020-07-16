@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+layout: page
 title: "🏡 ▷ Las Mejores Ofertas de Dispositivos Inteligentes de Amazon en 2020, 🎁 ¡OFERTAZAS!"
 description: "💻 Sorprende a cualquier programador con un regalo excelente: Comprale uno de estos Echo Dot, Fire, Bombillas Inteligentes o Fire TV y mucho más."
 excerpt: "💻 Sorprende a cualquier programador con un regalo excelente: Comprale uno de estos Echo Dot, Fire, Bombillas Inteligentes o Fire TV y mucho más."
