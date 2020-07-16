@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🐤 ▷ Instagram, Aprender desde Cero
 description: "Aprende a Manejar y Los Mejores Trucos sobre Instagram. Desde cero todo lo que debes saber"
 excerpt: "Aprende a Manejar y Los Mejores Trucos sobre Instagram. Desde cero todo lo que debes saber"

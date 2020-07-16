@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "👩‍🔧 ▷ Gephi: La plataforma de Gráficos Abierta, Aprender desde Cero"
 description: "📊 Gephi: La plataforma de Gráficos Abierta."
 excerpt: "📊 Gephi: La plataforma de Gráficos Abierta."
@@ -10,6 +11,7 @@ permalink: /gephi/
 canonical_URL: https://ciberninjas.com/gephi/
 thumbnail: "https://i.ibb.co/z7HxWMB/graphi-graficos-creados-cuentas.jpg"
 feature-img: "https://i.ibb.co/z7HxWMB/graphi-graficos-creados-cuentas.jpg"
+img: "https://i.ibb.co/z7HxWMB/graphi-graficos-creados-cuentas.jpg"
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja

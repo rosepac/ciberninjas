@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 🐤 ▷ Telegram, Aprender desde Cero
 description: "Aprende a Manejar y Los Mejores Trucos sobre Twitter. Desde cero todo lo que debes saber"
 excerpt: "Aprende a Manejar y Los Mejores Trucos sobre Twitter. Desde cero todo lo que debes saber"
@@ -8,6 +9,7 @@ published: false
 permalink: /telegram/
 canonical_URL: https://ciberninjas.com/telegram/
 thumbnail: https://i.ibb.co/JF0PGRS/twitter-pajaro-feliz.gif
+img: https://i.ibb.co/JF0PGRS/twitter-pajaro-feliz.gif
 feature-img: https://i.ibb.co/Vt92M9W/photo-1551817958-20204d6ab212-ixlib-rb-1-2.jpg
 toc: true
 toc_label: "Contenidos"
