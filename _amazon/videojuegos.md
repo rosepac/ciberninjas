@@ -11,8 +11,9 @@ published: true
 comments: false
 date: 2019-11-29 04:44:00 +0100
 last_modified_at: 2020-02-20 21:40:00 +0100
-thumbnail: /assets/img/amazon/consola-mando-joystick-1.webp
-feature-img: /assets/img/amazon/consola-mando-joystick-1.webp
+thumbnail: /assets/img/paginas/amazon/consola-mando-joystick-1.webp
+feature-img: /assets/img/paginas/amazon/consola-mando-joystick-1.webp
+img: /assets/img/paginas/amazon/consola-mando-joystick-1.webp
 ---
 
 [🎯 Videoconsolas](/videojuegos/#-videoconsolas){: .btn .btn--inverse .btn--large} [🎮 Videojuegos](/videojuegos/#-videojuegos){: .btn .btn--inverse .btn--large}

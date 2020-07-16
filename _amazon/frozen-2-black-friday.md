@@ -11,8 +11,9 @@ canonical_URL: https://ciberninjas.com/disney-frozen-amazon/
 published: true
 comments: false
 date: 2019-11-23 08:50:00 +0200
-thumbnail: https://i.ibb.co/pdvtTgP/olaf-comiendo-xd.gif
-feature-img: https://i.ibb.co/r3V9HRW/34605751714-d713169d14-b.jpg
+thumbnail: /assets/img/paginas/amazon/frozen-2.webp
+feature-img: /assets/img/paginas/amazon/frozen-2.webp
+img: /assets/img/paginas/amazon/frozen-2.webp
 
 ---
 

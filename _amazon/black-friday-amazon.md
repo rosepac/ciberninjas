@@ -10,16 +10,18 @@ canonical_URL: https://ciberninjas.com/black-friday-amazon/
 published: true
 comments: false
 date: 2019-11-29 05:26:00 +0200
-thumbnail: 'https://i.ibb.co/R2WZfKG/black-friday-day.gif'
-feature-img: 'https://i.ibb.co/nMt3KBQ/amazon-alexa-1.jpg'
+thumbnail: /assets/img/paginas/amazon/black-friday.webp
+feature-img: /assets/img/paginas/amazon/black-friday.webp
+img: /assets/img/paginas/amazon/black-friday.webp
 ---
-[🎄 25% EN ACCESORIOS KINDLE, FIRE Y ECHO 🎄](https://amzn.to/387xK6J){: .btn .btn--inverse .btn--x-large .align-center}
-
-[💣 Ofertas Black Friday](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [🏡 Dispositivos Inteligentes Amazon](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💌 Cheques & Tarjetas Regalo](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💖 Amazon Prime](/black-friday-amazon/#preguntas-y-respuestas-amazon-prime){: .btn .btn--inverse .btn--large} [❔ Detalles](/black-friday-amazon/#detalles-de-la-semana-black-friday-2019){: .btn .btn--inverse .btn--large} [🎁 Más Black Friday](/black-friday-amazon/#-más-black-friday){: .btn .btn--inverse .btn--large}
 
 Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre la semana del Black Friday 2019 de Amazon. Hasta el momento el Black Friday era unicamente un día, como mucho dos; pues bien, este año Amazon nos ha ampliado el plazo de compras rebajadas a toda una semana. De hecho, exactamente 8 días; serán los que los usuarios podremos tener para lograr cazar los mejores chollos.
 
+[🎄 25% EN ACCESORIOS KINDLE, FIRE Y ECHO 🎄](https://amzn.to/387xK6J){: .btn .btn--inverse .btn--x-large .align-center}
+
 Entre las muchas ofertas que nos propone Amazon, yo diría que lo más asombroso y económico son sus ofertas flash por eso no debeís de dejar de seguirme a través de [Twitter](https://kutt.it/ciberninjast){:target="_blank" rel="nofollow,noreferrer"} en el que iré subiendo todos aquellos productos con precios históricos que encuentre dentro de las ofertas flash, entre otras variopintas ofertas más.
+
+[💣 Ofertas Black Friday](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--large} [🏡 Dispositivos Inteligentes Amazon](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💌 Cheques & Tarjetas Regalo](/black-friday-amazon/#dispositivos-de-amazon){: .btn .btn--inverse .btn--large} [💖 Amazon Prime](/black-friday-amazon/#preguntas-y-respuestas-amazon-prime){: .btn .btn--inverse .btn--large} [❔ Detalles](/black-friday-amazon/#detalles-de-la-semana-black-friday-2019){: .btn .btn--inverse .btn--large} [🎁 Más Black Friday](/black-friday-amazon/#-más-black-friday){: .btn .btn--inverse .btn--large}
 
 Realmente de entre todo lo que he ojeado he podido encontrar excelentes descuentos en [airpods](https://amzn.to/2OxIFOg){:target="_blank" rel="nofollow,noreferrer"}, [auriculares Sennheiser](https://amzn.to/2OcBXyh){:target="_blank" rel="nofollow,noreferrer"} y [auriculares inalámbricos Anker](https://amzn.to/2KNwSKx){:target="_blank" rel="nofollow,noreferrer"}, además de infinitos descuentos en tecnología para la casa como [aspiradores Roomba](https://amzn.to/35tJvm1){:target="_blank" rel="nofollow,noreferrer"} y [escobas eléctricas](https://amzn.to/2sapBOC){:target="_blank" rel="nofollow,noreferrer"}, [termómetros inteligentes](https://amzn.to/2KNV4MO){:target="_blank" rel="nofollow,noreferrer"}, [ollas de cocina](https://amzn.to/37txnDj){:target="_blank" rel="nofollow,noreferrer"}.
 
@@ -27,13 +29,13 @@ Realmente de entre todo lo que he ojeado he podido encontrar excelentes descuent
 
 Además, Amazon ha lanzando una inumerable lista de ofertas sobre todos sus dispositivos. Rebajando su precios; el [Kindle Paperwhite](https://amzn.to/35y054l){:target="_blank" rel="nofollow,noreferrer"} resistente al agua desde 100 €, el [Echo Show 5](https://amzn.to/37uLmsC){:target="_blank" rel="nofollow,noreferrer"} con pantalla y Alexa desde 50 €, [Echo Dot](https://amzn.to/2XEYZAK){:target="_blank" rel="nofollow,noreferrer"} de diferentes colores por solo 22 €
 
-## Ofertas Black Friday
+## **Ofertas Black Friday 2020**
 
 Las ofertas incluidas a continuación, y muchas más, estarán disponibles en varias fechas y horarios entre el 22 de noviembre y el 29 de noviembre (Black Friday), hasta agotar existencias.
 
-## Dispositivos de Amazon
+## **Dispositivos de Amazon**
 
-## Dispositivos Echo Dot y Echo Show
+## **Dispositivos Echo Dot y Echo Show**
 
 * [Echo Dot (3.ª generación)](https://amzn.to/2OAXDTz){:target="_blank" rel="nofollow,noreferrer"} con un descuento de 38 €
 * [Nuevo Amazon Echo (3.ª generación)](https://amzn.to/2KPxgZc){:target="_blank" rel="nofollow,noreferrer"} con un descuento de 35 €
@@ -45,7 +47,7 @@ Las ofertas incluidas a continuación, y muchas más, estarán disponibles en va
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
 
-## Dispositivos TV y Portero con Videollamada
+## **Dispositivos TV y Portero con Videollamada**
 
 * [Amazon Fire TV Stick](https://amzn.to/35qnWTf){:target="_blank" rel="nofollow,noreferrer"} 15 € más barato de lo normal
 * [Amazon Fire TV Stick 4K Ultra HD](https://amzn.to/2Db98f8){:target="_blank" rel="nofollow,noreferrer"} 20 € más barato de lo normal
@@ -57,7 +59,7 @@ Las ofertas incluidas a continuación, y muchas más, estarán disponibles en va
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
 
-## Dispositivos de Cámaras de Seguridad
+## **Dispositivos de Cámaras de Seguridad**
 
 * [Amazon Smart Plug x4](https://amzn.to/35y2Xy9){:target="_blank" rel="nofollow,noreferrer"} 17 € más barato por comprar este Pack de 4
 * [Cámara de Seguridad Inteligente Blink XT2 Negro](https://amzn.to/2OgFvzD){:target="_blank" rel="nofollow,noreferrer"} con 30 € de descuento
@@ -69,7 +71,7 @@ Las ofertas incluidas a continuación, y muchas más, estarán disponibles en va
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
 
-## Tablets Electrónicas
+## **Tablets Electrónicas**
 
 * [Fire 7 - 32 GB](https://amzn.to/2OfcIeF){:target="_blank" rel="nofollow,noreferrer"} con 20 € de descuento
 * [Fire 8 HD - 16 GB](https://amzn.to/34jUZsg){:target="_blank" rel="nofollow,noreferrer"} con 30 € de descuento
@@ -81,7 +83,7 @@ Las ofertas incluidas a continuación, y muchas más, estarán disponibles en va
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
 
-## Echo Dot ⏰ y Echo Flex + 💡
+## **Echo Dot ⏰ y Echo Flex + 💡**
 
 * [Echo Dot con Reloj](https://amzn.to/2OavFz3){:target="_blank" rel="nofollow,noreferrer"} solamente por 35 €
 * [Echo Flex + Philips Hue White Pack de 2 bombillas](https://amzn.to/2QU4z19){:target="_blank" rel="nofollow,noreferrer"} solamente por 35 €
@@ -105,7 +107,7 @@ Las ofertas incluidas a continuación, y muchas más, estarán disponibles en va
 <!-- ## Ofertas Portátiles / Laptops / Informática -->
 <!-- ## Ofertas Smartwarches -->
 
-## Cheques & Tarjetas de Regalo
+## **Cheques & Tarjetas de Regalo**
 
 * [Cheque Regalo Navidad Amazon](https://amzn.to/2rmJlOl){:target="_blank" rel="nofollow,noreferrer"}
 * [Cajita Cheque Regalo Navidad](https://amzn.to/2Obuq2I){:target="_blank" rel="nofollow,noreferrer"}
@@ -120,7 +122,7 @@ Regalo de 100 € para la Playstation Store.
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
 
-## Preguntas y Respuestas: Amazon Prime
+## **Preguntas y Respuestas: Amazon Prime**
 
 👉 [Aquí podrás salir de todas tus posibles dudas](https://ciberninjas.com/prime-day-amazon/#preguntas-y-respuestas){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -129,7 +131,7 @@ Regalo de 100 € para la Playstation Store.
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
 
 
-## Detalles de la Semana Black Friday 2019
+## **Detalles de la Semana Black Friday 2020**
 
 Esto es todo lo que debes saber sobre la Semana de Amazon Black Friday que ya ha comenzado; el Black Friday que más ofertas al día y descuentos va a acumular; aprovecha con mayor antelación que nunca para realizar las compras de tus regalos para las vacaciones navideñas.
 
@@ -143,13 +145,13 @@ Además de la amplia selección de ofertas y descuentos disponibles durante la s
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
 
-## Sobre los Enlaces
+### Sobre los Enlaces <!-- omit in toc -->
 
 Sobre los enlaces de nuestras ofertas, se ha creado el artículo con la idea de ayudar. A cambio de ello, he tomado la licencia de agregar enlaces de afiliado; con los que podrás ayudarme haciendo clic en ellos de forma independiente, ya que así puedo ganar una comisión por cualquier compra que realices, sin que esto conlleve ningún costo adicional para ti.
 
 [🔝 REGRESAR 🔝](/black-friday-amazon/#ofertas-black-friday){: .btn .btn--inverse .btn--x-large .align-center}
 
-## 🎁 Más Black Friday
+## **🎁 Más Black Friday**
 
 [🎮 OFERTAS DE VIDEOJUEGOS 🎮](/videojuegos/){: .btn .btn--info .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [⛄ OFERTAS JUGUETES FROZEN ⛄](/disney-frozen-amazon/){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

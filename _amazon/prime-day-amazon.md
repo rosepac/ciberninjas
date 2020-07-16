@@ -11,8 +11,9 @@ canonical_URL: https://ciberninjas.com/prime-day-amazon/
 published: true
 comments: false
 date: 2020-09-01 10:30:00 +0200
-thumbnail: https://i.ibb.co/0rXN63g/amazon-prime-day.gif
-feature-img: /assets/img/ciberninjas-prime-day.jpg
+thumbnail: /assets/img/amazon/ciberninjas-prime-day.webp
+feature-img: /assets/img/amazon/ciberninjas-prime-day.webp
+img: /assets/img/amazon/ciberninjas-prime-day.webp
 
 ---
 
@@ -30,13 +31,10 @@ feature-img: /assets/img/ciberninjas-prime-day.jpg
 <!-- PRIME DAY DE AMAZON DEL 2020 -->
 <!-- Esta publicación está aquí para ayudarte a encontrar todo lo que necesitas saber sobre Prime Day 2020, desde los [mejores artículos seleccionados](https://amzn.to/2lCB9XF) para comprar hasta cómo evitar las malas ofertas. -->
 <!-- En definitiva, una pequeña guía de Prime Day, que espero vaya creciendo año a año. -->
-___
 
 > [¡Sigue las Mejores Ofertas Flash!](https://kutt.it/ciberninjast)  
 
-___
-
-## Ofertas de Componentes de Ordenador
+## **Ofertas de Componentes de Ordenador**
 
 ![Entrada de los Componentes de Ordenador](https://i.ibb.co/XssqD3C/amazon-prime-componentes-1.webp)
 

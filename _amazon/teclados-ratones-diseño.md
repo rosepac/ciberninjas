@@ -10,8 +10,9 @@ canonical_URL: https://ciberninjas.com/teclados-ratones-diseño/
 published: true
 comments: false
 date: 2019-11-29 22:14:00 +0200
-thumbnail: 'https://i.ibb.co/XtXfLzh/raton-ordenador.gif'
-feature-img: 'https://i.ibb.co/B4R7crh/teclado-mesa-pcx1280.jpg'
+thumbnail: /assets/img/paginas/amazon/teclado-mesa-pcx1280.webp
+feature-img: /assets/img/paginas/amazon/teclado-mesa-pcx1280.webp
+img: /assets/img/paginas/amazon/teclado-mesa-pcx1280.webp
 ---
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-editores-texto/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/) >> [mejores regalos 2 - 🎁](/prime-day-amazon/)
