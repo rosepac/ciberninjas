@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-layout: page
+layout: post
 title: "🚀 ▷ Los Mejores Auriculares de 2020 🎧 "
 description: "🎶  Auriculares para trabajar, jugar o disfrutar Desarrolladores, Diseñadores y Gamers para sus mejores momentos a ."
 excerpt: "🎶 Ofertas de Auriculares para Diseñadores y Gamers del Black Friday 2019."
@@ -12,6 +12,7 @@ comments: false
 date: 2019-11-29 15:32:01 +0200
 thumbnail: /assets/img/paginas/los-mejores-dispositivos/auriculares-diseno.webp
 feature-img: /assets/img/paginas/los-mejores-dispositivos/auriculares-beats-6.webp
+img: /assets/img/paginas/los-mejores-dispositivos/auriculares-beats-6.webp
 ---
 
 En esta publicación vamos a realizar un repaso, entre algunos de los más espectaculares y mejores auriculares para diseñadores, los gamers y todo aquel que ame la tecnología al máximo.. 😻
