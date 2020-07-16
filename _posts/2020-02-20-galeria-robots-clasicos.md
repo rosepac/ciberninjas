@@ -133,12 +133,12 @@ Niños en el norte de Hampshire, Inglaterra, se encuentran con un robot Charles 
 ![](../assets/img/blog/robots/23-robots-12.jpg)
 
 **Año 1981**: Robobuck Steve Brooks de Londres
-
-**Fuente**\: [Imágenes históricas del archivo de la página web MSHCDN](https://web.archive.org/web/20110119082648/http://mshcdn.com/ "Imágenes históricas del archivo de la página web MSHCDN"){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
 <!-- https://fishki.net/1821784-1928-1981-rassvet-robotov.html , http://cyberneticzoo.com/robots/1980-mr-robotham-the-great-peter-holland-british/ -->
-## Relacionados
 
-* [🤖 ▷ Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/)
-* [📰 ¿Somos Cyborgs? Según Elon Musk, ya lo somos](/somos-cyborgs/ "Somos Cyborgs. Según Elon Musk, ya lo somos")
-* [📰 Primera Ley con Regulación del Hacking Genético](/ley-contra-el-biohacking/ "La Primera Ley con Regulación del Hacking Genético")
+### **Relacionados**
+
+[🤖 ▷ Cuándo y dónde aparece por primera vez la palabra robots](/aparicion-palabra-robot/)
+[📰 ¿Somos Cyborgs? Según Elon Musk, ya lo somos](/somos-cyborgs/ "Somos Cyborgs. Según Elon Musk, ya lo somos")
+[📰 Primera Ley con Regulación del Hacking Genético](/ley-contra-el-biohacking/ "La Primera Ley con Regulación del Hacking Genético")
+
+> **Fuente**\: [Imágenes históricas del archivo de la página web MSHCDN](https://web.archive.org/web/20110119082648/http://mshcdn.com/ "Imágenes históricas del archivo de la página web MSHCDN"){:target="_blank" rel="nofollow,noreferrer"}

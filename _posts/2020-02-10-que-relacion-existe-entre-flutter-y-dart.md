@@ -66,8 +66,7 @@ Aparte de eso, las clases Dart solo admiten la herencia única, por lo que solo 
 
 Hasta aquí, nuestro primer vistazo a Dart y Flutter en conjunto.. 😉
 
-**Fuente**\: [Techno Bugg](https://www.technobugg.com/how-dart-language-is-related-to-flutter/){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
+> **Fuente**\: [Techno Bugg](https://www.technobugg.com/how-dart-language-is-related-to-flutter/){:target="_blank" rel="nofollow,noreferrer"}
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}

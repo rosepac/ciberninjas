@@ -54,10 +54,9 @@ En 1933, se publicó un relato explicativo de sobre cómo ocurrió el momento ex
 
 "Pero", dijo el autor, "No sé cómo llamar a esos trabajadores artificiales. Podría llamarlos Labori, pero eso me parece demasiado libresco". Y entonces, **Josef Čapek propuso murmurando: "Entonces llámalos Robots"**, con su brocha en la boca y siguió pintando. Y así fue. **Así nació la palabra Robot**.
 
-**Fuente**\: [Página Web de Karel Čapek](https://web.archive.org/web/20130121200017/http://capek.misto.cz/english/index.html "Página Web de Karel Čapek"){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
-
 ## Relacionados
 
 * [📰 ¿Somos Cyborgs? Según Elon Musk, ya lo somos](/somos-cyborgs/ "Somos Cyborgs. Según Elon Musk, ya lo somos")
 * [📰 Primera Ley con Regulación del Hacking Genético](/ley-contra-el-biohacking/ "La Primera Ley con Regulación del Hacking Genético")
+
+> **Fuente**\: [Página Web de Karel Čapek](https://web.archive.org/web/20130121200017/http://capek.misto.cz/english/index.html "Página Web de Karel Čapek"){:target="_blank" rel="nofollow,noreferrer"}

@@ -1,24 +1,23 @@
 ---
-title: "\U0001F575️‍♀️ Más Opciones para Ayudar a los Sitios Web a Obtener una Vista Previa de su Contenido en la Búsqueda de Google"
-description: "\U0001F4F1\U0001F50D Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a través de su buscador, por John Mueller"
-excerpt: "\U0001F4F1\U0001F50D Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a través de su buscador, por John Mueller"
+
+author: rosepac
+bootstrap: true
+title: Nuevas Opciones para Ayudar a los Sitios Web a Obtener una Vista Previa de su Contenido en la Búsqueda de Google
+description: Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a través de su buscador, por John Mueller
+excerpt: Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a través de su buscador, por John Mueller
 date: 2019-09-24 15:00:00 +0200
 permalink: /opciones-ayudar-sitios-web-vista-previa
 canonical_URL: 'https://ciberninjas.com/opciones-ayudar-sitios-web-vista-previa'
-categories:
+tags:
   - Actualidad
   - Google Webmaster
-tags:
   - Ayudar
   - Sitio Web
   - Búsqueda
   - Vista Previa
   - Rastreo
   - Indexación
-toc: true
-toc_label: Contenidos
-toc_icon: user-ninja
-toc_sticky: true
+
 ---
 
 > 📰 📱🔍 Metaetiquetas y robots, aprender paso a paso a implementar las nuevas vistas previas que muestra Google a trav&eacute;s de su buscador, por [John Mueller](https://twitter.com/johnmu?rel=rel)\: analista de tendencias para webmasters

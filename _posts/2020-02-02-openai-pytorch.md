@@ -39,5 +39,4 @@ La razón principal por la que elegimos PyTorch es por considerar que aumenta nu
 
 En el futuro usaremos principalmente PyTorch como nuestro framework de aprendizaje profundo, aunque a veces usemos otros si lo consideramos adecuado, por exclusivas razones técnicas específicas. Muchos de nuestros equipos ya han implementado el cambio y esperamos pdoer comenzar a contribuir a la comunidad PyTorch en la mayor brevedad de tiempo.
 
-**Fuente**\: [Open AI - PyTorch](https://openai.com/blog/openai-pytorch/){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
+> **Fuente**\: [Open AI - PyTorch](https://openai.com/blog/openai-pytorch/){:target="_blank" rel="nofollow,noreferrer"}

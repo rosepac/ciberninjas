@@ -33,5 +33,4 @@ Guía de inicio rápido sobre el uso de Lighthoouse**: [Web de la documentación
 
 **Página web de la extensión de Chrome**: [Lighthouse](https://kutt.it/lighthousegithub){:target="_blank" rel="nofollow,noreferrer"}
 
-**Fuente**\: [Repositorio Github del Proyecto Lighthouse](https://kutt.it/lighthousedoc){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
+> **Fuente**\: [Repositorio Github del Proyecto Lighthouse](https://kutt.it/lighthousedoc){:target="_blank" rel="nofollow,noreferrer"}

@@ -614,17 +614,17 @@ AutoCAD 2020 (Manuales Imprescindibles) (2020)
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
 ## 👉 Saber Más
+
 <details>
 <summary>❔ Infórmate 👇</summary>
 <br/>
 <p>Poco a poco, vamos a crear un largo catálogo de los mejores productos geeks con los que realizar los más impresionantes regalos a las personas que les encanta el mundo de la tecnología, los gadgets tecnológicos, la música y las series indies, los comics, el manga.</p>
 <p></p>
 </details>
+<br/>
 
-Los enlaces aquí expuestos funcionan a través de [Coockies](https://kutt.it/cookies) de Amazon y redirigen a páginas de afiliados. Si desea conocer más sobre esto: [Sigue Leyendo](/aviso-legal/)
-{: .notice--warning}
-
-Con la compra a través de estos enlaces se apoya y ayudaa a financiar el tiempo dedicado a la página web, --¡Muchas Gracias!--
-{: .notice--info}
+> Los enlaces aquí expuestos funcionan a través de [Coockies](https://kutt.it/cookies) de Amazon y redirigen a páginas de afiliados. Si desea conocer más sobre esto: [Sigue Leyendo](/aviso-legal/)
+>
+> Con la compra a través de estos enlaces se apoya y ayudaa a financiar el tiempo dedicado a la página web, --¡Muchas Gracias!--
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}

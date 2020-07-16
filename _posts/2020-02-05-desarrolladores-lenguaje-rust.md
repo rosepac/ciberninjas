@@ -54,5 +54,4 @@ Luego están los problemas de seguridad de la memoria que Microsoft está explor
 
 Pero Goulding también reconoce problemas con Rust. Un problema es que su sistema de tipo fuerte y su énfasis en la seguridad de la memoria dan como resultado errores frecuentes al compilar código. 
 
-**Fuente**\: [Tech Republic](https://www.zdnet.com/article/developers-love-rust-programming-language-heres-why/){:target="_blank" rel="nofollow,noreferrer"}
-{: .notice--info}
+> **Fuente**\: [Tech Republic](https://www.zdnet.com/article/developers-love-rust-programming-language-heres-why/){:target="_blank" rel="nofollow,noreferrer"}
