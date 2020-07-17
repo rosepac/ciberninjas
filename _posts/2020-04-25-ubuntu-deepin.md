@@ -54,7 +54,7 @@ A diferencia de Deepin Linux, UbuntuDDE no utiliza la tienda de aplicaciones de 
 
 ## **Descargar UbuntuDDE**
 
-[⏩ Probar UbuntuDDE (NO recomendado en Producción)](https://ubuntudde.com/download/){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Probar UbuntuDDE (NO recomendado en Producción)](https://ubuntudde.com/download/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Relacionados <!-- omit in toc -->
@@ -67,8 +67,8 @@ A diferencia de Deepin Linux, UbuntuDDE no utiliza la tienda de aplicaciones de 
 [📲 DahliaOS, un Fork del Sistema Operativo: FuchsiaOS](/dahliaos-un-fork-del-sistema-operativo-fuchsiaos){: .btn .btn-outline-dark .btn-lg .btn-block}
 [▷ El mejor software de seguridad para tu PC en 2020 🔐](/el-mejor-software-de-seguridad-para-tu-pc/){: .btn .btn-outline-dark .btn-lg .btn-block}
 
-![Deepin (DDE) es un entorno de trabajo con una interfaz intuitiva. El proyecto UbuntuDDE combina el poder de Ubuntu con la belleza de Deepin](/assets/img/blog/captura-pantalla-ubuntudde.webp "Deepin (DDE) es un entorno de trabajo con una interfaz intuitiva. El proyecto UbuntuDDE combina el poder de Ubuntu con la belleza de Deepin")
-
 > 🔥 Seguro también te interesa: [mejores sistemas para hacking](/7-mejores-distribuciones-escritorio-para-principiantes/){:target="_blank" rel="nofollow,noreferrer"} >> [mejores páginas aprender hacking](https://steemit.com/hive-154806/@rosepac/12-1-mejores-paginas-web-en-las-que-aprender-hacking-etico-12-1-best-websites-to-learn-ethical-hacking){:target="_blank" rel="nofollow,noreferrer"} >> [mejores libros de programación](/programar/) >> [programas para desarrolladores](/7-mejores-distribuciones-escritorio-para-principiantes/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
+
+![Deepin (DDE) es un entorno de trabajo con una interfaz intuitiva. El proyecto UbuntuDDE combina el poder de Ubuntu con la belleza de Deepin](/assets/img/blog/captura-pantalla-ubuntudde.webp "Deepin (DDE) es un entorno de trabajo con una interfaz intuitiva. El proyecto UbuntuDDE combina el poder de Ubuntu con la belleza de Deepin")
 
 <!-- https://www.comss.ru/page.php?id=7290 -->
