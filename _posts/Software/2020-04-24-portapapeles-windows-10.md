@@ -4,10 +4,11 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Portapapeles
-- Windows
-categories:
 - Software
+- Windows
+- Optimizar Windows
+- Portapapeles
+categories:
 thumbnail: /assets/img/blog/windows-portapapeles.webp
 feature-img: /assets/img/blog/windows-portapapeles.webp
 title: '🥇 ▷ Deja de perder texto e imágenes de forma permanente con el portapapeles de Windows 10'

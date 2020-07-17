@@ -4,9 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Windows 10
-categories:
 - Software
+- Windows
+- Optimizar Windows
 thumbnail: /assets/img/2020-news/aplicaciones-windows.webp
 feature-img: /assets/img/2020-news/aplicaciones-windows.webp
 title: '▷ Cómo eliminar aplicaciones integradas en Windows 10'

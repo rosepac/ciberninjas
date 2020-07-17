@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Consejos
-categories:
 - Teletrabajo
+- Consejos
 thumbnail: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
 feature-img: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
 title: '🥇 ▷ Las 18 mejores prácticas para teletrabajar en 2020'

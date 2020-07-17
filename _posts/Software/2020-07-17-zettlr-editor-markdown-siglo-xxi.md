@@ -5,7 +5,6 @@ bootstrap: true
 comments: false
 tags:
 - Editores de Texto
-- Software
 - Markdown
 thumbnail: /assets/img/2020-news/zettlr-editor-texto.webp
 feature-img: /assets/img/2020-news/zettlr-editor-texto.webp

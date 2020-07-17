@@ -4,10 +4,10 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Capturas de Pantalla
-- Windows
-categories:
 - Software
+- Windows
+- Capturas de Pantalla
+categories:
 thumbnail: /assets/img/blog/8-capturas-pantalla.webp
 feature-img: /assets/img/blog/8-capturas-pantalla.webp
 title: '8 Fórmulas diferentes de crear una captura de pantalla en Windows 10'

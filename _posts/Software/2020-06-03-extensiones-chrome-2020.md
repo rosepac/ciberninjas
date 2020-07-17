@@ -5,9 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Chrome
-- Extensiones
+- Extensiones Navegadores
 categories:
-- Navegadores
 thumbnail: /assets/img/blog/chrome-extensiones.webp
 feature-img: /assets/img/blog/chrome-extensiones.webp
 title: 'Las 7 mejores extensiones de Google Chrome 2020'

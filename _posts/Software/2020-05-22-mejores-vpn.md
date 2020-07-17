@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Software Redes
 - VPN
-categories:
-- Software
 thumbnail: /assets/img/blog/mejor-vpn.webp
 feature-img: /assets/img/blog/mejor-vpn.webp
 title: '10 Mejores VPN GRATIS para Windows en 2020'

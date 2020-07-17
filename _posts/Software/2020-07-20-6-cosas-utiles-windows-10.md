@@ -4,9 +4,10 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Windows 10
-categories:
 - Software
+- Windows
+- Optimizar Windows
+categories:
 thumbnail: /assets/img/2020-news/caract-windows-10.webp
 feature-img: /assets/img/2020-news/caract-windows-10.webp
 title: '▷ 6 Características útiles de Windows 10 que quizás no conozcas'

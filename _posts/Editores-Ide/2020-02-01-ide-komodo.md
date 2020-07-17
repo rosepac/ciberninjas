@@ -13,10 +13,9 @@ thumbnail: /assets/img/blog/python-ide/komodo-ide.webp
 feature-img: /assets/img/blog/python-ide/komodo-ide.webp
 permalink: /ide-komodo-gratis/
 canonical_URL: https://ciberninjas.com/ide-komodo-gratis/
-categories:
-- SDK Multiplataforma
-- Editores de Texto
 tags:
+- Editores de Texto
+- SDK Multiplataforma
 - Komodo
 
 ---

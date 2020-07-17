@@ -4,9 +4,10 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Windows 10
-categories:
 - Software
+- Sistemas Operativos
+- Windows
+- Linux
 thumbnail: /assets/img/2020-news/caract-windows-10.webp
 feature-img: /assets/img/2020-news/caract-windows-10.webp
 title: '▷ 7 Características que Windows 10 robo prestadas de Linux'

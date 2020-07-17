@@ -13,7 +13,7 @@ tags:
   - Editores de Texto
   - Github
   - Codespace
-  - Visual Studio
+  - Visual Studio Code
 thumbnail: /assets/img/blog/10-codespace-editor-github.webp
 feature-img: /assets/img/blog/10-codespace-editor-github.webp
 

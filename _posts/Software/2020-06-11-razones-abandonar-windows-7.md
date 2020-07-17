@@ -4,9 +4,10 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Windows 10
+- Sistemas Operativos
+- Windows
+- Optimizar Windows
 categories:
-- Software
 thumbnail: /assets/img/blog/windows-10.webp
 feature-img: /assets/img/blog/windows-10.webp
 title: '▷ 5 razones para abandonar Windows 7 y actualizar a Windows 10'
@@ -30,19 +31,19 @@ Sin embargo, muchos todavía no están listos para cambiar a las versiones más 
 
 **¡Ha llegado el momento de que Windows 7 pase a la historia!** Si todavía estas utilizando en un sistema operativo antiguo, aquí hay cinco buenas razones para qe finalmente actualices tu sistema operativo.
 
-## 1. **Seguridad**
+## **1. Seguridad**
 
 Dado que Microsoft dejó de admitir Windows 7, el sistema es muy vulnerable y se volverá más vulnerable en el futuro. Los agujeros de seguridad no se cerrarán con actualizaciones periódicas, lo que hará del Seven un objetivo ideal para virus y ciberdelincuentes.
 
 Por lo tanto, debes utilizar el sistema antiguo bajo tu propio cuenta y riesgo. O actualizar a Windows 10 y olvidarte de los virus y el resto de amenazas.
 
-## 2. **Compatibilidad del software**
+## **2. Compatibilidad del software**
 
 Intenta ejecutar la última versión de Google Chrome en Windows XP: y comprobarás que serás capaz. Los fabricantes de software no fabrican sofware para las viejas versiones de hardware, cada día exigen un hardware más potente y actualizado; por tanto, pronto puedes verte con problemas a la hora de usar diferentes aplicaciones sobre Windows 7.
 
 Por ejemplo, el software de Google Chrome solo se actualizará en Windows 7 hasta 2021. Luego, si deseas seguir utilizando tendrás que descargar viejas versiones del navegador para que sea compatible con tu viejo sistema operativo; y eso, hará que el propio software no sea compatible con los sitios web más modernos.
 
-## 3. **Nuevos videojuegos**
+## **3. Nuevos videojuegos**
 
 Otra ventaja por la que debes instalar Windows 10, son los videojuegos. En Windows 10, puedes jugar a los videojuegos más nuevos y además, a cualquier otro videojuego más viejos. Pero para Windows 7, cada día que se anuncia un nuevo videojuego, parece que cada día que pasa se encuentra destinado a tener un futuro más complicado.
 
@@ -50,7 +51,7 @@ Algunos desarrolladores ya exgen Windows 8.1 o Windows 10 como sistema operativo
 
 Si eeres una persona interesada en los juegos, definitivamente, Windows 10 es tu elección.
 
-## 4. **Mejor soporte**
+## **4. Mejor soporte**
 
 Windows 10 funciona con controladores mucho más eficientes que Windows 7. El propio Sistema Operativo descarga todos los componentes necesarios por su propia cuenta, y es capaz de encontrar el hardware conectado sin la intervención del usuario.
 
@@ -60,13 +61,13 @@ Pero aún hay más, porque la peor parte es la falta de nuevas tecnologías que 
 
 Entonces, ante la situación del uso de nuevo hardware o con vistas a futuras actualizaciones de componentes, en la mayoría de casos Windows 7 funcionará peor que Windows 10. Si deseas utilizar nuevos procesadores y otros componentes modernos con los que exprimir el potencial de tu ordenador, deberás actualizar a Windows 10.
 
-## 5. **Nuevas características**
+## **5. Nuevas características**
 
 Windows 10 está repleto de funciones útiles que no existen y que ya no están en Windows 7. Como por ejemplo, el modo de inicio rápido que permite que la computadora se encienda instantáneamente, una función de control de memoria, los escritorios virtuales y mucho más.
 
 Finalmente, gracias a la nueva interfaz, con un aspecto mucho más bonito y moderno. Windows 10 pasa por ser mucho más elegante que Windows 7.
 
-### **Conclusión**
+### Conclusión
 
 Windows 7 fue muy bueno en su lanzamiento, pero ha pasado mucho tiempo desde entonces y dado que ha sido descontinuado por completo y no recibirá nuevas funciones, ni actualizaciones; más temprano que tarde, pasará a quedarse fuera del futuro y el progreso de los sistemas operativos.
 

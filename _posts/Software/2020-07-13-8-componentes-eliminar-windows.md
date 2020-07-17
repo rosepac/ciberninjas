@@ -4,9 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Windows 10
-categories:
 - Software
+- Windows
+- Optimizar Windows
 thumbnail: /assets/img/2020-news/limpiar-aplicaciones-windows10.webp
 feature-img: /assets/img/2020-news/limpiar-aplicaciones-windows10.webp
 title: '▷ 8 Componentes inútiles de Windows 10 que debes deshabilitar o eliminar'

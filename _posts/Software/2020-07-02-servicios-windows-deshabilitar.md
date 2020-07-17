@@ -4,9 +4,10 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Windows 10
-categories:
 - Software
+- Windows
+- Optimizar Windows
+categories:
 thumbnail: /assets/img/2020-news/windows-servicios-des.webp
 feature-img: /assets/img/2020-news/windows-servicios-des.webp
 title: '▷ ¿Qué servicios de Windows se pueden deshabilitar para acelerar el sistema?'

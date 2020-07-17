@@ -1,12 +1,11 @@
 ---
 title: "🎓 El Elemento: Descubrir tu pasión lo cambia todo de Ken Robinson"
-categories:
-  - Catálogo
-  - Desarrollo Personal
 tags:
-  - Libro
-  - Debolsillo (Editorial)
+  - Catálogo
+  - Libros
+  - Guías de Educación
   - Ken Robinson
+  - Desarrollo Personal
 comments: false
 date: 2020-02-09 21:10:00 +0100
 permalink: /catalogo/descubrir-tu-pasion/
@@ -16,10 +15,6 @@ excerpt: >-
   🎓 Ken Robinson es uno de los principales pensadores y oradores del mundo sobre creatividad y realización personal, El Elemento: Descubrir tu pasión lo cambia todo es un libro innovador sobre talento y pasión.
 thumbnail: /assets/img/catalogo/el-elemento-descubrir-tu-pasion-b.webp
 feature-img: /assets/img/catalogo/el-elemento-descubrir-tu-pasion-b.webp
-toc: true
-toc_label: Contenidos
-toc_icon: user-ninja
-toc_sticky: true
 author: rosepac
 bootstrap: true
 ---

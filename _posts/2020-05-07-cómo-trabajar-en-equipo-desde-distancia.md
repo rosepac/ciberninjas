@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Consejos
-categories:
 - Teletrabajo
+- Consejos
 thumbnail: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
 feature-img: /assets/img/blog/trabajo-desde-casa-teletrabajo.webp
 title: '¿Cómo aprender a trabajar productivamente en equipo desde la distancia?'
@@ -142,14 +141,14 @@ Con un nivel medio de competencia técnica y una conexión a Internet razonable,
 No hay una única forma de trabajo remoto; Es un viaje individual. Todos los que trabajan a distancia tienen una historia diferente, un trabajo diferente y una motivación diferente. En realidad, todo lo que necesita para trabajar a distancia es un espacio dedicado, una computadora portátil y conectividad a Internet que permita la comunicación por video.
 
 ### Índice <!-- omit in toc-->
-- [**Introducción**](#introducci%c3%b3n)
-- [**¿Cómo han cambiado las prácticas laborales?**](#%c2%bfc%c3%b3mo-han-cambiado-las-pr%c3%a1cticas-laborales)
-- [**¿Qué es el trabajo remoto?**](#%c2%bfqu%c3%a9-es-el-trabajo-remoto)
+- [**Introducción**](#introducción)
+- [**¿Cómo han cambiado las prácticas laborales?**](#cómo-han-cambiado-las-prácticas-laborales)
+- [**¿Qué es el trabajo remoto?**](#qué-es-el-trabajo-remoto)
 - [Capacidad para trabajar en casi cualquier lugar.](#capacidad-para-trabajar-en-casi-cualquier-lugar)
 - [Los beneficios del trabajo remoto](#los-beneficios-del-trabajo-remoto)
-- [Los desafíos del trabajo remoto](#los-desaf%c3%ados-del-trabajo-remoto)
-- [¿Quién trabaja de forma remota?](#%c2%bfqui%c3%a9n-trabaja-de-forma-remota)
-  - [Índice <!-- omit in toc-->](#%c3%8dndice)
+- [Los desafíos del trabajo remoto](#los-desafíos-del-trabajo-remoto)
+- [¿Quién trabaja de forma remota?](#quién-trabaja-de-forma-remota)
+  - [Índice](#índice)
 
 > 🔥 Seguro también te interesa: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
 {: .notice--danger}

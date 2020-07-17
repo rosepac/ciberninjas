@@ -5,9 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Adobe
-- Cámaras
-categories:
 - Aplicaciones
+- Cámaras
 thumbnail: /assets/img/blog/app-camara-photoshop.webp
 feature-img: /assets/img/blog/app-camara-photoshop.webp
 title: '▷ Adobe lanza Photoshop Camera, una aplicación gratuita con toneladas de elaborados filtros faciales'

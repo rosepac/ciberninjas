@@ -4,9 +4,10 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Windows 10
-categories:
 - Software
+- Windows
+- Atajos de Teclado
+- Trucos Windows
 thumbnail: /assets/img/blog/windows-atajos-teclado.webp
 feature-img: /assets/img/blog/windows-atajos-teclado.webp
 title: '🥇 ▷ Atajos de teclado de acceso rápido para Windows 10'

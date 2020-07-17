@@ -5,9 +5,6 @@ bootstrap: true
 comments: false
 tags:
 - Educación
-- Guías
-categories:
-- Aprender
 thumbnail: /assets/img/2020-news/15-guias-aprendizaje-colaborativo.webp
 feature-img: /assets/img/2020-news/15-guias-aprendizaje-colaborativo.webp
 title: '▷ Guías de iniciación para proyectos colectivos'

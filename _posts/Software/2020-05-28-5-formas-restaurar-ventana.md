@@ -4,8 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Ventanas
 - Windows
+- Optimizar Windows
 categories:
 - Software
 thumbnail: /assets/img/blog/8-capturas-pantalla.webp

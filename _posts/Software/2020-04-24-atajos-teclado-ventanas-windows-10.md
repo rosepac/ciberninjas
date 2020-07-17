@@ -4,10 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Atajos Teclado
-- Windows
-categories:
 - Software
+- Atajos de Teclado
+- Windows
 thumbnail: /assets/img/blog/tecla-windows.webp
 feature-img: /assets/img/blog/tecla-windows.webp
 title: '💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas de Windows'

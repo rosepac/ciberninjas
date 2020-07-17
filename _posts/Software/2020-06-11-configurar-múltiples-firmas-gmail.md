@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Gestor de Correos
 - Gmail
-categories:
-- Software
 thumbnail: /assets/img/blog/gmail-correo.webp
 feature-img: /assets/img/blog/gmail-correo.webp
 title: '▷ Cómo configurar múltiples firmas en Gmail'

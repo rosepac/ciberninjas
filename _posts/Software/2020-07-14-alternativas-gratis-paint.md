@@ -4,9 +4,11 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Windows 10
-categories:
 - Software
+- Windows
+- Software Libre
+- Editores Gráficos
+categories:
 thumbnail: /assets/img/2020-news/15-gimp.webp
 feature-img: /assets/img/2020-news/15-gimp.webp
 title: '▷ 16 Mejores editores gráficos gratuitos alternativos capaces de sustituir al Paint'

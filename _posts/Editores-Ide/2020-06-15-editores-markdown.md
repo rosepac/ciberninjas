@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
-categories:
-- Java
+- Editores de Texto
+- Markdown
 thumbnail: /assets/img/blog/editores_negro.webp
 feature-img: /assets/img/blog/editores_negro.webp
 title: '▷ Qué es Markdown y sus 7 mejores editores de texto'
@@ -26,15 +25,16 @@ Vamos a echar un vistazo a los editores creados por y para ser usados con el len
 
 - [**¿Qué es Markdown?**](#qué-es-markdown)
 - [**¿Por qué usar Markdown?**](#por-qué-usar-markdown)
-- [1. **Typora**](#1-typora)
-- [2. **MarkDown Monster**](#2-markdown-monster)
-- [3. **Boostnote**](#3-boostnote)
-- [4. **Haroopad**](#4-haroopad)
-- [5. **Editores de Makrdown en Línea**](#5-editores-de-makrdown-en-línea)
-  - [5.1 **FocuxFox**](#51-focuxfox)
-  - [5.2 **StackEdit**](#52-stackedit)
-  - [5.3 **Dillinger**](#53-dillinger)
-  - [5.4 **Hackmd.io**](#54-hackmdio)
+- [**Los mejores editores de Markdown](#los-mejores-editores-de-markdown)
+  - [1. Typora](#1-typora)
+  - [2. MarkDown Monster](#2-markdown-monster)
+  - [3. Boostnote](#3-boostnote)
+  - [4. Haroopad](#4-haroopad)
+- [**Editores de Markdown en Línea**](#editores-de-markdown-en-línea)
+  - [5. FocuxFox](#5-focuxfox)
+  - [6. StackEdit](#6-stackedit)
+  - [7. Dillinger](#7-dillinger)
+  - [8. Hackmd.io](#8-hackmdio)
 - [**Enlaces a recursos sobre MarkDown**](#enlaces-a-recursos-sobre-markdown)
 
 ## **¿Qué es Markdown?**
@@ -105,7 +105,9 @@ Aparte, vas a encontrarte 3 opciones online con las que poder probar Markdown si
 
 > **¡Adelante, vamos al lío y practiquemos Markdown!**
 
-## 1. **Typora**
+## **Los mejores editores de Markdown
+
+### 1. Typora
 
 Sin lugar a dudas, para mi el mejor editor de los que he probado. Sencillo, simple, útil; visualmente muy, muy agradable. Su minimalismo y su modo a pantalla completa, es perfecto para centrarse en escribir.
 
@@ -129,7 +131,7 @@ Podremos hacerle aprender palabras nuevas, haciendo 'click' sobre una palabra y 
 
 [🔥 Probar Typora](https://typora.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 2. **MarkDown Monster**
+### 2. MarkDown Monster
 
 Este editor, **MarkDown Monster**, probablemente sea el más completo. En principio es un *software* de pago, aunque existe una versión gratuita que creo no existe problema alguna por utilizar de manera constante (salvo algún anuncio de la versión de pago).
 
@@ -156,7 +158,7 @@ No posee un mundo 'full screen 100%' pero si un modo de escritura sin distraccio
 
 [🔥 Probar Markdown Monster](https://markdownmonster.west-wind.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 3. **Boostnote**
+### 3. Boostnote
 
 **Boostnote**, es el editor más complicado. Su forma de crear y gestionar documentos es un tanto rígida; por lo qué, una vez te acostumbres puede ser una ventaja.
 
@@ -167,7 +169,7 @@ Podríamos decir que es un proyecto claramente enfocado en ser un bloc de notas,
 
 [🔥 Probar Bootsnote](https://boostnote.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 4. **Haroopad**
+### 4. Haroopad
 
 **Haroopad**, es posiblemente un editor más enfocado  a usuarios que se dedique a la programación; puesto que visualmente su interfaz se asemeja más a la de un editor 'clásico'.
 
@@ -179,11 +181,11 @@ Una pega, es que no tiene corrector (o eso creo)  no se lo he encontrado.
 
 [🔥 Probar Haroopad](http://pad.haroopress.com/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 5. **Editores de Makrdown en Línea**
+## **Editores de Markdown en Línea**
 
 Aplicaciones excelentes sobre todo en las situaciones que deseamos trabajar fuera de casa, desde otros ordenadores que no sean el nuestro o colaborar junto a otras personas.
 
-### 5.1 **FocuxFox**
+### 5. FocuxFox
 
 FocusFox es un editor en línea gratuito **simple e inteligente** con sonidos de fondo para ayudarte a *enfocarte* exclusivamente en lo que necesitas, que utiliza las funciones de Markdown para agregar rápidamente el formato al texto sin formato; y además, agrega botones y una amplia chuleta de Markdown para los más principiantes.
 
@@ -193,7 +195,7 @@ La biblioteca de sonidas te ayudará a concentrarte, e incluye una opción de co
 
 [🔥 Probar FocuxFox](https://www.focusfox.co/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### 5.2 **StackEdit**
+### 6. StackEdit
 
 Nos permite tres opciones rápidas de visualización; pantalla completa, mitad de pantalla para edición y la otra para la visualización o simplemente, ver una visualización final. 
 
@@ -205,7 +207,7 @@ El corrector ortográfico del navegador funciona perfectamente.
 
 [🔥 Probar StackEdit](https://stackedit.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### 5.3 **Dillinger**
+### 7. Dillinger
 
 Otra muy buena opción, en este caso nos encontramos con una opción de pantalla completa más discreta; aunque de cualquier forma es visualmente muy elegante.
 
@@ -215,7 +217,7 @@ Permite conectarse, importar y exportar, a través de múltiples cuentas. Lo peo
 
 [🔥 Probar Dillinger](https://dillinger.io/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### 5.4 **Hackmd.io**
+### 8. Hackmd.io
 
 Como las opciones anteriores, posee un aspecto muy agradable; y amplias opciones de usabilidad, incluso de tablas. Conexión, exportación e importación por varias cuentas.
 
