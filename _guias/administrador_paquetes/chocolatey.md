@@ -12,7 +12,6 @@ date: 2020-06-09 13:03:36
 last_modified_at:
 permalink: /chocolatey/
 canonical_URL: https://ciberninjas.com/chocolatey/
-header:
 thumbnail: "/assets/img/blog/chocolatey-ciberninjas.webp"
 feature-img: "/assets/img/blog/chocolatey-ciberninjas.webp"
 

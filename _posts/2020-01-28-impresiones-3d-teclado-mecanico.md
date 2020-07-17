@@ -10,9 +10,8 @@ date: 2020-01-28 17:20:12
 last_modified_at: 
 published: true
 canonical_URL: /impresiones-3d-teclado-mecanico/
-categories:
-- Biblioteca Impresoras 3D
 tags:
+- Biblioteca Impresoras 3D
 - Teclado Mecánico
 - Teclas
 

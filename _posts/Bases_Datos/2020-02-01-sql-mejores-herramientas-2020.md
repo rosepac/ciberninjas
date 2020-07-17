@@ -13,9 +13,9 @@ thumbnail: https://i.ibb.co/Pr7SwXK/SQLpt1-1.jpg
 feature-img: https://i.ibb.co/Pr7SwXK/SQLpt1-1.jpg
 permalink: /sql-mejores-herramientas-2020/
 canonical_URL: https://ciberninjas.com/sql-mejores-herramientas-2020/
-categories:
-- SQL
 tags:
+- Bases de Datos
+- SQL
 - Herramientas
 
 ---

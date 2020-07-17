@@ -5,7 +5,6 @@ bootstrap: true
 comments: false
 tags:
 - Productividad
-categories:
 - Cursos
 thumbnail: /assets/img/blog/eficiencia.webp
 feature-img: /assets/img/blog/eficiencia.webp

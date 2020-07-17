@@ -11,23 +11,17 @@ published: true
 comments: false
 date: 2020-02-02 02:30:12
 last_modified_at: 
-thumbnail: https://i.ibb.co/LxBMjP4/Screen-Shot-2019-12-12-at-4-27-26-PM.png
-feature-img: https://i.ibb.co/LxBMjP4/Screen-Shot-2019-12-12-at-4-27-26-PM.png
+thumbnail: /assets/img/ai/openai-pytorch.webp
+feature-img: /assets/img/ai/openai-pytorch.webp
 permalink: /openai-pytorch/
 canonical_URL: https://ciberninjas.com/openai-pytorch/
 tags:
-- Modelo
-- Lenguaje
-- Automático
-- PyTorch
-categories:
 - Inteligencia Artificial
+- PyTorch
 
 ---
 
 Se esta trabajando en estandarizar el framework de aprendizaje profundo de OpenAI en PyTorch. En el pasado, desde Open AI se trabajo en proyectos de muchos otros frameworks dependiendo de sus diferentes fortalezas.
-
-![](https://i.ibb.co/LxBMjP4/Screen-Shot-2019-12-12-at-4-27-26-PM.png "OpenAI y PyTorch unen sus fuerzas en un trabajo común")
 
 Ahora hemos optado por estandarizar el software utilizado para facilitar al equipo la creación y el intercambio de implementaciones optimizadas de diferentesmodelos.
 
@@ -40,3 +34,5 @@ La razón principal por la que elegimos PyTorch es por considerar que aumenta nu
 En el futuro usaremos principalmente PyTorch como nuestro framework de aprendizaje profundo, aunque a veces usemos otros si lo consideramos adecuado, por exclusivas razones técnicas específicas. Muchos de nuestros equipos ya han implementado el cambio y esperamos pdoer comenzar a contribuir a la comunidad PyTorch en la mayor brevedad de tiempo.
 
 > **Fuente**\: [Open AI - PyTorch](https://openai.com/blog/openai-pytorch/){:target="_blank" rel="nofollow,noreferrer"}
+
+![OpenAI y PyTorch unen sus fuerzas en un trabajo común](/assets/img/ai/openai-pytorch.webp "OpenAI y PyTorch unen sus fuerzas en un trabajo común")

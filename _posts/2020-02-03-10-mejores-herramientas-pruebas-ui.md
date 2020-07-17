@@ -11,31 +11,27 @@ published: true
 comments: false
 date: 2020-02-03 12:15:12
 last_modified_at: 
-thumbnail: https://i.ibb.co/tHQsW8r/ui-testing.jpg
-feature-img: https://i.ibb.co/tHQsW8r/ui-testing.jpg
+thumbnail: /assets/img/blog/ui-testing.webp
+feature-img: /assets/img/blog/ui-testing.webp
 permalink: /10-mejores-herramientas-pruebas-ui/
 canonical_URL: https://ciberninjas.com/10-mejores-herramientas-pruebas-ui/
 tags:
-- Pruebas
+- Herramientas
+- Interfaz de Usuario
 - Testing
 - Selenium
 - Appium
 - CodedUI
-categories:
-- Herramientas
-- Interfaz de Usuario
 
 ---
 
 ¿Eres un profesional de pruebas de software? Si es así, ¿Qué herramienta de pruebas utilizas? Como la mayoría de las personas cuando comienzan en el control de calidad, es posible que tenga que dominar solo una o dos herramientas de prueba porque está restringido a lo que se está utilizando en su empresa, o lo que es mejor para probar una aplicación específica o tal vez porque está alineada mejor con la pila de herramientas ALM de sus equipos.
 
-![Las 10 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020](https://i.ibb.co/tHQsW8r/ui-testing.jpg "Las 10 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020")
-
 Cualquiera que sea la razón, si usted es un profesional experimentado, puede beneficiarse de tener una visión más amplia de lo que existe en el mercado de herramientas de prueba de software a nivel empresarial. Si usted es un recién llegado a la automatización del control de calidad, el objetivo de esta guía sería brindarle orientación para encontrar una buena herramienta que satisfaga sus necesidades de prueba.
 
 Enumeraré las herramientas de prueba más comunes y populares, qué características las hacen populares y sus limitaciones.
 
-![](https://i.ibb.co/cbWL8vy/large-v-1.jpg "Gráfica de las herramientas de pruebas más usadas durante el 2016")
+![Gráfica de las herramientas de pruebas más usadas durante el 2016](/assets/img/blog/empresas-grafica.webp "Gráfica de las herramientas de pruebas más usadas durante el 2016")
 
 La lista a continuación muestra las herramientas de automatización de UI más comunes utilizadas para las pruebas de regresión y automatización de pruebas funcionales (sin orden particular), sus descripciones, características, y alguos pros y contras.
 
@@ -275,3 +271,5 @@ Rational Quality Manager es una herramienta colaborativa basada en la web que of
 [🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
 
 > **Fuente**\: [Comunidad Microsoft](https://techcommunity.microsoft.com/t5/testingspot-blog/what-are-the-best-ui-test-automation-tools/ba-p/367781){:target="_blank" rel="nofollow,noreferrer"}
+
+![Las 10 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020](/assets/img/blog/ui-testing.webp "Las 10 mejores herramientas de automatización de pruebas de interfaz de usuario o ui que existen en 2020")

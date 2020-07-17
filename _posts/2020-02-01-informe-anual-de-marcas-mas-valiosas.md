@@ -8,21 +8,17 @@ published: true
 comments: false
 date: 2020-02-01 12:10:12
 last_modified_at: 
-thumbnail: https://i.ibb.co/98gzyBQ/image.jpg
-feature-img: https://i.ibb.co/98gzyBQ/image.jpg
+thumbnail: /assets/img/blog/500-empresas.webp
+feature-img: /assets/img/blog/500-empresas.webp
 permalink: /informe-anual-de-marcas-mas-valiosas/
 canonical_URL: https://ciberninjas.com/informe-anual-de-marcas-mas-valiosas/
-categories:
-- Informes
 tags:
-- Marcas
-- Empresas
+- Informes Anuales
+- Empresas Tecnológicas
 
 ---
 
 El informe proporcionan un desglose completo de los supuestos, las fuentes de datos y los cálculos utilizados para llegar al valor de su marca.
-
-![](https://i.ibb.co/98gzyBQ/image.jpg "Global 500, las quinientas empresas más importantes del mundo de la tecnología")
 
 - Amazon hace historia como la primera marca en superar la marca de valor de US $ 200 mil millones y retiene el título de la marca más valiosa del mundo por tercer año consecutivo
 - Lidl y Aldi son marcas de mayor crecimiento en el sector minorista, lo que demuestra que el comercio electrónico ya no es solo la ruta hacia el éxito en el sector.
@@ -35,6 +31,8 @@ Encuentra sobre esto y muchas más ideas en el informe completo, disponible para
 
 <iframe src="https://drive.google.com/file/d/1Ex-xK187wQQBOegUKSogBkrmofb5h4cA/preview" width="935" height="480"></iframe>
 
-[💲 Descargar Resumen del Informe ⬇](https://brandirectorypublic.s3.eu-west-2.amazonaws.com/reports_free/brand-finance-global-500-2020-preview.pdf){: .btn .btn--inverse .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[💲 Descargar Resumen del Informe ⬇](https://brandirectorypublic.s3.eu-west-2.amazonaws.com/reports_free/brand-finance-global-500-2020-preview.pdf){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 > **Fuente**: [Global 500](https://brandirectory.com/rankings/global/){:target="_blank" rel="nofollow,noreferrer"}
+
+![](/assets/img/blog/500-empresas.webp "Global 500, las quinientas empresas más importantes del mundo de la tecnología")

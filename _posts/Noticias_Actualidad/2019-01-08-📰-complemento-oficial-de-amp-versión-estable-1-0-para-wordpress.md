@@ -1,26 +1,27 @@
 ---
-title: "\U0001F4F0 Complemento Oficial de AMP Versión Estable 1.0 para Wordpress"
-description: "\U0001F4F1 🔍 Lanzan la versión estable del plugin para Wordpress AMP enfocado en los dispositivos móviles, por Google Desarrolladores"
-excerpt: "\U0001F4F1 🔍 Lanzan la versión estable del plugin para Wordpress AMP enfocado en los dispositivos móviles, por Google Desarrolladores"
+title: "📰 Complemento Oficial de AMP Versión Estable 1.0 para Wordpress"
+description: "Se lanza la versión estable del plugin para Wordpress AMP enfocado en los dispositivos móviles, por Google Desarrolladores"
+excerpt: "Se lanza la versión estable del plugin para Wordpress AMP enfocado en los dispositivos móviles, por Google Desarrolladores"
 date: 2019-01-08 01:01:00 +0100
-permalink: /complemento-oficial-de-amp-version-estable-1-0-para-wordpress
-canonical_URL: https://ciberninjas.com/complemento-oficial-de-amp-version-estable-1-0-para-wordpress
-categories:
-  - Actualidad
-  - Google Webmaster
+permalink: /complemento-oficial-de-amp-version-estable-1-0-para-wordpress/
+canonical_URL: https://ciberninjas.com/complemento-oficial-de-amp-version-estable-1-0-para-wordpress/
 tags:
+  - Actualidad
   - Amp
-  - Plugin
+  - Herramientas Webmaster
   - Wordpress
+  - Wordpress Plugin
 ---
 
-> 📰 📱🔍 Lanzan la versi&oacute;n estable del plugin para Wordpress AMP enfocado en los dispositivos m&oacute;viles, por Google Desarrolladores
 
-Desde el blog de **Google Developers** latinoam&eacute;rica informan sobre el lanzamiento oficial de la versi&oacute;n estable del complemento oficial creador de **AMP para WordPress**, si a&uacute;n no conoces lo que es **AMP**. Deber&iacute;as. En resumen, es una nueva tecnolog&iacute;a que permite acomodar tu p&aacute;gina web a los nuevos dispositivos m&oacute;viles de una forma r&aacute;pida y sencilla ofreciendo una experiencia mucho m&aacute;s agradable al usuario a la hora de navegar.
+Desde el blog de **Google Developers** latinoamérica informan del lanzamiento de la versión estable del plugin para Wordpress AMP enfocada hacía la mejora de la visualización de las páginas web a través de dispositivos móviles.
 
-La versi&oacute;n estable 1.0 para WordPress se integra a la perfecci&oacute;n con el flujo de trabajo normal sobre el **CMS**, las novedades se centran en nuevas herramientas de compatibilidad, eliminaci&oacute;n de c&oacute;digo **CSS** obsoleto, integraci&oacute;n con el nuevo editor de WordPress **Gutenberg**, entre otras.
+La nueva versión, se trata de una versión estable del complemento oficial de **AMP para WordPress**, y si aún no conoces lo que es **AMP**. Seguramente deberías.
 
-Por &uacute;ltimo, se informa sobre de que en un futuro se buscar&aacute; una mayor sencillez de implementaci&oacute;n. Creando temas **WordPress** que por defecto, est&eacute;n integrados con el c&oacute;digo que genera el propio *plugin*.
+Resumiendo, AMP es una nueva tecnología que permite acomodar tu página web a los nuevos dispositivos móviles de una forma rápida y sencilla ofreciendo una experiencia mucho más agradable al usuario a la hora de navegar.
 
-**Fuente**: [Complemento Oficial Amp para Wordpress](https://developers-latam.googleblog.com/2019/01/el-complemento-oficial-de-amp-para.html "Lanzamiento del Plguin de AMP enfocado en la visualización correcta de las búsquedas de Google a través del Móvil")
-{: .notice--info}
+La versión estable 1.0 para WordPress se integra a la perfección con el flujo de trabajo normal sobre el **CMS**, las novedades se centran en nuevas herramientas de compatibilidad, eliminación de código **CSS** obsoleto, integración con el nuevo editor de WordPress **Gutenberg**, entre otras.
+
+Por último, se informa sobre de que en un futuro se buscará una mayor sencillez de implementación. Creando temas **WordPress** que por defecto, estén integrados con el código que genera el propio plugin.
+
+> **Fuente**: [Complemento Oficial Amp para Wordpress](https://developers-latam.googleblog.com/2019/01/el-complemento-oficial-de-amp-para.html "Lanzamiento del Plguin de AMP enfocado en la visualización correcta de las búsquedas de Google a través del Móvil")

@@ -13,7 +13,8 @@ published: true
 thumbnail: "/assets/img/chico-buscando-libro-biblioteca.jpg"
 feature-img: "/assets/img/chico-buscando-libro-biblioteca.jpg"
 tags:
-- Cursos y Libros
+- Libros
+- Repositorios
 ---
 
 Esta es **la mejor lista de libros de programación en PDF en español del mundo**. Una completa **biblioteca recopilada de cientos** y cientos de libros en PDF que no encontrarás en ninguna parte más. 

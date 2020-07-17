@@ -5,7 +5,6 @@ bootstrap: true
 comments: false
 tags:
 - Guía
-categories:
 - Productividad
 thumbnail: /assets/img/blog/calcular-productividad.webp
 feature-img: /assets/img/blog/calcular-productividad.webp

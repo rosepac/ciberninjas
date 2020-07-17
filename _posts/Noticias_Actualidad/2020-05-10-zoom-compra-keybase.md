@@ -4,9 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Actualidad
 - Zoom
 - Keybase
-categories:
 - Startups
 thumbnail: /assets/img/blog/zoom-keybase.webp
 feature-img: /assets/img/blog/zoom-keybase.webp
@@ -40,8 +40,7 @@ Nuestro objetivo es proporcionar la mayor privacidad posible para cada caso de u
 
 - [**Cifrado de zoom hoy**](#cifrado-de-zoom-hoy)
 - [**El futuro cercano**](#el-futuro-cercano)
-- [**Próximos pasos de Zoom**](#pr%c3%b3ximos-pasos-de-zoom)
-  - [Relacionados](#relacionados)
+- [**Próximos pasos de Zoom**](#próximos-pasos-de-zoom)
 
 ## **Cifrado de zoom hoy**
 

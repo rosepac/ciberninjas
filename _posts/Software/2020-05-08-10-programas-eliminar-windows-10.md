@@ -7,7 +7,6 @@ tags:
 - Software
 - Windows
 - Optimizar Windows
-categories:
 thumbnail: /assets/img/blog/programas-peligrosos.webp
 feature-img: /assets/img/blog/programas-peligrosos.webp
 title: '👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador'

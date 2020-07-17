@@ -4,8 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Guía
-categories:
+- Guías
 - Productividad
 thumbnail: /assets/img/blog/guia-productividad-1.webp
 feature-img: /assets/img/blog/guia-productividad-1.webp

@@ -6,7 +6,6 @@ comments: false
 tags:
 - Gestor de Correos
 - Gmail
-categories:
 thumbnail: /assets/img/blog/google-meet.webp
 feature-img: /assets/img/blog/google-meet.webp
 title: 'Cómo ocultar Google Meet en Gmail'

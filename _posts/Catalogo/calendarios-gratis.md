@@ -7,7 +7,6 @@ excerpt: ''
 date: 2019-08-14 22:50:59
 tags:
 - Calendarios
-header:
 feature-img: 
 thumbnail: 
 color: red

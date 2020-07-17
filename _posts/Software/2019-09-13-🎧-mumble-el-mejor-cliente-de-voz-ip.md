@@ -7,13 +7,8 @@ tags:
   - Clientes VOIP
 permalink: /mumble/
 canonical_URL: https://ciberninjas.com/mumble/
-header:
 thumbnail: /assets/img/blog/captura-mumbre-pagina-web.jpg
 feature-img: /assets/img/blog/captura-mumbre-pagina-web.jpg
-toc: true
-toc_label: Contenidos
-toc_icon: user-ninja
-toc_sticky: true
 ---
 
 > Mumble es una aplicaci&oacute;n de chat de voz gratuita, de c&oacute;digo abierto, de baja latencia y de alta calidad.

@@ -6,7 +6,6 @@ comments: false
 tags:
 - Facebook
 - Google Fotos
-categories:
 - Redes Sociales
 thumbnail: /assets/img/blog/facebook-to-google.webp
 feature-img: /assets/img/blog/facebook-to-google.webp

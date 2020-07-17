@@ -9,14 +9,9 @@ permalink:  /jekyll/
 canonical_URL: https://ciberninjas.com/jekyll/
 author: rosepac
 bootstrap: true
-header:
 thumbnail: "/assets/img/paginas/jekyll-arbol-documentos.webp"
 feature-img: "/assets/img/paginas/jekyll-arbol-documentos.webp"
 img: "/assets/img/paginas/jekyll-arbol-documentos.webp"
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
 ---
 
 Existe un gran cambio al modificar tus hábitos y buscar el cambio desde un [Sistema de Gestión de Contenidos](/glosario/cms/) (CMS) como por ejemplo: Wordpress. Hacía un [Sistema de Contenidos de Generación Estática](/wiki/generador-de-sitios-estaticos) (SSG) como por ejemplo: Jekyll.

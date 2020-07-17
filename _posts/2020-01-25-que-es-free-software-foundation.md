@@ -12,7 +12,6 @@ thumbnail: /assets/img/blog/fsf-svg.webp
 feature-img: /assets/img/blog/fsf-svg.webp
 permalink: /que-es-free-software-foundation/
 canonical_URL: https://ciberninjas.com/que-es-free-software-foundation/
-categories:
 tags:
 - Software Libre
 - Activismo

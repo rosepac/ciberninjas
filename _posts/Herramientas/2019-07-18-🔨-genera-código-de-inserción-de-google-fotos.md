@@ -7,14 +7,12 @@ author: rosepac
 bootstrap: true
 comments: false
 date: 2019-07-18 07:07:00 +0200
-header:
 thumbnail: /assets/img/Generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg
 feature-img: /assets/img/Generar-codigo-para-insertar-una-imagen-de-google-fotos.jpg
 tags:
+  - Herramientas Webmaster
   - Imágenes
   - Google Photos
-categories:
-  - Herramientas
 permalink: /genera-codigo-insercion-google-fotos/
 canonical_URL: /genera-codigo-insercion-google-fotos/
 ---

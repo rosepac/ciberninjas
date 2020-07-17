@@ -8,11 +8,9 @@ permalink: /creador-de-musica-retro-inspirado-en-amiga-protracker-bassontracker/
 comments: false
 date: 2019-06-05 23:11:12
 tags:
-- Software
+- Software Audio
 - Reproductor
 - Retro
-- Amiga
-- Emulador
 ---
 
 Durante los últimos meses he estado **haciendo pequeños** retoques en **Bassoontracker**, mi herramienta de música retro basada en el navegador. Hoy, está listo para un próximo gran lanzamiento: ¡Ya salió la versión 0.3.0!
@@ -55,9 +53,10 @@ Puedes realizar todo eso desde [Basson](https://kutt.it/bassoon) un sencillo rep
 - [4mat: título de Chuck Rock](https://www.stef.be/bassoontracker/?file=https%3A%2F%2Fmodland.com%2Fpub%2Fmodules%2FProtracker%2F4-Mat%2Fchuckrock-title.mod)
 {: .notice--primary}
 
-**Código de Github**: [Repositorio del Código](https://kutt.it/bassoon">Repositorio del Código)
-**Reproductor**: [Audio Lotus 2](https://www.stef.be/bassoontracker/?file=demomods%2Flotus20.mod)
-**Fuente Original**: [Blog.Stef.be](http://blog.stef.be/bassoontracker030)
+**Código de Github**: [Repositorio del Código](https://kutt.it/bassoon">Repositorio del Código){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+**Reproductor**: [Audio Lotus 2](https://www.stef.be/bassoontracker/?file=demomods%2Flotus20.mod){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+> **Fuente Original**: [Blog.Stef.be](http://blog.stef.be/bassoontracker030)
 {: .notice--info}
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -7,7 +7,6 @@ tags:
 - Sistemas Operativos
 - Windows
 - Optimizar Windows
-categories:
 thumbnail: /assets/img/blog/windows-10.webp
 feature-img: /assets/img/blog/windows-10.webp
 title: '▷ 5 razones para abandonar Windows 7 y actualizar a Windows 10'
