@@ -30,11 +30,11 @@ Otro problema, es que suelen ser raras las actualizaciones que existen dentro de
 
 Se pueden resolver estos problemas (y algunos otros) utilizando otras distribuciones con el entorno de trabajo Deepin. Por ejemplo, la [distribución de Manjaro](https://forum.manjaro.org/t/manjaro-deepin-18-0-2-released/70575){:target="_blank" rel="nofollow,noreferrer"} desarrollada por la comunidad, que ya ofrece un sistema más robusto con el entorno de trabajo específico de Deepin.
 
+Si eres fanático de las distribuciones basadas en Ubuntu y te gusta el entorno de trabajo de Deepin, entonces deberías probar la nueva distribución UbuntuDDE de Linux.
+
 - [**¿Qué es UbuntuDDE Remix?**](#qué-es-ubuntudde-remix)
 - [**Características de UbuntuDDE**](#características-de-ubuntudde)
 - [**Descargar UbuntuDDE**](#descargar-ubuntudde)
-
-Si eres fanático de las distribuciones basadas en Ubuntu y te gusta el entorno de trabajo de Deepin, entonces deberías probar la nueva distribución UbuntuDDE de Linux.
 
 ## **¿Qué es UbuntuDDE Remix?**
 
