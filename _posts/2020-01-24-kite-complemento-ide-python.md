@@ -11,10 +11,9 @@ last_modified_at:
 thumbnail: https://i.ibb.co/rfsK59t/image.png
 feature-img: https://i.ibb.co/rfsK59t/image.png
 canonical_URL: /kite-complemento-ide-python/
-categories:
-- Herramientas Python
 tags:
 - Python
+- Herramientas Python
 ---
 
 ![](https://i.ibb.co/rfsK59t/image.png "Página web oficial de Kite: Complemento IDE para Python")

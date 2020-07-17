@@ -1,16 +1,16 @@
 ---
 title: "🥊 Guía de Autodefensa Digital"
-description: "⚔ La Autodefensa de la Vigilancia por la Fundación Frontera Electrónica."
-excerpt: "⚔ La Autodefensa de la Vigilancia por la Fundación Frontera Electrónica."
+description: "La Autodefensa de la Vigilancia por la Fundación Frontera Electrónica."
+excerpt: "La Autodefensa de la Vigilancia por la Fundación Frontera Electrónica."
 date: 2019-10-08 18:00:10
 last_modified_at: 2019-10-11 10:18:10
 layout: post
 permalink: /eff/autodefensa/
 canonical_URL: https://ciberninjas.com/eff/autodefensa/
 published: true
-thumbnail: "https://i.ibb.co/yh0r3V9/logo.png"
-feature-img: "https://i.ibb.co/yh0r3V9/logo.png"
-img: "https://i.ibb.co/yh0r3V9/logo.png"
+thumbnail: /assets/img/eff/logo-eff.webp
+feature-img: /assets/img/eff/logo-eff.webp
+img: /assets/img/eff/logo-eff.webp
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
@@ -24,10 +24,10 @@ No dudes en sumergirte en las siguientes GUÍAS DE HERRAMIENTAS si deseas obtene
 
 Además, podrás obtener información más detallada en otras secciones como las de APRENDIZAJE ADICIONAL o si deseas una visita guiada paso a paso, puedes comenzar desde uno de nuestros ESCENARIOS DE SEGURIDAD que consideramos más comunes.
 
-## 👩‍🎓 Guías Básicas
+## **Guías Básicas 👩‍🎓**
 
 <figure>
-    <img src="/assets/img/eff/eff-guias-basicas.jpg" alt="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas" title="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas">
+    <img src="/assets/img/eff/eff-guias-basicas.webp" alt="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas" title="Aprender lo más básico y necesario para la autodefensa personal digital \ Visto en Ciberninjas">
 </figure>
 
 👉 ¿Por qué son importantes los metadatos? ➛ [Entrar](https://kutt.it/eff-ImportanteMetadatos "Por qué los metadatos son importantes"){:target="_blank" rel="nofollow,noreferrer"}
@@ -62,10 +62,10 @@ Además, podrás obtener información más detallada en otras secciones como las
 
 👉 ¿Cómo crear contraseñas seguras? ➛ [Entrar](https://kutt.it/eff-CrearContrasenasSeguras "Cómo poder crear contraseñas suficientemente seguras"){:target="_blank" rel="nofollow,noreferrer"}
 
-## 🔧 Guías de Herramientas
+## **Guías de Herramientas 🔧**
 
 <figure>
-    <img src="/assets/img/eff/eff-guias-herramientas.jpg" alt="Aprende a manejar las herramientas más útiles y necesarias para tu autodefensa personal digital \ Visto en Ciberninjas" title="Aprende a manejar las herramientas más útiles y necesarias para tu autodefensa personal digital \ Visto en Ciberninjas">
+    <img src="/assets/img/eff/eff-guias-herramientas.webp" alt="Aprende a manejar las herramientas más útiles y necesarias para tu autodefensa personal digital \ Visto en Ciberninjas" title="Aprende a manejar las herramientas más útiles y necesarias para tu autodefensa personal digital \ Visto en Ciberninjas">
 </figure>
 
 👉 ¿Cómo evitar los ataques de phishing o suplantación de identidad? ➛ [Entrar](https://kutt.it/eff-EvitarAtaquesPhising "Cómo evitar los ataques de phishing o suplantación de identidad"){:target="_blank" rel="nofollow,noreferrer"}
@@ -74,7 +74,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 
 👉 ¿Cómo habilitar la autenticación de dos factores? ➛ [Entrar](https://kutt.it/eff-HabilitarDobleFactor "Cómo habilitar la autenticación de dos factores"){:target="_blank" rel="nofollow,noreferrer"}
 
-### Herramientas Android <i class="fab fa-android"></i>
+### **Herramientas Android <i class="fab fa-android"></i>**
 
 👉 ¿Cómo usar KeePassXC? ➛ [Entrar](https://kutt.it/eff-KeepassXC "Cómo usar KeePassXC"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -82,7 +82,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 
 👉 ¿Cómo utilizar Whatsapp correctamente en Android? ➛ [Entrar](https://kutt.it/eff-UsarWhatshappAndroid "Cómo Utilizar Whatsapp correctamente en Android"){:target="_blank" rel="nofollow,noreferrer"}
 
-### Herramientas Windows <i class="fab fa-windows"></i>
+### **Herramientas Windows <i class="fab fa-windows"></i>**
 
 👉 ¿Cómo cifrar tu dispositivo con Windows? ➛ [Entrar](https://kutt.it/eff-CifrarWindows "Cómo cifrar tu dispositivo con Windows"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -92,7 +92,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 
 👉 ¿Cómo usar Tor en Windows? ➛ [Entrar](https://kutt.it/eff-UsarTorWindows "Cómo usar Tor en Windows"){:target="_blank" rel="nofollow,noreferrer"}
 
-### Herramientas Linux <i class="fab fa-linux"></i>
+### **Herramientas Linux <i class="fab fa-linux"></i>**
 
 👉 ¿Cómo eliminar tu información privada de forma segura en Linux? ➛ [Entrar](https://kutt.it/eff-EliminarDatosLinux "Cómo eliminar tu información privada de forma segura en Linux"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -102,9 +102,9 @@ Además, podrás obtener información más detallada en otras secciones como las
 
 👉 ¿Cómo usar Tor en Linux? ➛ [Entrar](https://kutt.it/eff-UsarTorLinux "Cómo usar Tor en Linux"){:target="_blank" rel="nofollow,noreferrer"}
 
-### Herramientas Apple <i class="fas fa-apple-alt"></i>
+### **Herramientas Apple <i class="fas fa-apple-alt"></i>**
 
-#### MacOS e iOS
+#### **MacOS e iOS**
 
 👉 ¿Cómo eliminar tu información privada de forma segura en MacOS? ➛ [Entrar](https://kutt.it/eff-EliminarDatosMacOS "Cómo eliminar tu información privada de forma segura en macOS"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -114,7 +114,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 
 👉 ¿Cómo usar Tor en MacOS? ➛ [Entrar](https://kutt.it/eff-TorMacOS "Cómo usar Tor en macOS"){:target="_blank" rel="nofollow,noreferrer"}
 
-#### iOS
+#### **iOS**
 
 👉 ¿Cómo cifrar tu iPhone? ➛ [Entrar](https://kutt.it/eff-CifrarIphone "Cómo cifrar tu iPhone"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -122,7 +122,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 
 👉 ¿Cómo utilizar Whatsapp en iOS? ➛ [Entrar](https://kutt.it/eff-UsarWhatshappiOS "Cómo Utilizar Whatsapp en iOS"){:target="_blank" rel="nofollow,noreferrer"}
 
-## 👨‍🏫 Aprendizaje Adicional
+## **Aprendizaje Adicional 👨‍🏫**
 
 Aprendizajes adicionales que te pueden interesar si deseas lograr un extra mayor de privacidad sobre tus datos e información digital.
 
@@ -147,7 +147,7 @@ Una mirada en profundidad al cifrado de extremo a extremo.
 
 👉 ¿Qué es y Cómo elegir una VPN adecuada? ➛ [Entrar](https://kutt.it/eff-VPN-Elegir "Qué es y Cómo elegir una VPN adecuada"){:target="_blank" rel="nofollow,noreferrer"}
 
-## 🔠 Glosario
+## **Glosario de la EFF 🔠**
 
 Significado variado sobre palabras en relación con la seguridad en Internet, la vigilancia y los métodos de protección que existen ante la perdida de privacidad a lo largo de la red.
 
@@ -160,3 +160,5 @@ Significado variado sobre palabras en relación con la seguridad en Internet, la
 
 **Info. Legal**: Este contenido debe dar reconocimientos a [Pablo Álvarez Corredera o Ciberninjas](https://kutt.it/ciberninjas) como creador primario del contenido en español; además de a la [EFF](https://kutt.it/eff){:target="_blank" rel="nofollow,noreferrer"} como creador original de mismo.
 {: .notice--info}
+
+![La Autodefensa de la Vigilancia por la Fundación Frontera Electrónica.](/assets/img/eff/logo-eff.webp "La Autodefensa de la Vigilancia por la Fundación Frontera Electrónica.")

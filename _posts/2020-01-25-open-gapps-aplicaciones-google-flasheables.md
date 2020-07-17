@@ -11,10 +11,9 @@ last_modified_at:
 thumbnail: https://i.ibb.co/GTMgwxp/open-gapps-logotipo.png
 feature-img: https://i.ibb.co/GTMgwxp/open-gapps-logotipo.png
 canonical_URL: /open-gapps-aplicaciones-google-flaheables/
-categories:
-- Android
 tags:
-- Aplicaciones
+- Aplicaciones Android
+- Google
 
 ---
 
