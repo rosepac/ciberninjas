@@ -1,19 +1,14 @@
 ---
+author: rosepac
+bootstrap: true
 title: "📰 Educación diseña 80 nuevas ofertas de FP la mayoría centradas en la tecnología"
 description: '🎓 Se plantea un plan de digitalización de la educación con una inversión de 226 millones de euros, por Agencia EFE'
 excerpt: '🎓 Se plantea un plan de digitalización de la educación con una inversión de 226 millones de euros, por Agencia EFE'
 date: 2019/09/04 15:00:00
 published: true
-# Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
-categories:
+tags:
 - Actualidad
 - Educación
-# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK
-tags:
-- Ministra
-- Celaá
-- Competencias
-- FP
 ---
 
 Se plantea la realización de un plan de digitalización de la educación con una inversión de 226 millones de euros, por [Agencia EFE](https://www.efe.com)

@@ -15,7 +15,7 @@ excerpt: >-
   Visual Studio Code lanza una nueva versión, y comienza a utilizar Typescript. En concreto, la versión 1.47, vas a encontrar todos los cambios más destacados en este extenso artículo.
 canonical_URL: https://ciberninjas.com/visual-studio-code-1-47/
 permalink: /visual-studio-code-1-47/
-date: 2020-07-17 09:12:32
+date: 2020-07-17 18:51:32
 last_modified_at: 
 published: true
 
