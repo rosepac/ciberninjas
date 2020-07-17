@@ -122,15 +122,15 @@ Hay millones de desarrolladores de Ionic en más de 200 países en todo el mundo
 - [GitHub:](https://github.com/ionic-team/ionic){:target="_blank" rel="nofollow,noreferrer"} Informa de errores o solicitar nuevas funciones, cree un problema aquí. PRs bienvenidos!
 - [Autoría de contenido:](https://ionicframework.com/contributors){:target="_blank" rel="nofollow,noreferrer"} Escriba un blog técnico o comparta su historia con la comunidad de Ionic.
 
-![Ionic es un SDK front-end de código abierto para desarrollar aplicaciones móviles híbridas que utilizan tecnologías web como HTML, CSS y JavaScript. Proporciona componentes basados ​​en tecnología web optimizada para dispositivos móviles, así como API nativas que utilizan Cordova e Ionic Native.](/assets/img/2020-news/ionic-4-2020.webp "Ionic es un SDK front-end de código abierto para desarrollar aplicaciones móviles híbridas que utilizan tecnologías web como HTML, CSS y JavaScript. Proporciona componentes basados ​​en tecnología web optimizada para dispositivos móviles, así como API nativas que utilizan Cordova e Ionic Native.")
+### **Relacionados** <!-- omit in toc -->
 
-[👉 Conceptos Básicos de Ionic](/ionic-framework-concepto/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[👉 Introducción a Ionic](/ionic-4-0-introduccion-ionic-para-todos){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👉 Conceptos Básicos de Ionic](/ionic-framework-concepto/)
+
+[👉 Introducción a Ionic](/ionic-4-0-introduccion-ionic-para-todos)
+
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
-### Relacionados <!-- omit in toc -->
-
-
 
 > **Fuente**: [Documentación Oficial de Ionic](https://ionicframework.com/docs)
 {: .notice--info}
+
+![Ionic es un SDK front-end de código abierto para desarrollar aplicaciones móviles híbridas que utilizan tecnologías web como HTML, CSS y JavaScript. Proporciona componentes basados ​​en tecnología web optimizada para dispositivos móviles, así como API nativas que utilizan Cordova e Ionic Native.](/assets/img/2020-news/ionic-4-2020.webp "Ionic es un SDK front-end de código abierto para desarrollar aplicaciones móviles híbridas que utilizan tecnologías web como HTML, CSS y JavaScript. Proporciona componentes basados ​​en tecnología web optimizada para dispositivos móviles, así como API nativas que utilizan Cordova e Ionic Native.")

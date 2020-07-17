@@ -219,18 +219,27 @@ KWrite es una herramienta ligera para escribir código PHP. Esta herramienta est
 - El editor ofrece autocompletado basado en palabras o frases que ya ha visto en el resto de las partes del resto del código.
 
 [🔥 Descargar KWrite](https://kde.org/applications/utilities/org.kde.kwrite "Descargar el editor de texto KWrite"){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[▷ Codelobster IDE: Editor de PHP, HTML, CSS, JavaScript](https://ciberninjas.com/zeetlr-editor-markdown/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[▷ Zettlr: Editor de Markdown hecho a medida para el Siglo XXI](https://ciberninjas.com/zeetlr-editor-markdown/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🥇 Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🥇 ▷ Los 15 Mejores Lenguajes de Programación](https://ciberninjas.com/15-mejores-lenguajes-programacion/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[Breve introducción a PHP y HTML](https://ciberninjas.com/php-vs-html/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[Python vs PHP](https://ciberninjas.com/python-vs-php/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
+
+[▷ Codelobster IDE: Editor de PHP, HTML, CSS, JavaScript](https://ciberninjas.com/zeetlr-editor-markdown/)
+
+[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/)
+
+[11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/)
+
+[▷ Zettlr: Editor de Markdown hecho a medida para el Siglo XXI](https://ciberninjas.com/zeetlr-editor-markdown/)
+
+[🥇 Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/)
+
+[🥇 ▷ Los 15 Mejores Lenguajes de Programación](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
+
+[Breve introducción a PHP y HTML](https://ciberninjas.com/php-vs-html/)
+
+[Python vs PHP](https://ciberninjas.com/python-vs-php/)
+
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.](/assets/img/blog/php-ide/php-editores.webp "Las mejores aplicaciones para programar en PHP, el lenguaje de secuencias de comandos del lado del servidor de código abierto que se utiliza para desarrollar aplicaciones web estáticas o dinámicas.")

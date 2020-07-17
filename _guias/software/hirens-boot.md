@@ -35,12 +35,12 @@ Hiren's BootCD PE (entorno de preinstalación) es una edición restaurada del **
   - [Red](#red)
 - [**Descargar Hiren´s BootCD PE 💿**](#descargar-hirens-bootcd-pe-)
 - [**Preguntas Frecuentes sobre Hiren´s Boot ❔**](#preguntas-frecuentes-sobre-hirens-boot-)
-  - [👉 **¿Hay algún minero de bitcoin o software malicioso infectado en su ISO?**](#-hay-algún-minero-de-bitcoin-o-software-malicioso-infectado-en-su-iso)
-  - [👉 **¿Es legal usar Windows PE?**](#-es-legal-usar-windows-pe)
-  - [👉 **HBCD PE incluye software como Acronis, ¿Es legal?**](#-hbcd-pe-incluye-software-como-acronis-es-legal)
-  - [👉 **¿Por qué el arranque de DVD se cuelga en la pantalla del logotipo de Windows?**](#-por-qué-el-arranque-de-dvd-se-cuelga-en-la-pantalla-del-logotipo-de-windows)
-  - [👉 **¿Por qué recibo una advertencia de virus para un archivo descargado de su sitio web?**](#-por-qué-recibo-una-advertencia-de-virus-para-un-archivo-descargado-de-su-sitio-web)
-  - [👉 **¿Pueden enviarme una copia física del CD a mi dirección?**](#-pueden-enviarme-una-copia-física-del-cd-a-mi-dirección)
+  - [👉 ¿Hay algún minero de bitcoin o software malicioso infectado en su ISO?](#-hay-algún-minero-de-bitcoin-o-software-malicioso-infectado-en-su-iso)
+  - [👉 ¿Es legal usar Windows PE?](#-es-legal-usar-windows-pe)
+  - [👉 HBCD PE incluye software como Acronis, ¿Es legal?](#-hbcd-pe-incluye-software-como-acronis-es-legal)
+  - [👉 ¿Por qué el arranque de DVD se cuelga en la pantalla del logotipo de Windows?](#-por-qué-el-arranque-de-dvd-se-cuelga-en-la-pantalla-del-logotipo-de-windows)
+  - [👉 ¿Por qué recibo una advertencia de virus para un archivo descargado de su sitio web?](#-por-qué-recibo-una-advertencia-de-virus-para-un-archivo-descargado-de-su-sitio-web)
+  - [👉 ¿Pueden enviarme una copia física del CD a mi dirección?](#-pueden-enviarme-una-copia-física-del-cd-a-mi-dirección)
 
 ## **Introducción a Hiren´s Boot CD**
 
@@ -192,13 +192,13 @@ Hiren's BootCD PE debe incluir las herramientas gratuitas más pequeñas y mejor
 
 ## **Preguntas Frecuentes sobre Hiren´s Boot ❔**
 
-### 👉 **¿Hay algún minero de bitcoin o software malicioso infectado en su ISO?**
+### 👉 ¿Hay algún minero de bitcoin o software malicioso infectado en su ISO?
 
 No hay bitcoin ni ningún otro minero infectado en nuestros archivos ISO o en nuestra herramienta ISO2USB. No hay software malicioso, el código está incluido en los archivos alojados en nuestro sitio web. Todo esta limpio.
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### 👉 **¿Es legal usar Windows PE?**
+### 👉 ¿Es legal usar Windows PE?
 
 “Windows PE no es un sistema operativo de propósito general. No puede usarse para ningún otro propósito que no sea la implementación y la recuperación. No debe usarse como un cliente ligero o un sistema operativo integrado. Existen otros productos de Microsoft, como Windows Embedded CE, que pueden usarse para estos fines.
 
@@ -208,42 +208,52 @@ Fuente: Ver [Microsoft WinPE Introducción](https://docs.microsoft.com/en-us/win
 
 Windows PE no incluye ninguna clave de licencia de Windows. Además, Hiren's BootCD PE no viola los propósitos de Windows PE y no cambia la limitación de "72 horas de uso continuo". Por lo tanto, el uso de Windows PE en Hiren's BootCD PE es legal en términos de los propósitos de uso de Microsoft.
 
-### 👉 **HBCD PE incluye software como Acronis, ¿Es legal?**
+### 👉 HBCD PE incluye software como Acronis, ¿Es legal?
 
 Acronis True Image 2018 en HBCD PE es la versión gratuita, de prueba y limitada. No permite realizar copias de seguridad, pero permite restaurar en modo de prueba. No hay software crackeado o pirateado en la ISO.
 
-### 👉 **¿Por qué el arranque de DVD se cuelga en la pantalla del logotipo de Windows?**
+### 👉 ¿Por qué el arranque de DVD se cuelga en la pantalla del logotipo de Windows?
 
 Tenga en cuenta que, recomendamos el arranque USB para las ediciones de Windows PE. Arrancar desde DVD puede hacer que espere mucho tiempo en la pantalla del logotipo de Windows en algunas computadoras. Si el arranque tarda entre 8 y 10 minutos, intente arrancar desde USB.
 
-### 👉 **¿Por qué recibo una advertencia de virus para un archivo descargado de su sitio web?**
+### 👉 ¿Por qué recibo una advertencia de virus para un archivo descargado de su sitio web?
 
 Los archivos que descarga de nuestro sitio web  NO contienen virus.  Si recibe una advertencia de virus, eso es un  falso positivo . Informe el archivo como un falso positivo a través de su software antivirus.
 
-### 👉 **¿Pueden enviarme una copia física del CD a mi dirección?**
+### 👉 ¿Pueden enviarme una copia física del CD a mi dirección?
 
 Lamentablemente, no podemos ofrecer ese tipo de ayuda con o sin precio.
 
-**Fuente**: Ver [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren"){:target="_blank" rel="nofollow,noreferrer"}. **Edición**: Esta guía fue creada originalmente el 10 de Noviembre de 2019 y editada por última vez el 16 de Mayo de 2020.
-{: .notice--info}
+> **Fuente**: Ver [Hiren Info](https://www.hiren.info/ "Página web oficial de Hiren"){:target="_blank" rel="nofollow,noreferrer"}. **Edición**: Esta guía fue creada originalmente el 10 de Noviembre de 2019 y editada por última vez el 16 de Mayo de 2020.
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 
-[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/)
+
+[5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/)
+
 [▷ Windows Template Studio y Otros Recursos para Crear Aplicaciones para Windows 10](https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/)
 
-[10 Mejores VPN GRATIS para Windows en 2020](https://ciberninjas.com/mejores-vpn-windows/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🍫 ▷ Chocolatey, Aprender Desde Cero](https://ciberninjas.com/chocolatey/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez](https://ciberninjas.com/ninite/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🥇 ▷ Las 8 mejores aplicaciones de dibujo](https://ciberninjas.com/mejor-software-dibujo-windows-android/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe){: .btn .btn-outline-dark .btn-lg .btn-block}
+[10 Mejores VPN GRATIS para Windows en 2020](https://ciberninjas.com/mejores-vpn-windows/)
+
+[🥇 ▷ Deja de perder texto e imágenes de forma permanente](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
+
+[8 Fórmulas diferentes de crear una captura de pantalla en Windows 10](https://ciberninjas.com/capturas-pantalla-windows-10/)
+
+[💻 ▷ 12 Teclas de acceso rápido para cambiar rápidamente entre ventanas](https://ciberninjas.com/cambio-r%C3%A1pido-entre-ventanas-windows-10/)
+
+[💻 ▷ Cómo controlar otro ordenador a través de la Asistencia](https://ciberninjas.com/ayuda-control-remoto-windows-10/)
+
+[🍫 ▷ Chocolatey, Aprender Desde Cero](https://ciberninjas.com/chocolatey/)
+
+[🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez](https://ciberninjas.com/ninite/)
+
+[🥇 ▷ Las 8 mejores aplicaciones de dibujo](https://ciberninjas.com/mejor-software-dibujo-windows-android/)
+
+[👩‍🔧 ▷ Hiren´s BootCD PE](https://ciberninjas.com/hirens-bootcd-pe/)
+
+[Windows PE o Entorno de Preinstalación de Windows](https://ciberninjas.com/wiki/windows-pe)
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

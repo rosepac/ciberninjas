@@ -400,17 +400,22 @@ Nuevo tutorial para desarrollar aplicaciones C ++ con CMake y la extensión CMak
 
 El instalador de Visual Studio Code para Java Pack descarga las dependencias y extensiones necesarias para el desarrollo de Java en Visual Studio Code en macOS.
 
+### **Relacionados** <!-- omit in toc -->
+
+[🥇 Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/)
+
+[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
+
+[▷ Codelobster IDE: Editor de PHP, HTML, CSS, JavaScript](https://ciberninjas.com/zeetlr-editor-markdown/)
+
+[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/)
+
+[11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/)
+
+[▷ Zettlr: Editor de Markdown hecho a medida para el Siglo XXI](https://ciberninjas.com/zeetlr-editor-markdown/)
+
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados <!-- omit in toc -->
-
-[🥇 Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[▷ Codelobster IDE: Editor de PHP, HTML, CSS, JavaScript](https://ciberninjas.com/zeetlr-editor-markdown/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[▷ Zettlr: Editor de Markdown hecho a medida para el Siglo XXI](https://ciberninjas.com/zeetlr-editor-markdown/){: .btn .btn-outline-dark .btn-lg .btn-block}
+> **Fuente**: [Blog Oficial de Visual Studio Code](https://code.visualstudio.com/updates/v1_47){:target="_blank" rel="nofollow,noreferrer"}
 
 ![Visual Studio Code lanza una nueva versión, y comienza a utilizar Typescript. En concreto, la versión 1.47, vas a encontrar todos los cambios más destacados en este extenso artículo.](/assets/img/2020-news/caract-windows-10.webp "Visual Studio Code lanza una nueva versión, y comienza a utilizar Typescript. En concreto, la versión 1.47, vas a encontrar todos los cambios más destacados en este extenso artículo.")
-
-> **Fuente**: [Blog Oficial de Visual Studio Code](https://code.visualstudio.com/updates/v1_47){:target="_blank" rel="nofollow,noreferrer"}

@@ -329,12 +329,12 @@ Una fuente popular de información para una variedad de temas de UX.
 
 ## **[66. Webcredible](https://www.webcredible.com/blog/){:target="_blank" rel="nofollow,noreferrer"}**
 
-UX artículos y recursos.
+Artículos y recursos sobre la experiencia de usuario.
 
-🔥 Seguro también te interesa 👉 [Cómo Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) 👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/) 👉 [Aprender Diseño Web](/diseño-web/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
+> 🔥 Seguro también te interesa 👉 [Cómo Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) 👉 [Diseño Gráfico Recursos](/diseño-grafico-recursos/) 👉 [Aprender Diseño Web](/diseño-web/) >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--warning}
 
-### Relacionados
+### **Relacionados**
 
 [🥇 ▷ Los 18 mejores blogs de diseño gráfico en español 2020](/blogs-diseno-grafico-espanol/)
 

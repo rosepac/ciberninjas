@@ -28,7 +28,7 @@ Windows administra muchos servicios (programas que se ejecutan en segundo plano)
 Hoy, vamos a ver como hacer para evitar que la PC desperdicie recursos en acciones de servicios innecesarios.
 - [**¿Cómo configurar los servicios de Windows?**](#cómo-configurar-los-servicios-de-windows)
 - [**¿Qué servicios de Windows se pueden deshabilitar?**](#qué-servicios-de-windows-se-pueden-deshabilitar)
-  - [Relacionados](#relacionados)
+  - [**Relacionados**](#relacionados)
 
 ## **¿Cómo configurar los servicios de Windows?**
 
@@ -82,9 +82,12 @@ Los nombres exactos de los servicios pueden diferir en algo a los que encuentres
 
 ![Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.](/assets/img/2020-news/windows-servicios-des.webp "Raramente usamos algunos servicios de Windows, y algunos nunca lo hacen. Se pueden deshabilitar para mejorar el rendimiento del sistema operativo.")
 
-### Relacionados
+### **Relacionados**
 
-[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar](https://ciberninjas.com/10-programas-eliminar-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[Atajos de teclado de acceso rápido para Windows 10](https://ciberninjas.com/atajos-teclado-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[Aprende a utilizar el portapapeles de Windows 10](https://ciberninjas.com/portapapeles-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/){: .btn .btn-outline-dark .btn-lg .btn-block}
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar](https://ciberninjas.com/10-programas-eliminar-windows-10/)
+
+[▷ Atajos de teclado de acceso rápido para Windows 10](https://ciberninjas.com/atajos-teclado-windows-10/)
+
+[▷ Aprende a utilizar el portapapeles de Windows 10](https://ciberninjas.com/portapapeles-windows-10/)
+
+[Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/)
