@@ -15,8 +15,6 @@ feature-img: /assets/img/paginas/sitios-estaticos.webp
 img: /assets/img/paginas/sitios-estaticos.webp
 ---
 
-![Guía Completa de Generadores de sitios estáticos en Ciberninjas](/assets/img/paginas/sitios-estaticos.webp)
-
 La gente a veces pregunta si los sitios estáticos tienen sentido para algo más allá de un localizador. ¡Esta tabla de clasificación destaca los principales proyectos de código abierto, en muchos idiomas diferentes, que hacen que los sitios estáticos no solo sean viables, sino también una opción atractiva para crear sitios web sofisticados!
 
 El sitio web típico impulsado por CMS funciona construyendo cada página a pedido, obteniendo contenido de una base de datos y ejecutándolo a través de un motor de plantillas. Esto significa que cada página se ensambla a partir de plantillas y contenido en cada solicitud al servidor.
@@ -111,3 +109,5 @@ Cuando el ciclo de la compilación o implementación se lanza, debes saber que y
 ¡Es posible que ya hayas trabajado con anterioridad en un sitio de Jamstack! Se pueden construir a mano, o con Jekyll, Hugo, Nuxt, Next, Gatsby u otros muchos; puedes conocerlos a todos desde el listad de [JamStack CMS](https://headlesscms.org/){:target="_blank" rel="nofollow,noreferrer"}
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+![Guía Completa de Generadores de sitios estáticos en Ciberninjas](/assets/img/paginas/sitios-estaticos.webp)

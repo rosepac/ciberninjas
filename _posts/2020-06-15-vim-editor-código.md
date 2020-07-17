@@ -4,9 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Editores de Texto
 - Vim
 categories:
-- Editores de Texto
 thumbnail: /assets/img/.webp
 feature-img: /assets/img/.webp
 title: '▷ Vim: El editor de código perfecto para los amantes de Linux'

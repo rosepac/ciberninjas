@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- PHP
-categories:
 - Editores de Texto
+- PHP
 thumbnail: /assets/img/2020-news/codelobster-ide-1.webp
 feature-img: /assets/img/2020-news/codelobster-ide-1.webp
 title: '▷ Codelobster IDE: Editor de PHP, HTML, CSS, JavaScript'

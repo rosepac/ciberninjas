@@ -9,9 +9,8 @@ permalink: /codespace-editor-github/
 author: rosepac
 bootstrap: true
 published: true
-categories:
-  - Editores de Texto
 tags:
+  - Editores de Texto
   - Github
   - Codespace
   - Visual Studio

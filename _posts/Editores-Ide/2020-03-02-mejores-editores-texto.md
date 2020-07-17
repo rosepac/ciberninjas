@@ -22,10 +22,6 @@ tags:
 - Light Table
 - Delphi
 - Markdown Monster
-categories:
-- Editores de Texto
-- Aplicaciones
-- Programas
 thumbnail: "/assets/img/paginas/editores-texto/1280-el-codigo-es-mas-que-una-linea.webp"
 feature-img: "/assets/img/paginas/editores-texto/1280-el-codigo-es-mas-que-una-linea.webp"
 title: '🥇 ▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS'

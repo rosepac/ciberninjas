@@ -4,10 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Editores de Texto
 - Software
 - Markdown
-categories:
-- Editores de Texto
 thumbnail: /assets/img/2020-news/zettlr-editor-texto.webp
 feature-img: /assets/img/2020-news/zettlr-editor-texto.webp
 title: '▷ Zettlr: Editor de Markdown hecho a medida para el Siglo XXI'

@@ -3,6 +3,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Editores de Texto
 - Python
 - Sublime Text
 - Pycharm
@@ -14,8 +15,6 @@ tags:
 - Thonny
 - Visual Studio Code
 - Wing
-categories:
-- Editores de Texto
 thumbnail: /assets/img/blog/python-ide/python-editores-scrapy.webp
 feature-img: /assets/img/blog/python-ide/python-editores-scrapy.webp
 title: '11 Mejores editores de código Python y entornos de desarrollo IDE 2020'
