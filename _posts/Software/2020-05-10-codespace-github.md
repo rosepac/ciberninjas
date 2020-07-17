@@ -88,13 +88,15 @@ Codespaces configura un entorno de Visual Studio Code alojado en la nube, dentro
 Dentro de Codespaces, tendrá acceso a Visual Studio Code Marketplace , y puede precargar cualquier extensión que desee cargar en el lanzamiento utilizando un archivo de configuración devcontainer . También puede personalizar su espacio de código tirando de los archivos de puntos.
 
 [🔨 Únete a la BETA AHORA](https://github.com/features/codespaces/ "Solicita el ingreso en la versión beta del nuevo editor Codespace integrado en Github"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+
+### **Relacionados** <!-- omit in toc -->
+
+[🥇 Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](/mejores-editores-texto/)
+
+[Komodo IDE: Versión extensa gratis a partir de 2020](/ide-komodo-gratis/)
+
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios](/assets/img/blog/10-codespace-editor-github.webp "Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios")
-
-### Relacionados <!-- omit in toc -->
-
-[🥇 Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](/mejores-editores-texto/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[Komodo IDE: Versión extensa gratis a partir de 2020](/ide-komodo-gratis/){: .btn .btn-outline-dark .btn-lg .btn-block}
-
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
+
+![Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios](/assets/img/blog/10-codespace-editor-github.webp "Visual Studio integrado en Github: Codespaces, nuevo editor beta integrado en tus repositorios")

@@ -31,6 +31,14 @@ Sin embargo, muchos todavía no están listos para cambiar a las versiones más 
 
 **¡Ha llegado el momento de que Windows 7 pase a la historia!** Si todavía estas utilizando en un sistema operativo antiguo, aquí hay cinco buenas razones para qe finalmente actualices tu sistema operativo.
 
+- [**1. Seguridad**](#1-seguridad)
+- [**2. Compatibilidad del software**](#2-compatibilidad-del-software)
+- [**3. Nuevos videojuegos**](#3-nuevos-videojuegos)
+- [**4. Mejor soporte**](#4-mejor-soporte)
+- [**5. Nuevas características**](#5-nuevas-características)
+  - [Conclusión](#conclusión)
+- [**¿Cómo cambiar a Windows 10?**](#cómo-cambiar-a-windows-10)
+
 ## **1. Seguridad**
 
 Dado que Microsoft dejó de admitir Windows 7, el sistema es muy vulnerable y se volverá más vulnerable en el futuro. Los agujeros de seguridad no se cerrarán con actualizaciones periódicas, lo que hará del Seven un objetivo ideal para virus y ciberdelincuentes.
@@ -79,13 +87,16 @@ Ahora que comprendes porque necesitas actualizar a Windows 10, debes elegir una 
 2. Si tu ordenador tiene problemas para actualizar y trabajar con Windows 10. Como regla general, Windows 10 suele funcionar fácilmente incluso en procesadores y en los discos duros mecánicos más antiguos; pero un disco duro lento puede provocar congelaciones. Instalando un SSD, incluso de los más económicos, será suficiente.
 3. La última opción es: Instalar Linux. Esto es ideal si no deseas comprar nuevo hardware y Windows 10 hace que tu computadora sufra. Linux está magníficamente optimizado y funciona muy rápido incluso sobre un hardware más antiguo.
 
+### **Relacionados** <!-- omit in toc -->
+
+[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar](https://ciberninjas.com/10-programas-eliminar-windows-10/)
+
+[Atajos de teclado de acceso rápido para Windows 10]((https://ciberninjas.com/atajos-teclado-windows-10/))
+
+[Aprende a utilizar el portapapeles de Windows 10](https://ciberninjas.com/portapapeles-windows-10/)
+
+[Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/)
+
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.](/assets/img/blog/windows-10.webp "Según las estadísticas, Windows 7 todavía está instalado en el 29,43% de los propietarios de PC. Si se encuentra entre ellos, aquí hay cinco buenas razones para finalmente actualizarse.")
-
-### Relacionados
-
-[👨‍🔧 10 Programas de Windows 10 que deberías de eliminar](https://ciberninjas.com/10-programas-eliminar-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[Atajos de teclado de acceso rápido para Windows 10]((https://ciberninjas.com/atajos-teclado-windows-10/)){: .btn .btn-outline-dark .btn-lg .btn-block}
-[Aprende a utilizar el portapapeles de Windows 10](https://ciberninjas.com/portapapeles-windows-10/){: .btn .btn-outline-dark .btn-lg .btn-block}
-[Cómo configurar múltiples firmas en Gmail](https://ciberninjas.com/configurar-firmas-gmail/){: .btn .btn-outline-dark .btn-lg .btn-block}
