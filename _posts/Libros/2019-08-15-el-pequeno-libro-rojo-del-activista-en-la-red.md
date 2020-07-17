@@ -7,7 +7,6 @@ date: 2019-08-15 07:55:54
 tags:
 - Ciberseguridad
 - Libros
-- Marta Peirano
 - Sociología
 - Red e Internet
 permalink: /catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/

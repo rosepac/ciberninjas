@@ -5,8 +5,6 @@ bootstrap: true
 comments: false
 tags:
 - 
-categories:
-- Java
 thumbnail: /assets/img/blog/
 title: '🚀 ▷ '
 description: >-

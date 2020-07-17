@@ -7,7 +7,6 @@ date: 2019-08-30 11:18:55
 tags:
 - Libros
 - Programación Móvil
-- Luis Rollón
 permalink: /catalogo/introduccion-a-swift-programacion-ios/
 description: "🍏 Introducción a Swift: Aprende Swift desde Cero de forma Práctica"
 excerpt: "🍏 Introducción a Swift: Aprende Swift desde Cero de forma Práctica"

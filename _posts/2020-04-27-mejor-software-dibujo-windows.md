@@ -9,7 +9,6 @@ tags:
 - Editores Gráficos
 - Windows
 - Android
-categories:
 thumbnail: /assets/img/blog/abril-programas-diseno.webp
 feature-img: /assets/img/blog/abril-programas-diseno.webp
 title: '🥇 ▷ Las 8 mejores aplicaciones de dibujo para Windows y Android 2020'

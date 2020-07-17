@@ -6,10 +6,8 @@ date: 2020-04-10 22:30:00 +0100
 canonical_URL: https://ciberninjas.com/reflexión-sobre-covid-19-bill-gates/
 permalink: /reflexión-sobre-covid-19-bill-gates/
 published: true
-
-categories:
-  - Reflexión Sociedad
 tags:
+  - Reflexión Sociedad
   - Sociedad
   - Coronavirus
   - Bill Gates

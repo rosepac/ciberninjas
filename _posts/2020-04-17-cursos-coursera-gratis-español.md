@@ -5,12 +5,9 @@ excerpt: "Cursos relacionados con el estudio universitario, el estudio de bachil
 date: 2020-04-17 14:25:00 +0100
 canonical_URL: https://ciberninjas.com/cursos-coursera-gratis-español/
 permalink: /cursos-coursera-gratis-español/
-
 published: true
-categories:
-  - Cursos
 tags:
-  - Coursera
+  - Cursos
 thumbnail: /assets/img/blog/coursera-2.webp
 feature-img: /assets/img/blog/coursera-2.webp
 ---

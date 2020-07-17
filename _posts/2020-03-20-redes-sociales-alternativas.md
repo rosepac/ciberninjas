@@ -7,8 +7,7 @@ canonical_URL: https://ciberninjas.com/alternativas-culturales-combatir-coronavi
 permalink: /alternativas-culturales-combatir-coronavirus/
 published: false
 tags:
-  - Programar
-  - Realidad
+  - 
 thumbnail: /assets/img/
 feature-img: /assets/img/
 ---

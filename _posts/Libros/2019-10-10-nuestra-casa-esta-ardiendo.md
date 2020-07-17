@@ -5,7 +5,6 @@ tags:
 - Libros
 - Sociología
 - Ciencias de la Tierra
-- Greta Thunberg
 comments: false
 date: 2019-10-13 22:25:54
 permalink: /catalogo/nuestra-casa-esta-ardiendo

@@ -6,11 +6,10 @@ date: 2020-04-12 08:37:00 +0100
 canonical_URL: https://ciberninjas.com/cómo-tener-conversaciones-divertidas-zoom/
 permalink: /cómo-tener-conversaciones-divertidas-zoom/
 published: true
-
-categories:
-  - Software
-  - Redes Sociales
 tags:
+  - Software Videollamadas
+  - Actualidad
+  - Redes Sociales
   - Cámara
   - Snapchat
   - Zoom

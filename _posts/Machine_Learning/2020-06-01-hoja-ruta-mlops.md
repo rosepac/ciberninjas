@@ -6,8 +6,7 @@ comments: false
 tags:
 - Aprendizaje Profundo
 - Ciencia de Datos
-categories:
-- Análisis
+- Mlops
 thumbnail: /assets/img/blog/ruta-mlops.webp
 feature-img: /assets/img/blog/ruta-mlops.webp
 title: 'Hoja de Ruta del aprendizaje profundo y la ciencia de datos para los próximos 5 años'

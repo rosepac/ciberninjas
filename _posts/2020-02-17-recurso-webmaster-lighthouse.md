@@ -14,12 +14,11 @@ feature-img: /assets/img/blog/webmaster-herramientas-lighthouse.webp
 permalink: /recurso-webmaster-lighthouse/
 canonical_URL: https://ciberninjas.com/recurso-webmaster-lighthouse/
 categories:
+- Herramientas Webmaster
 - Auditorías
 - Aplicaciones
 - Lighthouse
 - Testing
-tags:
-- Herramientas Webmaster
 
 ---
 

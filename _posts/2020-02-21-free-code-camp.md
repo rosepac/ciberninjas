@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Java
-categories:
-- Actualidad
+- Educación
+- Cursos
 thumbnail: /assets/img/blog/java-visual-studio.webp
 title: '💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020'
 description: >-

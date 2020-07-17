@@ -5,8 +5,6 @@ bootstrap: true
 comments: false
 tags:
 - 
-categories:
-- Java
 thumbnail: /assets/img/blog/
 feature-img: /assets/img/blog/
 title: '▷ Guía '

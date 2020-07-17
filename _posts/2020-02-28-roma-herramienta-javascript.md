@@ -5,8 +5,6 @@ bootstrap: true
 comments: false
 tags:
 - Herramientas Javascript
-- Facebook
-categories:
 - Javascript
 thumbnail: /assets/img/blog/roma-tool-transparente.webp
 feature-img: /assets/img/blog/roma-tool-transparente.webp

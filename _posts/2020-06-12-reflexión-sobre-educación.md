@@ -4,9 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Internet
-categories:
-- Reflexión
+- Reflexión sobre Internet
 thumbnail: /assets/img/blog/
 feature-img: /assets/img/blog/
 title: '▷ La extrapolación subrealista del mundo virtual al mundo real (Explicada?)'

@@ -13,10 +13,10 @@ thumbnail: /assets/img/frameworks-multiplataforma/angular-framework.jpg
 feature-img: /assets/img/frameworks-multiplataforma/angular-framework.jpg
 permalink: /angular-version-9-liberado/
 canonical_URL: https://ciberninjas.com/angular-version-9-liberado/
-categories:
-- Framework Multiplataforma
 tags:
+- Framework Multiplataforma
 - Angular
+- Novedades
 
 ---
 

@@ -3,7 +3,6 @@ title: "🔐 Vigilancia Permanente de Edward Snowden"
 tags:
   - Ciberseguridad
   - Libros
-  - Edward Snowden
 comments: false
 date: 2019-09-14 06:20:00 +0200
 permalink: /catalogo/vigilancia-permanente/

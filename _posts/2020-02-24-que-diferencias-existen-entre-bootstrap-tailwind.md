@@ -5,6 +5,7 @@ bootstrap: true
 comments: false
 tags:
 - Bootstrap
+- Frameworks CSS
 - Tailwind CSS
 categories:
 - Framework CSS

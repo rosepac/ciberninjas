@@ -4,9 +4,9 @@ comments: false
 author: rosepac
 bootstrap: true
 tags:
+- Servicios Nube
 - Cloudflare
 categories:
-- Servidores
 thumbnail: /assets/img/blog/
 title: "🚀 ▷ Cloudflare's Gen X: Servidores para un futuro acelerado"
 description: >-

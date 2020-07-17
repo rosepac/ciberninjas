@@ -7,9 +7,8 @@ canonical_URL: https://ciberninjas.com/ionic-anuncia-capacitor-2/
 permalink: /ionic-anuncia-capacitor-2/
 
 published: true
-categories:
-  - Framework Multiplataforma
 tags:
+  - Framework Multiplataforma
   - Ionic
 thumbnail: /assets/img/blog/capacitor-2-img.webp
 feature-img: /assets/img/blog/capacitor-2-img.webp

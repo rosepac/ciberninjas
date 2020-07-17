@@ -4,6 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Sistemas Operativos
 - Linux
 - Elementary
 - Ubuntu
@@ -13,9 +14,7 @@ tags:
 - Mint
 - Zorin
 - Unix
-- Distribuciones
-categories:
-- Sistemas Operativos
+- Distribuciones Linux
 thumbnail: /assets/img/blog/linux-mejor-sistema-operativo.webp
 feature-img: /assets/img/blog/linux-mejor-sistema-operativo.webp
 title: '🥇 ▷ Los 7 Mejores Sistemas Operativos de Linux (unix) para Principiantes del Código Abierto'

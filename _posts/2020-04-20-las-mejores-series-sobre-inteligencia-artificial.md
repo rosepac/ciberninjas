@@ -6,10 +6,9 @@ date: 2020-04-20 13:05:00 +0100
 canonical_URL: https://ciberninjas.com/mejores-series-inteligencia-artificial/
 permalink: /mejores-series-inteligencia-artificial/
 published: false
-categories:
-  - Series
 tags:
   - Inteligencia Artificial
+  - Series de Televisión
 thumbnail: /assets/img/
 feature-img: /assets/img/
 ---

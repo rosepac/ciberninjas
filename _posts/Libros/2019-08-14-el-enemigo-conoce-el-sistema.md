@@ -6,7 +6,6 @@ comments: false
 date: 2019-08-14 20:24:54
 tags:
 - Libros
-- Marta Peirano
 - Ciberseguridad
 - Ciencias Informáticas
 - Administración y Redes

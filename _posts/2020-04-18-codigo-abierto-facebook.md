@@ -5,13 +5,10 @@ excerpt: ""
 date: 2020-04-18 01:00:00 +0100
 canonical_URL: https://ciberninjas.com/código-abierto-facebook/
 permalink: /código-abierto-facebook/
-
 published: false
-categories:
-  - Reflexión Programar
 tags:
-  - Programar
-  - Realidad
+  - Repositorios
+  - Software
 thumbnail: /assets/img/
 feature-img: /assets/img/
 ---

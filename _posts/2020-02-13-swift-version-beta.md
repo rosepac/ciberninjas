@@ -13,11 +13,10 @@ thumbnail: /assets/img/blog/swift-open-source_2048.webp
 feature-img: /assets/img/blog/swift-open-source_2048.webp
 permalink: /swift-version-beta-5-2/
 canonical_URL: https://ciberninjas.com/swift-version-beta-5-2/
-categories:
-- Novedades
-- Lenguajes de Programación
 tags:
+- Novedades
 - Swift
+- Lenguajes de Programación
 
 ---
 

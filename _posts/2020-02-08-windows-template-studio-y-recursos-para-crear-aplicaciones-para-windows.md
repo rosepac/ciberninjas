@@ -13,12 +13,11 @@ thumbnail: /assets/img/apache/apache-zookeeper-ciberninjas.webp
 feature-img: /assets/img/apache/apache-zookeeper-ciberninjas.webp
 permalink: /windows-template-studio-recursos-para-aplicaciones-con-xaml-net/
 canonical_URL: https://ciberninjas.com/windows-template-studio-recursos-para-aplicaciones-con-xaml-net/
-categories:
-- Windows 10
-- NET
 tags:
 - Windows Template Studio
+- Windows 10
 - Herramientas Windows
+- NET
 - XAML
 
 ---

@@ -7,9 +7,8 @@ canonical_URL: https://ciberninjas.com/coronavirus-revela-errores-tecnológicos/
 permalink: /coronavirus-revela-errores-tecnológicos/
 
 published: true
-categories:
-  - Reflexión Sociedad
 tags:
+  - Reflexión Sociedad
   - Coronavirus
   - Cobol
   - Zoom

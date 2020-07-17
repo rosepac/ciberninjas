@@ -5,10 +5,8 @@ excerpt: "Los mejores hábitos y más sencillos con los que centrarte en el desa
 date: 2020-02-24 18:20:00 +0100
 canonical_URL: https://ciberninjas.com/hábitos-basicos-desarrollador-software/
 permalink: /hábitos-basicos-desarrollador-software/
-
-categories:
-  - Reflexión Programar
 tags:
+  - Reflexiones de Programación
   - Programar
   - Software
 thumbnail: /assets/img/blog/imagen-pensando-chicos.webp

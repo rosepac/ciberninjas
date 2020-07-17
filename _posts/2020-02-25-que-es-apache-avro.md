@@ -5,7 +5,6 @@ bootstrap: true
 comments: false
 tags:
 - Apache Avro
-categories:
 - Apache Hadoop
 thumbnail: /assets/img/blog/
 title: '🚀 ▷ ¿Qué es Apache Avro para Apache Haddop?'

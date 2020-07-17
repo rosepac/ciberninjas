@@ -5,11 +5,9 @@ excerpt: "Vamos a conocer los cambios que nos ofrece la nueva versión del Frame
 date: 2020-04-15 14:01:00 +0100
 canonical_URL: https://ciberninjas.com/nativescript-framework-6-5/
 permalink: /nativescript-framework-6-5/
-
 published: true
-categories:
-  - Framework Multiplataforma
 tags:
+  - Framework Multiplataforma
   - NativeScript
   - Kotlin
 thumbnail: /assets/img/blog/nativescript-app-1.webp

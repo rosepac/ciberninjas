@@ -5,8 +5,6 @@ bootstrap: true
 comments: false
 title: '📢 ▷ Las Mejores Frases Motivadoras del Reconocido Arquitecto Frank Owen Gehry'
 tags:
-- Frank Owen Gehry
-categories:
 - Citas Célebres
 thumbnail: /assets/img/blog/geotagged-las-vegas-pxhere.com_2048.webp
 feature-img: /assets/img/blog/geotagged-las-vegas-pxhere.com_2048.webp

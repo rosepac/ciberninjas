@@ -4,8 +4,6 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Bernard Stiegler
-categories:
 - Citas Célebres
 thumbnail: /assets/img/blog/bernard-stiegler.webp
 feature-img: /assets/img/blog/bernard-stiegler.webp

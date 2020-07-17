@@ -7,7 +7,6 @@ date: 2019-08-17 10:57:30
 tags:
 - Ciberseguridad
 - Libros
-- Kevin Mitnick
 permalink: /catalogo/el-arte-de-la-invisibilidad/
 description: "El Arte de la Invisibilidad de Kevin Mitnick"
 excerpt: "El Arte de la Invisibilidad de Kevin Mitnick"

@@ -16,9 +16,8 @@ feature-img: /assets/img/frameworks-ai/tensorflow-ciberninjas.png
 permalink: /tensorflow-guia/
 canonical_URL: https://ciberninjas.com/tensorflow-guia/
 tags:
-- TensorFlow
-categories:
 - Aprendizaje Automático
+- TensorFlow
 
 ---
 

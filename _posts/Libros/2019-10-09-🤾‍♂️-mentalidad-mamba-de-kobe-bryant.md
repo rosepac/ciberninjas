@@ -4,13 +4,8 @@ author: rosepac
 bootstrap: true
 title: 🤾‍♂️ La Mentalidad Mamba de Kobe Bryant
 tags:
-  - Catálogo
   - Desarrollo Personal
   - Libros
-  - Alienta (Editorial)
-  - Kobe Bryant
-  - Phil Jackson
-  - Pau Gasol
 comments: false
 date: 2019-10-09 12:10:00 +0200
 permalink: /catalogo/mentalidad-mamba/

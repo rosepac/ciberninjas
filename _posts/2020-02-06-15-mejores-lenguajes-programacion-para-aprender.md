@@ -16,6 +16,7 @@ feature-img: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-progr
 permalink: /15-mejores-lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/15-mejores-lenguajes-programacion/
 tags:
+- Lenguajes de Programación
 - Python
 - Java
 - Javascript
@@ -30,8 +31,6 @@ tags:
 - Ruby
 - Haskell
 - Dart
-categories:
-- Lenguajes de Programación
 
 ---
 

@@ -5,12 +5,11 @@ excerpt: "Los nuevos y audaces diseños de reactores SMR prometen electricidad l
 date: 2020-04-14 13:10:00 +0100
 canonical_URL: https://ciberninjas.com/sobre-la-nueva-energía-nuclear/
 permalink: /sobre-la-nueva-energía-nuclear/
-
 published: true
 categories:
-  - Energías Futuras
 tags:
-  - Nuclear
+  - Energía Nuclear
+  - Energías del Futuro
   - Bill Gates
 thumbnail: /assets/img/blog/nueva-energia-nuclear.webp
 feature-img: /assets/img/blog/nueva-energia-nuclear.webp
@@ -127,7 +126,7 @@ El impulso para nuevos diseños de reactores no proviene solo de las nuevas empr
 
 Varias compañías canadienses están trabajando con laboratorios nacionales de Canada para desarrollar modelos de demostración de sus propios diseños. Además, existen otros programas en marcha a lo largo del mundo: en Gran Bretaña, Indonesia, o China, entre otros. Según una estimación, se calculan más de 100 proyectos de energía nuclear avanzada a lo largo del mundo.
 
-A pesar han existido algunos retrasos en la velocidad de esos proyectos: Por ejemplo, [TerraPower](https://www.popularmechanics.com/science/energy/a25728221/terrapower-china-bill-gates-trump/){:target="_blank" rel="nofollow,noreferrer"}, una compañía respaldada por [Bill Gates](/etiqueta/#bill-gates), firmó un acuerdo para construir un reactor de demostración en China que esperaba terminar en 2022. Pero, la administración Trump suspendió ese acuerdo en 2018, citando preocupaciones sobre permitir el acceso a China a tecnología estadounidense sensible. TerraPower ahora está buscando fondos para construir una planta de demostración en los Estados Unidos, dijo [Gates](/etiqueta/#bill-gates).
+A pesar han existido algunos retrasos en la velocidad de esos proyectos: Por ejemplo, [TerraPower](https://www.popularmechanics.com/science/energy/a25728221/terrapower-china-bill-gates-trump/){:target="_blank" rel="nofollow,noreferrer"}, una compañía respaldada por [Bill Gates](/etiqueta/#Bill+Gates), firmó un acuerdo para construir un reactor de demostración en China que esperaba terminar en 2022. Pero, la administración Trump suspendió ese acuerdo en 2018, citando preocupaciones sobre permitir el acceso a China a tecnología estadounidense sensible. TerraPower ahora está buscando fondos para construir una planta de demostración en los Estados Unidos, dijo [Gates](/etiqueta/#Bill+Gates).
 
 [Transatomic Power](https://www.greentechmedia.com/articles/read/transatomic-to-shutter-its-nuclear-reactor-plans-make-its-technology-public){:target="_blank" rel="nofollow,noreferrer"}, una startup de Cambridge (Massachusetts) financiada en parte por el multimillonario tecnológico Peter Thiel, cerró sus puertas en 2018. 
 

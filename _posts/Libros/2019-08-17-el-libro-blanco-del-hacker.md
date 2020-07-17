@@ -7,7 +7,6 @@ date: 2019-08-17 11:27:55
 tags:
 - Ciberseguridad
 - Libros
-- Pablo Gutiérrez Salazar
 permalink: /catalogo/el-libro-blanco-del-hacker/
 description: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar"
 excerpt: "El Libro Blanco del Hacker de Pablo Gutiérrez Salazar"

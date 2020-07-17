@@ -4,7 +4,6 @@ tags:
   - Catálogo
   - Libros
   - Guías de Educación
-  - Ken Robinson
   - Desarrollo Personal
 comments: false
 date: 2020-02-09 23:10:00 +0100

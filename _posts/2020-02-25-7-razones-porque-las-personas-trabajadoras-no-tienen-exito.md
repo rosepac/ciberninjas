@@ -4,9 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- 
-categories:
-- Java
+- Reflexiones Sociedad
 thumbnail: /assets/img/blog/
 title: '💡 ▷ 7 Razones por las que las personas inteligentes y trabajadoras no tienen éxito'
 description: >-

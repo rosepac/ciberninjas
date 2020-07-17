@@ -5,12 +5,9 @@ excerpt: "Los mejores cursos de Cursera y ahora, por tiempo limitado; hasta fina
 date: 2020-04-17 14:25:00 +0100
 canonical_URL: https://ciberninjas.com/cursos-certificado-gratuito-coursera/
 permalink: /cursos-certificado-gratuito-coursera/
-
 published: true
-categories:
-  - Cursos
 tags:
-  - Coursera
+  - Cursos
 thumbnail: /assets/img/blog/coursera-1.webp
 feature-img: /assets/img/blog/coursera-1.webp
 ---

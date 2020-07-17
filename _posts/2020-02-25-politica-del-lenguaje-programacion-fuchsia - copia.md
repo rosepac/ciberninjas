@@ -4,6 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Lenguajes de Programación
 - Fuchsia
 - Go
 - C
@@ -11,8 +12,6 @@ tags:
 - Dart
 - Rust
 - Go
-categories:
-- Lenguajes de Programación
 thumbnail: /assets/img/blog/google-fuchsia-logo-fondo.webp
 feature-img: /assets/img/blog/google-fuchsia-logo-fondo.webp
 title: '🚀 ▷ ¿Qué lenguajes de programación permite utilizar el Sistema Operativo Fuchsia?'

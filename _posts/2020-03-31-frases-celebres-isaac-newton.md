@@ -4,8 +4,6 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Isaac Newton
-categories:
 - Citas Célebres
 thumbnail: /assets/img/blog/isaac-newton.webp
 feature-img: /assets/img/blog/isaac-newton.webp

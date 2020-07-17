@@ -5,7 +5,6 @@ excerpt: "Más de 10 horas de video y tutoriales prácticos en los que aprender 
 date: 2020-04-15 15:22:00 +0100
 canonical_URL: https://ciberninjas.com/curso-gratis-introducción-flutter-dart/
 permalink: /curso-gratis-introducción-flutter-dart/
-
 published: true
 tags:
   - SDK Multiplataforma

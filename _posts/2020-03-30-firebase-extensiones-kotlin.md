@@ -4,11 +4,10 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Android
 - Firebase
 - Kotlin
 - Extensiones
-categories:
-- Android
 thumbnail: /assets/img/blog/firebase-kotlin-1.webp
 feature-img: /assets/img/blog/firebase-kotlin-1.webp
 title: '🚀 ▷ Lanzamiento de las extensiones de Firebase para Kotlin'

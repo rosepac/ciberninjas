@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Swift
-categories:
 - Lenguajes de Programación
+- Swift
 thumbnail: /assets/img/blog/swift-google.webp
 feature-img: /assets/img/blog/swift-google.webp
 title: '🥇 ▷ Swift: La apuesta de Google en la Programación Diferenciable'

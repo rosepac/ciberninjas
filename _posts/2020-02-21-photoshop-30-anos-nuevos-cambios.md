@@ -5,8 +5,7 @@ bootstrap: true
 comments: false
 tags:
 - Photoshop
-categories:
-- Aplicaciones
+- Software de Diseño
 - Inteligencia Artificial
 thumbnail: /assets/img/blog/adobe-photoshop-1.webp
 feature-img: /assets/img/blog/adobe-photoshop-1.webp

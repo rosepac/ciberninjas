@@ -15,11 +15,10 @@ thumbnail: https://i.ibb.co/cXZ8rBn/mejores-paginas-aprender-programacion.jpg
 permalink: /mejores-paginas-aprender-programacion/
 canonical_URL: https://ciberninjas.com/mejores-paginas-aprender-programacion/
 tags:
+- Ofertas y Chollos
 - Cuadernos
 - Programación
 - Agendas
-categories:
-- Catálogo
 ---
 
 ![]()

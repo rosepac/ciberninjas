@@ -5,11 +5,9 @@ excerpt: "Desarrollo web al Instante: Una herramienta de creación de prototipos
 date: 2020-04-17 13:35:00 +0100
 canonical_URL: https://ciberninjas.com/codesanbox-ide-online/
 permalink: /codesanbox-ide-online/
-
 published: false
-categories:
-  - Editor de Texto
 tags:
+  - Editores de Texto
   - IDE
   - CodeSandBox
 thumbnail: /assets/img/blog/falcon-logo-by-plotly-stripe.webp

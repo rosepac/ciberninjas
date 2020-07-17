@@ -16,10 +16,9 @@ feature-img: https://i.ibb.co/PFtL0KL/rust-1-0-is-the-programming-language-of-mo
 permalink: /desarrolladores-lenguaje-rust/
 canonical_URL: https://ciberninjas.com/desarrolladores-lenguaje-rust/
 tags:
+- Lenguajes de Programación
 - Rust
 - Mozilla
-categories:
-- Lenguajes de Programación
 ---
 
 El lenguaje de programación Python podría ser la vía más rápida para un trabajo tecnológico en cualquier parte del mundo en la actualidad, Pero, según el sitio de intercambio de conocimientos para desarrolladores Stack Overflow, el lenguaje más querido de todos es Rust, un lenguaje de programación de código abierto creado por los pioneros tecnológicos. en Mozilla en 2010.

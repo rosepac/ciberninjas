@@ -4,8 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Historia Robótica
-categories:
+- Historia de las Computadoras
 - Robótica
 thumbnail: /assets/img/blog/rur-robot_perviy.webp
 feature-img: /assets/img/blog/rur-robot_perviy.webp

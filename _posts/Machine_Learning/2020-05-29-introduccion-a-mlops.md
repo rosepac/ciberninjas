@@ -6,8 +6,7 @@ comments: false
 tags:
 - Aprendizaje Profundo
 - Ciencia de Datos
-categories:
-- Análisis
+- Mlops
 thumbnail: /assets/img/blog/mlops-logo.webp
 feature-img: /assets/img/blog/mlops-logo.webp
 title: 'Introducción a MLOps'

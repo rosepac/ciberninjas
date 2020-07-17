@@ -6,10 +6,8 @@ date: 2020-04-11 13:30:00 +0100
 canonical_URL: https://ciberninjas.com/preguntas-respuestas-sobre-covid-19-bill-gates/
 permalink: /preguntas-respuestas-sobre-covid-19-bill-gates/
 published: true
-
-categories:
-  - Reflexión Sociedad
 tags:
+  - Reflexión Sociedad
   - Sociedad
   - Coronavirus
   - Bill Gates

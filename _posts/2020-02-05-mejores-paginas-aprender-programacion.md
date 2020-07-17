@@ -18,8 +18,7 @@ canonical_URL: https://ciberninjas.com/mejores-paginas-aprender-programacion/
 tags:
 - Aprender
 - Programación
-categories:
-- 🌟 Excelentes
+- Repositorios
 ---
 
 <!-- https://techviral.net/best-website-to-learn-programming/ mas mis paginas de guru99 y alguna otra de recopilacion de cursos, que faltan tttttt -->

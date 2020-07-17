@@ -4,10 +4,11 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Servicios Nube
 - Kubernetes
 - Kubenav
-categories:
 - Despliegue
+categories:
 thumbnail: /assets/img/blog/kubenav-gestor-kubernetes.webp
 feature-img: /assets/img/blog/kubenav-gestor-kubernetes.webp
 title: '🚀 ▷ '

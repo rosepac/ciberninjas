@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Diagramas
+- Herramientas Diagramas
 categories:
-- Herramientas
 thumbnail: /assets/img/blog/diagramas-texto.webp
 feature-img: /assets/img/blog/diagramas-texto.webp
 title: '▷ Herramientas para transferir texto a diagrama'

@@ -5,12 +5,9 @@ excerpt: "Falcon es un editor SQL gratuito de código abierto con visualización
 date: 2020-04-17 11:35:00 +0100
 canonical_URL: https://ciberninjas.com/falcon-cliente-sql-visualizar-datos/
 permalink: /falcon-cliente-sql-visualizar-datos/
-
 published: true
-categories:
-  - Software
-  - Bases de Datos
 tags:
+  - Bases de Datos
   - Visualizar Datos
   - Falcon
 thumbnail: /assets/img/blog/falcon-logo-by-plotly-stripe.webp
