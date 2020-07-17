@@ -167,7 +167,7 @@ Si eres nuevo en Capacitor, es fácil de comenzar. Sigue nuestra [guía](https:/
 **Fuente**\: [Ionic Framework: Anuncia el lanzamiento de Capacitor 2.0](https://ionicframework.com/blog/announcing-capacitor-2-0/ "Ionic Framework: Anuncia el lanzamiento de Capacitor 2.0") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [📰 Ionic 4.0: Introducción Ionic para todos](https://ciberninjas.com/ionic-4-0-introduccion-ionic-para-todos)
 

@@ -648,7 +648,7 @@ Cada escritor, codificador y desarrollador tiene un conjunto de herramientas fav
 
 Se han quedado fuera algunos editores, del estilo de por ejemplo: NetBeans, Xcode, QtCreator, OpenBeans, CodeBlocks, Anjuta, Monodevelop. Todos los editores específicos para cada lenguaje de programación creados por JetBraints IntellJ IDEA (PHPStorm, Etc), UltraEdit, BBEdit, Coda, Espresso; y seguro que se quedan algunos más.
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [▷ Editores de Texto](/categoria/#editor-de-texto)
 

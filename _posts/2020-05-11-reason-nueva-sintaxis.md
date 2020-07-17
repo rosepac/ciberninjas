@@ -83,7 +83,7 @@ Aquí hay algunas alternativas que comparten algunos conceptos / linajes similar
 > 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
-### Relacionados <!-- Omit in toc -->
+### **Relacionados** <!-- omit in toc --> <!-- Omit in toc -->
 
 [🥇 ▷ Los Mejores EDITORES de TEXTO para programar en 2020](https://ciberninjas.com/mejores-editores-texto/)
 

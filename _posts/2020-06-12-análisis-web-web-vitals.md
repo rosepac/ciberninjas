@@ -172,7 +172,7 @@ published: false
 
 ### Conclusión
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20)
 

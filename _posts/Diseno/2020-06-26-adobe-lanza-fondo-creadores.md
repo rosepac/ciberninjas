@@ -54,7 +54,7 @@ Si quieres, puedes encontrar todos los detalles sobre cómo presentar tu [solici
 
 ![En respuesta a la crisis de Covid-19, Adobe busca aumentar su apoyo a la comunidad de creadores mundial mediante el lanzamiento de un nuevo Fondo Comunitario de su proyecto Residencia Creativa.](/assets/img/blog/25-adobe-creative-1.webp "En respuesta a la crisis de Covid-19, Adobe busca aumentar su apoyo a la comunidad de creadores mundial mediante el lanzamiento de un nuevo Fondo Comunitario de su proyecto Residencia Creativa.")
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [▷ Adobe lanza Photoshop Camera](https://ciberninjas.com/adobe-photoshop-camera/)
 

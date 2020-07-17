@@ -126,7 +126,7 @@ El resto de cursos, son en inglés y NO tienen subtítulos en español.
 **Fuente**\: [Blog de Coursera](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/ "Blog de Coursera: Aprendizaje en línea gratuito durante el COVID-19"){:target="_blank" rel="nofollow,noreferrer"} traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🥇 ▷ ¿Cómo aprender todo sobre tecnología?](/aprender/)
 

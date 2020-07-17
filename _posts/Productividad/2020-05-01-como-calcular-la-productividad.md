@@ -80,7 +80,7 @@ Algunos empleadores se esfuerzan por seguir a sus empleados en las redes sociale
 
 Los puntos de referencia y objetivos de productividad dependen de la industria. Algunos trabajos ya tienen puntos de referencia básicos establecidos. Por ejemplo, los representantes de servicio al cliente tienen puntos de referencia que establecen cuánto tiempo debe tomar una llamada "productiva". La mayoría de las empresas necesitan establecer puntos de referencia específicos para sí mismas. En muchos trabajos, como los trabajos de servicio al cliente, los empleados no tienen mucho control sobre su propia productividad (es decir, depende de cuántas llamadas reciben, que no pueden controlar).
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [▷ Editores de Texto](/categoria/#editor-de-texto)
   * [Eclipse Theia](/wiki/eclipse-theia)

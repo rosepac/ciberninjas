@@ -83,7 +83,7 @@ Hasta aquí el contenido que he visto. Así que ya no te sabría indicar bien. S
 **Fuente**\: [](http://allendowney.blogspot.com.es/2018/02/learning-to-program-is-getting-harder.html "Aprender a Programar es Cada Vez Más Difícil por Allen Downey") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 * [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/programar/)
 * [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")

@@ -141,7 +141,7 @@ Esta es una chuleta que ya ha sido descargada por más de 23.000 programadores p
 * [Wiki de Python en Español](https://wiki.python.org/moin/SpanishLanguage){:target="_blank" rel="nofollow,noreferrer"}
 * [Wiki de Python en Inglés](https://wiki.python.org/moin/FrontPage){:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🐍 Aprender Python 🐍](/python/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🐍 Noticias Python 🐍](/python-directo/#page-title){: .btn .btn--inverse .btn--large .align-center}

@@ -54,7 +54,7 @@ Solamente debes conectarte con tu cuenta de Github o entrar desde el apartado de
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/)
 

@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Google Meet
-categories:
 - Aplicaciones
+- Google Meet
 thumbnail: /assets/img/2020-news/30-google-meet.webp
 feature-img: /assets/img/2020-news/30-google-meet.webp
 title: "▷ Google Meet: Prepara nuevas y divertidas próximas funciones"
@@ -38,7 +37,7 @@ Con la medida de Google de levantar el límite de tiempo en las llamadas gratuit
 
 ![Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail](/assets/img/2020-news/30-google-meet.webp "Google Meet se ha puesto al día con la popular aplicación de videoconferencia Zoom desde que se hizo gratuita para cualquier persona con una cuenta de Google y vinculándola a Gmail")
 
-### Relacionados
+### **Relacionados**
 
 [Cómo ocultar Google Meet en Gmail](https://ciberninjas.com/ocultar-google-meet/)
 

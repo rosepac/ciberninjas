@@ -79,4 +79,4 @@ Cuando actualiza a una nueva versión de Cordova, es posible que deba actualizar
 [🔨 Más Información](https://www.npmjs.com/package/cordova-osx){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados <!-- omit in toc -->
+### **Relacionados** <!-- omit in toc --> <!-- omit in toc -->

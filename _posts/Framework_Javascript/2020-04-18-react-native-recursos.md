@@ -89,7 +89,7 @@ STACK OVERFLOW Inglés
 Sitios Web de Noticias Relacionadas
 Discord Reactiflux: https://discordapp.com/invite/0ZcbPKXt5bYZVCkR
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/programar/)
 [👩‍💻 Aprender a Programar](/aprender/ "👩‍💻 Aprender a Programar")

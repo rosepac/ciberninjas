@@ -4,8 +4,6 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Frank Owen Gehry
-categories:
 - Citas Célebres
 thumbnail: /assets/img/blog/
 feature-img: /assets/img/blog/

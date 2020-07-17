@@ -318,7 +318,7 @@ CruiseControl es tanto una herramienta de CI como un marco extensible. Se utiliz
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [¿Qué es Jenkins?](https://ciberninjas.com/jenkins/)
 

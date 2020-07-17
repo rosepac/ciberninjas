@@ -124,7 +124,7 @@ Si eres seleccionado para recibir la "subvención" o ayuda económica para tu pr
 
 ![Desde Adobe han creado el proyecto Creative Residency Community Fund o Fondo de Ayuda a Creadores de Adobe. El proyecto se basa en apoyar a los creadores digitales de arte visual repartiendo subvenciones de ayuda de entre 500 y 5.000 dólares.](/assets/img/blog/adobe-becas.webp "Desde Adobe han creado el proyecto Creative Residency Community Fund o Fondo de Ayuda a Creadores de Adobe. El proyecto se basa en apoyar a los creadores digitales de arte visual repartiendo subvenciones de ayuda de entre 500 y 5.000 dólares.")
 
-### Relacionados <!-- omit in toc -->
+### **Relacionados** <!-- omit in toc --> <!-- omit in toc -->
 
 [▷ Adobe lanza Photoshop Camera](https://ciberninjas.com/adobe-photoshop-camera/)
 

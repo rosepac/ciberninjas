@@ -85,7 +85,7 @@ Esperamos dar la bienvenida al equipo de Keybase y estamos entusiasmados con las
 > 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [▷ Editores de Texto](/categoria/#editor-de-texto)
   * [Eclipse Theia](/wiki/eclipse-theia)

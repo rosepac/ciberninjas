@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Twitter
-categories:
 - Aplicaciones
+- Twitter
 thumbnail: /assets/img/2020-news/chirpy-2.webp
 feature-img: /assets/img/2020-news/chirpy-2.webp
 title: "▷ Chirpty: Conoce tu círculo de interacción de Twitter"

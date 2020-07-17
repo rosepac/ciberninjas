@@ -58,7 +58,7 @@ En 2015, insté a los líderes mundiales en una [charla TED](https://www.ted.com
 **Fuente**: [Lo que nuestros líderes pueden hacer ahora, por Bill Gates](https://www.gatesnotes.com/Health/What-our-leaders-can-do-now "Lo que nuestros líderes pueden hacer ahora, por Bill Gates"){:target="_blank" rel="nofollow,noreferrer"} traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🥇 ▷ Quédate en Casa, Frena La Curva, Yo Me Quedo En Casa: Las Mejores Alternativas GRATIS para Combatir la Cuarentena por Coronavirus](/alternativas-culturales-combatir-coronavirus/)
 

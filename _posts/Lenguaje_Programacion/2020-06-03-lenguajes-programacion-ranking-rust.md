@@ -74,7 +74,7 @@ Los 10 lenguajes de programación principales de Tiobe para Junio de 2020 son C,
 
 Las clasificaciones, más o menos, se acerca a la lista de idiomas más utilizados creada por Stack Overflow, que eran JavaScript, HTML / CSS, SQL, Python, Java, Bash / Shell / PowerShell, C#, PHP, TypeScript, C++, C y Go.
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [Rust vs C++: ¿Rust reemplazará a C++ en el futuro?](https://ciberninjas.com/rust-vs-c-m%C3%A1s/)
 

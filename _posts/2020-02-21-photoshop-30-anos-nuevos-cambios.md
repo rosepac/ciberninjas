@@ -50,7 +50,7 @@ Con seguridad las nuevas versiones de software más rápidas y enfocadas incluso
 **Fuente**\: [The Next Web](https://thenextweb.com/apps/2020/02/19/adobe-photoshop-completes-30-years-launches-new-ai-powered-features/ "Adobe Photoshop completa 30 años, lanza nuevas funciones basadas en IA"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 * [🎨 ▷ Recursos de Diseño Gráfico](/dise%C3%B1o-grafico-recursos/)
 * [💻 ▷ Recursos \ Cómo Aprender Diseño Web](/diseño-web/)

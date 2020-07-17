@@ -186,7 +186,7 @@ En mayor o menor medida, casi todo el mundo que crea código que funciona sobre 
 * [Javascript Hall of Fame](https://bestofjs.org/hall-of-fame){:target="_blank" rel="nofollow,noreferrer"}
 * [Open Source - PonyFOO](https://ponyfoo.com/opensource){:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [▷ Introducción a las nuevas características de Javascript 6](https://ciberninjas.com/javascript-6/)
 

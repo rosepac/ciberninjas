@@ -49,7 +49,7 @@ Tekton se encuentra en su segundo año de desarrollo y actualmente está siendo 
 - [Rio](https://github.com/rancher/rio){:target="_blank" rel="nofollow,noreferrer"} - proyecto de código abierto dirigido por Rancher
 - [Kf](https://github.com/google/kf){:target="_blank" rel="nofollow,noreferrer"} - proyecto de código abierto liderado por Google
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [▷ ¿Qué es Tekton? Novedades y Cambios](https://ciberninjas.com/que-es-tekton/)
 

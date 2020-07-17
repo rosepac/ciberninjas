@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Android
-categories:
 - Sistema Operativo
+- Android
 thumbnail: /assets/img/blog/11-android-11-desarrolladores.webp
 feature-img: /assets/img/blog/11-android-11-desarrolladores.webp
 title: '🔩 ▷ Webview en Beta: Herramienta de depuración para desarrolladores Android'
@@ -61,7 +60,7 @@ Para comenzar, abra WebView DevTools, toque "flags", habilite o deshabilite las 
 Esperamos que encuentre útiles las herramientas de desarrollo de WebView para informar fallas y realizar pruebas con las nuevas características de WebView. Instale WebView Beta hoy para comenzar a usar WebView DevTools y consulte [la guía del usuario](https://chromium.googlesource.com/chromium/src/+/HEAD/android_webview/docs/developer-ui.md){:target="_blank" rel="nofollow,noreferrer"} para obtener más sugerencias y trucos.
 
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [📱 ▷ Vista previa de Android 11 para desarrolladores](/android-11-para-desarrolladores/)
 

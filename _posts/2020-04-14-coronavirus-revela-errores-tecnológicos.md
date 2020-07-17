@@ -62,7 +62,7 @@ El hilo conductor, aquí, **es que la pandemia de coronavirus y el desempleo res
 ") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [💡 Lo que nuestros líderes pueden hacer ahora, por Bill Gates](/reflexión-sobre-covid-19-bill-gates/)
 

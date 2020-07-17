@@ -131,7 +131,7 @@ La galería oficial de Flutter. Hay toneladas de cosas allí. Solo toneladas.
 
 ![Logotipo del SDK Multiplataforma de Flutter](/assets/img/blog/flutter-1024x486.webp "Logotipo del SDK de Flutter")
 
-#### Relacionados
+#### **Relacionados** <!-- omit in toc -->
 
 [🎓 Cursos en Español](/cursos-tecnologia/#flutter){: .btn .btn--warning .btn--large} [📌 Ejemplos de Aplicaciones](/flutter-aplicaciones-ejemplos/){: .btn .btn--primary .btn--large} [⚓ Documentación en Español](https://flutter-es.io/docs/get-started/install){: .btn .btn--inverse .btn--large}
 

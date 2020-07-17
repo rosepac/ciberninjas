@@ -560,7 +560,7 @@ Por último, puedes ayudar a que el proyecto siga en pie. Ojeando nuestras recom
 > 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🎓 Cursos de tecnología en español](https://ciberninjas.com/cursos-tecnologia/)
 

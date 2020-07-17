@@ -174,7 +174,7 @@ Creo que después de que esto esté bajo control, los gobiernos y otros invertir
 **Fuente**: [Gates Notes: 31 preguntas y respuestas sobre COVID-19, por Bill Gates](https://www.gatesnotes.com/Health/A-coronavirus-AMA "31 preguntas y respuestas sobre COVID-19, por Bill Gates"){:target="_blank" rel="nofollow,noreferrer"} traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast).
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🥇 ▷ Quédate en Casa, Frena La Curva, Yo Me Quedo En Casa: Las Mejores Alternativas GRATIS para Combatir la Cuarentena por Coronavirus](/alternativas-culturales-combatir-coronavirus/)
 

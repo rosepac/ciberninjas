@@ -401,7 +401,7 @@ Esta biblioteca tiene licencia bajo la licencia **[Apache 2.0](https://github.co
 - [Licencia](#licencia)
   - [Relacionados](#relacionados)
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [▷ Cómo Aprender Python en 2020 🐍](/python/)
 

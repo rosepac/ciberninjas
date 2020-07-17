@@ -84,7 +84,7 @@ Nunca olvides que, **¡El aprendizaje es un proceso continuo!** ¡Entonces, A qu
 **Fuente**\: [The Broodle](https://thebroodle.com/tech/5-vital-elements-required-to-become-a-software-developer/ "5 elementos vitales necesarios para convertirse en desarrollador de software")
 {: .notice--info}
 
-### Relacionados <!-- omit in toc -->
+### **Relacionados** <!-- omit in toc --> <!-- omit in toc -->
 
 [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020 "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")
 [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/aprender-a-programar-es-cada-vez-más-difícil/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")

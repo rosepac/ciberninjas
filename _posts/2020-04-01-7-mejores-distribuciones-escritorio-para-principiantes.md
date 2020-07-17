@@ -216,7 +216,7 @@ Finalmente, System76 ha agregado una forma simple de actualizar el firmware, alg
 [⏩ Probar Pop OS!](https://kutt.it/linux-pop-os){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- contenido -->
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🥇 ▷ Los 11 Mejores Sistemas Operativos para Hacker en 2020](/7-mejores-distribuciones-escritorio-para-principiantes/)
 

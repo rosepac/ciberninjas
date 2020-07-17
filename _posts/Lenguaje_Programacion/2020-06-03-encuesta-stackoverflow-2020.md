@@ -54,7 +54,7 @@ En cuanto a otras detalles sobre las tecnologías más utilizadas por los desarr
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [▷ El Lenguaje de Programación Rust entre los favoritos](https://ciberninjas.com/lenguajes-programaci%C3%B3n-ranking-rust/)
 

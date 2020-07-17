@@ -4,8 +4,6 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Frederic Mistral
-categories:
 - Citas Célebres
 thumbnail: /assets/img/blog/frederic-mistral.webp
 feature-img: /assets/img/blog/frederic-mistral.webp

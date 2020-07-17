@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Angular
-categories:
 - Frameworks Multiplataforma
+- Angular
 thumbnail: /assets/img/2020-news/angular-10.webp
 feature-img: /assets/img/2020-news/angular-10.webp
 title: '🥇 ▷ Angular 10: Conoce todas las novedades del framework desarrollado en Typescript por Google'

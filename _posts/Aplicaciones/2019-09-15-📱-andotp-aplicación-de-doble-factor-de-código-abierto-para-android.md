@@ -1,13 +1,10 @@
 ---
-title: "\U0001F4F1 andOTP Aplicación de Doble Factor de Código Abierto para Android"
+title: "AndOTP Aplicación de Doble Factor de Código Abierto para Android"
 description: "\U0001F510 La Mejor Aplicación \U0001F4F1 de Doble Factor de Código Abierto para Android"
 excerpt: "\U0001F510 La Mejor Aplicación \U0001F4F1 de Doble Factor de Código Abierto para Android"
 date: 2019-09-15 18:47:00 +0200
-categories:
-  - Actualidad
-  - Aplicaciones
-  - Seguridad
 tags:
+  - Aplicaciones Seguridad
   - Autentificación
   - Doble Factor
 thumbnail: /assets/img/aplicacion-andotp.webp
@@ -113,5 +110,6 @@ Conoce las diferentes formas de migrar a andOTP desde otras aplicaciones 2FA. Pa
 * **Requiere** : cargar copia de seguridad de freeotp a la computadora, convertir y descargar al tel&eacute;fono
 * **Genera** : un archivo de copia de seguridad andotp json.
 
-**Github**\: [ANDOTP](https://kutt.it/andotp-github "Enlace al código de la librería libre de Github del proyecto ANDOTP")
-{: .notice--info}
+> **Fuente del Repositorio de Github**\: [AndoTP](https://kutt.it/andotp-github "Enlace al código de la librería libre de Github del proyecto AndoTP")
+
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

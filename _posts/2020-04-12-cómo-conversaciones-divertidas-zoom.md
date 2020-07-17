@@ -48,7 +48,7 @@ Eso es todo, ya puedes comenzar tu reunión transformando tu cara en una patata,
 **Fuente**\: [How to change your face in Zoom](How to change your face in Zoom "") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [📸 Cómo publicar en Instagram desde el Ordenador. Extensión de Chrome: Mobile Browser Emulator](/como-publicar-en-instagram-%F0%9F%93%B8-desde-el-ordenador-%F0%9F%96%A5-extension-de-chrome-mobile-browser-emulator/)
 

@@ -52,4 +52,4 @@ El mayor problema es que los perjudicados, son y van a ser, los mismos de siempr
 **Fuente**\: [](http://allendowney.blogspot.com.es/2018/02/learning-to-program-is-getting-harder.html "Aprender a Programar es Cada Vez Más Difícil por Allen Downey") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://kutt.it/ciberninjast) bajo permiso del autor.
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->

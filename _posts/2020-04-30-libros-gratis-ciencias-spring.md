@@ -582,7 +582,7 @@ Los libros se encuentran por orden de publicación, desde más antiguos hasta m�
 | 407  | Literature and Medicine                            | Ronald Schleifer, Jerry B. Vannatta                | 1st ed.2019 | http://link.springer.com/openurl?genre=book&isbn=978-3-030-19128-3 |
 | 408  | Food Fraud Prevention                              | John W. Spink                                      | 1st ed.2019 | http://link.springer.com/openurl?genre=book&isbn=978-1-4939-9621-6 |
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [📚 ▷ Más de 1.500 Libros PDF en Inglés de Desarrollo Web, Programación, Seguridad, Robótica, Blockchain, Domótica y Mucho Más](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia-ingles/)
 

@@ -53,4 +53,4 @@ Cuando instalas una nueva versión de `cordova-cli`, ya incluye una nueva versi�
 
 ![Cordova iOS es una biblioteca de aplicaciones iOS que permite construir proyectos basados ​​en Cordova para la plataforma iOS. Las aplicaciones basadas en Cordova son, en esencia, aplicaciones escritas con tecnología web: HTML, CSS y JavaScript.](/assets/img/2020-news/cordova-apache-ios.webp "Cordova iOS es una biblioteca de aplicaciones iOS que permite construir proyectos basados ​​en Cordova para la plataforma iOS. Las aplicaciones basadas en Cordova son, en esencia, aplicaciones escritas con tecnología web: HTML, CSS y JavaScript.")
 
-### Relacionados <!-- omit in toc -->
+### **Relacionados** <!-- omit in toc --> <!-- omit in toc -->

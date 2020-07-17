@@ -156,7 +156,7 @@ Arctext.js es un complemento de jQuery que le permite curvar texto usando CSS3 y
 
 [🔥 Probar Arctext](https://tympanus.net/Development/Arctext/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🥇 Los 14 mejores framework de desarrollo de aplicaciones web y móviles para 2020 👨‍💻](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20)
 

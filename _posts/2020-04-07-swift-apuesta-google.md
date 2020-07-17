@@ -540,7 +540,7 @@ Las cosas aún no están muy establecidas, hay muchas herramientas que aún debe
 **Fuente**\: Traducción del artículo Swift: Google’s bet on differentiable programming propiedad de [Try o Labs](https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming/#sign-up-form-swift "Try o Labs"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🥇 ▷ Swift: Nueva versión Beta 5.2](/swift-version-beta-5-2/)
 

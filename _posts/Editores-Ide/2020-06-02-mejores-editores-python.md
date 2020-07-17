@@ -249,7 +249,7 @@ Precio: Gratis para la comunidad, sin embargo. Las versiones empresariales son d
 > 🔥 Seguro también te interesa: [Cómo aprender Python en 2020](/python/), [🥇 ▷ Cómo aprender aprendizaje automático o machine learning en 2020 🤖](/que-aprender-sobre-machine-learning-2020/), [▷ Más de 200 de los mejores tutoriales de aprendizaje automático, PNL y Python](/aprendizaje-automatico-cursos-ingles/)
 {: .notice--danger}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🥇 ▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
 

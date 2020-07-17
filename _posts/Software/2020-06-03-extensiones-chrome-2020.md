@@ -94,7 +94,7 @@ Nimbus es la extensión del futuro, que más tarde o temprano va a lograr sustit
 
 ![Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.](/assets/img/blog/chrome-extensiones.webp "Aumenta el potencial de tu navegador Google Chrome, haz crecer tu productividad, eficiencia y seguridad.")
 
-### Relacionados <!-- omit in toc -->
+### **Relacionados** <!-- omit in toc --> <!-- omit in toc -->
 
 [👨‍🔧 5 formas de restaurar las ventanas de Windows](https://ciberninjas.com/5-formas-restaurar-ventana-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}
 [👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/){: .btn .btn-outline-warning .btn-lg .btn-block}

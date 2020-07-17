@@ -132,7 +132,7 @@ Debemos decir que esto es altamente experimental y está sujeto a cambios pero, 
 **Fuente**\: [NativeScript Blog Oficial](https://www.nativescript.org/blog/whats-new-in-nativescript-6-5 "Novedades de NativeScript 6.5: What´s new in nativescript 6.5") traducci&oacute;n al castellano por [Pablo &Aacute;lvarez Corredera](https://t.me/ciberninjas) bajo permiso del autor.
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🥇 Los 14 Mejores Framework de Desarrollo de Aplicaciones Web y Móviles para 2020 👨‍💻](https://ciberninjas.com/mejores-sdk-multiplataforma-2019-20)
 

@@ -10,10 +10,9 @@ date: 2020-01-23 11:22:12
 last_modified_at: 
 permalink: /tutorial-webmaster-webpagetest/
 canonical_URL: https://ciberninjas.com/tutorial-webmaster-webpagetest/
-categories:
-- Tutorial Android
 tags:
 - Android
+- Tutorial Android
 ---
 
 ## 1) ¿Qué es Android?

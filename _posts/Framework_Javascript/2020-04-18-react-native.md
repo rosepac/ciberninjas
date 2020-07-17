@@ -116,7 +116,7 @@ Sin embargo, hubo algunos errores que se resolvieron investigando; pero en gener
 - React Native necesita un intérprete para descifrar el código para iOS, lo que ralentiza un poco la velocidad de codificación. Esto lo hizo más lento que el intérprete de Ionic.
 - No existe una sensación de estar desarrollando una aplicación nativa de forma clara y concisa ni busca al usar la inserción de sus widgets.
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/programar/)
 [👩‍💻 Aprender a Programar es Cada Vez Más Difícil](/programar/ "👩‍💻 Aprender a Programar es Cada Vez Más Difícil")

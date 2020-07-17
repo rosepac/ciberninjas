@@ -106,7 +106,7 @@ Los contenidos separados por secciones son los siguientes:
 
 [👉 ¿Qué es Flutter?](/que-es-flutter-y-por-que-debes-aprenderlo/){: .btn .btn--outline .btn--large} [👉 Aprender Flutter?](/como-aprender-flutter/){: .btn .btn--inverse .btn--large} [👉 Comparación con Flutter](/comparacion-flutter-react-native-xamarin/){: .btn .btn--inverse .btn--large} [👉 Wallpapers Flutter](/wallpaper-flutter/){: .btn .btn--inverse .btn--large} [👉 Guía DevTools](/flutter-dart-devtools/){: .btn .btn--inverse .btn--large}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🥇 ▷ Cómo se relaciona el lenguaje de programación Dart con Flutter](https://ciberninjas.com/relacion-entre-dart-flutter/)
 

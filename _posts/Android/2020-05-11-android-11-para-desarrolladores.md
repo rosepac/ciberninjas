@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Android
-categories:
 - Sistema Operativo
+- Android
 thumbnail: /assets/img/blog/11-android-11-desarrolladores.webp
 feature-img: /assets/img/blog/11-android-11-desarrolladores.webp
 title: '📱 ▷ Vista previa de Android 11 para desarrolladores'
@@ -38,7 +37,7 @@ Si ya estabas ejecutando una compilación del sistema de desarrollador, recibir�
 
 [⏩ Vista previa de Android 11 para desarrolladores](https://developer.android.com/preview "Vista previa de Android 11 para desarrolladores"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [📱 ▷ Vista previa de Android 11 para desarrolladores](/android-11-para-desarrolladores/)
 

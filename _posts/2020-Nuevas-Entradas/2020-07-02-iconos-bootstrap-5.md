@@ -4,10 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Framework CSS
 - Bootstrap
 - Iconos
-categories:
-- Framework CSS
 thumbnail: /assets/img/2020-news/donb-iconos.webp
 feature-img: /assets/img/2020-news/donb-iconos.webp
 title: '▷ Bootstrap 5 Iconos: Nueva versión Alpha'

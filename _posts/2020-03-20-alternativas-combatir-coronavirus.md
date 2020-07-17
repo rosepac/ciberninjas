@@ -6,12 +6,6 @@ date: 2020-03-26
 canonical_URL: https://ciberninjas.com/alternativas-culturales-combatir-coronavirus/
 permalink: /alternativas-culturales-combatir-coronavirus/
 published: true
-
-categories:
-  - Especial
-tags:
-  - Cultura
-  - Actividades
   - Coronavirus
 thumbnail: /assets/img/blog/stop-coronavirus.webp
 feature-img: /assets/img/blog/stop-coronavirus.webp

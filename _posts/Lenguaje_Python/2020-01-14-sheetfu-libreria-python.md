@@ -24,7 +24,7 @@ Con Sheetfu, puede obtener o establecer fácilmente valores de celda, colores de
 [👉 Repositorio de Github: Sheetfu 🐍](https://github.com/socialpoint-labs/sheetfu#sheetfu){: .btn .btn--success .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [👉 Aprender Python y Más Librerías 🐍](/python/){: .btn .btn--success .btn--large .align-center}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [▷ Cómo Aprender Python en 2020 🐍](/python/)
 

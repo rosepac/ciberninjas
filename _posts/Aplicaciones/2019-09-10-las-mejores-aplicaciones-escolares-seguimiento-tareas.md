@@ -9,11 +9,6 @@ tags:
 - Software de Calendarios
 thumbnail: /assets/img/escuela-aplicaciones-calendario-peque.jpg
 feature-img: /assets/img/escuela-aplicaciones-calendario-peque.jpg
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-
 ---
 
 Empieza el nuevo curso, por tanto empiezan los come cabezas escolares de siempre, entre muchas de las nuevas acciones de nuestro día a día a la hora de comenzar clases; se encuentra la difícil tarea de la organización. Por ello, vamos a intentar revisar algunas de las mejores aplicaciones que nos ayudan a mantenernos organizados, seguir nuestras tareas y muchas más opciones.

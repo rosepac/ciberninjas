@@ -95,9 +95,7 @@ Si deseas tener acceso a diferentes plantillas de trabajo, solamente debes ir a 
 [📁 Plantillas predefinidas para la Linterna](https://github.com/github/super-linter/tree/master/TEMPLATES
 ){: .btn .btn--primary .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.](/assets/img/blog/github-investigador.webp "Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.")
-
-### Relacionados <!-- omit in toc -->
+### **Relacionados** <!-- omit in toc -->
 
 [🎓 Aulas de Github: La automatización de las clases de programación](https://ciberninjas.com/github-classroom/)
 
@@ -106,3 +104,5 @@ Si deseas tener acceso a diferentes plantillas de trabajo, solamente debes ir a 
 [🥇 Visual Studio integrado en Github: Codespaces](https://ciberninjas.com/codespace-editor-github/)
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+![Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.](/assets/img/blog/github-investigador.webp "Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.")

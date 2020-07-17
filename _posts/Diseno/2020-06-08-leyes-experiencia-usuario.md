@@ -469,7 +469,7 @@ Más tarde comenzó a trabajar en el Instituto de Actividad Nerviosa Superior, q
 **Fuente**: [Las leyes de la Experiencia de Usuario](https://lawsofux.com/){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🥇 ▷ Los 18 mejores blogs de diseño gráfico en español 2020](/blogs-diseno-grafico-espanol/)
 

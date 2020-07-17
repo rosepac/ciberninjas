@@ -245,7 +245,7 @@ Si quieres apoyar el proyecto y que siga vivo en el tiempo; puedes colaborar rev
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [🎓 Cursos de tecnología en español](https://ciberninjas.com/cursos-tecnologia/)
 

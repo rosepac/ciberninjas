@@ -62,7 +62,7 @@ El directorio /test en este proyecto contiene un proyecto de prueba de Android q
 
 [🔨 Más Información](https://www.npmjs.com/package/cordova-android){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-### Relacionados <!-- omit in toc -->
+### **Relacionados** <!-- omit in toc --> <!-- omit in toc -->
 
 [▷ Apache Cordova para construir aplicaciones sobre móviles iOS](https://ciberninjas.com/cordova-apache-para-ios/)
 

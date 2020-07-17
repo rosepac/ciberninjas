@@ -4,10 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Java
-- Aplicaciones
-categories:
 - Lenguajes de Programación
+- Java
 thumbnail: /assets/img/2020-news/java-aplicaciones.webp
 feature-img: /assets/img/2020-news/java-aplicaciones.webp
 title: '▷ Las 25 mejores aplicaciones Java jamás programadas'
@@ -41,23 +39,23 @@ Además de diferentes miembros de la comunidad Java más; entre los que se inclu
 
 Finalmente, y ya sin más deambulación, la lista de las 25 aplicaciones Java más increíbles jamás creadas.
 
-- [**Frontera Espacial**](#frontera-espacial)
-  - [1. **Controlador Maestro Mars Rover**](#1-controlador-maestro-mars-rover)
-  - [2. **Explorador de trayectoria de JavaFX Deep Space**](#2-explorador-de-trayectoria-de-javafx-deep-space)
-  - [3. **NASA WorldWind**](#3-nasa-worldwind)
-  - [4. **JMARS y JMoon**](#4-jmars-y-jmoon)
-  - [5. **Herramienta de mapeo (SBMT)**](#5-herramienta-de-mapeo-sbmt)
+- [**Aplicadas al Mundo Espacial**](#aplicadas-al-mundo-espacial)
+  - [1. Controlador Maestro Mars Rover](#1-controlador-maestro-mars-rover)
+  - [2. Explorador de trayectoria de JavaFX Deep Space](#2-explorador-de-trayectoria-de-javafx-deep-space)
+  - [3. NASA WorldWind](#3-nasa-worldwind)
+  - [4. JMARS y JMoon](#4-jmars-y-jmoon)
+  - [5. Herramienta de mapeo (SBMT)](#5-herramienta-de-mapeo-sbmt)
 - [**Datos Intensivos**](#datos-intensivos)
-  - [6. **Búsqueda de Wikipedia**](#6-búsqueda-de-wikipedia)
-  - [7. **Hadoop**](#7-hadoop)
-  - [8. **Análisis de gráficos paralelos (PGX)**](#8-análisis-de-gráficos-paralelos-pgx)
-  - [9. **H20.ai**](#9-h20ai)
+  - [6. Búsqueda de Wikipedia](#6-búsqueda-de-wikipedia)
+  - [7. Hadoop](#7-hadoop)
+  - [8. Análisis de gráficos paralelos (PGX)](#8-análisis-de-gráficos-paralelos-pgx)
+  - [9. H20.ai](#9-h20ai)
 - [**En el Mundo de la Diversión**](#en-el-mundo-de-la-diversión)
-  - [10. **Minecraft**](#10-minecraft)
-  - [11. **Jitter Robot y LeJOS**](#11-jitter-robot-y-lejos)
-  - [12. **Applets de Java**](#12-applets-de-java)
+  - [10. Minecraft](#10-minecraft)
+  - [11. Jitter Robot y LeJOS](#11-jitter-robot-y-lejos)
+  - [12. Applets de Java](#12-applets-de-java)
 - [**Aplicaciones de programación**](#aplicaciones-de-programación)
-  - [13. **NetBeans y el IDE de Eclipse**](#13-netbeans-y-el-ide-de-eclipse)
+  - [13. NetBeans y el IDE de Eclipse](#13-netbeans-y-el-ide-de-eclipse)
   - [14. **IntelliJ IDEA**](#14-intellij-idea)
   - [15. **Byte Buddy**](#15-byte-buddy)
   - [16. **Jenkins**](#16-jenkins)
@@ -70,11 +68,11 @@ Finalmente, y ya sin más deambulación, la lista de las 25 aplicaciones Java m�
   - [23. **BioJava**](#23-biojava)
   - [24. **VisibleTesla**](#24-visibletesla)
   - [25. **SmartThings**](#25-smartthings)
-  - [Relacionados](#relacionados)
+  - [Conclusión](#conclusión)
 
-## **Frontera Espacial**
+## **Aplicadas al Mundo Espacial**
 
-### 1. **Controlador Maestro Mars Rover**
+### 1. Controlador Maestro Mars Rover
 
 En 2004, Java se convirtió en el primer lenguaje de programación en expandir el alcance del sistema exterior desde la tierra.
 
@@ -84,7 +82,7 @@ La experimentación con Java había comenzado muchos años antes del laboratorio
 
 El fundador de Java, James Gosling, pasó tanto tiempo trabajando en el JPL que se convirtió en miembro de la junta asesora.
 
-### 2. **Explorador de trayectoria de JavaFX Deep Space**
+### 2. Explorador de trayectoria de JavaFX Deep Space
 
 ¿Planeando un vuelo espacial? Es posible que necesites herramientas de la empresa AISOLUTIONS, un contratista aeroespacial de EE.UU. cuyos productos y servicios de ingeniería han sido utilizados por empresas las empresas de defensa y agencias espaciales civiles más importantes del mundo, por más de 20 años.
 
@@ -92,7 +90,7 @@ El Explorador de trayectoria del espacio profundo JavaFX de la compañía,  perm
 
 La aplicación puede generar vistas y modelos multidimensionales para cualquier sistema planetario, lunar o asteroide.
 
-### 3. **NASA WorldWind**
+### 3. NASA WorldWind
 
 Worldwind, es un software de código abierto para científicos de cohetes usado en los lanzamientos de la NASA.
 
@@ -102,15 +100,13 @@ Algo así, como un Google Earth de todo el espacio; todos los datos geoespaciale
 
 Según el sitio web: "Las organizaciones de todo el mundo usan WorldWind para monitorear los patrones climáticos, visualizar ciudades y terrenos, rastrear el movimiento de vehículos, analizar datos geoespaciales y educar a la humanidad sobre lo que ocurre con la Tierra".
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
-### 4. **JMARS y JMoon**
+### 4. JMARS y JMoon
 
 Disponible públicamente desde 2003 y aún utilizado comúnmente por los científicos de la NASA, Java Mission-planning and Analysis for Remote Sensing (JMARS) es un sistema de información geoespacial escrito por personas de la Instalación de Vuelo Espacial Mars de la Universidad Estatal de Arizona.
 
 JMARS for the Moon (llamado JMoon por los científicos lunares) analiza imágenes de cámaras de gran angular insertadas en una nave espacial robótica que, desde su lanzamiento en 2009, ha estado orbitando la luna a una altitud de entre 50 y 200 kilómetros y que se encuentra en el espacio, enviando información de forma constante.
 
-### 5. **Herramienta de mapeo (SBMT)**
+### 5. Herramienta de mapeo (SBMT)
 
 Popular entre los científicos espaciales y desarrollado en el Laboratorio de Física Aplicada de la Universidad Johns Hopkins, SBMT utiliza datos de misiones de naves espaciales para visualizar cuerpos irregulares como asteroides, cometas y pequeñas lunas en 3D.
 
@@ -118,9 +114,11 @@ SBMT está escrito en Java y utiliza el kit de herramientas de visualización de
 
 Los equipos de misiones de vuelo para Dawn, Rosetta, OSIRIS-REx y Hayabusa2 han usado SBMT mientras exploraban cometas, asteroides y otros planetas.
 
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Datos Intensivos**
 
-### 6. **Búsqueda de Wikipedia**
+### 6. Búsqueda de Wikipedia
 
 Es apropiado que una enciclopedia para la gente, realizada por la gente, se ejecute en software de código abierto y presente un motor de búsqueda impulsado por Java.
 
@@ -128,7 +126,7 @@ Lucene, escrito por Doug Cutting en 1999 y nombrado así por el segundo nombre d
 
 Creó el resto de motores como ingeniero para Xerox PARC, Apple y Excite. En 2014, Wikipedia reemplazó el motor Lucene con Elasticsearch, un motor de búsqueda distribuido, habilitado para REST, que también se ha escrito en Java.
 
-### 7. **Hadoop**
+### 7. Hadoop
 
 Lucene no es la única creación de Doug Cutting en la lista; inspirado en un trabajo de investigación de Google que describe el algoritmo MapReduce para procesar datos en grandes grupos de computadoras.
 
@@ -140,7 +138,7 @@ En 2008, Yahoo (donde trabajaba Cutting en ese momento) afirmó que su Search We
 
 Para 2012, Facebook afirmó tener más de 100 petabytes de datos en el clúster Hadoop más grande del mundo.
 
-### 8. **Análisis de gráficos paralelos (PGX)**
+### 8. Análisis de gráficos paralelos (PGX)
 
 El análisis gráfico se trata de comprender las relaciones y conexiones en los datos. PGX es uno de los motores de análisis de gráficos más rápidos del mundo.
 
@@ -150,7 +148,7 @@ Además de ejecutar algoritmos analíticos como detección de comunidades, agrup
 
 Los casos de uso abundan en el campo de la salud, la seguridad, el comercio minorista y las finanzas.
 
-### 9. **H20.ai**
+### 9. H20.ai
 
 El aprendizaje automático (ML) tiene una curva pronunciada y eso puede evitar que los expertos implementen grandes ideas de Machine Learning.
 
@@ -158,7 +156,7 @@ La plataforma de código abierto H2O.ai basada en Java creada por Java Champion 
 
 ## **En el Mundo de la Diversión**
 
-### 10. **Minecraft**
+### 10. Minecraft
 
 El ambiente pacífico de Minecraft, que comprende mundos ficticios, personas y construcciones a partir de bloques, tiene una fascinación constante para niños y adultos en todas partes.
 
@@ -168,9 +166,7 @@ Desarrollado en Java por Markus "Notch" Persson y lanzado en su versión alfa en
 
 El uso de Java en los videojuegos también permite a los programadores crear sus modificaciones propias, desde sus propias casas o en el ámbito educativo.
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
-### 11. **Jitter Robot y LeJOS**
+### 11. Jitter Robot y LeJOS
 
 Antes de la aspiradora autónoma Roomba, estaba el Jitter. Un prototipo de robot construido para absorber partículas que flotan en la Estación Espacial Internacional (EEI).
 
@@ -182,7 +178,7 @@ El sistema operativo del juguete se remonta al proyecto TinyVM de 1999 iniciado 
 
 Este entorno, tiene muchas clases específicas de la programación en robótica simplificadas, por la naturaleza hacía la orientación a objetos heredada de Java, lo que permite a cualquier persona poder aprovechar los controladores avanzados y los algoritmos de su comportamiento.
 
-### 12. **Applets de Java**
+### 12. Applets de Java
 
 La palabra applet apareció por primera vez en 1990 en PC Magazine, según el Oxford English Dictionary; pero los applets realmente no despegaron hasta que apareció Java en 1995.
 
@@ -192,9 +188,11 @@ Algunos atribuyen el éxito inicial de Minecraft al hecho de que los jugadores p
 
 Aunque los applets de Java han quedado en desuso desde la versión de Java 9 y se eliminaron en 2018 de Java SE 11, durante un tiempo fueron la mejor opción para implementar juegos a través del navegador. De hecho: los applets de Java también podían acceder a la aceleración de hardware.
 
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
 ## **Aplicaciones de programación**
 
-### 13. **NetBeans y el IDE de Eclipse**
+### 13. NetBeans y el IDE de Eclipse
 
 El entorno de desarrollo integrado que primero cautivó al mundo de Java fue [NetBeans](https://ciberninjas.com/java-herramientas-para-desarrolladores/#2-apache-netbeans), que comenzó en la Universidad Charles de Praga en 1996 (bajo el nombre de Xelfi) y se comercializó en 1997 por una compañía del mismo nombre fundada por el empresario Roman Staněk.
 
@@ -336,16 +334,14 @@ La aplicación utiliza el framework Micronaut basado en Java, del que se habla m
 
 La empresa fue adquirida por Samsung Electronics en 2014 por la friolera de 200 millones de dólares.
 
-### Conclusión <!-- omit in toc -->
+### Conclusión
 
 Hasta aquí la impresionante recopilación de programas creados por el lenguaje de programación Java, si hechas en falta algún gran software Java; puedes contactarme a través de las redes sociales @ciberninjas en todas ellas; ¡¡¡Hasta la vista, Ciberninjas!!!
 
-**Fuente**: [Blog de Oracle](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written#anchor_4){:target="_blank" rel="nofollow,noreferrer"} por Alexa Morales directora de contenido para desarrolladores en [Oracle](@OracleJavaMag){:target="_blank" rel="nofollow,noreferrer"}
+> **Fuente**: [Blog de Oracle](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written#anchor_4){:target="_blank" rel="nofollow,noreferrer"} por Alexa Morales directora de contenido para desarrolladores en [Oracle](@OracleJavaMag){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
-![Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría](/assets/img/2020-news/java-aplicaciones.webp "Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría")
-
-### Relacionados
+### **Relacionados** <!-- omit in toc -->
 
 [👨‍💻 Los 10 + 10 mejores frameworks Java en 2020](https://ciberninjas.com/10-mejores-frameworks-java/)
 
@@ -358,3 +354,5 @@ Hasta aquí la impresionante recopilación de programas creados por el lenguaje 
 [🥇 ▷ Las 15 Mejores Lenguajes de Programación 👨‍💻 para Aprender en 2020](https://ciberninjas.com/15-mejores-lenguajes-programacion/)
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+![Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría](/assets/img/2020-news/java-aplicaciones.webp "Las 25 mejores aplicaciones Java jamás programadas. Desde la exploración espacial hasta la genómica, desde los compiladores inversos hasta los controladores robóticos, Java está en el corazón del mundo de hoy. Estas son algunas de las innumerables aplicaciones Java que se destacan entre la mayoría")
