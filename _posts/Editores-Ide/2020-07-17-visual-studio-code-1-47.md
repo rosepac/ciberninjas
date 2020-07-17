@@ -17,7 +17,7 @@ canonical_URL: https://ciberninjas.com/visual-studio-code-1-47/
 permalink: /visual-studio-code-1-47/
 date: 2020-07-17 09:12:32
 last_modified_at: 
-published: false
+published: true
 
 ---
 
@@ -154,7 +154,7 @@ La configuración `workbench.list.horizontalScrolling` previamente existente, ah
 
 VS Code ahora admite cambiar coincidencias de expresiones regulares mientras se realiza una búsqueda / desde la opción de reemplazo del editor. Esto se hace con los modificadores \u\U\l\L, donde \u y \l servirán para pasar de mayúsculas a minúsculas con un solo carácter, e \U y \L servirán para pasar de Mayúsculas a Minúsculas.
 
-Los modificadores también se pueden apilar, por ejemplo, ` \u\u\u$1` para indicar que quieres los primeros tres caracteres del grupo en mayúsculas, o con `\l\U$1` para indicar que el primer carácter sea en minúsculas y el resto en mayúsculas, al reemplazar.
+Los modificadores también se pueden apilar, por ejemplo ` \u\u\u$1` para indicar que quieres los primeros tres caracteres del grupo en mayúsculas, o con `\l\U$1` para indicar que el primer carácter sea en minúsculas y el resto en mayúsculas, al reemplazar.
 
 Actualmente, esto solo se admite en el control Buscar del Editor y no en la búsqueda global y reemplazo de todos los archivos de un proyecto.
 
