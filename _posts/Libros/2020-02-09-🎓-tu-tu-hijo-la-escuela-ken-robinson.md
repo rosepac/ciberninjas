@@ -1,13 +1,11 @@
 ---
 title: "🎓 Tú, tu hijo y la escuela: El camino para darle la mejor educación de Ken Robinson"
-categories:
-  - Catálogo
-  - Desarrollo Personal
-  - Educación
 tags:
-  - Libro
-  - Grijalbo (Editorial)
+  - Catálogo
+  - Libros
+  - Guías de Educación
   - Ken Robinson
+  - Desarrollo Personal
 comments: false
 date: 2020-02-09 23:10:00 +0100
 permalink: /catalogo/tu-tu-hijo-la-escuela/

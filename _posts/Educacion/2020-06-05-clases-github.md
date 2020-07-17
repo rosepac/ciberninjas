@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Github
-categories:
 - Educación
+- Github
 thumbnail: /assets/img/blog/github-classroom.webp
 feature-img: /assets/img/blog/github-classroom.webp
 title: '🎓 Aulas de Github: La automatización de las clases de programación'

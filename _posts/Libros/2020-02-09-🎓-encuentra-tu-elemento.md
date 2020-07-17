@@ -1,13 +1,11 @@
 ---
 title: "🎓 Encuentra tu elemento: El camino para descubrir tu pasión y transformar tu vida de Ken Robinson"
-categories:
-  - Catálogo
-  - Desarrollo Personal
-  - Educación
 tags:
-  - Libro
-  - Debolsillo (Editorial)
+  - Catálogo
+  - Libros
+  - Guías de Educación
   - Ken Robinson
+  - Desarrollo Personal
 comments: false
 date: 2020-02-09 21:45:00 +0100
 permalink: /catalogo/encuentra-tu-elemento/

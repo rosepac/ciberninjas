@@ -4,17 +4,9 @@ description: '📱 La mejor lista de las mejores aplicaciones escolares de tarea
 excerpt: '📱 La mejor lista de las mejores aplicaciones escolares de tareas para 2019'
 date: 2019/09/10 19:00:00
 published: true
-# Categoría de la temática de la noticia: Redes Sociales, Robótica, Seguridad Informática, Software, SDK Multiplataforma, Educación, Genética
-categories:
-- Educación
-- Aplicaciones
-# Nombre de institución protagonistas de la noticia, de la persona o del software, sistema o SDK.
 tags:
-- Calendario
-- Escuela
-- Universidad
-- Tareas
-- Exámenes
+- Aplicaciones
+- Software de Calendarios
 thumbnail: /assets/img/escuela-aplicaciones-calendario-peque.jpg
 feature-img: /assets/img/escuela-aplicaciones-calendario-peque.jpg
 toc: true

@@ -4,10 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Unity
-- Gratis
-categories:
 - Educación
+- Academia Unity
 thumbnail: /assets/img/blog/unity-learn.webp
 feature-img: /assets/img/blog/unity-learn.webp
 title: '▷ Unity: La Academia de aprendizaje Premium de Unity totalmente gratis y para todos'

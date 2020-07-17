@@ -1,13 +1,11 @@
 ---
 title: "🎓 Escuelas Creativas: La revolución que está transformando la educación de Ken Robinson"
-categories:
-  - Catálogo
-  - Desarrollo Personal
-  - Educación
 tags:
-  - Libro
-  - Debolsillo (Editorial)
+  - Catálogo
+  - Libros
+  - Guías de Educación
   - Ken Robinson
+  - Desarrollo Personal
 comments: false
 date: 2020-02-09 21:45:00 +0100
 permalink: /catalogo/escuelas-creativas/
