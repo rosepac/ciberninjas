@@ -6,9 +6,8 @@ description: 'ICONO-TEMATICA RESUMEN'
 excerpt: 'ICONO-TEMATICA RESUMEN'
 published: false
 date: 2019-09-30 18:50:00
-categories:
-- SDK Multiplataforma
 tags:
+- SDK Multiplataforma
 - Ionic
 - Phonegap
 - Xamarin

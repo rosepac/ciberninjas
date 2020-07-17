@@ -8,10 +8,8 @@ date: 2019-08-21 23:45:59
 last_modified_at: 2019-08-23T01:29:02-05:00
 published: true
 classed: wide
-categories:
-- Recomendaciones
 tags:
-- Libros
+- Libros Recomendados
 - Barack Obama
 permalink: /los-libros-de-obama-2019/
 canonical_URL: https://ciberninjas.com/los-libros-de-obama-2019/

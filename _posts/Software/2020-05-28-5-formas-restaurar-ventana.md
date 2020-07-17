@@ -4,10 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Software
 - Windows
 - Optimizar Windows
-categories:
-- Software
 thumbnail: /assets/img/blog/8-capturas-pantalla.webp
 feature-img: /assets/img/blog/8-capturas-pantalla.webp
 title: '5 Fórmulas para restaurar una ventana de Windows que se encuentra oculta del escritorio'

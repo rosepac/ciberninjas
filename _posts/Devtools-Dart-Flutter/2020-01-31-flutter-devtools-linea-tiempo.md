@@ -12,11 +12,10 @@ last_modified_at:
 thumbnail: https://flutter.dev/assets/tools/devtools/timeline_frame_events_chart-3339ef25e6f5c09c32fc7fd0cf043585dca937a2d138ef1e0650762a9240296e.png
 feature-img: https://flutter.dev/assets/tools/devtools/timeline_frame_events_chart-3339ef25e6f5c09c32fc7fd0cf043585dca937a2d138ef1e0650762a9240296e.png
 tags:
-- Flutter
-- Dart
-categories:
 - SDK Multiplataforma
 - Herramientas
+- Flutter
+- Dart
 permalink: /flutter-dart-devtools-linea-tiempo/
 canonical_URL: https://ciberninjas.com/flutter-dart-devtools-linea-tiempo/
 

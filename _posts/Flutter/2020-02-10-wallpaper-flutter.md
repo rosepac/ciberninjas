@@ -16,10 +16,9 @@ feature-img: /assets/img/wallpaper/flutter/flutter-wallpaper-collage.webp
 permalink: /wallpaper-flutter/
 canonical_URL: https://ciberninjas.com/wallpaper-flutter/
 tags:
-- Flutter
-categories:
 - SDK Multiplataforma
-- Wallpaper
+- Flutter
+- Wallpapers
 
 ---
 

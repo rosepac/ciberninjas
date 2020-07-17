@@ -4,10 +4,9 @@ title: "📰 🔐 Mayor Brecha de Seguridad Biométrica de la Historia"
 description: 'Los investigadores de privacidad de Internet Noam Rotem y Ran Locar descubren la mayor brecha de seguridad biométrica de la historia'
 excerpt: 'Los investigadores de privacidad de Internet Noam Rotem y Ran Locar descubren la mayor brecha de seguridad biométrica de la historia'
 date: 2019-08-15 21:00:01
-categories:
-- Actualidad
-- Seguridad Informática
 tags:
+- Actualidad
+- Ciberseguridad
 - Reconocimiento Facial
 - Huellas Digitales
 - Violación de Datos

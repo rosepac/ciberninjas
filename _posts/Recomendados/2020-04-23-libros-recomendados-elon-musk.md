@@ -7,11 +7,8 @@ excerpt: 'Las lecturas de inspiración perfectas para llegar a ser uno de los in
 date: 2020-04-23 23:33:59
 last_modified_at: 
 published: true
-
-categories:
-- Recomendaciones
 tags:
-- Libros
+- Libros Recomendados
 - Elon Musk
 classed: wide
 permalink: /libros-recomendados-elon-musk-2020/

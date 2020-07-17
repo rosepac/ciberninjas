@@ -5,13 +5,9 @@ title: "🔐 Web Hacking 101: Cómo hacer Dinero Hackeando Éticamente"
 comments: false
 date: 2019-08-12 09:34:54
 tags:
-- Libro
+- Libros
 - LeanPub
-- Gamliel Hernández
-- Peter Yaworski
-categories:
-- Catálogo
-- Seguridad Informática
+- Ciberseguridad
 permalink: /catalogo/web-hacking-101-como-hacer-dinero-hackeando-eticamente/
 description: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."
 excerpt: "Twitter, Google, Facebook, Shopify, Dropbox, etc. Solicitan hackers que busquen fallos de seguridad en sus sitios. Bienvenido al Mundo del Hacking Ético."

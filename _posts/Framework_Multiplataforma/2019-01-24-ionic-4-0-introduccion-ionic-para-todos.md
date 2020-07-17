@@ -9,12 +9,9 @@ comments: false
 date: 2019-01-24 07:01:33
 last_modified_at: 2019-10-30T09:36:00
 tags:
-- Ionic
-- Componentes
-- Móviles
-categories:
 - SDK Multiplataforma
-- Actualidad
+- Ionic
+- Documentación
 permalink: /ionic-4-0-introduccion-ionic-para-todos/
 canonical_URL: /ionic-4-0-introduccion-ionic-para-todos/
 ---

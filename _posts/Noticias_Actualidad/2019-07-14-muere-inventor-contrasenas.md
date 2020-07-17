@@ -9,12 +9,11 @@ excerpt: 'Muere el inventor de las contraseñas de computadora a los 93 años'
 published: true
 permalink: /muere-inventor-contrasenas/
 canonical_URL: https://ciberninjas.com/muere-inventor-contrasenas/
-categories:
-- Seguridad Informática
-- Historia Informática
 tags:
-- Inventor
+- Ciberseguridad
 - Contraseña
+- Inventor
+- Historia Informática
 thumbnail: "/assets/img/2020-news/historia-seguridad-corbato-contrasena.webp"
 feature-img: "/assets/img/2020-news/historia-seguridad-corbato-contrasena.webp"
 

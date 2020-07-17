@@ -16,9 +16,8 @@ feature-img: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo
 permalink: /que-es-flutter-y-por-que-debes-aprenderlo/
 canonical_URL: https://ciberninjas.com/que-es-flutter-y-por-que-debes-aprenderlo/
 tags:
-- Flutter
-categories:
 - SDK Multiplataforma
+- Flutter
 
 ---
 

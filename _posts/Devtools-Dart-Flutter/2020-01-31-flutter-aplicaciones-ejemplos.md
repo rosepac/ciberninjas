@@ -12,12 +12,11 @@ last_modified_at:
 thumbnail: /assets/img/blog/flutter-1024x486.webp
 feature-img: /assets/img/blog/flutter-1024x486.webp
 tags:
+- SDK Multiplataforma
 - Flutter
 - Móviles
 - Aplicaciones
-categories:
-- SDK Multiplataforma
-- Ejemplos
+- Flutter Ejemplos
 permalink: /flutter-aplicaciones-ejemplos/
 canonical_URL: https://ciberninjas.com/flutter-aplicaciones-ejemplos/
 

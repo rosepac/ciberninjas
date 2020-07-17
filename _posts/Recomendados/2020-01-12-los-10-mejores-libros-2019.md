@@ -7,10 +7,8 @@ excerpt: 'Los libros recomendados por Obama en 2019. Lecturas favoritas del ex-p
 date: 2019-08-21 23:45:59
 last_modified_at: 2019-08-23T01:29:02-05:00
 published: false
-categories:
-- Recomendaciones
 tags:
-- Libro
+- Libros Recomendados
 - Barack Obama
 thumbnail: /assets/img/obama-leyendo.jpg
 feature-img: /assets/img/obama-leyendo.jpg

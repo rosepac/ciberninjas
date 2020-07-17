@@ -1,14 +1,10 @@
 ---
 published: true
 title: "🌄 Nuestra Casa Está Ardiendo: Historia de una familia y de un planeta en crisis"
-categories:
-- Catálogo
-# MODIFICAR CATEGORÍA
+tags:
+- Libros
 - Sociología
 - Ciencias de la Tierra
-tags:
-- Libro
-- Lumen (Editorial)
 - Greta Thunberg
 comments: false
 date: 2019-10-13 22:25:54

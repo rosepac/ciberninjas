@@ -1,13 +1,12 @@
 ---
-title: "\U0001F3A7 Mumble, El Mejor Cliente de Voz IP"
-description: "\U0001F3A7 Mumble, El Mejor Cliente de Voz IP"
-excerpt: "\U0001F3A7 Mumble, El Mejor Cliente de Voz IP"
-categories:
-  - Software
+title: "🎧 Mumble, El Mejor Cliente de Voz IP"
+description: "🎧 Mumble, El Mejor Cliente de Voz IP"
+excerpt: "🎧 Mumble, El Mejor Cliente de Voz IP"
 tags:
-  - Cliente IP
-  - Comunicaciones
+  - Software de Comunicaciones
+  - Clientes VOIP
 permalink: /mumble/
+canonical_URL: https://ciberninjas.com/mumble/
 header:
 thumbnail: /assets/img/blog/captura-mumbre-pagina-web.jpg
 feature-img: /assets/img/blog/captura-mumbre-pagina-web.jpg

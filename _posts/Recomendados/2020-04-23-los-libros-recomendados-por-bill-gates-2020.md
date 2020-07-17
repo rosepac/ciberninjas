@@ -7,10 +7,8 @@ excerpt: 'Los mejores libros para la primera mitad del año 2020 gracias a las r
 date: 2020-04-23 22:45:59
 last_modified_at: 
 published: true
-categories:
-- Recomendaciones
 tags:
-- Libros
+- Libros Recomendados
 - Bill Gates
 classed: wide
 permalink: /los-mejores-libros-bill-gates-dia-del-libro-2020/

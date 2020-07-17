@@ -12,11 +12,10 @@ last_modified_at:
 thumbnail: https://flutter.dev/assets/tools/devtools/logging_log_entries-04dfd1e7ef59a7205de628a99ffc0780e9a382c4b9aca66a275aa72548f88484.png
 feature-img: https://flutter.dev/assets/tools/devtools/logging_log_entries-04dfd1e7ef59a7205de628a99ffc0780e9a382c4b9aca66a275aa72548f88484.png
 tags:
-- Flutter
-- Dart
-categories:
 - SDK Multiplataforma
 - Herramientas
+- Flutter
+- Dart
 permalink: /flutter-dart-devtools-vista-registro/
 canonical_URL: https://ciberninjas.com/flutter-dart-devtools-vista-registro/
 

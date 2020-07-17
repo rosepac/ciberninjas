@@ -16,9 +16,8 @@ feature-img: /assets/img/frameworks-multiplataforma/flutter-nube-palabras-y-logo
 permalink: /como-aprender-flutter/
 canonical_URL: https://ciberninjas.com/como-aprender-flutter/
 tags:
-- Flutter
-categories:
 - SDK Multiplataforma
+- Flutter
 
 ---
 

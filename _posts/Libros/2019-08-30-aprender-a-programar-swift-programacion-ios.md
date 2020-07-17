@@ -5,11 +5,7 @@ title: "👨‍💻 Aprende a Programar Swift - Programación iOS"
 comments: false
 date: 2019-08-30 09:40:55
 tags:
-- Libro
-- Createspace (Editorial)
-- Enrique Flores
-categories:
-- Catálogo
+- Libros
 - Programación Móvil
 permalink: /catalogo/aprende-a-programar-swift-programacion-ios/
 description: "🍏 Aprende a programar con el Sistema Operativo de Apple y su lenguaje de programación específico: Swift"

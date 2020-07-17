@@ -12,12 +12,8 @@ last_modified_at:
 thumbnail: /assets/img/2020-news/ionic-4-2020.webp
 feature-img: /assets/img/2020-news/ionic-4-2020.webp
 tags:
-- Ionic
-- Componentes
-- Móviles
-- Aplicaciones
-categories:
 - SDK Multiplataforma
+- Ionic
 - Documentación
 permalink: /ionic-framework/
 canonical_URL: https://ciberninjas.com/ionic-framework/

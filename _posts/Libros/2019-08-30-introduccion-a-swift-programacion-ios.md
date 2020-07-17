@@ -5,12 +5,9 @@ title: "👩‍💻 Introducción a Swift: Aprende Swift desde Cero de forma Pr�
 comments: false
 date: 2019-08-30 11:18:55
 tags:
-- Libro
-- Amazon Media
-- Luis Rollón
-categories:
-- Catálogo
+- Libros
 - Programación Móvil
+- Luis Rollón
 permalink: /catalogo/introduccion-a-swift-programacion-ios/
 description: "🍏 Introducción a Swift: Aprende Swift desde Cero de forma Práctica"
 excerpt: "🍏 Introducción a Swift: Aprende Swift desde Cero de forma Práctica"

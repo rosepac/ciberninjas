@@ -2,13 +2,10 @@
 title: "\U0001F4F2 Huawei presenta HarmonyOS: Su Sistema Operativo para Smartphones"
 description: 'Huawei presenta, HarmonyOS, un nuevo sistema operativo para sus Smartphones'
 excerpt: 'Huawei presenta, ArmonyOS, un nuevo sistema operativo para sus Smartphones'
-categories:
+tags:
   - Actualidad
   - Software
-tags:
-  - Sistemas Operativos
-  - Móviles
-  - Lanzamiento
+  - Sistemas Operativos Móviles
 thumbnail: /assets/img/harmony-os.jpg
 feature-img: /assets/img/harmony-os.jpg
 toc: true

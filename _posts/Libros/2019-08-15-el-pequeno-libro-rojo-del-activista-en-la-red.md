@@ -5,14 +5,11 @@ title: "🔐 El Pequeño Libro Rojo del Activista en la Red"
 comments: false
 date: 2019-08-15 07:55:54
 tags:
-- Libro
-- Roca (Editorial)
+- Ciberseguridad
+- Libros
 - Marta Peirano
-categories:
-- Catálogo
 - Sociología
 - Red e Internet
-- Seguridad Informática
 permalink: /catalogo/el-pequeno-libro-rojo-del-activista-en-la-red/
 description: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano"
 excerpt: "El Pequeño Libro Rojo del Activista en la Red de Marta Peirano"

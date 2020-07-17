@@ -12,11 +12,10 @@ last_modified_at:
 thumbnail: https://i.ibb.co/2Sk0Kdr/vscode-show-in-browser-4848ba01b78de1138104589c726b1dd8a845364356b9d50dffdffd36dbf20887.png
 feature-img: https://i.ibb.co/2Sk0Kdr/vscode-show-in-browser-4848ba01b78de1138104589c726b1dd8a845364356b9d50dffdffd36dbf20887.png
 tags:
-- Flutter
-- Dart
-categories:
 - SDK Multiplataforma
 - Herramientas
+- Flutter
+- Dart
 permalink: /flutter-dart-devtools-vista-memoria/
 canonical_URL: https://ciberninjas.com/flutter-dart-devtools-vista-memoria/
 

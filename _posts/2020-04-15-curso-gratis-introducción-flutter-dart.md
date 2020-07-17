@@ -7,9 +7,8 @@ canonical_URL: https://ciberninjas.com/curso-gratis-introducción-flutter-dart/
 permalink: /curso-gratis-introducción-flutter-dart/
 
 published: true
-categories:
-  - SDK Multiplataforma
 tags:
+  - SDK Multiplataforma
   - Flutter
   - Dart
 thumbnail: /assets/img/blog/curso-inicio-flutter-dart.webp

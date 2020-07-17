@@ -7,11 +7,8 @@ excerpt: 'Los lecturas favoritas que han servido de inspiración al actual CEO d
 date: 2020-04-23 12:30:59
 last_modified_at: 
 published: true
-
-categories:
-- Recomendaciones
 tags:
-- Libros
+- Libros Recomendados
 - Satya Nadella
 classed: wide
 permalink: /libros-recomendados-satya-nadella-2020/

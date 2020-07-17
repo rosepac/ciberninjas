@@ -5,12 +5,9 @@ title: "🔐 El Arte de la Invisibilidad"
 comments: false
 date: 2019-08-17 10:57:30
 tags:
-- Libro
-- Anaya
+- Ciberseguridad
+- Libros
 - Kevin Mitnick
-categories:
-- Catálogo
-- Seguridad Informática
 permalink: /catalogo/el-arte-de-la-invisibilidad/
 description: "El Arte de la Invisibilidad de Kevin Mitnick"
 excerpt: "El Arte de la Invisibilidad de Kevin Mitnick"

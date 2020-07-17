@@ -7,11 +7,8 @@ excerpt: 'Una selección de lecturas obligatorias para ayudarte a comprender la 
 date: 2020-04-23 16:30:59
 last_modified_at: 
 published: false
-categories:
-- Recomendaciones
 tags:
-- Libros
-- Tecnología
+- Libros Recomendados
 classed: wide
 permalink: /libros-tecnología-2020/
 canonical_URL: https://ciberninjas.com/libros-tecnología-2020/

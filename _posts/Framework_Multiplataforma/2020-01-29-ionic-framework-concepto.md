@@ -12,12 +12,8 @@ last_modified_at:
 thumbnail: https://i.ibb.co/3SbbVS3/ionic-framework-og.png
 feature-img: https://i.ibb.co/3SbbVS3/ionic-framework-og.png
 tags:
-- Ionic
-- Componentes
-- Móviles
-- Aplicaciones
-categories:
 - SDK Multiplataforma
+- Ionic
 - Documentación
 permalink: /ionic-framework-concepto/
 canonical_URL: https://ciberninjas.com/ionic-framework-concepto/

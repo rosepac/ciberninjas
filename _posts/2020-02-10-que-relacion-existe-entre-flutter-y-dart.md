@@ -16,10 +16,9 @@ feature-img: /assets/img/blog/relacion-flutter-y-dart.webp
 permalink: /relacion-entre-dart-flutter/
 canonical_URL: https://ciberninjas.com/relacion-entre-dart-flutter/
 tags:
+- SDK Multiplataforma
 - Flutter
 - Dart
-categories:
-- SDK Multiplataforma
 
 ---
 

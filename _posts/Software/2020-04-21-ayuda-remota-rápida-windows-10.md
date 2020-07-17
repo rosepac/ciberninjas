@@ -8,7 +8,6 @@ tags:
 - Control Remoto
 - Windows
 - Teletrabajo
-categories:
 thumbnail: /assets/img/blog/captura-asistencia-rapida-2.webp
 feature-img: /assets/img/blog/captura-asistencia-rapida-2.webp
 title: '💻 ▷ Cómo controlar otro ordenador a través de la Asistencia de Ayuda Rápida de Windows 10'

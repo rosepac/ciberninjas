@@ -3,11 +3,11 @@ title: '📖 Un libro gratis al día, en inglés. Hoy: Go Cookbook'
 comments: false
 date: 2018-12-16 08:12:54
 tags:
-  - Libro
+  - Libros
   - Packtpub
 categories:
   - Otros
-permalink: /un-libro-gratis-al-dia-en-ingles-hoy-go-cookbook
+permalink: /un-libro-gratis-al-dia-en-ingles-hoy-go-cookbook/
 ---
 ## Aprender a programar en Go
 

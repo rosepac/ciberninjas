@@ -16,11 +16,10 @@ feature-img: /assets/img/lenguajes-vs/flutter-vsreact-vs-xamarin.webp
 permalink: /comparacion-flutter-react-native-xamarin/
 canonical_URL: https://ciberninjas.com/comparacion-flutter-react-native-xamarin/
 tags:
+- SDK Multiplataforma
 - Flutter
 - React Native
 - Xamarin
-categories:
-- SDK Multiplataforma
 
 ---
 

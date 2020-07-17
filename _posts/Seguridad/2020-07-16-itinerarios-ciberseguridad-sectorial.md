@@ -5,7 +5,6 @@ bootstrap: true
 comments: false
 tags:
 - Seguridad
-categories:
 - Ciberseguridad
 thumbnail: /assets/img/2020-news/ciberseguridad-secciones.webp
 feature-img: /assets/img/2020-news/ciberseguridad-secciones.webp

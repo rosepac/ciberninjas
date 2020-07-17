@@ -5,12 +5,9 @@ title: "🔐 El Enemigo Conoce el Sistema"
 comments: false
 date: 2019-08-14 20:24:54
 tags:
-- Libro
-- Debate (Editorial)
+- Libros
 - Marta Peirano
-categories:
-- Catálogo
-- Seguridad Informática
+- Ciberseguridad
 - Ciencias Informáticas
 - Administración y Redes
 - Red e Internet

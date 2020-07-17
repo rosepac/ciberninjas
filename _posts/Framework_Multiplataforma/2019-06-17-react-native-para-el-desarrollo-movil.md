@@ -5,15 +5,13 @@ title: "👩‍💻 React Native para el Desarrollo Móvil"
 comments: false
 date: 2019-06-17 20:24:54
 tags:
-- Libro
+- Libros
+- Framework Apps
 - LeanPub
 - Abhishek Nalwaya
 - Akshat Paul
 - Apress
 - React Native
-categories:
-- Catálogo
-- Framework Apps
 permalink: /catalogo/react-native-para-el-desarrollo-movil/
 published: false
 description: "🚀 React Native para el Desarrollo Móvil de Abhishek Nalwaya y Akshat Paul"

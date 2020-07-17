@@ -12,11 +12,10 @@ last_modified_at:
 thumbnail: /assets/img/2020-news/vscode-show-in-browser.webp
 feature-img: /assets/img/2020-news/vscode-show-in-browser.webp
 tags:
-- Flutter
-- Dart
-categories:
 - SDK Multiplataforma
 - Herramientas
+- Flutter
+- Dart
 permalink: /flutter-dart-devtools/
 canonical_URL: https://ciberninjas.com/flutter-dart-devtools/
 

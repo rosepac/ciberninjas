@@ -12,11 +12,10 @@ last_modified_at:
 thumbnail: https://flutter.dev/assets/tools/devtools/inspector_screenshot-20506a87233698df68d6ba223034f3e95b3e4e11773da7d748a3c6fdd6ca8bf8.png
 feature-img: https://flutter.dev/assets/tools/devtools/inspector_screenshot-20506a87233698df68d6ba223034f3e95b3e4e11773da7d748a3c6fdd6ca8bf8.png
 tags:
-- Flutter
-- Dart
-categories:
 - SDK Multiplataforma
 - Herramientas
+- Flutter
+- Dart
 permalink: /flutter-dart-devtools-inspector/
 canonical_URL: https://ciberninjas.com/flutter-dart-devtools-inspector/
 

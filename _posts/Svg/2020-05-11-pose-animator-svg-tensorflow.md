@@ -4,11 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Animaciones
+- Librerías Animaciones
 - SVG
 - Tensorflow
-categories:
-- Librerías
 thumbnail: /assets/img/blog/avatar-pose-imagen.webp
 feature-img: /assets/img/blog/avatar-pose-imagen.webp
 title: 'Pose Animator: Una herramienta de animación SVG en tiempo real que utiliza modelos TensorFlow.js'

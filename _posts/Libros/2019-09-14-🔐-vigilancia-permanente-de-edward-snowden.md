@@ -1,11 +1,8 @@
 ---
-title: "\U0001F510 Vigilancia Permanente de Edward Snowden"
-categories:
-  - Catálogo
-  - Seguridad Informática
+title: "🔐 Vigilancia Permanente de Edward Snowden"
 tags:
-  - Libro
-  - Planeta (Editorial)
+  - Ciberseguridad
+  - Libros
   - Edward Snowden
 comments: false
 date: 2019-09-14 06:20:00 +0200

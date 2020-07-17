@@ -12,11 +12,10 @@ last_modified_at:
 thumbnail: https://flutter.dev/assets/tools/vs-code/vscode_install_prompt-1394c21ae2249e60eade893fb259aed7b2a64e293919cd33d98cbf2cdbc11272.png
 feature-img: https://flutter.dev/assets/tools/vs-code/vscode_install_prompt-1394c21ae2249e60eade893fb259aed7b2a64e293919cd33d98cbf2cdbc11272.png
 tags:
-- Flutter
-- Dart
-categories:
 - SDK Multiplataforma
 - Herramientas
+- Flutter
+- Dart
 permalink: /flutter-dart-devtools-como-instalar/
 canonical_URL: https://ciberninjas.com/flutter-dart-devtools-como-instalar/
 

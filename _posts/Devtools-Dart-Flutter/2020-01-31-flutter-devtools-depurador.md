@@ -12,11 +12,10 @@ last_modified_at:
 thumbnail: https://flutter.dev/assets/tools/devtools/debugger_screenshot-e0e87a8a45952b4c109a24213a0d01143e58fa17384f2a64c951e2d900cd87ca.png
 feature-img: https://flutter.dev/assets/tools/devtools/debugger_screenshot-e0e87a8a45952b4c109a24213a0d01143e58fa17384f2a64c951e2d900cd87ca.png
 tags:
-- Flutter
-- Dart
-categories:
 - SDK Multiplataforma
 - Herramientas
+- Flutter
+- Dart
 permalink: /flutter-dart-devtools-depurador/
 canonical_URL: https://ciberninjas.com/flutter-dart-devtools-depurador/
 
