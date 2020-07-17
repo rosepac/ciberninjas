@@ -75,6 +75,15 @@ Zettlr se adapta bien a tus necesidades y requirimientos. Lo podrás usar para c
 Es tan fácil como crear un nuevo proyecto y comenzar a crear. Zettlr nunca se interpondrá en su camino, y así es como debería ser siempre una buena aplicación.
 
 [💪 Comienza a Usar Zettlr](https://kutt.it/zettlr){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+### **Relacionados** <!-- omit in toc -->
+
+[▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/)
+
+[▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
+
+[11 Mejores editores de código Python](https://ciberninjas.com/mejores-ide-python/)
+
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Zettlr, un editor de Markdown perfecto para escribir texto y organizar todos tus archivos, así como para personalizar tu experiencia a la hora de organizar tus documentos.](/assets/img/2020-news/zettlr-editor-texto.webp "Zettlr, un editor de Markdown perfecto para escribir texto y organizar todos tus archivos, así como para personalizar tu experiencia a la hora de organizar tus documentos.")

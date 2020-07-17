@@ -406,7 +406,7 @@ El instalador de Visual Studio Code para Java Pack descarga las dependencias y e
 
 [▷ Los Mejores EDITORES de TEXTO para programar en 2020 GRATIS](https://ciberninjas.com/mejores-editores-texto/)
 
-[▷ Codelobster IDE: Editor de PHP, HTML, CSS, JavaScript](https://ciberninjas.com/zeetlr-editor-markdown/)
+[▷ Codelobster IDE: Editor de PHP, HTML, CSS, JavaScript](https://ciberninjas.com/codelobster-editor-php/)
 
 [▷ Qué es Markdown y sus 7 mejores editores de texto](https://ciberninjas.com/editores-markdown/)
 
