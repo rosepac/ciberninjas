@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Blogs
-categories:
 - Diseño Gráfico
+- Blogs
 thumbnail: /assets/img/blog/abril-inspiracion-paginas-web.webp
 feature-img: /assets/img/blog/abril-inspiracion-paginas-web.webp
 title: '🥇 ▷ Los 66 mejores blogs de diseño gráfico 2020'

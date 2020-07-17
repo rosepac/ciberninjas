@@ -4,10 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Libros
+- Libros Recomendados
 - Mark Zuckerberg
 categories:
-- Recomendaciones
 thumbnail: /assets/img/blog/14-facebook-creador.webp
 feature-img: /assets/img/blog/14-facebook-creador.webp
 title: '6 Libros de ciencia que Mark Zuckerberg recomienda'

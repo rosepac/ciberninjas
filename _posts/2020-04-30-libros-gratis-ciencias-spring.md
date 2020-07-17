@@ -4,8 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Libros
-categories:
+- Libros Recomendados
+- Libros Gratis
 - Repositorios
 thumbnail: /assets/img/blog/springer-editorial.webp
 feature-img: /assets/img/blog/springer-editorial.webp

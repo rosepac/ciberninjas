@@ -4,10 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Herramientas
 - Linterna
 - Github
-categories:
-- Herramientas
 thumbnail: /assets/img/blog/github-investigador.webp
 feature-img: /assets/img/blog/github-investigador.webp
 title: '▷ GitHub Super Linter: Una linterna para gobernarlas a todas'

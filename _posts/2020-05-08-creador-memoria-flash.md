@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Memoria Flash
-categories:
-- Inventor
+- Hardware
+- Inventores Hardware
 thumbnail: /assets/img/blog/8-inventor-memoria.webp
 feature-img: /assets/img/blog/8-inventor-memoria.webp
 title: '¿Quién es Fujio Masuoka? El creador de las memorias flash'

@@ -4,6 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Bases de Datos
 - MariaDB
 - MySQL
 - PostgreSQL
@@ -11,8 +12,6 @@ tags:
 - SQLite
 - CouchBase
 - Firebird
-categories:
-- Bases Datos
 thumbnail: /assets/img/blog/marzo-hacking-wallpaper-pc-so
 feature-img: /assets/img/blog/marzo-hacking-wallpaper-pc-so
 title: '🥇 ▷ Los 7 mejores software de bases de datos de código abierto 2020'
@@ -28,9 +27,10 @@ published: false
 
 ---
 
-El objetivo básico de cualquier base de datos debe ser recopilar información, organizarla y proporcionar acceso rápido a ella. Las bases de datos son la columna vertebral de todas las aplicaciones empresariales modernas. A continuación vas a poder encontrarte con el software de base de datos basado en código abierto más popular.
+El objetivo básico de cualquier base de datos debe ser recopilar información, organizarla y proporcionar acceso rápido a ella.
 
-![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")
+Las bases de datos son la columna vertebral de todas las aplicaciones empresariales modernas. A continuación vas a poder encontrarte con el software de base de datos basado en código abierto más popular.
+
 
 - [El software de base de datos de código abierto más popular](#el-software-de-base-de-datos-de-código-abierto-más-popular)
 - [
@@ -129,3 +129,5 @@ Entre las ventajas, sus controladores incluyen, entre otros, la simplicidad de s
 [⏫ Regresar al Menú](/software-bases-datos-código-abierto-2020/#menu){: .btn .btn--inverse .btn--large .align-center}
 [⏩ Probar ](){: .btn .btn--inverse .btn--large .align-center}
 <!-- fuente: https://net2.com/best-open-source-database-software/ -->
+
+![Los 11 Mejores Sistemas Operativos para Hacker en 2020](/assets/img/blog/marzo-hacking-wallpaper-pc-so "Los 11 Mejores Sistemas Operativos para Hacker en 2020")

@@ -4,7 +4,6 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Eventos
 - Ciberseguridad
 - Conferencia
 thumbnail: /assets/img/2020-news/09-dojoconf.webp

@@ -4,11 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Rust
-- Nightle
-- Firefox
-categories:
 - Lenguajes de Programación
+- Rust
+- Firefox Nightly
 thumbnail: /assets/img/blog/rust-lenguaje.webp
 feature-img: /assets/img/blog/rust-lenguaje.webp
 title: '▷ Nueva sintaxis de ensamblaje para Rust dentro de Nightly'

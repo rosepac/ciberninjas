@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Blogs
-categories:
 - Diseño Gráfico
+- Blogs
 thumbnail: /assets/img/blog/mejores-paginas-diseno-espanol.webp
 feature-img: /assets/img/blog/mejores-paginas-diseno-espanol.webp
 title: '🥇 ▷ Los 18 mejores blogs de diseño gráfico en español con los que inspirarte 2020'

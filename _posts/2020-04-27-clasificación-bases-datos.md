@@ -4,9 +4,7 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Tipologías Datos
-categories:
-- Bases Datos
+- Bases de Datos
 thumbnail: /assets/img/blog/tipologias-bases-datos.webp
 feature-img: /assets/img/blog/tipologias-bases-datos.webp
 title: '🥇 ▷ Clasificación de las 4 Tipologías Diferentes de las Bases de Datos 2020'

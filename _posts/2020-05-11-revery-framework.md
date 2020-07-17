@@ -4,10 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- SDK Multiplataforma
 - Revery
 - React
-categories:
-- SDK Multiplataforma
 thumbnail: /assets/img/blog/11-framework-revery.webp
 feature-img: /assets/img/blog/11-framework-revery.webp
 title: '🥇 ▷ Revery: Framework para crear aplicaciones nativas, de alto rendimiento y multiplataforma con Reason'

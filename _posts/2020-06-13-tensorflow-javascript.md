@@ -4,10 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Aprendizaje Automático
 - Tensorflow
 - Javascript
-categories:
-- Aprendizaje Automático
 thumbnail: /assets/img/blog/javascript-tf.webp
 feature-img: /assets/img/blog/javascript-tf.webp
 title: '▷ TensorFlow.js una biblioteca para añadir aprendizaje automático a través de JavaScript'

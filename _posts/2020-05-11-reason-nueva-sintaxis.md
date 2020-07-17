@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Reason
-categories:
 - Lenguajes de Programación
+- Reason
 thumbnail: /assets/img/blog/11-reason.webp
 feature-img: /assets/img/blog/11-reason.webp
 title: '👨‍💻 ▷ Reason te permite escribir código seguro de tipo simple, rápido y de calidad mientras aprovecha los ecosistemas JavaScript y OCaml'
