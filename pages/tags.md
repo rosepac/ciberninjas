@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: Publicaciones por Etiquetas
+title: Etiquetas
 permalink: /etiqueta/
 icon: "fa-tags"
 ---

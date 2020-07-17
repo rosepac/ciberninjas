@@ -9,10 +9,9 @@ comments: false
 date: 2020-01-23 11:22:12
 last_modified_at: 
 canonical_URL: /los-11-mejores-libros-python/
-categories:
-- Tutorial Android
 tags:
 - Android
+- Tutorial Android
 ---
 <!-- https://www.guru99.com/best-python-books.html -->
 ## 1) ¿Qué es Android?

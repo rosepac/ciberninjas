@@ -12,15 +12,11 @@ thumbnail: /assets/img/lenguajes-vs/ai-vs-ml-vs-dp.webp
 feature-img: /assets/img/lenguajes-vs/ai-vs-ml-vs-dp.webp
 permalink: /diferencias-entre-ai-ml-dl/
 canonical_URL: https://ciberninjas.com/diferencias-entre-ai-ml-dl/
-categories:
+tags:
 - Inteligencia Artificial
 - Aprendizaje Profundo
 - Aprendizaje Automático
 - Comparativas
-tags:
-- AI
-- DL
-- ML
 
 ---
 

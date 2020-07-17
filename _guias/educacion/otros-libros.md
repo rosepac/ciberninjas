@@ -7,10 +7,9 @@ date: 2018-02-13T22:00:00.000+00:00
 last_modified_at: 2018-08-07T12:42:42-05:00
 published: false
 permalink: /biblioteca-otras-tematicas/
-categories:
-- Biblia
 tags:
 - Cursos
+- Repositorios
 ---
 
 ## Motivación Personal

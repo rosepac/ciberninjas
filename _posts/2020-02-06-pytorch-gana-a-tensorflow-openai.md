@@ -16,10 +16,9 @@ feature-img: https://i.ibb.co/yPJKQXx/pytorch.png
 permalink: /pytorch-gana-a-tensorflow-openai/
 canonical_URL: https://ciberninjas.com/pytorch-gana-a-tensorflow-openai/
 tags:
+- Inteligencia Artificial
 - PyTorch
 - TensorFlow
-categories:
-- Inteligencia Artificial
 
 ---
 
