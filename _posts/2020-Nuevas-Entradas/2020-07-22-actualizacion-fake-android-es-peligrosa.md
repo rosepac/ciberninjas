@@ -15,7 +15,7 @@ excerpt: >-
   Los investigadores de ThreatFabric han advertido sobre una falsa actualización de Google llamada BlackRock, que puede robar sus datos personales de 337 aplicaciones, incluidas Netflix y Tinder
 canonical_URL: https://ciberninjas.com/actualizacion-fake-android-peligrosa/
 permalink: /actualizacion-fake-android-peligrosa/
-date: 2020-07-20 18:16:32
+date: 2020-07-22 14:16:32
 last_modified_at: 
 published: true
 
