@@ -1,9 +1,9 @@
 ---
 author: rosepac
 bootstrap: true
-title: "▷ El mejor software de seguridad para tu PC en 2020"
-description: "Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos"
-excerpt: "Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos"
+title: '▷ El mejor software de seguridad para tu PC en 2020'
+description: 'Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos'
+excerpt: 'Existe infinito software de seguridad que puede proteger tu ordenador y a tu identidad mientras navegas por Internet; por ello lo mejor es indicar las tipologías necesarias y no programas concretos'
 published: true
 comments: false
 date: 2020-01-17 09:30:12

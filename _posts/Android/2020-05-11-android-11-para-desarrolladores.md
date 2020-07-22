@@ -21,8 +21,6 @@ published: true
 
 ---
 
-![Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios](/assets/img/blog/11-android-11-desarrolladores.webp "Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios")
-
 El equipo de desarrolladores de Android ha compartido a principios de Mayo, una vista sobre todo lo avanzado en Android 11, desde el enfoque de vista de los desarrolladores que trabajan con el Sistema Operativo de Android.
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
@@ -48,3 +46,5 @@ Si ya estabas ejecutando una compilación del sistema de desarrollador, recibir�
 [🚀 ▷ Lanzamiento de las extensiones de Firebase para Kotlin](/firebase-extensiones-kotlin/)
 
 [▷ Open GApps lanza paquetes de aplicaciones de Google flasheables](/open-gapps-aplicaciones-google-flasheables/)
+
+![Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios](/assets/img/blog/11-android-11-desarrolladores.webp "Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios")

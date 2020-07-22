@@ -4,9 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Guías
-categories:
 - Diseño
+- Experiencia de Usuario
+categories:
 thumbnail: /assets/img/blog/ux-disenador.webp
 feature-img: /assets/img/blog/ux-disenador.webp
 title: '🥇 ▷ Las Leyes de la Experiencia de Usuario'

@@ -13,10 +13,6 @@ tags:
 - Auditoría
 thumbnail: "/assets/img/auditoria_instagram_marca.jpg"
 feature-img: "/assets/img/auditoria_instagram_marca.jpg"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 ---
 
 > 📊 Este proyecto denominado **Hypevertise** nos permite revisar en profundidad cualquier cuenta de Instagram, creando una auditor&iacute;a sobre ella, siempre y cuando tenga m&aacute;s de 100 seguidores.

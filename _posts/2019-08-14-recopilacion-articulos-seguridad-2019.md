@@ -1,4 +1,7 @@
 ---
+
+author: rosepac
+bootstrap: true
 title: "Todos Estamos Condenados: Charlas de Seguridad 2019"
 description: "Todos Estamos Condenados: Recopilación de artículos más importante sobre seguridad informáticade 2019 por TechCrunch"
 excerpt: "Todos Estamos Condenados: Recopilación de charlas sobre seguridad informática más destacables dentro del Evento de Blackhat 2019, mencionadas a través de TechCrunch"
@@ -7,6 +10,7 @@ tags:
 - Actualidad
 - Ciberseguridad
 - Ghidra
+published: falses
 
 ---
 

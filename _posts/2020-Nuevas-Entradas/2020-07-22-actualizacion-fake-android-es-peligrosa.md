@@ -8,7 +8,8 @@ tags:
 - Aplicaciones Android
 thumbnail: /assets/img/blog/22-seguridad-android.webp
 feature-img: /assets/img/blog/22-seguridad-android.webp
-title: '▷ Seguridad Android: Una falsa actualización de Google roba datos de 337 aplicaciones, incluida Netflix'
+title: >-
+"▷ Seguridad Android: Una falsa actualización de Google roba datos de 337 aplicaciones, incluida Netflix"
 description: >-
   Los investigadores de ThreatFabric han advertido sobre una falsa actualización de Google llamada BlackRock, que puede robar sus datos personales de 337 aplicaciones, incluidas Netflix y Tinder
 excerpt: >-
