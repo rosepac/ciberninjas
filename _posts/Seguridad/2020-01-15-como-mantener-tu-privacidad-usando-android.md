@@ -1,14 +1,15 @@
 ---
 author: rosepac
 bootstrap: true
-title: "▷ Cómo mantener tu privacidad en un teléfono Android 📲"
+title: "▷ Cómo mantener tu privacidad en un teléfono Android"
 description: "Android es una de las herramientas más importantes de Google para recopilar datos sobre los usuarios. Esta guía lo ayudará a mejorar su privacidad en los dispositivos Android"
 excerpt: "Android es una de las herramientas más importantes de Google para recopilar datos sobre los usuarios. Esta guía lo ayudará a mejorar su privacidad en los dispositivos Android"
 published: true
 comments: false
 date: 2020-01-15 09:58:12
 last_modified_at: 
-canonical_URL: /como-mantener-tu-privacidad-usando-android/
+permalink: /como-mantener-tu-privacidad-usando-android/
+canonical_URL: https://ciberninjas.com/como-mantener-tu-privacidad-usando-android/
 tags:
 - Seguridad
 thumbnail: https://i.ibb.co/ysmZJM8/smartphone-technology-telephone-gadget-mobile-phone-android-618203-pxhere-com.jpg
