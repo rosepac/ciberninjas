@@ -9,8 +9,8 @@ published: true
 comments: false
 date: 2020-01-15 09:58:12
 last_modified_at: 
-canonical_URL: https://ciberninjas.com/como-mantener-tu-privacidad-usando-android/
 permalink: /como-mantener-tu-privacidad-usando-android/
+canonical_URL: https://ciberninjas.com/como-mantener-tu-privacidad-usando-android/
 tags:
 - Seguridad
 thumbnail: https://i.ibb.co/ysmZJM8/smartphone-technology-telephone-gadget-mobile-phone-android-618203-pxhere-com.jpg
@@ -144,9 +144,6 @@ De hecho, si se usan correctamente, pueden ser extremadamente útiles para asegu
 
 El truco para usar un teléfono inteligente de forma segura, como con cualquier otro dispositivo, es tomarse el tiempo para descubrir cómo funciona realmente. De esa manera, puede deshabilitar las "funciones" de recopilación y uso compartido de datos que no necesita.
 
-_____
-
-**Fuentes**:
-* [ProtonMail](https://protonmail.com/blog/android-privacy/){:target="_blank" rel="nofollow,noreferrer"}
+> **Fuentee**: [ProtonMail](https://protonmail.com/blog/android-privacy/){:target="_blank" rel="nofollow,noreferrer"}
 
 [👉 Visita las Guías de Seguridad de la EFF 🔐](/eff/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
