@@ -9,7 +9,7 @@ tags:
 - Redes Sociales
 thumbnail: /assets/img/blog/twitter-interrogantes.webp
 feature-img: /assets/img/blog/twitter-interrogantes.webp
-title: 'Twitter quiere agregar un modelo de suscripciones de pago'
+title: 'Twitter quiere agregar pagos a través de un modelo de suscripciones'
 description: >-
   Twitter dice que está buscando opciones para implementar suscripciones de pago, tras comprobar que los ingresos publicitarios van cayendo bruscamente
 excerpt: >-
