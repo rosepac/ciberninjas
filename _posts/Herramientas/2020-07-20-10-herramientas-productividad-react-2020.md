@@ -8,7 +8,7 @@ tags:
 - Productividad
 thumbnail: /assets/img/blog/productividad-react.webp
 feature-img: /assets/img/blog/productividad-react.webp
-title: '▷ 10 herramientas de productividad para desarrolladores de React en 2020'
+title: '▷ 10 Herramientas de productividad para desarrolladores de React 2020'
 description: >-
   Aumenta tu productividad y la calidad de tus aplicaciones con estas 10 geniales herramientas React
 excerpt: >-
