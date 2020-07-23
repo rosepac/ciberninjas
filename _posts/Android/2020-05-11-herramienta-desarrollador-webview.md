@@ -20,9 +20,6 @@ last_modified_at:
 published: true
 
 ---
-<br/>
-
-# 🔩 ▷ Webview en Beta: Herramienta de depuración para desarrolladores de Android
 
 Desde 2014, Android WebView ha allanado el camino como un componente del sistema actualizable, ofreciendo mejoras de estabilidad y rendimiento, características modernas de la plataforma web y parches de seguridad para aplicaciones y usuarios de Android.
 
@@ -71,3 +68,5 @@ Esperamos que encuentre útiles las herramientas de desarrollo de WebView para i
 [🚀 ▷ Lanzamiento de las extensiones de Firebase para Kotlin](/firebase-extensiones-kotlin/)
 
 [▷ Open GApps lanza paquetes de aplicaciones de Google flasheables](/open-gapps-aplicaciones-google-flasheables/)
+
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

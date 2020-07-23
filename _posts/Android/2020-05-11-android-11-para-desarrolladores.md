@@ -24,7 +24,6 @@ published: true
 El equipo de desarrolladores de Android ha compartido a principios de Mayo, una vista sobre todo lo avanzado en Android 11, desde el enfoque de vista de los desarrolladores que trabajan con el Sistema Operativo de Android.
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
-{: .notice--danger}
 
 En estas últimas notas, se ha informado de las últimas actualizaciones las cuales incluyen correcciones de errores y un amplio conjunto de mejoras de productividad para los desarrolladores.
 
@@ -33,7 +32,7 @@ Se pueden acceder a los aspectos más destacados de los cambios a continuación,
 Si ya estabas ejecutando una compilación del sistema de desarrollador, recibirás una actualización (OTA) para el nuevo lanzamiento.
 <!-- contenido -->
 
-[⏩ Vista previa de Android 11 para desarrolladores](https://developer.android.com/preview "Vista previa de Android 11 para desarrolladores"){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[⏩ Vista previa de Android 11 para desarrolladores](https://developer.android.com/preview "Vista previa de Android 11 para desarrolladores"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 
@@ -46,5 +45,7 @@ Si ya estabas ejecutando una compilación del sistema de desarrollador, recibir�
 [🚀 ▷ Lanzamiento de las extensiones de Firebase para Kotlin](/firebase-extensiones-kotlin/)
 
 [▷ Open GApps lanza paquetes de aplicaciones de Google flasheables](/open-gapps-aplicaciones-google-flasheables/)
+
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios](/assets/img/blog/11-android-11-desarrolladores.webp "Vista previa de Android 11 para desarrolladores: Una mirada rápida a la próxima versión de Android para pruebas, desarrollo y comentarios")

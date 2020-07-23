@@ -1,4 +1,6 @@
 ---
+author: rosepac
+bootstrap: true
 title: "AndOTP Aplicación de Doble Factor de Código Abierto para Android"
 description: "\U0001F510 La Mejor Aplicación \U0001F4F1 de Doble Factor de Código Abierto para Android"
 excerpt: "\U0001F510 La Mejor Aplicación \U0001F4F1 de Doble Factor de Código Abierto para Android"

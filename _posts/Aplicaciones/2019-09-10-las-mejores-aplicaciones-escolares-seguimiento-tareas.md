@@ -1,4 +1,7 @@
 ---
+
+author: rosepac
+bootstrap: true
 title: '🎓📱 Las Mejores Aplicaciones Escolares de Seguimiento de Tareas para 2019'
 description: '📱 La mejor lista de las mejores aplicaciones escolares de tareas para 2019'
 excerpt: '📱 La mejor lista de las mejores aplicaciones escolares de tareas para 2019'
@@ -9,6 +12,9 @@ tags:
 - Software de Calendarios
 thumbnail: /assets/img/escuela-aplicaciones-calendario-peque.jpg
 feature-img: /assets/img/escuela-aplicaciones-calendario-peque.jpg
+permalink: /las-mejores-aplicaciones-escolares-seguimiento-tareas/
+canonical_URL: https://ciberninjas.com/las-mejores-aplicaciones-escolares-seguimiento-tareas/
+
 ---
 
 Empieza el nuevo curso, por tanto empiezan los come cabezas escolares de siempre, entre muchas de las nuevas acciones de nuestro día a día a la hora de comenzar clases; se encuentra la difícil tarea de la organización. Por ello, vamos a intentar revisar algunas de las mejores aplicaciones que nos ayudan a mantenernos organizados, seguir nuestras tareas y muchas más opciones.
@@ -17,22 +23,28 @@ Algunas de estas aplicaciones están creadas desde el enfoque específico de la 
 
 Si eres de los estudiantes más clásicos y prefieres tener una original y hermosa agenda física en papel, puedes visitar [nuestro catálogo](/catalogo/#agendas-escolares-) que de seguro te van a encantar.
 
-## Agenda Escolar
+- [**1. Agenda Escolar**](#1-agenda-escolar)
+- [**2. Mi Planificador de Deberes**](#2-mi-planificador-de-deberes)
+- [**3. Horario de Clases**](#3-horario-de-clases)
+- [**4. Mi Vida de Estudiante**](#4-mi-vida-de-estudiante)
+- [**Extras: Más Aplicaciones**](#extras-más-aplicaciones)
+
+## **1. Agenda Escolar**
+
+Agenda Escolar es una práctica aplicación para estudiantes de todas las edades que fue creada para ayudarte a organizar tu vida académica y tener todo bajo control. Si estás asistiendo a la escuela primaria, secundaria o la universidad, da igual ¡esta es la aplicación para ti!
 
 <figure>
     <a href="/assets/img/schooll_planner.webp" class="image-popup"><img src="/assets/img/schooll_planner.webp"></a>
     <figcaption>Agenda Escolar o School Planner: app práctica específica para organizar tu vida académica, sin versión web por desgracia | Ciberninjas</figcaption>
 </figure>
 
-Agenda Escolar es una práctica aplicación para estudiantes de todas las edades que fue creada para ayudarte a organizar tu vida académica y tener todo bajo control. Si estás asistiendo a la escuela primaria, secundaria o la universidad, da igual ¡esta es la aplicación para ti!
+Con **School Planner** podrás anotar tareas, exámenes y recordatorios es muy rápido y las notificaciones te ayudarán a no olvidarte de nada. El calendario integrado está optimizado para las necesidades de los estudiantes y te permite gestionar tus eventos y actividades con mayor facilidad.
 
-En **School Planner** podrás anotar tareas, exámenes y recordatorios es muy rápido y las notificaciones te ayudarán a no olvidarte de nada. El calendario integrado está optimizado para las necesidades de los estudiantes y te permite gestionar tus eventos y actividades con mayor facilidad.
+Además, también puedes crear tu horario de clases y planificar tus horas de estudio. Personalizar el horario como quieras: asignar diferentes colores a cada asignatura y ver eventos relacionados en el calendario.
 
-Puedes también crear tu horario de clases y planificar tus estudios en consecuencia. Personalizar el horario como quieras: asignar diferentes colores a cada asignatura y ver eventos relacionados en el calendario.
+Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=daldev.android.gradehelper&hl=es){:target="_blank" rel="nofollow,noreferrer"}
 
-Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=daldev.android.gradehelper&hl=es)
-
-## Mi Planificador de Deberes
+## **2. Mi Planificador de Deberes**
 
 <figure>
     <a href="/assets/img/my_home_work.jpg" class="image-popup"><img src="/assets/img/my_home_work.jpg"></a>
@@ -45,9 +57,9 @@ Uno de los detalles más importantes de esta app es que permite configurar los d
 
 **My Homework** se ofrece como el mejor planificador para estudiantes que existe. Visualmente se muestra como una app bella y simple con un diseño moderno y una interfaz sencilla que facilita el uso a cualquier persona, funcionando perfectamente sin necesidad de conexión a la red.
 
-Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.myhomeowork&hl=en) o [para Apple](https://apps.apple.com/es/app/myhomework-student-planner/id303490844) en iOS.
+Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.myhomeowork&hl=en){:target="_blank" rel="nofollow,noreferrer"} o [para Apple](https://apps.apple.com/es/app/myhomework-student-planner/id303490844){:target="_blank" rel="nofollow,noreferrer"} en iOS.
 
-## Horario de Clases
+## **3. Horario de Clases**
 
 <figure>
     <a href="/assets/img/class_timetable.jpg" class="image-popup"><img src="/assets/img/class_timetable.jpg"></a>
@@ -60,9 +72,9 @@ La pantalla principal te muestra una lista simple de las clases de cada día mie
 
 **Class Timetable** plantea una interfaz donde destaca principalmente su diseño centrado en un cronograma generado por colores.
 
-Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.icemediacreative.timetable) o [para Apple](https://apps.apple.com/es/app/horario-de-clases/id425121147) en iOS.
+Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.icemediacreative.timetable){:target="_blank" rel="nofollow,noreferrer"} o [para Apple](https://apps.apple.com/es/app/horario-de-clases/id425121147){:target="_blank" rel="nofollow,noreferrer"} en iOS.
 
-## Mi Vida de Estudiante
+## **4. Mi Vida de Estudiante**
 
 <figure>
     <a href="/assets/img/my_study_life.jpg" class="image-popup"><img src="/assets/img/my_study_life.jpg"></a>
@@ -73,10 +85,9 @@ Mi vida de estudiante, ofrece un diseño simple y fácil de navegar y posiblemen
 
 **My Study Life** a diferencia de un planificador en papel o un diario escolar integra todas las áreas de su vida académica: ve las tareas vencidas y atrasadas para tus clases, clases que coincidan con tus exámenes e incluso agrega tareas de revisión para un examen específico, todo de forma gratuita y fácil de leer. Sincroniza todo entre tus dispositivos.
 
-Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.virblue.mystudylife&hl=en) o [para Apple](https://apps.apple.com/es/app/my-study-life-school-planner/id910639339) en iOS.
+Descarga ya, [gratis para Android](https://play.google.com/store/apps/details?id=com.virblue.mystudylife&hl=en){:target="_blank" rel="nofollow,noreferrer"} o [para Apple](https://apps.apple.com/es/app/my-study-life-school-planner/id910639339){:target="_blank" rel="nofollow,noreferrer"} en iOS.
 
-
-## Más Aplicaciones
+## **Extras: Más Aplicaciones**
 
 Si ninguna de estas aplicaciones te convencen, siempre puedes intentar usar una típica aplicación de **TODO** o **Aplicación De Listas de Tareas** las que son en líneas generales más minimalistas y simples aún de usar.
 
@@ -97,4 +108,6 @@ Definitivamente estas son algunas de las mejores aplicaciones que te van a facil
 
 Cada una de ellas gestionada por una distinta metodología y no dejes de recordar siempre que la mejor solamente será la que más se adapte a tus necesidades reales y que es mucho mejor gestionarse a través de 1 o como mucho 2 aplicaciones y exprimir todas sus opciones al máximo que instalar decenas de aplicaciones y encontrarse envuelto en una locura de apps.
 
-¡Espero que os sea un gran año de clases y estudio!
+**¡Espero que os sea un gran año de clases y estudio!**
+
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

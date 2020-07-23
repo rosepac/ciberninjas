@@ -49,7 +49,7 @@ Pero antes de aprovechar un sistema de administración de bases de datos, debe e
 * ¿Cómo se utiliza el software de base de datos?
 * Resumen Ejecutivo.
 
-🚧👷‍♂️🚧👷‍♂️ CONTENIDO EN CONSTRUCCIÓN 👷‍♂️🚧👷‍♂️🚧
+> 🚧👷‍♂️🚧👷‍♂️ CONTENIDO EN CONSTRUCCIÓN 👷‍♂️🚧👷‍♂️🚧
 {: .notice--danger}
 <!-- https://www.adamenfroy.com/database-software -->
 
