@@ -1,9 +1,9 @@
 ---
-title: "🗃 Percona, la Alternativa Real a MySql"
 author: rosepac
 bootstrap: true
-description: '🗃 Percona, la Alternativa Real a MySql.'
-excerpt: '🗃 Percona, la Alternativa Real a MySql.'
+title: "🗃 Percona, la Alternativa Real a MySql"
+description: 'Percona, la alternativa real a MySql.'
+excerpt: 'Percona, la alternativa real a MySql.'
 published: true
 date: 2019-10-07 17:45:02
 last_modified_at: 2019-10-07 07:20:10
@@ -13,22 +13,21 @@ tags:
 - MySql
 thumbnail: "/assets/img/final_sdk_varios.jpg"
 feature-img: "/assets/img/final_sdk_varios.jpg"
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
-permalink: /percona-alternativa-mysql
-canonical_URL: https://ciberninjas.com/percona-alternativa-mysql
+permalink: /percona-alternativa-mysql/
+canonical_URL: https://ciberninjas.com/percona-alternativa-mysql/
 
 ---
-
-## ¿Qué es Percona?
 
 Percona es una empresa líder en brindar el mejor soporte de clase empresarial, consultoría, servicios administrados, capacitación y software para MySQL®, MariaDB®, MongoDB®, PostgreSQL® y otras bases de datos de código abierto en entornos locales y en la nube.
 
 Percona fue fundada en agosto de 2006 por Peter Zaitsev y Vadim Tkachenko y ahora emplea una red global de expertos con un personal de más de 150 personas.
 
-## La Historia de Percona
+- [**La Historia de Percona**](#la-historia-de-percona)
+- [**¿Qué ofrece Percona?**](#qué-ofrece-percona)
+- [**Noticias de Relevancia sobre Percona**](#noticias-de-relevancia-sobre-percona)
+- [**Herramientas de Percona**](#herramientas-de-percona)
+
+## **La Historia de Percona**
 
 Si queremos comprender mejor por qué se creó Percona; se debe tener en cuenta la evolución del código abierto.
 
@@ -63,7 +62,7 @@ procesos que no necesitan.
 * Percona quiere que los usuarios comprendan todas las excelentes características de una solución tecnológica,
 pero también tenga en cuenta cualquier problema potencial o mejores alternativas.
 
-## ¿Qué ofrece Percona?
+## **¿Qué ofrece Percona?**
 
 Percona crea y distribuye Percona Server para MySQL y Percona Server para MongoDB. Estos, son software de base de datos de código abierto que sirven como reemplazo totalmente compatible con dichas bases de datos; entre otras [múltiples herramientas](https://kutt.it/perconadescargas "Sitio oficial de Percona, de todas sus diferentes herramientas ofrecidas gratuitamente").
 
@@ -80,11 +79,11 @@ El equipo de Percona se enorgullece por ser "agnóstico de software" lo que trad
 
 En el futuro, Percona espera seguir avanzando sobre sus principios; ofreciendo su software, servicios, mensajes y experiencias hacía la comunidad de manera justa y honesta. Creando software de vanguardia gratuito y ofreciendo soluciones que permitan crecer, mejorar y proteger sus datos a todos sus usuarios.
 
-## Noticias de Relevancia
+## **Noticias de Relevancia sobre Percona**
 
 Desde [aquí](https://kutt.it/perconanoticias) puedes estar informado día a día de lo que el mundo piensa sobre Percona; en enlace puedes encontrar una lista de vigilancia sobre Percona por parte de los principales medios de comunicación y analistas que cubren las comunidades MySQL, MariaDB, MongoDB, PostgreSQL y de código abierto.
 
-## Herramientas de Percona
+## **Herramientas de Percona**
 
 Este es el diferente software que Percona nos ofrece de forma gratuito y código abierto para MySQL y MongoDB. Para obtener detalles específicos, visite las páginas de productos individuales, donde también puede encontrar la documentación actual de todos nuestros principales productos de software de código abierto.
 <!-- https://www.percona.com/downloads/ productos generar pagina a pagina de cada uno de los productos ^^ ^^ ^^-->
