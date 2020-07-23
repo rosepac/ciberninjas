@@ -8,7 +8,6 @@ author: rosepac
 bootstrap: true
 comments: false
 date: 2020-01-14 22:22:22
-last_modified_at: 
 permalink: /videojuegos/
 canonical_URL: https://ciberninjas.com/videojuegos/
 ---

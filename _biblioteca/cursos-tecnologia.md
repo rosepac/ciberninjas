@@ -7,7 +7,6 @@ excerpt: "🚀 Repositorio de cursos online actualizados: Desarrollo Web 👩‍
 author: rosepac
 bootstrap: true
 date: 2020-03-13T22:00:00.000+02:00
-last_modified_at: 
 permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
 thumbnail: "/assets/img/blog/tecnologia-programando.webp"

@@ -21,10 +21,16 @@ published: true
 
 ---
 
-![Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?](/assets/img/blog/calcular-productividad.webp "Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?")
-<!-- https://www.investopedia.com/ask/answers/040715/how-productivity-calculated.asp -->
-
 La productividad mide la eficiencia del proceso de producción de una empresa. Se calcula dividiendo los resultados producidos por una empresa por los insumos utilizados en su proceso de producción. Los insumos comunes son horas laborales, capital y recursos naturales, mientras que los productos generalmente se miden en ventas o en la cantidad de bienes y servicios producidos. La productividad se puede calcular midiendo el número de unidades producidas en relación con las horas laborales de los empleados o midiendo las ventas netas de una empresa en relación con las horas laborales de los empleados.
+
+- [**Claves a seguir**](#claves-a-seguir)
+- [**Cálculo de la productividad laboral**](#cálculo-de-la-productividad-laboral)
+- [**Métodos alternativos para calcular la productividad**](#métodos-alternativos-para-calcular-la-productividad)
+  - [1. Retroalimentación de 360 ​​grados](#1-retroalimentación-de-360-grados)
+  - [2. Medición de productividad usando ventas totales](#2-medición-de-productividad-usando-ventas-totales)
+  - [3. Seguimiento de rendimiento en línea](#3-seguimiento-de-rendimiento-en-línea)
+  - [4. Monitoreo de redes sociales](#4-monitoreo-de-redes-sociales)
+- [**Medición de productividad en diferentes industrias**](#medición-de-productividad-en-diferentes-industrias)
 
 <details>
 <summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
@@ -38,8 +44,7 @@ La productividad mide la eficiencia del proceso de producción de una empresa. S
 </nav>
 </details>
 
-🔥 Seguro también te interesa 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank" rel="nofollow,noreferrer"} 👉 [Guía de productividad](/guia-productividad-definitiva/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) 👉 [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n) 
-{: .notice--danger}
+> 🔥 Seguro también te interesa 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank" rel="nofollow,noreferrer"} 👉 [Guía de productividad](/guia-productividad-definitiva/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) 👉 [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n) 
 
 ## **Claves a seguir**
 
@@ -57,21 +62,27 @@ Esto significa que los empleados produjeron 10 unidades por hora en el mes anter
 
 Estos métodos se basarían en diferentes alternativas, como son las siguientes..
 
-### **1. Retroalimentación de 360 ​​grados**
+### 1. Retroalimentación de 360 ​​grados
 
-Con este método, una organización solicita y utiliza comentarios que provienen de los compañeros de trabajo de un empleado. Si bien esto puede sonar combativo, en muchos casos puede ser un excelente método para evaluar su productividad. En este enfoque, la productividad se evalúa preguntando a los superiores, compañeros y subordinados. Se les pide a los compañeros de trabajo que califiquen cómo ha contribuido el empleado en cuestión a la empresa y qué tan bien han cumplido con sus obligaciones.
+Con este método, una organización solicita y utiliza comentarios que provienen de los compañeros de trabajo de un empleado. Si bien esto puede sonar combativo, en muchos casos puede ser un excelente método para evaluar su productividad.
 
-El sistema de retroalimentación de 360 ​​grados requiere que cada persona involucrada comprenda bien lo que significa que esa persona sea efectiva en su trabajo y un trabajador diligente. También solo funciona en situaciones en las que los miembros del equipo interactúan estrechamente entre sí. Para instituir con éxito un sistema de retroalimentación de 360 ​​grados, una empresa debe capacitar a los empleados sobre cómo dar retroalimentación instructiva de manera honesta y objetiva. Con suerte, recibir comentarios de varios compañeros también elimina cualquier sesgo que una sola persona pueda tener contra otra.
+En este enfoque, la productividad se evalúa preguntando a los superiores, compañeros y subordinados. Se les pide a los compañeros de trabajo que califiquen cómo ha contribuido el empleado en cuestión a la empresa y qué tan bien han cumplido con sus obligaciones.
 
-### **2. Medición de productividad usando ventas totales**
+El sistema de retroalimentación de 360 ​​grados requiere que cada persona involucrada comprenda bien lo que significa que esa persona sea efectiva en su trabajo y un trabajador diligente. También solo funciona en situaciones en las que los miembros del equipo interactúan estrechamente entre sí.
 
-Otra forma común de medir el nivel de productividad laboral de una empresa es dividir las ventas totales por la cantidad total de horas trabajadas. Por ejemplo, la compañía ABC tuvo ventas netas de $ 15 millones y sus empleados trabajaron un total de 20,000 horas durante el último año fiscal . La salida es las ventas netas de la compañía y la entrada es la cantidad de horas. La productividad de la empresa es de $ 750 ($ 15 millones divididos por 20,000). Esto significa que por cada hora de trabajo, los empleados de la compañía ABC produjeron $ 750 en ventas.
+Para instituir con éxito un sistema de retroalimentación de 360 ​​grados, una empresa debe capacitar a los empleados sobre cómo dar retroalimentación instructiva de manera honesta y objetiva. Con suerte, recibir comentarios de varios compañeros también elimina cualquier sesgo que una sola persona pueda tener contra otra.
 
-### **3. Seguimiento de rendimiento en línea**
+### 2. Medición de productividad usando ventas totales
+
+Otra forma común de medir el nivel de productividad laboral de una empresa es dividir las ventas totales por la cantidad total de horas trabajadas. Por ejemplo, la compañía ABC tuvo ventas netas de $ 15 millones y sus empleados trabajaron un total de 20,000 horas durante el último año fiscal.
+
+La salida es las ventas netas de la compañía y la entrada es la cantidad de horas. La productividad de la empresa es de 750 dólares (15 millones de dólares divididos por 20,000). Esto significa que por cada hora de trabajo, los empleados de la compañía ABC produjeron 750 dólares en ventas.
+
+### 3. Seguimiento de rendimiento en línea
 
 El seguimiento del tiempo en línea y la gestión de proyectos utilizan software para ayudar a una empresa a rastrear la productividad automáticamente. Mediante hojas de tiempo electrónicas, las empresas realizan un seguimiento de los datos sobre los empleados con mayor precisión en tiempo real. Estos datos se pueden usar para crear informes de rendimiento para cada empleado. Esta también es una gran solución para medir la productividad de las empresas con trabajadores remotos. Una limitación del seguimiento del tiempo es que el tiempo de trabajo es solo una medida de un trabajador productivo. Lo que puede importar más es cómo utilizan ese tiempo y la calidad de su producción.
 
-### **4. Monitoreo de redes sociales**
+### 4. Monitoreo de redes sociales
 
 Algunos empleadores se esfuerzan por seguir a sus empleados en las redes sociales para poner en práctica una filosofía que publique en las redes sociales o navegue por Internet durante la jornada laboral. La idea es que el desplazamiento por Internet y Facebook disminuya el trabajo productivo, especialmente en el tiempo de la empresa. Las computadoras de la compañía pueden tener instalado un software que rastrea dicho uso inapropiado y lo informa a la gerencia.
 
@@ -81,13 +92,9 @@ Los puntos de referencia y objetivos de productividad dependen de la industria. 
 
 ### **Relacionados** <!-- omit in toc -->
 
-[▷ Editores de Texto](/categoria/#editor-de-texto)
-  * [Eclipse Theia](/wiki/eclipse-theia)
+> 🔥 Seguro también te interesa 👉 [Mejores Libros sobre Productividad](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){:target="_blank" rel="nofollow,noreferrer"} 👉 [Guía de productividad](/guia-productividad-definitiva/) 👉 [Mejores Prácticas de Teletrabajo](https://ciberninjas.com/mejores-practicas-trabajar-desde-casa/) 👉 [Mejores Consejos sobre Teletrabajo](https://ciberninjas.com/mejores-consejos-trabajar-desde-casa/) 👉 [Cursos sobre Startups y Negocios](https://ciberninjas.com/cursos-otras-tematicas/#negocio) 👉 [Cursos sobre Motivación](https://ciberninjas.com/cursos-otras-tematicas/#motivaci%C3%B3n)
 
-[🥇 ▷ Cómo APRENDER a Programar GRATIS cualquier Lenguaje de Programación en 2020](/programar/)
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos?listId=1MPWF36J3BPEI){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[▷ Las 15 Mejores Lenguajes de Programación para Aprender en 2020](/15-mejores-lenguajes-programacion/)
-
-[▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
-
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331109157075936" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331109157075936" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros con los que aprender a programar en Java y con Android, en Español</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331109157075936">Martes, 3 de marzo de 2020</a></blockquote></div>
+![Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?](/assets/img/blog/calcular-productividad.webp "Un factor importante dentro del trabajo del día a día, es la productividad. Pero, ¿Cómo la podemos calcular?")
+<!-- https://www.investopedia.com/ask/answers/040715/how-productivity-calculated.asp -->

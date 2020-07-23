@@ -1,24 +1,20 @@
 ---
 author: rosepac
 bootstrap: true
-title: "▷ Experimentos de Bienestar Digital para Android de Google"
-description: "Los experimentos de bienestar digital es una muestra de ideas y herramientas que ayudan a las personas a encontrar un mejor equilibrio con la tecnología."
-excerpt: "Los experimentos de bienestar digital es una muestra de ideas y herramientas que ayudan a las personas a encontrar un mejor equilibrio con la tecnología."
+title: '▷ Experimentos de Bienestar Digital para Android de Google'
+description: Los experimentos de bienestar digital es una muestra de ideas y herramientas que ayudan a las personas a encontrar un mejor equilibrio con la tecnología.
+excerpt: Los experimentos de bienestar digital es una muestra de ideas y herramientas que ayudan a las personas a encontrar un mejor equilibrio con la tecnología.
 published: true
 comments: false
 date: 2020-01-23 10:07:12
-last_modified_at: 
-canonical_URL: /experimentos-bienestar-digital/
-categories:
+permalink: /experimentos-bienestar-digital/
+canonical_URL: https://ciberninjas.com/experimentos-bienestar-digital/
 tags:
 - Google Android
 - Experimentos Google
 ---
 
-
-## ¿Qué son los experimentos de bienestar digital?
-
-Digital Wellbeing Experiments, una plataforma para compartir ideas y herramientas que ayudan a las personas a encontrar un mejor equilibrio con la tecnología. Pruebe los experimentos y cree los suyos en (digitalwellbeingexperiments).
+Digital Wellbeing Experiments, es una plataforma para compartir ideas y herramientas que ayudan a las personas a encontrar un mejor equilibrio con la tecnología. Pruebe los experimentos y cree los suyos en (digitalwellbeingexperiments).
 
 Una colección de ideas y herramientas que ayudan a las personas a encontrar un mejor equilibrio con la tecnología. Esperamos que estos experimentos inspiren a los desarrolladores y diseñadores a considerar el bienestar digital en todo lo que diseñan y hacen.
 
@@ -26,11 +22,11 @@ Todo el código es de código abierto y hay guías y consejos útiles disponible
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rt5LY5TeTVQ?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><br/>
 
-## ¿Qué experimentos existen?
+## **¿Qué experimentos existen?**
 
 A continuación vamos a revisar los diferentes proyectos lanzados por Google en estos Experimentos para el Bienestar Digital, a saber; Screen Stopwatch, Activity Bubbles, Envelope, Anchor, Paper Phone, Desert Island, Unlock Clock, Morph, Post Box y We Flip.
 
-## Screen Stopwatch / Cronómetro de Pantalla
+## **Screen Stopwatch / Cronómetro de Pantalla**
 
 Conozca cuánto tiempo pasa en su teléfono cada día.
 
@@ -40,7 +36,7 @@ Screen Stopwatch le dice cuánto tiempo pasa en su teléfono cada día. Cada vez
 
 [📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.screenstopwatch){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## Activity Bubbles / Búrbujas de Actividad
+## **Activity Bubbles / Búrbujas de Actividad**
 
 Descubre cómo se ve el uso de tu teléfono.
 
@@ -50,7 +46,7 @@ Activity Bubbles te ayuda a descubrir cómo se ve el uso de tu teléfono en un d
 
 [📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.activitybubbles){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-## Envelope / Sobre
+## **Envelope / Sobre**
 
 Un conjunto de sobres que transforman temporalmente su teléfono en un dispositivo más simple y tranquilo, lo que le ayuda a alejarse de su mundo digital.
 
@@ -140,10 +136,6 @@ We Flip te permite desconectarse de la tecnología como grupo, para pasar tiempo
 
 [📱 Instalar <i class="fas fa-download"></i>](https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.weflip){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
-_____
-
-**Fuentes**:
-
-* [Experimentos de Google](https://experiments.withgoogle.com/collection/digitalwellbeing){:target="_blank" rel="nofollow,noreferrer"}
+> **Fuente**: [Experimentos de Google](https://experiments.withgoogle.com/collection/digitalwellbeing){:target="_blank" rel="nofollow,noreferrer"}
 
 [👉 Repositorio de Github <i class="fab fa-github"></i>](https://github.com/googlecreativelab/digital-wellbeing-experiments-toolkit#digital-wellbeing-experiments-toolkit){: .btn .btn--inverse .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}

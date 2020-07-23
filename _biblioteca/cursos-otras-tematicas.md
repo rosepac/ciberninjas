@@ -5,7 +5,6 @@ title: "▷ Cursos de Diferentes Temáticas 💥 100% GRATIS y en ESPAÑOL 💥!
 excerpt: "🔥 Comienza a aprender sobre Agricultura, Ciencias, Cocina, Medio Ambiente, Economía, Negocios, Salud, Servicios Sociales 💥 100% GRATIS y en ESPAÑOL 💥!"
 descriptio: "🔥 Comienza a aprender sobre Agricultura, Ciencias, Cocina, Medio Ambiente, Economía, Negocios, Salud, Servicios Sociales 💥 100% GRATIS y en ESPAÑOL 💥!"
 date: 2020-01-14T12:26:00.000+01:00
-last_modified_at: 
 published: true
 permalink: /cursos-otras-tematicas/
 canonical_URL: https://ciberninjas.com/cursos-otras-tematicas/

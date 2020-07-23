@@ -8,7 +8,6 @@ bootstrap: true
 published: true
 comments: false
 date: 2020-05-27
-last_modified_at: 
 permalink: /biblioteca-novela-poesia/
 canonical_URL: https://ciberninjas.com/biblioteca-novela-poesia/
 thumbnail: "/assets/img/paginas/libros-clasicos-novelas-historia-revistas.webp"

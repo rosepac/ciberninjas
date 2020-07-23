@@ -8,7 +8,6 @@ comments: false
 author: rosepac
 bootstrap: true
 date: 2020-03-10
-last_modified_at: 
 permalink: /standar-original-robots-txt/
 canonical_URL: https://ciberninjas.com/standar-original-robots-txt/
 thumbnail: "/assets/img/robots-txt-lupa-ciberninjas.webp"
