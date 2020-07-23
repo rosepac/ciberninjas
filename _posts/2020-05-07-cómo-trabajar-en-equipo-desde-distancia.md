@@ -21,10 +21,6 @@ published: true
 
 ---
 
-[🔝 Índice](/cómo-trabajar-equipo-distancia/#índice-){: .btn .btn--inverse .btn--large .align-center}
-
-## **Introducción**
-
 En esta publicación vamos a ver como poder trabajar de forma colaborativa mediante equipos remotos. Durante las siguientes secciones verás algunas de las realidades del trabajo remoto y conocerás algunas las mejores experiencias prácticas.
 
 Además, vamos a explora algunas de las mejores herramientas y examinar las habilidades necesarias para realizar el trabajo.
@@ -49,6 +45,14 @@ La semana 2 cubre los siguientes resultados de aprendizaje:
 - Experimente con tiempo y herramientas de gestión de proyectos.
 - Explore herramientas y recursos para ayudarlo a trabajar de forma remota.
 - Produzca un plan detallado para un trabajo remoto exitoso.
+
+- [**¿Cómo han cambiado las prácticas laborales?**](#cómo-han-cambiado-las-prácticas-laborales)
+- [**¿Qué es el trabajo remoto?**](#qué-es-el-trabajo-remoto)
+- [Capacidad para trabajar en casi cualquier lugar.](#capacidad-para-trabajar-en-casi-cualquier-lugar)
+- [Los beneficios del trabajo remoto](#los-beneficios-del-trabajo-remoto)
+- [Los desafíos del trabajo remoto](#los-desafíos-del-trabajo-remoto)
+- [¿Quién trabaja de forma remota?](#quién-trabaja-de-forma-remota)
+  - [Relacionados](#relacionados)
 
 <!-- cierro contenido por revisar -->
 ## **¿Cómo han cambiado las prácticas laborales?**
@@ -140,15 +144,8 @@ Con un nivel medio de competencia técnica y una conexión a Internet razonable,
 
 No hay una única forma de trabajo remoto; Es un viaje individual. Todos los que trabajan a distancia tienen una historia diferente, un trabajo diferente y una motivación diferente. En realidad, todo lo que necesita para trabajar a distancia es un espacio dedicado, una computadora portátil y conectividad a Internet que permita la comunicación por video.
 
-### Índice <!-- omit in toc-->
-- [**Introducción**](#introducción)
-- [**¿Cómo han cambiado las prácticas laborales?**](#cómo-han-cambiado-las-prácticas-laborales)
-- [**¿Qué es el trabajo remoto?**](#qué-es-el-trabajo-remoto)
-- [Capacidad para trabajar en casi cualquier lugar.](#capacidad-para-trabajar-en-casi-cualquier-lugar)
-- [Los beneficios del trabajo remoto](#los-beneficios-del-trabajo-remoto)
-- [Los desafíos del trabajo remoto](#los-desafíos-del-trabajo-remoto)
-- [¿Quién trabaja de forma remota?](#quién-trabaja-de-forma-remota)
-  - [Índice](#índice)
+### Relacionados <!-- omit in toc-->
+
 
 > 🔥 Seguro también te interesa: [Mejores Consejos para Teletrabajar](/mejores-consejos-trabajar-desde-casa/)
 {: .notice--danger}
