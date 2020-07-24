@@ -4,10 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Frameworks Multiplataforma
 - Cordova Apache
 - OSX
-categories:
-- Frameworks Multiplataforma
 thumbnail: /assets/img/2020-news/cordova-apache.webp
 feature-img: /assets/img/2020-news/cordova-apache.webp
 title: '▷ Apache Cordova para crear aplicaciones de escritorio macOS'

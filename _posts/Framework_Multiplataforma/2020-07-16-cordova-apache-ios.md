@@ -4,11 +4,10 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Frameworks Multiplataforma
 - Cordova Apache
 - OSX
 - iOS
-categories:
-- Frameworks Multiplataforma
 thumbnail: /assets/img/2020-news/cordova-apache-ios.webp
 feature-img: /assets/img/2020-news/cordova-apache-ios.webp
 title: '▷ Apache Cordova para construir aplicaciones sobre móviles iOS'

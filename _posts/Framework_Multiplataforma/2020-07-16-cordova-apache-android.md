@@ -4,10 +4,9 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
+- Frameworks Multiplataforma
 - Cordova Apache
 - Android Studio
-categories:
-- Frameworks Multiplataforma
 thumbnail: /assets/img/2020-news/cordova-apache-android-studio.webp
 feature-img: /assets/img/2020-news/cordova-apache-android-studio.webp
 title: '▷ Apache Cordova 9.0 para crear aplicaciones móviles Android'
