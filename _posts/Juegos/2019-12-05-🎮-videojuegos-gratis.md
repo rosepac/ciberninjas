@@ -113,7 +113,7 @@ Fortnite Battle Royale se basa completamente en un espacio abierto: te dejan cae
 
 Lo que es absolutamente genial es que con Fortnite, puedes jugar con tus amigos, independientemente de la plataforma en la que te encuentres; ya sea que estés en PC, Xbox One, iOS, Android o PS4, podrás enfrentarte a millones de otros jugadores de todas las demás plataformas.
 
-[🎮 Juega a Fortnite GRATIS Online 🎮](https://www.epicgames.com/fortnite/es-ES/download){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Fortnite GRATIS Online 🎮](https://www.epicgames.com/fortnite/es-ES/download){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 2. Dota 2
 
@@ -123,7 +123,7 @@ Este videojuego de arenas, ha atraído a fondos multimillonarios para la creaci�
 
 Un breve tutorial te muestra cómo jugar, al igual que la Comunidad Steam que ofrece te guías para el MOBA original. No esperes una cálida bienvenida o una curva de aprendizaje fácil gracias a su compleja mecánica de juego. Sin embargo, puedes juntarte con tus amigos y Dota 2 te tendrá enganchado a una de las mayores locuras en la historia de las PC durante mucho tiempo.
 
-[🎮 Juega a Dota 2 GRATIS 🎮](https://blog.dota2.com/?l=english){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Dota 2 GRATIS 🎮](https://blog.dota2.com/?l=english){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 3. Planetside 2
 
@@ -131,7 +131,7 @@ Dos años antes de Destiny, tuvimos Planetside 2, una auténtica batalla épica 
 
 Simplemente no hay nada tan emocionante como participar en un asalto masivo a una base enemiga y salir hacía la cima, o existir dentro de un mundo donde un convoy enemigo podría saquearte desde el horizonte, en cualquier momento. Planetside 2 es una prueba de que "gratis" no significa prosaico.
 
-[🎮 Juega a Planetside 2 GRATIS 🎮](https://www.planetside2.com/register){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Planetside 2 GRATIS 🎮](https://www.planetside2.com/register){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **4. Path of Exile**
 
@@ -141,7 +141,7 @@ Path of Exile lleva su tiempo, más que tu juego multijugador estándar. Pero, d
 
 Incluso el botín básico puede ser útil, ya que siempre existe la posibilidad de mejorar incluso el arma más simple con magia. Si estás aburrido con la rutina de Diablo III, es una buena opción para echar un vistazo.
 
-[🎮 Juega a Path of Exile GRATIS 🎮](https://www.pathofexile.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Path of Exile GRATIS 🎮](https://www.pathofexile.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 5. League of Legends
 
@@ -151,7 +151,7 @@ Sin duda, es una experiencia de juego agresiva, pero que premia el excelente tra
 
 Al igual que Dota 2, League of Legends atrae a muchos jugadores de alto nivel y los mejores torneos ofrecen premios de más de $ 1 millón. El loco mundo de los deportes electrónicos, ¿eh?
 
-[🎮 Juega a League of Legends GRATIS 🎮](http://euw.leagueoflegends.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a League of Legends GRATIS 🎮](http://euw.leagueoflegends.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 6. Hearthstone: Heroes of Warcraft
 
@@ -161,7 +161,7 @@ Como una oferta típica de Blizzard, esta es realmente impresionante. Es instant
 
 No es que no sea un desafío también, especialmente si te enfrentas a un oponente que Juega bien sus cartas, por eso obtiene nuestro voto para uno de los mejores juegos gratis hasta la fecha.
 
-[🎮 Juega a Herthstone: Heroes de Warcraft GRATIS 🎮](http://us.battle.net/hearthstone/en/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Herthstone: Heroes de Warcraft GRATIS 🎮](http://us.battle.net/hearthstone/en/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 7. Star Wars: La Antigua República
 
@@ -171,7 +171,7 @@ Las suscripciones están a la mano para obtener más potencial en el juego y con
 
 Vale la pena su tiempo para experimentar el universo de Star Wars desde diferentes pares de ojos, como el Agente Imperial hiperprofesional y Bounty Hunter. Sin embargo, si quieres ir con la opción aburrida y solo tener un Caballero Jedi genérico, también puedes hacerlo por completo.
 
-[🎮 Juega a Star Wars: La antigua República GRATIS 🎮](http://www.starwarstheoldrepublic.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Star Wars: La antigua República GRATIS 🎮](http://www.starwarstheoldrepublic.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 8. Blade & Soul
 
@@ -179,7 +179,7 @@ Tu historia de venganza se desarrolla en un mundo impresionante donde las artes 
 
 El camino de la venganza comienza con determinación. Elige una de las cuatro razas únicas y utiliza herramientas detalladas de personalización de personajes para dar forma a tu personaje con posibilidades casi infinitas.
 
-[🎮 Juega a Blade & Soul GRATIS 🎮](https://www.bladeandsoul.com/uk/what-is-blade-and-soul/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Blade & Soul GRATIS 🎮](https://www.bladeandsoul.com/uk/what-is-blade-and-soul/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 9. Dauntless
 
@@ -189,7 +189,7 @@ Alejándose del claro enfoque ecologista de Monster Hunter: World, donde estás 
 
 La jugabilidad en sí misma es mucho más sencilla, libre de algunos de los sistemas de juego más obtusos que amas u odias en la serie Monster Hunter. Sin embargo, el ADN central de la serie está ahí: cazar monstruos, fabricar equipo, cazar más monstruos, lo que lo convierte en uno de los mejores juegos gratuitos que hay en este momento.
 
-[🎮 Juega a Dauntless GRATIS 🎮](https://www.epicgames.com/store/en-US/product/dauntless/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Dauntless GRATIS 🎮](https://www.epicgames.com/store/en-US/product/dauntless/home){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 10. World of Tanks
 
@@ -199,7 +199,7 @@ El sistema de actualización te permite personalizar, mientras estás rodeado po
 
 Algunos tanques premium cuestan solo unos pocos dólares, mientras que otros requieren un poco más de monedas. Puedes ver dónde Wargaming está ganando dinero de los entusiastas de World of Tanks. Aún así, esto no impide que sea uno de los mejores juegos gratuitos en este momento.
 
-[🎮 Juega a Guerra de Tanques GRATIS 🎮](http://worldoftanks.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Guerra de Tanques GRATIS 🎮](http://worldoftanks.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 11. Heroes of the Storm
 
@@ -209,7 +209,7 @@ Lo has leído bien: la lista está compuesta en su totalidad por personajes de B
 
 Blizzard lo sacó del parque aquí, convirtiéndolo en uno de los mejores juegos gratuitos que sigue mejorando día a día.
 
-[🎮 Juega a Heroes of the Storm GRATIS 🎮](https://heroesofthestorm.com/en-us/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Heroes of the Storm GRATIS 🎮](https://heroesofthestorm.com/en-us/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 12. Everquest
 
@@ -219,7 +219,7 @@ Everquest, el primero de su tipo en tener éxito comercial con un motor de juego
 
 Con paquetes de expansión lanzados constantemente (bastante masivos en escala, al menos desde el principio) con vastas áreas, razas y clases nuevas, Everquest trae a la mesa casi todo lo que podrías desear o necesitar de un MMO. Además, es notablemente mejor en el manejo de cooperativas que sus alternativas.
 
-[🎮 Juega a Everquest GRATIS 🎮](http://store.steampowered.com/app/205710/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Everquest GRATIS 🎮](http://store.steampowered.com/app/205710/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 13. Rift
 
@@ -229,7 +229,7 @@ Todo el juego se centra en separar las batallas de jefes gigantes y los eventos 
 
 Además, puedes montar un Landshark.
 
-[🎮 Juega a Rift GRATIS 🎮](http://www.trionworlds.com/rift/en/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Rift GRATIS 🎮](http://www.trionworlds.com/rift/en/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 14. Runescape
 
@@ -239,7 +239,7 @@ A pesar de la revisión, definitivamente no es el MMO más brillante del mundo, 
 
 Puede descargar el juego de forma gratuita o ejecutarlo en su navegador utilizando Java, lo que lo hace mucho más conveniente que la mayoría de los otros jugadores de rol en línea de esta enorme escala.
 
-[🎮 Juega a Runescape GRATIS 🎮](http://www.runescape.com/community){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Runescape GRATIS 🎮](http://www.runescape.com/community){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 15. Maplestory
 
@@ -249,7 +249,7 @@ El tono más ligero y la personalización de Maplestory lo hacen sentir más com
 
 Maplestory incluso tiene bodas en el juego y dinosaurios que tocan la guitarra. Realmente, lo único que falta en Maplestory es una banda sonora inspirada en Oasis.
 
-[🎮 Juega a Maplestory GRATIS 🎮](http://maplestory.nexon.net/landing/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Maplestory GRATIS 🎮](http://maplestory.nexon.net/landing/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 16. Warframe
 
@@ -257,7 +257,7 @@ Si te gustan los juegos de disparos cooperativos en tercera persona, Warframe pu
 
 Más apuesto que tu tirador gratuito habitual, hay mucha diversión en las incursiones de jugador contra enemigo de Warframe, tanto que algunos jugadores lo ven como "El destino que nunca fue". Un gran elogio a su alrededor.
 
-[🎮 Juega a Warframe GRATIS 🎮](https://www.warframe.com/landing){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Warframe GRATIS 🎮](https://www.warframe.com/landing){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 17. Smite
 
@@ -265,7 +265,7 @@ Los dioses de todos los panteones se unen en Smite para enfrentarse en un choque
 
 Esta vez, la cámara está detrás de los personajes, lo que te permite una conexión más directa con la acción que simplemente ordenar a tu señor con un mouse. Sin embargo, la idea será familiar si has jugado sus inspiraciones, o una forma de tener una idea del estilo, si no lo has hecho. Los dioses incluyen a Zeus, Thor, Kali, Artemis y ... ¿Cupido? Bueno, al menos tiene su propio arco ...
 
-[🎮 Juega a Smite GRATIS 🎮](http://www.hirezstudios.com/smite){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Smite GRATIS 🎮](http://www.hirezstudios.com/smite){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 18. Lord of the Rings Online
 
@@ -273,7 +273,7 @@ Hay tantos MMO que se han lanzado o relanzado como juegos gratuitos. Sin embargo
 
 Finalmente, tendrás que pagar para desbloquear paquetes de aventura. Sin embargo, no hay una tarifa de suscripción ni un costo inicial, por lo que es uno de los mejores juegos gratuitos que 2020 quiere que revises. Si te lo perdiste en el lanzamiento, o incluso si dejaste de jugar desde entonces, es hora de darle otra oportunidad.
 
-[🎮 Juega a Lord of the Rings Online GRATIS 🎮](https://lotro.com/en/game/download){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Lord of the Rings Online GRATIS 🎮](https://lotro.com/en/game/download){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 19. The Awesome Adventures of Captain Spirit
 
@@ -281,7 +281,7 @@ Life is Strange y su secuela son uno de los mejores juegos de aventura modernos 
 
 Es un juego de aventuras para un jugador gratuito sin ningún tipo de monetización, simplemente un buen preludio de Life is Strange 2. Simplemente no esperes la experiencia de juego más larga del mundo, ya que es probable que la termines en solo un par de horas Sin embargo, eso todavía no impide que sea uno de los mejores juegos gratuitos.
 
-[🎮 Juega a The Awesome Adventures of Captain Spirit GRATIS 🎮](https://store.steampowered.com/app/845070/The_Awesome_Adventures_of_Captain_Spirit/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a The Awesome Adventures of Captain Spirit GRATIS 🎮](https://store.steampowered.com/app/845070/The_Awesome_Adventures_of_Captain_Spirit/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 20. Eve Online
 
@@ -291,7 +291,7 @@ Desafortunadamente, la base de jugadores de Eve Online se ha reducido desde 2013
 
 El nuevo sistema de 'alfa clones' presentado en Eve Online es como la función de "prueba gratuita ilimitada" en World of Warcraft. Todavía puede interactuar con otros jugadores en piratería, fabricación, comercio, minería, exploración y combate, pero existen limitaciones, como ciertas habilidades que están fuera de los límites. Si no desea limitar su acceso a algunos de los barcos más pesados ​​del juego, siempre puede optar por la suscripción Omega. De lo contrario, el juego no costará ni un centavo, razón por la cual es uno de los mejores juegos gratuitos para adornar el mundo de los juegos.
 
-[🎮 Juega a Eve Online GRATIS 🎮](https://www.eveonline.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Eve Online GRATIS 🎮](https://www.eveonline.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 21. Apex Legends
 
@@ -299,7 +299,7 @@ Decir que los juegos de Battle Royale son populares en 2020 sería un eufemismo 
 
 Apex Legends coloca a 60 jugadores en medio de un mapa gigantesco, armado con un montón de habilidades únicas que hacen que tanto el combate como el recorrido sean terriblemente adictivos. No es exactamente el caos de los títulos de Battle Royale de 100 jugadores como Fortnite o PUBG, pero se siente equilibrado. Si de alguna manera no te has unido al tren de Apex Legends todavía, te lo estás perdiendo muchísimo.
 
-[🎮 Juega a Apex Legends GRATIS 🎮](https://www.ea.com/games/apex-legends){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Apex Legends GRATIS 🎮](https://www.ea.com/games/apex-legends){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 22. Hawken
 
@@ -307,13 +307,13 @@ Hawken es un juego sobre mechs. No cualquier mechs, sino mechs rápidos. Estos n
 
 Por supuesto, al ser un juego gratuito, espere gastar algo de dinero para actualizar su mech de inicio. Sin embargo, los jugadores económicos aún pueden probar Hawken sin gastar un centavo. Además, conecte un Oculus Rift y podrá ver de primera mano lo que los juegos de realidad virtual tienen guardados para usted. Admítelo, siempre has querido saber cómo se siente potenciar un robot para ti desde que salió Pacific Rim.
 
-[🎮 Juega a Hawken GRATIS 🎮](http://www.playhawken.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Hawken GRATIS 🎮](http://www.playhawken.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 23. Let it die
 
 Al igual que Dark Souls, aunque quizás no sea tan bueno y elegante, Let It Die es un juego gratuito para fanáticos de PlayStation 4 que tienen gusto por la sangre, la brutalidad y el absurdo en sus juegos preferidos. Let Is Die es extraño, narrado por un ángel de la muerte en patineta y presenta armas endebles que se rompen con frecuencia y decoración navideña en lugares alrededor de la torre misteriosa y cambiante en la que se encuentra. Pero, también es mejor de lo esperado, ideal para un juego gratuito . Y su misión, si elige aceptarla, es llegar a la cima de la Torre de Barbs, desatando una sangrienta carnicería a medida que avanza.
 
-[🎮 Juega a Let it die GRATIS 🎮](https://store.steampowered.com/app/794600/LET_IT_DIE/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Let it die GRATIS 🎮](https://store.steampowered.com/app/794600/LET_IT_DIE/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 24. The Elder Scrolls II: Daggerfall
 
@@ -323,7 +323,7 @@ Su mundo de juego es muchas veces el tamaño de cualquiera de sus secuelas; de h
 
 Está disponible directamente de Bethesda. El editor comenzó a ofrecerlo gratis para celebrar el 15 aniversario del juego. Como si ya no nos sintiéramos lo suficientemente mayores.
 
-[🎮 Juega a The Elder Scrolls II: Daggerfall GRATIS 🎮](http://www.elderscrolls.com/daggerfall/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a The Elder Scrolls II: Daggerfall GRATIS 🎮](http://www.elderscrolls.com/daggerfall/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 25. Starcraft II
 
@@ -333,13 +333,13 @@ Como resultado de su fascinante mecánica de juego de estrategia, combinada con 
 
 Por supuesto, al ser un juego de Blizzard, necesitarás una cuenta de Battle.net para acceder a él. Aparte de eso, tanto la campaña como el modo multijugador son gratuitos. Solo ciertos personajes necesitan tu preciada moneda.
 
-[🎮 Juega a Starcraft II GRATIS 🎮](https://starcraft2.com/en-us/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Starcraft II GRATIS 🎮](https://starcraft2.com/en-us/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 26. Destiny 2
 
 Aunque no es exactamente un juego de mundo abierto, Destiny 2 sigue un concepto similar, permitiendo a los jugadores moverse libremente e ir a diferentes lugares para recoger misiones o simplemente explorar sin rumbo. Este fps multijugador en línea te permite comenzar o unirte a misiones, encontrarte con tus amigos, seguir a otros jugadores o simplemente seguir haciendo lo que quieras, eliminando a los malos que te encuentres. Los gráficos también son bastante buenos; No hay duda de que este es un juego de nivel AAA que solo es gratuito, ya que aprovecha las microtransacciones. Y, la campaña es mejor esta vez.
 
-[🎮 Juega a Destiny 2 GRATIS 🎮](https://store.steampowered.com/app/1085660/Destiny_2/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Destiny 2 GRATIS 🎮](https://store.steampowered.com/app/1085660/Destiny_2/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 27. Team Fortress 2
 
@@ -347,7 +347,7 @@ Puede ser un viejo veterinario en términos de juego, pero nada ofrece una diver
 
 Como habrás adivinado, hay algunas micro transacciones incluidas. Puedes comprar artículos adicionales, a menudo utilizados para personalizar tu personaje. Incluso puedes crear el tuyo. Es divertido y te involucra aún más en TF2. Esos descarados demonios en Valve obviamente saben lo que están haciendo.
 
-[🎮 Juega a Team Fortress 2 GRATIS 🎮](http://www.teamfortress.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Team Fortress 2 GRATIS 🎮](http://www.teamfortress.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 28. Yu-Gi-Oh Duel Links
 
@@ -355,7 +355,7 @@ Si creciste en los años 90, probablemente tengas muchos recuerdos de interpreta
 
 En Yu-Gi-Oh Duel Links, no solo tendrás acceso al juego de cartas titular de forma competitiva en línea. También podrás jugar contra oponentes de IA con la voz de actores del anime. Aquí hay muchas microtransacciones, puedes comprar nuevas tarjetas, pero es un CCG en 2020, por lo que no hay forma de evitarlo. Prepárate para gastar algo de efectivo.
 
-[🎮 Juega a Yu-Gi-Oh Duel Links GRATIS 🎮](https://www.gogigantic.com/en/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Yu-Gi-Oh Duel Links GRATIS 🎮](https://www.gogigantic.com/en/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 29. Gwent: The Witcher Card Game
 
@@ -365,7 +365,7 @@ Juegas contra otros jugadores en línea en rondas, y para ganar cada ronda, nece
 
 Originalmente, Gwent solo estaba disponible para Microsoft Windows, PlayStation 4 y Xbox One. Sin embargo, los usuarios de iOS ahora pueden participar.
 
-[🎮 Juega a Gwent: The Witcher Card Game GRATIS 🎮](https://apps.apple.com/app/gwent-the-witcher-card-game/id1466943149){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Gwent: The Witcher Card Game GRATIS 🎮](https://apps.apple.com/app/gwent-the-witcher-card-game/id1466943149){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 30. DC Universe Online
 
@@ -375,7 +375,7 @@ Elige si quieres ser miembro de la facción Héroe o Villano, luego personaliza 
 
 Después de un entrenamiento inicial, el juego te asigna un puesto, ya sea miembro de la Liga de la Justicia o The Society, dependiendo de tu elección de héroe o villano. A diferencia de otros MMO en esta lista y fuera de ella, DC Universe Online está destinado a ser mucho más interactivo y al mismo tiempo mantener elementos MMORPG tradicionales como nivelación, asalto, inventarios y progresión posterior al juego. También es fácil usar moneda del mundo real, por lo que tiene nuestro mejor voto para juegos gratis.
 
-[🎮 Juega a DC Universe Online GRATIS 🎮](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a DC Universe Online GRATIS 🎮](){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 31. Paladins
 
@@ -385,7 +385,7 @@ Además, a diferencia de Overwatch, Paladins es completamente gratuito. Si bien 
 
 Independientemente de cómo elijas jugar Paladins, obtendrás XP a medida que avanzas. Mientras completes las misiones diarias y los logros destacados en el juego, recibirás una compensación con cofres radiantes y oro, que luego se pueden usar para comprar más cartas, disfraces y diseños de armas para que tus personajes sean más únicos y hábiles. En el campo de batalla.
 
-[🎮 Juega a Paladins GRATIS 🎮](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Paladins GRATIS 🎮](){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 32. Pro Evolution Soccer 2019 Lite
 
@@ -393,7 +393,7 @@ Es posible que ya esté familiarizado con FIFA, pero Pro Evolution Soccer, o PES
 
 Al igual que los PES Lites anteriores, Pro Evolution Soccer 2019 Lite es la versión más simplificada de Pro Evolution Soccer 2019, y se centra principalmente en el modo de fútbol de fantasía de Konami. Te da acceso irrestricto al modo myClub, de hecho. Sin embargo, también tienes acceso a partidos de exhibición fuera de línea, entrenamiento de habilidades y competencias 1v1 o cooperativas.
 
-[🎮 Juega a Pro Evolution Soccer 2019 Lite GRATIS 🎮](){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Pro Evolution Soccer 2019 Lite GRATIS 🎮](){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 33. Pokémon GO
 
@@ -403,7 +403,7 @@ Después de todo, nada era más emocionante que atrapar un Pokémon en la natura
 
 Aún así, se puede decir mucho sobre un juego que prácticamente todos, incluso los jugadores que no son Pokémon, registraron muchos pasos solo para atrapar y entrenar a criaturas no existentes. Pokemon Go es realmente muy divertido; ahora, solo necesita llegar a su próxima evolución.
 
-[🎮 Juega a Pokémon GO GRATIS 🎮](https://www.pokemongo.com/en-us/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Pokémon GO GRATIS 🎮](https://www.pokemongo.com/en-us/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 34. Neverwinter
 
@@ -411,7 +411,7 @@ Como un MMO gratuito, Neverwinter pone el listón alto ya que se basa en quizás
 
 Con ocho clases de personajes con grupos de hasta cinco jugadores compatibles, Neverwinter se basa en las reglas de la cuarta edición de Dungeons & Dragons. Sin embargo, las reglas son algo diferentes, ya que permite a los jugadores curar a sus aliados además de permitir el uso de habilidades especiales en combate después de acumular suficientes puntos de acción.
 
-[🎮 Juega a Neverwinter GRATIS 🎮](https://www.arcgames.com/en/games/neverwinter){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Neverwinter GRATIS 🎮](https://www.arcgames.com/en/games/neverwinter){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 35. Doki Doki Literature Club
 
@@ -421,7 +421,7 @@ Es irónico, considerando que el personaje principal en Doki Doki Literature Clu
 
 Sin estropear la historia, lo primero que ve cuando inicia Doki Doki Literature Club es una advertencia de contenido, que indica que las personas con ansiedad severa deberían considerar NO jugar. No es del todo infundado, ya que seguramente aprenderá de la manera difícil que Doki Doki Literature Club es más horroroso que el servicio genérico de fanáticos.
 
-[🎮 Juega a Doki Doki Literature Club GRATIS 🎮](http://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Doki Doki Literature Club GRATIS 🎮](http://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 36. Puzzle Pirates: Dark Seas
 
@@ -431,7 +431,7 @@ Puzzle Pirates: Dark Seas , por otro lado, es la versión exclusiva de Steam de 
 
 Antes del advenimiento de Dark Seas, solo podías obtener la porción multijugador de Puzzle Pirates en Steam. Ahora, el modo para un jugador se puede descargar e instalar también desde el cliente de Valve.
 
-[🎮 Juega a Puzzle Pirates: Dark Seas GRATIS 🎮](http://store.steampowered.com/app/552110/Puzzle_Pirates_Dark_Seas/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Puzzle Pirates: Dark Seas GRATIS 🎮](http://store.steampowered.com/app/552110/Puzzle_Pirates_Dark_Seas/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 37. Phantom Dust
 
@@ -439,7 +439,7 @@ A pesar de que su ciclo de desarrollo fue un desastre, el remaster de Phantom Du
 
 La nueva versión se archivó en 2016, pero Microsoft todavía quería revivir el clásico de culto de una sola vez. Y resulta que la compañía lo hizo con un remaster, en lugar de una nueva versión. Afortunadamente, la nueva versión de Phantom Dust para Windows 10 (y Xbox One, para usuarios de consola) es gratuita, a menos que opte por comprar algunas de las "tarjetas multijugador" en el juego.
 
-[🎮 Juega a  GRATIS 🎮](https://www.microsoft.com/es-es/p/phantom-dust/9pcdnbhr11mr){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a  GRATIS 🎮](https://www.microsoft.com/es-es/p/phantom-dust/9pcdnbhr11mr){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 38. Dwarf Fortress
 
@@ -449,7 +449,7 @@ Esto significa que Dwarf Fortress aleatoriza sus entornos y hace que el sistema 
 
 Una cosa es segura. Si desea jugar una parte importante de la historia de los juegos, Dwarf Fortress es un comienzo sólido. Incluso se exhibió en el Museo de Arte Moderno de la ciudad de Nueva York en 2013. No puedo decir eso para muchos juegos gratuitos, lo que lo convierte en uno de los mejores juegos gratuitos que 2020 ofrece.
 
-[🎮 Juega a  GRATIS 🎮](https://store.steampowered.com/app/975370/Dwarf_Fortress/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a  GRATIS 🎮](https://store.steampowered.com/app/975370/Dwarf_Fortress/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 39. Fable Fortune
 
@@ -459,7 +459,7 @@ En el tiempo posterior al cierre de Lionhead, su empresa matriz, Microsoft, otor
 
 Los escépticos compararán rápidamente Fable Fortune con Hearthstone. Pero aparte del hecho de que ambos están en nuestra mejor lista de juegos gratuitos, los dos juegos difieren bastante debido al conjunto más complejo de poderes heroicos de Fable Fortune, menos aleatoriedad y un sistema moral que recompensa la comprensión de su "bien" y " puntos malvados.
 
-[🎮 Juega a Fable Fortune GRATIS 🎮](http://store.steampowered.com/app/469830/Fable_Fortune/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Fable Fortune GRATIS 🎮](http://store.steampowered.com/app/469830/Fable_Fortune/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 40. Fallout Shelter
 
@@ -467,7 +467,7 @@ Si prefiere los sistemas de administración de propiedades de Fallout 4 en lugar
 
 Con todo, Fallout Shelter no se siente muy diferente en PC, y eso es algo bueno. Los controles del mouse funcionan bien en lugar de una pantalla táctil, los gráficos se ven bien incluso para hardware de gama baja y con el modo de ventana habilitado de forma predeterminada, es fácil preocuparse por los residentes de su bóveda durante su tiempo de inactividad en el trabajo. Con un precio indudablemente manejable (gratis), sin embargo, con micro compras disponibles, Fallout Shelter podría convertirse en el próximo Solitario en su oficina o en la escuela.
 
-[🎮 Juega a Fallout Shelter GRATIS 🎮](http://www.falloutshelter.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Fallout Shelter GRATIS 🎮](http://www.falloutshelter.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 41. Brawlhalla
 
@@ -475,7 +475,7 @@ Con todo, Fallout Shelter no se siente muy diferente en PC, y eso es algo bueno.
 
 Y, lo logra. Es una forma extremadamente divertida de pasar unas horas. Con una liga de deportes electrónicos, puedes estar seguro de que siempre tendrás gente contra la que derribar. Puede que no sea lo mismo que jugar un poco de Smash en el sofá de un amigo, pero está lo suficientemente cerca como para que valga la pena. Es por eso que Brawlhalla llega a nuestra lista de los mejores juegos gratis.
 
-[🎮 Juega a Brawlhalla GRATIS 🎮](https://store.steampowered.com/app/291550/Brawlhalla/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Brawlhalla GRATIS 🎮](https://store.steampowered.com/app/291550/Brawlhalla/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 42. Battleborn
 
@@ -483,7 +483,7 @@ El CEO y presidente de Gearbox Software, Randy Pitchford, le dirá lo contrario,
 
 Battleborn salió originalmente al mercado en mayo de 2016, el mismo mes que Overwatch. La principal distinción es que Battleborn está influenciado por los juegos MOBA. Overwatch, por otro lado, es un juego de disparos PvP más tradicional con un elenco excéntrico de personajes. Battleborn también tiene una campaña para un jugador, que se puede comprar con moneda del mundo real.
 
-[🎮 Juega a Battleborn GRATIS 🎮](http://store.steampowered.com/app/394230/Battleborn/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Battleborn GRATIS 🎮](http://store.steampowered.com/app/394230/Battleborn/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 43. The Elder Scrolls: Legends
 
@@ -493,7 +493,7 @@ The Elder Scrolls: Legends se distingue de los gustos de la querida franquicia d
 
 Y, si simplemente quieres más Skyrim, te complacerá saber que la expansión Heroes of Skyrim para The Elder Scrolls: Legends incluye 150 cartas adicionales, algunas de las cuales son caras conocidas como Aela the Huntress, J'Zargo y Delphine . Sin duda, este se ganó su lugar en nuestra mejor lista de juegos gratis.
 
-[🎮 Juega a The Elder Scrolls: Legends GRATIS 🎮](http://store.steampowered.com/app/364470/The_Elder_Scrolls_Legends/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a The Elder Scrolls: Legends GRATIS 🎮](http://store.steampowered.com/app/364470/The_Elder_Scrolls_Legends/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 44.Robotcraft
 
@@ -503,7 +503,7 @@ Al hacerlo, pasarás gran parte de tu tiempo en combate con otros jugadores en l
 
 Del mismo modo, Robocraft te permite crear o unir clanes con hasta 50 miembros. Dentro de esos clanes, puedes invitar amigos a 'fiestas' y jugar cooperativamente en un esfuerzo por vencer a otros equipos. Cuando todo está dicho y hecho, y estás contento con tus creaciones, puedes exhibirlas en la Community Robot Factory virtualizada para obtener Me gusta y compartir.
 
-[🎮 Juega a Robotcraft GRATIS 🎮](http://store.steampowered.com/app/301520/Robocraft/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Robotcraft GRATIS 🎮](http://store.steampowered.com/app/301520/Robocraft/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### 45. Total War Battles: Reino
 
@@ -511,7 +511,7 @@ Los juegos de estrategia en tiempo real (RTS) no se vuelven mucho más grandioso
 
 Total War Battles: Kingdom se desarrolla a principios del siglo X y combina la gestión del ejército con la construcción del reino para ofrecer un juego de estrategia en tiempo real de tamaño reducido en el que puedes sumergirte y jugar en cualquier lugar, en cualquier momento.
 
-[🎮 Juega a Total War Battles: Reino GRATIS 🎮](http://twkingdom.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a Total War Battles: Reino GRATIS 🎮](http://twkingdom.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 <!-- https://www.techradar.com/news/gaming/top-40-best-free-games-you-should-play-today-695473 -->
 ## Páginas de Videojuegos Gratis 🎁
@@ -563,7 +563,7 @@ Epic Games tiene 2 videojuegos totalment gratis hasta el día 27 de Febrero: Fae
 
 ![Kingdom Come y Aztez. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games](https://i.ibb.co/vZpj3FV/image.png "Faeria y Assasin Creed Syndicate Gratuitos. Totalmente gratis. Captura de pantalla de la página de videojuegos gratis de Epic Games")
 
-[🎮 DESCARGALOS 🎮](https://kutt.it/videojuegos-gratis){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 DESCARGALOS 🎮](https://kutt.it/videojuegos-gratis){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Otros Juegos Gratis de Epic Games
 
@@ -576,7 +576,7 @@ Además Epic Games suele tener otros juegos gratuitos de forma constante, ahora 
 
 ![](https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_1600/ru3bc7c3xrarc0xovpht.jpg)
 
-[🎮 DESCARGA AUTOCHESS 🎮](https://www.epicgames.com/store/es-ES/product/auto-chess/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 DESCARGA AUTOCHESS 🎮](https://www.epicgames.com/store/es-ES/product/auto-chess/home){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Battle Breakers
 
@@ -584,7 +584,7 @@ Además Epic Games suele tener otros juegos gratuitos de forma constante, ahora 
 
 Battle Breakers es un juego de rol táctico. El título tuvo un lanzamiento suave en países seleccionados en 2017. Ahora el juego es gratuito para todos. El juego se basa en que unos monstruos del espacio han atrapado a los héroes más grandes del mundo en cristal tecnológico, ¡y los héroes de Save The World están listos para unirse a la lucha!
 
-[🎮 DESCARGA BATTLE BREAKERS 🎮](https://www.epicgames.com/battlebreakers/es-ES/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 DESCARGA BATTLE BREAKERS 🎮](https://www.epicgames.com/battlebreakers/es-ES/home){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### The Cycle
 
@@ -598,7 +598,7 @@ Esto significa que, en The Cycle, gana el prospector que logre salir del planeta
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/0ru30QgpAr8?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 DESCARGA THE CYCLE 🎮](https://thecycle.game/?lang=es){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 DESCARGA THE CYCLE 🎮](https://thecycle.game/?lang=es){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -611,7 +611,7 @@ La agenda del partido es deconstruir y eliminar al Hermano n. 1, el líder de la
 
 ![Die young - Captura del Videojuego](https://i.ytimg.com/vi/ucEdeQs_Mc8/maxresdefault.jpg "Die young - Captura del Videojuego")
 
-[🎮 DESCARGA GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/die-young-prologue/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 DESCARGA GRATIS TEMPORALMENTE 🎮](https://freebies.indiegala.com/die-young-prologue/?dev_id=freebies){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## JUEGOS DE ACCIÓN GRATIS 🪓
 
@@ -627,7 +627,7 @@ Está ambientado en un mundo compartido post-apocalíptico donde los jugadores s
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/YaM1xWe0nzE?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 GRATIS MIENTRAS SEA DEMO 🎮](https://store.steampowered.com/app/759510/Dreadlands_Beta/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 GRATIS MIENTRAS SEA DEMO 🎮](https://store.steampowered.com/app/759510/Dreadlands_Beta/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Alien Swarm: Reactive Drop \ Steam
 
@@ -637,7 +637,7 @@ Alien Swarm es un videojuego shotter y multijugador desarrollado por Valve. El o
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/vHMzjJP7RoI?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 INSTALAR GRATIS 🎮](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 INSTALAR GRATIS 🎮](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## FORTNITE & OTRAS ALTERNATIVAS 🔫
 
@@ -657,7 +657,7 @@ Se puede jugar como un jugador o cooperativamente con hasta cuatro personas.
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/TaXAD7Ccg8E?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 DESCARGAR DAUNTLESS 🎮](https://playdauntless.com/es_ES/landing/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 DESCARGAR DAUNTLESS 🎮](https://playdauntless.com/es_ES/landing/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Ring of Elysium
 
@@ -667,7 +667,7 @@ Un Battle Royal genial, y algo más ligero que el PUBG y que amplia el campo de 
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/B0xypLbxKc8?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 GRATIS RING OF ELYSIUM 🎮](https://store.steampowered.com/app/755790/Ring_of_Elysium/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 GRATIS RING OF ELYSIUM 🎮](https://store.steampowered.com/app/755790/Ring_of_Elysium/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## PUBG Lite & CS GO
 
@@ -679,7 +679,7 @@ Sin lugar a dudas estos dos, PUBG y CS GO, son las dos alternativas más clásic
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/MKwUi8MCOic?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 DESCARGAR PUGB LITE 🎮](https://lite.pubg.com/download/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 DESCARGAR PUGB LITE 🎮](https://lite.pubg.com/download/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### CS GO
 
@@ -687,7 +687,7 @@ Sin lugar a dudas estos dos, PUBG y CS GO, son las dos alternativas más clásic
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/liV1omi2Waw?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 DESCARGAR CS GO 🎮](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 DESCARGAR CS GO 🎮](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Knives Out
 
@@ -697,7 +697,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/MKwUi8MCOic?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 Juega a  GRATIS 🎮](https://knivesout.163.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a  GRATIS 🎮](https://knivesout.163.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Rules of Survival
 
@@ -705,7 +705,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/liV1omi2Waw?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 Juega a  GRATIS 🎮](https://www.rulesofsurvivalgame.com/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a  GRATIS 🎮](https://www.rulesofsurvivalgame.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Apex Legends
 
@@ -713,7 +713,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/l-1PpqQqM4k?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 Juega a  GRATIS 🎮](https://www.origin.com/esp/es-es/store/apex/apex){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a  GRATIS 🎮](https://www.origin.com/esp/es-es/store/apex/apex){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## WarFrame
 
@@ -721,7 +721,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/liV1omi2Waw?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 Juega a  GRATIS 🎮](https://www.warframe.com/game){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a  GRATIS 🎮](https://www.warframe.com/game){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Realm Royale
 
@@ -729,7 +729,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/SN2vEAMb7N4?rel=0" allowfullscreen></iframe>
 </div>
 
-[🎮 Juega a  GRATIS 🎮](https://store.steampowered.com/app/813820/Realm_Royale/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 Juega a  GRATIS 🎮](https://store.steampowered.com/app/813820/Realm_Royale/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -739,7 +739,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 🛑 Postal es un videojuego enfocado a personas mayores de 18 años
 {: .notice--warning}
 
-[🎮 + PORTAL 1 GRATIS 🎮](https://www.gog.com/game/postal_classic_and_uncut){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 + PORTAL 1 GRATIS 🎮](https://www.gog.com/game/postal_classic_and_uncut){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
@@ -755,7 +755,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 Theatre of War 2: Africa 1943 cubre los eventos de 1943 en Túnez, África del Norte. Al recuperarse de sus pérdidas después de la aplastante derrota y la posterior retirada después de la Segunda Batalla de El-Alamein, el alemán Afrika Korps, reforzado y ahora apoyado por el ejército italiano, se prepara una vez más para poner acero contra acero con los Aliados. Las fuerzas del Eje, bajo el mando del legendario general Erwin Rommel, tienen una oportunidad demasiado breve para tomar la victoria de las garras de sus fracasos anteriores. Los jugadores liderarán a Afrika Korps de Rommel en su última campaña militar a gran escala y comandarán a los ejércitos inglés y estadounidense mientras intentan expulsar a las fuerzas del Eje de África de una vez por todas.
 
-[🎮 DESCARGA OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/theatre-of-war-2-africa-1943/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 DESCARGA OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/theatre-of-war-2-africa-1943/?dev_id=freebies){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### UberSoldier II \ IndieGala <!-- omit in toc -->
 
@@ -763,7 +763,7 @@ Theatre of War 2: Africa 1943 cubre los eventos de 1943 en Túnez, África del N
 
 Un grupo muy unido de generales y oficiales de las SS, involucrado en los hechos más atroces y oscuros, está buscando una manera de salvar a los restos del Tercer Imperio. Han conspirado para trasladar a los líderes del Reich, junto con recursos preciosos y equipo clasificado, a un escondite remoto en las montañas tibetanas.
 
-[🎮 DESCARGA OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/ubersoldier-ii/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 DESCARGA OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/ubersoldier-ii/?dev_id=freebies){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Mahjong Strip Solitario \ IndieGala <!-- omit in toc -->
 
@@ -771,7 +771,7 @@ Un grupo muy unido de generales y oficiales de las SS, involucrado en los hechos
 
 Sencillo juego de Mahjong que integra como sus objetivos el dejar en bikini a diferentes personajes de aspecto Manga.
 
-[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/mahjong-strip-solitaire/?dev_id=freebies "Puzzle de Mahjong"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/mahjong-strip-solitaire/?dev_id=freebies "Puzzle de Mahjong"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Lady´s Hentai Mosaic \ IndieGala <!-- omit in toc -->
 
@@ -783,7 +783,7 @@ Lady's Hentai Mosaic no es un producto de naturaleza pornográfica, por lo que n
 
 La función clave del juego es la descomposición de los fragmentos de mosaico. El progreso a través de los niveles llena la escala de desvestirse: el jugador abre gradualmente diferentes grados de desvestirse.
 
-[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/ladys-hentai-mosaic/?dev_id=freebies "Puzzle de Mosaicos Hentais"){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/ladys-hentai-mosaic/?dev_id=freebies "Puzzle de Mosaicos Hentais"){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Crab Due \ IndieGala <!-- omit in toc -->
 
@@ -793,7 +793,7 @@ El objetivo final del proyecto es crear un ejército de Cangrejos Cibernéticos 
 
 ![](https://i.ibb.co/h7Mq9L0/image.png "Caracoles y cangrejos en su versión más pixelada xd")
 
-[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/crab-dub/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 OFERTA FINALIZADA 🎮](https://freebies.indiegala.com/crab-dub/?dev_id=freebies){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -805,7 +805,7 @@ Quibic Games celebra 15 años, la empresa desarrolladora de juegos para la conso
 
 Comienzan regalando Robonautas, y en los próximos días regalaran los siguientes videojuegos: Geki Yaba Runner, Puzzle Book, One Strike, Wreckin Ball Adventure, Koloro, RaceDieRun, Rekt, Maná Spark y un último juego sorpresa.
 
-[🎮 DESCARGAR GRATIS 🎮](https://qubicgames.com/15years/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 DESCARGAR GRATIS 🎮](https://qubicgames.com/15years/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### The Wolf Among Us \ Epic Games <!-- omit in toc -->
 
@@ -813,7 +813,7 @@ Juego basado en un cómic denominado Fábulas de Bill Willingham's Fables, la hi
 
 ![The Wolf Among Us](https://i.ibb.co/D8JngL0/The-Wolf-Among-Us-y-The-Escapists-GRATIS-hasta-el-19-tecnolocura-1.jpg "The Wolf Among Us")
 
-[🎮 CADUCADO 🎮](https://www.epicgames.com/store/es-ES/product/the-wolf-among-us/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 CADUCADO 🎮](https://www.epicgames.com/store/es-ES/product/the-wolf-among-us/home){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### The Escapist \ Epic Games <!-- omit in toc -->
 
@@ -821,7 +821,7 @@ Es un juego de estrategia jugado desde una perspectiva de shooter. El jugador, q
 
 ![Los escapistas](https://i.ibb.co/qL8rVdb/489752-analisis-escapists.jpg "Los escapistas")
 
-[🎮 CADUCADO 🎮](https://www.epicgames.com/store/es-ES/product/the-escapists/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 CADUCADO 🎮](https://www.epicgames.com/store/es-ES/product/the-escapists/home){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
@@ -835,7 +835,7 @@ Los jugadores actuarán como la última descendencia de la antigua familia Illia
 
 Los jugadores explorarán un nuevo mundo fascinante, lleno de enemigos y amigos. Tendrán que aplastar a las hordas de enemigos y encontrar nuevos seguidores para recuperar el título y ascender al trono.
 
-[🎮 CADUCADO 🎮](https://freebies.indiegala.com/ascension-to-the-throne/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 CADUCADO 🎮](https://freebies.indiegala.com/ascension-to-the-throne/?dev_id=freebies){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Haciendo Historia \ IndieGala <!-- omit in toc -->
 
@@ -845,7 +845,7 @@ El juego te lleva a un rico mundo de la Segunda Guerra Mundial donde cada nació
 
 ![Haciendo Historia: La Calma y La Tormenta](https://i.ibb.co/dtqRDzD/image.png)
 
-[🎮 CADUCADO 🎮](https://freebies.indiegala.com/making-history-the-calm-and-the-storm/?dev_id=freebies){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 CADUCADO 🎮](https://freebies.indiegala.com/making-history-the-calm-and-the-storm/?dev_id=freebies){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Black Survival - Alpha \ Steam <!-- omit in toc -->
 
@@ -853,7 +853,7 @@ Black Survival es el juego de supervivencia en tiempo real que Juegan 10 persona
 
 ![Black Survival Alpha 4](https://i.ibb.co/jvrD98w/maxresdefault.jpg "Black Survival Alpha 4")
 
-[🎮 PLAZO FINALIZADO 🎮](https://store.steampowered.com/app/1201710/Black_Survival_Eternal_Return__4th_Alpha/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 PLAZO FINALIZADO 🎮](https://store.steampowered.com/app/1201710/Black_Survival_Eternal_Return__4th_Alpha/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Postal 2 \ GOG <!-- omit in toc -->
 
@@ -865,7 +865,7 @@ Utiliza un arsenal de armas que van desde una humilde pala hasta un lanzacohetes
 
 ![Postal 2](https://i.ibb.co/Jphtwmy/images-q-tbn-ANd9-Gc-Rttgx-NBWPr-OQs4i-Ko-N59-WVjv-Jg1i-1-Dyv-HJXTD2-AOHi-Et-LQyj5-GQ-s.jpg "Postal 2")
 
-[🎮 CADUCADO 🎮](https://www.gog.com/game/postal_2){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 CADUCADO 🎮](https://www.gog.com/game/postal_2){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Draw Slasher \ Steam <!-- omit in toc -->
 
@@ -875,7 +875,7 @@ Deberás tomar el control de su asombrosa espada y ayudarle en la búsqueda para
 
 ![Draw Slasher](https://i.ibb.co/SRvNNwt/wallpaper-splash-wall-1920x1200.jpg "Draw Slasher")
 
-[🎮 CADUCADO 🎮](https://store.steampowered.com/app/418270/Draw_Slasher/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 CADUCADO 🎮](https://store.steampowered.com/app/418270/Draw_Slasher/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Wasteland 2 <!-- omit in toc -->
 
@@ -887,7 +887,7 @@ El día del cataclismo, una compañía de ingenieros del ejército de los EE. UU
 
 Los soldados buscaron refugio en la prisión, expulsaron a los reclusos e invitaron a los sobrevivientes cercanos a unirse a ellos poco después. Años más tarde, juntos formaron "los Desert Rangers, en la gran tradición de los Rangers de Texas y Arizona ", para ayudar a otros sobrevivientes en el desierto y más allá.
 
-[🎮 PLAZO FINALIZADO 🎮](https://www.gog.com/#giveaway){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 PLAZO FINALIZADO 🎮](https://www.gog.com/#giveaway){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Jotun: Valhalla \ Epic Games <!-- omit in toc -->
 
@@ -897,15 +897,15 @@ Jotun destaca por utilizar un estilo de arte dibujado a mano, cuadro por cuadro,
 
 La exploración generalmente implica explorar varias etapas, con algunos gigantes para luchar y varios acertijos para resolver. Los rompecabezas a menudo emplean el uso de columpios de hacha para interactuar con objetos (es decir, árboles, rocas y vides) y algunos otros tipos de rompecabezas.
 
-[🎮 PLAZO FINALIZADO 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 PLAZO FINALIZADO 🎮](https://www.epicgames.com/store/es-ES/product/jotun/home){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Rayman Legends \ Epic Games <!-- omit in toc -->
 
-[🎮 PLAZO FINALIZADO 🎮](https://www.epicgames.com/store/es-ES/product/rayman-legends/home){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 PLAZO FINALIZADO 🎮](https://www.epicgames.com/store/es-ES/product/rayman-legends/home){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### Zombie Driver HD \ Steam <!-- omit in toc -->
 
-[🎮 PLAZO FINALIZADO 🎮](https://store.steampowered.com/app/220820/Zombie_Driver_HD/){: .btn .btn--warning .btn--x-large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎮 PLAZO FINALIZADO 🎮](https://store.steampowered.com/app/220820/Zombie_Driver_HD/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 [🔝 REGRESAR 🔝](/videojuegos-gratis/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
