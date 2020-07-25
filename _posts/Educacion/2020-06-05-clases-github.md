@@ -46,7 +46,7 @@ A su vez, que los alumnos usen la herramienta de Github, una de las aplicaciones
 
 ## **Comienza con tu primer aula de Github**
 
-Solamente debes conectarte con tu cuenta de Github o entrar desde el apartado de Github Educación.
+Solamentes debes conectarte con tu cuenta de Github o entrar desde el apartado de Github Educación.
 
 [🎓 Probar Github Classroom](https://classroom.github.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
