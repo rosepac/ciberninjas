@@ -1,18 +1,22 @@
 ---
 layout: page
-title: 👩‍🚀 🔩 ▷ NodeJS, Aprender Desde Cero Todo Lo Que Debes Saber
+title: '▷ NodeJS: Aprendiendo desde cero todo lo que debes saber'
 description: '📌 👨‍💻 Los mejores artículos de NodeJS, librerías, plugins y aotros añadidos de NodeJS más impresionantes y espectaculares que puedes encontrar en todo Internet.'
 excerpt: '📌 👨‍💻 Los mejores artículos de NodeJS, librerías, plugins y aotros añadidos de NodeJS más impresionantes y espectaculares que puedes encontrar en todo Internet.'
 published: true
 comments: false
 date: 2018-03-01
-last_modified_at: 2019-09-12 12:45:10
+last_modified_at: 2020-07-25 12:45:10
 permalink: /nodejs/
+canonical_URL: https://ciberninjas.com/nodejs/
+thumbnail: "/assets/img/paginas/portada-nodejs.webp"
+feature-img: "/assets/img/paginas/portada-nodejs.webp"
+img: "/assets/img/paginas/portada-nodejs.webp"
 ---
 
-## Los Mejores Artículos de NodeJS
+En esta publicación se recopilan los mejores artículos de NodeJS y algunas de sus librerías más reconocidas que puedes encontrar en todo Internet, con los que convertirte en un auténtico y completo ciberninja de este impresionante entorno en tiempo real de ejecución multiplataforma.
 
-Los mejores artículos de NodeJS que puedes encontrar en todo Internet, con los que convertirte en un auténtico y completo ciberninja de este impresionante entorno en tiempo real de ejecución multiplataforma.
+## Los Mejores Artículos de NodeJS
 
 | Artículo 📖                                                   | 🔗                                                            |            ✍             |    🔠    |  ⏰   |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------: | :-----: | :--: |

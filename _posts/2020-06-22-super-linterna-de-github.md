@@ -9,7 +9,7 @@ tags:
 - Github
 thumbnail: /assets/img/blog/github-investigador.webp
 feature-img: /assets/img/blog/github-investigador.webp
-title: '▷ GitHub Super Linter: Una linterna para gobernarlas a todas'
+title: '▷ GitHub Super Linterna: Una linterna para gobernarlas a todas'
 description: >-
   Configurar un nuevo repositorio con todas las linternas correctas para los diferentes tipos de código puede llevar mucho tiempo y ser tedioso. Github Super Linter es la solución perfecta para eso.
 excerpt: >-

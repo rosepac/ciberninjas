@@ -545,6 +545,8 @@ Configura tu flujo de trabajo de acciones de GitHub con una versión específica
 - [Implementación continua de Django en DigitalOcean con acciones Docker y GitHub](https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/){:target="_blank" rel="nofollow,noreferrer"}
 - [Configurar corredores de acciones de GitHub autoescalados y autoescalados en instancias puntuales de AWS](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners){:target="_blank" rel="nofollow,noreferrer"}
 
+### **Relacionados** <!-- omit in toc -->
+
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Las acciones de GitHub facilitan la automatización de todos sus flujos de trabajo de software. Las acciones de Github le permiten construir, probar e implementar su código directamente desde GitHub.](/assets/img/blog/acciones-github.webp "Las acciones de GitHub facilitan la automatización de todos sus flujos de trabajo de software. Las acciones de Github le permiten construir, probar e implementar su código directamente desde GitHub.")

@@ -15,6 +15,26 @@ feature-img: /assets/img/paginas/mar-docker-kubernetes.webp
 img: /assets/img/paginas/mar-docker-kubernetes.webp
 ---
 
+- [**Recursos Kubernetes**](#recursos-kubernetes)
+  - [Documentación de Kubernetes](#documentación-de-kubernetes)
+  - [Kubernetes al completo (2020)](#kubernetes-al-completo-2020)
+  - [Kubernetes (2020)](#kubernetes-2020)
+  - [Curso de Kubernetes (2020)](#curso-de-kubernetes-2020)
+  - [Docker, Kubernetes, Cloud (2019)](#docker-kubernetes-cloud-2019)
+  - [Conceptos de Kubernetes (2018)](#conceptos-de-kubernetes-2018)
+  - [Kubernetes (Creando un cluster) (2019)](#kubernetes-creando-un-cluster-2019)
+  - [Libro de Net y Contenedores en español](#libro-de-net-y-contenedores-en-español)
+  - [**Azure Kubernetes Services**](#azure-kubernetes-services)
+  - [Repositorios de Enlaces sobre Kubernetes](#repositorios-de-enlaces-sobre-kubernetes)
+- [**Libros Kubernetes Gratis en Inglés**](#libros-kubernetes-gratis-en-inglés)
+- [**Cursos de Udemy sobre Kubernetes en inglés**](#cursos-de-udemy-sobre-kubernetes-en-inglés)
+- [**Entradas de Blogs interesantes sobre Kubernetes**](#entradas-de-blogs-interesantes-sobre-kubernetes)
+- [Chao Mesh y Chao Monkey](#chao-mesh-y-chao-monkey)
+  - [**¿Qué es Chao Mesh?**](#qué-es-chao-mesh)
+  - [**¿Qué es Chao Monkey?**](#qué-es-chao-monkey)
+  - [Diferencias entre Chaos Mesh y Chaos Monkey](#diferencias-entre-chaos-mesh-y-chaos-monkey)
+  - [📓 **Recursos Webpack**](#-recursos-webpack)
+
 Colección de enlaces con los que aprender a manejar Kubernetes desde cero hasta nivel avanzado.
 
 ## **Recursos Kubernetes**
@@ -51,7 +71,7 @@ Colección de enlaces con los que aprender a manejar Kubernetes desde cero hasta
 
 Microservicios de .NET: Arquitectura para aplicaciones .NET en contenedor: [Microservicios con .NET](https://docs.microsoft.com/es-es/dotnet/architecture/microservices/){:target="_blank" rel="nofollow,noreferrer"}
 
-### Azure Kubernetes Services
+### **Azure Kubernetes Services**
 
 [Servicios Kubernetes](https://azure.microsoft.com/es-es/services/kubernetes-service/){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -64,7 +84,7 @@ Microservicios de .NET: Arquitectura para aplicaciones .NET en contenedor: [Micr
 
 [🔝 Inicio](/entornos-nube/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Libros Kubernetes Gratis en Inglés
+## **Libros Kubernetes Gratis en Inglés**
 
 - [Explorando Kubernetes](https://www.manning.com/books/exploring-kubernetes){:target="_blank" rel="nofollow,noreferrer"}
 - [Kubernetes - SEgunda Edición](https://www.packtpub.com/free-ebooks/virtualization-and-cloud/kubernetes-cookbook-second-edition/9781788837606){:target="_blank" rel="nofollow,noreferrer"}
@@ -76,7 +96,7 @@ Microservicios de .NET: Arquitectura para aplicaciones .NET en contenedor: [Micr
 
 [🔝 Inicio](/entornos-nube/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Cursos de Udemy sobre Kubernetes en inglés
+## **Cursos de Udemy sobre Kubernetes en inglés**
 
 - [Empezando con Kubernetes](https://www.udemy.com/course/kubernetes-getting-started/){:target="_blank" rel="nofollow,noreferrer"}
 - [Aprenda el despliegue de Devops Kubernetes con kops y terraform](https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform/){:target="_blank" rel="nofollow,noreferrer"}
@@ -87,7 +107,7 @@ Microservicios de .NET: Arquitectura para aplicaciones .NET en contenedor: [Micr
 
 [🔝 Inicio](/entornos-nube/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Entradas de Blogs interesantes sobre Kubernetes
+## **Entradas de Blogs interesantes sobre Kubernetes**
 
 - [Desarrollar con Kubernetes](https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/){:target="_blank" rel="nofollow,noreferrer"}
 - [Kubernetes](https://medium.com/google-cloud/tagged/kubernetes){:target="_blank" rel="nofollow,noreferrer"}
@@ -139,8 +159,3 @@ Le sugerimos que comience con los [tutoriales](https://docs.chaostoolkit.org/ref
 
 La **Guía de Entornos y Contenedores en la Nube** fue creada el *02 de Enero de 2020* y su última edición fue realizada el *14 de Mayo de 2020*.
 {: .notice--info}
-
-#### Índice
-
-- [Documentación de Kubernetes](#documentaci%c3%b3n-de-kubernetes)
-- [] 
