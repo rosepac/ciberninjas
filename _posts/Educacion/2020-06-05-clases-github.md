@@ -16,18 +16,21 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/github-classroom/
 permalink: /github-classroom/
 date: 2020-06-05
-last_modified_at: 
-published: false
+published: true
 
 ---
 
-Github crea con Github Classroom una herramienta perfecta para facilitar las clases diarias de programación y facilitar la creación de aulas virtuales por parte de los profesores de programación y tecnología.
+Github crea **Github Classroom, una herramienta perfecta para facilitar las clases diarias de programación** y facilitar **la creación de aulas virtuales** por parte de los profesores de programación y tecnología.
 
-Con las aulas de Github, se ofrece la oportunidad de que los tutores puedan enfocarse más en la enseñanza y tengan que dedicar menos tiempo en la creación de una herramienta con la que enseñar.
+Con las aulas de Github, se ofrece la oportunidad de que **los docentes puedan enfocarse más en la enseñanza** y tengan que dedicar **menos tiempo en la creación de una herramienta** con la que enseñar.
 
-A partir de ahora organizar y administrar las clases será más fácil a través de GitHub Classroom, cada profesor podrá administrar y rastrear todas las tareas de cada alumno mediante un tablero único, también podrá calificar el trabajo casi automáticamente y ayudar a los estudiantes cuando no encuentren la fórmula con la que progresar con sus tareas.
+A partir de ahora **administrar y organizar clases de programación será más fácil** a través de GitHub Classroom, cada profesor podrá administrar y rastrear todas las tareas de cada alumno mediante un tablero único, también podrá calificar el trabajo casi automáticamente y ayudar a los estudiantes cuando no encuentren la fórmula con la que progresar con sus tareas.
 
-A su vez, los alumnos usarán la herramienta de Github, una de las aplicaciones más usadas por los desarrolladores de la industria de la programación; aportándoles de forma práctica, una enseñanza añadida e incluso ayudándoles a comenzar a crear sus propios repositorios de código abierto con un enfoque de futuro.
+A su vez, que los alumnos usen la herramienta de Github, una de las aplicaciones más usadas por los desarrolladores de la industria de la programación; **les aportará una enseñanza añadida** e incluso les ayudará a comenzar con la creación de sus propios repositorios de código abierto para enfocarse en el futuro.
+
+- [**Características de Github Classroom**](#características-de-github-classroom)
+  - [**Agiliza el flujo de trabajo de las tareas**](#agiliza-el-flujo-de-trabajo-de-las-tareas)
+- [**Comienza con tu primer aula de Github**](#comienza-con-tu-primer-aula-de-github)
 
 ## **Características de Github Classroom**
 
