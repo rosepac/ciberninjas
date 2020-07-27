@@ -2,7 +2,7 @@
 layout: post
 author: rosepac
 bootstrap: true
-title: "FumbleChain\: Cómo hackear las cadenas de bloques"
+title: 'FumbleChain\: Cómo hackear las cadenas de bloques'
 description: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
 excerpt: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
 date: 2019-08-14 22:50:59

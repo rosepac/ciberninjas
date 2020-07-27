@@ -1,24 +1,22 @@
 ---
+
 author: rosepac
 bootstrap: true
-title: "▷ Kite: Genera tu Código Mucho Más Rápido"
-description: "Kite es un complemento para tu IDE que utiliza el aprendizaje automático para proporcionarte terminaciones de código útiles para Python. Comienza a codificar más rápido desde hoy mismo."
-excerpt: "Kite es un complemento para tu IDE que utiliza el aprendizaje automático para proporcionarte terminaciones de código útiles para Python. Comienza a codificar más rápido desde hoy mismo."
-published: true
+title: "▷ Kite: Genera tu código mucho más rápido"
+description: "Kite es un complemento para tu IDE que utiliza el aprendizaje automático para proporcionarte terminaciones de código útiles para Python."
+excerpt: "Kite es un complemento para tu IDE que utiliza el aprendizaje automático para proporcionarte terminaciones de código útiles para Python."
+date: 2020-01-28 12:10:12
 comments: false
-date: 2020-01-28 15:10:12
 thumbnail: https://i.ibb.co/rfsK59t/image.png
 feature-img: https://i.ibb.co/rfsK59t/image.png
-permalink: /kite-complemento-ide-python/
-canonical_URL: https://ciberninjas.com/kite-complemento-ide-python/
+published: true
 tags:
 - Python
 - Herramientas Python
+permalink: /kite-complemento-ide-python/
+canonical_URL: https://ciberninjas.com/kite-complemento-ide-python/
+
 ---
-
-![](https://i.ibb.co/rfsK59t/image.png "Página web oficial de Kite: Complemento IDE para Python")
-
-## ¿Qué es Kite?
 
 Kite es un complemento para tu IDE favorito y utiliza el aprendizaje automático para proporcionarte las mejores terminaciones del código para Python. Comienza a programar más rápido desde hoy mismo sin la necesidad de la nube, porque Kite funciona completamente de forma local.
 
@@ -83,5 +81,7 @@ Kite es capaz de integrarse con todos estos editores para mejorar la usabilidad 
 ## Descargar
 
 [👉 Descargar Kite 🤞](https://kite.com/download/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+![](https://i.ibb.co/rfsK59t/image.png "Página web oficial de Kite: Complemento IDE para Python")
 
 > **Fuentes**: [Web Oficial Kite](https://kite.com/){:target="_blank" rel="nofollow,noreferrer"}

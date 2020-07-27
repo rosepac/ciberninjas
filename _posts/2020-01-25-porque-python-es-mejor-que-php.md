@@ -1,9 +1,10 @@
 ---
+
 author: rosepac
 bootstrap: true
-title: "▷ ¿Por qué Python es Mejor que PHP?"
-description: "Razones por las que Python es mejor que PHP en este 2020."
-excerpt: "Razones por las que Python es mejor que PHP en este 2020."
+title: '▷ ¿Por qué Python es Mejor que PHP?'
+description: 'Razones por las que Python es mejor que PHP en este 2020.'
+excerpt: 'Razones por las que Python es mejor que PHP en este 2020.'
 published: true
 comments: false
 date: 2020-01-25 01:33:12

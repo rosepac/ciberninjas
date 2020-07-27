@@ -1,9 +1,9 @@
 ---
 author: rosepac
 bootstrap: true
-title: "▷ Open GApps lanza paquetes de aplicaciones de Google flasheables para ROM personalizadas de Android 10"
-description: "Si está pensando en actualizar una ROM personalizada de Android 10 en su dispositivo ahora es posible usando las aplicaciones de Google de Open GApps."
-excerpt: "Si está pensando en actualizar una ROM personalizada de Android 10 en su dispositivo ahora es posible usando las aplicaciones de Google de Open GApps."
+title: '▷ Open GApps lanza paquetes de aplicaciones de Google flasheables para ROM personalizadas de Android 10'
+description: 'Si está pensando en actualizar una ROM personalizada de Android 10 en su dispositivo ahora es posible usando las aplicaciones de Google de Open GApps.'
+excerpt: 'Si está pensando en actualizar una ROM personalizada de Android 10 en su dispositivo ahora es posible usando las aplicaciones de Google de Open GApps.'
 published: true
 comments: false
 date: 2020-01-25 01:53:12

@@ -1,9 +1,9 @@
 ---
 author: rosepac
 bootstrap: true
-title: "▷ CadQuery: Módulo Python similar a OpenSCAD"
-description: "CadQuery es un módulo Python intuitivo y fácil de usar para construir modelos CAD paramétricos en 3D."
-excerpt: "CadQuery es un módulo Python intuitivo y fácil de usar para construir modelos CAD paramétricos en 3D."
+title: '▷ CadQuery\: Módulo Python similar a OpenSCAD'
+description: 'CadQuery es un módulo Python intuitivo y fácil de usar para construir modelos CAD paramétricos en 3D.'
+excerpt: 'CadQuery es un módulo Python intuitivo y fácil de usar para construir modelos CAD paramétricos en 3D.'
 published: true
 comments: false
 date: 2020-01-28 17:28:12 
@@ -15,8 +15,6 @@ tags:
 - Módulo Python
 ---
 
-## ¿Qué es CadQuery?
-
 CadQuery es un módulo Python intuitivo y fácil de usar para construir modelos CAD paramétricos en 3D. Con CadQuery, puede escribir scripts cortos y simples que producen modelos CAD de alta calidad. Es fácil crear muchos objetos diferentes con un solo script que se puede personalizar.
 
 CadQuery a menudo se compara con [OpenSCAD](http://www.openscad.org/) . Al igual que OpenSCAD, CadQuery es un generador de modelo paramétrico de código abierto basado en script. Sin embargo, CadQuery se destaca de muchas maneras y tiene varias ventajas clave:
@@ -27,7 +25,7 @@ CadQuery a menudo se compara con [OpenSCAD](http://www.openscad.org/) . Al igual
 4. Los scripts de CadQuery requieren menos código para crear la mayoría de los objetos, porque es posible ubicar entidades en función de la posición de otras entidades, planos de trabajo, vértices, etc.
 5. Los scripts de CadQuery pueden construir STL, STEP y AMF más rápido que OpenSCAD.
 
-### Características clave
+## Características clave de CadQuery
 
 - Construya modelos 3D con guiones que estén lo más cerca posible de cómo describiría el objeto a un humano.
 - Cree modelos paramétricos que los usuarios finales puedan personalizar fácilmente.
@@ -35,7 +33,7 @@ CadQuery a menudo se compara con [OpenSCAD](http://www.openscad.org/) . Al igual
 - Proporcione un formato de modelo de texto plano no patentado que pueda editarse y ejecutarse solo con un navegador web.
 - Ofrezca capacidades de modelado avanzadas como filetes, extrusiones curvilíneas, curvas paramétricas y lofts.
 
-### ¿Por qué este tenedor?
+## ¿Por qué se creo este fork?
 
 La versión original de CadQuery se creó en la API de FreeCAD. Esto fue genial porque permitió un desarrollo rápido y una capacidad multiplataforma fácil. Sin embargo, eventualmente comenzamos a alcanzar los límites de la API para algunas operaciones y selectores avanzados. Esta versión 2.0 de CadQuery se basa en Python-OCC, que es un contenedor de Python alrededor del núcleo de OpenCASCADE. Esto nos da mucho más control y flexibilidad, a expensas de cierta simplicidad y tener que manejar los aspectos multiplataforma de la implementación nosotros mismos. Creemos que esta es una compensación valiosa para permitir que CadQuery continúe creciendo y expandiéndose en el futuro.
 

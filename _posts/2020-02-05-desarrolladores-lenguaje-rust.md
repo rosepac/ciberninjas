@@ -18,6 +18,7 @@ tags:
 - Lenguajes de Programación
 - Rust
 - Mozilla
+
 ---
 
 El lenguaje de programación Python podría ser la vía más rápida para un trabajo tecnológico en cualquier parte del mundo en la actualidad, Pero, según el sitio de intercambio de conocimientos para desarrolladores Stack Overflow, el lenguaje más querido de todos es Rust, un lenguaje de programación de código abierto creado por los pioneros tecnológicos. en Mozilla en 2010.
