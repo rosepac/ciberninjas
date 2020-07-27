@@ -10,9 +10,9 @@ date: 2019-12-14T13:32:42+01:00
 last_modified_at: 2019-12-14T16:42:42+01:00
 permalink: /impresoras-3d-recursos/
 canonical_URL: https://ciberninjas.com/impresoras-3d-recursos/
-thumbnail: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
-feature-img: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
-img: "https://i.ibb.co/P9XM8N0/photo-1563520239648-a24e51d4b570-ixlib-rb-1-2.jpg"
+thumbnail: /assets/img/paginas/portada-impresoras3d.webp
+feature-img: /assets/img/paginas/portada-impresoras3d.webp
+img: /assets/img/paginas/portada-impresoras3d.webp
 ---
 
 ## Meta-Listas de Recursos

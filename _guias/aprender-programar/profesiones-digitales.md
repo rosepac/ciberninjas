@@ -11,9 +11,9 @@ date: 2020-03-13
 last_modified_at:
 permalink: /profesiones-digitales/
 canonical_URL: https://ciberninjas.com/profesiones-digitales/
-thumbnail: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
-feature-img: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
-img: "https://i.ibb.co/P9Q8f2m/back-to-work.png"
+thumbnail: /assets/img/paginas/profesiones-digitales.webp
+feature-img: /assets/img/paginas/profesiones-digitales.webp
+img: /assets/img/paginas/profesiones-digitales.webp
 ---
 
 A medida que las empresas se esfuerzan por adaptarse a un mercado laboral de TI más desarrollado, se amplian cada vez los campos profesionales específicos en cada ámbito profesional de la tecnología en cuestión.

@@ -9,6 +9,9 @@ date: 2020-02-12
 published: true
 author: rosepac
 bootstrap: true
+thumbnail: /assets/img/paginas/mapa-triple.webp
+feature-img: /assets/img/paginas/mapa-triple.webp
+img: /assets/img/paginas/mapa-triple.webp
 ---
 
 <br />
@@ -17,7 +20,7 @@ bootstrap: true
 🔎 RECOMENDABLE VISUALIZAR HABIENDO PULSADO: F 11
 {: .notice--info}
 
-<iframe src='https://public.flourish.studio/visualisation/956436/embed' frameborder='0' scrolling='no' style='width:100%;height:850px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/956436/?utm_source=embed&utm_campaign=visualisation/956436' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='https://public.flourish.studio/visualisation/956436/embed' frameborder='0' scrolling='no' style='width:100%;height:920px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/956436/?utm_source=embed&utm_campaign=visualisation/956436' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 **Fuente**: [Gráfica gracias a Fundación Telefónica](https://twitter.com/EspacioFTef){:target="_blank" rel="nofollow,noreferrer"}
 

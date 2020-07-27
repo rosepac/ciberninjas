@@ -9,6 +9,9 @@ date: 2020-02-12
 published: true
 author: rosepac
 bootstrap: true
+thumbnail: /assets/img/paginas/mapa-circular-1.webp
+feature-img: /assets/img/paginas/mapa-circular-1.webp
+img: /assets/img/paginas/mapa-circular-1.webp
 ---
 
 Mapa de Lenguajes de Programación, Herramientas y Plataformas y Disciplinas y Conceptos usados en todas las profesiones digitales que existen

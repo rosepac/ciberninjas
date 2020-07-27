@@ -10,9 +10,9 @@ date: 2020-03-16
 last_modified_at: 2020-02-07
 permalink: /cursos-tecnologia-ingles/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia-ingles/
-thumbnail: "/assets/img/blog/cursos-ingles-prog.webp"
-feature-img: "/assets/img/blog/cursos-ingles-prog.webp"
-img: "/assets/img/blog/cursos-ingles-prog.webp"
+thumbnail: "/assets/img/paginas/cursos-ingles-prog.webp"
+feature-img: "/assets/img/paginas/cursos-ingles-prog.webp"
+img: "/assets/img/paginas/cursos-ingles-prog.webp"
 ---
 
 <!-- 

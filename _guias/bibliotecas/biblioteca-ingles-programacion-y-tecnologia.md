@@ -10,6 +10,9 @@ date: 2019-12-27T14:40:00.000+00:00
 last_modified_at: 2020-01-10T10:42:42-05:00
 permalink: /biblioteca-de-programacion-y-tecnologia-ingles/
 canonical_URL: https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia-ingles/
+thumbnail: /assets/img/paginas/revistas-alternativas.webp
+feature-img: /assets/img/paginas/revistas-alternativas.webp
+img: /assets/img/paginas/revistas-alternativas.webp
 ---
 
 ### Meta Listas

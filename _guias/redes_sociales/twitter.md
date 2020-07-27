@@ -10,10 +10,6 @@ canonical_URL: https://ciberninjas.com/twitter/
 thumbnail: /assets/img/paginas/portada-twitter-1.webp
 img: /assets/img/paginas/portada-twitter-1.webp
 feature-img: /assets/img/paginas/portada-twitter-1.webp
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
 ---
 
 ## Análisis

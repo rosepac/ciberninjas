@@ -9,9 +9,9 @@ date: 2020-07-21
 last_modified_at: 
 permalink: /prensa-alternativa/
 canonical_URL: https://ciberninjas.com/prensa-alternativa/
-thumbnail: /assets/img/paginas/revistas-alternativas.webp
-feature-img: /assets/img/paginas/revistas-alternativas.webp
-img: /assets/img/paginas/revistas-alternativas.webp
+thumbnail: /assets/img/paginas/revistas-alt-rojas-1.webp
+feature-img: /assets/img/paginas/revistas-alt-rojas-1.webp
+img: /assets/img/paginas/revistas-alt-rojas-1.webp
 ---
 
 ## [Contrainformación: El periodismo incómodo](http://contrainformacion.es/){:target="_blank" rel="nofollow,noreferrer"}

@@ -9,9 +9,7 @@ bootstrap: true
 comments: false
 thumbnail: /assets/img/paginas/diseno-web-unsplash.webp
 feature-img: /assets/img/paginas/diseno-web-unsplash.webp
-actions:
-  - label: "Recursos Diseño Web"
-    url: "/diseño-web-recursos/"
+img: /assets/img/paginas/diseno-web-unsplash.webp
 date: 2020-02-11 09:11:18
 last_modified_at:  2020-02-29 18:15:18
 permalink: /diseño-web/
