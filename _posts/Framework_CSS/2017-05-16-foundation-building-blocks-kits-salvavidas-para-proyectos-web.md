@@ -8,14 +8,12 @@ canonical_URL: https://ciberninjas.com/foundation-building-blocks-kits-salvavida
 thumbnail: "/assets/img/foundation_1.jpg"
 feature-img: "/assets/img/foundation_1.jpg"
 tags:
+- Framework CSS
 - Componentes
 - Elementos
 - Foundation
 - Interfaces
 - Kit
-categories:
-- Código Abierto
-- Framework CSS
 ---
 
 Desde el **Framework Foundation**, y desde Abril nos presentan un importante repositorio de elementos ya pre-diseñados denominado [Foundation Building Blocks](https://kutt.it/foundationuso), lo cual servirá de gran ayuda para las personas que se inicien con dicho **Framework** e incluso para ahorrar mucho tiempo en el desarrollo de personas ya experimentadas.

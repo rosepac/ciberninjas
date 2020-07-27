@@ -1,4 +1,5 @@
 ---
+layout: post
 author: rosepac
 bootstrap: true
 title: "💰 FumbleChain: Cómo hackear las cadenas de bloques"
