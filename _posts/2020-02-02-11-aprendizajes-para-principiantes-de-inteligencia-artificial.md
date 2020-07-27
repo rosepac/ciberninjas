@@ -2,7 +2,7 @@
 
 author: rosepac
 bootstrap: true
-title: "▷ 11 Fórmulas de comenzar el proceso de aprender programación de Inteligencia Artificial para principiantes"
+title: '▷ 11 Fórmulas de comenzar el proceso de aprender programación de Inteligencia Artificial para principiantes'
 description: >-
   Hay muchos recursos disponibles para que los principiantes desarrollen sus conocimientos y habilidades, o incluso descubran si este camino es para ellos..
 excerpt: >-

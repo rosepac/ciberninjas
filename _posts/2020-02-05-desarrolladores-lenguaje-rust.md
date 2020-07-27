@@ -2,7 +2,7 @@
 
 author: rosepac
 bootstrap: true
-title: "▷ A los desarrolladores les encanta el lenguaje de programación Rust: He aquí por qué"
+title: '▷ A los desarrolladores les encanta el lenguaje de programación Rust: He aquí por qué'
 description: >-
   El lenguaje de programación Rust creado por Mozilla ha alcanzado un punto óptimo en el mundo de la programación de sistemas.
 excerpt: >-
