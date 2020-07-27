@@ -9,7 +9,9 @@ date: 2019-10-31 10:00:05
 last_modified_at: 2019-10-31 11:07:30
 permalink: /hora-codigo/
 canonical_URL: https://ciberninjas.com/hora-codigo/
-
+thumbnail: /assets/img/paginas/programacion-ninos.webp
+feature-img: /assets/img/paginas/programacion-ninos.webp
+img: /assets/img/paginas/programacion-ninos.webp
 ---
 <!-- https://hourofcode.com/es/learn -->
 Actividades en español que difunde para su utilización e impartición en las diferentes actividades de la Hora del Código a lo largo de los diferentes puntos del planeta.

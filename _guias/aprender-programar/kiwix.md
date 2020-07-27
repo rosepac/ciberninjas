@@ -9,14 +9,14 @@ published: true
 date: 2019-09-27 01:10:23
 permalink: /kiwix/
 canonical_URL: https://ciberninjas.com/kiwix/
-thumbnail: https://steemitimages.com/DQmXas5sn8FPxTajG3MqvDTHKU38hb9btFpPwmnzN32rzYd/1200px-Kiwix_logo.svg.png
-feature-img: https://steemitimages.com/DQmXas5sn8FPxTajG3MqvDTHKU38hb9btFpPwmnzN32rzYd/1200px-Kiwix_logo.svg.png
-img: https://steemitimages.com/DQmXas5sn8FPxTajG3MqvDTHKU38hb9btFpPwmnzN32rzYd/1200px-Kiwix_logo.svg.png
+thumbnail: /assets/img/paginas/portada-kiwix.webp
+feature-img: /assets/img/paginas/portada-kiwix.webp
+img: /assets/img/paginas/portada-kiwix.webp
 ---
 
-![1200px-Kiwix_logo.svg.png](https://steemitimages.com/DQmXas5sn8FPxTajG3MqvDTHKU38hb9btFpPwmnzN32rzYd/1200px-Kiwix_logo.svg.png)
-
 **Kiwix** es un software libre, tan sencillo como impresionante y tan desconocido como pr&aacute;ctico y eficaz. Sobre todo, **Kiwix**, es un gran recurso educativo **Offline** para todas aquellas zonas y personas que no poseen los recursos necesarios.
+
+![Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado](https://steemitimages.com/DQmXas5sn8FPxTajG3MqvDTHKU38hb9btFpPwmnzN32rzYd/1200px-Kiwix_logo.svg.png "Guía Completa sobre Kiwix: El único software que te permite acceder a todo el conocimiento universal - incluso desconectado")
 
 > 📚 Kiwix te permite acceder al conocimiento universal - incluso desconectado
 

@@ -8,6 +8,7 @@ comments: false
 date: 2019-12-20
 last_modified_at: 2019-12-20
 permalink: /desarrollador-web-infografias/
+img: /assets/img/paginas/infografias-desarrollo-web.webp
 ---
 
 <a href="https://ciberninjas.com/desarrollador-web-infografias/#comparativa-entre-nodejs-y-python" title="Comparativa entre NodeJs y Python"><img src="https://i.ibb.co/gjzTJ87/diferencia-nodejs-python.png" alt="Comparativa de diferencias entre node js y python" border="0"></a>

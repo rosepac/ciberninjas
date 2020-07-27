@@ -5,10 +5,13 @@ description: "🗞 ▷ Prensa y Revistas Alternativas de España."
 excerpt: "🗞 ▷ Prensa y Revistas Alternativas de España."
 published: true
 comments: false
-date: 2019-10-17
+date: 2020-07-21
 last_modified_at: 
 permalink: /prensa-alternativa/
 canonical_URL: https://ciberninjas.com/prensa-alternativa/
+thumbnail: /assets/img/paginas/revistas-alternativas.webp
+feature-img: /assets/img/paginas/revistas-alternativas.webp
+img: /assets/img/paginas/revistas-alternativas.webp
 ---
 
 ## [Contrainformación: El periodismo incómodo](http://contrainformacion.es/){:target="_blank" rel="nofollow,noreferrer"}

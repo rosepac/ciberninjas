@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "📚 ▷ Los Libros del Lenguaje de Programación Go"
-description: "📖 👩‍💻 Los Libros Más Impresionantes Sobre Go catalogados, tanto cronológicamente como por su dificultad de aprendizaje."
-excerpt: "📖 👩‍💻 Los Libros Más Impresionantes Sobre Go catalogados, tanto cronológicamente como por su dificultad de aprendizaje."
+description: "Los Libros Más Impresionantes Sobre Go catalogados, tanto cronológicamente como por su dificultad de aprendizaje."
+excerpt: "Los Libros Más Impresionantes Sobre Go catalogados, tanto cronológicamente como por su dificultad de aprendizaje."
 date: 2019-10-11 02:20:00 +0200
 last_modified_at: 2019-10-16 20:25:10 +0200
 permalink: /los-libros-mas-impresionantes-sobre-go/
@@ -10,11 +10,9 @@ canonical_URL: https://ciberninjas.com/los-libros-mas-impresionantes-sobre-go/
 author: rosepac
 bootstrap: true
 published: true
-toc: true
-toc_label: Contenidos
-toc_icon: user-ninja
-toc_sticky: false
-
+thumbnail: /assets/img/paginas/libros-go.webp
+feature-img: /assets/img/paginas/libros-go.webp
+img: /assets/img/paginas/libros-go.webp
 ---
 
 Esto son los libros de programación en Go en **idioma inglés** que existen. Separados en tres categorías diferentes, según su dificultad; para principiantes o para profesionales / expertos y según su fecha de edición / publicación; aportando así, el valor añadido de la importancia del tiempo dentro del mundo de la tecnología.
