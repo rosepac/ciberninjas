@@ -11,6 +11,9 @@ date: 2020-01-07 15:20:18
 last_modified_at: 2020-01-09
 permalink: /python-directo/
 canonical_URL: https://ciberninjas.com/python-directo/
+thumbnail: /assets/img/paginas/directo-python.webp
+feature-img: /assets/img/paginas/directo-python.webp
+img: /assets/img/paginas/directo-python.webp
 ---
 
 <a class="twitter-timeline" data-lang="es" data-theme="light" href="https://twitter.com/ciberninjas/lists/python-relacionado1?ref_src=twsrc%5Etfw">A Twitter List by ciberninjas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

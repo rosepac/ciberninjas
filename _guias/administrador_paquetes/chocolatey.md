@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: 🍫 ▷ Chocolatey, Aprender Desde Cero
+title: 🍫 ▷ Chocolatey, aprender desde cero todo lo necesario
 description: "📌 Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows."
 excerpt: "📌 Chocolatey es el mejor instalador múltiple 👨‍💻 administrador u gestor de paquetes a nivel de máquina, para realizar instalaciones de software dentro de Windows."
 author: rosepac
@@ -14,6 +14,7 @@ permalink: /chocolatey/
 canonical_URL: https://ciberninjas.com/chocolatey/
 thumbnail: "/assets/img/blog/chocolatey-ciberninjas.webp"
 feature-img: "/assets/img/blog/chocolatey-ciberninjas.webp"
+img: "/assets/img/blog/chocolatey-ciberninjas.webp"
 
 ---
 

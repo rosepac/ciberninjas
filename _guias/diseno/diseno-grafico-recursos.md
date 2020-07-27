@@ -11,9 +11,9 @@ date: 2019-12-20 10:13:18
 last_modified_at: 2020-01-08 09:15:18
 permalink: /diseño-grafico-recursos/
 canonical_URL: https://ciberninjas.com/diseño-grafico-recursos/
-thumbnail: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
-feature-img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
-img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
+thumbnail: /assets/img/paginas/collage-arte-ondas-rojas-1280.webp
+feature-img: /assets/img/paginas/collage-arte-ondas-rojas-1280.webp
+img: /assets/img/paginas/collage-arte-ondas-rojas-1280.webp
 ---
 
 👉 [Aprender Diseño Gráfico](/diseño-grafico/)
