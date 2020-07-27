@@ -14,6 +14,7 @@ feature-img: /assets/img/cadena-bloques-fumblechain.jpg
 thumbnail: /assets/img/cadena-bloques-fumblechain.jpg
 permalink: /fumblechain-como-hackear-cadena-bloques-blockchain/
 canonical_URL: https://ciberninjas.com/fumblechain-como-hackear-cadena-bloques-blockchain/
+published: true
 ---
 
 Fumblechain te va a enseñar como hacerlo con cuatro sencillos pasos, desde dentro de una cadena de bloques creada llena de defectos y errores a propósito para posibilitar la practica de las personas interesadas sobre la seguridad alrededor del mundo del blockchain.
