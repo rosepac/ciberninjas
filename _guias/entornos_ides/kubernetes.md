@@ -3,7 +3,7 @@ layout: page
 title: '👨‍🚀 ▷ ¿Qué es Kubernetes?: Aprendiendo desde cero todo lo que debes saber'
 description: 'La historia y breve explicación del funcionamiento del servicio que ofrecen los contenedores de Kubernetes.'
 excerpt: 'La historia y breve explicación del funcionamiento del servicio que ofrecen los contenedores de Kubernetes.'
-published: false
+published: true
 author: rosepac
 bootstrap: true
 comments: false
@@ -24,4 +24,17 @@ Usar Kubernetes también te ofrece la posibilidad de la portabilidad, pudiendo i
 
 [⛓ Los mejores enlaces de Kubernetes](https://ciberninjas.com/entornos-nube/)
 
+## **La historia de Kubernetes**
+
+Kubernetes comenzó en el otoño de 2013, con tres de desarrolladores: Craig McLuckie, Joe Beda y Brendan Burns trabajando e intentando descifrar sistemas de desarrollo sobre infraestructuras en la nube. Si te paras a recordar sobre el mundo de la nube 2013, era un mundo totalmente diferente a lo que es hoy.
+
+Los scripts de bash imperativos apenas comenzaban a dar paso a la configuración declarativa de las infraestructuras como servicios dentro de los flujos de trabajo de los sistemas de las empresas. Netflix estaba popularizando la idea de una infraestructura inmutable, pero lo hacía con imágenes de máquinas virtuales completas y pesadas. La noción de orquestación, y ciertamente la orquestación de contenedores, comenzaba a existir en algunas empresas a escala de Internet, pero no estaba implementado dentro del mundo empresarial y las empresas, aún no valoraban el trabajo completo sobre la nube como una metodología válida.
+
+Docker cambió todo eso. Al comenzar a popularizar sus contenedores livianos y proporcionando una forma simple de empaquetar, distribuir e implementar aplicaciones en una máquina.
+
+Las herramientas y la experiencia de Docker popularizaron un nuevo enfoque nativo en la nube en el mundo del software de empaquetado y mantenimiento de aplicaciones. Si no fuera por el cambio de Docker, y el aporte de una nueva perspectiva del desarrollado en la nube, Kubernetes seguramente no habría llegado a existir.
+
+
+
+<!-- https://kubernetes.io/blog/2018/07/20/the-history-of-kubernetes-the-community-behind-it/ -->
 <!-- https://dev.to/educostadev/what-is-kubernetes-4h81 -->

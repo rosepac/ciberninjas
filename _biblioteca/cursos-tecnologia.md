@@ -127,10 +127,10 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 
 ## SQL
 
-* [Comienza con SQL: descarga los datos tu mismo con SQL](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomienza-con-sql%2F) (Udemy)
+* 🔐 **PAGO ACTUALMENTE** [Comienza con SQL: descarga los datos tu mismo con SQL](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomienza-con-sql%2F) (Udemy)
 * [Curso de SQL](/sql-con-jap-software/) (Jap Software, Youtube)
-* [Introducción a SQL con Oracle 11g](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-sql-con-oracle-11g%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Sistema de Login en Visual Basic y SQL Server en Capas](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flogin-vb-sql%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
+* [Introducción a SQL con Oracle 11g](https://kutt.it/intro-sql-oracle-11){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Sistema de Login en Visual Basic y SQL Server en Capas](https://kutt.it/loguin-visualbasic-sql-capas){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 
 [⏫ Subir a BBDD 📁](/cursos-tecnologia/#-bases-de-datos){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
