@@ -7,10 +7,10 @@ excerpt: "Si está pensando en actualizar una ROM personalizada de Android 10 en
 published: true
 comments: false
 date: 2020-01-25 01:53:12
-last_modified_at: 
 thumbnail: https://i.ibb.co/GTMgwxp/open-gapps-logotipo.png
 feature-img: https://i.ibb.co/GTMgwxp/open-gapps-logotipo.png
-canonical_URL: /open-gapps-aplicaciones-google-flaheables/
+canonical_URL: https://ciberninjas.com/open-gapps-aplicaciones-google-flaheables/
+permalink: /open-gapps-aplicaciones-google-flaheables/
 tags:
 - Aplicaciones Android
 - Google

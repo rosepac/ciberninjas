@@ -7,9 +7,9 @@ excerpt: "Esta biblioteca es una biblioteca de construcción de teclados y tecla
 published: true
 comments: false
 date: 2020-01-28 17:20:12
-last_modified_at: 
 published: true
-canonical_URL: /impresiones-3d-teclado-mecanico/
+canonical_URL: https://ciberninjas.com/impresiones-3d-teclado-mecanico/
+permalink: /impresiones-3d-teclado-mecanico/
 tags:
 - Biblioteca Impresoras 3D
 - Teclado Mecánico

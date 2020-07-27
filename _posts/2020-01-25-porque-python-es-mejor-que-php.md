@@ -7,10 +7,10 @@ excerpt: "Razones por las que Python es mejor que PHP en este 2020."
 published: true
 comments: false
 date: 2020-01-25 01:33:12
-last_modified_at: 
 thumbnail: /assets/img/lenguajes-vs/Why-Python-Is-Better-Than-PHP-1024x576.webp
 feature-img: /assets/img/lenguajes-vs/Why-Python-Is-Better-Than-PHP-1024x576.webp
-canonical_URL: /porque-python-es-mejor-que-php/
+canonical_URL: https://ciberninjas.com/porque-python-es-mejor-que-php/
+permalink: /porque-python-es-mejor-que-php/
 tags:
 - Lenguajes de Programación
 - Python

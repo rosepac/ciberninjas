@@ -4,13 +4,13 @@ bootstrap: true
 title: "▷ Kite: Genera tu Código Mucho Más Rápido"
 description: "Kite es un complemento para tu IDE que utiliza el aprendizaje automático para proporcionarte terminaciones de código útiles para Python. Comienza a codificar más rápido desde hoy mismo."
 excerpt: "Kite es un complemento para tu IDE que utiliza el aprendizaje automático para proporcionarte terminaciones de código útiles para Python. Comienza a codificar más rápido desde hoy mismo."
-published: false
+published: true
 comments: false
 date: 2020-01-28 15:10:12
-last_modified_at: 
 thumbnail: https://i.ibb.co/rfsK59t/image.png
 feature-img: https://i.ibb.co/rfsK59t/image.png
-canonical_URL: /kite-complemento-ide-python/
+permalink: /kite-complemento-ide-python/
+canonical_URL: https://ciberninjas.com/kite-complemento-ide-python/
 tags:
 - Python
 - Herramientas Python
@@ -84,8 +84,4 @@ Kite es capaz de integrarse con todos estos editores para mejorar la usabilidad 
 
 [👉 Descargar Kite 🤞](https://kite.com/download/){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-_____
-
-**Fuentes**:
-
-* [Web Oficial Kite](https://kite.com/){:target="_blank" rel="nofollow,noreferrer"}
+> **Fuentes**: [Web Oficial Kite](https://kite.com/){:target="_blank" rel="nofollow,noreferrer"}

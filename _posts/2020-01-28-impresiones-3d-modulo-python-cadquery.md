@@ -6,10 +6,10 @@ description: "CadQuery es un módulo Python intuitivo y fácil de usar para cons
 excerpt: "CadQuery es un módulo Python intuitivo y fácil de usar para construir modelos CAD paramétricos en 3D."
 published: true
 comments: false
-date: 2020-01-28 17:28:12
-last_modified_at: 
+date: 2020-01-28 17:28:12 
 published: true
-canonical_URL: /impresiones-3d-modulo-python-cadquery/
+canonical_URL: https://ciberninjas.com/impresiones-3d-modulo-python-cadquery/
+permalink: /impresiones-3d-modulo-python-cadquery/
 tags:
 - Biblioteca Impresoras 3D
 - Módulo Python

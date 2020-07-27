@@ -7,10 +7,10 @@ excerpt: "Información sobre el programa de Google Summer of Code, similar a un 
 published: true
 comments: false
 date: 2020-06-09 17:10:12
-last_modified_at: 
 thumbnail: /assets/img/blog/google-summer-code.webp
 feature-img: /assets/img/blog/google-summer-code.webp
-canonical_URL: /que-es-google-summer-of-code/
+permalink: /que-es-google-summer-of-code/
+canonical_URL: https://ciberninjas.com/que-es-google-summer-of-code/
 tags:
 - Educación
 - Google

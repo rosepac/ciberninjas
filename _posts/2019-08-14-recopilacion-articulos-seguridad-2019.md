@@ -10,7 +10,7 @@ tags:
 - Actualidad
 - Ciberseguridad
 - Ghidra
-published: falses
+published: false
 
 ---
 
