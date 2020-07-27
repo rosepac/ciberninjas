@@ -10,7 +10,6 @@ excerpt: >-
 published: true
 comments: false
 date: 2020-02-02 02:30:12
-last_modified_at: 
 thumbnail: /assets/img/ai/openai-pytorch.webp
 feature-img: /assets/img/ai/openai-pytorch.webp
 permalink: /openai-pytorch/

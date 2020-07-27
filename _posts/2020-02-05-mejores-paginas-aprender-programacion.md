@@ -10,7 +10,6 @@ excerpt: >-
 published: false
 comments: false
 date: 2020-02-05 10:31:12
-last_modified_at: 
 thumbnail: https://i.ibb.co/cXZ8rBn/mejores-paginas-aprender-programacion.jpg
 feature-img: https://i.ibb.co/cXZ8rBn/mejores-paginas-aprender-programacion.jpg
 permalink: /mejores-paginas-aprender-programacion/

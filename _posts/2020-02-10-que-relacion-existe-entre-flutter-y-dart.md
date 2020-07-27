@@ -10,7 +10,6 @@ excerpt: >-
 published: true
 comments: false
 date: 2020-02-10 17:25:12
-last_modified_at: 
 thumbnail: /assets/img/blog/relacion-flutter-y-dart.webp
 feature-img: /assets/img/blog/relacion-flutter-y-dart.webp
 permalink: /relacion-entre-dart-flutter/

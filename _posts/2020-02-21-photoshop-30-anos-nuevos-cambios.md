@@ -17,7 +17,6 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/cumpleanos-photoshop-cambios-e-inteligencia-artificial/
 permalink: /cumpleanos-photoshop-cambios-e-inteligencia-artificial/
 date: 2020-02-21 13:15:32
-last_modified_at: 
 published: true
 
 ---

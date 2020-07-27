@@ -10,6 +10,7 @@ date: 2020-03-26
 date: 2020-03-27 15:20:18
 last_modified_at:
 permalink: /quedateencasa-directo/
+canonical_URL: https://ciberninjas.com/quedateencasa-directo/
 tags:
 - Coronavirus
 ---

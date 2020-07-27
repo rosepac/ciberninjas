@@ -7,7 +7,6 @@ excerpt: "Informes que proporcionan un desglose completo de los supuestos, las f
 published: true
 comments: false
 date: 2020-02-01 12:10:12
-last_modified_at: 
 thumbnail: /assets/img/blog/500-empresas.webp
 feature-img: /assets/img/blog/500-empresas.webp
 permalink: /informe-anual-de-marcas-mas-valiosas/

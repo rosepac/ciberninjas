@@ -8,7 +8,6 @@ excerpt: "Numerosas herramientas con las que vas a poder generar las mejores app
 published: true
 comments: false
 date: 2020-02-08 09:23:12
-last_modified_at: 
 thumbnail: /assets/img/apache/apache-zookeeper-ciberninjas.webp
 feature-img: /assets/img/apache/apache-zookeeper-ciberninjas.webp
 permalink: /windows-template-studio-recursos-para-aplicaciones-con-xaml-net/

@@ -10,7 +10,6 @@ excerpt: >-
 published: true
 comments: false
 date: 2020-03-13 10:30:12
-last_modified_at: 
 thumbnail: https://i.ibb.co/qY90TdR/photo-1531746790731-6c087fecd65a-ixlib-rb-1-2.jpg
 feature-img: https://i.ibb.co/qY90TdR/photo-1531746790731-6c087fecd65a-ixlib-rb-1-2.jpg
 permalink: /11-aprendizajes-principiantes-inteligencia-artificial/

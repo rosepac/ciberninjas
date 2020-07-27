@@ -10,7 +10,6 @@ excerpt: >-
 published: true
 comments: false
 date: 2020-02-06 16:15:12
-last_modified_at: 
 thumbnail: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp
 feature-img: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp
 permalink: /15-mejores-lenguajes-programacion/
