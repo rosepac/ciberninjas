@@ -10,9 +10,9 @@ date: 2019-10-04T17:00:00.000+01:00
 last_modified_at: 2019-11-27T10:32:00.000+01:00
 permalink: /cursos-educacion/
 canonical_URL: https://ciberninjas.com/cursos-educacion/
-thumbnail: https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg
-feature-img: https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg
-img: https://i.ibb.co/Wf2fKGy/maestro-manzana-libro.jpg
+thumbnail: /assets/img/paginas/recursos-profesorado.webp
+feature-img: /assets/img/paginas/recursos-profesorado.webp
+img: /assets/img/paginas/recursos-profesorado.webp
 ---
 
 [📚 Metalistas](/cursos-educacion/#metalistas){: .btn .btn--inverse .btn--large} [👩‍🏫 Cursos Educación](/cursos-educacion/#cursos-de-educación){: .btn .btn--inverse .btn--large} [👦 Diversidad](/cursos-educacion/#diversidad){: .btn .btn--inverse .btn--large} [🧰 Recursos Educativos](/cursos-educacion/#recursos-educativos){: .btn .btn--inverse .btn--large} [😼 Más Recursos](/cursos-educacion/#más-recursos){: .btn .btn--inverse .btn--large} [Educación Primaria](/cursos-educacion/#educación-primaria){: .btn .btn--inverse .btn--large}
