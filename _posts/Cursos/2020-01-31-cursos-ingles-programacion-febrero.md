@@ -21,8 +21,6 @@ canonical_URL: https://ciberninjas.com/cursos-ingles-programacion-febrero/
 
 ---
 
-![👨‍💻 Los mejores cursos de programación en Udemy gratis en inglés para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.](https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg "👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.")
-
 🔎 Búsqueda rápida: Pulsar las teclas `CONTROL+F` y escribir lo que se desea estudiar.. ¡Suerte, amigos ciberninjas!
 {: .notice--warning}
 
@@ -572,6 +570,8 @@ canonical_URL: https://ciberninjas.com/cursos-ingles-programacion-febrero/
 - [Write quicker HTML5 and CSS 3; productivity hacks with emmet](https://www.udemy.com/course/write-quicker-html5-and-css-3-productivity-hacks-with-emmet/){:target="_blank" rel="nofollow,noreferrer"}
 - [You can create Incredible Websites with HTML CSS learn how](https://www.udemy.com/course/learn-to-create-html-css-web-templates-create-web-pages/){:target="_blank" rel="nofollow,noreferrer"}
 - [Your custom React component](https://www.udemy.com/course/your-custom-react-component/){:target="_blank" rel="nofollow,noreferrer"}
+
+![👨‍💻 Los mejores cursos de programación en Udemy gratis en inglés para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.](https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg "👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.")
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}

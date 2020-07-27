@@ -21,8 +21,6 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 
 ---
 
-![👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.](https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg "👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.")
-
 👉 Muchos de estos cursos ya están incluidos en nuestro [recopilatorio de cursos en español](/cursos-tecnologia/), allí podrás encontrarlos ordenados por temáticas y navegación de botones. En este otro enlace, podrás encontrar [libros](/biblioteca/) 💖
 {: .notice--info}
 
@@ -226,6 +224,8 @@ canonical_URL: https://ciberninjas.com/cursos-espanol-programacion-febrero/
 - [WordPress - 5 formas de hacer una migración exitosa](https://www.udemy.com/course/wordpress-formas-de-hacer-una-migracion-exitosa/){:target="_blank" rel="nofollow,noreferrer"}
 - [WordPress Gutenberg: Introducción al nuevo editor](https://www.udemy.com/course/wordpress-editor-gutenberg/){:target="_blank" rel="nofollow,noreferrer"}
 - [WordPress Introducción Practica a Gutenberg el Nuevo Editor](https://www.udemy.com/course/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor/){:target="_blank" rel="nofollow,noreferrer"}
+
+![👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.](https://i.ibb.co/nLLwZ0C/programador-cool-frente-1250.jpg "👨‍💻 Los mejores cursos de programación gratis en español para todo el año: Angular, Typescript, React, Vue, Laravel, Javascript, PHP, HTML, CSS, Etc.")
 
 [👈 Volver a Ciberninjas 🏡](/){: .btn .btn--inverse .btn--x-large .align-center}
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn--inverse .btn--x-large .align-center}

@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "💰 Cómo Hackear las Cadenas de Bloques: Fumblechain"
+title: "💰 FumbleChain: Cómo hackear las cadenas de bloques"
 description: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
 excerpt: 'FumbleChain, la Cadena de Bloque defectuosa a propósito que te permite aprender a hackear el blockchain'
 date: 2019-08-14 22:50:59
@@ -11,32 +11,29 @@ tags:
 - Hacking
 feature-img: /assets/img/cadena-bloques-fumblechain.jpg
 thumbnail: /assets/img/cadena-bloques-fumblechain.jpg
-toc: true
-toc_label: "Contenidos"
-toc_icon: user-ninja
-toc_sticky: true
+permalink: /fumblechain-como-hackear-cadena-bloques-blockchain/
+canonical_URL: https://ciberninjas.com/fumblechain-como-hackear-cadena-bloques-blockchain/
 ---
-> Aprender a hackear la cadena de bloques o blockchain ahora es un poco más fácil
 
-_Fumblechain_ te va a enseñar como hacerlo con cuatro sencillos pasos, desde dentro de una cadena de bloques creada llena de defectos y errores a propósito para posibilitar la practica de las personas interesadas sobre la seguridad alrededor del mundo del blockchain.
+Fumblechain te va a enseñar como hacerlo con cuatro sencillos pasos, desde dentro de una cadena de bloques creada llena de defectos y errores a propósito para posibilitar la practica de las personas interesadas sobre la seguridad alrededor del mundo del blockchain.
 
-## Aprende Sobre la Seguridad de Blockchain
+## **Aprende Sobre la Seguridad de Blockchain**
 
 FumbleChain es una cadena de bloques deliberadamente insegura. Lea las guías, completa los CTF (capture de flag), aprende cuáles son los escollos de desarrollo comunes y cómo evitarlos.
 
-## De Sencilla Implementación
+## **De Sencilla Implementación**
 
 FumbleChain está escrito en Python, por lo que es fácil de leer y participar; también puedes ejecutar una instancia en tu propia máquina con Docker.
 
-## Demo
+## **Demo**
 
 - [Demostración en Vivo de Fumblechain](https://demo.fumblechain.io/ "Demo de la cadena de bloques preparada para generar errores Fumblechain en vivo: Ciberninjas")
 
-## Objetivos del Proyecto
+## **Objetivos del Proyecto**
 
 Este proyecto busca crear conciencia sobre la seguridad de Blockchain. Los ecosistemas de Blockchain no son inherentemente seguros y FumbleChain es una plataforma donde puede explorar conceptos y probar sus habilidades.
 
-## Contribuir
+## **Contribuir**
 
 Lo que hemos creado es solo el comienzo. Úsalo. Agrega nuevos desafíos. Ayúdanos a crecer y corre la voz sobre la seguridad del blockchain.
 
