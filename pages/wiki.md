@@ -31,7 +31,7 @@ Aquí tienes el índice de los contenidos que vas a poder encontrar..
 <p>Al tratarse este caso de una traducción, el contenido pasa a quedar bajo la misma licencia; teniendo que reconocer por lo tanto, a los autores de la versión inglesa como al autor de la versión en español: Pablo Álvarez Corredera a excepción de que en las entradas se específique lo contrario.</p>
 <p>Las fuentes pueden encontrarse al pie de cada uno de los artículos o secciones que se irán generando.</p>
 </details>
-
-⬇ Actualizaciones Más Recientes ⬇
+<br />
+**🔥 Actualizaciones Más Recientes ⬇**
 
 {% include wiki.html %}
