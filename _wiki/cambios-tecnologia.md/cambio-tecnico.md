@@ -10,8 +10,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/cambio-tecnico
 canonical_URL: https://ciberninjas.com/wiki/cambio-tecnico/
-feature-img: /assets/img/wiki/articulos/cambio-tecnologico-cambio-tecnico.webp
-img: /assets/img/wiki/articulos/cambio-tecnologico-cambio-tecnico.webp
+feature-img: /assets/img/wiki/articulos/wiki-cambio-tecnologico-cambio-tecnico.webp
+img: /assets/img/wiki/articulos/wiki-cambio-tecnologico-cambio-tecnico.webp
 
 ---
 
