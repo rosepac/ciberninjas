@@ -1,6 +1,5 @@
 ---
-title: >
-    Flexciton utiliza la inteligencia artificial para ayudar a las fábricas a optimizar las líneas de producción
+title: Flexciton utiliza la inteligencia artificial para ayudar a las fábricas a optimizar las líneas de producción
 published: true
 author: rosepac
 bootstrap: true
@@ -12,8 +11,8 @@ tags:
 - Industrialización
 categories:
 - Inteligencia Artificial
-permalink: >
-    /flexciton-utiliza-la-inteligencia-artificial-para-ayudar-a-las-fabricas-a-optimizar-las-lineas-de-produccion
+permalink: /flexciton-utiliza-la-inteligencia-artificial-para-ayudar-a-las-fabricas-a-optimizar-las-lineas-de-produccion/
+canonical_ULR: https://ciberninjas.com/flexciton-utiliza-la-inteligencia-artificial-para-ayudar-a-las-fabricas-a-optimizar-las-lineas-de-produccion/
 ---
 
 [Flexciton](^1), la startup con sede en Londres que utiliza inteligencia artificial para ayudar a las fábricas a optimizar las líneas de producción, ha recaudado £ 2,5 millones de libras en financiamiento, en una ronda liderada por Backed VC. También participa Join Capital y el constructor de la empresa Entrepreneur First. La joven compañía se lanzó en el sexto día de demostración de &#171;Entreprenuer First&#187; en 2016.
@@ -30,9 +29,7 @@ Flexciton, ya es una empresa generadora de ingresos; posee clientes en los secto
 
 Para respaldar esto, Flexciton ha reclutado a varios expertos en el campo de la optimización industrial y la inteligencia artificial. El equipo actual de Flexciton ha publicado más de 140 documentos académicos revisados por pares, que se centran en la aplicación práctica de esta tecnología en ocho casos de uso industrial diferentes. Para empezar, el científico senior de optimización de Flexciton, el Dr. Giorgos Kopanos, incluso ha publicado un libro sobre el tema.
 
------
-
-**Fuente**: [Techcrunch](^2)
+> **Fuente**: [Techcrunch](^2)
 
  [1]: https://www.flexciton.com/
  [2]: https://techcrunch.com/2019/01/21/flexciton/
