@@ -15,8 +15,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/luxcorerender/
 canonical_URL: https://ciberninjas.com/wiki/luxcorerender/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-luxcorerender.webp
+img: /assets/img/wiki/articulos/wiki-luxcorerender.webp
 
 ---
 

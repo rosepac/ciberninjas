@@ -5,13 +5,13 @@ description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica 
 excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: Cíborg"
 date: 2019-08-28 09:07:07
 last_modified_at: 2020-02-18T06:10:42-05:00
-published: true
+published: false
 author: rosepac
 bootstrap: true
 layout: post
 permalink: /wiki/ciborg/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-ciborg.webp
+img: /assets/img/wiki/articulos/wiki-ciborg.webp
 ---
 
 <!-- http://laaventuradeaprender.intef.es/-/ciborg-fernando-broncano -->
@@ -36,3 +36,9 @@ Clasificación de tipos de cyborgs, en varios tipos de sistemas de naturaleza mi
 Inicio Humano. Método -protesis "bionico" .Humanos tecnologicamnte modificados de un modo importante- Logica: endogena, maquinizar lo humano. Final: Cyborg -humano protesico-
 Inicio Máquina. Método -mímesis (IA) maquinas replicantes o imitantes de lo humano, incluso con componentes biologicos anadidos. Lógica: Exógena -humanizar la máquina. Final. Cyborg -máquina android-
 Inicio: Humano+Máquina . Método -recombinación a muy pequeñas escalas- nanobiotecnologia e ingenieria genética-. Lógia: fusión e hibridación desde la gestación. Cyborg: PostHumano.
+
+**Categorías**: Cibernética \ [Cambio Tecnológico](/wiki/categoria/cambio-tecnologico/)
+{: .notice--success}
+
+**INF.**: Esta obra contiene una traducción total derivada de [******](https://en.wikipedia.org/wiki/Cyborg_art){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 12 de Julio de 2018, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Cyborg_art&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.
+{: .notice--info}

@@ -10,8 +10,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/dlinject/
 canonical_URL: https://ciberninjas.com/wiki/dlinject/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-dlinject.webp
+img: /assets/img/wiki/articulos/wiki-dlinject.webp
 
 ---
 
@@ -19,14 +19,14 @@ Dlinject es una biblioteca compartida (es decir, código arbitrario) inyectable 
 
 Dlinject se creo Inspirado por Cexigua y linux-inject, entre otros.
 
-# ¿Por qué?
+## ¿Por qué?
 
 - Porque puedo.
 - Existen varias [técnicas anti-ptrace](https://www.aldeid.com/wiki/Ptrace-anti-debugging) , que esto evade simplemente al no usar ptrace.
 - No me gusta ptrace.
 - El uso a `LD_PRELOAD`veces puede ser complicado o imposible, si el proceso en el que desea inyectarse es generado por otro proceso con un entorno limpio.
 
-# Cómo funciona
+## Cómo funciona
 
 - Envíe la señal de parada al proceso de destino. (Opcional)
 - Localiza el `_dl_open()`símbolo.
@@ -44,7 +44,7 @@ Dlinject se creo Inspirado por Cexigua y linux-inject, entre otros.
 	- Llamadas `_dl_open()`para cargar la biblioteca especificada por el usuario. Cualquier constructor se ejecutará en carga, como de costumbre.
 	- Restaura el estado del registro, des-pivota la pila y salta de nuevo a donde estaba en el momento del original `SIGSTOP`.
 
-# Limitaciones:
+## Limitaciones:
 
 - El envío `SIGSTOP`puede causar efectos secundarios no deseados, por ejemplo, si otro hilo está esperando `waitpid()`. La `--stopmethod=cgroup_freeze`opción evita esto, pero requiere root (en la mayoría de las distribuciones, al menos).
 - No estoy completamente seguro de cómo interactuará esto con aplicaciones complejas de subprocesos múltiples. Ciertamente hay potencial de rotura.

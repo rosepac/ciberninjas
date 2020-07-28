@@ -19,8 +19,6 @@ tags:
 - Tekton
 ---
 
-![Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes](/assets/img/blog/pagina-tekton.webp "Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes")
-
 Tekton Pipelines, el componente central del proyecto Tekton, se está moviendo al estado beta con el lanzamiento de v0.11.0 esta semana.
 
 Tekton es un proyecto de código abierto que crea un marco nativo de la nube que puede usar para configurar y ejecutar tuberías de integración continua y entrega continua (CI / CD) dentro de un clúster de Kubernetes.
@@ -58,3 +56,5 @@ Tekton se encuentra en su segundo año de desarrollo y actualmente está siendo 
 [▷ Se celebra la Cumbre de la Fundación CD](https://ciberninjas.com/cumbre-cd-nuevos-miembros/)
 
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+![Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes](/assets/img/blog/pagina-tekton.webp "Página web oficial de Tekton: Recurso de canalización nativo para Kubernetes")

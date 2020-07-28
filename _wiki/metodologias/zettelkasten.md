@@ -14,8 +14,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/zettelkasten/
 canonical_URL: https://ciberninjas.com/wiki/zettelkasten/
-feature-img: /assets/img/2020-news/Zettelkasten.webp
-img: /assets/img/2020-news/Zettelkasten.webp
+feature-img: /assets/img/wiki/articulos/wiki-zettelkasten.webp
+img: /assets/img/wiki/articulos/wiki-zettelkasten.webp
 
 ---
 

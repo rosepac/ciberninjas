@@ -14,7 +14,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/categoria/tipos-de-datos/
 canonical_URL: https://ciberninjas.com/wiki/categoria/tipos-de-datos/
-
+feature-img: /assets/img/wiki/categorias/categoria-tipo-de-datos.webp
+img: /assets/img/wiki/categorias/categoria-tipo-de-datos.webp
 ---
 
 Páginas pertenecientes a esta categoría: 1

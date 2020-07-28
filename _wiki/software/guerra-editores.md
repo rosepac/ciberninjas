@@ -15,8 +15,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/guerra-de-editores/
 canonical_URL: https://ciberninjas.com/wiki/guerra-de-editores/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-guerra-editores.webp
+img: /assets/img/wiki/articulos/wiki-guerra-editores.webp
 
 ---
 
@@ -55,10 +55,10 @@ Las diferencias históricas más importantes entre Vi y Emacs se presentan en la
 - La arquitectura del servidor Emacs permite que varios clientes se conecten a la misma instancia de Emacs y compartan la lista de búfer, el anillo de cierre , el historial de deshacer y otros estados.
 - Sistema de ayuda en línea generalizado con combinaciones de teclas, funciones y comandos documentados sobre la marcha.
 - Variante de lenguaje de programación Lisp extensible y personalizable ( Emacs Lisp ), con características que incluyen:
-  - Capacidad para emular vi y vim (usando Evil, Viper o Vimpulse).
-  - Un administrador de archivos potente y extensible ( dired ), depurador integrado y un amplio conjunto de herramientas de desarrollo y otras.
-  - Tener cada comando como una función Emacs Lisp habilita los comandos para DWIM (Do What I Mean) respondiendo programáticamente a acciones pasadas y al estado del documento. Por ejemplo, un switch-or-split-windowcomando podría cambiar a otra ventana si existe, o crear una si es necesario. Esto reduce el número de pulsaciones de teclas y comandos que un usuario debe recordar.
-  - "Un sistema operativo dentro de un sistema operativo". Emacs Lisp permite que Emacs se programe mucho más allá de las funciones de edición. Incluso una instalación base contiene varias docenas de aplicaciones, incluidos dos navegadores web, lectores de noticias, varios agentes de correo, cuatro clientes IRC , una versión de ELIZA y una variedad de juegos. Todas estas aplicaciones están disponibles en cualquier lugar donde se ejecute Emacs, con la misma interfaz de usuario y funcionalidad. A partir de la versión 24, Emacs incluye un administrador de paquetes, lo que facilita la instalación de aplicaciones adicionales que incluyen navegadores web alternativos, EMMS ( Emacs Multimedia System ) y más. También están disponibles numerosos paquetes para programación, incluidos algunos dirigidos a combinaciones específicas de idioma / biblioteca o estilos de codificación.
+- Capacidad para emular vi y vim (usando Evil, Viper o Vimpulse).
+- Un administrador de archivos potente y extensible ( dired ), depurador integrado y un amplio conjunto de herramientas de desarrollo y otras.
+- Tener cada comando como una función Emacs Lisp habilita los comandos para DWIM (Do What I Mean) respondiendo programáticamente a acciones pasadas y al estado del documento. Por ejemplo, un switch-or-split-windowcomando podría cambiar a otra ventana si existe, o crear una si es necesario. Esto reduce el número de pulsaciones de teclas y comandos que un usuario debe recordar.
+- "Un sistema operativo dentro de un sistema operativo". Emacs Lisp permite que Emacs se programe mucho más allá de las funciones de edición. Incluso una instalación base contiene varias docenas de aplicaciones, incluidos dos navegadores web, lectores de noticias, varios agentes de correo, cuatro clientes IRC , una versión de ELIZA y una variedad de juegos. Todas estas aplicaciones están disponibles en cualquier lugar donde se ejecute Emacs, con la misma interfaz de usuario y funcionalidad. A partir de la versión 24, Emacs incluye un administrador de paquetes, lo que facilita la instalación de aplicaciones adicionales que incluyen navegadores web alternativos, EMMS ( Emacs Multimedia System ) y más. También están disponibles numerosos paquetes para programación, incluidos algunos dirigidos a combinaciones específicas de idioma / biblioteca o estilos de codificación.
 - La naturaleza no modal de las combinaciones de teclas de Emacs hace que sea práctico ser compatible con las combinaciones de teclas de todo el sistema operativo.
 
 ## Beneficios de vi

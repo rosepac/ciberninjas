@@ -14,8 +14,8 @@ canonical_URL: https://ciberninjas.com/wiki/tipos-de-datos-complejos/
 toc_label: "Contenidos"
 toc_icon: user-ninja
 toc_sticky: true
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-tipos-datos-complejos.webp
+img: /assets/img/wiki/articulos/wiki-tipos-datos-complejos.webp
 
 ---
 

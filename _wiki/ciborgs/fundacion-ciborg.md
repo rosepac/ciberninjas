@@ -11,8 +11,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/fundacion-ciborg/
 canonical_URL: https://ciberninjas.com/wiki/fundacion-ciborg/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-fundacion-ciborg.webp
+img: /assets/img/wiki/articulos/wiki-fundacion-ciborg.webp
 
 ---
 

@@ -15,8 +15,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/ianal/
 canonical_URL: https://ciberninjas.com/wiki/ianal/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-ianal.webp
+img: /assets/img/wiki/articulos/wiki-ianal.webp
 
 ---
 

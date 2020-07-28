@@ -10,8 +10,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/arte-ciborg/
 canonical_URL: https://ciberninjas.com/wiki/arte-ciborg/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/.webp
+img: /assets/img/wiki/articulos/.webp
 
 ---
 

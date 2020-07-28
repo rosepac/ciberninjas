@@ -46,7 +46,7 @@ A su vez, que los alumnos usen la herramienta de Github, una de las aplicaciones
 
 ## **Comienza con tu primer aula de Github**
 
-Solamentes debes conectarte con tu cuenta de Github o entrar desde el apartado de Github Educación.
+Solamente debes conectarte con tu cuenta de Github o entrar desde el apartado de Github Educación.
 
 [🎓 Probar Github Classroom](https://classroom.github.com/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -58,6 +58,8 @@ Solamentes debes conectarte con tu cuenta de Github o entrar desde el apartado d
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
+
+[Escuela tecnológica de IBM Online](https://ciberninjas.com/open-ptech-el-aprendizaje-del-futuro/)
 
 [Visual Studio integrado en Github](https://ciberninjas.com/codespace-editor-github/)
 

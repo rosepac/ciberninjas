@@ -14,12 +14,12 @@ bootstrap: true
 layout: post
 permalink: /wiki/apache-storm/
 canonical_URL: https://ciberninjas.com/wiki/apache-storm/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-aplicacion-apache-storm.webp
+img: /assets/img/wiki/articulos/wiki-aplicacion-apache-storm.webp
 
 ---
 
-Apache Storm es un marco de cálculo de procesamiento de flujo distribuido escrito principalmente en el lenguaje de programación Clojure. Originalmente creado por Nathan Marz y el equipo de BackType, el proyecto fue de código abierto después de ser adquirido por Twitter.
+Apache Storm es un framework de cálculo de procesamiento de flujo distribuido escrito principalmente en el lenguaje de programación Clojure. Originalmente creado por Nathan Marz y el equipo de BackType, el proyecto fue de código abierto después de ser adquirido por Twitter.
 
 Utiliza "spouts" y "bolts" creados a medida para definir las fuentes de información y las manipulaciones para permitir el procesamiento por lotes y distribuido de datos de transmisión. El lanzamiento inicial fue el 17 de septiembre de 2011.
 

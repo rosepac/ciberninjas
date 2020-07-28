@@ -14,8 +14,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/elan-software/
 canonical_URL: https://ciberninjas.com/wiki/elan-software/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-software-elan.webp
+img: /assets/img/wiki/articulos/wiki-software-elan.webp
 ---
 
 ELAN es un software informático, una herramienta profesional para realizar anotaciones y transcripciones manuales y semiautomáticas de grabaciones de audio o video. Tiene un modelo de datos basado en niveles que admite anotaciones de múltiples niveles y múltiples participantes de medios basados en el tiempo.

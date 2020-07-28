@@ -12,7 +12,8 @@ author: rosepac
 bootstrap: true
 layout: post
 permalink: /wiki/categoria/entornos-desarrollo-integrado/
-
+feature-img: /assets/img/wiki/categorias/categoria-entornos-de-desarrollo.webp
+img: /assets/img/wiki/categorias/categoria-entornos-de-desarrollo.webp
 ---
 
 Páginas pertenecientes a esta categoría: 1

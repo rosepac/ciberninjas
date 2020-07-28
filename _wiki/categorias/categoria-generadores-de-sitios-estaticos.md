@@ -12,7 +12,8 @@ author: rosepac
 bootstrap: true
 layout: post
 permalink: /wiki/categoria/generadores-de-sitios-web-estaticos/
-
+feature-img: /assets/img/wiki/categorias/categoria-generadores-sitios-estaticos.webp
+img: /assets/img/wiki/categorias/categoria-generadores-sitios-estaticos.webp
 ---
 
 🚧 EN CONSTRUCCIÓN 🚧

@@ -12,7 +12,8 @@ author: rosepac
 bootstrap: true
 layout: post
 permalink: /wiki/categoria/depuracion/
-
+feature-img: /assets/img/wiki/categorias/categoria-depuracion.webp
+img: /assets/img/wiki/categorias/categoria-depuracion.webp
 ---
 <!-- EN CONSTRUCCIÓN -->
 Páginas pertenecientes a esta categoría: 2

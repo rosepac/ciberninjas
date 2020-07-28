@@ -13,8 +13,8 @@ author: rosepac
 bootstrap: true
 layout: post
 permalink: /wiki/cornelis-h-a-koster/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-cornelis-koster.webp
+img: /assets/img/wiki/articulos/wiki-cornelis-koster.webp
 
 ---
 
@@ -61,7 +61,6 @@ Hay disponibles otros sistemas de clasificación con esta funcionalidad, a menud
 - selección según diferentes funciones de utilidad
 - monitoreo de calidad e informes
 El sistema LCS difiere de otros en que puede hacer uso de términos lingüísticos (triples de dependencia) para mejorar su precisión. Tiene un historial probado en la clasificación de documentos de patente.
-
 
 ## Enlaces Externos
 

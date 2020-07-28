@@ -15,8 +15,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/capture-one/
 canonical_URL: https://ciberninjas.com/wiki/capture-one/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-capture-one.webp
+img: /assets/img/wiki/articulos/wiki-capture-one.webp
 ---
 
 Capture One (también conocido como Capture One Pro) es un software de edición de fotografías, desarrollado por Phase One. Además de la edición de imágenes, realiza la catalogación de las mismas, el procesamiento de los archivos de las imágenes en bruto y la fotografía atada o tethering. Capture One funciona con archivos RAW de muchas cámaras digitales diferentes, así como con archivos de imagen TIFF y JPEG.

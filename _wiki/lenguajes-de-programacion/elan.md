@@ -10,8 +10,8 @@ bootstrap: true
 layout: post
 permalink: /wiki/elan/
 canonical_URL: https://ciberninjas.com/wiki/elan/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-elan.webp
+img: /assets/img/wiki/articulos/wiki-elan.webp
 
 ---
 

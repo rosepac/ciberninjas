@@ -13,8 +13,8 @@ author: rosepac
 bootstrap: true
 layout: post
 permalink: /wiki/eumel/
-feature-img: /assets/img/2020-news/fediverso.webp
-img: /assets/img/2020-news/fediverso.webp
+feature-img: /assets/img/wiki/articulos/wiki-eumel.webp
+img: /assets/img/wiki/articulos/wiki-eumel.webp
 
 ---
 

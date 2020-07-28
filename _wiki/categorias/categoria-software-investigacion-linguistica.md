@@ -12,7 +12,8 @@ author: rosepac
 bootstrap: true
 layout: post
 permalink: /wiki/categoria/software-de-investigacion-linguistica/
-
+feature-img: /assets/img/wiki/categorias/categoria-software-investigacion-linguistica.webp
+img: /assets/img/wiki/categorias/categoria-software-investigacion-linguistica.webp
 ---
 
 🚧 EN CONSTRUCCIÓN 🚧
