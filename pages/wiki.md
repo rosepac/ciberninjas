@@ -7,6 +7,7 @@ excerpt: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas
 permalink: /wiki/
 canonical_URL: https://ciberninjas.com/wiki/
 published: true
+feature-img: /assets/img/paginas/wikininjas-test-1.jpg
 ---
 
 **La Wikipedia de Wikininjas** incluye **artículos recientes sin traducción al español**, principalmente de contenidos relacionados con la informática, la programación y la tecnología en general.

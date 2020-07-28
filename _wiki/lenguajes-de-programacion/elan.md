@@ -21,7 +21,7 @@ Fue desarrollado en 1974 por CHA Koster y un grupo de la Universidad Técnica de
 
 El diseño del lenguaje se enfoca fuertemente en la programación estructurada y tiene una construcción especial para el refinamiento gradual, permitiendo a los estudiantes enfocarse en el diseño de arriba hacia abajo y la codificación de abajo hacia arriba.
 
-**Creador**: CHA Koster (et al.)
+**Creador**: [C. H. A. Koster](/wiki/cornelis-h-a-koster/) (et al.)
 {: .notice--primary}
 
 **Desarrollador**: Universidad Técnica de Berlín

@@ -64,7 +64,7 @@ El sistema LCS difiere de otros en que puede hacer uso de términos lingüístic
 
 ## Enlaces Externos
 
-Sitio Web: [http://phasar.nl/](http://phasar.nl/ "Página web de los estudios e intereses de investigación de Cornelis HA Koster"){:target="_blank" rel="nofollow,noreferrer"}
+**Sitio Web**: [http://phasar.nl/](http://phasar.nl/ "Página web de los estudios e intereses de investigación de Cornelis HA Koster"){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
 
 **Categorías**: Informáticos Holandeses \ Lenguajes de Programación Educativos
