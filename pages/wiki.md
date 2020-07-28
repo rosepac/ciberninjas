@@ -1,7 +1,7 @@
 ---
 layout: page
-hide: true
-title: "WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas"
+hide: false
+title: "WikiNinjas"
 description: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
 excerpt: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
 permalink: /wiki/
