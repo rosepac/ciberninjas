@@ -10,7 +10,7 @@ published: true
 feature-img: /assets/img/paginas/wikininjas-test-1.jpg
 ---
 
-**La Wikipedia de Wikininjas** incluye **artículos recientes sin traducción al español**, principalmente de contenidos relacionados con la informática, la programación y la tecnología en general.
+**La Wikipedia de Wikininjas** incluye **artículos recientes sin traducción al español**, principalmente de **contenido relacionado con la informática**, **la programación** y **la tecnología**.
 
 Además, se han ido incluyendo, **personajes históricos importantes dentro de la historia de la tecnología o el diseño** y que no son muy conocidos por la comunidad de habla hispana.
 
