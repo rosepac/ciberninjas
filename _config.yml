@@ -6,14 +6,14 @@ url: "https://rosepac.github.io"
 title: Ciberninjas
 description: "El Jardín Digital del Saber Ninja 🌱 Los mejores recursos para aprender programación, desarrollo y diseño web"
 # : Libros PDF, cursos, tutoriales y eventos
-avatar: "assets/img/logos/ciberninjas-emoji-160px.png"
-favicon: "assets/favicon.ico"
+avatar: 'assets/img/logos/ciberninjas-emoji-160px.png'
+favicon: 'assets/favicon.ico'
 
 # Header and footer text
-header_text: "Jardín Digital del Saber Binario"
-header_feature_image: assets/img/jardin-digital-1024.webp
+header_text: 'Jardín Digital del Saber Binario'
+header_feature_image: 'assets/img/jardin-digital-1024.webp'
 footer_text: >
-  © 2020 Ciberninjas. Recursos de Programación, Diseño y Tecnología
+  © 2020 Ciberninjas. Recursos de Programación, Diseño y Tecnología <br/>Desarrollado con 😻 sobre Jekyll y [Type on Strap](https://github.com/sylhare/Type-on-Strap)
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable

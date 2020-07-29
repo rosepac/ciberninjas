@@ -4,9 +4,8 @@ author: rosepac
 bootstrap: true
 comments: false
 tags:
-- Udemy
-categories:
 - Cursos
+- Udemy
 title: '38 Nuevos Cursos de Udemy del 18 al 20 de Mayo'
 description: >-
   Los mejores cupones gratuitos de Udemy para Mayo: Desarrollo, Arduino, Edición de Vídeo, SEO, Seguridad, Agile, CSS, Afiliados, Blockchain..
@@ -15,7 +14,6 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/cursos-udemy-mayo-18-20/
 permalink: /cursos-udemy-mayo-18-20/
 date: 2020-05-18 14:32:32
-last_modified_at: 
 published: true
 
 ---

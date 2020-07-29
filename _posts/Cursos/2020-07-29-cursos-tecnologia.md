@@ -1,17 +1,20 @@
 ---
-# Página Base
-layout: post
-title: "▷ Los Mejores Cursos de Programación y Tecnología de 2020 Gratis 🎓 "
-description: "🚀 Repositorio de cursos online actualizados: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
-excerpt: "🚀 Repositorio de cursos online actualizados: Desarrollo Web 👩‍💻 Seguridad 🔐 Robótica 🤖 Redes 🕸 Criptomonedas 🏠 Domótica 💻 & Más ¡💥 100% GRATIS y en ESPAÑOL 💥!"
+
 author: rosepac
 bootstrap: true
-date: 2020-03-13T22:00:00.000+02:00
+comments: false
+tags:
+- Cursos Gratis
+title: "🥇 Los mejores cursos de PROGRAMACIÓN e informática GRATIS 2020"
+description: "Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más"
+excerpt: "Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más"
+date: 2020-07-29T22:00:00.000+02:00
 permalink: /cursos-tecnologia/
 canonical_URL: https://ciberninjas.com/cursos-tecnologia/
 thumbnail: "/assets/img/blog/tecnologia-programando.webp"
 feature-img: "/assets/img/blog/tecnologia-programando.webp"
 img: "/assets/img/blog/tecnologia-programando.webp"
+
 ---
 
 Actualmente son más de 700 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
@@ -22,7 +25,7 @@ Los cursos recorren todo el sector de la tecnología 4.0 en global y contienen l
 
 Sobre Android, arduino, bases de datos, ciencias de la computación, comercio electrónico, flujos de trabajo introducidos en la sección de metodologías de desarrollo, procesadores del lenguaje y programación, programación Web & Móvil, redes, redes de telefonía, robótica, seguridad, servidores y servicios en la nube, sistemas de gestión de contenidos o CMS, software & hardware, videojuegos, Web & Webmaster.
 
-Además, se agrega un apartado denominado metalistas, en el que podemos encontrar otras páginas web con variados y múltiples recursos sobre una única tecnología o varias. Por lo que se considera más importante citar a la página web en sí adjuntando una breve explicación[^] que el trabajo que requeriría ir añadiendo cada uno de los recursos al listado de forma diferenciada.
+Además, se agrega un apartado denominado metalistas, en el que podemos encontrar otras páginas web con variados y múltiples recursos sobre una única tecnología o varias. Por lo que se considera más importante citar a la página web en sí adjuntando una breve explicación [^] que el trabajo que requeriría ir añadiendo cada uno de los recursos al listado de forma diferenciada.
 
 > 🔥 Seguro también te interesa: [Mejores Ofertas de Tecnología](https://www.amazon.es/shop/cibercursos) >> [Aprender a Programar](/programar/) >> [Mejores Editores de Código](/mejores-editores-texto/) >> [Lenguajes de Programación](/15-mejores-lenguajes-programacion/)
 {: .notice--danger}
@@ -541,7 +544,7 @@ _____
 * [Curso de HTML5](/👨‍🏫-curso-html-purito-codigo) (Purito Código, Youtube)
 * [Curso de HTML y CSS Gratis](https://devcode.la/cursos/html-css) (DevCode)
 * [Curso de HTML5](https://www.youtube.com/playlist?list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK) (Pildoras Informáticas, Youtube)
-* [Desarrollo Páginas Web con HTML y CSS | Aprende a crear webs](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-html5-css3%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Desarrollo Páginas Web con HTML y CSS: Aprende a crear webs](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-html5-css3%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Desarrollo Web con HTML5 y CSS3 desde cero](https://www.udemy.com/curso-html5-css3){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Desarrollo Web Responsive con HTML5 y CSS3](https://www.udemy.com/introduccion-al-web-responsive-html5-css3){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [HTML + CSS + Javascript para principiantes. Desarrollo web](https://www.udemy.com/html5-css3-desde-0-intro-gratis-javascript){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
