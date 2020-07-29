@@ -5,7 +5,7 @@ bootstrap: true
 comments: false
 tags:
 - Cursos Gratis
-title: "🥇 Los mejores cursos de PROGRAMACIÓN e informática GRATIS 2020"
+title: "🥇 Los mejores cursos de PROGRAMACIÓN e informática 2020"
 description: "Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más"
 excerpt: "Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más"
 date: 2020-07-29T10:22:00.000+02:00
