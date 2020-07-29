@@ -136,7 +136,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 
 ## ⛓ Blockchain
 
-[Cadena de Bloques 🔗](/cursos-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/cursos-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fab fa-bitcoin"></i>](/cursos-tecnologia/#bitcoin-){: .btn .btn--inverse .btn--large} [Dash](/cursos-tecnologia/#dash){: .btn .btn--inverse .btn--large} [Trading <i class="fas fa-chart-line"></i>](/cursos-tecnologia/#trading-){: .btn .btn--inverse .btn--large}
+[Cadena de Bloques 🔗](/cursos-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/cursos-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>](/cursos-tecnologia/#bitcoin-){: .btn .btn--inverse .btn--large} [Dash](/cursos-tecnologia/#dash){: .btn .btn--inverse .btn--large} [Trading <i class="fa fa-line-chart" aria-hidden="true"></i>](/cursos-tecnologia/#trading-){: .btn .btn--inverse .btn--large}
 
 ## Cadena de Bloques 🔗
 
@@ -159,7 +159,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 
 ## Criptomonedas 💰
 
-### Bitcoin <i class="fab fa-bitcoin"></i>
+### Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>
 
 * [Bitcoin: Conceptos, tecnología y usos](https://www.unimooc.com/cursos/bitcoin){:target="_blank" rel="nofollow,noreferrer"} (Unimooc)
 * [Bitcoin Construye un imperio minando en la nube](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbitcoin-construye-un-imperio-minando-en-la-nube%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -170,7 +170,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 
 * [Dash en Python](https://unipython.com/curso-de-dash){:target="_blank" rel="nofollow,noreferrer"} (UniPython)
 
-### Trading <i class="fas fa-chart-line"></i>
+### Trading <i class="fa fa-line-chart" aria-hidden="true"></i>
 
 * [Curso básico de trading](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwisetradingacademy%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Curso de trading y bolsa desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-trading-y-bolsa-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -306,14 +306,14 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 
 ## 👩‍💻 Desarrollo Web
 
-[Android <i class="fab fa-android"></i>](/cursos-tecnologia/#android-){: .btn .btn--inverse .btn--large} [Angular <i class="fab fa-angular"></i>](/cursos-tecnologia/#angular-){: .btn .btn--inverse .btn--large} [PHP Framework <i class="fab fa-php"></i>](/cursos-tecnologia/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/cursos-tecnologia/#docker-){: .btn .btn--inverse .btn--large} [Ionic](/cursos-tecnologia/#ionic){: .btn .btn--inverse .btn--large} [JQuery](/cursos-tecnologia/#jquery){: .btn .btn--inverse .btn--large} [Node <i class="fab fa-node-js"></i>](/cursos-tecnologia/#node-){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/cursos-tecnologia/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [React <i class="fab fa-react"></i>](/cursos-tecnologia/#react-){: .btn .btn--inverse .btn--large} [React Native](/cursos-tecnologia/#react-native){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/cursos-tecnologia/#swift-){: .btn .btn--inverse .btn--large} [Vue <i class="fab fa-vuejs"></i>](/cursos-tecnologia/#vue-){: .btn .btn--inverse .btn--large} [Editores de Código](/cursos-tecnologia/#vue-){: .btn .btn--inverse .btn--large} [Navegadores](/cursos-tecnologia/#vue-){: .btn .btn--inverse .btn--large}
+[Android <i class="fa fa-android" aria-hidden="true"></i>](/cursos-tecnologia/#android-){: .btn .btn--inverse .btn--large} [Angular <i class="fab fa-angular"></i>](/cursos-tecnologia/#angular-){: .btn .btn--inverse .btn--large} [PHP Framework](/cursos-tecnologia/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/cursos-tecnologia/#docker-){: .btn .btn--inverse .btn--large} [Ionic](/cursos-tecnologia/#ionic){: .btn .btn--inverse .btn--large} [JQuery](/cursos-tecnologia/#jquery){: .btn .btn--inverse .btn--large} [Node <i class="fab fa-node-js"></i>](/cursos-tecnologia/#node-){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/cursos-tecnologia/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [React](/cursos-tecnologia/#react-){: .btn .btn--inverse .btn--large} [React Native](/cursos-tecnologia/#react-native){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/cursos-tecnologia/#swift-){: .btn .btn--inverse .btn--large} [Vue](/cursos-tecnologia/#vue-){: .btn .btn--inverse .btn--large} [Editores de Código](/cursos-tecnologia/#vue-){: .btn .btn--inverse .btn--large} [Navegadores](/cursos-tecnologia/#vue-){: .btn .btn--inverse .btn--large}
 
 * [Curso básico de Backbone.js](https://devcode.la/cursos/curso-basico-de-backbonejs){:target="_blank" rel="nofollow,noreferrer"} (DevCode)
 * [Curso de Firebase](https://www.youtube.com/playlist?list=PLEtcGQaT56chIjXff_cAEglfe6gBSNFHj) (Jesús Conde, Youtube)
 * [De Novato a Desarrollador Exitoso](	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fde-novato-a-desarrollador-exitoso	){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Introducción al desarrollo web](https://www.youtube.com/playlist?list=PLfYLq8pbpMkBrFwrC-G2yI2GgCwClEouj){:target="_blank" rel="nofollow,noreferrer"} (iDESWEB, YouTube)
 
-## Android <i class="fab fa-android"></i>
+## Android <i class="fa fa-android" aria-hidden="true"></i>
 
 * [Android: Fundamentos para crear tus primeras apps de calidad](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ffundamentos-de-android-para-crear-apps-de-calidad){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Android Studio: Instalación, emuladores, git, plugins y tips](plugins-y-tips	https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fandroid-studio-instalacion-emuladores-git-plugins-y-tips){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -400,7 +400,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 
 * [Creando apps en Android y PhoneGapp](https://miriadax.net/web/creando-apps-en-android-aprende-a-programar-aplicaciones-moviles-9-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 
-## React <i class="fab fa-react"></i>
+## React
 
 * [Aprender React JS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprendiendo-react%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Fundamentos de React](https://www.youtube.com/playlist?list=PLpOqH6AE0tNg-6kaolSnySpJ0vxk3Xhoo){:target="_blank" rel="nofollow,noreferrer"} (Youtube) (2019)
@@ -415,7 +415,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 * [React Native con Mario Díez](/react-native-con-mario-diez/){:target="_blank" rel="nofollow,noreferrer"}
 * [React Native por Ciencia del Aprendizaje Fácil](/react-native-desde-ciencia-del-aprendizaje-facil/){:target="_blank" rel="nofollow,noreferrer"}
 
-## Vue <i class="fab fa-vuejs"></i>
+## Vue
 
 * [Aprende VUE2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso){:target="_blank" rel="nofollow,noreferrer"} (Anticuado, ver más actual: Escuela Vue) (WMedia)
 * [Curso de Vue JS](https://www.youtube.com/playlist?list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT){:target="_blank" rel="nofollow,noreferrer"} (BluuWeb, Youtube) (2018)
@@ -447,7 +447,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 
 ## 👨‍🎨 Diseño Web
 
-[Bootstrap <i class="fab fa-bootstrap"></i>](/cursos-tecnologia/#bootstrap-){: .btn .btn--inverse .btn--large} [Lenguajes de Estilos y Preprocesadores 🎨](/cursos-tecnologia/#lenguajes-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/cursos-tecnologia/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/cursos-tecnologia/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large}
+[Bootstrap](/cursos-tecnologia/#bootstrap-){: .btn .btn--inverse .btn--large} [Lenguajes de Estilos y Preprocesadores 🎨](/cursos-tecnologia/#lenguajes-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/cursos-tecnologia/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/cursos-tecnologia/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large}
 
 _____
 
@@ -464,7 +464,7 @@ _____
 * [Menus responsive](http://jotajotavm.com/Menus-Responsive-00-Introduccion.html){:target="_blank" rel="nofollow,noreferrer"} (jotajotavm)
 * [Tutoriales de Diseño Web](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWwhmEyzXsTFnNXfatVMAfT){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
 
-## Bootstrap <i class="fab fa-bootstrap"></i>
+## Bootstrap
 
 * [Aprende a crear Landing Pages con Bootstrap 3 o Instapage](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-una-landing-page-que-enamore-sin-saber-programar%2F) (Udemy)
 * [Bootstrap 4. Fundamentos: crea tu primer sitio responsive](https://www.udemy.com/curso-fundamentos-de-bootstrap-4) (Udemy)
@@ -480,7 +480,7 @@ _____
 * [Fundamentos de Bootstrap 4](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-fundamentos-de-bootstrap-4%2F) (Udemy)
 * [La biblia perdida de Bootstrap 4](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-fundamentos-de-bootstrap-4%2F) (Udemy)
 
-## Dreamweaver <i class="fab fa-adobe"></i>
+## Dreamweaver
 
 * [Diseño de páginas web con Photoshop CS6](https://www.youtube.com/playlist?list=PLPl81lqbj-4Im51L2JZZZ2AxQ6u7b8HS6){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, YouTube)
 * [Diseño de páginas web en Photoshop 6](https://www.udemy.com/curso-diseno-de-paginas-web-en-photoshop-cs6){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -491,7 +491,7 @@ _____
 ## Lenguajes de Estilos y Preprocesadores 🎨
 <!-- css, xsl, dssl, jsss, sass, less, stylus, postcss, Syntax -->
 
-### CSS <i class="fab fa-css3-alt"></i>
+### CSS <i class="fa fa-css3" aria-hidden="true"></i>
 
 * [Aprende CSS para dar estilo a tus páginas web](https://www.udemy.com/aprende-css-para-dar-estilo-a-tus-paginas-web){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Aprende las bases del CSS](https://www.udemy.com/curso-basico-de-css){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -509,11 +509,11 @@ _____
 * [Flexbox desde 0](https://www.udemy.com/curso-de-flexbox-desde-0){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Flexbox y CSS3](https://www.udemy.com/css3-para-principiantes){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-## LESS <i class="fab fa-less"></i>
+## LESS
 
 * [LESS de cero a experto](https://www.udemy.com/less-de-cero-a-experto){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### SASS <i class="fab fa-sass"></i>
+### SASS
 
 * [CSS con SASS](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVyMlZyW-NAbgjtgAgLBzFP){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, YouTube)
 * [Curso de SASS Básico. Principantes paso a paso](https://www.youtube.com/playlist?list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, Youtube)
@@ -522,7 +522,7 @@ _____
 ## Lenguajes de Marcado ✍
 <!-- html, xml, sgml, xhtml, rdf, rss, atom, opml, bbcode, wiki, tex, yaml, markdown  -->
 
-### HTML <i class="fab fa-html5"></i> y CSS <i class="fab fa-css3-alt"></i>
+### HTML <i class="fa fa-html5" aria-hidden="true"></i> y CSS <i class="fa fa-css3" aria-hidden="true"></i>
 
 * [Aprende a crear páginas web con HTML y CSS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-crear-paginas-web-con-html-y-css%2F%26eid%3DW9Gem8jDoic%26lsnoid%3DNONE){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Aprende a crear páginas de internet con HTML y CSS](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-crear-paginas-de-internet-con-html-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -554,7 +554,7 @@ _____
 * [Los cimientos de un desarrollador web: HTML](https://www.udemy.com/los-cimientos-de-un-desarrollador-web-html){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
-### Markdown <i class="fab fa-markdown"></i>
+### Markdown
 
 * [Aprenda Markdown desde Cero](https://www.udemy.com/course/aprenda-markdown-desde-cero/) (Udemy)
 * [Markdown desde Cero](https://ed.team/cursos/markdown) (EdTeam)
@@ -575,12 +575,12 @@ _____
 
 ## 🐧 Ecosistema de Software Libre
 
-[Linux <i class="fab fa-linux"></i>](/cursos-tecnologia/#linux-){: .btn .btn--inverse .btn--large} [Ubuntu <i class="fab fa-ubuntu"></i>](/cursos-tecnologia/#ubuntu-){: .btn .btn--inverse .btn--large}
+[Linux <i class="fa fa-linux" aria-hidden="true"></i>](/cursos-tecnologia/#linux-){: .btn .btn--inverse .btn--large} [Ubuntu](/cursos-tecnologia/#ubuntu-){: .btn .btn--inverse .btn--large}
 
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Programación con Qt](https://www.youtube.com/playlist?list=PL54fdmMKYUJvn4dAvziRopztp47tBRNum){:target="_blank" rel="nofollow,noreferrer"} (Duarte Corporation, YouTube)
 
-### Linux <i class="fab fa-linux"></i>
+### Linux <i class="fa fa-linux" aria-hidden="true"></i>
 
 * [Bash - Intérprete de Comandos de Linux. Aprende desde cero](https://www.udemy.com/course/shell-interprete-de-comandos-de-linux-aprende-desde-cero/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2020)
 * [Expresiones Regulares (Regex)](https://www.udemy.com/course/expresiones-regulares-regex/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
@@ -591,7 +591,7 @@ _____
 * [Red Hat Performance Tuning](https://www.udemy.com/course/rh-performance-tuning/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 * [Vim, aumenta tu velocidad de desarrollo](https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/){:target="_blank" rel="nofollow,noreferrer"} (Udemy) (2019)
 
-### Ubuntu <i class="fab fa-ubuntu"></i>
+### Ubuntu
 
 * [Curso de Ubuntu](https://tv.um.es/canal?serie=4581){:target="_blank" rel="nofollow,noreferrer"} (Universidad de Murcia) (2011)
 * [Instalar Ubuntu en VirtualBox](https://www.youtube.com/watch?v=uV5boDESAe0){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
@@ -600,7 +600,7 @@ _____
 
 ## 👨‍💻 Lenguajes de Programación
 
-[C, C#, C++](/cursos-tecnologia/#c-c-c){: .btn .btn--inverse .btn--large} [Dart](/cursos-tecnologia/#dart){: .btn .btn--inverse .btn--large} [Ensamblador](/cursos-tecnologia/#ensamblador){: .btn .btn--inverse .btn--large} [Go](/cursos-tecnologia/#go){: .btn .btn--inverse .btn--large} [Java <i class="fab fa-java"></i>](/cursos-tecnologia/#java-){: .btn .btn--inverse .btn--large} [Java Frameworks <i class="fab fa-java"></i>](/cursos-tecnologia/#java-){: .btn .btn--inverse .btn--large} [Javascript <i class="fab fa-js"></i>](/cursos-tecnologia/#javascript-){: .btn .btn--inverse .btn--large} [Javascript Frameworks <i class="fab fa-js"></i>](/cursos-tecnologia/#javascript-frameworks-){: .btn .btn--inverse .btn--large} [Perl](/cursos-tecnologia/#perl){: .btn .btn--inverse .btn--large} [PHP <i class="fab fa-php"></i>](/cursos-tecnologia/#php-){: .btn .btn--inverse .btn--large} [PHP Frameworks <i class="fab fa-php"></i>](/cursos-tecnologia/#php-frameworks-){: .btn .btn--inverse .btn--large} [Python <i class="fab fa-python"></i>](/cursos-tecnologia/#python-){: .btn .btn--inverse .btn--large} [Python Frameworks <i class="fab fa-python"></i>](/cursos-tecnologia/#python-frameworks-){: .btn .btn--inverse .btn--large} [Ruby <i class="fas fa-gem"></i>](/cursos-tecnologia/#ruby-){: .btn .btn--inverse .btn--large} [Ruby Frameworks <i class="fas fa-gem"></i>](/cursos-tecnologia/#python-frameworks-){: .btn .btn--inverse .btn--large}
+[C, C#, C++](/cursos-tecnologia/#c-c-c){: .btn .btn--inverse .btn--large} [Dart](/cursos-tecnologia/#dart){: .btn .btn--inverse .btn--large} [Ensamblador](/cursos-tecnologia/#ensamblador){: .btn .btn--inverse .btn--large} [Go](/cursos-tecnologia/#go){: .btn .btn--inverse .btn--large} [Java](/cursos-tecnologia/#java-){: .btn .btn--inverse .btn--large} [Java Frameworks](/cursos-tecnologia/#java-){: .btn .btn--inverse .btn--large} [Javascript](/cursos-tecnologia/#javascript-){: .btn .btn--inverse .btn--large} [Javascript Frameworks](/cursos-tecnologia/#javascript-frameworks-){: .btn .btn--inverse .btn--large} [Perl](/cursos-tecnologia/#perl){: .btn .btn--inverse .btn--large} [PHP](/cursos-tecnologia/#php-){: .btn .btn--inverse .btn--large} [PHP Frameworks](/cursos-tecnologia/#php-frameworks-){: .btn .btn--inverse .btn--large} [Python](/cursos-tecnologia/#python-){: .btn .btn--inverse .btn--large} [Python Frameworks](/cursos-tecnologia/#python-frameworks-){: .btn .btn--inverse .btn--large} [Ruby](/cursos-tecnologia/#ruby-){: .btn .btn--inverse .btn--large} [Ruby Frameworks](/cursos-tecnologia/#python-frameworks-){: .btn .btn--inverse .btn--large}
 
 ## C, C#, C++
 
@@ -656,7 +656,7 @@ _____
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
-## Java <i class="fab fa-java"></i>
+## Java
 
 * [Acceso a bases de datos en Java](http://ocw.upm.es/course/acceso-bases-datos-java){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Curso básico de Java](https://www.udemy.com/introduccion-programacion-java){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -679,7 +679,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Java Frameworks <i class="fab fa-java"></i>
+## Java Frameworks
 
 ### Play
 
@@ -711,7 +711,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
-## Javascript <i class="fab fa-js"></i>
+## Javascript
 
 * [Aprende programación desde 0 con Javascript](https://www.youtube.com/playlist?list=PLYPjmy5IVxT8ohy6P2k4hNU2PtstqP8Zh){:target="_blank" rel="nofollow,noreferrer"} (Eduardo Ibarra, Youtube)
 * [Curso básico de Javascript desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
@@ -728,7 +728,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Javascript Frameworks <i class="fab fa-js"></i>
+## Javascript Frameworks
 
 > Los Frameworks de Javascript: Angular, React, Vue y otros proyectos como NodeJs se encuentran en la categoría de desarrollo web por la importancia de su crecimiento actual.
 {: .notice--info}
@@ -749,7 +749,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large}
 
-## PHP <i class="fab fa-php"></i>
+## PHP
 
 * [Actualización PHP 7](https://www.udemy.com/actualizacion-php-7){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Aprende PHP y MySQl, conceptos básicos](https://www.udemy.com/php-para-principiantes){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -765,9 +765,9 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## PHP Frameworks <i class="fab fa-php"></i>
+## PHP Frameworks
 
-[CakePHP](/cursos-tecnologia/#cakephp){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Laravel <i class="fab fa-laravel"></i>](/cursos-tecnologia/#laravel-){: .btn .btn--inverse .btn--large} [Symfony <i class="fab fa-symfony"></i>](/cursos-tecnologia/#symfony-){: .btn .btn--inverse .btn--large} [Zend](/cursos-tecnologia/#zend){: .btn .btn--inverse .btn--large}
+[CakePHP](/cursos-tecnologia/#cakephp){: .btn .btn--inverse .btn--large} [CodeIgniter](/cursos-tecnologia/#codeigniter){: .btn .btn--inverse .btn--large} [Laravel](/cursos-tecnologia/#laravel-){: .btn .btn--inverse .btn--large} [Symfony](/cursos-tecnologia/#symfony-){: .btn .btn--inverse .btn--large} [Zend](/cursos-tecnologia/#zend){: .btn .btn--inverse .btn--large}
 
 * [Introducción teórica a los frameworks de desarrollo para PHP](https://www.udemy.com/introduccion-teorica-a-los-framework-de-desarrollo-para-php){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
@@ -781,7 +781,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Framework CodeIgniter para principiantes: Primeros pasos](https://www.udemy.com/course/codeigniter-para-principiantes-primeros-pasos){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Introducción a CodeIgniter](https://www.udemy.com/course/introduccion-codeigniter){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### Laravel <i class="fab fa-laravel"></i>
+### Laravel
 
 * [Aprende Laravel - Modelos, migraciones, rutas, vistas, etc](https://www.udemy.com/aprende-laravel-modelos-migraciones-rutas-vistas-etc){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Configurar Laravel en Windows y MySql Server](https://www.udemy.com/laravel-y-sql-server){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
@@ -797,7 +797,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 * [Laravel 5.6](https://www.youtube.com/playlist?list=PLIddmSRJEJ0sxS-RmqdRMlkyWOQWvEGEt){:target="_blank" rel="nofollow,noreferrer"} (Raul Palacios, YouTube)
 * [Laravel y Vue Js avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-y-vue-js-avanzado%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### Symfony <i class="fab fa-symfony"></i>
+### Symfony
 
 * [Instalando Symfony 2](https://www.udemy.com/instalando-symfony2){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [PHP, Symfony y Desarrollo Web](https://diego.com.es){:target="_blank" rel="nofollow,noreferrer"} (HTML)
@@ -809,7 +809,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Python <i class="fab fa-python"></i>
+## Python
 
 * [Analista de Datos con Python](https://unipython.com/curso-analisis-datos){:target="_blank" rel="nofollow,noreferrer"} (Unipython)
 * [Aprende programación en Python desde cero](https://www.udemy.com/course/aprende-programacion-en-python-desde-cero){:target="_blank" rel="nofollow,noreferrer"}
@@ -834,20 +834,20 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Python Frameworks <i class="fab fa-python"></i>
+## Python Frameworks
 
 * [Curso básico de Django - Páginas web con Python](https://www.udemy.com/curso-basico-de-django-paginas-web-con-python){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * Desarrollo Web con Django en Python (https://unipython.com/curso-desarrollo-web-django-python){:target="_blank" rel="nofollow,noreferrer"}
 * [Introducción a Django + Python & REST](https://plataforma.keepcoding.io/p/introduccion-python-django-y-rest){:target="_blank" rel="nofollow,noreferrer"} (Keep Coding)
 * [Probar Django: Crear una Aplicación Web en Python](https://www.udemy.com/probar-django-construir-una-aplicacion-web-en-python){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-## Ruby <i class="fas fa-gem"></i>
+## Ruby
 
 * [Crear aplicaciones con Ruby](https://www.udemy.com/crear-aplicaciones-con-ruby){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [⏫ Subir a Lenguajes de Programación 👨‍💻](/cursos-tecnologia/#-lenguajes-de-programación){: .btn .btn--inverse .btn--large} [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Ruby Frameworks <i class="fas fa-gem"></i>
+## Ruby Frameworks
 
 ### Ruby and Rails
 
@@ -857,7 +857,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 ## 💼 Metodologías de Desarrollo
 
-[Integración Continua](/cursos-tecnologia/#integracion-continua){: .btn .btn--inverse .btn--large} [Grunt <i class="fab fa-grunt"></i>](/cursos-tecnologia/#grunt-){: .btn .btn--inverse .btn--large} [Estudiar 💭](/cursos-tecnologia/#estudiar-){: .btn .btn--inverse .btn--large}
+[Integración Continua](/cursos-tecnologia/#integracion-continua){: .btn .btn--inverse .btn--large} [Grunt](/cursos-tecnologia/#grunt-){: .btn .btn--inverse .btn--large} [Estudiar 💭](/cursos-tecnologia/#estudiar-){: .btn .btn--inverse .btn--large}
 
 * [Ágil: curso express de Ágil" y Gestión de proyectos Ágil](https://www.udemy.com/agil-gestion-de-proyectos-agil){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/web/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-6-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
@@ -893,7 +893,7 @@ http://ocw.upm.es/course/programacion-en-java-i
 
 * [Domina Jenkins CI para DevOps y Desarrolladores](https://www.udemy.com/domina-jenkins-ci-para-devops-y-desarrolladores){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-## Grunt <i class="fab fa-grunt"></i>
+## Grunt
 
 * [Grunt JS de 0 a 100](https://www.udemy.com/de-0-a-100-con-grunt-js){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
@@ -1348,100 +1348,103 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 ## 👷‍♂️ Webmaster
 
-[Accesibilidad Web ♿](/cursos-tecnologia/#accesibilidad-web-){: .btn .btn--inverse .btn--large} [Análitica Web 📈](/cursos-tecnologia/#análitica-web-){: .btn .btn--inverse .btn--large} [Marketing Digital 🏪](/cursos-tecnologia/#marketing-digital-){: .btn .btn--inverse .btn--large} [Facebook <i class="fab fa-facebook-square"></i>](/cursos-tecnologia/#facebook-){: .btn .btn--inverse .btn--large} [Instagram <i class="fab fa-instagram"></i>](/cursos-tecnologia/#instagram-){: .btn .btn--inverse .btn--large} [Pinterest <i class="fab fa-pinterest"></i>](/cursos-tecnologia/#pinterest-){: .btn .btn--inverse .btn--large} [Youtube <i class="fab fa-youtube"></i>](/cursos-tecnologia/#youtube-){: .btn .btn--inverse .btn--large} [Seo y Posicionamiento 🔍](/cursos-tecnologia/#seo-y-posicionamiento-){: .btn .btn--inverse .btn--large}
+[Accesibilidad Web ♿](/cursos-tecnologia/#accesibilidad-web-){: .btn .btn--inverse .btn--large} [Análitica Web 📈](/cursos-tecnologia/#análitica-web-){: .btn .btn--inverse .btn--large} [Marketing Digital 🏪](/cursos-tecnologia/#marketing-digital-){: .btn .btn--inverse .btn--large} [Facebook <i class="fab fa-facebook-square"></i>](/cursos-tecnologia/#facebook-){: .btn .btn--inverse .btn--large} [Instagram <i class="fa fa-instagram" aria-hidden="true"></i>](/cursos-tecnologia/#instagram-){: .btn .btn--inverse .btn--large} [Pinterest <i class="fab fa-pinterest"></i>](/cursos-tecnologia/#pinterest-){: .btn .btn--inverse .btn--large} [Youtube <i class="fab fa-youtube"></i>](/cursos-tecnologia/#youtube-){: .btn .btn--inverse .btn--large} [Seo y Posicionamiento 🔍](/cursos-tecnologia/#seo-y-posicionamiento-){: .btn .btn--inverse .btn--large}
 
-* [3 Claves para convertir tu idea en dinero](https://www.udemy.com/3-claves-para-convertir-tu-idea-en-dinero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [5 Estrategias para invertir en acciones, crypto y forex](https://www.udemy.com/5-estrategias-para-invertir-en-acciones-forex-y-criptomedas){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Buenas prácticas en el uso académico de la propiedad intelectual](https://miriadax.net/web/buenas-practicas-en-el-uso-academico-de-la-propiedad-intelectual-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+* [3 Claves para convertir tu idea en dinero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F3-claves-para-convertir-tu-idea-en-dinero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* Paso a Pago 😿 [Trading Forex: Comienza a invertir en el Mercado de Forex](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F5-estrategias-para-invertir-en-acciones-forex-y-criptomedas%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* **Inscripción Cerrada 🔒** [Buenas prácticas en el uso académico de la propiedad intelectual](https://miriadax.net/web/buenas-practicas-en-el-uso-academico-de-la-propiedad-intelectual-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Buscar en Internet](https://www.edx.org/course/buscar-en-internet-upvalenciax-bi101x-1){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Universidad Politécnica de Valencia)
-* [Búsqueda y Gestión de la Información en la Web](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion-en-la-web-3-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX \ Universidad de Santiago de Chile)
 * [Búsqueda y Gestión de la Información para la Elaboración de un Trabajos Académicos](https://miriadax.net/web/busqueda-y-gestion-de-la-informacion/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX \ Universidad Católica de Valencia)
-* [Creación de encuestas](https://www.udemy.com/creacion-de-encuestas){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Creación de marca en la web](https://www.youtube.com/playlist?list=PLfWJBWUqkmeBDFmf9HnLl0WGVyqZG32tF){:target="_blank" rel="nofollow,noreferrer"} (Tecnología Capacitate, YouTube)
-* [Crear campañas de E-Mail Marketing y E-Mail masivos](https://www.udemy.com/curso-basico-de-email-marketing-con-mailchimp){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Crear estación de radio por Internet desde cero](https://www.udemy.com/crear-estacion-de-radio-por-internet-desde-cero){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Creación de Marca Personal](https://www.youtube.com/playlist?list=PLpgvqH3SVWYpcLrhA2tQy4IHbKw_958OP){:target="_blank" rel="nofollow,noreferrer"} (Janette Curi Franco, YouTube)
+* [Crear campañas de E-Mail Marketing y E-Mail masivos](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-basico-de-email-marketing-con-mailchimp%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Crear estación de radio por Internet desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrear-estacion-de-radio-por-internet-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Creative Commons](https://abierta.ugr.es/creative_commons){:target="_blank" rel="nofollow,noreferrer"} (Abierta UGR)
 * [Creatividad publicitaria (2015)](https://ocw.ehu.eus/course/view.php?id=360){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Curso de introducción a la publicidad programática](https://www.udemy.com/curso-de-publicidad-programatica){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Desarrollo de contenido digital](https://www.youtube.com/playlist?list=PLfWJBWUqkmeCz4HIOBoDbzjHGJ1azydj5){:target="_blank" rel="nofollow,noreferrer"} (Tecnología Capacitate, YouTube)
-* [Desarrollo de negocios exitosos en Internet](https://www.udemy.com/desarrollo-correcto-de-un-negocio-online){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Curso de introducción a la publicidad programática](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-publicidad-programatica%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Creación y Gestión de Contenidos Digitales](https://www.youtube.com/playlist?list=PLUS74eZ5KD5QVKWxOcJ_1Jdaj9Mrmdqev){:target="_blank" rel="nofollow,noreferrer"} (YouTube)
+* [Desarrollo de negocios exitosos en Internet](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesarrollo-correcto-de-un-negocio-online%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [El cibermercado en el espacio Internet (2010)](https://ocw.ehu.eus/file.php/123/cibermercado/Course_listing.html){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Encontrando tesoros en la red](https://miriadax.net/web/encontrando-tesoros-en-la-red-4-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+* **Inscripción Cerrada 🔒** [Encontrando tesoros en la red](https://miriadax.net/web/encontrando-tesoros-en-la-red-4-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Escribir para Convencer](https://www.edx.org/es/course/escribir-para-convencer){:target="_blank" rel="nofollow,noreferrer"} (EDX \ Pontificia Universidad Javeriana)
-* [Escribir un ensayo](https://www.udemy.com/escribir-un-ensayo){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Experto en Email Marketing con GetResponse](https://www.udemy.com/curso-de-email-marketing-con-getresponse){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Google AdWords 2018 desde fundamentos hasta optimización](https://www.udemy.com/google-adwords-2018-desde-fundamentos-hasta-optimizacion){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Introducción a Google Adwords](https://www.udemy.com/introduccion-a-google-adwords){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Escribir un ensayo](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fescribir-un-ensayo%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Experto en Email Marketing con GetResponse](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-email-marketing-con-getresponse%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Introducción a Google Adwords](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduccion-a-google-adwords%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Introducción a la redacción ciberperiodística (2014)](https://ocw.ehu.eus/course/view.php?id=330){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Introducción al Crowdfunding](https://miriadax.net/web/introduccion-al-crowdfunding){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [La Web Semántica](https://www.coursera.org/learn/web-semantica){:target="_blank" rel="nofollow,noreferrer"} (Coursera)
-* [Marketing de afiliados - Haz dinero con tu blog](https://www.udemy.com/biblia-marketing-de-afiliados){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Oportunidades de negocio en el Internet de las Cosas](https://miriadax.net/web/oportunidades-de-negocio-para-internet-de-las-cosas/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Publicidad en Google - Ads, Youtube, Waze, Adwords Express](https://www.udemy.com/andresbrachetta-ecosistema-publicitario-google){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Publicidad en línea. Campañas en Facebook y Adwords](https://miriadax.net/web/publicidad-en-linea-campanas-en-facebook-y-adwords-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+* **Inscripción Cerrada 🔒** [Introducción al Crowdfunding](https://miriadax.net/web/introduccion-al-crowdfunding){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+* **Inscripción Cerrada 🔒** [Oportunidades de negocio en el Internet de las Cosas](https://miriadax.net/web/oportunidades-de-negocio-para-internet-de-las-cosas/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+* Paso a Pago 😿 [Publicidad en Google - Ads, Youtube, Waze, Adwords Express](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fandresbrachetta-ecosistema-publicitario-google%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* **Inscripción Cerrada 🔒** [Publicidad en línea. Campañas en Facebook y Adwords](https://miriadax.net/web/publicidad-en-linea-campanas-en-facebook-y-adwords-2-edicion-){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
 * [Radio para internet con Podcast: creación y conceptos básicos](https://www.edx.org/course/radio-para-internet-con-podcast-creacion-y-concept){:target="_blank" rel="nofollow,noreferrer"} (EDX)
-* [Redacción en Internet](https://miriadax.net/web/redaccion-en-internet-2-edicion-) (MiriadaX)
-* [Super Networking: Networking personal para principiantes](https://www.udemy.com/networking-personal-y-habilidades-sociales-para-tener-exito){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Vídeo Marketing para emprendedores](https://www.youtube.com/playlist?list=PL694C136868F3BABD){:target="_blank" rel="nofollow,noreferrer"} (Carla Delgado, YouTube)
-* [Zoho Campañas: crea tus propias campañas de Marketing](https://www.udemy.com/zoho-campaigns-crea-tus-propias-campanas-de-marketing){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Zoho CRM Admin: aprende a gestionar tus ventas exitosamente](https://www.udemy.com/zoho-crm-admin-aprende-a-gestionar-tus-ventas-exitosamente){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Zoho CRM App: gestiona tus clientes desde tu móvil](https://www.udemy.com/zoho-crm-mobile-app-gestiona-tus-clientes-desde-tu-movil){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Zoho CRM Usuario: gestiona tus procesos en ventas con éxito](https://www.udemy.com/zoho-crm-usuario-gestiona-tus-procesos-de-ventas-con-exito){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Super Networking: Networking personal para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnetworking-personal-y-habilidades-sociales-para-tener-exito%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Podcast: Hacer vídeos para Youtube](https://www.youtube.com/playlist?list=PL694C136868F3BABD){:target="_blank" rel="nofollow,noreferrer"} (Carla Delgado, YouTube)
+* [Zoho Campañas: crea tus propias campañas de Marketing](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fzoho-campaigns-crea-tus-propias-campanas-de-marketing%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Zoho CRM Admin: aprende a gestionar tus ventas exitosamente](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fzoho-crm-admin-aprende-a-gestionar-tus-ventas-exitosamente%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Zoho CRM App: gestiona tus clientes desde tu móvil](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fzoho-crm-mobile-app-gestiona-tus-clientes-desde-tu-movil%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Zoho CRM Usuario: gestiona tus procesos en ventas con éxito](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fzoho-crm-usuario-gestiona-tus-procesos-de-ventas-con-exito%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 [🔝 Inicio](/cursos-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## Accesibilidad Web ♿
 
-* [Accesibilidad TIC en compras públicas](https://iedra.uned.es/courses/UNED-ONCE/AccTIC/2017/about){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Accesibilidad TIC en compras públicas](https://iedra.uned.es/courses/course-v1:UNED+AccTIC_004+2020/about){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 * [Accesibilidad Universal (2012)](http://ocw.uc3m.es/ingenieria-informatica/accesibilidad-universal){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Aprende accesibilidad web paso a paso](https://www.udemy.com/aprende-accesibilidad-web-paso-a-paso){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Aprende accesibilidad web paso a paso](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-accesibilidad-web-paso-a-paso%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Evitando las barreras de la Accesibilidad en la Sociedad de la Información (2014)](http://ocw.uc3m.es/ingenieria-informatica/evitando-barreras-accesibilidad){:target="_blank" rel="nofollow,noreferrer"} (OCW)
-* [Test de Usabilidad: Balsamiq](https://www.unimooc.com/cursos/test-usabalidad/){:target="_blank" rel="nofollow,noreferrer"} (OCW)
+* [Herramientas para mejorar la Usabilidad Web: Balsamiq](https://www.unimooc.com/cursos/test-usabalidad/){:target="_blank" rel="nofollow,noreferrer"} (OCW)
 
 ## Análitica Web 📈
 
 * [Analítica Web](https://miriadax.net/web/analitica-web/inicio){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
-* [Cómo encontrar palabras clave en el Planificador de Google](https://www.udemy.com/como-encontrar-palabras-clave-en-el-planificador-de-google){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Curso fundamentos de Google Analitycs 2018](https://www.udemy.com/curso-de-fundamentos-de-google-analytics-2018){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Fundamentos de Analítica Digital, Analitycs +GTM](https://www.udemy.com/intro-administrador-etiquetas-tag-manager-y-analisis-web){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Fundamentos de Google Analitycs 2018](https://www.udemy.com/curso-de-fundamentos-de-google-analytics-2018){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Google Search Console: Curso Online de Google Search Console](https://www.udemy.com/share/101z34AkoaeF5RTXw=){:target="_blank" rel="nofollow,noreferrer"}
+* Paso a Pago 😿 [Cómo encontrar palabras clave en el Planificador de Google](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-encontrar-palabras-clave-en-el-planificador-de-google%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Fundamentos de Analítica Digital, Analitycs y GTM](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintro-administrador-etiquetas-tag-manager-y-analisis-web%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Módulo Data Analytics, Business Intelligence y Visualización](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-fundamentos-de-google-analytics-2018%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Google Search Console: Curso Online de Google Search Console](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-google-search-console%2F){:target="_blank" rel="nofollow,noreferrer"}
 
 ## Marketing Digital 🏪
 
 [Ir a Comercio Electrónico 🛒](/cursos-tecnologia/#-comercio-electrónico){: .btn .btn--inverse .btn--large}
 
-* [Automatización de redes sociales: Unifica tus publicaciones](https://www.udemy.com/automatizacion-de-redes-sociales-unifica-tus-publicaciones){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Branding para redes sociales](https://www.crehana.com/cursos/branding/branding-para-redes-sociales){:target="_blank" rel="nofollow,noreferrer"} (Crehana)
-* [Crea la imagen de una campaña digital](https://www.crehana.com/cursos/branding/crea-la-imagen-de-una-campana-digital){:target="_blank" rel="nofollow,noreferrer"} (Crehana)
+* [Automatización de redes sociales: Unifica tus publicaciones](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fautomatizacion-de-redes-sociales-unifica-tus-publicaciones%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Master en Marketing Digital](https://campus.neetwork.com/p/master-gratuito-en-marketing-digital-y-analitica-web){:target="_blank" rel="nofollow,noreferrer"}
 
 ### Facebook <i class="fab fa-facebook-square"></i>
 
+* [Facebook para Conseguir Clientes y Aumentar Ventas](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcursofacebook%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Marketing digital en Facebook: haz crecer tu negocio](https://www.crehana.com/cursos/all/marketing-digital-en-facebook-haz-crecer-tu-negocio){:target="_blank" rel="nofollow,noreferrer"} (Crehana)
-* [Utilizar Facebook para aumentar Clientes y generar Ventas](https://www.udemy.com/share/101taqAkoaeF5RTXw=){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
-### Instagram <i class="fab fa-instagram"></i>
+### Google
 
-* [10 Maneras de crecer tu Instagram de forma orgánica](https://www.udemy.com/10-maneras-de-crecer-tu-instagram-de-forma-organica){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Curso publicidad en Instagram, ¡crea ya tus anuncios!](https://www.udemy.com/curso-publicidad-en-instagram-gratis-desde-0){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Dominando la Publicidad en Instagram](https://www.udemy.com/course/dominando-publicidad-instagram/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Entrenamiento gratuito de Instagram](https://www.udemy.com/course/entrenamiento-gratuito-de-instagram-samurais-digitales/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Gana miles de seguidores RÁPIDO y FÁCIL](https://www.udemy.com/course/instagram-curso-marketing-digital-intermedio/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Instagram 2018: paso a paso hasta los 10.000 seguidores](https://www.udemy.com/instagram-2018-paso-a-paso-hasta-los-10000-seguidores){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Instagram para negocios locales](https://www.udemy.com/instagram-para-negocios-locales){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Introducción al Marketing en Instagram para tu empresa](https://www.udemy.com/share/101tpEAkoaeF5RTXw=){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Marketing de Afiliados con Hotmart e Instagram Desde Cero](https://www.udemy.com/course/monetizagram/){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Google y Redes Sociales para Empresas](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjaime-bravo-r-google-y-redes-sociales-para-empresas%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+
+### Instagram <i class="fa fa-instagram" aria-hidden="true"></i>
+
+* [10 Maneras de crecer tu Instagram de forma orgánica](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F10-maneras-de-crecer-tu-instagram-de-forma-organica%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* **¡Oculto temporalmente!** [Curso publicidad en Instagram, ¡crea ya tus anuncios!](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Fsearch%2F%3Flang%3Des%26price%3Dprice-free%26q%3Dinstagram%26sort%3Dprice-low-to-high){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Cómo pasar de 0 a 10.000 seguidores en sólo 30 días](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F10000-seguidores%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* Paso a Pago 😿 [Dominando la Publicidad en Instagram](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdominando-publicidad-instagram%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Entrenamiento de Instagram (Samurais Digitales)](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fentrenamiento-gratuito-de-instagram-samurais-digitales%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Gana Miles de Seguidores en Instagram en menos de un mes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgana-miles-de-seguidores-en-instagram%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* Paso a Pago 😿 [Gana miles de seguidores RÁPIDO y FÁCIL](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstagram-curso-marketing-digital-intermedio%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* Paso a Pago 😿 [Instagram 2018: paso a paso hasta los 10.000 seguidores](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstagram-2018-paso-a-paso-hasta-los-10000-seguidores%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Instagram Marketing para Negocio](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstagram-marketing-para-negocio-estrategias%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* **¡Oculto temporalmente!** [Instagram para negocios locales](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Fsearch%2F%3Flang%3Des%26price%3Dprice-free%26q%3Dinstagram%26sort%3Dprice-low-to-high){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Instagram para principiantes](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstagram-para-principiantes%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* **¡Oculto temporalmente!** [Introducción al Marketing en Instagram para tu empresa](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Fsearch%2F%3Flang%3Des%26price%3Dprice-free%26q%3Dinstagram%26sort%3Dprice-low-to-high){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Marketing de Afiliados con Hotmart e Instagram Desde Cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmonetizagram%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ### Pinterest <i class="fab fa-pinterest"></i>
 
-* [Pinterest en Español](https://www.udemy.com/pinterest-en-espanol){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* Paso a Pago 😿 [Pinterest en Español](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpinterest-en-espanol%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ### Youtube <i class="fab fa-youtube"></i>
 
 * [Academia de Creadores de Youtube](https://creatoracademy.youtube.com/page/home){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
-* [Cómo convertirse en un usuario experto de Youtube](https://www.udemy.com/como-convertirte-en-un-usuario-experto-de-youtube){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Cómo convertirse en un usuario experto de Youtube](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomo-convertirte-en-un-usuario-experto-de-youtube%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Curso ganar dinero en Youtube](https://www.youtube.com/playlist?list=PLzBklNHovU38WNPTX0RAn8Duvr-OxqJNI){:target="_blank" rel="nofollow,noreferrer"} (SEO Carlangas, Youtube)
+
+### Whatshapp
+
+* [Aumenta tus Ventas con WhatsApp Bussiness](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faumenta-tus-ventas-con-whatsapp-business%2F){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
 
 ## Seo y Posicionamiento 🔍
 
@@ -1450,7 +1453,7 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 ## Sistemas de Gestión de Contenidos ✍
 
-[Blogger](/cursos-tecnologia/#blogger){: .btn .btn--inverse .btn--large} [Drupal](/cursos-tecnologia/#drupal){: .btn .btn--inverse .btn--large} [Joomla](/cursos-tecnologia/#joomla){: .btn .btn--inverse .btn--large} [Moodle](/cursos-tecnologia/#moodle){: .btn .btn--inverse .btn--large} [Wordpress <i class="fab fa-wordpress"></i>](/cursos-tecnologia/#wordpress-){: .btn .btn--inverse .btn--large}
+[Blogger](/cursos-tecnologia/#blogger){: .btn .btn--inverse .btn--large} [Drupal](/cursos-tecnologia/#drupal){: .btn .btn--inverse .btn--large} [Joomla](/cursos-tecnologia/#joomla){: .btn .btn--inverse .btn--large} [Moodle](/cursos-tecnologia/#moodle){: .btn .btn--inverse .btn--large} [Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>](/cursos-tecnologia/#wordpress-){: .btn .btn--inverse .btn--large}
 
 ### Blogger
 
@@ -1458,47 +1461,42 @@ ERP es la abreviatura de Sistemas de Planificación de Recursos Empresariales
 
 ### Drupal
 
-* [Aprende a usar Rest en Drupal 7](https://www.udemy.com/aprende-a-usar-el-servicio-rest-en-drupal7-y-drupal8){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Crear un sitio web con Drupal](https://www.udemy.com/curso-basico-de-drupal){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
-* [Drupal 8.0](https://www.youtube.com/playlist?list=PLY3lWsAagE8N7ubeqj6LY5r-ak7_BbQ0A) (PandB Software en Español, YouTube)
+* [Aprende a usar Rest en Drupal 7](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-usar-el-servicio-rest-en-drupal7-y-drupal8%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Crear un sitio web con Drupal](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-basico-de-drupal%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Drupal 8.0](https://www.youtube.com/playlist?list=PLY3lWsAagE8N7ubeqj6LY5r-ak7_BbQ0A){:target="_blank" rel="nofollow,noreferrer"} (PandB Software en Español, YouTube)
 
 ### Joomla
 
-* [Joomla 3 "Mi primer proyecto con Joomla"](https://www.udemy.com/curso-de-joomla-3-5-mi-primero-proyecto-con-joomla) (Udemy)
-* [Joomla 3.0](https://www.youtube.com/playlist?list=PLWN_byxCBu5K6k5_-UEEpPd4eQFjo9C-w) (Grupo Inti, YouTube)
+* [Joomla 3: Mi primer proyecto con Joomla](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-de-joomla-3-5-mi-primero-proyecto-con-joomla%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Joomla 3.0](https://www.youtube.com/playlist?list=PLWN_byxCBu5K6k5_-UEEpPd4eQFjo9C-w){:target="_blank" rel="nofollow,noreferrer"} (Grupo Inti, YouTube)
 
 ### Moodle
 
-* [Moodle 3.0](https://www.youtube.com/watch?v=oxRlezup_nc&list=PLa3fNlcB1bYcSBp3kbN1BSc0dZfQ0QZpG) (Óscar Arturo Cruz, YouTube)
+* [Curso Completo de Moodle 3.1](https://www.youtube.com/playlist?list=PLa3fNlcB1bYcSBp3kbN1BSc0dZfQ0QZpG){:target="_blank" rel="nofollow,noreferrer"} (Óscar Arturo Cruz, YouTube)
 
-### Wordpress <i class="fab fa-wordpress"></i>
+### Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>
 
-* [Ajax en Wordpress para desarrolladores web. Avanzado](https://www.udemy.com/ajax-para-wordpress) (Udemy)
-* [Aprende a crear temas para Wordpress utilizando Bootstrap 4](https://www.udemy.com/aprende-a-crear-temas-para-wordpress-utilizando-bootstrap-4) (Udemy)
-* [Aprende a crear una página web profesional con Wordpress](https://www.udemy.com/aprende-a-crear-tu-pagina-web-profesional-con-wordpress) (Udemy)
-* [Aprende Brizy en Wordpress: diseña tu página web en 2 horas](https://www.udemy.com/cursobrizy) (Udemy)
-* [Aprende Wordpress de forma sencilla](https://miriadax.net/web/aprende-wordpress-de-forma-sencilla-2-edicion-) (MiriadaX)
-* [Aprender a crear tu página web con Wordpress](https://www.udemy.com/aprende-a-crear-tu-pagina-web-con-wordpress) (Udemy)
-* [Como crear un theme para Wordpress desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yUwYp_ueyulofOhRBKYa4j-) (Falcon Masters, Youtube)
-* [Crea tu blog con Wordpress](https://www.udemy.com/crea-tu-blog-con-wordpress) (Udemy)
-* [Crea tu primera página web con Wordpress](https://www.crehana.com/cursos/diseno-web/crea-tu-primera-pagina-web-con-wordpress) (Crehana)
-* [Crear temas para Wordpress utilizando Bootstrap 4](https://www.youtube.com/playlist?list=PLPl81lqbj-4KuiW_p8OejglqTEHmfeEto) (Bluuweb!, YouTube)
-* [Curso completo de Wordpress desde cero](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWMco69NRWxwIww844JN9yl) (Falcon Masters, Youtube)
-* [Curso de Wordpress para triunfar en Internet y ganar dinero](https://www.udemy.com/wordpress-para-crear-paginas-web-o-tu-blog-y-monetizacion) (Udemy)
-* [Diseña tu portfolio web con Wordpress y Divi](https://www.udemy.com/disena-tu-portafolio-web-con-wordpress-y-divi) (Udemy)
-* [Dominando Elementor desde Cero Vol.2](https://www.udemy.com/dominando-elementor-desde-cero-vol-2) (Udemy)
-* [Dominando Wordpress paso a paso y desde cero](https://www.udemy.com/dominando-wordpress-paso-a-paso-y-desde-cero) (Udemy)
-* [Dominando Wordpress sin programación](https://www.udemy.com/dominando-wordpress) (Udemy)
-* [Guía completa de de Wordpress](https://www.udemy.com/guia-completa-de-wordpress-aprende-a-crear-sitios-web) (Udemy)
-* [Wordpress+Brizy+Canva: Conviértete en diseñador web](https://www.udemy.com/curso-brizy) (Udemy)
-* [Wordpress con Thrive Content Builder](https://www.udemy.com/revoluciona-tu-blog-wordpress-con-thrive-content-builder) (Udemy)
-* [Wordpress desde cero (nivel básico)](https://www.udemy.com/wordpress-desde-cero-nivel-basico) (Udemy)
-* [Wordpress desde cero (nivel avanzado)](https://www.udemy.com/wordpress-desde-cero-nivel-avanzado) (Udemy)
-* [Wordpress en español desde cero](https://www.youtube.com/playlist?list=PLmIEoKACpcDy5XGw_v7RFxRQ04cvXCF40) (Lievano San, Youtube)
-* [Wordpress para principiantes](https://www.udemy.com/wordpress-diegocmartin/%5D#wordpress) (Udemy)
-* [Wordpress y Visual composer, creando WP fácil y rápido](https://www.udemy.com/crea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido) (Udemy)
-* [Wordpress. Curso completo, hazte un experto](https://www.udemy.com/crearblogwordpress) (Udemy)
-* [Wordpress. Introducción práctica a Gutenberg el nuevo editor](https://www.udemy.com/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor) (Udemy)
+* [Ajax en Wordpress para desarrolladores web, nivel avanzado](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fajax-para-wordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* Paso a Pago 😿 [Aprende a crear una página web profesional con Wordpress](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-crear-tu-pagina-web-profesional-con-wordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Aprende Brizy en Wordpress: Diseña tu página web en 2 horas](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcursobrizy%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Aprende Wordpress de forma sencilla](https://miriadax.net/web/aprende-wordpress-de-forma-sencilla-8-edicion-/){:target="_blank" rel="nofollow,noreferrer"} (MiriadaX)
+* [Aprende a crear tu página web con Wordpress](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faprende-a-crear-tu-pagina-web-con-wordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Como crear un theme para Wordpress desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yUwYp_ueyulofOhRBKYa4j-){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
+* [Crea tu blog con Wordpress](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-tu-blog-con-wordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Curso online gratuito para crear páginas en WordPress](https://www.crehana.com/es/cursos-online-diseno-web/curso-online-gratuito-para-crear-paginas-en-wordpress/?keyword=wordpress){:target="_blank" rel="nofollow,noreferrer"} (Crehana)
+* [Crear temas para Wordpress utilizando Bootstrap 4](https://www.youtube.com/playlist?list=PLPl81lqbj-4KuiW_p8OejglqTEHmfeEto){:target="_blank" rel="nofollow,noreferrer"} (Bluuweb!, YouTube)
+* [Curso completo de Wordpress desde cero](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWMco69NRWxwIww844JN9yl){:target="_blank" rel="nofollow,noreferrer"} (Falcon Masters, Youtube)
+* [Diseña tu portfolio web con Wordpress y Divi](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdisena-tu-portafolio-web-con-wordpress-y-divi%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Dominando Elementor desde Cero Vol.2](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdominando-elementor-desde-cero-vol-2%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Dominando Wordpress paso a paso y desde cero](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdominando-wordpress-paso-a-paso-y-desde-cero%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Dominando Wordpress sin programación](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdominando-wordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Guía completa de de Wordpress](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fguia-completa-de-wordpress-aprende-a-crear-sitios-web%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Wordpress + Brizy + Canva: Conviértete en diseñador web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcurso-brizy%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Wordpress en español desde cero](https://www.youtube.com/playlist?list=PLmIEoKACpcDy5XGw_v7RFxRQ04cvXCF40){:target="_blank" rel="nofollow,noreferrer"} (UpEmpresa Tutoriales, Youtube)
+* [Wordpress Gutenberg: Introducción al nuevo editor](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwordpress-editor-gutenberg%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Wordpress y Visual composer, creando WP fácil y rápido](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrea-tu-blog-con-wordpress-y-visual-composer-facil-y-rapido%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* Paso a Pago 😿 [Wordpress. Curso completo, hazte un experto](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcrearblogwordpress%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
+* [Wordpress. Introducción práctica a Gutenberg el nuevo editor](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwordpress-introduccion-practica-a-gutenberg-el-nuevo-editor%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ## Web Scraping 🕸
 
