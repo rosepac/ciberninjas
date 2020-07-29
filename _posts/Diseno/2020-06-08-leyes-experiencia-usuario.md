@@ -27,33 +27,67 @@ Las Leyes de Experiencia de Usuario, son una colección de los principios y las 
 > 🔥 Seguro también te interesa: [Mejores Blogs de Diseño](/blogs-diseno-grafico-espanol/) >> [Mejores Blogs en Inglés](/blogs-diseno-grafico-ingles/) >> [Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) >> [Cursos Animación y Diseño](/cursos-animacion-diseno/)
 {: .notice--danger}
 
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/leyes-ux-experiencia-usuario/#1-efecto-de-usabilidad-estética">1. Efecto de Usabilidad Estético</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#2-umbral-doherty"></a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#3-ley-de-fitts">3. Ley de Fitts</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#4-ley-de-hick">4. Ley de Hick</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#5-ley-de-jakob">5. Ley de Jakob</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#6-ley-de-la-región-común">6. Ley de la Región Común</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#7-ley-de-prägnanz">7. Ley de Prägnanz</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#8-ley-de-la-proximidad">8. Ley de la Proximidad</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#9-ley-de-similitud">9. Ley de la Similitud</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#10-ley-de-la-conectividad-uniforme">10. Ley de la Conectividad Uniforme</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#11-ley-de-miller">11. Ley de Miller</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#12-la-navaja-de-occam">12. La Navaja de Occam</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#13-el-principio-de-pareto">13. El Principio de Pareto</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#14-ley-de-parkinson">14. Ley de Parkinson</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#15-regla-de-fin-de-pico">15. Regla de Fin de Pico</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#16-ley-de-postel">16. Ley de Postel</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#17-efecto-del-posicionamiento-en-serie">17. Efecto del Posicionamiento en Serie</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#18-ley-de-tesler">18. Ley de Tesler</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#19-efecto-von-restorff">19. Efecto Von Restorff</a></li>
-    <li><a href="/leyes-ux-experiencia-usuario/#20-efecto-zeigarnik">20. Efecto Zeigarnik</a></li>
-  </ol>
-</nav>
-</details>
+- [1. **Efecto de usabilidad estética**](#1-efecto-de-usabilidad-estética)
+  - [**Orígenes**](#orígenes)
+  - [**Artículos sobre la Usabilidad Estética**](#artículos-sobre-la-usabilidad-estética)
+- [2. **Umbral Doherty**](#2-umbral-doherty)
+  - [**Orígenes**](#orígenes-1)
+  - [**Artículos sobre el umbral Doherty**](#artículos-sobre-el-umbral-doherty)
+- [3. **Ley de Fitts**](#3-ley-de-fitts)
+  - [**Orígenes**](#orígenes-2)
+  - [**Artículos sobre Ley de Fitts**](#artículos-sobre-ley-de-fitts)
+- [4. **Ley de Hick**](#4-ley-de-hick)
+  - [**Orígenes**](#orígenes-3)
+  - [**Artículos sobre la Ley de Hick**](#artículos-sobre-la-ley-de-hick)
+- [5. **Ley de Jakob**](#5-ley-de-jakob)
+  - [**Orígenes**](#orígenes-4)
+  - [**Artículos sobre la Ley de Jakob**](#artículos-sobre-la-ley-de-jakob)
+- [6. **Ley de la Región Común**](#6-ley-de-la-región-común)
+  - [**Orígenes**](#orígenes-5)
+  - [**Artículos sobre la Región Común**](#artículos-sobre-la-región-común)
+- [7. **Ley de Prägnanz**](#7-ley-de-prägnanz)
+  - [**Orígenes**](#orígenes-6)
+  - [**Artículos sobre la Ley de Prägnanz**](#artículos-sobre-la-ley-de-prägnanz)
+- [8. **Ley de la Proximidad**](#8-ley-de-la-proximidad)
+  - [**Orígenes**](#orígenes-7)
+  - [**Artículos sobre la Ley de la Proximidad**](#artículos-sobre-la-ley-de-la-proximidad)
+- [9. **Ley de Similitud**](#9-ley-de-similitud)
+  - [**Orígenes**](#orígenes-8)
+  - [**Artículos sobre la Ley de la Similitud**](#artículos-sobre-la-ley-de-la-similitud)
+- [10. **Ley de la Conectividad Uniforme**](#10-ley-de-la-conectividad-uniforme)
+  - [**Orígenes**](#orígenes-9)
+  - [**Artículos sobre la Ley de la Conectividad Uniforme**](#artículos-sobre-la-ley-de-la-conectividad-uniforme)
+- [11. **Ley de Miller**](#11-ley-de-miller)
+  - [**Orígenes**](#orígenes-10)
+  - [**Artículos sobre la Ley de Miller**](#artículos-sobre-la-ley-de-miller)
+- [12. **La navaja de Occam**](#12-la-navaja-de-occam)
+  - [**Orígenes**](#orígenes-11)
+  - [**Artículos sobre la Ley de Occam**](#artículos-sobre-la-ley-de-occam)
+- [13. **El Principio de Pareto**](#13-el-principio-de-pareto)
+  - [**Orígenes**](#orígenes-12)
+  - [**Artículos sobre El Principio de Pareto**](#artículos-sobre-el-principio-de-pareto)
+- [14. **Ley de Parkinson**](#14-ley-de-parkinson)
+  - [**Orígenes**](#orígenes-13)
+  - [**Artículos sobre la Ley de Parkinson**](#artículos-sobre-la-ley-de-parkinson)
+- [15. **Regla de Fin de Pico**](#15-regla-de-fin-de-pico)
+  - [**Orígenes**](#orígenes-14)
+  - [**Artículos sobre la Regla del Fin de Pico**](#artículos-sobre-la-regla-del-fin-de-pico)
+- [16. **Ley de Postel**](#16-ley-de-postel)
+  - [**Orígenes**](#orígenes-15)
+  - [**Artículos sobre La ley Postel**](#artículos-sobre-la-ley-postel)
+- [17. **Efecto del posicionamiento en serie**](#17-efecto-del-posicionamiento-en-serie)
+  - [**Orígenes**](#orígenes-16)
+  - [**Artículos sobre el Efecto de Posicionamiento en Serie**](#artículos-sobre-el-efecto-de-posicionamiento-en-serie)
+- [18. **Ley de Tesler**](#18-ley-de-tesler)
+  - [**Orígenes**](#orígenes-17)
+  - [**Artículos sobre la Ley de Tesler**](#artículos-sobre-la-ley-de-tesler)
+- [19. **Efecto Von Restorff**](#19-efecto-von-restorff)
+  - [**Orígenes**](#orígenes-18)
+  - [**Artículos sobre el Efecto Von Restorff**](#artículos-sobre-el-efecto-von-restorff)
+- [20. **Efecto Zeigarnik**](#20-efecto-zeigarnik)
+  - [**Orígenes**](#orígenes-19)
+  - [**Artículos sobre el Efecto Zeigarnik**](#artículos-sobre-el-efecto-zeigarnik)
+  - [Licencia](#licencia)
 
 ## 1. **Efecto de usabilidad estética**
 
