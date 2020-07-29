@@ -14,8 +14,6 @@ feature-img: /assets/img/paginas/wikininjas-test-1.jpg
 Además, se han ido incluyendo, **personajes históricos importantes dentro de la historia de la tecnología o el diseño** y que no son muy conocidos por la comunidad de habla hispana.
 
 Por último, he **agregado palabras, vocablos o técnicas de tecnología desconocidas** hasta el momento para mí, que me voy encontrando a raíz de la creación de las publicaciones que voy redactando dentro de Ciberninjas.
-
-Aquí tienes el índice de los contenidos que vas a poder encontrar..
 <!-- ## Artículos -->
 <!-- [Ciborg](/wiki/ciborg) -->
 <!-- ## Artículos Por Desarrollar - Ciborg -->
