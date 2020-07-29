@@ -14,7 +14,7 @@ header_text: 'Jardín Digital del Saber Binario'
 header_feature_image: 'assets/img/jardin-digital-1024.webp'
 footer_text: >
   © 2020 Ciberninjas. Recursos de Programación, Diseño y Tecnología
-  Desarrollado con 😻 sobre Jekyll y [Type on Strap](https://github.com/sylhare/Type-on-Strap){:target="_blank" rel="nofollow,noreferrer"}
+  Desarrollado desde Asturias. Con Jekyll y <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="nofollow,noreferrer">Type on Strap</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
