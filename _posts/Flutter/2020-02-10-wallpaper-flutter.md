@@ -3,14 +3,11 @@
 author: rosepac
 bootstrap: true
 title: "▷ Los Mejores Wallpaper de Flutter 2020"
-description: >-
-  🚀 Flutter es una tecnología con la que desarrollar aplicaciones iOS y Android con Flutter y que es tendencia este año. Aquí tienes los mejores fondos de pantalla para tu ordenador
-excerpt: >-
-  🚀 Flutter es una tecnología con la que desarrollar aplicaciones iOS y Android con Flutter y que es tendencia este año. Aquí tienes los mejores fondos de pantalla para tu ordenador
+description: 🚀 Flutter es una tecnología con la que desarrollar aplicaciones iOS y Android con Flutter y que es tendencia este año. Aquí tienes los mejores fondos de pantalla para tu ordenador
+excerpt: 🚀 Flutter es una tecnología con la que desarrollar aplicaciones iOS y Android con Flutter y que es tendencia este año. Aquí tienes los mejores fondos de pantalla para tu ordenador
 published: true
 comments: false
 date: 2020-07-30 14:50:12
-last_modified_at: 
 thumbnail: /assets/img/wallpaper/flutter/flutter-wallpaper-collage.webp
 feature-img: /assets/img/wallpaper/flutter/flutter-wallpaper-collage.webp
 permalink: /wallpaper-flutter/
@@ -28,18 +25,18 @@ A veces, los desarrolladores nos enganchamos tanto con una tecnología que llega
 
 ¡A disfrutar!
 
-**Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow,noreferrer"}
+> **Saber Más**: [Qué es Flutter SDK](/que-es-flutter-y-por-que-debes-aprenderlo/), [Cómo aprender Flutter en 2020](/como-aprender-flutter/), [Wallpapers de Flutter](/wallpaper-flutter/), [Productos de Flutter](https://ciberninjas.redbubble.com){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--primary}
 
-![Fondo de pantalla de una aplicación Flutter con fondo en blanco y azul, visto en Ciberninjas](/assets/img/wallpaper/flutter/flutter_entradas_pantalla_blog.web "Fondo de pantalla de una aplicación Flutter con fondo en blanco y azul, visto en Ciberninjas")
+![Fondo de pantalla de una aplicación Flutter con fondo en blanco y azul, visto en Ciberninjas](/assets/img/wallpaper/flutter/flutter_entradas_pantalla_blog.webp "Fondo de pantalla de una aplicación Flutter con fondo en blanco y azul, visto en Ciberninjas")
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/B4QGGCS){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Fondo de pantalla que muestra cuatro pilares básicos en el trabajo con Flutter, visto en Ciberninjas](/assets/img/wallpaper/flutter/flutter-4-pilares.web "Fondo de pantalla que muestra cuatro pilares básicos en el trabajo con Flutter, visto en Ciberninjas")
+![Fondo de pantalla que muestra cuatro pilares básicos en el trabajo con Flutter, visto en Ciberninjas](/assets/img/wallpaper/flutter/flutter-4-pilares.webp "Fondo de pantalla que muestra cuatro pilares básicos en el trabajo con Flutter, visto en Ciberninjas")
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/59dbpc9){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Desarrolladores creando una aplicación con Flutter, visto en Ciberninjas](/assets/img/wallpaper/flutter/flutter-trabajadores.web "Desarrolladores creando una aplicación con Flutter, visto en Ciberninjas")
+![Desarrolladores creando una aplicación con Flutter, visto en Ciberninjas](/assets/img/wallpaper/flutter/flutter-trabajadores.webp "Desarrolladores creando una aplicación con Flutter, visto en Ciberninjas")
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/59dbpc9){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -53,7 +50,7 @@ A veces, los desarrolladores nos enganchamos tanto con una tecnología que llega
 
 [☕ Las mejores tazas, y mucho más productos de Flutter, ¡Exclusivo para adictos a Flutter!](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Wallpaper de flutter realizado con varios wallpaper, creado por Ciberninjas](/assets/img/wallpaper/flutter/flutter-wallpaper-collage.web "Wallpaper de flutter realizado con varios wallpaper, creado por Ciberninjas")
+![Wallpaper de flutter realizado con varios wallpaper, creado por Ciberninjas](/assets/img/wallpaper/flutter/flutter-wallpaper-collage.webp "Wallpaper de flutter realizado con varios wallpaper, creado por Ciberninjas")
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/B4QGGCS){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
