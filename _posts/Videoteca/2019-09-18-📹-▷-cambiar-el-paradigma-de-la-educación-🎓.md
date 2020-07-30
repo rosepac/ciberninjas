@@ -17,8 +17,6 @@ canonical_URL: https://ciberninjas.com/cambiar-el-paradigma-de-la-educaci%C3%B3n
 
 Este RSA Animate fue adaptado de una charla dada en la RSA por Sir Ken Robinson, experto en educaci&oacute;n y creatividad de renombre mundial y ganador del premio Benjam&iacute;n Franklin de la RSA.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z78aaeJR8no" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/8u51ZY2a3Sc?rel=0" allowfullscreen></iframe>
 </div><br/>
