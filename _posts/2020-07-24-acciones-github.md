@@ -90,7 +90,7 @@ Entre las cientos de acciones que existen, puedes encontrar acciones para implem
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/LcCSGdmVO74?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 ## **Acciones de Github seleccionadas**
 

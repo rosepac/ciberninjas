@@ -48,7 +48,7 @@ Lo comprobaré
  
 ¡Proceda!
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Exposición A: Aquí hay un teléfono moderno, ¿lo reconoce?
 Aquí hay un teléfono de hace 150 años
@@ -65,7 +65,7 @@ pero con evidencia como esta
 debo de preguntar:
 ¿Preparas a los estudiantes para el futuro o para el pasado?
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Te hice una verificación de antecedentes
 Y los récords muestran que fuiste creada para entrenar a personas para trabajar en fábricas
@@ -90,7 +90,7 @@ críticamente,
 independientemente
 con la habilidad de conectarse
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Veras, todo científico te dirá que no hay dos cerebros iguales
 Y cada padre con dos o más hijos confirmara esto
@@ -102,7 +102,7 @@ O con gorras de snapback, con mierda de “una sola talla”
  
 ¡Disculpe su Señoría!
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Pero si un doctor recetara la misma medicina a todos sus pacientes
 El resultado sería trágico
@@ -122,7 +122,7 @@ Esta puede ser una de las peores ofensas criminales que se hayan cometido
 
 Y vamos a mencionar la manera en la que tratas a tus empleados
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ¡Objeción!
 Objeción anulada. ¡Quiero escuchar esto!
@@ -136,7 +136,7 @@ Los maestros deben de ser pagados tanto como los doctores
 Porque un doctor puede hacer cirugía de corazón y salvar la vida de un niño
 Pero un buen maestro puede llegar al corazón de un niño y dejarlo vivir verdaderamente
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Verán, los maestros son héroes que usualmente son culpados
 Pero ellos no son el problema
@@ -183,7 +183,7 @@ Escuelas como Montessori
 Programas como La Academia Khan
 No existe una sola solución.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Pero hay que movernos porque mientras solo el 20% de la población son estudiantes
 100% de ellos son nuestro futuro
@@ -195,4 +195,4 @@ A las pruebas me remito, no hay mas preguntas.
 
 > Fuente [Lyrics Translate](https://lyricstranslate.com) Transcripción por [lolaeocho](https://lyricstranslate.com/es/translator/lolaeocho)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

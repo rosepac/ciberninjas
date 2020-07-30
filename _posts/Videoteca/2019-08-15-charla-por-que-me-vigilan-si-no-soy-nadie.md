@@ -25,7 +25,7 @@ Cometemos tres errores: El primero es infravalorar la cantidad de información q
 
 Y es verdad que la NSA tiene el mayor acceso, los mejores recursos, las mejores herramientas, pero no les hace falta nada de eso para espiarnos a nosotros, porque nosotros lo tenemos todo ahí. Vivimos en casas de cristal.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Este es Malte Spitz, miembro del Partido Verde alemán, y en 2009, Malte le pidió a su compañía telefónica que le mandara todos los datos que tenía sobre él. Y la Deutsche Telekom, que era su compañía, le dijo que no.
 
@@ -37,7 +37,7 @@ A Malte le dieron seis meses como diciendo "esto es todo lo que tenemos porque n
 
 Entonces, Malte, que no podía leer máquina, se lo mandó a un semanario que a su vez, contactó con una agencia devisualización de datos para hacer algo con esto, ¿no? 
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Entonces ellos cogieron estos datos de Deustche Telekom y otros datos de Malte que eran públicos como, por ejemplo, de su cuenta de Twitter o de su blog. Y con esto hicieron este mapa que estáis viendo ahora, que más que un mapa, es como un diario automático y terrorífico de la vida de Malte.
 
@@ -47,7 +47,7 @@ Esto está en la Web, eh. Lo podéis ver.
 
 El motivo por el que pasa esto es que Malte tiene un teléfono en el bolsillo que cada cinco minutos hace un ping a la antena que tenga más cerca y le dice: "¿Tienes algo para mí? ¿Tengo algún correo? ¿Tengo algún mensaje de WhatsApp? ¿Ha pasado algo en el mundo?"
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Levantad la mano los que tenéis un teléfono en el bolsillo que hace lo mismo.
 
@@ -56,7 +56,7 @@ Entonces, nuestros teléfonos, cada cinco minutos, están diciendo: "estoy aquí
 El equivalente directo es esto que tenéis ahora en la pantalla. Esto es el perfil de una persona vigilada por la Stasi durante años. Es como una servilleta, ¿no?
 Con 46 post its ahí que incluyen a su tía, el lechero, el cura de su parroquia... Esto son cinco minutos en la vida de Malte Spitz, y esta información es automática. Y lo peor es que esto es solo la información sobre Malte, pero Malte está rodeado de gente como nosotros con teléfonos como el suyo, que están produciendo la misma información; y esa compañía los ve todos.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Esta es una foto de mi compañero Juanlu Sánchez; es una foto del 15-M. Pero veámosla desde el punto de vista de las telecomunicaciones. Esta plaza está llena de móviles. Con esos móviles podemos saber exactamente quién está en la plaza, casi como si pusiéramos un cordón alrededor, ¿no? Con nombres y apellidos. Y no solo sabemos cuándo han venido, de dónde han venido, con quién vienen, con quién se van, a quién llaman... Lo sabemos todo sobre ellos.
 
@@ -66,7 +66,7 @@ Entonces, si tenemos control sobre estas, digamos, telecomunicaciones, sobre est
 
 También podemos hacer lo que hizo el gobierno de Ucrania hace año y medio y mandarles un mensaje que ponga: "Queridos usuarios, ha sido usted registrado como partícipe en una manifestación ilegal masiva". No nos comportamos igual cuando sabemos que nos vigilan.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Desde Jeremy Bentham sabemos que la mejor manera de vigilar a una población es que no sepan cuándo los están vigilando y cuándo no.
 
@@ -80,7 +80,7 @@ No estamos hablando de lo que tenemos en la cartera.
 
 Hace 20 años, la base de datos personal más grande del mundo no la tenía la NSA, y no la tenía la Stasi, pobrecita; la tenía Walmart, la cadena de supermercados estadounidense. ¿Por qué? Porque cuando te dan una tarjeta de puntos, lo que estás haciendo es decirle a una empresa quién eres, dónde vives, cuánto ganas, en qué te lo gastas, qué comes, cuántos hijos tienes, cuándo te vas de vacaciones, cuándo te pones enfermo... Y todo con la esperanza de que, dentro de seis meses o de un año, si te gastas mucho dinero, te dan un tupper[ware]. (Risas)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Y no es distinto de lo que hacemos en la red, porque Deutsche Telekom es una empresa legítima y europea, que tiene que obedecer la Ley de Protección de Datos, igual que Telefónica.
 Telefónica, aquí, tiene que obedecer leyes de protección de datos, pero las empresas... no es lo mismo con las empresas que nos hacen los móviles, que nos hacen los sistemas operativos, que nos ofrecen correos "gratuitos", que nos dan esas apps que nos bajamos y que nos piden permiso para un montón de cosas raras y decimos: "Para algo lo querrán". Lo quieren para venderlo.
@@ -91,7 +91,7 @@ A nuestros vigilantes no les importa que no seamos nadie, que no seamos importan
 
 Puedes acabar atascado en el aeropuerto de uno de los 75 países donde ser homosexual es ilegal. O puedes acabar en un país donde echarle una foto a una farmacia de producción masiva desde el otro lado de la carretera es terrorismo; esto pasa en Estados Unidos.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 O puedes acabar en Siria, donde le pegan tiros a la gente en la calle; activistas, periodistas especialmente.
 
@@ -103,7 +103,7 @@ Querían saber cuántos protestantes, cuántos católicos y cuántos judíos ten
 
 ¿Qué pasa? Que cuando llegaron los nazis, ya tenían los deberes hechos. Solo el 10% de los judíos holandeses sobrevivieron a la Segunda Guerra Mundial.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Si esa base de datos no existiera, la cifra había sido muy distinta. Lo que quiero decir es que nuestro problema no es la NSA, y no son los gobiernos corruptos, y no son las compañías ambiciosas que quieren vender nuestros datos, y no son las personas malas, y no tiene nada que ver ni con sus intenciones ni con sus malas intenciones.
 
@@ -119,4 +119,4 @@ No solo por nosotros, porque además, este estado de vigilancia es una de las pe
 
 > Fuente: [TED Talks](https://www.ted.com/talks/marta_peirano_the_surveillance_device_you_carry_around_all_day)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

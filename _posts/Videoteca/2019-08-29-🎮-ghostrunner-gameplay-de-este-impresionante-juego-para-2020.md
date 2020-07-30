@@ -23,7 +23,7 @@ Conquista a tus enemigos en el mundo f&iacute;sico y en el ciberespacio. Busca r
 
 La torre est&aacute; desgarrada por la violencia, la pobreza y el caos. Conquista a tus enemigos, descubre los secretos de la superestructura y tu propio origen y obt&eacute;n el poder de desafiar a The Keymaster.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Historia
 
@@ -33,13 +33,13 @@ El mundo gobernado por The Keymaster es duro. El valor de una persona depende de
 
 No sorprende que comience una rebeli&oacute;n.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Eres un ciberguerrero, el &uacute;nico capaz de luchar tanto en el mundo f&iacute;sico como en el ciberespacio. Perdido y cazado, arrojado al medio del conflicto, debes usar este v&iacute;nculo con la tecnolog&iacute;a para ascender a la torre.
 
 A medida que asciendes, se revelan secretos. El reloj comienza a correr en una carrera para descubrir el misterio detr&aacute;s de la estructura que alberga la &uacute;ltima esperanza de la humanidad. Resuelve el acertijo o muere, no hay otra opci&oacute;n.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Visi&oacute;n del Juego
 
@@ -49,4 +49,4 @@ Cuando te das cuenta de que est&aacute;s siendo cazado por la tecnolog&iacute;a 
 
 La plataforma NVIDIA GeForce RTX fusiona las capacidades de Inteligencia Artificial, los sombreados de &uacute;ltima generaci&oacute;n y el trazado de rayos en tiempo real para que puedas experimentar los juegos de una manera completamente nueva.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

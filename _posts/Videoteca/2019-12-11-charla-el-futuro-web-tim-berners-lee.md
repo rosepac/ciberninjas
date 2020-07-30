@@ -22,4 +22,4 @@ En 2009 Tim Berners-Lee revisaba a través de esta charla de TEDx lo que sería 
 
 > Fuente: [TED Talks](https://www.ted.com/talks/tim_berners_lee_the_next_web)
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

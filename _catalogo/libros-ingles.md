@@ -46,13 +46,13 @@ img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 
 ## ⛓ Blockchain
 
-[Cadena de Bloques 🔗](/catalogo/libros-ingles/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/catalogo/libros-ingles/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fab fa-bitcoin"></i>](/catalogo/libros-ingles/#bitcoin-){: .btn .btn--inverse .btn--large}
+[Cadena de Bloques 🔗](/catalogo/libros-ingles/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/catalogo/libros-ingles/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>](/catalogo/libros-ingles/#bitcoin-){: .btn .btn--inverse .btn--large}
 
 ## Cadena de Bloques 🔗
 
 ## Criptomonedas 💰
 
-### Bitcoin <i class="fab fa-bitcoin"></i>
+### Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>
 
 * El Pequeño Libro de Bitcoin [Tapa Blanda](https://amzn.to/36YBmri){:target="_blank" rel="nofollow,noreferrer"} \ [Ebook](https://amzn.to/34X3n0m){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -80,9 +80,9 @@ img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 
 ## 👩‍💻 Desarrollo Web
 
-[Android <i class="fab fa-android"></i>](/catalogo/libros-ingles/#android-){: .btn .btn--inverse .btn--large} [PHP Framework <i class="fab fa-php"></i>](/catalogo/libros-ingles/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/catalogo/libros-ingles/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/catalogo/libros-ingles/#docker-){: .btn .btn--inverse .btn--large} [Lenguaje de Estilos y Preprocesadores 🎨](/catalogo/libros-ingles/#lenguaje-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/catalogo/libros-ingles/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/catalogo/libros-ingles/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/catalogo/libros-ingles/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/catalogo/libros-ingles/#swift-){: .btn .btn--inverse .btn--large}
+[Android <i class="fa fa-android" aria-hidden="true"></i>](/catalogo/libros-ingles/#android-){: .btn .btn--inverse .btn--large} [PHP Framework](/catalogo/libros-ingles/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/catalogo/libros-ingles/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/catalogo/libros-ingles/#docker-){: .btn .btn--inverse .btn--large} [Lenguaje de Estilos y Preprocesadores 🎨](/catalogo/libros-ingles/#lenguaje-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/catalogo/libros-ingles/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/catalogo/libros-ingles/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/catalogo/libros-ingles/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/catalogo/libros-ingles/#swift-){: .btn .btn--inverse .btn--large}
 
-## Android <i class="fab fa-android"></i>
+## Android <i class="fa fa-android" aria-hidden="true"></i>
 
 * [ANDROID STUDIO. Aprende a desarrollar aplicaciones](https://amzn.to/2LgDjFu){:target="_blank" rel="nofollow,noreferrer"}
 * [Aprende a programar con KOTLIN](https://amzn.to/2Lgibk1){:target="_blank" rel="nofollow,noreferrer"}
@@ -109,7 +109,7 @@ img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1092297375&linkId=0ef80eea956a1bddebd3b6df1b58a4ff"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1119550823&linkId=95f0581fcb4e7697ff97abe3b187bda4"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1080745076&linkId=574ef6c412542b2a283a8edacd1e5623"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1119612586&linkId=388e12469f7eb00833d31ed50a433c26"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1484249712&linkId=6d5c58203e07ae400f3ec953e480d257"></iframe>
 
-## PHP Framework <i class="fab fa-php"></i>
+## PHP Framework
 
 ### CodeIgniter
 
@@ -400,7 +400,7 @@ img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 
 ## Sistemas de Gestión de Contenidos ✍
 
-[Blogger](/cursos-tecnologia/#blogger){: .btn .btn--inverse .btn--large} [Drupal](/cursos-tecnologia/#drupal){: .btn .btn--inverse .btn--large} [Joomla](/cursos-tecnologia/#joomla){: .btn .btn--inverse .btn--large} [Moodle](/cursos-tecnologia/#moodle){: .btn .btn--inverse .btn--large} [Wordpress <i class="fab fa-wordpress"></i>](/cursos-tecnologia/#wordpress-){: .btn .btn--inverse .btn--large}
+[Blogger](/cursos-tecnologia/#blogger){: .btn .btn--inverse .btn--large} [Drupal](/cursos-tecnologia/#drupal){: .btn .btn--inverse .btn--large} [Joomla](/cursos-tecnologia/#joomla){: .btn .btn--inverse .btn--large} [Moodle](/cursos-tecnologia/#moodle){: .btn .btn--inverse .btn--large} [Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>](/cursos-tecnologia/#wordpress-){: .btn .btn--inverse .btn--large}
 
 ### Blogger
 
@@ -422,7 +422,7 @@ img: "https://i.ibb.co/6ZSWkCC/libros-y-sonrisas.jpg"
 ❗ CONTENIDOS PENDIENTES ❗
 {: .notice--warning}
 
-### Wordpress <i class="fab fa-wordpress"></i>
+### Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>
 
 [🔝 REGRESAR 🔝](/catalogo/libros-ingles/#page-title){: .btn .btn--inverse .btn--large .align-center}
 

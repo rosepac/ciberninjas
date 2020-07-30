@@ -23,7 +23,7 @@ canonical_URL: https://ciberninjas.com/reflexion-cada-adolescente-necesita-escuc
 
 ¡Esta es la segunda parte! Si TIENES dificultades con la confianza: -vídeo en inglés- [10 trucos / hacks](https://10confidencehacks.com/video-training "10 trucos con los que fortalecer tu confianza personal") con los que fortalecer tu confianza personal y reparar tu particular visión sobre la vida.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 <!-- ## Redacción -->
 
 <!-- Fuente [Lyrics Translate](https://lyricstranslate.com) Transcripción por [lolaeocho](https://lyricstranslate.com/es/translator/lolaeocho) -->

@@ -32,4 +32,4 @@ Actualmente colabora con la ACB en la campaña “Actuamos Contra el Bullying”
 **Fuente**\: [BBVA Aprendemos Juntos](https://aprendemosjuntos.elpais.com/archivo/)
 {: .notice--info}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

@@ -49,13 +49,13 @@ https://amzn.to/2TxtN52
 
 ## ⛓ Blockchain
 
-[Cadena de Bloques 🔗](/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fab fa-bitcoin"></i>](/libros/#bitcoin-){: .btn .btn--inverse .btn--large}
+[Cadena de Bloques 🔗](/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/libros/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>](/libros/#bitcoin-){: .btn .btn--inverse .btn--large}
 
 ## Cadena de Bloques 🔗
 
 ## Criptomonedas 💰
 
-### Bitcoin <i class="fab fa-bitcoin"></i>
+### Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>
 
 * El Pequeño Libro de Bitcoin [Tapa Blanda](https://amzn.to/36YBmri){:target="_blank" rel="nofollow,noreferrer"} \ [Ebook](https://amzn.to/34X3n0m){:target="_blank" rel="nofollow,noreferrer"}
 * [Los multimillonarios del Bitcoin: Una historia de dinero, traición y redención](https://amzn.to/2T6ZKly){:target="_blank" rel="nofollow,noreferrer"}
@@ -66,7 +66,7 @@ https://amzn.to/2TxtN52
 
 ## 🐧 Ecosistema de Código Abierto
 
-### Linux <i class="fab fa-linux"></i>
+### Linux <i class="fa fa-linux" aria-hidden="true"></i>
 
 
 ## 🕴 Empresa y Estrategia
@@ -107,9 +107,9 @@ https://amzn.to/2TxtN52
 
 ## 👩‍💻 Desarrollo Web
 
-[Android <i class="fab fa-android"></i>](/libros/#android-){: .btn .btn--inverse .btn--large} [PHP Framework <i class="fab fa-php"></i>](/libros/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/libros/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/libros/#docker-){: .btn .btn--inverse .btn--large} [Lenguaje de Estilos y Preprocesadores 🎨](/libros/#lenguaje-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/libros/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/libros/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/libros/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/libros/#swift-){: .btn .btn--inverse .btn--large}
+[Android <i class="fa fa-android" aria-hidden="true"></i>](/libros/#android-){: .btn .btn--inverse .btn--large} [PHP Framework](/libros/#php-framework-){: .btn .btn--inverse .btn--large} [CodeIgniter](/libros/#codeigniter){: .btn .btn--inverse .btn--large} [Docker <i class="fab fa-docker"></i>](/libros/#docker-){: .btn .btn--inverse .btn--large} [Lenguaje de Estilos y Preprocesadores 🎨](/libros/#lenguaje-de-estilos-y-preprocesadores-){: .btn .btn--inverse .btn--large} [Lenguajes de Marcado ✍](/libros/#lenguajes-de-marcado-){: .btn .btn--inverse .btn--large} [PhoneGap (Apache Cordoba)](/libros/#phonegap-apache-cordoba){: .btn .btn--inverse .btn--large} [Sistemas de Plantillas 🌱](/libros/#sistemas-de-plantillas-){: .btn .btn--inverse .btn--large} [Swift <i class="fab fa-apple"></i>](/libros/#swift-){: .btn .btn--inverse .btn--large}
 
-## Android <i class="fab fa-android"></i>
+## Android <i class="fa fa-android" aria-hidden="true"></i>
 
 * [El Gran Libro de Android - 7ª ED](https://amzn.to/2Pz5cOu){:target="_blank" rel="nofollow,noreferrer"} (2019)
 * [Desarrollo de aplicaciones para Android](https://amzn.to/2VaoniT){:target="_blank" rel="nofollow,noreferrer"} (2018)
@@ -123,7 +123,7 @@ https://amzn.to/2TxtN52
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ciberninjas07-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8494717022&linkId=e874cd4066972fa08858d0aad097796e"></iframe>
 
-## PHP Framework <i class="fab fa-php"></i>
+## PHP Framework
 
 ### CodeIgniter
 
@@ -282,7 +282,7 @@ https://amzn.to/2TxtN52
 
 [🔝 Regresar 🔝](/libros/#page-title){: .btn .btn--inverse .btn--large .align-center}
 
-## Python <i class="fab fa-python"></i>
+## Python
 
 * Analítica de Datos: Guía Definitiva Big Data [Tapa Blanda](https://amzn.to/2n1ofUg){:target="_blank" rel="nofollow,noreferrer"} \ [Ebook](https://amzn.to/- 2n1ofUg){:target="_blank" rel="nofollow,noreferrer"}
 * [Aprende A programar con Python](https://amzn.to/2oDRL2x){:target="_blank" rel="nofollow,noreferrer"}
@@ -477,7 +477,7 @@ https://amzn.to/2TxtN52
 
 ## Sistemas de Gestión de Contenidos ✍
 
-[Blogger](/cursos-tecnologia/#blogger){: .btn .btn--inverse .btn--large} [Drupal](/cursos-tecnologia/#drupal){: .btn .btn--inverse .btn--large} [Joomla](/cursos-tecnologia/#joomla){: .btn .btn--inverse .btn--large} [Moodle](/cursos-tecnologia/#moodle){: .btn .btn--inverse .btn--large} [Wordpress <i class="fab fa-wordpress"></i>](/cursos-tecnologia/#wordpress-){: .btn .btn--inverse .btn--large}
+[Blogger](/cursos-tecnologia/#blogger){: .btn .btn--inverse .btn--large} [Drupal](/cursos-tecnologia/#drupal){: .btn .btn--inverse .btn--large} [Joomla](/cursos-tecnologia/#joomla){: .btn .btn--inverse .btn--large} [Moodle](/cursos-tecnologia/#moodle){: .btn .btn--inverse .btn--large} [Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>](/cursos-tecnologia/#wordpress-){: .btn .btn--inverse .btn--large}
 
 ### Blogger
 
@@ -499,7 +499,7 @@ https://amzn.to/2TxtN52
 ❗ CONTENIDOS PENDIENTES ❗
 {: .notice--warning}
 
-### Wordpress <i class="fab fa-wordpress"></i>
+### Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>
 
 WordPress 5. La guía completa https://amzn.to/2PwkqkM
 

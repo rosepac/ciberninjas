@@ -74,7 +74,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 
 👉 ¿Cómo habilitar la autenticación de dos factores? ➛ [Entrar](https://kutt.it/eff-HabilitarDobleFactor "Cómo habilitar la autenticación de dos factores"){:target="_blank" rel="nofollow,noreferrer"}
 
-### **Herramientas Android <i class="fab fa-android"></i>**
+### **Herramientas Android <i class="fa fa-android" aria-hidden="true"></i>**
 
 👉 ¿Cómo usar KeePassXC? ➛ [Entrar](https://kutt.it/eff-KeepassXC "Cómo usar KeePassXC"){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -92,7 +92,7 @@ Además, podrás obtener información más detallada en otras secciones como las
 
 👉 ¿Cómo usar Tor en Windows? ➛ [Entrar](https://kutt.it/eff-UsarTorWindows "Cómo usar Tor en Windows"){:target="_blank" rel="nofollow,noreferrer"}
 
-### **Herramientas Linux <i class="fab fa-linux"></i>**
+### **Herramientas Linux <i class="fa fa-linux" aria-hidden="true"></i>**
 
 👉 ¿Cómo eliminar tu información privada de forma segura en Linux? ➛ [Entrar](https://kutt.it/eff-EliminarDatosLinux "Cómo eliminar tu información privada de forma segura en Linux"){:target="_blank" rel="nofollow,noreferrer"}
 

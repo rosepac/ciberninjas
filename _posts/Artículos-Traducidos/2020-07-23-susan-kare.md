@@ -167,7 +167,7 @@ Papert había trabajado con Piaget en la Universidad de Ginebra de 1958 a 1966 (
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/XIdOR9n398c?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 Pero mientras Papert adaptó las teorías de Piaget para enseñar programación infantil, su amigo y colega Alan Kay amplió este enfoque a 'Niños de todas las edades'.
 
@@ -181,7 +181,7 @@ Al igual que nuestros dispositivos contemporáneos, esta computadora educativa p
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/IwL3yXdupv0?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 Kay también fue una fuerza impulsora para refinar el concepto de hipervínculos y extenderlo a los gráficos: un precursor de la interfaz gráfica de usuario actual, que finalmente hizo que las computadoras personales fueran fáciles de entender y, por lo tanto, de usar, y las convirtió en un producto masivo.
 
@@ -220,7 +220,7 @@ Al mismo tiempo, las personas también necesitan tomar la tecnología en sus pro
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/IzEl3Egud4Y?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 > Puedes activar la traducción automática de Youtube.
 

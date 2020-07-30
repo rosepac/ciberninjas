@@ -1185,7 +1185,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 
 - [Guía oficial gratuita en línea para el marco de Apache Wicket](https://wicket.apache.org/learn/#guide)
 
-## <i class="fab fa-js"></i> JavaScript
+## JavaScript
 
 - [JavaScript básico para el programador impaciente](https://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer
 - [Libro de herramientas modernas de frontend](https://github.com/tooling/book-of-modern-frontend-tooling)
@@ -1636,7 +1636,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Think Perl 6](https://greenteapress.com/thinkperl6/thinkperl6.pdf) - Laurent Rosenfeld, con Allen B. Downey (PDF)
 - [Usando Perl 6](https://github.com/perl6/book/) (🚧 *proyecto está muerto* )
 
-## PHP <i class="fab fa-php"></i>
+## PHP
 
 - CakePHP Framework
 	- [CakePHP Cookbook 2.x](https://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
@@ -1668,7 +1668,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 - [Pruebas prácticas de PHP](https://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 - [Sobrevivir al extremo profundo: seguridad PHP](https://phpsecurity.readthedocs.org/en/latest/)
 
-## PHP Frameworks <i class="fab fa-php"></i>
+## PHP Frameworks
 
 ### Symfony
 
@@ -1751,7 +1751,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 
 - [PureScript por ejemplo](https://leanpub.com/purescript/read) - Phil Freeman
 
-## Python <i class="fab fa-python"></i>
+## Python
 
 - [20 bibliotecas de Python que no estas utilizando (pero deberías)](https://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp) (dirección de correo electrónico *solicitada* , no requerida)
 
@@ -1940,7 +1940,7 @@ img: /assets/img/paginas/revistas-alternativas.webp
 
 - [Web2py: Complete Reference Manual, 6th Edition (pre-release)](https://web2py.com/book) (2.5 - 2.x)
 
-## Python Frameworks <i class="fab fa-python"></i>
+## Python Frameworks
 
 ### Django
 

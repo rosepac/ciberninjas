@@ -23,13 +23,13 @@ Este RSA Animate fue adaptado de una charla dada en la RSA por Sir Ken Robinson,
 
 La RSA es una organizaci&oacute;n ben&eacute;fica de 258 a&ntilde;os dedicada a impulsar el progreso social y difundir ideas que cambian el mundo.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Este audio ha sido editado del evento original por Becca Pyne. Serie producida por Abi Stephenson, RSA.
 
 La animaci&oacute;n es creada por: Andrew Park, el autor intelectual de la serie "Animate" y la mano peluda favorita de todos, que nos habla sobre su atractivo y su &eacute;xito en su publicaci&oacute;n de blog, ['Talk to the hand / Hablando con la mano'](http://www.thersa.org/talk-to-the-hand/ "Talk to the hand").
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## ✍ Redacci&oacute;n
 
@@ -41,7 +41,7 @@ La segunda raz&oacute;n es cultural, cada pa&iacute;s est&aacute; tratando de en
 
 &iquest;C&oacute;mo cuadrar ese c&iacute;rculo?
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 El problema es que tratan de llegar al futuro haciendo lo que hicieron en el pasado, y alienando de esa manera a millones de ni&ntilde;os que no le ven el prop&oacute;sito de ir a la escuela.
 
@@ -57,7 +57,7 @@ S&iacute;, realmente deber&iacute;amos.
 
 &iquest;Por qu&eacute; los bajar&iacute;as?
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Me he encontrado con un argumento que los persuade de bajarlos. Pero elevarlos, por supuesto que hay que elevarlos.
 
@@ -67,7 +67,7 @@ Fue concebido en la cultura intelectual de la ilustraci&oacute;n, y en las circu
 
 Antes de mediados del siglo XIX no hab&iacute;a sistema educativo p&uacute;blico, realmente no, pod&iacute;as ser educado por los jesuitas, es decir, si ten&iacute;as el dinero.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Pero la educaci&oacute;n p&uacute;blica pagada por los impuestos obligatoria para todos y de distribuci&oacute;n gratuita era una idea revolucionaria.
 
@@ -79,7 +79,7 @@ Dirigido por un imperativo econ&oacute;mico de la &eacute;poca manejado directam
 
 La verdadera inteligencia consiste en nuestras capacidades de razonamiento deductivo y el conocimiento de los cl&aacute;sicos y sus nombres, lo que vinimos a pensarlo como habilidad acad&eacute;mica.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Y esto est&aacute; en los profundo de los genes de la educaci&oacute;n p&uacute;blica que realmente hay 2 clases de personas: acad&eacute;micas y no acad&eacute;micas, gente inteligente y no inteligente.
 
@@ -93,7 +93,7 @@ Esta es la epidemia moderna y es tan inapropiada como ficticia.
 
 Este es el juego del TDAH. Ahora, este es un mapa de TDAH en EEUU o de medicaci&oacute;n para TDAH.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 No me malinterpreten, no quiero decir que no existe el Trastorno por D&eacute;ficit de Atenci&oacute;n e Hiperactividad, no estoy calificado para afirmar tal cosa.
 
@@ -107,7 +107,7 @@ Nuestros ni&ntilde;os est&aacute;n viviendo el per&iacute;odo de est&iacute;mulo
 
 Est&aacute;n siendo asediados por informaci&oacute;n que llama su atenci&oacute;n, de cada plataforma, computadoras, de los Iphones, de avisos publicitarios, de cientos de canales de televisi&oacute;n.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Y por eso penalizados, porque se distraen. &iquest;De qu&eacute;? De cosas aburridas, la mayor parte de la escuela. ME parece que no es total coincidencia que el incremente de TDAH fue paralelo al incremento de los ex&aacute;menes estandarizados.
 
@@ -117,7 +117,7 @@ EN Oklahoma la gente comienza a perder inter&eacute;s. En Arkanas apenas pueden 
 
 Es una epidemia ficticia.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Si piensan en esto, el arte y no creo que sea exclusivo del arte, creo que tambi&eacute;n incluye las matem&aacute;ticas y las ciencias. Pero digo las artes particularmente porque son las v&iacute;ctimas de la mentalidad actual. Particularmente.
 
@@ -131,7 +131,7 @@ No debemos encerrarlos, debemos despertarlos a lo que est&aacute; dentro de ello
 
 Creo que tenemos una educaci&oacute;n que es modelada en inter&eacute;s del industrialismo y a semejanza de este.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Les dar&eacute; un par de ejemplos. Las escuelas est&aacute;n a&uacute;n organizadas con bastantes semejanzas a las f&aacute;bricas: toque de timbres, instalaciones separadas, materia separada especializada. Todav&iacute;a educamos a los ni&ntilde;os en grupos, los ingresamos al sistema por grupos de edad. <!-- La separación en las escuelas por grupos de edad, es probable que haga que seamos más despegados respecto a personas de otras edades? :O  -->
 
@@ -139,7 +139,7 @@ Les dar&eacute; un par de ejemplos. Las escuelas est&aacute;n a&uacute;n organiz
 
 Es como si lo m&aacute;s importante fuera la fecha de fabricaci&oacute;n.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Conozco ni&ntilde;os que son mucho mejor que otros ni&ntilde;os de su misma edad en diferentes disciplinas, o en diferentes momentos del d&iacute;a, o mejores en peque&ntilde;os grupos que en grandes grupos, o a&uacute;n por su propia cuenta.
 
@@ -151,7 +151,7 @@ Hay un gran estudio reciente (2008) sobre el Pensamiento Divergente publicado ha
 
 He definido la creatividad como el proceso de tener ideas originales que tienen valor. El pensamiento divergente no es un sin&oacute;nimo, pero ayuda.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Es una capacidad esencial para la creatividad, es la habilidad de ver muchas posibles respuestas a una pregunta, muchas formas de interpretar una pregunta, de pensar en lo que Ed Bono llam&oacute; "Pensamiento Lateral", de pensar, no s&oacute;lo de forma lineal o convergente, de ver m&uacute;ltiples respuestas y no s&oacute;lo una.
 
@@ -161,7 +161,7 @@ La mayor&iacute;a de la gente puede dar de 10 a 15, la gente buena en esto puede
 
 El test fue dado a 1.500 personas. Est&aacute; en un libro llamado "Break Point & Beyond" traducido como [M&aacute;s All&aacute; del Cambio: Dominando el Futuro, hoy](https://amzn.to/2Qf4zd7) de George Land y Beth Jarman. En lo pr&aacute;ctico del test, si superaba un cierto nivel eras considerado un genio en el Pensamiento Divergente.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Mi pregunta a esto es:
 
@@ -177,7 +177,7 @@ Pueden ver una tendencia. Esto nos cuenta una historia interesante. Porque puede
 
 Comienza no muy bien pero te vuelves mejor a medida que creces. Pero esto nos muestra 2 cosas. Uno: es que todos tenemos esta capacidad, y dos: en su mayor parte se deteriora.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Ahora, &iquest;Qu&eacute; pasa con estos chicos cuando crecen?
 
@@ -185,7 +185,7 @@ Una de las cosas que m&aacute;s convencido estoy es que para entonces, se vuelve
 
 Esto no es porque los maestros lo quieran as&iacute;, sino porque simplemente pasa as&iacute;.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Es porque est&aacute; en la reserva gen&eacute;tica de la educaci&oacute;n. Debemos pensar diferente sobre la capacidad humana, tenemos que superar esta vieja concepci&oacute;n, sobre lo acad&eacute;mico y lo no acad&eacute;mico, abstracto, te&oacute;rico, vocacional, y ver lo que es: un Mito.
 
@@ -196,4 +196,4 @@ Y en tercer lugar, es crucial por la cultura de nuestras instituciones los h&aac
 **Fuente**\: [Traducci&oacute;n y Subt&iacute;tulos](https://www.youtube.com/watch?v=Z78aaeJR8no) transcripci&oacute;n por [Ver&oacute;nica Vera](https://www.youtube.com/channel/UCYeMO7u_Jo2DiwajG964JJw)
 {: .notice--info}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

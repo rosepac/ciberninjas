@@ -222,14 +222,14 @@ Cursos en inglés: https://github.com/EbookFoundation/free-programming-books/blo
 
 - [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
 
-## PHP <i class="fab fa-php"></i>
+## PHP
 
 - [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Cinta de codificador (2019)
 - [Aprenda a programar: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
 - [Tutorial PHP y MySQL](https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b) - Los malos tutoriales (2015)
 - [Tutorial de lenguaje de programación PHP - Curso completo](https://www.youtube.com/watch?v=OK_JCtrrv-c) - freeCodeCamp.org (2018)
 
-## Python <i class="fab fa-python"></i>
+## Python
 
 - [Una introducción a la programación interactiva en Python (Parte 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
 - [Una introducción a la programación interactiva en Python (Parte 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
@@ -252,7 +252,7 @@ Cursos en inglés: https://github.com/EbookFoundation/free-programming-books/blo
 - [Tutorial de programación de Python](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 - [Python para Principiantes](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) (Youtube) (Microsoft)
 
-## Python Frameworks <i class="fab fa-python"></i>
+## Python Frameworks
 
 - [Descubre Flask - Desarrollo web completo con Flask](https://github.com/realpython/discover-flask)
 - [Tutorial de Flask (un microframe de Python)](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -347,7 +347,7 @@ Cursos en inglés: https://github.com/EbookFoundation/free-programming-books/blo
 - [Curso de choque rápido angular](https://www.udemy.com/angular-fast-crash-course/) - Edwin Díaz, Coding Faculty Solutions (Udemy)
 - [Formando con Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
-## Bootstrap <i class="fab fa-bootstrap"></i>
+## Bootstrap
 
 ## GraphQL
 

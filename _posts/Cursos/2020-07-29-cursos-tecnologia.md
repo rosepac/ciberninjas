@@ -442,6 +442,7 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 * [El editorde código Brackets](https://youtu.be/iMsV2TFdA0o){:target="_blank" rel="nofollow,noreferrer"} (Youtube, Aulaclick)
 * [Herramientas para el desarrollador web](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fherramientas-para-el-desarrollador-web%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 * [Instalar y Configurar el editor de texto Brackets](https://youtu.be/8YNVQ3dO0y4){:target="_blank" rel="nofollow,noreferrer"} (Youtube, J&G)
+* Introducción a VIM](https://www.youtube.com/playlist?list=PLqIfDO6ymlpbMpPJu8cN-1fNgEP9RyZcK){:target="_blank" rel="nofollow,noreferrer"} (Youtube)
 * [Visual Studio Code: Mejora tu velocidad para codificar](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvscode-mejora-tu-velocidad-para-codificar%2F){:target="_blank" rel="nofollow,noreferrer"} (Udemy)
 
 ### Navegadores
