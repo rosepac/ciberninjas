@@ -1,9 +1,9 @@
 ---
 author: rosepac
 bootstrap: true
-title: "\U0001F3A5 The Mandalorian - Trailer de la Nueva Serie de Star Wars"
-description: "\U0001F47D Trailer de la Nueva Serie basada en Star Wars creada por Disney: The Mandalorian"
-excerpt: "\U0001F47D Trailer de la Nueva Serie basada en Star Wars creada por Disney: The Mandalorian"
+title: "🎥 The Mandalorian - Trailer de la Nueva Serie de Star Wars"
+description: "Trailer de la Nueva Serie basada en Star Wars creada por Disney: The Mandalorian"
+excerpt: "Trailer de la Nueva Serie basada en Star Wars creada por Disney: The Mandalorian"
 thumbnail: https://i.ibb.co/wzFwb5H/star-wars-mandaloriano.gif
 comments: false
 date: 2019-08-29 00:00:00 +0200

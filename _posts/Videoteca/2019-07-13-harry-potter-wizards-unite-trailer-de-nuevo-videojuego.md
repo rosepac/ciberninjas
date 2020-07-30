@@ -2,8 +2,8 @@
 author: rosepac
 bootstrap: true
 title: "🎮 Trailer del nuevo videojuego basado en las películas de Harry Potter y similar al adictivo y famoso Pokemon Go"
-description: "🎮 Trailer del nuevo videojuego basado en las películas de Harry Potter y similar al adictivo y famoso Pokemon Go"
-excerpt: "🎮 Trailer del nuevo videojuego basado en las películas de Harry Potter y similar al adictivo y famoso Pokemon Go"
+description: "El nuevo videojuego basado en las películas de Harry Potter y similar al adictivo y famoso Pokemon Go"
+excerpt: "El nuevo videojuego basado en las películas de Harry Potter y similar al adictivo y famoso Pokemon Go"
 comments: false
 date: 2019-07-13 22:06:12
 tags:

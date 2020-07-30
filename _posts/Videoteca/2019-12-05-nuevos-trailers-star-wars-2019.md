@@ -2,8 +2,8 @@
 author: rosepac
 bootstrap: true
 title: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta ahora"
-description: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta ahora"
-excerpt: "🎥 Star Wars: The Rise of Skywalker, todo lo que hemos visto hasta ahora"
+description: "Trailer de la nueva película de Star Wars: The Rise of Skywalker"
+excerpt: "Trailer de la nueva película de Star Wars: The Rise of Skywalker"
 thumbnail: https://i.ibb.co/7nVGVkn/star-wars-2019-rise.gif
 comments: false
 date: 2019-12-05 01:06:12

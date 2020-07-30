@@ -2,8 +2,8 @@
 author: rosepac
 bootstrap: true
 title: "🎮 John Wick, el trailer del nuevo videojuego basado en la película"
-description: "🎮 John Wick, el trailer del nuevo videojuego basado en la película"
-excerpt: "🎮 John Wick, el trailer del nuevo videojuego basado en la película"
+description: "Trailer del videojuego John Wick, basado en la película del mismo nombre."
+excerpt: "Trailer del videojuego John Wick, basado en la película del mismo nombre."
 comments: false
 date: 2019-07-12 22:11:12
 tags:

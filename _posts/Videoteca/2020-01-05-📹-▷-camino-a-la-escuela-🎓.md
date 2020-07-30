@@ -1,9 +1,9 @@
 ---
 author: rosepac
 bootstrap: true
-title: "\U0001F4F9 ▷ Camino a la Escuela \U0001F393"
-description: "Camino a la escuela&#039; narra las adversidades que cuatro niños tienen que superar para ir al colegio"
-excerpt: "Camino a la escuela&#039; narra las adversidades que cuatro niños tienen que superar para ir al colegio"
+title: "👨‍🎓 ▷ Camino a la Escuela"
+description: "Camino a la escuela narra las adversidades que cuatro niños tienen que superar para ir al colegio"
+excerpt: "Camino a la escuela narra las adversidades que cuatro niños tienen que superar para ir al colegio"
 # header:
 #   video:
 #     id: Z78aaeJR8no

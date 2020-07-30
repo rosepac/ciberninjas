@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "🧠 Kim Peek: El Auténtico Rain Man"
+title: "🧠 Kim Peek/: El Auténtico Rain Man"
 description: "Kim Peek fue un sabio estadounidense, conocido como megasavant, que tenía una memoria excepcional pero también experimentó dificultades sociales."
 excerpt: "Kim Peek fue un sabio estadounidense, conocido como megasavant, que tenía una memoria excepcional pero también experimentó dificultades sociales."
 comments: false

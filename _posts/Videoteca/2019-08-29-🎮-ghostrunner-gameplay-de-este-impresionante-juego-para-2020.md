@@ -1,14 +1,15 @@
 ---
 author: rosepac
 bootstrap: true
-title: "\U0001F3AE  Ghostrunner, gameplay de este impresionante juego para 2020"
-description: "\U0001F47B Ghostrunner, gameplay de este impresionante juego para 2020"
-excerpt: "\U0001F47B  Ghostrunner, gameplay de este impresionante juego para 2020"
+title: "🎥 Ghostrunner, gameplay de este impresionante juego para 2020"
+description: "Gameplay del impresionante videojuego Ghostrunner 2020"
+excerpt: "Gameplay del impresionante videojuego Ghostrunner 2020"
 comments: false
 date: 2019-08-29 00:00:00 +0200
 tags:
   - Trailer Videojuegos
 permalink: /gameplay-ghostrunner/
+canonical_URL: https://ciberninjas.com/gameplay-ghostrunner/
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

@@ -1,6 +1,6 @@
 ---
 author_profile: false
-title: "Mr. Robot: Trailer de la Nueva y Última Temporada"
+title: "Mr. Robot/: Trailer de la Nueva y Última Temporada"
 description: "La 4 temporada de Mr. Robot se estrenará el domingo 6 de octubre"
 excerpt: "La 4 temporada de Mr. Robot se estrenará el domingo 6 de octubre"
 comments: false

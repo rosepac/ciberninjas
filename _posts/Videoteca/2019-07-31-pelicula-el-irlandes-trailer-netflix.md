@@ -2,8 +2,8 @@
 author: rosepac
 bootstrap: true
 title: "🎥 El Irlandés - La Nueva Gran Película de Netflix y Martin Scorsese sobre la Mafía Americana"
-description: "🎥 El Irlandés - La Nueva Gran Película de Netflix y Martin Scorsese sobre la Mafía Americana"
-excerpt: "🎥 El Irlandés - La Nueva Gran Película de Netflix y Martin Scorsese sobre la Mafía Americana"
+description: "El Irlandés - La Nueva Gran Película de Netflix y Martin Scorsese sobre la Mafía Americana"
+excerpt: "El Irlandés - La Nueva Gran Película de Netflix y Martin Scorsese sobre la Mafía Americana"
 thumbnail: https://i.ibb.co/ZBSfzqX/pelicula-el-irlandes.gif
 comments: false
 date: 2019-07-20 22:06:12

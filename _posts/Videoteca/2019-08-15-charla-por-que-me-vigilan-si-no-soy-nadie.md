@@ -1,9 +1,9 @@
 ---
 author: rosepac
 bootstrap: true
-title: "📹 ¿Por qué me vigilan, si no soy nadie? 🔐"
-description: "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano.."
-excerpt: "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano.."
+title: "📹 ¿Por qué me vigilan, si no soy nadie?"
+description: "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano."
+excerpt: "¿Por qué alguien me estaría mirando? No soy nadie. Si esta es su contribución a las conversaciones sobre vigilancia masiva, la periodista tecnológica Marta Peirano."
 comments: false
 canonical_URL: https://ciberninjas.com/charla-por-que-me-vigilan-si-no-soy-nadie/
 date: 2019-08-15 08:10:02

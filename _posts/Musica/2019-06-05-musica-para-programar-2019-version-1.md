@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "📻 Música para programar 2019: Versión 1"
+title: "📻 Música para programar 2020/: Versión 1"
 description: "Las mejores canciones con las que concentrarte a la hora de programar, desde la música más actual a canciones de lo más clásicos."
 excerpt: "Las mejores canciones con las que concentrarte a la hora de programar, desde la música más actual a canciones de lo más clásicos."
 permalink: /musica-para-programar-2019-version-1/

@@ -1,9 +1,9 @@
 ---
 author: rosepac
 bootstrap: true
-title: "\U0001F4F9 ▷ Cambiar el Paradigma de la Educación \U0001F393"
-description: "\U0001F393 Sir Ken Robinson \U0001F468‍\U0001F3EB trata el tema del estancamiento de la educación del Siglo XIX, y el pensamiento divergente"
-excerpt: "\U0001F393 Sir Ken Robinson \U0001F468‍\U0001F3EB trata el tema del estancamiento de la educación del Siglo XIX, y el pensamiento divergente"
+title: "👨‍🎓 ▷ Cambiar el Paradigma de la Educación"
+description: "Sir Ken Robinson, trata el tema del estancamiento de la educación del Siglo XIX, y el pensamiento divergente"
+excerpt: "Sir Ken Robinson, trata el tema del estancamiento de la educación del Siglo XIX, y el pensamiento divergente"
 comments: false
 date: 2019-09-18 00:00:00 +0200
 tags:

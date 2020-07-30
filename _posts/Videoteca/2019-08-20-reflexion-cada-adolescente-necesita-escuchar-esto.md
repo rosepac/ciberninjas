@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "📹 Cada Adolescente NECESITA Escuchar Esto 🎒"
+title: "📹 Cada Adolescente NECESITA Escuchar Esto"
 description: "Cada Adolescente NECESITA Escuchar Esto, mensaje reflexivo hacía la vida actual de los adolescentes y la mirada de la sociedad sobre ellos"
 excerpt: "Cada Adolescente NECESITA Escuchar Esto, mensaje reflexivo hacía la vida actual de los adolescentes y la mirada de la sociedad sobre ellos"
 comments: false

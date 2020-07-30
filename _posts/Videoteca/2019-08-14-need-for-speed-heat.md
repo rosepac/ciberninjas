@@ -2,8 +2,8 @@
 author: rosepac
 bootstrap: true
 title: "🎮  Need for Speed™ Heat"
-description: "🎮  Need for Speed™ Heat"
-excerpt: "🎮  Need for Speed™ Heat"
+description: "Trailer del videojuego Need for Speed Heat"
+excerpt: "Trailer del videojuego Need for Speed Heat"
 comments: false
 date: 2019-08-14 22:06:12
 tags:

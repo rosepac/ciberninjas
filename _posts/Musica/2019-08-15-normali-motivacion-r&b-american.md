@@ -1,9 +1,9 @@
 ---
 author: rosepac
 bootstrap: true
-title: "🎧 Normani: Motivation - R & B Americano"
-description: "Normani es una cantante y bailarina, nacida artísticamente, en el año 2012 tras su aparición en el show de televisión estadounidense Factor X."
-excerpt: "Normani es una cantante y bailarina, nacida artísticamente, en el año 2012 tras su aparición en el show de televisión estadounidense Factor X."
+title: '🎧 Normani/: Motivation - R & B Americano'
+description: 'Normani es una cantante y bailarina, nacida artísticamente, en el año 2012 tras su aparición en el show de televisión estadounidense Factor X.'
+excerpt: 'Normani es una cantante y bailarina, nacida artísticamente, en el año 2012 tras su aparición en el show de televisión estadounidense Factor X.'
 comments: false
 date: 2019-08-15 23:11:12
 tags:

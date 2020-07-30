@@ -1,9 +1,9 @@
 ---
 author: rosepac
 bootstrap: true
-title: "🎧 Eminem: El rapero estadounidense más importante de la épopca moderna"
-description: "Eminem es el rapero que más discos ha vendido en toda la historia. Además, del reinventor del género del rap."
-excerpt: "Eminem es el rapero que más discos ha vendido en toda la historia. Además, del reinventor del género del rap."
+title: '🎧 Eminem/: El rapero estadounidense más importante de la épopca moderna'
+description: 'Eminem es el rapero que más discos ha vendido en toda la historia. Además, del reinventor del género del rap.'
+excerpt: 'Eminem es el rapero que más discos ha vendido en toda la historia. Además, del reinventor del género del rap.'
 comments: false
 date: 2019-10-11 21:20:12
 tags:

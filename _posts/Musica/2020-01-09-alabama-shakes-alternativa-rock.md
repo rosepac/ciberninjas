@@ -1,9 +1,9 @@
 ---
 author: rosepac
 bootstrap: true
-title: "🎧 Alabama Shakes - Grupo Estadounidense de Blues Rock"
-description: "Alabama Shakes es un grupo estadounidense de southern rock y blues-rock, formado en Athens, Alabama en 2009."
-excerpt: "Alabama Shakes es un grupo estadounidense de southern rock y blues-rock, formado en Athens, Alabama en 2009."
+title: '🎧 Alabama Shakes - Grupo Estadounidense de Blues Rock'
+description: 'Alabama Shakes es un grupo estadounidense de southern rock y blues-rock, formado en Athens, Alabama en 2009.'
+excerpt: 'Alabama Shakes es un grupo estadounidense de southern rock y blues-rock, formado en Athens, Alabama en 2009.'
 comments: false
 date: 2020-01-10 11:42:12
 tags:
