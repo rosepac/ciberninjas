@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "📹 Yo Denuncio al Sistema Educativo 🎓"
+title: "Reflexión: Yo Denuncio al Sistema Educativo"
 description: "Yo denuncio al Sistema Educativo, mensaje protesta contra la actual situación de los sistemas educativos y sus metodologías"
 excerpt: "Yo denuncio al Sistema Educativo, mensaje protesta contra la actual situación de los sistemas educativos y sus metodologías"
 comments: false
@@ -11,9 +11,15 @@ tags:
 - Reflexión
 - Sistema Educativo
 - Vídeo Educación
+permalink: /yo-denuncio-sistema-educativo/
+canonical_URL: https://ciberninjas.com/yo-denuncio-sistema-educativo/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G0Ece11tlvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/8u51ZY2a3Sc?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 ## Redacción
 

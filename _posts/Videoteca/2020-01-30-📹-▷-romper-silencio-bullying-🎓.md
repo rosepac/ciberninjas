@@ -11,9 +11,15 @@ tags:
   - Bullying
   - Acoso Escolar
   - Vídeo Educación
+permalink: /romper-silencio-bullying/
+canonical_URL: https://ciberninjas.com/romper-silencio-bullying/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gODzdiZ4Gj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/8u51ZY2a3Sc?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 Con 11 años, el exjugador de baloncesto Iñaki Zubizarreta medía casi dos metros y fue castigado en los recreos durante todo un curso escolar, porque según la profesora, “por su tamaño, envergadura y fuerza” podría hacer daño a alguien. Al silencio y la soledad se sumaron los golpes, las humillaciones y vejaciones que sufrió por parte de un grupo de compañeros. 
 

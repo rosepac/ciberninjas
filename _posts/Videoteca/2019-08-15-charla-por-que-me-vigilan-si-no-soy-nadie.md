@@ -11,9 +11,15 @@ tags:
 - Charlas TEDx
 - Vídeo Seguridad Informática
 - Vídeo Conciencia Ciudadana
+permalink: /charla-por-que-me-vigilan-si-no-soy-nadie/
+canonical_URL: https://ciberninjas.com/charla-por-que-me-vigilan-si-no-soy-nadie/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPE7i8wuupk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/8u51ZY2a3Sc?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 ## ✍ Redacción
 

@@ -107,7 +107,7 @@ Battle Royale es el juego más importante en estos momentos, y Epic Games lo ha 
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/N56V7hd3Fqk?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 Fortnite Battle Royale se basa completamente en un espacio abierto: te dejan caer en un mapa con otros 99 jugadores en un combate cuerpo a cuerpo, y el último que logra quedar en pie al finalizar el tiempo; gana. Debido a su éxito meteórico, Epic Games está trabajando duro para integrar constantemente nuevos modos de juego y nuevas funciones.Como el modo Zona de Juegos, por ejemplo: que te deja en el mapa y te permite construir estructuras durante un tiempo determinado antes de que se abran la veda y comience la carnicería entre los jugadores.
 
@@ -596,7 +596,7 @@ Esto significa que, en The Cycle, gana el prospector que logre salir del planeta
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/0ru30QgpAr8?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 DESCARGA THE CYCLE 🎮](https://thecycle.game/?lang=es){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -625,7 +625,7 @@ Está ambientado en un mundo compartido post-apocalíptico donde los jugadores s
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/YaM1xWe0nzE?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 GRATIS MIENTRAS SEA DEMO 🎮](https://store.steampowered.com/app/759510/Dreadlands_Beta/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -635,7 +635,7 @@ Alien Swarm es un videojuego shotter y multijugador desarrollado por Valve. El o
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/vHMzjJP7RoI?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 INSTALAR GRATIS 🎮](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -655,7 +655,7 @@ Se puede jugar como un jugador o cooperativamente con hasta cuatro personas.
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/TaXAD7Ccg8E?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 DESCARGAR DAUNTLESS 🎮](https://playdauntless.com/es_ES/landing/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -665,7 +665,7 @@ Un Battle Royal genial, y algo más ligero que el PUBG y que amplia el campo de 
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/B0xypLbxKc8?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 GRATIS RING OF ELYSIUM 🎮](https://store.steampowered.com/app/755790/Ring_of_Elysium/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -677,7 +677,7 @@ Sin lugar a dudas estos dos, PUBG y CS GO, son las dos alternativas más clásic
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/MKwUi8MCOic?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 DESCARGAR PUGB LITE 🎮](https://lite.pubg.com/download/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -685,7 +685,7 @@ Sin lugar a dudas estos dos, PUBG y CS GO, son las dos alternativas más clásic
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/liV1omi2Waw?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 DESCARGAR CS GO 🎮](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -695,7 +695,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/MKwUi8MCOic?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 Juega a  GRATIS 🎮](https://knivesout.163.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -703,7 +703,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/liV1omi2Waw?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 Juega a  GRATIS 🎮](https://www.rulesofsurvivalgame.com/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -711,7 +711,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/l-1PpqQqM4k?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 Juega a  GRATIS 🎮](https://www.origin.com/esp/es-es/store/apex/apex){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -719,7 +719,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/liV1omi2Waw?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 Juega a  GRATIS 🎮](https://www.warframe.com/game){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -727,7 +727,7 @@ Knives Out, es un juego del mismo palo que Fortnite pero sobre todo, es un video
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/SN2vEAMb7N4?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 [🎮 Juega a  GRATIS 🎮](https://store.steampowered.com/app/813820/Realm_Royale/){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
