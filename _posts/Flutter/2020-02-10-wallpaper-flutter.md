@@ -86,7 +86,7 @@ A veces, los desarrolladores nos enganchamos tanto con una tecnología que llega
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/024m6KP){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Aplicación de flutter con el logo y el fondo en completo azul](/assets/img/wallpaper/flutter/flutter-wallpaper-app.webp "Los mejores fondos de pantalla de flutter")
+![Aplicación de flutter con el logo y el fondo en completo azul](/assets/img/wallpaper/flutter/flutter-wallpaper_app.webp "Los mejores fondos de pantalla de flutter")
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/PTv73Pv){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
