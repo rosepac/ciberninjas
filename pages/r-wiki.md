@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "WikiNinjas"
+title: "Wikininjas"
 description: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
 excerpt: "🤯 WikiNinjas: La Enciclopedia Informática Tecnológica Ciberninjas actualizada creada por Ciberninjas"
 permalink: /wiki/
