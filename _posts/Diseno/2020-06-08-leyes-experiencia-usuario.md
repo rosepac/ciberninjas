@@ -10,14 +10,11 @@ categories:
 thumbnail: /assets/img/blog/ux-disenador.webp
 feature-img: /assets/img/blog/ux-disenador.webp
 title: '🥇 ▷ Las Leyes de la Experiencia de Usuario'
-description: >-
-  Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.
-excerpt: >-
-  Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.
+description: Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.
+excerpt: Las leyes de UX es una colección de los principios y las máximas que los diseñadores deben tener en cuenta al crear interfaces de usuario.
 canonical_URL: https://ciberninjas.com/leyes-ux-experiencia-usuario/
 permalink: /leyes-ux-experiencia-usuario/
-date: 2020-06-11
-last_modified_at: 
+date: 2020-07-28
 published: true
 
 ---
