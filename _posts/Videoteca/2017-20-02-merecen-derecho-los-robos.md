@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "📹 ¿Merecen derechos los Robots? ¿Qué pasaría si las máquinas se vuelven conscientes? 🤖"
+title: "📹 ¿Merecen derechos los Robots?, ¿Qué pasaría si las máquinas se vuelven conscientes?"
 description: "¿Qué tendríamos que hacer una vez que las máquinas se vuelvan conscientes?¿Tendremos que  otorgarles derechos?"
 excerpt: "¿Qué tendríamos que hacer una vez que las máquinas se vuelvan conscientes?¿Tendremos que  otorgarles derechos?"
 comments: false

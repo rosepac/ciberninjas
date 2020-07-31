@@ -2,8 +2,8 @@
 author: rosepac
 bootstrap: true
 title: "🎮 Cyberpunk 2077, el Juego de Acción y Aventura de Mundo Abierto"
-description: "🎮 Cyberpunk 2077, el Juego de Acción y Aventura de Mundo Abierto"
-excerpt: "🎮 Cyberpunk 2077, el Juego de Acción y Aventura de Mundo Abierto"
+description: "Trailer de presentación del videojuego Cyberpunk 2077."
+excerpt: "Trailer de presentación del videojuego Cyberpunk 2077."
 thumbnail: https://i.ibb.co/DMm47VM/juego-cyberpunk.gif
 comments: false
 date: 2019-06-10 22:06:12
