@@ -40,7 +40,7 @@ A veces, los desarrolladores nos enganchamos tanto con una tecnología que llega
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/59dbpc9){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-![Crea las mejores aplicaciones con flutter y recreate con este espectacular wallpaper, visto en Ciberninjas](/assets/img/wallpaper/flutter/flutter_wallpaper_app.webp "Crea las mejores aplicaciones con flutter y recreate con este espectacular wallpaper, visto en Ciberninjas")
+![Crea las mejores aplicaciones con flutter y recreate con este espectacular wallpaper, visto en Ciberninjas](/assets/img/wallpaper/flutter/flutter-wallpaper_app.webp "Crea las mejores aplicaciones con flutter y recreate con este espectacular wallpaper, visto en Ciberninjas")
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/PTv73Pv){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
@@ -48,7 +48,7 @@ A veces, los desarrolladores nos enganchamos tanto con una tecnología que llega
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/L57nRkP){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[☕ Las mejores tazas, y mucho más productos de Flutter, ¡Exclusivo para adictos a Flutter!](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[☕ Las mejores tazas, y mucho más productos de Flutter, ¡Exclusivo para adictos a Flutter!](https://www.amazon.es/shop/cibercursos){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Wallpaper de flutter realizado con varios wallpaper, creado por Ciberninjas](/assets/img/wallpaper/flutter/flutter-wallpaper-collage.webp "Wallpaper de flutter realizado con varios wallpaper, creado por Ciberninjas")
 
@@ -72,7 +72,7 @@ A veces, los desarrolladores nos enganchamos tanto con una tecnología que llega
 
 [⬇ Descargar o Insertar Imagen Completa](https://ibb.co/R07jv1R){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-[☕ Las mejores tazas, y mucho más productos de Flutter, ¡Exclusivo para adictos a Flutter!](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[☕ Las mejores tazas, y mucho más productos de Flutter, ¡Exclusivo para adictos a Flutter!](https://www.amazon.es/shop/cibercursos){: .btn .btn-warning .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Logo más dibujos de diseños de prototipado de aplicaciones web](/assets/img/wallpaper/flutter/flutter-ios-aplicacion.webp "Los mejores fondos de pantalla de flutter")
 
@@ -100,4 +100,4 @@ A veces, los desarrolladores nos enganchamos tanto con una tecnología que llega
 [📚 Libros Gratis 🕵️‍♂️](/biblioteca-de-programacion-y-tecnologia/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🛒 Catálogo de Libros 👨‍💻](/catalogo/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
 [🎓 Cursos Gratis 👨‍🏫](/cursos-tecnologia/#page-title){: .btn .btn-outline-dark .btn-lg .btn-block}
-[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn-primary .btn-lg .btn-block} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn-primary .btn-lg .btn-block} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn-primary .btn-lg .btn-block} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn-primary .btn-lg .btn-block} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn-primary .btn-lg .btn-block} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn-primary .btn-lg .btn-block}
+[🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn-dark .btn-lg .btn-block} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn-dark .btn-lg .btn-block} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn-dark .btn-lg .btn-block} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn-dark .btn-lg .btn-block} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn-dark .btn-lg .btn-block} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn-dark .btn-lg .btn-block}
