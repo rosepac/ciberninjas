@@ -19,10 +19,6 @@ toc: false
 thumbnail: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
 feature-img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
 img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
-actions:
-  - label: "Recursos Diseño Web"
-    url: "/cursos-animacion-diseno/"
-
 ---
 
 [Diseño Gráfico Recursos](/cursos-animacion-diseno/){: .btn .btn--inverse .btn--large} [Aprender Diseño Gráfico](/diseño-grafico/){: .btn .btn--inverse .btn--large} [Diseño Web Recursos](/diseño-web-recursos/){: .btn .btn--inverse .btn--large} [Aprender Diseño Web](/diseño-web/){: .btn .btn--inverse .btn--large}

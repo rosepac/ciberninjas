@@ -28,7 +28,7 @@ En esta publicación vamos a realizar un repaso, entre algunos de los más espec
 
 ## Sony WH-XB900N
 
-[![Sony WH-XB900N](/assets/img/paginas/amazon/los-mejores-dispositivos/auriculares-sony-wh.webp)](https://amzn.to/34wo4jX){:target="_blank" rel="nofollow,noreferrer"}
+[![Sony WH-XB900N](assets/img/paginas/amazon/los-mejores-dispositivos/auriculares-sony-wh.webp)](https://amzn.to/34wo4jX){:target="_blank" rel="nofollow,noreferrer"}
 
 Este auricular es uno de los auriculares con mejor cancelación de ruido del mundo, por ello está entre favoritos de los diseñadores de Silicon Valley. Ofrece casi la excelencia en la cancelación del ruido y calidad de sonido. Su [hermano mayor: el Sony WH1000XM3](https://amzn.to/35EvxOa){:target="_blank" rel="nofollow,noreferrer"} -vale 780 €- fue elegido como el mejor auricular en 2019 por múltiples medios de comunicación.
 

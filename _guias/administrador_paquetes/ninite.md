@@ -1,8 +1,9 @@
 ---
 layout: page
-feature-img: "assets/img/ninite-ciberninjas.jpg"  
 title: 🔨 ▷ Ninite, instalar o actualizar múltiples aplicaciones a la vez
+feature-img: "assets/img/ninite-ciberninjas.jpg"  
 thumbnail: "assets/img/ninite-ciberninjas.jpg"
+img: "assets/img/ninite-ciberninjas.jpg"  
 description: "👷‍♂️ ¿Qué es Ninite? Ninite es un sistema de gestión de paquetes que ofrece la instalación automática de aplicaciones populares en el SO/: Windows"
 excerpt: "👷‍♂️ ¿Qué es Ninite? Ninite es un sistema de gestión de paquetes que ofrece la instalación automática de aplicaciones populares en el SO/: Windows"
 published: true
@@ -13,7 +14,6 @@ date: 2019-06-20 11:06:39
 last_modified_at: 2019-10-11
 permalink: /ninite/
 canonical_URL: https://ciberninjas.com/ninite/
-img: "assets/img/ninite-ciberninjas.jpg"  
 ---
 
 **Ninite** es un sistema de gestión de paquetes que ofrece a los usuarios la instalación automática de aplicaciones populares en el Sistema Operativo de Windows.
@@ -22,7 +22,28 @@ Este software, permite a los usuarios realizar una selección de una lista de ap
 
 Además existe una versión más económica, aunque menos robusta, de Ninite Pro, conocida como Ninite Updater, disponible para los usuarios que desean la capacidad de actualizar con un solo clic sin las otras funciones que ofrece Ninite Pro.
 
-## 🔍 Características de Ninite
+- [**Características de Ninite 🔍**](#características-de-ninite-)
+- [**Funcionamiento ⚙**](#funcionamiento-)
+- [**Mantener las Aplicaciones Actualizadas 🎈**](#mantener-las-aplicaciones-actualizadas-)
+- [**Cómo compartir un instalador con un amigo 💞**](#cómo-compartir-un-instalador-con-un-amigo-)
+- [**Selección de Idioma 🏳**](#selección-de-idioma-)
+- [**Detalles de Seguridad 🔐**](#detalles-de-seguridad-)
+- [**Software Ofrecido ✅**](#software-ofrecido-)
+  - [Herramientas de Desarrollo ⚒](#herramientas-de-desarrollo-)
+  - [Navegadores Web 🌐](#navegadores-web-)
+  - [Mensajería 📞](#mensajería-)
+  - [Multimedia 📻](#multimedia-)
+  - [Tiempos de Ejecución 🔩](#tiempos-de-ejecución-)
+  - [Diseño e Imágenes 📸](#diseño-e-imágenes-)
+  - [Documentos 📃](#documentos-)
+  - [Seguridad 🔓](#seguridad-)
+  - [Compartir Archivos 💞](#compartir-archivos-)
+  - [Almacenamiento en Línea ☁](#almacenamiento-en-línea-)
+  - [Otros 🍬](#otros-)
+  - [Utilidades 🛠](#utilidades-)
+  - [Compresión 💊](#compresión-)
+- [**Ninite, Paso a Paso 👣**](#ninite-paso-a-paso-)
+## **Características de Ninite 🔍**
 
 Ninite funciona desde Windows XP hasta las versiones más actuales de Windows. Ofreciendo al usuario una extensa lista de programas y generando un instalador convertido en un ejecutable múltiple personalizado basado en la selección de programas elegidos por el usuario.
 
@@ -34,11 +55,11 @@ Los beneficios de usar Ninite en lugar de los instaladores de las aplicaciones i
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## ⚙ Funcionamiento
+## **Funcionamiento ⚙**
 
 En la página web de Ninite, el usuario elige el software de su preferencia al activar las casillas de verificación y continúa con la descarga del instalador ejecutable, que está preconfigurado para la selección personalizada de los usuarios. Al ejecutar el instalador, el software elegido previamente es desatendido (sin ninguna interacción solicitada por el usuario) instalado en la computadora.
 
-## 🎈 Mantener las Aplicaciones Actualizadas
+## **Mantener las Aplicaciones Actualizadas 🎈**
 
 Los instaladores de Ninite siempre instalan las últimas versiones de aplicaciones independientemente de cuándo se crearon.
 
@@ -46,7 +67,7 @@ Esto significa que después de instalar algunas aplicaciones con Ninite puede ma
 
 Ninite comprueba las versiones de la aplicación antes de descargar e instalar el software; entonces, si ya tienes la última versión; Ninite saltará la instalación para seguir con el resto de aplicaciones.
 
-## 💞 Cómo compartir un instalador con un amigo
+## **Cómo compartir un instalador con un amigo 💞**
 
 La página de descarga del instalador que se muestra (después de hacer clic en &#171;Obtener Instalador&#187;) es una URL permanente o enlace permanente; puedes copiarlo y enviarlo para compartir fácilmente un instalador Ninite.
 
@@ -66,7 +87,7 @@ Estos tipo de enlaces son excelentes para hacer soporte técnico remoto en orden
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## 🏳 Selección de Idioma
+## **Selección de Idioma 🏳**
 
 De forma predeterminada, los instaladores Ninite instalan las aplicaciones en el idioma actual del sistema operativo del usuario. Esto se puede anular con el comando modificador /locale; por ejemplo (para francés) ejecuta desde la consola o CMD:
 
@@ -78,7 +99,7 @@ Esto descarga e instala las aplicaciones en el idioma especificado. Para algunas
 
 Especifique el idioma y el código de país, por ejemplo, &#171;en-US&#187;, si deseas el idioma inglés. Las siglas usadas son las dos letras extraídas de la norma [ISO 639-1](https://es.wikipedia.org/wiki/ISO_639-1){:target="_blank" rel="nofollow,noreferrer"} equivalente al país correspondiente más las dos letras que correspondan al mismo país respecto a la norma [ISO 3166-1, Código Alfa 2](https://es.wikipedia.org/wiki/ISO_3166-1){:target="_blank" rel="nofollow,noreferrer"} o lo que es lo mismo, al Código ISO de 2 letras asignado a ese país o territorio.
 
-## 🔐 Detalles de Seguridad
+## **Detalles de Seguridad 🔐**
 
 Las actualizaciones de aplicaciones implican operaciones privilegiadas y deben hacerse con cuidado. Debido a esto, desde Ninite nos garantizan que todos los datos de configuración de la aplicación se transmiten de forma segura y todas las descargas son validadas antes de su uso.
 
@@ -98,65 +119,65 @@ Si existen advertencias irrelevantes o experimentes fallos en la descarga si tie
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## ✅ Software Ofrecido
+## **Software Ofrecido ✅**
 
 El listado de aplicaciones soportado por el software instalador de Ninite es bastante extenso en la actualidad el número asciende a más de 80 programas de software diferentes.
 
 Diferenciados en las áreas de funcionamiento y trabajo siguientes:
 
-### ⚒ Herramientas de Desarrollo
+### Herramientas de Desarrollo ⚒
 
 - Python, FileZilla, Notepad ++, JDK (AdoptOpenJDK) x64 8 y 11, JDK (AdoptOpenJDK) 8, JDK (Amazon Corretto) x64 8 y 11, JDK (Amazon Corretto) 8, WinSCP, PuTTY, WinMerge, Eclipse, Visual Studio Code
 
-### 🌐 Navegadores Web
+### Navegadores Web 🌐
 
 - Chrome, Opera, Firefox
 
-### 📞 Mensajería
+### Mensajería 📞
 
 - Discordia, Skype, Pidgin, Thunderbird, Trillian
 
-### 📻 Multimedia
+### Multimedia 📻
 
 - iTunes, VLC, AIMP, foobar2000, Winamp, MusicBee, Audacity, K-Lite Codec Pack, GOM, Spotify, CCCP, MediaMonkey, HandBrake
 
-### 🔩 Tiempos de Ejecución
+### Tiempos de Ejecución 🔩
 
 - Java (AdoptOpenJDK) x64 Versión 8 y 11, Java (AdoptOpenJDK) 8, .NET framework 4.8, Silverlight , Adobe Air
 
-### 📸 Diseño e Imágenes
+### Diseño e Imágenes 📸
 
 - Krita, Blender, Paint.NET, GIMP, IrfanView, XnView, Inkscape, FastStone, Greenshot, ShareX
 
-### 📃 Documentos
+### Documentos 📃
 
 - Foxit Reader, LibreOffice, SumatraPDF, CutePDF, PDFCreator, OpenOffice
 
-### 🔓 Seguridad
+### Seguridad 🔓
 
 - MS Essentials, Malwarebytes, Avast, AVG, Spybot 2, Avira, SUPERAntiSpyware
 
-### 💞 Compartir Archivos
+### Compartir Archivos 💞
 
 - qBittorrent
 
-### ☁ Almacenamiento en Línea
+### Almacenamiento en Línea ☁
 
 - Dropbox, Google Backup y Sync, OneDrive, SugarSync
 
-### 🍬 Otros
+### Otros 🍬
 
 - Evernote, Google Earth, Steam, KeePass 2, Todo, Acceso NV
 
-### 🛠 Utilidades
+### Utilidades 🛠
 
 - TeamViewer 14, ImgBurn, RealVNC, TeraCopy, CDBurnerXP, Revo, Launchy, WinDirStat, Glary, InfraRecorder, Classic Start
 
-### 💊 Compresión
+### Compresión 💊
 
 - 7-Zip, PeaZip, WinRAR
 
-## 👣 Ninite, Paso a Paso
+## **Ninite, Paso a Paso 👣**
 
 Por si algunos despistados aún no conocíais esta interesante aplicación, la veremos de forma breve y paso a paso.
 
@@ -170,7 +191,7 @@ El **.EXE** descargado será el encargado de instalar los programas, tras un par
 Sitio Web Oficial: [Página web oficial de Ninite dentro del instalador múltiple de programas dentro de Windows](https://kutt.it/ninite_instalador_multiple){:target="_blank" rel="nofollow,noreferrer"}
 {: .notice--info}
 
-### **Relacionados**
+### Relacionados <!-- omit in toc -->
 
 [👨‍🔧 10 Programas de Windows 10 que deberías de eliminar para optimizar el hardware de tu ordenador](https://ciberninjas.com/10-programas-eliminar-windows-10/)
 
