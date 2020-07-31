@@ -21,7 +21,7 @@ tags:
 
 Los **mejores fondos de pantalla de Flutter**, para todos los creadores de aplicaciones con el framework y SDK de Flutter.
 
-A veces, los desarrolladores nos enganchamos tanto con una tecnología que llegamos a querer tenerla por todas partes dentro de nuestras vidas, si ese es tu caso en cuanto a Flutter, aquí tienes los mejores wallpaper que vas a poder encontrar en todo internet e incluso alguno exclusivo, creado específicamente por mí.
+A veces, los desarrolladores nos enganchamos tanto con una tecnología que llegamos a querer tenerla por todas partes dentro de nuestras vidas, si ese es tu caso en cuanto a Flutter, aquí tienes los mejores wallpaper que vas a poder encontrar en todo internet e incluso alguno exclusivo.
 
 ¡A disfrutar!
 
