@@ -3,8 +3,8 @@
 author: rosepac
 bootstrap: true
 title: "▷ Las 10 Mejores Herramientas de Automatización de Prueba de Interfaz de Usuario en 2020"
-description: Vamos a conocer las mejores tecnologías de realización de pruebas automatizadas sobre UI: Como Selenium, Appium, Junit, CodedUI, Etc.
-excerpt: Vamos a conocer las mejores tecnologías de realización de pruebas automatizadas sobre UI: Como Selenium, Appium, Junit, CodedUI, Etc.
+description: "Vamos a conocer las mejores tecnologías de realización de pruebas automatizadas sobre UI: Como Selenium, Appium, Junit, CodedUI, Etc."
+excerpt: "Vamos a conocer las mejores tecnologías de realización de pruebas automatizadas sobre UI: Como Selenium, Appium, Junit, CodedUI, Etc."
 published: true
 comments: false
 date: 2020-02-03 12:15:12
