@@ -3,10 +3,8 @@
 author: rosepac
 bootstrap: true
 title: "▷ Los Mejores Wallpaper de Flutter 2020"
-description: >-
-  🚀 Flutter es una tecnología con la que desarrollar aplicaciones iOS y Android con Flutter y que es tendencia este año. Aquí tienes los mejores fondos de pantalla para tu ordenador
-excerpt: >-
-  🚀 Flutter es una tecnología con la que desarrollar aplicaciones iOS y Android con Flutter y que es tendencia este año. Aquí tienes los mejores fondos de pantalla para tu ordenador
+description: Flutter es una tecnología con la que desarrollar aplicaciones iOS y Android con Flutter y que es tendencia este año. Aquí tienes los mejores fondos de pantalla para tu ordenador
+excerpt: Flutter es una tecnología con la que desarrollar aplicaciones iOS y Android con Flutter y que es tendencia este año. Aquí tienes los mejores fondos de pantalla para tu ordenador
 published: true
 comments: false
 date: 2020-02-10 14:50:12

@@ -9,10 +9,8 @@ tags:
 thumbnail: /assets/img/blog/robots/2-bis-robots-2.jpg
 feature-img: /assets/img/blog/robots/2-bis-robots-2.jpg
 title: '🤖 ▷ Una espectacular galería de robots históricos'
-description: >-
-  Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro
-excerpt: >-
-  Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro
+description: Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro
+excerpt: Las mejores fotografías del mundo sobre los robots más antiguos del mundo, los primeros robots creadas y representados bajo una base de lo que se imaginaban entonces de como podrían ser en un futuro
 canonical_URL: https://ciberninjas.com/galeria-de-robots/
 permalink: /galeria-de-robots/
 date: 2020-02-20 18:25:32

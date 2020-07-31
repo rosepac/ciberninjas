@@ -10,10 +10,8 @@ tags:
 thumbnail: /assets/img/blog/win-lib-1.webp
 feature-img: /assets/img/blog/win-lib-1.webp
 title: '👨‍🔧 ▷ Cómo mejorar el rendimiento y hacer más rápido Windows 10 en 2020'
-description: >-
-  Los mejores consejos que vas a encontrar para lograr que tu Windows 10 se convierta en un auténtico cohete.
-excerpt: >-
-  Los mejores consejos que vas a encontrar para lograr que tu Windows 10 se convierta en un auténtico cohete.
+description: Los mejores consejos que vas a encontrar para lograr que tu Windows 10 se convierta en un auténtico cohete.
+excerpt: Los mejores consejos que vas a encontrar para lograr que tu Windows 10 se convierta en un auténtico cohete.
 canonical_URL: https://ciberninjas.com/mejorar-rapidez-rendimiento-windows-10/
 permalink: /mejorar-rapidez-rendimiento-windows-10/
 date: 2020-02-24 00:32:32

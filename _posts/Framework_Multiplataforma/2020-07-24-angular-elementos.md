@@ -35,13 +35,13 @@ A continuación, unos vídeotutoriales en los que se trabaja con los elementos d
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/bt6Wq0gGy7I?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 
 ## **Angular Elements 2018**
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/-xd56yFrsPY?rel=0" allowfullscreen></iframe>
-</div>
+</div><br/>
 <!-- https://juristr.com/blog/2020/06/askjuri-learning-angular-elements/ -->
 
 ### **Relacionados con Elementos de Angular**

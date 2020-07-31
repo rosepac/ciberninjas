@@ -3,10 +3,8 @@
 author: rosepac
 bootstrap: true
 title: "▷ Guía de TensorFlow: La biblioteca de software de código abierto para el aprendizaje automático"
-description: >-
-  🤖 TensorFlow es una biblioteca de software de código abierto desarrollada por Google para el cálculo numérico con gráficos de flujo de datos. Esta guía TensorFlow cubre por qué la biblioteca es importante, cómo usarla y más.
-excerpt: >-
-  🤖 TensorFlow es una biblioteca de software de código abierto desarrollada por Google para el cálculo numérico con gráficos de flujo de datos. Esta guía TensorFlow cubre por qué la biblioteca es importante, cómo usarla y más.
+description: TensorFlow es una biblioteca de software de código abierto desarrollada por Google para el cálculo numérico con gráficos de flujo de datos. Esta guía TensorFlow cubre por qué la biblioteca es importante, cómo usarla y más.
+excerpt: TensorFlow es una biblioteca de software de código abierto desarrollada por Google para el cálculo numérico con gráficos de flujo de datos. Esta guía TensorFlow cubre por qué la biblioteca es importante, cómo usarla y más.
 published: true
 comments: false
 date: 2020-03-13 13:08:12

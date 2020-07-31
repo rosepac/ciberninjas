@@ -18,9 +18,9 @@ canonical_URL: https://ciberninjas.com/romper-silencio-bullying/
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/8u51ZY2a3Sc?rel=0" allowfullscreen></iframe>
 </div><br/>
 
-Con 11 años, el exjugador de baloncesto Iñaki Zubizarreta medía casi dos metros y fue castigado en los recreos durante todo un curso escolar, porque según la profesora, “por su tamaño, envergadura y fuerza” podría hacer daño a alguien. Al silencio y la soledad se sumaron los golpes, las humillaciones y vejaciones que sufrió por parte de un grupo de compañeros. 
+Con 11 años, el exjugador de baloncesto Iñaki Zubizarreta medía casi dos metros y fue castigado en los recreos durante todo un curso escolar, porque según la profesora, “por su tamaño, envergadura y fuerza” podría hacer daño a alguien. Al silencio y la soledad se sumaron los golpes, las humillaciones y vejaciones que sufrió por parte de un grupo de compañeros.
 
-En este vídeo, el deportista hace un llamamiento a alzar la voz contra el ‘bullying’, para que nadie sufra situaciones de maltrato como las que él vivió. 
+En este vídeo, el deportista hace un llamamiento a alzar la voz contra el ‘bullying’, para que nadie sufra situaciones de maltrato como las que él vivió.
 
 “Si me reencontrase con el niño que fui le diría que no guarde silencio, que busque ayuda, que no se calle. Os aseguro que hay vida, buena vida, después del acoso escolar, pero siempre con ayuda. Por desgracia, treinta y tantos años después estas historias siguen siendo actualidad y lo que no ha cambiado es romper la ley del silencio”.
 
@@ -28,7 +28,6 @@ Afortunadamente, Iñaki Zubizarreta pudo desarrollar su talento en el baloncesto
 
 Actualmente colabora con la ACB en la campaña “Actuamos Contra el Bullying”, acudiendo a colegios e institutos para impartir charlas de sensibilización entre los más jóvenes, “porque es tan culpable el que acosa como el que lo permite”. Su historia de superación sirve de ejemplo para saber que se puede salir adelante.
 
-**Fuente**\: [BBVA Aprendemos Juntos](https://aprendemosjuntos.elpais.com/archivo/)
-{: .notice--info}
+> **Fuente**: [BBVA Aprendemos Juntos](https://aprendemosjuntos.elpais.com/archivo/)
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

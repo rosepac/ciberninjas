@@ -11,10 +11,8 @@ tags:
 thumbnail: /assets/img/blog/acciones-github.webp
 feature-img: /assets/img/blog/acciones-github.webp
 title: '▷ Conociendo las acciones de Github'
-description: >-
-  Las acciones de GitHub facilitan la automatización de todos sus flujos de trabajo de software. Las acciones de Github le permiten construir, probar e implementar su código directamente desde GitHub.
-excerpt: >-
-  Las acciones de GitHub facilitan la automatización de todos sus flujos de trabajo de software. Las acciones de Github le permiten construir, probar e implementar su código directamente desde GitHub.
+description: Las acciones de GitHub facilitan la automatización de todos sus flujos de trabajo de software. Las acciones de Github le permiten construir, probar e implementar su código directamente desde GitHub.
+excerpt: Las acciones de GitHub facilitan la automatización de todos sus flujos de trabajo de software. Las acciones de Github le permiten construir, probar e implementar su código directamente desde GitHub.
 canonical_URL: https://ciberninjas.com/acciones-github/
 permalink: /acciones-github/
 date: 2020-07-24 09:12:32

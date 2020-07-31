@@ -3,10 +3,8 @@
 author: rosepac
 bootstrap: true
 title: "▷ Comparación entre 3 de los frameworks web más de moda en 2020: Flutter, React Native y Xamarin"
-description: >-
-  🔍 Xamarin, React Native y Flutter: Analizamos las ventajas y desventajas entre tres de los frameworks o SDK multiplataforma más potentes y usados en 2019/2020
-excerpt: >-
-  🔍 Xamarin, React Native y Flutter: Analizamos las ventajas y desventajas entre tres de los frameworks o SDK multiplataforma más potentes y usados en 2019/2020
+description: Xamarin, React Native y Flutter: Analizamos las ventajas y desventajas entre tres de los frameworks o SDK multiplataforma más potentes y usados en 2019/2020
+excerpt: Xamarin, React Native y Flutter: Analizamos las ventajas y desventajas entre tres de los frameworks o SDK multiplataforma más potentes y usados en 2019/2020
 published: true
 comments: false
 date: 2020-02-14 14:10:12

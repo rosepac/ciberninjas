@@ -12,10 +12,8 @@ categories:
 thumbnail: /assets/img/blog/kubenav-gestor-kubernetes.webp
 feature-img: /assets/img/blog/kubenav-gestor-kubernetes.webp
 title: '🚀 ▷ '
-description: >-
-  ''
-excerpt: >-
-  ''
+description: ''
+excerpt: ''
 canonical_URL: https://ciberninjas.com/kubenav-gestor-kubernetes/
 permalink: /kubenav-gestor-kubernetes/
 date: 2020-02-26 12:32:32

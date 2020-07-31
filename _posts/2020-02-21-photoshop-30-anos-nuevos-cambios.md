@@ -10,10 +10,8 @@ tags:
 thumbnail: /assets/img/blog/adobe-photoshop-1.webp
 feature-img: /assets/img/blog/adobe-photoshop-1.webp
 title: '🔥 ▷ Adobe Photoshop cumple 30 años, celebrándolo con nuevas funciones basadas en la Inteligencia Artificial'
-description: >-
-  El software de diseño y fotografía Photoshop crea nuevas funciones basadas en la inteligencia artificial para celebrar su aniversario de su 30 cumpleaños
-excerpt: >-
-  El software de diseño y fotografía Photoshop crea nuevas funciones basadas en la inteligencia artificial para celebrar su aniversario de su 30 cumpleaños
+description: El software de diseño y fotografía Photoshop crea nuevas funciones basadas en la inteligencia artificial para celebrar su aniversario de su 30 cumpleaños
+excerpt: El software de diseño y fotografía Photoshop crea nuevas funciones basadas en la inteligencia artificial para celebrar su aniversario de su 30 cumpleaños
 canonical_URL: https://ciberninjas.com/cumpleanos-photoshop-cambios-e-inteligencia-artificial/
 permalink: /cumpleanos-photoshop-cambios-e-inteligencia-artificial/
 date: 2020-02-21 13:15:32

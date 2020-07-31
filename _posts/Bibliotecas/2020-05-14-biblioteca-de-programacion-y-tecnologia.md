@@ -1,8 +1,8 @@
 ---
 # Página Base
 title: "🥇 ▷ Los mejores LIBROS para PROGRAMACIÓN pdf GRATIS 2020"
-description: "Los Mejores Libros PDF Gratuitos de Informática - Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
-excerpt: "Los Mejores Libros PDF Gratuitos de Informática - Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
+description: "Los Mejores Libros PDF Gratuitos de Informática: Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
+excerpt: "Los Mejores Libros PDF Gratuitos de Informática: Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
 author: rosepac
 bootstrap: true
 date: 2020-05-27T22:00:00.000+00:00
@@ -195,7 +195,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 ## ⛓ Blockchain
 
-[Cadena de Bloques 🔗](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fab fa-bitcoin"></i>](/biblioteca-de-programacion-y-tecnologia/#bitcoin-){: .btn .btn--inverse .btn--large}
+[Cadena de Bloques 🔗](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Criptomonedas 💰](/biblioteca-de-programacion-y-tecnologia/#cadena-de-bloques-){: .btn .btn--inverse .btn--large} [Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>](/biblioteca-de-programacion-y-tecnologia/#bitcoin-){: .btn .btn--inverse .btn--large}
 
 ## Cadena de Bloques 🔗
 
@@ -219,7 +219,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 [⏫ Subir a Blockchain ⛓](/biblioteca-de-programacion-y-tecnologia/#-blockchain){: .btn .btn--inverse .btn--large} [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-### Bitcoin <i class="fab fa-bitcoin"></i>
+### Bitcoin <i class="fa fa-btc" aria-hidden="true"></i>
 
 * [Bitcoin: Un Sistema de Efectivo Electrónico Usuario-a-Usuario](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Bitcoin: Una moneda criptográfica](https://www.certsi.es/sites/default/files/contenidos/estudios/doc/int_bitcoin.pdf){:target="_blank" rel="nofollow"} (PDF)
@@ -279,7 +279,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 ## 🐧 Ecosistema de Software Libre
 
-[Linux <i class="fab fa-linux"></i>](/biblioteca-de-programacion-y-tecnologia/#linux-){: .btn .btn--inverse .btn--large} [Ubuntu <i class="fab fa-ubuntu"></i>](/biblioteca-de-programacion-y-tecnologia/#ubuntu-){: .btn .btn--inverse .btn--large}
+[Linux <i class="fa fa-linux" aria-hidden="true"></i>](/biblioteca-de-programacion-y-tecnologia/#linux-){: .btn .btn--inverse .btn--large} [Ubuntu](/biblioteca-de-programacion-y-tecnologia/#ubuntu-){: .btn .btn--inverse .btn--large}
 
 * [Aspectos económicos y modelos de negocio del software libre](https://www.seaceptanideas.com/wp-content/uploads/2016/07/Aspectos_Economicos_y_Modelos_de_Negocio_del_Software_Libre.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Aspectos legales de explotación del software libre. Parte I](https://softlibre.unizar.es/manuales/legal/908.pdf){:target="_blank" rel="nofollow"} (PDF)
@@ -312,7 +312,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 
 * [El Kit de la Lucha en Internet](https://www.traficantes.net/sites/default/files/pdfs/El%20kit%20de%20la%20lucha%20en%20Internet-TdS.pdf){:target="_blank" rel="nofollow"} (2012)
 
-### Linux <i class="fab fa-linux"></i>
+### Linux <i class="fa fa-linux" aria-hidden="true"></i>
 
 * [Administración avanzada de GNU/Linux](https://softlibre.unizar.es/manuales/linux/871.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Bases de la programación en Bash](https://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html){:target="_blank" rel="nofollow"} (HTML)
@@ -330,7 +330,7 @@ Las empresas dependen en gran medida de los programas para satisfacer todas sus 
 * [Linux Fácil](https://fortinux.com/wp-content/uploads/2010/12/linux-facil-scribus-FINAL-baja.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Sistema Operativo Huayra Gnu/Linux](https://bibliotecadigital.educ.ar/articles/read/366){:target="_blank" rel="nofollow"} (HTML)
 
-### Ubuntu <i class="fab fa-ubuntu"></i>
+### Ubuntu
 
 * [Corre linux corre: conociendo Ubuntu](https://www.seaceptanideas.com/biblio/Corre_Linux_Corre.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Libro Iniciación a Ubuntu 16.04](https://drive.google.com/file/d/0B-cIaMA_u7JRRC1TaTRRMUd0NUk/view){:target="_blank" rel="nofollow"} (PDF)
@@ -563,7 +563,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## 👩‍💻 Desarrollo Web
 
-## Android <i class="fab fa-android"></i>
+## Android <i class="fa fa-android" aria-hidden="true"></i>
 
 * [Android 100%](https://drive.google.com/file/d/0BwVU1KZh_7htTmxPdmRmTVpaYjg/view){:target="_blank" rel="nofollow"} (PDF)
 * [Curso Android](https://www.hermosaprogramacion.com/android){:target="_blank" rel="nofollow"} (HTML)
@@ -588,7 +588,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Docker](https://github.com/brunocascio/docker-espanol#docker){:target="_blank" rel="nofollow"} (Github)
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc//TECNIRIS47-1b.pdf){:target="_blank" rel="nofollow"} (PDF)
 
-## Bootstrap <i class="fab fa-bootstrap"></i>
+## Bootstrap
 
 * [Bootstrap 3, el manual oficial](https://librosweb.es/libro/bootstrap_3){:target="_blank" rel="nofollow"} (HTML)
 
@@ -682,7 +682,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [Prototipado de Aplicaciones Web (mean.js)](https://meanjsbook.danihernandez.me/) (HTML) (2015)
 
-## Bootstrap <i class="fab fa-bootstrap"></i>
+## Bootstrap
 
 ## Lenguajes de Estilos y Preprocesadores 🎨
 
@@ -696,7 +696,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 <!-- Pug, Mustache, Handlebars, doT, EJS, Nunjucks, Underscore, ECT, Marko, Jade, JSRender, Squirrelly, jQuery Template, Template7 -->
 
 
-## HTML / CSS <i class="fab fa-html5"></i> <i class="fab fa-css3-alt"></i> <i class="fab fa-sass"></i>
+## HTML / CSS <i class="fa fa-html5" aria-hidden="true"></i> <i class="fa fa-css3" aria-hidden="true"></i> <i class="fab fa-sass"></i>
 
 * [Chuleta CSS3](https://lenguajecss.com/){:target="_blank" rel="nofollow"} (HTML) ([PDF](https://www.emezeta.com/doc/css3-cheatsheet/css3-cheatsheet.php){:target="_blank" rel="nofollow"})
 * [CSS avanzado](https://librosweb.es/libro/css_avanzado){:target="_blank" rel="nofollow"} Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado){:target="_blank" rel="nofollow"}
@@ -711,7 +711,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Java <i class="fab fa-java"></i>
+## Java
 
 * [Aprenda Java como si estuviera en primero](https://fiwiki.org/images/9/9c/Aprenda_Java_como_si_estuviera_en_primero.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Aprendiendo Java y POO (2008)](https://www.decom-uv.cl/~roberto/apuntes/java/AprendiendoJava.pdf){:target="_blank" rel="nofollow"} (PDF)
@@ -730,7 +730,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## <i class="fab fa-js"></i> JavaScript
+## JavaScript
 
 * [Fundamentos de Javascript](https://lookaside.fbsbx.com/file/js-notesByMajoLedesma.pdf?token=AWwMwTsvr7tH4eYfiuNntACHnAzUkhcDsClQ0-OgUnvSDUVdwB3ZIaUDZbyd28BQCtrwWtg0AFenNc5PBzIN8blL3gfhWmVbjN486OrhMcLRGIwHqAHX4lNi5OeeecN-lf0TVe9iyw5bN6X-n6HGzmr-r398NH4pNIr0W3fhxFAgzw){:target="_blank" rel="nofollow"} (PDF) (2020) [Anexo 1: Scope y Local Scope](https://twitter.com/MajoLedes/status/1234882045190561793){:target="_blank" rel="nofollow"} (2020)
 * [Guía de Javascript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide){:target="_blank" rel="nofollow"} (HTML)
@@ -759,7 +759,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Introducción a Node.js a través de Koans](https://nodejskoans.com){:target="_blank" rel="nofollow"}
 * [Tutorial para Principiantes en Node.js](https://www.nodebeginner.org/index-es.html){:target="_blank" rel="nofollow"}
 
-### React <i class="fab fa-react"></i>
+### React
 
 * [Fundamentos de ReactJS](https://lookaside.fbsbx.com/file/React-Notes-MajoLedesma.pdf?token=AWxLqjFoHPZLfLUfVPnZmpc61WJXY_4RHl8Rfj4tPTBR0CO58_Rt6OEmJck4_WDhPiW9rKX8sqGMzPvY9RqkUY3qXCyN3GcQ7cnoMxHCfOOEjBTR9XTs7nnIxxDx70RDbOjO4ncfOmNv1TliY5oOA1eMxtbi7YCt8yh29ykASBCT2A){:target="_blank" rel="nofollow"} (PDF) (2020)
 * [Fundamentos de ReactJS y Hooks](https://lookaside.fbsbx.com/file/hooks-MajoLedesma.pdf?token=AWxLzCQhwLd5WPbVSTOp97HJLxyjREGyS_wykNvLBFMtT295MW6QNrhkLGZZQGiY7qylxgdGgtGMEfOHbKjV_AIXTcWfGbdz32V9qESqSWL-5fWJVcvioefVnwfFyYWwUkqv2VqkXAjp1rGxPRwq3EB5WkLE2ocTBHVxtOb3usl0mw){:target="_blank" rel="nofollow"} (PDF) (2020)
@@ -774,7 +774,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [El Lenguaje de Programación de Rust](https://goyox86.gitbooks.io/el-libro-de-rust/content/intrinsics.html){:target="_blank" rel="nofollow"} (HTML) [PDF](https://legacy.gitbook.com/download/pdf/book/goyox86/el-libro-de-rust){:target="_blank" rel="nofollow"}
 
-## Vue <i class="fab fa-vuejs"></i>
+## Vue
 
 * [Aprendizaje VueJS](https://drive.google.com/file/d/1uj6RmzfUUzZ2J2gOV8GK0rL3ZsILkTuA/view?usp=sharing){:target="_blank" rel="nofollow"}
 * [Desarrolla aplicaciones con VueJS](https://drive.google.com/file/d/11mxEOrRmZCZTPyJMegrKHGA7NwqwbZYY/view?usp=sharing){:target="_blank" rel="nofollow"} - [Gitbook](https://legacy.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details){:target="_blank" rel="nofollow"}
@@ -785,7 +785,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [El lenguaje de programación C#](https://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Guía de Arquitectura N-capas Orientadas al Dominio](https://blogs.msdn.microsoft.com/cesardelatorre/2010/03/11/nuestro-nuevo-libro-guia-de-arquitectura-n-capas-ddd-net-4-0-y-aplicacion-ejemplo-en-disponibles-para-download-en-msdn-y-codeplex){:target="_blank" rel="nofollow"} (HTML)
 
-## PHP <i class="fab fa-php"></i> <i class="fab fa-symfony"></i>
+## PHP
 
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/https://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Patrones de diseño: Zend Framework, Sympfony2, Doctrine2](https://media.readthedocs.org/pdf/designpatternsphp-es-mx/latest/designpatternsphp-es-mx.pdf){:target="_blank" rel="nofollow"} (PDF)
@@ -802,7 +802,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 * [CakePHP](https://lookaside.fbsbx.com/file/CakePHPCookbook.pdf?token=AWyFDalEcITnVtdOGUKjMhpxlOyhhMvu-9e2DsQwbkN8Mdm7g_L6DdvOV57rE8zfwkZvBtw1p8Y35z3JzN46qE0NMtDoTndZBu_GMUOYIIDSCqKWeKiKsUksaOesmAQVbBxe4v1zPTWnjre0Ox2yNI_C1o_RBz5DteVi0euKkepL1A){:target="_blank" rel="nofollow"} (PDF) (2020)
 
-### Laravel <i class="fab fa-laravel"></i>
+### Laravel
 
 * [Documentación de Laravel 6.0](https://lookaside.fbsbx.com/file/documentacion-de-laravel.pdf?token=AWxgc2kXPnguYTiOvb58Xp6s80I_YIj57JNfNdl8xZ_BmXoVdoRqNFMQy4hn5Lbzc6CdSEfdCesb_eU2X4HiqtVj7eDju-UlYTYsV3ujI0hMWbfw3JrO3vJ7Rvf1rsrkXIvrmy5lDqWZYGj91UvgC_GrCPGFcCodE9Hc5a6bx0V_lQ){:target="_blank" rel="nofollow"} (PDF) (1043 páginas)
 * [Laravel 5: Conceptos Básicos y Ejemplos](https://lookaside.fbsbx.com/file/laravel-5.pdf?token=AWzwgr1mH7p9_Q5W93UbkN6QFt5piI6VmIF7p70qAiA4u7TNf_WHB3qHChnHihr6u0se4Uc5XrA50SvY0DNNZDM7zAe2RrT7PNxCYm4-O7opZ7GhEAuX4ymt6n9J8kFB2C9Z-F2LaTAI2ALSKDXcmik1MuFl8r2U_91UTYMzJbaUOA){:target="_blank" rel="nofollow"} (PDF)
@@ -818,7 +818,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Tutorial Perl](https://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Tutoriales de Perl](https://perlenespanol.com/tutoriales/){:target="_blank" rel="nofollow"} (HTML)
 
-## Python <i class="fab fa-python"></i>
+## Python
 
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf){:target="_blank" rel="nofollow"} (PDF)
 * [Aprende Python desde cero a experto](https://leanpub.com/aprende-python/){:target="_blank" rel="nofollow"} (PDF) (2020)
@@ -843,7 +843,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Tutorial de Python 3.6](https://tutorial.python.org.ar/_/downloads/en/latest/pdf/){:target="_blank" rel="nofollow"} (2020)
 * [Tryton: gestión de empresas](https://media.readthedocs.org/pdf/tryton-ar/latest/tryton-ar.pdf){:target="_blank" rel="nofollow"} (PDF) [(HTML)](https://tryton-ar.readthedocs.io/es/latest/introduccion.html){:target="_blank" rel="nofollow"}
 
-## Python Frameworks <i class="fab fa-python"></i>
+## Python Frameworks
 
 ### Django
 
@@ -857,7 +857,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
-## Ruby <i class="fas fa-gem"></i>
+## Ruby
 
 * [Aprende a programar con Ruby](https://rubysur.org/aprende.a.programar){:target="_blank" rel="nofollow"} (Gitbook)
 * [La Guía de Estilos de Ruby](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio){:target="_blank" rel="nofollow"} (Github)
@@ -922,14 +922,14 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 
 ## ✍ Sistemas de Gestión de Contenidos
 
-### Wordpress <i class="fab fa-wordpress"></i>
+### Wordpress <i class="fa fa-wordpress" aria-hidden="true"></i>
 * [Desarrollo en Wordpress](https://leanpub.com/desarrolloenwp?){:target="_blank" rel="nofollow"} (PDF)
 
 [🔝 Inicio](/biblioteca-de-programacion-y-tecnologia/#-meta-listas){: .btn .btn--inverse .btn--large}
 
 ## 👷‍♂️ Webmaster
 
-[Accesibilidad Web ♿](/biblioteca-de-programacion-y-tecnologia/#accesibilidad-web-){: .btn .btn--inverse .btn--large} [Análitica Web 📈](/biblioteca-de-programacion-y-tecnologia/#análitica-web-){: .btn .btn--inverse .btn--large} [Marketing Digital 🏪](/biblioteca-de-programacion-y-tecnologia/#marketing-digital-){: .btn .btn--inverse .btn--large} [Instagram <i class="fab fa-instagram"></i>](/biblioteca-de-programacion-y-tecnologia/#instagram-){: .btn .btn--inverse .btn--large} [Seo y Posicionamiento 🔍](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-){: .btn .btn--inverse .btn--large}
+[Accesibilidad Web ♿](/biblioteca-de-programacion-y-tecnologia/#accesibilidad-web-){: .btn .btn--inverse .btn--large} [Análitica Web 📈](/biblioteca-de-programacion-y-tecnologia/#análitica-web-){: .btn .btn--inverse .btn--large} [Marketing Digital 🏪](/biblioteca-de-programacion-y-tecnologia/#marketing-digital-){: .btn .btn--inverse .btn--large} [Instagram <i class="fa fa-instagram" aria-hidden="true"></i>](/biblioteca-de-programacion-y-tecnologia/#instagram-){: .btn .btn--inverse .btn--large} [Seo y Posicionamiento 🔍](/biblioteca-de-programacion-y-tecnologia/#seo-y-posicionamiento-){: .btn .btn--inverse .btn--large}
 
 ## Accesibilidad Web ♿
 
@@ -957,7 +957,7 @@ realidad social](https://www.sindominio.net/~xabier/old/textos/hl/hl.pdf){:targe
 * [Marca 4.0: El impacto de la digitalización en la internalización y la gestión de la marca](https://www.marcasrenombradas.com/wp-content/uploads/2019/03/Informe-Marca-4.0.pdf){:target="_blank" rel="nofollow"} ()
 * [Vender 2.0](https://lookaside.fbsbx.com/file/Vender_2.0_Redes_Sociales.pdf?token=AWxVeWmznQH8xIIQJsIWgGRCa7Cru6AD2KkxxkbFn0gudms_yNgBD5JZpc83NZPllsT61W1QaAf1fSAQ5vVzq-8j0RKPuWgx60s5OqftF7cojeYeEfpjnavo3VW-8M29uQFDYX0RRjGzCUtvwRJxCFwsom8kpOBE2iP-CtRt29HnRA) (Presentación) (2013)
 
-### Instagram <i class="fab fa-instagram"></i>
+### Instagram <i class="fa fa-instagram" aria-hidden="true"></i>
 
 * [Instagram Marketing](https://netgrows.com/wp-content/uploads/2018/11/ebook-instagram-netgrows.pdf){:target="_blank" rel="nofollow"}
 

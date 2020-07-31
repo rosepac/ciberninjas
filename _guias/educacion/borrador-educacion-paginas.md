@@ -8,7 +8,6 @@ author: rosepac
 bootstrap: true
 comments: false
 date: 2020-01-27 15:07:25
-permalink: >
-    /educacion-paginas/
+permalink: /educacion-paginas/
 ---
 

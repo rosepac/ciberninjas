@@ -8,8 +8,7 @@ author: rosepac
 bootstrap: true
 comments: false
 date: 2020-01-27 15:07:25
-permalink: >
-    /educacion-documentales/
+permalink: /educacion-documentales/
 ---
 
 * [Yo denuncio el sistema educativo](/reflexion-yo-denuncio-al-sistema-educativo/)	Prince Ea

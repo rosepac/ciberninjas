@@ -3,10 +3,8 @@
 author: rosepac
 bootstrap: true
 title: "▷ 20 + Mejores Páginas Web para Aprender Programación GRATIS en 2020"
-description: >-
-  Vamos a recopilar los mejores sitios web gratuitos en los que se reunen y comparten los mejores recursos del mundo y tutoriales con los que poder aprender a programar cualquier tecnología.
-excerpt: >-
-  Vamos a recopilar los mejores sitios web gratuitos en los que se reunen y comparten los mejores recursos del mundo y tutoriales con los que poder aprender a programar cualquier tecnología.
+description: Vamos a recopilar los mejores sitios web gratuitos en los que se reunen y comparten los mejores recursos del mundo y tutoriales con los que poder aprender a programar cualquier tecnología.
+excerpt: Vamos a recopilar los mejores sitios web gratuitos en los que se reunen y comparten los mejores recursos del mundo y tutoriales con los que poder aprender a programar cualquier tecnología.
 published: false
 comments: false
 date: 2020-02-05 10:31:12

@@ -8,8 +8,7 @@ author: rosepac
 bootstrap: true
 comments: false
 date: 2020-01-27 15:07:25
-permalink: >
-    /educacion-4-0/
+permalink: /educacion-4-0/
 ---
 
 ## Educación 4.0

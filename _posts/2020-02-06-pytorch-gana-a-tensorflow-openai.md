@@ -3,10 +3,8 @@
 author: rosepac
 bootstrap: true
 title: "▷ La apuesta de Open AI por PyTorch en vez de Tensorflow, es una pequeña batalla ganada de Facebook contra Google"
-description: >-
-  🤖 Facebook vs. Google, Pytorch vs. Tensorflow, parece ser que la primera gran batalla es ganada por Facebook dentro del campo de la inteligencia artificial
-excerpt: >-
-  🤖 Facebook vs. Google, Pytorch vs. Tensorflow, parece ser que la primera gran batalla es ganada por Facebook dentro del campo de la inteligencia artificial
+description: Facebook vs. Google, Pytorch vs. Tensorflow, parece ser que la primera gran batalla es ganada por Facebook dentro del campo de la inteligencia artificial
+excerpt: Facebook vs. Google, Pytorch vs. Tensorflow, parece ser que la primera gran batalla es ganada por Facebook dentro del campo de la inteligencia artificial
 published: true
 comments: false
 date: 2020-02-06 15:30:12
