@@ -1,10 +1,11 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://rosepac.github.io"
+title: Ciberninjas
+description: "El Jardín Digital del Saber Binario 🌱 Los mejores recursos para aprender programación, desarrollo y diseño web"
 
 # Configuración
-title: Ciberninjas
-description: "El Jardín Digital del Saber Ninja 🌱 Los mejores recursos para aprender programación, desarrollo y diseño web"
+author: Pablo Álvarez Corredera
 # : Libros PDF, cursos, tutoriales y eventos
 avatar: 'assets/img/logos/ciberninjas-emoji-160px.png'
 favicon: 'assets/favicon.ico'
@@ -12,16 +13,23 @@ favicon: 'assets/favicon.ico'
 # Header and footer text
 header_text: 'Jardín Digital del Saber Binario'
 header_feature_image: 'assets/img/jardin-digital-1024.webp'
-footer_text: "© 2020 Ciberninjas. Recursos de Programación, Diseño y Tecnología<br/> Desarrollado desde Asturias. Con Jekyll y <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="nofollow,noreferrer">Type on Strap</a>"
+footer_text: >
+  © 2020 Ciberninjas. Recursos de Programación, Diseño y Tecnología<br/> Desarrollado desde Asturias. Con Jekyll y <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="nofollow,noreferrer">Type on Strap</a>
+
+# Seo Redes
+
+twitter:
+  username: ciberninjas
+  card: sumary
 
 # Blog
-excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+excerpt: truncate                                       # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: assets/img/lineart.png                    # A bit transparent for color posts.
 
 # Features
 katex: true                                          # Enable if using math markup
-google_analytics: UA-142542230-1                        # Tracking ID, e.g. "UA-000000-01"
+google_analytics: "UA-142542230-1  "                      # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: true                                     # To respect the usage of cookies
 cookie_consent_disclaimer: Nos gustaría utilizar cookies y scripts para mejorar la funcionalidad de la web. <a href="https://ciberninjas.com/aviso-legal/">Saber Más</a>
 disqus_shortname:                                       # Your discus shortname for comments
@@ -32,7 +40,7 @@ authors:                                                # In _data/authors.yml
 language:                                               # In _data/language.yml
 
 # PAGINATION
-paginate: 5
+paginate: 10
 paginate_path: "/blog/page:num"
 
 # PORTFOLIO
