@@ -8,6 +8,12 @@ permalink: /fondos-pantalla-moviles/
 canonical_URL: https://ciberninjas.com/fondos-pantalla-moviles/
 ---
 
+<style type="text/css">
+  img {
+    padding: 0;
+    }
+  </style>
+
 Fondos Móvil Geek
 
 https://ibb.co/album/dm79W3
