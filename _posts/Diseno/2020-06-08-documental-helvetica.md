@@ -48,7 +48,9 @@ El director de Haas, Hoffmann, le encargó a Miedinger, un ex empleado y diseña
 
 Introducida en medio de la ola de popularidad del diseño suizo y alimentado por las agencias de publicidad que venden ese nuevo estilo de diseño a sus clientes, la Helvetica apareció rápidamente en logotipos corporativos, señalización para sistemas de transporte, impresiones artísticas y muchos otros usos en todo el mundo. La inclusión de la fuente en sistemas informáticos domésticos como el Apple Macintosh en 1984 consolidó aún más su ubicuidad.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/wkoX0pEwSCw?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/wkoX0pEwSCw?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 [👀 Visualizar Documental](https://www.veoh.com/list-c/documentales-de-educacin?fbclid=IwAR1fkwJdf9_uy1VtU3FUGslgoRpAUgoGhcssLWM7kI8XYbHQsnWmgEpy2QA){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 
