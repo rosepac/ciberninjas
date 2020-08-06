@@ -24,8 +24,7 @@ La mejor colección de los mejores fondos de pantalla para móviles y smartphone
 
 ## Fondos Móviles de Star Wars
 
-[Los mejores fondos de pantalla para móviles](https://ibb.co/album/FswLCk
-){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Los mejores fondos de pantalla para móviles](https://ibb.co/album/FswLCk){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Fondos Móviles de Superheroes
 
@@ -33,30 +32,24 @@ La mejor colección de los mejores fondos de pantalla para móviles y smartphone
 
 ## Fondos Móviles de Dibujos Animados
 
-[Los mejores fondos de pantalla para móviles](https://ibb.co/album/tLsQ0h
-){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Los mejores fondos de pantalla para móviles](https://ibb.co/album/tLsQ0h){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Fondos Móviles de Mujeres
 
-[Los mejores fondos de pantalla para móviles](https://ibb.co/album/cD7cc8
-){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Los mejores fondos de pantalla para móviles](https://ibb.co/album/cD7cc8){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Fondos Móviles de Mujeres de Anime
 
-[Los mejores fondos de pantalla para móviles](https://ibb.co/album/N1NCfW
-){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Los mejores fondos de pantalla para móviles](https://ibb.co/album/N1NCfW){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Fondos Móviles de Música
 
-[Los mejores fondos de pantalla para móviles](https://ibb.co/album/9bsFFv
-){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Los mejores fondos de pantalla para móviles](https://ibb.co/album/9bsFFv){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Fondos Móviles de Naturaleza, Paisajes y Animales
 
-[Los mejores fondos de pantalla para móviles](https://ibb.co/album/W0WbTf
-){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Los mejores fondos de pantalla para móviles](https://ibb.co/album/W0WbTf){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Fondos Móviles de Transportes
 
-[Los mejores fondos de pantalla para móviles](https://ibb.co/album/PvbN0N
-){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[Los mejores fondos de pantalla para móviles](https://ibb.co/album/PvbN0N){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
