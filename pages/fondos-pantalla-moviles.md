@@ -1,4 +1,5 @@
 ---
+
 layout: page
 hide: true
 title: "Los mejores fondos de pantalla para móviles"
@@ -7,6 +8,7 @@ excerpt: Los mejores fondos de pantalla para móviles, smartphones
 permalink: /fondos-pantalla-moviles/
 canonical_URL: https://ciberninjas.com/fondos-pantalla-moviles/
 published: true
+tags: [Wallpaper, Fondos de Pantalla, Móviles]
 ---
 
 La mejor colección de los mejores fondos de pantalla para móviles y smartphones. La colección perfecta para todos los Geeks y amantes de la tecnología.

@@ -1,4 +1,5 @@
 ---
+
 layout: page
 hide: true
 title: "Los mejores fondos de pantalla para mi gusto personal"
@@ -7,6 +8,8 @@ excerpt: Los mejores fondos de pantalla para ordenadores de Programación, Desar
 permalink: /fondos-pantalla-canallas/
 canonical_URL: https://ciberninjas.com/fondos-pantalla-canallas/
 published: true
+tags: [Wallpaper, Fondos de Pantalla]
+
 ---
 
 [Los mejores fondos de pantalla para los más canallas](https://kutt.it/wallpaper-macarras){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
