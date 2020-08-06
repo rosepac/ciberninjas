@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+.clean {
+  padding: 0px;
+}
+
+img.clean {
+  padding: 0px;
+}
+
 figure {
   margin: 0;
 }
@@ -88,6 +96,9 @@ img[align=right] {
   margin-left: 3%;
 }
 
+.clean {
+  padding: 0px;
+}
 /* ---- Responsive ---- */
 
 @media screen and (max-width: $break) {
