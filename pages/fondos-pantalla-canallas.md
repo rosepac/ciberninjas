@@ -2,6 +2,7 @@
 
 layout: page
 hide: true
+bootstrap: true
 title: "Los mejores fondos de pantalla para mi gusto personal"
 description: Los mejores fondos de pantalla para ordenadores de Programación, Desarrollo y Más
 excerpt: Los mejores fondos de pantalla para ordenadores de Programación, Desarrollo y Más

@@ -1,12 +1,16 @@
 ---
+
 layout: page
 hide: true
+bootstrap: true
 title: "Los mejores fondos de pantalla para programadores y desarrolladores"
 description: Wallpapers que encantarán a cualquier desarrollador, programador, geek o cualquier otra persona amante de la tecnología
 excerpt: Wallpapers que encantarán a cualquier desarrollador, programador, geek o cualquier otra persona amante de la tecnología
 permalink: /fondos-pantalla-programacion/
 canonical_URL: https://ciberninjas.com/fondos-pantalla-programacion/
 published: true
+tags: [Wallpaper, Fondos de Pantalla]
+
 ---
 
 Una de las mejores colecciones de fondos de pantalla relacionados con el mundo de la tecnología, los lenguajes de programación y mucho más.
