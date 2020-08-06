@@ -8,11 +8,7 @@ permalink: /fondos-pantalla-moviles/
 canonical_URL: https://ciberninjas.com/fondos-pantalla-moviles/
 ---
 
-<style type="text/css">
-  img {
-    padding: 0;
-    }
-  </style>
+La mejor colección de los mejores fondos de pantalla para móviles y smartphones. La colección perfecta para todos los Geeks y amantes de la tecnología.
 
 Fondos Móvil Geek
 
