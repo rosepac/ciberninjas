@@ -18,7 +18,8 @@ La mejor colección de los mejores fondos de pantalla para móviles y smartphone
 [Los mejores fondos de pantalla para móviles](https://ibb.co/album/dm79W3){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## Fondos Móviles Más Canallas
-[Los mejores fondos de pantalla para móviles](https://ibb.co/album/0qFckM){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+[Los mejores fondos de pantalla para móviles](https://ibb.co/album/0qFckM){: .btn .btn-outline-dark .btn-lg .btn-block :target="_blank" rel="nofollow,noreferrer"}
 
 ## Fondos Móviles de Star Wars
 
