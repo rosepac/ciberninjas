@@ -83,7 +83,7 @@ embed,
 object,
 video {
   max-width: 100%;
-  padding: 0;
+  padding: 0%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -126,6 +126,10 @@ img[align=right] {
     max-width: 100%;
     padding: 0 1%;
   }
+}
+
+  div.clean {
+  padding: 0px;
 }
 
 @media screen and (max-width: $sm-break) {
@@ -257,4 +261,8 @@ kbd {
   line-height: 1;
   padding: 2px 4px;
   white-space: nowrap;
+}
+
+div.clean {
+  padding: 0px;
 }
