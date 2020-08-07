@@ -31,20 +31,21 @@ En 2020, existen un total de 811 expertos, puedes encontrar a todos ellos dentro
 
 ## **Google Developer Experts españoles reconocidos por Google**
 
-En España concretamente, podemos encontrar hasta a 12 desarrolladores expertos reconocidos por Google:
+En España concretamente, podemos encontrar hasta a 12+1 desarrolladores expertos reconocidos por Google:
 
+- [Abdón Rodríguez](https://ciberninjas.com/gde-tecnologias-web-abdon-rodriguez/) de Vigo
+- [Alberto Gutiérrez](https://ciberninjas.com/gde-google-cloud-alberto-gutierrez/) de Granada
+- [Carlos Azaustre](https://ciberninjas.com/gde-tecnologias-web-carlos-azaustre/) de Madrid
+- [Carlos Caballero](https://ciberninjas.com/gde-angular-carlos-caballero/) de Málaga
 - [Carlos Sánchez](https://ciberninjas.com/gde-google-cloud-carlos-sanchez/) de A Coruña
+- Debbie O´Brien de Palma de Mallorca
 - [Dimitris Kapanidis](https://ciberninjas.com/gde-google-cloud-dimitris-kapanidis/) de Barcelona
 - [Javier López](https://ciberninjas.com/gde-google-cloud-javier-lopez/) de Burgos
-- [Pablo Felip](https://ciberninjas.com/gde-g-suite-pablo-felip/) de Castellón de la Plana
-- [Joan León](https://ciberninjas.com/gde-tecnologias-web-joan-leon/) de Gerona
-- [Alberto Gutiérrez](https://ciberninjas.com/gde-google-cloud-alberto-gutierrez/) de Granada
-- [Jorge del Casar](https://ciberninjas.com/gde-tecnologias-web-jorge-del-casar/) de Madrid
-- [Carlos Caballero](https://ciberninjas.com/gde-angular-carlos-caballero/) de Málaga
-- Debbie O´Brien de Palma de Mallorca
-- [Mercedes Rodríguez](https://ciberninjas.com/gde-asistente-mercedes-rodriguez/) de Pontevedra
 - [Javier Provecho](https://ciberninjas.com/gde-google-cloud-javier-provecho/) de Valladolid
-- [Abdón Rodríguez](https://ciberninjas.com/gde-tecnologias-web-abdon-rodriguez/) de Vigo
+- [Joan León](https://ciberninjas.com/gde-tecnologias-web-joan-leon/) de Gerona
+- [Jorge del Casar](https://ciberninjas.com/gde-tecnologias-web-jorge-del-casar/) de Madrid
+- [Mercedes Rodríguez](https://ciberninjas.com/gde-asistente-mercedes-rodriguez/) de Pontevedra
+- [Pablo Felip](https://ciberninjas.com/gde-g-suite-pablo-felip/) de Castellón de la Plana
 
 ## **Enlaces Externos**
 
