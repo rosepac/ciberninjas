@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: '▷ Es hora de romper la ley del silencio sobre el bullying por Iñaki Zubizarreta'
+title: '▷ Es hora de romper la ley del silencio sobre el bullying'
 description: 'El ex-jugador de baloncesto, Iñaki Zubizarreta, cuenta su fuerte historia de su infancia sobre el acoso escolar'
 excerpt: 'El ex-jugador de baloncesto, Iñaki Zubizarreta, cuenta su fuerte historia de su infancia sobre el acoso escolar'
 comments: false
