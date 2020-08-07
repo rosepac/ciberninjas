@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "👨‍🎓 ▷ Camino a la Escuela"
+title: "▷ Camino a la Escuela"
 description: "Camino a la escuela narra las adversidades que cuatro niños tienen que superar para ir al colegio"
 excerpt: "Camino a la escuela narra las adversidades que cuatro niños tienen que superar para ir al colegio"
 # header:

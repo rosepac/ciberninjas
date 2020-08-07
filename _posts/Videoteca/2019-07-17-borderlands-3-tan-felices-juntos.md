@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "🎮 Borderlands 3: Tan Felices Juntos. Nueva Entrega de Uno de los Mejores FPS"
+title: "🎮 Borderlands 3: Tan Felices Juntos"
 description: "Trailer del videojuego FPS más esperados de todo 2019"
 excerpt: "Trailer del videojuego FPS más esperados de todo 2019"
 thumbnail: https://i.ibb.co/59Mq5tz/juego-borderlands-3.gif

@@ -2,8 +2,8 @@
 author: rosepac
 bootstrap: true
 title: "The Mandalorian (🎥 Nuevo Trailer de la Serie de Star Wars)"
-description: "The Mandalorian - Nuevo Trailer de Mandalorian, la Serie basada en Star Wars"
-excerpt: "The Mandalorian - Nuevo Trailer de Mandalorian, la Serie basada en Star Wars"
+description: "El Nuevo Trailer de Mandalorian, la Serie basada en Star Wars"
+excerpt: "El Nuevo Trailer de Mandalorian, la Serie basada en Star Wars"
 thumbnail: https://i.ibb.co/R9wmhwL/star-wars-mandalorian-baby-yoda.gif
 comments: false
 date: 2019-10-29 09:15:00 +0200

@@ -2,8 +2,8 @@
 author: rosepac
 bootstrap: true
 title: "La Materia Oscura (🎥 La nueva serie de HBO)"
-description: "La Materia Oscura - Trailer de la nueva serie de HBO"
-excerpt: "La Materia Oscura - Trailer de la nueva serie de HBO"
+description: "El Trailer de la nueva serie de HBO"
+excerpt: "El Trailer de la nueva serie de HBO"
 comments: false
 date: 2019-07-20 22:06:12
 tags:
