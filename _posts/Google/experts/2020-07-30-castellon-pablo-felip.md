@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Expertos de Google
-thumbnail: /assets/img/blog/acciones-github.webp
-feature-img: /assets/img/blog/acciones-github.webp
+thumbnail: /assets/img/paginas/07-gdg-ciberninjas.webp
+feature-img: /assets/img/paginas/07-gdg-ciberninjas.webp
 title: '▷ GDE: Pablo Felip, experto en Google Cloud'
 description: >-
   Conociendo a Pablo Felip, experto desarrollador español en la tecnología G Suite e incluido en el programa de Expertos de Desarrolladores de Google 2020.
@@ -19,9 +19,13 @@ published: true
 
 ---
 
-Pablo Felip es experto en la Plataforma G Suite de Google. Pablo Felip es el jefe de estudios, TIC y gestión de calidad en una institución educativa privada de España. La mayor parte de su carrera profesional ha estado estrechamente relacionada con la educación, tanto en puestos de gestión interna y aseguramiento de la calidad como maestro / entrenador en diferentes etapas y áreas, desde programas de capacitación no formal hasta capacitación vocacional formal y títulos de educación superior.
+Pablo Felip es experto en la Plataforma G Suite de Google. Pablo Felip es el jefe de estudios, TIC y gestión de calidad en una institución educativa privada de España.
 
-Como consecuencia, su objetivo y pasión es la mejora continua de los procesos organizativos y de aprendizaje / enseñanza a través de las metodologías innovadoras y nuevas herramientas TIC. Él ha estado usando, implementando y administrando G Suite desde 2010 y, más recientemente, aprovechando Google Sheets, Apps Script, Data Studio y otros servicios de G Suite para crear automatizaciones que mejoren los flujos de trabajo de los procesos corporativos. Proporcionando información sobre el rendimiento y ayudando en situaciones de toma de decisiones.
+La mayor parte de su carrera profesional ha estado estrechamente relacionada con la educación, tanto en puestos de gestión interna y aseguramiento de la calidad como maestro / entrenador en diferentes etapas y áreas, desde programas de capacitación no formal hasta capacitación vocacional formal y títulos de educación superior.
+
+Como consecuencia, su objetivo y pasión es la mejora continua de los procesos organizativos y de aprendizaje / enseñanza a través de las metodologías innovadoras y nuevas herramientas TIC.
+
+Él ha estado usando, implementando y administrando G Suite desde 2010 y, más recientemente, aprovechando Google Sheets, Apps Script, Data Studio y otros servicios de G Suite para crear automatizaciones que mejoren los flujos de trabajo de los procesos corporativos; proporcionando información sobre el rendimiento y ayudando en situaciones de toma de decisiones.
 
 Pablo es miembro del equipo de coordinación de GEG (Grupo de Educación de Google) en España desde 2018.
 

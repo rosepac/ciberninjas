@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Expertos de Google
-thumbnail: /assets/img/blog/acciones-github.webp
-feature-img: /assets/img/blog/acciones-github.webp
+thumbnail: /assets/img/paginas/07-gdg-ciberninjas.webp
+feature-img: /assets/img/paginas/07-gdg-ciberninjas.webp
 title: '▷ GDE: Jorge del Casar, experto en Google Cloud'
 description: >-
   Conociendo a Jorge del Casar, experto desarrollador español en tecnologías web incluido en el programa de Expertos de Desarrolladores de Google 2020.

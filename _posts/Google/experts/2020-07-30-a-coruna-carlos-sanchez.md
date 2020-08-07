@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Expertos de Google
-thumbnail: /assets/img/blog/acciones-github.webp
-feature-img: /assets/img/blog/acciones-github.webp
+thumbnail: /assets/img/paginas/07-gdg-ciberninjas.webp
+feature-img: /assets/img/paginas/07-gdg-ciberninjas.webp
 title: '▷ GDE: Carlos Sánchez, experto en Google Cloud'
 description: >-
   Conociendo a Carlos Sánchez, experto desarrollador español en la tecnología Google Cloud Computer incluido en el programa de Expertos de Desarrolladores de Google 2020.

@@ -5,8 +5,8 @@ bootstrap: true
 comments: false
 tags:
 - Expertos de Google
-thumbnail: /assets/img/blog/acciones-github.webp
-feature-img: /assets/img/blog/acciones-github.webp
+thumbnail: /assets/img/paginas/07-gdg-ciberninjas.webp
+feature-img: /assets/img/paginas/07-gdg-ciberninjas.webp
 title: '▷ GDE: Carlos Caballero González, experto en Angular'
 description: >-
   Conociendo a Carlos Caballero González, experto desarrollador español en la tecnología Angular incluido en el programa de Expertos de Desarrolladores de Google 2020.
