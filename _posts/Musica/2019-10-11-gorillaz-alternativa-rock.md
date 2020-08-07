@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: '🎧 Gorillaz\: La Mejor Banda de Rock Alternativo Británico'
+title: '🎧 Gorillaz: La Mejor Banda de Rock Alternativo Británico'
 description: 'Gorillaz, es una banda virtual británica. La banda consiste de cuatro miembros ficticios: 2-D, Noodle, Murdoc Niccals y Russel Hobbs.'
 excerpt: 'Gorillaz, es una banda virtual británica. La banda consiste de cuatro miembros ficticios: 2-D, Noodle, Murdoc Niccals y Russel Hobbs.'
 comments: false

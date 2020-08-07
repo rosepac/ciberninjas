@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "🎧 Danko Jones - Rock Roll Star"
+title: "🎧 Danko Jones (Rock Roll Star)"
 description: "Danko Jones es una banda de hard rock originaria de Toronto, Canadá. La banda está formada por Danko Jones, John Calabrese y Dan Cornelius."
 excerpt: "Danko Jones es una banda de hard rock originaria de Toronto, Canadá. La banda está formada por Danko Jones, John Calabrese y Dan Cornelius."
 comments: false

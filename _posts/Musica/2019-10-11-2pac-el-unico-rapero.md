@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "🎧 2PAC\: Uno de los raperos estadounidenses más importantes"
+title: "🎧 2PAC: Uno de los raperos estadounidenses más importantes"
 description: "Tupac Amaru Shakur, fue un rapero, actor, poeta y activista estadounidense. Considerado por muchas personas como uno de los raperos más importantes de la historia."
 excerpt: "Tupac Amaru Shakur, fue un rapero, actor, poeta y activista estadounidense. Considerado por muchas personas como uno de los raperos más importantes de la historia."
 comments: false
