@@ -69,6 +69,6 @@ Igualmente, vas a poder encontrar enlaces sobre los mejores sistemas de integrac
 **Fuente**: Mis marcadores del navegador 😸 y tu aporte. Si te animas,  para eso tenemos los comentarios por allí abajo, todos los aportes son bien reecibidos.. 😉
 {: .notice--info}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ![Los mejores artículos y enlaces sobre Git, Github, integración continua y más: Visto en Ciberninjas](/assets/img/blog/2020-git-github.webp "Los mejores artículos y enlaces sobre Git, Github, integración continua y más: Visto en Ciberninjas")

@@ -3,7 +3,7 @@
 author: rosepac
 bootstrap: true
 comments: false
-tags: [Cursos Gratis, Cursos Programación]
+tags: [Recursos Gratis, Cursos Gratis, Cursos Programación]
 title: "🥇 Los mejores cursos de PROGRAMACIÓN e informática 2020"
 description: "Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más"
 excerpt: "Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más"

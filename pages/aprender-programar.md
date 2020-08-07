@@ -7,6 +7,7 @@ author: rosepac
 bootstrap: true
 published: true
 comments: false
+hide: true
 date: 2020-02-27
 last_modified_at: 
 permalink: /programar/
@@ -16,36 +17,32 @@ feature-img: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-progr
 img: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp
 ---
 
-
-
 Guía completa y extensa de aprendizaje e introducción a la programación y el desarrollo web más actual. La estructura de la guía se basa en diferentes apartados que se han ido considerando importantes con el paso del tiempo, así como se ha considerado también importante incluir una extensa guía explicativa sobre todos los diferentes empleos relacionados con el ámbito tecnológico, entre otros puntos importantes; a saber.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-➡ La guía se encuentran en constante actualización / ampliación / modificación.<br/>
-🔔 Se complementa a la perfección con [nuestro blog](https://ciberninjas.com/blog/), vas a encontrar múltiples artículos / guías / tutoriales, etc.<br />
-📰 Síguenos en tu lector de [RSS favorito](https://ciberninjas.com/feed.xml){:target="_blank" rel="nofollow,noreferrer"}<br />
-📢 Estamos en las RRSS: [🐦 Twitter](https://twitter.com/ciberninjas "Twitter") [📘 Comunidad FB](http://facebook.com/groups/ciberninjas "Facebook") [🎓 Cursos FC](https://facebook.com/cibercursos "Facebook Exclusivo de Cursos y Memes") [🌈 Instagram](https://instagram.com/ciberninjas "Instagram") [👨‍💻 Dev.to](https://dev.to/@rosepac "Blog en el sitio especializado: Dev.to") Bajo el usuario @ciberninjas
-{: .notice--info}
+> ➡ La guía se encuentran en constante actualización / ampliación / modificación.<br/>
+> 🔔 Se complementa a la perfección con [nuestro blog](https://ciberninjas.com/blog/), vas a encontrar múltiples artículos / guías / tutoriales, etc.<br />
+> 📰 Síguenos en tu lector de [RSS favorito](https://ciberninjas.com/feed.xml){:target="_blank" rel="nofollow,noreferrer"}<br />
+> 📢 Estamos en las RRSS: [🐦 Twitter](https://twitter.com/ciberninjas "Twitter") [📘 Comunidad FB](http://facebook.com/groups/ciberninjas "Facebook") [🎓 Cursos FC](https://facebook.com/cibercursos "Facebook Exclusivo de Cursos y Memes") [🌈 Instagram](https://instagram.com/ciberninjas "Instagram") [👨‍💻 Dev.to](https://dev.to/@rosepac "Blog en el sitio especializado: Dev.to") Bajo el usuario @ciberninjas
 
-<details>
-<summary><strong>MENÚ 👇</strong><span><a name="menu"></a></span></summary>
-<nav class="menu">
-  <ol>
-    <li><a href="/programar/#menu">Cómo aprender a programar código</a></li>
-    <li><a href="/programar/#en-qué-campo-de-la-informática-trabajar">En qué campo de la informática trabajar</a></li>
-    <li><a href="/programar/#qué-lenguaje-aprender">Qué lenguaje de programación aprender</a></li>
-    <li><a href="/programar/#qué-lenguajes-evitar">Qué lenguajes de programación evitar</a></li>
-    <li><a href="/programar/#la-programación-en-la-actualidad">La programación en la actualidad</a></li>
-    <li><a href="/programar/#qué-puestos-de-trabajo-existen">De qué trabaja un programador</a></li>
-    <li><a href="/programar/#qué-tecnologías-y-herramientas-debo-aprender">Qué tecnologías y herramientas debo aprender</a></li>
-    <li><a href="/programar/#los-lenguajes-imprescindibles-de-2020">Qué lenguajes de programación son Imprescindibles en 2020</a></li>
-    <li><a href="/programar/#los-lenguajes-de-programación-más-clásicos">Cúales son los lenguajes más establecidos</a></li>
-    <li><a href="/programar/#otros-lenguajes-populares-en-la-actualidad">Los lenguajes menos conocidos pero más usados</a></li>
-  </ol>
-</nav>
-</details>
-<br />
+- [Cómo aprender a programar código](#cómo-aprender-a-programar-código)
+- [¿En qué campo de la informática trabajar?](#en-qué-campo-de-la-informática-trabajar)
+  - [Aprendizaje Automático / Machine Learning](#aprendizaje-automático--machine-learning)
+  - [Inteligencia Artificial / Deap Learning](#inteligencia-artificial--deap-learning)
+  - [Desarrollador Móvil Web](#desarrollador-móvil-web)
+- [¿Qué lenguaje aprender?](#qué-lenguaje-aprender)
+- [¿Qué lenguajes evitar?](#qué-lenguajes-evitar)
+- [La Programación en la Actualidad](#la-programación-en-la-actualidad)
+  - [¿Cómo iniciar una Startup?](#cómo-iniciar-una-startup)
+- [¿Qué puestos de trabajo existen?](#qué-puestos-de-trabajo-existen)
+- [¿Qué tecnologías y herramientas debo aprender?](#qué-tecnologías-y-herramientas-debo-aprender)
+- [Los Lenguajes Imprescindibles de 2020](#los-lenguajes-imprescindibles-de-2020)
+  - [Sobre Javascript](#sobre-javascript)
+- [Debemos hablar de WebAssambly](#debemos-hablar-de-webassambly)
+- [Los Lenguajes de Programación más Clásicos](#los-lenguajes-de-programación-más-clásicos)
+- [Otros Lenguajes Populares en la Actualidad](#otros-lenguajes-populares-en-la-actualidad)
+- [Lenguajes Estándar de los Navegadores](#lenguajes-estándar-de-los-navegadores)
 
 ## Cómo aprender a programar código
 
@@ -62,8 +59,9 @@ En esta primera sección, vamos a intentar realizar un resumen de los pasos que 
 9. Sé calmado y mantente calmado! Existen plazas de trabajo en cada lenguaje diferente, no tengas ninguna duda de que si realmente deseas dedicarte, tarde o temprano va aparecer algo que se adapte a ti.
 10. Lo más importante es ser persistente, conservar la motivación
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OPlGMplfEbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br />
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/OPlGMplfEbc?rel=0" allowfullscreen></iframe>
+</div><br/>
 
 [🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
@@ -75,7 +73,7 @@ Si no tienes un objetivo específico en mente, quizás deberías. Hoy en día, e
 
 Según uno de los últimos [informes publicados por Github](https://github.blog/2020-01-24-the-state-of-the-octoverse-machine-learning/). Python es el lenguaje más utilizado para el aprendizaje automático combinado junto a la biblioteca TensorFlow, si eres capaz de aprender ambos junto al dominio del idioma del inglés; muy probablemente te vas a encontrar en una posición muy favorable con la que poder lograr un trabajo importante en el futuro.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Además, siempre que hablemos de machine learning no podemos dejar olvidado al eficaz lenguaje de R. Sin lugar a dudas el más importante en el cometido de generar estadísticas; este lenguaje capaz de analizar y manipular datos de forma masiva sin ningún tipo de problemas, ofrece varios paquetes que simplifican la implementación de algoritmos alrededor del flujo de trabajo del aprendizaje automático.
 
@@ -83,7 +81,7 @@ Además, siempre que hablemos de machine learning no podemos dejar olvidado al e
 
 Si bien, lo que deseamos es trabajar en el campo de la inteligencia artificial, primero que nada debemos de saber que es un ámbito muy extenso; por todos los diferentes paradigmas que abarca. Casi podríamos agrupar todas las tecnologías del mundo de la programación y la robótica en el interior de cualquier proyecto que trabaje en la creación de una máquina inteligente; te serán requeridos los más avanzados conocimientos si deseas profundizar en este campo.
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 Partiendo de la base más sólida posible de lógica computación, conjunto a una amplia base matemática (no totalmente indispensable pero si que es recomendable) junto a un buen entendimiento de muchas técnicas de "devops" y el más alto y avanzado nivel exigible del manejo, gestión y manipulación de los datos y las librerías tecnológicas dedicadas a indexar y manejar grandes masas críticas de información.
 
@@ -250,7 +248,7 @@ Entre estos "lenguajes" destacan HTML y CSS, que forman una de las partes más i
 <!-- ## Qué es Programar -->
 [🔝 Regresar 🔝](/programar/#menu){: .btn .btn--inverse .btn--large .align-center}
 
-## Declaración Ciberninjas
+## Declaración Ciberninjas <!-- omit in toc -->
 
 Amamos y casi hasta el punto de la adicción, los lenguajes de programación más modernos en conjunto a sus técnicas más creativas y novedosas de implementarlos en la sociedad actual.
 
@@ -269,4 +267,4 @@ Seguro que tarde o temprano, tendrás tu lugar por aquí. Si quieres conocer má
 [👉 Únete a la Comunidad 👨‍👨‍👦‍👦](https://kutt.it/comunidad){: .btn .btn--inverse .btn--x-large .align-center}
 [🐤 Twitter](https://kutt.it/ciberninjast){: .btn .btn--inverse .btn--large} [📘 Facebook](https://kutt.it/cibercursos){: .btn .btn--inverse .btn--large} [💭 Discord](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large} [💘 Donativo 🥰](https://kutt.it/donativo){: .btn .btn--inverse .btn--large} [☕ Café 👏](https://kutt.it/Cafe){: .btn .btn--inverse .btn--large} [🎁 Dona Criptos](https://kutt.it/ciberninjas_discord){: .btn .btn--inverse .btn--large}
 
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

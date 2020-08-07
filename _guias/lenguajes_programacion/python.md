@@ -464,7 +464,7 @@ PyTorch está superando a TensorFlow en múltiples formas y está ganando mucha 
 
 [🐍 Biblioteca PyTorch 🐍](https://pytorch.org/){: .btn .btn--warning .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
 [🔝 Volver a Bibliotecas de Python 🔝](/python/#bibliotecas-de-python){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 A continuación, en esta sección de 'Las mejores bibliotecas de Python', tenemos a LightGBM..
 

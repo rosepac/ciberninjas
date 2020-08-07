@@ -45,7 +45,7 @@ API son las interfaces de programación que permiten al software interactuar con
 Identificar al usuario de la API. Las técnicas comunes para la autenticación incluyen API Keys y OAuth.
 
 [🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## C
 
@@ -114,7 +114,7 @@ Encabezado que designa una versión de una representación. Útil para el almace
 Un encabezado que le dice al cliente que puede almacenar en caché una respuesta hasta cierto tiempo.
 
 [🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## G
 
@@ -183,7 +183,7 @@ Un tipo hipermedia que normaliza el hipervínculo y la incorporación de recurso
 JSON con relleno es una técnica utilizada para superar las restricciones de dominio cruzado impuestas por los navegadores para permitir que los datos se recuperen de sistemas distintos al que sirve la página.
 
 [🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## L
 
@@ -256,7 +256,7 @@ La transferencia de estado representativo es un patrón arquitectónico para int
 Marco de descripción de recursos. Marco enfocado en contenido semántico.
 
 [🔝 Índice](/glosario/completo-interfaces-programacion/#page-title){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ## S
 
@@ -340,4 +340,4 @@ XML es un lenguaje de marcado extensible que se utiliza para describir documento
 ## Otros Glosarios
 
 [🐍 Glosario de Tecnologías de Python](/glosario/completo-tecnologias-python/){: .btn .btn--inverse .btn--large .align-center}
-[🎁 Visita Nuestra Tienda 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn--info .btn--large .align-center}{:target="_blank" rel="nofollow,noreferrer"}
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
