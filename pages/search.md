@@ -1,7 +1,7 @@
 ---
 layout: search
 title: Buscador
-permalink: /search/
+permalink: /buscador/
 subtitle: "Qué buscas?"
 feature-img: "assets/img/pexels/search-map.jpeg"
 icon: "fa-search"
