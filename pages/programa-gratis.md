@@ -7,9 +7,14 @@ description: Recursos y repositorios impresionantes de miles de cursos, libros, 
 excerpt: Recursos y repositorios impresionantes de miles de cursos, libros, infografías y mucho más. Con lo que convertirte un auténtico Ciberninja de la programación y el desarrollo.
 permalink: /programa-gratis/
 canonical_URL: https://ciberninjas.com/programa-gratis/
+thumbnail: /assets/img/paginas/amor-programacion.webp
+feature-img: /assets/img/paginas/amor-programacion.webp
+img: /assets/img/paginas/amor-programacion.webp
 ---
 
 Si eres nuevo/a en el mundo de la programación y el desarrollo web, tiene sentido comenzar a [aprender](https://ciberninjas.com/aprender/) por ti mismo. Utilizando todos los recursos gratuitos y [herramientas](https://kutt.it/comunidad){:target="_blank" rel="nofollow,noreferrer"} existentes en línea, en relación con [aprender a programar](https://ciberninjas.com/programar/).
+
+{% include programa-gratis.html %}
 
 Al aprovechar estos recursos al mismo tiempo que aprendes a programar de forma gratuita, puedes descubrir lo que más y menos te gusta, antes de invertir dinero en un determinado [lenguaje de programación concreto](https://ciberninjas.com/lenguajes-programacion/) o un conjunto de cursos más específico y profesional.
 
@@ -17,16 +22,48 @@ Una vez que hayas pasado por suficientes lecciones de programación gratuitas pa
 
 Sin embargo, hay cientos de recursos, [guías de programación](https://ciberninjas.com/guias/), [cursos gratuitos online](https://ciberninjas.com/cursos-tecnologia/) y [libros de programación gratuitos](https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/) entre los que elegir.
 
-**¿Cómo saber cuáles son los mejores para aprender a programar en línea?**
+> ℹ Los documentos que puedes encontrarte aquí listados, están bajo licencias Creative Commons, Licencia Mit o bajo licencia Apache 2.0.
+
+- [**¿Cómo saber cuáles son los mejores para aprender a programar en línea?**](#cómo-saber-cuáles-son-los-mejores-para-aprender-a-programar-en-línea)
+- [**Mejores sitios web generales de programación y plataformas de cursos gratuitas**](#mejores-sitios-web-generales-de-programación-y-plataformas-de-cursos-gratuitas)
+  - [1. **FreeCodeCamp**](#1-freecodecamp)
+  - [2. **Udemy**](#2-udemy)
+  - [3. **Khan Academy**](#3-khan-academy)
+  - [4. **Coursera**](#4-coursera)
+  - [5. **CodeAcademy**](#5-codeacademy)
+  - [6. **CodeWars**](#6-codewars)
+  - [7. **CodeHS**](#7-codehs)
+  - [8. **EDX**](#8-edx)
+  - [9. **El Proyecto Odin**](#9-el-proyecto-odin)
+  - [10. **Code ORG**](#10-code-org)
+  - [11. **Code Conquest**](#11-code-conquest)
+  - [**GA Dash**](#ga-dash)
+- [**Los mejores blogs para ayudarte a aprender a programar**](#los-mejores-blogs-para-ayudarte-a-aprender-a-programar)
+  - [**23. Blog de David Walsh**](#23-blog-de-david-walsh)
+  - [**24. Tuts +**](#24-tuts-)
+  - [**25. SitePoint**](#25-sitepoint)
+  - [**Trucos CSS**](#trucos-css)
+  - [SQLZoo](#sqlzoo)
+- [**Aprende a utilizar la línea de comandos gratis**](#aprende-a-utilizar-la-línea-de-comandos-gratis)
+- [**Aprende Git y Github gratis**](#aprende-git-y-github-gratis)
+- [**Aprender a desarrollar con HTML y CSS gratis**](#aprender-a-desarrollar-con-html-y-css-gratis)
+- [**Aprende a programar con Javascript gratis**](#aprende-a-programar-con-javascript-gratis)
+- [**Aprende a utilizar Wordpress gratis**](#aprende-a-utilizar-wordpress-gratis)
+- [**Aprende a programar Python gratis**](#aprende-a-programar-python-gratis)
+- [**Aprende a programar Ruby gratis**](#aprende-a-programar-ruby-gratis)
+- [**Aprende a analizar y ciencia de datos gratis**](#aprende-a-analizar-y-ciencia-de-datos-gratis)
+- [**Aprende aprendizaje profundo gratis**](#aprende-aprendizaje-profundo-gratis)
+- [**Aprende inteligencia artificial gratis**](#aprende-inteligencia-artificial-gratis)
+- [**Aprende ciberseguridad gratis**](#aprende-ciberseguridad-gratis)
+- [**Aprende desarrollo de aplicaciones móviles gratis**](#aprende-desarrollo-de-aplicaciones-móviles-gratis)
+- [**Aprende diseño UX/UI gratis**](#aprende-diseño-uxui-gratis)
+
+## **¿Cómo saber cuáles son los mejores para aprender a programar en línea?**
 
 Personalmente, llevo ya más de dos años investigando un poco para ahorrarte tiempo en encontrarlos, y aquí están los mejores sitios web para aprender a programar y desarrollar de forma gratuita. Entre estos centenares de recursos, vas a encontrar desde simples tutoriales de programación hasta cursos avanzados de programación en línea. Para facilitarte las cosas, desglose y organice todos los recursos para aprender a programar según la diferente temática a estudiar.
 
 Solamente debes utilizar los índices internos de cada publicación para saltar a donde desees. De lo contrario, puedes seguir guíandote a través de la tabla de contenido que iré creando (con el paso del tiempo) a continuación.
-
-ℹ Los documentos que puedes encontrarte aquí listados, están bajo licencias Creative Commons, Licencia Mit o bajo licencia Apache 2.0.
 <!-- https://learntocodewith.me/posts/code-for-free/ -->
-
-{% include programa-gratis.html %}
 <!-- TRASLADAR EL CONTENIDO DESDE: ▷ 20 + Mejores Páginas Web para Aprender Programación GRATIS en 2020 -->
 <!-- En el caso de las traducciones, las licencias bajo las que se encuentran los documentos se muestran en la parte inferior de cada publicación; junto además a los autores en la parte superior, si es que fuese necesario.
 {: .notice--danger} -->
@@ -43,9 +80,9 @@ Por desgracia las mejores páginas web en la actualidad siguen siendo en inglés
 
 A continuación, vamos a reunir las mejores páginas de programación del mundo, ¡Veamos cuantas podemos recopilar!
 
-### **1. FreeCodeCamp**
+### 1. **FreeCodeCamp**
 
-![](https://i.ibb.co/cc6mYDb/image.png)
+![Página web de free code camp, visto en Ciberninjas](/assets/img/paginas/free-code-camp.webp)
 
 La escuela de programación gratuita en línea, FreeCodeCamp, fue creada por Quincy Larson. En ella se enseña programación, primero a través de un plan de estudios establecido (aproximadamente de 800 horas en total) a través de tutoriales interactivos que permiten mantener tu progreso en un tablero visual al estilo de Github.
 
@@ -71,9 +108,11 @@ Entre lo que más publican, se encuentran los lenguajes de programación Javascr
 [Visita FreeCodeCamp](https://www.freecodecamp.com/){:target="_blank" rel="nofollow,noreferrer"}
 <!-- Qué es Free Code Camp https://www.freecodecamp.org/news/about/ -->
 
-### **2. Udemy**
+### 2. **Udemy**
 
-En Udemy, nos ofrecen clases de codificación gratuitas y de pago; debes tener en cuenta que cualquier persona puede crear cursos en Udemy, así que asegúrate de leer las reseñas.
+![Página web de Udemy, visto en Ciberninjas](/assets/img/paginas/pagina-udemy.webp)
+
+Desde Udemy, nos ofrecen clases de codificación gratuitas y de pago; debes tener en cuenta que cualquier persona puede crear cursos en Udemy, así que asegúrate de leer las reseñas.
 
 Los cupones para cursos con descuento e incluso para cursos gratuitos, pueden encontrarse fácilmente y las ventas con descuento suelen ser frecuentes. A diario, desde Cibercursos (el proyecto paralelo a Ciberninjas) compartimos todos los cursos gratis y en español que van ofreciendo desde Udemy.
 
@@ -81,7 +120,9 @@ Si quieres encontrarlos, solamente debes [entrar en nuestra página](https://www
 
 [Visita Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"}
 
-### **3. Khan Academy**
+> 👷‍♂️👷‍♂️👷‍♂️ La página sigue en construcción.. 👷‍♂️👷‍♂️👷‍♂️
+
+### 3. **Khan Academy**
 
 Aunque los cursos de Khan Academy, no están tan estructurados como los de CodeHS, que enumeraré a continuación, sirven como un patio de juegos abierto tanto para principiantes como para aficionados particularmente interesados ​​en aprender dibujo, animación e interacción del usuario con las técnicas de programación.
 
@@ -89,7 +130,7 @@ Los cursos enfocados a la programación dentro de Khan Academy están enfocados 
 
 Khan Academy ofrece toneladas de materiales (como la propia web dice en su página principal "Aquí puedes aprender de todo"), incluido muchas sobre programación de computadoras; también ofrecen algunos cursos para niños más pequeños, ¡Por si quieres animar a la familia al mundo de la programación gratis!
 
-### **4. Coursera**
+### 4. **Coursera**
 
 Coursera es uno de los mejores lugares para aprender a programar de forma gratuita, gracias a sus amplias opciones y variedad de cursos impartidos por profesionales. La web, es una gran biblioteca de cursos en línea donde las clases son impartidas por profesores universitarios reales.
 
@@ -101,7 +142,7 @@ A veces, pagar por un certificado también otorga acceso a contenido extra que n
 
 https://www.coursera.org/
 
-### **5. CodeAcademy**
+### 5. **CodeAcademy**
 
 Codecademy es donde la mayoría de las personas que son nuevas en la programación comienzan. En su plataforma, puedes aprender a programar entre otras muchas más habilidades técnicas. Su buena reputación es bien merecida.
 
@@ -113,7 +154,7 @@ El sitio tiene una interfaz limpia y los cursos están bien estructurados. Al vi
 
 https://www.codecademy.com/
 
-### **6. CodeWars**
+### 6. **CodeWars**
 
 Codewars ofrece una forma divertida y única de aprender a codificar. Con un tema de artes marciales, el programa se basa en desafíos llamados "kata". Complétalos para ganar honor y avanzar a rangos más altos.
 
@@ -125,14 +166,14 @@ Domina el idioma que prefieras o amplía tu comprensión de uno nuevo.
 
 https://www.codewars.com/
 
-### **7. CodeHS**
+### 7. **CodeHS**
 
 En este punto, todos los sitios web que lee aquí están dedicados principalmente al desarrollo web y la informática, pero CodeHS es uno con lecciones de programación de juegos simples y divertidas que involucran resolución de problemas, JavaScript, animación, estructuras de datos, diseño de juegos y desafíos de rompecabezas y mucho mucho mas.
 
 https://codehs.com/editor/sandbox/explore
 
 
-### **8. EDX**
+### 8. **EDX**
 
 EDX es un programa de educación superior de código abierto gobernado por el MIT y la universidad de Harvard, lo que lo convierte en otro recurso de alta calidad donde poder aprender a programar en línea de forma gratuita.
 
@@ -142,7 +183,7 @@ Open edX es la plataforma de código abierto que impulsa los cursos de edX y est
 
 Vas a encontrarte con cursos de programación gratuitos sobre Java, C #, Python, inteligencia artificial y muchos más.
 
-### **9. El Proyecto Odin**
+### 9. **El Proyecto Odin**
 
 Los guerreros de hoy en día pueden zarpar para aprender a codificar con el Proyecto Odin. Está hecho por los creadores de Thinkful, un campo de entrenamiento de codificación en línea de primer nivel, y el Proyecto Odin es su versión gratuita de código abierto.
 
@@ -152,7 +193,7 @@ No solo eso, con The Odin Project, los estudiantes también pueden trabajar para
 
 Ofrece HTML, CSS, JavaScript y jQuery, programación con Ruby, Ruby on Rails.
 
-### **10. Code ORG**
+### 10. **Code ORG**
 
 Code.org proporciona materiales de aprendizaje específicamente dedicados a aumentar las tasas de estudiantes mujeres y de minorías que ingresan a carreras de informática.
 
@@ -162,7 +203,7 @@ Cursos de codificación ofrecidos: HTML, CSS, JavaScript, programación por bloq
 
 <!-- https://learntocodewith.me/posts/code-for-free/#html-css -->
 
-### **Code Conquest**
+### 11. **Code Conquest**
 
 Code Conquest es una guía en línea gratuita sobre codificación para principiantes. El sitio web de codificación es perfecto para aquellos que no tienen ni idea de por dónde empezar. Aprender cómo aprender a código, ver tutoriales gratuitos, hojas de trucos de descarga, prueba sus conocimientos con los concursos, y mucho más.
 
