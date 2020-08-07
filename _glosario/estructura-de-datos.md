@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Estructura de Datos: Definición del Término"
 description: "Estructura de Datos"
 excerpt: "Forma de organizar los datos para que puedan ser utilizados de manera eficiente."

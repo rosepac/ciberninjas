@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "IANAL"
 description: "IANAL"
 excerpt: "El tráfico web es la cantidad de datos enviados y recibidos por los visitantes a un sitio web."

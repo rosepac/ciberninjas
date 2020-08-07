@@ -23,64 +23,64 @@ Las Leyes de Experiencia de Usuario, son una colección de los principios y las 
 
 - [1. **Efecto de usabilidad estética**](#1-efecto-de-usabilidad-estética)
   - [Orígenes](#orígenes)
-  - [**Artículos sobre la Usabilidad Estética**](#artículos-sobre-la-usabilidad-estética)
+  - [Artículos sobre la Usabilidad Estética](#artículos-sobre-la-usabilidad-estética)
 - [2. **Umbral Doherty**](#2-umbral-doherty)
   - [Orígenes](#orígenes-1)
-  - [**Artículos sobre el umbral Doherty**](#artículos-sobre-el-umbral-doherty)
+  - [Artículos sobre el umbral Doherty](#artículos-sobre-el-umbral-doherty)
 - [3. **Ley de Fitts**](#3-ley-de-fitts)
   - [Orígenes](#orígenes-2)
-  - [**Artículos sobre Ley de Fitts**](#artículos-sobre-ley-de-fitts)
+  - [Artículos sobre Ley de Fitts](#artículos-sobre-ley-de-fitts)
 - [4. **Ley de Hick**](#4-ley-de-hick)
   - [Orígenes](#orígenes-3)
-  - [**Artículos sobre la Ley de Hick**](#artículos-sobre-la-ley-de-hick)
+  - [Artículos sobre la Ley de Hick](#artículos-sobre-la-ley-de-hick)
 - [5. **Ley de Jakob**](#5-ley-de-jakob)
   - [Orígenes](#orígenes-4)
-  - [**Artículos sobre la Ley de Jakob**](#artículos-sobre-la-ley-de-jakob)
+  - [Artículos sobre la Ley de Jakob](#artículos-sobre-la-ley-de-jakob)
 - [6. **Ley de la Región Común**](#6-ley-de-la-región-común)
   - [Orígenes](#orígenes-5)
-  - [**Artículos sobre la Región Común**](#artículos-sobre-la-región-común)
+  - [Artículos sobre la Región Común](#artículos-sobre-la-región-común)
 - [7. **Ley de Prägnanz**](#7-ley-de-prägnanz)
   - [Orígenes](#orígenes-6)
-  - [**Artículos sobre la Ley de Prägnanz**](#artículos-sobre-la-ley-de-prägnanz)
+  - [Artículos sobre la Ley de Prägnanz](#artículos-sobre-la-ley-de-prägnanz)
 - [8. **Ley de la Proximidad**](#8-ley-de-la-proximidad)
   - [Orígenes](#orígenes-7)
-  - [**Artículos sobre la Ley de la Proximidad**](#artículos-sobre-la-ley-de-la-proximidad)
+  - [Artículos sobre la Ley de la Proximidad](#artículos-sobre-la-ley-de-la-proximidad)
 - [9. **Ley de Similitud**](#9-ley-de-similitud)
   - [Orígenes](#orígenes-8)
-  - [**Artículos sobre la Ley de la Similitud**](#artículos-sobre-la-ley-de-la-similitud)
+  - [Artículos sobre la Ley de la Similitud](#artículos-sobre-la-ley-de-la-similitud)
 - [10. **Ley de la Conectividad Uniforme**](#10-ley-de-la-conectividad-uniforme)
   - [Orígenes](#orígenes-9)
-  - [**Artículos sobre la Ley de la Conectividad Uniforme**](#artículos-sobre-la-ley-de-la-conectividad-uniforme)
+  - [Artículos sobre la Ley de la Conectividad Uniforme](#artículos-sobre-la-ley-de-la-conectividad-uniforme)
 - [11. **Ley de Miller**](#11-ley-de-miller)
   - [Orígenes](#orígenes-10)
-  - [**Artículos sobre la Ley de Miller**](#artículos-sobre-la-ley-de-miller)
+  - [Artículos sobre la Ley de Miller](#artículos-sobre-la-ley-de-miller)
 - [12. **La navaja de Occam**](#12-la-navaja-de-occam)
   - [Orígenes](#orígenes-11)
-  - [**Artículos sobre la Ley de Occam**](#artículos-sobre-la-ley-de-occam)
+  - [Artículos sobre la Ley de Occam](#artículos-sobre-la-ley-de-occam)
 - [13. **El Principio de Pareto**](#13-el-principio-de-pareto)
   - [Orígenes](#orígenes-12)
-  - [**Artículos sobre El Principio de Pareto**](#artículos-sobre-el-principio-de-pareto)
+  - [Artículos sobre El Principio de Pareto](#artículos-sobre-el-principio-de-pareto)
 - [14. **Ley de Parkinson**](#14-ley-de-parkinson)
   - [Orígenes](#orígenes-13)
-  - [**Artículos sobre la Ley de Parkinson**](#artículos-sobre-la-ley-de-parkinson)
+  - [Artículos sobre la Ley de Parkinson](#artículos-sobre-la-ley-de-parkinson)
 - [15. **Regla de Fin de Pico**](#15-regla-de-fin-de-pico)
   - [Orígenes](#orígenes-14)
-  - [**Artículos sobre la Regla del Fin de Pico**](#artículos-sobre-la-regla-del-fin-de-pico)
+  - [Artículos sobre la Regla del Fin de Pico](#artículos-sobre-la-regla-del-fin-de-pico)
 - [16. **Ley de Postel**](#16-ley-de-postel)
   - [Orígenes](#orígenes-15)
-  - [**Artículos sobre La ley Postel**](#artículos-sobre-la-ley-postel)
+  - [Artículos sobre La ley Postel](#artículos-sobre-la-ley-postel)
 - [17. **Efecto del posicionamiento en serie**](#17-efecto-del-posicionamiento-en-serie)
   - [Orígenes](#orígenes-16)
-  - [**Artículos sobre el Efecto de Posicionamiento en Serie**](#artículos-sobre-el-efecto-de-posicionamiento-en-serie)
+  - [Artículos sobre el Efecto de Posicionamiento en Serie](#artículos-sobre-el-efecto-de-posicionamiento-en-serie)
 - [18. **Ley de Tesler**](#18-ley-de-tesler)
   - [Orígenes](#orígenes-17)
-  - [**Artículos sobre la Ley de Tesler**](#artículos-sobre-la-ley-de-tesler)
+  - [Artículos sobre la Ley de Tesler](#artículos-sobre-la-ley-de-tesler)
 - [19. **Efecto Von Restorff**](#19-efecto-von-restorff)
   - [Orígenes](#orígenes-18)
-  - [**Artículos sobre el Efecto Von Restorff**](#artículos-sobre-el-efecto-von-restorff)
+  - [Artículos sobre el Efecto Von Restorff](#artículos-sobre-el-efecto-von-restorff)
 - [20. **Efecto Zeigarnik**](#20-efecto-zeigarnik)
   - [Orígenes](#orígenes-19)
-  - [**Artículos sobre el Efecto Zeigarnik**](#artículos-sobre-el-efecto-zeigarnik)
+  - [Artículos sobre el Efecto Zeigarnik](#artículos-sobre-el-efecto-zeigarnik)
   - [Licencia](#licencia)
 
 > 🔥 Seguro también te interesa: [Mejores Blogs de Diseño](/blogs-diseno-grafico-espanol/) >> [Mejores Blogs en Inglés](/blogs-diseno-grafico-ingles/) >> [Aprender Diseño Gráfico](/dise%C3%B1o-grafico/) >> [Cursos Animación y Diseño](/cursos-animacion-diseno/)
@@ -100,7 +100,7 @@ El efecto de usabilidad estética se estudió por primera vez en el campo de la 
 Encontraron una correlación más fuerte entre las calificaciones de los participantes de atractivo estético y la facilidad de uso percibida que la correlación entre sus calificaciones de atractivo estético y la facilidad de uso real. Kurosu y Kashimura concluyeron que los usuarios están fuertemente influenciados por la estética de cualquier interfaz, incluso cuando intentan evaluar la funcionalidad subyacente del sistema.
 <!-- https://www.nngroup.com/articles/aesthetic-usability-effect/ -->
 
-### **Artículos sobre la Usabilidad Estética**
+### Artículos sobre la Usabilidad Estética
 
 - [El efecto de la usabilidad estética](https://www.nngroup.com/articles/aesthetic-usability-effect/){:target="_blank" rel="nofollow,noreferrer"} por Kate Moran
 - [El efecto de la usabilidad estética](https://markboulton.co.uk/journal/aesthetic-usability-effect){:target="_blank" rel="nofollow,noreferrer"} por Mark Boulton
@@ -119,7 +119,7 @@ Encontraron una correlación más fuerte entre las calificaciones de los partici
 
 En 1982, Walter J. Doherty y Ahrvind J. Thadani publicaron, en el IBM Systems Journal, un artículo de investigación que establece que el tiempo de respuesta de la computadora es de 400 milisegundos, no 2,000 (2 segundos), que había sido el estándar anterior. Cuando se ejecutó el comando de un ser humano y se le devolvió una respuesta En menos de 400 milisegundos, se consideró que excedía el umbral de Doherty, y el uso de tales aplicaciones se consideró "adictivo" para los usuarios.
 
-### **Artículos sobre el umbral Doherty**
+### Artículos sobre el umbral Doherty
 
 - [El valor económico del tiempo de respuesta rápido](https://jlelliotton.blogspot.ca/p/the-economic-value-of-rapid-response.html){:target="_blank" rel="nofollow,noreferrer"}
 - [Esta joya UX de los 70 que todavía se aplican hoy en día](https://medium.com/@Gugel/the-doherty-threshold-5471ca990de6){:target="_blank" rel="nofollow,noreferrer"}
@@ -141,7 +141,7 @@ En 1954, el psicólogo Paul Fitts, al examinar el sistema motor humano, mostró 
 
 La ley de Fitts se aplica ampliamente en la experiencia del usuario (UX) y el diseño de la interfaz de usuario (UI). Por ejemplo, esta ley influyó en la convención de hacer que los botones interactivos sean grandes (especialmente en dispositivos móviles que funcionan con los dedos): los botones más pequeños son más difíciles (y requieren más tiempo) para hacer clic. Del mismo modo, la distancia entre el área de tareas / atención de un usuario y el botón relacionado con la tarea debe mantenerse lo más corta posible.
 
-### **Artículos sobre Ley de Fitts**
+### Artículos sobre Ley de Fitts
 
 - [La ley de Fitt](https://www.interaction-design.org/literature/topics/fitts-law){:target="_blank" rel="nofollow,noreferrer"}
 
@@ -159,7 +159,7 @@ La ley de Fitts se aplica ampliamente en la experiencia del usuario (UX) y el di
 
 La Ley de Hick (o la Ley de Hick-Hyman) lleva el nombre de un equipo de psicólogos británico y estadounidense de William Edmund Hick y Ray Hyman. En 1952, este par se propuso examinar la relación entre el número de estímulos presentes y el tiempo de reacción de un individuo a cualquier estímulo dado. Como era de esperar, cuantos más estímulos elija, más tiempo le tomará al usuario tomar una decisión sobre con quién interactuar. Los usuarios bombardeados con opciones tienen que tomarse el tiempo para interpretar y decidir, dándoles el trabajo que no quieren.
 
-### **Artículos sobre la Ley de Hick**
+### Artículos sobre la Ley de Hick
 
 - [Ley de Hick: facilitar la elección de los usuarios](https://www.interaction-design.org/literature/article/hick-s-law-making-the-choice-easier-for-users){:target="_blank" rel="nofollow,noreferrer"} por Mads Soegaard
 - [Ley de Hick - Toma de decisiones rápidas](https://uxplanet.org/design-principles-hicks-law-quick-decision-making-3dcc1b1a0632){:target="_blank" rel="nofollow,noreferrer"} por
@@ -180,7 +180,7 @@ La Ley de Hick (o la Ley de Hick-Hyman) lleva el nombre de un equipo de psicólo
 
 La Ley de Jakob fue acuñada por Jakob Nielsen, defensor de los usuarios y director del Grupo Nielsen Norman, que cofundó con el Dr. Donald A. Norman (ex vicepresidente de investigación de Apple Computer). El Dr. Nielsen estableció el movimiento de 'ingeniería de usabilidad de descuento' para mejoras rápidas y baratas de las interfaces de usuario y ha inventado varios métodos de usabilidad, incluida la evaluación heurística.
 
-### **Artículos sobre la Ley de Jakob**
+### Artículos sobre la Ley de Jakob
 
 - [Ley de Jakob de la experiencia del usuario de Internet](https://www.nngroup.com/videos/jakobs-law-internet-ux/){:target="_blank" rel="nofollow,noreferrer"} por Jakobs Law
 - [Los 10 errores principales en el diseño web](https://www.nngroup.com/articles/top-10-mistakes-web-design/){:target="_blank" rel="nofollow,noreferrer"}
@@ -202,7 +202,7 @@ Los principios de agrupación (o leyes de agrupación de la Gestalt) son un conj
 
 Los psicólogos de la Gestalt argumentaron que estos principios existen porque la mente tiene una disposición innata para percibir patrones en el estímulo basados ​​en ciertas reglas. Estos principios están organizados en cinco categorías: Proximidad, Similitud, Continuidad, Cierre y Conectividad.
 
-### **Artículos sobre la Región Común**
+### Artículos sobre la Región Común
 
 - [Principios de diseño: percepción visual y los principios de la Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/){:target="_blank" rel="nofollow,noreferrer"} por Steven Bradley
 - [Principios de la Gestalt](http://www.scholarpedia.org/article/Gestalt_principles){:target="_blank" rel="nofollow,noreferrer"}
@@ -223,7 +223,7 @@ En 1910, el psicólogo Max Wertheimer tuvo una idea cuando observó una serie de
 
 Esta observación condujo a un conjunto de principios descriptivos sobre cómo percibimos visualmente los objetos. Estos principios se encuentran en el corazón de casi todo lo que hacemos gráficamente como diseñadores.
 
-### **Artículos sobre la Ley de Prägnanz**
+### Artículos sobre la Ley de Prägnanz
 
 - [Las leyes de la figura / tierra, Prägnanz, cierre y destino común](https://www.interaction-design.org/literature/article/the-laws-of-figure-ground-praegnanz-closure-and-common-fate-gestalt-principles-3){:target="_blank" rel="nofollow,noreferrer"} por
 
@@ -242,7 +242,7 @@ Los principios de agrupación (o leyes de agrupación de la Gestalt) son un conj
 
 Los psicólogos de la Gestalt argumentaron que estos principios existen porque la mente tiene una disposición innata para percibir patrones en el estímulo basados ​​en ciertas reglas. Estos principios están organizados en cinco categorías: Proximidad, Similitud, Continuidad, Cierre y Conectividad.
 
-### **Artículos sobre la Ley de la Proximidad**
+### Artículos sobre la Ley de la Proximidad
 
 - [Leyes de proximidad, conexión uniforme y continuación](https://www.interaction-design.org/literature/article/laws-of-proximity-uniform-connectedness-and-continuation-gestalt-principles-2){:target="_blank" rel="nofollow,noreferrer"} por Mads Soegaard
 - [Los principios de psicología que todo diseñador de UI / UX necesita saber](https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/){:target="_blank" rel="nofollow,noreferrer"} por Thanasis Rigopoulos
@@ -263,7 +263,7 @@ Los principios de agrupación (o leyes de agrupación de la Gestalt) son un conj
 
 Los psicólogos de la Gestalt argumentaron que estos principios existen porque la mente tiene una disposición innata para percibir patrones en el estímulo basados ​​en ciertas reglas. Estos principios están organizados en cinco categorías: Proximidad, Similitud, Continuidad, Cierre y Conectividad.
 
-### **Artículos sobre la Ley de la Similitud**
+### Artículos sobre la Ley de la Similitud
 
 - [La Ley de Similitud - Principios de la Gestalt](https://www.interaction-design.org/literature/article/the-law-of-similarity-gestalt-principles-1){:target="_blank" rel="nofollow,noreferrer"} por
 - [Principios de diseño: percepción visual y los principios de la Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/){:target="_blank" rel="nofollow,noreferrer"} por
@@ -283,7 +283,7 @@ Los principios de agrupación (o leyes de agrupación de la Gestalt) son un conj
 
 Los psicólogos de la Gestalt argumentaron que estos principios existen porque la mente tiene una disposición innata para percibir patrones en el estímulo basados ​​en ciertas reglas. Estos principios están organizados en cinco categorías: Proximidad, Similitud, Continuidad, Cierre y Conectividad.
 
-### **Artículos sobre la Ley de la Conectividad Uniforme**
+### Artículos sobre la Ley de la Conectividad Uniforme
 
 - [Principios de percepción de la Gestalt](http://www.andyrutledge.com/gestalt-principles-3.html){:target="_blank" rel="nofollow,noreferrer"} por
 - [Leyes de proximidad, conexión uniforme y continuación](https://www.interaction-design.org/literature/article/laws-of-proximity-uniform-connectedness-and-continuation-gestalt-principles-2){:target="_blank" rel="nofollow,noreferrer"} por
@@ -306,7 +306,7 @@ Asimismo, 4 bits de información es una decisión entre 16 alternativas binarias
 
 El punto donde la confusión crea un juicio incorrecto es la capacidad del canal. En otras palabras, la cantidad de bits que se pueden transmitir de manera confiable a través de un canal, dentro de un cierto período de tiempo.
 
-### **Artículos sobre la Ley de Miller**
+### Artículos sobre la Ley de Miller
 
 - [La ley de Miller, la fragmentación y la capacidad de la memoria de trabajo](https://www.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut/e/miller-s-law--chunking--and-the-capacity-of-working-memory){:target="_blank" rel="nofollow,noreferrer"} por
 - [Principios de diseño para reducir la carga cognitiva](https://blog.prototypr.io/design-principles-for-reducing-cognitive-load-84e82ca61abd){:target="_blank" rel="nofollow,noreferrer"} por
@@ -323,7 +323,7 @@ Analice cada elemento y elimine tantos como sea posible, sin comprometer la func
 
 La navaja de afeitar de Occam (también navaja de afeitar de Ockham; latín: lex parsimoniae "ley de la parsimonia") es un principio de resolución de problemas que, cuando se presenta con respuestas hipotéticas competitivas a un problema, se debe seleccionar la que haga la menor cantidad de suposiciones. La idea se atribuye a Guillermo de Ockham (c. 1287–1347), un fraile franciscano inglés, filósofo escolástico y teólogo.
 
-### **Artículos sobre la Ley de Occam**
+### Artículos sobre la Ley de Occam
 
 - [Diseñando con la navaja de Occam](https://medium.com/@jonyablonski/designing-with-occams-razor-3692df2f3c7f){:target="_blank" rel="nofollow,noreferrer"} por Jon Yablonski
 - [Navaja de Occam: la solución más simple es siempre la mejor](https://www.interaction-design.org/literature/article/occam-s-razor-the-simplest-solution-is-always-the-best){:target="_blank" rel="nofollow,noreferrer"} por Mads Soegaard
@@ -343,7 +343,7 @@ Concentre la mayor parte del esfuerzo en las áreas que brindarán los mayores b
 
 Sus orígenes se remontan a Vilfredo Pareto, un economista que notó que el 80% de las tierras de Italia era propiedad del 20% de la población. Aunque parezca vago, la forma de pensar 80/20 puede proporcionar un análisis perspicaz y de aplicación infinita de los sistemas asimétricos, incluida la estrategia de experiencia del usuario.
 
-### **Artículos sobre El Principio de Pareto**
+### Artículos sobre El Principio de Pareto
 
 - [La regla 80/20 en la experiencia del usuario](https://medium.com/design-ibm/the-80-20-rule-in-user-experience-1695de32aaae){:target="_blank" rel="nofollow,noreferrer"} por
 - [Aplicando el Principio de Pareto a la Experiencia del Usuario](https://measuringu.com/pareto-ux/){:target="_blank" rel="nofollow,noreferrer"} por
@@ -359,7 +359,7 @@ Sus orígenes se remontan a Vilfredo Pareto, un economista que notó que el 80% 
 
 Articulado por Cyril Northcote Parkinson como parte de la primera oración de un ensayo humorístico publicado en The Economist en 1955 y reeditado en línea, fue reimpreso con otros ensayos en el libro La ley de Parkinson: La búsqueda del progreso (Londres, John Murray, 1958) . Derivó el dictamen de su amplia experiencia en el Servicio Civil Británico.
 
-### **Artículos sobre la Ley de Parkinson**
+### Artículos sobre la Ley de Parkinson
 
 - [Ley de Parkinson: por qué las restricciones son la mejor cosa con la que puedes trabajar](https://medium.com/the-mission/parkinsons-law-why-constraints-are-the-best-thing-you-can-work-with-4fad6e0e91cf){:target="_blank" rel="nofollow,noreferrer"} por Louis Chew
 
@@ -385,7 +385,7 @@ La segunda prueba hizo que los sujetos sumergieran la otra mano en agua a 14 ° 
 
 A los sujetos se les ofreció la opción de qué ensayo repetir. Contra la ley de la monotonicidad temporal, los sujetos estaban más dispuestos a repetir el segundo ensayo, a pesar de una exposición prolongada a temperaturas incómodas. Kahneman y col.
 
-### **Artículos sobre la Regla del Fin de Pico**
+### Artículos sobre la Regla del Fin de Pico
 
 - [La regla Peak-End: cómo las impresiones se convierten en recuerdos](https://www.nngroup.com/articles/peak-end-rule/){:target="_blank" rel="nofollow,noreferrer"}
 - [¿Qué es la teoría del pico-fin? Un psicólogo explica cómo nos engaña nuestra memoria](https://positivepsychology.com/what-is-peak-end-theory/){:target="_blank" rel="nofollow,noreferrer"}
@@ -402,7 +402,7 @@ Sea empático, flexible y tolerante con cualquier cantidad de acciones que el us
 
 La Ley de Postel (también conocida como Principio de Robustez) fue formulada por Jon Postel, uno de los primeros pioneros de Internet. La Ley es una guía de diseño para software, específicamente en lo que respecta a TCP y redes.
 
-### **Artículos sobre La ley Postel**
+### Artículos sobre La ley Postel
 
 - [Sistemas de Diseño y Ley de Postel](https://markboulton.co.uk/journal/2016-05-17.design-systems-and-postels-law/){:target="_blank" rel="nofollow,noreferrer"} por Mark Boulton
 - [Robustez y menor potencia](https://adactio.com/journal/14327){:target="_blank" rel="nofollow,noreferrer"} por Jeremy Keith
@@ -425,7 +425,7 @@ El efecto del posicionamiento en serie, es un término acuñado por Herman Ebbin
 
 La manipulación del efecto de posición en serie para crear mejores experiencias de usuario se refleja en muchos diseños populares de compañías exitosas como Apple, Electronic Arts y Nike.
 
-### **Artículos sobre el Efecto de Posicionamiento en Serie**
+### Artículos sobre el Efecto de Posicionamiento en Serie
 
 - [Efecto de posición en serie: cómo crear mejores interfaces de usuario](https://www.interaction-design.org/literature/article/serial-position-effect-how-to-create-better-user-interfaces){:target="_blank" rel="nofollow,noreferrer"} por Euphemia Wong
 - [El efecto de posición en serie: por qué ABC y XYZ se destacan más entre todos los alfabetos](https://medium.com/coffee-and-junk/design-psychology-serial-position-effect-ca0e4cf299cb){:target="_blank" rel="nofollow,noreferrer"} por Abhishek Chakraborty
@@ -445,7 +445,7 @@ La entrevista es popular entre los diseñadores de experiencia de usuario e inte
 
 Sin embargo, Bruce Tognazzini propone que las personas resistan las reducciones a cantidad de complejidad en sus vidas. Por lo tanto, cuando se simplifica una aplicación, los usuarios comienzan a intentar tareas más complejas.
 
-### **Artículos sobre la Ley de Tesler**
+### Artículos sobre la Ley de Tesler
 
 - [Explicando la ley de la Conservación de la Complejidad](http://www.humanist.co/blog/law-of-conservation-of-complexity/){:target="_blank" rel="nofollow,noreferrer"} por Michael Calleia
 - [Los contorles son selecciones](https://medium.com/@odannyboy/controls-are-choices-7de90363d0dd){:target="_blank" rel="nofollow,noreferrer"} por Dan Saffer
@@ -465,7 +465,7 @@ Sin embargo, Bruce Tognazzini propone que las personas resistan las reducciones 
 
 La teoría fue acuñada por el psiquiatra y pediatra alemán Hedwig von Restorff (1906-1962), quien, en su estudio de 1933, descubrió que cuando a los participantes se les presentaba una lista de elementos categóricamente similares con un elemento distintivo y aislado en la lista, memoria para El artículo fue mejorado.
 
-### **Artículos sobre el Efecto Von Restorff**
+### Artículos sobre el Efecto Von Restorff
 
 - [Psicología en el diseño (Parte 1)](https://blog.prototypr.io/psychology-in-design-part-1-cdc63229cbe4){:target="_blank" rel="nofollow,noreferrer"} por Andri Budzinskiy
 - [Los principios de psicología que todo diseñador de UI / UX necesita saber](https://blog.marvelapp.com/psychology-principles-every-uiux-designer-needs-know/){:target="_blank" rel="nofollow,noreferrer"} por Thanasis Rigopoulus
@@ -486,7 +486,7 @@ En la década de 1920 realizó un estudio sobre la memoria, en el que comparó l
 
 Más tarde comenzó a trabajar en el Instituto de Actividad Nerviosa Superior, que es donde conocería a su próxima gran influencia, Vygowski, y se convertiría en parte de su círculo de científicos. También fue allí donde Zeigarnik fundó el Departamento de Psicología.
 
-### **Artículos sobre el Efecto Zeigarnik**
+### Artículos sobre el Efecto Zeigarnik
 
 - [El efecto Zeigarnik: por qué es tan difícil dejar las cosas incompletas](https://medium.com/coffee-and-junk/design-psychology-zeigarnik-effect-a53688b7f6d1){:target="_blank" rel="nofollow,noreferrer"} por Abhishek Chakraborty
 - [Efecto Zeigarnik](http://coglode.com/gem/zeigarnik-effect){:target="_blank" rel="nofollow,noreferrer"} por 

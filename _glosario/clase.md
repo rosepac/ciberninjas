@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Clase: Definición del Término"
 description: "Clase"
 excerpt: "Palabra múltiples lenguajes de programación; por ejemplo, C# y Java."

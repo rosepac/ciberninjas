@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Navbar: Definición del Término"
 description: "Navbar"
 excerpt: "Barra de Navegación."

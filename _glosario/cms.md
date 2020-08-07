@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "CMS: Definición del Término"
 description: "CMS"
 excerpt: "Un sistema de gestión de contenido o CMS es un sistema que proporciona una colección de procedimientos utilizados para gestionar el flujo de trabajo en un entorno de colaboración."

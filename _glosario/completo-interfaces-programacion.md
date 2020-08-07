@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "🤠 Glosario API o Interfaz de Programación de Aplicaciones: Definiciones de Términos"
 description: "Glosario API o Interfaz de Programación de Aplicaciones"
 excerpt: "Glosario API o Interfaz de Programación de Aplicaciones"

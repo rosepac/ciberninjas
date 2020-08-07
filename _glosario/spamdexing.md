@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Spamdexing"
 description: "Uno de los varios métodos de manipular la relevancia o prominencia de los recursos indexados por un motor de búsqueda"
 excerpt: "Uno de los varios métodos de manipular la relevancia o prominencia de los recursos indexados por un motor de búsqueda"

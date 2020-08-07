@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Simbología: Definición del Término"
 description: "Simbología"
 excerpt: "Conjunto o sistema de símbolos."

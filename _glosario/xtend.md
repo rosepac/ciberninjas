@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Xtend: Definición del Término"
 description: "Xtend"
 excerpt: "Xtend, es un lenguaje de programación de alto nivel de propósito general para la Máquina Virtual de Java."

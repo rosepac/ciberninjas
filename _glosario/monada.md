@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Mónada: Definición del Término"
 description: "Mónada"
 excerpt: "Construcciones de programación funcional que capturan varias nociones diferentes de computación. * Término Avanzado."

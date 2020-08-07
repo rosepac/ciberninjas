@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Digresión: Definición del Término"
 description: "Digresión"
 excerpt: "Acción y efecto de romper el hilo del discurso y de introducir en él cosas que no tengan aparente relación directa con el asunto principal."

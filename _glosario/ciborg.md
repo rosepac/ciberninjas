@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Cíborg: Definición del Término"
 description: "Cíborg"
 excerpt: "Ser formado por la integración entre ser humano y máquina u otros derivados de la técnica, en sus diferentes versiones y vertientes."

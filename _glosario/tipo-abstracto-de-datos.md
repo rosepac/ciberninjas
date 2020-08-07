@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Tipo Abstracto de Datos: Definición del Término"
 description: "Un tipo de datos abstracto es el concepto amplio de un tipo de datos dado."
 excerpt: "Un tipo de datos abstracto es el concepto amplio de un tipo de datos dado."

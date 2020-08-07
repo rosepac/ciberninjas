@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Proselitista: Definición del Término"
 description: "Proselitista"
 excerpt: "Proselitista, aquel que intenta convencer y ganar seguidores o partidarios para una causa o una doctrina."

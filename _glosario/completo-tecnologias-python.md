@@ -1,5 +1,8 @@
 ---
-
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "🐍 Glosario de Tecnologías de Python: Definiciones de Términos"
 description: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción."
 excerpt: "Conoce todas las tecnologías de Python, frameworks y librerías junto a una breve descripción."
@@ -12,11 +15,6 @@ permalink: /glosario/completo-tecnologias-python/
 canonical_URL: https://ciberninjas.com/glosario/completo-tecnologias-python/
 thumbnail: /assets/img/lenguajes/python-diccionarios.webp
 feature-img: /assets/img/lenguajes/python-diccionarios.webp
-actions:
-  - label: 'Recursos Python'
-    url: '/python-recursos/'
-  - label: 'Aprender Python'
-    url: '/python/'
 ---
 <!-- https://glossarytech.com/terms/python/ -->
 [👈 Regresar al Glosario de Ciberninjas](/glosario){: .btn .btn--inverse .btn--large .align-center}

@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: false
 title: "Glosario Completo de Interfaces de Programación: Definiciones de los Términos"
 description: "Glosario Completo de Interfaces de Programación"
 excerpt: "Glosario Completo de Interfaces de Programación"

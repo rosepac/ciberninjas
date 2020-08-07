@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Clase Abstracta: Definición del Término"
 description: "Clase Abstracta"
 excerpt: "Es una clase que deja parte de sí misma sin especificar."

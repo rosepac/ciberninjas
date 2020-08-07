@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Hit: Definición del Término"
 description: "Hit"
 excerpt: "Cada solicitud de petición de cualquier tipo de archivo  realizada sobre el servidor web."

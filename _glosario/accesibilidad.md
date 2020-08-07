@@ -1,4 +1,8 @@
 ---
+author: rosepac
+bootstrap: true
+layout: post
+published: true
 title: "Accesibilidad: Definición del Término"
 description: "Accesibilidad"
 excerpt: "La accesibilidad web es la práctica inclusiva de garantizar que no existan barreras que impidan la interacción."
