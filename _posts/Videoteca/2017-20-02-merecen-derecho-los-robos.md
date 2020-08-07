@@ -5,7 +5,7 @@ title: "📹 ¿Merecen derechos los Robots?, ¿Qué pasaría si las máquinas se
 description: "¿Qué tendríamos que hacer una vez que las máquinas se vuelvan conscientes?¿Tendremos que  otorgarles derechos?"
 excerpt: "¿Qué tendríamos que hacer una vez que las máquinas se vuelvan conscientes?¿Tendremos que  otorgarles derechos?"
 comments: false
-date: 2017-02-20 08:10:02
+date: 2017-02-20
 tags:
 - Vídeo Robótica
 - Vídeo Conciencia Ciudadana

@@ -6,7 +6,7 @@ description: "Trailer de presentación del videojuego Cyberpunk 2077."
 excerpt: "Trailer de presentación del videojuego Cyberpunk 2077."
 thumbnail: https://i.ibb.co/DMm47VM/juego-cyberpunk.gif
 comments: false
-date: 2019-06-10 22:06:12
+date: 2019-06-10
 tags:
 - Trailer Videojuegos
 permalink: /cyberpunk-2077-trailer-impresionante-juego-accion/

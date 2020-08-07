@@ -5,7 +5,7 @@ title: "Billions (🎥  Serie Interesante Relacionada con los Negocios y las Fin
 description: "El trailer de la nueva serie de Billions, en la que se tratan las relaciones en el mundo de los negocios y las finanzas"
 excerpt: "El trailer de la nueva serie de Billions, en la que se tratan las relaciones en el mundo de los negocios y las finanzas"
 comments: false
-date: 2016-11-12 22:06:12
+date: 2016-11-12
 tags:
 - Trailer Series
 permalink: /trailer-billions/
