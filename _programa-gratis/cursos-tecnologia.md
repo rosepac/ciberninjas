@@ -3,8 +3,7 @@
 author: rosepac
 bootstrap: true
 comments: false
-tags:
-- Cursos Gratis
+tags: [Cursos Gratis, Cursos Programación]
 title: "🥇 Los mejores cursos de PROGRAMACIÓN e informática 2020"
 description: "Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más"
 excerpt: "Los mejores cursos gratuitos con los que aprender programación, desarrollo web, informática, inteligencia artificial y mucho más"
@@ -17,7 +16,7 @@ img: "/assets/img/blog/tecnologia-programando.webp"
 
 ---
 
-Actualmente son más de 700 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
+Más de 700 cursos, organizados por diferentes temáticas; impartidos por las Universidades de **educación digital**: como **Miriadax**, **Udemy**, **EDX** u otra plataformas de **formación abierta/MOOC** gestionadas, casi siempre, por diferentes universidades.
 
 Los cursos están creados e impartidos por entre otras universidades; la Universidad Carlos III de Madrid, la Universidad de Alicante, la Universidad de Cantabria, la Universidad de La Laguna de Tenerife, la Universidad de Málaga, la Universidad Jaime I de Castellón, la Universidad Nacional de Rosario \ Argentina, la Universidad Politécnica de Madrid, la Universidad Politécnica de Valencia..
 
@@ -52,6 +51,8 @@ Además, se agrega un apartado denominado metalistas, en el que podemos encontra
 <!-- [Cursos en Inglés]() (Hackr io) -->
 
 ### 🌐 Cursos Masivos en Línea
+
+Las mejores páginas web con las que aprender a programar totalmente gratis, y en español. 
 
 * [Cursos de Otras Temáticas](/cursos-otras-tematicas/)
 * [Cursos UNED en Abierto MOOC´s](https://iedra.uned.es/){:target="_blank" rel="nofollow,noreferrer"} (HTML)

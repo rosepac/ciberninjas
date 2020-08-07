@@ -9,8 +9,8 @@ published: true
 comments: false
 date: 2019-07-17 08:07:47
 last_modified_at: 2019-10-29T18:10:42-05:00
-permalink: /recursos/
-canonical_URL: https://ciberninjas.com/recursos/
+permalink: /herramientas/
+canonical_URL: https://ciberninjas.com/herramientas/
 thumbnail: /assets/img/paginas/herramientas-productividad.webp
 feature-img: /assets/img/paginas/herramientas-productividad.webp
 img: /assets/img/paginas/herramientas-productividad.webp

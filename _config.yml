@@ -54,7 +54,7 @@ collections:
   eff:
     output: true
     permalink: /:collection/:name
-  biblioteca:
+  programa-gratis:
     output: true
     permalink: /:collection/:name
   wiki:

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "🥇 ▷ Cómo APRENDER a Programar GRATIS en 2020: Mejores libros recomendados para programadores"
-description: "✅ Los mejores libros y herramientas para aprender a programar como un auténtico profesional"
-excerpt: "✅ Los mejores libros y herramientas para aprender a programar como un auténtico profesional"
+title: "🥇 ▷ Cómo APRENDER PROGRAMACIÓN desde Cero 2020"
+description: "🔥 Los mejores consejos, libros y recursos recomendados para programadores, diseñadores y desarrolladores web"
+excerpt: "🔥 Los mejores consejos, libros y recursos recomendados para programadores, diseñadores y desarrolladores web"
 author: rosepac
 bootstrap: true
 published: true
@@ -15,6 +15,8 @@ thumbnail: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-program
 feature-img: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp
 img: /assets/img/lenguajes_y_mas_1280x720/mejores-paginas-aprender-programacion.webp
 ---
+
+
 
 Guía completa y extensa de aprendizaje e introducción a la programación y el desarrollo web más actual. La estructura de la guía se basa en diferentes apartados que se han ido considerando importantes con el paso del tiempo, así como se ha considerado también importante incluir una extensa guía explicativa sobre todos los diferentes empleos relacionados con el ámbito tecnológico, entre otros puntos importantes; a saber.
 

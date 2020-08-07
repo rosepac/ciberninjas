@@ -1,12 +1,13 @@
 ---
 layout: page
 hide: true
-title: 'Aprender Todos los Lenguajes de Programación'
+title: '🥇 Cómo aprender cualquier lenguaje de programación 2020'
 permalink: /lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/lenguajes-programacion/
 published: true
 feature-img: /assets/img/paginas/progmb.webp
-excerpt: "Cómo aprender cada uno de los lenguajes de programación que existen ¡Entra y conviértete en un auténtico ciberninja!"
+description: "Aprende desde cero tu lenguaje de programación favorito, encuentra los mejores cursos, libros y recursos para convertirte en un profesional"
+excerpt: "Aprende desde cero tu lenguaje de programación favorito, encuentra los mejores cursos, libros y recursos para convertirte en un profesional"
 ---
 
 <!-- CAJA 1 PROGRAMACION-->

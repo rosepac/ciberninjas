@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "¿Cómo aprender todo sobre tecnología?"
-description: "Los mejores libros, recursos y herramientas para aprender programación y diseño gráfico desde cero hasta nivel experto"
-excerpt: "Los mejores libros, recursos y herramientas para aprender programación y diseño gráfico desde cero hasta nivel experto"
+title: "🥇 ▷ Cómo aprender absolutamente todo sobre lo que tu quieras online 2020"
+description: "Los mejores cursos, páginas y recursos online con los que convertirte en un auténtico maestro multidisciplinar de la tecnologia y las ciencias naturales"
+excerpt: "Los mejores cursos, páginas y recursos online con los que convertirte en un auténtico maestro multidisciplinar de la tecnologia y las ciencias naturales"
 published: true
 author: rosepac
 bootstrap: true
@@ -33,14 +33,37 @@ En esta publicación he reunido todos lo necesario para que encuentres la inspir
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
-## **¿Cómo aprender?**
+- [**¿Cómo aprender a aprender online?**](#cómo-aprender-a-aprender-online)
+- [**¿Dónde podemos aprender?**](#dónde-podemos-aprender)
+- [**Las mejores páginas de cursos del mundo**](#las-mejores-páginas-de-cursos-del-mundo)
+- [**Las mejores páginas web de vídeos para aprender**](#las-mejores-páginas-web-de-vídeos-para-aprender)
+  - [**Youtube: El mayor canal de vídeos del mundo**](#youtube-el-mayor-canal-de-vídeos-del-mundo)
+- [**Documentales**](#documentales)
+- [**Podcasts**](#podcasts)
+- [**Libros**](#libros)
+- [**Comunidades de Reddit**](#comunidades-de-reddit)
+- [**Sobre que aprender**](#sobre-que-aprender)
+  - [Habilidades Tecnológicas](#habilidades-tecnológicas)
+  - [Habilidades Creativas](#habilidades-creativas)
+  - [**Aumenta tus habilidades sociales**](#aumenta-tus-habilidades-sociales)
+  - [**Fortalece tu mente**](#fortalece-tu-mente)
+  - [El cuerpo](#el-cuerpo)
+  - [Sociedad](#sociedad)
+  - [Historia](#historia)
+  - [La Tierra](#la-tierra)
+  - [El universo](#el-universo)
+- [Construyendo tu segundo cerebro](#construyendo-tu-segundo-cerebro)
+- [Transmitir tu pensamiento a tu primer cerebro](#transmitir-tu-pensamiento-a-tu-primer-cerebro)
+- [Difunde tu conocimiento a otros cerebros](#difunde-tu-conocimiento-a-otros-cerebros)
+
+## **¿Cómo aprender a aprender online?**
 
 Existen diferentes recursos didácticos desde los que comenzar a profundizar dentro de la temática que desees aprender, desde los niveles más básicos hasta los niveles más avanzados; los cuales podríamos dividir en 6 clases: Cursos, Vídeos, Libros, Documentación, Documentales, Podcasts y Comunidades.
 
 Debemos buscar cada recurso didáctico anterior en su lugar adecuado respecto a la temática que deseemos aprender en cuestión indicada. Para ello, primero debemos de conocer exactamente lo que deseamos aprender; esto parece una tontería. Más, es bastante importante, puesto que según tu nivel inicial tendrás que enfocarte en encontrar los recursos más indicados.
 
 Si partes desde cero, casi con cualquier recursos te servirá; puesto que la mayoría de contenidos empiezan desde cero hasta niveles medios. Aunque, igualmente deberías de investigar los medios explicativos más pausados, según tu capacidad de aprendizaje. Existen personas capaces de admitir conocimientos más velozmente que otras personas que son más lentas en ese aprendizaje.
-<br>
+
 Si tu nivel es medio u avanzado y lo que deseas es profundizar muy a fondo dentro de una temática; has de tener en cuenta de que será muy importante analizar los recursos didácticos antes de iniciar con ellos, además, de qué; es más que probable, que el mejor recurso que vayas a poder encontrar sea bien la documentación oficial de lo que intentas aprender o bien, un libro técnico avanzado; que posiblemente, esté en ingles y además sea bastante caro.
 
 ## **¿Dónde podemos aprender?**
@@ -359,7 +382,7 @@ Hay mucha información por ahí, e incluso si no estás diciendo nada completame
 <div class="feature__item--left">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <a href="/catalogo/" title="El Catálogo de la Librería de Ciberninjas"><img src="/assets/img/portada/libros-apilados.webp" alt="Los mejores libros de programación, desarrollo web y tecnología del mundo"></a>
+            <a href="/biblioteca-de-programacion-y-tecnologia/" title="El Catálogo de la Librería de Ciberninjas"><img src="/assets/img/portada/libros-apilados.webp" alt="Los mejores libros de programación, desarrollo web y tecnología del mundo"></a>
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Catálogo de la Librería Ciberninjas</h2>
