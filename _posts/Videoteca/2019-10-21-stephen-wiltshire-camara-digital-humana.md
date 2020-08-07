@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "🧠 Stephen Wiltshire/: La cámara humana"
+title: "🧠 Stephen Wiltshire: La cámara humana"
 description: "Stephen Wiltshire MBE, es un artista arquitectónico británico y sabio autista, conocido por su habilidad para dibujar un paisaje de memoria después de verlo solo una vez."
 excerpt: "Stephen Wiltshire MBE, es un artista arquitectónico británico y sabio autista, conocido por su habilidad para dibujar un paisaje de memoria después de verlo solo una vez."
 comments: false

@@ -1,16 +1,17 @@
 # Icons on the footer
-rss: true
 email_address: rosepac21@gmail.com  # Full email address, e.g. "sam@example.com"
+facebook: "/groups/ciberninjas/"
+instagram: "ciberninjas"
+twitter: "ciberninjas"         # "twitter username"
+linkedin: https://www.linkedin.com/in/ciberninjas/        # Full URL
+github: "rosepac"
+rss: true
 behance:
 bitbucket:
 dribbble:
-facebook: https://www.facebook.com/groups/ciberninjas/
 flickr:
 gitlab:
-github: "rosepac"
-instagram: "ciberninjas"
 keybase:
-linkedin: https://www.linkedin.com/in/ciberninjas/        # Full URL
 pinterest:
 reddit:
 soundcloud:
@@ -18,7 +19,6 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter: "ciberninjas"         # "twitter username"
 vimeo:
 wordpress:
 youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
@@ -31,10 +31,10 @@ feed:
 share:
   facebook: true
   twitter: true
+  email: true
+  linkedin: true
   tumblr:
   pinterest:
   pocket:
   reddit:
-  linkedin: true
   wordpress:
-  email: true

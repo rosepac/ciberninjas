@@ -1,7 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
-title: "Reflexión/: Yo Denuncio al Sistema Educativo"
+title: "Reflexión: Yo Denuncio al Sistema Educativo"
 description: "Yo denuncio al Sistema Educativo, mensaje protesta contra la actual situación de los sistemas educativos y sus metodologías"
 excerpt: "Yo denuncio al Sistema Educativo, mensaje protesta contra la actual situación de los sistemas educativos y sus metodologías"
 comments: false
