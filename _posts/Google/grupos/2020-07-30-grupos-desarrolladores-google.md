@@ -44,6 +44,12 @@ Si es organizador de un grupo de la comunidad de desarrolladores, solicite acces
 <!-- https://developers.google.com/community/gdg/organizers -->
 ### **Relacionados** <!-- omit in toc -->
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[▷ ¿Cómo ser un organizador de un grupo de desarrollo de Google?](https://ciberninjas.com/gdg-organizadores-grupos/)
 
-![]("")
+[Código de conducta de los grupos de Google](https://ciberninjas.com/gdg-codigo-conducta/)
+
+[▷ ¿Qué es el programa de expertos de Google?](https://ciberninjas.com/expertos-google/)
+
+[Wikininjas: ¿Qué son los expertos de Google?](https://ciberninjas.com/wiki/gde/)
+
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}

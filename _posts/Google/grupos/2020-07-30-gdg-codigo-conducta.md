@@ -54,12 +54,19 @@ Hacer referencia al Centro de asistencia GDG para obtener más información. htt
 
 En [la publicación anterior](https://ciberninjas.com/gdg-grupos-desarrollo-google/) hemos conocido que son los grupos de desarrolladores de Google, las comunidades presenciales que Google tiene repartidas a lo largo y ancho de todo el mundo. Pero si deseas crear una comunidad por tu propia cuenta, porque en tu comunidad aún no existe. Este es tu lugar perfecto.
 
+### **Relacionados** <!-- omit in toc -->
 
 <!-- https://developers.google.com/community/gdg/organizers -->
 [🔥 Crea tu propio grupo de Desarrollo GDG de Google](https://gdg.advocu.com/home/applications/form){: .btn .btn-outline-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
 ### **Relacionados** <!-- omit in toc -->
 
-[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+[▷ ¿Qué son los grupos de desarrolladores de Google?](https://ciberninjas.com/gdg-grupos-desarrollo-google/)
 
-![]("")
+[▷ ¿Cómo ser un organizador de un grupo de desarrollo de Google?](https://ciberninjas.com/gdg-organizadores-grupos/)
+
+[▷ ¿Qué es el programa de expertos de Google?](https://ciberninjas.com/expertos-google/)
+
+[Wikininjas: ¿Qué son los expertos de Google?](https://ciberninjas.com/wiki/gde/)
+
+[🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
