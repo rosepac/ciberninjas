@@ -19,7 +19,11 @@ published: true
 
 ---
 
-Carlos Azaustre es experto en el desarrollo de aplicaciones web con Javascript y propenso creador y divulgador de videotutoriales para Youtube.
+Carlos es un ingeniero de JavaScript y un entusiasta de las tecnologías web de Madrid, España. Trabajó en start-ups, cofundó la suya propia y para empresas como Google, IBM y Eventbrite.
+
+Es Desarrollador y educador, al que le encanta compartir conocimientos con la comunidad de desarrolladores.
+
+Además, está involucrado como coorganizador de Google Cloud Developer Community Madrid, NodeSchool Madrid & ReactJS Spain.
 
 Con más de 8 de experiencia trabajando con diferentes tecnologías de desarrollo web, en su día trabajo temporalmente para Google, en la dinamización y creación de [los grupos de desarrolladores de Google](https://ciberninjas.com/gdg-grupos-desarrollo-google/) en España.
 

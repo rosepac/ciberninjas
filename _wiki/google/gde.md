@@ -38,7 +38,7 @@ En España concretamente, podemos encontrar hasta a 12+1 desarrolladores experto
 - [Carlos Azaustre](https://ciberninjas.com/gde-tecnologias-web-carlos-azaustre/) de Madrid
 - [Carlos Caballero](https://ciberninjas.com/gde-angular-carlos-caballero/) de Málaga
 - [Carlos Sánchez](https://ciberninjas.com/gde-google-cloud-carlos-sanchez/) de A Coruña
-- Debbie O´Brien de Palma de Mallorca
+- [Debbie O´Brien](https://ciberninjas.com/gde-tecnologias-web-debbie-obrien/) de Palma de Mallorca
 - [Dimitris Kapanidis](https://ciberninjas.com/gde-google-cloud-dimitris-kapanidis/) de Barcelona
 - [Javier López](https://ciberninjas.com/gde-google-cloud-javier-lopez/) de Burgos
 - [Javier Provecho](https://ciberninjas.com/gde-google-cloud-javier-provecho/) de Valladolid
@@ -57,5 +57,5 @@ En España concretamente, podemos encontrar hasta a 12+1 desarrolladores experto
 **Categorías**: Software Libre \ Redes Sociales
 {: .notice--success}
 
-**INF.**: Esta obra contiene una traducción total derivada de [Fediverse](https://en.wikipedia.org/wiki/Fediverse){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 30 de Junio de 2020, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Fediverse&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.
+**INF.**: Esta obra contiene una traducción total derivada de [Google Developer Expert](https://en.wikipedia.org/wiki/Google_Developer_Expert){:target="_blank" rel="nofollow,noreferrer"} de la Wikipedia en inglés, versión del 30 de Junio de 2020, publicada por [sus editores](https://en.wikipedia.org/w/index.php?title=Google_Developer_Expert&action=history){:target="_blank" rel="nofollow,noreferrer"} bajo la Licencia Libre de [GNU](http://www.gnu.org/licenses/licenses.html#GPL){:target="_blank" rel="nofollow,noreferrer"} [(es)](https://es.wikipedia.org/wiki/Wikipedia:Traducci%C3%B3n_no_oficial_de_la_Licencia_de_documentaci%C3%B3n_libre_de_GNU){:target="_blank" rel="nofollow,noreferrer"} y licencia [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es){:target="_blank" rel="nofollow,noreferrer"}.
 {: .notice--info}
