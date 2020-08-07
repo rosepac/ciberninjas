@@ -3,9 +3,7 @@
 author: rosepac
 bootstrap: true
 comments: false
-tags:
-- Seguridad
-- Ciberseguridad
+tags: [Seguridad, Ciberseguridad]
 thumbnail: /assets/img/2020-news/ciberseguridad-secciones.webp
 feature-img: /assets/img/2020-news/ciberseguridad-secciones.webp
 title: '▷ Itinerarios formativos sobre ciberseguridad para diferentes sectores empresariales'

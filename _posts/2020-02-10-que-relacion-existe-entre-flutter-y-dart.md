@@ -3,10 +3,8 @@
 author: rosepac
 bootstrap: true
 title: "▷ Cómo se relaciona el lenguaje de programación Dart con Flutter"
-description: >-
-  🚀 Conocer la relación que existe entre el Sdk multiplataforma de Flutter y el lenguaje de programación creado por Google, Dart
-excerpt: >-
-  🚀 Conocer la relación que existe entre el Sdk multiplataforma de Flutter y el lenguaje de programación creado por Google, Dart
+description: Conocer la relación que existe entre el Sdk multiplataforma de Flutter y el lenguaje de programación creado por Google, Dart
+excerpt: Conocer la relación que existe entre el Sdk multiplataforma de Flutter y el lenguaje de programación creado por Google, Dart
 published: true
 comments: false
 date: 2020-02-10 17:25:12

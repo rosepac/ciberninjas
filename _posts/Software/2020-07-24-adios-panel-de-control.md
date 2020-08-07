@@ -11,10 +11,8 @@ tags:
 thumbnail: /assets/img/2020-news/caract-windows-10.webp
 feature-img: /assets/img/2020-news/caract-windows-10.webp
 title: '▷ 7 Características que Windows 10 robo prestadas de Linux'
-description: >-
-  Windows 10 está constantemente agrega nuevas características, pero no todas son creadas por Microsoft. He encontrado 7 cambios que Windows implementó robados de Linux.
-excerpt: >-
-  Windows 10 está constantemente agrega nuevas características, pero no todas son creadas por Microsoft. He encontrado 7 cambios que Windows implementó robados de Linux.
+description: Windows 10 está constantemente agrega nuevas características, pero no todas son creadas por Microsoft. He encontrado 7 cambios que Windows implementó robados de Linux.
+excerpt: Windows 10 está constantemente agrega nuevas características, pero no todas son creadas por Microsoft. He encontrado 7 cambios que Windows implementó robados de Linux.
 canonical_URL: https://ciberninjas.com/caracteristicas-windows-10-robo-linux/
 permalink: /caracteristicas-windows-10-robo-linux/
 date: 2020-07-21 09:12:32

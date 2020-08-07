@@ -66,7 +66,7 @@ A pesar de todos los inconvenientes, las personas continuaron eligiendo el desar
 
 ## Flutter
 
-![Las ventajas y desventajas de trabajar con el SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/img/wallpaper/flutter/Top-Flutter-Advantages.webp "Las ventajas de flutter y aplicaciones, visto en Ciberninjas")
+![Las ventajas y desventajas de trabajar con el SDK multiplataforma de Flutter, visto en Ciberninjas](/assets/img/flutter/Top-Flutter-Advantages.webp "Las ventajas de flutter y aplicaciones, visto en Ciberninjas")
 
 Flutter ha estado disponible desde hace menos de 5 años y lanzado oficialmente desde hace menos de 3 años; pero solo comenzó a ganar visibilidad entre la comunidad de desarrollo aproximadamente desde el último año.
 

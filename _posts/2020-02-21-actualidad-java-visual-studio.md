@@ -12,10 +12,8 @@ categories:
 thumbnail: /assets/img/blog/java-visual-studio.webp
 feature-img: /assets/img/blog/java-visual-studio.webp
 title: '💻 ▷ Segunda actualización de Java para Visual Studio Code en 2020'
-description: >-
-  Mejoras y cambios insertados en el editor de texto de Visaul Studio Code respecto al uso de Java y sus librerías
-excerpt: >-
-  Mejoras y cambios insertados en el editor de texto de Visaul Studio Code respecto al uso de Java y sus librerías
+description: Mejoras y cambios insertados en el editor de texto de Visaul Studio Code respecto al uso de Java y sus librerías
+excerpt: Mejoras y cambios insertados en el editor de texto de Visaul Studio Code respecto al uso de Java y sus librerías
 canonical_URL: https://ciberninjas.com/actualidad-java-visual-studio/
 permalink: /actualidad-java-visual-studio/
 date: 2020-02-21 11:14:32

@@ -3,10 +3,7 @@
 author: rosepac
 bootstrap: true
 comments: false
-tags:
-- Herramientas
-- Linterna
-- Github
+tags: [Herramientas, Linterna, Github]
 thumbnail: /assets/img/blog/github-investigador.webp
 feature-img: /assets/img/blog/github-investigador.webp
 title: '▷ GitHub Super Linterna: Una linterna para gobernarlas a todas'
@@ -17,7 +14,6 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/github-super-linter/
 permalink: /github-super-linter/
 date: 2020-06-25 11:42:32
-last_modified_at: 
 published: true
 
 ---

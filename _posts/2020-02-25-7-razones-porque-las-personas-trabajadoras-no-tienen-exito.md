@@ -7,14 +7,11 @@ tags:
 - Reflexiones Sociedad
 thumbnail: /assets/img/blog/
 title: '💡 ▷ 7 Razones por las que las personas inteligentes y trabajadoras no tienen éxito'
-description: >-
-  ''
-excerpt: >-
-  ''
+description: ''
+excerpt: ''
 canonical_URL: https://ciberninjas.com/7-razones-porque-las-personas-trabajadoras-no-tienen-exito/
 permalink: /7-razones-porque-las-personas-trabajadoras-no-tienen-exito/
 date: 2020-02-24 00:32:32
-last_modified_at: 
 published: false
 
 ---

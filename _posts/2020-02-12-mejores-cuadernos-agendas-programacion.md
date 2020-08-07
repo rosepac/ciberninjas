@@ -3,10 +3,8 @@
 author: rosepac
 bootstrap: true
 title: "▷ Los Mejores Cuadernos y Agendas para Programadores en 2020"
-description: >-
-  Las mejores libretas y agendas específicas y personalizadas para programadores, desarrolladores y diseñadores.
-excerpt: >-
-  Las mejores libretas y agendas específicas y personalizadas para programadores, desarrolladores y diseñadores.
+description: Las mejores libretas y agendas específicas y personalizadas para programadores, desarrolladores y diseñadores.
+excerpt: Las mejores libretas y agendas específicas y personalizadas para programadores, desarrolladores y diseñadores.
 published: false
 comments: false
 date: 2020-02-12 10:31:12
