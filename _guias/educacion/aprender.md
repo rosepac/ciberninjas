@@ -189,6 +189,8 @@ Si todavía no está seguro por dónde comenzar, aquí hay un resumen de cursos 
 
 ### Habilidades Tecnológicas
 
+Considerando que nuestra web, Ciberninjas, se enfoca principalmente en fomentar el aprendizaje tecnológico online, el contenido centrado en [el aprendizaje tecnológico](https://ciberninjas.com/programa-gratis/) lo hemos agrupado en toda una sección aparte. Desde la que poder encontrar absolutamente todo lo que desees, de forma mucho más cómoda y concreta. 😻
+
 - **Codificación:** [Codeacademy](https://www.codecademy.com/){:target="_blank" rel="nofollow,noreferrer"} tiene una plataforma increíble con una opción gratuita o un plan profesional por $ 16 al mes; en Coursera, está la [Especialización de aprendizaje profundo](https://www.coursera.org/specializations/deep-learning){:target="_blank" rel="nofollow,noreferrer"} , que consta de cuatro cursos y es impartida por el cofundador de Coursera, Andrew Ng.
 - **Matemáticas:** Puedes encontrar prácticamente todo lo que quieras en [Khan Academy](https://www.khanacademy.org/math){:target="_blank" rel="nofollow,noreferrer"}. También puedes probar [Fat Chance: Probability from the Ground Up](https://www.edx.org/course/fat-chance-probability-from-the-ground-up-2){:target="_blank" rel="nofollow,noreferrer"} desde edX; o [Una introducción a las matemáticas recreativas: diversión, juegos y rompecabezas](https://www.futurelearn.com/courses/recreational-math){:target="_blank" rel="nofollow,noreferrer"}.
 

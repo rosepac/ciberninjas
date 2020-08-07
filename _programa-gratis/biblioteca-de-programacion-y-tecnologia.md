@@ -10,9 +10,11 @@ last_modified_at:
 permalink: /biblioteca-de-programacion-y-tecnologia/
 canonical_URL: https://ciberninjas.com/biblioteca-de-programacion-y-tecnologia/
 published: true
-thumbnail: "/assets/img/programar-lenguajes/chico-buscando-libro-biblioteca.webp"
-feature-img: "/assets/img/programar-lenguajes/chico-buscando-libro-biblioteca.webp"
-tags: [Libros, Repositorios]
+thumbnail: "/assets/img/chico-buscando-libro-biblioteca.jpg"
+feature-img: "/assets/img/chico-buscando-libro-biblioteca.jpg"
+tags:
+- Libros
+- Repositorios
 ---
 
 Esta es **la mejor lista de libros de programación en PDF en español del mundo**. Una completa **biblioteca recopilada de cientos** y cientos de libros en PDF que no encontrarás en ninguna parte más. 
