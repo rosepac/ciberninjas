@@ -4,6 +4,7 @@ bootstrap: true
 title: "🎧 2PAC: Uno de los raperos estadounidenses más importantes"
 description: "Tupac Amaru Shakur, fue un rapero, actor, poeta y activista estadounidense. Considerado por muchas personas como uno de los raperos más importantes de la historia."
 excerpt: "Tupac Amaru Shakur, fue un rapero, actor, poeta y activista estadounidense. Considerado por muchas personas como uno de los raperos más importantes de la historia."
+permalink: /2pac-rapero-estadounidense/
 comments: false
 date: 2019-10-11 21:38:12
 tags:

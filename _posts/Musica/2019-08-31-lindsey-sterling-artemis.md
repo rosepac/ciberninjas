@@ -4,6 +4,8 @@ bootstrap: true
 title: "🎧  Lindsey Sterling: Artemis (Crossover Clásica)"
 description: "Lindsey Sterling, es una violinista, compositora y bailarina estadounidense. Que presenta sus actuaciones coreografiadas con el violín, a través de vídeos de Youtube."
 excerpt: "Lindsey Sterling, es una violinista, compositora y bailarina estadounidense. Que presenta sus actuaciones coreografiadas con el violín, a través de vídeos de Youtube."
+permalink: /lindsey-sterling-artemis-crossover-cl%C3%A1sica/
+canonical_URL: https://ciberninjas.com
 comments: false
 date: 2019-08-31 03:50:00 +0200
 tags:
