@@ -4,6 +4,9 @@ hide: true
 title: '🥇 Cómo aprender cualquier lenguaje de programación 2020'
 permalink: /lenguajes-programacion/
 canonical_URL: https://ciberninjas.com/lenguajes-programacion/
+thumbnail: "/assets/img/programar-lenguajes/aprender-programar-programacion.webp"
+feature-img: "/assets/img/programar-lenguajes/aprender-programar-programacion.webp"
+img: "/assets/img/programar-lenguajes/aprender-programar-programacion.webp"
 published: true
 feature-img: /assets/img/paginas/progmb.webp
 description: "Aprende desde cero tu lenguaje de programación favorito, encuentra los mejores cursos, libros y recursos para convertirte en un profesional"
