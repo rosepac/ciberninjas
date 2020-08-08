@@ -1,4 +1,6 @@
 ---
+
+layout: page
 title: "🥇 ▷ Los mejores LIBROS para PROGRAMACIÓN pdf GRATIS 2020"
 description: "Los Mejores Libros PDF Gratuitos de Informática: Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
 excerpt: "Los Mejores Libros PDF Gratuitos de Informática: Programar para principiantes, Orientado a Objetos, Java, Python, Javascript, Marketing, Seguridad."
@@ -11,6 +13,7 @@ thumbnail: "/assets/img/programar-lenguajes/chico-buscando-libro-biblioteca.webp
 feature-img: "/assets/img/programar-lenguajes/chico-buscando-libro-biblioteca.webp"
 img: "/assets/img/programar-lenguajes/chico-buscando-libro-biblioteca.webp"
 tags: [Recursos Gratis, Libros Gratis, Libros Programación]
+
 ---
 
 Esta es **la mejor lista de libros de programación en PDF en español del mundo**. Una completa **biblioteca recopilada de cientos** y cientos de libros en PDF que no encontrarás en ninguna parte más. 
@@ -40,7 +43,6 @@ Sea lo que sea, lo que quieras aprender, desde aquí te vamos a lanzar al estrel
 
 [📚 Ver Todas las Bibliotecas Gratuitas 📚](/biblioteca-de-programacion-y-tecnologia/#índice-de-libros){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
-
 
 ## **Historia de los Lenguajes de Programación**
 
