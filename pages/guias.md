@@ -7,6 +7,7 @@ description: "Guías de tecnología con los que transmitir la información neces
 excerpt: "Guías de tecnología con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales."
 permalink: /guias/
 canonical_URL: https://ciberninjas.com/guias/
+order: 2
 ---
 
 Guías de brotes verdes con los que transmitir la información necesaria para aprender programación y tecnología, en muchos de los campos del mundo de las profesiones digitales.

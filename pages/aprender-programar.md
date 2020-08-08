@@ -3,6 +3,7 @@ layout: page
 title: "🥇 ▷ Cómo APRENDER PROGRAMACIÓN desde Cero 2020"
 description: "🔥 Los mejores consejos, libros y recursos recomendados para programadores, diseñadores y desarrolladores web"
 excerpt: "🔥 Los mejores consejos, libros y recursos recomendados para programadores, diseñadores y desarrolladores web"
+order: 1
 author: rosepac
 bootstrap: true
 published: true
