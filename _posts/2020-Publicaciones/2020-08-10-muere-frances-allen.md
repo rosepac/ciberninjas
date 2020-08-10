@@ -7,7 +7,7 @@ tags:
 - Historia de la Programación
 thumbnail: /assets/img/blog/frances-allen.webp
 feature-img: /assets/img/blog/frances-allen.webp
-title: '▷ Muere Frances Allen a los 88 años, la científica informática más conocida por su trabajo en el desarrollo de la compilación'
+title: '▷ Muere Frances Allen, la científica informática reconocida por su trabajo en el campo de la compilación'
 description: >-
   Frances Allen, cuyo trabajo en compilación de computadoras ayudó a sentar las bases de gran parte de la programación de computadoras moderna, murió a los 88 años. Allen estaba decidido a hacer más eficiente el tedioso proceso de compilación (convertir programas de software en unos y ceros).
 excerpt: >-
