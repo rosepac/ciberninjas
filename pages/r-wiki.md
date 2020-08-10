@@ -7,6 +7,7 @@ permalink: /wiki/
 canonical_URL: https://ciberninjas.com/wiki/
 published: true
 feature-img: /assets/img/paginas/wikininjas-test-1.jpg
+order: 3
 ---
 
 **La Wikipedia de Wikininjas** incluye **artículos recientes sin traducción al español**, principalmente de **contenido relacionado con la informática**, **la programación** y **la tecnología**.
