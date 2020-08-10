@@ -11,9 +11,7 @@ permalink: /muere-inventor-contrasenas/
 canonical_URL: https://ciberninjas.com/muere-inventor-contrasenas/
 tags:
 - Ciberseguridad
-- Contraseña
-- Inventor
-- Historia Informática
+- Historia de las Computadoras
 thumbnail: "/assets/img/2020-news/historia-seguridad-corbato-contrasena.webp"
 feature-img: "/assets/img/2020-news/historia-seguridad-corbato-contrasena.webp"
 

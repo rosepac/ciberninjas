@@ -15,7 +15,7 @@ excerpt: >-
   El esperado producto, Reels, de Instagram. Salió esta semana en más de 50 países y tiene como objetivo convertirse en uno de los mayores competidores de TikTok. Instagram tendrá que convencer a la gente de que dedique menos tiempo a TikTok y más tiempo a Instagram.
 canonical_URL: https://ciberninjas.com/reels-instagram/
 permalink: /reels-instagram/
-date: 2020-07-30 06:05:32
+date: 2020-08-10 06:05:32
 published: true
 
 ---

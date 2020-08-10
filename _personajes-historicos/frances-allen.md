@@ -1,5 +1,7 @@
 ---
-author_profile: rosepac
+author: rosepac
+bootstrap: true
+layout: post
 title: "Frances Allen"
 description: 'Frances Allen, por sus contribuciones a la optimización y compilación de programas para computadoras paralelas.'
 excerpt: 'Frances Allen, por sus contribuciones a la optimización y compilación de programas para computadoras paralelas'
