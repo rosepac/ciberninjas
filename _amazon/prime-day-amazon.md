@@ -11,9 +11,9 @@ canonical_URL: https://ciberninjas.com/prime-day-amazon/
 published: true
 comments: false
 date: 2020-09-01 10:30:00 +0200
-thumbnail: /assets/img/amazon/ciberninjas-prime-day.webp
+thumbnail: /assets/img/amazon/amazon-prime-day.gif
 feature-img: /assets/img/amazon/ciberninjas-prime-day.webp
-img: /assets/img/amazon/ciberninjas-prime-day.webp
+img: /assets/img/amazon/amazon-prime-day.gif
 
 ---
 

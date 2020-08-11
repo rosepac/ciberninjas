@@ -10,9 +10,9 @@ canonical_URL: https://ciberninjas.com/tablets-graficas/
 published: true
 comments: false
 date: 2019-11-29 22:14:00 +0200
-thumbnail: /assets/img/paginas/amazon/tablet-graficax1280.webp
+thumbnail: /assets/img/paginas/amazon/tablet-diseno-grafico.gif
 feature-img: /assets/img/paginas/amazon/tablet-graficax1280.webp
-img: /assets/img/paginas/amazon/tablet-graficax1280.webp
+img: /assets/img/paginas/amazon/tablet-diseno-grafico.gif
 ---
 
 ## HUION

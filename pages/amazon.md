@@ -1,7 +1,6 @@
 ---
 layout: page
-hide: true
-title: "Las Mejores Ofertas de Amazon durante Todo el Año"
+title: "Comprasninjas 🎁"
 description: "Las Mejores Ofertas de Amazon durante Todo el Año"
 excerpt: "Las Mejores Ofertas de Amazon durante Todo el Año"
 permalink: /amazon/
@@ -13,12 +12,12 @@ Aún es demasiado pronto para conocer **las mejores ofertas y chollos del Black 
 
 Únicamente, deberás tener en cuenta que la pandemia actual de coronavirus COVID-19 puede hacer que Amazon realice ciertos ajustes en su venta, ya que pueden existir más problemas de los habituales a la hora de gestionar un gran aumento de la demanda en sus productos.
 
+{% include amazon.html %}s
+
 Publicaré una copia de los anuncios de Amazon y los detalles más importantes de los descuentos y la gran mayoría de las ofertas, sobre el Black Friday de 2020. Además, de tratar de traer algunas de **las mejores ofertas del Prime Day 2020** o día especial para los usuarios que son [Prime en Amazon]().
 <!-- https://www.blackerfriday.com/amazon/ -->
 
 Como probablemente sepas, el Prime Day se ha retrasado en los EE. UU. y en todas las regiones del mundo (se espera que se reprograme para, posiblemente, en algún momento de Octubre). Asegúrate de volver por aquí, para conocer las últimas actualizaciones o únete a nuestro RSS para ser el primero en conocer todos los anuncios oficiales.
-
-{% include amazon.html %}
 
 [🤗 ¡Ayúdanos! 🎁 Visita Nuestro Canal de Afiliados de Amazon 🤘](https://www.amazon.es/shop/cibercursos){:target="_blank" rel="nofollow,noreferrer"}
 
