@@ -17,12 +17,9 @@ excerpt: >-
 canonical_URL: https://ciberninjas.com/javascript-6/
 permalink: /javascript-6/
 date: 2020-04-28 00:32:32
-last_modified_at: 
 published: true
 
 ---
-
-![Las mejores novedades de Javascript 6](/assets/img/blog/javascript-6.webp "Las mejores novedades de Javascript 6")
 
 JavaScript ES6 trae una nueva sintaxis y nuevas características increíbles para hacer que su código sea más moderno y más legible. Le permite escribir menos código y hacer más. ES6 nos presenta muchas características excelentes.
 
@@ -30,6 +27,29 @@ En este artículo, exploraremos cinco de estas características de ES6 y conside
 
 > 🔥 Seguro también te interesa: [mejores libros de programación](/programar/) >> [programas para desarrolladores](/mejores-sistemas-operativos-para-hackear/) >> [mejores lenguajes de programación](/15-mejores-lenguajes-programacion/) >> [portátiles para programadores]() >> [mejores auriculares para programadores](/auriculares-dise%C3%B1o/) >> [ratones verticales para trabajar](/teclados-ratones-dise%C3%B1o/) >> [componentes de PC para programadores](/ordenadores-componentes/) >> [mejores regalos 1 - 📦](/black-friday-amazon/)
 {: .notice--danger}
+
+- [**1. Literales de plantilla**](#1-literales-de-plantilla)
+  - [Cuerdas multilínea](#cuerdas-multilínea)
+  - [Sustitución de cadenas](#sustitución-de-cadenas)
+  - [Etiquetas de plantilla](#etiquetas-de-plantilla)
+- [**2. Parámetros predeterminados y de descanso**](#2-parámetros-predeterminados-y-de-descanso)
+  - [**Parámetros por defecto**](#parámetros-por-defecto)
+  - [**Parámetros de descanso**](#parámetros-de-descanso)
+  - [**Operador extendido**](#operador-extendido)
+- [**3. Funciones de flecha**](#3-funciones-de-flecha)
+  - [**Sintaxis de la función de flecha**](#sintaxis-de-la-función-de-flecha)
+  - [**Expresiones de función invocadas inmediatamente (IIFE)**](#expresiones-de-función-invocadas-inmediatamente-iife)
+  - [**Funciones de devolución de llamada**](#funciones-de-devolución-de-llamada)
+  - [**This y funciones de flecha**](#this-y-funciones-de-flecha)
+- [**4. Desestructuración**](#4-desestructuración)
+    - [Desestructuración de objetos](#desestructuración-de-objetos)
+  - [Desestructuración de matrices](#desestructuración-de-matrices)
+- [**5. Clases**](#5-clases)
+  - [**Sintaxis de clase**](#sintaxis-de-clase)
+  - [**Clases Extendidas**](#clases-extendidas)
+  - [**Miembros de clases estáticas**](#miembros-de-clases-estáticas)
+- [**Más características de Javascript 6**](#más-características-de-javascript-6)
+  - [Conclusión](#conclusión)
 
 ## **1. Literales de plantilla**
 
@@ -1226,4 +1246,4 @@ Aunque este ha sido un artículo bastante largo para seguir, creo firmemente que
 
 [▷ Deep Java Library: nuevo kit de herramientas de aprendizaje profundo para desarrolladores de Java 👨‍💻](/deep-java-libreria-herramienta-desarrolladores-aprendizaje-profundo/)
 
-<div class="fb-post" data-href="https://www.facebook.com/ciberninjas/posts/1331109157075936" data-width="850" data-show-text="true"><blockquote cite="https://developers.facebook.com/ciberninjas/posts/1331109157075936" class="fb-xfbml-parse-ignore"><p>👨‍💻 Los mejores libros con los que aprender a programar en Java y con Android, en Español</p>Publicada por <a href="https://www.facebook.com/ciberninjas/">Ciberninjas</a> en&nbsp;<a href="https://developers.facebook.com/ciberninjas/posts/1331109157075936">Martes, 3 de marzo de 2020</a></blockquote></div>
+![Las mejores novedades de Javascript 6](/assets/img/blog/javascript-6.webp "Las mejores novedades de Javascript 6")
