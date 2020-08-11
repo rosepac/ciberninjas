@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: page
 title: ▷ Bibliotecas PDF Online GRATIS, encuentra lo que deseas entre miles de novelas y repositorios gratuitos 
 description: "Miles de libros PDF gratuitos y de dominio publico, novelas clásicas, ciencia, cuentos, revistas y mucho más."
 excerpt: "Miles de libros PDF gratuitos y de dominio publico novelas clásicas, ciencia, cuentos, revistas y mucho más."
 author: rosepac
 bootstrap: true
 published: true
-comments: false
 date: 2020-05-27
 permalink: /biblioteca-novela-poesia/
 canonical_URL: https://ciberninjas.com/biblioteca-novela-poesia/
@@ -24,10 +23,10 @@ En esta página vas a poder encontrar todos los libros que necesites de literatu
 
 Encontrarás dentro de los diferentes sitios web, a todos los autores de la literatura clásica española y en español; siempre y cuando haya transcurrido cierto tiempo desde el fallecimiento del mismo, o por lo contrario, si sus obras se encuentran bajo licencias de dominio público.
 
-Omitir. Redacción de contenido, exclusivamente agregado por la mejora del posicionamiento 😉 👉 [Bibliotecas](/biblioteca-novela-poesia/#bibliotecas-online) 😀
-{: .notice--info}
+> Omitir. Redacción de contenido, exclusivamente agregado por la mejora del posicionamiento 
+😉 👉 [Bibliotecas](/biblioteca-novela-poesia/#bibliotecas-online) 😀
 
-## **Resumen**
+## **Contenido de la biblioteca clásica**
 
 Entre los muchos autores de la literatura española que te podrás encontrar, están los escritores de todas las difentes épocas históricas de lo largo y ancho de la historia de España.
 
@@ -42,7 +41,7 @@ Las influencias del modernismo, las diferentes vanguardias nacidas alrededor del
 Los autores más clásicos como: Gonzalo de Berceo, Don Juan Manuel, el Arcipreste de Hita, Fernando de Rojas, Jorge Manrique, Garcilaso de la Vega, Fray Luis de León, Cervantes, Góngora, Lope de Vega, Quevedo, Calderón de la Barca, Iriarte, Samaniego, Moratín, Jerónimo Feijoo, José Espronceda, José Zorrilla, Mariano José de Larra, Bécquer, Rosalía de Castro, Juan Valera, Benito Pérez Galdós, Leopoldo Alas Clarín, Emilia Pardo Bazán, Vicente Blasco Ibánez, Ruben Dario, Manuel Machado, Ramón Gómez de la Serna, Jorge Luis Borges, Julio Cortázar, Vargas Llosa, Gabriel García Márquez, Miguel de Unamuno, Pío Baroja, Azorín, Antonio Machado, Ramón del Valle-Inclán, Juan Ramón Jiménez, Pedro Salinas, Jorge Guillén, Gerardo Diego, García Lorca, Rafael Alberti, Luis Cernuda, Vicente Aleixandre, Miguel Hernández, León Felipe, Dámaso Alonso, Blas de Otero, Camilo José Cela, Miguel Delibes, Luis Martín Santos, Manuel Vázquez Montalbán, Eduardo Mendoza, Gloria Fuertes, Ana María Matute, Juan Benet y Gonzalo Torrente Ballester, entre otros muchos más.
 
 ### Índice <!-- omit in toc -->
-- [**Resumen**](#resumen)
+- [**Contenido de la biblioteca clásica**](#contenido-de-la-biblioteca-clásica)
 - [**La Historia de la Literatura Española**](#la-historia-de-la-literatura-española)
 - [**Literatura española en la Edad Media**](#literatura-española-en-la-edad-media)
   - [**Orígenes del latín**](#orígenes-del-latín)

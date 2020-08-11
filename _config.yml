@@ -78,6 +78,9 @@ collections:
   amazon:
     output: true
     permalink: /:collection/:name
+  biblioteca:
+    output: true
+    permalink: /:collection/:name
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge

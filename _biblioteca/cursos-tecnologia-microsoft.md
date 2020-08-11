@@ -1,12 +1,12 @@
 ---
 
-layout: post
+layout: page
 title: "▷ Cursos Múltiples de Microsoft, siguiendo diferentes rutas de aprendizaje"
-description: "👩‍🏫 Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
-excerpt: "👩‍🏫 Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
+description: "Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
+excerpt: "Módulos Catalogados por Diferentes Rutas de Aprendizaje e Intereses."
 author: rosepac
 bootstrap: true
-date: 2019-10-14T15:03:00
+date: 2020-08-11T13:03:00
 thumbnail: "/assets/img/academia-microsoft-ciberninjas.webp"
 feature-img: "/assets/img/academia-microsoft-ciberninjas.webp"
 img: "/assets/img/academia-microsoft-ciberninjas.webp"

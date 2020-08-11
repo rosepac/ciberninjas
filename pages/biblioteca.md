@@ -1,12 +1,11 @@
 ---
 layout: page
 hide: true
-title: '🗄 La Historia de los Ordenadores'
-description: '🗄 La Historia de la Computadora y Todo lo que Debes Saber Sobre la Historia de la Informática'
-excerpt: '🗄 La Historia de la Computadora y Todo lo que Debes Saber Sobre la Historia de la Informática'
-entries_layout: default
-permalink: /historia-computadora/
-canonical_URL: https://ciberninjas.com/historia-computadora/
+title: 'La Biblioteca de Libros Clásicos y Cursos sobre amplias temáticas'
+description: 'Libros y cursos con los que mejor en infinitas y variadas profesionales no relacionadas con el mundo de la tecnología'
+excerpt: 'Libros y cursos con los que mejor en infinitas y variadas profesionales no relacionadas con el mundo de la tecnología'
+permalink: /libros-profesiones-clásicas/
+canonical_URL: https://ciberninjas.com/libros-profesiones-clásicas/
 published: true
 author: rosepac
 bootstrap: true
