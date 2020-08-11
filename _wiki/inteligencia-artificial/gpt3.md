@@ -3,7 +3,6 @@ title: "GPT 3"
 description: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: GPT 3, es una máquina capaz de transformador y generar contenidos, si es preentrenado con anterioridad."
 excerpt: "👨‍💻 WikiNinjas, la Enciclopedia Informática Tecnológica Ciberninjas: GPT 3, es una máquina capaz de transformador y generar contenidos, si es preentrenado con anterioridad."
 date: 2020-08-11 14:58:30
-last_modified_at: 2019-10-11 01:40:30
 toc: true
 toc_label: "Contenidos"
 toc_icon: user-ninja
