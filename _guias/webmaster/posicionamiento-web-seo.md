@@ -164,7 +164,7 @@ Hoy, casi la gente está buscando en Google usando un dispositivo móvil. En nov
 
 Para evitar contenido no deseado en los índices de búsqueda, los webmasters pueden indicar a las arañas que no rastreen archivos o directorios seguros a través del archivo Robots.txt de especificaciones en el directorio raíz del dominio. 
 
-Además, una página puede excluirse explícitamente de la base de datos de un motor de búsqueda mediante el uso de una etiqueta Meta específica para robots comúnmente ```/< meta name= "robots" content = " noindex " />```. Cuando un motor de búsqueda visita un sitio, el archivo robots.txt ubicado en el directorio raízes el primer archivo rastreado.
+Además, una página puede excluirse explícitamente de la base de datos de un motor de búsqueda mediante el uso de una etiqueta Meta específica para robots comúnmente ```/< meta name= "robots" content = " no index " />```. Cuando un motor de búsqueda visita un sitio, el archivo robots.txt ubicado en el directorio raízes el primer archivo rastreado.
 
 El archivo robots.txt se analiza y le indica al robot qué páginas no se deben rastrear. Como un rastreador de motores de búsqueda puede mantener una copia en caché de este archivo, en ocasiones puede rastrear páginas que un webmaster no desea rastrear.
 
@@ -422,7 +422,7 @@ Si Googlebot encuentra un error al intentar acceder al archivo robots.txt de tu 
 
 ### Optimizar para el presupuesto de rastreo
 
-El presupuesto de rastreo es el número promedio de URL que Googlebot rastreará en tu sitio antes de irse, por lo que la optimización del presupuesto de rastreo garantiza que Googlebot no pierda tiempo en rastrear tus páginas sin importancia y corra el riesgo de ignorar tus páginas importantes. El presupuesto de rastreo es más importante en sitios muy grandes con decenas de miles de URL, pero nunca es una mala idea bloquear el acceso de los rastreadores al contenido que definitivamente no le importa. Solo asegúrese de no bloquear el acceso de un rastreador a las páginas en las que ha agregado otras directivas, como las etiquetas canónicas o noindex. Si Googlebot está bloqueado desde una página, no podrá ver las instrucciones en esa página.
+El presupuesto de rastreo es el número promedio de URL que Googlebot rastreará en tu sitio antes de irse, por lo que la optimización del presupuesto de rastreo garantiza que Googlebot no pierda tiempo en rastrear tus páginas sin importancia y corra el riesgo de ignorar tus páginas importantes. El presupuesto de rastreo es más importante en sitios muy grandes con decenas de miles de URL, pero nunca es una mala idea bloquear el acceso de los rastreadores al contenido que definitivamente no le importa. Solo asegúrese de no bloquear el acceso de un rastreador a las páginas en las que ha agregado otras directivas, como las etiquetas canónicas o no index. Si Googlebot está bloqueado desde una página, no podrá ver las instrucciones en esa página.
 
 [🎁 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🛒](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 
