@@ -41,7 +41,9 @@ Entonces, ¿qué nos dice esto para el Black Friday 2020? Bueno, como se mencion
 
 Los AirPods Pro de Apple están maduros en el mercado ahora, por lo que esperamos grandes descuentos allí (mucho más que la caída de $ 15 que vimos el año pasado) y el AirPods Classic podría incluso acercarse a los $ 100, lo que sería un gran ahorro y ver Apple Limpiar algo que pueda meterse en una media (bastante próspera).
 
-Sin embargo, no hay nada este año que sugiera que Instant Pot , televisores , computadoras portátiles (que también fueron enormes este año) junto con los mejores productos de marca propia de Amazon no serán las cosas que esperar para comprar en el Black Friday 2020, así que espere más de lo mismo y cronometra tus compras principales en consecuencia.
+Sin embargo, no hay nada este año que sugiera que los televisores, las computadoras portátiles (que también fueron enormes este año) junto con los mejores productos de marca propia de Amazon no serán las cosas que esperar para comprar en el Black Friday 2020, así que espere más de lo mismo y cronometra tus compras principales en consecuencia.
+<!-- https://www.techradar.com/news/black-friday-deals-2019 -->
+<!-- https://www.blackerfriday.com/?fbclid=IwAR2JTqRCr2VHTpzVmJyMKRWJGxdaV9B2MgKVnhu-kLd7KbzOt1lgHp5FIcw -->
 
 [🎄 25% EN ACCESORIOS KINDLE, FIRE Y ECHO 🎄](https://amzn.to/387xK6J){: .btn .btn--inverse .btn--x-large .align-center}
 

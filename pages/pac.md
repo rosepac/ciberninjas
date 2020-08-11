@@ -16,7 +16,7 @@ Mi _nickname_ de ciberninja: **rosepac** realmente tiene un pasado, si deseas co
 👉 Puedes encontrar algunos de mis viejos trabajos [aquí](/proyectos/) e información sobre mis gustos e intereses personajes, por [aquí](/rosepac/)
 {: .notice--warning}
 
-## **¿Quién es **Pablo Álvarez Corredera**??*
+## **¿Quién es Pablo Álvarez Corredera?**
 
 Mi nombre real, es Pablo Álvarez Corredera, abreviado PAC. Soy asturiano; en mi [página web](https://www.pabloalvarezcorredera.com "Asturias, SEO y Posicionamiento. La Biblia del Seo y Posicionamiento en Español"){:target="_blank" rel="nofollow,noreferrer"} he creado un pequeño proyecto de prueba sobre el SEO, que va en camino del fracaso..
 
@@ -283,4 +283,4 @@ Curso de 20 horas del Proyecto de Introducción para el Emprendimiento promovido
 ## Algunas Invenciones
 
 - **Arrengado**: Dícese de una persona que se siente tan bajo de energías que no es capaz de moverse del sitio aunque desea con todas sus ganas el hacerlo. Vendría a ser la suma de: arraigado + apalancado 😹
-- "¿Quieres un bar de carretera del siglo XXI? Simplemente, entra a Twitter." 🍻
+- **"¿Quieres un bar de carretera del siglo XXI? Simplemente, entra a Twitter."** 🍻
