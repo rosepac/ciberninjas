@@ -15,7 +15,7 @@ excerpt: >-
   En esta publicación el creador del Telegram, explica los 7 mitos de los que Apple se aprovecha para extraer ganancias explotando a las empresas desarrolladoras de aplicaciones para sus dispositivos móviles.
 canonical_URL: https://ciberninjas.com/apple-7-mitos/
 permalink: /apple-7-mitos/
-date: 2020-08-11 14:05:54
+date: 2020-08-11 13:05:54
 published: true
 
 ---
