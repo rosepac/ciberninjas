@@ -9,9 +9,9 @@ thumbnail: /assets/img/blog/blog-gpt3.webp
 feature-img: /assets/img/blog/blog-gpt3.webp
 title: '▷ Un blog creado a través de inteligencia artificial logra engañar a miles y miles de usuarios'
 description: >-
-  Mi blog autocreado de forma automática, a través de GPT-3 obtuvo 26 mil visitantes en 2 semanas
+  Mi blog autocreado de forma automática, a través de GPT-3 obtuvo 26 mil visitantes en 2 semanas.
 excerpt: >-
-  Mi blog autocreado de forma automática, a través de GPT-3 obtuvo 26 mil visitantes en 2 semanas
+  Mi blog autocreado de forma automática, a través de GPT-3 obtuvo 26 mil visitantes en 2 semanas.
 canonical_URL: https://ciberninjas.com/blog-creado-por-inteligencia-artificial/
 permalink: /blog-creado-por-inteligencia-artificial/
 date: 2020-08-11 14:05:32
