@@ -15,7 +15,7 @@ excerpt: >-
   Apple se enfrenta a otra queja antimonopolio en Europa, esta vez de los desarrolladores de la aplicación de mensajería encriptada Telegram.
 canonical_URL: https://ciberninjas.com/telegram-vs-apple/
 permalink: /telegram-vs-apple/
-date: 2020-08-11 13:14:46
+date: 2020-08-11 13:13:46
 published: true
 
 ---
