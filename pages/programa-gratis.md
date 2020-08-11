@@ -28,16 +28,17 @@ Sin embargo, hay cientos de recursos, [guías de programación](https://cibernin
 - [**Mejores sitios web generales de programación y plataformas de cursos gratuitas**](#mejores-sitios-web-generales-de-programación-y-plataformas-de-cursos-gratuitas)
   - [1. **FreeCodeCamp**](#1-freecodecamp)
   - [2. **Udemy**](#2-udemy)
-  - [3. **Khan Academy**](#3-khan-academy)
-  - [4. **Coursera**](#4-coursera)
-  - [5. **CodeAcademy**](#5-codeacademy)
-  - [6. **CodeWars**](#6-codewars)
-  - [7. **CodeHS**](#7-codehs)
-  - [8. **EDX**](#8-edx)
-  - [9. **El Proyecto Odin**](#9-el-proyecto-odin)
-  - [10. **Code ORG**](#10-code-org)
-  - [11. **Code Conquest**](#11-code-conquest)
-  - [**GA Dash**](#ga-dash)
+  - [3. **Uniwebsidad**](#3-uniwebsidad)
+  - [4. **Khan Academy**](#4-khan-academy)
+  - [5. **Coursera**](#5-coursera)
+  - [6. **CodeAcademy**](#6-codeacademy)
+  - [7. **CodeWars**](#7-codewars)
+  - [8. **CodeHS**](#8-codehs)
+  - [89. **EDX**](#89-edx)
+  - [10. **El Proyecto Odin**](#10-el-proyecto-odin)
+  - [11. **Code ORG**](#11-code-org)
+  - [12. **GA Dash**](#12-ga-dash)
+  - [13. **Code Conquest**](#13-code-conquest)
 - [**Los mejores blogs para ayudarte a aprender a programar**](#los-mejores-blogs-para-ayudarte-a-aprender-a-programar)
   - [**23. Blog de David Walsh**](#23-blog-de-david-walsh)
   - [**24. Tuts +**](#24-tuts-)
@@ -105,7 +106,7 @@ En el que se publican de forma constante, que ya sobrepasa las 5.000 publicacion
 
 Entre lo que más publican, se encuentran los lenguajes de programación Javascript, Java, C++ y Python; pero puedes probar a buscar cualquier otra cosa en su buscador y casi con toda seguridad, es muy posible que encuentres algo.
 
-[Visita FreeCodeCamp](https://www.freecodecamp.com/){:target="_blank" rel="nofollow,noreferrer"}
+[Visita FreeCodeCamp](https://kutt.it/freecodecamp){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 <!-- Qué es Free Code Camp https://www.freecodecamp.org/news/about/ -->
 
 ### 2. **Udemy**
@@ -118,11 +119,21 @@ Los cupones para cursos con descuento e incluso para cursos gratuitos, pueden en
 
 Si quieres encontrarlos, solamente debes [entrar en nuestra página](https://www.facebook.com/cibercursos/){:target="_blank" rel="nofollow,noreferrer"}.
 
-[Visita Udemy](https://click.linksynergy.com/deeplink?id=W9Gem8jDoic&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F){:target="_blank" rel="nofollow,noreferrer"}
+[Visita Udemy](https://kutt.it/udemy-cursos-academia){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 
 > 👷‍♂️👷‍♂️👷‍♂️ La página sigue en construcción.. 👷‍♂️👷‍♂️👷‍♂️
 
-### 3. **Khan Academy**
+### 3. **Uniwebsidad**
+
+![Página web de , visto en Ciberninjas](/assets/img/paginas/uniwebsidad.webp)
+
+Uniwebsidad, es una guía en línea gratuita derivada de la antigua "Libros Web" sobre codificación para principiantes. El sitio web, es perfecto para aquellos que no tienen ni idea de por dónde empezar. Aprender desde cero y otras recopilaciones de ciertos recursos. Uniwebsidad, ofrece guías sobre HTML, CSS, Javascript, Bootstrap, Symfony, Sass, Python, Ruby on Rails y Ajax.
+
+[Visita Uniwebsidad](https://kutt.it/uniwebsidad){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+
+### 4. **Khan Academy**
+
+![Página web de Khan Academy, visto en Ciberninjas](/assets/img/paginas/khan-academy.webp)
 
 Aunque los cursos de Khan Academy, no están tan estructurados como los de CodeHS, que enumeraré a continuación, sirven como un patio de juegos abierto tanto para principiantes como para aficionados particularmente interesados ​​en aprender dibujo, animación e interacción del usuario con las técnicas de programación.
 
@@ -130,7 +141,11 @@ Los cursos enfocados a la programación dentro de Khan Academy están enfocados 
 
 Khan Academy ofrece toneladas de materiales (como la propia web dice en su página principal "Aquí puedes aprender de todo"), incluido muchas sobre programación de computadoras; también ofrecen algunos cursos para niños más pequeños, ¡Por si quieres animar a la familia al mundo de la programación gratis!
 
-### 4. **Coursera**
+[Visita Khan Academy en español](https://kutt.it/khan-academia-espanol){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+
+### 5. **Coursera**
+
+![Página web de Coursera, visto en Ciberninjas](/assets/img/paginas/coursera.webp)
 
 Coursera es uno de los mejores lugares para aprender a programar de forma gratuita, gracias a sus amplias opciones y variedad de cursos impartidos por profesionales. La web, es una gran biblioteca de cursos en línea donde las clases son impartidas por profesores universitarios reales.
 
@@ -140,9 +155,13 @@ Los cursos son gratuitos, pero tienes la opción de pagar por un "Certificado ve
 
 A veces, pagar por un certificado también otorga acceso a contenido extra que no está disponible en las versiones gratuitas. Coursera también ofrece "Especializaciones", que son colecciones de cursos sobre un tema específico, generalmente con un proyecto final.
 
+[Visita Coursera y Comienza a Aprender](https://kutt.it/coursera-espanol){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+
 https://www.coursera.org/
 
-### 5. **CodeAcademy**
+### 6. **CodeAcademy**
+
+![Página web de , visto en Ciberninjas](/assets/img/paginas/code-academy.webp)
 
 Codecademy es donde la mayoría de las personas que son nuevas en la programación comienzan. En su plataforma, puedes aprender a programar entre otras muchas más habilidades técnicas. Su buena reputación es bien merecida.
 
@@ -152,9 +171,11 @@ Codecademy gira en torno al aprendizaje interactivo; es decir, lees un poco, y e
 
 El sitio tiene una interfaz limpia y los cursos están bien estructurados. Al visitar la página principal, puedes comenzar a programar de inmediato, a través de su motivadora consola e interfaz de pantalla.
 
-https://www.codecademy.com/
+[Visita Code Academy](https://kutt.it/code-academy){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### 6. **CodeWars**
+### 7. **CodeWars**
+
+![Página web de , visto en Ciberninjas](/assets/img/paginas/code-wars.webp)
 
 Codewars ofrece una forma divertida y única de aprender a codificar. Con un tema de artes marciales, el programa se basa en desafíos llamados "kata". Complétalos para ganar honor y avanzar a rangos más altos.
 
@@ -164,16 +185,19 @@ Los desafíos de programación que ofrece son: CoffeeScript, JavaScript, Python,
 
 Domina el idioma que prefieras o amplía tu comprensión de uno nuevo.
 
-https://www.codewars.com/
+[Visita Code Wars](https://kutt.it/code-wars){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 
-### 7. **CodeHS**
+### 8. **CodeHS**
+
+![Página web de , visto en Ciberninjas](/assets/img/paginas/codehs.webp)
 
 En este punto, todos los sitios web que lee aquí están dedicados principalmente al desarrollo web y la informática, pero CodeHS es uno con lecciones de programación de juegos simples y divertidas que involucran resolución de problemas, JavaScript, animación, estructuras de datos, diseño de juegos y desafíos de rompecabezas y mucho mucho mas.
 
-https://codehs.com/editor/sandbox/explore
+[Visita CodeHS](https://kutt.it/code-hs){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 
+### 89. **EDX**
 
-### 8. **EDX**
+![Página web de EDX, visto en Ciberninjas](/assets/img/paginas/edx.webp)
 
 EDX es un programa de educación superior de código abierto gobernado por el MIT y la universidad de Harvard, lo que lo convierte en otro recurso de alta calidad donde poder aprender a programar en línea de forma gratuita.
 
@@ -183,7 +207,11 @@ Open edX es la plataforma de código abierto que impulsa los cursos de edX y est
 
 Vas a encontrarte con cursos de programación gratuitos sobre Java, C #, Python, inteligencia artificial y muchos más.
 
-### 9. **El Proyecto Odin**
+[Visita EDX](https://kutt.it/edx-espanol){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+
+### 10. **El Proyecto Odin**
+
+![Página web de , visto en Ciberninjas](/assets/img/paginas/odin-proyecto.webp)
 
 Los guerreros de hoy en día pueden zarpar para aprender a codificar con el Proyecto Odin. Está hecho por los creadores de Thinkful, un campo de entrenamiento de codificación en línea de primer nivel, y el Proyecto Odin es su versión gratuita de código abierto.
 
@@ -193,7 +221,11 @@ No solo eso, con The Odin Project, los estudiantes también pueden trabajar para
 
 Ofrece HTML, CSS, JavaScript y jQuery, programación con Ruby, Ruby on Rails.
 
-### 10. **Code ORG**
+[Visita el Proyecto Odin](https://kutt.it/proyecto-odin){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+
+### 11. **Code ORG**
+
+![Página web de , visto en Ciberninjas](/assets/img/paginas/code-org.webp)
 
 Code.org proporciona materiales de aprendizaje específicamente dedicados a aumentar las tasas de estudiantes mujeres y de minorías que ingresan a carreras de informática.
 
@@ -201,21 +233,29 @@ Sus cursos de programación gratuitos están diseñados para estudiantes de K-12
 
 Cursos de codificación ofrecidos: HTML, CSS, JavaScript, programación por bloques.
 
+[Visita Code ORG](https://kutt.it/code-org){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+
 <!-- https://learntocodewith.me/posts/code-for-free/#html-css -->
 
-### 11. **Code Conquest**
+### 12. **GA Dash**
 
-Code Conquest es una guía en línea gratuita sobre codificación para principiantes. El sitio web de codificación es perfecto para aquellos que no tienen ni idea de por dónde empezar. Aprender cómo aprender a código, ver tutoriales gratuitos, hojas de trucos de descarga, prueba sus conocimientos con los concursos, y mucho más.
-
-HTML / CSS, JavaScript, PHP, Ruby, jQuery, Swift, Python y más
-
-### **GA Dash**
+![Página web de , visto en Ciberninjas](/assets/img/paginas/dash-assambly.webp)
 
 GA Dash, es la plataforma de aprendizaje en línea gratuita de General Assembly. Está completamente basado en la creación de proyectos: Creas un "proyecto" con cada recorrido, lo que lo hace ideal para aquellos a quienes les gusta practicar mientras aprenden a codificar en línea.
 
 En uno de los pocos recursos gratuitos para aprender a programar que tienen, ofrecen un curso sobre cómo crear una plantilla de Tumblr desde cero.
 
 Podrás elegir entre aprender HTML, CSS, JavaScript o metodologías de diseño receptivo.
+
+[Visita Dash Assambly](https://kutt.it/lenguaje-assambly){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
+
+### 13. **Code Conquest**
+
+![Página web de Code Konquest, visto en Ciberninjas](/assets/img/paginas/code-konquest.webp)
+
+Code Conquest es una guía en línea gratuita sobre codificación para principiantes. La página es perfecta para principiantes, con el único pero de que se encuentra en inglés. Aprender cómo aprender a código, ver tutoriales gratuitos, hojas de trucos de descarga, prueba sus conocimientos con los concursos, y mucho más. De todos los lenguajes siguientes: HTML / CSS, JavaScript, PHP, Ruby, jQuery, Swift, Python y más
+
+[Visita Code Konquest](https://kutt.it/code-konquest){:target="_blank" rel="nofollow,noreferrer"}{: .btn .btn-outline-dark .btn-lg .btn-block}
 
 ## **Los mejores blogs para ayudarte a aprender a programar**
 

@@ -10,9 +10,9 @@ last_modified_at: 2019-12-13T12:42:42+01:00
 permalink: /biblioteca-otras-tematicas/
 canonical_URL: https://ciberninjas.com/biblioteca-otras-tematicas/
 published: false
-thumbnail: "/assets/img/chico-buscando-libro-biblioteca.jpg"
-feature-img: "/assets/img/chico-buscando-libro-biblioteca.jpg"
-img: "/assets/img/chico-buscando-libro-biblioteca.jpg"
+thumbnail: "/assets/img/paginas/profesiones-posibles.webp"
+feature-img: "/assets/img/paginas/profesiones-posibles.webp"
+img: "/assets/img/paginas/profesiones-posibles.webp"
 
 ---
 

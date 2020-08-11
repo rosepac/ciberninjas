@@ -3,7 +3,7 @@
 author: rosepac
 bootstrap: true
 layout: page
-title: "🔥 ▷ Los Mejores Descuentos en Flash en Informática y Electrónica durante todo 2020"
+title: "🔥 ▷ Los Mejores del Prime Day 2020, en Informática y Electrónica"
 description: "📢 Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos"
 excerpt: "📢 Sigue atento las OFERTAZAS FLASH y los MEJORES PRECIOS MÍNIMOS para programadores, desarrolladores, geeks, informáticos, mecánicos y tecnólogos"
 permalink: /prime-day-amazon/

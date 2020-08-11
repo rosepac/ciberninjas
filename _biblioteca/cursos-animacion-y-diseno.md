@@ -16,9 +16,9 @@ toc: false
 # toc_label: "Contenidos"
 # toc_icon: user-ninja
 # toc_sticky: true
-thumbnail: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
-feature-img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
-img: https://i.ibb.co/phHgQ6q/collage-arte-ondas-rojas-1280.jpg
+thumbnail: "/assets/img/paginas/collage-arte-ondas-rojas-1280.webp"
+feature-img: "/assets/img/paginas/collage-arte-ondas-rojas-1280.webp"
+img: "/assets/img/paginas/collage-arte-ondas-rojas-1280.webp"
 ---
 
 [Diseño Gráfico Recursos](/cursos-animacion-diseno/){: .btn .btn--inverse .btn--large} [Aprender Diseño Gráfico](/diseño-grafico/){: .btn .btn--inverse .btn--large} [Diseño Web Recursos](/diseño-web-recursos/){: .btn .btn--inverse .btn--large} [Aprender Diseño Web](/diseño-web/){: .btn .btn--inverse .btn--large}

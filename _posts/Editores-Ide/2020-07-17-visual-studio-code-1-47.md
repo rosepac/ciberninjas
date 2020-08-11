@@ -34,6 +34,8 @@ Visual Studio Code lanza una nueva versión. En concreto, la versión 1.47, los 
 - Tutoriales de desarrollo remoto: Aprende a desarrollar sobre SSH, dentro de contenedores y en WSL.
 - Instalador de Java Pack para macOS: Prepárarte para desarrollar en Java con VS Code en macOS.
 
+A continuación vamos a ver algunas de ellas de forma más concreta y detenidamente.
+
 - [**Accesibilidad**](#accesibilidad)
 - [**Mesa de Trabajo**](#mesa-de-trabajo)
   - [Edita la configuración de objetos desde el editor de configuraciones](#edita-la-configuración-de-objetos-desde-el-editor-de-configuraciones)

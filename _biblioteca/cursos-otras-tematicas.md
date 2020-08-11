@@ -1,24 +1,16 @@
 ---
 # Página Base
 layout: post
-title: "▷ Cursos de Diferentes Temáticas 💥 100% GRATIS y en ESPAÑOL 💥! 🎓 "
+title: "▷ Cursos para todas las profesiones del futuro"
 excerpt: "🔥 Comienza a aprender sobre Agricultura, Ciencias, Cocina, Medio Ambiente, Economía, Negocios, Salud, Servicios Sociales 💥 100% GRATIS y en ESPAÑOL 💥!"
 descriptio: "🔥 Comienza a aprender sobre Agricultura, Ciencias, Cocina, Medio Ambiente, Economía, Negocios, Salud, Servicios Sociales 💥 100% GRATIS y en ESPAÑOL 💥!"
 date: 2020-01-14T12:26:00.000+01:00
 published: true
 permalink: /cursos-otras-tematicas/
 canonical_URL: https://ciberninjas.com/cursos-otras-tematicas/
-# image: 
-#   path: &image /assets/img/imac-glitch-feature.jpg
-#   width: 1024
-#   height: 512
-#   feature: *image
-# twitter:
-#   card: summary_large_image
-# toc: true
-# toc_label: "Contenidos"
-# toc_icon: user-ninja
-# toc_sticky: true
+thumbnail: "/assets/img/paginas/profesiones-posibles.webp"
+feature-img: "/assets/img/paginas/profesiones-posibles.webp"
+img: "/assets/img/paginas/profesiones-posibles.webp"
 ---
 
 [Agricultura](/cursos-otras-tematicas/#agricultura){: .btn .btn--inverse .btn--large}
