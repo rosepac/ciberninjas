@@ -2,7 +2,7 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F469‍\U0001F3EB Curso de Bases de Datos con Jap Software"
+title: "Curso de Bases de Datos con Jap Software"
 description: >-
   ▷ Aprender a programar Bases de Datos ✌️ Con el curso impartido por Jap Software
 excerpt: >-

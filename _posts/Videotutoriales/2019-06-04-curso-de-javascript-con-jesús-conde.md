@@ -4,11 +4,9 @@ bootstrap: true
 published: true
 title: "\U0001F469‍\U0001F3EB Curso de Javascript con Jesús Conde"
 description: >-
-  ▷ Aprender a programar Javascript ✌️ Con el curso impartido por Jesús Conde ⭐️
-  Uno de los más importantes innovadores españoles en formación online.
+  ▷ Aprender a programar Javascript ✌️ Con el curso impartido por Jesús Conde. Uno de los más importantes innovadores españoles en formación online.
 excerpt: >-
-  ▷ Aprender a programar Javascript ✌️ Con el curso impartido por Jesús Conde ⭐️
-  Uno de los más importantes innovadores españoles en formación online.
+  ▷ Aprender a programar Javascript ✌️ Con el curso impartido por Jesús Conde. Uno de los más importantes innovadores españoles en formación online.
 permalink: /javascript-con-jesus-conde/
 comments: false
 date: 2019-06-04 15:35:00 +0200

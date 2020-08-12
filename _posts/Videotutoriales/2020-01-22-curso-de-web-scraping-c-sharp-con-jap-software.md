@@ -2,7 +2,7 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F469‍\U0001F3EB Curso de web scraping con Jap Software"
+title: "Curso de web scraping con Jap Software"
 description: >-
   ▷ Aprende a realizar web scraping con C# ✌️ Con el curso impartido por Jap Software
 excerpt: >-

@@ -4,11 +4,9 @@ bootstrap: true
 published: true
 title: "\U0001F469‍\U0001F3EB Curso de Javascript con Píldoras Informáticas"
 description: >-
-  ▷ Aprender a programar Javascript desde cero a experto con Juan Díaz el
-  creador del Canal Píldoras Informáticas dedicado a la enseñanza informática.
+  ▷ Aprender a programar Javascript desde cero a experto con Juan Díaz el creador del Canal Píldoras Informáticas dedicado a la enseñanza informática.
 excerpt: >-
-  ▷ Aprender a programar Javascript desde cero a experto con Juan Díaz el
-  creador del Canal Píldoras Informáticas dedicado a la enseñanza informática.
+  ▷ Aprender a programar Javascript desde cero a experto con Juan Díaz el creador del Canal Píldoras Informáticas dedicado a la enseñanza informática.
 permalink: /javascript-con-pildoras-informaticas/
 comments: false
 date: 2019-06-04 15:30:00 +0200

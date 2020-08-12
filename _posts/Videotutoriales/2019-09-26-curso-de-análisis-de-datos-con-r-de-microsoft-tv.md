@@ -2,9 +2,9 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F468‍\U0001F3EB Curso de Análisis de Datos con R de Microsoft TV"
-description: "\U0001F9E0 Curso de Análisis de Datos con R de Microsoft TV"
-excerpt: "\U0001F9E0 Curso de Análisis de Datos con R de Microsoft TV"
+title: "Curso de Análisis de Datos con R de Microsoft TV"
+description: "Curso de Análisis de Datos con R de Microsoft TV"
+excerpt: "Curso de Análisis de Datos con R de Microsoft TV"
 permalink: /curso-analisis-datos-r-microsoft-tv/
 canonical_URL: 'https://ciberninjas.com/curso-analisis-datos-r-microsoft-tv/'
 comments: false

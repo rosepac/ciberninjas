@@ -2,7 +2,7 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F469‍\U0001F3EB Curso de .NET Core Framework con Jap Software"
+title: "Curso de .NET Core Framework con Jap Software"
 description: >-
   ▷ Aprender a programar .NET Core Framework ✌️ Con el curso impartido por Jap Software
 excerpt: >-

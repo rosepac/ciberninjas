@@ -2,15 +2,11 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F468‍\U0001F3EB Curso de Javascript con Falcon Masters"
+title: "Curso de Javascript con Falcon Masters"
 description: >-
-  ▷ Aprender a programar Javascript, tutorial desde cero por Carlos Arturo
-  Esparza un jovén formador creador del reconocido canal de Youtube: Falcon
-  Masters.
+  ▷ Aprender a programar Javascript, tutorial desde cero por Carlos Arturo Esparza un jovén formador creador del reconocido canal de Youtube: Falcon Masters.
 excerpt: >-
-  ▷ Aprender a programar Javascript, tutorial desde cero por Carlos Arturo
-  Esparza un jovén formador creador del reconocido canal de Youtube: Falcon
-  Masters.
+  ▷ Aprender a programar Javascript, tutorial desde cero por Carlos Arturo Esparza un jovén formador creador del reconocido canal de Youtube: Falcon Masters.
 permalink: /javascript-con-falcon-masters/
 canonical_URL: https://ciberninjas.com/javascript-con-falcon-masters/
 comments: false

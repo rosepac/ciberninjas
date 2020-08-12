@@ -2,11 +2,11 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F469‍\U0001F3EB Curso de Spring Boot con MitoCode"
+title: "Curso de Spring Boot con MitoCode"
 description: >-
-  ▷ Aprender a utilizar Spring Boot ✌️ Con el curso impartido por Mitocode ⭐️
+  ▷ Aprender a utilizar Spring Boot ✌️ Con el curso impartido por Mitocode
 excerpt: >-
-  ▷ Aprender a programar Java y utilizar el Framework Spring ✌️ Con el curso impartido por Mitocode ⭐️
+  ▷ Aprender a programar Java y utilizar el Framework Spring ✌️ Con el curso impartido por Mitocode
 permalink: /spring-boot-con-mitocode/
 comments: false
 date: 2019-12-10 18:20:00 +0200

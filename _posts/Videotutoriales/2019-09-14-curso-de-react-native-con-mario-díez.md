@@ -2,9 +2,9 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F947 Curso de React Native con Mario Díez"
-description: "\U0001F468‍\U0001F4BB ▷ Aprender a crear aplicaciones \U0001F4F2 con React Native ✌️ con Mario Díez. Conoce uno de los frameworks más importantes creador de apps móviles nativas ⭐️"
-excerpt: "\U0001F468‍\U0001F4BB ▷ Aprender a crear aplicaciones \U0001F4F2 con React Native ✌️ con Mario Díez. Conoce uno de los frameworks más importantes creador de apps móviles nativas ⭐️"
+title: "Curso de React Native con Mario Díez"
+description: "▷ Aprender a crear aplicaciones \U0001F4F2 con React Native ✌️ con Mario Díez. Conoce uno de los frameworks más importantes creador de apps móviles nativas ⭐️"
+excerpt: "▷ Aprender a crear aplicaciones \U0001F4F2 con React Native ✌️ con Mario Díez. Conoce uno de los frameworks más importantes creador de apps móviles nativas ⭐️"
 permalink: /react-native-con-mario-diez/
 comments: false
 date: 2019-09-14 06:35:00 +0200

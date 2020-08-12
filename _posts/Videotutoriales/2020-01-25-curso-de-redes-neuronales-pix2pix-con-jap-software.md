@@ -2,7 +2,7 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F469‍\U0001F3EB Curso de Redes Neuronales: pix2pix con Jap Software"
+title: "Curso de Redes Neuronales: pix2pix con Jap Software"
 description: >-
   ▷ Aprender a programar Redes Neuronales: pix2pix ✌️ Con el curso impartido por Jap Software
 excerpt: >-

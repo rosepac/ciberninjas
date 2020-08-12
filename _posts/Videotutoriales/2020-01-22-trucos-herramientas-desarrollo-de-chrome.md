@@ -2,7 +2,7 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F469‍\U0001F3EB Los Mejores Trucos con las Herramientas de Desarrollo de Chrome por Código con Juan"
+title: "Los Mejores Trucos con las Herramientas de Desarrollo de Chrome por Código con Juan"
 description: >-
   ▷ Aprende los mejores pequeños trucos para el desarrollo con Chrome con sus elementos para desarrolladores
 excerpt: >-

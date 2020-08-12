@@ -2,11 +2,11 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F469‍\U0001F3EB Curso de Spring Boot + Docker con Abel Fresnillo"
+title: "Curso de Spring Boot + Docker con Abel Fresnillo"
 description: >-
-  ▷ Aprender a utilizar Spring Boot junto a Docker ✌️ Con el curso impartido por Abel Fresnillo ⭐️
+  ▷ Aprender a utilizar Spring Boot junto a Docker ✌️ Con el curso impartido por Abel Fresnillo
 excerpt: >-
-  ▷ Aprender a utilizar Spring Boot junto a Docker ✌️ Con el curso impartido por Abel Fresnillo ⭐️
+  ▷ Aprender a utilizar Spring Boot junto a Docker ✌️ Con el curso impartido por Abel Fresnillo
 permalink: /spring-boot-docker-con-abel-fresnillo/
 comments: false
 date: 2019-12-04 17:55:00 +0200

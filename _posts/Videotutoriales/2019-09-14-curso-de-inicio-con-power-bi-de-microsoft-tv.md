@@ -2,9 +2,9 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F468‍\U0001F3EB Curso de Inicio con Power BI de Microsoft TV"
-description: "\U0001F4CA Curso de Inicio con Power BI de Microsoft TV"
-excerpt: "\U0001F4CA Curso de Inicio con Power BI de Microsoft TV"
+title: "Curso de Inicio con Power BI de Microsoft TV"
+description: "Curso de Inicio con Power BI de Microsoft TV"
+excerpt: "Curso de Inicio con Power BI de Microsoft TV"
 permalink: /curso-iniciando-power-bi-microsoft-tv/
 canonical_URL: 'https://ciberninjas.com/curso-iniciando-power-bi-microsoft-tv/'
 comments: false

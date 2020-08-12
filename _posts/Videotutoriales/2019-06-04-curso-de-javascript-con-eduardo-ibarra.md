@@ -2,15 +2,11 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F468‍\U0001F3EB Curso de Javascript con Eduardo Ibarra"
+title: "Curso de Javascript con Eduardo Ibarra"
 description: >-
-  ▷ Aprender a programar Javascript, tutorial desde cero por Eduardo Ibarra:
-  formador de frontend developers, arquitecto de software, entusiasta del
-  hardware.
+  ▷ Aprender a programar Javascript, tutorial desde cero por Eduardo Ibarra: formador de frontend developers, arquitecto de software, entusiasta del hardware.
 excerpt: >-
-  ▷ Aprender a programar Javascript, tutorial desde cero por Eduardo Ibarra:
-  formador de frontend developers, arquitecto de software, entusiasta del
-  hardware.
+  ▷ Aprender a programar Javascript, tutorial desde cero por Eduardo Ibarra: formador de frontend developers, arquitecto de software, entusiasta del hardware.
 permalink: /javascript-con-eduardo-ibarra/
 canonical_URL: https://ciberninjas.com/javascript-con-eduardo-ibarra/
 date: 2019-06-04 15:10:00 +0200

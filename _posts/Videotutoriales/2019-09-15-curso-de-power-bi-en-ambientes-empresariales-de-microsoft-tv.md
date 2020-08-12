@@ -2,9 +2,9 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F468‍\U0001F3EB Curso de Power BI en ambientes empresariales de Microsoft TV"
-description: "\U0001F4CA ⛅ Curso de Power BI en ambientes empresariales de Microsoft TV"
-excerpt: "\U0001F4CA ⛅ Curso de Power BI en ambientes empresariales de Microsoft TV"
+title: "Curso de Power BI en ambientes empresariales de Microsoft TV"
+description: "Curso de Power BI en ambientes empresariales de Microsoft TV"
+excerpt: "Curso de Power BI en ambientes empresariales de Microsoft TV"
 permalink: /curso-power-bi-ambientes-empresariales-microsoft-tv/
 canonical_URL: 'https://ciberninjas.com/curso-power-bi-ambientes-empresariales-microsoft-tv/'
 comments: false

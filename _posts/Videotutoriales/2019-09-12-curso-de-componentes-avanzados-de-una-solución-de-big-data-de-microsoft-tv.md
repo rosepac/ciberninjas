@@ -2,9 +2,9 @@
 author: rosepac
 bootstrap: true
 published: true
-title: "\U0001F468‍\U0001F3EB Curso de Componentes avanzados de una solución de Big Data de Microsoft TV"
-description: "\U0001F4C2 Curso de Componentes avanzados de una solución de Big Data de Microsoft TV"
-excerpt: "\U0001F4C2 Curso de Componentes avanzados de una solución de Big Data de Microsoft TV"
+title: "Curso de Componentes avanzados de una solución de Big Data de Microsoft TV"
+description: "Curso de Componentes avanzados de una solución de Big Data de Microsoft TV"
+excerpt: "Curso de Componentes avanzados de una solución de Big Data de Microsoft TV"
 permalink: /curso-componentes-avanzados-solucion-big-data-microsoft-tv/
 canonical_URL: >-
   https://ciberninjas.com/curso-componentes-avanzados-solucion-big-data-microsoft-tv/
