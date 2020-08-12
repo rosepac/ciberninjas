@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "\U0001F469‍\U0001F3EB Curso de patrones de diseño de software con Jap Software"
 description: >-
   ▷ Aprende a crear patrones de diseño de software ✌️ Con el curso impartido por Jap Software

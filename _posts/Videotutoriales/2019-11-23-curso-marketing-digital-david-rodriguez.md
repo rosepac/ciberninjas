@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Curso de Marketing Digital por David Rodriguez"
 description: "👨‍🏫 Curso de MArketing Digital por David Rodriguez"
 excerpt: "👨‍🏫 Curso de MArketing Digital por David Rodriguez"

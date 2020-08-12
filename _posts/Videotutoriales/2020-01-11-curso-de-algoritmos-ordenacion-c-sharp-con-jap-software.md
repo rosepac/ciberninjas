@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "\U0001F469‍\U0001F3EB Curso de Algoritmos de Ordenación con C# con Jap Software"
 description: >-
   ▷ Aprende a realizar Algoritmos de Ordenación con C# ✌️ Con el curso impartido por Jap Software

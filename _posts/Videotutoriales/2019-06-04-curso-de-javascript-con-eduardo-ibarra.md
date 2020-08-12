@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "\U0001F468‍\U0001F3EB Curso de Javascript con Eduardo Ibarra"
 description: >-
   ▷ Aprender a programar Javascript, tutorial desde cero por Eduardo Ibarra:

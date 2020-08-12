@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "🥇 Curso de React Native por Ciencia del Aprendizaje Fácil"
 description: "👨‍💻 ▷ Aprender a crear aplicaciones 📲con React Native ✌️ Uno de los frameworks más importantes de creación de aplicaciones móviles nativas ⭐️"
 excerpt: "👨‍💻 ▷ Aprender a crear aplicaciones 📲con React Native ✌️ Uno de los frameworks más importantes de creación de aplicaciones móviles nativas ⭐️"

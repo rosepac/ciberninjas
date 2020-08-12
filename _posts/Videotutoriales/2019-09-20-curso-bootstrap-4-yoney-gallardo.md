@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Curso de Bootstrap 4 por Yoney Gallardo"
 description: "👩‍🎨 Curso de Bootstrap 4 por Yoney Gallardo"
 excerpt: "👩‍🎨 Curso de Creación de Bootstrap 4 por Yoney Gallardo"

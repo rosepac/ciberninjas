@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "\U0001F469‍\U0001F3EB Curso de Android Studio con Píldoras Informáticas"
 description: "▷ Aprender a trabajar con el ⚙ Entorno de Desarrollo de Android Studio con \U0001F468‍\U0001F3EB Juan Díaz el creador \U0001F4FA del Canal Píldoras Informáticas."
 excerpt: "▷ Aprender a trabajar con el ⚙ Entorno de Desarrollo de Android Studio con \U0001F468‍\U0001F3EB Juan Díaz el creador \U0001F4FA del Canal Píldoras Informáticas."

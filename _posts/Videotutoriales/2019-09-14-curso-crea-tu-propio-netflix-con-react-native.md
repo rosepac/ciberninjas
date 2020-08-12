@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "\U0001F947 Curso: Crea tu propio Netflix con React Native con Mario Díez"
 description: "\U0001F468‍\U0001F4BB ▷ Aprender a crear una aplicación como Netflix \U0001F4F2 mediante React Native ✌️ con Mario Díez. Frameworks de creación de aplicaciones móviles nativas ⭐️"
 excerpt: "\U0001F468‍\U0001F4BB ▷ Aprender a crear una aplicación como Netflix \U0001F4F2 mediante React Native ✌️ con Mario Díez. Frameworks de creación de aplicaciones móviles nativas ⭐️"

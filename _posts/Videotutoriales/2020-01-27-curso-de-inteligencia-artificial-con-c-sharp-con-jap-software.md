@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "\U0001F469‍\U0001F3EB Curso de C# aplicado en la Inteligencia Artificial con Jap Software"
 description: >-
   ▷ Aprende a aplicar C# en la Inteligencia Artificial ✌️ Con el curso impartido por Jap Software

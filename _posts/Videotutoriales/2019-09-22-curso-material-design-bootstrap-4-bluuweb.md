@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Curso de Material Design y Boostrap 4 por Bluuweb"
 description: "👩‍🎨 Curso de Material Design y Boostrap 4 por Bluuweb"
 excerpt: "👩‍🎨 Curso de Material Design y Boostrap 4 por Bluuweb"

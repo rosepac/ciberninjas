@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Como Crear una Página Web Básica desde Cero por Purito Código"
 description: "👩‍🎨 Como Crear una Página Web Básica desde Cero por Purito Código"
 excerpt: "👩‍🎨 Como Crear una Página Web Básica desde Cero por Purito Código"

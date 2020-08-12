@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "\U0001F469‍\U0001F3EB Curso de Material Design y Android Studio con Jesús Conde"
 description: "▷ Conoce y aprende a implementar Material Design dentro de \U0001F4F2 Android Studio \U0001F463 con este curso online del formador \U0001F468‍\U0001F3EB Jesús Conde ⭐️"
 excerpt: "▷ Conoce y aprende a implementar Material Design dentro de \U0001F4F2 Android Studio \U0001F463 con este curso online del formador \U0001F468‍\U0001F3EB Jesús Conde ⭐️"

@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "\U0001F469‍\U0001F3EB Curso de Tensorflow con Jap Software"
 description: >-
   ▷ Aprende a usar Tensorflow ✌️ Con el curso impartido por Jap Software

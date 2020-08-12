@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍💻 Curso de XCode y Swift con MoureDev"
 description: "📲 Curso de XCode y Swift con MoureDev"
 excerpt: "📲 Curso de XCode y Swift con MoureDev"

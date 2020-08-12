@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "\U0001F469‍\U0001F3EB Curso de Open AI con Jap Software"
 description: >-
   ▷ Aprender a programar Open AI ✌️ Con el curso impartido por Jap Software

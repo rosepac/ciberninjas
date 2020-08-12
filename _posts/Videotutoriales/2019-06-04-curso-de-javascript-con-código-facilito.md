@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "\U0001F469‍\U0001F3EB Curso de Javascript con Código Facilito"
 description: "▷ ▷ Aprender a programar Javascript ❤️ Paso a Paso \U0001F463Vídeo a Vídeo con el Videotutorial deUriel Hernández de Código Facilito ✌️"
 excerpt: "▷ Aprender a programar Javascript ❤️ Paso a Paso \U0001F463Vídeo a Vídeo con el Videotutorial deUriel Hernández de Código Facilito ✌️"

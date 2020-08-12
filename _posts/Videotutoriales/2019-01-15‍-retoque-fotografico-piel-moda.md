@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👩‍🏫 Curso de Photoshop: Retoque Fotográfico de Piel y Moda con Kike Arnaiz"
 description: "📸 Descubre cómo cambiar el color de pelo con Photoshop, teñir el cabello de diferentes colores en unos sencillos pasos con Kike Arnaiz"
 excerpt: "📸 Descubre cómo cambiar el color de pelo con Photoshop, teñir el cabello de diferentes colores en unos sencillos pasos con Kike Arnaiz"

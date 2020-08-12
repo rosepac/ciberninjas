@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Curso de PHP 7 y MySQL por Purito Código"
 description: "👩‍🎨 Curso de PHP 7 y MySQL por Purito Código"
 excerpt: "👩‍🎨 Curso de Creación de PHP 7 y MySQL por Purito Código"

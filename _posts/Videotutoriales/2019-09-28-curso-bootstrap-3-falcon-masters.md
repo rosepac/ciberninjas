@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Curso de Bootstrap 3 con Falcon Masters"
 description: "👩‍🎨 Curso de Bootstrap 3 con Falcon Masters"
 excerpt: "👩‍🎨 Curso de Bootstrap 3 con Falcon Masters"

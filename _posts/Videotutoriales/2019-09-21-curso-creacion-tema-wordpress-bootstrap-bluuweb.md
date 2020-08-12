@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Curso de Creación de Tema Wordpress con Bootstrap por Bluuweb"
 description: "👩‍🎨 Curso de Creación de Tema Wordpress con Bootstrap por Bluuweb"
 excerpt: "👩‍🎨 Curso de Creación de Tema Wordpress con Bootstrap por Bluuweb"

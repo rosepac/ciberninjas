@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Curso de Componentes básicos de una solución de Big Data de Microsoft TV"
 description: "📂 Curso de Componentes básicos de una solución de Big Data de Microsoft TV"
 excerpt: "📂 Curso de Componentes avanzados de una solución de Big Data de Microsoft TV"

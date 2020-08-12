@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Curso de SEO Fácil e Intermedio con Romuald Fons"
 description: "🚀 Curso de SEO Fácil e Intermedio con Romuald Fons"
 excerpt: "🚀 Curso de SEO Fácil e Intermedio con Romuald Fons"

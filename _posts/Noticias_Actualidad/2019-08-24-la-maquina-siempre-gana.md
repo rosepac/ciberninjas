@@ -12,7 +12,6 @@ tags:
 thumbnail: "/assets/img/facebook-pastillas.jpg"
 feature-img: "/assets/img/facebook-pastillas.jpg"
 ---
-> 📰 💊 La Máquina Siempre Gana: Lo que impulsa nuestra adicción a las redes sociales, por [Richard Seymour](https://twitter.com/leninology)
 
 Este artículo destripa una visión poco considerada de las redes sociales, a través de una extensa comparativa entre las redes y las máquinas recreativas y de apuestas.
 
@@ -42,3 +41,5 @@ Espero que lean el artículo completo, ¡Y nunca dejen de reflexionar!
 
 [📰 Ver la Noticia Completa](https://www.theguardian.com/technology/2019/aug/23/social-media-addiction-gambling){: .btn .btn-primary .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
 [🔥 Ojea las Mejores Ofertas Ninja, ¡Actualizadas a Diario! 🎁](https://www.amazon.es/shop/cibercursos){: .btn .btn-dark .btn-lg .btn-block}{:target="_blank" rel="nofollow,noreferrer"}
+
+> 📰 💊 La Máquina Siempre Gana: Lo que impulsa nuestra adicción a las redes sociales, por [Richard Seymour](https://twitter.com/leninology)

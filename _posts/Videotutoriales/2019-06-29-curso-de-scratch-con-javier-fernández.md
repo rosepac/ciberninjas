@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Curso de Scratch con Javier Fernández"
 description: "😼 Curso de Scratch con Javier Fernández, programación para niñas / niños."
 excerpt: "😼 Curso de Scratch con Javier Fernández, programación para niñas / niños."

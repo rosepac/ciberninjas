@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "\U0001F469‍\U0001F3EB Curso de SQL con Jap Software"
 description: >-
   ▷ Aprender SQL ✌️ Con el curso impartido por Jap Software

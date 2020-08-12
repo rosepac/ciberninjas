@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Como crear galerías sencillas y varios efectos en CSS Purito Código"
 description: "👩‍🎨 Como crear galerías sencillas y varios efectos en CSS  Purito Código"
 excerpt: "👩‍🎨 Como crear galerías sencillas y varios efectos en CSS Purito Código"

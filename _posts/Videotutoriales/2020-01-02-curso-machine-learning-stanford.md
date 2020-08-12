@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍💻 Curso de Aprendizaje Automático de la Universidad de Stanford"
 description: "🤖 Curso de Aprendizaje Automático de la Universidad de Stanford"
 excerpt: "🤖 Curso de Aprendizaje Automático de la Universidad de Stanford"

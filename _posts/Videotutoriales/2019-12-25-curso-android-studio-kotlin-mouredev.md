@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍💻 Curso de Android Studio y Kotlin con MoureDev"
 description: "📲 Curso de Android Studio y Kotlin con MoureDev"
 excerpt: "📲 Curso de Android Studio y Kotlin con MoureDev"

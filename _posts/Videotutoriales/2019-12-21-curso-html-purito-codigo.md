@@ -1,6 +1,7 @@
 ---
 author: rosepac
 bootstrap: true
+published: true
 title: "👨‍🏫 Curso de HTML 5 por Purito Código"
 description: "👩‍🎨 Curso de HTML 5 por Purito Código"
 excerpt: "👩‍🎨 Curso de HTML 5 por Purito Código"
