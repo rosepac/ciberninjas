@@ -13,7 +13,7 @@ tags:
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLNdFk2_brsRdYF0FXDtSaGvluzBNHRbNe?rel=0" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLNdFk2_brsRdYF0FXDtSaGvluzBNHRbNe" allowfullscreen></iframe>
 </div><br/>
 
 [Kotlin](/cursos-tecnologia/#kotlin){: .btn .btn--inverse .btn--large .align-center}
